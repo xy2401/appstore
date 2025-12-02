@@ -5,7 +5,9 @@
       "artistViewUrl": "https://apps.apple.com/us/developer/%E5%86%B0-%E7%99%BD/id1758777719?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/40/8c/03408caf-4013-bf02-2ff2-2d9677edabaa/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/40/8c/03408caf-4013-bf02-2ff2-2d9677edabaa/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.jpg",
+      "isGameCenterEnabled": false,
       "features": [],
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -126,8 +128,6 @@
         "iPhone17-iPhone17",
         "iPhoneAir-iPhoneAir"
       ],
-      "advisories": [],
-      "isGameCenterEnabled": false,
       "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/02/13/ce/0213ce3a-7f81-7b2d-fdab-d77748779e2d/8989ed5f-5722-4fea-8815-f4e690c1aed5__U65ad_U6cd5.png/392x696bb.png",
@@ -139,10 +139,10 @@
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/40/8c/03408caf-4013-bf02-2ff2-2d9677edabaa/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/512x512bb.jpg",
-      "averageUserRating": 4.87879,
+      "contentAdvisoryRating": "17+",
       "trackCensoredName": "玄易八字",
       "trackViewUrl": "https://apps.apple.com/us/app/%E7%8E%84%E6%98%93%E5%85%AB%E5%AD%97/id1168579372?uo=4",
-      "contentAdvisoryRating": "17+",
+      "averageUserRating": 4.79412,
       "artistId": 1758777719,
       "artistName": "冰 白",
       "genres": [
@@ -150,15 +150,18 @@
         "Lifestyle"
       ],
       "price": 0.99,
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
       "genreIds": [
         "6002",
         "6012"
       ],
-      "bundleId": "lsw.lunar.calendar",
       "sellerName": "冰 白",
       "isVppDeviceBasedLicensingEnabled": true,
+      "bundleId": "lsw.lunar.calendar",
+      "releaseDate": "2016-10-25T22:00:45Z",
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
+      "trackName": "玄易八字",
+      "trackId": 1168579372,
       "currentVersionReleaseDate": "2025-03-07T16:26:03Z",
       "releaseNotes": "修复若干已知问题，优化产品体验。",
       "version": "3.0.9",
@@ -171,13 +174,10 @@
       ],
       "fileSizeBytes": "90293248",
       "formattedPrice": "$0.99",
-      "averageUserRatingForCurrentVersion": 4.87879,
-      "userRatingCountForCurrentVersion": 33,
+      "userRatingCountForCurrentVersion": 34,
       "trackContentRating": "17+",
-      "releaseDate": "2016-10-25T22:00:45Z",
-      "trackId": 1168579372,
-      "trackName": "玄易八字",
-      "userRatingCount": 33
+      "averageUserRatingForCurrentVersion": 4.79412,
+      "userRatingCount": 34
     }
   ]
 }

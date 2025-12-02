@@ -3,9 +3,16 @@
   "results": [
     {
       "isGameCenterEnabled": false,
-      "artistViewUrl": "https://apps.apple.com/us/developer/hulu-llc/id376510441?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/cd/a9/d7cda9ca-7b83-1a0d-4f93-4e46dfa9c982/HuluAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/cd/a9/d7cda9ca-7b83-1a0d-4f93-4e46dfa9c982/HuluAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+      "advisories": [
+        "Infrequent/Mild Sexual Content and Nudity",
+        "Infrequent/Mild Horror/Fear Themes",
+        "Infrequent/Mild Simulated Gambling",
+        "Infrequent/Mild Realistic Violence",
+        "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References",
+        "Infrequent/Mild Mature/Suggestive Themes",
+        "Infrequent/Mild Profanity or Crude Humor",
+        "Infrequent/Mild Cartoon or Fantasy Violence"
+      ],
       "features": [
         "iosUniversal"
       ],
@@ -129,17 +136,10 @@
         "iPhone17-iPhone17",
         "iPhoneAir-iPhoneAir"
       ],
-      "advisories": [
-        "Infrequent/Mild Profanity or Crude Humor",
-        "Infrequent/Mild Mature/Suggestive Themes",
-        "Infrequent/Mild Simulated Gambling",
-        "Infrequent/Mild Realistic Violence",
-        "Infrequent/Mild Horror/Fear Themes",
-        "Infrequent/Mild Cartoon or Fantasy Violence",
-        "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References",
-        "Infrequent/Mild Sexual Content and Nudity"
-      ],
       "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/us/developer/hulu-llc/id376510441?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/50/bd/4650bdc9-26a5-6cf3-2d88-9c1f3209bc3b/HuluAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/50/bd/4650bdc9-26a5-6cf3-2d88-9c1f3209bc3b/HuluAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/54/6f/52/546f5230-b551-5e4b-6dbc-4700b54ff95c/e1730918-c736-48bc-9708-c4eeab81762a_2208x1242bb-1.png/406x228bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5c/36/f8/5c36f8a6-976a-a3eb-7383-456e53f4b32e/4124a85c-fba8-4289-bb20-966f83e4a267_2208x1242bb-2.png/406x228bb.png",
@@ -155,47 +155,47 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/c0/c3/ffc0c386-6d80-0c6b-e9b5-d65cecfbd9fe/e66f4748-7fa1-4d71-9390-a5ecc4c8e6e5_S4.jpg/552x414bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/cd/a9/d7cda9ca-7b83-1a0d-4f93-4e46dfa9c982/HuluAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "averageUserRating": 4.5772,
-      "trackCensoredName": "Hulu: Stream TV shows & movies",
-      "formattedPrice": "Free",
-      "fileSizeBytes": "208075776",
-      "trackViewUrl": "https://apps.apple.com/us/app/hulu-stream-tv-shows-movies/id376510438?uo=4",
-      "contentAdvisoryRating": "12+",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/50/bd/4650bdc9-26a5-6cf3-2d88-9c1f3209bc3b/HuluAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "minimumOsVersion": "16.4",
-      "bundleId": "com.hulu.plus",
-      "releaseDate": "2010-06-29T18:39:25Z",
-      "releaseNotes": "In the spirit of Huluween, we squashed a few creepy crawlers and improved our app experience. No magic spells are necessary to take advantage of this killer release; just a tap of the update button will do the trick.",
+      "trackViewUrl": "https://apps.apple.com/us/app/hulu-stream-tv-shows-movies/id376510438?uo=4",
+      "trackCensoredName": "Hulu: Stream TV shows & movies",
+      "artistId": 376510441,
+      "artistName": "Hulu, LLC",
+      "genres": [
+        "Entertainment",
+        "Lifestyle"
+      ],
+      "price": 0.0,
       "genreIds": [
         "6016",
         "6012"
       ],
+      "isVppDeviceBasedLicensingEnabled": true,
+      "bundleId": "com.hulu.plus",
+      "sellerName": "Hulu, LLC",
       "trackId": 376510438,
       "trackName": "Hulu: Stream TV shows & movies",
-      "primaryGenreName": "Entertainment",
-      "primaryGenreId": 6016,
-      "sellerName": "Hulu, LLC",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2025-10-20T17:33:04Z",
-      "version": "9.19.0",
+      "releaseDate": "2010-06-29T18:39:25Z",
+      "currentVersionReleaseDate": "2025-11-18T15:02:15Z",
+      "releaseNotes": "Cozy up with our latest update where we focused on little fixes resulting in big improvements. Download Hulu today!",
+      "version": "9.21.0",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Stream the TV shows and movies you love with Hulu! Dive into thousands of TV episodes and movies and discover award-winning classics, blockbuster movies, current hits and exclusive Originals that set Hulu apart.\n\nSeize control of your entertainment with our flexible plans. Take your pick from Hulu (With Ads), Hulu (No Ads), or the ultimate Hulu + Live TV*, featuring the latest in sports, news, and events across your favorite devices.\n\n*Regional restrictions, blackouts and additional terms apply.\n\nBut wait, there's more! Hulu brings you:\n\nINDIVIDUAL RECOMMENDATIONS: Custom recommendations for a viewing experience as unique as you are\n\nPERSONALIZED PROFILES FOR ALL: Family movie night? Watch party with friends? Create up to 6 profiles, so that each family member enjoys Hulu their way\n\nSEAMLESS VIEWING EXPERIENCE: Effortlessly keep up with your favorites, so you can pick up right where you left off\nMULTI-DEVICE ACCESSIBILITY: Phone, tablet, TV, laptop. Watch Hulu anytime - at home or on the go\nSIMULTANEOUS STREAMING: Enjoy Hulu on two different screens at the same time\nPREMIUM NETWORK ACCESS: Access premium networks like MAX, Paramount+ with SHOWTIME®, CINEMAX®, and STARZ®, each available for an additional monthly fee**.\n\n**Additional terms and restrictions apply.\n\nHULU (WITH ADS)\nDive into Hulu’s vast streaming library and explore today's most-talked-about shows like The Kardashians, The Bachelor, The Handmaid’s Tale, and Abbott Elementary. Immerse yourself in Hulu's exclusive Originals, like the Emmy® nominees The Bear and Only Murders in the Building. Animation? We got you covered with Family Guy, Bob’s Burgers, Futurama, and more. \n\nHULU (NO ADS)\nOpt for Hulu (With No Ads) for an uninterrupted, ad-free streaming experience. Plus, enjoy the option to download select titles to watch offline.\n\nHULU + LIVE TV\nLive TV makes it better! Watch live and on-demand content from 95+ channels, including sports and news, all without the hassle of extra cable fees. Access endless entertainment with the entire Hulu streaming library. Don’t forget all Live TV plans include access to Disney+ and ESPN+.\n\nYou’ll be charged as a recurring transaction through your iTunes account starting at the end of your free trial, if any (unless you cancel during the free trial). Payment automatically renews unless you cancel your account at least 24 hours before the end of the current subscription month. Manage your subscription, cancel anytime, or turn off auto-renewal by accessing your iTunes account. Hulu is available to U.S. customers only.\n\nSubscriber Agreement: https://www.hulu.com/subscriber_agreement\nPrivacy Policy: https://privacy.thewaltdisneycompany.com/en/current-privacy-policy\nYour California Privacy Rights: https://www.hulu.com/ca-privacy-rights\nDo Not Sell My Personal Information: https://www.hulu.com/do-not-sell-my-info\n\nThis app features third party software which allows you to contribute to measurement statistics (e.g., Nielsen’s TV Ratings). To learn more about digital measurement products and your choices in regard to them, including opting out, please visit our privacy policy. Please see http://www.nielsen.com/digitalprivacy for more information about Nielsen measurement.\n\nWe may work with mobile advertising companies to help deliver online and in-app advertisements tailored to your interests based on your activities on our website and apps and on other, unaffiliated websites and apps. To learn more, visit www.aboutads.info. To opt-out of online interest-based advertising, visit www.aboutads.info/choices. To opt-out of cross-app advertising, download the App Choices app at www.aboutads.info/appchoices. Hulu is committed to complying with the DAA’s Self-Regulatory Principles for Online Behavioral Advertising and the DAA’s Application of Self-Regulatory Principles for the Mobile Environment.",
       "languageCodesISO2A": [
         "EN"
       ],
-      "userRatingCountForCurrentVersion": 1427949,
+      "fileSizeBytes": "208108544",
+      "formattedPrice": "Free",
+      "userRatingCountForCurrentVersion": 1428356,
       "trackContentRating": "12+",
-      "averageUserRatingForCurrentVersion": 4.5772,
+      "averageUserRating": 4.57642,
+      "averageUserRatingForCurrentVersion": 4.57642,
       "sellerUrl": "http://www.hulu.com/start",
-      "genres": [
-        "Entertainment",
-        "Lifestyle"
-      ],
-      "artistId": 376510441,
-      "artistName": "Hulu, LLC",
-      "price": 0.0,
-      "userRatingCount": 1427949
+      "contentAdvisoryRating": "12+",
+      "primaryGenreName": "Entertainment",
+      "primaryGenreId": 6016,
+      "userRatingCount": 1428356
     }
   ]
 }

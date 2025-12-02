@@ -3,10 +3,14 @@
   "results": [
     {
       "isGameCenterEnabled": false,
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/03/65/000365f4-8166-f630-bb07-777f8d744bfd/logo_sheets_2024q3_color-0-1x_U007epad-0-0-0-1-0-0-0-85-220-0.png/60x60bb.jpg",
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/03/65/000365f4-8166-f630-bb07-777f8d744bfd/logo_sheets_2024q3_color-0-1x_U007epad-0-0-0-1-0-0-0-85-220-0.png/512x512bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/03/65/000365f4-8166-f630-bb07-777f8d744bfd/logo_sheets_2024q3_color-0-1x_U007epad-0-0-0-1-0-0-0-85-220-0.png/100x100bb.jpg",
       "artistViewUrl": "https://apps.apple.com/us/developer/google/id281956209?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/06/61/460661ef-56de-e8b9-fc09-1540c1247007/logo_sheets_2024q3_color-0-1x_U007epad-0-0-0-1-0-0-0-85-220-0.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/06/61/460661ef-56de-e8b9-fc09-1540c1247007/logo_sheets_2024q3_color-0-1x_U007epad-0-0-0-1-0-0-0-85-220-0.png/100x100bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
+      "advisories": [],
+      "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/a6/32/c4/a632c4c7-cb25-6b66-5730-8eea7bf31998/c7c17b89-e9a5-4c5c-b565-d461ea168937_0_APP_IPHONE_55_0.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/16/53/55/165355a5-12eb-a0e4-9553-c154c965033d/b727c629-2330-4571-a95a-b8a73db1ded2_1_APP_IPHONE_55_1.jpg/392x696bb.jpg",
@@ -22,6 +26,7 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/9c/f5/a8/9cf5a81e-53c7-dc74-197d-c5952a22e0c0/d399afd0-5f42-4a64-90cd-be7795e5af98_4_APP_IPAD_PRO_129_4.png/576x768bb.png"
       ],
       "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/06/61/460661ef-56de-e8b9-fc09-1540c1247007/logo_sheets_2024q3_color-0-1x_U007epad-0-0-0-1-0-0-0-85-220-0.png/512x512bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -142,14 +147,36 @@
         "iPhone17-iPhone17",
         "iPhoneAir-iPhoneAir"
       ],
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [],
-      "kind": "software",
-      "sellerUrl": "http://www.google.com/sheets/about/",
-      "averageUserRating": 4.80802,
+      "minimumOsVersion": "16.0",
       "trackCensoredName": "Google Sheets",
+      "trackViewUrl": "https://apps.apple.com/us/app/google-sheets/id842849113?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.8084,
+      "artistId": 281956209,
+      "artistName": "Google",
+      "genres": [
+        "Productivity",
+        "Business"
+      ],
+      "price": 0.0,
+      "bundleId": "com.google.Sheets",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseDate": "2014-04-30T16:04:38Z",
+      "genreIds": [
+        "6007",
+        "6000"
+      ],
+      "primaryGenreName": "Productivity",
+      "primaryGenreId": 6007,
+      "trackId": 842849113,
+      "trackName": "Google Sheets",
+      "sellerName": "Google LLC",
+      "releaseNotes": "* Bug fixes and performance improvements",
+      "currentVersionReleaseDate": "2025-12-02T13:12:34Z",
+      "version": "1.2025.48102",
+      "wrapperType": "software",
+      "currency": "USD",
+      "description": "Create, edit, and collaborate on spreadsheets with the Google Sheets app. With Sheets you can:\n\n* Create new spreadsheets or edit existing ones\n* Share spreadsheets and collaborate with others in the same spreadsheet at the same time\n* Work anywhere, anytime - even offline\n* Format cells, enter/sort data, view charts, insert formulas, use find/replace, and more\n* Never worry about losing your work -- everything is automatically saved as you type\n* Open, edit, and save Excel files\n\nGoogle Sheets is part of Google Workspace: where teams of any size can chat, create, and collaborate.\n\nGoogle Workspace subscribers have access to additional Google Sheets features, including: \n* Easily add collaborators to projects, see changes as they occur, receive notifications for edits that happen while you’re away, and chat with colleagues in the same spreadsheet. All changes are automatically saved as you make them. And with offline access, you can create, view, and edit files wherever and whenever\n* Get insights fast, powered by Google AI\n* Work seamlessly across Sheets and Excel\n* Maintain control with enterprise-grade security\n* Analyze data from other business-critical tools\n* Build custom solutions",
       "languageCodesISO2A": [
         "AF",
         "AM",
@@ -218,40 +245,13 @@
         "VI",
         "ZU"
       ],
-      "fileSizeBytes": "365390848",
+      "fileSizeBytes": "361027584",
       "formattedPrice": "Free",
-      "contentAdvisoryRating": "4+",
-      "userRatingCountForCurrentVersion": 1610132,
-      "trackViewUrl": "https://apps.apple.com/us/app/google-sheets/id842849113?uo=4",
+      "userRatingCountForCurrentVersion": 1631974,
       "trackContentRating": "4+",
-      "genres": [
-        "Productivity",
-        "Business"
-      ],
-      "artistId": 281956209,
-      "artistName": "Google",
-      "price": 0.0,
-      "releaseNotes": "* Bug fixes and performance improvements",
-      "bundleId": "com.google.Sheets",
-      "genreIds": [
-        "6007",
-        "6000"
-      ],
-      "trackId": 842849113,
-      "trackName": "Google Sheets",
-      "primaryGenreName": "Productivity",
-      "primaryGenreId": 6007,
-      "releaseDate": "2014-04-30T16:04:38Z",
-      "sellerName": "Google LLC",
-      "currentVersionReleaseDate": "2025-10-28T15:10:36Z",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "version": "1.2025.43103",
-      "wrapperType": "software",
-      "currency": "USD",
-      "description": "Create, edit, and collaborate on spreadsheets with the Google Sheets app. With Sheets you can:\n\n* Create new spreadsheets or edit existing ones\n* Share spreadsheets and collaborate with others in the same spreadsheet at the same time\n* Work anywhere, anytime - even offline\n* Format cells, enter/sort data, view charts, insert formulas, use find/replace, and more\n* Never worry about losing your work -- everything is automatically saved as you type\n* Open, edit, and save Excel files\n\nGoogle Sheets is part of Google Workspace: where teams of any size can chat, create, and collaborate.\n\nGoogle Workspace subscribers have access to additional Google Sheets features, including: \n* Easily add collaborators to projects, see changes as they occur, receive notifications for edits that happen while you’re away, and chat with colleagues in the same spreadsheet. All changes are automatically saved as you make them. And with offline access, you can create, view, and edit files wherever and whenever\n* Get insights fast, powered by Google AI\n* Work seamlessly across Sheets and Excel\n* Maintain control with enterprise-grade security\n* Analyze data from other business-critical tools\n* Build custom solutions",
-      "averageUserRatingForCurrentVersion": 4.80802,
-      "minimumOsVersion": "16.0",
-      "userRatingCount": 1610132
+      "sellerUrl": "http://www.google.com/sheets/about/",
+      "averageUserRatingForCurrentVersion": 4.8084,
+      "userRatingCount": 1631974
     }
   ]
 }

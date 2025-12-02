@@ -2,10 +2,25 @@
   "resultCount": 1,
   "results": [
     {
-      "artistViewUrl": "https://apps.apple.com/us/developer/google/id281956209?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/38/e7/9038e7f7-3d48-4464-62f9-19a71e383144/logo_youtube_2024_q4_color-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220-0.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/38/e7/9038e7f7-3d48-4464-62f9-19a71e383144/logo_youtube_2024_q4_color-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220-0.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
+      "artistViewUrl": "https://apps.apple.com/us/developer/google/id281956209?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/d8/8a/31d88a82-68df-84da-3686-2d2ff511375c/logo_youtube_2024_q4_color-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220-0.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/d8/8a/31d88a82-68df-84da-3686-2d2ff511375c/logo_youtube_2024_q4_color-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220-0.png/100x100bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
+      "advisories": [
+        "Infrequent/Mild Profanity or Crude Humor",
+        "Infrequent/Mild Horror/Fear Themes",
+        "Infrequent/Mild Mature/Suggestive Themes",
+        "Infrequent/Mild Sexual Content and Nudity",
+        "Infrequent/Mild Simulated Gambling",
+        "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References",
+        "Infrequent/Mild Cartoon or Fantasy Violence",
+        "Infrequent/Mild Realistic Violence",
+        "Infrequent/Mild Medical/Treatment Information"
+      ],
+      "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/5d/12/e85d121e-8bcf-4f57-cf07-ed23b57f1b30/f1192f1f-430d-469a-b032-cdf77b8b04c7_iOS-5.5-in_1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/da/fa/2ddafabb-ad03-eda7-417f-6a22418551d0/868afd15-b2e4-4923-b0f8-c5599327a3d7_iOS-5.5-in_2.jpg/392x696bb.jpg",
@@ -26,7 +41,7 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b7/80/94/b780948a-615a-b8d7-c75e-61593d082889/iOS-iPad-Pro_2ndgen_5.jpg/576x768bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/38/e7/9038e7f7-3d48-4464-62f9-19a71e383144/logo_youtube_2024_q4_color-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220-0.png/512x512bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/d8/8a/31d88a82-68df-84da-3686-2d2ff511375c/logo_youtube_2024_q4_color-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220-0.png/512x512bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -147,26 +162,34 @@
         "iPhone17-iPhone17",
         "iPhoneAir-iPhoneAir"
       ],
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [
-        "Infrequent/Mild Cartoon or Fantasy Violence",
-        "Infrequent/Mild Horror/Fear Themes",
-        "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References",
-        "Infrequent/Mild Medical/Treatment Information",
-        "Infrequent/Mild Sexual Content and Nudity",
-        "Infrequent/Mild Realistic Violence",
-        "Infrequent/Mild Simulated Gambling",
-        "Infrequent/Mild Mature/Suggestive Themes",
-        "Infrequent/Mild Profanity or Crude Humor"
-      ],
-      "kind": "software",
-      "averageUserRating": 4.68015,
+      "minimumOsVersion": "16.0",
       "trackCensoredName": "YouTube",
       "trackViewUrl": "https://apps.apple.com/us/app/youtube/id544007664?uo=4",
       "contentAdvisoryRating": "12+",
-      "sellerUrl": "https://www.youtube.com",
+      "averageUserRating": 4.67973,
+      "genres": [
+        "Photo & Video",
+        "Entertainment"
+      ],
+      "price": 0.0,
+      "bundleId": "com.google.ios.youtube",
+      "releaseDate": "2012-09-11T07:23:19Z",
+      "trackId": 544007664,
+      "trackName": "YouTube",
+      "currentVersionReleaseDate": "2025-11-24T00:06:27Z",
+      "primaryGenreName": "Photo & Video",
+      "primaryGenreId": 6008,
+      "sellerName": "Google LLC",
+      "genreIds": [
+        "6008",
+        "6016"
+      ],
+      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseNotes": "Fixed bugs, improved performance, drank way too much coffee.",
+      "version": "20.47.3",
+      "wrapperType": "software",
+      "currency": "USD",
+      "description": "Get the official YouTube app on iPhones and iPads. See what the world is watching -- from the hottest music videos to what’s popular in gaming, fashion, beauty, news, learning and more. Subscribe to channels you love, create content of your own, share with friends, and watch on any device.\n\nWatch and subscribe\n● Browse personal recommendations on Home\n● See the latest from your favorite channels in Subscriptions\n● Look up videos you’ve watched, liked, and saved for later in Library\n\nExplore different topics, what’s popular, and on the rise (available in select countries)\n● Stay up to date on what’s popular in music, gaming, beauty, news, learning and more\n● See what’s trending on YouTube and around the world on Explore\n● Learn about the coolest Creators, Gamers, and Artists on the Rise (available in select countries)\n\nConnect with the YouTube community\n● Keep up with your favorites creators with Posts, Stories, Premieres, and Live streams\n● Join the conversation with comments and interact with creators and other community members\n\nCreate content from your mobile device\n● Create or upload your own videos directly in the app\n● Engage with your audience in real time with live streaming right from the app\n\nFind the experience that fits you and your family (available in select countries)\n● Every family has their own approach to online video. Learn about your options: the YouTube Kids app or a new parent supervised experience on YouTube at youtube.com/myfamily\n\nSupport creators you love with channel memberships (available in select countries)\n● Join channels that offer paid monthly memberships and support their work\n● Get access to exclusive perks from the channel & become part of their members community\n● Stand out in comments and live chats with a loyalty badge next to your username\n\nUpgrade to YouTube Premium (available in select countries)\n● Watch videos uninterrupted by ads, while using other apps, or when the screen is locked\n● Save videos for when you really need them – like when you’re on a plane or commuting\n● Get access to YouTube Music Premium as part of your benefits\n\nNote: If you subscribe via Apple, payment will be charged to App Store Account at confirmation of purchase. Subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period. Account will be charged for renewal within 24 hours prior to the end of the current period at the rate of the selected plan. Subscriptions and auto-renewal may be managed by going to Account Settings after purchase.\n\nYouTube paid service terms: https://www.youtube.com/t/terms_paidservice.\nPrivacy policy: https://www.google.com/policies/privacy",
       "languageCodesISO2A": [
         "AF",
         "SQ",
@@ -241,38 +264,15 @@
         "VI",
         "ZU"
       ],
-      "fileSizeBytes": "342324224",
-      "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 44337706,
       "trackContentRating": "12+",
-      "averageUserRatingForCurrentVersion": 4.68015,
+      "sellerUrl": "https://www.youtube.com",
+      "averageUserRatingForCurrentVersion": 4.67973,
+      "userRatingCountForCurrentVersion": 44808440,
+      "formattedPrice": "Free",
+      "fileSizeBytes": "345497600",
       "artistId": 281956209,
       "artistName": "Google",
-      "genres": [
-        "Photo & Video",
-        "Entertainment"
-      ],
-      "price": 0.0,
-      "releaseDate": "2012-09-11T07:23:19Z",
-      "bundleId": "com.google.ios.youtube",
-      "trackId": 544007664,
-      "trackName": "YouTube",
-      "primaryGenreName": "Photo & Video",
-      "primaryGenreId": 6008,
-      "genreIds": [
-        "6008",
-        "6016"
-      ],
-      "sellerName": "Google LLC",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseNotes": "Fixed bugs, improved performance, took the afternoon off.",
-      "currentVersionReleaseDate": "2025-10-30T14:37:33Z",
-      "version": "20.43.3",
-      "wrapperType": "software",
-      "currency": "USD",
-      "description": "Get the official YouTube app on iPhones and iPads. See what the world is watching -- from the hottest music videos to what’s popular in gaming, fashion, beauty, news, learning and more. Subscribe to channels you love, create content of your own, share with friends, and watch on any device.\n\nWatch and subscribe\n● Browse personal recommendations on Home\n● See the latest from your favorite channels in Subscriptions\n● Look up videos you’ve watched, liked, and saved for later in Library\n\nExplore different topics, what’s popular, and on the rise (available in select countries)\n● Stay up to date on what’s popular in music, gaming, beauty, news, learning and more\n● See what’s trending on YouTube and around the world on Explore\n● Learn about the coolest Creators, Gamers, and Artists on the Rise (available in select countries)\n\nConnect with the YouTube community\n● Keep up with your favorites creators with Posts, Stories, Premieres, and Live streams\n● Join the conversation with comments and interact with creators and other community members\n\nCreate content from your mobile device\n● Create or upload your own videos directly in the app\n● Engage with your audience in real time with live streaming right from the app\n\nFind the experience that fits you and your family (available in select countries)\n● Every family has their own approach to online video. Learn about your options: the YouTube Kids app or a new parent supervised experience on YouTube at youtube.com/myfamily\n\nSupport creators you love with channel memberships (available in select countries)\n● Join channels that offer paid monthly memberships and support their work\n● Get access to exclusive perks from the channel & become part of their members community\n● Stand out in comments and live chats with a loyalty badge next to your username\n\nUpgrade to YouTube Premium (available in select countries)\n● Watch videos uninterrupted by ads, while using other apps, or when the screen is locked\n● Save videos for when you really need them – like when you’re on a plane or commuting\n● Get access to YouTube Music Premium as part of your benefits\n\nNote: If you subscribe via Apple, payment will be charged to App Store Account at confirmation of purchase. Subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period. Account will be charged for renewal within 24 hours prior to the end of the current period at the rate of the selected plan. Subscriptions and auto-renewal may be managed by going to Account Settings after purchase.\n\nYouTube paid service terms: https://www.youtube.com/t/terms_paidservice.\nPrivacy policy: https://www.google.com/policies/privacy",
-      "minimumOsVersion": "16.0",
-      "userRatingCount": 44337706
+      "userRatingCount": 44808440
     }
   ]
 }

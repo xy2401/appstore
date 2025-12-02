@@ -2,13 +2,14 @@
   "resultCount": 1,
   "results": [
     {
+      "screenshotUrls": [],
+      "ipadScreenshotUrls": [],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/e4/3c/dde43ce3-7a1a-c42b-6a1d-a2045a7bf843/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
       "isGameCenterEnabled": false,
       "artistViewUrl": "https://apps.apple.com/us/developer/autonavi-information-technology-co-ltd/id300625629?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/b4/2b/39b42b2b-565a-9119-9044-cff0ca5d46d2/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/b4/2b/39b42b2b-565a-9119-9044-cff0ca5d46d2/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/e4/3c/dde43ce3-7a1a-c42b-6a1d-a2045a7bf843/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/e4/3c/dde43ce3-7a1a-c42b-6a1d-a2045a7bf843/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.jpg",
       "supportedDevices": [
         "MacDesktop-MacDesktop",
         "iPhone5s-iPhone5s",
@@ -131,54 +132,53 @@
         "iPhone17-iPhone17",
         "iPhoneAir-iPhoneAir"
       ],
+      "features": [
+        "iosUniversal"
+      ],
       "advisories": [],
       "kind": "software",
-      "screenshotUrls": [],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/b4/2b/39b42b2b-565a-9119-9044-cff0ca5d46d2/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
-      "ipadScreenshotUrls": [],
-      "averageUserRating": 4.74172,
-      "trackCensoredName": "AMap Global",
-      "trackViewUrl": "https://apps.apple.com/us/app/amap-global/id461703208?uo=4",
-      "contentAdvisoryRating": "4+",
-      "artistId": 300625629,
-      "artistName": "AutoNavi Information Technology Co. Ltd.",
-      "genres": [
-        "Navigation",
-        "Lifestyle"
-      ],
-      "price": 0.0,
-      "releaseDate": "2011-09-08T22:19:39Z",
-      "bundleId": "com.autonavi.amap",
-      "trackName": "AMap Global",
-      "trackId": 461703208,
-      "releaseNotes": "-3D lane-level views & traffic light countdown\n-Get real-time traffic updates & ETAs\n-Detail junction views, never miss a turn \n-See real time transit info and route options",
-      "genreIds": [
-        "6010",
-        "6012"
-      ],
-      "primaryGenreName": "Navigation",
-      "primaryGenreId": 6010,
-      "sellerName": "AutoNavi Information Technology Co. Ltd.",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "version": "16.3.0",
-      "wrapperType": "software",
-      "currency": "USD",
-      "description": "China's first English map for overseas users has officially launched!\nThe Choice of 800 Million Navigation Users. \nOver 200 countries and territories mapped and hundreds of millions of places on the map. \nExploring China with AMAP as your guide!\n\n-3D lane-level views & traffic light countdown\n-Get real-time traffic updates & ETAs\n-Detail junction views, never miss a turn \n-See real time transit info and route options",
+      "averageUserRatingForCurrentVersion": 4.74128,
+      "sellerUrl": "http://www.amap.com/",
       "languageCodesISO2A": [
         "EN",
         "ZH",
         "ZH"
       ],
-      "fileSizeBytes": "330255360",
+      "fileSizeBytes": "330678272",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 58475,
+      "userRatingCountForCurrentVersion": 58607,
       "trackContentRating": "4+",
-      "sellerUrl": "http://www.amap.com/",
-      "averageUserRatingForCurrentVersion": 4.74172,
+      "averageUserRating": 4.74128,
+      "trackCensoredName": "AMap Global",
+      "trackViewUrl": "https://apps.apple.com/us/app/amap-global/id461703208?uo=4",
+      "contentAdvisoryRating": "4+",
       "minimumOsVersion": "11.0",
-      "currentVersionReleaseDate": "2025-10-29T03:05:01Z",
-      "userRatingCount": 58475
+      "trackId": 461703208,
+      "trackName": "AMap Global",
+      "genres": [
+        "Navigation",
+        "Lifestyle"
+      ],
+      "artistId": 300625629,
+      "artistName": "AutoNavi Information Technology Co. Ltd.",
+      "bundleId": "com.autonavi.amap",
+      "releaseDate": "2011-09-08T22:19:39Z",
+      "primaryGenreName": "Navigation",
+      "primaryGenreId": 6010,
+      "genreIds": [
+        "6010",
+        "6012"
+      ],
+      "sellerName": "AutoNavi Information Technology Co. Ltd.",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2025-11-25T06:03:29Z",
+      "releaseNotes": "-3D lane-level views & traffic light countdown\n-Get real-time traffic updates & ETAs\n-Detail junction views, never miss a turn \n-See real time transit info and route options",
+      "version": "16.6.1",
+      "wrapperType": "software",
+      "currency": "USD",
+      "description": "China's first English map for overseas users has officially launched!\nThe Choice of 800 Million Navigation Users. \nOver 200 countries and territories mapped and hundreds of millions of places on the map. \nExploring China with AMAP as your guide!\n\n-3D lane-level views & traffic light countdown\n-Get real-time traffic updates & ETAs\n-Detail junction views, never miss a turn \n-See real time transit info and route options",
+      "price": 0.0,
+      "userRatingCount": 58607
     }
   ]
 }

@@ -3,18 +3,10 @@
   "results": [
     {
       "artistViewUrl": "https://apps.apple.com/us/developer/%E5%B4%87%E6%A1%82-%E9%99%88/id1808932128?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/dd/9a/23dd9a4b-775d-c7cf-ed4f-e7c67f299e98/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/dd/9a/23dd9a4b-775d-c7cf-ed4f-e7c67f299e98/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
-      "advisories": [],
       "features": [
         "iosUniversal"
       ],
-      "kind": "software",
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/dd/9a/23dd9a4b-775d-c7cf-ed4f-e7c67f299e98/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "screenshotUrls": [],
-      "ipadScreenshotUrls": [],
-      "appletvScreenshotUrls": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -135,37 +127,17 @@
         "iPhone17-iPhone17",
         "iPhoneAir-iPhoneAir"
       ],
+      "advisories": [],
+      "kind": "software",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/a8/88/d6a88885-dea4-efa4-9aa0-b220e679a03a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/a8/88/d6a88885-dea4-efa4-9aa0-b220e679a03a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+      "screenshotUrls": [],
+      "ipadScreenshotUrls": [],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/a8/88/d6a88885-dea4-efa4-9aa0-b220e679a03a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "minimumOsVersion": "18.0",
       "averageUserRating": 0,
       "trackCensoredName": "PreRecCam",
-      "trackViewUrl": "https://apps.apple.com/us/app/prereccam/id6744694923?uo=4",
-      "contentAdvisoryRating": "4+",
-      "releaseDate": "2025-05-06T07:00:00Z",
-      "price": 7.99,
-      "currentVersionReleaseDate": "2025-10-09T16:56:43Z",
-      "trackId": 6744694923,
-      "trackName": "PreRecCam",
-      "sellerName": "崇桂 陈",
-      "bundleId": "com.adamochen.PreRecCam",
-      "primaryGenreName": "Photo & Video",
-      "primaryGenreId": 6008,
-      "releaseNotes": "- Experience optimization",
-      "genreIds": [
-        "6008"
-      ],
-      "isVppDeviceBasedLicensingEnabled": true,
-      "version": "1.0.58",
-      "wrapperType": "software",
-      "currency": "USD",
-      "description": "- Offline Voice Control. Works in no-signal areas & power-saving flight mode. Volume button control.\n- Adjustable Pre-Recording Time. 5-120s multi-level settings.\n- Screen-off Time-lapse Recording Saves 40% battery (tested).\n- Anti-Shake Levels. Auto / Standard / Smooth / Enhanced.\n- Lens Selection. Front / Ultra-Wide / Wide / Telephoto.\n- Resolution & Frame Rate. Up to 4K 60fps.\n- HDR & Single-Lens Zoom\n- Recording Sound Toggle\n- Auto Continuous Recording\n- Starts next pre-record immediately (requires app in foreground for saving, perfect for non-stop fishing action).",
-      "minimumOsVersion": "18.0",
-      "averageUserRatingForCurrentVersion": 0,
-      "languageCodesISO2A": [
-        "EN",
-        "ZH",
-        "ZH"
-      ],
-      "fileSizeBytes": "1695744",
-      "formattedPrice": "$7.99",
       "userRatingCountForCurrentVersion": 0,
       "trackContentRating": "4+",
       "artistId": 1808932128,
@@ -173,6 +145,34 @@
       "genres": [
         "Photo & Video"
       ],
+      "bundleId": "com.adamochen.PreRecCam",
+      "price": 7.99,
+      "genreIds": [
+        "6008"
+      ],
+      "trackId": 6744694923,
+      "trackName": "PreRecCam",
+      "sellerName": "崇桂 陈",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2025-11-25T18:46:37Z",
+      "releaseNotes": "Improve voice control accuracy\nOnly show notifications (not force interrupt recording) for incoming calls and low battery\nDo not save video when exiting during pre-recording (without official recording started)\nFix other known issues",
+      "version": "1.0.70",
+      "wrapperType": "software",
+      "currency": "USD",
+      "description": "Offline Voice & Volume Button Control (custom voice commands/ works offline/flight mode)\nCustom Pre-Recording Duration (5-120s, multiple levels)\nScreen-Off Power-Saving Recording (40% battery saved, tested)\nAnti-Shake Levels (Auto/Standard/Smooth/Enhanced)\nLens Selection (Front/Rear Multi-Camera/Ultra-Wide/Wide/Telephoto)\nResolution (Up to 4K)  Frame Rate (Up to 240fps)\n16:9/4:3 Aspect Ratios (4:3 adds 30% screen area)\nHDR & Cross-Lens Zoom (0.5-25x, device-dependent)\nRecording Beep Toggle\nAuto Continuous Pre-Recording (starts next immediately; app foreground required for saving — never miss fishing action)",
+      "averageUserRatingForCurrentVersion": 0,
+      "languageCodesISO2A": [
+        "EN",
+        "ZH",
+        "ZH"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/prereccam/id6744694923?uo=4",
+      "contentAdvisoryRating": "4+",
+      "fileSizeBytes": "12351488",
+      "formattedPrice": "$7.99",
+      "releaseDate": "2025-05-06T07:00:00Z",
+      "primaryGenreName": "Photo & Video",
+      "primaryGenreId": 6008,
       "userRatingCount": 0
     }
   ]

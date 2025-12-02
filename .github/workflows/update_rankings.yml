@@ -1,0 +1,63 @@
+name: Update App Rankings
+
+on:
+  schedule:
+    - cron: '0 0 1 * *' # Run monthly on the 1st at midnight UTC
+  workflow_dispatch:
+    inputs:
+      generate_markdown:
+        description: 'Generate Markdown files'
+        required: false
+        type: boolean
+        default: false
+      skip_existing:
+        description: 'Skip existing files (if false, forces re-download)'
+        required: false
+        type: boolean
+        default: false
+
+jobs:
+  update-rankings:
+    runs-on: windows-latest
+    
+    permissions:
+      contents: write
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Run App Downloader Script
+      shell: powershell
+      run: |
+        $skipExisting = $false
+        $generateMarkdown = $false
+
+        if ('${{ github.event_name }}' -eq 'workflow_dispatch') {
+            if ('${{ inputs.skip_existing }}' -eq 'true') { $skipExisting = $true }
+            if ('${{ inputs.generate_markdown }}' -eq 'true') { $generateMarkdown = $true }
+        }
+        
+        $cmd = ".\app_downloader.ps1"
+        if ($skipExisting) { $cmd += " -SkipExisting" }
+        if ($generateMarkdown) { $cmd += " -GenerateMarkdown" }
+        
+        Write-Host "Running command: $cmd"
+        Invoke-Expression $cmd
+      
+    - name: Commit and Push changes
+      shell: powershell
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        
+        git add .
+        
+        # Check if there are changes
+        $status = git status --porcelain
+        if ($status) {
+            git commit -m "Update app rankings $(Get-Date -Format 'yyyy-MM-dd')"
+            git push
+        } else {
+            Write-Host "No changes to commit."
+        }

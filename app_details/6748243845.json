@@ -2,11 +2,13 @@
   "resultCount": 1,
   "results": [
     {
+      "screenshotUrls": [],
+      "ipadScreenshotUrls": [],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/c0/a9/eac0a9b9-b55f-94a1-86d8-e411b807f9fe/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/512x512bb.jpg",
       "artistViewUrl": "https://apps.apple.com/us/developer/digital-dream-labs-llc/id887485917?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/c0/a9/eac0a9b9-b55f-94a1-86d8-e411b807f9fe/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/c0/a9/eac0a9b9-b55f-94a1-86d8-e411b807f9fe/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/100x100bb.jpg",
-      "isGameCenterEnabled": false,
-      "advisories": [],
       "features": [
         "iosUniversal"
       ],
@@ -130,16 +132,22 @@
         "iPhone17-iPhone17",
         "iPhoneAir-iPhoneAir"
       ],
+      "advisories": [],
+      "isGameCenterEnabled": false,
       "kind": "software",
-      "screenshotUrls": [],
-      "ipadScreenshotUrls": [],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/c0/a9/eac0a9b9-b55f-94a1-86d8-e411b807f9fe/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/512x512bb.jpg",
-      "minimumOsVersion": "12.0",
+      "averageUserRatingForCurrentVersion": 3.15,
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "fileSizeBytes": "683954176",
+      "formattedPrice": "$2.99",
+      "userRatingCountForCurrentVersion": 40,
+      "trackContentRating": "4+",
+      "sellerUrl": "https://anki.bot",
       "trackCensoredName": "Cozmo Robot",
       "trackViewUrl": "https://apps.apple.com/us/app/cozmo-robot/id6748243845?uo=4",
       "contentAdvisoryRating": "4+",
-      "averageUserRating": 2.83333,
+      "averageUserRating": 3.15,
       "artistId": 887485917,
       "artistName": "Digital Dream Labs LLC",
       "genres": [
@@ -147,33 +155,25 @@
         "Education"
       ],
       "price": 2.99,
-      "sellerName": "Digital Dream Labs LLC",
+      "isVppDeviceBasedLicensingEnabled": true,
       "bundleId": "com.anki.cozmo2",
+      "sellerName": "Digital Dream Labs LLC",
       "genreIds": [
         "6016",
         "6017"
       ],
-      "primaryGenreName": "Entertainment",
-      "primaryGenreId": 6016,
-      "releaseDate": "2025-07-17T07:00:00Z",
       "trackId": 6748243845,
       "trackName": "Cozmo Robot",
-      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2025-07-17T22:53:51Z",
+      "releaseDate": "2025-07-17T07:00:00Z",
       "version": "3.6.7",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Say hello to Cozmo, a gifted little guy who’s got a mind of his own and a few tricks up his sleeve. He’s the sweet spot where supercomputer meets loyal sidekick. He’s curiously smart, a little mischievous, and unlike anything ever created.\n\nYou see, Cozmo is a real-life robot like you've only seen in movies, with a one-of-a-kind personality that evolves the more you hang out. He'll nudge you to play and keep you constantly surprised. More than a companion, Cozmo’s a collaborator. He’s your accomplice in a crazy amount of fun.\n\nSome robots just have it all.\n\nCozmo robot required to play. Available at Anki.com.\n\n©2025 Anki, LLC. All rights reserved. Anki, Cozmo, and the Anki and Cozmo logos are registered trademarks of Anki, LLC.",
-      "languageCodesISO2A": [
-        "EN"
-      ],
-      "fileSizeBytes": "683954176",
-      "formattedPrice": "$2.99",
-      "userRatingCountForCurrentVersion": 30,
-      "trackContentRating": "4+",
-      "sellerUrl": "https://anki.bot",
-      "averageUserRatingForCurrentVersion": 2.83333,
-      "userRatingCount": 30
+      "minimumOsVersion": "12.0",
+      "primaryGenreName": "Entertainment",
+      "primaryGenreId": 6016,
+      "userRatingCount": 40
     }
   ]
 }

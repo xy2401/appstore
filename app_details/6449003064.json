@@ -6,9 +6,6 @@
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/98/d1/49/98d149b0-645a-7cf4-fb16-3948ff3dd471/AppIcon-1x_U007emarketing-0-10-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/98/d1/49/98d149b0-645a-7cf4-fb16-3948ff3dd471/AppIcon-1x_U007emarketing-0-10-0-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -129,6 +126,9 @@
         "iPhone17-iPhone17",
         "iPhoneAir-iPhoneAir"
       ],
+      "features": [
+        "iosUniversal"
+      ],
       "advisories": [],
       "kind": "software",
       "screenshotUrls": [
@@ -142,24 +142,25 @@
       "trackCensoredName": "Goblin Tools",
       "trackViewUrl": "https://apps.apple.com/us/app/goblin-tools/id6449003064?uo=4",
       "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.84243,
+      "averageUserRating": 4.83893,
+      "minimumOsVersion": "14.0",
       "artistId": 1695118263,
       "artistName": "Skyhook",
       "genres": [
         "Utilities",
         "Productivity"
       ],
-      "price": 1.99,
+      "price": 2.99,
+      "trackName": "Goblin Tools",
+      "trackId": 6449003064,
       "bundleId": "com.goblintools",
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
       "genreIds": [
         "6002",
         "6007"
       ],
-      "trackId": 6449003064,
-      "trackName": "Goblin Tools",
       "releaseDate": "2023-05-31T07:00:00Z",
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
       "sellerName": "Skyhook",
       "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2023-06-23T05:40:54Z",
@@ -168,16 +169,15 @@
       "wrapperType": "software",
       "currency": "USD",
       "description": "This is an app version of the free website goblin.tools, a collection of small, simple, single-task tools, mostly designed to help neurodivergent people with tasks they find overwhelming or difficult.\n\n\n\nTools include\n- A Magic Todo list that automatically breaks down tasks into steps\n- The Formalizer that transforms your language to be more formal, sociable, concise, or many other options\n- The Judge that helps with interpreting tone\n- The Estimator that can guess at a timeframe for an activity\n- The Compiler to take entire braindumps and turn them into actionable tasks\n- The Chef, who turns a description of what ingredients and tools you have in your kitchen into a real recipe\n\n\n\nAnd many more to come!\n\n\n\nThe website is free and publicly available. Purchases of this app go first towards keeping the site free and ad-free, before supporting the author.",
-      "averageUserRatingForCurrentVersion": 4.84243,
+      "averageUserRatingForCurrentVersion": 4.83893,
       "languageCodesISO2A": [
         "EN"
       ],
       "fileSizeBytes": "662528",
-      "formattedPrice": "$1.99",
-      "userRatingCountForCurrentVersion": 2729,
+      "formattedPrice": "$2.99",
+      "userRatingCountForCurrentVersion": 2738,
       "trackContentRating": "4+",
-      "minimumOsVersion": "14.0",
-      "userRatingCount": 2729
+      "userRatingCount": 2738
     }
   ]
 }

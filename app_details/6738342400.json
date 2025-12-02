@@ -9,6 +9,7 @@
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/ef/14/a1ef14c9-b962-a41e-de8a-c5518b1fdc46/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "advisories": [],
       "supportedDevices": [
         "MacDesktop-MacDesktop",
         "iPhone5s-iPhone5s",
@@ -130,11 +131,10 @@
         "iPhone17-iPhone17",
         "iPhoneAir-iPhoneAir"
       ],
-      "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
       ],
-      "advisories": [],
+      "isGameCenterEnabled": false,
       "kind": "software",
       "trackCensoredName": "Tampermonkey",
       "trackViewUrl": "https://apps.apple.com/us/app/tampermonkey/id6738342400?uo=4",
@@ -169,37 +169,37 @@
       ],
       "fileSizeBytes": "6664192",
       "formattedPrice": "$2.99",
-      "userRatingCountForCurrentVersion": 39,
       "trackContentRating": "4+",
-      "averageUserRating": 3.48718,
-      "averageUserRatingForCurrentVersion": 3.48718,
+      "averageUserRatingForCurrentVersion": 3.36585,
+      "userRatingCountForCurrentVersion": 41,
+      "averageUserRating": 3.36585,
+      "currentVersionReleaseDate": "2025-07-09T14:01:41Z",
+      "price": 2.99,
       "artistId": 1482490088,
       "artistName": "Jan Biniok",
       "genres": [
         "Productivity",
         "Developer Tools"
       ],
-      "price": 2.99,
-      "isVppDeviceBasedLicensingEnabled": true,
+      "bundleId": "net.tampermonkey.SafariWebExt",
+      "releaseNotes": "General\nAdded support for sending ArrayBuffer and UInt8Array objects via GM_xmlhttpRequest\nAdded the $DATETIME$ variable for use in script templates\nFixed response text encoding of fetch-based, non-utf8 GM_xmlhttpRequest\nReworked the storage implementation\nReworked the sandbox console to make its properties configurable\nFixed onurlchange so it fires on hash changes triggered by pushState\nFixed the configuration of script positions via drop down menu\n\nUI\nAdded commands to jump to the next/previous linter problem\nMade some more strings translatable (unit, editor commands)\n\nLocales\nUpdated Italian translation | thanks to bovirus\nUpdated Portuguese-Brazil translation | thanks to igorruckert\nUpdated Japanese translation | thanks to shirayuki\nUpdated Vietnamese translation | thanks to IoeCmcomc",
+      "releaseDate": "2024-11-18T08:00:00Z",
+      "primaryGenreName": "Productivity",
+      "primaryGenreId": 6007,
+      "trackId": 6738342400,
+      "trackName": "Tampermonkey",
       "genreIds": [
         "6007",
         "6026"
       ],
-      "releaseDate": "2024-11-18T08:00:00Z",
       "sellerName": "Jan Biniok",
-      "primaryGenreName": "Productivity",
-      "primaryGenreId": 6007,
-      "bundleId": "net.tampermonkey.SafariWebExt",
-      "trackId": 6738342400,
-      "trackName": "Tampermonkey",
-      "currentVersionReleaseDate": "2025-07-09T14:01:41Z",
-      "releaseNotes": "General\nAdded support for sending ArrayBuffer and UInt8Array objects via GM_xmlhttpRequest\nAdded the $DATETIME$ variable for use in script templates\nFixed response text encoding of fetch-based, non-utf8 GM_xmlhttpRequest\nReworked the storage implementation\nReworked the sandbox console to make its properties configurable\nFixed onurlchange so it fires on hash changes triggered by pushState\nFixed the configuration of script positions via drop down menu\n\nUI\nAdded commands to jump to the next/previous linter problem\nMade some more strings translatable (unit, editor commands)\n\nLocales\nUpdated Italian translation | thanks to bovirus\nUpdated Portuguese-Brazil translation | thanks to igorruckert\nUpdated Japanese translation | thanks to shirayuki\nUpdated Vietnamese translation | thanks to IoeCmcomc",
+      "isVppDeviceBasedLicensingEnabled": true,
       "version": "5.4.6229",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Tampermonkey is a widely popular browser extension compatible with all major browsers. \nIt lets you customize and enhance web pages using userscripts—small JavaScript programs that add or modify features. \nEasily create, manage, and run these scripts on any website with Tampermonkey.",
       "minimumOsVersion": "15.0",
-      "userRatingCount": 39
+      "userRatingCount": 41
     }
   ]
 }

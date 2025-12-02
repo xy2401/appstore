@@ -2,6 +2,8 @@
   "resultCount": 1,
   "results": [
     {
+      "isGameCenterEnabled": false,
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/80/03/c08003bf-4e27-06cd-1958-570043b414ee/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/47/0c/29/470c29e9-fe22-7978-4795-14fb70f264f0/1_iOS_5.5.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/29/f7/22/29f722b6-f846-a8af-e4bf-cd497673889a/2_iOS_5.5.jpg/392x696bb.jpg",
@@ -10,13 +12,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/f4/3a/b2f43abb-d225-3e51-7c7d-6de76eaf04e2/5_iOS_5.5.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4c/b0/65/4cb06514-2191-83de-52b0-dbaf220015f9/6_iOS_5.5.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/35/27/76/352776ae-659d-555f-e8f8-332b47516da0/7_iOS_5.5.jpg/392x696bb.jpg"
-      ],
-      "ipadScreenshotUrls": [],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/5a/04/0a5a045d-d780-53f8-4ea4-e00a3affc45f/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
       ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
@@ -138,23 +133,23 @@
         "iPhone17-iPhone17",
         "iPhoneAir-iPhoneAir"
       ],
+      "features": [
+        "iosUniversal"
+      ],
       "advisories": [
-        "Infrequent/Mild Profanity or Crude Humor",
-        "Infrequent/Mild Sexual Content and Nudity",
         "Infrequent/Mild Mature/Suggestive Themes",
+        "Infrequent/Mild Sexual Content and Nudity",
+        "Infrequent/Mild Profanity or Crude Humor",
         "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References"
       ],
       "kind": "software",
+      "ipadScreenshotUrls": [],
+      "appletvScreenshotUrls": [],
       "artistViewUrl": "https://apps.apple.com/us/developer/instagram-inc/id389801255?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/5a/04/0a5a045d-d780-53f8-4ea4-e00a3affc45f/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/5a/04/0a5a045d-d780-53f8-4ea4-e00a3affc45f/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
-      "averageUserRatingForCurrentVersion": 4.69113,
-      "fileSizeBytes": "482339840",
-      "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 28325388,
-      "trackContentRating": "12+",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/80/03/c08003bf-4e27-06cd-1958-570043b414ee/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/80/03/c08003bf-4e27-06cd-1958-570043b414ee/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
+      "averageUserRatingForCurrentVersion": 4.69118,
       "minimumOsVersion": "15.1",
-      "sellerUrl": "http://instagram.com/",
       "languageCodesISO2A": [
         "HR",
         "CS",
@@ -188,6 +183,11 @@
         "UK",
         "VI"
       ],
+      "fileSizeBytes": "492724224",
+      "formattedPrice": "Free",
+      "userRatingCountForCurrentVersion": 28450871,
+      "trackContentRating": "12+",
+      "sellerUrl": "http://instagram.com/",
       "artistId": 389801255,
       "artistName": "Instagram, Inc.",
       "genres": [
@@ -195,29 +195,29 @@
         "Social Networking"
       ],
       "price": 0.0,
-      "bundleId": "com.burbn.instagram",
       "trackId": 389801252,
       "trackName": "Instagram",
+      "bundleId": "com.burbn.instagram",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "Instagram, Inc.",
       "genreIds": [
         "6008",
         "6005"
       ],
-      "releaseDate": "2010-10-06T08:12:41Z",
       "primaryGenreName": "Photo & Video",
       "primaryGenreId": 6008,
-      "sellerName": "Instagram, Inc.",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2025-10-27T18:05:50Z",
+      "releaseDate": "2010-10-06T08:12:41Z",
+      "currentVersionReleaseDate": "2025-11-24T16:54:12Z",
       "releaseNotes": "Performance optimizations and stability improvements for a smoother, more reliable experience.",
-      "version": "404.0.0",
+      "version": "408.0.0",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Little moments lead to big friendships. Share yours on Instagram. \n— From Meta\n\nConnect with friends, find other fans, and see what people around you are up to and into. Explore your interests and post what's going on, from your daily moments to life's highlights.\n\nShare what you’re up to and into:\n- Turn your life into a movie and discover short, entertaining videos on Instagram with Reels.\n- Keep up with friends on the fly with Stories and Notes that disappear after 24 hours.\n- Start group chats and share unfiltered moments with your Close Friends.\n- Share memories from recent events or trips in Feed.\n- Customize your posts with exclusive templates, music, stickers and filters.\n\nDive into your interests.\n- Watch videos from your favorite creators and discover new content that’s personalized to your interests.\n- Get inspired by photos and videos from new accounts in Explore.\n- Discover brands and small businesses, and shop products that are relevant to your personal style.\n\nSome Instagram features may not be available in your country or region.\n\nTerms and Policies: https://help.instagram.com/581066165581870\n\nConsumer Health Privacy Policy: https://privacycenter.instagram.com/policies/health\n\nLearn how we're working to help keep our communities safe across Meta technologies at the Instagram Safety Center: https://about.instagram.com/safety",
+      "averageUserRating": 4.69118,
       "trackCensoredName": "Instagram",
       "trackViewUrl": "https://apps.apple.com/us/app/instagram/id389801252?uo=4",
       "contentAdvisoryRating": "12+",
-      "averageUserRating": 4.69113,
-      "userRatingCount": 28325388
+      "userRatingCount": 28450871
     }
   ]
 }

@@ -2,8 +2,7 @@
   "resultCount": 1,
   "results": [
     {
-      "appletvScreenshotUrls": [],
-      "ipadScreenshotUrls": [],
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/4b/62/fb/4b62fb60-a509-9442-d74c-49ff105a9c5d/5d3f1bdd-4c4a-4a55-9fd5-8716ce47c623_1.__U82f1_U6587_Uff08_U7f8e_U56fd_Uff095.5-1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/31/29/70/3129701b-72b0-da8b-3e60-95fa71e6f875/ccb5b497-09f0-4aaa-b2e2-583e919bd12d_1.__U82f1_U6587_Uff08_U7f8e_U56fd_Uff095.5-2.png/392x696bb.png",
@@ -14,9 +13,9 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/a3/2c/81/a32c8135-7cf7-f104-6925-ec020fc1f032/1c582de1-3bad-4a9d-a973-e94b5c8b0759_1.__U82f1_U6587_Uff08_U7f8e_U56fd_Uff095.5-7.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/b9/04/08/b904083a-e310-8800-bc70-a5aaa8cad206/b676d48d-e982-49ff-a144-2504ed765068_1.__U82f1_U6587_Uff08_U7f8e_U56fd_Uff095.5-8.png/392x696bb.png"
       ],
+      "ipadScreenshotUrls": [],
+      "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/f1/97/22f1975d-adfc-dd01-16d4-6cee2e076e20/AppIconPlus-0-1x_U007emarketing-0-6-0-0-sRGB-85-220-0.png/512x512bb.jpg",
-      "features": [],
-      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -137,16 +136,15 @@
         "iPhone17-iPhone17",
         "iPhoneAir-iPhoneAir"
       ],
-      "isGameCenterEnabled": false,
+      "features": [],
+      "advisories": [],
       "kind": "software",
       "artistViewUrl": "https://apps.apple.com/us/developer/linguan-data/id1315906999?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/f1/97/22f1975d-adfc-dd01-16d4-6cee2e076e20/AppIconPlus-0-1x_U007emarketing-0-6-0-0-sRGB-85-220-0.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/f1/97/22f1975d-adfc-dd01-16d4-6cee2e076e20/AppIconPlus-0-1x_U007emarketing-0-6-0-0-sRGB-85-220-0.png/100x100bb.jpg",
-      "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.85343,
-      "fileSizeBytes": "239025152",
-      "formattedPrice": "$0.99",
-      "userRatingCountForCurrentVersion": 16709,
+      "userRatingCountForCurrentVersion": 16754,
+      "averageUserRatingForCurrentVersion": 4.85358,
+      "sellerUrl": "https://www.camscanner.com",
       "languageCodesISO2A": [
         "AR",
         "EN",
@@ -165,7 +163,9 @@
         "ZH",
         "TR"
       ],
-      "sellerUrl": "https://www.camscanner.com",
+      "fileSizeBytes": "239025152",
+      "formattedPrice": "$0.99",
+      "trackContentRating": "4+",
       "artistId": 1315906999,
       "artistName": "Linguan Data",
       "genres": [
@@ -173,21 +173,20 @@
         "Business"
       ],
       "price": 0.99,
-      "bundleId": "com.intsig.CamScanner",
       "genreIds": [
         "6007",
         "6000"
       ],
-      "releaseDate": "2010-08-27T19:01:23Z",
+      "bundleId": "com.intsig.CamScanner",
       "trackId": 388624839,
       "trackName": "CamScanner + | OCR Scanner",
-      "currentVersionReleaseDate": "2025-10-22T12:03:29Z",
-      "sellerName": "Shanghai Linguan Data Co.,Ltd",
-      "releaseNotes": "Bug fixes",
+      "releaseDate": "2010-08-27T19:01:23Z",
       "isVppDeviceBasedLicensingEnabled": true,
       "primaryGenreName": "Productivity",
       "primaryGenreId": 6007,
-      "minimumOsVersion": "12.0",
+      "sellerName": "Shanghai Linguan Data Co.,Ltd",
+      "currentVersionReleaseDate": "2025-10-22T12:03:29Z",
+      "releaseNotes": "Bug fixes",
       "version": "5.27.1",
       "wrapperType": "software",
       "currency": "USD",
@@ -195,8 +194,9 @@
       "trackCensoredName": "CamScanner + | OCR Scanner",
       "trackViewUrl": "https://apps.apple.com/us/app/camscanner-ocr-scanner/id388624839?uo=4",
       "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.85343,
-      "userRatingCount": 16709
+      "averageUserRating": 4.85358,
+      "minimumOsVersion": "12.0",
+      "userRatingCount": 16754
     }
   ]
 }

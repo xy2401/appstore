@@ -3,6 +3,8 @@
   "results": [
     {
       "screenshotUrls": [],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/5f/d6/4f5fd69a-39c3-2e51-b297-176246c116c6/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4f/63/9d/4f639dcb-3c22-5a9c-8103-4a18d1c10df3/APP_IPAD_PRO_129-1.png/552x414bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/15/b0/37/15b037b5-96b0-22bc-9d51-e76d2dd3ac37/APP_IPAD_PRO_129-2.png/552x414bb.png",
@@ -11,17 +13,10 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/62/45/32/62453201-8b54-6768-e7bb-cbf8d12aef85/APP_IPAD_PRO_129-6.png/552x414bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/57/94/2e/57942e2a-efdc-8da9-1315-e440b4392539/APP_IPAD_PRO_129-7.png/552x414bb.png"
       ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/88/56/8d8856bc-e9a7-cf51-f1a2-eac937c98255/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
-      "advisories": [],
+      "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
       ],
-      "isGameCenterEnabled": false,
-      "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/us/developer/microsoft-corporation/id298856275?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/88/56/8d8856bc-e9a7-cf51-f1a2-eac937c98255/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/88/56/8d8856bc-e9a7-cf51-f1a2-eac937c98255/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -143,8 +138,13 @@
         "iPhone17-iPhone17",
         "iPhoneAir-iPhoneAir"
       ],
-      "userRatingCountForCurrentVersion": 8401892,
-      "minimumOsVersion": "18.0",
+      "advisories": [],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/us/developer/microsoft-corporation/id298856275?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/5f/d6/4f5fd69a-39c3-2e51-b297-176246c116c6/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/5f/d6/4f5fd69a-39c3-2e51-b297-176246c116c6/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.jpg",
+      "fileSizeBytes": "426456064",
+      "averageUserRatingForCurrentVersion": 4.79592,
       "languageCodesISO2A": [
         "SQ",
         "AM",
@@ -194,15 +194,10 @@
         "UR",
         "VI"
       ],
-      "fileSizeBytes": "426980352",
       "formattedPrice": "Free",
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.79566,
       "sellerUrl": "https://outlook.live.com",
-      "genreIds": [
-        "6007",
-        "6000"
-      ],
+      "minimumOsVersion": "18.0",
       "artistId": 298856275,
       "artistName": "Microsoft Corporation",
       "genres": [
@@ -210,25 +205,30 @@
         "Business"
       ],
       "price": 0.0,
-      "sellerName": "Microsoft Corporation",
-      "trackName": "Microsoft Outlook",
-      "trackId": 951937596,
-      "releaseDate": "2015-01-29T05:22:59Z",
-      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseNotes": "This update includes performance improvements and bug fixes to make Outlook better for you.\n\nFeel free to send us any comments or questions by going to Settings > Help & Feedback – we’d love to hear from you.",
       "bundleId": "com.microsoft.Office.Outlook",
-      "currentVersionReleaseDate": "2025-10-31T02:49:23Z",
+      "releaseDate": "2015-01-29T05:22:59Z",
+      "trackId": 951937596,
+      "trackName": "Microsoft Outlook",
+      "genreIds": [
+        "6007",
+        "6000"
+      ],
       "primaryGenreName": "Productivity",
       "primaryGenreId": 6007,
-      "releaseNotes": "This update includes performance improvements and bug fixes to make Outlook better for you.\n\nFeel free to send us any comments or questions by going to Settings > Help & Feedback – we’d love to hear from you.",
-      "version": "5.2542.1",
+      "sellerName": "Microsoft Corporation",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2025-12-02T00:07:17Z",
+      "version": "5.2547.0",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Outlook lets you bring all your email accounts and calendars in one convenient spot. Whether it’s staying on top of your inbox or scheduling the next big thing, we make it easy to be your most productive, organised and connected self.\n\nHere's what you'll love about Outlook for iOS:\n\n- Focus on the right things with our smart inbox - we help you sort between messages you need to act on straight away and everything else.\n- Swipe to quickly schedule, delete and archive messages.\n- Share your meeting availability with just a tap and easily find times to meet with others.\n- Find everything you're looking for, including files, contacts, and your forthcoming trips.\n- View and attach any file from your email, OneDrive, Dropbox, and more, without having to download them to your phone.\n- Open Word, Excel, or PowerPoint attachments to edit them directly in the corresponding app and attach them back to an email.\n- Recap extra-long email threads in an instant with Summarise with Copilot*\n- Type a few words to have Copilot* jump-start your writing with an outline or draft\n- Before sending off your email, use Coaching with Copilot* to get tips and suggestions that help improve the overall tone, sentiment, and clarity\n \n*Microsoft 365 Personal/Family subscription or business account enabled with Copilot required to use Copilot features\n\n--\n\nOutlook for iOS works with Microsoft Exchange, Office 365, Outlook.com (including Hotmail and MSN), Gmail, Yahoo Email, and iCloud.\n\n--\n\nTo make an in-app purchase of a Microsoft 365 Family or Personal subscription, open the app, go to Settings, and tap on Upgrade next to your Outlook.com or Hotmail.com account. Subscriptions begin at $6.99 a month in the US, and can vary by region. With a Microsoft 365 subscription, you get 1TB of storage for each user, access to all features in Word, Excel, and PowerPoint on iPad, iPhone, and iPod touch, and you can install Word, Excel, PowerPoint, Outlook and OneNote on PCs or Macs.\n\nMicrosoft 365 subscriptions purchased from the app will be charged to your iTunes account and will automatically renew within 24 hours prior to the end of the current subscription period, unless auto-renewal is disabled beforehand. To manage your subscriptions or to disable auto-renewal, after purchase, go to your iTunes account settings. A subscription cannot be cancelled during the active subscription period. Any unused portion of a free trial period, if offered will be forfeited when the user purchases a subscription to that publication, where applicable.\n\nPrivacy and Cookies: https://go.microsoft.com/fwlink/?LinkId=521839\nTerms of Use: http://go.microsoft.com/fwlink/?LinkID=530144\nContract Summary: https://www.microsoft.com/microsoft-365/outlook/contract-summary\nConsumer Health Data Privacy Policy: https://go.microsoft.com/fwlink/?linkid=2259814",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.79592,
+      "userRatingCountForCurrentVersion": 8484351,
       "trackCensoredName": "Microsoft Outlook",
       "trackViewUrl": "https://apps.apple.com/us/app/microsoft-outlook/id951937596?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.79566,
-      "userRatingCount": 8401892
+      "userRatingCount": 8484351
     }
   ]
 }
