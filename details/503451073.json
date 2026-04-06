@@ -19,12 +19,6 @@
       "features": [
         "iosUniversal"
       ],
-      "advisories": [
-        "Infrequent/Mild Medical/Treatment Information",
-        "Infrequent/Mild Sexual Content and Nudity",
-        "Frequent/Intense Mature/Suggestive Themes",
-        "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References"
-      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -158,11 +152,13 @@
       "artistViewUrl": "https://apps.apple.com/us/developer/hangzhou-alibaba-international-information-technology/id1822209568?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/86/37/d5863724-09a7-70d5-1b02-2f09f04c80ee/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/86/37/d5863724-09a7-70d5-1b02-2f09f04c80ee/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/100x100bb.jpg",
-      "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 8913,
-      "trackContentRating": "17+",
+      "advisories": [
+        "Infrequent/Mild Medical/Treatment Information",
+        "Infrequent/Mild Sexual Content and Nudity",
+        "Frequent/Intense Mature/Suggestive Themes",
+        "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References"
+      ],
       "sellerUrl": "http://mobile.alibaba.com",
-      "averageUserRatingForCurrentVersion": 4.71525,
       "languageCodesISO2A": [
         "AR",
         "DA",
@@ -186,36 +182,40 @@
         "VI"
       ],
       "fileSizeBytes": "147093504",
+      "formattedPrice": "Free",
+      "userRatingCountForCurrentVersion": 8913,
+      "trackContentRating": "17+",
+      "artistId": 1822209568,
+      "artistName": "Hangzhou Alibaba International Information Technology Co., Ltd.",
       "genres": [
         "Shopping",
         "Business"
       ],
-      "artistId": 1822209568,
-      "artistName": "Hangzhou Alibaba International Information Technology Co., Ltd.",
       "price": 0.0,
+      "bundleId": "com.alibaba.sourcing",
+      "averageUserRatingForCurrentVersion": 4.71525,
+      "releaseDate": "2012-02-24T16:58:30Z",
+      "trackName": "Alibaba.com",
+      "trackId": 503451073,
+      "genreIds": [
+        "6024",
+        "6000"
+      ],
+      "sellerName": "Hangzhou Alibaba International Information Technology Co., Ltd.",
+      "isVppDeviceBasedLicensingEnabled": true,
       "primaryGenreName": "Shopping",
       "primaryGenreId": 6024,
-      "bundleId": "com.alibaba.sourcing",
-      "sellerName": "Hangzhou Alibaba International Information Technology Co., Ltd.",
-      "releaseDate": "2012-02-24T16:58:30Z",
-      "trackId": 503451073,
-      "trackName": "Alibaba.com",
       "currentVersionReleaseDate": "2026-03-31T12:21:30Z",
       "releaseNotes": "Includes bug fixes and performance improvements.",
       "version": "26.11.0",
       "wrapperType": "software",
       "currency": "USD",
       "description": "What is Alibaba.com?\nAlibaba.com is one of the world’s leading B2B ecommerce marketplaces. Our app allows you to source products from global suppliers, all from the convenience of your mobile device.\n\nPurchase with confidence\nOur Trade Assurance service protects your orders and payments on the platform, letting you purchase securely and conveniently with extended support.\n\nCustomizable products\nMeet suppliers with years of customization and order fulfillment experience for sellers on Amazon, eBay, Wish, Etsy, Mercari, Lazada, and more.\n\nEasy sourcing\nDiscover millions of ready-to-ship products in every industry category. Tell suppliers what you need and get quotes quickly with Request for Quotation services.\n\nFast shipping\nAlibaba.com partners with major freight forwarders to provide land, sea, and air shipping solutions with on-time delivery services, end-to-end tracking, and competitive prices.\n\nLivestreams and factory tours\nInteract with manufacturers in real-time via product demos and tours of manufacturing facilities, providing insight and oversight on how your products are made.\n\nPopular categories and trade shows\nSource a wide range of popular items – from trending consumer goods to raw materials – and join our annual trade shows for niche product highlights and discounts.\n\nQuality control\nChoose Alibaba.com Production Monitoring and Inspection Services to reduce production delay and quality risks.\n\nDiscounts and promotions\nUnlock new discounts and promotions from featured manufacturers and suppliers.\n\nStay updated\nUse the Alibaba.com app to stay up to date on new products and promotions from your favorite suppliers.\n\nLanguage and currency support\nAlibaba.com supports 16 languages and 54 local currencies. Use our real-time translator to communicate with sellers in your mother tongue.",
-      "minimumOsVersion": "14.0",
       "trackCensoredName": "Alibaba.com",
       "trackViewUrl": "https://apps.apple.com/us/app/alibaba-com/id503451073?uo=4",
       "contentAdvisoryRating": "17+",
       "averageUserRating": 4.71525,
-      "genreIds": [
-        "6024",
-        "6000"
-      ],
-      "isVppDeviceBasedLicensingEnabled": true,
+      "minimumOsVersion": "14.0",
       "userRatingCount": 8913
     }
   ]

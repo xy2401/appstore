@@ -19,6 +19,11 @@
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/f5/ce/a1f5ce88-52e3-8ff2-7a5b-b5eda676f448/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
+      "advisories": [],
+      "kind": "software",
       "artistViewUrl": "https://apps.apple.com/cn/developer/%E6%9D%A8-%E6%9D%8E/id1278845234?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/f5/ce/a1f5ce88-52e3-8ff2-7a5b-b5eda676f448/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/f5/ce/a1f5ce88-52e3-8ff2-7a5b-b5eda676f448/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
@@ -151,12 +156,6 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "advisories": [],
-      "features": [
-        "iosUniversal"
-      ],
-      "kind": "software",
-      "userRatingCountForCurrentVersion": 347,
       "averageUserRatingForCurrentVersion": 4.70317,
       "languageCodesISO2A": [
         "EN",
@@ -165,35 +164,36 @@
       ],
       "fileSizeBytes": "12082176",
       "formattedPrice": "¥28.00",
+      "userRatingCountForCurrentVersion": 347,
       "trackContentRating": "4+",
-      "trackCensoredName": "FAir for FlashAir",
-      "trackViewUrl": "https://apps.apple.com/cn/app/fair-for-flashair/id1344681035?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.70317,
+      "minimumOsVersion": "13.0",
       "artistId": 1278845234,
-      "bundleId": "com.flashairpro.ios",
       "artistName": "杨 李",
-      "currentVersionReleaseDate": "2024-12-10T23:08:12Z",
-      "trackId": 1344681035,
-      "trackName": "FAir for FlashAir",
-      "sellerName": "杨 李",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseNotes": "支持 iOS 18 / iPadOS 18.",
+      "genres": [
+        "娱乐"
+      ],
+      "price": 28.0,
+      "bundleId": "com.flashairpro.ios",
+      "releaseDate": "2018-04-05T18:01:33Z",
       "genreIds": [
         "6016"
       ],
+      "primaryGenreName": "Entertainment",
+      "primaryGenreId": 6016,
+      "sellerName": "杨 李",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2024-12-10T23:08:12Z",
+      "releaseNotes": "支持 iOS 18 / iPadOS 18.",
       "version": "1.6.2",
       "wrapperType": "software",
       "currency": "CNY",
       "description": "使用FAir for FlashAir，您可以快捷的浏览、下载您的无线FlashAir SD卡上的所有图片、文件。\n\n支持的硬件 FlashAir W-02、W-03、W-04\n以下为主要功能列表：\n\n系统\n- 适配 iOS 13\n- 完美适配 Dark Mode\n\n下载\n- 独立的下载进程管理，不会丢失您的下载记录\n- 批量下载、显示下载速度，可以删除、编辑下载任务等功能\n- 可以允许先下载到App本地文件夹，进一步筛选后再保存\n- 可以配置保存到单独的相册，配置相册文件名\n- 可以选择下载完成后生成高清的缩略图\n- 完整保留照片信息，下载的是原图，和相机图片完全一致\n- 选择照片时，可以全选，滑动多选，按时间分组全选等多种方式选择图片\n- 自动刷新 有新图时自动刷新\n- 自动下载功能 自动下载您的新照片\n- 自动连接功能 您可以在App内连接FlashAir Wi-Fi\n- 可以配置下载顺序\n\n显示\n- 可以通过默认视图或者按日期分组显示FlashAir上的图片\n- 格式过滤，可以选择你希望看到的文件格式，只显示JPG、RAW等\n- 可以按照升序或者降序排序图片\n- 可以选择只加载DCIM中的图片或者显示卡片中的所有图片\n- 可以显示或者隐藏图片文件名\n- 可以选择显示未下载标记\n- 可以配置每行显示的图片数量\n- 可以缩略图或者完整大图查看图片\n- 可以流畅预览视频\n- 可以查看图片完整的EXIF信息\n- 可以查看FlashAir的完整文件系统，并对文件进行操作\n- 可以显示RAW预览图（使用同名JPG预览）\n\nFlashAir设置\n- 可以配置FlashAir SSID、Wi-Fi密码\n- 可以设置FlashAir MasterCode 并自动管理\n- 可以查看FlashAir 完整的信息 SSID、密码、剩余空间、Mac地址等\n- 可以设置FlashAir和蜂窝网络共同使用\n\n其他\n- 可以将FlashAir中的文件通过其他App打开\n- 可以自动处理MasterCode\n- 可以设置下载期间防止锁定\n- 可以滑动多选图片，提高效率\n- 可以清除图片缓存，防止App占用太多空间\n- 完整的操作指南、问题反馈渠道",
-      "minimumOsVersion": "13.0",
-      "price": 28.0,
-      "releaseDate": "2018-04-05T18:01:33Z",
-      "genres": [
-        "娱乐"
-      ],
-      "primaryGenreName": "Entertainment",
-      "primaryGenreId": 6016,
+      "trackCensoredName": "FAir for FlashAir",
+      "trackViewUrl": "https://apps.apple.com/cn/app/fair-for-flashair/id1344681035?uo=4",
+      "averageUserRating": 4.70317,
+      "contentAdvisoryRating": "4+",
+      "trackId": 1344681035,
+      "trackName": "FAir for FlashAir",
       "userRatingCount": 347
     }
   ]

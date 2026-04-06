@@ -2,11 +2,22 @@
   "resultCount": 1,
   "results": [
     {
-      "isGameCenterEnabled": false,
       "artistViewUrl": "https://apps.apple.com/cn/developer/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%85%AC%E5%AE%89%E9%83%A8/id1750609318?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/fd/b9/42fdb9a9-e6e3-fb54-a2e2-f1b2a34474f6/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/fd/b9/42fdb9a9-e6e3-fb54-a2e2-f1b2a34474f6/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/fd/b9/42fdb9a9-e6e3-fb54-a2e2-f1b2a34474f6/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/86/21/5d/86215dce-647b-1676-f802-8fc06fb92a0a/5.5-1.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1e/b7/89/1eb78936-bb37-db74-68f4-01d256154cb0/5.5-2.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3a/c4/d8/3ac4d84a-a215-1678-22ee-ea5dc2a0a26f/5.5-3.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/68/d5/35/68d535d1-33f9-15b2-1434-fe08eb9408ca/5.5-4.png/392x696bb.png"
+      ],
+      "ipadScreenshotUrls": [],
+      "appletvScreenshotUrls": [],
+      "isGameCenterEnabled": false,
       "features": [],
+      "advisories": [],
+      "kind": "software",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -136,53 +147,42 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "advisories": [],
-      "kind": "software",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/86/21/5d/86215dce-647b-1676-f802-8fc06fb92a0a/5.5-1.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1e/b7/89/1eb78936-bb37-db74-68f4-01d256154cb0/5.5-2.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3a/c4/d8/3ac4d84a-a215-1678-22ee-ea5dc2a0a26f/5.5-3.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/68/d5/35/68d535d1-33f9-15b2-1434-fe08eb9408ca/5.5-4.png/392x696bb.png"
-      ],
-      "ipadScreenshotUrls": [],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/fd/b9/42fdb9a9-e6e3-fb54-a2e2-f1b2a34474f6/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
-      "minimumOsVersion": "13.0",
       "trackCensoredName": "国家网络身份认证",
       "trackViewUrl": "https://apps.apple.com/cn/app/%E5%9B%BD%E5%AE%B6%E7%BD%91%E7%BB%9C%E8%BA%AB%E4%BB%BD%E8%AE%A4%E8%AF%81/id1588080869?uo=4",
       "contentAdvisoryRating": "4+",
-      "averageUserRating": 2.0957,
-      "artistId": 1750609318,
-      "artistName": "中华人民共和国公安部",
+      "averageUserRating": 2.09529,
+      "sellerUrl": "https://www.mps.gov.cn/",
+      "languageCodesISO2A": [],
+      "fileSizeBytes": "72892416",
+      "formattedPrice": "免费",
+      "trackContentRating": "4+",
+      "averageUserRatingForCurrentVersion": 2.09529,
+      "minimumOsVersion": "13.0",
       "genres": [
         "工具"
       ],
       "price": 0.0,
-      "bundleId": "cn.cyberIdentity.certification",
-      "currentVersionReleaseDate": "2025-12-30T05:46:27Z",
-      "releaseDate": "2023-06-27T07:00:00Z",
       "trackId": 1588080869,
       "trackName": "国家网络身份认证",
+      "currentVersionReleaseDate": "2025-12-30T05:46:27Z",
+      "bundleId": "cn.cyberIdentity.certification",
+      "isVppDeviceBasedLicensingEnabled": true,
       "genreIds": [
         "6002"
       ],
+      "releaseDate": "2023-06-27T07:00:00Z",
       "primaryGenreName": "Utilities",
       "primaryGenreId": 6002,
       "sellerName": "Ministry of Public Security of the People's Republic of China",
-      "isVppDeviceBasedLicensingEnabled": true,
       "releaseNotes": "修复了一些已知问题。",
       "version": "1.2.35",
       "wrapperType": "software",
       "currency": "CNY",
       "description": "为促进数字经济发展、保护个人信息安全，公安部会同有关部门组织建设了国家网络身份认证公共服务平台，向社会提供安全、便捷、权威、高效的网络身份认证公共服务。 \n国家网络身份认证App是国家网络身份认证公共服务平台的移动客户端。 \n个人用户可下载国家网络身份认证App，使用法定身份证件申领网号、网证，即可在不输入、不留存、不透露个人姓名、公民身份号码等明文身份信息的情况下完成身份认证。",
-      "sellerUrl": "https://www.mps.gov.cn/",
-      "languageCodesISO2A": [],
-      "fileSizeBytes": "72892416",
-      "formattedPrice": "免费",
-      "userRatingCountForCurrentVersion": 5904,
-      "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 2.0957,
-      "userRatingCount": 5904
+      "userRatingCountForCurrentVersion": 5908,
+      "artistId": 1750609318,
+      "artistName": "中华人民共和国公安部",
+      "userRatingCount": 5908
     }
   ]
 }

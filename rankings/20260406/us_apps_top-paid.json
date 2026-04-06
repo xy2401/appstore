@@ -14,7 +14,7 @@
     "copyright": "Copyright © 2026 Apple Inc. All rights reserved.",
     "country": "us",
     "icon": "https://www.apple.com/favicon.ico",
-    "updated": "Mon, 6 Apr 2026 09:29:41 +0000",
+    "updated": "Mon, 6 Apr 2026 10:36:26 +0000",
     "results": [
       {
         "artistName": "Shadow Launch Technology Limited",
@@ -87,14 +87,14 @@
         "url": "https://apps.apple.com/us/app/paprika-recipe-manager-3/id1303222868"
       },
       {
-        "artistName": "TonalEnergy, Inc",
-        "id": "497716362",
-        "name": "TonalEnergy Tuner & Metronome",
-        "releaseDate": "2012-02-18",
+        "artistName": "Tantsissa",
+        "id": "1164801111",
+        "name": "AutoSleep: Watch Sleep Tracker",
+        "releaseDate": "2016-12-20",
         "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/41/4b/73414b5f-0ab4-eb76-b031-5226e38337de/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/92/fa/fb92fadb-a7c2-0fc6-8fcf-082973492641/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
         "genres": [],
-        "url": "https://apps.apple.com/us/app/tonalenergy-tuner-metronome/id497716362"
+        "url": "https://apps.apple.com/us/app/autosleep-watch-sleep-tracker/id1164801111"
       },
       {
         "artistName": "Image Line Software",
@@ -107,56 +107,35 @@
         "url": "https://apps.apple.com/us/app/fl-studio-mobile/id432850619"
       },
       {
+        "artistName": "TonalEnergy, Inc",
+        "id": "497716362",
+        "name": "TonalEnergy Tuner & Metronome",
+        "releaseDate": "2012-02-18",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/41/4b/73414b5f-0ab4-eb76-b031-5226e38337de/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+        "genres": [],
+        "url": "https://apps.apple.com/us/app/tonalenergy-tuner-metronome/id497716362"
+      },
+      {
         "artistName": "PeakFinder GmbH",
         "id": "357421934",
         "name": "PeakFinder",
         "releaseDate": "2010-03-12",
         "kind": "apps",
         "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/26/cd/6d26cdec-a532-0632-c026-10210be436c5/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/100x100bb.png",
-        "genres": [],
+        "genres": [
+          {
+            "genreId": "6003",
+            "name": "Travel",
+            "url": "https://itunes.apple.com/us/genre/id6003"
+          },
+          {
+            "genreId": "6010",
+            "name": "Navigation",
+            "url": "https://itunes.apple.com/us/genre/id6010"
+          }
+        ],
         "url": "https://apps.apple.com/us/app/peakfinder/id357421934"
-      },
-      {
-        "artistName": "Tantsissa",
-        "id": "1164801111",
-        "name": "AutoSleep: Watch Sleep Tracker",
-        "releaseDate": "2016-12-20",
-        "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/92/fa/fb92fadb-a7c2-0fc6-8fcf-082973492641/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "6013",
-            "name": "Health & Fitness",
-            "url": "https://itunes.apple.com/us/genre/id6013"
-          },
-          {
-            "genreId": "6020",
-            "name": "Medical",
-            "url": "https://itunes.apple.com/us/genre/id6020"
-          }
-        ],
-        "url": "https://apps.apple.com/us/app/autosleep-watch-sleep-tracker/id1164801111"
-      },
-      {
-        "artistName": "Base Velocity, LLC",
-        "id": "288419283",
-        "name": "RadarScope",
-        "releaseDate": "2019-02-12",
-        "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/88/a9/3088a97e-f8b7-b37a-f13c-0633b7c3cdba/App_Icon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "6001",
-            "name": "Weather",
-            "url": "https://itunes.apple.com/us/genre/id6001"
-          },
-          {
-            "genreId": "6002",
-            "name": "Utilities",
-            "url": "https://itunes.apple.com/us/genre/id6002"
-          }
-        ],
-        "url": "https://apps.apple.com/us/app/radarscope/id288419283"
       },
       {
         "artistName": "Crunchy Bagel",
@@ -180,6 +159,27 @@
         "url": "https://apps.apple.com/us/app/streaks/id963034692"
       },
       {
+        "artistName": "Base Velocity, LLC",
+        "id": "288419283",
+        "name": "RadarScope",
+        "releaseDate": "2019-02-12",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/88/a9/3088a97e-f8b7-b37a-f13c-0633b7c3cdba/App_Icon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6001",
+            "name": "Weather",
+            "url": "https://itunes.apple.com/us/genre/id6001"
+          },
+          {
+            "genreId": "6002",
+            "name": "Utilities",
+            "url": "https://itunes.apple.com/us/genre/id6002"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/radarscope/id288419283"
+      },
+      {
         "artistName": "Baby Penguin",
         "id": "1400579543",
         "name": "imo video calls and chat HD",
@@ -199,27 +199,6 @@
           }
         ],
         "url": "https://apps.apple.com/us/app/imo-video-calls-and-chat-hd/id1400579543"
-      },
-      {
-        "artistName": "Monash University",
-        "id": "586149216",
-        "name": "Monash FODMAP Diet",
-        "releaseDate": "2012-12-17",
-        "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/ee/45/e4ee45d4-6c45-9a81-70f1-719429492fd7/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.jpeg/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "6020",
-            "name": "Medical",
-            "url": "https://itunes.apple.com/us/genre/id6020"
-          },
-          {
-            "genreId": "6013",
-            "name": "Health & Fitness",
-            "url": "https://itunes.apple.com/us/genre/id6013"
-          }
-        ],
-        "url": "https://apps.apple.com/us/app/monash-fodmap-diet/id586149216"
       },
       {
         "artistName": "Kaylee Calderolla",
@@ -243,25 +222,25 @@
         "url": "https://apps.apple.com/us/app/wipr-2/id1662217862"
       },
       {
-        "artistName": "Mazbox Limited",
-        "id": "1449584007",
-        "name": "Koala Sampler • Beat Maker",
-        "releaseDate": "2019-02-28",
+        "artistName": "Monash University",
+        "id": "586149216",
+        "name": "Monash FODMAP Diet",
+        "releaseDate": "2012-12-17",
         "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/a4/91/99a491c6-88fc-440a-653d-5e9f6e87b2e7/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/ee/45/e4ee45d4-6c45-9a81-70f1-719429492fd7/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.jpeg/100x100bb.png",
         "genres": [
           {
-            "genreId": "6011",
-            "name": "Music",
-            "url": "https://itunes.apple.com/us/genre/id6011"
+            "genreId": "6020",
+            "name": "Medical",
+            "url": "https://itunes.apple.com/us/genre/id6020"
           },
           {
-            "genreId": "6016",
-            "name": "Entertainment",
-            "url": "https://itunes.apple.com/us/genre/id6016"
+            "genreId": "6013",
+            "name": "Health & Fitness",
+            "url": "https://itunes.apple.com/us/genre/id6013"
           }
         ],
-        "url": "https://apps.apple.com/us/app/koala-sampler-beat-maker/id1449584007"
+        "url": "https://apps.apple.com/us/app/monash-fodmap-diet/id586149216"
       },
       {
         "artistName": "Jeffrey Kuiken",
@@ -306,6 +285,48 @@
         "url": "https://apps.apple.com/us/app/autosnore-snoring-recorder/id6746705608"
       },
       {
+        "artistName": "Mazbox Limited",
+        "id": "1449584007",
+        "name": "Koala Sampler • Beat Maker",
+        "releaseDate": "2019-02-28",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/a4/91/99a491c6-88fc-440a-653d-5e9f6e87b2e7/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6011",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id6011"
+          },
+          {
+            "genreId": "6016",
+            "name": "Entertainment",
+            "url": "https://itunes.apple.com/us/genre/id6016"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/koala-sampler-beat-maker/id1449584007"
+      },
+      {
+        "artistName": "Threema GmbH",
+        "id": "578665578",
+        "name": "Threema. The Secure Messenger",
+        "releaseDate": "2012-12-28",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/4c/03/294c031b-cfa5-5dbd-0498-d10d0c17ea84/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6005",
+            "name": "Social Networking",
+            "url": "https://itunes.apple.com/us/genre/id6005"
+          },
+          {
+            "genreId": "6002",
+            "name": "Utilities",
+            "url": "https://itunes.apple.com/us/genre/id6002"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/threema-the-secure-messenger/id578665578"
+      },
+      {
         "artistName": "Visual Vertigo Software Technologies GmbH",
         "id": "1140451547",
         "name": "Shot Tracer",
@@ -348,43 +369,6 @@
         "url": "https://apps.apple.com/us/app/liveatc-air-radio/id317809458"
       },
       {
-        "artistName": "Threema GmbH",
-        "id": "578665578",
-        "name": "Threema. The Secure Messenger",
-        "releaseDate": "2012-12-28",
-        "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/4c/03/294c031b-cfa5-5dbd-0498-d10d0c17ea84/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "6005",
-            "name": "Social Networking",
-            "url": "https://itunes.apple.com/us/genre/id6005"
-          },
-          {
-            "genreId": "6002",
-            "name": "Utilities",
-            "url": "https://itunes.apple.com/us/genre/id6002"
-          }
-        ],
-        "url": "https://apps.apple.com/us/app/threema-the-secure-messenger/id578665578"
-      },
-      {
-        "artistName": "Spotted Ghosts",
-        "id": "1536762482",
-        "name": "Spirit Talker ®",
-        "releaseDate": "2020-10-30",
-        "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2a/38/1e/2a381e8c-f071-618d-0824-7ba1467af911/AppIcon-1x_U007emarketing-0-3-0-0-85-220-0.png/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "6012",
-            "name": "Lifestyle",
-            "url": "https://itunes.apple.com/us/genre/id6012"
-          }
-        ],
-        "url": "https://apps.apple.com/us/app/spirit-talker/id1536762482"
-      },
-      {
         "artistName": "Moment Inc.",
         "id": "6748837351",
         "name": "Moment Pro Camera II",
@@ -399,69 +383,6 @@
           }
         ],
         "url": "https://apps.apple.com/us/app/moment-pro-camera-ii/id6748837351"
-      },
-      {
-        "artistName": "HappyCow",
-        "id": "435871950",
-        "name": "HappyCow - Vegan Food Near You",
-        "releaseDate": "2011-05-12",
-        "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/ea/9f/14ea9f16-d364-a8ad-5a3e-a6bf076bf1db/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "6003",
-            "name": "Travel",
-            "url": "https://itunes.apple.com/us/genre/id6003"
-          },
-          {
-            "genreId": "6023",
-            "name": "Food & Drink",
-            "url": "https://itunes.apple.com/us/genre/id6023"
-          }
-        ],
-        "url": "https://apps.apple.com/us/app/happycow-vegan-food-near-you/id435871950"
-      },
-      {
-        "artistName": "Cultured Code GmbH & Co. KG",
-        "id": "904237743",
-        "name": "Things 3",
-        "releaseDate": "2017-05-18",
-        "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/1e/fe/d01efe6f-a09d-713e-0b02-b75c2865c215/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-85-220.png/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "6007",
-            "name": "Productivity",
-            "url": "https://itunes.apple.com/us/genre/id6007"
-          },
-          {
-            "genreId": "6000",
-            "name": "Business",
-            "url": "https://itunes.apple.com/us/genre/id6000"
-          }
-        ],
-        "url": "https://apps.apple.com/us/app/things-3/id904237743"
-      },
-      {
-        "artistName": "PhotoPills S.L.",
-        "id": "596026805",
-        "name": "PhotoPills",
-        "releaseDate": "2013-03-21",
-        "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/31/ce/8331ce8a-f343-ed3d-b0e0-436f44b4be18/Photopills-liquid-glass-logo-0-1x_U007epad-0-1-0-0-85-220-0.png/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "6008",
-            "name": "Photo & Video",
-            "url": "https://itunes.apple.com/us/genre/id6008"
-          },
-          {
-            "genreId": "6017",
-            "name": "Education",
-            "url": "https://itunes.apple.com/us/genre/id6017"
-          }
-        ],
-        "url": "https://apps.apple.com/us/app/photopills/id596026805"
       },
       {
         "artistName": "Bolt Creative",
@@ -485,6 +406,101 @@
         "url": "https://apps.apple.com/us/app/pocket-god/id301387274"
       },
       {
+        "artistName": "Spotted Ghosts",
+        "id": "1536762482",
+        "name": "Spirit Talker ®",
+        "releaseDate": "2020-10-30",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2a/38/1e/2a381e8c-f071-618d-0824-7ba1467af911/AppIcon-1x_U007emarketing-0-3-0-0-85-220-0.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6012",
+            "name": "Lifestyle",
+            "url": "https://itunes.apple.com/us/genre/id6012"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/spirit-talker/id1536762482"
+      },
+      {
+        "artistName": "Cultured Code GmbH & Co. KG",
+        "id": "904237743",
+        "name": "Things 3",
+        "releaseDate": "2017-05-18",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/1e/fe/d01efe6f-a09d-713e-0b02-b75c2865c215/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6007",
+            "name": "Productivity",
+            "url": "https://itunes.apple.com/us/genre/id6007"
+          },
+          {
+            "genreId": "6000",
+            "name": "Business",
+            "url": "https://itunes.apple.com/us/genre/id6000"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/things-3/id904237743"
+      },
+      {
+        "artistName": "HappyCow",
+        "id": "435871950",
+        "name": "HappyCow - Vegan Food Near You",
+        "releaseDate": "2011-05-12",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/ea/9f/14ea9f16-d364-a8ad-5a3e-a6bf076bf1db/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6003",
+            "name": "Travel",
+            "url": "https://itunes.apple.com/us/genre/id6003"
+          },
+          {
+            "genreId": "6023",
+            "name": "Food & Drink",
+            "url": "https://itunes.apple.com/us/genre/id6023"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/happycow-vegan-food-near-you/id435871950"
+      },
+      {
+        "artistName": "PhotoPills S.L.",
+        "id": "596026805",
+        "name": "PhotoPills",
+        "releaseDate": "2013-03-21",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/31/ce/8331ce8a-f343-ed3d-b0e0-436f44b4be18/Photopills-liquid-glass-logo-0-1x_U007epad-0-1-0-0-85-220-0.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6008",
+            "name": "Photo & Video",
+            "url": "https://itunes.apple.com/us/genre/id6008"
+          },
+          {
+            "genreId": "6017",
+            "name": "Education",
+            "url": "https://itunes.apple.com/us/genre/id6017"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/photopills/id596026805"
+      },
+      {
+        "artistName": "Swisscows AG",
+        "id": "1505636751",
+        "name": "TeleGuard",
+        "releaseDate": "2021-01-19",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/dd/e6/d5dde69c-aaca-3cda-214a-2c838d2d5e76/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6005",
+            "name": "Social Networking",
+            "url": "https://itunes.apple.com/us/genre/id6005"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/teleguard/id1505636751"
+      },
+      {
         "artistName": "Cascode Labs Pty Ltd",
         "id": "405835358",
         "name": "MilGPS",
@@ -504,27 +520,6 @@
           }
         ],
         "url": "https://apps.apple.com/us/app/milgps/id405835358"
-      },
-      {
-        "artistName": "Simulation Curriculum Corp.",
-        "id": "6752672420",
-        "name": "SkySafari 8 Pro",
-        "releaseDate": "2025-12-10",
-        "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/60/1f/b9601f02-5cb0-0a06-5a8f-b6576fc548dd/PRO-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "6006",
-            "name": "Reference",
-            "url": "https://itunes.apple.com/us/genre/id6006"
-          },
-          {
-            "genreId": "6017",
-            "name": "Education",
-            "url": "https://itunes.apple.com/us/genre/id6017"
-          }
-        ],
-        "url": "https://apps.apple.com/us/app/skysafari-8-pro/id6752672420"
       },
       {
         "artistName": "Tantsissa",
@@ -548,33 +543,12 @@
         "url": "https://apps.apple.com/us/app/heartwatch-heart-rate-monitor/id1062745479"
       },
       {
-        "artistName": "Joseph Vidunas",
-        "id": "741990930",
-        "name": "Walkout Song DJ",
-        "releaseDate": "2013-11-17",
+        "artistName": "Simulation Curriculum Corp.",
+        "id": "6752672420",
+        "name": "SkySafari 8 Pro",
+        "releaseDate": "2025-12-10",
         "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0b/d8/2e/0bd82e60-ba8b-4c39-65d2-01f886a26350/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "6011",
-            "name": "Music",
-            "url": "https://itunes.apple.com/us/genre/id6011"
-          },
-          {
-            "genreId": "6004",
-            "name": "Sports",
-            "url": "https://itunes.apple.com/us/genre/id6004"
-          }
-        ],
-        "url": "https://apps.apple.com/us/app/walkout-song-dj/id741990930"
-      },
-      {
-        "artistName": "Rick Meyers",
-        "id": "634158738",
-        "name": "e-Sword LT: Bible Study to Go",
-        "releaseDate": "2013-04-20",
-        "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/5a/2e/d15a2efb-c991-1b30-3dca-d5aa82eb4d67/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/60/1f/b9601f02-5cb0-0a06-5a8f-b6576fc548dd/PRO-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
         "genres": [
           {
             "genreId": "6006",
@@ -587,23 +561,7 @@
             "url": "https://itunes.apple.com/us/genre/id6017"
           }
         ],
-        "url": "https://apps.apple.com/us/app/e-sword-lt-bible-study-to-go/id634158738"
-      },
-      {
-        "artistName": "Enhancient",
-        "id": "1234214894",
-        "name": "Ravit - Ravelry on the hop",
-        "releaseDate": "2017-07-18",
-        "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/e9/8d/c4e98da2-6991-c46b-cd5e-5779b10c45c8/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "6012",
-            "name": "Lifestyle",
-            "url": "https://itunes.apple.com/us/genre/id6012"
-          }
-        ],
-        "url": "https://apps.apple.com/us/app/ravit-ravelry-on-the-hop/id1234214894"
+        "url": "https://apps.apple.com/us/app/skysafari-8-pro/id6752672420"
       },
       {
         "artistName": "left brain / right brain, LLC",
@@ -627,6 +585,64 @@
         "url": "https://apps.apple.com/us/app/stylebook/id335709058"
       },
       {
+        "artistName": "Joseph Vidunas",
+        "id": "741990930",
+        "name": "Walkout Song DJ",
+        "releaseDate": "2013-11-17",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0b/d8/2e/0bd82e60-ba8b-4c39-65d2-01f886a26350/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6011",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id6011"
+          },
+          {
+            "genreId": "6004",
+            "name": "Sports",
+            "url": "https://itunes.apple.com/us/genre/id6004"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/walkout-song-dj/id741990930"
+      },
+      {
+        "artistName": "Enhancient",
+        "id": "1234214894",
+        "name": "Ravit - Ravelry on the hop",
+        "releaseDate": "2017-07-18",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/e9/8d/c4e98da2-6991-c46b-cd5e-5779b10c45c8/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6012",
+            "name": "Lifestyle",
+            "url": "https://itunes.apple.com/us/genre/id6012"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/ravit-ravelry-on-the-hop/id1234214894"
+      },
+      {
+        "artistName": "Rick Meyers",
+        "id": "634158738",
+        "name": "e-Sword LT: Bible Study to Go",
+        "releaseDate": "2013-04-20",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/5a/2e/d15a2efb-c991-1b30-3dca-d5aa82eb4d67/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6006",
+            "name": "Reference",
+            "url": "https://itunes.apple.com/us/genre/id6006"
+          },
+          {
+            "genreId": "6017",
+            "name": "Education",
+            "url": "https://itunes.apple.com/us/genre/id6017"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/e-sword-lt-bible-study-to-go/id634158738"
+      },
+      {
         "artistName": "chris rogers",
         "id": "1396698319",
         "name": "Necrophonic",
@@ -648,20 +664,25 @@
         "url": "https://apps.apple.com/us/app/necrophonic/id1396698319"
       },
       {
-        "artistName": "Swisscows AG",
-        "id": "1505636751",
-        "name": "TeleGuard",
-        "releaseDate": "2021-01-19",
+        "artistName": "ForceReadiness.com",
+        "id": "482303584",
+        "name": "PDG PROmote 2026+",
+        "releaseDate": "2011-11-23",
         "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/dd/e6/d5dde69c-aaca-3cda-214a-2c838d2d5e76/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/2c/97/e82c9710-c1ae-85e1-8dc2-31eed7677c08/AppIcons-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
         "genres": [
           {
-            "genreId": "6005",
-            "name": "Social Networking",
-            "url": "https://itunes.apple.com/us/genre/id6005"
+            "genreId": "6017",
+            "name": "Education",
+            "url": "https://itunes.apple.com/us/genre/id6017"
+          },
+          {
+            "genreId": "6006",
+            "name": "Reference",
+            "url": "https://itunes.apple.com/us/genre/id6006"
           }
         ],
-        "url": "https://apps.apple.com/us/app/teleguard/id1505636751"
+        "url": "https://apps.apple.com/us/app/pdg-promote-2026/id482303584"
       },
       {
         "artistName": "CATEATER, LLC",
@@ -706,6 +727,64 @@
         "url": "https://apps.apple.com/us/app/forscan-lite-for-ford-mazda/id892347083"
       },
       {
+        "artistName": "Numen Technologies Limited",
+        "id": "6448106860",
+        "name": "Private LLM - Local AI Chat",
+        "releaseDate": "2023-06-05",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/02/3e/99023e6f-77e1-a9cd-fa21-4982bc91e80d/AppIcon-0-0-1x_U007epad-0-11-0-sRGB-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6002",
+            "name": "Utilities",
+            "url": "https://itunes.apple.com/us/genre/id6002"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/private-llm-local-ai-chat/id6448106860"
+      },
+      {
+        "artistName": "VIGI Limited",
+        "id": "432791399",
+        "name": "Cloud Baby Monitor",
+        "releaseDate": "2011-06-27",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/20/35/d620359d-3273-aeb9-ae40-3f5d823e9c1f/AppIcon-0-1x_U007epad-0-1-0-0-85-220-0.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6012",
+            "name": "Lifestyle",
+            "url": "https://itunes.apple.com/us/genre/id6012"
+          },
+          {
+            "genreId": "6003",
+            "name": "Travel",
+            "url": "https://itunes.apple.com/us/genre/id6003"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/cloud-baby-monitor/id432791399"
+      },
+      {
+        "artistName": "Skyhook",
+        "id": "6449003064",
+        "name": "Goblin Tools",
+        "releaseDate": "2023-05-31",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/98/d1/49/98d149b0-645a-7cf4-fb16-3948ff3dd471/AppIcon-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6002",
+            "name": "Utilities",
+            "url": "https://itunes.apple.com/us/genre/id6002"
+          },
+          {
+            "genreId": "6007",
+            "name": "Productivity",
+            "url": "https://itunes.apple.com/us/genre/id6007"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/goblin-tools/id6449003064"
+      },
+      {
         "artistName": "Active Network, LLC",
         "id": "448474423",
         "name": "Couch to 5K® - Run training",
@@ -720,6 +799,43 @@
           }
         ],
         "url": "https://apps.apple.com/us/app/couch-to-5k-run-training/id448474423"
+      },
+      {
+        "artistName": "musictheory.net",
+        "id": "459313476",
+        "name": "Tenuto",
+        "releaseDate": "2011-08-30",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/54/05/fb54054d-b4d9-901b-001a-08f619e2e914/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6011",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id6011"
+          },
+          {
+            "genreId": "6017",
+            "name": "Education",
+            "url": "https://itunes.apple.com/us/genre/id6017"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/tenuto/id459313476"
+      },
+      {
+        "artistName": "Ableton AG",
+        "id": "1633243177",
+        "name": "Ableton Note",
+        "releaseDate": "2022-10-18",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/38/ee/0c38eecd-4a39-1159-b35f-48c80ced801c/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6011",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id6011"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/ableton-note/id1633243177"
       },
       {
         "artistName": "iScore5app, LLC",
@@ -759,67 +875,25 @@
         "url": "https://apps.apple.com/us/app/obd-fusion/id650684932"
       },
       {
-        "artistName": "VIGI Limited",
-        "id": "432791399",
-        "name": "Cloud Baby Monitor",
-        "releaseDate": "2011-06-27",
+        "artistName": "CCS Ltd",
+        "id": "1241909999",
+        "name": "WorkOutDoors",
+        "releaseDate": "2017-07-13",
         "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/20/35/d620359d-3273-aeb9-ae40-3f5d823e9c1f/AppIcon-0-1x_U007epad-0-1-0-0-85-220-0.png/100x100bb.png",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/6a/86/076a862f-df67-c68b-8cd2-2c755b6d6719/AppIcon-0-0-1x_U007emarketing-0-6-0-0-GLES2_U002c0-85-220.png/100x100bb.png",
         "genres": [
           {
-            "genreId": "6012",
-            "name": "Lifestyle",
-            "url": "https://itunes.apple.com/us/genre/id6012"
+            "genreId": "6013",
+            "name": "Health & Fitness",
+            "url": "https://itunes.apple.com/us/genre/id6013"
           },
           {
-            "genreId": "6003",
-            "name": "Travel",
-            "url": "https://itunes.apple.com/us/genre/id6003"
+            "genreId": "6010",
+            "name": "Navigation",
+            "url": "https://itunes.apple.com/us/genre/id6010"
           }
         ],
-        "url": "https://apps.apple.com/us/app/cloud-baby-monitor/id432791399"
-      },
-      {
-        "artistName": "musictheory.net",
-        "id": "459313476",
-        "name": "Tenuto",
-        "releaseDate": "2011-08-30",
-        "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/54/05/fb54054d-b4d9-901b-001a-08f619e2e914/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "6011",
-            "name": "Music",
-            "url": "https://itunes.apple.com/us/genre/id6011"
-          },
-          {
-            "genreId": "6017",
-            "name": "Education",
-            "url": "https://itunes.apple.com/us/genre/id6017"
-          }
-        ],
-        "url": "https://apps.apple.com/us/app/tenuto/id459313476"
-      },
-      {
-        "artistName": "Skyhook",
-        "id": "6449003064",
-        "name": "Goblin Tools",
-        "releaseDate": "2023-05-31",
-        "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/98/d1/49/98d149b0-645a-7cf4-fb16-3948ff3dd471/AppIcon-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "6002",
-            "name": "Utilities",
-            "url": "https://itunes.apple.com/us/genre/id6002"
-          },
-          {
-            "genreId": "6007",
-            "name": "Productivity",
-            "url": "https://itunes.apple.com/us/genre/id6007"
-          }
-        ],
-        "url": "https://apps.apple.com/us/app/goblin-tools/id6449003064"
+        "url": "https://apps.apple.com/us/app/workoutdoors/id1241909999"
       },
       {
         "artistName": "WAGOTABI LIMITED",
@@ -874,43 +948,6 @@
         "url": "https://apps.apple.com/us/app/knot-iq-the-bear-essentials/id6738783142"
       },
       {
-        "artistName": "CCS Ltd",
-        "id": "1241909999",
-        "name": "WorkOutDoors",
-        "releaseDate": "2017-07-13",
-        "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/6a/86/076a862f-df67-c68b-8cd2-2c755b6d6719/AppIcon-0-0-1x_U007emarketing-0-6-0-0-GLES2_U002c0-85-220.png/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "6013",
-            "name": "Health & Fitness",
-            "url": "https://itunes.apple.com/us/genre/id6013"
-          },
-          {
-            "genreId": "6010",
-            "name": "Navigation",
-            "url": "https://itunes.apple.com/us/genre/id6010"
-          }
-        ],
-        "url": "https://apps.apple.com/us/app/workoutdoors/id1241909999"
-      },
-      {
-        "artistName": "Ableton AG",
-        "id": "1633243177",
-        "name": "Ableton Note",
-        "releaseDate": "2022-10-18",
-        "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/38/ee/0c38eecd-4a39-1159-b35f-48c80ced801c/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "6011",
-            "name": "Music",
-            "url": "https://itunes.apple.com/us/genre/id6011"
-          }
-        ],
-        "url": "https://apps.apple.com/us/app/ableton-note/id1633243177"
-      },
-      {
         "artistName": "Freecloud Design, Inc.",
         "id": "381342267",
         "name": "Stack the States®",
@@ -937,41 +974,20 @@
         "url": "https://apps.apple.com/us/app/stack-the-states/id381342267"
       },
       {
-        "artistName": "ForceReadiness.com",
-        "id": "482303584",
-        "name": "PDG PROmote 2026+",
-        "releaseDate": "2011-11-23",
+        "artistName": "Seongmin Lee",
+        "id": "6742218180",
+        "name": "희담필터",
+        "releaseDate": "2025-03-03",
         "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/2c/97/e82c9710-c1ae-85e1-8dc2-31eed7677c08/AppIcons-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/33/ac/e333ac36-99e5-7209-074b-563c38d7c93e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
         "genres": [
           {
-            "genreId": "6017",
-            "name": "Education",
-            "url": "https://itunes.apple.com/us/genre/id6017"
-          },
-          {
-            "genreId": "6006",
-            "name": "Reference",
-            "url": "https://itunes.apple.com/us/genre/id6006"
+            "genreId": "6008",
+            "name": "Photo & Video",
+            "url": "https://itunes.apple.com/us/genre/id6008"
           }
         ],
-        "url": "https://apps.apple.com/us/app/pdg-promote-2026/id482303584"
-      },
-      {
-        "artistName": "Numen Technologies Limited",
-        "id": "6448106860",
-        "name": "Private LLM - Local AI Chat",
-        "releaseDate": "2023-06-05",
-        "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/02/3e/99023e6f-77e1-a9cd-fa21-4982bc91e80d/AppIcon-0-0-1x_U007epad-0-11-0-sRGB-85-220.png/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "6002",
-            "name": "Utilities",
-            "url": "https://itunes.apple.com/us/genre/id6002"
-          }
-        ],
-        "url": "https://apps.apple.com/us/app/private-llm-local-ai-chat/id6448106860"
+        "url": "https://apps.apple.com/us/app/%ED%9D%AC%EB%8B%B4%ED%95%84%ED%84%B0/id6742218180"
       },
       {
         "artistName": "Technimo LLC",
@@ -993,132 +1009,6 @@
           }
         ],
         "url": "https://apps.apple.com/us/app/ireal-pro/id298206806"
-      },
-      {
-        "artistName": "Phase Five Systems",
-        "id": "364876095",
-        "name": "Jump Desktop (RDP, VNC, Fluid)",
-        "releaseDate": "2010-04-01",
-        "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/25/78/9b/25789b0f-a94a-e60d-85d8-61dd8acf6ce4/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "6000",
-            "name": "Business",
-            "url": "https://itunes.apple.com/us/genre/id6000"
-          },
-          {
-            "genreId": "6002",
-            "name": "Utilities",
-            "url": "https://itunes.apple.com/us/genre/id6002"
-          }
-        ],
-        "url": "https://apps.apple.com/us/app/jump-desktop-rdp-vnc-fluid/id364876095"
-      },
-      {
-        "artistName": "Digital Dream Labs LLC",
-        "id": "6748243845",
-        "name": "Cozmo Robot",
-        "releaseDate": "2025-07-17",
-        "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/c0/a9/eac0a9b9-b55f-94a1-86d8-e411b807f9fe/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "6016",
-            "name": "Entertainment",
-            "url": "https://itunes.apple.com/us/genre/id6016"
-          },
-          {
-            "genreId": "6017",
-            "name": "Education",
-            "url": "https://itunes.apple.com/us/genre/id6017"
-          }
-        ],
-        "url": "https://apps.apple.com/us/app/cozmo-robot/id6748243845"
-      },
-      {
-        "artistName": "James M Kempema MD PA",
-        "id": "327963391",
-        "name": "Pedi STAT",
-        "releaseDate": "2009-08-29",
-        "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/c6/79/1bc679a6-8073-c4a9-2c7d-0c61a0a53623/AppIcon-pedistat-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "6020",
-            "name": "Medical",
-            "url": "https://itunes.apple.com/us/genre/id6020"
-          },
-          {
-            "genreId": "6013",
-            "name": "Health & Fitness",
-            "url": "https://itunes.apple.com/us/genre/id6013"
-          }
-        ],
-        "url": "https://apps.apple.com/us/app/pedi-stat/id327963391"
-      },
-      {
-        "artistName": "RTD",
-        "id": "754105884",
-        "name": "NightCap Camera",
-        "releaseDate": "2013-12-12",
-        "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/12/99/7d/12997dc1-dbd5-71eb-6d9a-d970d951ba61/AppIcon-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "6008",
-            "name": "Photo & Video",
-            "url": "https://itunes.apple.com/us/genre/id6008"
-          },
-          {
-            "genreId": "6002",
-            "name": "Utilities",
-            "url": "https://itunes.apple.com/us/genre/id6002"
-          }
-        ],
-        "url": "https://apps.apple.com/us/app/nightcap-camera/id754105884"
-      },
-      {
-        "artistName": "Awesome Labs LLC",
-        "id": "1524577846",
-        "name": "PepCalc: Peptide Calculator",
-        "releaseDate": "2020-07-22",
-        "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/a1/17/d7a117a6-0262-e887-6a26-9d1e4099da7f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "6013",
-            "name": "Health & Fitness",
-            "url": "https://itunes.apple.com/us/genre/id6013"
-          },
-          {
-            "genreId": "6002",
-            "name": "Utilities",
-            "url": "https://itunes.apple.com/us/genre/id6002"
-          }
-        ],
-        "url": "https://apps.apple.com/us/app/pepcalc-peptide-calculator/id1524577846"
-      },
-      {
-        "artistName": "STASH NETWORKS LIMITED",
-        "id": "1596063349",
-        "name": "Stash - Rule Based Proxy",
-        "releaseDate": "2021-12-10",
-        "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/64/5b/fc645bde-b87f-935c-0ee4-17826a9876dd/AppIcon-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220-0.png/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "6002",
-            "name": "Utilities",
-            "url": "https://itunes.apple.com/us/genre/id6002"
-          },
-          {
-            "genreId": "6026",
-            "name": "Developer Tools",
-            "url": "https://itunes.apple.com/us/genre/id6026"
-          }
-        ],
-        "url": "https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349"
       },
       {
         "artistName": "TMSOFT",
@@ -1163,6 +1053,190 @@
         "url": "https://apps.apple.com/us/app/pro-camera-by-moment/id927098908"
       },
       {
+        "artistName": "James M Kempema MD PA",
+        "id": "327963391",
+        "name": "Pedi STAT",
+        "releaseDate": "2009-08-29",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/c6/79/1bc679a6-8073-c4a9-2c7d-0c61a0a53623/AppIcon-pedistat-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6020",
+            "name": "Medical",
+            "url": "https://itunes.apple.com/us/genre/id6020"
+          },
+          {
+            "genreId": "6013",
+            "name": "Health & Fitness",
+            "url": "https://itunes.apple.com/us/genre/id6013"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/pedi-stat/id327963391"
+      },
+      {
+        "artistName": "Dark Reader Ltd",
+        "id": "1438243180",
+        "name": "Dark Reader for Safari",
+        "releaseDate": "2018-10-10",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/90/ed/3290ed14-903b-ac69-c1a5-d642b960cf2a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6007",
+            "name": "Productivity",
+            "url": "https://itunes.apple.com/us/genre/id6007"
+          },
+          {
+            "genreId": "6002",
+            "name": "Utilities",
+            "url": "https://itunes.apple.com/us/genre/id6002"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/dark-reader-for-safari/id1438243180"
+      },
+      {
+        "artistName": "Phase Five Systems",
+        "id": "364876095",
+        "name": "Jump Desktop (RDP, VNC, Fluid)",
+        "releaseDate": "2010-04-01",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/25/78/9b/25789b0f-a94a-e60d-85d8-61dd8acf6ce4/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6000",
+            "name": "Business",
+            "url": "https://itunes.apple.com/us/genre/id6000"
+          },
+          {
+            "genreId": "6002",
+            "name": "Utilities",
+            "url": "https://itunes.apple.com/us/genre/id6002"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/jump-desktop-rdp-vnc-fluid/id364876095"
+      },
+      {
+        "artistName": "STASH NETWORKS LIMITED",
+        "id": "1596063349",
+        "name": "Stash - Rule Based Proxy",
+        "releaseDate": "2021-12-10",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/64/5b/fc645bde-b87f-935c-0ee4-17826a9876dd/AppIcon-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220-0.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6002",
+            "name": "Utilities",
+            "url": "https://itunes.apple.com/us/genre/id6002"
+          },
+          {
+            "genreId": "6026",
+            "name": "Developer Tools",
+            "url": "https://itunes.apple.com/us/genre/id6026"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349"
+      },
+      {
+        "artistName": "Digital Dream Labs LLC",
+        "id": "6748243845",
+        "name": "Cozmo Robot",
+        "releaseDate": "2025-07-17",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/c0/a9/eac0a9b9-b55f-94a1-86d8-e411b807f9fe/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6016",
+            "name": "Entertainment",
+            "url": "https://itunes.apple.com/us/genre/id6016"
+          },
+          {
+            "genreId": "6017",
+            "name": "Education",
+            "url": "https://itunes.apple.com/us/genre/id6017"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/cozmo-robot/id6748243845"
+      },
+      {
+        "artistName": "RTD",
+        "id": "754105884",
+        "name": "NightCap Camera",
+        "releaseDate": "2013-12-12",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/12/99/7d/12997dc1-dbd5-71eb-6d9a-d970d951ba61/AppIcon-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6008",
+            "name": "Photo & Video",
+            "url": "https://itunes.apple.com/us/genre/id6008"
+          },
+          {
+            "genreId": "6002",
+            "name": "Utilities",
+            "url": "https://itunes.apple.com/us/genre/id6002"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/nightcap-camera/id754105884"
+      },
+      {
+        "artistName": "Tinkerworks Apps",
+        "id": "730712409",
+        "name": "ProCam - Pro Camera",
+        "releaseDate": "2013-10-30",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/64/bb/4d64bb6c-3ae9-f869-80f6-0c51bff220f3/AppIcon-2-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6008",
+            "name": "Photo & Video",
+            "url": "https://itunes.apple.com/us/genre/id6008"
+          },
+          {
+            "genreId": "6012",
+            "name": "Lifestyle",
+            "url": "https://itunes.apple.com/us/genre/id6012"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/procam-pro-camera/id730712409"
+      },
+      {
+        "artistName": "Awesome Labs LLC",
+        "id": "1524577846",
+        "name": "PepCalc: Peptide Calculator",
+        "releaseDate": "2020-07-22",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/a1/17/d7a117a6-0262-e887-6a26-9d1e4099da7f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6013",
+            "name": "Health & Fitness",
+            "url": "https://itunes.apple.com/us/genre/id6013"
+          },
+          {
+            "genreId": "6002",
+            "name": "Utilities",
+            "url": "https://itunes.apple.com/us/genre/id6002"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/pepcalc-peptide-calculator/id1524577846"
+      },
+      {
+        "artistName": "Jarrod Norwell",
+        "id": "6498623389",
+        "name": "Folium",
+        "releaseDate": "2024-05-31",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/f4/4e/97f44eec-b032-3edc-d909-46c2b8d09ff0/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6016",
+            "name": "Entertainment",
+            "url": "https://itunes.apple.com/us/genre/id6016"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/folium/id6498623389"
+      },
+      {
         "artistName": "Signal Stuff",
         "id": "1371288324",
         "name": "HamStudy.org",
@@ -1200,33 +1274,12 @@
         "url": "https://apps.apple.com/us/app/healthfit/id1202650514"
       },
       {
-        "artistName": "SDS Weather LLC",
-        "id": "1439881811",
-        "name": "RadarOmega: Doppler Radar App",
-        "releaseDate": "2019-03-14",
-        "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/78/fa/5d78fa53-058d-be70-0a01-215df15d1043/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "6001",
-            "name": "Weather",
-            "url": "https://itunes.apple.com/us/genre/id6001"
-          },
-          {
-            "genreId": "6017",
-            "name": "Education",
-            "url": "https://itunes.apple.com/us/genre/id6017"
-          }
-        ],
-        "url": "https://apps.apple.com/us/app/radaromega-doppler-radar-app/id1439881811"
-      },
-      {
         "artistName": "Sirius Technology Advanced Research",
         "id": "1499236474",
         "name": "CE5 Contact",
         "releaseDate": "2020-04-05",
         "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/ee/0f/50ee0f86-7670-5a20-a5f6-94664451ebd2/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/d4/02/c1d40281-877c-3efe-5c09-4ba7b9aeaece/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
         "genres": [
           {
             "genreId": "6017",
@@ -1240,190 +1293,6 @@
           }
         ],
         "url": "https://apps.apple.com/us/app/ce5-contact/id1499236474"
-      },
-      {
-        "artistName": "Tinkerworks Apps",
-        "id": "730712409",
-        "name": "ProCam - Pro Camera",
-        "releaseDate": "2013-10-30",
-        "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/64/bb/4d64bb6c-3ae9-f869-80f6-0c51bff220f3/AppIcon-2-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "6008",
-            "name": "Photo & Video",
-            "url": "https://itunes.apple.com/us/genre/id6008"
-          },
-          {
-            "genreId": "6012",
-            "name": "Lifestyle",
-            "url": "https://itunes.apple.com/us/genre/id6012"
-          }
-        ],
-        "url": "https://apps.apple.com/us/app/procam-pro-camera/id730712409"
-      },
-      {
-        "artistName": "Jarrod Norwell",
-        "id": "6498623389",
-        "name": "Folium",
-        "releaseDate": "2024-05-31",
-        "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/f4/4e/97f44eec-b032-3edc-d909-46c2b8d09ff0/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "6016",
-            "name": "Entertainment",
-            "url": "https://itunes.apple.com/us/genre/id6016"
-          }
-        ],
-        "url": "https://apps.apple.com/us/app/folium/id6498623389"
-      },
-      {
-        "artistName": "Clafou Ltd",
-        "id": "949490225",
-        "name": "Print to Size",
-        "releaseDate": "2015-01-21",
-        "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/e0/f4/53e0f448-db2b-2782-2593-379c10343712/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "6008",
-            "name": "Photo & Video",
-            "url": "https://itunes.apple.com/us/genre/id6008"
-          },
-          {
-            "genreId": "6027",
-            "name": "Graphics & Design",
-            "url": "https://itunes.apple.com/us/genre/id6027"
-          }
-        ],
-        "url": "https://apps.apple.com/us/app/print-to-size/id949490225"
-      },
-      {
-        "artistName": "Rarevision",
-        "id": "679454835",
-        "name": "Rarevision VHS: Retro Cam",
-        "releaseDate": "2015-08-17",
-        "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/48/33/244833ea-83a1-0973-5e84-4d376875386e/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "6008",
-            "name": "Photo & Video",
-            "url": "https://itunes.apple.com/us/genre/id6008"
-          },
-          {
-            "genreId": "6005",
-            "name": "Social Networking",
-            "url": "https://itunes.apple.com/us/genre/id6005"
-          }
-        ],
-        "url": "https://apps.apple.com/us/app/rarevision-vhs-retro-cam/id679454835"
-      },
-      {
-        "artistName": "Inner Circle",
-        "id": "6759029184",
-        "name": "Mono Lab",
-        "releaseDate": "2026-02-18",
-        "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/45/1f/c0451f55-cc55-951d-e19e-2e608815674e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "6027",
-            "name": "Graphics & Design",
-            "url": "https://itunes.apple.com/us/genre/id6027"
-          },
-          {
-            "genreId": "6008",
-            "name": "Photo & Video",
-            "url": "https://itunes.apple.com/us/genre/id6008"
-          }
-        ],
-        "url": "https://apps.apple.com/us/app/mono-lab/id6759029184"
-      },
-      {
-        "artistName": "Passion For Baking AS",
-        "id": "1505065609",
-        "name": "Love, Manuela",
-        "releaseDate": "2020-04-22",
-        "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/25/e8/7625e80c-2052-66ad-374c-e344ed43b51b/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "6023",
-            "name": "Food & Drink",
-            "url": "https://itunes.apple.com/us/genre/id6023"
-          },
-          {
-            "genreId": "6012",
-            "name": "Lifestyle",
-            "url": "https://itunes.apple.com/us/genre/id6012"
-          }
-        ],
-        "url": "https://apps.apple.com/us/app/love-manuela/id1505065609"
-      },
-      {
-        "artistName": "Pavel Vaisberg",
-        "id": "6760919266",
-        "name": "Follie - Anesthesia Assistant",
-        "releaseDate": "2026-03-30",
-        "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/80/af/4980afa3-52cf-a77d-cb3b-874779ee85f6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "6020",
-            "name": "Medical",
-            "url": "https://itunes.apple.com/us/genre/id6020"
-          },
-          {
-            "genreId": "6017",
-            "name": "Education",
-            "url": "https://itunes.apple.com/us/genre/id6017"
-          }
-        ],
-        "url": "https://apps.apple.com/us/app/follie-anesthesia-assistant/id6760919266"
-      },
-      {
-        "artistName": "PromptSmart",
-        "id": "894811756",
-        "name": "PromptSmart Pro - Teleprompter",
-        "releaseDate": "2014-08-14",
-        "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/9a/97/d09a9760-4717-7bc5-4452-45deb64c23f5/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "6008",
-            "name": "Photo & Video",
-            "url": "https://itunes.apple.com/us/genre/id6008"
-          },
-          {
-            "genreId": "6007",
-            "name": "Productivity",
-            "url": "https://itunes.apple.com/us/genre/id6007"
-          }
-        ],
-        "url": "https://apps.apple.com/us/app/promptsmart-pro-teleprompter/id894811756"
-      },
-      {
-        "artistName": "Open Planet Software",
-        "id": "1033342465",
-        "name": "Just Press Record",
-        "releaseDate": "2015-09-21",
-        "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/e3/04/91e304a4-fa95-2839-b85a-cb723eb51ba9/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220-0.png/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "6002",
-            "name": "Utilities",
-            "url": "https://itunes.apple.com/us/genre/id6002"
-          },
-          {
-            "genreId": "6007",
-            "name": "Productivity",
-            "url": "https://itunes.apple.com/us/genre/id6007"
-          }
-        ],
-        "url": "https://apps.apple.com/us/app/just-press-record/id1033342465"
       },
       {
         "artistName": "Isaac Aronson",
@@ -1484,25 +1353,25 @@
         "url": "https://apps.apple.com/us/app/fsd-hunter/id6737280679"
       },
       {
-        "artistName": "Bret Hardman",
-        "id": "1010311475",
-        "name": "QuickBend: Conduit Bending",
-        "releaseDate": "2015-07-28",
+        "artistName": "SDS Weather LLC",
+        "id": "1439881811",
+        "name": "RadarOmega: Doppler Radar App",
+        "releaseDate": "2019-03-14",
         "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/42/21/5a42216f-98a1-8b21-c0ab-60afc60dea8c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/78/fa/5d78fa53-058d-be70-0a01-215df15d1043/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
         "genres": [
           {
-            "genreId": "6007",
-            "name": "Productivity",
-            "url": "https://itunes.apple.com/us/genre/id6007"
+            "genreId": "6001",
+            "name": "Weather",
+            "url": "https://itunes.apple.com/us/genre/id6001"
           },
           {
-            "genreId": "6002",
-            "name": "Utilities",
-            "url": "https://itunes.apple.com/us/genre/id6002"
+            "genreId": "6017",
+            "name": "Education",
+            "url": "https://itunes.apple.com/us/genre/id6017"
           }
         ],
-        "url": "https://apps.apple.com/us/app/quickbend-conduit-bending/id1010311475"
+        "url": "https://apps.apple.com/us/app/radaromega-doppler-radar-app/id1439881811"
       },
       {
         "artistName": "Luma Touch LLC",
@@ -1526,144 +1395,12 @@
         "url": "https://apps.apple.com/us/app/lumafusion/id1062022008"
       },
       {
-        "artistName": "Seongmin Lee",
-        "id": "6742218180",
-        "name": "희담필터",
-        "releaseDate": "2025-03-03",
+        "artistName": "Clafou Ltd",
+        "id": "949490225",
+        "name": "Print to Size",
+        "releaseDate": "2015-01-21",
         "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/33/ac/e333ac36-99e5-7209-074b-563c38d7c93e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "6008",
-            "name": "Photo & Video",
-            "url": "https://itunes.apple.com/us/genre/id6008"
-          }
-        ],
-        "url": "https://apps.apple.com/us/app/%ED%9D%AC%EB%8B%B4%ED%95%84%ED%84%B0/id6742218180"
-      },
-      {
-        "artistName": "Roberto Viola",
-        "id": "1543684531",
-        "name": "QZ - qdomyos-zwift",
-        "releaseDate": "2020-12-10",
-        "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/05/6a/6e056ad3-1d4d-3596-a926-c0aa1ac852ad/AppIcon-1x_U007emarketing-0-8-0-0-85-220-0.png/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "6004",
-            "name": "Sports",
-            "url": "https://itunes.apple.com/us/genre/id6004"
-          },
-          {
-            "genreId": "6012",
-            "name": "Lifestyle",
-            "url": "https://itunes.apple.com/us/genre/id6012"
-          }
-        ],
-        "url": "https://apps.apple.com/us/app/qz-qdomyos-zwift/id1543684531"
-      },
-      {
-        "artistName": "Soeren Lisager",
-        "id": "6743328970",
-        "name": "Easter Bunny Camera",
-        "releaseDate": "2025-04-11",
-        "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/e3/c4/fde3c461-f6e9-1201-4b49-6a4256065d63/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "6016",
-            "name": "Entertainment",
-            "url": "https://itunes.apple.com/us/genre/id6016"
-          },
-          {
-            "genreId": "6008",
-            "name": "Photo & Video",
-            "url": "https://itunes.apple.com/us/genre/id6008"
-          }
-        ],
-        "url": "https://apps.apple.com/us/app/easter-bunny-camera/id6743328970"
-      },
-      {
-        "artistName": "Nomad Innovations, LLC",
-        "id": "1441335342",
-        "name": "Ballistic X",
-        "releaseDate": "2019-01-28",
-        "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/2b/d4/fd2bd4f4-74d2-c0db-902b-ff5b4eaf787d/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "6004",
-            "name": "Sports",
-            "url": "https://itunes.apple.com/us/genre/id6004"
-          },
-          {
-            "genreId": "6002",
-            "name": "Utilities",
-            "url": "https://itunes.apple.com/us/genre/id6002"
-          }
-        ],
-        "url": "https://apps.apple.com/us/app/ballistic-x/id1441335342"
-      },
-      {
-        "artistName": "SARUKENT DEMIRAY",
-        "id": "6757635632",
-        "name": "PEAK!",
-        "releaseDate": "2026-01-19",
-        "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/a2/fb/f7a2fb9b-3e0c-7c04-6f83-393561b49770/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "6016",
-            "name": "Entertainment",
-            "url": "https://itunes.apple.com/us/genre/id6016"
-          }
-        ],
-        "url": "https://apps.apple.com/us/app/peak/id6757635632"
-      },
-      {
-        "artistName": "Michael Weber",
-        "id": "1360656789",
-        "name": "Ghost Science M3",
-        "releaseDate": "2018-03-29",
-        "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/c2/ed/83c2ed3f-7401-e542-e90e-15b5a44ae986/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "6016",
-            "name": "Entertainment",
-            "url": "https://itunes.apple.com/us/genre/id6016"
-          }
-        ],
-        "url": "https://apps.apple.com/us/app/ghost-science-m3/id1360656789"
-      },
-      {
-        "artistName": "forScore, LLC",
-        "id": "363738376",
-        "name": "forScore",
-        "releaseDate": "2010-04-09",
-        "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/4c/7c/224c7c33-83c4-2f47-225e-a20d66c2b323/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "6011",
-            "name": "Music",
-            "url": "https://itunes.apple.com/us/genre/id6011"
-          },
-          {
-            "genreId": "6018",
-            "name": "Books",
-            "url": "https://itunes.apple.com/us/genre/id6018"
-          }
-        ],
-        "url": "https://apps.apple.com/us/app/forscore/id363738376"
-      },
-      {
-        "artistName": "Swishly inc",
-        "id": "1453647914",
-        "name": "iWebTV PRO",
-        "releaseDate": "2019-03-16",
-        "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/6d/1f/ea6d1fa7-efd8-3bb3-acc8-cb30b9f626fc/AppIcon-pro-0-0-1x_U007epad-0-0-0-9-0-0-85-220.png/100x100bb.png",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/e0/f4/53e0f448-db2b-2782-2593-379c10343712/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
         "genres": [
           {
             "genreId": "6008",
@@ -1671,41 +1408,83 @@
             "url": "https://itunes.apple.com/us/genre/id6008"
           },
           {
-            "genreId": "6016",
-            "name": "Entertainment",
-            "url": "https://itunes.apple.com/us/genre/id6016"
+            "genreId": "6027",
+            "name": "Graphics & Design",
+            "url": "https://itunes.apple.com/us/genre/id6027"
           }
         ],
-        "url": "https://apps.apple.com/us/app/iwebtv-pro/id1453647914"
+        "url": "https://apps.apple.com/us/app/print-to-size/id949490225"
       },
       {
-        "artistName": "ASA",
-        "id": "338893931",
-        "name": "Prepware Aviation Maintenance",
-        "releaseDate": "2009-11-24",
+        "artistName": "Inner Circle",
+        "id": "6759029184",
+        "name": "Mono Lab",
+        "releaseDate": "2026-02-18",
         "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/f1/6e/6bf16ee5-0fd0-46bf-bd3e-3e3d084fc19e/AppIcon-AMT-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/45/1f/c0451f55-cc55-951d-e19e-2e608815674e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
         "genres": [
           {
-            "genreId": "6017",
-            "name": "Education",
-            "url": "https://itunes.apple.com/us/genre/id6017"
+            "genreId": "6027",
+            "name": "Graphics & Design",
+            "url": "https://itunes.apple.com/us/genre/id6027"
           },
           {
-            "genreId": "6006",
-            "name": "Reference",
-            "url": "https://itunes.apple.com/us/genre/id6006"
+            "genreId": "6008",
+            "name": "Photo & Video",
+            "url": "https://itunes.apple.com/us/genre/id6008"
           }
         ],
-        "url": "https://apps.apple.com/us/app/prepware-aviation-maintenance/id338893931"
+        "url": "https://apps.apple.com/us/app/mono-lab/id6759029184"
       },
       {
-        "artistName": "Jan Biniok",
-        "id": "6738342400",
-        "name": "Tampermonkey",
-        "releaseDate": "2024-11-18",
+        "artistName": "PromptSmart",
+        "id": "894811756",
+        "name": "PromptSmart Pro - Teleprompter",
+        "releaseDate": "2014-08-14",
         "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/ef/14/a1ef14c9-b962-a41e-de8a-c5518b1fdc46/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/9a/97/d09a9760-4717-7bc5-4452-45deb64c23f5/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6008",
+            "name": "Photo & Video",
+            "url": "https://itunes.apple.com/us/genre/id6008"
+          },
+          {
+            "genreId": "6007",
+            "name": "Productivity",
+            "url": "https://itunes.apple.com/us/genre/id6007"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/promptsmart-pro-teleprompter/id894811756"
+      },
+      {
+        "artistName": "Rarevision",
+        "id": "679454835",
+        "name": "Rarevision VHS: Retro Cam",
+        "releaseDate": "2015-08-17",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/48/33/244833ea-83a1-0973-5e84-4d376875386e/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6008",
+            "name": "Photo & Video",
+            "url": "https://itunes.apple.com/us/genre/id6008"
+          },
+          {
+            "genreId": "6005",
+            "name": "Social Networking",
+            "url": "https://itunes.apple.com/us/genre/id6005"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/rarevision-vhs-retro-cam/id679454835"
+      },
+      {
+        "artistName": "Bret Hardman",
+        "id": "1010311475",
+        "name": "QuickBend: Conduit Bending",
+        "releaseDate": "2015-07-28",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/42/21/5a42216f-98a1-8b21-c0ab-60afc60dea8c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
         "genres": [
           {
             "genreId": "6007",
@@ -1713,12 +1492,12 @@
             "url": "https://itunes.apple.com/us/genre/id6007"
           },
           {
-            "genreId": "6026",
-            "name": "Developer Tools",
-            "url": "https://itunes.apple.com/us/genre/id6026"
+            "genreId": "6002",
+            "name": "Utilities",
+            "url": "https://itunes.apple.com/us/genre/id6002"
           }
         ],
-        "url": "https://apps.apple.com/us/app/tampermonkey/id6738342400"
+        "url": "https://apps.apple.com/us/app/quickbend-conduit-bending/id1010311475"
       },
       {
         "artistName": "Simulation Curriculum Corp.",
@@ -1742,41 +1521,172 @@
         "url": "https://apps.apple.com/us/app/skysafari/id1257281849"
       },
       {
-        "artistName": "ozPDA",
-        "id": "330247123",
-        "name": "Sun Seeker - Sunlight Tracker",
-        "releaseDate": "2009-10-05",
+        "artistName": "Passion For Baking AS",
+        "id": "1505065609",
+        "name": "Love, Manuela",
+        "releaseDate": "2020-04-22",
         "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/f2/a0/e6f2a077-22ca-52ae-4b49-af89851ee96a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/25/e8/7625e80c-2052-66ad-374c-e344ed43b51b/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
         "genres": [
+          {
+            "genreId": "6023",
+            "name": "Food & Drink",
+            "url": "https://itunes.apple.com/us/genre/id6023"
+          },
+          {
+            "genreId": "6012",
+            "name": "Lifestyle",
+            "url": "https://itunes.apple.com/us/genre/id6012"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/love-manuela/id1505065609"
+      },
+      {
+        "artistName": "Pavel Vaisberg",
+        "id": "6760919266",
+        "name": "Follie - Anesthesia Assistant",
+        "releaseDate": "2026-03-30",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/80/af/4980afa3-52cf-a77d-cb3b-874779ee85f6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6020",
+            "name": "Medical",
+            "url": "https://itunes.apple.com/us/genre/id6020"
+          },
+          {
+            "genreId": "6017",
+            "name": "Education",
+            "url": "https://itunes.apple.com/us/genre/id6017"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/follie-anesthesia-assistant/id6760919266"
+      },
+      {
+        "artistName": "Literature & Latte",
+        "id": "972387337",
+        "name": "Scrivener",
+        "releaseDate": "2016-07-20",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/03/53/53/03535336-8087-e172-bc96-6c4d7e0b833c/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6007",
+            "name": "Productivity",
+            "url": "https://itunes.apple.com/us/genre/id6007"
+          },
+          {
+            "genreId": "6018",
+            "name": "Books",
+            "url": "https://itunes.apple.com/us/genre/id6018"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/scrivener/id972387337"
+      },
+      {
+        "artistName": "Open Planet Software",
+        "id": "1033342465",
+        "name": "Just Press Record",
+        "releaseDate": "2015-09-21",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/e3/04/91e304a4-fa95-2839-b85a-cb723eb51ba9/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220-0.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6002",
+            "name": "Utilities",
+            "url": "https://itunes.apple.com/us/genre/id6002"
+          },
+          {
+            "genreId": "6007",
+            "name": "Productivity",
+            "url": "https://itunes.apple.com/us/genre/id6007"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/just-press-record/id1033342465"
+      },
+      {
+        "artistName": "This Exit LLC",
+        "id": "347393479",
+        "name": "Roadside America",
+        "releaseDate": "2009-12-31",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/93/cb/2f93cb97-17e4-f6d4-b89b-ef867c68ec83/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6003",
+            "name": "Travel",
+            "url": "https://itunes.apple.com/us/genre/id6003"
+          },
           {
             "genreId": "6010",
             "name": "Navigation",
             "url": "https://itunes.apple.com/us/genre/id6010"
-          },
-          {
-            "genreId": "6008",
-            "name": "Photo & Video",
-            "url": "https://itunes.apple.com/us/genre/id6008"
           }
         ],
-        "url": "https://apps.apple.com/us/app/sun-seeker-sunlight-tracker/id330247123"
+        "url": "https://apps.apple.com/us/app/roadside-america/id347393479"
       },
       {
-        "artistName": "Hexanomad",
-        "id": "1519508653",
-        "name": "Nomad Sculpt",
-        "releaseDate": "2020-08-04",
+        "artistName": "Roberto Viola",
+        "id": "1543684531",
+        "name": "QZ - qdomyos-zwift",
+        "releaseDate": "2020-12-10",
         "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/f5/78/4df5780f-7861-f265-63b7-fa4ec3a627fb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/05/6a/6e056ad3-1d4d-3596-a926-c0aa1ac852ad/AppIcon-1x_U007emarketing-0-8-0-0-85-220-0.png/100x100bb.png",
         "genres": [
           {
-            "genreId": "6027",
-            "name": "Graphics & Design",
-            "url": "https://itunes.apple.com/us/genre/id6027"
+            "genreId": "6004",
+            "name": "Sports",
+            "url": "https://itunes.apple.com/us/genre/id6004"
+          },
+          {
+            "genreId": "6012",
+            "name": "Lifestyle",
+            "url": "https://itunes.apple.com/us/genre/id6012"
           }
         ],
-        "url": "https://apps.apple.com/us/app/nomad-sculpt/id1519508653"
+        "url": "https://apps.apple.com/us/app/qz-qdomyos-zwift/id1543684531"
+      },
+      {
+        "artistName": "ASA",
+        "id": "338893931",
+        "name": "Prepware Aviation Maintenance",
+        "releaseDate": "2009-11-24",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/f1/6e/6bf16ee5-0fd0-46bf-bd3e-3e3d084fc19e/AppIcon-AMT-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6017",
+            "name": "Education",
+            "url": "https://itunes.apple.com/us/genre/id6017"
+          },
+          {
+            "genreId": "6006",
+            "name": "Reference",
+            "url": "https://itunes.apple.com/us/genre/id6006"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/prepware-aviation-maintenance/id338893931"
+      },
+      {
+        "artistName": "TextMe, Inc.",
+        "id": "338088432",
+        "name": "Free Tone - Calling & Texting",
+        "releaseDate": "2010-03-02",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/48/5c/14485c75-8cd8-71dd-0920-3e9e8ee1e7ea/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6005",
+            "name": "Social Networking",
+            "url": "https://itunes.apple.com/us/genre/id6005"
+          },
+          {
+            "genreId": "6002",
+            "name": "Utilities",
+            "url": "https://itunes.apple.com/us/genre/id6002"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/free-tone-calling-texting/id338088432"
       },
       {
         "artistName": "Teach Your Monster",
@@ -1808,6 +1718,43 @@
           }
         ],
         "url": "https://apps.apple.com/us/app/teach-your-monster-to-read/id828392046"
+      },
+      {
+        "artistName": "Michael Weber",
+        "id": "1360656789",
+        "name": "Ghost Science M3",
+        "releaseDate": "2018-03-29",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/c2/ed/83c2ed3f-7401-e542-e90e-15b5a44ae986/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6016",
+            "name": "Entertainment",
+            "url": "https://itunes.apple.com/us/genre/id6016"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/ghost-science-m3/id1360656789"
+      },
+      {
+        "artistName": "Swishly inc",
+        "id": "1453647914",
+        "name": "iWebTV PRO",
+        "releaseDate": "2019-03-16",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/6d/1f/ea6d1fa7-efd8-3bb3-acc8-cb30b9f626fc/AppIcon-pro-0-0-1x_U007epad-0-0-0-9-0-0-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6008",
+            "name": "Photo & Video",
+            "url": "https://itunes.apple.com/us/genre/id6008"
+          },
+          {
+            "genreId": "6016",
+            "name": "Entertainment",
+            "url": "https://itunes.apple.com/us/genre/id6016"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/iwebtv-pro/id1453647914"
       },
       {
         "artistName": "Originator Inc.",
@@ -1847,12 +1794,12 @@
         "url": "https://apps.apple.com/us/app/alien10/id1522425038"
       },
       {
-        "artistName": "Dark Reader Ltd",
-        "id": "1438243180",
-        "name": "Dark Reader for Safari",
-        "releaseDate": "2018-10-10",
+        "artistName": "Jan Biniok",
+        "id": "6738342400",
+        "name": "Tampermonkey",
+        "releaseDate": "2024-11-18",
         "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/90/ed/3290ed14-903b-ac69-c1a5-d642b960cf2a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/ef/14/a1ef14c9-b962-a41e-de8a-c5518b1fdc46/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
         "genres": [
           {
             "genreId": "6007",
@@ -1860,25 +1807,25 @@
             "url": "https://itunes.apple.com/us/genre/id6007"
           },
           {
+            "genreId": "6026",
+            "name": "Developer Tools",
+            "url": "https://itunes.apple.com/us/genre/id6026"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/tampermonkey/id6738342400"
+      },
+      {
+        "artistName": "Blue Water Bay",
+        "id": "1440996640",
+        "name": "Flat Earth Sun, Moon & Zodiac",
+        "releaseDate": "2018-11-14",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/ff/48/1dff48a1-97c8-af4e-ed26-c62e43f8b3b2/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
+        "genres": [
+          {
             "genreId": "6002",
             "name": "Utilities",
             "url": "https://itunes.apple.com/us/genre/id6002"
-          }
-        ],
-        "url": "https://apps.apple.com/us/app/dark-reader-for-safari/id1438243180"
-      },
-      {
-        "artistName": "Cantcha, Inc.",
-        "id": "307312434",
-        "name": "iMissal Catholic",
-        "releaseDate": "2009-03-27",
-        "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/bd/83/adbd8382-61a5-fdf0-ea5a-8ccc70d3a9ca/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "6006",
-            "name": "Reference",
-            "url": "https://itunes.apple.com/us/genre/id6006"
           },
           {
             "genreId": "6012",
@@ -1886,28 +1833,65 @@
             "url": "https://itunes.apple.com/us/genre/id6012"
           }
         ],
-        "url": "https://apps.apple.com/us/app/imissal-catholic/id307312434"
+        "url": "https://apps.apple.com/us/app/flat-earth-sun-moon-zodiac/id1440996640"
       },
       {
-        "artistName": "This Exit LLC",
-        "id": "347393479",
-        "name": "Roadside America",
-        "releaseDate": "2009-12-31",
+        "artistName": "Soeren Lisager",
+        "id": "6743328970",
+        "name": "Easter Bunny Camera",
+        "releaseDate": "2025-04-11",
         "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/93/cb/2f93cb97-17e4-f6d4-b89b-ef867c68ec83/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/100x100bb.png",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/e3/c4/fde3c461-f6e9-1201-4b49-6a4256065d63/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
         "genres": [
           {
-            "genreId": "6003",
-            "name": "Travel",
-            "url": "https://itunes.apple.com/us/genre/id6003"
+            "genreId": "6016",
+            "name": "Entertainment",
+            "url": "https://itunes.apple.com/us/genre/id6016"
           },
           {
-            "genreId": "6010",
-            "name": "Navigation",
-            "url": "https://itunes.apple.com/us/genre/id6010"
+            "genreId": "6008",
+            "name": "Photo & Video",
+            "url": "https://itunes.apple.com/us/genre/id6008"
           }
         ],
-        "url": "https://apps.apple.com/us/app/roadside-america/id347393479"
+        "url": "https://apps.apple.com/us/app/easter-bunny-camera/id6743328970"
+      },
+      {
+        "artistName": "Hexanomad",
+        "id": "1519508653",
+        "name": "Nomad Sculpt",
+        "releaseDate": "2020-08-04",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/f5/78/4df5780f-7861-f265-63b7-fa4ec3a627fb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6027",
+            "name": "Graphics & Design",
+            "url": "https://itunes.apple.com/us/genre/id6027"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/nomad-sculpt/id1519508653"
+      },
+      {
+        "artistName": "Nomad Innovations, LLC",
+        "id": "1441335342",
+        "name": "Ballistic X",
+        "releaseDate": "2019-01-28",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/2b/d4/fd2bd4f4-74d2-c0db-902b-ff5b4eaf787d/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6004",
+            "name": "Sports",
+            "url": "https://itunes.apple.com/us/genre/id6004"
+          },
+          {
+            "genreId": "6002",
+            "name": "Utilities",
+            "url": "https://itunes.apple.com/us/genre/id6002"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/ballistic-x/id1441335342"
       }
     ]
   }

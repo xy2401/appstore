@@ -2,14 +2,13 @@
   "resultCount": 1,
   "results": [
     {
-      "isGameCenterEnabled": false,
       "artistViewUrl": "https://apps.apple.com/cn/developer/%E4%BA%91%E9%A3%9E-%E9%99%88/id1773006003?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/eb/45/bbeb4512-fa3b-67dd-281c-aced806ae16b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/eb/45/bbeb4512-fa3b-67dd-281c-aced806ae16b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+      "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
       ],
-      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -139,29 +138,29 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
+      "advisories": [],
       "kind": "software",
       "screenshotUrls": [],
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/eb/45/bbeb4512-fa3b-67dd-281c-aced806ae16b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "contentAdvisoryRating": "4+",
-      "trackCensoredName": "小猫补光灯Pro - 官方出品，氛围感色卡补光自拍开创者",
       "trackViewUrl": "https://apps.apple.com/cn/app/%E5%B0%8F%E7%8C%AB%E8%A1%A5%E5%85%89%E7%81%AFpro-%E5%AE%98%E6%96%B9%E5%87%BA%E5%93%81-%E6%B0%9B%E5%9B%B4%E6%84%9F%E8%89%B2%E5%8D%A1%E8%A1%A5%E5%85%89%E8%87%AA%E6%8B%8D%E5%BC%80%E5%88%9B%E8%80%85/id6737987084?uo=4",
+      "contentAdvisoryRating": "4+",
       "averageUserRating": 4.73424,
-      "artistId": 1773006003,
+      "trackCensoredName": "小猫补光灯Pro - 官方出品，氛围感色卡补光自拍开创者",
+      "minimumOsVersion": "16",
       "artistName": "云飞 陈",
-      "genres": [
-        "摄影与录像",
-        "工具"
-      ],
-      "bundleId": "alchain.catlight-selfie",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "sellerName": "云飞 陈",
+      "artistId": 1773006003,
+      "price": 1.0,
       "primaryGenreName": "Photo & Video",
       "primaryGenreId": 6008,
-      "releaseDate": "2024-11-09T08:00:00Z",
-      "trackId": 6737987084,
       "trackName": "小猫补光灯Pro - 官方出品，氛围感色卡补光自拍开创者",
+      "trackId": 6737987084,
+      "bundleId": "alchain.catlight-selfie",
+      "genreIds": [
+        "6008",
+        "6002"
+      ],
       "currentVersionReleaseDate": "2026-01-12T20:51:07Z",
       "releaseNotes": "花叔又老老实实的修复了一些bug\n\n美颜功能还是没加上～好在，你本来就很美～",
       "version": "2.3.0",
@@ -180,12 +179,13 @@
       "fileSizeBytes": "32104448",
       "formattedPrice": "¥1.00",
       "trackContentRating": "4+",
-      "minimumOsVersion": "16",
-      "genreIds": [
-        "6008",
-        "6002"
+      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "云飞 陈",
+      "genres": [
+        "摄影与录像",
+        "工具"
       ],
-      "price": 1.0,
+      "releaseDate": "2024-11-09T08:00:00Z",
       "userRatingCount": 952
     }
   ]

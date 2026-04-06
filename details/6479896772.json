@@ -2,7 +2,12 @@
   "resultCount": 1,
   "results": [
     {
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/25/2f/ff252f65-2daf-b073-9392-dcd1c649d88b/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/cn/developer/ludan-cui/id1403694478?uo=4",
       "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -132,6 +137,7 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
+      "advisories": [],
       "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1c/89/b8/1c89b8f6-d4ef-0773-8b6b-09963c8135af/04ddb09c-86ad-4018-a41c-0274373842c4_iPhone_5.5.png/392x696bb.png",
@@ -146,48 +152,42 @@
       "appletvScreenshotUrls": [],
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/25/2f/ff252f65-2daf-b073-9392-dcd1c649d88b/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/60x60bb.jpg",
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/25/2f/ff252f65-2daf-b073-9392-dcd1c649d88b/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/25/2f/ff252f65-2daf-b073-9392-dcd1c649d88b/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/cn/developer/ludan-cui/id1403694478?uo=4",
-      "advisories": [],
-      "features": [
-        "iosUniversal"
-      ],
-      "trackId": 6479896772,
-      "trackName": "RenpyReader",
-      "price": 28.0,
-      "releaseDate": "2024-05-15T07:00:00Z",
-      "genreIds": [
-        "6016"
-      ],
-      "primaryGenreName": "Entertainment",
-      "primaryGenreId": 6016,
-      "sellerName": "Ludan Cui",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2025-01-13T21:53:22Z",
-      "releaseNotes": "优化app首页对横竖屏切换时出现的界面元素错位问题",
-      "version": "1.12",
-      "wrapperType": "software",
-      "currency": "CNY",
-      "description": "RenpyReader 能够运行 Renpy 和 ONS：\n快速运行 Renpy/ONS 的视觉小说，并确保语言兼容性。\n可以轻松打开项目所在的文件夹，查看存档内容或其他配置，便于存储或恢复。\n注意事项：\n导入项目时，请确保项目文件夹下有 “Renpy” 文件夹（以确认其为 Renpy 项目）或者其中有 ONS 脚本文件。\n除了文件传输，还可以通过自己的 iTunes 将 Renpy/ONS 项目放置在 “Documents” 文件夹中。本应用程序仅提供运行环境，不提供任何 Renpy/ONS 项目。请确认您的 Renpy/ONS 项目来自合法渠道。",
+      "averageUserRatingForCurrentVersion": 2.80357,
       "minimumOsVersion": "13.0",
-      "fileSizeBytes": "99076096",
-      "formattedPrice": "¥28.00",
-      "contentAdvisoryRating": "4+",
-      "userRatingCountForCurrentVersion": 56,
-      "trackViewUrl": "https://apps.apple.com/cn/app/renpyreader/id6479896772?uo=4",
-      "trackContentRating": "4+",
       "averageUserRating": 2.80357,
       "trackCensoredName": "RenpyReader",
       "languageCodesISO2A": [
         "EN"
       ],
-      "averageUserRatingForCurrentVersion": 2.80357,
-      "bundleId": "ld.software.rencode",
+      "fileSizeBytes": "99076096",
+      "formattedPrice": "¥28.00",
+      "contentAdvisoryRating": "4+",
+      "trackViewUrl": "https://apps.apple.com/cn/app/renpyreader/id6479896772?uo=4",
+      "trackContentRating": "4+",
       "genres": [
         "娱乐"
       ],
+      "price": 28.0,
       "artistId": 1403694478,
       "artistName": "Ludan Cui",
+      "bundleId": "ld.software.rencode",
+      "primaryGenreName": "Entertainment",
+      "primaryGenreId": 6016,
+      "releaseNotes": "优化app首页对横竖屏切换时出现的界面元素错位问题",
+      "releaseDate": "2024-05-15T07:00:00Z",
+      "trackId": 6479896772,
+      "trackName": "RenpyReader",
+      "sellerName": "Ludan Cui",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2025-01-13T21:53:22Z",
+      "version": "1.12",
+      "wrapperType": "software",
+      "currency": "CNY",
+      "description": "RenpyReader 能够运行 Renpy 和 ONS：\n快速运行 Renpy/ONS 的视觉小说，并确保语言兼容性。\n可以轻松打开项目所在的文件夹，查看存档内容或其他配置，便于存储或恢复。\n注意事项：\n导入项目时，请确保项目文件夹下有 “Renpy” 文件夹（以确认其为 Renpy 项目）或者其中有 ONS 脚本文件。\n除了文件传输，还可以通过自己的 iTunes 将 Renpy/ONS 项目放置在 “Documents” 文件夹中。本应用程序仅提供运行环境，不提供任何 Renpy/ONS 项目。请确认您的 Renpy/ONS 项目来自合法渠道。",
+      "userRatingCountForCurrentVersion": 56,
+      "genreIds": [
+        "6016"
+      ],
       "userRatingCount": 56
     }
   ]
