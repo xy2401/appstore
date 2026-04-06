@@ -160,8 +160,25 @@ $allAppDetails | ForEach-Object {
         if ([string]::IsNullOrEmpty($artworkUrl)) {
             Write-Host "Artwork URL is missing for app '$appName' (ID: $appId). Skipping logo download."
         } else {
-            Invoke-WebRequest -Uri $artworkUrl -OutFile $fileName
-            Write-Host "Logo for $appId downloaded."
+            $maxRetries = 3
+            $retryCount = 0
+            $success = $false
+            while (-not $success -and $retryCount -lt $maxRetries) {
+                try {
+                    Invoke-WebRequest -Uri $artworkUrl -OutFile $fileName -ErrorAction Stop
+                    Write-Host "Logo for $appId downloaded."
+                    $success = $true
+                } catch {
+                    $retryCount++
+                    if ($retryCount -lt $maxRetries) {
+                        $sleepTime = Get-Random -Minimum 2 -Maximum 4
+                        Write-Warning "Logo download failed for $appId. Attempt $retryCount. Retrying in $sleepTime seconds..."
+                        Start-Sleep -Seconds $sleepTime
+                    } else {
+                        Write-Error "Failed to download logo for $appId after $maxRetries attempts: $artworkUrl"
+                    }
+                }
+            }
         }
     }
 }
@@ -184,7 +201,7 @@ if ($GenerateMarkdown) {
             if ($appInfo) {
                 $anchor = ConvertTo-AnchorLink -Text $appInfo.name
                 $toc += "- [$($appInfo.name)](#$anchor)`n"
-                #$mdContent += "<a name=`"$anchor`"></a>`n"
+                #$mdContent += "<a name=`"`$anchor`"></a>`n"
                 $mdContent += "#### $($anchor)`n"
                 $mdContent += "## $($appInfo.name)`n"
                 $mdContent += "![$($appInfo.name)](../../logos/$($appId).png)`n`n"
@@ -206,13 +223,6 @@ $rankingFiles = Get-ChildItem -Path "rankings" -Recurse -File | ForEach-Object {
     [PSCustomObject]@{
         Name = $_.Name
         RelativePath = $_.FullName.Substring($rootPath.Length + 1)
-        LastWriteTime = $_.LastWriteTime
-        Length = $_.Length
-    }
-}
-$rankingFiles | ConvertTo-Json -Depth 2 | Out-File -FilePath "rankings.json"
-Write-Host "Step 5 Complete: rankings file list exported to rankings.json."
-+ 1)
         LastWriteTime = $_.LastWriteTime
         Length = $_.Length
     }
