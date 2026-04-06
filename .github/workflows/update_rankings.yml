@@ -58,6 +58,9 @@ jobs:
         if ($status) {
             git commit -m "Update app rankings $(Get-Date -Format 'yyyy-MM-dd')"
             git push
+            
+            Write-Host "Triggering static content deployment..."
+            gh workflow run static.yml
         } else {
             Write-Host "No changes to commit."
         }
