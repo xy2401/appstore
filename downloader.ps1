@@ -39,13 +39,25 @@ foreach ($country in $countries) {
     foreach ($config in $feedConfigs) {
         $rssUrl = "https://rss.marketingtools.apple.com/api/v2/$country/$($config.MediaType)/$($config.FeedType)/$Limit/$($config.Resource).json"
         $fileName = "$outputDir\${country}_$($config.MediaType)_$($config.FileSuffix).json"
+        
+        Write-Host "Fetching: $rssUrl"
+        Write-Host "Saving to: $fileName"
+        
         try {
             $response = Invoke-RestMethod -Uri $rssUrl -ErrorAction Stop
             $response | ConvertTo-Json -Depth 10 | Out-File -FilePath $fileName
-            Write-Host "Fetched $($config.MediaType) - $($config.FileSuffix) for $country"
+            Write-Host "Successfully fetched $($config.MediaType) - $($config.FileSuffix) for $country"
         } catch {
-            Write-Host "Failed to fetch $($config.MediaType) - $($config.FileSuffix) for $country : $($_.Exception.Message)"
+            Write-Error "Failed to fetch $($config.MediaType) - $($config.FileSuffix) for $country."
+            Write-Error "URL: $rssUrl"
+            Write-Error "Error Message: $($_.Exception.Message)"
+            if ($_.Exception.InnerException) {
+                Write-Error "Inner Error: $($_.Exception.InnerException.Message)"
+            }
         }
+        
+        Write-Host "Sleeping for 1.5 seconds..."
+        Start-Sleep -Seconds 1.5
     }
 }
 
