@@ -2,10 +2,18 @@
   "resultCount": 1,
   "results": [
     {
+      "screenshotUrls": [],
+      "ipadScreenshotUrls": [],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/dc/77/8bdc7778-05f5-f3c0-d7a6-3ff0a0289f7a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
       ],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/jp/developer/%E6%99%BA-%E5%B0%8F%E5%B6%8B/id1887157382?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/dc/77/8bdc7778-05f5-f3c0-d7a6-3ff0a0289f7a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/dc/77/8bdc7778-05f5-f3c0-d7a6-3ff0a0289f7a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -136,52 +144,44 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
       "advisories": [],
-      "kind": "software",
-      "screenshotUrls": [],
-      "ipadScreenshotUrls": [],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/dc/77/8bdc7778-05f5-f3c0-d7a6-3ff0a0289f7a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/jp/developer/%E6%99%BA-%E5%B0%8F%E5%B6%8B/id1887157382?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/dc/77/8bdc7778-05f5-f3c0-d7a6-3ff0a0289f7a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/dc/77/8bdc7778-05f5-f3c0-d7a6-3ff0a0289f7a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
-      "minimumOsVersion": "17.0",
-      "genres": [
-        "ブック"
-      ],
-      "price": 1200.0,
-      "bundleId": "jp.skoji.shelff",
-      "releaseDate": "2026-04-03T07:00:00Z",
-      "trackId": 6760986626,
-      "trackName": "shelff",
-      "genreIds": [
-        "6018"
-      ],
-      "primaryGenreName": "Book",
-      "primaryGenreId": 6018,
-      "sellerName": "智 小嶋",
-      "releaseNotes": "* 起動時のライブラリ読み込みを高速化しました\n* キャッシュ再構築時に書架の表示がちらつく問題を修正しました\n* iPhoneでiCloud読み込み中にツールバーの一部が隠れる問題を修正しました\n* 外付けキーボードでコメントや属性を編集する際の不具合を修正しました",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-04-05T23:43:00Z",
-      "version": "1.0.2",
-      "wrapperType": "software",
-      "currency": "JPY",
-      "description": "shelffは、iCloudに保存したPDFを閲覧・管理するための読書アプリです。\n\n  あなたのデータはすべてiCloud Documentsに保存されます。独自のデータベースにロックインされることはありません。メタデータはPDFと同じフォルダにJSONファイルとして保存されるため、アプリを使わなくなっても、データはいつでもあなたのものです。\n\n  ■ ライブラリ\n  ・フォルダで階層的に整理、またはフラット一覧で表示\n  ・カテゴリ・タグによる分類とフィルタ\n  ・タイトル、著者、追加日、最終閲覧日でソート\n  ・既読ステータス（未読・読書中・既読）でフィルタ\n  ・PDF内テキストの横断検索\n  ・グリッド表示とリスト表示の切替\n\n  ■ PDFリーダー\n  ・全画面の没入型リーダー\n  ・単ページ・見開き・見開き（表紙あり）レイアウト\n  ・左綴じ（LTR）・右綴じ（RTL）対応\n  ・ハイライトとコメント付きアノテーション\n  ・目次・アノテーション一覧からのジャンプ\n  ・PDF内テキスト検索\n  ・輝度調整\n\n  ■ メタデータ管理\n  ・タイトル、著者、出版社、出版日などを手動編集\n  ・PDF内の情報から初期値を自動取得\n  ・既読ステータスの自動遷移（読み始めで「読書中」、最終ページで「既読」）\n\n  ■ データの透明性\n  ・すべてのデータはiCloud Documents上のファイル\n  ・メタデータはJSON、アノテーションはPDF本体に保存\n  ・ファイルアプリからいつでもアクセス可能\n\n©ラムダノート: ラムダノート様のPDF書籍をスクリーンショットで使わせていただいています。",
-      "fileSizeBytes": "5308416",
-      "formattedPrice": "¥1,200",
-      "trackContentRating": "4+",
       "averageUserRatingForCurrentVersion": 5,
-      "userRatingCountForCurrentVersion": 1,
       "sellerUrl": "https://skoji.dev/shelff/",
       "languageCodesISO2A": [
         "EN",
         "JA"
       ],
+      "fileSizeBytes": "5308416",
+      "formattedPrice": "¥1,200",
+      "userRatingCountForCurrentVersion": 1,
+      "trackContentRating": "4+",
+      "genres": [
+        "ブック"
+      ],
+      "price": 1200.0,
+      "artistName": "智 小嶋",
+      "artistId": 1887157382,
+      "trackId": 6760986626,
+      "trackName": "shelff",
+      "bundleId": "jp.skoji.shelff",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "primaryGenreName": "Book",
+      "primaryGenreId": 6018,
+      "sellerName": "智 小嶋",
+      "releaseDate": "2026-04-03T07:00:00Z",
+      "genreIds": [
+        "6018"
+      ],
+      "releaseNotes": "* 起動時のライブラリ読み込みを高速化しました\n* キャッシュ再構築時に書架の表示がちらつく問題を修正しました\n* iPhoneでiCloud読み込み中にツールバーの一部が隠れる問題を修正しました\n* 外付けキーボードでコメントや属性を編集する際の不具合を修正しました",
+      "version": "1.0.2",
+      "wrapperType": "software",
+      "currency": "JPY",
+      "description": "shelffは、iCloudに保存したPDFを閲覧・管理するための読書アプリです。\n\n  あなたのデータはすべてiCloud Documentsに保存されます。独自のデータベースにロックインされることはありません。メタデータはPDFと同じフォルダにJSONファイルとして保存されるため、アプリを使わなくなっても、データはいつでもあなたのものです。\n\n  ■ ライブラリ\n  ・フォルダで階層的に整理、またはフラット一覧で表示\n  ・カテゴリ・タグによる分類とフィルタ\n  ・タイトル、著者、追加日、最終閲覧日でソート\n  ・既読ステータス（未読・読書中・既読）でフィルタ\n  ・PDF内テキストの横断検索\n  ・グリッド表示とリスト表示の切替\n\n  ■ PDFリーダー\n  ・全画面の没入型リーダー\n  ・単ページ・見開き・見開き（表紙あり）レイアウト\n  ・左綴じ（LTR）・右綴じ（RTL）対応\n  ・ハイライトとコメント付きアノテーション\n  ・目次・アノテーション一覧からのジャンプ\n  ・PDF内テキスト検索\n  ・輝度調整\n\n  ■ メタデータ管理\n  ・タイトル、著者、出版社、出版日などを手動編集\n  ・PDF内の情報から初期値を自動取得\n  ・既読ステータスの自動遷移（読み始めで「読書中」、最終ページで「既読」）\n\n  ■ データの透明性\n  ・すべてのデータはiCloud Documents上のファイル\n  ・メタデータはJSON、アノテーションはPDF本体に保存\n  ・ファイルアプリからいつでもアクセス可能\n\n©ラムダノート: ラムダノート様のPDF書籍をスクリーンショットで使わせていただいています。",
+      "minimumOsVersion": "17.0",
+      "contentAdvisoryRating": "4+",
       "trackCensoredName": "shelff",
       "trackViewUrl": "https://apps.apple.com/jp/app/shelff/id6760986626?uo=4",
-      "contentAdvisoryRating": "4+",
       "averageUserRating": 5,
-      "artistId": 1887157382,
-      "artistName": "智 小嶋",
+      "currentVersionReleaseDate": "2026-04-05T23:43:00Z",
       "userRatingCount": 1
     }
   ]

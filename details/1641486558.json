@@ -5,6 +5,7 @@
       "artistViewUrl": "https://apps.apple.com/us/developer/temu/id1641486560?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/92/d7/49/92d749cf-0956-0de5-28e2-7cd5c2e5bb05/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/92/d7/49/92d749cf-0956-0de5-28e2-7cd5c2e5bb05/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.jpg",
+      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -134,11 +135,13 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
+      "features": [
+        "iosUniversal"
+      ],
       "advisories": [
         "Infrequent/Mild Medical/Treatment Information",
         "Infrequent/Mild Sexual Content and Nudity"
       ],
-      "isGameCenterEnabled": false,
       "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/63/c5/3d/63c53d12-f277-5e6e-50c0-c761f53feaa2/1.png/392x696bb.png",
@@ -158,27 +161,29 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/92/d7/49/92d749cf-0956-0de5-28e2-7cd5c2e5bb05/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
-      "averageUserRating": 4.67222,
       "trackCensoredName": "Temu: Shop Like a Billionaire",
       "trackViewUrl": "https://apps.apple.com/us/app/temu-shop-like-a-billionaire/id1641486558?uo=4",
+      "averageUserRating": 4.67214,
       "contentAdvisoryRating": "12+",
+      "minimumOsVersion": "13.0",
+      "currentVersionReleaseDate": "2026-04-02T02:33:50Z",
       "artistId": 1641486560,
       "artistName": "Temu",
-      "price": 0.0,
-      "bundleId": "com.einnovation.temu",
-      "isVppDeviceBasedLicensingEnabled": true,
       "releaseDate": "2022-08-31T07:00:00Z",
-      "currentVersionReleaseDate": "2026-04-02T02:33:50Z",
       "releaseNotes": "Support for Visual Intelligence on iOS 26. Snap an image to search and find products quickly, and let Temu help you discover similar finds.",
+      "bundleId": "com.einnovation.temu",
+      "genreIds": [
+        "6024"
+      ],
+      "primaryGenreName": "Shopping",
+      "primaryGenreId": 6024,
+      "sellerName": "Whaleco Inc.",
+      "isVppDeviceBasedLicensingEnabled": true,
       "version": "4.41.0",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Shop on Temu for exclusive offers. \n\nNo matter what you're looking for, Temu has you covered, including fashion, home decor, handmade crafts, beauty & cosmetics, clothing, shoes, and more.\n\nDownload Temu today and enjoy incredible deals daily.\n\nWIDE SELECTION\nDiscover thousands of new products and shops.\n\nCONVENIENCE\nFast and secure checkout.\nFree shipping & returns within 90 days.\n*Other conditions may apply\n\nVisit temu.com or follow us on:\nInstagram: https://www.instagram.com/temu/\nTikTok: https://www.tiktok.com/@temu \nFacebook: https://www.facebook.com/shoptemu\nYoutube: https://www.youtube.com/@temu",
-      "averageUserRatingForCurrentVersion": 4.67222,
-      "minimumOsVersion": "13.0",
+      "averageUserRatingForCurrentVersion": 4.67214,
       "languageCodesISO2A": [
         "SQ",
         "AR",
@@ -233,20 +238,15 @@
       ],
       "fileSizeBytes": "66012160",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 2078659,
+      "userRatingCountForCurrentVersion": 2079424,
       "trackContentRating": "12+",
-      "sellerName": "Whaleco Inc.",
-      "genreIds": [
-        "6024"
-      ],
+      "price": 0.0,
       "genres": [
         "Shopping"
       ],
       "trackId": 1641486558,
       "trackName": "Temu: Shop Like a Billionaire",
-      "primaryGenreName": "Shopping",
-      "primaryGenreId": 6024,
-      "userRatingCount": 2078659
+      "userRatingCount": 2079424
     }
   ]
 }

@@ -2,20 +2,7 @@
   "resultCount": 1,
   "results": [
     {
-      "screenshotUrls": [],
-      "ipadScreenshotUrls": [],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/ad/6b/57ad6b33-9a69-27d7-d4e3-25aceb9ff6d5/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-0-85-220.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/us/developer/google/id281956209?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/ad/6b/57ad6b33-9a69-27d7-d4e3-25aceb9ff6d5/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/ad/6b/57ad6b33-9a69-27d7-d4e3-25aceb9ff6d5/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-0-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
-      "advisories": [
-        "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References",
-        "Infrequent/Mild Medical/Treatment Information",
-        "Infrequent/Mild Profanity or Crude Humor",
-        "Infrequent/Mild Horror/Fear Themes"
-      ],
       "features": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
@@ -146,47 +133,60 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "kind": "software",
-      "averageUserRatingForCurrentVersion": 4.42856,
-      "averageUserRating": 4.42856,
-      "sellerUrl": "https://github.com/google-ai-edge/gallery",
-      "languageCodesISO2A": [
-        "EN"
+      "advisories": [
+        "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References",
+        "Infrequent/Mild Medical/Treatment Information",
+        "Infrequent/Mild Profanity or Crude Humor",
+        "Infrequent/Mild Horror/Fear Themes"
       ],
-      "fileSizeBytes": "35360768",
-      "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 35,
-      "trackContentRating": "12+",
-      "trackCensoredName": "Google AI Edge Gallery",
-      "trackViewUrl": "https://apps.apple.com/us/app/google-ai-edge-gallery/id6749645337?uo=4",
-      "contentAdvisoryRating": "12+",
-      "minimumOsVersion": "17.0",
-      "artistId": 281956209,
-      "artistName": "Google",
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/us/developer/google/id281956209?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/ad/6b/57ad6b33-9a69-27d7-d4e3-25aceb9ff6d5/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/ad/6b/57ad6b33-9a69-27d7-d4e3-25aceb9ff6d5/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-0-85-220.png/100x100bb.jpg",
+      "screenshotUrls": [],
+      "ipadScreenshotUrls": [],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/ad/6b/57ad6b33-9a69-27d7-d4e3-25aceb9ff6d5/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-0-85-220.png/512x512bb.jpg",
       "genres": [
         "Productivity",
         "Utilities"
       ],
       "price": 0.0,
       "bundleId": "com.google.AIEdgeGallery",
-      "currentVersionReleaseDate": "2026-04-03T15:53:29Z",
-      "trackId": 6749645337,
-      "trackName": "Google AI Edge Gallery",
-      "releaseDate": "2026-02-25T08:00:00Z",
       "genreIds": [
         "6007",
         "6002"
       ],
-      "sellerName": "Google LLC",
       "isVppDeviceBasedLicensingEnabled": true,
+      "trackName": "Google AI Edge Gallery",
+      "trackId": 6749645337,
       "primaryGenreName": "Productivity",
       "primaryGenreId": 6007,
+      "sellerName": "Google LLC",
+      "currentVersionReleaseDate": "2026-04-03T15:53:29Z",
       "releaseNotes": "- Introducing Gemma 4: Experience the latest high-performance models running fully offline.\n- Agent Skills: Extend LLMs with modular tools like display interactive maps and search Wikipedia. Supporting custom skill loading from the community.\n- Thinking Mode in AI Chat: Visualize the model’s reasoning process for deeper transparency. (Note: Currently exclusive to supported models, including the Gemma 4 family).\n- Bug fixes.",
       "version": "1.0.2",
       "wrapperType": "software",
       "currency": "USD",
       "description": "AI Edge Gallery is the premier destination for running the world’s most powerful open-source Large Language Models (LLMs) on your mobile device. Experience high-performance Generative AI directly on your hardware—fully offline, private, and lightning-fast.\n\nNow Featuring: Gemma 4\nThis update brings official support for the newly released Gemma 4 family. As the centerpiece of this release, Gemma 4 allows you to test the cutting edge of on-device AI. Experience advanced reasoning, logic, and creative capabilities without ever sending your data to a server.\n\nCore Features\n- Agent Skills: Transform your LLM from a conversationalist into a proactive assistant. Use the Agent Skills tile to augment model capabilities with tools like Wikipedia for fact-grounding, interactive maps, and rich visual summary cards. You can even load modular skills from a URL or browse community contributions on GitHub Discussions.\n- AI Chat with Thinking Mode: Engage in fluid, multi-turn conversations and toggle the new Thinking Mode to peek \"under the hood.\" This feature allows you to see the model’s step-by-step reasoning process, which is perfect for understanding complex problem-solving. Note: Thinking Mode currently works with supported models, starting with the Gemma 4 family.\n- Ask Image: Use multimodal power to identify objects, solve visual puzzles, or get detailed descriptions using your device’s camera or photo gallery.\n- Audio Scribe: Transcribe and translate voice recordings into text in real-time using high-efficiency on-device language models.\n- Prompt Lab: A dedicated workspace to test different prompts and single-turn use cases with granular control over model parameters like temperature and top-k.\n- Mobile Actions: Unlock offline device controls and automated tasks powered entirely by a finetune of FuntionGemma 270m.\n- Tiny Garden: A fun, experimental mini-game that uses natural language to plant and harvest a virtual garden using a finetune of FunctionGemma 270m.\n- Model Management & Benchmark: Gallery is a flexible sandbox for a wide variety of open-source models. Easily download models from the list or load your own custom models. Manage your model library effortlessly and run benchmark tests to understand exactly how each model performs on your specific hardware.\n- 100% On-Device Privacy: All model inferences happen directly on your device hardware. No internet is required, ensuring total privacy for your prompts, images, and sensitive data.\n\nBuilt for the Community\nAI Edge Gallery is an open-source project designed for the developer community and AI enthusiasts alike. Explore our example features, contribute your own skills, and help shape the future of the on-device agent ecosystem.\n\nCheck out the source code on GitHub:\nhttps://github.com/google-ai-edge/gallery\nNote: This app is in active development. Performance is dependent on your device's hardware (CPU/GPU). For support or feedback, contact us at google-ai-edge-gallery-android-feedback@google.com.",
-      "userRatingCount": 35
+      "averageUserRating": 4.55882,
+      "trackCensoredName": "Google AI Edge Gallery",
+      "trackViewUrl": "https://apps.apple.com/us/app/google-ai-edge-gallery/id6749645337?uo=4",
+      "contentAdvisoryRating": "12+",
+      "sellerUrl": "https://github.com/google-ai-edge/gallery",
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "fileSizeBytes": "35360768",
+      "formattedPrice": "Free",
+      "userRatingCountForCurrentVersion": 34,
+      "trackContentRating": "12+",
+      "averageUserRatingForCurrentVersion": 4.55882,
+      "minimumOsVersion": "17.0",
+      "releaseDate": "2026-02-25T08:00:00Z",
+      "artistId": 281956209,
+      "artistName": "Google",
+      "userRatingCount": 34
     }
   ]
 }

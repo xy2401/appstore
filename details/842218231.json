@@ -3,9 +3,6 @@
   "results": [
     {
       "isGameCenterEnabled": false,
-      "artistViewUrl": "https://apps.apple.com/jp/developer/tadao-yamaoka/id832421013?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/7a/d6/56/7ad6568a-7b8a-de34-f560-da1569bef145/AppIcon-0-0-1x_U007emarketing-0-0-0-3-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/7a/d6/56/7ad6568a-7b8a-de34-f560-da1569bef145/AppIcon-0-0-1x_U007emarketing-0-0-0-3-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.jpg",
       "features": [
         "iosUniversal"
       ],
@@ -138,6 +135,7 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
+      "advisories": [],
       "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple3/v4/1b/13/4b/1b134b18-e116-5e32-d147-4e96957b9a68/pr_source.png/392x696bb.png",
@@ -155,46 +153,48 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/7a/d6/56/7ad6568a-7b8a-de34-f560-da1569bef145/AppIcon-0-0-1x_U007emarketing-0-0-0-3-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
-      "advisories": [],
-      "averageUserRating": 3.28,
-      "trackCensoredName": "VocalPitchMonitor",
-      "trackViewUrl": "https://apps.apple.com/jp/app/vocalpitchmonitor/id842218231?uo=4",
-      "contentAdvisoryRating": "4+",
-      "artistId": 832421013,
-      "artistName": "Tadao Yamaoka",
+      "artistViewUrl": "https://apps.apple.com/jp/developer/tadao-yamaoka/id832421013?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/7a/d6/56/7ad6568a-7b8a-de34-f560-da1569bef145/AppIcon-0-0-1x_U007emarketing-0-0-0-3-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/7a/d6/56/7ad6568a-7b8a-de34-f560-da1569bef145/AppIcon-0-0-1x_U007emarketing-0-0-0-3-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.jpg",
       "genres": [
         "ミュージック",
         "教育"
       ],
+      "price": 300.0,
       "bundleId": "com.TadaoYamaoka.VocalPitchMonitor",
-      "sellerName": "Tadao Yamaoka",
       "releaseDate": "2014-03-28T13:28:43Z",
+      "genreIds": [
+        "6011",
+        "6017"
+      ],
+      "primaryGenreName": "Music",
+      "primaryGenreId": 6011,
       "trackId": 842218231,
+      "sellerName": "Tadao Yamaoka",
       "trackName": "VocalPitchMonitor",
+      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2021-01-02T14:19:02Z",
       "releaseNotes": "- チューナー機能追加\n- ノッチに対応\n- 解析精度を向上\n- 低音方向の解析範囲をC1までに拡張\n- 録音時間を5分に延長\n- バグ修正",
       "version": "1.3.0",
       "wrapperType": "software",
       "currency": "JPY",
       "description": "マイクから入力した音声の音程をリアルタイムにグラフにして表示するアプリです。横軸が時間、縦軸が音階になっています。カラオケや楽器の練習に使えます。\n\n【特徴】\n・マイクから入力した音程をリアルタイムに表示\n・C2からB7までの6オクターブを表示\n・表示範囲を自動でスクロール\n・現在の音階を画面上部に文字で表示\n・画面の横回転に対応\n・録音と再生が可能\n・保存/読み込み機能\n・スケールの設定\n・音階ごとに色を設定可能\n\n【使い方】\nマイクから音声を入力してください。音程がリアルタイムに表示されます。\n\n【音程の解析について】\n音声に複数の楽器や和音を含む場合は正しく解析できません。\n\n【録音と再生について】\n録音できるのは3分間だけです。",
-      "minimumOsVersion": "11.0",
-      "userRatingCountForCurrentVersion": 25,
       "languageCodesISO2A": [
         "EN",
         "JA"
       ],
-      "fileSizeBytes": "588800",
-      "formattedPrice": "¥300",
+      "userRatingCountForCurrentVersion": 25,
       "trackContentRating": "4+",
       "averageUserRatingForCurrentVersion": 3.28,
-      "primaryGenreName": "Music",
-      "primaryGenreId": 6011,
-      "genreIds": [
-        "6011",
-        "6017"
-      ],
-      "price": 300.0,
-      "isVppDeviceBasedLicensingEnabled": true,
+      "averageUserRating": 3.28,
+      "trackCensoredName": "VocalPitchMonitor",
+      "trackViewUrl": "https://apps.apple.com/jp/app/vocalpitchmonitor/id842218231?uo=4",
+      "contentAdvisoryRating": "4+",
+      "formattedPrice": "¥300",
+      "fileSizeBytes": "588800",
+      "minimumOsVersion": "11.0",
+      "artistId": 832421013,
+      "artistName": "Tadao Yamaoka",
       "userRatingCount": 25
     }
   ]

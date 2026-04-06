@@ -2,11 +2,14 @@
   "resultCount": 1,
   "results": [
     {
-      "isGameCenterEnabled": false,
       "screenshotUrls": [],
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/fe/d7/9ffed7ac-3ac2-e66b-d90b-25c78e16e892/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
+      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -136,15 +139,13 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "features": [
-        "iosUniversal"
-      ],
       "advisories": [],
       "kind": "software",
       "artistViewUrl": "https://apps.apple.com/jp/developer/google/id281956209?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/fe/d7/9ffed7ac-3ac2-e66b-d90b-25c78e16e892/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/fe/d7/9ffed7ac-3ac2-e66b-d90b-25c78e16e892/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/100x100bb.jpg",
-      "averageUserRatingForCurrentVersion": 2.32046,
+      "averageUserRatingForCurrentVersion": 2.3197,
+      "userRatingCountForCurrentVersion": 1736,
       "sellerUrl": "https://www.google.com/edu/classroom/",
       "languageCodesISO2A": [
         "AF",
@@ -218,39 +219,38 @@
       ],
       "fileSizeBytes": "179283968",
       "formattedPrice": "無料",
-      "userRatingCountForCurrentVersion": 1735,
       "trackContentRating": "4+",
-      "price": 0.0,
+      "artistId": 281956209,
       "artistName": "Google",
-      "trackId": 924620788,
-      "trackName": "Google Classroom",
+      "genres": [
+        "教育",
+        "仕事効率化"
+      ],
+      "price": 0.0,
+      "bundleId": "com.google.Classroom",
+      "releaseDate": "2015-01-13T08:00:00Z",
       "primaryGenreName": "Education",
       "primaryGenreId": 6017,
-      "releaseDate": "2015-01-13T08:00:00Z",
+      "trackId": 924620788,
+      "trackName": "Google Classroom",
+      "genreIds": [
+        "6017",
+        "6007"
+      ],
+      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "Google LLC",
       "currentVersionReleaseDate": "2026-03-23T15:56:55Z",
       "releaseNotes": "* バグを修正してパフォーマンスを改善しました",
       "version": "3.54.300046950",
       "wrapperType": "software",
       "currency": "JPY",
       "description": "Classroom は、教育機関や非営利団体を対象とする無料のサービスで、個人の Google アカウントをお持ちの方にもご利用いただけます。Classroom を使用すると、学校内でも学校外でも生徒と教師がつながりやすくなります。また、時間と紙を節約でき、クラスの作成、課題の出題、連絡のやり取り、情報の管理も容易になります。\n\nClassroom は、教師が課題の作成、回収、採点をペーパーレス化できるように設計されたツールで、各生徒用に Google ドキュメントのコピーが自動的に作成されるなど、時間を節約できる各種機能も備わっています。さらに、課題ごとや生徒ごとにドライブ フォルダが作成されるので、全員が管理を効率化できます。\n\n生徒は課題ページで期限の近い課題を確認し、ワンタップで課題に取り掛かることができます。教師は Classroom 内で、課題を提出済みの生徒と未提出の生徒をすばやく確認し、リアルタイムで生徒に直接フィードバックを提供したり、課題を採点したりできます。\n\niOS 版モバイルアプリを使用すれば、生徒と教師は自分のクラスを表示して、リアルタイムでクラスの生徒とやり取りできます。生徒は、iPhone や iPad から直接課題にアクセスして取り組むことができます。教師は、学校内でも学校外でも課題の提出状況を確認したり、課題を採点したりできます。Classroom に新しいコンテンツが追加されると、生徒と教師に通知が届くため、クラスの最新の動きを見逃すこともありません。\n\nClassroom を利用することのさまざまなメリット:\n\n設定が簡単\n教師はクラスに生徒を直接追加できるほか、クラスへの参加用コードを生徒に知らせることもできます。設定はわずか数分で完了します。\n\n時間の節約\nペーパーレスのシンプルなワークフローにより、教師は Classroom から課題の作成、チェック、採点のすべてを簡単に行えます。\n\n管理の効率化\n生徒は課題ページで各自のすべての課題を確認できます。また、クラスの教材（ドキュメント、写真、動画など）はすべて、Google ドライブのフォルダに自動的に保存されます。\n\nコミュニケーションの改善\n教師は瞬時にお知らせを送信したり、クラスの話し合いを開始したりできます。生徒はストリームでリソースを共有し合ったり、質問に回答したりできます。\n\n安全\nGoogle Workspace for Education の他のサービスと同様に、Classroom に広告が表示されることはなく、学校のコンテンツや生徒のデータが広告目的で使用されることも一切ありません。\n\nアクセス許可についての注意事項:\nカメラ:写真や動画を撮影して Classroom に投稿する場合に必要です。\nマイク:Classroom に投稿する動画の撮影で音声を録音する場合に必要です。\n写真:写真や動画を Classroom に添付する場合に必要です。Classroom に投稿した写真や動画は、Classroom に表示するために Google サーバーに保存されます。",
-      "minimumOsVersion": "17.0",
       "trackCensoredName": "Google Classroom",
       "trackViewUrl": "https://apps.apple.com/jp/app/google-classroom/id924620788?uo=4",
+      "minimumOsVersion": "17.0",
       "contentAdvisoryRating": "4+",
-      "averageUserRating": 2.32046,
-      "sellerName": "Google LLC",
-      "artistId": 281956209,
-      "bundleId": "com.google.Classroom",
-      "genreIds": [
-        "6017",
-        "6007"
-      ],
-      "isVppDeviceBasedLicensingEnabled": true,
-      "genres": [
-        "教育",
-        "仕事効率化"
-      ],
-      "userRatingCount": 1735
+      "averageUserRating": 2.3197,
+      "userRatingCount": 1736
     }
   ]
 }
