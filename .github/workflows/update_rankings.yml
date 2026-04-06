@@ -25,10 +25,10 @@ jobs:
     
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v4
+      uses: actions/checkout@v6
       
     - name: Run App Downloader Script
-      shell: powershell
+      shell: pwsh
       run: |
         $skipExisting = $false
         $generateMarkdown = $false
@@ -38,7 +38,7 @@ jobs:
             if ('${{ inputs.generate_markdown }}' -eq 'true') { $generateMarkdown = $true }
         }
         
-        $cmd = ".\app_downloader.ps1"
+        $cmd = ".\downloader.ps1"
         if ($skipExisting) { $cmd += " -SkipExisting" }
         if ($generateMarkdown) { $cmd += " -GenerateMarkdown" }
         
@@ -46,7 +46,7 @@ jobs:
         Invoke-Expression $cmd
       
     - name: Commit and Push changes
-      shell: powershell
+      shell: pwsh
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
