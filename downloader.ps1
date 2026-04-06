@@ -43,16 +43,29 @@ foreach ($country in $countries) {
         Write-Host "Fetching: $rssUrl"
         Write-Host "Saving to: $fileName"
         
-        try {
-            $response = Invoke-RestMethod -Uri $rssUrl -ErrorAction Stop
-            $response | ConvertTo-Json -Depth 10 | Out-File -FilePath $fileName
-            Write-Host "Successfully fetched $($config.MediaType) - $($config.FileSuffix) for $country"
-        } catch {
-            Write-Error "Failed to fetch $($config.MediaType) - $($config.FileSuffix) for $country."
-            Write-Error "URL: $rssUrl"
-            Write-Error "Error Message: $($_.Exception.Message)"
-            if ($_.Exception.InnerException) {
-                Write-Error "Inner Error: $($_.Exception.InnerException.Message)"
+        $maxRetries = 3
+        $retryCount = 0
+        $success = $false
+        
+        while (-not $success -and $retryCount -lt $maxRetries) {
+            try {
+                $response = Invoke-RestMethod -Uri $rssUrl -ErrorAction Stop
+                $response | ConvertTo-Json -Depth 10 | Out-File -FilePath $fileName
+                Write-Host "Successfully fetched $($config.MediaType) - $($config.FileSuffix) for $country"
+                $success = $true
+            } catch {
+                $retryCount++
+                if ($retryCount -lt $maxRetries) {
+                    $sleepTime = Get-Random -Minimum 2 -Maximum 4
+                    Write-Warning "Attempt $retryCount failed for $rssUrl. Retrying in $sleepTime seconds... Error: $($_.Exception.Message)"
+                    Start-Sleep -Seconds $sleepTime
+                } else {
+                    Write-Error "Failed to fetch after $maxRetries attempts: $rssUrl"
+                    Write-Error "Error Message: $($_.Exception.Message)"
+                    if ($_.Exception.InnerException) {
+                        Write-Error "Inner Error: $($_.Exception.InnerException.Message)"
+                    }
+                }
             }
         }
         
@@ -193,6 +206,13 @@ $rankingFiles = Get-ChildItem -Path "rankings" -Recurse -File | ForEach-Object {
     [PSCustomObject]@{
         Name = $_.Name
         RelativePath = $_.FullName.Substring($rootPath.Length + 1)
+        LastWriteTime = $_.LastWriteTime
+        Length = $_.Length
+    }
+}
+$rankingFiles | ConvertTo-Json -Depth 2 | Out-File -FilePath "rankings.json"
+Write-Host "Step 5 Complete: rankings file list exported to rankings.json."
++ 1)
         LastWriteTime = $_.LastWriteTime
         Length = $_.Length
     }
