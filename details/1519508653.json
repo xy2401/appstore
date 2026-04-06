@@ -2,6 +2,15 @@
   "resultCount": 1,
   "results": [
     {
+      "artistViewUrl": "https://apps.apple.com/jp/developer/hexanomad/id1519508655?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/f5/78/4df5780f-7861-f265-63b7-fa4ec3a627fb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/f5/78/4df5780f-7861-f265-63b7-fa4ec3a627fb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
+      "advisories": [],
+      "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f9/1c/5c/f91c5c0b-cc5c-cb34-e9fc-4a455b582c13/bdd74386-b4a8-4bba-88e3-5bd0326d8342_iphone_viking.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/28/a7/68/28a7682c-373d-9ad3-c8be-7b7cded28000/6479d4c1-ea02-4e08-b3f8-bec63281cf62_iphone_dragon.png/392x696bb.png",
@@ -24,14 +33,7 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/4c/79/144c795c-52ef-d6bd-64fe-0c739c9e300a/b21a9e16-6a01-4907-ac4b-0bcbfbbad747_tablet_glenn.jpg/552x414bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/32/2f/29/322f2912-6d1a-f4af-3064-3236f9431bfa/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/us/developer/hexanomad/id1519508655?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/32/2f/29/322f2912-6d1a-f4af-3064-3236f9431bfa/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/32/2f/29/322f2912-6d1a-f4af-3064-3236f9431bfa/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
-      "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/f5/78/4df5780f-7861-f265-63b7-fa4ec3a627fb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -150,48 +152,77 @@
         "iPhone17Pro-iPhone17Pro",
         "iPhone17ProMax-iPhone17ProMax",
         "iPhone17-iPhone17",
-        "iPhoneAir-iPhoneAir"
+        "iPhoneAir-iPhoneAir",
+        "iPadPro11M5-iPadPro11M5",
+        "iPadPro11M5Cellular-iPadPro11M5Cellular",
+        "iPadPro13M5-iPadPro13M5",
+        "iPadPro13M5Cellular-iPadPro13M5Cellular",
+        "iPhone17e-iPhone17e",
+        "iPadAir11M4-iPadAir11M4",
+        "iPadAir11M4Cellular-iPadAir11M4Cellular",
+        "iPadAir13M4-iPadAir13M4",
+        "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "advisories": [],
-      "kind": "software",
-      "sellerUrl": "https://nomadsculpt.com/",
-      "averageUserRatingForCurrentVersion": 4.83933,
-      "languageCodesISO2A": [
-        "EN"
-      ],
-      "fileSizeBytes": "198818816",
-      "formattedPrice": "$19.99",
-      "userRatingCountForCurrentVersion": 9728,
-      "trackContentRating": "4+",
+      "averageUserRating": 4.80492,
       "trackCensoredName": "Nomad Sculpt",
-      "trackViewUrl": "https://apps.apple.com/us/app/nomad-sculpt/id1519508653?uo=4",
+      "trackViewUrl": "https://apps.apple.com/jp/app/nomad-sculpt/id1519508653?uo=4",
       "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.83933,
+      "minimumOsVersion": "16.0",
       "artistId": 1519508655,
       "artistName": "Hexanomad",
       "genres": [
-        "Graphics & Design"
+        "グラフィック／デザイン"
       ],
-      "price": 19.99,
+      "price": 3000.0,
+      "trackId": 1519508653,
+      "trackName": "Nomad Sculpt",
+      "bundleId": "com.stephaneginier.Nomad",
+      "releaseNotes": "usd: fix crash on export and import\nscene: group lock will now lock its children\nboolean: fix random crash\ninput: fix second single tap sometimes not being recorded\nreference: simplify reset view on unlock option\nreference: fix transform mode going crazy when reference is locked and rolled",
+      "releaseDate": "2020-08-04T07:00:00Z",
       "genreIds": [
         "6027"
       ],
-      "trackName": "Nomad Sculpt",
-      "trackId": 1519508653,
-      "bundleId": "com.stephaneginier.Nomad",
-      "releaseNotes": "ios: fix crash on older ipad\nlayer: fix crash on clone",
-      "releaseDate": "2020-08-04T07:00:00Z",
       "primaryGenreName": "Graphics & Design",
       "primaryGenreId": 6027,
       "sellerName": "Hexanomad",
       "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2025-12-01T05:27:22Z",
-      "version": "2.4",
+      "currentVersionReleaseDate": "2025-12-23T21:16:21Z",
+      "version": "2.8",
       "wrapperType": "software",
-      "currency": "USD",
-      "description": "• Sculpting tools\nClay, flatten, smooth, mask and many other brushes will let you shape your creation.\nYou can also use the trim boolean cutting tool with lasso, rectangle and other shapes, for hardsurface purposes.\n\n• Stroke customization\nFalloff, alphas, tilings, pencil pressure and other stroke parameters can be customized.\nYou can save and load your tools preset as well.\n\n• Painting tools\nVertex painting with color, roughness and metalness.\nYou can easily manage all your material presets as well.\n\n• Layers\nRecord your sculpting and painting operations in separate layers for easier iteration during the creation process.\nBoth the sculpting and painting changes are recorded.\n\n• Multiresolution sculpting\nGo back and forth between multiple resolution of your mesh for a flexible workflow.\n\n• Voxel remeshing\nRemesh quickly your mesh to get a uniform level of detail.\nIt can be used to quickly sketch a rough shape at the beginning of the creation process.\n\n• Dynamic topology\nRefine locally your mesh under your brush to get an automatic level of detail.\nYou can even keep your layers, as they will be automatically updated!\n\n• Decimate\nReduce the number of polygons by keeping as many details as possible.\n\n• Face Group\nSegment your mesh into subgroups with the face group tool.\n\n• Automatic UV unwrap\nThe automatic UV unwrapper can use face groups to control the unwrapping process.\n\n• Baking\nYou can transfer vertex data such as color, roughness, metalness and small scaled detail in to textures.\nYou can also do the opposite, transfering textures data into vertex data or layers.\n\n• Primitive shape\nCylinder, torus, tube, lathe and other primitives can be used to quickly start new shapes from scratch.\n\n• PBR rendering\nBeautiful PBR rendering by default, with lighting and shadows.\nYou can always switch to matcap for a more standard shading for sculpting purposes.\n\n• Post processing\nScreen Space Reflection, Depth of Field, Ambient Occlusion, Tone mapping, etc\n\n• Export and Import\nSupported formats include glTF, OBJ, STL or PLY files.\n\n• Interface\nEasy-to-use interface, designed for mobile experience.\nCustomization is possible as well!\n\n• Quad Remesher (separate in-app purchase only)\nRemesh your object automatically with a quad dominant mesh that follows the mesh curvatures.\nIt supports guides, face groups and density painting.",
-      "minimumOsVersion": "16.0",
-      "userRatingCount": 9728
+      "currency": "JPY",
+      "description": "• 彫刻ツール\nクレイ、フラット化、スムーズ化、マスクなどのブラシで作品を形作ります。\nハードサーフェス用途には、ラッソ、長方形などの形状を使ったトリムブーリアンカッティングツールも使用できます。\n\n• ストロークのカスタマイズ\nフォールオフ、アルファ、タイリング、ペンシル圧力などのストロークパラメーターをカスタマイズできます。\nツールのプリセットを保存して読み込むこともできます。\n\n• ペイントツール\n頂点ペインティングで色、粗さ、メタルネスを扱います。\nマテリアルプリセットも簡単に管理できます。\n\n• レイヤー\n彫刻およびペイント操作を個別のレイヤーで記録し、作成プロセス中に簡単に反復できます。\n彫刻およびペイントの変更が記録されます。\n\n• マルチレゾリューションスカルプティング\n柔軟なワークフローのためにメッシュの複数の解像度間を行き来します。\n\n• ボクセルリメッシュ\nメッシュをすばやくリメッシュして、一様の詳細レベルを取得します。\n作成プロセスの始めに大まかな形をすばやくスケッチするために使用できます。\n\n• ダイナミックトポロジー\nブラシの下でメッシュを局所的に精製して、自動的な詳細レベルを得ます。\nレイヤーもそのまま保持でき、自動的に更新されます！\n\n• デシメート\nできるだけ多くの詳細を保持しつつ、ポリゴン数を減らします。\n\n• フェイスグループ\nフェイスグループツールを使用して、メッシュをサブグループに分割します。\n\n• 自動UVアンラップ\n自動UVアンラッパーは、アンラッピングプロセスを制御するためにフェイスグループを使用できます。\n\n• ベーキング\n頂点データ（色、粗さ、メタルネス、小規模な詳細）をテクスチャに転送します。\nまた、テクスチャデータを頂点データやレイヤーに転送することも可能です。\n\n• プリミティブ形状\n円筒、トーラス、チューブ、旋盤などのプリミティブを使用して、新しい形状をすぐに始めることができます。\n\n• PBRレンダリング\nデフォルトで美しいPBRレンダリングを提供します。光と影があります。\n彫刻の目的でより標準的なシェーディングにしたい場合は、いつでもMatCapに切り替えることができます。\n\n• ポストプロセス\nスクリーンスペースリフレクション、奥行きの深さ、アンビエントオクルージョン、トーンマッピングなど\n\n• エクスポートとインポート\nサポートされるフォーマットには、glTF、OBJ、STL、PLYファイルが含まれます。\n\n• インターフェース\nモバイルエクスペリエンス用に設計された使いやすいインターフェース。\nカスタマイズも可能です！\n\n• クアッドリメッシャー（アプリ内購入のみ）\nオブジェクトをメッシュ曲率に沿ったクアッド主体のメッシュで自動的にリメッシュします。\nガイド、フェイスグループ、密度ペインティングがサポートされています。",
+      "sellerUrl": "https://nomadsculpt.com/",
+      "languageCodesISO2A": [
+        "AR",
+        "CS",
+        "NL",
+        "EN",
+        "FR",
+        "DE",
+        "HE",
+        "HI",
+        "ID",
+        "IT",
+        "JA",
+        "KO",
+        "MS",
+        "PL",
+        "PT",
+        "RU",
+        "ZH",
+        "ES",
+        "SV",
+        "TH",
+        "ZH",
+        "TR",
+        "VI"
+      ],
+      "fileSizeBytes": "198627328",
+      "formattedPrice": "¥3,000",
+      "trackContentRating": "4+",
+      "averageUserRatingForCurrentVersion": 4.80492,
+      "userRatingCountForCurrentVersion": 3414,
+      "userRatingCount": 3414
     }
   ]
 }

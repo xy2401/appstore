@@ -121,13 +121,25 @@
         "iPhone17Pro-iPhone17Pro",
         "iPhone17ProMax-iPhone17ProMax",
         "iPhone17-iPhone17",
-        "iPhoneAir-iPhoneAir"
+        "iPhoneAir-iPhoneAir",
+        "iPadPro11M5-iPadPro11M5",
+        "iPadPro11M5Cellular-iPadPro11M5Cellular",
+        "iPadPro13M5-iPadPro13M5",
+        "iPadPro13M5Cellular-iPadPro13M5Cellular",
+        "iPhone17e-iPhone17e",
+        "iPadAir11M4-iPadAir11M4",
+        "iPadAir11M4Cellular-iPadAir11M4Cellular",
+        "iPadAir13M4-iPadAir13M4",
+        "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
       "features": [
         "iosUniversal"
       ],
       "advisories": [],
       "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/us/developer/technimo-llc/id298206809?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/e8/52/b6e852a7-f97c-e692-9cc0-40ba7444e2b5/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/e8/52/b6e852a7-f97c-e692-9cc0-40ba7444e2b5/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/c5/bf/ec/c5bfecbb-6f1e-5bdf-0550-cb02dfd0a984/d817eeff-68d6-4bac-9da9-575e6505068c_iPhone8Plus_EN_1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/dd/36/3c/dd363cf1-c7e8-c9dc-33e8-cf9ff891f495/10372777-335c-46e2-9485-48108d893581_iPhone8Plus_EN_2.png/392x696bb.png",
@@ -143,35 +155,38 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/39/31/1c/39311c91-0f9e-ffa7-40c1-7a5e72350211/16a90e09-e6c5-47d8-9297-909832360dd9_iPadPro2nd_EN_5.png/576x768bb.png"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/95/36/ea9536b3-dcee-8610-3724-bd1c6116b69e/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/60x60bb.jpg",
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/95/36/ea9536b3-dcee-8610-3724-bd1c6116b69e/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/512x512bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/95/36/ea9536b3-dcee-8610-3724-bd1c6116b69e/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/us/developer/technimo-llc/id298206809?uo=4",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/e8/52/b6e852a7-f97c-e692-9cc0-40ba7444e2b5/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/512x512bb.jpg",
+      "minimumOsVersion": "16.4",
       "artistId": 298206809,
       "artistName": "Technimo LLC",
       "genres": [
         "Music",
         "Education"
       ],
-      "price": 19.99,
-      "sellerName": "Technimo LLC",
+      "price": 21.99,
+      "bundleId": "com.massimobiolcati.iRealBook",
+      "releaseDate": "2008-12-02T23:51:38Z",
       "genreIds": [
         "6011",
         "6017"
       ],
+      "primaryGenreName": "Music",
+      "primaryGenreId": 6011,
+      "sellerName": "Technimo LLC",
       "isVppDeviceBasedLicensingEnabled": true,
-      "releaseDate": "2008-12-02T23:51:38Z",
-      "trackId": 298206806,
-      "trackName": "iReal Pro",
-      "bundleId": "com.massimobiolcati.iRealBook",
-      "currentVersionReleaseDate": "2025-11-22T19:39:07Z",
-      "releaseNotes": "- Fixed issue with missing Fermata and wrong Segno symbols when exporting to MusicXML\n- Fixed bug where changing the style during playback wouldn’t update to the default tempo\n- Adjusted piano volume so that it’s even across all Swing styles",
-      "version": "2025.11",
+      "currentVersionReleaseDate": "2026-03-28T16:26:45Z",
+      "releaseNotes": "- Any harmony instrument can now be selected for the harmony part in the mixer\n- Renamed \"Default Instruments\" to \"Reset Instruments\" in the mixer\n- Resetting instruments no longer resets embellish chords\n- Mixer instrument selector now shows \"(Default)\" text label instead of color highlight\n- Faster startup by skipping unnecessary file I/O when building drum sample library",
+      "version": "2026.3.4",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Practice makes perfect. iReal Pro offers an easy-to-use tool to help musicians of all levels master their art. It simulates a real-sounding band that can accompany you as you practice. The app also lets you create and collect chord charts of your favorite songs for reference.  \n\n~One of Time Magazine's 50 Best Inventions of 2010~\n\nUsed by thousands of music students, teachers and some of the world’s top music schools such as Berklee College of Music and Musicians Institute.\n\n“It’s the perfect technology for a practicing musician: high-quality digital audio, mixable, transposable into any key and completely mobile. Now every aspiring musician has a backup band in their pocket.” – Tim Westergren, Pandora Founder\n\n• It's a Book:\nCreate, edit, print, share and collect chord charts of your favorite songs for reference while practicing or performing.\n\n• It's a Band:\nPractice with a realistic sounding piano (or guitar), bass and drum accompaniments for any downloaded or user-created chord chart.\n\nFEATURES:\n\nHave a virtual band accompany you as you practice\n• Choose from the included 51 different accompaniment styles (Swing, Ballad, Gypsy Jazz, Bluegrass, Country, Rock, Funk, Reggae, Bossa Nova, Latin,...) and even more styles are available as in-app purchases\n• Personalize each style with a variety of sounds including piano, Fender Rhodes, acoustic and electric guitars, acoustic and electric basses, drums, vibraphone, organ, and more\n• Record yourself playing or singing along with the accompaniment\n\nPlay, edit, and download any songs you want\n• 1000s of songs can be downloaded from the forums in a few simple steps\n• Edit existing songs or create your own with the Editor\n• The Player will play any song that you edit or create\n• Create multiple editable playlists\n\nImprove your skills with the included chord diagrams\n• Display guitar, ukulele tabs and piano fingerings for any of your chord charts\n• Look up piano, guitar and ukulele fingerings for any chord\n• Display scale recommendations for each chord of a song to help with improvisations\n\nPractice in the way, and at the level, that you choose\n• Includes 50 exercises for practicing common chord progressions\n• Transpose any chart to any key or to number notation\n• Loop a selection of measures of a chart for focused practicing\n• Advanced practice settings (automatic tempo increase, automatic key transposition)\n• Global Eb, Bb, F and G transposition for horn players\n\nShare, print, and export – so your music follows you wherever you need it!\n• Share individual charts or whole playlists with other iReal Pro users via email and the forums\n• Export charts as PDF and MusicXML\n• Export audio as WAV, AAC and MIDI \n• Support for AirTurn™ and other bluetooth page turners\n• Upload your songs and playlists to iCloud for safekeeping and for synchronization across any of your iCloud enabled devices such as iPhone, iPad or Mac\n\nAlways backup your songs!",
-      "minimumOsVersion": "16.4",
+      "averageUserRatingForCurrentVersion": 4.86684,
+      "userRatingCountForCurrentVersion": 10656,
       "trackCensoredName": "iReal Pro",
+      "trackViewUrl": "https://apps.apple.com/us/app/ireal-pro/id298206806?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.86684,
+      "sellerUrl": "https://irealpro.com",
       "languageCodesISO2A": [
         "EN",
         "FR",
@@ -184,18 +199,12 @@
         "ZH",
         "ES"
       ],
-      "fileSizeBytes": "182560768",
-      "formattedPrice": "$19.99",
-      "contentAdvisoryRating": "4+",
-      "userRatingCountForCurrentVersion": 10121,
-      "trackViewUrl": "https://apps.apple.com/us/app/ireal-pro/id298206806?uo=4",
+      "fileSizeBytes": "182491136",
+      "formattedPrice": "$21.99",
       "trackContentRating": "4+",
-      "sellerUrl": "https://irealpro.com",
-      "averageUserRating": 4.86582,
-      "averageUserRatingForCurrentVersion": 4.86582,
-      "primaryGenreName": "Music",
-      "primaryGenreId": 6011,
-      "userRatingCount": 10121
+      "trackId": 298206806,
+      "trackName": "iReal Pro",
+      "userRatingCount": 10656
     }
   ]
 }

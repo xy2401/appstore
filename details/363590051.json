@@ -2,6 +2,7 @@
   "resultCount": 1,
   "results": [
     {
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/09/af/4609af35-47d1-4601-7f52-1adebb6c3ad5/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-0-85-220.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ce/52/4e/ce524e76-3a80-3b9e-b5b8-28099b2aa503/1_APP_IPHONE_55_1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/54/c9/c4/54c9c4cf-4d1b-044b-5e0f-9213be046af0/2_APP_IPHONE_55_2.jpg/392x696bb.jpg",
@@ -19,8 +20,10 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/94/a2/ba/94a2ba68-b8a9-9063-5196-dc6e9ea925a7/5_APP_IPAD_PRO_129_5.png/552x414bb.png"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/79/24/19792480-2be0-80f2-8455-c4df2d05c655/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-0-85-220.png/512x512bb.jpg",
       "isGameCenterEnabled": false,
+      "artistViewUrl": "https://apps.apple.com/us/developer/netflix-inc/id363590054?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/09/af/4609af35-47d1-4601-7f52-1adebb6c3ad5/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/09/af/4609af35-47d1-4601-7f52-1adebb6c3ad5/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-0-85-220.png/100x100bb.jpg",
       "features": [
         "iosUniversal"
       ],
@@ -142,22 +145,27 @@
         "iPhone17Pro-iPhone17Pro",
         "iPhone17ProMax-iPhone17ProMax",
         "iPhone17-iPhone17",
-        "iPhoneAir-iPhoneAir"
+        "iPhoneAir-iPhoneAir",
+        "iPadPro11M5-iPadPro11M5",
+        "iPadPro11M5Cellular-iPadPro11M5Cellular",
+        "iPadPro13M5-iPadPro13M5",
+        "iPadPro13M5Cellular-iPadPro13M5Cellular",
+        "iPhone17e-iPhone17e",
+        "iPadAir11M4-iPadAir11M4",
+        "iPadAir11M4Cellular-iPadAir11M4Cellular",
+        "iPadAir13M4-iPadAir13M4",
+        "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
       "advisories": [
-        "Infrequent/Mild Realistic Violence",
         "Infrequent/Mild Horror/Fear Themes",
-        "Infrequent/Mild Mature/Suggestive Themes",
-        "Infrequent/Mild Cartoon or Fantasy Violence",
         "Infrequent/Mild Sexual Content and Nudity",
-        "Infrequent/Mild Profanity or Crude Humor",
-        "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References"
+        "Infrequent/Mild Cartoon or Fantasy Violence",
+        "Infrequent/Mild Realistic Violence",
+        "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References",
+        "Infrequent/Mild Mature/Suggestive Themes",
+        "Infrequent/Mild Profanity or Crude Humor"
       ],
       "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/us/developer/netflix-inc/id363590054?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/79/24/19792480-2be0-80f2-8455-c4df2d05c655/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/79/24/19792480-2be0-80f2-8455-c4df2d05c655/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-0-85-220.png/100x100bb.jpg",
-      "minimumOsVersion": "18.0",
       "sellerUrl": "http://www.netflix.com",
       "languageCodesISO2A": [
         "AR",
@@ -192,11 +200,15 @@
         "UK",
         "VI"
       ],
-      "fileSizeBytes": "205923328",
+      "fileSizeBytes": "210352128",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 5215099,
       "trackContentRating": "12+",
-      "averageUserRatingForCurrentVersion": 4.74249,
+      "averageUserRatingForCurrentVersion": 4.74867,
+      "averageUserRating": 4.74867,
+      "trackCensoredName": "Netflix",
+      "trackViewUrl": "https://apps.apple.com/us/app/netflix/id363590051?uo=4",
+      "contentAdvisoryRating": "12+",
+      "minimumOsVersion": "18.0",
       "artistId": 363590054,
       "artistName": "Netflix, Inc.",
       "genres": [
@@ -204,29 +216,26 @@
         "Lifestyle"
       ],
       "price": 0.0,
-      "isVppDeviceBasedLicensingEnabled": true,
       "bundleId": "com.netflix.Netflix",
-      "trackId": 363590051,
-      "trackName": "Netflix",
       "releaseDate": "2010-04-01T20:41:34Z",
-      "currentVersionReleaseDate": "2025-12-01T14:45:17Z",
       "genreIds": [
         "6016",
         "6012"
       ],
-      "releaseNotes": "Get the best experience for enjoying recent hits and timeless classics with our latest Netflix update for your iPhone and iPad.\n\nAnd in this release, we fixed bugs and made performance improvements. Just for you.",
-      "version": "18.7.0",
-      "wrapperType": "software",
-      "currency": "USD",
-      "description": "Looking for the most talked about TV shows and movies from around the world? They’re all on Netflix.\n\nWe’ve got award-winning series, movies, documentaries, and stand-up specials. And with the mobile app, you get Netflix while you travel, commute, or just take a break.\n\nWhat you’ll love about Netflix:\n• We add TV shows and movies all the time. Browse new titles or search for your favorites, and stream videos right on your device.\n• The more you watch, the better Netflix gets at recommending TV shows and movies you’ll love.\n• Enjoy a safe watching experience just for kids with family-friendly entertainment.\n• Preview quick videos of our series and movies and get notifications for new episodes and releases.\n\nNetflix membership is a month-to-month subscription that begins at sign up. You can easily cancel anytime, online, 24 hours a day. There are no long-term contracts or cancellation fees. We just want you to love what you watch.\n\nPlease note that the App Privacy information applies to information collected through the Netflix iOS, iPadOS and tvOS apps. See the Netflix Privacy Statement (link below) to learn more about information we collect in other contexts, including account registration.\n\nPrivacy policy: www.netflix.com/privacy\nTerms of use: www.netflix.com/terms\n\nPhone Number: +18667160414\nEmail: iosappstore@netflix.com",
-      "trackCensoredName": "Netflix",
-      "trackViewUrl": "https://apps.apple.com/us/app/netflix/id363590051?uo=4",
-      "contentAdvisoryRating": "12+",
-      "averageUserRating": 4.74249,
       "sellerName": "Netflix, Inc.",
       "primaryGenreName": "Entertainment",
       "primaryGenreId": 6016,
-      "userRatingCount": 5215099
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-03-30T15:20:49Z",
+      "releaseNotes": "Keep your app updated to get the latest Netflix experience on your iPhone and iPad.\n\nNo matter your mood—we’ve got options. In this version we made player improvements to make watching them even better.",
+      "version": "18.25.0",
+      "wrapperType": "software",
+      "currency": "USD",
+      "description": "Looking for the most talked about TV shows and movies from around the world? They’re all on Netflix.\n\nWe’ve got award-winning series, movies, documentaries, and stand-up specials. And with the mobile app, you get Netflix while you travel, commute, or just take a break.\n\nWhat you’ll love about Netflix:\n• We add TV shows and movies all the time. Browse new titles or search for your favorites, and stream videos right on your device.\n• The more you watch, the better Netflix gets at recommending TV shows and movies you’ll love.\n• Enjoy a safe watching experience just for kids with family-friendly entertainment.\n• Preview quick videos of our series and movies and get notifications for new episodes and releases.\n\nNetflix membership is a month-to-month subscription that begins at sign up. You can easily cancel anytime, online, 24 hours a day. There are no long-term contracts or cancellation fees. We just want you to love what you watch.\n\nPlease note that the App Privacy information applies to information collected through the Netflix iOS, iPadOS and tvOS apps. See the Netflix Privacy Statement (link below) to learn more about information we collect in other contexts, including account registration.\n\nPrivacy policy: www.netflix.com/privacy\nTerms of use: www.netflix.com/terms\n\nPhone Number: +18667160414\nEmail: iosappstore@netflix.com",
+      "userRatingCountForCurrentVersion": 6241074,
+      "trackId": 363590051,
+      "trackName": "Netflix",
+      "userRatingCount": 6241074
     }
   ]
 }

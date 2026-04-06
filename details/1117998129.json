@@ -3,6 +3,9 @@
   "results": [
     {
       "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -121,15 +124,21 @@
         "iPhone17Pro-iPhone17Pro",
         "iPhone17ProMax-iPhone17ProMax",
         "iPhone17-iPhone17",
-        "iPhoneAir-iPhoneAir"
+        "iPhoneAir-iPhoneAir",
+        "iPadPro11M5-iPadPro11M5",
+        "iPadPro11M5Cellular-iPadPro11M5Cellular",
+        "iPadPro13M5-iPadPro13M5",
+        "iPadPro13M5Cellular-iPadPro13M5Cellular",
+        "iPhone17e-iPhone17e",
+        "iPadAir11M4-iPadAir11M4",
+        "iPadAir11M4Cellular-iPadAir11M4Cellular",
+        "iPadAir13M4-iPadAir13M4",
+        "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
       "advisories": [
         "まれ／軽度な成人向けまたはわいせつなテーマ",
         "まれ／軽度な医療または治療情報",
         "まれ／軽度な性的表現またはヌード"
-      ],
-      "features": [
-        "iosUniversal"
       ],
       "kind": "software",
       "screenshotUrls": [],
@@ -139,7 +148,7 @@
       "artistViewUrl": "https://apps.apple.com/jp/developer/visible-body-apps/id1828268894?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/b7/1f/3db71ff7-569b-b1a3-9f14-88d7bbb57a1a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/b7/1f/3db71ff7-569b-b1a3-9f14-88d7bbb57a1a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
-      "releaseNotes": "皆様からのフィードバックと提案は、ヒューマン・アナトミー・アトラスの新しい更新に反映されました：\n\n* コンパクトモード：情報ボックスを完全に折りたたむことができ、3D ビューでも邪魔になりにくくなりました。\n\n* ボディシステムレイヤー：新しいプラスまたはマイナスアイコンを使用して、系のトレイにあるすべての人体系にレイヤーを追加または削除します。\n\n* コンテンツ検索がメインメニューの一部になったため、必要なアセットをすばやく簡単に見つけて起動できるようになりました。\n\n* 便宜上、コンテンツ検索タブに新しいセクションが追加され、最近アクセスしたコンテンツのコレクションを見つけることができます。\n\n* バグ修正と改善。",
+      "minimumOsVersion": "15.0",
       "artistId": 1828268894,
       "artistName": "Visible Body Apps",
       "genres": [
@@ -147,22 +156,24 @@
         "教育"
       ],
       "price": 3000.0,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2025-11-02T22:30:20Z",
-      "primaryGenreName": "Medical",
-      "primaryGenreId": 6020,
-      "releaseDate": "2016-07-28T05:17:20Z",
-      "sellerName": "Visible Body Apps LLC",
       "bundleId": "com.argosy.vb.superatlas",
+      "currentVersionReleaseDate": "2025-11-02T22:30:20Z",
+      "releaseDate": "2016-07-28T05:17:20Z",
       "trackId": 1117998129,
       "trackName": "ヒューマン・アナトミー・アトラス2026",
+      "genreIds": [
+        "6020",
+        "6017"
+      ],
+      "primaryGenreName": "Medical",
+      "primaryGenreId": 6020,
+      "sellerName": "Visible Body Apps LLC",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseNotes": "皆様からのフィードバックと提案は、ヒューマン・アナトミー・アトラスの新しい更新に反映されました：\n\n* コンパクトモード：情報ボックスを完全に折りたたむことができ、3D ビューでも邪魔になりにくくなりました。\n\n* ボディシステムレイヤー：新しいプラスまたはマイナスアイコンを使用して、系のトレイにあるすべての人体系にレイヤーを追加または削除します。\n\n* コンテンツ検索がメインメニューの一部になったため、必要なアセットをすばやく簡単に見つけて起動できるようになりました。\n\n* 便宜上、コンテンツ検索タブに新しいセクションが追加され、最近アクセスしたコンテンツのコレクションを見つけることができます。\n\n* バグ修正と改善。",
       "version": "2026.5.09",
       "wrapperType": "software",
       "currency": "JPY",
       "description": "Visible Bodyでインタラクティブな3Dで人体解剖学を探索しましょう！ヒューマン･アナトミー･アトラスエディションは1度の購入で、iOSデバイスで基本的な肉眼的解剖学3Dモデルと厳選されたミクロ解剖学モデルとアニメーションにアクセスできます。生理学のアニメーションや歯科コンテンツには、追加のアプリ内購入が用意されています。 \n\nヒューマン･アナトミー･アトラスエディションを使用すると、次のことが可能になります:\n\n* 女性と男性の完全な3Dモデルで、肉眼的解剖学を学ぶことができます。これらを人体や診断用の画像と一緒に見ることができます。\n* 主要な臓器を複数のレベルで3D表示します。肺、気管支、肺胞について学習します。腎臓、腎錐体、ネフロンについて復習します。\n* 中心となる生理学や一般的な症状を簡単なアニメーションで説明します。系のプロセスの理解を深めるためにご活用ください！\n* 動かしてみることができる筋肉や骨のモデル。筋肉の動き、骨の指標、付着、神経支配、血液供給などを学習します。\n* 筋膜が上肢と下肢の筋肉をどのように分割しているかをご覧ください。\n\nまた、さまざまな学習ツールやプレゼンテーションツールも利用できます:\n\n* 画面上、拡張現実 (AR)、そして断面でモデルを解剖します。主要な構造を解説した研究室活動を無料でダウンロードできます。\n* 3D解剖クイズに挑戦し、進捗度を確認することができます。\n* モデルのセットにリンクさせたインタラクティブな3Dプレゼンテーションを作成し、トピックについての説明や復習ができます。タグやメモ、3D描画を使って構造物にラベルを付けることができます。",
-      "userRatingCountForCurrentVersion": 42102,
-      "minimumOsVersion": "15.0",
-      "averageUserRatingForCurrentVersion": 4.79345,
       "sellerUrl": "https://www.visiblebody.com/ja/",
       "languageCodesISO2A": [
         "EN",
@@ -175,16 +186,14 @@
       ],
       "fileSizeBytes": "1280861184",
       "formattedPrice": "¥3,000",
+      "averageUserRatingForCurrentVersion": 4.79012,
+      "userRatingCountForCurrentVersion": 42867,
       "trackContentRating": "12+",
-      "trackCensoredName": "ヒューマン・アナトミー・アトラス2026",
+      "averageUserRating": 4.79012,
       "trackViewUrl": "https://apps.apple.com/jp/app/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%B3-%E3%82%A2%E3%83%8A%E3%83%88%E3%83%9F%E3%83%BC-%E3%82%A2%E3%83%88%E3%83%A9%E3%82%B92026/id1117998129?uo=4",
       "contentAdvisoryRating": "12+",
-      "averageUserRating": 4.79345,
-      "genreIds": [
-        "6020",
-        "6017"
-      ],
-      "userRatingCount": 42102
+      "trackCensoredName": "ヒューマン・アナトミー・アトラス2026",
+      "userRatingCount": 42867
     }
   ]
 }

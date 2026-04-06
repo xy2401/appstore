@@ -2,13 +2,7 @@
   "resultCount": 1,
   "results": [
     {
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/05/fb/bf/05fbbf63-50b5-a095-0dda-db653cb5543c/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/05/fb/bf/05fbbf63-50b5-a095-0dda-db653cb5543c/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/cn/developer/bytes-inc/id451040503?uo=4",
       "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -127,7 +121,16 @@
         "iPhone17Pro-iPhone17Pro",
         "iPhone17ProMax-iPhone17ProMax",
         "iPhone17-iPhone17",
-        "iPhoneAir-iPhoneAir"
+        "iPhoneAir-iPhoneAir",
+        "iPadPro11M5-iPadPro11M5",
+        "iPadPro11M5Cellular-iPadPro11M5Cellular",
+        "iPadPro13M5-iPadPro13M5",
+        "iPadPro13M5Cellular-iPadPro13M5Cellular",
+        "iPhone17e-iPhone17e",
+        "iPadAir11M4-iPadAir11M4",
+        "iPadAir11M4Cellular-iPadAir11M4Cellular",
+        "iPadAir13M4-iPadAir13M4",
+        "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
       "advisories": [],
       "kind": "software",
@@ -137,7 +140,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/5f/fd/27/5ffd2771-86b1-9c34-a2a7-91d9e8ece2c1/pr_source.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/2c/89/c7/2c89c723-405f-2b7c-d999-0b79a29a3401/pr_source.png/392x696bb.png"
       ],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/05/fb/bf/05fbbf63-50b5-a095-0dda-db653cb5543c/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/512x512bb.jpg",
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/c0/6b/23/c06b23ef-4e19-6547-e69e-8677ef482a08/pr_source.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/61/2b/ed/612bed40-5095-56fb-60a4-3434cad352c9/pr_source.png/576x768bb.png",
@@ -145,44 +147,51 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/ed/9a/ae/ed9aae66-0042-7cc9-31db-9aa04f01be0d/pr_source.png/576x768bb.png"
       ],
       "appletvScreenshotUrls": [],
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.80622,
-      "userRatingCountForCurrentVersion": 12019,
-      "sellerName": "bytes inc.",
-      "artistId": 451040503,
-      "artistName": "bytes inc.",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/05/fb/bf/05fbbf63-50b5-a095-0dda-db653cb5543c/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/512x512bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/cn/developer/bytes-inc/id451040503?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/05/fb/bf/05fbbf63-50b5-a095-0dda-db653cb5543c/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/05/fb/bf/05fbbf63-50b5-a095-0dda-db653cb5543c/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/100x100bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
       "genres": [
         "摄影与录像"
       ],
       "price": 8.0,
+      "trackName": "kirakira+",
+      "trackId": 955687901,
       "primaryGenreName": "Photo & Video",
       "primaryGenreId": 6008,
-      "bundleId": "com.kentaroid.kirakira",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "trackId": 955687901,
-      "trackName": "kirakira+",
       "genreIds": [
         "6008"
       ],
+      "sellerName": "bytes inc.",
       "releaseDate": "2015-02-26T05:52:12Z",
+      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2019-01-05T21:45:28Z",
       "releaseNotes": "Filter adjustment and bug fixes.",
       "version": "2.1.2",
       "wrapperType": "software",
       "currency": "CNY",
       "description": "With this app, you can add effects like a cross filter to attach to the camera lens. Light emitting materials and reflective object will shine even more.\nJewelry, glass, illumination, etc. Please use when you want a gorgeous shot a little!\n!!! Please be careful for too much light. !!!\n\n■ Basic function\n- You can shoot the video and photo with impressive Glitter effect.  \n- You can edit photos and videos from photo albums.\n- You can create \"kirakiragraph\" from still image.\n- Swipe left and right to change effect.\n- Adjust light with Kirakira power slider.\n- On the confirmation page, 25 histories are displayed.\n  ( Please check the photo album for the shooting data older than that. )\n\n■ Notes\n· Sometimes, there is an unintended area is sparkling ....\n· By the situation at the time of shooting, \n  the video might not all glitter or too sparkly.\n  Please try to adjust with kirakira power slider.\n\n\n#FEEDBACK\n\nif you experience any problems or have questions or suggestions please contact: \n\ninfo@kirakira.plus\n\nIf you can send a defect report, \nit will be helpful if you can describe your model and iOS version.",
-      "trackViewUrl": "https://apps.apple.com/cn/app/kirakira/id955687901?uo=4",
-      "averageUserRatingForCurrentVersion": 4.80622,
-      "trackCensoredName": "kirakira+",
-      "minimumOsVersion": "11.1",
-      "trackContentRating": "4+",
       "languageCodesISO2A": [
         "EN",
         "JA"
       ],
       "fileSizeBytes": "1210368",
       "formattedPrice": "¥8.00",
-      "userRatingCount": 12019
+      "userRatingCountForCurrentVersion": 12027,
+      "trackContentRating": "4+",
+      "averageUserRatingForCurrentVersion": 4.80626,
+      "minimumOsVersion": "11.1",
+      "trackCensoredName": "kirakira+",
+      "trackViewUrl": "https://apps.apple.com/cn/app/kirakira/id955687901?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.80626,
+      "bundleId": "com.kentaroid.kirakira",
+      "artistId": 451040503,
+      "artistName": "bytes inc.",
+      "userRatingCount": 12027
     }
   ]
 }

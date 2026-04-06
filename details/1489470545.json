@@ -3,6 +3,9 @@
   "results": [
     {
       "isGameCenterEnabled": false,
+      "artistViewUrl": "https://apps.apple.com/jp/developer/developw-llc/id1489470544?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/31/21/95312158-744e-45ca-6008-fff772a5fb41/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/31/21/95312158-744e-45ca-6008-fff772a5fb41/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
       "features": [
         "iosUniversal"
       ],
@@ -124,14 +127,19 @@
         "iPhone17Pro-iPhone17Pro",
         "iPhone17ProMax-iPhone17ProMax",
         "iPhone17-iPhone17",
-        "iPhoneAir-iPhoneAir"
+        "iPhoneAir-iPhoneAir",
+        "iPadPro11M5-iPadPro11M5",
+        "iPadPro11M5Cellular-iPadPro11M5Cellular",
+        "iPadPro13M5-iPadPro13M5",
+        "iPadPro13M5Cellular-iPadPro13M5Cellular",
+        "iPhone17e-iPhone17e",
+        "iPadAir11M4-iPadAir11M4",
+        "iPadAir11M4Cellular-iPadAir11M4Cellular",
+        "iPadAir13M4-iPadAir13M4",
+        "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
       "advisories": [],
       "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/jp/developer/developw-llc/id1489470544?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/81/67/c7/8167c79e-36d9-c9b9-89be-f2e5cbe50711/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/81/67/c7/8167c79e-36d9-c9b9-89be-f2e5cbe50711/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/81/67/c7/8167c79e-36d9-c9b9-89be-f2e5cbe50711/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/7c/a7/80/7ca78081-4284-8266-4e8a-c0b5d44aa76c/020079e7-ee4a-4e54-8908-2daacdffe07e_55image2.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d8/74/ba/d874bad3-0167-4807-b74d-f5660e4080f4/c26e728f-680a-43a8-920a-29366b2be53f_55image.png/392x696bb.png"
@@ -141,6 +149,12 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/14/a7/7e/14a77e33-dc24-4a51-f2d2-f95086fed85d/74594209-2d39-4cf1-a933-0b8f655516ac_Screen_Shot_2022-06-21_at_8.55.43.png/576x768bb.png"
       ],
       "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/31/21/95312158-744e-45ca-6008-fff772a5fb41/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "contentAdvisoryRating": "4+",
+      "trackCensoredName": "iFacialMocap",
+      "trackViewUrl": "https://apps.apple.com/jp/app/ifacialmocap/id1489470545?uo=4",
+      "averageUserRating": 4.09999,
+      "minimumOsVersion": "13.2",
       "artistId": 1489470544,
       "artistName": "DevelopW LLC",
       "genres": [
@@ -149,27 +163,23 @@
       ],
       "price": 900.0,
       "bundleId": "emoto.iFacialMocap",
-      "releaseDate": "2020-01-13T08:00:00Z",
       "trackId": 1489470545,
       "trackName": "iFacialMocap",
       "genreIds": [
         "6007",
         "6016"
       ],
+      "releaseDate": "2020-01-13T08:00:00Z",
       "primaryGenreName": "Productivity",
       "primaryGenreId": 6007,
       "sellerName": "DevelopW LLC",
       "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2025-10-08T04:36:57Z",
-      "releaseNotes": "軽微な不具合の修正を行いました。",
-      "version": "1.4.7",
+      "currentVersionReleaseDate": "2026-04-02T03:31:27Z",
+      "releaseNotes": "軽微な不具合を修正しました。",
+      "version": "1.5.1",
       "wrapperType": "software",
       "currency": "JPY",
       "description": "iFacialMocapは、iOSアプリで表情をキャプチャし、PC上の3DCGソフトウェアとリアルタイムに通信できます。また、メールでFBXエクスポートを行うことが出来ます。PC側のソフトウェアでは、VRMモデルの読み込みを行えます。\n\n詳細な使用法は、次のURLから参照できます。\nhttps://ifacialmocap.com/home/japanese/\n\n【このアプリで出来ること】\nこのアプリは、Maya、Unity、3dsMax、BlenderとWiFi経由でリアルタイムで通信することにより、顔のアニメーションを作成できます。また、Maya、Blenderではアニメーションをベイク処理することができます。iOS端末内で録画したモーションをFBX Ascii形式でエクスポートできます。\n\nこのアプリは、iOSアプリ内にVRMアバターをロードできます。また、このアプリは、PC上のVMagicMirrorや、Luppet、HANA_APPなどのVRM関連アプリと連携させて頂いております。\n\n【使用条件】\n・iOS端末でWiFiを受信できる環境である必要があります。\n\n・受信するPCとiOS端末は同一のルーターに接続されている必要があります。(同一のルーターであればPC側が有線、iOS側が無線でも動作します。)\n\n・iOS端末がFaceIDを搭載している必要があります。\n\n【使用方法】\n使用するには、まずモバイルアプリを起動してから、PC側で受信するソフトを起動し、iPhoneのIPアドレスを入力します。\n\nPC用で受信するソフトは以下のURLからDLします。\nhttps://ifacialmocap.com/download/japanese/\n\n 次に、命名規則に従って最大52個のモーフターゲット（BlendShapeまたはShapeKey）を作成します。最後に、3DCGソフトウェアを使用してスクリプト/アドオンをロードし、PC側でwaitボタンまたは再生ボタンを押した後に、Connectボタンを押します。\n\n非常に高精度な顔のモーションキャプチャを非常に簡単に実行できます。\n\n\n【対応端末】\nこのアプリは、FaceIDを搭載したiPhoneX以降のiPhone,iPadでのみ使用することができます。\nFaceID対応端末は以下になります。\n\n・iPhone\niPhone13 mini\nPhone13 Pro Max\niPhone13 Pro\niPhone13\niPhone12 Pro Max\niPhone12 Pro\niPhone12\niPhone 11 Pro Max\niPhone 11 Pro\niPhone 11\niPhone XS Max\niPhone XS\niPhone XR\niPhone X\n\n \n・iPad\niPad Pro 12.9 インチ (第 5 世代)\niPad Pro 12.9 インチ (第 4 世代)\niPad Pro 12.9 インチ (第 3 世代)\niPad Pro 11 インチ (第 2 世代)\niPad Pro 11 インチ\n\n※2020年に発売の新しいiPhoneSE第2世代にはFaceIDが搭載されていませんが、iOS14以降にアップデートすれば使用できます。iPhoneSE第2世代に限らず、A12以上のチップを搭載している場合、iOS14にアップデートされている場合、使用できます。",
-      "minimumOsVersion": "13.2",
-      "trackViewUrl": "https://apps.apple.com/jp/app/ifacialmocap/id1489470545?uo=4",
-      "trackCensoredName": "iFacialMocap",
-      "averageUserRating": 4.23404,
       "languageCodesISO2A": [
         "EN",
         "FR",
@@ -187,13 +197,12 @@
         "TH",
         "ZH"
       ],
-      "fileSizeBytes": "309628928",
+      "fileSizeBytes": "306029568",
       "formattedPrice": "¥900",
-      "userRatingCountForCurrentVersion": 47,
+      "userRatingCountForCurrentVersion": 50,
       "trackContentRating": "4+",
-      "contentAdvisoryRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.23404,
-      "userRatingCount": 47
+      "averageUserRatingForCurrentVersion": 4.09999,
+      "userRatingCount": 50
     }
   ]
 }

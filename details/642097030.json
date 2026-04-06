@@ -2,9 +2,14 @@
   "resultCount": 1,
   "results": [
     {
+      "screenshotUrls": [],
+      "ipadScreenshotUrls": [],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/c6/02/88c602f9-e8e2-eb67-885a-a99a642e93e3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "isGameCenterEnabled": false,
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/66/01/18660160-26af-db69-4957-ba633085db15/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/66/01/18660160-26af-db69-4957-ba633085db15/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -123,23 +128,39 @@
         "iPhone17Pro-iPhone17Pro",
         "iPhone17ProMax-iPhone17ProMax",
         "iPhone17-iPhone17",
-        "iPhoneAir-iPhoneAir"
-      ],
-      "features": [
-        "iosUniversal"
+        "iPhoneAir-iPhoneAir",
+        "iPadPro11M5-iPadPro11M5",
+        "iPadPro11M5Cellular-iPadPro11M5Cellular",
+        "iPadPro13M5-iPadPro13M5",
+        "iPadPro13M5Cellular-iPadPro13M5Cellular",
+        "iPhone17e-iPhone17e",
+        "iPadAir11M4-iPadAir11M4",
+        "iPadAir11M4Cellular-iPadAir11M4Cellular",
+        "iPadAir13M4-iPadAir13M4",
+        "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
       "advisories": [
         "無制限のWebアクセス"
       ],
       "kind": "software",
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/66/01/18660160-26af-db69-4957-ba633085db15/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "screenshotUrls": [],
-      "ipadScreenshotUrls": [],
       "artistViewUrl": "https://apps.apple.com/jp/developer/yoshitaka-haneda/id642097033?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/c6/02/88c602f9-e8e2-eb67-885a-a99a642e93e3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/c6/02/88c602f9-e8e2-eb67-885a-a99a642e93e3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
       "minimumOsVersion": "12.0",
-      "trackViewUrl": "https://apps.apple.com/jp/app/comicshare-%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF-%E9%9B%BB%E5%AD%90%E6%9B%B8%E7%B1%8D%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC/id642097030?uo=4",
-      "contentAdvisoryRating": "17+",
+      "averageUserRatingForCurrentVersion": 4.12744,
+      "languageCodesISO2A": [
+        "EN",
+        "JA",
+        "KO",
+        "ZH",
+        "ES",
+        "ZH"
+      ],
+      "fileSizeBytes": "88903680",
+      "formattedPrice": "¥600",
+      "trackContentRating": "17+",
+      "sellerUrl": "http://comicshare.net",
+      "userRatingCountForCurrentVersion": 667,
       "artistId": 642097033,
       "artistName": "yoshitaka haneda",
       "genres": [
@@ -149,39 +170,27 @@
       "price": 600.0,
       "bundleId": "com.zakzak.ComicShare",
       "releaseDate": "2013-05-22T18:53:29Z",
-      "currentVersionReleaseDate": "2025-11-13T20:50:09Z",
-      "trackId": 642097030,
+      "sellerName": "yoshitaka haneda",
       "trackName": "ComicShare -（コミック/電子書籍リーダー）",
+      "trackId": 642097030,
+      "isVppDeviceBasedLicensingEnabled": true,
       "genreIds": [
         "6018",
         "6002"
       ],
-      "isVppDeviceBasedLicensingEnabled": true,
       "primaryGenreName": "Book",
       "primaryGenreId": 6018,
-      "sellerName": "yoshitaka haneda",
-      "releaseNotes": "いくつかの不具合修正",
-      "version": "7.7.20",
+      "currentVersionReleaseDate": "2026-04-03T16:25:14Z",
+      "releaseNotes": "いくつかの不具合を修正しました。",
+      "version": "7.7.21",
       "wrapperType": "software",
       "currency": "JPY",
       "description": "ComicShareは高機能かつ高速なコミックリーダーです。自炊コミック、PDF、青空文庫、TXTなど快適に読書できます。SMB/FTP/GoogleDrive/Dropbox/OneDrive(Business)/Box/webDAV/OPDS/SFTP/Web(HTTP)に対応しています。ZIP(CBZ)/RAR(CBR)/7ZIP(CB7)/TAR(CBT)/LZH(LHA), TXT(RTF)/EPUB/PDF形式のファイルに対応しています。\n\n\n【概要】\niPhone/iPod/iPad内に保存されている画像ファイル閲覧及び、サーバ上にある画像ファイルをストリーミング閲覧できます。\nサーバ機能があれば、NAS, Windows, Mac等に保存されている画像ファイルを直接閲覧できます。\niCloud機能により、異なるiPhone/iPod/iPad間で閲覧履歴/しおり/ブックマークの同期ができます。\n「BlueToothキーボード」「音」「ウインク」「他のiPhone/iPod/iPad」により、離れたiPhone/iPod/iPadを遠隔操作することも可能です。\n本棚の大きさをピンチイン/ピンチアウトで調整することで、見やすい大きさに変更できます。\nフォルダやサーバにパスワード設定することも可能で、他の人に見られないように書籍を保護できます。\n\n【機能】\n・ZIP(CBZ), RAR(CBR), 7ZIP(CB7), TAR(CBT), LZH(LHA)EPUB 圧縮ファイル及び、pdf内の画像ファイルを閲覧可能\n・txt, rtfファイルの表示\n・jpg, png, bmp, webp, avif, heic, jxl などの画像ファイルに対応\n・gif, apng, webpのアニメーションに対応\n・青空文庫に対応\n・読書管理機能によるグラフやランキング表示\n・見開きページの分割表示\n・単ページの見開き表示\n・iPhone, iPodTouchの最適化ズームに対応\n・閲覧履歴機能\n・しおり機能\n・ブックマーク機能\n・キャッシュ閲覧機能\n・全体検索機能(サーバ内も可能)\n・表紙画像表示(サムネイル)\n・画像加工(各種フィルター、自動着色、自動余白トリム、回転)\n・画像保存(写真/ローカル)&コピー(クリップボード)\n・サーバースキャン機能\n・WebDAV/HTTPサーバ機能\n・Evernote機能\n・タッチ設定のカスタマイズ\n・iCloudによる閲覧履歴/ブックマーク/しおりの同期\n・書庫内書庫ファイルを閲覧可能\n・スライドショー\n・起動パスコード(タッチID)\n・フォルダのパスコード(タッチID)\n・本棚/タイル表示\n・フォルダ階層表示\n・音によるページ移動\n・笑顔やウインクによるページ移動\n・他のデバイスによるリモート操作機能\n・Bluetoothキーボードによるファイル選択、閲覧機能\n・本棚のズーム機能\n・カメラロール内の画像閲覧機能\n・ダブルタップ後のスワイプズーム\n・サーバのファイル削除、リネームなどが可能\n・Webブラウザによる閲覧と画像保存機能\n・PDFリフロー(簡易的な機能なので縦読みや段組み、画像を多用しているページではレイアウトが崩れます)\nなど他にも多数の機能を搭載しています。\n\n\n\n※スクリーンショットにて使用させて頂いています。\n　タイトル：ブラックジャックによろしく\u2028\n　著者名：佐藤秀峰\u2028\n　サイト名：漫画 on web\u2028\n　URL：http://mangaonweb.com\n※\"This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit.(http://www.openssl.org/)\"\n　This product includes cryptographic software written by Eric Young(eay@cryptsoft.com)\n※Icons8\nhttps://icons8.com",
-      "sellerUrl": "http://comicshare.net",
-      "averageUserRating": 4.12154,
+      "averageUserRating": 4.12744,
       "trackCensoredName": "ComicShare -（コミック/電子書籍リーダー）",
-      "averageUserRatingForCurrentVersion": 4.12154,
-      "languageCodesISO2A": [
-        "EN",
-        "JA",
-        "KO",
-        "ZH",
-        "ES",
-        "ZH"
-      ],
-      "fileSizeBytes": "88883200",
-      "formattedPrice": "¥600",
-      "userRatingCountForCurrentVersion": 650,
-      "trackContentRating": "17+",
-      "userRatingCount": 650
+      "trackViewUrl": "https://apps.apple.com/jp/app/comicshare-%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF-%E9%9B%BB%E5%AD%90%E6%9B%B8%E7%B1%8D%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC/id642097030?uo=4",
+      "contentAdvisoryRating": "17+",
+      "userRatingCount": 667
     }
   ]
 }

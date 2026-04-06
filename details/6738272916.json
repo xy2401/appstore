@@ -3,17 +3,8 @@
   "results": [
     {
       "isGameCenterEnabled": false,
-      "artistViewUrl": "https://apps.apple.com/cn/developer/%E6%81%92%E7%9B%9B-%E7%A8%8B/id1533201832?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/10/c3/e610c328-17f1-2bda-eef8-4bda18aa75d8/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.jpeg/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/10/c3/e610c328-17f1-2bda-eef8-4bda18aa75d8/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.jpeg/100x100bb.jpg",
       "features": [
         "iosUniversal"
-      ],
-      "advisories": [
-        "偶尔/轻微的现实暴力",
-        "偶尔/轻微的竞赛",
-        "偶尔/轻微的卡通或幻想暴力",
-        "偶尔/轻微的亵渎或低俗幽默"
       ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
@@ -133,44 +124,58 @@
         "iPhone17Pro-iPhone17Pro",
         "iPhone17ProMax-iPhone17ProMax",
         "iPhone17-iPhone17",
-        "iPhoneAir-iPhoneAir"
+        "iPhoneAir-iPhoneAir",
+        "iPadPro11M5-iPadPro11M5",
+        "iPadPro11M5Cellular-iPadPro11M5Cellular",
+        "iPadPro13M5-iPadPro13M5",
+        "iPadPro13M5Cellular-iPadPro13M5Cellular",
+        "iPhone17e-iPhone17e",
+        "iPadAir11M4-iPadAir11M4",
+        "iPadAir11M4Cellular-iPadAir11M4Cellular",
+        "iPadAir13M4-iPadAir13M4",
+        "iPadAir13M4Cellular-iPadAir13M4Cellular"
+      ],
+      "advisories": [
+        "偶尔/轻微的竞赛",
+        "偶尔/轻微的现实暴力",
+        "偶尔/轻微的卡通或幻想暴力",
+        "偶尔/轻微的亵渎或低俗幽默"
       ],
       "kind": "software",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/05/1c/04051c0c-958a-5962-d84e-1144e3b9f029/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.jpeg/60x60bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/05/1c/04051c0c-958a-5962-d84e-1144e3b9f029/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.jpeg/512x512bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/05/1c/04051c0c-958a-5962-d84e-1144e3b9f029/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.jpeg/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/cn/developer/%E6%81%92%E7%9B%9B-%E7%A8%8B/id1533201832?uo=4",
       "screenshotUrls": [],
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/10/c3/e610c328-17f1-2bda-eef8-4bda18aa75d8/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.jpeg/512x512bb.jpg",
-      "trackCensoredName": "全球电视 - 国际电视直播",
-      "trackViewUrl": "https://apps.apple.com/cn/app/%E5%85%A8%E7%90%83%E7%94%B5%E8%A7%86-%E5%9B%BD%E9%99%85%E7%94%B5%E8%A7%86%E7%9B%B4%E6%92%AD/id6738272916?uo=4",
-      "contentAdvisoryRating": "12+",
-      "minimumOsVersion": "12.0",
-      "averageUserRating": 4.29753,
-      "artistId": 1533201832,
-      "artistName": "恒盛 程",
       "genres": [
         "娱乐",
         "生活"
       ],
       "price": 1.0,
       "bundleId": "com.hansen.watchtv",
-      "sellerName": "恒盛 程",
-      "trackName": "全球电视 - 国际电视直播",
-      "releaseDate": "2024-11-16T08:00:00Z",
       "trackId": 6738272916,
-      "primaryGenreName": "Entertainment",
-      "primaryGenreId": 6016,
-      "isVppDeviceBasedLicensingEnabled": true,
+      "trackName": "全球电视 - 国际电视直播",
+      "currentVersionReleaseDate": "2026-02-03T14:25:55Z",
+      "releaseDate": "2024-11-16T08:00:00Z",
       "genreIds": [
         "6016",
         "6012"
       ],
-      "currentVersionReleaseDate": "2025-11-12T12:23:38Z",
-      "releaseNotes": "修复已知bug",
-      "version": "2.4",
+      "primaryGenreName": "Entertainment",
+      "primaryGenreId": 6016,
+      "sellerName": "恒盛 程",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseNotes": "1、增加开屏广告\n2、优化加载速度\n3、增加一键导入有效频道",
+      "version": "2.5",
       "wrapperType": "software",
       "currency": "CNY",
       "description": "‘全球电视’ 带来了海量的全球IPTV频道，让您随时随地观看来自世界各地的直播电视。无论是新闻、娱乐、体育还是电影，‘全球电视’ 汇聚了全球公开的IPTV频道，满足您多样化的观看需求。\n\n主要特点：\n\n国家覆盖： 美国、加拿大、阿根廷、澳大利亚、巴西、智利、中国、印度、印度尼西亚、以色列、日本、韩国、马来西亚、墨西哥、新西兰、巴基斯坦、菲律宾、俄罗斯、南非、英国、德国、法国、西班牙、意大利、荷兰、比利时、瑞士、瑞典、挪威、丹麦、芬兰、爱尔兰、奥地利、葡萄牙、波兰、捷克、匈牙利、希腊、土耳其、塞尔维亚、克罗地亚、阿尔巴尼亚、波黑、北马其顿、黑山、保加利亚、罗马尼亚、摩尔多瓦、爱沙尼亚、拉脱维亚、立陶宛、白俄罗斯、乌克兰、冰岛、马耳他、圣马力诺、卢森堡、摩纳哥、列支敦士登、梵蒂冈、安道尔、圣基茨和尼维斯、圣多美和普林西比、巴哈马、贝尔哈、阿根廷、尼日尔、厄瓜多尔、乌拉圭、赞比亚、博茨瓦纳、津巴布韦、吉布提、贝尔哈、卢旺达、科特迪瓦、乌干达、喀麦隆、安哥拉、刚果共和国、刚果民主共和国、多哥、塞拉利昂、毛里塔尼亚、尼日利亚、坦桑尼亚、索马里、加纳、南非、摩洛哥、阿尔及利亚、埃及、突尼斯、利比亚、肯尼亚、博茨瓦纳、斯威士兰、莫桑比克、莱索托、马达加斯加、马里、乍得、苏丹、卢旺达。\n\n频道分类： 提供了丰富多样的内容，满足您的不同观看需求，涵盖各类频道，包括：\n动画片、汽车、商业、经典、喜剧、烹饪、文化、纪录片、教育、娱乐、家庭、一般、儿童、立法、生活方式、电影、音乐、新闻、户外、放松、宗教、科学、系列、购物、体育、旅行、天气、不明确。\n\n随时随地观看： 以高清质量和流畅播放，全球直播电视随时随地观看。\n\n简单易用： 用户友好的界面，让您轻松浏览并选择喜欢的频道。\n\n通过 ‘全球电视’，体验IPTV的全球电视精华——再也不会错过精彩的内容！",
-      "averageUserRatingForCurrentVersion": 4.29753,
+      "averageUserRatingForCurrentVersion": 4.18305,
+      "sellerUrl": "https://chenghengsheng.top",
+      "averageUserRating": 4.18305,
+      "trackCensoredName": "全球电视 - 国际电视直播",
       "languageCodesISO2A": [
         "AR",
         "EN",
@@ -184,11 +189,16 @@
         "ES",
         "ZH"
       ],
-      "fileSizeBytes": "8456192",
+      "fileSizeBytes": "19791872",
       "formattedPrice": "¥1.00",
+      "contentAdvisoryRating": "12+",
+      "userRatingCountForCurrentVersion": 885,
+      "trackViewUrl": "https://apps.apple.com/cn/app/%E5%85%A8%E7%90%83%E7%94%B5%E8%A7%86-%E5%9B%BD%E9%99%85%E7%94%B5%E8%A7%86%E7%9B%B4%E6%92%AD/id6738272916?uo=4",
       "trackContentRating": "12+",
-      "userRatingCountForCurrentVersion": 773,
-      "userRatingCount": 773
+      "minimumOsVersion": "12.0",
+      "artistId": 1533201832,
+      "artistName": "恒盛 程",
+      "userRatingCount": 885
     }
   ]
 }

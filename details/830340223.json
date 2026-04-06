@@ -3,9 +3,6 @@
   "results": [
     {
       "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -124,39 +121,55 @@
         "iPhone17Pro-iPhone17Pro",
         "iPhone17ProMax-iPhone17ProMax",
         "iPhone17-iPhone17",
-        "iPhoneAir-iPhoneAir"
+        "iPhoneAir-iPhoneAir",
+        "iPadPro11M5-iPadPro11M5",
+        "iPadPro11M5Cellular-iPadPro11M5Cellular",
+        "iPadPro13M5-iPadPro13M5",
+        "iPadPro13M5Cellular-iPadPro13M5Cellular",
+        "iPhone17e-iPhone17e",
+        "iPadAir11M4-iPadAir11M4",
+        "iPadAir11M4Cellular-iPadAir11M4Cellular",
+        "iPadAir13M4-iPadAir13M4",
+        "iPadAir13M4Cellular-iPadAir13M4Cellular"
+      ],
+      "features": [
+        "iosUniversal"
       ],
       "advisories": [
-        "まれ／軽度なアニメまたはファンタジーバイオレンス"
+        "まれ／軽度なアニメまたはファンタジーバイオレンス",
+        "まれ／軽度なアルコール、タバコ、ドラッグの使用または言及",
+        "まれ／軽度な医療または治療情報",
+        "まれ／軽度な過激な言葉遣いまたは下品なユーモア",
+        "まれ／軽度なホラーまたは恐怖に関するテーマ",
+        "まれ／軽度なコンテスト",
+        "まれ／軽度な擬似ギャンブル",
+        "まれ／軽度な性的表現またはヌード"
       ],
       "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/jp/developer/tver-inc/id544610425?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/d4/a8/17d4a8ee-f856-522a-a60f-965684408559/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/d4/a8/17d4a8ee-f856-522a-a60f-965684408559/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/1f/78/0c1f788d-1010-5167-7970-1534b880d730/_U2460TV_store_A0601_250612_P067_1242-2208.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b0/33/c0/b033c012-fe3c-0b2e-ee26-373e88cd981b/_U2461TV_store_A0602_250612_P067_1242-2208.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/32/ae/1f/32ae1f59-6dbd-2bfc-ced9-6bdfd78e3223/_U2462TV_store_A0603_250612_P067_1242-2208.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8b/33/a2/8b33a283-dffe-e42a-ea81-1de145b02c18/_U2463TV_store_A0604_250612_P067_1242-2208.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/1e/56/0c1e56ab-302b-7054-5f96-eb85ad66b690/_U2464TV_store_A0605_250612_P067_1242-2208.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4e/f1/c9/4ef1c94a-829b-c9d3-6168-a5a10f5a0950/_U2465TV_store_A0606_250612_P067_1242-2208.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/15/8f/45/158f4512-ebea-110e-3b31-ee27b5b27b12/_U2466TV_store_A0607_250612_P067_1242-2208.png/392x696bb.png"
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2a/fe/88/2afe8871-1dac-fe61-d60b-36c16170fbe3/TVer_5.5inch_01.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/02/8f/3d/028f3d52-b969-7de5-a281-a55eae21dfcf/TVer_5.5inch_02.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e5/27/a5/e527a5ec-10bc-3dc5-df23-099b2573c885/TVer_5.5inch_03.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3d/c8/d7/3dc8d7d4-de93-e00b-c18c-d4ce55cdf5f9/TVer_5.5inch_04.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/52/27/36/522736f3-6683-25bf-343b-0714e5aae9ec/TVer_5.5inch_05.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/55/c5/63/55c56314-b960-096f-15cf-5e7d63a7da68/TVer_5.5inch_06.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2f/9e/76/2f9e769c-f645-cd69-24d9-c8b616f7d065/TVer_5.5inch_07.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3b/11/73/3b1173aa-9782-c762-0206-64d930fc53a0/TVer_5.5inch_08.png/392x696bb.png"
       ],
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/d4/a8/17d4a8ee-f856-522a-a60f-965684408559/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "artistId": 544610425,
-      "artistName": "TVer INC.",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/c0/63/56c063f1-f5f8-71a7-1260-e1dce4fa637b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/jp/developer/tver-inc/id544610425?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/c0/63/56c063f1-f5f8-71a7-1260-e1dce4fa637b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/c0/63/56c063f1-f5f8-71a7-1260-e1dce4fa637b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+      "price": 0.0,
       "genres": [
         "エンターテインメント",
         "ニュース"
       ],
-      "price": 0.0,
+      "artistId": 544610425,
+      "artistName": "TVer INC.",
       "bundleId": "jp.hamitv.hamitvapp1",
-      "genreIds": [
-        "6016",
-        "6009"
-      ],
       "trackId": 830340223,
       "trackName": "TVer(ティーバー) 民放公式テレビ配信サービス",
       "releaseDate": "2014-03-27T17:11:25Z",
@@ -164,25 +177,29 @@
       "primaryGenreId": 6016,
       "sellerName": "TVer INC.",
       "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2025-12-02T03:06:45Z",
+      "currentVersionReleaseDate": "2026-03-24T02:31:41Z",
       "releaseNotes": "一部機能の改善",
-      "version": "6.20.0",
+      "version": "6.27.0",
       "wrapperType": "software",
       "currency": "JPY",
-      "description": "民放公式テレビ配信サービス「TVer(ティーバー)」は、見逃した800以上のテレビ番組の動画が見放題！\n\n「TVer(ティーバー)」では、普段ご覧いただいているドラマやバラエティ、アニメ、スポーツ、ニュースなどの番組を、パソコンやスマートフォン、タブレット、テレビでご覧いただけます。いつでもどこでも、自由にテレビ番組をお楽しみください。\n\n\n【TVer(ティーバー)の特徴・機能】\n・追加課金は一切なく、全ての動画が見られる\n・安心安全！民放テレビ局制作の公式番組コンテンツを配信\n・絞り込み/フリーワード検索など見たい番組動画をすぐに探せる便利な検索機能\n・お気に入りのタレントや番組を登録できるお気に入り機能\n・見たい番組が見つけられるレコメンド機能\n・好きな番組をSNS等でシェアする機能\n・全局のHPデータを利用した正確なテレビ番組情報を完全網羅\n・インターネット上で話題になっているテレビニュースを集約\n・全国対応した番組表(地上波・BS)を搭載\n・テレビで放送している番組を TVerでも同時に視聴できるリアルタイム配信※1\n・普段配信されてないスポーツ試合などをリアルタイムで配信するスペシャルライブ※2\n※1 リアルタイム配信は、すべての番組ではなく夜帯の番組を中心に配信しております。詳細はhttps://tver.jp/live/ページをご覧ください。\nインターネットを利用した地上波放送の同時配信となるため、地上波放送より遅延があります。遅延時間は視聴番組、ご利用の端末によって変動します。また、リアルタイム配信は、テレビアプリ（コネクテッドTV）では視聴できません。\n※2 テレビアプリ（コネクテッドTV）では、対応端末にて一部の配信コンテンツのみご視聴いただけます。\n\n\n◎TVer(ティーバー)はこんな方におすすめ！\n・ドラマが大好きで、テレビで見逃した最新話を視聴したい\n・テレビで放送中のお気に入りアニメをもう一度見たい\n・人気の芸人・タレントが出演しているお笑い番組・バラエティを楽しみたい\n・話題のドキュメンタリー番組やスポーツ特番をチェックしたい\n・テレビ番組が視聴できる動画アプリを探している\n・見逃し配信が見放題の動画配信サービスを利用したい\n・地上波、BSテレビの番組表をアプリで確認したい\n・機能が充実していて映像が綺麗な動画視聴アプリを使いたい\n・地上波テレビ番組の放送をよく見逃してしまう\n・映像作品が好きでビデオを普段よく借りるが、スマホでも動画を楽しみたい\n・ドラマ、アニメ、バラエティ、スポーツ、ニュースなど様々なジャンルのテレビ番組を視聴したい\n\n【利用規約】 https://tver.jp/tos\n【プライバシーポリシー】 https://tver.jp/privacypolicy\n\n【対応OSに関する重要なお知らせ】\n2024年4月よりご利用いただける動作環境がiOS14以降となりました。\niOS13以前のスマートフォン、タブレットをご利用の場合、OSアップデートのご検討をお願いいたします。",
+      "description": "民放公式テレビ配信サービス「TVer(ティーバー)」は、見逃した800以上のテレビ番組の動画が見放題！\n\n「TVer(ティーバー)」では、普段ご覧いただいているドラマやバラエティ、アニメ、スポーツ、ニュースなどの番組を、パソコンやスマートフォン、タブレット、テレビでご覧いただけます。いつでもどこでも、自由にテレビ番組をお楽しみください。\n\n\n【TVer(ティーバー)の特徴・機能】\n・追加課金は一切なく、全ての動画が見られる\n・安心安全！民放テレビ局制作の公式番組コンテンツを配信\n・絞り込み/フリーワード検索など見たい番組動画をすぐに探せる便利な検索機能\n・お気に入りのタレントや番組を登録できるお気に入り機能\n・見たい番組が見つけられるレコメンド機能\n・好きな番組をSNS等でシェアする機能\n・全局のHPデータを利用した正確なテレビ番組情報を完全網羅\n・インターネット上で話題になっているテレビニュースを集約\n・全国対応した番組表(地上波・BS)を搭載\n・テレビで放送している番組を TVerでも同時に視聴できるリアルタイム配信※1\n・普段配信されてないスポーツ試合などをリアルタイムで配信するスペシャルライブ※2\n※1 リアルタイム配信は、すべての番組ではなく夜帯の番組を中心に配信しております。詳細はhttps://tver.jp/live/ページをご覧ください。\nインターネットを利用した地上波放送の同時配信となるため、地上波放送より遅延があります。遅延時間は視聴番組、ご利用の端末によって変動します。また、リアルタイム配信は、テレビアプリ（コネクテッドTV）では視聴できません。\n※2 テレビアプリ（コネクテッドTV）では、対応端末にて一部の配信コンテンツのみご視聴いただけます。\n\n\n◎TVer(ティーバー)はこんな方におすすめ！\n・ドラマが大好きで、テレビで見逃した最新話を視聴したい\n・テレビで放送中のお気に入りアニメをもう一度見たい\n・人気の芸人・タレントが出演しているお笑い番組・バラエティを楽しみたい\n・話題のドキュメンタリー番組やスポーツ特番をチェックしたい\n・テレビ番組が視聴できる動画アプリを探している\n・見逃し配信が見放題の動画配信サービスを利用したい\n・地上波、BSテレビの番組表をアプリで確認したい\n・機能が充実していて映像が綺麗な動画視聴アプリを使いたい\n・地上波テレビ番組の放送をよく見逃してしまう\n・映像作品が好きでビデオを普段よく借りるが、スマホでも動画を楽しみたい\n・ドラマ、アニメ、バラエティ、スポーツ、ニュースなど様々なジャンルのテレビ番組を視聴したい\n\n【利用規約】 https://tver.jp/tos\n【プライバシーポリシー】 https://tver.jp/privacypolicy\n\n【対応OSに関する重要なお知らせ】\n2025年12月よりご利用いただける動作環境がiOS16以降になりました。\niOS15以前のスマートフォン、タブレットをご利用の場合、OSアップデートのご検討をお願いいたします。",
+      "averageUserRating": 4.21211,
+      "languageCodesISO2A": [],
+      "fileSizeBytes": "190453760",
+      "formattedPrice": "無料",
+      "userRatingCountForCurrentVersion": 397994,
+      "trackContentRating": "12+",
+      "sellerUrl": "https://tver.jp",
       "trackCensoredName": "TVer(ティーバー) 民放公式テレビ配信サービス",
       "trackViewUrl": "https://apps.apple.com/jp/app/tver-%E3%83%86%E3%82%A3%E3%83%BC%E3%83%90%E3%83%BC-%E6%B0%91%E6%94%BE%E5%85%AC%E5%BC%8F%E3%83%86%E3%83%AC%E3%83%93%E9%85%8D%E4%BF%A1%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/id830340223?uo=4",
-      "contentAdvisoryRating": "9+",
+      "contentAdvisoryRating": "12+",
+      "averageUserRatingForCurrentVersion": 4.21211,
       "minimumOsVersion": "16.0",
-      "averageUserRating": 4.21659,
-      "averageUserRatingForCurrentVersion": 4.21659,
-      "sellerUrl": "https://tver.jp",
-      "languageCodesISO2A": [],
-      "fileSizeBytes": "171726848",
-      "formattedPrice": "無料",
-      "userRatingCountForCurrentVersion": 393628,
-      "trackContentRating": "9+",
-      "userRatingCount": 393628
+      "genreIds": [
+        "6016",
+        "6009"
+      ],
+      "userRatingCount": 397994
     }
   ]
 }
