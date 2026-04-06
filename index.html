@@ -4,352 +4,49 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>App Store Rankings</title>
-    <style>
-        :root {
-            --bg-color: #1a1a1a;
-            --card-bg: #2d2d2d;
-            --text-color: #ffffff;
-            --secondary-text: #b3b3b3;
-            --accent-color: #007aff;
-            --border-radius: 12px;
-            --spacing: 20px;
-        }
-
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-            background-color: var(--bg-color);
-            color: var(--text-color);
-            margin: 0;
-            padding: 0;
-            min-height: 100vh;
-        }
-
-        header {
-            background-color: var(--card-bg);
-            padding: var(--spacing);
-            position: sticky;
-            top: 0;
-            z-index: 100;
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-            display: flex;
-            flex-direction: column;
-            gap: 15px;
-            align-items: center;
-        }
-
-        h1 {
-            margin: 0;
-            font-size: 24px;
-            font-weight: 600;
-        }
-
-        .controls {
-            display: flex;
-            gap: 15px;
-            flex-wrap: wrap;
-            justify-content: center;
-        }
-
-        select {
-            background-color: var(--bg-color);
-            color: var(--text-color);
-            border: 1px solid #444;
-            padding: 8px 16px;
-            border-radius: 8px;
-            font-size: 16px;
-            outline: none;
-            cursor: pointer;
-        }
-
-        select:focus {
-            border-color: var(--accent-color);
-        }
-
-        main {
-            padding: var(--spacing);
-            max-width: 1200px;
-            margin: 0 auto;
-        }
-
-        .grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-            gap: var(--spacing);
-        }
-
-        .card {
-            background-color: var(--card-bg);
-            border-radius: var(--border-radius);
-            padding: 15px;
-            display: flex;
-            align-items: center;
-            gap: 15px;
-            transition: transform 0.2s, box-shadow 0.2s;
-        }
-
-        .card:hover {
-            transform: translateY(-2px);
-            box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
-        }
-
-        .rank {
-            font-size: 24px;
-            font-weight: bold;
-            color: var(--secondary-text);
-            min-width: 30px;
-            text-align: center;
-        }
-
-        .icon {
-            width: 64px;
-            height: 64px;
-            border-radius: 14px;
-            object-fit: cover;
-            background-color: #444;
-        }
-
-        .info {
-            flex: 1;
-            overflow: hidden;
-        }
-
-        .name {
-            font-size: 16px;
-            font-weight: 600;
-            margin: 0 0 4px 0;
-            white-space: nowrap;
-            overflow: hidden;
-            text-overflow: ellipsis;
-        }
-
-        .artist {
-            font-size: 14px;
-            color: var(--secondary-text);
-            margin: 0;
-            white-space: nowrap;
-            overflow: hidden;
-            text-overflow: ellipsis;
-        }
-
-        .loading {
-            text-align: center;
-            padding: 50px;
-            color: var(--secondary-text);
-            grid-column: 1 / -1;
-        }
-        
-        .error {
-            text-align: center;
-            padding: 50px;
-            color: #ff453a;
-            grid-column: 1 / -1;
-        }
-
-        @media (min-width: 768px) {
-            header {
-                flex-direction: row;
-                justify-content: space-between;
-            }
-        }
-    </style>
+    <link rel="stylesheet" href="style.css">
+</head>
 </head>
 <body>
     <header>
-        <h1>App Store Rankings</h1>
-        <div class="controls">
-            <select id="dateSelect">
-                <option value="" disabled selected>Select Date</option>
-            </select>
-            <select id="countrySelect">
-                <option value="" disabled selected>Select Country</option>
-            </select>
-            <select id="feedSelect">
-                <option value="" disabled selected>Select List</option>
-            </select>
+        <div class="header-content">
+            <h1>Top Charts</h1>
+            <div class="controls">
+                <a id="jsonLink" href="#" target="_blank" style="display: none; margin-right: 10px;">View JSON</a>
+                <select id="dateSelect">
+                    <option value="" disabled selected>Date</option>
+                </select>
+                <select id="countrySelect">
+                    <option value="" disabled selected>Region</option>
+                </select>
+                <select id="mediaTypeSelect">
+                    <option value="" disabled selected>Media Type</option>
+                </select>
+                <select id="feedSelect">
+                    <option value="" disabled selected>Category</option>
+                </select>
+            </div>
         </div>
     </header>
 
     <main>
-        <div id="appGrid" class="grid">
-            <div class="loading">Loading data...</div>
+        <div id="appGrid" class="app-list">
+            <div class="loading">Select options to view rankings</div>
         </div>
     </main>
 
-    <script>
-        const dateSelect = document.getElementById('dateSelect');
-        const countrySelect = document.getElementById('countrySelect');
-        const feedSelect = document.getElementById('feedSelect');
-        const appGrid = document.getElementById('appGrid');
+    <!-- App Detail Modal -->
+    <div id="appModal" class="modal">
+        <div class="modal-content">
+            <span class="close-modal">&times;</span>
+            <div id="modalBody">
+                <!-- Content injected by JS -->
+            </div>
+        </div>
+    </div>
 
-        let allFiles = [];
-        let availableDates = new Set();
-        let availableCountries = new Set();
-        let availableFeeds = new Set();
+    <script src="script.js"></script>
+</body>
 
-        // Fetch the file list
-        fetch('app_rankings.json')
-            .then(response => {
-                if (!response.ok) throw new Error('Failed to load app_rankings.json');
-                return response.json();
-            })
-            .then(files => {
-                allFiles = files;
-                processFiles();
-                populateDropdowns();
-                
-                // Select first available options by default
-                if (dateSelect.options.length > 1) {
-                    dateSelect.selectedIndex = 1;
-                    updateAvailableOptions(); // Update other dropdowns based on date
-                    if (countrySelect.options.length > 1) countrySelect.selectedIndex = 1;
-                    if (feedSelect.options.length > 1) feedSelect.selectedIndex = 1;
-                    loadRankings();
-                }
-            })
-            .catch(err => {
-                appGrid.innerHTML = `<div class="error">Error loading data: ${err.message}.<br>Make sure app_rankings.json exists.</div>`;
-            });
-
-        function processFiles() {
-            allFiles.forEach(file => {
-                // Expected path format: app_rankings\YYYYMMDD\country_feed.json
-                // or app_rankings/YYYYMMDD/country_feed.json
-                const parts = file.RelativePath.split(/[/\\]/);
-                if (parts.length >= 3) {
-                    const date = parts[1];
-                    const filename = parts[parts.length - 1];
-                    const nameParts = filename.replace('.json', '').split('_');
-                    
-                    if (nameParts.length >= 2) {
-                        const country = nameParts[0];
-                        const feed = nameParts[1]; // e.g. top-free
-
-                        file.parsed = { date, country, feed };
-                        availableDates.add(date);
-                    }
-                }
-            });
-        }
-
-        function populateDropdowns() {
-            // Sort dates descending
-            const sortedDates = Array.from(availableDates).sort().reverse();
-            sortedDates.forEach(date => {
-                const option = document.createElement('option');
-                option.value = date;
-                option.textContent = formatDate(date);
-                dateSelect.appendChild(option);
-            });
-        }
-
-        function formatDate(dateStr) {
-            // YYYYMMDD -> YYYY-MM-DD
-            if (dateStr.length === 8) {
-                return `${dateStr.substring(0, 4)}-${dateStr.substring(4, 6)}-${dateStr.substring(6, 8)}`;
-            }
-            return dateStr;
-        }
-
-        function updateAvailableOptions() {
-            const selectedDate = dateSelect.value;
-            
-            // Clear current options
-            countrySelect.innerHTML = '<option value="" disabled selected>Select Country</option>';
-            feedSelect.innerHTML = '<option value="" disabled selected>Select List</option>';
-            
-            availableCountries.clear();
-            availableFeeds.clear();
-
-            allFiles.forEach(file => {
-                if (file.parsed && file.parsed.date === selectedDate) {
-                    availableCountries.add(file.parsed.country);
-                    availableFeeds.add(file.parsed.feed);
-                }
-            });
-
-            Array.from(availableCountries).sort().forEach(country => {
-                const option = document.createElement('option');
-                option.value = country;
-                option.textContent = country.toUpperCase();
-                countrySelect.appendChild(option);
-            });
-
-            Array.from(availableFeeds).sort().forEach(feed => {
-                const option = document.createElement('option');
-                option.value = feed;
-                option.textContent = feed.replace('-', ' ').replace(/\b\w/g, l => l.toUpperCase());
-                feedSelect.appendChild(option);
-            });
-        }
-
-        dateSelect.addEventListener('change', () => {
-            updateAvailableOptions();
-            // Reset child selections
-            countrySelect.selectedIndex = 0;
-            feedSelect.selectedIndex = 0;
-            appGrid.innerHTML = '<div class="loading">Please select country and list type</div>';
-        });
-
-        countrySelect.addEventListener('change', loadRankings);
-        feedSelect.addEventListener('change', loadRankings);
-
-        function loadRankings() {
-            const date = dateSelect.value;
-            const country = countrySelect.value;
-            const feed = feedSelect.value;
-
-            if (!date || !country || !feed) return;
-
-            appGrid.innerHTML = '<div class="loading">Loading rankings...</div>';
-
-            // Find the file path
-            const file = allFiles.find(f => 
-                f.parsed && 
-                f.parsed.date === date && 
-                f.parsed.country === country && 
-                f.parsed.feed === feed
-            );
-
-            if (!file) {
-                appGrid.innerHTML = '<div class="error">Ranking file not found.</div>';
-                return;
-            }
-
-            // Adjust path for fetch (replace backslashes with forward slashes if needed)
-            const fetchPath = file.RelativePath.replace(/\\/g, '/');
-
-            fetch(fetchPath)
-                .then(res => res.json())
-                .then(data => {
-                    renderApps(data.feed.results);
-                })
-                .catch(err => {
-                    appGrid.innerHTML = `<div class="error">Error loading rankings: ${err.message}</div>`;
-                });
-        }
-
-        function renderApps(apps) {
-            appGrid.innerHTML = '';
-            
-            apps.forEach((app, index) => {
-                const card = document.createElement('div');
-                card.className = 'card';
-                
-                // Use local logo path: app_logos/<id>.png
-                const localLogoPath = `app_logos/${app.id}.png`;
-                
-                card.innerHTML = `
-                    <div class="rank">${index + 1}</div>
-                    <img src="${localLogoPath}" alt="${app.name}" class="icon" onerror="this.src='${app.artworkUrl100}'">
-                    <div class="info">
-                        <div class="name" title="${app.name}">${app.name}</div>
-                        <div class="artist" title="${app.artistName}">${app.artistName}</div>
-                    </div>
-                `;
-                
-                appGrid.appendChild(card);
-            });
-        }
-    </script>
 </body>
 </html>

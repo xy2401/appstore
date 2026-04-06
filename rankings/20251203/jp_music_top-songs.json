@@ -1,0 +1,67 @@
+{
+  "feed": {
+    "title": "トップソング",
+    "id": "https://rss.applemarketingtools.com/api/v2/jp/music/most-played/2/songs.json",
+    "author": {
+      "name": "Apple",
+      "url": "https://www.apple.com/"
+    },
+    "links": [
+      {
+        "self": "https://rss.applemarketingtools.com/api/v2/jp/music/most-played/2/songs.json"
+      }
+    ],
+    "copyright": "Copyright © 2025 Apple Inc. All rights reserved.",
+    "country": "jp",
+    "icon": "https://www.apple.com/favicon.ico",
+    "updated": "Wed, 3 Dec 2025 06:22:15 +0000",
+    "results": [
+      {
+        "artistName": "米津玄師",
+        "id": "1837658529",
+        "name": "IRIS OUT",
+        "releaseDate": "2025-09-15",
+        "kind": "songs",
+        "artistId": "530814268",
+        "artistUrl": "https://music.apple.com/jp/artist/%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB/530814268",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e0/f9/f1/e0f9f1f3-a088-b28d-6760-a28accabc705/4547366775181.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "27",
+            "name": "J-Pop",
+            "url": "https://itunes.apple.com/jp/genre/id27"
+          },
+          {
+            "genreId": "34",
+            "name": "ミュージック",
+            "url": "https://itunes.apple.com/jp/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/jp/album/iris-out/1837658528?i=1837658529"
+      },
+      {
+        "artistName": "Mrs. GREEN APPLE",
+        "id": "1739088799",
+        "name": "ライラック",
+        "releaseDate": "2024-04-12",
+        "kind": "songs",
+        "artistId": "962221033",
+        "artistUrl": "https://music.apple.com/jp/artist/mrs-green-apple/962221033",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4c/3b/b2/4c3bb247-3be8-0c57-aa9a-7f1775a7b7a8/24UMGIM32931.rgb.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "21",
+            "name": "ロック",
+            "url": "https://itunes.apple.com/jp/genre/id21"
+          },
+          {
+            "genreId": "34",
+            "name": "ミュージック",
+            "url": "https://itunes.apple.com/jp/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/jp/album/%E3%83%A9%E3%82%A4%E3%83%A9%E3%83%83%E3%82%AF/1739088465?i=1739088799"
+      }
+    ]
+  }
+}

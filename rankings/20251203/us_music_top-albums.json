@@ -1,0 +1,74 @@
+{
+  "feed": {
+    "title": "Top Albums",
+    "id": "https://rss.applemarketingtools.com/api/v2/us/music/most-played/2/albums.json",
+    "author": {
+      "name": "Apple",
+      "url": "https://www.apple.com/"
+    },
+    "links": [
+      {
+        "self": "https://rss.applemarketingtools.com/api/v2/us/music/most-played/2/albums.json"
+      }
+    ],
+    "copyright": "Copyright © 2025 Apple Inc. All rights reserved.",
+    "country": "us",
+    "icon": "https://www.apple.com/favicon.ico",
+    "updated": "Wed, 3 Dec 2025 06:21:52 +0000",
+    "results": [
+      {
+        "artistName": "Taylor Swift",
+        "id": "1838810949",
+        "name": "The Life of a Showgirl",
+        "releaseDate": "2025-10-03",
+        "kind": "albums",
+        "artistId": "159260351",
+        "artistUrl": "https://music.apple.com/us/artist/taylor-swift/159260351",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/58/8f/a9/588fa9a2-7cc5-f02c-9ce6-c986e0dc1c15/25UM1IM19577.rgb.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/us/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/us/album/the-life-of-a-showgirl/1838810949"
+      },
+      {
+        "artistName": "Treaty Oak Revival",
+        "id": "1850021362",
+        "name": "West Texas Degenerate",
+        "releaseDate": "2025-11-28",
+        "kind": "albums",
+        "artistId": "1493691515",
+        "artistUrl": "https://music.apple.com/us/artist/treaty-oak-revival/1493691515",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e5/38/40/e53840dd-764d-2a08-5efd-ff8437bbfae0/artwork.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "6",
+            "name": "Country",
+            "url": "https://itunes.apple.com/us/genre/id6"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId": "21",
+            "name": "Rock",
+            "url": "https://itunes.apple.com/us/genre/id21"
+          }
+        ],
+        "url": "https://music.apple.com/us/album/west-texas-degenerate/1850021362"
+      }
+    ]
+  }
+}

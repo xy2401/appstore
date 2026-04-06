@@ -1,0 +1,73 @@
+{
+  "feed": {
+    "title": "热门专辑排行",
+    "id": "https://rss.applemarketingtools.com/api/v2/cn/music/most-played/2/albums.json",
+    "author": {
+      "name": "Apple",
+      "url": "https://www.apple.com/"
+    },
+    "links": [
+      {
+        "self": "https://rss.applemarketingtools.com/api/v2/cn/music/most-played/2/albums.json"
+      }
+    ],
+    "copyright": "Copyright © 2025 Apple Inc. All rights reserved.",
+    "country": "cn",
+    "icon": "https://www.apple.com/favicon.ico",
+    "updated": "Wed, 3 Dec 2025 06:21:54 +0000",
+    "results": [
+      {
+        "artistName": "Taylor Swift",
+        "id": "1838810949",
+        "name": "The Life of a Showgirl",
+        "releaseDate": "2025-10-03",
+        "kind": "albums",
+        "artistId": "159260351",
+        "artistUrl": "https://music.apple.com/cn/artist/taylor-swift/159260351",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/58/8f/a9/588fa9a2-7cc5-f02c-9ce6-c986e0dc1c15/25UM1IM19577.rgb.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "国际流行",
+            "url": "https://itunes.apple.com/cn/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "音乐",
+            "url": "https://itunes.apple.com/cn/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/cn/album/the-life-of-a-showgirl/1838810949"
+      },
+      {
+        "artistName": "太妍",
+        "id": "1854676984",
+        "name": "Panorama : The Best of TAEYEON",
+        "releaseDate": "2025-12-01",
+        "kind": "albums",
+        "artistId": "435966642",
+        "artistUrl": "https://music.apple.com/cn/artist/%E5%A4%AA%E5%A6%8D/435966642",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c0/4c/66/c04c668f-392d-e529-dc6c-c3bcd727a9d5/888735954184.png/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "51",
+            "name": "K-Pop",
+            "url": "https://itunes.apple.com/cn/genre/id51"
+          },
+          {
+            "genreId": "34",
+            "name": "音乐",
+            "url": "https://itunes.apple.com/cn/genre/id34"
+          },
+          {
+            "genreId": "14",
+            "name": "国际流行",
+            "url": "https://itunes.apple.com/cn/genre/id14"
+          }
+        ],
+        "url": "https://music.apple.com/cn/album/panorama-the-best-of-taeyeon/1854676984"
+      }
+    ]
+  }
+}

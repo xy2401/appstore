@@ -1,0 +1,70 @@
+{
+  "feed": {
+    "title": "トップアルバム",
+    "id": "https://rss.applemarketingtools.com/api/v2/jp/music/most-played/2/albums.json",
+    "author": {
+      "name": "Apple",
+      "url": "https://www.apple.com/"
+    },
+    "links": [
+      {
+        "self": "https://rss.applemarketingtools.com/api/v2/jp/music/most-played/2/albums.json"
+      }
+    ],
+    "copyright": "Copyright © 2025 Apple Inc. All rights reserved.",
+    "country": "jp",
+    "icon": "https://www.apple.com/favicon.ico",
+    "updated": "Wed, 3 Dec 2025 06:22:15 +0000",
+    "results": [
+      {
+        "artistName": "Various Artists",
+        "id": "1852929105",
+        "name": "Dear Jubilee -RADWIMPS TRIBUTE-",
+        "releaseDate": "2025-11-19",
+        "kind": "albums",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ad/4b/b8/ad4bb84d-85f9-8902-6876-c7dd2f93c24a/25UM1IM78298.rgb.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "21",
+            "name": "ロック",
+            "url": "https://itunes.apple.com/jp/genre/id21"
+          },
+          {
+            "genreId": "34",
+            "name": "ミュージック",
+            "url": "https://itunes.apple.com/jp/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/jp/album/dear-jubilee-radwimps-tribute/1852929105"
+      },
+      {
+        "artistName": "B'z",
+        "id": "1847589583",
+        "name": "FYOP",
+        "releaseDate": "2025-11-12",
+        "kind": "albums",
+        "artistId": "74931253",
+        "artistUrl": "https://music.apple.com/jp/artist/bz/74931253",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bd/bb/78/bdbb781a-f47d-a03f-dda5-76ff984063ea/BMCV-8077.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "21",
+            "name": "ロック",
+            "url": "https://itunes.apple.com/jp/genre/id21"
+          },
+          {
+            "genreId": "34",
+            "name": "ミュージック",
+            "url": "https://itunes.apple.com/jp/genre/id34"
+          },
+          {
+            "genreId": "27",
+            "name": "J-Pop",
+            "url": "https://itunes.apple.com/jp/genre/id27"
+          }
+        ],
+        "url": "https://music.apple.com/jp/album/fyop/1847589583"
+      }
+    ]
+  }
+}

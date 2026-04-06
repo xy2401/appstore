@@ -1,0 +1,67 @@
+{
+  "feed": {
+    "title": "热门歌曲排行",
+    "id": "https://rss.applemarketingtools.com/api/v2/cn/music/most-played/2/songs.json",
+    "author": {
+      "name": "Apple",
+      "url": "https://www.apple.com/"
+    },
+    "links": [
+      {
+        "self": "https://rss.applemarketingtools.com/api/v2/cn/music/most-played/2/songs.json"
+      }
+    ],
+    "copyright": "Copyright © 2025 Apple Inc. All rights reserved.",
+    "country": "cn",
+    "icon": "https://www.apple.com/favicon.ico",
+    "updated": "Wed, 3 Dec 2025 06:21:54 +0000",
+    "results": [
+      {
+        "artistName": "周杰伦",
+        "id": "535824738",
+        "name": "晴天",
+        "releaseDate": "2003-07-31",
+        "kind": "songs",
+        "artistId": "300117743",
+        "artistUrl": "https://music.apple.com/cn/artist/%E5%91%A8%E6%9D%B0%E4%BC%A6/300117743",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/45/8a/e4/458ae484-dc8b-5683-ce04-8d2948346462/JAY.jpg/100x109bb.jpg",
+        "genres": [
+          {
+            "genreId": "34",
+            "name": "音乐",
+            "url": "https://itunes.apple.com/cn/genre/id34"
+          },
+          {
+            "genreId": "14",
+            "name": "国际流行",
+            "url": "https://itunes.apple.com/cn/genre/id14"
+          }
+        ],
+        "url": "https://music.apple.com/cn/album/%E6%99%B4%E5%A4%A9/535824731?i=535824738"
+      },
+      {
+        "artistName": "周杰伦",
+        "id": "536115195",
+        "name": "七里香",
+        "releaseDate": "2004-08-03",
+        "kind": "songs",
+        "artistId": "300117743",
+        "artistUrl": "https://music.apple.com/cn/artist/%E5%91%A8%E6%9D%B0%E4%BC%A6/300117743",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/29/c1/2d/29c12de6-54b4-f549-9d9f-07d8a04221ea/JAY.jpg/100x111bb.jpg",
+        "genres": [
+          {
+            "genreId": "34",
+            "name": "音乐",
+            "url": "https://itunes.apple.com/cn/genre/id34"
+          },
+          {
+            "genreId": "14",
+            "name": "国际流行",
+            "url": "https://itunes.apple.com/cn/genre/id14"
+          }
+        ],
+        "url": "https://music.apple.com/cn/album/%E4%B8%83%E9%87%8C%E9%A6%99/536114662?i=536115195"
+      }
+    ]
+  }
+}

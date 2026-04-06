@@ -1,0 +1,51 @@
+{
+  "feed": {
+    "title": "热门节目",
+    "id": "https://rss.applemarketingtools.com/api/v2/cn/podcasts/top/2/podcasts.json",
+    "author": {
+      "name": "Apple",
+      "url": "https://www.apple.com/"
+    },
+    "links": [
+      {
+        "self": "https://rss.applemarketingtools.com/api/v2/cn/podcasts/top/2/podcasts.json"
+      }
+    ],
+    "copyright": "Copyright © 2025 Apple Inc. All rights reserved.",
+    "country": "cn",
+    "icon": "https://www.apple.com/favicon.ico",
+    "updated": "Wed, 3 Dec 2025 06:21:55 +0000",
+    "results": [
+      {
+        "artistName": "GIADA | JustPod",
+        "id": "1582119137",
+        "name": "岩中花述",
+        "kind": "podcasts",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/66/61/68/6661682f-e63e-e4ae-9a2b-24e0f469e691/mza_10195277240598994553.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1301",
+            "name": "艺术",
+            "url": "https://itunes.apple.com/cn/genre/id1301"
+          }
+        ],
+        "url": "https://podcasts.apple.com/cn/podcast/%E5%B2%A9%E4%B8%AD%E8%8A%B1%E8%BF%B0/id1582119137"
+      },
+      {
+        "artistName": "声动活泼",
+        "id": "1573189055",
+        "name": "声动早咖啡",
+        "kind": "podcasts",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/a9/7f/7a/a97f7a8f-4451-05bc-bacc-637773b1b06a/mza_16067595309054880476.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1321",
+            "name": "商务",
+            "url": "https://itunes.apple.com/cn/genre/id1321"
+          }
+        ],
+        "url": "https://podcasts.apple.com/cn/podcast/%E5%A3%B0%E5%8A%A8%E6%97%A9%E5%92%96%E5%95%A1/id1573189055"
+      }
+    ]
+  }
+}

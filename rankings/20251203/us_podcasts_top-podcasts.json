@@ -1,0 +1,51 @@
+{
+  "feed": {
+    "title": "Top Shows",
+    "id": "https://rss.applemarketingtools.com/api/v2/us/podcasts/top/2/podcasts.json",
+    "author": {
+      "name": "Apple",
+      "url": "https://www.apple.com/"
+    },
+    "links": [
+      {
+        "self": "https://rss.applemarketingtools.com/api/v2/us/podcasts/top/2/podcasts.json"
+      }
+    ],
+    "copyright": "Copyright © 2025 Apple Inc. All rights reserved.",
+    "country": "us",
+    "icon": "https://www.apple.com/favicon.ico",
+    "updated": "Wed, 3 Dec 2025 06:21:52 +0000",
+    "results": [
+      {
+        "artistName": "The New York Times",
+        "id": "1200361736",
+        "name": "The Daily",
+        "kind": "podcasts",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ab/64/66/ab6466a9-9a7d-e20e-7a3d-bc5be37d29ce/mza_15084852813176276273.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1489",
+            "name": "News",
+            "url": "https://itunes.apple.com/us/genre/id1489"
+          }
+        ],
+        "url": "https://podcasts.apple.com/us/podcast/the-daily/id1200361736"
+      },
+      {
+        "artistName": "Audiochuck",
+        "id": "1322200189",
+        "name": "Crime Junkie",
+        "kind": "podcasts",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/8c/35/04/8c350430-2fbf-98d0-0a25-00b76550ffeb/mza_13445204151221888086.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1488",
+            "name": "True Crime",
+            "url": "https://itunes.apple.com/us/genre/id1488"
+          }
+        ],
+        "url": "https://podcasts.apple.com/us/podcast/crime-junkie/id1322200189"
+      }
+    ]
+  }
+}

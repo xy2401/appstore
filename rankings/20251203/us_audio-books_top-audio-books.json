@@ -1,0 +1,68 @@
+{
+  "feed": {
+    "title": "Top Audiobooks",
+    "id": "https://rss.applemarketingtools.com/api/v2/us/audio-books/top/2/audio-books.json",
+    "author": {
+      "name": "Apple",
+      "url": "https://www.apple.com/"
+    },
+    "links": [
+      {
+        "self": "https://rss.applemarketingtools.com/api/v2/us/audio-books/top/2/audio-books.json"
+      }
+    ],
+    "copyright": "Copyright © 2025 Apple Inc. All rights reserved.",
+    "country": "us",
+    "icon": "https://www.apple.com/favicon.ico",
+    "updated": "Wed, 3 Dec 2025 06:21:54 +0000",
+    "results": [
+      {
+        "artistName": "Freida McFadden",
+        "id": "1823083695",
+        "name": "The Housemaid",
+        "releaseDate": "2025-07-01",
+        "kind": "audio-books",
+        "artistId": "1101564107",
+        "artistUrl": "https://books.apple.com/us/author/freida-mcfadden/id1101564107",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3e/bf/31/3ebf3112-be7c-3d67-8c4b-46bb7125d44a/9781803144399.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000040",
+            "name": "Fiction",
+            "url": "https://itunes.apple.com/us/genre/id50000040"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/us/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/us/audiobook/the-housemaid/id1823083695"
+      },
+      {
+        "artistName": "Rachel Reid",
+        "id": "1641741914",
+        "name": "Heated Rivalry (Game Changers)",
+        "releaseDate": "2019-10-22",
+        "kind": "audio-books",
+        "artistId": "89696985",
+        "artistUrl": "https://books.apple.com/us/author/rachel-reid/id89696985",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0a/63/b8/0a63b8f7-f210-e085-fd50-85c14757f96d/9781541431638.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000040",
+            "name": "Fiction",
+            "url": "https://itunes.apple.com/us/genre/id50000040"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/us/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/us/audiobook/heated-rivalry-game-changers/id1641741914"
+      }
+    ]
+  }
+}
