@@ -281,8 +281,6 @@ function renderApps(apps) {
     apps.forEach((app, index) => {
         const item = document.createElement('div');
         item.className = 'app-item';
-        // Stagger animation
-        item.style.animationDelay = `${index * 0.03}s`;
         item.onclick = () => showAppDetails(app.id, app); // Pass basic app info as backup
         
         const localLogoPath = `logos/${app.id}.png`;
