@@ -98,100 +98,113 @@ function formatDate(dateStr) {
 
 function updateAvailableOptions() {
     const selectedDate = dateSelect.value;
-    const selectedCountry = countrySelect.value;
-    const selectedMediaType = mediaTypeSelect.value;
-    
-    // Save current selections to try and preserve them
     const currentCountry = countrySelect.value;
     const currentMediaType = mediaTypeSelect.value;
     const currentFeed = feedSelect.value;
 
-    // Reset inner HTML only for downstream dropdowns or if we need to refresh
-    // We do this carefully to avoid resetting the user's current selection if it's still valid
-    
     // 1. Update Country (depends on Date)
-    if (!selectedCountry || countrySelect.options.length <= 1) {
-         availableCountries.clear();
-         allFiles.forEach(file => {
-            if (file.parsed && file.parsed.date === selectedDate) {
-                availableCountries.add(file.parsed.country);
-            }
-         });
-         
-         countrySelect.innerHTML = '<option value="" disabled selected>Region</option>';
-         Array.from(availableCountries).sort().forEach(country => {
-            const option = document.createElement('option');
-            option.value = country;
-            option.textContent = country.toUpperCase();
-            countrySelect.appendChild(option);
-         });
-         if (Array.from(availableCountries).includes(currentCountry)) countrySelect.value = currentCountry;
-    }
-
-    // 2. Update Media Type (depends on Date + Country)
-    availableMediaTypes.clear();
+    availableCountries.clear();
     allFiles.forEach(file => {
-        if (file.parsed && file.parsed.date === selectedDate && (!countrySelect.value || file.parsed.country === countrySelect.value)) {
-            availableMediaTypes.add(file.parsed.mediaType);
+        if (file.parsed && file.parsed.date === selectedDate) {
+            availableCountries.add(file.parsed.country);
         }
     });
     
-    mediaTypeSelect.innerHTML = '<option value="" disabled selected>Media Type</option>';
-    Array.from(availableMediaTypes).sort().forEach(type => {
+    countrySelect.innerHTML = '<option value="" disabled>Region</option>';
+    const sortedCountries = Array.from(availableCountries).sort();
+    sortedCountries.forEach(country => {
+        const option = document.createElement('option');
+        option.value = country;
+        option.textContent = country.toUpperCase();
+        countrySelect.appendChild(option);
+    });
+    
+    // Restore selection if still valid
+    if (availableCountries.has(currentCountry)) {
+        countrySelect.value = currentCountry;
+    } else {
+        countrySelect.selectedIndex = -1; // Force user to choose if previous not valid
+    }
+
+    // 2. Update Media Type (depends on Date + Country)
+    const selectedCountry = countrySelect.value;
+    availableMediaTypes.clear();
+    if (selectedCountry) {
+        allFiles.forEach(file => {
+            if (file.parsed && file.parsed.date === selectedDate && file.parsed.country === selectedCountry) {
+                availableMediaTypes.add(file.parsed.mediaType);
+            }
+        });
+    }
+    
+    mediaTypeSelect.innerHTML = '<option value="" disabled>Media Type</option>';
+    const sortedMediaTypes = Array.from(availableMediaTypes).sort();
+    sortedMediaTypes.forEach(type => {
         const option = document.createElement('option');
         option.value = type;
         option.textContent = type.split('-').map(word => word.charAt(0).toUpperCase() + word.slice(1)).join(' ');
         mediaTypeSelect.appendChild(option);
     });
-    if (Array.from(availableMediaTypes).includes(currentMediaType)) mediaTypeSelect.value = currentMediaType;
+
+    if (availableMediaTypes.has(currentMediaType)) {
+        mediaTypeSelect.value = currentMediaType;
+    } else {
+        mediaTypeSelect.selectedIndex = -1;
+    }
 
     // 3. Update Feed (depends on Date + Country + MediaType)
+    const selectedMediaType = mediaTypeSelect.value;
     availableFeeds.clear();
-    allFiles.forEach(file => {
-        if (file.parsed && 
-            file.parsed.date === selectedDate && 
-            (!countrySelect.value || file.parsed.country === countrySelect.value) &&
-            (!mediaTypeSelect.value || file.parsed.mediaType === mediaTypeSelect.value)) {
-            availableFeeds.add(file.parsed.feed);
-        }
-    });
+    if (selectedCountry && selectedMediaType) {
+        allFiles.forEach(file => {
+            if (file.parsed && 
+                file.parsed.date === selectedDate && 
+                file.parsed.country === selectedCountry &&
+                file.parsed.mediaType === selectedMediaType) {
+                availableFeeds.add(file.parsed.feed);
+            }
+        });
+    }
 
-    feedSelect.innerHTML = '<option value="" disabled selected>Category</option>';
-    Array.from(availableFeeds).sort().forEach(feed => {
+    feedSelect.innerHTML = '<option value="" disabled>Category</option>';
+    const sortedFeeds = Array.from(availableFeeds).sort();
+    sortedFeeds.forEach(feed => {
         const option = document.createElement('option');
         option.value = feed;
         option.textContent = feed.split('-').map(word => word.charAt(0).toUpperCase() + word.slice(1)).join(' ');
         feedSelect.appendChild(option);
     });
-    if (Array.from(availableFeeds).includes(currentFeed)) feedSelect.value = currentFeed;
 
-    updateJsonLink(); // Update link after dropdowns change
+    if (availableFeeds.has(currentFeed)) {
+        feedSelect.value = currentFeed;
+    } else {
+        feedSelect.selectedIndex = -1;
+    }
+
+    updateJsonLink();
+    
+    // If we still have a valid selection for everything, load it
+    if (dateSelect.value && countrySelect.value && mediaTypeSelect.value && feedSelect.value) {
+        loadRankings();
+    }
 }
 
 dateSelect.addEventListener('change', () => {
-    countrySelect.selectedIndex = 0;
-    mediaTypeSelect.selectedIndex = 0;
-    feedSelect.selectedIndex = 0;
     updateAvailableOptions();
-    appGrid.innerHTML = '<div class="loading">Select Region, Media Type, and Category</div>';
-    updateJsonLink();
 });
 
 countrySelect.addEventListener('change', () => {
-    mediaTypeSelect.selectedIndex = 0;
-    feedSelect.selectedIndex = 0;
     updateAvailableOptions();
-    updateJsonLink();
 });
 
 mediaTypeSelect.addEventListener('change', () => {
-    feedSelect.selectedIndex = 0;
     updateAvailableOptions();
-    updateJsonLink();
 });
 
-feedSelect.addEventListener('change', loadRankings);
-feedSelect.addEventListener('change', updateJsonLink); // Update link on feed change
+feedSelect.addEventListener('change', () => {
+    loadRankings();
+    updateJsonLink();
+});
 
 function updateJsonLink() {
     const date = dateSelect.value;
