@@ -16,6 +16,57 @@ function ConvertTo-AnchorLink {
     return $anchor
 }
 
+function Invoke-DownloadWithRetry {
+    param (
+        [string]$Url,
+        [string]$SavePath,
+        [int]$MaxRetries = 3,
+        [string]$Type = "Binary", # "Binary" or "Json"
+        [bool]$SkipExisting = $false
+    )
+
+    if ($SkipExisting -and (Test-Path $SavePath)) {
+        Write-Host "File already exists. Skipping download: $SavePath"
+        if ($Type -eq "Json") {
+            try { return Get-Content -Path $SavePath | ConvertFrom-Json } catch { return $null }
+        }
+        return $null
+    }
+
+    $retryCount = 0
+    $success = $false
+    $result = $null
+
+    Write-Host "Fetching ($Type): $Url"
+    Write-Host "Saving to: $SavePath"
+
+    while (-not $success -and $retryCount -lt $MaxRetries) {
+        try {
+            if ($Type -eq "Json") {
+                $result = Invoke-RestMethod -Uri $Url -ErrorAction Stop
+                $result | ConvertTo-Json -Depth 10 | Out-File -FilePath $SavePath
+            } else {
+                Invoke-WebRequest -Uri $Url -OutFile $SavePath -ErrorAction Stop
+            }
+            $success = $true
+            Write-Host "Successfully downloaded."
+        } catch {
+            $retryCount++
+            if ($retryCount -lt $MaxRetries) {
+                $sleepTime = Get-Random -Minimum 2 -Maximum 4
+                Write-Warning "Attempt $retryCount failed for $Url. Retrying in $sleepTime seconds... Error: $($_.Exception.Message)"
+                Start-Sleep -Seconds $sleepTime
+            } else {
+                Write-Warning "Failed to download $Url after $MaxRetries attempts. Error: $($_.Exception.Message)"
+                if ($_.Exception.InnerException) {
+                    Write-Warning "Inner Error: $($_.Exception.InnerException.Message)"
+                }
+            }
+        }
+    }
+    return $result
+}
+
 # Step 1: Fetch rankings from Apple Store RSS feed
 $countries = @("us", "cn", "jp")
 $feedConfigs = @(
@@ -40,36 +91,7 @@ foreach ($country in $countries) {
         $rssUrl = "https://rss.marketingtools.apple.com/api/v2/$country/$($config.MediaType)/$($config.FeedType)/$Limit/$($config.Resource).json"
         $fileName = "$outputDir\${country}_$($config.MediaType)_$($config.FileSuffix).json"
         
-        Write-Host "Fetching: $rssUrl"
-        Write-Host "Saving to: $fileName"
-        
-        $maxRetries = 3
-        $retryCount = 0
-        $success = $false
-        
-        while (-not $success -and $retryCount -lt $maxRetries) {
-            try {
-                $response = Invoke-RestMethod -Uri $rssUrl -ErrorAction Stop
-                $response | ConvertTo-Json -Depth 10 | Out-File -FilePath $fileName
-                Write-Host "Successfully fetched $($config.MediaType) - $($config.FileSuffix) for $country"
-                $success = $true
-            } catch {
-                $retryCount++
-                if ($retryCount -lt $maxRetries) {
-                    $sleepTime = Get-Random -Minimum 2 -Maximum 4
-                    Write-Warning "Attempt $retryCount failed for $rssUrl. Retrying in $sleepTime seconds... Error: $($_.Exception.Message)"
-                    Start-Sleep -Seconds $sleepTime
-                } else {
-                    Write-Warning "Failed to fetch after $maxRetries attempts: $rssUrl"
-                    Write-Warning "Error Message: $($_.Exception.Message)"
-                    if ($_.Exception.InnerException) {
-                        Write-Warning "Inner Error: $($_.Exception.InnerException.Message)"
-                    }
-                }
-            }
-        }
-        
-        Write-Host "Sleeping for 1.5 seconds..."
+        Invoke-DownloadWithRetry -Url $rssUrl -SavePath $fileName -Type "Json" -SkipExisting $SkipExisting | Out-Null
         Start-Sleep -Seconds 1.5
     }
 }
@@ -88,51 +110,25 @@ Get-ChildItem -Path $outputDir -Filter "*.json" | ForEach-Object {
             $appId = $rankingApp.id
             $detailsFilePath = "details\$appId.json"
 
-            # Initialize with data from ranking
+            # Initialize defaults from ranking
             $finalName = $rankingApp.name
             $finalArtworkUrl = $rankingApp.artworkUrl100
             $finalDescription = ""
 
-            if ($SkipExisting -and (Test-Path $detailsFilePath)) {
-                # Write-Host "Details for $appId already exist. Skipping."
-                try {
-                    $appDetails = Get-Content -Path $detailsFilePath | ConvertFrom-Json
-                } catch {
-                    $appDetails = $null
-                }
-            } else {
-                $lookupUrl = "https://itunes.apple.com/lookup?id=$appId&country=$currentCountry"
-                try {
-                    $appDetails = Invoke-RestMethod -Uri $lookupUrl
-                    $appDetails | ConvertTo-Json -Depth 10 | Out-File -FilePath $detailsFilePath
-                    # Write-Host "Details for $appId saved."
-                } catch {
-                    Write-Host "Failed to fetch details for $appId"
-                    $appDetails = $null
-                }
-            }
-
+            $lookupUrl = "https://itunes.apple.com/lookup?id=$appId&country=$currentCountry"
+            $appDetails = Invoke-DownloadWithRetry -Url $lookupUrl -SavePath $detailsFilePath -Type "Json" -SkipExisting $SkipExisting
+            
             if ($appDetails -and $appDetails.resultCount -gt 0) {
                 $appInfo = $appDetails.results[0]
-                
-                # Fallback for name (trackName vs collectionName)
-                $finalName = $appInfo.trackName
-                if ([string]::IsNullOrEmpty($finalName)) { $finalName = $appInfo.collectionName }
-                if ([string]::IsNullOrEmpty($finalName)) { $finalName = $appInfo.name }
-                
+                $finalName = if ($appInfo.trackName) { $appInfo.trackName } elseif ($appInfo.collectionName) { $appInfo.collectionName } else { $appInfo.name }
                 $finalDescription = $appInfo.description
 
-                # Prioritize higher res artwork
-                $art = $appInfo.artworkUrl600
-                if ([string]::IsNullOrEmpty($art)) { $art = $appInfo.artworkUrl512 }
-                if ([string]::IsNullOrEmpty($art)) { $art = $appInfo.artworkUrl100 }
-                if ([string]::IsNullOrEmpty($art)) { $art = $appInfo.artworkUrl60 }
-                
-                if (-not [string]::IsNullOrEmpty($art)) {
-                    $finalArtworkUrl = $art
-                }
-            } else {
-                # Write-Host "Warning: No detailed info for '$finalName' ($appId)."
+                $art = if ($appInfo.artworkUrl600) { $appInfo.artworkUrl600 } elseif ($appInfo.artworkUrl512) { $appInfo.artworkUrl512 } elseif ($appInfo.artworkUrl100) { $appInfo.artworkUrl100 } else { $appInfo.artworkUrl60 }
+                if ($art) { $finalArtworkUrl = $art }
+            }
+            
+            if (-not (Test-Path $detailsFilePath)) {
+                Start-Sleep -Seconds 1 # Only sleep if we actually performed a download
             }
 
             $allAppDetails += [PSCustomObject]@{
@@ -151,35 +147,11 @@ Write-Host "Step 2 Complete: App details fetched and saved."
 $allAppDetails | ForEach-Object {
     $artworkUrl = $_.artworkUrl
     $appId = $_.id
-    $appName = $_.name
     $fileName = "logos\$appId.png"
 
-    if ($SkipExisting -and (Test-Path $fileName)) {
-        Write-Host "Logo for $appId already exists. Skipping."
-    } else {
-        if ([string]::IsNullOrEmpty($artworkUrl)) {
-            Write-Host "Artwork URL is missing for app '$appName' (ID: $appId). Skipping logo download."
-        } else {
-            $maxRetries = 3
-            $retryCount = 0
-            $success = $false
-            while (-not $success -and $retryCount -lt $maxRetries) {
-                try {
-                    Invoke-WebRequest -Uri $artworkUrl -OutFile $fileName -ErrorAction Stop
-                    Write-Host "Logo for $appId downloaded."
-                    $success = $true
-                } catch {
-                    $retryCount++
-                    if ($retryCount -lt $maxRetries) {
-                        $sleepTime = Get-Random -Minimum 2 -Maximum 4
-                        Write-Warning "Logo download failed for $appId. Attempt $retryCount. Retrying in $sleepTime seconds..."
-                        Start-Sleep -Seconds $sleepTime
-                    } else {
-                        Write-Warning "Failed to download logo for $appId after $maxRetries attempts: $artworkUrl"
-                    }
-                }
-            }
-        }
+    if (-not [string]::IsNullOrEmpty($artworkUrl)) {
+        $logoResult = Invoke-DownloadWithRetry -Url $artworkUrl -SavePath $fileName -Type "Binary" -SkipExisting $SkipExisting
+        if ($null -ne $logoResult) { Start-Sleep -Milliseconds 500 }
     }
 }
 
@@ -188,7 +160,6 @@ Write-Host "Step 3 Complete: App logos downloaded."
 # Step 4: Create Markdown files
 if ($GenerateMarkdown) {
     Get-ChildItem -Path "rankings" -Recurse -Filter "*.json" | ForEach-Object {
-        $rankingFile = $_.Name
         $mdFileName = $_.FullName -replace '.json$', '.md'
         $toc = ""
         $mdContent = ""
@@ -201,7 +172,6 @@ if ($GenerateMarkdown) {
             if ($appInfo) {
                 $anchor = ConvertTo-AnchorLink -Text $appInfo.name
                 $toc += "- [$($appInfo.name)](#$anchor)`n"
-                #$mdContent += "<a name=`"`$anchor`"></a>`n"
                 $mdContent += "#### $($anchor)`n"
                 $mdContent += "## $($appInfo.name)`n"
                 $mdContent += "![$($appInfo.name)](../../logos/$($appId).png)`n`n"
@@ -213,8 +183,6 @@ if ($GenerateMarkdown) {
         Write-Host "Markdown file $mdFileName created."
     }
     Write-Host "Step 4 Complete: Markdown files created."
-} else {
-    Write-Host "Step 4 Skipped: Markdown generation is disabled."
 }
 
 # Step 5: Export rankings file list
