@@ -60,10 +60,10 @@ foreach ($country in $countries) {
                     Write-Warning "Attempt $retryCount failed for $rssUrl. Retrying in $sleepTime seconds... Error: $($_.Exception.Message)"
                     Start-Sleep -Seconds $sleepTime
                 } else {
-                    Write-Error "Failed to fetch after $maxRetries attempts: $rssUrl"
-                    Write-Error "Error Message: $($_.Exception.Message)"
+                    Write-Warning "Failed to fetch after $maxRetries attempts: $rssUrl"
+                    Write-Warning "Error Message: $($_.Exception.Message)"
                     if ($_.Exception.InnerException) {
-                        Write-Error "Inner Error: $($_.Exception.InnerException.Message)"
+                        Write-Warning "Inner Error: $($_.Exception.InnerException.Message)"
                     }
                 }
             }
@@ -175,7 +175,7 @@ $allAppDetails | ForEach-Object {
                         Write-Warning "Logo download failed for $appId. Attempt $retryCount. Retrying in $sleepTime seconds..."
                         Start-Sleep -Seconds $sleepTime
                     } else {
-                        Write-Error "Failed to download logo for $appId after $maxRetries attempts: $artworkUrl"
+                        Write-Warning "Failed to download logo for $appId after $maxRetries attempts: $artworkUrl"
                     }
                 }
             }
