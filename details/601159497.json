@@ -3,22 +3,12 @@
   "results": [
     {
       "artistViewUrl": "https://apps.apple.com/us/developer/e-courier-inc/id601159500?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/e6/0f/e5e60f5d-f74f-79dd-8520-568c2a12868a/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/e6/0f/e5e60f5d-f74f-79dd-8520-568c2a12868a/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/f1/cd/5ff1cd6d-a71b-296f-b9a9-74dd840f585e/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/f1/cd/5ff1cd6d-a71b-296f-b9a9-74dd840f585e/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/58/51/4f/58514f5d-1719-d960-94ec-e4a8ec121f7b/mzl.vwaznasz.jpg/392x696bb.jpg"
-      ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/63/83/9a/63839a37-03b1-7f7a-a64b-0b7cd7d6987e/mzl.wgpovspx.jpg/576x768bb.jpg"
-      ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/e6/0f/e5e60f5d-f74f-79dd-8520-568c2a12868a/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
       "features": [
         "iosUniversal"
       ],
-      "advisories": [],
-      "kind": "software",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -137,45 +127,64 @@
         "iPhone17Pro-iPhone17Pro",
         "iPhone17ProMax-iPhone17ProMax",
         "iPhone17-iPhone17",
-        "iPhoneAir-iPhoneAir"
+        "iPhoneAir-iPhoneAir",
+        "iPadPro11M5-iPadPro11M5",
+        "iPadPro11M5Cellular-iPadPro11M5Cellular",
+        "iPadPro13M5-iPadPro13M5",
+        "iPadPro13M5Cellular-iPadPro13M5Cellular",
+        "iPhone17e-iPhone17e",
+        "iPadAir11M4-iPadAir11M4",
+        "iPadAir11M4Cellular-iPadAir11M4Cellular",
+        "iPadAir13M4-iPadAir13M4",
+        "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
+      "advisories": [],
+      "kind": "software",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/58/51/4f/58514f5d-1719-d960-94ec-e4a8ec121f7b/mzl.vwaznasz.jpg/392x696bb.jpg"
+      ],
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/63/83/9a/63839a37-03b1-7f7a-a64b-0b7cd7d6987e/mzl.wgpovspx.jpg/576x768bb.jpg"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/f1/cd/5ff1cd6d-a71b-296f-b9a9-74dd840f585e/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "sellerName": "e-Courier, Inc.",
+      "primaryGenreName": "Business",
+      "primaryGenreId": 6000,
       "trackCensoredName": "ecMobile",
       "trackViewUrl": "https://apps.apple.com/us/app/ecmobile/id601159497?uo=4",
       "contentAdvisoryRating": "4+",
-      "languageCodesISO2A": [],
-      "fileSizeBytes": "62808064",
-      "formattedPrice": "$9.99",
-      "userRatingCountForCurrentVersion": 200,
-      "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 2.13499,
-      "minimumOsVersion": "10.0",
+      "averageUserRating": 2.10577,
+      "genres": [
+        "Business",
+        "Productivity"
+      ],
       "price": 9.99,
-      "bundleId": "com.ecourier.mobile.ecMobile",
-      "isVppDeviceBasedLicensingEnabled": true,
       "trackName": "ecMobile",
       "trackId": 601159497,
+      "isVppDeviceBasedLicensingEnabled": true,
       "genreIds": [
         "6000",
         "6007"
       ],
       "releaseDate": "2013-02-16T00:22:27Z",
-      "sellerName": "e-Courier, Inc.",
-      "primaryGenreName": "Business",
-      "primaryGenreId": 6000,
-      "currentVersionReleaseDate": "2025-10-08T21:05:00Z",
-      "releaseNotes": "- Fix bug that didn't show PU/DL names and addresses in Piece Detail.\n- Add option to prevent consolidation for a given stop type.",
-      "version": "1.2.138",
+      "releaseNotes": "Revert late reason changes",
+      "currentVersionReleaseDate": "2026-04-07T23:29:34Z",
+      "version": "1.2.141",
       "wrapperType": "software",
       "currency": "USD",
       "description": "ecMobile allows users to connect to, and receive dispatches from, many of the nation’s leading courier, delivery, and logistics companies.  If you have a truck, car, van, pickup, bike, or even a pair of shoes, you may be a candidate to perform pickup and delivery services in any city in the U.S.  Once you have registered with a delivery company, you can receive dispatches right to your device, and provide real time status updates, including bar code scanning data and signature images, back to the delivery company.  By simply logging on, you can signal to the delivery company your current location and that you are ready to receive work requests.  Please note that this app uses GPS running in the background, which can dramatically decrease battery life.",
-      "averageUserRating": 2.13499,
-      "genres": [
-        "Business",
-        "Productivity"
-      ],
+      "minimumOsVersion": "10.0",
+      "languageCodesISO2A": [],
+      "fileSizeBytes": "62820352",
+      "formattedPrice": "$9.99",
+      "userRatingCountForCurrentVersion": 208,
+      "trackContentRating": "4+",
+      "averageUserRatingForCurrentVersion": 2.10577,
       "artistId": 601159500,
       "artistName": "e-Courier, Inc.",
-      "userRatingCount": 200
+      "bundleId": "com.ecourier.mobile.ecMobile",
+      "userRatingCount": 208
     }
   ]
 }

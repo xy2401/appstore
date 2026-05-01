@@ -2,17 +2,13 @@
   "resultCount": 1,
   "results": [
     {
-      "screenshotUrls": [],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/66/31/b3/6631b369-4f1f-aa6b-b4d6-8f63cb6eef87/3e0b4904-58a2-4410-b9de-83739ef648a2_pad.png/576x768bb.png"
-      ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/ad/74/23ad742f-7566-9ef6-90bb-74045acb6de8/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2f/6c/7e/2f6c7e48-1ecc-9f5e-4a9b-15e9552e14b4/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/cn/developer/%E9%B8%BF%E5%AE%87-%E5%BD%AD/id1725729025?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2f/6c/7e/2f6c7e48-1ecc-9f5e-4a9b-15e9552e14b4/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
       "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
       ],
-      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -143,50 +139,54 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
+      "advisories": [],
       "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/cn/developer/%E9%B8%BF%E5%AE%87-%E5%BD%AD/id1725729025?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/ad/74/23ad742f-7566-9ef6-90bb-74045acb6de8/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/ad/74/23ad742f-7566-9ef6-90bb-74045acb6de8/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
-      "averageUserRatingForCurrentVersion": 3.96667,
-      "languageCodesISO2A": [
-        "EN",
-        "ZH"
+      "screenshotUrls": [],
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f5/26/8b/f5268bc2-8522-c06b-f060-dad9777dcdd8/3e0b4904-58a2-4410-b9de-83739ef648a2_pad.png/576x768bb.png"
       ],
-      "fileSizeBytes": "3292160",
-      "formattedPrice": "¥1.00",
-      "trackContentRating": "4+",
-      "artistId": 1725729025,
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2f/6c/7e/2f6c7e48-1ecc-9f5e-4a9b-15e9552e14b4/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 3.97656,
+      "trackCensoredName": "一万小时-人生项目计时器，关注个人成长",
+      "trackViewUrl": "https://apps.apple.com/cn/app/%E4%B8%80%E4%B8%87%E5%B0%8F%E6%97%B6-%E4%BA%BA%E7%94%9F%E9%A1%B9%E7%9B%AE%E8%AE%A1%E6%97%B6%E5%99%A8-%E5%85%B3%E6%B3%A8%E4%B8%AA%E4%BA%BA%E6%88%90%E9%95%BF/id6503428826?uo=4",
+      "minimumOsVersion": "15.0",
       "genres": [
         "效率",
         "生活"
       ],
-      "price": 1.0,
+      "price": 3.0,
+      "bundleId": "com.mm.time",
+      "trackName": "一万小时-人生项目计时器，关注个人成长",
+      "releaseDate": "2024-06-14T07:00:00Z",
+      "releaseNotes": "本次更新主要修复了影响体验的关键问题：\n\n1.修复了部分情况下已归档项目异常重新出现的问题，归档状态现在会更加稳定\n2.修复了倒计时在暂停后继续使用时，完成时间显示异常、结算不准确的问题\n3.优化了计时完成后的稳定性，减少极端情况下的异常中断",
+      "trackId": 6503428826,
       "genreIds": [
         "6007",
         "6012"
       ],
-      "bundleId": "com.mm.time",
       "primaryGenreName": "Productivity",
       "primaryGenreId": 6007,
-      "isVppDeviceBasedLicensingEnabled": true,
       "sellerName": "鸿宇 彭",
-      "releaseDate": "2024-06-14T07:00:00Z",
-      "trackName": "一万小时-你的自律计时器",
-      "trackId": 6503428826,
-      "currentVersionReleaseDate": "2026-03-16T23:07:40Z",
-      "releaseNotes": "-修复正计时暂停bug\n-修复计时提醒bug",
-      "version": "1.7.0",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-04-13T00:04:55Z",
+      "version": "2.1.5",
       "wrapperType": "software",
       "currency": "CNY",
-      "description": "你一定听过「一万小时」理论，也一定被「一万小时」吓退过脚步，其实，只要开始，从你开始的第一秒就有意义。\n\n我开发了「一万小时」计时app，希望能给混乱失控无意义的现状，带来一点微光，创建你的人生项目并每天用时间浇灌，享受一分一秒从指尖流过的踏实和平静。会开花和结果吗？我想，大概率会的。如果不会呢？享受一段用心的过程，多探索和了解自己一点点，也是福气。\n\n使用「一万小时」可以做些什么？\n\n1.创建人生项目并每天计时，可以是学生党的一门学科，可以是打工人的一个爱好，可以是想要尝试的一件小事，或者是你想要养成的一个小习惯呢，都可以，相信时间的力量，改变从每一刻开始\n\n2.查看项目数据和图表，复盘项目打卡习惯和投入时间\n\n3.管理所有项目，归档已完成的项目，重开需要继续的项目\n\n4.iCloud自动同步项目数据，重装或换设备都能轻松继续\n\n如果产品使用中有什么意见和建议，欢迎给我们发邮件，你的每一次反馈都让我们很高兴！\nmailto:zjy0314@icloud.com\n\n----------------------\n\n我们不收集你的任何个人隐私。有关隐私政策：https://zjymm0314.notion.site/d98112944f644ca18554b560bb0bf5f7?pvs=4",
-      "trackCensoredName": "一万小时-你的自律计时器",
-      "trackViewUrl": "https://apps.apple.com/cn/app/%E4%B8%80%E4%B8%87%E5%B0%8F%E6%97%B6-%E4%BD%A0%E7%9A%84%E8%87%AA%E5%BE%8B%E8%AE%A1%E6%97%B6%E5%99%A8/id6503428826?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 3.96667,
-      "userRatingCountForCurrentVersion": 120,
-      "minimumOsVersion": "15.0",
+      "description": "你一定听过「一万小时」理论，也一定被「一万小时」吓退过脚步，其实，只要开始，从你开始的第一秒就有意义。\n\n我开发了「一万小时」计时app，不是普通番茄钟，而是一个记录长期人生项目的计时器，希望能给混乱失控无意义的现状，带来一点微光。无论你在学英语、练字、健身、备考、写作，还是培养一项真正想坚持的爱好，创建你的人生项目并每天用时间浇灌，享受一分一秒从指尖流过的踏实和平静。会开花和结果吗？我想，大概率会的。如果不会呢？享受一段用心的过程，多探索和了解自己一点点，也是福气。\n\n使用「一万小时」可以做些什么？\n\n1. 创建长期项目并持续计时\n2. 查看累计时间、每日/每周趋势和投入图表\n3. 支持桌面小组件、锁屏、灵动岛和 Apple Watch\n4.iCloud 自动同步，换设备也能继续\n5. 归档完成项目，保留你的成长记录\n\n如果产品使用中有什么意见和建议，欢迎给我们发邮件，你的每一次反馈都让我们很高兴！\nmailto:zjy0314@icloud.com\n\n----------------------\n\n我们不收集你的任何个人隐私。有关隐私政策：https://zjymm0314.notion.site/d98112944f644ca18554b560bb0bf5f7?pvs=4",
+      "languageCodesISO2A": [
+        "EN",
+        "ZH"
+      ],
+      "fileSizeBytes": "6306816",
+      "formattedPrice": "¥3.00",
+      "userRatingCountForCurrentVersion": 128,
+      "trackContentRating": "4+",
+      "averageUserRatingForCurrentVersion": 3.97656,
+      "artistId": 1725729025,
       "artistName": "鸿宇 彭",
-      "userRatingCount": 120
+      "userRatingCount": 128
     }
   ]
 }

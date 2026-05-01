@@ -3,27 +3,24 @@
   "results": [
     {
       "isGameCenterEnabled": false,
-      "screenshotUrls": [],
-      "appletvScreenshotUrls": [],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/79/aa/a8/79aaa8b2-0d0e-a3dd-140d-0d66f05538f9/12.9_01.png/576x768bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/96/a4/a9/96a4a9d3-b944-6bf6-a148-373bddf27fa5/12.9_02.png/576x768bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b0/b5/48/b0b54880-22dc-c4d9-640e-374bb150a820/12.9_03.png/576x768bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7e/65/65/7e65656a-0fff-4524-b2e9-aa8a32c87c10/12.9_04.png/576x768bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/26/f9/91/26f991d1-382e-b956-af21-38a6bccd3229/12.9_05.png/576x768bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/01/6c/ac/016cacef-bea6-a02c-5da1-b547b1a9138b/12.9_06.png/576x768bb.png"
-      ],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/f0/34/aff034fd-8bcd-f4de-94d9-7cdc1c157076/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "features": [
         "iosUniversal"
       ],
       "advisories": [
-        "まれ／軽度な医療または治療情報",
-        "まれ／軽度な成人向けまたはわいせつなテーマ",
-        "まれ／軽度なアルコール、タバコ、ドラッグの使用または言及",
         "ギャンブル",
-        "まれ／軽度な性的表現またはヌード"
+        "まれ／軽度な性的表現またはヌード",
+        "まれ／軽度な成人向けまたはわいせつなテーマ",
+        "まれ／軽度な医療または治療情報",
+        "まれ／軽度なアルコール、タバコ、ドラッグの使用または言及"
       ],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/jp/developer/yahoo-japan-corporation/id288091005?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/ae/df/efaedfdc-c6cd-5696-667f-520dfcd0f976/AppIcon-0-0-1x_U007epad-0-6-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/ae/df/efaedfdc-c6cd-5696-667f-520dfcd0f976/AppIcon-0-0-1x_U007epad-0-6-0-85-220.png/100x100bb.jpg",
+      "ipadScreenshotUrls": [],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/ae/df/efaedfdc-c6cd-5696-667f-520dfcd0f976/AppIcon-0-0-1x_U007epad-0-6-0-85-220.png/512x512bb.jpg",
+      "screenshotUrls": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -142,52 +139,57 @@
         "iPhone17Pro-iPhone17Pro",
         "iPhone17ProMax-iPhone17ProMax",
         "iPhone17-iPhone17",
-        "iPhoneAir-iPhoneAir"
+        "iPhoneAir-iPhoneAir",
+        "iPadPro11M5-iPadPro11M5",
+        "iPadPro11M5Cellular-iPadPro11M5Cellular",
+        "iPadPro13M5-iPadPro13M5",
+        "iPadPro13M5Cellular-iPadPro13M5Cellular",
+        "iPhone17e-iPhone17e",
+        "iPadAir11M4-iPadAir11M4",
+        "iPadAir11M4Cellular-iPadAir11M4Cellular",
+        "iPadAir13M4-iPadAir13M4",
+        "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/jp/developer/yahoo-japan-corporation/id288091005?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/f0/34/aff034fd-8bcd-f4de-94d9-7cdc1c157076/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/f0/34/aff034fd-8bcd-f4de-94d9-7cdc1c157076/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
-      "minimumOsVersion": "17.0",
-      "fileSizeBytes": "253541376",
-      "languageCodesISO2A": [
-        "JA"
-      ],
-      "trackContentRating": "17+",
-      "userRatingCountForCurrentVersion": 2678926,
-      "artistId": 288091005,
-      "artistName": "Yahoo Japan Corporation",
       "genres": [
         "ショッピング",
         "ライフスタイル"
       ],
       "price": 0.0,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "sellerName": "Yahoo Japan Corporation",
+      "artistId": 288091005,
+      "artistName": "Yahoo Japan Corporation",
       "bundleId": "jp.co.yahoo.Shopping",
+      "primaryGenreName": "Shopping",
+      "primaryGenreId": 6024,
       "genreIds": [
         "6024",
         "6012"
       ],
+      "currentVersionReleaseDate": "2026-04-20T04:11:11Z",
+      "releaseDate": "2011-07-14T02:36:17Z",
       "trackId": 446016180,
       "trackName": "Yahoo!ショッピング-PayPayポイントが貯まる通販",
-      "releaseDate": "2011-07-14T02:36:17Z",
-      "currentVersionReleaseDate": "2025-12-02T01:45:18Z",
-      "primaryGenreName": "Shopping",
-      "primaryGenreId": 6024,
-      "releaseNotes": "あたたかい飲み物がより美味しく感じられる季節になりました。\n\n今回のアップデートでは、検索・商品詳細・トップページを中心に、\nAI を活用して商品を見つけやすくするなど、より快適にお買い物いただけるよう多くの改善を行いました。\n\n皆さまに「！」なお買い物体験がありますように！\n\n＊＊＊自動更新の設定のお願い＊＊＊\nYahoo!ショッピングアプリでは、定期的にアップデートを行っております。\nアプリの自動更新を有効にしていただくことで、不具合の修正や新機能をよりスムーズにご利用いただけます。",
-      "version": "19.2.0",
+      "sellerName": "Yahoo Japan Corporation",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseNotes": "春のあたたかさを感じる季節になりましたね。\n週末や大型連休に向けて、予定を立て始めている方も多いのではないでしょうか。\n\nお出かけの準備やおうち時間を楽しむアイテム探しに、\nぜひYahoo!ショッピングをご活用ください。\n\n今回のアップデートでは、細かい機能の改善や不具合の修正などを行いました。\n\n皆様に「！」なお買い物体験がありますように！\n \n＊＊＊自動更新の設定のお願い＊＊＊\nYahoo!ショッピングアプリでは、定期的にアップデートを行っております。\nアプリの自動更新を有効にしていただくことで、アップデートにより不具合が修正され、より便利な機能をご利用いただけます。",
+      "version": "20.4.0",
       "wrapperType": "software",
       "currency": "JPY",
       "description": "3.0億の品揃えの日本最大級の通販モール！\n \nお買い物はYahoo!ショッピングアプリが便利！\n \n-----\n \n■Yahoo!ショッピングなら毎日5%貯まる！\n\n※期間限定ポイント- 利用先・期間限定です。\n \n■Yahoo!プレミアム会員なら＋2%\n \n■PayPayカードを利用すると＋2%\n \n■ストアポイント1%\n \n※PayPayポイントは出金と譲渡はできません。PayPay公式ストアでも利用可能です。\n\n※一部キャンペーン対象外のストア、商品があります。\n \n※PayPayポイントの付与条件、倍率の算出方法はキャンペーンごとに異なります。\n \n-----\n \n■Yahoo!ショッピングでもスマホ決済サービス「PayPay」が使える！\n \n・商品購入時の決済方法として、PayPay株式会社が提供するスマホ決済サービス「PayPay」が利用できるようになります。\n \n・決済利用でPayPayポイント1%が獲得できます。\n \n・PayPay（ペイペイ）にチャージした金額を、Yahoo!ショッピングでのお買い物でも利用できます。\n \n※一部利用できないストアがあります。\n \n※クレジットカード払い、キャリア決済、モバイルSuica、コンビニ決済に加えて、PayPay（ペイペイ）でもお支払いができるようになります。\n \n-----\n \n■毎日おトクなショッピングクーポン！\n \nYahoo!ショッピングアプリ内でGETできるクーポンを使い、さらにおトクにお買い物ができます。\n \n人気のクーポンをランキング形式やカテゴリー別に確認できるので、逃さずチェックしましょう！\n \n-----\n \n■こんな方にYahoo!ショッピングアプリはオススメです\n \n・取扱い商品数が豊富な通販アプリをお探しの方\n \n・PayPay（ペイペイ）を利用しておトクにお買い物したい方\n \n・ファッションアイテムや生活用品を一つのアプリで購入したい方\n \n・おトクなセールやキャンペーン、クーポンが利用でき季節ごとの商品特集があるお買い物アプリをお探しの方\n \n-----\n \n■Yahoo!ショッピングの特徴\n \n国内最大級の86万以上のストア、約3.0億点の商品とロハコ（LOHACO）商品、ZOZOTOWNを含む商品のなかから、あなたにぴったりの商品を選べます。\n \n【取扱い商品のカテゴリ一覧】\n \nレディースファッション\n \nメンズファッション\n \nTシャツ、Yシャツ\n \n腕時計、アクセサリー\n \n食品\n \nスイーツ、洋菓子\n \nドリンク、水、お酒\n \n家電\n \nテレビ、オーディオ、カメラ\n \nスマホ、タブレット、パソコン\n \n家具、インテリア\n \nキッチン、日用品、文具\n \nアウトドア、釣り、旅行用品\n \nダイエット、健康\n \nコンタクトレンズ、ケア用品\n \nコスメ、美容、ヘアケア\n \nベビー、キッズ、マタニティ\n \nペット用品、生き物\n \n花、ガーデニング\n \nDIY、工具\n \n車、バイク、自転車\n \nスポーツ\n \nゲーム、おもちゃ\n \n楽器、手芸、コレクション\n \nCD、音楽ソフト、チケット\n \nDVD、映像ソフト\n \n本、雑誌、コミック\n \nレンタル、各種サービス\n \nそのほかにも、以下の商品がおすすめです！\n \n季節商品（おせち、バレンタインデー、ホワイトデー、水着、お中元、ハロウィン、クリスマス）\n \nお取り寄せグルメ\n \n業務用サイズの商品\n \nバッグや靴などのブランド雑貨\n \n【便利な新機能！】\n \n・Yahoo!ショッピングでも「PayPay（ペイペイ）」が使える！もらえる！\n \n・商品が発送されたら、Push通知でお知らせします。\n \n・ウィジェットから手軽に検索したり、お気に入りにアクセスできます。\n \n・お得な情報をプッシュ通知でお知らせます。\n \n・商品詳細から、より安い商品を見つけることが出来るようになりました。\n \n・クーポンなど、おトクな情報を逃さないよう、アプリ内でお知らせします。\n \n・お届け希望日やキャンペーンをカレンダーに登録する機能を追加しました。\n \nPayPayポイントは、Yahoo!ショッピングやYahoo!オークションなどのYahoo! JAPANサービスをはじめ、LOHACO等のサービスや、PayPay対応の実店舗などでも利用できます。\n \nまた、キャンペーンの開始・終了などのおトクな情報をはじめ、クーポンの有効期限もプッシュ通知でお知らせします。おトクな買い時を逃しません！\n \n【お得なセールや特集が盛りだくさん！】\n \n・対象ストア限定のキャンペーンもお見逃しなく！\n\n【Yahoo!ふるさと納税】\n\nYahoo!ふるさと納税では、約1,200の自治体への寄付を受け付け！お礼品は38万点以上  ※2025年8月現在\n・2024年12月より、\"手続きすべてスマホで完結”をコンセプトに「Yahoo!ふるさと納税」の提供を開始\n\n・掲載自治体数は1,200件を突破、お礼品は38万点以上　※2025年8月現在\n\n・「Yahoo!ショッピング」アプリとマイナンバーカードがあればオンラインで控除申請が完結する機能を一部自治体で導入\n\n・『日本中を「買ってよかった」で埋め尽くす』をビジョンとする「Yahoo!ショッピング」は、ふるさと納税のさらなる発展を図り、地域活性化に貢献していきます\n \n-----\n \n【ロハコ（LOHACO）やYahoo!オークションからも商品を探せます！】\n \nYahoo!ショッピングでは、個人向けネット通販サイトのロハコ（LOHACO）やオークションフリマサイトのYahoo!オークションの商品も検索できます。\n \nロハコ（LOHACO）では食料品などの生活必需品はもちろんのこと、インテリア家具や雑貨などもお買い物できます。\n \nまた、Yahoo!オークションではオークション形式で様々な商品を検索でき、フリマモードではすぐに買えるものだけ調べられるのでとっても便利！\n \n-----\n \n■その他\n \n本アプリケーションはLINEヤフー株式会社の利用規約をご確認のうえ、ご利用ください。\n \n■LINEヤフー共通利用規約\n\nhttps://www.lycorp.co.jp/ja/company/terms/\n \n■ソフトウェアに関する規則（ガイドライン）\n \nhttps://www.lycorp.co.jp/ja/company/terms/#anc2\n  \n■プライバシーポリシー\n  \nhttps://www.lycorp.co.jp/ja/company/privacypolicy/\n \n■プライバシーセンター\n  \nhttps://privacy.lycorp.co.jp/ja/\n \n■免責事項\n \nhttps://shopping.yahoo.co.jp/notice/shopinfo/security/\n \n■ご注意\n \n・Yahoo!ショッピングアプリとブラウザーでは、ログインしているYahoo! JAPAN IDが異なる場合があります。商品の購入時などは、ログインしているIDを確認してください。\n \n・バーコード検索はカメラ機能がない端末では使用できません。\n \n■間違えやすいキーワード\n \nヤフーショッピング、やふーしょっぴんぐ、yahoo shopping、やほお、yahoo、ヤフー、shopping、Yahoo!オークション\n \n写真：アフロ",
-      "averageUserRating": 4.58954,
       "trackCensoredName": "Yahoo!ショッピング-PayPayポイントが貯まる通販",
       "trackViewUrl": "https://apps.apple.com/jp/app/yahoo-%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0-paypay%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E3%81%8C%E8%B2%AF%E3%81%BE%E3%82%8B%E9%80%9A%E8%B2%A9/id446016180?uo=4",
       "contentAdvisoryRating": "17+",
+      "averageUserRating": 4.57476,
       "sellerUrl": "http://www.yahoo.co.jp",
-      "averageUserRatingForCurrentVersion": 4.58954,
+      "averageUserRatingForCurrentVersion": 4.57476,
+      "languageCodesISO2A": [
+        "JA"
+      ],
+      "fileSizeBytes": "248076288",
       "formattedPrice": "無料",
-      "userRatingCount": 2678926
+      "userRatingCountForCurrentVersion": 2808636,
+      "trackContentRating": "17+",
+      "minimumOsVersion": "17.0",
+      "userRatingCount": 2808636
     }
   ]
 }

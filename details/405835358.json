@@ -2,14 +2,10 @@
   "resultCount": 1,
   "results": [
     {
-      "screenshotUrls": [],
-      "ipadScreenshotUrls": [],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/40/c9/b240c915-f246-f302-694f-9ba6e71dca79/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/us/developer/cascode-labs-pty-ltd/id895755095?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/40/c9/b240c915-f246-f302-694f-9ba6e71dca79/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/40/c9/b240c915-f246-f302-694f-9ba6e71dca79/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAirCellular-iPadAirCellular",
@@ -97,50 +93,54 @@
         "iPadAir11M4Cellular-iPadAir11M4Cellular",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "features": [
-        "iosUniversal"
-      ],
       "advisories": [],
       "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/us/developer/cascode-labs-pty-ltd/id895755095?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/38/f9/dc38f9d9-3351-50c1-f07b-ef970ea8bcb8/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/38/f9/dc38f9d9-3351-50c1-f07b-ef970ea8bcb8/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
+      "screenshotUrls": [],
+      "ipadScreenshotUrls": [],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/38/f9/dc38f9d9-3351-50c1-f07b-ef970ea8bcb8/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "userRatingCountForCurrentVersion": 5468,
+      "minimumOsVersion": "18.0",
+      "genres": [
+        "Navigation",
+        "Utilities"
+      ],
+      "price": 12.99,
+      "bundleId": "com.kvurd.milgps",
+      "trackId": 405835358,
+      "trackName": "MilGPS",
+      "releaseDate": "2010-12-01T23:24:59Z",
+      "genreIds": [
+        "6010",
+        "6002"
+      ],
+      "sellerName": "Cascode Labs Pty Ltd",
+      "primaryGenreName": "Navigation",
+      "primaryGenreId": 6010,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-04-23T14:03:05Z",
+      "releaseNotes": "Minor user interface updates, bug fixes and performance improvements.",
+      "version": "7.21.0",
+      "wrapperType": "software",
+      "currency": "USD",
+      "description": "MilGPS is a field navigation tool designed for efficient use by trained navigators using MGRS coordinates. No in-app purchases or subscriptions.\n\nOVERVIEW\n- Display your current location and other info in large, clear text on customizable screens.\n- Create waypoints using your current location, map crosshairs, distance/direction projection or optimized coordinate entry. Organize waypoints into overlays and navigate to them by following an arrow or on the map.\n- Visualize your location and waypoints on a map with smooth scrolling grid lines/labels. Apple and Google online maps are included or supply your own offline maps in raster MBTiles format.\n \nOTHER FEATURES\n- Supports MGRS, USNG, UTM, Lat/Lon and OSNG location formats.\n- Supports a wide variety of map datums including WGS84, NAD27, OSGB36, AGD66 and ED50.\n- Use 3 different datums/location formats for location display and waypoint entry.\n- Supports a wide variety of angle, altitude, and distance formats.\n- Cell phone signal not required for basic navigation functionality. Online maps require a data connection.\n- Supports military date time groups for local/zulu time\n- Import and export waypoints via the standard GPX file format. Limited support for KML and CSV formats. Routes and tracks not supported.\n- Map ruler tool to measure distance/direction between two points on the map, snaps to waypoints\n\nNOT INCLUDED (YET)\n- Route planning\n- Track recording\n- Online mapping sources other than Apple and Google maps\n- Vector offline maps\n\nQUESTIONS\nsupport@milgps.com\n\nNOTES\n- WiFi-only iPads are not supported because they don't have a GPS receiver.\n- Mapping function requires a data connection. \n- Using GPS will shorten battery life.\n- Online maps are provided, hosted and updated by third parties. Maps may be inaccurate or censored. Map types and quality may change without notice.\n\nPRIVACY\nBecause you can choose to use Google maps in the app, we are required to disclose the data collected by Google in our App Store listing. If you do not use Google maps minimal data is collected. See our privacy policy for details.\n\nWARNING\nYOUR USE OF MILGPS IS AT YOUR OWN RISK\nMilGPS is an aid to navigation only and is intended to be used in conjunction with other navigation methods and tools.\nMilGPS must not be used where relying on MilGPS could result in death, injury or financial loss. This includes use on military operations, live-firing activities, aviation and surveying use.\nMilGPS is not tested to military specifications and is not endorsed by the military of any nation. MilGPS is not a substitute for military issue equipment.\nYour use of MilGPS is governed by the standard App Store Licensed Application End User License Agreement.",
+      "averageUserRatingForCurrentVersion": 4.83632,
       "languageCodesISO2A": [
         "EN"
       ],
       "fileSizeBytes": "47375360",
       "formattedPrice": "$12.99",
       "trackContentRating": "4+",
-      "userRatingCountForCurrentVersion": 5431,
+      "averageUserRating": 4.83632,
       "trackCensoredName": "MilGPS",
       "trackViewUrl": "https://apps.apple.com/us/app/milgps/id405835358?uo=4",
       "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.83723,
-      "averageUserRatingForCurrentVersion": 4.83723,
-      "trackId": 405835358,
-      "trackName": "MilGPS",
       "artistId": 895755095,
       "artistName": "Cascode Labs Pty Ltd",
-      "genres": [
-        "Navigation",
-        "Utilities"
-      ],
-      "bundleId": "com.kvurd.milgps",
-      "genreIds": [
-        "6010",
-        "6002"
-      ],
-      "primaryGenreName": "Navigation",
-      "primaryGenreId": 6010,
-      "sellerName": "Cascode Labs Pty Ltd",
-      "releaseDate": "2010-12-01T23:24:59Z",
-      "currentVersionReleaseDate": "2026-03-19T00:37:56Z",
-      "releaseNotes": "- Minor user interface updates that improve consistency with the iOS dark mode theme.\n- Bug fixes and performance improvements.",
-      "version": "7.20.1",
-      "wrapperType": "software",
-      "currency": "USD",
-      "description": "MilGPS is a field navigation tool designed for efficient use by trained navigators using MGRS coordinates. No in-app purchases or subscriptions.\n\nOVERVIEW\n- Display your current location and other info in large, clear text on customizable screens.\n- Create waypoints using your current location, map crosshairs, distance/direction projection or optimized coordinate entry. Organize waypoints into overlays and navigate to them by following an arrow or on the map.\n- Visualize your location and waypoints on a map with smooth scrolling grid lines/labels. Apple and Google online maps are included or supply your own offline maps in raster MBTiles format.\n \nOTHER FEATURES\n- Supports MGRS, USNG, UTM, Lat/Lon and OSNG location formats.\n- Supports a wide variety of map datums including WGS84, NAD27, OSGB36, AGD66 and ED50.\n- Use 3 different datums/location formats for location display and waypoint entry.\n- Supports a wide variety of angle, altitude, and distance formats.\n- Cell phone signal not required for basic navigation functionality. Online maps require a data connection.\n- Supports military date time groups for local/zulu time\n- Import and export waypoints via the standard GPX file format. Limited support for KML and CSV formats. Routes and tracks not supported.\n- Map ruler tool to measure distance/direction between two points on the map, snaps to waypoints\n\nNOT INCLUDED (YET)\n- Route planning\n- Track recording\n- Online mapping sources other than Apple and Google maps\n- Vector offline maps\n\nQUESTIONS\nsupport@milgps.com\n\nNOTES\n- WiFi-only iPads are not supported because they don't have a GPS receiver.\n- Mapping function requires a data connection. \n- Using GPS will shorten battery life.\n- Online maps are provided, hosted and updated by third parties. Maps may be inaccurate or censored. Map types and quality may change without notice.\n\nPRIVACY\nBecause you can choose to use Google maps in the app, we are required to disclose the data collected by Google in our App Store listing. If you do not use Google maps minimal data is collected. See our privacy policy for details.\n\nWARNING\nYOUR USE OF MILGPS IS AT YOUR OWN RISK\nMilGPS is an aid to navigation only and is intended to be used in conjunction with other navigation methods and tools.\nMilGPS must not be used where relying on MilGPS could result in death, injury or financial loss. This includes use on military operations, live-firing activities, aviation and surveying use.\nMilGPS is not tested to military specifications and is not endorsed by the military of any nation. MilGPS is not a substitute for military issue equipment.\nYour use of MilGPS is governed by the standard App Store Licensed Application End User License Agreement.",
-      "minimumOsVersion": "18.0",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "price": 12.99,
-      "userRatingCount": 5431
+      "userRatingCount": 5468
     }
   ]
 }

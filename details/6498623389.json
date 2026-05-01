@@ -2,19 +2,17 @@
   "resultCount": 1,
   "results": [
     {
+      "screenshotUrls": [],
+      "ipadScreenshotUrls": [],
       "artistViewUrl": "https://apps.apple.com/us/developer/jarrod-norwell/id1449237747?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/f4/4e/97f44eec-b032-3edc-d909-46c2b8d09ff0/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/f4/4e/97f44eec-b032-3edc-d909-46c2b8d09ff0/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
+      "isGameCenterEnabled": false,
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/f4/4e/97f44eec-b032-3edc-d909-46c2b8d09ff0/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
       "features": [
         "iosUniversal"
       ],
-      "advisories": [],
-      "isGameCenterEnabled": false,
-      "kind": "software",
-      "screenshotUrls": [],
-      "ipadScreenshotUrls": [],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/f4/4e/97f44eec-b032-3edc-d909-46c2b8d09ff0/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -144,44 +142,46 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
+      "advisories": [],
+      "kind": "software",
       "trackCensoredName": "Folium",
       "trackViewUrl": "https://apps.apple.com/us/app/folium/id6498623389?uo=4",
       "contentAdvisoryRating": "4+",
-      "averageUserRating": 2.4284,
-      "minimumOsVersion": "16.0",
-      "genres": [
-        "Entertainment"
-      ],
-      "price": 2.99,
-      "bundleId": "com.antique.Folium-iOS",
-      "trackId": 6498623389,
-      "trackName": "Folium",
-      "releaseDate": "2024-05-31T07:00:00Z",
-      "genreIds": [
-        "6016"
-      ],
-      "primaryGenreName": "Entertainment",
-      "primaryGenreId": 6016,
-      "sellerName": "Jarrod Norwell",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-03-18T01:27:27Z",
-      "releaseNotes": "Changed\n- Updated Azahar for Cytrus to the latest available version on GitHub\n\nFixed\n- an issue where input via the on-screen buttons and external gamepads would not work in Cytrus\n- an issue where audio was handled unnecessarily in Grape causing minor static\n\nRemoved\n- SDL3 audio output from Cytrus until its fully functional, replaced with CoreAudio as of now",
-      "version": "1.38",
-      "wrapperType": "software",
-      "currency": "USD",
-      "description": "Folium is a beautifully designed, high performing multi-system emulator that allows you to play video games from retro consoles and handhelds\n\n-- NOTE --\nFolium does not provide any games or system files, these must be provided by the user\n\nEmulation may be slow on older devices depending on the console or handheld emulated\n-- NOTE --\n\nSupported Consoles\n- ColecoVision\n- Game Boy, Game Boy Color\n- Game Boy Advance\n- Nintendo 3DS, New Nintendo 3DS\n- Nintendo DS, Nintendo DSi\n- Nintendo Entertainment System\n- SEGA Genesis, Mega Drive\n- Super Nintendo Entertainment System\n- PlayStation 1\n\nSupported Controllers\n- Backbone One\n- Nintendo Switch Joy-Con\n- Nintendo Switch Pro Controller\n- PlayStation DualShock 4\n- PlayStation 5 DualSense\n- Xbox Series S\n- Xbox Series X\n\nFolium is in no way affiliated with Nintendo. \"Nintendo\" and all associated game console and handheld names and game controller names are registered trademarks of Nintendo Co., Ltd\n\nFolium is in no way affiliated with Sony. \"PlayStation\" and all associated game controller names are registered trademarks of Sony Group Corporation\n\nFolium is in no way affiliated with SEGA. \"SEGA\" and all associated game console and handheld names are registered trademarks of SEGA Group Corporation",
-      "averageUserRatingForCurrentVersion": 2.4284,
       "sellerUrl": "https://jarrodnorwell.com/folium",
       "languageCodesISO2A": [
         "EN"
       ],
       "fileSizeBytes": "69912576",
       "formattedPrice": "$2.99",
-      "userRatingCountForCurrentVersion": 817,
+      "userRatingCountForCurrentVersion": 819,
       "trackContentRating": "4+",
-      "artistName": "Jarrod Norwell",
+      "averageUserRatingForCurrentVersion": 2.4188,
+      "averageUserRating": 2.4188,
+      "genres": [
+        "Entertainment"
+      ],
       "artistId": 1449237747,
-      "userRatingCount": 817
+      "price": 2.99,
+      "bundleId": "com.antique.Folium-iOS",
+      "genreIds": [
+        "6016"
+      ],
+      "releaseDate": "2024-05-31T07:00:00Z",
+      "trackId": 6498623389,
+      "trackName": "Folium",
+      "primaryGenreName": "Entertainment",
+      "primaryGenreId": 6016,
+      "sellerName": "Jarrod Norwell",
+      "currentVersionReleaseDate": "2026-03-18T01:27:27Z",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseNotes": "Changed\n- Updated Azahar for Cytrus to the latest available version on GitHub\n\nFixed\n- an issue where input via the on-screen buttons and external gamepads would not work in Cytrus\n- an issue where audio was handled unnecessarily in Grape causing minor static\n\nRemoved\n- SDL3 audio output from Cytrus until its fully functional, replaced with CoreAudio as of now",
+      "version": "1.38",
+      "wrapperType": "software",
+      "currency": "USD",
+      "description": "Folium is a beautifully designed, high performing multi-system emulator that allows you to play video games from retro consoles and handhelds\n\n-- NOTE --\nFolium does not provide any games or system files, these must be provided by the user\n\nEmulation may be slow on older devices depending on the console or handheld emulated\n-- NOTE --\n\nSupported Consoles\n- ColecoVision\n- Game Boy, Game Boy Color\n- Game Boy Advance\n- Nintendo 3DS, New Nintendo 3DS\n- Nintendo DS, Nintendo DSi\n- Nintendo Entertainment System\n- SEGA Genesis, Mega Drive\n- Super Nintendo Entertainment System\n- PlayStation 1\n\nSupported Controllers\n- Backbone One\n- Nintendo Switch Joy-Con\n- Nintendo Switch Pro Controller\n- PlayStation DualShock 4\n- PlayStation 5 DualSense\n- Xbox Series S\n- Xbox Series X\n\nFolium is in no way affiliated with Nintendo. \"Nintendo\" and all associated game console and handheld names and game controller names are registered trademarks of Nintendo Co., Ltd\n\nFolium is in no way affiliated with Sony. \"PlayStation\" and all associated game controller names are registered trademarks of Sony Group Corporation\n\nFolium is in no way affiliated with SEGA. \"SEGA\" and all associated game console and handheld names are registered trademarks of SEGA Group Corporation",
+      "minimumOsVersion": "16.0",
+      "artistName": "Jarrod Norwell",
+      "userRatingCount": 819
     }
   ]
 }

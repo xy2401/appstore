@@ -2,6 +2,9 @@
   "resultCount": 1,
   "results": [
     {
+      "artistViewUrl": "https://apps.apple.com/jp/developer/hexanomad/id1519508655?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/f5/78/4df5780f-7861-f265-63b7-fa4ec3a627fb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/f5/78/4df5780f-7861-f265-63b7-fa4ec3a627fb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
@@ -160,31 +163,33 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/f5/78/4df5780f-7861-f265-63b7-fa4ec3a627fb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/jp/developer/hexanomad/id1519508655?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/f5/78/4df5780f-7861-f265-63b7-fa4ec3a627fb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/f5/78/4df5780f-7861-f265-63b7-fa4ec3a627fb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+      "trackCensoredName": "Nomad Sculpt",
+      "trackViewUrl": "https://apps.apple.com/jp/app/nomad-sculpt/id1519508653?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.80352,
       "minimumOsVersion": "16.0",
-      "userRatingCountForCurrentVersion": 3415,
-      "price": 3000.0,
+      "artistId": 1519508655,
       "artistName": "Hexanomad",
       "genres": [
         "グラフィック／デザイン"
       ],
-      "artistId": 1519508655,
+      "price": 3000.0,
       "bundleId": "com.stephaneginier.Nomad",
-      "trackName": "Nomad Sculpt",
-      "trackId": 1519508653,
       "primaryGenreName": "Graphics & Design",
       "primaryGenreId": 6027,
+      "sellerName": "Hexanomad",
+      "trackName": "Nomad Sculpt",
+      "trackId": 1519508653,
       "releaseDate": "2020-08-04T07:00:00Z",
       "isVppDeviceBasedLicensingEnabled": true,
-      "sellerName": "Hexanomad",
       "currentVersionReleaseDate": "2025-12-23T21:16:21Z",
       "releaseNotes": "usd: fix crash on export and import\nscene: group lock will now lock its children\nboolean: fix random crash\ninput: fix second single tap sometimes not being recorded\nreference: simplify reset view on unlock option\nreference: fix transform mode going crazy when reference is locked and rolled",
       "version": "2.8",
       "wrapperType": "software",
       "currency": "JPY",
       "description": "• 彫刻ツール\nクレイ、フラット化、スムーズ化、マスクなどのブラシで作品を形作ります。\nハードサーフェス用途には、ラッソ、長方形などの形状を使ったトリムブーリアンカッティングツールも使用できます。\n\n• ストロークのカスタマイズ\nフォールオフ、アルファ、タイリング、ペンシル圧力などのストロークパラメーターをカスタマイズできます。\nツールのプリセットを保存して読み込むこともできます。\n\n• ペイントツール\n頂点ペインティングで色、粗さ、メタルネスを扱います。\nマテリアルプリセットも簡単に管理できます。\n\n• レイヤー\n彫刻およびペイント操作を個別のレイヤーで記録し、作成プロセス中に簡単に反復できます。\n彫刻およびペイントの変更が記録されます。\n\n• マルチレゾリューションスカルプティング\n柔軟なワークフローのためにメッシュの複数の解像度間を行き来します。\n\n• ボクセルリメッシュ\nメッシュをすばやくリメッシュして、一様の詳細レベルを取得します。\n作成プロセスの始めに大まかな形をすばやくスケッチするために使用できます。\n\n• ダイナミックトポロジー\nブラシの下でメッシュを局所的に精製して、自動的な詳細レベルを得ます。\nレイヤーもそのまま保持でき、自動的に更新されます！\n\n• デシメート\nできるだけ多くの詳細を保持しつつ、ポリゴン数を減らします。\n\n• フェイスグループ\nフェイスグループツールを使用して、メッシュをサブグループに分割します。\n\n• 自動UVアンラップ\n自動UVアンラッパーは、アンラッピングプロセスを制御するためにフェイスグループを使用できます。\n\n• ベーキング\n頂点データ（色、粗さ、メタルネス、小規模な詳細）をテクスチャに転送します。\nまた、テクスチャデータを頂点データやレイヤーに転送することも可能です。\n\n• プリミティブ形状\n円筒、トーラス、チューブ、旋盤などのプリミティブを使用して、新しい形状をすぐに始めることができます。\n\n• PBRレンダリング\nデフォルトで美しいPBRレンダリングを提供します。光と影があります。\n彫刻の目的でより標準的なシェーディングにしたい場合は、いつでもMatCapに切り替えることができます。\n\n• ポストプロセス\nスクリーンスペースリフレクション、奥行きの深さ、アンビエントオクルージョン、トーンマッピングなど\n\n• エクスポートとインポート\nサポートされるフォーマットには、glTF、OBJ、STL、PLYファイルが含まれます。\n\n• インターフェース\nモバイルエクスペリエンス用に設計された使いやすいインターフェース。\nカスタマイズも可能です！\n\n• クアッドリメッシャー（アプリ内購入のみ）\nオブジェクトをメッシュ曲率に沿ったクアッド主体のメッシュで自動的にリメッシュします。\nガイド、フェイスグループ、密度ペインティングがサポートされています。",
+      "averageUserRatingForCurrentVersion": 4.80352,
+      "sellerUrl": "https://nomadsculpt.com/",
       "languageCodesISO2A": [
         "AR",
         "CS",
@@ -213,16 +218,11 @@
       "fileSizeBytes": "198627328",
       "formattedPrice": "¥3,000",
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.80497,
-      "contentAdvisoryRating": "4+",
-      "sellerUrl": "https://nomadsculpt.com/",
-      "averageUserRating": 4.80497,
-      "trackCensoredName": "Nomad Sculpt",
-      "trackViewUrl": "https://apps.apple.com/jp/app/nomad-sculpt/id1519508653?uo=4",
+      "userRatingCountForCurrentVersion": 3522,
       "genreIds": [
         "6027"
       ],
-      "userRatingCount": 3415
+      "userRatingCount": 3522
     }
   ]
 }

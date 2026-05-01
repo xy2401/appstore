@@ -3,6 +3,9 @@
   "results": [
     {
       "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "MacDesktop-MacDesktop",
         "iPhone5s-iPhone5s",
@@ -134,15 +137,7 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
       "advisories": [],
-      "features": [
-        "iosUniversal"
-      ],
       "kind": "software",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/02/ca/0b02cadf-d5b7-aca7-c4f3-86e3f3bcc9d2/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/02/ca/0b02cadf-d5b7-aca7-c4f3-86e3f3bcc9d2/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/us/developer/shadow-launch-technology-limited/id687237009?uo=4",
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/02/ca/0b02cadf-d5b7-aca7-c4f3-86e3f3bcc9d2/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/97/84/b3/9784b3ca-7eab-28b5-9008-1d1013078d52/pr_source.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/67/85/26/678526fc-412f-a6b4-7a74-912783b064b8/mzl.rsmyoiof.png/392x696bb.png",
@@ -155,6 +150,9 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/84/4a/66/844a6698-0149-d008-2b46-2201b8a21e1c/mzl.kvlmppxp.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/21/1f/b3/211fb30a-d77d-9b69-080b-00fac222004d/tns.nfranqtu.png/392x696bb.png"
       ],
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/02/ca/0b02cadf-d5b7-aca7-c4f3-86e3f3bcc9d2/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/us/developer/shadow-launch-technology-limited/id687237009?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/02/ca/0b02cadf-d5b7-aca7-c4f3-86e3f3bcc9d2/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg",
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/52/f9/c4/52f9c44f-c0c2-5dde-32f5-0e317cceff2d/pr_source.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/79/84/52/7984527b-015d-0b2c-9b23-ac05742f6032/pr_source.png/576x768bb.png",
@@ -165,30 +163,37 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b5/9b/6e/b59b6ec3-78b1-dc41-e70b-e69e86ea2328/pr_source.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a4/31/57/a431574d-1e9b-5ee5-3bb1-ef397964b7f5/tns.jmlvxxzx.png/576x768bb.png"
       ],
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/02/ca/0b02cadf-d5b7-aca7-c4f3-86e3f3bcc9d2/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "minimumOsVersion": "13.0",
+      "artistName": "Shadow Launch Technology Limited",
       "artistId": 687237009,
       "genres": [
         "Utilities"
       ],
-      "artistName": "Shadow Launch Technology Limited",
-      "trackId": 932747118,
-      "trackName": "Shadowrocket",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "sellerName": "Shadow Launch Technology Limited",
+      "price": 2.99,
       "bundleId": "com.liguangming.Shadowrocket",
+      "sellerName": "Shadow Launch Technology Limited",
+      "genreIds": [
+        "6002"
+      ],
+      "releaseDate": "2015-04-14T02:09:18Z",
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
+      "trackName": "Shadowrocket",
+      "trackId": 932747118,
+      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-02-19T01:45:26Z",
       "releaseNotes": "* chore(task): add execution delay for background tasks\n* fix(config): optimize rule building to prevent crashes\n* fix(dns): resolve mDNS and DNS-SD query issues\n* fix(icon): resolve white artifact issue during app switcher animation\n* fix(mux): resolve AnyTLS pool mode and idle session management issues\n* fix(UI): resolve \"More\" button reset issue",
       "version": "2.2.80",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Rule based proxy utility client for iPhone/iPad.\n\n- Capture all HTTP/HTTPS/TCP traffic from any applications on your device, and redirect to the proxy server.\n- Record and display HTTP, HTTPS, DNS requests from your iOS devices.\n- Configure rules using domain match, domain suffix, domain keyword, CIDR IP range, and/or GeoIP lookup.\n- Measure traffic usage and network speed on WiFi, cellular, direct and proxy connections.\n- Import rule files from URL or iCloud Drive.\n- Block ads by domain, user agent rules.\n- Local DNS Mapping.\n- Work on cellular networks.\n- Decrypt HTTPS traffic.\n- Perform URL rewrite.\n- Fully IPv6 supports.\n- Script filter supports.\n- Multi-level forward proxy.\n- Support kcptun, cloak, gost, v2ray plugins.\n- Support DNS over HTTPS, DNS over TLS, DNS over QUIC.",
-      "trackViewUrl": "https://apps.apple.com/us/app/shadowrocket/id932747118?uo=4",
+      "averageUserRating": 4.47391,
       "contentAdvisoryRating": "4+",
-      "minimumOsVersion": "13.0",
       "trackCensoredName": "Shadowrocket",
-      "averageUserRating": 4.47322,
-      "averageUserRatingForCurrentVersion": 4.47322,
+      "trackViewUrl": "https://apps.apple.com/us/app/shadowrocket/id932747118?uo=4",
+      "averageUserRatingForCurrentVersion": 4.47391,
       "sellerUrl": "https://shadowlaunch.com/",
       "languageCodesISO2A": [
         "EN",
@@ -201,14 +206,9 @@
       ],
       "fileSizeBytes": "51160064",
       "formattedPrice": "$2.99",
-      "userRatingCountForCurrentVersion": 11447,
       "trackContentRating": "4+",
-      "genreIds": [
-        "6002"
-      ],
-      "releaseDate": "2015-04-14T02:09:18Z",
-      "price": 2.99,
-      "userRatingCount": 11447
+      "userRatingCountForCurrentVersion": 11483,
+      "userRatingCount": 11483
     }
   ]
 }

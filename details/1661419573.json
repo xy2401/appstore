@@ -2,19 +2,19 @@
   "resultCount": 1,
   "results": [
     {
-      "artistViewUrl": "https://apps.apple.com/cn/developer/oleksandr-hamlii/id1661419575?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/81/81/ab8181fd-1cab-1ba3-397e-4c972014267e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/81/81/ab8181fd-1cab-1ba3-397e-4c972014267e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
+      "ipadScreenshotUrls": [],
+      "screenshotUrls": [],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/8e/bf/648ebfa7-b158-4bbc-2b3c-44e7e0beb804/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "features": [
         "iosUniversal"
       ],
       "advisories": [],
       "kind": "software",
-      "screenshotUrls": [],
-      "ipadScreenshotUrls": [],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/81/81/ab8181fd-1cab-1ba3-397e-4c972014267e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/cn/developer/oleksandr-hamlii/id1661419575?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/8e/bf/648ebfa7-b158-4bbc-2b3c-44e7e0beb804/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/8e/bf/648ebfa7-b158-4bbc-2b3c-44e7e0beb804/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -144,36 +144,8 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "contentAdvisoryRating": "4+",
-      "trackCensoredName": "atvTools",
-      "trackViewUrl": "https://apps.apple.com/cn/app/atvtools/id1661419573?uo=4",
-      "averageUserRating": 4.51844,
       "minimumOsVersion": "14.0",
-      "genres": [
-        "工具",
-        "软件开发工具"
-      ],
-      "artistId": 1661419575,
-      "artistName": "Oleksandr Hamlii",
-      "price": 8.0,
-      "bundleId": "dev.vodik7.atvtools.atvTools",
-      "trackId": 1661419573,
-      "releaseNotes": "• 修复了 Liquid Glass 支持问题（在 iOS 26.1 及更高版本上效果更佳）\n• 实现了应用筛选功能\n• 应用和 Shell 标签页在切换时会保存状态\n• 鼠标模式支持 Android 7 及更早版本的拖放操作。实现了滚动条和滑动操作支持\n• Shell 运行更流畅、更稳定\n• 屏幕截图新增“保存到照片”和“复制到剪贴板”选项。屏幕录制新增“保存到照片”选项\n• Android 10 及更高版本的媒体控制功能可自动运行\n• “工具”标签页新增“屏幕保护程序”和“睡眠”功能\n• 实现了 APK 支持\n• 修复和改进",
-      "trackName": "atvTools",
-      "releaseDate": "2023-03-15T07:00:00Z",
-      "genreIds": [
-        "6002",
-        "6026"
-      ],
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
-      "sellerName": "Oleksandr Hamlii",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-02-28T22:14:46Z",
-      "version": "1.6.0",
-      "wrapperType": "software",
-      "currency": "CNY",
-      "description": "开发的应用程序用于通过 iOS 设备控制电视设备。您需要在 Android 设备上启用 USB/网络调试才能使其工作\n根据设备的不同，某些功能可能不可用。此外，它尚未经过测试\n\n应用程序允许：\n- 从 iOS 设备安装（侧载）应用程序到电视设备\n- 控制电视应用程序（包括打开、卸载、禁用/启用和下载 APK）\n- 控制应用程序权限（授予/撤销）\n- 内置文件管理器\n- 截屏或录屏（由于操作系统限制，您无法捕获任何视频内容）\n- 将文件从手机发送到电视\n- 使用应用程序中的遥控器和鼠标模式控制您的设备\n- 在 iOS 设备上打开频道（仅限 Android TV 8+）\n- 从手机粘贴文本\n- 运行 Shell 命令\n- 使用一个按钮清除所有应用程序缓存\n- 重新启动并打开电视设备\n- 查看 CPU、RAM、网络和存储的使用情况\n- 查看正在运行的应用程序并在需要时强制停止它们",
+      "averageUserRatingForCurrentVersion": 4.51828,
       "sellerUrl": "https://tvdevinfo.com",
       "languageCodesISO2A": [
         "EN",
@@ -183,12 +155,40 @@
         "TR",
         "UK"
       ],
-      "fileSizeBytes": "71565312",
+      "fileSizeBytes": "71573504",
       "formattedPrice": "¥8.00",
-      "userRatingCountForCurrentVersion": 922,
+      "userRatingCountForCurrentVersion": 930,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.51844,
-      "userRatingCount": 922
+      "artistId": 1661419575,
+      "artistName": "Oleksandr Hamlii",
+      "genres": [
+        "工具",
+        "软件开发工具"
+      ],
+      "price": 8.0,
+      "bundleId": "dev.vodik7.atvtools.atvTools",
+      "trackId": 1661419573,
+      "trackName": "atvTools",
+      "genreIds": [
+        "6002",
+        "6026"
+      ],
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
+      "sellerName": "Oleksandr Hamlii",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-04-06T22:33:55Z",
+      "releaseNotes": "• 修复了 Liquid Glass 支持问题（在 iOS 26.1 及更高版本上效果更佳）\n• 实现了应用筛选功能\n• 应用和 Shell 标签页在切换时会保存状态\n• 鼠标模式支持 Android 7 及更早版本的拖放操作。实现了滚动条和滑动操作支持\n• Shell 运行更流畅、更稳定\n• 屏幕截图新增“保存到照片”和“复制到剪贴板”选项。屏幕录制新增“保存到照片”选项\n• Android 10 及更高版本的媒体控制功能可自动运行\n• “工具”标签页新增“屏幕保护程序”和“睡眠”功能\n• 实现了 APK 支持\n• 修复和改进",
+      "version": "1.6.1",
+      "wrapperType": "software",
+      "currency": "CNY",
+      "description": "开发的应用程序用于通过 iOS 设备控制电视设备。您需要在 Android 设备上启用 USB/网络调试才能使其工作\n根据设备的不同，某些功能可能不可用。此外，它尚未经过测试\n\n应用程序允许：\n- 从 iOS 设备安装（侧载）应用程序到电视设备\n- 控制电视应用程序（包括打开、卸载、禁用/启用和下载 APK）\n- 控制应用程序权限（授予/撤销）\n- 内置文件管理器\n- 截屏或录屏（由于操作系统限制，您无法捕获任何视频内容）\n- 将文件从手机发送到电视\n- 使用应用程序中的遥控器和鼠标模式控制您的设备\n- 在 iOS 设备上打开频道（仅限 Android TV 8+）\n- 从手机粘贴文本\n- 运行 Shell 命令\n- 使用一个按钮清除所有应用程序缓存\n- 重新启动并打开电视设备\n- 查看 CPU、RAM、网络和存储的使用情况\n- 查看正在运行的应用程序并在需要时强制停止它们",
+      "averageUserRating": 4.51828,
+      "trackCensoredName": "atvTools",
+      "trackViewUrl": "https://apps.apple.com/cn/app/atvtools/id1661419573?uo=4",
+      "contentAdvisoryRating": "4+",
+      "releaseDate": "2023-03-15T07:00:00Z",
+      "userRatingCount": 930
     }
   ]
 }

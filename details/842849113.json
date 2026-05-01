@@ -2,10 +2,6 @@
   "resultCount": 1,
   "results": [
     {
-      "artistViewUrl": "https://apps.apple.com/jp/developer/google/id281956209?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/c8/72/5bc87211-ae0c-dcfe-d044-7d38bb10e935/sheets_2020q4-0-1x_U007epad-0-0-0-1-0-0-0-85-220-0.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/c8/72/5bc87211-ae0c-dcfe-d044-7d38bb10e935/sheets_2020q4-0-1x_U007epad-0-0-0-1-0-0-0-85-220-0.png/100x100bb.jpg",
-      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/a6/32/c4/a632c4c7-cb25-6b66-5730-8eea7bf31998/c7c17b89-e9a5-4c5c-b565-d461ea168937_0_APP_IPHONE_55_0.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/16/53/55/165355a5-12eb-a0e4-9553-c154c965033d/b727c629-2330-4571-a95a-b8a73db1ded2_1_APP_IPHONE_55_1.jpg/392x696bb.jpg",
@@ -21,7 +17,11 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/9c/f5/a8/9cf5a81e-53c7-dc74-197d-c5952a22e0c0/d399afd0-5f42-4a64-90cd-be7795e5af98_4_APP_IPAD_PRO_129_4.png/576x768bb.png"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/c8/72/5bc87211-ae0c-dcfe-d044-7d38bb10e935/sheets_2020q4-0-1x_U007epad-0-0-0-1-0-0-0-85-220-0.png/512x512bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/28/a2/cb28a266-fd2e-e072-aa8c-04a8e78f3c3a/sheets_2020q4-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
+      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -151,38 +151,14 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "features": [
-        "iosUniversal"
-      ],
       "advisories": [],
       "kind": "software",
-      "trackCensoredName": "Google スプレッドシート",
-      "trackViewUrl": "https://apps.apple.com/jp/app/google-%E3%82%B9%E3%83%97%E3%83%AC%E3%83%83%E3%83%89%E3%82%B7%E3%83%BC%E3%83%88/id842849113?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.56956,
-      "sellerUrl": "http://www.google.com/sheets/about/",
-      "artistId": 281956209,
-      "artistName": "Google",
-      "genres": [
-        "仕事効率化",
-        "ビジネス"
-      ],
-      "price": 0.0,
-      "trackName": "Google スプレッドシート",
-      "sellerName": "Google LLC",
-      "genreIds": [
-        "6007",
-        "6000"
-      ],
-      "bundleId": "com.google.Sheets",
-      "releaseDate": "2014-04-30T16:04:38Z",
-      "trackId": 842849113,
-      "currentVersionReleaseDate": "2026-03-30T15:02:26Z",
-      "averageUserRatingForCurrentVersion": 4.56956,
-      "primaryGenreName": "Productivity",
-      "primaryGenreId": 6007,
-      "releaseNotes": "* セキュリティの強化、バグの修正、パフォーマンスの改善を行いました。",
-      "isVppDeviceBasedLicensingEnabled": true,
+      "artistViewUrl": "https://apps.apple.com/us/developer/google/id281956209?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/28/a2/cb28a266-fd2e-e072-aa8c-04a8e78f3c3a/sheets_2020q4-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/28/a2/cb28a266-fd2e-e072-aa8c-04a8e78f3c3a/sheets_2020q4-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.jpg",
+      "minimumOsVersion": "16.0",
+      "userRatingCountForCurrentVersion": 1739766,
+      "averageUserRatingForCurrentVersion": 4.80835,
       "languageCodesISO2A": [
         "AF",
         "AM",
@@ -227,6 +203,7 @@
         "MN",
         "NE",
         "NB",
+        "OR",
         "FA",
         "PL",
         "PT",
@@ -251,16 +228,40 @@
         "VI",
         "ZU"
       ],
-      "fileSizeBytes": "351292416",
-      "formattedPrice": "無料",
-      "userRatingCountForCurrentVersion": 331040,
+      "fileSizeBytes": "373272576",
+      "formattedPrice": "Free",
       "trackContentRating": "4+",
-      "version": "1.2026.13102",
+      "sellerUrl": "http://www.google.com/sheets/about/",
+      "genres": [
+        "Productivity",
+        "Business"
+      ],
+      "price": 0.0,
+      "bundleId": "com.google.Sheets",
+      "sellerName": "Google LLC",
+      "trackId": 842849113,
+      "trackName": "Google Sheets",
+      "primaryGenreName": "Productivity",
+      "primaryGenreId": 6007,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-04-27T14:09:32Z",
+      "releaseNotes": "* Security improvements, bug fixes, and performance improvements.",
+      "version": "1.2026.16101",
       "wrapperType": "software",
-      "currency": "JPY",
-      "description": "Google スプレッドシート アプリを使用すると、スプレッドシートの作成、編集、共同編集が可能です。このアプリには次のような特長があります。\n\n* 新しいスプレッドシートを作成したり、既存のスプレッドシートを編集したりできます。\n* 他のユーザーとスプレッドシートを共有して同時に共同編集できます。\n* 時間や場所に縛られず、オフライン環境でも作業できます。\n* セルの書式設定、データの入力や並べ替え、グラフの表示、数式の挿入、検索・置換機能の使用などが可能です。\n* 入力と同時に自動保存されるため、作業内容が失われる心配がありません。\n* Excel ファイルを表示、編集、保存できます。\n\nGoogle スプレッドシートは Google Workspace に含まれるサービスであり、あらゆる規模のチームでチャット、スプレッドシートの作成、共同編集を行えます。\n\nGoogle Workspace 版の Google スプレッドシートには次のような利点があります。\n* プロジェクトに共同編集者を追加したり、相手が編集している内容を確認したり、席を外している間に行われた編集に関する通知を受け取ったり、同じスプレッドシート上で同僚とチャットしたりできます。編集内容はすべて自動的に保存されます。オフライン アクセス機能を使えば、いつどこにいてもファイルを作成、閲覧、編集できます。\n* Google AI を活用して分析情報をすばやく取得できます。\n* スプレッドシートと Excel 間でのシームレスな作業が可能です。\n* エンタープライズ レベルの安全性を確保しながら管理を行えます。\n* 業務上重要な別のツールからデータを分析できます。\n* カスタム ソリューションを構築できます。",
-      "minimumOsVersion": "16.0",
-      "userRatingCount": 331040
+      "currency": "USD",
+      "description": "Create, edit, and collaborate on spreadsheets with the Google Sheets app. With Sheets you can:\n\n* Create new spreadsheets or edit existing ones\n* Share spreadsheets and collaborate with others in the same spreadsheet at the same time\n* Work anywhere, anytime - even offline\n* Format cells, enter/sort data, view charts, insert formulas, use find/replace, and more\n* Never worry about losing your work -- everything is automatically saved as you type\n* Open, edit, and save Excel files\n\nGoogle Sheets is part of Google Workspace: where teams of any size can chat, create, and collaborate.\n\nGoogle Workspace subscribers have access to additional Google Sheets features, including: \n* Easily add collaborators to projects, see changes as they occur, receive notifications for edits that happen while you’re away, and chat with colleagues in the same spreadsheet. All changes are automatically saved as you make them. And with offline access, you can create, view, and edit files wherever and whenever\n* Get insights fast, powered by Google AI\n* Work seamlessly across Sheets and Excel\n* Maintain control with enterprise-grade security\n* Analyze data from other business-critical tools\n* Build custom solutions",
+      "trackCensoredName": "Google Sheets",
+      "trackViewUrl": "https://apps.apple.com/us/app/google-sheets/id842849113?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.80835,
+      "releaseDate": "2014-04-30T16:04:38Z",
+      "genreIds": [
+        "6007",
+        "6000"
+      ],
+      "artistId": 281956209,
+      "artistName": "Google",
+      "userRatingCount": 1739766
     }
   ]
 }

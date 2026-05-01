@@ -2,22 +2,14 @@
   "resultCount": 1,
   "results": [
     {
+      "artistViewUrl": "https://apps.apple.com/us/developer/netflix-inc/id363590054?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/87/2e/59872ebb-b5db-f90a-f3d3-d94d3b828a32/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/87/2e/59872ebb-b5db-f90a-f3d3-d94d3b828a32/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": true,
       "features": [
         "gameCenter",
         "iosUniversal"
       ],
-      "advisories": [],
-      "kind": "software",
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/97/88/45978884-9b87-f444-6a0b-a0e75847b9f6/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/97/88/45978884-9b87-f444-6a0b-a0e75847b9f6/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/us/developer/netflix-inc/id363590054?uo=4",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9f/74/52/9f7452b5-26b1-f1d1-a0b4-45d8ffa70c55/c069d7bd-d1db-42c0-b135-fd0abae9ab1b_5.5_-_2208x1242.jpg/406x228bb.jpg"
-      ],
-      "ipadScreenshotUrls": [],
-      "appletvScreenshotUrls": [],
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/97/88/45978884-9b87-f444-6a0b-a0e75847b9f6/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -147,30 +139,43 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
+      "advisories": [],
+      "kind": "software",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9f/74/52/9f7452b5-26b1-f1d1-a0b4-45d8ffa70c55/c069d7bd-d1db-42c0-b135-fd0abae9ab1b_5.5_-_2208x1242.jpg/406x228bb.jpg"
+      ],
+      "ipadScreenshotUrls": [],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/87/2e/59872ebb-b5db-f90a-f3d3-d94d3b828a32/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "trackCensoredName": "Netflix Game Controller",
+      "trackViewUrl": "https://apps.apple.com/us/app/netflix-game-controller/id6447582581?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.45561,
+      "currentVersionReleaseDate": "2026-04-29T00:47:45Z",
+      "releaseNotes": "We've squashed bugs and made behind-the-scenes improvements to bring Netflix members the best possible gameplay experience.",
       "minimumOsVersion": "17.0",
-      "price": 0.0,
+      "genres": [
+        "Entertainment",
+        "Games"
+      ],
       "artistId": 363590054,
       "artistName": "Netflix, Inc.",
-      "releaseDate": "2023-08-07T07:00:00Z",
-      "releaseNotes": "We've squashed bugs and made behind-the-scenes improvements to bring Netflix members the best possible gameplay experience.",
       "bundleId": "com.netflix.ssicapp",
-      "trackName": "Netflix Game Controller",
-      "trackId": 6447582581,
-      "currentVersionReleaseDate": "2026-04-02T16:06:12Z",
       "genreIds": [
         "6016",
         "6014"
       ],
+      "trackId": 6447582581,
+      "trackName": "Netflix Game Controller",
       "sellerName": "Netflix, Inc.",
       "primaryGenreName": "Entertainment",
       "primaryGenreId": 6016,
       "isVppDeviceBasedLicensingEnabled": true,
-      "version": "3.3",
+      "version": "3.5.1",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Play games on your TV or computer browser with the Netflix Game Controller. \n\nThis app allows you to play games on Netflix using your phone or mobile device as a game controller. The Netflix Game Controller app is available to everyone.\n\nNetflix Games is in beta and depending on your device type, your TV or browser may not be supported at this time.\n \nLet the games begin!",
-      "averageUserRating": 2.93678,
-      "trackCensoredName": "Netflix Game Controller",
+      "averageUserRatingForCurrentVersion": 4.45561,
       "languageCodesISO2A": [
         "AR",
         "HR",
@@ -204,18 +209,13 @@
         "UK",
         "VI"
       ],
-      "fileSizeBytes": "108655616",
+      "fileSizeBytes": "115799040",
       "formattedPrice": "Free",
-      "contentAdvisoryRating": "4+",
-      "userRatingCountForCurrentVersion": 2183,
-      "trackViewUrl": "https://apps.apple.com/us/app/netflix-game-controller/id6447582581?uo=4",
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 2.93678,
-      "genres": [
-        "Entertainment",
-        "Games"
-      ],
-      "userRatingCount": 2183
+      "userRatingCountForCurrentVersion": 18160,
+      "releaseDate": "2023-08-07T07:00:00Z",
+      "price": 0.0,
+      "userRatingCount": 18160
     }
   ]
 }

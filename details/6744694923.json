@@ -2,13 +2,19 @@
   "resultCount": 1,
   "results": [
     {
-      "artistViewUrl": "https://apps.apple.com/cn/developer/%E5%B4%87%E6%A1%82-%E9%99%88/id1808932128?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/92/8b/0e/928b0e41-6e4b-6b31-0e14-9ab50e8ce997/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/92/8b/0e/928b0e41-6e4b-6b31-0e14-9ab50e8ce997/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+      "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
       ],
       "advisories": [],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/cn/developer/%E5%B4%87%E6%A1%82-%E9%99%88/id1808932128?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/52/6b/3b526b2e-e343-fd5f-7078-d827195a568c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/52/6b/3b526b2e-e343-fd5f-7078-d827195a568c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+      "screenshotUrls": [],
+      "ipadScreenshotUrls": [],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/52/6b/3b526b2e-e343-fd5f-7078-d827195a568c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -138,51 +144,50 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "isGameCenterEnabled": false,
-      "kind": "software",
-      "screenshotUrls": [],
-      "ipadScreenshotUrls": [],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/92/8b/0e/928b0e41-6e4b-6b31-0e14-9ab50e8ce997/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "trackCensoredName": "钓鱼预录相机",
-      "trackViewUrl": "https://apps.apple.com/cn/app/%E9%92%93%E9%B1%BC%E9%A2%84%E5%BD%95%E7%9B%B8%E6%9C%BA/id6744694923?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.82535,
+      "artistId": 1808932128,
+      "artistName": "崇桂 陈",
       "genres": [
         "摄影与录像"
       ],
       "price": 16.0,
       "sellerName": "崇桂 陈",
       "bundleId": "com.adamochen.PreRecCam",
-      "trackId": 6744694923,
-      "trackName": "钓鱼预录相机",
-      "releaseDate": "2025-05-06T07:00:00Z",
-      "isVppDeviceBasedLicensingEnabled": true,
       "primaryGenreName": "Photo & Video",
       "primaryGenreId": 6008,
-      "currentVersionReleaseDate": "2026-04-03T19:08:07Z",
-      "releaseNotes": "- 修复已知问题",
-      "version": "1.0.91",
-      "wrapperType": "software",
-      "currency": "CNY",
-      "description": "- 支持自定义语音控制(无信号、省电飞行模式可用)音量键、蓝牙按钮控制\n- 支持自定义预录时长(5-120s多档选择)\n- 支持省电模式明确录制状态(实测可省40%电量)\n- 支持选择防抖等级(自动、标准、平滑、增强)\n- 支持选择镜头(前置 后置多摄 超广角 广角 长焦)\n- 支持选择分辨率(最高4k)与帧率(自动帧率、最高240fps)\n- 支持16:9/4:3画面比例(后者画面+30%)\n- 支持HDR、跨镜头缩放(若机型支持最高0.5-40倍)\n- 支持曝光参数控制\n- 支持开关录制提示音\n- 支持左滑隐藏UI界面 \n- 支持自动预录、立刻自动开始下一个预录(注意须在前台保存完成)\n- 支持自定义低电量阈值强制保存\n- 支持录制时听音乐\n- 不打龟模式",
-      "minimumOsVersion": "18.0",
-      "fileSizeBytes": "2498560",
-      "formattedPrice": "¥16.00",
-      "userRatingCountForCurrentVersion": 647,
-      "trackContentRating": "4+",
-      "languageCodesISO2A": [
-        "EN",
-        "ZH",
-        "ZH"
-      ],
-      "averageUserRatingForCurrentVersion": 4.82535,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-04-10T22:53:45Z",
+      "releaseDate": "2025-05-06T07:00:00Z",
       "genreIds": [
         "6008"
       ],
-      "artistId": 1808932128,
-      "artistName": "崇桂 陈",
-      "userRatingCount": 647
+      "releaseNotes": "- 晚上睡不着优化一下",
+      "version": "1.1.2",
+      "wrapperType": "software",
+      "currency": "CNY",
+      "description": "- 支持自定义语音控制(无信号、省电飞行模式可用)音量键、蓝牙按钮控制\n- 支持自定义预录时长(5-120s多档选择)\n- 支持省电模式明确录制状态(实测可省40%电量)\n- 支持选择防抖等级(自动、标准、平滑、增强)\n- 支持选择镜头(前置 后置多摄 超广角 广角 长焦)\n- 支持选择分辨率(最高4k)与帧率(自动帧率、最高240fps)\n- 支持16:9/4:3画面比例(后者画面+30%)\n- 支持HDR、跨镜头缩放(若机型支持最高0.5-40倍)\n- 支持曝光参数控制\n- 支持开关录制提示音\n- 支持左滑隐藏UI界面 \n- 支持自动预录、立刻自动开始下一个预录(注意须在前台保存完成)\n- 支持自定义低电量阈值强制保存\n- 支持录制时听音乐\n- 不打龟模式",
+      "averageUserRating": 4.83714,
+      "contentAdvisoryRating": "4+",
+      "trackCensoredName": "钓鱼预录相机",
+      "trackViewUrl": "https://apps.apple.com/cn/app/%E9%92%93%E9%B1%BC%E9%A2%84%E5%BD%95%E7%9B%B8%E6%9C%BA/id6744694923?uo=4",
+      "averageUserRatingForCurrentVersion": 4.83714,
+      "languageCodesISO2A": [
+        "AR",
+        "EN",
+        "FR",
+        "JA",
+        "KO",
+        "ZH",
+        "ES",
+        "ZH"
+      ],
+      "fileSizeBytes": "2618368",
+      "formattedPrice": "¥16.00",
+      "trackContentRating": "4+",
+      "userRatingCountForCurrentVersion": 700,
+      "minimumOsVersion": "18.0",
+      "trackName": "钓鱼预录相机",
+      "trackId": 6744694923,
+      "userRatingCount": 700
     }
   ]
 }
