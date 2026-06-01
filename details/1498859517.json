@@ -21,10 +21,15 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/da/1b/d8/da1bd836-c248-1e9e-4a69-adaecaac5d6a/pr_source.jpg/552x414bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/10/48/e2/1048e219-06d6-4c39-eb56-bd923bea365f/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/03/0d/ed030d72-25cb-ff24-db97-8b4d5e05f1ea/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "isGameCenterEnabled": false,
       "artistViewUrl": "https://apps.apple.com/cn/developer/hydrozoaworks-tech-ltd/id1538638368?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/10/48/e2/1048e219-06d6-4c39-eb56-bd923bea365f/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/10/48/e2/1048e219-06d6-4c39-eb56-bd923bea365f/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/03/0d/ed030d72-25cb-ff24-db97-8b4d5e05f1ea/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/03/0d/ed030d72-25cb-ff24-db97-8b4d5e05f1ea/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+      "advisories": [],
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -143,51 +148,55 @@
         "iPhone17Pro-iPhone17Pro",
         "iPhone17ProMax-iPhone17ProMax",
         "iPhone17-iPhone17",
-        "iPhoneAir-iPhoneAir"
+        "iPhoneAir-iPhoneAir",
+        "iPadPro11M5-iPadPro11M5",
+        "iPadPro11M5Cellular-iPadPro11M5Cellular",
+        "iPadPro13M5-iPadPro13M5",
+        "iPadPro13M5Cellular-iPadPro13M5Cellular",
+        "iPhone17e-iPhone17e",
+        "iPadAir11M4-iPadAir11M4",
+        "iPadAir11M4Cellular-iPadAir11M4Cellular",
+        "iPadAir13M4-iPadAir13M4",
+        "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [],
-      "isGameCenterEnabled": false,
       "kind": "software",
-      "averageUserRatingForCurrentVersion": 4.24322,
       "languageCodesISO2A": [
         "EN"
       ],
-      "fileSizeBytes": "90262528",
+      "fileSizeBytes": "96384000",
       "formattedPrice": "¥6.00",
-      "userRatingCountForCurrentVersion": 1402,
+      "userRatingCountForCurrentVersion": 1411,
       "trackContentRating": "4+",
+      "averageUserRatingForCurrentVersion": 4.24096,
+      "minimumOsVersion": "12.0",
+      "averageUserRating": 4.24096,
+      "contentAdvisoryRating": "4+",
       "trackCensoredName": "论如何建立一个修仙门派",
       "trackViewUrl": "https://apps.apple.com/cn/app/%E8%AE%BA%E5%A6%82%E4%BD%95%E5%BB%BA%E7%AB%8B%E4%B8%80%E4%B8%AA%E4%BF%AE%E4%BB%99%E9%97%A8%E6%B4%BE/id1498859517?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.24322,
-      "minimumOsVersion": "12.0",
-      "artistId": 1538638368,
-      "artistName": "HydrozoaWorks Tech Ltd.",
       "genres": [
         "工具"
       ],
+      "artistId": 1538638368,
       "price": 6.0,
+      "bundleId": "com.hydrozoa.bac",
+      "currentVersionReleaseDate": "2026-03-25T16:41:04Z",
       "sellerName": "HydrozoaWorks Tech Ltd.",
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
+      "releaseDate": "2020-03-02T08:00:00Z",
       "genreIds": [
         "6002"
       ],
-      "bundleId": "com.hydrozoa.bac",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
+      "releaseNotes": "1.366\n修复角色死亡或离开时卡死问题",
       "trackId": 1498859517,
       "trackName": "论如何建立一个修仙门派",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseDate": "2020-03-02T08:00:00Z",
-      "currentVersionReleaseDate": "2024-02-07T00:40:36Z",
-      "releaseNotes": "1.360\n修复偶发的读档卡死问题",
-      "version": "1.360",
+      "version": "1.366",
       "wrapperType": "software",
       "currency": "CNY",
       "description": "表面上，这是一个小黑屋类的放置宗门建设游戏，玩家要做的就是安排宗门的各种资源进行生产和建设。\n\n实际上，在你辛辛苦苦的养活整个宗门里所有人的时候，门内弟子们每个都觉得自己才是修仙小言的主角，于是动不动你就能看到各种爱而不得黑化堕魔啦，师徒恋爆发丑闻双生心魔无法突破啦，x峰峰主偷偷把在外游历的貌美弟子拖到小黑屋里伪造失踪啦……\n\n而你，只能微笑着作为掌门替他们擦了屁股然后继续辛辛苦苦的养活他们所有人……\n\n是的，这个游戏，就是一个浓缩了一百本修仙小言精华的狗血生成器。",
-      "userRatingCount": 1402
+      "artistName": "HydrozoaWorks Tech Ltd.",
+      "userRatingCount": 1411
     }
   ]
 }

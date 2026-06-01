@@ -2,10 +2,6 @@
   "resultCount": 1,
   "results": [
     {
-      "isGameCenterEnabled": false,
-      "artistViewUrl": "https://apps.apple.com/us/developer/simulation-curriculum-corp/id791341744?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/9b/9a/369b9aca-85f9-d278-982b-2c7d40cca64a/BASIC-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/9b/9a/369b9aca-85f9-d278-982b-2c7d40cca64a/BASIC-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/12/8c/9d/128c9d80-3ecf-6c2f-a265-c00f949322dd/797937dc-3334-4fdc-bafb-89c4145ada59_01_SkySafari_7_Basic_App_Screenshots_iPhone_5.5.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/53/85/cb5385a9-d10e-2ba9-3408-cdd0db990098/e07d0f56-5750-4a2e-ad87-462c7eafccad_03_SkySafari_7_Basic_App_Screenshots_iPhone_5.5.png/392x696bb.png",
@@ -31,12 +27,16 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/a5/9c/37a59c17-ad54-c853-4ba0-8dee53715b41/35ceea5d-884d-46b0-bce6-6e149eb06b89_10_SkySafari_7_Basic_App_Store_Screenshots_iPad_2nd_gen.png/552x414bb.png"
       ],
       "appletvScreenshotUrls": [],
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/9b/9a/369b9aca-85f9-d278-982b-2c7d40cca64a/BASIC-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg",
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/9b/9a/369b9aca-85f9-d278-982b-2c7d40cca64a/BASIC-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/9b/9a/369b9aca-85f9-d278-982b-2c7d40cca64a/BASIC-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/us/developer/simulation-curriculum-corp/id791341744?uo=4",
+      "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
       ],
-      "kind": "software",
       "advisories": [],
+      "kind": "software",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -166,12 +166,10 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "averageUserRating": 4.71851,
-      "contentAdvisoryRating": "4+",
-      "trackCensoredName": "SkySafari",
-      "trackViewUrl": "https://apps.apple.com/us/app/skysafari/id1257281849?uo=4",
-      "averageUserRatingForCurrentVersion": 4.71851,
       "sellerUrl": "http://skysafariastronomy.com/",
+      "averageUserRatingForCurrentVersion": 4.718,
+      "averageUserRating": 4.718,
+      "trackCensoredName": "SkySafari",
       "languageCodesISO2A": [
         "EN",
         "FR",
@@ -189,36 +187,38 @@
         "TH"
       ],
       "fileSizeBytes": "892100608",
-      "formattedPrice": "$4.99",
+      "formattedPrice": "$2.99",
+      "contentAdvisoryRating": "4+",
+      "userRatingCountForCurrentVersion": 17681,
+      "trackViewUrl": "https://apps.apple.com/us/app/skysafari/id1257281849?uo=4",
       "trackContentRating": "4+",
       "genres": [
         "Reference",
         "Education"
       ],
+      "price": 2.99,
       "artistId": 791341744,
       "artistName": "Simulation Curriculum Corp.",
-      "isVppDeviceBasedLicensingEnabled": true,
       "bundleId": "com.simulationcurriculum.SkySafari6",
-      "trackId": 1257281849,
-      "trackName": "SkySafari",
-      "releaseDate": "2017-12-22T19:54:37Z",
       "currentVersionReleaseDate": "2026-03-27T13:43:55Z",
+      "primaryGenreName": "Reference",
+      "primaryGenreId": 6006,
+      "sellerName": "Simulation Curriculum Corp.",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "genreIds": [
+        "6006",
+        "6017"
+      ],
       "releaseNotes": "New Features:\n- Support for Artemis II mission.\nFixed Bugs:\n- Fixed user experience when opening settings to Subscription when device has no internet.\n- Observing Weather displays date and times for SkyChart timezone, not device timezone.\n- StarSense Explorer configuration help images and video links fixed.\n- AstroBin image import field not obscured by keyboard.\n- Barlow Magnification correctly supports two decimal places.\n- Multiple UI / Theming fixes.",
       "version": "8.0.2",
       "wrapperType": "software",
       "currency": "USD",
       "description": "SkySafari 8 is a powerful planetarium that fits in your pocket, puts the universe at your fingertips, and is incredibly easy to use!\n\nSimply hold your device to the sky and quickly locate comets, planets, constellations, satellites, and millions of stars and deep sky objects. Whether you are a beginner or a longtime astronomy enthusiast, SkySafari 8 is your perfect stargazing companion, packed with interactive information, rich graphics, and a beautifully refined interface.\n\nWhat’s New in Version 8\n\n+ New Theme - A new look of the app with a fresh visual palette.\n\n+ Image Gallery - Explore the universe through astrophotography. Import images directly from AstroBin.\n\n+ Sky Tonight - Jump to the new Tonight section to see what’s visible in your sky right now. Expanded information has been designed to help plan your night and includes Moon & Sun info, calendar curations, and the best positioned deep sky and solar system objects.\n\nIf you're new to SkySafari 8, here’s what you can do:\n\n+ Point & Identify - Hold your device to the sky and instantly identify stars, constellations, planets, satellites, and more. The chart updates automatically with your movements.\n\n+ OneSky - See what other users are observing in real-time. This feature highlights objects in the sky chart and indicates how many users are looking at them.\n\n+ Orbit Mode - Lift off from Earth and travel to the planets, moons, and stars.\n\n+ Guided Audio Tours - Listen to more than four hours of audio narration to learn the history, mythology, and science of the heavens.\n\n+ Pronunciation Guide - Learn how to correctly pronounce the names of hundreds of celestial objects, from stars to constellations and planets.\n\n+ Simulate the Sky - See an eclipse in the past or future! Simulate the night sky from anywhere on Earth many years backward or forward in time.\n\n+ Night Vision - Preserve your eyesight after dark.\n\nSkySafari Premium Subscription Unlock amazing features with the optional Premium Subscription, including:\n\n+ Massive Database - Access a massive deep sky database.\n\n+ Custom Image Import - Upload and manage your own astrophotography images in the Image Gallery and show them in the sky chart. \n\n+ Enhanced Tools - Access curated news, events, connected stargazing features, a light pollution map, and more.\n\nFor telescope control and even more advanced features, check out SkySafari 8 Plus and SkySafari 8 Pro!\n\nTerms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/ \nPrivacy Policy: https://www.livesky.com/privacy.html",
       "minimumOsVersion": "18.6",
-      "userRatingCountForCurrentVersion": 17610,
-      "sellerName": "Simulation Curriculum Corp.",
-      "price": 4.99,
-      "primaryGenreName": "Reference",
-      "primaryGenreId": 6006,
-      "genreIds": [
-        "6006",
-        "6017"
-      ],
-      "userRatingCount": 17610
+      "releaseDate": "2017-12-22T19:54:37Z",
+      "trackId": 1257281849,
+      "trackName": "SkySafari",
+      "userRatingCount": 17681
     }
   ]
 }

@@ -2,10 +2,10 @@
   "resultCount": 1,
   "results": [
     {
-      "artistViewUrl": "https://apps.apple.com/cn/developer/yuhui-wang/id1888324190?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/41/f4/de41f41c-dc47-f98f-5c74-44c6c56d69a0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/41/f4/de41f41c-dc47-f98f-5c74-44c6c56d69a0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -135,42 +135,44 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "features": [
-        "iosUniversal"
-      ],
       "advisories": [],
       "kind": "software",
       "screenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/41/f4/de41f41c-dc47-f98f-5c74-44c6c56d69a0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
-      "userRatingCountForCurrentVersion": 8,
-      "trackCensoredName": "TileGrid 地毯设计",
-      "trackViewUrl": "https://apps.apple.com/cn/app/tilegrid-%E5%9C%B0%E6%AF%AF%E8%AE%BE%E8%AE%A1/id6761228817?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.5,
-      "artistId": 1888324190,
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/fd/9a/0efd9a2b-7c4e-99ba-8d6f-666d526a1ee5/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/fd/9a/0efd9a2b-7c4e-99ba-8d6f-666d526a1ee5/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/fd/9a/0efd9a2b-7c4e-99ba-8d6f-666d526a1ee5/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/cn/developer/yuhui-wang/id1888324190?uo=4",
+      "minimumOsVersion": "17",
+      "currentVersionReleaseDate": "2026-05-19T09:05:16Z",
+      "releaseNotes": "- FLOR 品牌登场:Flor完整目录加入 TileGrid。\n- 模板房间(Pattern Templates):精选预设花型库。新建房间时选一个模板,布局自动铺好;之后可自由替换调色,微调成自己想要的样子。\n- 半砖形状(Half Tile):新增可将任意砖块水平或垂直拆成两色的形状,与方形、三角、扇形并列,花式拼接更丰富。\n- 色卡更清晰:预烘焙 64×64 缩略图,纹理色卡在小尺寸下不再出现摩尔纹。\n- 新建房间的系列浏览:按系列查看品牌色卡,选定砖型尺寸前就能看清都有哪些系列可用。\n- 编辑器优化:形状选择器嵌在带色卡片中,第 4 个按钮常态露出一半,提示\"右边还可滑动\"—无需先拖动就能看到。形状切换时取消画笔状态;对齐模式自动隐藏工具栏,聚焦操作。",
       "artistName": "YUHUI WANG",
+      "price": 12.0,
       "genres": [
         "效率",
         "生活"
       ],
-      "price": 12.0,
+      "artistId": 1888324190,
+      "bundleId": "com.tilegrid.app",
+      "releaseDate": "2026-03-27T07:00:00Z",
       "primaryGenreName": "Productivity",
       "primaryGenreId": 6007,
-      "bundleId": "com.tilegrid.app",
+      "genreIds": [
+        "6007",
+        "6012"
+      ],
       "sellerName": "YUHUI WANG",
+      "isVppDeviceBasedLicensingEnabled": true,
       "trackId": 6761228817,
       "trackName": "TileGrid 地毯设计",
-      "releaseDate": "2026-03-27T07:00:00Z",
-      "minimumOsVersion": "17",
-      "currentVersionReleaseDate": "2026-04-28T23:23:50Z",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseNotes": "- 对比海报:在对比页选两个房间,点分享生成 4:5(纵向较高时 9:16)社交分享图。标题、副标题、评论引导都可编辑,中文模板已预设。\n- iOS 26 AR 修复:iOS 26.0.x 下的 AR 预览不再崩溃。\n- 新手指引优化:iPad 横竖屏切换时弹窗不再\"慢半拍\",所有设备步骤切换更顺滑。\n- 项目列表时间戳:只有真正修改过才更新,只是点开看不会更新时间。",
-      "version": "1.4.1",
+      "version": "1.5.0",
       "wrapperType": "software",
       "currency": "CNY",
-      "description": "准备铺方块地毯？TileGrid 帮你在购买之前先设计好房间的拼花方案。选真实色卡，尝试不同图案，清楚知道需要买多少。\n\n输入房间尺寸，从 4 大品牌、150 多种地毯颜色、5 种尺寸（25–50cm）中选择，然后开始涂色。点一下铺满整块、用三角形做斜拼、用扇形做弧线图案，还能把家具下面或柱子旁边不需要铺的区域标记出来。\n\nTileGrid 自动计算边缘裁切，告诉你每种颜色要买几块。设计好后，分享精美拼花卡片或导出材料清单。\n\n品牌与色卡：\n- Toli — 6 大系列、60+ 种经典色卡（AK27、AK35、FF24、FF42、AK95、NP4）\n- Toli 特别版 — 面包超人、Dick Bruna/Miffy、Hello Kitty 角色地毯（34 款）\n- SANKO — 25cm、30cm、45cm 三种尺寸，33 种纯色和花纹色卡\n- SankoPet — 30cm 宠物友好地毯，13 种颜色\n- 块块与共 — 呼乎、四时系列\n- 我的颜色 — 从相册导入你自己的地毯图片\n\n功能亮点：\n- 5 种涂色模式：方块、三角、扇形、封堵、纹理旋转\n- 5 种瓷砖尺寸：25cm、30cm、40cm、45cm、50cm\n- 纹理旋转 0°/90°/180°/270°，轻松排列方向性花纹\n- 自动计算边缘裁切 — 每一边的尺寸一目了然\n- 拖动调整网格对齐，让边缘对称美观\n- 分享带房间名和用量的精美布局卡片\n- 全屏预览，可保存高清图片到相册\n- 按颜色、品牌和裁切类型的用量汇总\n- 不限房间数量，随意创建\n- 50 步撤销/重做 — 放心大胆尝试\n- 离线可用，无需注册，数据保存在本地\n\n----\n联系我们：\n如果你有任何建议或想法，欢迎通过 App 内的“App Support”邮箱与我们联系，你的反馈是我们不断迭代的动力。\n\n商务合作：\n若您的地毯品牌希望入驻 TileGrid 平台，请准备好高清色卡并联系我们。我们非常期待将更多优质的色彩与材质带给用户。",
+      "description": "购买前，先在手机上规划你的地毯砖布局。\n\nTileGrid 让你使用 25cm 到 50cm 的地毯砖设计房间布局，5 大品牌、900+ 种真实色卡任你选择，混搭颜色和形状，打造独特的地面图案。还能导入你自己的地毯图片。无论是翻新书房还是设计商铺空间，TileGrid 帮你预览效果并精确计算所需砖数。\n\n品牌与色卡：\n\n- Toli — 14 大系列、145 种色卡（AK10、AK11、AK27、AK35、FF21、FF24、FF42、FF45、FF70、AK80、AK95、NP4、GA-400、GA-400A），另含面包超人、Dick Bruna/Miffy、Hello Kitty、Kids Road 等 5 个角色/特别版系列\n- FLOR — Flor.com 完整目录，183 款花型、723 个 50cm 配色，覆盖 Trina Turk、Arras、Get The Look、Carbon Negative 等系列\n- SANKO — 25cm、30cm、45cm 三种尺寸，33 种纯色和花纹色卡\n- SankoPet — 30cm 宠物友好地毯，13 种颜色\n- 块块与共 — 呼乎、四时系列（15 种颜色）\n- 我的颜色 — 从相册导入你自己的地毯图片\n\n瓷砖尺寸：\n\n- 25cm、30cm、40cm、45cm、50cm — 选择适合你项目的尺寸\n\n主要功能：\n\n- 涂色模式 — 点击填充真实产品色号\n- 模板房间 — 精选预设花型库，新建房间选模板自动铺好，之后自由换色\n- 纹理旋转 — 0°/90°/180°/270° 旋转纹理，轻松排列方向性花纹\n- 三角砖 — 对角切分，创造双色图案\n- 半砖 — 水平或垂直切分，左右/上下两色拼接\n- 扇形砖 — 四分之一圆弧，打造弧形点缀\n- 无砖区域 — 标记不铺砖的位置（家具下方、柱子等）\n- 分享卡片 — 分享带房间名和用量的精美布局卡片\n- 预览模式 — 无网格线查看成品效果，可保存图片\n- 订单汇总 — 按品牌、颜色精确统计砖数，智能装箱计算边缘切割\n- 网格对齐 — 拖动调整边缘切割位置，一键居中\n- 撤销/重做 — 完整历史记录，自由实验\n- 多房间管理 — 每个房间独立布局\n- 复制房间 — 以现有布局为基础创建变体",
+      "averageUserRatingForCurrentVersion": 4.44444,
+      "averageUserRating": 4.44444,
+      "trackCensoredName": "TileGrid 地毯设计",
       "languageCodesISO2A": [
         "EN",
         "JA",
@@ -179,15 +181,13 @@
         "ZH",
         "ZH"
       ],
-      "fileSizeBytes": "33166336",
+      "fileSizeBytes": "46937088",
       "formattedPrice": "¥12.00",
+      "contentAdvisoryRating": "4+",
+      "userRatingCountForCurrentVersion": 9,
+      "trackViewUrl": "https://apps.apple.com/cn/app/tilegrid-%E5%9C%B0%E6%AF%AF%E8%AE%BE%E8%AE%A1/id6761228817?uo=4",
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.5,
-      "genreIds": [
-        "6007",
-        "6012"
-      ],
-      "userRatingCount": 8
+      "userRatingCount": 9
     }
   ]
 }

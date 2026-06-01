@@ -2,10 +2,10 @@
   "resultCount": 1,
   "results": [
     {
-      "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
       ],
+      "isGameCenterEnabled": false,
       "supportedDevices": [
         "MacDesktop-MacDesktop",
         "iPhone5s-iPhone5s",
@@ -150,9 +150,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/84/4a/66/844a6698-0149-d008-2b46-2201b8a21e1c/mzl.kvlmppxp.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/21/1f/b3/211fb30a-d77d-9b69-080b-00fac222004d/tns.nfranqtu.png/392x696bb.png"
       ],
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/02/ca/0b02cadf-d5b7-aca7-c4f3-86e3f3bcc9d2/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/us/developer/shadow-launch-technology-limited/id687237009?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/02/ca/0b02cadf-d5b7-aca7-c4f3-86e3f3bcc9d2/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg",
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/52/f9/c4/52f9c44f-c0c2-5dde-32f5-0e317cceff2d/pr_source.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/79/84/52/7984527b-015d-0b2c-9b23-ac05742f6032/pr_source.png/576x768bb.png",
@@ -164,37 +161,37 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a4/31/57/a431574d-1e9b-5ee5-3bb1-ef397964b7f5/tns.jmlvxxzx.png/576x768bb.png"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/02/ca/0b02cadf-d5b7-aca7-c4f3-86e3f3bcc9d2/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "minimumOsVersion": "13.0",
-      "artistName": "Shadow Launch Technology Limited",
-      "artistId": 687237009,
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/c5/08/74c508c7-4491-1eb7-4e50-4de29c219386/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/c5/08/74c508c7-4491-1eb7-4e50-4de29c219386/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/c5/08/74c508c7-4491-1eb7-4e50-4de29c219386/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/us/developer/shadow-launch-technology-limited/id687237009?uo=4",
+      "bundleId": "com.liguangming.Shadowrocket",
       "genres": [
         "Utilities"
       ],
-      "price": 2.99,
-      "bundleId": "com.liguangming.Shadowrocket",
-      "sellerName": "Shadow Launch Technology Limited",
+      "artistId": 687237009,
+      "artistName": "Shadow Launch Technology Limited",
+      "releaseDate": "2015-04-14T02:09:18Z",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
+      "trackId": 932747118,
+      "trackName": "Shadowrocket",
       "genreIds": [
         "6002"
       ],
-      "releaseDate": "2015-04-14T02:09:18Z",
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
-      "trackName": "Shadowrocket",
-      "trackId": 932747118,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-02-19T01:45:26Z",
-      "releaseNotes": "* chore(task): add execution delay for background tasks\n* fix(config): optimize rule building to prevent crashes\n* fix(dns): resolve mDNS and DNS-SD query issues\n* fix(icon): resolve white artifact issue during app switcher animation\n* fix(mux): resolve AnyTLS pool mode and idle session management issues\n* fix(UI): resolve \"More\" button reset issue",
-      "version": "2.2.80",
+      "sellerName": "Shadow Launch Technology Limited",
+      "currentVersionReleaseDate": "2026-05-30T23:10:51Z",
+      "releaseNotes": "* feat(vless): enable compact stream buffers on iOS/tvOS to reduce concurrent memory usage\n* perf(tester): optimize group tester switch logic to compare current round results\n* perf(hysteria): stabilize upload pacing and congestion control for HYBBR\n* fix(dns): handle transient socket backpressure gracefully in DNS over QUIC/HTTP3\n* fix(http3): fix egress write stalls and prevent assertions on HTTP/3 connections\n* fix(fallback): prevent application crash when falling back to string policy group placeholders\n* fix(xhttp): allow NSNumber values in options parsing to preserve numeric parameters\n\nPlease note: Shadowrocket is a standalone networking utility and does not include any proxy services or server resources. Users are responsible for providing their own configurations.",
+      "version": "2.2.87",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Rule based proxy utility client for iPhone/iPad.\n\n- Capture all HTTP/HTTPS/TCP traffic from any applications on your device, and redirect to the proxy server.\n- Record and display HTTP, HTTPS, DNS requests from your iOS devices.\n- Configure rules using domain match, domain suffix, domain keyword, CIDR IP range, and/or GeoIP lookup.\n- Measure traffic usage and network speed on WiFi, cellular, direct and proxy connections.\n- Import rule files from URL or iCloud Drive.\n- Block ads by domain, user agent rules.\n- Local DNS Mapping.\n- Work on cellular networks.\n- Decrypt HTTPS traffic.\n- Perform URL rewrite.\n- Fully IPv6 supports.\n- Script filter supports.\n- Multi-level forward proxy.\n- Support kcptun, cloak, gost, v2ray plugins.\n- Support DNS over HTTPS, DNS over TLS, DNS over QUIC.",
-      "averageUserRating": 4.47391,
-      "contentAdvisoryRating": "4+",
-      "trackCensoredName": "Shadowrocket",
-      "trackViewUrl": "https://apps.apple.com/us/app/shadowrocket/id932747118?uo=4",
-      "averageUserRatingForCurrentVersion": 4.47391,
+      "minimumOsVersion": "13.0",
+      "averageUserRatingForCurrentVersion": 4.48303,
       "sellerUrl": "https://shadowlaunch.com/",
+      "averageUserRating": 4.48303,
+      "trackCensoredName": "Shadowrocket",
       "languageCodesISO2A": [
         "EN",
         "JA",
@@ -204,11 +201,14 @@
         "ZH",
         "VI"
       ],
-      "fileSizeBytes": "51160064",
+      "fileSizeBytes": "53056512",
       "formattedPrice": "$2.99",
+      "contentAdvisoryRating": "4+",
+      "userRatingCountForCurrentVersion": 11813,
+      "trackViewUrl": "https://apps.apple.com/us/app/shadowrocket/id932747118?uo=4",
       "trackContentRating": "4+",
-      "userRatingCountForCurrentVersion": 11483,
-      "userRatingCount": 11483
+      "price": 2.99,
+      "userRatingCount": 11813
     }
   ]
 }

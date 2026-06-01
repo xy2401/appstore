@@ -2,6 +2,7 @@
   "resultCount": 1,
   "results": [
     {
+      "features": [],
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/f5/66/6b/f5666bb5-3797-d2a6-ac50-a20e490ca50b/d497daf8-524b-4411-b313-ab662a6384b5_1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/02/32/6d/02326da2-b841-dc2a-2f0d-92951a5fb9f4/b64a1a95-648a-4ea3-ae76-1e48f62d9eb7_2.png/392x696bb.png",
@@ -11,7 +12,11 @@
       ],
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/1b/73/d7/1b73d7ed-85c4-7bf3-5cf0-1400c56d7549/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg",
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/1b/73/d7/1b73d7ed-85c4-7bf3-5cf0-1400c56d7549/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/1b/73/d7/1b73d7ed-85c4-7bf3-5cf0-1400c56d7549/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/cn/developer/%E5%BF%83%E6%80%A1-%E8%8A%AE/id1529887773?uo=4",
+      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -130,18 +135,24 @@
         "iPhone17Pro-iPhone17Pro",
         "iPhone17ProMax-iPhone17ProMax",
         "iPhone17-iPhone17",
-        "iPhoneAir-iPhoneAir"
+        "iPhoneAir-iPhoneAir",
+        "iPadPro11M5-iPadPro11M5",
+        "iPadPro11M5Cellular-iPadPro11M5Cellular",
+        "iPadPro13M5-iPadPro13M5",
+        "iPadPro13M5Cellular-iPadPro13M5Cellular",
+        "iPhone17e-iPhone17e",
+        "iPadAir11M4-iPadAir11M4",
+        "iPadAir11M4Cellular-iPadAir11M4Cellular",
+        "iPadAir13M4-iPadAir13M4",
+        "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "features": [],
       "advisories": [],
-      "isGameCenterEnabled": false,
       "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/cn/developer/%E5%BF%83%E6%80%A1-%E8%8A%AE/id1529887773?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/1b/73/d7/1b73d7ed-85c4-7bf3-5cf0-1400c56d7549/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/1b/73/d7/1b73d7ed-85c4-7bf3-5cf0-1400c56d7549/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.jpg",
-      "fileSizeBytes": "4992000",
+      "bundleId": "com.emrosie.savemoney",
       "minimumOsVersion": "11.0",
-      "averageUserRatingForCurrentVersion": 4.89703,
+      "averageUserRatingForCurrentVersion": 4.88608,
+      "averageUserRating": 4.88608,
+      "trackCensoredName": "365存钱打卡",
       "languageCodesISO2A": [
         "EN",
         "FR",
@@ -151,7 +162,11 @@
         "ZH",
         "ES"
       ],
+      "fileSizeBytes": "4992000",
       "formattedPrice": "¥1.00",
+      "contentAdvisoryRating": "4+",
+      "userRatingCountForCurrentVersion": 1703,
+      "trackViewUrl": "https://apps.apple.com/cn/app/365%E5%AD%98%E9%92%B1%E6%89%93%E5%8D%A1/id1592887590?uo=4",
       "trackContentRating": "4+",
       "artistId": 1529887773,
       "artistName": "心怡 芮",
@@ -162,28 +177,22 @@
       "price": 1.0,
       "trackId": 1592887590,
       "trackName": "365存钱打卡",
-      "bundleId": "com.emrosie.savemoney",
       "genreIds": [
         "6002",
         "6015"
       ],
       "releaseDate": "2021-12-29T08:00:00Z",
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
       "sellerName": "心怡 芮",
       "isVppDeviceBasedLicensingEnabled": true,
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
       "currentVersionReleaseDate": "2022-03-10T18:34:11Z",
-      "releaseNotes": "-优化界面显示",
       "version": "2.02",
       "wrapperType": "software",
       "currency": "CNY",
       "description": "■ 经典365爱心表格 ■ \n经典心形存钱法，每天任选表格中的一个金额存钱，每次完成一个金额都会有标记，养成存钱的好习惯，让你一步步靠近自己的小目标；\n\n■ 直观进度 ■\n已经存了多少钱？坚持了多少天？直观显示已存金额和已存天数，让你的进度一目了然；\n\n■ 自定义存钱金额 ■\n每个人的存钱目标不一样～大家可以按照自己能接受的金额来选择计划表，金额最低可以支持一位小数，目标是其次，最重要的是贵在坚持；",
-      "trackViewUrl": "https://apps.apple.com/cn/app/365%E5%AD%98%E9%92%B1%E6%89%93%E5%8D%A1/id1592887590?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.89703,
-      "trackCensoredName": "365存钱打卡",
-      "userRatingCountForCurrentVersion": 1651,
-      "userRatingCount": 1651
+      "releaseNotes": "-优化界面显示",
+      "userRatingCount": 1703
     }
   ]
 }
