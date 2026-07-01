@@ -2,15 +2,7 @@
   "resultCount": 1,
   "results": [
     {
-      "screenshotUrls": [],
-      "ipadScreenshotUrls": [],
-      "appletvScreenshotUrls": [],
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/c9/c6/72c9c6c7-24e6-a741-32f5-4945038a1ad2/V2boxPro-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/c9/c6/72c9c6c7-24e6-a741-32f5-4945038a1ad2/V2boxPro-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/c9/c6/72c9c6c7-24e6-a741-32f5-4945038a1ad2/V2boxPro-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/us/developer/hexa-software/id1702698881?uo=4",
       "isGameCenterEnabled": false,
-      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -140,14 +132,43 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
+      "advisories": [],
       "kind": "software",
+      "screenshotUrls": [],
+      "ipadScreenshotUrls": [],
+      "appletvScreenshotUrls": [],
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/dd/1b/a5dd1b4a-082c-ff4c-7ff9-8fac645b3433/V2boxPro-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/dd/1b/a5dd1b4a-082c-ff4c-7ff9-8fac645b3433/V2boxPro-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/dd/1b/a5dd1b4a-082c-ff4c-7ff9-8fac645b3433/V2boxPro-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/us/developer/hexa-software/id1702698881?uo=4",
       "features": [
         "iosUniversal"
       ],
-      "minimumOsVersion": "15.0",
-      "sellerUrl": "https://hexasoftware.dev/",
-      "averageUserRatingForCurrentVersion": 4.26316,
-      "averageUserRating": 4.26316,
+      "genres": [
+        "Utilities"
+      ],
+      "price": 2.99,
+      "artistId": 1702698881,
+      "artistName": "Hexa Software",
+      "sellerName": "HEXA SOFTWARE YAZILIM LIMITED SIRKETI",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "trackId": 6756966178,
+      "trackName": "V2Box Pro - V2ray Client",
+      "releaseDate": "2026-05-16T07:00:00Z",
+      "genreIds": [
+        "6002"
+      ],
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
+      "currentVersionReleaseDate": "2026-06-29T23:39:59Z",
+      "releaseNotes": "- Optimize Memory Usage\n- New onboarding and interface customization\n- Faster import, ping, and handling for large server lists\n- Improved config management and group behavior\n- Better VPN reload, IP refresh, and diagnostics\n- New reset options for tunnel, settings, and app data\n- UI polish, stability fixes, and compatibility improvements\n---------\n- Added iCloud backup and sync support for your configurations and settings.\n- Added optional legacy connection slider toggle in Appearance settings.\n- New Appearance Settings section with expanded customization options.\n- Improved configuration restore reliability with better storage lifecycle management.\n- Minor UI and color refinements throughout the app.\n\n---------\n- Fix custom JSON routing issue\n- Fix DNS routing issue\n- Improve parsing custom JSON\n- Optimize XHTTP memory usage.\n- Added a swipe-right gesture to ping a single configuration directly from the list.\n- Added secure .v2box configuration export and import with optional password protection, expiration dates, and hardware-specific device restrictions.\n- Added custom Xray TUN configurations including customizable MTU, DNS servers, and routing gateways.\n- Added Hysteria2 and WireGuard protocol configurations to server chain options.\n- Redesigned clipboard copy and share buttons to a modern, pill-shaped design with status checkmarks.\n- Added support for custom local SOCKS sharing ports, group pinning, and sorted subscription configurations.\n- Improved robustness with configuration rollbacks on failed updates, dynamic VPN ping status checks, and support for optional JSON parsing fields.",
+      "version": "10.1.3",
+      "wrapperType": "software",
+      "currency": "USD",
+      "description": "V2box Pro - VPN Internet network proxy , Supports multiple proxy protocols, such as Shadowsocks, V2ray, Vmess, Trojan , SSH , Socks, hysteria2, Ping Tunnel, Wireguard, DNSTT\n\n\n\nFeatures:\n\n- Support for adding custom servers proxy (Shadowsocks, v2ray, trojan, vless, vmess, SSH, hysteria2, Ping Tunnel, Wireguard)\n- Support Reality (xray)\n- Support vless vision\n- Support utls\n- Support SSH with UDP Gateway (udpgw)\n\n- Network Combiner, Improve speed and stability (Merge WiFi & Cellular)\n- Stop on Sleep (Improve Battery usage)\n- Share on Local SOCKS5 / HTTP (accessible over network)\n- Custom DNS setup (DOU,DOH,DOT)\n- Custom Flexible Routing\n\n\n\n- Multiple encryption protocol support, AES-128-GCM, AES-192-GCM, AES-256-GCM, Chacha20-IETF, Chacha20 - ietf - poly1305, xchacha20 ietf -- poly1305\n\n- Stealth and stable, no need to log in and register, easy to use\n\n- Does not save any user log information\n\n- Wi-Fi Security when using Public Hotspots\n\n- Protect your network IP and privacy security\n\n- Unmatched network speed and performance\n\n\n\n\nTerms of Services: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\n\n\nPrivacy Policy: https://hexasoftware.dev/v2box-terms/",
+      "userRatingCountForCurrentVersion": 42,
+      "averageUserRatingForCurrentVersion": 3.90476,
+      "averageUserRating": 3.90476,
       "trackCensoredName": "V2Box Pro - V2ray Client",
       "languageCodesISO2A": [
         "AR",
@@ -160,36 +181,15 @@
         "UK",
         "VI"
       ],
-      "fileSizeBytes": "155505664",
+      "fileSizeBytes": "150279168",
       "formattedPrice": "$2.99",
       "contentAdvisoryRating": "4+",
-      "userRatingCountForCurrentVersion": 19,
       "trackViewUrl": "https://apps.apple.com/us/app/v2box-pro-v2ray-client/id6756966178?uo=4",
       "trackContentRating": "4+",
-      "artistId": 1702698881,
-      "artistName": "Hexa Software",
-      "genres": [
-        "Utilities"
-      ],
-      "price": 2.99,
-      "sellerName": "HEXA SOFTWARE YAZILIM LIMITED SIRKETI",
-      "releaseDate": "2026-05-16T07:00:00Z",
-      "trackId": 6756966178,
-      "trackName": "V2Box Pro - V2ray Client",
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
-      "genreIds": [
-        "6002"
-      ],
-      "currentVersionReleaseDate": "2026-05-28T14:13:06Z",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseNotes": "Enhanced Reliability: Internal network requests now automatically retry through the active VPN tunnel if direct connection fails during startup.\nNew Speed Test Options: Measure node latency using TCP, ICMP (Ping), or Connection tests with customizable concurrency and timeout limits.\nPerformance Boost: Rewritten speed test engine runs checks in parallel, completing latency tests much faster.\nInterface Polishing: Refined slide-to-connect gesture animations and improved loading indicators.\nUnder-the-Hood Fixes: Resolved minor bugs related to subscription updates, user-agent headers, and routing stability.",
-      "version": "10.0.6",
-      "wrapperType": "software",
-      "currency": "USD",
-      "description": "V2box Pro - VPN Internet network proxy , Supports multiple proxy protocols, such as Shadowsocks, V2ray, Vmess, Trojan , SSH , Socks, hysteria2, Ping Tunnel, Wireguard, DNSTT\n\n\n\nFeatures:\n\n- Support for adding custom servers proxy (Shadowsocks, v2ray, trojan, vless, vmess, SSH, hysteria2, Ping Tunnel, Wireguard)\n- Support Reality (xray)\n- Support vless vision\n- Support utls\n- Support SSH with UDP Gateway (udpgw)\n\n- Network Combiner, Improve speed and stability (Merge WiFi & Cellular)\n- Stop on Sleep (Improve Battery usage)\n- Share on Local SOCKS5 / HTTP (accessible over network)\n- Custom DNS setup (DOU,DOH,DOT)\n- Custom Flexible Routing\n\n\n\n- Multiple encryption protocol support, AES-128-GCM, AES-192-GCM, AES-256-GCM, Chacha20-IETF, Chacha20 - ietf - poly1305, xchacha20 ietf -- poly1305\n\n- Stealth and stable, no need to log in and register, easy to use\n\n- Does not save any user log information\n\n- Wi-Fi Security when using Public Hotspots\n\n- Protect your network IP and privacy security\n\n- Unmatched network speed and performance\n\n\n\n\nTerms of Services: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\n\n\nPrivacy Policy: https://hexasoftware.dev/v2box-terms/",
+      "sellerUrl": "https://hexasoftware.dev/",
       "bundleId": "dev.hexasoftware.V2Box",
-      "userRatingCount": 19
+      "minimumOsVersion": "15.0",
+      "userRatingCount": 42
     }
   ]
 }

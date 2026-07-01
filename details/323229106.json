@@ -2,7 +2,6 @@
   "resultCount": 1,
   "results": [
     {
-      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/65/54/e5/6554e54a-854b-8270-2d6d-ca73cb449412/98def561-b8fc-4650-8946-15239d81a878_Usecase_01.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/81/df/ed/81dfedae-d72e-a25d-24e7-2f43b64ab618/cf7d60dc-7f33-474b-ab60-bd3b9ff24dc0_Usecase_02.jpg/392x696bb.jpg",
@@ -27,10 +26,12 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/00/9b/cb/009bcb58-2b4c-9cd9-1c52-764fe78a1e94/11d1d63c-5e17-4845-9e57-ed38f09d31ab_Usecase_10.jpg/576x768bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/26/c6/ff26c6fe-3775-f512-4ee8-5fb91905b3a1/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/32/51/b132510d-4be4-f5bc-8982-15333eb0066d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
       ],
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -160,17 +161,13 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "advisories": [],
       "kind": "software",
       "artistViewUrl": "https://apps.apple.com/us/developer/waze-inc/id323229109?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/26/c6/ff26c6fe-3775-f512-4ee8-5fb91905b3a1/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/26/c6/ff26c6fe-3775-f512-4ee8-5fb91905b3a1/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
-      "minimumOsVersion": "16.0",
-      "currentVersionReleaseDate": "2026-05-27T07:35:31Z",
-      "releaseNotes": "Saving time & avoiding traffic is even simpler with this update:\n\nFixed a bug so the compass arrow is displayed correctly.\n\nPlease note the newest version of the Waze app includes all the changes made in previous versions. Updating your Waze app to the newest Waze version means that all the changes made in previous versions will be downloaded to your device.",
-      "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 3167791,
-      "trackContentRating": "17+",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/32/51/b132510d-4be4-f5bc-8982-15333eb0066d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/32/51/b132510d-4be4-f5bc-8982-15333eb0066d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
+      "averageUserRatingForCurrentVersion": 4.8445,
+      "bundleId": "com.waze.iphone",
+      "sellerUrl": "http://www.waze.com",
       "languageCodesISO2A": [
         "AF",
         "AR",
@@ -220,37 +217,40 @@
         "UZ",
         "CY"
       ],
-      "fileSizeBytes": "226840576",
-      "averageUserRatingForCurrentVersion": 4.84476,
-      "sellerUrl": "http://www.waze.com",
+      "fileSizeBytes": "229452800",
+      "formattedPrice": "Free",
+      "userRatingCountForCurrentVersion": 3174013,
+      "trackContentRating": "17+",
+      "minimumOsVersion": "16.0",
+      "artistId": 323229109,
+      "artistName": "Waze Inc.",
       "genres": [
         "Navigation",
         "Travel"
       ],
       "price": 0.0,
-      "bundleId": "com.waze.iphone",
-      "releaseDate": "2009-08-01T21:14:40Z",
-      "trackId": 323229106,
-      "trackName": "Waze Navigation & Live Traffic",
       "primaryGenreName": "Navigation",
       "primaryGenreId": 6010,
       "genreIds": [
         "6010",
         "6003"
       ],
-      "sellerName": "waze",
       "isVppDeviceBasedLicensingEnabled": true,
-      "version": "5.19.1.0",
+      "sellerName": "waze",
+      "trackName": "Waze Navigation & Live Traffic",
+      "trackId": 323229106,
+      "currentVersionReleaseDate": "2026-06-24T05:50:04Z",
+      "releaseNotes": "This version includes several bug fixes and performance improvements.\n\nPlease note the newest version of the Waze app includes all the changes made in previous versions. Updating your Waze app to the newest Waze version means that all the changes made in previous versions will be downloaded to your device.",
+      "version": "5.20.1.0",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Know what's ahead on the road with the help from other drivers. Waze is a live map that harnesses the local knowledge of tens of millions of drivers around the world. Drivers safely and confidently reach their everyday destinations thanks to Waze map’s GPS navigation, live traffic updates, real-time safety alerts (including construction, accidents, crashes, police, potholes, and more), and accurate ETAs.\n\n\nMake your next drive more predictable and stress-free:\n• Get there faster with real-time directions, accurate ETAs, and automatic rerouting based on live traffic, incidents, and road closures\n• Even if you know the way, avoid surprises on the road ahead with safety alerts for accidents, crashes, construction, objects on the road, potholes, speed bumps, sharp curves, bad weather, emergency vehicles, railroad crossings, and more\n• Steer clear of tickets by knowing where police and red light & speed cameras are located\n• Share what’s happening on the road with other drivers by reporting live incidents and hazards\n• Stay informed of upcoming speed limit changes, and keep your speedometer in check\n• Know which lane to be in with multi-lane guidance\n• See toll pricing and choose to avoid tolls along your routes\n• Add road passes and vignettes for HOV lanes and restricted traffic zones\n• Find gas / fuel stations & prices and EV charging stations along your route\n• Locate and compare parking lots and their prices near your destination\n• Use voice-guided turn-by-turn navigation from a variety of languages, local accents, and your favorite celebrities\n• Plan your next drive by checking ETAs by future departure or arrival times\n• Use your favorite audio apps (for podcasts, music, news, audiobooks) directly within Waze\n• Sync Waze to your car’s built-in display through Apple CarPlay\n\n\n* Some features are not available in all countries\n\n\n* Waze navigation is not intended for emergency or oversized vehicles\n\n\nYou can manage your in-app Waze Privacy Settings at any time. Learn more about the Waze privacy policy here, www.waze.com/legal/privacy.",
       "trackCensoredName": "Waze Navigation & Live Traffic",
       "trackViewUrl": "https://apps.apple.com/us/app/waze-navigation-live-traffic/id323229106?uo=4",
       "contentAdvisoryRating": "17+",
-      "averageUserRating": 4.84476,
-      "artistId": 323229109,
-      "artistName": "Waze Inc.",
-      "userRatingCount": 3167791
+      "averageUserRating": 4.8445,
+      "releaseDate": "2009-08-01T21:14:40Z",
+      "userRatingCount": 3174013
     }
   ]
 }

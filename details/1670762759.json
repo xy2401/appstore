@@ -2,9 +2,6 @@
   "resultCount": 1,
   "results": [
     {
-      "features": [
-        "iosUniversal"
-      ],
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/79/7b/e9/797be9e6-7725-7388-5851-bc33cd04912d/0561f117-d91f-4103-a150-f1883ca3f01a_fiveinch6.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/30/47/a1/3047a141-62d3-2039-a215-a4ef4bb5b610/6ffdc9b2-b162-41fb-a927-2cb7a6d2d473_fiveinch2.png/392x696bb.png",
@@ -156,45 +153,48 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
       "kind": "software",
-      "userRatingCountForCurrentVersion": 260,
-      "bundleId": "com.BitPlague.Necrometer",
-      "averageUserRating": 2.77308,
-      "trackCensoredName": "Necrometer",
-      "languageCodesISO2A": [
-        "EN"
+      "features": [
+        "iosUniversal"
       ],
-      "fileSizeBytes": "181947392",
       "formattedPrice": "$9.99",
       "contentAdvisoryRating": "12+",
       "trackViewUrl": "https://apps.apple.com/us/app/necrometer/id1670762759?uo=4",
       "trackContentRating": "12+",
-      "averageUserRatingForCurrentVersion": 2.77308,
+      "averageUserRating": 2.76981,
+      "trackCensoredName": "Necrometer",
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "userRatingCountForCurrentVersion": 265,
+      "averageUserRatingForCurrentVersion": 2.76981,
+      "fileSizeBytes": "181947392",
       "artistId": 1119043156,
       "artistName": "chris rogers",
-      "genres": [
-        "Utilities",
-        "Entertainment"
-      ],
-      "currentVersionReleaseDate": "2024-11-02T07:36:21Z",
       "price": 9.99,
+      "sellerName": "BitPlague LLC",
+      "bundleId": "com.BitPlague.Necrometer",
+      "trackId": 1670762759,
+      "trackName": "Necrometer",
+      "releaseNotes": "Several improvements the Text mode word generation techniques.\n \nAdded transcription log for Text mode that keeps track of words generated for each session. This can be found in the settings menu under the Text tab by pressing the Transcription Log button.",
       "genreIds": [
         "6002",
         "6016"
       ],
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
-      "trackName": "Necrometer",
-      "trackId": 1670762759,
-      "releaseDate": "2023-05-25T07:00:00Z",
-      "releaseNotes": "Several improvements the Text mode word generation techniques.\n \nAdded transcription log for Text mode that keeps track of words generated for each session. This can be found in the settings menu under the Text tab by pressing the Transcription Log button.",
+      "currentVersionReleaseDate": "2024-11-02T07:36:21Z",
       "version": "1.3",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Necrometer\n\nDesigned for ghost hunters and paranormal enthusiasts. This multifunctional app can be used to detect and communicate with spirits. We have taken known spirit communication techniques and theories and have implemented them here in new and innovative ways. \n\n-Meter that detects and measures magnetic energy\n-Text and Speech modes\n-2 Built in Text To Speech A.I. systems\n-3 Voices\n-Pitch control with randomization option\n-Reverb and Echo audio effects\n\nThe Meter:\nIt is believed that spirits can affect magnetic energy fields. Using your phone’s Magnetometer sensor this app can detect levels of magnetic interference in the environment. These fluctuations of energy fields have a direct influence on the communication.\n-Meter noise (optional) reacts to fluctuations in the meter\n\nText Mode:\nSimply slide the power button over to \"Text\" and begin asking your questions. Walking around a location you can detect energy anomalies and various levels of magnetic interference. Words and phrases will begin coming through the app. The relevance of the communication is determined by multiple factors including spirit connection and strength. Those who have a stronger connection to the otherside may experience more direct and relevant communication. \nSimilar to the famous Ovilus ITC device, the Necrometer app is designed to facilitate spirit communication by measuring fluctuations of energy in the environment. The idea that spirits can manipulate electronic devices for purposes of communication is well documented. Based on the theory of random selection and known evidence of energy manipulation, the Necrometer app utilizes these known methods of spirit communication and paranormal phenomena. \n-Access to over 60k words/phrases\n-Custom word list, Add your own words and phrases\n\nSpeech Mode:\nSliding the power button over to \"Speech\" will turn on this unique mode of the app. Created to facilitate ghost box/ EVP like communication, the speech mode of the app provides audible spirit communication like no other. Generating speech sounds from within the app, there are no sound banks, word lists, radio, or any other pre-recorded audio. Spirits can use and manipulate these random speech sounds to form coherent messages, an idea rooted in ITC/EVP theory. Some of these messages may be heard in real time similar to a ghost box, other EVP-like communication can be heard on playback of the recorded audio. Again, the strength and level of communication being recieved depends on various factors. Coherent messages can only be obtained through communication with spirit, otherwise only unclear speech sounds will be heard.\n-Rate slider to increase/decrease rate of audio coming through\n\nThe Necrometer app is an advanced all-in-one app that can be used to detect energy anomalies in the area, produce words and phrases that can provide relevant clues/information, and provide audible ITC/EVP communication from spirit.",
       "minimumOsVersion": "14.0",
-      "sellerName": "BitPlague LLC",
       "isVppDeviceBasedLicensingEnabled": true,
-      "userRatingCount": 260
+      "releaseDate": "2023-05-25T07:00:00Z",
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
+      "genres": [
+        "Utilities",
+        "Entertainment"
+      ],
+      "userRatingCount": 265
     }
   ]
 }

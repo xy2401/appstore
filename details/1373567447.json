@@ -2,9 +2,6 @@
   "resultCount": 1,
   "results": [
     {
-      "artistViewUrl": "https://apps.apple.com/us/developer/loon-lab-limited/id1631584654?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/59/05/fa590594-927f-0a8a-a35f-e3ca1a57d383/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/59/05/fa590594-927f-0a8a-a35f-e3ca1a57d383/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
@@ -158,18 +155,18 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/d7/b2/4e/d7b24e51-f61e-69b9-332a-8278ab7ec8e8/35be4b5e-0050-457d-aec7-005379f30021_IMG_0007.PNG/552x414bb.png"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/59/05/fa590594-927f-0a8a-a35f-e3ca1a57d383/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "trackCensoredName": "Loon",
-      "trackViewUrl": "https://apps.apple.com/us/app/loon/id1373567447?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 3.948,
-      "minimumOsVersion": "14.0",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/c4/5f/fec45fa1-1194-c944-7c5c-a939e1ee0dfe/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/us/developer/loon-lab-limited/id1631584654?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/c4/5f/fec45fa1-1194-c944-7c5c-a939e1ee0dfe/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/c4/5f/fec45fa1-1194-c944-7c5c-a939e1ee0dfe/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
+      "artistId": 1631584654,
+      "artistName": "Loon Lab Limited",
       "genres": [
         "Utilities",
         "Developer Tools"
       ],
-      "trackId": 1373567447,
-      "trackName": "Loon",
+      "price": 7.99,
+      "bundleId": "com.ruikq.decar",
       "genreIds": [
         "6002",
         "6026"
@@ -177,15 +174,16 @@
       "primaryGenreName": "Utilities",
       "primaryGenreId": 6002,
       "sellerName": "Loon Lab Limited",
+      "releaseNotes": "This release introduces a major overhaul of the UDP networking stack and substantial improvements to QUIC, WireGuard, and related protocols, delivering better performance, lower memory usage, and improved stability.\n\nUDP & QUIC\n\n* Rebuilt the UDP stack to improve small-packet forwarding performance, thread scheduling, and memory efficiency.\n* Added dynamic timeout management for bursty short-lived UDP connections to reduce resource consumption and prevent excessive memory usage.\n* Reworked the QUIC implementation with significant improvements in performance, stability, and memory utilization.\n* Optimized QUIC-based protocols including Hysteria2, DoQ, and DoH3 for better throughput and reliability.\n* Added Port Hopping and Proxy Chain support for Hysteria2.\n* Reworked the WireGuard implementation with major improvements in performance, stability, and memory efficiency.\n* Improved UDP protocol resilience during network transitions and under unstable network conditions.\n* Enhanced QUIC detection and fallback handling.\n\nTCP & Protocol Enhancements\n\n* Optimized the TCP stack for improved scalability and concurrency.\n* Added Reality support for VMess, Trojan, and AnyTLS.\n* Added TLS fingerprint options.\n* Added Obfuscation (Obfs) support for Shadowsocks 2022.\n\nOther Improvements\n\n* Packet Capture now supports HAR export and cURL generation for individual requests.\n* Fixed several HTTP/2 to HTTP/1.1 compatibility issues.\n* Refined request record categories and improved list presentation.\n* Fixed multiple crashes and included various performance improvements and bug fixes.",
+      "releaseDate": "2018-05-09T23:02:09Z",
+      "trackId": 1373567447,
+      "trackName": "Loon",
       "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-05-25T20:09:27Z",
-      "releaseNotes": "- Added support for custom ports in DNS mapping servers\n- Optimized AnyTLS memory usage and overall stability",
-      "version": "3.4.0",
+      "currentVersionReleaseDate": "2026-06-25T19:46:51Z",
+      "version": "3.5.0",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Loon is not just another network tool—it's a powerhouse for debugging and optimizing your network connections. With Loon, you're in command, equipped with an array of features to streamline your network troubleshooting experience. Here's what sets Loon apart:\n\nProtocol Support: Loon supports a wide range of protocols including ss, ssr, vmess, trojan, vless, HTTP/S, SOCKS5, hysteria2,Shadow-TLS, and WireGuard. No matter your preferred protocol, Loon has you covered.\n\nComprehensive Traffic Capture: Capture all HTTP, HTTPS, TCP, and UDP traffic on your device effortlessly and redirect it to your proxy server for thorough analysis and debugging.\n\nDetailed Record-Keeping: Gain insights into your network activity with Loon's ability to record HTTP and HTTPS request and response headers and bodies. With this level of detail, troubleshooting becomes a breeze.\n\nMITM Capabilities: Loon offers Man-in-the-Middle (MITM) functionality over HTTP2 connections, allowing you to intercept and analyze encrypted traffic for deeper debugging insights.\n\nAdvanced Routing Options: Take control of your network traffic with Loon's powerful router, which can be configured based on domain, URL, IP, Protocol, Port, and HTTP headers. This granular control ensures that your traffic flows exactly where you need it to go.\n\nRobust Ad-blocking: Loon's ad-blocking capabilities are second to none. Develop custom rules, rewriting, and scripting to effectively block unwanted ads and streamline your browsing experience.\n\nTraffic Usage Monitoring: Stay informed about your data usage with Loon's built-in traffic measurement tools, giving you valuable insights into your network activity.\n\nCutting-edge DNS Features: Loon boasts full IPv6 support, asynchronous DNS requests, and the ability to query DNS over HTTPS, QUIC, and HTTP3. Record DNS results and ensure a seamless DNS resolution experience.\n\nExtendable Functionality: Unlock limitless possibilities with Loon's support for using JavaScripts to extend proxy functionality. Customize and tailor Loon to meet your specific needs and preferences.\n\nExperience the next level of network debugging with Loon. Download now and take control of your network connections like never before.\n\nFor more about proxy:\nhttps://nsloon.app/docs/intro\n\nJoin our telegram group:\nhttps://t.me/Loon0x00\n\nContact us\nloon0x00@gmail.com",
-      "averageUserRatingForCurrentVersion": 3.948,
-      "bundleId": "com.ruikq.decar",
       "sellerUrl": "https://nsloon.app",
       "languageCodesISO2A": [
         "EN",
@@ -193,15 +191,17 @@
         "ZH",
         "ZH"
       ],
-      "fileSizeBytes": "62130176",
+      "fileSizeBytes": "66435072",
       "formattedPrice": "$7.99",
-      "userRatingCountForCurrentVersion": 500,
       "trackContentRating": "4+",
-      "releaseDate": "2018-05-09T23:02:09Z",
-      "price": 7.99,
-      "artistId": 1631584654,
-      "artistName": "Loon Lab Limited",
-      "userRatingCount": 500
+      "averageUserRatingForCurrentVersion": 3.94212,
+      "userRatingCountForCurrentVersion": 501,
+      "minimumOsVersion": "14.0",
+      "trackCensoredName": "Loon",
+      "trackViewUrl": "https://apps.apple.com/us/app/loon/id1373567447?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 3.94212,
+      "userRatingCount": 501
     }
   ]
 }

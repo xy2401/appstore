@@ -2,11 +2,10 @@
   "resultCount": 1,
   "results": [
     {
-      "artistViewUrl": "https://apps.apple.com/us/developer/swisscows-ag/id1013972705?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/d1/22/88d12239-c862-2498-357c-bec92746b254/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/d1/22/88d12239-c862-2498-357c-bec92746b254/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
-      "features": [],
+      "advisories": [
+        "Unrestricted Web Access"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -136,9 +135,6 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "advisories": [
-        "Unrestricted Web Access"
-      ],
       "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b2/ae/cb/b2aecb76-8fcc-7ecc-2590-91c7dacb9068/b8a44c4e-f050-42dd-90c2-213a3e3a4f74_Frame_787.jpg/392x696bb.jpg",
@@ -149,33 +145,37 @@
       ],
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/d1/22/88d12239-c862-2498-357c-bec92746b254/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/60x60bb.jpg",
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/d1/22/88d12239-c862-2498-357c-bec92746b254/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
-      "trackCensoredName": "TeleGuard",
-      "trackViewUrl": "https://apps.apple.com/us/app/teleguard/id1505636751?uo=4",
-      "contentAdvisoryRating": "17+",
-      "averageUserRating": 3.02991,
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/d1/22/88d12239-c862-2498-357c-bec92746b254/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/us/developer/swisscows-ag/id1013972705?uo=4",
+      "features": [],
+      "minimumOsVersion": "12.1",
+      "userRatingCountForCurrentVersion": 236,
+      "primaryGenreName": "Social Networking",
+      "primaryGenreId": 6005,
       "artistId": 1013972705,
       "artistName": "Swisscows AG",
       "genres": [
         "Social Networking"
       ],
+      "releaseNotes": "- minor improvements",
+      "trackId": 1505636751,
+      "trackName": "TeleGuard",
+      "releaseDate": "2021-01-19T08:00:00Z",
+      "currentVersionReleaseDate": "2026-04-17T16:08:20Z",
       "bundleId": "ch.swisscows.messenger.teleguardapp",
       "genreIds": [
         "6005"
       ],
-      "isVppDeviceBasedLicensingEnabled": true,
-      "trackId": 1505636751,
-      "trackName": "TeleGuard",
-      "primaryGenreName": "Social Networking",
-      "primaryGenreId": 6005,
-      "sellerName": "Swisscows AG",
-      "currentVersionReleaseDate": "2026-04-17T16:08:20Z",
-      "releaseNotes": "- minor improvements",
       "version": "4.0.10",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Anonymity guaranteed - no registration\n\nThere is no connection to a telephone number and no collection of user identification data. The TeleGuard-ID is your very personal identification number that you need in order to connect with your friends. Every TeleGuard user receives an ID number and a QR code, which can be sent out to get in touch with others. \n\n\nDesigned to be the most secure messenger in the world\n\nTeleGuard's focus is on protecting privacy and confidential communication. TeleGuard is the secure messenger from Swisscows. Swisscows has set itself the task of protecting its users from data misuse in every situation. As the smartphone is the most widely used medium in the world nowadays, a secure messenger is indispensable.\n\nHighly secure and modern server\n\nAll servers are located in the data centers in Switzerland. A complex encryption system is used for all transmitted data and absolutely no user data is stored on the servers. Everything is absolutely anonymous.\n\nThat's why TeleGuard is better than the others\n\nTeleGuard encrypts every message and voice call with the one of the best encryption algorithm currently available: SALSA 20. Since our servers are in Switzerland, we are not subject to the data protection laws of the EU / USA and do not have to pass on any data.\n\nHow is my privacy secured?\n\nHTTPS, end-to-end encryption, deletion of messages from the server after reading. No user data, neither IP address nor other, is recorded or stored.\n\nFunctions\n\n•\tSend text and voice messages\n•\tShare pictures and videos\n•\tVideo and voice telephony\n•\tSend files\n•\tCreate groups\n•\tThe identity of contacts can be verified by scanning the QR code.\n\nSupport\n\nIf you have further questions, you will find our FAQs here: teleguard.com/en#faq",
-      "averageUserRatingForCurrentVersion": 3.02991,
+      "averageUserRatingForCurrentVersion": 3.06356,
+      "sellerUrl": "https://www.teleguard.com/",
+      "averageUserRating": 3.06356,
+      "trackCensoredName": "TeleGuard",
       "languageCodesISO2A": [
         "AR",
         "HY",
@@ -206,13 +206,13 @@
       ],
       "fileSizeBytes": "107995136",
       "formattedPrice": "$2.99",
-      "userRatingCountForCurrentVersion": 234,
+      "contentAdvisoryRating": "17+",
+      "trackViewUrl": "https://apps.apple.com/us/app/teleguard/id1505636751?uo=4",
       "trackContentRating": "17+",
-      "sellerUrl": "https://www.teleguard.com/",
-      "minimumOsVersion": "12.1",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "Swisscows AG",
       "price": 2.99,
-      "releaseDate": "2021-01-19T08:00:00Z",
-      "userRatingCount": 234
+      "userRatingCount": 236
     }
   ]
 }

@@ -2,10 +2,6 @@
   "resultCount": 1,
   "results": [
     {
-      "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -135,41 +131,28 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "advisories": [],
-      "kind": "software",
       "screenshotUrls": [],
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/4c/03/294c031b-cfa5-5dbd-0498-d10d0c17ea84/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/512x512bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/ca/7e/35ca7ebc-bb1b-3f58-6f46-67dd96055629/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/512x512bb.jpg",
+      "advisories": [],
+      "features": [
+        "iosUniversal"
+      ],
       "artistViewUrl": "https://apps.apple.com/us/developer/threema-gmbh/id535112011?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/4c/03/294c031b-cfa5-5dbd-0498-d10d0c17ea84/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/4c/03/294c031b-cfa5-5dbd-0498-d10d0c17ea84/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/ca/7e/35ca7ebc-bb1b-3f58-6f46-67dd96055629/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/ca/7e/35ca7ebc-bb1b-3f58-6f46-67dd96055629/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.jpg",
+      "kind": "software",
+      "isGameCenterEnabled": false,
       "minimumOsVersion": "17.0",
-      "artistId": 535112011,
-      "artistName": "Threema GmbH",
-      "genres": [
-        "Social Networking",
-        "Utilities"
-      ],
-      "price": 6.99,
-      "bundleId": "ch.threema.iapp",
-      "genreIds": [
-        "6005",
-        "6002"
-      ],
-      "primaryGenreName": "Social Networking",
-      "primaryGenreId": 6005,
+      "fileSizeBytes": "113361920",
+      "formattedPrice": "$6.99",
+      "userRatingCountForCurrentVersion": 685,
+      "trackContentRating": "4+",
+      "releaseNotes": "• Fixed an issue that caused only a black screen to be displayed in certain cases\n\nThreema 7.2.4\n• Fixed a bug that could occur when opening chats\n• Fixed a bug that could occur when connecting to the server\n• Fixed a bug that occurred when deleting or editing sent messages\n• Various improvements related to VoiceOver and voice messages\n\nThreema 7.2.3\n• Fixed a bug related to restoring a Threema Safe backup with an own server\n\nThreema 7.2.1\n• Easy device switching: When switching to a new iPhone, Threema data can be transferred directly to the new device using Quick Start\n• Various performance optimizations\n• General improvements and various bug fixes\n\nThreema 7.2\n• Fixed several bugs related to the Liquid Glass design\n• Fixed several bugs related to individual and group calls\n• Fixed several bugs related to forwarding messages\n• Various performance optimizations\n• General improvements and various bug fixes",
       "sellerName": "Threema GmbH",
       "isVppDeviceBasedLicensingEnabled": true,
-      "trackId": 578665578,
-      "trackName": "Threema. The Secure Messenger",
-      "currentVersionReleaseDate": "2026-03-30T09:01:14Z",
-      "releaseNotes": "• Various bug fixes and general improvements\n\nThreema 7.0.5\n• Various improvements related to restoring a Threema Safe backup\n• Various bug fixes and general improvements\n\nThreema 7.0.4\n• Fixed a bug that caused messages to be sent late when switching networks\n• Fixed various bugs related to restoring a Threema Safe backup\n• Various bug fixes and general improvements\n\nThreema 7.0.2\n• Various bug fixes\n\nThreema 7.0.1\n• More reliable Threema calls\n• Various bug fixes and general improvements\n\nThreema 7.0\n• This version supports iOS 17 and newer\n• New: Recommend Threema Work and earn a referral bonus!\n• A more modern look with redesigned screens for\n  • Adding contacts\n  • Creating groups\n  • Starting a new chat\n  • Creating and viewing polls\n  • Previewing file messages and full-screen images\n  • Selecting a document or contact\n  • Scanning QR codes\n  • Editing your profile\n  • Linking a phone number or email address\n  • Setting a revocation password\n  • ID export\n• Various under-the-hood changes\n• Various bug fixes and general improvements",
-      "version": "7.0.6",
-      "wrapperType": "software",
-      "currency": "USD",
-      "description": "Threema is the world’s best-selling secure messenger, used by more than 12 million people in over 175 countries, developed in Switzerland, and designed with privacy and data protection in mind. Whether chats, calls, or files, everything is end-to-end encrypted, and no data trail is left behind. Instead of a phone number or email address, a randomly generated Threema ID serves as a unique identifier – anonymous and secure. Threema protects what really matters: your privacy.\n\nAdvantages of Threema:\n• Text and voice messages, including emoji reactions\n• End-to-end encrypted voice, video, and group calls\n• Location sharing\n• Sending files in all formats (PDF, GIF, MP3, ZIP, and more)\n• Ability to edit sent messages and delete them for chat partners\n• Desktop app and web client for convenient chatting on your PC\n• Group creation and polls\n• Light or dark mode\n• No ads, no trackers, no data collection\n• Identity verification of contacts by scanning their QR code\n\nReliable security:\n• Open source and regular audits\n• Servers in Switzerland\n• Anonymous use possible: no phone number or email address required\n• Messages are deleted from the server immediately after delivery\n\nDo you have any questions or problems? Our FAQ can help: https://threema.com/support\n\nEnjoy using Threema!",
-      "userRatingCountForCurrentVersion": 642,
+      "averageUserRatingForCurrentVersion": 4.26715,
       "sellerUrl": "https://threema.com",
       "languageCodesISO2A": [
         "BG",
@@ -178,7 +161,6 @@
         "EN",
         "FR",
         "DE",
-        "HU",
         "IT",
         "JA",
         "KO",
@@ -193,16 +175,33 @@
         "TR",
         "UK"
       ],
-      "fileSizeBytes": "107526144",
-      "formattedPrice": "$6.99",
-      "trackContentRating": "4+",
-      "averageUserRating": 4.26635,
-      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.26715,
+      "artistId": 535112011,
+      "artistName": "Threema GmbH",
+      "releaseDate": "2012-12-28T11:53:33Z",
+      "genres": [
+        "Social Networking",
+        "Utilities"
+      ],
+      "price": 6.99,
+      "bundleId": "ch.threema.iapp",
+      "genreIds": [
+        "6005",
+        "6002"
+      ],
       "trackCensoredName": "Threema. The Secure Messenger",
       "trackViewUrl": "https://apps.apple.com/us/app/threema-the-secure-messenger/id578665578?uo=4",
-      "averageUserRatingForCurrentVersion": 4.26635,
-      "releaseDate": "2012-12-28T11:53:33Z",
-      "userRatingCount": 642
+      "contentAdvisoryRating": "4+",
+      "currentVersionReleaseDate": "2026-06-22T07:07:14Z",
+      "version": "7.2.5",
+      "wrapperType": "software",
+      "currency": "USD",
+      "description": "Threema is the world’s best-selling secure messenger, used by more than 12 million people in over 175 countries, developed in Switzerland, and designed with privacy and data protection in mind. Whether chats, calls, or files, everything is end-to-end encrypted, and no data trail is left behind. Instead of a phone number or email address, a randomly generated Threema ID serves as a unique identifier – anonymous and secure. Threema protects what really matters: your privacy.\n\nAdvantages of Threema:\n• Text and voice messages, including emoji reactions\n• End-to-end encrypted voice, video, and group calls\n• Location sharing\n• Sending files in all formats (PDF, GIF, MP3, ZIP, and more)\n• Ability to edit sent messages and delete them for chat partners\n• Desktop app and web client for convenient chatting on your PC\n• Group creation and polls\n• Light or dark mode\n• No ads, no trackers, no data collection\n• Identity verification of contacts by scanning their QR code\n\nReliable security:\n• Open source and regular audits\n• Servers in Switzerland\n• Anonymous use possible: no phone number or email address required\n• Messages are deleted from the server immediately after delivery\n\nDo you have any questions or problems? Our FAQ can help: https://threema.com/support\n\nEnjoy using Threema!",
+      "primaryGenreName": "Social Networking",
+      "primaryGenreId": 6005,
+      "trackId": 578665578,
+      "trackName": "Threema. The Secure Messenger",
+      "userRatingCount": 685
     }
   ]
 }

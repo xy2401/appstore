@@ -2,6 +2,7 @@
   "resultCount": 1,
   "results": [
     {
+      "isGameCenterEnabled": false,
       "screenshotUrls": [],
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f1/f3/0a/f1f30af5-0612-ba19-9913-d0c08f43d78b/96cf700c-1740-4ccf-b9af-a775c1c0cff2_Simulator_Screen_Shot_-_iPad_Pro__U002812.9-inch_U0029__U00284th_generation_U0029_-_2020-07-25_at_16.59.22.png/552x414bb.png",
@@ -16,13 +17,8 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6f/a2/ad/6fa2adc1-9536-03d5-8cb8-238553369784/afadc685-4035-4505-92aa-3249b5bdb774_Simulator_Screen_Shot_-_iPad_Pro__U002812.9-inch_U0029__U00284th_generation_U0029_-_2020-07-25_at_16.59.59.png/552x414bb.png"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/58/cf/d758cf1d-a77a-2cc4-cbf9-ce2a87ce5246/AppIcon-0-0-1x_U007emarketing-0-8-85-220.png/60x60bb.jpg",
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/58/cf/d758cf1d-a77a-2cc4-cbf9-ce2a87ce5246/AppIcon-0-0-1x_U007emarketing-0-8-85-220.png/512x512bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/58/cf/d758cf1d-a77a-2cc4-cbf9-ce2a87ce5246/AppIcon-0-0-1x_U007emarketing-0-8-85-220.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/us/developer/nynix/id425939481?uo=4",
-      "isGameCenterEnabled": false,
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/dc/31/00dc315f-0f8a-bfff-72fa-cb892cd3d9a7/AppIcon-0-0-1x_U007emarketing-0-8-85-220.png/512x512bb.jpg",
       "advisories": [],
-      "kind": "software",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -152,14 +148,19 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
+      "kind": "software",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/dc/31/00dc315f-0f8a-bfff-72fa-cb892cd3d9a7/AppIcon-0-0-1x_U007emarketing-0-8-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/dc/31/00dc315f-0f8a-bfff-72fa-cb892cd3d9a7/AppIcon-0-0-1x_U007emarketing-0-8-85-220.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/us/developer/nynix/id425939481?uo=4",
       "features": [
         "iosUniversal"
       ],
-      "currentVersionReleaseDate": "2026-05-29T22:39:10Z",
+      "minimumOsVersion": "16.0",
+      "userRatingCountForCurrentVersion": 12248,
+      "averageUserRatingForCurrentVersion": 4.90276,
+      "formattedPrice": "$5.99",
+      "trackContentRating": "4+",
       "sellerUrl": "https://knots3d.com",
-      "averageUserRatingForCurrentVersion": 4.90294,
-      "averageUserRating": 4.90294,
-      "trackCensoredName": "Knots 3D",
       "languageCodesISO2A": [
         "AR",
         "CS",
@@ -187,38 +188,37 @@
         "UK",
         "VI"
       ],
-      "fileSizeBytes": "506642432",
-      "formattedPrice": "$5.99",
-      "contentAdvisoryRating": "4+",
-      "userRatingCountForCurrentVersion": 12044,
-      "trackViewUrl": "https://apps.apple.com/us/app/knots-3d/id453571750?uo=4",
-      "trackContentRating": "4+",
-      "minimumOsVersion": "16.0",
-      "bundleId": "com.nynix.animatedknots3d",
+      "fileSizeBytes": "506627072",
+      "artistId": 425939481,
+      "artistName": "Nynix",
       "genres": [
         "Reference",
         "Education"
       ],
       "price": 5.99,
-      "releaseNotes": "- Universal Links and a custom URL scheme (knots3d://) so links route directly into a specific page in the app. Tap a knots3d.com website link and it opens right in the app - straight to the selected knot or category. Share a link with a fellow knot-tyer and it opens in their app too, or the website if they don't have the app yet.\n- Minor bug fixes and improvements.",
-      "trackId": 453571750,
+      "primaryGenreName": "Reference",
+      "primaryGenreId": 6006,
+      "isVppDeviceBasedLicensingEnabled": true,
       "trackName": "Knots 3D",
-      "releaseDate": "2011-09-10T03:05:03Z",
+      "trackId": 453571750,
       "genreIds": [
         "6006",
         "6017"
       ],
-      "primaryGenreName": "Reference",
-      "primaryGenreId": 6006,
+      "releaseDate": "2011-09-10T03:05:03Z",
+      "releaseNotes": "- Minor adjustments to the search algorithm\n- Minor animation and translation fixes\n- Framework update",
       "sellerName": "David Boren",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "version": "11.2.0",
+      "currentVersionReleaseDate": "2026-06-21T17:13:34Z",
+      "version": "11.2.1",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Learn over 220 knots for fishing, climbing, boating, scouting and other applications of rope work. \n\nKnots 3D is the ultimate knot-tying app for fishermen, climbers, boaters and scouters alike. With over 220 unique knots and new ones added frequently, Knots 3D makes it easy to learn even the most difficult knots in no time. Browse by category or search by name, common synonym or ABoK # and save your favorite knots for quick review.\n\nFeatures:\n- 225 knots in over a dozen categories.\n- Completely OFFLINE and self-contained – No additional downloads or internet access required!\n- No ads!\n- Watch knots tie themselves and pause or adjust the speed of the animation at any time.\n- Rotate knots in 360-degree, 3D views to study them from any angle with a swipe of a finger.\n- Interact with the knot on the screen by \"scrubbing\" over the knot to advance or rewind the animation.\n- High-res graphics with photo-realistic rope textures.\n- Share a knot image and info to social media platforms, SMS text message, email, clipboard and more!\n- Dark mode / Light Mode\n- List View, Card View, and Grid View options\n- Create your own custom categories for grouping knots. Custom Category Ideas: \"Mastered\" - Track your progress, \"Practice\" - Select knots you want to learn next, \"Top Ten\" - Keep go-to knots at your fingertips.\n- Add personal notes directly on a knot’s detail screen including hyperlinks to external resources (YouTube, websites, tutorials, etc)\n- Add searchable keywords to help find knots faster\n- ABOK numbers for cross reference to the Ashley Book of Knots\n\nChoose from a wide variety of knots and see how they are tied in incredible detail. Each 3D knot has detailed reference information including tying pointers, strength and reliability, structural info, and Ashley reference numbers (ABoK) and the occasional history behind the knot.\n\nCategories:\n- Essential Knots\n- Arborist Knots\n- Boating and Sailing Knots\n- Camping Knots\n- Caving Knots\n- Climbing Knots\n- Decorative Knots\n- Diving Knots\n- Fishing Knots\n- Military Knots\n- Pioneering\n- Rope Care\n- Scouting Knots\n- Search and Rescue (SAR)\n- Theatre and Film Knots\n\nTypes:\n- Bends\n- Binding Knots\n- Friction Hitches\n- Hitches\n- Lashings\n- Loop Knots\n- Quick Release\n- Stopper Knots\n\nThe complete list of knots: \n\nhttps://knots3d.com/en/complete-list-of-knots\n\nKnots 3D is the perfect app for anyone who wants to learn how to tie knots for fishing, climbing, and boating. Whether you're a beginner or an experienced knot-tyer, Knots 3D has everything you need to become an expert. Download it now and start knotting!",
-      "artistId": 425939481,
-      "artistName": "Nynix",
-      "userRatingCount": 12044
+      "trackViewUrl": "https://apps.apple.com/us/app/knots-3d/id453571750?uo=4",
+      "contentAdvisoryRating": "4+",
+      "trackCensoredName": "Knots 3D",
+      "averageUserRating": 4.90276,
+      "bundleId": "com.nynix.animatedknots3d",
+      "userRatingCount": 12248
     }
   ]
 }

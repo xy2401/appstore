@@ -2,11 +2,14 @@
   "resultCount": 1,
   "results": [
     {
-      "isGameCenterEnabled": false,
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/ef/14/a1ef14c9-b962-a41e-de8a-c5518b1fdc46/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "screenshotUrls": [],
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/ef/14/a1ef14c9-b962-a41e-de8a-c5518b1fdc46/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "screenshotUrls": [],
+      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "MacDesktop-MacDesktop",
         "iPhone5s-iPhone5s",
@@ -137,15 +140,11 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "features": [
-        "iosUniversal"
-      ],
       "advisories": [],
       "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/cn/developer/jan-biniok/id1482490088?uo=4",
+      "artistViewUrl": "https://apps.apple.com/jp/developer/jan-biniok/id1482490088?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/ef/14/a1ef14c9-b962-a41e-de8a-c5518b1fdc46/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/ef/14/a1ef14c9-b962-a41e-de8a-c5518b1fdc46/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
-      "minimumOsVersion": "15.0",
       "languageCodesISO2A": [
         "AR",
         "HR",
@@ -175,40 +174,41 @@
         "VI"
       ],
       "fileSizeBytes": "6664192",
-      "formattedPrice": "¥15.00",
+      "formattedPrice": "¥500",
       "trackContentRating": "4+",
-      "userRatingCountForCurrentVersion": 105,
-      "averageUserRatingForCurrentVersion": 3.75238,
+      "averageUserRatingForCurrentVersion": 4.6875,
+      "artistId": 1482490088,
+      "artistName": "Jan Biniok",
       "genres": [
-        "效率",
-        "软件开发工具"
+        "仕事効率化",
+        "開発ツール"
       ],
-      "bundleId": "net.tampermonkey.SafariWebExt",
+      "price": 500.0,
       "releaseDate": "2024-11-18T08:00:00Z",
+      "trackId": 6738342400,
+      "trackName": "Tampermonkey",
+      "sellerName": "Jan Biniok",
+      "primaryGenreName": "Productivity",
+      "primaryGenreId": 6007,
       "genreIds": [
         "6007",
         "6026"
       ],
-      "primaryGenreName": "Productivity",
-      "primaryGenreId": 6007,
-      "sellerName": "Jan Biniok",
       "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2025-07-09T14:01:41Z",
-      "releaseNotes": "常规  \n新增通过 GM_xmlhttpRequest 发送 ArrayBuffer 和 UInt8Array 对象的支持  \n新增用于脚本模板的变量 $DATETIME$  \n修复基于 fetch 且非 UTF-8 编码的 GM_xmlhttpRequest 的响应文本编码问题  \n重构了存储实现方式  \n重构了沙盒控制台，使其属性可配置  \n修复了 onurlchange，使其在 pushState 触发的哈希变化时也能触发  \n修复了通过下拉菜单配置脚本位置的问题  \n\n界面  \n新增跳转到下一个/上一个 Linter 问题的命令  \n使更多字符串可翻译（单位、编辑器命令）  \n\n本地化  \n更新意大利语翻译 | 感谢 bovirus  \n更新巴西葡萄牙语翻译 | 感谢 igorruckert  \n更新日语翻译 | 感谢 shirayuki  \n更新越南语翻译 | 感谢 IoeCmcomc",
+      "releaseNotes": "一般  \nGM_xmlhttpRequest を介して ArrayBuffer および UInt8Array オブジェクトを送信する機能を追加  \nスクリプトテンプレートで使用できる変数 $DATETIME$ を追加  \nfetch ベースで UTF-8 以外の GM_xmlhttpRequest のレスポンステキストの文字エンコーディングを修正  \nストレージの実装を再構築  \nサンドボックスコンソールを再構築し、プロパティを設定可能に  \npushState によってトリガーされるハッシュの変更でも onurlchange が発火するよう修正  \nドロップダウンメニューによるスクリプトの配置設定を修正  \n\nUI  \n次/前の Linter 問題にジャンプするコマンドを追加  \nいくつかの文字列（単位、エディターコマンド）を翻訳可能に  \n\nローカライズ  \nイタリア語翻訳を更新 | 感謝 bovirus  \nブラジルポルトガル語翻訳を更新 | 感謝 igorruckert  \n日本語翻訳を更新 | 感謝 shirayuki  \nベトナム語翻訳を更新 | 感謝 IoeCmcomc",
       "version": "5.4.6229",
       "wrapperType": "software",
-      "currency": "CNY",
-      "description": "Tampermonkey 是一款广受欢迎的浏览器扩展，兼容所有主流浏览器。\n它允许您使用用户脚本——添加或修改功能的小型 JavaScript 程序——来自定义和增强网页。\n使用 Tampermonkey，您可以轻松地在任何网站上创建、管理和运行这些脚本。",
-      "averageUserRating": 3.75238,
+      "currency": "JPY",
+      "description": "Tampermonkeyは、すべての主要なブラウザと互換性のある非常に人気のあるブラウザー拡張機能です。\nユーザースクリプト—機能を追加または変更する小さなJavaScriptプログラム—を使用してウェブページをカスタマイズし、強化できます。\nTampermonkeyを使えば、これらのスクリプトを簡単に作成、管理、実行できます。",
+      "userRatingCountForCurrentVersion": 16,
       "trackCensoredName": "Tampermonkey",
-      "trackViewUrl": "https://apps.apple.com/cn/app/tampermonkey/id6738342400?uo=4",
+      "trackViewUrl": "https://apps.apple.com/jp/app/tampermonkey/id6738342400?uo=4",
       "contentAdvisoryRating": "4+",
-      "price": 15.0,
-      "trackId": 6738342400,
-      "trackName": "Tampermonkey",
-      "artistId": 1482490088,
-      "artistName": "Jan Biniok",
-      "userRatingCount": 105
+      "averageUserRating": 4.6875,
+      "minimumOsVersion": "15.0",
+      "bundleId": "net.tampermonkey.SafariWebExt",
+      "userRatingCount": 16
     }
   ]
 }

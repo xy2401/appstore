@@ -2,14 +2,19 @@
   "resultCount": 1,
   "results": [
     {
+      "artistViewUrl": "https://apps.apple.com/us/developer/david-hugenberg/id1775730600?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/7d/9b/5d7d9b5b-41d8-43a8-ca99-4dc116682606/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/7d/9b/5d7d9b5b-41d8-43a8-ca99-4dc116682606/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
+      "advisories": [],
+      "kind": "software",
       "screenshotUrls": [],
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/41/2f/80412fe6-f973-4a69-7842-5c0dd04d035d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/41/2f/80412fe6-f973-4a69-7842-5c0dd04d035d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/41/2f/80412fe6-f973-4a69-7842-5c0dd04d035d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/us/developer/david-hugenberg/id1775730600?uo=4",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/7d/9b/5d7d9b5b-41d8-43a8-ca99-4dc116682606/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -139,48 +144,43 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [],
-      "kind": "software",
-      "minimumOsVersion": "13.0",
-      "averageUserRatingForCurrentVersion": 4.26531,
-      "averageUserRating": 4.26531,
       "trackCensoredName": "FSD Hunter",
-      "languageCodesISO2A": [
-        "EN"
-      ],
-      "fileSizeBytes": "32780288",
-      "formattedPrice": "$9.99",
-      "contentAdvisoryRating": "4+",
-      "userRatingCountForCurrentVersion": 49,
       "trackViewUrl": "https://apps.apple.com/us/app/fsd-hunter/id6737280679?uo=4",
-      "trackContentRating": "4+",
+      "price": 9.99,
       "genres": [
         "Shopping"
       ],
       "artistId": 1775730600,
       "artistName": "David Hugenberg",
-      "price": 9.99,
       "trackId": 6737280679,
       "trackName": "FSD Hunter",
-      "primaryGenreName": "Shopping",
-      "primaryGenreId": 6024,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "sellerName": "David Hugenberg",
       "genreIds": [
         "6024"
       ],
+      "sellerName": "David Hugenberg",
+      "primaryGenreName": "Shopping",
+      "primaryGenreId": 6024,
+      "isVppDeviceBasedLicensingEnabled": true,
       "releaseDate": "2024-11-07T08:00:00Z",
-      "currentVersionReleaseDate": "2026-05-30T21:46:33Z",
-      "releaseNotes": "Choose your Start on page — open directly to Homepage, a model, Local Vehicles, Alerts, or Acceleration Boost\nNew option to Place Viewed Vehicles at the Bottom of the filter to keep fresh listings at the top\nCopy VIN from vehicle details with a tap\nAlert finds now show miles away from your home zip\nOne-time notices for build sheet images and seller verification on vehicle details\nImproved notification handling and various bug fixes",
-      "version": "2.1.14",
+      "currentVersionReleaseDate": "2026-06-27T00:42:32Z",
+      "version": "2.1.19",
       "wrapperType": "software",
       "currency": "USD",
-      "description": "This application lists Tesla vehicles with the Full Self Driving Capability - Included Package, Enhanced Autopilot (EAP) or Acceleration boost available for sale in the U.S.A. and Canada. FSD,EAP or Acceleration Boost cars should bring a premium to the used car.  With FSD Hunter, we do the hard part of looking for the 1-2% of cars that are listed with these packages, scan for software screen or find based on vehicle build sheet, and display them in our app.  Saving you hours of time and thousands of cars that you do not have to look through yourself.   When you find a vehicle you like, simply tap the heart icon to add to your favorites. \n\nNow including Canadian vehicles with limited results. (less than 20 FSD, less than 12 EAP, less than 20 Acceleration Boost)\n*HI, AK - Cars are found but on a limited basis as there are fewer vehicles to search.",
+      "description": "FSD Hunter helps you find Tesla vehicles for sale in the U.S. and Canada with indicators of valuable software packages or features, including Full Self-Driving Capability — Included Package, Enhanced Autopilot (EAP), Acceleration Boost, and SC01.\n\nThese vehicles can be difficult to identify manually because the details are often buried in listing photos, software screen images, or vehicle build/configuration data. FSD Hunter does the hard work for you by scanning listings, reviewing available software screen images, and identifying vehicles using available build configuration data when supported.\n\nInstead of searching through thousands of listings yourself, FSD Hunter helps surface the small percentage of vehicles that may include these desirable features, saving you time and helping you focus on the cars that matter.\n\nNow including Canadian vehicles with limited results. (less than 30 FSD, less than 20 EAP, less than 50 Acceleration Boost)\n*HI, AK - Cars are found but on a limited basis as there are fewer vehicles to search.",
+      "minimumOsVersion": "13.0",
+      "averageUserRatingForCurrentVersion": 4.31579,
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "fileSizeBytes": "45932544",
+      "formattedPrice": "$9.99",
+      "userRatingCountForCurrentVersion": 57,
+      "trackContentRating": "4+",
+      "averageUserRating": 4.31579,
       "bundleId": "com.mycompany.fsdvins",
-      "userRatingCount": 49
+      "contentAdvisoryRating": "4+",
+      "releaseNotes": "• Search and filter listings by Tesla option codes — on main search, local vehicles, and alerts\n• Option code picker with search, so you can find factory options without memorizing codes\n• Cleaner filter UI with clearer active-filter counts across search pages\n• Saved filter profiles now remember exterior/interior colors and your EAP include preference\n• Vehicle specs report shows clearer battery capacity information\n• Alerts run more often and deliver more reliably, with improved notification handling\n• Fixes for search text behavior, the Clear All filters button, and first-launch issues",
+      "userRatingCount": 57
     }
   ]
 }

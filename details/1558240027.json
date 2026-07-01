@@ -3,6 +3,16 @@
   "results": [
     {
       "isGameCenterEnabled": false,
+      "advisories": [
+        "Infrequent/Mild Horror/Fear Themes",
+        "Infrequent/Mild Profanity or Crude Humor",
+        "Infrequent/Mild Cartoon or Fantasy Violence",
+        "Infrequent/Mild Mature/Suggestive Themes",
+        "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References"
+      ],
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -132,61 +142,53 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "advisories": [
-        "Infrequent/Mild Cartoon or Fantasy Violence",
-        "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References",
-        "Infrequent/Mild Mature/Suggestive Themes",
-        "Infrequent/Mild Profanity or Crude Humor",
-        "Infrequent/Mild Horror/Fear Themes"
-      ],
       "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/us/developer/meta-platforms-inc/id284882218?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/c0/6d/82c06d28-e733-1545-6ecf-f2948a9315e5/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/c0/6d/82c06d28-e733-1545-6ecf-f2948a9315e5/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c0/26/59/c02659cd-43fd-0a1f-29f3-339c7d37cb3d/en_us_01_app_store_screens__U00285.5__display_U0029.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c8/88/d8/c888d83c-a423-df56-06d6-590d3e51b6f0/en_us_02_app_store_screens__U00285.5__display_U0029.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/26/57/f0/2657f042-3135-c33b-414c-11ce41ee4a9d/en_us_03_app_store_screens__U00285.5__display_U0029.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/97/be/8b/97be8b7f-5683-e3b3-20e2-963866c3dd02/en_us_04_app_store_screens__U00285.5__display_U0029.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ac/54/72/ac547215-834e-5685-7cbb-f36f84ea7f06/en_us_05_app_store_screens__U00285.5__display_U0029.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/de/01/c5/de01c5c2-bb48-6bbe-4e71-76ab6698b148/en_us_06_app_store_screens__U00285.5__display_U0029.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5d/de/fd/5ddefda1-637f-dbe7-488b-6b2107449a4b/en_us_07_app_store_screens__U00285.5__display_U0029.png/392x696bb.png"
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/de/1f/91de1f2d-ac8c-dbd5-80ee-f5840c7db9c1/Screen01.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f0/72/9d/f0729db6-a4d3-f558-ab6e-aaf64f8cfaa9/Screen02.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/24/c7/1b24c79f-fe52-b70a-958e-8d91e68af17b/glasses_iOS_5.5.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/04/ae/ec/04aeece6-cebf-d94c-401e-c22a1f2a51e4/Screen04.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3d/bf/2d/3dbf2d54-efa6-b84e-a4aa-3a5a20f1ac5b/Screen05.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/79/3b/26/793b2618-bcef-8f9b-4d6e-05095c9dd4d6/Screen06.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fd/61/7b/fd617bce-9eec-dfe0-eeaf-8f70195784eb/Screen07.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/34/e2/4e/34e24ee6-fd99-d7d8-f2c6-de1e16e44126/Screen08.png/392x696bb.png"
       ],
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/2a/31/402a31f5-c740-a518-cf48-89311fbaa29c/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/60x60bb.jpg",
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/2a/31/402a31f5-c740-a518-cf48-89311fbaa29c/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/512x512bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/2a/31/402a31f5-c740-a518-cf48-89311fbaa29c/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/us/developer/meta-platforms-inc/id284882218?uo=4",
-      "features": [
-        "iosUniversal"
-      ],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/c0/6d/82c06d28-e733-1545-6ecf-f2948a9315e5/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/512x512bb.jpg",
+      "userRatingCountForCurrentVersion": 146079,
+      "artistId": 284882218,
+      "artistName": "Meta Platforms, Inc.",
       "genres": [
         "Productivity",
         "Photo & Video"
       ],
-      "artistId": 284882218,
-      "artistName": "Meta Platforms, Inc.",
       "price": 0.0,
-      "trackId": 1558240027,
-      "trackName": "Meta AI",
-      "sellerName": "Meta Platforms, Inc.",
       "primaryGenreName": "Productivity",
       "primaryGenreId": 6007,
-      "releaseDate": "2021-09-09T07:00:00Z",
       "isVppDeviceBasedLicensingEnabled": true,
+      "releaseNotes": "Glasses Home has a fresh, cleaner design that makes everything easier to find and control.\n• See your glasses status at a glance with an improved glasses home screen.\n• Quickly access sessions like live translation and  modes like do not disturb in a redesigned Control Center.\n• Keep controls for active features — like navigation or live translation — visible as you navigate between tabs.\n\n*Certain Meta AI features are only available in select countries and languages. Some of these features may roll out slowly over time.",
       "genreIds": [
         "6007",
         "6008"
       ],
-      "currentVersionReleaseDate": "2026-05-26T17:19:32Z",
-      "releaseNotes": "Meta AI has a new look and new capabilities.\n• Faster, more accurate responses\n• Up-to-date answers grounded in what’s trending across your favorite apps \n• Find, compare, and shop products\n• Advanced reasoning mode for complex questions\n• Add photos, docs, and spreadsheets for richer, more relevant answers",
-      "version": "274.1",
+      "releaseDate": "2021-09-09T07:00:00Z",
+      "trackId": 1558240027,
+      "trackName": "Meta AI",
+      "currentVersionReleaseDate": "2026-06-28T18:58:58Z",
+      "version": "279.1",
       "wrapperType": "software",
       "currency": "USD",
-      "description": "Meta AI is your personal AI assistant—connected to the world, but rooted in yours. Get answers, recommendations, and inspiration you can actually use.\n\n• Richer responses: Meta AI taps into what people are sharing and talking about across Instagram, Facebook, and Threads.\n\n• Shop smarter: Describe what you're looking for or snap a photo to find inspiration. Meta AI picks up on the creators you follow and the brands you love to surface recommendations that reflect your style.\n\n• Discover local spots: Ask for restaurant recommendations, things to do, or where to go this weekend. Meta AI draws from real reviews, posts, and what's trending to surface suggestions—with ratings, photos, and details.\n\n• Get answers from any photo, video, doc, or file: Snap a pic for instant help. Upload docs, PDFs, or spreadsheets for summaries, comparisons, or analysis. Send multiple files and Meta AI works through them together.\n\n• Think through the hard stuff: Whether it's a big decision or a quick question, Meta AI helps you think it through. Turn on Thinking to reason step by step through complex questions.\n\n• Get creative: Create and share vibes—immersive AI videos starring you, your friends, or anything you can imagine.\n\n• Talk to Meta AI through voice or text to get personal AI assistance throughout your day. And pair your AI glasses to go hands-free. Use your AI glasses to share videos from your workouts along with fitness stats like your distance, pace, time and more. The Meta AI app is the required companion app for managing your AI glasses from Meta, importing and sharing media, and more.\n\n• Use Meta AI across WhatsApp, Messenger, Instagram, Facebook, the standalone app, and meta.ai. \n\nMeta AI is built with Muse Spark, the first in a new family of models from Meta Superintelligence Labs.\n\nCertain Meta AI features are only available in select countries and languages. Some features may roll out over time. Need to report an issue or share feedback? Shake your phone and tap \"Submit a report.\"",
-      "bundleId": "com.facebook.stellaapp",
-      "averageUserRatingForCurrentVersion": 4.65818,
-      "sellerUrl": "https://ai.meta.com/meta-ai/",
-      "averageUserRating": 4.65818,
+      "description": "Meta AI is your personal AI assistant—connected to the world, but rooted in yours. Get answers, recommendations, and inspiration you can actually use.\n\n• Richer responses: Meta AI taps into what people are sharing and talking about across Instagram, Facebook, and Threads.\n\n• Shop smarter: Describe what you're looking for or snap a photo to find inspiration. Meta AI picks up on the creators you follow and the brands you love to surface recommendations that reflect your style.\n\n• Discover local spots: Ask for restaurant recommendations, things to do, or where to go this weekend. Meta AI draws from real reviews, posts, and what's trending to surface suggestions—with ratings, photos, and details.\n\n• Get answers from any photo, video, doc, or file: Snap a pic for instant help. Upload docs, PDFs, or spreadsheets for summaries, comparisons, or analysis. Send multiple files and Meta AI works through them together.\n\n• Think through the hard stuff: Whether it's a big decision or a quick question, Meta AI helps you think it through. Turn on Thinking to reason step by step through complex questions.\n\n• Chat privately: Start an Incognito Chat with Meta AI for a private, temporary conversation that only you can see. \n\n• Get creative: Create and share vibes-immersive Al videos starring you, your friends, or anything you can imagine.\n\n• Talk it out: Chat with Meta AI through voice or text. Voice conversations are faster and more natural, with support for 13 languages. Get real-time answers on anything you see with live AI. \n\n• Go hands-free: Pair your AI glasses for personal assistance as you go about your day. The Meta AI app is the required companion app for managing your AI glasses from Meta, importing and sharing media, and more.\n\nMeta Al is built with Muse Spark, the first in a new family of models from Meta Superintelligence Labs. You can use Meta Al across WhatsApp, Messenger, Instagram, Facebook, AI glasses, the Meta AI app, and meta.ai.\n\nCertain Meta AI features are only available in select countries and languages. Some features may roll out over time. Need to report an issue or share feedback? Shake your phone and tap \"Submit a report.\"",
+      "averageUserRatingForCurrentVersion": 4.6578,
       "trackCensoredName": "Meta AI",
+      "trackViewUrl": "https://apps.apple.com/us/app/meta-ai/id1558240027?uo=4",
+      "contentAdvisoryRating": "12+",
+      "minimumOsVersion": "17.2",
+      "bundleId": "com.facebook.stellaapp",
       "languageCodesISO2A": [
         "AR",
         "BN",
@@ -228,14 +230,13 @@
         "UR",
         "VI"
       ],
-      "fileSizeBytes": "334546944",
+      "fileSizeBytes": "325377024",
       "formattedPrice": "Free",
-      "contentAdvisoryRating": "12+",
-      "userRatingCountForCurrentVersion": 121135,
-      "trackViewUrl": "https://apps.apple.com/us/app/meta-ai/id1558240027?uo=4",
       "trackContentRating": "12+",
-      "minimumOsVersion": "17.2",
-      "userRatingCount": 121135
+      "averageUserRating": 4.6578,
+      "sellerUrl": "https://ai.meta.com/meta-ai/",
+      "sellerName": "Meta Platforms, Inc.",
+      "userRatingCount": 146079
     }
   ]
 }
