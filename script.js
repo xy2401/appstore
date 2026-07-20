@@ -346,6 +346,27 @@ function showJsonFileList() {
         feed: feedSelect.value
     };
 
+    const filesByYear = new Map();
+    filesByDate.forEach((dateFiles, date) => {
+        const year = date.substring(0, 4);
+        if (!filesByYear.has(year)) filesByYear.set(year, []);
+        filesByYear.get(year).push([date, dateFiles]);
+    });
+
+    const dateNavigation = Array.from(filesByYear, ([year, yearDates]) => `
+        <div class="json-date-year-group">
+            <strong class="json-date-year">${escapeHtml(year)}</strong>
+            <div class="json-date-year-links">
+                ${yearDates.map(([date, dateFiles]) => `
+                    <a class="json-date-link${date === selected.date ? ' is-selected' : ''}" href="#json-date-${escapeHtml(date)}">
+                        <span>${escapeHtml(formatDate(date))}</span>
+                        <strong>${dateFiles.length}</strong>
+                    </a>
+                `).join('')}
+            </div>
+        </div>
+    `).join('');
+
     const sections = Array.from(filesByDate, ([date, dateFiles]) => {
         const filesByCountry = new Map();
         dateFiles.forEach(file => {
@@ -368,7 +389,7 @@ function showJsonFileList() {
         `).join('');
 
         return `
-            <section class="json-archive-section">
+            <section id="json-date-${escapeHtml(date)}" class="json-archive-section">
                 <div class="json-date-heading">
                     <h3>${escapeHtml(formatDate(date))}</h3>
                     <span>${dateFiles.length} files</span>
@@ -384,6 +405,14 @@ function showJsonFileList() {
             <h2>JSON Files</h2>
             <p>${files.length} archived ranking files. Select a card to open its raw JSON data.</p>
         </div>
+        <nav class="json-date-nav" aria-label="Archive dates">
+            <div class="json-date-nav-summary">
+                <strong>Archive dates</strong>
+            </div>
+            <div class="json-date-nav-links">
+                ${dateNavigation}
+            </div>
+        </nav>
         <div class="json-list-content">
             ${sections || '<div class="error">No JSON files are available.</div>'}
         </div>
@@ -403,6 +432,15 @@ function showJsonFileList() {
     });
     appModal.classList.add('json-index-modal');
     appModal.style.display = 'flex';
+
+    const dateNav = modalBody.querySelector('.json-date-nav');
+    const updateDateAnchorOffset = () => {
+        modalBody.style.setProperty('--json-date-nav-offset', `${dateNav.offsetHeight + 12}px`);
+    };
+    updateDateAnchorOffset();
+    modalBody.querySelectorAll('.json-date-link').forEach(link => {
+        link.addEventListener('click', updateDateAnchorOffset);
+    });
 }
 
 function selectRankingFile({ date, country, media, feed }) {

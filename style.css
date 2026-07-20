@@ -19,6 +19,7 @@
     --modal-close-bg: rgba(0, 0, 0, 0.5);
     --json-header-start: #26384d;
     --json-header-end: #1c1c1e;
+    --json-nav-bg: rgba(28, 28, 30, 0.94);
     --eyebrow-color: #64b5ff;
     --country-color: #b9dcff;
     --country-bg: rgba(10, 132, 255, 0.16);
@@ -65,6 +66,7 @@
     --modal-close-bg: rgba(255, 255, 255, 0.88);
     --json-header-start: #e2effc;
     --json-header-end: #ffffff;
+    --json-nav-bg: rgba(255, 255, 255, 0.94);
     --eyebrow-color: #0066cc;
     --country-color: #0055a8;
     --country-bg: rgba(0, 113, 227, 0.12);
@@ -437,6 +439,7 @@ main {
     padding: 0;
     overflow-y: auto;
     flex: 1;
+    scroll-behavior: smooth;
 }
 
 .json-list-header {
@@ -465,12 +468,110 @@ main {
     text-transform: uppercase;
 }
 
+.json-date-nav {
+    position: sticky;
+    top: 0;
+    z-index: 4;
+    padding: 14px 24px;
+    background: var(--json-nav-bg);
+    border-bottom: 1px solid var(--separator);
+    backdrop-filter: blur(18px);
+    -webkit-backdrop-filter: blur(18px);
+}
+
+.json-date-nav-summary {
+    margin-bottom: 10px;
+}
+
+.json-date-nav-summary strong {
+    font-size: 13px;
+}
+
+.json-date-nav-links {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    overflow: auto;
+    padding: 2px 1px 3px;
+    scrollbar-width: none;
+}
+
+.json-date-nav-links::-webkit-scrollbar {
+    display: none;
+}
+
+.json-date-year-group {
+    display: flex;
+    align-items: flex-start;
+    gap: 12px;
+}
+
+.json-date-year {
+    flex: 0 0 4ch;
+    padding-top: 10px;
+    color: var(--text-secondary);
+    font-size: 12px;
+    line-height: 1;
+}
+
+.json-date-year-links {
+    display: flex;
+    flex: 1;
+    flex-wrap: wrap;
+    gap: 8px;
+    min-width: 0;
+}
+
+.json-date-link {
+    display: grid;
+    grid-template-columns: max-content 5em;
+    align-items: center;
+    column-gap: 4ch;
+    width: max-content;
+    padding: 9px 11px;
+    color: var(--text-primary);
+    text-decoration: none;
+    background: var(--json-card-bg);
+    border: 1px solid var(--separator);
+    border-radius: 10px;
+    transition: background-color 0.2s ease, border-color 0.2s ease, transform 0.2s ease;
+}
+
+.json-date-link:hover {
+    transform: translateY(-1px);
+    background: var(--json-card-hover-bg);
+    border-color: var(--accent-color);
+}
+
+.json-date-link:focus-visible {
+    outline: none;
+    box-shadow: 0 0 0 3px rgba(10, 132, 255, 0.25);
+}
+
+.json-date-link.is-selected {
+    color: var(--accent-color);
+    border-color: var(--accent-color);
+    background: var(--country-bg);
+}
+
+.json-date-link > span {
+    font-size: 12px;
+    font-weight: 700;
+}
+
+.json-date-link strong {
+    font-size: 13px;
+    line-height: 1;
+    text-align: right;
+}
+
 .json-list-content {
     padding: 8px 24px 32px;
 }
 
 .json-archive-section {
     padding-top: 24px;
+    scroll-margin-top: var(--json-date-nav-offset, 104px);
 }
 
 .json-date-heading {
@@ -584,11 +685,11 @@ main {
 }
 
 .json-file-icon svg {
-    width: 22px;
-    height: 22px;
+    width: 90%;
+    height: 90%;
     fill: none;
     stroke: currentColor;
-    stroke-width: 1.8;
+    stroke-width: 1.65;
     stroke-linecap: round;
     stroke-linejoin: round;
 }
