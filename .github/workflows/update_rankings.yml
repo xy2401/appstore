@@ -2,7 +2,7 @@ name: Update App Rankings
 
 on:
   schedule:
-    - cron: '0 0 1 * *' # Run monthly on the 1st at midnight UTC
+    - cron: '0 0 1 * *'
   workflow_dispatch:
     inputs:
       generate_markdown:
@@ -11,58 +11,79 @@ on:
         type: boolean
         default: false
       skip_existing:
-        description: 'Skip existing files (if false, forces re-download)'
+        description: 'Reuse cached details and artwork'
         required: false
         type: boolean
         default: false
+      limit:
+        description: 'Maximum results requested from each feed'
+        required: false
+        type: number
+        default: 100
+      concurrency:
+        description: 'Concurrent detail and artwork requests'
+        required: false
+        type: number
+        default: 4
+
+concurrency:
+  group: update-rankings
+  cancel-in-progress: false
 
 jobs:
   update-rankings:
-    runs-on: windows-latest
-    
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+
     permissions:
       contents: write
-    
-    steps:
-    - name: Checkout repository
-      uses: actions/checkout@v6
-      
-    - name: Run App Downloader Script
-      shell: pwsh
-      run: |
-        $skipExisting = $false
-        $generateMarkdown = $false
+      actions: write
 
-        if ('${{ github.event_name }}' -eq 'workflow_dispatch') {
-            if ('${{ inputs.skip_existing }}' -eq 'true') { $skipExisting = $true }
-            if ('${{ inputs.generate_markdown }}' -eq 'true') { $generateMarkdown = $true }
-        }
-        
-        $cmd = ".\downloader.ps1"
-        if ($skipExisting) { $cmd += " -SkipExisting" }
-        if ($generateMarkdown) { $cmd += " -GenerateMarkdown" }
-        
-        Write-Host "Running command: $cmd"
-        Invoke-Expression $cmd
-      
-    - name: Commit and Push changes
-      shell: pwsh
-      env:
-        GH_TOKEN: ${{ github.token }}
-      run: |
-        git config --global user.name "github-actions[bot]"
-        git config --global user.email "github-actions[bot]@users.noreply.github.com"
-        
-        git add .
-        
-        # Check if there are changes
-        $status = git status --porcelain
-        if ($status) {
-            git commit -m "Update app rankings $(Get-Date -Format 'yyyy-MM-dd')"
-            git push
-            
-            Write-Host "Triggering static content deployment..."
-            gh workflow run static.yml
-        } else {
-            Write-Host "No changes to commit."
-        }
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: 24
+          package-manager-cache: false
+
+      - name: Test downloader
+        run: node --test scripts/downloader.test.mjs
+
+      - name: Download rankings
+        shell: bash
+        run: |
+          args=(--limit "${{ inputs.limit || 100 }}" --concurrency "${{ inputs.concurrency || 4 }}")
+
+          if [[ "${{ inputs.skip_existing }}" == "true" ]]; then
+            args+=(--skip-existing)
+          fi
+
+          if [[ "${{ inputs.generate_markdown }}" == "true" ]]; then
+            args+=(--generate-markdown)
+          fi
+
+          node scripts/downloader.mjs "${args[@]}"
+
+      - name: Commit and push changes
+        shell: bash
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add -- rankings.json rankings details logos
+
+          if git diff --cached --quiet; then
+            echo "No ranking changes to commit."
+            exit 0
+          fi
+
+          git commit -m "Update app rankings $(date -u +'%Y-%m-%d')"
+          git push
+
+          echo "Triggering static content deployment..."
+          gh workflow run static.yml

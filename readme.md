@@ -10,48 +10,68 @@ This project downloads Apple top-chart feeds, archives them by date, caches medi
 - **Historical archive**: Ranking JSON is stored in date-stamped directories under `rankings/YYYYMMDD/`.
 - **Local assets**: Lookup metadata is cached in `details/` and artwork is downloaded to `logos/`.
 - **Static web interface**: Filter by date, region, media type, and chart; inspect media details; or open the source JSON.
-- **Optional Markdown output**: Generate Markdown summaries alongside ranking JSON files.
+- **Zero-dependency downloader**: The active downloader uses only built-in Node.js APIs.
 - **Automation**: GitHub Actions refreshes the archive monthly and deploys the repository to GitHub Pages.
 
 ## Requirements
 
-- PowerShell 5.1 or PowerShell Core 7+
+- Node.js 24 or later
 - Internet access to Apple's RSS and iTunes Lookup APIs
+- PowerShell 5.1 or PowerShell Core 7+ only when using the legacy downloader
 
 ## Download rankings
 
-Run the downloader from the repository root:
+Run the Node.js downloader from the repository root:
 
-```powershell
-.\downloader.ps1
+```bash
+node scripts/downloader.mjs
 ```
 
-### Parameters
+### Options
 
-| Parameter | Default | Description |
+| Option | Default | Description |
 | --- | --- | --- |
-| `-SkipExisting` | `$false` | Reuse existing detail and artwork files instead of downloading them again. |
-| `-GenerateMarkdown` | `$false` | Generate `.md` summaries alongside ranking JSON files. |
-| `-Limit` | `100` | Maximum number of results requested from each Apple feed. |
+| `--skip-existing` | Off | Reuse cached ranking, detail, and artwork files. |
+| `--generate-markdown` | Off | Generate `.md` summaries alongside ranking JSON files. |
+| `--limit <number>` | `100` | Maximum results requested from each Apple feed. |
+| `--concurrency <number>` | `4` | Concurrent detail and artwork requests. |
+| `--date <YYYYMMDD>` | Current UTC date | Override the archive date for a backfill. |
+| `--help` | — | Show command usage. |
 
 Examples:
 
-```powershell
+```bash
 # Refresh all configured feeds
-.\downloader.ps1
+node scripts/downloader.mjs
 
-# Reuse cached metadata and artwork
-.\downloader.ps1 -SkipExisting
+# Reuse the current archive and cached assets
+node scripts/downloader.mjs --skip-existing
 
 # Request 50 results and generate Markdown summaries
-.\downloader.ps1 -Limit 50 -GenerateMarkdown
+node scripts/downloader.mjs --limit 50 --generate-markdown
+
+# Create or refresh a specific archive date
+node scripts/downloader.mjs --date 20260701 --skip-existing
 ```
+
+The downloader applies request timeouts, bounded concurrency, retry with exponential backoff, and temporary-file writes. Failed regional feeds do not stop other feeds from being archived.
+
+### Legacy PowerShell downloader
+
+The previous implementation is retained for rollback and comparison:
+
+```powershell
+.\scripts\downloader.ps1
+.\scripts\downloader.ps1 -SkipExisting -GenerateMarkdown -Limit 50
+```
+
+Its GitHub Actions workflow is intentionally disabled.
 
 ## Browse the archive
 
 Serve the repository through a local HTTP server because the interface loads JSON with `fetch`:
 
-```powershell
+```bash
 python -m http.server 8080
 ```
 
@@ -63,22 +83,28 @@ The interface automatically selects the newest available archive and provides de
 
 ```text
 .
-├── downloader.ps1         # Apple feed, metadata, and artwork downloader
+├── scripts/
+│   ├── downloader.mjs     # Active zero-dependency Node.js downloader
+│   ├── downloader.test.mjs # Node.js downloader unit tests
+│   └── downloader.ps1     # Disabled legacy PowerShell downloader
 ├── index.html             # Static web interface
 ├── script.js              # Filtering, list rendering, and detail modals
-├── style.css              # Interface styles
+├── style.css               # Interface styles
 ├── rankings.json          # Generated index used by the web interface
 ├── rankings/
 │   └── YYYYMMDD/          # Archived ranking feeds
 ├── details/               # Cached iTunes Lookup API responses
 ├── logos/                 # Locally cached artwork
 └── .github/workflows/
-    ├── update_rankings.yml
-    └── static.yml
+    ├── update_rankings.yml      # Active Node.js updater
+    ├── update_rankings-ps.yml   # Disabled PowerShell updater
+    └── static.yml               # GitHub Pages deployment
 ```
 
 ## Automation
 
-`.github/workflows/update_rankings.yml` runs at `00:00 UTC` on the first day of each month and can also be started manually. It runs `downloader.ps1`, commits changed archive files, pushes them to the repository, and triggers the GitHub Pages deployment workflow.
+`.github/workflows/update_rankings.yml` runs on Ubuntu with Node.js at `00:00 UTC` on the first day of each month and can also be started manually. It runs `scripts/downloader.mjs`, commits changed archive files, pushes them to the repository, and dispatches the GitHub Pages deployment workflow.
 
-`.github/workflows/static.yml` also deploys the repository on pushes to `main`.
+`.github/workflows/update_rankings-ps.yml` is retained as a disabled rollback reference. Its job has a constant false condition and cannot execute the legacy downloader unless that condition is deliberately removed.
+
+`.github/workflows/static.yml` deploys the repository on pushes to `main` and when manually dispatched by the update workflow.

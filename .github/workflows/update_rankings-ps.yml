@@ -1,0 +1,69 @@
+name: Update App Rankings (Legacy PowerShell - Disabled)
+
+on:
+  workflow_dispatch:
+    inputs:
+      generate_markdown:
+        description: 'Generate Markdown files'
+        required: false
+        type: boolean
+        default: false
+      skip_existing:
+        description: 'Skip existing files (if false, forces re-download)'
+        required: false
+        type: boolean
+        default: false
+
+jobs:
+  update-rankings:
+    # Kept only as a rollback reference. The Node.js workflow is active.
+    if: ${{ false }}
+    runs-on: windows-latest
+
+    permissions:
+      contents: write
+      actions: write
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v6
+
+    - name: Run App Downloader Script
+      shell: pwsh
+      run: |
+        $skipExisting = $false
+        $generateMarkdown = $false
+
+        if ('${{ github.event_name }}' -eq 'workflow_dispatch') {
+            if ('${{ inputs.skip_existing }}' -eq 'true') { $skipExisting = $true }
+            if ('${{ inputs.generate_markdown }}' -eq 'true') { $generateMarkdown = $true }
+        }
+
+        $cmd = ".\scripts\downloader.ps1"
+        if ($skipExisting) { $cmd += " -SkipExisting" }
+        if ($generateMarkdown) { $cmd += " -GenerateMarkdown" }
+
+        Write-Host "Running command: $cmd"
+        Invoke-Expression $cmd
+
+    - name: Commit and Push changes
+      shell: pwsh
+      env:
+        GH_TOKEN: ${{ github.token }}
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+        git add .
+
+        # Check if there are changes
+        $status = git status --porcelain
+        if ($status) {
+            git commit -m "Update app rankings $(Get-Date -Format 'yyyy-MM-dd')"
+            git push
+
+            Write-Host "Triggering static content deployment..."
+            gh workflow run static.yml
+        } else {
+            Write-Host "No changes to commit."
+        }
