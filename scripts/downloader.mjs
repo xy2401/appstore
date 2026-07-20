@@ -455,8 +455,9 @@ function escapeMarkdown(text) {
     return String(text || '').replaceAll('[', '\\[').replaceAll(']', '\\]');
 }
 
-async function generateMarkdownFiles() {
-    const rankingFiles = (await listFiles(RANKINGS_DIR, file => file.endsWith('.json'))).sort();
+async function generateMarkdownFiles(date) {
+    const archiveDirectory = path.join(RANKINGS_DIR, date);
+    const rankingFiles = (await listFiles(archiveDirectory, file => file.endsWith('.json'))).sort();
     const detailsCache = new Map();
 
     for (const rankingFile of rankingFiles) {
@@ -540,7 +541,7 @@ export async function runMediaStage(options) {
     const mediaItems = await loadMediaItems(entries);
     await downloadArtwork(mediaItems, options);
 
-    if (options.generateMarkdown) await generateMarkdownFiles();
+    if (options.generateMarkdown) await generateMarkdownFiles(options.date);
     else console.log('[markdown] skipped');
 
     await rebuildRankingsIndex();

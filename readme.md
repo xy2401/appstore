@@ -25,7 +25,7 @@ The downloader is split into three resumable stages that match the generated dir
 
 1. `rank` downloads Apple ranking RSS JSON into `rankings/YYYYMMDD/`.
 2. `details` reads that archive and downloads iTunes Lookup JSON into `details/`.
-3. `media` downloads artwork into `logos/`, optionally generates Markdown, and rebuilds `rankings.json`.
+3. `media` downloads artwork into `logos/`, optionally generates Markdown for that archive date, and rebuilds `rankings.json`.
 
 Run all three stages from the repository root:
 
@@ -115,7 +115,7 @@ The interface automatically selects the newest available archive and provides de
 
 ## Automation
 
-`.github/workflows/update_rankings.yml` runs on Ubuntu with Node.js at `00:00 UTC` on the first day of each month and can also be started manually. It creates a Git checkpoint after each successful stage: ranking RSS first, detail JSON second, then media plus the published `rankings.json` index. If a later stage fails, the completed earlier checkpoints remain available for a resumed run. GitHub Pages is dispatched only after Stage 3 succeeds.
+`.github/workflows/update_rankings.yml` runs on Ubuntu with Node.js at `00:00 UTC` every Monday and on the first day of each month, and it can also be started manually. Every run writes to the first-day archive for the current UTC month (for example, every July 2026 run updates `rankings/20260701/`). It creates a Git checkpoint after each successful stage: ranking RSS first, detail JSON second, then media, Markdown, and the published `rankings.json` index. Markdown generation is enabled by default in Stage 3. If a later stage fails, the completed earlier checkpoints remain available for a resumed run. GitHub Pages is dispatched only after Stage 3 succeeds.
 
 `.github/workflows/update_rankings-ps.yml` is retained as a disabled rollback reference. Its job has a constant false condition and cannot execute the legacy downloader unless that condition is deliberately removed.
 

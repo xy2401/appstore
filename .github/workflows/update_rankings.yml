@@ -3,13 +3,9 @@ name: Update App Rankings
 on:
   schedule:
     - cron: '0 0 1 * *'
+    - cron: '0 0 * * 1'
   workflow_dispatch:
     inputs:
-      generate_markdown:
-        description: 'Generate Markdown files during the media stage'
-        required: false
-        type: boolean
-        default: false
       skip_existing:
         description: 'Reuse files already committed by an earlier run'
         required: false
@@ -49,7 +45,7 @@ jobs:
       - name: Prepare archive date and Git identity
         shell: bash
         run: |
-          echo "ARCHIVE_DATE=$(date -u +'%Y%m%d')" >> "$GITHUB_ENV"
+          echo "ARCHIVE_DATE=$(date -u +'%Y%m01')" >> "$GITHUB_ENV"
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
@@ -96,12 +92,9 @@ jobs:
       - name: Stage 3 - Download media and publish index
         shell: bash
         run: |
-          args=(media --date "$ARCHIVE_DATE")
+          args=(media --date "$ARCHIVE_DATE" --generate-markdown)
           if [[ "${{ inputs.skip_existing }}" == "true" ]]; then
             args+=(--skip-existing)
-          fi
-          if [[ "${{ inputs.generate_markdown }}" == "true" ]]; then
-            args+=(--generate-markdown)
           fi
           node scripts/downloader.mjs "${args[@]}"
 
