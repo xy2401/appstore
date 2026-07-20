@@ -3,23 +3,15 @@
   "results": [
     {
       "isGameCenterEnabled": false,
-      "artistViewUrl": "https://apps.apple.com/us/developer/whatsapp-inc/id310634000?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/7a/26/277a26f8-8717-460d-a84e-50e0ef39f7ec/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/7a/26/277a26f8-8717-460d-a84e-50e0ef39f7ec/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.jpg",
       "features": [
         "iosUniversal"
       ],
       "advisories": [
-        "Infrequent/Mild Horror/Fear Themes",
-        "Infrequent/Mild Medical/Treatment Information",
-        "Infrequent/Mild Profanity or Crude Humor",
-        "Infrequent/Mild Mature/Suggestive Themes"
+        "Scènes rares/modérées d’horreur ou d’épouvante",
+        "Scènes rares/modérées d’humour vulgaire ou blasphématoire",
+        "Scènes rares/modérées de contenu à caractère médical",
+        "Scènes rares/modérées réservées aux adultes (suggestives)"
       ],
-      "kind": "software",
-      "screenshotUrls": [],
-      "ipadScreenshotUrls": [],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/7a/26/277a26f8-8717-460d-a84e-50e0ef39f7ec/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
       "supportedDevices": [
         "MacDesktop-MacDesktop",
         "iPhone5s-iPhone5s",
@@ -151,33 +143,46 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "sellerName": "WhatsApp Inc.",
-      "primaryGenreName": "Social Networking",
-      "primaryGenreId": 6005,
-      "currentVersionReleaseDate": "2026-06-30T17:09:01Z",
-      "averageUserRating": 4.68661,
-      "contentAdvisoryRating": "12+",
+      "kind": "software",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/57/c9/dd/57c9dd82-fb6e-5884-bc19-07fcd2ce2c52/b9952dbd-c918-4231-b5db-57f9189ebf3a_5.5__Display_1-fr_FR-fr_FR.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/87/58/47/87584733-858f-9c67-1c62-55ce3cd35141/7c127847-c0b2-4c49-b9e6-97b8f53a3ba1_5.5__Display_2-fr_FR-fr_FR.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/38/17/25/381725d1-f217-9365-f4d9-dcfd23974c37/47eb4908-9934-4009-864a-cd5b1850cec7_5.5__Display_3-fr_FR-fr_FR.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/89/9d/a5/899da552-f96e-998b-08b3-2c2b04e7d33e/a49bbc23-8dca-4f51-8260-71f967777fb6_5.5__Display_4-fr_FR-fr_FR.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/81/58/9e/81589e2c-151d-e134-26c5-cb94caedebde/8703d907-7e20-469c-a593-c7a1070e77e6_5.5__Display_5-fr_FR-fr_FR.png/392x696bb.png"
+      ],
+      "ipadScreenshotUrls": [],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/8b/2f/e38b2fe8-5991-2e46-8b1c-64315e08a3e7/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/fr/developer/whatsapp-inc/id310634000?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/8b/2f/e38b2fe8-5991-2e46-8b1c-64315e08a3e7/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/8b/2f/e38b2fe8-5991-2e46-8b1c-64315e08a3e7/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.jpg",
+      "currentVersionReleaseDate": "2026-07-14T05:39:22Z",
       "artistId": 310634000,
       "artistName": "WhatsApp Inc.",
       "genres": [
-        "Social Networking",
-        "Utilities"
+        "Réseaux sociaux",
+        "Utilitaires"
       ],
-      "price": 0.0,
-      "releaseNotes": "We update the app regularly to fix bugs, optimize performance and improve the experience. Thanks for using WhatsApp!",
+      "price": 0,
       "bundleId": "net.whatsapp.WhatsApp",
-      "releaseDate": "2009-05-04T02:43:49Z",
-      "trackId": 310633997,
-      "trackName": "WhatsApp Messenger",
-      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseNotes": "Nous mettons régulièrement à jour l’application pour corriger des bugs, optimiser la performance et améliorer l’expérience. Merci d'utiliser WhatsApp !",
       "genreIds": [
         "6005",
         "6002"
       ],
-      "version": "26.25.74",
+      "releaseDate": "2009-05-04T02:43:49Z",
+      "primaryGenreName": "Social Networking",
+      "primaryGenreId": 6005,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "WhatsApp Inc.",
+      "trackName": "WhatsApp Messenger",
+      "trackId": 310633997,
+      "version": "26.27.74",
       "wrapperType": "software",
-      "currency": "USD",
-      "description": "WhatsApp from Meta is a free messaging and calling app used by over 2 billion people across 180+ countries. It's super simple, reliable and private, making it perfect for staying in touch with your friends and family worldwide. WhatsApp works across mobile, tablet, and desktop even on slow connections, with no subscription fees*.\n\nPrivate messaging and calls across the world\n\nYour privacy is our priority. With end-to-end encryption, you can be sure that your personal messages and calls stay between you and who you send them to. And no one, not even WhatsApp, can read or listen to them.\n\nSimple and secure connections, right away\n\nAll you need is your phone number - no usernames or logins needed. Easily view your contacts on WhatsApp and start messaging. And what's more, you can easily  link your other devices, including iPads, for seamless connectivity.\n\nHigh quality voice and video calls\n\nEnjoy free, secure video and voice calls with up to 32 people for free. Your calls work across devices, even on slower connections, using your phone or tablet’s Internet service.\n\nGroup chats to keep you in contact\n\nStay close to friends and family through end-to-end encrypted group chats and calls. Share messages, photos, videos and documents across mobile, tablet, and desktop. You can also use call links and screen-sharing to make group calls and collaboration easy.\n\nStay connected in real time\n\nYou can share your location with those in your individual or group chats while using WhatsApp on your mobile phone. Or record a voice message for those moments when just text isn't good enough.\n\nShare daily moments through Status\n\nShare your everyday life with those who matter. With Status you can share text, photos, video, and GIF updates that disappear after 24 hours. You're always in control of who sees your status. Just choose who you want to share it with - all your contacts or selected ones. And bring your everyday to life.\n\n*Data charges may apply. Contact your provider for details.\n\n\n---------------------------------------------------------------------------\n\nIf you have any feedback or questions, please go to WhatsApp > Settings > Help > Contact Us\n\nTerms of Service: https://www.whatsapp.com/legal/terms-of-service \n\nLearn more about messaging privately: https://www.whatsapp.com/privacy \n\nLearn more about WhatsApp safety: https://www.whatsapp.com/security",
+      "currency": "EUR",
+      "description": "WhatsApp from Meta est une application gratuite permettant d’envoyer des messages et de passer des appels, utilisée par plus de 2 milliards de personnes dans plus de 180 pays. Simple, fiable et privée, il s’agit de l’application idéale pour rester en contact avec vos proches partout dans le monde. WhatsApp fonctionne sur mobile, tablette et ordinateur, même avec des connexions lentes, et sans frais d’inscription*.\n\nDes messages et des appels privés dans le monde entier\n\nLa protection de votre vie privée est notre priorité. Grâce au chiffrement de bout en bout, vous avez la certitude que vos messages et vos appels personnels restent entre vous et leurs destinataires. Personne, pas même WhatsApp, ne peut les lire ou les écouter.\n\nDes connexions simples et sécurisées, directement\n\nTout ce dont vous avez besoin, c’est d’un numéro de téléphone. Aucun nom d’utilisateur ou identifiant n’est nécessaire. Vous pouvez rapidement voir qui parmi vos contacts utilise WhatsApp et commencer à discuter. Plus encore, vous pouvez facilement associer vos autres appareils, y compris les iPad, pour une communication plus fluide.\n\nDes appels vocaux et vidéo de qualité\n\nVous pouvez passer gratuitement* des appels vocaux et vidéo comptant jusqu’à 32 personnes en toute sécurité. Vos appels fonctionnent sur les différents appareils, même si votre connexion est lente, et utilisent le service Internet de votre téléphone ou de votre tablette.\n\nDes discussions de groupe pour garder le contact\n\nRestez en contact avec vos proches grâce aux discussions et appels de groupe chiffrés de bout en bout. Partagez des messages, des photos, des vidéos et des documents sur mobile, tablette et ordinateur. Vous pouvez également utiliser des liens d'appel et partager votre écran afin de faciliter les appels de groupe et la collaboration.\n\nDiscutez en temps réel\n\nVous pouvez partager votre localisation avec les personnes faisant partie de vos discussions individuelles ou de groupe, en utilisant WhatsApp sur votre téléphone mobile. Vous pouvez également enregistrer un message vocal lorsque les messages texte ne suffisent pas.\n\nPartagez les moments de votre journée via votre statut\n\nPartagez votre quotidien avec les personnes qui comptent pour vous. Les statuts vous permettent de partager du texte, des photos, des vidéos et des GIF qui disparaissent au bout de 24 heures. Vous contrôlez toujours qui peut voir votre statut. Il vous suffit de choisir si vous souhaitez partager votre statut avec tous vos contacts ou seulement avec certains, et de donner vie à votre quotidien.\n\n* Des frais de données peuvent s’appliquer. Veuillez contacter votre opérateur pour en savoir plus.\n\n\n---------------------------------------------------------------------------\n\nSi vous avez des commentaires ou des questions, n’hésitez pas à vous rendre dans WhatsApp > Paramètres > Aide > Nous contacter\n\nConditions d'utilisation : https://www.whatsapp.com/legal/terms-of-service \n\nEn savoir plus sur l’envoi de messages privés : https://www.whatsapp.com/privacy \n\nEn savoir plus sur la sécurité sur WhatsApp : https://www.whatsapp.com/security",
+      "userRatingCountForCurrentVersion": 3429847,
       "minimumOsVersion": "15.1",
       "sellerUrl": "http://www.whatsapp.com/",
       "languageCodesISO2A": [
@@ -221,14 +226,15 @@
         "UR",
         "VI"
       ],
-      "fileSizeBytes": "377616384",
-      "formattedPrice": "Free",
+      "fileSizeBytes": "377079808",
+      "formattedPrice": "Gratuit",
       "trackContentRating": "12+",
-      "userRatingCountForCurrentVersion": 18169204,
-      "averageUserRatingForCurrentVersion": 4.68661,
+      "averageUserRatingForCurrentVersion": 4.56268,
+      "averageUserRating": 4.56268,
       "trackCensoredName": "WhatsApp Messenger",
-      "trackViewUrl": "https://apps.apple.com/us/app/whatsapp-messenger/id310633997?uo=4",
-      "userRatingCount": 18169204
+      "trackViewUrl": "https://apps.apple.com/fr/app/whatsapp-messenger/id310633997?uo=4",
+      "contentAdvisoryRating": "12+",
+      "userRatingCount": 3429847
     }
   ]
 }

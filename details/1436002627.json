@@ -3,7 +3,7 @@
   "results": [
     {
       "isGameCenterEnabled": false,
-      "features": [],
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -133,11 +133,11 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "advisories": [],
       "kind": "software",
       "artistViewUrl": "https://apps.apple.com/cn/developer/state-administration-of-taxation/id1436002626?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/3f/17/183f171c-8faa-7ce7-0de6-523aa76722ca/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/3f/17/183f171c-8faa-7ce7-0de6-523aa76722ca/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.jpg",
+      "features": [],
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/39/b1/c7/39b1c717-ddfc-65aa-33fd-228d15b07307/707c0b36-01a9-4bdf-8c16-bae6fbbb5213_1-_U82f9_U679c_U5546_U5e97_U00285.5_U82f1_U5bf8__U0029.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/2d/a6/52/2da65276-7609-15ed-9986-41474fd8aa71/dc9c0329-9921-4b0c-b3d4-ac774a2d8034_4-_U82f9_U679c_U5546_U5e97_U00285.5_U82f1_U5bf8__U0029.png/392x696bb.png",
@@ -147,22 +147,21 @@
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/3f/17/183f171c-8faa-7ce7-0de6-523aa76722ca/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
-      "minimumOsVersion": "9.0",
       "artistId": 1436002626,
       "artistName": "State Administration of Taxation",
       "genres": [
         "财务"
       ],
-      "price": 0.0,
-      "isVppDeviceBasedLicensingEnabled": true,
+      "price": 0,
       "genreIds": [
         "6015"
       ],
-      "bundleId": "cn.gov.tax.its",
       "primaryGenreName": "Finance",
       "primaryGenreId": 6015,
-      "trackName": "个人所得税",
+      "releaseDate": "2018-10-24T14:46:05Z",
+      "sellerName": "State Administration of Taxation",
       "trackId": 1436002627,
+      "trackName": "个人所得税",
       "currentVersionReleaseDate": "2026-05-30T01:10:17Z",
       "releaseNotes": "1.优化部分功能的用户体验。",
       "version": "2.3.1",
@@ -172,6 +171,12 @@
       "trackCensoredName": "个人所得税",
       "trackViewUrl": "https://apps.apple.com/cn/app/%E4%B8%AA%E4%BA%BA%E6%89%80%E5%BE%97%E7%A8%8E/id1436002627?uo=4",
       "contentAdvisoryRating": "4+",
+      "averageUserRating": 3.75873,
+      "minimumOsVersion": "9.0",
+      "bundleId": "cn.gov.tax.its",
+      "averageUserRatingForCurrentVersion": 3.75873,
+      "formattedPrice": "免费",
+      "fileSizeBytes": "84253696",
       "languageCodesISO2A": [
         "CA",
         "EN",
@@ -182,15 +187,10 @@
         "ZH",
         "ES"
       ],
-      "fileSizeBytes": "84253696",
-      "formattedPrice": "免费",
+      "userRatingCountForCurrentVersion": 304176,
       "trackContentRating": "4+",
-      "averageUserRating": 3.75946,
-      "userRatingCountForCurrentVersion": 304011,
-      "averageUserRatingForCurrentVersion": 3.75946,
-      "sellerName": "State Administration of Taxation",
-      "releaseDate": "2018-10-24T14:46:05Z",
-      "userRatingCount": 304011
+      "isVppDeviceBasedLicensingEnabled": true,
+      "userRatingCount": 304176
     }
   ]
 }

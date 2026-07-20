@@ -2,9 +2,13 @@
   "resultCount": 1,
   "results": [
     {
-      "artistViewUrl": "https://apps.apple.com/jp/developer/developw-llc/id1489470544?uo=4",
+      "isGameCenterEnabled": false,
+      "artistViewUrl": "https://apps.apple.com/de/developer/developw-llc/id1489470544?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/0a/77/9e0a7704-f57b-8d32-abde-701796bcbcb9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/0a/77/9e0a7704-f57b-8d32-abde-701796bcbcb9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -134,7 +138,6 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "isGameCenterEnabled": false,
       "advisories": [],
       "kind": "software",
       "screenshotUrls": [
@@ -147,20 +150,19 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/0a/77/9e0a7704-f57b-8d32-abde-701796bcbcb9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
+      "averageUserRating": 3,
       "trackCensoredName": "iFacialMocap",
-      "trackViewUrl": "https://apps.apple.com/jp/app/ifacialmocap/id1489470545?uo=4",
+      "trackViewUrl": "https://apps.apple.com/de/app/ifacialmocap/id1489470545?uo=4",
       "contentAdvisoryRating": "4+",
       "genres": [
-        "仕事効率化",
-        "エンターテインメント"
+        "Produktivität",
+        "Unterhaltung"
       ],
-      "trackId": 1489470545,
+      "artistId": 1489470544,
+      "artistName": "DevelopW LLC",
+      "price": 8.99,
       "trackName": "iFacialMocap",
-      "releaseDate": "2020-01-13T08:00:00Z",
-      "releaseNotes": "軽微な不具合を修正しました。",
+      "trackId": 1489470545,
       "genreIds": [
         "6007",
         "6016"
@@ -172,9 +174,10 @@
       "currentVersionReleaseDate": "2026-04-17T04:45:23Z",
       "version": "1.5.2",
       "wrapperType": "software",
-      "currency": "JPY",
-      "description": "iFacialMocapは、iOSアプリで表情をキャプチャし、PC上の3DCGソフトウェアとリアルタイムに通信できます。また、メールでFBXエクスポートを行うことが出来ます。PC側のソフトウェアでは、VRMモデルの読み込みを行えます。\n\n詳細な使用法は、次のURLから参照できます。\nhttps://ifacialmocap.com/home/japanese/\n\n【このアプリで出来ること】\nこのアプリは、Maya、Unity、3dsMax、BlenderとWiFi経由でリアルタイムで通信することにより、顔のアニメーションを作成できます。また、Maya、Blenderではアニメーションをベイク処理することができます。iOS端末内で録画したモーションをFBX Ascii形式でエクスポートできます。\n\nこのアプリは、iOSアプリ内にVRMアバターをロードできます。また、このアプリは、PC上のVMagicMirrorや、Luppet、HANA_APPなどのVRM関連アプリと連携させて頂いております。\n\n【使用条件】\n・iOS端末でWiFiを受信できる環境である必要があります。\n\n・受信するPCとiOS端末は同一のルーターに接続されている必要があります。(同一のルーターであればPC側が有線、iOS側が無線でも動作します。)\n\n・iOS端末がFaceIDを搭載している必要があります。\n\n【使用方法】\n使用するには、まずモバイルアプリを起動してから、PC側で受信するソフトを起動し、iPhoneのIPアドレスを入力します。\n\nPC用で受信するソフトは以下のURLからDLします。\nhttps://ifacialmocap.com/download/japanese/\n\n 次に、命名規則に従って最大52個のモーフターゲット（BlendShapeまたはShapeKey）を作成します。最後に、3DCGソフトウェアを使用してスクリプト/アドオンをロードし、PC側でwaitボタンまたは再生ボタンを押した後に、Connectボタンを押します。\n\n非常に高精度な顔のモーションキャプチャを非常に簡単に実行できます。\n\n\n【対応端末】\nこのアプリは、FaceIDを搭載したiPhoneX以降のiPhone,iPadでのみ使用することができます。\nFaceID対応端末は以下になります。\n\n・iPhone\niPhone13 mini\nPhone13 Pro Max\niPhone13 Pro\niPhone13\niPhone12 Pro Max\niPhone12 Pro\niPhone12\niPhone 11 Pro Max\niPhone 11 Pro\niPhone 11\niPhone XS Max\niPhone XS\niPhone XR\niPhone X\n\n \n・iPad\niPad Pro 12.9 インチ (第 5 世代)\niPad Pro 12.9 インチ (第 4 世代)\niPad Pro 12.9 インチ (第 3 世代)\niPad Pro 11 インチ (第 2 世代)\niPad Pro 11 インチ\n\n※2020年に発売の新しいiPhoneSE第2世代にはFaceIDが搭載されていませんが、iOS14以降にアップデートすれば使用できます。iPhoneSE第2世代に限らず、A12以上のチップを搭載している場合、iOS14にアップデートされている場合、使用できます。",
-      "averageUserRatingForCurrentVersion": 4.08,
+      "currency": "EUR",
+      "description": "Mit iFacialMocap können Sie Gesichtsausdrücke in einer iOS-App erfassen und in Echtzeit mit der 3DCG-Software auf Ihrem PC kommunizieren. Sie können einen FBX-Export auch per E-Mail durchführen. Mit der PC-seitigen Software können Sie VRM-Modelle importieren.\n\nUm FBX zu exportieren, schalten Sie den REC-Modus ein und nehmen Sie auf. Wenn Sie die Mail-Taste drücken, wird der Versionsauswahlbildschirm von FBX angezeigt. Wenn Sie die OK-Taste drücken, wird die FBX-Datei im Dateiordner gespeichert und der Mailer wird gestartet.\n\nEine ausführliche Verwendung finden Sie unter der folgenden URL:\nhttps://ifacialmocap.com/\n\nDiese App kann Gesichtsanimationen erstellen, indem sie in Echtzeit mit Maya, Unity, 3dsMax und Blender kommuniziert. Außerdem können in Echtzeit erstellte Animationen gebacken werden.\n\nStarten Sie zur Verwendung zuerst diese App, starten Sie dann \"iFacialMocap to SoftWare App\" auf Ihrem PC und geben Sie die IP-Adresse Ihres iPhones ein.\n(Vom PC herunterladen: https://ifacialmocap.com/download/\n)\n\n Erstellen Sie als Nächstes bis zu 52 Morph-Ziele (BlendShape oder ShapeKey) gemäß der Namenskonvention.\nVerwenden Sie zum Schluss die 3DCG-Software, um das Skript / Add-On zu laden, und drücken Sie die Verbindungstaste.\n\nEine sehr genaue Erfassung der Gesichtsbewegungen kann sehr einfach durchgeführt werden.\n\nDiese App ist nur für Modelle verfügbar, die mit FaceID ausgestattet sind. Das Kamerabild und die daraus resultierenden Tiefendaten werden nur zum Senden von Bewegungserfassungsdaten an den PC des Benutzers verwendet. Diese Daten werden nicht im iPhone gespeichert. Um Tiefendaten von der Apple-API abzurufen, ist der Zugriff auf die Kamera erforderlich.\n\nDiese Anwendung wird nur für die Kommunikation mit PCs innerhalb desselben Netzwerks verwendet und sendet keine Informationen an Dritte.\n\nDiese App kann nur auf iOS-Geräten verwendet werden, die mit FaceID ausgestattet sind.\n\nFolgende Geräte werden unterstützt:\n\n・iPhone\niPhone13 mini\nPhone13 Pro Max\niPhone13 Pro\niPhone13\niPhone12 Pro Max\niPhone12 Pro\niPhone12\niPhone 11 Pro Max\niPhone 11 Pro\niPhone 11\niPhone XS Max\niPhone XS\niPhone XR\niPhone X\n\n\n・ IPad\niPad Pro 12,9 Zoll (5. Generation)\niPad Pro 12,9 Zoll (4. Generation)\niPad Pro 12,9 Zoll (3. Generation)\niPad Pro 11 Zoll (2. Generation)\niPad Pro 11 Zoll\n\n* Face ID ist nicht in der neuen iPhone SE 2. Generation installiert, die im Jahr 2020 veröffentlicht wurde. Sie können iFacial Mocap jedoch verwenden, indem Sie auf iOS 14 oder höher aktualisieren. ICacial Mocap ist nicht nur auf das iPhone SE der 2. Generation beschränkt, sondern kann auch verwendet werden, wenn es über einen A12-Chip oder einen höheren Chip verfügt und auf iOS14 aktualisiert wurde.",
+      "bundleId": "emoto.iFacialMocap",
+      "averageUserRatingForCurrentVersion": 3,
       "languageCodesISO2A": [
         "EN",
         "FR",
@@ -193,16 +196,13 @@
         "ZH"
       ],
       "fileSizeBytes": "309515264",
-      "formattedPrice": "¥900",
-      "userRatingCountForCurrentVersion": 50,
+      "formattedPrice": "8,99 €",
+      "userRatingCountForCurrentVersion": 11,
       "trackContentRating": "4+",
       "minimumOsVersion": "13.2",
-      "averageUserRating": 4.08,
-      "bundleId": "emoto.iFacialMocap",
-      "price": 900.0,
-      "artistName": "DevelopW LLC",
-      "artistId": 1489470544,
-      "userRatingCount": 50
+      "releaseDate": "2020-01-13T08:00:00Z",
+      "releaseNotes": "Kleinere Fehler wurden behoben.",
+      "userRatingCount": 11
     }
   ]
 }

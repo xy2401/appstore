@@ -2,10 +2,10 @@
   "resultCount": 1,
   "results": [
     {
-      "artistViewUrl": "https://apps.apple.com/us/developer/gammon-applications-llc/id525299152?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/f7/6f/7a/f76f7a4e-bb5a-0484-ac08-cd1aa7e0d3d4/AppIcon-0-1x_U007emarketing-0-0-85-220-0-10.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/f7/6f/7a/f76f7a4e-bb5a-0484-ac08-cd1aa7e0d3d4/AppIcon-0-1x_U007emarketing-0-0-85-220-0-10.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPad2Wifi-iPad2Wifi",
         "iPad23G-iPad23G",
@@ -159,13 +159,22 @@
         "Watch11Cellular-Watch11Cellular",
         "WatchSE3-WatchSE3",
         "WatchSE3Cellular-WatchSE3Cellular",
-        "WatchUltra3-WatchUltra3"
-      ],
-      "features": [
-        "iosUniversal"
+        "WatchUltra3-WatchUltra3",
+        "iPadPro11M5-iPadPro11M5",
+        "iPadPro11M5Cellular-iPadPro11M5Cellular",
+        "iPadPro13M5-iPadPro13M5",
+        "iPadPro13M5Cellular-iPadPro13M5Cellular",
+        "iPhone17e-iPhone17e",
+        "iPadAir11M4-iPadAir11M4",
+        "iPadAir11M4Cellular-iPadAir11M4Cellular",
+        "iPadAir13M4-iPadAir13M4",
+        "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
       "advisories": [],
       "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/us/developer/gammon-applications-llc/id525299152?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/f7/6f/7a/f76f7a4e-bb5a-0484-ac08-cd1aa7e0d3d4/AppIcon-0-1x_U007emarketing-0-0-85-220-0-10.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/f7/6f/7a/f76f7a4e-bb5a-0484-ac08-cd1aa7e0d3d4/AppIcon-0-1x_U007emarketing-0-0-85-220-0-10.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/3a/5c/2b/3a5c2b4f-b186-09e9-a65f-c2ac61c0335c/pr_source.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/dd/e6/56/dde65636-b31b-5729-05e9-4bc29f723a3a/pr_source.png/392x696bb.png",
@@ -186,43 +195,43 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/f7/6f/7a/f76f7a4e-bb5a-0484-ac08-cd1aa7e0d3d4/AppIcon-0-1x_U007emarketing-0-0-85-220-0-10.png/512x512bb.jpg",
-      "trackCensoredName": "Land Nav Assistant",
-      "trackViewUrl": "https://apps.apple.com/us/app/land-nav-assistant/id525299323?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.52113,
-      "userRatingCountForCurrentVersion": 71,
-      "artistId": 525299152,
-      "artistName": "Gammon Applications, LLC",
       "genres": [
         "Navigation"
       ],
       "price": 2.99,
-      "releaseDate": "2012-05-18T16:59:25Z",
+      "bundleId": "com.gammonapps.landnav",
+      "artistId": 525299152,
+      "artistName": "Gammon Applications, LLC",
+      "releaseNotes": "Draw MGRS Grid Overlays anywhere on the map (1000m, 100m)\niOS 12 Optimization\nScreen improvements for iPhone X, XS, and XR",
       "trackId": 525299323,
       "trackName": "Land Nav Assistant",
-      "genreIds": [
-        "6010"
-      ],
+      "releaseDate": "2012-05-18T16:59:25Z",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "Gammon Applications, LLC",
       "primaryGenreName": "Navigation",
       "primaryGenreId": 6010,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "bundleId": "com.gammonapps.landnav",
-      "sellerName": "Gammon Applications, LLC",
       "currentVersionReleaseDate": "2019-04-08T01:01:29Z",
-      "releaseNotes": "Draw MGRS Grid Overlays anywhere on the map (1000m, 100m)\niOS 12 Optimization\nScreen improvements for iPhone X, XS, and XR",
       "version": "2.2",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Land Nav Assistant accepts MGRS (Military Grid) or Latitude / Longitude coordinates and visually navigates you to each point.\n\nThis app was designed with Army, Marine, and other military personnel in mind. Use it to correct your Land Nav technique by analyzing your pace count and tendency to veer left and right.\n\nAvailable Input: 8 digit MGRS, 10 digit MGRS, Lat/Lon decimal, Lat/Lon dms, and map input.\n\nAngles: degrees or mils\nDistance: meters/km or feet/miles\nSpeed: kph or mph\n\nUse the simple arrow interface or map to direct you to your locations. Your distance, direction, speed, and bearing are shown as you navigate.\n\nLong-tap anywhere on the map to get the coordinate for that location. Easily add locations via the Map interface.\n\nPlan your course by ordering points, or use the course optimization tool which will help you calculate the shortest path possible!\n\nGet distance/direction between two points by tapping the path drawn between them.\n\nSatellite, Terrain, Road, and basic Topographic maps show you, your locations, and lets you enter in new ones. \n\nOverlay a 1000m or 100m MGRS grid anywhere on the map.\n\nDisplays distance/direction from your currentl location to all points, or between any two points.\n\nDownload your Locations as a spreadsheet to save anywhere, or to share with anyone you choose.\n\nImport a large set of locations via the web import utility, available at: https://www.gammonapplications.com/land-navigation-services/import\n\nThis app uses the Military Grid Reference System (MGRS) and Latitude / Longitude.\n\nChoose to display your locations as MGRS 10-digit, MGRS 8-digit, or LatLon Decimal.\n\nD:M:S can be input in the format DD:MM:SS followed by the appropriate direction (NSWE). Default direction is N, W.\n\n\nDO NOT use this application while learning Land Navigation. Land Navigation is a valuable skill, and should be mastered before using this application. Do not rely solely on this application for navigation, especially when lost. Always be aware of your surroundings.",
+      "averageUserRating": 4.47945,
+      "trackCensoredName": "Land Nav Assistant",
+      "trackViewUrl": "https://apps.apple.com/us/app/land-nav-assistant/id525299323?uo=4",
+      "contentAdvisoryRating": "4+",
       "minimumOsVersion": "9.0",
+      "userRatingCountForCurrentVersion": 73,
+      "averageUserRatingForCurrentVersion": 4.47945,
       "languageCodesISO2A": [
         "EN"
       ],
       "fileSizeBytes": "37965824",
       "formattedPrice": "$2.99",
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.52113,
-      "userRatingCount": 71
+      "genreIds": [
+        "6010"
+      ],
+      "userRatingCount": 73
     }
   ]
 }
