@@ -15,6 +15,11 @@ on:
         required: false
         type: number
         default: 100
+      countries:
+        description: 'Country codes separated by commas or spaces; leave empty for all'
+        required: false
+        type: string
+        default: ''
 
 concurrency:
   group: update-rankings
@@ -24,6 +29,8 @@ jobs:
   update-rankings:
     runs-on: ubuntu-latest
     timeout-minutes: 240
+    env:
+      SELECTED_COUNTRIES: ${{ inputs.countries || '' }}
 
     permissions:
       contents: write
@@ -52,6 +59,9 @@ jobs:
           if [[ "${{ inputs.skip_existing }}" == "true" ]]; then
             args+=(--skip-existing)
           fi
+          if [[ -n "$SELECTED_COUNTRIES" ]]; then
+            args+=(--countries "$SELECTED_COUNTRIES")
+          fi
           node scripts/downloader.mjs "${args[@]}"
 
       - name: Stage 1 - Commit ranking checkpoint
@@ -72,6 +82,9 @@ jobs:
           if [[ "${{ inputs.skip_existing }}" == "true" ]]; then
             args+=(--skip-existing)
           fi
+          if [[ -n "$SELECTED_COUNTRIES" ]]; then
+            args+=(--countries "$SELECTED_COUNTRIES")
+          fi
           node scripts/downloader.mjs "${args[@]}"
 
       - name: Stage 2 - Commit details checkpoint
@@ -91,6 +104,9 @@ jobs:
           args=(media --date "$ARCHIVE_DATE" --generate-markdown)
           if [[ "${{ inputs.skip_existing }}" == "true" ]]; then
             args+=(--skip-existing)
+          fi
+          if [[ -n "$SELECTED_COUNTRIES" ]]; then
+            args+=(--countries "$SELECTED_COUNTRIES")
           fi
           node scripts/downloader.mjs "${args[@]}"
 

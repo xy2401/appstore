@@ -10,6 +10,9 @@ const RANKINGS_DIR = path.join(ROOT_DIR, 'rankings');
 const DETAILS_DIR = path.join(ROOT_DIR, 'details');
 const LOGOS_DIR = path.join(ROOT_DIR, 'logos');
 const RANKINGS_INDEX = path.join(ROOT_DIR, 'rankings.json');
+const DETAIL_BATCH_SIZE = 25;
+const LOOKUP_MIN_INTERVAL_MS = 3_250;
+const LOOKUP_RATE_LIMIT_DELAYS_MS = [30_000, 60_000];
 
 const COUNTRIES = ['us', 'cn', 'jp', 'gb', 'de', 'fr'];
 const FEED_CONFIGS = [
@@ -45,9 +48,10 @@ Commands:
   all                      Run rank, details, and media in order (default)
 
 Options:
-  --skip-existing          Reuse cached ranking, detail, and artwork files
+  --skip-existing          Reuse cached ranking and detail JSON files
   --generate-markdown      Generate Markdown summaries for ranking files
   --limit <number>         Results requested from each feed (default: 100)
+  --countries <list>       Countries separated by commas or spaces (default: all)
   --date <YYYYMMDD>        Archive date override, useful for backfills
   -h, --help               Show this help
 `);
@@ -59,6 +63,25 @@ function readPositiveInteger(value, optionName) {
         throw new Error(`${optionName} must be a positive integer.`);
     }
     return parsed;
+}
+
+function parseCountries(value) {
+    const countries = String(value || '')
+        .toLowerCase()
+        .split(/[\s,]+/)
+        .filter(Boolean);
+    const invalidCountries = countries.filter(country => !COUNTRIES.includes(country));
+
+    if (countries.length === 0) {
+        throw new Error('--countries must include at least one country code.');
+    }
+    if (invalidCountries.length > 0) {
+        throw new Error(
+            `Unsupported countries: ${[...new Set(invalidCountries)].join(', ')}. `
+            + `Supported values: ${COUNTRIES.join(', ')}.`
+        );
+    }
+    return [...new Set(countries)];
 }
 
 export function parseArguments(argv) {
@@ -76,6 +99,7 @@ export function parseArguments(argv) {
         skipExisting: false,
         generateMarkdown: false,
         limit: 100,
+        countries: [...COUNTRIES],
         date: new Date().toISOString().slice(0, 10).replaceAll('-', ''),
         help: false
     };
@@ -91,6 +115,14 @@ export function parseArguments(argv) {
             options.limit = readPositiveInteger(args[++index], '--limit');
         } else if (argument.startsWith('--limit=')) {
             options.limit = readPositiveInteger(argument.slice('--limit='.length), '--limit');
+        } else if (argument === '--countries') {
+            const values = [];
+            while (args[index + 1] && !args[index + 1].startsWith('-')) {
+                values.push(args[++index]);
+            }
+            options.countries = parseCountries(values.join(' '));
+        } else if (argument.startsWith('--countries=')) {
+            options.countries = parseCountries(argument.slice('--countries='.length));
         } else if (argument === '--date') {
             options.date = args[++index];
         } else if (argument.startsWith('--date=')) {
@@ -111,6 +143,19 @@ export function parseArguments(argv) {
 
 function sleep(milliseconds) {
     return new Promise(resolve => setTimeout(resolve, milliseconds));
+}
+
+export function hashArtworkUrl(url) {
+    let hash = 0x811c9dc5;
+    for (let index = 0; index < url.length; index += 1) {
+        hash ^= url.charCodeAt(index);
+        hash = Math.imul(hash, 0x01000193);
+    }
+    return (hash >>> 0).toString(16).padStart(8, '0');
+}
+
+export function getArtworkFileName(id, artworkUrl) {
+    return `${id}-${hashArtworkUrl(artworkUrl)}.png`;
 }
 
 async function fileExists(filePath) {
@@ -196,6 +241,10 @@ async function fetchResource(url, { responseType, attempts = 3, timeoutMs = 30_0
         }
     }
 
+    if (lastError && !lastError.requestUrl) {
+        lastError.requestUrl = url;
+        lastError.message = `${lastError.message}; URL: ${url}`;
+    }
     throw lastError;
 }
 
@@ -305,12 +354,12 @@ async function downloadRankings(options) {
     await mkdir(outputDirectory, { recursive: true });
 
     await runCountryTasks(
-        COUNTRIES,
+        options.countries,
         country => downloadCountryRankings(country, outputDirectory, options)
     );
 
     try {
-        return await loadRankingResults(options.date);
+        return await loadRankingResults(options.date, options.countries);
     } catch (error) {
         throw new Error('No readable ranking feeds are available after all country tasks finished.', {
             cause: error
@@ -318,17 +367,22 @@ async function downloadRankings(options) {
     }
 }
 
-async function loadRankingResults(date) {
+async function loadRankingResults(date, countries = COUNTRIES) {
     const directory = path.join(RANKINGS_DIR, date);
     if (!await fileExists(directory)) {
         throw new Error(`Ranking archive does not exist: rankings/${date}`);
     }
 
     const files = (await readdir(directory))
-        .filter(fileName => fileName.endsWith('.json'))
+        .filter(fileName => (
+            fileName.endsWith('.json')
+            && countries.includes(fileName.split('_')[0])
+        ))
         .sort();
     if (files.length === 0) {
-        throw new Error(`No ranking JSON files found in rankings/${date}`);
+        throw new Error(
+            `No ranking JSON files found in rankings/${date} for ${countries.join(', ')}.`
+        );
     }
 
     return runSequential(files, async fileName => ({
@@ -344,8 +398,16 @@ function collectMediaEntries(rankingResults) {
     for (const ranking of rankingResults) {
         for (const item of ranking.data?.feed?.results || []) {
             const id = String(item.id || '');
-            if (id && !entries.has(id)) {
-                entries.set(id, { id, country: ranking.country, item });
+            if (!id) continue;
+
+            const artworkUrl = item.artworkUrl100 || item.artworkUrl60 || '';
+            if (!entries.has(id)) {
+                entries.set(id, { id, country: ranking.country, item, artworkUrls: [] });
+            }
+
+            const entry = entries.get(id);
+            if (artworkUrl && !entry.artworkUrls.includes(artworkUrl)) {
+                entry.artworkUrls.push(artworkUrl);
             }
         }
     }
@@ -355,73 +417,274 @@ function collectMediaEntries(rankingResults) {
 
 function summarizeMedia(entry, lookupData) {
     const details = lookupData?.results?.[0] || {};
+    const artworkUrl = details.artworkUrl600
+        || details.artworkUrl512
+        || details.artworkUrl100
+        || details.artworkUrl60
+        || entry.item.artworkUrl100
+        || entry.item.artworkUrl60
+        || '';
+
     return {
         id: entry.id,
         name: details.trackName || details.collectionName || details.name || entry.item.name || '',
         description: details.description || details.longDescription || '',
-        artworkUrl: details.artworkUrl600
-            || details.artworkUrl512
-            || details.artworkUrl100
-            || details.artworkUrl60
-            || entry.item.artworkUrl100
-            || ''
+        artworkUrl,
+        versionArtworkUrls: entry.artworkUrls.length > 0
+            ? entry.artworkUrls
+            : artworkUrl ? [artworkUrl] : []
     };
+}
+
+export function createRequestThrottle(
+    minIntervalMs = LOOKUP_MIN_INTERVAL_MS,
+    { now = Date.now, wait = sleep } = {}
+) {
+    let lastStartedAt = null;
+
+    return async function waitForRequestSlot() {
+        if (lastStartedAt !== null) {
+            const waitMs = Math.max(0, minIntervalMs - (now() - lastStartedAt));
+            if (waitMs > 0) await wait(waitMs);
+        }
+        lastStartedAt = now();
+    };
+}
+
+export function createDetailBatches(entries, batchSize = DETAIL_BATCH_SIZE) {
+    const entriesByCountry = new Map();
+
+    for (const entry of entries) {
+        if (!entriesByCountry.has(entry.country)) entriesByCountry.set(entry.country, []);
+        entriesByCountry.get(entry.country).push(entry);
+    }
+
+    const batches = [];
+    for (const countryEntries of entriesByCountry.values()) {
+        for (let index = 0; index < countryEntries.length; index += batchSize) {
+            batches.push(countryEntries.slice(index, index + batchSize));
+        }
+    }
+    return batches;
+}
+
+function getPrimaryLookupResultId(result) {
+    if (result.wrapperType === 'collection' && result.collectionId != null) {
+        return String(result.collectionId);
+    }
+    if (result.wrapperType === 'artist' && result.artistId != null) {
+        return String(result.artistId);
+    }
+    return String(result.trackId ?? result.collectionId ?? result.artistId ?? '');
+}
+
+export function splitLookupResults(entries, lookupData) {
+    const requestedIds = new Set(entries.map(entry => String(entry.id)));
+    const resultsById = new Map();
+
+    for (const result of lookupData?.results || []) {
+        const candidateIds = [
+            getPrimaryLookupResultId(result),
+            result.trackId,
+            result.collectionId,
+            result.artistId
+        ].filter(value => value !== undefined && value !== null && value !== '')
+            .map(String);
+        const id = candidateIds.find(candidateId => requestedIds.has(candidateId));
+        if (id && !resultsById.has(id)) resultsById.set(id, result);
+    }
+
+    return resultsById;
+}
+
+async function downloadSingleDetail(entry, options) {
+    const filePath = path.join(DETAILS_DIR, `${entry.id}.json`);
+    const url = `https://itunes.apple.com/lookup?id=${encodeURIComponent(entry.id)}&country=${encodeURIComponent(entry.country)}`;
+    let lookupData = null;
+    let failed = false;
+
+    try {
+        const result = await downloadToFile(url, filePath, {
+            responseType: 'json',
+            skipExisting: options.skipExisting
+        });
+        lookupData = result.data;
+    } catch (error) {
+        if (await fileExists(filePath)) {
+            lookupData = await readJson(filePath).catch(() => null);
+        }
+        if (lookupData) console.warn(`[details] using existing ${entry.id}: ${error.message}`);
+        else {
+            console.warn(`[details] failed ${entry.id}: ${error.message}`);
+            failed = true;
+        }
+    }
+
+    return { lookupData, failed };
+}
+
+async function fetchDetailBatch(entries, waitForRequestSlot) {
+    const country = entries[0].country;
+    const ids = entries.map(entry => entry.id).join(',');
+    const url = `https://itunes.apple.com/lookup?id=${ids}&country=${encodeURIComponent(country)}`;
+    let retryDelayMs = 0;
+    let lastError;
+
+    for (let attempt = 1; attempt <= 3; attempt += 1) {
+        if (retryDelayMs > 0) await sleep(retryDelayMs);
+        await waitForRequestSlot();
+
+        try {
+            return await fetchResource(url, { responseType: 'json', attempts: 1 });
+        } catch (error) {
+            lastError = error;
+            const rateLimited = error instanceof HttpError
+                && (error.status === 403 || error.status === 429);
+            const retryable = !(error instanceof HttpError)
+                || rateLimited
+                || error.status === 408
+                || error.status >= 500;
+
+            if (!retryable || attempt === 3) break;
+
+            retryDelayMs = error.retryAfterMs
+                || (rateLimited
+                    ? LOOKUP_RATE_LIMIT_DELAYS_MS[attempt - 1]
+                    : (2 ** (attempt - 1)) * 1000);
+            console.warn(
+                `[details:${country}] batch request failed (${attempt}/3); `
+                + `retrying in ${Math.ceil(retryDelayMs / 1000)}s: ${error.message}`
+            );
+        }
+    }
+
+    throw lastError;
+}
+
+async function saveDetailBatch(entries, lookupData) {
+    const resultsById = splitLookupResults(entries, lookupData);
+
+    for (const entry of entries) {
+        const filePath = path.join(DETAILS_DIR, `${entry.id}.json`);
+        const result = resultsById.get(String(entry.id));
+        if (result) {
+            await atomicWrite(filePath, `${JSON.stringify({ resultCount: 1, results: [result] }, null, 2)}\n`);
+            continue;
+        }
+
+        const existing = await readJson(filePath).catch(() => null);
+        if (existing) {
+            console.warn(`[details] lookup omitted ${entry.id}; keeping existing file`);
+        } else {
+            await atomicWrite(filePath, `${JSON.stringify({ resultCount: 0, results: [] }, null, 2)}\n`);
+            console.warn(`[details] lookup returned no result for ${entry.id}`);
+        }
+    }
 }
 
 async function downloadDetails(entries, options) {
     let completed = 0;
+    let nextProgress = 100;
+    let lastReported = -1;
     const failures = [];
+    const pendingEntries = [];
+    const waitForRequestSlot = createRequestThrottle();
 
-    const mediaItems = await runSequential(entries, async entry => {
+    const reportProgress = force => {
+        if (completed === lastReported) return;
+        if (!force && completed < nextProgress) return;
+        console.log(`[details] ${completed}/${entries.length}`);
+        lastReported = completed;
+        while (nextProgress <= completed) nextProgress += 100;
+    };
+
+    for (const entry of entries) {
         const filePath = path.join(DETAILS_DIR, `${entry.id}.json`);
-        const url = `https://itunes.apple.com/lookup?id=${encodeURIComponent(entry.id)}&country=${encodeURIComponent(entry.country)}`;
-        let lookupData = null;
+        const cached = options.skipExisting
+            ? await readJson(filePath).catch(() => null)
+            : null;
+        if (cached) completed += 1;
+        else pendingEntries.push(entry);
+    }
 
+    reportProgress(false);
+
+    for (const batch of createDetailBatches(pendingEntries)) {
         try {
-            const result = await downloadToFile(url, filePath, {
-                responseType: 'json',
-                skipExisting: options.skipExisting
-            });
-            lookupData = result.data;
+            const lookupData = await fetchDetailBatch(batch, waitForRequestSlot);
+            await saveDetailBatch(batch, lookupData);
         } catch (error) {
-            if (await fileExists(filePath)) {
-                lookupData = await readJson(filePath).catch(() => null);
+            const uncachedIds = [];
+            for (const entry of batch) {
+                const filePath = path.join(DETAILS_DIR, `${entry.id}.json`);
+                const existing = await readJson(filePath).catch(() => null);
+                if (!existing) uncachedIds.push(entry.id);
             }
-            if (lookupData) {
-                console.warn(`[details] using existing ${entry.id}: ${error.message}`);
+
+            if (uncachedIds.length > 0) {
+                failures.push(...uncachedIds);
+                console.warn(
+                    `[details:${batch[0].country}] batch failed without cache for `
+                    + `${uncachedIds.join(', ')}: ${error.message}`
+                );
             } else {
-                console.warn(`[details] failed ${entry.id}: ${error.message}`);
-                failures.push(entry.id);
+                console.warn(
+                    `[details:${batch[0].country}] batch failed; using existing files: ${error.message}`
+                );
             }
         }
 
-        completed += 1;
-        if (completed % 100 === 0 || completed === entries.length) {
-            console.log(`[details] ${completed}/${entries.length}`);
-        }
-        return summarizeMedia(entry, lookupData);
-    });
+        completed += batch.length;
+        reportProgress(false);
+    }
+
+    reportProgress(true);
 
     if (failures.length > 0) {
         throw new Error(`Details stage incomplete: ${failures.length} item(s) failed.`);
     }
-    return mediaItems;
 }
 
-async function downloadArtwork(mediaItems, options) {
-    const itemsWithArtwork = mediaItems.filter(item => item.artworkUrl);
+async function downloadArtwork(mediaItems) {
+    const itemsWithArtwork = mediaItems.filter(
+        item => item.artworkUrl && item.versionArtworkUrls.length > 0
+    );
     let completed = 0;
     const failures = [];
 
     await runSequential(itemsWithArtwork, async item => {
-        const filePath = path.join(LOGOS_DIR, `${item.id}.png`);
+        const stableFilePath = path.join(LOGOS_DIR, `${item.id}.png`);
+        const versionFilePaths = item.versionArtworkUrls.map(artworkUrl => (
+            path.join(LOGOS_DIR, getArtworkFileName(item.id, artworkUrl))
+        ));
+        const missingVersionPaths = [];
+
+        for (const filePath of versionFilePaths) {
+            if (!await fileExists(filePath)) missingVersionPaths.push(filePath);
+        }
+
         try {
-            await downloadToFile(item.artworkUrl, filePath, {
-                responseType: 'binary',
-                skipExisting: options.skipExisting
-            });
+            let artworkData;
+            if (missingVersionPaths.length > 0) {
+                const primaryVersionPath = missingVersionPaths[0];
+                await downloadToFile(item.artworkUrl, primaryVersionPath, {
+                    responseType: 'binary',
+                    skipExisting: false
+                });
+                artworkData = await readFile(primaryVersionPath);
+
+                await Promise.all(missingVersionPaths.slice(1).map(
+                    filePath => atomicWrite(filePath, artworkData)
+                ));
+                await atomicWrite(stableFilePath, artworkData);
+                console.log(`[media] saved ${path.basename(primaryVersionPath)}`);
+            } else if (!await fileExists(stableFilePath)) {
+                artworkData = await readFile(versionFilePaths[0]);
+                await atomicWrite(stableFilePath, artworkData);
+                console.log(`[media] restored ${item.id}.png`);
+            }
         } catch (error) {
-            if (await fileExists(filePath)) {
+            if (await fileExists(stableFilePath)) {
                 console.warn(`[media] using existing ${item.id}: ${error.message}`);
             } else {
                 console.warn(`[media] failed ${item.id}: ${error.message}`);
@@ -477,9 +740,12 @@ function escapeMarkdown(text) {
     return String(text || '').replaceAll('[', '\\[').replaceAll(']', '\\]');
 }
 
-async function generateMarkdownFiles(date) {
+async function generateMarkdownFiles(date, countries = COUNTRIES) {
     const archiveDirectory = path.join(RANKINGS_DIR, date);
-    const rankingFiles = (await listFiles(archiveDirectory, file => file.endsWith('.json'))).sort();
+    const rankingFiles = (await listFiles(archiveDirectory, file => (
+        file.endsWith('.json')
+        && countries.includes(path.basename(file).split('_')[0])
+    ))).sort();
     const detailsCache = new Map();
 
     for (const rankingFile of rankingFiles) {
@@ -501,9 +767,16 @@ async function generateMarkdownFiles(date) {
             const title = details.trackName || details.collectionName || item.name || id;
             const description = details.description || details.longDescription || '';
             const anchor = createAnchor(title, id);
+            const versionArtworkUrl = item.artworkUrl100 || item.artworkUrl60 || '';
+            const versionLogoPath = versionArtworkUrl
+                ? path.join(LOGOS_DIR, getArtworkFileName(id, versionArtworkUrl))
+                : '';
+            const logoFilePath = versionLogoPath && await fileExists(versionLogoPath)
+                ? versionLogoPath
+                : path.join(LOGOS_DIR, `${id}.png`);
             const logoPath = path.relative(
                 path.dirname(rankingFile),
-                path.join(LOGOS_DIR, `${id}.png`)
+                logoFilePath
             ).split(path.sep).join('/');
 
             toc.push(`- [${escapeMarkdown(title)}](#${anchor})`);
@@ -550,7 +823,7 @@ export async function runRankStage(options) {
 
 export async function runDetailsStage(options) {
     console.log('[stage 2/3] Downloading detail JSON...');
-    const rankings = await loadRankingResults(options.date);
+    const rankings = await loadRankingResults(options.date, options.countries);
     const entries = collectMediaEntries(rankings);
     await downloadDetails(entries, options);
     console.log(`[stage 2/3] Complete: ${entries.length} unique media item(s).`);
@@ -558,12 +831,12 @@ export async function runDetailsStage(options) {
 
 export async function runMediaStage(options) {
     console.log('[stage 3/3] Downloading media files...');
-    const rankings = await loadRankingResults(options.date);
+    const rankings = await loadRankingResults(options.date, options.countries);
     const entries = collectMediaEntries(rankings);
     const mediaItems = await loadMediaItems(entries);
-    await downloadArtwork(mediaItems, options);
+    await downloadArtwork(mediaItems);
 
-    if (options.generateMarkdown) await generateMarkdownFiles(options.date);
+    if (options.generateMarkdown) await generateMarkdownFiles(options.date, options.countries);
     else console.log('[markdown] skipped');
 
     await rebuildRankingsIndex();
@@ -579,6 +852,7 @@ export async function main(argv = process.argv.slice(2)) {
 
     console.log(`Command: ${options.command}; archive date: ${options.date}`);
     console.log(`Limit: ${options.limit}; skip existing: ${options.skipExisting}`);
+    console.log(`Countries: ${options.countries.join(', ')}`);
     await ensureDirectories();
 
     if (options.command === 'rank' || options.command === 'all') {

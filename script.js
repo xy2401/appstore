@@ -20,6 +20,31 @@ const appDetailsCache = {};
 
 const systemThemePreference = window.matchMedia('(prefers-color-scheme: dark)');
 
+function hashArtworkUrl(url) {
+    let hash = 0x811c9dc5;
+    for (let index = 0; index < url.length; index += 1) {
+        hash ^= url.charCodeAt(index);
+        hash = Math.imul(hash, 0x01000193);
+    }
+    return (hash >>> 0).toString(16).padStart(8, '0');
+}
+
+function getVersionedLogoPath(id, artworkUrl) {
+    return artworkUrl ? `logos/${id}-${hashArtworkUrl(artworkUrl)}.png` : `logos/${id}.png`;
+}
+
+function setImageFallbacks(image, fallbackUrls) {
+    const initialUrl = image.getAttribute('src');
+    const urls = [...new Set(fallbackUrls.filter(url => url && url !== initialUrl))];
+    let nextUrl = 0;
+
+    image.addEventListener('error', () => {
+        if (nextUrl >= urls.length) return;
+        image.src = urls[nextUrl];
+        nextUrl += 1;
+    });
+}
+
 function getSavedTheme() {
     try {
         const theme = localStorage.getItem('theme');
@@ -504,11 +529,12 @@ function renderApps(apps) {
         const item = document.createElement('div');
         item.className = 'app-item';
         item.onclick = () => showAppDetails(app.id, app); // Pass basic app info as backup
-        
+
         const localLogoPath = `logos/${app.id}.png`;
+        const artworkUrl = app.artworkUrl100 || app.artworkUrl60 || '';
         
         item.innerHTML = `
-            <img src="${localLogoPath}" alt="${app.name}" class="app-logo" onerror="this.src='${app.artworkUrl100}'">
+            <img src="${escapeHtml(localLogoPath)}" alt="${escapeHtml(app.name)}" class="app-logo">
             <div class="app-info">
                 <div class="app-header">
                     <span class="app-rank">${index + 1}</span>
@@ -519,7 +545,8 @@ function renderApps(apps) {
                 </div>
             </div>
         `;
-        
+
+        setImageFallbacks(item.querySelector('.app-logo'), [artworkUrl]);
         appGrid.appendChild(item);
     });
 }
@@ -646,13 +673,23 @@ function renderInfoRows(rows) {
 
 function renderModalContent(details, appId, basicAppInfo) {
     const app = details || {};
-    const localLogoPath = `logos/${appId}.png`;
+    const stableLogoPath = `logos/${appId}.png`;
     const title = app.trackName || app.collectionName || basicAppInfo.name || 'Untitled';
     const subtitle = app.artistName || app.sellerName || basicAppInfo.artistName || '';
     const kind = basicAppInfo.kind || app.kind || app.collectionType?.toLowerCase() || app.wrapperType;
     const mediaType = formatMediaType(kind);
     const isSoftware = app.wrapperType === 'software' || app.kind === 'software' || kind === 'apps';
-    const artworkUrl = app.artworkUrl600 || app.artworkUrl512 || app.artworkUrl100 || basicAppInfo.artworkUrl100 || '';
+    const artworkUrl = app.artworkUrl600
+        || app.artworkUrl512
+        || app.artworkUrl100
+        || app.artworkUrl60
+        || basicAppInfo.artworkUrl100
+        || basicAppInfo.artworkUrl60
+        || '';
+    const versionArtworkUrl = basicAppInfo.artworkUrl100
+        || basicAppInfo.artworkUrl60
+        || artworkUrl;
+    const localLogoPath = getVersionedLogoPath(appId, versionArtworkUrl);
     const storeUrl = app.trackViewUrl || app.collectionViewUrl || basicAppInfo.url || '#';
     const price = formatPrice(app);
     const genres = formatGenres(app.genres) || app.primaryGenreName || formatGenres(basicAppInfo.genres);
@@ -710,7 +747,7 @@ function renderModalContent(details, appId, basicAppInfo) {
 
     modalBody.innerHTML = `
         <div class="modal-header-section">
-            <img src="${escapeHtml(localLogoPath)}" alt="${escapeHtml(title)}" class="modal-icon" onerror="this.src='${escapeHtml(artworkUrl)}'">
+            <img src="${escapeHtml(localLogoPath)}" alt="${escapeHtml(title)}" class="modal-icon">
             <div class="modal-title-info">
                 <h2>${escapeHtml(title)}</h2>
                 <div class="modal-subtitle">${escapeHtml(subtitle)}</div>
@@ -735,4 +772,9 @@ function renderModalContent(details, appId, basicAppInfo) {
             ${renderInfoRows(informationRows)}
         </div>
     `;
+
+    setImageFallbacks(
+        modalBody.querySelector('.modal-icon'),
+        [stableLogoPath, versionArtworkUrl]
+    );
 }

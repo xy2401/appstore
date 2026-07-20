@@ -37,13 +37,18 @@ node scripts/downloader.mjs
 
 Only the six country tasks (`us`, `cn`, `jp`, `gb`, `de`, and `fr`) run concurrently during the `rank` stage. Feeds within each country are fetched in order, and the `details` and `media` stages are sequential. Failed countries are reported without discarding available ranking files, so the workflow can checkpoint partial data and continue. Stage 1 stops only when no readable ranking feed is available after every country task finishes.
 
+The details stage groups entries by country and sends sequential Lookup API batches of up to 25 IDs. A shared start-to-start limiter leaves at least 3.25 seconds between every real request, while HTTP 403 and 429 responses receive 30-second and 60-second retry delays. Each batch response is split back into the existing `details/<media-id>.json` files, so the static interface does not depend on the batch format.
+
+Artwork is cached automatically by the exact URL stored in each ranking entry. Versioned files use `logos/<media-id>-<short-url-hash>.png`, while `logos/<media-id>.png` is overwritten only after a new version downloads successfully and serves as the latest fallback for ranking lists. Existing version hashes skip the network request, and older hashed files remain available to historical detail views.
+
 ### Options
 
 | Option | Default | Description |
 | --- | --- | --- |
-| `--skip-existing` | Off | Reuse cached ranking, detail, and artwork files. |
+| `--skip-existing` | Off | Reuse cached ranking and detail JSON files. |
 | `--generate-markdown` | Off | Generate `.md` summaries alongside ranking JSON files. |
 | `--limit <number>` | `100` | Maximum results requested from each Apple feed. |
+| `--countries <list>` | All six | Restrict all stages to comma- or space-separated country codes. |
 | `--date <YYYYMMDD>` | Current UTC date | Override the archive date for a backfill. |
 | `--help` | — | Show command usage. |
 
@@ -62,6 +67,10 @@ node scripts/downloader.mjs all --date 20260701 --skip-existing
 node scripts/downloader.mjs rank --date 20260701 --limit 50
 node scripts/downloader.mjs details --date 20260701
 node scripts/downloader.mjs media --date 20260701 --generate-markdown
+
+# Process only China, or China and Japan
+node scripts/downloader.mjs all --date 20260701 --countries cn
+node scripts/downloader.mjs all --date 20260701 --countries "cn jp"
 
 # Show command help
 node scripts/downloader.mjs --help
@@ -116,7 +125,7 @@ The interface automatically selects the newest available archive and provides de
 
 ## Automation
 
-`.github/workflows/update_rankings.yml` runs on Ubuntu with Node.js at `02:23 UTC` on the first day of each month or every Monday, and it can also be started manually. A single POSIX cron expression covers both conditions, so a Monday that falls on the first day of a month triggers only one scheduled run. The non-round start time avoids the busiest shared-runner scheduling boundary. Every run writes to the first-day archive for the current UTC month (for example, every July 2026 run updates `rankings/20260701/`). It creates a Git checkpoint after each successful stage: ranking RSS first, detail JSON second, then media, Markdown, and the published `rankings.json` index. Markdown generation is enabled by default in Stage 3. If a later stage fails, the completed earlier checkpoints remain available for a resumed run. GitHub Pages is dispatched only after Stage 3 succeeds.
+`.github/workflows/update_rankings.yml` runs on Ubuntu with Node.js at `02:23 UTC` on the first day of each month or every Monday, and it can also be started manually. A single POSIX cron expression covers both conditions, so a Monday that falls on the first day of a month triggers only one scheduled run. The non-round start time avoids the busiest shared-runner scheduling boundary. Manual runs accept an optional `countries` value separated by commas or spaces (for example, `cn` or `cn jp`); leaving it empty processes all six countries. Every run writes to the first-day archive for the current UTC month (for example, every July 2026 run updates `rankings/20260701/`). It creates a Git checkpoint after each successful stage: ranking RSS first, detail JSON second, then media, Markdown, and the published `rankings.json` index. Markdown generation is enabled by default in Stage 3. If a later stage fails, the completed earlier checkpoints remain available for a resumed run. GitHub Pages is dispatched only after Stage 3 succeeds.
 
 `.github/workflows/update_rankings-ps.yml` is retained as a disabled rollback reference. Its job has a constant false condition and cannot execute the legacy downloader unless that condition is deliberately removed.
 
