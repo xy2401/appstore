@@ -14,7 +14,7 @@
     "copyright": "Copyright © 2026 Apple Inc. All rights reserved.",
     "country": "us",
     "icon": "https://www.apple.com/favicon.ico",
-    "updated": "Mon, 20 Jul 2026 09:04:52 +0000",
+    "updated": "Mon, 20 Jul 2026 10:14:27 +0000",
     "results": [
       {
         "artistName": "The New York Times",
@@ -154,6 +154,21 @@
         "url": "https://podcasts.apple.com/us/podcast/world-war-ii-with-tom-hanks/id1896760409"
       },
       {
+        "artistName": "Goalhanger",
+        "id": "1537788786",
+        "name": "The Rest Is History",
+        "kind": "podcasts",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/20/ed/c7/20edc799-fdb3-e608-a164-0cdaaee63c6b/mza_16701966284979673066.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1487",
+            "name": "History",
+            "url": "https://itunes.apple.com/us/genre/id1487"
+          }
+        ],
+        "url": "https://podcasts.apple.com/us/podcast/the-rest-is-history/id1537788786"
+      },
+      {
         "artistName": "The Ringer",
         "id": "1795483480",
         "name": "Good Hang with Amy Poehler",
@@ -169,19 +184,39 @@
         "url": "https://podcasts.apple.com/us/podcast/good-hang-with-amy-poehler/id1795483480"
       },
       {
-        "artistName": "Goalhanger",
-        "id": "1537788786",
-        "name": "The Rest Is History",
+        "artistName": "This American Life",
+        "id": "201671138",
+        "name": "This American Life",
         "kind": "podcasts",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/20/ed/c7/20edc799-fdb3-e608-a164-0cdaaee63c6b/mza_16701966284979673066.jpg/100x100bb.png",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/64/aa/3a/64aa3a66-a08a-947c-cf21-a5722a1b77ae/mza_11390421932467026234.png/100x100bb.png",
         "genres": [
           {
-            "genreId": "1487",
-            "name": "History",
-            "url": "https://itunes.apple.com/us/genre/id1487"
+            "genreId": "1324",
+            "name": "Society & Culture",
+            "url": "https://itunes.apple.com/us/genre/id1324"
+          },
+          {
+            "genreId": "1301",
+            "name": "Arts",
+            "url": "https://itunes.apple.com/us/genre/id1301"
           }
         ],
-        "url": "https://podcasts.apple.com/us/podcast/the-rest-is-history/id1537788786"
+        "url": "https://podcasts.apple.com/us/podcast/this-american-life/id201671138"
+      },
+      {
+        "artistName": "ABC News",
+        "id": "987967575",
+        "name": "20/20",
+        "kind": "podcasts",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/81/6c/5d/816c5d57-7c3f-3df9-1557-08e17469dfe4/mza_1433648970787567135.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1488",
+            "name": "True Crime",
+            "url": "https://itunes.apple.com/us/genre/id1488"
+          }
+        ],
+        "url": "https://podcasts.apple.com/us/podcast/20-20/id987967575"
       },
       {
         "artistName": "NPR",
@@ -215,21 +250,6 @@
         "url": "https://podcasts.apple.com/us/podcast/love-trapped/id1878220033"
       },
       {
-        "artistName": "ABC News",
-        "id": "987967575",
-        "name": "20/20",
-        "kind": "podcasts",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/81/6c/5d/816c5d57-7c3f-3df9-1557-08e17469dfe4/mza_1433648970787567135.jpg/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "1488",
-            "name": "True Crime",
-            "url": "https://itunes.apple.com/us/genre/id1488"
-          }
-        ],
-        "url": "https://podcasts.apple.com/us/podcast/20-20/id987967575"
-      },
-      {
         "artistName": "Sean Kelly",
         "id": "1676846015",
         "name": "Digital Social Hour",
@@ -258,26 +278,6 @@
           }
         ],
         "url": "https://podcasts.apple.com/us/podcast/unblinded-with-sean-callagy/id1844970260"
-      },
-      {
-        "artistName": "This American Life",
-        "id": "201671138",
-        "name": "This American Life",
-        "kind": "podcasts",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/64/aa/3a/64aa3a66-a08a-947c-cf21-a5722a1b77ae/mza_11390421932467026234.png/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "1324",
-            "name": "Society & Culture",
-            "url": "https://itunes.apple.com/us/genre/id1324"
-          },
-          {
-            "genreId": "1301",
-            "name": "Arts",
-            "url": "https://itunes.apple.com/us/genre/id1301"
-          }
-        ],
-        "url": "https://podcasts.apple.com/us/podcast/this-american-life/id201671138"
       },
       {
         "artistName": "CBS News",
@@ -356,6 +356,22 @@
         "url": "https://podcasts.apple.com/us/podcast/smartless/id1521578868"
       },
       {
+        "artistName": "Barstool Sports",
+        "id": "1089022756",
+        "name": "Pardon My Take",
+        "kind": "podcasts",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/35/74/6a/35746a0c-7687-7dde-ff04-338d93e78303/mza_10377078556009223546.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1545",
+            "name": "Sports",
+            "url": "https://itunes.apple.com/us/genre/id1545"
+          }
+        ],
+        "url": "https://podcasts.apple.com/us/podcast/pardon-my-take/id1089022756"
+      },
+      {
         "artistName": "NPR",
         "id": "121493804",
         "name": "Wait Wait... Don't Tell Me!",
@@ -376,22 +392,6 @@
         "url": "https://podcasts.apple.com/us/podcast/wait-wait-dont-tell-me/id121493804"
       },
       {
-        "artistName": "Barstool Sports",
-        "id": "1089022756",
-        "name": "Pardon My Take",
-        "kind": "podcasts",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/35/74/6a/35746a0c-7687-7dde-ff04-338d93e78303/mza_10377078556009223546.jpg/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "1545",
-            "name": "Sports",
-            "url": "https://itunes.apple.com/us/genre/id1545"
-          }
-        ],
-        "url": "https://podcasts.apple.com/us/podcast/pardon-my-take/id1089022756"
-      },
-      {
         "artistName": "Theo Von",
         "id": "1190981360",
         "name": "This Past Weekend w/ Theo Von",
@@ -408,22 +408,6 @@
         "url": "https://podcasts.apple.com/us/podcast/this-past-weekend-w-theo-von/id1190981360"
       },
       {
-        "artistName": "Shawn Ryan",
-        "id": "1492492083",
-        "name": "The Shawn Ryan Show",
-        "kind": "podcasts",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/d0/b3/2d/d0b32d7f-ab2d-5791-83b0-854f698a9184/mza_13561258173056659752.jpg/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "1324",
-            "name": "Society & Culture",
-            "url": "https://itunes.apple.com/us/genre/id1324"
-          }
-        ],
-        "url": "https://podcasts.apple.com/us/podcast/the-shawn-ryan-show/id1492492083"
-      },
-      {
         "artistName": "Ballen Studios",
         "id": "1608813794",
         "name": "MrBallen Podcast: Strange, Dark & Mysterious Stories",
@@ -437,37 +421,6 @@
           }
         ],
         "url": "https://podcasts.apple.com/us/podcast/mrballen-podcast-strange-dark-mysterious-stories/id1608813794"
-      },
-      {
-        "artistName": "Charles Schwartz",
-        "id": "1744386875",
-        "name": "Proven Podcast",
-        "kind": "podcasts",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/79/33/d2/7933d22b-9392-7d2c-714f-9a4c624003e5/mza_1012289391812617337.png/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "1321",
-            "name": "Business",
-            "url": "https://itunes.apple.com/us/genre/id1321"
-          }
-        ],
-        "url": "https://podcasts.apple.com/us/podcast/proven-podcast/id1744386875"
-      },
-      {
-        "artistName": "Hannah Berner & Paige DeSorbo",
-        "id": "1536352412",
-        "name": "Giggly Squad",
-        "kind": "podcasts",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b1/0a/29/b10a293d-31bf-0e82-dd54-50452336f4c1/mza_908601013238146456.jpeg/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "1303",
-            "name": "Comedy",
-            "url": "https://itunes.apple.com/us/genre/id1303"
-          }
-        ],
-        "url": "https://podcasts.apple.com/us/podcast/giggly-squad/id1536352412"
       },
       {
         "artistName": "MeidasTouch Network",
@@ -486,6 +439,22 @@
         "url": "https://podcasts.apple.com/us/podcast/the-meidastouch-podcast/id1510240831"
       },
       {
+        "artistName": "Shawn Ryan",
+        "id": "1492492083",
+        "name": "The Shawn Ryan Show",
+        "kind": "podcasts",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/d0/b3/2d/d0b32d7f-ab2d-5791-83b0-854f698a9184/mza_13561258173056659752.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1324",
+            "name": "Society & Culture",
+            "url": "https://itunes.apple.com/us/genre/id1324"
+          }
+        ],
+        "url": "https://podcasts.apple.com/us/podcast/the-shawn-ryan-show/id1492492083"
+      },
+      {
         "artistName": "Exactly Right and iHeartPodcasts",
         "id": "1074507850",
         "name": "My Favorite Murder with Karen Kilgariff and Georgia Hardstark",
@@ -502,24 +471,35 @@
         "url": "https://podcasts.apple.com/us/podcast/my-favorite-murder-with-karen-kilgariff-and/id1074507850"
       },
       {
-        "artistName": "Ascension",
-        "id": "1539568321",
-        "name": "The Bible in a Year (with Fr. Mike Schmitz)",
+        "artistName": "Hannah Berner & Paige DeSorbo",
+        "id": "1536352412",
+        "name": "Giggly Squad",
         "kind": "podcasts",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/100x100bb.png",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b1/0a/29/b10a293d-31bf-0e82-dd54-50452336f4c1/mza_908601013238146456.jpeg/100x100bb.png",
         "genres": [
           {
-            "genreId": "1314",
-            "name": "Religion & Spirituality",
-            "url": "https://itunes.apple.com/us/genre/id1314"
-          },
-          {
-            "genreId": "1487",
-            "name": "History",
-            "url": "https://itunes.apple.com/us/genre/id1487"
+            "genreId": "1303",
+            "name": "Comedy",
+            "url": "https://itunes.apple.com/us/genre/id1303"
           }
         ],
-        "url": "https://podcasts.apple.com/us/podcast/the-bible-in-a-year-with-fr-mike-schmitz/id1539568321"
+        "url": "https://podcasts.apple.com/us/podcast/giggly-squad/id1536352412"
+      },
+      {
+        "artistName": "Charles Schwartz",
+        "id": "1744386875",
+        "name": "Proven Podcast",
+        "kind": "podcasts",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/79/33/d2/7933d22b-9392-7d2c-714f-9a4c624003e5/mza_1012289391812617337.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1321",
+            "name": "Business",
+            "url": "https://itunes.apple.com/us/genre/id1321"
+          }
+        ],
+        "url": "https://podcasts.apple.com/us/podcast/proven-podcast/id1744386875"
       },
       {
         "artistName": "Armchair Umbrella",
@@ -543,24 +523,24 @@
         "url": "https://podcasts.apple.com/us/podcast/armchair-expert-with-dax-shepard/id1345682353"
       },
       {
-        "artistName": "Ramsey Network",
-        "id": "77001367",
-        "name": "The Ramsey Show",
+        "artistName": "Ascension",
+        "id": "1539568321",
+        "name": "The Bible in a Year (with Fr. Mike Schmitz)",
         "kind": "podcasts",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/52/5a/58/525a5881-56d7-af3a-b134-5917b08d6d0f/mza_1355546972903263890.jpg/100x100bb.png",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/100x100bb.png",
         "genres": [
           {
-            "genreId": "1321",
-            "name": "Business",
-            "url": "https://itunes.apple.com/us/genre/id1321"
+            "genreId": "1314",
+            "name": "Religion & Spirituality",
+            "url": "https://itunes.apple.com/us/genre/id1314"
           },
           {
-            "genreId": "1304",
-            "name": "Education",
-            "url": "https://itunes.apple.com/us/genre/id1304"
+            "genreId": "1487",
+            "name": "History",
+            "url": "https://itunes.apple.com/us/genre/id1487"
           }
         ],
-        "url": "https://podcasts.apple.com/us/podcast/the-ramsey-show/id77001367"
+        "url": "https://podcasts.apple.com/us/podcast/the-bible-in-a-year-with-fr-mike-schmitz/id1539568321"
       },
       {
         "artistName": "DOAC",
@@ -603,19 +583,24 @@
         "url": "https://podcasts.apple.com/us/podcast/snapped-women-who-murder/id1145089790"
       },
       {
-        "artistName": "The Daily Wire",
-        "id": "1047335260",
-        "name": "The Ben Shapiro Show",
+        "artistName": "Ramsey Network",
+        "id": "77001367",
+        "name": "The Ramsey Show",
         "kind": "podcasts",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b6/2c/2c/b62c2c46-3fd6-5733-2c82-b95b781a4b40/mza_17718419788103424619.jpg/100x100bb.png",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/52/5a/58/525a5881-56d7-af3a-b134-5917b08d6d0f/mza_1355546972903263890.jpg/100x100bb.png",
         "genres": [
           {
-            "genreId": "1489",
-            "name": "News",
-            "url": "https://itunes.apple.com/us/genre/id1489"
+            "genreId": "1321",
+            "name": "Business",
+            "url": "https://itunes.apple.com/us/genre/id1321"
+          },
+          {
+            "genreId": "1304",
+            "name": "Education",
+            "url": "https://itunes.apple.com/us/genre/id1304"
           }
         ],
-        "url": "https://podcasts.apple.com/us/podcast/the-ben-shapiro-show/id1047335260"
+        "url": "https://podcasts.apple.com/us/podcast/the-ramsey-show/id77001367"
       },
       {
         "artistName": "SiriusXM",
@@ -639,12 +624,42 @@
         "url": "https://podcasts.apple.com/us/podcast/the-megyn-kelly-show/id1532976305"
       },
       {
-        "artistName": "Jen Cohen",
-        "id": "1451897026",
-        "name": "Habits and Hustle",
+        "artistName": "The Daily Wire",
+        "id": "1047335260",
+        "name": "The Ben Shapiro Show",
+        "kind": "podcasts",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b6/2c/2c/b62c2c46-3fd6-5733-2c82-b95b781a4b40/mza_17718419788103424619.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1489",
+            "name": "News",
+            "url": "https://itunes.apple.com/us/genre/id1489"
+          }
+        ],
+        "url": "https://podcasts.apple.com/us/podcast/the-ben-shapiro-show/id1047335260"
+      },
+      {
+        "artistName": "The Ringer",
+        "id": "1043699613",
+        "name": "The Bill Simmons Podcast",
         "kind": "podcasts",
         "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ba/d2/09/bad209e9-7b0d-66b8-14fe-207a69d9397b/mza_12651442554869510823.jpeg/100x100bb.png",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/d6/ec/33/d6ec332d-41b2-4f6e-3b26-26932d266089/mza_9745793819236520970.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1545",
+            "name": "Sports",
+            "url": "https://itunes.apple.com/us/genre/id1545"
+          }
+        ],
+        "url": "https://podcasts.apple.com/us/podcast/the-bill-simmons-podcast/id1043699613"
+      },
+      {
+        "artistName": "Ryan Hawk",
+        "id": "985396258",
+        "name": "The Learning Leader Show With Ryan Hawk",
+        "kind": "podcasts",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fb/3c/0e/fb3c0e91-f0a8-44ef-403f-1ec20bece9e0/mza_454404552678702443.png/100x100bb.png",
         "genres": [
           {
             "genreId": "1321",
@@ -652,42 +667,27 @@
             "url": "https://itunes.apple.com/us/genre/id1321"
           }
         ],
-        "url": "https://podcasts.apple.com/us/podcast/habits-and-hustle/id1451897026"
+        "url": "https://podcasts.apple.com/us/podcast/the-learning-leader-show-with-ryan-hawk/id985396258"
       },
       {
-        "artistName": "Money News Network",
-        "id": "1559564016",
-        "name": "Money Rehab with Nicole Lapin",
+        "artistName": "Stephanie Soo",
+        "id": "1517954480",
+        "name": "Rotten Mango",
         "kind": "podcasts",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4f/50/41/4f50415c-330f-6be4-7ca1-30982e5cbbbe/mza_17349644131036885317.jpeg/100x100bb.png",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/13/8f/fa/138ffad5-1aee-a955-b73b-6aea47b55197/mza_13457757566766616901.jpg/100x100bb.png",
         "genres": [
           {
-            "genreId": "1321",
-            "name": "Business",
-            "url": "https://itunes.apple.com/us/genre/id1321"
+            "genreId": "1488",
+            "name": "True Crime",
+            "url": "https://itunes.apple.com/us/genre/id1488"
           },
           {
-            "genreId": "1304",
-            "name": "Education",
-            "url": "https://itunes.apple.com/us/genre/id1304"
+            "genreId": "1303",
+            "name": "Comedy",
+            "url": "https://itunes.apple.com/us/genre/id1303"
           }
         ],
-        "url": "https://podcasts.apple.com/us/podcast/money-rehab-with-nicole-lapin/id1559564016"
-      },
-      {
-        "artistName": "Hala Taha | Entrepreneurship, Sales, Marketing | YAP Media Network",
-        "id": "1368888880",
-        "name": "Young and Profiting with Hala Taha (Entrepreneurship, Sales, Marketing)",
-        "kind": "podcasts",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/80/c1/bd/80c1bd2c-eac4-bdb6-f8cb-ac980b4ad473/mza_16051863235006465622.jpeg/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "1321",
-            "name": "Business",
-            "url": "https://itunes.apple.com/us/genre/id1321"
-          }
-        ],
-        "url": "https://podcasts.apple.com/us/podcast/young-and-profiting-with-hala-taha-entrepreneurship/id1368888880"
+        "url": "https://podcasts.apple.com/us/podcast/rotten-mango/id1517954480"
       },
       {
         "artistName": "Passion Struck with John R. Miles",
@@ -703,6 +703,22 @@
           }
         ],
         "url": "https://podcasts.apple.com/us/podcast/passion-struck-with-john-r-miles/id1553279283"
+      },
+      {
+        "artistName": "Jen Cohen",
+        "id": "1451897026",
+        "name": "Habits and Hustle",
+        "kind": "podcasts",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ba/d2/09/bad209e9-7b0d-66b8-14fe-207a69d9397b/mza_12651442554869510823.jpeg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1321",
+            "name": "Business",
+            "url": "https://itunes.apple.com/us/genre/id1321"
+          }
+        ],
+        "url": "https://podcasts.apple.com/us/podcast/habits-and-hustle/id1451897026"
       },
       {
         "artistName": "Audible",
@@ -726,19 +742,25 @@
         "url": "https://podcasts.apple.com/us/podcast/dr-death/id1421573955"
       },
       {
-        "artistName": "Ryan Hawk",
-        "id": "985396258",
-        "name": "The Learning Leader Show With Ryan Hawk",
+        "artistName": "iHeartPodcasts | Glass Podcasts",
+        "id": "1615637724",
+        "name": "Betrayal Weekly",
         "kind": "podcasts",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fb/3c/0e/fb3c0e91-f0a8-44ef-403f-1ec20bece9e0/mza_454404552678702443.png/100x100bb.png",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5a/26/69/5a266933-839c-c4de-f0b6-e2f03e2289d6/mza_17463161178032816484.jpg/100x100bb.png",
         "genres": [
           {
-            "genreId": "1321",
-            "name": "Business",
-            "url": "https://itunes.apple.com/us/genre/id1321"
+            "genreId": "1488",
+            "name": "True Crime",
+            "url": "https://itunes.apple.com/us/genre/id1488"
+          },
+          {
+            "genreId": "1324",
+            "name": "Society & Culture",
+            "url": "https://itunes.apple.com/us/genre/id1324"
           }
         ],
-        "url": "https://podcasts.apple.com/us/podcast/the-learning-leader-show-with-ryan-hawk/id985396258"
+        "url": "https://podcasts.apple.com/us/podcast/betrayal-weekly/id1615637724"
       },
       {
         "artistName": "Matt McCusker & Shane Gillis",
@@ -762,80 +784,24 @@
         "url": "https://podcasts.apple.com/us/podcast/matt-and-shanes-secret-podcast/id1177068388"
       },
       {
-        "artistName": "Stephanie Soo",
-        "id": "1517954480",
-        "name": "Rotten Mango",
+        "artistName": "Money News Network",
+        "id": "1559564016",
+        "name": "Money Rehab with Nicole Lapin",
         "kind": "podcasts",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/13/8f/fa/138ffad5-1aee-a955-b73b-6aea47b55197/mza_13457757566766616901.jpg/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "1488",
-            "name": "True Crime",
-            "url": "https://itunes.apple.com/us/genre/id1488"
-          },
-          {
-            "genreId": "1303",
-            "name": "Comedy",
-            "url": "https://itunes.apple.com/us/genre/id1303"
-          }
-        ],
-        "url": "https://podcasts.apple.com/us/podcast/rotten-mango/id1517954480"
-      },
-      {
-        "artistName": "Andy Frisella",
-        "id": "1012570406",
-        "name": "REAL AF with Andy Frisella",
-        "kind": "podcasts",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/55/21/67/55216775-731a-1a0b-6c2a-81923902f058/mza_11706571282358600140.jpeg/100x100bb.png",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4f/50/41/4f50415c-330f-6be4-7ca1-30982e5cbbbe/mza_17349644131036885317.jpeg/100x100bb.png",
         "genres": [
           {
             "genreId": "1321",
             "name": "Business",
             "url": "https://itunes.apple.com/us/genre/id1321"
-          }
-        ],
-        "url": "https://podcasts.apple.com/us/podcast/real-af-with-andy-frisella/id1012570406"
-      },
-      {
-        "artistName": "All-In Podcast, LLC",
-        "id": "1502871393",
-        "name": "All-In with Chamath, Jason, Sacks & Friedberg",
-        "kind": "podcasts",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts124/v4/c7/d2/92/c7d292ea-44b3-47ff-2f5e-74fa5b23db6c/mza_7005270671777648882.png/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "1318",
-            "name": "Technology",
-            "url": "https://itunes.apple.com/us/genre/id1318"
           },
           {
-            "genreId": "1321",
-            "name": "Business",
-            "url": "https://itunes.apple.com/us/genre/id1321"
+            "genreId": "1304",
+            "name": "Education",
+            "url": "https://itunes.apple.com/us/genre/id1304"
           }
         ],
-        "url": "https://podcasts.apple.com/us/podcast/all-in-with-chamath-jason-sacks-friedberg/id1502871393"
-      },
-      {
-        "artistName": "The Tim Dillon Show",
-        "id": "1135137367",
-        "name": "The Tim Dillon Show",
-        "kind": "podcasts",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b2/64/34/b264343a-cd58-e5d0-a77d-9d802d4e156a/mza_8004434530174910890.jpg/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "1303",
-            "name": "Comedy",
-            "url": "https://itunes.apple.com/us/genre/id1303"
-          },
-          {
-            "genreId": "1489",
-            "name": "News",
-            "url": "https://itunes.apple.com/us/genre/id1489"
-          }
-        ],
-        "url": "https://podcasts.apple.com/us/podcast/the-tim-dillon-show/id1135137367"
+        "url": "https://podcasts.apple.com/us/podcast/money-rehab-with-nicole-lapin/id1559564016"
       },
       {
         "artistName": "Paul Alex Espinoza",
@@ -856,61 +822,6 @@
           }
         ],
         "url": "https://podcasts.apple.com/us/podcast/the-level-up-podcast-w-paul-alex/id1733135157"
-      },
-      {
-        "artistName": "Jamie Kern Lima",
-        "id": "1728723635",
-        "name": "The Jamie Kern Lima Show",
-        "kind": "podcasts",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/50/66/2e/50662e7d-1f7e-3d9f-1f87-562a90dbdb0c/mza_10576714993608979175.jpeg/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "1304",
-            "name": "Education",
-            "url": "https://itunes.apple.com/us/genre/id1304"
-          },
-          {
-            "genreId": "1321",
-            "name": "Business",
-            "url": "https://itunes.apple.com/us/genre/id1321"
-          }
-        ],
-        "url": "https://podcasts.apple.com/us/podcast/the-jamie-kern-lima-show/id1728723635"
-      },
-      {
-        "artistName": "Tucker Carlson Network",
-        "id": "1719657632",
-        "name": "The Tucker Carlson Show",
-        "kind": "podcasts",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/1a/1f/9c/1a1f9c6d-67fd-0e33-cdf3-4b62617ea9a6/mza_9226157347267917930.jpg/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "1489",
-            "name": "News",
-            "url": "https://itunes.apple.com/us/genre/id1489"
-          }
-        ],
-        "url": "https://podcasts.apple.com/us/podcast/the-tucker-carlson-show/id1719657632"
-      },
-      {
-        "artistName": "SIPS Healthcare Solutions",
-        "id": "1744976367",
-        "name": "Bred To Lead | With Dr. Jake Tayler Jacobs",
-        "kind": "podcasts",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/00/8f/19/008f1985-36f9-571d-11a5-d02ea5c3a72f/mza_5189632502966038304.png/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "1321",
-            "name": "Business",
-            "url": "https://itunes.apple.com/us/genre/id1321"
-          },
-          {
-            "genreId": "1304",
-            "name": "Education",
-            "url": "https://itunes.apple.com/us/genre/id1304"
-          }
-        ],
-        "url": "https://podcasts.apple.com/us/podcast/bred-to-lead-with-dr-jake-tayler-jacobs/id1744976367"
       },
       {
         "artistName": "dee takos",
@@ -934,11 +845,12 @@
         "url": "https://podcasts.apple.com/us/podcast/the-team-house/id1492797340"
       },
       {
-        "artistName": "Kayvon Kay",
-        "id": "1837193185",
-        "name": "The Vault Unlocked",
+        "artistName": "Andy Frisella",
+        "id": "1012570406",
+        "name": "REAL AF with Andy Frisella",
         "kind": "podcasts",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d3/f9/28/d3f928ee-3a7f-0ac6-e841-342b3be2ba68/mza_15071551835075158095.png/100x100bb.png",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/55/21/67/55216775-731a-1a0b-6c2a-81923902f058/mza_11706571282358600140.jpeg/100x100bb.png",
         "genres": [
           {
             "genreId": "1321",
@@ -946,28 +858,128 @@
             "url": "https://itunes.apple.com/us/genre/id1321"
           }
         ],
-        "url": "https://podcasts.apple.com/us/podcast/the-vault-unlocked/id1837193185"
+        "url": "https://podcasts.apple.com/us/podcast/real-af-with-andy-frisella/id1012570406"
       },
       {
-        "artistName": "iHeartPodcasts | Glass Podcasts",
-        "id": "1615637724",
-        "name": "Betrayal Weekly",
+        "artistName": "SIPS Healthcare Solutions",
+        "id": "1744976367",
+        "name": "Bred To Lead | With Dr. Jake Tayler Jacobs",
         "kind": "podcasts",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5a/26/69/5a266933-839c-c4de-f0b6-e2f03e2289d6/mza_17463161178032816484.jpg/100x100bb.png",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/00/8f/19/008f1985-36f9-571d-11a5-d02ea5c3a72f/mza_5189632502966038304.png/100x100bb.png",
         "genres": [
           {
-            "genreId": "1488",
-            "name": "True Crime",
-            "url": "https://itunes.apple.com/us/genre/id1488"
+            "genreId": "1321",
+            "name": "Business",
+            "url": "https://itunes.apple.com/us/genre/id1321"
           },
           {
-            "genreId": "1324",
-            "name": "Society & Culture",
-            "url": "https://itunes.apple.com/us/genre/id1324"
+            "genreId": "1304",
+            "name": "Education",
+            "url": "https://itunes.apple.com/us/genre/id1304"
           }
         ],
-        "url": "https://podcasts.apple.com/us/podcast/betrayal-weekly/id1615637724"
+        "url": "https://podcasts.apple.com/us/podcast/bred-to-lead-with-dr-jake-tayler-jacobs/id1744976367"
+      },
+      {
+        "artistName": "Hala Taha | Entrepreneurship, Sales, Marketing | YAP Media Network",
+        "id": "1368888880",
+        "name": "Young and Profiting with Hala Taha (Entrepreneurship, Sales, Marketing)",
+        "kind": "podcasts",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/80/c1/bd/80c1bd2c-eac4-bdb6-f8cb-ac980b4ad473/mza_16051863235006465622.jpeg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1321",
+            "name": "Business",
+            "url": "https://itunes.apple.com/us/genre/id1321"
+          }
+        ],
+        "url": "https://podcasts.apple.com/us/podcast/young-and-profiting-with-hala-taha-entrepreneurship/id1368888880"
+      },
+      {
+        "artistName": "Team Coco & Earwolf",
+        "id": "1438054347",
+        "name": "Conan O’Brien Needs A Friend",
+        "kind": "podcasts",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c6/02/8a/c6028ab7-bffd-db83-53e4-34a4ea9bef21/mza_16944101310108746053.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1303",
+            "name": "Comedy",
+            "url": "https://itunes.apple.com/us/genre/id1303"
+          }
+        ],
+        "url": "https://podcasts.apple.com/us/podcast/conan-obrien-needs-a-friend/id1438054347"
+      },
+      {
+        "artistName": "The Tim Dillon Show",
+        "id": "1135137367",
+        "name": "The Tim Dillon Show",
+        "kind": "podcasts",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b2/64/34/b264343a-cd58-e5d0-a77d-9d802d4e156a/mza_8004434530174910890.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1303",
+            "name": "Comedy",
+            "url": "https://itunes.apple.com/us/genre/id1303"
+          },
+          {
+            "genreId": "1489",
+            "name": "News",
+            "url": "https://itunes.apple.com/us/genre/id1489"
+          }
+        ],
+        "url": "https://podcasts.apple.com/us/podcast/the-tim-dillon-show/id1135137367"
+      },
+      {
+        "artistName": "Dylan Gemelli",
+        "id": "1780873400",
+        "name": "The Dylan Gemelli Podcast",
+        "kind": "podcasts",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/65/4a/f4/654af4a7-d5cd-2317-91a1-b5913de83e6f/mza_12950421134232165951.jpeg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1512",
+            "name": "Health & Fitness",
+            "url": "https://itunes.apple.com/us/genre/id1512"
+          }
+        ],
+        "url": "https://podcasts.apple.com/us/podcast/the-dylan-gemelli-podcast/id1780873400"
+      },
+      {
+        "artistName": "Tucker Carlson Network",
+        "id": "1719657632",
+        "name": "The Tucker Carlson Show",
+        "kind": "podcasts",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/1a/1f/9c/1a1f9c6d-67fd-0e33-cdf3-4b62617ea9a6/mza_9226157347267917930.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1489",
+            "name": "News",
+            "url": "https://itunes.apple.com/us/genre/id1489"
+          }
+        ],
+        "url": "https://podcasts.apple.com/us/podcast/the-tucker-carlson-show/id1719657632"
+      },
+      {
+        "artistName": "All-In Podcast, LLC",
+        "id": "1502871393",
+        "name": "All-In with Chamath, Jason, Sacks & Friedberg",
+        "kind": "podcasts",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts124/v4/c7/d2/92/c7d292ea-44b3-47ff-2f5e-74fa5b23db6c/mza_7005270671777648882.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1318",
+            "name": "Technology",
+            "url": "https://itunes.apple.com/us/genre/id1318"
+          },
+          {
+            "genreId": "1321",
+            "name": "Business",
+            "url": "https://itunes.apple.com/us/genre/id1321"
+          }
+        ],
+        "url": "https://podcasts.apple.com/us/podcast/all-in-with-chamath-jason-sacks-friedberg/id1502871393"
       },
       {
         "artistName": "The Last Podcast Network",
@@ -1006,41 +1018,6 @@
         "url": "https://podcasts.apple.com/us/podcast/npr-news-now/id121493675"
       },
       {
-        "artistName": "NBC News",
-        "id": "1896834497",
-        "name": "Five Miles From Home",
-        "kind": "podcasts",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5f/26/79/5f267967-ef75-63dc-6958-59004d144c16/mza_3103516722400828111.jpg/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "1488",
-            "name": "True Crime",
-            "url": "https://itunes.apple.com/us/genre/id1488"
-          }
-        ],
-        "url": "https://podcasts.apple.com/us/podcast/five-miles-from-home/id1896834497"
-      },
-      {
-        "artistName": "Mike Carruthers | OmniCast Media",
-        "id": "1150124880",
-        "name": "Something You Should Know",
-        "kind": "podcasts",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/96/57/ca/9657caf6-6375-d5ba-585b-eb2f5c9fbf8e/mza_3992023160251207455.jpeg/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "1533",
-            "name": "Science",
-            "url": "https://itunes.apple.com/us/genre/id1533"
-          },
-          {
-            "genreId": "1304",
-            "name": "Education",
-            "url": "https://itunes.apple.com/us/genre/id1304"
-          }
-        ],
-        "url": "https://podcasts.apple.com/us/podcast/something-you-should-know/id1150124880"
-      },
-      {
         "artistName": "Joseph Shalaby",
         "id": "1726674707",
         "name": "Coffeez with Joe Shalaby",
@@ -1057,19 +1034,39 @@
         "url": "https://podcasts.apple.com/us/podcast/coffeez-with-joe-shalaby/id1726674707"
       },
       {
-        "artistName": "Dylan Gemelli",
-        "id": "1780873400",
-        "name": "The Dylan Gemelli Podcast",
+        "artistName": "Jamie Kern Lima",
+        "id": "1728723635",
+        "name": "The Jamie Kern Lima Show",
         "kind": "podcasts",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/65/4a/f4/654af4a7-d5cd-2317-91a1-b5913de83e6f/mza_12950421134232165951.jpeg/100x100bb.png",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/50/66/2e/50662e7d-1f7e-3d9f-1f87-562a90dbdb0c/mza_10576714993608979175.jpeg/100x100bb.png",
         "genres": [
           {
-            "genreId": "1512",
-            "name": "Health & Fitness",
-            "url": "https://itunes.apple.com/us/genre/id1512"
+            "genreId": "1304",
+            "name": "Education",
+            "url": "https://itunes.apple.com/us/genre/id1304"
+          },
+          {
+            "genreId": "1321",
+            "name": "Business",
+            "url": "https://itunes.apple.com/us/genre/id1321"
           }
         ],
-        "url": "https://podcasts.apple.com/us/podcast/the-dylan-gemelli-podcast/id1780873400"
+        "url": "https://podcasts.apple.com/us/podcast/the-jamie-kern-lima-show/id1728723635"
+      },
+      {
+        "artistName": "NBC News",
+        "id": "1896834497",
+        "name": "Five Miles From Home",
+        "kind": "podcasts",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5f/26/79/5f267967-ef75-63dc-6958-59004d144c16/mza_3103516722400828111.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1488",
+            "name": "True Crime",
+            "url": "https://itunes.apple.com/us/genre/id1488"
+          }
+        ],
+        "url": "https://podcasts.apple.com/us/podcast/five-miles-from-home/id1896834497"
       },
       {
         "artistName": "Casefile Presents",
@@ -1093,6 +1090,41 @@
         "url": "https://podcasts.apple.com/us/podcast/casefile-true-crime/id998568017"
       },
       {
+        "artistName": "Kayvon Kay",
+        "id": "1837193185",
+        "name": "The Vault Unlocked",
+        "kind": "podcasts",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d3/f9/28/d3f928ee-3a7f-0ac6-e841-342b3be2ba68/mza_15071551835075158095.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1321",
+            "name": "Business",
+            "url": "https://itunes.apple.com/us/genre/id1321"
+          }
+        ],
+        "url": "https://podcasts.apple.com/us/podcast/the-vault-unlocked/id1837193185"
+      },
+      {
+        "artistName": "Mike Carruthers | OmniCast Media",
+        "id": "1150124880",
+        "name": "Something You Should Know",
+        "kind": "podcasts",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/96/57/ca/9657caf6-6375-d5ba-585b-eb2f5c9fbf8e/mza_3992023160251207455.jpeg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1533",
+            "name": "Science",
+            "url": "https://itunes.apple.com/us/genre/id1533"
+          },
+          {
+            "genreId": "1304",
+            "name": "Education",
+            "url": "https://itunes.apple.com/us/genre/id1304"
+          }
+        ],
+        "url": "https://podcasts.apple.com/us/podcast/something-you-should-know/id1150124880"
+      },
+      {
         "artistName": "Annie Elise & Audioboom Studios",
         "id": "1519456164",
         "name": "Serialously with Annie Elise",
@@ -1114,22 +1146,6 @@
         "url": "https://podcasts.apple.com/us/podcast/serialously-with-annie-elise/id1519456164"
       },
       {
-        "artistName": "Team Coco & Earwolf",
-        "id": "1438054347",
-        "name": "Conan O’Brien Needs A Friend",
-        "kind": "podcasts",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c6/02/8a/c6028ab7-bffd-db83-53e4-34a4ea9bef21/mza_16944101310108746053.jpg/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "1303",
-            "name": "Comedy",
-            "url": "https://itunes.apple.com/us/genre/id1303"
-          }
-        ],
-        "url": "https://podcasts.apple.com/us/podcast/conan-obrien-needs-a-friend/id1438054347"
-      },
-      {
         "artistName": "The Joe Budden Network",
         "id": "1535809341",
         "name": "The Joe Budden Podcast",
@@ -1144,26 +1160,6 @@
           }
         ],
         "url": "https://podcasts.apple.com/us/podcast/the-joe-budden-podcast/id1535809341"
-      },
-      {
-        "artistName": "Dear Media",
-        "id": "1368081567",
-        "name": "The Toast",
-        "kind": "podcasts",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/4e/3d/5e/4e3d5eb1-5b47-8723-f3c0-8ecf7e25d198/mza_14233415616171199300.jpeg/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "1303",
-            "name": "Comedy",
-            "url": "https://itunes.apple.com/us/genre/id1303"
-          },
-          {
-            "genreId": "1309",
-            "name": "TV & Film",
-            "url": "https://itunes.apple.com/us/genre/id1309"
-          }
-        ],
-        "url": "https://podcasts.apple.com/us/podcast/the-toast/id1368081567"
       },
       {
         "artistName": "Alex Cooper",
@@ -1198,40 +1194,24 @@
         "url": "https://podcasts.apple.com/us/podcast/ihip-news/id1761444284"
       },
       {
-        "artistName": "The Ringer",
-        "id": "1043699613",
-        "name": "The Bill Simmons Podcast",
+        "artistName": "Dear Media",
+        "id": "1368081567",
+        "name": "The Toast",
         "kind": "podcasts",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/d6/ec/33/d6ec332d-41b2-4f6e-3b26-26932d266089/mza_9745793819236520970.jpg/100x100bb.png",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/4e/3d/5e/4e3d5eb1-5b47-8723-f3c0-8ecf7e25d198/mza_14233415616171199300.jpeg/100x100bb.png",
         "genres": [
           {
-            "genreId": "1545",
-            "name": "Sports",
-            "url": "https://itunes.apple.com/us/genre/id1545"
-          }
-        ],
-        "url": "https://podcasts.apple.com/us/podcast/the-bill-simmons-podcast/id1043699613"
-      },
-      {
-        "artistName": "The Bulwark",
-        "id": "1447684472",
-        "name": "The Bulwark Podcast",
-        "kind": "podcasts",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/e3/07/89/e30789af-e7d0-bb29-8cf8-ae3b9cfe4316/mza_2484307396739987098.jpg/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "1489",
-            "name": "News",
-            "url": "https://itunes.apple.com/us/genre/id1489"
+            "genreId": "1303",
+            "name": "Comedy",
+            "url": "https://itunes.apple.com/us/genre/id1303"
           },
           {
-            "genreId": "1324",
-            "name": "Society & Culture",
-            "url": "https://itunes.apple.com/us/genre/id1324"
+            "genreId": "1309",
+            "name": "TV & Film",
+            "url": "https://itunes.apple.com/us/genre/id1309"
           }
         ],
-        "url": "https://podcasts.apple.com/us/podcast/the-bulwark-podcast/id1447684472"
+        "url": "https://podcasts.apple.com/us/podcast/the-toast/id1368081567"
       },
       {
         "artistName": "NPR",
@@ -1274,6 +1254,26 @@
         "url": "https://podcasts.apple.com/us/podcast/radiolab/id152249110"
       },
       {
+        "artistName": "The Bulwark",
+        "id": "1447684472",
+        "name": "The Bulwark Podcast",
+        "kind": "podcasts",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/e3/07/89/e30789af-e7d0-bb29-8cf8-ae3b9cfe4316/mza_2484307396739987098.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1489",
+            "name": "News",
+            "url": "https://itunes.apple.com/us/genre/id1489"
+          },
+          {
+            "genreId": "1324",
+            "name": "Society & Culture",
+            "url": "https://itunes.apple.com/us/genre/id1324"
+          }
+        ],
+        "url": "https://podcasts.apple.com/us/podcast/the-bulwark-podcast/id1447684472"
+      },
+      {
         "artistName": "Sword and Scale",
         "id": "790487079",
         "name": "Sword and Scale",
@@ -1295,24 +1295,19 @@
         "url": "https://podcasts.apple.com/us/podcast/sword-and-scale/id790487079"
       },
       {
-        "artistName": "Vox Media Podcast Network",
-        "id": "809264944",
-        "name": "Criminal",
+        "artistName": "IBH Media",
+        "id": "1505698509",
+        "name": "Founder's Story",
         "kind": "podcasts",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bd/98/22/bd9822cc-b8e0-59de-5809-45926a0ee5f3/mza_2331604259390110897.jpeg/100x100bb.png",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/1f/3e/45/1f3e45f9-7011-7bdf-6999-99c8d8643a65/mza_15402691122318060700.jpg/100x100bb.png",
         "genres": [
           {
-            "genreId": "1488",
-            "name": "True Crime",
-            "url": "https://itunes.apple.com/us/genre/id1488"
-          },
-          {
-            "genreId": "1324",
-            "name": "Society & Culture",
-            "url": "https://itunes.apple.com/us/genre/id1324"
+            "genreId": "1321",
+            "name": "Business",
+            "url": "https://itunes.apple.com/us/genre/id1321"
           }
         ],
-        "url": "https://podcasts.apple.com/us/podcast/criminal/id809264944"
+        "url": "https://podcasts.apple.com/us/podcast/founders-story/id1505698509"
       },
       {
         "artistName": "Shekhar Natarajan",
@@ -1356,6 +1351,57 @@
         "url": "https://podcasts.apple.com/us/podcast/smosh-reads-reddit-stories/id1697425543"
       },
       {
+        "artistName": "Vox Media Podcast Network",
+        "id": "809264944",
+        "name": "Criminal",
+        "kind": "podcasts",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bd/98/22/bd9822cc-b8e0-59de-5809-45926a0ee5f3/mza_2331604259390110897.jpeg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1488",
+            "name": "True Crime",
+            "url": "https://itunes.apple.com/us/genre/id1488"
+          },
+          {
+            "genreId": "1324",
+            "name": "Society & Culture",
+            "url": "https://itunes.apple.com/us/genre/id1324"
+          }
+        ],
+        "url": "https://podcasts.apple.com/us/podcast/criminal/id809264944"
+      },
+      {
+        "artistName": "Richard Taite",
+        "id": "1768651631",
+        "name": "We're Out of Time",
+        "kind": "podcasts",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/69/75/90/697590b9-dcc7-91c1-a72a-4404c45f56f5/mza_16074264697810172157.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1512",
+            "name": "Health & Fitness",
+            "url": "https://itunes.apple.com/us/genre/id1512"
+          }
+        ],
+        "url": "https://podcasts.apple.com/us/podcast/were-out-of-time/id1768651631"
+      },
+      {
+        "artistName": "Mystic Zach",
+        "id": "1837044678",
+        "name": "DOUBLE COVERAGE PODCAST",
+        "kind": "podcasts",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/29/fa/bc/29fabc3e-aa88-3cb6-ef90-66b899c49324/mza_16323468831280503063.jpeg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1545",
+            "name": "Sports",
+            "url": "https://itunes.apple.com/us/genre/id1545"
+          }
+        ],
+        "url": "https://podcasts.apple.com/us/podcast/double-coverage-podcast/id1837044678"
+      },
+      {
         "artistName": "New York Times Opinion",
         "id": "1548604447",
         "name": "The Ezra Klein Show",
@@ -1374,6 +1420,52 @@
           }
         ],
         "url": "https://podcasts.apple.com/us/podcast/the-ezra-klein-show/id1548604447"
+      },
+      {
+        "artistName": "Ben Mandelker & Ronnie Karam",
+        "id": "498130432",
+        "name": "Watch What Crappens",
+        "kind": "podcasts",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/77/e8/e6/77e8e61d-0db3-725c-4d9e-99d321451d2a/mza_6556989693380571267.jpeg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1309",
+            "name": "TV & Film",
+            "url": "https://itunes.apple.com/us/genre/id1309"
+          }
+        ],
+        "url": "https://podcasts.apple.com/us/podcast/watch-what-crappens/id498130432"
+      },
+      {
+        "artistName": "Audiochuck",
+        "id": "1517651197",
+        "name": "Park Predators",
+        "kind": "podcasts",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/eb/95/39/eb9539bf-2d25-8928-9274-11f1d3364e98/mza_9186932073749396122.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1488",
+            "name": "True Crime",
+            "url": "https://itunes.apple.com/us/genre/id1488"
+          }
+        ],
+        "url": "https://podcasts.apple.com/us/podcast/park-predators/id1517651197"
+      },
+      {
+        "artistName": "Audiochuck",
+        "id": "1603011962",
+        "name": "The Deck",
+        "kind": "podcasts",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/39/70/89/3970894c-87fc-e9b1-2bf3-f8c1f7d362d0/mza_7224143132000797712.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1488",
+            "name": "True Crime",
+            "url": "https://itunes.apple.com/us/genre/id1488"
+          }
+        ],
+        "url": "https://podcasts.apple.com/us/podcast/the-deck/id1603011962"
       },
       {
         "artistName": "ABC News",
@@ -1396,37 +1488,6 @@
         "url": "https://podcasts.apple.com/us/podcast/the-snare/id1896858485"
       },
       {
-        "artistName": "Ben Mandelker & Ronnie Karam",
-        "id": "498130432",
-        "name": "Watch What Crappens",
-        "kind": "podcasts",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/77/e8/e6/77e8e61d-0db3-725c-4d9e-99d321451d2a/mza_6556989693380571267.jpeg/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "1309",
-            "name": "TV & Film",
-            "url": "https://itunes.apple.com/us/genre/id1309"
-          }
-        ],
-        "url": "https://podcasts.apple.com/us/podcast/watch-what-crappens/id498130432"
-      },
-      {
-        "artistName": "Audiochuck",
-        "id": "1603011962",
-        "name": "The Deck",
-        "kind": "podcasts",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/39/70/89/3970894c-87fc-e9b1-2bf3-f8c1f7d362d0/mza_7224143132000797712.jpg/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "1488",
-            "name": "True Crime",
-            "url": "https://itunes.apple.com/us/genre/id1488"
-          }
-        ],
-        "url": "https://podcasts.apple.com/us/podcast/the-deck/id1603011962"
-      },
-      {
         "artistName": "Scicomm Media",
         "id": "1545953110",
         "name": "Huberman Lab",
@@ -1447,34 +1508,20 @@
         "url": "https://podcasts.apple.com/us/podcast/huberman-lab/id1545953110"
       },
       {
-        "artistName": "IBH Media",
-        "id": "1505698509",
-        "name": "Founder's Story",
+        "artistName": "NoLayingUp.com",
+        "id": "880837011",
+        "name": "No Laying Up - Golf Podcast",
         "kind": "podcasts",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/1f/3e/45/1f3e45f9-7011-7bdf-6999-99c8d8643a65/mza_15402691122318060700.jpg/100x100bb.png",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/0e/0e/22/0e0e224a-8c79-2e00-c8f4-dc2ccd3e2fb6/mza_5532851909288994276.png/100x100bb.png",
         "genres": [
           {
-            "genreId": "1321",
-            "name": "Business",
-            "url": "https://itunes.apple.com/us/genre/id1321"
+            "genreId": "1545",
+            "name": "Sports",
+            "url": "https://itunes.apple.com/us/genre/id1545"
           }
         ],
-        "url": "https://podcasts.apple.com/us/podcast/founders-story/id1505698509"
-      },
-      {
-        "artistName": "Audiochuck",
-        "id": "1517651197",
-        "name": "Park Predators",
-        "kind": "podcasts",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/eb/95/39/eb9539bf-2d25-8928-9274-11f1d3364e98/mza_9186932073749396122.jpg/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "1488",
-            "name": "True Crime",
-            "url": "https://itunes.apple.com/us/genre/id1488"
-          }
-        ],
-        "url": "https://podcasts.apple.com/us/podcast/park-predators/id1517651197"
+        "url": "https://podcasts.apple.com/us/podcast/no-laying-up-golf-podcast/id880837011"
       },
       {
         "artistName": "Hidden Brain, Shankar Vedantam",
@@ -1495,21 +1542,6 @@
           }
         ],
         "url": "https://podcasts.apple.com/us/podcast/hidden-brain/id1028908750"
-      },
-      {
-        "artistName": "Vox",
-        "id": "1346207297",
-        "name": "Today, Explained",
-        "kind": "podcasts",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/57/bc/e4/57bce477-b6e7-ba7d-5bca-6289f3f32e26/mza_17986217629149107841.jpeg/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "1489",
-            "name": "News",
-            "url": "https://itunes.apple.com/us/genre/id1489"
-          }
-        ],
-        "url": "https://podcasts.apple.com/us/podcast/today-explained/id1346207297"
       },
       {
         "artistName": "James Pietragallo, Jimmie Whisman",
@@ -1533,35 +1565,19 @@
         "url": "https://podcasts.apple.com/us/podcast/small-town-murder/id1194755213"
       },
       {
-        "artistName": "Mystic Zach",
-        "id": "1837044678",
-        "name": "DOUBLE COVERAGE PODCAST",
+        "artistName": "Vox",
+        "id": "1346207297",
+        "name": "Today, Explained",
         "kind": "podcasts",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/29/fa/bc/29fabc3e-aa88-3cb6-ef90-66b899c49324/mza_16323468831280503063.jpeg/100x100bb.png",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/57/bc/e4/57bce477-b6e7-ba7d-5bca-6289f3f32e26/mza_17986217629149107841.jpeg/100x100bb.png",
         "genres": [
           {
-            "genreId": "1545",
-            "name": "Sports",
-            "url": "https://itunes.apple.com/us/genre/id1545"
+            "genreId": "1489",
+            "name": "News",
+            "url": "https://itunes.apple.com/us/genre/id1489"
           }
         ],
-        "url": "https://podcasts.apple.com/us/podcast/double-coverage-podcast/id1837044678"
-      },
-      {
-        "artistName": "NoLayingUp.com",
-        "id": "880837011",
-        "name": "No Laying Up - Golf Podcast",
-        "kind": "podcasts",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/0e/0e/22/0e0e224a-8c79-2e00-c8f4-dc2ccd3e2fb6/mza_5532851909288994276.png/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "1545",
-            "name": "Sports",
-            "url": "https://itunes.apple.com/us/genre/id1545"
-          }
-        ],
-        "url": "https://podcasts.apple.com/us/podcast/no-laying-up-golf-podcast/id880837011"
+        "url": "https://podcasts.apple.com/us/podcast/today-explained/id1346207297"
       },
       {
         "artistName": "Dan Le Batard",
@@ -1577,22 +1593,6 @@
           }
         ],
         "url": "https://podcasts.apple.com/us/podcast/the-dan-le-batard-show/id934820588"
-      },
-      {
-        "artistName": "Richard Taite",
-        "id": "1768651631",
-        "name": "We're Out of Time",
-        "kind": "podcasts",
-        "contentAdvisoryRating": "Explict",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/69/75/90/697590b9-dcc7-91c1-a72a-4404c45f56f5/mza_16074264697810172157.jpg/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "1512",
-            "name": "Health & Fitness",
-            "url": "https://itunes.apple.com/us/genre/id1512"
-          }
-        ],
-        "url": "https://podcasts.apple.com/us/podcast/were-out-of-time/id1768651631"
       },
       {
         "artistName": "The Ringer",
@@ -1625,34 +1625,19 @@
         "url": "https://podcasts.apple.com/us/podcast/counterclock/id1489482036"
       },
       {
-        "artistName": "New York Magazine",
-        "id": "1073226719",
-        "name": "Pivot",
+        "artistName": "NBC News",
+        "id": "1721921086",
+        "name": "Dateline Originals",
         "kind": "podcasts",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/13/22/39/1322397a-976e-3c8f-7764-91cc38d0dd70/mza_12130189257448841692.jpeg/100x100bb.png",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c5/0b/04/c50b0460-8686-0a6c-d941-2776e6774824/mza_4034755818837964809.jpg/100x100bb.png",
         "genres": [
           {
-            "genreId": "1489",
-            "name": "News",
-            "url": "https://itunes.apple.com/us/genre/id1489"
+            "genreId": "1488",
+            "name": "True Crime",
+            "url": "https://itunes.apple.com/us/genre/id1488"
           }
         ],
-        "url": "https://podcasts.apple.com/us/podcast/pivot/id1073226719"
-      },
-      {
-        "artistName": "Lakepointe Church",
-        "id": "1669321198",
-        "name": "Live Free with Josh Howerton",
-        "kind": "podcasts",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/03/c8/84/03c8844c-bbd6-2c29-5045-25eac434eaef/mza_16269028133219747046.jpg/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "1314",
-            "name": "Religion & Spirituality",
-            "url": "https://itunes.apple.com/us/genre/id1314"
-          }
-        ],
-        "url": "https://podcasts.apple.com/us/podcast/live-free-with-josh-howerton/id1669321198"
+        "url": "https://podcasts.apple.com/us/podcast/dateline-originals/id1721921086"
       },
       {
         "artistName": "Perfect Strangers",
@@ -1675,6 +1660,66 @@
         "url": "https://podcasts.apple.com/us/podcast/on-purpose-with-jay-shetty/id1450994021"
       },
       {
+        "artistName": "New York Magazine",
+        "id": "1073226719",
+        "name": "Pivot",
+        "kind": "podcasts",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/13/22/39/1322397a-976e-3c8f-7764-91cc38d0dd70/mza_12130189257448841692.jpeg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1489",
+            "name": "News",
+            "url": "https://itunes.apple.com/us/genre/id1489"
+          }
+        ],
+        "url": "https://podcasts.apple.com/us/podcast/pivot/id1073226719"
+      },
+      {
+        "artistName": "Men In Blazers",
+        "id": "908407811",
+        "name": "Men In Blazers",
+        "kind": "podcasts",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d5/4c/95/d54c95fd-ffeb-8f3b-2bef-d4f7b4b3fdf2/mza_8866404716221874519.jpeg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1545",
+            "name": "Sports",
+            "url": "https://itunes.apple.com/us/genre/id1545"
+          }
+        ],
+        "url": "https://podcasts.apple.com/us/podcast/men-in-blazers/id908407811"
+      },
+      {
+        "artistName": "BBC World Service",
+        "id": "135067274",
+        "name": "Global News Podcast",
+        "kind": "podcasts",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/84/57/09/8457093f-677a-d6de-5666-6514cc588a7e/mza_17083078915388787537.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1489",
+            "name": "News",
+            "url": "https://itunes.apple.com/us/genre/id1489"
+          }
+        ],
+        "url": "https://podcasts.apple.com/us/podcast/global-news-podcast/id135067274"
+      },
+      {
+        "artistName": "Lakepointe Church",
+        "id": "1669321198",
+        "name": "Live Free with Josh Howerton",
+        "kind": "podcasts",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/03/c8/84/03c8844c-bbd6-2c29-5045-25eac434eaef/mza_16269028133219747046.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1314",
+            "name": "Religion & Spirituality",
+            "url": "https://itunes.apple.com/us/genre/id1314"
+          }
+        ],
+        "url": "https://podcasts.apple.com/us/podcast/live-free-with-josh-howerton/id1669321198"
+      },
+      {
         "artistName": "Serial Productions & The New York Times",
         "id": "917918570",
         "name": "Serial",
@@ -1695,19 +1740,19 @@
         "url": "https://podcasts.apple.com/us/podcast/serial/id917918570"
       },
       {
-        "artistName": "NBC News",
-        "id": "1721921086",
-        "name": "Dateline Originals",
+        "artistName": "Freakonomics Radio + Stitcher",
+        "id": "354668519",
+        "name": "Freakonomics Radio",
         "kind": "podcasts",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c5/0b/04/c50b0460-8686-0a6c-d941-2776e6774824/mza_4034755818837964809.jpg/100x100bb.png",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/f7/0c/c5/f70cc540-ce36-d96f-b111-c970aad5505c/mza_17703422762227531425.jpg/100x100bb.png",
         "genres": [
           {
-            "genreId": "1488",
-            "name": "True Crime",
-            "url": "https://itunes.apple.com/us/genre/id1488"
+            "genreId": "1324",
+            "name": "Society & Culture",
+            "url": "https://itunes.apple.com/us/genre/id1324"
           }
         ],
-        "url": "https://podcasts.apple.com/us/podcast/dateline-originals/id1721921086"
+        "url": "https://podcasts.apple.com/us/podcast/freakonomics-radio/id354668519"
       },
       {
         "artistName": "Candace Owens",
@@ -1728,61 +1773,6 @@
           }
         ],
         "url": "https://podcasts.apple.com/us/podcast/candace/id1750591415"
-      },
-      {
-        "artistName": "Men In Blazers",
-        "id": "908407811",
-        "name": "Men In Blazers",
-        "kind": "podcasts",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d5/4c/95/d54c95fd-ffeb-8f3b-2bef-d4f7b4b3fdf2/mza_8866404716221874519.jpeg/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "1545",
-            "name": "Sports",
-            "url": "https://itunes.apple.com/us/genre/id1545"
-          }
-        ],
-        "url": "https://podcasts.apple.com/us/podcast/men-in-blazers/id908407811"
-      },
-      {
-        "artistName": "Apple News",
-        "id": "1654074926",
-        "name": "After the Whistle with Brendan Hunt and Rebecca Lowe",
-        "kind": "podcasts",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/65/2c/bf/652cbf40-9143-042f-5f88-5261384e32c3/mza_17849545999156770446.jpeg/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "1545",
-            "name": "Sports",
-            "url": "https://itunes.apple.com/us/genre/id1545"
-          },
-          {
-            "genreId": "1303",
-            "name": "Comedy",
-            "url": "https://itunes.apple.com/us/genre/id1303"
-          }
-        ],
-        "url": "https://podcasts.apple.com/us/podcast/after-the-whistle-with-brendan-hunt-and-rebecca-lowe/id1654074926"
-      },
-      {
-        "artistName": "Heather Cox Richardson",
-        "id": "1730358737",
-        "name": "Letters from an American",
-        "kind": "podcasts",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b8/79/98/b879989a-43d3-2ed3-7384-3cdfe77d5736/mza_3088248024937929702.jpg/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "1489",
-            "name": "News",
-            "url": "https://itunes.apple.com/us/genre/id1489"
-          },
-          {
-            "genreId": "1487",
-            "name": "History",
-            "url": "https://itunes.apple.com/us/genre/id1487"
-          }
-        ],
-        "url": "https://podcasts.apple.com/us/podcast/letters-from-an-american/id1730358737"
       }
     ]
   }
