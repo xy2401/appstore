@@ -7,97 +7,97 @@
 - [Demon Copperhead](#demon-copperhead)
 - [The Country Road Murders](#the-country-road-murders)
 - [The Five-Star Weekend](#the-five-star-weekend)
-- [Paranoia](#paranoia)
 - [The Shampoo Effect: A Read with Jenna Pick](#the-shampoo-effect-a-read-with-jenna-pick)
-- [Circe](#circe)
-- [Mad Mabel](#mad-mabel)
 - [Threshing Day](#threshing-day)
+- [Paranoia](#paranoia)
+- [Mad Mabel](#mad-mabel)
+- [Circe](#circe)
 - [Love You More](#love-you-more)
-- [The Way of Kings](#the-way-of-kings)
-- [Regime Change](#regime-change)
-- [Choke Point](#choke-point)
-- [Dirty Thirty](#dirty-thirty)
 - [All the Pretty Horses](#all-the-pretty-horses)
-- [The Mistake](#the-mistake)
+- [Choke Point](#choke-point)
+- [The Way of Kings](#the-way-of-kings)
+- [Dirty Thirty](#dirty-thirty)
 - [The Score](#the-score)
+- [Regime Change](#regime-change)
+- [The Mistake](#the-mistake)
 - [The Buffalo Hunter Hunter](#the-buffalo-hunter-hunter)
 - [The Deal](#the-deal)
+- [Dolly All the Time: A GMA Book Club Pick](#dolly-all-the-time-a-gma-book-club-pick)
 - [This Changes Everything](#this-changes-everything)
 - [Circle of Days](#circle-of-days)
-- [Dolly All the Time: A GMA Book Club Pick](#dolly-all-the-time-a-gma-book-club-pick)
-- [The Waiting](#the-waiting)
-- [The Night We Met](#the-night-we-met)
 - [Ironwood](#ironwood)
+- [The Night We Met](#the-night-we-met)
 - [State of Unrest, A First Family Novel](#state-of-unrest-a-first-family-novel)
+- [The Waiting](#the-waiting)
 - [Project Hail Mary](#project-hail-mary)
-- [One Summer](#one-summer)
 - [The Good Daughter](#the-good-daughter)
+- [The Goal](#the-goal)
+- [One Summer](#one-summer)
 - [The Correspondent](#the-correspondent)
 - [The Romance Revival](#the-romance-revival)
-- [Strangers](#strangers)
-- [The Goal](#the-goal)
-- [Before We Were Yours](#before-we-were-yours)
 - [Red Rising](#red-rising)
-- [Heather](#heather)
+- [Strangers](#strangers)
+- [Before We Were Yours](#before-we-were-yours)
 - [The Boy](#the-boy)
-- [Noah, Daniel, and Job–Patterns of Living an Overcoming Life on the Line of Life to Fulfill the Economy of God](#noah-daniel-and-job-patterns-of-living-an-overcoming-life-on-the-line-of-life-to-fulfill-the-economy-of-god)
-- [Fourth Wing](#fourth-wing)
-- [A Momentary Marriage](#a-momentary-marriage)
+- [Heather](#heather)
 - [Someone Else's Husband: Katie Couric Book Club](#someone-else-s-husband-katie-couric-book-club)
 - [The Legacy](#the-legacy)
-- [London Falling](#london-falling)
+- [A Momentary Marriage](#a-momentary-marriage)
+- [Fourth Wing](#fourth-wing)
+- [Noah, Daniel, and Job–Patterns of Living an Overcoming Life on the Line of Life to Fulfill the Economy of God](#noah-daniel-and-job-patterns-of-living-an-overcoming-life-on-the-line-of-life-to-fulfill-the-economy-of-god)
+- [1776](#1776)
 - [Three Days in June](#three-days-in-june)
 - [Country People: A GMA Book Club Pick](#country-people-a-gma-book-club-pick)
-- [1776](#1776)
-- [Drowning](#drowning)
+- [Onyx Storm](#onyx-storm)
+- [London Falling](#london-falling)
 - [The Woman in Suite 11](#the-woman-in-suite-11)
-- [The Road to Grantchester](#the-road-to-grantchester)
-- [Every Spy a Traitor](#every-spy-a-traitor)
-- [Traitors](#traitors)
-- [The Villa of Secrets](#the-villa-of-secrets)
-- [Kentucky Green Box Set 1 to 3](#kentucky-green-box-set-1-to-3)
 - [Golden Son](#golden-son)
 - [Odyssey](#odyssey)
-- [Onyx Storm](#onyx-storm)
+- [The Road to Grantchester](#the-road-to-grantchester)
+- [Drowning](#drowning)
+- [The Villa of Secrets](#the-villa-of-secrets)
 - [A Court of Thorns and Roses](#a-court-of-thorns-and-roses)
+- [Every Spy a Traitor](#every-spy-a-traitor)
+- [Traitors](#traitors)
+- [Look Again](#look-again)
 - [Detective Alyssa Wyatt](#detective-alyssa-wyatt)
+- [The Things We Never Say](#the-things-we-never-say)
 - [Ruthless Prey](#ruthless-prey)
 - [One Golden Summer](#one-golden-summer)
-- [It Could Have Been Her](#it-could-have-been-her)
-- [The Things We Never Say](#the-things-we-never-say)
+- [Kentucky Green Box Set 1 to 3](#kentucky-green-box-set-1-to-3)
+- [Iron Flame](#iron-flame)
 - [The Hobbit](#the-hobbit)
-- [Targeted](#targeted)
-- [A Woman of Substance](#a-woman-of-substance)
-- [Her Unexpected Joy](#her-unexpected-joy)
-- [Tom Clancy Target Acquired](#tom-clancy-target-acquired)
-- [Our Perfect Storm](#our-perfect-storm)
-- [Daughter of War](#daughter-of-war)
 - [A Court of Mist and Fury](#a-court-of-mist-and-fury)
-- [Midnight](#midnight)
-- [Blindsighted](#blindsighted)
+- [Tom Clancy Target Acquired](#tom-clancy-target-acquired)
+- [It Could Have Been Her](#it-could-have-been-her)
+- [Targeted](#targeted)
+- [Her Unexpected Joy](#her-unexpected-joy)
+- [Our Perfect Storm](#our-perfect-storm)
+- [Land](#land)
+- [Novena for a Happy and Faithful Marriage](#novena-for-a-happy-and-faithful-marriage)
+- ['Salem's Lot](#salem-s-lot)
+- [Everything Was Beautiful and Nothing Hurt](#everything-was-beautiful-and-nothing-hurt)
+- [A Woman of Substance](#a-woman-of-substance)
 - [The Astral Library](#the-astral-library)
-- [God's Homecoming](#god-s-homecoming)
 - [Crown of Midnight](#crown-of-midnight)
-- [When I Kill You](#when-i-kill-you)
+- [The Iliad](#the-iliad)
 - [Hope Rises](#hope-rises)
-- [A Moveable Feast](#a-moveable-feast)
+- [Lavender Lake](#lavender-lake)
 - [The Pickled Pantry](#the-pickled-pantry)
 - [The Missing Piece](#the-missing-piece)
 - [The Death Row Club](#the-death-row-club)
-- [Novena for a Happy and Faithful Marriage](#novena-for-a-happy-and-faithful-marriage)
-- [The Let Them Theory](#the-let-them-theory)
+- [Daughter of War](#daughter-of-war)
 - [Throne of Glass](#throne-of-glass)
+- [Blindsighted](#blindsighted)
+- [Midnight](#midnight)
+- [Morning Star](#morning-star)
+- [A Moveable Feast](#a-moveable-feast)
+- [Fire and Blood](#fire-and-blood)
+- [The Let Them Theory](#the-let-them-theory)
 - [My Husband's Wife](#my-husband-s-wife)
-- [Everything Was Beautiful and Nothing Hurt](#everything-was-beautiful-and-nothing-hurt)
-- [Someone Like You](#someone-like-you)
-- [Look Again](#look-again)
-- [Old Girls Go Off the Rails](#old-girls-go-off-the-rails)
-- [D-Day](#d-day)
-- [Iron Flame](#iron-flame)
-- [Broken Country (Reese's Book Club)](#broken-country-reese-s-book-club)
-- [Verity](#verity)
+- [God's Homecoming](#god-s-homecoming)
 - [The Yates Protocol](#the-yates-protocol)
-- [The Rancher’s Fake Fiancée](#the-rancher-s-fake-fiance-e)
+- [When I Kill You](#when-i-kill-you)
 
 <a id="ransom"></a>
 ## Ransom
@@ -180,15 +180,6 @@ WINNER OF THE PULITZER PRIZE • WINNER OF THE WOMEN'S PRIZE FOR FICTION<br /><b
 
 [View on Apple](https://books.apple.com/us/book/the-five-star-weekend/id6445184178)
 
-<a id="paranoia"></a>
-## Paranoia
-
-![Paranoia](../../logos/6503679746-93238087.png)
-
-<b>NYPD Detective Michael Bennett will stop at nothing to protect family: his wife, his kids—and his fellow officers—in the latest psychological thriller from #1&#xa0;<i>New York Times</i>&#xa0;bestselling author James Patterson.&#xa0;</b><br /><br /> At every&#xa0;death&#xa0;scene, Bennett says a prayer over the victim.&#xa0;&#xa0;<br /> But recently, too many of the departed have been&#xa0;fellow cops.&#xa0;<br /> “I want you to look at these deaths on special assignment,” NYPD Inspector Celeste Cantor says. “Report only to me.”<br /> Bennett excels as a solo investigator. But he's chasing a killer who feeds on isolation... and paranoia.
-
-[View on Apple](https://books.apple.com/us/book/paranoia/id6503679746)
-
 <a id="the-shampoo-effect-a-read-with-jenna-pick"></a>
 ## The Shampoo Effect: A Read with Jenna Pick
 
@@ -197,24 +188,6 @@ WINNER OF THE PULITZER PRIZE • WINNER OF THE WOMEN'S PRIZE FOR FICTION<br /><b
 <b>READ WITH JENNA BOOK CLUB PICK AS FEATURED ON <i>TODAY | </i>AN INSTANT <i>NEW YORK TIMES </i>BESTSELLER!<br /><br />“Funny, drama-fueled, and full of Jackson's breezy wit. . . Brilliant.”&#xa0;—Coco Mellors, <i>New York Times </i>bestselling author of <i>Blue Sisters</i><br /><br />“The platonic ideal of a beach read.” —<i>The New York Times</i><br /><br /> An ambitious young woman insinuates herself into a tight-knit social set, shaking up friendships and marriages in a small seaside town. A frothy novel of love, money, sex, and friendship, from the <i>New York Times</i> bestselling author of <i>Pineapple Street</i></b><br /><br />When Caroline Lash arrives in Greenhead, Massachusetts, she falls head-over-heels for Van Whittaker, a fleece-wearing, litter-collecting kayak enthusiast with long, floppy hair and the personality of a Border collie. Born and raised in this picturesque coastal village, Van runs with the same crowd he did as a kid: His ex-girlfriend, Bailey, a beautiful girl who attracts men like moths to a flame; Augusta, old money, horsey, and snobbish; and Fran, surrounded by brothers and sons, too fed up with boys to ever consider marrying one.<br /><br />Together, the group runs wild through the marshes, beaches, and bars of Greenhead, drinking on houseboats, spending long afternoons sunbathing with their children, and playing games the way they always have. But when Bailey discovers that she is pregnant with Van’s baby, the delicate balance of the group’s friendship is thrown off. Soon Caroline is cast out of the circle and what she does next—in a potent mix of fury and heartbreak—exposes long-held secrets and works the entire town of Greenhead into a lather.<br /><br />Dazzlingly funny, sexy, and as juicy as it is astute, <i>The Shampoo Effect </i>is a story of late-night parties, early mornings with small children, the dawn of midlife, and a group of old friends finally growing up despite all their best efforts to the contrary.
 
 [View on Apple](https://books.apple.com/us/book/the-shampoo-effect-a-read-with-jenna-pick/id6753266375)
-
-<a id="circe"></a>
-## Circe
-
-![Circe](../../logos/1268516837-19452004.png)
-
-<b>This #1 </b><i><b>New York Times</b></i><b> bestseller brilliantly reimagines the life of Circe, formidable sorceress of </b><i><b>The Odyssey</b></i><b>, as she discovers her own power, forges her identity, and challenges the gods who seek to control her.&#xa0;</b><br /><br /><b>"[A] bold and subversive retelling of the goddess's story." —</b><i><b>The New York Times</b></i><br /><br />In the house of Helios, god of the sun and mightiest of the Titans, a daughter is born. But Circe is a strange child—not powerful, like her father, nor viciously alluring like her mother. Turning to the world of mortals for companionship, she discovers that she does possess power—the power of witchcraft, which can transform rivals into monsters and menace the gods themselves.<br /><br />Threatened, Zeus banishes her to a deserted island, where she hones her occult craft, tames wild beasts and crosses paths with many of the most famous figures in all of mythology, including the Minotaur, Daedalus and his doomed son Icarus, the murderous Medea, and, of course, wily Odysseus.<br /><br />But there is danger, too, for a woman who stands alone, and Circe unwittingly draws the wrath of both men and gods, ultimately finding herself pitted against one of the most terrifying and vengeful of the Olympians. To protect what she loves most, Circe must summon all her strength and choose, once and for all, whether she belongs with the gods she is born from, or the mortals she has come to love.<br /><br />With unforgettably vivid characters, mesmerizing language, and page-turning suspense, <i>Circe </i>is a triumph of storytelling, an intoxicating epic of family rivalry, palace intrigue, love and loss, as well as a celebration of indomitable female strength in a man's world.<br /><br />Named one of the Best Books of the Year by NPR, <i>Washington Post</i>, <i>People</i>, <i>Time</i>, Amazon, <i>Entertainment Weekly</i>, <i>Bustle</i>, <i>Newsweek</i>, <i>A.V. Club</i>, <i>Christian Science Monitor</i>, <i>Refinery 29</i>, <i>Buzzfeed</i>, <i>Paste</i>, Audible, <i>Kirkus Reviews</i>, <i>Publishers Weekly</i>, <i>Thrillist</i>, NYPL, <i>Self</i>, <i>Real Simple</i>, Goodreads,<i> Boston Globe</i>, <i>Electric Literature</i>, <i>BookPage</i>, <i>Guardian</i>, <i>Book Riot</i>, <i>Seattle Times</i>, and <i>Business Insider</i>.
-
-[View on Apple](https://books.apple.com/us/book/circe/id1268516837)
-
-<a id="mad-mabel"></a>
-## Mad Mabel
-
-![Mad Mabel](../../logos/6744894807-9e854d5f.png)
-
-<b>INSTANT NEW YORK TIMES BESTSELLER</b><br /><br /><b>From <i>New York Times </i>bestselling author Sally Hepworth comes a twisty tale of justice, redemption, and one irrepressible woman who’s not done breaking the rules just yet.</b><br /><br />Meet Elsie Mabel Fitzpatrick: eighty-one years old, gloriously grumpy, fiercely independent, and never without a hot cup of tea—or a cutting remark. She minds her own business in her quiet Melbourne suburb, until a neighbor turns up dead and the whispers start flying. <br /><br />Because Elsie hasn’t always been Elsie. Once upon a headline, she was Mad Mabel Waller—Australia’s youngest convicted murderer. But was she really mad, or just misunderstood? Either way, she’s kept her secret buried for decades. <br /><br /> Enter seven-year-old Persephone, a relentless little chatterbox who has just moved in across the road (armed with stickers, questions, and no sense of personal boundaries); Joan, who appears to have it in for Elsie; and a healthy dose of public interest—the cops are sniffing around, and the media is circling like seagulls at a picnic. <br /><br />So Mabel does what she’s always done best—she takes matters into her own hands. <br /><br /> Is she a cantankerous old lady with a shady past? A cold-blooded killer with arthritis? Or just someone who’s finally ready to tell her side of the story? <br /><br /> Sharp, surprising, and wickedly funny, this is the unforgettable story of a woman who’s spent a lifetime being underestimated—and is about to prove everyone wrong. Again.
-
-[View on Apple](https://books.apple.com/us/book/mad-mabel/id6744894807)
 
 <a id="threshing-day"></a>
 ## Threshing Day
@@ -225,6 +198,33 @@ The next book in the blockbuster Empyrean series, <i>Threshing Day</i> contains 
 
 [View on Apple](https://books.apple.com/us/book/threshing-day/id6775515084)
 
+<a id="paranoia"></a>
+## Paranoia
+
+![Paranoia](../../logos/6503679746-93238087.png)
+
+<b>NYPD Detective Michael Bennett will stop at nothing to protect family: his wife, his kids—and his fellow officers—in the latest psychological thriller from #1&#xa0;<i>New York Times</i>&#xa0;bestselling author James Patterson.&#xa0;</b><br /><br /> At every&#xa0;death&#xa0;scene, Bennett says a prayer over the victim.&#xa0;&#xa0;<br /> But recently, too many of the departed have been&#xa0;fellow cops.&#xa0;<br /> “I want you to look at these deaths on special assignment,” NYPD Inspector Celeste Cantor says. “Report only to me.”<br /> Bennett excels as a solo investigator. But he's chasing a killer who feeds on isolation... and paranoia.
+
+[View on Apple](https://books.apple.com/us/book/paranoia/id6503679746)
+
+<a id="mad-mabel"></a>
+## Mad Mabel
+
+![Mad Mabel](../../logos/6744894807-9e854d5f.png)
+
+<b>INSTANT NEW YORK TIMES BESTSELLER</b><br /><br /><b>From <i>New York Times </i>bestselling author Sally Hepworth comes a twisty tale of justice, redemption, and one irrepressible woman who’s not done breaking the rules just yet.</b><br /><br />Meet Elsie Mabel Fitzpatrick: eighty-one years old, gloriously grumpy, fiercely independent, and never without a hot cup of tea—or a cutting remark. She minds her own business in her quiet Melbourne suburb, until a neighbor turns up dead and the whispers start flying. <br /><br />Because Elsie hasn’t always been Elsie. Once upon a headline, she was Mad Mabel Waller—Australia’s youngest convicted murderer. But was she really mad, or just misunderstood? Either way, she’s kept her secret buried for decades. <br /><br /> Enter seven-year-old Persephone, a relentless little chatterbox who has just moved in across the road (armed with stickers, questions, and no sense of personal boundaries); Joan, who appears to have it in for Elsie; and a healthy dose of public interest—the cops are sniffing around, and the media is circling like seagulls at a picnic. <br /><br />So Mabel does what she’s always done best—she takes matters into her own hands. <br /><br /> Is she a cantankerous old lady with a shady past? A cold-blooded killer with arthritis? Or just someone who’s finally ready to tell her side of the story? <br /><br /> Sharp, surprising, and wickedly funny, this is the unforgettable story of a woman who’s spent a lifetime being underestimated—and is about to prove everyone wrong. Again.
+
+[View on Apple](https://books.apple.com/us/book/mad-mabel/id6744894807)
+
+<a id="circe"></a>
+## Circe
+
+![Circe](../../logos/1268516837-19452004.png)
+
+<b>This #1 </b><i><b>New York Times</b></i><b> bestseller brilliantly reimagines the life of Circe, formidable sorceress of </b><i><b>The Odyssey</b></i><b>, as she discovers her own power, forges her identity, and challenges the gods who seek to control her.&#xa0;</b><br /><br /><b>"[A] bold and subversive retelling of the goddess's story." —</b><i><b>The New York Times</b></i><br /><br />In the house of Helios, god of the sun and mightiest of the Titans, a daughter is born. But Circe is a strange child—not powerful, like her father, nor viciously alluring like her mother. Turning to the world of mortals for companionship, she discovers that she does possess power—the power of witchcraft, which can transform rivals into monsters and menace the gods themselves.<br /><br />Threatened, Zeus banishes her to a deserted island, where she hones her occult craft, tames wild beasts and crosses paths with many of the most famous figures in all of mythology, including the Minotaur, Daedalus and his doomed son Icarus, the murderous Medea, and, of course, wily Odysseus.<br /><br />But there is danger, too, for a woman who stands alone, and Circe unwittingly draws the wrath of both men and gods, ultimately finding herself pitted against one of the most terrifying and vengeful of the Olympians. To protect what she loves most, Circe must summon all her strength and choose, once and for all, whether she belongs with the gods she is born from, or the mortals she has come to love.<br /><br />With unforgettably vivid characters, mesmerizing language, and page-turning suspense, <i>Circe </i>is a triumph of storytelling, an intoxicating epic of family rivalry, palace intrigue, love and loss, as well as a celebration of indomitable female strength in a man's world.<br /><br />Named one of the Best Books of the Year by NPR, <i>Washington Post</i>, <i>People</i>, <i>Time</i>, Amazon, <i>Entertainment Weekly</i>, <i>Bustle</i>, <i>Newsweek</i>, <i>A.V. Club</i>, <i>Christian Science Monitor</i>, <i>Refinery 29</i>, <i>Buzzfeed</i>, <i>Paste</i>, Audible, <i>Kirkus Reviews</i>, <i>Publishers Weekly</i>, <i>Thrillist</i>, NYPL, <i>Self</i>, <i>Real Simple</i>, Goodreads,<i> Boston Globe</i>, <i>Electric Literature</i>, <i>BookPage</i>, <i>Guardian</i>, <i>Book Riot</i>, <i>Seattle Times</i>, and <i>Business Insider</i>.
+
+[View on Apple](https://books.apple.com/us/book/circe/id1268516837)
+
 <a id="love-you-more"></a>
 ## Love You More
 
@@ -233,42 +233,6 @@ The next book in the blockbuster Empyrean series, <i>Threshing Day</i> contains 
 <b><i>NEW YORK TIMES</i> BESTSELLER • A woman is newly engaged to a man she adores when she receives a call from her first love with news that shatters her carefully ordered world, in this emotionally powerful novel from the author of <i>All We Ever Wanted, The Lies That Bind,</i> and <i>The Summer Pact</i>.<br /><br />"Remember <i>Sweet Home Alabama</i>? Giffin has given us a modern Midwestern update of that classic story.”—<i>The New York Times Book Review</i></b><br /><br />Billie has built the perfect life. Her medical practice in New York City is thriving, and she’s finally found the right partner in Dean after years spent trying to move on from her high-school sweetheart, Mick. Their young love had been intense and true, but distance and ambition pulled them apart when she left Wisconsin for medical school.<br /><br />Then one morning, just after she’s accepted Dean’s romantic marriage proposal, Billie’s phone rings. It’s Mick—calling for the first time in nearly a decade. His news is urgent and in a moment, everything changes.<br /><br />As Billie boards a plane back to Wisconsin, her past comes rushing in—her hometown friendships, the love she and Mick shared, and the choices that shaped them all. What awaits her is a reckoning with what she’s lost, what she’s built, and what she still wants.<br /><br />Gripping and deeply moving, <i>Love You More</i> is a story about the plot twists life throws at us—and how love, in all its forms, has the power to change everything.
 
 [View on Apple](https://books.apple.com/us/book/love-you-more/id6753746266)
-
-<a id="the-way-of-kings"></a>
-## The Way of Kings
-
-![The Way of Kings](../../logos/376229549-0e399698.png)
-
-From #1 New York Times bestselling author Brandon Sanderson, The Way of Kings, Book One of the Stormlight Archive, begins an incredible new saga of epic proportion. Roshar is a world of stone and storms. Uncanny tempests of incredible power sweep across the rocky terrain so frequently that they have shaped ecology and civilization alike. Animals hide in shells, trees pull in branches, and grass retracts into the soilless ground. Cities are built only where the topography offers shelter. It has been centuries since the fall of the ten consecrated orders known as the Knights Radiant, but their Shardblades and Shardplate remain: mystical swords and suits of armor that transform ordinary men into near-invincible warriors. Men trade kingdoms for Shardblades. Wars were fought for them, and won by them. One such war rages on a ruined landscape called the Shattered Plains. There, Kaladin, who traded his medical apprenticeship for a spear to protect his little brother, has been reduced to slavery. In a war that makes no sense, where ten armies fight separately against a single foe, he struggles to save his men and to fathom the leaders who consider them expendable. Brightlord Dalinar Kholin commands one of those other armies. Like his brother, the late king, he is fascinated by an ancient text called The Way of Kings. Troubled by over-powering visions of ancient times and the Knights Radiant, he has begun to doubt his own sanity. Across the ocean, an untried young woman named Shallan seeks to train under an eminent scholar and notorious heretic, Dalinar&#39;s niece, Jasnah. Though she genuinely loves learning, Shallan&#39;s motives are less than pure. As she plans a daring theft, her research for Jasnah hints at secrets of the Knights Radiant and the true cause of the war. The result of over ten years of planning, writing, and world-building, The Way of Kings is but the opening movement of the Stormlight Archive, a bold masterpiece in the making. Speak again the ancient oaths: Life before death. Strength before weakness. Journey before Destination. and return to men the Shards they once bore. The Knights Radiant must stand again. Other Tor books by Brandon Sanderson The Cosmere The Stormlight Archive ● The Way of Kings ● Words of Radiance ● Edgedancer (novella) ● Oathbringer ● Dawnshard (novella) ● Rhythm of War The Mistborn Saga The Original Trilogy ● Mistborn ● The Well of Ascension ● The Hero of Ages Wax and Wayne ● The Alloy of Law ● Shadows of Self ● The Bands of Mourning ● The Lost Metal Other Cosmere novels ● Elantris ● Warbreaker ● Tress of the Emerald Sea ● Yumi and the Nightmare Painter ● The Sunlit Man Collection ● Arcanum Unbounded: The Cosmere Collection The Alcatraz vs. the Evil Librarians series ● Alcatraz vs. the Evil Librarians ● The Scrivener&#39;s Bones ● The Knights of Crystallia ● The Shattered Lens ● The Dark Talent ● Bastille vs. the Evil Librarians (with Janci Patterson) Other novels ● The Rithmatist ● Legion: The Many Lives of Stephen Leeds ● The Frugal Wizard’s Handbook for Surviving Medieval England Other books by Brandon Sanderson The Reckoners ● Steelheart ● Firefight ● Calamity Skyward ● Skyward ● Starsight ● Cytonic ● Skyward Flight (with Janci Patterson) ● Defiant At the Publisher&#39;s request, this title is being sold without Digital Rights Management Software (DRM) applied.
-
-[View on Apple](https://books.apple.com/us/book/the-way-of-kings/id376229549)
-
-<a id="regime-change"></a>
-## Regime Change
-
-![Regime Change](../../logos/6761716648-a4c856a3.png)
-
-<b>“<i>Regime Change</i> is exceptional. It transcends its genre...the book is packed with news that will stay news...This is reporting of consequence.” </b><b>—David Remnick, <i>The New Yorker</i></b><br /><br /> <b>“A flabbergasting feat of political reporting.” </b><b>—Tina Brown</b><br /><br /> <b>“Riveting and richly textured...<b>What the authors add is the vivid detail that makes these events feel actual. They wrest reality itself back from the distorted world of entertainment, illusion, fantasy and denial that Trump has generated around himself. It is this flood of provocation, atrocity, self-dealing and fabrication that makes Haberman and Swan’s counternarrative so vital.” </b></b><b>—Fintan O’Toole, <i>The New York Times</i></b><br /><br /> <b>A riveting, intimate, and revelatory account of the most radical and consequential presidency of our time.</b><br /><br />From the two reporters who have covered him more closely than perhaps anyone else over the past decade comes this definitive portrait of Donald Trump in the White House. <i>Regime Change</i> covers the first year of Trump’s second presidency—a term liberated from every constraint that defined his first. The generals who once told him “no” are gone, and the lawyers who remain have learned to pick their battles. His administration has flouted court orders and he has claimed powers that Congress once checked. What remains is a President willing to take enormous risks that have upended global markets and toppled heads of state; an imperial President operating almost entirely on instinct alone. <br /><br />Based on hundreds of interviews and unprecedented reporting from deep within the administration’s most closely guarded rooms, <i>Regime Change</i> takes the reader inside the Situation Room and into the secret Oval Office deliberations that have launched a new war in the Middle East and seen Trump seal the border, surge National Guard troops into cities, and send immigration agents into deadly clashes with protestors. Maggie Haberman and Jonathan Swan bring us behind the scenes of a presidency that has transformed the culture, turned the Justice Department into an agent of retribution against the President’s enemies and the office itself into a brazen vehicle for profit. They reveal a second term propelled by a historical irony that Trump himself has come to understand: that the indictments, the convictions, the assassination attempts, and four years of exile made him not weaker but far more powerful, more vengeful, and more willing to gamble than any President in modern history. <br /><br />This is the story of how Trump has used that power, who has tried to stop him, and why nearly all of them have failed. It is also the story of something American journalists are more accustomed to chronicling in distant capitals than in their own: a President who has fundamentally altered the nature of the office he holds—and, with it, how the rest of the world understands American power. It is an account of <i>Regime Change</i> right here in America—a landmark real-time history of a modern presidency like no other.
-
-[View on Apple](https://books.apple.com/us/book/regime-change/id6761716648)
-
-<a id="choke-point"></a>
-## Choke Point
-
-![Choke Point](../../logos/6754249367-7484c3ee.png)
-
-<b><b>#1 <i>New York Times</i> bestselling author Brad Thor thrills with his new summer blockbuster starring Scot Harvath.</b></b><br /><br /><b>A devastating series of bombings tears through Bangkok. Scores of American citizens are dead. The attacks send shock waves around the world.</b><br /><br />As global assistance pours into Thailand—including the FBI’s famed Evidence Response Team—the president of the United States quietly prepares a plan B: Scot Harvath, America’s top spy, trained to operate outside the law and probe the dark corners others can’t…or won’t.<br /><br />But the bomber Harvath is pursuing isn’t a terrorist. He’s something far more dangerous—one of ours.<br /><br />Meanwhile, in Washington, a former United States Marine is being hunted—and he has no idea why. Desperate for answers, he turns to the one person he still trusts—his ex-fiancée, a rising star in the White House. The problem is, she isn’t sure she can trust him.<br /><br />As Harvath closes in on the bomber, a devastating truth begins to emerge. China has quietly deployed its most elite intelligence unit to Thailand. Their objective: to ignite chaos, trigger a military coup, and seize control of a narrow but critical piece of land, one that could give Beijing a decisive advantage.<br /><br />If the plan succeeds, Beijing will secure a key gateway between two oceans, eroding American naval dominance and tipping the balance in any war between the world’s great powers.<br /><br />China will control the ultimate geopolitical choke point.
-
-[View on Apple](https://books.apple.com/us/book/choke-point/id6754249367)
-
-<a id="dirty-thirty"></a>
-## Dirty Thirty
-
-![Dirty Thirty](../../logos/6445638027-2fa9d327.png)
-
-<b>Janet Evanovich, the “most popular mystery writer alive” (<i>The New York Times</i>), is in top form as she sends Stephanie Plum on the trail of a stolen stash of dirty diamonds in this instant #1 <i>New York Times</i> bestseller.</b><br /><br />Stephanie Plum, Trenton’s hardest working, most underappreciated bounty hunter, is offered an assignment that seems simple enough. Local jeweler Martin Rabner wants her to locate his former security guard, Andy Manley (a.k.a. Nutsy), who he is convinced stole a fortune in diamonds from his safe. Stephanie is also looking for another troubled man, Duncan Dugan, a fugitive from justice arrested for robbing the same jewelry store on the same day.<br /><br /> With her boyfriend Morelli away in Miami on police business, Stephanie is taking care of Bob, Morelli’s giant orange dog who will devour anything, from Stephanie’s stray donuts to the upholstery in her car. Morelli’s absence also means the inscrutable, irresistible security expert Ranger is front and center in Stephanie’s life when things inevitably go sideways. And he seems determined to stay there.<br /><br /> To complicate matters, her best friend is convinced she is being stalked by a mythological demon hell-bent on relieving her of her wardrobe. An overnight stakeout with Stephanie’s mother and Grandma Mazur reveals three generations of women with nerves of steel and driving skills worthy of NASCAR champions.<br /><br /> As the body count rises and witnesses start to disappear, it won’t be easy for Stephanie to keep herself clean when everyone else is playing dirty. It’s a good thing Stephanie isn’t afraid of getting a little dirty, too in this “uproarious, crazy, laugh-a-minute caper” (<i>Booklist</i>, starred review).
-
-[View on Apple](https://books.apple.com/us/book/dirty-thirty/id6445638027)
 
 <a id="all-the-pretty-horses"></a>
 ## All the Pretty Horses
@@ -279,14 +243,32 @@ From #1 New York Times bestselling author Brandon Sanderson, The Way of Kings, B
 
 [View on Apple](https://books.apple.com/us/book/all-the-pretty-horses/id420536155)
 
-<a id="the-mistake"></a>
-## The Mistake
+<a id="choke-point"></a>
+## Choke Point
 
-![The Mistake](../../logos/986126256-e815e2b7.png)
+![Choke Point](../../logos/6754249367-7484c3ee.png)
 
-<b>The series that inspired Amazon Prime's </b><i><b>Off-Campus</b></i><b> – Now Streaming!</b><br /><br /><b>Get ready for another binge-worthy romance from international bestselling author and TikTok sensation Elle Kennedy.</b><br /><br /><i>He's a player in more ways than one…</i><br /><br />College junior John Logan can get any girl he wants. For this hockey star, life is a parade of parties and hook-ups, but behind his killer grins and easygoing charm, he hides growing despair about the dead-end road he'll be forced to walk after graduation. A sexy encounter with freshman Grace Ivers is just the distraction he needs, but when a thoughtless mistake pushes her away, Logan&#xa0;plans to spend his final year proving to her that he's worth a second chance.<br /><br /><i>Now he's going to need to up his game…</i><br /><br />After a less than stellar freshman year, Grace is back at Briar University, older, wiser, and&#xa0;<i>so</i>&#xa0;over the arrogant hockey player she nearly handed her V-card to. She's not a charity case, and she's not the quiet butterfly she was when they first hooked up. If Logan expects her to roll over and beg like all his other puck bunnies, he can think again. He wants her back? He'll have to <i>work</i> for it. This time around, she'll be the one in the driver's seat…and she plans on driving him wild.
+<b><b>#1 <i>New York Times</i> bestselling author Brad Thor thrills with his new summer blockbuster starring Scot Harvath.</b></b><br /><br /><b>A devastating series of bombings tears through Bangkok. Scores of American citizens are dead. The attacks send shock waves around the world.</b><br /><br />As global assistance pours into Thailand—including the FBI’s famed Evidence Response Team—the president of the United States quietly prepares a plan B: Scot Harvath, America’s top spy, trained to operate outside the law and probe the dark corners others can’t…or won’t.<br /><br />But the bomber Harvath is pursuing isn’t a terrorist. He’s something far more dangerous—one of ours.<br /><br />Meanwhile, in Washington, a former United States Marine is being hunted—and he has no idea why. Desperate for answers, he turns to the one person he still trusts—his ex-fiancée, a rising star in the White House. The problem is, she isn’t sure she can trust him.<br /><br />As Harvath closes in on the bomber, a devastating truth begins to emerge. China has quietly deployed its most elite intelligence unit to Thailand. Their objective: to ignite chaos, trigger a military coup, and seize control of a narrow but critical piece of land, one that could give Beijing a decisive advantage.<br /><br />If the plan succeeds, Beijing will secure a key gateway between two oceans, eroding American naval dominance and tipping the balance in any war between the world’s great powers.<br /><br />China will control the ultimate geopolitical choke point.
 
-[View on Apple](https://books.apple.com/us/book/the-mistake/id986126256)
+[View on Apple](https://books.apple.com/us/book/choke-point/id6754249367)
+
+<a id="the-way-of-kings"></a>
+## The Way of Kings
+
+![The Way of Kings](../../logos/376229549-0e399698.png)
+
+From #1 New York Times bestselling author Brandon Sanderson, The Way of Kings, Book One of the Stormlight Archive, begins an incredible new saga of epic proportion. Roshar is a world of stone and storms. Uncanny tempests of incredible power sweep across the rocky terrain so frequently that they have shaped ecology and civilization alike. Animals hide in shells, trees pull in branches, and grass retracts into the soilless ground. Cities are built only where the topography offers shelter. It has been centuries since the fall of the ten consecrated orders known as the Knights Radiant, but their Shardblades and Shardplate remain: mystical swords and suits of armor that transform ordinary men into near-invincible warriors. Men trade kingdoms for Shardblades. Wars were fought for them, and won by them. One such war rages on a ruined landscape called the Shattered Plains. There, Kaladin, who traded his medical apprenticeship for a spear to protect his little brother, has been reduced to slavery. In a war that makes no sense, where ten armies fight separately against a single foe, he struggles to save his men and to fathom the leaders who consider them expendable. Brightlord Dalinar Kholin commands one of those other armies. Like his brother, the late king, he is fascinated by an ancient text called The Way of Kings. Troubled by over-powering visions of ancient times and the Knights Radiant, he has begun to doubt his own sanity. Across the ocean, an untried young woman named Shallan seeks to train under an eminent scholar and notorious heretic, Dalinar&#39;s niece, Jasnah. Though she genuinely loves learning, Shallan&#39;s motives are less than pure. As she plans a daring theft, her research for Jasnah hints at secrets of the Knights Radiant and the true cause of the war. The result of over ten years of planning, writing, and world-building, The Way of Kings is but the opening movement of the Stormlight Archive, a bold masterpiece in the making. Speak again the ancient oaths: Life before death. Strength before weakness. Journey before Destination. and return to men the Shards they once bore. The Knights Radiant must stand again. Other Tor books by Brandon Sanderson The Cosmere The Stormlight Archive ● The Way of Kings ● Words of Radiance ● Edgedancer (novella) ● Oathbringer ● Dawnshard (novella) ● Rhythm of War The Mistborn Saga The Original Trilogy ● Mistborn ● The Well of Ascension ● The Hero of Ages Wax and Wayne ● The Alloy of Law ● Shadows of Self ● The Bands of Mourning ● The Lost Metal Other Cosmere novels ● Elantris ● Warbreaker ● Tress of the Emerald Sea ● Yumi and the Nightmare Painter ● The Sunlit Man Collection ● Arcanum Unbounded: The Cosmere Collection The Alcatraz vs. the Evil Librarians series ● Alcatraz vs. the Evil Librarians ● The Scrivener&#39;s Bones ● The Knights of Crystallia ● The Shattered Lens ● The Dark Talent ● Bastille vs. the Evil Librarians (with Janci Patterson) Other novels ● The Rithmatist ● Legion: The Many Lives of Stephen Leeds ● The Frugal Wizard’s Handbook for Surviving Medieval England Other books by Brandon Sanderson The Reckoners ● Steelheart ● Firefight ● Calamity Skyward ● Skyward ● Starsight ● Cytonic ● Skyward Flight (with Janci Patterson) ● Defiant At the Publisher&#39;s request, this title is being sold without Digital Rights Management Software (DRM) applied.
+
+[View on Apple](https://books.apple.com/us/book/the-way-of-kings/id376229549)
+
+<a id="dirty-thirty"></a>
+## Dirty Thirty
+
+![Dirty Thirty](../../logos/6445638027-2fa9d327.png)
+
+<b>Janet Evanovich, the “most popular mystery writer alive” (<i>The New York Times</i>), is in top form as she sends Stephanie Plum on the trail of a stolen stash of dirty diamonds in this instant #1 <i>New York Times</i> bestseller.</b><br /><br />Stephanie Plum, Trenton’s hardest working, most underappreciated bounty hunter, is offered an assignment that seems simple enough. Local jeweler Martin Rabner wants her to locate his former security guard, Andy Manley (a.k.a. Nutsy), who he is convinced stole a fortune in diamonds from his safe. Stephanie is also looking for another troubled man, Duncan Dugan, a fugitive from justice arrested for robbing the same jewelry store on the same day.<br /><br /> With her boyfriend Morelli away in Miami on police business, Stephanie is taking care of Bob, Morelli’s giant orange dog who will devour anything, from Stephanie’s stray donuts to the upholstery in her car. Morelli’s absence also means the inscrutable, irresistible security expert Ranger is front and center in Stephanie’s life when things inevitably go sideways. And he seems determined to stay there.<br /><br /> To complicate matters, her best friend is convinced she is being stalked by a mythological demon hell-bent on relieving her of her wardrobe. An overnight stakeout with Stephanie’s mother and Grandma Mazur reveals three generations of women with nerves of steel and driving skills worthy of NASCAR champions.<br /><br /> As the body count rises and witnesses start to disappear, it won’t be easy for Stephanie to keep herself clean when everyone else is playing dirty. It’s a good thing Stephanie isn’t afraid of getting a little dirty, too in this “uproarious, crazy, laugh-a-minute caper” (<i>Booklist</i>, starred review).
+
+[View on Apple](https://books.apple.com/us/book/dirty-thirty/id6445638027)
 
 <a id="the-score"></a>
 ## The Score
@@ -296,6 +278,24 @@ From #1 New York Times bestselling author Brandon Sanderson, The Way of Kings, B
 <b>The series that inspired Amazon Prime's </b><i><b>Off-Campus</b></i><b> – Now Streaming!</b><br /><br /><b>A </b><i><b>New York Times</b></i><b> bestseller and TikTok sensation! Get ready for another binge-worthy romance from international bestselling author Elle Kennedy.</b><br /><br /><b>He knows how to score, on and off the ice</b><br /><br />Allie Hayes is in crisis mode. With graduation looming, she still doesn't have the first clue about what she's going to do after college. To make matters worse, she's nursing a broken heart thanks to the end of her longtime relationship. Wild rebound sex is definitely not the solution to her problems, but gorgeous hockey star Dean Di-Laurentis is impossible to resist. Just once, though, because even if her future is uncertain, it sure as heck won't include the king of one-night stands.<br /><br /><b>It'll take more than flashy moves to win her over</b><br /><br />Dean always gets what he wants. Girls, grades, girls, recognition, <i>girls</i>…he's a ladies man, all right, and he's yet to meet a woman who's immune to his charms. Until Allie. For one night, the feisty blonde rocked his entire world—and now she wants to be <i>friends</i>? Nope. It's not over until he says it's over. Dean is in full-on pursuit, but when life-rocking changes strike, he starts to wonder if maybe it's time to stop focusing on scoring…and shoot for love.
 
 [View on Apple](https://books.apple.com/us/book/the-score/id1050857569)
+
+<a id="regime-change"></a>
+## Regime Change
+
+![Regime Change](../../logos/6761716648-a4c856a3.png)
+
+<b>“<i>Regime Change</i> is exceptional. It transcends its genre...the book is packed with news that will stay news...This is reporting of consequence.” </b><b>—David Remnick, <i>The New Yorker</i></b><br /><br /> <b>“A flabbergasting feat of political reporting.” </b><b>—Tina Brown</b><br /><br /> <b>“Riveting and richly textured...<b>What the authors add is the vivid detail that makes these events feel actual. They wrest reality itself back from the distorted world of entertainment, illusion, fantasy and denial that Trump has generated around himself. It is this flood of provocation, atrocity, self-dealing and fabrication that makes Haberman and Swan’s counternarrative so vital.” </b></b><b>—Fintan O’Toole, <i>The New York Times</i></b><br /><br /> <b>A riveting, intimate, and revelatory account of the most radical and consequential presidency of our time.</b><br /><br />From the two reporters who have covered him more closely than perhaps anyone else over the past decade comes this definitive portrait of Donald Trump in the White House. <i>Regime Change</i> covers the first year of Trump’s second presidency—a term liberated from every constraint that defined his first. The generals who once told him “no” are gone, and the lawyers who remain have learned to pick their battles. His administration has flouted court orders and he has claimed powers that Congress once checked. What remains is a President willing to take enormous risks that have upended global markets and toppled heads of state; an imperial President operating almost entirely on instinct alone. <br /><br />Based on hundreds of interviews and unprecedented reporting from deep within the administration’s most closely guarded rooms, <i>Regime Change</i> takes the reader inside the Situation Room and into the secret Oval Office deliberations that have launched a new war in the Middle East and seen Trump seal the border, surge National Guard troops into cities, and send immigration agents into deadly clashes with protestors. Maggie Haberman and Jonathan Swan bring us behind the scenes of a presidency that has transformed the culture, turned the Justice Department into an agent of retribution against the President’s enemies and the office itself into a brazen vehicle for profit. They reveal a second term propelled by a historical irony that Trump himself has come to understand: that the indictments, the convictions, the assassination attempts, and four years of exile made him not weaker but far more powerful, more vengeful, and more willing to gamble than any President in modern history. <br /><br />This is the story of how Trump has used that power, who has tried to stop him, and why nearly all of them have failed. It is also the story of something American journalists are more accustomed to chronicling in distant capitals than in their own: a President who has fundamentally altered the nature of the office he holds—and, with it, how the rest of the world understands American power. It is an account of <i>Regime Change</i> right here in America—a landmark real-time history of a modern presidency like no other.
+
+[View on Apple](https://books.apple.com/us/book/regime-change/id6761716648)
+
+<a id="the-mistake"></a>
+## The Mistake
+
+![The Mistake](../../logos/986126256-e815e2b7.png)
+
+<b>The series that inspired Amazon Prime's </b><i><b>Off-Campus</b></i><b> – Now Streaming!</b><br /><br /><b>Get ready for another binge-worthy romance from international bestselling author and TikTok sensation Elle Kennedy.</b><br /><br /><i>He's a player in more ways than one…</i><br /><br />College junior John Logan can get any girl he wants. For this hockey star, life is a parade of parties and hook-ups, but behind his killer grins and easygoing charm, he hides growing despair about the dead-end road he'll be forced to walk after graduation. A sexy encounter with freshman Grace Ivers is just the distraction he needs, but when a thoughtless mistake pushes her away, Logan&#xa0;plans to spend his final year proving to her that he's worth a second chance.<br /><br /><i>Now he's going to need to up his game…</i><br /><br />After a less than stellar freshman year, Grace is back at Briar University, older, wiser, and&#xa0;<i>so</i>&#xa0;over the arrogant hockey player she nearly handed her V-card to. She's not a charity case, and she's not the quiet butterfly she was when they first hooked up. If Logan expects her to roll over and beg like all his other puck bunnies, he can think again. He wants her back? He'll have to <i>work</i> for it. This time around, she'll be the one in the driver's seat…and she plans on driving him wild.
+
+[View on Apple](https://books.apple.com/us/book/the-mistake/id986126256)
 
 <a id="the-buffalo-hunter-hunter"></a>
 ## The Buffalo Hunter Hunter
@@ -315,6 +315,15 @@ From #1 New York Times bestselling author Brandon Sanderson, The Way of Kings, B
 
 [View on Apple](https://books.apple.com/us/book/the-deal/id966391102)
 
+<a id="dolly-all-the-time-a-gma-book-club-pick"></a>
+## Dolly All the Time: A GMA Book Club Pick
+
+![Dolly All the Time: A GMA Book Club Pick](../../logos/6751563893-15f4e8bb.png)
+
+<b>INSTANT <i>NEW YORK TIMES </i>BESTSELLER and <i>GOOD MORNING AMERICA </i>BOOK CLUB PICK<br /><br />A hardworking single mom returns to her seaside hometown and stumbles into a fake dating situationship with a wealthy, workaholic scion, from the <i>New York Times </i>bestselling author of <i>Nora Goes Off Script</i>.<br /><br />“A luminous story of love, duty, and the tension between the two, <i>Dolly All the Time</i> is less like a novel and more like a place I never wanted to leave. This might be my new favorite!” —Carley Fortune, #1 <i>New York Times </i>bestselling author</b><br /><br /><i>If they start by pretending, can they end with something real?</i><br /><br />Dolly Brick has never met a problem she couldn’t solve. Not when her mom left when she was twelve, and not at thirty-nine when she moves with her son back to Whitfield, Rhode Island, for the summer to keep her dad and brother from losing the family home.<br /><br />So when she comes across Stewart Whitfield—annoyingly handsome scion of <i>the </i>Whitfield family—with a flat tire and&#xa0;at the wrong end of a very public, very humiliating breakup, it’s in her nature to help. But Stewart’s proposed arrangement ends up being more than either of them bargained for, because as public dinners and high-society benefits turn into sunset boat rides and kisses that hit her bloodstream like a ghost pepper, Dolly starts to feel something more than helpful. She’s never relied on anyone besides herself—can she really start now?<br /><br /><b>“This book is like a spicy margarita…sweet and a little salty, tart and hot…I have fallen in love with Dolly and with funny, fizzing Annabel Monaghan!” —Catherine Newman, <i>New York Times</i> bestselling author of <i>Sandwich</i></b>
+
+[View on Apple](https://books.apple.com/us/book/dolly-all-the-time-a-gma-book-club-pick/id6751563893)
+
 <a id="this-changes-everything"></a>
 ## This Changes Everything
 
@@ -333,23 +342,14 @@ From #1 New York Times bestselling author Brandon Sanderson, The Way of Kings, B
 
 [View on Apple](https://books.apple.com/us/book/circle-of-days/id6736555186)
 
-<a id="dolly-all-the-time-a-gma-book-club-pick"></a>
-## Dolly All the Time: A GMA Book Club Pick
+<a id="ironwood"></a>
+## Ironwood
 
-![Dolly All the Time: A GMA Book Club Pick](../../logos/6751563893-15f4e8bb.png)
+![Ironwood](../../logos/6755099933-7c8cec9f.png)
 
-<b>INSTANT <i>NEW YORK TIMES </i>BESTSELLER and <i>GOOD MORNING AMERICA </i>BOOK CLUB PICK<br /><br />A hardworking single mom returns to her seaside hometown and stumbles into a fake dating situationship with a wealthy, workaholic scion, from the <i>New York Times </i>bestselling author of <i>Nora Goes Off Script</i>.<br /><br />“A luminous story of love, duty, and the tension between the two, <i>Dolly All the Time</i> is less like a novel and more like a place I never wanted to leave. This might be my new favorite!” —Carley Fortune, #1 <i>New York Times </i>bestselling author</b><br /><br /><i>If they start by pretending, can they end with something real?</i><br /><br />Dolly Brick has never met a problem she couldn’t solve. Not when her mom left when she was twelve, and not at thirty-nine when she moves with her son back to Whitfield, Rhode Island, for the summer to keep her dad and brother from losing the family home.<br /><br />So when she comes across Stewart Whitfield—annoyingly handsome scion of <i>the </i>Whitfield family—with a flat tire and&#xa0;at the wrong end of a very public, very humiliating breakup, it’s in her nature to help. But Stewart’s proposed arrangement ends up being more than either of them bargained for, because as public dinners and high-society benefits turn into sunset boat rides and kisses that hit her bloodstream like a ghost pepper, Dolly starts to feel something more than helpful. She’s never relied on anyone besides herself—can she really start now?<br /><br /><b>“This book is like a spicy margarita…sweet and a little salty, tart and hot…I have fallen in love with Dolly and with funny, fizzing Annabel Monaghan!” —Catherine Newman, <i>New York Times</i> bestselling author of <i>Sandwich</i></b>
+<b>AN INSTANT </b><i><b>NEW YORK TIMES </b></i><b>BESTSELLER</b><br /><br /><b>Sworn to protect a scenic island meant to be far from the evils of the mainland, Detective Sergeant Stilwell can feel danger closing in.</b><br /><br />Detective Sergeant Stilwell knows that his posting on Catalina Island is no paradise, but to most residents, it seems blissfully separated—by twenty-two miles of ocean—from the troubles of Los Angeles County. But now a threat is coming to his safe haven.<br />&#xa0;<br />Acting on a tip from a confidential informant, Stilwell and his deputies watch a plane land in the middle of the night at the Airport in the Sky, a remote airstrip in the mountains. A duffel bag of drugs is dropped and the deputies move in, but things quickly go sideways. While Stilwell chases the fleeing pickup man into the mountainside brush, shots are fired on the runway and the plane flies off.<br />&#xa0;<br />An internal inquiry follows, putting Stilwell on the bench until he is cleared of responsibility for the disastrous operation. But he is determined to find out who brought deadly violence to his island, and begins his own secret investigation into the drug deal gone wrong.<br />&#xa0;<br />While under orders to remain in the sheriff’s substation, he finds in the lost and found a valuable backpack that was never claimed. He traces it to a woman who disappeared while hiking on the island four years ago. But then why was the pack only turned in two months back? Now thoroughly intrigued, he follows the mystery all the way to the LAPD’s Open-Unsolved Unit and Detective Renée Ballard.<br />&#xa0;<br />Stilwell and Ballard work the case from both sides of the channel, and soon realize they are on the trail of a criminal who revels in taunting the authorities. Meanwhile, frustrated at being shut out of an investigation on his own island, Stilwell risks his already shaky standing in the department to pursue a case whose reach is wider than he ever imagined.<br />&#xa0;<br />Page-turning, packed with intrigue, and bringing together an unstoppable investigative team, <i>Ironwood </i>continues the Catalina series with all of Michael Connelly’s signature “relentless narrative drive…evocative atmosphere, realistic dialogue, and well-developed characters” (<i>Washington Review of Books</i>).
 
-[View on Apple](https://books.apple.com/us/book/dolly-all-the-time-a-gma-book-club-pick/id6751563893)
-
-<a id="the-waiting"></a>
-## The Waiting
-
-![The Waiting](../../logos/6476859243-4e6f5e03.png)
-
-<b>In this instant<i> New York Times </i>bestseller, LAPD Detective Renée Ballard tracks a serial rapist whose trail has gone cold and enlists a new volunteer to the Open-Unsolved Unit: patrol officer Maddie Bosch, Harry’s daughter.&#xa0;​</b><br /><br /> Renée Ballard and the LAPD’s Open-Unsolved Unit get a hot shot DNA connection between a recently arrested man and a serial rapist and murderer who went quiet two decades ago. The arrested man is only twenty-four, so the genetic link must be familial: His father was the Pillowcase Rapist, responsible for a five-year reign of terror in the City of Angels. But when Ballard and her team move in on their suspect, they encounter a baffling web of secrets and legal hurdles.<br /><br /> Meanwhile, Ballard’s badge, gun, and ID are stolen—a theft she can’t report without giving her enemies in the department ammunition to end her career as a detective. She works the burglary alone, but her mission draws her into unexpected danger. With no choice but to go outside the department for help, she knocks on the door of Harry Bosch.<br /><br /> At the same time, Ballard takes on a new volunteer to the cold case unit: Bosch’s daughter Maddie, now a patrol officer. But Maddie has an ulterior motive for getting access to the city’s library of lost souls—a case that may be the most iconic in the city’s history. Complex, satisfying, and full of dexterous twists, <i>The Waiting </i>demonstrates once more that “you can’t do better than Michael Connelly” (<i>Forbes</i>).
-
-[View on Apple](https://books.apple.com/us/book/the-waiting/id6476859243)
+[View on Apple](https://books.apple.com/us/book/ironwood/id6755099933)
 
 <a id="the-night-we-met"></a>
 ## The Night We Met
@@ -359,15 +359,6 @@ From #1 New York Times bestselling author Brandon Sanderson, The Way of Kings, B
 <b>The instant #1 <i>New York Times </i>bestseller!</b><br /><br /><b>From the #1 </b><i><b>New York Times </b></i><b>bestselling author of </b><i><b>Say You'll Remember Me&#xa0;</b></i><b>comes</b>&#xa0;<b>a</b>&#xa0;<b>beautiful, compelling novel that revels in laughter, friendship, and the messy choices life can throw our way.</b><br /><br /><b>In everyone’s life, there’s a split-second decision that can change everything...</b><br /><br /> For Larissa, it came when choosing who to ride home with after a concert. That night, she had no idea she’d met the perfect man. She and Chris are great friends, co-parenting a slightly unhinged rescue Yorkie, sharing their favorite books, and judging bread (pumpernickel for the win!). For the first time amid all her side hustles to scrape by, things finally feel easy.<br /><br /> But she didn’t choose Chris to drive her home all those months ago—she went with his best friend, and he became her boyfriend. All Chris wants is for Larissa to be happy. Standing by on the sidelines is slowly killing him, but making a move would destroy someone else. How can something that feels so right be absolutely impossible?&#xa0;
 
 [View on Apple](https://books.apple.com/us/book/the-night-we-met/id6749840232)
-
-<a id="ironwood"></a>
-## Ironwood
-
-![Ironwood](../../logos/6755099933-7c8cec9f.png)
-
-<b>AN INSTANT </b><i><b>NEW YORK TIMES </b></i><b>BESTSELLER</b><br /><br /><b>Sworn to protect a scenic island meant to be far from the evils of the mainland, Detective Sergeant Stilwell can feel danger closing in.</b><br /><br />Detective Sergeant Stilwell knows that his posting on Catalina Island is no paradise, but to most residents, it seems blissfully separated—by twenty-two miles of ocean—from the troubles of Los Angeles County. But now a threat is coming to his safe haven.<br />&#xa0;<br />Acting on a tip from a confidential informant, Stilwell and his deputies watch a plane land in the middle of the night at the Airport in the Sky, a remote airstrip in the mountains. A duffel bag of drugs is dropped and the deputies move in, but things quickly go sideways. While Stilwell chases the fleeing pickup man into the mountainside brush, shots are fired on the runway and the plane flies off.<br />&#xa0;<br />An internal inquiry follows, putting Stilwell on the bench until he is cleared of responsibility for the disastrous operation. But he is determined to find out who brought deadly violence to his island, and begins his own secret investigation into the drug deal gone wrong.<br />&#xa0;<br />While under orders to remain in the sheriff’s substation, he finds in the lost and found a valuable backpack that was never claimed. He traces it to a woman who disappeared while hiking on the island four years ago. But then why was the pack only turned in two months back? Now thoroughly intrigued, he follows the mystery all the way to the LAPD’s Open-Unsolved Unit and Detective Renée Ballard.<br />&#xa0;<br />Stilwell and Ballard work the case from both sides of the channel, and soon realize they are on the trail of a criminal who revels in taunting the authorities. Meanwhile, frustrated at being shut out of an investigation on his own island, Stilwell risks his already shaky standing in the department to pursue a case whose reach is wider than he ever imagined.<br />&#xa0;<br />Page-turning, packed with intrigue, and bringing together an unstoppable investigative team, <i>Ironwood </i>continues the Catalina series with all of Michael Connelly’s signature “relentless narrative drive…evocative atmosphere, realistic dialogue, and well-developed characters” (<i>Washington Review of Books</i>).
-
-[View on Apple](https://books.apple.com/us/book/ironwood/id6755099933)
 
 <a id="state-of-unrest-a-first-family-novel"></a>
 ## State of Unrest, A First Family Novel
@@ -390,6 +381,15 @@ The First Family Series is back at full-throttle as Sam and Nick try to stay foc
 
 [View on Apple](https://books.apple.com/us/book/state-of-unrest-a-first-family-novel/id6756270995)
 
+<a id="the-waiting"></a>
+## The Waiting
+
+![The Waiting](../../logos/6476859243-4e6f5e03.png)
+
+<b>In this instant<i> New York Times </i>bestseller, LAPD Detective Renée Ballard tracks a serial rapist whose trail has gone cold and enlists a new volunteer to the Open-Unsolved Unit: patrol officer Maddie Bosch, Harry’s daughter.&#xa0;​</b><br /><br /> Renée Ballard and the LAPD’s Open-Unsolved Unit get a hot shot DNA connection between a recently arrested man and a serial rapist and murderer who went quiet two decades ago. The arrested man is only twenty-four, so the genetic link must be familial: His father was the Pillowcase Rapist, responsible for a five-year reign of terror in the City of Angels. But when Ballard and her team move in on their suspect, they encounter a baffling web of secrets and legal hurdles.<br /><br /> Meanwhile, Ballard’s badge, gun, and ID are stolen—a theft she can’t report without giving her enemies in the department ammunition to end her career as a detective. She works the burglary alone, but her mission draws her into unexpected danger. With no choice but to go outside the department for help, she knocks on the door of Harry Bosch.<br /><br /> At the same time, Ballard takes on a new volunteer to the cold case unit: Bosch’s daughter Maddie, now a patrol officer. But Maddie has an ulterior motive for getting access to the city’s library of lost souls—a case that may be the most iconic in the city’s history. Complex, satisfying, and full of dexterous twists, <i>The Waiting </i>demonstrates once more that “you can’t do better than Michael Connelly” (<i>Forbes</i>).
+
+[View on Apple](https://books.apple.com/us/book/the-waiting/id6476859243)
+
 <a id="project-hail-mary"></a>
 ## Project Hail Mary
 
@@ -399,15 +399,6 @@ The First Family Series is back at full-throttle as Sam and Nick try to stay foc
 
 [View on Apple](https://books.apple.com/us/book/project-hail-mary/id1526997052)
 
-<a id="one-summer"></a>
-## One Summer
-
-![One Summer](../../logos/1567913366-2003c14e.png)
-
-<b>Two journalists on a cross-country journey to capture the perfect image of the American spirit spend <i>One Summer</i> bringing their hearts into focus in this passionate novel from #1 <i>New York Times</i> bestselling author Nora Roberts.<br /><br /></b>There’s no summer getaway for <i>Celebrity</i> magazine photographer Bryan Mitchell this year. Instead she’ll be spending three months on the road with renowned photojournalist Shade Colby. Their assignment is a nationwide photo shoot, taking candid snapshots of a summer in America for a beautiful coffee table book. But Bryan’s family fun in the sun moments contrasts with Shade’s portraits revealing the dark side of touristy vacations. Unable to agree on whose pictures best represent their project’s ideal, or anything else, Bryan and Shade discover something extraordinary when they come out from behind their cameras to truly see one another—two people longing for truth and beauty, hoping to share their vision of love.
-
-[View on Apple](https://books.apple.com/us/book/one-summer/id1567913366)
-
 <a id="the-good-daughter"></a>
 ## The Good Daughter
 
@@ -416,6 +407,24 @@ The First Family Series is back at full-throttle as Sam and Nick try to stay foc
 <b>NOW A PEACOCK LIMITED SERIES STARRING ROSE BYRNE AND MEGHANN FAHY OUT NOVEMBER 12, 2026<br /> </b><br /><b>An instant <i>New York Times </i>bestseller</b><br /><br /><b>Two girls are forced into the woods at gunpoint. One runs for her life. One is left behind…</b><br /><br />Twenty-eight years ago, Charlotte and Samantha Quinn's happy small-town family life was torn apart by a terrifying attack on their family home. It left their mother dead. It left their father — Pikeville's notorious defense attorney — devastated. And it left the family fractured beyond repair, consumed by secrets from that terrible night.<br /><br />Twenty-eight years later, and Charlie has followed in her father's footsteps to become a lawyer herself — the ideal good daughter. But when violence comes to Pikeville again — and a shocking tragedy leaves the whole town traumatized — Charlie is plunged into a nightmare. Not only is she the first witness on the scene, but it's a case that unleashes the terrible memories she's spent so long trying to suppress. Because the shocking truth about the crime that destroyed her family nearly thirty years ago won't stay buried forever…<br /><br />Packed with twists and turns, brimming with emotion and heart,<i> The Good Daughter</i> is fiction at its most thrilling.
 
 [View on Apple](https://books.apple.com/us/book/the-good-daughter/id1180491713)
+
+<a id="the-goal"></a>
+## The Goal
+
+![The Goal](../../logos/1071929741-ca1a8dd3.png)
+
+<b>The series that inspired Amazon Prime's </b><i><b>Off-Campus</b></i><b> – Now Streaming!</b><br /><br /><b>Discover another binge-worthy romance from New York Times bestselling author and TikTok sensation Elle Kennedy!</b><br /><br /><i>She's good at achieving her goals…</i><br /><br />College senior Sabrina James has her whole future planned out: graduate from college, kick butt in law school, and land a high-paying job at a cutthroat firm. Her path to escaping her shameful past certainly doesn't include a gorgeous hockey player who believes in love at first sight. One night of sizzling heat and surprising tenderness is all she's willing to give John Tucker, but sometimes, one night is all it takes for your entire life to change.<br /><br /><i>But the game just got a whole lot more complicated</i><br /><br />Tucker believes being a team player is as important as being the star. On the ice, he's fine staying out of the spotlight, but when it comes to becoming a daddy at the age of twenty-two, he refuses to be a bench warmer. It doesn't hurt that the soon-to-be mother of his child is beautiful, whip-smart, and keeps him on his toes. The problem is, Sabrina's heart is locked up tight, and the fiery brunette is too stubborn to accept his help. If he wants a life with the woman of his dreams, he'll have to convince her that some goals can only be made with an assist.
+
+[View on Apple](https://books.apple.com/us/book/the-goal/id1071929741)
+
+<a id="one-summer"></a>
+## One Summer
+
+![One Summer](../../logos/1567913366-2003c14e.png)
+
+<b>Two journalists on a cross-country journey to capture the perfect image of the American spirit spend <i>One Summer</i> bringing their hearts into focus in this passionate novel from #1 <i>New York Times</i> bestselling author Nora Roberts.<br /><br /></b>There’s no summer getaway for <i>Celebrity</i> magazine photographer Bryan Mitchell this year. Instead she’ll be spending three months on the road with renowned photojournalist Shade Colby. Their assignment is a nationwide photo shoot, taking candid snapshots of a summer in America for a beautiful coffee table book. But Bryan’s family fun in the sun moments contrasts with Shade’s portraits revealing the dark side of touristy vacations. Unable to agree on whose pictures best represent their project’s ideal, or anything else, Bryan and Shade discover something extraordinary when they come out from behind their cameras to truly see one another—two people longing for truth and beauty, hoping to share their vision of love.
+
+[View on Apple](https://books.apple.com/us/book/one-summer/id1567913366)
 
 <a id="the-correspondent"></a>
 ## The Correspondent
@@ -435,6 +444,15 @@ The First Family Series is back at full-throttle as Sam and Nick try to stay foc
 
 [View on Apple](https://books.apple.com/us/book/the-romance-revival/id6754249177)
 
+<a id="red-rising"></a>
+## Red Rising
+
+![Red Rising](../../logos/650564636-14f89d7f.png)
+
+<b><i>NEW YORK TIMES</i> BESTSELLER • <b>Pierce Brown’s relentlessly entertaining debut channels the excitement of <i>The Hunger Games</i> by Suzanne Collins and <i>Ender’s Game</i> by Orson Scott Card.</b></b> <br /><br /><b>“<i>Red Rising</i> ascends above a crowded dys­topian field.”<i>—USA Today</i></b><br /><b><br />ONE OF THE BEST BOOKS OF THE YEAR—</b><i><b>Entertainment Weekly, BuzzFeed, Shelf Awareness</b><br /></i><br /><i>“I live for the dream that my children will be born free,” she says. “That they will be what they like. That they will own the land their father gave them.”<br /> “I live for you,” I say sadly.<br /> Eo kisses my cheek. “Then you must live for more.”</i><br /><br />Darrow is a Red, a member of the lowest caste in the color-coded society of the future. Like his fellow Reds, he works all day, believing that he and his people are making the surface of Mars livable for future generations. Yet he toils willingly, trusting that his blood and sweat will one day result in a better world for his children.<br /><br /> But Darrow and his kind have been betrayed. Soon he discovers that humanity reached the surface generations ago. Vast cities and lush wilds spread across the planet. Darrow—and Reds like him—are nothing more than slaves to a decadent ruling class.<br /><br /> Inspired by a longing for justice, and driven by the memory of lost love, Darrow sacrifices everything to infiltrate the legendary Institute, a proving ground for the dominant Gold caste, where the next generation of humanity’s overlords struggle for power.&#xa0; He will be forced to compete for his life and the very future of civilization against the best and most brutal of Society’s ruling class. There, he will stop at nothing to bring down his enemies . . . even if it means he has to become one of them to do so.<br /><br /><b>Praise for <i>Red Rising</i></b><br /><br />“[A] spectacular adventure . . . one heart-pounding ride . . . Pierce Brown’s dizzyingly good debut novel evokes <i>The Hunger Games, Lord of the Flies, </i>and<i> Ender’s Game</i>. . . . [<i>Red Rising</i>] has everything it needs to become meteoric.”<b>—<i>Entertainment Weekly<br /></i></b><br />“Ender, Katniss, and now Darrow.”<b>—Scott Sigler</b><br /><br /> “<i>Red Rising</i> is a sophisticated vision. . . . Brown will find a devoted audience.”<b>—<i>Richmond Times-Dispatch</i></b><br /><br /><b>Don’t miss any of Pierce Brown’s Red Rising Saga:</b><br /><b>RED RISING •&#xa0;GOLDEN SON •&#xa0;MORNING STAR •&#xa0;IRON GOLD •&#xa0;DARK AGE • LIGHT BRINGER</b>
+
+[View on Apple](https://books.apple.com/us/book/red-rising/id650564636)
+
 <a id="strangers"></a>
 ## Strangers
 
@@ -443,15 +461,6 @@ The First Family Series is back at full-throttle as Sam and Nick try to stay foc
 <b>INSTANT #1<i> NEW YORK TIMES </i>BESTSELLER • “Burden’s searing, probing memoir explores . . . what she learned about intimacy and her own spirit.”—<i>People</i>​​</b><br /><br /><b>“A beautifully written instant classic. <i>Strangers</i> is gripping and heartbreaking and a must-read for every wife—and husband.”—Graydon Carter</b><br /><br /><b>“Asks us to examine life’s most perplexing questions: Can we see the invisible fault lines in a marriage or truly know the people closest to us?”—Lori Gottlieb<br /></b> <br /><i>It was a great love story, one for the ages. The speed of our beginning and the speed of our ending felt like matching bookends. They both came out of nowhere. He wanted it, he wanted me. And then he didn’t.</i><br /><br />In March 2020, Belle Burden was safe and secure with her family at their house on Martha’s Vineyard, navigating the early days of the pandemic together—building fires in the late afternoons, drinking whisky sours, making roast chicken. Then, with no warning or explanation, her husband of twenty years announced that he was leaving her. Overnight, her caring, steady partner became a man she hardly recognized. He exited his life with her like an actor shrugging off a costume.<br /><br />In <i>Strangers,</i> Burden revisits her marriage, searching for clues that her husband was not who she always thought he was. As she examines her relationship through a new lens, she reckons with her own family history and the lessons she intuited about how a woman is expected to behave in the face of betrayal. Through all of it, she is transformed. The discreet, compliant woman she once was—someone nicknamed “Belle the Good”—gives way to someone braver, someone determined to use her voice.<br /><br />With unflinching honesty and profound grace, Burden charts a path through heartbreak to show the power of a woman who refuses to give up on love. <i>Strangers</i> is a stunning, deeply moving, compulsively readable memoir heralding the arrival of a thrilling new literary talent.
 
 [View on Apple](https://books.apple.com/us/book/strangers/id6744305942)
-
-<a id="the-goal"></a>
-## The Goal
-
-![The Goal](../../logos/1071929741-ca1a8dd3.png)
-
-<b>The series that inspired Amazon Prime's </b><i><b>Off-Campus</b></i><b> – Now Streaming!</b><br /><br /><b>Discover another binge-worthy romance from New York Times bestselling author and TikTok sensation Elle Kennedy!</b><br /><br /><i>She's good at achieving her goals…</i><br /><br />College senior Sabrina James has her whole future planned out: graduate from college, kick butt in law school, and land a high-paying job at a cutthroat firm. Her path to escaping her shameful past certainly doesn't include a gorgeous hockey player who believes in love at first sight. One night of sizzling heat and surprising tenderness is all she's willing to give John Tucker, but sometimes, one night is all it takes for your entire life to change.<br /><br /><i>But the game just got a whole lot more complicated</i><br /><br />Tucker believes being a team player is as important as being the star. On the ice, he's fine staying out of the spotlight, but when it comes to becoming a daddy at the age of twenty-two, he refuses to be a bench warmer. It doesn't hurt that the soon-to-be mother of his child is beautiful, whip-smart, and keeps him on his toes. The problem is, Sabrina's heart is locked up tight, and the fiery brunette is too stubborn to accept his help. If he wants a life with the woman of his dreams, he'll have to convince her that some goals can only be made with an assist.
-
-[View on Apple](https://books.apple.com/us/book/the-goal/id1071929741)
 
 <a id="before-we-were-yours"></a>
 ## Before We Were Yours
@@ -462,24 +471,6 @@ The First Family Series is back at full-throttle as Sam and Nick try to stay foc
 
 [View on Apple](https://books.apple.com/us/book/before-we-were-yours/id1155890350)
 
-<a id="red-rising"></a>
-## Red Rising
-
-![Red Rising](../../logos/650564636-14f89d7f.png)
-
-<b><i>NEW YORK TIMES</i> BESTSELLER • <b>Pierce Brown’s relentlessly entertaining debut channels the excitement of <i>The Hunger Games</i> by Suzanne Collins and <i>Ender’s Game</i> by Orson Scott Card.</b></b> <br /><br /><b>“<i>Red Rising</i> ascends above a crowded dys­topian field.”<i>—USA Today</i></b><br /><b><br />ONE OF THE BEST BOOKS OF THE YEAR—</b><i><b>Entertainment Weekly, BuzzFeed, Shelf Awareness</b><br /></i><br /><i>“I live for the dream that my children will be born free,” she says. “That they will be what they like. That they will own the land their father gave them.”<br /> “I live for you,” I say sadly.<br /> Eo kisses my cheek. “Then you must live for more.”</i><br /><br />Darrow is a Red, a member of the lowest caste in the color-coded society of the future. Like his fellow Reds, he works all day, believing that he and his people are making the surface of Mars livable for future generations. Yet he toils willingly, trusting that his blood and sweat will one day result in a better world for his children.<br /><br /> But Darrow and his kind have been betrayed. Soon he discovers that humanity reached the surface generations ago. Vast cities and lush wilds spread across the planet. Darrow—and Reds like him—are nothing more than slaves to a decadent ruling class.<br /><br /> Inspired by a longing for justice, and driven by the memory of lost love, Darrow sacrifices everything to infiltrate the legendary Institute, a proving ground for the dominant Gold caste, where the next generation of humanity’s overlords struggle for power.&#xa0; He will be forced to compete for his life and the very future of civilization against the best and most brutal of Society’s ruling class. There, he will stop at nothing to bring down his enemies . . . even if it means he has to become one of them to do so.<br /><br /><b>Praise for <i>Red Rising</i></b><br /><br />“[A] spectacular adventure . . . one heart-pounding ride . . . Pierce Brown’s dizzyingly good debut novel evokes <i>The Hunger Games, Lord of the Flies, </i>and<i> Ender’s Game</i>. . . . [<i>Red Rising</i>] has everything it needs to become meteoric.”<b>—<i>Entertainment Weekly<br /></i></b><br />“Ender, Katniss, and now Darrow.”<b>—Scott Sigler</b><br /><br /> “<i>Red Rising</i> is a sophisticated vision. . . . Brown will find a devoted audience.”<b>—<i>Richmond Times-Dispatch</i></b><br /><br /><b>Don’t miss any of Pierce Brown’s Red Rising Saga:</b><br /><b>RED RISING •&#xa0;GOLDEN SON •&#xa0;MORNING STAR •&#xa0;IRON GOLD •&#xa0;DARK AGE • LIGHT BRINGER</b>
-
-[View on Apple](https://books.apple.com/us/book/red-rising/id650564636)
-
-<a id="heather"></a>
-## Heather
-
-![Heather](../../logos/6753948329-28c1d3b6.png)
-
-<b>A <i>USA TODAY </i>BESTSELLER * A <i>NEW YORK TIMES </i>EDITORS' CHOICE PICK</b><br /><b><br />“I’ve found my favorite crime novel of the year so far, one I’m already recommending to people who love Tana French and Liz Moore…. I read <i>Heather</i> in a single sitting.” —</b><b>Sarah Weinman, <i>The New York Times</i></b><br /><b><br />“If you enjoyed <i>Mare of Easttown</i>, you’ll love <i>Heather</i>. A gritty cold-case detective story, vividly and insightfully written. Not just a story of murder, it’s a thought-provoking and moving meditation on mothers and daughters and the long-reaching consequences of the choices we make.” </b><b>―Alex Michaelides, #1 </b><b><i>New York Times </i></b><b>bestselling author of <i>The Silent Patient </i>and <i>The Fury</i></b><br /><b><br />A small-town detective reopens an unsolved case, sending shock waves across generations of women in this gripping new mystery from the Edgar Award–winning author of </b><b><i>Please See Us</i></b><b>.</b><br /><br />1990. In the myth-riddled woods of the New Jersey Pine Barrens, sixteen-year-old Annabelle Riley's twin sister, Sabrina, has been having an affair with a mysterious older man, and Annabelle is determined to uncover what's going on. Then, inexplicably, both sisters disappear.<br /><br />In this same town years later, newly instated police chief Callie Hauser makes an arrest that unexpectedly resurrects details from a heartbreaking cold case. As she digs deeper, the past and the present collide, challenging everything Callie believes about right and wrong, who she is, and the town she's always called home.<br /><br />A propulsive mystery as incisive as it is forgiving, <i>Heather</i> bears a visceral reminder that the truth of a woman's life is often complicated and unknowable—to those on the outside, and sometimes even to herself.
-
-[View on Apple](https://books.apple.com/us/book/heather/id6753948329)
-
 <a id="the-boy"></a>
 ## The Boy
 
@@ -489,32 +480,14 @@ The First Family Series is back at full-throttle as Sam and Nick try to stay foc
 
 [View on Apple](https://books.apple.com/us/book/the-boy/id1166412679)
 
-<a id="noah-daniel-and-job-patterns-of-living-an-overcoming-life-on-the-line-of-life-to-fulfill-the-economy-of-god"></a>
-## Noah, Daniel, and Job–Patterns of Living an Overcoming Life on the Line of Life to Fulfill the Economy of God
+<a id="heather"></a>
+## Heather
 
-![Noah, Daniel, and Job–Patterns of Living an Overcoming Life on the Line of Life to Fulfill the Economy of God](../../logos/6766960234-b49e23db.png)
+![Heather](../../logos/6753948329-28c1d3b6.png)
 
-This book is intended as an aid to believers in developing a daily time of morning revival with the Lord in His word. At the same time, it provides a limited review of the International Chinese-speaking Blending Conference held in Anaheim, California, on February 13-15, 2026. The general subject of the conference was “Noah, Daniel, and Job—Patterns of Living an Overcoming Life on the Line of Life to Fulfill the Economy of God.” Through intimate contact with the Lord in His word, the believers can be constituted with life and truth and thereby equipped to prophesy in the meetings of the church unto the building up of the Body of Christ.
+<b>A <i>USA TODAY </i>BESTSELLER * A <i>NEW YORK TIMES </i>EDITORS' CHOICE PICK</b><br /><b><br />“I’ve found my favorite crime novel of the year so far, one I’m already recommending to people who love Tana French and Liz Moore…. I read <i>Heather</i> in a single sitting.” —</b><b>Sarah Weinman, <i>The New York Times</i></b><br /><b><br />“If you enjoyed <i>Mare of Easttown</i>, you’ll love <i>Heather</i>. A gritty cold-case detective story, vividly and insightfully written. Not just a story of murder, it’s a thought-provoking and moving meditation on mothers and daughters and the long-reaching consequences of the choices we make.” </b><b>―Alex Michaelides, #1 </b><b><i>New York Times </i></b><b>bestselling author of <i>The Silent Patient </i>and <i>The Fury</i></b><br /><b><br />A small-town detective reopens an unsolved case, sending shock waves across generations of women in this gripping new mystery from the Edgar Award–winning author of </b><b><i>Please See Us</i></b><b>.</b><br /><br />1990. In the myth-riddled woods of the New Jersey Pine Barrens, sixteen-year-old Annabelle Riley's twin sister, Sabrina, has been having an affair with a mysterious older man, and Annabelle is determined to uncover what's going on. Then, inexplicably, both sisters disappear.<br /><br />In this same town years later, newly instated police chief Callie Hauser makes an arrest that unexpectedly resurrects details from a heartbreaking cold case. As she digs deeper, the past and the present collide, challenging everything Callie believes about right and wrong, who she is, and the town she's always called home.<br /><br />A propulsive mystery as incisive as it is forgiving, <i>Heather</i> bears a visceral reminder that the truth of a woman's life is often complicated and unknowable—to those on the outside, and sometimes even to herself.
 
-[View on Apple](https://books.apple.com/us/book/noah-daniel-and-job-patterns-of-living-an/id6766960234)
-
-<a id="fourth-wing"></a>
-## Fourth Wing
-
-![Fourth Wing](../../logos/6443545299-c8963892.png)
-
-<b>A #1 <i>New York Times</i> bestseller • TV series in development at MGM Amazon Studios with Michael B. Jordan’s Outlier Society • Amazon Best Books of the Year, #4 • Apple Best Books of the Year 2023 • Barnes &amp; Noble Best Fantasy Book of 2023 • NPR “Books We Love” 2023 • Audible Best Books of 2023 • Hudson Book of the Year • Google Play Best Books of 2023 • Indigo Best Books of 2023 • Waterstones Book of the Year finalist • Goodreads Choice Award Winner • Newsweek Staffers’ Favorite Books of 2023 • Paste Magazine's Best Books of 2023</b><br /><br /><i>"Suspenseful, sexy, and with incredibly entertaining storytelling, the first in Yarros' Empyrean series will delight fans of romantic, adventure-filled fantasy."</i> —<i><b>Booklist</b></i><b>, starred review</b><br /><br /><i>"</i>Fourth Wing<i> will have your heart pounding from beginning to end... A fantasy like you've never read before."</i> <b>―#1 <i>New York Times</i> bestselling author Jennifer L. Armentrout</b><br /><br /><b>Enter the brutal and elite world of a war college for dragon riders from #1 <i>New York Times</i> bestselling author Rebecca Yarros</b><br /><br />Twenty-year-old Violet Sorrengail was supposed to enter the Scribe Quadrant, living a quiet life among books and history. Now, the commanding general—also known as her tough-as-talons mother—has ordered Violet to join the hundreds of candidates striving to become the elite of Navarre: <i>dragon riders</i>.<br /><br />But when you’re smaller than everyone else and your body is brittle, death is only a heartbeat away...because dragons don’t bond to “fragile” humans. They incinerate them.<br /><br />With fewer dragons willing to bond than cadets, most would kill Violet to better their own chances of success. The rest would kill her just for being her mother’s daughter—like Xaden Riorson, the most powerful and ruthless wingleader in the Riders Quadrant.<br /><br />She’ll need every edge her wits can give her just to see the next sunrise.<br /><br />Yet, with every day that passes, the war outside grows more deadly, the kingdom's protective wards are failing, and the death toll continues to rise.  Even worse, Violet begins to suspect leadership is hiding a terrible secret.<br /><br />Friends, enemies, lovers. Everyone at Basgiath War College has an agenda—because once you enter, there are only two ways out: <i>graduate or die</i>.<br /><br />The Empyrean series is best enjoyed in order.<br />Reading Order:<br />Book #1 Fourth Wing<br />Book #2 Iron Flame<br />Book #3 Onyx Storm
-
-[View on Apple](https://books.apple.com/us/book/fourth-wing/id6443545299)
-
-<a id="a-momentary-marriage"></a>
-## A Momentary Marriage
-
-![A Momentary Marriage](../../logos/1171091863-38a7cee6.png)
-
-<b><i>New York Times </i></b><b>bestselling author Candace Camp offers a delicious marriage-of-convenience story in this historical romance, featuring her signature “intensely passionate and sexually charged” (</b><b><i>RT Book Reviews</i></b><b>) prose.</b><br /><br />James de Vere has always insisted on being perfectly pragmatic and rational in all things. It seemed the only way to deal with his overdramatic, greedy family. When he falls ill and no doctor in London can diagnose him, he returns home to Grace Hill in search of a physician who can—or to set his affairs in order.<br /><br /> Arriving at the doctor’s home, he’s surprised to encounter the doctor’s daughter Laura, a young woman he last saw when he was warning her off an attachment with his cousin Graeme. Alas, the doctor is recently deceased and Laura is closing up the estate, which must be sold off, leaving her penniless. At this, James has an inspiration: why not marry the damsel in distress? If his last hope for a cure is gone, at least he’ll have some companionship in his final days, and she’ll inherit his fortune instead of his grasping relatives, leaving her a wealthy widow with plenty of prospects.<br /><br /> Laura is far from swept off her feet, but she’s as pragmatic as James, so she accepts his unusual proposal. But as the two of them brave the onslaught of shocked and suspicious family members, they find themselves growing closer. They vowed, “until death do us part”...but now both are longing for their marriage to be more than momentary in this evocative romance, perfect for fans of Sabrina Jeffries and Mary Balogh.
-
-[View on Apple](https://books.apple.com/us/book/a-momentary-marriage/id1171091863)
+[View on Apple](https://books.apple.com/us/book/heather/id6753948329)
 
 <a id="someone-else-s-husband-katie-couric-book-club"></a>
 ## Someone Else's Husband: Katie Couric Book Club
@@ -542,14 +515,41 @@ Come for the drama, stay for the laughs! Catch up with your favorite Off-Campus 
 
 [View on Apple](https://books.apple.com/us/book/the-legacy/id1560590392)
 
-<a id="london-falling"></a>
-## London Falling
+<a id="a-momentary-marriage"></a>
+## A Momentary Marriage
 
-![London Falling](../../logos/6748329195-90415106.png)
+![A Momentary Marriage](../../logos/1171091863-38a7cee6.png)
 
-<b>#1 <i>NEW YORK TIMES </i>BESTSELLER • From the bestselling, prizewinning author of <i>Say Nothing</i> and <i>Empire of Pain</i>, a spellbinding&#xa0;account of a family devastated by the sudden death of their nineteen-year-old son, only to discover that he had created a secret life&#xa0;which drew him into the dangerous criminal underworld that lies beneath&#xa0;London’s glittering surface<br /><br />“Another blockbuster feat of reportage. . . . I sprinted through this addictive book in three days and gasped more than once at the true story’s twists and turns.”<br />—<i>Esquire</i><br /><br />A <i>NEW YORK TIMES </i>BEST BOOK OF THE YEAR SO FAR</b><br /><br />In the early morning of November 29th, 2019, surveillance cameras at the headquarters of MI6, Britain’s spy agency, captured video of a young man pacing back and forth on a high balcony of Riverwalk, a luxury tower on the bank of the river Thames. At 2:24 a.m., he jumped into the river.<br /><br />In a quiet London neighborhood several miles away, Rachelle Brettler was worried about her son. Zac had told her that he had gone to stay with a friend for the weekend,&#xa0;but then he did not come home. Days later, a police car pulled up&#xa0;and two officers relayed the dreadful news: Her son was dead.<br /><br />In their unbearable grief, Rachelle and her husband, Matthew, struggled to understand what had happened to Zac. He had had his troubles, but in no way seemed suicidal. As they would soon discover, however, there was a lot they did not know about their son. Only after his death did they learn that he had adopted a fictitious alter ego: Zac Ismailov, son of a Russian oligarch and heir to a great fortune. Under this guise, Zac had become entangled with a slippery London businessman named Akbar Shamji and a murderous gangster known as Indian Dave. As the Brettlers set about investigating their son’s death, they were pulled into a different and more dangerous London than the one they’d always known, and came to believe that something much more nefarious than a suicide had claimed Zac’s life. But to their immense frustration, Scotland Yard seemed unable—or unwilling—to bring the perpetrators to justice.&#xa0;<br /><br />In a bravura feat of reporting and writing, Patrick Radden Keefe chronicles the Brettlers’ quest, peeling back layers of mystery and exposing the seedy truths behind the glamorous London of posh mansions and private nightclubs, a city in which everything is for sale, and aspirational fantasies are underwritten by dirty money and corruption. <i>London Falling</i> is a mesmerizing investigation of an inexplicable death and a powerful narrative driven by suspense and staggering revelations. But it is also an intimate and deeply poignant inquiry into the nature of parental love and the challenges of being a parent today, a portrait of a family trying to solve the riddle not just of how their son died, but of who he really was in life.
+<b><i>New York Times </i></b><b>bestselling author Candace Camp offers a delicious marriage-of-convenience story in this historical romance, featuring her signature “intensely passionate and sexually charged” (</b><b><i>RT Book Reviews</i></b><b>) prose.</b><br /><br />James de Vere has always insisted on being perfectly pragmatic and rational in all things. It seemed the only way to deal with his overdramatic, greedy family. When he falls ill and no doctor in London can diagnose him, he returns home to Grace Hill in search of a physician who can—or to set his affairs in order.<br /><br /> Arriving at the doctor’s home, he’s surprised to encounter the doctor’s daughter Laura, a young woman he last saw when he was warning her off an attachment with his cousin Graeme. Alas, the doctor is recently deceased and Laura is closing up the estate, which must be sold off, leaving her penniless. At this, James has an inspiration: why not marry the damsel in distress? If his last hope for a cure is gone, at least he’ll have some companionship in his final days, and she’ll inherit his fortune instead of his grasping relatives, leaving her a wealthy widow with plenty of prospects.<br /><br /> Laura is far from swept off her feet, but she’s as pragmatic as James, so she accepts his unusual proposal. But as the two of them brave the onslaught of shocked and suspicious family members, they find themselves growing closer. They vowed, “until death do us part”...but now both are longing for their marriage to be more than momentary in this evocative romance, perfect for fans of Sabrina Jeffries and Mary Balogh.
 
-[View on Apple](https://books.apple.com/us/book/london-falling/id6748329195)
+[View on Apple](https://books.apple.com/us/book/a-momentary-marriage/id1171091863)
+
+<a id="fourth-wing"></a>
+## Fourth Wing
+
+![Fourth Wing](../../logos/6443545299-c8963892.png)
+
+<b>A #1 <i>New York Times</i> bestseller • TV series in development at MGM Amazon Studios with Michael B. Jordan’s Outlier Society • Amazon Best Books of the Year, #4 • Apple Best Books of the Year 2023 • Barnes &amp; Noble Best Fantasy Book of 2023 • NPR “Books We Love” 2023 • Audible Best Books of 2023 • Hudson Book of the Year • Google Play Best Books of 2023 • Indigo Best Books of 2023 • Waterstones Book of the Year finalist • Goodreads Choice Award Winner • Newsweek Staffers’ Favorite Books of 2023 • Paste Magazine's Best Books of 2023</b><br /><br /><i>"Suspenseful, sexy, and with incredibly entertaining storytelling, the first in Yarros' Empyrean series will delight fans of romantic, adventure-filled fantasy."</i> —<i><b>Booklist</b></i><b>, starred review</b><br /><br /><i>"</i>Fourth Wing<i> will have your heart pounding from beginning to end... A fantasy like you've never read before."</i> <b>―#1 <i>New York Times</i> bestselling author Jennifer L. Armentrout</b><br /><br /><b>Enter the brutal and elite world of a war college for dragon riders from #1 <i>New York Times</i> bestselling author Rebecca Yarros</b><br /><br />Twenty-year-old Violet Sorrengail was supposed to enter the Scribe Quadrant, living a quiet life among books and history. Now, the commanding general—also known as her tough-as-talons mother—has ordered Violet to join the hundreds of candidates striving to become the elite of Navarre: <i>dragon riders</i>.<br /><br />But when you’re smaller than everyone else and your body is brittle, death is only a heartbeat away...because dragons don’t bond to “fragile” humans. They incinerate them.<br /><br />With fewer dragons willing to bond than cadets, most would kill Violet to better their own chances of success. The rest would kill her just for being her mother’s daughter—like Xaden Riorson, the most powerful and ruthless wingleader in the Riders Quadrant.<br /><br />She’ll need every edge her wits can give her just to see the next sunrise.<br /><br />Yet, with every day that passes, the war outside grows more deadly, the kingdom's protective wards are failing, and the death toll continues to rise.  Even worse, Violet begins to suspect leadership is hiding a terrible secret.<br /><br />Friends, enemies, lovers. Everyone at Basgiath War College has an agenda—because once you enter, there are only two ways out: <i>graduate or die</i>.<br /><br />The Empyrean series is best enjoyed in order.<br />Reading Order:<br />Book #1 Fourth Wing<br />Book #2 Iron Flame<br />Book #3 Onyx Storm
+
+[View on Apple](https://books.apple.com/us/book/fourth-wing/id6443545299)
+
+<a id="noah-daniel-and-job-patterns-of-living-an-overcoming-life-on-the-line-of-life-to-fulfill-the-economy-of-god"></a>
+## Noah, Daniel, and Job–Patterns of Living an Overcoming Life on the Line of Life to Fulfill the Economy of God
+
+![Noah, Daniel, and Job–Patterns of Living an Overcoming Life on the Line of Life to Fulfill the Economy of God](../../logos/6766960234-b49e23db.png)
+
+This book is intended as an aid to believers in developing a daily time of morning revival with the Lord in His word. At the same time, it provides a limited review of the International Chinese-speaking Blending Conference held in Anaheim, California, on February 13-15, 2026. The general subject of the conference was “Noah, Daniel, and Job—Patterns of Living an Overcoming Life on the Line of Life to Fulfill the Economy of God.” Through intimate contact with the Lord in His word, the believers can be constituted with life and truth and thereby equipped to prophesy in the meetings of the church unto the building up of the Body of Christ.
+
+[View on Apple](https://books.apple.com/us/book/noah-daniel-and-job-patterns-of-living-an/id6766960234)
+
+<a id="1776"></a>
+## 1776
+
+![1776](../../logos/381600017-4cf202e5.png)
+
+<b>America’s beloved and distinguished historian presents, in a book of breathtaking excitement, drama, and narrative force, the stirring story of the year of our nation’s birth, 1776, interweaving, on both sides of the Atlantic, the actions and decisions that led Great Britain to undertake a war against her rebellious colonial subjects and that placed America’s survival in the hands of George Washington.</b><br /><br />In this masterful book, David McCullough tells the intensely human story of those who marched with General George Washington in the year of the Declaration of Independence—when the whole American cause was riding on their success, without which all hope for independence would have been dashed and the noble ideals of the Declaration would have amounted to little more than words on paper.<br /><br /> Based on extensive research in both American and British archives, <i>1776</i> is a powerful drama written with extraordinary narrative vitality. It is the story of Americans in the ranks, men of every shape, size, and color; farmers, schoolteachers, shoemakers, no-accounts, and mere boys turned soldiers. And it is the story of the King’s men, the British commander, William Howe, and his highly disciplined redcoats who looked on their rebel foes with contempt and fought with a valor too little known.<br /><br /> Written as a companion work to his celebrated biography of John Adams, David McCullough’s <i>1776</i> is another landmark in the literature of American history.
+
+[View on Apple](https://books.apple.com/us/book/1776/id381600017)
 
 <a id="three-days-in-june"></a>
 ## Three Days in June
@@ -569,23 +569,23 @@ Come for the drama, stay for the laughs! Catch up with your favorite Off-Campus 
 
 [View on Apple](https://books.apple.com/us/book/country-people-a-gma-book-club-pick/id6753764347)
 
-<a id="1776"></a>
-## 1776
+<a id="onyx-storm"></a>
+## Onyx Storm
 
-![1776](../../logos/381600017-4cf202e5.png)
+![Onyx Storm](../../logos/6480186648-80b61f1f.png)
 
-<b>America’s beloved and distinguished historian presents, in a book of breathtaking excitement, drama, and narrative force, the stirring story of the year of our nation’s birth, 1776, interweaving, on both sides of the Atlantic, the actions and decisions that led Great Britain to undertake a war against her rebellious colonial subjects and that placed America’s survival in the hands of George Washington.</b><br /><br />In this masterful book, David McCullough tells the intensely human story of those who marched with General George Washington in the year of the Declaration of Independence—when the whole American cause was riding on their success, without which all hope for independence would have been dashed and the noble ideals of the Declaration would have amounted to little more than words on paper.<br /><br /> Based on extensive research in both American and British archives, <i>1776</i> is a powerful drama written with extraordinary narrative vitality. It is the story of Americans in the ranks, men of every shape, size, and color; farmers, schoolteachers, shoemakers, no-accounts, and mere boys turned soldiers. And it is the story of the King’s men, the British commander, William Howe, and his highly disciplined redcoats who looked on their rebel foes with contempt and fought with a valor too little known.<br /><br /> Written as a companion work to his celebrated biography of John Adams, David McCullough’s <i>1776</i> is another landmark in the literature of American history.
+<b>Accolades: <br />AN INSTANT #1 <i>NEW YORK TIMES</i> BESTSELLER • TV series now in development at Amazon MGM Studios with Michael B. Jordan’s Outlier Society • Amazon Best Romantasy Books of the Year 2025 • Apple Books Fantasy &amp; Paranormal Romance Novel Best Sellers 2025, #4 • Apple Books Fiction Audiobooks Best Sellers 2025 • Barnes &amp; Noble Best Fantasy Book of 2025 • Barnes &amp; Noble Best Audiobook of 2025 • Audible Top Ten Best Romantasy Listens of 2025 • Google Play Best Fantasy Book of 2025 finalist • Goodreads Choice Award Winner 2025: Readers’ Favorite Romantasy • Goodreads Choice Award Winner 2025: Readers’ Favorite Audiobook • Likewise Choice Award finalist • Kobo Books Best Books of the Year 2025</b><br /><br /><b>Don't miss out on the stunning DELUXE LIMITED EDITION while supplies last. </b>This breathtaking collectible is only available on a limited first print run in the U.S. and Canada only, a must-have for any book lover.<br /><br />After nearly eighteen months at Basgiath War College, Violet Sorrengail knows there’s no more time for lessons. No more time for uncertainty.<br /><br />Because the battle has truly begun, and with enemies closing in from outside their walls and within their ranks, it’s impossible to know who to trust.<br /><br />Now Violet must journey beyond the failing Aretian wards to seek allies from unfamiliar lands to stand with Navarre. The trip will test every bit of her wit, luck, and strength, but she will do anything to save what she loves—her dragons, her family, her home, and <i>him</i>.<br /><br />Even if it means keeping a secret so big, it could destroy everything.<br /><br />They need an army. They need power. They need <i>magic</i>. And they need the one thing only Violet can find—the truth.<br /><br />But a storm is coming...and not everyone can survive its wrath.   <br /><br />The Empyrean series is best enjoyed in order.<br />Reading Order:<br />Book #1 Fourth Wing<br />Book #2 Iron Flame<br />Book #3 Onyx Storm
 
-[View on Apple](https://books.apple.com/us/book/1776/id381600017)
+[View on Apple](https://books.apple.com/us/book/onyx-storm/id6480186648)
 
-<a id="drowning"></a>
-## Drowning
+<a id="london-falling"></a>
+## London Falling
 
-![Drowning](../../logos/1590858746-69670cb1.png)
+![London Falling](../../logos/6748329195-90415106.png)
 
-<b><i>NEW YORK TIMES </i></b><b>BESTSELLER * SOON TO BE A MAJOR MOTION PICTURE FROM WARNER BROTHERS PICTURES * “Reads like Apollo 13 underwater.” —Don Winslow * “Masterful.” —Patricia Cornwell * “A stunningly vivid tour de force!” Gripping. Shocking.” —Brad Thor</b><br /><br /> <b>Flight attendant turned <i>New York Times</i> bestselling author T. J. Newman’s adrenaline-fueled survival thriller about a commercial jetliner that crashes into the ocean and sinks to the bottom with passengers trapped inside—and the extraordinary rescue operation to save them.</b><br /><br />Six minutes after takeoff, Flight 1421 crashes into the Pacific Ocean. During the evacuation, an engine explodes and the plane is flooded. Those still alive are forced to close the doors—but it’s too late. The plane sinks to the bottom with twelve passengers trapped inside.<br /><br />More than two hundred feet below the surface, engineer Will Kent and his eleven-year-old daughter Shannon are waist-deep in water and fighting for their lives.<br /><br />Their only chance at survival is an elite rescue team on the surface led by professional diver Chris Kent—Shannon’s mother and Will’s soon-to-be ex-wife—who must work together with Will to find a way to save their daughter and rescue the passengers from the sealed airplane, which is now teetering on the edge of an undersea cliff.<br /><br />There’s not much time. There’s even less air.<br /><br />With devastating emotional power and heart-stopping suspense, <i>Drowning</i> is an unforgettable thriller about a family’s desperate fight to save themselves and the people trapped with them—against impossible odds.
+<b>#1 <i>NEW YORK TIMES </i>BESTSELLER • From the bestselling, prizewinning author of <i>Say Nothing</i> and <i>Empire of Pain</i>, a spellbinding&#xa0;account of a family devastated by the sudden death of their nineteen-year-old son, only to discover that he had created a secret life&#xa0;which drew him into the dangerous criminal underworld that lies beneath&#xa0;London’s glittering surface<br /><br />“Another blockbuster feat of reportage. . . . I sprinted through this addictive book in three days and gasped more than once at the true story’s twists and turns.”<br />—<i>Esquire</i><br /><br />A <i>NEW YORK TIMES </i>BEST BOOK OF THE YEAR SO FAR</b><br /><br />In the early morning of November 29th, 2019, surveillance cameras at the headquarters of MI6, Britain’s spy agency, captured video of a young man pacing back and forth on a high balcony of Riverwalk, a luxury tower on the bank of the river Thames. At 2:24 a.m., he jumped into the river.<br /><br />In a quiet London neighborhood several miles away, Rachelle Brettler was worried about her son. Zac had told her that he had gone to stay with a friend for the weekend,&#xa0;but then he did not come home. Days later, a police car pulled up&#xa0;and two officers relayed the dreadful news: Her son was dead.<br /><br />In their unbearable grief, Rachelle and her husband, Matthew, struggled to understand what had happened to Zac. He had had his troubles, but in no way seemed suicidal. As they would soon discover, however, there was a lot they did not know about their son. Only after his death did they learn that he had adopted a fictitious alter ego: Zac Ismailov, son of a Russian oligarch and heir to a great fortune. Under this guise, Zac had become entangled with a slippery London businessman named Akbar Shamji and a murderous gangster known as Indian Dave. As the Brettlers set about investigating their son’s death, they were pulled into a different and more dangerous London than the one they’d always known, and came to believe that something much more nefarious than a suicide had claimed Zac’s life. But to their immense frustration, Scotland Yard seemed unable—or unwilling—to bring the perpetrators to justice.&#xa0;<br /><br />In a bravura feat of reporting and writing, Patrick Radden Keefe chronicles the Brettlers’ quest, peeling back layers of mystery and exposing the seedy truths behind the glamorous London of posh mansions and private nightclubs, a city in which everything is for sale, and aspirational fantasies are underwritten by dirty money and corruption. <i>London Falling</i> is a mesmerizing investigation of an inexplicable death and a powerful narrative driven by suspense and staggering revelations. But it is also an intimate and deeply poignant inquiry into the nature of parental love and the challenges of being a parent today, a portrait of a family trying to solve the riddle not just of how their son died, but of who he really was in life.
 
-[View on Apple](https://books.apple.com/us/book/drowning/id1590858746)
+[View on Apple](https://books.apple.com/us/book/london-falling/id6748329195)
 
 <a id="the-woman-in-suite-11"></a>
 ## The Woman in Suite 11
@@ -595,6 +595,24 @@ Come for the drama, stay for the laughs! Catch up with your favorite Off-Campus 
 <b><b>In this follow-up to #1 <i>New York Times</i> bestselling author Ruth Ware’s multi-million copy mega-hit <i>The Woman in Cabin 10</i>, Lo Blacklock returns to attend the opening of a luxury hotel, only to find herself in a white-knuckled race across Europe.</b></b><br /><br />When the invitation to attend the press opening of a luxury Swiss hotel—owned by reclusive billionaire Marcus Leidmann—arrives, it’s like the answer to a prayer. Three years after the birth of her youngest child, Lo Blacklock is ready to reestablish her journalism career, but post-pandemic travel journalism is a very different landscape from the one she left ten years ago.<br /><br /> The chateau on the shores of Lake Geneva is everything Lo’s ever dreamed of, and she hopes she can snag an interview with Marcus. Unfortunately, he proves to be even more difficult to pin down than his reputation suggests. When Lo gets a late-night call asking her to come to Marcus’s hotel room, she agrees despite her own misgivings. She’s greeted, however, by a woman claiming to be Marcus’s mistress, and in life-or-death jeopardy.<br /><br /> What follows is a thrilling pursuit across Europe, forcing Lo to ask herself just how much she’s willing to sacrifice to save this woman…and if she can even trust her?
 
 [View on Apple](https://books.apple.com/us/book/the-woman-in-suite-11/id6736626333)
+
+<a id="golden-son"></a>
+## Golden Son
+
+![Golden Son](../../logos/813153784-bcb54f8d.png)
+
+<b><i>NEW YORK TIMES </i>BESTSELLER •<i> Red Rising</i> hit the ground running and wasted no time becoming a sensation. <i>Golden Son </i>continues the stunning saga of Darrow, a rebel forged by tragedy, battling to lead his oppressed people to freedom.</b><br /><br /><b>NAMED ONE OF THE BEST BOOKS OF THE YEAR BY NPR, <i>BUZZFEED,</i> AND <i>BOOKLIST </i><b>•&#xa0;“Gripping . . . On virtually every level, this is a sequel that hates sequels—a perfect fit for a hero who already defies the tropes. [Grade:] A”—<i>Entertainment Weekly</i></b></b><br /><br />As a Red, Darrow grew up working the mines deep beneath the surface of Mars, enduring backbreaking labor while dreaming of the better future he was building for his descendants. But the Society he faithfully served was built on lies. Darrow’s kind have been betrayed and denied by their elitist masters, the Golds—and their only path to liberation is revolution. And so Darrow sacrifices himself in the name of the greater good for which Eo, his true love and inspiration, laid down her own life. He becomes a Gold, infiltrating their privileged realm so that he can destroy it from within.<br /> &#xa0;<br /> A lamb among wolves in a cruel world, Darrow finds friendship, respect, and even love—but also the wrath of powerful rivals. To wage and win the war that will change humankind’s destiny, Darrow must confront the treachery arrayed against him, overcome his all-too-human desire for retribution—and strive not for violent revolt but a hopeful rebirth. Though the road ahead is fraught with danger and deceit, Darrow must choose to follow Eo’s principles of love and justice to free his people.<br /> &#xa0;<br /> He must live for more.<br /><br /><b>Praise for <i>Golden Son</i></b><br /> <b><i> </i></b><br />“Stirring . . . Comparisons to <i>The Hunger Games </i>and<i> Game of Thrones</i> series are inevitable, for this tale has elements of both.”<b><i>—Kirkus Reviews</i></b><br /><br />“Brown writes layered, flawed characters . . . but plot is his most breathtaking strength. . . . Every action seems to flow into the next.”<b>—NPR</b><br /><br /><b>Don’t miss any of Pierce Brown’s Red Rising Saga:</b><br /><b>RED RISING •&#xa0;GOLDEN SON •&#xa0;MORNING STAR •&#xa0;IRON GOLD •&#xa0;DARK AGE • LIGHT BRINGER</b>
+
+[View on Apple](https://books.apple.com/us/book/golden-son/id813153784)
+
+<a id="odyssey"></a>
+## Odyssey
+
+![Odyssey](../../logos/6676372405-776f039b.png)
+
+The legendary Stephen Fry retells the adventures of Odysseus for the fourth and final installment in the internationally bestselling Mythos series.<br /><br />Odysseus’s journey from the battlefields of Troy to his home in Ithaca is one of the greatest stories ever told. From the lotus-eaters to the sirens, from Circe to the Cyclops, this is&#xa0;a tale of thrilling adventures, cunning escapes, and enduring devotion. Stephen Fry breathes new life into the ancient poem&#xa0;with&#xa0;humor and pathos. Illustrated throughout with classical art inspired by the myths, this gorgeous volume invites you to explore a captivating world with a brilliant storyteller as your guide.<br /><br />BELOVED AUTHOR: Stephen Fry is an icon whose signature wit and mellifluous style make this retelling utterly unique. Fans will love hearing his interpretation, whether they are familiar with the original myths or not.<br /><br />TIMELESS STORIES: For fans of Madeline Miller’s Circe or Song of Achilles, Neil Gaiman’s Norse Mythology, or Pat Barker’s The Silence of the Girls, this is the perfect next great read. These ancient tales never get old.<br /><br />POPULAR SERIES: The previous books that comprise the Mythos trilogy—Mythos, Heroes, and Troy—have been international bestsellers, praised for their engaging and&#xa0;nuanced retellings of the Greek myths. Now fans can finally read Fry's&#xa0;take on The Odyssey.<br /><br />GORGEOUS GIFT: With a vibrant contemporary design, full-color artwork throughout, and shimmering metallic highlights on the jacket, this book makes a superb present.<br /><br />Perfect for:Fans of Stephen FryAncient history buffsReaders of myth and loreFans of Madeline Miller's and Pat Barker's retellings of Greek mythologyClassics majors and classicistsArt lovers
+
+[View on Apple](https://books.apple.com/us/book/odyssey/id6676372405)
 
 <a id="the-road-to-grantchester"></a>
 ## The Road to Grantchester
@@ -608,6 +626,48 @@ Come for the drama, stay for the laughs! Catch up with your favorite Off-Campus 
   <br /><i>The Road to Grantchester</i> will delight new and old fans alike and finally tell the touching, engaging, and surprising origin story of the Grantchester Mysteries' beloved archdeacon.
 
 [View on Apple](https://books.apple.com/us/book/the-road-to-grantchester/id6762219015)
+
+<a id="drowning"></a>
+## Drowning
+
+![Drowning](../../logos/1590858746-69670cb1.png)
+
+<b><i>NEW YORK TIMES </i></b><b>BESTSELLER * SOON TO BE A MAJOR MOTION PICTURE FROM WARNER BROTHERS PICTURES * “Reads like Apollo 13 underwater.” —Don Winslow * “Masterful.” —Patricia Cornwell * “A stunningly vivid tour de force!” Gripping. Shocking.” —Brad Thor</b><br /><br /> <b>Flight attendant turned <i>New York Times</i> bestselling author T. J. Newman’s adrenaline-fueled survival thriller about a commercial jetliner that crashes into the ocean and sinks to the bottom with passengers trapped inside—and the extraordinary rescue operation to save them.</b><br /><br />Six minutes after takeoff, Flight 1421 crashes into the Pacific Ocean. During the evacuation, an engine explodes and the plane is flooded. Those still alive are forced to close the doors—but it’s too late. The plane sinks to the bottom with twelve passengers trapped inside.<br /><br />More than two hundred feet below the surface, engineer Will Kent and his eleven-year-old daughter Shannon are waist-deep in water and fighting for their lives.<br /><br />Their only chance at survival is an elite rescue team on the surface led by professional diver Chris Kent—Shannon’s mother and Will’s soon-to-be ex-wife—who must work together with Will to find a way to save their daughter and rescue the passengers from the sealed airplane, which is now teetering on the edge of an undersea cliff.<br /><br />There’s not much time. There’s even less air.<br /><br />With devastating emotional power and heart-stopping suspense, <i>Drowning</i> is an unforgettable thriller about a family’s desperate fight to save themselves and the people trapped with them—against impossible odds.
+
+[View on Apple](https://books.apple.com/us/book/drowning/id1590858746)
+
+<a id="the-villa-of-secrets"></a>
+## The Villa of Secrets
+
+![The Villa of Secrets](../../logos/6762262494-5887ff52.png)
+
+A BRAND NEW escapist, getaway read set in beautiful Greece🍋🇬🇷 Perfect for fans of of Victoria Hislop, Carol Kirkwood and Karen Swan☀️<br /><br />Can a stay at a magical villa help her find her way to start again?<br /><br />When Cleo arrives at Villa Ariadne on the sun-drenched island of Crete, she’s hoping for space to breathe – and perhaps some clarity about the life she no longer recognises. Newly divorced and estranged from one of her children, she’s not sure what comes next.<br /><br />Sharing the villa with a small group of women, each carrying their own private heartaches, Cleo is drawn into the gentle rhythm of island life. Beneath the lemon trees and endless blue skies, friendships begin to form and long-buried hopes stir.<br /><br />But when an unexpected event shakes their peaceful escape, the women are forced to come together in ways none of them anticipated. And as Villa Ariadne works its quiet magic once more, Cleo may discover that even in uncertainty, second chances are still possible.<br /><br />Praise for Emma Burstall:<br /><br />With a delightful Greek backdrop and an enticing mix of a fractured family, strained friendships, plus a healthy dose of mystery, love and loss, Beneath the Lemon Trees is a gorgeous summer escape' Kate Frost<br /><br />'A wonderful escapist novel – mysteries, revelation and happy endings make it a perfect summer read' Rachel Burton<br /><br />'Brilliant' Phillipa Ashley<br /><br />'A novel to lose yourself in' Faith Hogan<br /><br />'Step into a world of pure escapism in this gripping tale of family secrets, sibling rivalry and summer romance' Chat Magazine<br /><br />'A charming, warm-hearted read... Pure escapism' Alice Peterson<br /><br />'Burstall is a great writer, and this is not your usual run-of-the-mill chick lit... I was gripped from the start' Daily Mail<br /><br />'Burstall has a true knack for transporting you to her world' Jane Corry<br /><br />‘Wow, what an incredible rollercoaster of a read! From the minute I picked up this book, I was swept away by the vividly described landscapes and mouthwatering descriptions of Crete's delectable cuisine.’ Reader Review ⭐️⭐️⭐️⭐️⭐️<br /><br />‘Fabulous, fabulous book, loved every minute of it. The storyline, the varied characters. The setting made me feel I was on holiday.’ Reader Review ⭐️⭐️⭐️⭐️⭐️<br /><br />‘Loved it. A magical villa, a broken family, a dead best friends husband being awkward, beautiful food descriptions, clear blue seas. Just read and escape. Perfect for September blues.’ Reader Review ⭐️⭐️⭐️⭐️⭐️<br /><br />‘Heartwarming and heartbreaking in equal measures! I loved this book so much and could relate to it and the characters! Beautifully written, really made you feel like you were right there in Greece!’ Reader Review ⭐️⭐️⭐️⭐️⭐️<br /><br />‘A charming book about marriage, grief, friendship and parenting, all set in a charming villa under the Cretan sun.’ Reader Review ⭐️⭐️⭐️⭐️⭐️<br /><br />‘What a lovely story, full of loss and grief, love and hope.’ Reader Review ⭐️⭐️⭐️⭐️⭐️
+
+[View on Apple](https://books.apple.com/us/book/the-villa-of-secrets/id6762262494)
+
+<a id="a-court-of-thorns-and-roses"></a>
+## A Court of Thorns and Roses
+
+![A Court of Thorns and Roses](../../logos/1487234733-97ccf0d5.png)
+
+The sexy, action-packed first book in the #1 bestselling Court of Thorns and Roses (ACOTAR) series from global phenomenon Sarah J. Maas.<br/>
+<br/>
+When nineteen-year-old huntress Feyre kills a wolf in the woods, a terrifying creature arrives to demand retribution. Dragged to a treacherous magical land she knows about only from legends, Feyre discovers that her captor is not truly a beast, but one of the lethal, immortal faeries who once ruled her world.<br/>
+<br/>
+At least, he&#39;s not a beast all the time.<br/>
+<br/>
+As she adapts to her new home, her feelings for the faerie, Tamlin, transform from icy hostility into a fiery passion that burns through every lie she&#39;s been told about the beautiful, dangerous world of the Fae. But something is not right in the faerie lands. An ancient, wicked shadow is growing, and Feyre must find a way to stop it, or doom Tamlin-and his world-forever.<br/>
+<br/>
+From global bestselling author Sarah J. Maas comes a seductive, breathtaking book that blends romance, adventure, and faerie lore into an unforgettable read.<br/>
+<br/>
+The Court of Thorns and Roses series includes:<br/>
+A Court of Thorns and Roses<br/>
+A Court of Mist and Fury<br/>
+A Court of Wings and Ruin<br/>
+A Court of Frost and Starlight<br/>
+A Court of Silver Flames
+
+[View on Apple](https://books.apple.com/us/book/a-court-of-thorns-and-roses/id1487234733)
 
 <a id="every-spy-a-traitor"></a>
 ## Every Spy a Traitor
@@ -628,14 +688,50 @@ A DOJ counterintelligence lawyer pursues a Russian spy ring embedded at the hear
 
 [View on Apple](https://books.apple.com/us/book/traitors/id6754467598)
 
-<a id="the-villa-of-secrets"></a>
-## The Villa of Secrets
+<a id="look-again"></a>
+## Look Again
 
-![The Villa of Secrets](../../logos/6762262494-5887ff52.png)
+![Look Again](../../logos/386001471-c8b1f3a5.png)
 
-A BRAND NEW escapist, getaway read set in beautiful Greece🍋🇬🇷 Perfect for fans of of Victoria Hislop, Carol Kirkwood and Karen Swan☀️<br /><br />Can a stay at a magical villa help her find her way to start again?<br /><br />When Cleo arrives at Villa Ariadne on the sun-drenched island of Crete, she’s hoping for space to breathe – and perhaps some clarity about the life she no longer recognises. Newly divorced and estranged from one of her children, she’s not sure what comes next.<br /><br />Sharing the villa with a small group of women, each carrying their own private heartaches, Cleo is drawn into the gentle rhythm of island life. Beneath the lemon trees and endless blue skies, friendships begin to form and long-buried hopes stir.<br /><br />But when an unexpected event shakes their peaceful escape, the women are forced to come together in ways none of them anticipated. And as Villa Ariadne works its quiet magic once more, Cleo may discover that even in uncertainty, second chances are still possible.<br /><br />Praise for Emma Burstall:<br /><br />With a delightful Greek backdrop and an enticing mix of a fractured family, strained friendships, plus a healthy dose of mystery, love and loss, Beneath the Lemon Trees is a gorgeous summer escape' Kate Frost<br /><br />'A wonderful escapist novel – mysteries, revelation and happy endings make it a perfect summer read' Rachel Burton<br /><br />'Brilliant' Phillipa Ashley<br /><br />'A novel to lose yourself in' Faith Hogan<br /><br />'Step into a world of pure escapism in this gripping tale of family secrets, sibling rivalry and summer romance' Chat Magazine<br /><br />'A charming, warm-hearted read... Pure escapism' Alice Peterson<br /><br />'Burstall is a great writer, and this is not your usual run-of-the-mill chick lit... I was gripped from the start' Daily Mail<br /><br />'Burstall has a true knack for transporting you to her world' Jane Corry<br /><br />‘Wow, what an incredible rollercoaster of a read! From the minute I picked up this book, I was swept away by the vividly described landscapes and mouthwatering descriptions of Crete's delectable cuisine.’ Reader Review ⭐️⭐️⭐️⭐️⭐️<br /><br />‘Fabulous, fabulous book, loved every minute of it. The storyline, the varied characters. The setting made me feel I was on holiday.’ Reader Review ⭐️⭐️⭐️⭐️⭐️<br /><br />‘Loved it. A magical villa, a broken family, a dead best friends husband being awkward, beautiful food descriptions, clear blue seas. Just read and escape. Perfect for September blues.’ Reader Review ⭐️⭐️⭐️⭐️⭐️<br /><br />‘Heartwarming and heartbreaking in equal measures! I loved this book so much and could relate to it and the characters! Beautifully written, really made you feel like you were right there in Greece!’ Reader Review ⭐️⭐️⭐️⭐️⭐️<br /><br />‘A charming book about marriage, grief, friendship and parenting, all set in a charming villa under the Cretan sun.’ Reader Review ⭐️⭐️⭐️⭐️⭐️<br /><br />‘What a lovely story, full of loss and grief, love and hope.’ Reader Review ⭐️⭐️⭐️⭐️⭐️
+<b> Lisa Scottoline breaks new ground in <i>Look Again</i>, a thriller that's both heart-stopping and heart-breaking, and sure to have new fans and book clubs buzzing. </b><br /><br /> When reporter Ellen Gleeson gets a "Have You Seen This Child?" flyer in the mail, she almost throws it away. But something about it makes her look again, and her heart stops—the child in the photo is identical to her adopted son, Will. Her every instinct tells her to deny the similarity between the boys, because she knows her adoption was lawful. But she's a journalist and won't be able to stop thinking about the photo until she figures out the truth. <br /><br />And she can't shake the question: if Will rightfully belongs to someone else, should she keep him or give him up? She investigates, uncovering clues no one was meant to discover, and when she digs too deep, she risks losing her own life—and that of the son she loves.
 
-[View on Apple](https://books.apple.com/us/book/the-villa-of-secrets/id6762262494)
+[View on Apple](https://books.apple.com/us/book/look-again/id386001471)
+
+<a id="detective-alyssa-wyatt"></a>
+## Detective Alyssa Wyatt
+
+![Detective Alyssa Wyatt](../../logos/6753611505-b99af464.png)
+
+<b>Meet Detective Alyssa Wyatt. Mom, wife and a serial killer's worst nightmare. Includes all four books in the gripping Detective Alyssa Wyatt series; <i>All His Pretty Girls</i>, <i>The Toybox</i>, <i>Alone in the Woods</i> and <i>The Devil's Playground</i>.</b><br /><br /> <b>All His Pretty Girls</b>: A woman is found naked, badly beaten and barely alive in the New Mexico mountains. The shocking discovery plunges Albuquerque Detective Alyssa Wyatt into a case that will test her to the limit. It appears that Callie McCormick is the latest plaything of a shadowy psychopath that leaves a long shadow on the streets of New Mexico. When Alyssa makes a breakthrough that just might reveal the killer, she unknowingly puts herself in the crosshairs of a brutal maniac  one with an old score to settle. Because the killer knows Alyssa very well, even if she doesn't know him. And he's determined that she'll know his name<br /><br /> <b>The Toybox</b>: All around Albuquerque, young women are going missing, seemingly vanished into thin air. With no link between the victims, Detective Alyssa Wyatt is quickly plunged into a horrifying case with no obvious clues. And when Jersey Andrews, the best friend of Alyssa's teenage daughter, Holly, joins the list of vanished girls, the case becomes personal. But this investigation will lead Alyssa and partner Cord into the most sinister depths of humanity; an evil place where life is expendable, and where the depraved can fulfil their darkest desires<br /><br /> <b>Alone in the Woods</b>: Gabriel Kensington and his wife Lydia have been brutally slain in their luxurious home in New Mexico. A frantic, whispered phone call from their teenage daughter Addis, and her best friend Emerson, quickly alerts the authorities to the killings. But when detective Alyssa Wyatt and the squad appear at the house, the unthinkable has happened. The girls are nowhere to be found and neither is the killer. In a race against time, it's up to Alyssa Wyatt and her partner Cord to find the missing girls  and discover just why the Kensingtons have been targeted. Because for Addis and Emerson, every minute passing could be the difference between survival  or an unthinkable death.<br /><br /> <b>The Devil's Playground</b>: Best friends Skye, Elena, and London are enjoying hanging out at Skye's house in New Mexico, eating junk food, drinking wine, and playing with Skye's little children, Carter and Abigail. Until the intruders arrive. Hearing the horrific screams from Elena and Skye, London hides the children, tiptoes out to see what has happened and disappears. After Carter raises the alarm, Detective Alyssa Wyatt is called in to investigate a bloodbath that appears to have no motive, no evidence, and no sign of London. She soon uncovers a link between the murders and a sinister local cult. Can Alyssa find the young woman who has vanished without a trace  before London joins the list of victims?<br /><br /> <b>An utterly addictive, dark detective series with twists that will leave you gasping. Perfect for fans of M.W. Craven, Lisa Regan or Angela Marsons.</b><br /><br /> <b>Praise for Charly Cox</b><br /><br /> '<b>The action never flags, the suspense is red-hot and the twists and turns jaw-droppingly brilliant</b>, fans of the genre need to add Charly Cox to their list of must-buys.' Bookish Jottings<br /><br /> 'There is just so much to love about this series. <b>A dark and chilling read</b> that will have you hanging on for dear life!'  Reader review<br /><br /> '<b>Charly Cox is fast becoming one of my favourite crime fiction writers</b>! Gripping, with likeable characters and great researched and plotted story lines.'  Reader review<br /><br /> 'Holy SMOKES! <b>What a ride. From the first page my heart was pounding.</b> I could not look away. This series was so good.'  Reader review<br /><br /> 'I absolutely love this series. I devoured it in a flash. <b>Could not put it down</b>.'  Reader review
+
+[View on Apple](https://books.apple.com/us/book/detective-alyssa-wyatt/id6753611505)
+
+<a id="the-things-we-never-say"></a>
+## The Things We Never Say
+
+![The Things We Never Say](../../logos/6753041097-2a396e47.png)
+
+<b><i>NEW YORK TIMES </i>BESTSELLER • In this “profound, resplendent novel”* from Pulitzer Prize–winning, #1 <i>New York Times</i> bestselling author Elizabeth Strout, a chance incident sparks a powerful realization in a beloved teacher’s life<b><br /></b></b><br /><b>“Strout’s capacious empathy and rigorous attention to the nuances of human behavior and psychology are as evident as ever.”—<i>The Boston Globe<br /></i></b><br /><b>“Artie Dam is someone you may never be able to forget.”—<i>Financial Times*</i></b><br /><br />Artie Dam is living a double life. He spends his days teaching history to eleventh graders, expanding their young minds, correcting their casual cruelties, and lending a kind word to those who need it most. He goes to holiday parties with his wife of three decades, makes small talk with neighbors, and, on weekends, takes his sailboat out on the beautiful Massachusetts Bay. He is, by all appearances, present and alive. But inside, Artie is plagued by feelings of isolation. He looks out at a world gone mad—at himself and the people around him—and turns a question over and over in his mind: How is it that we know so little about one another, even those closest to us?<br /><br />And then, one day, Artie learns that life has been keeping a secret from him, one that threatens to upend his entire world. Once he learns it, he is forced to chart a new course, to reconsider the relationships he holds most dear—and to make peace with the mysteries at the heart of our existence.<br /><br />Elizabeth Strout, as we have come to expect, delivers a moving exploration of the human condition—one that brims with compassion for each and every one of her indelible characters. With exquisite prose and profound insight, <i>The Things We Never Say </i>takes one man’s fears and loneliness and makes them universal. And in the same breath, captures the abiding love that sustains and holds us all.
+
+[View on Apple](https://books.apple.com/us/book/the-things-we-never-say/id6753041097)
+
+<a id="ruthless-prey"></a>
+## Ruthless Prey
+
+![Ruthless Prey](../../logos/6788215380-83ed23c5.png)
+
+<b>Lucas Davenport must avenge the murder of a loved one, in this latest thriller from #1 <i>New York Times </i>bestselling author John Sandford.</b><br /><br />When the mother of Lucas Davenport's child is found dead in the backyard of her family home, nestled in an old affluent suburb in Minneapolis, the authorities immediately rule it a suicide. But Lucas is not as convinced.<br /><br />Lucas begins to investigate the case and learns that Jennifer's news team had been working on some controversial stories, suggesting to Lucas considerable animus by their targets.<br /><br />But as more bodies start to pile up, Lucas will need to work fast to locate the perpetrator and avenge the death of his family.
+
+[View on Apple](https://books.apple.com/us/book/ruthless-prey/id6788215380)
+
+<a id="one-golden-summer"></a>
+## One Golden Summer
+
+![One Golden Summer](../../logos/6615074377-c0719fc9.png)
+
+<b>THE #1<i> NEW YORK TIMES</i> BESTSELLER! ∙ A radiant escape to the lake from the beloved author of <i>Every Summer After </i>and <i>This Summer Will Be Different,</i> hailed as the “reigning queen of sun-soaked romance novels” (<i>Bustle</i>)<i><br /></i><br />“The way that Carley Fortune can bottle up the feeling of summer and put it into a book needs to be studied. Her books are so transportive!”—<i>Glamour</i></b><br /><br /><b><i>I never anticipated Charlie Florek.<br /></i></b><br />Good things happen at the lake. That’s what Alice’s grandmother says, and it’s true. Alice spent just one summer there at a cottage with Nan when she was seventeen—it’s where she took that photo, the one of three grinning teenagers in a yellow speedboat, the image that changed her life.<br /><br />Now Alice lives behind a lens. As a photographer, she’s most comfortable on the sidelines, letting other people shine. Lately though, she’s been itching for something more, and when Nan falls and breaks her hip, Alice comes up with a plan for them both: another summer in that magical place, Barry’s Bay. But as soon as they settle in, their peace is disrupted by the roar of a familiar yellow boat, and the man driving it.<br /><br />Charlie Florek was nineteen when Alice took his photo from afar. Now he’s all grown up—a shameless flirt, who manages to make Nan laugh and Alice long to be seventeen again, when life was simpler, when taking pictures was just for fun. Sun-slanted days and warm nights out on the lake with Charlie are a balm for Alice’s soul, but when she looks up and sees his piercing green gaze directly on her, she begins to worry for her heart.<br /><br />Because Alice sees people—that’s why she is so good at what she does—but she’s never met someone who looks and sees her right back.
+
+[View on Apple](https://books.apple.com/us/book/one-golden-summer/id6615074377)
 
 <a id="kentucky-green-box-set-1-to-3"></a>
 ## Kentucky Green Box Set 1 to 3
@@ -670,101 +766,14 @@ Can the two people who care the most about Etta's well-being put aside their mut
 
 [View on Apple](https://books.apple.com/us/book/kentucky-green-box-set-1-to-3/id1536557668)
 
-<a id="golden-son"></a>
-## Golden Son
+<a id="iron-flame"></a>
+## Iron Flame
 
-![Golden Son](../../logos/813153784-bcb54f8d.png)
+![Iron Flame](../../logos/6448919432-2f3ef9e9.png)
 
-<b><i>NEW YORK TIMES </i>BESTSELLER •<i> Red Rising</i> hit the ground running and wasted no time becoming a sensation. <i>Golden Son </i>continues the stunning saga of Darrow, a rebel forged by tragedy, battling to lead his oppressed people to freedom.</b><br /><br /><b>NAMED ONE OF THE BEST BOOKS OF THE YEAR BY NPR, <i>BUZZFEED,</i> AND <i>BOOKLIST </i><b>•&#xa0;“Gripping . . . On virtually every level, this is a sequel that hates sequels—a perfect fit for a hero who already defies the tropes. [Grade:] A”—<i>Entertainment Weekly</i></b></b><br /><br />As a Red, Darrow grew up working the mines deep beneath the surface of Mars, enduring backbreaking labor while dreaming of the better future he was building for his descendants. But the Society he faithfully served was built on lies. Darrow’s kind have been betrayed and denied by their elitist masters, the Golds—and their only path to liberation is revolution. And so Darrow sacrifices himself in the name of the greater good for which Eo, his true love and inspiration, laid down her own life. He becomes a Gold, infiltrating their privileged realm so that he can destroy it from within.<br /> &#xa0;<br /> A lamb among wolves in a cruel world, Darrow finds friendship, respect, and even love—but also the wrath of powerful rivals. To wage and win the war that will change humankind’s destiny, Darrow must confront the treachery arrayed against him, overcome his all-too-human desire for retribution—and strive not for violent revolt but a hopeful rebirth. Though the road ahead is fraught with danger and deceit, Darrow must choose to follow Eo’s principles of love and justice to free his people.<br /> &#xa0;<br /> He must live for more.<br /><br /><b>Praise for <i>Golden Son</i></b><br /> <b><i> </i></b><br />“Stirring . . . Comparisons to <i>The Hunger Games </i>and<i> Game of Thrones</i> series are inevitable, for this tale has elements of both.”<b><i>—Kirkus Reviews</i></b><br /><br />“Brown writes layered, flawed characters . . . but plot is his most breathtaking strength. . . . Every action seems to flow into the next.”<b>—NPR</b><br /><br /><b>Don’t miss any of Pierce Brown’s Red Rising Saga:</b><br /><b>RED RISING •&#xa0;GOLDEN SON •&#xa0;MORNING STAR •&#xa0;IRON GOLD •&#xa0;DARK AGE • LIGHT BRINGER</b>
+<b>Discover the instant #1 <i>New York Times</i> bestseller! TV series now in development at MGM Amazon Studios with Michael B. Jordan’s Outlier Society.<br /><br />Accolades for <i>Fourth Wing</i><br />Amazon Best Books of the Year, #4 • Apple Best Books of the Year 2023 • Barnes &amp; Noble Best Fantasy Book of 2023 (<i>Fourth Wing</i> and <i>Iron Flame</i>) • NPR “Books We Love” 2023 • Audible Best Books of 2023 • Hudson Book of the Year • Google Play Best Books of 2023 • Indigo Best Books of 2023 • Waterstones Book of the Year finalist • Goodreads Choice Award, semi-finalist • Newsweek Staffers’ Favorite Books of 2023</b><i><b> • </b></i><b>Paste Magazine's Best Books of 2023</b><br /><br /><i><b>“The first year is when some of us lose our lives. The second year is when the rest of us lose our humanity.”  —Xaden Riorson</b></i><br /><br />Everyone expected Violet Sorrengail to die during her first year at Basgiath War College—Violet included. But Threshing was only the first impossible test meant to weed out the weak-willed, the unworthy, and the unlucky.<br /><br />Now the <i>real</i> training begins, and Violet’s already wondering how she’ll get through. It’s not just that it’s grueling and maliciously brutal, or even that it’s designed to stretch the riders’ capacity for pain beyond endurance. It’s the new vice commandant, who’s made it his personal mission to teach Violet <i>exactly</i> how powerless she is–unless she betrays the man she loves.<br /><br />Although Violet’s body might be weaker and frailer than everyone else’s, she still has her wits—and a will of iron. And leadership is forgetting the most important lesson Basgiath has taught her: <i>Dragon riders make their own rules</i>.<br /><br />But a determination to survive won’t be enough this year.<br /><br />Because Violet knows the real secret hidden for centuries at Basgiath War College—and nothing, not even dragon fire, may be enough to save them in the end.<br /><br />The Empyrean series is best enjoyed in order.<br />Reading Order:<br />Book #1 Fourth Wing<br />Book #2 Iron Flame
 
-[View on Apple](https://books.apple.com/us/book/golden-son/id813153784)
-
-<a id="odyssey"></a>
-## Odyssey
-
-![Odyssey](../../logos/6676372405-776f039b.png)
-
-The legendary Stephen Fry retells the adventures of Odysseus for the fourth and final installment in the internationally bestselling Mythos series.<br /><br />Odysseus’s journey from the battlefields of Troy to his home in Ithaca is one of the greatest stories ever told. From the lotus-eaters to the sirens, from Circe to the Cyclops, this is&#xa0;a tale of thrilling adventures, cunning escapes, and enduring devotion. Stephen Fry breathes new life into the ancient poem&#xa0;with&#xa0;humor and pathos. Illustrated throughout with classical art inspired by the myths, this gorgeous volume invites you to explore a captivating world with a brilliant storyteller as your guide.<br /><br />BELOVED AUTHOR: Stephen Fry is an icon whose signature wit and mellifluous style make this retelling utterly unique. Fans will love hearing his interpretation, whether they are familiar with the original myths or not.<br /><br />TIMELESS STORIES: For fans of Madeline Miller’s Circe or Song of Achilles, Neil Gaiman’s Norse Mythology, or Pat Barker’s The Silence of the Girls, this is the perfect next great read. These ancient tales never get old.<br /><br />POPULAR SERIES: The previous books that comprise the Mythos trilogy—Mythos, Heroes, and Troy—have been international bestsellers, praised for their engaging and&#xa0;nuanced retellings of the Greek myths. Now fans can finally read Fry's&#xa0;take on The Odyssey.<br /><br />GORGEOUS GIFT: With a vibrant contemporary design, full-color artwork throughout, and shimmering metallic highlights on the jacket, this book makes a superb present.<br /><br />Perfect for:Fans of Stephen FryAncient history buffsReaders of myth and loreFans of Madeline Miller's and Pat Barker's retellings of Greek mythologyClassics majors and classicistsArt lovers
-
-[View on Apple](https://books.apple.com/us/book/odyssey/id6676372405)
-
-<a id="onyx-storm"></a>
-## Onyx Storm
-
-![Onyx Storm](../../logos/6480186648-80b61f1f.png)
-
-<b>Accolades: <br />AN INSTANT #1 <i>NEW YORK TIMES</i> BESTSELLER • TV series now in development at Amazon MGM Studios with Michael B. Jordan’s Outlier Society • Amazon Best Romantasy Books of the Year 2025 • Apple Books Fantasy &amp; Paranormal Romance Novel Best Sellers 2025, #4 • Apple Books Fiction Audiobooks Best Sellers 2025 • Barnes &amp; Noble Best Fantasy Book of 2025 • Barnes &amp; Noble Best Audiobook of 2025 • Audible Top Ten Best Romantasy Listens of 2025 • Google Play Best Fantasy Book of 2025 finalist • Goodreads Choice Award Winner 2025: Readers’ Favorite Romantasy • Goodreads Choice Award Winner 2025: Readers’ Favorite Audiobook • Likewise Choice Award finalist • Kobo Books Best Books of the Year 2025</b><br /><br /><b>Don't miss out on the stunning DELUXE LIMITED EDITION while supplies last. </b>This breathtaking collectible is only available on a limited first print run in the U.S. and Canada only, a must-have for any book lover.<br /><br />After nearly eighteen months at Basgiath War College, Violet Sorrengail knows there’s no more time for lessons. No more time for uncertainty.<br /><br />Because the battle has truly begun, and with enemies closing in from outside their walls and within their ranks, it’s impossible to know who to trust.<br /><br />Now Violet must journey beyond the failing Aretian wards to seek allies from unfamiliar lands to stand with Navarre. The trip will test every bit of her wit, luck, and strength, but she will do anything to save what she loves—her dragons, her family, her home, and <i>him</i>.<br /><br />Even if it means keeping a secret so big, it could destroy everything.<br /><br />They need an army. They need power. They need <i>magic</i>. And they need the one thing only Violet can find—the truth.<br /><br />But a storm is coming...and not everyone can survive its wrath.   <br /><br />The Empyrean series is best enjoyed in order.<br />Reading Order:<br />Book #1 Fourth Wing<br />Book #2 Iron Flame<br />Book #3 Onyx Storm
-
-[View on Apple](https://books.apple.com/us/book/onyx-storm/id6480186648)
-
-<a id="a-court-of-thorns-and-roses"></a>
-## A Court of Thorns and Roses
-
-![A Court of Thorns and Roses](../../logos/1487234733-97ccf0d5.png)
-
-The sexy, action-packed first book in the #1 bestselling Court of Thorns and Roses (ACOTAR) series from global phenomenon Sarah J. Maas.<br/>
-<br/>
-When nineteen-year-old huntress Feyre kills a wolf in the woods, a terrifying creature arrives to demand retribution. Dragged to a treacherous magical land she knows about only from legends, Feyre discovers that her captor is not truly a beast, but one of the lethal, immortal faeries who once ruled her world.<br/>
-<br/>
-At least, he&#39;s not a beast all the time.<br/>
-<br/>
-As she adapts to her new home, her feelings for the faerie, Tamlin, transform from icy hostility into a fiery passion that burns through every lie she&#39;s been told about the beautiful, dangerous world of the Fae. But something is not right in the faerie lands. An ancient, wicked shadow is growing, and Feyre must find a way to stop it, or doom Tamlin-and his world-forever.<br/>
-<br/>
-From global bestselling author Sarah J. Maas comes a seductive, breathtaking book that blends romance, adventure, and faerie lore into an unforgettable read.<br/>
-<br/>
-The Court of Thorns and Roses series includes:<br/>
-A Court of Thorns and Roses<br/>
-A Court of Mist and Fury<br/>
-A Court of Wings and Ruin<br/>
-A Court of Frost and Starlight<br/>
-A Court of Silver Flames
-
-[View on Apple](https://books.apple.com/us/book/a-court-of-thorns-and-roses/id1487234733)
-
-<a id="detective-alyssa-wyatt"></a>
-## Detective Alyssa Wyatt
-
-![Detective Alyssa Wyatt](../../logos/6753611505-b99af464.png)
-
-<b>Meet Detective Alyssa Wyatt. Mom, wife and a serial killer's worst nightmare. Includes all four books in the gripping Detective Alyssa Wyatt series; <i>All His Pretty Girls</i>, <i>The Toybox</i>, <i>Alone in the Woods</i> and <i>The Devil's Playground</i>.</b><br /><br /> <b>All His Pretty Girls</b>: A woman is found naked, badly beaten and barely alive in the New Mexico mountains. The shocking discovery plunges Albuquerque Detective Alyssa Wyatt into a case that will test her to the limit. It appears that Callie McCormick is the latest plaything of a shadowy psychopath that leaves a long shadow on the streets of New Mexico. When Alyssa makes a breakthrough that just might reveal the killer, she unknowingly puts herself in the crosshairs of a brutal maniac  one with an old score to settle. Because the killer knows Alyssa very well, even if she doesn't know him. And he's determined that she'll know his name<br /><br /> <b>The Toybox</b>: All around Albuquerque, young women are going missing, seemingly vanished into thin air. With no link between the victims, Detective Alyssa Wyatt is quickly plunged into a horrifying case with no obvious clues. And when Jersey Andrews, the best friend of Alyssa's teenage daughter, Holly, joins the list of vanished girls, the case becomes personal. But this investigation will lead Alyssa and partner Cord into the most sinister depths of humanity; an evil place where life is expendable, and where the depraved can fulfil their darkest desires<br /><br /> <b>Alone in the Woods</b>: Gabriel Kensington and his wife Lydia have been brutally slain in their luxurious home in New Mexico. A frantic, whispered phone call from their teenage daughter Addis, and her best friend Emerson, quickly alerts the authorities to the killings. But when detective Alyssa Wyatt and the squad appear at the house, the unthinkable has happened. The girls are nowhere to be found and neither is the killer. In a race against time, it's up to Alyssa Wyatt and her partner Cord to find the missing girls  and discover just why the Kensingtons have been targeted. Because for Addis and Emerson, every minute passing could be the difference between survival  or an unthinkable death.<br /><br /> <b>The Devil's Playground</b>: Best friends Skye, Elena, and London are enjoying hanging out at Skye's house in New Mexico, eating junk food, drinking wine, and playing with Skye's little children, Carter and Abigail. Until the intruders arrive. Hearing the horrific screams from Elena and Skye, London hides the children, tiptoes out to see what has happened and disappears. After Carter raises the alarm, Detective Alyssa Wyatt is called in to investigate a bloodbath that appears to have no motive, no evidence, and no sign of London. She soon uncovers a link between the murders and a sinister local cult. Can Alyssa find the young woman who has vanished without a trace  before London joins the list of victims?<br /><br /> <b>An utterly addictive, dark detective series with twists that will leave you gasping. Perfect for fans of M.W. Craven, Lisa Regan or Angela Marsons.</b><br /><br /> <b>Praise for Charly Cox</b><br /><br /> '<b>The action never flags, the suspense is red-hot and the twists and turns jaw-droppingly brilliant</b>, fans of the genre need to add Charly Cox to their list of must-buys.' Bookish Jottings<br /><br /> 'There is just so much to love about this series. <b>A dark and chilling read</b> that will have you hanging on for dear life!'  Reader review<br /><br /> '<b>Charly Cox is fast becoming one of my favourite crime fiction writers</b>! Gripping, with likeable characters and great researched and plotted story lines.'  Reader review<br /><br /> 'Holy SMOKES! <b>What a ride. From the first page my heart was pounding.</b> I could not look away. This series was so good.'  Reader review<br /><br /> 'I absolutely love this series. I devoured it in a flash. <b>Could not put it down</b>.'  Reader review
-
-[View on Apple](https://books.apple.com/us/book/detective-alyssa-wyatt/id6753611505)
-
-<a id="ruthless-prey"></a>
-## Ruthless Prey
-
-![Ruthless Prey](../../logos/6788215380-83ed23c5.png)
-
-<b>Lucas Davenport must avenge the murder of a loved one, in this latest thriller from #1 <i>New York Times </i>bestselling author John Sandford.</b><br /><br />When the mother of Lucas Davenport's child is found dead in the backyard of her family home, nestled in an old affluent suburb in Minneapolis, the authorities immediately rule it a suicide. But Lucas is not as convinced.<br /><br />Lucas begins to investigate the case and learns that Jennifer's news team had been working on some controversial stories, suggesting to Lucas considerable animus by their targets.<br /><br />But as more bodies start to pile up, Lucas will need to work fast to locate the perpetrator and avenge the death of his family.
-
-[View on Apple](https://books.apple.com/us/book/ruthless-prey/id6788215380)
-
-<a id="one-golden-summer"></a>
-## One Golden Summer
-
-![One Golden Summer](../../logos/6615074377-c0719fc9.png)
-
-<b>THE #1<i> NEW YORK TIMES</i> BESTSELLER! ∙ A radiant escape to the lake from the beloved author of <i>Every Summer After </i>and <i>This Summer Will Be Different,</i> hailed as the “reigning queen of sun-soaked romance novels” (<i>Bustle</i>)<i><br /></i><br />“The way that Carley Fortune can bottle up the feeling of summer and put it into a book needs to be studied. Her books are so transportive!”—<i>Glamour</i></b><br /><br /><b><i>I never anticipated Charlie Florek.<br /></i></b><br />Good things happen at the lake. That’s what Alice’s grandmother says, and it’s true. Alice spent just one summer there at a cottage with Nan when she was seventeen—it’s where she took that photo, the one of three grinning teenagers in a yellow speedboat, the image that changed her life.<br /><br />Now Alice lives behind a lens. As a photographer, she’s most comfortable on the sidelines, letting other people shine. Lately though, she’s been itching for something more, and when Nan falls and breaks her hip, Alice comes up with a plan for them both: another summer in that magical place, Barry’s Bay. But as soon as they settle in, their peace is disrupted by the roar of a familiar yellow boat, and the man driving it.<br /><br />Charlie Florek was nineteen when Alice took his photo from afar. Now he’s all grown up—a shameless flirt, who manages to make Nan laugh and Alice long to be seventeen again, when life was simpler, when taking pictures was just for fun. Sun-slanted days and warm nights out on the lake with Charlie are a balm for Alice’s soul, but when she looks up and sees his piercing green gaze directly on her, she begins to worry for her heart.<br /><br />Because Alice sees people—that’s why she is so good at what she does—but she’s never met someone who looks and sees her right back.
-
-[View on Apple](https://books.apple.com/us/book/one-golden-summer/id6615074377)
-
-<a id="it-could-have-been-her"></a>
-## It Could Have Been Her
-
-![It Could Have Been Her](../../logos/6754249251-9e2778d8.png)
-
-<b>INSTANT <i>NEW YORK TIMES </i>BESTSELLER!</b><br /><br /><b>From the #1 <i>New York Times</i> bestselling author of <i>Then She Was Gone</i> Lisa Jewell, two women's lives converge in a house containing devastating secrets that refuse to stay buried in this "deliciously</b><b> dark, devilishly addictive" (Alice Feeney, bestselling author of <i>My Husband's Wife</i>) novel. </b><br /><br />Jane Trevally is walking her dogs on her country estate when a small white terrier appears, alone and with no sign of the teenaged girl he’d been staying with nearby. When the teenager is reported missing, Jane offers to return the dog to his registered owner, hours away in London. Arriving at a run-down house called Thornwood in the deepest backwaters of Hampstead, she is immediately on alert—because Jane has a dark history with this house.<br /><br /> The man who answers the door is not the man that Jane remembers from her past. He is cagey, and claims to know nothing about the missing teenage girl. Then, through the window of the house, Jane catches a glimpse of a haunted-looking woman.<br /><br /> Conjuring her memories from twenty-five years ago, Jane knows this unsettling house holds the key—to the missing teenager, to her own traumatic story, and to the dark secrets of the past.
-
-[View on Apple](https://books.apple.com/us/book/it-could-have-been-her/id6754249251)
-
-<a id="the-things-we-never-say"></a>
-## The Things We Never Say
-
-![The Things We Never Say](../../logos/6753041097-2a396e47.png)
-
-<b><i>NEW YORK TIMES </i>BESTSELLER • In this “profound, resplendent novel”* from Pulitzer Prize–winning, #1 <i>New York Times</i> bestselling author Elizabeth Strout, a chance incident sparks a powerful realization in a beloved teacher’s life<b><br /></b></b><br /><b>“Strout’s capacious empathy and rigorous attention to the nuances of human behavior and psychology are as evident as ever.”—<i>The Boston Globe<br /></i></b><br /><b>“Artie Dam is someone you may never be able to forget.”—<i>Financial Times*</i></b><br /><br />Artie Dam is living a double life. He spends his days teaching history to eleventh graders, expanding their young minds, correcting their casual cruelties, and lending a kind word to those who need it most. He goes to holiday parties with his wife of three decades, makes small talk with neighbors, and, on weekends, takes his sailboat out on the beautiful Massachusetts Bay. He is, by all appearances, present and alive. But inside, Artie is plagued by feelings of isolation. He looks out at a world gone mad—at himself and the people around him—and turns a question over and over in his mind: How is it that we know so little about one another, even those closest to us?<br /><br />And then, one day, Artie learns that life has been keeping a secret from him, one that threatens to upend his entire world. Once he learns it, he is forced to chart a new course, to reconsider the relationships he holds most dear—and to make peace with the mysteries at the heart of our existence.<br /><br />Elizabeth Strout, as we have come to expect, delivers a moving exploration of the human condition—one that brims with compassion for each and every one of her indelible characters. With exquisite prose and profound insight, <i>The Things We Never Say </i>takes one man’s fears and loneliness and makes them universal. And in the same breath, captures the abiding love that sustains and holds us all.
-
-[View on Apple](https://books.apple.com/us/book/the-things-we-never-say/id6753041097)
+[View on Apple](https://books.apple.com/us/book/iron-flame/id6448919432)
 
 <a id="the-hobbit"></a>
 ## The Hobbit
@@ -775,6 +784,46 @@ A Court of Silver Flames
 
 [View on Apple](https://books.apple.com/us/book/the-hobbit/id1602694961)
 
+<a id="a-court-of-mist-and-fury"></a>
+## A Court of Mist and Fury
+
+![A Court of Mist and Fury](../../logos/1488944272-5362f17b.png)
+
+The seductive #1 global bestselling sequel to Sarah J. Maas&#39;s spellbinding A Court of Thorns and Roses (ACOTAR).<br/>
+<br/>
+Feyre has undergone more trials than one human woman can carry in her heart. Though she&#39;s now been granted the powers and lifespan of the High Fae, she is haunted by her time Under the Mountain and the terrible deeds she performed to save the lives of Tamlin and his people.<br/>
+<br/>
+As her marriage to Tamlin approaches, Feyre&#39;s hollowness and nightmares consume her. She finds herself split into two different people: one who upholds her bargain with Rhysand, High Lord of the feared Night Court, and one who lives out her life in the Spring Court with Tamlin. While Feyre navigates a dark web of politics, passion, and dazzling power, a greater evil looms. She might just be the key to stopping it, but only if she can harness her harrowing gifts, heal her fractured soul, and decide how she wishes to shape her future-and the future of a world in turmoil.<br/>
+<br/>
+Bestselling author Sarah J. Maas&#39;s masterful storytelling brings this second book in her dazzling, sexy, action-packed series to new heights.<br/>
+<br/>
+The Court of Thorns and Roses series includes:<br/>
+A Court of Thorns and Roses<br/>
+A Court of Mist and Fury<br/>
+A Court of Wings and Ruin<br/>
+A Court of Frost and Starlight<br/>
+A Court of Silver Flames
+
+[View on Apple](https://books.apple.com/us/book/a-court-of-mist-and-fury/id1488944272)
+
+<a id="tom-clancy-target-acquired"></a>
+## Tom Clancy Target Acquired
+
+![Tom Clancy Target Acquired](../../logos/1532649405-63492a1c.png)
+
+<b><i>Tom Clancy's Jack Ryan: Ghost War </i>is out now on Prime Video!<br /><br />Jack Ryan, Jr., will do anything for a friend, but this favor will be paid for in blood in the latest electric entry in the #1 <i>New York Times </i>bestselling series.</b><br /><br />Jack Ryan, Jr. would do anything for Ding Chavez. That's why Jack is currently sitting in an open-air market in Israel, helping a CIA team with a simple job. The man running the mission, Peter Beltz, is an old friend from Ding's Army days. Ding hadn't seen his friend since Peter's transfer to the CIA eighteen months prior, and intended to use the assignment to reconnect. Unfortunately, Ding had to cancel at the last minute and asked Jack to take his place. It's a cushy assignment--a trip to Israel in exchange for a couple hours of easy work, but Jack could use the downtime after his last operation. <br /><br />Jack is here merely as an observer, but when he hastens to help a woman and her young son, he finds himself the target of trained killers. Alone and outgunned, Jack will have to use all his skills to protect the life of the child.
+
+[View on Apple](https://books.apple.com/us/book/tom-clancy-target-acquired/id1532649405)
+
+<a id="it-could-have-been-her"></a>
+## It Could Have Been Her
+
+![It Could Have Been Her](../../logos/6754249251-9e2778d8.png)
+
+<b>INSTANT <i>NEW YORK TIMES </i>BESTSELLER!</b><br /><br /><b>From the #1 <i>New York Times</i> bestselling author of <i>Then She Was Gone</i> Lisa Jewell, two women's lives converge in a house containing devastating secrets that refuse to stay buried in this "deliciously</b><b> dark, devilishly addictive" (Alice Feeney, bestselling author of <i>My Husband's Wife</i>) novel. </b><br /><br />Jane Trevally is walking her dogs on her country estate when a small white terrier appears, alone and with no sign of the teenaged girl he’d been staying with nearby. When the teenager is reported missing, Jane offers to return the dog to his registered owner, hours away in London. Arriving at a run-down house called Thornwood in the deepest backwaters of Hampstead, she is immediately on alert—because Jane has a dark history with this house.<br /><br /> The man who answers the door is not the man that Jane remembers from her past. He is cagey, and claims to know nothing about the missing teenage girl. Then, through the window of the house, Jane catches a glimpse of a haunted-looking woman.<br /><br /> Conjuring her memories from twenty-five years ago, Jane knows this unsettling house holds the key—to the missing teenager, to her own traumatic story, and to the dark secrets of the past.
+
+[View on Apple](https://books.apple.com/us/book/it-could-have-been-her/id6754249251)
+
 <a id="targeted"></a>
 ## Targeted
 
@@ -783,6 +832,70 @@ A Court of Silver Flames
 <b>Master sniper Bob Lee Swagger protects a group of hostages during a perilous standoff in this razor-sharp, white-knuckled political thriller from Pulitzer Prize winner, <i>New York Times</i> bestselling author, and “one of the best thriller novelists around” (<i>The Washington Post</i>) Stephen Hunter.</b><br /><br />After his successful takedown of a dangerous terrorist, Bob Lee Swagger learns that no good deed goes unpunished. Summoned to court by the United States Congress, Swagger is accused of reckless endangerment by a hardheaded anti-gun congresswoman. But what begins as political posturing soon turns deadly when the auditorium where the committee is being held is attacked.<br /><br />Swagger, the congresswoman, and numerous bystanders are taken hostage by a group of violent criminals. Soon, the very people who had accused him are depending on him to save their lives. Trapped in the auditorium and still struggling with injuries from his last assignment, Swagger must rely on his instincts, his shooting skills, and the help of a mysterious rogue operator on the outside in order to ensure that everyone makes it out alive.<br /><br />A heart-pounding and crackling action-packed novel, <i>Targeted</i> proves that Stephen Hunter is “a true master at the pinnacle of his craft. No one does it better” (Jack Carr, Former Navy SEAL Sniper and author of <i>The Terminal List</i>).
 
 [View on Apple](https://books.apple.com/us/book/targeted/id1574231713)
+
+<a id="her-unexpected-joy"></a>
+## Her Unexpected Joy
+
+![Her Unexpected Joy](../../logos/6758017575-e12df0f6.png)
+
+Stuck in a ditch in the middle of a snowstorm was bad enough, but add in the fact that she was eight months pregnant with her sister’s child and had a broken cell phone, life was a disaster, or so she thought.
+
+Then Zoe Avery started having contractions. Now, a disaster had turned into something even Zoe couldn’t laugh her way through.
+
+Then a stranger showed up.
+
+[View on Apple](https://books.apple.com/us/book/her-unexpected-joy/id6758017575)
+
+<a id="our-perfect-storm"></a>
+## Our Perfect Storm
+
+![Our Perfect Storm](../../logos/6749923063-e344a5ab.png)
+
+<b>AN INSTANT #1 <i>NEW YORK TIMES</i> BESTSELLER ∙ Best friends have one week in paradise to fix their friendship or fall apart in this heart-stopping, utterly romantic new novel from the #1 <i>New York Times</i> bestselling author of <i>Every Summer After</i> and <i>One Golden Summer.<br /><br /></i>As featured in <i>The New York Times</i> ∙ <i>USA Today</i> ∙ <i>People</i> ∙ <i>The Wall Street Journal</i> ∙ <i>Cosmopolitan</i> ∙ <i>Marie Claire</i> ∙ TODAY ∙ Good Morning America ∙ <i>The New York Post</i> ∙ <i>Parade</i> ∙ <i>Country Living</i> ∙ <i>Town &amp; Country</i> ∙ and more!<i><br /></i></b><br />Frankie and George have been best friends since they were eight years old. Both passionate, impulsive, and headstrong—they’ve always clashed . . . and come back together. Until now. It’s the eve of Frankie’s wedding weekend, and she doesn’t know where they stand or even if George will show up as her best man.<br /><br />Then, at the start of the festivities, in walks George. For one glorious evening, surrounded by her loved ones, Frankie’s life is finally perfect. But it all comes crashing down when her fiancé dumps her the next morning, leaving only a note as an explanation.<br /><br />Crushed and confused, Frankie returns to her family’s home to wallow. But George has a different idea and a plan for healing Frankie’s broken heart. He wants her to go on her honeymoon. With him. For one week, to the lush rainforests and misty beaches of Tofino.<br /><br />Frankie agrees, seeing the trip for what it really is: one last chance to repair their friendship. Even if it means unearthing secrets and long buried feelings neither knows how to handle. Even if it means falling apart for good.
+
+[View on Apple](https://books.apple.com/us/book/our-perfect-storm/id6749923063)
+
+<a id="land"></a>
+## Land
+
+![Land](../../logos/6751867960-34cb271f.png)
+
+<b><i>NEW YORK TIMES</i> BESTSELLER&#xa0;• The award-winning, bestselling author of <i>Hamnet</i> and <i>The Marriage Portrait</i> returns with a soaring historical novel set in Ireland in the years before and after the Great Hunger.<br /><br />“A breathtaking hymn to the sanctity of natural spaces, operating on timescales both intimate and geological. I finished <i>Land</i> moved not only by the vivid lives of its human characters, but the thrumming, gorgeous presence of its mosses, waters, winds, and skies.” —Daniel Mason, author of <i>North Woods</i></b><br /><br />On a windswept peninsula stretching out into the Atlantic, Tomás and his reluctant son, Liam, are working for the great Ordnance Survey project to map the whole of Ireland. The year is 1865, and in a country not long since ravaged and emptied by the Great Hunger, the task is not an easy one. Tomás, however, is determined that his maps will be a record of the disaster.<br /><br />The British soldiers in charge are due to arrive any day, expecting the work to be completed, but Tomás is unexpectedly sent off course by an unsettling encounter in a copse. His life, and the lives of those of his family, will never be the same again. Liam is terrified by the sudden change in his taciturn father. What was it that caused such cracks to open in Tomás, and how is Liam, aged only ten, going to finish the mapping and get them both home?<br /><br /><i>Land</i> is a novel about separation and reunion, tragedy and recovery, colonization and rebellion. It is a story of buried treasure, overlapping lives, ancient woodland, persistent ghosts, a particularly loyal dog, and how, when it comes to both land and history, nothing ever goes away. As spellbinding and varied as the landscape that inspired it, <i>Land</i> is, above all, a story of survival, for our times and for all time.
+
+[View on Apple](https://books.apple.com/us/book/land/id6751867960)
+
+<a id="novena-for-a-happy-and-faithful-marriage"></a>
+## Novena for a Happy and Faithful Marriage
+
+![Novena for a Happy and Faithful Marriage](../../logos/1245684404-8c163357.png)
+
+St. Josemaria Escriva believed that "those who are called to the married state will, with the grace of God, find within their state everything they need to be holy, to identify themselves each day more with Jesus Christ, and to lead those with whom they live to God" (<i>Conversations with Saint Josemaria</i>, no. 91).<br /><br />
+The <b>new edition</b> of the <b><i>Novena for a Happy and Faithful Marriage</i></b> is a publication from the St. Josemaria Institute inspired by St. Josemaria's desire to help all married couples, and those preparing for marriage, to find meaning and encouragement in their vocations, especially when facing inevitable difficulties and times of trial.<br /><br />
+The <b><i>Novena for a Happy and Faithful Marriage</i></b> includes:<br /><br />
+	•	An introduction on how to pray the novena<br />
+	•	Daily reflections from St. Josemaria Escriva’s “Marriage: A Christian Vocation"&#xa0;<br />
+	•	Prayer for the day for the married and for the engaged&#xa0;<br />
+<i>	•	Prayer for the Family</i> through the intercession of St. Josemaria
+
+[View on Apple](https://books.apple.com/us/book/novena-for-a-happy-and-faithful-marriage/id1245684404)
+
+<a id="salem-s-lot"></a>
+## 'Salem's Lot
+
+!['Salem's Lot](../../logos/419959732-344a0b41.png)
+
+<b>NOW A NEW FILM STREAMING ON MAX <b>• #1 BESTSELLER • Ben Mears has returned to Jerusalem’s Lot in hopes that exploring the history of the Marsten House, an old mansion long the subject of rumor and speculation, will help him cast out his personal devils and provide inspiration for his new book. • With an introduction by Joe Hill</b><br /><br />"A master storyteller." —<i>The Los Angeles Times</i></b><br /><br />When two young boys venture into the woods, and only one returns alive, Mears begins to realize that something sinister is at work. In fact, his hometown is under siege from forces of darkness far beyond his imagination. And only he, with a small group of allies, can hope to contain the evil that is growing within the borders of this small New England town.<br /><br />With this, his second novel, Stephen King established himself as an indisputable master of American horror, able to transform the old conceits of the genre into something fresh and all the more frightening for taking place in a familiar, idyllic locale.
+
+[View on Apple](https://books.apple.com/us/book/salems-lot/id419959732)
+
+<a id="everything-was-beautiful-and-nothing-hurt"></a>
+## Everything Was Beautiful and Nothing Hurt
+
+![Everything Was Beautiful and Nothing Hurt](../../logos/6754252150-8903a49d.png)
+
+<b><i>NEW YORK TIMES </i>BESTSELLER • “A gorgeous reminder of what really matters. Prepare to be astounded.” —<i>People</i> • “One of the best, most moving books I have read in years.” —Scott Detrow, NPR • “This is one of the most affecting, original, and unforgettable novels I have ever read.” —Sarah Damoff, author of <i>The Bright Years</i><br /><br /> For fans of Fredrik Backman and Virginia Evans, an astonishing novel about finding beauty in the brevity of life, as narrated by the one who knows it best: Death.</b><br /><br />Travis is Death in the modern world. He lives with his cat in a small, gray town. His job is to offer people comfort in their final hours of life, which he does without complaint or judgement. He’s stoic, gentle, and a little naive, despite who he is, but he never tries to change anyone’s fate. He is responsible for maintaining the balance of nature, and every life must eventually end.<br /><br /> Then Travis meets Dalia, a midwife, and her boisterous eight-year-old daughter Layla, who live across the hall, and despite his best attempts to keep his distance, he finds himself wholeheartedly embraced by other people for the first time. So it is with this seemingly unremarkable family that Travis begins to understand what it means to be truly alive—and what might be irrevocably lost in death.<br /><br /> Written with radiant warmth, wisdom, and compassion, <i>Everything Was Beautiful and Nothing Hurt</i> is a timeless and ultimately uplifting story about appreciating life, accepting its end, and finding our place in the universe—especially when it feels most impossible—that will resonate with anyone who has ever loved and lost or worried about time’s passing.
+
+[View on Apple](https://books.apple.com/us/book/everything-was-beautiful-and-nothing-hurt/id6754252150)
 
 <a id="a-woman-of-substance"></a>
 ## A Woman of Substance
@@ -807,86 +920,6 @@ A Court of Silver Flames
 
 [View on Apple](https://books.apple.com/us/book/a-woman-of-substance/id1478995361)
 
-<a id="her-unexpected-joy"></a>
-## Her Unexpected Joy
-
-![Her Unexpected Joy](../../logos/6758017575-e12df0f6.png)
-
-Stuck in a ditch in the middle of a snowstorm was bad enough, but add in the fact that she was eight months pregnant with her sister’s child and had a broken cell phone, life was a disaster, or so she thought.
-
-Then Zoe Avery started having contractions. Now, a disaster had turned into something even Zoe couldn’t laugh her way through.
-
-Then a stranger showed up.
-
-[View on Apple](https://books.apple.com/us/book/her-unexpected-joy/id6758017575)
-
-<a id="tom-clancy-target-acquired"></a>
-## Tom Clancy Target Acquired
-
-![Tom Clancy Target Acquired](../../logos/1532649405-63492a1c.png)
-
-<b><i>Tom Clancy's Jack Ryan: Ghost War </i>is out now on Prime Video!<br /><br />Jack Ryan, Jr., will do anything for a friend, but this favor will be paid for in blood in the latest electric entry in the #1 <i>New York Times </i>bestselling series.</b><br /><br />Jack Ryan, Jr. would do anything for Ding Chavez. That's why Jack is currently sitting in an open-air market in Israel, helping a CIA team with a simple job. The man running the mission, Peter Beltz, is an old friend from Ding's Army days. Ding hadn't seen his friend since Peter's transfer to the CIA eighteen months prior, and intended to use the assignment to reconnect. Unfortunately, Ding had to cancel at the last minute and asked Jack to take his place. It's a cushy assignment--a trip to Israel in exchange for a couple hours of easy work, but Jack could use the downtime after his last operation. <br /><br />Jack is here merely as an observer, but when he hastens to help a woman and her young son, he finds himself the target of trained killers. Alone and outgunned, Jack will have to use all his skills to protect the life of the child.
-
-[View on Apple](https://books.apple.com/us/book/tom-clancy-target-acquired/id1532649405)
-
-<a id="our-perfect-storm"></a>
-## Our Perfect Storm
-
-![Our Perfect Storm](../../logos/6749923063-e344a5ab.png)
-
-<b>AN INSTANT #1 <i>NEW YORK TIMES</i> BESTSELLER ∙ Best friends have one week in paradise to fix their friendship or fall apart in this heart-stopping, utterly romantic new novel from the #1 <i>New York Times</i> bestselling author of <i>Every Summer After</i> and <i>One Golden Summer.<br /><br /></i>As featured in <i>The New York Times</i> ∙ <i>USA Today</i> ∙ <i>People</i> ∙ <i>The Wall Street Journal</i> ∙ <i>Cosmopolitan</i> ∙ <i>Marie Claire</i> ∙ TODAY ∙ Good Morning America ∙ <i>The New York Post</i> ∙ <i>Parade</i> ∙ <i>Country Living</i> ∙ <i>Town &amp; Country</i> ∙ and more!<i><br /></i></b><br />Frankie and George have been best friends since they were eight years old. Both passionate, impulsive, and headstrong—they’ve always clashed . . . and come back together. Until now. It’s the eve of Frankie’s wedding weekend, and she doesn’t know where they stand or even if George will show up as her best man.<br /><br />Then, at the start of the festivities, in walks George. For one glorious evening, surrounded by her loved ones, Frankie’s life is finally perfect. But it all comes crashing down when her fiancé dumps her the next morning, leaving only a note as an explanation.<br /><br />Crushed and confused, Frankie returns to her family’s home to wallow. But George has a different idea and a plan for healing Frankie’s broken heart. He wants her to go on her honeymoon. With him. For one week, to the lush rainforests and misty beaches of Tofino.<br /><br />Frankie agrees, seeing the trip for what it really is: one last chance to repair their friendship. Even if it means unearthing secrets and long buried feelings neither knows how to handle. Even if it means falling apart for good.
-
-[View on Apple](https://books.apple.com/us/book/our-perfect-storm/id6749923063)
-
-<a id="daughter-of-war"></a>
-## Daughter of War
-
-![Daughter of War](../../logos/1381157754-cf3a0ecb.png)
-
-<b>Former Special Forces Officer and <i>New York Times</i> bestselling author Brad Taylor delivers a heart-pounding thriller featuring Taskforce operators Pike Logan and Jennifer Cahill as they come face to face with a conspiracy where nothing is as it seems.</b><br /><br />Hot on the trail of a North Korean looking to sell sensitive US intelligence to the Syrian regime, Pike Logan and the Taskforce stumble upon something much graver: the sale of a lethal substance called Red Mercury.<br /><br />Unbeknownst to the Taskforce, the Syrians plan to use the weapon of mass destruction against American and Kurdish forces, and blame the attack on terrorists, causing western nations to reassess their participation in the murky cauldron of the Syrian civil war.  <br /><br />Meanwhile, North Korea has its own devastating agenda: a double-cross that will dwarf the attack in Syria even as it lays the blame on the Syrian government.  Leveraging Switzerland's fame for secrecy and its vast network of military bunkers, now repurposed by private investors for the clandestine storage of wealth, North Korea will use Red Mercury to devastate the West's ability to deliver further sanctions against the rogue regime. <br /><br />As the Taskforce begins to unravel the plot, a young refugee unwittingly  holds the key to the conspiracy.  Hunted across Europe for reasons she cannot fathom, she is the one person who can stop the attack--if she can live long enough for Pike and Jennifer to find her.
-
-[View on Apple](https://books.apple.com/us/book/daughter-of-war/id1381157754)
-
-<a id="a-court-of-mist-and-fury"></a>
-## A Court of Mist and Fury
-
-![A Court of Mist and Fury](../../logos/1488944272-5362f17b.png)
-
-The seductive #1 global bestselling sequel to Sarah J. Maas&#39;s spellbinding A Court of Thorns and Roses (ACOTAR).<br/>
-<br/>
-Feyre has undergone more trials than one human woman can carry in her heart. Though she&#39;s now been granted the powers and lifespan of the High Fae, she is haunted by her time Under the Mountain and the terrible deeds she performed to save the lives of Tamlin and his people.<br/>
-<br/>
-As her marriage to Tamlin approaches, Feyre&#39;s hollowness and nightmares consume her. She finds herself split into two different people: one who upholds her bargain with Rhysand, High Lord of the feared Night Court, and one who lives out her life in the Spring Court with Tamlin. While Feyre navigates a dark web of politics, passion, and dazzling power, a greater evil looms. She might just be the key to stopping it, but only if she can harness her harrowing gifts, heal her fractured soul, and decide how she wishes to shape her future-and the future of a world in turmoil.<br/>
-<br/>
-Bestselling author Sarah J. Maas&#39;s masterful storytelling brings this second book in her dazzling, sexy, action-packed series to new heights.<br/>
-<br/>
-The Court of Thorns and Roses series includes:<br/>
-A Court of Thorns and Roses<br/>
-A Court of Mist and Fury<br/>
-A Court of Wings and Ruin<br/>
-A Court of Frost and Starlight<br/>
-A Court of Silver Flames
-
-[View on Apple](https://books.apple.com/us/book/a-court-of-mist-and-fury/id1488944272)
-
-<a id="midnight"></a>
-## Midnight
-
-![Midnight](../../logos/6741888583-60c51fba.png)
-
-<b>“Sharon Sala is a consummate storyteller.” —Debbie Macomber, #1 <i>New York Times </i>bestselling author</b><br /><br /><b>Crossroads, Texas, is a town of second chances in this new small town romance series from Sharon Sala,&#xa0;<i>New York Times </i>and <i>USA Today </i>bestselling author of the Blessings, Georgia series.</b><br /><br />Asher Kingston is a special investigator for the Texas Attorney General’s office in Austin, TX. When he gets a call that his dad has been injured in an attempted robbery of his bar, he rounds up his two brothers and heads back to Crossroads. During visiting hours at the hospital, Nora Borden, Asher’s girlfriend from high school, runs into him and they rekindle their friendship. Nora is a high-profile computer tech with a high security clearance; Asher claims his job too unpredictable for relationships. But before long, their romance rekindles as well. Together they unravel a case long gone cold to find out what happened in the bar late that night and to clear the Kingston family name.
-
-[View on Apple](https://books.apple.com/us/book/midnight/id6741888583)
-
-<a id="blindsighted"></a>
-## Blindsighted
-
-![Blindsighted](../../logos/975283603-027290d7.png)
-
-<b>The first Grant County novel by #1 <i>New York Times </i>bestselling author, Karin Slaughter, introducing Sara Linton of the acclaimed Will Trent Series.</b><br /><br /><b>“A bull’s-eye, deftly crafted. . . . Slaughter’s plotting is brilliant, her suspense relentless.” —<i>Washington Post</i></b><br /><br />A small Georgia town erupts in panic when a young college professor is found brutally mutilated in the local diner. But it’s only when town pediatrician and coroner Sara Linton does the autopsy that the full extent of the killer’s twisted work becomes clear.<br /><br />Sara’s ex-husband, police chief Jeffrey Tolliver, leads the investigation—a trail of terror that grows increasingly macabre when another local woman is found crucified a few days later. But he’s got more than a sadistic serial killer on his hands, because the county’s only female detective, Lena Adams—the first victim’s sister—wants to serve her own justice.<br /><br />But it is Sara who holds the key to finding the killer. A secret from her past could unmask the brilliantly malevolent psychopath… or mean her death.
-
-[View on Apple](https://books.apple.com/us/book/blindsighted/id975283603)
-
 <a id="the-astral-library"></a>
 ## The Astral Library
 
@@ -895,15 +928,6 @@ A Court of Silver Flames
 From New York Times bestselling author Kate Quinn comes a gorgeously written fantastical adventure which poses the question: Have you ever wished you could live inside a book?&#xa0;Welcome to the Astral Library, where books are not just objects, but doors to new worlds, new lives, and new futures.<br /><br />Alexandria “Alix” Watson has learned one lesson from her barren childhood in the foster-care system: unlike people, books will never let you down. Working three dead-end jobs to make ends meet and knowing college is a pipe dream, Alix takes nightly refuge in the high-vaulted reading room at the Boston Public Library, escaping into her favorite fantasy novels and dreaming of far-off lands. Until the day she stumbles through a hidden door and meets the Librarian: the ageless, acerbic guardian of a hidden library where the desperate and the lost escape to new lives...inside their favorite books.<br /><br />The Librarian takes a dazzled Alix under her wing, but before she can escape into the pages of her new life, a shadowy enemy emerges to threaten everyone the Astral Library has ever helped protect. Aided by a dashing costume-shop owner, Alix and the Librarian flee through the Regency drawing rooms of Jane Austen to the back alleys of Sherlock Holmes and the champagne-soaked parties of The Great Gatsby as danger draws inexorably closer. But who does their enemy really wish to destroy—Alix, the Librarian, or the Library itself?
 
 [View on Apple](https://books.apple.com/us/book/the-astral-library/id6746546947)
-
-<a id="god-s-homecoming"></a>
-## God's Homecoming
-
-![God's Homecoming](../../logos/1553748355-f034b595.png)
-
-A defining major work from today’s leading Bible scholar: N. T. Wright traces the biblical promise of God’s care for the future, offering authentic hope in a chaotic age.<br /><br />Many devout believers have been lured into the classic misunderstanding that Christianity teaches how we must leave earth and go somewhere else to be with God. But this outlook dangerously suggests that God created a world he loves only to abandon it. Nothing could be further from the scriptural truth, N. T. Wright contends. In God’s Homecoming, Wright excavates the forgotten story of God’s original purpose to dwell with us and make his home—and ours—in this new creation.<br /><br />In his groundbreaking Surprised by Hope, Wright dismantled the “going to heaven” narrative. In God’s Homecoming, he returns with a panoramic pilgrimage tracing God’s homecoming promise from Genesis through Revelation. When we read the Bible as a whole, Wright argues, we do not find a narrative of souls ascending a spiritual ladder to heaven, but of God coming down to dwell with us.<br /><br />Revolutionary and grounded in biblical research, Wright leads readers through the movements of the promise: God created heaven and earth to be his own home, he filled the temple with his presence, then the church with the Holy Spirit, and promises that the all creation will again be filled with his glory. He traces how the popular Christian reading got it wrong—as well as the radical transformation that awaits us and the church today if we return to God’s original vision.<br /><br />Until we recover this forgotten story, Wright warns, we will keep distorting the Bible’s message. Yet, he argues, its recovery could be the key to revitalizing every aspect of Christian life as we know it: prayer, mission, evangelism, pastoral practice, and personal devotion.
-
-[View on Apple](https://books.apple.com/us/book/gods-homecoming/id1553748355)
 
 <a id="crown-of-midnight"></a>
 ## Crown of Midnight
@@ -931,14 +955,15 @@ The Assassin&#39;s Blade (prequel novellas)
 
 [View on Apple](https://books.apple.com/us/book/crown-of-midnight/id1488792218)
 
-<a id="when-i-kill-you"></a>
-## When I Kill You
+<a id="the-iliad"></a>
+## The Iliad
 
-![When I Kill You](../../logos/6744894750-f8ec5859.png)
+![The Iliad](../../logos/6445799194-b6a5de1e.png)
 
-<b>The multimillion-copy and <i>New York Times</i> bestseller B. A. Paris returns with a triumphant, unsettling next suspense novel, <i>When I Kill You</i>.</b><br /><br /><i>Who is watching Nell Masters?</i><br /><br />Nell Masters is certain someone is following her. The hairs on the back of her neck rise when she travels to and from work, there are silent calls to her office, and a huge bouquet of flowers arrives without a card. And Nell has a reason to be looking over her shoulder, because she has a secret that she’s hiding from everyone in her life, including her new partner, Alex. But Alex also has secrets of his own.<br /><br />Fourteen years earlier, when Nell went by the name Elle Nugent, she witnessed a student, Bryony Sanders, getting into a stranger’s car. When Bryony was found murdered, Elle became obsessed with finding the person responsible. She was convinced she knew who it was and her fixation with Brett Parker, the man she accused, led her down a dangerous path . . . <br /><br />Now, Nell tries to convince herself that this unnerving feeling of being watched is all in her mind. Has someone from her past discovered her new identity? Has the stalker become the stalked? Or is there something even more deadly at play?
+“Wilson’s Iliad is clear and brisk, its iambic pentameter a zone of enchantment.” —Ange Mlinko, London Review of Books<br /><br />
+The greatest literary landmark of antiquity masterfully rendered by the most celebrated translator of our time.<br /><br />When Emily Wilson’s translation of&#xa0;The Odyssey&#xa0;appeared in 2017—revealing the ancient poem in a contemporary idiom that was “fresh, unpretentious and lean” (Madeline Miller,&#xa0;Washington Post)—critics lauded it as “a revelation” (Susan Chira,&#xa0;New York Times) and “a cultural landmark” (Charlotte Higgins,&#xa0;Guardian) that would forever change how Homer is read in English. Now Wilson has returned with an equally revelatory translation of Homer’s other great epic—the most revered war poem of all time.<br /><br />The Iliad roars with the clamor of arms, the bellowing boasts of victors, the fury and grief of loss, and the anguished cries of dying men. It sings, too, of the sublime magnitude of the world—the fierce beauty of nature and the gods’ grand schemes beyond the ken of mortals. In Wilson’s hands, this thrilling, magical, and often horrifying tale now gallops at a pace befitting its legendary battle scenes, in crisp but resonant language that evokes the poem’s deep pathos and reveals palpably real, even “complicated,” characters—both human and divine.<br /><br />The culmination of a decade of intense engagement with antiquity’s most surpassingly beautiful and emotionally complex poetry, Wilson’s&#xa0;Iliad&#xa0;now gives us a complete Homer for our generation.
 
-[View on Apple](https://books.apple.com/us/book/when-i-kill-you/id6744894750)
+[View on Apple](https://books.apple.com/us/book/the-iliad/id6445799194)
 
 <a id="hope-rises"></a>
 ## Hope Rises
@@ -949,14 +974,38 @@ The Assassin&#39;s Blade (prequel novellas)
 
 [View on Apple](https://books.apple.com/us/book/hope-rises/id6749524843)
 
-<a id="a-moveable-feast"></a>
-## A Moveable Feast
+<a id="lavender-lake"></a>
+## Lavender Lake
 
-![A Moveable Feast](../../logos/381536286-4a864c66.png)
+![Lavender Lake](../../logos/6747595178-03780f30.png)
 
-<b>Ernest Hemingway’s classic memoir of Paris in the 1920s, now available in a restored edition, includes the original manuscript along with insightful recollections and unfinished sketches.</b><br /><br />Published posthumously in 1964, <i>A Moveable Feast</i> remains one of Ernest Hemingway’s most enduring works. Since Hemingway’s personal papers were released in 1979, scholars have examined the changes made to the text before publication. Now, this special restored edition presents the original manuscript as the author prepared it to be published.<br /><br />Featuring a personal foreword by Patrick Hemingway, Ernest’s sole surviving son, and an introduction by grandson of the author, Seán Hemingway, editor of this edition, the book also includes a number of unfinished, never-before-published Paris sketches revealing experiences that Hemingway had with his son, Jack, and his first wife Hadley. Also included are irreverent portraits of literary luminaries, such as F. Scott Fitzgerald and Ford Maddox Ford, and insightful recollections of Hemingway’s own early experiments with his craft.<br /><br />Widely celebrated and debated by critics and readers everywhere, the restored edition of <i>A Moveable Feast </i>brilliantly evokes the exuberant mood of Paris after World War I and the unbridled creativity and unquenchable enthusiasm that Hemingway himself epitomized.
+From Wall Street Journal and USA Today bestselling author Emma Slate comes the second book in the Saddles &amp; Spurs series.
 
-[View on Apple](https://books.apple.com/us/book/a-moveable-feast/id381536286)
+One night. All passion. No names. 
+
+I’ll never see him again.
+ 
+But when I get on a plane home to Huckleberry Hill for a family emergency, my one-night stand sits down next to me.
+ 
+Cas Bowman.
+ 
+Famous bull rider.
+ 
+And my future brother-in-law’s best friend.
+ 
+No one can know we hooked up—not even my sister. And I vow never to let it happen again.
+ 
+But then I remember the feel of him against me and the taste of him on my lips . . . 
+ 
+Suddenly, a thousand-acre ranch is too small to contain our lust, and it takes only a spark before we fall into bed again.
+ 
+A future together is impossible. My life is back in New York and he’s destined to return to the rodeo circuit.
+  
+Then the stick turns pink . . .
+ 
+Cas is a famous bull rider—but now he’s in for the wildest ride of his life.
+
+[View on Apple](https://books.apple.com/us/book/lavender-lake/id6747595178)
 
 <a id="the-pickled-pantry"></a>
 ## The Pickled Pantry
@@ -985,29 +1034,14 @@ The Assassin&#39;s Blade (prequel novellas)
 
 [View on Apple](https://books.apple.com/us/book/the-death-row-club/id6754252254)
 
-<a id="novena-for-a-happy-and-faithful-marriage"></a>
-## Novena for a Happy and Faithful Marriage
+<a id="daughter-of-war"></a>
+## Daughter of War
 
-![Novena for a Happy and Faithful Marriage](../../logos/1245684404-8c163357.png)
+![Daughter of War](../../logos/1381157754-cf3a0ecb.png)
 
-St. Josemaria Escriva believed that "those who are called to the married state will, with the grace of God, find within their state everything they need to be holy, to identify themselves each day more with Jesus Christ, and to lead those with whom they live to God" (<i>Conversations with Saint Josemaria</i>, no. 91).<br /><br />
-The <b>new edition</b> of the <b><i>Novena for a Happy and Faithful Marriage</i></b> is a publication from the St. Josemaria Institute inspired by St. Josemaria's desire to help all married couples, and those preparing for marriage, to find meaning and encouragement in their vocations, especially when facing inevitable difficulties and times of trial.<br /><br />
-The <b><i>Novena for a Happy and Faithful Marriage</i></b> includes:<br /><br />
-	•	An introduction on how to pray the novena<br />
-	•	Daily reflections from St. Josemaria Escriva’s “Marriage: A Christian Vocation"&#xa0;<br />
-	•	Prayer for the day for the married and for the engaged&#xa0;<br />
-<i>	•	Prayer for the Family</i> through the intercession of St. Josemaria
+<b>Former Special Forces Officer and <i>New York Times</i> bestselling author Brad Taylor delivers a heart-pounding thriller featuring Taskforce operators Pike Logan and Jennifer Cahill as they come face to face with a conspiracy where nothing is as it seems.</b><br /><br />Hot on the trail of a North Korean looking to sell sensitive US intelligence to the Syrian regime, Pike Logan and the Taskforce stumble upon something much graver: the sale of a lethal substance called Red Mercury.<br /><br />Unbeknownst to the Taskforce, the Syrians plan to use the weapon of mass destruction against American and Kurdish forces, and blame the attack on terrorists, causing western nations to reassess their participation in the murky cauldron of the Syrian civil war.  <br /><br />Meanwhile, North Korea has its own devastating agenda: a double-cross that will dwarf the attack in Syria even as it lays the blame on the Syrian government.  Leveraging Switzerland's fame for secrecy and its vast network of military bunkers, now repurposed by private investors for the clandestine storage of wealth, North Korea will use Red Mercury to devastate the West's ability to deliver further sanctions against the rogue regime. <br /><br />As the Taskforce begins to unravel the plot, a young refugee unwittingly  holds the key to the conspiracy.  Hunted across Europe for reasons she cannot fathom, she is the one person who can stop the attack--if she can live long enough for Pike and Jennifer to find her.
 
-[View on Apple](https://books.apple.com/us/book/novena-for-a-happy-and-faithful-marriage/id1245684404)
-
-<a id="the-let-them-theory"></a>
-## The Let Them Theory
-
-![The Let Them Theory](../../logos/6532590423-39b75cb0.png)
-
-<b>Over 10 Million Copies Sold!<br />#1 <i>New York Times</i> Bestseller<br />#1 <i>Sunday Times</i> Bestseller<br />#1 Amazon Bestseller<br />#1 Audible Bestseller<br /><br /><i>A Life-Changing Tool Millions of People Can’t Stop Talking About</i></b><br /><br />What if the key to happiness, success, and love was as simple as two words?<br /><br />If you've ever felt stuck, overwhelmed, or frustrated with where you are, the problem isn't you. The problem is the power you give to other people. Two simple words—<i>Let Them</i>—will set you free. Free from the opinions, drama, and judgments of others. Free from the exhausting cycle of trying to manage everything and everyone around you. <i>The Let Them Theory</i> puts the power to create a life you love back in your hands—and this book will show you exactly how to do it.<br /><br />In her latest groundbreaking book, <i>The Let Them Theory</i>, Mel Robbins—<i>New York Times</i> bestselling author and one of the world's most respected experts on motivation, confidence, and mindset—teaches you how to stop wasting energy on what you can't control and start focusing on what truly matters: YOU. Your happiness. Your goals. Your life.<br /><br />Using the same no-nonsense, science-backed approach that's made <i>The Mel Robbins Podcast</i> a global sensation, Robbins explains why <i>The Let Them Theory</i> is already loved by millions and how you can apply it in eight key areas of your life to make the biggest impact. Within a few pages, you'll realize how much energy and time you've been wasting trying to control the wrong things—at work, in relationships, and in pursuing your goals—and how this is keeping you from the happiness and success you deserve.<br /><br />Written as an easy-to-understand guide, Robbins shares relatable stories from her own life, highlights key takeaways, relevant research and introduces you to world-renowned experts in psychology, neuroscience, relationships, happiness, and ancient wisdom who champion <i>The Let Them Theory</i> every step of the way.<br /><br /><b>Learn how to:</b><br /><br />Stop wasting energy on things you can't control Stop comparing yourself to other peopleBreak free from fear and self-doubtRelease the grip of people's expectationsBuild the best friendships of your lifeCreate the love you deservePursue what truly matters to you with confidenceBuild resilience against everyday stressors and distractionsDefine your own path to success, joy, and fulfillment. . . and so much more.<br /><br /><i>The Let Them Theory</i> will forever change the way you think about relationships, control, and personal power. Whether you want to advance your career, motivate others to change, take creative risks, find deeper connections, build better habits, start a new chapter, or simply create more happiness in your life and relationships, this book gives you the mindset and tools to unlock your full potential.<br /><br />Order your copy of <i>The Let Them Theory</i> now and discover how much power you truly have. It all begins with two simple words.<br /><br />The cover has been updated to include the name of co-author Sawyer Robbins. Customers may receive either version of the cover at random.
-
-[View on Apple](https://books.apple.com/us/book/the-let-them-theory/id6532590423)
+[View on Apple](https://books.apple.com/us/book/daughter-of-war/id1381157754)
 
 <a id="throne-of-glass"></a>
 ## Throne of Glass
@@ -1037,6 +1071,60 @@ The Assassin&#39;s Blade (prequel novellas)
 
 [View on Apple](https://books.apple.com/us/book/throne-of-glass/id1492495192)
 
+<a id="blindsighted"></a>
+## Blindsighted
+
+![Blindsighted](../../logos/975283603-027290d7.png)
+
+<b>The first Grant County novel by #1 <i>New York Times </i>bestselling author, Karin Slaughter, introducing Sara Linton of the acclaimed Will Trent Series.</b><br /><br /><b>“A bull’s-eye, deftly crafted. . . . Slaughter’s plotting is brilliant, her suspense relentless.” —<i>Washington Post</i></b><br /><br />A small Georgia town erupts in panic when a young college professor is found brutally mutilated in the local diner. But it’s only when town pediatrician and coroner Sara Linton does the autopsy that the full extent of the killer’s twisted work becomes clear.<br /><br />Sara’s ex-husband, police chief Jeffrey Tolliver, leads the investigation—a trail of terror that grows increasingly macabre when another local woman is found crucified a few days later. But he’s got more than a sadistic serial killer on his hands, because the county’s only female detective, Lena Adams—the first victim’s sister—wants to serve her own justice.<br /><br />But it is Sara who holds the key to finding the killer. A secret from her past could unmask the brilliantly malevolent psychopath… or mean her death.
+
+[View on Apple](https://books.apple.com/us/book/blindsighted/id975283603)
+
+<a id="midnight"></a>
+## Midnight
+
+![Midnight](../../logos/6741888583-60c51fba.png)
+
+<b>“Sharon Sala is a consummate storyteller.” —Debbie Macomber, #1 <i>New York Times </i>bestselling author</b><br /><br /><b>Crossroads, Texas, is a town of second chances in this new small town romance series from Sharon Sala,&#xa0;<i>New York Times </i>and <i>USA Today </i>bestselling author of the Blessings, Georgia series.</b><br /><br />Asher Kingston is a special investigator for the Texas Attorney General’s office in Austin, TX. When he gets a call that his dad has been injured in an attempted robbery of his bar, he rounds up his two brothers and heads back to Crossroads. During visiting hours at the hospital, Nora Borden, Asher’s girlfriend from high school, runs into him and they rekindle their friendship. Nora is a high-profile computer tech with a high security clearance; Asher claims his job too unpredictable for relationships. But before long, their romance rekindles as well. Together they unravel a case long gone cold to find out what happened in the bar late that night and to clear the Kingston family name.
+
+[View on Apple](https://books.apple.com/us/book/midnight/id6741888583)
+
+<a id="morning-star"></a>
+## Morning Star
+
+![Morning Star](../../logos/961403999-d31ce51f.png)
+
+<b>#1 <i>NEW YORK TIMES </i>BESTSELLER • <i>Red Rising</i> thrilled readers and announced the presence of a talented new author. <i>Golden Son </i>changed the game and took the story of Darrow to the next level. Now comes the exhilarating next chapter in the Red Rising Saga: <i>Morning Star.</i></b><br /><br /><b>ITW THRILLER AWARD FINALIST <b>•&#xa0;“[Brown’s] achievement is in creating an uncomfortably familiar world of flaw, fear, and promise.”—<i>Entertainment Weekly</i></b></b><br /><br />Darrow would have lived in peace, but his enemies brought him war. The Gold overlords demanded his obedience, hanged his wife, and enslaved his people. But Darrow is determined to fight back. Risking everything to transform himself and breach Gold society, Darrow has battled to survive the cutthroat rivalries that breed Society’s mightiest warriors, climbed the ranks, and waited patiently to unleash the revolution that will tear the hierarchy apart from within.<br /><br /> Finally, the time has come.<br /><br /> But devotion to honor and hunger for vengeance run deep on both sides. Darrow and his comrades-in-arms face powerful enemies without scruple or mercy. Among them are some Darrow once considered friends. To win, Darrow will need to inspire those shackled in darkness to break their chains, unmake the world their cruel masters have built, and claim a destiny too long denied—and too glorious to surrender.<br /><br /><b>Praise for <i>Morning Star</i></b><br /><b><i><br /></i></b>“There is <i>no one</i> writing today who does shameless, Michael Bay–style action set pieces the way Brown does. The battle scenes are kinetic, bloody, breathless, crazy. Everything is on fire all the time.”<b>—NPR</b><br /><br /> “<i>Morning Star </i>is this trilogy’s <i>Return of the Jedi</i>. . . . The impactful battles that make up most of <i>Morning Star </i>are damn near operatic. . . . It absolutely satisfies.”<b>—<i>Tordotcom</i></b><br /><br /> “Excellent . . . Brown’s vivid, first-person prose puts the reader right at the forefront of impassioned speeches, broken families, and engaging battle scenes . . . as this interstellar civil war comes to a most satisfying conclusion.”<b>—<i>Publishers Weekly </i>(starred review)</b><br /><br /> “A page-turning epic filled with twists and turns . . . The conclusion to Brown’s saga is simply stellar.”<b>—<i>Booklist </i>(starred review)<i><br /><br /></i>Don’t miss any of Pierce Brown’s Red Rising Saga:</b><br /><b>RED RISING •&#xa0;GOLDEN SON •&#xa0;MORNING STAR •&#xa0;IRON GOLD •&#xa0;DARK AGE • LIGHT BRINGER</b>
+
+[View on Apple](https://books.apple.com/us/book/morning-star/id961403999)
+
+<a id="a-moveable-feast"></a>
+## A Moveable Feast
+
+![A Moveable Feast](../../logos/381536286-4a864c66.png)
+
+<b>Ernest Hemingway’s classic memoir of Paris in the 1920s, now available in a restored edition, includes the original manuscript along with insightful recollections and unfinished sketches.</b><br /><br />Published posthumously in 1964, <i>A Moveable Feast</i> remains one of Ernest Hemingway’s most enduring works. Since Hemingway’s personal papers were released in 1979, scholars have examined the changes made to the text before publication. Now, this special restored edition presents the original manuscript as the author prepared it to be published.<br /><br />Featuring a personal foreword by Patrick Hemingway, Ernest’s sole surviving son, and an introduction by grandson of the author, Seán Hemingway, editor of this edition, the book also includes a number of unfinished, never-before-published Paris sketches revealing experiences that Hemingway had with his son, Jack, and his first wife Hadley. Also included are irreverent portraits of literary luminaries, such as F. Scott Fitzgerald and Ford Maddox Ford, and insightful recollections of Hemingway’s own early experiments with his craft.<br /><br />Widely celebrated and debated by critics and readers everywhere, the restored edition of <i>A Moveable Feast </i>brilliantly evokes the exuberant mood of Paris after World War I and the unbridled creativity and unquenchable enthusiasm that Hemingway himself epitomized.
+
+[View on Apple](https://books.apple.com/us/book/a-moveable-feast/id381536286)
+
+<a id="fire-and-blood"></a>
+## Fire and Blood
+
+![Fire and Blood](../../logos/1373366236-cd395732.png)
+
+<b>The thrilling history of the Targaryens comes to life in this masterly work by the author of A Song of Ice and Fire, the inspiration for HBO’s <i>Game of Thrones</i>.</b><br /> <b>&#xa0;</b><br /> With all the fire and fury fans have come to expect from internationally bestselling author George R. R. Martin<i>, </i>this is the first volume of the definitive two-part history of the Targaryens in Westeros.<br /> &#xa0;<br /> Centuries before the events of <i>A Game of Thrones,</i> House Targaryen—the only family of dragonlords to survive the Doom of Valyria—took up residence on Dragonstone. <i>Fire and Blood</i> begins their tale with the legendary Aegon the Conqueror, creator of the Iron Throne, and goes on to recount the generations of Targaryens who fought to hold that iconic seat, all the way up to the civil war that nearly tore their dynasty apart.<br /> &#xa0;<br /> What really happened during the Dance of the Dragons? Why did it become so deadly to visit Valyria after the Doom? What is the origin of Daenerys’s three dragon eggs? These are but a few of the questions answered in this essential chronicle, as related by a learned maester of the Citadel and featuring more than eighty all-new black-and-white illustrations by artist Doug Wheatley. Readers have glimpsed small parts of this narrative in such volumes as <i>The World of Ice &amp; Fire, </i>but now, for the first time, the full tapestry of Targaryen history is revealed.<br /> &#xa0;<br /> With all the scope and grandeur of Gibbon’s <i>The History of the Decline and Fall of the Roman Empire,</i> <i>Fire and Blood </i>is the ultimate game of thrones, giving readers a whole new appreciation for the dynamic, often bloody, and always fascinating history of Westeros.
+
+[View on Apple](https://books.apple.com/us/book/fire-and-blood/id1373366236)
+
+<a id="the-let-them-theory"></a>
+## The Let Them Theory
+
+![The Let Them Theory](../../logos/6532590423-39b75cb0.png)
+
+<b>Over 10 Million Copies Sold!<br />#1 <i>New York Times</i> Bestseller<br />#1 <i>Sunday Times</i> Bestseller<br />#1 Amazon Bestseller<br />#1 Audible Bestseller<br /><br /><i>A Life-Changing Tool Millions of People Can’t Stop Talking About</i></b><br /><br />What if the key to happiness, success, and love was as simple as two words?<br /><br />If you've ever felt stuck, overwhelmed, or frustrated with where you are, the problem isn't you. The problem is the power you give to other people. Two simple words—<i>Let Them</i>—will set you free. Free from the opinions, drama, and judgments of others. Free from the exhausting cycle of trying to manage everything and everyone around you. <i>The Let Them Theory</i> puts the power to create a life you love back in your hands—and this book will show you exactly how to do it.<br /><br />In her latest groundbreaking book, <i>The Let Them Theory</i>, Mel Robbins—<i>New York Times</i> bestselling author and one of the world's most respected experts on motivation, confidence, and mindset—teaches you how to stop wasting energy on what you can't control and start focusing on what truly matters: YOU. Your happiness. Your goals. Your life.<br /><br />Using the same no-nonsense, science-backed approach that's made <i>The Mel Robbins Podcast</i> a global sensation, Robbins explains why <i>The Let Them Theory</i> is already loved by millions and how you can apply it in eight key areas of your life to make the biggest impact. Within a few pages, you'll realize how much energy and time you've been wasting trying to control the wrong things—at work, in relationships, and in pursuing your goals—and how this is keeping you from the happiness and success you deserve.<br /><br />Written as an easy-to-understand guide, Robbins shares relatable stories from her own life, highlights key takeaways, relevant research and introduces you to world-renowned experts in psychology, neuroscience, relationships, happiness, and ancient wisdom who champion <i>The Let Them Theory</i> every step of the way.<br /><br /><b>Learn how to:</b><br /><br />Stop wasting energy on things you can't control Stop comparing yourself to other peopleBreak free from fear and self-doubtRelease the grip of people's expectationsBuild the best friendships of your lifeCreate the love you deservePursue what truly matters to you with confidenceBuild resilience against everyday stressors and distractionsDefine your own path to success, joy, and fulfillment. . . and so much more.<br /><br /><i>The Let Them Theory</i> will forever change the way you think about relationships, control, and personal power. Whether you want to advance your career, motivate others to change, take creative risks, find deeper connections, build better habits, start a new chapter, or simply create more happiness in your life and relationships, this book gives you the mindset and tools to unlock your full potential.<br /><br />Order your copy of <i>The Let Them Theory</i> now and discover how much power you truly have. It all begins with two simple words.<br /><br />The cover has been updated to include the name of co-author Sawyer Robbins. Customers may receive either version of the cover at random.
+
+[View on Apple](https://books.apple.com/us/book/the-let-them-theory/id6532590423)
+
 <a id="my-husband-s-wife"></a>
 ## My Husband's Wife
 
@@ -1046,84 +1134,14 @@ The Assassin&#39;s Blade (prequel novellas)
 
 [View on Apple](https://books.apple.com/us/book/my-husbands-wife/id6746127195)
 
-<a id="everything-was-beautiful-and-nothing-hurt"></a>
-## Everything Was Beautiful and Nothing Hurt
+<a id="god-s-homecoming"></a>
+## God's Homecoming
 
-![Everything Was Beautiful and Nothing Hurt](../../logos/6754252150-8903a49d.png)
+![God's Homecoming](../../logos/1553748355-f034b595.png)
 
-<b><i>NEW YORK TIMES </i>BESTSELLER • “A gorgeous reminder of what really matters. Prepare to be astounded.” —<i>People</i> • “One of the best, most moving books I have read in years.” —Scott Detrow, NPR • “This is one of the most affecting, original, and unforgettable novels I have ever read.” —Sarah Damoff, author of <i>The Bright Years</i><br /><br /> For fans of Fredrik Backman and Virginia Evans, an astonishing novel about finding beauty in the brevity of life, as narrated by the one who knows it best: Death.</b><br /><br />Travis is Death in the modern world. He lives with his cat in a small, gray town. His job is to offer people comfort in their final hours of life, which he does without complaint or judgement. He’s stoic, gentle, and a little naive, despite who he is, but he never tries to change anyone’s fate. He is responsible for maintaining the balance of nature, and every life must eventually end.<br /><br /> Then Travis meets Dalia, a midwife, and her boisterous eight-year-old daughter Layla, who live across the hall, and despite his best attempts to keep his distance, he finds himself wholeheartedly embraced by other people for the first time. So it is with this seemingly unremarkable family that Travis begins to understand what it means to be truly alive—and what might be irrevocably lost in death.<br /><br /> Written with radiant warmth, wisdom, and compassion, <i>Everything Was Beautiful and Nothing Hurt</i> is a timeless and ultimately uplifting story about appreciating life, accepting its end, and finding our place in the universe—especially when it feels most impossible—that will resonate with anyone who has ever loved and lost or worried about time’s passing.
+A defining major work from today’s leading Bible scholar: N. T. Wright traces the biblical promise of God’s care for the future, offering authentic hope in a chaotic age.<br /><br />Many devout believers have been lured into the classic misunderstanding that Christianity teaches how we must leave earth and go somewhere else to be with God. But this outlook dangerously suggests that God created a world he loves only to abandon it. Nothing could be further from the scriptural truth, N. T. Wright contends. In God’s Homecoming, Wright excavates the forgotten story of God’s original purpose to dwell with us and make his home—and ours—in this new creation.<br /><br />In his groundbreaking Surprised by Hope, Wright dismantled the “going to heaven” narrative. In God’s Homecoming, he returns with a panoramic pilgrimage tracing God’s homecoming promise from Genesis through Revelation. When we read the Bible as a whole, Wright argues, we do not find a narrative of souls ascending a spiritual ladder to heaven, but of God coming down to dwell with us.<br /><br />Revolutionary and grounded in biblical research, Wright leads readers through the movements of the promise: God created heaven and earth to be his own home, he filled the temple with his presence, then the church with the Holy Spirit, and promises that the all creation will again be filled with his glory. He traces how the popular Christian reading got it wrong—as well as the radical transformation that awaits us and the church today if we return to God’s original vision.<br /><br />Until we recover this forgotten story, Wright warns, we will keep distorting the Bible’s message. Yet, he argues, its recovery could be the key to revitalizing every aspect of Christian life as we know it: prayer, mission, evangelism, pastoral practice, and personal devotion.
 
-[View on Apple](https://books.apple.com/us/book/everything-was-beautiful-and-nothing-hurt/id6754252150)
-
-<a id="someone-like-you"></a>
-## Someone Like You
-
-![Someone Like You](../../logos/6448414133-d8995ed2.png)
-
-<b>From the #1 <i>New York Times</i>–bestselling author of <i>Falling for Gracie</i>: "When you think of passion, drama and heartwarming stories, think Susan Mallery." —<i>RT Book Reviews</i> (Top Pick)</b><br />
-   Jill Strathern left town for the big city and never looked back—until she returned home years later to run a small law practice. It turns out her childhood crush, Mac Kendrick, a burned-out LAPD cop, has also come back to sleepy Los Lobos. Even though Mac rejected her back in high school, Jill can't deny the attraction she still feels for him.
-   <br />
-   Now Jill and Mac are tangled in enough drama to satisfy the most jaded L.A. denizens—Mafia dons, social workers, angry exes and one very quirky eight-year-old make even the simplest romance complicated. And it all goes to prove that when it comes to affairs of the heart, there's no place like home. An unlikely pair&#xa0;.&#xa0;.&#xa0;. but a perfect match.
-   <br /><b>Praise for <i>Falling for Gracie</i></b><br />
-   "Susan Mallery really is a small-town romance goddess&#xa0;.&#xa0;.&#xa0;. <i>Falling for Gracie</i> was a great example of everything there is to love about Susan Mallery romances." —<i>Cheeky Reads</i><br />
-   "Filled with humor, warmth and strong characters." —<i>Contemporary Romance Writers</i><br />
-   "The interactions and the intense emotions between the characters make for a fun and interesting read." —<i>All About Romance</i>
-
-[View on Apple](https://books.apple.com/us/book/someone-like-you/id6448414133)
-
-<a id="look-again"></a>
-## Look Again
-
-![Look Again](../../logos/386001471-c8b1f3a5.png)
-
-<b> Lisa Scottoline breaks new ground in <i>Look Again</i>, a thriller that's both heart-stopping and heart-breaking, and sure to have new fans and book clubs buzzing. </b><br /><br /> When reporter Ellen Gleeson gets a "Have You Seen This Child?" flyer in the mail, she almost throws it away. But something about it makes her look again, and her heart stops—the child in the photo is identical to her adopted son, Will. Her every instinct tells her to deny the similarity between the boys, because she knows her adoption was lawful. But she's a journalist and won't be able to stop thinking about the photo until she figures out the truth. <br /><br />And she can't shake the question: if Will rightfully belongs to someone else, should she keep him or give him up? She investigates, uncovering clues no one was meant to discover, and when she digs too deep, she risks losing her own life—and that of the son she loves.
-
-[View on Apple](https://books.apple.com/us/book/look-again/id386001471)
-
-<a id="old-girls-go-off-the-rails"></a>
-## Old Girls Go Off the Rails
-
-![Old Girls Go Off the Rails](../../logos/6755237873-d19ad3cd.png)
-
-A BRAND NEW hilarious, uplifting read, full of friendship and fun - from BESTSELLER Maddie Please✨ Perfect for fans of Judy Leigh, Kate Galley and Dee MacDonald!<br /><br />A one way ticket to misadventure! 🚂🎟️💼<br /><br />When Lizzie Stevens was eighteen, life took a wrong turn. While her best friends Harriet and Anna went interrailing across Europe, Lizzie stayed behind—shunted into a dusty bank job and a sensible life that never quite got back on track.<br /><br />Now sixty-four, freshly divorced from terminally dull Freddie and wondering how she ended up here, Lizzie is unexpectedly reunited with the friends who left her behind. This time, she’s not missing the train.<br /><br />Their plan? A gloriously reckless rail adventure across Europe. The women are older, allegedly wiser, and considerably less flexible—but their bags are packed and they’re ready to depart.<br /><br />Yet once the train pulls out of Worcester, it’s clear this journey won’t be smooth. Old secrets derail fond memories, Harriet and Anna barely tolerate each other, and Lizzie discovers the trip she idolised for decades wasn’t quite first-class.<br /><br />As they rattle from city to city - Paris to Venice before embarking on a cruise along the Croatian coast - the old girls are fuelled by laughter and questionable decisions. And Lizzie begins to realise it’s never too late to change direction—and that the best adventures are the ones without a timetable.<br /><br />All aboard for another hilarious and heartwarming adventure with bestselling author Maddie Please<br /><br />Praise for Maddie Please:<br /><br />'Sea, sunshine, romance and fabulous characters; Maddie's light touch and sense of fun will lift your spirits!' Bestselling author Judy Leigh<br /><br />'Warm, funny and poignant with engaging characters, it reminds us that you’re never too old for fun, romance and to learn new things!' Bestselling author Karen King<br /><br />'A new lease of life under the Greek sun. As fresh and delicious as chilled retsina!' Sunday Times Bestselling author Phillipa Ashley<br /><br />'For a book that’s as cheering and restorative as a long lunch with your very best friend, Maddie Please is the author you need to know!' Bestselling author Chris Manby<br /><br />'Genuine and life-affirming…a wonderful, lighthearted novel about how it is never too late to find happiness.’ Bestselling author Kitty Wilson<br /><br />'A heart-warming story filled with friendship and fun. It's official - I want to be an Old Duck!' Bestselling author Maisie Thomas
-
-[View on Apple](https://books.apple.com/us/book/old-girls-go-off-the-rails/id6755237873)
-
-<a id="d-day"></a>
-## D-Day
-
-![D-Day](../../logos/602272015-e118dea0.png)
-
-<b>Stephen E. Ambrose’s <i>D-Day </i>is the definitive history of World War II’s most pivotal battle, a day that changed the course of history.</b><br /><br /><i>D-Day</i> is the epic story of men at the most demanding moment of their lives, when the horrors, complexities, and triumphs of life are laid bare. Distinguished historian Stephen E. Ambrose portrays the faces of courage and heroism, fear and determination—what Eisenhower called “the fury of an aroused democracy”—that shaped the victory of the citizen soldiers whom Hitler had disparaged.<br /><br />Drawing on more than 1,400 interviews with American, British, Canadian, French, and German veterans, Ambrose reveals how the original plans for the invasion had to be abandoned, and how enlisted men and junior officers acted on their own initiative when they realized that nothing was as they were told it would be.<br /><br /> The action begins at midnight, June 5/6, when the first British and American airborne troops jumped into France. It ends at midnight June 6/7. Focusing on those pivotal twenty-four hours, it moves from the level of Supreme Commander to that of a French child, from General Omar Bradley to an American paratrooper, from Field Marshal Montgomery to a German sergeant. Ambrose’s <i>D-Day </i>is the finest account of one of our history’s most important days.
-
-[View on Apple](https://books.apple.com/us/book/d-day/id602272015)
-
-<a id="iron-flame"></a>
-## Iron Flame
-
-![Iron Flame](../../logos/6448919432-2f3ef9e9.png)
-
-<b>Discover the instant #1 <i>New York Times</i> bestseller! TV series now in development at MGM Amazon Studios with Michael B. Jordan’s Outlier Society.<br /><br />Accolades for <i>Fourth Wing</i><br />Amazon Best Books of the Year, #4 • Apple Best Books of the Year 2023 • Barnes &amp; Noble Best Fantasy Book of 2023 (<i>Fourth Wing</i> and <i>Iron Flame</i>) • NPR “Books We Love” 2023 • Audible Best Books of 2023 • Hudson Book of the Year • Google Play Best Books of 2023 • Indigo Best Books of 2023 • Waterstones Book of the Year finalist • Goodreads Choice Award, semi-finalist • Newsweek Staffers’ Favorite Books of 2023</b><i><b> • </b></i><b>Paste Magazine's Best Books of 2023</b><br /><br /><i><b>“The first year is when some of us lose our lives. The second year is when the rest of us lose our humanity.”  —Xaden Riorson</b></i><br /><br />Everyone expected Violet Sorrengail to die during her first year at Basgiath War College—Violet included. But Threshing was only the first impossible test meant to weed out the weak-willed, the unworthy, and the unlucky.<br /><br />Now the <i>real</i> training begins, and Violet’s already wondering how she’ll get through. It’s not just that it’s grueling and maliciously brutal, or even that it’s designed to stretch the riders’ capacity for pain beyond endurance. It’s the new vice commandant, who’s made it his personal mission to teach Violet <i>exactly</i> how powerless she is–unless she betrays the man she loves.<br /><br />Although Violet’s body might be weaker and frailer than everyone else’s, she still has her wits—and a will of iron. And leadership is forgetting the most important lesson Basgiath has taught her: <i>Dragon riders make their own rules</i>.<br /><br />But a determination to survive won’t be enough this year.<br /><br />Because Violet knows the real secret hidden for centuries at Basgiath War College—and nothing, not even dragon fire, may be enough to save them in the end.<br /><br />The Empyrean series is best enjoyed in order.<br />Reading Order:<br />Book #1 Fourth Wing<br />Book #2 Iron Flame
-
-[View on Apple](https://books.apple.com/us/book/iron-flame/id6448919432)
-
-<a id="broken-country-reese-s-book-club"></a>
-## Broken Country (Reese's Book Club)
-
-![Broken Country (Reese's Book Club)](../../logos/6503703315-025ba4a7.png)
-
-<b>Over 1 Million Copies Sold</b><br /><br /><b>A REESE’S BOOK CLUB PICK | A <i>NEW YORK TIMES</i> BESTSELLER<br /><br /> <b>“<i>Broken Country</i> by Clare Leslie Hall is an unforgettable story of love, loss, and the choices that shape our lives…but it’s also a masterfully crafted mystery that will keep you guessing until the very last page. Seriously, that ending?! I did not see it coming.” —Reese Witherspoon</b><br /><br /> <b>“Stirring and mysterious…fires directly at the human heart and hits the mark.” —Delia Owens, <i>New York Times</i> bestselling author of <i>Where the Crawdads Sing</i></b><br /><br /> <b>A love triangle unearths dangerous, deadly secrets from the past in this thrilling tale perfect for fans of <i>The Paper Palace </i>and <i>Where the Crawdads Sing</i>.</b></b><br /><br /><i>“The farmer is dead. He is dead, and all anyone wants to know is who killed him.”</i><br /><br />Beth and her gentle, kind husband Frank are happily married, but their relationship relies on the past staying buried. But when Beth’s brother-in-law shoots a dog going after their sheep, Beth doesn’t realize that the gunshot will alter the course of their lives. For the dog belonged to none other than Gabriel Wolfe, the man Beth loved as a teenager—the man who broke her heart years ago. Gabriel has returned to the village with his young son Leo, a boy who reminds Beth very much of her own son, who died in a tragic accident.<br /><br />As Beth is pulled back into Gabriel’s life, tensions around the village rise and dangerous secrets and jealousies from the past resurface, this time with deadly consequences. Beth is forced to make a choice between the woman she once was, and the woman she has become.<br /><br />A sweeping love story with the pace and twists of a thriller, <i>Broken Country</i> is a novel of simmering passion, impossible choices, and explosive consequences that toggles between the past and present to explore the far-reaching legacy of first love.
-
-[View on Apple](https://books.apple.com/us/book/broken-country-reeses-book-club/id6503703315)
-
-<a id="verity"></a>
-## Verity
-
-![Verity](../../logos/1587655925-a7017ed0.png)
-
-<b>Whose truth is the lie?<br /><br /> Stay up all night reading the sensational psychological thriller that has readers obsessed—the inspiration for the major motion picture starring Anne Hathaway and Dakota Johnson—from the #1 <i>New York Times</i> bestselling author of <i>Too Late</i> and <i>It Ends With Us</i>.<br /><br /> #1 <i>New York Times</i> Bestseller · <i>USA Today</i> Bestseller · <i>Globe and Mail</i> Bestseller · <i>Publishers Weekly</i> Bestseller </b><br /><br /> Lowen Ashleigh is a struggling writer on the brink of financial ruin when she accepts the job offer of a lifetime. Jeremy Crawford, husband of bestselling author Verity Crawford, has hired Lowen to complete the remaining books in a successful series his injured wife is unable to finish. Lowen arrives at the Crawford home, ready to sort through years of Verity’s notes and outlines, hoping to find enough material to get her started.<br /><br /> What Lowen doesn’t expect to uncover in the chaotic office is an unfinished autobiography Verity never intended for anyone to read—page after page of bone-chilling admissions, including Verity’s recollection of the night her family was forever altered. Lowen decides to keep the manuscript hidden from Jeremy, knowing its contents could devastate the already grieving father. But as Lowen’s feelings for Jeremy begin to intensify, she recognizes all the ways she could benefit if he were to read his wife’s words.<br /><br /> After all, no matter how devoted Jeremy is to his injured wife, a truth this horrifying would make it impossible for him to continue loving her.<br /><br /><b>“Sublimely creepy with a true Hoover pulse. I’ve been waiting for a thriller like this for years.” —Tarryn Fisher, <i>New York Times</i> bestselling author of <i>The Wrong Family</i><br /><br /> Riveting and unexpected. Impossible to put down.” —Claire Contreras, <i>New York Times</i> bestselling author of <i>Until I Get You</i></b>
-
-[View on Apple](https://books.apple.com/us/book/verity/id1587655925)
+[View on Apple](https://books.apple.com/us/book/gods-homecoming/id1553748355)
 
 <a id="the-yates-protocol"></a>
 ## The Yates Protocol
@@ -1134,14 +1152,11 @@ A BRAND NEW hilarious, uplifting read, full of friendship and fun - from BESTSEL
 
 [View on Apple](https://books.apple.com/us/book/the-yates-protocol/id6744875610)
 
-<a id="the-rancher-s-fake-fiance-e"></a>
-## The Rancher’s Fake Fiancée
+<a id="when-i-kill-you"></a>
+## When I Kill You
 
-![The Rancher’s Fake Fiancée](../../logos/6743446385-a13cb67a.png)
+![When I Kill You](../../logos/6744894750-f8ec5859.png)
 
-US Marshal&#xa0;Cassie Parker<b>&#xa0;</b>excels under cover. When her boss sends her to Red Cliffs, Texas, to keep tabs on the criminal mastermind she’s been hunting for three years, she jumps at the chance. But convincing the irritatingly handsome rancher,&#xa0;Cole Connors, to play along might be her hardest mission yet.&#xa0;<br />
-When Cole learns his ex-wife is unexpectedly arriving with a fiancé in tow who might be a criminal, he’ll do anything to protect his eight-year-old daughter, even pose as a happy couple with the sassy and sexy marshal with control issues.&#xa0;<br />
-As Cassie and Cole pretend to be engaged, it’s challenging to remember what’s real and what’s fake. For Cassie, the time spent with Cole and his daughter awakens a yearning for more than a career diving into one undercover job to the next, never having roots or a home. Cole is leery of letting down his guard as he’s been burned before.&#xa0;&#xa0;<br />
-When the threat is over and Cassie’s assignment ends, can their make-believe engagement become something real?
+<b>The multimillion-copy and <i>New York Times</i> bestseller B. A. Paris returns with a triumphant, unsettling next suspense novel, <i>When I Kill You</i>.</b><br /><br /><i>Who is watching Nell Masters?</i><br /><br />Nell Masters is certain someone is following her. The hairs on the back of her neck rise when she travels to and from work, there are silent calls to her office, and a huge bouquet of flowers arrives without a card. And Nell has a reason to be looking over her shoulder, because she has a secret that she’s hiding from everyone in her life, including her new partner, Alex. But Alex also has secrets of his own.<br /><br />Fourteen years earlier, when Nell went by the name Elle Nugent, she witnessed a student, Bryony Sanders, getting into a stranger’s car. When Bryony was found murdered, Elle became obsessed with finding the person responsible. She was convinced she knew who it was and her fixation with Brett Parker, the man she accused, led her down a dangerous path . . . <br /><br />Now, Nell tries to convince herself that this unnerving feeling of being watched is all in her mind. Has someone from her past discovered her new identity? Has the stalker become the stalked? Or is there something even more deadly at play?
 
-[View on Apple](https://books.apple.com/us/book/the-ranchers-fake-fianc%C3%A9e/id6743446385)
+[View on Apple](https://books.apple.com/us/book/when-i-kill-you/id6744894750)

@@ -5,99 +5,99 @@
 - [Parchment: Agenda & Daily Note](#parchment-agenda-daily-note)
 - [Paprika Rezept-Manager 3](#paprika-rezept-manager-3)
 - [SkyView®](#skyview)
+- [TonalEnergy Tuner & Metronome](#tonalenergy-tuner-metronome)
 - [PeakFinder](#peakfinder)
-- [TonalEnergy Stimmgerät & Metro](#tonalenergy-stimmgera-t-metro)
 - [RadarScope](#radarscope)
 - [Spirit Talker ®](#spirit-talker)
 - [Streaks](#streaks)
 - [Monash FODMAP Diet](#monash-fodmap-diet)
 - [FL Studio Mobile](#fl-studio-mobile)
 - [MilGPS](#milgps)
-- [Shot Tracer](#shot-tracer)
 - [AutoSleep - 苹果手表睡眠监测，睡觉记录及智能闹钟](#autosleep-苹果手表睡眠监测-睡觉记录及智能闹钟)
-- [LiveATC Air Radio](#liveatc-air-radio)
-- [Blueprint 4-Track](#blueprint-4-track)
+- [Shot Tracer](#shot-tracer)
 - [Wipr 2](#wipr-2)
+- [LiveATC Air Radio](#liveatc-air-radio)
 - [Threema. Der sichere Messenger](#threema-der-sichere-messenger)
+- [Blueprint 4-Track](#blueprint-4-track)
 - [HeartWatch: 心脏和活动监测器](#heartwatch-心脏和活动监测器)
-- [imo video calls and chat HD](#imo-video-calls-and-chat-hd)
 - [Goblin Tools](#goblin-tools)
 - [Moment Pro Camera II](#moment-pro-camera-ii)
-- [FORScan Lite - for Ford, Mazda](#forscan-lite-for-ford-mazda)
 - [Stylebook](#stylebook)
-- [Cloud Baby Monitor](#cloud-baby-monitor)
+- [imo video calls and chat HD](#imo-video-calls-and-chat-hd)
+- [FORScan Lite - for Ford, Mazda](#forscan-lite-for-ford-mazda)
 - [Koala Sampler • Beat Maker](#koala-sampler-beat-maker)
+- [Cloud Baby Monitor](#cloud-baby-monitor)
 - [PhotoPills](#photopills)
-- [Necrophonic](#necrophonic)
-- [Ableton Note](#ableton-note)
-- [Mein Blitz-Tracker Pro](#mein-blitz-tracker-pro)
-- [e-Sword LT: Bible Study to Go](#e-sword-lt-bible-study-to-go)
-- [QuickBend: Conduit Bending](#quickbend-conduit-bending)
-- [Blower](#blower)
-- [MyRadar Weather Radar Pro](#myradar-weather-radar-pro)
-- [WorkOutDoors](#workoutdoors)
-- [AutoSnore: 鼾声记录器](#autosnore-鼾声记录器)
-- [HappyCow - Vegan Food Near You](#happycow-vegan-food-near-you)
-- [OBD Fusion](#obd-fusion)
-- [Necrometer](#necrometer)
 - [Pocket God](#pocket-god)
+- [Mein Blitz-Tracker Pro](#mein-blitz-tracker-pro)
+- [Noir - Dark Mode for Safari](#noir-dark-mode-for-safari)
+- [Necrophonic](#necrophonic)
+- [AutoSnore: 鼾声记录器](#autosnore-鼾声记录器)
 - [Things 3](#things-3)
-- [iReal Pro](#ireal-pro)
+- [Ableton Note](#ableton-note)
+- [Necrometer](#necrometer)
+- [HappyCow - Vegan Food Near You](#happycow-vegan-food-near-you)
+- [e-Sword LT: Bible Study to Go](#e-sword-lt-bible-study-to-go)
+- [WorkOutDoors](#workoutdoors)
 - [White Noise](#white-noise)
 - [Stack the States®](#stack-the-states)
+- [Blower](#blower)
+- [OBD Fusion](#obd-fusion)
+- [QuickBend: Conduit Bending](#quickbend-conduit-bending)
+- [iReal Pro](#ireal-pro)
+- [TeleGuard](#teleguard)
+- [MyRadar Weather Radar Pro](#myradar-weather-radar-pro)
 - [YoungPhoto - Aesthetic Camera](#youngphoto-aesthetic-camera)
 - [Knoten 3D  (Knots 3D)](#knoten-3d-knots-3d)
 - [Stop Motion Studio Pro](#stop-motion-studio-pro)
-- [Noir - Dark Mode for Safari](#noir-dark-mode-for-safari)
-- [CCW – Concealed Carry 50 State](#ccw-concealed-carry-50-state)
-- [ملكة: للباحثين عن شريك الحياة](#ملكة-للباحثين-عن-شريك-الحياة)
-- [Jump Desktop (RDP, VNC, Fluid)](#jump-desktop-rdp-vnc-fluid)
-- [Pedi STAT](#pedi-stat)
-- [Label Pics](#label-pics)
-- [iWebTV PRO](#iwebtv-pro)
-- [HamStudy.org](#hamstudy-org)
-- [HealthFit](#healthfit)
 - [Stash - Rule Based Proxy](#stash-rule-based-proxy)
-- [Just Press Record](#just-press-record)
-- [Couch to 5K® - Run training](#couch-to-5k-run-training)
-- [TeleGuard](#teleguard)
-- [NightCap相机](#nightcap相机)
+- [Pedi STAT](#pedi-stat)
 - [Tenuto](#tenuto)
-- [Teach Your Monster to Read](#teach-your-monster-to-read)
-- [FSD Hunter](#fsd-hunter)
+- [Jump Desktop (RDP, VNC, Fluid)](#jump-desktop-rdp-vnc-fluid)
+- [CCW – Concealed Carry 50 State](#ccw-concealed-carry-50-state)
+- [Label Pics](#label-pics)
+- [HealthFit](#healthfit)
+- [ملكة: للباحثين عن شريك الحياة](#ملكة-للباحثين-عن-شريك-الحياة)
+- [iWebTV PRO](#iwebtv-pro)
+- [Just Press Record](#just-press-record)
+- [HamStudy.org](#hamstudy-org)
+- [Wagotabi : Cours de japonais](#wagotabi-cours-de-japonais)
+- [Couch to 5K® - Run training](#couch-to-5k-run-training)
+- [NightCap相机](#nightcap相机)
 - [LumaFusion](#lumafusion)
 - [Ghost Science M3](#ghost-science-m3)
+- [Teach Your Monster to Read](#teach-your-monster-to-read)
+- [FSD Hunter](#fsd-hunter)
 - [Roadside America](#roadside-america)
-- [Land Nav Assistant](#land-nav-assistant)
+- [Berry胶片相机 - 韩系自拍神器](#berry胶片相机-韩系自拍神器)
 - [Rarevision VHS: Retro Cam](#rarevision-vhs-retro-cam)
-- [PromptSmart Pro - Teleprompter](#promptsmart-pro-teleprompter)
-- [Blitzer.de PRO](#blitzer-de-pro)
-- [Wagotabi : Cours de japonais](#wagotabi-cours-de-japonais)
+- [iFacialMocap](#ifacialmocap)
 - [PractiScore Competitor](#practiscore-competitor)
 - [Cozmo Robot](#cozmo-robot)
+- [Land Nav Assistant](#land-nav-assistant)
 - [PepCalc: Peptide Calculator](#pepcalc-peptide-calculator)
 - [iVerify Basic](#iverify-basic)
+- [PromptSmart Pro - Teleprompter](#promptsmart-pro-teleprompter)
+- [SkySafari](#skysafari)
 - [Solocator - GPS Field Camera](#solocator-gps-field-camera)
-- [Berry胶片相机 - 韩系自拍神器](#berry胶片相机-韩系自拍神器)
+- [Blitzer.de PRO](#blitzer-de-pro)
+- [Essential Anatomy 5](#essential-anatomy-5)
+- [Due - Reminders & Timers](#due-reminders-timers)
+- [Scrivener](#scrivener)
 - [My Earthquake Alerts Pro](#my-earthquake-alerts-pro)
+- [Sun Seeker - Tracker & Compass](#sun-seeker-tracker-compass)
 - [Nomad Sculpt](#nomad-sculpt)
 - [Print to Size](#print-to-size)
-- [Slow Shutter Cam](#slow-shutter-cam)
-- [Essential Anatomy 5](#essential-anatomy-5)
-- [Sporty's E6B Flight Computer](#sporty-s-e6b-flight-computer)
-- [DJ Rehab Music](#dj-rehab-music)
-- [myLightMeter PRO](#mylightmeter-pro)
-- [Scrivener](#scrivener)
-- [FlashFace Full](#flashface-full)
-- [RadarOmega: Doppler Radar App](#radaromega-doppler-radar-app)
-- [Sun Seeker - Sunlight Tracker](#sun-seeker-sunlight-tracker)
-- [forScore](#forscore)
-- [JB4 Mobile](#jb4-mobile)
-- [R8 Companion](#r8-companion)
-- [iFacialMocap](#ifacialmocap)
 - [Earthquake Network](#earthquake-network)
-- [SkySafari](#skysafari)
 - [StbEmuTV (Pro)](#stbemutv-pro)
+- [myLightMeter PRO](#mylightmeter-pro)
+- [RadarOmega: Doppler Radar App](#radaromega-doppler-radar-app)
+- [forScore](#forscore)
+- [Slow Shutter Cam](#slow-shutter-cam)
+- [Sporty's E6B Flight Computer](#sporty-s-e6b-flight-computer)
+- [Stack the Countries®](#stack-the-countries)
+- [QZ - qdomyos-zwift](#qz-qdomyos-zwift)
+- [DJ Rehab Music](#dj-rehab-music)
 
 <a id="shadowrocket"></a>
 ## Shadowrocket
@@ -373,6 +373,67 @@ Eine unterhaltsame Art sich selbst, Kindern, Studenten oder Freunden die Wunder 
 
 [View on Apple](https://apps.apple.com/us/app/skyview/id404990064)
 
+<a id="tonalenergy-tuner-metronome"></a>
+## TonalEnergy Tuner & Metronome
+
+![TonalEnergy Tuner & Metronome](../../logos/497716362-e72ea50e.png)
+
+For musicians from pros to beginners, whether you sing, play a brass, woodwind or stringed instrument or any type of guitar, this app provides a set of feature-rich practice tools that gives fun and rewarding feedback. It’s much more than just a tuner!
+      
+So what makes the TonalEnergy the best selling music practice app?
+ 
+• It's an all-in-one app, with a state-of-the-art tuner, an advanced metronome, dedicated orchestral strings and guitar tuning page, a piano keyboard, sound analysis pages, and audio/visual recording capabilities.
+
+• It’s easy to use. Options like the Target Tuner or Pitch Tracker are on all the main pages.  TonalEnergy helps users create rewarding and attainable goals during a rehearsal or when working alone. Colorful analysis data pages and audio/video recording features enhance the experience of practice.  
+
+• The metronome is cutting edge. It offers unmatched flexibility in sound choices, tempo settings, meters, subdivision patterns and visual displays. Voice count-ins, the ability to create and edit preset groups and Ableton link for syncing multiple devices make this a superior tool for performers. 
+
+• Ear training possibilities are endless. The high quality multi-sampled instrument sounds for symphonic instruments are unique among all other tuning applications. Listening skills can be developed through the use of the eight-octave keyboard, chromatic wheel and tone generator. There are no other sounds like these. 
+
+• Learning is a social activity. Using features unique to the TonalEnergy Tuner, data can be collected, reviewed, edited and shared with others. Feedback is essential for growing and developing great performers. It’s all about connectivity.
+
+Chris Coletti, member of The Canadian Brass, sums up TonalEnergy by saying,
+
+      “TonalEnergy is a must-have for any serious musician. It's a full suite of tools in one app; the tuner, tone generator, recorder, metronome and beautiful interface make it one of the best tools for musicians out there, period.” 
+
+FEATURES
+
+• Recognizes a large pitch range, extending to lower registers than many competing tuners (C0 - C8) that is highly responsive to wind instruments, as well as acoustic and electric string instruments
+• Adjustable A=440 Hz reference 
+• Automatic or manual transposing options
+• Instantly changes between equal, just and other custom temperaments, including user-defined ones
+• Auto or instant pitch reference note feature using the TonalEnergy sounds
+• Extensive tuning list for all orchestral string and fretted string instruments including many more features than most other string-only tuner apps
+• An expandable eight octave piano keyboard enhancing many of the key aspects of the tuner’s functions
+• Chromatic wheel tone generator, with optional auto-vibrato feature
+• Frequency and Harmonic energy overtone graphs, along with a multi-function waveform
+• Dedicated metronome page that matches or exceeds the features available on all other stand alone metronome apps
+• Notation options including standard English, Solfege, Northern European, and Indian variants
+• Bluetooth output/input support
+• Audio and Video recording capabilities including, editing, looping, timestretch that are all exportable via iTunes sharing, AirDrop, email, AudioCopy, SoundCloud, etc
+• Import music from iTunes Library or email attachments
+• Compatible with external microphones and clip-on vibration sensor devices
+• Supports external video output to an external display for use in rehearsal halls
+• External MIDI keyboard control support 
+• Apple Watch app acts ONLY as a remote control for the phone app
+• Audiobus and inter-app audio support
+• VoiceOver support for the blind or visually impaired 
+
+INSTRUMENT SOUNDS
+• Piccolo, Flute
+• Oboe, English Horn, Bassoon
+• Full Clarinet Family
+• Soprano, Alto, Tenor, and Baritone Saxophone
+• Trumpet
+• French Horn
+• Tenor and Bass Trombone
+• Euphonium and Tuba
+• Square, sawtooth, and sine waveforms
+• Organ
+• Bowed and Plucked Strings
+
+[View on Apple](https://apps.apple.com/us/app/tonalenergy-tuner-metronome/id497716362)
+
 <a id="peakfinder"></a>
 ## PeakFinder
 
@@ -417,66 +478,6 @@ iTunes中的每个好评（包括下述更新）都让我快乐。好的评价�
 如有问题、疑问、错误、遗漏的山脉名称以及对将来发展想发表意见，我很乐意帮助你。请给我来信：support@peakfinder.com.
 
 [View on Apple](https://apps.apple.com/us/app/peakfinder/id357421934)
-
-<a id="tonalenergy-stimmgera-t-metro"></a>
-## TonalEnergy Stimmgerät & Metro
-
-![TonalEnergy Stimmgerät & Metro](../../logos/497716362-e72ea50e.png)
-
-Für Musiker, ob Profi oder Anfänger, ob Sie singen, ein Blechblas-, Holzblas-, Saiteninstrument oder Gitarre spielen, diese App bietet funktionsreiche Übungs-Tools mit unterhaltsamem & lohnendem Feedback. So viel mehr als nur ein Stimmgerät! 
-Was macht TonalEnergy zur meistverkauften Musik-Übungs-App? 
-
-• Alles in einem: hochmodernes Stimmgerät, fortschrittliches Metronom, eigene Orchesterstreicher & Gitarrenstimmseite, Klaviatur, Klanganalyse-Seiten & Audio-/visuelle Aufnahmemöglichkeiten. 
-
-• Einfach anzuwenden: Optionen wie Target Tuner oder Pitch Tracker auf allen Hauptseiten. TonalEnergy hilft Nutzern, lohnende & erreichbare Ziele für Proben oder eigenständiges Üben festzulegen. Bunte Analysen-Datenseiten & Funktionen zur Audio-/Video-Aufnahme erleichtern das Üben zusätzlich. 
-
-• Innovatives Metronom. Beispiellose Flexibilität in Klangauswahl, Tempo-Einstellungen, Taktarten, Subdivisionsmustern & visuellen Anzeigen. Dank gesprochenem Einzählen, Erstellen & Bearbeiten von Voreinstellungsgruppen & Ableton Link zur Synchronisierung mehrerer Geräte ein hervorragendes Tool für Live-Musiker. 
-
-• Endlose Möglichkeiten zur Schulung des Gehörs. Die hochwertigen, multi-gesampelten Instrumentenklänge für Symphonie-Instrumente sind einzigartig unter allen anderen Stimmgerät-Apps. Das Gehör kann mit einer 8-Oktaven-Klaviatur, einem chromatischen Rad & einem Tonerzeuger geschult werden.
-
-• Lernen ist eine soziale Aktivität. Mit TonalEnergy Tuners einzigartigen Funktionen lassen sich Daten sammeln, prüfen, bearbeiten & mit anderen teilen. Für Konzertmusiker ist Feedback zur Weiterentwicklung ihrer Fähigkeiten entscheidend. Der Austausch steht im Zentrum. 
-
-Chris Coletti, Mitglied von The Canadian Brass, fasst TonalEnergy so zusammen: 
-
-“TonalEnergy ist ein Muss für jeden ernsthaften Musiker. Es bietet eine komplette Tool-Suite in nur einer App: Stimmgerät, Tonerzeuger, Aufnahmegerät, Metronom & die hübsche Oberfläche machen es zu einem der besten Tools für Musiker, die es gibt, Punkt.” 
-
-FUNKTIONEN 
-
-• Erkennt einen großen Tonhöhenbereich, auch in tieferen Stimmlagen als viele andere Stimmgeräte (C0-C8). Spricht bestens auf Blas-, Akustik- & elektrische Saiteninstrumente an 
-• Anpassbarer Normalton A=440 Hz 
-• Autom. oder manuelle Transpositionsoptionen 
-• Wechselt sofort zwischen gleichstufigen, reinen & anderen benutzerdef. Stimmungen 
-• Autom.- oder sofortige Normalton-Funktion mit TonalEnergy-Tönen 
-• Umfassende Stimmliste für alle Orchestersaiten- & Saiteninstrumente mit Bünden, inkl. weit mehr Funktionen als die meisten anderen Stimmgeräte-Apps nur für Saiteninstrumente 
-• Ausklappbare 8-Oktaven-Klaviatur bereichert viele wichtige Stimmfunktionen 
-• Tongenerator am chromatischen Rad, mit optionaler autom. Vibrato-Funktion 
-• Frequenz & Naturton-Grafiken mit multifunktionaler Wellenform 
-• Spezielle Metronomseite, die die Funktionen aller anderen Metronom-Apps erfüllt oder überbietet 
-• Notationsoptionen inkl. den Varianten Standard-Englisch, Solfège, Nordeuropäisch & Indisch 
-• Bluetooth & andere Eingang-/Ausgangs-Unterstützung 
-• Audio- & Video-Aufnahmefunktionen, inkl. Bearbeiten, Looping, Zeitdehnung, alles exportierbar über iTunes gemeinsamen Dateizugriff, AirDrop, E-Mail, AudioCopy, SoundCloud usw. 
-• Musik-Import aus der iTunes-Bibliothek oder E-Mail-Anhängen 
-• Kompatibel mit externen Mikrofon- & Ansteck-Schwingungssensor-Geräten 
-• Unterstützt externe Video-Ausgabe auf externem Display zur Nutzung in Proberäumen 
-• Externe MIDI-Keyboard-Steuerungsunterstützung 
-• Universelle App, unterstützt alle Geräteausrichtungen 
-• Audiobus- & Inter-App-Audio-Unterstützung 
-• VoiceOver-Unterstützung für Blinde & Sehbehinderte 
-
-INSTRUMENTE 
-• Piccoloflöte, Flöte 
-• Oboe, Englischhorn, Fagott 
-• Es-, B/A-Klarinette, Bassklarinette 
-• Sopran-, Alt-, Tenor- & Bariton-Saxophon 
-• Trompete 
-• Waldhorn 
-• Tenor- & Bassposaune 
-• Euphonium & Tuba 
-• Eckige, Sägezahn- & Sinus-Wellenformen 
-• Orgel 
-• Zupfinstrumente
-
-[View on Apple](https://apps.apple.com/us/app/tonalenergy-tuner-metronome/id497716362)
 
 <a id="radarscope"></a>
 ## RadarScope
@@ -805,6 +806,80 @@ Your use of MilGPS is governed by the standard App Store Licensed Application En
 
 [View on Apple](https://apps.apple.com/us/app/milgps/id405835358)
 
+<a id="autosleep-苹果手表睡眠监测-睡觉记录及智能闹钟"></a>
+## AutoSleep - 苹果手表睡眠监测，睡觉记录及智能闹钟
+
+![AutoSleep - 苹果手表睡眠监测，睡觉记录及智能闹钟](../../logos/1164801111-8d1eb49f.png)
+
+使用手表来自动追踪您的睡眠*。无需按动任何按钮，无需安装任何手表应用，只要安稳睡觉就好！
+
+关于 AutoSleep
+-----------------
+使用先进的启发式应用 AutoSleep 来计算您的睡眠时长。
+
+如果您戴上手表睡觉，您什么都不需要做。AutoSleep 会自动监控您的睡眠时长与质量并在您早晨第一次解锁手机后给你发送通知。
+
+即使您不带着手表睡觉, AutoSleep 也可以计算您在床上的时间。这非常简单。
+
+因为人总是各异的，AutoSleep 提供了微调选项，您可以通过简单地滑动滑块来调整自己的睡眠活跃度检测级别并可以很快速地看到睡眠时钟的统计变化。它还允许您自定义睡眠窗口, 是否需要每日通知以及在睡眠时钟上显示更多或更少的信息。 
+
+与 Apple 睡眠阶段应用完全集成，使您可以选择使用 Apple 睡眠应用并在 AutoSleep 中查看所有信息。
+
+AutoSleep 包括睡眠监控所需的所有信息和功能，包括：
+睡眠时间 – 睡眠时长和睡眠银行余额
+睡眠评分 – 对您睡眠的综合评分
+睡眠环 – 用高质量的睡眠填充您的睡眠环，包括心率、深度睡眠和快速动眼
+Apple 睡眠阶段 – 可使用 Apple 睡眠应用中数据的选项
+睡眠呼吸暂停 - 了解您是否患有睡眠呼吸暂停
+睡眠血氧 – 睡眠时的测量值
+呼吸频率 – 记录您每分钟的呼吸
+噪声 – 环境噪声测量值
+睡眠分析 – 查看您的睡眠周期的详细图表和细分情况
+睡眠燃料 – 衡量您的睡眠质量和效率
+今晚就寝时间 – 根据您的习惯推荐您最近的就寝时间
+就绪 – 表示您的身体和精神压力
+温度 – 跟踪您睡眠时的手腕温度
+睡眠一致性 – 了解您的就寝时间习惯
+熄灯 – 跟踪入睡时间
+实时睡眠跟踪 – 查看您夜间的睡眠统计信息
+智能闹钟 – Watch 内置的智能闹钟，帮助您从较浅的睡眠中醒来
+小组件 – 各种各样超棒的 iPhone 小组件
+复杂功能 – 多种 Watch 表盘选项
+HomeKit – 与 Apple HomeKit 完全集成
+表情符号和笔记 – 记录对睡眠时段的评论和标签
+探索 – 深入分析视图
+Siri – 通过 Siri 语音指令使用
+快捷方式 – 创建您自己用于 AutoSleep 的快捷方式
+调整 – 调整您个人睡眠/醒来检测的简单功能
+历史 – 高级图表和趋势
+配置 – 更改主题并设计您的时钟睡眠环
+设置 – 定制您的睡眠目标、设置通知和提醒
+导出 – 导出选项以保存数据
+
+AutoSleep 可以与 HeartWatch 联动，它是我们首推的心跳与活动检测应用。AutoSleep 会将您的睡眠信息记入健康应用中。 
+
+*需要运行 Watch OS 4 或更高版本的 Apple Watch。
+
+- 2018年度最佳
+https://apps.apple.com/story/id1438574124/
+
+- 2019年度最佳
+https://apps.apple.com/story/id1484100916/
+
+- 2020年度最佳
+https://apps.apple.com/story/id1535572713/
+
+- 2021年度最佳
+https://apps.apple.com/story/id1591083005/
+
+- 2022年度最佳
+https://apps.apple.com/story/id1654240446
+
+- 2023年度最佳
+https://apps.apple.com/story/id1719170110
+
+[View on Apple](https://apps.apple.com/us/app/autosleep-watch-sleep-tracker/id1164801111)
+
 <a id="shot-tracer"></a>
 ## Shot Tracer
 
@@ -918,132 +993,6 @@ https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 
 [View on Apple](https://apps.apple.com/us/app/shot-tracer/id1140451547)
 
-<a id="autosleep-苹果手表睡眠监测-睡觉记录及智能闹钟"></a>
-## AutoSleep - 苹果手表睡眠监测，睡觉记录及智能闹钟
-
-![AutoSleep - 苹果手表睡眠监测，睡觉记录及智能闹钟](../../logos/1164801111-8d1eb49f.png)
-
-使用手表来自动追踪您的睡眠*。无需按动任何按钮，无需安装任何手表应用，只要安稳睡觉就好！
-
-关于 AutoSleep
------------------
-使用先进的启发式应用 AutoSleep 来计算您的睡眠时长。
-
-如果您戴上手表睡觉，您什么都不需要做。AutoSleep 会自动监控您的睡眠时长与质量并在您早晨第一次解锁手机后给你发送通知。
-
-即使您不带着手表睡觉, AutoSleep 也可以计算您在床上的时间。这非常简单。
-
-因为人总是各异的，AutoSleep 提供了微调选项，您可以通过简单地滑动滑块来调整自己的睡眠活跃度检测级别并可以很快速地看到睡眠时钟的统计变化。它还允许您自定义睡眠窗口, 是否需要每日通知以及在睡眠时钟上显示更多或更少的信息。 
-
-与 Apple 睡眠阶段应用完全集成，使您可以选择使用 Apple 睡眠应用并在 AutoSleep 中查看所有信息。
-
-AutoSleep 包括睡眠监控所需的所有信息和功能，包括：
-睡眠时间 – 睡眠时长和睡眠银行余额
-睡眠评分 – 对您睡眠的综合评分
-睡眠环 – 用高质量的睡眠填充您的睡眠环，包括心率、深度睡眠和快速动眼
-Apple 睡眠阶段 – 可使用 Apple 睡眠应用中数据的选项
-睡眠呼吸暂停 - 了解您是否患有睡眠呼吸暂停
-睡眠血氧 – 睡眠时的测量值
-呼吸频率 – 记录您每分钟的呼吸
-噪声 – 环境噪声测量值
-睡眠分析 – 查看您的睡眠周期的详细图表和细分情况
-睡眠燃料 – 衡量您的睡眠质量和效率
-今晚就寝时间 – 根据您的习惯推荐您最近的就寝时间
-就绪 – 表示您的身体和精神压力
-温度 – 跟踪您睡眠时的手腕温度
-睡眠一致性 – 了解您的就寝时间习惯
-熄灯 – 跟踪入睡时间
-实时睡眠跟踪 – 查看您夜间的睡眠统计信息
-智能闹钟 – Watch 内置的智能闹钟，帮助您从较浅的睡眠中醒来
-小组件 – 各种各样超棒的 iPhone 小组件
-复杂功能 – 多种 Watch 表盘选项
-HomeKit – 与 Apple HomeKit 完全集成
-表情符号和笔记 – 记录对睡眠时段的评论和标签
-探索 – 深入分析视图
-Siri – 通过 Siri 语音指令使用
-快捷方式 – 创建您自己用于 AutoSleep 的快捷方式
-调整 – 调整您个人睡眠/醒来检测的简单功能
-历史 – 高级图表和趋势
-配置 – 更改主题并设计您的时钟睡眠环
-设置 – 定制您的睡眠目标、设置通知和提醒
-导出 – 导出选项以保存数据
-
-AutoSleep 可以与 HeartWatch 联动，它是我们首推的心跳与活动检测应用。AutoSleep 会将您的睡眠信息记入健康应用中。 
-
-*需要运行 Watch OS 4 或更高版本的 Apple Watch。
-
-- 2018年度最佳
-https://apps.apple.com/story/id1438574124/
-
-- 2019年度最佳
-https://apps.apple.com/story/id1484100916/
-
-- 2020年度最佳
-https://apps.apple.com/story/id1535572713/
-
-- 2021年度最佳
-https://apps.apple.com/story/id1591083005/
-
-- 2022年度最佳
-https://apps.apple.com/story/id1654240446
-
-- 2023年度最佳
-https://apps.apple.com/story/id1719170110
-
-[View on Apple](https://apps.apple.com/us/app/autosleep-watch-sleep-tracker/id1164801111)
-
-<a id="liveatc-air-radio"></a>
-## LiveATC Air Radio
-
-![LiveATC Air Radio](../../logos/317809458-36b55916.png)
-
-LiveATC Air Radio is brought to you by LiveATC.net LLC
-PLEASE READ IMPORTANT NOTICE BELOW **BEFORE PURCHASING** (this relates to countries not covered by the LiveATC.net system)
-
-Do you want to know why your flight might be delayed? Live near an airport or enjoy planespotting and want to tune in to the pilots? Have you always wondered what pilots talk to air traffic controllers about? Now you can stop wondering and tune in live!
-
-LiveATC Air Radio provides a quick and easy way to listen in on live conversations between pilots and air traffic controllers near many airports around the world. LiveATC Air Radio lets you easily browse by U.S. state, Canadian province, or by country to find an airport of interest. Once you find an interesting channel you just add it to your Favorites list for quick and easy access! You can also use the Nearby function to find airports near you. We also cover high-altitude (ARTCC/FIR) communications and oceanic (HF radio) traffic.
-
-The LiveATC network is the world's largest network of streaming audio feeds focused solely on aviation-related communications, currently covering over 1,200 airports around the world and over 3,300 different audio feeds and growing daily!
-
-*** IMPORTANT NOTICE *** 
-Please check to see if your country, city and/or airports of interest are covered by LiveATC *BEFORE PURCHASING* - check at: https://liveatc.net .  Note that we do not have coverage in the U.K., Belgium, France, Germany, Iceland, Italy, New Zealand, Spain and other countries where streaming ATC communications may be prohibited by law.
-
-Available airports/channels are subject to change at any time - LiveATC owns and operates many of the receivers used in the network but many are provided by volunteers. Available airports can change due to reasons beyond our control. For this reason there is no guarantee that any particular channel will be up 24/7, or forever, though we make our best effort to do so and have an excellent overall track record of uptime.
-
-Follow LiveATC on X and Facebook:
-X: https://x.com/liveatc 
-Facebook: https://facebook.com/liveatc
-
-[View on Apple](https://apps.apple.com/us/app/liveatc-air-radio/id317809458)
-
-<a id="blueprint-4-track"></a>
-## Blueprint 4-Track
-
-![Blueprint 4-Track](../../logos/6777792345-bebd277d.png)
-
-Great for demos, first takes, and fresh ideas: voice and guitar at the kitchen table, or a band passing one phone around the room.
-
-The sound of the machine is built in. Each track has its own set of knobs and there is no undo.
-  
-  - Records one track at a time, from the built-in mic, a headset mic, or a USB audio interface.
-  - Has track merging/clearing, punch-in recording, and a metronome.
-  - Your recordings are WAV files saved on your phone. Share the song, or export the whole session.
-  - Works entirely offline and collects nothing.
-  - Pay once. No subscription, no ads, no account.
-  - Works on iPhone and iPad.
-  
-  TIPS
-
-  - Overdub with wired headphones, so the mic doesn't pick up the other tracks.
-  - Don't use Bluetooth headphones while recording: they add delay, and only play in mono.
-  - Tap record while playing to punch in over a part you want to redo.
-  - Tap the ? at the top left for a guide to the controls.
-
-Blueprint is made by one person. If something feels confusing or missing, email max@blueprintdaw.com and I will answer.
-
-[View on Apple](https://apps.apple.com/us/app/blueprint-4-track/id6777792345)
-
 <a id="wipr-2"></a>
 ## Wipr 2
 
@@ -1071,6 +1020,31 @@ Terms & Conditions: https://kaylees.site/terms-and-conditions.html
 EULA: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 
 [View on Apple](https://apps.apple.com/us/app/wipr-2/id1662217862)
+
+<a id="liveatc-air-radio"></a>
+## LiveATC Air Radio
+
+![LiveATC Air Radio](../../logos/317809458-36b55916.png)
+
+LiveATC Air Radio is brought to you by LiveATC.net LLC
+PLEASE READ IMPORTANT NOTICE BELOW **BEFORE PURCHASING** (this relates to countries not covered by the LiveATC.net system)
+
+Do you want to know why your flight might be delayed? Live near an airport or enjoy planespotting and want to tune in to the pilots? Have you always wondered what pilots talk to air traffic controllers about? Now you can stop wondering and tune in live!
+
+LiveATC Air Radio provides a quick and easy way to listen in on live conversations between pilots and air traffic controllers near many airports around the world. LiveATC Air Radio lets you easily browse by U.S. state, Canadian province, or by country to find an airport of interest. Once you find an interesting channel you just add it to your Favorites list for quick and easy access! You can also use the Nearby function to find airports near you. We also cover high-altitude (ARTCC/FIR) communications and oceanic (HF radio) traffic.
+
+The LiveATC network is the world's largest network of streaming audio feeds focused solely on aviation-related communications, currently covering over 1,200 airports around the world and over 3,300 different audio feeds and growing daily!
+
+*** IMPORTANT NOTICE *** 
+Please check to see if your country, city and/or airports of interest are covered by LiveATC *BEFORE PURCHASING* - check at: https://liveatc.net .  Note that we do not have coverage in the U.K., Belgium, France, Germany, Iceland, Italy, New Zealand, Spain and other countries where streaming ATC communications may be prohibited by law.
+
+Available airports/channels are subject to change at any time - LiveATC owns and operates many of the receivers used in the network but many are provided by volunteers. Available airports can change due to reasons beyond our control. For this reason there is no guarantee that any particular channel will be up 24/7, or forever, though we make our best effort to do so and have an excellent overall track record of uptime.
+
+Follow LiveATC on X and Facebook:
+X: https://x.com/liveatc 
+Facebook: https://facebook.com/liveatc
+
+[View on Apple](https://apps.apple.com/us/app/liveatc-air-radio/id317809458)
 
 <a id="threema-der-sichere-messenger"></a>
 ## Threema. Der sichere Messenger
@@ -1102,6 +1076,33 @@ Haben Sie Fragen oder Probleme? Unsere FAQ helfen weiter: https://threema.com/su
 Viel Freude mit Threema!
 
 [View on Apple](https://apps.apple.com/us/app/threema-the-secure-messenger/id578665578)
+
+<a id="blueprint-4-track"></a>
+## Blueprint 4-Track
+
+![Blueprint 4-Track](../../logos/6777792345-bebd277d.png)
+
+Great for demos, first takes, and fresh ideas: voice and guitar at the kitchen table, or a band passing one phone around the room.
+
+The sound of the machine is built in. Each track has its own set of knobs and there is no undo.
+  
+  - Records one track at a time, from the built-in mic, a headset mic, or a USB audio interface.
+  - Has track merging/clearing, punch-in recording, and a metronome.
+  - Your recordings are WAV files saved on your phone. Share the song, or export the whole session.
+  - Works entirely offline and collects nothing.
+  - Pay once. No subscription, no ads, no account.
+  - Works on iPhone and iPad.
+  
+  TIPS
+
+  - Overdub with wired headphones, so the mic doesn't pick up the other tracks.
+  - Don't use Bluetooth headphones while recording: they add delay, and only play in mono.
+  - Tap record while playing to punch in over a part you want to redo.
+  - Tap the ? at the top left for a guide to the controls.
+
+Blueprint is made by one person. If something feels confusing or missing, email max@blueprintdaw.com and I will answer.
+
+[View on Apple](https://apps.apple.com/us/app/blueprint-4-track/id6777792345)
 
 <a id="heartwatch-心脏和活动监测器"></a>
 ## HeartWatch: 心脏和活动监测器
@@ -1157,33 +1158,6 @@ https://www.apple.com/au/newsroom/2022/01/apple-celebrates-heart-month-with-new-
 此应用程序需要已安装“健康”应用的iPhone。心率读数读取自健康数据库，理想情况下，这是从您的Apple Watch获取的数据。
 
 [View on Apple](https://apps.apple.com/us/app/heartwatch-heart-rate-monitor/id1062745479)
-
-<a id="imo-video-calls-and-chat-hd"></a>
-## imo video calls and chat HD
-
-![imo video calls and chat HD](../../logos/1400579543-a39cc320.png)
-
-Message and video chat with your friends and family for FREE, no matter what device they are on!
-
-- Encrypted high-quality Video and Voice calls
-- Encrypted Group Video and Voice calls with up to 6 participants
-- FREE and unlimited encrypted messages and video and voice calls over your 4G, 5G or Wi-Fi connection*
-- Group chat with friends, family, roommates and others
-- Fast photo and video sharing
-- Hundreds of free stickers!
-- Avoid SMS and phone call charges
-
-*Data charges may apply. Contact your provider for details.
-
-IMO PREMIUM MONTHLY SUBSCRIPTION
-- You can subscribe to remove ads from imo and get 25Gb of cloud storage.
-- Subscriptions are billed monthly at the rate selected depending on the subscription plan.
-- Subscriptions auto-renew at the cost of the chosen package, unless cancelled 24-hours in advance prior to the end of the current period. The subscription fee is charged to your iTunes account at confirmation of purchase. You may manage your subscription and turn off auto-renewal by going to your Account Settings after purchase. Per Apple policy, no cancellation of the current subscription is allowed during active subscription period. Once purchased, refunds will not be provided for any unused portion of the term.
-
-Privacy Policy: https://imoapp.com/privacy
-Terms of Service: https://imoapp.com/terms
-
-[View on Apple](https://apps.apple.com/us/app/imo-video-calls-and-chat-hd/id1400579543)
 
 <a id="goblin-tools"></a>
 ## Goblin Tools
@@ -1252,35 +1226,6 @@ Fully Compatible with iPhone and Moment's complete ecosystem of lenses, cases, a
 
 [View on Apple](https://apps.apple.com/us/app/moment-pro-camera-ii/id6748837351)
 
-<a id="forscan-lite-for-ford-mazda"></a>
-## FORScan Lite - for Ford, Mazda
-
-![FORScan Lite - for Ford, Mazda](../../logos/892347083-a4c378c4.png)
-
-FORScan Lite application was developed specially for a computer diagnostics of Ford, Mazda, Lincoln and Mercury vehicles. 
-
-Supported adapters:
-- OBDLink MX+ (recommended)
-- vLinker FS Bluetooth (recommended)
-- vLinker FD BLE (recommended)
-- other ELM327-compatible WiFi or BLE adapter (not recommended). Attention: this application may not work properly in case of bad quality ELM327 adapter used!
-
-Supported cars:
-- Ford, Lincoln, Mercury models of 1996 - 2022MY (some models of 1994-1995MY are also supported)
-- Mazda 1996-2022MY. Attention: Mazda 7G models (new Mazda 3, CX-30, MX-30, CX-50 etc) are supported partially or not supported!
-- Vehicles other than Ford, Mazda, Lincoln, Mercury are not supported!
-
-Features:
-- Analyzing an on-board network configuration of the connected vehicle
-- Read and reset DTC for all modules
-- Read sensors and other data (PIDs) from all modules
-- Execute tests
-- Execute majority of service functions
-
-Note: Configuration and Programming functions, as well as some of service functions, are not available in FORScan Lite.
-
-[View on Apple](https://apps.apple.com/us/app/forscan-lite-for-ford-mazda/id892347083)
-
 <a id="stylebook"></a>
 ## Stylebook
 
@@ -1320,77 +1265,61 @@ FONCTIONNALITÉS :
 
 [View on Apple](https://apps.apple.com/us/app/stylebook/id335709058)
 
-<a id="cloud-baby-monitor"></a>
-## Cloud Baby Monitor
+<a id="imo-video-calls-and-chat-hd"></a>
+## imo video calls and chat HD
 
-![Cloud Baby Monitor](../../logos/432791399-c19d2d37.png)
+![imo video calls and chat HD](../../logos/1400579543-a39cc320.png)
 
-Hochqualitativer Livevideo + Audio Babyphone mit unbegrenzter Reichweite (WiFi, 3G, LTE, 4G, 5G, Bluetooth). Einfach zu verwenden, funktioniert auf jedem iPhone, iPad, iPod Touch oder Mac, ohne Konfiguration. Exzellente Wahl für sicheres Überwachen des Babys zu Hause und auf Reisen.
+Message and video chat with your friends and family for FREE, no matter what device they are on!
 
-Cloud Baby Monitor hilft täglich Zehntausenden von Eltern, sich um ihre Kleinen zu kümmern.
+- Encrypted high-quality Video and Voice calls
+- Encrypted Group Video and Voice calls with up to 6 participants
+- FREE and unlimited encrypted messages and video and voice calls over your 4G, 5G or Wi-Fi connection*
+- Group chat with friends, family, roommates and others
+- Fast photo and video sharing
+- Hundreds of free stickers!
+- Avoid SMS and phone call charges
 
-Vorgestellt von Apple in der Geschichte von The Quantified Dad (www.apple.com).
-Vorgestellt in Good Morning America von ABC News (www.abcnews.com).
-Vorgestellt in USA Today (www.usatoday.com).
-Gewählt durch App Advice zur essentiellen App für das Überwachen Ihres Babys (www.appadvice.com).
-Empfohlen von Mashable unter den besten “Elternapps für Baby's erstes Jahr” (www.mashable.com).
-Ausgewählt von TUAW für den "Urlaubsgeschenke-Guide: iPad Apps für zu Hause" (www.tuaw.com).
-Gewinn des 3. Platzes von Babble.com in den "Top 25 Reiseapps für Eltern” (www.babble.com).
+*Data charges may apply. Contact your provider for details.
 
+IMO PREMIUM MONTHLY SUBSCRIPTION
+- You can subscribe to remove ads from imo and get 25Gb of cloud storage.
+- Subscriptions are billed monthly at the rate selected depending on the subscription plan.
+- Subscriptions auto-renew at the cost of the chosen package, unless cancelled 24-hours in advance prior to the end of the current period. The subscription fee is charged to your iTunes account at confirmation of purchase. You may manage your subscription and turn off auto-renewal by going to your Account Settings after purchase. Per Apple policy, no cancellation of the current subscription is allowed during active subscription period. Once purchased, refunds will not be provided for any unused portion of the term.
 
-FUNKTIONEN
+Privacy Policy: https://imoapp.com/privacy
+Terms of Service: https://imoapp.com/terms
 
-• SICHER, VERLÄSSLICH UND EINFACH ZU VERWENDEN
-• LIVEVIDEO, ÜBERALL 
-• SUPEREMPFINDLICHES AUDIO
-• GERÄUSCH- UND BEWEGUNGSALARM
-• ACTIVITY LOG
-• BELIEBTE RAUSCHGERÄUSCHE UND SCHLAFLIEDER INKLUSIVE
-• ERSTELLEN SIE IHRE EIGENEN WIEDERGABELISTEN 
-• NACHTLICHT MIT FERNSTEUERBARER HELLIGKEITSKONTROLLE
-• SPRECHEN SIE AUS DER FERNE MIT IHREM BABY
-• FUNKTION FÜR MEHRERE ELTERNTEILE UND KINDER
-• VERBINDUNGSQUALITÄTSANZEIGE
-• AKKUSTATUSÜBERWACHUNG UND -ALARM
-• UNTERSTÜTZUNG FÜR MULTITASKING, BILD-IN-BILD
+[View on Apple](https://apps.apple.com/us/app/imo-video-calls-and-chat-hd/id1400579543)
 
+<a id="forscan-lite-for-ford-mazda"></a>
+## FORScan Lite - for Ford, Mazda
 
-SICHERER , VERLÄSSLICHER, UND EINFACH ZU VERWENDENDER BABY MONITOR
-Verwenden Sie Ihr iPhone, iPad, iPod Touch oder einen Mac als Kindereinheit, platzieren Sie sie im Babyzimmer und genießen Sie live Video und klares Audio im Vollbildmodus auf der Elterneinheit. Beide Geräte werden automatisch verbunden, ohne jegliche Konfiguration. Die gesamte Kommunikation ist sicher, geschützt durch Verschlüsselung nach dem Industriestandard, um sicherzustellen, dass nur Sie Zugriff auf Baby's Videostream haben.
+![FORScan Lite - for Ford, Mazda](../../logos/892347083-a4c378c4.png)
 
-LIVE VIDEO, ÜBERALL
-Mit dieser einzigartigen Funktion können Sie ein Live-Vollbildvideo Ihres Babys ohne Distanzbeschränkung sehen. Cloud Baby Monitor funktioniert in jedem WiFi-Netzwerk, über 3G, LTE, 5G, oder via Bluetooth.
+FORScan Lite application was developed specially for a computer diagnostics of Ford, Mazda, Lincoln and Mercury vehicles. 
 
-SUPEREMPFINDLICHES AUDIO
-Hören Sie Ihr Baby atmen, als ob es direkt neben Ihnen schlafen würde. 
+Supported adapters:
+- OBDLink MX+ (recommended)
+- vLinker FS Bluetooth (recommended)
+- vLinker FD BLE (recommended)
+- other ELM327-compatible WiFi or BLE adapter (not recommended). Attention: this application may not work properly in case of bad quality ELM327 adapter used!
 
-GERÄUSCH- UND BEWEGUNGSALARM
-Erhalten Sie Benachrichtigungen über alle Aktivitäten Ihres Kindes mit Geräusch- und Bewegungsalarmen.
+Supported cars:
+- Ford, Lincoln, Mercury models of 1996 - 2022MY (some models of 1994-1995MY are also supported)
+- Mazda 1996-2022MY. Attention: Mazda 7G models (new Mazda 3, CX-30, MX-30, CX-50 etc) are supported partially or not supported!
+- Vehicles other than Ford, Mazda, Lincoln, Mercury are not supported!
 
-BELIEBTE RAUSCHGERÄUSCHE UND SCHLAFLIEDER INKLUSIVE
-Genießen Sie die Palette an beliebtesten Schlafliedern und Rauschgeräuschen für Babys in der App. Kontrollieren Sie aus der Ferne Lautstärke, Wiedergabe und Autostopp-Timer. 
+Features:
+- Analyzing an on-board network configuration of the connected vehicle
+- Read and reset DTC for all modules
+- Read sensors and other data (PIDs) from all modules
+- Execute tests
+- Execute majority of service functions
 
-ERSTELLEN SIE IHRE EIGENEN WIEDERGABELISTEN
-Erstellen Sie eigene Wiedergabelisten mit Songs, Rauschgeräuschen oder Märchen aus Ihrer iTunes-Bibliothek.
+Note: Configuration and Programming functions, as well as some of service functions, are not available in FORScan Lite.
 
-NACHTLICHT MIT FERNGESTEUERTER HELLIGKEITSKONTROLLE
-Verwenden Sie ein ferngesteuertes Nachtlicht, um Ihr Baby durch die Nacht hindurch schlafen zu sehen. Helligkeitskontrolle ermöglicht Ihnen das Anpassen der Lichtintensität, um ein gutes Bild zu erhalten und das Baby nicht zu stören.  
-
-SPRECHEN SIE AUS DER FERNE MIT DEM BABY
-Beruhigen Sie das Baby einfach mit Ihrer Stimme von der Elterneinheit aus.
-
-UNTERSTÜTZUNG FÜR MEHRERE ELTERNTEILE UND KINDER 
-Verwenden Sie die Funktion für mehrere Kinder zum Überwachen von zwei Kindern, die in verschiedenen Räumen schlafen.
-Verwenden Sie die Funktion für mehrere Elternteile zum Überwachen Ihres Babys von zwei verschiedenen Elterneinheiten aus.
-
-
-KUNDENSUPPORT
-
-Glückliche Kunden sind unsere Top-Priorität, und Ihr Feedback ist immer willkommen. Wenn Sie ein Problem oder einen Vorschlag haben, kontaktieren Sie uns bitte direkt via support@cloudbabymonitor.com.
-
-Danke, dass Sie Cloud Baby Monitor verwenden.
-
-[View on Apple](https://apps.apple.com/us/app/cloud-baby-monitor/id432791399)
+[View on Apple](https://apps.apple.com/us/app/forscan-lite-for-ford-mazda/id892347083)
 
 <a id="koala-sampler-beat-maker"></a>
 ## Koala Sampler • Beat Maker
@@ -1466,6 +1395,78 @@ Features included in SAMURAI In-App Purchase
 
 [View on Apple](https://apps.apple.com/us/app/koala-sampler-beat-maker/id1449584007)
 
+<a id="cloud-baby-monitor"></a>
+## Cloud Baby Monitor
+
+![Cloud Baby Monitor](../../logos/432791399-c19d2d37.png)
+
+Hochqualitativer Livevideo + Audio Babyphone mit unbegrenzter Reichweite (WiFi, 3G, LTE, 4G, 5G, Bluetooth). Einfach zu verwenden, funktioniert auf jedem iPhone, iPad, iPod Touch oder Mac, ohne Konfiguration. Exzellente Wahl für sicheres Überwachen des Babys zu Hause und auf Reisen.
+
+Cloud Baby Monitor hilft täglich Zehntausenden von Eltern, sich um ihre Kleinen zu kümmern.
+
+Vorgestellt von Apple in der Geschichte von The Quantified Dad (www.apple.com).
+Vorgestellt in Good Morning America von ABC News (www.abcnews.com).
+Vorgestellt in USA Today (www.usatoday.com).
+Gewählt durch App Advice zur essentiellen App für das Überwachen Ihres Babys (www.appadvice.com).
+Empfohlen von Mashable unter den besten “Elternapps für Baby's erstes Jahr” (www.mashable.com).
+Ausgewählt von TUAW für den "Urlaubsgeschenke-Guide: iPad Apps für zu Hause" (www.tuaw.com).
+Gewinn des 3. Platzes von Babble.com in den "Top 25 Reiseapps für Eltern” (www.babble.com).
+
+
+FUNKTIONEN
+
+• SICHER, VERLÄSSLICH UND EINFACH ZU VERWENDEN
+• LIVEVIDEO, ÜBERALL 
+• SUPEREMPFINDLICHES AUDIO
+• GERÄUSCH- UND BEWEGUNGSALARM
+• ACTIVITY LOG
+• BELIEBTE RAUSCHGERÄUSCHE UND SCHLAFLIEDER INKLUSIVE
+• ERSTELLEN SIE IHRE EIGENEN WIEDERGABELISTEN 
+• NACHTLICHT MIT FERNSTEUERBARER HELLIGKEITSKONTROLLE
+• SPRECHEN SIE AUS DER FERNE MIT IHREM BABY
+• FUNKTION FÜR MEHRERE ELTERNTEILE UND KINDER
+• VERBINDUNGSQUALITÄTSANZEIGE
+• AKKUSTATUSÜBERWACHUNG UND -ALARM
+• UNTERSTÜTZUNG FÜR MULTITASKING, BILD-IN-BILD
+
+
+SICHERER , VERLÄSSLICHER, UND EINFACH ZU VERWENDENDER BABY MONITOR
+Verwenden Sie Ihr iPhone, iPad, iPod Touch oder einen Mac als Kindereinheit, platzieren Sie sie im Babyzimmer und genießen Sie live Video und klares Audio im Vollbildmodus auf der Elterneinheit. Beide Geräte werden automatisch verbunden, ohne jegliche Konfiguration. Die gesamte Kommunikation ist sicher, geschützt durch Verschlüsselung nach dem Industriestandard, um sicherzustellen, dass nur Sie Zugriff auf Baby's Videostream haben.
+
+LIVE VIDEO, ÜBERALL
+Mit dieser einzigartigen Funktion können Sie ein Live-Vollbildvideo Ihres Babys ohne Distanzbeschränkung sehen. Cloud Baby Monitor funktioniert in jedem WiFi-Netzwerk, über 3G, LTE, 5G, oder via Bluetooth.
+
+SUPEREMPFINDLICHES AUDIO
+Hören Sie Ihr Baby atmen, als ob es direkt neben Ihnen schlafen würde. 
+
+GERÄUSCH- UND BEWEGUNGSALARM
+Erhalten Sie Benachrichtigungen über alle Aktivitäten Ihres Kindes mit Geräusch- und Bewegungsalarmen.
+
+BELIEBTE RAUSCHGERÄUSCHE UND SCHLAFLIEDER INKLUSIVE
+Genießen Sie die Palette an beliebtesten Schlafliedern und Rauschgeräuschen für Babys in der App. Kontrollieren Sie aus der Ferne Lautstärke, Wiedergabe und Autostopp-Timer. 
+
+ERSTELLEN SIE IHRE EIGENEN WIEDERGABELISTEN
+Erstellen Sie eigene Wiedergabelisten mit Songs, Rauschgeräuschen oder Märchen aus Ihrer iTunes-Bibliothek.
+
+NACHTLICHT MIT FERNGESTEUERTER HELLIGKEITSKONTROLLE
+Verwenden Sie ein ferngesteuertes Nachtlicht, um Ihr Baby durch die Nacht hindurch schlafen zu sehen. Helligkeitskontrolle ermöglicht Ihnen das Anpassen der Lichtintensität, um ein gutes Bild zu erhalten und das Baby nicht zu stören.  
+
+SPRECHEN SIE AUS DER FERNE MIT DEM BABY
+Beruhigen Sie das Baby einfach mit Ihrer Stimme von der Elterneinheit aus.
+
+UNTERSTÜTZUNG FÜR MEHRERE ELTERNTEILE UND KINDER 
+Verwenden Sie die Funktion für mehrere Kinder zum Überwachen von zwei Kindern, die in verschiedenen Räumen schlafen.
+Verwenden Sie die Funktion für mehrere Elternteile zum Überwachen Ihres Babys von zwei verschiedenen Elterneinheiten aus.
+
+
+KUNDENSUPPORT
+
+Glückliche Kunden sind unsere Top-Priorität, und Ihr Feedback ist immer willkommen. Wenn Sie ein Problem oder einen Vorschlag haben, kontaktieren Sie uns bitte direkt via support@cloudbabymonitor.com.
+
+Danke, dass Sie Cloud Baby Monitor verwenden.
+
+[View on Apple](https://apps.apple.com/us/app/cloud-baby-monitor/id432791399)
+
 <a id="photopills"></a>
 ## PhotoPills
 
@@ -1515,502 +1516,6 @@ Teile deine Pläne und Orte via E-Mail. Lade deine Freunde ein dabei zu sein. An
 Worauf wartest du? Hol dir PhotoPills gleich jetzt und mache wirklich einzigartig Aufnahmen!
 
 [View on Apple](https://apps.apple.com/us/app/photopills/id596026805)
-
-<a id="necrophonic"></a>
-## Necrophonic
-
-![Necrophonic](../../logos/1396698319-774c0f53.png)
-
-Necrophonic is an ITC app used for spirit communication and EVP research.
-
-8 Sounds Banks:
-
-The audio has been mastered in a way to bring out various sound properties . 
-Using Pro Tools I was able to enhance high, mid, and low range frequencies. I also applied 
-other filters to create unique sound characteristics to help layer the audio and create an 
-environment suitable for spirit communication.
-
-The audio itself is made up of phonemes, 
-partial words, reverse audio, foreign languages, and other parts of speech that can help 
-spirits communicate. Besides some basic phonetic sounds such as na, no, da, do, di, ma, may, etc.
-there are no real words of phrases contained in the banks.
-
-These sounds banks play in a similar
-way to that of my other app "Spiritus Ghost Box" but instead of 4 sound banks Necrophonic has
-8 active sound banks.
-
-White Noise Sound Bank:
-
-This app also has an optional 9th sound bank called "White noise". 
-This bank can be used alone or with the other 8 giving you a total of 9 sound banks. This 
-audio is taken for the internal sounds of the famous DR60 recorder that is known as the 
-"Holy Grail" of EVP recorders. This is not a White Noise Generator, this is a normal sound bank like the others but this one contains white noise from the DR60.
-
-Audio Effects:
-
-This app does contain Echo and Reverb audio effects. These have been proven 
-to be the best effects to apply to ITC sessions. The echo can create audio that can be 
-manipulated within the echo itself. Echo can also help in live, real time communication by 
-repeating the audio and allowing you to better hear whats coming through. Reverb can be 
-applied to the audio to create a spacious sound environment that will enhance audio manipulation.
-
-[View on Apple](https://apps.apple.com/us/app/necrophonic/id1396698319)
-
-<a id="ableton-note"></a>
-## Ableton Note
-
-![Ableton Note](../../logos/1633243177-1a504e58.png)
-
-Entwickele neue musikalische Ideen mit ausgewählten Sounds und Effekten. Erstelle Beats und Melodieparts, sample deine Umgebung und entwickele deine Tracks in Ableton Live weiter.
-
-Note ist ein Ort für Skizzen, neue Sounds und Ideen: Lass deinen Ideen freien Lauf oder experimentiere einfach, bis die Inspiration einsetzt. Dabei steht dir eine Auswahl von Lives Drum-Kits, Synths und Instrumenten zur Verfügung. Erstelle deine eigene Klangpalette, indem du mit dem integrierten Mikrofon deines Telefons Samples aufnimmst. Und nutze den integrierten MIDI-Editor von Note, um Noten, Beats und Akkorde zu sequenzieren oder beim Hören Anpassungen zu vorzunehmen
- 
-Verfolge deine Ideen, wohin auch immer sie dich führen und sende deine Projekte mit Ableton Cloud an Live, ohne die App zu verlassen. Du findest deine Projekte in Lives Browser und kannst dort weiterarbeiten. Sämtliche Samples und Sounds werden direkt aus Note übernommen, MIDI-Noten kannst du nach Belieben verändern. Alle Nutzerinnen und Nutzer von Ableton Note bekommen eine kostenlose Lizenz für Ableton Live Lite – der einfachen und intuitiven Software, mit der Musikschaffende, Producer und DJs aus aller Welt komponieren, aufnehmen und performen. Nutzerinnen und Nutzern von Ableton Move können mit Note außerdem vom Telefon aus weiter an Sets arbeiten.
-  
-Mit einem Beat einsteigen:
-• Wähle zwischen 76 Drum-Sampler-Kits
-• Tippe auf 16-Pads einen Beat ein oder sequenziere ihn mit dem MIDI-Editor
-• Spiele Drums melodisch im 16-Pitch-Modus
-• Quantisiere deine Beats oder verschiebe Noten, um ungenaues Timing und Fehler zu korrigieren
-• Schichte Rhythmen übereinander
-• Erzeuge Beat-Wiederholungen mit Note Repeat
-• Verändere deine Sounds mit Parametern
-• Experimentiere mit Effekten oder sorge mit Swing für mehr Abwechslung
- 
-Mit einer Melodie starten:
-• Entdecke 317 Synth-Sounds and 60 melodische Sampler-Instrumente
-• Spiele oder programmiere Melodien und Akkordfolgen mit dem 25-Pad-Raster, der Pianorolle oder dem MIDI-Editor
-• Lege Tonarten und Skalen fest – für harmonische Ergebnisse
-• Schichte mehre Harmonien übereinander
-• Verändere deine Sounds mit Parametern
-• Spiele mit Effekten für experimentelles Sound Design
- 
-Deine Welt sampeln:
-• Erstelle eigene Drum-Kits aus Aufnahmen perkussiver Sounds im Drum Sampler von Note
-• Baue eigene melodische Sampler-Instrumente aus zuvor aufgenommenen tonalen Sounds
-• Bearbeite deine Samples durch Zerschneiden, Filter und Pitch-Änderungen
-• Sequenziere Samples mit dem MIDI-Editor in Beats, Melodien und Akkorde
-• Forme und verzerre Sounds mit Effekten
-• Importiere eigene Samples oder Audiomaterial aus Videos
-
-Mit Audio arbeiten:
-• Füge Audio-Clips aus der Bibliothek hinzu
-• Warpe das Tempo oder passe die Tonhöhe deiner Clips an
-• Nimm Audio direkt mit dem integrierten Mikrofon deines Telefons auf
-• Schließe ein Audio-Interface an, um externe Quellen aufzunehmen
-• Kombiniere aufgenommenes und importiertes Audio mit deinen Beats und Melodien
-
-Improvisationen einfangen:
-• Halte deine Ideen mit „Capture“ fest – auch nach dem Spielen
-• Spiele nach Gefühl – Note erkennt das Tempo
-• Note bestimmt automatisch die Länge einer Phrase und erzeugt einen Loop
-• Quantisiere Loops, füge Sounds hinzu und verändere sie
-• Schließe deinen MIDI-Controller an, um mit Tasten zu spielen und den Sound der Instrumente intuitiv zu verändern
- 
-Abwechslung reinbringen:
-• Note bietet ein Raster zum Spielen, ähnlich der Session-Ansicht in Live
-• Verdopple Loops, um innerhalb von Clips Variation reinzubringen
-• Dupliziere Clips und kombiniere verschiedene Versionen von Ideen
-• Mehrere Noten gleichzeitig mit dem MIDI-Editor hinzufügen, löschen oder anpassen
-• Erstelle acht Spuren mit bis zu acht Clips in acht Szenen
-• Experimentiere mit verschiedenen Clip-Kombinationen und Songstrukturen
-• Exportiere deine Skizzen und Songs als Audio-Datei, um sie mit anderen zu teilen
-
-[View on Apple](https://apps.apple.com/us/app/ableton-note/id1633243177)
-
-<a id="mein-blitz-tracker-pro"></a>
-## Mein Blitz-Tracker Pro
-
-![Mein Blitz-Tracker Pro](../../logos/1175031995-d3ae6693.png)
-
-Mein Blitz-Tracker Pro ist die beste App, um Blitzeinschläge auf der ganzen Welt nahezu in Echtzeit zu überwachen. Mit dem schlanken, modernen Design der App können Sie Gewitter beobachten, wenn sie auftreten. Sie können auch Benachrichtigungen über Blitzschläge in Ihrer Region erhalten.
-
-– Zeigt Blitzeinschläge auf der ganzen Welt an!
-– Ermitteln Sie anhand des Verlaufs der Hotspots, wo Blitzschläge am häufigsten auftreten!
-– Die detaillierte Informationen über den Ort des Gewitters werden auf einer Karte angezeigt.
-– Erhalten Sie Benachrichtigungen, wenn sich ein Sturm in der Nähe befindet, damit Sie ihn live überwachen können.
-– Benachrichtigen Sie Ihre Freunde übe reinen Blitzschlag, damit auch sie wissen, wo Donner und Blitzen auftreten könnten!
-– Volle Unterstützung für die neuesten Versionen von iOS.
-– Keine Werbung!
-
-Wenn Sie auf effiziente Weise Informationen über Blitzschläge und Gewitter suchen möchten, ist Mein Blitz-Tracker Pro die richtige App für Sie. Diese App informiert Sie, wenn ein Gewitter naht.
-
-[View on Apple](https://apps.apple.com/us/app/my-lightning-tracker-pro/id1175031995)
-
-<a id="e-sword-lt-bible-study-to-go"></a>
-## e-Sword LT: Bible Study to Go
-
-![e-Sword LT: Bible Study to Go](../../logos/634158738-84947951.png)
-
-e-Sword® — the world's most popular PC Bible study software is now available on the world's most advanced mobile operating system!  e-Sword LT is the little brother of e-Sword HD for the iPad, but has many of the same powerful features in a slimmer design for the iPhone.  e-Sword LT is feature rich and user friendly.  As your Biblical library grows you will appreciate the intuitive layout and synchronization of resources.  e-Sword LT is so easy to use you may never need to read the Tutorial!
-
-EVERYTHING NEEDED to study the Bible in an enjoyable and enriching manner.  All Bibles, commentaries, dictionaries, … everything is just a tap away!
-
-POWERFUL SEARCHES that are simple to use.  Enter as many words you want to search for and select the settings.  You can even search on Strong numbers!
-
-STRONG'S DEFINITIONS are just a tap away and presented in a popover.
-
-SCRIPTURE REFERENCES too are just a tap away and presented in a popover.
-
-COMPARE BIBLES quickly to see how the different versions translate a verse.
-
-LOCATION MAPS pin-point Biblical places on live modern maps to help bring the narrative to life!
-
-READING PLANS designed to help you grow in your knowledge of the Bible.
-
-FORMATTED EMAILS of any selection of any text.  Perfect for sharing with others.
-
-No Internet connection is required to use e-Sword LT.
-
-e-Sword LT initially installs with the King James Bible and the King James with Strong's numbers study Bible, the Strong's Lexicon, Smith's Bible dictionary, Meyer's devotional commentary, and the Treasury of Scripture Knowledge cross references.  There are over one hundred additional Bibles, commentaries, dictionaries, reference books and devotionals that you can download and add to your library absolutely free!
-
-Also available are some "locked" resources which must be purchased from their publisher.  These are copyright and licensing requirements which are unavoidable.
-
-Please note that e-Sword LT is an *ENGLISH* release (but does include Spanish, Portuguese and French UI localization.)  There are dozens of non-English Bibles available, but all other content is in English.
-
-The perfect app on the perfect device.  What are you waiting for?  Download e-Sword LT today and get to studying the Bible!
-
-[View on Apple](https://apps.apple.com/us/app/e-sword-lt-bible-study-to-go/id634158738)
-
-<a id="quickbend-conduit-bending"></a>
-## QuickBend: Conduit Bending
-
-![QuickBend: Conduit Bending](../../logos/1010311475-fcdac002.png)
-
-QuickBend is the fastest and most precise conduit bending calculator app. Designed to be innovative and intuitive while remaining visually appealing. This advanced conduit bending calculator offers the most accurate measurements by taking into account the radius of the shoe and bender, plus the conduit type and size diameter. All measurements are generated using the centerline radius algorithm, and have all been rigorously processed and field tested. Even the bends displayed within QuickBend are generated using the same engine.
-
-Built for electricians by an electrician. QuickBend can be used by anyone working with conduit or tubing whether you are a seasoned professional, a novice cub, or even a DIY enthusiast. Made to avoid simple mistakes, and to save time and money. In addition to providing fast and precise calculations, there is plenty of information and documentation provided for individual bends. Explanations on how to use specific features, and step by step process to bending conduit.
-
-Offering the most intuitive method to input data. Whether you want to get straight to the point, or comb through the possibilities of a bend. You can switch back and forth between different input styles such as a number pad, or a slider bar (Press & Slide). Both having their unique advantages. QuickBend allows you, the user to toggle between three different types of measurements; inches, foot + inches, and centimeters.
-
-With QuickCheck built into QuickBend, there's a subtle change in text colors when a bend is impossible (red), or whether the bend may be unlikely to work (orange). This app for convenience, and we want it to benefit you. So much so that we added it into the input styles for bends, so you can see if a bend is possible before even tapping on the bend amount.
-
-Supporting the following bends!
-• Offset
-• Rolling Offset
-• Matching Bends Offset
-• Matching Centers Offset
-• Parallel Offset
-• Three-Point Saddle
-• Four-Point Saddle
-• 90° Bend
-• Kick with 90°
-• Matching Bend Kick
-• Matching Center Kick
-• Parallel Kick
-• Parallel Kick: Forward
-• Compound 90° - Circle Obstruction
-• Compound 90° - Rectangle Obstruction
-• Compound 90° - Square Obstruction
-• Segmented 90°
-
-Plus you have the ability to layout multiple bends on a single conduit, and get each measurement for a mark on the conduit. With the option to easily flip an individual or set of marks per bend.
-
-There's no limit to QuickBend. Easily, select between different types of benders and choose the size of the shoe and conduit type all within the same screen that you are working on. No need for complex navigations. In addition, you can pin benders you use the most, so you can select and switch between them quickly without consistently scrolling. All benders are spec'd out using the information provided by the manufacturers, and worst case scenario if one of the many benders available don't match the one you are using you can now add in your own bender. There's also an option to not select a bender and to use the multiplier method.
-
-Edit and view all of your benders' specifications. Detailed information on the centerline radius, deduct, gain, setback. Plus the ability to view the travel, and radius adjustment for any degree bend between up-to 90°. All of this is visualized and edited within the 'Bender Specs'.
-
-[View on Apple](https://apps.apple.com/us/app/quickbend-conduit-bending/id1010311475)
-
-<a id="blower"></a>
-## Blower
-
-![Blower](../../logos/335862325-bd940dc1.png)
-
-"It blows air!", CNN --- Unlocken Sie den neuen mind-blowing-Funktion auf Ihrem iPhone und iPad: Ändern Sie es in einem echten Luft Blower! Blower nutzt geheime Hardware-Features von Ihrem Device, überprüfen Sie unten die Blower Power.
-
-• "Believe it or not, it blows air!" , Gizmodo
-• Knocked Ellen Degeneres out of her chair during her TV talkshow!
-• "a one-of-a-kind application that pushes the iPhone’s functionality and awesomeness even further", krapps.com
-
-• Ranked overall #1 in 20+ countries in the App Store
-• 40+ YouTube Videos von Blower Nutzern auf der ganzen Welt
-• "This is both totally stupid and incredibly brilliant", youtube comment by "mambokurtz"
-
-Probieren Sie es aus und staunen Sie... Starten Sie Ihren Blower und spüren Sie die Luft aus der Lautsprecheröffnung. Lustige Party Trick Beispiele:
-
-• BLOW Modus: Kerzen und Feuerzeugflamme ausblasen
-• BEAT Modus: lassen Sie Flammen zum Musik Beat tanzen, oder kontrolliere Flammen mit deiner Stimme!
-• GUN Modus: lassen Sie Flammen zittern mit automatischen Gun Modus
-• TUNER Modus: passen Sie den Gebläsemotor an, um den Luftstrom auf Ihrem Gerät zu optimieren
-• Berühren Sie die Rotor des Blowers: treiben Sie es selbst it und sehen Sie die Funken
-• Geburtstag iMessage Stickerpack
-
-Neugierig? Sehen Sie sich Blower in Aktion auf BlowerApp.com, oder suchen Sie "iPhone blower" auf YouTube.
-Vielen Spaß!
-
-Qneo
-
-
-BLOWER POWER
-Für ein Maximum Blower Power, verwenden Sie das Device ohne zusätzliche Schutzhüllen / Gehäuse, verwenden Sie maximale Lautstärke, optimieren mit dem eingebauten Tuner, und stellen Sie sicher daB kein Staub in Ihrem Lautsprecheröffnung angesammelt ist. Sie können den kühlen Luftstrom überprüfen, durch die Lautsprecheröffnung nahe Ihrem Mund zu halten. Beim Ausblasen von Kerzen, brennen Sie nicht Ihren Gerät!
-
-[View on Apple](https://apps.apple.com/us/app/blower/id335862325)
-
-<a id="myradar-weather-radar-pro"></a>
-## MyRadar Weather Radar Pro
-
-![MyRadar Weather Radar Pro](../../logos/325683306-e609cca6.png)
-
-Thanks to everyone for making MyRadar so successful, with over 50 million downloads!
-
-MyRadar Pro is IDENTICAL to the free version of MyRadar; it comes without the ads by default.
-
-MyRadar is a fast, powerful, easy-to-use weather app that displays animated weather radar around your current location and to quickly show what weather is coming your way. Just start the app; your location pops up with animated live radar, with radar loop lengths of up to two hours. This basic functionality provides the quickest way to get a snapshot of the weather on-the-go, and it's what has made MyRadar so successful over the years. Check your phone and get an instant assessment of the weather that will impact your day.
-
-In addition to the live radar, MyRadar has an ever-increasing list of weather and environmentally-related data layers that you can overlay on top of the map;  our animated winds layer shows a breathtaking visual representation of both surface winds and winds at the jetstream level; the frontal boundaries layer shows high and low pressure systems as well as frontal boundaries themselves; the earthquakes layer is a great way to stay on top of the latest reports on seismic activity, completely customizable as to severity and time; our hurricane layer allows users to stay on top of the latest tropical storm and hurricane activity throughout the world; the aviation layer overlays AIRMETs, SIGMETs and other aviation-related data, including the ability to track flights and display their IFR flight plans and paths, and the "wildfires" layer allows users to stay abreast of the latest fire activity around the United States.
-
-MyRadar also has the ability to send weather and environmental alerts, including alerts from the National Weather Service, such as Tornado and Severe Weather alerts. A new feature introduced in this version of MyRadar includes the ability to receive alerts based off of Tropical  Storm and Hurricane activity;  you can configure the app to send you an alert any time a tropical storm or hurricane forms, or is upgraded or downgraded.
-
-One of the most useful features in MyRadar is the ability to provide advanced rain alerts; our patent-pending process for predicting hyper-local rainfall is the most accurate in the industry. Instead of having to check the app all the time, MyRadar will send you an alert up to an hour in advance as to when the rain will arrive at your current location, down to the minute, including details on intensity and duration. These alerts can be a life saver when you're on-the-go and don't always have time to check the weather - our systems will proactively do the work for you and let you know in advance before the rain hits.
-
-In addition to the free features of the app, additional upgrades are available, including real-time hurricane tracking - great for the start of hurricane season. The hurricane tracker provides additional data above and beyond the free version, including the cone of probability for tropical storm/hurricane forecast tracks, and it also includes a detailed synopsis from the National Hurricane Center. The premium upgrades also include the professional radar pack, which allows greater detail of radar from individual stations. Users can select individual radar stations around the US, select the radar tilt angle, and also change the radar product being displayed, including base reflectivity and wind velocity - great for experienced weather buffs looks to stay on top of possible tornado formation.
-
-Download MyRadar today and try it out!
-* Aviation Charts subscription (not required in order to use MyRadar) ($24.99 USD per YEAR)
-* Payments will be charged to your iTunes account
-* Account will be charged for renewal within 24-hours prior to the end of the current period
-* Auto-renewal may be turned off at any time by going to your settings in the iTunes Store after purchase.
-
-MyRadar’s Privacy Policy, visit: https://myradar.com/privacy
-Full terms of service: https://myradar.com/terms
-
-[View on Apple](https://apps.apple.com/us/app/myradar-weather-radar-pro/id325683306)
-
-<a id="workoutdoors"></a>
-## WorkOutDoors
-
-![WorkOutDoors](../../logos/1241909999-54dd54fb.png)
-
-WorkOutDoors is the most advanced and most configurable workout app for the Apple Watch. It's perfect for running, cycling, hiking and any other indoor or outdoor activity.
-
-Note: WorkOutDoors requires an Apple Watch Series 4 or later. It is not necessary to have your iPhone with you during a workout.
-
-The app uses Apple’s workout system, so all workouts are saved to the Health system.  However it also provides many extra features over Apple's app, such as:
-
-- a super-smooth vector map that can be shown during a workout;
-- multiple configurable screens with metrics and graphs from a pool of 800+ data fields;
-- route files can be imported and used for navigation (including turn by turn directions);
-- dozens of configurable alerts (e.g. every mile; high heart rate; low pace; off-route etc);
-- interval schedules can be created using the larger screen of the phone app;
-- climbs and descents are supported with notifications and on-screen data and graphs;
-- waypoints can be created, navigated to, and exported;
-- use shortcuts to associate operations with gestures (e.g. double tap to hear configurable metrics);
-- compare pace against a target or a previous workout (using metrics and a dot on the map);
-- show zones for pace and power as well as heart rate (with optional coloured backgrounds);
-- auto-pause is available for all outdoor activities;
-- shows GPS and heart rate before starting a workout, so that you can wait for good signals;
-- configure distance and pace for running / walking to come from Apple’s pedometer or from GPS;
-- workouts can be exported in FIT / TCX / GPX files, or automatically sent to Strava;
-- workouts created by the app can be analysed in great depth in the iPhone app.
-
-The app also has many more features.  The map is a particular highlight.  It uses OpenStreetMap, which provides worldwide coverage and includes the trails necessary for outdoor workouts.  It also has several features that help you navigate during a workout:
-
-- maps can be smoothly panned and zoomed, and can rotate according to the compass;
-- a breadcrumb trail of your whole route is displayed on the map during the workout;
-- topographic data can be shown, with configurable contour colours and hill shading;
-- map-only mode is provided for when you don't want to start a workout and just need a map;
-- a circular scale is shown when you zoom, making it easy to see the distance to features;
-- maps can be stored on the watch for use when offline (they are downloaded as required if online);
-- a red compass points north and a green compass points to the start;
-- choose a waypoint to see a compass and distance to it in the corner of the map;
-- you can also navigate to waypoints on the map, such as hospitals, sights, cafes etc.
-
-If you load a route from a GPX / TCX / FIT file then navigation is even easier:
-
-- your position is shown on an elevation profile of the route;
-- the remaining distance, time and ascent can also be displayed;
-- you can get alerted when you go off-route; 
-- when off-route then a compass is shown which points to the nearest part of the route;
-- if the route contains turn by turn directions then these can be used like a sat nav;
-- if there are no directions then the app can use “bend detection” to generate them;
-- the next direction is shown as an icon and distance in the corner of the map;
-- the map can automatically zoom in when you are approaching a turn;
-- you can use shake gestures to hear the distance to the next turn or the end of the route;
-- routes are coloured by gradient: from red for steep uphill to blue for steep downhill;
-- you can configure what information is displayed during a climb or descent.
-
-All this is included for a single one-off payment. No extra in-app purchases or subscriptions are required (although there is a completely optional in-app tip jar which was requested by long-term users). 
-
-If you own an Apple Watch and do any form of exercise, then WorkOutDoors is the app for you. Give it a go!
-
-[View on Apple](https://apps.apple.com/us/app/workoutdoors/id1241909999)
-
-<a id="autosnore-鼾声记录器"></a>
-## AutoSnore: 鼾声记录器
-
-![AutoSnore: 鼾声记录器](../../logos/6746705608-e92fe9f1.png)
-
-通过 iPhone 自动追踪您的鼾声和睡眠声音，无需订阅费！ 只需轻点开始按钮，然后安心入睡。
-
-实力团队匠心打造
--------------
-由广受欢迎的 AutoSleep App 原班团队开发，以全新创新方案助力用户掌控睡眠、改善健康。
-
-
-诚信软件，良心定价
---------------------
-无订阅机制。 无额外 App 内购买。 无后续费用。 一次性低价购买，即可终身使用。 包括所有功能。
-
-
-简单易用
--------------
-您只需要一部 iPhone。 只需启动 AutoSnore 并将手机放在床边。 醒来后即可聆听录音并查看洞见，就是这么简单。
-
-为什么选择 AutoSnore？
--------------
-睡眠弥足珍贵。全球近一半成年人受打鼾问题困扰（而大多数人甚至不自知）。是时候认真对待这个问题了。 打鼾会对睡眠质量产生严重影响，不仅会影响打鼾者本人，也会干扰同床伴侣的休息。
-
-AutoSnore 有什么作用？
--------------
-AutoSnore 可记录各种打鼾和睡眠声音，包括每次打鼾的频率、强度和持续时间，全面呈现每晚的打鼾情况。早上醒来时，系统会提供可视化分析图表，帮助您了解打鼾对整体睡眠质量的影响。
-
-高级声音识别
--------------
-AutoSnore 利用机器学习声音识别技术，可以对您所有的睡眠声音进行分类，例如打鼾、梦呓、打哈欠、咳嗽等等！这真是太神奇了。
-
-它能帮到我吗？
--------------
-当然可以！ AutoSnore 支持个性化策略跟踪，帮助您尝试各种改善方法： 无论是改变生活方式、调整睡姿、更换枕头、尝试放松技巧，还是避免晚餐时饮酒，该 App 都能帮助用户尝试不同的方法，找到最适合自己的解决方案。
-
-AutoSleep 集成
--------------
-与 AutoSleep 应用程序完美配合，您的打鼾数据可自动与睡眠分析同步！
-
-全面保护隐私
--------------
-与我们所有的 App 一样，AutoSnore 将用户隐私和数据安全放在首位。 请对比下方的 App 隐私标签，查看“未收集数据”。 您可以查看其他所谓“免费”打鼾 App，看它们能否做到同样承诺：
-
-无数据分析跟踪。 无广告插件。 无第三方代码。 无数据上传。 所有录音数据和洞见仅安全地保存在您的设备上。 只有用户可以选择与其他人分享录音。 这才是隐私保护该达到的标准。
-
-立即开始使用
------------------
-越早开始收集数据，就能越早进行管理。
-
-对于任何想要改善睡眠和整体健康的人来说，AutoSnore 都是一款必备 App。 其采用独特的 App 设计方法，摒弃一切冗余，直击问题核心，同时不让您花费过多。
-
-AutoSnore并非医疗器械。如有任何健康问题或疑虑，请务必咨询专业医疗人员。
-
-Xiaohongshu
-https://xhslink.com/m/2jNT7YK0hDk
-
-Weixin
-https://mp.weixin.qq.com/s/VG_LflL7y0QYrdOIrpRlLw
-
-[View on Apple](https://apps.apple.com/us/app/autosnore-snoring-recorder/id6746705608)
-
-<a id="happycow-vegan-food-near-you"></a>
-## HappyCow - Vegan Food Near You
-
-![HappyCow - Vegan Food Near You](../../logos/435871950-6db36088.png)
-
-Featured auf CNN und in der New York Times und The Guardian: Die #1 unter den veganen und vegetarischen Restaurantführer des App Store. Seit 1999 hat HappyCow Benutzern geholfen, vegane Optionen in über 200.000 Restaurants, Cafés und Lebensmittelgeschäften in über 180 Ländern zu finden. Jetzt ist es einfach, vegane Lebensmittel in der Nähe zu finden oder zum Mitnehmen zu bekommen. Lesen Sie mehr als 1.875.000 Bewertungen und sehen Sie mehr als 3.000.000 Fotos, die von unserer großartigen Community gepostet wurden! Mit HappyCow können Sie nach vegan-freundlichen Bäckereien, Reformhäusern, Catering, Bauernmärkten, Saftbars, Cafés oder anderen veganen Geschäften suchen und Filter für Lieferung und Mitnahme verwenden!
-
-Eigenschaften:
-* Suchfilter nach Standort, vegan, vegetarisch, Geschäften usw. und nach Stichworten
-* Stöbere in HappyCow nach einem beliebten Café oder Restaurant mit guten Bewertungen
-* Speichere Deine Favoriten zum zukünftigen Zugriff (offline verfügbar!)
-* Organisiere Restaurants und Geschäfte für Deine bevorstehenden Reisen (Nutzung ohne Internet)
-* Zeige Unternehmen auf interaktiven Karten an
-* Sieh dir Fotos, Rezensionen und Informationen an, die Dir helfen, die beste Mahlzeit zu finden
-* Rufe Wegbeschreibungen, Telefonnummern, Bewertungen und Website-Informationen ab
-* Einfach teilen, was Du mit Deinen Freunden gefunden hast
-* Über 220.000 vegan-freundliche Angebote
-* Der Inhalt wird rund um die Uhr von einem engagierten Team und unseren 2 Millionen + monatlichen Besuchern aktualisiert
-* Lade Fotos von Deinem köstlichen Essen hoch
-* Hilf allen anderen HappyCow-Nutzern mit Deinen Bewertungen und Ratschlägen
-* Tritt der größten Veg Community von über 1.000.000 Mitgliedern bei
-Gibt's Probleme? Schick uns eine Nachricht: ios (at) happycow.net
-
-[View on Apple](https://apps.apple.com/us/app/happycow-vegan-food-near-you/id435871950)
-
-<a id="obd-fusion"></a>
-## OBD Fusion
-
-![OBD Fusion](../../logos/650684932-c9403dee.png)
-
-OBD Fusion is an app for your car that allows you to read OBD2 vehicle data directly from your iPhone or iPad. You can clear your check engine light, create custom dashboards, read diagnostic trouble codes, estimate fuel economy, and much more!
-
-Is your check engine light on? Do you want to monitor fuel economy and usage in your vehicle? Do you want cool looking virtual dashboards on your iPhone or iPad? If so, then OBD Fusion is the app for you! OBD Fusion is used by professional mechanics, do-it-yourself mechanics, and vehicle owners who want to monitor their vehicle and daily driving habits. Drive smarter, improve your fuel economy, and keep your engine healthy!
-
-IMPORTANT NOTE: You must have a Wi-Fi ELM327 compatible adapter or compatible Bluetooth LE adapter such as Veepeak BLE/BLE+ 4.0 adapter, Carista BLE adapter, OBDLink MX+, OBDLink CX, Tonwon BLE adapter, LELink BLE adapter, Viecar BLE adapter, Lonauto adapter, Vgate iCar Bluetooth 4.0, BAST BLE adapter, Kiwi 3/4 to use this app. OBD Fusion is not compatible with generic ELM Bluetooth scan tools. Checkout additional adapters here: https://www.obdsoftware.net/software/obdfusion
-
-OBD Fusion supports all OBD2 and EOBD vehicles sold worldwide. If you're not sure whether your vehicle is OBD2 or EOBD compliant, see this page for more information: https://www.obdsoftware.net/knowledgebase/obd2compliant. OBD Fusion can also connect to some JOBD vehicles that don’t support standard OBD2 protocols.
-
-Electric vehicles (EVs) are not required to have OBD2 diagnostics since they are emissions exempt. If you are interested in using OBD Fusion on an EV, contact us first to inquire about support.
-
-OBD Fusion has a ton of features including:
-- Read and clear emissions-related trouble codes (fault codes) and your Check Engine Light (MIL) 
-- View vital driving information on your CarPlay screen. Note that real-time gauges are not supported by CarPlay, so you can't view your OBD Fusion pages such as dashboards on CarPlay.
-- With optional enhanced diagnostic add-ons, you can read and clear enhanced trouble codes on other modules such as ABS, SRS, etc. and read transmission temperature. An enhanced diagnostic add-on is required for this functionality.
-- Real-time dashboard display with fully customizable gauges. Create your own dashboards with the gauges that you want to see.
-- Performance calculations for 1/4 mile and 0-60 mph track times
-- Fuel economy MPG (US and UK), l/100km or km/l calculation
-- Full diagnostic report that can be stored and shared
-- Real-time graphing of multiple signals
-- Real-time data logging and playback
-- Multiple trip meters 
-- Log data to CSV file
-- Create custom enhanced PIDs
-- Includes some built-in enhanced PIDs for GM vehicles
-- Display Boost pressure in real-time
-- Display Engine Power and Torque
-- Display calculated Air-to-fuel ratio
-- Display battery voltage 
-- Read freeze frame data 
-- Fully customizable units including English, Imperial, and Metric units 
-- Over 250 supported PIDs 
-- Display vehicle information including VIN and calibration ID 
-- Emissions readiness for each US state. Find out if your car will pass emissions inspection.
-- Oxygen Sensor Results (Mode 05) 
-- On-board Monitoring Tests (Mode 06) 
-- In-performance Tracking Counters (Mode 09) 
-- GPS tracking - plot vehicle parameters on a map
-- Integrated iCloud and Dropbox functionality
-- Available in English, Spanish, French, Italian, German, Czech, Greek, Chinese, and Portuguese
-- Manufacturer specific Enhanced Diagnostics are available for certain vehicles through In-App purchases.
-
-** Continued use of GPS running in the background can dramatically decrease battery life.
-
-OBD Fusion is brought to you by OCTech, LLC, the makers of TouchScan and OBDwiz.
-
-OBD Fusion is a trademark of OCTech, LLC registered in the U.S.
-
-[View on Apple](https://apps.apple.com/us/app/obd-fusion/id650684932)
-
-<a id="necrometer"></a>
-## Necrometer
-
-![Necrometer](../../logos/1670762759-7ee05bd5.png)
-
-Necrometer
-
-Designed for ghost hunters and paranormal enthusiasts. This multifunctional app can be used to detect and communicate with spirits. We have taken known spirit communication techniques and theories and have implemented them here in new and innovative ways. 
-
--Meter that detects and measures magnetic energy
--Text and Speech modes
--2 Built in Text To Speech A.I. systems
--3 Voices
--Pitch control with randomization option
--Reverb and Echo audio effects
-
-The Meter:
-It is believed that spirits can affect magnetic energy fields. Using your phone’s Magnetometer sensor this app can detect levels of magnetic interference in the environment. These fluctuations of energy fields have a direct influence on the communication.
--Meter noise (optional) reacts to fluctuations in the meter
-
-Text Mode:
-Simply slide the power button over to "Text" and begin asking your questions. Walking around a location you can detect energy anomalies and various levels of magnetic interference. Words and phrases will begin coming through the app. The relevance of the communication is determined by multiple factors including spirit connection and strength. Those who have a stronger connection to the otherside may experience more direct and relevant communication. 
-Similar to the famous Ovilus ITC device, the Necrometer app is designed to facilitate spirit communication by measuring fluctuations of energy in the environment. The idea that spirits can manipulate electronic devices for purposes of communication is well documented. Based on the theory of random selection and known evidence of energy manipulation, the Necrometer app utilizes these known methods of spirit communication and paranormal phenomena. 
--Access to over 60k words/phrases
--Custom word list, Add your own words and phrases
-
-Speech Mode:
-Sliding the power button over to "Speech" will turn on this unique mode of the app. Created to facilitate ghost box/ EVP like communication, the speech mode of the app provides audible spirit communication like no other. Generating speech sounds from within the app, there are no sound banks, word lists, radio, or any other pre-recorded audio. Spirits can use and manipulate these random speech sounds to form coherent messages, an idea rooted in ITC/EVP theory. Some of these messages may be heard in real time similar to a ghost box, other EVP-like communication can be heard on playback of the recorded audio. Again, the strength and level of communication being recieved depends on various factors. Coherent messages can only be obtained through communication with spirit, otherwise only unclear speech sounds will be heard.
--Rate slider to increase/decrease rate of audio coming through
-
-The Necrometer app is an advanced all-in-one app that can be used to detect energy anomalies in the area, produce words and phrases that can provide relevant clues/information, and provide audible ITC/EVP communication from spirit.
-
-[View on Apple](https://apps.apple.com/us/app/necrometer/id1670762759)
 
 <a id="pocket-god"></a>
 ## Pocket God
@@ -2084,6 +1589,157 @@ Ep 47: Apocalypse, Ow!
 
 [View on Apple](https://apps.apple.com/us/app/pocket-god/id301387274)
 
+<a id="mein-blitz-tracker-pro"></a>
+## Mein Blitz-Tracker Pro
+
+![Mein Blitz-Tracker Pro](../../logos/1175031995-d3ae6693.png)
+
+Mein Blitz-Tracker Pro ist die beste App, um Blitzeinschläge auf der ganzen Welt nahezu in Echtzeit zu überwachen. Mit dem schlanken, modernen Design der App können Sie Gewitter beobachten, wenn sie auftreten. Sie können auch Benachrichtigungen über Blitzschläge in Ihrer Region erhalten.
+
+– Zeigt Blitzeinschläge auf der ganzen Welt an!
+– Ermitteln Sie anhand des Verlaufs der Hotspots, wo Blitzschläge am häufigsten auftreten!
+– Die detaillierte Informationen über den Ort des Gewitters werden auf einer Karte angezeigt.
+– Erhalten Sie Benachrichtigungen, wenn sich ein Sturm in der Nähe befindet, damit Sie ihn live überwachen können.
+– Benachrichtigen Sie Ihre Freunde übe reinen Blitzschlag, damit auch sie wissen, wo Donner und Blitzen auftreten könnten!
+– Volle Unterstützung für die neuesten Versionen von iOS.
+– Keine Werbung!
+
+Wenn Sie auf effiziente Weise Informationen über Blitzschläge und Gewitter suchen möchten, ist Mein Blitz-Tracker Pro die richtige App für Sie. Diese App informiert Sie, wenn ein Gewitter naht.
+
+[View on Apple](https://apps.apple.com/us/app/my-lightning-tracker-pro/id1175031995)
+
+<a id="noir-dark-mode-for-safari"></a>
+## Noir - Dark Mode for Safari
+
+![Noir - Dark Mode for Safari](../../logos/1581140954-199287b8.png)
+
+Noir is a Safari extension that automatically adds a dark mode to every website you visit.
+
+It makes browsing the web at night so much better. With Noir, you won’t be blinded by bright websites ever again.
+
+And the results look great too. Noir generates a custom dark style for each website you visit, based on the colors that are used on a page. You won’t even notice this happening in the background – that’s how fast it is – but you’ll certainly appreciate the end result: a beautiful dark mode tailored for each website, where contrast is preserved and highlights still pop. And with over 20 built-in themes and the ability to create your own, you can customize the results exactly the way you want.
+
+Noir works with any website you visit in Safari, automatically. By default, Noir is linked to your device’s Dark Mode, so websites will only go dark when you want them to. But you can easily customize this to your liking, even per website. Only want to use Noir on just a few specific websites? Sure thing! Disable Noir on some websites? No problem!
+
+Built from the ground up for iOS and iPadOS, the app feels right at home on your device. It supports the brand new Safari web extension feature, which means there’s no need to manually activate it every time you load a new page. The app also tightly integrates with system features such as Shortcuts, Control Center, Focus Filters, and Widgets to fully integrate Noir in all your workflows. And your settings are automatically synced to all your devices using iCloud.
+
+And just as importantly, Noir takes your privacy seriously: it doesn’t collect any of your browsing data. Period.
+
+Noir is made by an indie iOS developer. It does not include any subscriptions or ads. Buy Noir once, use it forever.
+
+Notes:
+• Found a website where Noir’s dark mode doesn’t look just right? Let me know by reporting it. The app will be frequently updated to address issues that are reported.
+
+Privacy Policy:
+• The Noir extension requires access to the websites you visit to analyze the existing style of the page and to override it with Noir's dark style.
+• Noir never collects your browsing data. The only data Noir ‘collects’ are your settings, and those will never leave your device or iCloud account.
+• You can read Noir’s full Privacy Policy at https://getnoir.app/privacypolicy
+
+[View on Apple](https://apps.apple.com/us/app/noir-dark-mode-for-safari/id1581140954)
+
+<a id="necrophonic"></a>
+## Necrophonic
+
+![Necrophonic](../../logos/1396698319-774c0f53.png)
+
+Necrophonic is an ITC app used for spirit communication and EVP research.
+
+8 Sounds Banks:
+
+The audio has been mastered in a way to bring out various sound properties . 
+Using Pro Tools I was able to enhance high, mid, and low range frequencies. I also applied 
+other filters to create unique sound characteristics to help layer the audio and create an 
+environment suitable for spirit communication.
+
+The audio itself is made up of phonemes, 
+partial words, reverse audio, foreign languages, and other parts of speech that can help 
+spirits communicate. Besides some basic phonetic sounds such as na, no, da, do, di, ma, may, etc.
+there are no real words of phrases contained in the banks.
+
+These sounds banks play in a similar
+way to that of my other app "Spiritus Ghost Box" but instead of 4 sound banks Necrophonic has
+8 active sound banks.
+
+White Noise Sound Bank:
+
+This app also has an optional 9th sound bank called "White noise". 
+This bank can be used alone or with the other 8 giving you a total of 9 sound banks. This 
+audio is taken for the internal sounds of the famous DR60 recorder that is known as the 
+"Holy Grail" of EVP recorders. This is not a White Noise Generator, this is a normal sound bank like the others but this one contains white noise from the DR60.
+
+Audio Effects:
+
+This app does contain Echo and Reverb audio effects. These have been proven 
+to be the best effects to apply to ITC sessions. The echo can create audio that can be 
+manipulated within the echo itself. Echo can also help in live, real time communication by 
+repeating the audio and allowing you to better hear whats coming through. Reverb can be 
+applied to the audio to create a spacious sound environment that will enhance audio manipulation.
+
+[View on Apple](https://apps.apple.com/us/app/necrophonic/id1396698319)
+
+<a id="autosnore-鼾声记录器"></a>
+## AutoSnore: 鼾声记录器
+
+![AutoSnore: 鼾声记录器](../../logos/6746705608-e92fe9f1.png)
+
+通过 iPhone 自动追踪您的鼾声和睡眠声音，无需订阅费！ 只需轻点开始按钮，然后安心入睡。
+
+实力团队匠心打造
+-------------
+由广受欢迎的 AutoSleep App 原班团队开发，以全新创新方案助力用户掌控睡眠、改善健康。
+
+
+诚信软件，良心定价
+--------------------
+无订阅机制。 无额外 App 内购买。 无后续费用。 一次性低价购买，即可终身使用。 包括所有功能。
+
+
+简单易用
+-------------
+您只需要一部 iPhone。 只需启动 AutoSnore 并将手机放在床边。 醒来后即可聆听录音并查看洞见，就是这么简单。
+
+为什么选择 AutoSnore？
+-------------
+睡眠弥足珍贵。全球近一半成年人受打鼾问题困扰（而大多数人甚至不自知）。是时候认真对待这个问题了。 打鼾会对睡眠质量产生严重影响，不仅会影响打鼾者本人，也会干扰同床伴侣的休息。
+
+AutoSnore 有什么作用？
+-------------
+AutoSnore 可记录各种打鼾和睡眠声音，包括每次打鼾的频率、强度和持续时间，全面呈现每晚的打鼾情况。早上醒来时，系统会提供可视化分析图表，帮助您了解打鼾对整体睡眠质量的影响。
+
+高级声音识别
+-------------
+AutoSnore 利用机器学习声音识别技术，可以对您所有的睡眠声音进行分类，例如打鼾、梦呓、打哈欠、咳嗽等等！这真是太神奇了。
+
+它能帮到我吗？
+-------------
+当然可以！ AutoSnore 支持个性化策略跟踪，帮助您尝试各种改善方法： 无论是改变生活方式、调整睡姿、更换枕头、尝试放松技巧，还是避免晚餐时饮酒，该 App 都能帮助用户尝试不同的方法，找到最适合自己的解决方案。
+
+AutoSleep 集成
+-------------
+与 AutoSleep 应用程序完美配合，您的打鼾数据可自动与睡眠分析同步！
+
+全面保护隐私
+-------------
+与我们所有的 App 一样，AutoSnore 将用户隐私和数据安全放在首位。 请对比下方的 App 隐私标签，查看“未收集数据”。 您可以查看其他所谓“免费”打鼾 App，看它们能否做到同样承诺：
+
+无数据分析跟踪。 无广告插件。 无第三方代码。 无数据上传。 所有录音数据和洞见仅安全地保存在您的设备上。 只有用户可以选择与其他人分享录音。 这才是隐私保护该达到的标准。
+
+立即开始使用
+-----------------
+越早开始收集数据，就能越早进行管理。
+
+对于任何想要改善睡眠和整体健康的人来说，AutoSnore 都是一款必备 App。 其采用独特的 App 设计方法，摒弃一切冗余，直击问题核心，同时不让您花费过多。
+
+AutoSnore并非医疗器械。如有任何健康问题或疑虑，请务必咨询专业医疗人员。
+
+Xiaohongshu
+https://xhslink.com/m/2jNT7YK0hDk
+
+Weixin
+https://mp.weixin.qq.com/s/VG_LflL7y0QYrdOIrpRlLw
+
+[View on Apple](https://apps.apple.com/us/app/autosnore-snoring-recorder/id6746705608)
+
 <a id="things-3"></a>
 ## Things 3
 
@@ -2153,48 +1809,220 @@ Wende dich an uns, wenn du Fragen hast. Wir helfen gerne weiter.
 
 [View on Apple](https://apps.apple.com/us/app/things-3/id904237743)
 
-<a id="ireal-pro"></a>
-## iReal Pro
+<a id="ableton-note"></a>
+## Ableton Note
 
-![iReal Pro](../../logos/298206806-55f5f1ba.png)
+![Ableton Note](../../logos/1633243177-1a504e58.png)
 
-iReal Pro réunit deux choses que les musiciens adorent en une seule app : un groupe d’accompagnement au son réaliste qui joue avec vous, et une énorme bibliothèque gratuite de grilles d’accords consultables à tout moment — en répétition, en jam session ou sur scène. Besoin de transposer un morceau pour un chanteur ? C’est fait. Envie de jouer avec une section rythmique complète derrière vous ? Appuyez sur play.
+Entwickele neue musikalische Ideen mit ausgewählten Sounds und Effekten. Erstelle Beats und Melodieparts, sample deine Umgebung und entwickele deine Tracks in Ableton Live weiter.
 
-Désignée parmi les 50 Meilleures Inventions du TIME Magazine et utilisée par des milliers d’étudiants, professeurs et pros dans des écoles comme le Berklee College of Music — iReal Pro aide les musiciens à progresser depuis 2008.
+Note ist ein Ort für Skizzen, neue Sounds und Ideen: Lass deinen Ideen freien Lauf oder experimentiere einfach, bis die Inspiration einsetzt. Dabei steht dir eine Auswahl von Lives Drum-Kits, Synths und Instrumenten zur Verfügung. Erstelle deine eigene Klangpalette, indem du mit dem integrierten Mikrofon deines Telefons Samples aufnimmst. Und nutze den integrierten MIDI-Editor von Note, um Noten, Beats und Akkorde zu sequenzieren oder beim Hören Anpassungen zu vorzunehmen
+ 
+Verfolge deine Ideen, wohin auch immer sie dich führen und sende deine Projekte mit Ableton Cloud an Live, ohne die App zu verlassen. Du findest deine Projekte in Lives Browser und kannst dort weiterarbeiten. Sämtliche Samples und Sounds werden direkt aus Note übernommen, MIDI-Noten kannst du nach Belieben verändern. Alle Nutzerinnen und Nutzer von Ableton Note bekommen eine kostenlose Lizenz für Ableton Live Lite – der einfachen und intuitiven Software, mit der Musikschaffende, Producer und DJs aus aller Welt komponieren, aufnehmen und performen. Nutzerinnen und Nutzern von Ableton Move können mit Note außerdem vom Telefon aus weiter an Sets arbeiten.
+  
+Mit einem Beat einsteigen:
+• Wähle zwischen 76 Drum-Sampler-Kits
+• Tippe auf 16-Pads einen Beat ein oder sequenziere ihn mit dem MIDI-Editor
+• Spiele Drums melodisch im 16-Pitch-Modus
+• Quantisiere deine Beats oder verschiebe Noten, um ungenaues Timing und Fehler zu korrigieren
+• Schichte Rhythmen übereinander
+• Erzeuge Beat-Wiederholungen mit Note Repeat
+• Verändere deine Sounds mit Parametern
+• Experimentiere mit Effekten oder sorge mit Swing für mehr Abwechslung
+ 
+Mit einer Melodie starten:
+• Entdecke 317 Synth-Sounds and 60 melodische Sampler-Instrumente
+• Spiele oder programmiere Melodien und Akkordfolgen mit dem 25-Pad-Raster, der Pianorolle oder dem MIDI-Editor
+• Lege Tonarten und Skalen fest – für harmonische Ergebnisse
+• Schichte mehre Harmonien übereinander
+• Verändere deine Sounds mit Parametern
+• Spiele mit Effekten für experimentelles Sound Design
+ 
+Deine Welt sampeln:
+• Erstelle eigene Drum-Kits aus Aufnahmen perkussiver Sounds im Drum Sampler von Note
+• Baue eigene melodische Sampler-Instrumente aus zuvor aufgenommenen tonalen Sounds
+• Bearbeite deine Samples durch Zerschneiden, Filter und Pitch-Änderungen
+• Sequenziere Samples mit dem MIDI-Editor in Beats, Melodien und Akkorde
+• Forme und verzerre Sounds mit Effekten
+• Importiere eigene Samples oder Audiomaterial aus Videos
 
-GROUPE
-• 50 styles d’accompagnement — Swing, Bossa Nova, Blues, Funk, Rock, Bluegrass, Reggae, Latin, Gypsy Jazz, Country et bien d’autres
-• Personnalisez chaque style avec piano acoustique ou électrique, Fender Rhodes, guitares, contrebasse ou basse électrique, batterie, vibraphone et orgue
-• 40 styles supplémentaires — blues, salsa, brésiliens — disponibles en achats intégrés
+Mit Audio arbeiten:
+• Füge Audio-Clips aus der Bibliothek hinzu
+• Warpe das Tempo oder passe die Tonhöhe deiner Clips an
+• Nimm Audio direkt mit dem integrierten Mikrofon deines Telefons auf
+• Schließe ein Audio-Interface an, um externe Quellen aufzunehmen
+• Kombiniere aufgenommenes und importiertes Audio mit deinen Beats und Melodien
 
-RECUEIL
-• Téléchargez des milliers de grilles d’accords gratuites partagées par la communauté iReal Pro
-• Créez vos propres grilles en quelques minutes avec l’éditeur intégré
-• Organisez les grilles en listes pour vos concerts, sets ou cours
+Improvisationen einfangen:
+• Halte deine Ideen mit „Capture“ fest – auch nach dem Spielen
+• Spiele nach Gefühl – Note erkennt das Tempo
+• Note bestimmt automatisch die Länge einer Phrase und erzeugt einen Loop
+• Quantisiere Loops, füge Sounds hinzu und verändere sie
+• Schließe deinen MIDI-Controller an, um mit Tasten zu spielen und den Sound der Instrumente intuitiv zu verändern
+ 
+Abwechslung reinbringen:
+• Note bietet ein Raster zum Spielen, ähnlich der Session-Ansicht in Live
+• Verdopple Loops, um innerhalb von Clips Variation reinzubringen
+• Dupliziere Clips und kombiniere verschiedene Versionen von Ideen
+• Mehrere Noten gleichzeitig mit dem MIDI-Editor hinzufügen, löschen oder anpassen
+• Erstelle acht Spuren mit bis zu acht Clips in acht Szenen
+• Experimentiere mit verschiedenen Clip-Kombinationen und Songstrukturen
+• Exportiere deine Skizzen und Songs als Audio-Datei, um sie mit anderen zu teilen
 
-PRATIQUE
-• Ajustez le tempo, bouclez les passages difficiles, transposez dans n’importe quelle tonalité
-• Accélération automatique du tempo et cycle de tonalités pour un travail ciblé
-• Transposition globale pour les instruments en Mib, Sib, Fa et Sol
+[View on Apple](https://apps.apple.com/us/app/ableton-note/id1633243177)
 
-ACCORDS
-• Doigtés de guitare, ukulélé et piano pour chaque accord
-• Touchez n’importe quel accord dans votre grille pour voir comment il se joue
-• Suggestions de gammes pour l’improvisation
+<a id="necrometer"></a>
+## Necrometer
 
-PARTAGER
-• Partagez grilles et listes avec d’autres utilisateurs iReal Pro
-• Exportez les grilles en PDF ou MusicXML
-• Exportez les morceaux d’accompagnement en fichiers audio ou MIDI
-• Synchronisez entre iPhone, iPad et Mac avec iCloud
+![Necrometer](../../logos/1670762759-7ee05bd5.png)
 
-POUR LES PROFS
-• Créez des listes d’exercices ou de morceaux pour vos élèves
-• Utilisez en classe, en direct ou en partage d’écran lors de cours en ligne
+Necrometer
 
-Nous sommes une petite équipe de musiciens qui avons créé cette app parce que nous en avions besoin nous-mêmes. Nous espérons que vous l’apprécierez autant que nous.
+Designed for ghost hunters and paranormal enthusiasts. This multifunctional app can be used to detect and communicate with spirits. We have taken known spirit communication techniques and theories and have implemented them here in new and innovative ways. 
 
-[View on Apple](https://apps.apple.com/us/app/ireal-pro/id298206806)
+-Meter that detects and measures magnetic energy
+-Text and Speech modes
+-2 Built in Text To Speech A.I. systems
+-3 Voices
+-Pitch control with randomization option
+-Reverb and Echo audio effects
+
+The Meter:
+It is believed that spirits can affect magnetic energy fields. Using your phone’s Magnetometer sensor this app can detect levels of magnetic interference in the environment. These fluctuations of energy fields have a direct influence on the communication.
+-Meter noise (optional) reacts to fluctuations in the meter
+
+Text Mode:
+Simply slide the power button over to "Text" and begin asking your questions. Walking around a location you can detect energy anomalies and various levels of magnetic interference. Words and phrases will begin coming through the app. The relevance of the communication is determined by multiple factors including spirit connection and strength. Those who have a stronger connection to the otherside may experience more direct and relevant communication. 
+Similar to the famous Ovilus ITC device, the Necrometer app is designed to facilitate spirit communication by measuring fluctuations of energy in the environment. The idea that spirits can manipulate electronic devices for purposes of communication is well documented. Based on the theory of random selection and known evidence of energy manipulation, the Necrometer app utilizes these known methods of spirit communication and paranormal phenomena. 
+-Access to over 60k words/phrases
+-Custom word list, Add your own words and phrases
+
+Speech Mode:
+Sliding the power button over to "Speech" will turn on this unique mode of the app. Created to facilitate ghost box/ EVP like communication, the speech mode of the app provides audible spirit communication like no other. Generating speech sounds from within the app, there are no sound banks, word lists, radio, or any other pre-recorded audio. Spirits can use and manipulate these random speech sounds to form coherent messages, an idea rooted in ITC/EVP theory. Some of these messages may be heard in real time similar to a ghost box, other EVP-like communication can be heard on playback of the recorded audio. Again, the strength and level of communication being recieved depends on various factors. Coherent messages can only be obtained through communication with spirit, otherwise only unclear speech sounds will be heard.
+-Rate slider to increase/decrease rate of audio coming through
+
+The Necrometer app is an advanced all-in-one app that can be used to detect energy anomalies in the area, produce words and phrases that can provide relevant clues/information, and provide audible ITC/EVP communication from spirit.
+
+[View on Apple](https://apps.apple.com/us/app/necrometer/id1670762759)
+
+<a id="happycow-vegan-food-near-you"></a>
+## HappyCow - Vegan Food Near You
+
+![HappyCow - Vegan Food Near You](../../logos/435871950-6db36088.png)
+
+Featured auf CNN und in der New York Times und The Guardian: Die #1 unter den veganen und vegetarischen Restaurantführer des App Store. Seit 1999 hat HappyCow Benutzern geholfen, vegane Optionen in über 200.000 Restaurants, Cafés und Lebensmittelgeschäften in über 180 Ländern zu finden. Jetzt ist es einfach, vegane Lebensmittel in der Nähe zu finden oder zum Mitnehmen zu bekommen. Lesen Sie mehr als 1.875.000 Bewertungen und sehen Sie mehr als 3.000.000 Fotos, die von unserer großartigen Community gepostet wurden! Mit HappyCow können Sie nach vegan-freundlichen Bäckereien, Reformhäusern, Catering, Bauernmärkten, Saftbars, Cafés oder anderen veganen Geschäften suchen und Filter für Lieferung und Mitnahme verwenden!
+
+Eigenschaften:
+* Suchfilter nach Standort, vegan, vegetarisch, Geschäften usw. und nach Stichworten
+* Stöbere in HappyCow nach einem beliebten Café oder Restaurant mit guten Bewertungen
+* Speichere Deine Favoriten zum zukünftigen Zugriff (offline verfügbar!)
+* Organisiere Restaurants und Geschäfte für Deine bevorstehenden Reisen (Nutzung ohne Internet)
+* Zeige Unternehmen auf interaktiven Karten an
+* Sieh dir Fotos, Rezensionen und Informationen an, die Dir helfen, die beste Mahlzeit zu finden
+* Rufe Wegbeschreibungen, Telefonnummern, Bewertungen und Website-Informationen ab
+* Einfach teilen, was Du mit Deinen Freunden gefunden hast
+* Über 220.000 vegan-freundliche Angebote
+* Der Inhalt wird rund um die Uhr von einem engagierten Team und unseren 2 Millionen + monatlichen Besuchern aktualisiert
+* Lade Fotos von Deinem köstlichen Essen hoch
+* Hilf allen anderen HappyCow-Nutzern mit Deinen Bewertungen und Ratschlägen
+* Tritt der größten Veg Community von über 1.000.000 Mitgliedern bei
+Gibt's Probleme? Schick uns eine Nachricht: ios (at) happycow.net
+
+[View on Apple](https://apps.apple.com/us/app/happycow-vegan-food-near-you/id435871950)
+
+<a id="e-sword-lt-bible-study-to-go"></a>
+## e-Sword LT: Bible Study to Go
+
+![e-Sword LT: Bible Study to Go](../../logos/634158738-84947951.png)
+
+e-Sword® — the world's most popular PC Bible study software is now available on the world's most advanced mobile operating system!  e-Sword LT is the little brother of e-Sword HD for the iPad, but has many of the same powerful features in a slimmer design for the iPhone.  e-Sword LT is feature rich and user friendly.  As your Biblical library grows you will appreciate the intuitive layout and synchronization of resources.  e-Sword LT is so easy to use you may never need to read the Tutorial!
+
+EVERYTHING NEEDED to study the Bible in an enjoyable and enriching manner.  All Bibles, commentaries, dictionaries, … everything is just a tap away!
+
+POWERFUL SEARCHES that are simple to use.  Enter as many words you want to search for and select the settings.  You can even search on Strong numbers!
+
+STRONG'S DEFINITIONS are just a tap away and presented in a popover.
+
+SCRIPTURE REFERENCES too are just a tap away and presented in a popover.
+
+COMPARE BIBLES quickly to see how the different versions translate a verse.
+
+LOCATION MAPS pin-point Biblical places on live modern maps to help bring the narrative to life!
+
+READING PLANS designed to help you grow in your knowledge of the Bible.
+
+FORMATTED EMAILS of any selection of any text.  Perfect for sharing with others.
+
+No Internet connection is required to use e-Sword LT.
+
+e-Sword LT initially installs with the King James Bible and the King James with Strong's numbers study Bible, the Strong's Lexicon, Smith's Bible dictionary, Meyer's devotional commentary, and the Treasury of Scripture Knowledge cross references.  There are over one hundred additional Bibles, commentaries, dictionaries, reference books and devotionals that you can download and add to your library absolutely free!
+
+Also available are some "locked" resources which must be purchased from their publisher.  These are copyright and licensing requirements which are unavoidable.
+
+Please note that e-Sword LT is an *ENGLISH* release (but does include Spanish, Portuguese and French UI localization.)  There are dozens of non-English Bibles available, but all other content is in English.
+
+The perfect app on the perfect device.  What are you waiting for?  Download e-Sword LT today and get to studying the Bible!
+
+[View on Apple](https://apps.apple.com/us/app/e-sword-lt-bible-study-to-go/id634158738)
+
+<a id="workoutdoors"></a>
+## WorkOutDoors
+
+![WorkOutDoors](../../logos/1241909999-54dd54fb.png)
+
+WorkOutDoors is the most advanced and most configurable workout app for the Apple Watch. It's perfect for running, cycling, hiking and any other indoor or outdoor activity.
+
+Note: WorkOutDoors requires an Apple Watch Series 4 or later. It is not necessary to have your iPhone with you during a workout.
+
+The app uses Apple’s workout system, so all workouts are saved to the Health system.  However it also provides many extra features over Apple's app, such as:
+
+- a super-smooth vector map that can be shown during a workout;
+- multiple configurable screens with metrics and graphs from a pool of 800+ data fields;
+- route files can be imported and used for navigation (including turn by turn directions);
+- dozens of configurable alerts (e.g. every mile; high heart rate; low pace; off-route etc);
+- interval schedules can be created using the larger screen of the phone app;
+- climbs and descents are supported with notifications and on-screen data and graphs;
+- waypoints can be created, navigated to, and exported;
+- use shortcuts to associate operations with gestures (e.g. double tap to hear configurable metrics);
+- compare pace against a target or a previous workout (using metrics and a dot on the map);
+- show zones for pace and power as well as heart rate (with optional coloured backgrounds);
+- auto-pause is available for all outdoor activities;
+- shows GPS and heart rate before starting a workout, so that you can wait for good signals;
+- configure distance and pace for running / walking to come from Apple’s pedometer or from GPS;
+- workouts can be exported in FIT / TCX / GPX files, or automatically sent to Strava;
+- workouts created by the app can be analysed in great depth in the iPhone app.
+
+The app also has many more features.  The map is a particular highlight.  It uses OpenStreetMap, which provides worldwide coverage and includes the trails necessary for outdoor workouts.  It also has several features that help you navigate during a workout:
+
+- maps can be smoothly panned and zoomed, and can rotate according to the compass;
+- a breadcrumb trail of your whole route is displayed on the map during the workout;
+- topographic data can be shown, with configurable contour colours and hill shading;
+- map-only mode is provided for when you don't want to start a workout and just need a map;
+- a circular scale is shown when you zoom, making it easy to see the distance to features;
+- maps can be stored on the watch for use when offline (they are downloaded as required if online);
+- a red compass points north and a green compass points to the start;
+- choose a waypoint to see a compass and distance to it in the corner of the map;
+- you can also navigate to waypoints on the map, such as hospitals, sights, cafes etc.
+
+If you load a route from a GPX / TCX / FIT file then navigation is even easier:
+
+- your position is shown on an elevation profile of the route;
+- the remaining distance, time and ascent can also be displayed;
+- you can get alerted when you go off-route; 
+- when off-route then a compass is shown which points to the nearest part of the route;
+- if the route contains turn by turn directions then these can be used like a sat nav;
+- if there are no directions then the app can use “bend detection” to generate them;
+- the next direction is shown as an icon and distance in the corner of the map;
+- the map can automatically zoom in when you are approaching a turn;
+- you can use shake gestures to hear the distance to the next turn or the end of the route;
+- routes are coloured by gradient: from red for steep uphill to blue for steep downhill;
+- you can configure what information is displayed during a climb or descent.
+
+All this is included for a single one-off payment. No extra in-app purchases or subscriptions are required (although there is a completely optional in-app tip jar which was requested by long-term users). 
+
+If you own an Apple Watch and do any form of exercise, then WorkOutDoors is the app for you. Give it a go!
+
+[View on Apple](https://apps.apple.com/us/app/workoutdoors/id1241909999)
 
 <a id="white-noise"></a>
 ## White Noise
@@ -2305,6 +2133,245 @@ For more information on our privacy policy please visit:
 http://dan-russell-pinson.com/privacy/
 
 [View on Apple](https://apps.apple.com/us/app/stack-the-states/id381342267)
+
+<a id="blower"></a>
+## Blower
+
+![Blower](../../logos/335862325-bd940dc1.png)
+
+"It blows air!", CNN --- Unlocken Sie den neuen mind-blowing-Funktion auf Ihrem iPhone und iPad: Ändern Sie es in einem echten Luft Blower! Blower nutzt geheime Hardware-Features von Ihrem Device, überprüfen Sie unten die Blower Power.
+
+• "Believe it or not, it blows air!" , Gizmodo
+• Knocked Ellen Degeneres out of her chair during her TV talkshow!
+• "a one-of-a-kind application that pushes the iPhone’s functionality and awesomeness even further", krapps.com
+
+• Ranked overall #1 in 20+ countries in the App Store
+• 40+ YouTube Videos von Blower Nutzern auf der ganzen Welt
+• "This is both totally stupid and incredibly brilliant", youtube comment by "mambokurtz"
+
+Probieren Sie es aus und staunen Sie... Starten Sie Ihren Blower und spüren Sie die Luft aus der Lautsprecheröffnung. Lustige Party Trick Beispiele:
+
+• BLOW Modus: Kerzen und Feuerzeugflamme ausblasen
+• BEAT Modus: lassen Sie Flammen zum Musik Beat tanzen, oder kontrolliere Flammen mit deiner Stimme!
+• GUN Modus: lassen Sie Flammen zittern mit automatischen Gun Modus
+• TUNER Modus: passen Sie den Gebläsemotor an, um den Luftstrom auf Ihrem Gerät zu optimieren
+• Berühren Sie die Rotor des Blowers: treiben Sie es selbst it und sehen Sie die Funken
+• Geburtstag iMessage Stickerpack
+
+Neugierig? Sehen Sie sich Blower in Aktion auf BlowerApp.com, oder suchen Sie "iPhone blower" auf YouTube.
+Vielen Spaß!
+
+Qneo
+
+
+BLOWER POWER
+Für ein Maximum Blower Power, verwenden Sie das Device ohne zusätzliche Schutzhüllen / Gehäuse, verwenden Sie maximale Lautstärke, optimieren mit dem eingebauten Tuner, und stellen Sie sicher daB kein Staub in Ihrem Lautsprecheröffnung angesammelt ist. Sie können den kühlen Luftstrom überprüfen, durch die Lautsprecheröffnung nahe Ihrem Mund zu halten. Beim Ausblasen von Kerzen, brennen Sie nicht Ihren Gerät!
+
+[View on Apple](https://apps.apple.com/us/app/blower/id335862325)
+
+<a id="obd-fusion"></a>
+## OBD Fusion
+
+![OBD Fusion](../../logos/650684932-c9403dee.png)
+
+OBD Fusion is an app for your car that allows you to read OBD2 vehicle data directly from your iPhone or iPad. You can clear your check engine light, create custom dashboards, read diagnostic trouble codes, estimate fuel economy, and much more!
+
+Is your check engine light on? Do you want to monitor fuel economy and usage in your vehicle? Do you want cool looking virtual dashboards on your iPhone or iPad? If so, then OBD Fusion is the app for you! OBD Fusion is used by professional mechanics, do-it-yourself mechanics, and vehicle owners who want to monitor their vehicle and daily driving habits. Drive smarter, improve your fuel economy, and keep your engine healthy!
+
+IMPORTANT NOTE: You must have a Wi-Fi ELM327 compatible adapter or compatible Bluetooth LE adapter such as Veepeak BLE/BLE+ 4.0 adapter, Carista BLE adapter, OBDLink MX+, OBDLink CX, Tonwon BLE adapter, LELink BLE adapter, Viecar BLE adapter, Lonauto adapter, Vgate iCar Bluetooth 4.0, BAST BLE adapter, Kiwi 3/4 to use this app. OBD Fusion is not compatible with generic ELM Bluetooth scan tools. Checkout additional adapters here: https://www.obdsoftware.net/software/obdfusion
+
+OBD Fusion supports all OBD2 and EOBD vehicles sold worldwide. If you're not sure whether your vehicle is OBD2 or EOBD compliant, see this page for more information: https://www.obdsoftware.net/knowledgebase/obd2compliant. OBD Fusion can also connect to some JOBD vehicles that don’t support standard OBD2 protocols.
+
+Electric vehicles (EVs) are not required to have OBD2 diagnostics since they are emissions exempt. If you are interested in using OBD Fusion on an EV, contact us first to inquire about support.
+
+OBD Fusion has a ton of features including:
+- Read and clear emissions-related trouble codes (fault codes) and your Check Engine Light (MIL) 
+- View vital driving information on your CarPlay screen. Note that real-time gauges are not supported by CarPlay, so you can't view your OBD Fusion pages such as dashboards on CarPlay.
+- With optional enhanced diagnostic add-ons, you can read and clear enhanced trouble codes on other modules such as ABS, SRS, etc. and read transmission temperature. An enhanced diagnostic add-on is required for this functionality.
+- Real-time dashboard display with fully customizable gauges. Create your own dashboards with the gauges that you want to see.
+- Performance calculations for 1/4 mile and 0-60 mph track times
+- Fuel economy MPG (US and UK), l/100km or km/l calculation
+- Full diagnostic report that can be stored and shared
+- Real-time graphing of multiple signals
+- Real-time data logging and playback
+- Multiple trip meters 
+- Log data to CSV file
+- Create custom enhanced PIDs
+- Includes some built-in enhanced PIDs for GM vehicles
+- Display Boost pressure in real-time
+- Display Engine Power and Torque
+- Display calculated Air-to-fuel ratio
+- Display battery voltage 
+- Read freeze frame data 
+- Fully customizable units including English, Imperial, and Metric units 
+- Over 250 supported PIDs 
+- Display vehicle information including VIN and calibration ID 
+- Emissions readiness for each US state. Find out if your car will pass emissions inspection.
+- Oxygen Sensor Results (Mode 05) 
+- On-board Monitoring Tests (Mode 06) 
+- In-performance Tracking Counters (Mode 09) 
+- GPS tracking - plot vehicle parameters on a map
+- Integrated iCloud and Dropbox functionality
+- Available in English, Spanish, French, Italian, German, Czech, Greek, Chinese, and Portuguese
+- Manufacturer specific Enhanced Diagnostics are available for certain vehicles through In-App purchases.
+
+** Continued use of GPS running in the background can dramatically decrease battery life.
+
+OBD Fusion is brought to you by OCTech, LLC, the makers of TouchScan and OBDwiz.
+
+OBD Fusion is a trademark of OCTech, LLC registered in the U.S.
+
+[View on Apple](https://apps.apple.com/us/app/obd-fusion/id650684932)
+
+<a id="quickbend-conduit-bending"></a>
+## QuickBend: Conduit Bending
+
+![QuickBend: Conduit Bending](../../logos/1010311475-fcdac002.png)
+
+QuickBend is the fastest and most precise conduit bending calculator app. Designed to be innovative and intuitive while remaining visually appealing. This advanced conduit bending calculator offers the most accurate measurements by taking into account the radius of the shoe and bender, plus the conduit type and size diameter. All measurements are generated using the centerline radius algorithm, and have all been rigorously processed and field tested. Even the bends displayed within QuickBend are generated using the same engine.
+
+Built for electricians by an electrician. QuickBend can be used by anyone working with conduit or tubing whether you are a seasoned professional, a novice cub, or even a DIY enthusiast. Made to avoid simple mistakes, and to save time and money. In addition to providing fast and precise calculations, there is plenty of information and documentation provided for individual bends. Explanations on how to use specific features, and step by step process to bending conduit.
+
+Offering the most intuitive method to input data. Whether you want to get straight to the point, or comb through the possibilities of a bend. You can switch back and forth between different input styles such as a number pad, or a slider bar (Press & Slide). Both having their unique advantages. QuickBend allows you, the user to toggle between three different types of measurements; inches, foot + inches, and centimeters.
+
+With QuickCheck built into QuickBend, there's a subtle change in text colors when a bend is impossible (red), or whether the bend may be unlikely to work (orange). This app for convenience, and we want it to benefit you. So much so that we added it into the input styles for bends, so you can see if a bend is possible before even tapping on the bend amount.
+
+Supporting the following bends!
+• Offset
+• Rolling Offset
+• Matching Bends Offset
+• Matching Centers Offset
+• Parallel Offset
+• Three-Point Saddle
+• Four-Point Saddle
+• 90° Bend
+• Kick with 90°
+• Matching Bend Kick
+• Matching Center Kick
+• Parallel Kick
+• Parallel Kick: Forward
+• Compound 90° - Circle Obstruction
+• Compound 90° - Rectangle Obstruction
+• Compound 90° - Square Obstruction
+• Segmented 90°
+
+Plus you have the ability to layout multiple bends on a single conduit, and get each measurement for a mark on the conduit. With the option to easily flip an individual or set of marks per bend.
+
+There's no limit to QuickBend. Easily, select between different types of benders and choose the size of the shoe and conduit type all within the same screen that you are working on. No need for complex navigations. In addition, you can pin benders you use the most, so you can select and switch between them quickly without consistently scrolling. All benders are spec'd out using the information provided by the manufacturers, and worst case scenario if one of the many benders available don't match the one you are using you can now add in your own bender. There's also an option to not select a bender and to use the multiplier method.
+
+Edit and view all of your benders' specifications. Detailed information on the centerline radius, deduct, gain, setback. Plus the ability to view the travel, and radius adjustment for any degree bend between up-to 90°. All of this is visualized and edited within the 'Bender Specs'.
+
+[View on Apple](https://apps.apple.com/us/app/quickbend-conduit-bending/id1010311475)
+
+<a id="ireal-pro"></a>
+## iReal Pro
+
+![iReal Pro](../../logos/298206806-55f5f1ba.png)
+
+iReal Pro réunit deux choses que les musiciens adorent en une seule app : un groupe d’accompagnement au son réaliste qui joue avec vous, et une énorme bibliothèque gratuite de grilles d’accords consultables à tout moment — en répétition, en jam session ou sur scène. Besoin de transposer un morceau pour un chanteur ? C’est fait. Envie de jouer avec une section rythmique complète derrière vous ? Appuyez sur play.
+
+Désignée parmi les 50 Meilleures Inventions du TIME Magazine et utilisée par des milliers d’étudiants, professeurs et pros dans des écoles comme le Berklee College of Music — iReal Pro aide les musiciens à progresser depuis 2008.
+
+GROUPE
+• 50 styles d’accompagnement — Swing, Bossa Nova, Blues, Funk, Rock, Bluegrass, Reggae, Latin, Gypsy Jazz, Country et bien d’autres
+• Personnalisez chaque style avec piano acoustique ou électrique, Fender Rhodes, guitares, contrebasse ou basse électrique, batterie, vibraphone et orgue
+• 40 styles supplémentaires — blues, salsa, brésiliens — disponibles en achats intégrés
+
+RECUEIL
+• Téléchargez des milliers de grilles d’accords gratuites partagées par la communauté iReal Pro
+• Créez vos propres grilles en quelques minutes avec l’éditeur intégré
+• Organisez les grilles en listes pour vos concerts, sets ou cours
+
+PRATIQUE
+• Ajustez le tempo, bouclez les passages difficiles, transposez dans n’importe quelle tonalité
+• Accélération automatique du tempo et cycle de tonalités pour un travail ciblé
+• Transposition globale pour les instruments en Mib, Sib, Fa et Sol
+
+ACCORDS
+• Doigtés de guitare, ukulélé et piano pour chaque accord
+• Touchez n’importe quel accord dans votre grille pour voir comment il se joue
+• Suggestions de gammes pour l’improvisation
+
+PARTAGER
+• Partagez grilles et listes avec d’autres utilisateurs iReal Pro
+• Exportez les grilles en PDF ou MusicXML
+• Exportez les morceaux d’accompagnement en fichiers audio ou MIDI
+• Synchronisez entre iPhone, iPad et Mac avec iCloud
+
+POUR LES PROFS
+• Créez des listes d’exercices ou de morceaux pour vos élèves
+• Utilisez en classe, en direct ou en partage d’écran lors de cours en ligne
+
+Nous sommes une petite équipe de musiciens qui avons créé cette app parce que nous en avions besoin nous-mêmes. Nous espérons que vous l’apprécierez autant que nous.
+
+[View on Apple](https://apps.apple.com/us/app/ireal-pro/id298206806)
+
+<a id="teleguard"></a>
+## TeleGuard
+
+![TeleGuard](../../logos/1505636751-bf9b6357.png)
+
+Anonymität garantiert – keine Registrierung
+Es gibt keine Bindung an eine Telefonnummer und keine Erfassung von Benutzeri-dentifikationsdaten. Die TeleGuard-ID ist Ihre ganz persönliche Identifikationsnummer, die Sie brauchen, um sich mit Ihren Freunden zu verbinden. Jeder TeleGuard Nutzer erhält eine ID Nummer und einen QR-Code, welche zur Kontaktaufnahme verschickt werden können. 
+
+
+Entworfen, um der sicherste Messenger der Welt zu sein
+Der Fokus von TeleGuard liegt auf dem Schutz von Privatsphäre und vertraulicher Kommunikation. TeleGuard ist der datensichere Messenger aus dem Hause Swisscows. Swisscows hat es sich zur Aufgabe gemacht, seine Nutzer in jeder Lage vor Datenmissbrauch zu bewahren. Da heutzutage das Smartphone das meistgenutz-te Medium der Welt ist, ist ein sicherer Messenger unverzichtbar. 
+
+Hochsicherer und moderner Server
+Alle Server befinden sich in den Rechenzentren der Schweiz. Es wird ein komplexes Verschlüsselungssystem für alle übertragenen Daten verwendet und es werden abso-lut keine Benutzerdaten auf den Servern gespeichert. Alles ist absolut anonym. 
+
+Darum ist TeleGuard besser als die anderen
+TeleGuard verschlüsselt jede Nachricht und alle Telefongespräche mit dem besten Verschlüsselungsprogramm, was es derzeit gibt: SALSA 20. Da unsere Server in der Schweiz stehen, unterstehen wir nicht den Datenschutzgesetzen der EU / USA und müssen keine Daten weitergeben.
+
+Wie wird meine Privatsphäre gesichert? 
+HTTPS, Ende-zu-Ende-Verschlüsselung, Löschen von Nachrichten auf dem Server nach dem Lesen. Es werden keinerlei Benutzerdaten, weder IP-Adresse noch andere, erfasst oder gespeichert.
+
+
+Funktionen
+
+•	Text- und Sprachnachrichten senden
+•	Bilder und Videos teilen
+•	Video- und Sprachtelefonie
+•	Dateien senden
+•	Gruppen erstellen
+•	Die Identität von Kontakten kann durch Scannen des QR-Codes verifiziert werden.
+
+Support
+
+Bei weiteren Fragen finden Sie hier unsere FAQs: teleguard.com/de#faq
+
+[View on Apple](https://apps.apple.com/us/app/teleguard/id1505636751)
+
+<a id="myradar-weather-radar-pro"></a>
+## MyRadar Weather Radar Pro
+
+![MyRadar Weather Radar Pro](../../logos/325683306-e609cca6.png)
+
+Thanks to everyone for making MyRadar so successful, with over 50 million downloads!
+
+MyRadar Pro is IDENTICAL to the free version of MyRadar; it comes without the ads by default.
+
+MyRadar is a fast, powerful, easy-to-use weather app that displays animated weather radar around your current location and to quickly show what weather is coming your way. Just start the app; your location pops up with animated live radar, with radar loop lengths of up to two hours. This basic functionality provides the quickest way to get a snapshot of the weather on-the-go, and it's what has made MyRadar so successful over the years. Check your phone and get an instant assessment of the weather that will impact your day.
+
+In addition to the live radar, MyRadar has an ever-increasing list of weather and environmentally-related data layers that you can overlay on top of the map;  our animated winds layer shows a breathtaking visual representation of both surface winds and winds at the jetstream level; the frontal boundaries layer shows high and low pressure systems as well as frontal boundaries themselves; the earthquakes layer is a great way to stay on top of the latest reports on seismic activity, completely customizable as to severity and time; our hurricane layer allows users to stay on top of the latest tropical storm and hurricane activity throughout the world; the aviation layer overlays AIRMETs, SIGMETs and other aviation-related data, including the ability to track flights and display their IFR flight plans and paths, and the "wildfires" layer allows users to stay abreast of the latest fire activity around the United States.
+
+MyRadar also has the ability to send weather and environmental alerts, including alerts from the National Weather Service, such as Tornado and Severe Weather alerts. A new feature introduced in this version of MyRadar includes the ability to receive alerts based off of Tropical  Storm and Hurricane activity;  you can configure the app to send you an alert any time a tropical storm or hurricane forms, or is upgraded or downgraded.
+
+One of the most useful features in MyRadar is the ability to provide advanced rain alerts; our patent-pending process for predicting hyper-local rainfall is the most accurate in the industry. Instead of having to check the app all the time, MyRadar will send you an alert up to an hour in advance as to when the rain will arrive at your current location, down to the minute, including details on intensity and duration. These alerts can be a life saver when you're on-the-go and don't always have time to check the weather - our systems will proactively do the work for you and let you know in advance before the rain hits.
+
+In addition to the free features of the app, additional upgrades are available, including real-time hurricane tracking - great for the start of hurricane season. The hurricane tracker provides additional data above and beyond the free version, including the cone of probability for tropical storm/hurricane forecast tracks, and it also includes a detailed synopsis from the National Hurricane Center. The premium upgrades also include the professional radar pack, which allows greater detail of radar from individual stations. Users can select individual radar stations around the US, select the radar tilt angle, and also change the radar product being displayed, including base reflectivity and wind velocity - great for experienced weather buffs looks to stay on top of possible tornado formation.
+
+Download MyRadar today and try it out!
+* Aviation Charts subscription (not required in order to use MyRadar) ($24.99 USD per YEAR)
+* Payments will be charged to your iTunes account
+* Account will be charged for renewal within 24-hours prior to the end of the current period
+* Auto-renewal may be turned off at any time by going to your settings in the iTunes Store after purchase.
+
+MyRadar’s Privacy Policy, visit: https://myradar.com/privacy
+Full terms of service: https://myradar.com/terms
+
+[View on Apple](https://apps.apple.com/us/app/myradar-weather-radar-pro/id325683306)
 
 <a id="youngphoto-aesthetic-camera"></a>
 ## YoungPhoto - Aesthetic Camera
@@ -2447,133 +2514,157 @@ Schließ dich Millionen von Kreativen an und lass deine Ideen Frame für Frame l
 
 [View on Apple](https://apps.apple.com/us/app/stop-motion-studio-pro/id640564761)
 
-<a id="noir-dark-mode-for-safari"></a>
-## Noir - Dark Mode for Safari
+<a id="stash-rule-based-proxy"></a>
+## Stash - Rule Based Proxy
 
-![Noir - Dark Mode for Safari](../../logos/1581140954-199287b8.png)
+![Stash - Rule Based Proxy](../../logos/1596063349-be405c28.png)
 
-Noir is a Safari extension that automatically adds a dark mode to every website you visit.
+Stash is the best choice for Clash rules on iOS! Full adaptation of Clash Premium configuration. 
+Stash is a rule-based proxy client with multiple proxy protocol support. Support for Rule Set, JavaScript, HTTP Rewriting, MitM, SSID Policy Groups, On-Demand Connections and other new features.
 
-It makes browsing the web at night so much better. With Noir, you won’t be blinded by bright websites ever again.
+- Handle TCP / UDP / ICMP traffic and forward to any proxy server
+- Route traffic to different endpoint by rule of domain, IP-CIDR, or User-Agent
+- Support DNS over TCP / DNS over TLS / DNS over HTTPS
+- Native UI dashboard to display HTTP / HTTPS / TCP request
+- Support for Rewriting HTTP(S) requests using JavaScript
+- Decrypt HTTPS traffic with Man-in-the-Middle
+- Support for URL Rewrite
+- Fully IPv6 supports
+- Builtin DNS server with hostname mapping
+- Support for overriding some of the settings of the current configuration file using Override
 
-And the results look great too. Noir generates a custom dark style for each website you visit, based on the colors that are used on a page. You won’t even notice this happening in the background – that’s how fast it is – but you’ll certainly appreciate the end result: a beautiful dark mode tailored for each website, where contrast is preserved and highlights still pop. And with over 20 built-in themes and the ability to create your own, you can customize the results exactly the way you want.
+[View on Apple](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349)
 
-Noir works with any website you visit in Safari, automatically. By default, Noir is linked to your device’s Dark Mode, so websites will only go dark when you want them to. But you can easily customize this to your liking, even per website. Only want to use Noir on just a few specific websites? Sure thing! Disable Noir on some websites? No problem!
+<a id="pedi-stat"></a>
+## Pedi STAT
 
-Built from the ground up for iOS and iPadOS, the app feels right at home on your device. It supports the brand new Safari web extension feature, which means there’s no need to manually activate it every time you load a new page. The app also tightly integrates with system features such as Shortcuts, Control Center, Focus Filters, and Widgets to fully integrate Noir in all your workflows. And your settings are automatically synced to all your devices using iCloud.
+![Pedi STAT](../../logos/327963391-f74d6f1c.png)
 
-And just as importantly, Noir takes your privacy seriously: it doesn’t collect any of your browsing data. Period.
+Pedi-STAT is a rapid reference for RNs, paramedics, physicians and other healthcare professionals caring for pediatric patients in the emergency or critical care environment.  
 
-Noir is made by an indie iOS developer. It does not include any subscriptions or ads. Buy Noir once, use it forever.
+************************************
+     Reviews
+************************************
 
-Notes:
-• Found a website where Noir’s dark mode doesn’t look just right? Let me know by reporting it. The app will be frequently updated to address issues that are reported.
+Among "The Best Drug Reference Apps for Emergency Physicians" - Emergency Physicians Monthly
 
-Privacy Policy:
-• The Noir extension requires access to the websites you visit to analyze the existing style of the page and to override it with Noir's dark style.
-• Noir never collects your browsing data. The only data Noir ‘collects’ are your settings, and those will never leave your device or iCloud account.
-• You can read Noir’s full Privacy Policy at https://getnoir.app/privacypolicy
+5 STARS - "Simple interface provides rapid access to critical data needed when managing a critically ill pediatric patient"
 
-[View on Apple](https://apps.apple.com/us/app/noir-dark-mode-for-safari/id1581140954)
+5 Stars - "Very useful for treating kids in high pressure situations with precision."
 
-<a id="ccw-concealed-carry-50-state"></a>
-## CCW – Concealed Carry 50 State
 
-![CCW – Concealed Carry 50 State](../../logos/443321291-aa8be941.png)
+*****************************
 
-This comprehensive app empowers the law-abiding CCW (concealed or open carry permit) holder (or anyone who wants to lawfully transport a firearm in any state.) It gives you direct information needed to follow the maze of arcane, complicated, and dissimilar gun laws in each state and in each situation. Easy-to-use User Interface and Laws & reciprocity updated monthly or more frequently!
+Pedi-STAT features include:
 
-Join the 200,000+ people who have already downloaded the #1 gun reference app on Apple App Store!
+- Rapid results for airway interventions including endotracheal tube sizes, depth, intubation medication dosages, ventilator settings, and sedation
 
-Key Features:
--Instant updates downloaded to your device with laws changes! Auto-update now available!
--Individual laws for each state and U.S. territory stored on your phone
--Updates reciprocity information for each license.
--State Laws in each category (Transporting Firearms w/o license, Places Off-Limits for license-holders, State Preemption, Duty to Inform, "No Guns" signs Force of Law, New / Renewal Licenses, Open Carry, Parking Lot Storage, Magazines & Tactical Rifles, Use of Force & Duty to Retreat, Red Flag Laws, Age Restrictions, Restaurants Serving Alcohol, Roadside Rest Areas, State & National Parks, State & National Forests, Wildlife Management Areas, )
--Includes Federal Laws, Airplane/Train Transport, and Indian Tribal Laws
--Save your licenses / permit info
--Contact directory of state officials
--All information available offline
--Find laws based on GPS (plus local points of interest)
+- Cardiac resuscitation data including weight specific dosages for resuscitation medications, cardioversion, and defibrillation
 
-App comes with a free two-year subscription to all law and reciprocity updates. Additional subscription available at only $.99/ year. Optional Auto-renew (charged to iTunes 24 hours before end of subscription). 
+- Access to age and weight specific pediatric equipment including foley catheters, airway management, chest and NG tubes, peripheral and central line sizes, and more
 
-Convenient map to plan your next vacation or interstate-travel to avoid where you cannot carry. Save your current license or permits (both Resident and Non-Resident) to see which states recognize YOUR permits. 
+- Seizure medication dosages
 
-This app puts the power in your hands. Access & review the relevant firearm laws & gun prohibitions for every state. Examine actual gun laws, instead of relying on someone else's interpretation. Find prohibited locations, transportation rules, permit process, & more for every state! Includes direct links to the laws themselves on the government websites to research any open questions. Includes pertinent federal laws. For specific locations (such as restaurants serving alcohol), see the quick allowed status, then click for details & laws. Also includes "duty to notify" laws for each state (when available) for contact with a police officer, such as a traffic stop. 
+- Management of hypoglycemia including age specific dextrose concentrations
 
-Instant frequent updates to the firearm laws! When new or modified laws are available, it prompts you to download the latest (usually takes only a few seconds). These changes stay with the app and are available offline once downloaded! Auto-update option available.
+- Reference of age specific normal vital signs
 
-Compiled list of links to review information directly from the state governments & law enforcement authorities: State Statutes for each state, direct Reciprocity Information, CCW Application forms, State FAQs, & more. 
+- Procedural sedation dosages including single dose meds and infusions, as well as reversal agents
 
-Interactive state maps show any scenario: All states recognizing a specific permit, all permits that a specific state allows, type of permit available, map of states recognizing your permits. Click any state to see the detailed laws! 
+- Calculated pain management medications
 
-Find & contact (one touch dialing, map to office, email & URL) local authorities in each state.
+- Medical management of allergic reactions and anaphylaxis
 
-Ability to customize: save your preferences & license information.
+Users can quickly access critical information accurately, without having to rely on memory or cumbersome textbooks.  
 
-Interaction with other apps Posted! & Gun Vault Training Tools
+With just a few taps, users have access to all the necessary data to care for a pediatric patient in the emergent setting, including weight-based and age specific medication dosages and equipment sizes.
+  
+Since many of the patients present with minimal known information, all the results can be calculated rapidly with only a known age, date-of-birth, weight, length, or height.  Simply enter the known variable and the data is instantly calculated. 
 
-Disclaimer: If unsure about legality of carrying or transporting in specific location or situation, contact local law enforcement or legal counsel. Laws change frequently and are subject to interpretation. This application implies no warranty and does not constitute legal advice. By using this app, you agree to hold the app authors and owners harmless and without liability. You are responsible for abiding by all laws (official versions held by each state). Please see full Disclaimer on Developer Website.
+Developed by an Emergency Physician, this app minimizes the risk of medical errors allowing the provider to spend more time caring for the patient, and less time looking up and calculating doses.  
 
-http://rightapp.net/wp/privacy/#ccw
+It is a critical companion for any physician, nurse, paramedic, or medical trainee involved in the care of critically ill pediatric patients.
 
-[View on Apple](https://apps.apple.com/us/app/ccw-concealed-carry-50-state/id443321291)
+[View on Apple](https://apps.apple.com/us/app/pedi-stat/id327963391)
 
-<a id="ملكة-للباحثين-عن-شريك-الحياة"></a>
-## ملكة: للباحثين عن شريك الحياة
+<a id="tenuto"></a>
+## Tenuto
 
-![ملكة: للباحثين عن شريك الحياة](../../logos/6473904105-1ee1cfba.png)
+![Tenuto](../../logos/459313476-79fa900f.png)
 
-"مِلكة" هو تطبيق زواج، صُمم ليلبي احتياجات الباحثين والباحثات عن شريك الحياة بما يتوافق مع تعاليم ديننا الاسلامي وعادات وتقاليد مجتمعنا. 
+Tenuto is a collection of 24 highly-customizable exercises designed to enhance your musicality. From recognizing chords on a keyboard to identifying intervals by ear, it has an exercise for you. Tenuto also includes six musical calculators for accidentals, intervals, scales, chords, analysis symbols, and twelve-tone matrices.
 
-مميزات تطبيق ملكة:
+A short description of the exercises and calculators follows.
 
-أولاً: التصفح والبحث
-	1.	تصفح مجاني: استكشف ملفات شخصية متنوعة دون الحاجة إلى اشتراك.
-	2.	بحث متقدم: استخدم تصفية النتائج لتحديد معايير البحث والعثور على الشريك المناسب.
-	3.	القبيلة: إمكانية البحث وفق معايير محددة مثل الانتماء لقبيلة معينة.
-        4.     استعراض الطلبات: المرسلة والمستقبلة لتتمكن من اضافة الاشخاص الملائمين فقط. 
-        5.     قائمة المفضلة: لتتمكن من العودة للاشخاص اللذين يناسبونك مبدئيا بسهولة.
+––––––
 
-ثانياً: جودة المجتمع
-	6.	مجتمع راقٍ: يتماشى مع تعاليم الإسلام.
-	7.	تقييد الإضافات: عدد المضافين محدود بـ 5 لضمان الجدية في التفاعل.
+• Note Identification
+• Key Signature Identification
+• Interval Identification
+• Scale Identification
+• Chord Identification
+Tap the button corresponding to the written staff line. For example: if shown a C, E, and G with a sharp; tap the "Augmented Triad" button.
 
-ثالثاً: التواصل والتفاعل
-	8.	تواصل آمن: المحادثات تبدأ بموافقة متبادلة فقط، مع خيارات أمان متقدمة.
-	9.	طلبات التواصل الفردية: شراء طلبات تواصل بشكل منفصل دون الحاجة للاشتراك في باقة شهرية.
-	10.	أسئلة متجددة: أسئلة متنوعة يمكن الإجابة عليها بالصوت أو النص، مع إمكانية اقتراح أسئلة تُرسل لجميع المستخدمين لتعزيز التفاعل.
-	11.    حالات ظهور متعددة: متاح للتواصل، طور محادثات هاتفية، علاقة جادة، غير متاح للتواصل
+––––––
 
-رابعاً: الخصوصية والأمان
-	12.	الفلتر الذكي: تحكم كامل في من يمكنه مشاهدة ملفك الشخصي من خلال فلترة كلمات محددة للحجب.
-	13.	خيارات التصفح:
-		أ. وضع التصفح الخفي بالكامل.
-		ب. إمكانية إخفاء إشعارات زيارة الملف الشخصي.
-		ج. تخصيص الجنسيات اللتي يمكنها رؤية حسابك.
+• Note Construction
+• Key Signature Construction
+• Interval Construction
+• Scale Construction
+• Chord Construction
+Construct the specified label by moving notes and/or adding accidentals. For example: if shown a C and an "Augmented 4th" label, move the second note to F and add a sharp.
 
-	14.	إبلاغ سريع وآمن: تقديم بلاغات بسهولة عبر تصوير الشاشة ورفعها مباشرة مع ضمان السرية.
-	15.	خصوصية تامة: فريق ملكة يضمن سرية كاملة ولا يطّلع على المحادثات نهائياً.
-        16.    ارسال صور تفتح لمرة واحدة: مثل تطبيقات التواصل الشهيرة يمكنك ارسال صورة لعرضها لمرة واحدة، ويمنع تصوير الشاشة.
+––––––
 
-خامساً: الدعم والاستشارات
-	17.	مستشارون متخصصون: دعم من مستشارين ذوي خلفيات علمية ومهنية لتوجيهكم في رحلة البحث عن شريك الحياة.
-	18.	فريق دعم فني: فريق سريع ومتعاون لحل أي استفسار أو مشكلة تواجه المستخدمين.
+• Keyboard Reverse Identification
+Tap the piano key corresponding to the written note on the staff. While similar to Note Identification, this exercise uses a piano keyboard rather than note name buttons.
 
-سادساً: تصميم وتجربة المستخدم
-	19.	معلومات شاملة: ملفات شخصية تحتوي على أنماط الشخصيات، لغات الحب، والاهتمامات لفهم أعمق للشريك.
-	20.	انماط عرض مريحة: إمكانية التبديل بين النمط الداكن والنمط الفاتح لتجربة مريحة للعين.
+• Keyboard Note Identification
+• Keyboard Interval Identification
+• Keyboard Scale Identification
+• Keyboard Chord Identification
+Tap the button corresponding to the highlighted piano key(s). If the C and G keys are highlighted, tap the "P5" (Perfect 5th) button.
 
-سابعاً: العوائل والمصداقية
-	21.	حسابات عوائل: يتيح للعوائل إنشاء حسابات للتواصل نيابة عن الأبناء أو البنات.
+––––––
 
-انضموا إلينا اليوم وابدؤوا رحلتكم لإيجاد شريك الحياة المناسب.
+• Fretboard Note Identification
+• Fretboard Interval Identification
+• Fretboard Scale Identification
+• Fretboard Chord Identification
+Tap the button corresponding to the marked fretboard position(s). If the 2nd fret of the D string is marked, tap the "E" button.
 
-الموقع الالكتروني:
-https://melkah.com
+––––––
 
-[View on Apple](https://apps.apple.com/us/app/%D9%85%D9%84%D9%83%D8%A9-%D9%84%D9%84%D8%A8%D8%A7%D8%AD%D8%AB%D9%8A%D9%86-%D8%B9%D9%86-%D8%B4%D8%B1%D9%8A%D9%83-%D8%A7%D9%84%D8%AD%D9%8A%D8%A7%D8%A9/id6473904105)
+• Keyboard Ear Training
+• Note Ear Training
+Listen to the played reference and question notes. Select the piano key or note button corresponding to the question note.
+
+• Interval Ear Training
+• Scale Ear Training
+• Chord Ear Training
+Tap the button corresponding to the played notes. If E and F are played, tap the "Minor 2nd" button.
+
+––––––
+
+• Accidental Calculator
+Display the accidental for a note and key.
+
+• Interval Calculator
+Display the interval for a note, type, and key.
+
+• Chord Calculator
+Display the scale for a tonic and scale type.
+
+• Chord Calculator
+Display the chord for a note, type, and key.
+
+• Analysis Calculator
+Display the chord for a symbol and key.
+
+• Matrix Calculator
+Display the twelve-tone matrix for a specified tone row.
+
+[View on Apple](https://apps.apple.com/us/app/tenuto/id459313476)
 
 <a id="jump-desktop-rdp-vnc-fluid"></a>
 ## Jump Desktop (RDP, VNC, Fluid)
@@ -2639,57 +2730,49 @@ VNC features:
 
 [View on Apple](https://apps.apple.com/us/app/jump-desktop-rdp-vnc-fluid/id364876095)
 
-<a id="pedi-stat"></a>
-## Pedi STAT
+<a id="ccw-concealed-carry-50-state"></a>
+## CCW – Concealed Carry 50 State
 
-![Pedi STAT](../../logos/327963391-f74d6f1c.png)
+![CCW – Concealed Carry 50 State](../../logos/443321291-aa8be941.png)
 
-Pedi-STAT is a rapid reference for RNs, paramedics, physicians and other healthcare professionals caring for pediatric patients in the emergency or critical care environment.  
+This comprehensive app empowers the law-abiding CCW (concealed or open carry permit) holder (or anyone who wants to lawfully transport a firearm in any state.) It gives you direct information needed to follow the maze of arcane, complicated, and dissimilar gun laws in each state and in each situation. Easy-to-use User Interface and Laws & reciprocity updated monthly or more frequently!
 
-************************************
-     Reviews
-************************************
+Join the 200,000+ people who have already downloaded the #1 gun reference app on Apple App Store!
 
-Among "The Best Drug Reference Apps for Emergency Physicians" - Emergency Physicians Monthly
+Key Features:
+-Instant updates downloaded to your device with laws changes! Auto-update now available!
+-Individual laws for each state and U.S. territory stored on your phone
+-Updates reciprocity information for each license.
+-State Laws in each category (Transporting Firearms w/o license, Places Off-Limits for license-holders, State Preemption, Duty to Inform, "No Guns" signs Force of Law, New / Renewal Licenses, Open Carry, Parking Lot Storage, Magazines & Tactical Rifles, Use of Force & Duty to Retreat, Red Flag Laws, Age Restrictions, Restaurants Serving Alcohol, Roadside Rest Areas, State & National Parks, State & National Forests, Wildlife Management Areas, )
+-Includes Federal Laws, Airplane/Train Transport, and Indian Tribal Laws
+-Save your licenses / permit info
+-Contact directory of state officials
+-All information available offline
+-Find laws based on GPS (plus local points of interest)
 
-5 STARS - "Simple interface provides rapid access to critical data needed when managing a critically ill pediatric patient"
+App comes with a free two-year subscription to all law and reciprocity updates. Additional subscription available at only $.99/ year. Optional Auto-renew (charged to iTunes 24 hours before end of subscription). 
 
-5 Stars - "Very useful for treating kids in high pressure situations with precision."
+Convenient map to plan your next vacation or interstate-travel to avoid where you cannot carry. Save your current license or permits (both Resident and Non-Resident) to see which states recognize YOUR permits. 
 
+This app puts the power in your hands. Access & review the relevant firearm laws & gun prohibitions for every state. Examine actual gun laws, instead of relying on someone else's interpretation. Find prohibited locations, transportation rules, permit process, & more for every state! Includes direct links to the laws themselves on the government websites to research any open questions. Includes pertinent federal laws. For specific locations (such as restaurants serving alcohol), see the quick allowed status, then click for details & laws. Also includes "duty to notify" laws for each state (when available) for contact with a police officer, such as a traffic stop. 
 
-*****************************
+Instant frequent updates to the firearm laws! When new or modified laws are available, it prompts you to download the latest (usually takes only a few seconds). These changes stay with the app and are available offline once downloaded! Auto-update option available.
 
-Pedi-STAT features include:
+Compiled list of links to review information directly from the state governments & law enforcement authorities: State Statutes for each state, direct Reciprocity Information, CCW Application forms, State FAQs, & more. 
 
-- Rapid results for airway interventions including endotracheal tube sizes, depth, intubation medication dosages, ventilator settings, and sedation
+Interactive state maps show any scenario: All states recognizing a specific permit, all permits that a specific state allows, type of permit available, map of states recognizing your permits. Click any state to see the detailed laws! 
 
-- Cardiac resuscitation data including weight specific dosages for resuscitation medications, cardioversion, and defibrillation
+Find & contact (one touch dialing, map to office, email & URL) local authorities in each state.
 
-- Access to age and weight specific pediatric equipment including foley catheters, airway management, chest and NG tubes, peripheral and central line sizes, and more
+Ability to customize: save your preferences & license information.
 
-- Seizure medication dosages
+Interaction with other apps Posted! & Gun Vault Training Tools
 
-- Management of hypoglycemia including age specific dextrose concentrations
+Disclaimer: If unsure about legality of carrying or transporting in specific location or situation, contact local law enforcement or legal counsel. Laws change frequently and are subject to interpretation. This application implies no warranty and does not constitute legal advice. By using this app, you agree to hold the app authors and owners harmless and without liability. You are responsible for abiding by all laws (official versions held by each state). Please see full Disclaimer on Developer Website.
 
-- Reference of age specific normal vital signs
+http://rightapp.net/wp/privacy/#ccw
 
-- Procedural sedation dosages including single dose meds and infusions, as well as reversal agents
-
-- Calculated pain management medications
-
-- Medical management of allergic reactions and anaphylaxis
-
-Users can quickly access critical information accurately, without having to rely on memory or cumbersome textbooks.  
-
-With just a few taps, users have access to all the necessary data to care for a pediatric patient in the emergent setting, including weight-based and age specific medication dosages and equipment sizes.
-  
-Since many of the patients present with minimal known information, all the results can be calculated rapidly with only a known age, date-of-birth, weight, length, or height.  Simply enter the known variable and the data is instantly calculated. 
-
-Developed by an Emergency Physician, this app minimizes the risk of medical errors allowing the provider to spend more time caring for the patient, and less time looking up and calculating doses.  
-
-It is a critical companion for any physician, nurse, paramedic, or medical trainee involved in the care of critically ill pediatric patients.
-
-[View on Apple](https://apps.apple.com/us/app/pedi-stat/id327963391)
+[View on Apple](https://apps.apple.com/us/app/ccw-concealed-carry-50-state/id443321291)
 
 <a id="label-pics"></a>
 ## Label Pics
@@ -2729,93 +2812,6 @@ Check out a few of the things you can instantly accomplish:
 LabelPics is perfect to use for early childhood development settings such as Daycares, Preschools, Kindergarten classrooms, and Special Education settings. It's a great tool to help children recognize environmental print connected to real world objects, or for anyone that loves organized and orderly living, learning and teaching environments.
 
 [View on Apple](https://apps.apple.com/us/app/label-pics/id1272541874)
-
-<a id="iwebtv-pro"></a>
-## iWebTV PRO
-
-![iWebTV PRO](../../logos/1453647914-c2b95410.png)
-
-Best Casting App! Cast any online video to your TV.
-
-iWebTV® works with any TV equipped with Chromecast® + Roku® + Fire TV® + Apple TV® (4th Gen) + Samsung TVs (2018 and later models).
-
-*** Feature Highlights ***
-
-• HD resolution supported (1080p and up to 4K depending on the device)
-• Unlike mirroring apps, iWebTV sends the actual video stream to your TV (Much better image quality & overall experience).
-• Advanced browser, supports multiple browser tabs, blocks or hides spammy popups, search from the URL bar, ad blocker, browsing history etc...
-• Subtitle auto-detect + Movie/TV Subtitle library
-• Live streams support
-• Video preview to instantly locate your favorite scenes.
-• Binge-ready: queue up several videos, and enjoy.
-• Set your own home page, bookmark web page or videos.
-• Full playback controls, even after exiting the app (from the lock screen).
-• Privacy modes
-
-
-Some of the features above require in-app purchase
-
-iWebTV actually plays the video on your media player which results in a much higher quality picture than apps that mirror your screen.
-
-
-
-**** Notes ****
-
-(1) Some premium features require in-app purchases.
-(2) Excluding video formats incompatible with iOS (flash).
-(3) While most video websites work well, email us from the app menu if you experience any issues: > “Get Help” > “Frequent Questions” > “Need more help? (Other Issues)”> “Contact Support” (opens email).
-
-Smart TV from most TV manufacturers will work with this app without any preliminary setup. Just start the app, choose a video & hit the cast button! This includes TVs from Samsung, TCL, Vizio, Sony, Hisense, Insigna, Sharp, Philips and others.
-
-
-
-
-**** Legal ****
-
-iWebTV™ is a trademark of Swishly Inc.
-"Chromecast" is a trademark of Google LLC.
-"Fire TV" is a trademark of Amazon Technologies, Inc.
-"Roku" is a trademark of Roku Inc.
-"Apple TV" is a trademark of Apple Inc.
-
-
-
-Terms:
-
-• Privacy Policy: https://iwebtvapp.com/legal/privacy-policy.html
-• Terms of Use: https://iwebtvapp.com/legal/terms-of-use.html
-
-iWebTV PRO offers a subscription-based upgrade ("Premium Services" $0.99/month or $9.99/year). With this subscription you will get the additional benefits of 2 premium services (Cloud Proxy Streaming  + Unlimited subtitle downloads)
-
-[View on Apple](https://apps.apple.com/us/app/iwebtv-pro/id1453647914)
-
-<a id="hamstudy-org"></a>
-## HamStudy.org
-
-![HamStudy.org](../../logos/1371288324-09d0b23b.png)
-
-HamStudy is not your typical study app. Most study apps focus on practice exams, which is like studying for your math test by trying 20% of the questions on repeat. Study smarter with HamStudy.
-
-Instead of taking practice tests with random questions over and over, our intelligent Study Mode tracks your progress as you move through the questions—what you’ve seen, what you haven’t, and where you’re struggling—and focuses your study on the questions you need to see most. Full statistics are provided along the way, giving you insight into how many times you’ve gotten a question right or wrong as well as your overall study progress. Don’t worry, you can still take practice exams whenever you want.
-
-You won’t find a better tool to use alongside your favorite learning material. Through collaboration with some of the most recognized names in amateur radio, HamStudy allows you to simply choose from a selection of license manuals, then instantly adapts so you can match your study to the chapters, topics, and sections you’re used to†. Want to study just the questions from chapters 4 and 5? No problem. And when a question trips you up, just tap the Explain button to understand what you missed, review formulas, and read helpful study tips. 
-
-Features:
-• HamStudy's intelligent study algorithms work with you to ensure you learn the questions, tracking your progress and adjusting the pace to keep you challenged but not frustrated.
-• Vetted user-submitted explanations help you avoid the pitfall of just memorizing answers.
-• Infinite practice exams. Fun fact: it takes around 70 practice exams before you’ll see every Technician question just once. Study more, test less!
-• Study all current US Amateur Radio question pools: Technician, General, and Amateur Extra. Updates are downloaded automatically, and new pools are always included free when they are revised every four years.
-• English and Spanish translations included for US Amateur Radio pools.
-• Includes an ever-growing selection of international question pools, such as Canada, Mexico, New Zealand, and Argentina.
-• Supports multiple users on the same device, each with independent study history.
-• Sync your progress across all devices and study online with a free hamstudy.org account.
-• Share your progress with friends, instructors, or other HamStudy.org users and help each other keep progressing towards that next license exam!
-
-HamStudy is proud to be sponsored by Icom.
-
-† Disclaimer: HamStudy does not contain the actual instructional material from linked books, but works great with the book sitting on the table next to you! Images, names, and trademarks used with permission.
-
-[View on Apple](https://apps.apple.com/us/app/hamstudy-org/id1371288324)
 
 <a id="healthfit"></a>
 ## HealthFit
@@ -2909,26 +2905,119 @@ https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 
 [View on Apple](https://apps.apple.com/us/app/healthfit/id1202650514)
 
-<a id="stash-rule-based-proxy"></a>
-## Stash - Rule Based Proxy
+<a id="ملكة-للباحثين-عن-شريك-الحياة"></a>
+## ملكة: للباحثين عن شريك الحياة
 
-![Stash - Rule Based Proxy](../../logos/1596063349-be405c28.png)
+![ملكة: للباحثين عن شريك الحياة](../../logos/6473904105-1ee1cfba.png)
 
-Stash is the best choice for Clash rules on iOS! Full adaptation of Clash Premium configuration. 
-Stash is a rule-based proxy client with multiple proxy protocol support. Support for Rule Set, JavaScript, HTTP Rewriting, MitM, SSID Policy Groups, On-Demand Connections and other new features.
+"مِلكة" هو تطبيق زواج، صُمم ليلبي احتياجات الباحثين والباحثات عن شريك الحياة بما يتوافق مع تعاليم ديننا الاسلامي وعادات وتقاليد مجتمعنا. 
 
-- Handle TCP / UDP / ICMP traffic and forward to any proxy server
-- Route traffic to different endpoint by rule of domain, IP-CIDR, or User-Agent
-- Support DNS over TCP / DNS over TLS / DNS over HTTPS
-- Native UI dashboard to display HTTP / HTTPS / TCP request
-- Support for Rewriting HTTP(S) requests using JavaScript
-- Decrypt HTTPS traffic with Man-in-the-Middle
-- Support for URL Rewrite
-- Fully IPv6 supports
-- Builtin DNS server with hostname mapping
-- Support for overriding some of the settings of the current configuration file using Override
+مميزات تطبيق ملكة:
 
-[View on Apple](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349)
+أولاً: التصفح والبحث
+	1.	تصفح مجاني: استكشف ملفات شخصية متنوعة دون الحاجة إلى اشتراك.
+	2.	بحث متقدم: استخدم تصفية النتائج لتحديد معايير البحث والعثور على الشريك المناسب.
+	3.	القبيلة: إمكانية البحث وفق معايير محددة مثل الانتماء لقبيلة معينة.
+        4.     استعراض الطلبات: المرسلة والمستقبلة لتتمكن من اضافة الاشخاص الملائمين فقط. 
+        5.     قائمة المفضلة: لتتمكن من العودة للاشخاص اللذين يناسبونك مبدئيا بسهولة.
+
+ثانياً: جودة المجتمع
+	6.	مجتمع راقٍ: يتماشى مع تعاليم الإسلام.
+	7.	تقييد الإضافات: عدد المضافين محدود بـ 5 لضمان الجدية في التفاعل.
+
+ثالثاً: التواصل والتفاعل
+	8.	تواصل آمن: المحادثات تبدأ بموافقة متبادلة فقط، مع خيارات أمان متقدمة.
+	9.	طلبات التواصل الفردية: شراء طلبات تواصل بشكل منفصل دون الحاجة للاشتراك في باقة شهرية.
+	10.	أسئلة متجددة: أسئلة متنوعة يمكن الإجابة عليها بالصوت أو النص، مع إمكانية اقتراح أسئلة تُرسل لجميع المستخدمين لتعزيز التفاعل.
+	11.    حالات ظهور متعددة: متاح للتواصل، طور محادثات هاتفية، علاقة جادة، غير متاح للتواصل
+
+رابعاً: الخصوصية والأمان
+	12.	الفلتر الذكي: تحكم كامل في من يمكنه مشاهدة ملفك الشخصي من خلال فلترة كلمات محددة للحجب.
+	13.	خيارات التصفح:
+		أ. وضع التصفح الخفي بالكامل.
+		ب. إمكانية إخفاء إشعارات زيارة الملف الشخصي.
+		ج. تخصيص الجنسيات اللتي يمكنها رؤية حسابك.
+
+	14.	إبلاغ سريع وآمن: تقديم بلاغات بسهولة عبر تصوير الشاشة ورفعها مباشرة مع ضمان السرية.
+	15.	خصوصية تامة: فريق ملكة يضمن سرية كاملة ولا يطّلع على المحادثات نهائياً.
+        16.    ارسال صور تفتح لمرة واحدة: مثل تطبيقات التواصل الشهيرة يمكنك ارسال صورة لعرضها لمرة واحدة، ويمنع تصوير الشاشة.
+
+خامساً: الدعم والاستشارات
+	17.	مستشارون متخصصون: دعم من مستشارين ذوي خلفيات علمية ومهنية لتوجيهكم في رحلة البحث عن شريك الحياة.
+	18.	فريق دعم فني: فريق سريع ومتعاون لحل أي استفسار أو مشكلة تواجه المستخدمين.
+
+سادساً: تصميم وتجربة المستخدم
+	19.	معلومات شاملة: ملفات شخصية تحتوي على أنماط الشخصيات، لغات الحب، والاهتمامات لفهم أعمق للشريك.
+	20.	انماط عرض مريحة: إمكانية التبديل بين النمط الداكن والنمط الفاتح لتجربة مريحة للعين.
+
+سابعاً: العوائل والمصداقية
+	21.	حسابات عوائل: يتيح للعوائل إنشاء حسابات للتواصل نيابة عن الأبناء أو البنات.
+
+انضموا إلينا اليوم وابدؤوا رحلتكم لإيجاد شريك الحياة المناسب.
+
+الموقع الالكتروني:
+https://melkah.com
+
+[View on Apple](https://apps.apple.com/us/app/%D9%85%D9%84%D9%83%D8%A9-%D9%84%D9%84%D8%A8%D8%A7%D8%AD%D8%AB%D9%8A%D9%86-%D8%B9%D9%86-%D8%B4%D8%B1%D9%8A%D9%83-%D8%A7%D9%84%D8%AD%D9%8A%D8%A7%D8%A9/id6473904105)
+
+<a id="iwebtv-pro"></a>
+## iWebTV PRO
+
+![iWebTV PRO](../../logos/1453647914-c2b95410.png)
+
+Best Casting App! Cast any online video to your TV.
+
+iWebTV® works with any TV equipped with Chromecast® + Roku® + Fire TV® + Apple TV® (4th Gen) + Samsung TVs (2018 and later models).
+
+*** Feature Highlights ***
+
+• HD resolution supported (1080p and up to 4K depending on the device)
+• Unlike mirroring apps, iWebTV sends the actual video stream to your TV (Much better image quality & overall experience).
+• Advanced browser, supports multiple browser tabs, blocks or hides spammy popups, search from the URL bar, ad blocker, browsing history etc...
+• Subtitle auto-detect + Movie/TV Subtitle library
+• Live streams support
+• Video preview to instantly locate your favorite scenes.
+• Binge-ready: queue up several videos, and enjoy.
+• Set your own home page, bookmark web page or videos.
+• Full playback controls, even after exiting the app (from the lock screen).
+• Privacy modes
+
+
+Some of the features above require in-app purchase
+
+iWebTV actually plays the video on your media player which results in a much higher quality picture than apps that mirror your screen.
+
+
+
+**** Notes ****
+
+(1) Some premium features require in-app purchases.
+(2) Excluding video formats incompatible with iOS (flash).
+(3) While most video websites work well, email us from the app menu if you experience any issues: > “Get Help” > “Frequent Questions” > “Need more help? (Other Issues)”> “Contact Support” (opens email).
+
+Smart TV from most TV manufacturers will work with this app without any preliminary setup. Just start the app, choose a video & hit the cast button! This includes TVs from Samsung, TCL, Vizio, Sony, Hisense, Insigna, Sharp, Philips and others.
+
+
+
+
+**** Legal ****
+
+iWebTV™ is a trademark of Swishly Inc.
+"Chromecast" is a trademark of Google LLC.
+"Fire TV" is a trademark of Amazon Technologies, Inc.
+"Roku" is a trademark of Roku Inc.
+"Apple TV" is a trademark of Apple Inc.
+
+
+
+Terms:
+
+• Privacy Policy: https://iwebtvapp.com/legal/privacy-policy.html
+• Terms of Use: https://iwebtvapp.com/legal/terms-of-use.html
+
+iWebTV PRO offers a subscription-based upgrade ("Premium Services" $0.99/month or $9.99/year). With this subscription you will get the additional benefits of 2 premium services (Cloud Proxy Streaming  + Unlimited subtitle downloads)
+
+[View on Apple](https://apps.apple.com/us/app/iwebtv-pro/id1453647914)
 
 <a id="just-press-record"></a>
 ## Just Press Record
@@ -3011,6 +3100,84 @@ WICHTIG:
 
 [View on Apple](https://apps.apple.com/us/app/just-press-record/id1033342465)
 
+<a id="hamstudy-org"></a>
+## HamStudy.org
+
+![HamStudy.org](../../logos/1371288324-09d0b23b.png)
+
+HamStudy is not your typical study app. Most study apps focus on practice exams, which is like studying for your math test by trying 20% of the questions on repeat. Study smarter with HamStudy.
+
+Instead of taking practice tests with random questions over and over, our intelligent Study Mode tracks your progress as you move through the questions—what you’ve seen, what you haven’t, and where you’re struggling—and focuses your study on the questions you need to see most. Full statistics are provided along the way, giving you insight into how many times you’ve gotten a question right or wrong as well as your overall study progress. Don’t worry, you can still take practice exams whenever you want.
+
+You won’t find a better tool to use alongside your favorite learning material. Through collaboration with some of the most recognized names in amateur radio, HamStudy allows you to simply choose from a selection of license manuals, then instantly adapts so you can match your study to the chapters, topics, and sections you’re used to†. Want to study just the questions from chapters 4 and 5? No problem. And when a question trips you up, just tap the Explain button to understand what you missed, review formulas, and read helpful study tips. 
+
+Features:
+• HamStudy's intelligent study algorithms work with you to ensure you learn the questions, tracking your progress and adjusting the pace to keep you challenged but not frustrated.
+• Vetted user-submitted explanations help you avoid the pitfall of just memorizing answers.
+• Infinite practice exams. Fun fact: it takes around 70 practice exams before you’ll see every Technician question just once. Study more, test less!
+• Study all current US Amateur Radio question pools: Technician, General, and Amateur Extra. Updates are downloaded automatically, and new pools are always included free when they are revised every four years.
+• English and Spanish translations included for US Amateur Radio pools.
+• Includes an ever-growing selection of international question pools, such as Canada, Mexico, New Zealand, and Argentina.
+• Supports multiple users on the same device, each with independent study history.
+• Sync your progress across all devices and study online with a free hamstudy.org account.
+• Share your progress with friends, instructors, or other HamStudy.org users and help each other keep progressing towards that next license exam!
+
+HamStudy is proud to be sponsored by Icom.
+
+† Disclaimer: HamStudy does not contain the actual instructional material from linked books, but works great with the book sitting on the table next to you! Images, names, and trademarks used with permission.
+
+[View on Apple](https://apps.apple.com/us/app/hamstudy-org/id1371288324)
+
+<a id="wagotabi-cours-de-japonais"></a>
+## Wagotabi : Cours de japonais
+
+![Wagotabi : Cours de japonais](../../logos/6474207287-dfea9cec.png)
+
+Wagotabi est votre compagnon quotidien pour apprendre le japonais à partir de zéro, à votre rythme et avec une immersion maximale. Apprenez à lire, écrire et comprendre le japonais en contexte, tout en retenant les Hiragana, Katakana et Kanji. Utilisez vos compétences en japonais pour progresser dans l'aventure proposée par ce jeu éducatif.
+
+Conçu en étroite collaboration avec plus de 300 professeurs de japonais, associations touristiques officielles de préfectures japonaises et des milliers de testeurs, Wagotabi vous propose une approche immersive inédite pour l'apprentissage de la langue. Nous vous fournissons un contenu adapté à votre niveau actuel. Les mots et les points de grammaire sont introduits selon les standards du JLPT, en commençant par le niveau N5.
+
+—
+
+◆ DÉBUTEZ de zéro : le jeu est adapté aux débutants : aucune connaissance initiale du japonais n'est nécessaire. Les concepts sont introduits peu à peu et utilisés immédiatement dans le jeu. Les faux-débutants progresseront plus vite et apprécieront tout autant le jeu.
+◆ VOYAGEZ au Japon : explorez de vraies villes, apprenez à vous présenter, à commander de la nourriture, à demander votre chemin aux habitants et à découvrir des secrets cachés !
+◆ COLLECTIONNEZ de nouveaux mots, Kana, Kanji et obtenez des explications détaillées sur la grammaire et la conjugaison. Fini les listes de Kana, Kanji et vocabulaire surchargées et inutilisables !
+◆ DÉFIEZ les grands maîtres du japonais dans leur château pour gagner leur respect !
+◆ PARTAGEZ vos meilleurs scores aux mini-jeux de Kana et de Kanji avec d'autres apprenants sur le tableau de classement !
+◆ PERSONNALISEZ votre expérience d'apprentissage : tirez parti de notre outil SRS (répétition espacée), conçu pour cibler vos points faibles, créez votre propre avatar, réglez la difficulté du jeu. C'est votre voyage d'apprentissage de la langue japonaise.
+◆ PROFITEZ d'une expérience sans publicité et sans achat in-app, le jeu peut être entièrement joué hors ligne !
+
+—
+
+Liste (non exhaustive) des fonctionnalités :
+Dictionnaire interactif (avec illustrations, tags etc.), explications grammaticales claires, infobulles interactives, entièrement vocalisé, tests intelligents gérés par SRS, interactions avec l'environnement, quêtes, 2 mini-jeux (Kana et Kanji), combats de boss, ordre des traits Hiragana / Katakana / Kanji et calligraphie, Kanjidex, Kanji similaires, conjugaison, sauvegarde en ligne, outils avancés pour le suivi de votre progression....
+
+—
+Le jeu est en développement constant, avec des mises à jour régulières ajoutant du nouveau contenu.
+Contenu actuellement disponible :
++400 mots et points de grammaire soigneusement sélectionnés
++195 Kanji
++600 phrases exemple
++2600 dialogues japonais vocalisés
++350 PNJ uniques dans le jeu
+Tous les mots / points de grammaire sont utilisés au maximum et en contexte pour une meilleure rétention.
+
+—
+
+L’avis de nos premiers testeurs sur Wagotabi :
+"C’est une bénédiction d’avoir une telle application sur le marché de l'apprentissage !"
+"J'ai utilisé certains des exemples de l'application pour mes cours et mes élèves réagissent très bien."
+"Je n'ai pas le budget nécessaire pour me rendre au Japon, mais je suis totalement immergé dans ce jeu, j'apprends efficacement et je constate mes progrès quotidiennement."
+"Grâce à cette application, mes enfants sont maintenant motivés pour apprendre le japonais et renouer avec leurs racines. Ce concept est tellement Kawaii !"
+"Je prépare un voyage au Japon et je vais certainement aller voir ces endroits que j'ai déjà visités dans le jeu."
+
+—
+
+Politique de confidentialité : https://www.wagotabi.com/privacy-policy
+Conditions d'utilisation : https://www.wagotabi.com/terms-of-service
+
+[View on Apple](https://apps.apple.com/us/app/wagotabi-learn-japanese/id6474207287)
+
 <a id="couch-to-5k-run-training"></a>
 ## Couch to 5K® - Run training
 
@@ -3073,43 +3240,6 @@ FAQ
 
 [View on Apple](https://apps.apple.com/us/app/couch-to-5k-run-training/id448474423)
 
-<a id="teleguard"></a>
-## TeleGuard
-
-![TeleGuard](../../logos/1505636751-bf9b6357.png)
-
-Anonymität garantiert – keine Registrierung
-Es gibt keine Bindung an eine Telefonnummer und keine Erfassung von Benutzeri-dentifikationsdaten. Die TeleGuard-ID ist Ihre ganz persönliche Identifikationsnummer, die Sie brauchen, um sich mit Ihren Freunden zu verbinden. Jeder TeleGuard Nutzer erhält eine ID Nummer und einen QR-Code, welche zur Kontaktaufnahme verschickt werden können. 
-
-
-Entworfen, um der sicherste Messenger der Welt zu sein
-Der Fokus von TeleGuard liegt auf dem Schutz von Privatsphäre und vertraulicher Kommunikation. TeleGuard ist der datensichere Messenger aus dem Hause Swisscows. Swisscows hat es sich zur Aufgabe gemacht, seine Nutzer in jeder Lage vor Datenmissbrauch zu bewahren. Da heutzutage das Smartphone das meistgenutz-te Medium der Welt ist, ist ein sicherer Messenger unverzichtbar. 
-
-Hochsicherer und moderner Server
-Alle Server befinden sich in den Rechenzentren der Schweiz. Es wird ein komplexes Verschlüsselungssystem für alle übertragenen Daten verwendet und es werden abso-lut keine Benutzerdaten auf den Servern gespeichert. Alles ist absolut anonym. 
-
-Darum ist TeleGuard besser als die anderen
-TeleGuard verschlüsselt jede Nachricht und alle Telefongespräche mit dem besten Verschlüsselungsprogramm, was es derzeit gibt: SALSA 20. Da unsere Server in der Schweiz stehen, unterstehen wir nicht den Datenschutzgesetzen der EU / USA und müssen keine Daten weitergeben.
-
-Wie wird meine Privatsphäre gesichert? 
-HTTPS, Ende-zu-Ende-Verschlüsselung, Löschen von Nachrichten auf dem Server nach dem Lesen. Es werden keinerlei Benutzerdaten, weder IP-Adresse noch andere, erfasst oder gespeichert.
-
-
-Funktionen
-
-•	Text- und Sprachnachrichten senden
-•	Bilder und Videos teilen
-•	Video- und Sprachtelefonie
-•	Dateien senden
-•	Gruppen erstellen
-•	Die Identität von Kontakten kann durch Scannen des QR-Codes verifiziert werden.
-
-Support
-
-Bei weiteren Fragen finden Sie hier unsere FAQs: teleguard.com/de#faq
-
-[View on Apple](https://apps.apple.com/us/app/teleguard/id1505636751)
-
 <a id="nightcap相机"></a>
 ## NightCap相机
 
@@ -3148,149 +3278,6 @@ NightCap相机是功能强大的应用，可在光线弱和夜间拍摄超赞照
 • 完全支持 Apple Watch，有实时预览和应用程序主要的功能控制。
 
 [View on Apple](https://apps.apple.com/us/app/nightcap-camera/id754105884)
-
-<a id="tenuto"></a>
-## Tenuto
-
-![Tenuto](../../logos/459313476-79fa900f.png)
-
-Tenuto is a collection of 24 highly-customizable exercises designed to enhance your musicality. From recognizing chords on a keyboard to identifying intervals by ear, it has an exercise for you. Tenuto also includes six musical calculators for accidentals, intervals, scales, chords, analysis symbols, and twelve-tone matrices.
-
-A short description of the exercises and calculators follows.
-
-––––––
-
-• Note Identification
-• Key Signature Identification
-• Interval Identification
-• Scale Identification
-• Chord Identification
-Tap the button corresponding to the written staff line. For example: if shown a C, E, and G with a sharp; tap the "Augmented Triad" button.
-
-––––––
-
-• Note Construction
-• Key Signature Construction
-• Interval Construction
-• Scale Construction
-• Chord Construction
-Construct the specified label by moving notes and/or adding accidentals. For example: if shown a C and an "Augmented 4th" label, move the second note to F and add a sharp.
-
-––––––
-
-• Keyboard Reverse Identification
-Tap the piano key corresponding to the written note on the staff. While similar to Note Identification, this exercise uses a piano keyboard rather than note name buttons.
-
-• Keyboard Note Identification
-• Keyboard Interval Identification
-• Keyboard Scale Identification
-• Keyboard Chord Identification
-Tap the button corresponding to the highlighted piano key(s). If the C and G keys are highlighted, tap the "P5" (Perfect 5th) button.
-
-––––––
-
-• Fretboard Note Identification
-• Fretboard Interval Identification
-• Fretboard Scale Identification
-• Fretboard Chord Identification
-Tap the button corresponding to the marked fretboard position(s). If the 2nd fret of the D string is marked, tap the "E" button.
-
-––––––
-
-• Keyboard Ear Training
-• Note Ear Training
-Listen to the played reference and question notes. Select the piano key or note button corresponding to the question note.
-
-• Interval Ear Training
-• Scale Ear Training
-• Chord Ear Training
-Tap the button corresponding to the played notes. If E and F are played, tap the "Minor 2nd" button.
-
-––––––
-
-• Accidental Calculator
-Display the accidental for a note and key.
-
-• Interval Calculator
-Display the interval for a note, type, and key.
-
-• Chord Calculator
-Display the scale for a tonic and scale type.
-
-• Chord Calculator
-Display the chord for a note, type, and key.
-
-• Analysis Calculator
-Display the chord for a symbol and key.
-
-• Matrix Calculator
-Display the twelve-tone matrix for a specified tone row.
-
-[View on Apple](https://apps.apple.com/us/app/tenuto/id459313476)
-
-<a id="teach-your-monster-to-read"></a>
-## Teach Your Monster to Read
-
-![Teach Your Monster to Read](../../logos/828392046-22ea12a7.png)
-
-Welcome to Teach Your Monster to Read, the award-winning app that makes learning to read fun and engaging! Our educational phonics and reading games have helped millions of children build essential literacy skills. Create your own monster and embark on a magical journey through interactive games designed for home and school use. With a safe, trusted, and highly recommended approach, Teach Your Monster to Read offers phonics-based reading games for all levels. Teaching through play is what we do best—download today and start your child’s reading adventure!
-
-
-TEACH YOUR MONSTER TO READ FEATURES
-
-INTERACTIVE KIDS READING GAMES
-• Take your custom-designed monster through educational games that are suitable for ages 3-6. 
-• Improve letter sound recognition with reading games
-• Explore a world of phonics and educational games that teach your child to read sentences
-• Easily track their player’s progress to identify areas where their reader may need extra support
-
-PHONICS & READING GAMES DESIGNED BY EXPERTS
-• Designed in collaboration with Roehampton University and leading game designers
-• Phonics tools and educational games that complement phases 2-5 of UK Government-approved Letters and Sounds and other major systematic synthetic phonics programmes
-• 3 reading games designed for those in preschool, nursery, primary school, kindergarten, and first grade
-
-EDUCATIONAL PLAY AT NO ADDITIONAL COST
-• Teach Your Monster to Read is available on iPad and iPhone
-• Explore phonics and educational games without in-app purchases, hidden costs, or in-game adverts
-• Teach Your Monster to Read supports your child through every step of their reading journey
-
-HEAR FROM TEACHERS AND PARENTS WHO USE OUR READING  GAMES
-
-"This game is the absolute best quality phonics game I have come across for educational and fun value."
-Marie Lewis, Rochdale
-
-“My class have reaped loads of benefits from using the programme and the difference in some of their reading skills has been dramatic."
-Maria Andrews, Foundation Phase Teacher
-
-"This is a fabulous game. I'm not kidding when I say that my daughter essentially learned all her letter sounds using First steps, with relatively minimal input from me! Great for parents to practise their letter sounds too."
-Eleanor Jones
-
-
-PART OF THE USBORNE FOUNDATION CHARITY
-
-Teach Your Monster to Read has been created by Teach Monster Games Ltd. which is a subsidiary of The Usborne Foundation. The Usborne Foundation is a charity founded by children’s publisher, Peter Usborne MBE. Harnessing research, design and technology, we create playful media addressing issues from literacy to health.
-
-Teach a monster today when you download our educational app! 
-
-Teach Monster Games Ltd is a subsidiary of The Usborne Foundation, a registered charity in England and Wales, charity number 1121957.
-
-[View on Apple](https://apps.apple.com/us/app/teach-your-monster-to-read/id828392046)
-
-<a id="fsd-hunter"></a>
-## FSD Hunter
-
-![FSD Hunter](../../logos/6737280679-aa1b6525.png)
-
-FSD Hunter helps you find Tesla vehicles for sale in the U.S. and Canada with indicators of valuable software packages or features, including Full Self-Driving Capability — Included Package, Enhanced Autopilot (EAP), Acceleration Boost, and SC01.
-
-These vehicles can be difficult to identify manually because the details are often buried in listing photos, software screen images, or vehicle build/configuration data. FSD Hunter does the hard work for you by scanning listings, reviewing available software screen images, and identifying vehicles using available build configuration data when supported.
-
-Instead of searching through thousands of listings yourself, FSD Hunter helps surface the small percentage of vehicles that may include these desirable features, saving you time and helping you focus on the cars that matter.
-
-Now including Canadian vehicles with limited results. (less than 30 FSD, less than 20 EAP, less than 50 Acceleration Boost)
-*HI, AK - Cars are found but on a limited basis as there are fewer vehicles to search.
-
-[View on Apple](https://apps.apple.com/us/app/fsd-hunter/id6737280679)
 
 <a id="lumafusion"></a>
 ## LumaFusion
@@ -3403,6 +3390,70 @@ The Barometer instrument employs the device’s advanced barometric sensor to de
 
 [View on Apple](https://apps.apple.com/us/app/ghost-science-m3/id1360656789)
 
+<a id="teach-your-monster-to-read"></a>
+## Teach Your Monster to Read
+
+![Teach Your Monster to Read](../../logos/828392046-22ea12a7.png)
+
+Welcome to Teach Your Monster to Read, the award-winning app that makes learning to read fun and engaging! Our educational phonics and reading games have helped millions of children build essential literacy skills. Create your own monster and embark on a magical journey through interactive games designed for home and school use. With a safe, trusted, and highly recommended approach, Teach Your Monster to Read offers phonics-based reading games for all levels. Teaching through play is what we do best—download today and start your child’s reading adventure!
+
+
+TEACH YOUR MONSTER TO READ FEATURES
+
+INTERACTIVE KIDS READING GAMES
+• Take your custom-designed monster through educational games that are suitable for ages 3-6. 
+• Improve letter sound recognition with reading games
+• Explore a world of phonics and educational games that teach your child to read sentences
+• Easily track their player’s progress to identify areas where their reader may need extra support
+
+PHONICS & READING GAMES DESIGNED BY EXPERTS
+• Designed in collaboration with Roehampton University and leading game designers
+• Phonics tools and educational games that complement phases 2-5 of UK Government-approved Letters and Sounds and other major systematic synthetic phonics programmes
+• 3 reading games designed for those in preschool, nursery, primary school, kindergarten, and first grade
+
+EDUCATIONAL PLAY AT NO ADDITIONAL COST
+• Teach Your Monster to Read is available on iPad and iPhone
+• Explore phonics and educational games without in-app purchases, hidden costs, or in-game adverts
+• Teach Your Monster to Read supports your child through every step of their reading journey
+
+HEAR FROM TEACHERS AND PARENTS WHO USE OUR READING  GAMES
+
+"This game is the absolute best quality phonics game I have come across for educational and fun value."
+Marie Lewis, Rochdale
+
+“My class have reaped loads of benefits from using the programme and the difference in some of their reading skills has been dramatic."
+Maria Andrews, Foundation Phase Teacher
+
+"This is a fabulous game. I'm not kidding when I say that my daughter essentially learned all her letter sounds using First steps, with relatively minimal input from me! Great for parents to practise their letter sounds too."
+Eleanor Jones
+
+
+PART OF THE USBORNE FOUNDATION CHARITY
+
+Teach Your Monster to Read has been created by Teach Monster Games Ltd. which is a subsidiary of The Usborne Foundation. The Usborne Foundation is a charity founded by children’s publisher, Peter Usborne MBE. Harnessing research, design and technology, we create playful media addressing issues from literacy to health.
+
+Teach a monster today when you download our educational app! 
+
+Teach Monster Games Ltd is a subsidiary of The Usborne Foundation, a registered charity in England and Wales, charity number 1121957.
+
+[View on Apple](https://apps.apple.com/us/app/teach-your-monster-to-read/id828392046)
+
+<a id="fsd-hunter"></a>
+## FSD Hunter
+
+![FSD Hunter](../../logos/6737280679-aa1b6525.png)
+
+FSD Hunter helps you find Tesla vehicles for sale in the U.S. and Canada with indicators of valuable software packages or features, including Full Self-Driving Capability — Included Package, Enhanced Autopilot (EAP), Acceleration Boost, and SC01.
+
+These vehicles can be difficult to identify manually because the details are often buried in listing photos, software screen images, or vehicle build/configuration data. FSD Hunter does the hard work for you by scanning listings, reviewing available software screen images, and identifying vehicles using available build configuration data when supported.
+
+Instead of searching through thousands of listings yourself, FSD Hunter helps surface the small percentage of vehicles that may include these desirable features, saving you time and helping you focus on the cars that matter.
+
+Now including Canadian vehicles with limited results. (less than 30 FSD, less than 20 EAP, less than 50 Acceleration Boost)
+*HI, AK - Cars are found but on a limited basis as there are fewer vehicles to search.
+
+[View on Apple](https://apps.apple.com/us/app/fsd-hunter/id6737280679)
+
 <a id="roadside-america"></a>
 ## Roadside America
 
@@ -3472,49 +3523,72 @@ Family Share works for basic app only; additional region access requires separat
 
 [View on Apple](https://apps.apple.com/us/app/roadside-america/id347393479)
 
-<a id="land-nav-assistant"></a>
-## Land Nav Assistant
+<a id="berry胶片相机-韩系自拍神器"></a>
+## Berry胶片相机 - 韩系自拍神器
 
-![Land Nav Assistant](../../logos/525299323-d7eb562a.png)
+![Berry胶片相机 - 韩系自拍神器](../../logos/6741474933-48dcca68.png)
 
-Land Nav Assistant accepts MGRS (Military Grid) or Latitude / Longitude coordinates and visually navigates you to each point.
+大家好，我是 Berry，来自韩国的滤镜创作者。
+也许你认识我，是通过 Instagram 账号 @berryveryloveyou。
+我曾在社交媒体上分享过很多滤镜，但如今它们已经无法使用。
+为了守护我在过去五年中倾注心血制作的滤镜，
+我创建了这个专属空间：BerryFilm。
 
-This app was designed with Army, Marine, and other military personnel in mind. Use it to correct your Land Nav technique by analyzing your pace count and tendency to veer left and right.
+我会定期更新新的滤镜。
+自然肤色校正与柔光特效也正在努力开发中。
 
-Available Input: 8 digit MGRS, 10 digit MGRS, Lat/Lon decimal, Lat/Lon dms, and map input.
+希望你能在这里，继续享受我精心打造的滤镜。
 
-Angles: degrees or mils
-Distance: meters/km or feet/miles
-Speed: kph or mph
+--
 
-Use the simple arrow interface or map to direct you to your locations. Your distance, direction, speed, and bearing are shown as you navigate.
+功能特色
 
-Long-tap anywhere on the map to get the coordinate for that location. Easily add locations via the Map interface.
+• 柔和自然的韩系滤镜
+从奶油柔光感到冷色调、暖色调与复古底片风，
+你可以找到最适合自己的氛围感滤镜。
 
-Plan your course by ordering points, or use the course optimization tool which will help you calculate the shortest path possible!
+• 支持照片与视频拍摄
+让相册里“差点感觉”的照片或视频，
+一键变身为具有风格感的社交媒体作品。
 
-Get distance/direction between two points by tapping the path drawn between them.
+• 简单易用，静音拍摄
+一键应用滤镜，收藏常用滤镜，
+配合静音快门，随时随地自然自拍。
 
-Satellite, Terrain, Road, and basic Topographic maps show you, your locations, and lets you enter in new ones. 
+• 每月更新新滤镜
+根据季节、情绪或风格，持续推出新滤镜。
 
-Overlay a 1000m or 100m MGRS grid anywhere on the map.
+• 来自用户反馈的持续优化
+我们认真聆听每一条建议，持续改进应用体验。
 
-Displays distance/direction from your currentl location to all points, or between any two points.
+--
 
-Download your Locations as a spreadsheet to save anywhere, or to share with anyone you choose.
+推荐给以下用户
 
-Import a large set of locations via the web import utility, available at: https://www.gammonapplications.com/land-navigation-services/import
+• 使用过 Berry Instagram 滤镜的老粉丝
+• 想要韩系风格、自然柔光自拍的用户
+• 喜欢不浮夸、不过度美颜的滤镜相机
+• 享受每个月都有新色调的滤镜控
 
-This app uses the Military Grid Reference System (MGRS) and Latitude / Longitude.
+--
 
-Choose to display your locations as MGRS 10-digit, MGRS 8-digit, or LatLon Decimal.
+已收录滤镜
 
-D:M:S can be input in the format DD:MM:SS followed by the appropriate direction (NSWE). Default direction is N, W.
+当前已包含 40 多款精选滤镜，
+如 milk、iPhone 7、butter、cool、warm、blossom 等，
+未来将持续更新更多滤镜。
 
+--
 
-DO NOT use this application while learning Land Navigation. Land Navigation is a valuable skill, and should be mastered before using this application. Do not rely solely on this application for navigation, especially when lost. Always be aware of your surroundings.
+联系与分享
 
-[View on Apple](https://apps.apple.com/us/app/land-nav-assistant/id525299323)
+欢迎在 Instagram 上标记 @berryfilm.app 分享你的照片。
+有任何问题或建议，也欢迎通过私信或邮箱与我们联系。
+
+邮箱：seesunapp@gmail.com
+Instagram：@berryfilm.app
+
+[View on Apple](https://apps.apple.com/us/app/berryfilm-korean-style-cam/id6741474933)
 
 <a id="rarevision-vhs-retro-cam"></a>
 ## Rarevision VHS: Retro Cam
@@ -3566,6 +3640,196 @@ Rarevision is a US-based company.
 Copyright © 2015-2025 Rarevision LLC. All rights reserved.
 
 [View on Apple](https://apps.apple.com/us/app/rarevision-vhs-retro-cam/id679454835)
+
+<a id="ifacialmocap"></a>
+## iFacialMocap
+
+![iFacialMocap](../../logos/1489470545-aadf65b2.png)
+
+iFacialMocapは、iOSアプリで表情をキャプチャし、PC上の3DCGソフトウェアとリアルタイムに通信できます。また、メールでFBXエクスポートを行うことが出来ます。PC側のソフトウェアでは、VRMモデルの読み込みを行えます。
+
+詳細な使用法は、次のURLから参照できます。
+https://ifacialmocap.com/home/japanese/
+
+【このアプリで出来ること】
+このアプリは、Maya、Unity、3dsMax、BlenderとWiFi経由でリアルタイムで通信することにより、顔のアニメーションを作成できます。また、Maya、Blenderではアニメーションをベイク処理することができます。iOS端末内で録画したモーションをFBX Ascii形式でエクスポートできます。
+
+このアプリは、iOSアプリ内にVRMアバターをロードできます。また、このアプリは、PC上のVMagicMirrorや、Luppet、HANA_APPなどのVRM関連アプリと連携させて頂いております。
+
+【使用条件】
+・iOS端末でWiFiを受信できる環境である必要があります。
+
+・受信するPCとiOS端末は同一のルーターに接続されている必要があります。(同一のルーターであればPC側が有線、iOS側が無線でも動作します。)
+
+・iOS端末がFaceIDを搭載している必要があります。
+
+【使用方法】
+使用するには、まずモバイルアプリを起動してから、PC側で受信するソフトを起動し、iPhoneのIPアドレスを入力します。
+
+PC用で受信するソフトは以下のURLからDLします。
+https://ifacialmocap.com/download/japanese/
+
+ 次に、命名規則に従って最大52個のモーフターゲット（BlendShapeまたはShapeKey）を作成します。最後に、3DCGソフトウェアを使用してスクリプト/アドオンをロードし、PC側でwaitボタンまたは再生ボタンを押した後に、Connectボタンを押します。
+
+非常に高精度な顔のモーションキャプチャを非常に簡単に実行できます。
+
+
+【対応端末】
+このアプリは、FaceIDを搭載したiPhoneX以降のiPhone,iPadでのみ使用することができます。
+FaceID対応端末は以下になります。
+
+・iPhone
+iPhone13 mini
+Phone13 Pro Max
+iPhone13 Pro
+iPhone13
+iPhone12 Pro Max
+iPhone12 Pro
+iPhone12
+iPhone 11 Pro Max
+iPhone 11 Pro
+iPhone 11
+iPhone XS Max
+iPhone XS
+iPhone XR
+iPhone X
+
+ 
+・iPad
+iPad Pro 12.9 インチ (第 5 世代)
+iPad Pro 12.9 インチ (第 4 世代)
+iPad Pro 12.9 インチ (第 3 世代)
+iPad Pro 11 インチ (第 2 世代)
+iPad Pro 11 インチ
+
+※2020年に発売の新しいiPhoneSE第2世代にはFaceIDが搭載されていませんが、iOS14以降にアップデートすれば使用できます。iPhoneSE第2世代に限らず、A12以上のチップを搭載している場合、iOS14にアップデートされている場合、使用できます。
+
+[View on Apple](https://apps.apple.com/us/app/ifacialmocap/id1489470545)
+
+<a id="practiscore-competitor"></a>
+## PractiScore Competitor
+
+![PractiScore Competitor](../../logos/1191380081-7e78f28c.png)
+
+The easiest way to view and compare match results, as well as analyze competitor performance at IPSC, USPSA, Steel Challenge, IDPA, ICORE, PRS, ProAm, NRA, ISSF, 3Gun, PCSL and other matches.
+
+* Search results posted on https://practiscore.com by match name or competitor name
+* Download results posted on https://practiscore.com and several other web sites for offline viewing
+* Sync over WiFi during match from scoring devices running PractiScore apps
+* View and compare multiple competitors side by side
+* Dig into every details of the match performance
+
+[View on Apple](https://apps.apple.com/us/app/practiscore-competitor/id1191380081)
+
+<a id="cozmo-robot"></a>
+## Cozmo Robot
+
+![Cozmo Robot](../../logos/6748243845-674cfb0f.png)
+
+Say hello to Cozmo, a gifted little guy who’s got a mind of his own and a few tricks up his sleeve. He’s the sweet spot where supercomputer meets loyal sidekick. He’s curiously smart, a little mischievous, and unlike anything ever created.
+
+You see, Cozmo is a real-life robot like you've only seen in movies, with a one-of-a-kind personality that evolves the more you hang out. He'll nudge you to play and keep you constantly surprised. More than a companion, Cozmo’s a collaborator. He’s your accomplice in a crazy amount of fun.
+
+Some robots just have it all.
+
+Cozmo robot required to play. Available at Anki.com.
+
+©2025 Anki, LLC. All rights reserved. Anki, Cozmo, and the Anki and Cozmo logos are registered trademarks of Anki, LLC.
+
+[View on Apple](https://apps.apple.com/us/app/cozmo-robot/id6748243845)
+
+<a id="land-nav-assistant"></a>
+## Land Nav Assistant
+
+![Land Nav Assistant](../../logos/525299323-d7eb562a.png)
+
+Land Nav Assistant accepts MGRS (Military Grid) or Latitude / Longitude coordinates and visually navigates you to each point.
+
+This app was designed with Army, Marine, and other military personnel in mind. Use it to correct your Land Nav technique by analyzing your pace count and tendency to veer left and right.
+
+Available Input: 8 digit MGRS, 10 digit MGRS, Lat/Lon decimal, Lat/Lon dms, and map input.
+
+Angles: degrees or mils
+Distance: meters/km or feet/miles
+Speed: kph or mph
+
+Use the simple arrow interface or map to direct you to your locations. Your distance, direction, speed, and bearing are shown as you navigate.
+
+Long-tap anywhere on the map to get the coordinate for that location. Easily add locations via the Map interface.
+
+Plan your course by ordering points, or use the course optimization tool which will help you calculate the shortest path possible!
+
+Get distance/direction between two points by tapping the path drawn between them.
+
+Satellite, Terrain, Road, and basic Topographic maps show you, your locations, and lets you enter in new ones. 
+
+Overlay a 1000m or 100m MGRS grid anywhere on the map.
+
+Displays distance/direction from your currentl location to all points, or between any two points.
+
+Download your Locations as a spreadsheet to save anywhere, or to share with anyone you choose.
+
+Import a large set of locations via the web import utility, available at: https://www.gammonapplications.com/land-navigation-services/import
+
+This app uses the Military Grid Reference System (MGRS) and Latitude / Longitude.
+
+Choose to display your locations as MGRS 10-digit, MGRS 8-digit, or LatLon Decimal.
+
+D:M:S can be input in the format DD:MM:SS followed by the appropriate direction (NSWE). Default direction is N, W.
+
+
+DO NOT use this application while learning Land Navigation. Land Navigation is a valuable skill, and should be mastered before using this application. Do not rely solely on this application for navigation, especially when lost. Always be aware of your surroundings.
+
+[View on Apple](https://apps.apple.com/us/app/land-nav-assistant/id525299323)
+
+<a id="pepcalc-peptide-calculator"></a>
+## PepCalc: Peptide Calculator
+
+![PepCalc: Peptide Calculator](../../logos/1524577846-5ff0b93e.png)
+
+PepCalc: The top-rated peptide calculator app! As featured on leading podcasts including Ben Greenfield, Data Driven Radio, and more.
+
+PepCalc is a mathematical utility for laboratory researchers and scientists. It provides a digital interface for solving complex reconstitution ratios in educational settings.
+
+Stop the guesswork! PepCalc is the simplest way to get peptide reconstitution right. Instant per unit or tick mark results, saved protocols for repeatable calculations, multi-peptide blend support, and smart conversions. Download PepCalc and get answers in seconds.
+
+How it works:
+
+1. Enter your peptide amounts and water volume.
+2. Choose your units and tick marks.
+3. See instant results.
+
+Features:
+
+FLEXIBLE INPUTS: Set peptide amounts, water volume, units and tick marks, and target amount.
+
+PRESETS: Choose 100-unit or 40-unit scales for fast setup, or use fully custom inputs for any volume.
+
+MULTI-PEPTIDE BLENDS: Add unlimited peptides to a single volume and calculate each automatically for complex research.
+
+SMART CONVERSIONS: Instantly switch between mcg, mg, and g without re-entering data.
+
+SAVED PROTOCOLS: Save favorite calculations with names and notes for fast recall. No more retyping.
+
+PROTOCOL SHARING AND IMPORT: Create and share beautiful protocol images directly via social media, chat, and email that other PepCalc users can import directly via link or QR code.
+
+THEMES: Multiple themes with light and dark mode support to suit everyone's preferences.
+
+PRIVATE BY DESIGN: No signup required. No ads. Your data remains on your device.
+
+
+DISCLAIMER: PepCalc is for research and educational purposes only. Not for medical use. This app does not provide medical advice.
+
+[View on Apple](https://apps.apple.com/us/app/pepcalc-peptide-calculator/id1524577846)
+
+<a id="iverify-basic"></a>
+## iVerify Basic
+
+![iVerify Basic](../../logos/1466120520-f4e91dd8.png)
+
+iVerify Basic is your gateway to enhanced device security and threat awareness, offering a glimpse into the powerful capabilities of our enterprise-grade solution, iVerify EDR. Designed for individuals who prioritize their digital security, iVerify Basic empowers users to take proactive measures to safeguard their devices against a myriad of threats. Users can scan their devices with a tap to detect vulnerabilities and stay proactive against threats.
+
+[View on Apple](https://apps.apple.com/us/app/iverify-basic/id1466120520)
 
 <a id="promptsmart-pro-teleprompter"></a>
 ## PromptSmart Pro - Teleprompter
@@ -3626,8 +3890,7 @@ IMPORTANT! Review carefully before purchase:
 
 -Maximum recommended script word count: up to 5,000
 
--Recommended max of continuous VoiceTrack use: ~30 minutes
- (not a strict cap)
+-Recommended max of continuous VoiceTrack use: ~30 minutes (not a strict cap)
 
 -Recommended max Notecards: 200
 
@@ -3645,193 +3908,53 @@ For more info, see our Help Center, Privacy Policy, and Terms of Service: https:
 
 [View on Apple](https://apps.apple.com/us/app/promptsmart-pro-teleprompter/id894811756)
 
-<a id="blitzer-de-pro"></a>
-## Blitzer.de PRO
+<a id="skysafari"></a>
+## SkySafari
 
-![Blitzer.de PRO](../../logos/498732510-3c759ccb.png)
+![SkySafari](../../logos/1257281849-596ae9eb.png)
 
-Blitzer.de PRO - Die Verkehrssicherheits-App!
-Und der Marktführer in Deutschland seit über 10 Jahren.
+SkySafari 8 is a powerful planetarium that fits in your pocket, puts the universe at your fingertips, and is incredibly easy to use!
 
-Blitzer.de PRO versorgt dich mit Live-Warnungen zu mobilen und festen Blitzern, Pannen, Unfällen, Stauenden und mehr in deiner Nähe. Schließe dich Europas größter und bekanntester Verkehrs-Community mit über 5 Millionen aktiven Nutzern an und mache deine Autofahrt sicherer und entspannter.
+Simply hold your device to the sky and quickly locate comets, planets, constellations, satellites, and millions of stars and deep sky objects. Whether you are a beginner or a longtime astronomy enthusiast, SkySafari 8 is your perfect stargazing companion, packed with interactive information, rich graphics, and a beautifully refined interface.
 
-► VERSCHIEDENE ANSICHTEN
-Wähle zwischen der einfachen Klassik-Ansicht, der Karte oder dem unauffälligen Dunklen Modus.
+What’s New in Version 8
 
-► AUTO START & STOPP
-Einfach einsteigen, losfahren! Definiere eigene Kurzbefehle und die App aktiviert & deaktiviert sich ganz automatisch.
++ New Theme - A new look of the app with a fresh visual palette.
 
-► CARPLAY
-Alles im Blick auf dem Autobildschirm! Und das Audio direkt über die Autolautsprecher.
++ Image Gallery - Explore the universe through astrophotography. Import images directly from AstroBin.
 
-► PERSONALISIERT
-Bestimme selbst, vor welchen Blitzern und Gefahren du gewarnt werden möchtest.
++ Sky Tonight - Jump to the new Tonight section to see what’s visible in your sky right now. Expanded information has been designed to help plan your night and includes Moon & Sun info, calendar curations, and the best positioned deep sky and solar system objects.
 
-► INNOVATIVE NAVIGATION
-Mit Schwarmintelligenz navigieren und schneller am Ziel ankommen.
+If you're new to SkySafari 8, here’s what you can do:
 
-► VIELE AUDIO OPTIONEN
-Warnungen per Stimme oder Piepton - über das iPhone oder die Autolautsprecher. Zusätzliche Vibration für Motorradfahrer.
++ Point & Identify - Hold your device to the sky and instantly identify stars, constellations, planets, satellites, and more. The chart updates automatically with your movements.
 
-► STABILER HINTERGRUNDBETRIEB
-Erhalte Warnungen auch während Telefonaten und beim Nutzen anderer Apps.
++ OneSky - See what other users are observing in real-time. This feature highlights objects in the sky chart and indicates how many users are looking at them.
 
-ÜBERSICHT DER VORTEILE
-* Live-Aktualisierung der Blitzer und Gefahren
-* Über 109.000 feste Blitzer weltweit
-* Zuverlässige, präzise und straßenbezogene Warnungen, von unserer Verkehrsredaktion geprüft
-* Anzeige von Blitzer-/Gefahrentyp mit erlaubter Höchstgeschwindigkeit und Entfernung
-* Optimiert für die Nutzung im Auto: selbsterklärend und ohne Ablenkung vom Verkehr
-* Einfaches Melden und Bestätigen von Blitzern und Gefahren
-* Persönlicher Kundensupport für Fragen, Anregungen oder Probleme
-* Keine lästige Werbung
++ Orbit Mode - Lift off from Earth and travel to the planets, moons, and stars.
 
-SYSTEMANFORDERUNGEN
-* Aktivierte Ortungsdienste
-* Internetverbindung für Online-Updates (Flatrate empfohlen)
++ Guided Audio Tours - Listen to more than four hours of audio narration to learn the history, mythology, and science of the heavens.
 
-IN-APP-KAUF: MOBILE BLITZER & GEFAHREN
-Profitiere in den ersten 14 Tagen von sämtlichen Funktionen der App. Nach Ablauf dieses 14-tägigen Testzeitraums erhältst du fortlaufend unbegrenzt aktualisierte Warnungen vor festen Blitzern weltweit. Sichere dir mit dem einmaligen In-App-Kauf für nur 9.99 EUR den vollen Funktionsumfang der App, einschließlich lebenslanger mobiler Blitzerwarnungen und Echtzeitinformationen zu Gefahren wie Pannen, Stauenden, Unfällen, Baustellen und mehr. Ohne Abo, ohne Zusatzkosten.
++ Pronunciation Guide - Learn how to correctly pronounce the names of hundreds of celestial objects, from stars to constellations and planets.
 
-FOLGE UNS
-https://www.instagram.com/blitzer.de
-https://www.facebook.com/www.Blitzer.de
++ Simulate the Sky - See an eclipse in the past or future! Simulate the night sky from anywhere on Earth many years backward or forward in time.
 
-BESUCHE UNS IM WEB
-https://www.blitzer.de/
++ Night Vision - Preserve your eyesight after dark.
 
-[View on Apple](https://apps.apple.com/us/app/blitzer-de-pro/id498732510)
+SkySafari Premium Subscription Unlock amazing features with the optional Premium Subscription, including:
 
-<a id="wagotabi-cours-de-japonais"></a>
-## Wagotabi : Cours de japonais
++ Massive Database - Access a massive deep sky database.
 
-![Wagotabi : Cours de japonais](../../logos/6474207287-dfea9cec.png)
++ Custom Image Import - Upload and manage your own astrophotography images in the Image Gallery and show them in the sky chart. 
 
-Wagotabi est votre compagnon quotidien pour apprendre le japonais à partir de zéro, à votre rythme et avec une immersion maximale. Apprenez à lire, écrire et comprendre le japonais en contexte, tout en retenant les Hiragana, Katakana et Kanji. Utilisez vos compétences en japonais pour progresser dans l'aventure proposée par ce jeu éducatif.
++ Enhanced Tools - Access curated news, events, connected stargazing features, a light pollution map, and more.
 
-Conçu en étroite collaboration avec plus de 300 professeurs de japonais, associations touristiques officielles de préfectures japonaises et des milliers de testeurs, Wagotabi vous propose une approche immersive inédite pour l'apprentissage de la langue. Nous vous fournissons un contenu adapté à votre niveau actuel. Les mots et les points de grammaire sont introduits selon les standards du JLPT, en commençant par le niveau N5.
+For telescope control and even more advanced features, check out SkySafari 8 Plus and SkySafari 8 Pro!
 
-—
+Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/ 
+Privacy Policy: https://www.livesky.com/privacy.html
 
-◆ DÉBUTEZ de zéro : le jeu est adapté aux débutants : aucune connaissance initiale du japonais n'est nécessaire. Les concepts sont introduits peu à peu et utilisés immédiatement dans le jeu. Les faux-débutants progresseront plus vite et apprécieront tout autant le jeu.
-◆ VOYAGEZ au Japon : explorez de vraies villes, apprenez à vous présenter, à commander de la nourriture, à demander votre chemin aux habitants et à découvrir des secrets cachés !
-◆ COLLECTIONNEZ de nouveaux mots, Kana, Kanji et obtenez des explications détaillées sur la grammaire et la conjugaison. Fini les listes de Kana, Kanji et vocabulaire surchargées et inutilisables !
-◆ DÉFIEZ les grands maîtres du japonais dans leur château pour gagner leur respect !
-◆ PARTAGEZ vos meilleurs scores aux mini-jeux de Kana et de Kanji avec d'autres apprenants sur le tableau de classement !
-◆ PERSONNALISEZ votre expérience d'apprentissage : tirez parti de notre outil SRS (répétition espacée), conçu pour cibler vos points faibles, créez votre propre avatar, réglez la difficulté du jeu. C'est votre voyage d'apprentissage de la langue japonaise.
-◆ PROFITEZ d'une expérience sans publicité et sans achat in-app, le jeu peut être entièrement joué hors ligne !
-
-—
-
-Liste (non exhaustive) des fonctionnalités :
-Dictionnaire interactif (avec illustrations, tags etc.), explications grammaticales claires, infobulles interactives, entièrement vocalisé, tests intelligents gérés par SRS, interactions avec l'environnement, quêtes, 2 mini-jeux (Kana et Kanji), combats de boss, ordre des traits Hiragana / Katakana / Kanji et calligraphie, Kanjidex, Kanji similaires, conjugaison, sauvegarde en ligne, outils avancés pour le suivi de votre progression....
-
-—
-Le jeu est en développement constant, avec des mises à jour régulières ajoutant du nouveau contenu.
-Contenu actuellement disponible :
-+400 mots et points de grammaire soigneusement sélectionnés
-+195 Kanji
-+600 phrases exemple
-+2600 dialogues japonais vocalisés
-+350 PNJ uniques dans le jeu
-Tous les mots / points de grammaire sont utilisés au maximum et en contexte pour une meilleure rétention.
-
-—
-
-L’avis de nos premiers testeurs sur Wagotabi :
-"C’est une bénédiction d’avoir une telle application sur le marché de l'apprentissage !"
-"J'ai utilisé certains des exemples de l'application pour mes cours et mes élèves réagissent très bien."
-"Je n'ai pas le budget nécessaire pour me rendre au Japon, mais je suis totalement immergé dans ce jeu, j'apprends efficacement et je constate mes progrès quotidiennement."
-"Grâce à cette application, mes enfants sont maintenant motivés pour apprendre le japonais et renouer avec leurs racines. Ce concept est tellement Kawaii !"
-"Je prépare un voyage au Japon et je vais certainement aller voir ces endroits que j'ai déjà visités dans le jeu."
-
-—
-
-Politique de confidentialité : https://www.wagotabi.com/privacy-policy
-Conditions d'utilisation : https://www.wagotabi.com/terms-of-service
-
-[View on Apple](https://apps.apple.com/us/app/wagotabi-learn-japanese/id6474207287)
-
-<a id="practiscore-competitor"></a>
-## PractiScore Competitor
-
-![PractiScore Competitor](../../logos/1191380081-7e78f28c.png)
-
-The easiest way to view and compare match results, as well as analyze competitor performance at IPSC, USPSA, Steel Challenge, IDPA, ICORE, PRS, ProAm, NRA, ISSF, 3Gun, PCSL and other matches.
-
-* Search results posted on https://practiscore.com by match name or competitor name
-* Download results posted on https://practiscore.com and several other web sites for offline viewing
-* Sync over WiFi during match from scoring devices running PractiScore apps
-* View and compare multiple competitors side by side
-* Dig into every details of the match performance
-
-[View on Apple](https://apps.apple.com/us/app/practiscore-competitor/id1191380081)
-
-<a id="cozmo-robot"></a>
-## Cozmo Robot
-
-![Cozmo Robot](../../logos/6748243845-674cfb0f.png)
-
-Say hello to Cozmo, a gifted little guy who’s got a mind of his own and a few tricks up his sleeve. He’s the sweet spot where supercomputer meets loyal sidekick. He’s curiously smart, a little mischievous, and unlike anything ever created.
-
-You see, Cozmo is a real-life robot like you've only seen in movies, with a one-of-a-kind personality that evolves the more you hang out. He'll nudge you to play and keep you constantly surprised. More than a companion, Cozmo’s a collaborator. He’s your accomplice in a crazy amount of fun.
-
-Some robots just have it all.
-
-Cozmo robot required to play. Available at Anki.com.
-
-©2025 Anki, LLC. All rights reserved. Anki, Cozmo, and the Anki and Cozmo logos are registered trademarks of Anki, LLC.
-
-[View on Apple](https://apps.apple.com/us/app/cozmo-robot/id6748243845)
-
-<a id="pepcalc-peptide-calculator"></a>
-## PepCalc: Peptide Calculator
-
-![PepCalc: Peptide Calculator](../../logos/1524577846-5ff0b93e.png)
-
-PepCalc: The top-rated peptide calculator app! As featured on leading podcasts including Ben Greenfield, Data Driven Radio, and more.
-
-PepCalc is a mathematical utility for laboratory researchers and scientists. It provides a digital interface for solving complex reconstitution ratios in educational settings.
-
-Stop the guesswork! PepCalc is the simplest way to get peptide reconstitution right. Instant per unit or tick mark results, saved protocols for repeatable calculations, multi-peptide blend support, and smart conversions. Download PepCalc and get answers in seconds.
-
-How it works:
-
-1. Enter your peptide amounts and water volume.
-2. Choose your units and tick marks.
-3. See instant results.
-
-Features:
-
-FLEXIBLE INPUTS: Set peptide amounts, water volume, units and tick marks, and target amount.
-
-PRESETS: Choose 100-unit or 40-unit scales for fast setup, or use fully custom inputs for any volume.
-
-MULTI-PEPTIDE BLENDS: Add unlimited peptides to a single volume and calculate each automatically for complex research.
-
-SMART CONVERSIONS: Instantly switch between mcg, mg, and g without re-entering data.
-
-SAVED PROTOCOLS: Save favorite calculations with names and notes for fast recall. No more retyping.
-
-PROTOCOL SHARING AND IMPORT: Create and share beautiful protocol images directly via social media, chat, and email that other PepCalc users can import directly via link or QR code.
-
-THEMES: Multiple themes with light and dark mode support to suit everyone's preferences.
-
-PRIVATE BY DESIGN: No signup required. No ads. Your data remains on your device.
-
-
-DISCLAIMER: PepCalc is for research and educational purposes only. Not for medical use. This app does not provide medical advice.
-
-[View on Apple](https://apps.apple.com/us/app/pepcalc-peptide-calculator/id1524577846)
-
-<a id="iverify-basic"></a>
-## iVerify Basic
-
-![iVerify Basic](../../logos/1466120520-f4e91dd8.png)
-
-iVerify Basic is your gateway to enhanced device security and threat awareness, offering a glimpse into the powerful capabilities of our enterprise-grade solution, iVerify EDR. Designed for individuals who prioritize their digital security, iVerify Basic empowers users to take proactive measures to safeguard their devices against a myriad of threats. Users can scan their devices with a tap to detect vulnerabilities and stay proactive against threats.
-
-[View on Apple](https://apps.apple.com/us/app/iverify-basic/id1466120520)
+[View on Apple](https://apps.apple.com/us/app/skysafari/id1257281849)
 
 <a id="solocator-gps-field-camera"></a>
 ## Solocator - GPS Field Camera
@@ -3919,72 +4042,266 @@ Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 
 [View on Apple](https://apps.apple.com/us/app/solocator-gps-field-camera/id582584117)
 
-<a id="berry胶片相机-韩系自拍神器"></a>
-## Berry胶片相机 - 韩系自拍神器
+<a id="blitzer-de-pro"></a>
+## Blitzer.de PRO
 
-![Berry胶片相机 - 韩系自拍神器](../../logos/6741474933-48dcca68.png)
+![Blitzer.de PRO](../../logos/498732510-3c759ccb.png)
 
-大家好，我是 Berry，来自韩国的滤镜创作者。
-也许你认识我，是通过 Instagram 账号 @berryveryloveyou。
-我曾在社交媒体上分享过很多滤镜，但如今它们已经无法使用。
-为了守护我在过去五年中倾注心血制作的滤镜，
-我创建了这个专属空间：BerryFilm。
+Blitzer.de PRO - Die Verkehrssicherheits-App!
+Und der Marktführer in Deutschland seit über 10 Jahren.
 
-我会定期更新新的滤镜。
-自然肤色校正与柔光特效也正在努力开发中。
+Blitzer.de PRO versorgt dich mit Live-Warnungen zu mobilen und festen Blitzern, Pannen, Unfällen, Stauenden und mehr in deiner Nähe. Schließe dich Europas größter und bekanntester Verkehrs-Community mit über 5 Millionen aktiven Nutzern an und mache deine Autofahrt sicherer und entspannter.
 
-希望你能在这里，继续享受我精心打造的滤镜。
+► VERSCHIEDENE ANSICHTEN
+Wähle zwischen der einfachen Klassik-Ansicht, der Karte oder dem unauffälligen Dunklen Modus.
 
---
+► AUTO START & STOPP
+Einfach einsteigen, losfahren! Definiere eigene Kurzbefehle und die App aktiviert & deaktiviert sich ganz automatisch.
 
-功能特色
+► CARPLAY
+Alles im Blick auf dem Autobildschirm! Und das Audio direkt über die Autolautsprecher.
 
-• 柔和自然的韩系滤镜
-从奶油柔光感到冷色调、暖色调与复古底片风，
-你可以找到最适合自己的氛围感滤镜。
+► PERSONALISIERT
+Bestimme selbst, vor welchen Blitzern und Gefahren du gewarnt werden möchtest.
 
-• 支持照片与视频拍摄
-让相册里“差点感觉”的照片或视频，
-一键变身为具有风格感的社交媒体作品。
+► INNOVATIVE NAVIGATION
+Mit Schwarmintelligenz navigieren und schneller am Ziel ankommen.
 
-• 简单易用，静音拍摄
-一键应用滤镜，收藏常用滤镜，
-配合静音快门，随时随地自然自拍。
+► VIELE AUDIO OPTIONEN
+Warnungen per Stimme oder Piepton - über das iPhone oder die Autolautsprecher. Zusätzliche Vibration für Motorradfahrer.
 
-• 每月更新新滤镜
-根据季节、情绪或风格，持续推出新滤镜。
+► STABILER HINTERGRUNDBETRIEB
+Erhalte Warnungen auch während Telefonaten und beim Nutzen anderer Apps.
 
-• 来自用户反馈的持续优化
-我们认真聆听每一条建议，持续改进应用体验。
+ÜBERSICHT DER VORTEILE
+* Live-Aktualisierung der Blitzer und Gefahren
+* Über 109.000 feste Blitzer weltweit
+* Zuverlässige, präzise und straßenbezogene Warnungen, von unserer Verkehrsredaktion geprüft
+* Anzeige von Blitzer-/Gefahrentyp mit erlaubter Höchstgeschwindigkeit und Entfernung
+* Optimiert für die Nutzung im Auto: selbsterklärend und ohne Ablenkung vom Verkehr
+* Einfaches Melden und Bestätigen von Blitzern und Gefahren
+* Persönlicher Kundensupport für Fragen, Anregungen oder Probleme
+* Keine lästige Werbung
 
---
+SYSTEMANFORDERUNGEN
+* Aktivierte Ortungsdienste
+* Internetverbindung für Online-Updates (Flatrate empfohlen)
 
-推荐给以下用户
+IN-APP-KAUF: MOBILE BLITZER & GEFAHREN
+Profitiere in den ersten 14 Tagen von sämtlichen Funktionen der App. Nach Ablauf dieses 14-tägigen Testzeitraums erhältst du fortlaufend unbegrenzt aktualisierte Warnungen vor festen Blitzern weltweit. Sichere dir mit dem einmaligen In-App-Kauf für nur 9.99 EUR den vollen Funktionsumfang der App, einschließlich lebenslanger mobiler Blitzerwarnungen und Echtzeitinformationen zu Gefahren wie Pannen, Stauenden, Unfällen, Baustellen und mehr. Ohne Abo, ohne Zusatzkosten.
 
-• 使用过 Berry Instagram 滤镜的老粉丝
-• 想要韩系风格、自然柔光自拍的用户
-• 喜欢不浮夸、不过度美颜的滤镜相机
-• 享受每个月都有新色调的滤镜控
+FOLGE UNS
+https://www.instagram.com/blitzer.de
+https://www.facebook.com/www.Blitzer.de
 
---
+BESUCHE UNS IM WEB
+https://www.blitzer.de/
 
-已收录滤镜
+[View on Apple](https://apps.apple.com/us/app/blitzer-de-pro/id498732510)
 
-当前已包含 40 多款精选滤镜，
-如 milk、iPhone 7、butter、cool、warm、blossom 等，
-未来将持续更新更多滤镜。
+<a id="essential-anatomy-5"></a>
+## Essential Anatomy 5
 
---
+![Essential Anatomy 5](../../logos/596684220-d7748beb.png)
 
-联系与分享
+Essential Anatomy 5 is the most successful anatomy app of all time and has more content and features than any other anatomy app—bar none! With over 8,200 structures, our highly accurate, immersive and visually stunning app is the gold standard in medical reference applications. There's not a university or hospital around that does not use Essential Anatomy/Skeleton, resulting in 1.1 million user engagements every month. It is, by far, the worlds most used medical study and reference app.
 
-欢迎在 Instagram 上标记 @berryfilm.app 分享你的照片。
-有任何问题或建议，也欢迎通过私信或邮箱与我们联系。
+Download our FREE "Essential Skeleton" app in the free section to experience our groundbreaking 3D technology.
 
-邮箱：seesunapp@gmail.com
-Instagram：@berryfilm.app
+TUAW: "Make no mistake about it: Essential Anatomy by 3D4Medical is the future of touch-based anatomy learning. Essential Anatomy is an app every doctor, physiotherapist, OT, nurse and medical student should own."
 
-[View on Apple](https://apps.apple.com/us/app/berryfilm-korean-style-cam/id6741474933)
+-- 3D4Medical highlighted at the 2015 Apple Keynote.
+
+- - Number 1 Top Grossing Medical App in 118 countries worldwide.
+
+- - Quality and Vision: 3D4Medical has led the way in introducing innovative products of exceptional quality. We will continue to forge new paths for others to follow.
+
+- - Accurate Content: Essential Anatomy is used by anatomy professors in thousands of classrooms worldwide, including Stanford University, and has become the standard in third-level education. In many cases, our app is now mandatory with text books optional.  
+
+ - - Stunning Graphics: No competitor comes close. Essential Anatomy’s proprietary engine was developed and optimized to showcase our new generation anatomical models for a completely immersive user experience.
+
+- - Easy to use: Responsive and intuitive user interface, all systems and menus are easily accessed from the main screen and our model responds quickly to your touch.
+
+- - Read all the reviews of previous versions: Our visionary app has enhanced the lives of reviewers, both professionally and academically.
+
+iMedical Apps: “The 3D anatomy engine and impressive graphics bring a new clarity to anatomy education with impressive accuracy.”
+
+Compatible with iPad 2 and newer, iPhone 4S and newer, iPod Touch 5th Gen. and newer, and iOS 8 or later. 
+
+IN APP PURCHASES:
+In-app purchases allow additional muscle and skeletal content to be downloaded and accessed from within the app. These boosts add muscle insertion and origin points, skeletal bone parts and surfaces and 100s of animations detailing movements for each articulation.
+
+Visit www.3d4medical.com and watch videos that highlight the app's functionality and quality.  You’ll understand why Essential Anatomy 5 is the most successful medical reference app of all time!
+
+ESSENTIAL ANATOMY 5:
+Essential Anatomy 5 is a full-featured anatomical reference app that includes MALE and FEMALE models, with 11 SYSTEMS and a total of 8,200 ANATOMICAL STRUCTURES. The app is fully 3D, meaning that you can view any structure in isolation, as well as from any angle and represents the latest in groundbreaking 3D technology and innovative design. A cutting-edge custom built 3D graphics engine, delivers outstanding quality graphics that no other competitor can achieve. 
+
+FEATURES OVERVIEW:
+
+--Cutting-edge 3D technology
+--Over 8,200 highly detailed anatomical structures
+--Hide/Fade/Isolate/Fade Others/Hide Others options for individual structures
+--Multiple Selection Mode
+--Pins: Create customized pins with notes and place anywhere on the 3D model
+--Slice: Slice through certain structures using 3D plane tool
+--Bookmarks: Preset and Customizable
+--Correct audio pronunciation and Latin nomenclature for every structure
+--Search via English and Latin nomenclature
+--Dynamic Quiz: Drag and Drop and Multi-choice
+--Share images via social media and e-mail
+--Includes anatomy for 11 systems: Skin, Skeletal, Muscles, Connective Tissue, Veins, Arteries, Nerves, Respiratory, Digestive, Urogenital, Lymphatic, also includes the Brain and Heart
+
+Feedback? Contact our customer support at info@3d4medical.com.
+
+[View on Apple](https://apps.apple.com/us/app/essential-anatomy-5/id596684220)
+
+<a id="due-reminders-timers"></a>
+## Due - Reminders & Timers
+
+![Due - Reminders & Timers](../../logos/390017969-973e862e.png)
+
+Due remembers all the things that you need so you don't have to.
+
+Because it repeatedly reminds you of things until you act on them, it‘s impossible to forget anything.
+
+Most importantly, it's lightning-fast to set and postpone reminders, all thanks to a clever time picker and natural date parsing.
+
+
+KEY FEATURES
+
+1. Persistent & Effective
+Auto Snooze repeatedly* notifies you of missed reminders until marked done or rescheduled. Choose between intervals of every 1, 5, 10, 15, 30 and 60 minutes.
+
+2. Fast to Set, Fast to Postpone
+A time picker with 12 preset and fully customizable times lets you set due dates and postpone reminders in record time.
+
+3. Natural Date & Time Parsing
+Due can also parse dates and times that you typed or dictate and offer to set the due dates and times for you.
+
+4. Countdown Timers
+Precise to the second, perfect for making the perfect soft-boiled eggs, brewing your coffee and more. Set them up once and reuse them forever
+
+5. Powerful Recurring Reminders
+From the simple daily and weekly reminders to the complex every-3rd-Wednesday-of-the-month kind of reminders
+
+6. Keep in Sync**
+Use iCloud or Dropbox to keep your reminders and timers in sync across your iPhone, iPad and Mac.
+
+7. Works Offline, Completely Private
+There is no account to sign up for. We don't store, and we can't access your reminders and timers. And you don't need internet to receive reminders.
+
+8. Accessible to Everyone
+Automatically adjusts text size according to your system setting, and offers full VoiceOver support. Due is also localized in 17 languages.
+
+
+* By default, auto snooze repeats 5 times, and can be configured to repeat up to 10 times. Due can auto snooze any overdue items indefinitely when you launch Due or act on any of its notifications.
+** Sync on Mac requires Due for Mac (sold separately)
+
+
+WHAT'S THAT IN-APP PURCHASE ABOUT?
+
+When you purchase Due today, you will have access to every feature in the app today—no further purchase required.
+
+You will also get access to all new features released one year from your date of purchase.
+
+The optional Due Upgrade Pass subscription allows you to continue getting access to all new features released one year *after* your date of purchase.
+
+And here's the deal: Every feature that you have unlocked will remain available to you, forever—even if you stop subscribing.
+
+Even without a subscription, you'll always receive bug-fix and compatibility updates for free. These updates add support for the latest iPhones, iPads and Apple Watches. They also help ensure that Due continues to function well on the latest versions of iOS, iPadOS and watchOS.
+
+Due has a pretty good track record with that.
+
+To illustrate: If you've purchased Due back in 2010 for your iPhone 3G running iOS 4, that very same app in 2026 is now optimized for iPhone 17 Pro Max running iOS 26. It even works on devices that didn't exist back then, such as the iPad Pro and the Apple Watch.
+
+TERMS & PRIVACY POLICY
+
+Our terms of use and privacy policy is available here: https://www.dueapp.com/terms.html
+
+
+COMPATIBILITY
+
+Due requires an iPhone, iPod touch or iPad running iOS 16 or later. The Watch app is a companion to the iOS app. It requires watchOS 8 (or later) and the paired iPhone to work correctly.
+
+[View on Apple](https://apps.apple.com/us/app/due-reminders-timers/id390017969)
+
+<a id="scrivener"></a>
+## Scrivener
+
+![Scrivener](../../logos/972387337-a39bc43b.png)
+
+“The biggest software advance for writers since the word processor.” —Michael Marshall Smith, bestselling author
+
+Typewriter. Ring-binder. Scrapbook. Scrivener combines all the writing tools you need to craft your first draft, from nascent notion to final full stop.
+
+Tailor-made for creating long manuscripts, Scrivener banishes page fright by allowing you to compose your text in any order, in sections as large or small as you like. Got a great idea but don’t know where it fits? Write when inspiration strikes and find its place later. Grow your manuscript organically, idea by idea.
+
+Whether you plan or plunge, Scrivener works your way: meticulously outline every last detail first, or hammer out a complete draft and restructure later. Or do a bit of both. All text sections in Scrivener are fully integrated with its outlining tools, so working with an overview of your manuscript is only ever a tap away, and turning Chapter Four into Chapter One is as simple as drag and drop.
+
+Need to refer to research? In Scrivener, your background material is always at hand. Write a description based on a photograph. Reference a video or PDF. Check for consistency with an earlier chapter. On the iPad, open two documents side-by-side; on the iPhone, flip between research and writing with just two taps.
+
+Once you’re ready to share your work with the world, simply compile everything into a single document for printing, or export to popular formats such as Word, PDF, Final Draft or plain text. You can even share using different formatting, so that you can write in your favorite font and still keep your editor happy.
+
+
+FEATURES
+
+Get Started
+• Interactive tutorial project
+• Keep each manuscript and supporting materials in a self-contained project
+• Import Word, RTF, Final Draft and plain text files
+• Easily split imported text into separate sections
+
+Get Writing
+• Write your manuscript in sections of any size
+• View all sections as a single text using the “Draft Navigator” (iPad only)
+• Quickly navigate sections using the “binder” sidebar
+• Format with fonts and presets
+• Comments, footnotes, links and highlights
+• Simple bullets and lists
+• Insert images
+• Pinch-zoom to resize text
+• Full-screen mode (iPad only)
+• Typewriter scrolling mode keeps typed text center-screen (iPad only)
+• Write a screenplay using scriptwriting mode
+• Live word and character counts
+• Set word and character count targets
+• Find and replace
+• Customizable keyboard row provides quick-access buttons for formatting, navigation and punctuation
+• Comprehensive keyboard shortcuts for external keyboard users
+• Dark mode
+
+Find Your Structure
+• Write in any order and reorganize later
+• Write a synopsis for any text section and see it in the outline
+• Expand, collapse and drill down into sections of your project
+• Rearrange sections as index cards on the corkboard (iPad only)
+• Project-wide search
+• Track ideas using labels and status
+• Apply custom icons to your sections
+
+Refer to Research
+• Import research material such as image, PDF and media files
+• View research files or other sections right alongside your writing (iPad only)
+• Every section has its own notes area for jotting down ideas
+• Supports multitasking split screen mode (supported devices only)
+
+Share Your Work
+• Compile to a single document for sharing or printing
+• Use different formatting in your exported or printed document
+• Export to Word, RTF, Final Draft, PDF or plain text
+• Convert rich text to Markdown for sharing with Markdown apps
+• Create and email zipped backups of your projects
+
+Work Anywhere
+• Use Dropbox to sync between devices and with the macOS and Windows versions of Scrivener*
+• Copy projects between devices via iTunes
+
+* Requires a Dropbox account (not compatible with iCloud).
+
+SUPPORT
+You can contact us at ios.support@literatureandlatte.com, visit our forums at http://www.literatureandlatte.com/forum, or find us @scrivenerapp on Twitter.
+
+[View on Apple](https://apps.apple.com/us/app/scrivener/id972387337)
 
 <a id="my-earthquake-alerts-pro"></a>
 ## My Earthquake Alerts Pro
@@ -4006,6 +4323,46 @@ FEATURES
 If you need information or notifications about the latest earthquakes near to you, download My Earthquake Alerts Pro today. It is similar to apps such as Quakes, MyQuake and QuakeFeed.
 
 [View on Apple](https://apps.apple.com/us/app/my-earthquake-alerts-pro/id975770717)
+
+<a id="sun-seeker-tracker-compass"></a>
+## Sun Seeker - Tracker & Compass
+
+![Sun Seeker - Tracker & Compass](../../logos/330247123-2cda4b5b.png)
+
+Sun Seeker is a comprehensive solar tracking & compass app. It shows the sun’s hourly direction intervals, its equinoxes, winter & summer solstice paths, sunrise & sunset times, twilight times, shadowed periods, UV Index, solar irradiance, golden and blue hours, eclipses & more. The app allows you to add sun-event notifications & has a widget and watch app showing the day’s solar data & position on an arc. The 3D View shows the solar direction for each sunlight hour. Sun Seeker has both a flat compass view & a 3D Augmented Reality (AR) view to show the solar position & path.
+
+The app is useful for - 
+
+▶ Photographers- to plan shoots according to the golden hour or blue hour & optimal sunlight conditions, sunrise & sunset times & directions.
+▶ Cinematographers- enables you to find the solar exposure, directions, shadow, sunrise & sunset times for any location.
+▶ Real Estate Buyers- can use the app before buying a property to check the sun's path & to find the solar exposure of properties.
+▶ Drivers - Sun Seeker lets you track the sun path & movement during the days & helps drivers know the sun position to find how long the car will remain in the shade at any given parking spot.
+▶ Campers & Picnickers- for anyone planning a day out, this app will help in finding where to camp, sit or pitch an umbrella depending on the sunlight & sun direction. 
+▶ Gardeners- Sun Seeker can also help with finding optimal planting locations & seasonal sunlight hours as a sunrise calendar
+▶ Architects & Surveyors- for visualising the spatial variability of the solar angle throughout the year & using the compass app as a sun surveyor & calendar to determine the sunlight directions.
+ 
+Main Features
+* Sun Seeker is a sun locator which uses GPS, magnetometer & gyroscope to find the correct solar position & sun path for your current location.
+* Flat compass view shows current solar position, diurnal solar angle & elevation (separated into day & night segments), sun shadow length ratio, atmospheric path thickness.
+* 3D augmented reality (AR) camera overlay view shows the sun's current position, and it's path with hour points marked. You can scroll through time to preview changes throughout the year or day, and an optional pointer to guide you towards the current location of the sun & help you find the sun's direction. 
+* Map view shows solar direction arrows, sun path & elevations for each hour of the day.
+* Choose any date to view sun position & path on that day. You can view sunset & sunrise times for each day as well.
+* Choose any location on earth (includes 40,000+ cities or custom locations available offline, as well as a comprehensive online map search capability).
+* Get additional details including sunrise, sunset & culmination times, maximum elevation, civil, nautical & astronomical twilight periods of the sun.
+* Optional device notifications for all manner of sun-related periods & events, such as golden hour or blue hour, various twilight periods, or sun crossing a given compass heading or elevation.
+
+The Sun Seeker app has been featured in numerous high-profile blogs, websites & publications, including Wall Street Journal, Washington Post, Sydney Morning Herald etc. "Truly amazing", "Incredible", "Brilliant - the most genuinely useful application of augmented reality - ever!"
+
+Check out our YouTube video here: https://bit.ly/2Rf0CkO
+Simply search YouTube for "Sun Seeker app" to find many videos, websites & blogs created by our enthusiastic users
+
+FAQs
+* See https://bit.ly/2FIPJq2 - also easily accessible from the app's info screen
+
+Note
+* The compass accuracy depends on having an undistorted magnetic field around your device. If you use it close to metallic objects or electrical equipment, directional accuracy may be impaired. The device’s compass accuracy can be optimised by calibrating it prior to use. See app’s FAQs for more help.
+
+[View on Apple](https://apps.apple.com/us/app/sun-seeker-sunlight-tracker/id330247123)
 
 <a id="nomad-sculpt"></a>
 ## Nomad Sculpt
@@ -4118,202 +4475,81 @@ DOWNLOAD NOW and make the best use of your ink and paper!
 
 [View on Apple](https://apps.apple.com/us/app/print-to-size/id949490225)
 
-<a id="slow-shutter-cam"></a>
-## Slow Shutter Cam
+<a id="earthquake-network"></a>
+## Earthquake Network
 
-![Slow Shutter Cam](../../logos/357404131-adce0048.png)
+![Earthquake Network](../../logos/1449893235-b3a5a245.png)
 
-Slow Shutter Cam brings new life into your device's photo toolbox by letting you capture a variety of amazing slow shutter speed effects that you only thought you could get with a DSLR. Continue reading to learn more about this unique app!
+Earthquake Network is the most comprehensive app on earthquakes and for most world countries it is the only earthquake early warning system for receiving real time alerts.
 
------------------------
+Earthquake Network gives you:
 
-• Featured numerous times by Apple:
+- Real time alerts if you live close to the epicentre
+- Alerts seconds in advances if you live far from the epicentre
+- Real time user reports on felt earthquakes
+- Free earthquake data from 21 seismic networks including U.S., Puerto Rico, India, Indonesia, Turkey, Mexico, Chile, Peru, Ecuador, Argentina, Venezuela, Dominican Republic, Colombia, Costa Rica, Nicaragua, China, New Zeland, Japan, Italy, Croatia, Spain and Greece
 
-- App Store Essentials: Camera & Photography
-- Photography for Professionals - Total Control
-- Extraordinary Photo Apps
-- Best New App
+The Earthquake Network research project (https://www.sismo.app) aims at developing a smartphone-based earthquake early warning system able to detect earthquakes in real time and to alert the population in advance. Smartphones are able to detect earthquakes thanks to the accelerometer on-board each device. When an earthquake is detected, users with the application installed are immediatly alerted. Since earthquake waves travel at around 5 km/s it is possible to alert the population not yet reached by the damaging waves of the earthquake. For the scientific details about the project please refer to the scientific paper on Frontiers at https://bit.ly/2C8B5HI
 
------------------------
+Subscriptions:
 
-"It’s one of those rare photography apps that creates effects that few others are capable of, and it does it easily and with better results."
-— Marty Yawnick, Life In LoFi
+When an earthquake is detected in real time by smartphones near the epicenter, the server sends an alert to all users with the app. Alerting all users can take up to 10 seconds since it is not technically feasible to do so instantly. Now you can join the priority lists of the first 10,000 or 100,000 people alerted in real time. The following subscriptions are available:
 
------------------------
+- Subscription 10k for 1 year
+- Subscription 10k for 1 month 
 
-How many times have you tried to capture artful images with your iPhone camera but were left wishing you had more features to work with? Slow Shutter Cam puts an end to mere snapshots and gives you some of the most powerful features of a DSLR camera. All this, in a package that fits in your pocket.
- 
-Slow Shutter Cam offers three capture modes to capture unique images:
- 
-MOTION BLUR: Equivalent to the shutter priority mode on a DSLR, the Motion Blur mode is perfect for creating ghost images, waterfall effects or suggesting movement in your photographs by adding a blur.
+- Subscription 100k for 1 year
+- Subscription 100k for 1 month 
 
-LIGHT TRAIL: The Light Trail mode allows you to 'paint' with light, show car light trails and fireworks or capture any other moving light in a unique way. Unlike shooting with a DSLR and being tied to specific rigid settings to obtain good results, the Light Trail mode takes care of the essentials, letting your creativity soar!
+• Payment will be charged to iTunes Account at confirmation of purchase
+• Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period
+• Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal
+• Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase
+• Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable
 
-LOW LIGHT: In low light conditions, this capture mode allows the camera to accumulate every photon of light hitting the sensor. The longer the shutter speed, the more light it will accumulate. You can even fine-tune the result using the exposure compensation slider to achieve the exact effect you want!
+Privacy: https://www.sismo.app/privacy
 
-Highlights:
+Terms and conditions: https://www.sismo.app/terms-conditions
 
-•  Unlimited Shutter Speed and manual ISO
-•  Option to resume capture  and create multiple exposure photos
-•  Real time live preview - See the result in real time
-•  Innovative 'Freeze'  and ‘Blur Strength’ controls
-•  Tap to adjust focus/exposure
-•  Time-lapse Intervalometer
-•  Apple Watch support and handy Self-Timer 
-•  Full resolution support on every devices
-•  Camera Control support (iPhone 16)
+[View on Apple](https://apps.apple.com/us/app/earthquake-network/id1449893235)
 
-With Slow Shutter Cam on your iPhone you get the features of a DSLR camera with the convenience of a device that you can drop in your pocket and take with you wherever you go. Download it now and put an end to mere snapshots!
+<a id="stbemutv-pro"></a>
+## StbEmuTV (Pro)
 
-Search #slowshuttercam on Instagram or visit the "Slow Shutter Cam - iPhone" group on flickr for amazing samples!
+![StbEmuTV (Pro)](../../logos/1564403188-7851e68c.png)
 
-[View on Apple](https://apps.apple.com/us/app/slow-shutter-cam/id357404131)
+Best Stalker IPTV with complete support for iPad and iPhone, the way everyone wants to watch tv on their iPhone and iPad!
 
-<a id="essential-anatomy-5"></a>
-## Essential Anatomy 5
+Great user interface that will also allow you to manage your portals. You can maintain multiple portals using this app. 
 
-![Essential Anatomy 5](../../logos/596684220-d7748beb.png)
+StbEmuTV offers you the same UI feel as provided by your IPTV Service provider for your TV. Now you can easily use your stalker portal if you have an iPhone or an iPad.
 
-Essential Anatomy 5 is the most successful anatomy app of all time and has more content and features than any other anatomy app—bar none! With over 8,200 structures, our highly accurate, immersive and visually stunning app is the gold standard in medical reference applications. There's not a university or hospital around that does not use Essential Anatomy/Skeleton, resulting in 1.1 million user engagements every month. It is, by far, the worlds most used medical study and reference app.
 
-Download our FREE "Essential Skeleton" app in the free section to experience our groundbreaking 3D technology.
+Features:
 
-TUAW: "Make no mistake about it: Essential Anatomy by 3D4Medical is the future of touch-based anatomy learning. Essential Anatomy is an app every doctor, physiotherapist, OT, nurse and medical student should own."
+- Stream video from multiple protocols (HTTP, RTMP, RTSP, TS, MMS)
 
--- 3D4Medical highlighted at the 2015 Apple Keynote.
+- EPG support
 
-- - Number 1 Top Grossing Medical App in 118 countries worldwide.
+- TV (Manage TV channels)
 
-- - Quality and Vision: 3D4Medical has led the way in introducing innovative products of exceptional quality. We will continue to forge new paths for others to follow.
+- VOD (Video on Demand)
 
-- - Accurate Content: Essential Anatomy is used by anatomy professors in thousands of classrooms worldwide, including Stanford University, and has become the standard in third-level education. In many cases, our app is now mandatory with text books optional.  
+- Series (TV Series)
 
- - - Stunning Graphics: No competitor comes close. Essential Anatomy’s proprietary engine was developed and optimized to showcase our new generation anatomical models for a completely immersive user experience.
+- Add, Edit, Delete, Share, Duplicate, Select Profiles and (Fast Switch)
 
-- - Easy to use: Responsive and intuitive user interface, all systems and menus are easily accessed from the main screen and our model responds quickly to your touch.
+- Favorite List added (TV, VOD, Series)
 
-- - Read all the reviews of previous versions: Our visionary app has enhanced the lives of reviewers, both professionally and academically.
+- Autoplay first channel of tv group. 
 
-iMedical Apps: “The 3D anatomy engine and impressive graphics bring a new clarity to anatomy education with impressive accuracy.”
+Disclaimer:
 
-Compatible with iPad 2 and newer, iPhone 4S and newer, iPod Touch 5th Gen. and newer, and iOS 8 or later. 
+- StbEmuTV does not provide or include any media or stream content
+- Users must enter their own portal details
+- We do not endorse the streaming of copyright-protected material without the permission of the copyright holder.
 
-IN APP PURCHASES:
-In-app purchases allow additional muscle and skeletal content to be downloaded and accessed from within the app. These boosts add muscle insertion and origin points, skeletal bone parts and surfaces and 100s of animations detailing movements for each articulation.
-
-Visit www.3d4medical.com and watch videos that highlight the app's functionality and quality.  You’ll understand why Essential Anatomy 5 is the most successful medical reference app of all time!
-
-ESSENTIAL ANATOMY 5:
-Essential Anatomy 5 is a full-featured anatomical reference app that includes MALE and FEMALE models, with 11 SYSTEMS and a total of 8,200 ANATOMICAL STRUCTURES. The app is fully 3D, meaning that you can view any structure in isolation, as well as from any angle and represents the latest in groundbreaking 3D technology and innovative design. A cutting-edge custom built 3D graphics engine, delivers outstanding quality graphics that no other competitor can achieve. 
-
-FEATURES OVERVIEW:
-
---Cutting-edge 3D technology
---Over 8,200 highly detailed anatomical structures
---Hide/Fade/Isolate/Fade Others/Hide Others options for individual structures
---Multiple Selection Mode
---Pins: Create customized pins with notes and place anywhere on the 3D model
---Slice: Slice through certain structures using 3D plane tool
---Bookmarks: Preset and Customizable
---Correct audio pronunciation and Latin nomenclature for every structure
---Search via English and Latin nomenclature
---Dynamic Quiz: Drag and Drop and Multi-choice
---Share images via social media and e-mail
---Includes anatomy for 11 systems: Skin, Skeletal, Muscles, Connective Tissue, Veins, Arteries, Nerves, Respiratory, Digestive, Urogenital, Lymphatic, also includes the Brain and Heart
-
-Feedback? Contact our customer support at info@3d4medical.com.
-
-[View on Apple](https://apps.apple.com/us/app/essential-anatomy-5/id596684220)
-
-<a id="sporty-s-e6b-flight-computer"></a>
-## Sporty's E6B Flight Computer
-
-![Sporty's E6B Flight Computer](../../logos/371817955-4e966ac6.png)
-
-Based on Sporty’s popular handheld E6B Electronic Flight Computer, the E6B app has been designed from the ground up to make the most of iOS on the iPhone, iPad and Apple Watch, and MacOS on Apple Computers. The software is based on the tried and true formulas and algorithms developed over the years by Sporty’s team of over 50 pilots.
-
-Its pilot-friendly design makes quick work of any navigational, conversion or fuel problem and it also performs conventional arithmetic calculations.
- 
-The advanced timer/clock feature simultaneously tracks Zulu, Local and Home time zones. The timer counts either up or down, and will display an alert when reaching zero.
-
-27 AVIATION FUNCTIONS
- 
--Pressure & Density Altitude
--Planned True Airspeed
--Heading and Groundspeed
--Compass Heading
--Leg Time
--Fuel Required
--Crosswind, Headwind and Tailwind
--Cloud Base and Freezing Level
--Actual True Airspeed
--Actual True Altitude
--Wind Speed and Direction
--Groundspeed
--Planned Mach Number
--Required True Airspeed
--Required Calibrated Airspeed
--Distance Flown
--Endurance
--Fuel per Hour
--Actual Mach Number
--Percent Mean Aerodynamic Chord (MAC)
--Hydroplane Speed
--Required Rate of Climb
--Specific Range
--Pivotal Altitude
--Top of Descent
--Required Rate of Descent
--Glide Distance
-
-22 AVIATION CONVERSIONS
- 
--Celsius :: Fahrenheit
--Nautical Miles :: Statute Miles
--Nautical Miles :: Kilometers
--Feet :: Meters
--Pounds :: Kilograms
--Avgas Gallons :: Pounds
--Jet A Gallons :: Pounds
--Gallons :: Liters
--Hours/Minutes/Seconds :: Hours
--Climb FT/NM :: Climb Percent
--Climb FT/NM :: Climb Degrees
-
-CALCULATOR
- 
--Perform basic math without having to exit the application
-
-CLOCK/TIMER
- 
--Simultaneous tracking of Zulu, Home and Local time zones
--Advanced timer counts up or down and operates independently so you can perform other calculations while the timer is running
--Upon reaching zero in the countdown mode, a message will display no matter what app is active  – a useful feature for missed approaches, switching fuel tanks, etc.
-
-[View on Apple](https://apps.apple.com/us/app/sportys-e6b-flight-computer/id371817955)
-
-<a id="dj-rehab-music"></a>
-## DJ Rehab Music
-
-![DJ Rehab Music](../../logos/6752807769-22eead66.png)
-
-Discover the DJ Rehab Music App – Nonstop Mashups & Epic Mixtapes 
-
-Step into the world of DJ Rehab, where genres collide and the music never stops. The DJ Rehab Music App is your one-stop destination for wild mashups, exclusive remixes, and jaw-dropping 200+ song mixtapes that blend hip-hop, EDM, classic rock, pop, and everything in between.
-
-What You’ll Get:
-
--Hundreds of original mashups that flip your favorite tracks in unexpected ways
-
--Mega-mixtapes packed with over 200 songs, seamlessly mixed for hours of nonstop vibes
-
--A genre-bending library that takes you from Wu-Tang to Zeppelin, Outkast to EDM anthems
-
--Exclusive mixes you won’t find anywhere else
-
--Perfect for parties, workouts, road trips, or just losing yourself in the music, the DJ Rehab Music App puts creativity and energy in your pocket.
-
-[View on Apple](https://apps.apple.com/us/app/dj-rehab-music/id6752807769)
+[View on Apple](https://apps.apple.com/us/app/stbemutv-pro/id1564403188)
 
 <a id="mylightmeter-pro"></a>
 ## myLightMeter PRO
@@ -4380,105 +4616,6 @@ If you have suggestions or need help, feel free to contact me:
 davidquiles@me.com
 
 [View on Apple](https://apps.apple.com/us/app/mylightmeter-pro/id583922375)
-
-<a id="scrivener"></a>
-## Scrivener
-
-![Scrivener](../../logos/972387337-a39bc43b.png)
-
-“The biggest software advance for writers since the word processor.” —Michael Marshall Smith, bestselling author
-
-Typewriter. Ring-binder. Scrapbook. Scrivener combines all the writing tools you need to craft your first draft, from nascent notion to final full stop.
-
-Tailor-made for creating long manuscripts, Scrivener banishes page fright by allowing you to compose your text in any order, in sections as large or small as you like. Got a great idea but don’t know where it fits? Write when inspiration strikes and find its place later. Grow your manuscript organically, idea by idea.
-
-Whether you plan or plunge, Scrivener works your way: meticulously outline every last detail first, or hammer out a complete draft and restructure later. Or do a bit of both. All text sections in Scrivener are fully integrated with its outlining tools, so working with an overview of your manuscript is only ever a tap away, and turning Chapter Four into Chapter One is as simple as drag and drop.
-
-Need to refer to research? In Scrivener, your background material is always at hand. Write a description based on a photograph. Reference a video or PDF. Check for consistency with an earlier chapter. On the iPad, open two documents side-by-side; on the iPhone, flip between research and writing with just two taps.
-
-Once you’re ready to share your work with the world, simply compile everything into a single document for printing, or export to popular formats such as Word, PDF, Final Draft or plain text. You can even share using different formatting, so that you can write in your favorite font and still keep your editor happy.
-
-
-FEATURES
-
-Get Started
-• Interactive tutorial project
-• Keep each manuscript and supporting materials in a self-contained project
-• Import Word, RTF, Final Draft and plain text files
-• Easily split imported text into separate sections
-
-Get Writing
-• Write your manuscript in sections of any size
-• View all sections as a single text using the “Draft Navigator” (iPad only)
-• Quickly navigate sections using the “binder” sidebar
-• Format with fonts and presets
-• Comments, footnotes, links and highlights
-• Simple bullets and lists
-• Insert images
-• Pinch-zoom to resize text
-• Full-screen mode (iPad only)
-• Typewriter scrolling mode keeps typed text center-screen (iPad only)
-• Write a screenplay using scriptwriting mode
-• Live word and character counts
-• Set word and character count targets
-• Find and replace
-• Customizable keyboard row provides quick-access buttons for formatting, navigation and punctuation
-• Comprehensive keyboard shortcuts for external keyboard users
-• Dark mode
-
-Find Your Structure
-• Write in any order and reorganize later
-• Write a synopsis for any text section and see it in the outline
-• Expand, collapse and drill down into sections of your project
-• Rearrange sections as index cards on the corkboard (iPad only)
-• Project-wide search
-• Track ideas using labels and status
-• Apply custom icons to your sections
-
-Refer to Research
-• Import research material such as image, PDF and media files
-• View research files or other sections right alongside your writing (iPad only)
-• Every section has its own notes area for jotting down ideas
-• Supports multitasking split screen mode (supported devices only)
-
-Share Your Work
-• Compile to a single document for sharing or printing
-• Use different formatting in your exported or printed document
-• Export to Word, RTF, Final Draft, PDF or plain text
-• Convert rich text to Markdown for sharing with Markdown apps
-• Create and email zipped backups of your projects
-
-Work Anywhere
-• Use Dropbox to sync between devices and with the macOS and Windows versions of Scrivener*
-• Copy projects between devices via iTunes
-
-* Requires a Dropbox account (not compatible with iCloud).
-
-SUPPORT
-You can contact us at ios.support@literatureandlatte.com, visit our forums at http://www.literatureandlatte.com/forum, or find us @scrivenerapp on Twitter.
-
-[View on Apple](https://apps.apple.com/us/app/scrivener/id972387337)
-
-<a id="flashface-full"></a>
-## FlashFace Full
-
-![FlashFace Full](../../logos/553145544-e41653c0.png)
-
-Must-have app for all police officers and detectives.
-
-Have you ever wanted to be a police sketch artist?
-Well, now you can use the flashface app and create sketches of
-criminals or yourself and your friends. It provides a large number of each facial components including eyes, nose, mouth, hair, head,
-eyebrows, glasses, mustache, jaw and beard.
-
-- You can move and scale all face elements on the screen.
-- You can save the faces
-- You can load/open saved faces
-- You can export faces as JPEG image
-
-Create and save your own sketches and share them with your friends NOW!
-
-[View on Apple](https://apps.apple.com/us/app/flashface-full/id553145544)
 
 <a id="radaromega-doppler-radar-app"></a>
 ## RadarOmega: Doppler Radar App
@@ -4567,48 +4704,6 @@ See our Terms of Service below: https://www.radaromega.com/terms.php
 
 [View on Apple](https://apps.apple.com/us/app/radaromega-doppler-radar-app/id1439881811)
 
-<a id="sun-seeker-sunlight-tracker"></a>
-## Sun Seeker - Sunlight Tracker
-
-![Sun Seeker - Sunlight Tracker](../../logos/330247123-2cda4b5b.png)
-
-Sunseeker is a comprehensive solar tracking & compass app. It shows the sun’s hourly direction intervals, its equinox, winter & summer solstice paths, sunrise sunset times, twilight times, sun shadow, the golden hour & more. The app allows you to add sun-event notifications & has a widget showing the day’s solar data & position on an arc. The surveyor view shows the solar direction for each sunlight hour. Sunseeker has both a flat compass view & a 3D Augmented Reality (AR) view to show the solar position & path.
-
-The app is useful for - 
-
-▶ Photographers- to plan according to the golden hour or blue hour & optimal sunlight conditions, sunrise & sunset times & directions.
-▶ Cinematographers- this sun tracker & sun surveyor enables you to find the sun exposure, directions, sun shadow & sunrise sunset times for any location.
-▶ Real Estate Buyers- can use the app before buying a property to check the sun path & to find the sun exposure of properties.
-▶ Drivers - Sunseeker lets you track the sun path & movement during the days & helps drivers know the sun position to find how long the car will remain in the shade at any given parking spot.
-▶ Campers & Picnickers- for anyone planning a day out, Sunseeker app will help in finding where to camp, sit or pitch an umbrella depending on the sunlight & sun direction. 
-▶ Gardeners- Sun Seeker can also help with finding optimal planting locations & seasonal sunlight hours as a sun rise calendar
-▶ Architects & Surveyors- for visualising the spatial variability of the solar angle throughout the year & using the compass app as a sun surveyor & calendar to determine the sunlight directions.
- 
-Main Features
-* Sunseeker is a sun locator which uses GPS, magnetometer & gyroscope to find the correct solar position & sun path for your current location.
-* Flat compass view shows current solar position, diurnal solar angle & elevation (separated into day & night segments), sun shadow length ratio, atmospheric path thickness.
-* 3D augmented reality (AR) camera overlay view shows the sun's current position, its path with hour points marked. Check golden hour using this feature!
-* Camera view has an optional pointer to guide you towards the current location of the sun & help you with sun direction. 
-* Map view shows solar direction arrows, sun path & elevations for each hour of the day.
-* Choose any date to view sun position & path on that day. You can view sunset & sunrise times for each day as well.
-* Choose any location on earth (includes 40,000+ cities or custom locations available offline, as well as a comprehensive online map search capability)
-* Get additional details including sun rise, sunset & culmination times, maximum elevation, civil, nautical & astronomical twilight times of the sun.
-* Optional device notifications for all manner of sun-related periods & events, such as golden hour or blue hour, various twilight & shadow periods, or sun at a given compass heading or above a given elevation.
-* This sun rise calendar app allows the user to include equinox, summer & winter solstice paths on both flat compass view & camera view.
-
-Sun Seeker app has been featured in numerous high-profile blogs, websites & publications, including Wall Street Journal, Washington Post, Sydney Morning Herald etc. "Truly amazing", "Incredible", "Brilliant" - the most genuinely useful application of augmented reality - ever!
-
-Check out our YouTube video here: https://bit.ly/2Rf0CkO
-Simply search YouTube for "Sun Seeker app" to find many videos, websites & blogs created by our enthusiastic users
-
-FAQs
-* See https://bit.ly/2FIPJq2 - also easily accessible from the app's info screen
-
-Note
-* The compass accuracy depends on having an undistorted magnetic field around your device. If you use it close to metallic objects or electrical equipment, directional accuracy may be impaired. The device’s compass accuracy can be optimised by calibrating it prior to use. See app’s FAQs for more help.
-
-[View on Apple](https://apps.apple.com/us/app/sun-seeker-sunlight-tracker/id330247123)
-
 <a id="forscore"></a>
 ## forScore
 
@@ -4656,273 +4751,262 @@ Note: forScore also offers an optional, annual auto-renewing subscription called
 
 [View on Apple](https://apps.apple.com/us/app/forscore/id363738376)
 
-<a id="jb4-mobile"></a>
-## JB4 Mobile
-
-![JB4 Mobile](../../logos/794841332-eb187a37.png)
-
-The brand new JB4 Mobile application is finally ready for public release and has lots of great new features including:
-*Gauge theme customizations
-*Built-in raw CSV data viewer
-*Revamped User Adj./WMI data editors
-*New modern UI completely rewritten from the ground up
-*More seamless integration with our backend servers
+<a id="slow-shutter-cam"></a>
+## Slow Shutter Cam
+
+![Slow Shutter Cam](../../logos/357404131-adce0048.png)
+
+Slow Shutter Cam brings new life into your device's photo toolbox by letting you capture a variety of amazing slow shutter speed effects that you only thought you could get with a DSLR. Continue reading to learn more about this unique app!
+
+-----------------------
+
+• Featured numerous times by Apple:
+
+- App Store Essentials: Camera & Photography
+- Photography for Professionals - Total Control
+- Extraordinary Photo Apps
+- Best New App
+
+-----------------------
+
+"It’s one of those rare photography apps that creates effects that few others are capable of, and it does it easily and with better results."
+— Marty Yawnick, Life In LoFi
+
+-----------------------
+
+How many times have you tried to capture artful images with your iPhone camera but were left wishing you had more features to work with? Slow Shutter Cam puts an end to mere snapshots and gives you some of the most powerful features of a DSLR camera. All this, in a package that fits in your pocket.
+ 
+Slow Shutter Cam offers three capture modes to capture unique images:
+ 
+MOTION BLUR: Equivalent to the shutter priority mode on a DSLR, the Motion Blur mode is perfect for creating ghost images, waterfall effects or suggesting movement in your photographs by adding a blur.
+
+LIGHT TRAIL: The Light Trail mode allows you to 'paint' with light, show car light trails and fireworks or capture any other moving light in a unique way. Unlike shooting with a DSLR and being tied to specific rigid settings to obtain good results, the Light Trail mode takes care of the essentials, letting your creativity soar!
+
+LOW LIGHT: In low light conditions, this capture mode allows the camera to accumulate every photon of light hitting the sensor. The longer the shutter speed, the more light it will accumulate. You can even fine-tune the result using the exposure compensation slider to achieve the exact effect you want!
+
+Highlights:
+
+•  Unlimited Shutter Speed and manual ISO
+•  Option to resume capture  and create multiple exposure photos
+•  Real time live preview - See the result in real time
+•  Innovative 'Freeze'  and ‘Blur Strength’ controls
+•  Tap to adjust focus/exposure
+•  Time-lapse Intervalometer
+•  Apple Watch support and handy Self-Timer 
+•  Full resolution support on every devices
+•  Camera Control support (iPhone 16)
+
+With Slow Shutter Cam on your iPhone you get the features of a DSLR camera with the convenience of a device that you can drop in your pocket and take with you wherever you go. Download it now and put an end to mere snapshots!
+
+Search #slowshuttercam on Instagram or visit the "Slow Shutter Cam - iPhone" group on flickr for amazing samples!
+
+[View on Apple](https://apps.apple.com/us/app/slow-shutter-cam/id357404131)
+
+<a id="sporty-s-e6b-flight-computer"></a>
+## Sporty's E6B Flight Computer
+
+![Sporty's E6B Flight Computer](../../logos/371817955-4e966ac6.png)
+
+Based on Sporty’s popular handheld E6B Electronic Flight Computer, the E6B app has been designed from the ground up to make the most of iOS on the iPhone, iPad and Apple Watch, and MacOS on Apple Computers. The software is based on the tried and true formulas and algorithms developed over the years by Sporty’s team of over 50 pilots.
+
+Its pilot-friendly design makes quick work of any navigational, conversion or fuel problem and it also performs conventional arithmetic calculations.
+ 
+The advanced timer/clock feature simultaneously tracks Zulu, Local and Home time zones. The timer counts either up or down, and will display an alert when reaching zero.
+
+27 AVIATION FUNCTIONS
+ 
+-Pressure & Density Altitude
+-Planned True Airspeed
+-Heading and Groundspeed
+-Compass Heading
+-Leg Time
+-Fuel Required
+-Crosswind, Headwind and Tailwind
+-Cloud Base and Freezing Level
+-Actual True Airspeed
+-Actual True Altitude
+-Wind Speed and Direction
+-Groundspeed
+-Planned Mach Number
+-Required True Airspeed
+-Required Calibrated Airspeed
+-Distance Flown
+-Endurance
+-Fuel per Hour
+-Actual Mach Number
+-Percent Mean Aerodynamic Chord (MAC)
+-Hydroplane Speed
+-Required Rate of Climb
+-Specific Range
+-Pivotal Altitude
+-Top of Descent
+-Required Rate of Descent
+-Glide Distance
 
-JB4 Connect Kit Users: 
-1) Install the Connect Kit per the installation guide for your vehicle
-2) Create your account/sign in with this app
-3) Ensure JB4 Mobile has all requested permissions
-4) Tap the Connect button in JB4 Mobile
+22 AVIATION CONVERSIONS
+ 
+-Celsius :: Fahrenheit
+-Nautical Miles :: Statute Miles
+-Nautical Miles :: Kilometers
+-Feet :: Meters
+-Pounds :: Kilograms
+-Avgas Gallons :: Pounds
+-Jet A Gallons :: Pounds
+-Gallons :: Liters
+-Hours/Minutes/Seconds :: Hours
+-Climb FT/NM :: Climb Percent
+-Climb FT/NM :: Climb Degrees
 
-About The App:
-JB4 Mobile is a mobile data logger and display for use with the JB4 tuner from Burger Motorsports.
+CALCULATOR
+ 
+-Perform basic math without having to exit the application
 
-JB4 Mobile allows you to monitor and log multiple parameters from your JB4 equipped car. Parameters such as boost, rpm, fuel trims, air/fuel ratios, ignition advance and much more are available. 
+CLOCK/TIMER
+ 
+-Simultaneous tracking of Zulu, Home and Local time zones
+-Advanced timer counts up or down and operates independently so you can perform other calculations while the timer is running
+-Upon reaching zero in the countdown mode, a message will display no matter what app is active  – a useful feature for missed approaches, switching fuel tanks, etc.
 
-Current Features: 
-Live gauges
-Data logging
-Data graphing
-Log export via email
-Code reading/deletion
-Modify User Adj. (boost, fuel, etc.) settings
-Modify WMI settings
-Switch maps on the fly
-Auto WOT logging
-JB4 Firmware Updating
-
-JB4 ® is a registered trademark of Burger Motorsports Inc ® and is used with written permission.
+[View on Apple](https://apps.apple.com/us/app/sportys-e6b-flight-computer/id371817955)
 
-[View on Apple](https://apps.apple.com/us/app/jb4-mobile/id794841332)
-
-<a id="r8-companion"></a>
-## R8 Companion
-
-![R8 Companion](../../logos/6461348120-c334d550.png)
-
-The R8 Companion™ app leverages 5+ years of historical data in its acclaimed 'Advanced False Assist' filtering engine, detector optimizations and shared features from the Radar Companion™ series of apps. (Available separately for owners of the V1, R4, R9, & DS1 radar detectors).  The filtering engine is updated on a regular basis from accumulated real world usage data for better filtering against falses, and protection against real threats.
-
-R8 Companion™ is a feature rich app, designed to give you the most out of your R8, while enhancing your driving experience along the way. It is extremely easy to get up and running.  Featuring intelligent alerts and advanced muting! R8 Companion™ is the COMPLETE solution to enjoying your R8.  
+<a id="stack-the-countries"></a>
+## Stack the Countries®
 
-NOTE: R8 Companion™ requires a Uniden R8 or R8w radar detector with US Version 141 (R8) or 137 (R8w) firmware (or earlier) to function correctly. R8 Companion will NOT function correctly without the appropriate firmware for each detector.
-
-Enhanced GPS location based 'false muting' via SpotLocks - All future updates to this app are free to purchasers of R8 Companion.
+![Stack the Countries®](../../logos/407838198-2d0158bc.png)
 
-R8 Companion's alerting and muting systems are fully optimized for the R8 platform. Intelligent voice announcements and on-screen visuals will always keep you informed and aware of the situation around you. 
+- Featured on the TODAY show!
+- Editor's Choice Award! - Children's Technology Review 
+- "Stack the Countries is worth every penny and this is an educational purchase that you absolutely will not regret." - The iPhone Mom
 
-R8 Companion full feature list:
-• SpotLocks - Location based false silencing has never been this good or easy. Turn on the intelligent location-based learning and let R8 Companion™ do the rest. Or you can manually 'lock' or 'unlock' locations with ease from the main alert screen.
-• SpotLocks works seamlessly with your R8’s built in 'auto mute memory' locations.  If you create or delete a location from the app it will apply the changes to your R8 at the same time.
-• Option to play detector tones in app.
-• 'Proximity' meter - leverages the high resolution signal strength and direction information provided by the detector to show you a better representation of the signal's source.
-• 'K & X falses in area' meter shows you how many possible false alerts exist in the area you are travelling based on the accumulated SpotLock data™.
-• 'Custom Phrases' for a given threat's audio announcements.
-• High resolution meter for the priority alert (Not limited to the # of bars on the R8 display).
-• Customizable heads-up display (HUD).
-• HUD displays the priority alert's band, signal strength, frequency, & direction.
-• HUD of the secondary alerts' bands, signal strengths, frequencies, bogey counts & directions.
-• Mute rear K & X band signals independently.
-• Advanced BSM/CAS/Ka False Muting (Optimized for the R8 platform).
-• Ability to set the R8’s internal detector settings from within the app.  No need for different apps to modify your detector settings.  Do it all from the companion app.
-• 'Ghost' muting quiets false alerts when you are stuck traveling near a false emitting vehicle.
-• "Passive Mute™"- Quiets the R8 below user set speeds & during weak K & X signals.
-• Bogey count display showing total number of threats.
-• Vehicle speed (MPH or KMH) display. Speed is color coded for each alert type.
-• Mute status with the ability to manually mute/unmute alerts as you need.
-• Detailed & intelligent voice announcements of direction, band, frequency, strength, number of alerts, occurrences of mixed signals and more.
-• Automatic muting of Ka, K, and X bands ('Time before mute' set for each band).
-• 'Reduce Speed' notification for user set speed.
-• ‘Urgency Alerts™’ - Unmutes growing threats & announces these alerts via voice & notifications.
-• ‘Alert History’ - View your past alerts with detailed information about each encounter.
-• Compass heading.
-• Imperial/metric units.
-• Detailed trip summary at the end of your ride including duration, distance, alerts, muting stats, battery, and more.
-• iPhone & Apple Watch notifications of direction, band, & frequency of each alert.
-• Tips/Help system.
+Stack the Countries® makes learning about the world fun!  Watch the countries actually come to life in this colorful and dynamic game! 
 
-Speed limit data © OpenStreetMap contributors (ODbL)
+As you learn country capitals, landmarks, geographic locations and more, you can actually touch, move and drop the animated countries anywhere on the screen. Carefully build a stack of countries that reaches the checkered line to win each level.
 
-[View on Apple](https://apps.apple.com/us/app/r8-companion/id6461348120)
+You earn a random country for every successfully completed level.  All of your countries appear on your own personalized maps of the continents.  Try to collect all 193!  As you earn more countries, you begin to unlock the free bonus games: Map It! and Pile Up!  Three games in one!
 
-<a id="ifacialmocap"></a>
-## iFacialMocap
+CONTROL YOUR OWN EXPERIENCE:  You can choose to focus on just one specific continent or play the whole world.  You can also select which types of questions are asked.
+
+LEARN BEFORE YOU PLAY:  Stack the Countries provides 193 country flash cards and colorful interactive maps of the continents.  Use them to brush up on your world geography before you play or as a handy reference tool.
 
-![iFacialMocap](../../logos/1489470545-aadf65b2.png)
 
-Mit iFacialMocap können Sie Gesichtsausdrücke in einer iOS-App erfassen und in Echtzeit mit der 3DCG-Software auf Ihrem PC kommunizieren. Sie können einen FBX-Export auch per E-Mail durchführen. Mit der PC-seitigen Software können Sie VRM-Modelle importieren.
+HAVE FUN LEARNING ALL ABOUT THE COUNTRIES OF THE WORLD:
+▸ Capitals
+▸ Landmarks
+▸ Major Cities
+▸ Continents
+▸ Border Countries
+▸ Languages
+▸ Flags
+▸ Country Shapes
 
-Um FBX zu exportieren, schalten Sie den REC-Modus ein und nehmen Sie auf. Wenn Sie die Mail-Taste drücken, wird der Versionsauswahlbildschirm von FBX angezeigt. Wenn Sie die OK-Taste drücken, wird die FBX-Datei im Dateiordner gespeichert und der Mailer wird gestartet.
+FEATURES:
+▸ More than 1000 unique questions
+▸ 193 flash cards -- one for each country!
+▸ Interactive maps of the continents
+▸ Collect all 193 countries and track your progress on personalized maps
+▸ Earn FREE bonus games: Map It! and Pile Up!
+▸ Play in English, Spanish and French
+▸ Works on both iPhone and iPad - a universal app
+▸ Create up to six player profiles
+▸ Choose any of the friendly-looking countries as your avatar
+▸ High resolution pictures of famous world landmarks
+▸ All games are powered by a realistic physics engine
+▸ Fun sound effects and music
+▸ iPhone 4 Retina Display support
 
-Eine ausführliche Verwendung finden Sie unter der folgenden URL:
-https://ifacialmocap.com/
+THREE GAMES IN ONE:
 
-Diese App kann Gesichtsanimationen erstellen, indem sie in Echtzeit mit Maya, Unity, 3dsMax und Blender kommuniziert. Außerdem können in Echtzeit erstellte Animationen gebacken werden.
+STACK THE COUNTRIES: Build tall piles of countries and try to reach the checkered line.
 
-Starten Sie zur Verwendung zuerst diese App, starten Sie dann "iFacialMocap to SoftWare App" auf Ihrem PC und geben Sie die IP-Adresse Ihres iPhones ein.
-(Vom PC herunterladen: https://ifacialmocap.com/download/
-)
+MAP IT: Tap the location of the selected country on the map.  Try to complete the whole continent!
 
- Erstellen Sie als Nächstes bis zu 52 Morph-Ziele (BlendShape oder ShapeKey) gemäß der Namenskonvention.
-Verwenden Sie zum Schluss die 3DCG-Software, um das Skript / Add-On zu laden, und drücken Sie die Verbindungstaste.
+PILE UP: The countries are piling up!  Identify and tap them quickly to get rid of them before they reach the top.
 
-Eine sehr genaue Erfassung der Gesichtsbewegungen kann sehr einfach durchgeführt werden.
 
-Diese App ist nur für Modelle verfügbar, die mit FaceID ausgestattet sind. Das Kamerabild und die daraus resultierenden Tiefendaten werden nur zum Senden von Bewegungserfassungsdaten an den PC des Benutzers verwendet. Diese Daten werden nicht im iPhone gespeichert. Um Tiefendaten von der Apple-API abzurufen, ist der Zugriff auf die Kamera erforderlich.
+Stack the Countries® is an educational app for all ages that's actually FUN to play.  Try it now and enjoy three games for the price of one!
 
-Diese Anwendung wird nur für die Kommunikation mit PCs innerhalb desselben Netzwerks verwendet und sendet keine Informationen an Dritte.
 
-Diese App kann nur auf iOS-Geräten verwendet werden, die mit FaceID ausgestattet sind.
+PRIVACY DISCLOSURE:
+Stack the Countries®:
+- Does not contain 3rd party ads.
+- Does not contain in-app purchases.
+- Does not contain integration with social networks.
+- Does not use 3rd party analytics / data collection tools.
+- Does include links to apps by Dan Russell-Pinson in the iTunes App Store (via Performance Horizon).
 
-Folgende Geräte werden unterstützt:
+For more information on our privacy policy please visit:
+http://dan-russell-pinson.com/privacy/
 
-・iPhone
-iPhone13 mini
-Phone13 Pro Max
-iPhone13 Pro
-iPhone13
-iPhone12 Pro Max
-iPhone12 Pro
-iPhone12
-iPhone 11 Pro Max
-iPhone 11 Pro
-iPhone 11
-iPhone XS Max
-iPhone XS
-iPhone XR
-iPhone X
+[View on Apple](https://apps.apple.com/us/app/stack-the-countries/id407838198)
 
+<a id="qz-qdomyos-zwift"></a>
+## QZ - qdomyos-zwift
 
-・ IPad
-iPad Pro 12,9 Zoll (5. Generation)
-iPad Pro 12,9 Zoll (4. Generation)
-iPad Pro 12,9 Zoll (3. Generation)
-iPad Pro 11 Zoll (2. Generation)
-iPad Pro 11 Zoll
+![QZ - qdomyos-zwift](../../logos/1543684531-37e8bbe9.png)
 
-* Face ID ist nicht in der neuen iPhone SE 2. Generation installiert, die im Jahr 2020 veröffentlicht wurde. Sie können iFacial Mocap jedoch verwenden, indem Sie auf iOS 14 oder höher aktualisieren. ICacial Mocap ist nicht nur auf das iPhone SE der 2. Generation beschränkt, sondern kann auch verwendet werden, wenn es über einen A12-Chip oder einen höheren Chip verfügt und auf iOS14 aktualisiert wurde.
+** QZ is not affiliated with or endorsed by any subscription service or maker of exercise equipment. **
 
-[View on Apple](https://apps.apple.com/us/app/ifacialmocap/id1489470545)
+Have you got a bike (echelon, flywheel, proform, i-console yesoul, decathlon, domyos, keiser, ...) or a Domyos (Decathlon) / Horizon / Proform  treadmill and you want to join to zwift? This app allows you to give a second life to your machine!
 
-<a id="earthquake-network"></a>
-## Earthquake Network
+Also ellipticals and rowers machinery are supported now!
 
-![Earthquake Network](../../logos/1449893235-b3a5a245.png)
+Simply connect your smartphone to the treadmill/bike and zwift/peloton/fulgaz/rouvy will recognize it!
 
-Earthquake Network is the most comprehensive app on earthquakes and for most world countries it is the only earthquake early warning system for receiving real time alerts.
+Also this app allow you to use HealthKit to read your heart rate direct from your Apple Watch or any Heart Rate Bluetooth Belt. This metric will also be saved in your workout!
 
-Earthquake Network gives you:
+Compatible machineries:
+- all the Echelon bikes (please check the firmware compatibility https://robertoviola.cloud/2025/07/22/how-i-built-qz-and-how-echelon-is-now-breaking-it/ )
+- all the Domyos bikes
+- all the Domyos treadmills
+- all the Domyos elliptical machinery
+- Smart Row Rower
+- Echelon Rower (please check the firmware compatibility https://robertoviola.cloud/2025/07/22/how-i-built-qz-and-how-echelon-is-now-breaking-it/ )
+- Concept Rower 2
+- Yesoul S3 (M3 is currently on testing, if you have one, contact me)
+- Sportstech bikes
+- Inspire bikes
+- Schwinn IC4 and Bowflex C6
+- Toorx bikes and spinbikes
+- Fassi treadmills
+- all the Proform bikes without a tablet builtin
+- Proform treadmills
+- Flywheel bike (the calibration tool is here https://ptx2.net/apps/flytest/ )
+- JK Fitness treadmill
+- Toorx treadmills
+- Sole elliptical
+- Chrono bike
+- NPECable
+- and much more! ask me by email about the compatibility
 
-- Real time alerts if you live close to the epicentre
-- Alerts seconds in advances if you live far from the epicentre
-- Real time user reports on felt earthquakes
-- Free earthquake data from 21 seismic networks including U.S., Puerto Rico, India, Indonesia, Turkey, Mexico, Chile, Peru, Ecuador, Argentina, Venezuela, Dominican Republic, Colombia, Costa Rica, Nicaragua, China, New Zeland, Japan, Italy, Croatia, Spain and Greece
+If you want you can join the Swag Bag auto-renewing subscription through an In-App Purchase in order to help me in the development of the app!
+• an auto-renewable subscription
+• 1 month ($1.99)
+• Your subscription will be charged to your iTunes account at confirmation of purchase and will automatically renew (at the duration selected) unless auto-renew is turned off at least 24 hours before the end of the current period.
+• Current subscription may not be cancelled during the active subscription period; however, you can manage your subscription and/or turn off auto-renewal by visiting your iTunes Account Settings after purchase.
+• Privacy policy: https://robertoviola.cloud/privacy-policy-qdomyos-zwift/
+• Licensed Application end user license agreement: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 
-The Earthquake Network research project (https://www.sismo.app) aims at developing a smartphone-based earthquake early warning system able to detect earthquakes in real time and to alert the population in advance. Smartphones are able to detect earthquakes thanks to the accelerometer on-board each device. When an earthquake is detected, users with the application installed are immediatly alerted. Since earthquake waves travel at around 5 km/s it is possible to alert the population not yet reached by the damaging waves of the earthquake. For the scientific details about the project please refer to the scientific paper on Frontiers at https://bit.ly/2C8B5HI
+[View on Apple](https://apps.apple.com/us/app/qz-qdomyos-zwift/id1543684531)
 
-Subscriptions:
+<a id="dj-rehab-music"></a>
+## DJ Rehab Music
 
-When an earthquake is detected in real time by smartphones near the epicenter, the server sends an alert to all users with the app. Alerting all users can take up to 10 seconds since it is not technically feasible to do so instantly. Now you can join the priority lists of the first 10,000 or 100,000 people alerted in real time. The following subscriptions are available:
+![DJ Rehab Music](../../logos/6752807769-22eead66.png)
 
-- Subscription 10k for 1 year
-- Subscription 10k for 1 month 
+Discover the DJ Rehab Music App – Nonstop Mashups & Epic Mixtapes 
 
-- Subscription 100k for 1 year
-- Subscription 100k for 1 month 
+Step into the world of DJ Rehab, where genres collide and the music never stops. The DJ Rehab Music App is your one-stop destination for wild mashups, exclusive remixes, and jaw-dropping 200+ song mixtapes that blend hip-hop, EDM, classic rock, pop, and everything in between.
 
-• Payment will be charged to iTunes Account at confirmation of purchase
-• Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period
-• Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal
-• Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase
-• Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable
+What You’ll Get:
 
-Privacy: https://www.sismo.app/privacy
+-Hundreds of original mashups that flip your favorite tracks in unexpected ways
 
-Terms and conditions: https://www.sismo.app/terms-conditions
+-Mega-mixtapes packed with over 200 songs, seamlessly mixed for hours of nonstop vibes
 
-[View on Apple](https://apps.apple.com/us/app/earthquake-network/id1449893235)
+-A genre-bending library that takes you from Wu-Tang to Zeppelin, Outkast to EDM anthems
 
-<a id="skysafari"></a>
-## SkySafari
+-Exclusive mixes you won’t find anywhere else
 
-![SkySafari](../../logos/1257281849-596ae9eb.png)
+-Perfect for parties, workouts, road trips, or just losing yourself in the music, the DJ Rehab Music App puts creativity and energy in your pocket.
 
-SkySafari 8 is a powerful planetarium that fits in your pocket, puts the universe at your fingertips, and is incredibly easy to use!
-
-Simply hold your device to the sky and quickly locate comets, planets, constellations, satellites, and millions of stars and deep sky objects. Whether you are a beginner or a longtime astronomy enthusiast, SkySafari 8 is your perfect stargazing companion, packed with interactive information, rich graphics, and a beautifully refined interface.
-
-What’s New in Version 8
-
-+ New Theme - A new look of the app with a fresh visual palette.
-
-+ Image Gallery - Explore the universe through astrophotography. Import images directly from AstroBin.
-
-+ Sky Tonight - Jump to the new Tonight section to see what’s visible in your sky right now. Expanded information has been designed to help plan your night and includes Moon & Sun info, calendar curations, and the best positioned deep sky and solar system objects.
-
-If you're new to SkySafari 8, here’s what you can do:
-
-+ Point & Identify - Hold your device to the sky and instantly identify stars, constellations, planets, satellites, and more. The chart updates automatically with your movements.
-
-+ OneSky - See what other users are observing in real-time. This feature highlights objects in the sky chart and indicates how many users are looking at them.
-
-+ Orbit Mode - Lift off from Earth and travel to the planets, moons, and stars.
-
-+ Guided Audio Tours - Listen to more than four hours of audio narration to learn the history, mythology, and science of the heavens.
-
-+ Pronunciation Guide - Learn how to correctly pronounce the names of hundreds of celestial objects, from stars to constellations and planets.
-
-+ Simulate the Sky - See an eclipse in the past or future! Simulate the night sky from anywhere on Earth many years backward or forward in time.
-
-+ Night Vision - Preserve your eyesight after dark.
-
-SkySafari Premium Subscription Unlock amazing features with the optional Premium Subscription, including:
-
-+ Massive Database - Access a massive deep sky database.
-
-+ Custom Image Import - Upload and manage your own astrophotography images in the Image Gallery and show them in the sky chart. 
-
-+ Enhanced Tools - Access curated news, events, connected stargazing features, a light pollution map, and more.
-
-For telescope control and even more advanced features, check out SkySafari 8 Plus and SkySafari 8 Pro!
-
-Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/ 
-Privacy Policy: https://www.livesky.com/privacy.html
-
-[View on Apple](https://apps.apple.com/us/app/skysafari/id1257281849)
-
-<a id="stbemutv-pro"></a>
-## StbEmuTV (Pro)
-
-![StbEmuTV (Pro)](../../logos/1564403188-7851e68c.png)
-
-Best Stalker IPTV with complete support for iPad and iPhone, the way everyone wants to watch tv on their iPhone and iPad!
-
-Great user interface that will also allow you to manage your portals. You can maintain multiple portals using this app. 
-
-StbEmuTV offers you the same UI feel as provided by your IPTV Service provider for your TV. Now you can easily use your stalker portal if you have an iPhone or an iPad.
-
-
-Features:
-
-- Stream video from multiple protocols (HTTP, RTMP, RTSP, TS, MMS)
-
-- EPG support
-
-- TV (Manage TV channels)
-
-- VOD (Video on Demand)
-
-- Series (TV Series)
-
-- Add, Edit, Delete, Share, Duplicate, Select Profiles and (Fast Switch)
-
-- Favorite List added (TV, VOD, Series)
-
-- Autoplay first channel of tv group. 
-
-Disclaimer:
-
-- StbEmuTV does not provide or include any media or stream content
-- Users must enter their own portal details
-- We do not endorse the streaming of copyright-protected material without the permission of the copyright holder.
-
-[View on Apple](https://apps.apple.com/us/app/stbemutv-pro/id1564403188)
+[View on Apple](https://apps.apple.com/us/app/dj-rehab-music/id6752807769)

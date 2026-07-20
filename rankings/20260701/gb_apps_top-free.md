@@ -1,141 +1,103 @@
-- [BBC iPlayer](#bbc-iplayer)
 - [GOV.UK One Login](#gov-uk-one-login)
+- [BBC iPlayer](#bbc-iplayer)
 - [ChatGPT](#chatgpt)
+- [InPost UK](#inpost-uk)
 - [BBC Sport - News & Live Scores](#bbc-sport-news-live-scores)
 - [ITVX](#itvx)
-- [InPost UK](#inpost-uk)
-- [Netflix Game Controller](#netflix-game-controller)
 - [Whatnot: Shop, Sell, Connect](#whatnot-shop-sell-connect)
 - [Lloyds Mobile Banking](#lloyds-mobile-banking)
-- [bet365 - Sports Betting](#bet365-sports-betting)
+- [Netflix Game Controller](#netflix-game-controller)
 - [Google Gemini](#google-gemini)
 - [Claude by Anthropic](#claude-by-anthropic)
+- [bet365 - Sports Betting](#bet365-sports-betting)
 - [Google](#google)
 - [Dola: Smart AI Assistant](#dola-smart-ai-assistant)
 - [Uber: Ride-Hailing & Taxis](#uber-ride-hailing-taxis)
 - [Monzo Bank - Mobile Banking](#monzo-bank-mobile-banking)
-- [Vinted: Secondhand-Marktplatz](#vinted-secondhand-marktplatz)
-- [Temu : Achats et Mode en Ligne](#temu-achats-et-mode-en-ligne)
 - [Threads](#threads)
+- [Temu : Achats et Mode en Ligne](#temu-achats-et-mode-en-ligne)
+- [Vinted: Secondhand-Marktplatz](#vinted-secondhand-marktplatz)
+- [Ryanair](#ryanair)
+- [Bolt: Fahrten anfordern](#bolt-fahrten-anfordern)
+- [Google Maps](#google-maps)
 - [CapCut: Foto- und Video-Editor](#capcut-foto-und-video-editor)
 - [Airbnb](#airbnb)
 - [Revolut — Banking & Trading](#revolut-banking-trading)
-- [Bolt: Fahrten anfordern](#bolt-fahrten-anfordern)
-- [Ryanair](#ryanair)
-- [Google Maps](#google-maps)
+- [VibeShort: AI Comic Dramas](#vibeshort-ai-comic-dramas)
 - [Jet2 - Holidays and Flights](#jet2-holidays-and-flights)
 - [StoryReel: Exclusive Drama](#storyreel-exclusive-drama)
-- [Life360: Family Safety & GPS](#life360-family-safety-gps)
+- [Shop: Deine Lieblingsmarken](#shop-deine-lieblingsmarken)
 - [DramaWave - Drama & Reel](#dramawave-drama-reel)
 - [Tesco Grocery & Clubcard](#tesco-grocery-clubcard)
-- [VibeShort: AI Comic Dramas](#vibeshort-ai-comic-dramas)
+- [RingGo: Mobile Car Parking App](#ringgo-mobile-car-parking-app)
+- [Microsoft Authenticator](#microsoft-authenticator)
+- [Life360: Family Safety & GPS](#life360-family-safety-gps)
+- [Lidl Plus](#lidl-plus)
+- [Waze Navigation und Verkehr](#waze-navigation-und-verkehr)
 - [Telegram Messenger](#telegram-messenger)
+- [HMRC](#hmrc)
 - [Ticketmaster－Buy, Sell Tickets](#ticketmaster-buy-sell-tickets)
 - [Booking.com: Hotel Angebote](#booking-com-hotel-angebote)
-- [RingGo: Mobile Car Parking App](#ringgo-mobile-car-parking-app)
-- [Just Eat: Food and Shops](#just-eat-food-and-shops)
-- [Waze Navigation und Verkehr](#waze-navigation-und-verkehr)
-- [Greene King Pubs & Restaurants](#greene-king-pubs-restaurants)
-- [Uber Eats: Essen, Lieferdienst](#uber-eats-essen-lieferdienst)
 - [AliExpress Shopping App](#aliexpress-shopping-app)
-- [Shop: Deine Lieblingsmarken](#shop-deine-lieblingsmarken)
-- [McDonald’s U.K.](#mcdonald-s-u-k)
 - [Freecash - Geld verdienen](#freecash-geld-verdienen)
-- [Lidl Plus](#lidl-plus)
-- [多邻国Duolingo英语日语法语](#多邻国duolingo英语日语法语)
-- [Testerup: Test & Earn Rewards](#testerup-test-earn-rewards)
-- [Merlin Bird ID by Cornell Lab](#merlin-bird-id-by-cornell-lab)
-- [VPN - Super Unlimited Proxy ™](#vpn-super-unlimited-proxy-tm)
 - [easyJet: Travel App](#easyjet-travel-app)
-- [SHEIN-Shopping Online](#shein-shopping-online)
-- [X](#x)
+- [Merlin Bird ID by Cornell Lab](#merlin-bird-id-by-cornell-lab)
+- [多邻国Duolingo英语日语法语](#多邻国duolingo英语日语法语)
 - [AllTrails Rando Sentiers Carte](#alltrails-rando-sentiers-carte)
 - [Indeed Jobs](#indeed-jobs)
-- [Facebook](#facebook)
-- [TikTok - Videos, Shop und LIVE](#tiktok-videos-shop-und-live)
-- [HMRC](#hmrc)
-- [Instagram](#instagram)
+- [Testerup: Test & Earn Rewards](#testerup-test-earn-rewards)
 - [GetYourGuide: Planen & buchen](#getyourguide-planen-buchen)
-- [NetShort -Beliebte Dramen & TV](#netshort-beliebte-dramen-tv)
-- [Proton VPN: Privé et Rapide](#proton-vpn-prive-et-rapide)
+- [McDonald’s U.K.](#mcdonald-s-u-k)
+- [Just Eat: Food and Shops](#just-eat-food-and-shops)
+- [SHEIN-Shopping Online](#shein-shopping-online)
+- [Uber Eats: Essen, Lieferdienst](#uber-eats-essen-lieferdienst)
+- [TikTok - Videos, Shop und LIVE](#tiktok-videos-shop-und-live)
+- [X (anciennement Twitter)](#x-anciennement-twitter)
+- [VPN - Super Unlimited Proxy ™](#vpn-super-unlimited-proxy-tm)
 - [Trainline: Train & Bus Tickets](#trainline-train-bus-tickets)
-- [Nectar: Shop & Collect Points](#nectar-shop-collect-points)
-- [JustPark Parking](#justpark-parking)
-- [Gmail – E-Mail von Google](#gmail-e-mail-von-google)
+- [Instagram](#instagram)
+- [NetShort -Beliebte Dramen & TV](#netshort-beliebte-dramen-tv)
 - [PayByPhone Parking](#paybyphone-parking)
+- [Greene King Pubs & Restaurants](#greene-king-pubs-restaurants)
+- [JustPark Parking](#justpark-parking)
+- [Facebook](#facebook)
+- [Gmail – E-Mail von Google](#gmail-e-mail-von-google)
+- [NHS App](#nhs-app)
+- [Nectar: Shop & Collect Points](#nectar-shop-collect-points)
+- [Proton VPN: Privé et Rapide](#proton-vpn-prive-et-rapide)
+- [Spotify Musik und Podcasts](#spotify-musik-und-podcasts)
+- [Google Chrome](#google-chrome)
+- [Netflix](#netflix)
+- [Amazon Shopping](#amazon-shopping)
+- [Google Authenticator](#google-authenticator)
 - [Pinterest](#pinterest)
 - [Reddit](#reddit)
-- [Deliveroo: Food & Shopping](#deliveroo-food-shopping)
-- [Spotify Musik und Podcasts](#spotify-musik-und-podcasts)
-- [Amazon Shopping](#amazon-shopping)
-- [Netflix](#netflix)
+- [Cleanup: Clean Storage Space](#cleanup-clean-storage-space)
 - [eBay: kaufen & verkaufen](#ebay-kaufen-verkaufen)
-- [Google Chrome](#google-chrome)
-- [Voi – E-Scooter & E-Bikes](#voi-e-scooter-e-bikes)
-- [Lime - #RideGreen](#lime-ridegreen)
-- [Amazon Prime Video](#amazon-prime-video)
-- [NordVPN: VPN Fast & Secure](#nordvpn-vpn-fast-secure)
-- [Too Good To Go: Essen retten](#too-good-to-go-essen-retten)
+- [TrainPal: Cheap train tickets](#trainpal-cheap-train-tickets)
 - [Klarna: Verwalte Geld smarter](#klarna-verwalte-geld-smarter)
-- [Dunelm: The Home of Homes](#dunelm-the-home-of-homes)
-- [Flightradar24 | Flight Tracker](#flightradar24-flight-tracker)
 - [Airalo: eSIM-Reisen & Internet](#airalo-esim-reisen-internet)
 - [Trip.com: Flight, Hotel, Train](#trip-com-flight-hotel-train)
-- [Grok - Assistant IA](#grok-assistant-ia)
-- [Google Authenticator](#google-authenticator)
+- [Octopus Energy](#octopus-energy)
+- [Dunelm: The Home of Homes](#dunelm-the-home-of-homes)
+- [Voi – E-Scooter & E-Bikes](#voi-e-scooter-e-bikes)
 - [Meta AI](#meta-ai)
-- [Commerce B2B avec Alibaba](#commerce-b2b-avec-alibaba)
-- [TrainPal: Cheap train tickets](#trainpal-cheap-train-tickets)
+- [Flightradar24 | Flight Tracker](#flightradar24-flight-tracker)
+- [Deliveroo: Food & Shopping](#deliveroo-food-shopping)
+- [NordVPN: VPN Fast & Secure](#nordvpn-vpn-fast-secure)
+- [Lime - #RideGreen](#lime-ridegreen)
 - [Strava: Laufen & Radfahren](#strava-laufen-radfahren)
-- [Cleanup: Clean Storage Space](#cleanup-clean-storage-space)
-- [Paddy Power Sports Betting](#paddy-power-sports-betting)
+- [Amazon Prime Video](#amazon-prime-video)
+- [Too Good To Go: Essen retten](#too-good-to-go-essen-retten)
+- [Greggs App - Food & Drink](#greggs-app-food-drink)
 - [PayPal: Geld senden, verwalten](#paypal-geld-senden-verwalten)
-- [NHS App](#nhs-app)
-- [DramaBox - Film et Drame Court](#dramabox-film-et-drame-court)
-- [HBO Max: Watch Movies & TV](#hbo-max-watch-movies-tv)
-- [YouTube](#youtube)
-- [Hinge Dating App: Date & Meet](#hinge-dating-app-date-meet)
+- [Commerce B2B avec Alibaba](#commerce-b2b-avec-alibaba)
+- [Royal Mail](#royal-mail)
+- [Grok - Assistant IA](#grok-assistant-ia)
 - [Yuka - Food & Cosmetic Scanner](#yuka-food-cosmetic-scanner)
+- [DramaBox - Film et Drame Court](#dramabox-film-et-drame-court)
+- [YouTube](#youtube)
 - [Canva: KI-Foto- & Video-Editor](#canva-ki-foto-video-editor)
-- [TUI: Holiday, Flights & Travel](#tui-holiday-flights-travel)
-
-<a id="bbc-iplayer"></a>
-## BBC iPlayer
-
-![BBC iPlayer](../../logos/416580485-bb92bdaf.png)
-
-Enjoy BBC iPlayer in the palm of your hand, from live news coverage, music and big sporting events to great comedies, gripping documentaries and nail-biting dramas. 
- 
-KEY FEATURES:
- 
-WATCH ON DEMAND
-Discover the latest TV series including The Traitors, Race Across the World and Gladiators.
- 
-LIVE TV
-Pause, restart and rewind live channels part way through so that you don’t miss a thing.
- 
-OFFLINE VIEWING
-Download shows to your device so that you can watch on the go.
- 
-PARENTAL CONTROLS
-Create a child profile for a more age appropriate experience with all their favourite shows from CBBC, CBeebies and more!
- 
-MORE FEATURES TO ENJOY:
-
-- Build a watchlist of your favourite shows.
-- Sign in or create an account so that you can start watching on one device and resume watching on another.
-- Receive recommendations of shows we think you might enjoy.
-- Stream programmes to your TV using Apple AirPlay and Google Chromecast; please note this requires a supported device and compatible supported device connected to your TV
-
- 
-To give you the best experience, this app tracks what you’ve searched for. This can be deleted by tapping the ‘Clear History’ button on the Search screen. What you’ve watched and how long you’ve watched programmes are also tracked. You can turn this off by logging into your BBC account and turning off “Allow Personalisation”. The device uses performance cookies for internal purposes to help us improve the app. You can choose to opt out of this at any time from the in-app Settings menu. For more information about this and privacy, cookies and iPlayer more generally, visit the BBC iPlayer Apps Privacy notice at https://www.bbc.co.uk/iplayer/help/app_privacy. To read the BBC’s Privacy Policy go to https://www.bbc.co.uk/privacy/
-
-
-You can “opt out” from our data processor’s tracking by filling the “Forget My Device” form in this link https://www.appsflyer.com/optout
-If you install this app you accept the BBC Terms of Use at https://www.bbc.co.uk/terms.
-The app was developed by Media AT (BBC Media Applications Technologies Limited) which is a wholly owned subsidiary of the BBC (British Broadcasting Corporation). Full details of Media AT are available on the Companies House website at: http://data.companieshouse.gov.uk/doc/company/07100235
-
-[View on Apple](https://apps.apple.com/gb/app/bbc-iplayer/id416580485)
 
 <a id="gov-uk-one-login"></a>
 ## GOV.UK One Login
@@ -201,6 +163,44 @@ Digital documents you add to the app will be saved on your phone so you can acce
 
 [View on Apple](https://apps.apple.com/gb/app/gov-uk-one-login/id6737119425)
 
+<a id="bbc-iplayer"></a>
+## BBC iPlayer
+
+![BBC iPlayer](../../logos/416580485-bb92bdaf.png)
+
+Enjoy BBC iPlayer in the palm of your hand, from live news coverage, music and big sporting events to great comedies, gripping documentaries and nail-biting dramas. 
+ 
+KEY FEATURES:
+ 
+WATCH ON DEMAND
+Discover the latest TV series including The Traitors, Race Across the World and Gladiators.
+ 
+LIVE TV
+Pause, restart and rewind live channels part way through so that you don’t miss a thing.
+ 
+OFFLINE VIEWING
+Download shows to your device so that you can watch on the go.
+ 
+PARENTAL CONTROLS
+Create a child profile for a more age appropriate experience with all their favourite shows from CBBC, CBeebies and more!
+ 
+MORE FEATURES TO ENJOY:
+
+- Build a watchlist of your favourite shows.
+- Sign in or create an account so that you can start watching on one device and resume watching on another.
+- Receive recommendations of shows we think you might enjoy.
+- Stream programmes to your TV using Apple AirPlay and Google Chromecast; please note this requires a supported device and compatible supported device connected to your TV
+
+ 
+To give you the best experience, this app tracks what you’ve searched for. This can be deleted by tapping the ‘Clear History’ button on the Search screen. What you’ve watched and how long you’ve watched programmes are also tracked. You can turn this off by logging into your BBC account and turning off “Allow Personalisation”. The device uses performance cookies for internal purposes to help us improve the app. You can choose to opt out of this at any time from the in-app Settings menu. For more information about this and privacy, cookies and iPlayer more generally, visit the BBC iPlayer Apps Privacy notice at https://www.bbc.co.uk/iplayer/help/app_privacy. To read the BBC’s Privacy Policy go to https://www.bbc.co.uk/privacy/
+
+
+You can “opt out” from our data processor’s tracking by filling the “Forget My Device” form in this link https://www.appsflyer.com/optout
+If you install this app you accept the BBC Terms of Use at https://www.bbc.co.uk/terms.
+The app was developed by Media AT (BBC Media Applications Technologies Limited) which is a wholly owned subsidiary of the BBC (British Broadcasting Corporation). Full details of Media AT are available on the Companies House website at: http://data.companieshouse.gov.uk/doc/company/07100235
+
+[View on Apple](https://apps.apple.com/gb/app/bbc-iplayer/id416580485)
+
 <a id="chatgpt"></a>
 ## ChatGPT
 
@@ -228,6 +228,33 @@ https://openai.com/policies/terms-of-use
 https://openai.com/policies/privacy-policy
 
 [View on Apple](https://apps.apple.com/gb/app/chatgpt/id6448311069)
+
+<a id="inpost-uk"></a>
+## InPost UK
+
+![InPost UK](../../logos/1591214233-9dbc839e.png)
+
+*NEW* Track Yodel by InPost home deliveries straight from the app. Save your delivery preferences, get an estimated date and 2-hour window, and redirect parcels to a locker if you're not going to be in. Import your Yodel app preferences to get set up in seconds.
+
+SEND PARCELS 24/7 - PRINT-FREE 
+Drop off at any locker or shop and we'll get it from A to B - straight to a locker or home address. Upgrade your cover for extra peace of mind.
+
+YODEL PARCEL REDIRECTION 
+Use our app to divert your Yodel parcels - whether they're heading to your home or a locker - wherever suits you best.
+
+CHECK FOR SPACE BY COMPARTMENT SIZE 
+See if small, medium or large compartments have availability in your nearest lockers. Plan your route and get tips on spotting lockers on-site.
+
+REMOTE OPENING 
+Collecting a parcel from an InPost Locker? Walk up and use your app to open the compartment - no locker screen needed.
+
+TRACK PARCELS 
+Whether you're collecting, returning or sending, track all your parcels from A to B - right in the palm of your hand.
+
+GET UPDATES 
+We'll keep you posted while your parcels are on the move and send all your collection details straight to your app.
+
+[View on Apple](https://apps.apple.com/gb/app/inpost-uk/id1591214233)
 
 <a id="bbc-sport-news-live-scores"></a>
 ## BBC Sport - News & Live Scores
@@ -285,48 +312,6 @@ Stream live TV, new shows every week, hundreds of films and boxsets and loads of
 Terms of Use (EULA): https://www.itv.com/terms/articles/itvxtermsofuse
 
 [View on Apple](https://apps.apple.com/gb/app/itvx/id446079916)
-
-<a id="inpost-uk"></a>
-## InPost UK
-
-![InPost UK](../../logos/1591214233-9dbc839e.png)
-
-*NEW* Track Yodel by InPost home deliveries straight from the app. Save your delivery preferences, get an estimated date and 2-hour window, and redirect parcels to a locker if you're not going to be in. Import your Yodel app preferences to get set up in seconds.
-
-SEND PARCELS 24/7 - PRINT-FREE 
-Drop off at any locker or shop and we'll get it from A to B - straight to a locker or home address. Upgrade your cover for extra peace of mind.
-
-YODEL PARCEL REDIRECTION 
-Use our app to divert your Yodel parcels - whether they're heading to your home or a locker - wherever suits you best.
-
-CHECK FOR SPACE BY COMPARTMENT SIZE 
-See if small, medium or large compartments have availability in your nearest lockers. Plan your route and get tips on spotting lockers on-site.
-
-REMOTE OPENING 
-Collecting a parcel from an InPost Locker? Walk up and use your app to open the compartment - no locker screen needed.
-
-TRACK PARCELS 
-Whether you're collecting, returning or sending, track all your parcels from A to B - right in the palm of your hand.
-
-GET UPDATES 
-We'll keep you posted while your parcels are on the move and send all your collection details straight to your app.
-
-[View on Apple](https://apps.apple.com/gb/app/inpost-uk/id1591214233)
-
-<a id="netflix-game-controller"></a>
-## Netflix Game Controller
-
-![Netflix Game Controller](../../logos/6447582581-851acfd0.png)
-
-Spiele Spiele auf deinem Fernseher oder Computerbrowser mit dem Netflix-Gamecontroller.
-
-Mit dieser App kannst du Spiele auf Netflix spielen, indem du dein Handy oder Mobilgerät als Gamecontroller verwendest. Die Netflix-Gamecontroller-App ist für alle verfügbar.
-
-Netflix Games befindet sich in der Beta-Phase und je nach Gerätetyp wird dein Fernseher oder Browser möglicherweise derzeit nicht unterstützt.
-
-Lass die Spiele beginnen!
-
-[View on Apple](https://apps.apple.com/gb/app/netflix-game-controller/id6447582581)
 
 <a id="whatnot-shop-sell-connect"></a>
 ## Whatnot: Shop, Sell, Connect
@@ -396,65 +381,20 @@ Any confirmation that our product or service complies with European Union law is
 
 [View on Apple](https://apps.apple.com/gb/app/lloyds-mobile-banking/id469964520)
 
-<a id="bet365-sports-betting"></a>
-## bet365 - Sports Betting
+<a id="netflix-game-controller"></a>
+## Netflix Game Controller
 
-![bet365 - Sports Betting](../../logos/519684662-6e504155.png)
+![Netflix Game Controller](../../logos/6447582581-851acfd0.png)
 
-Join bet365, the Official Betting Partner of the UEFA Champions League, download the app for Super Boosts and other offers on this summer’s International Football and experience sports betting like never before. 
+Spiele Spiele auf deinem Fernseher oder Computerbrowser mit dem Netflix-Gamecontroller.
 
-Bet on the biggest Football competition as the World Cup begins, bet on a variety of other sports and markets, both live and pre-match with bet365, get the latest odds on the Premier League, Champions League, Horse Racing, Boxing, Darts, Basketball, Golf and Tennis.
+Mit dieser App kannst du Spiele auf Netflix spielen, indem du dein Handy oder Mobilgerät als Gamecontroller verwendest. Die Netflix-Gamecontroller-App ist für alle verfügbar.
 
-Enjoy the ultimate gaming experience at bet365! Spin to win with a wide range of top slot games, including unique Originals, and experience the world of Live Casino action, classic table games, Poker, Bingo, and mighty jackpots all from one app.
+Netflix Games befindet sich in der Beta-Phase und je nach Gerätetyp wird dein Fernseher oder Browser möglicherweise derzeit nicht unterstützt.
 
-bet365 customers can enjoy an unrivalled user experience including:
-· Super Boosts: Get our BIGGEST prices on selected markets with Super Boosted odds.
+Lass die Spiele beginnen!
 
-· Winnings Boosts: BOOST your winnings on featured sports and events for Bet Builders and selected single bets, increasing your winnings without raising your stake.
-
-· Bet Boosts: Daily BOOSTS on hundreds of markets across various sports, indicated by two green chevrons for boosted odds.
-
-· Bet Builder+: Combine popular markets from selected events into one bet. Our user-friendly interface allows you to build the bet you want and give you instant odds, available pre-match and In-Play.
-
-· Free Games: Enter free-to-play games like 6 Scores Challenge and Goals Giveaway for a chance to win cash prizes!
-
-· Fantasy Sports: Enter our Full Season and Weekly Tournaments with varying entry prices and prizes.
-
-· In-Play Betting: Bet on thousands of In-Play markets across sports like American Football, Soccer, and Basketball.
-
-· Live Streaming: bet365 streams hundreds of thousands of events worldwide every year, bringing top quality live sporting action straight to your device wherever you are. Featuring events globally from major Soccer leagues, the NBA, NFL & more.
-
-· Bet Track: Stay updated on all your live bets, the dynamic island displays on your widgets to keep you in the loop on any bet for a match In-Play.
-
-· Match Live: Follow In-Play events live and monitor your bets and stats as the action unfolds. Available on a wide range of fantastic sports.
-
-· Live Golf Tracker: Follow every drive, iron and putt from your favourite players in some of the biggest Golf competitions in the world from the PGA TOUR and DP World Tour.
-
-· Sports Stats: Study the stats for major leagues across the globe including American Football, Soccer and Basketball.
-
-· Personalised Display: Easily navigate to your preferred sports as our intuitive App will show you the type of sports you bet on. You can also favourite specific sports via the A-Z Sports menu for easy access.
-
-· My Teams: Our dedicated My Teams page allows you to quickly place your Soccer bets and view upcoming fixtures for your favourite teams.
-
-· Sports Betting & News: Keep up to date with the very latest news across a wide range of sports and get extra betting insights from our talent and tipsters.
-
-· bet365 Extra: View our extensive range of offers and promotions.
-
-· Search: Use our search facility to quickly find the sport, league, event or market you want to bet on.
-
-· Face ID: Access your account securely within seconds. Only available on supported devices.
-
-· Payment Methods: Choose from a wide range of payment options, including Debit Card, PayPal, and Apple Pay.
-
-· Account Access: Use your existing bet365 account or sign up via the app.
-
-You must be 18 or over to have a bet365 account. Availability may differ by location. Tell us what you think and rate our app today! 
-
-bet365 is committed to Responsible Gambling, offering tools to help you stay in control, such as Time-Outs, Deposit Limits, Reality Checks, and Self-Exclusion. 
-
-For UK customers, additional support is available at www.gambleaware.org or by calling 0808 8020 133. For customers in Ireland, visit GambleAware.ie or call 1800 753 753.
-
-[View on Apple](https://apps.apple.com/gb/app/bet365-sports-betting/id519684662)
+[View on Apple](https://apps.apple.com/gb/app/netflix-game-controller/id6447582581)
 
 <a id="google-gemini"></a>
 ## Google Gemini
@@ -590,6 +530,66 @@ Datenschutzrichtlinie: https://www.anthropic.com/legal/privacy
 © 2026 Anthropic, PBC
 
 [View on Apple](https://apps.apple.com/gb/app/claude-by-anthropic/id6473753684)
+
+<a id="bet365-sports-betting"></a>
+## bet365 - Sports Betting
+
+![bet365 - Sports Betting](../../logos/519684662-fb97528c.png)
+
+Join bet365, the Official Betting Partner of the UEFA Champions League, download the app for Super Boosts and other offers on this summer’s International Football and experience sports betting like never before. 
+
+Bet on the biggest Football competition as the World Cup begins, bet on a variety of other sports and markets, both live and pre-match with bet365, get the latest odds on the Premier League, Champions League, Horse Racing, Boxing, Darts, Basketball, Golf and Tennis.
+
+Enjoy the ultimate gaming experience at bet365! Spin to win with a wide range of top slot games, including unique Originals, and experience the world of Live Casino action, classic table games, Poker, Bingo, and mighty jackpots all from one app.
+
+bet365 customers can enjoy an unrivalled user experience including:
+· Super Boosts: Get our BIGGEST prices on selected markets with Super Boosted odds.
+
+· Winnings Boosts: BOOST your winnings on featured sports and events for Bet Builders and selected single bets, increasing your winnings without raising your stake.
+
+· Bet Boosts: Daily BOOSTS on hundreds of markets across various sports, indicated by two green chevrons for boosted odds.
+
+· Bet Builder+: Combine popular markets from selected events into one bet. Our user-friendly interface allows you to build the bet you want and give you instant odds, available pre-match and In-Play.
+
+· Free Games: Enter free-to-play games like 6 Scores Challenge and Goals Giveaway for a chance to win cash prizes!
+
+· Fantasy Sports: Enter our Full Season and Weekly Tournaments with varying entry prices and prizes.
+
+· In-Play Betting: Bet on thousands of In-Play markets across sports like American Football, Soccer, and Basketball.
+
+· Live Streaming: bet365 streams hundreds of thousands of events worldwide every year, bringing top quality live sporting action straight to your device wherever you are. Featuring events globally from major Soccer leagues, the NBA, NFL & more.
+
+· Bet Track: Stay updated on all your live bets, the dynamic island displays on your widgets to keep you in the loop on any bet for a match In-Play.
+
+· Match Live: Follow In-Play events live and monitor your bets and stats as the action unfolds. Available on a wide range of fantastic sports.
+
+· Live Golf Tracker: Follow every drive, iron and putt from your favourite players in some of the biggest Golf competitions in the world from the PGA TOUR and DP World Tour.
+
+· Sports Stats: Study the stats for major leagues across the globe including American Football, Soccer and Basketball.
+
+· Personalised Display: Easily navigate to your preferred sports as our intuitive App will show you the type of sports you bet on. You can also favourite specific sports via the A-Z Sports menu for easy access.
+
+· My Teams: Our dedicated My Teams page allows you to quickly place your Soccer bets and view upcoming fixtures for your favourite teams.
+
+· Sports Betting & News: Keep up to date with the very latest news across a wide range of sports and get extra betting insights from our talent and tipsters.
+
+· bet365 Extra: View our extensive range of offers and promotions.
+
+· Search: Use our search facility to quickly find the sport, league, event or market you want to bet on.
+
+· Face ID: Access your account securely within seconds. Only available on supported devices.
+
+· Payment Methods: Choose from a wide range of payment options, including Debit Card, PayPal, and Apple Pay.
+
+· Account Access: Use your existing bet365 account or sign up via the app.
+
+You must be 18 or over to have a bet365 account. Availability may differ by location. Tell us what you think and rate our app today! 
+
+bet365 is committed to Responsible Gambling, offering tools to help you stay in control, such as Time-Outs, Deposit Limits, Reality Checks, and Self-Exclusion. 
+
+For UK customers, additional support is available at www.gambleaware.org or by calling 0808 8020 133. For customers in Ireland, visit GambleAware.ie or call 1800 753 753.
+
+[View on Apple](https://apps.apple.com/gb/app/bet365-sports-betting/id519684662)
 
 <a id="google"></a>
 ## Google
@@ -793,72 +793,6 @@ Registered address: Broadwalk House, 5 Appold St, London EC2A 2AG
 
 [View on Apple](https://apps.apple.com/gb/app/monzo-bank-mobile-banking/id1052238659)
 
-<a id="vinted-secondhand-marktplatz"></a>
-## Vinted: Secondhand-Marktplatz
-
-![Vinted: Secondhand-Marktplatz](../../logos/632064380-578a8d92.png)
-
-Die Idee ist simpel: Du verkaufst deine aussortierten Sachen an andere Mitglieder, die sie wieder lieben werden. Sie freuen sich aufs Unboxing und über ihren tollen neuen Schatz und du hast wieder mehr Platz zu Hause. Bedeutet also: Guter Style, Gutes tun, gutes Gefühl – für alle! 
-
-Das Verkaufen ist einfach und kostenfrei
-Mach einfach ein paar Fotos von deinem Artikel, beschreibe ihn und leg einen Preis fest. Alles, was du verdienst, gehört dir – zu 100 %!  
-• Verdien dir was dazu, indem du pre-loved Kleidung, Haushaltswaren, Elektronik, Sammlerstücke, Spielzeug und mehr verkaufst. 
-• Schau zu, wie dein Guthaben wächst. Lass dir dein Geld direkt auf dein Bankkonto auszahlen. 
-• Den Versand zahlt der Käufer. Bei einem Verkauf erhältst du einen bereits bezahlten Versandschein – einfach und praktisch. 
-
-Shoppe Wieder-neu-Schätze     
-Freu dich über deine Secondhand-Entdeckungen – von Designer-Teilen bis zu hochwertigen elektronischen Geräten. 
-• Schnell gefunden, lang geliebt. Auf Vinted gibt’s Kategorien für fast alles. Nutze Filter, um schneller zu finden, was du suchst. 
-• Wir sind für dich da. Wenn du auf Vinted kaufst, wirst du von unserem Käuferschutz abgesichert. Gegen eine geringe Gebühr erhältst du eine Rückerstattung, falls dein Artikel verloren gegangen ist, bei der Lieferung beschädigt wurde oder deutlich anders als beschrieben ist. 
-• Wähle einen Versandanbieter und lass dir deine Sendung nach Hause oder an eine Abholstelle liefern.  
-
-Hol dir zusätzliche Sicherheit
-Auf Vinted stehen dir 2 Verifizierungsdienste zur Verfügung. Mit ihnen kannst du auch hochpreisige Artikel mit ruhigem Gewissen kaufen und verkaufen. 
-Die Artikelverifizierung für Designerartikel
-Lass die Authentizität qualifizierter Artikel von unserem Expertenteam prüfen. 
-Die Elektronikverifizierung 
-Lass die Funktionalität, den Zustand und die Authentizität bestimmter technischer Artikel prüfen. 
-Wir schicken den Artikel nur an dich weiter, wenn er erfolgreich verifiziert werden konnte. Andernfalls erhältst du eine Rückerstattung. Die Verifizierung kannst du beim Checkout hinzufügen. 
-
-Dich erwartet eine facettenreiche Community von Secondhand-Fans in Deutschland, Frankreich und Italien. Chatte mit anderen Mitgliedern, erhalte Updates und verwalte deine Bestellungen an einem Ort. 
-
-Mach mit
-TikTok: https://www.tiktok.com/@vinted 
-Instagram: https://www.instagram.com/vinted
-Mehr Infos findest du in unserem Hilfe-Center: https://www.vinted.de/help.
-
-[View on Apple](https://apps.apple.com/gb/app/vinted-shop-sell-pre-loved/id632064380)
-
-<a id="temu-achats-et-mode-en-ligne"></a>
-## Temu : Achats et Mode en Ligne
-
-![Temu : Achats et Mode en Ligne](../../logos/1641486558-a6d81be5.png)
-
-Visitez Temu pour des offres exclusives. 
-
-Quels que soient vos désirs, Temu a ce qu'il vous faut, mode, décoration intérieure, DIY, produits de beauté, vêtements, chaussures, et plus encore.
-
-Téléchargez Temu aujourd'hui et profitez d'offres incroyables tous les jours.
-
-PROMOS EXCEPTIONNELLES D'OUVERTURE
-Achetez des cadeaux pour vous et vos proches. Profitez de jusqu'à -90% !
-
-GRANDE SÉLECTION
-Découvrez des milliers de nouveaux produits et boutiques.
-
-PRATIQUE
-Paiement rapide et sécurisé.
-Livraison et retours gratuits sous 90 jours.
-*D'autres conditions peuvent s'appliquer.
-
-Visitez temu.com ou suivez-nous sur :
-Instagram: https://www.instagram.com/temu/
-TikTok: https://www.tiktok.com/@temu 
-Facebook: https://www.facebook.com/shoptemu
-Youtube: https://www.youtube.com/@temu
-
-[View on Apple](https://apps.apple.com/gb/app/temu-shop-like-a-billionaire/id1641486558)
-
 <a id="threads"></a>
 ## Threads
 
@@ -895,6 +829,174 @@ Threads Supplemental Privacy Policy: https://help.instagram.com/515230437301944
 Instagram Community Guidelines: https://help.instagram.com/477434105621119
 
 [View on Apple](https://apps.apple.com/gb/app/threads/id6446901002)
+
+<a id="temu-achats-et-mode-en-ligne"></a>
+## Temu : Achats et Mode en Ligne
+
+![Temu : Achats et Mode en Ligne](../../logos/1641486558-a6d81be5.png)
+
+Visitez Temu pour des offres exclusives. 
+
+Quels que soient vos désirs, Temu a ce qu'il vous faut, mode, décoration intérieure, DIY, produits de beauté, vêtements, chaussures, et plus encore.
+
+Téléchargez Temu aujourd'hui et profitez d'offres incroyables tous les jours.
+
+PROMOS EXCEPTIONNELLES D'OUVERTURE
+Achetez des cadeaux pour vous et vos proches. Profitez de jusqu'à -90% !
+
+GRANDE SÉLECTION
+Découvrez des milliers de nouveaux produits et boutiques.
+
+PRATIQUE
+Paiement rapide et sécurisé.
+Livraison et retours gratuits sous 90 jours.
+*D'autres conditions peuvent s'appliquer.
+
+Visitez temu.com ou suivez-nous sur :
+Instagram: https://www.instagram.com/temu/
+TikTok: https://www.tiktok.com/@temu 
+Facebook: https://www.facebook.com/shoptemu
+Youtube: https://www.youtube.com/@temu
+
+[View on Apple](https://apps.apple.com/gb/app/temu-shop-like-a-billionaire/id1641486558)
+
+<a id="vinted-secondhand-marktplatz"></a>
+## Vinted: Secondhand-Marktplatz
+
+![Vinted: Secondhand-Marktplatz](../../logos/632064380-578a8d92.png)
+
+Die Idee ist simpel: Du verkaufst deine aussortierten Sachen an andere Mitglieder, die sie wieder lieben werden. Sie freuen sich aufs Unboxing und über ihren tollen neuen Schatz und du hast wieder mehr Platz zu Hause. Bedeutet also: Guter Style, Gutes tun, gutes Gefühl – für alle! 
+
+Das Verkaufen ist einfach und kostenfrei
+Mach einfach ein paar Fotos von deinem Artikel, beschreibe ihn und leg einen Preis fest. Alles, was du verdienst, gehört dir – zu 100 %!  
+• Verdien dir was dazu, indem du pre-loved Kleidung, Haushaltswaren, Elektronik, Sammlerstücke, Spielzeug und mehr verkaufst. 
+• Schau zu, wie dein Guthaben wächst. Lass dir dein Geld direkt auf dein Bankkonto auszahlen. 
+• Den Versand zahlt der Käufer. Bei einem Verkauf erhältst du einen bereits bezahlten Versandschein – einfach und praktisch. 
+
+Shoppe Wieder-neu-Schätze     
+Freu dich über deine Secondhand-Entdeckungen – von Designer-Teilen bis zu hochwertigen elektronischen Geräten. 
+• Schnell gefunden, lang geliebt. Auf Vinted gibt’s Kategorien für fast alles. Nutze Filter, um schneller zu finden, was du suchst. 
+• Wir sind für dich da. Wenn du auf Vinted kaufst, wirst du von unserem Käuferschutz abgesichert. Gegen eine geringe Gebühr erhältst du eine Rückerstattung, falls dein Artikel verloren gegangen ist, bei der Lieferung beschädigt wurde oder deutlich anders als beschrieben ist. 
+• Wähle einen Versandanbieter und lass dir deine Sendung nach Hause oder an eine Abholstelle liefern.  
+
+Hol dir zusätzliche Sicherheit
+Auf Vinted stehen dir 2 Verifizierungsdienste zur Verfügung. Mit ihnen kannst du auch hochpreisige Artikel mit ruhigem Gewissen kaufen und verkaufen. 
+Die Artikelverifizierung für Designerartikel
+Lass die Authentizität qualifizierter Artikel von unserem Expertenteam prüfen. 
+Die Elektronikverifizierung 
+Lass die Funktionalität, den Zustand und die Authentizität bestimmter technischer Artikel prüfen. 
+Wir schicken den Artikel nur an dich weiter, wenn er erfolgreich verifiziert werden konnte. Andernfalls erhältst du eine Rückerstattung. Die Verifizierung kannst du beim Checkout hinzufügen. 
+
+Dich erwartet eine facettenreiche Community von Secondhand-Fans in Deutschland, Frankreich und Italien. Chatte mit anderen Mitgliedern, erhalte Updates und verwalte deine Bestellungen an einem Ort. 
+
+Mach mit
+TikTok: https://www.tiktok.com/@vinted 
+Instagram: https://www.instagram.com/vinted
+Mehr Infos findest du in unserem Hilfe-Center: https://www.vinted.de/help.
+
+[View on Apple](https://apps.apple.com/gb/app/vinted-shop-sell-pre-loved/id632064380)
+
+<a id="ryanair"></a>
+## Ryanair
+
+![Ryanair](../../logos/504270602-575576db.png)
+
+Mit dieser griffbereiten App liegt Ihnen Europa zu Füßen.
+
+Wir von Ryanair bieten Ihnen auf unserer App natürlich die niedrigsten Flugpreise in Europa an. Doch nicht nur das – jetzt können Sie auch unterwegs einchecken, denn die mobile Bordkarte wird direkt an Ihr Handy gesendet. Und mit einem Klick können Sie weitere Extras auswählen.
+
+Warum lesen Sie also noch? Laden Sie die App jetzt herunter und buchen Sie den nächsten Flug!
+
+[View on Apple](https://apps.apple.com/gb/app/ryanair/id504270602)
+
+<a id="bolt-fahrten-anfordern"></a>
+## Bolt: Fahrten anfordern
+
+![Bolt: Fahrten anfordern](../../logos/675033630-7aac40c9.png)
+
+Komme dank der Bolt App leichter ans Ziel! Egal, ob du eine Fahrt in der Stadt, einen Flughafentransfer oder einen E-Scooter benötigst, um von A nach B zu kommen — unsere App macht es dir leicht, sicher und komfortabel unterwegs zu sein.
+
+WARUM SOLLTEST DU DIE BOLT APP WÄHLEN?
+- Du kannst innerhalb von Sekunden eine Fahrt anfordern: Genieße sichere, preiswerte Fahrten mit qualifizierten Fahrer:innen.
+- Transparente Preise: Du siehst deinen Fahrpreis im Voraus, damit es keine Überraschungen gibt.
+- Mehrere Zahlungsmöglichkeiten: Bezahle sicher mit deiner Kredit-/Debitkarte, Apple Pay, Google Pay oder in bar.
+
+EINFACHE FAHRTANFRAGE:
+- Öffne die App und gib dein Ziel an.
+- Wähle eine Kategorie aus, die deinen Bedürfnissen entspricht (Comfort, Premium, Priority, XL und mehr).
+- Folge Fahrer:innen in Echtzeit in der App.
+- Komme entspannt ans Ziel und bewerte deine Fahrt.
+
+SICHERHEIT STEHT AN ERSTER STELLE:
+Einige der Sicherheitsfunktionen von Bolt erfordern, dass die App im Hintergrund läuft.
+
+- Notfall-Hilfe-Button: Alarmiere in Notfällen diskret unser Sicherheitsteam.
+- Audioaufzeichnung der Fahrt: Nimm während der Fahrt den Ton auf, um dich abzusichern.
+- Deine Kontaktdaten sind privat: Dein Nummer und deine allgemeinen privaten Informationen bleiben vertraulich, wenn du Fahrer:innen anrufst.
+
+VORAUSSCHAUEND PLANEN:
+Benötigst du einen Flughafentransfer oder eine Fahrt am frühen Morgen? Du kannst deine Fahrt 30 Minuten bis 90 Tage vor der erwarteten Abholzeit im Voraus planen.
+
+*BOLT PLUS ABONNIEREN UND PREMIUM-FUNKTIONEN FREISCHALTEN!
+Hol dir mit Bolt Plus das Beste von Bolt. Genieße exklusive Vorteile, die dir Zeit und Geld sparen und jede Fahrt noch angenehmer und komfortabler machen.
+
+*BOLT DRIVE:
+Wir haben uns dem Ziel verpflichtet, bis 2040 klimaneutral zu werden. Deshalb erweitern wir das Angebot an Elektro- und Hybridautos in Bolt Drive, unserem Carsharing-Service. Du kannst auch Bolt E-Scooter und E-Bikes über die App mieten.
+
+*PAKETE AUSLIEFERN
+Nutze die Kategorie „Send“, um in deiner Stadt schnell und einfach Pakete ausliefern zu lassen.
+
+Bolt - die globale Plattform für geteilte Mobilität, die in 50 Ländern und über 600 Städten weltweit verfügbar ist. Wir haben uns 2019 von Taxify in Bolt umbenannt.
+
+Bolt ist die perfekte Taxi-Alternative für schnelle, zuverlässige und preiswerte Fahrten. Die App ermöglicht das unkomplizierte Anfordern von Fahrten, egal ob du zur Arbeit fährst, verreist oder Besorgungen machst. Wenn du also das nächste Mal von A nach B kommen möchtest, wähle die Bolt App!
+
+*Die Bolt Angebote unterscheiden sich je nach Ort. Schau in der App nach, welche Optionen in deiner Stadt verfügbar sind.
+
+Mit der Bolt Driver App kannst du als Fahrer:in Umsatz erzielen. Registriere dich hier: https: //bolt.eu/driver/
+
+Noch Fragen? Kontaktiere uns über info@bolt.eu oder unter https://bolt.eu
+
+Folge uns auf Social Media, um Updates, Rabatte und Angebote zu erhalten!
+
+Facebook - https://www.facebook.com/Bolt/
+Instagram - https://www.instagram.com/bolt
+X - https://x.com/Boltapp
+
+[View on Apple](https://apps.apple.com/gb/app/bolt-request-a-ride/id675033630)
+
+<a id="google-maps"></a>
+## Google Maps
+
+![Google Maps](../../logos/585027354-9efd3f69.png)
+
+Mit Google Maps kannst du die Welt ganz einfach erkunden und bereisen. Anhand von Live-Verkehrsdaten und GPS-Navigation lassen sich die besten Routen finden – ganz gleich, ob du mit dem Auto, zu Fuß, mit dem Fahrrad oder mit öffentlichen Verkehrsmitteln unterwegs bist. Über 250 Millionen Orte und Unternehmen, darunter Restaurants, Geschäfte und Lebensmittelhändler, sind bei Google Maps eingetragen – mit Fotos, Rezensionen und nützlichen Informationen.
+
+Erkunde die Welt auf deine Weise:
+• Erreiche dein Ziel mit kraftstoffsparenden Routen
+• Finde die beste Route anhand von Echtzeitinformationen mit detaillierter Routenführung per Sprachnavigation oder Navigation auf dem Bildschirm
+• Komm schneller ans Ziel mithilfe der automatischen Neuberechnung von Routen, je nach aktueller Verkehrslage, Verkehrsbehinderungen und Straßensperrungen
+• Echtzeitinformationen machen es einfacher, deinen Bus, Zug oder Fahrdienst zu erreichen.
+• Wenn du besser vorankommen und flexibler sein möchtest, kannst du nach einem Fahrrad- oder Rollerverleih suchen.
+
+Plane Reisen und Ausflüge ohne viel Aufwand:
+• Street View ermöglicht es dir, schon vorab die Gegend zu erkunden und herauszufinden, wo sich beispielsweise Parkmöglichkeiten und Eingänge befinden.
+• Mit Immersive View kannst du dir Sehenswürdigkeiten, Parks und Routen ansehen oder sogar die Wetterverhältnisse beobachten, damit du optimal auf deinen Besuch vorbereitet bist.
+• Teile Listen mit deinen gespeicherten Lieblingsorten mit anderen.
+• Du hast die Möglichkeit, Essen zur Lieferung und Selbstabholung zu bestellen, Reservierungen vorzunehmen und Hotels zu buchen.
+• Mithilfe von Offlinekarten findest du dich auch in Gegenden mit schlechtem Empfang gut zurecht.
+• Du kannst nach lokalen Orten und möglichen Aktivitäten suchen und basierend auf Nutzerrezensionen und Fotos Entscheidungen treffen.
+
+Lass dich von Insidertipps inspirieren:
+• Jährlich tragen 500 Millionen Nutzer dazu bei, die Google Maps auf dem neuesten Stand zu halten. Dir stehen also aktuelle Informationen zur Verfügung.
+• Du kannst vorab herausfinden, wie stark ein Ort besucht ist, und so Menschenansammlungen meiden.
+• Mithilfe von Lens in Maps lassen sich Fußgängerrouten in die reale Umgebung einblenden.
+• Restaurants können beispielsweise nach Restauranttyp, Öffnungszeiten, Preisen oder Bewertungen gefiltert werden.
+• Bei Fragen zu einem Ort – etwa zu den angebotenen Gerichten oder Parkplätzen – erhältst du schnell Antworten.
+
+Einige Funktionen sind nicht in allen Ländern oder Städten verfügbar.
+Die Navigation ist nicht für übergroße Fahrzeuge oder Einsatzfahrzeuge geeignet.
+
+[View on Apple](https://apps.apple.com/gb/app/google-maps/id585027354)
 
 <a id="capcut-foto-und-video-editor"></a>
 ## CapCut: Foto- und Video-Editor
@@ -1020,107 +1122,49 @@ Bankdienstleistungen werden von der Revolut Bank UAB, Zweigniederlassung Deutsch
 
 [View on Apple](https://apps.apple.com/gb/app/revolut-mobile-finance/id932493382)
 
-<a id="bolt-fahrten-anfordern"></a>
-## Bolt: Fahrten anfordern
+<a id="vibeshort-ai-comic-dramas"></a>
+## VibeShort: AI Comic Dramas
 
-![Bolt: Fahrten anfordern](../../logos/675033630-7aac40c9.png)
+![VibeShort: AI Comic Dramas](../../logos/6758667154-0e406c36.png)
 
-Komme dank der Bolt App leichter ans Ziel! Egal, ob du eine Fahrt in der Stadt, einen Flughafentransfer oder einen E-Scooter benötigst, um von A nach B zu kommen — unsere App macht es dir leicht, sicher und komfortabel unterwegs zu sein.
+VibeShort turns every short drama into a vivid comic-style experience — powered by AI. Watch romance, werewolf, revenge, and fantasy stories in a whole new way. Each episode is 1–2 minutes long, perfect for your daily commute, lunch break, or quick escape.
 
-WARUM SOLLTEST DU DIE BOLT APP WÄHLEN?
-- Du kannst innerhalb von Sekunden eine Fahrt anfordern: Genieße sichere, preiswerte Fahrten mit qualifizierten Fahrer:innen.
-- Transparente Preise: Du siehst deinen Fahrpreis im Voraus, damit es keine Überraschungen gibt.
-- Mehrere Zahlungsmöglichkeiten: Bezahle sicher mit deiner Kredit-/Debitkarte, Apple Pay, Google Pay oder in bar.
+AI learns what you like. The more you watch, the better your recommendations get. Discover episodes every day, across a wide range of genres. From billionaire dramas to time travel adventures — there is always something fresh waiting for you.
 
-EINFACHE FAHRTANFRAGE:
-- Öffne die App und gib dein Ziel an.
-- Wähle eine Kategorie aus, die deinen Bedürfnissen entspricht (Comfort, Premium, Priority, XL und mehr).
-- Folge Fahrer:innen in Echtzeit in der App.
-- Komme entspannt ans Ziel und bewerte deine Fahrt.
+Watch offline. Download any episode and take it with you. No Wi-Fi? No problem. Your stories are always ready, wherever life takes you.
 
-SICHERHEIT STEHT AN ERSTER STELLE:
-Einige der Sicherheitsfunktionen von Bolt erfordern, dass die App im Hintergrund läuft.
+Full-screen immersion. HD visuals and cinematic sound. Every frame is crafted to pull you into the story. No distractions. Just drama.
 
-- Notfall-Hilfe-Button: Alarmiere in Notfällen diskret unser Sicherheitsteam.
-- Audioaufzeichnung der Fahrt: Nimm während der Fahrt den Ton auf, um dich abzusichern.
-- Deine Kontaktdaten sind privat: Dein Nummer und deine allgemeinen privaten Informationen bleiben vertraulich, wenn du Fahrer:innen anrufst.
+Check in daily. Earn coins. Unlock exclusive episodes. Build your streak and keep the drama going. Your next favorite story is just a tap away.
 
-VORAUSSCHAUEND PLANEN:
-Benötigst du einen Flughafentransfer oder eine Fahrt am frühen Morgen? Du kannst deine Fahrt 30 Minuten bis 90 Tage vor der erwarteten Abholzeit im Voraus planen.
+Featured Short Dramas This Week
 
-*BOLT PLUS ABONNIEREN UND PREMIUM-FUNKTIONEN FREISCHALTEN!
-Hol dir mit Bolt Plus das Beste von Bolt. Genieße exklusive Vorteile, die dir Zeit und Geld sparen und jede Fahrt noch angenehmer und komfortabler machen.
+Beastward Academy: Reborn, I Claimed My Sister's Serpent
+She fed a noble dragon for ten years. On the day he took human form, he chose her sister instead. Together, they burned her world to ashes. She died. She woke up. This time, she will not make the same mistake.
 
-*BOLT DRIVE:
-Wir haben uns dem Ziel verpflichtet, bis 2040 klimaneutral zu werden. Deshalb erweitern wir das Angebot an Elektro- und Hybridautos in Bolt Drive, unserem Carsharing-Service. Du kannst auch Bolt E-Scooter und E-Bikes über die App mieten.
+My Dad Is Poseidon
+The god of the sea traded his trident for video games and junk food. He just wants to be left alone. But when mythical creatures start wreaking havoc and a forest nymph crashes through his roof, Poseidon is dragged back into chaos. Even a washed-up god can still make waves.
 
-*PAKETE AUSLIEFERN
-Nutze die Kategorie „Send“, um in deiner Stadt schnell und einfach Pakete ausliefern zu lassen.
+From Fox Scratches to Dog Kisses
+She blew her savings on an arrogant silver fox who betrayed her cruelly. She replaced him with a loyal golden retriever who adores her. When the silver fox faces ruin, he finally confesses his love. But is it too late?
 
-Bolt - die globale Plattform für geteilte Mobilität, die in 50 Ländern und über 600 Städten weltweit verfügbar ist. Wir haben uns 2019 von Taxify in Bolt umbenannt.
+Start your AI comic drama journey today.
 
-Bolt ist die perfekte Taxi-Alternative für schnelle, zuverlässige und preiswerte Fahrten. Die App ermöglicht das unkomplizierte Anfordern von Fahrten, egal ob du zur Arbeit fährst, verreist oder Besorgungen machst. Wenn du also das nächste Mal von A nach B kommen möchtest, wähle die Bolt App!
+Subscriptions & Related Information
+• Weekly Pro Pass: Valid for 7 days, $19.99/week, auto-renews at $19.99/week
+• Yearly Pro Pass: Valid for 1 year, $149.99/year, auto-renews at $149.99/year
+Subscription & Payment Rules:
+1. Subscriptions are processed through the Apple App Store. Payment will be charged to your Apple ID account upon confirmation of purchase.
+2. All subscriptions automatically renew unless auto-renewal is turned off at least 24 hours before the end of the current subscription period.
+3. The renewal fee will be charged to your account within 24 hours prior to the end of the current subscription period, at the rate of your selected plan.
+4. You can manage or cancel your subscription at any time by going to your Apple ID account settings > Subscriptions.
+  
+Privacy Policy: https://www.vibeshort.live/vibeshort-privacy-policy.html
+Terms of Service: https://www.vibeshort.live/vibeshort-terms-of-service.html
+Payment Agreement: https://www.vibeshort.live/vibeshort-user-recharge-agreement.html
+Customer Service Email: service@vibeshort.live
 
-*Die Bolt Angebote unterscheiden sich je nach Ort. Schau in der App nach, welche Optionen in deiner Stadt verfügbar sind.
-
-Mit der Bolt Driver App kannst du als Fahrer:in Umsatz erzielen. Registriere dich hier: https: //bolt.eu/driver/
-
-Noch Fragen? Kontaktiere uns über info@bolt.eu oder unter https://bolt.eu
-
-Folge uns auf Social Media, um Updates, Rabatte und Angebote zu erhalten!
-
-Facebook - https://www.facebook.com/Bolt/
-Instagram - https://www.instagram.com/bolt
-X - https://x.com/Boltapp
-
-[View on Apple](https://apps.apple.com/gb/app/bolt-request-a-ride/id675033630)
-
-<a id="ryanair"></a>
-## Ryanair
-
-![Ryanair](../../logos/504270602-575576db.png)
-
-Mit dieser griffbereiten App liegt Ihnen Europa zu Füßen.
-
-Wir von Ryanair bieten Ihnen auf unserer App natürlich die niedrigsten Flugpreise in Europa an. Doch nicht nur das – jetzt können Sie auch unterwegs einchecken, denn die mobile Bordkarte wird direkt an Ihr Handy gesendet. Und mit einem Klick können Sie weitere Extras auswählen.
-
-Warum lesen Sie also noch? Laden Sie die App jetzt herunter und buchen Sie den nächsten Flug!
-
-[View on Apple](https://apps.apple.com/gb/app/ryanair/id504270602)
-
-<a id="google-maps"></a>
-## Google Maps
-
-![Google Maps](../../logos/585027354-9efd3f69.png)
-
-Mit Google Maps kannst du die Welt ganz einfach erkunden und bereisen. Anhand von Live-Verkehrsdaten und GPS-Navigation lassen sich die besten Routen finden – ganz gleich, ob du mit dem Auto, zu Fuß, mit dem Fahrrad oder mit öffentlichen Verkehrsmitteln unterwegs bist. Über 250 Millionen Orte und Unternehmen, darunter Restaurants, Geschäfte und Lebensmittelhändler, sind bei Google Maps eingetragen – mit Fotos, Rezensionen und nützlichen Informationen.
-
-Erkunde die Welt auf deine Weise:
-• Erreiche dein Ziel mit kraftstoffsparenden Routen
-• Finde die beste Route anhand von Echtzeitinformationen mit detaillierter Routenführung per Sprachnavigation oder Navigation auf dem Bildschirm
-• Komm schneller ans Ziel mithilfe der automatischen Neuberechnung von Routen, je nach aktueller Verkehrslage, Verkehrsbehinderungen und Straßensperrungen
-• Echtzeitinformationen machen es einfacher, deinen Bus, Zug oder Fahrdienst zu erreichen.
-• Wenn du besser vorankommen und flexibler sein möchtest, kannst du nach einem Fahrrad- oder Rollerverleih suchen.
-
-Plane Reisen und Ausflüge ohne viel Aufwand:
-• Street View ermöglicht es dir, schon vorab die Gegend zu erkunden und herauszufinden, wo sich beispielsweise Parkmöglichkeiten und Eingänge befinden.
-• Mit Immersive View kannst du dir Sehenswürdigkeiten, Parks und Routen ansehen oder sogar die Wetterverhältnisse beobachten, damit du optimal auf deinen Besuch vorbereitet bist.
-• Teile Listen mit deinen gespeicherten Lieblingsorten mit anderen.
-• Du hast die Möglichkeit, Essen zur Lieferung und Selbstabholung zu bestellen, Reservierungen vorzunehmen und Hotels zu buchen.
-• Mithilfe von Offlinekarten findest du dich auch in Gegenden mit schlechtem Empfang gut zurecht.
-• Du kannst nach lokalen Orten und möglichen Aktivitäten suchen und basierend auf Nutzerrezensionen und Fotos Entscheidungen treffen.
-
-Lass dich von Insidertipps inspirieren:
-• Jährlich tragen 500 Millionen Nutzer dazu bei, die Google Maps auf dem neuesten Stand zu halten. Dir stehen also aktuelle Informationen zur Verfügung.
-• Du kannst vorab herausfinden, wie stark ein Ort besucht ist, und so Menschenansammlungen meiden.
-• Mithilfe von Lens in Maps lassen sich Fußgängerrouten in die reale Umgebung einblenden.
-• Restaurants können beispielsweise nach Restauranttyp, Öffnungszeiten, Preisen oder Bewertungen gefiltert werden.
-• Bei Fragen zu einem Ort – etwa zu den angebotenen Gerichten oder Parkplätzen – erhältst du schnell Antworten.
-
-Einige Funktionen sind nicht in allen Ländern oder Städten verfügbar.
-Die Navigation ist nicht für übergroße Fahrzeuge oder Einsatzfahrzeuge geeignet.
-
-[View on Apple](https://apps.apple.com/gb/app/google-maps/id585027354)
+[View on Apple](https://apps.apple.com/gb/app/vibeshort-ai-comic-dramas/id6758667154)
 
 <a id="jet2-holidays-and-flights"></a>
 ## Jet2 - Holidays and Flights
@@ -1220,68 +1264,42 @@ Thank you for your support of StoryReel!
 
 [View on Apple](https://apps.apple.com/gb/app/storyreel-exclusive-drama/id6761538521)
 
-<a id="life360-family-safety-gps"></a>
-## Life360: Family Safety & GPS
+<a id="shop-deine-lieblingsmarken"></a>
+## Shop: Deine Lieblingsmarken
 
-![Life360: Family Safety & GPS](../../logos/384830320-a47ef89a.png)
+![Shop: Deine Lieblingsmarken](../../logos/1223471316-9c775004.png)
 
-Whether at home, online, or on the move, our comprehensive family safety features bring peace of mind to your loved ones AND help safeguard your personal belongings. Experience location safety features that surpass ordinary GPS tracking apps. More than just a GPS location tracker, with Life360, finding friends and family has never been easier.
+Jeden Shopping-Moment zum Highlight machen
 
-In addition to focusing on safety, Life360 allows you to effortlessly keep tabs on your pets, keys, wallet, phone, and other essentials using Tile Bluetooth trackers and the NEW Life360 Pet GPS. These trackers integrate with your Life360 map, ensuring you can easily locate everything and everyone that matters most from a single, convenient platform.
+– Aktuelle Trends in einer einzigen Shopping-App entdecken, verfolgen und kaufen
+– Mit Push-Benachrichtigungen von Marken, denen du folgst, nie wieder einen Sale, eine Lagerauffüllung oder ein Bestellupdate verpassen
+– Personalisierte Einkaufsempfehlungen erhalten und neue Marken entdecken
 
-Life360 memberships include essential safety features like:
+Shoppen, das sich lohnt
 
-- SOS Alerts: Send silent alerts with your precise location to friends, family members, emergency contacts, and responders.
-- 24/7 Emergency Dispatch: We're here for your loved ones, always ready to respond, even when you can't make the call.
-- Identity Theft Protection: Safeguard sensitive digital information for each family member, backed by a white-glove restoration service.
-- Roadside Assistance: Free towing, jumpstarts, tire changes, lockout assistance, refueling and more.
-	
-Download the free app now to access Advanced Location Sharing, Location History, Crash Detection, and Place Alerts. Keep tabs on your family members as they come and go from key locations like home, school and work.
+– Shop Cash-Prämien für Einkäufe in der Shop App*
+– Mit Shop Pay kannst du deine Rechnungsdaten geschützt aufbewahren und mit nur einem Tastendruck den Shopping-Checkout durchführen.
+– Unkompliziertes Shopping mit flexiblen Zahlungsoptionen, wann immer du willst*
 
-Take your safety to the next level by upgrading to one of our premium Life360 memberships. Choose the plan that suits your friend's and family's unique needs and enjoy a 7-day free trial.
+Unbesorgtes Shopping
 
-Life360 Silver - Simplify your safety with features such as:
-- 2 Places with unlimited Alerts
-- 2 days of Location History
-- Crash Detection
-- Family Driving Summary
-- Data Breach Alerts
-- SOS Help Alerts During Emergencies
+– Online-Bestellungen in einer App verwalten
+– Mit Nachverfolgung in Echtzeit immer über den Verbleib deines Pakets auf dem Laufenden bleiben – vom Versand bis zur Haustür.
 
-Life360 Gold* - Keep your family secure on the go with all the features of Life360 Silver, plus:	
-- 30 days of Location History
-- Unlimited Place Alerts
-- Individual Driver Reports
-- Crash Detection with emergency dispatch and live agent support
-- 24/7 Roadside Assistance
-- $250 in Stolen Phone Protection
-- ID Theft Protection and Data Breach Alerts
-- $25,000 in Stolen Fund Reimbursement
+ 
+---
 
-Life360 Platinum* - Prepare for anything, anywhere, with all the features of Life360 Gold, plus:
-- $1 million in Stolen Fund Reimbursement
-- 50 miles of Free towing
-- $500 in Stolen Phone Protection
-- Travel Support with Disaster Assistance
-- Medical Support
+Kontaktinformationen:
 
-https://www.life360.com/privacy_policy/
-https://www.life360.com/terms_of_use/
+Du hast eine Frage oder möchtest mit uns reden? Kontaktiere uns unter help.shop.app
 
-Explanation for App Permissions [Optional Permissions]
-• Camera: App accesses user’s camera to allow users to take photos or videos on the app.
-• Location: App accesses location information to allow users to share location information to other Circle members.
-• Microphone: App accesses microphone to allow users to record and share voice memos.
-• Music and audio: App accesses music and audio to play music and audio.
-• Nearby devices: App accesses nearby devices to find, connect to and determine the relative position of nearby devices by using Bluetooth.
-• Notifications: App accesses notification to send notification to users.
-• Phone: App accesses user’s phone to allow users to make phone calls on the app
-• Photos and videos: App accesses photos and videos to allow users to view photos and videos on the app.
-• Physical activity: App accesses physical activities to calculate and detect driving events, such as driving speed, use of breaks, and accident detection. 
+Sicher und unbesorgt einkaufen: Unsere Server erfüllen strenge PCI-Compliance-Standards für die Hinterlegung von Kreditkarteninformationen.
 
-You may still use the app even if you withhold optional permissions. However, app features requiring permission may not be available in such cases.
+Powered by Shopify: Shop beruht auf der Commerce-Plattform, der Millionen von Unternehmen weltweit vertrauen.
 
-[View on Apple](https://apps.apple.com/gb/app/life360-family-safety-gps/id384830320)
+* Nur in den USA und Kanada verfügbar. Zahlungsoptionen werden von Affirm angeboten und unterliegen einer Berechtigungsprüfung. Nicht verfügbar in New Mexico. Einwohner:innen Kaliforniens: Darlehen von Affirm Loan Services, LLC werden gemäß einer California Finance Lender-Lizenz erteilt oder geregelt.
+
+[View on Apple](https://apps.apple.com/gb/app/shop-all-your-favorite-brands/id1223471316)
 
 <a id="dramawave-drama-reel"></a>
 ## DramaWave - Drama & Reel
@@ -1401,49 +1419,201 @@ We're always making updates and improvements based on your feedback.
 
 [View on Apple](https://apps.apple.com/gb/app/tesco-grocery-clubcard/id389581236)
 
-<a id="vibeshort-ai-comic-dramas"></a>
-## VibeShort: AI Comic Dramas
+<a id="ringgo-mobile-car-parking-app"></a>
+## RingGo: Mobile Car Parking App
 
-![VibeShort: AI Comic Dramas](../../logos/6758667154-0e406c36.png)
+![RingGo: Mobile Car Parking App](../../logos/342898717-edbdc77e.png)
 
-VibeShort turns every short drama into a vivid comic-style experience — powered by AI. Watch romance, werewolf, revenge, and fantasy stories in a whole new way. Each episode is 1–2 minutes long, perfect for your daily commute, lunch break, or quick escape.
+Pay to park in seconds. With secure methods such as debit or credit cards available for payment and Apple Pay available in most locations, RingGo is the safe, cashless, flexible, and easy solution for your parking needs. 
 
-AI learns what you like. The more you watch, the better your recommendations get. Discover episodes every day, across a wide range of genres. From billionaire dramas to time travel adventures — there is always something fresh waiting for you.
+You can pay with RingGo in more than 500 towns and cities across the UK. Our space availability solution, with its traffic light indicator, shows where spaces are most likely to be found, so you don’t need to circle the block multiple times. 
 
-Watch offline. Download any episode and take it with you. No Wi-Fi? No problem. Your stories are always ready, wherever life takes you.
 
-Full-screen immersion. HD visuals and cinematic sound. Every frame is crafted to pull you into the story. No distractions. Just drama.
+If you want to use RingGo for business parking, check out our RingGo Corporate service or download your VAT receipts from within the app if you want to pay and claim.
 
-Check in daily. Earn coins. Unlock exclusive episodes. Build your streak and keep the drama going. Your next favorite story is just a tap away.
+Use the RingGo app to pay to park across London in Westminster, Bexley, Brent, Bromley, City of London, Croydon, Fulham, Hackney, Hammersmith, Haringey, Islington, Kingston, Merton, Redbridge, Richmond, Sutton, Tower Hamlets, and Wandsworth, as well as Birmingham, Bournemouth, Bristol, Cambridge, Edinburgh, Glasgow, Guildford, Manchester, Milton Keynes, Nottingham, Oxford, Plymouth, and Winchester, plus a host of other towns and cities across the UK.
 
-Featured Short Dramas This Week
+For more information and to see the 500 towns and cities where RingGo is offered for parking, please see our website at www.RingGo.co.uk
 
-Beastward Academy: Reborn, I Claimed My Sister's Serpent
-She fed a noble dragon for ten years. On the day he took human form, he chose her sister instead. Together, they burned her world to ashes. She died. She woke up. This time, she will not make the same mistake.
+Searched for Ringo but looking for RingGo? You’ve reached the right place.
 
-My Dad Is Poseidon
-The god of the sea traded his trident for video games and junk food. He just wants to be left alone. But when mythical creatures start wreaking havoc and a forest nymph crashes through his roof, Poseidon is dragged back into chaos. Even a washed-up god can still make waves.
+[View on Apple](https://apps.apple.com/gb/app/ringgo-mobile-car-parking-app/id342898717)
 
-From Fox Scratches to Dog Kisses
-She blew her savings on an arrogant silver fox who betrayed her cruelly. She replaced him with a loyal golden retriever who adores her. When the silver fox faces ruin, he finally confesses his love. But is it too late?
+<a id="microsoft-authenticator"></a>
+## Microsoft Authenticator
 
-Start your AI comic drama journey today.
+![Microsoft Authenticator](../../logos/983156458-9c5a13c6.png)
 
-Subscriptions & Related Information
-• Weekly Pro Pass: Valid for 7 days, $19.99/week, auto-renews at $19.99/week
-• Yearly Pro Pass: Valid for 1 year, $149.99/year, auto-renews at $149.99/year
-Subscription & Payment Rules:
-1. Subscriptions are processed through the Apple App Store. Payment will be charged to your Apple ID account upon confirmation of purchase.
-2. All subscriptions automatically renew unless auto-renewal is turned off at least 24 hours before the end of the current subscription period.
-3. The renewal fee will be charged to your account within 24 hours prior to the end of the current subscription period, at the rate of your selected plan.
-4. You can manage or cancel your subscription at any time by going to your Apple ID account settings > Subscriptions.
-  
-Privacy Policy: https://www.vibeshort.live/vibeshort-privacy-policy.html
-Terms of Service: https://www.vibeshort.live/vibeshort-terms-of-service.html
-Payment Agreement: https://www.vibeshort.live/vibeshort-user-recharge-agreement.html
-Customer Service Email: service@vibeshort.live
+Verwenden Sie Microsoft Authenticator, um sich über die Multi-Faktor-Authentifizierung oder eine kennwortlose Anmeldung einfach und sicher bei all Ihren Onlinekonten anzumelden oder AutoAusfüllen für Kennwörter zu nutzen. Darüber hinaus stehen Ihnen zusätzliche Kontoverwaltungsoptionen für Ihre persönlichen Microsoft-Konten und Ihre Geschäfts-, Schul- oder Unikonten zur Verfügung.
 
-[View on Apple](https://apps.apple.com/gb/app/vibeshort-ai-comic-dramas/id6758667154)
+Erste Schritte mit der Multi-Faktor-Authentifizierung
+
+Durch die Multi-Faktor-Authentifizierung (MFA) wird eine zweite Sicherheitsebene bereitgestellt. Wenn aktiviert, werden Sie bei der Anmeldung nach dem Sie Ihr Kennwort eingegeben haben dazu aufgefordert, mithilfe einer zusätzlichen Methode nachzuweisen, dass es sich wirklich um Sie handelt. Sie können hierzu entweder die an Microsoft Authenticator gesendete Nachricht genehmigen oder das von der App generierte Einmalkennwort eingeben. Das Einmalkennwort ist 30 Sekunden lang gültig. Diese zeitliche begrenzte Gültigkeitsdauer stellt sicher, dass Sie nie dasselbe Einmalkennwort zweimal verwenden und sich die Zahl merken müssen. Für das Einmalkennwort ist keine Netzwerkverbindung erforderlich, und es belastet den Akku nicht. Sie können Ihrer App mehrere Konten hinzufügen, darunter auch Nicht-Microsoft-Konten wie Facebook, Amazon, Dropbox, Google, LinkedIn, GitHub und andere.
+
+Erste Schritte mit der kennwortlosen Anmeldung
+
+Verwenden Sie anstelle eines Kennworts Ihr Telefon für die Anmeldung bei Ihrem Microsoft-Konto. Geben Sie lediglich Ihren Benutzernamen ein, und genehmigen Sie dann die Benachrichtigung, die an Ihr Telefon gesendet wird. Ihr Fingerabdruck, Face ID oder eine PIN stellen bei dieser zweistufigen Verifizierung die zweite Sicherheitsebene dar. Nach der Anmeldung mithilfe der zweistufigen Authentifizierung (2FA) haben Sie Zugriff auf all Ihre Microsoft-Produkte und -Dienste, beispielsweise Outlook, OneDrive, Office usw.
+
+Erste Schritte mit dem AutoAusfüllen von Kennwörtern
+
+Die Microsoft Authenticator-App kann auch für das automatische Ausfüllen von Kennwörtern genutzt werden. Melden Sie sich in der Authenticator-App auf der Registerkarte "Kennwörter" mit Ihrem persönlichen Microsoft-Konto an, um die Kennwortsynchronisierung (in Microsoft Edge gespeicherte Kennwörter eingeschlossen) zu starten. Legen Sie Microsoft Authenticator als Standardanbieter für das AutoAusfüllen von Kennwörtern fest, und starten Sie das AutoAusfüllen von Kennwörtern für Apps und Websites, die Sie auf Ihrem mobilen Gerät nutzen oder besuchen. Ihre Kennwörter werden mithilfe der Multi-Faktor-Authentifizierung in der App geschützt. Sie müssen Ihre Identität per Fingerabdruck, Face ID oder PIN nachweisen, um auf Ihrem mobilen Gerät auf Kennwörter zuzugreifen und das AutoAusfüllen für Kennwörter zu nutzen. Sie haben außerdem die Möglichkeit, Kennwörter aus Google Chrome und anderen Kennwort-Managern zu importieren.
+
+Persönliche Microsoft-Konten, Geschäfts-, Schul- oder Unikonten
+
+Gelegentlich kann es vorkommen, dass Sie durch Ihren Arbeitgeber oder Ihre Schule/Universität aufgefordert werden, Microsoft Authenticator zu installieren, wenn Sie auf bestimmte Dateien der Organisation zugreifen. Sie müssen Ihr Gerät über die App bei Ihrer Organisation registrieren und Ihr Geschäfts-, Schul- oder Unikonto hinzufügen. Microsoft Authenticator unterstützt die zertifikatbasierte Authentifizierung durch das Ausstellen eines Zertifikats auf Ihrem Gerät. Auf diese Weise weiß Ihre Organisation, dass die Anmeldeanforderung von einem vertrauenswürdigen Gerät stammt, und Sie erhalten nahtlosen und sicheren Zugriff auf zusätzliche Microsoft-Apps und -Dienste, ohne sich immer wieder neu anmelden zu müssen.
+
+[View on Apple](https://apps.apple.com/gb/app/microsoft-authenticator/id983156458)
+
+<a id="life360-family-safety-gps"></a>
+## Life360: Family Safety & GPS
+
+![Life360: Family Safety & GPS](../../logos/384830320-a47ef89a.png)
+
+Whether at home, online, or on the move, our comprehensive family safety features bring peace of mind to your loved ones AND help safeguard your personal belongings. Experience location safety features that surpass ordinary GPS tracking apps. More than just a GPS location tracker, with Life360, finding friends and family has never been easier.
+
+In addition to focusing on safety, Life360 allows you to effortlessly keep tabs on your pets, keys, wallet, phone, and other essentials using Tile Bluetooth trackers and the NEW Life360 Pet GPS. These trackers integrate with your Life360 map, ensuring you can easily locate everything and everyone that matters most from a single, convenient platform.
+
+Life360 memberships include essential safety features like:
+
+- SOS Alerts: Send silent alerts with your precise location to friends, family members, emergency contacts, and responders.
+- 24/7 Emergency Dispatch: We're here for your loved ones, always ready to respond, even when you can't make the call.
+- Identity Theft Protection: Safeguard sensitive digital information for each family member, backed by a white-glove restoration service.
+- Roadside Assistance: Free towing, jumpstarts, tire changes, lockout assistance, refueling and more.
+	
+Download the free app now to access Advanced Location Sharing, Location History, Crash Detection, and Place Alerts. Keep tabs on your family members as they come and go from key locations like home, school and work.
+
+Take your safety to the next level by upgrading to one of our premium Life360 memberships. Choose the plan that suits your friend's and family's unique needs and enjoy a 7-day free trial.
+
+Life360 Silver - Simplify your safety with features such as:
+- 2 Places with unlimited Alerts
+- 2 days of Location History
+- Crash Detection
+- Family Driving Summary
+- Data Breach Alerts
+- SOS Help Alerts During Emergencies
+
+Life360 Gold* - Keep your family secure on the go with all the features of Life360 Silver, plus:	
+- 30 days of Location History
+- Unlimited Place Alerts
+- Individual Driver Reports
+- Crash Detection with emergency dispatch and live agent support
+- 24/7 Roadside Assistance
+- $250 in Stolen Phone Protection
+- ID Theft Protection and Data Breach Alerts
+- $25,000 in Stolen Fund Reimbursement
+
+Life360 Platinum* - Prepare for anything, anywhere, with all the features of Life360 Gold, plus:
+- $1 million in Stolen Fund Reimbursement
+- 50 miles of Free towing
+- $500 in Stolen Phone Protection
+- Travel Support with Disaster Assistance
+- Medical Support
+
+https://www.life360.com/privacy_policy/
+https://www.life360.com/terms_of_use/
+
+Explanation for App Permissions [Optional Permissions]
+• Camera: App accesses user’s camera to allow users to take photos or videos on the app.
+• Location: App accesses location information to allow users to share location information to other Circle members.
+• Microphone: App accesses microphone to allow users to record and share voice memos.
+• Music and audio: App accesses music and audio to play music and audio.
+• Nearby devices: App accesses nearby devices to find, connect to and determine the relative position of nearby devices by using Bluetooth.
+• Notifications: App accesses notification to send notification to users.
+• Phone: App accesses user’s phone to allow users to make phone calls on the app
+• Photos and videos: App accesses photos and videos to allow users to view photos and videos on the app.
+• Physical activity: App accesses physical activities to calculate and detect driving events, such as driving speed, use of breaks, and accident detection. 
+
+You may still use the app even if you withhold optional permissions. However, app features requiring permission may not be available in such cases.
+
+[View on Apple](https://apps.apple.com/gb/app/life360-family-safety-gps/id384830320)
+
+<a id="lidl-plus"></a>
+## Lidl Plus
+
+![Lidl Plus](../../logos/1238611143-7cd0c20d.png)
+
+Lade die Lidl App gratis herunter, melde dich bei Lidl Plus an und spare jeden Tag mit exklusiven Lidl Plus Aktionen oder shoppe in unserem Onlineshop!
+
+Entdecke alle Vorteile von Lidl Plus:
+- Zusätzliche Rabatte auf wöchentlich wechselnde Artikel
+- Lidl Pay Bezahlfunktion, um den Einkauf noch schneller zu machen 
+- Digitale Rubbellose für zusätzliche Überraschungen nach jedem Einkauf
+- Digitale Kassenbons für den optimalen Überblick
+- E-Mobilität an vielen unserer Filialen – Starte den Ladevorgang ab sofort über Lidl Plus
+- Der wöchentliche Prospekt immer digital griffbereit
+- Einkaufsliste zum besseren planen des Lidl Einkaufs
+- Vorteile bei ausgewählten Partnern
+- Benachrichtigungen, um keine Aktion mehr zu verpassen
+
+Der Dienst Lidl Plus richtet sich an Verbraucher, die von der Lidl Stiftung personalisierte Informationen über Angebote und Aktionen von Lidl Plus sowie über Angebote, Waren und Dienstleistungen von ausgewählten Kooperationspartnern und Lidl-Gesellschaften erhalten möchten, die möglichst stark ihren Interessen entsprechen. Grundlage für die Ermittlung der relevanten Interessen ist das Kauf- und Nutzungsverhalten hinsichtlich der Produkte und Services der Lidl-Gesellschaften.
+
+Mehr Infos unter www.lidlplus.de, www.lidlplus.ch und www.lidlplus.at
+
+In der App gibt es noch viel mehr zu entdecken und wir arbeiten kontinuierlich daran, dein Einkaufserlebnis zu verbessern.
+Bei Fragen oder Anregungen steht dir unser Kundenservice zur Verfügung. 
+
+Kontaktformular:
+Deutschland: https://kundenservice.lidl.de/SelfServiceDE/s/contactsupport
+Österreich: https://kundenservice.lidl.at/SelfServiceAT/s/contactsupport
+Schweiz: https://service.lidl.ch/SelfServiceCH/s/contactsupport?language=de_CH
+
+Telefon:
+Deutschland: +49 800 5435 7587
+Österreich: +43 800 500 810
+Schweiz: +41 71 588 05
+
+Datenschutz & Teilnahmebedingungen:
+Im Rahmen der Lidl Plus App Nutzung kannst du Datenanalysetechnologien zulassen, welche wir bei der Teilnahme am Lidl Plus Programm nutzen, um die Inhalte, die wir dir in Lidl Plus präsentieren, personalisieren können. Dazu gehört, welche Produkte dich ansprechen, welche Coupons für dich interessanter sind, wie oft du die App verwendest und welche Teile der App für dich relevant sind. Das Tracking ermöglicht uns, dir Inhalte zu bieten, die an deine Vorlieben und Bedürfnisse angepasst sind. Darüber hinaus verwenden wir diese Daten, um Fehler zu identifizieren und zu beheben und die App und Lidl Plus zu verbessern.
+
+Datenschutzhinweise für den Lidl Onlineshop und die Lidl App:
+Deutschland: https://www.lidl.de/c/datenschutz/s10007528?hidebanner=true 
+Österreich: https://www.lidl.at/c/datenschutz/s10012009?salesChannel=02&hidebanner=true
+Schweiz: https://www.lidl.ch/c/de-CH/datenschutz/s10017521?salesChannel=02&hidebanner=true
+
+Datenschutzhinweise Lidl Plus:
+Deutschland: https://www.lidl.de/c/datenschutzhinweise/s10005247?salesChannel=02
+Österreich: https://www.lidl.at/c/lidl-plus-datenschutzinformationen/s10012223?salesChannel=02
+Schweiz: https://www.lidl.ch/c/de-CH/datenschutzerklaerung-lidl-plus/s10020718?salesChannel=02
+
+Teilnahmebedingungen Lidl Plus:
+Deutschland: https://www.lidl.de/c/lidl-plus-teilnahme-und-nutzungsbedingungen/s10005289?salesChannel=02
+Österreich: https://www.lidl.at/c/lidl-plus-nutzungsbedingungen/s10012221?salesChannel=02
+Schweiz: https://www.lidl.ch/c/de-CH/nutzungsbedingungen-lidl-plus/s10020600?salesChannel=02
+
+[View on Apple](https://apps.apple.com/gb/app/lidl-plus/id1238611143)
+
+<a id="waze-navigation-und-verkehr"></a>
+## Waze Navigation und Verkehr
+
+![Waze Navigation und Verkehr](../../logos/323229106-ab1f5cba.png)
+
+Waze ist eine community-basierende Navigations-App, die Millionen Nutzern an ihr Ziel hilft, indem sie Echtzeitwarnungen zu den Straßenverhältnissen und eine tagesaktuelle Karte bietet. Dank unserem Netzwerk an Fahrern spart Dir Waze Zeit, weil es sofort warnt bei Stau, Baustellen, Unfällen, Polizeikontrollen und mehr. Von Routenaktualisierungen zur Stauvermeidung, Echtzeit-Warnungen zu Deiner Sicherheit, bis zu Hinweisen zu niedrigen Treibstoffpreisen, ist Waze eine Gemeinschaft von Fahrern, die anderen Fahrern helfen.
+
+
+Mit Waze wirst du...
+
+
+• Schneller ankommen: Stauvermeidende Routenupdates
+• Bußgelder vermeiden: sei über Polizeikontrollen und Blitzer informiert
+• Eine genauere Ankunftszeit haben: Aufgrund von Live-Verkehrsdaten, Baustellen, Wetter und mehr
+• Von der Community-basierende Navigationprofitieren: Echtzeit-Updates von anderen Autofahrern
+• Geld sparen: Finde die günstigste Tankstelle auf deiner Route
+• Maut sparen: Sieh dir die Mautpreise an, wenn du eine Route auswählst
+• Apple Car Play nutzen können: Verbinde Waze mit dem eingebauten System
+• den Vorteil des Echtzeit-Tacho erleben: Erhalte Warnungen, wenn du zu schnell fährst und vermeide Strafzettel
+• Deine Fahrt individualisieren könnne: erhalte Routenanweisungen von Deinen Lieblings-Stars und Filmcharakteren
+• Nicht mehr zwischen Apps hin- und herschalten müssen: nutze Deine Lieblings-Audio-App direkt aus Waze heraus
+
+
+Fahre sicherer und smarter mit Waze!
+
+
+Du kannst jederzeit Deine Waze Privatsphäreeinstellungen verwalten und ändern. Erfahre mehr über die Waze Datenschutzerklärung unter www.waze.com/legal/privacy.
+
+
+Die Waze Routenführung ist nicht für Einsatzfahrzeuge und übergroße Fahrzeuge bestimmt.
+
+[View on Apple](https://apps.apple.com/gb/app/waze-navigation-live-traffic/id323229106)
 
 <a id="telegram-messenger"></a>
 ## Telegram Messenger
@@ -1479,6 +1649,29 @@ Wir setzen neue Standards: Regelmäßige Updates und immer wieder neue interessa
 Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 
 [View on Apple](https://apps.apple.com/gb/app/telegram-messenger/id686449807)
+
+<a id="hmrc"></a>
+## HMRC
+
+![HMRC](../../logos/514561561-263a5065.png)
+
+Take control of your money and tax with the HMRC app
+
+It’s secure, free to download, and easy to use. Get on it, and join millions of people already saving time with the HMRC app.
+
+Key Features: 
+- Quick setup: sign in using face recognition, fingerprint scan, or a six-digit PIN 
+- Stay in control: check your tax code and see your pay before it even shows in your bank, so you know you're paying the right amount
+- Claim a tax refund: find out if you’re due any tax back from us and quickly claim a refund if you’re owed one 
+- Check your State Pension: see how much State Pension you could get, when you can get it and how to increase it, if you can 
+- Self Assessment: a safe and secure way to make Self Assessment payments and get information you'll need to file 
+- Child Benefit support: claim, manage, and update your Child Benefit details 
+- National Insurance: find and save your National Insurance number so you have it when you need it 
+- Go paperless: opt to receive key messages from HMRC online
+
+Download the HMRC app today and stay on top of your money and taxes
+
+[View on Apple](https://apps.apple.com/gb/app/hmrc/id514561561)
 
 <a id="ticketmaster-buy-sell-tickets"></a>
 ## Ticketmaster－Buy, Sell Tickets
@@ -1540,173 +1733,6 @@ Verwalten Sie Ihre Buchung unterwegs
 
 [View on Apple](https://apps.apple.com/gb/app/booking-com-travel-deals/id367003839)
 
-<a id="ringgo-mobile-car-parking-app"></a>
-## RingGo: Mobile Car Parking App
-
-![RingGo: Mobile Car Parking App](../../logos/342898717-edbdc77e.png)
-
-Pay to park in seconds. With secure methods such as debit or credit cards available for payment and Apple Pay available in most locations, RingGo is the safe, cashless, flexible, and easy solution for your parking needs. 
-
-You can pay with RingGo in more than 500 towns and cities across the UK. Our space availability solution, with its traffic light indicator, shows where spaces are most likely to be found, so you don’t need to circle the block multiple times. 
-
-
-If you want to use RingGo for business parking, check out our RingGo Corporate service or download your VAT receipts from within the app if you want to pay and claim.
-
-Use the RingGo app to pay to park across London in Westminster, Bexley, Brent, Bromley, City of London, Croydon, Fulham, Hackney, Hammersmith, Haringey, Islington, Kingston, Merton, Redbridge, Richmond, Sutton, Tower Hamlets, and Wandsworth, as well as Birmingham, Bournemouth, Bristol, Cambridge, Edinburgh, Glasgow, Guildford, Manchester, Milton Keynes, Nottingham, Oxford, Plymouth, and Winchester, plus a host of other towns and cities across the UK.
-
-For more information and to see the 500 towns and cities where RingGo is offered for parking, please see our website at www.RingGo.co.uk
-
-Searched for Ringo but looking for RingGo? You’ve reached the right place.
-
-[View on Apple](https://apps.apple.com/gb/app/ringgo-mobile-car-parking-app/id342898717)
-
-<a id="just-eat-food-and-shops"></a>
-## Just Eat: Food and Shops
-
-![Just Eat: Food and Shops](../../logos/566347057-bbdd918c.png)
-
-Whether it’s Friday night pizza cravings, a healthy lunch on the go, or fun dinner with friends, the free Just Eat app has you covered. Order online for delivery or collection from your favourite restaurants and local takeaways in your area.
-
-Order from your favourite restaurants
-From big brands like Kentucky Fried Chicken and Burger King to local gems nearby, order your favourite food online on Just Eat.
-• Boost your energy with a fresh salad or speedy lunch delivered straight to your work.
-• Unwind with a tasty dinner at home. From aromatic Indian to fresh sushi, crispy fried chicken to rich desserts, vegan treats to juicy steak. Find your flavours on Just Eat.
-• Satisfy your food cravings with pizza, kebab, and more comfort food from a takeaway nearby.
-
-Your benefits at a glance
-Download the Just Eat app now and enjoy perks like:
-• Easy ordering: Fast checkout for delivery or collection
-• Exclusive offers: Special deals and discounts
-• Wide selection: Discover local favourites and famous places near you
-• Endless options: A variety of cuisines, flavours, and dietary options
-• Real-time updates: Follow your order with our handy Food Tracker®
-• Pay your way: Multiple payment options to choose from
-
-Over 14.000+ restaurants at your fingertips.
-
-From big brands like McDonald's to local hidden gems. From pizza delivery to lunch to go. Find it near you, order online, and track it to your door.
-
-Download Just Eat now and get what you love, delivered or ready for collection.
-
-[View on Apple](https://apps.apple.com/gb/app/just-eat-food-and-shops/id566347057)
-
-<a id="waze-navigation-und-verkehr"></a>
-## Waze Navigation und Verkehr
-
-![Waze Navigation und Verkehr](../../logos/323229106-ab1f5cba.png)
-
-Waze ist eine community-basierende Navigations-App, die Millionen Nutzern an ihr Ziel hilft, indem sie Echtzeitwarnungen zu den Straßenverhältnissen und eine tagesaktuelle Karte bietet. Dank unserem Netzwerk an Fahrern spart Dir Waze Zeit, weil es sofort warnt bei Stau, Baustellen, Unfällen, Polizeikontrollen und mehr. Von Routenaktualisierungen zur Stauvermeidung, Echtzeit-Warnungen zu Deiner Sicherheit, bis zu Hinweisen zu niedrigen Treibstoffpreisen, ist Waze eine Gemeinschaft von Fahrern, die anderen Fahrern helfen.
-
-
-Mit Waze wirst du...
-
-
-• Schneller ankommen: Stauvermeidende Routenupdates
-• Bußgelder vermeiden: sei über Polizeikontrollen und Blitzer informiert
-• Eine genauere Ankunftszeit haben: Aufgrund von Live-Verkehrsdaten, Baustellen, Wetter und mehr
-• Von der Community-basierende Navigationprofitieren: Echtzeit-Updates von anderen Autofahrern
-• Geld sparen: Finde die günstigste Tankstelle auf deiner Route
-• Maut sparen: Sieh dir die Mautpreise an, wenn du eine Route auswählst
-• Apple Car Play nutzen können: Verbinde Waze mit dem eingebauten System
-• den Vorteil des Echtzeit-Tacho erleben: Erhalte Warnungen, wenn du zu schnell fährst und vermeide Strafzettel
-• Deine Fahrt individualisieren könnne: erhalte Routenanweisungen von Deinen Lieblings-Stars und Filmcharakteren
-• Nicht mehr zwischen Apps hin- und herschalten müssen: nutze Deine Lieblings-Audio-App direkt aus Waze heraus
-
-
-Fahre sicherer und smarter mit Waze!
-
-
-Du kannst jederzeit Deine Waze Privatsphäreeinstellungen verwalten und ändern. Erfahre mehr über die Waze Datenschutzerklärung unter www.waze.com/legal/privacy.
-
-
-Die Waze Routenführung ist nicht für Einsatzfahrzeuge und übergroße Fahrzeuge bestimmt.
-
-[View on Apple](https://apps.apple.com/gb/app/waze-navigation-live-traffic/id323229106)
-
-<a id="greene-king-pubs-restaurants"></a>
-## Greene King Pubs & Restaurants
-
-![Greene King Pubs & Restaurants](../../logos/1297987541-e8052035.png)
-
-Why Download The Greene King App?
-
-Discover a smarter, faster and more rewarding way to enjoy your favourite Greene King pubs and restaurants. Whether you are planning a casual visit, a night out with friends, or a family meal, the Greene King Pub and Restaurant App puts everything you need in one place. 
-
-
-- Spin to Win a freebie
-- Order food & drink
-- Earn & track rewards
-- Access exclusive offers & savings
-- Play Pub Match & other exciting games
-- Find your nearest pub or restaurant
-
-
-Spin to Win 
-
-Fancy a freebie? Yes, you read that right - free food and drink is up for grabs for all you newcomers. Download the Greene King app & register, spin the wheel, and you might land yourself a main, pud or pint. No catch, just pure joy (and maybe some gravy). 
-
-
-Order & Pay From Your Table
-
-Browse our full menu of delicious food and refreshing drinks, from hearty pub classics to your favourite pint, and place your order straight from the comfort of your table. Pay quickly and securely using your saved card details or use Apple Pay for a convenient contactless option. View live wait times so you know how long your food or drink will take. Fancy another round? Reorder drinks in a single tap.
-
-
-Enjoy Exclusive Rewards
-
-Register and activate rewards in the app to unlock exclusive offers, discounts, and occasional freebies, whether you’re grabbing a pint with friends or enjoying a full meal. Your rewards are stored in the app, making it easy to view and redeem them whenever you like. Access your Membership ID QR code via the app, and download it to your Apple Wallet for quick scanning when paying at the bar.
-
-
-Win Prizes with Pub Match
-
-Activate rewards and order on the app or scan your code at the bar to unlock Pub Match. Match threes, climb the leader board, and maybe even win vouchers if you hit the top ten. Freebies and bragging rights? That’s a solid two-for-one. Can't get enough of it? Well, with every transaction, you unlock another go at the game!
-
-
-Find Your Perfect Pub or Restaurant
-
-Our upgraded pub finder helps you locate Greene King pubs and restaurants nearby. View photos, check features such as beer gardens, play areas and dog-friendly spaces, and filter locations to suit your visit. Live wait times and easy menu browsing make planning your trip straightforward and stress free.
-
-
-Whether you’re stopping by for a pint, enjoying a meal, spinning to win fantastic rewards, or testing your skills in Pub Match, the Greene King Pub and Restaurant App makes every visit smoother, quicker and more fun. From ordering from the menu to finding your nearest pub, paying securely, and earning rewards, the app is your perfect companion for every Greene King experience.
-
-Discover our brands: Greene King pubs, Hungry Horse, Flaming Grill, Farmhouse Inns, Chef & Brewer Collection, Wacky Warehouse, Belhaven, and the Metropolitan Pub Company and more!
-
-[View on Apple](https://apps.apple.com/gb/app/greene-king-pubs-restaurants/id1297987541)
-
-<a id="uber-eats-essen-lieferdienst"></a>
-## Uber Eats: Essen, Lieferdienst
-
-![Uber Eats: Essen, Lieferdienst](../../logos/1058959277-eb6734d7.png)
-
-Lass dir mit der Uber Eats App Essen von tausenden fantastischen lokalen und internationalen Restaurants direkt an die Haustür liefern. Finde das Essen, das du suchst und bestelle es ganz einfach und schnell online. Verfolge deine Bestellung in Echtzeit und genieße den besten Lieferservice.
-
-FINDE DEIN LIEBLINGSESSEN & RESTAURANTS
-Bestelle Essen von Restaurants in deiner Nähe und suche nach Gerichten wie Pizza, Burritos, Burger, Sushi, Bowls, Donuts, Döner, Lasagne, Tapas, Waffeln und mehr. Ob asiatisch, indisch, japanisch, koreanisch, halal, vegan oder chinesisch - Uber Eats hat und liefert dir alles. Abholung bevorzugt? Überspringe einfach die Schlange. Du kennst nur Lieferando, Just Eat, Deliveroo, Wolt, Bolt Food oder Glovo? Dann probiere doch jetzt Uber Eats und lass dir dein Lieblingsessen liefern.
-
-UBER ONE ABONNIEREN
-Für nur 4,99 € im Monat erhältst du als Uber One-Abonnent 0€ Liefergebühren für berechtigte Bestellungen. Verdiene 5% Uber Cash für berechtigte Uber Fahrten. Profitiere von Prämien, Rabatten, Gutscheinen und Angeboten. Die vollständigen Uber One Geschäftsbedingungen findest du in der Uber Eats und Uber App.
-
-BESTELLE FAST ALLES, WANN IMMER DU WILLST
-Bestelle Artikel und Lebensmittel von Supermärkten, Tierhandlungen, deinem Lieblings-Restaurant und mehr. Ob Babynahrung, Windeln, Schönheitsprodukte, Kosmetik, Brot, Milch, Bananen, Obst, Blumen oder Tiefkühlkost - wir lassen alles liefern. Auch alkoholische Getränke wie Bier, Wein und Spirituosen sind erhältlich*. Bezahle sicher und einfach mit Klarna, Paypal, Debit- oder Kreditkarte.
-
-EINFACH BESTELLEN, EINFACH GELIEFERT
-Wähle dein Essen aus einer beliebigen Speisekarte und füge es mit wenigen Klicks deinem Warenkorb hinzu. Uber Eats macht es einfach, Essen online zu bestellen und geliefert zu bekommen. Plane deine Bestellung im Voraus oder bestelle sofort - du hast die Wahl! Einfach mit Klarna, Paypal, Debit- oder Kreditkarte bezahlen und mit der Uber Eats App alle deine Bestellungen bequem online nachverfolgen.
-
-ECHTZEIT-BESTELLVERFOLGUNG
-Verfolge deine Essenslieferung in Echtzeit auf einer Karte. Lass dich benachrichtigen, wenn deine Bestellung eintrifft. Nutze den Tracker in der Uber Eats App, um deine Bestellung live zu verfolgen und sei immer auf dem Laufenden.
-
-FINDE DEINE LIEBLINGSRESTAURANTS
-Egal ob du Pizza, Döner, Fast Food oder vegetarisches Essen bestellen möchtest, Uber Eats ist dein Lieferservice für alles. Genieße auch die leckeren Gerichte von L’Osteria, Burgermeister, Five Guys und vielen anderen Restaurants. Wähle aus verschiedenen Gerichten für Frühstück, Mittagessen oder Abendessen. Bestelle Sushi, Bowls, Bubble Tea, vegan oder einen Loco Chicken Burger. Einige unserer Lieferpartner sind McDonald's, Burger King, Dominos, KFC, Subway, Starbucks, Pizza Hut und viele mehr.
-
-RESTAURANTS, LEBENSMITTELGESCHÄFTE UND MEHR FINDEN
-Bestelle bei Lebensmittelgeschäften wie Flink oder anderen Kiosken. Andere Lieferpartner sind Pets Deli und lokale Supermärkte. Lass dir deine Einkäufe bequem nach Hause liefern. Finde alle deine Lieblingsprodukte und bestelle sie ganz einfach online. Von japanischem Sushi über koreanisches BBQ bis hin zu traditionellen deutschen Gerichten - bei Uber Eats findest du alles.
-
-IN DEINER STADT VERFÜGBAR
-Schließe dich den Tausenden von Menschen in Deutschland (DE) an, die Uber Eats nutzen, um in ihren Lieblingsrestaurants zu bestellen. Uber Eats ist in Städten wie Berlin, Frankfurt am Main, München, Köln, Düsseldorf, Essen, Hamburg, Stuttgart, Bremen, Leipzig, Hannover, Dresden und vielen mehr verfügbar. Finde Essenslieferungen in deiner Stadt mit Uber Eats. Bestelle Essen online und nutze die App, um den Lieferstatus in Echtzeit zu verfolgen. Genieße die Vielfalt der internationalen Küche, von italienischer Pizza über chinesisches Dim Sum bis hin zum klassichen Hamburger und arabischen Mezze.
-
-*Alkohol in ausgewählten Märkten. Mindestalter: 18 Jahre. Verfügbarkeit variiert je nach Markt. Siehe App für Details.
-
-[View on Apple](https://apps.apple.com/gb/app/uber-eats-food-groceries/id1058959277)
-
 <a id="aliexpress-shopping-app"></a>
 ## AliExpress Shopping App
 
@@ -1738,67 +1764,6 @@ Don’t miss out on the season’s best finds! Download the AliExpress app today
 Your world, your style, your deals—all on AliExpress.
 
 [View on Apple](https://apps.apple.com/gb/app/aliexpress-shopping-app/id436672029)
-
-<a id="shop-deine-lieblingsmarken"></a>
-## Shop: Deine Lieblingsmarken
-
-![Shop: Deine Lieblingsmarken](../../logos/1223471316-9c775004.png)
-
-Jeden Shopping-Moment zum Highlight machen
-
-– Aktuelle Trends in einer einzigen Shopping-App entdecken, verfolgen und kaufen
-– Mit Push-Benachrichtigungen von Marken, denen du folgst, nie wieder einen Sale, eine Lagerauffüllung oder ein Bestellupdate verpassen
-– Personalisierte Einkaufsempfehlungen erhalten und neue Marken entdecken
-
-Shoppen, das sich lohnt
-
-– Shop Cash-Prämien für Einkäufe in der Shop App*
-– Mit Shop Pay kannst du deine Rechnungsdaten geschützt aufbewahren und mit nur einem Tastendruck den Shopping-Checkout durchführen.
-– Unkompliziertes Shopping mit flexiblen Zahlungsoptionen, wann immer du willst*
-
-Unbesorgtes Shopping
-
-– Online-Bestellungen in einer App verwalten
-– Mit Nachverfolgung in Echtzeit immer über den Verbleib deines Pakets auf dem Laufenden bleiben – vom Versand bis zur Haustür.
-
- 
----
-
-Kontaktinformationen:
-
-Du hast eine Frage oder möchtest mit uns reden? Kontaktiere uns unter help.shop.app
-
-Sicher und unbesorgt einkaufen: Unsere Server erfüllen strenge PCI-Compliance-Standards für die Hinterlegung von Kreditkarteninformationen.
-
-Powered by Shopify: Shop beruht auf der Commerce-Plattform, der Millionen von Unternehmen weltweit vertrauen.
-
-* Nur in den USA und Kanada verfügbar. Zahlungsoptionen werden von Affirm angeboten und unterliegen einer Berechtigungsprüfung. Nicht verfügbar in New Mexico. Einwohner:innen Kaliforniens: Darlehen von Affirm Loan Services, LLC werden gemäß einer California Finance Lender-Lizenz erteilt oder geregelt.
-
-[View on Apple](https://apps.apple.com/gb/app/shop-all-your-favorite-brands/id1223471316)
-
-<a id="mcdonald-s-u-k"></a>
-## McDonald’s U.K.
-
-![McDonald’s U.K.](../../logos/1082476620-7611f771.png)
-
-Download and place your first McDonald's order in restaurant, drive thru or delivery using the My McDonald's App. Ordering has never been easier with our new McDelivery feature. Or, if you prefer, why not have your order brought to you with Click & Serve? Available any time of day, with many restaurants open 24/7!
- 
-Exclusive App Offers
-Fancy a cheeky mid-week treat? Check out our range of food offers available exclusively on the McDonald’s app.
-
-McDelivery®
-Need a night off cooking? You can now order McDonald’s delivery through the McDonald’s app!
-
-Order Ahead
-Want to make your breakfast AND your 9am train? Order ahead with the McDonald’s app to make picking up even easier.
-
-Click & Serve
-Want to park up and get your order brought over to your car? Park in a Click & Serve numbered bay, enter your bay number into the app and we’ll do the rest.
-
-Table Service
-How about a little bit of ‘me time’ with Table Service? Place your order through the McDonald’s app, relax and let us come to you.
-
-[View on Apple](https://apps.apple.com/gb/app/mcdonalds-u-k/id1082476620)
 
 <a id="freecash-geld-verdienen"></a>
 ## Freecash - Geld verdienen
@@ -1833,60 +1798,58 @@ Freecash - Earn Rewards — spiel lustige Spiele, verdien echtes Geld, ganz bequ
 
 [View on Apple](https://apps.apple.com/gb/app/freecash-earn-money/id1673567402)
 
-<a id="lidl-plus"></a>
-## Lidl Plus
+<a id="easyjet-travel-app"></a>
+## easyJet: Travel App
 
-![Lidl Plus](../../logos/1238611143-7cd0c20d.png)
+![easyJet: Travel App](../../logos/483568103-699a590e.png)
 
-Lade die Lidl App gratis herunter, melde dich bei Lidl Plus an und spare jeden Tag mit exklusiven Lidl Plus Aktionen oder shoppe in unserem Onlineshop!
+Wherever you’re going, take us with you.
 
-Entdecke alle Vorteile von Lidl Plus:
-- Zusätzliche Rabatte auf wöchentlich wechselnde Artikel
-- Lidl Pay Bezahlfunktion, um den Einkauf noch schneller zu machen 
-- Digitale Rubbellose für zusätzliche Überraschungen nach jedem Einkauf
-- Digitale Kassenbons für den optimalen Überblick
-- E-Mobilität an vielen unserer Filialen – Starte den Ladevorgang ab sofort über Lidl Plus
-- Der wöchentliche Prospekt immer digital griffbereit
-- Einkaufsliste zum besseren planen des Lidl Einkaufs
-- Vorteile bei ausgewählten Partnern
-- Benachrichtigungen, um keine Aktion mehr zu verpassen
+Search, book and manage your flights and holidays - anytime, anywhere.
 
-Der Dienst Lidl Plus richtet sich an Verbraucher, die von der Lidl Stiftung personalisierte Informationen über Angebote und Aktionen von Lidl Plus sowie über Angebote, Waren und Dienstleistungen von ausgewählten Kooperationspartnern und Lidl-Gesellschaften erhalten möchten, die möglichst stark ihren Interessen entsprechen. Grundlage für die Ermittlung der relevanten Interessen ist das Kauf- und Nutzungsverhalten hinsichtlich der Produkte und Services der Lidl-Gesellschaften.
+BOOK TRIPS – Search and book a flight or package holiday to your favourite destination.  Our holidays only require a £60pp deposit, have a best price guarantee, and are ATOL protected. T&Cs apply.
 
-Mehr Infos unter www.lidlplus.de, www.lidlplus.ch und www.lidlplus.at
+TRIP UPDATES – Stay informed with upcoming trip information on the app homescreen and real-time lockscreen updates for your flight.
 
-In der App gibt es noch viel mehr zu entdecken und wir arbeiten kontinuierlich daran, dein Einkaufserlebnis zu verbessern.
-Bei Fragen oder Anregungen steht dir unser Kundenservice zur Verfügung. 
+MANAGE BOOKINGS – Keep track of your easyJet flight and holiday bookings all in one place.
 
-Kontaktformular:
-Deutschland: https://kundenservice.lidl.de/SelfServiceDE/s/contactsupport
-Österreich: https://kundenservice.lidl.at/SelfServiceAT/s/contactsupport
-Schweiz: https://service.lidl.ch/SelfServiceCH/s/contactsupport?language=de_CH
+MOBILE BOARDING PASSES – Use your mobile boarding pass to travel through the airport quickly, speed up boarding and reduce paper waste. You can store up to 8 boarding passes per flight, which will be available offline. For even more convenience, you can also save your boarding passes to Apple Wallet.
 
-Telefon:
-Deutschland: +49 800 5435 7587
-Österreich: +43 800 500 810
-Schweiz: +41 71 588 05
+FLIGHT TRACKER – Track your plane's location in real-time on a FlightRadar24 Map. Plus, check the latest arrival and departure information.
 
-Datenschutz & Teilnahmebedingungen:
-Im Rahmen der Lidl Plus App Nutzung kannst du Datenanalysetechnologien zulassen, welche wir bei der Teilnahme am Lidl Plus Programm nutzen, um die Inhalte, die wir dir in Lidl Plus präsentieren, personalisieren können. Dazu gehört, welche Produkte dich ansprechen, welche Coupons für dich interessanter sind, wie oft du die App verwendest und welche Teile der App für dich relevant sind. Das Tracking ermöglicht uns, dir Inhalte zu bieten, die an deine Vorlieben und Bedürfnisse angepasst sind. Darüber hinaus verwenden wir diese Daten, um Fehler zu identifizieren und zu beheben und die App und Lidl Plus zu verbessern.
+Please keep sending us feedback and feature ideas at  app.feedback.iPhone@easyjet.com
 
-Datenschutzhinweise für den Lidl Onlineshop und die Lidl App:
-Deutschland: https://www.lidl.de/c/datenschutz/s10007528?hidebanner=true 
-Österreich: https://www.lidl.at/c/datenschutz/s10012009?salesChannel=02&hidebanner=true
-Schweiz: https://www.lidl.ch/c/de-CH/datenschutz/s10017521?salesChannel=02&hidebanner=true
+[View on Apple](https://apps.apple.com/gb/app/easyjet-travel-app/id483568103)
 
-Datenschutzhinweise Lidl Plus:
-Deutschland: https://www.lidl.de/c/datenschutzhinweise/s10005247?salesChannel=02
-Österreich: https://www.lidl.at/c/lidl-plus-datenschutzinformationen/s10012223?salesChannel=02
-Schweiz: https://www.lidl.ch/c/de-CH/datenschutzerklaerung-lidl-plus/s10020718?salesChannel=02
+<a id="merlin-bird-id-by-cornell-lab"></a>
+## Merlin Bird ID by Cornell Lab
 
-Teilnahmebedingungen Lidl Plus:
-Deutschland: https://www.lidl.de/c/lidl-plus-teilnahme-und-nutzungsbedingungen/s10005289?salesChannel=02
-Österreich: https://www.lidl.at/c/lidl-plus-nutzungsbedingungen/s10012221?salesChannel=02
-Schweiz: https://www.lidl.ch/c/de-CH/nutzungsbedingungen-lidl-plus/s10020600?salesChannel=02
+![Merlin Bird ID by Cornell Lab](../../logos/773457673-feb4b9ec.png)
 
-[View on Apple](https://apps.apple.com/gb/app/lidl-plus/id1238611143)
+What's that bird? Ask Merlin—the world’s leading app for birds. Just like magic, Merlin Bird ID will help you solve the mystery.
+
+Merlin Bird ID helps you identify birds you see and hear. Merlin is unlike any other bird app—it's powered by eBird, the world’s largest database of bird sightings, sounds, and photos.
+
+Merlin offers four fun ways to identify birds. Answer a few simple questions, upload a photo, record a singing bird, or explore birds in a region.
+
+Whether you’re curious about a bird you’ve seen once or you’re hoping to identify every bird you can find, the answers are waiting for you with this free app from the renowned Cornell Lab of Ornithology.
+
+WHY YOU’LL LOVE MERLIN
+• Expert ID tips, range maps, photos, and sounds help you learn about the birds you spot and build birding skills.
+• Discover a new bird species each day with your own personalized Bird of the Day
+• Get customized lists of birds you can find where you live or travel - anywhere in the world!
+• Keep track of your sightings—build your personal list of the birds you find
+
+MACHINE LEARNING MAGIC
+• Powered by Visipedia, Merlin Sound ID and Photo ID uses machine learning to identify birds in photos and sounds. Merlin learns to recognize bird species based on training sets of millions of photos and sounds collected by birders at eBird.org, archived in the Macaulay Library at the Cornell Lab of Ornithology.
+• Merlin delivers the most accurate results thanks to experienced birders, who curate and annotate sightings, photos, and sounds, who are the true magic behind Merlin.
+
+AMAZING CONTENT
+• Merlin has bird photos, songs, and calls, and identification help for anywhere in the world, including Mexico, Costa Rica, South America, Europe, Africa, the Middle East, India, Australia, Korea, Japan, China, and more.
+
+The Cornell Lab of Ornithology’s mission is to interpret and conserve the Earth’s biological diversity through research, education, and citizen science focused on birds and nature. We are able to offer Merlin for free thanks to the generosity of Cornell Lab members, supporters, and citizen-science contributors.
+
+[View on Apple](https://apps.apple.com/gb/app/merlin-bird-id-by-cornell-lab/id773457673)
 
 <a id="多邻国duolingo英语日语法语"></a>
 ## 多邻国Duolingo英语日语法语
@@ -1927,231 +1890,6 @@ Schweiz: https://www.lidl.ch/c/de-CH/nutzungsbedingungen-lidl-plus/s10020600?sal
 欢迎关注微信公众号：多邻国Duolingo，和官方微博@多邻国_Duolingo。
 
 [View on Apple](https://apps.apple.com/gb/app/duolingo-language-chess/id570060128)
-
-<a id="testerup-test-earn-rewards"></a>
-## Testerup: Test & Earn Rewards
-
-![Testerup: Test & Earn Rewards](../../logos/1241984225-37389d49.png)
-
-Earn money as an online tester? As often and whenever you want?
-
-Join Germany's largest platform for paid online jobs and join over 2,900,000 online testers.
-
-After signing up for free, you'll immediately have access to countless online surveys.
-
-- Earn over USD 850 directly after download, whether on the go or from the comfort of your home, maximum flexibility guaranteed.
-- Choose from the largest assortment in the German-speaking area, orders that fit you exactly.
-- You will be regularly invited to the latest surveys.
-- Orders with multi goals allow you to achieve higher earnings through continuous testing.
-- Fast and secure payout: Get paid within 24 hours.
-- Upgrade to a premium tester and earn exclusive access to higher-paying assignments.
-- Tested, Verified, Recommended! We value authenticity and trustworthiness. Not for nothing we are recommended by Verbraucherschutz.de. In addition, testerup.com is certified with the TÜV - eKomi rating of 4.3/5.
-
-[View on Apple](https://apps.apple.com/gb/app/testerup-test-earn-rewards/id1241984225)
-
-<a id="merlin-bird-id-by-cornell-lab"></a>
-## Merlin Bird ID by Cornell Lab
-
-![Merlin Bird ID by Cornell Lab](../../logos/773457673-feb4b9ec.png)
-
-What's that bird? Ask Merlin—the world’s leading app for birds. Just like magic, Merlin Bird ID will help you solve the mystery.
-
-Merlin Bird ID helps you identify birds you see and hear. Merlin is unlike any other bird app—it's powered by eBird, the world’s largest database of bird sightings, sounds, and photos.
-
-Merlin offers four fun ways to identify birds. Answer a few simple questions, upload a photo, record a singing bird, or explore birds in a region.
-
-Whether you’re curious about a bird you’ve seen once or you’re hoping to identify every bird you can find, the answers are waiting for you with this free app from the renowned Cornell Lab of Ornithology.
-
-WHY YOU’LL LOVE MERLIN
-• Expert ID tips, range maps, photos, and sounds help you learn about the birds you spot and build birding skills.
-• Discover a new bird species each day with your own personalized Bird of the Day
-• Get customized lists of birds you can find where you live or travel - anywhere in the world!
-• Keep track of your sightings—build your personal list of the birds you find
-
-MACHINE LEARNING MAGIC
-• Powered by Visipedia, Merlin Sound ID and Photo ID uses machine learning to identify birds in photos and sounds. Merlin learns to recognize bird species based on training sets of millions of photos and sounds collected by birders at eBird.org, archived in the Macaulay Library at the Cornell Lab of Ornithology.
-• Merlin delivers the most accurate results thanks to experienced birders, who curate and annotate sightings, photos, and sounds, who are the true magic behind Merlin.
-
-AMAZING CONTENT
-• Merlin has bird photos, songs, and calls, and identification help for anywhere in the world, including Mexico, Costa Rica, South America, Europe, Africa, the Middle East, India, Australia, Korea, Japan, China, and more.
-
-The Cornell Lab of Ornithology’s mission is to interpret and conserve the Earth’s biological diversity through research, education, and citizen science focused on birds and nature. We are able to offer Merlin for free thanks to the generosity of Cornell Lab members, supporters, and citizen-science contributors.
-
-[View on Apple](https://apps.apple.com/gb/app/merlin-bird-id-by-cornell-lab/id773457673)
-
-<a id="vpn-super-unlimited-proxy-tm"></a>
-## VPN - Super Unlimited Proxy ™
-
-![VPN - Super Unlimited Proxy ™](../../logos/1370293473-6bbbb2c3.png)
-
-Kostenloses VPN für iPhone und iPad – schützen Sie Ihre Privatsphäre in WLAN und Hotspots!
-
-- Express Lightning Speed 10G-Server machen dies zur schnellen VPN-Wahl für Streaming
-- Globale Abdeckung: 700+ Server in 53+ Ländern (auch für VPN kostenlose Nutzer!)
-- Keine Logs-Politik: Wir verfolgen oder speichern Ihre Online-Aktivitäten nicht
-- Benutzerfreundlich: Einmal tippen zum Verbinden – keine Registrierung erforderlich
-- Plattformübergreifend: iPhone, iPad, iPod, Apple Vision und Mac mit iOS 11.0+
-- Keine Zeitlimits, Datenbegrenzungen oder Bandbreitenrestriktionen
-- 256-Bit-Verschlüsselung wpn schützt Ihre Aktivitäten und Ihren Standort
-- VPN kostenlos blockiert das Tracking Ihrer iPhone-Browsing-Gewohnheiten
-- WiFi Guardian: Kostenlose VPN-Schutz für Passwörter in öffentlichen Netzwerken
-- Zugang zu sozialen Medien, Messaging und Streaming-Diensten: Tiktok (tik tok), Netflix, HBO, Hulu, Youtube und Youtube TV, Facebook, Instagram, Spotify, Snapchat, X (Twitter), Reddit, Discord, Steam, Telegram (Телеграм ВПН), vk ВПН und mehr wpn Optionen.
-- Optimierung Ihres Spielerlebnisses: Verringern Sie die Latenz bei Ponor of Kings, Genshin Impact, Minecraft, Pokémon GO, Rise of Kingdoms, Clash of Kings, PUBG Mobile, Call of Duty (COD): Mobile, Fortnite, Mobile Legends: Bang Bang, Free Fire, Roblox, Apex Legends Mobile, Arena of Valor, League of Legends (LOL): Wild Rift, Diablo Immortal, Brawl Stars, Subway Surfers, Among Us, Clash Royale, State of Survival, Lords Mobile, Evony: The King's Return, und anderen Spielen.
-
-■ Was können Sie mit dem VPN - Super Unlimited Proxy Free VPN iPhone / iPad tun?
-
-- Anonym bleiben: Surfen Sie mit vollständigem Datenschutz
-- Erhöhte Sicherheit: Verschlüsseln Sie Verbindungen in öffentlichen WiFi-Netzen und Hotspots
-- Schutz der Identität: Verbergen Sie Ihre echte IP-Adresse und Ihren Standort
-- iOS-Datenschutz: free VPN-Schutz für iPhone und iPad, auf den Sie sich verlassen können
-- Vollständiger iOS-Schutz: VPN kostenlos schützt persönliche Daten auf allen Apple-Geräten
-- Schulzugriffs-Lösung: Umgehen Sie Einschränkungen mit unserem BPN für sichereres Surfen
-
-■ Serverstandorte weltweit:
-
-Wählen Sie aus über 700+ Servern in 53+ Ländern, einschließlich:
-
-- Asien: Singapur, Südkorea, Japan, Hongkong, Indonesien, Indien, Israel, Kasachstan, Taiwan, Vietnam, Türkei
-- Europa: Bulgarien, Schweiz, Tschechien, Deutschland, Dänemark, Estland, Spanien, Finnland, Frankreich, Vereinigtes Königreich, Griechenland, Kroatien, Ungarn, Irland, Island, Italien, Litauen, Luxemburg, Lettland, Moldawien, Niederlande, Norwegen, Polen, Portugal, Rumänien, Serbien, Russische Föderation, Slowakei, Schweden, Ukraine
-- Nord Amerika VPN: USA, Kanada, Mexiko
-- Südamerika: Brasilien, Chile, Kolumbien, Peru
-- Afrika: Ägypten, Südafrika
-
-■ Einfache Preisoptionen
-
-Während unser kostenloser von-Service außergewöhnliche Leistungen bietet, können Sie für noch mehr Funktionen upgraden:
-
-- Free VPN-Plan: Unbegrenzter Zugang mit grundlegenden Funktionen
-- Premium-Pläne (werbefrei, 10G-Server und mehr):
-- -  Wöchentlich: $9.99/Woche
-- - Monatlich: $11.99/Monat (7-Tage-Test)
-- - Jährlich: $79.99/Jahr (7-Tage-Test)
-
-Kein Aufwand oder unnötige Datenmengen: Unsere VPN-Lösung für iPad und iPhone bietet rundum Schutz.
-
-■ Welches VPN-Protokoll sollte ich verwenden?
-
-- Auto (Empfohlen): Intelligente Protokollwahl
-- Manuelle Optionen: OpenVPN, IKEv2
-
-■ Datenschutzerklärung
-
-Im Gegensatz zu Diensten, die Ihre Daten durchsuchen wie ein Hai oder im Dunkeln lauern, verpflichtet sich VPN Super Unlimited Proxy zu absoluter Privatsphäre mit Null-Protokollen.
-Links zu unseren Nutzungsbedingungen und der Datenschutzerklärung finden Sie unten:
-
-- Datenschutzerklärung: https://www.vpnsuper.com/privacy-notice
-- Nutzungsbedingungen: https://www.vpnsuper.com/terms-of-service
-
-Laden Sie noch heute die beste free VPN iPhone und iPad herunter und erleben Sie grenzenlose Freiheit im Internet!
-
-[View on Apple](https://apps.apple.com/gb/app/vpn-super-unlimited-proxy/id1370293473)
-
-<a id="easyjet-travel-app"></a>
-## easyJet: Travel App
-
-![easyJet: Travel App](../../logos/483568103-699a590e.png)
-
-Wherever you’re going, take us with you.
-
-Search, book and manage your flights and holidays - anytime, anywhere.
-
-BOOK TRIPS – Search and book a flight or package holiday to your favourite destination.  Our holidays only require a £60pp deposit, have a best price guarantee, and are ATOL protected. T&Cs apply.
-
-TRIP UPDATES – Stay informed with upcoming trip information on the app homescreen and real-time lockscreen updates for your flight.
-
-MANAGE BOOKINGS – Keep track of your easyJet flight and holiday bookings all in one place.
-
-MOBILE BOARDING PASSES – Use your mobile boarding pass to travel through the airport quickly, speed up boarding and reduce paper waste. You can store up to 8 boarding passes per flight, which will be available offline. For even more convenience, you can also save your boarding passes to Apple Wallet.
-
-FLIGHT TRACKER – Track your plane's location in real-time on a FlightRadar24 Map. Plus, check the latest arrival and departure information.
-
-Please keep sending us feedback and feature ideas at  app.feedback.iPhone@easyjet.com
-
-[View on Apple](https://apps.apple.com/gb/app/easyjet-travel-app/id483568103)
-
-<a id="shein-shopping-online"></a>
-## SHEIN-Shopping Online
-
-![SHEIN-Shopping Online](../../logos/878577184-a122cbbd.png)
-
-Everything you love, now at your fingertips!
-
-SHEIN is an affordable online shopping platform offering rich items and trendy goods. Discovering pretty items, trying new things and sharing with others,  SHEIN is dedicated to meet all your needs in life and works as your one-stop shopping destination! We take pride in satisfying our customers and bringing them the best shopping experience.
-
-Inspire yourself with SHEIN right now!
-
-Save you more
-- Register and get £8 includes sale
-- Free limited-time delivery and free returns within 30 Days（*conditions apply）
-- Daily flash sales on many items 
-
-Wide selections
-- Fun, easy shopping with wide selections
-- Browse by New Arrivals, Trends, Category, Best Sellers and more
-
-Considerate services
-- Get first access to sale alerts and promotional discounts
-- Now accepting PayPal and major Credit Cards 
-- Style now, pay later! Choose Afterpay to pay in 4 interest-free payments.
-- 24/7 Customer Service and Live Chat available
-
-Contact us:
-Facebook:  https://www.facebook.com/SHEINOFFICIAL/
-Instagram: https://www.instagram.com/sheinofficial/
-Email: dispute@shein.com
-
-
-The app needs the following access permissions when it is running on your device:
-
--	Optional permission(s):
-
-o	Notification: it will allow us to send push notifications to your device.
-
-o	Camera: the camera function is required when you need to capture photos and videos and upload them to the app.
-
-o	Photo and video: it will enable you to upload photos and videos from your device to the app.
-
-o	Location: where the relevant service is available, it enables location based services on your device. 
-(This is not used in Korea.)
-
-o	Calendar: it enables you to sync the SHEIN LIVE events to your device calendar. 
-
-o	Microphone: when you try to capture videos using Camera function, the app will also need the microphone access permission to capture the voice. 
-
-※ Even if you do not grant optional access permissions, you can still use SHEIN service, except for the functions related to those permissions.
-
-[View on Apple](https://apps.apple.com/gb/app/shein-shopping-online/id878577184)
-
-<a id="x"></a>
-## X
-
-![X](../../logos/333903271-2faefdd6.png)
-
-Willkommen bei X, früher bekannt als Twitter, Ihrem vertrauenswürdigen digitalen Marktplatz wo Gespräche in Echtzeit ablaufen und die Welt sich über Eilmeldungen, Live-Events, Podcasts und alles dazwischen verbindet.
-
-Ob Sie leidenschaftlich an Sport, Technik, Musik oder Politik interessiert sind, X bietet Ihnen einen Platz in der ersten Reihe für das, was weltweit passiert.
-
-X ist nicht nur eine weitere Social-Media-App, sondern das ultimative Ziel, um gut informiert zu bleiben, Ideen zu teilen und Communities aufzubauen. 
-
-Mit X sind Sie immer auf dem Laufenden mit relevanten Trending-Themen und Eilmeldungen, die sofort auf Ihrem Bildschirm erscheinen, roh und ungefiltert.
-
-Was Sie auf X tun können:
-• Verfolgen Sie Eilmeldungen aus der ganzen Welt, bevor sie in die Schlagzeilen kommen, und bleiben Sie voraus mit Echtzeit-Updates zu Trending-Themen und viralen Gesprächen.
-• Teilen Sie Ihre Gedanken, Fotos und Videos mit einer globalen Community. Schließen Sie sich Millionen von Nutzern an, um den öffentlichen Diskurs in sozialen, kulturellen und politischen Gesprächen zu gestalten.
-• Entdecken Sie Grok, den KI-Assistenten, der von den Echtzeit-Daten von X angetrieben wird. Sie können Grok bitten, Trending-News zusammenzufassen, Videos zu erklären oder mehr Kontext zu Beiträgen zu geben.
-• Streamen Sie Live-Videos oder gehen Sie live mit Spaces, unserem Audio-Feature, das es Ihnen ermöglicht, Diskussionen zu moderieren, Interviews zu führen oder Ihren nächsten Live-Podcast zu starten. Ob Sie ein Konzert, ein Live-Spiel oder Ihre Gedanken zu einem heißen Thema streamen, X hält Ihr Publikum bei der Stange.
-• Schauen Sie Videos: von Live-Eilmeldungen und Sport-Clips bis hin zu Podcasts und Gaming-Sessions, die bis zu 3 Stunden lang sein können. Viele der führenden Stimmen der Welt in Komödie, Gaming, Podcasting und Politik teilen ihren Content auf X.
-• Verbinden Sie sich und chatten Sie privat mit Freunden, Followern, Kunden oder Kollaborateuren über Direktnachrichten.
-• Treten Sie Communities bei und bauen Sie sie auf, die auf Ihre Interessen zugeschnitten sind: von Sport-News, Gaming, Entertainment, Krypto, Unternehmertum, Tech und mehr.
-• Abonnieren Sie X Premium, um exklusive Features freizuschalten wie das blaue Häkchen, erhöhte Sichtbarkeit, priorisierte Antworten, weniger Werbung, längere Videos und die Bearbeitung von Beiträgen. X Premium gibt Ihnen auch Zugang zum Revenue-Sharing für Creator und die Möglichkeit, exklusiven Content für Abonnenten anzubieten.
-
-Warum X?
-In einer Welt des ständigen Wandels ist X Ihre Echtzeit-Quelle, um voraus zu sein, mit Menschen in Kontakt zu treten und vielfältige Perspektiven zu erkunden. Von Live-Eilmeldungen und Trending-Memes bis hin zu Top-Podcasts und Live-Streams Ihrer Lieblings-Creator bringt X alles in einer leistungsstarken Social-Erfahrung zusammen.
-
-Datenschutzrichtlinie: https://x.com/de/privacy
-Nutzungsbedingungen: https://x.com/de/tos
-
-[View on Apple](https://apps.apple.com/gb/app/x/id333903271)
 
 <a id="alltrails-rando-sentiers-carte"></a>
 ## AllTrails Rando Sentiers Carte
@@ -2239,114 +1977,26 @@ Meine personenbezogenen Daten dürfen nicht verkauft werden: https://www.indeed.
 
 [View on Apple](https://apps.apple.com/gb/app/indeed-job-search/id309735670)
 
-<a id="facebook"></a>
-## Facebook
+<a id="testerup-test-earn-rewards"></a>
+## Testerup: Test & Earn Rewards
 
-![Facebook](../../logos/284882215-9c7a82be.png)
+![Testerup: Test & Earn Rewards](../../logos/1241984225-37389d49.png)
 
-Wo echte Menschen deine Neugier wecken. Auf Facebook kannst du mit echten Personen interagieren, wie in keinem anderen Social Network: Verkaufe und kaufe Second-Hand-Ausrüstung, teile Reels mit Menschen auf deiner Wellenlänge oder lache mit anderen über witzige Bilder, denen KI einen unerwarteten Twist gegeben hat.
+Earn money as an online tester? As often and whenever you want?
 
-Entdecke Neues und erweitere deine Interessen: 
-* Fordere die Meta-KI auf, nach interessanten Themen für dich zu suchen, und erhalte sofort interaktive Ergebnisse, die mehr als nur Text zu bieten haben.
-* Suche auf dem Marketplace nach guten Deals und Schätzen für deine Hobbys.
-* Personalisiere deinen Feed, um mehr von dem zu sehen, was dir gefällt.
-* Sieh dir Reels und Videos an – für Unterhaltung oder hilfreiche Anleitungen.
+Join Germany's largest platform for paid online jobs and join over 2,900,000 online testers.
 
-Verbinde dich mit Menschen und Communitys:
-* Tritt Gruppen bei und erhalte nützliche Tipps und Tricks von anderen Nutzer*innen
-* Teile deine Inhalte automatisch auf Instagram und spare Zeit
-* Sende Posts in einer privaten Nachricht an deine BFF, weil nur sie weißt, was du meinst, oder einen Reel-Trend, über den alle reden.
+After signing up for free, you'll immediately have access to countless online surveys.
 
-Lass andere an deiner Welt teilhaben:
-* Nutze generative KI, um deine Freund*innen mit individuellen Bildern zu überraschen, oder um dir beim Verfassen von Beiträgen zu helfen.
-* Passe dein Profil an und lege fest, wie du angezeigt wirst und wer deine Beiträge sehen kann.
-* Erstelle aus aktuellen Vorlagen mühelos eigene Reels oder lass deiner Kreativität mit vielfältigen Bearbeitungs-Tools freien Lauf.
-* Zeige spontane Momente in den Stories.
+- Earn over USD 850 directly after download, whether on the go or from the comfort of your home, maximum flexibility guaranteed.
+- Choose from the largest assortment in the German-speaking area, orders that fit you exactly.
+- You will be regularly invited to the latest surveys.
+- Orders with multi goals allow you to achieve higher earnings through continuous testing.
+- Fast and secure payout: Get paid within 24 hours.
+- Upgrade to a premium tester and earn exclusive access to higher-paying assignments.
+- Tested, Verified, Recommended! We value authenticity and trustworthiness. Not for nothing we are recommended by Verbraucherschutz.de. In addition, testerup.com is certified with the TÜV - eKomi rating of 4.3/5.
 
-Nutzungsbedingungen & Richtlinien https://www.facebook.com/policies_center
-
-[View on Apple](https://apps.apple.com/gb/app/facebook/id284882215)
-
-<a id="tiktok-videos-shop-und-live"></a>
-## TikTok - Videos, Shop und LIVE
-
-![TikTok - Videos, Shop und LIVE](../../logos/835599320-e7d1c80b.png)
-
-TikTok ist deine globale Video-Community für kurze und unterhaltsame Videos. Die Inhalte sind dabei auf dich zugeschnitten: Lass dich von spannenden Storys unterhalten, lerne fürs Leben und entdecke neue Talente in dir.
-Du kannst dabei auch selbst unvergessliche Momente hochladen und sie mit der Welt teilen. Mit einer großen Auswahl an Musik, Filtern und Stickern wird jede Aufnahme einzigartig – Deiner Kreativität sind keine Grenzen gesetzt!
-
-■ Schaue Millionen von Videos, basierend auf den Inhalten, die dir gefallen!
-■ Lass dich von unserer globalen TikTok-Community unterhalten und inspirieren!
-■ Mit unseren Edit-Tools kannst du Videoclips problemlos schneiden, zusammenfügen und duplizieren.
-■ Füge deinen Videos kostenlose Musikclips, Sounds und viele weitere Effekte hinzu!
-■ Livestreaming-Filter werden ständig mit neuen Designs aktualisiert.
-■ Stelle dich abwechslungsreichen Challenges und zeige, was in dir steckt!
-■ Hast du Feedback für uns? Kontaktiere uns unter https://www.tiktok.com/legal/report/feedback
-
-Erhalte Zugriff auf LIVE-Vorteile, um besser mit Hosts interagieren zu können!
-Du kannst dich für ein einmaliges Abonnement oder für ein Abonnement mit automatischer Verlängerung entscheiden, um in den Genuss besonderer LIVE-Vorteile zu kommen (derzeit nur in bestimmten Regionen verfügbar)
-
-Hinweis: 
-Wenn du das Abonnement über Apple abgeschlossen hast, wird dein mit deiner Apple-ID verknüpftes Konto nach der Bestätigung des Kaufs mit dem Kaufbetrag belastet. Dein Abonnement wird automatisch verlängert, sofern die automatische Verlängerung nicht mindestens 24 Stunden vor Ablauf des aktuellen Abonnementzeitraums deaktiviert wird. Dein Konto wird innerhalb von 24 Stunden vor Ablauf des aktuellen Abonnementzeitraums mit der für den verlängerten Tarif fälligen Gebühr belastet. Abonnements und automatische Verlängerungen können nach dem Kauf unter Kontoeinstellungen verwaltet werden.
-
-Nutzungsbedingungen —
-https://www.tiktok.com/legal/terms-of-service
-
-Datenschutzerklärung —
-https://www.tiktok.com/legal/privacy-policy
-
-[View on Apple](https://apps.apple.com/gb/app/tiktok-videos-music-live/id835599320)
-
-<a id="hmrc"></a>
-## HMRC
-
-![HMRC](../../logos/514561561-263a5065.png)
-
-Take control of your money and tax with the HMRC app
-
-It’s secure, free to download, and easy to use. Get on it, and join millions of people already saving time with the HMRC app.
-
-Key Features: 
-- Quick setup: sign in using face recognition, fingerprint scan, or a six-digit PIN 
-- Stay in control: check your tax code and see your pay before it even shows in your bank, so you know you're paying the right amount
-- Claim a tax refund: find out if you’re due any tax back from us and quickly claim a refund if you’re owed one 
-- Check your State Pension: see how much State Pension you could get, when you can get it and how to increase it, if you can 
-- Self Assessment: a safe and secure way to make Self Assessment payments and get information you'll need to file 
-- Child Benefit support: claim, manage, and update your Child Benefit details 
-- National Insurance: find and save your National Insurance number so you have it when you need it 
-- Go paperless: opt to receive key messages from HMRC online
-
-Download the HMRC app today and stay on top of your money and taxes
-
-[View on Apple](https://apps.apple.com/gb/app/hmrc/id514561561)
-
-<a id="instagram"></a>
-## Instagram
-
-![Instagram](../../logos/389801252-8abbb146.png)
-
-Aus kleinen Momenten werden große Freundschaften. Teile deine auf Instagram.
-– Von Meta
-
-Bleib mit deinen Freund*innen in Kontakt, finde andere Fans und finde heraus, was die Menschen in deinem Umfeld so treiben. Erkunde deine Interessen und poste, was gerade bei dir los ist – ob Alltagsmomente oder besondere Highlights in deinem Leben.
-
-Teile, was dich gerade bewegt.
-- Halte deine Freund*innen mit Stories und Notizen, die für 24 Stunden sichtbar sind, auf dem Laufenden.
-- Starte Gruppenchats und teile spontane Momente mit deinen engen Freund*innen.
-- Teile Erinnerungen von aktuellen Veranstaltungen oder Reisen im Feed.
-- Verwandle dein Leben in einen Film und entdecke mit Reels auf Instagram unterhaltsame Kurzvideos.
-- Personalisiere deine Beiträge mit exklusiven Vorlagen, Musik, Stickern und Filtern.
-
-Erkunde Themen, die dich interessieren.
-- Sieh dir Videos deiner Lieblings-Creator*innen an und entdecke neue Inhalte, die auf deine Interessen zugeschnitten sind.
-- Lass dich im „Explore“-Tab von den Fotos und Videos neuer Konten inspirieren.
-- Entdecke Marken und Kleinunternehmen und shoppe Produkte, die deinen Stil unterstreichen.
-
-Manche Instagram-Features sind in deinem Land oder deiner Region möglicherweise nicht verfügbar.
-
-Nutzungsbedingungen und Richtlinien: https://help.instagram.com/581066165581870
-
-[View on Apple](https://apps.apple.com/gb/app/instagram/id389801252)
+[View on Apple](https://apps.apple.com/gb/app/testerup-test-earn-rewards/id1241984225)
 
 <a id="getyourguide-planen-buchen"></a>
 ## GetYourGuide: Planen & buchen
@@ -2393,88 +2043,280 @@ Starte jetzt dein Abenteuer mit GetYourGuide!
 
 [View on Apple](https://apps.apple.com/gb/app/getyourguide-plan-book/id705079381)
 
-<a id="netshort-beliebte-dramen-tv"></a>
-## NetShort -Beliebte Dramen & TV
+<a id="mcdonald-s-u-k"></a>
+## McDonald’s U.K.
 
-![NetShort -Beliebte Dramen & TV](../../logos/6504849169-853079bd.png)
+![McDonald’s U.K.](../../logos/1082476620-7611f771.png)
 
-Hast du genug von langen, langweiligen Serien? Möchtest du jederzeit und überall in packende, mitreißende Geschichten eintauchen? Dann probiere NetShort aus!
-Entdecke unzählige exklusive Kurzserien im Hochformat: Boss-Romantik, tragische Werwolf-Liebe, spannende Rachegeschichten – alle Genres, die du liebst, sind dabei! Tägliche Updates, personalisierte Auswahl und HD-Qualität sorgen für ein Kinoerlebnis – sogar auf dem kleinen Bildschirm. Ob beim Warten, in der Mittagspause oder auf Reisen: Mach deine freie Zeit zur ultimativen Entertainment-Zeit!
+Download and place your first McDonald's order in restaurant, drive thru or delivery using the My McDonald's App. Ordering has never been easier with our new McDelivery feature. Or, if you prefer, why not have your order brought to you with Click & Serve? Available any time of day, with many restaurants open 24/7!
+ 
+Exclusive App Offers
+Fancy a cheeky mid-week treat? Check out our range of food offers available exclusively on the McDonald’s app.
 
-Ausgewählte Serien:
-„Vertrag zur Liebe“: Am Tag der Trauung wird er nach sechs Jahren von seiner Freundin verlassen. Doch plötzlich taucht eine milliardenschwere CEO-Schönheit auf, schenkt ihm ein Privatflugzeug und macht ihm einen Heiratsantrag! Ein Jade-Anhänger enthüllt: Er ist der verschollene Erbe einer noblen Familie. Sieh zu, wie er das Blatt wendet und triumphiert!
+McDelivery®
+Need a night off cooking? You can now order McDonald’s delivery through the McDonald’s app!
 
-„Schlächterheld“: Der von seiner Familie verachtete „Versager“ ist in Wahrheit ein legendärer Schwertmeister! Von seinem Vater öffentlich als nutzlos verurteilt, zerreißt er seine Tarnung, stellt seinen Vater bloß und legt mit seiner Klinge eine Spur der Gerechtigkeit. Er rächt seine Familie und beschützt seine Lieben!
+Order Ahead
+Want to make your breakfast AND your 9am train? Order ahead with the McDonald’s app to make picking up even easier.
 
-„Goodbye, my tempting wife“: Während seine Frau ihn betrügt, verfolgt er die Szenen genüsslich... Von seiner Familie verraten und verlassen, verliert John seine letzte Spur von Zuneigung. Doch nun kehrt er als mächtiger CEO zurück – um sich alles zurückzuholen, was ihm zusteht!
+Click & Serve
+Want to park up and get your order brought over to your car? Park in a Click & Serve numbered bay, enter your bay number into the app and we’ll do the rest.
 
-Warum solltest du NetShort wählen?
-Sofort verfügbar: Perfekt für kurze Pausen, jederzeit streamen ohne Verpflichtung.
-Vielfältige Serien: Alle beliebten Genres, spannende Wendungen nonstop.
-Tägliche Updates: Hunderte neue Episoden täglich – keine Wartezeit.
-Kinoqualität: HD-Bildqualität, selbst auf kleinen Bildschirmen ein großes Erlebnis.
-VIP-Vorteile: Keine Werbung, keine Unterbrechungen – für ungestörtes Serienvergnügen.
-Lade NetShort jetzt herunter und starte dein persönliches Serien-Highlight!
+Table Service
+How about a little bit of ‘me time’ with Table Service? Place your order through the McDonald’s app, relax and let us come to you.
 
-Hinweise:
-Wenn du über Apple abonnierst, wird der Betrag nach Bestätigung des Kaufs von deinem App Store-Konto abgebucht.
-Dein Abonnement wird innerhalb von 24 Stunden nach dem Kauf aktiviert, je nach Status der Bestellung im Apple Store.
-24 Stunden vor Ablauf deines aktuellen Abonnements wird das System den Abonnementpreis von deinem Konto abziehen. Nach erfolgreicher Verlängerung wird dein Abonnement automatisch verlängert.
-Du kannst das Abonnement wie folgt kündigen: Einstellungen > iTunes & App Store > Apple ID > Apple ID anzeigen > Abonnements > NetShort.
-Wenn du das Abonnement nicht mindestens 24 Stunden vor Ablauf kündigst, wird es automatisch verlängert.
+[View on Apple](https://apps.apple.com/gb/app/mcdonalds-u-k/id1082476620)
 
-Verwandte Vereinbarungen:
-Nutzervereinbarung: https://netshort.com/agreement/1
-Datenschutzrichtlinie: https://netshort.com/agreement/2
-Automatische Verlängerungsvereinbarung: https://netshort.com/agreement/3
-Mitgliedschaftsvereinbarung: https://netshort.com/agreement/4
+<a id="just-eat-food-and-shops"></a>
+## Just Eat: Food and Shops
 
-[View on Apple](https://apps.apple.com/gb/app/netshort-popular-dramas-tv/id6504849169)
+![Just Eat: Food and Shops](../../logos/566347057-bbdd918c.png)
 
-<a id="proton-vpn-prive-et-rapide"></a>
-## Proton VPN: Privé et Rapide
+Whether it’s Friday night pizza cravings, a healthy lunch on the go, or fun dinner with friends, the free Just Eat app has you covered. Order online for delivery or collection from your favourite restaurants and local takeaways in your area.
 
-![Proton VPN: Privé et Rapide](../../logos/1437005085-d39c83c8.png)
+Order from your favourite restaurants
+From big brands like Kentucky Fried Chicken and Burger King to local gems nearby, order your favourite food online on Just Eat.
+• Boost your energy with a fresh salad or speedy lunch delivered straight to your work.
+• Unwind with a tasty dinner at home. From aromatic Indian to fresh sushi, crispy fried chicken to rich desserts, vegan treats to juicy steak. Find your flavours on Just Eat.
+• Satisfy your food cravings with pizza, kebab, and more comfort food from a takeaway nearby.
 
-Proton VPN est la seule application de VPN gratuite au monde qui est sûre et respecte votre vie privée. Notre VPN rapide offre un accès internet sécurisé, privé et chiffré avec des fonctionnalités de sécurité avancées. Proton VPN débloque également l'accès aux sites web et plateformes de streaming populaires. Proton VPN a été créé par les scientifiques du CERN à l'origine de Proton Mail, le plus grand service de messagerie chiffrée au monde. Largement utilisé dans le monde, le VPN sécurisé sans journaux de Proton offre un accès Internet privé 24h/24 et 7j/7, sans enregistrer votre historique de navigation ni afficher de publicités, vendre vos données à des tiers ou limiter les téléchargements.
+Your benefits at a glance
+Download the Just Eat app now and enjoy perks like:
+• Easy ordering: Fast checkout for delivery or collection
+• Exclusive offers: Special deals and discounts
+• Wide selection: Discover local favourites and famous places near you
+• Endless options: A variety of cuisines, flavours, and dietary options
+• Real-time updates: Follow your order with our handy Food Tracker®
+• Pay your way: Multiple payment options to choose from
 
-Fonctionnalités VPN gratuites disponibles pour tous les utilisateurs :
-• Données illimitées, sans limites de bande passante ou de vitesse
-• Politique stricte de non-journalisation
-• Contournement des restrictions géographiques : la fonctionnalité Smart Protocol lève automatiquement les interdictions de VPN et débloque les contenus censurés
-• Des serveurs avec disque chiffré protègent vos données
-• Confidentialité persistante : le trafic chiffré ne peut pas être capturé et déchiffré
-• Protection contre les fuites DNS : nous chiffrons les requêtes DNS pour que vos activités de navigation ne puissent pas être exposées à des fuites DNS
-• VPN permanent/arrêt d'urgence offrant une protection contre les fuites causées par des déconnexions accidentelles
+Over 14.000+ restaurants at your fingertips.
 
-Fonctionnalités VPN premium :
-• Accès à plus de 20 000 serveurs haut débit dans plus de 140 pays
-• VPN rapide : connexions jusqu'à 10 Gbit/s
-• VPN Accelerator: technologie unique qui augmente les vitesses de Proton VPN jusqu'à 400 %, pour une navigation plus rapide
-• Déblocage de l'accès aux contenus bloqués ou censurés
-• Connexion simultanée de 10 appareils
-• Bloqueur de publicités (NetShield) : fonction de filtrage DNS qui vous protège des logiciels malveillants, bloque les publicités et empêche les traqueurs de sites web de vous suivre
-• Visionnage de films, événements sportifs et vidéos sur tous les services de streaming (Netflix, Hulu, Amazon Prime Video, Disney+, BBC iPlayer, etc.)
-• Prise en charge du partage de fichiers et du P2P
-• Serveurs Secure Core protégeant contre les attaques réseau grâce à un VPN multi-sauts
-• Tor via VPN, pour une intégration automatique avec le réseau d'anonymat Tor
+From big brands like McDonald's to local hidden gems. From pizza delivery to lunch to go. Find it near you, order online, and track it to your door.
 
-Pourquoi choisir Proton VPN ?
-• Aucune donnée personnelle requise pour s'inscrire
-• Application VPN facile à utiliser pour iOS, iPadOS, visionOS et tvOS
-• Mieux qu'un proxy internet, en raison du chiffrement plus fort de votre connexion
-• Appuyez simplement sur « Connexion rapide » pour sécuriser votre connexion, en particulier sur les points d'accès Wi-Fi publics
-• La technologie unique VPN Accelerator augmente la vitesse de votre VPN jusqu'à 400 %, pour une connexion internet plus rapide
-• L'architecture Secure Core de Proton VPN permet à notre service de VPN sécurisé de se défendre contre les attaques réseau
-• Nous n'utilisons que des protocoles VPN dont la sécurité est éprouvée : WireGuard
-• La solution est auditée par des experts indépendants et nous publions tous les résultats sur notre site internet
+Download Just Eat now and get what you love, delivered or ready for collection.
 
-Opinion des experts :
-PCMag : « [Proton VPN] offre toute une série de fonctionnalités avancées et propose le meilleur abonnement gratuit que nous ayons vu. Peu de concurrents peuvent rivaliser avec ce mélange de prix abordable, de fonctionnalités et de design. Pour tout cela, il obtient la note de 5 étoiles et remporte le prix du Choix de la rédaction. »
+[View on Apple](https://apps.apple.com/gb/app/just-eat-food-and-shops/id566347057)
 
-Mozilla : « Il existe de nombreux fournisseurs de VPN, mais tous ne se valent pas. Proton VPN offre un service sécurisé, fiable et convivial, et est exploité par les créateurs de Proton Mail, un service de messagerie respecté axé sur le respect de la vie privée... En tant qu'entreprise, Proton a fait ses preuves dans la défense de la vie privée en ligne et partage notre engagement en faveur de la sécurité sur internet. »"
+<a id="shein-shopping-online"></a>
+## SHEIN-Shopping Online
 
-[View on Apple](https://apps.apple.com/gb/app/proton-vpn-fast-secure/id1437005085)
+![SHEIN-Shopping Online](../../logos/878577184-a122cbbd.png)
+
+Everything you love, now at your fingertips!
+
+SHEIN is an affordable online shopping platform offering rich items and trendy goods. Discovering pretty items, trying new things and sharing with others,  SHEIN is dedicated to meet all your needs in life and works as your one-stop shopping destination! We take pride in satisfying our customers and bringing them the best shopping experience.
+
+Inspire yourself with SHEIN right now!
+
+Save you more
+- Register and get £8 includes sale
+- Free limited-time delivery and free returns within 30 Days（*conditions apply）
+- Daily flash sales on many items 
+
+Wide selections
+- Fun, easy shopping with wide selections
+- Browse by New Arrivals, Trends, Category, Best Sellers and more
+
+Considerate services
+- Get first access to sale alerts and promotional discounts
+- Now accepting PayPal and major Credit Cards 
+- Style now, pay later! Choose Afterpay to pay in 4 interest-free payments.
+- 24/7 Customer Service and Live Chat available
+
+Contact us:
+Facebook:  https://www.facebook.com/SHEINOFFICIAL/
+Instagram: https://www.instagram.com/sheinofficial/
+Email: dispute@shein.com
+
+
+The app needs the following access permissions when it is running on your device:
+
+-	Optional permission(s):
+
+o	Notification: it will allow us to send push notifications to your device.
+
+o	Camera: the camera function is required when you need to capture photos and videos and upload them to the app.
+
+o	Photo and video: it will enable you to upload photos and videos from your device to the app.
+
+o	Location: where the relevant service is available, it enables location based services on your device. 
+(This is not used in Korea.)
+
+o	Calendar: it enables you to sync the SHEIN LIVE events to your device calendar. 
+
+o	Microphone: when you try to capture videos using Camera function, the app will also need the microphone access permission to capture the voice. 
+
+※ Even if you do not grant optional access permissions, you can still use SHEIN service, except for the functions related to those permissions.
+
+[View on Apple](https://apps.apple.com/gb/app/shein-shopping-online/id878577184)
+
+<a id="uber-eats-essen-lieferdienst"></a>
+## Uber Eats: Essen, Lieferdienst
+
+![Uber Eats: Essen, Lieferdienst](../../logos/1058959277-eb6734d7.png)
+
+Lass dir mit der Uber Eats App Essen von tausenden fantastischen lokalen und internationalen Restaurants direkt an die Haustür liefern. Finde das Essen, das du suchst und bestelle es ganz einfach und schnell online. Verfolge deine Bestellung in Echtzeit und genieße den besten Lieferservice.
+
+FINDE DEIN LIEBLINGSESSEN & RESTAURANTS
+Bestelle Essen von Restaurants in deiner Nähe und suche nach Gerichten wie Pizza, Burritos, Burger, Sushi, Bowls, Donuts, Döner, Lasagne, Tapas, Waffeln und mehr. Ob asiatisch, indisch, japanisch, koreanisch, halal, vegan oder chinesisch - Uber Eats hat und liefert dir alles. Abholung bevorzugt? Überspringe einfach die Schlange. Du kennst nur Lieferando, Just Eat, Deliveroo, Wolt, Bolt Food oder Glovo? Dann probiere doch jetzt Uber Eats und lass dir dein Lieblingsessen liefern.
+
+UBER ONE ABONNIEREN
+Für nur 4,99 € im Monat erhältst du als Uber One-Abonnent 0€ Liefergebühren für berechtigte Bestellungen. Verdiene 5% Uber Cash für berechtigte Uber Fahrten. Profitiere von Prämien, Rabatten, Gutscheinen und Angeboten. Die vollständigen Uber One Geschäftsbedingungen findest du in der Uber Eats und Uber App.
+
+BESTELLE FAST ALLES, WANN IMMER DU WILLST
+Bestelle Artikel und Lebensmittel von Supermärkten, Tierhandlungen, deinem Lieblings-Restaurant und mehr. Ob Babynahrung, Windeln, Schönheitsprodukte, Kosmetik, Brot, Milch, Bananen, Obst, Blumen oder Tiefkühlkost - wir lassen alles liefern. Auch alkoholische Getränke wie Bier, Wein und Spirituosen sind erhältlich*. Bezahle sicher und einfach mit Klarna, Paypal, Debit- oder Kreditkarte.
+
+EINFACH BESTELLEN, EINFACH GELIEFERT
+Wähle dein Essen aus einer beliebigen Speisekarte und füge es mit wenigen Klicks deinem Warenkorb hinzu. Uber Eats macht es einfach, Essen online zu bestellen und geliefert zu bekommen. Plane deine Bestellung im Voraus oder bestelle sofort - du hast die Wahl! Einfach mit Klarna, Paypal, Debit- oder Kreditkarte bezahlen und mit der Uber Eats App alle deine Bestellungen bequem online nachverfolgen.
+
+ECHTZEIT-BESTELLVERFOLGUNG
+Verfolge deine Essenslieferung in Echtzeit auf einer Karte. Lass dich benachrichtigen, wenn deine Bestellung eintrifft. Nutze den Tracker in der Uber Eats App, um deine Bestellung live zu verfolgen und sei immer auf dem Laufenden.
+
+FINDE DEINE LIEBLINGSRESTAURANTS
+Egal ob du Pizza, Döner, Fast Food oder vegetarisches Essen bestellen möchtest, Uber Eats ist dein Lieferservice für alles. Genieße auch die leckeren Gerichte von L’Osteria, Burgermeister, Five Guys und vielen anderen Restaurants. Wähle aus verschiedenen Gerichten für Frühstück, Mittagessen oder Abendessen. Bestelle Sushi, Bowls, Bubble Tea, vegan oder einen Loco Chicken Burger. Einige unserer Lieferpartner sind McDonald's, Burger King, Dominos, KFC, Subway, Starbucks, Pizza Hut und viele mehr.
+
+RESTAURANTS, LEBENSMITTELGESCHÄFTE UND MEHR FINDEN
+Bestelle bei Lebensmittelgeschäften wie Flink oder anderen Kiosken. Andere Lieferpartner sind Pets Deli und lokale Supermärkte. Lass dir deine Einkäufe bequem nach Hause liefern. Finde alle deine Lieblingsprodukte und bestelle sie ganz einfach online. Von japanischem Sushi über koreanisches BBQ bis hin zu traditionellen deutschen Gerichten - bei Uber Eats findest du alles.
+
+IN DEINER STADT VERFÜGBAR
+Schließe dich den Tausenden von Menschen in Deutschland (DE) an, die Uber Eats nutzen, um in ihren Lieblingsrestaurants zu bestellen. Uber Eats ist in Städten wie Berlin, Frankfurt am Main, München, Köln, Düsseldorf, Essen, Hamburg, Stuttgart, Bremen, Leipzig, Hannover, Dresden und vielen mehr verfügbar. Finde Essenslieferungen in deiner Stadt mit Uber Eats. Bestelle Essen online und nutze die App, um den Lieferstatus in Echtzeit zu verfolgen. Genieße die Vielfalt der internationalen Küche, von italienischer Pizza über chinesisches Dim Sum bis hin zum klassichen Hamburger und arabischen Mezze.
+
+*Alkohol in ausgewählten Märkten. Mindestalter: 18 Jahre. Verfügbarkeit variiert je nach Markt. Siehe App für Details.
+
+[View on Apple](https://apps.apple.com/gb/app/uber-eats-food-groceries/id1058959277)
+
+<a id="tiktok-videos-shop-und-live"></a>
+## TikTok - Videos, Shop und LIVE
+
+![TikTok - Videos, Shop und LIVE](../../logos/835599320-e7d1c80b.png)
+
+TikTok ist deine globale Video-Community für kurze und unterhaltsame Videos. Die Inhalte sind dabei auf dich zugeschnitten: Lass dich von spannenden Storys unterhalten, lerne fürs Leben und entdecke neue Talente in dir.
+Du kannst dabei auch selbst unvergessliche Momente hochladen und sie mit der Welt teilen. Mit einer großen Auswahl an Musik, Filtern und Stickern wird jede Aufnahme einzigartig – Deiner Kreativität sind keine Grenzen gesetzt!
+
+■ Schaue Millionen von Videos, basierend auf den Inhalten, die dir gefallen!
+■ Lass dich von unserer globalen TikTok-Community unterhalten und inspirieren!
+■ Mit unseren Edit-Tools kannst du Videoclips problemlos schneiden, zusammenfügen und duplizieren.
+■ Füge deinen Videos kostenlose Musikclips, Sounds und viele weitere Effekte hinzu!
+■ Livestreaming-Filter werden ständig mit neuen Designs aktualisiert.
+■ Stelle dich abwechslungsreichen Challenges und zeige, was in dir steckt!
+■ Hast du Feedback für uns? Kontaktiere uns unter https://www.tiktok.com/legal/report/feedback
+
+Erhalte Zugriff auf LIVE-Vorteile, um besser mit Hosts interagieren zu können!
+Du kannst dich für ein einmaliges Abonnement oder für ein Abonnement mit automatischer Verlängerung entscheiden, um in den Genuss besonderer LIVE-Vorteile zu kommen (derzeit nur in bestimmten Regionen verfügbar)
+
+Hinweis: 
+Wenn du das Abonnement über Apple abgeschlossen hast, wird dein mit deiner Apple-ID verknüpftes Konto nach der Bestätigung des Kaufs mit dem Kaufbetrag belastet. Dein Abonnement wird automatisch verlängert, sofern die automatische Verlängerung nicht mindestens 24 Stunden vor Ablauf des aktuellen Abonnementzeitraums deaktiviert wird. Dein Konto wird innerhalb von 24 Stunden vor Ablauf des aktuellen Abonnementzeitraums mit der für den verlängerten Tarif fälligen Gebühr belastet. Abonnements und automatische Verlängerungen können nach dem Kauf unter Kontoeinstellungen verwaltet werden.
+
+Nutzungsbedingungen —
+https://www.tiktok.com/legal/terms-of-service
+
+Datenschutzerklärung —
+https://www.tiktok.com/legal/privacy-policy
+
+[View on Apple](https://apps.apple.com/gb/app/tiktok-videos-music-live/id835599320)
+
+<a id="x-anciennement-twitter"></a>
+## X (anciennement Twitter)
+
+![X (anciennement Twitter)](../../logos/333903271-2faefdd6.png)
+
+Bienvenue sur X, anciennement connu sous le nom de Twitter, votre place publique numérique de confiance où les conversations se déroulent en temps réel et où le monde se connecte via les actualités de dernière minute, les événements en direct, les podcasts et tout ce qui se passe entre les deux.
+
+Que vous soyez passionné par le sport, la technologie, la musique ou la politique, X vous offre une place au premier rang pour ce qui se passe dans le monde entier.
+
+X n’est pas seulement une autre application de réseaux sociaux, c’est la destination ultime pour rester bien informé, partager des idées et construire des communautés. Avec X, vous êtes toujours au courant des sujets tendance pertinents et des actualités de dernière minute, livrés instantanément sur votre écran, bruts et non filtrés.
+
+Ce que vous pouvez faire sur X :
+• Suivez les actualités de dernière minute du monde entier avant qu’elles ne fassent les gros titres, et restez en avance avec des mises à jour en temps réel sur les sujets tendance et les conversations virales.
+
+• Publiez vos pensées, photos et vidéos avec une communauté mondiale. Rejoignez des millions d’utilisateurs pour façonner le dialogue public à travers des conversations sociales, culturelles et politiques.
+
+• Découvrez Grok, l’assistant IA alimenté par les données en temps réel de X. Vous pouvez demander à Grok de résumer les actualités tendance, d’expliquer des vidéos ou de fournir plus de contexte sur les publications.
+
+• Diffusez des vidéos en direct ou passez en live avec Spaces, notre fonctionnalité audio qui vous permet d’animer des discussions, de mener des interviews ou de lancer votre prochain podcast en direct. Que vous diffusiez un concert, un match en direct ou vos réflexions sur un sujet brûlant, X garde votre public engagé.
+
+• Regardez des vidéos : des actualités de dernière minute en direct et des extraits sportifs aux podcasts et sessions de jeu pouvant durer jusqu’à 3 heures. De nombreuses voix leaders mondiales en comédie, jeux, podcasts et politique partagent leur contenu sur X.
+
+• Connectez-vous et discutez en privé avec des amis, des abonnés, des clients ou des collaborateurs via les Messages Directs.
+
+• Rejoignez et construisez des communautés adaptées à vos intérêts : des actualités sportives aux jeux, divertissement, crypto, entrepreneuriat, technologie et plus encore.
+
+• Abonnez-vous à X Premium pour débloquer des fonctionnalités exclusives comme la coche bleue, une visibilité accrue, des réponses priorisées, moins de publicités, des vidéos plus longues et l’édition de publications. X Premium vous donne également accès au partage de revenus pour les créateurs et à la possibilité d’offrir du contenu exclusif aux abonnés.
+
+Pourquoi X ?
+Dans un monde en constante évolution, X est votre source en temps réel pour rester en avance, vous connecter avec les gens et explorer des perspectives diverses. Des actualités de dernière minute en direct et des mèmes tendance aux meilleurs podcasts et streams en direct de vos créateurs préférés, X réunit tout dans une expérience sociale puissante.
+
+Politique de Confidentialité : https://x.com/fr/privacy
+Conditions Générales : https://x.com/fr/tos
+
+[View on Apple](https://apps.apple.com/gb/app/x/id333903271)
+
+<a id="vpn-super-unlimited-proxy-tm"></a>
+## VPN - Super Unlimited Proxy ™
+
+![VPN - Super Unlimited Proxy ™](../../logos/1370293473-6bbbb2c3.png)
+
+Kostenloses VPN für iPhone und iPad – schützen Sie Ihre Privatsphäre in WLAN und Hotspots!
+
+- Express Lightning Speed 10G-Server machen dies zur schnellen VPN-Wahl für Streaming
+- Globale Abdeckung: 700+ Server in 53+ Ländern (auch für VPN kostenlose Nutzer!)
+- Keine Logs-Politik: Wir verfolgen oder speichern Ihre Online-Aktivitäten nicht
+- Benutzerfreundlich: Einmal tippen zum Verbinden – keine Registrierung erforderlich
+- Plattformübergreifend: iPhone, iPad, iPod, Apple Vision und Mac mit iOS 11.0+
+- Keine Zeitlimits, Datenbegrenzungen oder Bandbreitenrestriktionen
+- 256-Bit-Verschlüsselung wpn schützt Ihre Aktivitäten und Ihren Standort
+- VPN kostenlos blockiert das Tracking Ihrer iPhone-Browsing-Gewohnheiten
+- WiFi Guardian: Kostenlose VPN-Schutz für Passwörter in öffentlichen Netzwerken
+- Zugang zu sozialen Medien, Messaging und Streaming-Diensten: Tiktok (tik tok), Netflix, HBO, Hulu, Youtube und Youtube TV, Facebook, Instagram, Spotify, Snapchat, X (Twitter), Reddit, Discord, Steam, Telegram (Телеграм ВПН), vk ВПН und mehr wpn Optionen.
+- Optimierung Ihres Spielerlebnisses: Verringern Sie die Latenz bei Ponor of Kings, Genshin Impact, Minecraft, Pokémon GO, Rise of Kingdoms, Clash of Kings, PUBG Mobile, Call of Duty (COD): Mobile, Fortnite, Mobile Legends: Bang Bang, Free Fire, Roblox, Apex Legends Mobile, Arena of Valor, League of Legends (LOL): Wild Rift, Diablo Immortal, Brawl Stars, Subway Surfers, Among Us, Clash Royale, State of Survival, Lords Mobile, Evony: The King's Return, und anderen Spielen.
+
+■ Was können Sie mit dem VPN - Super Unlimited Proxy Free VPN iPhone / iPad tun?
+
+- Anonym bleiben: Surfen Sie mit vollständigem Datenschutz
+- Erhöhte Sicherheit: Verschlüsseln Sie Verbindungen in öffentlichen WiFi-Netzen und Hotspots
+- Schutz der Identität: Verbergen Sie Ihre echte IP-Adresse und Ihren Standort
+- iOS-Datenschutz: free VPN-Schutz für iPhone und iPad, auf den Sie sich verlassen können
+- Vollständiger iOS-Schutz: VPN kostenlos schützt persönliche Daten auf allen Apple-Geräten
+- Schulzugriffs-Lösung: Umgehen Sie Einschränkungen mit unserem BPN für sichereres Surfen
+
+■ Serverstandorte weltweit:
+
+Wählen Sie aus über 700+ Servern in 53+ Ländern, einschließlich:
+
+- Asien: Singapur, Südkorea, Japan, Hongkong, Indonesien, Indien, Israel, Kasachstan, Taiwan, Vietnam, Türkei
+- Europa: Bulgarien, Schweiz, Tschechien, Deutschland, Dänemark, Estland, Spanien, Finnland, Frankreich, Vereinigtes Königreich, Griechenland, Kroatien, Ungarn, Irland, Island, Italien, Litauen, Luxemburg, Lettland, Moldawien, Niederlande, Norwegen, Polen, Portugal, Rumänien, Serbien, Russische Föderation, Slowakei, Schweden, Ukraine
+- Nord Amerika VPN: USA, Kanada, Mexiko
+- Südamerika: Brasilien, Chile, Kolumbien, Peru
+- Afrika: Ägypten, Südafrika
+
+■ Einfache Preisoptionen
+
+Während unser kostenloser von-Service außergewöhnliche Leistungen bietet, können Sie für noch mehr Funktionen upgraden:
+
+- Free VPN-Plan: Unbegrenzter Zugang mit grundlegenden Funktionen
+- Premium-Pläne (werbefrei, 10G-Server und mehr):
+- -  Wöchentlich: $9.99/Woche
+- - Monatlich: $11.99/Monat (7-Tage-Test)
+- - Jährlich: $79.99/Jahr (7-Tage-Test)
+
+Kein Aufwand oder unnötige Datenmengen: Unsere VPN-Lösung für iPad und iPhone bietet rundum Schutz.
+
+■ Welches VPN-Protokoll sollte ich verwenden?
+
+- Auto (Empfohlen): Intelligente Protokollwahl
+- Manuelle Optionen: OpenVPN, IKEv2
+
+■ Datenschutzerklärung
+
+Im Gegensatz zu Diensten, die Ihre Daten durchsuchen wie ein Hai oder im Dunkeln lauern, verpflichtet sich VPN Super Unlimited Proxy zu absoluter Privatsphäre mit Null-Protokollen.
+Links zu unseren Nutzungsbedingungen und der Datenschutzerklärung finden Sie unten:
+
+- Datenschutzerklärung: https://www.vpnsuper.com/privacy-notice
+- Nutzungsbedingungen: https://www.vpnsuper.com/terms-of-service
+
+Laden Sie noch heute die beste free VPN iPhone und iPad herunter und erleben Sie grenzenlose Freiheit im Internet!
+
+[View on Apple](https://apps.apple.com/gb/app/vpn-super-unlimited-proxy/id1370293473)
 
 <a id="trainline-train-bus-tickets"></a>
 ## Trainline: Train & Bus Tickets
@@ -2527,97 +2369,71 @@ IG: @trainline
 
 [View on Apple](https://apps.apple.com/gb/app/trainline-train-bus-tickets/id334235181)
 
-<a id="nectar-shop-collect-points"></a>
-## Nectar: Shop & Collect Points
+<a id="instagram"></a>
+## Instagram
 
-![Nectar: Shop & Collect Points](../../logos/385266473-8141ff89.png)
+![Instagram](../../logos/389801252-8abbb146.png)
 
-About the app
+Aus kleinen Momenten werden große Freundschaften. Teile deine auf Instagram.
+– Von Meta
 
-Download the Nectar app to get more value when you shop. Collect points with over 900 brands, like Argos and Esso or convert your Nectar points into Avios with British Airways. You can spend your points on everyday essentials or save them up for something special. Plus, bag Your Nectar Prices and personalised points offers at Sainsbury’s. Find all your offers in one place and always have your Nectar card on you, with your digital Nectar card in the app.
+Bleib mit deinen Freund*innen in Kontakt, finde andere Fans und finde heraus, was die Menschen in deinem Umfeld so treiben. Erkunde deine Interessen und poste, was gerade bei dir los ist – ob Alltagsmomente oder besondere Highlights in deinem Leben.
 
-Our app’s best bits
+Teile, was dich gerade bewegt.
+- Halte deine Freund*innen mit Stories und Notizen, die für 24 Stunden sichtbar sind, auf dem Laufenden.
+- Starte Gruppenchats und teile spontane Momente mit deinen engen Freund*innen.
+- Teile Erinnerungen von aktuellen Veranstaltungen oder Reisen im Feed.
+- Verwandle dein Leben in einen Film und entdecke mit Reels auf Instagram unterhaltsame Kurzvideos.
+- Personalisiere deine Beiträge mit exklusiven Vorlagen, Musik, Stickern und Filtern.
 
-- Unlock Sainsbury’s offers and Your Nectar Prices 
-- Use your digital Nectar card 
-- See your points balance and Nectar Prices savings 
-- Search from over 900 partners to collect points with 
-- Find out where you can spend your points 
-- Lock your points to keep them secure, unlock them when you’re ready to spend
+Erkunde Themen, die dich interessieren.
+- Sieh dir Videos deiner Lieblings-Creator*innen an und entdecke neue Inhalte, die auf deine Interessen zugeschnitten sind.
+- Lass dich im „Explore“-Tab von den Fotos und Videos neuer Konten inspirieren.
+- Entdecke Marken und Kleinunternehmen und shoppe Produkte, die deinen Stil unterstreichen.
 
-Getting started
+Manche Instagram-Features sind in deinem Land oder deiner Region möglicherweise nicht verfügbar.
 
-Already have a Nectar account? 
-- Log in to the app using your email address and password
+Nutzungsbedingungen und Richtlinien: https://help.instagram.com/581066165581870
 
-Got a Nectar card but haven’t registered? 
-- If you haven’t registered your Nectar card online yet, download the app, click register and then 'I have a Nectar card' to start using the app
+[View on Apple](https://apps.apple.com/gb/app/instagram/id389801252)
 
-New to Nectar? 
-- Download the app and sign up now
+<a id="netshort-beliebte-dramen-tv"></a>
+## NetShort -Beliebte Dramen & TV
 
-[View on Apple](https://apps.apple.com/gb/app/nectar-shop-collect-points/id385266473)
+![NetShort -Beliebte Dramen & TV](../../logos/6504849169-853079bd.png)
 
-<a id="justpark-parking"></a>
-## JustPark Parking
+Hast du genug von langen, langweiligen Serien? Möchtest du jederzeit und überall in packende, mitreißende Geschichten eintauchen? Dann probiere NetShort aus!
+Entdecke unzählige exklusive Kurzserien im Hochformat: Boss-Romantik, tragische Werwolf-Liebe, spannende Rachegeschichten – alle Genres, die du liebst, sind dabei! Tägliche Updates, personalisierte Auswahl und HD-Qualität sorgen für ein Kinoerlebnis – sogar auf dem kleinen Bildschirm. Ob beim Warten, in der Mittagspause oder auf Reisen: Mach deine freie Zeit zur ultimativen Entertainment-Zeit!
 
-![JustPark Parking](../../logos/519652671-fd507700.png)
+Ausgewählte Serien:
+„Vertrag zur Liebe“: Am Tag der Trauung wird er nach sechs Jahren von seiner Freundin verlassen. Doch plötzlich taucht eine milliardenschwere CEO-Schönheit auf, schenkt ihm ein Privatflugzeug und macht ihm einen Heiratsantrag! Ein Jade-Anhänger enthüllt: Er ist der verschollene Erbe einer noblen Familie. Sieh zu, wie er das Blatt wendet und triumphiert!
 
-Parking made easy. Find a space in seconds with the UK's favourite parking app.
+„Schlächterheld“: Der von seiner Familie verachtete „Versager“ ist in Wahrheit ein legendärer Schwertmeister! Von seinem Vater öffentlich als nutzlos verurteilt, zerreißt er seine Tarnung, stellt seinen Vater bloß und legt mit seiner Klinge eine Spur der Gerechtigkeit. Er rächt seine Familie und beschützt seine Lieben!
 
-JustPark is the simple way to park & charge your vehicle.
+„Goodbye, my tempting wife“: Während seine Frau ihn betrügt, verfolgt er die Szenen genüsslich... Von seiner Familie verraten und verlassen, verliert John seine letzte Spur von Zuneigung. Doch nun kehrt er als mächtiger CEO zurück – um sich alles zurückzuholen, was ihm zusteht!
 
-Join our community of over 14 million UK drivers already using JustPark to get them closer to where they need to be. With our exclusive network of private and public parking spaces, you can book your space before you leave the house. All through our award-winning app.
+Warum solltest du NetShort wählen?
+Sofort verfügbar: Perfekt für kurze Pausen, jederzeit streamen ohne Verpflichtung.
+Vielfältige Serien: Alle beliebten Genres, spannende Wendungen nonstop.
+Tägliche Updates: Hunderte neue Episoden täglich – keine Wartezeit.
+Kinoqualität: HD-Bildqualität, selbst auf kleinen Bildschirmen ein großes Erlebnis.
+VIP-Vorteile: Keine Werbung, keine Unterbrechungen – für ungestörtes Serienvergnügen.
+Lade NetShort jetzt herunter und starte dein persönliches Serien-Highlight!
 
-PARK
-- Unlock access to tens of thousands of bookable driveways.
-- Choose from over a million parking spaces nationwide.
-- Book for anything from 10 minutes to a whole month.
+Hinweise:
+Wenn du über Apple abonnierst, wird der Betrag nach Bestätigung des Kaufs von deinem App Store-Konto abgebucht.
+Dein Abonnement wird innerhalb von 24 Stunden nach dem Kauf aktiviert, je nach Status der Bestellung im Apple Store.
+24 Stunden vor Ablauf deines aktuellen Abonnements wird das System den Abonnementpreis von deinem Konto abziehen. Nach erfolgreicher Verlängerung wird dein Abonnement automatisch verlängert.
+Du kannst das Abonnement wie folgt kündigen: Einstellungen > iTunes & App Store > Apple ID > Apple ID anzeigen > Abonnements > NetShort.
+Wenn du das Abonnement nicht mindestens 24 Stunden vor Ablauf kündigst, wird es automatisch verlängert.
 
-CHARGE
-- Hundreds of EV chargers available to book in a flash.
-- No driveway, no problem. Switch to an EV with confidence thanks to our community charging network JustCharge.
+Verwandte Vereinbarungen:
+Nutzervereinbarung: https://netshort.com/agreement/1
+Datenschutzrichtlinie: https://netshort.com/agreement/2
+Automatische Verlängerungsvereinbarung: https://netshort.com/agreement/3
+Mitgliedschaftsvereinbarung: https://netshort.com/agreement/4
 
-RELAX
-- Make parking stress a thing of the past by booking your space in advance.
-- Our handy app lets you update booking times, add new vehicles, save your receipts and rebook past spaces.
-- Meeting running late? Match gone to extra time? Extend your stay with a tap of the app.
-- Join our community of hosts today & use the app to manage your bookings.
-
-JustPark: Simplifying journeys so we can all breathe easier.
-
-[View on Apple](https://apps.apple.com/gb/app/justpark-parking/id519652671)
-
-<a id="gmail-e-mail-von-google"></a>
-## Gmail – E-Mail von Google
-
-![Gmail – E-Mail von Google](../../logos/422689480-3e3ebe15.png)
-
-Mit der offiziellen Gmail App können Sie sich das Beste von Gmail auf Ihr iPhone oder iPad holen: hilfreiche KI-Funktionen, umfassender Schutz, Benachrichtigungen in Echtzeit, Unterstützung für mehrere Konten und die intelligente Suche im gesamten Posteingang.
-
-Vorteile der Gmail App:
-• Sie können Gmail auf iOS-Geräten als Standard-E-Mail-App festlegen.
-• Dank hilfreicher Infokarten bleiben Sie ganz einfach über die neuesten Pakete, anstehende Termine, Rechnungen und Reisedaten auf dem Laufenden.
-• Mit der integrierten E-Mail-Aboverwaltung lässt sich Ihr Posteingang übersichtlich halten.
-• Gemini* in Gmail kann für Sie lange E-Mails zusammenfassen, Antworten entwerfen oder verfeinern oder in Ihrem Posteingang nach Informationen suchen.
-• Sie können mehrere E-Mail-Konten von verschiedenen Anbietern verbinden und zwischen ihnen wechseln.
-• Über 99,9 % der Spam-, Phishing- und Malware-Inhalte werden automatisch blockiert – bevor sie Ihren Posteingang erreichen.
-• Mit Gemini in Gmail lassen sich Termine aus E-Mails schnell in Google Kalender eintragen.
-• Über den personalisierten Tab „Werbung“ finden Sie schneller die besten Angebote.
-• Sie können schneller auf E-Mails antworten – dank KI-basierter Antwortvorschläge, die sowohl den Kontext Ihrer E-Mails als auch Ihren individuellen Schreibstil und Ton berücksichtigen.
-• E-Mails lassen sich nach dem Senden bis zu 30 Sekunden lang zurückrufen, um Fehler zu vermeiden.
-• Sie können direkt auf Google Meet und Google Chat zugreifen – ohne Gmail zu verlassen.
-• Sie können Ihre E-Mails mit Labeln versehen, markieren, löschen und als Spam melden – so behalten Sie besser den Überblick.
-• Mithilfe der Wischgesten zum Archivieren oder Löschen lässt sich Ihr Posteingang schnell und einfach aufräumen.
-
-Gmail ist Teil von Google Workspace – Sie können sich also ganz leicht mit Ihrem Team austauschen und zusammenarbeiten. Dazu haben Sie folgende Möglichkeiten:
-• Mit Kolleginnen und Kollegen über Google Meet oder Google Chat in Kontakt bleiben, Einladungen in Google Kalender senden, Aufgabenlisten erstellen und mehr – viele alltägliche Aufgaben lassen sich direkt in Gmail erledigen.
-• Mit den Funktionen von Gemini in Gmail wie „Formuliere für mich“, „Antwortvorschläge“, „Übersichten mit KI“ und „Korrekturlesen“ erhalten Sie einen besseren Überblick über Ihre Arbeit und können Routineaufgaben schneller abschließen und effizienter sein.
-• Umfassender Schutz: Mit unseren Modellen für maschinelles Lernen werden über 99,9 % der Spam-, Phishing- und Malware-Inhalte blockiert – noch bevor sie Ihren Posteingang erreichen.
-
-* Zur Nutzung einiger Gemini-Funktionen ist ein Abo für Google One AI erforderlich. Es ist eine Internetverbindung erforderlich. Die Verfügbarkeit variiert je nach Sprache und Land. Antworten sollten auf ihre Richtigkeit geprüft werden.
-
-[View on Apple](https://apps.apple.com/gb/app/gmail-email-by-google/id422689480)
+[View on Apple](https://apps.apple.com/gb/app/netshort-popular-dramas-tv/id6504849169)
 
 <a id="paybyphone-parking"></a>
 ## PayByPhone Parking
@@ -2665,6 +2481,415 @@ Fuel price features (UK only):
 Help find the best priced fuel near you or at a location you specify
 
 [View on Apple](https://apps.apple.com/gb/app/paybyphone-parking/id448474183)
+
+<a id="greene-king-pubs-restaurants"></a>
+## Greene King Pubs & Restaurants
+
+![Greene King Pubs & Restaurants](../../logos/1297987541-e8052035.png)
+
+Why Download The Greene King App?
+
+Discover a smarter, faster and more rewarding way to enjoy your favourite Greene King pubs and restaurants. Whether you are planning a casual visit, a night out with friends, or a family meal, the Greene King Pub and Restaurant App puts everything you need in one place. 
+
+
+- Spin to Win a freebie
+- Order food & drink
+- Earn & track rewards
+- Access exclusive offers & savings
+- Play Pub Match & other exciting games
+- Find your nearest pub or restaurant
+
+
+Spin to Win 
+
+Fancy a freebie? Yes, you read that right - free food and drink is up for grabs for all you newcomers. Download the Greene King app & register, spin the wheel, and you might land yourself a main, pud or pint. No catch, just pure joy (and maybe some gravy). 
+
+
+Order & Pay From Your Table
+
+Browse our full menu of delicious food and refreshing drinks, from hearty pub classics to your favourite pint, and place your order straight from the comfort of your table. Pay quickly and securely using your saved card details or use Apple Pay for a convenient contactless option. View live wait times so you know how long your food or drink will take. Fancy another round? Reorder drinks in a single tap.
+
+
+Enjoy Exclusive Rewards
+
+Register and activate rewards in the app to unlock exclusive offers, discounts, and occasional freebies, whether you’re grabbing a pint with friends or enjoying a full meal. Your rewards are stored in the app, making it easy to view and redeem them whenever you like. Access your Membership ID QR code via the app, and download it to your Apple Wallet for quick scanning when paying at the bar.
+
+
+Win Prizes with Pub Match
+
+Activate rewards and order on the app or scan your code at the bar to unlock Pub Match. Match threes, climb the leader board, and maybe even win vouchers if you hit the top ten. Freebies and bragging rights? That’s a solid two-for-one. Can't get enough of it? Well, with every transaction, you unlock another go at the game!
+
+
+Find Your Perfect Pub or Restaurant
+
+Our upgraded pub finder helps you locate Greene King pubs and restaurants nearby. View photos, check features such as beer gardens, play areas and dog-friendly spaces, and filter locations to suit your visit. Live wait times and easy menu browsing make planning your trip straightforward and stress free.
+
+
+Whether you’re stopping by for a pint, enjoying a meal, spinning to win fantastic rewards, or testing your skills in Pub Match, the Greene King Pub and Restaurant App makes every visit smoother, quicker and more fun. From ordering from the menu to finding your nearest pub, paying securely, and earning rewards, the app is your perfect companion for every Greene King experience.
+
+Discover our brands: Greene King pubs, Hungry Horse, Flaming Grill, Farmhouse Inns, Chef & Brewer Collection, Wacky Warehouse, Belhaven, and the Metropolitan Pub Company and more!
+
+[View on Apple](https://apps.apple.com/gb/app/greene-king-pubs-restaurants/id1297987541)
+
+<a id="justpark-parking"></a>
+## JustPark Parking
+
+![JustPark Parking](../../logos/519652671-fd507700.png)
+
+Parking made easy. Find a space in seconds with the UK's favourite parking app.
+
+JustPark is the simple way to park & charge your vehicle.
+
+Join our community of over 14 million UK drivers already using JustPark to get them closer to where they need to be. With our exclusive network of private and public parking spaces, you can book your space before you leave the house. All through our award-winning app.
+
+PARK
+- Unlock access to tens of thousands of bookable driveways.
+- Choose from over a million parking spaces nationwide.
+- Book for anything from 10 minutes to a whole month.
+
+CHARGE
+- Hundreds of EV chargers available to book in a flash.
+- No driveway, no problem. Switch to an EV with confidence thanks to our community charging network JustCharge.
+
+RELAX
+- Make parking stress a thing of the past by booking your space in advance.
+- Our handy app lets you update booking times, add new vehicles, save your receipts and rebook past spaces.
+- Meeting running late? Match gone to extra time? Extend your stay with a tap of the app.
+- Join our community of hosts today & use the app to manage your bookings.
+
+JustPark: Simplifying journeys so we can all breathe easier.
+
+[View on Apple](https://apps.apple.com/gb/app/justpark-parking/id519652671)
+
+<a id="facebook"></a>
+## Facebook
+
+![Facebook](../../logos/284882215-9c7a82be.png)
+
+Wo echte Menschen deine Neugier wecken. Auf Facebook kannst du mit echten Personen interagieren, wie in keinem anderen Social Network: Verkaufe und kaufe Second-Hand-Ausrüstung, teile Reels mit Menschen auf deiner Wellenlänge oder lache mit anderen über witzige Bilder, denen KI einen unerwarteten Twist gegeben hat.
+
+Entdecke Neues und erweitere deine Interessen: 
+* Fordere die Meta-KI auf, nach interessanten Themen für dich zu suchen, und erhalte sofort interaktive Ergebnisse, die mehr als nur Text zu bieten haben.
+* Suche auf dem Marketplace nach guten Deals und Schätzen für deine Hobbys.
+* Personalisiere deinen Feed, um mehr von dem zu sehen, was dir gefällt.
+* Sieh dir Reels und Videos an – für Unterhaltung oder hilfreiche Anleitungen.
+
+Verbinde dich mit Menschen und Communitys:
+* Tritt Gruppen bei und erhalte nützliche Tipps und Tricks von anderen Nutzer*innen
+* Teile deine Inhalte automatisch auf Instagram und spare Zeit
+* Sende Posts in einer privaten Nachricht an deine BFF, weil nur sie weißt, was du meinst, oder einen Reel-Trend, über den alle reden.
+
+Lass andere an deiner Welt teilhaben:
+* Nutze generative KI, um deine Freund*innen mit individuellen Bildern zu überraschen, oder um dir beim Verfassen von Beiträgen zu helfen.
+* Passe dein Profil an und lege fest, wie du angezeigt wirst und wer deine Beiträge sehen kann.
+* Erstelle aus aktuellen Vorlagen mühelos eigene Reels oder lass deiner Kreativität mit vielfältigen Bearbeitungs-Tools freien Lauf.
+* Zeige spontane Momente in den Stories.
+
+Nutzungsbedingungen & Richtlinien https://www.facebook.com/policies_center
+
+[View on Apple](https://apps.apple.com/gb/app/facebook/id284882215)
+
+<a id="gmail-e-mail-von-google"></a>
+## Gmail – E-Mail von Google
+
+![Gmail – E-Mail von Google](../../logos/422689480-3e3ebe15.png)
+
+Mit der offiziellen Gmail App können Sie sich das Beste von Gmail auf Ihr iPhone oder iPad holen: hilfreiche KI-Funktionen, umfassender Schutz, Benachrichtigungen in Echtzeit, Unterstützung für mehrere Konten und die intelligente Suche im gesamten Posteingang.
+
+Vorteile der Gmail App:
+• Sie können Gmail auf iOS-Geräten als Standard-E-Mail-App festlegen.
+• Dank hilfreicher Infokarten bleiben Sie ganz einfach über die neuesten Pakete, anstehende Termine, Rechnungen und Reisedaten auf dem Laufenden.
+• Mit der integrierten E-Mail-Aboverwaltung lässt sich Ihr Posteingang übersichtlich halten.
+• Gemini* in Gmail kann für Sie lange E-Mails zusammenfassen, Antworten entwerfen oder verfeinern oder in Ihrem Posteingang nach Informationen suchen.
+• Sie können mehrere E-Mail-Konten von verschiedenen Anbietern verbinden und zwischen ihnen wechseln.
+• Über 99,9 % der Spam-, Phishing- und Malware-Inhalte werden automatisch blockiert – bevor sie Ihren Posteingang erreichen.
+• Mit Gemini in Gmail lassen sich Termine aus E-Mails schnell in Google Kalender eintragen.
+• Über den personalisierten Tab „Werbung“ finden Sie schneller die besten Angebote.
+• Sie können schneller auf E-Mails antworten – dank KI-basierter Antwortvorschläge, die sowohl den Kontext Ihrer E-Mails als auch Ihren individuellen Schreibstil und Ton berücksichtigen.
+• E-Mails lassen sich nach dem Senden bis zu 30 Sekunden lang zurückrufen, um Fehler zu vermeiden.
+• Sie können direkt auf Google Meet und Google Chat zugreifen – ohne Gmail zu verlassen.
+• Sie können Ihre E-Mails mit Labeln versehen, markieren, löschen und als Spam melden – so behalten Sie besser den Überblick.
+• Mithilfe der Wischgesten zum Archivieren oder Löschen lässt sich Ihr Posteingang schnell und einfach aufräumen.
+
+Gmail ist Teil von Google Workspace – Sie können sich also ganz leicht mit Ihrem Team austauschen und zusammenarbeiten. Dazu haben Sie folgende Möglichkeiten:
+• Mit Kolleginnen und Kollegen über Google Meet oder Google Chat in Kontakt bleiben, Einladungen in Google Kalender senden, Aufgabenlisten erstellen und mehr – viele alltägliche Aufgaben lassen sich direkt in Gmail erledigen.
+• Mit den Funktionen von Gemini in Gmail wie „Formuliere für mich“, „Antwortvorschläge“, „Übersichten mit KI“ und „Korrekturlesen“ erhalten Sie einen besseren Überblick über Ihre Arbeit und können Routineaufgaben schneller abschließen und effizienter sein.
+• Umfassender Schutz: Mit unseren Modellen für maschinelles Lernen werden über 99,9 % der Spam-, Phishing- und Malware-Inhalte blockiert – noch bevor sie Ihren Posteingang erreichen.
+
+* Zur Nutzung einiger Gemini-Funktionen ist ein Abo für Google One AI erforderlich. Es ist eine Internetverbindung erforderlich. Die Verfügbarkeit variiert je nach Sprache und Land. Antworten sollten auf ihre Richtigkeit geprüft werden.
+
+[View on Apple](https://apps.apple.com/gb/app/gmail-email-by-google/id422689480)
+
+<a id="nhs-app"></a>
+## NHS App
+
+![NHS App](../../logos/1388411277-6c78beb6.png)
+
+The NHS App gives you a simple and secure way to access a range of NHS services on your smartphone or tablet. 
+
+You can use the app if you are aged 13 or over. You must be registered with an NHS GP surgery in England or the Isle of Man.
+
+You can also log in through the NHS website on a computer to use NHS App services.
+
+Access NHS services 
+----------------------
+Use the NHS App to access your NHS services, anytime and anywhere. You can request repeat prescriptions, use 111 online, find nearby NHS services and more.
+Depending on your GP surgery, you may also be able to book appointments and contact your surgery about a health problem.
+
+Manage your health 
+--------------------
+The NHS App gives you a convenient way to view your health information, including your test results.
+You can manage your upcoming appointments and prescription requests. You can also make choices about your health, like your organ donation decision.  
+
+Receive messages 
+-------------------
+You can get important messages from your GP surgery and other NHS services through the app. Turning on notifications can alert you to new messages.  
+
+Manage services for other people 
+--------------------------------- 
+You can switch profiles to access services for other people in the NHS App, such as a child or family member. Your GP surgery needs to give you access and you must both share the same surgery.  
+
+Log in securely 
+---------------
+The NHS App will guide you through setting up an NHS login if you do not have one already. You will be asked to prove who you are. The app will then securely connect to information from your NHS services.  If your iPhone or iPad supports Touch ID or Face ID, you can use it to log in, every time you use the app.
+
+[View on Apple](https://apps.apple.com/gb/app/nhs-app/id1388411277)
+
+<a id="nectar-shop-collect-points"></a>
+## Nectar: Shop & Collect Points
+
+![Nectar: Shop & Collect Points](../../logos/385266473-8141ff89.png)
+
+About the app
+
+Download the Nectar app to get more value when you shop. Collect points with over 900 brands, like Argos and Esso or convert your Nectar points into Avios with British Airways. You can spend your points on everyday essentials or save them up for something special. Plus, bag Your Nectar Prices and personalised points offers at Sainsbury’s. Find all your offers in one place and always have your Nectar card on you, with your digital Nectar card in the app.
+
+Our app’s best bits
+
+- Unlock Sainsbury’s offers and Your Nectar Prices 
+- Use your digital Nectar card 
+- See your points balance and Nectar Prices savings 
+- Search from over 900 partners to collect points with 
+- Find out where you can spend your points 
+- Lock your points to keep them secure, unlock them when you’re ready to spend
+
+Getting started
+
+Already have a Nectar account? 
+- Log in to the app using your email address and password
+
+Got a Nectar card but haven’t registered? 
+- If you haven’t registered your Nectar card online yet, download the app, click register and then 'I have a Nectar card' to start using the app
+
+New to Nectar? 
+- Download the app and sign up now
+
+[View on Apple](https://apps.apple.com/gb/app/nectar-shop-collect-points/id385266473)
+
+<a id="proton-vpn-prive-et-rapide"></a>
+## Proton VPN: Privé et Rapide
+
+![Proton VPN: Privé et Rapide](../../logos/1437005085-d39c83c8.png)
+
+Proton VPN est la seule application de VPN gratuite au monde qui est sûre et respecte votre vie privée. Notre VPN rapide offre un accès internet sécurisé, privé et chiffré avec des fonctionnalités de sécurité avancées. Proton VPN débloque également l'accès aux sites web et plateformes de streaming populaires. Proton VPN a été créé par les scientifiques du CERN à l'origine de Proton Mail, le plus grand service de messagerie chiffrée au monde. Largement utilisé dans le monde, le VPN sécurisé sans journaux de Proton offre un accès Internet privé 24h/24 et 7j/7, sans enregistrer votre historique de navigation ni afficher de publicités, vendre vos données à des tiers ou limiter les téléchargements.
+
+Fonctionnalités VPN gratuites disponibles pour tous les utilisateurs :
+• Données illimitées, sans limites de bande passante ou de vitesse
+• Politique stricte de non-journalisation
+• Contournement des restrictions géographiques : la fonctionnalité Smart Protocol lève automatiquement les interdictions de VPN et débloque les contenus censurés
+• Des serveurs avec disque chiffré protègent vos données
+• Confidentialité persistante : le trafic chiffré ne peut pas être capturé et déchiffré
+• Protection contre les fuites DNS : nous chiffrons les requêtes DNS pour que vos activités de navigation ne puissent pas être exposées à des fuites DNS
+• VPN permanent/arrêt d'urgence offrant une protection contre les fuites causées par des déconnexions accidentelles
+
+Fonctionnalités VPN premium :
+• Accès à plus de 20 000 serveurs haut débit dans plus de 140 pays
+• VPN rapide : connexions jusqu'à 10 Gbit/s
+• VPN Accelerator: technologie unique qui augmente les vitesses de Proton VPN jusqu'à 400 %, pour une navigation plus rapide
+• Déblocage de l'accès aux contenus bloqués ou censurés
+• Connexion simultanée de 10 appareils
+• Bloqueur de publicités (NetShield) : fonction de filtrage DNS qui vous protège des logiciels malveillants, bloque les publicités et empêche les traqueurs de sites web de vous suivre
+• Visionnage de films, événements sportifs et vidéos sur tous les services de streaming (Netflix, Hulu, Amazon Prime Video, Disney+, BBC iPlayer, etc.)
+• Prise en charge du partage de fichiers et du P2P
+• Serveurs Secure Core protégeant contre les attaques réseau grâce à un VPN multi-sauts
+• Tor via VPN, pour une intégration automatique avec le réseau d'anonymat Tor
+
+Pourquoi choisir Proton VPN ?
+• Aucune donnée personnelle requise pour s'inscrire
+• Application VPN facile à utiliser pour iOS, iPadOS, visionOS et tvOS
+• Mieux qu'un proxy internet, en raison du chiffrement plus fort de votre connexion
+• Appuyez simplement sur « Connexion rapide » pour sécuriser votre connexion, en particulier sur les points d'accès Wi-Fi publics
+• La technologie unique VPN Accelerator augmente la vitesse de votre VPN jusqu'à 400 %, pour une connexion internet plus rapide
+• L'architecture Secure Core de Proton VPN permet à notre service de VPN sécurisé de se défendre contre les attaques réseau
+• Nous n'utilisons que des protocoles VPN dont la sécurité est éprouvée : WireGuard
+• La solution est auditée par des experts indépendants et nous publions tous les résultats sur notre site internet
+
+Opinion des experts :
+PCMag : « [Proton VPN] offre toute une série de fonctionnalités avancées et propose le meilleur abonnement gratuit que nous ayons vu. Peu de concurrents peuvent rivaliser avec ce mélange de prix abordable, de fonctionnalités et de design. Pour tout cela, il obtient la note de 5 étoiles et remporte le prix du Choix de la rédaction. »
+
+Mozilla : « Il existe de nombreux fournisseurs de VPN, mais tous ne se valent pas. Proton VPN offre un service sécurisé, fiable et convivial, et est exploité par les créateurs de Proton Mail, un service de messagerie respecté axé sur le respect de la vie privée... En tant qu'entreprise, Proton a fait ses preuves dans la défense de la vie privée en ligne et partage notre engagement en faveur de la sécurité sur internet. »"
+
+[View on Apple](https://apps.apple.com/gb/app/proton-vpn-fast-secure/id1437005085)
+
+<a id="spotify-musik-und-podcasts"></a>
+## Spotify Musik und Podcasts
+
+![Spotify Musik und Podcasts](../../logos/324684580-7e38536c.png)
+
+Entdecke eine riesige Auswahl an Podcasts und Musik – kostenlos auf Spotify. Stelle Playlists zusammen und streame Millionen von Songs, Alben und Podcasts kostenlos auf dem Smartphone oder Tablet. Mit Spotify Premium kannst du Musik herunterladen, Musik offline hören und mit Hörbüchern aus aller Welt in spannende Geschichten eintauchen.
+
+Warum Spotify als Musikplayer und Podcast-App verwenden? Hier einige der Vorteile:
+• Streame über 100 Millionen Songs und 6 Millionen Podcasts.
+• Entdecke von Spotify zusammengestellte Playlists mit Musik von deinen Lieblingskünstler*innen.
+• Suche schnell und einfach nach Lieblingssongs, -alben und -Podcasts.
+• Erhalte personalisierte Musikempfehlungen ganz nach deinem Geschmack.
+• Abonniere deine Lieblings-Podcasts kostenlos und stelle deine eigene Podcast-Bibliothek zusammen.
+
+Spotify Free ist mehr als ein Musikplayer. Du kannst Podcasts und Musik kostenlos streamen, personalisierte Playlists entdecken oder deine eigenen zusammenstellen und teilen. Und auch bei Neuerscheinungen und Events deiner Lieblingskünstler*innen bleibst du immer auf dem Laufenden.
+• Streame Millionen Songs und Podcasts kostenlos.
+• Erstelle Playlists mit deiner Lieblingsmusik.
+• Teile Songs und Playlists mit Freund*innen und Familie. (In manchen Regionen können Einschränkungen gelten.)
+• Entdecke personalisierte Playlists. Du kannst auch welche mit Freund*innen erstellen.
+• In „Dein Mix der Woche“ findest du jede Woche neue Songs, die dir gefallen könnten.
+• Mit der Playlist „Release Radar“ und „New Music Friday“ bleibst du auf dem Laufenden.
+• Finde heraus, wann deine Lieblingskünstler*innen in der Nähe auftreten.
+• In Spotify Wrapped siehst du jedes Jahr deine am meisten gestreamten Songs, Genres, Künstler*innen, Podcasts und mehr.
+• Höre Musik auf mehreren Geräten – Spotify macht’s möglich.
+• Streame Musik über Spotify Connect auf Smart Speakern und gib Musik über PC, Laptop, Smart-TV, Chromecast, PlayStation®, XBOX®, Wearables, in deinem Auto und mehr wieder. Begrenzte Anzahl von Gerätemodellen.
+
+Mit Spotify Premium genießt du die Vorteile eines Offline-Musikplayers und von Musik ohne Internet. Dank der Downloader-Funktion kannst du Songs, Podcasts und Playlists auch offline wiedergeben, egal wo du bist.
+• Hör Musik, Podcasts und Hörbücher an einem Ort.
+• Musik ohne Werbeunterbrechungen: Genieße deine Musik ohne Ads.
+• Spiele Inhalte auf Abruf ab.
+• Hörbücher mit Spotify Premium sind derzeit in Australien, Kanada, Irland, Neuseeland, den USA und dem Vereinigten Königreich verfügbar. Nutzer*innen von Premium Individual und Manager*innen von Duo und Family Abos können mit 15 Wiedergabestunden/Monat mehr als 250.000 Hörbücher streamen.
+• Genieße hochwertiges Audio auf unterstützen Geräten.
+• Spotify bietet jetzt einen KI-DJ: Dieser persönliche DJ kennt deinen Musikgeschmack und wählt Songs für dich aus.
+• Streame über PC, Smartphone, Tablet, Smartwatch und im Auto.
+• Hoste einen Jam mit Freund*innen, um in Echtzeit miteinander Musik zu hören und gemeinsam zu bestimmen, was als Nächstes läuft.
+• Lade Musik herunter und hör Podcasts und Hörbücher offline, auch ohne Internetverbindung.
+• Kein Vertrag erforderlich – das Spotify Premium Abo ist jederzeit kündbar.
+
+Mit Spotify kannst du überall Musik spielen. Streame deine Lieblingssongs und entdecke neue Musik, Podcasts und Hörbücher mit der Musik-App von Spotify.
+
+DIR GEFÄLLT SPOTIFY?
+Folge uns auf Instagram: https://www.instagram.com/spotify
+Folge uns auf TikTok: https://www.tiktok.com/@spotify
+
+[View on Apple](https://apps.apple.com/gb/app/spotify-music-and-podcasts/id324684580)
+
+<a id="google-chrome"></a>
+## Google Chrome
+
+![Google Chrome](../../logos/535886823-e8d3b1b6.png)
+
+Chrome ist der schnelle, sichere Browser von Google und bietet dir unzählige Möglichkeiten im Web. Lade ihn noch heute herunter und überzeuge dich selbst.
+
+DAS BESTE VON GOOGLE IN CHROME
+
+• GOOGLE SUCHE: Du findest in Sekundenschnelle Antworten auf alle deine Fragen – wenn du möchtest, auch per Sprachbefehl.
+• GOOGLE LENS: Du kannst nach allem suchen, was du auf dem Display oder durch die Kamera siehst.
+• GOOGLE ÜBERSETZER: Unser Dienst unterstützt mehr als 130 Sprachen. Ein Klick genügt – du kannst sogar ganze Websites übersetzen lassen.
+
+ERSTKLASSIGE SICHERHEITSFUNKTIONEN
+
+• MODUS „ERWEITERTER SCHUTZ“: Dieser Chrome-Modus sorgt für höchstmöglichen Schutz, wenn du im Web unterwegs bist.
+• SICHERHEITSCHECK: Wir informieren dich mit proaktiven Sicherheitswarnungen rechtzeitig über Sicherheitsprobleme, damit du dich auf das Wesentliche konzentrieren kannst.
+• GOOGLE PASSWORTMANAGER: Mit diesem Dienst kannst du Passwörter erstellen und speichern, damit du dich immer und überall schnell anmelden kannst. Außerdem warnt er dich, wenn deine Passwörter doch einmal in Gefahr sein sollten.
+
+VERFÜGBAR AUF ALLEN DEINEN GERÄTEN
+
+• GERÄTEÜBERGREIFENDE SYNCHRONISIERUNG: Wichtige Dinge wie Lesezeichen, Tabs und Passwörter lassen sich speichern und sind dann sofort verfügbar, wenn du dich auf deinem Smartphone, Computer oder Tablet in Chrome anmeldest.
+• TABGRUPPEN: Dank Tabgruppen behältst du beim Surfen immer den Überblick, auch wenn du mehrere Geräte nutzt.
+• AUTOFILL: Du kannst Zahlungsinformationen, Adressen und Passwörter speichern und automatisch in Onlineformulare eintragen lassen. Das spart jede Menge Zeit.
+
+Funktionsverfügbarkeit kann je nach Land und Sprache variieren. Kompatibilität variiert. Antworten sollten auf ihre Richtigkeit geprüft werden.
+
+[View on Apple](https://apps.apple.com/gb/app/google-chrome/id535886823)
+
+<a id="netflix"></a>
+## Netflix
+
+![Netflix](../../logos/363590051-fffc9d30.png)
+
+Auf der Suche nach den angesagtesten Filmen und Serien aus aller Welt? Die gibt’s bei Netflix.
+
+Entdecken Sie preisgekrönte Serien, Filme, Live-Events, Podcasts und Games unterwegs – alles in der Netflix-App. Egal, ob Sie auf Reisen oder auf dem Weg zur Arbeit sind oder einfach nur eine Pause einlegen wollen: Ab jetzt verpassen Sie nichts mehr auf Netflix.
+
+Was Sie an Netflix lieben werden:
+
+– Einfache Navigation mit Verknüpfungen am unteren Bildschirmrand zum schnellen Stöbern oder direkten Aufrufen Ihrer Favoriten
+
+– Eine neue Möglichkeit, um herauszufinden, was als Nächstes kommt, inklusive eines Feeds mit neuen Clips
+
+– Eine Welt voller Unterhaltung mit Serien, Filmen, Live-Events, Games und Podcasts – alles an einem Ort
+
+– Ihre Favoriten jederzeit im Blick – von Ihren Lieblingsmomenten bis zu „Meine Liste“ finden Sie alles auf dem Tab „Mein Netflix“.
+
+– Personalisierte Empfehlungen auf Basis Ihrer Bewertungen. Sofortige Benachrichtigungen bei Neuerscheinungen, neuen Folgen und Live-Events
+
+Die Netflix-Mitgliedschaft ist ein monatliches Abo, das mit Ihrer Registrierung beginnt. Sie können jederzeit problemlos online kündigen – rund um die Uhr. Ganz ohne langfristige Verträge oder Kündigungsgebühren. Wir möchten einfach, dass Ihnen das, was Sie sich ansehen, gefällt.
+
+Bitte beachten Sie, dass die App-Datenschutzinformationen für Daten gelten, die über die Netflix-App für iOS, iPadOS und tvOS erhoben werden. In der Datenschutzerklärung von Netflix (siehe Link unten) erfahren Sie mehr darüber, welche Daten wir in anderen Zusammenhängen, z. B. bei der Kontoregistrierung, erheben.
+
+Datenschutzrichtlinie: www.netflix.com/privacy
+
+Nutzungsbedingungen: www.netflix.com/terms
+
+Telefonnummer: +18667160414
+
+E-Mail: iosappstore@netflix.com
+
+[View on Apple](https://apps.apple.com/gb/app/netflix/id363590051)
+
+<a id="amazon-shopping"></a>
+## Amazon Shopping
+
+![Amazon Shopping](../../logos/335187483-4a4e87ea.png)
+
+Comprehensive
+Quickly search, get product details, read reviews and purchase millions of products available from Amazon.co.uk, Amazon.com.be and other merchants.
+
+Convenient
+Sign in with your existing Amazon account to access your basket, payment and shipping options. No need to create a new account to manage your 1-Click settings and wish lists, track your orders and use your Prime membership benefits. Shop just as you do on the web.
+ 
+Fast
+Compare prices and check availability instantly by scanning a barcode, snapping a picture or typing your search. 
+ 
+Secure
+All purchases are routed through Amazon's secure servers.
+ 
+Universal
+Shop Amazon.co.uk, Amazon.de, Amazon.es, Amazon.fr, Amazon.com, Amazon.it, Amazon.cn, Amazon.co.jp or Amazon.com.be from a single app.
+
+By using this app, you agree to Amazon’s Conditions of Use (www.amazon.co.uk/conditionsofuse or www.amazon.com.be/conditionsofuse). Please see our Privacy Notice (www.amazon.co.uk/privacynotice or www.amazon.com.be/privacynotice), our Cookies Notice (www.amazon.co.uk/cookies or www.amazon.com.be/cookies) and our Interest-Based Ads Notice (www.amazon.co.uk/interestbasedads or ou www.amazon.com.be/interestbasedads).
+
+If your device supports TrueDepth technology, the app will use your device camera to detect your facial movements only while using certain features such as virtually try-on products like sunglasses. All information processed using this technology remains on your device and is not otherwise stored, processed or shared by Amazon.
+
+[View on Apple](https://apps.apple.com/gb/app/amazon-shopping/id335187483)
+
+<a id="google-authenticator"></a>
+## Google Authenticator
+
+![Google Authenticator](../../logos/388497605-d1240270.png)
+
+Google Authenticator erhöht die Sicherheit Ihrer Onlinekonten, da bei der Anmeldung ein zweiter Bestätigungsschritt erforderlich ist. Das bedeutet, dass Sie neben Ihrem Passwort auch einen Code eingeben müssen, der von der Google Authenticator App auf Ihrem Smartphone generiert wurde.
+
+Der Bestätigungscode kann über die Google Authenticator App auf Ihrem Smartphone erstellt werden, auch wenn keine Netzwerk- oder Mobilfunkverbindung besteht.
+
+• Synchronisieren Sie Ihre Authenticator-Codes mit Ihrem Google-Konto und auf allen Ihren Geräten. So können Sie jederzeit auf sie zugreifen, selbst wenn Sie Ihr Smartphone verlieren.
+
+• Richten Sie Ihre Authenticator-Konten automatisch mit einem QR-Code ein. Das geht schnell und einfach und hilft Ihnen, Ihre Codes korrekt einzurichten.
+
+• Unterstützung mehrerer Konten. Mit der Authenticator App können Sie mehrere Konten verwalten, sodass Sie nicht bei jeder Anmeldung zwischen Apps wechseln müssen.
+
+• Unterstützung einer zeit- und zählergesteuerten Codegenerierung. Sie können die Art der Codegenerierung auswählen, die Ihren Anforderungen am besten entspricht.
+
+• Übertragen Sie Konten mit einem QR-Code zwischen Geräten. So können Sie Ihre Konten ganz bequem auf ein neues Gerät verschieben.
+
+
+Zur Verwendung von Google Authenticator müssen Sie die 2-Faktor-Authentifizierung in Ihrem Google-Konto aktivieren. Unter http://www.google.com/2step finden Sie weitere Informationen.
+
+[View on Apple](https://apps.apple.com/gb/app/google-authenticator/id388497605)
 
 <a id="pinterest"></a>
 ## Pinterest
@@ -2719,169 +2944,110 @@ Wenn du Probleme mit der App hast, erhalte Unterstützung unter RedditHelp.com
 
 [View on Apple](https://apps.apple.com/gb/app/reddit/id1064216828)
 
-<a id="deliveroo-food-shopping"></a>
-## Deliveroo: Food & Shopping
+<a id="cleanup-clean-storage-space"></a>
+## Cleanup: Clean Storage Space
 
-![Deliveroo: Food & Shopping](../../logos/1001501844-4e739c81.png)
+![Cleanup: Clean Storage Space](../../logos/1510944943-c5e646c3.png)
 
-Hungry? Get your favourite meals, takeaways and groceries delivered to your door in minutes with Deliveroo. From local gems to big-name brands, discover thousands of restaurants and supermarkets near you.
+Clean up your iPhone and optimize storage in seconds. 
 
-ALL YOUR FAVOURITES, DELIVERED:
+Remove duplicate photos, videos, and junk emails. Cleanup helps you clear your camera roll, merge duplicate contacts, compress videos, and organize storage — all in one app.
 
-- Restaurants: Big brands and local gems
-- Grocery: Always fresh with our Freshness Promise
-- Convenience: Beauty essentials, flowers, gifts, DIY and more in minutes
+OPTIMIZE STORAGE – FREE UP SPACE WITH ONE TAP
+Running low on space? Cleanup gives you powerful tools to take control:
+- Delete duplicate photos and videos
+- Remove similar screenshots and lookalike videos
+- Compress large files without losing quality
+- Clean up spam and promotional emails
+- Delete unused contacts and tidy up your address book
+- Free up storage instantly with one tap.
 
-Order from the restaurants you’re craving...
+CLEAN YOUR GALLERY FAST - DELETE DUPLICATE PHOTOS
+No more manual browsing. Cleanup makes it easy:
+- Instantly detect and delete duplicate photos
+- Smart grouping for similar photos, with “Best” marked
+- Remove large, lookalike videos
+- Identify and delete screenshots in bulk
 
-- Sushi or pizza?
-- A Chinese or Indian?
-- Burgers, pasta, breakfast or something sweet?
+EMAIL CLEANER - DECLUTTER YOUR INBOX
+Declutter your inbox in seconds:
+- Highlight and remove promo, spam, and unread emails
+- Clear out junk with one tap
 
-All of your favourites are just a tap away from top brands like KFC, McDonald’s, Burger King, Subway, Nando’s, Wagamama, Popeyes, Papa John’s, Wingstop, Giggling Squid, Kokoro, Pizza Express, Five Guys, Franco Manca, Dishoom, Pho, Taco Bell, Starbucks, Gail's Bakery, Joe & the Juice, GBK and more!
+CONTACTS CLEANUP
+Keep your contacts organized and up to date:
+- Merge duplicates
+- Remove incomplete or unused entries
+- View and edit from one place
 
-Or Fancy something different? Discover thousands of local gems that deliver right to your door.
+COMPRESS VIDEOS  - SAVE SPACE, KEEP QUALITY
+Save storage without deleting memories:
+- Compress large files with minimal quality loss
+- Select exactly which videos to compress
 
-£0 DELIVERY FEE WITH DELIVEROO PLUS
+CHARGING ANIMATIONS
+Turn charging into a personal moment with vivid, customizable animations.
 
-Become a member and you’ll also unlock:
+SECRET SPACE – HIDE WHAT’S PERSONAL
+Hide personal content in a secure, PIN-protected vault only you can access.
 
-- Exclusive offers and member-only deals
-- Monthly rewards that help your money go further
-- Discounted service fees*
-- Earn 10% back on restaurant orders over £30*
+WIDGETS
+Add instant cleanup tools to your Home and Lock Screens:
+- Battery and storage widgets
+- Tap to launch cleanup features quickly
 
-*Plus Gold members only
+REVIEW BEFORE YOU DELETE
+Nothing is removed without your approval.  After each cleaning session, you get a final review screen to double-check your selections.
+ No accidental deletions, no surprises — you're always in control.
 
-It’s the simplest way to save while enjoying what you love most.
+OFFLINE AND PRIVATE
+Your data stays private:
+- No internet connection needed
+- No files leave your phone
+- No tracking or data misuse
 
-SUPERMARKETS SORTED
+Your privacy is fully protected — even we can’t access your photos.
 
-Get groceries delivered fast from top supermarkets, including Waitrose, ASDA, Morrisons, M&S, Sainsbury’s, Co-Op, Amazon Fresh, Whole Foods, Spar, One Stop, Iceland and Majestic Wine.
 
-MORE THAN FOOD
 
-We’re here for the everyday essentials and little treats too. From Boots and Healf to Not On The High Street, B&Q, Screwfix, Accessorize and The Perfume Shop, we've got you covered.
 
-WHY CHOOSE DELIVEROO?
 
-- Track every order live from kitchen to doorstep
-- Enjoy fast, reliable delivery when it matters
-- Order for right now or schedule for later
-- Pick up deals you won’t find anywhere else
+Payment & Subscription Terms:
 
-Download the app today and let us bring the best of your neighbourhood straight to your door.
 
-T&Cs apply. Visit the website for full details.
+Choose between the following subscription options for unlimited access to all features:
 
-[View on Apple](https://apps.apple.com/gb/app/deliveroo-food-shopping/id1001501844)
 
-<a id="spotify-musik-und-podcasts"></a>
-## Spotify Musik und Podcasts
+• Weekly Subscription
+• Lifetime Subscription
 
-![Spotify Musik und Podcasts](../../logos/324684580-7e38536c.png)
 
-Entdecke eine riesige Auswahl an Podcasts und Musik – kostenlos auf Spotify. Stelle Playlists zusammen und streame Millionen von Songs, Alben und Podcasts kostenlos auf dem Smartphone oder Tablet. Mit Spotify Premium kannst du Musik herunterladen, Musik offline hören und mit Hörbüchern aus aller Welt in spannende Geschichten eintauchen.
+FREE TRIAL FOR 7 DAYS - OFFERING UNLIMITED GALLERY CLEANING FOR A LIMITED TIME
 
-Warum Spotify als Musikplayer und Podcast-App verwenden? Hier einige der Vorteile:
-• Streame über 100 Millionen Songs und 6 Millionen Podcasts.
-• Entdecke von Spotify zusammengestellte Playlists mit Musik von deinen Lieblingskünstler*innen.
-• Suche schnell und einfach nach Lieblingssongs, -alben und -Podcasts.
-• Erhalte personalisierte Musikempfehlungen ganz nach deinem Geschmack.
-• Abonniere deine Lieblings-Podcasts kostenlos und stelle deine eigene Podcast-Bibliothek zusammen.
 
-Spotify Free ist mehr als ein Musikplayer. Du kannst Podcasts und Musik kostenlos streamen, personalisierte Playlists entdecken oder deine eigenen zusammenstellen und teilen. Und auch bei Neuerscheinungen und Events deiner Lieblingskünstler*innen bleibst du immer auf dem Laufenden.
-• Streame Millionen Songs und Podcasts kostenlos.
-• Erstelle Playlists mit deiner Lieblingsmusik.
-• Teile Songs und Playlists mit Freund*innen und Familie. (In manchen Regionen können Einschränkungen gelten.)
-• Entdecke personalisierte Playlists. Du kannst auch welche mit Freund*innen erstellen.
-• In „Dein Mix der Woche“ findest du jede Woche neue Songs, die dir gefallen könnten.
-• Mit der Playlist „Release Radar“ und „New Music Friday“ bleibst du auf dem Laufenden.
-• Finde heraus, wann deine Lieblingskünstler*innen in der Nähe auftreten.
-• In Spotify Wrapped siehst du jedes Jahr deine am meisten gestreamten Songs, Genres, Künstler*innen, Podcasts und mehr.
-• Höre Musik auf mehreren Geräten – Spotify macht’s möglich.
-• Streame Musik über Spotify Connect auf Smart Speakern und gib Musik über PC, Laptop, Smart-TV, Chromecast, PlayStation®, XBOX®, Wearables, in deinem Auto und mehr wieder. Begrenzte Anzahl von Gerätemodellen.
+***You may cancel your subscription at any time***
 
-Mit Spotify Premium genießt du die Vorteile eines Offline-Musikplayers und von Musik ohne Internet. Dank der Downloader-Funktion kannst du Songs, Podcasts und Playlists auch offline wiedergeben, egal wo du bist.
-• Hör Musik, Podcasts und Hörbücher an einem Ort.
-• Musik ohne Werbeunterbrechungen: Genieße deine Musik ohne Ads.
-• Spiele Inhalte auf Abruf ab.
-• Hörbücher mit Spotify Premium sind derzeit in Australien, Kanada, Irland, Neuseeland, den USA und dem Vereinigten Königreich verfügbar. Nutzer*innen von Premium Individual und Manager*innen von Duo und Family Abos können mit 15 Wiedergabestunden/Monat mehr als 250.000 Hörbücher streamen.
-• Genieße hochwertiges Audio auf unterstützen Geräten.
-• Spotify bietet jetzt einen KI-DJ: Dieser persönliche DJ kennt deinen Musikgeschmack und wählt Songs für dich aus.
-• Streame über PC, Smartphone, Tablet, Smartwatch und im Auto.
-• Hoste einen Jam mit Freund*innen, um in Echtzeit miteinander Musik zu hören und gemeinsam zu bestimmen, was als Nächstes läuft.
-• Lade Musik herunter und hör Podcasts und Hörbücher offline, auch ohne Internetverbindung.
-• Kein Vertrag erforderlich – das Spotify Premium Abo ist jederzeit kündbar.
 
-Mit Spotify kannst du überall Musik spielen. Streame deine Lieblingssongs und entdecke neue Musik, Podcasts und Hörbücher mit der Musik-App von Spotify.
+Cleanup’s free trial allows you unlimited access to all features for the duration of 7 days. Your account will be automatically charged for renewal, based on the annual subscription plan, within 24 hours before the end of the 7 days free trial period.
 
-DIR GEFÄLLT SPOTIFY?
-Folge uns auf Instagram: https://www.instagram.com/spotify
-Folge uns auf TikTok: https://www.tiktok.com/@spotify
 
-[View on Apple](https://apps.apple.com/gb/app/spotify-music-and-podcasts/id324684580)
+You can cancel auto-renewal at any time, given that the cancellation is at least 24 hours before the end of the current period. Any unused portion of a free trial period will be forfeited when making a purchase of an auto-renewing subscription.
 
-<a id="amazon-shopping"></a>
-## Amazon Shopping
 
-![Amazon Shopping](../../logos/335187483-4a4e87ea.png)
+***Manage your subscription directly from your iPhone***
+Subscriptions can be managed by the user and auto-renewal can be turned off by going to the Account Settings:
+- Open the Settings app.
+- Tap your name.
+- Tap Subscriptions.
+- Tap the subscription that you want to manage.
 
-Comprehensive
-Quickly search, get product details, read reviews and purchase millions of products available from Amazon.co.uk, Amazon.com.be and other merchants.
 
-Convenient
-Sign in with your existing Amazon account to access your basket, payment and shipping options. No need to create a new account to manage your 1-Click settings and wish lists, track your orders and use your Prime membership benefits. Shop just as you do on the web.
- 
-Fast
-Compare prices and check availability instantly by scanning a barcode, snapping a picture or typing your search. 
- 
-Secure
-All purchases are routed through Amazon's secure servers.
- 
-Universal
-Shop Amazon.co.uk, Amazon.de, Amazon.es, Amazon.fr, Amazon.com, Amazon.it, Amazon.cn, Amazon.co.jp or Amazon.com.be from a single app.
 
-By using this app, you agree to Amazon’s Conditions of Use (www.amazon.co.uk/conditionsofuse or www.amazon.com.be/conditionsofuse). Please see our Privacy Notice (www.amazon.co.uk/privacynotice or www.amazon.com.be/privacynotice), our Cookies Notice (www.amazon.co.uk/cookies or www.amazon.com.be/cookies) and our Interest-Based Ads Notice (www.amazon.co.uk/interestbasedads or ou www.amazon.com.be/interestbasedads).
 
-If your device supports TrueDepth technology, the app will use your device camera to detect your facial movements only while using certain features such as virtually try-on products like sunglasses. All information processed using this technology remains on your device and is not otherwise stored, processed or shared by Amazon.
+Privacy policy: https://cleanup.photos/privacy
+Terms of use: https://cleanup.photos/terms
 
-[View on Apple](https://apps.apple.com/gb/app/amazon-shopping/id335187483)
-
-<a id="netflix"></a>
-## Netflix
-
-![Netflix](../../logos/363590051-fffc9d30.png)
-
-Auf der Suche nach den angesagtesten Filmen und Serien aus aller Welt? Die gibt’s bei Netflix.
-
-Entdecken Sie preisgekrönte Serien, Filme, Live-Events, Podcasts und Games unterwegs – alles in der Netflix-App. Egal, ob Sie auf Reisen oder auf dem Weg zur Arbeit sind oder einfach nur eine Pause einlegen wollen: Ab jetzt verpassen Sie nichts mehr auf Netflix.
-
-Was Sie an Netflix lieben werden:
-
-– Einfache Navigation mit Verknüpfungen am unteren Bildschirmrand zum schnellen Stöbern oder direkten Aufrufen Ihrer Favoriten
-
-– Eine neue Möglichkeit, um herauszufinden, was als Nächstes kommt, inklusive eines Feeds mit neuen Clips
-
-– Eine Welt voller Unterhaltung mit Serien, Filmen, Live-Events, Games und Podcasts – alles an einem Ort
-
-– Ihre Favoriten jederzeit im Blick – von Ihren Lieblingsmomenten bis zu „Meine Liste“ finden Sie alles auf dem Tab „Mein Netflix“.
-
-– Personalisierte Empfehlungen auf Basis Ihrer Bewertungen. Sofortige Benachrichtigungen bei Neuerscheinungen, neuen Folgen und Live-Events
-
-Die Netflix-Mitgliedschaft ist ein monatliches Abo, das mit Ihrer Registrierung beginnt. Sie können jederzeit problemlos online kündigen – rund um die Uhr. Ganz ohne langfristige Verträge oder Kündigungsgebühren. Wir möchten einfach, dass Ihnen das, was Sie sich ansehen, gefällt.
-
-Bitte beachten Sie, dass die App-Datenschutzinformationen für Daten gelten, die über die Netflix-App für iOS, iPadOS und tvOS erhoben werden. In der Datenschutzerklärung von Netflix (siehe Link unten) erfahren Sie mehr darüber, welche Daten wir in anderen Zusammenhängen, z. B. bei der Kontoregistrierung, erheben.
-
-Datenschutzrichtlinie: www.netflix.com/privacy
-
-Nutzungsbedingungen: www.netflix.com/terms
-
-Telefonnummer: +18667160414
-
-E-Mail: iosappstore@netflix.com
-
-[View on Apple](https://apps.apple.com/gb/app/netflix/id363590051)
+[View on Apple](https://apps.apple.com/gb/app/cleanup-clean-storage-space/id1510944943)
 
 <a id="ebay-kaufen-verkaufen"></a>
 ## eBay: kaufen & verkaufen
@@ -2924,269 +3090,63 @@ Dein Feedback ist uns wichtig. Bei Fragen und Kommentaren kontaktiere uns einfac
 
 [View on Apple](https://apps.apple.com/gb/app/ebay-marketplace-shopping-app/id282614216)
 
-<a id="google-chrome"></a>
-## Google Chrome
-
-![Google Chrome](../../logos/535886823-e8d3b1b6.png)
-
-Chrome ist der schnelle, sichere Browser von Google und bietet dir unzählige Möglichkeiten im Web. Lade ihn noch heute herunter und überzeuge dich selbst.
-
-DAS BESTE VON GOOGLE IN CHROME
-
-• GOOGLE SUCHE: Du findest in Sekundenschnelle Antworten auf alle deine Fragen – wenn du möchtest, auch per Sprachbefehl.
-• GOOGLE LENS: Du kannst nach allem suchen, was du auf dem Display oder durch die Kamera siehst.
-• GOOGLE ÜBERSETZER: Unser Dienst unterstützt mehr als 130 Sprachen. Ein Klick genügt – du kannst sogar ganze Websites übersetzen lassen.
-
-ERSTKLASSIGE SICHERHEITSFUNKTIONEN
-
-• MODUS „ERWEITERTER SCHUTZ“: Dieser Chrome-Modus sorgt für höchstmöglichen Schutz, wenn du im Web unterwegs bist.
-• SICHERHEITSCHECK: Wir informieren dich mit proaktiven Sicherheitswarnungen rechtzeitig über Sicherheitsprobleme, damit du dich auf das Wesentliche konzentrieren kannst.
-• GOOGLE PASSWORTMANAGER: Mit diesem Dienst kannst du Passwörter erstellen und speichern, damit du dich immer und überall schnell anmelden kannst. Außerdem warnt er dich, wenn deine Passwörter doch einmal in Gefahr sein sollten.
-
-VERFÜGBAR AUF ALLEN DEINEN GERÄTEN
-
-• GERÄTEÜBERGREIFENDE SYNCHRONISIERUNG: Wichtige Dinge wie Lesezeichen, Tabs und Passwörter lassen sich speichern und sind dann sofort verfügbar, wenn du dich auf deinem Smartphone, Computer oder Tablet in Chrome anmeldest.
-• TABGRUPPEN: Dank Tabgruppen behältst du beim Surfen immer den Überblick, auch wenn du mehrere Geräte nutzt.
-• AUTOFILL: Du kannst Zahlungsinformationen, Adressen und Passwörter speichern und automatisch in Onlineformulare eintragen lassen. Das spart jede Menge Zeit.
-
-Funktionsverfügbarkeit kann je nach Land und Sprache variieren. Kompatibilität variiert. Antworten sollten auf ihre Richtigkeit geprüft werden.
-
-[View on Apple](https://apps.apple.com/gb/app/google-chrome/id535886823)
-
-<a id="voi-e-scooter-e-bikes"></a>
-## Voi – E-Scooter & E-Bikes
-
-![Voi – E-Scooter & E-Bikes](../../logos/1395921017-7df9c9f9.png)
-
-Leih dir einen E-Scooter (E-Roller) oder ein E-Bike mit nur einem Tippen auf deinem Telefon und du erreichst jeden Ort in der Stadt innerhalb weniger Minuten. Lad dir einfach die kostenlose Voi-App herunter, erstelle ein Konto und los geht’s!
-
-EINE NEUE ART DER FORTBEWEGUNG
-Voi bietet ein neues Maß an Mobilität für Stadtbewohner, die clever unterwegs sein und weniger Geld ausgeben wollen, ohne die Umwelt zu belasten. Tausch also die U-Bahn, den Bus oder das Auto (und spar dir den Ärger mit dem Parken!) gegen einen gemeinsam genutzten E-Scooter oder ein E-Bike und fahre stilvoll durch die Stadt, ohne einen ökologischen Fußabdruck zu hinterlassen. Mit einem E-Scooter oder E-Bike durch die Straßen zu rollen, ist die perfekte Möglichkeit, günstig eine neue Stadt zu erkunden oder einfach die eigene Heimatstadt aus einer anderen Perspektive zu erleben.
-
-IM HANDUMDREHEN LOSFAHREN:
-1. Hol dir die kostenlose Voi-App und erstelle ein Konto.
-2. Finde einen E-Scooter oder ein E-Bike in deiner Nähe mit der In-App-Karte.
-3. Schalte den E-Scooter oder das E-Bike durch Scannen des QR-Codes am Lenker frei.
-4. Fahre mit dem E-Scooter oder E-Bike los und erreiche dein Ziel in kürzester Zeit.
-
-E-SCOOTER ODER E-BIKE?
-Der E-Scooter von Voi ist eine ausgezeichnete Wahl, wenn man schnell und auf einer etwas kürzeren Strecke unterwegs sein muss, während das E-Bike ideal für längere Strecken ist.
-
-PREISE UND PÄSSE
-Spar dir mit dem Voi Pass jedes Mal die Freischaltgebühr – wähle ein Abo mit oder ohne Fahrminuten, schnapp dir ein Paket mit ermäßigten Minuten (unbegrenzte Freischaltungen immer inklusive!) oder zahle einfach nach Bedarf.
-
-Die Preise variieren je nach Ort, Zeit und Fahrzeugtyp. Prüfe die App auf aktuelle Tarife, Angebote und verfügbare Optionen in deiner Region.
-
-UM DIE ECKE, AUF DEM GANZEN KONTINENT
-Mit Voi kannst du über 100 Städte in ganz Europa auf zwei Rädern erkunden. Prüfe unter cities.voi.com/city, ob es in deiner Nähe einen E-Scooter oder ein E-Bike gibt.
-
-VERKEHRSSICHERHEIT BEGINNT MIT DIR
-Die Entscheidungen, die du beim Fahren eines E-Scooters oder E-Bikes triffst, haben nicht nur Auswirkungen auf dich, sondern auch auf alle anderen Verkehrsteilnehmer. Machen wir es also richtig! Informiere dich über die Verkehrsregeln, bevor du mit einem E-Scooter oder E-Bike losfährst. Bleib auf den Radwegen oder in der Nähe des Bordsteins und meide Bürgersteige. Fahre nie unter Alkoholeinfluss, und trage immer einen Helm, um deinen Kopf zu schützen. Oh, und fahrt nicht zu zweit – immer nur eine Person pro E-Scooter oder E-Bike.
-
-ZUM ERSTEN MAL AUF EINEM E-SCOOTER?
-Wenn du noch nie einen E-Scooter benutzt hast, aktiviere den Modus mit reduzierter Geschwindigkeit in der App. Dadurch wird die Höchstgeschwindigkeit des Scooters begrenzt, so dass du langsam anfangen kannst, während du die Bedienung des Fahrzeugs lernst.
-
-PARKEN VON E-SCOOTERN UND E-BIKES
-Richtiges Parken ist eine Frage der Sicherheit und Zugänglichkeit. Informiere dich über die örtlichen Regeln und Vorschriften für das Parken von E-Scootern und E-Bikes – und halte sie ein. Parke deinen Voi E-Scooter oder dein E-Bike immer aufrecht, benutze den Ständer und achte darauf, dass er nicht den Weg von Fußgängern, Radfahrern oder anderen Fahrzeugen versperren.
-
-LERNEN UND VERDIENEN
-Die RideSafe Academy bietet Mikrokurse an, die dir wichtige Kenntnisse und hilfreiche Tipps zu den örtlichen Verkehrsregeln für E-Scooter und E-Bikes sowie zur Fahrersicherheit vermitteln – und das alles auf eine unterhaltsame und ansprechende Art. Stärke dein Selbstvertrauen im Straßenverkehr und werde mit einer kostenlosen Voi-Fahrt belohnt! Die Kurse sind für alle kostenlos und in mehreren Sprachen verfügbar. Geh zu ridesafe.voi.com.
-
-[View on Apple](https://apps.apple.com/gb/app/voi-e-scooters-e-bikes/id1395921017)
-
-<a id="lime-ridegreen"></a>
-## Lime - #RideGreen
-
-![Lime - #RideGreen](../../logos/1199780189-d0b8e8a1.png)
-
-Sie müssen Orte besuchen und Menschen treffen? Mit einem emissionsfreien E-Bike oder E-Scooter von Lime kommen Sie mühelos und pünktlich ans Ziel! 
-
-
-BEGINNEN SIE IHRE FAHRT IN 3 SCHRITTEN
-
-Schritt 1
-
-Laden Sie die App herunter, erstellen Sie ein Konto und stimmen Sie unsere Allgemeinen Geschäftsbedingungen zu: https://www.li.me/user-agreement
-
-Datenschutzerklärung 
-
-https://www.li.me/legal/privacy-policy/ 
-
-
-Schritt 2 
-
-Suchen Sie auf der Karte nach einem Lime-Fahrzeug in Ihrer Nähe (die Verfügbarkeit der Fahrzeuge hängt von Ihrer Stadt und dem Angebot ab)
-
-
-Schritt 3
-
-Entsperren Sie Ihr Fahrzeug durch Scannen des QR-Codes, Eingabe des Kennzeichens oder durch Tippen auf eine Schaltfläche in der App.
-
-FAHREN SIE VERANTWORTUNGSVOLL
-
-Eine sichere Gemeinschaft beginnt mit verantwortungsvollem Fahren. Es ist wichtig, sich vor jeder Fahrt an die Straßenverkehrsordnung zu erinnern. Sie sollten stets:
-
-
-- Auf Radwegen fahren, niemals auf Bürgersteigen
-
-- Beim Fahren einen Helm tragen
-
-- Nicht auf Gehwegen, Einfahrten und Zufahrtsrampen parken
-
-- Besuchen Sie für weitere Informationen https://safety.li.me/
-
-
-#UMWELTFREUNDLICHFAHREN
-
-Lime hat es sich zur Aufgabe gemacht, eine Zukunft zu gestalten, in der Transportmittel gemeinsam genutzt werden, erschwinglich sind und keine Kohlenstoffemissionen verursachen.
-
-
-Weitere Informationen zu den Produkten und Dienstleistungen von Lime, einschließlich der Berechnung unserer Preise, finden Sie in unseren Allgemeinen Geschäftsbedingungen https://www.li.me/user-agreement.
-
-[View on Apple](https://apps.apple.com/gb/app/lime-ridegreen/id1199780189)
-
-<a id="amazon-prime-video"></a>
-## Amazon Prime Video
-
-![Amazon Prime Video](../../logos/545519333-861c01d2.png)
-
-Sehen Sie Filme, Serien und Sportübertragungen, darunter Amazon Originals wie The Boys, The Marvelous Mrs. Maisel und Tom Clancy’s Jack Ryan oder unsere Empfehlungen speziell für Sie.
-
-App-Funktionen:
-• Videos herunterladen und offline ansehen
-• Neue Filme und beliebte Serien kaufen oder leihen (Verfügbarkeit abhängig vom jeweiligen Marktplatz)
-• Videos mit Chromecast vom Smartphone oder Tablet auf den großen Bildschirm übertragen
-• Individuelle Unterhaltungserlebnisse durch Profile für mehrere Benutzer
-• Blick hinter die Kulissen von Filmen und Serien mit exklusivem X-Ray-Zugang und IMDb
-• Separate tvOS-App herunterladen (erfordert Apple TV, 3. Generation oder neuer) und Sendungen auf Apple TV ansehen
-
-Die Prime Video-App ist jetzt auf Mac verfügbar, wenn Sie die separate macOS-App herunterladen (erfordert macOS Big Sur 11.4 oder höher).
-
-Wenn Sie eine Amazon Prime Video-Mitgliedschaft über iTunes abschließen (sofern verfügbar), wird die Zahlung nach der Bestätigung der Registrierung über Ihr iTunes-Konto abgewickelt. Ihre Mitgliedschaft wird automatisch verlängert, falls die automatische Verlängerung nicht mindestens 24 Stunden vor dem Ende des entsprechenden Abrechnungszeitraums deaktiviert wird. Ihr Konto wird jeweils innerhalb von 24 Stunden vor Ende des Abrechnungszeitraums mit dem Preis des gewählten Pakets belastet. Verwalten Sie Ihre Mitgliedschaft jederzeit über iTunes oder "Mein Konto". Dort können Sie auch die automatische Verlängerung deaktivieren.
-
-Für Kunden in der Europäischen Union, Großbritannien oder Brasilien: Durch die Verwendung dieser App stimmen Sie den Nutzungsbedingungen von Amazon sowie den Nutzungsbedingungen von Prime Video zu, die hier zu finden sind: www.primevideo.com/ww-av-legal-home. Unsere Datenschutzerklärung, unsere Cookie-Richtlinien und unsere Hinweise zu interessenbasierter Werbung können Sie hier nachlesen: www.primevideo.com/ww-av-legal-home. 
- 
-Für alle anderen Kunden: Durch die Verwendung dieser App stimmen Sie den Nutzungsbedingungen und der Datenschutzerklärung von Amazon sowie den Nutzungsbedingungen von Prime Video zu, die hier zu finden sind: www.primevideo.com/ww-av-legal-home.
-
-[View on Apple](https://apps.apple.com/gb/app/amazon-prime-video/id545519333)
-
-<a id="nordvpn-vpn-fast-secure"></a>
-## NordVPN: VPN Fast & Secure
-
-![NordVPN: VPN Fast & Secure](../../logos/905953485-8168dbfe.png)
-
-Looking for a way to browse safer and have more privacy online? Here’s how you can get both. With NordVPN, one tap is all you need to change your IP address, protect your browsing from snoopers, and enjoy the internet the way it was meant to be.
-
-NordVPN is an all-in-one digital security app for an iPhone or iPad, trusted by millions of users worldwide. It shields your online activities from nosy advertisers, cybercriminals, and intrusive internet service providers. How? By stopping trackers and encrypting your traffic to make it unreadable to anyone trying to take a peek at your browsing.
-
-Why NordVPN?
-
-TURBO SPEEDS
-
-We do everything we can to give you VPN connection speeds that are hard to beat. That includes creating custom protocols so you can have super-fast connections without sacrificing security. 
-
-AS EASY AS 1-2-3
-
-Download, login, and connect – that’s it! With our VPN app, one tap is enough to encrypt your internet traffic. You can also set the app to connect automatically and enjoy full peace of mind.
-
-GET HELP 24/7
-
-Whatever it is — app issues, VPN connection problems, or payment options — we’ll sort it. Browse the Support Center, write an email, or visit our website for a live chat with customer support. 
-
-POWERFUL ONLINE SECURITY
-
-NordVPN secures your iPhone data with next-generation encryption algorithms. It would take millions of years to decrypt — so you know the information you send and receive is safe. 
-
-STAY SAFE ON PUBLIC WI-FI
-
-Found a cozy cafe with a Wi-Fi hotspot, but it’s unsecured? Don’t give up! Use our VPN and hide your online activities from snoopers and hackers.
-
-THOUSANDS OF VPN SERVERS
-
-Lightning-fast VPN protocols sure help, but our vast server network is there to do the heavy lifting. Thousands of VPN servers covering 220+ locations mean that the perfect one is always just a tap away. 
-
-PROTECT TEN DEVICES WITH ONE ACCOUNT
-
-Your iPhone is probably not your only device that needs VPN protection. Use NordVPN to secure your laptop, tablet, and smart TV, or set up NordVPN on your router to protect your entire household.  
-
-RELIABLE SERVICE
-
-Unlike a proxy server or the Tor browser, a VPN will not only change your IP. It will also encrypt your traffic and maintain a stable connection with speeds that are hard to match.
-
-Features our users love:
-
-• Strong VPN encryption for top-grade security.
-• Unlimited VPN data for internet freedom.
-• VPN protocols to choose from: NordLynx based on WireGuard, NordWhisper, and OpenVPN.  
-• Thousands of VPN servers worldwide for turbo speeds.
-• 220+ server locations in every corner of the world.
-• Double VPN for even more privacy — encrypt your traffic twice!
-• VPN auto-connect for effortless online protection.
-• Protection against scams and phishing. 
-• Identify leaked credentials with the Dark Web Monitor. 
-
-
-Online security is just a tap away — wind down, connect to NordVPN, and enjoy safer and more private internet access wherever you go.
-
-Users must buy a subscription to be able to use the app.
-WireGuard® is a registered trademark of Jason A. Donenfeld.
-Auto-renewals do not apply to subscriptions purchased from resellers.
-
-“All-in-one" refers to the VPN, scam protection, phishing protection, tracker and ad blocking, and other features available within the NordVPN app, depending on your device and the plan you choose.
-
-For the terms of service, visit: https://nordvpn.com/terms-of-service/
-For the privacy policy, visit: https://nordvpn.com/privacy-policy/
-
-[View on Apple](https://apps.apple.com/gb/app/nordvpn-vpn-fast-secure/id905953485)
-
-<a id="too-good-to-go-essen-retten"></a>
-## Too Good To Go: Essen retten
-
-![Too Good To Go: Essen retten](../../logos/1060683933-84ee091d.png)
-
-Too Good To Go ist dein einfacher Weg, leckere Lebensmittel zu genießen und gleichzeitig Gutes für die Umwelt zu tun. Die #1-App zur Reduzierung von Lebensmittelverschwendung hilft dir, leckere, überschüssige Snacks, Mahlzeiten und Lebensmittel von Läden, Cafés, Supermärkten, Restaurants und Co. in deiner Nähe zu retten – und das zu großartigen Preisen. 
-
-Jedes Jahr werden 40 % der produzierten Lebensmittel verschwendet. Wenn du Lebensmittelverschwendung reduzierst, hilfst du, den Klimawandel einzudämmen (tgtg.to/claims). So sicherst du dir mit Too Good To Go nicht nur preiswerte Mahlzeiten und Lebensmittel, sondern hilfst gleichzeitig mit jeder geretteten Überraschungstüte, den Planeten zu retten. Gemeinsam können wir einen Unterschied bewirken.
- 
-SO FUNKTIONIERT TOO GOOD TO GO:
-
-ENTDECKE DAS ANGEBOT IN DEINER NÄHE
-Lade die App herunter, um auf der Karte Restaurants, Cafés, Bäckereien, Supermärkte und mehr in der Nähe zu finden, die gutes Essen zu einem tollen Preis anbieten.
-
-RETTE DEINE ÜBERRASCHUNGSTÜTE ODER TOO GOOD TO GO PAKET
-Entdecke eine Vielzahl von Überraschungstüten, die mit leckeren, überschüssigen Lebensmitteln gefüllt sind – von Sushi, Pizza und Burger bis hin zu Obst und Gemüse. Du willst dir Produkte deiner Lieblingsmarken lieber liefern lassen? Rette ein Too Good To Go Paket zu einem großartigen Preis, das mit Produkten deiner Lieblingsbrands gefüllt ist. 
-
-BEZAHLBARE MAHLZEITEN
-Rette eine Überraschungstüte oder ein Too Good To Go Paket zu 50% des Preises oder weniger. 
-
-RESERVIERE DEINEN FAVORITEN
-Bestätige den Kauf über die App, um deine Überraschungstüte zu reservieren und die leckere Mahlzeit vor der Verschwendung zu retten. Indem du Lebensmittel rettest, sparst du Geld und trägst dazu bei, Lebensmittelverschwendung zu reduzieren.
-
-GENIESSEN
-Hol deine Überraschungstüte zur vereinbarten Zeit ab oder lass dir dein Too Good To Go Paket direkt nach Hause liefern.
-
- WARUM TOO GOOD TO GO?:
-
-BUDGETFREUNDLICHER GENUSS
-Genieße gute Mahlzeiten zu erschwinglichen Preisen, die sowohl deinen Gaumen als auch deinen Geldbeutel zufriedenstellen.
-
-VIELFALT UND AUSWAHL
-Too Good To Go arbeitet mit einer großen Auswahl an lokalen Favoriten und bekannten Marken zusammen, die alles von Sushi, Pizza, Backwaren und frischen Lebensmitteln bis hin zu leicht lagerbaren Grundnahrungsmitteln wie Snacks, Getränken, Süßigkeiten oder Pasta anbieten.
-
-AUSWIRKUNGEN AUF DIE UMWELT
-Jede gerettete Mahlzeit vermeidet CO2e-Emissionen und die unnötige Nutzung von Wasser und landwirtschaftlicher Fläche (tgtg.to/claims). Indem du  Lebensmittel vor der Verschwendung rettest, machst du einen Schritt in Richtung eines grüneren Planeten. 
-
-EINFACHE ABWICKLUNG
-Die einfache und benutzerfreundliche Oberfläche der App erleichtert dir das Durchsuchen, Auswählen und Speichern von Überraschungstüten oder Too Good To Go Paketen.
-
-BEQUEMLICHKEIT
-Hol deine Überraschungstüte zur vereinbarten Zeit ab oder lass dir ein Too Good To Go Paket direkt nach Hause liefern.
-
-WERDE TEIL DER TOO GOOD TO GO COMMUNITY
-Werde Teil der Community von Foodies, die durch die Reduzierung von Lebensmittelverschwendung einen positiven Einfluss auf die Umwelt ausüben. Lade jetzt die App herunter und fang an, Lebensmittelverschwendung zu reduzieren – eine Überraschungstüte nach der anderen. 
-Lebensmittelverschwendung zu reduzieren hilft, den Klimawandel einzudämmen. Erfahre mehr unter tgtg.to/claims. Für weitere Informationen besuche tgtg.to/claims.
-
-[View on Apple](https://apps.apple.com/gb/app/too-good-to-go-save-good-food/id1060683933)
+<a id="trainpal-cheap-train-tickets"></a>
+## TrainPal: Cheap train tickets
+
+![TrainPal: Cheap train tickets](../../logos/1411737922-2f2fa5b9.png)
+
+Planning a trip across the UK or Europe? Download TrainPal, your all-in-one smart travel app for trains, coaches, flights, and stays. Featured on Channel 5's The Gadget Show, TrainPal helps millions of travellers find cheaper fares and book their journeys with ease.
+
+NEW FEATURES
+TrainPal is no longer just a train ticket and coach booking app. You can now search, compare, and book flights and stays directly in the app. Whether you're commuting across the UK, travelling around Europe or planning an international holiday, TrainPal helps you secure great-value travel deals in one place.
+
+Why travellers choose TrainPal
+• SplitTickets
+Our smart split ticketing algorithm can help you save up to 50% on UK and European rail fares by finding cheaper combinations of train tickets.
+• No booking fees
+Book train tickets, coach tickets and flights with no booking fees and enjoy even better value on every journey.
+• Global travel coverage
+Search and book trains, coaches, flights and stays across 47 countries and regions worldwide.
+• Smart journey planning
+Compare routes, fares and travel options instantly to find cheaper and more convenient journeys.
+• E-tickets
+Travel with paperless e-tickets and skip the queues at the station.
+
+TrainPal partners with over 1,000 trusted rail and coach operators across 47 countries and regions, helping you search, compare and book cheaper train and coach tickets in real time!
+
+Our official rail and coach partners include:
+• United Kingdom: National Rail, Elizabeth Line, ScotRail, LNER, Avanti West Coast, GWR, CrossCountry, East Midlands Railway, National Express and more. 
+From major destinations across the UK, including London, Manchester, Liverpool, Leeds, Glasgow, Birmingham, Brighton, Cambridge and more. Link your Railcard to unlock additional savings on eligible rail fares and get even better value on every journey.
+• Italy: Trenitalia services including Frecciarossa, Frecciargento, Frecciabianca, Intercity, Malpensa Express, Leonardo Express and Eurocity, plus Italo and FlixBus.
+• Europe and beyond: Eurostar, Thalys, Trenitalia, Renfe, Iryo, SNCF, Deutsche Bahn (DB), Lyria, Swiss Federal Railways (SBB), FlixBus and many more leading rail and coach operators.
+
+NEW: Flights and stays, all in one app
+TrainPal now brings transport and stays together in one app, making travel planning easier than ever.
+• Cheaper flights now available
+Compare fares from leading airlines and low-cost carriers across Europe's most popular routes to find cheap flights and limited-time deals. Book one-way, return or multi-city flights with no booking fees. Enjoy fast checkout without registration, plus online check-in and seat selection.
+• Curated stays by TrainPal
+Book quality stays across the UK and Europe directly in the app. Enjoy competitive rates, 24/7 customer support and free cancellation on many stays for a smoother travel experience.
+
+Reliable support for every journey
+• 24/7 customer support
+Our dedicated customer support team is available around the clock.
+• Flexible refunds and changes
+For eligible tickets, request refunds or ticket changes directly in the app without contacting customer support.
+• Fast checkout
+Book tickets in just a few taps with no lengthy registration process required.
+• Business travel invoices
+Need an expense invoice? Request one directly in the app.
+• Secure payments
+Pay with Apple Pay and major credit/debit cards. All customer and payment information is protected with bank-level encryption.
+
+Download TrainPal today and start saving on trains, coaches, flights and stays across the UK and Europe.
+
+Follow TrainPal for exclusive offers & updates!
+Instagram: @trainpal_official
+TikTok: @trainpal_official
+Facebook: @thetrainpal
+
+[View on Apple](https://apps.apple.com/gb/app/trainpal-cheap-train-tickets/id1411737922)
 
 <a id="klarna-verwalte-geld-smarter"></a>
 ## Klarna: Verwalte Geld smarter
@@ -3237,102 +3197,6 @@ Deutschland: https://cdn.klarna.com/1.0/shared/content/legal/terms/de-DE/cashbac
 Österreich: https://cdn.klarna.com/1.0/shared/content/legal/terms/de-AT/cashback
 
 [View on Apple](https://apps.apple.com/gb/app/klarna-smarter-everyday-money/id1115120118)
-
-<a id="dunelm-the-home-of-homes"></a>
-## Dunelm: The Home of Homes
-
-![Dunelm: The Home of Homes](../../logos/6751280607-06666f60.png)
-
-The new Dunelm app is here! Download now for easier, smarter shopping, instant inspiration and updates – at home or on the go. 
-
-
-All of this, just a tap away: 
-
-
--Our full range at your fingertips
-Explore 1,000s of products across furniture, bedding, curtains and more for easier shopping when you want, wherever you are. 
-
-
--Never miss a thing 
-Get alerts for our latest offers, new arrivals and seasonal launches so you’re always in the loop.
-
-
--Find your favourites, faster 
-Seen something you love? Save it straight to your wish list so it’s ready when you are. Build your own collection of ideas to revisit later or share with family and friends. 
-
-
--Need it now? 
-See what’s ready to Click & Collect in your local store in as little as 2 hours.†
-
-
-†Subject to availability
-
-
-Download the app today.
-
-[View on Apple](https://apps.apple.com/gb/app/dunelm-the-home-of-homes/id6751280607)
-
-<a id="flightradar24-flight-tracker"></a>
-## Flightradar24 | Flight Tracker
-
-![Flightradar24 | Flight Tracker](../../logos/382233851-e4e8390d.png)
-
-The world's best flight tracker app - #1 Travel app in over 150 countries.
-
-Turn your iPhone or iPad into a live flight tracker and see planes around the world move in real-time on a detailed map. Or point your device at a plane to find out where it’s going and what kind of aircraft it is. Download for free today and discover why millions are already tracking flights and checking flight status with Flightradar24.
-
-• Watch aircraft move around the world in real-time
-• Identify flights overhead & see flight information—including a photo of the actual aircraft—by simply pointing your device at the sky 
-• See what the pilot of an aircraft sees in 3D 
-• Tap on a plane for flight details such as route, estimated time of arrival, actual time of departure, aircraft type, speed, altitude, high-resolution photos of the actual aircraft & more.
-• See historical data & watch playback of past flights
-• Tap on an airport icon for arrival & departure boards, flight status, aircraft on the ground, current delay stats, & detailed weather conditions
-• Search and bookmark individual flights using flight number, airport, or airline
-• Filter flights by airline, aircraft, altitude, speed, & more
-• Get a detailed list of all flights in your area.
-• View aircraft in 3D with hundreds of new aircraft and airline liveries added.
-
-Flightradar24 is a free app and includes all the above features. If you want even more great features from Flightradar24 | Flight Tracker there are upgrade options—Silver & Gold—and each comes with a free trial.
- 
-SILVER
-
-• 90 days of flight history
-• More aircraft details
-• More flight details, like vertical speed & squawk
-• Filters and alerts to find and track flights
-• Current weather at 3,000+ airports overlaid on the map
- 
-GOLD
-
-• All the features included in Flightradar24 Silver +
-• 365 days of flight history
-• Detailed live map weather layers for clouds & precipitation
-• Aeronautical charts & oceanic tracks showing the pathways flights follow across the sky
-• Air traffic control boundaries that show which controllers are responsible for a flight
-• Extended Mode S data— even more information about a flight’s altitude, speed, and wind & temperature conditions
- 
-If you choose to upgrade to a Silver or Gold subscription, a payment will be charged to your iTunes account at the end of the free trial period. Your account will be charged for renewal within 24 hours prior to the end of the current period. Auto-renewal may be turned off at any time by going to your account settings in the iTunes Store. Silver and Gold upgrade prices are listed in the app as they vary depending on your country and currency. Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable.
-
-HOW IT WORKS
-
-Most aircraft today are equipped with ADS-B transponders that transmit positional data. Flightradar24 has a rapidly growing network of 50,000 ground stations around the world to receive this data that then shows up as aircraft moving on a map in the app. In an expanding number of regions, with the help of multilateration (MLAT), we’re able to calculate the positions of aircraft that don’t have ADS-B transponders. 
-
-CONNECT WITH US
-
-We love getting feedback on FR24. Since we’re unable to respond directly to reviews, you can contact us directly and we’ll be happy to assist.
-• Email (support@fr24.com)
-• X (@Flightradar24)
-• Facebook (@Flightradar24)
-• YouTube (@Flightradar24DotCom)
-
-DISCLAIMER
-
-The use of this app is strictly limited to entertainment purposes. This specifically excludes activities that might endanger yourself or the lives of others. Under no circumstances will the developer of this app be held responsible for incidents resulting from the use of the data or its interpretation or its use contrary to this agreement.
-
-Terms of Service: https://www.flightradar24.com/terms-and-conditions
-EULA: https://www.apple.com/legal/internet-services/itunes/dev/stdeula
-
-[View on Apple](https://apps.apple.com/gb/app/flightradar24-flight-tracker/id382233851)
 
 <a id="airalo-esim-reisen-internet"></a>
 ## Airalo: eSIM-Reisen & Internet
@@ -3481,53 +3345,94 @@ Download the Trip.com app now to discover more amazing features and create your 
 
 [View on Apple](https://apps.apple.com/gb/app/trip-com-flight-hotel-train/id681752345)
 
-<a id="grok-assistant-ia"></a>
-## Grok - Assistant IA
+<a id="octopus-energy"></a>
+## Octopus Energy
 
-![Grok - Assistant IA](../../logos/6670324846-e16cbc5d.png)
+![Octopus Energy](../../logos/1093452209-f0caf062.png)
 
-Grok est un assistant alimenté par l'intelligence artificielle, développé par xAI, conçu pour être d'une véracité maximale, utile et curieux. Obtenez des réponses à toutes vos questions, générez des images frappantes et téléchargez des photos pour mieux comprendre votre monde. Avec Grok, l'univers est entre vos mains !
+Manage your Octopus Energy account from your fingertips.
 
-Caractéristiques principales :
-- DeepSearch : Disposez de votre propre chercheur web qui fournit des réponses détaillées et bien raisonnées à toutes vos interrogations.
-- Think : Faites résoudre par Grok les problèmes les plus complexes en mathématiques, sciences et programmation grâce au modèle de raisonnement de Grok.
-- Génération d'images : Accédez gratuitement à la création d'images de haute qualité grâce aux capacités avancées de Grok AI.
-- En temps réel : Avec un accès aux données actuelles de X et du web, Grok fournit des informations à jour pour vos questions, vous tenant informé des derniers développements.
-- Ton conversationnel : Engageant et humoristique, Grok rend l'apprentissage et la collecte d'informations agréables, le distinguant des autres chatbots IA.
-- Axé sur la confidentialité : Toutes les interactions avec les données sont gérées en gardant à l'esprit la confidentialité des utilisateurs, garantissant une expérience sécurisée conforme à la politique de confidentialité de xAI.
+- Keep track of your account balance
+- View your recent transactions and billing history
+- Manage your payments
+- Get help with your account
 
-Avec Grok comme copilote, naviguer dans l'immense étendue de la connaissance devient un voyage passionnant. Son intégration avec X et son accent sur les informations en temps réel en font le compagnon idéal pour ceux qui recherchent un assistant alimenté par l'IA.
+[View on Apple](https://apps.apple.com/gb/app/octopus-energy/id1093452209)
 
-Conditions de service : https://x.ai/legal/terms-of-service
-Politique de confidentialité : https://x.ai/legal/privacy-policy
+<a id="dunelm-the-home-of-homes"></a>
+## Dunelm: The Home of Homes
 
-Grok par xAI
+![Dunelm: The Home of Homes](../../logos/6751280607-06666f60.png)
 
-[View on Apple](https://apps.apple.com/gb/app/grok-ai-assistant/id6670324846)
-
-<a id="google-authenticator"></a>
-## Google Authenticator
-
-![Google Authenticator](../../logos/388497605-d1240270.png)
-
-Google Authenticator adds an extra layer of security to your online accounts by adding a second step of verification when you sign in. This means that in addition to your password, you'll also need to enter a code that is generated by the Google Authenticator app on your phone.
-
-The verification code can be generated by the Google Authenticator app on your phone, even if you don't have a network or mobile connection.
-
-• Sync your Authenticator codes to your Google Account and across your devices. This way, you can always access them even if you lose your phone.
-
-• Set up your Authenticator accounts automatically with a QR code. This is quick and easy, and it helps to ensure that your codes are set up correctly.
-
-• Support for multiple accounts. You can use the authenticator app to manage multiple accounts, so you don't have to switch between apps every time you need to sign in.
-
-• Support for time-based and counter-based code generation. You can choose the type of code generation that best suits your needs.
-
-• Transfer accounts between devices with a QR code. This is a convenient way to move your accounts to a new device.
+The new Dunelm app is here! Download now for easier, smarter shopping, instant inspiration and updates – at home or on the go. 
 
 
-To use Google Authenticator with Google, you need to enable 2-Step Verification on your Google Account. To get started, visit http://www.google.com/2step
+All of this, just a tap away: 
 
-[View on Apple](https://apps.apple.com/gb/app/google-authenticator/id388497605)
+
+-Our full range at your fingertips
+Explore 1,000s of products across furniture, bedding, curtains and more for easier shopping when you want, wherever you are. 
+
+
+-Never miss a thing 
+Get alerts for our latest offers, new arrivals and seasonal launches so you’re always in the loop.
+
+
+-Find your favourites, faster 
+Seen something you love? Save it straight to your wish list so it’s ready when you are. Build your own collection of ideas to revisit later or share with family and friends. 
+
+
+-Need it now? 
+See what’s ready to Click & Collect in your local store in as little as 2 hours.†
+
+
+†Subject to availability
+
+
+Download the app today.
+
+[View on Apple](https://apps.apple.com/gb/app/dunelm-the-home-of-homes/id6751280607)
+
+<a id="voi-e-scooter-e-bikes"></a>
+## Voi – E-Scooter & E-Bikes
+
+![Voi – E-Scooter & E-Bikes](../../logos/1395921017-7df9c9f9.png)
+
+Leih dir einen E-Scooter (E-Roller) oder ein E-Bike mit nur einem Tippen auf deinem Telefon und du erreichst jeden Ort in der Stadt innerhalb weniger Minuten. Lad dir einfach die kostenlose Voi-App herunter, erstelle ein Konto und los geht’s!
+
+EINE NEUE ART DER FORTBEWEGUNG
+Voi bietet ein neues Maß an Mobilität für Stadtbewohner, die clever unterwegs sein und weniger Geld ausgeben wollen, ohne die Umwelt zu belasten. Tausch also die U-Bahn, den Bus oder das Auto (und spar dir den Ärger mit dem Parken!) gegen einen gemeinsam genutzten E-Scooter oder ein E-Bike und fahre stilvoll durch die Stadt, ohne einen ökologischen Fußabdruck zu hinterlassen. Mit einem E-Scooter oder E-Bike durch die Straßen zu rollen, ist die perfekte Möglichkeit, günstig eine neue Stadt zu erkunden oder einfach die eigene Heimatstadt aus einer anderen Perspektive zu erleben.
+
+IM HANDUMDREHEN LOSFAHREN:
+1. Hol dir die kostenlose Voi-App und erstelle ein Konto.
+2. Finde einen E-Scooter oder ein E-Bike in deiner Nähe mit der In-App-Karte.
+3. Schalte den E-Scooter oder das E-Bike durch Scannen des QR-Codes am Lenker frei.
+4. Fahre mit dem E-Scooter oder E-Bike los und erreiche dein Ziel in kürzester Zeit.
+
+E-SCOOTER ODER E-BIKE?
+Der E-Scooter von Voi ist eine ausgezeichnete Wahl, wenn man schnell und auf einer etwas kürzeren Strecke unterwegs sein muss, während das E-Bike ideal für längere Strecken ist.
+
+PREISE UND PÄSSE
+Spar dir mit dem Voi Pass jedes Mal die Freischaltgebühr – wähle ein Abo mit oder ohne Fahrminuten, schnapp dir ein Paket mit ermäßigten Minuten (unbegrenzte Freischaltungen immer inklusive!) oder zahle einfach nach Bedarf.
+
+Die Preise variieren je nach Ort, Zeit und Fahrzeugtyp. Prüfe die App auf aktuelle Tarife, Angebote und verfügbare Optionen in deiner Region.
+
+UM DIE ECKE, AUF DEM GANZEN KONTINENT
+Mit Voi kannst du über 100 Städte in ganz Europa auf zwei Rädern erkunden. Prüfe unter cities.voi.com/city, ob es in deiner Nähe einen E-Scooter oder ein E-Bike gibt.
+
+VERKEHRSSICHERHEIT BEGINNT MIT DIR
+Die Entscheidungen, die du beim Fahren eines E-Scooters oder E-Bikes triffst, haben nicht nur Auswirkungen auf dich, sondern auch auf alle anderen Verkehrsteilnehmer. Machen wir es also richtig! Informiere dich über die Verkehrsregeln, bevor du mit einem E-Scooter oder E-Bike losfährst. Bleib auf den Radwegen oder in der Nähe des Bordsteins und meide Bürgersteige. Fahre nie unter Alkoholeinfluss, und trage immer einen Helm, um deinen Kopf zu schützen. Oh, und fahrt nicht zu zweit – immer nur eine Person pro E-Scooter oder E-Bike.
+
+ZUM ERSTEN MAL AUF EINEM E-SCOOTER?
+Wenn du noch nie einen E-Scooter benutzt hast, aktiviere den Modus mit reduzierter Geschwindigkeit in der App. Dadurch wird die Höchstgeschwindigkeit des Scooters begrenzt, so dass du langsam anfangen kannst, während du die Bedienung des Fahrzeugs lernst.
+
+PARKEN VON E-SCOOTERN UND E-BIKES
+Richtiges Parken ist eine Frage der Sicherheit und Zugänglichkeit. Informiere dich über die örtlichen Regeln und Vorschriften für das Parken von E-Scootern und E-Bikes – und halte sie ein. Parke deinen Voi E-Scooter oder dein E-Bike immer aufrecht, benutze den Ständer und achte darauf, dass er nicht den Weg von Fußgängern, Radfahrern oder anderen Fahrzeugen versperren.
+
+LERNEN UND VERDIENEN
+Die RideSafe Academy bietet Mikrokurse an, die dir wichtige Kenntnisse und hilfreiche Tipps zu den örtlichen Verkehrsregeln für E-Scooter und E-Bikes sowie zur Fahrersicherheit vermitteln – und das alles auf eine unterhaltsame und ansprechende Art. Stärke dein Selbstvertrauen im Straßenverkehr und werde mit einer kostenlosen Voi-Fahrt belohnt! Die Kurse sind für alle kostenlos und in mehreren Sprachen verfügbar. Geh zu ridesafe.voi.com.
+
+[View on Apple](https://apps.apple.com/gb/app/voi-e-scooters-e-bikes/id1395921017)
 
 <a id="meta-ai"></a>
 ## Meta AI
@@ -3560,103 +3465,244 @@ Certaines fonctionnalités de Meta AI ne sont disponibles que dans certains pays
 
 [View on Apple](https://apps.apple.com/gb/app/meta-ai/id1558240027)
 
-<a id="commerce-b2b-avec-alibaba"></a>
-## Commerce B2B avec Alibaba
+<a id="flightradar24-flight-tracker"></a>
+## Flightradar24 | Flight Tracker
 
-![Commerce B2B avec Alibaba](../../logos/503451073-8816673b.png)
+![Flightradar24 | Flight Tracker](../../logos/382233851-e4e8390d.png)
 
-Qu'est-ce qu'Alibaba.com ?
-Alibaba.com est l'un des principaux marchés mondiaux de commerce électronique B2B. Notre application vous permet de vous approvisionner en produits auprès de fournisseurs mondiaux, le tout depuis le confort de votre appareil mobile.
+The world's best flight tracker app - #1 Travel app in over 150 countries.
 
-Achetez en toute confiance
- Notre service d'assurance protège vos commandes et vos paiements sur la plateforme, vous permettant d'acheter en toute sécurité et facilement avec une assistance étendue.
+Turn your iPhone or iPad into a live flight tracker and see planes around the world move in real-time on a detailed map. Or point your device at a plane to find out where it’s going and what kind of aircraft it is. Download for free today and discover why millions are already tracking flights and checking flight status with Flightradar24.
 
-Produits personnalisables
- Rencontrez des fournisseurs avec des années d'expérience dans la personnalisation et l'exécution des commandes pour les vendeurs sur Amazon, eBay, Wish, Etsy, Mercari, Lazada, etc. 
+• Watch aircraft move around the world in real-time
+• Identify flights overhead & see flight information—including a photo of the actual aircraft—by simply pointing your device at the sky 
+• See what the pilot of an aircraft sees in 3D 
+• Tap on a plane for flight details such as route, estimated time of arrival, actual time of departure, aircraft type, speed, altitude, high-resolution photos of the actual aircraft & more.
+• See historical data & watch playback of past flights
+• Tap on an airport icon for arrival & departure boards, flight status, aircraft on the ground, current delay stats, & detailed weather conditions
+• Search and bookmark individual flights using flight number, airport, or airline
+• Filter flights by airline, aircraft, altitude, speed, & more
+• Get a detailed list of all flights in your area.
+• View aircraft in 3D with hundreds of new aircraft and airline liveries added.
 
-Approvisionnement facile
- Découvrez des millions de produits prêts à expédier dans toutes les catégories de l'industrie. Dites aux fournisseurs ce dont vous avez besoin et obtenez rapidement des devis grâce aux services de demande de devis.
+Flightradar24 is a free app and includes all the above features. If you want even more great features from Flightradar24 | Flight Tracker there are upgrade options—Silver & Gold—and each comes with a free trial.
+ 
+SILVER
 
-Expédition rapide
- Alibaba.com s'associe aux principaux transitaires pour fournir des solutions de transport terrestre, maritime et aérien avec des services de livraison ponctuels, un suivi de bout en bout et des prix compétitifs.
+• 90 days of flight history
+• More aircraft details
+• More flight details, like vertical speed & squawk
+• Filters and alerts to find and track flights
+• Current weather at 3,000+ airports overlaid on the map
+ 
+GOLD
 
-Diffusions en direct et visites d'usine
-Interagissez avec les fabricants en temps réel via des démonstrations de produits et des visites d'usines, fournissant un aperçu et une surveillance de la fabrication de vos produits.
+• All the features included in Flightradar24 Silver +
+• 365 days of flight history
+• Detailed live map weather layers for clouds & precipitation
+• Aeronautical charts & oceanic tracks showing the pathways flights follow across the sky
+• Air traffic control boundaries that show which controllers are responsible for a flight
+• Extended Mode S data— even more information about a flight’s altitude, speed, and wind & temperature conditions
+ 
+If you choose to upgrade to a Silver or Gold subscription, a payment will be charged to your iTunes account at the end of the free trial period. Your account will be charged for renewal within 24 hours prior to the end of the current period. Auto-renewal may be turned off at any time by going to your account settings in the iTunes Store. Silver and Gold upgrade prices are listed in the app as they vary depending on your country and currency. Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable.
 
-Catégories populaires et salons professionnels
- Trouvez une large gamme d'articles populaires - des biens de consommation tendance aux matières premières - et rejoignez nos salons professionnels annuels pour découvrir des produits de niche et des remises.
+HOW IT WORKS
 
-Contrôle de qualité
-Choisissez les services de surveillance et d'inspection de la production d'Alibaba.com pour réduire les retards de production et les risques de qualité.
+Most aircraft today are equipped with ADS-B transponders that transmit positional data. Flightradar24 has a rapidly growing network of 50,000 ground stations around the world to receive this data that then shows up as aircraft moving on a map in the app. In an expanding number of regions, with the help of multilateration (MLAT), we’re able to calculate the positions of aircraft that don’t have ADS-B transponders. 
 
-Réductions et promotions
- Débloquez de nouvelles remises et promotions des fabricants et fournisseurs en vedette.
+CONNECT WITH US
 
-Restez à jour
- Utilisez l'application Alibaba.com pour rester à jour sur les nouveaux produits et les promotions de vos fournisseurs préférés.
+We love getting feedback on FR24. Since we’re unable to respond directly to reviews, you can contact us directly and we’ll be happy to assist.
+• Email (support@fr24.com)
+• X (@Flightradar24)
+• Facebook (@Flightradar24)
+• YouTube (@Flightradar24DotCom)
 
-Prise en charge des langues et des devises
- Alibaba.com prend en charge 18 langues et 54 devises locales. Utilisez notre traducteur en temps réel pour communiquer avec les vendeurs dans votre langue maternelle.
+DISCLAIMER
 
-[View on Apple](https://apps.apple.com/gb/app/alibaba-com-b2b-trade-app/id503451073)
+The use of this app is strictly limited to entertainment purposes. This specifically excludes activities that might endanger yourself or the lives of others. Under no circumstances will the developer of this app be held responsible for incidents resulting from the use of the data or its interpretation or its use contrary to this agreement.
 
-<a id="trainpal-cheap-train-tickets"></a>
-## TrainPal: Cheap train tickets
+Terms of Service: https://www.flightradar24.com/terms-and-conditions
+EULA: https://www.apple.com/legal/internet-services/itunes/dev/stdeula
 
-![TrainPal: Cheap train tickets](../../logos/1411737922-2f2fa5b9.png)
+[View on Apple](https://apps.apple.com/gb/app/flightradar24-flight-tracker/id382233851)
 
-Planning a trip across the UK or Europe? Download TrainPal, your all-in-one smart travel app for trains, coaches, flights, and stays. Featured on Channel 5's The Gadget Show, TrainPal helps millions of travellers find cheaper fares and book their journeys with ease.
+<a id="deliveroo-food-shopping"></a>
+## Deliveroo: Food & Shopping
 
-NEW FEATURES
-TrainPal is no longer just a train ticket and coach booking app. You can now search, compare, and book flights and stays directly in the app. Whether you're commuting across the UK, travelling around Europe or planning an international holiday, TrainPal helps you secure great-value travel deals in one place.
+![Deliveroo: Food & Shopping](../../logos/1001501844-4e739c81.png)
 
-Why travellers choose TrainPal
-• SplitTickets
-Our smart split ticketing algorithm can help you save up to 50% on UK and European rail fares by finding cheaper combinations of train tickets.
-• No booking fees
-Book train tickets, coach tickets and flights with no booking fees and enjoy even better value on every journey.
-• Global travel coverage
-Search and book trains, coaches, flights and stays across 47 countries and regions worldwide.
-• Smart journey planning
-Compare routes, fares and travel options instantly to find cheaper and more convenient journeys.
-• E-tickets
-Travel with paperless e-tickets and skip the queues at the station.
+Hungry? Get your favourite meals, takeaways and groceries delivered to your door in minutes with Deliveroo. From local gems to big-name brands, discover thousands of restaurants and supermarkets near you.
 
-TrainPal partners with over 1,000 trusted rail and coach operators across 47 countries and regions, helping you search, compare and book cheaper train and coach tickets in real time!
+ALL YOUR FAVOURITES, DELIVERED:
 
-Our official rail and coach partners include:
-• United Kingdom: National Rail, Elizabeth Line, ScotRail, LNER, Avanti West Coast, GWR, CrossCountry, East Midlands Railway, National Express and more. 
-From major destinations across the UK, including London, Manchester, Liverpool, Leeds, Glasgow, Birmingham, Brighton, Cambridge and more. Link your Railcard to unlock additional savings on eligible rail fares and get even better value on every journey.
-• Italy: Trenitalia services including Frecciarossa, Frecciargento, Frecciabianca, Intercity, Malpensa Express, Leonardo Express and Eurocity, plus Italo and FlixBus.
-• Europe and beyond: Eurostar, Thalys, Trenitalia, Renfe, Iryo, SNCF, Deutsche Bahn (DB), Lyria, Swiss Federal Railways (SBB), FlixBus and many more leading rail and coach operators.
+- Restaurants: Big brands and local gems
+- Grocery: Always fresh with our Freshness Promise
+- Convenience: Beauty essentials, flowers, gifts, DIY and more in minutes
 
-NEW: Flights and stays, all in one app
-TrainPal now brings transport and stays together in one app, making travel planning easier than ever.
-• Cheaper flights now available
-Compare fares from leading airlines and low-cost carriers across Europe's most popular routes to find cheap flights and limited-time deals. Book one-way, return or multi-city flights with no booking fees. Enjoy fast checkout without registration, plus online check-in and seat selection.
-• Curated stays by TrainPal
-Book quality stays across the UK and Europe directly in the app. Enjoy competitive rates, 24/7 customer support and free cancellation on many stays for a smoother travel experience.
+Order from the restaurants you’re craving...
 
-Reliable support for every journey
-• 24/7 customer support
-Our dedicated customer support team is available around the clock.
-• Flexible refunds and changes
-For eligible tickets, request refunds or ticket changes directly in the app without contacting customer support.
-• Fast checkout
-Book tickets in just a few taps with no lengthy registration process required.
-• Business travel invoices
-Need an expense invoice? Request one directly in the app.
-• Secure payments
-Pay with Apple Pay and major credit/debit cards. All customer and payment information is protected with bank-level encryption.
+- Sushi or pizza?
+- A Chinese or Indian?
+- Burgers, pasta, breakfast or something sweet?
 
-Download TrainPal today and start saving on trains, coaches, flights and stays across the UK and Europe.
+All of your favourites are just a tap away from top brands like KFC, McDonald’s, Burger King, Subway, Nando’s, Wagamama, Popeyes, Papa John’s, Wingstop, Giggling Squid, Kokoro, Pizza Express, Five Guys, Franco Manca, Dishoom, Pho, Taco Bell, Starbucks, Gail's Bakery, Joe & the Juice, GBK and more!
 
-Follow TrainPal for exclusive offers & updates!
-Instagram: @trainpal_official
-TikTok: @trainpal_official
-Facebook: @thetrainpal
+Or Fancy something different? Discover thousands of local gems that deliver right to your door.
 
-[View on Apple](https://apps.apple.com/gb/app/trainpal-cheap-train-tickets/id1411737922)
+£0 DELIVERY FEE WITH DELIVEROO PLUS
+
+Become a member and you’ll also unlock:
+
+- Exclusive offers and member-only deals
+- Monthly rewards that help your money go further
+- Discounted service fees*
+- Earn 10% back on restaurant orders over £30*
+
+*Plus Gold members only
+
+It’s the simplest way to save while enjoying what you love most.
+
+SUPERMARKETS SORTED
+
+Get groceries delivered fast from top supermarkets, including Waitrose, ASDA, Morrisons, M&S, Sainsbury’s, Co-Op, Amazon Fresh, Whole Foods, Spar, One Stop, Iceland and Majestic Wine.
+
+MORE THAN FOOD
+
+We’re here for the everyday essentials and little treats too. From Boots and Healf to Not On The High Street, B&Q, Screwfix, Accessorize and The Perfume Shop, we've got you covered.
+
+WHY CHOOSE DELIVEROO?
+
+- Track every order live from kitchen to doorstep
+- Enjoy fast, reliable delivery when it matters
+- Order for right now or schedule for later
+- Pick up deals you won’t find anywhere else
+
+Download the app today and let us bring the best of your neighbourhood straight to your door.
+
+T&Cs apply. Visit the website for full details.
+
+[View on Apple](https://apps.apple.com/gb/app/deliveroo-food-shopping/id1001501844)
+
+<a id="nordvpn-vpn-fast-secure"></a>
+## NordVPN: VPN Fast & Secure
+
+![NordVPN: VPN Fast & Secure](../../logos/905953485-8168dbfe.png)
+
+Looking for a way to browse safer and have more privacy online? Here’s how you can get both. With NordVPN, one tap is all you need to change your IP address, protect your browsing from snoopers, and enjoy the internet the way it was meant to be.
+
+NordVPN is an all-in-one digital security app for an iPhone or iPad, trusted by millions of users worldwide. It shields your online activities from nosy advertisers, cybercriminals, and intrusive internet service providers. How? By stopping trackers and encrypting your traffic to make it unreadable to anyone trying to take a peek at your browsing.
+
+Why NordVPN?
+
+TURBO SPEEDS
+
+We do everything we can to give you VPN connection speeds that are hard to beat. That includes creating custom protocols so you can have super-fast connections without sacrificing security. 
+
+AS EASY AS 1-2-3
+
+Download, login, and connect – that’s it! With our VPN app, one tap is enough to encrypt your internet traffic. You can also set the app to connect automatically and enjoy full peace of mind.
+
+GET HELP 24/7
+
+Whatever it is — app issues, VPN connection problems, or payment options — we’ll sort it. Browse the Support Center, write an email, or visit our website for a live chat with customer support. 
+
+POWERFUL ONLINE SECURITY
+
+NordVPN secures your iPhone data with next-generation encryption algorithms. It would take millions of years to decrypt — so you know the information you send and receive is safe. 
+
+STAY SAFE ON PUBLIC WI-FI
+
+Found a cozy cafe with a Wi-Fi hotspot, but it’s unsecured? Don’t give up! Use our VPN and hide your online activities from snoopers and hackers.
+
+THOUSANDS OF VPN SERVERS
+
+Lightning-fast VPN protocols sure help, but our vast server network is there to do the heavy lifting. Thousands of VPN servers covering 220+ locations mean that the perfect one is always just a tap away. 
+
+PROTECT TEN DEVICES WITH ONE ACCOUNT
+
+Your iPhone is probably not your only device that needs VPN protection. Use NordVPN to secure your laptop, tablet, and smart TV, or set up NordVPN on your router to protect your entire household.  
+
+RELIABLE SERVICE
+
+Unlike a proxy server or the Tor browser, a VPN will not only change your IP. It will also encrypt your traffic and maintain a stable connection with speeds that are hard to match.
+
+Features our users love:
+
+• Strong VPN encryption for top-grade security.
+• Unlimited VPN data for internet freedom.
+• VPN protocols to choose from: NordLynx based on WireGuard, NordWhisper, and OpenVPN.  
+• Thousands of VPN servers worldwide for turbo speeds.
+• 220+ server locations in every corner of the world.
+• Double VPN for even more privacy — encrypt your traffic twice!
+• VPN auto-connect for effortless online protection.
+• Protection against scams and phishing. 
+• Identify leaked credentials with the Dark Web Monitor. 
+
+
+Online security is just a tap away — wind down, connect to NordVPN, and enjoy safer and more private internet access wherever you go.
+
+Users must buy a subscription to be able to use the app.
+WireGuard® is a registered trademark of Jason A. Donenfeld.
+Auto-renewals do not apply to subscriptions purchased from resellers.
+
+“All-in-one" refers to the VPN, scam protection, phishing protection, tracker and ad blocking, and other features available within the NordVPN app, depending on your device and the plan you choose.
+
+For the terms of service, visit: https://nordvpn.com/terms-of-service/
+For the privacy policy, visit: https://nordvpn.com/privacy-policy/
+
+[View on Apple](https://apps.apple.com/gb/app/nordvpn-vpn-fast-secure/id905953485)
+
+<a id="lime-ridegreen"></a>
+## Lime - #RideGreen
+
+![Lime - #RideGreen](../../logos/1199780189-d0b8e8a1.png)
+
+Sie müssen Orte besuchen und Menschen treffen? Mit einem emissionsfreien E-Bike oder E-Scooter von Lime kommen Sie mühelos und pünktlich ans Ziel! 
+
+
+BEGINNEN SIE IHRE FAHRT IN 3 SCHRITTEN
+
+Schritt 1
+
+Laden Sie die App herunter, erstellen Sie ein Konto und stimmen Sie unsere Allgemeinen Geschäftsbedingungen zu: https://www.li.me/user-agreement
+
+Datenschutzerklärung 
+
+https://www.li.me/legal/privacy-policy/ 
+
+
+Schritt 2 
+
+Suchen Sie auf der Karte nach einem Lime-Fahrzeug in Ihrer Nähe (die Verfügbarkeit der Fahrzeuge hängt von Ihrer Stadt und dem Angebot ab)
+
+
+Schritt 3
+
+Entsperren Sie Ihr Fahrzeug durch Scannen des QR-Codes, Eingabe des Kennzeichens oder durch Tippen auf eine Schaltfläche in der App.
+
+FAHREN SIE VERANTWORTUNGSVOLL
+
+Eine sichere Gemeinschaft beginnt mit verantwortungsvollem Fahren. Es ist wichtig, sich vor jeder Fahrt an die Straßenverkehrsordnung zu erinnern. Sie sollten stets:
+
+
+- Auf Radwegen fahren, niemals auf Bürgersteigen
+
+- Beim Fahren einen Helm tragen
+
+- Nicht auf Gehwegen, Einfahrten und Zufahrtsrampen parken
+
+- Besuchen Sie für weitere Informationen https://safety.li.me/
+
+
+#UMWELTFREUNDLICHFAHREN
+
+Lime hat es sich zur Aufgabe gemacht, eine Zukunft zu gestalten, in der Transportmittel gemeinsam genutzt werden, erschwinglich sind und keine Kohlenstoffemissionen verursachen.
+
+
+Weitere Informationen zu den Produkten und Dienstleistungen von Lime, einschließlich der Berechnung unserer Preise, finden Sie in unseren Allgemeinen Geschäftsbedingungen https://www.li.me/user-agreement.
+
+[View on Apple](https://apps.apple.com/gb/app/lime-ridegreen/id1199780189)
 
 <a id="strava-laufen-radfahren"></a>
 ## Strava: Laufen & Radfahren
@@ -3703,165 +3749,98 @@ https://www.strava.com/legal/privacy
 
 [View on Apple](https://apps.apple.com/gb/app/strava-run-bike-walk/id426826309)
 
-<a id="cleanup-clean-storage-space"></a>
-## Cleanup: Clean Storage Space
+<a id="amazon-prime-video"></a>
+## Amazon Prime Video
 
-![Cleanup: Clean Storage Space](../../logos/1510944943-c5e646c3.png)
+![Amazon Prime Video](../../logos/545519333-861c01d2.png)
 
-Clean up your iPhone and optimize storage in seconds. 
+Sehen Sie Filme, Serien und Sportübertragungen, darunter Amazon Originals wie The Boys, The Marvelous Mrs. Maisel und Tom Clancy’s Jack Ryan oder unsere Empfehlungen speziell für Sie.
 
-Remove duplicate photos, videos, and junk emails. Cleanup helps you clear your camera roll, merge duplicate contacts, compress videos, and organize storage — all in one app.
+App-Funktionen:
+• Videos herunterladen und offline ansehen
+• Neue Filme und beliebte Serien kaufen oder leihen (Verfügbarkeit abhängig vom jeweiligen Marktplatz)
+• Videos mit Chromecast vom Smartphone oder Tablet auf den großen Bildschirm übertragen
+• Individuelle Unterhaltungserlebnisse durch Profile für mehrere Benutzer
+• Blick hinter die Kulissen von Filmen und Serien mit exklusivem X-Ray-Zugang und IMDb
+• Separate tvOS-App herunterladen (erfordert Apple TV, 3. Generation oder neuer) und Sendungen auf Apple TV ansehen
 
-OPTIMIZE STORAGE – FREE UP SPACE WITH ONE TAP
-Running low on space? Cleanup gives you powerful tools to take control:
-- Delete duplicate photos and videos
-- Remove similar screenshots and lookalike videos
-- Compress large files without losing quality
-- Clean up spam and promotional emails
-- Delete unused contacts and tidy up your address book
-- Free up storage instantly with one tap.
+Die Prime Video-App ist jetzt auf Mac verfügbar, wenn Sie die separate macOS-App herunterladen (erfordert macOS Big Sur 11.4 oder höher).
 
-CLEAN YOUR GALLERY FAST - DELETE DUPLICATE PHOTOS
-No more manual browsing. Cleanup makes it easy:
-- Instantly detect and delete duplicate photos
-- Smart grouping for similar photos, with “Best” marked
-- Remove large, lookalike videos
-- Identify and delete screenshots in bulk
+Wenn Sie eine Amazon Prime Video-Mitgliedschaft über iTunes abschließen (sofern verfügbar), wird die Zahlung nach der Bestätigung der Registrierung über Ihr iTunes-Konto abgewickelt. Ihre Mitgliedschaft wird automatisch verlängert, falls die automatische Verlängerung nicht mindestens 24 Stunden vor dem Ende des entsprechenden Abrechnungszeitraums deaktiviert wird. Ihr Konto wird jeweils innerhalb von 24 Stunden vor Ende des Abrechnungszeitraums mit dem Preis des gewählten Pakets belastet. Verwalten Sie Ihre Mitgliedschaft jederzeit über iTunes oder "Mein Konto". Dort können Sie auch die automatische Verlängerung deaktivieren.
 
-EMAIL CLEANER - DECLUTTER YOUR INBOX
-Declutter your inbox in seconds:
-- Highlight and remove promo, spam, and unread emails
-- Clear out junk with one tap
+Für Kunden in der Europäischen Union, Großbritannien oder Brasilien: Durch die Verwendung dieser App stimmen Sie den Nutzungsbedingungen von Amazon sowie den Nutzungsbedingungen von Prime Video zu, die hier zu finden sind: www.primevideo.com/ww-av-legal-home. Unsere Datenschutzerklärung, unsere Cookie-Richtlinien und unsere Hinweise zu interessenbasierter Werbung können Sie hier nachlesen: www.primevideo.com/ww-av-legal-home. 
+ 
+Für alle anderen Kunden: Durch die Verwendung dieser App stimmen Sie den Nutzungsbedingungen und der Datenschutzerklärung von Amazon sowie den Nutzungsbedingungen von Prime Video zu, die hier zu finden sind: www.primevideo.com/ww-av-legal-home.
 
-CONTACTS CLEANUP
-Keep your contacts organized and up to date:
-- Merge duplicates
-- Remove incomplete or unused entries
-- View and edit from one place
+[View on Apple](https://apps.apple.com/gb/app/amazon-prime-video/id545519333)
 
-COMPRESS VIDEOS  - SAVE SPACE, KEEP QUALITY
-Save storage without deleting memories:
-- Compress large files with minimal quality loss
-- Select exactly which videos to compress
+<a id="too-good-to-go-essen-retten"></a>
+## Too Good To Go: Essen retten
 
-CHARGING ANIMATIONS
-Turn charging into a personal moment with vivid, customizable animations.
+![Too Good To Go: Essen retten](../../logos/1060683933-84ee091d.png)
 
-SECRET SPACE – HIDE WHAT’S PERSONAL
-Hide personal content in a secure, PIN-protected vault only you can access.
+Too Good To Go ist dein einfacher Weg, leckere Lebensmittel zu genießen und gleichzeitig Gutes für die Umwelt zu tun. Die #1-App zur Reduzierung von Lebensmittelverschwendung hilft dir, leckere, überschüssige Snacks, Mahlzeiten und Lebensmittel von Läden, Cafés, Supermärkten, Restaurants und Co. in deiner Nähe zu retten – und das zu großartigen Preisen. 
 
-WIDGETS
-Add instant cleanup tools to your Home and Lock Screens:
-- Battery and storage widgets
-- Tap to launch cleanup features quickly
+Jedes Jahr werden 40 % der produzierten Lebensmittel verschwendet. Wenn du Lebensmittelverschwendung reduzierst, hilfst du, den Klimawandel einzudämmen (tgtg.to/claims). So sicherst du dir mit Too Good To Go nicht nur preiswerte Mahlzeiten und Lebensmittel, sondern hilfst gleichzeitig mit jeder geretteten Überraschungstüte, den Planeten zu retten. Gemeinsam können wir einen Unterschied bewirken.
+ 
+SO FUNKTIONIERT TOO GOOD TO GO:
 
-REVIEW BEFORE YOU DELETE
-Nothing is removed without your approval.  After each cleaning session, you get a final review screen to double-check your selections.
- No accidental deletions, no surprises — you're always in control.
+ENTDECKE DAS ANGEBOT IN DEINER NÄHE
+Lade die App herunter, um auf der Karte Restaurants, Cafés, Bäckereien, Supermärkte und mehr in der Nähe zu finden, die gutes Essen zu einem tollen Preis anbieten.
 
-OFFLINE AND PRIVATE
-Your data stays private:
-- No internet connection needed
-- No files leave your phone
-- No tracking or data misuse
+RETTE DEINE ÜBERRASCHUNGSTÜTE ODER TOO GOOD TO GO PAKET
+Entdecke eine Vielzahl von Überraschungstüten, die mit leckeren, überschüssigen Lebensmitteln gefüllt sind – von Sushi, Pizza und Burger bis hin zu Obst und Gemüse. Du willst dir Produkte deiner Lieblingsmarken lieber liefern lassen? Rette ein Too Good To Go Paket zu einem großartigen Preis, das mit Produkten deiner Lieblingsbrands gefüllt ist. 
 
-Your privacy is fully protected — even we can’t access your photos.
+BEZAHLBARE MAHLZEITEN
+Rette eine Überraschungstüte oder ein Too Good To Go Paket zu 50% des Preises oder weniger. 
 
+RESERVIERE DEINEN FAVORITEN
+Bestätige den Kauf über die App, um deine Überraschungstüte zu reservieren und die leckere Mahlzeit vor der Verschwendung zu retten. Indem du Lebensmittel rettest, sparst du Geld und trägst dazu bei, Lebensmittelverschwendung zu reduzieren.
 
+GENIESSEN
+Hol deine Überraschungstüte zur vereinbarten Zeit ab oder lass dir dein Too Good To Go Paket direkt nach Hause liefern.
 
+ WARUM TOO GOOD TO GO?:
 
+BUDGETFREUNDLICHER GENUSS
+Genieße gute Mahlzeiten zu erschwinglichen Preisen, die sowohl deinen Gaumen als auch deinen Geldbeutel zufriedenstellen.
 
-Payment & Subscription Terms:
+VIELFALT UND AUSWAHL
+Too Good To Go arbeitet mit einer großen Auswahl an lokalen Favoriten und bekannten Marken zusammen, die alles von Sushi, Pizza, Backwaren und frischen Lebensmitteln bis hin zu leicht lagerbaren Grundnahrungsmitteln wie Snacks, Getränken, Süßigkeiten oder Pasta anbieten.
 
+AUSWIRKUNGEN AUF DIE UMWELT
+Jede gerettete Mahlzeit vermeidet CO2e-Emissionen und die unnötige Nutzung von Wasser und landwirtschaftlicher Fläche (tgtg.to/claims). Indem du  Lebensmittel vor der Verschwendung rettest, machst du einen Schritt in Richtung eines grüneren Planeten. 
 
-Choose between the following subscription options for unlimited access to all features:
+EINFACHE ABWICKLUNG
+Die einfache und benutzerfreundliche Oberfläche der App erleichtert dir das Durchsuchen, Auswählen und Speichern von Überraschungstüten oder Too Good To Go Paketen.
 
+BEQUEMLICHKEIT
+Hol deine Überraschungstüte zur vereinbarten Zeit ab oder lass dir ein Too Good To Go Paket direkt nach Hause liefern.
 
-• Weekly Subscription
-• Lifetime Subscription
+WERDE TEIL DER TOO GOOD TO GO COMMUNITY
+Werde Teil der Community von Foodies, die durch die Reduzierung von Lebensmittelverschwendung einen positiven Einfluss auf die Umwelt ausüben. Lade jetzt die App herunter und fang an, Lebensmittelverschwendung zu reduzieren – eine Überraschungstüte nach der anderen. 
+Lebensmittelverschwendung zu reduzieren hilft, den Klimawandel einzudämmen. Erfahre mehr unter tgtg.to/claims. Für weitere Informationen besuche tgtg.to/claims.
 
+[View on Apple](https://apps.apple.com/gb/app/too-good-to-go-save-good-food/id1060683933)
 
-FREE TRIAL FOR 7 DAYS - OFFERING UNLIMITED GALLERY CLEANING FOR A LIMITED TIME
+<a id="greggs-app-food-drink"></a>
+## Greggs App - Food & Drink
 
+![Greggs App - Food & Drink](../../logos/1098233626-3a09e729.png)
 
-***You may cancel your subscription at any time***
+The all singing-all dancing, new Greggs App has landed, and in our humble opinion, your phone isn’t smart without it!
 
+Whether you want to earn rewards for your shopping, grab and go with our Click + Collect service or just browse our menu – we’ve got you covered.
 
-Cleanup’s free trial allows you unlimited access to all features for the duration of 7 days. Your account will be automatically charged for renewal, based on the annual subscription plan, within 24 hours before the end of the 7 days free trial period.
+We’ve also added some handy extras like a new and improved Shop Finder to make getting your Greggs fix even easier, no matter where you are. And there’s a brand-new Greggs Wallet which stores all your ways to pay in one handy place, including the option to ‘auto top-up’ so you always have money to spend in Greggs.
 
+How does it work?
+ 
+Easy, just download the app for FREE to get in on the action. In your app you’ll get 6 different stamp cards, one for each product category - from sandwiches to sweet treats. Each time you buy a product in a shop or through Click + Collect, you get a stamp. Collect 9 stamps in a category, and the 10th item you choose in that category will be on us.
 
-You can cancel auto-renewal at any time, given that the cancellation is at least 24 hours before the end of the current period. Any unused portion of a free trial period will be forfeited when making a purchase of an auto-renewing subscription.
+If that wasn’t enough to make you smile, as a thank you, we’ll send you tasty treats and little surprises, like a FREE sweet treat on your birthday. Because you know, we’re nice like that :)
 
-
-***Manage your subscription directly from your iPhone***
-Subscriptions can be managed by the user and auto-renewal can be turned off by going to the Account Settings:
-- Open the Settings app.
-- Tap your name.
-- Tap Subscriptions.
-- Tap the subscription that you want to manage.
-
-
-
-
-Privacy policy: https://cleanup.photos/privacy
-Terms of use: https://cleanup.photos/terms
-
-[View on Apple](https://apps.apple.com/gb/app/cleanup-clean-storage-space/id1510944943)
-
-<a id="paddy-power-sports-betting"></a>
-## Paddy Power Sports Betting
-
-![Paddy Power Sports Betting](../../logos/382030091-da6fee8c.png)
-
-Paddy Power Sports Betting – Football Betting, Live Betting & Sports Bet App
-
-The Paddy Power Sports Betting app has everything you need for sports betting, football betting, live betting, ACCAs, Bet Builders, Power Prices, Mix ‘N’ Match and more. Whether you want to bet on football, horse racing, boxing or live sports, Paddy Power gives you more ways to place a sports bet anytime, anywhere.
-
-Join millions of fans using the Paddy Power sports betting app to bet on all your favourite sports. From the Premier League, Champions League, Euros and World Cup to horse racing’s biggest events, our football betting and sports betting markets cover every major sport and event.
-
-Love football betting? Place a bet on every match, player and market with competitive odds, live updates and powerful Bet Builder features. Our sports betting app gives football fans access to more football betting options, player stats and in-play opportunities to improve every sports bet.
-
-We don’t stop at football. Bet on the biggest horse racing festivals, including Cheltenham, the Grand National, Epsom Derby and Glorious Goodwood. You can also enjoy sports betting on boxing, rugby, tennis, golf, darts, snooker and F1. Whether you’re looking for a quick sports bet or building an ACCA, Paddy Power has your betting covered.
-
-Why choose the Paddy Power Sports Betting App?
-
-• Football Betting with Super Sub
-Our exclusive Super Sub feature helps protect your football betting experience. If your selected player is substituted, your bet automatically rolls over to the replacement player — giving your football bet another chance.
-
-• Bet Builder+
-Take your sports betting further. Combine multiple selections across games and events into one exciting sports bet with Bet Builder+.
-
-• Popular Bet Builder
-Looking for inspiration for your next bet? Discover the most popular Bet Builders that other users are backing in real time and improve your next sports bet.
-
-• Enhanced Bet Builder Markets
-More ways to bet with fouls, shots on target and expanded markets to create better football betting and sports betting experiences.
-
-• Bet Builder Tracker
-Track your bet in real time with improved in-play tracking for your Bet Builder and live sports betting.
-
-• ACCA Stats
-Take your betting to the next level with insights into your multiples, top wins and strongest markets to improve future sports bets.
-
-• Player Stats for Football Betting
-Get relevant player data, including goals, cards and shots, to make smarter football betting decisions before you bet.
-
-• Live Streaming & Live Sports Betting
-Watch over 100,000 live sporting events every year, including football betting, horse racing, tennis, snooker and more. Stream and place a sports bet all in one app
-
-• In-Play Betting / Live Betting
-Missed kick-off or race start? No problem. Place a live bet while the action unfolds with fast, exciting live sports betting and in-running markets
-
-• Top Promotions & Free Bets
-Enjoy Moneyback Specials, Justice Pay-outs, Power Boosts and weekly free bets through Paddy’s Rewards Club. Get more from your sports betting experience with promotions designed for every sports bet.
-
-Bet with Paddy Power today. Download the Paddy Power Sports Betting app for football betting, live betting, horse racing, ACCAs, Bet Builders and more. Whether you love football betting or want the best sports betting experience, Paddy Power is the home of your next sports bet.
-
-Find full T&Cs at Paddypower.com -https://www.paddypower.com/aboutUs/Terms.and.Conditions/
-
-This is a real money gambling app. Please gamble responsibly and only bet what you can afford. For gambling addiction help and support, please contact Gamble Aware at 0808 8020 133 (UK)/ 1800 753 753 (IE) or visit https://www.begambleaware.org/ for UK/ http://www.gambleaware.ie/ for IE.
-
-[View on Apple](https://apps.apple.com/gb/app/paddy-power-sports-betting/id382030091)
+[View on Apple](https://apps.apple.com/gb/app/greggs-app-food-drink/id1098233626)
 
 <a id="paypal-geld-senden-verwalten"></a>
 ## PayPal: Geld senden, verwalten
@@ -3900,40 +3879,131 @@ Verwalte deine Abonnements und wiederkehrenden Zahlungen direkt in der PayPal-Ap
 
 [View on Apple](https://apps.apple.com/gb/app/paypal-send-manage-pay/id283646709)
 
-<a id="nhs-app"></a>
-## NHS App
+<a id="commerce-b2b-avec-alibaba"></a>
+## Commerce B2B avec Alibaba
 
-![NHS App](../../logos/1388411277-6c78beb6.png)
+![Commerce B2B avec Alibaba](../../logos/503451073-8816673b.png)
 
-The NHS App gives you a simple and secure way to access a range of NHS services on your smartphone or tablet. 
+Qu'est-ce qu'Alibaba.com ?
+Alibaba.com est l'un des principaux marchés mondiaux de commerce électronique B2B. Notre application vous permet de vous approvisionner en produits auprès de fournisseurs mondiaux, le tout depuis le confort de votre appareil mobile.
 
-You can use the app if you are aged 13 or over. You must be registered with an NHS GP surgery in England or the Isle of Man.
+Achetez en toute confiance
+ Notre service d'assurance protège vos commandes et vos paiements sur la plateforme, vous permettant d'acheter en toute sécurité et facilement avec une assistance étendue.
 
-You can also log in through the NHS website on a computer to use NHS App services.
+Produits personnalisables
+ Rencontrez des fournisseurs avec des années d'expérience dans la personnalisation et l'exécution des commandes pour les vendeurs sur Amazon, eBay, Wish, Etsy, Mercari, Lazada, etc. 
 
-Access NHS services 
-----------------------
-Use the NHS App to access your NHS services, anytime and anywhere. You can request repeat prescriptions, use 111 online, find nearby NHS services and more.
-Depending on your GP surgery, you may also be able to book appointments and contact your surgery about a health problem.
+Approvisionnement facile
+ Découvrez des millions de produits prêts à expédier dans toutes les catégories de l'industrie. Dites aux fournisseurs ce dont vous avez besoin et obtenez rapidement des devis grâce aux services de demande de devis.
 
-Manage your health 
---------------------
-The NHS App gives you a convenient way to view your health information, including your test results.
-You can manage your upcoming appointments and prescription requests. You can also make choices about your health, like your organ donation decision.  
+Expédition rapide
+ Alibaba.com s'associe aux principaux transitaires pour fournir des solutions de transport terrestre, maritime et aérien avec des services de livraison ponctuels, un suivi de bout en bout et des prix compétitifs.
 
-Receive messages 
--------------------
-You can get important messages from your GP surgery and other NHS services through the app. Turning on notifications can alert you to new messages.  
+Diffusions en direct et visites d'usine
+Interagissez avec les fabricants en temps réel via des démonstrations de produits et des visites d'usines, fournissant un aperçu et une surveillance de la fabrication de vos produits.
 
-Manage services for other people 
---------------------------------- 
-You can switch profiles to access services for other people in the NHS App, such as a child or family member. Your GP surgery needs to give you access and you must both share the same surgery.  
+Catégories populaires et salons professionnels
+ Trouvez une large gamme d'articles populaires - des biens de consommation tendance aux matières premières - et rejoignez nos salons professionnels annuels pour découvrir des produits de niche et des remises.
 
-Log in securely 
----------------
-The NHS App will guide you through setting up an NHS login if you do not have one already. You will be asked to prove who you are. The app will then securely connect to information from your NHS services.  If your iPhone or iPad supports Touch ID or Face ID, you can use it to log in, every time you use the app.
+Contrôle de qualité
+Choisissez les services de surveillance et d'inspection de la production d'Alibaba.com pour réduire les retards de production et les risques de qualité.
 
-[View on Apple](https://apps.apple.com/gb/app/nhs-app/id1388411277)
+Réductions et promotions
+ Débloquez de nouvelles remises et promotions des fabricants et fournisseurs en vedette.
+
+Restez à jour
+ Utilisez l'application Alibaba.com pour rester à jour sur les nouveaux produits et les promotions de vos fournisseurs préférés.
+
+Prise en charge des langues et des devises
+ Alibaba.com prend en charge 18 langues et 54 devises locales. Utilisez notre traducteur en temps réel pour communiquer avec les vendeurs dans votre langue maternelle.
+
+[View on Apple](https://apps.apple.com/gb/app/alibaba-com-b2b-trade-app/id503451073)
+
+<a id="royal-mail"></a>
+## Royal Mail
+
+![Royal Mail](../../logos/1435168829-92f48e6f.png)
+
+Track an Item:
+• Simply enter your Royal Mail tracking ID or scan the barcode and we’ll notify you on the progress of your delivery.
+Send an Item:
+• Quickly and easily buy postage in just a few steps. You can either print your own labels or we can print it for you, just take the QR code on the app to one of our Delivery Office Customer Service Points and have your label printed for free.
+Book a Collection:
+• Send and return your parcel from home or work? Book a Parcel Collect so you won’t have to go out, because your postie can collect your items from you. And if you can’t print out a label, don’t worry, we’ll bring one with us.
+Services Near You:
+• We can help you find your nearest drop-off location - Postbox, Parcel Postbox (available 24/7), Royal Mail Delivery Office or Post Office branch including collection times and opening hours.
+Book a Redelivery:
+• Missed a delivery? Using the Royal Mail App, you can easily book a Redelivery to your address, your neighbour’s address or a local Post Office – and you pick the delivery day!
+Change Your Delivery Options to Suit You:
+• You can now change where your parcel is delivered, to a Safeplace or neighbour after it has been sent.
+Set up a Redirection
+•Our Redirection service will ensure you won't miss important documents and will help prevent your personal details falling into the wrong hands.
+Many More Great Features:
+• Find the size and format of your parcel using our Augmented Reality Parcel Sizer;
+• See a photograph of the signature if someone has signed for it, or the Safeplace an item has been delivered to;
+• Get proof of postage sent straight to your phone – get that extra peace of mind when dropping off at any of our locations including Parcel Postboxes;
+• Save items you are tracking and add an alias name making them easier to identify;
+• Save postage receipts – simply take a photo of your receipt and store it to the app;
+• Pay a fee – if you’ve received a grey Fee to pay card you can now pay this on the App
+• Postcode and address finder – if you’re not sure of a full address, or want to check a postcode, just enter part of the address and we’ll fill in the blanks.
+• Click & Drop – the Royal Mail App and Click & Drop work hand in hand, making your interactions more seamless with one login.
+• Alexa integration – if you have an Alexa, you can track your item using a nickname you have previously assigned to an item.
+
+[View on Apple](https://apps.apple.com/gb/app/royal-mail/id1435168829)
+
+<a id="grok-assistant-ia"></a>
+## Grok - Assistant IA
+
+![Grok - Assistant IA](../../logos/6670324846-e16cbc5d.png)
+
+Grok est un assistant alimenté par l'intelligence artificielle, développé par xAI, conçu pour être d'une véracité maximale, utile et curieux. Obtenez des réponses à toutes vos questions, générez des images frappantes et téléchargez des photos pour mieux comprendre votre monde. Avec Grok, l'univers est entre vos mains !
+
+Caractéristiques principales :
+- DeepSearch : Disposez de votre propre chercheur web qui fournit des réponses détaillées et bien raisonnées à toutes vos interrogations.
+- Think : Faites résoudre par Grok les problèmes les plus complexes en mathématiques, sciences et programmation grâce au modèle de raisonnement de Grok.
+- Génération d'images : Accédez gratuitement à la création d'images de haute qualité grâce aux capacités avancées de Grok AI.
+- En temps réel : Avec un accès aux données actuelles de X et du web, Grok fournit des informations à jour pour vos questions, vous tenant informé des derniers développements.
+- Ton conversationnel : Engageant et humoristique, Grok rend l'apprentissage et la collecte d'informations agréables, le distinguant des autres chatbots IA.
+- Axé sur la confidentialité : Toutes les interactions avec les données sont gérées en gardant à l'esprit la confidentialité des utilisateurs, garantissant une expérience sécurisée conforme à la politique de confidentialité de xAI.
+
+Avec Grok comme copilote, naviguer dans l'immense étendue de la connaissance devient un voyage passionnant. Son intégration avec X et son accent sur les informations en temps réel en font le compagnon idéal pour ceux qui recherchent un assistant alimenté par l'IA.
+
+Conditions de service : https://x.ai/legal/terms-of-service
+Politique de confidentialité : https://x.ai/legal/privacy-policy
+
+Grok par xAI
+
+[View on Apple](https://apps.apple.com/gb/app/grok-ai-assistant/id6670324846)
+
+<a id="yuka-food-cosmetic-scanner"></a>
+## Yuka - Food & Cosmetic Scanner
+
+![Yuka - Food & Cosmetic Scanner](../../logos/1092799236-58f89494.png)
+
+◆ 85 MILLION USERS ◆
+
+Yuka is a free mobile app that allows you to scan the barcodes of food and personal care products and instantly see their impact on your health. A rating and detailed information help you understand the analysis of each product.
+
+When a product has a negative impact on your health, Yuka also recommends similar but healthier alternative products.
+
+◆ A 100% INDEPENDENT PROJECT ◆
+
+Yuka is a 100% independent project : product reviews and recommendations of healthier alternatives are done in an objective way. No brand or manufacturer can influence them in one way or another. Furthermore, there is no in-app advertising. You can access detailed information on our business model on our website (www.yuka.io).
+
+◆ 6 MILLION REFERENCED PRODUCTS ◆
+
+Yuka established a database that contains 4 million food products and 2 million cosmetic products.
+
+Each food product is evaluated according to 3 objective criteria: nutritional quality, presence of additives and organic aspect of the product.
+
+The method to analyse cosmetic products is based on the analysis of all the ingredients of the product. Each ingredient is assigned a risk level according to the latest scientific data.
+
+---
+You can choose a Yuka Premium subscription at £15/year to access a search bar, an offline mode, and unlimited history.
+
+Terms of use: https://yuka-app.helpdocs.io/l/en/article/2a12869y56
+
+[View on Apple](https://apps.apple.com/gb/app/yuka-food-cosmetic-scanner/id1092799236)
 
 <a id="dramabox-film-et-drame-court"></a>
 ## DramaBox - Film et Drame Court
@@ -3971,182 +4041,45 @@ Site web du développeur : https://dramaboxdb.com
 
 [View on Apple](https://apps.apple.com/gb/app/dramabox-stream-drama-shorts/id6445905219)
 
-<a id="hbo-max-watch-movies-tv"></a>
-## HBO Max: Watch Movies & TV
-
-![HBO Max: Watch Movies & TV](../../logos/1666653815-283467cf.png)
-
-The most talked about shows and movies featuring the worlds of HBO, the DC Universe, Discovery, and beyond.  
-
-With HBO Max you'll get:  
-• Access to thousands of TV shows and movies.  
-• Award-winning series that everyone's talking about — like the HBO Originals The Last of Us, Succession, The White Lotus, and House of the Dragon.  
-• Stream select live sports from some of your favorite events, leagues and teams. Availability varies by country or region, plan, and by subscription provider.  
-• Get access to TNT Sports with a TNT Sports plan. Enjoy live coverage of this season’s UEFA Champions League and Europa League matches, plus Premier League games. TNT Sports is only available in the UK.
-• The latest hits from HBO, Max Originals, Discovery, Cartoon Network, ID, DC, Adult Swim, and more. 
-• Iconic favorite TV shows like Friends, Rick and Morty, 90 Day Fiancé, Looney Tunes, and more. 
-• Family-friendly entertainment for the whole household. 
-• Fascinating documentaries and unscripted series.  
-
-Features:  
-• Enjoy your favorite shows and movies at home or on the go. HBO Max is available on select TV, web browser, mobile, tablet, and gaming console devices. (Device availability may vary by country or region and by plan.)  
-• Browse or search with ease across HBO, movies, series, genres, and brands.  
-• Download shows and movies you love to watch offline with select plans. (Download limits vary by plan.)  
-• Create personalized profiles for the entire household complete with customizable ratings, and profile PIN protection options.  
-• Pick up episodes and movies where you left off on any of your favorite devices.  
-• Find everything you love, all in one place, with My Stuff.  
-• Watch on multiple devices at the same time. (Limits vary by plan.)  
-• Stream high-quality video up to 4K resolution and surround sound including Dolby Atmos (where available) on select plans. 
-
-Content, sports and feature availability on HBO Max may vary by country, region, and/or by plan. Sports, where available, may in some countries require a separate add-on which must be added to a base plan. Some titles and features shown above may not be available in your country or region. Language availability varies by country and region. 
-
-In the UK & Republic of Ireland, channels, live content, replays and sports (where included in your plan) contain ads. All plans may contain sponsorship and Cross-Promotional Content. 
-
-You can manage or cancel your subscription by visiting Settings > Subscriptions in your HBO Max account. HBO Max is only available in certain territories. 
-
-Purposes disclosed in the App Privacy label may vary based on features or services that may not be available in all countries or regions. HBO Max is only available in certain countries or regions.  
-
-Terms of Use: https://hbomax.com/terms-of-use/
-
-[View on Apple](https://apps.apple.com/gb/app/hbo-max-watch-movies-tv/id1666653815)
-
 <a id="youtube"></a>
 ## YouTube
 
 ![YouTube](../../logos/544007664-2e995546.png)
 
-Hol dir die offizielle YouTube App auf iPhones und iPads und entdecke angesagte Videos weltweit – von den coolsten Musikvideos bis hin zu Hits in Sachen Gaming, Fashion, Beauty, Nachrichten, Bildung und mehr. Du kannst deine Lieblingskanäle abonnieren, eigene Inhalte erstellen sowie Videos mit Freunden teilen und auf allen Geräten wiedergeben.
+Téléchargez l'application YouTube officielle sur votre iPhone ou iPad. Découvrez les contenus regardés partout dans le monde : des clips musicaux du moment aux vidéos populaires sur les jeux vidéo, la mode, la beauté, les actualités, l'éducation et bien plus encore. Abonnez-vous aux chaînes que vous aimez, créez vos propres vidéos, partagez des contenus avec vos amis et profitez de YouTube sur n'importe quel appareil.
 
-Ansehen und abonnieren
-● Auf dem Tab „Start“ findest du persönliche Empfehlungen.
-● Unter „Abos“ siehst du die neuesten Uploads von deinen Lieblingskanälen.
-● Die „Mediathek“ enthält die Videos, die du dir angesehen, mit „Mag ich“ bewertet und für später gespeichert hast.
+Regardez des vidéos et abonnez-vous à des chaînes
+● Explorez les recommandations personnalisées dans "Accueil".
+● Découvrez les nouveautés de vos chaînes préférées dans "Abonnements".
+● Retrouvez les vidéos que vous avez regardées, aimées et enregistrées pour plus tard dans "Bibliothèque".
 
-Verschiedene Themen, angesagte Inhalte sowie aufstrebende Creator, Gamer und Künstler entdecken
-(in ausgewählten Ländern verfügbar)
-● Du kannst dich in Bereichen wie Musik, Gaming, Beauty, Nachrichten und Bildung auf dem Laufenden halten.
-● Auf dem Tab „Entdecken“ siehst du, was auf YouTube und weltweit gerade im Trend liegt.
-● Du erfährst mehr über aufstrebende Creator, Gamer und Künstler (in ausgewählten Ländern verfügbar).
+Explorez des sujets variés, des contenus populaires et nos sélections à découvrir (disponibles dans certains pays)
+● Ne manquez aucune vidéo populaire sur les jeux vidéo, la beauté, les actualités, l'éducation et bien plus encore.
+● Découvrez les tendances sur YouTube et à travers le monde dans "Explorer".
+● Parcourez nos sélections de créateurs, gamers et artistes à découvrir (disponibles dans certains pays).
 
-Mit der YouTube-Community in Kontakt bleiben
-● Über Beiträge, Stories, Premieren und Livestreams kannst du immer mitverfolgen, was es bei deinen Lieblings-Creatorn gerade Neues gibt.
-● In den Kommentaren kannst du dich mit Creatorn und anderen Community-Mitgliedern austauschen.
+Rejoignez la communauté YouTube
+● Suivez vos créateurs favoris via les posts, les stories, les Premières et les diffusions en direct.
+● Participez à la discussion dans les commentaires, et interagissez avec les créateurs et les autres membres de la communauté.
 
-Inhalte über dein Mobilgerät erstellen
-● Du kannst direkt in der App eigene Videos erstellen oder hochladen.
-● Mit Livestreams direkt über die Appkannst du in Echtzeit mit deinen Zuschauern in Kontakt treten.
+Créez des contenus sur votre appareil mobile
+● Créez ou importez vos propres vidéos directement dans l'application.
+● Interagissez avec votre audience en temps réel avec le streaming en direct depuis l'application.
 
-Die passende Lösung für dich und deine Familie finden (in ausgewählten Ländern verfügbar)
-● Jede Familie nutzt Onlinevideos anders. Unter youtube.com/myfamily findest du weitere Informationen zur YouTube Kids App und zu den neuen YouTube-Konten mit Elternaufsicht.
+Choisissez l'expérience adaptée à vos besoins et ceux de votre famille (disponible dans certains pays)
+● L’encadrement de l'accès aux vidéos en ligne varie d'une famille à l'autre. Découvrez les options que nous vous proposons : l'application YouTube Kids et la nouvelle expérience supervisée par les parents sur YouTube (youtube.com/myfamily).
 
-Upgrade auf YouTube Premium durchführen (in ausgewählten Ländern verfügbar)
-● Du kannst dir Videos ansehen, während du andere Apps verwendest oder dein Bildschirm gesperrt ist –ganz ohne Werbeunterbrechungen.
-● Du kannst Videos speichern und jederzeit abspielen – auch im Flugzeug oder auf dem
-Weg zur Arbeit.
-● Die Mitgliedschaft beinhaltet außerdem den Zugriff auf YouTube Music Premium.
+Passez à YouTube Premium (disponible dans certains pays)
+● Regardez des vidéos sans publicité tout en utilisant d'autres applications ou avec l'écran verrouillé.
+● Enregistrez des vidéos pour les regarder quand vous voulez, par exemple dans l'avion ou les transports.
+● Profitez de YouTube Music Premium dans le cadre de vos avantages.
 
-Hinweis: Bei einem Abo über Apple wird dein App Store-Konto in dem Moment mit dem fälligen Betrag belastet, in dem du den Kauf bestätigst. Das Abo wird automatisch verlängert, wenn die automatische Verlängerung nicht bis spätestens 24 Stunden vor Ablauf des aktuellen Abozeitraums deaktiviert wird.
-Die Gebühren für die Verlängerung des Abos werden am letzten Gültigkeitstag des laufenden Abos entsprechend dem gewählten Tarif in Rechnung gestellt. Du kannst deine Abos und die Einstellungen
-für die automatische Verlängerung nach dem Kauf in den Kontoeinstellungen ändern.
+Remarque : Si vous vous abonnez via Apple, le montant de l'abonnement sera prélevé sur votre compte App Store après confirmation de l'achat. L'abonnement est automatiquement renouvelé, sauf si le renouvellement automatique est désactivé au moins 24 heures avant la fin de la période en cours. Le montant du renouvellement de l'abonnement sera prélevé sur le compte dans les 24 heures précédant la fin de la période en cours, au tarif de l'abonnement sélectionné. Vous pouvez gérer vos abonnements et la fonctionnalité de renouvellement automatique dans les paramètres du compte une fois l'achat effectué.
 
-Nutzungsbedingungen für kostenpflichtige Dienste von YouTube: https://www.youtube.com/t/terms_paidservice.
-Datenschutzerklärung: https://www.google.com/policies/privacy
+Conditions d'utilisation du service payant YouTube : https://www.youtube.com/t/terms_paidservice
+Règles de confidentialité : https://www.google.com/policies/privacy
 
 [View on Apple](https://apps.apple.com/gb/app/youtube/id544007664)
-
-<a id="hinge-dating-app-date-meet"></a>
-## Hinge Dating App: Date & Meet
-
-![Hinge Dating App: Date & Meet](../../logos/595287172-2a274159.png)
-
-HINGE IST DIE DATING-APP, DIE ENTWICKELT WURDE, UM GELÖSCHT ZU WERDEN
-Hinge ist für alle, die von Dating-Apps loskommen wollen. Mit einem Profil, das deine Persönlichkeit durch Text, Fotos, Video und Stimme zeigt, entstehen einzigartige Unterhaltungen, die zu tollen Dates führen. 
-
-
-
-SO WIRST DU HINGE WIEDER LOS
-Beim Online-Dating sind die Leute so sehr mit Matching beschäftigt, dass sie sich gar nicht erst persönlich treffen.  Hinge will das ändern. Also haben wir eine Dating-App entwickelt, die gelöscht werden soll. So geht's:
-
-
-
-* Wir lernen schnell deinen Typ kennen. Du wirst nur den für dich besten Personen vorgestellt.
-
-
-
-* Wir zeigen dir die Persönlichkeit einer Person. Du lernst potenzielle Dates durch ihre individuellen Antworten auf Fragen kennen und erfährst auch etwas über ihre religiösen Überzeugungen, ihre Größe, ihre politische Einstellung, ihre Dating-Absichten, ihren Beziehungstyp und vieles mehr.
-
-
-
-* Wir machen es dir leicht, miteinander ins Gespräch zu kommen. Jedes Match beginnt damit, dass jemand einen bestimmten Teil deines Profils mag oder kommentiert.
-
-
-
-* Wir wollen, dass du dich sicher fühlst, wenn du jemanden persönlich triffst, und auf tolle Dates gehst. Die Selfie-Verifizierung macht es Datern auf Hinge einfacher, sicherzustellen, dass sie die sind, die sie vorgeben zu sein.
-
-
-
-* Wir fragen, wie deine Dates laufen. Nachdem du mit einem Match Telefonnummern ausgetauscht hast, melden wir uns bei dir, um zu erfahren, wie dein Date gelaufen ist. So können wir dir in Zukunft bessere Empfehlungen geben.
-
-
-
-PRESSE
-"Die App ist für nach Liebe suchende Personen die erste Adresse." - The Daily Mail
-"Der CEO von Hinge sagt, eine gute Dating-App beruhe auf Verletzlichkeit und nicht auf Algorithmen." - Washington Post
-"Hinge ist die erste Dating-App, die tatsächlich den Erfolg in der realen Welt misst" - TechCrunch
-
-
-
-Die Nutzung der App ist kostenlos. Mitglieder, die alle sehen wollen, die sie mögen oder unbegrenzte Likes senden möchten, können auf Hinge+ upgraden. Für den Zugriff auf zusätzliche Funktionen, einschließlich erweiterter Empfehlungen und bevorzugter Likes, bieten wir HingeX an.
-
-
-
-ABO-INFOS
-Bei der Kaufbestätigung wird das Apple-Konto mit dem Betrag belastet.
-Das Abonnement verlängert sich automatisch, wenn die automatische Verlängerung nicht mindestens 24- Stunden vor Ablauf des aktuellen Zeitraums deaktiviert wird.
-Das Konto wird innerhalb von 24- Stunden vor Ablauf des aktuellen Zeitraums für die Erneuerung belastet.
-Nach dem Kauf können in den Kontoeinstellungen die Abonnements verwaltet und die automatische Erneuerung deaktiviert werden.
-
-
-
-Support: hello@hinge.co
-Nutzungsbedingungen: https://hinge.co/terms.html
-Datenschutzerklärung: https://hinge.co/privacy.html
-
-
-
-Alle Fotos sind von Modellen und dienen nur zur Veranschaulichung.
-
-[View on Apple](https://apps.apple.com/gb/app/hinge-dating-app-match-date/id595287172)
-
-<a id="yuka-food-cosmetic-scanner"></a>
-## Yuka - Food & Cosmetic Scanner
-
-![Yuka - Food & Cosmetic Scanner](../../logos/1092799236-58f89494.png)
-
-◆ 85 MILLION USERS ◆
-
-Yuka is a free mobile app that allows you to scan the barcodes of food and personal care products and instantly see their impact on your health. A rating and detailed information help you understand the analysis of each product.
-
-When a product has a negative impact on your health, Yuka also recommends similar but healthier alternative products.
-
-◆ A 100% INDEPENDENT PROJECT ◆
-
-Yuka is a 100% independent project : product reviews and recommendations of healthier alternatives are done in an objective way. No brand or manufacturer can influence them in one way or another. Furthermore, there is no in-app advertising. You can access detailed information on our business model on our website (www.yuka.io).
-
-◆ 6 MILLION REFERENCED PRODUCTS ◆
-
-Yuka established a database that contains 4 million food products and 2 million cosmetic products.
-
-Each food product is evaluated according to 3 objective criteria: nutritional quality, presence of additives and organic aspect of the product.
-
-The method to analyse cosmetic products is based on the analysis of all the ingredients of the product. Each ingredient is assigned a risk level according to the latest scientific data.
-
----
-You can choose a Yuka Premium subscription at £15/year to access a search bar, an offline mode, and unlimited history.
-
-Terms of use: https://yuka-app.helpdocs.io/l/en/article/2a12869y56
-
-[View on Apple](https://apps.apple.com/gb/app/yuka-food-cosmetic-scanner/id1092799236)
 
 <a id="canva-ki-foto-video-editor"></a>
 ## Canva: KI-Foto- & Video-Editor
@@ -4187,41 +4120,3 @@ Nutzungsbedingungen: https://www.canva.com/policies/terms-of-use/
 Datenschutzrichtlinie: https://www.canva.com/policies/privacy-policy/
 
 [View on Apple](https://apps.apple.com/gb/app/canva-ai-video-photo-editor/id897446215)
-
-<a id="tui-holiday-flights-travel"></a>
-## TUI: Holiday, Flights & Travel
-
-![TUI: Holiday, Flights & Travel](../../logos/643831079-3cef3968.png)
-
-Welcome to TUI: Your Travel Agency App! Book your perfect beach holiday or plan a late summer getaway today. Manage your Air Travel, Package Holidays, Accommodation and holiday extras with TUI! 
-
-With the TUI travel app, whether it’s flights, hotels, cruises, or other accommodation options, we have you covered. With vacation deals and special holiday offers, you can plan and book flights, hotels, cruises, and affordable vacations to destinations worldwide. 
- 
-Whether you're dreaming of exploring the giant pyramids and vibrant cities of Egypt, relaxing on a sunny beach in Cape Verde, or enjoying a short break in the Canary Islands, TUI lets you book the perfect holiday. Stay informed with real-time flight tracking, seasonal vacation offers, the best flight deals, and a personalised holiday countdown. If you love holidays as much as we do, the TUI app is your go-to travel companion for booking hotels, cruises, flights, airport transfers, and managing your entire holiday itinerary. 
- 
-Enjoy 24/7 customer support through our chat feature. Whether you have questions about your flights, hotels, or holiday extras, our team is here to help anytime, anywhere. 
- 
-Love sunny beach getaways to The Balearics or spontaneous European trips to Lapland? Explore our wide selection of cheap flights and accommodation options, complete with expert travel tips and local hidden gems to help you plan the perfect beach holiday package, vacation offer, short break, or cruise. Keep track of your holiday details using our app’s holiday countdown and flight tracker so you can manage your trip with ease. Plus, gain access to a full range of TUI Experiences -  from island-hopping and scenic getaways to guided tours of iconic landmarks in a variety of countries.
- 
-Key Features:
-
-Browse & Book: Discover and book last minute travel flights, hotels and accommodation, transportation, cruises, tailored experiences and adventures. Use filters, save favourites, and add your booking to the app using your unique booking reference.
-
-Stay Informed: Access a live holiday countdown and real-time flight status notifications.
-
-Book Unique Experiences: Easily search and book exciting excursions and activities via the app.
-
-Holiday Support: Chat with our team anytime using the built-in chat feature, even while you're on holiday. We're here for you 24/7, 365 days a year. 
- 
-Holiday Extras:
-
-Travel Checklist: Make air travel stress-free with expert packing tips and pre-flight recommendations.
-Digital Boarding Passes: Save and access boarding passes for most TUI flights all in one place.
-Transfer Information: Track your airport transfer and get return transfer details for your flight home.
-Select Your Plane Seat: Choose the seat you want or even upgrade your flight with Premium Seating.
-Order Travel Money: Make sure you are ready with the right currency for your trip.
-Airport & Hotel Parking: Book airport parking ahead of time so you don’t have to worry about your car.
- 
-Note: Crystal Ski services are not currently available within the app.
-
-[View on Apple](https://apps.apple.com/gb/app/tui-holiday-flights-travel/id643831079)

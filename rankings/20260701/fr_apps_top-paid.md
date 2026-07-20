@@ -1,60 +1,78 @@
 - [PeakFinder](#peakfinder)
-- [Blitzer.de PRO](#blitzer-de-pro)
 - [Shadowrocket](#shadowrocket)
 - [AnkiMobile Flashcards](#ankimobile-flashcards)
-- [Procreate Pocket](#procreate-pocket)
+- [Blitzer.de PRO](#blitzer-de-pro)
 - [WorkOutDoors](#workoutdoors)
+- [Procreate Pocket](#procreate-pocket)
 - [Manager for KuKirin](#manager-for-kukirin)
 - [Heredis 2026](#heredis-2026)
-- [Babyphone 3G](#babyphone-3g)
-- [Wagotabi : Cours de japonais](#wagotabi-cours-de-japonais)
-- [PhotoPills](#photopills)
 - [Alpin Quest PRO – Outdoor GPS](#alpin-quest-pro-outdoor-gps)
 - [TeleGuard](#teleguard)
 - [Monash FODMAP Diet](#monash-fodmap-diet)
-- [AutoSleep - 苹果手表睡眠监测，睡觉记录及智能闹钟](#autosleep-苹果手表睡眠监测-睡觉记录及智能闹钟)
+- [Babyphone 3G](#babyphone-3g)
+- [Wagotabi : Cours de japonais](#wagotabi-cours-de-japonais)
+- [PhotoPills](#photopills)
 - [FL Studio Mobile](#fl-studio-mobile)
-- [HealthFit](#healthfit)
+- [AutoSleep - 苹果手表睡眠监测，睡觉记录及智能闹钟](#autosleep-苹果手表睡眠监测-睡觉记录及智能闹钟)
 - [AutoSnore: 鼾声记录器](#autosnore-鼾声记录器)
 - [MapOut](#mapout)
+- [iReal Pro](#ireal-pro)
+- [HealthFit](#healthfit)
+- [Things 3](#things-3)
 - [HeartWatch: 心脏和活动监测器](#heartwatch-心脏和活动监测器)
 - [Threema. Der sichere Messenger](#threema-der-sichere-messenger)
 - [iVerify Basic](#iverify-basic)
+- [Knoten 3D  (Knots 3D)](#knoten-3d-knots-3d)
 - [SkyView®](#skyview)
 - [WeatherPro](#weatherpro)
+- [Flyskyhy](#flyskyhy)
 - [BorderWatcher](#borderwatcher)
 - [ProCamera. RAW+ Fotografie](#procamera-raw-fotografie)
-- [iReal Pro](#ireal-pro)
 - [Fongo World Edition](#fongo-world-edition)
 - [Rarevision VHS: Retro Cam](#rarevision-vhs-retro-cam)
 - [Wipr 2](#wipr-2)
 - [WikiCamps Australia](#wikicamps-australia)
 - [Cozmo Robot](#cozmo-robot)
+- [Madeira Weather](#madeira-weather)
 - [EE35 Film Camera](#ee35-film-camera)
-- [Things 3](#things-3)
 - [HappyCow - Vegan Food Near You](#happycow-vegan-food-near-you)
 - [Trevni: Inverseur négatifs](#trevni-inverseur-ne-gatifs)
 - [WikiCamps New Zealand](#wikicamps-new-zealand)
 - [Stylebook](#stylebook)
 - [Parchment: Agenda & Daily Note](#parchment-agenda-daily-note)
-- [Knoten 3D  (Knots 3D)](#knoten-3d-knots-3d)
 - [WikiFarms Australia](#wikifarms-australia)
+- [Rally Call](#rally-call)
+- [Forvo Pronunciation](#forvo-pronunciation)
 - [Blueprint 4-Track](#blueprint-4-track)
 - [Ableton Note](#ableton-note)
 - [Unora](#unora)
 - [Fiches IDE](#fiches-ide)
 - [NightCap相机](#nightcap相机)
 - [Paprika Rezept-Manager 3](#paprika-rezept-manager-3)
+- [Mono Lab](#mono-lab)
+- [Groundwire: VoIP SIP Softphone](#groundwire-voip-sip-softphone)
+- [GOSAP BMPM](#gosap-bmpm)
+- [CineTemp](#cinetemp)
 - [Pure Acid](#pure-acid)
+- [Pocket Light Meter](#pocket-light-meter)
 - [Salatuk - صلاتك](#salatuk-صلاتك)
 - [Permis bateau côtier ENF](#permis-bateau-co-tier-enf)
+- [SKRWT](#skrwt)
 - [Zoiper Premium voip soft phone](#zoiper-premium-voip-soft-phone)
+- [Tresor Quotidien 2026](#tresor-quotidien-2026)
+- [La conjugaison française](#la-conjugaison-franc-aise)
+- [VisualTerms construction](#visualterms-construction)
+- [Magic Spider - My Pet Boris](#magic-spider-my-pet-boris)
+- [My Moon Phase Pro - Alerts](#my-moon-phase-pro-alerts)
+- [iTanpura](#itanpura)
+- [Map Points - GPS Location Storage for Hunting, Fishing and Camping with Map Area Measurement](#map-points-gps-location-storage-for-hunting-fishing-and-camping-with-map-area-measurement)
+- [TurboCollage Automatic](#turbocollage-automatic)
 - [RenpyReader](#renpyreader)
 - [S:G LiDAR - Infrared Laser Cam](#s-g-lidar-infrared-laser-cam)
 - [ChoreFit - Track Cleaning](#chorefit-track-cleaning)
 - [BlueLocation](#bluelocation)
+- [Avionics Buddy](#avionics-buddy)
 - [iCompta 6](#icompta-6)
-- [Flyskyhy](#flyskyhy)
 - [Network Analyzer Pro](#network-analyzer-pro)
 - [ProCam - 专业相机](#procam-专业相机)
 - [Streaks](#streaks)
@@ -80,24 +98,6 @@
 - [Guitar Pro](#guitar-pro)
 - [Folium](#folium)
 - [Smur Bmpm](#smur-bmpm)
-- [Official Life in the UK Test](#official-life-in-the-uk-test)
-- [Hipstamatic Classic](#hipstamatic-classic)
-- [Koala Sampler • Beat Maker](#koala-sampler-beat-maker)
-- [Cloud Baby Monitor](#cloud-baby-monitor)
-- [Litchi pour Drones DJI](#litchi-pour-drones-dji)
-- [Lengo Mai](#lengo-mai)
-- [Fog of World](#fog-of-world)
-- [Auto Theorie Premium](#auto-theorie-premium)
-- [iSTB](#istb)
-- [Reunionbysat](#reunionbysat)
-- [Calometric — Calories Tracker](#calometric-calories-tracker)
-- [القاعدة النورانية](#القاعدة-النورانية)
-- [Moment Pro Camera II](#moment-pro-camera-ii)
-- [Paris Invaders Map](#paris-invaders-map)
-- [Altimètre & Précision](#altime-tre-pre-cision)
-- [Dictionnaire Larousse français](#dictionnaire-larousse-franc-ais)
-- [SkyView® Satellite Guide](#skyview-satellite-guide)
-- [Slow Shutter Cam](#slow-shutter-cam)
 
 <a id="peakfinder"></a>
 ## PeakFinder
@@ -143,6 +143,62 @@ iTunes中的每个好评（包括下述更新）都让我快乐。好的评价�
 如有问题、疑问、错误、遗漏的山脉名称以及对将来发展想发表意见，我很乐意帮助你。请给我来信：support@peakfinder.com.
 
 [View on Apple](https://apps.apple.com/fr/app/peakfinder/id357421934)
+
+<a id="shadowrocket"></a>
+## Shadowrocket
+
+![Shadowrocket](../../logos/932747118-fbe66cd5.png)
+
+Rule based proxy utility client for iPhone/iPad.
+
+- Capture all HTTP/HTTPS/TCP traffic from any applications on your device, and redirect to the proxy server.
+- Record and display HTTP, HTTPS, DNS requests from your iOS devices.
+- Configure rules using domain match, domain suffix, domain keyword, CIDR IP range, and/or GeoIP lookup.
+- Measure traffic usage and network speed on WiFi, cellular, direct and proxy connections.
+- Import rule files from URL or iCloud Drive.
+- Block ads by domain, user agent rules.
+- Local DNS Mapping.
+- Work on cellular networks.
+- Decrypt HTTPS traffic.
+- Perform URL rewrite.
+- Fully IPv6 supports.
+- Script filter supports.
+- Multi-level forward proxy.
+- Support kcptun, cloak, gost, v2ray plugins.
+- Support DNS over HTTPS, DNS over TLS, DNS over QUIC.
+
+[View on Apple](https://apps.apple.com/fr/app/shadowrocket/id932747118)
+
+<a id="ankimobile-flashcards"></a>
+## AnkiMobile Flashcards
+
+![AnkiMobile Flashcards](../../logos/373493387-72e3f4ef.png)
+
+AnkiMobile is a mobile companion to Anki®, a powerful, intelligent flashcard program that is free, multi-platform, and open-source. Sales of this app support the development of both the computer and mobile version, which is why the app is priced as a computer application.
+
+AnkiMobile was written by the lead developer of Anki and AnkiWeb, and it has been around since 2010. Beware other apps using "Anki" in their name that have sprung up recently - they are not compatible with the rest of the Anki ecosystem, and they offer far fewer features, despite charging expensive subscriptions.
+
+Some of AnkiMobile's features include:
+
+- A free cloud synchronization service that lets you keep your card content synchronized across multiple mobile and computer devices. This makes it easy to add content on a computer and then study it on your mobile, easily keep your study progress current between an iPhone and iPad, and so on.
+- The same SM2 and FSRS scheduling algorithms that the computer version of Anki uses, which remind you of material as you're about to forget it.
+- A flexible interface designed for smooth and efficient study. You can set up AnkiMobile to perform different actions when you tap or swipe on various parts of the screen, and control which actions appear on the tool buttons.
+- Comprehensive graphs and statistics about your studies.
+- Support for large card decks - even 100,000+ cards.
+- If your cards use images or audio clips, the media is stored on your device, so you can study without an internet connection.
+- A powerful search facility that allows you to find cards that match criteria such as 'tagged high priority, answered in the last ten days and not containing the following words', and automatically place them into a deck to study.
+- Support for displaying mathematical equations with MathJax, and rendering LaTeX created with the computer version.
+- Support for adding images drawn with the Apple Pencil to your cards.
+
+Please note that AnkiMobile is currently intended as a companion to the computer version of Anki, rather than a complete replacement for it. While AnkiMobile is able to display and schedule your cards in the same way the computer version does, certain changes like modifying note types need to be done with the computer software. Add-ons are not supported, so while you can study image occlusion cards created with the computer version, they can not be created within AnkiMobile. For this reason, please start with the computer version of Anki before you think about buying this app.
+
+The cloud synchronization service is optional, and data can also be imported/exported from the app via a USB cable or AirDrop.
+
+Like all apps, AnkiMobile can be purchased once and then used on multiple devices in a household using the same Apple ID. Family sharing is also supported (apart from in India). For information on bulk discounts for educational institutions, please see Apple's Volume Purchase Program.
+
+For more information on AnkiMobile, including a link to the online manual, please have a look at the support page: https://docs.ankimobile.net/support.html. If you have any questions or want to report an issue, please let us know on our support site and we'll get back to you as soon as possible.
+
+[View on Apple](https://apps.apple.com/fr/app/ankimobile-flashcards/id373493387)
 
 <a id="blitzer-de-pro"></a>
 ## Blitzer.de PRO
@@ -201,61 +257,64 @@ https://www.blitzer.de/
 
 [View on Apple](https://apps.apple.com/fr/app/blitzer-de-pro/id498732510)
 
-<a id="shadowrocket"></a>
-## Shadowrocket
+<a id="workoutdoors"></a>
+## WorkOutDoors
 
-![Shadowrocket](../../logos/932747118-fbe66cd5.png)
+![WorkOutDoors](../../logos/1241909999-54dd54fb.png)
 
-Rule based proxy utility client for iPhone/iPad.
+WorkOutDoors is the most advanced and most configurable workout app for the Apple Watch. It's perfect for running, cycling, hiking and any other indoor or outdoor activity.
 
-- Capture all HTTP/HTTPS/TCP traffic from any applications on your device, and redirect to the proxy server.
-- Record and display HTTP, HTTPS, DNS requests from your iOS devices.
-- Configure rules using domain match, domain suffix, domain keyword, CIDR IP range, and/or GeoIP lookup.
-- Measure traffic usage and network speed on WiFi, cellular, direct and proxy connections.
-- Import rule files from URL or iCloud Drive.
-- Block ads by domain, user agent rules.
-- Local DNS Mapping.
-- Work on cellular networks.
-- Decrypt HTTPS traffic.
-- Perform URL rewrite.
-- Fully IPv6 supports.
-- Script filter supports.
-- Multi-level forward proxy.
-- Support kcptun, cloak, gost, v2ray plugins.
-- Support DNS over HTTPS, DNS over TLS, DNS over QUIC.
+Note: WorkOutDoors requires an Apple Watch Series 4 or later. It is not necessary to have your iPhone with you during a workout.
 
-[View on Apple](https://apps.apple.com/fr/app/shadowrocket/id932747118)
+The app uses Apple’s workout system, so all workouts are saved to the Health system.  However it also provides many extra features over Apple's app, such as:
 
-<a id="ankimobile-flashcards"></a>
-## AnkiMobile Flashcards
+- a super-smooth vector map that can be shown during a workout;
+- multiple configurable screens with metrics and graphs from a pool of 800+ data fields;
+- route files can be imported and used for navigation (including turn by turn directions);
+- dozens of configurable alerts (e.g. every mile; high heart rate; low pace; off-route etc);
+- interval schedules can be created using the larger screen of the phone app;
+- climbs and descents are supported with notifications and on-screen data and graphs;
+- waypoints can be created, navigated to, and exported;
+- use shortcuts to associate operations with gestures (e.g. double tap to hear configurable metrics);
+- compare pace against a target or a previous workout (using metrics and a dot on the map);
+- show zones for pace and power as well as heart rate (with optional coloured backgrounds);
+- auto-pause is available for all outdoor activities;
+- shows GPS and heart rate before starting a workout, so that you can wait for good signals;
+- configure distance and pace for running / walking to come from Apple’s pedometer or from GPS;
+- workouts can be exported in FIT / TCX / GPX files, or automatically sent to Strava;
+- workouts created by the app can be analysed in great depth in the iPhone app.
 
-![AnkiMobile Flashcards](../../logos/373493387-72e3f4ef.png)
+The app also has many more features.  The map is a particular highlight.  It uses OpenStreetMap, which provides worldwide coverage and includes the trails necessary for outdoor workouts.  It also has several features that help you navigate during a workout:
 
-AnkiMobile is a mobile companion to Anki®, a powerful, intelligent flashcard program that is free, multi-platform, and open-source. Sales of this app support the development of both the computer and mobile version, which is why the app is priced as a computer application.
+- maps can be smoothly panned and zoomed, and can rotate according to the compass;
+- a breadcrumb trail of your whole route is displayed on the map during the workout;
+- topographic data can be shown, with configurable contour colours and hill shading;
+- map-only mode is provided for when you don't want to start a workout and just need a map;
+- a circular scale is shown when you zoom, making it easy to see the distance to features;
+- maps can be stored on the watch for use when offline (they are downloaded as required if online);
+- a red compass points north and a green compass points to the start;
+- choose a waypoint to see a compass and distance to it in the corner of the map;
+- you can also navigate to waypoints on the map, such as hospitals, sights, cafes etc.
 
-AnkiMobile was written by the lead developer of Anki and AnkiWeb, and it has been around since 2010. Beware other apps using "Anki" in their name that have sprung up recently - they are not compatible with the rest of the Anki ecosystem, and they offer far fewer features, despite charging expensive subscriptions.
+If you load a route from a GPX / TCX / FIT file then navigation is even easier:
 
-Some of AnkiMobile's features include:
+- your position is shown on an elevation profile of the route;
+- the remaining distance, time and ascent can also be displayed;
+- you can get alerted when you go off-route; 
+- when off-route then a compass is shown which points to the nearest part of the route;
+- if the route contains turn by turn directions then these can be used like a sat nav;
+- if there are no directions then the app can use “bend detection” to generate them;
+- the next direction is shown as an icon and distance in the corner of the map;
+- the map can automatically zoom in when you are approaching a turn;
+- you can use shake gestures to hear the distance to the next turn or the end of the route;
+- routes are coloured by gradient: from red for steep uphill to blue for steep downhill;
+- you can configure what information is displayed during a climb or descent.
 
-- A free cloud synchronization service that lets you keep your card content synchronized across multiple mobile and computer devices. This makes it easy to add content on a computer and then study it on your mobile, easily keep your study progress current between an iPhone and iPad, and so on.
-- The same SM2 and FSRS scheduling algorithms that the computer version of Anki uses, which remind you of material as you're about to forget it.
-- A flexible interface designed for smooth and efficient study. You can set up AnkiMobile to perform different actions when you tap or swipe on various parts of the screen, and control which actions appear on the tool buttons.
-- Comprehensive graphs and statistics about your studies.
-- Support for large card decks - even 100,000+ cards.
-- If your cards use images or audio clips, the media is stored on your device, so you can study without an internet connection.
-- A powerful search facility that allows you to find cards that match criteria such as 'tagged high priority, answered in the last ten days and not containing the following words', and automatically place them into a deck to study.
-- Support for displaying mathematical equations with MathJax, and rendering LaTeX created with the computer version.
-- Support for adding images drawn with the Apple Pencil to your cards.
+All this is included for a single one-off payment. No extra in-app purchases or subscriptions are required (although there is a completely optional in-app tip jar which was requested by long-term users). 
 
-Please note that AnkiMobile is currently intended as a companion to the computer version of Anki, rather than a complete replacement for it. While AnkiMobile is able to display and schedule your cards in the same way the computer version does, certain changes like modifying note types need to be done with the computer software. Add-ons are not supported, so while you can study image occlusion cards created with the computer version, they can not be created within AnkiMobile. For this reason, please start with the computer version of Anki before you think about buying this app.
+If you own an Apple Watch and do any form of exercise, then WorkOutDoors is the app for you. Give it a go!
 
-The cloud synchronization service is optional, and data can also be imported/exported from the app via a USB cable or AirDrop.
-
-Like all apps, AnkiMobile can be purchased once and then used on multiple devices in a household using the same Apple ID. Family sharing is also supported (apart from in India). For information on bulk discounts for educational institutions, please see Apple's Volume Purchase Program.
-
-For more information on AnkiMobile, including a link to the online manual, please have a look at the support page: https://docs.ankimobile.net/support.html. If you have any questions or want to report an issue, please let us know on our support site and we'll get back to you as soon as possible.
-
-[View on Apple](https://apps.apple.com/fr/app/ankimobile-flashcards/id373493387)
+[View on Apple](https://apps.apple.com/fr/app/workoutdoors/id1241909999)
 
 <a id="procreate-pocket"></a>
 ## Procreate Pocket
@@ -342,65 +401,6 @@ Procreate Pocket 就是你手中的移动画室。
 
 [View on Apple](https://apps.apple.com/fr/app/procreate-pocket/id916366645)
 
-<a id="workoutdoors"></a>
-## WorkOutDoors
-
-![WorkOutDoors](../../logos/1241909999-54dd54fb.png)
-
-WorkOutDoors is the most advanced and most configurable workout app for the Apple Watch. It's perfect for running, cycling, hiking and any other indoor or outdoor activity.
-
-Note: WorkOutDoors requires an Apple Watch Series 4 or later. It is not necessary to have your iPhone with you during a workout.
-
-The app uses Apple’s workout system, so all workouts are saved to the Health system.  However it also provides many extra features over Apple's app, such as:
-
-- a super-smooth vector map that can be shown during a workout;
-- multiple configurable screens with metrics and graphs from a pool of 800+ data fields;
-- route files can be imported and used for navigation (including turn by turn directions);
-- dozens of configurable alerts (e.g. every mile; high heart rate; low pace; off-route etc);
-- interval schedules can be created using the larger screen of the phone app;
-- climbs and descents are supported with notifications and on-screen data and graphs;
-- waypoints can be created, navigated to, and exported;
-- use shortcuts to associate operations with gestures (e.g. double tap to hear configurable metrics);
-- compare pace against a target or a previous workout (using metrics and a dot on the map);
-- show zones for pace and power as well as heart rate (with optional coloured backgrounds);
-- auto-pause is available for all outdoor activities;
-- shows GPS and heart rate before starting a workout, so that you can wait for good signals;
-- configure distance and pace for running / walking to come from Apple’s pedometer or from GPS;
-- workouts can be exported in FIT / TCX / GPX files, or automatically sent to Strava;
-- workouts created by the app can be analysed in great depth in the iPhone app.
-
-The app also has many more features.  The map is a particular highlight.  It uses OpenStreetMap, which provides worldwide coverage and includes the trails necessary for outdoor workouts.  It also has several features that help you navigate during a workout:
-
-- maps can be smoothly panned and zoomed, and can rotate according to the compass;
-- a breadcrumb trail of your whole route is displayed on the map during the workout;
-- topographic data can be shown, with configurable contour colours and hill shading;
-- map-only mode is provided for when you don't want to start a workout and just need a map;
-- a circular scale is shown when you zoom, making it easy to see the distance to features;
-- maps can be stored on the watch for use when offline (they are downloaded as required if online);
-- a red compass points north and a green compass points to the start;
-- choose a waypoint to see a compass and distance to it in the corner of the map;
-- you can also navigate to waypoints on the map, such as hospitals, sights, cafes etc.
-
-If you load a route from a GPX / TCX / FIT file then navigation is even easier:
-
-- your position is shown on an elevation profile of the route;
-- the remaining distance, time and ascent can also be displayed;
-- you can get alerted when you go off-route; 
-- when off-route then a compass is shown which points to the nearest part of the route;
-- if the route contains turn by turn directions then these can be used like a sat nav;
-- if there are no directions then the app can use “bend detection” to generate them;
-- the next direction is shown as an icon and distance in the corner of the map;
-- the map can automatically zoom in when you are approaching a turn;
-- you can use shake gestures to hear the distance to the next turn or the end of the route;
-- routes are coloured by gradient: from red for steep uphill to blue for steep downhill;
-- you can configure what information is displayed during a climb or descent.
-
-All this is included for a single one-off payment. No extra in-app purchases or subscriptions are required (although there is a completely optional in-app tip jar which was requested by long-term users). 
-
-If you own an Apple Watch and do any form of exercise, then WorkOutDoors is the app for you. Give it a go!
-
-[View on Apple](https://apps.apple.com/fr/app/workoutdoors/id1241909999)
-
 <a id="manager-for-kukirin"></a>
 ## Manager for KuKirin
 
@@ -447,155 +447,6 @@ Compatible uniquement avec Heredis 2026
 iOS : iOS 14 à 26
 
 [View on Apple](https://apps.apple.com/fr/app/heredis-2026/id6748059803)
-
-<a id="babyphone-3g"></a>
-## Babyphone 3G
-
-![Babyphone 3G](../../logos/490077681-5cf88a68.png)
-
-Kein Abo. Keine monatlichen Gebühren.
-Babyphone 3G kaufen Sie einmal – und nutzen es immer dann, wenn Sie es brauchen.
-
-Machen Sie aus zwei iPhones/iPads ein zuverlässiges Video- und Audio-Babyphone. Es funktioniert über WLAN und Mobilfunk (LTE/5G), ist in wenigen Minuten eingerichtet und begleitet Sie überall – zu Hause und unterwegs.
-
-Darum Babyphone 3G
-	•	Einmal zahlen – kein Abo, keine laufenden Kosten
-	•	Überall erreichbar – WLAN oder Mobilfunk, unbegrenzte Reichweite
-	•	Sicher & privat – verschlüsselte Verbindung zwischen Ihren Geräten
-	•	Schnell startklar – einfache Kopplung, einfache Bedienung
-	•	Zuverlässige Alarme – hören Sie jedes Geräusch, erhalten Sie Benachrichtigungen
-
-Für den Alltag gemacht
-
-Zu Hause
-Nutzen Sie ein altes iPhone/iPad als Baby-Gerät und Ihr aktuelles Smartphone als Eltern-Gerät.
-
-Unterwegs
-Hotel, Ferienwohnung, Besuch bei Familie – wenn WLAN schwach ist, hilft Mobilfunk.
-
-Mehr Ruhe
-Live-Bild und Ton, Nachtmodus und Benachrichtigungen geben Ihnen Sicherheit, wenn Ihr Baby schläft.
-
-Wichtige Funktionen
-	•	Live-HD-Video und klarer Ton
-	•	Nachtmodus und Bildschirm dimmen
-	•	Push-Benachrichtigungen und Vibrationsalarm
-	•	Gegensprechen (beruhigen Sie Ihr Baby aus der Ferne)
-	•	Audio im Hintergrund (während Sie andere Apps nutzen)
-	•	Mehrere Eltern-Geräte (teilen mit Partner/Familie)
-	•	Einstellbare Empfindlichkeit und Alarm-Optionen
-
-Datenschutz & Sicherheit
-	•	Verschlüsselte Verbindung zwischen Ihren Geräten
-	•	Kein öffentliches Streaming
-	•	Keine Registrierung erforderlich (kein Konto nötig)
-
-Kompatibilität
-
-Funktioniert auf iPhone und iPad.
-Hinweis: iOS- und macOS-Version werden separat verkauft.
-
-[View on Apple](https://apps.apple.com/fr/app/baby-phone-3g/id490077681)
-
-<a id="wagotabi-cours-de-japonais"></a>
-## Wagotabi : Cours de japonais
-
-![Wagotabi : Cours de japonais](../../logos/6474207287-dfea9cec.png)
-
-Wagotabi est votre compagnon quotidien pour apprendre le japonais à partir de zéro, à votre rythme et avec une immersion maximale. Apprenez à lire, écrire et comprendre le japonais en contexte, tout en retenant les Hiragana, Katakana et Kanji. Utilisez vos compétences en japonais pour progresser dans l'aventure proposée par ce jeu éducatif.
-
-Conçu en étroite collaboration avec plus de 300 professeurs de japonais, associations touristiques officielles de préfectures japonaises et des milliers de testeurs, Wagotabi vous propose une approche immersive inédite pour l'apprentissage de la langue. Nous vous fournissons un contenu adapté à votre niveau actuel. Les mots et les points de grammaire sont introduits selon les standards du JLPT, en commençant par le niveau N5.
-
-—
-
-◆ DÉBUTEZ de zéro : le jeu est adapté aux débutants : aucune connaissance initiale du japonais n'est nécessaire. Les concepts sont introduits peu à peu et utilisés immédiatement dans le jeu. Les faux-débutants progresseront plus vite et apprécieront tout autant le jeu.
-◆ VOYAGEZ au Japon : explorez de vraies villes, apprenez à vous présenter, à commander de la nourriture, à demander votre chemin aux habitants et à découvrir des secrets cachés !
-◆ COLLECTIONNEZ de nouveaux mots, Kana, Kanji et obtenez des explications détaillées sur la grammaire et la conjugaison. Fini les listes de Kana, Kanji et vocabulaire surchargées et inutilisables !
-◆ DÉFIEZ les grands maîtres du japonais dans leur château pour gagner leur respect !
-◆ PARTAGEZ vos meilleurs scores aux mini-jeux de Kana et de Kanji avec d'autres apprenants sur le tableau de classement !
-◆ PERSONNALISEZ votre expérience d'apprentissage : tirez parti de notre outil SRS (répétition espacée), conçu pour cibler vos points faibles, créez votre propre avatar, réglez la difficulté du jeu. C'est votre voyage d'apprentissage de la langue japonaise.
-◆ PROFITEZ d'une expérience sans publicité et sans achat in-app, le jeu peut être entièrement joué hors ligne !
-
-—
-
-Liste (non exhaustive) des fonctionnalités :
-Dictionnaire interactif (avec illustrations, tags etc.), explications grammaticales claires, infobulles interactives, entièrement vocalisé, tests intelligents gérés par SRS, interactions avec l'environnement, quêtes, 2 mini-jeux (Kana et Kanji), combats de boss, ordre des traits Hiragana / Katakana / Kanji et calligraphie, Kanjidex, Kanji similaires, conjugaison, sauvegarde en ligne, outils avancés pour le suivi de votre progression....
-
-—
-Le jeu est en développement constant, avec des mises à jour régulières ajoutant du nouveau contenu.
-Contenu actuellement disponible :
-+400 mots et points de grammaire soigneusement sélectionnés
-+195 Kanji
-+600 phrases exemple
-+2600 dialogues japonais vocalisés
-+350 PNJ uniques dans le jeu
-Tous les mots / points de grammaire sont utilisés au maximum et en contexte pour une meilleure rétention.
-
-—
-
-L’avis de nos premiers testeurs sur Wagotabi :
-"C’est une bénédiction d’avoir une telle application sur le marché de l'apprentissage !"
-"J'ai utilisé certains des exemples de l'application pour mes cours et mes élèves réagissent très bien."
-"Je n'ai pas le budget nécessaire pour me rendre au Japon, mais je suis totalement immergé dans ce jeu, j'apprends efficacement et je constate mes progrès quotidiennement."
-"Grâce à cette application, mes enfants sont maintenant motivés pour apprendre le japonais et renouer avec leurs racines. Ce concept est tellement Kawaii !"
-"Je prépare un voyage au Japon et je vais certainement aller voir ces endroits que j'ai déjà visités dans le jeu."
-
-—
-
-Politique de confidentialité : https://www.wagotabi.com/privacy-policy
-Conditions d'utilisation : https://www.wagotabi.com/terms-of-service
-
-[View on Apple](https://apps.apple.com/fr/app/wagotabi-cours-de-japonais/id6474207287)
-
-<a id="photopills"></a>
-## PhotoPills
-
-![PhotoPills](../../logos/596026805-0f377c55.png)
-
-Entdecke wie einfach es ist Sonne, Mond oder Milchstraße weltweit zu fotografieren!
-
-Ob erfahrener Fotograf, professioneller Videofilmer oder Neuling, PhotoPills sorgt dafür, dass du die Konzeption, Planung und Aufnahme von einzigartigen Bildern lieben wirst.
-
-* Alles in einer einzigen App
-Der erste 2D-kartenbasierte Sonne-, Mond- und Milchstraße-Planer - Schnellsuche von Sonne-, Mondkonstellationen - 3D-Augmented Reality: Sonne, Mond, Milchstraße, Himmelsäquator, Polarstern, Tiefenschärfe, Blickfeld - Fotoplaner - Tool zur Suche von Aufnahmeorten - Informationen: Sonnenauf/-untergang, Dämmerung, Goldene Stunde, Blaue Stunde - Informationen: Mondauf/-untergang, Supermondtermine, Mondkalender - Rechner: Zeitraffer, Sterne erkennen, Sternspuren, lange Belichtungszeiten, hyperfokale Tabellen, Tiefenschärfe, Blickfeld, Entfernung zum Motiv, Brennweite-Einstellung - Komplette Anleitung und vieles mehr...
-
-* von Profis empfohlen
-"PhotoPills - ein unersetzbares Werkzeug, das ich zur Planung jeder Aufnahme benutze." – Mark Gee, Astronomie-Fotograf des Jahres
-“Ein Werkzeug, das jeder Fotograf haben sollte” – Kevin Raber, Luminous-landscape.com
-"Es zahlt sich aus! Dank diesem Tool können wir immer wieder tolle Aufnahmen schnell planen; Bietet die besten Möglichkeiten, um kreativer vorzugehen."- José B. Ruiz, Innovationspreis, Naturfotograf des Jahres
-
-* Übernimm die Kontrolle
-Warst du schon einmal an einem Ort und hast dir gedacht: "Schade, der Mond ist nicht genau da, ... das wäre ein hervorragendes Foto!"? Und die Sonne? Und die Milchstraße? Lasse deiner Fantasie freien Lauf und berechne, wann genau das passiert:
-
-- Stellen dir vor: die Milchstraße erscheint über eine zauberhafte Landschaft, der Vollmond geht unter einem geheimen Steinbogen unter, ein Sonnenaufgang zwischen zwei riesigen Felsen an einem Traumstrand, ein Sonnenuntergang über der Hauptstraße in deiner Heimatstadt oder ein spektakulärer Vollmond hinter einem nahe gelegenen Hügel.
-- Plane: Einfach das Datum und die Uhrzeit der gewünschten Szene berechnen und effektiver arbeiten!
-- Fotografiere: Geh einfach raus, tauche in die Natur ein und genieße es den perfekte Moment festzuhalten!
-
-* Keine Enttäuschungen!
-Berechne schnell, ob das Foto möglich ist oder nicht. Verschwende keine kostbare Zeit mehr mit langen Nachforschungen.
-
-* Verpasse nie wieder die perfekte Szene
-Erstelle eine To-Do-Liste von geplanten Fotos und fahre zum richtigen Zeitpunkt zum Aufnahmeort.
-
-* Mach es perfekt
-Wähle den perfekten Bildausschnitt schon vor der Aufnahme aus. Durch die 3D-Augmented Reality siehst du, ob die Sonne, der Mond, die Milchstraße, der Himmelsäquator und der Polarstern sich an der gewünschten Position befinden, wenn du den Auslöser drückst.
-
-* Entdecke tolle Orte und füge sie zu deiner persönlichen Datenbank hinzu
-Nutze PhotoPills, um einen Ort als POI zu speichern. Füge anschauliche Fotos und Notizen hinzu.
-
-* Fokussiere dich auf deine Kreativität; überlasse das Rechnen den Nerds
-- Berechne: Zeitraffer-Einstellungen, Langzeitbelichtungen, Sternspuren, die max. Belichtungszeit um Sterne als Punkte zu erfassen, Einstellungen für einen gewünschten Schärfegrad, Einstellungen für ein gewünschtes Sichtfeld, Objektivauswahl und Motivabstand für deinen Bildausschnitt, min. Abstand zum Motiv, entspr. Brennweite des Objektivs zur Reproduktion des Blickwinkels usw.
-- Prognose: Positionen von Sonne, Mond, Milchstraße, Himmelsäquator und Polarstern.
-
-* Teile deine Ergebnisse
-Egal ob du deine Ergebnisse deinen Freunden, der Familie oder der ganzen Welt zeigen willst: PhotoPills hilft dir dabei. Teile deine Pläne, geheimen Orte und all die anderen Planungen auf Facebook, Twitter oder beiden in nur wenigen Schritten.
-
-* Triff andere Fotografen
-Teile deine Pläne und Orte via E-Mail. Lade deine Freunde ein dabei zu sein. Andere PhotoPillers können deine Planungen importieren und selbst betrachten.
-
-Worauf wartest du? Hol dir PhotoPills gleich jetzt und mache wirklich einzigartig Aufnahmen!
-
-[View on Apple](https://apps.apple.com/fr/app/photopills/id596026805)
 
 <a id="alpin-quest-pro-outdoor-gps"></a>
 ## Alpin Quest PRO – Outdoor GPS
@@ -792,6 +643,225 @@ Die App kommt direkt vom Forschungsteam der Monash University und beinhaltet Fol
 
 [View on Apple](https://apps.apple.com/fr/app/monash-fodmap-diet/id586149216)
 
+<a id="babyphone-3g"></a>
+## Babyphone 3G
+
+![Babyphone 3G](../../logos/490077681-5cf88a68.png)
+
+Kein Abo. Keine monatlichen Gebühren.
+Babyphone 3G kaufen Sie einmal – und nutzen es immer dann, wenn Sie es brauchen.
+
+Machen Sie aus zwei iPhones/iPads ein zuverlässiges Video- und Audio-Babyphone. Es funktioniert über WLAN und Mobilfunk (LTE/5G), ist in wenigen Minuten eingerichtet und begleitet Sie überall – zu Hause und unterwegs.
+
+Darum Babyphone 3G
+	•	Einmal zahlen – kein Abo, keine laufenden Kosten
+	•	Überall erreichbar – WLAN oder Mobilfunk, unbegrenzte Reichweite
+	•	Sicher & privat – verschlüsselte Verbindung zwischen Ihren Geräten
+	•	Schnell startklar – einfache Kopplung, einfache Bedienung
+	•	Zuverlässige Alarme – hören Sie jedes Geräusch, erhalten Sie Benachrichtigungen
+
+Für den Alltag gemacht
+
+Zu Hause
+Nutzen Sie ein altes iPhone/iPad als Baby-Gerät und Ihr aktuelles Smartphone als Eltern-Gerät.
+
+Unterwegs
+Hotel, Ferienwohnung, Besuch bei Familie – wenn WLAN schwach ist, hilft Mobilfunk.
+
+Mehr Ruhe
+Live-Bild und Ton, Nachtmodus und Benachrichtigungen geben Ihnen Sicherheit, wenn Ihr Baby schläft.
+
+Wichtige Funktionen
+	•	Live-HD-Video und klarer Ton
+	•	Nachtmodus und Bildschirm dimmen
+	•	Push-Benachrichtigungen und Vibrationsalarm
+	•	Gegensprechen (beruhigen Sie Ihr Baby aus der Ferne)
+	•	Audio im Hintergrund (während Sie andere Apps nutzen)
+	•	Mehrere Eltern-Geräte (teilen mit Partner/Familie)
+	•	Einstellbare Empfindlichkeit und Alarm-Optionen
+
+Datenschutz & Sicherheit
+	•	Verschlüsselte Verbindung zwischen Ihren Geräten
+	•	Kein öffentliches Streaming
+	•	Keine Registrierung erforderlich (kein Konto nötig)
+
+Kompatibilität
+
+Funktioniert auf iPhone und iPad.
+Hinweis: iOS- und macOS-Version werden separat verkauft.
+
+[View on Apple](https://apps.apple.com/fr/app/baby-phone-3g/id490077681)
+
+<a id="wagotabi-cours-de-japonais"></a>
+## Wagotabi : Cours de japonais
+
+![Wagotabi : Cours de japonais](../../logos/6474207287-dfea9cec.png)
+
+Wagotabi est votre compagnon quotidien pour apprendre le japonais à partir de zéro, à votre rythme et avec une immersion maximale. Apprenez à lire, écrire et comprendre le japonais en contexte, tout en retenant les Hiragana, Katakana et Kanji. Utilisez vos compétences en japonais pour progresser dans l'aventure proposée par ce jeu éducatif.
+
+Conçu en étroite collaboration avec plus de 300 professeurs de japonais, associations touristiques officielles de préfectures japonaises et des milliers de testeurs, Wagotabi vous propose une approche immersive inédite pour l'apprentissage de la langue. Nous vous fournissons un contenu adapté à votre niveau actuel. Les mots et les points de grammaire sont introduits selon les standards du JLPT, en commençant par le niveau N5.
+
+—
+
+◆ DÉBUTEZ de zéro : le jeu est adapté aux débutants : aucune connaissance initiale du japonais n'est nécessaire. Les concepts sont introduits peu à peu et utilisés immédiatement dans le jeu. Les faux-débutants progresseront plus vite et apprécieront tout autant le jeu.
+◆ VOYAGEZ au Japon : explorez de vraies villes, apprenez à vous présenter, à commander de la nourriture, à demander votre chemin aux habitants et à découvrir des secrets cachés !
+◆ COLLECTIONNEZ de nouveaux mots, Kana, Kanji et obtenez des explications détaillées sur la grammaire et la conjugaison. Fini les listes de Kana, Kanji et vocabulaire surchargées et inutilisables !
+◆ DÉFIEZ les grands maîtres du japonais dans leur château pour gagner leur respect !
+◆ PARTAGEZ vos meilleurs scores aux mini-jeux de Kana et de Kanji avec d'autres apprenants sur le tableau de classement !
+◆ PERSONNALISEZ votre expérience d'apprentissage : tirez parti de notre outil SRS (répétition espacée), conçu pour cibler vos points faibles, créez votre propre avatar, réglez la difficulté du jeu. C'est votre voyage d'apprentissage de la langue japonaise.
+◆ PROFITEZ d'une expérience sans publicité et sans achat in-app, le jeu peut être entièrement joué hors ligne !
+
+—
+
+Liste (non exhaustive) des fonctionnalités :
+Dictionnaire interactif (avec illustrations, tags etc.), explications grammaticales claires, infobulles interactives, entièrement vocalisé, tests intelligents gérés par SRS, interactions avec l'environnement, quêtes, 2 mini-jeux (Kana et Kanji), combats de boss, ordre des traits Hiragana / Katakana / Kanji et calligraphie, Kanjidex, Kanji similaires, conjugaison, sauvegarde en ligne, outils avancés pour le suivi de votre progression....
+
+—
+Le jeu est en développement constant, avec des mises à jour régulières ajoutant du nouveau contenu.
+Contenu actuellement disponible :
++400 mots et points de grammaire soigneusement sélectionnés
++195 Kanji
++600 phrases exemple
++2600 dialogues japonais vocalisés
++350 PNJ uniques dans le jeu
+Tous les mots / points de grammaire sont utilisés au maximum et en contexte pour une meilleure rétention.
+
+—
+
+L’avis de nos premiers testeurs sur Wagotabi :
+"C’est une bénédiction d’avoir une telle application sur le marché de l'apprentissage !"
+"J'ai utilisé certains des exemples de l'application pour mes cours et mes élèves réagissent très bien."
+"Je n'ai pas le budget nécessaire pour me rendre au Japon, mais je suis totalement immergé dans ce jeu, j'apprends efficacement et je constate mes progrès quotidiennement."
+"Grâce à cette application, mes enfants sont maintenant motivés pour apprendre le japonais et renouer avec leurs racines. Ce concept est tellement Kawaii !"
+"Je prépare un voyage au Japon et je vais certainement aller voir ces endroits que j'ai déjà visités dans le jeu."
+
+—
+
+Politique de confidentialité : https://www.wagotabi.com/privacy-policy
+Conditions d'utilisation : https://www.wagotabi.com/terms-of-service
+
+[View on Apple](https://apps.apple.com/fr/app/wagotabi-cours-de-japonais/id6474207287)
+
+<a id="photopills"></a>
+## PhotoPills
+
+![PhotoPills](../../logos/596026805-0f377c55.png)
+
+Entdecke wie einfach es ist Sonne, Mond oder Milchstraße weltweit zu fotografieren!
+
+Ob erfahrener Fotograf, professioneller Videofilmer oder Neuling, PhotoPills sorgt dafür, dass du die Konzeption, Planung und Aufnahme von einzigartigen Bildern lieben wirst.
+
+* Alles in einer einzigen App
+Der erste 2D-kartenbasierte Sonne-, Mond- und Milchstraße-Planer - Schnellsuche von Sonne-, Mondkonstellationen - 3D-Augmented Reality: Sonne, Mond, Milchstraße, Himmelsäquator, Polarstern, Tiefenschärfe, Blickfeld - Fotoplaner - Tool zur Suche von Aufnahmeorten - Informationen: Sonnenauf/-untergang, Dämmerung, Goldene Stunde, Blaue Stunde - Informationen: Mondauf/-untergang, Supermondtermine, Mondkalender - Rechner: Zeitraffer, Sterne erkennen, Sternspuren, lange Belichtungszeiten, hyperfokale Tabellen, Tiefenschärfe, Blickfeld, Entfernung zum Motiv, Brennweite-Einstellung - Komplette Anleitung und vieles mehr...
+
+* von Profis empfohlen
+"PhotoPills - ein unersetzbares Werkzeug, das ich zur Planung jeder Aufnahme benutze." – Mark Gee, Astronomie-Fotograf des Jahres
+“Ein Werkzeug, das jeder Fotograf haben sollte” – Kevin Raber, Luminous-landscape.com
+"Es zahlt sich aus! Dank diesem Tool können wir immer wieder tolle Aufnahmen schnell planen; Bietet die besten Möglichkeiten, um kreativer vorzugehen."- José B. Ruiz, Innovationspreis, Naturfotograf des Jahres
+
+* Übernimm die Kontrolle
+Warst du schon einmal an einem Ort und hast dir gedacht: "Schade, der Mond ist nicht genau da, ... das wäre ein hervorragendes Foto!"? Und die Sonne? Und die Milchstraße? Lasse deiner Fantasie freien Lauf und berechne, wann genau das passiert:
+
+- Stellen dir vor: die Milchstraße erscheint über eine zauberhafte Landschaft, der Vollmond geht unter einem geheimen Steinbogen unter, ein Sonnenaufgang zwischen zwei riesigen Felsen an einem Traumstrand, ein Sonnenuntergang über der Hauptstraße in deiner Heimatstadt oder ein spektakulärer Vollmond hinter einem nahe gelegenen Hügel.
+- Plane: Einfach das Datum und die Uhrzeit der gewünschten Szene berechnen und effektiver arbeiten!
+- Fotografiere: Geh einfach raus, tauche in die Natur ein und genieße es den perfekte Moment festzuhalten!
+
+* Keine Enttäuschungen!
+Berechne schnell, ob das Foto möglich ist oder nicht. Verschwende keine kostbare Zeit mehr mit langen Nachforschungen.
+
+* Verpasse nie wieder die perfekte Szene
+Erstelle eine To-Do-Liste von geplanten Fotos und fahre zum richtigen Zeitpunkt zum Aufnahmeort.
+
+* Mach es perfekt
+Wähle den perfekten Bildausschnitt schon vor der Aufnahme aus. Durch die 3D-Augmented Reality siehst du, ob die Sonne, der Mond, die Milchstraße, der Himmelsäquator und der Polarstern sich an der gewünschten Position befinden, wenn du den Auslöser drückst.
+
+* Entdecke tolle Orte und füge sie zu deiner persönlichen Datenbank hinzu
+Nutze PhotoPills, um einen Ort als POI zu speichern. Füge anschauliche Fotos und Notizen hinzu.
+
+* Fokussiere dich auf deine Kreativität; überlasse das Rechnen den Nerds
+- Berechne: Zeitraffer-Einstellungen, Langzeitbelichtungen, Sternspuren, die max. Belichtungszeit um Sterne als Punkte zu erfassen, Einstellungen für einen gewünschten Schärfegrad, Einstellungen für ein gewünschtes Sichtfeld, Objektivauswahl und Motivabstand für deinen Bildausschnitt, min. Abstand zum Motiv, entspr. Brennweite des Objektivs zur Reproduktion des Blickwinkels usw.
+- Prognose: Positionen von Sonne, Mond, Milchstraße, Himmelsäquator und Polarstern.
+
+* Teile deine Ergebnisse
+Egal ob du deine Ergebnisse deinen Freunden, der Familie oder der ganzen Welt zeigen willst: PhotoPills hilft dir dabei. Teile deine Pläne, geheimen Orte und all die anderen Planungen auf Facebook, Twitter oder beiden in nur wenigen Schritten.
+
+* Triff andere Fotografen
+Teile deine Pläne und Orte via E-Mail. Lade deine Freunde ein dabei zu sein. Andere PhotoPillers können deine Planungen importieren und selbst betrachten.
+
+Worauf wartest du? Hol dir PhotoPills gleich jetzt und mache wirklich einzigartig Aufnahmen!
+
+[View on Apple](https://apps.apple.com/fr/app/photopills/id596026805)
+
+<a id="fl-studio-mobile"></a>
+## FL Studio Mobile
+
+![FL Studio Mobile](../../logos/432850619-c0b6c00b.png)
+
+Create and save complete multi-track music projects on your iPad, iPhone or Mac. Record, sequence, edit, mix and render complete songs.
+
+
+FEATURE HIGHLIGHTS
+
+* Audio recording, track-length stem/wav import
+* Browse sample and presets with preview
+* Effects modules (see Included Content)
+* Full-screen MacBook and iMac Trackpad and Mouse support.
+* High quality synthesizers, sampler, drum kits & sliced-loop beats
+* Instrument modules (see Included Content)
+* Load projects in the FL STUDIO** FREE Plugin version of this App
+* MIDI controller support (class compliant). Automation support.
+* MIDI file import and Export (Single-track or Multi-track)
+* Mixer: Per-track mute, solo, effect bus, pan and volume adjustment
+* Piano roll. Edit notes or capture recorded performances.
+* Save and load WAV, MP3, AAC*, FLAC, MIDI
+* Share your songs via Wi-Fi or Cloud to other Mobile 3 installations
+* Step sequencer
+* User interface configurable with all screen resolutions and sizes.
+* Virtual piano-keyboard & Drumpads
+* IAA App support (In/Out), Audiobus support (In/Out)
+* Audio recording (external and internal sources)
+* Share your songs via Sync to other Mobile 3 devices / installations
+* Load your projects in the FL STUDIO* FREE 'Plugin' Version of this App#
+
+IN APP PURCHASES & INCLUDED CONTENT
+
+
+FL Studio Mobile includes in-app purchases for the DirectWave sample player. You can install your own samples and don’t need to buy content.
+
+
+All Instrument modules are included: Drum Sampler, DirectWave Sample Player, GMS (Groove Machine Synth), Transistor Bass, MiniSynth & SuperSaw.
+
+All Effect modules are included: Analyzer (visual), Auto Ducker, Auto-Pitch (pitch correction), Chorus, Compressor, Limiter, Distortion, Parametric Equalizer, Graphic Equalizer, Flanger, Reverb, Tuner (Guitar/Vocal/Inst), High-Pass/Low-Pass/Band-Pass/Formant (Vox) Filters, Delays, Phaser and Stereoizer.
+
+Included Drum Samples: Cymbals, Hats, Kicks, Snares, Toms, Percussion, Risers, SFX
+
+Included DirectWave Instruments: Guitars, Keyboards, Orchestral, Synth, Bass, Synth Keyboards, Synth Leads, Synth Pads, Sliced, Drums, Drum Kits and Effects.
+
+Included MiniSynth Presets: Bass, Keys, Leads, Pads, SFX, Synths
+
+Included SuperSaw Presets: Arps, Bass, Bells, SFX, Leads, Pads, Sequences, Synths
+
+WANT TO TRY BEFORE YOU BUY?
+
+Install FL STUDIO 20 for macOS / Windows and you can use the FL Studio Mobile Plugin. This is identical to the App, as a plugin inside FL Studio. Get it here: http://www.image-line.com/downloads/flstudiodownload.html
+
+MANUAL / TRAINING / VIDEOS
+
+http://support.image-line.com/redirect/flstudiomobile_help
+http://support.image-line.com/redirect/flstudiomobile_videos
+
+
+
+
+SUPPORT
+
+
+
+
+Please help us to help you! In the App, tap 'Help > Users & Support Forums' to register FL Studio Mobile to your Image-Line account and gain access to the forum. You can then report bugs, make feature requests and access free downloadable content: http://support.image-line.com/redirect/flmobile_forum
+
+[View on Apple](https://apps.apple.com/fr/app/fl-studio-mobile/id432850619)
+
 <a id="autosleep-苹果手表睡眠监测-睡觉记录及智能闹钟"></a>
 ## AutoSleep - 苹果手表睡眠监测，睡觉记录及智能闹钟
 
@@ -865,168 +935,6 @@ https://apps.apple.com/story/id1654240446
 https://apps.apple.com/story/id1719170110
 
 [View on Apple](https://apps.apple.com/fr/app/autosleep-tracker-de-sommeil/id1164801111)
-
-<a id="fl-studio-mobile"></a>
-## FL Studio Mobile
-
-![FL Studio Mobile](../../logos/432850619-c0b6c00b.png)
-
-Create and save complete multi-track music projects on your iPad, iPhone or Mac. Record, sequence, edit, mix and render complete songs.
-
-
-FEATURE HIGHLIGHTS
-
-* Audio recording, track-length stem/wav import
-* Browse sample and presets with preview
-* Effects modules (see Included Content)
-* Full-screen MacBook and iMac Trackpad and Mouse support.
-* High quality synthesizers, sampler, drum kits & sliced-loop beats
-* Instrument modules (see Included Content)
-* Load projects in the FL STUDIO** FREE Plugin version of this App
-* MIDI controller support (class compliant). Automation support.
-* MIDI file import and Export (Single-track or Multi-track)
-* Mixer: Per-track mute, solo, effect bus, pan and volume adjustment
-* Piano roll. Edit notes or capture recorded performances.
-* Save and load WAV, MP3, AAC*, FLAC, MIDI
-* Share your songs via Wi-Fi or Cloud to other Mobile 3 installations
-* Step sequencer
-* User interface configurable with all screen resolutions and sizes.
-* Virtual piano-keyboard & Drumpads
-* IAA App support (In/Out), Audiobus support (In/Out)
-* Audio recording (external and internal sources)
-* Share your songs via Sync to other Mobile 3 devices / installations
-* Load your projects in the FL STUDIO* FREE 'Plugin' Version of this App#
-
-IN APP PURCHASES & INCLUDED CONTENT
-
-
-FL Studio Mobile includes in-app purchases for the DirectWave sample player. You can install your own samples and don’t need to buy content.
-
-
-All Instrument modules are included: Drum Sampler, DirectWave Sample Player, GMS (Groove Machine Synth), Transistor Bass, MiniSynth & SuperSaw.
-
-All Effect modules are included: Analyzer (visual), Auto Ducker, Auto-Pitch (pitch correction), Chorus, Compressor, Limiter, Distortion, Parametric Equalizer, Graphic Equalizer, Flanger, Reverb, Tuner (Guitar/Vocal/Inst), High-Pass/Low-Pass/Band-Pass/Formant (Vox) Filters, Delays, Phaser and Stereoizer.
-
-Included Drum Samples: Cymbals, Hats, Kicks, Snares, Toms, Percussion, Risers, SFX
-
-Included DirectWave Instruments: Guitars, Keyboards, Orchestral, Synth, Bass, Synth Keyboards, Synth Leads, Synth Pads, Sliced, Drums, Drum Kits and Effects.
-
-Included MiniSynth Presets: Bass, Keys, Leads, Pads, SFX, Synths
-
-Included SuperSaw Presets: Arps, Bass, Bells, SFX, Leads, Pads, Sequences, Synths
-
-WANT TO TRY BEFORE YOU BUY?
-
-Install FL STUDIO 20 for macOS / Windows and you can use the FL Studio Mobile Plugin. This is identical to the App, as a plugin inside FL Studio. Get it here: http://www.image-line.com/downloads/flstudiodownload.html
-
-MANUAL / TRAINING / VIDEOS
-
-http://support.image-line.com/redirect/flstudiomobile_help
-http://support.image-line.com/redirect/flstudiomobile_videos
-
-
-
-
-SUPPORT
-
-
-
-
-Please help us to help you! In the App, tap 'Help > Users & Support Forums' to register FL Studio Mobile to your Image-Line account and gain access to the forum. You can then report bugs, make feature requests and access free downloadable content: http://support.image-line.com/redirect/flmobile_forum
-
-[View on Apple](https://apps.apple.com/fr/app/fl-studio-mobile/id432850619)
-
-<a id="healthfit"></a>
-## HealthFit
-
-![HealthFit](../../logos/1202650514-e32f4b0a.png)
-
-Verwandle deine Apple Watch in eine umfassende Trainingsplattform.
-
-HealthFit verwandelt die in Apple Health gespeicherten Trainings- und Gesundheitsdaten in fortschrittliche Fitnessmetriken, Trainingsanalysen und eine nahtlose Synchronisierung deiner Workouts – ganz ohne Benutzerkonto.
-
-Egal, ob du für deinen nächsten Wettkampf trainierst, deine Fitness verbessern oder einfach aktiv bleiben möchtest – HealthFit hilft dir, deine Fortschritte zu verstehen, dein Training zu optimieren und deine Ziele zu erreichen.
-
-INTELLIGENTER TRAINIEREN
-
-HealthFit hilft dir dabei, Folgendes zu verstehen:
-
-• Trainingsbelastung
-• Fitness (CTL), Ermüdung (ATL) und Form (TSB)
-• Trainingsbelastungsverhältnis
-• Herzfrequenzzonen und Trainingsverteilung
-• Jahresvergleiche und Trends
-• Explorer Score und Trainings-Heatmaps
-
-Diese Metriken und Analysen sind normalerweise professionellen Trainingsplattformen vorbehalten.
-
-ALLES AN EINEM ORT
-
-Verfolge Trainingsbelastung, Fitnessentwicklung, Gesundheitsmetriken und deinen gesamten Trainingsverlauf über ein einziges Dashboard.
-
-EIN BESSERER AKTIVITÄTSFEED
-
-Durchsuche deine Workouts mit Karten, Fotos und den wichtigsten Kennzahlen auf einen Blick.
-
-• Anpassbare Herzfrequenzzonen
-• Verfolgung der Trainingsbelastung
-• Ausrüstungsverfolgung (Schuhe, Fahrräder und mehr)
-• Analyse von Höhenmetern, Tempo, Leistung und Kadenz
-• Detaillierte Diagramme und Leistungstrends
-
-HealthFit kann automatisch Fotos zuordnen, die während deiner Workouts aufgenommen wurden.
-
-LEISTUNGSANALYSE
-
-Analysiere deine Lauf- und Radleistung mit:
-
-• Geschätzte kritische Leistung
-• Gewichtete Durchschnittsleistung
-• Mean-Maximal-Power-Kurven
-• Leistungsverteilung
-• Historische Leistungstrends
-
-GESUNDHEITSMETRIKEN FÜR ATHLETEN
-
-• Herzfrequenzvariabilität (HRV)
-• Ruheherzfrequenz
-• Kardiorespiratorische Fitness (VO₂max)
-• Schlafmetriken
-• Gewicht, BMI und Körperfettanteil
-• Baevsky-Stressindex
-
-FÜR JEDE SPORTART GEEIGNET
-
-HealthFit unterstützt alle Aktivitätstypen und passt Statistiken, Diagramme und Analysen automatisch an deine häufigsten Aktivitäten an.
-
-AUTOMATISCHE WORKOUT-SYNCHRONISIERUNG
-
-HealthFit synchronisiert deine Workouts automatisch im Hintergrund mit deinen bevorzugten Fitnessplattformen.
-
-Jedes mit der Apple Watch aufgezeichnete Workout wird automatisch hochgeladen – ohne manuelle Exporte und ohne zusätzliche Schritte.
-
-Du kannst sogar deinen gesamten Trainingsverlauf synchronisieren.
-
-MULTISPORT-UNTERSTÜTZUNG
-
-HealthFit unterstützt Multisport- und Intervalltrainings vollständig und kann Multisport-Aktivitäten als echte Multi-Session-Aktivitäten exportieren.
-
-DEINE DATEN GEHÖREN DIR
-
-Kein Benutzerkonto erforderlich. Keine Anmeldung erforderlich.
-
-HealthFit arbeitet direkt mit Apple Health und speichert deine Daten auf deinem Gerät.
-
-VERBINDET SICH MIT DEINEN LIEBLINGS-FITNESSPLATTFORMEN
-
-Strava, TrainingPeaks, Final Surge, Selfloops, Smashrun, Ride with GPS, Cycling Analytics, Today's Plan, Runalyze, Suunto, 2PEAK, Komoot, COROS, Intervals.icu, Nolio, TrainAsONE, Tredict, Stages Link, Map My Tracks und Xhale.
-
-Exportiere detaillierte Trainingsberichte im Markdown-Format mit Diagrammen, Karten und Analysen oder exportiere deine Daten in den Formaten FIT, GPX, CSV und Google Sheets.
-
-Nutzungsbedingungen:
-https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
-
-[View on Apple](https://apps.apple.com/fr/app/healthfit/id1202650514)
 
 <a id="autosnore-鼾声记录器"></a>
 ## AutoSnore: 鼾声记录器
@@ -1134,6 +1042,210 @@ Kartendaten © OpenStreetMap Mitwirkende (http://www.openstreetmap.org/copyright
 
 [View on Apple](https://apps.apple.com/fr/app/mapout/id477094081)
 
+<a id="ireal-pro"></a>
+## iReal Pro
+
+![iReal Pro](../../logos/298206806-55f5f1ba.png)
+
+iReal Pro réunit deux choses que les musiciens adorent en une seule app : un groupe d’accompagnement au son réaliste qui joue avec vous, et une énorme bibliothèque gratuite de grilles d’accords consultables à tout moment — en répétition, en jam session ou sur scène. Besoin de transposer un morceau pour un chanteur ? C’est fait. Envie de jouer avec une section rythmique complète derrière vous ? Appuyez sur play.
+
+Désignée parmi les 50 Meilleures Inventions du TIME Magazine et utilisée par des milliers d’étudiants, professeurs et pros dans des écoles comme le Berklee College of Music — iReal Pro aide les musiciens à progresser depuis 2008.
+
+GROUPE
+• 50 styles d’accompagnement — Swing, Bossa Nova, Blues, Funk, Rock, Bluegrass, Reggae, Latin, Gypsy Jazz, Country et bien d’autres
+• Personnalisez chaque style avec piano acoustique ou électrique, Fender Rhodes, guitares, contrebasse ou basse électrique, batterie, vibraphone et orgue
+• 40 styles supplémentaires — blues, salsa, brésiliens — disponibles en achats intégrés
+
+RECUEIL
+• Téléchargez des milliers de grilles d’accords gratuites partagées par la communauté iReal Pro
+• Créez vos propres grilles en quelques minutes avec l’éditeur intégré
+• Organisez les grilles en listes pour vos concerts, sets ou cours
+
+PRATIQUE
+• Ajustez le tempo, bouclez les passages difficiles, transposez dans n’importe quelle tonalité
+• Accélération automatique du tempo et cycle de tonalités pour un travail ciblé
+• Transposition globale pour les instruments en Mib, Sib, Fa et Sol
+
+ACCORDS
+• Doigtés de guitare, ukulélé et piano pour chaque accord
+• Touchez n’importe quel accord dans votre grille pour voir comment il se joue
+• Suggestions de gammes pour l’improvisation
+
+PARTAGER
+• Partagez grilles et listes avec d’autres utilisateurs iReal Pro
+• Exportez les grilles en PDF ou MusicXML
+• Exportez les morceaux d’accompagnement en fichiers audio ou MIDI
+• Synchronisez entre iPhone, iPad et Mac avec iCloud
+
+POUR LES PROFS
+• Créez des listes d’exercices ou de morceaux pour vos élèves
+• Utilisez en classe, en direct ou en partage d’écran lors de cours en ligne
+
+Nous sommes une petite équipe de musiciens qui avons créé cette app parce que nous en avions besoin nous-mêmes. Nous espérons que vous l’apprécierez autant que nous.
+
+[View on Apple](https://apps.apple.com/fr/app/ireal-pro/id298206806)
+
+<a id="healthfit"></a>
+## HealthFit
+
+![HealthFit](../../logos/1202650514-e32f4b0a.png)
+
+Verwandle deine Apple Watch in eine umfassende Trainingsplattform.
+
+HealthFit verwandelt die in Apple Health gespeicherten Trainings- und Gesundheitsdaten in fortschrittliche Fitnessmetriken, Trainingsanalysen und eine nahtlose Synchronisierung deiner Workouts – ganz ohne Benutzerkonto.
+
+Egal, ob du für deinen nächsten Wettkampf trainierst, deine Fitness verbessern oder einfach aktiv bleiben möchtest – HealthFit hilft dir, deine Fortschritte zu verstehen, dein Training zu optimieren und deine Ziele zu erreichen.
+
+INTELLIGENTER TRAINIEREN
+
+HealthFit hilft dir dabei, Folgendes zu verstehen:
+
+• Trainingsbelastung
+• Fitness (CTL), Ermüdung (ATL) und Form (TSB)
+• Trainingsbelastungsverhältnis
+• Herzfrequenzzonen und Trainingsverteilung
+• Jahresvergleiche und Trends
+• Explorer Score und Trainings-Heatmaps
+
+Diese Metriken und Analysen sind normalerweise professionellen Trainingsplattformen vorbehalten.
+
+ALLES AN EINEM ORT
+
+Verfolge Trainingsbelastung, Fitnessentwicklung, Gesundheitsmetriken und deinen gesamten Trainingsverlauf über ein einziges Dashboard.
+
+EIN BESSERER AKTIVITÄTSFEED
+
+Durchsuche deine Workouts mit Karten, Fotos und den wichtigsten Kennzahlen auf einen Blick.
+
+• Anpassbare Herzfrequenzzonen
+• Verfolgung der Trainingsbelastung
+• Ausrüstungsverfolgung (Schuhe, Fahrräder und mehr)
+• Analyse von Höhenmetern, Tempo, Leistung und Kadenz
+• Detaillierte Diagramme und Leistungstrends
+
+HealthFit kann automatisch Fotos zuordnen, die während deiner Workouts aufgenommen wurden.
+
+LEISTUNGSANALYSE
+
+Analysiere deine Lauf- und Radleistung mit:
+
+• Geschätzte kritische Leistung
+• Gewichtete Durchschnittsleistung
+• Mean-Maximal-Power-Kurven
+• Leistungsverteilung
+• Historische Leistungstrends
+
+GESUNDHEITSMETRIKEN FÜR ATHLETEN
+
+• Herzfrequenzvariabilität (HRV)
+• Ruheherzfrequenz
+• Kardiorespiratorische Fitness (VO₂max)
+• Schlafmetriken
+• Gewicht, BMI und Körperfettanteil
+• Baevsky-Stressindex
+
+FÜR JEDE SPORTART GEEIGNET
+
+HealthFit unterstützt alle Aktivitätstypen und passt Statistiken, Diagramme und Analysen automatisch an deine häufigsten Aktivitäten an.
+
+AUTOMATISCHE WORKOUT-SYNCHRONISIERUNG
+
+HealthFit synchronisiert deine Workouts automatisch im Hintergrund mit deinen bevorzugten Fitnessplattformen.
+
+Jedes mit der Apple Watch aufgezeichnete Workout wird automatisch hochgeladen – ohne manuelle Exporte und ohne zusätzliche Schritte.
+
+Du kannst sogar deinen gesamten Trainingsverlauf synchronisieren.
+
+MULTISPORT-UNTERSTÜTZUNG
+
+HealthFit unterstützt Multisport- und Intervalltrainings vollständig und kann Multisport-Aktivitäten als echte Multi-Session-Aktivitäten exportieren.
+
+DEINE DATEN GEHÖREN DIR
+
+Kein Benutzerkonto erforderlich. Keine Anmeldung erforderlich.
+
+HealthFit arbeitet direkt mit Apple Health und speichert deine Daten auf deinem Gerät.
+
+VERBINDET SICH MIT DEINEN LIEBLINGS-FITNESSPLATTFORMEN
+
+Strava, TrainingPeaks, Final Surge, Selfloops, Smashrun, Ride with GPS, Cycling Analytics, Today's Plan, Runalyze, Suunto, 2PEAK, Komoot, COROS, Intervals.icu, Nolio, TrainAsONE, Tredict, Stages Link, Map My Tracks und Xhale.
+
+Exportiere detaillierte Trainingsberichte im Markdown-Format mit Diagrammen, Karten und Analysen oder exportiere deine Daten in den Formaten FIT, GPX, CSV und Google Sheets.
+
+Nutzungsbedingungen:
+https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+
+[View on Apple](https://apps.apple.com/fr/app/healthfit/id1202650514)
+
+<a id="things-3"></a>
+## Things 3
+
+![Things 3](../../logos/904237743-948454e5.png)
+
+So kriegst du alles geregelt! Mit der preisgekrönten Things-App planst du deinen Tag, verwaltest Projekte und arbeitest effizient auf deine Ziele hin.
+
+Und das Beste: Sie ist ganz einfach zu verwenden. Im Handumdrehen ordnest du deine Gedanken und Aufgaben – von alltäglichen Erledigungen bis hin zu den größten Lebenszielen – und kannst dich mit freiem Kopf ganz darauf konzentrieren, was heute für dich zählt.
+
+„Von allen getesteten Apps bietet Things das beste Gesamtpaket aus Design und Funktionalität – mit beinahe allen Features anderer Profi-Apps und einer stilsicher gestalteten Oberfläche, die bei der Arbeit nie in die Quere kommt.“
+– Wirecutter, The New York Times
+
+
+WICHTIGSTE MERKMALE
+
+• Deine Aufgaben
+In Things dreht sich alles um Aufgaben. Immer, wenn du eine erledigst, ist das ein kleiner Schritt zu einem großen Erfolg. Teile große Aufgaben in kleinere auf. Kläre die nötigen Details mit Notizen. Kategorisiere sie mithilfe von Tags. Und mach dir einen Plan für die nächsten Tage.
+
+• Deine Projekte
+Erstelle ein Projekt für jedes deiner großen Ziele. Things hilft dir, den nächsten Schritt klar zu sehen. Behalte den Überblick dank Überschriften, Notizen und Deadlines. So bleibst du stets auf Kurs.
+
+• Deine Bereiche
+Erstelle einen Bereich für jeden Aspekt deines Lebens, der dir wichtig ist. Zum Beispiel für Arbeit, Familie, Gesundheit oder Finanzen. So bleibt alles sauber geordnet und du behältst das große Ganze im Blick.
+
+• Dein Plan
+Die Listen „Heute“ und „Geplant“ zeigen übersichtlich deine geplanten Aufgaben zusammen mit deinen Kalender-Einträgen. So siehst du jeden Morgen mit einem Blick, was an diesem Tag ansteht.
+
+
+WEITERE GENIALE FEATURES
+
+Wenn du mit Things arbeitest, wirst du auf weitere hilfreiche Funktionen stoßen. Hier nur einige davon:
+
+• Erinnerungen – stelle eine Zeit ein, und Things erinnert dich.
+• Wiederholungen – wiederhole Aufgaben automatisch im eingestellten Rhythmus.
+• Heute Abend – ein Feature speziell für deine Abendplanung.
+• Kalender-Integration – lass Kalender-Ereignisse und Aufgaben kombiniert anzeigen.
+• Tags – kategorisiere Aufgaben und filtere Listen im Handumdrehen.
+• Schnellsuche – finde sofort Aufgaben oder wechsle zwischen Listen.
+• Magic Plus – ziehe die „+“-Taste, um Aufgaben an einer beliebigen Stelle einer Liste hinzuzufügen.
+• Per E-Mail an Things – leite eine E-Mail an Things weiter; schon wird eine Aufgabe erstellt.
+• Markdown — strukturiere und gestalte deine Notizen.
+• Apple Watch-App – hebe das Handgelenk, um die Liste „Heute“ zu sehen.
+
+
+FÜR DAS IPHONE ENTWICKELT
+
+Things ist speziell an das iPhone angepasst und schöpft seine Möglichkeiten voll aus. Erstelle schnell Aufgaben innerhalb anderer Apps, binde Kalender ein, füge eine Vielzahl von Widgets hinzu, sprich mit Siri und integriere Kurzbefehle – all das bietet Things!
+
+
+PREISGEKRÖNTES DESIGN
+
+Things wurde aufgrund seines herausragenden Designs vielfach ausgezeichnet, unter anderem mit zwei Apple Design Awards. Jedes Detail wurde genau durchdacht und dann bis zur Perfektion ausgefeilt.
+
+„Anspruchsvoll genug für professionelles Arbeiten, überraschend einfach zu bedienen und ein echter Hingucker.“
+– Apple
+
+
+HOL DIR THINGS NOCH HEUTE
+
+Was auch immer du im Leben erreichen willst, Things hilft dir dabei. Installiere heute die App und sieh, was du schaffen kannst!
+
+• Things gibt es auch für Mac, iPad und Apple Vision Pro (separat erhältlich).
+• Die Synchronisierung erfolgt kostenlos über Things Cloud.
+• Things für den Mac kann kostenlos getestet werden: www.things.app
+
+Wende dich an uns, wenn du Fragen hast. Wir helfen gerne weiter.
+
+[View on Apple](https://apps.apple.com/fr/app/things-3/id904237743)
+
 <a id="heartwatch-心脏和活动监测器"></a>
 ## HeartWatch: 心脏和活动监测器
 
@@ -1229,6 +1341,45 @@ iVerify Basic is your gateway to enhanced device security and threat awareness, 
 
 [View on Apple](https://apps.apple.com/fr/app/iverify-basic/id1466120520)
 
+<a id="knoten-3d-knots-3d"></a>
+## Knoten 3D  (Knots 3D)
+
+![Knoten 3D  (Knots 3D)](../../logos/453571750-4c04091d.png)
+
+Binden, lösen und rotiere 220+ Knoten mit Deinem Finger in 3D!
+
+Knoten 3D, unsere erstklassige 3D-Knoten-App wird Dir eine komplett neue Perspektive über Knoten geben! Nimm Dir ein Stück Seil und habe Spaß!
+
+Produktmerkmale und Funktionen
+- Lerne, 225 einzigartige Knoten zu binden
+- Lokalisierte für: Niederländisch, Französisch, Deutsch, Italienisch, Koreanisch, Spanisch, Russisch, Dänisch, Chinesisch, Portugiesisch, Japanisch, Schwedisch, Türkisch, Hebräisch, Norwegisch, Polnisch und Englisch!
+- Durchsuche die Knoten nach Kategorie, Art, Favoriten oder sehe Dir die gesamte Bibliothek an
+- Sehe zu, wie sich Knoten selbst binden und mache eine Pause oder passe die Geschwindigkeit der Animation jederzeit an
+- Rotiere die Knoten um 360 Grad, 3D-Ansichten helfen dabei, sie von einem anderen Winkel zu untersuchen
+- Zoome einen Knoten heran, um ihn größer zu sehen
+- Interagiere mit dem Knoten auf dem Bildschirm durch Multi-Touch-Gesten
+
+Die Knoten werden unter ihren gebräuchlichen Synonymen oder lokalisierten Entsprechungen aufgelistet. Die Knotennamen sind in Niederländisch, Französisch, Deutsch, Italienisch, Koreanisch und Russisch aufgeführt.
+
+Schmetterlingsknoten
+Blutknoten
+Palstek
+Webeleinenstek
+Doppelter Schotstek
+Flämischer Achtknoten
+Affenfaust
+Halbmastwurf
+Anglerschlaufe
+Trompetenknoten
+Zeppelinstek
+...
+
+Die gesamte Knotenliste:
+
+https://knots3d.com/de/komplette-knotenliste
+
+[View on Apple](https://apps.apple.com/fr/app/n%C5%93uds-3d-knots-3d/id453571750)
+
 <a id="skyview"></a>
 ## SkyView®
 
@@ -1294,6 +1445,68 @@ Optional können Sie per In-App-Kauf den beliebten Premium-Dienst aktivieren –
 •	 Badewetter und mehr
 
 [View on Apple](https://apps.apple.com/fr/app/weatherpro/id294631159)
+
+<a id="flyskyhy"></a>
+## Flyskyhy
+
+![Flyskyhy](../../logos/516879039-df414ca2.png)
+
+Flyskyhy forms your flight instrument during flight and shows all information you need for that. You get the normal data like altitude, climb rate, ground speed, and glide angle. But it also calculates and shows the current wind direction and strength, very important for your safety.
+
+A moving and rotating map shows your current flying position and flight trail. It indicates where you have gone up (in a thermal), and where you have had faster than normal decline. With that, you can easily find back that thermal that you lost. The map also shows the nearest known landing spots, and whether they are reachable by normal glide, given your current altitude and wind direction.
+
+Integration with Bluetooth varios SensBox, FlyNet, GoFly iPico, XC-Tracer, BlueFlyVario, and SkyDrop gives accurate altitude and lift information. That turns your iPhone into an full-fletched GPS-vario, including vario tones.
+
+The app makes a full log of your flight, that can be analyzed afterwards. Besides normal data like start and landing positions, duration of flight, and an altitude graph of the flight, Flyskyhy also calculates the scoring distances for you. So you can immediately see whether you have broken that FAI triangle record.
+
+Your live location is reported on livetrack24.com or loctome.com if you desire, so anybody can follow your flight while it is happening. If you are flying together with friends, then their location is shown on your map during your flight. So you never have to wonder anymore whether they are in front of or behind you.
+
+The flight display has multiple screens which are all fully configurable. You can move all elements to other spots, delete and add elements, and resize them.
+
+Through in-app purchases, the app also supports airspaces and waypoints.
+
+The app is optimised for paragliding and hang gliders, but can be used with all  kinds of airsports.
+
+Main features during the flight;
+• Altitude, climb rate, ground speed, air speed, direction, glide angle and many more
+• Wind strength and direction
+• Moving map of the flying area
+• Spots where you have had lift, great for thermal coring
+• Shows whether you can still reach a landing spot with the current altitude and wind
+• Live tracking of your flight on livetrack24.com or loctome.com
+• Shows live location of your friends during flight
+
+After the flight:
+• Full logbook of all your flights
+• Basic flight data like start/landing, duration, height difference, distance flown, and many more
+• Calculation of 5-points, open triangle, and FAI triangle distances
+• Graph of altitude and climb rate
+• Signed IGC and KML log files of flights
+• Transfer the log to iTunes or send by email
+• Upload the flight directly to XContest, ParaglidingForum, DHV-XC, and other Leonardo servers
+• Open flight in Google Earth on the iPhone
+• Replay the flight and relive it!
+
+By purchasing the Waypoints Extension you get access to:
+• A fully zoomable and scrollable map with the waypoints and optimised route. The map also shows start and landing spots, as well as restricted airspaces (with the Airspace Extension)
+• Enter new waypoints, either on the map or by specifying the parameters
+• Full route support with start time, goal, entry/exit points, etc. 
+• Many instruments to guide you along the route
+• Visible and audible indication when a waypoint has been reached
+• Complete waypoints organiser
+• Import and export of various waypoint file formats
+
+By purchasing the Airspace Extension you get access to:
+• Airspaces of 30 countries
+• Display of airspaces on the map with configurable colors and formats
+• Display of your vertical position w.r.t. airspaces
+• Visible and audible warnings when approaching and entering an airspace
+• Shows local airspaces by touching a spot on the map
+
+Note: a live internet connection is required for live tracking of your and your friends locations
+Note: continuous GPS and screen usage makes the battery drain faster than normal
+
+[View on Apple](https://apps.apple.com/fr/app/flyskyhy/id516879039)
 
 <a id="borderwatcher"></a>
 ## BorderWatcher
@@ -1402,49 +1615,6 @@ Sie haben Fragen, Feedback oder Vorschläge? Dann schreiben Sie uns an support@p
 Die aktuellsten Informationen gibt es im ProCamera Newsletter und unter procamera-app.com.
 
 [View on Apple](https://apps.apple.com/fr/app/procamera-appareil-photo-raw/id694647259)
-
-<a id="ireal-pro"></a>
-## iReal Pro
-
-![iReal Pro](../../logos/298206806-55f5f1ba.png)
-
-iReal Pro réunit deux choses que les musiciens adorent en une seule app : un groupe d’accompagnement au son réaliste qui joue avec vous, et une énorme bibliothèque gratuite de grilles d’accords consultables à tout moment — en répétition, en jam session ou sur scène. Besoin de transposer un morceau pour un chanteur ? C’est fait. Envie de jouer avec une section rythmique complète derrière vous ? Appuyez sur play.
-
-Désignée parmi les 50 Meilleures Inventions du TIME Magazine et utilisée par des milliers d’étudiants, professeurs et pros dans des écoles comme le Berklee College of Music — iReal Pro aide les musiciens à progresser depuis 2008.
-
-GROUPE
-• 50 styles d’accompagnement — Swing, Bossa Nova, Blues, Funk, Rock, Bluegrass, Reggae, Latin, Gypsy Jazz, Country et bien d’autres
-• Personnalisez chaque style avec piano acoustique ou électrique, Fender Rhodes, guitares, contrebasse ou basse électrique, batterie, vibraphone et orgue
-• 40 styles supplémentaires — blues, salsa, brésiliens — disponibles en achats intégrés
-
-RECUEIL
-• Téléchargez des milliers de grilles d’accords gratuites partagées par la communauté iReal Pro
-• Créez vos propres grilles en quelques minutes avec l’éditeur intégré
-• Organisez les grilles en listes pour vos concerts, sets ou cours
-
-PRATIQUE
-• Ajustez le tempo, bouclez les passages difficiles, transposez dans n’importe quelle tonalité
-• Accélération automatique du tempo et cycle de tonalités pour un travail ciblé
-• Transposition globale pour les instruments en Mib, Sib, Fa et Sol
-
-ACCORDS
-• Doigtés de guitare, ukulélé et piano pour chaque accord
-• Touchez n’importe quel accord dans votre grille pour voir comment il se joue
-• Suggestions de gammes pour l’improvisation
-
-PARTAGER
-• Partagez grilles et listes avec d’autres utilisateurs iReal Pro
-• Exportez les grilles en PDF ou MusicXML
-• Exportez les morceaux d’accompagnement en fichiers audio ou MIDI
-• Synchronisez entre iPhone, iPad et Mac avec iCloud
-
-POUR LES PROFS
-• Créez des listes d’exercices ou de morceaux pour vos élèves
-• Utilisez en classe, en direct ou en partage d’écran lors de cours en ligne
-
-Nous sommes une petite équipe de musiciens qui avons créé cette app parce que nous en avions besoin nous-mêmes. Nous espérons que vous l’apprécierez autant que nous.
-
-[View on Apple](https://apps.apple.com/fr/app/ireal-pro/id298206806)
 
 <a id="fongo-world-edition"></a>
 ## Fongo World Edition
@@ -1674,6 +1844,31 @@ Cozmo robot required to play. Available at Anki.com.
 
 [View on Apple](https://apps.apple.com/fr/app/cozmo-robot/id6748243845)
 
+<a id="madeira-weather"></a>
+## Madeira Weather
+
+![Madeira Weather](../../logos/778610321-d69f8fc6.png)
+
+With ‘madeira Weather' you will never need to refer to highly complex websites or wait for the official weather report, to know the weather in the Madeira Archipelago.
+Now you can consult the weather forecast for any locality, including some strategic places like ‘Pico do Arieiro’, ‘Pico Ruivo’ and ‘Rabaçal’, well known other locations with fantastic views and walks.
+
+Connect your tablet or smartphone to the Internet, download a small data file and use your updated forecast for the rest of the day, no need for constant downloads and expensive bills.
+Unlike other weather services, the madeiraWeather uses high-resolution mathematical models.
+New functionalities will be added in the future. Do not hesitate to contact us and let us know your difficulties and suggestions!
+
+* Key Features *
+=> Forecasts in a Map: quickly get a glimpse of the weather across the island, by viewing the forecast icons overlaid onto a map. Use the zoom to view full resolution.
+=> All places: browse through a list of forecasts organized by locality. Besides icons representing the weather you may also view the predicted values for temperature, humidity and wind. Consult the legend for details on each icon.
+=> More details: access more detailed weather information in each locality.
+=> Favorites: want browse forecasts in a list of locations of your choice? Open sites individually and add them to your ‘Favorites’ list.
+=> Satellite images: use this option to view the satellite images from EUMETSAT-RGB, centered over Madeira Archipelago. Sequence of images usually hosts data for three consecutive days, with snapshots available several times a day.
+=> Time-navigation for up to three days, with hourly forecasts for all your favorite locations. Beyond three days any forecasting system becomes too unreliable to trust.
+
+* Some Notes *
+Forecasts are mathematical calculations and should be used with care. In fact, the information provided by ANY prediction systems is only indicative. As such, CIIMAR-Madeira cannot be held liable for any incorrect information and / or inaccuracy, and for any consequences that may arise.
+
+[View on Apple](https://apps.apple.com/fr/app/madeira-weather/id778610321)
+
 <a id="ee35-film-camera"></a>
 ## EE35 Film Camera
 
@@ -1695,75 +1890,6 @@ Multiple exposure can be done by shutter charge without film advance.
 Please enjoy retro camera life.
 
 [View on Apple](https://apps.apple.com/fr/app/ee35-film-camera/id1313164055)
-
-<a id="things-3"></a>
-## Things 3
-
-![Things 3](../../logos/904237743-948454e5.png)
-
-So kriegst du alles geregelt! Mit der preisgekrönten Things-App planst du deinen Tag, verwaltest Projekte und arbeitest effizient auf deine Ziele hin.
-
-Und das Beste: Sie ist ganz einfach zu verwenden. Im Handumdrehen ordnest du deine Gedanken und Aufgaben – von alltäglichen Erledigungen bis hin zu den größten Lebenszielen – und kannst dich mit freiem Kopf ganz darauf konzentrieren, was heute für dich zählt.
-
-„Von allen getesteten Apps bietet Things das beste Gesamtpaket aus Design und Funktionalität – mit beinahe allen Features anderer Profi-Apps und einer stilsicher gestalteten Oberfläche, die bei der Arbeit nie in die Quere kommt.“
-– Wirecutter, The New York Times
-
-
-WICHTIGSTE MERKMALE
-
-• Deine Aufgaben
-In Things dreht sich alles um Aufgaben. Immer, wenn du eine erledigst, ist das ein kleiner Schritt zu einem großen Erfolg. Teile große Aufgaben in kleinere auf. Kläre die nötigen Details mit Notizen. Kategorisiere sie mithilfe von Tags. Und mach dir einen Plan für die nächsten Tage.
-
-• Deine Projekte
-Erstelle ein Projekt für jedes deiner großen Ziele. Things hilft dir, den nächsten Schritt klar zu sehen. Behalte den Überblick dank Überschriften, Notizen und Deadlines. So bleibst du stets auf Kurs.
-
-• Deine Bereiche
-Erstelle einen Bereich für jeden Aspekt deines Lebens, der dir wichtig ist. Zum Beispiel für Arbeit, Familie, Gesundheit oder Finanzen. So bleibt alles sauber geordnet und du behältst das große Ganze im Blick.
-
-• Dein Plan
-Die Listen „Heute“ und „Geplant“ zeigen übersichtlich deine geplanten Aufgaben zusammen mit deinen Kalender-Einträgen. So siehst du jeden Morgen mit einem Blick, was an diesem Tag ansteht.
-
-
-WEITERE GENIALE FEATURES
-
-Wenn du mit Things arbeitest, wirst du auf weitere hilfreiche Funktionen stoßen. Hier nur einige davon:
-
-• Erinnerungen – stelle eine Zeit ein, und Things erinnert dich.
-• Wiederholungen – wiederhole Aufgaben automatisch im eingestellten Rhythmus.
-• Heute Abend – ein Feature speziell für deine Abendplanung.
-• Kalender-Integration – lass Kalender-Ereignisse und Aufgaben kombiniert anzeigen.
-• Tags – kategorisiere Aufgaben und filtere Listen im Handumdrehen.
-• Schnellsuche – finde sofort Aufgaben oder wechsle zwischen Listen.
-• Magic Plus – ziehe die „+“-Taste, um Aufgaben an einer beliebigen Stelle einer Liste hinzuzufügen.
-• Per E-Mail an Things – leite eine E-Mail an Things weiter; schon wird eine Aufgabe erstellt.
-• Markdown — strukturiere und gestalte deine Notizen.
-• Apple Watch-App – hebe das Handgelenk, um die Liste „Heute“ zu sehen.
-
-
-FÜR DAS IPHONE ENTWICKELT
-
-Things ist speziell an das iPhone angepasst und schöpft seine Möglichkeiten voll aus. Erstelle schnell Aufgaben innerhalb anderer Apps, binde Kalender ein, füge eine Vielzahl von Widgets hinzu, sprich mit Siri und integriere Kurzbefehle – all das bietet Things!
-
-
-PREISGEKRÖNTES DESIGN
-
-Things wurde aufgrund seines herausragenden Designs vielfach ausgezeichnet, unter anderem mit zwei Apple Design Awards. Jedes Detail wurde genau durchdacht und dann bis zur Perfektion ausgefeilt.
-
-„Anspruchsvoll genug für professionelles Arbeiten, überraschend einfach zu bedienen und ein echter Hingucker.“
-– Apple
-
-
-HOL DIR THINGS NOCH HEUTE
-
-Was auch immer du im Leben erreichen willst, Things hilft dir dabei. Installiere heute die App und sieh, was du schaffen kannst!
-
-• Things gibt es auch für Mac, iPad und Apple Vision Pro (separat erhältlich).
-• Die Synchronisierung erfolgt kostenlos über Things Cloud.
-• Things für den Mac kann kostenlos getestet werden: www.things.app
-
-Wende dich an uns, wenn du Fragen hast. Wir helfen gerne weiter.
-
-[View on Apple](https://apps.apple.com/fr/app/things-3/id904237743)
 
 <a id="happycow-vegan-food-near-you"></a>
 ## HappyCow - Vegan Food Near You
@@ -1946,45 +2072,6 @@ Parchment is for people who want a journal that understands the shape of their d
 
 [View on Apple](https://apps.apple.com/fr/app/parchment-agenda-daily-note/id6779987526)
 
-<a id="knoten-3d-knots-3d"></a>
-## Knoten 3D  (Knots 3D)
-
-![Knoten 3D  (Knots 3D)](../../logos/453571750-4c04091d.png)
-
-Binden, lösen und rotiere 220+ Knoten mit Deinem Finger in 3D!
-
-Knoten 3D, unsere erstklassige 3D-Knoten-App wird Dir eine komplett neue Perspektive über Knoten geben! Nimm Dir ein Stück Seil und habe Spaß!
-
-Produktmerkmale und Funktionen
-- Lerne, 225 einzigartige Knoten zu binden
-- Lokalisierte für: Niederländisch, Französisch, Deutsch, Italienisch, Koreanisch, Spanisch, Russisch, Dänisch, Chinesisch, Portugiesisch, Japanisch, Schwedisch, Türkisch, Hebräisch, Norwegisch, Polnisch und Englisch!
-- Durchsuche die Knoten nach Kategorie, Art, Favoriten oder sehe Dir die gesamte Bibliothek an
-- Sehe zu, wie sich Knoten selbst binden und mache eine Pause oder passe die Geschwindigkeit der Animation jederzeit an
-- Rotiere die Knoten um 360 Grad, 3D-Ansichten helfen dabei, sie von einem anderen Winkel zu untersuchen
-- Zoome einen Knoten heran, um ihn größer zu sehen
-- Interagiere mit dem Knoten auf dem Bildschirm durch Multi-Touch-Gesten
-
-Die Knoten werden unter ihren gebräuchlichen Synonymen oder lokalisierten Entsprechungen aufgelistet. Die Knotennamen sind in Niederländisch, Französisch, Deutsch, Italienisch, Koreanisch und Russisch aufgeführt.
-
-Schmetterlingsknoten
-Blutknoten
-Palstek
-Webeleinenstek
-Doppelter Schotstek
-Flämischer Achtknoten
-Affenfaust
-Halbmastwurf
-Anglerschlaufe
-Trompetenknoten
-Zeppelinstek
-...
-
-Die gesamte Knotenliste:
-
-https://knots3d.com/de/komplette-knotenliste
-
-[View on Apple](https://apps.apple.com/fr/app/n%C5%93uds-3d-knots-3d/id453571750)
-
 <a id="wikifarms-australia"></a>
 ## WikiFarms Australia
 
@@ -2037,6 +2124,56 @@ Are you a farmer looking for workers? You can contact us at: info.wikifarms@gmai
 We will answer you within 24h.
 
 [View on Apple](https://apps.apple.com/fr/app/wikifarms-australia/id1483519317)
+
+<a id="rally-call"></a>
+## Rally Call
+
+![Rally Call](../../logos/6748931500-17f7a390.png)
+
+Préparez vos notes comme un pro.
+- Ajoutez des notes vocales géolocalisées sur chaque portion de route
+- Visualisez en temps réel l’angle de rotation du volant avec un cadran cockpit animé
+- Utilisez un outil de précision pour vos prises de distance
+- Gardez une trace du dernier virage significatif automatiquement
+- Accédez à la météo du jour sur la spéciale, avec localisation intégrée
+- Accédez à vos résultats en live via le lien FFSA
+- Partagez et sauvegardez vos reconnaissances avec les fichiers Rally Call
+
+Pensée par des copilotes, pour les copilotes.
+
+[View on Apple](https://apps.apple.com/fr/app/rally-call/id6748931500)
+
+<a id="forvo-pronunciation"></a>
+## Forvo Pronunciation
+
+![Forvo Pronunciation](../../logos/375819093-e67ddb6d.png)
+
+Améliorez votre prononciation avec Forvo ! Le guide de prononciation Forvo vous permet d'écouter, d'apprendre et d'enregistrer des prononciations dans plus de 450 langues.
+
+
+Avec Forvo, vous pouvez rechercher des mots et écouter les prononciations enregistrées par des locuteurs natifs de la langue dont vous avez besoin. Et ce ne sont pas seulement les langues les plus parlées au monde telles que l'anglais, l'espagnol, le chinois, l'arabe, le russe, le français, l'allemand, le japonais ou l'italien, vous pouvez également rechercher des mots en kabyle, bachkir, tamoul et bien d'autres.
+
+
+Caractéristiques:
+
+* Recherchez des mots et écoutez les prononciations de locuteurs natifs.
+* Prononciations anglaises, prononciations françaises, prononciations allemandes, prononciations chinoises, prononciations espagnoles et des centaines d'autres.
+* Plus de 7 millions de prononciations disponibles.
+* Comparez différents accents pour le même mot dans la même langue.
+* Écoutez des voix masculines ou féminines.
+* Gardez une trace de vos prononciations récemment écoutées.
+* Fonctionne avec votre compte forvo.com.
+* Enregistrez les prononciations dans votre langue maternelle et aidez les autres apprenants !
+* Apprenez à prononcer correctement dans plus de 400 langues.
+* Mode sombre pour que vos yeux ne se fatiguent pas.
+* Suivez les prononciations des utilisateurs dont vous aimez le plus la voix.
+
+
+Forvo vous permet également de comparer la façon dont un mot est prononcé dans différents accents de la même langue. Forvo garantit que vous écoutez toujours les prononciations de locuteurs natifs. Vous pouvez écouter ces prononciations par des locuteurs féminins et masculins et vous pouvez également adapter Forvo à vos propres besoins.
+
+Inscrivez-vous aujourd'hui pour profiter de tous ces avantages et faire partie du plus grand réseau de prononciation au monde.
+
+[View on Apple](https://apps.apple.com/fr/app/forvo-pronunciation/id375819093)
 
 <a id="blueprint-4-track"></a>
 ## Blueprint 4-Track
@@ -2271,6 +2408,134 @@ Was gibt es Neues in 3.0
 
 [View on Apple](https://apps.apple.com/fr/app/gestion-de-recettes-paprika-3/id1303222868)
 
+<a id="mono-lab"></a>
+## Mono Lab
+
+![Mono Lab](../../logos/6759029184-a04df4e2.png)
+
+Experiment with images in black and white.
+Mono Lab is designed for exploring the unexpected.
+
+From subtle relief to structural collapse, topology drift, mesh warps, fracture effects, misregistration, and controlled instability, every tool is built for focused experimentation. Responsive. Direct. Tactile.
+
+// Interactive Filters (X)
+
+Distortion that responds to you.
+
+Shift the image through movement and contact. Tilt to bend structure. Rotate to redirect tension. Touch to anchor, drag to stretch, hold to resist. Each gesture leaves a trace. Each motion reshapes the result.
+
+// 3D Surface Mode
+
+A dimensional approach to distortion.
+
+Map images across 12 surfaces and interpret them through 13 lenses. Adjust depth. Refine spatial tension. Each surface behaves differently. Each lens reshapes the outcome.
+
+Monochromatic.
+Structure, tone, dimension, possibility.
+
+What You Can Do
+
+• 158 filters for black and white distortion
+• Touch and motion control transformations
+• 12 surfaces. 13 lenses
+• Press, drag, and hold to reshape the image like a surface
+• Refine light, contrast, and structure
+• Warp topology and form
+• Collapse, fracture, and distort
+• Create raster and vector outputs
+• Build layered misregistrations
+• Adjust pressure, grain, and tone
+• Stack transformations
+• Save your favorite filters to the Index
+• Save directly to Files
+
+Mono Lab is for designers, artists, photographers, illustrators, and visual experimenters working in black and white.
+
+[View on Apple](https://apps.apple.com/fr/app/mono-lab/id6759029184)
+
+<a id="groundwire-voip-sip-softphone"></a>
+## Groundwire: VoIP SIP Softphone
+
+![Groundwire: VoIP SIP Softphone](../../logos/378503081-2b77d6ea.png)
+
+Acrobits Groundwire: Elevate Your Communication
+
+Acrobits, a leader in UCaaS and communication solutions for over 20 years, proudly introduces the Acrobits Groundwire softphone. This top-tier SIP softphone client offers unmatched voice and video call clarity. A softphone designed for both personal and professional use, it seamlessly integrates quality communication with an intuitive interface.
+
+IMPORTANT, PLEASE READ
+
+Groundwire is a SIP Client, not a VoIP service. You must have service with a VoIP provider or PBX that supports use on a standard SIP client to use it.
+
+Choosing the Best Softphone App
+
+Experience robust communication with a leading SIP softphone application. Preconfigured for major VoIP providers, this softphone app guarantees high-quality, secure, and intuitive calling. Perfect for maintaining connections with friends, family, and colleagues, maximizing all aspects of your VoIP experience.
+
+Key Features of the SIP Softphone
+- Exceptional Audio Quality: Enjoy crystal clear audio with support for multiple formats including Opus and G.729.
+- HD Video Calls: Conduct up to 720p HD video calls, supported by H.264 and VP8.
+- Robust Security: Our SIP softphone app ensures private conversations with military-grade encryption.
+- Battery Efficiency: Thanks to our efficient push notifications, you can stay connected with minimal battery drain.
+- Seamless Call Transition: Our VoIP dialer smoothly switches between WiFi and data plans during calls.
+- Softphone Customization: Tailor your SIP settings, UI, and ringtones.
+- 5G and Multi-Device Support: Ready for the future, compatible with most mobile operating systems.
+
+Other features included on this robust app include: instant messaging, attended and unattended transfers, group calls, voicemail, and extensive customization for each SIP account. 
+
+More Than Just a VoIP Softphone Dialer
+
+Groundwire softphone offers more than the standard VoIP dialer experience. It’s a comprehensive tool for crystal clear Wi-Fi calling, equipped with robust business VoIP dialer features. It offers a secure and reliable softphone choice with no hidden fees and a one-time cost. Leverage SIP technology for improved call quality. Make this softphone your first choice for dependable, and easy SIP communication.
+
+Download a feature-rich and modern SIP softphone now and be part of a community enjoying the best in voice and SIP calling. Transform your daily communication with our exceptional VoIP softphone app.
+
+[View on Apple](https://apps.apple.com/fr/app/groundwire-voip-sip-softphone/id378503081)
+
+<a id="gosap-bmpm"></a>
+## GOSAP BMPM
+
+![GOSAP BMPM](../../logos/1314289300-7c6c98bf.png)
+
+Ce «Guide Opérationnel de Secours aux Personnes» a été spécialement réalisé pour tous les secouristes, équipiers secouristes, chefs d’agrès ou chefs d’intervention, professionnels, volontaires ou bénévoles au sein des services de secours publics ou des associations agréés de secourisme qui participent à la prise en charge initiale, en situation d’urgence, des malades et des blessés. Il a été crée par des médecins et des formateurs en premiers secours du Bataillon de Marins-Pompiers de Marseille.
+
+La mise à disposition de ce référentiel en matière de premiers secours, sous la forme d’une application pour smartphone ou tablette, permet à chacun d’avoir à disposition immédiate les informations qui lui sont indispensables, que ce soit en formation ou sur le terrain.
+
+Présentée sous forme de fiches faciles à compulser, vous retrouverez dans cette application toutes les connaissances nécessaires et toutes les conduites à tenir. De plus, afin d'en faciliter la compréhension et la réalisation, près de 800 illustrations réalisées spécifiquement accompagnent la description des gestes de premiers secours, avec ou sans matériel.
+
+Le contenu de l’application est conforme aux référentiels édités par la Direction Générale de la Sécurité Civile et de la Gestion des Crises (DGSCGC), ainsi qu’aux recommandations scientifiques internationales (ILCOR, ERC, FIFR) et nationales (CFRC, SFMU) en vigueur. Ce contenu est applicable immédiatement sur le terrain.
+
+Régulièrement mise à jour, l’utilisation de l’application «Guide Opérationnel de Secours aux Personnes» vous permettra d’être informé et d’appliquer les toutes dernières évolutions de la prise en charge des malades et des blessés.
+
+[View on Apple](https://apps.apple.com/fr/app/gosap-bmpm/id1314289300)
+
+<a id="cinetemp"></a>
+## CineTemp
+
+![CineTemp](../../logos/6738967033-4611f093.png)
+
+KEY FEATURES:
+	•	Approximate color temperature readings through your iPhone camera
+	•	Approximate ND calculation through your iPhone camera
+	•	Real-time values using wide, telephoto, and front-facing lenses
+	•	Luminance histogram
+	•	Location-aware shot library with custom notes and metadata
+	•	Scene comparison tools to assist with color consistency
+
+Perfect for:
+	•	Location scouting
+	•	Pre-production planning
+	•	On-set color adjustments
+	•	White balance optimization
+	•	Multi-camera coordination
+
+Created by filmmakers for filmmakers, CineTemp is designed to simplify your workflow and support your creative vision. While it’s not total replacement for dedicated hardware, CineTemp offers an intuitive way to make informed color decisions.
+
+The app seamlessly integrates with most iPhone cameras, and the customizable interface keeps essential tools at your fingertips. Save and organize your readings with automatic time, date, and location tagging to streamline your pre-production process.
+
+Join the creators using CineTemp to elevate their craft. 
+
+Download now and explore an innovative approach to color temperature measurement.
+
+[View on Apple](https://apps.apple.com/fr/app/cinetemp/id6738967033)
+
 <a id="pure-acid"></a>
 ## Pure Acid
 
@@ -2341,6 +2606,15 @@ and more:
 • Designed for both iPad and iPhone
 
 [View on Apple](https://apps.apple.com/fr/app/pure-acid/id1481283602)
+
+<a id="pocket-light-meter"></a>
+## Pocket Light Meter
+
+![Pocket Light Meter](../../logos/381698089-7f645c02.png)
+
+A light meter that is always in your pocket. It is indispensable for film photography with all manual camera. Measures reflected light, and allows reciprocity calculations.
+
+[View on Apple](https://apps.apple.com/fr/app/pocket-light-meter/id381698089)
 
 <a id="salatuk-صلاتك"></a>
 ## Salatuk - صلاتك
@@ -2417,6 +2691,54 @@ L’équipe de l’École de Navigation Française
 
 [View on Apple](https://apps.apple.com/fr/app/permis-bateau-c%C3%B4tier-enf/id455573706)
 
+<a id="skrwt"></a>
+## SKRWT
+
+![SKRWT](../../logos/834248867-d76b54d8.png)
+
+«Meilleures applications 2014» - App Store
+«Les 10 meilleures applications de photographie» - The Guardian
+«Faites en sorte que vos photos iPhone paraissent professionnelles avec SKRWT» - AppAdvice
+«SKRWT est le chaînon manquant de la perfection photo sur iPhone» - Paste Magazine
+«10 Applications iPhone qui feront merveille pour votre photographie» - Business Insider
+«7 Applications Must-Have pour les pilotes de drones» - fromwhereidrone.com
+«5 Applications iPhone à ne pas rater…» - Time.com
+
+-
+
+SKRWT (« Meilleures applications 2014 » sur l’App Store) est l’outil de correction de perspective et d’objectif le plus puissant qui soit. Fabriqué pour vous aider à améliorer vos meilleures photos sur smartphone en seulement quelques clics, la version 1.5 de SKRWT est meilleure que jamais. Avec une variété de fonctionnalités inégalées et les extensions intégrées impressionnantes MRRW et 4PNTS, cette application raffinée est l’outil d’édition par excellence pour les amateurs de photographie sophistiquée tels que vous. Vive la symétrie !
+
+#SKRWT #MRRW #4PNTS
+
+-
+
+SKRWT
+
+Dites au revoir aux lignes convergentes : SKRWT est l’application de correction de perspective et d’objectif à tout faire pour les amateurs de symétrie. Corrigez les lignes horizontales et verticales ainsi que les distorsions de l’objectif pour des photos prises avec un adaptateur, un DLSR, une GoPro ou l’appareil photo d’un drone. Avec sa fonctionnalité de recadrage automatique unique en son genre et son interface intuitive et explicite, SKRWT est le chaînon manquant de la photographie haut-de-gamme sur smartphone. Si vous êtes nul en qualité et en symétrie, SKRWT est pour vous. 
+
+-
+
+4PNTS 
+
+Avec 4PNTS, la gentille équipe de SRKWT a repensé les flux de travail de la correction de perspective, et a mis en place une nouvelle extension must-have. Une approche pratique à la transformation de photos professionnelle : 4PNTS vous laisse manuellement travailler un ou plusieurs coins de votre image, transformant la correction de perspective en un processus de manipulation entièrement intuitif. L’outil-de-perspective-4-points est disponible comme achat interne dans l’application – afin de pouvoir transformer, déformer et améliorer artistiquement vos photos directement sur SKRWT. Votre interprétation personnelle, votre créativité, votre photo. 
+
+-
+
+MRRW
+
+SKRWT présente quatre effets miroirs de haute précision dans cet outil pour smartphone inégalé. Avec une nouvelle approche à la manipulation créative d’images, MRRW aide à dévoiler la symétrie cachée dans vos meilleures prises et vous permet de trouver une nouvelle liberté créative et artistique. Explorez de nouvelles possibilités en composition et utilisez la correction de perspective et le recadrage automatique en qualité SKRWT. C’est parti pour un flux de mrrwgrams interminable ! 
+
+instagram.com/doyouskrwt 
+facebook.com/skrwtapp
+twitter.com/doyouskrwt
+hello@skrwt.com
+
+-
+
+#SKRWT #DOYOUSKRWT #VIVELASYMÉTRIE
+
+[View on Apple](https://apps.apple.com/fr/app/skrwt/id834248867)
+
 <a id="zoiper-premium-voip-soft-phone"></a>
 ## Zoiper Premium voip soft phone
 
@@ -2481,6 +2803,254 @@ Regarding the subscriptions:
 • Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable
 
 [View on Apple](https://apps.apple.com/fr/app/zoiper-premium-voip-soft-phone/id787863350)
+
+<a id="tresor-quotidien-2026"></a>
+## Tresor Quotidien 2026
+
+![Tresor Quotidien 2026](../../logos/6760400471-44309c42.png)
+
+Chaque jour méditez sur un texte biblique où que vous soyez grâce à chaque message diffusé quotidiennement pour encourager votre foi.
+
+[View on Apple](https://apps.apple.com/fr/app/tresor-quotidien-2026/id6760400471)
+
+<a id="la-conjugaison-franc-aise"></a>
+## La conjugaison française
+
+![La conjugaison française](../../logos/495169311-0a9d8629.png)
+
+Version payante SANS publicité consultable hors connexion, le contenu étant stocké dans l'application. 
+
+Besoin de vérifier un verbe ou de vous entraîner sur la conjugaison française ? Cette application est faite pour vous !
+Avec l'application La conjugaison, vous pourrez consulter toutes les conjugaisons de plus de 9 000 verbes français. En plus d'un conjugueur de verbes, vous allez également y trouver pour chaque verbe des exercices de conjugaison, avec la possibilité de sélectionner vos verbes favoris, les groupes, auxiliaires, modes et temps d'entraînement.
+
+Cette application vous propose :
+* Plus de 9 000 verbes de la langue française conjugués à tous les temps (présent, passé, futur...), tous les modes (indicatif, subjonctif, impératif, conditionnel, participe,gérondif, infinitif...), voix (active, passive), genre (masculin, féminin), à la forme pronominale si elle existe.
+* Les informations essentielles sur les groupes : auxiliaire, premier, deuxième ou troisième groupe.
+* La possibilité de sélectionner les verbes favoris qui seront utilisés dans les exercices
+* La possibilité de modifier les paramètres du verbe : auxiliaire alternatif, voix pronominale, genre féminin ou masculin, voix passive
+* Des exercices de conjugaison sur mesure avec une multitude d'options pour sélectionner les verbes favoris, le type de verbes ou de temps sur lesquels vous souhaitez vous tester (auxiliaires, verbes du 3e groupe, temps, modes, voix...).
+* Le mode sombre.
+
+Pour accéder rapidement au verbe recherché (quel que soit son groupe, son temps, son mode), utilisez le moteur de recherche, en y tapant directement le verbe à l'infinitif.
+
+Avec l'application La conjugaison française, la conjugaison redevient un jeu d'enfant, et vous ne tomberez plus dans les pièges des nombreux verbes irréguliers français.
+
+Bonne conjugaison française !
+
+
+Nous proposons d'autres applications pour conjuguer les verbes italiens, espagnols, allemands et portugais.
+
+[View on Apple](https://apps.apple.com/fr/app/la-conjugaison-fran%C3%A7aise/id495169311)
+
+<a id="visualterms-construction"></a>
+## VisualTerms construction
+
+![VisualTerms construction](../../logos/1193055047-d19efa7f.png)
+
+Dictionnaire visuel de la construction et de l’architecture
+
+AVEC VISUALTERMS :
+- Accédez à des milliers de dessins légendés, classés par thèmes. Retrouvez en un instant un mot précis ou une technique de construction. 
+- Zoomez à volonté dans les illustrations. Naviguez très facilement sur tous vos écrans.
+- Approfondissez vos connaissances grâce aux centaines de notes et commentaires.
+- Consultez VisualTerms hors connexion, partout, même sur un chantier isolé.
+
+VISUALTERMS POUR QUI ?
+- Vous êtes un professionnel ? VisualTerms est un aide-mémoire précieux : utilisez toujours le mot juste dans vos échanges… et expliquez par l’image les différents procédés de construction. 
+- Vous êtes étudiant ? VisualTerms est l'outil pédagogique idéal pour apprendre rapidement les fondamentaux de la construction, sans vous plonger dans de longs textes. 
+- Vous êtes bricoleur ou vous avez un projet de construction ? Enrichissez votre vocabulaire technique pour devenir plus « pro » et pour bien comprendre tous les spécialistes.
+
+LA TRADUCTION PAR L’IMAGE
+Si vous devez travailler dans une autre langue, VisualTerms se transforme en un outil de traduction révolutionnaire, par l’image : versions ANGLAISE et ESPAGNOLE intégrées.
+
+MISES A JOUR GRATUITES
+VisualTerms est très complet, mais la construction évolue constamment : téléchargez gratuitement les mises à jour de contenus à venir !
+
+N.B. : VisualTerms est le nouveau nom de l'application VisuelBat.
+
+[View on Apple](https://apps.apple.com/fr/app/visualterms-construction/id1193055047)
+
+<a id="magic-spider-my-pet-boris"></a>
+## Magic Spider - My Pet Boris
+
+![Magic Spider - My Pet Boris](../../logos/578230583-235e1e3f.png)
+
+This is the Original "Spider on Hand" app as seen on Youtube. Beware of imitations.
+
+Do you know anyone who is afraid of spiders? Everyone right? Then this is the perfect magic trick/prank for you.
+
+Watch the trailer video at http://www.mypetboris.com/trailer.htm
+
+My Pet Boris app is the scariest app for the iPhone. Inspired by Jim Pace's magic trick "The Web" where a spider magically appears on the back of your spectator's hand. Bound to get amazing reactions.
+
+The app uses the idea of "Augmented Reality" merging real life objects with computer generated graphics to create a truly frightening effect.
+
+
+THE MAGIC SPIDER EFFFECT
+You take a photo of the spectator's palm (secretly loading a plastic spider on the back of their hand) and place the phone on their palm to hold.
+
+Your Pet Boris - an Australian Red back spider (black widow) creeps onto the screen and they can feel the vibrations as it walks. You can tap the screen and even slide your finger into the animation to scratch the spider's back. Boris walks off the screen.
+
+You tell them that the phone has special sensors that when you wave your hand over the screen it makes the spider come back. He does.
+
+You get them to wave their hand over the phone. 
+It is just then that they glimpse a realistic spider clinging to the back of their hand and they FREAK OUT!!
+
+Bound to get BIG reactions. 
+
+Finger tone and size can be set to suit your own or you can import an image of your own finger. 
+
+Start-up screen can be customised to suit your performance style. An actual  photo of their hand, solid white or any image from your library can be used as a background.
+
+NOTE: Requires a plastic spider or cockroach and adhesive dots to perform. You should be able to find these locally or you can purchase from our website.
+
+See our website http://www.mypetboris.com for more details, spider and cockroach supplies and video presentation & instructions.
+
+Like our Facebook page to keep up to date with changes, tips and suggestions. http://www.facebook.com/MyPetBoris
+
+
+THE MAGIC COCKROACH
+The app also comes with a cockroach animation for those who think they are scarier than spiders.
+
+
+THE MAGIC BUTTERFLY EFFECT - IN-APP PURCHASE - (for the Professional Magician)
+
+The Magic Butterfly is an additional effect within the Magic Spider – My Pet Boris App. 
+
+It is enabled as an “in app purchase” for around US$2.99 depending on your local currency. The custom finger feature is also unlocked when you purchase the butterfly effect.
+ 
+This is a perfect routine for those times when you want to perform a beautiful effect for a little girl or woman, leaving her with a magical gift at the end. You will get similarly strong reactions to the Magic Spider effect without the scare factor.
+
+PRESENTATION:
+The magician simulates a grand illusion in the palm of the spectator’s hand. A tiny foil covered “Magical Egg” is placed in the palm of the spectator’s hand and then photographed. The phone is placed on their hand.
+
+The egg transforms into a Chrysalis and then into a butterfly. The magician’s finger is seen to tickle the virtual butterfly on screen which then flies away. 
+Using a magical gesture the magician brings the butterfly back briefly before it flies off again.
+
+The spectator is asked to try and make it return. When they try, they find a matching butterfly (in an impossible location) on the back of their hand. The original foil egg has vanished.
+
+THE CARD REVELATION EFFECT - IN-APP PURCHASE - (for the Professional Magician)
+
+The Magic Spider effect with the addition of a torn card corner revelation as a finale.
+
+Accessory packs and supplies are available at: http://www.mypetboris.com/store.htm
+
+See our FAQ Section. http://www.mypetboris.com/faq.htm
+
+Full instructions at: (everything is explained)
+http://www.mypetboris.com/inst2099.htm.
+
+Use the password at the bottom of the "CREDITS" screen for access.
+
+[View on Apple](https://apps.apple.com/fr/app/magic-spider-my-pet-boris/id578230583)
+
+<a id="my-moon-phase-pro-alerts"></a>
+## My Moon Phase Pro - Alerts
+
+![My Moon Phase Pro - Alerts](../../logos/1104649303-4e89f24d.png)
+
+Ma Phase Lunaire Pro est la meilleure application pour suivre le calendrier lunaire. Son design sombre et élégant facilite la visualisation d'informations telles que le cycle actuel de la lune, les heures de lever et coucher de la lune, ainsi que des extras tels que le moment de la prochaine pleine lune. Si vous êtes intéressé par la photographie de la lune, vous pouvez également savoir quand sont les heures dorées et les heures bleues afin de pouvoir prendre les plus belles photos.
+
+- Voyez le cycle lunaire pour une date future en faisant défiler la barre de dates ou en tapant sur le bouton du calendrier !
+- Autorisez l'appli à utiliser votre localisation actuelle ou sélectionnez manuellement un endroit de votre choix à utiliser !
+- Voyez à quel point le ciel est censé être nuageux ces prochains jours afin de déterminer si vous pourrez ou non voir la lune !
+- Trouvez les prochaines phases de la lune directement sur l'écran principal - vous saurez instantanément quand auront lieu la prochaine pleine lune, la nouvelle lune, le premier et le dernier quartier.
+- Les indications relatives aux heures dorées et bleues sont disponibles pour vous permettre de calculer le meilleur moment pour prendre des photos.
+- Des informations plus spécifiques sont disponibles, telles que la distance de la lune à la Terre, son âge et son altitude actuelle. Ceci est disponible pour n'importe quelle date du calendrier lunaire.
+- Recevez des notifications lorsque la lune atteint une phase particulière de votre choix.
+
+Si vous souhaitez le moyen le plus efficace de suivre le calendrier lunaire et les phases lunaires actuelles, alors Ma Phase Lunaire Pro est l'application parfaite pour vous.
+
+[View on Apple](https://apps.apple.com/fr/app/my-moon-phase-pro-alerts/id1104649303)
+
+<a id="itanpura"></a>
+## iTanpura
+
+![iTanpura](../../logos/326115058-03022ad1.png)
+
+Got tanpura? Well guess what, we have two for you, PLUS a Swar Mandal AND a Sur-Peti / Shruti box! Come listen to the beautiful, meditative sound of real Hemraj tanpuras, and get lost in the mysteries of Indian Classical music.
+________________________________________
+
+◆◆◆ 5-STRING TANPURAS & AUTO-TUNER!
+◆◆◆ Before buying also consider iTablaPro
+◆◆◆ which has all iTanpura features + tabla
+◆◆◆ Note: All updates are always free!
+________________________________________
+
+And the reviews are in:
+***** "BEAUTIFUL SOUND"
+***** "Excellent App, superb sound"
+***** "Concert-quality tanpura in your pocket"
+***** "This is what I've been waiting for"
+________________________________________
+
+◆ ABOUT THE TANPURA ◆
+The Tanpura is a musical instrument used in Indian classical music to provide a background "drone" against which the rest of the music is performed. It is a 4-stringed instrument with a base made from cured pumpkin gourd and a stem made from wood.
+________________________________________
+
+◆ AND NOW PRESENTING - iTanpura ◆
+iTanpura is an electronic Tanpura for the iPhone and iPod Touch. It uses stereo digital sound to simulate a set of two tanpuras each of which can be tuned with a different string combination. It uses sounds sampled from real Hemraj tanpuras to provide beautiful yet realistic sound in a pleasing and intuitive package. And now iTanpura also includes fantastic Swar Mandal sound (with presets for 75+ raags) for an instant concert atmosphere guaranteed to inspire! iTanpura is ideal for everyday music practice, concerts, or even as a serene background for meditation.
+________________________________________
+
+◆ KEY FEATURES ◆
+√ FOUR fantastic instruments in one app: includes two 5-string tanpuras with independent pan and volume controls, a 15-string Swar Mandal, and a Sur-Peti/Shruti Box
+√ Uses sounds sampled from actual male & female tanpuras for realistic tanpura sound throughout the pitch range
+√ Wide range of pitch from lower A (A2) through upper E (E4) for one and a half octaves of tuning
+√ INTEGRATED AUTO-TUNER: Auto-Tune iTanpura to your instrument such as harmonium, or use it to tune other instruments (microphone capability required such as iPhone built-in mic or 2nd/3rd generation iPod Touch with external microphone)
+√ BACKGROUND PLAY: Start playing the tanpuras and switch to another app, or play along with iPod music
+√ Integrated 15-string Swar Mandal - completely tunable & can be played manually OR set to auto-loop
+√ Suitable for Hindustani or Carnatic, vocal or instrumental music 
+√ Fine-tune pitch in cents. The display shows the fine-tune value to allow exact recreation of any pitch
+√ Play one or two simultaneous tanpuras both controlled by the master pitch controls
+√ Each tanpura's first string can be tuned to Pa, Ma or Ni, or any custom note such as Re, Ga, Dha, etc 
+√ Or tune first string to any shruti in the octave using a slider
+√ Each tanpura has its own pan and volume controls to allow precise placement within the stereo image. For example you can have a tanpura with Pa on your left and one with Ni on your right
+√ PRESETS: Save your favorite settings as named presets. Includes presets for the 100+ most popular raags. And now you can also export/import presets via email or iTunes File Sharing.
+√ Turn the Sur-Peti/Shruti Box on or off and adjust its volume from the settings page
+√ Can be used with speakers, headset, or the internal speaker (a high-quality speaker dock is recommended for maximum effect)
+________________________________________
+
+Not yet convinced? Try iTanpura Lite for free! It has most of the features of the full version, except the sound stops playing after 30 seconds and it does not include the Swar Mandal or the Tuner.
+________________________________________
+
+[View on Apple](https://apps.apple.com/fr/app/itanpura/id326115058)
+
+<a id="map-points-gps-location-storage-for-hunting-fishing-and-camping-with-map-area-measurement"></a>
+## Map Points - GPS Location Storage for Hunting, Fishing and Camping with Map Area Measurement
+
+![Map Points - GPS Location Storage for Hunting, Fishing and Camping with Map Area Measurement](../../logos/394909320-468aeb98.png)
+
+Want to store custom locations?  mapPoints will store all of your favorite locations in one spot.  This app is great for traveling, if you would like to store your locations and take a snapshot of where you were.  It is also great for hunting or fishing or any activity that a specific coordinate is needed.  There are four ways you can store your location - 
+
+1. Your current location.
+2. You can enter an address.
+3. You can store a custom latitude and longitude coordinate.
+4. You can drop a pin on the map where ever you would like.
+
+The location information is all editable after you store it.
+
+There is an option to draw lines between the map location displayed on the map.  You can draw a line between all of the locations in the order selected including the user location.  You can draw a line from the user location to the last location selected.  You can draw a line form the user location to the first location selected.  And you can draw a line between all of the points excluding the user location.  This last option is handy when trying to compute distance on a map.  When drawing any lines on the map, the distance is displayed in the lower right corner of the screen.
+
+There is a meter on the main page that measures the accuracy of the GPS signal.
+
+You can display your heading and altitude on the main page as an option.
+
+[View on Apple](https://apps.apple.com/fr/app/map-points-gps-location-storage-for-hunting-fishing/id394909320)
+
+<a id="turbocollage-automatic"></a>
+## TurboCollage Automatic
+
+![TurboCollage Automatic](../../logos/1076224918-4cfee8b9.png)
+
+Le n°1 des créateurs automatiques de collages photo pour iPhone et iPad.
+
+Conçue pour être facile à utiliser, TurboCollage vous permet de créer de magnifiques collages photo en seulement 2 étapes — sélectionnez une taille et les photos à utiliser. Avec TurboCollage, vous n'êtes pas limité aux 2, 3 ou 4 mêmes montages photos, à la mise en page identique. Vous pouvez utiliser autant de photos que vous le désirez et TurboCollage se charge de les disposer en un sublime collage qui vous surprendra, vous et vos amis, à coup sûr.
+
+Si vous êtes à la recherche d'un contrôle manuel complet, de photos plus grandes et de plus d'options de collage, nous vous invitons à essayer nos apps de bureau TurboCollage, disponibles sur www.TurboCollage.com.
+
+Nous adorons recevoir des commentaires de nos utilisateurs, merci donc de nous envoyer vos messages à apps@silkenmermaid.com.
+
+[View on Apple](https://apps.apple.com/fr/app/turbocollage-automatic/id1076224918)
 
 <a id="renpyreader"></a>
 ## RenpyReader
@@ -2626,6 +3196,45 @@ Stop searching blindly. Let BlueLocate point the way.
 
 [View on Apple](https://apps.apple.com/fr/app/bluelocation/id6752529353)
 
+<a id="avionics-buddy"></a>
+## Avionics Buddy
+
+![Avionics Buddy](../../logos/6773903019-9ff7e802.png)
+
+Avionics Buddy connects to Microsoft Flight Simulator through a local Windows bridge and brings live aircraft telemetry, maps, gauges, airports, runways and approach helpers to your Apple devices — without leaving the simulator window on your PC.
+
+See your aircraft position on the map, follow altitude, heading, airspeed and vertical speed, browse airports, inspect runways and use visual approach helpers while you fly.
+
+Avionics Buddy is built for sim pilots who want to extend their Microsoft Flight Simulator setup beyond the main screen. Use it as a minimal, beautifully styled cockpit display on your desk, or as an extra avionics layer in a larger multi-screen simulator setup. Build your own creative flight deck using the Apple devices you already have around you.
+
+During long flights, keep your position, heading, altitude and flight status visible from your iPhone or iPad while you step away from your cockpit. During arrivals, use the native map, runway information and visual approach helpers to stay aware of runway alignment, descent behavior and landing flow. Between flights or during cruise, browse nearby airports and runway details without pausing or alt-tabbing out of Microsoft Flight Simulator.
+
+Stay connected to your flight, even when Microsoft Flight Simulator is running on another screen.
+
+Key features:
+
+• Live aircraft telemetry from Microsoft Flight Simulator
+• Follow-mode map with aircraft position, heading and your selected aircraft icon
+• Glass-cockpit-inspired and compact gauges for altitude, speed, heading and vertical speed
+• Optional cabin sound effects, including seatbelt announcements and small details to discover
+• Airport search with runway information, saved airports and favorites
+• Runway approach helpers for visual alignment during simulator arrivals
+• iPhone and iPad support
+• Local network connection through Avionics Buddy Bridge on Windows
+• No account required
+• No cloud telemetry
+
+How it works:
+
+1. Start Microsoft Flight Simulator on your Windows PC.
+2. Run Avionics Buddy Bridge on your Windows PC, available for free from avionicsbuddy.com.
+3. Scan the QR code with Avionics Buddy on your iPhone or iPad.
+4. Fly with live data on your second screen.
+
+Avionics Buddy is made for Microsoft Flight Simulator entertainment use only. It is not intended for real-world navigation, flight training, flight planning or any operational aviation use. Avionics Buddy is not affiliated with Microsoft, Asobo Studio, Working Title, OurAirports or any aircraft manufacturer.
+
+[View on Apple](https://apps.apple.com/fr/app/avionics-buddy/id6773903019)
+
 <a id="icompta-6"></a>
 ## iCompta 6
 
@@ -2653,68 +3262,6 @@ Support en français et anglais.
 Conditions générales : https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 
 [View on Apple](https://apps.apple.com/fr/app/icompta-6/id1149769928)
-
-<a id="flyskyhy"></a>
-## Flyskyhy
-
-![Flyskyhy](../../logos/516879039-df414ca2.png)
-
-Flyskyhy forms your flight instrument during flight and shows all information you need for that. You get the normal data like altitude, climb rate, ground speed, and glide angle. But it also calculates and shows the current wind direction and strength, very important for your safety.
-
-A moving and rotating map shows your current flying position and flight trail. It indicates where you have gone up (in a thermal), and where you have had faster than normal decline. With that, you can easily find back that thermal that you lost. The map also shows the nearest known landing spots, and whether they are reachable by normal glide, given your current altitude and wind direction.
-
-Integration with Bluetooth varios SensBox, FlyNet, GoFly iPico, XC-Tracer, BlueFlyVario, and SkyDrop gives accurate altitude and lift information. That turns your iPhone into an full-fletched GPS-vario, including vario tones.
-
-The app makes a full log of your flight, that can be analyzed afterwards. Besides normal data like start and landing positions, duration of flight, and an altitude graph of the flight, Flyskyhy also calculates the scoring distances for you. So you can immediately see whether you have broken that FAI triangle record.
-
-Your live location is reported on livetrack24.com or loctome.com if you desire, so anybody can follow your flight while it is happening. If you are flying together with friends, then their location is shown on your map during your flight. So you never have to wonder anymore whether they are in front of or behind you.
-
-The flight display has multiple screens which are all fully configurable. You can move all elements to other spots, delete and add elements, and resize them.
-
-Through in-app purchases, the app also supports airspaces and waypoints.
-
-The app is optimised for paragliding and hang gliders, but can be used with all  kinds of airsports.
-
-Main features during the flight;
-• Altitude, climb rate, ground speed, air speed, direction, glide angle and many more
-• Wind strength and direction
-• Moving map of the flying area
-• Spots where you have had lift, great for thermal coring
-• Shows whether you can still reach a landing spot with the current altitude and wind
-• Live tracking of your flight on livetrack24.com or loctome.com
-• Shows live location of your friends during flight
-
-After the flight:
-• Full logbook of all your flights
-• Basic flight data like start/landing, duration, height difference, distance flown, and many more
-• Calculation of 5-points, open triangle, and FAI triangle distances
-• Graph of altitude and climb rate
-• Signed IGC and KML log files of flights
-• Transfer the log to iTunes or send by email
-• Upload the flight directly to XContest, ParaglidingForum, DHV-XC, and other Leonardo servers
-• Open flight in Google Earth on the iPhone
-• Replay the flight and relive it!
-
-By purchasing the Waypoints Extension you get access to:
-• A fully zoomable and scrollable map with the waypoints and optimised route. The map also shows start and landing spots, as well as restricted airspaces (with the Airspace Extension)
-• Enter new waypoints, either on the map or by specifying the parameters
-• Full route support with start time, goal, entry/exit points, etc. 
-• Many instruments to guide you along the route
-• Visible and audible indication when a waypoint has been reached
-• Complete waypoints organiser
-• Import and export of various waypoint file formats
-
-By purchasing the Airspace Extension you get access to:
-• Airspaces of 30 countries
-• Display of airspaces on the map with configurable colors and formats
-• Display of your vertical position w.r.t. airspaces
-• Visible and audible warnings when approaching and entering an airspace
-• Shows local airspaces by touching a spot on the map
-
-Note: a live internet connection is required for live tracking of your and your friends locations
-Note: continuous GPS and screen usage makes the battery drain faster than normal
-
-[View on Apple](https://apps.apple.com/fr/app/flyskyhy/id516879039)
 
 <a id="network-analyzer-pro"></a>
 ## Network Analyzer Pro
@@ -3629,24 +4176,24 @@ Display the twelve-tone matrix for a specified tone row.
 
 ![Badoo Premium](../../logos/403684733-6dd81f58.png)
 
-Mit Millionen von Mitgliedern ist Badoo die größte Dating-Community der Welt. Und jeden Tag kommen zahlreiche neue Leute dazu, um zu chatten, zu flirten und zu daten. 
-Für kurze Zeit hast du jetzt die Chance, dir Badoo Premium zum ermäßigten Preis zu holen! Mit Badoo Premium kannst du deinem Profil einen Boost geben, sehen, wem du gefällst und vieles mehr.
+Badoo, c'est le moyen idéal de faire des rencontres avec des millions d'utilisateurs partout dans le monde. Et tu peux maintenant t'abonner à Badoo Premium tout en profitant d'une super réduction ! C'est une offre à durée limitée : ne rate pas ta chance ! Grâce à Badoo Premium, tu sauras qui t'a donné un Like, tu pourras booster ton profil, et débloquer plein d'autres fonctions exclusives. 
 
-Außerdem kannst du natürlich immer...
+Tu verras que les options ne manquent pas : 
 
-•	Chatten, flirten und neue Leute kennenlernen.
-•	Sehen, wer gerade in deiner Nähe ist.
-•	Regelmäßige Updates mit neuen Funktionen runterladen.
-•	Relaxen – dank unserem Verifizierungsverfahren haben Fake-User nämlich keine Chance.
-•	Fröhlich nach links und rechts swipen.
+- Discute avec des millions de célibataires 
+- Découvre les gens à proximité ou ceux que tu as croisés en chemin 
+- Profite de nos dernières fonctions grâce à nos mises à jour fréquentes 
+- Dis adieu aux profils fake : notre processus de vérification est le meilleur ! 
+- Fais-toi toutes sortes d'amis comme bon te semble... et plus si affinités ! 
 
-Also hol dir die App und nutze deine Chance! 
+Inscris-toi dès maintenant et viens faire de super rencontres sur Badoo ! Les paiements seront prélevés de ton compte iTunes. 
 
-Der Betrag wird über deinen iTunes-Account abgerechnet und dein Abo verlängert sich automatisch, wenn du das automatische Verlängern nicht mindestens 24 Stunden vor Ablauf des aktuellen Abo-Zeitraums deaktivierst. Du kannst das automatische Verlängern nach dem Kauf jederzeit in den iTunes-Store-Einstellungen deaktivieren. Wenn du dir Badoo Premium nicht holen willst, kannst du Badoo weiterhin kostenlos verwenden.
+Ton abonnement se renouvellera automatiquement, sauf si tu désactives cette option au moins 24 heures avant la fin de la période en cours. Tu peux annuler ton abonnement à tout moment à partir des paramètres de l’iTunes Store. Si tu choisis de ne pas t'abonner à Badoo Premium, tu peux continuer à utiliser Badoo gratuitement. 
 
-Deine personenbezogenen Daten werden bei Badoo sicher verwahrt. Bitte lies dir dazu unsere Datenschutzrichtlinien und Geschäftsbedingungen durch:
-https://badoo.com/de/privacy
-https://badoo.com/de/terms
+Tes données personnelles sont stockées sur Badoo en toute sécurité. Pense bien à lire notre Politique de Confidentialité et nos Conditions Générales d’Utilisation : 
+
+https://www.badoo.com/privacy 
+https://badoo.com/terms
 
 [View on Apple](https://apps.apple.com/fr/app/badoo-premium/id403684733)
 
@@ -3888,811 +4435,3 @@ L'application est non seulement en mesure de fonctionner en mode «hors ligne»,
 Il est également possible de rajouter dans chaque fiche des notes personnelles, qui peuvent être sauvegardées dans iCloud.
 
 [View on Apple](https://apps.apple.com/fr/app/smur-bmpm/id384759615)
-
-<a id="official-life-in-the-uk-test"></a>
-## Official Life in the UK Test
-
-![Official Life in the UK Test](../../logos/632064672-47b900f8.png)
-
-Preparing for your Life in the UK Test has never been easier!
-
-Download the only Official Life in the UK Test Questions and Answers app which contains the most up to date questions to ensure you can pass your Life in the UK test in 2026, approved by the Home Office, the people who set the test.
-
-It is a simple and convenient way to practice for your Life in the UK British Citizenship test on the go.
-
-The app includes:
-• Hundreds of official practice questions taken from the "Life in the United Kingdom: A Guide for New Residents, 3rd Edition" handbook
-• Random mock tests which select 24 questions to be answered in 45 minutes – just like the real test
-• Practice mode which focuses on questions from each category
-• Progress section that analyses your test results so you can review your answers and identify areas for improvement
-• Key products tab to shop other official products in the range.
-
-An essential practice app for anyone:
-• Taking the Life in the UK British Citizenship Test
-• Wanting to apply for British citizenship or settlement
-• Teaching English or basic skills to refugees, immigrants or prospective applicants for British citizenship or settlement.
-
-This app has been created by TSO – the publisher of the official Life in the UK Test learning aids. The questions are provided by the Home Office, the people who set the citizenship test.
-
-Please note: To fully prepare for your test, this app should be used in conjunction with the 'Life in the United Kingdom: A Guide for New Residents, 3rd Edition' handbook.
-
-[View on Apple](https://apps.apple.com/fr/app/official-life-in-the-uk-test/id632064672)
-
-<a id="hipstamatic-classic"></a>
-## Hipstamatic Classic
-
-![Hipstamatic Classic](../../logos/342115564-f9e8c8a3.png)
-
-HIPSTAMATIC® Appareil photo est une appli de photographie de classe mondiale et l'appli originale de l'année d'Apple !
-
-Rendez vos photos aussi belles que votre vie et prenez part à la communauté la plus créatrice au monde, exclusivement sur iPhone.
-
-Vous voulez devenir meilleur photographe ? Rejoignez les millions de personnes créatives qui utilisent HIPSTAMATIC chaque jour, et pour cause :
-
-• ClassicMode™ : faites des photos à l'ancienne avec des appareils aux rendus magnifiques qui vous permettent d'échanger l'objectif, le flash et le film
-• ProMode™ : prenez le contrôle ultime de votre appareil photo en réglant précisément la mise au point, la balance des blancs, l'exposition, la vitesse d'obturation, l'ISO et le format de l'image
-• Darkroom Suite™ : une suite d'édition totale incluant plus de 20 outils d'ajustement professionnels et 12 préréglages spéciaux
-• HipstaMart™ Shop : découvrez de fantastiques packs de filtres disponibles en achat intégré qui ont été créés par les photographes les plus créatifs au monde
-• PrintLab™  : faites-vous livrer de vraies impressions à domicile, livraison disponible dans 200 pays
-
-[View on Apple](https://apps.apple.com/fr/app/hipstamatic-classic/id342115564)
-
-<a id="koala-sampler-beat-maker"></a>
-## Koala Sampler • Beat Maker
-
-![Koala Sampler • Beat Maker](../../logos/1449584007-64bef3c5.png)
-
-Koala is the ultimate pocket-sized sampler. Record anything with your phone's mic instantly. Use Koala to create beats with those samples, add effects and create a track!
-
-Koala’s super intuitive interface helps you make a tracks in a flash, there is no brake pedal. You can also resample the output of the app back into the input, through the effects, so the sonic possibilities are endless.
-
-Koala's design focuses totally on making the music making progress instant, keeping you in the flow and keeping it fun, not getting bogged down by pages of parameters and micro-editing.
-
-"Been putting that $4 koala sampler to good use lately. Undeniably great tool that puts some of these expensive beat boxes to shame. A must cop." 
--- flying lotus, twitter
-
-* Record up to 64 different samples with your mic
-* Transform your voice or any other sound with 16 superb built-in fx
-* Load your own samples
-* Choose from one of 250 built-in sounds
-* Resample the output of the app back into a new sample
-* Export loops or entire tracks as professional quality WAV files
-* Direct export to Ableton Live Set
-* Copy/paste or merge sequences just by dragging them
-* Create beats with the high-resolution sequencer
-* Import samples using AudioShare or just open them in Koala
-* Keyboard mode lets you play chromatically or one of 9 scales
-* Quantize, add swing to get the right feel
-* Normal/One-shot/Loop/Reverse playback of samples
-* 6 Choke groups
-* Attack, release and tone adjustable on each sample
-* AUv3 compatible - use in GarageBand, Logic, Cubasis etc etc
-* MIDI controllable - play your samples on a keyboard, map the effects to knobs
-* Jam with others over WiFi with Ableton Link
-* Free copy of Ableton Live Lite included
-* Use AI to separate samples into individual instruments (drums, bass, vocals and other)
-* Set your own background image and choose from a growing list of background visual FX.
-
-8 Built-in Microphone FX:
-* More Bass
-* More Treble
-* Fuzz
-* Robot
-* Reverb
-* Octave up
-* Octave down
-* Synthesizer 
-
-
-16 Built-in DJ Mix FX:
-* Bit-crusher
-* Pitch-shift
-* Comb filter
-* Ring modulator
-* Reverb
-* Stutter
-* Gate
-* Resonant High/Low Pass Filters
-* Cutter
-* Reverse
-* Dub
-* Tempo Delay
-* Talkbox
-* VibroFlange
-* Dirty
-* Compressor
-
-Features included in SAMURAI In-App Purchase
-* Timestretch (4 modes: Modern, Retro, Beats and Re-pitch) 
-* Piano roll editor 
-* Auto-chop (auto, equal, and lazy chop)
-* 3 Band EQ
-* Pocket operator sync out
-
-[View on Apple](https://apps.apple.com/fr/app/koala-sampler-beat-maker/id1449584007)
-
-<a id="cloud-baby-monitor"></a>
-## Cloud Baby Monitor
-
-![Cloud Baby Monitor](../../logos/432791399-c19d2d37.png)
-
-Hochqualitativer Livevideo + Audio Babyphone mit unbegrenzter Reichweite (WiFi, 3G, LTE, 4G, 5G, Bluetooth). Einfach zu verwenden, funktioniert auf jedem iPhone, iPad, iPod Touch oder Mac, ohne Konfiguration. Exzellente Wahl für sicheres Überwachen des Babys zu Hause und auf Reisen.
-
-Cloud Baby Monitor hilft täglich Zehntausenden von Eltern, sich um ihre Kleinen zu kümmern.
-
-Vorgestellt von Apple in der Geschichte von The Quantified Dad (www.apple.com).
-Vorgestellt in Good Morning America von ABC News (www.abcnews.com).
-Vorgestellt in USA Today (www.usatoday.com).
-Gewählt durch App Advice zur essentiellen App für das Überwachen Ihres Babys (www.appadvice.com).
-Empfohlen von Mashable unter den besten “Elternapps für Baby's erstes Jahr” (www.mashable.com).
-Ausgewählt von TUAW für den "Urlaubsgeschenke-Guide: iPad Apps für zu Hause" (www.tuaw.com).
-Gewinn des 3. Platzes von Babble.com in den "Top 25 Reiseapps für Eltern” (www.babble.com).
-
-
-FUNKTIONEN
-
-• SICHER, VERLÄSSLICH UND EINFACH ZU VERWENDEN
-• LIVEVIDEO, ÜBERALL 
-• SUPEREMPFINDLICHES AUDIO
-• GERÄUSCH- UND BEWEGUNGSALARM
-• ACTIVITY LOG
-• BELIEBTE RAUSCHGERÄUSCHE UND SCHLAFLIEDER INKLUSIVE
-• ERSTELLEN SIE IHRE EIGENEN WIEDERGABELISTEN 
-• NACHTLICHT MIT FERNSTEUERBARER HELLIGKEITSKONTROLLE
-• SPRECHEN SIE AUS DER FERNE MIT IHREM BABY
-• FUNKTION FÜR MEHRERE ELTERNTEILE UND KINDER
-• VERBINDUNGSQUALITÄTSANZEIGE
-• AKKUSTATUSÜBERWACHUNG UND -ALARM
-• UNTERSTÜTZUNG FÜR MULTITASKING, BILD-IN-BILD
-
-
-SICHERER , VERLÄSSLICHER, UND EINFACH ZU VERWENDENDER BABY MONITOR
-Verwenden Sie Ihr iPhone, iPad, iPod Touch oder einen Mac als Kindereinheit, platzieren Sie sie im Babyzimmer und genießen Sie live Video und klares Audio im Vollbildmodus auf der Elterneinheit. Beide Geräte werden automatisch verbunden, ohne jegliche Konfiguration. Die gesamte Kommunikation ist sicher, geschützt durch Verschlüsselung nach dem Industriestandard, um sicherzustellen, dass nur Sie Zugriff auf Baby's Videostream haben.
-
-LIVE VIDEO, ÜBERALL
-Mit dieser einzigartigen Funktion können Sie ein Live-Vollbildvideo Ihres Babys ohne Distanzbeschränkung sehen. Cloud Baby Monitor funktioniert in jedem WiFi-Netzwerk, über 3G, LTE, 5G, oder via Bluetooth.
-
-SUPEREMPFINDLICHES AUDIO
-Hören Sie Ihr Baby atmen, als ob es direkt neben Ihnen schlafen würde. 
-
-GERÄUSCH- UND BEWEGUNGSALARM
-Erhalten Sie Benachrichtigungen über alle Aktivitäten Ihres Kindes mit Geräusch- und Bewegungsalarmen.
-
-BELIEBTE RAUSCHGERÄUSCHE UND SCHLAFLIEDER INKLUSIVE
-Genießen Sie die Palette an beliebtesten Schlafliedern und Rauschgeräuschen für Babys in der App. Kontrollieren Sie aus der Ferne Lautstärke, Wiedergabe und Autostopp-Timer. 
-
-ERSTELLEN SIE IHRE EIGENEN WIEDERGABELISTEN
-Erstellen Sie eigene Wiedergabelisten mit Songs, Rauschgeräuschen oder Märchen aus Ihrer iTunes-Bibliothek.
-
-NACHTLICHT MIT FERNGESTEUERTER HELLIGKEITSKONTROLLE
-Verwenden Sie ein ferngesteuertes Nachtlicht, um Ihr Baby durch die Nacht hindurch schlafen zu sehen. Helligkeitskontrolle ermöglicht Ihnen das Anpassen der Lichtintensität, um ein gutes Bild zu erhalten und das Baby nicht zu stören.  
-
-SPRECHEN SIE AUS DER FERNE MIT DEM BABY
-Beruhigen Sie das Baby einfach mit Ihrer Stimme von der Elterneinheit aus.
-
-UNTERSTÜTZUNG FÜR MEHRERE ELTERNTEILE UND KINDER 
-Verwenden Sie die Funktion für mehrere Kinder zum Überwachen von zwei Kindern, die in verschiedenen Räumen schlafen.
-Verwenden Sie die Funktion für mehrere Elternteile zum Überwachen Ihres Babys von zwei verschiedenen Elterneinheiten aus.
-
-
-KUNDENSUPPORT
-
-Glückliche Kunden sind unsere Top-Priorität, und Ihr Feedback ist immer willkommen. Wenn Sie ein Problem oder einen Vorschlag haben, kontaktieren Sie uns bitte direkt via support@cloudbabymonitor.com.
-
-Danke, dass Sie Cloud Baby Monitor verwenden.
-
-[View on Apple](https://apps.apple.com/fr/app/cloud-baby-monitor/id432791399)
-
-<a id="litchi-pour-drones-dji"></a>
-## Litchi pour Drones DJI
-
-![Litchi pour Drones DJI](../../logos/1059218666-b59f9de7.png)
-
-Libérez tout le potentiel de votre drone DJI avec Litchi, votre nouvelle application de vol favorite
-
-Avec plus de 5000 vols quotidiens réussis, Litchi est l'application de vol la plus fiable pour votre drone DJI
-
-Compatible avec: DJI Mini 2, Mini SE (version 1 uniquement), Air 2S, Mavic Mini 1, Mavic Air 2, Mavic 2 Zoom/Pro, Mavic Air/Pro, Phantom 4 Normal/Advanced/Pro/ProV2, Phantom 3 Standard/4K/Advanced/Professional, Inspire 1 X3/Z3/Pro/RAW, Inspire 2, Spark
-
-Cette application n'est *pas* compatible avec les derniers drones DJI (Mini 3, Mini 4, Mini 5, Mavic 3 Entreprise, Matrice 4 etc.). Pour ceux-ci, vous devez utiliser Litchi Pilot
-
-Achetez Litchi dès aujourd'hui et obtenez un bon de réduction de 30% sur votre abonnement Airdata.com, offre exclusive pour les pilotes Litchi, reportez-vous à https://flylitchi.com/airdata pour plus d'informations
-
-Fonctions principales:
-
-- Mode Waypoint
-Que vous soyez un professionnel ou un débutant, Litchi offre le moteur de waypoint le plus intuitif et le plus puissant. Notre planificateur de vol est disponible sur toutes les plates-formes, y compris PC et Mac avec synchronisation des plans de vol sur tous vos appareils
-
-- Mode panorama
-Prenez facilement des panoramas horizontaux, verticaux et sphériques 360 degrés. Et lorsque vous avez terminé la prise de vue, assemblez des panoramas jusqu'à 130 mégapixels sur iPhone (jusqu'à 220 MP sur iPad Pro). Dites adieu à l'utilisation d'un logiciel PC / Mac coûteux supplémentaire!
-
-- Mode Track
-Avec le mode Track de Litchi, votre drone DJI comprend désormais ce qu'il voit. En utilisant des algorithmes de vision par ordinateur avancés, Litchi garde votre sélection parfaitement cadrée pendant que vous pilotez le drone. Vous ne voulez pas voler manuellement? Pas de problème, démarrez un orbit ou follow autonome et regardez Litchi s'occuper de tout
-
-- Mode Follow
-Le drone suit chacun de vos mouvements à l'aide des capteurs GPS et altitude du téléphone
-
-- Mode VR
-En exploitant la puissance de votre téléphone, le mode de réalité virtuelle vous offre l'expérience FPV la plus immersive. Regardez votre vol autonome en mode VR ou volez manuellement pour des sensations supplémentaires. (Requiert des lunettes vendues séparément)
-
-- Mode Focus
-Litchi vous assiste en prenant à la fois le contrôle de la nacelle et l'orientation du drone, afin que vous puissiez vous concentrer sur les mouvements horizontaux
-
-Et bien plus encore ...
-- Mode Orbit pour voler autour d'un sujet avec des paramètres avancés et des commandes en temps réel
-- Diffusez en direct le flux vidéo de votre drone sur Facebook ou sur un serveur RTMP
-- Diffusez le flux vidéo sur un appareil à proximité exécutant l'application Litchi Vue
-- Les boutons personnalisables du RC vous permettent de créer des plans de vol au fur et à mesure que vous pilotez et bien plus encore
-- Journaux de vol (format CSV), qui peuvent être automatiquement téléchargés sur Airdata UAV
-- Retour vocal pour les avertissements importants
-- Enregistrement vidéo automatique
-- Prise en charge des contrôleurs Bluetooth
-
-Visitez notre site Web pour plus d'informations: https://flylitchi.com
-
-Comment connecter Litchi à votre drone: https://www.flylitchi.com/help
-
-N'oubliez pas d'essayer notre planificateur de vol disponible sur https://hub.flylitchi.com
-
-[View on Apple](https://apps.apple.com/fr/app/litchi-pour-drones-dji/id1059218666)
-
-<a id="lengo-mai"></a>
-## Lengo Mai
-
-![Lengo Mai](../../logos/6758743221-0d514579.png)
-
-Saviez-vous qu’en Provence, chaque année, des mots, des chansons, des histoires s’éteignent avec ceux qui les portaient ?   Le provençal, cette langue qui sent le thym, le mistral et les vieilles pierres, est en danger.  Pourtant, il est bien plus qu’une langue : c’est notre mémoire, notre identité, notre façon unique de dire « je t’aime » ou de raconter une blague entre amis.
-
-
-Imaginez une appli qui vous permette d’apprendre le provençal comme on apprend une chanson : en jouant, en écoutant, en parlant.   Pas de cours ennuyeux, mais des phrases simples et utiles du quotidien, des défis pour vous encourager à tchatcher, un jeu pour mémoriser de manière ludique, des articles pour en savoir + sur la culture provençale (chansons, contes, recettes de cuisine, fêtes, etc.)  Et surtout, une communauté qui vibre pour la même cause : faire vivre notre langue, ensemble.
-
-
-
-Avec seulement 10 minutes par jour, vous pourrez :
-• Comprendre les expressions de vos grands-parents ou de vos voisins.
-• Parler avec confiance, même si vous débutez.
-• Transmettre cette richesse à vos enfants, pour qu’ils sachent d’où ils viennent.
-
-Le provençal n’est pas une langue morte, c’est une langue qui attend qu’on la réveille.   Et si c’était vous, le prochain à la faire résonner ?
-
-
-Quel est le premier mot provençal que vous aimeriez apprendre ?
-
-[View on Apple](https://apps.apple.com/fr/app/lengo-mai/id6758743221)
-
-<a id="fog-of-world"></a>
-## Fog of World
-
-![Fog of World](../../logos/505367096-978087bc.png)
-
-With Fog of World, you relive those destinations and the path that lead you there. Map it; draw each stride out for you to see. Look at the work of art you’ve created - just by traveling. By knowing you cannot be contained.
-
-Join Us. Embrace a unique way of experiencing your adventures! Explore, visit and memorize your travels on the world map. Unfog the world and make your life more brilliant today!
-
-● VISUALIZE & MEMORIZE EVERYWHERE YOU’VE BEEN
-
-Fog of World is a real-life, travel and exploring game where you need to remove the fog on the map by exploring the world. It's a fantastic way to visualize everywhere you have been in your entire life or to discover places around you!
-
-● EXQUISITE MAPPING 
-
-Beautiful world maps are available at a glance. Explore the places near your location, find the spot to go and hit record. Your trip is then recorded, mapped and kept on your cloud storage forever. Start the travel explore the game, while memorizing the places you visit in a neat way. Grow your level and increase your visit percentages for every continent. Have fun exploring the world!
-
-● CRITICALLY ACCLAIMED
-
-• Featured by Apple as App of the Day in 137 countries
-• This Fog of World App Might Be the Funniest App I’ve Seen in a Long Time - GIZMODO
-• We don't remember the last time we've run into an app that is as interesting as Fog of World - Business Insider
-• Fog of World turns moving through your city and your world into a game of exploration - AppStorm
-• Original worldwide location tracking game that will make you want to explore every street in your city and far wider - LITTLE APP REVIEW
-• Fog of World uses the fog of war from video games to gamify traveling - The Awesomer
-• Was holding the 1st position for top stories on Hacker News!
-
-● FEATURES
-
-• Records your tracks and maps travel (even when the app running in the background).
-• Shows everywhere you have been on the map at the same time with its advanced trip and travel mapping.
-• Analyses your statistics around the world, around every continent, and around every country and territory.
-• Lots of badges to motivate you to explore more around the world.
-• Support for multiple databases and securing data with snapshots for various tracking purposes.
-• Support for Importing tracks through GPX or KML files.
-• Support for syncing your data with iCloud, Dropbox and OneDrive.
-• Super high-accuracy offline reverse geocoding database that provides the most accurate statistics.
-• Support for Siri shortcuts and personalized Siri phrases.
-
-● PRIVACY POLICY
-
-In short, we do not collect any of your exploration data. Your data will be uploaded when you sync them with your cloud storages, but only you have access to them. We don't.
-
-● Why Fog of World?
-
-• Fog of World is the first app that brings the fog of war idea into the real world map back in 2012 and provides free updates since then.
-• Fog of World remains the best app to render the fog overlay and is the only app that shows you high-resolution tracks. Don't believe it? Download the copycat apps and compare the results with Fog of World screenshots.
-• There is no user account of Fog of World. All of your data are saved in your device. You have 100% privacy.
-• The database is designed to use as little storage as possible while providing high performance.
-• Fog of World is the only app that truly works around the world since China uses the GCJ-02 coordinate system due to political reasons. Other copycats either work correctly in China or the rest of the world, but not both.
-
-
-Map your trips, memorize and start your world adventure with Fog of World. It’s like having world atlas and yourself to explore and conquer it.
-
-Download the ultimate explore game and places I've been travel tracker now!
-
-Like us on Facebook:
-https://www.facebook.com/OllixIO/
-
-Follow us on Twitter:
-https://twitter.com/OllixIO
-
-Note:
-Continued use of GPS running in the background can dramatically decrease battery life.
-
-[View on Apple](https://apps.apple.com/fr/app/fog-of-world/id505367096)
-
-<a id="auto-theorie-premium"></a>
-## Auto Theorie Premium
-
-![Auto Theorie Premium](../../logos/6477699292-31b99e4f.png)
-
-Auto Theorie : Le Matériel de Théorie Suisse
-
-B,A,A1 Questions originales d’Association des Services des Automobiles (asa)
-
-«L'application de théorie automobile la plus populaire de la Suisse!»
-Élaboré en collaboration avec des Auto-Écoles suisses - version 2026.
-
-L'application contient les QUESTIONS THÉORIQUES OFFICIELLES d’Association des Services des Automobiles 2026 - pour l'examen du permis de conduire des catégories B (voiture) et A, A1 (moto, scooter).
-
-VERSION avec Code : ACTIVER
-Fonctionne avec le numéro de série d'un produit acheté sur verkehrstheorie.ch (CD-ROM, clé USB)
-
-VERSION PREMIUM: ACHETER
-Les questions d'examen actuelles de la théorie de la conduite automobile - la meilleure préparation à l'examen !
-
-APPRENDRE AVEC L'ORIGINAL – «Depuis 1999»
-Contient les catégories B, A, A1 (auto/moto/scooter)
-Toutes les questions théoriques officielles de l'asa 2026
-Des explications claires sur toutes les questions théoriques
-Simulation d'examen - comme à l'examen théorique
-
-ACTUALITÉ
-Grâce à la mise à jour, tu as toujours les dernières questions d'examen sur ton smartphone.
-
-CONSEIL - Ne te contente pas d'apprendre rapidement par cœur!
-«Celui qui est solide en théorie passera mieux les cours de conduite»
-Avec cette application, les règles essentielles du code de la route te sont expliquées pour une compréhension approfondie!
-
-SOLUTIONS CORRECTES - RÈGLES DE CIRCULATION IMPORTANTES
-- toutes les solutions correctes aux questions d'examen
-- de nombreux graphiques explicatifs
-- des textes clairs et compréhensibles t'expliquent le code de la route
-
-APPRENDRE - S'ENTRAÎNER - PASSER L'EXAMEN FACILEMENT
-Toutes les règles de la circulation importantes, des questions théoriques - comme à l'examen - et en plus de 100 questions d'entraînement qui ont été élaborées avec des ÉCOLES DE CONDUITE - personne ne doit avoir peur de l'examen!
-Réussis l'examen du premier coup - il n'y a pas besoin de faire plus d'efforts!
-
-APPRENTISSAGE INTELLIGENT
-«Casse-tête» : les questions auxquelles tu n'as pas répondu correctement sont gardées en mémoire, ce te permet de les étudier spécifiquement plus tard.
-«Retenir»: Cliquez sur * pour mémoriser des questions, pour les répéter plus tard.
-Évaluation statistique de tes progrès d'apprentissage.
-
-PLUS
-L'asa (Association de Services des Automobiles) s'est donné le droit de poser des questions différentes ou reformulées lors de l'examen.
-Pour réussir l'examen, il est donc important que tu comprennes le code de la route! De plus, nous intégrons pour toi, en guise d'entraînement, plus de 100 questions d'entraînement qui ont été élaborées avec des écoles de conduite.
-
-MERCI
-Satisfait de cette offre? Examen réussi? Toutes nos félicitations! Nous te remercions pour une évaluation client positive!
-
-Suggestions et propositions d'amélioration?
-Fais-nous part de ta demande avant de porter un mauvais jugement ici - il y a toujours une solution
-
-Informations sur tous les produits sur examentheorique.ch
-
-[View on Apple](https://apps.apple.com/fr/app/auto-theorie-premium/id6477699292)
-
-<a id="istb"></a>
-## iSTB
-
-![iSTB](../../logos/1497473331-6b7e95ea.png)
-
-iSTB allows you to watch IPTV from MAC address based providers which use Stalker Middleware, providers using the Xtream Codes API and M3U playlists.
-
-**Please use the iSTB Lite app to check if your provider is supported**
-**Some providers are not supported**
-
-Features:
-- Add/remove unlimited portals
-- Connect to multiple portals at once with profile groups
-- Search genres by name
-- Search channels by name
-- Add channels to a favorites list
-- Full electronic programming guide or EPG (dependent on your provider)
-- View & download VOD content (dependent on your provider)
-- Catch up on past programs (dependent on your provider)
-- Watch VOD with subtitles from OpenSubtitles
-- Resuming of VOD and catch up content
-- Play audio in background
-- Watch multiple streams at once with Multi View (dependent on your provider)
-- Play picture in picture (supported devices)
-- Cast to TV (May not work with all providers. Requires VLC app to be installed and a Chromecast.)
-- Watch content in portrait or landscape
-- Dark theme
-- And more!
-
-Please note:
-- This app works with MAC address & Xtream Codes based IPTV providers and M3U playlists only. Download the iSTB Lite app to check if your provider is supported.
-- You will need a valid subscription with an IPTV provider to watch content. This app does not offer any video or audio content itself.
-- All content is provided by your IPTV provider. If you have any questions or problems regarding the content or your subscription, please contact your IPTV provider directly.
-- You will need an active internet connection to watch content. Data charges may apply. Please check with your internet provider directly.
-- By using this app, you acknowledge and agree that you have the legal right to access and view the content provided by you. The app does not host, store, or distribute any copyrighted content. Users are solely responsible for ensuring that they comply with applicable laws, regulations, and copyright agreements when accessing and streaming content. The app and its developers assume no liability for any misuse of the service. If you do not have the necessary rights to access certain content, you must refrain from using the app for such purposes.
-
-[View on Apple](https://apps.apple.com/fr/app/istb/id1497473331)
-
-<a id="reunionbysat"></a>
-## Reunionbysat
-
-![Reunionbysat](../../logos/6744999580-702a30c2.png)
-
-Piton de la Fournaise Reunionbysat – L’app volcan & météo de référence pour La Réunion.
-
-Reunionbysat vous connecte en temps réel à l’activité du Piton de la Fournaise et aux conditions météo locales grâce à une plateforme complète combinant données scientifiques, cartographie dynamique et outils avancés d’analyse.
-
-Conçue pour les passionnés de volcanologie, randonneurs, photographes, professionnels de terrain et habitants soucieux de leur sécurité, l’app offre une vision claire et moderne de l’environnement naturel réunionnais.
-
- Volcanologie temps réel
-
-• Surveillance sismique en direct avec sismogrammes et spectromètres
-• Carte interactive des séismes et éruptions
-• Estimation visuelle des zones d’activité magmatique
-• Historique des éruptions et niveaux d’alerte
-• Modèle 3D interactif du volcan (surface & profondeur)
-
-Cartographie & navigation intelligente
-
-• Carte détaillée avec données scientifiques actualisées
-• Guidage GPS avancé et alerte sortie de sentier
-• Visualisation des zones sensibles et d’activité
-• Réalité augmentée pour explorer le relief volcanique
-
-Simulateur de coulées dans l'enclos sur modèle DEM 2D / 3D
-
-• Pointez un event éruptif et en fonction du type de lave, du débit éruptif, de la durée et du relief, vous aurez une simulation du parcours et des estimées date/heure de la coulée théorique avec un message vous indiquant si celle-ci peut atteindre l'océan ou pas (modèle empirique)
-
-Météo experte pour La Réunion
-
-• Prévisions locales haute résolution AROME
-• Radar pluie et tendances météo avancées
-• Suivi cyclonique en saison
-• Page dédiée au givre en altitude
-• Prévisions météo spatiale pour anticiper de rares aurores australes lors de fortes tempêtes solaires
-
- Sécurité & alertes intelligentes
-
-• Notifications en cas d’activité inhabituelle
-• Mode urgence avec partage instantané de position et fil d'Ariane GPS
-• Alertes météo, volcan, tsunami et événements majeurs
-
-Respect de votre vie privée
-
-• Aucune publicité
-• Aucun tracking
-• Aucun compte requis
-
-Développée à La Réunion pour La Réunion mais aussi pour le monde entier qui s'intéresse au Piton de la Fournaise et à la Réunion.
-
-Conditions d’utilisation : https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
-Politique de confidentialité : https://reunionbysat.com/confidentialite.html
-
-[View on Apple](https://apps.apple.com/fr/app/reunionbysat/id6744999580)
-
-<a id="calometric-calories-tracker"></a>
-## Calometric — Calories Tracker
-
-![Calometric — Calories Tracker](../../logos/6759844251-0c2032dc.png)
-
-Calometric is the nutrition tracker that actually respects you — your wallet, your time, and your privacy.
-
-Snap a photo, scan a barcode, speak your meal, search our database, or read a nutrition label. Five ways to log, all powered by on-device intelligence. No cloud servers. No subscriptions. No data collection. Pay once, own it forever.
-
-FIVE WAYS TO LOG — USE WHAT WORKS FOR YOU
-
-• Photo Scan — Take a photo of your meal. On-device Vision identifies the foods and matches them against USDA nutrition data. No internet required.
-
-• Barcode Scanner — Point your camera at any packaged food. Instant lookup from Open Food Facts with full nutrition breakdown.
-
-• Voice Logging — Say what you ate. Real-time speech recognition transcribes your words, matches foods, and logs the meal hands-free.
-
-• Food Search — Browse and search 177 foods from the USDA FoodData Central database. Authoritative nutrition data you can trust.
-
-• Nutrition Label OCR — Point your camera at a nutrition label. Calometric reads the text and extracts calories, carbs, protein, and fat automatically.
-
-SMART MACRO TRACKING
-
-• Dashboard with animated calorie ring and macro progress bars — see your day at a glance
-• Set custom daily goals or choose from presets: Balanced, Low Carb, High Protein, Keto
-• Calorie slider auto-redistributes carbs, protein, and fat proportionally
-• Weekly trends with calorie line chart, goal tracking, and stacked macro bars
-• Full meal history with calendar view and detailed breakdowns
-• Edit any meal or food item after saving — adjust portions, swap items, correct anything
-• Swipe to edit or delete meals — quick and consistent across every screen
-• Export your data as CSV anytime — your data belongs to you
-
-APPLE WATCH COMPANION
-
-• Independent watchOS app — works without your iPhone
-• Quick Add with 12 common foods organized by category (Drinks, Snacks, Meals)
-• Calorie ring and macro bars at a glance
-• Complication with three styles: circular gauge, rectangular macro bars, inline text
-
-WIDGETS & SIRI
-
-• Home Screen widgets: daily calorie progress ring, macro summary breakdown
-• Control Center widget: quick-launch the capture flow
-• Watch face complications in three styles
-• 4 Siri Shortcuts — "What did I eat today?", "Log a meal", "Look up nutrition", "Capture a meal"
-• Spotlight search — find your logged meals from the home screen
-
-WORKS ACROSS YOUR DEVICES
-
-• iPhone, iPad, and Apple Watch — one purchase covers everything
-• CloudKit sync keeps meals, goals, and preferences in sync across devices
-• Offline-first — everything works without internet, syncs when connected
-
-PRIVACY BY ARCHITECTURE
-
-This isn't a marketing checkbox — it's how the app is built:
-
-• Food recognition runs entirely on your device using Apple Vision
-• On-device Foundation Models estimate smart portions on supported hardware
-• Nutrition database is bundled inside the app — no server queries needed
-• Barcode lookups send only the barcode number to Open Food Facts (not photos, not your identity)
-• No analytics. No crash reporting SDKs. No advertising identifiers. No tracking.
-• CloudKit sync uses your personal iCloud — we never see your data
-• App Store privacy label: Data Not Collected
-
-DESIGNED FOR iOS 26
-
-• Liquid Glass design language throughout
-• Animated onboarding with contextual permission requests
-• 15 contextual tips guide you through features as you discover them
-• Accessibility: VoiceOver labels, Dynamic Type, Reduce Motion support
-• HealthKit integration — meals sync calories, carbs, protein, and fat to Apple Health
-
-NO SUBSCRIPTION. NO ADS. EVER.
-
-One purchase. Every feature. Every platform. Every future update. No free tier with paywalled features. No "Plus" upgrade. No annual renewals. No "cancel anytime" because there's nothing to cancel.
-
-[View on Apple](https://apps.apple.com/fr/app/calometric-calories-tracker/id6759844251)
-
-<a id="القاعدة-النورانية"></a>
-## القاعدة النورانية
-
-![القاعدة النورانية](../../logos/841875549-5d8f09e5.png)
-
-يسرُّ مجموعة الفرقان للتعليم وتقنية المعلومات أن يُقدِّمَ هذا التطبيقَ على الهواتفِ الذكية لعملائه الكرام، والذي يَشْمَلُ دروسَ القاعدةِ النورانيةِ صوتاً وصورةً، وتمَّ برمجتُهُ بحيثُ يكونُ سَهْلَ الاستخدامِ وأكثرُ جاذبيةً للطلابِ والطالباتِ؛ ويساعد في اكتساب المَهَارَاتِ الأسَاسِيِّةِ لتَعَلُّمِ اللُغَةِ العَرَبِيِّةِ، والقرآنِ الكريمِ وهي: (مَهَارَةُ السَّمْعِ، وَالنُّطْقِ، وَالقِرَاءَةِ)، سائلين الله أن ينفع أبنائنا وبناتنا في مشارق الأرض ومغاربها...
-    ​المدير العام
-​المهندس/ محمد فاروق الراعي
-
-
-
-
-The Furqan group for Education and IT is pleased to present their new smart phone application for Qaaidah Nooraniyah, which has both audio and visual features that are user friendly and engaging for students. This application redefines the best in Arabic learning and will assist them in acquiring the skills of listening, pronunciation and reading required to learn the Arabic language and The Noble Quran. We ask Allah to benefit our learners all over the world.
-With best wishes.
-General Manager  
-Eng. Mohammad Farooq Alraee
- 
- 
- 
-Le groupe Furqan pour l’enseignement presente à saclientèle une nouvelle application pour Smartphones, comprenant toutes les leçons « An-Nourania » sous forme audiovisuelle, et programmée de maniere simple et attractive,  et offrant les compétencesnecessaires pour maitriser la prononciation de lalangue arabe et du Noble Coran.
-Nous demandons à Allah d’en faire profiter nos enfants à travers le monde.
-
-Le directeur général
-Ing. Mohammad F. Alraee
-
-[View on Apple](https://apps.apple.com/fr/app/%D8%A7%D9%84%D9%82%D8%A7%D8%B9%D8%AF%D8%A9-%D8%A7%D9%84%D9%86%D9%88%D8%B1%D8%A7%D9%86%D9%8A%D8%A9/id841875549)
-
-<a id="moment-pro-camera-ii"></a>
-## Moment Pro Camera II
-
-![Moment Pro Camera II](../../logos/6748837351-fa363aa5.png)
-
-Your Camera, Your Looks, Your Way.
-
-Moment Pro Camera II turns your phone into your favorite camera for photography and filmmaking. Shoot like a pro with full manual controls, creative looks, and an upgraded interface – all in one intuitive app.
-
-What’s New in Pro Camera II?
-
-Our first pro camera app has been the #1 rated camera app for years. Now, it’s time for the next chapter. We’ve re-engineered Pro Camera II from the ground up to give you better performance, advanced controls, and new customizable interfaces and shooting modes.
-
-Key Features:
-
-• Pro-Level Exposure Control – Our smart exposure system allows you to take control with Shutter Priority, ISO Priority, Manual, and Auto exposure modes, including the ability to limit Auto ISO to a specific range.
-• Upgraded White Balance – Beyond auto white balance, you can manually configure temperature and tint, choose a preset, or calibrate via a gray card.
-• Advanced Photo Options – Control the level of processing and HDR applied to your photos. Shoot in RAW, ProRAW, TIFF, HEIF, or JPG.
-• Cinematic Video Tools – Apple Log, Open Gate, ProRes, 10-bit recording, and more. Adjust the resolution, color space, frame rate, codec, bitrate, and chroma subsampling for total creative freedom.
-• Precision Monitoring – Get pro-level feedback with Waveform, RGB Histograms, and audio meters — normally reserved for cinema cameras.
-• Aspect Ratio – Frame your shot within your favorite aspect ratio (4:3, 16:9, 3:2, 5:4, 1:1)
-• Designed for All Creators – A beautiful, intuitive interface that adapts to how you shoot. Swipe, tap, and adjust anything immediately with one hand (including a dedicated left-handed layout), or go distraction-free with Zen Mode. Works natively in landscape orientation.
-• Looks, Your Way – Apply creative Looks or import your own LUTs to video and photos. Preview them live, bake them into your footage, or adjust intensity on the fly.
-• Focus Tools That Just Work – Separate reticles for exposure and focus with a tap, or dial in the shot with Manual Focus and Focus Peaking.
-• Quick Actions, Faster Shooting – One swipe to reach your most used tools: flash, stabilization, zebras, focus peaking, grids, and more.
-• Intuitive Lens Control – Remove the guesswork of which lens you are using and eliminate surprises with our Optic Controls. Say goodbye to shaky zoom with our fluid zoom control.
-• Hardware-Ready – Optimized for every iPhone, with seamless integration for external mics and Moment’s entire lens + case ecosystem.
-
-Upcoming Feature Releases
-• Look Store: purchase creator color grades and film emulations
-• Slow Shutter and Timelapse modes
-• Advanced Profile sharing and collaboration tools
-• Extended hardware integration partnerships
-
-We love hearing from our community. For feature requests, ideas, or support, email us at hello@shopmoment.com or message us @momentprocamera on social media.
-
-Fully Compatible with iPhone and Moment's complete ecosystem of lenses, cases, and accessories.
-
-[View on Apple](https://apps.apple.com/fr/app/moment-pro-camera-ii/id6748837351)
-
-<a id="paris-invaders-map"></a>
-## Paris Invaders Map
-
-![Paris Invaders Map](../../logos/1499730123-725eedb9.png)
-
-A "Space Invaders" street art mosaic location map and collection manager.
-
-- Easily locate "Space Invaders" street art mosaics in Paris, Versailles, Fontainebleau, Ile-de-France and more cities
-- Manage your collection with color markers
-- Search the map by mosaic number
-- Search a mosaic on Google or Instagram by clicking a button
-- Geolocation feature to see where you are on the map
-- Map filters for the different color markers
-- *** Updated regularly with new, destroyed and reactivated mosaics, just press on the update icon to check for updates. ***
-
-This app contains a map with all the active and inactive "Space Invaders" street art mosaic locations in Paris, Versailles, Fontainebleau and Ile-de-France. To put together this map took countless hours of research. Save yourself this effort, I've done the work for you!
-
-It is not just a map, it is a collection manager! You can set different colors to the map markers and filter them in order to see exactly those you already have, those that you still need to find and those that have been reported as destroyed or damaged.
-
-ParisInvadersMap is the perfect companion to bring along every "Space Invaders" mosaic street art hunt.
-
-[View on Apple](https://apps.apple.com/fr/app/paris-invaders-map/id1499730123)
-
-<a id="altime-tre-pre-cision"></a>
-## Altimètre & Précision
-
-![Altimètre & Précision](../../logos/956232336-f4d0bb79.png)
-
-Des milliers d'utilisateurs font confiance à notre altimètre depuis 7 ans. 
-Cette application est faite à Montréal par les petites mains de l’équipe en respectant à 100% la vie privée.  
-Pour le prix d'un café, supportez nous!
-Merci beaucoup!!
-
-Caractéristiques:
-- Sans publicité 
-- Simple d'utilisation
-- Affichage du niveau de précision de l’altitude
-- Hors réseau: votre altitude sera calculée via le GPS du téléphone 
-- Aucune donnée collectée ni partagée
-
-
-Notes:
-La précision dépend du type d’iPhone et de la puissance du signal.
-La meilleure précision possible est de 3 mètres.
-Les montagnes et autres obstacles peuvent bloquer la visibilité directe des satellites GPS. Pour une meilleure précision, maintenez une vue dégagée de l’horizon dans plusieurs directions. La précision du GPS varie selon le nombre de satellites GPS visibles. La localisation de tous les satellites visibles peut prendre plusieurs minutes. Durant cette phase, la précision affichée s’améliorera progressivement.
-Lorsque le réseau est inaccessible il est possible que la carte soit vide.
-
-[View on Apple](https://apps.apple.com/fr/app/altim%C3%A8tre-pr%C3%A9cision/id956232336)
-
-<a id="dictionnaire-larousse-franc-ais"></a>
-## Dictionnaire Larousse français
-
-![Dictionnaire Larousse français](../../logos/1497165353-94b1216b.png)
-
-Le dictionnaire Larousse Français est là pour vous aider à améliorer votre expression et votre vocabulaire.
-
-Une orthographe à vérifier ? Une définition ou un synonyme à trouver ? La bonne conjugaison d'un verbe ou un point de grammaire à confirmer ? Le dictionnaire Larousse Français sera votre meilleur allié ! :-)
-
-Partout avec vous dans votre poche, le dictionnaire Larousse dispose d’un mode Hors connexion qui vous permet de l’utiliser chaque fois que vous en avez besoin.
-L'application s’installe entièrement sur votre mobile et ne nécessite ensuite aucune connexion Internet (sauf pour les sons). 
-
-L'application vous permet notamment de trouver les meilleures citations et expressions en lien avec le mot ou verbe recherché.
-Et la conjugaison des verbes est possible à tous les temps et tous les modes.
-
-La navigation du dictionnaire Larousse a été pensée pour être extrêmement intuitive et rapide : 
-
-- Dès la page d'accueil, vous pouvez saisir votre recherche rapidement (et retrouver vos recherches récentes).
-
-- Vous retrouvez aussi vos favoris dès la page d'accueil.
-
-- Votre résultat de recherche sur un mot ou verbe vous donne accès en un clin d'œil à la définition, aux synonymes et homonymes, aux difficultés, à la conjugaison, aux expressions et citations.
-Le tout en quelques mouvements de doigts. :)
-
-- Envie de nouveauté ? Le bouton « Aléatoire » (représenté par deux dés à jouer) vous permet de découvrir un nouveau mot ou verbe très facilement.
-
-Pour résumer, le dictionnaire Larousse, c'est : 
-
-- Un dictionnaire de français de 90 000 mots et abréviations.
-- Plus de 135 000 définitions avec toutes les nuances de sens.
-- L’étymologie et de nombreuses indications pouvant éclairer l’utilisation du mot dans une phrase pour toujours l’employer correctement.
-- 140 000 synonymes, homonymes et contraires.
-- 34 000 expressions et locutions formées avec le mot.
-- 9 000 citations d’auteurs français et étrangers.
-- 6 000 articles pratiques pour déjouer les pièges de la langue (orthographe, grammaire, prononciation, conjugaison difficile, nuances de sens, bon usage…).
-- L’outil parfait pour enrichir sans cesse votre expression et votre vocabulaire.
-
-Le tout dans votre poche, toujours sur vous et disponible à tout moment, même hors connexion.
-
-[View on Apple](https://apps.apple.com/fr/app/dictionnaire-larousse-fran%C3%A7ais/id1497165353)
-
-<a id="skyview-satellite-guide"></a>
-## SkyView® Satellite Guide
-
-![SkyView® Satellite Guide](../../logos/694309958-af738a64.png)
-
-***Remise sur la version initiale*** 
-
-Les créateurs de l'application primée SkyView® ont inventé un étonnant moyen de découvrir plus de 20 000 satellites, de jour comme de nuit. 
-
-Désormais, tout le monde peut repérer des satellites. Il suffit de pointer votre iPhone vers le ciel pour repérer la station spatiale internationale, le télescope spatial Hubble, les satellites GPS et tout ce peut se trouver au-dessus de votre tête. 
-
-Découvrez de nouveaux satellites en mode Earth (Terre). Faites le tour de la Terre, touchez des satellites au-dessus de pays lointains, zoomez pour faire un gros plan et prenez de superbes photos que vous montrerez à vos amis. 
-
-Fonctionnalités : 
-
-• Simple : pointez votre iPhone vers le ciel pour repérer les satellites qui passent au-dessus de l'endroit où vous vous trouvez. 
-• Interactive : faites le tour de la Terre pour découvrir de nouveaux satellites et zoomez pour faire un superbe gros plan en 3D. 
-• Personnalisable: faites une liste de vos satellites préférés et filtrez ceux que vous ne voulez pas voir. 
-• Rappels d'observation : programmez rapidement des rappels qui vous avertiront lorsqu'un satellite visible se trouvera dans le ciel au-dessus de l'endroit où vous vous trouvez. 
-• Utilisable de nuit : n'abîmez plus vos yeux la nuit grâce à deux modes nuit facilement accessibles (filtres rouges ou verts). 
-• Sociale : enregistrez et partagez de superbes images avec vos proches sur les réseaux sociaux. 
-• Débris spatiaux : découvrez des milliers de corps de fusée et autres débris en orbite autour de la Terre. 
-• Mobile : aucun signal de données ni GPS n'étant nécessaire à son fonctionnement, elle peut être utilisée partout. 
-• Complète : comprend 20 000 satellites avec des milliers de faits, de descriptions, de détails et d'images satellite.
-
-[View on Apple](https://apps.apple.com/fr/app/skyview-satellite-guide/id694309958)
-
-<a id="slow-shutter-cam"></a>
-## Slow Shutter Cam
-
-![Slow Shutter Cam](../../logos/357404131-adce0048.png)
-
-Slow Shutter Cam brings new life into your device's photo toolbox by letting you capture a variety of amazing slow shutter speed effects that you only thought you could get with a DSLR. Continue reading to learn more about this unique app!
-
------------------------
-
-• Featured numerous times by Apple:
-
-- App Store Essentials: Camera & Photography
-- Photography for Professionals - Total Control
-- Extraordinary Photo Apps
-- Best New App
-
------------------------
-
-"It’s one of those rare photography apps that creates effects that few others are capable of, and it does it easily and with better results."
-— Marty Yawnick, Life In LoFi
-
------------------------
-
-How many times have you tried to capture artful images with your iPhone camera but were left wishing you had more features to work with? Slow Shutter Cam puts an end to mere snapshots and gives you some of the most powerful features of a DSLR camera. All this, in a package that fits in your pocket.
- 
-Slow Shutter Cam offers three capture modes to capture unique images:
- 
-MOTION BLUR: Equivalent to the shutter priority mode on a DSLR, the Motion Blur mode is perfect for creating ghost images, waterfall effects or suggesting movement in your photographs by adding a blur.
-
-LIGHT TRAIL: The Light Trail mode allows you to 'paint' with light, show car light trails and fireworks or capture any other moving light in a unique way. Unlike shooting with a DSLR and being tied to specific rigid settings to obtain good results, the Light Trail mode takes care of the essentials, letting your creativity soar!
-
-LOW LIGHT: In low light conditions, this capture mode allows the camera to accumulate every photon of light hitting the sensor. The longer the shutter speed, the more light it will accumulate. You can even fine-tune the result using the exposure compensation slider to achieve the exact effect you want!
-
-Highlights:
-
-•  Unlimited Shutter Speed and manual ISO
-•  Option to resume capture  and create multiple exposure photos
-•  Real time live preview - See the result in real time
-•  Innovative 'Freeze'  and ‘Blur Strength’ controls
-•  Tap to adjust focus/exposure
-•  Time-lapse Intervalometer
-•  Apple Watch support and handy Self-Timer 
-•  Full resolution support on every devices
-•  Camera Control support (iPhone 16)
-
-With Slow Shutter Cam on your iPhone you get the features of a DSLR camera with the convenience of a device that you can drop in your pocket and take with you wherever you go. Download it now and put an end to mere snapshots!
-
-Search #slowshuttercam on Instagram or visit the "Slow Shutter Cam - iPhone" group on flickr for amazing samples!
-
-[View on Apple](https://apps.apple.com/fr/app/slow-shutter-cam/id357404131)

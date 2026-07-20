@@ -2,102 +2,102 @@
 - [So, I Met This Guy . . .](#so-i-met-this-guy)
 - [1Q84](#1q84)
 - [The Family Friend](#the-family-friend)
+- [The Ministry of the Word and God's Dispensing for God's Economy](#the-ministry-of-the-word-and-god-s-dispensing-for-god-s-economy)
+- [Flesh](#flesh)
 - [Total Control](#total-control)
 - [The Lost Women](#the-lost-women)
 - [Her Perfect Escape](#her-perfect-escape)
-- [Flesh](#flesh)
-- [People Pleaser](#people-pleaser)
-- [The Score](#the-score)
-- [The Deal](#the-deal)
-- [Watermelon](#watermelon)
-- [Don't Fall in Love With Me](#don-t-fall-in-love-with-me)
 - [Summer Island](#summer-island)
+- [The Score](#the-score)
+- [Don't Fall in Love With Me](#don-t-fall-in-love-with-me)
+- [People Pleaser](#people-pleaser)
+- [The Deal](#the-deal)
+- [Maybe Someday](#maybe-someday)
+- [Watermelon](#watermelon)
+- [Tom Clancy Executive Power](#tom-clancy-executive-power)
+- [The Long Call](#the-long-call)
 - [Stars and Swipes](#stars-and-swipes)
 - [The Mistake](#the-mistake)
 - [Odyssey](#odyssey)
-- [Tom Clancy Executive Power](#tom-clancy-executive-power)
-- [The Long Call](#the-long-call)
-- [Maybe Someday](#maybe-someday)
 - [The Frozen People](#the-frozen-people)
-- [Never To Be Found](#never-to-be-found)
 - [It Could Have Been Her](#it-could-have-been-her)
-- [The Eights](#the-eights)
-- [The Lucky Winners](#the-lucky-winners)
-- [We Solve Murders](#we-solve-murders)
 - [Brave New Summer](#brave-new-summer)
 - [The Tailor](#the-tailor)
-- [The Goal](#the-goal)
-- [One Golden Summer](#one-golden-summer)
-- [Fourth Wing](#fourth-wing)
-- [What We Can Know](#what-we-can-know)
-- [Gabriel's Moon](#gabriel-s-moon)
-- [The House of Wolf](#the-house-of-wolf)
-- [The Legacy](#the-legacy)
-- [No Country for Old Men](#no-country-for-old-men)
+- [The Lucky Winners](#the-lucky-winners)
+- [Never To Be Found](#never-to-be-found)
+- [We Solve Murders](#we-solve-murders)
 - [The Secret of Secrets](#the-secret-of-secrets)
-- [One of Us](#one-of-us)
-- [I Will Find You](#i-will-find-you)
+- [The Eights](#the-eights)
+- [The Goal](#the-goal)
+- [Fourth Wing](#fourth-wing)
+- [Gabriel's Moon](#gabriel-s-moon)
+- [Sisters in Yellow](#sisters-in-yellow)
+- [Revenge of the Tipping Point](#revenge-of-the-tipping-point)
 - [Yesteryear](#yesteryear)
 - [The Odyssey](#the-odyssey)
+- [Lost Until Love](#lost-until-love)
+- [The Spy and the Traitor](#the-spy-and-the-traitor)
+- [One Golden Summer](#one-golden-summer)
+- [What We Can Know](#what-we-can-know)
+- [The House of Wolf](#the-house-of-wolf)
+- [Keeping 13](#keeping-13)
+- [Iron Flame](#iron-flame)
+- [The Legacy](#the-legacy)
+- [No Country for Old Men](#no-country-for-old-men)
+- [They Thought I Was Dead: Sandy's Story](#they-thought-i-was-dead-sandy-s-story)
+- [One of Us](#one-of-us)
+- [The Correspondent](#the-correspondent)
+- [I Will Find You](#i-will-find-you)
+- [Just Friends](#just-friends)
+- [The Only One Left](#the-only-one-left)
 - [The Impossible Fortune](#the-impossible-fortune)
+- [The Kill Switch](#the-kill-switch)
 - [Old Girls Go Off the Rails](#old-girls-go-off-the-rails)
 - [The Midnight Train](#the-midnight-train)
+- [The Summer Book](#the-summer-book)
 - [Bride](#bride)
 - [Flawless](#flawless)
 - [The Daisy Chain Flower Shop](#the-daisy-chain-flower-shop)
+- [Love Redesigned](#love-redesigned)
 - [The Hallmarked Man](#the-hallmarked-man)
 - [The Heist](#the-heist)
-- [Keeping 13](#keeping-13)
 - [Blindsighted](#blindsighted)
-- [Sisters in Yellow](#sisters-in-yellow)
-- [They Thought I Was Dead: Sandy's Story](#they-thought-i-was-dead-sandy-s-story)
-- [Revenge of the Tipping Point](#revenge-of-the-tipping-point)
+- [London Falling](#london-falling)
+- [Don't Let Him In](#don-t-let-him-in)
 - [Our Perfect Storm](#our-perfect-storm)
-- [Just Friends](#just-friends)
+- [The Chimp Paradox](#the-chimp-paradox)
+- [All He'll Ever Be](#all-he-ll-ever-be)
+- [The Black Loch](#the-black-loch)
+- [The Long Shoe](#the-long-shoe)
+- [What If Reform Wins](#what-if-reform-wins)
+- [Embrace](#embrace)
 - [Dolly All the Time](#dolly-all-the-time)
 - [Atomic Habits](#atomic-habits)
-- [Lost Until Love](#lost-until-love)
-- [The Only One Left](#the-only-one-left)
+- [The Devils](#the-devils)
+- [The Politician](#the-politician)
+- [The Nothing Man](#the-nothing-man)
 - [A Court of Wings and Ruin](#a-court-of-wings-and-ruin)
-- [The Spy and the Traitor](#the-spy-and-the-traitor)
 - [The Villa of Secrets](#the-villa-of-secrets)
+- [Falling in Love at Pennycress Inn](#falling-in-love-at-pennycress-inn)
+- [The Names](#the-names)
 - [Love Song](#love-song)
 - [Having Spent Life Seeking](#having-spent-life-seeking)
 - [Verity](#verity)
+- [Ransom](#ransom)
 - [Men in Love](#men-in-love)
+- [Onyx Storm](#onyx-storm)
 - [My Name Is Lucy Barton](#my-name-is-lucy-barton)
 - [Lost Lambs](#lost-lambs)
-- [Love Redesigned](#love-redesigned)
+- [Fury Bound](#fury-bound)
+- [The Nightingale](#the-nightingale)
+- [Rewind It Back](#rewind-it-back)
+- [Broken House](#broken-house)
 - [For Richer For Poorer](#for-richer-for-poorer)
-- [Iron Flame](#iron-flame)
 - [Welcome to Pennycress Inn](#welcome-to-pennycress-inn)
 - [Famous Last Words](#famous-last-words)
-- [The Ministry of the Word and God's Dispensing for God's Economy](#the-ministry-of-the-word-and-god-s-dispensing-for-god-s-economy)
+- [Mythos](#mythos)
 - [The Odyssey](#the-odyssey)
-- [The Correspondent](#the-correspondent)
 - [The Miss Silver Mysteries Volume One](#the-miss-silver-mysteries-volume-one)
-- [London Falling](#london-falling)
-- [Don't Let Him In](#don-t-let-him-in)
-- [The Chimp Paradox](#the-chimp-paradox)
-- [The Black Loch](#the-black-loch)
-- [Transcription](#transcription)
-- [Careless People](#careless-people)
-- [No Friend to This House](#no-friend-to-this-house)
-- [Project Hail Mary](#project-hail-mary)
-- [The Tiny Magic Bookshop](#the-tiny-magic-bookshop)
-- [Audition](#audition)
-- [Heartstopper Volume 6](#heartstopper-volume-6)
-- [What If Reform Wins](#what-if-reform-wins)
-- [The Devils](#the-devils)
-- [A Summer Wedding at Pennycress Inn](#a-summer-wedding-at-pennycress-inn)
-- [The Politician](#the-politician)
-- [Tower of Dawn](#tower-of-dawn)
-- [Book Lovers](#book-lovers)
-- [A Game of Thrones](#a-game-of-thrones)
-- [The Kill Switch](#the-kill-switch)
-- [Summer in the City](#summer-in-the-city)
-- [Exit Strategy](#exit-strategy)
-- [Falling in Love at Pennycress Inn](#falling-in-love-at-pennycress-inn)
 
 <a id="the-satsuma-complex"></a>
 ## The Satsuma Complex
@@ -134,6 +134,24 @@
 <b>THE NAIL-BITING NEW THRILLER FROM THE NUMBER ONE SUNDAY TIMES BESTSELLER<br /><br />'A chilling story of legacy, memory and buried evil. I was absorbed from the first to last page.' ELLY GRIFFITHS</b><br />  <b><br /> 'Claire Douglas is a class act - she never, ever disappoints' LISA JEWELL  <br /><br /></b><br />When Imogen inherits a country house near Bath, she thinks it’s a mistake. She last saw its owner, reclusive artist Dorothea Roe, sixteen years ago, during a tragic summer which she’s never forgotten.<br /><br />But a chance discovery in the study leads Imogen to believe Dorothea left her a secret message. And when rumours begin to swirl that Dorothea was murdered, she suspects that the house might not be the life-changing gift she thought.<br /><br />Who would want to kill Dorothea?<br /><br />Could it be tangled up in Imogen’s own dark family history?<br /><br />And what if Imogen is now the one in danger?
 
 [View on Apple](https://books.apple.com/gb/book/the-family-friend/id6747465236)
+
+<a id="the-ministry-of-the-word-and-god-s-dispensing-for-god-s-economy"></a>
+## The Ministry of the Word and God's Dispensing for God's Economy
+
+![The Ministry of the Word and God's Dispensing for God's Economy](../../logos/6790176326-39e07788.png)
+
+This book is intended as an aid to believers in developing a daily time of morning revival with the Lord in His word. At the same time, it provides a limited review of the International Training for Elders and Responsible Ones held in Anaheim, California, on March 20-22, 2026. The general subject of the training was “The Ministry of the Word and God’s Dispensing for God’s Economy.” Through intimate contact with the Lord in His word, the believers can be constituted with life and truth and thereby equipped to prophesy in the meetings of the church unto the building up of the Body of Christ.
+
+[View on Apple](https://books.apple.com/gb/book/the-ministry-of-the-word-and-gods/id6790176326)
+
+<a id="flesh"></a>
+## Flesh
+
+![Flesh](../../logos/6504962250-b8388285.png)
+
+<b>**WINNER OF THE BOOKER PRIZE 2025**</b><br /><br /><b>‘Brilliant and wise on chance, love, sex, money’</b> David Nicholls<br /><b>‘</b><b>I was tearing through [<i>Flesh</i>], I never once slowed down</b><b>’</b> Jennette McCurdy<br /><b>‘</b><b>Brilliance on every page</b><b>’</b> Samantha Harvey<br /><b>‘</b><b>So much searing insight into the way we live now</b><b>’</b> <i>Observer</i><br /><br /><b>Through chance, luck and choice, one man’s life takes him from a modest apartment in Hungary to the elite society of London – in this captivating new novel about the forces that make and break our lives</b><br /><br />Fifteen-year-old István lives with his mother in a quiet apartment complex in Hungary. New to the town and shy, he becomes isolated, with his neighbour – a married woman – as his only companion. When a clandestine relationship begins between them, his life spirals out of control.<br /><br />As the years pass, István moves from the army to the circles of London’s elite. His competing impulses for love, intimacy, status and wealth win him unimaginable riches, until they threaten to undo him completely.<br /><br /><b>‘An astonishingly moving portrait of a man’s life’ </b>Booker Prize Judges, 2025<br /><br /><b>‘A revelatory novel’ </b><i>Sunday Times</i><br /><br /><b>‘Pure brilliance from the first to the (devastating) last sentence’ </b>India Knight<br /><br /><b>‘Refreshing, illuminating and true’ </b><i>Financial Times</i><br /><br /><b>‘One of the most astonishing books I’ve ever read’ </b>Dua Lipa<br /><br /><b>‘Hugely entertaining, gripping like a thriller’ </b><i>The Times</i><br /><br /><b>‘Visceral and compelling’ </b>Gary Stevenson<br /><br /><b>‘Exciting, propulsive, emotional’ </b>Sarah Jessica Parker<br /><br /><b>*A BOOK OF THE YEAR for the <i>Guardian</i>, <i>Observer</i>, <i>Financial Times</i>, <i>Sunday Times</i>, <i>Independent</i>, <i>GQ</i> and <i>Daily Telegraph</i>*</b>
+
+[View on Apple](https://books.apple.com/gb/book/flesh/id6504962250)
 
 <a id="total-control"></a>
 ## Total Control
@@ -186,23 +204,14 @@ But if the villa holds the secrets to what happened, it also hides a killer...<b
 
 [View on Apple](https://books.apple.com/gb/book/her-perfect-escape/id6753729196)
 
-<a id="flesh"></a>
-## Flesh
+<a id="summer-island"></a>
+## Summer Island
 
-![Flesh](../../logos/6504962250-b8388285.png)
+![Summer Island](../../logos/6744018869-4b3010fd.png)
 
-<b>**WINNER OF THE BOOKER PRIZE 2025**</b><br /><br /><b>‘Brilliant and wise on chance, love, sex, money’</b> David Nicholls<br /><b>‘</b><b>I was tearing through [<i>Flesh</i>], I never once slowed down</b><b>’</b> Jennette McCurdy<br /><b>‘</b><b>Brilliance on every page</b><b>’</b> Samantha Harvey<br /><b>‘</b><b>So much searing insight into the way we live now</b><b>’</b> <i>Observer</i><br /><br /><b>Through chance, luck and choice, one man’s life takes him from a modest apartment in Hungary to the elite society of London – in this captivating new novel about the forces that make and break our lives</b><br /><br />Fifteen-year-old István lives with his mother in a quiet apartment complex in Hungary. New to the town and shy, he becomes isolated, with his neighbour – a married woman – as his only companion. When a clandestine relationship begins between them, his life spirals out of control.<br /><br />As the years pass, István moves from the army to the circles of London’s elite. His competing impulses for love, intimacy, status and wealth win him unimaginable riches, until they threaten to undo him completely.<br /><br /><b>‘An astonishingly moving portrait of a man’s life’ </b>Booker Prize Judges, 2025<br /><br /><b>‘A revelatory novel’ </b><i>Sunday Times</i><br /><br /><b>‘Pure brilliance from the first to the (devastating) last sentence’ </b>India Knight<br /><br /><b>‘Refreshing, illuminating and true’ </b><i>Financial Times</i><br /><br /><b>‘One of the most astonishing books I’ve ever read’ </b>Dua Lipa<br /><br /><b>‘Hugely entertaining, gripping like a thriller’ </b><i>The Times</i><br /><br /><b>‘Visceral and compelling’ </b>Gary Stevenson<br /><br /><b>‘Exciting, propulsive, emotional’ </b>Sarah Jessica Parker<br /><br /><b>*A BOOK OF THE YEAR for the <i>Guardian</i>, <i>Observer</i>, <i>Financial Times</i>, <i>Sunday Times</i>, <i>Independent</i>, <i>GQ</i> and <i>Daily Telegraph</i>*</b>
+<b>‘One of the greatest storytellers of our time’ - Delia Owens, bestselling author of <i>Where the Crawdads Sing</i></b><br /><br /><b>From the multimillion-copy bestselling author of <i>The Women </i>and <i>The Nightingale</i>, <i>Summer Island </i>is a poignant, warm and tender novel about a mother and daughter: the complex ties that bind them, the past that separates them, and the healing that comes with forgiveness.</b><br /><br />Years ago, Nora Bridge walked out on her marriage and left her daughters behind. She has since become a famous radio talk-show host and newspaper columnist beloved for her moral advice, while her youngest daughter, Ruby, is a struggling comedian who uses her famous mother as fuel for her bitter, cynical humour.<br /><br />When the tabloids unearth a scandalous secret from Nora’s past, their estrangement suddenly becomes dramatic. After Nora is injured in an accident, a glossy magazine offers Ruby a fortune to write a tell-all about her mother and Ruby returns home under the pretext of taking care of the woman she hasn’t spoken to for almost a decade.<br /><br />Nora insists they retreat to Summer Island, to the lovely old house on the water where Ruby grew up; a place filled with childhood memories of love and joy and belonging. There, Ruby is also reunited with her first love and his brother. Once, the three of them had been best friends; inseparable. Until the summer that Nora left, and everyone’s hearts were broken . . .<br /><br /><b>Praise for Kristin Hannah:</b><br /><br />‘Utterly absorbing . . . A triumph’ – <b>Taylor Jenkins Reid</b>, bestselling author of <i>Daisy Jones &amp; The Six</i><br /><br />‘Stuns with sacrifice. Uplifts with heroism’ – <b>Bonnie Garmus</b>, bestselling author of <i>Lessons in Chemistry</i><br /><br />‘Moving and unforgettable’ – <b>Christy Lefteri</b>, bestselling author of <i>The Beekeeper of Aleppo</i><br /><br />‘A classic storyteller’ – <b>Matt Haig</b>, bestselling author of <i>The Midnight Library</i>
 
-[View on Apple](https://books.apple.com/gb/book/flesh/id6504962250)
-
-<a id="people-pleaser"></a>
-## People Pleaser
-
-![People Pleaser](../../logos/6748105398-860bc624.png)
-
-FROM THE No.1 SUNDAY TIMES BESTSELLING AUTHOR<br /><br /><b>The fiercely funny and relatable new novel about people-pleasing, burnout and finding your voice - the perfect uplifting holiday read for fans of Sophie Kinsella and Alexandra Potter.</b><br /><br />‘<b>Insightful, inspirational and SO much fun</b>’ Marian Keyes<br /><br />‘<i>People Pleaser</i> is <b>like therapy in rom-com form’</b> Beth O’Leary<br /><br />‘Completely <b>addictive</b>. A hard yes from me – I flew through it’ Vogue Williams<br /><br /><b>Meet Olivia Greenwood. Unfiltered. Unashamed. Unapologetic. Or at least, she’s about to be . . .</b><br /><br />Olivia has been trying <i>very</i> hard to please people for a <i>very</i> long time.<br /><br />Whilst her husband’s doing burpees, she’s doing everything else. She smiles through yet another ‘opportunity’ that isn’t a promotion. And she says yes to her mother, when what she really means is no.<br /><br />But today, everything is going to change . . .<br /><br />After soul-crushing career disappointment, a fiery young woman with a chip on her shoulder, and a single blue hallucinogenic gummy lead to a raucous night, Olivia wakes up the next morning, fresh out of f**ks to give and unable to please anyone but HERSELF.<br /><br />So who actually <i>is</i> Olivia Greenwood when she’s not trying to be what everyone else wants her to be?<br /><br /><b>Warm, witty and empowering, this is the story of one woman’s journey to stop people-pleasing and start living for herself.</b><br /><br />Praise for <i>People Pleaser:</i><br /><br />‘Oozing <b>warmth, raw honesty and awkward relatable truths</b> . . . just wonderful’ Adele Parks, bestselling author of <i>Our Beautiful Mess</i><br /><br /><b>‘Riotously funny</b> and sharply observed . . <b>. a must read!</b>’ Jennie Godfrey, bestselling author of <i>The List of Suspicious Things</i><br /><br />‘<b>Hilariously relatable</b>’ ⭐ ⭐ ⭐ ⭐ ⭐<br /><br />‘<b>Witty, warm and great</b> writing. Highly recommended’ ⭐ ⭐ ⭐ ⭐ ⭐<br /><br />‘Made me <b>laugh out loud</b>’ ⭐ ⭐ ⭐ ⭐ ⭐<br /><br />‘<b>I genuinely struggled to put it down</b>’ ⭐ ⭐ ⭐ ⭐ ⭐
-
-[View on Apple](https://books.apple.com/gb/book/people-pleaser/id6748105398)
+[View on Apple](https://books.apple.com/gb/book/summer-island/id6744018869)
 
 <a id="the-score"></a>
 ## The Score
@@ -213,6 +222,24 @@ FROM THE No.1 SUNDAY TIMES BESTSELLING AUTHOR<br /><br /><b>The fiercely funny a
 
 [View on Apple](https://books.apple.com/gb/book/the-score/id6466580963)
 
+<a id="don-t-fall-in-love-with-me"></a>
+## Don't Fall in Love With Me
+
+![Don't Fall in Love With Me](../../logos/6743825063-9c2a4cb7.png)
+
+<b>Your next escapist summer read. A scorching new romance from the <i>Sunday Times</i> bestselling author of <i>Seven Summers </i>and <i>Only Love Can Hurt Like This</i>, perfect for fans of Colleen Hoover and JoJo Moyes</b><br /><br />‘The queen of emotional love stories’ <b>Beth O’Leary</b><br />‘Poignant, powerful, passionate’ <b>Milly Johnson</b><br />‘One of my must-buy authors’ <b>Abby Jimenez</b><br /><br />***********************************<br /><br /><b>What if the person you love the most is the one you can’t have?</b><br /><br />Grace has loved Jackson since she was fifteen – when they spent every childhood summer exploring France's breathtaking Ardèche region together. They were best friends, until life took its course and Jackson married someone else.<br /><br />Years later, Jackson re-enters Grace’s life with an irresistible offer: her dream job in the very town where their story began. And he’s newly single.<br /><br />As memories from those idyllic summers flood back, Grace encounters an old friend Étienne, who proposes a plan to help make Jackson jealous. But as their scheme unfolds, Grace finds herself questioning if the sparks between them might not be so pretend after all…<br /><br />Unbeknownst to Grace, Étienne is harbouring a secret that could shatter her world.<br /><br /><b>Will learning the truth finally set her heart free?<br />Or is this the beginning of a love story bigger than she ever imagined?</b><br /><br />*******************************************************<br /><br /><i><b>PRAISE FOR </b></i><b>DON'T FALL IN LOVE WITH ME . . . </b><br /><br />‘Another heartfelt, beautiful romance from <b>the queen of emotional love stories</b>.’ <b>Beth O’Leary</b><br /><br />‘<b>So beautiful. A heartwarming love story</b> in the most romantic of settings. Off to get me a kayak’ <b>Giovanna Fletcher</b><br /><br />‘A sweeping love story. . . Paige Toon has complete control of my heart.’ <b>Annabel Monaghan</b><br /><br />‘Poignant, Powerful, Passionate. I think this is <b>my favourite one of hers yet</b>. This book is HOT.’ <b>Milly Johnson</b><br /><br />‘<b>Emotional and seductive, this is sun-drenched perfection</b>. I loved every word!’ <b>Heidi Swain</b><br /><br />‘<b>A gorgeous, heartfelt spin on friends-to-lovers</b> and coming of age romance. You will love Paige Toon!’ <b>Kristan Higgins</b><br /><br />‘A <b>lush, addictive love story with sizzling chemistry and a twist I didn’t see coming</b> – prepare for heart-melting heat!’ <b>Jill Shalvis</b><br /><br />'Paige<b> had my heart yearning</b> for the stunning setting and for love to conquer all. <b>A triumph!</b>' <b>Zoe Folbigg</b><br /><br />‘No-one writes a love story quite like Paige Toon.’ <b><i>Heat</i>, Book of the Month</b><br /><br />‘A <b>gorgeous, perfect holiday read</b>.’ <i><b>Closer</b></i><br /><br />‘Paige Toon delivers <b>a heart-warming tale</b> of love, friendship, passion and family<b>.’ </b><i><b>Woman's Weekly</b></i><br /><br />‘A <b>page-turnin</b>g romance.’ <i><b>Woman</b></i><br /><br />‘A <b>gorgeous,</b> multi-layered love story.' <i><b>The Sun</b></i>
+
+[View on Apple](https://books.apple.com/gb/book/dont-fall-in-love-with-me/id6743825063)
+
+<a id="people-pleaser"></a>
+## People Pleaser
+
+![People Pleaser](../../logos/6748105398-860bc624.png)
+
+FROM THE No.1 SUNDAY TIMES BESTSELLING AUTHOR<br /><br /><b>The fiercely funny and relatable new novel about people-pleasing, burnout and finding your voice - the perfect uplifting holiday read for fans of Sophie Kinsella and Alexandra Potter.</b><br /><br />‘<b>Insightful, inspirational and SO much fun</b>’ Marian Keyes<br /><br />‘<i>People Pleaser</i> is <b>like therapy in rom-com form’</b> Beth O’Leary<br /><br />‘Completely <b>addictive</b>. A hard yes from me – I flew through it’ Vogue Williams<br /><br /><b>Meet Olivia Greenwood. Unfiltered. Unashamed. Unapologetic. Or at least, she’s about to be . . .</b><br /><br />Olivia has been trying <i>very</i> hard to please people for a <i>very</i> long time.<br /><br />Whilst her husband’s doing burpees, she’s doing everything else. She smiles through yet another ‘opportunity’ that isn’t a promotion. And she says yes to her mother, when what she really means is no.<br /><br />But today, everything is going to change . . .<br /><br />After soul-crushing career disappointment, a fiery young woman with a chip on her shoulder, and a single blue hallucinogenic gummy lead to a raucous night, Olivia wakes up the next morning, fresh out of f**ks to give and unable to please anyone but HERSELF.<br /><br />So who actually <i>is</i> Olivia Greenwood when she’s not trying to be what everyone else wants her to be?<br /><br /><b>Warm, witty and empowering, this is the story of one woman’s journey to stop people-pleasing and start living for herself.</b><br /><br />Praise for <i>People Pleaser:</i><br /><br />‘Oozing <b>warmth, raw honesty and awkward relatable truths</b> . . . just wonderful’ Adele Parks, bestselling author of <i>Our Beautiful Mess</i><br /><br /><b>‘Riotously funny</b> and sharply observed . . <b>. a must read!</b>’ Jennie Godfrey, bestselling author of <i>The List of Suspicious Things</i><br /><br />‘<b>Hilariously relatable</b>’ ⭐ ⭐ ⭐ ⭐ ⭐<br /><br />‘<b>Witty, warm and great</b> writing. Highly recommended’ ⭐ ⭐ ⭐ ⭐ ⭐<br /><br />‘Made me <b>laugh out loud</b>’ ⭐ ⭐ ⭐ ⭐ ⭐<br /><br />‘<b>I genuinely struggled to put it down</b>’ ⭐ ⭐ ⭐ ⭐ ⭐
+
+[View on Apple](https://books.apple.com/gb/book/people-pleaser/id6748105398)
+
 <a id="the-deal"></a>
 ## The Deal
 
@@ -221,6 +248,15 @@ FROM THE No.1 SUNDAY TIMES BESTSELLING AUTHOR<br /><br /><b>The fiercely funny a
 Original Series now on Prime Video<br /><br /><b>Welcome to Briar U!</b><br /><br /><b><br />Get ready for your newest obsession . . . Discover the addictive world of the Off-Campus series from The Queen of Hockey Romance, Elle Kennedy!<br /></b><br /><b>Read <i>The Deal</i> now for the perfect fake-dating romance! </b><br /><b>Also available as a Deluxe HB and a TV Tie-in edition</b><br /><br /><b>She's about to make a deal with the college bad boy . . .</b><br /><br />Hannah Wells has finally found someone who turns her on. But while she might be confident in every other area of her life, she's carting around a full set of baggage when it comes to sex and seduction. If she wants to get her crush's attention, she'll have to step out of her comfort zone and <i>make</i> him take notice . . . even if it means tutoring the annoying, childish, <i>cocky</i> captain of the hockey team in exchange for a pretend date<br /><br /><b>. . . and it's going to be oh so good</b><br /><br />All Garrett Graham has ever wanted is to play professional hockey after graduation, but his plummeting GPA is threatening everything he's worked so hard for. If helping a sarcastic brunette make another guy jealous will help him secure his position on the team, he's all for it. But when one unexpected kiss leads to the wildest sex of both their lives, it doesn't take long for Garrett to realize that pretend isn't going to cut it.<br /><br />Now he just has to convince Hannah that the man she wants looks a lot like <i>him</i>.<br /><br />***<br /><br /><b>Why fans love Elle Kennedy </b><b>⭐ ⭐ ⭐ ⭐ ⭐!</b><br /><br />'Delicious, complicated and drama-filled . . . I read it in one sitting, and you will, too'<b> L. J. Shen, <i>USA Today</i> bestselling author</b><br /><br />'A deliciously sexy story with a wallop of emotions that sneaks up on you' <b>Vi Keeland, <i>New York Times</i> bestselling author</b><br /><br />'This book had the ability to make me swoon one minute, put my heart in my throat the next, then literally make me burst right out laughing out of the blue' <b>Goodreads Review</b><br /><br />'The best college romance I've read. It had epic banter, sexy romance, and fantastic writing!! I laughed, I swooned, I couldn't put it down. Highly recommended!!'<b>Goodreads Review</b><br /><br />'Elle Kennedy proves, once again, that she is the Queen of College Hockey Romance!!'<b> Goodreads Review</b><br /><br />'5-Made My Heart Pitter Patter-Stars' <b>Goodreads Review</b><br /><br />'One of the few authors who can instantly put a grin on my face as soon as I start reading her books' <b>Goodreads Review</b>
 
 [View on Apple](https://books.apple.com/gb/book/the-deal/id6466581098)
+
+<a id="maybe-someday"></a>
+## Maybe Someday
+
+![Maybe Someday](../../logos/769413406-888c3a89.png)
+
+<b>From the #1&#xa0;<i>Sunday Times</i>&#xa0;bestselling author of&#xa0;<i>It Ends With Us&#xa0;</i>comes a passionate tale of friendship, betrayal, and romance.</b><br /><br /> At twenty-two years old, Sydney is enjoying a great life: She’s in college, working a steady job, in love with her wonderful boyfriend, Hunter, and rooming with her best friend, Tori. But everything changes when she discovers that Hunter is cheating on her—and she’s forced to decide what her next move should be.<br /><br /> Soon, Sydney finds herself captivated by her mysterious and attractive neighbour, Ridge. She can't take her eyes off him or stop listening to the passionate way he plays his guitar every evening out on his balcony. And there’s something about Sydney that Ridge can’t ignore, either. They soon find themselves needing each other in more ways than one.<br /> &#xa0;
+
+[View on Apple](https://books.apple.com/gb/book/maybe-someday/id769413406)
 
 <a id="watermelon"></a>
 ## Watermelon
@@ -231,23 +267,23 @@ Original Series now on Prime Video<br /><br /><b>Welcome to Briar U!</b><br /><b
 
 [View on Apple](https://books.apple.com/gb/book/watermelon/id1250897659)
 
-<a id="don-t-fall-in-love-with-me"></a>
-## Don't Fall in Love With Me
+<a id="tom-clancy-executive-power"></a>
+## Tom Clancy Executive Power
 
-![Don't Fall in Love With Me](../../logos/6743825063-9c2a4cb7.png)
+![Tom Clancy Executive Power](../../logos/6743124183-e42946f7.png)
 
-<b>Your next escapist summer read. A scorching new romance from the <i>Sunday Times</i> bestselling author of <i>Seven Summers </i>and <i>Only Love Can Hurt Like This</i>, perfect for fans of Colleen Hoover and JoJo Moyes</b><br /><br />‘The queen of emotional love stories’ <b>Beth O’Leary</b><br />‘Poignant, powerful, passionate’ <b>Milly Johnson</b><br />‘One of my must-buy authors’ <b>Abby Jimenez</b><br /><br />***********************************<br /><br /><b>What if the person you love the most is the one you can’t have?</b><br /><br />Grace has loved Jackson since she was fifteen – when they spent every childhood summer exploring France's breathtaking Ardèche region together. They were best friends, until life took its course and Jackson married someone else.<br /><br />Years later, Jackson re-enters Grace’s life with an irresistible offer: her dream job in the very town where their story began. And he’s newly single.<br /><br />As memories from those idyllic summers flood back, Grace encounters an old friend Étienne, who proposes a plan to help make Jackson jealous. But as their scheme unfolds, Grace finds herself questioning if the sparks between them might not be so pretend after all…<br /><br />Unbeknownst to Grace, Étienne is harbouring a secret that could shatter her world.<br /><br /><b>Will learning the truth finally set her heart free?<br />Or is this the beginning of a love story bigger than she ever imagined?</b><br /><br />*******************************************************<br /><br /><i><b>PRAISE FOR </b></i><b>DON'T FALL IN LOVE WITH ME . . . </b><br /><br />‘Another heartfelt, beautiful romance from <b>the queen of emotional love stories</b>.’ <b>Beth O’Leary</b><br /><br />‘<b>So beautiful. A heartwarming love story</b> in the most romantic of settings. Off to get me a kayak’ <b>Giovanna Fletcher</b><br /><br />‘A sweeping love story. . . Paige Toon has complete control of my heart.’ <b>Annabel Monaghan</b><br /><br />‘Poignant, Powerful, Passionate. I think this is <b>my favourite one of hers yet</b>. This book is HOT.’ <b>Milly Johnson</b><br /><br />‘<b>Emotional and seductive, this is sun-drenched perfection</b>. I loved every word!’ <b>Heidi Swain</b><br /><br />‘<b>A gorgeous, heartfelt spin on friends-to-lovers</b> and coming of age romance. You will love Paige Toon!’ <b>Kristan Higgins</b><br /><br />‘A <b>lush, addictive love story with sizzling chemistry and a twist I didn’t see coming</b> – prepare for heart-melting heat!’ <b>Jill Shalvis</b><br /><br />'Paige<b> had my heart yearning</b> for the stunning setting and for love to conquer all. <b>A triumph!</b>' <b>Zoe Folbigg</b><br /><br />‘No-one writes a love story quite like Paige Toon.’ <b><i>Heat</i>, Book of the Month</b><br /><br />‘A <b>gorgeous, perfect holiday read</b>.’ <i><b>Closer</b></i><br /><br />‘Paige Toon delivers <b>a heart-warming tale</b> of love, friendship, passion and family<b>.’ </b><i><b>Woman's Weekly</b></i><br /><br />‘A <b>page-turnin</b>g romance.’ <i><b>Woman</b></i><br /><br />‘A <b>gorgeous,</b> multi-layered love story.' <i><b>The Sun</b></i>
+<b>Pre-order the pulse-racing new Jack Ryan thriller, TOM CLANCY THE COLDEST WAR, now!</b><br /><br />__________<br /><br /><b>An international incident may fracture the Ryan family in the latest entry in this #1 New York Times bestselling series.</b><br /><br />Luanda, Angola<br /><br />An American intelligence team on a routine mission is wiped out. The sole survivor: Kyle Ryan, youngest son of President Jack Ryan.<br /><br />But the massacre of his colleagues is just the prelude to an even more devastating conflict - a deadly military coup in the central African nation. The next step is a shocking escalation, the seizure of the American Embassy and the taking of numerous hostages including the ambassador and the younger Ryan.<br /><br />As US forces fight insurgents street by street in the African capital city, Lieutenant Katie Ryan leads the effort to untangle the mystery behind the coup and the identity of the plotters. Is it the Chinese government? Is it a corrupt Angolan general? Or is there a darker force pulling the strings?<br /><br />In the White House Situation Room, President Jack Ryan and his National Intelligence Team anxiously await the answers. He may have a full Marine Expeditionary Unit at his command, but the full executive power of the presidency is useless if they can't find the target.<br /><br />One thing's for sure, Kyle and his fellow hostages sit at the center of the bullseye - human shields to deflect an American response. Jack Ryan has faced many challenges as President, but solving this problem is no one-man job. It's going to take all three of them to get through this.<br />__________<br /><br /><b>WHAT READERS SAY ABOUT <i>EXECUTIVE POWER</i></b><br /><br />'Bringing in <b>new Ryan family characters</b> and characteristics. A great read, <b>a cant-put-down book</b>'  ⭐ ⭐ ⭐ ⭐ ⭐<br /><br />'I haven't read a Clancy book in a few years . . . Now, <b>I need to go back and maybe start from the beginning!</b>'  ⭐ ⭐ ⭐ ⭐ ⭐<br /><br />'My first ever Jack Ryan book . . . I thoroughly enjoyed, <b>it kept you gripped all the way through</b>'  ⭐ ⭐ ⭐ ⭐ ⭐<br /><br />'Keeps you <b>on the edge of your seat</b>'  ⭐ ⭐ ⭐ ⭐ ⭐<br /><br />'Love the Jack Ryan series! <b>Exciting storylines </b>that seem to come <b>directly from today's newspaper</b>'  ⭐ ⭐ ⭐ ⭐ ⭐<br /><br />'A lot of <b>detailed information about the Navy and Marines</b>, and a great description of the Ryan Family bond. I truly enjoyed it!'  ⭐ ⭐ ⭐ ⭐ ⭐
 
-[View on Apple](https://books.apple.com/gb/book/dont-fall-in-love-with-me/id6743825063)
+[View on Apple](https://books.apple.com/gb/book/tom-clancy-executive-power/id6743124183)
 
-<a id="summer-island"></a>
-## Summer Island
+<a id="the-long-call"></a>
+## The Long Call
 
-![Summer Island](../../logos/6744018869-4b3010fd.png)
+![The Long Call](../../logos/1453379255-7dd25cb6.png)
 
-<b>‘One of the greatest storytellers of our time’ - Delia Owens, bestselling author of <i>Where the Crawdads Sing</i></b><br /><br /><b>From the multimillion-copy bestselling author of <i>The Women </i>and <i>The Nightingale</i>, <i>Summer Island </i>is a poignant, warm and tender novel about a mother and daughter: the complex ties that bind them, the past that separates them, and the healing that comes with forgiveness.</b><br /><br />Years ago, Nora Bridge walked out on her marriage and left her daughters behind. She has since become a famous radio talk-show host and newspaper columnist beloved for her moral advice, while her youngest daughter, Ruby, is a struggling comedian who uses her famous mother as fuel for her bitter, cynical humour.<br /><br />When the tabloids unearth a scandalous secret from Nora’s past, their estrangement suddenly becomes dramatic. After Nora is injured in an accident, a glossy magazine offers Ruby a fortune to write a tell-all about her mother and Ruby returns home under the pretext of taking care of the woman she hasn’t spoken to for almost a decade.<br /><br />Nora insists they retreat to Summer Island, to the lovely old house on the water where Ruby grew up; a place filled with childhood memories of love and joy and belonging. There, Ruby is also reunited with her first love and his brother. Once, the three of them had been best friends; inseparable. Until the summer that Nora left, and everyone’s hearts were broken . . .<br /><br /><b>Praise for Kristin Hannah:</b><br /><br />‘Utterly absorbing . . . A triumph’ – <b>Taylor Jenkins Reid</b>, bestselling author of <i>Daisy Jones &amp; The Six</i><br /><br />‘Stuns with sacrifice. Uplifts with heroism’ – <b>Bonnie Garmus</b>, bestselling author of <i>Lessons in Chemistry</i><br /><br />‘Moving and unforgettable’ – <b>Christy Lefteri</b>, bestselling author of <i>The Beekeeper of Aleppo</i><br /><br />‘A classic storyteller’ – <b>Matt Haig</b>, bestselling author of <i>The Midnight Library</i>
+<b>Meet Detective Matthew Venn. From Ann Cleeves, the <i>Sunday Times</i> bestselling creator of Vera Stanhope and Shetland's Jimmy Perez, <i>The Long Call</i> is the number one bestselling first novel in the Two Rivers series. Now a major ITV series.<br /><br />'Clever, compassionate and atmospheric, with a great cast of new characters to love' – Elly Griffiths, author of <i>The Frozen People</i></b><br /><br /><b>North Devon.</b> Where the rivers Taw and Torridge converge and run into the sea, Detective Matthew Venn stands outside the church as his father's funeral takes place. The day Matthew turned his back on the strict evangelical community in which he grew up, he lost his family too.<br /><br />Now he's back, not just to mourn his father at a distance, but to take charge of his first major case in the Two Rivers region; a complex place not quite as idyllic as tourists suppose.<br /><br />A body has been found on the beach near to Matthew's new home: a man with the tattoo of an albatross on his neck, stabbed to death.<br /><br />Finding the killer is Venn’s only focus, and his team’s investigation will take him straight back into the community he left behind, and the deadly secrets that lurk there.<br /><br /><b>'Stunning' – David Baldacci, author of <i>The 6:20 Man</i></b><br /><br /><b>'Another fine chapter in the Ann Cleeves story' – <i>The Times</i></b><br /><br /><b>'One of Britain's best crime writers' – <i>Daily Express</i></b><br /><br /><b><i>The Long Call</i> is the first entry in the Two Rivers series. Continue the mysteries with <i>The Heron's Cry</i>.</b>
 
-[View on Apple](https://books.apple.com/gb/book/summer-island/id6744018869)
+[View on Apple](https://books.apple.com/gb/book/the-long-call/id1453379255)
 
 <a id="stars-and-swipes"></a>
 ## Stars and Swipes
@@ -276,33 +312,6 @@ Original Series now on Prime Video<br /><br /><b>Welcome to Briar U!</b><br /><b
 
 [View on Apple](https://books.apple.com/gb/book/odyssey/id1537724946)
 
-<a id="tom-clancy-executive-power"></a>
-## Tom Clancy Executive Power
-
-![Tom Clancy Executive Power](../../logos/6743124183-e42946f7.png)
-
-<b>Pre-order the pulse-racing new Jack Ryan thriller, TOM CLANCY THE COLDEST WAR, now!</b><br /><br />__________<br /><br /><b>An international incident may fracture the Ryan family in the latest entry in this #1 New York Times bestselling series.</b><br /><br />Luanda, Angola<br /><br />An American intelligence team on a routine mission is wiped out. The sole survivor: Kyle Ryan, youngest son of President Jack Ryan.<br /><br />But the massacre of his colleagues is just the prelude to an even more devastating conflict - a deadly military coup in the central African nation. The next step is a shocking escalation, the seizure of the American Embassy and the taking of numerous hostages including the ambassador and the younger Ryan.<br /><br />As US forces fight insurgents street by street in the African capital city, Lieutenant Katie Ryan leads the effort to untangle the mystery behind the coup and the identity of the plotters. Is it the Chinese government? Is it a corrupt Angolan general? Or is there a darker force pulling the strings?<br /><br />In the White House Situation Room, President Jack Ryan and his National Intelligence Team anxiously await the answers. He may have a full Marine Expeditionary Unit at his command, but the full executive power of the presidency is useless if they can't find the target.<br /><br />One thing's for sure, Kyle and his fellow hostages sit at the center of the bullseye - human shields to deflect an American response. Jack Ryan has faced many challenges as President, but solving this problem is no one-man job. It's going to take all three of them to get through this.<br />__________<br /><br /><b>WHAT READERS SAY ABOUT <i>EXECUTIVE POWER</i></b><br /><br />'Bringing in <b>new Ryan family characters</b> and characteristics. A great read, <b>a cant-put-down book</b>'  ⭐ ⭐ ⭐ ⭐ ⭐<br /><br />'I haven't read a Clancy book in a few years . . . Now, <b>I need to go back and maybe start from the beginning!</b>'  ⭐ ⭐ ⭐ ⭐ ⭐<br /><br />'My first ever Jack Ryan book . . . I thoroughly enjoyed, <b>it kept you gripped all the way through</b>'  ⭐ ⭐ ⭐ ⭐ ⭐<br /><br />'Keeps you <b>on the edge of your seat</b>'  ⭐ ⭐ ⭐ ⭐ ⭐<br /><br />'Love the Jack Ryan series! <b>Exciting storylines </b>that seem to come <b>directly from today's newspaper</b>'  ⭐ ⭐ ⭐ ⭐ ⭐<br /><br />'A lot of <b>detailed information about the Navy and Marines</b>, and a great description of the Ryan Family bond. I truly enjoyed it!'  ⭐ ⭐ ⭐ ⭐ ⭐
-
-[View on Apple](https://books.apple.com/gb/book/tom-clancy-executive-power/id6743124183)
-
-<a id="the-long-call"></a>
-## The Long Call
-
-![The Long Call](../../logos/1453379255-7dd25cb6.png)
-
-<b>Meet Detective Matthew Venn. From Ann Cleeves, the <i>Sunday Times</i> bestselling creator of Vera Stanhope and Shetland's Jimmy Perez, <i>The Long Call</i> is the number one bestselling first novel in the Two Rivers series. Now a major ITV series.<br /><br />'Clever, compassionate and atmospheric, with a great cast of new characters to love' – Elly Griffiths, author of <i>The Frozen People</i></b><br /><br /><b>North Devon.</b> Where the rivers Taw and Torridge converge and run into the sea, Detective Matthew Venn stands outside the church as his father's funeral takes place. The day Matthew turned his back on the strict evangelical community in which he grew up, he lost his family too.<br /><br />Now he's back, not just to mourn his father at a distance, but to take charge of his first major case in the Two Rivers region; a complex place not quite as idyllic as tourists suppose.<br /><br />A body has been found on the beach near to Matthew's new home: a man with the tattoo of an albatross on his neck, stabbed to death.<br /><br />Finding the killer is Venn’s only focus, and his team’s investigation will take him straight back into the community he left behind, and the deadly secrets that lurk there.<br /><br /><b>'Stunning' – David Baldacci, author of <i>The 6:20 Man</i></b><br /><br /><b>'Another fine chapter in the Ann Cleeves story' – <i>The Times</i></b><br /><br /><b>'One of Britain's best crime writers' – <i>Daily Express</i></b><br /><br /><b><i>The Long Call</i> is the first entry in the Two Rivers series. Continue the mysteries with <i>The Heron's Cry</i>.</b>
-
-[View on Apple](https://books.apple.com/gb/book/the-long-call/id1453379255)
-
-<a id="maybe-someday"></a>
-## Maybe Someday
-
-![Maybe Someday](../../logos/769413406-888c3a89.png)
-
-<b>From the #1&#xa0;<i>Sunday Times</i>&#xa0;bestselling author of&#xa0;<i>It Ends With Us&#xa0;</i>comes a passionate tale of friendship, betrayal, and romance.</b><br /><br /> At twenty-two years old, Sydney is enjoying a great life: She’s in college, working a steady job, in love with her wonderful boyfriend, Hunter, and rooming with her best friend, Tori. But everything changes when she discovers that Hunter is cheating on her—and she’s forced to decide what her next move should be.<br /><br /> Soon, Sydney finds herself captivated by her mysterious and attractive neighbour, Ridge. She can't take her eyes off him or stop listening to the passionate way he plays his guitar every evening out on his balcony. And there’s something about Sydney that Ridge can’t ignore, either. They soon find themselves needing each other in more ways than one.<br /> &#xa0;
-
-[View on Apple](https://books.apple.com/gb/book/maybe-someday/id769413406)
-
 <a id="the-frozen-people"></a>
 ## The Frozen People
 
@@ -312,15 +321,6 @@ Original Series now on Prime Video<br /><br /><b>Welcome to Briar U!</b><br /><b
 
 [View on Apple](https://books.apple.com/gb/book/the-frozen-people/id6478527022)
 
-<a id="never-to-be-found"></a>
-## Never To Be Found
-
-![Never To Be Found](../../logos/6747759262-2539c383.png)
-
-'Propulsive, break-neck pace and a wonderfully layered, twisty story <b>- ANDREA MARA</b><br />'An utterly compelling thriller' <b>- TM LOGAN</b><br />'A relentlessly gripping page-turner' <b>- CATHERINE RYAN HOWARD</b><br /><b></b><br /><b>THE BRAND NEW 2026 PSYCHOLOGICAL THRILLER FROM THE NO.1 BESTSELLING AUTHOR OF <i>THE CONFESSION.</i></b><br /><b>___________________</b><br /><b></b><br /><b>She helped him disappear.</b><br /><b>She'll wish she hadn't . . .</b><br /><br /><i>In Japan, one hundred thousand people voluntarily disappear every year, aided by those who help them start over. They call them Johatsu - the evaporated.</i><br /><br /><i>I brought the idea to England. No judgement, no questions. Just new identities, packed bags, and discreet escape plans from abusive partners, debt, or simply lives that no longer fit.</i><br /><br /><i>I thought I was doing something good - honourable, even. Until now.</i><br /><br /><i>I know now that not everyone is fleeing hardship. I've helped someone who committed a crime to flee the police. I've disappeared a murderer.</i><br /><br /><i>And unless I find him, I don't know what he'll do next . . .</i><br /><br /><b>More praise for </b><i><b>Never to be Found:</b></i><br /><b><i></i></b><br /><b><i></i></b>'Will grip you from the first page. With a fantastic concept and a fast-paced, twisty plot, this is undoubtedly one of my books of the year. A masterclass in how to write an impeccable crime novel' - <b>JANE CASEY</b><br /><b></b><br />'The best thriller you will read this year. Utterly original, breathtakingly gripping, forensically plotted . . . this is a masterpiece that crowns Jo Spain as one of the best writers of a generation. You will be completely sucked into the world of the evaporated, and confounded by twist after terrifying twist. Unputadownable genius, pure and simple' -<b> SAM BLAKE</b><br /><b></b><br />'Jo Spain's incomparable flair for plotting and a truly intriguing - and original - premise makes this a relentlessly gripping page-turner. Truly, I couldn't put it down' - <b>CATHERINE RYAN HOWARD</b><br /><br />'Non-stop tension, clever twists and turns, and nothing is ever as it seems' -<b> ANDREA MARA</b> (on Jo Spain)
-
-[View on Apple](https://books.apple.com/gb/book/never-to-be-found/id6747759262)
-
 <a id="it-could-have-been-her"></a>
 ## It Could Have Been Her
 
@@ -329,33 +329,6 @@ Original Series now on Prime Video<br /><br /><b>Welcome to Briar U!</b><br /><b
 <b>PREPARE TO BE HOOKED by the brand new thriller from Lisa Jewell, author of the <i>Sunday Times</i> bestselling novels <i>None of This Is True </i>and<i> Don't Let Him In.</i></b><br /><br />'A deliciously twisted gem of a thriller and her best yet' <b>CLAIRE DOUGLAS</b><br />'A true masterpiece' <b>ANDREA MARA</b><br />'Superbly written, entertaining and twisty' <b>LIZ NUGENT</b><br />'Dark, intense, brilliant' <b>SHARI LAPENA</b><br />___________<br /><br /><b>It was the night she almost died.</b><br /><br />Jane Trevally, newly divorced and feeling a little lost, agrees to accompany a man she doesn't know to his house in the darkest corner of Hampstead Heath. She's offered a drink, goes in, and then - a scream and the sound of something falling upstairs - Jane senses she's in a bad place. She runs.<br /><br />Twenty five years later, Jane finds herself outside the same house, this time to return a small white dog who's been found near her home in the country; a dog whose owner has just been reported missing.<br /><br />A fleeting glimpse of a haunted looking woman through the window sends Jane on a mission to uncover the house's secrets - secrets more terrifying than she could have ever imagined, especially when she realises it could have been her. . .<br /><br />___________<br /><br /><b>Praise for <i>It Could Have Been Her </i>and Lisa Jewell:</b><br /><br />'<b>Deliciously dark, devilishly addictive</b> and<b> beautifully written'</b> ALICE FEENEY<br /><br />'A <b>master of suspense</b>' RILEY SAGER<br /><br />'Lisa Jewell is <b>a STONE COLD GENIUS</b>!' MARIAN KEYES<br /><br />‘Lisa Jewell is on <b>top-form</b>' RUTH WARE<br /><br />'A <b>master of her craft</b>’ MICHELLE McDONAGH<br /><br />'[Lisa Jewell] is a g<b>enius</b>' SABINE DURRANT<br /><br />'<b>I'd literally read the phone book if Lisa Jewell wrote it</b>' ANDREA MARA<br /><br />'<b>Nobody does it better </b>than Lisa Jewell’ A J FINN<br /><br />‘Lisa Jewell, the <b>Queen of sick psychopaths</b>’ TAMMY COHEN<br /><br />'Lisa Jewell books are <b>a must-read</b> for me' JOJO MOYES<br /><br />'<b>Lisa is a rare gem of a writer' </b>GILLIAN McALLISTER<br /><br /><b>Readers love<i> It Could Have Been Her</i>: </b><br /><br />'It’s <b>by far Jewell’s creepiest and most unsettling book</b>' 5-star reader review<br /><br />'Lisa Jewell’s name has become<b> a byword for guaranteed twisty page-turners' </b>Sam Baker<br /><br />'An absolute <b>masterpiece</b>' 5-star reader review<br /><br />'Such a <b>dark and delicious</b> mystery!' 5-star reader review<br /><br />'An <b>absolute page-turner' </b>India Knight<br /><br />'<b>Shook me to my core</b>' 5-star reader review<br /><br />'I <b>devoured </b>this <b>addictive page turner</b>!' 5-star reader review
 
 [View on Apple](https://books.apple.com/gb/book/it-could-have-been-her/id6753563751)
-
-<a id="the-eights"></a>
-## The Eights
-
-![The Eights](../../logos/6572286909-ddbf388d.png)
-
-They knew they were changing history. They didn't know they would change each other.<br /><br />Oxford, 1920. For the first time in its 1,000-year history, the world’s most famous university has admitted female students. Giddy with dreams of equality, education and emancipation, four young women move into neighbouring rooms on Corridor Eight and find themselves thrust into an unlikely, life-affirming friendship. They have come here from all walks of life, but Dora, Beatrice, Otto and Marianne all long to move on from the Great War, whose ghosts, grief, and secrets still feel very real indeed.<br /><br />But Oxford is a place caught between tradition and change, where centuries of misogyny and exclusion clash with the promise of new freedoms. And as the group navigate this tumultuous moment in time under the city’s dreaming spires, their friendship will become more important than ever.<br /><br />‘A beautifully wrought story of women’s rights, freedom, love and experience. I couldn’t put it down’ Harriet Evans, author of <i>The Treasures</i><br /><br />‘I became completely involved in the lives of the four pioneering heroines whose friendship is the beating heart of the book’ Clare Chambers, author of <i>Small Pleasures</i>
-
-[View on Apple](https://books.apple.com/gb/book/the-eights/id6572286909)
-
-<a id="the-lucky-winners"></a>
-## The Lucky Winners
-
-![The Lucky Winners](../../logos/6657975993-9e0866d0.png)
-
-<b>THE NO.4 <i>SUNDAY TIMES </i>BESTSELLER</b><br /><br /><b>THE RICHARD &amp; JUDY BOOK CLUB PICK</b><br /><br /><b>'Excellent gripping storyline...keeps you guessing right to the end' </b>5***** reader review<br /><br />--<br />When Merri and Dev buy a ticket on the last day of a national draw to win the house of their dreams, they never, in a million years, expect to win.<br /><br /><b>Less than a week later, they’re receiving the keys to their new Lake District mansion.</b><br /><br />For Dev, it’s a dream come true – no more stressful rent negotiations, or waiting for the landlord to finally fix the damp. Of course he’s delighted to be interviewed about their good luck.<br /><br />But Merri feels a little uneasy. Dev doesn’t realise there’s a reason she’s never wanted to put down roots, always trying to run away from the memories of what happened the day her little sister died.<br /><br />At first it’s easy to think she’s imagining the shadowy figures in the lakefront garden. It’s silly to think that someone is watching her through the gorgeous floor-to-ceiling glass windows.<br /><br /><b>And then a body is found in the lake. And Merri’s new perfect life is about to come crashing down…</b><br /><br />--<br /><b>PRAISE FOR K. L. SLATER</b><br /><br /> ‘Full of secrets, lies and betrayal – it will keep you guessing right to the end’ <b>T.M. Logan</b><br /><br /> 'A triumph of clever plotting and sharp writing. A compelling thriller, masterfully executed' <b>Rachel Abbott </b><br /><br />‘Brilliant, very clever . . . I absolutely recommend it’ <b>B. A. Paris</b><br /><br /> ‘Just when you think you know exactly who did what, there is a twist to beat all twists’ <b><i>The Times</i></b><br /><br /> ‘One of the best thrillers I have ever read’ <b>Angela Marsons</b><br /><br /> ‘A gripping thriller that will make you question everything you thought you knew about marriage’ <b><i>New</i></b><b> magazine</b><br /><br /><b>*No.4 Sunday Times bestseller 21.12.25</b>
-
-[View on Apple](https://books.apple.com/gb/book/the-lucky-winners/id6657975993)
-
-<a id="we-solve-murders"></a>
-## We Solve Murders
-
-![We Solve Murders](../../logos/6477904297-2dc10317.png)
-
-<b>FROM THE #1 BESTSELLING AUTHOR OF <i>THE THURSDAY MURDER CLUB</i><br /><br />A cunning killer. A race around the world.<br />An iconic new detective team is born.</b><br /><br />-----<br /><br /><b><i>Solving murders. It's a family business. </i></b><br /><br /><b>Steve Wheeler</b> is enjoying retired life. He still does the odd bit of investigation work, but he prefers the pub quiz and afternoons at home with his cat Trouble. His days of adventure are over – that’s his daughter-in-law Amy’s business now.<br /><br /><b>Amy Wheeler </b>thinks adrenaline is good for the soul, which makes being a private security officer to billionaires the perfect job. She’s currently on a remote island keeping world-famous author Rosie D’Antonio alive. Then a dead body, a bag of money and a killer with their sights on Amy have her sending Steve an SOS...<br /><br />As a breakneck race around the world begins, can they stay one step ahead of a deadly enemy?<br /><br />-----<br /><br /><b>PRAISE FOR RICHARD OSMAN</b><br /><br />‘Brilliantly suspenseful’ <b>JEFFERY DEAVER</b><br /><br />‘Deplorably good’ <b>IAN RANKIN</b><br /><br />‘Funny, clever, compelling’ <b>HARLAN COBEN</b><br /><br />‘I smiled a million times’ <b>MARIAN KEYES</b><br /><br />‘Warm, wise and witty’ <b>VAL MCDERMID</b><br /><br />‘Osman just gets better’<b> SHARI LAPENA</b><br /><br />'This is a sitcom-meets-Bond, and a fine murder mystery’ <b><i>DAILY EXPRESS</i></b><br /><br />‘The twistiest, turniest tale told with all of Richard Osman’s trademark wit and warmth’ <i><b>RED</b></i><br /><br />'The entertainment value is sky-high' <b><i>i NEWS</i></b><br /><br />'Thursday Murder Club fans, you are in for a treat' <b><i>PRIMA</i></b><br /><br />'Much as with the earlier books, I read We Solve Murders in a few pleasured gulps' <i><b>SUNDAY TIMES</b></i><br /><br /><i><b>'</b></i>The thing that shines through in Osman’s writing is that he really likes people and revels in all their foibles and eccentricities ... a delightful read' <i><b>OBSERVER</b></i><br /><br />‘The rightful king of crime’<i> <b>i</b></i>
-
-[View on Apple](https://books.apple.com/gb/book/we-solve-murders/id6477904297)
 
 <a id="brave-new-summer"></a>
 ## Brave New Summer
@@ -396,77 +369,32 @@ Perfect for fans of MW Craven, Ann Cleeves and Joy Ellis, this is the eighth boo
 
 [View on Apple](https://books.apple.com/gb/book/the-tailor/id6740251363)
 
-<a id="the-goal"></a>
-## The Goal
+<a id="the-lucky-winners"></a>
+## The Lucky Winners
 
-![The Goal](../../logos/6466581015-05d1a08b.png)
+![The Lucky Winners](../../logos/6657975993-9e0866d0.png)
 
-<b>Original Series now on Prime Video. Can't wait for Season 2 of Off Campus? Fall in love with Tuck and Sabrina...</b><br /><b><br /></b><br /><br /><b>Welcome to Briar U!</b><br /><br /><b><br />Get ready for your newest obsession . . . Discover the addictive world of the Off-Campus series from The Queen of Hockey Romance, Elle Kennedy!<br /></b><br /><b><br />Read <i>The Goal </i>now for the perfect forced proximity romance!</b><b></b><br /><b>She's good at achieving her goals . . . </b><br /><br />College senior Sabrina James has her whole future planned out: graduate from college, kick butt in law school, and land a high-paying job at a cut-throat firm. Her path to escaping her shameful past certainly doesn't include a gorgeous hockey player who believes in love at first sight. One night of sizzling heat and surprising tenderness is all she's willing to give John Tucker, but sometimes, one night is all it takes for your entire life to change.<br /><br /><b>But the game just got a whole lot more complicated . . . </b><br /><br />Tucker believes being a team player is as important as being the star. On the ice, he's fine staying out of the spotlight, but when it comes to becoming a daddy at the age of twenty-two, he refuses to be a bench warmer. It doesn't hurt that the soon-to-be mother of his child is beautiful, whip-smart, and keeps him on his toes. The problem is, Sabrina's heart is locked up tight, and the fiery brunette is too stubborn to accept his help. If he wants a life with the woman of his dreams, he'll have to convince her that some goals can only be made with an assist . . .<br /><br />***<br /><br /><b>Why fans love Elle Kennedy </b><b>⭐ ⭐ ⭐ ⭐ ⭐!</b><br /><br />'Delicious, complicated and drama-filled . . . I read it in one sitting, and you will, too'<b> L. J. Shen, <i>USA Today</i> bestselling author</b><br /><br />'A deliciously sexy story with a wallop of emotions that sneaks up on you' <b>Vi Keeland, <i>New York Times</i> bestselling author</b><br /><br />'This book had the ability to make me swoon one minute, put my heart in my throat the next, then literally make me burst right out laughing out of the blue' <b>Goodreads Review</b><br /><br />'The best college romance I've read. It had epic banter, sexy romance, and fantastic writing!! I laughed, I swooned, I couldn't put it down. Highly recommended!!' <b>Goodreads Review</b><br /><br />'Elle Kennedy proves, once again, that she is the Queen of College Hockey Romance!!'<b> Goodreads Review</b><br /><br />'5-Made My Heart Pitter Patter-Stars' <b>Goodreads Review</b><br /><br />'One of the few authors who can instantly put a grin on my face as soon as I start reading her books' <b>Goodreads Review</b><br /><br /><b>💘💘💘</b><br /><br /><b>Tropes</b><br />🏒College hockey romance<br />🏒He falls first<br />🏒One night stand<br />🏒Accidental pregnancy<br />🏒Grumpy x Sunshine
+<b>THE NO.4 <i>SUNDAY TIMES </i>BESTSELLER</b><br /><br /><b>THE RICHARD &amp; JUDY BOOK CLUB PICK</b><br /><br /><b>'Excellent gripping storyline...keeps you guessing right to the end' </b>5***** reader review<br /><br />--<br />When Merri and Dev buy a ticket on the last day of a national draw to win the house of their dreams, they never, in a million years, expect to win.<br /><br /><b>Less than a week later, they’re receiving the keys to their new Lake District mansion.</b><br /><br />For Dev, it’s a dream come true – no more stressful rent negotiations, or waiting for the landlord to finally fix the damp. Of course he’s delighted to be interviewed about their good luck.<br /><br />But Merri feels a little uneasy. Dev doesn’t realise there’s a reason she’s never wanted to put down roots, always trying to run away from the memories of what happened the day her little sister died.<br /><br />At first it’s easy to think she’s imagining the shadowy figures in the lakefront garden. It’s silly to think that someone is watching her through the gorgeous floor-to-ceiling glass windows.<br /><br /><b>And then a body is found in the lake. And Merri’s new perfect life is about to come crashing down…</b><br /><br />--<br /><b>PRAISE FOR K. L. SLATER</b><br /><br /> ‘Full of secrets, lies and betrayal – it will keep you guessing right to the end’ <b>T.M. Logan</b><br /><br /> 'A triumph of clever plotting and sharp writing. A compelling thriller, masterfully executed' <b>Rachel Abbott </b><br /><br />‘Brilliant, very clever . . . I absolutely recommend it’ <b>B. A. Paris</b><br /><br /> ‘Just when you think you know exactly who did what, there is a twist to beat all twists’ <b><i>The Times</i></b><br /><br /> ‘One of the best thrillers I have ever read’ <b>Angela Marsons</b><br /><br /> ‘A gripping thriller that will make you question everything you thought you knew about marriage’ <b><i>New</i></b><b> magazine</b><br /><br /><b>*No.4 Sunday Times bestseller 21.12.25</b>
 
-[View on Apple](https://books.apple.com/gb/book/the-goal/id6466581015)
+[View on Apple](https://books.apple.com/gb/book/the-lucky-winners/id6657975993)
 
-<a id="one-golden-summer"></a>
-## One Golden Summer
+<a id="never-to-be-found"></a>
+## Never To Be Found
 
-![One Golden Summer](../../logos/6636470088-7aa9d250.png)
+![Never To Be Found](../../logos/6747759262-2539c383.png)
 
-<b>Step back into the world of Barry's Bay with the unforgettable romance from Carley Fortune, bestselling author of Every Summer After - now a major TV series Every Year After</b><br /><br /><i><b>I never anticipated Charlie Florek. But Charlie Florek changed my life.</b></i><br /><br />Good things happen at the lake. That's what Alice's Nan always says. And it's true. It's where Alice took that photo, the one that catapulted her career.<br /><br />But when Nan falls, Alice puts down her camera and heads back to Barry’s Bay. No camera. No deadlines. Quiet… until he shows up.<br /><br />Charlie Florek. He was nineteen when she accidentally photographed him. Now he’s back - taller, hotter, and somehow even more unforgettable.<br /><br />Sun-soaked days, slow-burning nights - and when Charlie looks at her like that, Alice starts to wonder if her heart’s in danger.<br /><br /><b>She’s spent her life seeing others. But no one’s ever truly seen her...until now.</b><br /><br />‘Crackling sexual tension’ <b>THE TIMES</b><br /><br />‘This swoon-worthy romance is one for the beach bag’<b> WOMAN &amp; HOME</b><br /><br />‘Radiant’ <b>Emily Henry</b><br /><br />'Funny and sexy, this promises to be the escapist novel of the summer' <b>HEAT</b><br /><br />'Beautiful, emotional love stories set in breathtaking places' <b>Paige Toon</b><br /><br />'A dreamy read full of romance ' <b>VIP Magazine</b><br /><br />'With summery weather, stunning sunsets and boat trips, it's impossible not to feel the holiday spirit while reading this book' <b>Mirror</b><br /><br />'Swoon-worthy, sun-drenched. . . Beautifully described scenery and a heart-fluttering friends-to-lovers story make this one of 2025’s best romances.' <b>Culturefly</b><br /><br /><b>Readers LOVE One Golden Summer:</b><br /><br />'This book was everything I wanted it to be and more! I’m calling it now. This is going to be the Summer romance read of 2025!' <b>***** Reader Review</b><br /><br />'One Golden Summer is my favourite read this year. Hands down, the easiest 5 stars' <b>***** Reader Review</b><br />'This book is my absolute fav' <b>***** Reader Review</b><br /><br />'I’m so grateful I got to read this beautiful story, it was just what I needed for a bit of escapism! Good things happen at the lake'<b> ***** Reader Review</b><br /><br />'This was stunning. I loved the whole thing. The characters are incredible' <b>***** Reader Review</b><br /><br />'The must pick up Romance of 2025……. I absolutely fell in love and cannot recommend it enough'<b> ***** Reader Review</b>
+'Propulsive, break-neck pace and a wonderfully layered, twisty story <b>- ANDREA MARA</b><br />'An utterly compelling thriller' <b>- TM LOGAN</b><br />'A relentlessly gripping page-turner' <b>- CATHERINE RYAN HOWARD</b><br /><b></b><br /><b>THE BRAND NEW 2026 PSYCHOLOGICAL THRILLER FROM THE NO.1 BESTSELLING AUTHOR OF <i>THE CONFESSION.</i></b><br /><b>___________________</b><br /><b></b><br /><b>She helped him disappear.</b><br /><b>She'll wish she hadn't . . .</b><br /><br /><i>In Japan, one hundred thousand people voluntarily disappear every year, aided by those who help them start over. They call them Johatsu - the evaporated.</i><br /><br /><i>I brought the idea to England. No judgement, no questions. Just new identities, packed bags, and discreet escape plans from abusive partners, debt, or simply lives that no longer fit.</i><br /><br /><i>I thought I was doing something good - honourable, even. Until now.</i><br /><br /><i>I know now that not everyone is fleeing hardship. I've helped someone who committed a crime to flee the police. I've disappeared a murderer.</i><br /><br /><i>And unless I find him, I don't know what he'll do next . . .</i><br /><br /><b>More praise for </b><i><b>Never to be Found:</b></i><br /><b><i></i></b><br /><b><i></i></b>'Will grip you from the first page. With a fantastic concept and a fast-paced, twisty plot, this is undoubtedly one of my books of the year. A masterclass in how to write an impeccable crime novel' - <b>JANE CASEY</b><br /><b></b><br />'The best thriller you will read this year. Utterly original, breathtakingly gripping, forensically plotted . . . this is a masterpiece that crowns Jo Spain as one of the best writers of a generation. You will be completely sucked into the world of the evaporated, and confounded by twist after terrifying twist. Unputadownable genius, pure and simple' -<b> SAM BLAKE</b><br /><b></b><br />'Jo Spain's incomparable flair for plotting and a truly intriguing - and original - premise makes this a relentlessly gripping page-turner. Truly, I couldn't put it down' - <b>CATHERINE RYAN HOWARD</b><br /><br />'Non-stop tension, clever twists and turns, and nothing is ever as it seems' -<b> ANDREA MARA</b> (on Jo Spain)
 
-[View on Apple](https://books.apple.com/gb/book/one-golden-summer/id6636470088)
+[View on Apple](https://books.apple.com/gb/book/never-to-be-found/id6747759262)
 
-<a id="fourth-wing"></a>
-## Fourth Wing
+<a id="we-solve-murders"></a>
+## We Solve Murders
 
-![Fourth Wing](../../logos/6445048129-87c08d7c.png)
+![We Solve Murders](../../logos/6477904297-2dc10317.png)
 
-<b>DON'T BE THE LAST TO DISCOVER THE  SERIES THAT EVERYONE CAN'T STOP TALKING ABOUT:</b><br /><br />'I couldn't put it down!' <b>Millie</b> <b>Bobby</b> <b>Brown</b><br /><br />'This book contains an addictive, drug-like essence that will make you relinquish all responsibility'<i> <b>Glamour </b></i><br /><br />'Yarros had me hooked from the first chapter' <i><b>Mail on Sunday</b></i><br /><br />_<br /><br /><b>FRIENDS. ENEMIES. LOVERS . . .</b><br /><b>EVERYONE HAS AN AGENDA</b><br /><br />Violet Sorrengail expected to live a quiet life surrounded by books, until she was forced onto the world's deadliest training ground. Now she must fight to join the army's elite: dragon riders. But dragons don't choose fragile riders, they incinerate them, and when your body breaks as easily as Violet's does - death is only a heartbeat away.<br /><br /><b>EVERY NIGHT COULD BE YOUR LAST</b><br /><br />Many cadets would kill Violet to better their own chances of success; the rest would kill her just because of her last name . . . including the ruthless Xaden Riorson, her family's greatest enemy. With the odds stacked against her, Violet must use every edge her wits can give her just to see the next sunrise, because once you enter Basgiath War College, there are only two ways out:<br /><br /><b>GRADUATE OR DIE</b><br />_<br /><br /> <b>OVER TWO MILLION READERS HAVE ALREADY GIVEN FOUR</b><b>T</b><b>H WING FIVE S</b><b>T</b><b>ARS. ARE YOU READY </b><b>T</b><b>O ENTER </b><b>T</b><b>HE WORLD OF BASGIA</b><b>T</b><b>H WAR COLLEGE? </b><br /><br />'Incredible storytelling on every page' <b><i>The Sun</i></b><b>'</b>Pure escapism . . . We'd suggest savouring every moment' <b><i>Independent </i></b><br /><br />'Full of action, suspense and intrigue. This is the ride you have been waiting for, hold on tight' <b><i>Daily Mirror </i></b><br />'We weren't expecting to become obsessed . . . but we very much are and we're not alone' <b><i>Sunday</i></b><i> <b>Times</b> <b>Style</b></i><br /><br />'The new publishing sensation' <b><i>Daily</i></b><i> <b>Mail</b></i><br /><br />'Yarros is the true inheritor of Harry Potter and inspires Hunger Games levels of devotion' <b><i>Guardian</i></b><br /><br />'A deliciously gripping dish, which I downed in one sitting' <b><i>Stylist</i></b><br /><br />'2024 is the Year of the Dragon . . . Dive into a fantasy narrative featuring these mythical, winged creatures' <b><i>Pop</i></b><i> <b>Sugar</b></i><br /><br />'One of the publishing events of the year' <b>BBC</b> <b>News</b><br /><br />'Prepare to get obsessed' <b><i>Cosmopolitan</i></b><br /><b><br />OTHER BOOKS IN THE EMPYREAN SERIES:</b><br />- FOURTH WING<br />- IRON FLAME<br />- ONYX STORM<br /><br />*Rebecca Yarros's <i>Fourth Wing</i> paperback was an instant number-one bestseller in the first week of April 2024.
+<b>FROM THE #1 BESTSELLING AUTHOR OF <i>THE THURSDAY MURDER CLUB</i><br /><br />A cunning killer. A race around the world.<br />An iconic new detective team is born.</b><br /><br />-----<br /><br /><b><i>Solving murders. It's a family business. </i></b><br /><br /><b>Steve Wheeler</b> is enjoying retired life. He still does the odd bit of investigation work, but he prefers the pub quiz and afternoons at home with his cat Trouble. His days of adventure are over – that’s his daughter-in-law Amy’s business now.<br /><br /><b>Amy Wheeler </b>thinks adrenaline is good for the soul, which makes being a private security officer to billionaires the perfect job. She’s currently on a remote island keeping world-famous author Rosie D’Antonio alive. Then a dead body, a bag of money and a killer with their sights on Amy have her sending Steve an SOS...<br /><br />As a breakneck race around the world begins, can they stay one step ahead of a deadly enemy?<br /><br />-----<br /><br /><b>PRAISE FOR RICHARD OSMAN</b><br /><br />‘Brilliantly suspenseful’ <b>JEFFERY DEAVER</b><br /><br />‘Deplorably good’ <b>IAN RANKIN</b><br /><br />‘Funny, clever, compelling’ <b>HARLAN COBEN</b><br /><br />‘I smiled a million times’ <b>MARIAN KEYES</b><br /><br />‘Warm, wise and witty’ <b>VAL MCDERMID</b><br /><br />‘Osman just gets better’<b> SHARI LAPENA</b><br /><br />'This is a sitcom-meets-Bond, and a fine murder mystery’ <b><i>DAILY EXPRESS</i></b><br /><br />‘The twistiest, turniest tale told with all of Richard Osman’s trademark wit and warmth’ <i><b>RED</b></i><br /><br />'The entertainment value is sky-high' <b><i>i NEWS</i></b><br /><br />'Thursday Murder Club fans, you are in for a treat' <b><i>PRIMA</i></b><br /><br />'Much as with the earlier books, I read We Solve Murders in a few pleasured gulps' <i><b>SUNDAY TIMES</b></i><br /><br /><i><b>'</b></i>The thing that shines through in Osman’s writing is that he really likes people and revels in all their foibles and eccentricities ... a delightful read' <i><b>OBSERVER</b></i><br /><br />‘The rightful king of crime’<i> <b>i</b></i>
 
-[View on Apple](https://books.apple.com/gb/book/fourth-wing/id6445048129)
-
-<a id="what-we-can-know"></a>
-## What We Can Know
-
-![What We Can Know](../../logos/6741511331-f61d8e43.png)
-
-<b>The breathtaking new novel from Ian McEwan</b><br /><br /><b>‘A thumping literary mystery’ </b><i>Independent<br /></i><b>‘A gripping page-turner’</b> <i>Observer<br /></i><b>‘A beautiful novel, full of wisdom and heart. I loved it’ </b>Elif Shafak<br /><br /><i>2014:</i> A poem is read aloud once then vanishes without a trace.<br /><br /><i>2119: </i>A century later, the seas have risen and the world is under water. Those who remain are haunted by what’s been lost – and what might still be found.<br /><br />When university scholar Tom Metcalfe stumbles across a clue that may lead to the great lost poem, he reveals a story of entangled love and a brutal crime that challenges everything he thought he knew about the past…<br /><br /><b>READERS LOVE </b><i><b>WHAT WE CAN KNOW:<br /></b></i>‘Fantastic…a book I will treasure forever’<br />‘Brilliant, gripping, fascinating’<br />‘Makes you question everything you think you know’<br />‘A beautiful exploration of memory and love’<br />‘What a book. Utterly absorbing’<br /><br /><b>‘Rewarding and thought-provoking’ </b><i>Financial Times</i><br /><br /><b>‘A master storyteller’ </b><i>The Times</i><br /><br /><b>‘It gave me so much pleasure’ </b><i>New York Times</i><br /><br /><b>‘Haunting, playful and ultimately hopeful… A wonderful book’ </b>Kaliane Bradley<br /><br /><b>*A BOOK OF THE YEAR for the </b><b><i>Sunday Times</i></b><b>, </b><b><i>Guardian</i></b><b>, </b><b><i>New York Times</i></b><b>, </b><b><i>New Statesman</i></b><b>, </b><b><i>Spectator</i></b><b>, </b><b><i>New Yorker</i></b><b>, </b><b><i>i Paper</i></b><b> and Barack Obama*</b>
-
-[View on Apple](https://books.apple.com/gb/book/what-we-can-know/id6741511331)
-
-<a id="gabriel-s-moon"></a>
-## Gabriel's Moon
-
-![Gabriel's Moon](../../logos/6501974613-a1f2fcc0.png)
-
-<b>In his most exhilarating novel yet, William Boyd transports you to the vibrant streets of sixties London, as an accidental spy is drawn into the shadows of espionage and obsession . . .</b><br /><br /><b>‘William Boyd once again brings to the spy novel his particular storytelling genius . . . brilliant fun’ </b>MICK HERRON<br /><b>‘Wonderfully ambiguous with notions of twisted reality and uncertain memory’ </b>ANN CLEEVES<br /><b>‘A wonderfully intricate novel of espionage and elegant skulduggery’ </b>JOHN BANVILLE<br /><br /><b>AN ACCIDENTAL SPY. A WEB OF BETRAYALS. A MYSTERY THAT WILL TAKE YOU AROUND THE WORLD . . . </b><br /><br />Gabriel Dax is a young man haunted by the memories of a tragedy: every night, when sleep finally comes, he dreams about his childhood home in flames. His days are spent on the move as an acclaimed travel writer, capturing changing landscapes in the grip of the Cold War. When he’s offered the chance to interview a political figure, his ambition leads him unwittingly into the shadows of espionage.<br /><br />As Gabriel’s reluctant initiation takes hold, he is drawn deeper into duplicity. Falling under the spell of Faith Green, an enigmatic and ruthless MI6 handler, he becomes ‘her spy’, unable to resist her demands. But amid the peril, paranoia and passion consuming Gabriel’s new covert life, it will be the revelations closer to home that change the rest of his story . . .<br /><br />------<br /><br /><b>‘Engaging, intelligent and deeply satisfying. I rate him one of our greatest living novelists’</b> PETER JAMES<br /><b>‘I enjoyed it hugely. Boyd is one of my favourite authors – he never disappoints’</b> KATE ATKINSON<br /><b>‘Beautifully crafted and pleasingly unpredictable, the work of a man who knows what he is doing and makes it look effortless’ </b>JAMES RUNCIE<br /><b>‘Simply the best realistic storyteller of his generation’ </b>SEBASTIAN FAULKS<br /><b>‘There are few reading pleasures as great as giving in to a William Boyd novel’ </b><i>SUNDAY TIMES</i>
-
-[View on Apple](https://books.apple.com/gb/book/gabriels-moon/id6501974613)
-
-<a id="the-house-of-wolf"></a>
-## The House of Wolf
-
-![The House of Wolf](../../logos/6743436874-5e327717.png)
-
-'George RR Martin meets Terry Pratchett' <i><b>OBSERVER</b></i><br /><b><br />***NOW A <i>SUNDAY TIMES </i>BESTSELLER IN HARDBACK***</b><br /><b><br />Sir Tony Robinson - actor, presenter, historical expert and star of <i>Blackadder </i>and <i>Time Team</i> - makes his adult fiction debut with this earthy, entertaining and gloriously witty recreation of the Anglo-Saxons, Alfred the Great, and the making of England.</b><br /><br />'A page-turner full of historical intelligence, wit and heart' <b>DAN JONES</b><br /><br />'Brings the Anglo-Saxon world riotously to life' <b>S.J PARRIS</b><br /><br />'Entirely brilliant, a story and world vividly evoked'<b> KATE WILLIAMS</b><br /><br />'Every bit and wise, witty and entertaining as you would expect from one of our greatest storytellers'<b> MARK BILLINGHAM<br /></b><br />______<br /><br /><b>Rome</b><br />Father Asser is waiting to die.<br /><br />His idealism has landed him in a papal prison on trumped-up charges of heresy, until salvation arrives in an unexpected form. Cardinal Balotelli also dreams of a better world, free from the ravages of the Norlanders. He has a vital job for Asser, one that could shape the future of Europe.<br /><br /><b>Wessex</b><br />King Aethelwolf's power is fading, but none of his feckless children are fit to rule.<br /><br />His eldest sons would rather fight each other than the blood-thirsty Norland invaders. His daughter, Swift, is clever and cunning, but often blinded by her ambition. Finally there's Alfred, his once-promising younger son, whom nobody has seen in years.<br /><br />Then Wolf meets a young priest with a proposition from Rome that could change everything.<br /><br /><b>Lindisfarne</b><br />Rhiannon is a slave with a profound hatred for her Saxon captors. When she meets Guthrum, a Norlander hell-bent on wiping Wessex from the map, they set out on a journey of destruction.<br /><br /><b>So begins an epic struggle between greed and idealism, ambition and betrayal, freedom and tyranny. Because change always meets with resistance and, on the path to power, nobody can be trusted.</b><br /><br /><i>The House of Wolf</i> <i>appeared in the Sunday Times hardback bestseller chart in the week ending 20th September 2025.</i>
-
-[View on Apple](https://books.apple.com/gb/book/the-house-of-wolf/id6743436874)
-
-<a id="the-legacy"></a>
-## The Legacy
-
-![The Legacy](../../logos/6466581837-d8133dd2.png)
-
-<b>Original Series now on Prime Video</b><br /><br /><b>Welcome to Briar U!</b><br /><br /><b><br />Get ready for your newest obsession . . . Discover the addictive world of the Off-Campus series from The Queen of Hockey Romance, Elle Kennedy!<br /></b><br /><b>Read <i>The Legacy </i>now for the much-anticipated answer to the question: Where are they now?</b><b></b><br /><br /><b>Four stories. Four couples. Three years of real life after graduation. . .</b><br /><br />A wedding.<br />A proposal.<br />An elopement.<br />And a surprise pregnancy.<br /><br />Life after college for Garrett and Hannah, Logan and Grace, Dean and Allie, and Tucker and Sabrina, isn't quite what they imagined it would be. Sure, they have each other, but they also have real-life problems that four years at Briar U didn't exactly prepare them for. As it turns out, for these four couples, love is the easy part. Growing up is a whole lot harder.<br /><br /><b>Come for the drama, stay for the laughs! Catch up with your </b><b>favourite</b><b> Off-Campus characters as they navigate the changes that come with growing up and discover that big decisions can have big consequences . . . and big rewards.</b><br /><br />***<br /><br /><b>Why fans love Elle Kennedy </b><b>⭐ ⭐ ⭐ ⭐ ⭐!</b><br /><br />'Delicious, complicated and drama-filled . . . I read it in one sitting, and you will, too'<b> L. J. Shen, <i>USA Today</i> bestselling author</b><br /><br />'A deliciously sexy story with a wallop of emotions that sneaks up on you' <b>Vi Keeland, <i>New York Times</i> bestselling author</b><br /><br />'This book had the ability to make me swoon one minute, put my heart in my throat the next, then literally make me burst right out laughing out of the blue' <b>Goodreads Review</b><br /><br />'The best college romance I've read. It had epic banter, sexy romance, and fantastic writing!! I laughed, I swooned, I couldn't put it down. Highly recommended!!' <b>Goodreads Review</b><br /><br />'Elle Kennedy proves, once again, that she is the Queen of College Hockey Romance!!'<b> Goodreads Review</b><br /><br />'5-Made My Heart Pitter Patter-Stars' <b>Goodreads Review</b><br /><br />'One of the few authors who can instantly put a grin on my face as soon as I start reading her books' <b>Goodreads Review</b>
-
-[View on Apple](https://books.apple.com/gb/book/the-legacy/id6466581837)
-
-<a id="no-country-for-old-men"></a>
-## No Country for Old Men
-
-![No Country for Old Men](../../logos/409370986-35a1c9f3.png)
-
-<b>A savage tale of violence and morality in the American West, Cormac McCarthy's <i>No Country for Old Men</i> follows a Vietnam veteran's dark path after stumbling upon a drug deal gone wrong.</b><br /><br /><b>Adapted for the screen by the Coen Brothers (<i>Fargo</i>, <i>True Grit</i>), winner of four Academy Awards (including Best Picture).</b><br /><br /><b>'A Western thriller with a racy plot and punchy dialogue' – <i>The Times</i></b><br /><br />1980. Llewelyn Moss is hunting antelope near the Rio Grande when he discovers the aftermath of a drug deal turned deadly. Finding bullet-ridden bodies, several kilos of heroin, and a caseload of cash, he faces a choice – walk away or take the money and run. Choosing the latter, he knows, will change everything.<br /><br />And so begins a terrifying chain of events, as each player in this brutal game seems determined to answer one question: how does a man decide in what order to abandon his life?<br /><br /><b>'It's hard to think of a contemporary writer more worth reading' – <i>Independent</i></b><br /><br /><b>Part of the Picador Collection, a series showcasing the best of modern literature.</b><br /><br />Praise for Cormac McCarthy:<br /><br />‘McCarthy worked close to some religious impulse, his books were terrifying and absolute’ – Anne Enright, author of The Green Road and <i>The Wren, The Wren</i><br /><br />'His prose takes on an almost biblical quality, hallucinatory in its effect and evangelical in its power' – Stephen King, author of <i>The Shining</i> and the Dark Tower series<br /><br />'In presenting the darker human impulses in his rich prose, [McCarthy] showed readers the necessity of facing up to existence' – Annie Proulx, author of <i>Brokeback Mountain</i><br /><br /><b>Part of the Picador Collection, a series showcasing the best of modern literature.</b>
-
-[View on Apple](https://books.apple.com/gb/book/no-country-for-old-men/id409370986)
+[View on Apple](https://books.apple.com/gb/book/we-solve-murders/id6477904297)
 
 <a id="the-secret-of-secrets"></a>
 ## The Secret of Secrets
@@ -477,23 +405,59 @@ Perfect for fans of MW Craven, Ann Cleeves and Joy Ellis, this is the eighth boo
 
 [View on Apple](https://books.apple.com/gb/book/the-secret-of-secrets/id6740487676)
 
-<a id="one-of-us"></a>
-## One of Us
+<a id="the-eights"></a>
+## The Eights
 
-![One of Us](../../logos/6743101190-c005304b.png)
+![The Eights](../../logos/6572286909-ddbf388d.png)
 
-‘Intelligent, darkly humorous and brilliantly written’ STANLEY TUCCI<br /><br />‘This is Elizabeth Day's writing at its finest’ DOLLY ALDERTON<br /><br />‘A tantalising portrait of privilege and power’ THE TIMES<br /><br />In this compulsive story of betrayal, old bonds and buried scandals, one British establishment family comes face to face with the consequences of privilege and the true cost of power.<br /><br />Martin and Ben were friends for decades — best friends, Martin would have said — before the terrible events at Ben’s 40th birthday party tore them apart. So when Martin receives a surprise invitation back into the inner sanctum of the dazzling Fitzmaurice family after seven years of silence, he can’t resist the chance to get his revenge.<br /><br />Ben has risen through the ranks of power, and is now touted as the next Prime Minister. But Martin can’t help but notice certain flies in the ointment… Ben’s wife, Serena, for instance, whose privileged existence is beginning to feel like a gilded cage. Or their daughter, Cosima, an environmental activist fighting against everything her parents once stood for. Or the disgraced MP Richard Take, determined to make his big comeback. And then there’s Fliss, the Fitzmaurice black sheep, whose untimely death sparks more suspicion than closure. Through their intertwined stories, we see a family – and a nation – unravelling under the weight of its secrets.<br /><br />With everyone watching, the stage is set for a reckoning. It's time for Martin and Ben to confront what love truly means when everything—family, power, and loyalty—is on the line.<br /><br />‘Speaks truth to power in such an entertaining, gripping way’ MARIAN KEYES<br /><br />‘This timely story about the abuse of power is one of those books you just want to inhale in one go’ GOOD HOUSEKEEPING<br /><br />‘Gorgeously written, utterly compelling, and full of characters you will love and hate – and also love to hate’ SARA COLLINS<br /><br />‘The thinking person’s thriller. Part Highsmith, part Waugh … A superbly gripping plot’ LUCY FOLEY<br /><br />About the author<br /><br />Elizabeth Day is the author of five novels and four works of non-fiction, including her Sunday Times bestselling novel Magpie, and hit memoir How to Fail. She is the creator and host of the chart-topping podcast How to Fail with Elizabeth Day.
+They knew they were changing history. They didn't know they would change each other.<br /><br />Oxford, 1920. For the first time in its 1,000-year history, the world’s most famous university has admitted female students. Giddy with dreams of equality, education and emancipation, four young women move into neighbouring rooms on Corridor Eight and find themselves thrust into an unlikely, life-affirming friendship. They have come here from all walks of life, but Dora, Beatrice, Otto and Marianne all long to move on from the Great War, whose ghosts, grief, and secrets still feel very real indeed.<br /><br />But Oxford is a place caught between tradition and change, where centuries of misogyny and exclusion clash with the promise of new freedoms. And as the group navigate this tumultuous moment in time under the city’s dreaming spires, their friendship will become more important than ever.<br /><br />‘A beautifully wrought story of women’s rights, freedom, love and experience. I couldn’t put it down’ Harriet Evans, author of <i>The Treasures</i><br /><br />‘I became completely involved in the lives of the four pioneering heroines whose friendship is the beating heart of the book’ Clare Chambers, author of <i>Small Pleasures</i>
 
-[View on Apple](https://books.apple.com/gb/book/one-of-us/id6743101190)
+[View on Apple](https://books.apple.com/gb/book/the-eights/id6572286909)
 
-<a id="i-will-find-you"></a>
-## I Will Find You
+<a id="the-goal"></a>
+## The Goal
 
-![I Will Find You](../../logos/6443100402-d4653fc6.png)
+![The Goal](../../logos/6466581015-05d1a08b.png)
 
-<b>THE NO. 1 <i>SUNDAY TIMES </i>BESTSELLER</b><br /><br />*** NOW A MAJOR NETFLIX TV SERIES, STARRING SAM WORTHINGTON, BRITT LOWER AND MILO VENTIMIGLIA***<br /><br /><b>David and Cheryl Burroughs are living the dream - married, a beautiful house in the suburbs, a three year old son named Matthew - when tragedy strikes one night in the worst possible way.</b><br /><br />David awakes to find himself covered in blood, but not his own - his son's. And while he knows he did not murder his son, the overwhelming evidence against him puts him behind bars indefinitely.<br /><br />Five years into his imprisonment, Cheryl's sister arrives - and drops a bombshell.<br /><br />She's come with a photograph that a friend took on vacation at a theme park. The boy in the background seems familiar - and even though David realizes it can't be, he knows it is.<br /><br />It's Matthew, and he's still alive.<br /><br /><b>David plans a harrowing escape from prison, determined to do what seems impossible - save his son, clear his own name, and discover the real story of what happened that devastating night.</b><br /><b>______________</b><br /><br /><b>Readers are loving </b><i><b>I Will Find You . . .</b></i><br /><br />'A <b>thrilling roller-coaster </b>ride' 5-star reader review<br /><br />'Harlan at his <b>absolute best</b>!' 5-star reader review<br /><br />'<b>Couldn't put it down</b>' 5-star reader review<br /><br />'<b>Extremely action packed</b>, absolutely <b>heart pounding</b>' 5-star reader review<br /><br />'Such an <b>amazing</b> writer' 5-star reader review<br /><br />'An <b>electrifying </b>game of cat-and-mouse' 5-star reader review<br /><br /><b>_______________</b><br /><br /><b><i>Praise for Harlan Coben . . .</i></b><br /><br /><b>'Unbelievably brilliant'</b> RICHARD OSMAN<br /><br /><b>'A GREAT writer' </b>JOHN GRISHAM<br /><br /><b>'Never lets you down' </b>LEE CHILD<br /><br /><b>'Simply one of the all-time greats' </b>GILLIAN FLYNN<br /><br /><b>'The modern master of the hook and twist' </b>DAN BROWN<br /><br /><b>'One of the world's finest thriller writers'</b> PETER JAMES<br /><br />'The <b>king of the thriller</b> novel' JACK EDWARDS<br /><br /><i>I Will Find You </i>was a <i>Sunday Times </i>no. 1 bestseller 14/01/2024
+<b>Original Series now on Prime Video. Can't wait for Season 2 of Off Campus? Fall in love with Tuck and Sabrina...</b><br /><b><br /></b><br /><br /><b>Welcome to Briar U!</b><br /><br /><b><br />Get ready for your newest obsession . . . Discover the addictive world of the Off-Campus series from The Queen of Hockey Romance, Elle Kennedy!<br /></b><br /><b><br />Read <i>The Goal </i>now for the perfect forced proximity romance!</b><b></b><br /><b>She's good at achieving her goals . . . </b><br /><br />College senior Sabrina James has her whole future planned out: graduate from college, kick butt in law school, and land a high-paying job at a cut-throat firm. Her path to escaping her shameful past certainly doesn't include a gorgeous hockey player who believes in love at first sight. One night of sizzling heat and surprising tenderness is all she's willing to give John Tucker, but sometimes, one night is all it takes for your entire life to change.<br /><br /><b>But the game just got a whole lot more complicated . . . </b><br /><br />Tucker believes being a team player is as important as being the star. On the ice, he's fine staying out of the spotlight, but when it comes to becoming a daddy at the age of twenty-two, he refuses to be a bench warmer. It doesn't hurt that the soon-to-be mother of his child is beautiful, whip-smart, and keeps him on his toes. The problem is, Sabrina's heart is locked up tight, and the fiery brunette is too stubborn to accept his help. If he wants a life with the woman of his dreams, he'll have to convince her that some goals can only be made with an assist . . .<br /><br />***<br /><br /><b>Why fans love Elle Kennedy </b><b>⭐ ⭐ ⭐ ⭐ ⭐!</b><br /><br />'Delicious, complicated and drama-filled . . . I read it in one sitting, and you will, too'<b> L. J. Shen, <i>USA Today</i> bestselling author</b><br /><br />'A deliciously sexy story with a wallop of emotions that sneaks up on you' <b>Vi Keeland, <i>New York Times</i> bestselling author</b><br /><br />'This book had the ability to make me swoon one minute, put my heart in my throat the next, then literally make me burst right out laughing out of the blue' <b>Goodreads Review</b><br /><br />'The best college romance I've read. It had epic banter, sexy romance, and fantastic writing!! I laughed, I swooned, I couldn't put it down. Highly recommended!!' <b>Goodreads Review</b><br /><br />'Elle Kennedy proves, once again, that she is the Queen of College Hockey Romance!!'<b> Goodreads Review</b><br /><br />'5-Made My Heart Pitter Patter-Stars' <b>Goodreads Review</b><br /><br />'One of the few authors who can instantly put a grin on my face as soon as I start reading her books' <b>Goodreads Review</b><br /><br /><b>💘💘💘</b><br /><br /><b>Tropes</b><br />🏒College hockey romance<br />🏒He falls first<br />🏒One night stand<br />🏒Accidental pregnancy<br />🏒Grumpy x Sunshine
 
-[View on Apple](https://books.apple.com/gb/book/i-will-find-you/id6443100402)
+[View on Apple](https://books.apple.com/gb/book/the-goal/id6466581015)
+
+<a id="fourth-wing"></a>
+## Fourth Wing
+
+![Fourth Wing](../../logos/6445048129-87c08d7c.png)
+
+<b>DON'T BE THE LAST TO DISCOVER THE  SERIES THAT EVERYONE CAN'T STOP TALKING ABOUT:</b><br /><br />'I couldn't put it down!' <b>Millie</b> <b>Bobby</b> <b>Brown</b><br /><br />'This book contains an addictive, drug-like essence that will make you relinquish all responsibility'<i> <b>Glamour </b></i><br /><br />'Yarros had me hooked from the first chapter' <i><b>Mail on Sunday</b></i><br /><br />_<br /><br /><b>FRIENDS. ENEMIES. LOVERS . . .</b><br /><b>EVERYONE HAS AN AGENDA</b><br /><br />Violet Sorrengail expected to live a quiet life surrounded by books, until she was forced onto the world's deadliest training ground. Now she must fight to join the army's elite: dragon riders. But dragons don't choose fragile riders, they incinerate them, and when your body breaks as easily as Violet's does - death is only a heartbeat away.<br /><br /><b>EVERY NIGHT COULD BE YOUR LAST</b><br /><br />Many cadets would kill Violet to better their own chances of success; the rest would kill her just because of her last name . . . including the ruthless Xaden Riorson, her family's greatest enemy. With the odds stacked against her, Violet must use every edge her wits can give her just to see the next sunrise, because once you enter Basgiath War College, there are only two ways out:<br /><br /><b>GRADUATE OR DIE</b><br />_<br /><br /> <b>OVER TWO MILLION READERS HAVE ALREADY GIVEN FOUR</b><b>T</b><b>H WING FIVE S</b><b>T</b><b>ARS. ARE YOU READY </b><b>T</b><b>O ENTER </b><b>T</b><b>HE WORLD OF BASGIA</b><b>T</b><b>H WAR COLLEGE? </b><br /><br />'Incredible storytelling on every page' <b><i>The Sun</i></b><b>'</b>Pure escapism . . . We'd suggest savouring every moment' <b><i>Independent </i></b><br /><br />'Full of action, suspense and intrigue. This is the ride you have been waiting for, hold on tight' <b><i>Daily Mirror </i></b><br />'We weren't expecting to become obsessed . . . but we very much are and we're not alone' <b><i>Sunday</i></b><i> <b>Times</b> <b>Style</b></i><br /><br />'The new publishing sensation' <b><i>Daily</i></b><i> <b>Mail</b></i><br /><br />'Yarros is the true inheritor of Harry Potter and inspires Hunger Games levels of devotion' <b><i>Guardian</i></b><br /><br />'A deliciously gripping dish, which I downed in one sitting' <b><i>Stylist</i></b><br /><br />'2024 is the Year of the Dragon . . . Dive into a fantasy narrative featuring these mythical, winged creatures' <b><i>Pop</i></b><i> <b>Sugar</b></i><br /><br />'One of the publishing events of the year' <b>BBC</b> <b>News</b><br /><br />'Prepare to get obsessed' <b><i>Cosmopolitan</i></b><br /><b><br />OTHER BOOKS IN THE EMPYREAN SERIES:</b><br />- FOURTH WING<br />- IRON FLAME<br />- ONYX STORM<br /><br />*Rebecca Yarros's <i>Fourth Wing</i> paperback was an instant number-one bestseller in the first week of April 2024.
+
+[View on Apple](https://books.apple.com/gb/book/fourth-wing/id6445048129)
+
+<a id="gabriel-s-moon"></a>
+## Gabriel's Moon
+
+![Gabriel's Moon](../../logos/6501974613-a1f2fcc0.png)
+
+<b>In his most exhilarating novel yet, William Boyd transports you to the vibrant streets of sixties London, as an accidental spy is drawn into the shadows of espionage and obsession . . .</b><br /><br /><b>‘William Boyd once again brings to the spy novel his particular storytelling genius . . . brilliant fun’ </b>MICK HERRON<br /><b>‘Wonderfully ambiguous with notions of twisted reality and uncertain memory’ </b>ANN CLEEVES<br /><b>‘A wonderfully intricate novel of espionage and elegant skulduggery’ </b>JOHN BANVILLE<br /><br /><b>AN ACCIDENTAL SPY. A WEB OF BETRAYALS. A MYSTERY THAT WILL TAKE YOU AROUND THE WORLD . . . </b><br /><br />Gabriel Dax is a young man haunted by the memories of a tragedy: every night, when sleep finally comes, he dreams about his childhood home in flames. His days are spent on the move as an acclaimed travel writer, capturing changing landscapes in the grip of the Cold War. When he’s offered the chance to interview a political figure, his ambition leads him unwittingly into the shadows of espionage.<br /><br />As Gabriel’s reluctant initiation takes hold, he is drawn deeper into duplicity. Falling under the spell of Faith Green, an enigmatic and ruthless MI6 handler, he becomes ‘her spy’, unable to resist her demands. But amid the peril, paranoia and passion consuming Gabriel’s new covert life, it will be the revelations closer to home that change the rest of his story . . .<br /><br />------<br /><br /><b>‘Engaging, intelligent and deeply satisfying. I rate him one of our greatest living novelists’</b> PETER JAMES<br /><b>‘I enjoyed it hugely. Boyd is one of my favourite authors – he never disappoints’</b> KATE ATKINSON<br /><b>‘Beautifully crafted and pleasingly unpredictable, the work of a man who knows what he is doing and makes it look effortless’ </b>JAMES RUNCIE<br /><b>‘Simply the best realistic storyteller of his generation’ </b>SEBASTIAN FAULKS<br /><b>‘There are few reading pleasures as great as giving in to a William Boyd novel’ </b><i>SUNDAY TIMES</i>
+
+[View on Apple](https://books.apple.com/gb/book/gabriels-moon/id6501974613)
+
+<a id="sisters-in-yellow"></a>
+## Sisters in Yellow
+
+![Sisters in Yellow](../../logos/6749863003-093f0dab.png)
+
+<b>The Instant <i>Sunday Times</i> Bestseller</b><br /><br /><b>'I can never forget the sense of pure astonishment I felt when I first read Mieko Kawakami'</b><br /><b>– Haruki Murakami</b><br /><br /><b>'The most exciting Japanese novelist at work today'<br />– <i>The Times</i></b><br /><br /><b>A heart-stopping story of teenage girls on the brink in 1990s Tokyo from the International Booker Prize-Shortlisted author of <i>Heaven</i> and <i>Breasts and Eggs</i>.</b><br /><br />Hana has nothing but she’s hopeful. She’s fifteen years old. She lives in a tiny apartment in a suburb of Tokyo with her young mother, a hostess at a local dive bar. They have no money, no security. Then Kimiko appears.<br /><br />Kimiko is older, a bright light in Hana’s dark world. Together they set up Lemon, a bar that, despite its shabby setting and seedy clientele, becomes a haven for Hana. Suddenly Hana has a job she loves, friends to share her days with, and the glittering promise of money. She feels like a normal girl. She feels invincible.<br /><br />But in the narrow alleys of Sangenjaya, nothing is as it seems. Soon all of Hana’s hope, her optimism, and her drive, will be tested to the limit . . .<br /><br />A story of enduring friendship and deep betrayal, Sisters in Yellow is a masterpiece of teenage dreams and adult cruelties that confirms Mieko Kawakami as one of the great writers of her generation.<br /><br /><b>'Relentlessly riveting . . . My heart felt very tender reading this'<br />– Frances Cha, author of <i>If I Had Your Face</i></b><br /><br /><b>Readers love <i>Sisters in Yellow</i>:</b><br /><br />'My new favourite book of ALL TIME. The ending absolutely destroyed me.'<br /><br />'A powerful, emotionally charged exploration of friendship, survival and the quiet brutality of inequality'<br /><br />'Mieko Kawakami doesn't need a high-speed chase to create tension; she lets a heavy, unsettling mood seep into the floorboards'<br /><br />'Confirms Kawakami’s place as one of the most vital voices in contemporary literature'<br /><br />'The character building is second to none . . . Mieko Kawakami is a generational talent'<br /><br />'This is Kawakami at her best. Not for a second does the pace let up.'
+
+[View on Apple](https://books.apple.com/gb/book/sisters-in-yellow/id6749863003)
+
+<a id="revenge-of-the-tipping-point"></a>
+## Revenge of the Tipping Point
+
+![Revenge of the Tipping Point](../../logos/6503185665-441f45fb.png)
+
+<i><b>'If the world can be moved by just the slightest push, then the person who knows where and when to push has real power. So who are those people? What are their intentions? What techniques are they using?'</b></i><br /><br /> Through a series of riveting stories, Gladwell traces the rise of a new and troubling form of social engineering. He takes us to the streets of Los Angeles to meet the world's most successful bank robbers, rediscovers a forgotten television show from the 1970s that changed the world, visits the site of a historic experiment on a tiny cul-de-sac in northern California, and offers an alternate history of two of the biggest epidemics of our day: COVID and the opioid crisis.<br /><br /> <i>Revenge of the Tipping Point</i> is Gladwell's most personal book yet. With his characteristic mix of storytelling and social science, he offers a guide to making sense of the contagions of the modern world. It's time to revisit social epidemics, and it's time we took their tipping points seriously.<br /><br /><b>'Addictive... fascinating and provocative'</b> <i>Guardian</i><br /><b>'Malcolm Gladwell explores the watershed moments that define this new age of societal upheaval... with curiosity and humor'</b> <i>TIME Magazine</i><br /><b>'Gladwell is a great storyteller with a contagious sense of curiosity' </b><i>The Economist</i><br /><b>'The match that so elegantly graced the cover of <i>The Tipping Point </i>is now on fire' </b><i>Wall Street Journal</i>
+
+[View on Apple](https://books.apple.com/gb/book/revenge-of-the-tipping-point/id6503185665)
 
 <a id="yesteryear"></a>
 ## Yesteryear
@@ -513,6 +477,141 @@ Homer’s great epic of a hero’s journey home—inspiration for the major moti
 
 [View on Apple](https://books.apple.com/gb/book/the-odyssey/id1215381921)
 
+<a id="lost-until-love"></a>
+## Lost Until Love
+
+![Lost Until Love](../../logos/6753777192-406d9c33.png)
+
+<b><i>'It's important for me to talk about everything that's happened to me in my life, to be open about it, because when you share something that you've gone through, and survived, it helps other people going through something similar. You aren't alone. And you are enough.</i>'</b>  <br /><br /> In the summer of 2026, it is ten years since Olivia Bowen appeared on the second series of<i> Love Island</i>, finishing as a runner up with her partner, Alex. A true love story, the couple remain the longest standing success story of the show's entire history, now married with two beautiful children, Abel and Siena Grace.<br /><br />Yet the last decade for Olivia has been a very different experience from her life before, where she'd struggled to navigate family disruption, unhealthy relationships and a battle with depression and anxiety.<br /><br /> In <i>Lost Until Love</i>, Olivia reflects on her life, sharing with her devoted followers what really drove her to enter the <i>Love Island</i> villa, as well as giving exclusive insight behind-the-scenes at Casa Amor, her relationship with Alex, and the many varied - and sometimes unexpected! - experiences and opportunities the show has brought her since. <br /><br />Olivia also explores her raw journey of motherhood, as well as the devastating loss of her twin daughter while pregnant with Siena Grace and how this has changed her outlook on life and her future. Through the highs, lows and self-reflection, Olivia has finally created an authentic blueprint for her life that she hopes will inspire others to seek out their turning point and reach for their dreams.<br /><br /><i> Lost Until Love</i> is a love letter to Olivia's younger self; it might be Olivia's own story but the hope and learnings between these pages are for every person who wants to own, learn, and turn their story into a life well lived and loved.<br /><br /><b><i>'Applying to be on Love Island wasn't my dream, I didn't set out aiming to win it or believe it was going to be a life-changing opportunity. It was just a chance for me to escape from where I was, it piqued my interest. And I would encourage anyone who feels that spark of intrigue </i><i>to do the same. It's like following little breadcrumbs... You might not know where they will lead but if it feels right to follow the trail, you should do it!'</i></b>
+
+[View on Apple](https://books.apple.com/gb/book/lost-until-love/id6753777192)
+
+<a id="the-spy-and-the-traitor"></a>
+## The Spy and the Traitor
+
+![The Spy and the Traitor](../../logos/1353868645-343194d5.png)
+
+<b>THE NO.1 <i>SUNDAY TIMES</i> BESTSELLER </b><br /><br /><b>An exciting Cold War story about a KGB double agent, by one of Britain's greatest historians and the ultimate gift for anyone who loves a good spy thriller!</b><br /><br /><b>'The best true spy story I have ever read' John le Carré</b><br /><b><i>________________</i></b><br /><br />On a warm July evening in 1985, a middle-aged man stood on the pavement of a busy avenue in the heart of Moscow, holding a plastic carrier bag. In his grey suit and tie, he looked like any other Soviet citizen. The bag alone was mildly conspicuous, printed with the red logo of Safeway, the British supermarket.<br /><br />The man was a spy. A senior KGB officer, for more than a decade he had supplied his British spymasters with a stream of priceless secrets from deep within the Soviet intelligence machine. No spy had done more to damage the KGB. The Safeway bag was a signal: to activate his escape plan to be smuggled out of Soviet Russia. So began one of the boldest and most extraordinary episodes in the history of spying.<br /><br />Ben Macintyre reveals a tale of espionage, betrayal and raw courage that changed the course of the Cold War forever . . .<br /><b><i>________________</i></b><br /><br /><b>'The world's most important spy since the Second World War. Mercilessly gripping' </b><i>Sunday Times</i><br /><br /><b>'Extraordinary. His best book yet' </b>John Preston, <i>Evening Standard</i><br /><br /><b>'A remarkable story of one man's courage' </b><i>The Times, Book of the Week</i><br /><br /><b>BEN MACINTYRE'S NEXT BOOK, <i>REDWOOD</i>, IS AVAILABLE FOR PRE-ORDER NOW</b><br /><br />Ben Macintyre, <i>Sunday Times </i>bestseller, August 2023
+
+[View on Apple](https://books.apple.com/gb/book/the-spy-and-the-traitor/id1353868645)
+
+<a id="one-golden-summer"></a>
+## One Golden Summer
+
+![One Golden Summer](../../logos/6636470088-7aa9d250.png)
+
+<b>Step back into the world of Barry's Bay with the unforgettable romance from Carley Fortune, bestselling author of Every Summer After - now a major TV series Every Year After</b><br /><br /><i><b>I never anticipated Charlie Florek. But Charlie Florek changed my life.</b></i><br /><br />Good things happen at the lake. That's what Alice's Nan always says. And it's true. It's where Alice took that photo, the one that catapulted her career.<br /><br />But when Nan falls, Alice puts down her camera and heads back to Barry’s Bay. No camera. No deadlines. Quiet… until he shows up.<br /><br />Charlie Florek. He was nineteen when she accidentally photographed him. Now he’s back - taller, hotter, and somehow even more unforgettable.<br /><br />Sun-soaked days, slow-burning nights - and when Charlie looks at her like that, Alice starts to wonder if her heart’s in danger.<br /><br /><b>She’s spent her life seeing others. But no one’s ever truly seen her...until now.</b><br /><br />‘Crackling sexual tension’ <b>THE TIMES</b><br /><br />‘This swoon-worthy romance is one for the beach bag’<b> WOMAN &amp; HOME</b><br /><br />‘Radiant’ <b>Emily Henry</b><br /><br />'Funny and sexy, this promises to be the escapist novel of the summer' <b>HEAT</b><br /><br />'Beautiful, emotional love stories set in breathtaking places' <b>Paige Toon</b><br /><br />'A dreamy read full of romance ' <b>VIP Magazine</b><br /><br />'With summery weather, stunning sunsets and boat trips, it's impossible not to feel the holiday spirit while reading this book' <b>Mirror</b><br /><br />'Swoon-worthy, sun-drenched. . . Beautifully described scenery and a heart-fluttering friends-to-lovers story make this one of 2025’s best romances.' <b>Culturefly</b><br /><br /><b>Readers LOVE One Golden Summer:</b><br /><br />'This book was everything I wanted it to be and more! I’m calling it now. This is going to be the Summer romance read of 2025!' <b>***** Reader Review</b><br /><br />'One Golden Summer is my favourite read this year. Hands down, the easiest 5 stars' <b>***** Reader Review</b><br />'This book is my absolute fav' <b>***** Reader Review</b><br /><br />'I’m so grateful I got to read this beautiful story, it was just what I needed for a bit of escapism! Good things happen at the lake'<b> ***** Reader Review</b><br /><br />'This was stunning. I loved the whole thing. The characters are incredible' <b>***** Reader Review</b><br /><br />'The must pick up Romance of 2025……. I absolutely fell in love and cannot recommend it enough'<b> ***** Reader Review</b>
+
+[View on Apple](https://books.apple.com/gb/book/one-golden-summer/id6636470088)
+
+<a id="what-we-can-know"></a>
+## What We Can Know
+
+![What We Can Know](../../logos/6741511331-f61d8e43.png)
+
+<b>The breathtaking new novel from Ian McEwan</b><br /><br /><b>‘A thumping literary mystery’ </b><i>Independent<br /></i><b>‘A gripping page-turner’</b> <i>Observer<br /></i><b>‘A beautiful novel, full of wisdom and heart. I loved it’ </b>Elif Shafak<br /><br /><i>2014:</i> A poem is read aloud once then vanishes without a trace.<br /><br /><i>2119: </i>A century later, the seas have risen and the world is under water. Those who remain are haunted by what’s been lost – and what might still be found.<br /><br />When university scholar Tom Metcalfe stumbles across a clue that may lead to the great lost poem, he reveals a story of entangled love and a brutal crime that challenges everything he thought he knew about the past…<br /><br /><b>READERS LOVE </b><i><b>WHAT WE CAN KNOW:<br /></b></i>‘Fantastic…a book I will treasure forever’<br />‘Brilliant, gripping, fascinating’<br />‘Makes you question everything you think you know’<br />‘A beautiful exploration of memory and love’<br />‘What a book. Utterly absorbing’<br /><br /><b>‘Rewarding and thought-provoking’ </b><i>Financial Times</i><br /><br /><b>‘A master storyteller’ </b><i>The Times</i><br /><br /><b>‘It gave me so much pleasure’ </b><i>New York Times</i><br /><br /><b>‘Haunting, playful and ultimately hopeful… A wonderful book’ </b>Kaliane Bradley<br /><br /><b>*A BOOK OF THE YEAR for the </b><b><i>Sunday Times</i></b><b>, </b><b><i>Guardian</i></b><b>, </b><b><i>New York Times</i></b><b>, </b><b><i>New Statesman</i></b><b>, </b><b><i>Spectator</i></b><b>, </b><b><i>New Yorker</i></b><b>, </b><b><i>i Paper</i></b><b> and Barack Obama*</b>
+
+[View on Apple](https://books.apple.com/gb/book/what-we-can-know/id6741511331)
+
+<a id="the-house-of-wolf"></a>
+## The House of Wolf
+
+![The House of Wolf](../../logos/6743436874-5e327717.png)
+
+'George RR Martin meets Terry Pratchett' <i><b>OBSERVER</b></i><br /><b><br />***NOW A <i>SUNDAY TIMES </i>BESTSELLER IN HARDBACK***</b><br /><b><br />Sir Tony Robinson - actor, presenter, historical expert and star of <i>Blackadder </i>and <i>Time Team</i> - makes his adult fiction debut with this earthy, entertaining and gloriously witty recreation of the Anglo-Saxons, Alfred the Great, and the making of England.</b><br /><br />'A page-turner full of historical intelligence, wit and heart' <b>DAN JONES</b><br /><br />'Brings the Anglo-Saxon world riotously to life' <b>S.J PARRIS</b><br /><br />'Entirely brilliant, a story and world vividly evoked'<b> KATE WILLIAMS</b><br /><br />'Every bit and wise, witty and entertaining as you would expect from one of our greatest storytellers'<b> MARK BILLINGHAM<br /></b><br />______<br /><br /><b>Rome</b><br />Father Asser is waiting to die.<br /><br />His idealism has landed him in a papal prison on trumped-up charges of heresy, until salvation arrives in an unexpected form. Cardinal Balotelli also dreams of a better world, free from the ravages of the Norlanders. He has a vital job for Asser, one that could shape the future of Europe.<br /><br /><b>Wessex</b><br />King Aethelwolf's power is fading, but none of his feckless children are fit to rule.<br /><br />His eldest sons would rather fight each other than the blood-thirsty Norland invaders. His daughter, Swift, is clever and cunning, but often blinded by her ambition. Finally there's Alfred, his once-promising younger son, whom nobody has seen in years.<br /><br />Then Wolf meets a young priest with a proposition from Rome that could change everything.<br /><br /><b>Lindisfarne</b><br />Rhiannon is a slave with a profound hatred for her Saxon captors. When she meets Guthrum, a Norlander hell-bent on wiping Wessex from the map, they set out on a journey of destruction.<br /><br /><b>So begins an epic struggle between greed and idealism, ambition and betrayal, freedom and tyranny. Because change always meets with resistance and, on the path to power, nobody can be trusted.</b><br /><br /><i>The House of Wolf</i> <i>appeared in the Sunday Times hardback bestseller chart in the week ending 20th September 2025.</i>
+
+[View on Apple](https://books.apple.com/gb/book/the-house-of-wolf/id6743436874)
+
+<a id="keeping-13"></a>
+## Keeping 13
+
+![Keeping 13](../../logos/6448654046-0edbc236.png)
+
+<b>An epic and unforgettable love story continues in <i>Keeping 13</i>, the second book in the international bestselling and TikTok-phenomenon The Boys of Tommen series, from Chloe Walsh.</b><br /><b> <br /> The power and pain of first love has never been more deeply felt than in Chloe Walsh's extraordinary stories about the irresistible Boys of Tommen, which will give you the ultimate book hangover.<br /><br /> The reader reaction to The Boys of Tommen says it all!</b><br /><b><br /> 'The chemistry, the love, everything about this book was so good it gave me all the feels . . . Beautiful book, beautiful words. Chloe Walsh you're my home'<br />⭐ ⭐ ⭐ ⭐ ⭐<br /><br />'Chloe Walsh has surpassed herself again, from the get-go you will be hooked, you will be sad, angry, elated, hysterical and you will absolutely love it!'<br />⭐ ⭐ ⭐ ⭐ ⭐<br /><br />'This was absolutely EVERYTHING. I find it difficult to even put into words just how much this book made me laugh, cry and swoon'<br />⭐ ⭐ ⭐ ⭐ ⭐<br /><br />'There aren't enough stars for this book. It has everything, I laughed, I cried, I fumed and I despaired . . . This is a rare book, one that evokes every emotion' <br />⭐ ⭐ ⭐ ⭐ ⭐</b><br /><br /> <b>.........................</b><br /><br /> <b>Falling in love was the easy part. What comes next is the test . . . </b><br /><br />Following a devastating injury that has left him sidelined and stripped of his beloved number 13 jersey, <b>Johnny Kavanagh</b> is struggling to hold onto his dreams. Lost, insecure, and desperately seeking comfort, he sets his sights on unravelling the mystery of the girl with the midnight-blue eyes, who haunts his every waking hour. <br /><br />Keeping secrets has never been a problem for <b>Shannon Lynch</b>. The life she was born into demands nothing less. She knows that demons and evil men don't just exist in fairytales. They exist in her world, too. Traumatized beyond repair after her return from Dublin, and desperate to protect her little brothers, Shannon finds herself falling into the same old cover-up, barely keeping her head above water, as her future unravels before her eyes. Beaten and broken, her walls are up and her trust is shaken. <br /><br />Only one boy has the ability to climb those walls. The boy who owns her heart. But secrets are about to be exposed and lives could be changed forever - can Johnny and Shannon's love survive?<br /> <b>.........................</b><br /> <b><br /> Want more of Johnny, Shannon and the rest of The Boys of Tommen? Read the rest of the series so far:</b><br /> <b><i>Binding 13</i></b><br /> <b><i>Keeping 13</i></b><br /> <b><i>Saving 6</i></b><br /> <b><i>Redeeming 6</i></b><br /><b><i>Taming 7 </i>- preorder Claire and Gibsie's story now!</b>
+
+[View on Apple](https://books.apple.com/gb/book/keeping-13/id6448654046)
+
+<a id="iron-flame"></a>
+## Iron Flame
+
+![Iron Flame](../../logos/6445193907-c35f5b35.png)
+
+<b>The instant number one <i>Sunday Times</i> bestseller and thrilling sequel to the global phenomenon, <i>Fourth Wing!</i></b><br /><br />'Yarros is the true inheritor of Harry Potter and inspires Hunger Games levels of devotion' <br /><i><b>GUARDIAN</b><br /><br /></i>'Fear not, levels of fighting, rebelliousness and all-around sexiness are still sky-high' <br /><i><b>DAILY MAIL</b><br /> </i><br /> 'Iron Flame is on course to set the world alight' <br /><b><i>GLAMOUR<br /></i></b><br />-<br /><br /> <b>SECRETS. SACRIFICE. SURVIVAL.<br /> </b><br /> Against all odds, Violet Sorrengail made it through her first year at Basgiath War College, but now, the <i>real</i> training begins. The stakes are higher than ever, and a determination to survive won't be enough this time.<br /><br /> When a powerful new enemy threatens everything she cares about, including the man she loves, Violet must do whatever it takes to keep their secrets safe. One wrong move could have horrifying consequences - and as the web of lies spun by those in charge starts to unravel, nothing, not even dragon fire, may be enough to save them in the end.<br /><br /> <b>THE DEADLY SECOND YEAR AT BASGIATH AWAITS</b><br /><br /><b>INCLUDES A BRAND-NEW BONUS CHAPTER FROM XADEN'S POINT OF VIEW!</b><br /><br />-<br /><br /><b> MILLIONS OF READERS HAVE ALREADY GIVEN THE EMPYREAN SERIES FIVE STARS. </b><br /><br /> 'This book contains an addictive, drug like essence that will make you relinquish all responsibility'<i> <b>Glamour </b></i><br /><br /> 'I couldn't put it down!' <b>Millie Bobby Brown</b><br /><br />'Incredible storytelling on every page' <b><i>The Sun</i></b><b>'</b>Pure escapism . . . We'd suggest savouring every moment' <b><i>Independent </i></b><br /><br />'Full of action, suspense and intrigue. This is the ride you have been waiting for, hold on tight' <b><i>Daily Mirror </i></b><br />'We weren't expecting to become obsessed . . . but we very much are and we're not alone' <b><i>Sunday</i></b><i> <b>Times</b> <b>Style</b></i><br /><br />'The new publishing sensation' <b><i>Daily</i></b><i> <b>Mail</b></i><br /><br />'A deliciously gripping dish, which I downed in one sitting' <b><i>Stylist</i></b><br /><br />'2024 is the Year of the Dragon . . . Dive into a fantasy narrative featuring these mythical, winged creatures' <b><i>Pop</i></b><i> <b>Sugar</b></i><br /><br />'One of the publishing events of the year' <b>BBC</b> <b>News</b><br /><br />'Prepare to get obsessed' <b><i>Cosmopolitan</i></b><br /><b><br />OTHER BOOKS IN THE EMPYREAN SERIES:</b><br />- FOURTH WING<br />- IRON FLAME<br />- ONYX STORM
+
+[View on Apple](https://books.apple.com/gb/book/iron-flame/id6445193907)
+
+<a id="the-legacy"></a>
+## The Legacy
+
+![The Legacy](../../logos/6466581837-d8133dd2.png)
+
+<b>Original Series now on Prime Video</b><br /><br /><b>Welcome to Briar U!</b><br /><br /><b><br />Get ready for your newest obsession . . . Discover the addictive world of the Off-Campus series from The Queen of Hockey Romance, Elle Kennedy!<br /></b><br /><b>Read <i>The Legacy </i>now for the much-anticipated answer to the question: Where are they now?</b><b></b><br /><br /><b>Four stories. Four couples. Three years of real life after graduation. . .</b><br /><br />A wedding.<br />A proposal.<br />An elopement.<br />And a surprise pregnancy.<br /><br />Life after college for Garrett and Hannah, Logan and Grace, Dean and Allie, and Tucker and Sabrina, isn't quite what they imagined it would be. Sure, they have each other, but they also have real-life problems that four years at Briar U didn't exactly prepare them for. As it turns out, for these four couples, love is the easy part. Growing up is a whole lot harder.<br /><br /><b>Come for the drama, stay for the laughs! Catch up with your </b><b>favourite</b><b> Off-Campus characters as they navigate the changes that come with growing up and discover that big decisions can have big consequences . . . and big rewards.</b><br /><br />***<br /><br /><b>Why fans love Elle Kennedy </b><b>⭐ ⭐ ⭐ ⭐ ⭐!</b><br /><br />'Delicious, complicated and drama-filled . . . I read it in one sitting, and you will, too'<b> L. J. Shen, <i>USA Today</i> bestselling author</b><br /><br />'A deliciously sexy story with a wallop of emotions that sneaks up on you' <b>Vi Keeland, <i>New York Times</i> bestselling author</b><br /><br />'This book had the ability to make me swoon one minute, put my heart in my throat the next, then literally make me burst right out laughing out of the blue' <b>Goodreads Review</b><br /><br />'The best college romance I've read. It had epic banter, sexy romance, and fantastic writing!! I laughed, I swooned, I couldn't put it down. Highly recommended!!' <b>Goodreads Review</b><br /><br />'Elle Kennedy proves, once again, that she is the Queen of College Hockey Romance!!'<b> Goodreads Review</b><br /><br />'5-Made My Heart Pitter Patter-Stars' <b>Goodreads Review</b><br /><br />'One of the few authors who can instantly put a grin on my face as soon as I start reading her books' <b>Goodreads Review</b>
+
+[View on Apple](https://books.apple.com/gb/book/the-legacy/id6466581837)
+
+<a id="no-country-for-old-men"></a>
+## No Country for Old Men
+
+![No Country for Old Men](../../logos/409370986-35a1c9f3.png)
+
+<b>A savage tale of violence and morality in the American West, Cormac McCarthy's <i>No Country for Old Men</i> follows a Vietnam veteran's dark path after stumbling upon a drug deal gone wrong.</b><br /><br /><b>Adapted for the screen by the Coen Brothers (<i>Fargo</i>, <i>True Grit</i>), winner of four Academy Awards (including Best Picture).</b><br /><br /><b>'A Western thriller with a racy plot and punchy dialogue' – <i>The Times</i></b><br /><br />1980. Llewelyn Moss is hunting antelope near the Rio Grande when he discovers the aftermath of a drug deal turned deadly. Finding bullet-ridden bodies, several kilos of heroin, and a caseload of cash, he faces a choice – walk away or take the money and run. Choosing the latter, he knows, will change everything.<br /><br />And so begins a terrifying chain of events, as each player in this brutal game seems determined to answer one question: how does a man decide in what order to abandon his life?<br /><br /><b>'It's hard to think of a contemporary writer more worth reading' – <i>Independent</i></b><br /><br /><b>Part of the Picador Collection, a series showcasing the best of modern literature.</b><br /><br />Praise for Cormac McCarthy:<br /><br />‘McCarthy worked close to some religious impulse, his books were terrifying and absolute’ – Anne Enright, author of The Green Road and <i>The Wren, The Wren</i><br /><br />'His prose takes on an almost biblical quality, hallucinatory in its effect and evangelical in its power' – Stephen King, author of <i>The Shining</i> and the Dark Tower series<br /><br />'In presenting the darker human impulses in his rich prose, [McCarthy] showed readers the necessity of facing up to existence' – Annie Proulx, author of <i>Brokeback Mountain</i><br /><br /><b>Part of the Picador Collection, a series showcasing the best of modern literature.</b>
+
+[View on Apple](https://books.apple.com/gb/book/no-country-for-old-men/id409370986)
+
+<a id="they-thought-i-was-dead-sandy-s-story"></a>
+## They Thought I Was Dead: Sandy's Story
+
+![They Thought I Was Dead: Sandy's Story](../../logos/6466819152-569d5617.png)
+
+<b>'One of the best British crime writers, and therefore one of the best in the world' - Lee Child</b><br /><br /><b>Peter James, the number one, multi-million copy bestselling author of the Grace series returns to finally reveal the events of Roy Grace’s tortured past – the truth behind his wife’s disappearance. Thrillingly told from her perspective, this is Sandy’s story.<br /><br />***</b><br /><br /><b>Some will know how it begins . . .</b><br /><br />My name is Sandy.<br />My husband is Detective Superintendent Roy Grace.<br />But when I disappeared, even he couldn't find me . . .<br /><br /><b>This is my story.</b><br /><br />There's more to Sandy than meets the eye. A woman with a dubious past, a complicated present and an uncertain future.<br />Then she was gone.<br /><br /><b>Some will think they know how it ends . . .</b><br /><br />Her disappearance caused a nationwide search. Even the best detective on the force couldn't find her.<br />They thought she was dead.<br /><br /><b>But nobody knows this . . .</b><br /><br />Where did she go? Why did she run? What would cause a woman to leave her whole life behind and<br />simply vanish?<br /><br /><b>For the first time the truth behind Sandy Grace’s dramatic disappearance is revealed. <i>They Thought I Was Dead</i> will thrill fans and new readers alike with its gripping story of a woman on the run. This is Sandy's story.</b><br /><br /><i>They Thought I was Dead </i>was an instant no.1 <i>Sunday Times</i> bestseller when it published in HB w/c 13/05/2024<br /><br /><b>***</b><br /><br /><b>23 million books sold.<br /><br />Creator of Her Majesty Queen Camilla’s favourite fictional detective.</b><br /><br /><b>'One of the best crime writers in the business' - Karin Slaughter, author of the Will Trent series</b><br /><br /><b>'This is the one I’ve been waiting for. And it’s a masterpiece of suspense. I quite literally couldn’t put it down - even when I was supposed to be doing other things . . .' - Barbara Erskine, author of <i>The Dream Weavers</i><br /><br />'Typically, <i>They Thought I Was Dead</i> is a brilliantly fast-paced thriller with more twists and turns than a Tour de France descent. No doubt it’ll be eagerly read by fans' - <i>Daily Express</i><br /><br />'One of the world’s most popular detective series' –</b> <b><i>The Guardian</i></b>
+
+[View on Apple](https://books.apple.com/gb/book/they-thought-i-was-dead-sandys-story/id6466819152)
+
+<a id="one-of-us"></a>
+## One of Us
+
+![One of Us](../../logos/6743101190-c005304b.png)
+
+‘Intelligent, darkly humorous and brilliantly written’ STANLEY TUCCI<br /><br />‘This is Elizabeth Day's writing at its finest’ DOLLY ALDERTON<br /><br />‘A tantalising portrait of privilege and power’ THE TIMES<br /><br />In this compulsive story of betrayal, old bonds and buried scandals, one British establishment family comes face to face with the consequences of privilege and the true cost of power.<br /><br />Martin and Ben were friends for decades — best friends, Martin would have said — before the terrible events at Ben’s 40th birthday party tore them apart. So when Martin receives a surprise invitation back into the inner sanctum of the dazzling Fitzmaurice family after seven years of silence, he can’t resist the chance to get his revenge.<br /><br />Ben has risen through the ranks of power, and is now touted as the next Prime Minister. But Martin can’t help but notice certain flies in the ointment… Ben’s wife, Serena, for instance, whose privileged existence is beginning to feel like a gilded cage. Or their daughter, Cosima, an environmental activist fighting against everything her parents once stood for. Or the disgraced MP Richard Take, determined to make his big comeback. And then there’s Fliss, the Fitzmaurice black sheep, whose untimely death sparks more suspicion than closure. Through their intertwined stories, we see a family – and a nation – unravelling under the weight of its secrets.<br /><br />With everyone watching, the stage is set for a reckoning. It's time for Martin and Ben to confront what love truly means when everything—family, power, and loyalty—is on the line.<br /><br />‘Speaks truth to power in such an entertaining, gripping way’ MARIAN KEYES<br /><br />‘This timely story about the abuse of power is one of those books you just want to inhale in one go’ GOOD HOUSEKEEPING<br /><br />‘Gorgeously written, utterly compelling, and full of characters you will love and hate – and also love to hate’ SARA COLLINS<br /><br />‘The thinking person’s thriller. Part Highsmith, part Waugh … A superbly gripping plot’ LUCY FOLEY<br /><br />About the author<br /><br />Elizabeth Day is the author of five novels and four works of non-fiction, including her Sunday Times bestselling novel Magpie, and hit memoir How to Fail. She is the creator and host of the chart-topping podcast How to Fail with Elizabeth Day.
+
+[View on Apple](https://books.apple.com/gb/book/one-of-us/id6743101190)
+
+<a id="the-correspondent"></a>
+## The Correspondent
+
+![The Correspondent](../../logos/6633417458-b13c454e.png)
+
+<b>WINNER OF THE WOMEN'S PRIZE FOR FICTION 2026</b><br /><b>A <i>SUNDAY TIMES </i>BESTSELLER</b><br /><b>THE #1  </b><i><b>NEW YORK TIMES  </b></i><b>BESTSELLER</b><br /><b>OVER TWO MILLION COPIES SOLD WORLDWIDE<br />A </b><i><b>TIMES</b>  </i><b>BOOK OF THE YEAR 2025</b><br /><b>AN <i>IRISH TIMES</i> BESTSELLER</b><br /><b>A BBC RADIO 2 BOOK CLUB PICK<br /></b><br />'A warm, funny gem of a novel'<br /><b>LAURA HACKETT, <i>THE TIMES</i></b><br /><br />'Masterful . . . I was delighted and moved'<br /><b><i>NEW YORK TIMES  </i></b><br /><br />'I can't praise it enough. It's an absolute triumph'<br /><b>CLARE CHAMBERS</b><br /><br />'What a novel! Tender, dry, sharp...devastating, but still feel good.'<br /><b>PANDORA SYKES    <br /></b><br />'Tremendous'<br /><b>FREDRIK BACKMAN</b><br /><br />'Shows us what a glorious thing growing older can be'<br /><b>FLORENCE KNAPP</b><br /><br />'The year's breakout novel no one saw coming'<br /><i><b>WALL STREET JOURNAL</b></i><br /><br />–<br />Sybil Van Antwerp is seventy-three, slowly losing her sight and always writing letters . . .<br /><br />To her children. Her favourite authors. Her ex-sister-in-law. The journalist poking into her past.<br />Her doctor. Suitors. Kindly neighbours. The infuriating gardening club.<br /><br />All receive Sybil’s witty, wise correspondence, rich with everyday concerns.<br /><br />But there is one letter that she has never sent. It concerns the darkest period of her life. To post it, Sybil must find forgiveness within herself.<br /><br />The hardest letter to write is the one you’d never dare to send.
+
+[View on Apple](https://books.apple.com/gb/book/the-correspondent/id6633417458)
+
+<a id="i-will-find-you"></a>
+## I Will Find You
+
+![I Will Find You](../../logos/6443100402-d4653fc6.png)
+
+<b>THE NO. 1 <i>SUNDAY TIMES </i>BESTSELLER</b><br /><br />*** NOW A MAJOR NETFLIX TV SERIES, STARRING SAM WORTHINGTON, BRITT LOWER AND MILO VENTIMIGLIA***<br /><br /><b>David and Cheryl Burroughs are living the dream - married, a beautiful house in the suburbs, a three year old son named Matthew - when tragedy strikes one night in the worst possible way.</b><br /><br />David awakes to find himself covered in blood, but not his own - his son's. And while he knows he did not murder his son, the overwhelming evidence against him puts him behind bars indefinitely.<br /><br />Five years into his imprisonment, Cheryl's sister arrives - and drops a bombshell.<br /><br />She's come with a photograph that a friend took on vacation at a theme park. The boy in the background seems familiar - and even though David realizes it can't be, he knows it is.<br /><br />It's Matthew, and he's still alive.<br /><br /><b>David plans a harrowing escape from prison, determined to do what seems impossible - save his son, clear his own name, and discover the real story of what happened that devastating night.</b><br /><b>______________</b><br /><br /><b>Readers are loving </b><i><b>I Will Find You . . .</b></i><br /><br />'A <b>thrilling roller-coaster </b>ride' 5-star reader review<br /><br />'Harlan at his <b>absolute best</b>!' 5-star reader review<br /><br />'<b>Couldn't put it down</b>' 5-star reader review<br /><br />'<b>Extremely action packed</b>, absolutely <b>heart pounding</b>' 5-star reader review<br /><br />'Such an <b>amazing</b> writer' 5-star reader review<br /><br />'An <b>electrifying </b>game of cat-and-mouse' 5-star reader review<br /><br /><b>_______________</b><br /><br /><b><i>Praise for Harlan Coben . . .</i></b><br /><br /><b>'Unbelievably brilliant'</b> RICHARD OSMAN<br /><br /><b>'A GREAT writer' </b>JOHN GRISHAM<br /><br /><b>'Never lets you down' </b>LEE CHILD<br /><br /><b>'Simply one of the all-time greats' </b>GILLIAN FLYNN<br /><br /><b>'The modern master of the hook and twist' </b>DAN BROWN<br /><br /><b>'One of the world's finest thriller writers'</b> PETER JAMES<br /><br />'The <b>king of the thriller</b> novel' JACK EDWARDS<br /><br /><i>I Will Find You </i>was a <i>Sunday Times </i>no. 1 bestseller 14/01/2024
+
+[View on Apple](https://books.apple.com/gb/book/i-will-find-you/id6443100402)
+
+<a id="just-friends"></a>
+## Just Friends
+
+![Just Friends](../../logos/6747976678-6fcbaee7.png)
+
+<b>This heart warming and swoon worthy second chance romance about childhood friends reconnecting as adults is the highly anticipated debut novel from BookTok icon Haley Pham.</b><br /><br /><b>* AN INSTANT NEW YORK TIMES BESTSELLER *</b><br /><br />Blair and Declan were inseparable growing up – best friends who knew each other better than anyone else. But when an impulsive kiss took them from friends to something more, everything changed. Just as quickly as their romance started, one moment shattered it all, leaving them with nothing but heartbreak and silence.<br /><br />Four years later, Blair is back in their coastal hometown of Seabrook to support her mom and care for her great-aunt Lottie. To make ends meet, Blair applies to work at a coffee shop – only to discover it’s managed by none other than Declan. The boy she loved. The boy she lost. The boy who still makes her heart race.<br /><br />As Blair’s path keeps crossing with Declan’s, old wounds resurface, secrets are revealed and sparks reignite. But could their future ever be free of their past?<br /><br /><b>Told in dual timelines that unravel the magic and pain of first love, </b><i><b>Just Friends</b></i><b> is a moving, romantic story about second chances, the weight of dreams and finding your way back to the people who feel like home.</b><br /><br /><b>Readers can't stop talking about </b><i><b>Just Friends . . .</b></i><br />‘Honestly, I was so <b>pleasantly surprised</b> and <b>completely blown away</b> by this book’<br />‘I cannot stress enough<b> how much fun I had with this book!</b>’<br />‘The ending had an <b>absolute chokehold </b>on me’<br />‘They didn’t feel like characters; they<b> felt like real people who had lived a whole life </b>before the pages even started’<br />‘This is a couple<b> I’ll be thinking about for a long time</b>’<br />‘This book<b> felt like having my favourite playlist on repeat</b>’<br />'It felt light, bright and sparkled like only some books do'
+
+[View on Apple](https://books.apple.com/gb/book/just-friends/id6747976678)
+
+<a id="the-only-one-left"></a>
+## The Only One Left
+
+![The Only One Left](../../logos/6445522533-ac2fde69.png)
+
+<b>Everyone believes that Lenora Hope is a mass murderer.</b><br /><br />When the Hope family was massacred decades ago, she was the only one left after that tragic night.<br /><br />Mute, paralysed and confined to a wheelchair, Lenora has never been able to tell her side of the story.<br /><br />Until her new live-in caregiver Kit brings her a typewriter.<br /><br />And with one working finger Lenora begins to type:<br /><br /><i>I want to tell you everything.<br /></i><br /><b>THE HEART-POUNDING GOTHIC THRILLER FROM THE INTERNATIONALLY BESTSELLING AUTHOR</b><br /><br /><b>Readers LOVE <i>The Only One Left:<br /></i></b><br />'<b>Plot twists on plot twists!</b> A story that keeps you guessing throughout' ⭐⭐⭐⭐⭐  <br /><br />'<b>Kept me guessing to the very end</b>'   ⭐⭐⭐⭐⭐  <br /><br />'I<b> literally couldn't leave this story alone</b>'   ⭐⭐⭐⭐⭐  <br /><br />'The tension throughout this book is so intense it is <b>breathtaking</b>'   ⭐⭐⭐⭐⭐  <br /><br />'I <b>devoured this in a single sitting</b>'   ⭐⭐⭐⭐⭐  <br /><br />'Laden with an abundance of twists and turns that are <b>truly mind-bending</b>' ⭐⭐⭐⭐⭐ <br /><br />'The ending though . . . <b>didn't see that one coming!'</b>   ⭐⭐⭐⭐⭐  <br /><br />'<b>Riley never fails</b> . . . now to wait for the next book...'   ⭐⭐⭐⭐⭐  <br /><br /><b>And your favourite authors love it too . . .<br /></b><br />'A master storyteller' ALEX MICHAELIDES<br />'Spine-chilling' RUTH WARE<br />'Twisty' SHARI LAPENA<br />'Addictive' STEPHANIE WROBEL<br />'Propulsive' ELLERY LLOYD<br />'Terrific' KARIN SLAUGHTER<br />'Shocking' LISA GARDNER
+
+[View on Apple](https://books.apple.com/gb/book/the-only-one-left/id6445522533)
+
 <a id="the-impossible-fortune"></a>
 ## The Impossible Fortune
 
@@ -521,6 +620,15 @@ Homer’s great epic of a hero’s journey home—inspiration for the major moti
 <b>THE UNMISSABLE NEW MYSTERY IN THE MULTI-MILLION-COPY BESTSELLING, RECORD-BREAKING <i>THURSDAY MURDER CLUB </i>SERIES</b><br /><br />‘Irresistible’ <b>LEE CHILD</b><br /><br />‘Funny, clever, compelling’ <b>HARLAN COBEN</b><br /><br />‘The rightful king of crime’ <b><i>i PAPER</i></b><br /><br />----------------------------<br /><br /><b>A wedding. A code. A murder. Time is ticking . . .</b><br /><br />It’s been a quiet year for the Thursday Murder Club. Joyce is busy with table plans and first dances. Elizabeth is grieving. Ron is dealing with family troubles, and Ibrahim is still providing therapy to his favourite criminal.<br /><br />But when Elizabeth meets a wedding guest who fears for their life, the thrill of the chase is ignited once again. A villain wants access to an uncrackable code and will stop at nothing to get it.<br /><br /><b>Plunged back into their most explosive investigation yet, can the gang solve the puzzle and a murder in time?</b><br /><br />Praise for Richard Osman and the Thursday Murder Club series<br /><br />‘So smart and funny. Deplorably good’ <b>IAN RANKIN</b><br /><br />‘Osman just gets better’ <b>SHARI LAPENA</b><br /><br />‘I smiled a million times’ <b>MARIAN KEYES</b><br /><br />‘Warm, wise and witty’ <b>VAL MCDERMID</b><br /><br />‘Brilliantly suspenseful’ <b>JEFFERY DEAVER</b><br /><br />'The thing that shines through in Osman’s writing is that he really likes people and revels in all their foibles and eccentricities . . . a delightful read' <b><i>OBSERVER</i></b><br /><br />‘Gripping and rather moving’ <b><i>SUNDAY TIMES</i></b><br /><br />‘The biggest new fiction author of the decade’ <b><i>GUARDIAN</i></b><br /><br />'Underestimate him at your own peril' <b><i>INDEPENDENT</i></b><br /><br />'Richard Osman seems incapable of missing' <b><i>THE TIMES</i></b>
 
 [View on Apple](https://books.apple.com/gb/book/the-impossible-fortune/id6723894411)
+
+<a id="the-kill-switch"></a>
+## The Kill Switch
+
+![The Kill Switch](../../logos/6758532495-b08ad20e.png)
+
+<b>The death of a Prime Minister is just the beginning in this brand-new explosive political thriller from the bestselling author of </b><i>The Whistleblower </i><b>that sees journalist Gil Peck embroiled in a high-stakes conspiracy. Perfect for fans of Robert Harris, Frank Gardner and Tom Bradby.</b><br /><br />'<i>HOUSE OF CARDS </i>MEETS <i>SEVERANCE </i>IN PESTON'S PACY, WILD AND MIND-BENDING NEW NOVEL THAT MAY BE CLOSER TO THE FUTURE THAN WE THINK' <b>- ED BALLS</b><br /><br />'A scintillating, edge-of-the-seat read' - <i><b>RADIO TIMES</b></i><br /><i></i>________________________<br /><br />Journalist Gil Peck has spent decades breaking stories about Britain's political elites, shining a light on the darkest corners of Whitehall.<br /><br />But when the Prime Minister, Stella Barnsbury, collapses during an interview on his podcast he finds himself at the centre of the scoop.<br /><br />Within 48 hours, the Prime Minister is dead. And when foul play is confirmed, Gil and his partner Jess - the last civilians to see Stella alive - become the prime suspects.  <br /><br />With everything on the line, Gil and Jess investigate the government's shadowy contract with a global tech giant - a deal that collapsed in the lead up to Stella's assassination. Was it just another government U-turn, motive for murder - or worse?<br /><br />In a brave new world of megalomaniac technocrats, malevolent AI super-intelligence and cutting-edge brain implants, Gil must confront a deadly, age-old question: how far will some go in the name of progress . . . and profit?<br /><br /><b>PRAISE FOR THE GIL PECK SERIES:</b><br /><b>'Brilliant' - THE TIMES</b><br /><b>'Cracking' - DAILY MAIL</b><br /><b>'Winning' - SUNDAY TIMES</b><br /><b>'A hell of a read' - OBSERVER</b><br /><b>'Enthralling' - FINANCIAL TIMES</b><br /><b>'Enjoyable, intelligent' - GUARDIAN</b><br /><b>'A romping thriller' - INDEPENDENT</b><br /><b>'A rollicking read' - EVENING STANDARD</b><br /><b>'A gripping thriller' - DAILY EXPRESS</b><br /><b>'Fascinating' - DAILY MIRROR</b><br /><b>'Gripping' - RADIO TIMES</b><br /><b>'Compelling' - THE SUN  </b>
+
+[View on Apple](https://books.apple.com/gb/book/the-kill-switch/id6758532495)
 
 <a id="old-girls-go-off-the-rails"></a>
 ## Old Girls Go Off the Rails
@@ -539,6 +647,15 @@ A BRAND NEW hilarious, uplifting read, full of friendship and fun - from BESTSEL
 <b>THE INSTANT <i>SUNDAY TIMES </i>BESTSELLER </b><br /><br />‘This book is a complete delight, not only a fairytale for adults that transports you on a magical journey of childlike wonder, but also a parable that helps you lead a better life’ - JAMES NORTON<br /><br />‘Magically hopeful. This story will speak to your soul and your monkey mind and bring them back into harmony. Beautiful and uplifting, charming and soul-nurturing, this is another glorious triumph from the beloved Matt Haig’ - DONNA ASHWORTH<br /><br /> ‘If you enjoyed <i>The Midnight Library, </i>you'll love this. <i>The Midnight Train</i> is exquisite storytelling and utterly brilliant. One of the most beautiful stories you'll ever experience’ - JOANNA CANNON<br /><b><br /><br />When your life flashes before your eyes, what will matter most?</b><br /><br />For Wilbur it was his time with Maggie, the love of his life. Their honeymoon in Venice. Before he threw it all away. <br /><br />Years later, on the brink of his own death, a train arrives. It can take Wilbur back in time. To relive his most important moments. Soon he realises just how much he would have changed…<br /><br />An adventure through time, <i>T</i><i>he </i><i>Midnight Train i</i>s a story of love and second chances, from the world of <i>Th</i><i>e </i><i>Midnight Library.</i>
 
 [View on Apple](https://books.apple.com/gb/book/the-midnight-train/id6753859092)
+
+<a id="the-summer-book"></a>
+## The Summer Book
+
+![The Summer Book](../../logos/6445573853-65f2e6a6.png)
+
+<b>Tove Jansson's classic, bestselling novel</b><br /><b><br />'Distils the essence of summer' Robert Macfarlane<br />'Magical, life-affirming' Elizabeth Gilbert<br /></b> <br />The Worldwide Classic about a tiny island and larger love.<br /><br />An elderly artist and her six-year-old grand-daughter while away a summer together on a tiny island in the gulf of Finland. As the two learn to adjust to each other's fears, whims and yearnings, a fierce yet understated love emerges - one that encompasses not only the summer inhabitants but the very island itself.<br /><br />Written in a clear, unsentimental style, full of brusque humour, and wisdom, <i>The Summer Book</i> is a profoundly life-affirming story. Tove Jansson captured much of her own life and spirit in the book, which was her favourite of her adult novels. With a foreword by Esther Freud and an afterword by Sophia Jansson (on whom the child 'Sophia' is based) who returns to the island during the pandemic at the point of becoming a grandmother herself.<br /><br />Includes a 15pp epilogue by Tove's niece Sophia Jansson - the inspiration for 'Sophia' - on a personal and moving return to the island.<br /><br /><b>'Eccentric, funny, wise, full of joys and small adventures. This is a book for life.' Esther Freud</b><br /><b><br />'Tove Jansson was a genius. This is a marvellous, beautiful, wise novel, which is also very funny.' Philip Pullman</b>
+
+[View on Apple](https://books.apple.com/gb/book/the-summer-book/id6445573853)
 
 <a id="bride"></a>
 ## Bride
@@ -567,6 +684,15 @@ The brand new summer romance set in Dream Harbor from the #1 New York Times best
 
 [View on Apple](https://books.apple.com/gb/book/the-daisy-chain-flower-shop/id6747247467)
 
+<a id="love-redesigned"></a>
+## Love Redesigned
+
+![Love Redesigned](../../logos/6445540915-f11e2cdb.png)
+
+<b>Meet the Lakefront Billionaires . . .</b><br /><br /><b><br />Get ready for another addictive romance from international bestselling author and TikTok sensation, Lauren Asher<br /></b><br /><br /><b>Julian</b><br />If I ever caught on fire, Dahlia Muñoz would fan the flames with a smile.<br />So, when she returns to Lake Wisteria, I fully intend to avoid the interior designer.<br />At least until my meddling mother exploits my saviour complex.<br />The faster I help Dahlia find her creative spark, the sooner she will leave town.<br />But while I was busy getting rid of Dahlia, I overlooked one potential issue.<br />What happens if I want her to stay?<br /><br /><b>Dahlia</b><br />People say the devil has many faces, but I know only one.<br />Julian Lopez - my childhood rival and family frenemy.<br />I vow to steer clear of him while recovering from my broken engagement, but then the billionaire makes an irresistible offer.<br />Renovate a historic house together and triple our profits.<br />Our temporary truce becomes compromised as we face years' worth of denied attraction and mixed emotions.<br />Giving into our desire is inevitable . . . but falling in love?<br />That isn't part of the plan.<br /><br />'Lauren Asher is an expert at giving readers everything they could ever want in a romance book. It's impossible to avoid becoming addicted to the world she builds' <b>Hannah Grace</b>
+
+[View on Apple](https://books.apple.com/gb/book/love-redesigned/id6445540915)
+
 <a id="the-hallmarked-man"></a>
 ## The Hallmarked Man
 
@@ -585,15 +711,6 @@ The brand new summer romance set in Dream Harbor from the #1 New York Times best
 
 [View on Apple](https://books.apple.com/gb/book/the-heist/id6761807202)
 
-<a id="keeping-13"></a>
-## Keeping 13
-
-![Keeping 13](../../logos/6448654046-0edbc236.png)
-
-<b>An epic and unforgettable love story continues in <i>Keeping 13</i>, the second book in the international bestselling and TikTok-phenomenon The Boys of Tommen series, from Chloe Walsh.</b><br /><b> <br /> The power and pain of first love has never been more deeply felt than in Chloe Walsh's extraordinary stories about the irresistible Boys of Tommen, which will give you the ultimate book hangover.<br /><br /> The reader reaction to The Boys of Tommen says it all!</b><br /><b><br /> 'The chemistry, the love, everything about this book was so good it gave me all the feels . . . Beautiful book, beautiful words. Chloe Walsh you're my home'<br />⭐ ⭐ ⭐ ⭐ ⭐<br /><br />'Chloe Walsh has surpassed herself again, from the get-go you will be hooked, you will be sad, angry, elated, hysterical and you will absolutely love it!'<br />⭐ ⭐ ⭐ ⭐ ⭐<br /><br />'This was absolutely EVERYTHING. I find it difficult to even put into words just how much this book made me laugh, cry and swoon'<br />⭐ ⭐ ⭐ ⭐ ⭐<br /><br />'There aren't enough stars for this book. It has everything, I laughed, I cried, I fumed and I despaired . . . This is a rare book, one that evokes every emotion' <br />⭐ ⭐ ⭐ ⭐ ⭐</b><br /><br /> <b>.........................</b><br /><br /> <b>Falling in love was the easy part. What comes next is the test . . . </b><br /><br />Following a devastating injury that has left him sidelined and stripped of his beloved number 13 jersey, <b>Johnny Kavanagh</b> is struggling to hold onto his dreams. Lost, insecure, and desperately seeking comfort, he sets his sights on unravelling the mystery of the girl with the midnight-blue eyes, who haunts his every waking hour. <br /><br />Keeping secrets has never been a problem for <b>Shannon Lynch</b>. The life she was born into demands nothing less. She knows that demons and evil men don't just exist in fairytales. They exist in her world, too. Traumatized beyond repair after her return from Dublin, and desperate to protect her little brothers, Shannon finds herself falling into the same old cover-up, barely keeping her head above water, as her future unravels before her eyes. Beaten and broken, her walls are up and her trust is shaken. <br /><br />Only one boy has the ability to climb those walls. The boy who owns her heart. But secrets are about to be exposed and lives could be changed forever - can Johnny and Shannon's love survive?<br /> <b>.........................</b><br /> <b><br /> Want more of Johnny, Shannon and the rest of The Boys of Tommen? Read the rest of the series so far:</b><br /> <b><i>Binding 13</i></b><br /> <b><i>Keeping 13</i></b><br /> <b><i>Saving 6</i></b><br /> <b><i>Redeeming 6</i></b><br /><b><i>Taming 7 </i>- preorder Claire and Gibsie's story now!</b>
-
-[View on Apple](https://books.apple.com/gb/book/keeping-13/id6448654046)
-
 <a id="blindsighted"></a>
 ## Blindsighted
 
@@ -603,32 +720,23 @@ The brand new summer romance set in Dream Harbor from the #1 New York Times best
 
 [View on Apple](https://books.apple.com/gb/book/blindsighted/id435976323)
 
-<a id="sisters-in-yellow"></a>
-## Sisters in Yellow
+<a id="london-falling"></a>
+## London Falling
 
-![Sisters in Yellow](../../logos/6749863003-093f0dab.png)
+![London Falling](../../logos/6748343068-8f9b3320.png)
 
-<b>The Instant <i>Sunday Times</i> Bestseller</b><br /><br /><b>'I can never forget the sense of pure astonishment I felt when I first read Mieko Kawakami'</b><br /><b>– Haruki Murakami</b><br /><br /><b>'The most exciting Japanese novelist at work today'<br />– <i>The Times</i></b><br /><br /><b>A heart-stopping story of teenage girls on the brink in 1990s Tokyo from the International Booker Prize-Shortlisted author of <i>Heaven</i> and <i>Breasts and Eggs</i>.</b><br /><br />Hana has nothing but she’s hopeful. She’s fifteen years old. She lives in a tiny apartment in a suburb of Tokyo with her young mother, a hostess at a local dive bar. They have no money, no security. Then Kimiko appears.<br /><br />Kimiko is older, a bright light in Hana’s dark world. Together they set up Lemon, a bar that, despite its shabby setting and seedy clientele, becomes a haven for Hana. Suddenly Hana has a job she loves, friends to share her days with, and the glittering promise of money. She feels like a normal girl. She feels invincible.<br /><br />But in the narrow alleys of Sangenjaya, nothing is as it seems. Soon all of Hana’s hope, her optimism, and her drive, will be tested to the limit . . .<br /><br />A story of enduring friendship and deep betrayal, Sisters in Yellow is a masterpiece of teenage dreams and adult cruelties that confirms Mieko Kawakami as one of the great writers of her generation.<br /><br /><b>'Relentlessly riveting . . . My heart felt very tender reading this'<br />– Frances Cha, author of <i>If I Had Your Face</i></b><br /><br /><b>Readers love <i>Sisters in Yellow</i>:</b><br /><br />'My new favourite book of ALL TIME. The ending absolutely destroyed me.'<br /><br />'A powerful, emotionally charged exploration of friendship, survival and the quiet brutality of inequality'<br /><br />'Mieko Kawakami doesn't need a high-speed chase to create tension; she lets a heavy, unsettling mood seep into the floorboards'<br /><br />'Confirms Kawakami’s place as one of the most vital voices in contemporary literature'<br /><br />'The character building is second to none . . . Mieko Kawakami is a generational talent'<br /><br />'This is Kawakami at her best. Not for a second does the pace let up.'
+<b>THE INSTANT <i>SUNDAY TIMES</i> No.1 BESTSELLER<br /><br />'A defining book of our time' - <i>The Times</i><br />'The master of the non-fiction narrative' - <i>The Sunday Times</i><br />'A masterpiece' - <i>The Observer</i><br />'Compulsive' - <i>The Guardian</i><br />'Exquisite . . . a masterpiece' <i>Financial Times</i><br />'Breathtaking' - Jon Ronson<br />'Completely engrossing' - Louis Theroux<br />'Phenomenal' - Emily Maitlis<br />'More addictive than any box set' - Sathnam Sanghera</b><br /><br /><b>A book of the summer in <i>The Times, The Guardian</i>, <i>The Independent</i>, <i>The Irish Times</i>, <i>The New York Times</i>, <i>Financial Times</i> and<i> The Atlantic</i><br /><br />From the Baillie Gifford Prize-winning and<i> Sunday Times </i>bestselling author of<i> Empire of Pain </i>and <i>Say Nothing </i>comes a riveting story of wealth, violence and deceit at the heart of a glittering city.</b><br /><br />In 2019, a London teenager, Zac Brettler, fell to his death from a luxury apartment building on the banks of the Thames. On a desperate quest to understand how their son had died, his grieving parents made a terrible discovery: Zac had been leading a fantasy life, posing as the son of a wealthy Russian oligarch.<br /><br />Patrick Radden Keefe follows Zac’s parents on a dark journey to find out what brought him to the balcony that night – and how a teenager’s life of make-believe drew him into the city’s terrifying underworld.
 
-[View on Apple](https://books.apple.com/gb/book/sisters-in-yellow/id6749863003)
+[View on Apple](https://books.apple.com/gb/book/london-falling/id6748343068)
 
-<a id="they-thought-i-was-dead-sandy-s-story"></a>
-## They Thought I Was Dead: Sandy's Story
+<a id="don-t-let-him-in"></a>
+## Don't Let Him In
 
-![They Thought I Was Dead: Sandy's Story](../../logos/6466819152-569d5617.png)
+![Don't Let Him In](../../logos/6648761977-01e08ba6.png)
 
-<b>'One of the best British crime writers, and therefore one of the best in the world' - Lee Child</b><br /><br /><b>Peter James, the number one, multi-million copy bestselling author of the Grace series returns to finally reveal the events of Roy Grace’s tortured past – the truth behind his wife’s disappearance. Thrillingly told from her perspective, this is Sandy’s story.<br /><br />***</b><br /><br /><b>Some will know how it begins . . .</b><br /><br />My name is Sandy.<br />My husband is Detective Superintendent Roy Grace.<br />But when I disappeared, even he couldn't find me . . .<br /><br /><b>This is my story.</b><br /><br />There's more to Sandy than meets the eye. A woman with a dubious past, a complicated present and an uncertain future.<br />Then she was gone.<br /><br /><b>Some will think they know how it ends . . .</b><br /><br />Her disappearance caused a nationwide search. Even the best detective on the force couldn't find her.<br />They thought she was dead.<br /><br /><b>But nobody knows this . . .</b><br /><br />Where did she go? Why did she run? What would cause a woman to leave her whole life behind and<br />simply vanish?<br /><br /><b>For the first time the truth behind Sandy Grace’s dramatic disappearance is revealed. <i>They Thought I Was Dead</i> will thrill fans and new readers alike with its gripping story of a woman on the run. This is Sandy's story.</b><br /><br /><i>They Thought I was Dead </i>was an instant no.1 <i>Sunday Times</i> bestseller when it published in HB w/c 13/05/2024<br /><br /><b>***</b><br /><br /><b>23 million books sold.<br /><br />Creator of Her Majesty Queen Camilla’s favourite fictional detective.</b><br /><br /><b>'One of the best crime writers in the business' - Karin Slaughter, author of the Will Trent series</b><br /><br /><b>'This is the one I’ve been waiting for. And it’s a masterpiece of suspense. I quite literally couldn’t put it down - even when I was supposed to be doing other things . . .' - Barbara Erskine, author of <i>The Dream Weavers</i><br /><br />'Typically, <i>They Thought I Was Dead</i> is a brilliantly fast-paced thriller with more twists and turns than a Tour de France descent. No doubt it’ll be eagerly read by fans' - <i>Daily Express</i><br /><br />'One of the world’s most popular detective series' –</b> <b><i>The Guardian</i></b>
+<b>PREPARE TO BE HOOKED BY THE GRIPPING NEW THRILLER FROM SUNDAY TIMES AND MULTI-MILLION-COPY BESTSELLER LISA JEWELL</b><br /><br /><b>'Gripping. Shocking. Masterful.' </b>FREIDA McFADDEN<br /><br />'A<b> thrilling chilling work of genius.' </b>CHRIS WHITAKER<br /><br />'<b>Utterly absorbing, fiendishly clever </b>and<b> all-consuming' </b>ANDREA MARA<br /><br /><b>___________</b><br /><br /><b>He’s the perfect man.</b><br /><br />He says he loves you.<br /><br />You think he might even be made for you.<br /><br />Before long he’s moved into your house – and into your heart.<br /><br />And then he leaves for days at a time. You don’t know where he’s gone or who he’s with.<br /><br />And you realise – if you looked back – you’d say to yourself:<br /><br /><b>DON’T LET HIM IN.</b><br /><br /><b>___________</b><br /><br /><b>Praise for<i> Don't Let Him In</i>:</b><br /><br />'Lisa Jewell is a <b>STONE COLD GENIUS</b>!<i> Don't Let Him In </i>is a <b>PHENOMENAL achievement</b>' MARIAN KEYES<br /><br />'A <b>taut, twisty masterclass </b>of a thriller' CLAIRE DOUGLAS<br /><br />'A <b>masterclass in suspense</b> with one of the most <b>chilling, unsettling </b>villains I've encountered in a long time' ALEX MICHAELIDES<br /><br />'<b>Hideously plausible </b>and<b> horribly unsettling</b>' HARRIET TYCE<br /><br /><b>‘A twisty mosaic of a thriller’</b> GILLIAN McALLISTER<br /><br />'Cancel all plans - this is a<b> read-in-one-sitting</b> book' ALICE FEENEY<br /><br />'I inhaled it within 24 hours. <b>Stunning, shocking, superb</b>.' LIZ NUGENT<br /><br />'<b>Creepy, twisty</b>, and compulsively readable. It <b>hooked me from the first page</b> and never let me go.’ EMILY HENRY<br /><br />'Lisa Jewell, the <b>Queen of sick psychopaths, has outdone herself </b>with Nick, and I am one hundred percent here for it!<b>' </b>TAMMY COHEN<br /><br />'<b>Utterly brilliant</b>' MARK EDWARDS<br /><br />'I <b>adored</b> the women, I loved the story, I loved the <b>twists</b>! A <b>masterclass</b>' SARAH PINBOROUGH<br /><br /><b>Readers love <i>Don't Let Him In</i>!:</b><br /><br />'An <b>absolute masterpiece t</b>hat keeps you<b> hooked</b> from start to finish' 5-star reader review<br /><br />'<b>Gripping, thrilling, jaw dropping, shocking, and twist filled</b>!' 5-star reader review<br /><br /><b>'Obsessed</b>!' 5-star reader review<br /><br />'An absolute <b>page turner</b>' 5-star reader review<br /><br /><b>'Twisty, fast paced</b>, and just an overall enjoyable read' 5-star reader review<br /><br />'Very <b>gripping, creepy, suspenseful' </b>5-star reader review<br /><br />'<b>I could not put it down!</b>' 5-star reader review
 
-[View on Apple](https://books.apple.com/gb/book/they-thought-i-was-dead-sandys-story/id6466819152)
-
-<a id="revenge-of-the-tipping-point"></a>
-## Revenge of the Tipping Point
-
-![Revenge of the Tipping Point](../../logos/6503185665-441f45fb.png)
-
-<i><b>'If the world can be moved by just the slightest push, then the person who knows where and when to push has real power. So who are those people? What are their intentions? What techniques are they using?'</b></i><br /><br /> Through a series of riveting stories, Gladwell traces the rise of a new and troubling form of social engineering. He takes us to the streets of Los Angeles to meet the world's most successful bank robbers, rediscovers a forgotten television show from the 1970s that changed the world, visits the site of a historic experiment on a tiny cul-de-sac in northern California, and offers an alternate history of two of the biggest epidemics of our day: COVID and the opioid crisis.<br /><br /> <i>Revenge of the Tipping Point</i> is Gladwell's most personal book yet. With his characteristic mix of storytelling and social science, he offers a guide to making sense of the contagions of the modern world. It's time to revisit social epidemics, and it's time we took their tipping points seriously.<br /><br /><b>'Addictive... fascinating and provocative'</b> <i>Guardian</i><br /><b>'Malcolm Gladwell explores the watershed moments that define this new age of societal upheaval... with curiosity and humor'</b> <i>TIME Magazine</i><br /><b>'Gladwell is a great storyteller with a contagious sense of curiosity' </b><i>The Economist</i><br /><b>'The match that so elegantly graced the cover of <i>The Tipping Point </i>is now on fire' </b><i>Wall Street Journal</i>
-
-[View on Apple](https://books.apple.com/gb/book/revenge-of-the-tipping-point/id6503185665)
+[View on Apple](https://books.apple.com/gb/book/dont-let-him-in/id6648761977)
 
 <a id="our-perfect-storm"></a>
 ## Our Perfect Storm
@@ -639,14 +747,77 @@ The brand new summer romance set in Dream Harbor from the #1 New York Times best
 
 [View on Apple](https://books.apple.com/gb/book/our-perfect-storm/id6751084359)
 
-<a id="just-friends"></a>
-## Just Friends
+<a id="the-chimp-paradox"></a>
+## The Chimp Paradox
 
-![Just Friends](../../logos/6747976678-6fcbaee7.png)
+![The Chimp Paradox](../../logos/482894788-cef09eaa.png)
 
-<b>This heart warming and swoon worthy second chance romance about childhood friends reconnecting as adults is the highly anticipated debut novel from BookTok icon Haley Pham.</b><br /><br /><b>* AN INSTANT NEW YORK TIMES BESTSELLER *</b><br /><br />Blair and Declan were inseparable growing up – best friends who knew each other better than anyone else. But when an impulsive kiss took them from friends to something more, everything changed. Just as quickly as their romance started, one moment shattered it all, leaving them with nothing but heartbreak and silence.<br /><br />Four years later, Blair is back in their coastal hometown of Seabrook to support her mom and care for her great-aunt Lottie. To make ends meet, Blair applies to work at a coffee shop – only to discover it’s managed by none other than Declan. The boy she loved. The boy she lost. The boy who still makes her heart race.<br /><br />As Blair’s path keeps crossing with Declan’s, old wounds resurface, secrets are revealed and sparks reignite. But could their future ever be free of their past?<br /><br /><b>Told in dual timelines that unravel the magic and pain of first love, </b><i><b>Just Friends</b></i><b> is a moving, romantic story about second chances, the weight of dreams and finding your way back to the people who feel like home.</b><br /><br /><b>Readers can't stop talking about </b><i><b>Just Friends . . .</b></i><br />‘Honestly, I was so <b>pleasantly surprised</b> and <b>completely blown away</b> by this book’<br />‘I cannot stress enough<b> how much fun I had with this book!</b>’<br />‘The ending had an <b>absolute chokehold </b>on me’<br />‘They didn’t feel like characters; they<b> felt like real people who had lived a whole life </b>before the pages even started’<br />‘This is a couple<b> I’ll be thinking about for a long time</b>’<br />‘This book<b> felt like having my favourite playlist on repeat</b>’<br />'It felt light, bright and sparkled like only some books do'
+<b>The groundbreaking mind management model designed to improve self-confidence, communicate effectively, and build success, from the award-winning psychiatrist. </b><br /><br />THE MILLION-COPY BESTSELLER<br /><br /><b>'The book that had the biggest impact on me' </b>Sir Gareth Southgate <br /><br /><b>‘The mind programme that helped me win my Olympic Golds’</b> Sir Chris Hoy<br /><br />Do you sabotage your own happiness and success? Are you struggling to make sense of yourself? Do your emotions sometimes dictate your life?<br /><br />In his revolutionary, science-backed bestseller, Dr Steve Peters introduces <i>The Chimp Paradox, </i>the powerful mind management model that can help you become a happier, confident, and more successful person.<br /><br />Drawing on years of research, Dr Peters explains the struggle that takes place within your mind and then shows how to apply this understanding to every area of your life so you can:<br />Recognise how your mind worksUnderstand and manage your emotions and thoughtsReduce anxiety and grow self-confidenceIdentify what is holding you backTake control and improve your decision-makingBuild success in both your personal and professional life<br /><br />Each chapter explores how your mind functions, highlighting key insights and practical exercises designed to help you see improvements in your daily life and build lasting emotional skills.<br /><br /><b>Packed with proven techniques and easy-to-follow guidance, <i>The Chimp Paradox</i> will help you develop the habits and mindset needed to become the person you want to be.</b><br /><br />Praise for <i>The Chimp Paradox:</i><br /><br />‘Steve Peters is <b>the most important person in my career’</b> Victoria Pendleton CBE, 2x Olympic Champion and 9x World Champion Cyclist<br /><br />‘This book is fantastic ... [it] really does offer <b>simple but effective ways to really improve your life</b>.’ Ronnie O'Sullivan, 7x World Snooker Champion<br /><br />‘Steve Peters is <b>a genius</b>.’ Dave Brailsford, Team Principal of UCI WorldTeam Ineos Grenadiers Cycling<br /><br />‘He is <b>the best</b>. I’ve played my most consistent form for Liverpool and England since seeing Steve.’ Steven Gerrard, manager and former professional footballer
 
-[View on Apple](https://books.apple.com/gb/book/just-friends/id6747976678)
+[View on Apple](https://books.apple.com/gb/book/the-chimp-paradox/id482894788)
+
+<a id="all-he-ll-ever-be"></a>
+## All He'll Ever Be
+
+![All He'll Ever Be](../../logos/1480993087-fb837c93.png)
+
+A&#xa0;<i>USA Today</i>&#xa0;bestselling, gripping and heart-wrenching romantic suspense. &#xa0;<br /><br />
+I get why Beauty fell in love with the Beast, but it doesn’t change who Carter is.&#xa0; There’s no magical rose or kiss that will turn him into a prince. &#xa0;<br /><br />
+All Carter Cross will ever be is a beast.&#xa0; A cold-hearted and ruthless, mafia king, trapped in a castle of his own making<br /><br />
+I’m the daughter of his enemy and his new possession.&#xa0; A mafia bargain for war. &#xa0;<br /><br />
+I thought that’s all I was to him, but I was never prepared for for the next page of our story… &#xa0;<br /><br />
+“Dark, sexy and incredibly masterful, Carter and Aria's story had me riveted from beginning to end…” - Nightbird Novels<br /><br />
+All He’ll Ever Be is the complete collection of the <i>USA Today</i>&#xa0;bestselling, Merciless series.&#xa0; It’s a dark, modern retelling of a tale as old as time.
+
+[View on Apple](https://books.apple.com/gb/book/all-hell-ever-be/id1480993087)
+
+<a id="the-black-loch"></a>
+## The Black Loch
+
+![The Black Loch](../../logos/6472585773-ffb45b3d.png)
+
+<b>THE RETURN OF FIN MACLEOD, PETER MAY'S MUCH-LOVED HERO OF THE INTERNATIONAL BESTSELLING LEWIS TRILOGY.</b><br /><br /><b>A MURDER</b><br /><br />The body of eighteen-year-old TV personality Caitlin is found abandoned on a remote beach at the head of <i>An Loch Dubh</i> - the Black Loch - on the west coast of the Isle of Lewis. A swimmer and canoeist, it is inconceivable that she could have drowned.<br /><br /><b>A SECRET</b><br /><br />Fin Macleod left the island ten years earlier to escape its memories. When he learns that his married son Fionnlagh had been having a clandestine affair with the dead girl and is suspected of her murder, he and Marsaili return to try and clear his name.<br /><br /><b>A RECKONING</b><br /><br />But nothing is as it seems, and the truth of the murder lies in a past that Fin would rather forget, and a tragedy at the cages of a salmon farm on East Loch Roag, where the tense climax of the story finds its resolution.<br /><br /><b><i>The Black Loch</i> takes us on a journey through family ties, hidden relationships and unforgiving landscapes, where suspense, violent revenge and revelation converge in the shadow of the Black Loch.</b>
+
+[View on Apple](https://books.apple.com/gb/book/the-black-loch/id6472585773)
+
+<a id="the-long-shoe"></a>
+## The Long Shoe
+
+![The Long Shoe](../../logos/6739306809-4b45b51c.png)
+
+<b>THE INSTANT BESTSELLER BY MULTI-MILLION COPY BESTSELLING AUTHOR BOB MORTIMER.</b><br /><br /><b>‘A touching story of human relationships’&#xa0;The Guardian</b><br /><b>‘A delight to read’&#xa0;Daily Express&#xa0;</b><br /><b>‘Characteristically offbeat and thoroughly amiable’&#xa0;Financial Time</b><br />&#xa0;<br />Bathroom salesman Matt is at a crossroads. He has lost his job, he is about to be made homeless and his girlfriend has left him. He wants his luck to change and he wants things to go back to how they were. Out of the blue he is offered a job that comes with a free luxury apartment. He hopes this might be enough to tempt her back. But, as events unfold, it starts to dawn on him that perhaps she didn't leave of her own accord after all...?<br /><br /><b>‘A genuinely unexpected storyline . . . Definitely good for&#xa0;a plane ride or holiday when you can settle in and soak&#xa0;up the idiosyncratic characters and startling plot twists.’&#xa0;***** The Daily Telegraph</b><br />&#xa0;<br /><b>Praise for Bob Mortimer:</b><br />&#xa0;<br />'As a comedian, Bob Mortimer spins a shaggy-dog story like nobody else' <i>The Guardian</i><br />&#xa0;<br />‘The much loved comic proves adept at noirish fiction in a debut whose surrealist humour sets it apart’ – <i>Observer</i><br /><br />‘Mortimer’s verbal specificity and off-kilter humour will keep his fans chuckling’ <i>The Times&#xa0;</i><br />&#xa0;<br />'There is&#xa0;a sweetness to his worldview that makes his writing gently poignant... Like Spike Milligan, the only vintage comic whose fiction is still read, Mortimer has managed to use a novel as a vehicle for his distinctive comedic voice' <i>The Telegraph</i>
+
+[View on Apple](https://books.apple.com/gb/book/the-long-shoe/id6739306809)
+
+<a id="what-if-reform-wins"></a>
+## What If Reform Wins
+
+![What If Reform Wins](../../logos/6759060990-e6bb7e11.png)
+
+&#39;The must-read UK politics book of the summer&#39; The Guardian<br/>
+<br/>
+&#39;A gripping and important book&#39; Andrew Marr<br/>
+<br/>
+&#39;By turns entertaining and downright terrifying&#39; The Telegraph<br/>
+<br/>
+A compulsive, chilling nonfiction thriller that imagines what could happen if Reform win a majority at the next general election.<br/>
+<br/>
+At 10pm on 28th June 2029, exit polls predict that Nigel Farage will be the 60th Prime Minister of the United Kingdom. This is the story of what could happen next.<br/>
+<br/>
+What If Reform Wins is a chilling and deeply researched scenario that takes us day-by-day, minute-by-minute through a world in which Reform has the opportunity to put their policies into practice, from deporting 600,000 people to leaving the ECHR, abandoning net zero and ending the BBC&#39;s licence fee.  How will people fight back against mass deportations and fracking?  And will this self-described &#39;ill-disciplined pirate ship&#39; survive the rigours of government?<br/>
+<br/>
+Drawing on dozens of new interviews, Peter Chappell, a reporter at The Times, explores a nation on a new and dystopian path.
+
+[View on Apple](https://books.apple.com/gb/book/what-if-reform-wins/id6759060990)
+
+<a id="embrace"></a>
+## Embrace
+
+![Embrace](../../logos/993719691-b595417e.png)
+
+Liam Parker crash landed into Laurie's life when everything else was crumbling all around her. Her marriage and career were in pieces and her mind was left spinning.<br /><br />But one touch from Liam, and Laurie could forget everything else around her.<br /><br />She thought she had it all figured out.<br /><br />As Laurie lost herself in Liam's warm caresses and his commanding blue eyes, her husband refused to go quietly into the night. While Laurie fought to move on, it was James who was working his way back into her life, fighting for the marriage they had once held dear.<br /><br />Forced to make choices she never imagined having to make, Laurie finally found herself on firm footing, knowing which way she was going to turn.<br /><br />But then life threw her another curveball. And when she once again began picking up the pieces, learning how to survive and rebuild after everything exploded, there was only one man still there, one man who remained by her side, showing her that sometimes life isn't about learning how to survive…<br /><br />It's about learning how to thrive.
+
+[View on Apple](https://books.apple.com/gb/book/embrace/id993719691)
 
 <a id="dolly-all-the-time"></a>
 ## Dolly All the Time
@@ -687,320 +858,6 @@ PRAISE FOR DOLLY ALL THE TIME:<br/>
 
 [View on Apple](https://books.apple.com/gb/book/atomic-habits/id1374709151)
 
-<a id="lost-until-love"></a>
-## Lost Until Love
-
-![Lost Until Love](../../logos/6753777192-406d9c33.png)
-
-<b><i>'It's important for me to talk about everything that's happened to me in my life, to be open about it, because when you share something that you've gone through, and survived, it helps other people going through something similar. You aren't alone. And you are enough.</i>'</b>  <br /><br /> In the summer of 2026, it is ten years since Olivia Bowen appeared on the second series of<i> Love Island</i>, finishing as a runner up with her partner, Alex. A true love story, the couple remain the longest standing success story of the show's entire history, now married with two beautiful children, Abel and Siena Grace.<br /><br />Yet the last decade for Olivia has been a very different experience from her life before, where she'd struggled to navigate family disruption, unhealthy relationships and a battle with depression and anxiety.<br /><br /> In <i>Lost Until Love</i>, Olivia reflects on her life, sharing with her devoted followers what really drove her to enter the <i>Love Island</i> villa, as well as giving exclusive insight behind-the-scenes at Casa Amor, her relationship with Alex, and the many varied - and sometimes unexpected! - experiences and opportunities the show has brought her since. <br /><br />Olivia also explores her raw journey of motherhood, as well as the devastating loss of her twin daughter while pregnant with Siena Grace and how this has changed her outlook on life and her future. Through the highs, lows and self-reflection, Olivia has finally created an authentic blueprint for her life that she hopes will inspire others to seek out their turning point and reach for their dreams.<br /><br /><i> Lost Until Love</i> is a love letter to Olivia's younger self; it might be Olivia's own story but the hope and learnings between these pages are for every person who wants to own, learn, and turn their story into a life well lived and loved.<br /><br /><b><i>'Applying to be on Love Island wasn't my dream, I didn't set out aiming to win it or believe it was going to be a life-changing opportunity. It was just a chance for me to escape from where I was, it piqued my interest. And I would encourage anyone who feels that spark of intrigue </i><i>to do the same. It's like following little breadcrumbs... You might not know where they will lead but if it feels right to follow the trail, you should do it!'</i></b>
-
-[View on Apple](https://books.apple.com/gb/book/lost-until-love/id6753777192)
-
-<a id="the-only-one-left"></a>
-## The Only One Left
-
-![The Only One Left](../../logos/6445522533-ac2fde69.png)
-
-<b>Everyone believes that Lenora Hope is a mass murderer.</b><br /><br />When the Hope family was massacred decades ago, she was the only one left after that tragic night.<br /><br />Mute, paralysed and confined to a wheelchair, Lenora has never been able to tell her side of the story.<br /><br />Until her new live-in caregiver Kit brings her a typewriter.<br /><br />And with one working finger Lenora begins to type:<br /><br /><i>I want to tell you everything.<br /></i><br /><b>THE HEART-POUNDING GOTHIC THRILLER FROM THE INTERNATIONALLY BESTSELLING AUTHOR</b><br /><br /><b>Readers LOVE <i>The Only One Left:<br /></i></b><br />'<b>Plot twists on plot twists!</b> A story that keeps you guessing throughout' ⭐⭐⭐⭐⭐  <br /><br />'<b>Kept me guessing to the very end</b>'   ⭐⭐⭐⭐⭐  <br /><br />'I<b> literally couldn't leave this story alone</b>'   ⭐⭐⭐⭐⭐  <br /><br />'The tension throughout this book is so intense it is <b>breathtaking</b>'   ⭐⭐⭐⭐⭐  <br /><br />'I <b>devoured this in a single sitting</b>'   ⭐⭐⭐⭐⭐  <br /><br />'Laden with an abundance of twists and turns that are <b>truly mind-bending</b>' ⭐⭐⭐⭐⭐ <br /><br />'The ending though . . . <b>didn't see that one coming!'</b>   ⭐⭐⭐⭐⭐  <br /><br />'<b>Riley never fails</b> . . . now to wait for the next book...'   ⭐⭐⭐⭐⭐  <br /><br /><b>And your favourite authors love it too . . .<br /></b><br />'A master storyteller' ALEX MICHAELIDES<br />'Spine-chilling' RUTH WARE<br />'Twisty' SHARI LAPENA<br />'Addictive' STEPHANIE WROBEL<br />'Propulsive' ELLERY LLOYD<br />'Terrific' KARIN SLAUGHTER<br />'Shocking' LISA GARDNER
-
-[View on Apple](https://books.apple.com/gb/book/the-only-one-left/id6445522533)
-
-<a id="a-court-of-wings-and-ruin"></a>
-## A Court of Wings and Ruin
-
-![A Court of Wings and Ruin](../../logos/1487235488-64ad13c9.png)
-
-Coming soon … return to Prythian with TWO new books in the A Court of Thorns and Roses series. Pre-order ACOTAR 6 for 27th October 26, and ACOTAR 7 for 12th January 27.<br/>
-<br/>
-The third instalment of the GLOBAL PHENOMENON, romantic fantasy epic and TikTok sensation, ACOTAR. From multi-million and #1 Sunday Times bestselling author Sarah J. Maas.<br/>
-<br/>
-Maas has established herself as a fantasy fiction titan - Time<br/>
-Think Game of Thrones meets Buffy the Vampire Slayer with a drizzle of E.L. James – Telegraph<br/>
-Spiced with slick plotting and atmospheric world-building ... a page-turning delight – Guardian<br/>
-Sarah J. Maas does not disappoint … To be devoured with relish – Mail<br/>
-<br/>
-******<br/>
-Feyre has returned to the Spring Court, determined to gather information on Tamlin&#39;s manoeuvrings and the invading king threatening to bring her land to its knees. But to do so she must play a deadly game of deceit – and one slip may spell doom not only for Feyre, but for her world as well.<br/>
-<br/>
-As war bears down upon them all, Feyre must decide who to trust amongst the dazzling and lethal High Lords and hunt for allies in unexpected places. And her heart will face the ultimate test as she and her mate are forced to question whether they can truly trust each other.<br/>
-<br/>
-Sarah J. Maas&#39;s books have sold millions of copies and have been translated into 38 languages. Discover the sweeping romantic fantasy that everyone&#39;s talking about for yourself.
-
-[View on Apple](https://books.apple.com/gb/book/a-court-of-wings-and-ruin/id1487235488)
-
-<a id="the-spy-and-the-traitor"></a>
-## The Spy and the Traitor
-
-![The Spy and the Traitor](../../logos/1353868645-343194d5.png)
-
-<b>THE NO.1 <i>SUNDAY TIMES</i> BESTSELLER </b><br /><br /><b>An exciting Cold War story about a KGB double agent, by one of Britain's greatest historians and the ultimate gift for anyone who loves a good spy thriller!</b><br /><br /><b>'The best true spy story I have ever read' John le Carré</b><br /><b><i>________________</i></b><br /><br />On a warm July evening in 1985, a middle-aged man stood on the pavement of a busy avenue in the heart of Moscow, holding a plastic carrier bag. In his grey suit and tie, he looked like any other Soviet citizen. The bag alone was mildly conspicuous, printed with the red logo of Safeway, the British supermarket.<br /><br />The man was a spy. A senior KGB officer, for more than a decade he had supplied his British spymasters with a stream of priceless secrets from deep within the Soviet intelligence machine. No spy had done more to damage the KGB. The Safeway bag was a signal: to activate his escape plan to be smuggled out of Soviet Russia. So began one of the boldest and most extraordinary episodes in the history of spying.<br /><br />Ben Macintyre reveals a tale of espionage, betrayal and raw courage that changed the course of the Cold War forever . . .<br /><b><i>________________</i></b><br /><br /><b>'The world's most important spy since the Second World War. Mercilessly gripping' </b><i>Sunday Times</i><br /><br /><b>'Extraordinary. His best book yet' </b>John Preston, <i>Evening Standard</i><br /><br /><b>'A remarkable story of one man's courage' </b><i>The Times, Book of the Week</i><br /><br /><b>BEN MACINTYRE'S NEXT BOOK, <i>REDWOOD</i>, IS AVAILABLE FOR PRE-ORDER NOW</b><br /><br />Ben Macintyre, <i>Sunday Times </i>bestseller, August 2023
-
-[View on Apple](https://books.apple.com/gb/book/the-spy-and-the-traitor/id1353868645)
-
-<a id="the-villa-of-secrets"></a>
-## The Villa of Secrets
-
-![The Villa of Secrets](../../logos/6762262494-5887ff52.png)
-
-A BRAND NEW escapist, getaway read set in beautiful Greece🍋🇬🇷 Perfect for fans of of Victoria Hislop, Carol Kirkwood and Karen Swan☀️<br /><br />Can a stay at a magical villa help her find her way to start again?<br /><br />When Cleo arrives at Villa Ariadne on the sun-drenched island of Crete, she’s hoping for space to breathe – and perhaps some clarity about the life she no longer recognises. Newly divorced and estranged from one of her children, she’s not sure what comes next.<br /><br />Sharing the villa with a small group of women, each carrying their own private heartaches, Cleo is drawn into the gentle rhythm of island life. Beneath the lemon trees and endless blue skies, friendships begin to form and long-buried hopes stir.<br /><br />But when an unexpected event shakes their peaceful escape, the women are forced to come together in ways none of them anticipated. And as Villa Ariadne works its quiet magic once more, Cleo may discover that even in uncertainty, second chances are still possible.<br /><br />Praise for Emma Burstall:<br /><br />With a delightful Greek backdrop and an enticing mix of a fractured family, strained friendships, plus a healthy dose of mystery, love and loss, Beneath the Lemon Trees is a gorgeous summer escape' Kate Frost<br /><br />'A wonderful escapist novel – mysteries, revelation and happy endings make it a perfect summer read' Rachel Burton<br /><br />'Brilliant' Phillipa Ashley<br /><br />'A novel to lose yourself in' Faith Hogan<br /><br />'Step into a world of pure escapism in this gripping tale of family secrets, sibling rivalry and summer romance' Chat Magazine<br /><br />'A charming, warm-hearted read... Pure escapism' Alice Peterson<br /><br />'Burstall is a great writer, and this is not your usual run-of-the-mill chick lit... I was gripped from the start' Daily Mail<br /><br />'Burstall has a true knack for transporting you to her world' Jane Corry<br /><br />‘Wow, what an incredible rollercoaster of a read! From the minute I picked up this book, I was swept away by the vividly described landscapes and mouthwatering descriptions of Crete's delectable cuisine.’ Reader Review ⭐️⭐️⭐️⭐️⭐️<br /><br />‘Fabulous, fabulous book, loved every minute of it. The storyline, the varied characters. The setting made me feel I was on holiday.’ Reader Review ⭐️⭐️⭐️⭐️⭐️<br /><br />‘Loved it. A magical villa, a broken family, a dead best friends husband being awkward, beautiful food descriptions, clear blue seas. Just read and escape. Perfect for September blues.’ Reader Review ⭐️⭐️⭐️⭐️⭐️<br /><br />‘Heartwarming and heartbreaking in equal measures! I loved this book so much and could relate to it and the characters! Beautifully written, really made you feel like you were right there in Greece!’ Reader Review ⭐️⭐️⭐️⭐️⭐️<br /><br />‘A charming book about marriage, grief, friendship and parenting, all set in a charming villa under the Cretan sun.’ Reader Review ⭐️⭐️⭐️⭐️⭐️<br /><br />‘What a lovely story, full of loss and grief, love and hope.’ Reader Review ⭐️⭐️⭐️⭐️⭐️
-
-[View on Apple](https://books.apple.com/gb/book/the-villa-of-secrets/id6762262494)
-
-<a id="love-song"></a>
-## Love Song
-
-![Love Song](../../logos/6744823016-11c41e5d.png)
-
-<b>*The limited deluxe edition includes inside printing artwork*</b><br /><br /><b>Featuring the love story of the next generation of the beloved and iconic Off-Campus couples from The Deal and The Mistake - coming to TV on Amazon Prime in May...</b><br /><br />New York Times bestselling author Elle Kennedy returns with her signature heat and humor for a Briar universe standalone romance - where one unforgettable summer changes everything.<br /><br />Join us at the Logan family lake house in Tahoe...<br /><br />After a brutal breakup, college junior Blake Logan escapes to her family's lake house in Tahoe, determined to shut out the world. Her plan is simple: no men, no drama. Until Wyatt Graham shows up. Four years older and far too good at getting under her skin, Wyatt is the living embodiment of a "bad idea," and the guy who shattered her pride when she confessed her crush at sixteen.<br /><br />With his music career stalled, Wyatt has come to Tahoe for inspiration. The last thing he expects is to find it with Blake. He's spent years keeping his distance, convinced he's all wrong for her, but she's no longer the innocent girl he once knew. She's confident, captivating, and impossible to ignore. And the slow-burning tension between them? It's catching fire fast.<br /><br />They both know this can't last, but one reckless kiss turns into another, and soon they're tangled in something that feels dangerously like more. Just as they finally give in to the pull, tragedy tears them apart, leaving their hearts in pieces.<br /><br />But forgetting that one, nearly perfect summer? Not a chance. And when fate brings them together again, Blake and Wyatt must decide if this is a second chance...or the final verse.
-
-[View on Apple](https://books.apple.com/gb/book/love-song/id6744823016)
-
-<a id="having-spent-life-seeking"></a>
-## Having Spent Life Seeking
-
-![Having Spent Life Seeking](../../logos/6749034297-8064914d.png)
-
-<b>*Dua Lipa's Service95 Book Club Pick for June 2026*<br /><br />'Trust me, you will love these characters' DUA LIPA<br />'Amazing, it really moved me' SHON FAYE<br />'If books can still change the world, this one most likely will' COLUM MCCANN</b><br /><br /><b>Rothko Taylor has washed up with the tide, back in their hometown, Edgecliff. Fifteen years since they left it behind.</b><br /><br />The past is accelerating towards them: the skateboard kids on the high street that remind them of their teenage years, the splintered benches looking out to sea, where their mum Meg clutched her cans. The nice bit of town, where their dad Ezra tried and failed to build a happy home. And Dionne's block. Beautiful, extraordinary Dionne, the only person who had ever looked at them and seen what was there.<br /><br />Back then, overwhelmed and full of fear, they sank beneath the surface into chaos. But they made it out alive. And this time, Rothko is determined that things will be different.<br /><br /><b>'A scorching story of love, change, homecoming and forgiveness' DAWN FRENCH</b><br /><br /><b>'A wonderful, moving and enlightening state-of-Britain novel' IRVINE WELSH</b><br /><br /><b>'A master-craftsman of deep feeling and linguistic intimacy' MAX PORTER<br /><br />'Kae Tempest at his finest' ANTHONY SHAPLAND<br /><br />'Unboundedly beautiful' MICHAEL PEDERSEN</b>
-
-[View on Apple](https://books.apple.com/gb/book/having-spent-life-seeking/id6749034297)
-
-<a id="verity"></a>
-## Verity
-
-![Verity](../../logos/1598523213-93bafc8b.png)
-
-<b>Colleen Hoover brought you the beautiful, unforgettable <i>It Ends With Us</i>. Now, discover her thriller with a twist that will leave you reeling . . . <i>Verity </i>is a global word-of-mouth hit, with over a million five-star reviews from readers, and now adapted into a major film starring Anne Hathaway and Dakota Johnson.</b><br /><br />Lowen Ashleigh is a struggling writer on the brink of financial ruin when she accepts the job offer of a lifetime. Jeremy Crawford, husband of bestselling author Verity Crawford, has hired Lowen to complete the remaining books in a successful series his injured wife is unable to finish.<br /><br />Lowen arrives at the Crawford home, ready to sort through years of Verity's notes and outlines, hoping to find enough material to get her started. What Lowen doesn't expect to uncover in the chaotic office is an unfinished autobiography Verity never intended for anyone to read. Page after page of bone-chilling admissions, including Verity's recollection of the night their family was forever altered.<br /><br />Lowen decides to keep the manuscript hidden from Jeremy, knowing its contents would devastate the already-grieving father. But as Lowen's feelings for Jeremy begin to intensify, she recognizes all the ways she could benefit if he were to read his wife's words. After all, no matter how devoted Jeremy is to his injured wife, a truth this horrifying would make it impossible for him to continue loving her . . .
-
-[View on Apple](https://books.apple.com/gb/book/verity/id1598523213)
-
-<a id="men-in-love"></a>
-## Men in Love
-
-![Men in Love](../../logos/6738942232-fef91bc1.png)
-
-<b>Choose life. Choose love? The </b><b><i>Trainspotting</i></b><b> crew fall for rave and romance in Irvine Welsh</b><b>’</b><b>s exhilarating new novel.</b><br /><br /><b><br />‘</b><b>Propulsive, hilarious and bittersweet in equal measure</b><b>’</b> <i>GQ</i><br /><br />It’s the late 1980s. Separated after a drug deal gone wrong, Renton, Sick Boy, Spud and Begbie each want to feel alive. They fill their days with sex and romance and trying to get ahead; they follow the call of the dance floor, with its promise of joy and redemption.<br /><br />Sick Boy begins an intense relationship with Amanda – rich, connected, his ‘princess’. When the pair set a date for their wedding, he sees a chance for his generation to take control at last. <br /><br />But as the 1990s dawn, will finding love be the answer to the group’s dreams or just another doomed quest?<br /><br /><b>*A Best Summer Read for the <i>New York Times</i>, <i>Guardian</i>, <i>i Paper </i>and <i>Esquire</i>*</b><br /><br /><b>‘</b><b>His paciest, funniest, most page-turning book in years</b><b>’</b> <i>SCOTSMAN</i><br /><br /><b>‘</b><b>There</b><b>’</b><b>s no slacking in either the pace or the energy</b><b>’</b> <i>FINANCIAL TIMES</i><br /><b><br />‘</b><b>These characters remain alive on the page</b><b>’</b> <i>DAILY MAIL</i><br /><br /><b>‘</b><b>Brilliant</b><b>’</b> <i>SUNDAY EXPRESS</i><br /><br /><b>**PRE-ORDER IRVINE WELSH’S NEXT NOVEL </b><b><i>CAN NOTHING SAVE US? </i></b><b>NOW**</b><br /><br />(<i>Men in Love</i> was a #4 <i>Sunday Times</i> bestseller, July 2025)
-
-[View on Apple](https://books.apple.com/gb/book/men-in-love/id6738942232)
-
-<a id="my-name-is-lucy-barton"></a>
-## My Name Is Lucy Barton
-
-![My Name Is Lucy Barton](../../logos/1047478196-8ff6e86c.png)
-
-<b>A #1 NEW YORK TIMES BESTSELLER</b><br /><b>LONGLISTED FOR THE MAN BOOKER PRIZE &amp;</b><b> THE WOMEN'S PRIZE FOR FICTION</b><br /><br /><b>An exquisite story of mothers and daughters from the Pulitzer prize-winning author of <i>Olive Kitteridge</i></b><br /><br />Lucy is recovering from an operation in a New York hospital when she wakes to find her estranged mother sitting by her bed. They have not seen one another in years. As they talk Lucy finds herself recalling her troubled rural childhood and how it was she eventually arrived in the big city, got married and had children. But this unexpected visit leaves her doubting the life she's made: wondering what is lost and what has yet to be found.<br /><br /><b>The story continues in <i>Anything is Possible</i>, <i>Oh William! </i>and <i>Lucy by the Sea</i>, available to read now!</b><br /><br />*****<br /><br /><b>'A terrific writer' Zadie Smith</b><br /><br /><b>'A superbly gifted storyteller and a craftswoman in a league of her own' Hilary Mantel</b><br /><br /><b>'So good it gave me goosebumps. One of the best writers in America' <i>Sunday Times<br /><br /></i></b><b>Elizabeth Strout's new novel <i>Tell Me Everything </i>is out now!</b>
-
-[View on Apple](https://books.apple.com/gb/book/my-name-is-lucy-barton/id1047478196)
-
-<a id="lost-lambs"></a>
-## Lost Lambs
-
-![Lost Lambs](../../logos/6745533976-cdf8561e.png)
-
-<b>SHORTLISTED FOR THE WATERSTONES DEBUT FICTION PRIZE 2026</b><br /><br />‘EXTREMELY SMART, IMPOSSIBLY FUNNY, AND JUST PLAIN FUN TO READ’ <b>CARO CLAIRE BURKE, AUTHOR OF <i>YESTERYEAR</i></b><br /><br />‘A VOICE LIKE NO OTHER’ <b>LENA DUNHAM </b><br /><br /><b>Think your family is dysfunctional? Meet the Flynns.</b><br /><br />For the three Flynn daughters, it’s been disastrous since their parents opened up their marriage. Abigail, the eldest, is dating an ex-soldier several years her senior nicknamed ‘War Crimes Wes’. Louise, the middle child, maintains a secret correspondence with an online terrorist. And the brilliant youngest, Harper, is being sent to a wilderness reform camp due to her insistence that someone – or something – is monitoring the town’s citizens.<br /><br />Casting a shadow across their lives is Paul Alabaster, a nefarious local billionaire. Rumours of corruption circulate, but no one dares dig too deep. No one except Harper, whose obsession with Alabaster’s machinations sends the family hurtling into a criminal conspiracy – one that may just, finally, bring them closer together.<br /><br /><b>The instant</b> <b><i>Sunday Times</i></b> <b>bestseller</b><br /><br />‘THE MOST WILDLY ORIGINAL BOOK OF THE YEAR’ <b><i>HARPER’S BAZAAR</i></b><br /><br />‘THE DEBUT NOVEL FOR 2026 THAT HAS UNDOUBTEDLY BEEN THE MOST SHOUTED ABOUT’ <b><i>THE SUNDAY TIMES STYLE</i></b><br /><br />‘A DARKLY FUNNY FAMILY SAGA’ <b><i>BUSTLE</i></b><br /><br />‘AN INSTANT CLASSIC’ <b><i>SHORTLIST</i></b><br /><br />Readers love LOST LAMBS<br />‘What a ROMP!’ ⭐ ⭐ ⭐ ⭐ ⭐<br />‘The hype is real!’ ⭐ ⭐ ⭐ ⭐ ⭐<br />‘Hilarious, weird, original and addictive!’ ⭐ ⭐ ⭐ ⭐ ⭐<br />‘If Wes Anderson wrote <i>Little Women</i>.’ ⭐ ⭐ ⭐ ⭐ ⭐<br />‘I’m shouting it from every rooftop: THIS IS THE BOOK OF THE YEAR!’ ⭐ ⭐ ⭐ ⭐ ⭐<br />‘Perhaps the funniest book I’ve ever read.’ ⭐ ⭐ ⭐ ⭐ ⭐
-
-[View on Apple](https://books.apple.com/gb/book/lost-lambs/id6745533976)
-
-<a id="love-redesigned"></a>
-## Love Redesigned
-
-![Love Redesigned](../../logos/6445540915-f11e2cdb.png)
-
-<b>Meet the Lakefront Billionaires . . .</b><br /><br /><b><br />Get ready for another addictive romance from international bestselling author and TikTok sensation, Lauren Asher<br /></b><br /><br /><b>Julian</b><br />If I ever caught on fire, Dahlia Muñoz would fan the flames with a smile.<br />So, when she returns to Lake Wisteria, I fully intend to avoid the interior designer.<br />At least until my meddling mother exploits my saviour complex.<br />The faster I help Dahlia find her creative spark, the sooner she will leave town.<br />But while I was busy getting rid of Dahlia, I overlooked one potential issue.<br />What happens if I want her to stay?<br /><br /><b>Dahlia</b><br />People say the devil has many faces, but I know only one.<br />Julian Lopez - my childhood rival and family frenemy.<br />I vow to steer clear of him while recovering from my broken engagement, but then the billionaire makes an irresistible offer.<br />Renovate a historic house together and triple our profits.<br />Our temporary truce becomes compromised as we face years' worth of denied attraction and mixed emotions.<br />Giving into our desire is inevitable . . . but falling in love?<br />That isn't part of the plan.<br /><br />'Lauren Asher is an expert at giving readers everything they could ever want in a romance book. It's impossible to avoid becoming addicted to the world she builds' <b>Hannah Grace</b>
-
-[View on Apple](https://books.apple.com/gb/book/love-redesigned/id6445540915)
-
-<a id="for-richer-for-poorer"></a>
-## For Richer For Poorer
-
-![For Richer For Poorer](../../logos/6743078265-4786210b.png)
-
-<b><i>For Richer For Poorer</i></b><b> is a compelling family drama about a woman who faces losing everything she has worked for, and has to rebuild her world. From billion-copy bestselling author Danielle Steel.</b><br /><br />Eugenia Ward spent decades building a high-end and hugely successful fashion business, only to see it decimated economically by Covid. As she wrestles with anxious days and sleepless nights, fighting to avoid financial disaster, Eugenia desperately needs new investors – and new ideas.<br /><br />Meanwhile, the demands of motherhood also lay claim to her time. A single parent for over a decade, Eugenia works hard to be a guiding light for her five adult children – but she often finds herself at a loss with their tumultuous lives, while they are oblivious to her financial woes.<br /><br />Wedding plans for her daughter Gloria are ballooning in expense, even as the loutish behaviour of Gloria’s fiancé causes her to question her daughter’s judgment. Meanwhile, Eugenia’s other daughter, Daphne, is due to deliver twins right around the wedding date. As the family gathers for a luxurious holiday in the Hamptons, tempers soon fray, while an unexpected proposal offers Eugenia a professional lifeline.<br /><br /><b>As storm clouds gather, Eugenia must find a way to unite her family and keep her business afloat, forging a new path to success, independent of her roles as mother and entrepreneur . . . </b>
-
-[View on Apple](https://books.apple.com/gb/book/for-richer-for-poorer/id6743078265)
-
-<a id="iron-flame"></a>
-## Iron Flame
-
-![Iron Flame](../../logos/6445193907-c35f5b35.png)
-
-<b>The instant number one <i>Sunday Times</i> bestseller and thrilling sequel to the global phenomenon, <i>Fourth Wing!</i></b><br /><br />'Yarros is the true inheritor of Harry Potter and inspires Hunger Games levels of devotion' <br /><i><b>GUARDIAN</b><br /><br /></i>'Fear not, levels of fighting, rebelliousness and all-around sexiness are still sky-high' <br /><i><b>DAILY MAIL</b><br /> </i><br /> 'Iron Flame is on course to set the world alight' <br /><b><i>GLAMOUR<br /></i></b><br />-<br /><br /> <b>SECRETS. SACRIFICE. SURVIVAL.<br /> </b><br /> Against all odds, Violet Sorrengail made it through her first year at Basgiath War College, but now, the <i>real</i> training begins. The stakes are higher than ever, and a determination to survive won't be enough this time.<br /><br /> When a powerful new enemy threatens everything she cares about, including the man she loves, Violet must do whatever it takes to keep their secrets safe. One wrong move could have horrifying consequences - and as the web of lies spun by those in charge starts to unravel, nothing, not even dragon fire, may be enough to save them in the end.<br /><br /> <b>THE DEADLY SECOND YEAR AT BASGIATH AWAITS</b><br /><br /><b>INCLUDES A BRAND-NEW BONUS CHAPTER FROM XADEN'S POINT OF VIEW!</b><br /><br />-<br /><br /><b> MILLIONS OF READERS HAVE ALREADY GIVEN THE EMPYREAN SERIES FIVE STARS. </b><br /><br /> 'This book contains an addictive, drug like essence that will make you relinquish all responsibility'<i> <b>Glamour </b></i><br /><br /> 'I couldn't put it down!' <b>Millie Bobby Brown</b><br /><br />'Incredible storytelling on every page' <b><i>The Sun</i></b><b>'</b>Pure escapism . . . We'd suggest savouring every moment' <b><i>Independent </i></b><br /><br />'Full of action, suspense and intrigue. This is the ride you have been waiting for, hold on tight' <b><i>Daily Mirror </i></b><br />'We weren't expecting to become obsessed . . . but we very much are and we're not alone' <b><i>Sunday</i></b><i> <b>Times</b> <b>Style</b></i><br /><br />'The new publishing sensation' <b><i>Daily</i></b><i> <b>Mail</b></i><br /><br />'A deliciously gripping dish, which I downed in one sitting' <b><i>Stylist</i></b><br /><br />'2024 is the Year of the Dragon . . . Dive into a fantasy narrative featuring these mythical, winged creatures' <b><i>Pop</i></b><i> <b>Sugar</b></i><br /><br />'One of the publishing events of the year' <b>BBC</b> <b>News</b><br /><br />'Prepare to get obsessed' <b><i>Cosmopolitan</i></b><br /><b><br />OTHER BOOKS IN THE EMPYREAN SERIES:</b><br />- FOURTH WING<br />- IRON FLAME<br />- ONYX STORM
-
-[View on Apple](https://books.apple.com/gb/book/iron-flame/id6445193907)
-
-<a id="welcome-to-pennycress-inn"></a>
-## Welcome to Pennycress Inn
-
-![Welcome to Pennycress Inn](../../logos/6673907531-130f4eff.png)
-
-Escape to the beautiful Cotswolds with this gorgeous new romance, perfect for fans of Jessica Redland, Rachael Lucas and Phillipa Ashley ☀️💕<br /><br />Shortlisted for the RNA contempoary romance novel of the year award 2026.<br /><br />'Feel-good, romantic perfection - a warm hug in book form!' Jessica Redland<br /><br />Every book in the Pennycress Inn series can be read as a standalone.<br /><br />Laura wants to shake things up. She’s thirty-eight, and has been living in her parents’ house since her divorce last year. Her siblings seem to have got their lives together: successful careers, happy marriages, beautiful children.<br /><br />Laura’s determined to prove herself. And buying the beautiful Pennycress Inn in the idyllic Cotswolds village of Meadowfield could be just the way to do it.<br /><br />But getting the inn ready for its first guests proves easier said than done! With crumbling walls, dangerous woodwork and loose roof tiles, not to mention unfriendly locals and even errant sheep, Laura soon fears she’s made the wrong choice.<br /><br />Luckily a friendly face is on hand in the form of gorgeous chef, Jackson. But is he too good to be true? And just why are the villagers so against her?<br /><br />Can Laura turn her life around and get the fresh start she longs for at Pennycress Inn?<br /><br />Praise for Sarah Hope:<br /><br />'A gorgeous story and one I would definitely recommend. It is light-hearted but with some serious things as well.' ★★★★★ Reader Review<br /><br />'A nice easy read that had me hooked. Loved all the characters.' ★★★★★ Reader Review<br /><br />'A perfect feel good read that left a smile on my face.' ★★★★★ Reader Review<br /><br />'All Sarah's characters are well constructed and three dimensional, the kind you'd want as your own friends.' ★★★★★ Reader Review<br /><br />'Love, LOVE, LOVED this absolutely gorgeous page turner!! An absolute must read!!!' ★★★★★ Reader Review
-
-[View on Apple](https://books.apple.com/gb/book/welcome-to-pennycress-inn/id6673907531)
-
-<a id="famous-last-words"></a>
-## Famous Last Words
-
-![Famous Last Words](../../logos/6480269009-637ee373.png)
-
-<b>He’s Your Husband. A Father. A Friend. And Now He’s Live on TV... as a Hostage-Taker.<br /><br />A chilling new page-turner to devour this Christmas – from the Sunday Times bestseller and Queen of Thrillers, Gillian McAllister<br /></b><br />'<b>What an incredible, gripping, thrilling read'</b> LISA JEWELL<br /><br />---<br /><br />It’s Camilla’s first day back at work. And her daughter’s first day at nursery. But where is her husband Luke? The only trace of him is an unfinished note.<br /><br />Then she sees the breaking news: a hostage situation just streets away. Next the police arrive: Luke is caught up in it.<br /><br />But he isn't a hostage. Luke – doting father, successful writer, eternal optimist – is the gunman.<br /><br /><b>What Camilla does next will be crucial. Because only she can figure out what clue lies in the note he left behind . . .</b><br />--<br /><br /><b>PRAISE FOR <i>FAMOUS LAST WORDS</i></b><br /><br />'<b>Few things make me happier than a new Gillian McAllister book, and <i>Famous Last Words</i> did not let me down. Complex, surprising and utterly gripping</b>' JANE FALLON<br /><br />'<b>An incredibly page-turning mystery wrapped up in a thoughtful and thought-provoking exploration of a most unusual kind of grief. Absolutely outstanding, one of my books of the year</b>' ANDREA MARA<br /><br />'<b>Completely addictive. I was as desperate to find out the truth as any of the characters in the book ? if not more so!</b>' SOPHIA HANNAH<br /><br />'<b>A totally fresh read that left me guessing until the very end!</b>' ASHLEY FLOWERS<br /><br />'<b>McAllister is an expert in taut, twisty thrillers'</b> i PAPER<br /><br />'<b>A thriller full of unexpected twists and turns, packing a real emotional punch</b>' RED MAGAZINE<br /><br />'<b><i>Famous Last Words</i> blindsided me with twists and surprises that had me gasping... A brilliant, brilliant book</b>' JODI PICOULT<br /><br /><b>'Utterly effing magnificent. I could NOT put it down!</b>' MARIAN KEYES<br /><br /><b>PRAISE FOR GILLIAN MCALLISTER<br /></b><br /><b>‘A first-class thriller’ </b><i>SUNDAY TIMES</i><br /><br /><b>‘A writer at the top of her game’ </b>CLAIRE DOUGLAS<br /><br /><b>'Extraordinary' </b><i>DAILY MAIL</i>
-
-[View on Apple](https://books.apple.com/gb/book/famous-last-words/id6480269009)
-
-<a id="the-ministry-of-the-word-and-god-s-dispensing-for-god-s-economy"></a>
-## The Ministry of the Word and God's Dispensing for God's Economy
-
-![The Ministry of the Word and God's Dispensing for God's Economy](../../logos/6790176326-39e07788.png)
-
-This book is intended as an aid to believers in developing a daily time of morning revival with the Lord in His word. At the same time, it provides a limited review of the International Training for Elders and Responsible Ones held in Anaheim, California, on March 20-22, 2026. The general subject of the training was “The Ministry of the Word and God’s Dispensing for God’s Economy.” Through intimate contact with the Lord in His word, the believers can be constituted with life and truth and thereby equipped to prophesy in the meetings of the church unto the building up of the Body of Christ.
-
-[View on Apple](https://books.apple.com/gb/book/the-ministry-of-the-word-and-gods/id6790176326)
-
-<a id="the-odyssey"></a>
-## The Odyssey
-
-![The Odyssey](../../logos/374945150-7510170d.png)
-
-<b>NOW A MAJOR FILM DIRECTED BY CHRISTOPHER NOLAN<br /><br />'<i>The Odyssey</i> is a poem of extraordinary pleasures: it is a salt-caked, storm-tossed, wine-dark treasury of tales, of many twists and turns, like life itself' <i>Guardian</i></b><br /><br />The epic tale of Odysseus and his ten-year journey home after the Trojan War forms one of the earliest and greatest works of Western literature. Confronted by natural and supernatural threats - ship-wrecks, battles, monsters and the implacable enmity of the sea-god Poseidon - Odysseus must use his bravery and cunning to reach his homeland and overcome the obstacles that, even there, await him. E. V. Rieu's translation of <i>The Odyssey</i> was the very first Penguin Classic to be published, and has itself achieved classic status.<br /><br />Translated by E. V. RIEU<br />Revised translation by D. C. H. RIEU<br />With an Introduction by PETER JONES
-
-[View on Apple](https://books.apple.com/gb/book/the-odyssey/id374945150)
-
-<a id="the-correspondent"></a>
-## The Correspondent
-
-![The Correspondent](../../logos/6633417458-b13c454e.png)
-
-<b>WINNER OF THE WOMEN'S PRIZE FOR FICTION 2026</b><br /><b>A <i>SUNDAY TIMES </i>BESTSELLER</b><br /><b>THE #1  </b><i><b>NEW YORK TIMES  </b></i><b>BESTSELLER</b><br /><b>OVER TWO MILLION COPIES SOLD WORLDWIDE<br />A </b><i><b>TIMES</b>  </i><b>BOOK OF THE YEAR 2025</b><br /><b>AN <i>IRISH TIMES</i> BESTSELLER</b><br /><b>A BBC RADIO 2 BOOK CLUB PICK<br /></b><br />'A warm, funny gem of a novel'<br /><b>LAURA HACKETT, <i>THE TIMES</i></b><br /><br />'Masterful . . . I was delighted and moved'<br /><b><i>NEW YORK TIMES  </i></b><br /><br />'I can't praise it enough. It's an absolute triumph'<br /><b>CLARE CHAMBERS</b><br /><br />'What a novel! Tender, dry, sharp...devastating, but still feel good.'<br /><b>PANDORA SYKES    <br /></b><br />'Tremendous'<br /><b>FREDRIK BACKMAN</b><br /><br />'Shows us what a glorious thing growing older can be'<br /><b>FLORENCE KNAPP</b><br /><br />'The year's breakout novel no one saw coming'<br /><i><b>WALL STREET JOURNAL</b></i><br /><br />–<br />Sybil Van Antwerp is seventy-three, slowly losing her sight and always writing letters . . .<br /><br />To her children. Her favourite authors. Her ex-sister-in-law. The journalist poking into her past.<br />Her doctor. Suitors. Kindly neighbours. The infuriating gardening club.<br /><br />All receive Sybil’s witty, wise correspondence, rich with everyday concerns.<br /><br />But there is one letter that she has never sent. It concerns the darkest period of her life. To post it, Sybil must find forgiveness within herself.<br /><br />The hardest letter to write is the one you’d never dare to send.
-
-[View on Apple](https://books.apple.com/gb/book/the-correspondent/id6633417458)
-
-<a id="the-miss-silver-mysteries-volume-one"></a>
-## The Miss Silver Mysteries Volume One
-
-![The Miss Silver Mysteries Volume One](../../logos/1122851550-0b76c824.png)
-
-<b>The first three Miss Silver Mysteries introduce the British governess-turned-sleuth and a "timelessly charming" series (Charlotte MacLeod).</b><br /><br />From a "first-rate storyteller," here are three full-length mystery novels in one volume, set in England between the two world wars and featuring Maud Silver, a retired governess and teacher who embarks on a new career in private detection (<i>The Daily Telegraph</i>).<br /><br /><i><b>Grey Mask</b></i><br /><br />After four years wandering the jungles of India and South America, Charles Moray has come home to England to collect his inheritance. Strangely, he finds his family estate unlocked and sees a light in one of its abandoned rooms. Eavesdropping, he learns of a conspiracy to commit a fearsome crime. His first instinct is to let the police settle it, but then he hears <i>her</i> voice: Margaret, his long-lost love, is part of the gang. To unravel their diabolical plot, he contacts Miss Silver.<br /><br /><i><b>The Case Is Closed</b></i><br /><br />Marion Grey is growing used to the idea that her husband will never be released from prison, especially after the horrors of the very public trial. But when new evidence suggests her husband may be innocent of murder after all, she hires a professional—the inimitable Miss Silver—to clear his name.<br /><br /><i><b>Lonesome Road</b></i><br /><br />A terrified young woman asks Miss Silver for help unmasking someone who has threatened her life. Rachel Traherne has been receiving menacing letters about her deceased father's fortune. The first two letters were vague; the third said simply, "Get ready to die."<br /><br />These charming traditional British mysteries featuring the unstoppable Miss Silver—whose stout figure, fondness for Tennyson, and passion for knitting disguise a keen intellect and a knack for cracking even the toughest cases—are sure to delight readers of Agatha Christie, Ellis Peters, and Dorothy L. Sayers.
-
-[View on Apple](https://books.apple.com/gb/book/the-miss-silver-mysteries-volume-one/id1122851550)
-
-<a id="london-falling"></a>
-## London Falling
-
-![London Falling](../../logos/6748343068-8f9b3320.png)
-
-<b>THE INSTANT <i>SUNDAY TIMES</i> No.1 BESTSELLER<br /><br />'A defining book of our time' - <i>The Times</i><br />'The master of the non-fiction narrative' - <i>The Sunday Times</i><br />'A masterpiece' - <i>The Observer</i><br />'Compulsive' - <i>The Guardian</i><br />'Exquisite . . . a masterpiece' <i>Financial Times</i><br />'Breathtaking' - Jon Ronson<br />'Completely engrossing' - Louis Theroux<br />'Phenomenal' - Emily Maitlis<br />'More addictive than any box set' - Sathnam Sanghera</b><br /><br /><b>A book of the summer in <i>The Times, The Guardian</i>, <i>The Independent</i>, <i>The Irish Times</i>, <i>The New York Times</i>, <i>Financial Times</i> and<i> The Atlantic</i><br /><br />From the Baillie Gifford Prize-winning and<i> Sunday Times </i>bestselling author of<i> Empire of Pain </i>and <i>Say Nothing </i>comes a riveting story of wealth, violence and deceit at the heart of a glittering city.</b><br /><br />In 2019, a London teenager, Zac Brettler, fell to his death from a luxury apartment building on the banks of the Thames. On a desperate quest to understand how their son had died, his grieving parents made a terrible discovery: Zac had been leading a fantasy life, posing as the son of a wealthy Russian oligarch.<br /><br />Patrick Radden Keefe follows Zac’s parents on a dark journey to find out what brought him to the balcony that night – and how a teenager’s life of make-believe drew him into the city’s terrifying underworld.
-
-[View on Apple](https://books.apple.com/gb/book/london-falling/id6748343068)
-
-<a id="don-t-let-him-in"></a>
-## Don't Let Him In
-
-![Don't Let Him In](../../logos/6648761977-01e08ba6.png)
-
-<b>PREPARE TO BE HOOKED BY THE GRIPPING NEW THRILLER FROM SUNDAY TIMES AND MULTI-MILLION-COPY BESTSELLER LISA JEWELL</b><br /><br /><b>'Gripping. Shocking. Masterful.' </b>FREIDA McFADDEN<br /><br />'A<b> thrilling chilling work of genius.' </b>CHRIS WHITAKER<br /><br />'<b>Utterly absorbing, fiendishly clever </b>and<b> all-consuming' </b>ANDREA MARA<br /><br /><b>___________</b><br /><br /><b>He’s the perfect man.</b><br /><br />He says he loves you.<br /><br />You think he might even be made for you.<br /><br />Before long he’s moved into your house – and into your heart.<br /><br />And then he leaves for days at a time. You don’t know where he’s gone or who he’s with.<br /><br />And you realise – if you looked back – you’d say to yourself:<br /><br /><b>DON’T LET HIM IN.</b><br /><br /><b>___________</b><br /><br /><b>Praise for<i> Don't Let Him In</i>:</b><br /><br />'Lisa Jewell is a <b>STONE COLD GENIUS</b>!<i> Don't Let Him In </i>is a <b>PHENOMENAL achievement</b>' MARIAN KEYES<br /><br />'A <b>taut, twisty masterclass </b>of a thriller' CLAIRE DOUGLAS<br /><br />'A <b>masterclass in suspense</b> with one of the most <b>chilling, unsettling </b>villains I've encountered in a long time' ALEX MICHAELIDES<br /><br />'<b>Hideously plausible </b>and<b> horribly unsettling</b>' HARRIET TYCE<br /><br /><b>‘A twisty mosaic of a thriller’</b> GILLIAN McALLISTER<br /><br />'Cancel all plans - this is a<b> read-in-one-sitting</b> book' ALICE FEENEY<br /><br />'I inhaled it within 24 hours. <b>Stunning, shocking, superb</b>.' LIZ NUGENT<br /><br />'<b>Creepy, twisty</b>, and compulsively readable. It <b>hooked me from the first page</b> and never let me go.’ EMILY HENRY<br /><br />'Lisa Jewell, the <b>Queen of sick psychopaths, has outdone herself </b>with Nick, and I am one hundred percent here for it!<b>' </b>TAMMY COHEN<br /><br />'<b>Utterly brilliant</b>' MARK EDWARDS<br /><br />'I <b>adored</b> the women, I loved the story, I loved the <b>twists</b>! A <b>masterclass</b>' SARAH PINBOROUGH<br /><br /><b>Readers love <i>Don't Let Him In</i>!:</b><br /><br />'An <b>absolute masterpiece t</b>hat keeps you<b> hooked</b> from start to finish' 5-star reader review<br /><br />'<b>Gripping, thrilling, jaw dropping, shocking, and twist filled</b>!' 5-star reader review<br /><br /><b>'Obsessed</b>!' 5-star reader review<br /><br />'An absolute <b>page turner</b>' 5-star reader review<br /><br /><b>'Twisty, fast paced</b>, and just an overall enjoyable read' 5-star reader review<br /><br />'Very <b>gripping, creepy, suspenseful' </b>5-star reader review<br /><br />'<b>I could not put it down!</b>' 5-star reader review
-
-[View on Apple](https://books.apple.com/gb/book/dont-let-him-in/id6648761977)
-
-<a id="the-chimp-paradox"></a>
-## The Chimp Paradox
-
-![The Chimp Paradox](../../logos/482894788-cef09eaa.png)
-
-<b>The groundbreaking mind management model designed to improve self-confidence, communicate effectively, and build success, from the award-winning psychiatrist. </b><br /><br />THE MILLION-COPY BESTSELLER<br /><br /><b>'The book that had the biggest impact on me' </b>Sir Gareth Southgate <br /><br /><b>‘The mind programme that helped me win my Olympic Golds’</b> Sir Chris Hoy<br /><br />Do you sabotage your own happiness and success? Are you struggling to make sense of yourself? Do your emotions sometimes dictate your life?<br /><br />In his revolutionary, science-backed bestseller, Dr Steve Peters introduces <i>The Chimp Paradox, </i>the powerful mind management model that can help you become a happier, confident, and more successful person.<br /><br />Drawing on years of research, Dr Peters explains the struggle that takes place within your mind and then shows how to apply this understanding to every area of your life so you can:<br />Recognise how your mind worksUnderstand and manage your emotions and thoughtsReduce anxiety and grow self-confidenceIdentify what is holding you backTake control and improve your decision-makingBuild success in both your personal and professional life<br /><br />Each chapter explores how your mind functions, highlighting key insights and practical exercises designed to help you see improvements in your daily life and build lasting emotional skills.<br /><br /><b>Packed with proven techniques and easy-to-follow guidance, <i>The Chimp Paradox</i> will help you develop the habits and mindset needed to become the person you want to be.</b><br /><br />Praise for <i>The Chimp Paradox:</i><br /><br />‘Steve Peters is <b>the most important person in my career’</b> Victoria Pendleton CBE, 2x Olympic Champion and 9x World Champion Cyclist<br /><br />‘This book is fantastic ... [it] really does offer <b>simple but effective ways to really improve your life</b>.’ Ronnie O'Sullivan, 7x World Snooker Champion<br /><br />‘Steve Peters is <b>a genius</b>.’ Dave Brailsford, Team Principal of UCI WorldTeam Ineos Grenadiers Cycling<br /><br />‘He is <b>the best</b>. I’ve played my most consistent form for Liverpool and England since seeing Steve.’ Steven Gerrard, manager and former professional footballer
-
-[View on Apple](https://books.apple.com/gb/book/the-chimp-paradox/id482894788)
-
-<a id="the-black-loch"></a>
-## The Black Loch
-
-![The Black Loch](../../logos/6472585773-ffb45b3d.png)
-
-<b>THE RETURN OF FIN MACLEOD, PETER MAY'S MUCH-LOVED HERO OF THE INTERNATIONAL BESTSELLING LEWIS TRILOGY.</b><br /><br /><b>A MURDER</b><br /><br />The body of eighteen-year-old TV personality Caitlin is found abandoned on a remote beach at the head of <i>An Loch Dubh</i> - the Black Loch - on the west coast of the Isle of Lewis. A swimmer and canoeist, it is inconceivable that she could have drowned.<br /><br /><b>A SECRET</b><br /><br />Fin Macleod left the island ten years earlier to escape its memories. When he learns that his married son Fionnlagh had been having a clandestine affair with the dead girl and is suspected of her murder, he and Marsaili return to try and clear his name.<br /><br /><b>A RECKONING</b><br /><br />But nothing is as it seems, and the truth of the murder lies in a past that Fin would rather forget, and a tragedy at the cages of a salmon farm on East Loch Roag, where the tense climax of the story finds its resolution.<br /><br /><b><i>The Black Loch</i> takes us on a journey through family ties, hidden relationships and unforgiving landscapes, where suspense, violent revenge and revelation converge in the shadow of the Black Loch.</b>
-
-[View on Apple](https://books.apple.com/gb/book/the-black-loch/id6472585773)
-
-<a id="transcription"></a>
-## Transcription
-
-![Transcription](../../logos/6769468102-f7587aee.png)
-
-A writer returns to his college town, where he is to conduct what will be the final published interview with Thomas, his ninety-year-old mentor. But after he drops his smartphone in the hotel sink, he arrives at Thomas's house with no recording device - a fact he is mysteriously unable to confess.<br /><br /> What unfolds from this dreamlike circumstance is both a brilliant meditation on those technologies that enrich and impoverish our connections to each other, that store and obliterate our memories, and a moving exploration of the relationships that make us who we are.
-
-[View on Apple](https://books.apple.com/gb/book/transcription/id6769468102)
-
-<a id="careless-people"></a>
-## Careless People
-
-![Careless People](../../logos/6742833065-daeea39f.png)
-
-<b>The number one global bestseller and Book of the Year 2025 for Audible, <i>The Times, Cosmopolitan, The Economist </i>and more.</b><br /><br />‘Amazing: of all the books in all the world Mr Free Speech Zuckerberg wants to ban, it’s the one about him’ –<b> Marina Hyde</b><br />‘Jaw-dropping . . . A tell-all tome’ – <b><i>Financial Times</i></b><br />‘A <i>Bridget Jones’s Diary</i>-style tale of a young woman thrown into a series of improbable situations’ – <b><i>The Times</i></b><br /><br /><b>Sarah Wynn-Williams joined Facebook believing the company could change things for the better. Instead, what she encountered over seven years was so shocking that Meta obtained a legal order to silence her.</b><br /><br />Now you can read her award-winning story. Candid and entertaining, Wynn-Williams’ account pulls back the curtain on Mark Zuckerberg, Sheryl Sandberg and the global elite. She exposes the true cost of Silicon Valley’s ambition, from outrageous schemes cooked up on private jets to the alarming consequences of Facebook’s aggressive pursuit of global dominance.<br /><br /><i>Careless People </i>is an ordinary woman's gripping and darkly funny memoir that will forever change how you view the technology that runs our lives – and the unchecked power of those who control it.<br /><br /><b>With a new foreword for paperback from Naomi Alderman.</b><br /><br />‘Urgently necessary reading’<b> – Elizabeth Day, author of <i>The Party</i> and <i>Friendaholic</i></b><br />‘How else to put this? Bloody hell’ –<i> <b>The Guardian</b></i><br /><br />Shortlisted for the British Book Awards Book of the Year 2026<br />Shortlisted for the Westminster Book Awards 2025<br />Shortlisted for the Hatchards First Biography Prize 2025<br />Shortlisted for the Unwin Award 2026<br />Winner of the Blueprint Asia-Pacific Whistleblowing Prize 2025<br />Winner of the Speakies Award for the Best Non-Fiction Memoir Audiobook
-
-[View on Apple](https://books.apple.com/gb/book/careless-people/id6742833065)
-
-<a id="no-friend-to-this-house"></a>
-## No Friend to This House
-
-![No Friend to This House](../../logos/6739207763-51f409b5.png)
-
-<b>* A <i>Marie Claire </i>Best Book of 2026 *</b><br /><br /><b>Exiled daughter, abandoned wife, vengeful mother. But is that where the truth lies? This is the story of Medea as you’ve never heard it before.</b><br /><br />Jason and his Argonauts set sail to find the Golden Fleece. The journey is filled with danger, and if Jason ever reaches the distant land he seeks, he faces almost certain death.<br /><br />Medea – priestess, witch, and daughter of the brutal king who jealously guards the fleece – has the power to save Jason's life. Will she betray her family and her home?<br /><br />Burning with desire for this stranger, as the gods intend, Medea chooses Jason over her kin. But their love is steeped in vengeance from the beginning, and no one – not even those closest to them – will be safe when their passion is spent . . .<br /><br /><b>Based on the classic tragedy by Euripides, this is Medea as you’ve never seen her before . . .<br /><br />Praise for Natalie Haynes:<br /><br />‘Witty, gripping, ruthless’ – Margaret Atwood on <i>Stone Blind</i><br /><br />‘Fiercely feminist . . . A many-layered delight’ – <i>The Guardian </i>on <i>A Thousand Ships</i></b><br /><br /><b>‘Passionate and gripping’ – Madeline Miller, author of <i>Circe</i> on <i>The Children of Jocasta</i></b><br /><br /><b><i>No Friend to This House </i>is an extraordinary reimagining of the myth of Medea from Natalie Haynes, the <i>Sunday Times </i>bestselling author of <i>Stone Blind.</i></b>
-
-[View on Apple](https://books.apple.com/gb/book/no-friend-to-this-house/id6739207763)
-
-<a id="project-hail-mary"></a>
-## Project Hail Mary
-
-![Project Hail Mary](../../logos/1526912734-65456125.png)
-
-<b>THE <i>SUNDAY TIMES </i>BESTSELLING NOVEL</b><br /><br /><b>A BARACK OBAMA READING PICK<br />NOW A MAJOR MOTION PICTURE STARRING RYAN GOSLING</b><br /><br /><b>A lone astronaut.</b><br /><b>An impossible mission.</b><br /><b>An ally he never imagined.</b><br /><br />'The most enjoyable hard SF I have read in years' <i><b>GUARDIAN</b></i><br /><br />'Weir's finest work to date. . . This is the one book I read last year that I am certain I can recommend to anyone, no matter who, and know they'll love it.' <b>BRANDON SANDERSON</b><br /><br />'If you like a lot of science in your science fiction, Andy Weir is the writer for you. . . This one has everything fans of old school SF (like me) love.' <b>GEORGE R.R. MARTIN</b><br /><br />'Brilliantly funny and enjoyable. One of the most plausible science fiction books I've ever read<b>' TIM PEAKE, </b><b>astronaut</b><br /><b>________________________________________</b><br /><br />Ryland Grace is the sole survivor on a desperate, last-chance mission - and if he fails, humanity and the earth itself will perish.<br /><br />Except that right now, he doesn't know that. He can't even remember his own name, let alone the nature of his assignment or how to complete it.<br /><br />All he knows is that he's been asleep for a very, very long time. And he's just been awakened to find himself millions of miles from home, with nothing but two corpses for company.<br /><br />His crewmates dead, his memories fuzzily returning, Ryland realizes that an impossible task now confronts him. Hurtling through space on this tiny ship, it's up to him to puzzle out an impossible scientific mystery-and conquer an extinction-level threat to our species.<br /><br />And with the clock ticking down and the nearest human being light-years away, he's got to do it all alone.<br /><br />Or does he?<br /><br /><b>An irresistible interstellar adventure as only Andy Weir could imagine it, <i>Project Hail Mary</i> is a tale of discovery, speculation, and survival to rival <i>The Martian -- </i>while taking us to places it never dreamed of going.</b><br /><b>________________________________________</b><br /><br /><b>'One of the most original, compelling, and fun voyages I've ever taken.'</b> ERNEST CLINE, author of <i>Ready Player One </i>and <i>Ready Player Two</i><br /><br /><b>'Undisputedly the best book I've read in a very, very long time. Mark my words: <i>Project Hail Mary</i> is destined to become a classic.'</b> BLAKE CROUCH<br /><br /><b>'Andy Weir's brilliant <i>Project Hail Mary</i>...is one of those stirring sci-fi novels about every government on Earth banding together, through science, to save civilisation from collapse. I loved it.' </b><i>THE TIMES</i><br /><br /><b>'A suspenseful portrait of human ingenuity and resilience [that] builds to an unexpectedly moving ending. A winner.'</b> <i>PUBLISHERS WEEKLY</i><br /><br /><b>'Weir returns with gusto . . . his writing flows naturally, and his characters and dialogue crackle with energy. With this novel, he takes his place as a genuine star in the mainstream SF world.'</b> <i>BOOKLIST</i>
-
-[View on Apple](https://books.apple.com/gb/book/project-hail-mary/id1526912734)
-
-<a id="the-tiny-magic-bookshop"></a>
-## The Tiny Magic Bookshop
-
-![The Tiny Magic Bookshop](../../logos/6754872025-489017b6.png)
-
-Readers are LOVING The Tiny Magic Bookshop<br /><br />'This book feels like the cosiest hug of all' ⭐⭐⭐⭐⭐<br /><br />'Magical realism 🤝Grief 🤝 Learning to trust yourself'⭐⭐⭐⭐⭐<br /><br />'I want to work in Lamplight books!' ⭐⭐⭐⭐⭐<br /><br />'Creeps into all your dark corners and lights them up with a cosy glow' ⭐⭐⭐⭐⭐<br /><br />'Wish I could give it more than five stars' ⭐⭐⭐⭐⭐<br /><br />*******************<br /><br />There’s magic in a book …<br /><br />Max always felt too ordinary for the magical village of Lampton. No place more so than her mum’s bookshop, where the recommendations are more than just a matter of taste – they’re magic.<br /><br />When Max’s mum dies suddenly, she leaves her daughter Lamplight Books and makes one last wish: that Max would spend a year working in the bookshop before she sells it.<br /><br />Max has no desire to uproot her busy life in the city to return to a place that always made her feel inadequate, but she can’t ignore her mum’s last request. So she decides on a trial run of two weeks – if she can’t even last that long, then a year would be impossible…<br /><br />For fans of:<br />Outsider MCFound FamilySmall townClassic books<br />*******************<br /><br />Praise for The Tiny Magic Bookshop:<br /><br />'A cosy read, perfect for book lovers' Woman&amp;amp;Home<br /><br />‘A tender story about grief and a wonderful love letter to bookstores and booksellers. This book will touch your heart!’ Sarah Beth Durst, New York Times bestselling author of The Spellshop<br /><br />‘Enchanting and comforting all at once, this is a hug of a book ’ Jamie Pacton, author of Homegrown Magic<br /><br />‘A real feel-good tale’ The Sun<br /><br />‘This book is magical, enchanting, and intriguing. Exactly the kind of escape booklovers adore.’ Amanda James, author of The Midnight Bookshop<br /><br />‘A story that has heart at its center. The Tiny Magic Bookshop reminds us how powerful literature can be. Reading books, recommending books, and sharing books is a magic in itself. August Bloom perfectly captures how magical this world is when we have books in it. A book lovers dream!’ Jack Strange, author of Look Up, Handsome<br /><br />'August's writing is beautiful – sincere, assured, compassionate and witty. I adored sinking into this book and wrapping myself up in it like a warm blanket.’ Helen Gaskell, author of The Regency Switch<br /><br />‘The Tiny Magic Bookshop was the cosy, whimsical story I didn't know I needed…With dreamy prose and a magical cast, this is a must read this summer!’ Chloe Ford, author of Work Trip<br /><br />‘A whimsical fantasy and a navigation of grief, the self, and being true to one's own heart’ C.B. Lee, author of Not Your Sidekick<br /><br />About the author<br /><br />August Bloom writes magical novels from her cosy writing studio in Gloucestershire. She devours gentle fantasy stories alongside cinnamon buns and loves the cooler autumn months when she can curl up under a blanket with a good book. Her co-writer is a chronically clumsy Labrador who she explores the countryside with.
-
-[View on Apple](https://books.apple.com/gb/book/the-tiny-magic-bookshop/id6754872025)
-
-<a id="audition"></a>
-## Audition
-
-![Audition](../../logos/6557053936-0fc50e88.png)
-
-<b>**SHORTLISTED FOR THE BOOKER PRIZE**<br />**LONGLISTED FOR THE WOMEN'S PRIZE FOR FICTION 2026**<br />**A FINALIST FOR THE PULITZER PRIZE FOR FICTION**</b><br /><br /><b>A <i>GUARDIAN</i>, <i>INDEPENDENT and NEW STATESMAN Book of the Year</i></b><br /><br />'Slick, sharp, strange and singular . . . You’ll gulp this novel down in one in-breath' <b>SAMANTHA HARVEY</b>, Booker Prize-winning author of <i>Orbital</i><br /><br />'A lightning bolt of a novel' <i><b>FINANCIAL TIMES</b></i><br /><br />'I’m not sure there’s anyone better writing in America today' <b>ALEX PRESTON</b>, <i>Observer</i><br /><br /><b>One woman, the performance of a lifetime. Or two. An exhilarating, destabilising novel that asks whether we ever really know the people we love</b><br /><br />Two people meet for lunch in a Manhattan restaurant. She’s an accomplished actress in rehearsals for an upcoming premiere. He’s attractive, troubling, young – young enough to be her son. Who is he to her, and who is she to him? In this compulsively readable, brilliantly constructed novel, two competing narratives unspool, rewriting our understanding of the roles we play every day – partner, parent, creator, muse – and the truths every performance masks, especially from those who think they know us most intimately.<br /><br />Taut and hypnotic, <i>Audition</i> is Katie Kitamura at her virtuosic best.
-
-[View on Apple](https://books.apple.com/gb/book/audition/id6557053936)
-
-<a id="heartstopper-volume-6"></a>
-## Heartstopper Volume 6
-
-![Heartstopper Volume 6](../../logos/6752951162-24153a59.png)
-
-<b>*FALL IN LOVE WITH THE FINAL CHAPTER - out now and a UK NUMBER ONE BESTSELLER*</b><br /><b><br />*Read it before you see it: Heartstopper Forever movie coming July 17 from Netflix*</b><br /><br /><b>Boy meets boy. Boys become friends. Boys fall in love. The bestselling LGBTQ+ graphic novel series about life, love, and everything that happens in between. </b><br /><br /><b>Join more than 10 million people worldwide and discover the fastest ever selling graphic novel, from a multi-award-winning, <i>New York Times</i> and <i>Sunday Times</i> bestselling author. </b><br /><br />Everyone in school knows Nick and Charlie. Everyone knows they're going to be together forever.<br /><br />But Charlie's busy with his bid to become head boy. And while Nick is preparing to leave for uni, he's starting to wonder who he'll be . . . without Charlie. <br /><br /><b>'The queer graphic novel we wished we had at high school.'<i> Gay Times</i></b><br /><br /><i>Contains discussions around mental health and eating disorders, underage drinking, and sexual references.</i><br /><br /><i>Heartstopper Volume 6 was Number 1 in the overall UK TCM chart on 7/7/26. </i>
-
-[View on Apple](https://books.apple.com/gb/book/heartstopper-volume-6/id6752951162)
-
-<a id="what-if-reform-wins"></a>
-## What If Reform Wins
-
-![What If Reform Wins](../../logos/6759060990-e6bb7e11.png)
-
-&#39;The must-read UK politics book of the summer&#39; The Guardian<br/>
-<br/>
-&#39;A gripping and important book&#39; Andrew Marr<br/>
-<br/>
-&#39;By turns entertaining and downright terrifying&#39; The Telegraph<br/>
-<br/>
-A compulsive, chilling nonfiction thriller that imagines what could happen if Reform win a majority at the next general election.<br/>
-<br/>
-At 10pm on 28th June 2029, exit polls predict that Nigel Farage will be the 60th Prime Minister of the United Kingdom. This is the story of what could happen next.<br/>
-<br/>
-What If Reform Wins is a chilling and deeply researched scenario that takes us day-by-day, minute-by-minute through a world in which Reform has the opportunity to put their policies into practice, from deporting 600,000 people to leaving the ECHR, abandoning net zero and ending the BBC&#39;s licence fee.  How will people fight back against mass deportations and fracking?  And will this self-described &#39;ill-disciplined pirate ship&#39; survive the rigours of government?<br/>
-<br/>
-Drawing on dozens of new interviews, Peter Chappell, a reporter at The Times, explores a nation on a new and dystopian path.
-
-[View on Apple](https://books.apple.com/gb/book/what-if-reform-wins/id6759060990)
-
 <a id="the-devils"></a>
 ## The Devils
 
@@ -1009,15 +866,6 @@ Drawing on dozens of new interviews, Peter Chappell, a reporter at The Times, ex
 EUROPE STARES INTO THE ABYSS<br /><br />Plague and famine stalk the land, greedy princes care for nothing but their own ambitions, and an ancient evil lurks beyond the edges of the map..<br /><br />When only dark paths lead towards the light - paths the righteous dare not tread - the Chapel of the Holy Expediency steps forward. Its congregation of cursed monsters and convicted heretics will cross every line, commit every sin, and turn every mission into a disastrous bloodbath in the service of the greater good.<br /><br />Now the hapless Brother Diaz must somehow bind the worst of the worst to a higher cause: to put a thief on the throne of Troy, and unite the sundered church against the coming apocalypse.<br /><br />WHEN YOU'RE HEADED THROUGH HELL, YOU NEED THE DEVILS ON YOUR SIDE.
 
 [View on Apple](https://books.apple.com/gb/book/the-devils/id6479122483)
-
-<a id="a-summer-wedding-at-pennycress-inn"></a>
-## A Summer Wedding at Pennycress Inn
-
-![A Summer Wedding at Pennycress Inn](../../logos/6755238067-2a4e5895.png)
-
-You are warmly invited to the wedding of the summer, in the BRAND NEW instalment in the bestselling Pennycress Inn series from Sarah Hope 💕 💐<br /><br />Every book in the Pennycress Inn series can be read as a standalone.<br /><br />She can plan everyone else’s happy ever after… but what about her own?<br /><br />Ellie thought she was starting over. After her long-term relationship collapses and her career implodes, she was braving a new chapter on her own, setting up a wedding planning business in her beautiful Cotswold village.<br /><br />But when her ex walks away with almost everything she owns, Ellie’s carefully rebuilt world begins to crack. Just as she’s clinging to her last lifeline, planning her first wedding at the idyllic Pennycress Inn, fate throws the biggest complication yet into her path.<br /><br />Murray. The man who broke her heart. The love she never truly let go.<br /><br />Murray is back, working as a carpenter at the inn, and determined to ‘clear the air’. As the days tick forwards towards the Pennycress wedding, Ellie must juggle the needs of her clients with new revelations from her old love, and a fresh spark of hope...<br /><br />Could first love finally become forever love?<br /><br />A warm, emotional and wholesome small-town romance that’s perfect for fans of Jessica Redland, Heidi Swain and Gilmore Girls.<br /><br />Praise for Sarah Hope:<br /><br />'Love, LOVE, LOVED this absolutely gorgeous page turner!! An absolute must read!!!' ★★★★★ Reader Review<br /><br />'A gorgeous story and one I would definitely recommend. It is light-hearted but with some serious things as well.' ★★★★★ Reader Review<br /><br />'A nice easy read that had me hooked. Loved all the characters.' ★★★★★ Reader Review<br /><br />'A perfect feel good read that left a smile on my face.' ★★★★★ Reader Review<br /><br />'All Sarah's characters are well constructed and three dimensional, the kind you'd want as your own friends.' ★★★★★ Reader Review
-
-[View on Apple](https://books.apple.com/gb/book/a-summer-wedding-at-pennycress-inn/id6755238067)
 
 <a id="the-politician"></a>
 ## The Politician
@@ -1073,101 +921,54 @@ Why readers love George Cross . . .<br/>
 
 [View on Apple](https://books.apple.com/gb/book/the-politician/id6444920974)
 
-<a id="tower-of-dawn"></a>
-## Tower of Dawn
+<a id="the-nothing-man"></a>
+## The Nothing Man
 
-![Tower of Dawn](../../logos/1488633448-a372245a.png)
+![The Nothing Man](../../logos/6449863553-36ccf8a0.png)
+
+<b>· · THE </b><i>IRISH TIMES</i> AND KINDLE <b>No. 1 BESTSELLER · ·</b><br /><b>Shortlisted for the CWA Ian Fleming Steel Dagger</b><br /><b>'I cannot put it down!' Georgia Hardstark, MY FAVORITE MURDER</b><br /><b>I was the girl who survived the Nothing Man. </b><br /><b>Now I am the woman who is going to catch him...</b><br />
+   You've just read the opening pages of <i>The Nothing Man</i>, the true crime memoir Eve Black has written about her obsessive search for the man who killed her family nearly two decades ago. <br />
+   Supermarket security guard Jim Doyle is reading it too, and with each turn of the page his rage grows. Because Jim was - <i>is</i> - the Nothing Man. <br />
+   The more Jim reads, the more he realises how dangerously close Eve is getting to the truth. He knows she won't give up until she finds him. He has no choice but to stop her first...<br /><b>'The queen of high-concept crime fiction... I was utterly wowed' - Jane Casey<br />
+    'Whipsmart, thrilling and utterly compelling' - Liz Nugent</b><br /><b>Readers love THE NOTHING MAN</b><br /><b>'Up there as one of the best plots ever' *****<br />
+    'Brilliant concept, brilliantly executed' *****<br />
+    'Clever. Original. Engaging read' *****<br />
+    'I haven't read anything like this before and it worked so well' *****<br />
+    'Dark, stunning and absolutely chilling' *****</b>
+
+[View on Apple](https://books.apple.com/gb/book/the-nothing-man/id6449863553)
+
+<a id="a-court-of-wings-and-ruin"></a>
+## A Court of Wings and Ruin
+
+![A Court of Wings and Ruin](../../logos/1487235488-64ad13c9.png)
 
 Coming soon … return to Prythian with TWO new books in the A Court of Thorns and Roses series. Pre-order ACOTAR 6 for 27th October 26, and ACOTAR 7 for 12th January 27.<br/>
 <br/>
-&#39;One of the best fantasy book series of the past decade&#39; TIME<br/>
+The third instalment of the GLOBAL PHENOMENON, romantic fantasy epic and TikTok sensation, ACOTAR. From multi-million and #1 Sunday Times bestselling author Sarah J. Maas.<br/>
 <br/>
-The final battle looms in the sixth book in the epic, bestselling fantasy series from the author of A Court of Thorns and Roses.<br/>
+Maas has established herself as a fantasy fiction titan - Time<br/>
+Think Game of Thrones meets Buffy the Vampire Slayer with a drizzle of E.L. James – Telegraph<br/>
+Spiced with slick plotting and atmospheric world-building ... a page-turning delight – Guardian<br/>
+Sarah J. Maas does not disappoint … To be devoured with relish – Mail<br/>
 <br/>
-A glorious empire. A desperate quest. An ancient secret.<br/>
+******<br/>
+Feyre has returned to the Spring Court, determined to gather information on Tamlin&#39;s manoeuvrings and the invading king threatening to bring her land to its knees. But to do so she must play a deadly game of deceit – and one slip may spell doom not only for Feyre, but for her world as well.<br/>
 <br/>
-The search for allies extends to a new land in the sixth book of the #1 bestselling Throne of Glass series by Sarah J. Maas.<br/>
+As war bears down upon them all, Feyre must decide who to trust amongst the dazzling and lethal High Lords and hunt for allies in unexpected places. And her heart will face the ultimate test as she and her mate are forced to question whether they can truly trust each other.<br/>
 <br/>
-Chaol Westfall and Nesryn Faliq have arrived in the shining city of Antica to forge an alliance with the Khagan of the Southern Continent, whose vast armies are Erilea&#39;s last hope. But they have also come to Antica for another purpose: to seek healing at the famed Torre Cesme for the wounds Chaol received in Rifthold.<br/>
-<br/>
-After enduring unspeakable horrors as a child at the hands of Adarlanian soldiers, Yrene Towers has no desire to help the young lord from Adarlan, let alone heal him. Yet she has sworn an oath to assist those in need, and she will honour it. But Lord Westfall carries his own dark past, and Yrene soon realises that those shadows could engulf them both.<br/>
-<br/>
-Chaol, Nesryn, and Yrene will have to draw on every scrap of their resilience to overcome the danger that surrounds them. But while they become entangled in the political webs of the khaganate, long-awaited answers slumber deep in the mountains, where warriors soar on legendary ruks. Answers that might offer their world a chance at survival ... or doom them all.
+Sarah J. Maas&#39;s books have sold millions of copies and have been translated into 38 languages. Discover the sweeping romantic fantasy that everyone&#39;s talking about for yourself.
 
-[View on Apple](https://books.apple.com/gb/book/tower-of-dawn/id1488633448)
+[View on Apple](https://books.apple.com/gb/book/a-court-of-wings-and-ruin/id1487235488)
 
-<a id="book-lovers"></a>
-## Book Lovers
+<a id="the-villa-of-secrets"></a>
+## The Villa of Secrets
 
-![Book Lovers](../../logos/1583160614-cc632794.png)
+![The Villa of Secrets](../../logos/6762262494-5887ff52.png)
 
-<b>One holiday. Two rivals. A plot twist they didn't see coming...</b><br /><br />--------<br /><br /><b>'Her best yet' </b>Taylor Jenkins Reid, <i>Malibu Rising</i><br /><b>'One of my favourite authors' </b>Colleen Hoover,<i> It Ends With Us</i><br /><b><i>'</i>Magical, delightful, and utterly one of a kind' </b>Ali Hazelwood, <i>The Love Hypothesis</i><br /><br /><b>Nora </b>is a cut-throat literary agent at the top of her game. Her whole life is books.<br /><br /><b>Charlie </b>is an editor with a gift for creating bestsellers. And he's Nora's work nemesis.<br /><br />Nora has been through enough break-ups to know she's the one men date <i>before</i> finding their happy-ever-after. To prevent another dating dud, Nora's sister has persuaded her to swap her city desk for a month's holiday in Sunshine Falls.<br /><br />It's a small town straight out of a romance novel, but instead of meeting sexy lumberjacks, handsome doctors or cute bartenders, Nora keeps bumping into...Charlie.<br /><br /><b>She's no heroine. He's no hero. So can they take a page out of an entirely different book?</b><br /><br /><b><i>Brimming with witty banter, characters you can't help but fall for and off-the-charts chemistry, BOOK LOVERS is Emily Henry's best novel yet.</i></b><br /><br />--------<br /><br /><b>'Emily Henry's books are a gift, the perfect balance between steamy and sweet' </b>V. E Schwab, <i>Gallant</i><br /><br /><b>'So smart, so funny, so sexy' </b>Beth O'Leary,<i> The No-Show</i><br /><br /><b>'Emily Henry has another hit on her hands'</b> Sophie Cousens, <i>Just Haven't Met You Yet</i><br /><br /><b>'A thoroughly modern yet classic romance' </b><i>Sunday Times</i><br /><br /><b>'Heartfelt, funny, and full of joy. (Also, three cheers for Nora's super-relatable bangs journey!)' </b>Tia Williams, <i>Seven Days in June</i><br /><br /><b>'The master of witty repartee' </b><i>Daily Mail</i><br /><br /><b>'Super fun, sassy, smart, sexy... Emily Henry is now an auto-buy author for me' </b><i>Red Magazine</i><br /><br /><b>'<i>Book Lovers</i> is <i>Schitt's Creek</i> for book nerds' </b>Casey Mcquiston, <i>One Last Stop</i><br /><br /><b>'The most phenomenal portrayal of enemies to lovers I have ever read. . .'</b> Laura Jane Williams, <i>Our Stop<br /><br />Sunday Times bestseller, May 2022</i>
+A BRAND NEW escapist, getaway read set in beautiful Greece🍋🇬🇷 Perfect for fans of of Victoria Hislop, Carol Kirkwood and Karen Swan☀️<br /><br />Can a stay at a magical villa help her find her way to start again?<br /><br />When Cleo arrives at Villa Ariadne on the sun-drenched island of Crete, she’s hoping for space to breathe – and perhaps some clarity about the life she no longer recognises. Newly divorced and estranged from one of her children, she’s not sure what comes next.<br /><br />Sharing the villa with a small group of women, each carrying their own private heartaches, Cleo is drawn into the gentle rhythm of island life. Beneath the lemon trees and endless blue skies, friendships begin to form and long-buried hopes stir.<br /><br />But when an unexpected event shakes their peaceful escape, the women are forced to come together in ways none of them anticipated. And as Villa Ariadne works its quiet magic once more, Cleo may discover that even in uncertainty, second chances are still possible.<br /><br />Praise for Emma Burstall:<br /><br />With a delightful Greek backdrop and an enticing mix of a fractured family, strained friendships, plus a healthy dose of mystery, love and loss, Beneath the Lemon Trees is a gorgeous summer escape' Kate Frost<br /><br />'A wonderful escapist novel – mysteries, revelation and happy endings make it a perfect summer read' Rachel Burton<br /><br />'Brilliant' Phillipa Ashley<br /><br />'A novel to lose yourself in' Faith Hogan<br /><br />'Step into a world of pure escapism in this gripping tale of family secrets, sibling rivalry and summer romance' Chat Magazine<br /><br />'A charming, warm-hearted read... Pure escapism' Alice Peterson<br /><br />'Burstall is a great writer, and this is not your usual run-of-the-mill chick lit... I was gripped from the start' Daily Mail<br /><br />'Burstall has a true knack for transporting you to her world' Jane Corry<br /><br />‘Wow, what an incredible rollercoaster of a read! From the minute I picked up this book, I was swept away by the vividly described landscapes and mouthwatering descriptions of Crete's delectable cuisine.’ Reader Review ⭐️⭐️⭐️⭐️⭐️<br /><br />‘Fabulous, fabulous book, loved every minute of it. The storyline, the varied characters. The setting made me feel I was on holiday.’ Reader Review ⭐️⭐️⭐️⭐️⭐️<br /><br />‘Loved it. A magical villa, a broken family, a dead best friends husband being awkward, beautiful food descriptions, clear blue seas. Just read and escape. Perfect for September blues.’ Reader Review ⭐️⭐️⭐️⭐️⭐️<br /><br />‘Heartwarming and heartbreaking in equal measures! I loved this book so much and could relate to it and the characters! Beautifully written, really made you feel like you were right there in Greece!’ Reader Review ⭐️⭐️⭐️⭐️⭐️<br /><br />‘A charming book about marriage, grief, friendship and parenting, all set in a charming villa under the Cretan sun.’ Reader Review ⭐️⭐️⭐️⭐️⭐️<br /><br />‘What a lovely story, full of loss and grief, love and hope.’ Reader Review ⭐️⭐️⭐️⭐️⭐️
 
-[View on Apple](https://books.apple.com/gb/book/book-lovers/id1583160614)
-
-<a id="a-game-of-thrones"></a>
-## A Game of Thrones
-
-![A Game of Thrones](../../logos/410872932-8c3ba5a7.png)
-
-HBO’s hit series A GAME OF THRONES is based on George R. R. Martin’s internationally bestselling series A SONG OF ICE AND FIRE, the greatest fantasy epic of the modern age. A GAME OF THRONES is the first volume in the series.<br /><br />Summers span decades. Winter can last a lifetime. And the struggle for the Iron Throne has begun.<br /><br />As Warden of the north, Lord Eddard Stark counts it a curse when King Robert bestows on him the office of the Hand. His honour weighs him down at court where a true man does what he will, not what he must … and a dead enemy is a thing of beauty.<br /><br />The old gods have no power in the south, Stark’s family is split and there is treachery at court. Worse, the vengeance-mad heir of the deposed Dragon King has grown to maturity in exile in the Free Cities. He claims the Iron Throne.<br /><br />Reviews<br /><br />‘Of those who work in the grand epic fantasy tradition, Martin is by far the best’<br />Time Magazine<br /><br />‘Colossal, staggering… Martin captures all the intoxicating complexity of the Wars of the Roses or Imperial Rome in his imaginary world … one of the greats of fantasy literature’<br />SFX<br /><br />‘The sheer-mind-boggling scope of this epic has sent other fantasy writers away shaking their heads … Its ambition: to construct the Twelve Caesars of fantasy fiction, with characters so venomous they could eat the Borgias’<br />Guardian<br /><br />About the author<br /><br />George R.R. Martin is the author of fourteen novels, including five volumes of A SONG OF ICE AND FIRE, several collections of short stories and numerous screen plays for television drama and feature films. He lives in Santa Fe, New Mexico.
-
-[View on Apple](https://books.apple.com/gb/book/a-game-of-thrones/id410872932)
-
-<a id="the-kill-switch"></a>
-## The Kill Switch
-
-![The Kill Switch](../../logos/6758532495-b08ad20e.png)
-
-<b>The death of a Prime Minister is just the beginning in this brand-new explosive political thriller from the bestselling author of </b><i>The Whistleblower </i><b>that sees journalist Gil Peck embroiled in a high-stakes conspiracy. Perfect for fans of Robert Harris, Frank Gardner and Tom Bradby.</b><br /><br />'<i>HOUSE OF CARDS </i>MEETS <i>SEVERANCE </i>IN PESTON'S PACY, WILD AND MIND-BENDING NEW NOVEL THAT MAY BE CLOSER TO THE FUTURE THAN WE THINK' <b>- ED BALLS</b><br /><br />'A scintillating, edge-of-the-seat read' - <i><b>RADIO TIMES</b></i><br /><i></i>________________________<br /><br />Journalist Gil Peck has spent decades breaking stories about Britain's political elites, shining a light on the darkest corners of Whitehall.<br /><br />But when the Prime Minister, Stella Barnsbury, collapses during an interview on his podcast he finds himself at the centre of the scoop.<br /><br />Within 48 hours, the Prime Minister is dead. And when foul play is confirmed, Gil and his partner Jess - the last civilians to see Stella alive - become the prime suspects.  <br /><br />With everything on the line, Gil and Jess investigate the government's shadowy contract with a global tech giant - a deal that collapsed in the lead up to Stella's assassination. Was it just another government U-turn, motive for murder - or worse?<br /><br />In a brave new world of megalomaniac technocrats, malevolent AI super-intelligence and cutting-edge brain implants, Gil must confront a deadly, age-old question: how far will some go in the name of progress . . . and profit?<br /><br /><b>PRAISE FOR THE GIL PECK SERIES:</b><br /><b>'Brilliant' - THE TIMES</b><br /><b>'Cracking' - DAILY MAIL</b><br /><b>'Winning' - SUNDAY TIMES</b><br /><b>'A hell of a read' - OBSERVER</b><br /><b>'Enthralling' - FINANCIAL TIMES</b><br /><b>'Enjoyable, intelligent' - GUARDIAN</b><br /><b>'A romping thriller' - INDEPENDENT</b><br /><b>'A rollicking read' - EVENING STANDARD</b><br /><b>'A gripping thriller' - DAILY EXPRESS</b><br /><b>'Fascinating' - DAILY MIRROR</b><br /><b>'Gripping' - RADIO TIMES</b><br /><b>'Compelling' - THE SUN  </b>
-
-[View on Apple](https://books.apple.com/gb/book/the-kill-switch/id6758532495)
-
-<a id="summer-in-the-city"></a>
-## Summer in the City
-
-![Summer in the City](../../logos/6538720963-e5a7f1f6.png)
-
-&#39;Pure, steamy fun, and the perfect summer read&#39; Ali Hazelwood, author of The Love Hypothesis<br/>
-<br/>
-From New York Times and Sunday Times bestselling author Alex Aster comes this year&#39;s hottest romance.<br/>
-<br/>
-Elle has the chance of a lifetime to write a movie set in New York City. The only problem? Her recent writer&#39;s block.<br/>
-<br/>
-When Elle returns to NYC, she finds her new neighbour to be none other than handsome tech billionaire Parker Warren. The same guy she had a disastrous hook up with two years ago. When seeing him again leads to a night of hate-fuelled writing, Elle realises he might just be her twisted muse.<br/>
-<br/>
-Parker needs a fake relationship to help secure a business deal. Elle needs to test date spots for her screenplay. So, they make a deal.<br/>
-<br/>
-Summers always end, and so will this agreement.<br/>
-It&#39;s all pretend.<br/>
-Until it isn&#39;t.<br/>
-<br/>
-If you like...<br/>
-Billionaire romances<br/>
-Forced proximity<br/>
-Neighbours<br/>
-Fake dating<br/>
-Enemies-to-lovers<br/>
-Slow burn<br/>
-Spice<br/>
-...you&#39;ll love Summer in the City<br/>
-<br/>
-Discover Alex Aster&#39;s brand-new adult romantasy debut, Starside, available to pre-order now!<br/>
-<br/>
-<br/>
-<br/>
-Summer in the City ranked no. 10 on the Sunday Times bestseller chart and no. 2 on the New York Times bestseller chart week ending 29/03/25.
-
-[View on Apple](https://books.apple.com/gb/book/summer-in-the-city/id6538720963)
-
-<a id="exit-strategy"></a>
-## Exit Strategy
-
-![Exit Strategy](../../logos/6737301817-e4b3ae05.png)
-
-'If there is a more iconic character in modern fiction than Jack Reacher, I'd like to meet them.' DAILY MIRROR<br /><br /><b>THE NEW JACK REACHER THRILLER</b><br /><br /><b>Jack Reacher will make three stops today. Not all of them were planned for. </b> The 'gripping must-read' (<i>Express</i>) new Jack Reacher thriller featuring 'the best villain yet' (USA Today)!<br /><br />First – a Baltimore coffee shop. A seat in the corner, facing the door. Black coffee, two refills, no messing about. A minor interruption from two of the customers, but nothing he can’t deal with swiftly. As he leaves, a young guy brushes against him in the doorway. Instinctively Reacher checks the pocket holding his cash and passport. There's no problem. Nothing is missing.<br /><br />Second – a store to buy a coat. Nothing fancy. Something he can ditch when he heads to warmer climes. Large enough to fit a man the size of a bank vault. As he pulls out his cash, he finds something new in his pocket. A handwritten note. A desperate plea for help.<br /><br />Third – wherever this bend in the road takes him. Impressed by the guy's technique and intrigued by the message, Reacher makes it his mission to find out more . . .<br /><br /><b><i>We all need Jack Reacher – a righteous avenger for our troubled times.</i></b><br /><br />'There's only one Jack Reacher. Accept no substitutes.' MICK HERRON<br /><br />'It's no wonder Jack Reacher is everyone's favourite rebel hero.' KARIN SLAUGHTER<br /><br />'These books are absolutely addictive. When you pick them up you can't put them down.' GEORGE R. R. MARTIN<br /><br /><i>Although the Jack Reacher novels can be read in any order, EXIT STRATEGY is the 30th book in the internationally bestselling series.</i><br /><br />And don’t miss the hit Amazon Prime streaming series <b>Reacher</b>!
-
-[View on Apple](https://books.apple.com/gb/book/exit-strategy/id6737301817)
+[View on Apple](https://books.apple.com/gb/book/the-villa-of-secrets/id6762262494)
 
 <a id="falling-in-love-at-pennycress-inn"></a>
 ## Falling in Love at Pennycress Inn
@@ -1177,3 +978,174 @@ Summer in the City ranked no. 10 on the Sunday Times bestseller chart and no. 2 
 Brand new from Sarah Hope, bestselling author of Welcome to Pennycress Inn ☀️ 'Feel-good, romantic perfection - a warm hug in book form!' Jessica Redland Is this just a summer romance or could it be more? 💕<br /><br />Nicola grew up at Pennycress Inn, in the beautiful Cotswold village of Meadowfield, and now she’s come full circle by landing a job there. After a difficult few months, she’s happy to be back in the place she loves and calls home.<br /><br />The whole village is looking forward to the annual summer carnival, and Nicola is charged with asking the local farmers to lend their tractors and trailers for the occasion. It’s an easy task – until she meets the new owner of Little Mead Farm, who stubbornly refuses to help.<br /><br />On sabbatical from his City job for the summer, Charlie wants to do up his late uncle’s farm and put it on the market as soon as possible. The place might have been in his family for generations but country life is simply not for him. He has no time for whatever the villagers are up to.<br /><br />When Nicola and Charlie meet, sparks fly – and unexpected feelings grow. Soon there’s more at stake in Meadowfield than the success of the carnival. But whatever happens between them, this is just a summer romance… isn’t it?<br /><br />A gorgeously romantic and feelgood summer read set in the Cotswolds, for fans of Laurie Gilmore, Sarah Morgan and Heidi Swain - it'll definitely put a smile on your face<br /><br />Praise for Sarah Hope:<br /><br />'Love, LOVE, LOVED this absolutely gorgeous page turner!! An absolute must read!!!' ★★★★★ Reader Review<br /><br />'A gorgeous story and one I would definitely recommend. It is light-hearted but with some serious things as well.' ★★★★★ Reader Review<br /><br />'A nice easy read that had me hooked. Loved all the characters.' ★★★★★ Reader Review<br /><br />'A perfect feel good read that left a smile on my face.' ★★★★★ Reader Review<br /><br />'All Sarah's characters are well constructed and three dimensional, the kind you'd want as your own friends.' ★★★★★ Reader Review
 
 [View on Apple](https://books.apple.com/gb/book/falling-in-love-at-pennycress-inn/id6745398233)
+
+<a id="the-names"></a>
+## The Names
+
+![The Names](../../logos/6469473950-e06148e8.png)
+
+<b>A once-in-a-generation debut from a major new talent, <i>The Names </i>is the story of three names, three versions of a life, and the infinite possibilities that a single decision can spark. </b><br /><b>    <br /></b><b>THE NUMBER ONE <i>SUNDAY TIMES</i> BESTSELLER<br /></b><b>WINNER OF THE BRITISH BOOK AWARDS DEBUT NOVEL OF THE YEAR 2026</b><br /><b><br />'I've just been blown away by the best debut novel in years . . . A genius idea for a book'<br /><i>Sunday Times</i><br />'Wildly original and emotionally profound'<br /><i>Observer</i><br /><br />'An unadulterated success: moving, evocative and utterly convincing'<br /><i>The Times</i><br /></b><br /><b></b><b>OVER HALF A MILLION COPIES SOLD</b><br /><br />It is 1987, and in the wake of a great storm, Cora sets out with her young daughter to register the birth of her son. Her husband expects her to follow tradition and call the baby after him - but is it right for her child to inherit his name from generations of domineering men? Her choice will shape the course of their lives.<br /><br />Seven years later, her son is Bear, a name chosen by his sister, hoping he will grow up to be brave and big-hearted. Or he is Julian, the name his mother set her heart on, keen for him to become his own person. Or he is Gordon, named after his father and raised in his cruel image - but is there still a chance to break the mould?<br /><br />Powerfully moving and full of hope, this is the story of three names, three versions of a life, and the infinite possibilities that a single decision can spark.<br /><b><br />A BOOK OF THE YEAR IN THE <i>SUNDAY TIMES</i>, <i>GUARDIAN</i>, <i>INDEPENDENT</i>, <i>IRISH MAIL ON SUNDAY</i>, <i>COSMOPOLITAN</i> AND MANY MORE | A <i>READ WITH JENNA</i> AND <i>HAPPY PLACE</i> BOOKCLUB PICK</b><br /><br /><b>'The viral literary hit'<br /><i>Grazia</i></b><br /><br /><b>'A beautiful, heartwrenching, utterly original novel'<br />Miranda Cowley Heller</b><br /><br /><b>'One of those rare books that makes you glad to be alive'<br /><i>Stylist</i></b><br /><br /><b>'Magnificent . . . Read it. It's very special'<br />Chris Whitaker</b><br /><br /><b>'Beautifully written, and wise and tender . . . An utter original'<br />Jojo Moyes</b><br /><br /><b>'Exceptional . . . will stay with me for a very long time'<br />Anita Rani, Woman's Hour</b><br /><br /><b>'Heart-shattering . . . a sucker punch of a novel'<br />Pandora Sykes</b><br /><br /><b>'A modern classic'<br />Jenna Bush Hager</b><br /><br /><b>'Heartbreaking and yet brimful of hope . . . Exceptional'<br /><i>Mail on Sunday</i></b><br /><br /><b>'Brilliant . . . one of those books that will make you irritable with anyone who interrupts you, but which you'll finish wanting to press into the hands of a friend'<br /><i>The Times</i></b><br /><br /><b>'Astonishing, unique and incredibly moving, <i>The Names </i>is a beautiful novel about the courage of a mother in the moment she names her child . . . I know it will stay with me for a long time'<br />Jeanine Cummins</b>
+
+[View on Apple](https://books.apple.com/gb/book/the-names/id6469473950)
+
+<a id="love-song"></a>
+## Love Song
+
+![Love Song](../../logos/6744823016-11c41e5d.png)
+
+<b>*The limited deluxe edition includes inside printing artwork*</b><br /><br /><b>Featuring the love story of the next generation of the beloved and iconic Off-Campus couples from The Deal and The Mistake - coming to TV on Amazon Prime in May...</b><br /><br />New York Times bestselling author Elle Kennedy returns with her signature heat and humor for a Briar universe standalone romance - where one unforgettable summer changes everything.<br /><br />Join us at the Logan family lake house in Tahoe...<br /><br />After a brutal breakup, college junior Blake Logan escapes to her family's lake house in Tahoe, determined to shut out the world. Her plan is simple: no men, no drama. Until Wyatt Graham shows up. Four years older and far too good at getting under her skin, Wyatt is the living embodiment of a "bad idea," and the guy who shattered her pride when she confessed her crush at sixteen.<br /><br />With his music career stalled, Wyatt has come to Tahoe for inspiration. The last thing he expects is to find it with Blake. He's spent years keeping his distance, convinced he's all wrong for her, but she's no longer the innocent girl he once knew. She's confident, captivating, and impossible to ignore. And the slow-burning tension between them? It's catching fire fast.<br /><br />They both know this can't last, but one reckless kiss turns into another, and soon they're tangled in something that feels dangerously like more. Just as they finally give in to the pull, tragedy tears them apart, leaving their hearts in pieces.<br /><br />But forgetting that one, nearly perfect summer? Not a chance. And when fate brings them together again, Blake and Wyatt must decide if this is a second chance...or the final verse.
+
+[View on Apple](https://books.apple.com/gb/book/love-song/id6744823016)
+
+<a id="having-spent-life-seeking"></a>
+## Having Spent Life Seeking
+
+![Having Spent Life Seeking](../../logos/6749034297-8064914d.png)
+
+<b>*Dua Lipa's Service95 Book Club Pick for June 2026*<br /><br />'Trust me, you will love these characters' DUA LIPA<br />'Amazing, it really moved me' SHON FAYE<br />'If books can still change the world, this one most likely will' COLUM MCCANN</b><br /><br /><b>Rothko Taylor has washed up with the tide, back in their hometown, Edgecliff. Fifteen years since they left it behind.</b><br /><br />The past is accelerating towards them: the skateboard kids on the high street that remind them of their teenage years, the splintered benches looking out to sea, where their mum Meg clutched her cans. The nice bit of town, where their dad Ezra tried and failed to build a happy home. And Dionne's block. Beautiful, extraordinary Dionne, the only person who had ever looked at them and seen what was there.<br /><br />Back then, overwhelmed and full of fear, they sank beneath the surface into chaos. But they made it out alive. And this time, Rothko is determined that things will be different.<br /><br /><b>'A scorching story of love, change, homecoming and forgiveness' DAWN FRENCH</b><br /><br /><b>'A wonderful, moving and enlightening state-of-Britain novel' IRVINE WELSH</b><br /><br /><b>'A master-craftsman of deep feeling and linguistic intimacy' MAX PORTER<br /><br />'Kae Tempest at his finest' ANTHONY SHAPLAND<br /><br />'Unboundedly beautiful' MICHAEL PEDERSEN</b>
+
+[View on Apple](https://books.apple.com/gb/book/having-spent-life-seeking/id6749034297)
+
+<a id="verity"></a>
+## Verity
+
+![Verity](../../logos/1598523213-93bafc8b.png)
+
+<b>Colleen Hoover brought you the beautiful, unforgettable <i>It Ends With Us</i>. Now, discover her thriller with a twist that will leave you reeling . . . <i>Verity </i>is a global word-of-mouth hit, with over a million five-star reviews from readers, and now adapted into a major film starring Anne Hathaway and Dakota Johnson.</b><br /><br />Lowen Ashleigh is a struggling writer on the brink of financial ruin when she accepts the job offer of a lifetime. Jeremy Crawford, husband of bestselling author Verity Crawford, has hired Lowen to complete the remaining books in a successful series his injured wife is unable to finish.<br /><br />Lowen arrives at the Crawford home, ready to sort through years of Verity's notes and outlines, hoping to find enough material to get her started. What Lowen doesn't expect to uncover in the chaotic office is an unfinished autobiography Verity never intended for anyone to read. Page after page of bone-chilling admissions, including Verity's recollection of the night their family was forever altered.<br /><br />Lowen decides to keep the manuscript hidden from Jeremy, knowing its contents would devastate the already-grieving father. But as Lowen's feelings for Jeremy begin to intensify, she recognizes all the ways she could benefit if he were to read his wife's words. After all, no matter how devoted Jeremy is to his injured wife, a truth this horrifying would make it impossible for him to continue loving her . . .
+
+[View on Apple](https://books.apple.com/gb/book/verity/id1598523213)
+
+<a id="ransom"></a>
+## Ransom
+
+![Ransom](../../logos/6749361643-0fe33fdd.png)
+
+Art restorer and legendary spy Gabriel Allon searches for the missing wife of a British billionaire in the electrifying new tale of greed, corruption, and betrayal from #1 New York Times bestselling novelist Daniel Silva.<br /><br />Alice Winter, one of Britain’s most dazzling socialites, seemingly has the perfect life – a lavish home in posh Knightsbridge, a grand estate in Devon, millions of followers on social media who eagerly await her next post. But when she disappears without a trace while on holiday with three old friends from Cambridge, her desperate husband, the real estate baron Edward Knight, turns to none other than Gabriel Allon to find her.<br /><br />He soon discovers that Alice Winter is not the woman she appears to be, that she has a reckless side, that she has secrets. But Edward Knight has a secret too, a secret so dangerous that Gabriel will have no choice but to return to the life he thought he had left behind. An old enemy lurks there, waiting for him to make one misstep, waiting for the perfect moment to exact vengeance.<br /><br />From its irresistible opening chapters to its heart-pounding climax and shocking final twist, Ransom is a riveting, page-turning tour de force that proves yet again why Daniel Silva is the reigning master of international intrigue and suspense.<br /><br />Pre-order now!<br /><br />'Allon is the 21st century Bond' – DAILY MAIL<br /><br />'A world-class practitioner of spy fiction' – WASHINGTON POST<br /><br />'Sexily brooding Allon… must be the most famous superspy not played by Daniel Craig' – DAILY TELEGRAPH<br /><br />Reviews<br /><br />Praise for the series:<br /><br />'Allon is the 21st century Bond' – DAILY MAIL<br /><br />'A world-class practitioner of spy fiction' – WASHINGTON POST<br /><br />'Sexily brooding Allon… must be the most famous superspy not played by Daniel Craig' – DAILY TELEGRAPH<br /><br />'[A] top-notch thriller by a writer with the inside track on spying' THE SUN<br /><br />‘A tense, thrilling adventure’ HUFFINGTON POST<br /><br />About the author<br /><br />Daniel Silva is the award-winning, No.1 New York Times bestselling author of twenty-three novels, including The Unlikely Spy, The Confessor, A Death in Vienna, The Messenger, Moscow Rules, The Rembrandt Affair, The English Girl and The Black Widow. His books are published in more than thirty countries and are best sellers around the world. He lives in Florida with his wife, CNN special correspondent Jamie Gangel, and their two children, Lily and Nicholas.
+
+[View on Apple](https://books.apple.com/gb/book/ransom/id6749361643)
+
+<a id="men-in-love"></a>
+## Men in Love
+
+![Men in Love](../../logos/6738942232-fef91bc1.png)
+
+<b>Choose life. Choose love? The </b><b><i>Trainspotting</i></b><b> crew fall for rave and romance in Irvine Welsh</b><b>’</b><b>s exhilarating new novel.</b><br /><br /><b><br />‘</b><b>Propulsive, hilarious and bittersweet in equal measure</b><b>’</b> <i>GQ</i><br /><br />It’s the late 1980s. Separated after a drug deal gone wrong, Renton, Sick Boy, Spud and Begbie each want to feel alive. They fill their days with sex and romance and trying to get ahead; they follow the call of the dance floor, with its promise of joy and redemption.<br /><br />Sick Boy begins an intense relationship with Amanda – rich, connected, his ‘princess’. When the pair set a date for their wedding, he sees a chance for his generation to take control at last. <br /><br />But as the 1990s dawn, will finding love be the answer to the group’s dreams or just another doomed quest?<br /><br /><b>*A Best Summer Read for the <i>New York Times</i>, <i>Guardian</i>, <i>i Paper </i>and <i>Esquire</i>*</b><br /><br /><b>‘</b><b>His paciest, funniest, most page-turning book in years</b><b>’</b> <i>SCOTSMAN</i><br /><br /><b>‘</b><b>There</b><b>’</b><b>s no slacking in either the pace or the energy</b><b>’</b> <i>FINANCIAL TIMES</i><br /><b><br />‘</b><b>These characters remain alive on the page</b><b>’</b> <i>DAILY MAIL</i><br /><br /><b>‘</b><b>Brilliant</b><b>’</b> <i>SUNDAY EXPRESS</i><br /><br /><b>**PRE-ORDER IRVINE WELSH’S NEXT NOVEL </b><b><i>CAN NOTHING SAVE US? </i></b><b>NOW**</b><br /><br />(<i>Men in Love</i> was a #4 <i>Sunday Times</i> bestseller, July 2025)
+
+[View on Apple](https://books.apple.com/gb/book/men-in-love/id6738942232)
+
+<a id="onyx-storm"></a>
+## Onyx Storm
+
+![Onyx Storm](../../logos/6479940247-e69a9fd1.png)
+
+<b>DON'T BE THE LAST TO DISCOVER THE BREATHTAKING FOLLOW-UP TO <i>FOURTH WING </i>AND <i>IRON FLAME</i> </b><br /><br />The third book in the record-breaking Empyrean series from the no. 1 <i>Sunday</i> <i>Times</i> and <i>New</i> <i>York</i> <i>Times</i> bestselling author Rebecca Yarros.<br /><br />'Incredible storytelling on every page'<br /> <b><i>THE</i> <i>SUN</i></b><br /><br /><b>'</b>Pure escapism . . . We'd suggest savouring every moment'<br /> <b><i>INDEPENDENT </i></b><br /><br />'Full of action, suspense and intrigue. This is the ride you have been waiting for, hold on tight' <br /> <b><i>DAILY MIRROR</i></b><br /><br />-<br /><br /> <b>A STORM IS COMING . . . AND NOT EVERYONE CAN SURVIVE ITS WRATH.</b><br /><br /> After nearly eighteen months at Basgiath War College, Violet Sorrengail knows there's no more time for lessons and no more time for uncertainty - the battle has truly begun. With enemies closing in from all corners, they need an army. They need power. And they need to unravel the dark truth about what's really happening on the continent before it's too late.<br /><br />Violet must embark on her most dangerous mission yet and travel beyond the failing wards to seek allies who will stand with Navarre. The trip will push her to the very edge of her power, and the odds of dying are far greater than the hope of success. But Violet will risk everything to save her dragons, her family, and <i>him</i> . . .  even if it means keeping a secret so big it could destroy them all.<br /><br /><b>ARE YOU READY TO BRAVE THE DARK?</b><br /><br /><b>--</b><br /><br /><b>PRAISE FOR THE EMPYREAN SERIES</b><br /><br /> 'I couldn't put it down!' <b>Millie</b> <b>Bobby</b> <b>Brown</b><br /><br /> 'Pure escapism - think <i>Hunger Games</i> meets <i>Fifty Shades</i>' <b><i>The</i></b><i> <b>Sun</b></i><br /><br /> 'We weren't expecting to become obsessed . . . but we very much are and we're not alone' <b><i>Sunday</i></b><i> <b>Times</b> <b>Style</b></i><br /><br /> 'This book contains an addictive, drug-like essence that will make you relinquish all responsibility'<i> <b>Glamour</b><br /> </i><br /> 'Yarros had me hooked from the first chapter' <b><i>Mail</i></b><i> <b>on</b> <b>Sunday</b></i><br /><br /> 'The new publishing sensation' <b><i>Daily</i></b><i> <b>Mail</b></i><br /><br /> 'Yarros is the true inheritor of Harry Potter and inspires Hunger Games levels of devotion' <b><i>Guardian</i></b><br /><br /> 'A deliciously gripping dish, which I downed in one sitting' <b><i>Stylist</i></b><br /><br /> '2024 is the Year of the Dragon . . . Dive into a fantasy narrative featuring these mythical, winged creatures' <b><i>Pop</i></b><i> <b>Sugar</b></i><br /><br /> 'One of the publishing events of the year' <b>BBC</b> <b>News</b><br /><br />'Prepare to get obsessed' <b><i>Cosmopolitan</i></b><br /><b><br /> OTHER BOOKS IN THE EMPYREAN SERIES:</b><br /> - FOURTH WING<br /> - IRON FLAME<br /> - ONYX STORM
+
+[View on Apple](https://books.apple.com/gb/book/onyx-storm/id6479940247)
+
+<a id="my-name-is-lucy-barton"></a>
+## My Name Is Lucy Barton
+
+![My Name Is Lucy Barton](../../logos/1047478196-8ff6e86c.png)
+
+<b>A #1 NEW YORK TIMES BESTSELLER</b><br /><b>LONGLISTED FOR THE MAN BOOKER PRIZE &amp;</b><b> THE WOMEN'S PRIZE FOR FICTION</b><br /><br /><b>An exquisite story of mothers and daughters from the Pulitzer prize-winning author of <i>Olive Kitteridge</i></b><br /><br />Lucy is recovering from an operation in a New York hospital when she wakes to find her estranged mother sitting by her bed. They have not seen one another in years. As they talk Lucy finds herself recalling her troubled rural childhood and how it was she eventually arrived in the big city, got married and had children. But this unexpected visit leaves her doubting the life she's made: wondering what is lost and what has yet to be found.<br /><br /><b>The story continues in <i>Anything is Possible</i>, <i>Oh William! </i>and <i>Lucy by the Sea</i>, available to read now!</b><br /><br />*****<br /><br /><b>'A terrific writer' Zadie Smith</b><br /><br /><b>'A superbly gifted storyteller and a craftswoman in a league of her own' Hilary Mantel</b><br /><br /><b>'So good it gave me goosebumps. One of the best writers in America' <i>Sunday Times<br /><br /></i></b><b>Elizabeth Strout's new novel <i>Tell Me Everything </i>is out now!</b>
+
+[View on Apple](https://books.apple.com/gb/book/my-name-is-lucy-barton/id1047478196)
+
+<a id="lost-lambs"></a>
+## Lost Lambs
+
+![Lost Lambs](../../logos/6745533976-cdf8561e.png)
+
+<b>SHORTLISTED FOR THE WATERSTONES DEBUT FICTION PRIZE 2026</b><br /><br />‘EXTREMELY SMART, IMPOSSIBLY FUNNY, AND JUST PLAIN FUN TO READ’ <b>CARO CLAIRE BURKE, AUTHOR OF <i>YESTERYEAR</i></b><br /><br />‘A VOICE LIKE NO OTHER’ <b>LENA DUNHAM </b><br /><br /><b>Think your family is dysfunctional? Meet the Flynns.</b><br /><br />For the three Flynn daughters, it’s been disastrous since their parents opened up their marriage. Abigail, the eldest, is dating an ex-soldier several years her senior nicknamed ‘War Crimes Wes’. Louise, the middle child, maintains a secret correspondence with an online terrorist. And the brilliant youngest, Harper, is being sent to a wilderness reform camp due to her insistence that someone – or something – is monitoring the town’s citizens.<br /><br />Casting a shadow across their lives is Paul Alabaster, a nefarious local billionaire. Rumours of corruption circulate, but no one dares dig too deep. No one except Harper, whose obsession with Alabaster’s machinations sends the family hurtling into a criminal conspiracy – one that may just, finally, bring them closer together.<br /><br /><b>The instant</b> <b><i>Sunday Times</i></b> <b>bestseller</b><br /><br />‘THE MOST WILDLY ORIGINAL BOOK OF THE YEAR’ <b><i>HARPER’S BAZAAR</i></b><br /><br />‘THE DEBUT NOVEL FOR 2026 THAT HAS UNDOUBTEDLY BEEN THE MOST SHOUTED ABOUT’ <b><i>THE SUNDAY TIMES STYLE</i></b><br /><br />‘A DARKLY FUNNY FAMILY SAGA’ <b><i>BUSTLE</i></b><br /><br />‘AN INSTANT CLASSIC’ <b><i>SHORTLIST</i></b><br /><br />Readers love LOST LAMBS<br />‘What a ROMP!’ ⭐ ⭐ ⭐ ⭐ ⭐<br />‘The hype is real!’ ⭐ ⭐ ⭐ ⭐ ⭐<br />‘Hilarious, weird, original and addictive!’ ⭐ ⭐ ⭐ ⭐ ⭐<br />‘If Wes Anderson wrote <i>Little Women</i>.’ ⭐ ⭐ ⭐ ⭐ ⭐<br />‘I’m shouting it from every rooftop: THIS IS THE BOOK OF THE YEAR!’ ⭐ ⭐ ⭐ ⭐ ⭐<br />‘Perhaps the funniest book I’ve ever read.’ ⭐ ⭐ ⭐ ⭐ ⭐
+
+[View on Apple](https://books.apple.com/gb/book/lost-lambs/id6745533976)
+
+<a id="fury-bound"></a>
+## Fury Bound
+
+![Fury Bound](../../logos/6746737893-dc0e0862.png)
+
+⚔️ 🐺 <b>DISCOVER THE SERIES EVERYONE IS OBSESSED WITH! </b> 🐺 ⚔️<br /><br />'<b>A God Tier Fantasy book!!!</b> You need to read it IMMEDIATELY.'<br /><br />'<b>THIS IS WHY I READ!</b>'<br /><br />'OMG THIS BOOK YOU GUYS!!! <b>I'm OBSESSED and I need to know what happens next</b> like ASAP.'<br /><br />'This book is so FREAKING GOOD! It had me on the edge of my seat. This plot has so many twists and turns … <b>I loved every second</b>'<br /><br /><b>Don’t miss this action-packed, jaw-dropping, dark and romantic sequel to the globally bestselling phenomenon, <i>Dire Bound</i>.<br /><br />*******</b><br /><b>CROWNED BY DESTINY. CONSUMED BY VENGEANCE.<br /><br />Against all odds, Meryn Cooper has inherited the crown </b>– and a deadly war. As the Kingdom of Nocturna splinters under the weight of generations of lies, it is up to Meryn, her bonded direwolf Anassa and their allies to bring the country back from the brink.<br /><br />But the commoners, the Bonded and the nobles are distrustful of their new queen and Meryn is caught in a deadly game of politics. Meanwhile, Meryn's beloved sister, Saela, is more at risk than ever.<br /><br />Confusingly, the one person Meryn can trust is Stark Therion – the dark, dangerous Alpha she thought hated her as much as she loathed him. Yet, his loyalty is unshakeable. His presence intoxicating. And with his guidance, Meryn can seize an unthinkable level of power.<br /><br />With enemies closing in and shadows stirring her dreams, Meryn stands to lose her kingdom – and her heart.<br /><br /><b>Blood will spill. Bonds will break. Fate will be tested.</b><br /><br /><b>THE SEQUEL DRIVING READERS WILD WITH ANTICIPATION:</b><br />⭐ ⭐ ⭐ ⭐ ⭐ 'Wow! Absolutely hooked, <b>give me the next book right now please</b>!!'<br />⭐ ⭐ ⭐ ⭐ ⭐ 'The cliffhanger?<b> I need book two. Immediately</b>.'<br />⭐ ⭐ ⭐ ⭐ ⭐ 'I <b>can't wait for book 2 to be out</b>, the hangover is real but so worth it!!'<br />⭐ ⭐ ⭐ ⭐ ⭐ 'I just loved every second and <b>can’t wait for book 2</b>!'<br /><br />The Wolves of Ruin series is best enjoyed in order:<br />Book #1 Dire Bound<br />Book #2 Fury Bound
+
+[View on Apple](https://books.apple.com/gb/book/fury-bound/id6746737893)
+
+<a id="the-nightingale"></a>
+## The Nightingale
+
+![The Nightingale](../../logos/919133602-1e4d5825.png)
+
+<b>The bestselling Reese Witherspoon Book Club Pick</b><br /><br /><b>'One of the greatest storytellers of our time' – Delia Owens, author of <i>Where the Crawdads Sing</i></b><br /><br /><b>Soon to be a major motion picture, <i>The Nightingale</i> is a multi-million copy bestseller across the world. It is a heart-breakingly beautiful novel that celebrates the resilience of the human spirit and the endurance of women.</b><br /><br /><b><i>'</i></b><i>I always thought it was what I wanted: to be loved and admired. Now I think perhaps I’d like to be known'</i><br /><br />This story is about what it was like to be a woman during World War II when women’s stories were all too often forgotten or overlooked . . . Vianne and Isabelle Mauriac are two sisters, separated by years and experience, by ideals and passion and circumstance, each embarking on her own dangerous path towards survival, love and freedom in war-torn France.<br /><br /><b>Kristin Hannah's <i>The Nightingale</i> is a novel for everyone, a novel for a lifetime.<br /><br />‘A rich, compelling novel of love, sacrifice and survival’ - Kate Morton<br /><br />‘Movingly written and plotted with the heartless skill of a Greek tragedy, you’ll keep turning the pages until the last racking sob’ - <i>Daily Mail</i><br /><br />‘I loved <i>The Nightingale</i> . . . great characters, great plots, great emotions, who could ask for more in a novel?’ - Isabel Allende, bestselling author of <i>The House of the Spirits</i><br /><br />‘A gripping tale of family, love, grief and forgiveness’ - <i>Sunday Express</i></b><br /><br /><i>The Nightingale has sold more than 4 million copies globally, TIME, February 2021</i>
+
+[View on Apple](https://books.apple.com/gb/book/the-nightingale/id919133602)
+
+<a id="rewind-it-back"></a>
+## Rewind It Back
+
+![Rewind It Back](../../logos/6698900603-d80d83cc.png)
+
+<b>IT'S TIME FOR THE FINAL INSTALMENT IN THE WINDY CITY SERIES, AND READERS ARE ALREADY OBSESSED...<br /><br /> </b>'Feeling too emotional to write a review so check back in 24 hours once I've stopped dry heaving over the fact that this is over' ⭐⭐⭐⭐⭐<br />'10/10, infinity stars, 100% flawless. Surpassed all my wildest dreams, broke me in a hundred ways and re-made me every single time' ⭐⭐⭐⭐⭐<br />'Everything I never knew I needed' ⭐⭐⭐⭐⭐<br />'All the freaking stars!!!! I'm so emotional right now thinking about the fact that this is the final book in the Windy City series . . . absolute perfection' ⭐⭐⭐⭐⭐<br />'HOLY MOLY THIS BOOK OWNS ME... Could not have ended this series more perfectly' ⭐⭐⭐⭐⭐<br />'It's currently 3am and I'm crying because this series is over. Nothing will ever compare. Nothing' ⭐⭐⭐⭐⭐<br />'The easiest 5 stars I've ever given' ⭐⭐⭐⭐⭐<br />'I am utterly wrecked in the best way and will be thinking about this book for months' ⭐⭐⭐⭐⭐<br /> <b><br /> HALLIE</b><br /><br /> When I was eleven, my family moved next door to his.<br /> When I was thirteen, he was my first crush.<br /> When I was sixteen, we fell for each other.<br /><br /> And when I was nineteen, we broke each other's hearts.<br /><br /> Six years later, I've landed an internship with a big-name interior designer in a new city. Unfortunately, that city just so happens to be the one <i>he</i> plays hockey for.<br /><br /> I thought Chicago was big enough to avoid him, until I get the surprise of a lifetime and unknowingly move in right next door. Even worse? The renovation project I'm assigned to in hopes of turning that internship into my full-time dream job...<br /><br /> It's <i>his</i> house.<br /><br /> But how am I supposed to update his bachelor pad into a family home when we can't even stand to be in the same room?<br /><br /> I may have loved Rio DeLuca once, but I'm not that same girl anymore.<br /><br /> <b>RIO</b><br /><br /> I never thought I'd be the only single one left in my friend group. But after years of trying to find love, I've concluded it may not exist for me anymore.<br /><br /> That is, until I accidentally hire Hallie Hart to renovate my house and our jaded history has me rewinding memories I've kept secret for years.<br /><br /> You see, there's something that my friends don't know.<br /><br /> That connection I've been looking for since I moved to Chicago, that one person some search their entire lives to find . . . I had already found her when I was twelve years old.<br /><br /> And now the only girl I've ever loved is moving into the house next door.<br /><br /> Again.<br /><br /> <b><i>Rewind It Back</i></b> <b>is the fifth and FINAL book in the sensational Windy City series which has gripped over a million readers across the world. But don't worry if you're new round here, you'll still love it as a standalone!</b><br /><br /> <b>🌶️</b>  **<b>ONLY IN THE PAPERBACK: </b>Includes an exclusive SNEAK PEEK of Liz Tomforde's new sports romance, featuring Emmett (Monty) Montgomery and Reese Remington**  <b>🌶️</b>
+
+[View on Apple](https://books.apple.com/gb/book/rewind-it-back/id6698900603)
+
+<a id="broken-house"></a>
+## Broken House
+
+![Broken House](../../logos/6753292238-118db1a8.png)
+
+The truth never stays buried.<br /><br />Lauren Shaw went missing ten years ago, her house left to rot. But new evidence shows that she didn't start a new life someone ended it.<br />PC Lucy Halliday and her police dog Moss are called in as part of the search and it doesn't take Moss long to track down human remains. DCI Jack Ellis leads the case, but their friendship is on a knife edge after he kept a huge secret from her. A secret about Lucy's own past. And one she can't ignore any longer.<br />A strange feeling hangs over the house Lauren's husband never returned there. And her sister is desperately trying to hide something.<br />Can Lucy and Jack put their issues behind them and finally uncover the terrible truth about Broken House?<br /><b>A dark and thrilling police procedural featuring dog handler PC Lucy Halliday. Perfect for fans of Jane Casey, Robert Bryndza and Cara Hunter.</b><br /><br />Praise for <i>Broken House</i><br /><br />'A masterful and disturbing journey into the heart of misogyny and the devastation wreaked on those who are trapped in its grasp. <b>Bold and compelling</b>' Heather Critchlow<br />'Full of unexpected twists and heart-pounding moments, <b>this series just gets better and better</b>' Cressida McLaughlin<br />'Broken House is both <b>gripping and poignant</b>. If you love well-crafted characters that leap off the page, detailed police procedurals with real bite and heart-in-the-mouth <b>twists and turns</b>, then this one is for you. <b>I absolutely loved it!</b> And am still completely in love with Moss. One to watch out for.' Rachel Wolf<br /><br />What readers are saying about <i>Broken House</i><br /><br />‘I got pulled into this story from the first page, and I <b>did not want to put it down</b>’<br /><b>‘Louisa Scarr can do no wrong in my eyes!’</b><br />‘I love this series, <b>Louisa Scarr is one of my favourite authors</b>’<br />‘It was full of twists and turns, gripping, gritty, some <b>nail-biting</b> moments and <b>unputdownable</b>. More please!!’<br /><b>‘Incredible book</b> … Five stars for <i>Broken House</i>!’<br />‘Scarr delivers another <b>tightly plotted, multi-layered story</b> full of suspense, drama, and unexpected twists.’<br /><b>‘Absolute perfection’</b><br /><b>‘I absolutely love this series</b> … Her books are gripping, keep you guessing and on edge’<br />‘Another great addition to this <b>excellent series’</b>
+
+[View on Apple](https://books.apple.com/gb/book/broken-house/id6753292238)
+
+<a id="for-richer-for-poorer"></a>
+## For Richer For Poorer
+
+![For Richer For Poorer](../../logos/6743078265-4786210b.png)
+
+<b><i>For Richer For Poorer</i></b><b> is a compelling family drama about a woman who faces losing everything she has worked for, and has to rebuild her world. From billion-copy bestselling author Danielle Steel.</b><br /><br />Eugenia Ward spent decades building a high-end and hugely successful fashion business, only to see it decimated economically by Covid. As she wrestles with anxious days and sleepless nights, fighting to avoid financial disaster, Eugenia desperately needs new investors – and new ideas.<br /><br />Meanwhile, the demands of motherhood also lay claim to her time. A single parent for over a decade, Eugenia works hard to be a guiding light for her five adult children – but she often finds herself at a loss with their tumultuous lives, while they are oblivious to her financial woes.<br /><br />Wedding plans for her daughter Gloria are ballooning in expense, even as the loutish behaviour of Gloria’s fiancé causes her to question her daughter’s judgment. Meanwhile, Eugenia’s other daughter, Daphne, is due to deliver twins right around the wedding date. As the family gathers for a luxurious holiday in the Hamptons, tempers soon fray, while an unexpected proposal offers Eugenia a professional lifeline.<br /><br /><b>As storm clouds gather, Eugenia must find a way to unite her family and keep her business afloat, forging a new path to success, independent of her roles as mother and entrepreneur . . . </b>
+
+[View on Apple](https://books.apple.com/gb/book/for-richer-for-poorer/id6743078265)
+
+<a id="welcome-to-pennycress-inn"></a>
+## Welcome to Pennycress Inn
+
+![Welcome to Pennycress Inn](../../logos/6673907531-130f4eff.png)
+
+Escape to the beautiful Cotswolds with this gorgeous new romance, perfect for fans of Jessica Redland, Rachael Lucas and Phillipa Ashley ☀️💕<br /><br />Shortlisted for the RNA contempoary romance novel of the year award 2026.<br /><br />'Feel-good, romantic perfection - a warm hug in book form!' Jessica Redland<br /><br />Every book in the Pennycress Inn series can be read as a standalone.<br /><br />Laura wants to shake things up. She’s thirty-eight, and has been living in her parents’ house since her divorce last year. Her siblings seem to have got their lives together: successful careers, happy marriages, beautiful children.<br /><br />Laura’s determined to prove herself. And buying the beautiful Pennycress Inn in the idyllic Cotswolds village of Meadowfield could be just the way to do it.<br /><br />But getting the inn ready for its first guests proves easier said than done! With crumbling walls, dangerous woodwork and loose roof tiles, not to mention unfriendly locals and even errant sheep, Laura soon fears she’s made the wrong choice.<br /><br />Luckily a friendly face is on hand in the form of gorgeous chef, Jackson. But is he too good to be true? And just why are the villagers so against her?<br /><br />Can Laura turn her life around and get the fresh start she longs for at Pennycress Inn?<br /><br />Praise for Sarah Hope:<br /><br />'A gorgeous story and one I would definitely recommend. It is light-hearted but with some serious things as well.' ★★★★★ Reader Review<br /><br />'A nice easy read that had me hooked. Loved all the characters.' ★★★★★ Reader Review<br /><br />'A perfect feel good read that left a smile on my face.' ★★★★★ Reader Review<br /><br />'All Sarah's characters are well constructed and three dimensional, the kind you'd want as your own friends.' ★★★★★ Reader Review<br /><br />'Love, LOVE, LOVED this absolutely gorgeous page turner!! An absolute must read!!!' ★★★★★ Reader Review
+
+[View on Apple](https://books.apple.com/gb/book/welcome-to-pennycress-inn/id6673907531)
+
+<a id="famous-last-words"></a>
+## Famous Last Words
+
+![Famous Last Words](../../logos/6480269009-637ee373.png)
+
+<b>He’s Your Husband. A Father. A Friend. And Now He’s Live on TV... as a Hostage-Taker.<br /><br />A chilling new page-turner to devour this Christmas – from the Sunday Times bestseller and Queen of Thrillers, Gillian McAllister<br /></b><br />'<b>What an incredible, gripping, thrilling read'</b> LISA JEWELL<br /><br />---<br /><br />It’s Camilla’s first day back at work. And her daughter’s first day at nursery. But where is her husband Luke? The only trace of him is an unfinished note.<br /><br />Then she sees the breaking news: a hostage situation just streets away. Next the police arrive: Luke is caught up in it.<br /><br />But he isn't a hostage. Luke – doting father, successful writer, eternal optimist – is the gunman.<br /><br /><b>What Camilla does next will be crucial. Because only she can figure out what clue lies in the note he left behind . . .</b><br />--<br /><br /><b>PRAISE FOR <i>FAMOUS LAST WORDS</i></b><br /><br />'<b>Few things make me happier than a new Gillian McAllister book, and <i>Famous Last Words</i> did not let me down. Complex, surprising and utterly gripping</b>' JANE FALLON<br /><br />'<b>An incredibly page-turning mystery wrapped up in a thoughtful and thought-provoking exploration of a most unusual kind of grief. Absolutely outstanding, one of my books of the year</b>' ANDREA MARA<br /><br />'<b>Completely addictive. I was as desperate to find out the truth as any of the characters in the book ? if not more so!</b>' SOPHIA HANNAH<br /><br />'<b>A totally fresh read that left me guessing until the very end!</b>' ASHLEY FLOWERS<br /><br />'<b>McAllister is an expert in taut, twisty thrillers'</b> i PAPER<br /><br />'<b>A thriller full of unexpected twists and turns, packing a real emotional punch</b>' RED MAGAZINE<br /><br />'<b><i>Famous Last Words</i> blindsided me with twists and surprises that had me gasping... A brilliant, brilliant book</b>' JODI PICOULT<br /><br /><b>'Utterly effing magnificent. I could NOT put it down!</b>' MARIAN KEYES<br /><br /><b>PRAISE FOR GILLIAN MCALLISTER<br /></b><br /><b>‘A first-class thriller’ </b><i>SUNDAY TIMES</i><br /><br /><b>‘A writer at the top of her game’ </b>CLAIRE DOUGLAS<br /><br /><b>'Extraordinary' </b><i>DAILY MAIL</i>
+
+[View on Apple](https://books.apple.com/gb/book/famous-last-words/id6480269009)
+
+<a id="mythos"></a>
+## Mythos
+
+![Mythos](../../logos/1228954516-22a73026.png)
+
+<b>STEP INTO ANOTHER WORLD - OF MAGIC, MAYHEM, MONSTERS AND MANIACAL GODS - IN STEPHEN FRY'S MOMENTOUS SUNDAY TIMES BESTSELLER,<i> MYTHOS</i></b><br /><b><br />'A romp through the lives of ancient Greek gods. Fry is at his story-telling best . . . the gods will be pleased'</b> <i>Times</i><b><br /><br />Discover Stephen Fry's magnificent retelling of the greatest myths and legends ever told . . .</b><br />___________<br /><br /><b>No one loves and quarrels, desires and deceives as boldly or brilliantly as Greek gods and goddesses.</b><br /><br />In Stephen Fry's vivid retelling, we <b>gaze in wonder </b>as wise Athena is born from the cracking open of the great head of Zeus and follow doomed Persephone into the dark and lonely realm of the Underworld. We <b>shiver in fear</b> when Pandora opens her jar of evil torments and watch with joy as the legendary love affair between Eros and Psyche unfolds.<br /><br />Mythos captures these extraordinary myths for our modern age - in all their dazzling and deeply human relevance.<br /><b><br />If you're enthralled by the magic of Greek mythology you'll love Fry's latest book <i>TROY</i>, an exceptional retelling of our greatest story . . .</b><br />___________<br /><br /><b>NOW THE INSPIRATION FOR THE MYTHOS SUITE, STEPHEN FRY AND DEBBIE WISEMAN'S MUSICAL PRODUCTION OF FRY'S THRILLING RETELLINGS</b><br /><b><br />'A head-spinning marathon of legends'</b><i> Guardian</i><br /><br /><b>'An Olympian feat. The gods seem to be smiling on Fry - his myths are definitely a hit'</b><i> Evening Standard</i><br /><b><br />'An odyssey through Greek mythology. Brilliant . . . all hail Stephen Fry'</b> <i>Daily Mail</i><br /><b><br />'A rollicking good read'</b> <i>Independent</i><br /><b><br />SHORTLISTED FOR A NATIONAL BOOK AWARD</b>
+
+[View on Apple](https://books.apple.com/gb/book/mythos/id1228954516)
+
+<a id="the-odyssey"></a>
+## The Odyssey
+
+![The Odyssey](../../logos/374945150-7510170d.png)
+
+<b>NOW A MAJOR FILM DIRECTED BY CHRISTOPHER NOLAN<br /><br />'<i>The Odyssey</i> is a poem of extraordinary pleasures: it is a salt-caked, storm-tossed, wine-dark treasury of tales, of many twists and turns, like life itself' <i>Guardian</i></b><br /><br />The epic tale of Odysseus and his ten-year journey home after the Trojan War forms one of the earliest and greatest works of Western literature. Confronted by natural and supernatural threats - ship-wrecks, battles, monsters and the implacable enmity of the sea-god Poseidon - Odysseus must use his bravery and cunning to reach his homeland and overcome the obstacles that, even there, await him. E. V. Rieu's translation of <i>The Odyssey</i> was the very first Penguin Classic to be published, and has itself achieved classic status.<br /><br />Translated by E. V. RIEU<br />Revised translation by D. C. H. RIEU<br />With an Introduction by PETER JONES
+
+[View on Apple](https://books.apple.com/gb/book/the-odyssey/id374945150)
+
+<a id="the-miss-silver-mysteries-volume-one"></a>
+## The Miss Silver Mysteries Volume One
+
+![The Miss Silver Mysteries Volume One](../../logos/1122851550-0b76c824.png)
+
+<b>The first three Miss Silver Mysteries introduce the British governess-turned-sleuth and a "timelessly charming" series (Charlotte MacLeod).</b><br /><br />From a "first-rate storyteller," here are three full-length mystery novels in one volume, set in England between the two world wars and featuring Maud Silver, a retired governess and teacher who embarks on a new career in private detection (<i>The Daily Telegraph</i>).<br /><br /><i><b>Grey Mask</b></i><br /><br />After four years wandering the jungles of India and South America, Charles Moray has come home to England to collect his inheritance. Strangely, he finds his family estate unlocked and sees a light in one of its abandoned rooms. Eavesdropping, he learns of a conspiracy to commit a fearsome crime. His first instinct is to let the police settle it, but then he hears <i>her</i> voice: Margaret, his long-lost love, is part of the gang. To unravel their diabolical plot, he contacts Miss Silver.<br /><br /><i><b>The Case Is Closed</b></i><br /><br />Marion Grey is growing used to the idea that her husband will never be released from prison, especially after the horrors of the very public trial. But when new evidence suggests her husband may be innocent of murder after all, she hires a professional—the inimitable Miss Silver—to clear his name.<br /><br /><i><b>Lonesome Road</b></i><br /><br />A terrified young woman asks Miss Silver for help unmasking someone who has threatened her life. Rachel Traherne has been receiving menacing letters about her deceased father's fortune. The first two letters were vague; the third said simply, "Get ready to die."<br /><br />These charming traditional British mysteries featuring the unstoppable Miss Silver—whose stout figure, fondness for Tennyson, and passion for knitting disguise a keen intellect and a knack for cracking even the toughest cases—are sure to delight readers of Agatha Christie, Ellis Peters, and Dorothy L. Sayers.
+
+[View on Apple](https://books.apple.com/gb/book/the-miss-silver-mysteries-volume-one/id1122851550)

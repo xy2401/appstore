@@ -1,3 +1,4 @@
+- [The Odyssey](#the-odyssey)
 - [1.2.3](#1-2-3)
 - [Animal ABC](#animal-abc)
 - [ABC - Let's Colour the Alphabet](#abc-let-s-colour-the-alphabet)
@@ -6,98 +7,108 @@
 - [Musical ABC](#musical-abc)
 - [ABC](#abc)
 - [ABC](#abc)
-- [The Odyssey](#the-odyssey)
 - [123 Counting Around the World HD](#123-counting-around-the-world-hd)
 - [123 - Let's Play with the numbers](#123-let-s-play-with-the-numbers)
 - [Sushi 123](#sushi-123)
 - [My First 123](#my-first-123)
 - [Love's Last Stand](#love-s-last-stand)
+- [The Unbound Bookshop](#the-unbound-bookshop)
 - [Leaders in Control](#leaders-in-control)
 - [1+1=1 ... beyond the secrets of beautiful relationships](#1-1-1-beyond-the-secrets-of-beautiful-relationships)
 - [REVERSE PSYCHOLOGY IN LOVE RELATIONSHIPS](#reverse-psychology-in-love-relationships)
 - [Understanding our thoughts](#understanding-our-thoughts)
-- [The Unbound Bookshop](#the-unbound-bookshop)
 - [You’ve Got Chain Mail](#you-ve-got-chain-mail)
 - [In Your Safe Embrace](#in-your-safe-embrace)
-- [Vanity Project](#vanity-project)
 - [My Brother's Grumpy Best Friend](#my-brother-s-grumpy-best-friend)
+- [Vanity Project](#vanity-project)
 - [Murder at an English Pub](#murder-at-an-english-pub)
-- [Those Three Words](#those-three-words)
-- [1984](#1984)
 - [Ghost Of A Chance](#ghost-of-a-chance)
+- [Those Three Words](#those-three-words)
 - [The Girls in the Snow](#the-girls-in-the-snow)
+- [Big Gruff Cowboy](#big-gruff-cowboy)
+- [1984](#1984)
 - [Pride and Prejudice](#pride-and-prejudice)
 - [The Odyssey](#the-odyssey)
-- [Big Gruff Cowboy](#big-gruff-cowboy)
-- [Huckleberry Hill](#huckleberry-hill)
 - [Danger and Dominance](#danger-and-dominance)
 - [Wuthering Heights](#wuthering-heights)
-- [The Light Years](#the-light-years)
+- [Huckleberry Hill](#huckleberry-hill)
 - [Falling for the Older Man](#falling-for-the-older-man)
 - [Falling for the Forward](#falling-for-the-forward)
-- [Animal Farm](#animal-farm)
-- [The Bandalore: Pitch & Sickle Book One](#the-bandalore-pitch-sickle-book-one)
-- [The Adventures of Sherlock Holmes](#the-adventures-of-sherlock-holmes)
-- [Saved](#saved)
-- [Entice](#entice)
 - [Murder in the Bistro](#murder-in-the-bistro)
-- [Petty Heart: A Feel Good Sports Romance Novella](#petty-heart-a-feel-good-sports-romance-novella)
-- [Seducing Mr Remington - Spicy Billionaire Romance](#seducing-mr-remington-spicy-billionaire-romance)
-- [Frankenstein](#frankenstein)
-- [The Count of Monte Cristo](#the-count-of-monte-cristo)
-- [Unlucky in Love](#unlucky-in-love)
+- [The Light Years](#the-light-years)
+- [The Bandalore: Pitch & Sickle Book One](#the-bandalore-pitch-sickle-book-one)
+- [Animal Farm](#animal-farm)
+- [Saved](#saved)
 - [The Next Girl](#the-next-girl)
+- [Entice](#entice)
 - [He's So Into Her](#he-s-so-into-her)
-- [The Iliad](#the-iliad)
-- [Her Dragon Defender: A Rapunzel Retelling](#her-dragon-defender-a-rapunzel-retelling)
-- [Dracula](#dracula)
-- [I Loved You First](#i-loved-you-first)
-- [The Vampire Spy](#the-vampire-spy)
-- [The Rebound](#the-rebound)
-- [Playing with Forever](#playing-with-forever)
+- [Seducing Mr Remington - Spicy Billionaire Romance](#seducing-mr-remington-spicy-billionaire-romance)
+- [Unlucky in Love](#unlucky-in-love)
+- [Petty Heart: A Feel Good Sports Romance Novella](#petty-heart-a-feel-good-sports-romance-novella)
+- [The Adventures of Sherlock Holmes](#the-adventures-of-sherlock-holmes)
 - [The Art of War](#the-art-of-war)
-- [The Tea Witch's Secret](#the-tea-witch-s-secret)
-- [Knock Knock](#knock-knock)
+- [Her Dragon Defender: A Rapunzel Retelling](#her-dragon-defender-a-rapunzel-retelling)
+- [Frankenstein](#frankenstein)
+- [The Vampire Spy](#the-vampire-spy)
+- [The Iliad](#the-iliad)
+- [The Rebound](#the-rebound)
+- [The Count of Monte Cristo](#the-count-of-monte-cristo)
 - [Aftershocks](#aftershocks)
-- [Crime and Punishment](#crime-and-punishment)
-- [Free Your Mind](#free-your-mind)
-- [Dream Psychology](#dream-psychology)
-- [The Wind in the Willows](#the-wind-in-the-willows)
+- [I Loved You First](#i-loved-you-first)
+- [Playing with Forever](#playing-with-forever)
+- [Knock Knock](#knock-knock)
+- [Dracula](#dracula)
+- [Broken Angel](#broken-angel)
+- [The Tea Witch's Secret](#the-tea-witch-s-secret)
 - [Little Women](#little-women)
-- [The Strange Case of Dr. Jekyll and Mr. Hyde](#the-strange-case-of-dr-jekyll-and-mr-hyde)
-- [Emma](#emma)
-- [The Idiot](#the-idiot)
-- [Sense and Sensibility](#sense-and-sensibility)
 - [Knee Deep In Love](#knee-deep-in-love)
 - [Diary of a 7th Grade Drama Queen](#diary-of-a-7th-grade-drama-queen)
 - [Behind Her Lies (An Elise Close Psychological Thriller—Book One)](#behind-her-lies-an-elise-close-psychological-thriller-book-one)
-- [How to Choose a Guy in 10 Days](#how-to-choose-a-guy-in-10-days)
-- [Broken Angel](#broken-angel)
-- [The Wonderful Wizard of Oz](#the-wonderful-wizard-of-oz)
-- [The Iliad of Homer](#the-iliad-of-homer)
+- [Free Your Mind](#free-your-mind)
+- [Dream Psychology](#dream-psychology)
+- [Take Her Under](#take-her-under)
 - [Moonlight Murder Mystery Club: A Bitter Taste Book 1 of 5](#moonlight-murder-mystery-club-a-bitter-taste-book-1-of-5)
+- [The Idiot](#the-idiot)
+- [Sense and Sensibility](#sense-and-sensibility)
+- [Crime and Punishment](#crime-and-punishment)
+- [Hard Stick](#hard-stick)
+- [How to Choose a Guy in 10 Days](#how-to-choose-a-guy-in-10-days)
+- [The Wonderful Wizard of Oz](#the-wonderful-wizard-of-oz)
+- [The Wind in the Willows](#the-wind-in-the-willows)
+- [The Iliad of Homer](#the-iliad-of-homer)
+- [Missed Me](#missed-me)
+- [The Strange Case of Dr. Jekyll and Mr. Hyde](#the-strange-case-of-dr-jekyll-and-mr-hyde)
+- [Emma](#emma)
 - [The Maltese Falcon](#the-maltese-falcon)
+- [All Because of You](#all-because-of-you)
+- [Notes from the Underground](#notes-from-the-underground)
+- [Persuasion](#persuasion)
+- [Moby Dick](#moby-dick)
 - [Peter Pan](#peter-pan)
 - [Under the Influence](#under-the-influence)
-- [Hard Stick](#hard-stick)
-- [Notes from the Underground](#notes-from-the-underground)
-- [Take Her Under](#take-her-under)
+- [The Jungle Book](#the-jungle-book)
+- [The Little French Guesthouse](#the-little-french-guesthouse)
+- [The Darkest Knight](#the-darkest-knight)
+- [Sinful Duty: A steamy billionaire romance](#sinful-duty-a-steamy-billionaire-romance)
 - [Crime and Punishment](#crime-and-punishment)
-- [Persuasion](#persuasion)
 - [Macbeth](#macbeth)
 - [Romeo and Juliet](#romeo-and-juliet)
+- [Sunset Cove](#sunset-cove)
+- [A Christmas Carol](#a-christmas-carol)
 - [Winnie-the-Pooh](#winnie-the-pooh)
-- [Moby Dick](#moby-dick)
 - [Meditations: Modern English Edition](#meditations-modern-english-edition)
 - [The Great Gatsby](#the-great-gatsby)
-- [All Because of You](#all-because-of-you)
-- [Highlander Undone](#highlander-undone)
-- [Every Time I Go on Vacation, Someone Dies](#every-time-i-go-on-vacation-someone-dies)
-- [The Jungle Book](#the-jungle-book)
-- [Anna Karenina](#anna-karenina)
-- [The Little French Guesthouse](#the-little-french-guesthouse)
-- [Through the Looking-Glass](#through-the-looking-glass)
-- [Alice's Adventures in Wonderland](#alice-s-adventures-in-wonderland)
+
+<a id="the-odyssey"></a>
+## The Odyssey
+
+![The Odyssey](../../logos/395540967-e7fbaf50.png)
+
+An Apple Books Classic edition.<br /><br />
+Homer’s eighth-century epic poem is a companion to <i>The Iliad</i>. It tells the story of Odysseus, who journeys by ship for 10 years after the Trojan War, trying to make his way back home to Ithaca. Homer’s work was intended to be performed out loud, so it’s a masterful example of poetic meter and rhythm. But above all, <i>;The Odyssey</i> is a story of adventure-and true love.<br /><br />
+Odysseus has been gone for 20 years, and he longs to reclaim his role as king and reunite with his beloved, faithful Queen Penelope. During his absence, hundreds of suitors have eaten his food, lived in his home, and even plotted to kill his son. But before he can confront his enemies at home, Odysseus must fight a cyclops, escape after being imprisoned by a lovesick nymph, and confront the twin terrors of Scylla and Charybdis. As if that wasn’t enough, the gods take their grudges out on him, adding obstacles to suit their whims. Will Odysseus ever get home? And what will he find once he does? Within the pages of this ancient Greek classic are the origins for many of the myths we’re familiar with today. Pick up a copy and meet Odysseus, Homer’s timeless hero.
+
+[View on Apple](https://books.apple.com/gb/book/the-odyssey/id395540967)
 
 <a id="1-2-3"></a>
 ## 1.2.3
@@ -171,17 +182,6 @@ Interactive English alphabet. Letters shown in contrast red color. High definiti
 
 [View on Apple](https://books.apple.com/gb/book/abc/id849603096)
 
-<a id="the-odyssey"></a>
-## The Odyssey
-
-![The Odyssey](../../logos/395540967-e7fbaf50.png)
-
-An Apple Books Classic edition.<br /><br />
-Homer’s eighth-century epic poem is a companion to <i>The Iliad</i>. It tells the story of Odysseus, who journeys by ship for 10 years after the Trojan War, trying to make his way back home to Ithaca. Homer’s work was intended to be performed out loud, so it’s a masterful example of poetic meter and rhythm. But above all, <i>;The Odyssey</i> is a story of adventure-and true love.<br /><br />
-Odysseus has been gone for 20 years, and he longs to reclaim his role as king and reunite with his beloved, faithful Queen Penelope. During his absence, hundreds of suitors have eaten his food, lived in his home, and even plotted to kill his son. But before he can confront his enemies at home, Odysseus must fight a cyclops, escape after being imprisoned by a lovesick nymph, and confront the twin terrors of Scylla and Charybdis. As if that wasn’t enough, the gods take their grudges out on him, adding obstacles to suit their whims. Will Odysseus ever get home? And what will he find once he does? Within the pages of this ancient Greek classic are the origins for many of the myths we’re familiar with today. Pick up a copy and meet Odysseus, Homer’s timeless hero.
-
-[View on Apple](https://books.apple.com/gb/book/the-odyssey/id395540967)
-
 <a id="123-counting-around-the-world-hd"></a>
 ## 123 Counting Around the World HD
 
@@ -236,6 +236,15 @@ Ad-free. Interactive numbers for children. Includes colouring book, matching gam
 <b>In a world where loyalty is bought, lives are expendable, and love is the ultimate vulnerability,&#xa0;some truths are worth dying for—and some are worth killing to protect.</b><br /><br />Three years after her fiancé's murder,&#xa0;Harper Vale&#xa0;is still chasing the truth—and punishing herself for wanting out of a love that ended too violently, too soon. Once a fearless investigative journalist, she's now hiding behind a bar, until one reckless decision pulls her back into the gilded world that almost destroyed her life.<br /><br />A single stolen flash drive.<br />A warning buried in code.<br />And someone powerful who wants her silenced.<br /><br />Cole Maddox&#xa0;knows what it means to be marked for death. A former special ops soldier disgraced for refusing to follow illegal orders, he's been hunting the shadow network that ruined him—ex-military contractors, corrupt politicians, and men who erase their mistakes with bullets. When his investigation collides with Harper's, he sees her first as a liability…then as a target.<br /><br />And then as something far more dangerous.<br /><br />As assassins close in and secrets unravel, Harper discovers that the man she loved may not have been who she thought. Is the truth behind his death is tied to a covert operation known as&#xa0;Project VIGILANT?<br /><br />Forced into an uneasy alliance, Harper and Cole navigate betrayal, buried guilt, and a magnetic attraction neither can afford.<br /><br />Because trusting each other could get them killed. But walking away will cost them everything.<br /><br /><i>This is Book 1 of the dark, high-stakes romantic suspense series, Love's Labyrinth.</i><br /><br />Love's Labyrinth Series:<br /><br />•Book 1 –Love's Last Stand<br />•Book 2 –Love's Tangled Web<br />•Book 3 –Love's Fiery Trial
 
 [View on Apple](https://books.apple.com/gb/book/loves-last-stand/id6757762448)
+
+<a id="the-unbound-bookshop"></a>
+## The Unbound Bookshop
+
+![The Unbound Bookshop](../../logos/6504684323-e2b37dea.png)
+
+<b>A bookshop by the bay. An ex she never forgot. And a second chance at love that could change everything...</b><br /><br /><b>Sage Harpe</b>r has one chance to make her childhood dream of opening a bookstore come true. But first, she has to spend three awkward days onboard a vintage sailboat with the ex who broke her heart.<br /><br /><b>Flynn Cahill</b> has devoted his life to completing his late twin brother's bucket list, even when it cost him the only woman he's ever loved. Haunted by regret, he never expected to find himself stuck in close quarters with Sage—the woman who still holds his heart.<br /><br />Meanwhile, <b>Abigail Preston's</b> happily ever after is finally within reach... until a stranger shows up at her door with a shocking secret that threatens her past, present, and her future.<br /><br /><i>The Unbound Bookshop</i> is a tender, uplifting romance full of unforgettable characters, small-town charm, surprising twists, and the unshakable bonds of found family.<br /><br />Perfect for fans of Debbie Macomber, Denise Hunter, and RaeAnne Thayne.<br /><br />Start this heartwarming series today.<br /><br /><b>Also Includes:</b><br /><br />An original recipe<br />Book club questions and more….<br /><br /><b>Praise for The Unbound Bookshop:</b><br /><br />⭐️⭐️⭐️⭐️⭐️ "From the first page to the last, I was sucked into this story. I really enjoy the characters and feel like I am part of the community."<br /><br />⭐️⭐️⭐️⭐️⭐️ "I re-read Blessings on State Street and the Unbound Book Shop five times.<br />I was so touched by the people in this series - all the love and support."<br /><br />⭐️⭐️⭐️⭐️⭐️ "The author just has a way of bringing the reader into her story so they can feel every emotion that the character is going through. You don't just read one of her books, you feel it."
+
+[View on Apple](https://books.apple.com/gb/book/the-unbound-bookshop/id6504684323)
 
 <a id="leaders-in-control"></a>
 ## Leaders in Control
@@ -386,15 +395,6 @@ Nothing more.
 
 [View on Apple](https://books.apple.com/gb/book/understanding-our-thoughts/id6449027289)
 
-<a id="the-unbound-bookshop"></a>
-## The Unbound Bookshop
-
-![The Unbound Bookshop](../../logos/6504684323-e2b37dea.png)
-
-<b>A bookshop by the bay. An ex she never forgot. And a second chance at love that could change everything...</b><br /><br /><b>Sage Harpe</b>r has one chance to make her childhood dream of opening a bookstore come true. But first, she has to spend three awkward days onboard a vintage sailboat with the ex who broke her heart.<br /><br /><b>Flynn Cahill</b> has devoted his life to completing his late twin brother's bucket list, even when it cost him the only woman he's ever loved. Haunted by regret, he never expected to find himself stuck in close quarters with Sage—the woman who still holds his heart.<br /><br />Meanwhile, <b>Abigail Preston's</b> happily ever after is finally within reach... until a stranger shows up at her door with a shocking secret that threatens her past, present, and her future.<br /><br /><i>The Unbound Bookshop</i> is a tender, uplifting romance full of unforgettable characters, small-town charm, surprising twists, and the unshakable bonds of found family.<br /><br />Perfect for fans of Debbie Macomber, Denise Hunter, and RaeAnne Thayne.<br /><br />Start this heartwarming series today.<br /><br /><b>Also Includes:</b><br /><br />An original recipe<br />Book club questions and more….<br /><br /><b>Praise for The Unbound Bookshop:</b><br /><br />⭐️⭐️⭐️⭐️⭐️ "From the first page to the last, I was sucked into this story. I really enjoy the characters and feel like I am part of the community."<br /><br />⭐️⭐️⭐️⭐️⭐️ "I re-read Blessings on State Street and the Unbound Book Shop five times.<br />I was so touched by the people in this series - all the love and support."<br /><br />⭐️⭐️⭐️⭐️⭐️ "The author just has a way of bringing the reader into her story so they can feel every emotion that the character is going through. You don't just read one of her books, you feel it."
-
-[View on Apple](https://books.apple.com/gb/book/the-unbound-bookshop/id6504684323)
-
 <a id="you-ve-got-chain-mail"></a>
 ## You’ve Got Chain Mail
 
@@ -413,15 +413,6 @@ Nothing more.
 
 [View on Apple](https://books.apple.com/gb/book/in-your-safe-embrace/id6753194485)
 
-<a id="vanity-project"></a>
-## Vanity Project
-
-![Vanity Project](../../logos/6771699844-accb1ae5.png)
-
-<b>Can DI Brian Brandon stop a ruthless killer before they bury him next, or will his demons bury him first?</b><br /><br />Cybersecurity consultant Ray Higgins is dead. Was it a love triangle turned deadly? Or is there something more at play?<br /><br />As DI Brian Brandon digs deeper into the case, he uncovers a trail of blackmail and betrayal that leads straight to Strathburgh's elite.<br /><br />But Brian is battling more than a killer hell-bent on silencing anyone who gets too close to the truth. A traumatic past and a drinking habit that's spiraling out of control threaten to derail the investigation and get him killed.<br /><br /><i>Perfect for fans of JD Kirk, Ian Rankin, Helen Fields, and Val McDermid, this gripping first instalment in a dark, gritty new Scottish crime series introduces DI Brian Brandon of the city of Strathburgh's Major Investigations Team.</i>
-
-[View on Apple](https://books.apple.com/gb/book/vanity-project/id6771699844)
-
 <a id="my-brother-s-grumpy-best-friend"></a>
 ## My Brother's Grumpy Best Friend
 
@@ -430,6 +421,15 @@ Nothing more.
 <i>This is a kisses only, sweet romance.</i><br /><br /><b>My checklist guarantees my brother a flawless wedding. I've missed nothing…except for the one person I never expected to be there.</b><br /><br />Male voices grab my attention. My eyes lock on one in particular.<br /><br />Of course, my idiot brother forgot to tell me who his best man is.<br /><br />Archer Sullivan. My high school crush.<br /><br />Ten years have passed since I saw him, and he still leaves me breathless.<br /><br />Archer's intense gaze makes me feel transparent.<br />His silence even more so.<br />My easy smile wobbles under his scrutiny.<br /><br />The more time I spend with him, the more my defenses crumble.<br />He's penetrating the armor encasing my heart. I can't resist him. .<br /><br /><b>I'm falling for my brother's grumpy best friend…again.</b><br /><br /><i>This stand alone is a clean, brother's best friend, grumpy/sunshine, small town, military, sweet and swoony friend romance. Let yourself get swept up with Rosaline and Archer as they realize that they have always been each other's true love. Just like with all my other books, I hope you fall in love with the two of them and are left wanting more!</i>
 
 [View on Apple](https://books.apple.com/gb/book/my-brothers-grumpy-best-friend/id6745745322)
+
+<a id="vanity-project"></a>
+## Vanity Project
+
+![Vanity Project](../../logos/6771699844-accb1ae5.png)
+
+<b>Can DI Brian Brandon stop a ruthless killer before they bury him next, or will his demons bury him first?</b><br /><br />Cybersecurity consultant Ray Higgins is dead. Was it a love triangle turned deadly? Or is there something more at play?<br /><br />As DI Brian Brandon digs deeper into the case, he uncovers a trail of blackmail and betrayal that leads straight to Strathburgh's elite.<br /><br />But Brian is battling more than a killer hell-bent on silencing anyone who gets too close to the truth. A traumatic past and a drinking habit that's spiraling out of control threaten to derail the investigation and get him killed.<br /><br /><i>Perfect for fans of JD Kirk, Ian Rankin, Helen Fields, and Val McDermid, this gripping first instalment in a dark, gritty new Scottish crime series introduces DI Brian Brandon of the city of Strathburgh's Major Investigations Team.</i>
+
+[View on Apple](https://books.apple.com/gb/book/vanity-project/id6771699844)
 
 <a id="murder-at-an-english-pub"></a>
 ## Murder at an English Pub
@@ -469,26 +469,6 @@ Bookworm86, ⭐⭐⭐⭐⭐
 
 [View on Apple](https://books.apple.com/gb/book/murder-at-an-english-pub/id6783281149)
 
-<a id="those-three-words"></a>
-## Those Three Words
-
-![Those Three Words](../../logos/6772280914-bf17806b.png)
-
-<b>I never thought getting fired from my dream job would change my life.</b><br /><br /><b>And I certainly never imagined three little words would be my undoing</b>.<br /><br /><i>Trust me—they're not the words you're thinking.</i><br /><br /><i>Those three delicious, toe-curling words whispered by my boss were where it all changed.</i><br /><br />When budget cuts at my local school leave me scrambling to find a job before I get evicted, I stumble upon the listing of a lifetime.<br /><br />How hard can being a live-in nanny for a little five year old girl be?<br /><br />Especially when it's double the salary and comes with a sexy, single dad.<br /><br />But the moment I step inside Graham Hayes multi-million dollar estate and meet the grumpy billionaire—I know I'm in way over my head.<br /><br />It's not just that he's quite possibly the most attractive man I've ever seen, it's the way he stares at me like it takes everything he has to keep from devouring me.<br /><br />The way he curls his hands into fists to avoid touching me.<br /><br />The way he reprimands me through gritted teeth while his lust filled eyes burn through me.<br /><br />The naughty things he whispers against my lips as his hands explore me.<br /><br /><i>Way over my head.</i><br /><br />Caring for his daughter is a dream—even his mother loves me.<br /><br />Soon, I'm head over heels in this fantasy I'm living.<br /><br />I'm even able to ignore the cryptic threats from his house-keeper who's hellbent on getting me fired.<br /><br />But I'm not prepared for the world of high-powered billionaires and glitzy parties.<br /><br />Besides, Graham isn't like these people—he's different.<br /><br />At least, I think he is…until a shady character I've tried to leave in the past reappears as Graham's new business partner and I'm reminded that I don't belong in this world.<br /><br />Sometimes life changing news comes in the form of just <i>three simple words.</i><br /><br />Sometimes it comes in the form of an unexpected, heart-wrenching secret and the fairytale is shattered.<br /><br />Sometimes, it comes in the form of the opportunity of a fresh new start.<br /><br /><b>You just have to be willing to take the risk and walk away or maybe…there's three little words that can fix it all.</b>
-
-[View on Apple](https://books.apple.com/gb/book/those-three-words/id6772280914)
-
-<a id="1984"></a>
-## 1984
-
-![1984](../../logos/6449234122-47dc54dc.png)
-
-Nineteen Eighty-Four (also published as 1984) is a dystopian social science fiction novel and cautionary tale by English writer George Orwell. It was published on 8 June 1949 by Secker &amp; Warburg as Orwell's ninth and final book completed in his lifetime. Thematically, it centres on the consequences of totalitarianism, mass surveillance and repressive regimentation of people and behaviours within society. Orwell, a democratic socialist, modelled the authoritarian state in the novel on Stalinist Russia and Nazi Germany. More broadly, the novel examines the role of truth and facts within societies and the ways in which they can be manipulated.
-
-The story takes place in an imagined future in the year 1984, when much of the world is in perpetual war. Great Britain, now known as Airstrip One, has become a province of the totalitarian superstate Oceania, which is led by Big Brother, a dictatorial leader supported by an intense cult of personality manufactured by the Party's Thought Police. Through the Ministry of Truth, the Party engages in omnipresent government surveillance, historical negationism, and constant propaganda to persecute individuality and independent thinking.
-
-[View on Apple](https://books.apple.com/gb/book/1984/id6449234122)
-
 <a id="ghost-of-a-chance"></a>
 ## Ghost Of A Chance
 
@@ -507,6 +487,15 @@ For the moment, she’s going to go with feeling grateful…but as she learns al
 Author’s Note:&#xa0; James Smith is one mad, bad, dangerous guy…but sometimes, bad guys fall hard for good girls. GHOST OF A CHANCE is super hot, charged with lots of feels, and, it’s got some pulse-pounding action for you.&#xa0; Dirty words and dirty deeds are dead ahead.&#xa0; Oh, and there’s plenty of fun thrown in, too. Mystery, humor, sexy times, and danger—all of my favorite things in a book.
 
 [View on Apple](https://books.apple.com/gb/book/ghost-of-a-chance/id1480243934)
+
+<a id="those-three-words"></a>
+## Those Three Words
+
+![Those Three Words](../../logos/6772280914-bf17806b.png)
+
+<b>I never thought getting fired from my dream job would change my life.</b><br /><br /><b>And I certainly never imagined three little words would be my undoing</b>.<br /><br /><i>Trust me—they're not the words you're thinking.</i><br /><br /><i>Those three delicious, toe-curling words whispered by my boss were where it all changed.</i><br /><br />When budget cuts at my local school leave me scrambling to find a job before I get evicted, I stumble upon the listing of a lifetime.<br /><br />How hard can being a live-in nanny for a little five year old girl be?<br /><br />Especially when it's double the salary and comes with a sexy, single dad.<br /><br />But the moment I step inside Graham Hayes multi-million dollar estate and meet the grumpy billionaire—I know I'm in way over my head.<br /><br />It's not just that he's quite possibly the most attractive man I've ever seen, it's the way he stares at me like it takes everything he has to keep from devouring me.<br /><br />The way he curls his hands into fists to avoid touching me.<br /><br />The way he reprimands me through gritted teeth while his lust filled eyes burn through me.<br /><br />The naughty things he whispers against my lips as his hands explore me.<br /><br /><i>Way over my head.</i><br /><br />Caring for his daughter is a dream—even his mother loves me.<br /><br />Soon, I'm head over heels in this fantasy I'm living.<br /><br />I'm even able to ignore the cryptic threats from his house-keeper who's hellbent on getting me fired.<br /><br />But I'm not prepared for the world of high-powered billionaires and glitzy parties.<br /><br />Besides, Graham isn't like these people—he's different.<br /><br />At least, I think he is…until a shady character I've tried to leave in the past reappears as Graham's new business partner and I'm reminded that I don't belong in this world.<br /><br />Sometimes life changing news comes in the form of just <i>three simple words.</i><br /><br />Sometimes it comes in the form of an unexpected, heart-wrenching secret and the fairytale is shattered.<br /><br />Sometimes, it comes in the form of the opportunity of a fresh new start.<br /><br /><b>You just have to be willing to take the risk and walk away or maybe…there's three little words that can fix it all.</b>
+
+[View on Apple](https://books.apple.com/gb/book/those-three-words/id6772280914)
 
 <a id="the-girls-in-the-snow"></a>
 ## The Girls in the Snow
@@ -548,24 +537,6 @@ Then another girl’s body is found, a red silk ribbon tied in her hair, and Nik
 
 [View on Apple](https://books.apple.com/gb/book/the-girls-in-the-snow/id1524446911)
 
-<a id="pride-and-prejudice"></a>
-## Pride and Prejudice
-
-![Pride and Prejudice](../../logos/395534643-48eefdc2.png)
-
-An Apple Books Classic edition.<br /><br />Jane Austen’s beloved classic opens with this witty and very memorable line: “It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.” With all the twists and turns of a soap opera, <i>Pride and Prejudice</i> chronicles the drama that ensues when the wealthy bachelor Mr. Darcy moves close to the Bennet family home in the English countryside. The news of his arrival sends the socially ambitious Mrs. Bennet-whose main concern is finding suitable matches for her five daughters-into overdrive.<br /><br />The book’s main character, the high-spirited Elizabeth Bennet, is a strikingly modern heroine: a woman who refuses to lower her expectations or transform herself to suit society’s norms. Austen’s novel achieves a remarkable balance, serving up barbed criticism of the obsession with money, status, and matrimony even as it draws us into a swoon-worthy love story. At its heart, <i>Pride and Prejudice</i> is a romantic comedy, and a darned great one at that. It’s so much fun to turn the pages and wonder about Elizabeth and Mr. Darcy: Will they or won’t they overcome their excessive pride and initial prejudices to make a happily-ever-after connection?
-
-[View on Apple](https://books.apple.com/gb/book/pride-and-prejudice/id395534643)
-
-<a id="the-odyssey"></a>
-## The Odyssey
-
-![The Odyssey](../../logos/498683870-c83c5c2f.png)
-
-The poem mainly centers on the Greek hero Odysseus (known as Ulysses in Roman myths) and his journey home after the fall of&#xa0;Troy. It takes Odysseus ten years to reach&#xa0;Ithaca&#xa0;after the ten-year&#xa0;Trojan War.  In his absence, it is assumed he has died, and his wife&#xa0;Penelope&#xa0;and son&#xa0;Telemachus&#xa0;must deal with a group of unruly suitors, the&#xa0;Mnesteres or&#xa0;Proci, who compete for Penelope's hand in marriage.
-
-[View on Apple](https://books.apple.com/gb/book/the-odyssey/id498683870)
-
 <a id="big-gruff-cowboy"></a>
 ## Big Gruff Cowboy
 
@@ -596,6 +567,53 @@ If you love an over the top cowboy who falls hard and fast for his curvy woman, 
 It’s time to meet the Maple Brothers, the sweetest cowboys in Courage County. These OTT alpha cowboys are determined to claim the curvy women who have stolen their hearts. Cuddle up with these sexy new book boyfriends from Mia Brody today!
 
 [View on Apple](https://books.apple.com/gb/book/big-gruff-cowboy/id6482983095)
+
+<a id="1984"></a>
+## 1984
+
+![1984](../../logos/6449234122-47dc54dc.png)
+
+Nineteen Eighty-Four (also published as 1984) is a dystopian social science fiction novel and cautionary tale by English writer George Orwell. It was published on 8 June 1949 by Secker &amp; Warburg as Orwell's ninth and final book completed in his lifetime. Thematically, it centres on the consequences of totalitarianism, mass surveillance and repressive regimentation of people and behaviours within society. Orwell, a democratic socialist, modelled the authoritarian state in the novel on Stalinist Russia and Nazi Germany. More broadly, the novel examines the role of truth and facts within societies and the ways in which they can be manipulated.
+
+The story takes place in an imagined future in the year 1984, when much of the world is in perpetual war. Great Britain, now known as Airstrip One, has become a province of the totalitarian superstate Oceania, which is led by Big Brother, a dictatorial leader supported by an intense cult of personality manufactured by the Party's Thought Police. Through the Ministry of Truth, the Party engages in omnipresent government surveillance, historical negationism, and constant propaganda to persecute individuality and independent thinking.
+
+[View on Apple](https://books.apple.com/gb/book/1984/id6449234122)
+
+<a id="pride-and-prejudice"></a>
+## Pride and Prejudice
+
+![Pride and Prejudice](../../logos/395534643-48eefdc2.png)
+
+An Apple Books Classic edition.<br /><br />Jane Austen’s beloved classic opens with this witty and very memorable line: “It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.” With all the twists and turns of a soap opera, <i>Pride and Prejudice</i> chronicles the drama that ensues when the wealthy bachelor Mr. Darcy moves close to the Bennet family home in the English countryside. The news of his arrival sends the socially ambitious Mrs. Bennet-whose main concern is finding suitable matches for her five daughters-into overdrive.<br /><br />The book’s main character, the high-spirited Elizabeth Bennet, is a strikingly modern heroine: a woman who refuses to lower her expectations or transform herself to suit society’s norms. Austen’s novel achieves a remarkable balance, serving up barbed criticism of the obsession with money, status, and matrimony even as it draws us into a swoon-worthy love story. At its heart, <i>Pride and Prejudice</i> is a romantic comedy, and a darned great one at that. It’s so much fun to turn the pages and wonder about Elizabeth and Mr. Darcy: Will they or won’t they overcome their excessive pride and initial prejudices to make a happily-ever-after connection?
+
+[View on Apple](https://books.apple.com/gb/book/pride-and-prejudice/id395534643)
+
+<a id="the-odyssey"></a>
+## The Odyssey
+
+![The Odyssey](../../logos/498683870-c83c5c2f.png)
+
+The poem mainly centers on the Greek hero Odysseus (known as Ulysses in Roman myths) and his journey home after the fall of&#xa0;Troy. It takes Odysseus ten years to reach&#xa0;Ithaca&#xa0;after the ten-year&#xa0;Trojan War.  In his absence, it is assumed he has died, and his wife&#xa0;Penelope&#xa0;and son&#xa0;Telemachus&#xa0;must deal with a group of unruly suitors, the&#xa0;Mnesteres or&#xa0;Proci, who compete for Penelope's hand in marriage.
+
+[View on Apple](https://books.apple.com/gb/book/the-odyssey/id498683870)
+
+<a id="danger-and-dominance"></a>
+## Danger and Dominance
+
+![Danger and Dominance](../../logos/6740463125-c144baf2.png)
+
+<i><b>Never get involved with a client.</b></i><br /><br />For years, that's the code I've lived by. Keeping my work and private life separate, never muddying the waters.<br /><br />Then again, I've never met a temptation like Cassidy Simone.<br /><br />Beautiful, broken Cassidy. Staring up at me with those wide, haunted eyes. From the first moment I see her, all I can think is… Mine.<br /><br />Every moment with her is agony, fighting the temptation to touch her, to taste her.<br /><br />To claim her.<br /><br />And when it becomes clear that the threat to Cassidy's safety is closer than we realized, I'll do whatever it takes to keep her safe.<br /><br />Even if it means breaking all of my own rules.<br /><br />Black Fox Security Doms<br />1. Danger and Dominance<br />2. Cuffs and Cupcakes<br />3. Security and Submission<br />4. Whips and Weddings<br />5. Rescue and Ropes<br />6. Bondage and Bad Guys
+
+[View on Apple](https://books.apple.com/gb/book/danger-and-dominance/id6740463125)
+
+<a id="wuthering-heights"></a>
+## Wuthering Heights
+
+![Wuthering Heights](../../logos/395546348-e1d03d9d.png)
+
+An Apple Books Classic edition.<br /><br />If you’ve only ever seen <i>Wuthering Heights</i> on screen, you may have an image of Catherine and Heathcliff as the ultimate star-crossed lovers. But that’s just scratching the surface of this iconic Gothic romance. Emily Brontë’s only novel is an unabashedly dark tale of passion and revenge that created shockwaves upon its publication in 1847.<br /><br />Without spoiling too much, the original Heathcliff is breathtakingly vengeful, cruel, and possessive, not the deeply misunderstood romantic hero of some adaptations. And Brontë’s story does not end happily ever after. After tragedy strikes, Heathcliff haunts the swirling mists of the Yorkshire moors, consumed with possessing a ghost. A must-read for fans of Gothic literature, this novel will appeal to anyone who loves a creepy story.
+
+[View on Apple](https://books.apple.com/gb/book/wuthering-heights/id395546348)
 
 <a id="huckleberry-hill"></a>
 ## Huckleberry Hill
@@ -635,33 +653,6 @@ And then the impossible happens:
 I’m pregnant with a cowboy’s baby.
 
 [View on Apple](https://books.apple.com/gb/book/huckleberry-hill/id6737988405)
-
-<a id="danger-and-dominance"></a>
-## Danger and Dominance
-
-![Danger and Dominance](../../logos/6740463125-c144baf2.png)
-
-<i><b>Never get involved with a client.</b></i><br /><br />For years, that's the code I've lived by. Keeping my work and private life separate, never muddying the waters.<br /><br />Then again, I've never met a temptation like Cassidy Simone.<br /><br />Beautiful, broken Cassidy. Staring up at me with those wide, haunted eyes. From the first moment I see her, all I can think is… Mine.<br /><br />Every moment with her is agony, fighting the temptation to touch her, to taste her.<br /><br />To claim her.<br /><br />And when it becomes clear that the threat to Cassidy's safety is closer than we realized, I'll do whatever it takes to keep her safe.<br /><br />Even if it means breaking all of my own rules.<br /><br />Black Fox Security Doms<br />1. Danger and Dominance<br />2. Cuffs and Cupcakes<br />3. Security and Submission<br />4. Whips and Weddings<br />5. Rescue and Ropes<br />6. Bondage and Bad Guys
-
-[View on Apple](https://books.apple.com/gb/book/danger-and-dominance/id6740463125)
-
-<a id="wuthering-heights"></a>
-## Wuthering Heights
-
-![Wuthering Heights](../../logos/395546348-e1d03d9d.png)
-
-An Apple Books Classic edition.<br /><br />If you’ve only ever seen <i>Wuthering Heights</i> on screen, you may have an image of Catherine and Heathcliff as the ultimate star-crossed lovers. But that’s just scratching the surface of this iconic Gothic romance. Emily Brontë’s only novel is an unabashedly dark tale of passion and revenge that created shockwaves upon its publication in 1847.<br /><br />Without spoiling too much, the original Heathcliff is breathtakingly vengeful, cruel, and possessive, not the deeply misunderstood romantic hero of some adaptations. And Brontë’s story does not end happily ever after. After tragedy strikes, Heathcliff haunts the swirling mists of the Yorkshire moors, consumed with possessing a ghost. A must-read for fans of Gothic literature, this novel will appeal to anyone who loves a creepy story.
-
-[View on Apple](https://books.apple.com/gb/book/wuthering-heights/id395546348)
-
-<a id="the-light-years"></a>
-## The Light Years
-
-![The Light Years](../../logos/427184379-3d9891a1.png)
-
-<b>As seen on BBC Two's <i>Between the Covers</i><br /><br />Told with exceptional grace, <i>The Light Years</i> is a modern classic of twentieth-century English life and is the first novel in Elizabeth Jane Howard’s extraordinary, bestselling family saga, The Cazalet Chronicles.</b><br /><br /><b>'Compelling, moving, unputdownable . . . Maybe my favourite books ever' - Marian Keyes, bestselling author of <i>My Favourite Mistake</i></b><br /><br />1937. Every summer, the Cazalet brothers – Hugh, Edward and Rupert – return to the family home in the heart of the Sussex countryside with their wives and children. There, they are joined by their formidable parents and unmarried sister Rachel to enjoy two glorious months of picnics, games and sun-drenched excursions to the coast. But not even this idyllic setting can soothe the siblings’ fears and heartache.<br /><br />Hugh, haunted by memories of the Great War, is terrified at the looming prospect of a second. Edward, charming and handsome, is torn between his wife and his latest infidelity. Rupert, a talented painter, is in turmoil over his inability to please his demanding new wife. Meanwhile, Rachel’s unflinching loyalty to the family means risking her one chance at happiness . . .<br /><br /><b>'She helps us to do the necessary thing – open our eyes and our hearts' – Hilary Mantel, bestselling author of <i>The Mirror and the Light</i></b><br /><br /><b><i>The Light Years</i> is the first volume in the extraordinary Cazalet Chronicles. Continue the dazzling historical series with <i>Marking Time</i>.</b>
-
-[View on Apple](https://books.apple.com/gb/book/the-light-years/id427184379)
 
 <a id="falling-for-the-older-man"></a>
 ## Falling for the Older Man
@@ -706,6 +697,34 @@ Falling for the Forward is the first book in the Love on the Line series: all bo
 
 [View on Apple](https://books.apple.com/gb/book/falling-for-the-forward/id6737349097)
 
+<a id="murder-in-the-bistro"></a>
+## Murder in the Bistro
+
+![Murder in the Bistro](../../logos/1095434005-42044edb.png)
+
+Is there a connection between the cat found napping in the flour barrel of the newest bistro and the dead American chef in the meat freezer? &#xa0;When it comes to Maggie Newberry and the cranky villagers of St-Buvard, how could there not be?<br />
+Once more back in Provence, Maggie Newberry finds her hands full with village politics ratcheting up to nuclear level. &#xa0;Her BFF is back on her living room couch—this time with a snotty teenager in tow—and there’ a full-blown riot developing over the brand new American-owned bistro. When the fractious American chef ends up dead, Maggie will need to find out who killed her—and fast—before the chef’s killer decides that two dead Americans are better than one.
+
+[View on Apple](https://books.apple.com/gb/book/murder-in-the-bistro/id1095434005)
+
+<a id="the-light-years"></a>
+## The Light Years
+
+![The Light Years](../../logos/427184379-3d9891a1.png)
+
+<b>As seen on BBC Two's <i>Between the Covers</i><br /><br />Told with exceptional grace, <i>The Light Years</i> is a modern classic of twentieth-century English life and is the first novel in Elizabeth Jane Howard’s extraordinary, bestselling family saga, The Cazalet Chronicles.</b><br /><br /><b>'Compelling, moving, unputdownable . . . Maybe my favourite books ever' - Marian Keyes, bestselling author of <i>My Favourite Mistake</i></b><br /><br />1937. Every summer, the Cazalet brothers – Hugh, Edward and Rupert – return to the family home in the heart of the Sussex countryside with their wives and children. There, they are joined by their formidable parents and unmarried sister Rachel to enjoy two glorious months of picnics, games and sun-drenched excursions to the coast. But not even this idyllic setting can soothe the siblings’ fears and heartache.<br /><br />Hugh, haunted by memories of the Great War, is terrified at the looming prospect of a second. Edward, charming and handsome, is torn between his wife and his latest infidelity. Rupert, a talented painter, is in turmoil over his inability to please his demanding new wife. Meanwhile, Rachel’s unflinching loyalty to the family means risking her one chance at happiness . . .<br /><br /><b>'She helps us to do the necessary thing – open our eyes and our hearts' – Hilary Mantel, bestselling author of <i>The Mirror and the Light</i></b><br /><br /><b><i>The Light Years</i> is the first volume in the extraordinary Cazalet Chronicles. Continue the dazzling historical series with <i>Marking Time</i>.</b>
+
+[View on Apple](https://books.apple.com/gb/book/the-light-years/id427184379)
+
+<a id="the-bandalore-pitch-sickle-book-one"></a>
+## The Bandalore: Pitch & Sickle Book One
+
+![The Bandalore: Pitch & Sickle Book One](../../logos/1540873171-2e211408.png)
+
+<b>In Victorian England, the monsters don't always stay in the shadows. Some drag you from your grave and show you their true faces.</b><br /><br />Silas Mercer has no memory of his past — resurrected with only a name he doesn't recognise, and a summons from the mysterious Order of the Golden Dawn. Thrown into a hidden world of the arcane, the mythical, and the monstrous, he's partnered with Tobias Astaroth—an infamous rogue with a wicked tongue and a reputation as dark as his soul.<br /><br />As Silas hunts horrors across England's countryside, he begins to realise that the greatest danger might lie closer than he imagined. Tobias is infuriating, impossible… and utterly magnetic. But beneath his charm lies a truth more perilous than any monster they will face.<br /><br />When a chilling haunting draws them into the woods of Leicester, their partnership spirals into a nightmare of long-held secrets, dangerous desire, and formidable adversaries who don't take kindly to the Order's men getting in their way.<br /><br /><b>On the hunt for the truth behind an ancient, angelic secret, a gentleman and a libertine will forge a bond neither of them wanted — and find a love that may damn them both.</b><br /><br />Begin The Diabolus Chronicles; a slow-burn MM dark historical fantasy of gothic mystery, forbidden magick, and reluctant partners with very inconvenient feelings. An eight-book gothic fantasy saga.<br /><br />⚠️ Content guidance<br />This book contains:<br /><br />•Violence and supernatural horror<br />•Adult language and sexual content<br /><br />Best suited to readers who enjoy dark, gothic fantasy with heart.<br /><br /><b>Completed series (Eight Books):</b><br />The Verderer - Pitch &amp; Sickle Book Two<br />The Skriker - Pitch &amp; Sickle Book Three<br />The Greensward - Pitch &amp; Sickle Book Four<br />The Fulbourn - Pitch &amp; Sickle Book Five<br />The Herlequin - Pitch &amp; Sickle Book Six<br />The Simurgh - Pitch &amp; Sickle Book Seven<br />The Death Wish - Pitch &amp; Sickle Book Eight (Finale)
+
+[View on Apple](https://books.apple.com/gb/book/the-bandalore-pitch-sickle-book-one/id1540873171)
+
 <a id="animal-farm"></a>
 ## Animal Farm
 
@@ -717,24 +736,6 @@ According to Orwell, Animal Farm reflects events leading up to the Russian Revol
 
 [View on Apple](https://books.apple.com/gb/book/animal-farm/id6449234055)
 
-<a id="the-bandalore-pitch-sickle-book-one"></a>
-## The Bandalore: Pitch & Sickle Book One
-
-![The Bandalore: Pitch & Sickle Book One](../../logos/1540873171-2e211408.png)
-
-<b>In Victorian England, the monsters don't always stay in the shadows. Some drag you from your grave and show you their true faces.</b><br /><br />Silas Mercer has no memory of his past — resurrected with only a name he doesn't recognise, and a summons from the mysterious Order of the Golden Dawn. Thrown into a hidden world of the arcane, the mythical, and the monstrous, he's partnered with Tobias Astaroth—an infamous rogue with a wicked tongue and a reputation as dark as his soul.<br /><br />As Silas hunts horrors across England's countryside, he begins to realise that the greatest danger might lie closer than he imagined. Tobias is infuriating, impossible… and utterly magnetic. But beneath his charm lies a truth more perilous than any monster they will face.<br /><br />When a chilling haunting draws them into the woods of Leicester, their partnership spirals into a nightmare of long-held secrets, dangerous desire, and formidable adversaries who don't take kindly to the Order's men getting in their way.<br /><br /><b>On the hunt for the truth behind an ancient, angelic secret, a gentleman and a libertine will forge a bond neither of them wanted — and find a love that may damn them both.</b><br /><br />Begin The Diabolus Chronicles; a slow-burn MM dark historical fantasy of gothic mystery, forbidden magick, and reluctant partners with very inconvenient feelings. An eight-book gothic fantasy saga.<br /><br />⚠️ Content guidance<br />This book contains:<br /><br />•Violence and supernatural horror<br />•Adult language and sexual content<br /><br />Best suited to readers who enjoy dark, gothic fantasy with heart.<br /><br /><b>Completed series (Eight Books):</b><br />The Verderer - Pitch &amp; Sickle Book Two<br />The Skriker - Pitch &amp; Sickle Book Three<br />The Greensward - Pitch &amp; Sickle Book Four<br />The Fulbourn - Pitch &amp; Sickle Book Five<br />The Herlequin - Pitch &amp; Sickle Book Six<br />The Simurgh - Pitch &amp; Sickle Book Seven<br />The Death Wish - Pitch &amp; Sickle Book Eight (Finale)
-
-[View on Apple](https://books.apple.com/gb/book/the-bandalore-pitch-sickle-book-one/id1540873171)
-
-<a id="the-adventures-of-sherlock-holmes"></a>
-## The Adventures of Sherlock Holmes
-
-![The Adventures of Sherlock Holmes](../../logos/395536306-8fd0941c.png)
-
-An Apple Books Classic edition.<br /><br />You get not one, not two, but <i>25</i> gripping mysteries in Arthur Conan Doyle’s first of five collections of Sherlock Holmes short stories. Follow the brilliant and eccentric Holmes and his loyal sidekick, Dr. Watson, as they journey to lavish country estates to investigate baffling cases involving indiscreet royal affairs, cheetahs, redheads, and gypsies. Every one of Conan Doyle’s tales is full of surprising - but always logical - twists. (Fun fact: This book includes “The Speckled Band,” the author’s self-proclaimed favorite of all of his Sherlock Holmes short stories.)
-
-[View on Apple](https://books.apple.com/gb/book/the-adventures-of-sherlock-holmes/id395536306)
-
 <a id="saved"></a>
 ## Saved
 
@@ -743,73 +744,6 @@ An Apple Books Classic edition.<br /><br />You get not one, not two, but <i>25</
 <b>He rescued her from the storm,</b><br /><br /><b>But who will save her from him?</b><br /><br />When a freak accident in the wilderness claims Erin's friends,<br /><br />She's thankful for her brooding tour guide, Eli,<br /><br />Especially when a sudden snow storm hits the forest.<br /><br />Forced to take shelter with him in an abandoned cabin,<br /><br />Erin succumbs to the visceral energy growing between them,<br /><br />Relishing the way he takes control.<br /><br />But she's bitten off more than she can chew with Eli.<br /><br /><i><b>Her protector isn't a hero.</b></i><br /><br /><i><b>He's really the villain.</b></i>
 
 [View on Apple](https://books.apple.com/gb/book/saved/id6740830083)
-
-<a id="entice"></a>
-## Entice
-
-![Entice](../../logos/984019829-04e43f34.png)
-
-When the most difficult decision of Laurie Baker's life needed to be made, she took off for a weekend alone to weigh her pros and cons and consider all her options.<br /><br />What she didn't expect was to run face first into one more complication her life didn't need.<br /><br />Distracting, sexy, and British, Liam Parker offered Laurie exactly what she needed when she was desperate for attention.<br /><br />One night of pleasure.<br /><br />She wanted it.<br /><br />She craved it.<br /><br />She took it.<br /><br />And when the sunlight dawned and the lusty haze of one night of passion disappeared and reality revealed itself…<br /><br />Laurie returned home knowing that everything she had once believed, everything she had once loved and desired, was about to be tossed upside down and shaken in a way she could never imagine.
-
-[View on Apple](https://books.apple.com/gb/book/entice/id984019829)
-
-<a id="murder-in-the-bistro"></a>
-## Murder in the Bistro
-
-![Murder in the Bistro](../../logos/1095434005-42044edb.png)
-
-Is there a connection between the cat found napping in the flour barrel of the newest bistro and the dead American chef in the meat freezer? &#xa0;When it comes to Maggie Newberry and the cranky villagers of St-Buvard, how could there not be?<br />
-Once more back in Provence, Maggie Newberry finds her hands full with village politics ratcheting up to nuclear level. &#xa0;Her BFF is back on her living room couch—this time with a snotty teenager in tow—and there’ a full-blown riot developing over the brand new American-owned bistro. When the fractious American chef ends up dead, Maggie will need to find out who killed her—and fast—before the chef’s killer decides that two dead Americans are better than one.
-
-[View on Apple](https://books.apple.com/gb/book/murder-in-the-bistro/id1095434005)
-
-<a id="petty-heart-a-feel-good-sports-romance-novella"></a>
-## Petty Heart: A Feel Good Sports Romance Novella
-
-![Petty Heart: A Feel Good Sports Romance Novella](../../logos/6759760027-2ba5c851.png)
-
-<b>Twenty years of rivalry. One season to ruin everything.</b><br /><br />Emma Porter has hated Scott Davidson since kindergarten. The spelling bees. The science fairs. The three hundred googly eyes on everything she owned.<br /><br />So when he starts staring at her like she's someone he actually wants? She knows he's planning something big.<br /><br />Scott has a problem. His childhood nemesis showed up to a party in a black dress, and his brain hasn't worked since. Now he can't stop noticing her, especially when she starts showing up to his hockey games, screaming about interference calls and learning plays faster than his freshmen.<br /><br />Worse? He plays like a future first-round pick every time she's watching.<br /><br />She's 5'2". He's 6'3". She's the one problem he can't solve. He's the one variable she can't control.<br /><br />When sixteen&#xa0;years of rivalry collide with the kind of tension that makes it hard to breathe, the line between hate and something else was never a line at all.<br /><br />It was a dare.<br /><br /><b>Petty Hearts</b> is a closed-door hockey romance featuring rivals-to-lovers, a heroine who will fight you (and lose, because she's tiny), and enough competitive bickering to fill a penalty box.<br /><br /><i>Alpha Athletes. Total Devotion. Closed Doors.</i>
-
-[View on Apple](https://books.apple.com/gb/book/petty-heart-a-feel-good-sports-romance-novella/id6759760027)
-
-<a id="seducing-mr-remington-spicy-billionaire-romance"></a>
-## Seducing Mr Remington - Spicy Billionaire Romance
-
-![Seducing Mr Remington - Spicy Billionaire Romance](../../logos/6740407641-a1303b6d.png)
-
-<b>SEBASTIAN</b><br /><br />Marry for love… not to lose our fortunes. That's the pledge we made ten years ago after our Harvard graduate brother suspiciously died three months into his marriage.<br /><br />I've never wavered. The last thing I need is a woman distracting me from my billion-dollar NYC business. Taking it… or killing me.<br /><br />So, when my private jet has an issue and I'm forced to fly first class, I take one look at Emily as she clambers over me and roll my eyes. She's clearly been upgraded, a sexy mess and totally out of her depth.<br /><br />Four hours later, thirty thousand feet in the air, I get the best blow job of my life. Might have to rethink the private jet.<br /><br /><b>EMILY</b><br /><br />That was <i>not</i> how I thought my new life in America would start.<br /><br />I'm sure it's just a coincidence that his name is Sebastian, and so is my new boss.<br /><br />Two days later, I find out I'm wrong.<br /><br /><i><b>Seducing Mr. Remington is Book One in The Obsidian Club series - a spicy billionaire series with a romantic suspense twist. If you love forbidden workplace romances with a grumpy-sunshine trope, bantering wealthy men, and scorching hot happy ever after's tropes, then you'll love Sebastian and Emily's spicy love story. Can be read as a standalone.</b></i><br />&#xa0;
-
-[View on Apple](https://books.apple.com/gb/book/seducing-mr-remington-spicy-billionaire-romance/id6740407641)
-
-<a id="frankenstein"></a>
-## Frankenstein
-
-![Frankenstein](../../logos/395546675-b48ea27c.png)
-
-An Apple Books Classic edition.<br /><br />Mary Shelley was just 18 when she had a nightmare vision: “I saw the pale student of unhallowed arts kneeling beside the thing he had put together. I saw the hideous phantasm of a man stretched out, and then, on the working of some powerful engine, show signs of life.”<br /><br />Despite her lack of writing experience, Shelley converted her dream into what is often referred to as the world’s first horror novel, a timeless tale of science gone bad. <i>Frankenstein</i> follows the story of Swiss scientist Victor Frankenstein, who manages to animate a hulking creature referred to as a “monster,” “wretch,” or “fiend.” Shelley’s 1818 classic has become one of the most frequently taught works of fiction, a cultural touchstone for conversations about the dark side of innovation. (Made-up words like <i>Frankenscience</i> and<i>Frankenfood</i> have become shorthand for the products of technological tampering.) More than 200 years after it was published, this novel remains a thought-provoking read that explores timely themes like creators’ responsibilities for the unintended consequences of their inventions.
-
-[View on Apple](https://books.apple.com/gb/book/frankenstein/id395546675)
-
-<a id="the-count-of-monte-cristo"></a>
-## The Count of Monte Cristo
-
-![The Count of Monte Cristo](../../logos/481657971-6d160feb.png)
-
-An Apple Books Classic edition.<br /><br />Alexandre Dumas’ classic paints a portrait of Edmond Dantès, a dark and calculating man who is willing to wait years to exact his perfect plan for revenge. After his so-called friends frame him for treason, Dantès is sentenced to life imprisonment in a grim island fortress on what was supposed to be his wedding day. After 14 years, he manages to escape prison, but he is unable to free himself from an all-consuming fury. Instead, Dantès spends a decade carrying out the plan for revenge he conceived while behind bars, bringing nightmarish ruination to those who once betrayed him-and second chances to those who tried to save him.<br /><br />When it was first published in 1844, <i>The Count of Monte Cristo</i> quickly became the best-selling book in all of Europe. Dumas’ novel was ahead of its time, an exciting tale of adventure, treasure, secret identities, and daring escapes. It also reads like an early psychological thriller, leaving readers uneasy as they cheer Dantès on in his vengeful quest. It’s no wonder this book has inspired dozens of screen adaptations!
-
-[View on Apple](https://books.apple.com/gb/book/the-count-of-monte-cristo/id481657971)
-
-<a id="unlucky-in-love"></a>
-## Unlucky in Love
-
-![Unlucky in Love](../../logos/6748706929-8c99078f.png)
-
-Turns out, love’s a lot like luck. You don’t know just how good you have it until you stand to lose it all.
-
-Kristen Collins is cursed. It’s the only explanation for this recent run of catastrophes. She’s lost her brand-new car and a winning lottery ticket, and her ex-boyfriend just drove off with all her possessions. She’s even lost the empty office that’s been her lunchtime sanctuary. Plus, the new hire who’s taken it over is precisely the kind of impending heartache she knows to avoid, from his intense gaze to that irresistible crooked smile.
-Developer Aiden Scott plans to stay at the Denver architecture firm just long enough to prime it for takeover. A job like his can’t get personal. Yet from the moment he collides with Kristen, he’s smitten. He wants to save the stunning interior designer from every crazy scenario she winds up in. But who’s going to save him when his business agenda shatters Kristen’s trust?
-
-[View on Apple](https://books.apple.com/gb/book/unlucky-in-love/id6748706929)
 
 <a id="the-next-girl"></a>
 ## The Next Girl
@@ -847,6 +781,15 @@ Four years later, an abandoned baby girl is found wrapped in dirty rags on a doo
 
 [View on Apple](https://books.apple.com/gb/book/the-next-girl/id1331419687)
 
+<a id="entice"></a>
+## Entice
+
+![Entice](../../logos/984019829-04e43f34.png)
+
+When the most difficult decision of Laurie Baker's life needed to be made, she took off for a weekend alone to weigh her pros and cons and consider all her options.<br /><br />What she didn't expect was to run face first into one more complication her life didn't need.<br /><br />Distracting, sexy, and British, Liam Parker offered Laurie exactly what she needed when she was desperate for attention.<br /><br />One night of pleasure.<br /><br />She wanted it.<br /><br />She craved it.<br /><br />She took it.<br /><br />And when the sunlight dawned and the lusty haze of one night of passion disappeared and reality revealed itself…<br /><br />Laurie returned home knowing that everything she had once believed, everything she had once loved and desired, was about to be tossed upside down and shaken in a way she could never imagine.
+
+[View on Apple](https://books.apple.com/gb/book/entice/id984019829)
+
 <a id="he-s-so-into-her"></a>
 ## He's So Into Her
 
@@ -868,14 +811,53 @@ Because the best love stories start the moment he realizes he's already fallen.
 
 [View on Apple](https://books.apple.com/gb/book/hes-so-into-her/id6778954089)
 
-<a id="the-iliad"></a>
-## The Iliad
+<a id="seducing-mr-remington-spicy-billionaire-romance"></a>
+## Seducing Mr Remington - Spicy Billionaire Romance
 
-![The Iliad](../../logos/498687001-e18c200b.png)
+![Seducing Mr Remington - Spicy Billionaire Romance](../../logos/6740407641-a1303b6d.png)
 
-The&#xa0;Iliad&#xa0;(sometimes referred to as the&#xa0;Song of Ilion&#xa0;or&#xa0;Song of Ilium) is an&#xa0;ancient Greek&#xa0;epic poem&#xa0;in&#xa0;dactylic hexameter, traditionally attributed to&#xa0;Homer. Set during the&#xa0;Trojan War, the ten-year siege of the city of&#xa0;Troy(Ilium) by a coalition of Greek states, it tells of the battles and events during the weeks of a quarrel between King&#xa0;Agamemnon&#xa0;and the warrior&#xa0;Achilles
+<b>SEBASTIAN</b><br /><br />Marry for love… not to lose our fortunes. That's the pledge we made ten years ago after our Harvard graduate brother suspiciously died three months into his marriage.<br /><br />I've never wavered. The last thing I need is a woman distracting me from my billion-dollar NYC business. Taking it… or killing me.<br /><br />So, when my private jet has an issue and I'm forced to fly first class, I take one look at Emily as she clambers over me and roll my eyes. She's clearly been upgraded, a sexy mess and totally out of her depth.<br /><br />Four hours later, thirty thousand feet in the air, I get the best blow job of my life. Might have to rethink the private jet.<br /><br /><b>EMILY</b><br /><br />That was <i>not</i> how I thought my new life in America would start.<br /><br />I'm sure it's just a coincidence that his name is Sebastian, and so is my new boss.<br /><br />Two days later, I find out I'm wrong.<br /><br /><i><b>Seducing Mr. Remington is Book One in The Obsidian Club series - a spicy billionaire series with a romantic suspense twist. If you love forbidden workplace romances with a grumpy-sunshine trope, bantering wealthy men, and scorching hot happy ever after's tropes, then you'll love Sebastian and Emily's spicy love story. Can be read as a standalone.</b></i><br />&#xa0;
 
-[View on Apple](https://books.apple.com/gb/book/the-iliad/id498687001)
+[View on Apple](https://books.apple.com/gb/book/seducing-mr-remington-spicy-billionaire-romance/id6740407641)
+
+<a id="unlucky-in-love"></a>
+## Unlucky in Love
+
+![Unlucky in Love](../../logos/6748706929-8c99078f.png)
+
+Turns out, love’s a lot like luck. You don’t know just how good you have it until you stand to lose it all.
+
+Kristen Collins is cursed. It’s the only explanation for this recent run of catastrophes. She’s lost her brand-new car and a winning lottery ticket, and her ex-boyfriend just drove off with all her possessions. She’s even lost the empty office that’s been her lunchtime sanctuary. Plus, the new hire who’s taken it over is precisely the kind of impending heartache she knows to avoid, from his intense gaze to that irresistible crooked smile.
+Developer Aiden Scott plans to stay at the Denver architecture firm just long enough to prime it for takeover. A job like his can’t get personal. Yet from the moment he collides with Kristen, he’s smitten. He wants to save the stunning interior designer from every crazy scenario she winds up in. But who’s going to save him when his business agenda shatters Kristen’s trust?
+
+[View on Apple](https://books.apple.com/gb/book/unlucky-in-love/id6748706929)
+
+<a id="petty-heart-a-feel-good-sports-romance-novella"></a>
+## Petty Heart: A Feel Good Sports Romance Novella
+
+![Petty Heart: A Feel Good Sports Romance Novella](../../logos/6759760027-2ba5c851.png)
+
+<b>Twenty years of rivalry. One season to ruin everything.</b><br /><br />Emma Porter has hated Scott Davidson since kindergarten. The spelling bees. The science fairs. The three hundred googly eyes on everything she owned.<br /><br />So when he starts staring at her like she's someone he actually wants? She knows he's planning something big.<br /><br />Scott has a problem. His childhood nemesis showed up to a party in a black dress, and his brain hasn't worked since. Now he can't stop noticing her, especially when she starts showing up to his hockey games, screaming about interference calls and learning plays faster than his freshmen.<br /><br />Worse? He plays like a future first-round pick every time she's watching.<br /><br />She's 5'2". He's 6'3". She's the one problem he can't solve. He's the one variable she can't control.<br /><br />When sixteen&#xa0;years of rivalry collide with the kind of tension that makes it hard to breathe, the line between hate and something else was never a line at all.<br /><br />It was a dare.<br /><br /><b>Petty Hearts</b> is a closed-door hockey romance featuring rivals-to-lovers, a heroine who will fight you (and lose, because she's tiny), and enough competitive bickering to fill a penalty box.<br /><br /><i>Alpha Athletes. Total Devotion. Closed Doors.</i>
+
+[View on Apple](https://books.apple.com/gb/book/petty-heart-a-feel-good-sports-romance-novella/id6759760027)
+
+<a id="the-adventures-of-sherlock-holmes"></a>
+## The Adventures of Sherlock Holmes
+
+![The Adventures of Sherlock Holmes](../../logos/395536306-8fd0941c.png)
+
+An Apple Books Classic edition.<br /><br />You get not one, not two, but <i>25</i> gripping mysteries in Arthur Conan Doyle’s first of five collections of Sherlock Holmes short stories. Follow the brilliant and eccentric Holmes and his loyal sidekick, Dr. Watson, as they journey to lavish country estates to investigate baffling cases involving indiscreet royal affairs, cheetahs, redheads, and gypsies. Every one of Conan Doyle’s tales is full of surprising - but always logical - twists. (Fun fact: This book includes “The Speckled Band,” the author’s self-proclaimed favorite of all of his Sherlock Holmes short stories.)
+
+[View on Apple](https://books.apple.com/gb/book/the-adventures-of-sherlock-holmes/id395536306)
+
+<a id="the-art-of-war"></a>
+## The Art of War
+
+![The Art of War](../../logos/395534623-47e89a1c.png)
+
+An Apple Books Classic edition.<br /><br />It’s believed that Sun Tzu wrote this Chinese military primer during the 5th century BC-hundreds of years before the Bible. The book’s 13 chapters explore principles that statesmen around the globe have employed for centuries to defeat their enemies at war.<br /><br />Sun Tzu starts by mapping out the five fundamental factors that lead to war. He then covers a wide range of topics, from avoiding conflict altogether to strategically positioning soldiers, pulling off tactical maneuvers, and putting spies to use.<br /><br />Despite the technological advances made since <i>The Art of War</i> was published, Sun Tzu is still considered one of history’s foremost military strategists, and his methods still ring true. While he wrote the book as a manual for those who would literally wield swords, it has reached a much broader audience in this day and age. Warriors of all kinds-like corporate leaders or athletes-seek out Sun Tzu’s wisdom in their quest for success.
+
+[View on Apple](https://books.apple.com/gb/book/the-art-of-war/id395534623)
 
 <a id="her-dragon-defender-a-rapunzel-retelling"></a>
 ## Her Dragon Defender: A Rapunzel Retelling
@@ -886,14 +868,67 @@ The&#xa0;Iliad&#xa0;(sometimes referred to as the&#xa0;Song of Ilion&#xa0;or&#xa
 
 [View on Apple](https://books.apple.com/gb/book/her-dragon-defender-a-rapunzel-retelling/id6745272181)
 
-<a id="dracula"></a>
-## Dracula
+<a id="frankenstein"></a>
+## Frankenstein
 
-![Dracula](../../logos/395541616-54fc3f4a.png)
+![Frankenstein](../../logos/395546675-b48ea27c.png)
 
-An Apple Books Classic edition.<br /><br />Few characters have seized readers’ imaginations quite like Count Dracula of Transylvania, the hero of Bram Stoker’s classic. The 1897 novel put vampires front and center on the cultural map, providing direct inspiration for an entire subgenre of bloodsucker fiction - including blockbusters like the <i>Twilight</i> series and Anne Rice’s <i>Vampire Chronicles</i> - and spawning hundreds of movie adaptations!<br /><br />Stoker’s novel is a thrill ride, following Dracula as he moves from Transylvania to England in search of fresh blood, while a small but dedicated group attempts to thwart him. Want more Stoker? Check out his great-grandnephew Dacre Stoker’s 2018 novel, <i>Dracul</i>.
+An Apple Books Classic edition.<br /><br />Mary Shelley was just 18 when she had a nightmare vision: “I saw the pale student of unhallowed arts kneeling beside the thing he had put together. I saw the hideous phantasm of a man stretched out, and then, on the working of some powerful engine, show signs of life.”<br /><br />Despite her lack of writing experience, Shelley converted her dream into what is often referred to as the world’s first horror novel, a timeless tale of science gone bad. <i>Frankenstein</i> follows the story of Swiss scientist Victor Frankenstein, who manages to animate a hulking creature referred to as a “monster,” “wretch,” or “fiend.” Shelley’s 1818 classic has become one of the most frequently taught works of fiction, a cultural touchstone for conversations about the dark side of innovation. (Made-up words like <i>Frankenscience</i> and<i>Frankenfood</i> have become shorthand for the products of technological tampering.) More than 200 years after it was published, this novel remains a thought-provoking read that explores timely themes like creators’ responsibilities for the unintended consequences of their inventions.
 
-[View on Apple](https://books.apple.com/gb/book/dracula/id395541616)
+[View on Apple](https://books.apple.com/gb/book/frankenstein/id395546675)
+
+<a id="the-vampire-spy"></a>
+## The Vampire Spy
+
+![The Vampire Spy](../../logos/1584811413-854871ee.png)
+
+<b>Will he choose the sexy spy and bond, or remain loyal to the king and protect the race?</b><br /><br />Lance De Luca, a powerful warrior in the Moretti royal army, has captured a beautiful woman he believes to be a spy. In other words, the enemy!<br /><br />Sparks ignite as he interrogates her, but she's the forbidden fruit he cannot taste.<br /><br />To prove her innocence, Sofia is asked to become a double agent, forcing her back into the dangerous world she's just escaped.<br /><br />Forced to watch and hide his feelings for the woman who could be his mate, Lance must let Sofia complete her mission or risk the fate of all vampires.<br /><br />&#xa0;<br /><br /><b><i>The Vampire Spy is the next installment in the bestselling steamy paranormal romance series the Moretti Blood Brothers. Part romance, part suspense, it will appeal to readers who love fated-mates, enemies to lovers, and military romance with supernatural abilities. And delicious happy ever after's.</i></b>
+
+[View on Apple](https://books.apple.com/gb/book/the-vampire-spy/id1584811413)
+
+<a id="the-iliad"></a>
+## The Iliad
+
+![The Iliad](../../logos/498687001-e18c200b.png)
+
+The&#xa0;Iliad&#xa0;(sometimes referred to as the&#xa0;Song of Ilion&#xa0;or&#xa0;Song of Ilium) is an&#xa0;ancient Greek&#xa0;epic poem&#xa0;in&#xa0;dactylic hexameter, traditionally attributed to&#xa0;Homer. Set during the&#xa0;Trojan War, the ten-year siege of the city of&#xa0;Troy(Ilium) by a coalition of Greek states, it tells of the battles and events during the weeks of a quarrel between King&#xa0;Agamemnon&#xa0;and the warrior&#xa0;Achilles
+
+[View on Apple](https://books.apple.com/gb/book/the-iliad/id498687001)
+
+<a id="the-rebound"></a>
+## The Rebound
+
+![The Rebound](../../logos/1555064719-1a4df744.png)
+
+<b>He's my older brother's friend and teammate. Off-limits, unavailable and forbidden.</b><br /><br />A brother's best friend college sports romance<br /><br />There are times I wish I was someone other than the shy, geeky, college virgin that I am.<br /><br />I also wish that my crush on Van Gerard wasn't one sided and that he looked at me as something other than his best friend's little sister.<br /><br />But he's firmly drawn the line in the friendship territory, even though there are times I think he might feel the same way about me. But then I remember that Van has a long-time girlfriend and we're strictly in the friend zone.<br /><br />But I want more.<br /><br />So, when Van's life is turned upside down, I'm there to comfort him. To break his fall. I'm his shoulder to cry on.<br /><br />Even if he only considers me a rebound.
+
+[View on Apple](https://books.apple.com/gb/book/the-rebound/id1555064719)
+
+<a id="the-count-of-monte-cristo"></a>
+## The Count of Monte Cristo
+
+![The Count of Monte Cristo](../../logos/481657971-6d160feb.png)
+
+An Apple Books Classic edition.<br /><br />Alexandre Dumas’ classic paints a portrait of Edmond Dantès, a dark and calculating man who is willing to wait years to exact his perfect plan for revenge. After his so-called friends frame him for treason, Dantès is sentenced to life imprisonment in a grim island fortress on what was supposed to be his wedding day. After 14 years, he manages to escape prison, but he is unable to free himself from an all-consuming fury. Instead, Dantès spends a decade carrying out the plan for revenge he conceived while behind bars, bringing nightmarish ruination to those who once betrayed him-and second chances to those who tried to save him.<br /><br />When it was first published in 1844, <i>The Count of Monte Cristo</i> quickly became the best-selling book in all of Europe. Dumas’ novel was ahead of its time, an exciting tale of adventure, treasure, secret identities, and daring escapes. It also reads like an early psychological thriller, leaving readers uneasy as they cheer Dantès on in his vengeful quest. It’s no wonder this book has inspired dozens of screen adaptations!
+
+[View on Apple](https://books.apple.com/gb/book/the-count-of-monte-cristo/id481657971)
+
+<a id="aftershocks"></a>
+## Aftershocks
+
+![Aftershocks](../../logos/1515487217-2d5b6723.png)
+
+Her past and her present collide with earthshaking results. Who will be her future…assuming she has one?
+
+Sixteen years ago, Zoe Ardmore was abducted and held for a year before she escaped. After struggling to overcome the damage done by that year, she has put it behind her—completely. Her fiancé, Kellen Stone, doesn’t even know it happened. She has a successful career and social life untainted by the past.
+
+Now her abductors have been released from prison, jeopardizing every part of that new life. She took something from them, a treasure they’ll never stop seeking, and they’ve threatened her new family if she doesn’t return that treasure. The problem is that she has no idea where it is. The solution? Grant Neely, the one person who knows everything about that dark time. He’s now a mercenary with the connections and skills to help her resolve this mess. He’s also the man whose proposal she refused ten years ago.
+
+Zoe breaks her engagement and sells her company in an effort to remove the threat hanging over the people she cares about. But the only permanent solution is to find the treasure and destroy it so her enemies have no reason to come after her or anyone else. Grant’s the one man who can help her, even if it means dredging up old feelings. But then Kell shows up, refusing to be sidelined and showing Zoe that none of them are who they seem to be. At the end of her quest will be the hardest decision she’s ever had to make—if she’s around to make it.
+
+This action-adventure romance launches the Seismic Victory series! Get book 2, Resonance, then read The Road to Victory, which leads right into the plight of the security company, Victory, in Victory on the Edge.
+
+[View on Apple](https://books.apple.com/gb/book/aftershocks/id1515487217)
 
 <a id="i-loved-you-first"></a>
 ## I Loved You First
@@ -909,24 +944,6 @@ Cameron Bennet has his hands full. As a single dad and head construction manager
 When an emergency forces Fiona to return to her hometown, she discovers that nothing is how she thought it would be. Fiona tries her best to avoid Cam and their undeniable chemistry, but Cam is determined to right his wrongs before Fiona disappears from his life again.
 
 [View on Apple](https://books.apple.com/gb/book/i-loved-you-first/id6584513658)
-
-<a id="the-vampire-spy"></a>
-## The Vampire Spy
-
-![The Vampire Spy](../../logos/1584811413-854871ee.png)
-
-<b>Will he choose the sexy spy and bond, or remain loyal to the king and protect the race?</b><br /><br />Lance De Luca, a powerful warrior in the Moretti royal army, has captured a beautiful woman he believes to be a spy. In other words, the enemy!<br /><br />Sparks ignite as he interrogates her, but she's the forbidden fruit he cannot taste.<br /><br />To prove her innocence, Sofia is asked to become a double agent, forcing her back into the dangerous world she's just escaped.<br /><br />Forced to watch and hide his feelings for the woman who could be his mate, Lance must let Sofia complete her mission or risk the fate of all vampires.<br /><br />&#xa0;<br /><br /><b><i>The Vampire Spy is the next installment in the bestselling steamy paranormal romance series the Moretti Blood Brothers. Part romance, part suspense, it will appeal to readers who love fated-mates, enemies to lovers, and military romance with supernatural abilities. And delicious happy ever after's.</i></b>
-
-[View on Apple](https://books.apple.com/gb/book/the-vampire-spy/id1584811413)
-
-<a id="the-rebound"></a>
-## The Rebound
-
-![The Rebound](../../logos/1555064719-1a4df744.png)
-
-<b>He's my older brother's friend and teammate. Off-limits, unavailable and forbidden.</b><br /><br />A brother's best friend college sports romance<br /><br />There are times I wish I was someone other than the shy, geeky, college virgin that I am.<br /><br />I also wish that my crush on Van Gerard wasn't one sided and that he looked at me as something other than his best friend's little sister.<br /><br />But he's firmly drawn the line in the friendship territory, even though there are times I think he might feel the same way about me. But then I remember that Van has a long-time girlfriend and we're strictly in the friend zone.<br /><br />But I want more.<br /><br />So, when Van's life is turned upside down, I'm there to comfort him. To break his fall. I'm his shoulder to cry on.<br /><br />Even if he only considers me a rebound.
-
-[View on Apple](https://books.apple.com/gb/book/the-rebound/id1555064719)
 
 <a id="playing-with-forever"></a>
 ## Playing with Forever
@@ -946,24 +963,6 @@ Soon, his protection isn’t enough. I want all of him—his body, his heart, an
 Playing with Forever is a steamy romance with high stakes tension, a possessive alpha hero, and a love worth fighting for.
 
 [View on Apple](https://books.apple.com/gb/book/playing-with-forever/id6743733329)
-
-<a id="the-art-of-war"></a>
-## The Art of War
-
-![The Art of War](../../logos/395534623-47e89a1c.png)
-
-An Apple Books Classic edition.<br /><br />It’s believed that Sun Tzu wrote this Chinese military primer during the 5th century BC-hundreds of years before the Bible. The book’s 13 chapters explore principles that statesmen around the globe have employed for centuries to defeat their enemies at war.<br /><br />Sun Tzu starts by mapping out the five fundamental factors that lead to war. He then covers a wide range of topics, from avoiding conflict altogether to strategically positioning soldiers, pulling off tactical maneuvers, and putting spies to use.<br /><br />Despite the technological advances made since <i>The Art of War</i> was published, Sun Tzu is still considered one of history’s foremost military strategists, and his methods still ring true. While he wrote the book as a manual for those who would literally wield swords, it has reached a much broader audience in this day and age. Warriors of all kinds-like corporate leaders or athletes-seek out Sun Tzu’s wisdom in their quest for success.
-
-[View on Apple](https://books.apple.com/gb/book/the-art-of-war/id395534623)
-
-<a id="the-tea-witch-s-secret"></a>
-## The Tea Witch's Secret
-
-![The Tea Witch's Secret](../../logos/6743140744-4c161c6e.png)
-
-<b>Hana knows she shouldn't fall for Oliver, even if his familiar training constantly leads him back to her for healing.&#xa0;</b><br /><br />As a tea witch and healer, Hana knows her role in Purple Oak Oasis, and as the heir of the Steeper family, she knows better than to fall for someone she shouldn't. But the heart wants what it wants, and for Hana Steeper, that means Oliver Fields.&#xa0;<br /><br />Oliver's trouble with his owl familiar leads him to the infirmary, where he gets to flirt with the very cute Hana as much as he wants. When their friendship turns into something more, it's not long before they're unable to resist.&#xa0;<br /><br />Are their feelings stronger than the rules they should be listening to?<br /><br />-&#xa0;<br /><br />The Tea Witch's Secret is a cozy fantasy romance with a friends-to-lovers m/f forbidden romance, an enthusiastic owl familiar, and a healer determined to do her job.&#xa0;
-
-[View on Apple](https://books.apple.com/gb/book/the-tea-witchs-secret/id6743140744)
 
 <a id="knock-knock"></a>
 ## Knock Knock
@@ -999,58 +998,32 @@ What readers are saying about <i>Knock Knock</i>:<br />
 
 [View on Apple](https://books.apple.com/gb/book/knock-knock/id6503291688)
 
-<a id="aftershocks"></a>
-## Aftershocks
+<a id="dracula"></a>
+## Dracula
 
-![Aftershocks](../../logos/1515487217-2d5b6723.png)
+![Dracula](../../logos/395541616-54fc3f4a.png)
 
-Her past and her present collide with earthshaking results. Who will be her future…assuming she has one?
+An Apple Books Classic edition.<br /><br />Few characters have seized readers’ imaginations quite like Count Dracula of Transylvania, the hero of Bram Stoker’s classic. The 1897 novel put vampires front and center on the cultural map, providing direct inspiration for an entire subgenre of bloodsucker fiction - including blockbusters like the <i>Twilight</i> series and Anne Rice’s <i>Vampire Chronicles</i> - and spawning hundreds of movie adaptations!<br /><br />Stoker’s novel is a thrill ride, following Dracula as he moves from Transylvania to England in search of fresh blood, while a small but dedicated group attempts to thwart him. Want more Stoker? Check out his great-grandnephew Dacre Stoker’s 2018 novel, <i>Dracul</i>.
 
-Sixteen years ago, Zoe Ardmore was abducted and held for a year before she escaped. After struggling to overcome the damage done by that year, she has put it behind her—completely. Her fiancé, Kellen Stone, doesn’t even know it happened. She has a successful career and social life untainted by the past.
+[View on Apple](https://books.apple.com/gb/book/dracula/id395541616)
 
-Now her abductors have been released from prison, jeopardizing every part of that new life. She took something from them, a treasure they’ll never stop seeking, and they’ve threatened her new family if she doesn’t return that treasure. The problem is that she has no idea where it is. The solution? Grant Neely, the one person who knows everything about that dark time. He’s now a mercenary with the connections and skills to help her resolve this mess. He’s also the man whose proposal she refused ten years ago.
+<a id="broken-angel"></a>
+## Broken Angel
 
-Zoe breaks her engagement and sells her company in an effort to remove the threat hanging over the people she cares about. But the only permanent solution is to find the treasure and destroy it so her enemies have no reason to come after her or anyone else. Grant’s the one man who can help her, even if it means dredging up old feelings. But then Kell shows up, refusing to be sidelined and showing Zoe that none of them are who they seem to be. At the end of her quest will be the hardest decision she’s ever had to make—if she’s around to make it.
+![Broken Angel](../../logos/6738701788-9f203136.png)
 
-This action-adventure romance launches the Seismic Victory series! Get book 2, Resonance, then read The Road to Victory, which leads right into the plight of the security company, Victory, in Victory on the Edge.
+<i><b>He's gone without a trace, but I know his heart is still beating.</b></i><br /><br /><b>RUSLAN</b><br /><br />The men who shackled me here were told not to kill me. They should have when they had the chance. Now, I'm going to take them out one by one.<br /><br />Once I figure out who's behind this, I won't hold back my anger. Revenge is a dish best served cold, and I'll make sure to hit them where it hurts the most.<br /><br />But as soon as I'm free, I'm going to find her first.<br /><br />The thief who may not be a thief… unless it's matters of the heart. She clenches mine in her fist, and I don't want her to let go.<br /><br /><b>AMELIA</b><br /><br />The handsome Russian man I had a one-night stand with is gone. All I'm left with is the sickening realization he helped me make – that my ex-boyfriend stole my identity, and I've been paying off his debt.<br /><br />Ruslan could have helped me out of this mess, but now that he's disappeared, I have no one on my side. I have to find him.<br /><br />Not just because I owe him… because I can't be without him.<br /><br /><i><b>Broken Angel</b></i><b> is book one of </b><i><b>The Umarova Crime Family </b></i><b>dark mafia series of interconnected standalone, full-length novels. Devour this decadent mafia story next!</b><br /><br />Step into the world of Ivy Black, where steamy dark romance meets danger and desire. From ruthless mafia kings to brooding motorcycle club bad boys, each story delivers intense passion, forbidden love, and possessive alphas who always claim what's theirs. Perfect for fans of spicy romance, dark desires, and unforgettable happily ever afters.<br />&#xa0;
 
-[View on Apple](https://books.apple.com/gb/book/aftershocks/id1515487217)
+[View on Apple](https://books.apple.com/gb/book/broken-angel/id6738701788)
 
-<a id="crime-and-punishment"></a>
-## Crime and Punishment
+<a id="the-tea-witch-s-secret"></a>
+## The Tea Witch's Secret
 
-![Crime and Punishment](../../logos/6763984106-ac69dc75.png)
+![The Tea Witch's Secret](../../logos/6743140744-4c161c6e.png)
 
-An Apple Books Classic edition.<br /><br />Fyodor Dostoevsky’s intense novel uses the trappings of a taut thriller to excavate some of the darkest moral questions of the human experience. <br /><br />Impoverished ex–law student Rodion Raskolnikov is at odds with himself. He’s wildly intelligent but can’t seem to outwit his own desperate circumstances. That is, until he decides to rob and murder an underhanded pawnbroker. After all, he thinks, by ridding the world of her cruelty, he’s committed a benevolent act.<br /><br />But even as Raskolnikov is justifying himself in the grandest terms, the true moral weight of his actions is already stalking him through the shadowy streets of Saint Petersburg—and his own tortured subconscious. Grimy and enthralling, <i>Crime and Punishment</i> pits reason against principle, rationality against heart.
+<b>Hana knows she shouldn't fall for Oliver, even if his familiar training constantly leads him back to her for healing.&#xa0;</b><br /><br />As a tea witch and healer, Hana knows her role in Purple Oak Oasis, and as the heir of the Steeper family, she knows better than to fall for someone she shouldn't. But the heart wants what it wants, and for Hana Steeper, that means Oliver Fields.&#xa0;<br /><br />Oliver's trouble with his owl familiar leads him to the infirmary, where he gets to flirt with the very cute Hana as much as he wants. When their friendship turns into something more, it's not long before they're unable to resist.&#xa0;<br /><br />Are their feelings stronger than the rules they should be listening to?<br /><br />-&#xa0;<br /><br />The Tea Witch's Secret is a cozy fantasy romance with a friends-to-lovers m/f forbidden romance, an enthusiastic owl familiar, and a healer determined to do her job.&#xa0;
 
-[View on Apple](https://books.apple.com/gb/book/crime-and-punishment/id6763984106)
-
-<a id="free-your-mind"></a>
-## Free Your Mind
-
-![Free Your Mind](../../logos/988186383-c015e5c2.png)
-
-Everything is changing now.<br />You don’t have to underestimate yourself as science is showing just how amazing and complex your brain really is. You don’t have to limit your horizons as the ability to create a new, empowered reality is available for you right now. You don’t have to settle for old ways of thinking as you can choose a more realistic mindset. You don’t have to accept a life of unhappiness as happiness is yours to control. You don’t have to live in fear as you can choose to be more optimistic. You don’t have to accept helplessness as you can embrace truths that empower your life. You don’t have to accept limiting beliefs as you can decide to free your mind…<br />Now is the time to see yourself in a new light.<br />This entertaining book will show you powerful ways to liberate your thinking. With science, psychology and inspiring examples – including the author’s own experiences sprinkled with a little humor too – ‘Free Your Mind’ illuminates your personal path, breaking down barriers to a new reality for you.<br />It’s time to allow the truth to set you free!
-
-[View on Apple](https://books.apple.com/gb/book/free-your-mind/id988186383)
-
-<a id="dream-psychology"></a>
-## Dream Psychology
-
-![Dream Psychology](../../logos/395687522-c8441cd4.png)
-
-An Apple Books Classic edition.<br /><br />Written by the founding father of psychoanalysis, Sigmund Freud’s 1899 book is the definitive text on learning to interpret dreams. Freud’s groundbreaking approach to healing psychiatric issues through dialogue between a patient and therapist gave us enduring concepts like projection and transference, as well as the superego, ego, and id.<br /><br />Above all, Freud advanced the progressive idea of unconscious desire as a driving force for our thoughts and actions. This paved the way for the revolutionary notion that dreams are more than wild nonsense-they’re a channel for symbolically communicating our innermost fears, conflicts, and desires. While many of Freud’s theories have fallen out of fashion, <i>Dream Psychology</i> is a great introduction to the influential field of psychoanalysis. It’s a fascinating look into the world of the subconscious-and the human mind.
-
-[View on Apple](https://books.apple.com/gb/book/dream-psychology/id395687522)
-
-<a id="the-wind-in-the-willows"></a>
-## The Wind in the Willows
-
-![The Wind in the Willows](../../logos/510922680-ce5cdbd8.png)
-
-An Apple Books Classics edition.<br /><br />Visit the Wild Wood along the pastoral banks of the Thames, where quiet Mole and fun-loving Water Rat seek out their friends Badger and Toad for adventures. When Toad’s reckless driving gets him into big trouble, he must rely on his friends to help him out—and as the season turns, the friends must band together against a crew of ferocious stoats, ferrets, and weasels who are threatening to steal Toad Hall.<br /><br />See why Kenneth Grahame’s charming tale of friendship and home has captured the hearts of children—and adults—everywhere since its publication in 1908.
-
-[View on Apple](https://books.apple.com/gb/book/the-wind-in-the-willows/id510922680)
+[View on Apple](https://books.apple.com/gb/book/the-tea-witchs-secret/id6743140744)
 
 <a id="little-women"></a>
 ## Little Women
@@ -1060,45 +1033,6 @@ An Apple Books Classics edition.<br /><br />Visit the Wild Wood along the pastor
 An Apple Books Classic edition.<br /><br />Meet the Marches! Louisa May Alcott’s classic introduces us to four unforgettable sisters: beautiful Meg, tomboyish Jo, delicate Beth, and Amy, the indulged youngest of the lot. With their father serving as a Union chaplain, the Marches help their devoted mother, Marmee, make ends meet as their fortunes dwindle. The book starts with the family performing a small act of kindness for a family even less fortunate than they are and expands from there, drawing us in as the March girls grow up-and experience joy, hardship, failure, heartbreak, success, and love.<br /><br />Alcott’s novel draws from her own life story. She herself was one of four sisters who all struck out on different paths. Open the pages of &gt;Little Women and fall into a world of innocence and generosity-one that you’ll want to return to again and again.
 
 [View on Apple](https://books.apple.com/gb/book/little-women/id392614050)
-
-<a id="the-strange-case-of-dr-jekyll-and-mr-hyde"></a>
-## The Strange Case of Dr. Jekyll and Mr. Hyde
-
-![The Strange Case of Dr. Jekyll and Mr. Hyde](../../logos/395542998-802edd4a.png)
-
-An Apple Books Classic edition.<br /><br />What would happen if you let your darkness out? Are you certain you’d be able to rein it back in? When Dr. Jekyll turned toward the dark side, he was convinced he could turn back at will, while his friends assumed he’d fallen under the influence of the criminal Mr. Hyde. But the good doctor—and all his acquaintances—were very, very wrong. Can Dr. Jekyll escape the clutches of Mr. Hyde before it’s too late?<br /><br />Set in the London society of the 1880s, Robert Louis Stevenson’s classic novella is a masterful tale of suspense and psychological intrigue. The story plays to primal fears like losing control of ourselves and discovering that a person we trusted is actually someone—or something—else entirely: a monster. <i>The Strange Case of Dr. Jekyll and Mr. Hyde</i> is a must-read for anyone who loves mysteries and crime fiction.
-
-[View on Apple](https://books.apple.com/gb/book/the-strange-case-of-dr-jekyll-and-mr-hyde/id395542998)
-
-<a id="emma"></a>
-## Emma
-
-![Emma](../../logos/395536171-ee59cc34.png)
-
-An Apple Books Classic edition.<br /><br />Emma Woodhouse may just be Jane Austen’s most controversial character. Some see her as a spoiled narcissist who’s deluded about reality, while others view her as a well-intentioned and bitingly sarcastic young woman who matures before our eyes.<br /><br />This well-loved novel-which is often adapted for the screen-is set in the early 19th century, among England’s landed gentry. After seeing her governess happily married, Emma decides she is a natural matchmaker and devises a plan to find her new friend Harriet a mate. What follows has all the makings of a contemporary soap opera. As usual, Austen portrays her contemporaries with a brilliant and subtle snark. <i>Emma</i> is a wonderfully entertaining read.
-
-[View on Apple](https://books.apple.com/gb/book/emma/id395536171)
-
-<a id="the-idiot"></a>
-## The Idiot
-
-![The Idiot](../../logos/395539815-7f952ac0.png)
-
-An Apple Books Classic edition.<br /><br />Bold, romantic, and emotionally explosive, <i>The Idiot</i> follows a kindhearted prince whose sincerity is so rare, the people he encounters don’t know whether they should adore him or destroy him. <br /><br />When Prince Myshkin returns to Saint Petersburg after years in a Swiss sanitarium, his openness and kindheartedness unsettle a society ruled by power and money. Drawn into the orbit of two women—brilliant, wounded Nastasya Filippovna and spirited Aglaya Epanchin—he finds himself at the heart of a perilous rivalry.<br /><br />With daring psychological insight and disarming flashes of comedy, Fyodor Dostoyevsky examines what goodness looks like when it’s caught between desire and society’s pressure to conform. <i>The Idiot</i> reveals how easily innocence is mistaken for weakness and how steep the cost can be for those who keep believing in love.
-
-[View on Apple](https://books.apple.com/gb/book/the-idiot/id395539815)
-
-<a id="sense-and-sensibility"></a>
-## Sense and Sensibility
-
-![Sense and Sensibility](../../logos/481665171-7fb2e2cd.png)
-
-An Apple Books Classic edition.<br />
-Jane Austen’s first published novel is a sparkling, heartfelt tale of family, friendship, and changes of the heart.&#xa0;<br />
-Elinor Dashwood is the voice of reason. Her sister, Marianne, is impulsive and emotionally reactive. When their family loses its fortune, they have to trade a grand estate for a quiet cottage and step into an unpredictable new world of love, gossip, and heartbreak.<br />
-One guards her heart, the other dives in feelings-first. As secrets surface and affections are tested, both discover that reason <i>and</i> passion together might be the perfect combination. Sharp, funny, and romantic, <i>Sense and Sensibility</i> captures Austen’s keen eye for love in all its messy forms.
-
-[View on Apple](https://books.apple.com/gb/book/sense-and-sensibility/id481665171)
 
 <a id="knee-deep-in-love"></a>
 ## Knee Deep In Love
@@ -1176,6 +1110,81 @@ Future books in the series are also available!<br />
 
 [View on Apple](https://books.apple.com/gb/book/behind-her-lies-an-elise-close-psychological/id6502605251)
 
+<a id="free-your-mind"></a>
+## Free Your Mind
+
+![Free Your Mind](../../logos/988186383-c015e5c2.png)
+
+Everything is changing now.<br />You don’t have to underestimate yourself as science is showing just how amazing and complex your brain really is. You don’t have to limit your horizons as the ability to create a new, empowered reality is available for you right now. You don’t have to settle for old ways of thinking as you can choose a more realistic mindset. You don’t have to accept a life of unhappiness as happiness is yours to control. You don’t have to live in fear as you can choose to be more optimistic. You don’t have to accept helplessness as you can embrace truths that empower your life. You don’t have to accept limiting beliefs as you can decide to free your mind…<br />Now is the time to see yourself in a new light.<br />This entertaining book will show you powerful ways to liberate your thinking. With science, psychology and inspiring examples – including the author’s own experiences sprinkled with a little humor too – ‘Free Your Mind’ illuminates your personal path, breaking down barriers to a new reality for you.<br />It’s time to allow the truth to set you free!
+
+[View on Apple](https://books.apple.com/gb/book/free-your-mind/id988186383)
+
+<a id="dream-psychology"></a>
+## Dream Psychology
+
+![Dream Psychology](../../logos/395687522-c8441cd4.png)
+
+An Apple Books Classic edition.<br /><br />Written by the founding father of psychoanalysis, Sigmund Freud’s 1899 book is the definitive text on learning to interpret dreams. Freud’s groundbreaking approach to healing psychiatric issues through dialogue between a patient and therapist gave us enduring concepts like projection and transference, as well as the superego, ego, and id.<br /><br />Above all, Freud advanced the progressive idea of unconscious desire as a driving force for our thoughts and actions. This paved the way for the revolutionary notion that dreams are more than wild nonsense-they’re a channel for symbolically communicating our innermost fears, conflicts, and desires. While many of Freud’s theories have fallen out of fashion, <i>Dream Psychology</i> is a great introduction to the influential field of psychoanalysis. It’s a fascinating look into the world of the subconscious-and the human mind.
+
+[View on Apple](https://books.apple.com/gb/book/dream-psychology/id395687522)
+
+<a id="take-her-under"></a>
+## Take Her Under
+
+![Take Her Under](../../logos/6759976051-6e67ef85.png)
+
+<i><b>A chilling page-turning psychological thriller with an unpredictable last-chapter twist, perfect for fans of Freida McFadden, Alice Feeney, and John Marrs.</b></i><br /><b></b><br /><br /><b>The next body on the embalming table may be hers.</b><br /><br />Preparing bodies for burial wasn't on Ashley's career list until a horrifying accident left her to inherit Fallon's Funeral Home. She spends her days applying final touches and ensuring the departed look more peaceful than they ever did in life.<br /><br />When a crash echoes from the embalming room late one night, she expects to find a fallen tray or her clumsy assistant. Instead, she unveils a body laid out on the stainless-steel table, posed with unsettling care. The woman has Ashley's face. Ashley's hair. Ashley's scar just beneath her chin. She's even dressed in Ashley's clothes. Clutched in the corpse's pale fingers is a single note:<br /><i><b></b></i><br /><br /><i><b>Murderer</b></i><br /><br />Someone knows what Ashley covered up. As strange threats arrive and familiar faces turn watchful, she realizes the funerals she controls so expertly have become her own fate. She must uncover who is exhuming her past before she becomes the final viewing.<br /><b></b><br /><br /><b>As the town undertaker, she buries secrets with the dead. But someone is digging up hers, and they plan to&#xa0;<i>Take Her Under</i>.</b>
+
+[View on Apple](https://books.apple.com/gb/book/take-her-under/id6759976051)
+
+<a id="moonlight-murder-mystery-club-a-bitter-taste-book-1-of-5"></a>
+## Moonlight Murder Mystery Club: A Bitter Taste Book 1 of 5
+
+![Moonlight Murder Mystery Club: A Bitter Taste Book 1 of 5](../../logos/6781108655-b7e1623a.png)
+
+<i>Some mornings start with coffee. Sage Holloway's started with a corpse.</i><br /><br /><i>When Crescent Harbor's most hated developer drops dead, police zero in on the obvious suspect — Sage's employee, a single mom whose public threat against him now looks an awful lot like motive. But Sage knows her. And Sage knows better.</i><br /><br /><i>Armed with a baker's instincts, a suspicious coffee cup with very strange sediment, and Shadow — her unnervingly perceptive black cat with ancient golden eyes — Sage starts asking questions that powerful people would rather she didn't.</i><br /><br /><i>In Crescent Harbor, the scones are fresh, the secrets run deep, and some things were buried for a very good reason.</i><br /><br /><i>She just wanted to bake. Now she has to find a killer before someone decides she knows too much.</i><br /><br /><i>Book 1 of 5 — The complete Moonlight Murder Mystery Club series is available now.</i>
+
+[View on Apple](https://books.apple.com/gb/book/moonlight-murder-mystery-club-a-bitter-taste-book-1-of-5/id6781108655)
+
+<a id="the-idiot"></a>
+## The Idiot
+
+![The Idiot](../../logos/395539815-7f952ac0.png)
+
+An Apple Books Classic edition.<br /><br />Bold, romantic, and emotionally explosive, <i>The Idiot</i> follows a kindhearted prince whose sincerity is so rare, the people he encounters don’t know whether they should adore him or destroy him. <br /><br />When Prince Myshkin returns to Saint Petersburg after years in a Swiss sanitarium, his openness and kindheartedness unsettle a society ruled by power and money. Drawn into the orbit of two women—brilliant, wounded Nastasya Filippovna and spirited Aglaya Epanchin—he finds himself at the heart of a perilous rivalry.<br /><br />With daring psychological insight and disarming flashes of comedy, Fyodor Dostoyevsky examines what goodness looks like when it’s caught between desire and society’s pressure to conform. <i>The Idiot</i> reveals how easily innocence is mistaken for weakness and how steep the cost can be for those who keep believing in love.
+
+[View on Apple](https://books.apple.com/gb/book/the-idiot/id395539815)
+
+<a id="sense-and-sensibility"></a>
+## Sense and Sensibility
+
+![Sense and Sensibility](../../logos/481665171-7fb2e2cd.png)
+
+An Apple Books Classic edition.<br />
+Jane Austen’s first published novel is a sparkling, heartfelt tale of family, friendship, and changes of the heart.&#xa0;<br />
+Elinor Dashwood is the voice of reason. Her sister, Marianne, is impulsive and emotionally reactive. When their family loses its fortune, they have to trade a grand estate for a quiet cottage and step into an unpredictable new world of love, gossip, and heartbreak.<br />
+One guards her heart, the other dives in feelings-first. As secrets surface and affections are tested, both discover that reason <i>and</i> passion together might be the perfect combination. Sharp, funny, and romantic, <i>Sense and Sensibility</i> captures Austen’s keen eye for love in all its messy forms.
+
+[View on Apple](https://books.apple.com/gb/book/sense-and-sensibility/id481665171)
+
+<a id="crime-and-punishment"></a>
+## Crime and Punishment
+
+![Crime and Punishment](../../logos/6763984106-ac69dc75.png)
+
+An Apple Books Classic edition.<br /><br />Fyodor Dostoevsky’s intense novel uses the trappings of a taut thriller to excavate some of the darkest moral questions of the human experience. <br /><br />Impoverished ex–law student Rodion Raskolnikov is at odds with himself. He’s wildly intelligent but can’t seem to outwit his own desperate circumstances. That is, until he decides to rob and murder an underhanded pawnbroker. After all, he thinks, by ridding the world of her cruelty, he’s committed a benevolent act.<br /><br />But even as Raskolnikov is justifying himself in the grandest terms, the true moral weight of his actions is already stalking him through the shadowy streets of Saint Petersburg—and his own tortured subconscious. Grimy and enthralling, <i>Crime and Punishment</i> pits reason against principle, rationality against heart.
+
+[View on Apple](https://books.apple.com/gb/book/crime-and-punishment/id6763984106)
+
+<a id="hard-stick"></a>
+## Hard Stick
+
+![Hard Stick](../../logos/6450555726-3ed11cf1.png)
+
+He carries a big stick. And he’s not afraid to use it.<br /><br />On the ice, I’m Kellan Carter, powerhouse enforcer for the Charlotte Strikers. Off the ice, I’m just a regular guy. The last thing I want is to get mobbed by a bunch of groupies who are only after me for my fame and money. My ideal woman knows how to enjoy a little good, clean fun—and maybe some not-so-clean fun too. That’s the kind of girl I’d never let go.<br /><br />When Kristen Robinson, the gorgeous, down-to-earth bartender I’ve been crushing on, agrees to let me take her out, I’m thrilled. We have an amazing night together, culminating in the most electrifying kiss of my life—and that’s it. Kristen tells me we can’t see each other again, but I know that kiss meant as much to her as it did to me. What I don’t know is that Kristen has a dangerous secret. . . .<br /><br />I’ve proved to Kristen that she can trust me with her body and her heart. But when her past comes back to haunt her, I need to prove that she can trust me with her life. And I might have to get my hands dirty after all.
+
+[View on Apple](https://books.apple.com/gb/book/hard-stick/id6450555726)
+
 <a id="how-to-choose-a-guy-in-10-days"></a>
 ## How to Choose a Guy in 10 Days
 
@@ -1195,15 +1204,6 @@ The Chick Flick Club series:<br />
 
 [View on Apple](https://books.apple.com/gb/book/how-to-choose-a-guy-in-10-days/id1341543775)
 
-<a id="broken-angel"></a>
-## Broken Angel
-
-![Broken Angel](../../logos/6738701788-9f203136.png)
-
-<i><b>He's gone without a trace, but I know his heart is still beating.</b></i><br /><br /><b>RUSLAN</b><br /><br />The men who shackled me here were told not to kill me. They should have when they had the chance. Now, I'm going to take them out one by one.<br /><br />Once I figure out who's behind this, I won't hold back my anger. Revenge is a dish best served cold, and I'll make sure to hit them where it hurts the most.<br /><br />But as soon as I'm free, I'm going to find her first.<br /><br />The thief who may not be a thief… unless it's matters of the heart. She clenches mine in her fist, and I don't want her to let go.<br /><br /><b>AMELIA</b><br /><br />The handsome Russian man I had a one-night stand with is gone. All I'm left with is the sickening realization he helped me make – that my ex-boyfriend stole my identity, and I've been paying off his debt.<br /><br />Ruslan could have helped me out of this mess, but now that he's disappeared, I have no one on my side. I have to find him.<br /><br />Not just because I owe him… because I can't be without him.<br /><br /><i><b>Broken Angel</b></i><b> is book one of </b><i><b>The Umarova Crime Family </b></i><b>dark mafia series of interconnected standalone, full-length novels. Devour this decadent mafia story next!</b><br /><br />Step into the world of Ivy Black, where steamy dark romance meets danger and desire. From ruthless mafia kings to brooding motorcycle club bad boys, each story delivers intense passion, forbidden love, and possessive alphas who always claim what's theirs. Perfect for fans of spicy romance, dark desires, and unforgettable happily ever afters.<br />&#xa0;
-
-[View on Apple](https://books.apple.com/gb/book/broken-angel/id6738701788)
-
 <a id="the-wonderful-wizard-of-oz"></a>
 ## The Wonderful Wizard of Oz
 
@@ -1212,6 +1212,15 @@ The Chick Flick Club series:<br />
 An Apple Books Classic edition.<br /><br />Adventure takes a more mythic turn in <i>Rinkitink in Oz</i>, a thrilling fairy-tale quest filled with L. Frank Baum’s trademark whimsy and color. Prince Inga’s father protects their peaceful island kingdom of Pingaree with his three magic pearls. But when the island is invaded and conquered, Inga must flee with the cheerfully bumbling royal visitor King Rinkitink and use the magic pearls himself to save his parents and his home.<br /><br />As the pair faces dangers and meets new allies—including some familiar characters for Oz fans—Inga must learn not only to use his new powers, but also his head when he loses those powers. <i>Rinkitink in Oz</i> steps beyond the Emerald City for a seafaring adventure that’s equal parts wit and wonder.
 
 [View on Apple](https://books.apple.com/gb/book/the-wonderful-wizard-of-oz/id395544690)
+
+<a id="the-wind-in-the-willows"></a>
+## The Wind in the Willows
+
+![The Wind in the Willows](../../logos/510922680-ce5cdbd8.png)
+
+An Apple Books Classics edition.<br /><br />Visit the Wild Wood along the pastoral banks of the Thames, where quiet Mole and fun-loving Water Rat seek out their friends Badger and Toad for adventures. When Toad’s reckless driving gets him into big trouble, he must rely on his friends to help him out—and as the season turns, the friends must band together against a crew of ferocious stoats, ferrets, and weasels who are threatening to steal Toad Hall.<br /><br />See why Kenneth Grahame’s charming tale of friendship and home has captured the hearts of children—and adults—everywhere since its publication in 1908.
+
+[View on Apple](https://books.apple.com/gb/book/the-wind-in-the-willows/id510922680)
 
 <a id="the-iliad-of-homer"></a>
 ## The Iliad of Homer
@@ -1223,14 +1232,41 @@ Although the story covers only a few weeks in the final year of the war, the Ili
 
 [View on Apple](https://books.apple.com/gb/book/the-iliad-of-homer/id765086010)
 
-<a id="moonlight-murder-mystery-club-a-bitter-taste-book-1-of-5"></a>
-## Moonlight Murder Mystery Club: A Bitter Taste Book 1 of 5
+<a id="missed-me"></a>
+## Missed Me
 
-![Moonlight Murder Mystery Club: A Bitter Taste Book 1 of 5](../../logos/6781108655-b7e1623a.png)
+![Missed Me](../../logos/6445648677-dff17bfe.png)
 
-<i>Some mornings start with coffee. Sage Holloway's started with a corpse.</i><br /><br /><i>When Crescent Harbor's most hated developer drops dead, police zero in on the obvious suspect — Sage's employee, a single mom whose public threat against him now looks an awful lot like motive. But Sage knows her. And Sage knows better.</i><br /><br /><i>Armed with a baker's instincts, a suspicious coffee cup with very strange sediment, and Shadow — her unnervingly perceptive black cat with ancient golden eyes — Sage starts asking questions that powerful people would rather she didn't.</i><br /><br /><i>In Crescent Harbor, the scones are fresh, the secrets run deep, and some things were buried for a very good reason.</i><br /><br /><i>She just wanted to bake. Now she has to find a killer before someone decides she knows too much.</i><br /><br /><i>Book 1 of 5 — The complete Moonlight Murder Mystery Club series is available now.</i>
+"A real gem... a page-turner!" — St. Albert Gazette ⭐ ⭐ ⭐ ⭐ ⭐
+"Action-packed drama, mystery, and suspense that keeps you intrigued till the very end!" — Goodreads ⭐ ⭐ ⭐ ⭐ ⭐<br />
 
-[View on Apple](https://books.apple.com/gb/book/moonlight-murder-mystery-club-a-bitter-taste-book-1-of-5/id6781108655)
+—
+
+<br />Big-hearted Mabel Davison runs a busy highway motel and diner owner serving coffee and pie in the small mountain town of Blue River. Hands full as a single parent to two rambunctious boys and her orphaned niece, she isn't looking for more investigating to do.<br /><br />But a call from a lawyer friend shatters the calm. <br /><br />A distraught single mother is going to jail for assaulting police officers who don't believe that a sinister man had abducted her drug-addicted daughter.<br /><br />As Mabel takes on the case, she lands in the crosshairs of the local drug lord, Karl Larson. Sheriff Dan Gibson warns her that with the Drug Enforcement Agency on the prowl, Larson can't afford anyone poking around. And with the town on Larson's payroll, the fragile truce built by turning a blind eye will descend into terrible violence.<br /><br />As pressure mounts to force Mabel off the case, her investigation quickly falters, and then her worst nightmares come true — her niece goes missing too<br /> 
+
+—
+
+<br />Set in an atmospheric Pacific Northwest town in the 1980s, the second standalone installment of the captivating Mabel Davison historical mystery series is "just as enjoyable and unputdownable as the first."<br /><br />Everyone's favorite big-hearted, amateur sleuth is back.
+
+[View on Apple](https://books.apple.com/gb/book/missed-me/id6445648677)
+
+<a id="the-strange-case-of-dr-jekyll-and-mr-hyde"></a>
+## The Strange Case of Dr. Jekyll and Mr. Hyde
+
+![The Strange Case of Dr. Jekyll and Mr. Hyde](../../logos/395542998-802edd4a.png)
+
+An Apple Books Classic edition.<br /><br />What would happen if you let your darkness out? Are you certain you’d be able to rein it back in? When Dr. Jekyll turned toward the dark side, he was convinced he could turn back at will, while his friends assumed he’d fallen under the influence of the criminal Mr. Hyde. But the good doctor—and all his acquaintances—were very, very wrong. Can Dr. Jekyll escape the clutches of Mr. Hyde before it’s too late?<br /><br />Set in the London society of the 1880s, Robert Louis Stevenson’s classic novella is a masterful tale of suspense and psychological intrigue. The story plays to primal fears like losing control of ourselves and discovering that a person we trusted is actually someone—or something—else entirely: a monster. <i>The Strange Case of Dr. Jekyll and Mr. Hyde</i> is a must-read for anyone who loves mysteries and crime fiction.
+
+[View on Apple](https://books.apple.com/gb/book/the-strange-case-of-dr-jekyll-and-mr-hyde/id395542998)
+
+<a id="emma"></a>
+## Emma
+
+![Emma](../../logos/395536171-ee59cc34.png)
+
+An Apple Books Classic edition.<br /><br />Emma Woodhouse may just be Jane Austen’s most controversial character. Some see her as a spoiled narcissist who’s deluded about reality, while others view her as a well-intentioned and bitingly sarcastic young woman who matures before our eyes.<br /><br />This well-loved novel-which is often adapted for the screen-is set in the early 19th century, among England’s landed gentry. After seeing her governess happily married, Emma decides she is a natural matchmaker and devises a plan to find her new friend Harriet a mate. What follows has all the makings of a contemporary soap opera. As usual, Austen portrays her contemporaries with a brilliant and subtle snark. <i>Emma</i> is a wonderfully entertaining read.
+
+[View on Apple](https://books.apple.com/gb/book/emma/id395536171)
 
 <a id="the-maltese-falcon"></a>
 ## The Maltese Falcon
@@ -1240,6 +1276,44 @@ Although the story covers only a few weeks in the final year of the war, the Ili
 An Apple Books Classic edition.<br /><br />Dashiell Hammett’s landmark detective novel introduced Sam Spade, a private eye who operates by his own slippery moral code in a world where everyone lies and almost no one gets out unscathed.<br /><br />When a beautiful woman walks into Spade’s San Francisco office with a story that’s obviously fake, he takes the case anyway. Within hours, his partner is dead and Spade himself is a suspect. The hunt for a jewel-encrusted statue called the Maltese Falcon pulls him into a tangle of thieves, killers, and con artists, all willing to betray each other for a shot at the prize.<br /><br />Spade plays every angle, trusting no one—not the cops, not his clients, and especially not the woman whose lies started it all. With a lean, brutal narrative that’s impossible to put down, <i>The Maltese Falcon</i> invented the hard-boiled detective and remains the template for every morally ambiguous hero that’s followed.
 
 [View on Apple](https://books.apple.com/gb/book/the-maltese-falcon/id396136148)
+
+<a id="all-because-of-you"></a>
+## All Because of You
+
+![All Because of You](../../logos/1502418197-de26d337.png)
+
+Sometimes you have to lose everything to find your happy ending.<br /><br />Olivia Green has the picture-perfect life. Dating one of the most successful businessmen in New York City, living in a penthouse over Manhattan and a budding career, until one dreadful night when she discovers her future fiancé is a two-timing jerk. Left with nothing, she leaves the city to move back with her parents in the small town of Morgan's Bay.<br /><br />After his mother dropped a family bombshell on her deathbed, Shane McConnell boards a train to meet a family he didn't know he had. What he doesn't expect are the secrets and lies dating back to long before his father's death. Nor can he predict the beautiful hot mess he meets on the train will find a way into his closed off heart.<br /><br />Both struggling with the realities of their new lives, they unintentionally lean on each other. As their attraction builds and their undeniable chemistry explodes into passion, Shane holds onto his own secret that threatens his chance at love.<br /><br />All Because of You is the start of a new steamy small-town series set in Morgan's Bay, a seaside escape on Long Island, New York, where an unexpected meeting on a train turns into a summer romance that can lead to forever.
+
+[View on Apple](https://books.apple.com/gb/book/all-because-of-you/id1502418197)
+
+<a id="notes-from-the-underground"></a>
+## Notes from the Underground
+
+![Notes from the Underground](../../logos/499195163-63032101.png)
+
+An Apple Books Classic edition.<br /><br />Widely considered the first modern psychological novel, <i>Notes from the Underground</i> introduces one of literature’s most unforgettable narrators: a lonely, self-destructive civil servant determined to justify his refusal to fit into society. Smart, embittered, and painfully self-aware, he lashes out at the world even as he longs for the connection he insists he doesn’t need.<br /><br />Fyodor Dostoyevsky crafts a fearless portrait of a mind at war with itself, in language that’s darkly funny and disarmingly vulnerable. As the underground man’s arguments twist themselves into knots, the story becomes a sharp examination of the parts of ourselves we try hardest to hide. Unsettling in its emotional honesty, <i>Notes from the Underground</i> remains a groundbreaking exploration of the contradictions that shape the human soul.
+
+[View on Apple](https://books.apple.com/gb/book/notes-from-the-underground/id499195163)
+
+<a id="persuasion"></a>
+## Persuasion
+
+![Persuasion](../../logos/395533890-19ba9cd3.png)
+
+An Apple Books Classic edition.<br />
+Jane Austen’s last completed novel is a mature, gorgeously bittersweet story about love, regret, and second chances. It’s been seven years since Anne’s family induced her to break off her engagement to Wentworth, a sea captain of little means. But losing him only made her realize how precious their love had been, leaving her with a sorrow that never quite faded.<br /><br />
+When their paths cross again, his presence cuts through the grayness of Anne’s world like sudden sunlight. But could he ever rekindle his feelings for her after such heartbreak? Nuanced in its humor and deeply yearning in its emotion, <i>Persuasion</i> shows Austen at her most ruminative and insightful.
+
+[View on Apple](https://books.apple.com/gb/book/persuasion/id395533890)
+
+<a id="moby-dick"></a>
+## Moby Dick
+
+![Moby Dick](../../logos/395539950-326fc09b.png)
+
+An Apple Books Classic edition.<br /><br />Herman Melville’s classic begins with one of the most famous opening lines in world literature: “Call me Ishmael.” <i>Moby Dick</i> was a commercial failure when it was first published in 1851, but during the 20th century, the book’s reputation grew and grew.<br /><br />The novel features a memorable cast of characters, in particular the ivory-legged Captain Ahab, who lost a limb to the gargantuan white whale named Moby Dick. Now, Ahab’s sole obsession is hunting down the sea creature to exact his revenge. Heedless of warnings, Ahab risks ship and crew in his maniacal pursuit, bearing out Melville’s observation that  ”there is no folly of the beast of the earth which is not infinitely outdone by the madness of men.”
+
+[View on Apple](https://books.apple.com/gb/book/moby-dick/id395539950)
 
 <a id="peter-pan"></a>
 ## Peter Pan
@@ -1261,147 +1335,6 @@ When thirty-year-old Cordelia Corbett returns to Point Pleasant Beach, New Jerse
 
 [View on Apple](https://books.apple.com/gb/book/under-the-influence/id6736992666)
 
-<a id="hard-stick"></a>
-## Hard Stick
-
-![Hard Stick](../../logos/6450555726-3ed11cf1.png)
-
-He carries a big stick. And he’s not afraid to use it.<br /><br />On the ice, I’m Kellan Carter, powerhouse enforcer for the Charlotte Strikers. Off the ice, I’m just a regular guy. The last thing I want is to get mobbed by a bunch of groupies who are only after me for my fame and money. My ideal woman knows how to enjoy a little good, clean fun—and maybe some not-so-clean fun too. That’s the kind of girl I’d never let go.<br /><br />When Kristen Robinson, the gorgeous, down-to-earth bartender I’ve been crushing on, agrees to let me take her out, I’m thrilled. We have an amazing night together, culminating in the most electrifying kiss of my life—and that’s it. Kristen tells me we can’t see each other again, but I know that kiss meant as much to her as it did to me. What I don’t know is that Kristen has a dangerous secret. . . .<br /><br />I’ve proved to Kristen that she can trust me with her body and her heart. But when her past comes back to haunt her, I need to prove that she can trust me with her life. And I might have to get my hands dirty after all.
-
-[View on Apple](https://books.apple.com/gb/book/hard-stick/id6450555726)
-
-<a id="notes-from-the-underground"></a>
-## Notes from the Underground
-
-![Notes from the Underground](../../logos/499195163-63032101.png)
-
-An Apple Books Classic edition.<br /><br />Widely considered the first modern psychological novel, <i>Notes from the Underground</i> introduces one of literature’s most unforgettable narrators: a lonely, self-destructive civil servant determined to justify his refusal to fit into society. Smart, embittered, and painfully self-aware, he lashes out at the world even as he longs for the connection he insists he doesn’t need.<br /><br />Fyodor Dostoyevsky crafts a fearless portrait of a mind at war with itself, in language that’s darkly funny and disarmingly vulnerable. As the underground man’s arguments twist themselves into knots, the story becomes a sharp examination of the parts of ourselves we try hardest to hide. Unsettling in its emotional honesty, <i>Notes from the Underground</i> remains a groundbreaking exploration of the contradictions that shape the human soul.
-
-[View on Apple](https://books.apple.com/gb/book/notes-from-the-underground/id499195163)
-
-<a id="take-her-under"></a>
-## Take Her Under
-
-![Take Her Under](../../logos/6759976051-6e67ef85.png)
-
-<i><b>A chilling page-turning psychological thriller with an unpredictable last-chapter twist, perfect for fans of Freida McFadden, Alice Feeney, and John Marrs.</b></i><br /><b></b><br /><br /><b>The next body on the embalming table may be hers.</b><br /><br />Preparing bodies for burial wasn't on Ashley's career list until a horrifying accident left her to inherit Fallon's Funeral Home. She spends her days applying final touches and ensuring the departed look more peaceful than they ever did in life.<br /><br />When a crash echoes from the embalming room late one night, she expects to find a fallen tray or her clumsy assistant. Instead, she unveils a body laid out on the stainless-steel table, posed with unsettling care. The woman has Ashley's face. Ashley's hair. Ashley's scar just beneath her chin. She's even dressed in Ashley's clothes. Clutched in the corpse's pale fingers is a single note:<br /><i><b></b></i><br /><br /><i><b>Murderer</b></i><br /><br />Someone knows what Ashley covered up. As strange threats arrive and familiar faces turn watchful, she realizes the funerals she controls so expertly have become her own fate. She must uncover who is exhuming her past before she becomes the final viewing.<br /><b></b><br /><br /><b>As the town undertaker, she buries secrets with the dead. But someone is digging up hers, and they plan to&#xa0;<i>Take Her Under</i>.</b>
-
-[View on Apple](https://books.apple.com/gb/book/take-her-under/id6759976051)
-
-<a id="crime-and-punishment"></a>
-## Crime and Punishment
-
-![Crime and Punishment](../../logos/764603953-7f3e2d4c.png)
-
-Crime and Punishment is a novel by the Russian author Fyodor Dostoyevsky. It was first published in the literary journal The Russian Messenger in twelve monthly installments during 1866. It was later published in a single volume. It is the second of Dostoyevsky's full-length novels following his return from ten years of exile in Siberia. Crime and Punishment is the first great novel of his "mature" period of writing.<br />
-Crime and Punishment focuses on the mental anguish and moral dilemmas of Rodion Raskolnikov, an impoverished ex-student in St. Petersburg who formulates and executes a plan to kill an unscrupulous pawnbroker for her cash. Raskolnikov argues that with the pawnbroker's money he can perform good deeds to counterbalance the crime, while ridding the world of a worthless vermin. He also commits this murder to test his own hypothesis that some people are naturally capable of such things, and even have the right to do them. Several times throughout the novel, Raskolnikov justifies his actions by connecting himself mentally with Napoleon Bonaparte, believing that murder is permissible in pursuit of a higher purpose.
-
-[View on Apple](https://books.apple.com/gb/book/crime-and-punishment/id764603953)
-
-<a id="persuasion"></a>
-## Persuasion
-
-![Persuasion](../../logos/395533890-19ba9cd3.png)
-
-An Apple Books Classic edition.<br />
-Jane Austen’s last completed novel is a mature, gorgeously bittersweet story about love, regret, and second chances. It’s been seven years since Anne’s family induced her to break off her engagement to Wentworth, a sea captain of little means. But losing him only made her realize how precious their love had been, leaving her with a sorrow that never quite faded.<br /><br />
-When their paths cross again, his presence cuts through the grayness of Anne’s world like sudden sunlight. But could he ever rekindle his feelings for her after such heartbreak? Nuanced in its humor and deeply yearning in its emotion, <i>Persuasion</i> shows Austen at her most ruminative and insightful.
-
-[View on Apple](https://books.apple.com/gb/book/persuasion/id395533890)
-
-<a id="macbeth"></a>
-## Macbeth
-
-![Macbeth](../../logos/916361213-fb9072e6.png)
-
-An Apple Books Classic edition.<br /><br /><i>Macbeth</i> is one of Shakespeare’s darkest and most tragic works, a drama so steeped in legend that actors won’t even say its name for fear of bringing bad luck. The Bard’s shortest tragedy is a tale of murder, madness, and ambition full of iconic speeches. It’s been adapted countless times during its 400 years—and now director Joel Coen has created a bold and fierce Apple Original starring Denzel Washington and Frances McDormand.<br /><br />The action begins when three witches predict the noble Macbeth will become king of Scotland. The story goes on to follow his bloody rise to power and his descent into madness. Touching on themes like unchecked ambition, the power of guilt, and the psychology of perception, this is one of the most riveting, action-packed literary classics in the world.
-
-[View on Apple](https://books.apple.com/gb/book/macbeth/id916361213)
-
-<a id="romeo-and-juliet"></a>
-## Romeo and Juliet
-
-![Romeo and Juliet](../../logos/916363784-ab8170a8.png)
-
-An Apple Books Classic edition.<br /><br />Shakespeare’s romantic tragedy has inspired musicals, ballets, operas, and, of course, countless movies, including Italian director Franco Zeffirelli’s 1968 classic and Australian director Baz Luhrmann’s stylish remake starring Leonardo DiCaprio and Claire Danes. The Bard’s play is so fundamental to our culture-and to the popular trope of star-crossed lovers-that we all feel like we <i>know</i> the story of Romeo and Juliet’s doomed love affair.<br /><br />And yet, have you ever read the original? And if yes, perchance was it a long, long time ago? The beautiful lyricism of Shakespeare’s storytelling makes poring over his words such a complex treat:<br />
-What light in yonder window breaks?<br />
-Parting is such sweet sorrow.<br />
-O Romeo, Romeo, wherefore art thou Romeo?<br />
-These are just a few of the play’s immortal lines. And it’s this masterful storytelling that makes the doomed lovers’ untimely deaths that much more poignant.
-
-[View on Apple](https://books.apple.com/gb/book/romeo-and-juliet/id916363784)
-
-<a id="winnie-the-pooh"></a>
-## Winnie-the-Pooh
-
-![Winnie-the-Pooh](../../logos/6466734677-80bcac8a.png)
-
-Alan Alexander Milne was an English writer best known for his books about the teddy bear Winnie-the-Pooh, as well as for children's poetry. Milne was primarily a playwright before the huge success of Winnie-the-Pooh overshadowed all his previous work.
-
-[View on Apple](https://books.apple.com/gb/book/winnie-the-pooh/id6466734677)
-
-<a id="moby-dick"></a>
-## Moby Dick
-
-![Moby Dick](../../logos/395539950-326fc09b.png)
-
-An Apple Books Classic edition.<br /><br />Herman Melville’s classic begins with one of the most famous opening lines in world literature: “Call me Ishmael.” <i>Moby Dick</i> was a commercial failure when it was first published in 1851, but during the 20th century, the book’s reputation grew and grew.<br /><br />The novel features a memorable cast of characters, in particular the ivory-legged Captain Ahab, who lost a limb to the gargantuan white whale named Moby Dick. Now, Ahab’s sole obsession is hunting down the sea creature to exact his revenge. Heedless of warnings, Ahab risks ship and crew in his maniacal pursuit, bearing out Melville’s observation that  ”there is no folly of the beast of the earth which is not infinitely outdone by the madness of men.”
-
-[View on Apple](https://books.apple.com/gb/book/moby-dick/id395539950)
-
-<a id="meditations-modern-english-edition"></a>
-## Meditations: Modern English Edition
-
-![Meditations: Modern English Edition](../../logos/6584519723-3dbefd8f.png)
-
-This edition has been rewritten to be easier to read than the original translation. You will enjoy this version if you tried to read the original and found it too much like reading a King James Bible. Great effort was put into making this version pleasing to read while maintaining the essence of the original.
-
-Discover Timeless Wisdom with Marcus Aurelius' "Meditations"
-Unlock the profound insights of one of history's greatest philosophers with Marcus Aurelius' Meditations. Written by the Roman Emperor during the height of his reign, this remarkable book offers a unique window into the mind of a leader grappling with the complexities of life, duty, and personal growth.
-Meditations is not just a philosophical treatise; it's a deeply personal journal where Aurelius reflects on his principles, struggles, and aspirations. His thoughts on resilience, mindfulness, and the pursuit of virtue resonate as powerfully today as they did nearly two millennia ago.
-Whether you seek guidance on how to navigate challenges with grace, cultivate inner peace, or lead with integrity, Meditations provides timeless advice that transcends cultural and historical boundaries. It’s a must-read for anyone striving to live a more thoughtful and meaningful life.
-Join the ranks of millions who have found inspiration in Aurelius' wisdom. Let his reflections guide you towards a life of greater purpose and tranquility. Invest in Meditations today and embark on a journey of self-discovery and personal excellence. Experience the enduring legacy of Marcus Aurelius, and let his wisdom transform your perspective.
-
-[View on Apple](https://books.apple.com/gb/book/meditations-modern-english-edition/id6584519723)
-
-<a id="the-great-gatsby"></a>
-## The Great Gatsby
-
-![The Great Gatsby](../../logos/914355894-0b2bacbe.png)
-
-An Apple Books Classics edition.<br /><br />
-The Roaring Twenties are in full effect in F. Scott Fitzgerald’s riveting classic. Man-about-town Jay Gatsby seems to have it all, including loads of money and a massive mansion where he hosts wild, extravagant parties every Saturday. But Gatsby’s missing one thing: Daisy Buchanan, the love of his life, the one who got away.<br /><br />
-<i>The Great Gatsby</i> explores the impossible, but uniquely human, longing to return to the past and the costs associated with chasing the American Dream. It’s a beautifully written, entertaining read with timeless emotional appeal.
-
-[View on Apple](https://books.apple.com/gb/book/the-great-gatsby/id914355894)
-
-<a id="all-because-of-you"></a>
-## All Because of You
-
-![All Because of You](../../logos/1502418197-de26d337.png)
-
-Sometimes you have to lose everything to find your happy ending.<br /><br />Olivia Green has the picture-perfect life. Dating one of the most successful businessmen in New York City, living in a penthouse over Manhattan and a budding career, until one dreadful night when she discovers her future fiancé is a two-timing jerk. Left with nothing, she leaves the city to move back with her parents in the small town of Morgan's Bay.<br /><br />After his mother dropped a family bombshell on her deathbed, Shane McConnell boards a train to meet a family he didn't know he had. What he doesn't expect are the secrets and lies dating back to long before his father's death. Nor can he predict the beautiful hot mess he meets on the train will find a way into his closed off heart.<br /><br />Both struggling with the realities of their new lives, they unintentionally lean on each other. As their attraction builds and their undeniable chemistry explodes into passion, Shane holds onto his own secret that threatens his chance at love.<br /><br />All Because of You is the start of a new steamy small-town series set in Morgan's Bay, a seaside escape on Long Island, New York, where an unexpected meeting on a train turns into a summer romance that can lead to forever.
-
-[View on Apple](https://books.apple.com/gb/book/all-because-of-you/id1502418197)
-
-<a id="highlander-undone"></a>
-## Highlander Undone
-
-![Highlander Undone](../../logos/6747458734-f83a0103.png)
-
-<i><b>Can be read as a stand-alone novella or in series order.</b></i><br /><br />When <b>Connor MacNeil</b> storms into his keep ranting about being forced to marry <i>"some crippled, cursed old hag,"</i> he has no idea his bride-to-be is listening in the next room.<br /><br />Oops.<br /><br /><b>Fiona Finnigan</b> may walk with a slight limp, but there's nothing wrong with her hearing, or her temper. This arranged marriage between feuding clans was supposed to make peace, but now it might just start another war.<br /><br />And somewhere in the Highland mist, the person who tried to unalive Fiona with an arrow ten years ago is still out there, watching and waiting.<br /><br />Between dealing with a stage-five-clinger ex-lover, navigating clan politics, and trying not to strangle each other, can two stubborn souls find love in the Scottish Highlands?<br /><br />Or will Connor's big mouth doom them both before they make it to the altar?<br /><br /><b>Tropes: </b>Arranged Marriage, Enemies to Lovers, Forced Proximity, Other Woman Drama, Brooding/Grumpy Hero, Feisty Heroine, Alpha Male/Protective Hero, Wounded Heroine, Ghosts from the past.<br /><br /><b>Mature Content. NO cheating. NO cliffhangers. HEA.</b>
-
-[View on Apple](https://books.apple.com/gb/book/highlander-undone/id6747458734)
-
-<a id="every-time-i-go-on-vacation-someone-dies"></a>
-## Every Time I Go on Vacation, Someone Dies
-
-![Every Time I Go on Vacation, Someone Dies](../../logos/6472714520-365e4c04.png)
-
-<b>Ten days. Eight suspects. Six cities. Five authors. Three bodies. One trip to die for.</b><br /><br />Eleanor Dash, bestselling author of the Vacation Mysteries series, is on a book tour along the gorgeous Amalfi Coast when life starts imitating art as her ex-boyfriend Connor Smith is targeted by a killer.<br /><br />Eleanor’s sleuthing skills are about to be put to the ultimate test as – among literary rivals, rabid fans, a crazed stalker and another ex-flame on tour with her – suspicions are flying faster than paperbacks off a bestseller shelf. But who is<i> really</i> trying to get away with murder?<br /><br /><b><i>Every Time I Go on Vacation, Someone Dies</i> is a whip-smart, utterly escapist mystery for fans of <i>The White Lotus</i>. </b><b>Eleanor Dash returns in the next book in the Vacation Mysteries series from Catherine Mack, <i>No One Was Supposed to Die at this Wedding.</i></b><br /><br /><b><i>PRAISE FOR CATHERINE MACK:</i><br /><br />'An absolute delight!</b><b>' </b>– Janice Hallett, <i>Sunday Times </i>bestselling author of <i>The Appeal</i><br /><br /><b>'A zany, madcap murder mystery' </b>– Nita Prose, <i>Sunday Times </i>bestselling author of <i>The Maid</i><br /><br /><b>'This book is fabulous! A hilarious and fun romp' </b>– Liv Constantine, author of <i>The Last Mrs. Parrish</i><br /><br /><b>'Quick, captivating and oh so much fun!' </b>– Elle Cosimano, author of <i>Finlay Donovan is Killing It</i><br /><br /><b>'A madcap Italian odyssey' </b>– Jessa Maxwell, author of <i>The Golden Spoon</i><br /><br /><b>'As spellbinding as <i>Knives Out</i>'</b> – Elle Cosimano, author of <i>Finlay Donovan Is Killing It</i>
-
-[View on Apple](https://books.apple.com/gb/book/every-time-i-go-on-vacation-someone-dies/id6472714520)
-
 <a id="the-jungle-book"></a>
 ## The Jungle Book
 
@@ -1410,15 +1343,6 @@ Sometimes you have to lose everything to find your happy ending.<br /><br />Oliv
 An Apple Books Classic edition.<br /><br />Although most of <i>The Jungle Book</i> is set in India - where Rudyard Kipling spent much of his early life - he actually wrote this beloved story collection in Vermont. The most famous of the book’s seven stories feature Mowgli, a boy raised by a wolf pack and mentored by head wolf Akela, who teaches his human charge to survive and even thrive in the jungle. But when Mowgli eventually finds himself in human company again, he’s treated as an outsider and feared for his differences. Eventually, Mowgli uses his experiences to try and help the villagers and the animals co-exist in peace.<br /><br />Many people got to know <i>The Jungle Book</i> through the Disney adaptation - and the story’s messages continue to be relevant today. More than just an all-ages adventure tale filled with talking animals, Kipling’s classic is a metaphor for acceptance and a touching exploration of themes of revenge, loyalty, and family.
 
 [View on Apple](https://books.apple.com/gb/book/the-jungle-book/id395539415)
-
-<a id="anna-karenina"></a>
-## Anna Karenina
-
-![Anna Karenina](../../logos/395534656-7786d474.png)
-
-An Apple Books Classic edition.<br /><br />"Happy families are all alike; every unhappy family is unhappy in its own way." Thus begins what many consider the world’s greatest novel. Leo Tolstoy originally published this sweeping saga in serial form beginning in 1875, portraying a vast swath of Russian life, from the fields worked by starving peasant farmers to the sitting rooms (and bedrooms) of privileged aristocrats.<br /><br />Despite its epic nature, <i>Anna Karenina</i> is an intricate, intimate study of one woman’s downward spiral into tragedy. As Anna’s husband becomes increasingly absorbed in philosophical and political introspection, Tolstoy’s heroine grows weary of her life as a mother and wealthy man’s wife. Increasingly unsettled by the stark class differences she observes, Anna finds passion again in a forbidden affair with Count Vronsky. But can she overcome her obsessive concern with societal norms to find a measure of happiness?<br /><br />Passion. Betrayal. Love. Revenge. Tolstoy’s classic has it all.
-
-[View on Apple](https://books.apple.com/gb/book/anna-karenina/id395534656)
 
 <a id="the-little-french-guesthouse"></a>
 ## The Little French Guesthouse
@@ -1461,20 +1385,106 @@ Fans of Jenny Colgan, Lucy Diamond and Nick Alexander will want to join Emmy for
 
 [View on Apple](https://books.apple.com/gb/book/the-little-french-guesthouse/id1095841746)
 
-<a id="through-the-looking-glass"></a>
-## Through the Looking-Glass
+<a id="the-darkest-knight"></a>
+## The Darkest Knight
 
-![Through the Looking-Glass](../../logos/392612116-5b99e2ee.png)
+![The Darkest Knight](../../logos/6740822392-cd24c4c9.png)
 
-An Apple Books Classics edition.<br /><br />Travel back to Wonderland in Lewis’s acclaimed sequel to <i>Alice’s Adventures in Wonderland</i>. When Alice’s game of “Let’s pretend” turns real, she finds herself stepping through a looking glass into a mirror image of her home—except here, nothing is as it seems, and her fireplace is filled with living chess pieces. Overjoyed to be back, Alice rushes outside and finds her garden alive with talking flowers. And that’s just the beginning. Readers are introduced to Tweedledee and Tweedledum and Humpty Dumpty, who is an actual egg. The poems “Jabberwocky” and “The Carpenter and the Walrus” appear for the first time in print. While scholars poured over their meaning, readers continue to soak up Lewis’s nonsensical humor and satirical style.<br /><br />When Alice joins the living chess game, she must strategize if she wants to become a Queen. But in a land where time moves backwards, and dreams blend disconcertingly with reality…is that even possible? Find out in <i>Through the Looking Glass</i>, the sequel that has left an even more indelible mark on pop culture than its predecessor.
+<b>She's been secretly in love with him for years...</b><br /><br />A hapless personal assistant needs to preserve her sanity, and she can't do that while working for her ruthless billionaire boss.<br /><br />Jaw-droppingly handsome, Jett Knight relies on Cari for pretty much everything.<br /><br />If she's not picking up sexy lingerie and expensive designer trinkets for his girlfriends, she's making dinner reservations and travel bookings for him and his lovers.<br /><br />All while suffering in secret and watching from the sidelines.<br /><br />This single dad is older and out of her league. Worse, he doesn't even notice her. Not in the way she wishes he would.&#xa0;<br />But at least his cute four-year-old adores Cari.<br /><br />She's stuck for now. This job provides many perks, such as the health insurance her mom desperately needs.<br /><br />But what Cari desperately needs is to get Jett Knight out of her system.<br /><br /><i><b>THE DARKEST KNIGHT is the prequel to KNIGHT EMPIRE, a new steamy billionaire series featuring a family of six billionaire brothers and a cold and manipulative father at the helm of a billionaire empire.</b></i>
 
-[View on Apple](https://books.apple.com/gb/book/through-the-looking-glass/id392612116)
+[View on Apple](https://books.apple.com/gb/book/the-darkest-knight/id6740822392)
 
-<a id="alice-s-adventures-in-wonderland"></a>
-## Alice's Adventures in Wonderland
+<a id="sinful-duty-a-steamy-billionaire-romance"></a>
+## Sinful Duty: A steamy billionaire romance
 
-![Alice's Adventures in Wonderland](../../logos/510986661-eff6ef80.png)
+![Sinful Duty: A steamy billionaire romance](../../logos/1609018337-5bf32fb0.png)
 
-An Apple Books Classic edition.<br /><br />Fall down the proverbial rabbit hole with Alice, the intrepid heroine of Lewis Carroll’s classic fantasy! When Alice spies a talking rabbit, she can’t resist following him into his hole - winding up in Wonderland, a nonsensical land of magical potions and never-ending tea parties. We accompany Alice on a journey that leads her to meet a grinning and elusive Cheshire Cat, a Mad Hatter, and, of course, the cruel, maniacal Queen of Hearts.<br /><br />Is Alice and every other inhabitant of Wonderland mad? Or is it just a daydream? For over 100 years, children have come under the spell of Carroll’s topsy-turvy world, and adults have debated the meaning of the mathematician turned author’s feverish story. Visit Wonderland alongside Alice and find out why so many generations become “curiouser and curiouser” with each reading.
+<b>Will he outwit his blackmailer or prioritize his heart's desire?</b><br /><br />NYC billionaire, Daniel Dufort, is being blackmailed into marriage. He'll do whatever it takes to protect his family dynasty but not that and he's not about to be coerced into it.<br /><br />While in Hawaii on business, he meets Harper, and what starts as a sexy distraction soon ends with him questioning his priorities.<br /><br />Bestselling author Harper Kane is in Oahu where her steamy romance is being made into a movie. Nursing a broken heart, she has no interest in her own love story, especially not with the wealthy, arrogant, and—damn it—gorgeous Daniel Dufort.<br /><br />Scorching passion erupts between them, but Harper soon discovers his heartbreaking secret and how deceit truly feels.<br /><br /><i><b>Sinful Duty is the first book in the Dufort Dynasty series—a steamy contemporary romance, appealing to readers who love fated mates, billionaire romance, and sizzling hot holiday romances with a twist.</b></i><br /><br /><i><b>​​​​​​​With nine books in the series, you can read them in any order and they ALL have a happy ever after.</b></i><br /><br />"I enjoyed the heck out of this book. Love it so much. I would rate it over 10 stars if Amazon would let me!"<b> - Rose G</b><br /><br />"This is 100% my favorite book from you so far. You can write some damn good contemporary romance! So a 5-star for sure! If 6 stars were a thing I'd do that!" - <b>Taylor D</b><br /><br />"It's very steamy! I loved how Daniel bought Harper out of her shell. Super hot! Just glad my eldest wasn't reading over my shoulder. LOL." <b>- H Brown Maddox</b>
 
-[View on Apple](https://books.apple.com/gb/book/alices-adventures-in-wonderland/id510986661)
+[View on Apple](https://books.apple.com/gb/book/sinful-duty-a-steamy-billionaire-romance/id1609018337)
+
+<a id="crime-and-punishment"></a>
+## Crime and Punishment
+
+![Crime and Punishment](../../logos/764603953-7f3e2d4c.png)
+
+Crime and Punishment is a novel by the Russian author Fyodor Dostoyevsky. It was first published in the literary journal The Russian Messenger in twelve monthly installments during 1866. It was later published in a single volume. It is the second of Dostoyevsky's full-length novels following his return from ten years of exile in Siberia. Crime and Punishment is the first great novel of his "mature" period of writing.<br />
+Crime and Punishment focuses on the mental anguish and moral dilemmas of Rodion Raskolnikov, an impoverished ex-student in St. Petersburg who formulates and executes a plan to kill an unscrupulous pawnbroker for her cash. Raskolnikov argues that with the pawnbroker's money he can perform good deeds to counterbalance the crime, while ridding the world of a worthless vermin. He also commits this murder to test his own hypothesis that some people are naturally capable of such things, and even have the right to do them. Several times throughout the novel, Raskolnikov justifies his actions by connecting himself mentally with Napoleon Bonaparte, believing that murder is permissible in pursuit of a higher purpose.
+
+[View on Apple](https://books.apple.com/gb/book/crime-and-punishment/id764603953)
+
+<a id="macbeth"></a>
+## Macbeth
+
+![Macbeth](../../logos/916361213-fb9072e6.png)
+
+An Apple Books Classic edition.<br /><br /><i>Macbeth</i> is one of Shakespeare’s darkest and most tragic works, a drama so steeped in legend that actors won’t even say its name for fear of bringing bad luck. The Bard’s shortest tragedy is a tale of murder, madness, and ambition full of iconic speeches. It’s been adapted countless times during its 400 years—and now director Joel Coen has created a bold and fierce Apple Original starring Denzel Washington and Frances McDormand.<br /><br />The action begins when three witches predict the noble Macbeth will become king of Scotland. The story goes on to follow his bloody rise to power and his descent into madness. Touching on themes like unchecked ambition, the power of guilt, and the psychology of perception, this is one of the most riveting, action-packed literary classics in the world.
+
+[View on Apple](https://books.apple.com/gb/book/macbeth/id916361213)
+
+<a id="romeo-and-juliet"></a>
+## Romeo and Juliet
+
+![Romeo and Juliet](../../logos/916363784-ab8170a8.png)
+
+An Apple Books Classic edition.<br /><br />Shakespeare’s romantic tragedy has inspired musicals, ballets, operas, and, of course, countless movies, including Italian director Franco Zeffirelli’s 1968 classic and Australian director Baz Luhrmann’s stylish remake starring Leonardo DiCaprio and Claire Danes. The Bard’s play is so fundamental to our culture-and to the popular trope of star-crossed lovers-that we all feel like we <i>know</i> the story of Romeo and Juliet’s doomed love affair.<br /><br />And yet, have you ever read the original? And if yes, perchance was it a long, long time ago? The beautiful lyricism of Shakespeare’s storytelling makes poring over his words such a complex treat:<br />
+What light in yonder window breaks?<br />
+Parting is such sweet sorrow.<br />
+O Romeo, Romeo, wherefore art thou Romeo?<br />
+These are just a few of the play’s immortal lines. And it’s this masterful storytelling that makes the doomed lovers’ untimely deaths that much more poignant.
+
+[View on Apple](https://books.apple.com/gb/book/romeo-and-juliet/id916363784)
+
+<a id="sunset-cove"></a>
+## Sunset Cove
+
+![Sunset Cove](../../logos/1588667337-4c2cec86.png)
+
+<b>A secret three decades in the making...</b><br /><br />Claire Cooke lost her sisters in a plane crash thirty years ago. She adopted her three nieces and built a life as best she could, and at 52, the girls' distant uncle surprises her with a six-million-dollar inheritance. Claire decides to take a risk and buy The Grand Madrona Hotel on beautiful Orcas Island to start a new chapter in her life.<br /><br />Chip Douglas didn't put in ten years as manager of the hotel just to watch a stranger run it into the ground. So imagine his surprise when Claire turns out to be the exact opposite of what he'd expected. She's charming, wise, and beautiful – someone he could easily see himself falling in love with. If only his divorce hadn't convinced him that falling in love again was impossible...<br /><br />When the FBI comes knocking at the hotel, it's not long before Claire is forced to face her history or lose her potentially happily ever after with Chip. Will she make the right choice?<br /><br /><i>Sunset Cove</i>&#xa0;is a sweet and wholesome, romantic women's fiction story with romance, mystery, and the joy of second chances. Jump on the ferry and get ready to fall in love!
+
+[View on Apple](https://books.apple.com/gb/book/sunset-cove/id1588667337)
+
+<a id="a-christmas-carol"></a>
+## A Christmas Carol
+
+![A Christmas Carol](../../logos/510974519-7cf8544c.png)
+
+An Apple Books Classic edition.<br /><br />It’s Christmas Eve in Victorian England. While some families don’t know where their next meal will come from, Ebenezer Scrooge sits in his large home, counting his vast wealth. Like every other night, he’s alone. But when he’s visited by three spirits, Scrooge is forced to reflect on his callousness and stinginess.
+<br /><br />Dickens was passionate about affecting social issues through his stories. <i>A Christmas Carol</i> offered readers the gift of empathy toward working families, orphans, and others who encountered daily challenges. Almost 200 years and many adaptations later—including the Apple Original Film <i>Spirited</i>, a modern musical rendition starring Will Ferrell and Ryan Reynolds—this beloved tale remains a resonant celebration of generosity and community.
+
+[View on Apple](https://books.apple.com/gb/book/a-christmas-carol/id510974519)
+
+<a id="winnie-the-pooh"></a>
+## Winnie-the-Pooh
+
+![Winnie-the-Pooh](../../logos/6466734677-80bcac8a.png)
+
+Alan Alexander Milne was an English writer best known for his books about the teddy bear Winnie-the-Pooh, as well as for children's poetry. Milne was primarily a playwright before the huge success of Winnie-the-Pooh overshadowed all his previous work.
+
+[View on Apple](https://books.apple.com/gb/book/winnie-the-pooh/id6466734677)
+
+<a id="meditations-modern-english-edition"></a>
+## Meditations: Modern English Edition
+
+![Meditations: Modern English Edition](../../logos/6584519723-3dbefd8f.png)
+
+This edition has been rewritten to be easier to read than the original translation. You will enjoy this version if you tried to read the original and found it too much like reading a King James Bible. Great effort was put into making this version pleasing to read while maintaining the essence of the original.
+
+Discover Timeless Wisdom with Marcus Aurelius' "Meditations"
+Unlock the profound insights of one of history's greatest philosophers with Marcus Aurelius' Meditations. Written by the Roman Emperor during the height of his reign, this remarkable book offers a unique window into the mind of a leader grappling with the complexities of life, duty, and personal growth.
+Meditations is not just a philosophical treatise; it's a deeply personal journal where Aurelius reflects on his principles, struggles, and aspirations. His thoughts on resilience, mindfulness, and the pursuit of virtue resonate as powerfully today as they did nearly two millennia ago.
+Whether you seek guidance on how to navigate challenges with grace, cultivate inner peace, or lead with integrity, Meditations provides timeless advice that transcends cultural and historical boundaries. It’s a must-read for anyone striving to live a more thoughtful and meaningful life.
+Join the ranks of millions who have found inspiration in Aurelius' wisdom. Let his reflections guide you towards a life of greater purpose and tranquility. Invest in Meditations today and embark on a journey of self-discovery and personal excellence. Experience the enduring legacy of Marcus Aurelius, and let his wisdom transform your perspective.
+
+[View on Apple](https://books.apple.com/gb/book/meditations-modern-english-edition/id6584519723)
+
+<a id="the-great-gatsby"></a>
+## The Great Gatsby
+
+![The Great Gatsby](../../logos/914355894-0b2bacbe.png)
+
+An Apple Books Classics edition.<br /><br />
+The Roaring Twenties are in full effect in F. Scott Fitzgerald’s riveting classic. Man-about-town Jay Gatsby seems to have it all, including loads of money and a massive mansion where he hosts wild, extravagant parties every Saturday. But Gatsby’s missing one thing: Daisy Buchanan, the love of his life, the one who got away.<br /><br />
+<i>The Great Gatsby</i> explores the impossible, but uniquely human, longing to return to the past and the costs associated with chasing the American Dream. It’s a beautifully written, entertaining read with timeless emotional appeal.
+
+[View on Apple](https://books.apple.com/gb/book/the-great-gatsby/id914355894)

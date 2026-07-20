@@ -6,8 +6,8 @@
 - [À l'aise (feat. L2B, MC YOSHI, Mauvais Djo & Kokosvoice)](#a-l-aise-feat-l2b-mc-yoshi-mauvais-djo-kokosvoice)
 - [Mélo Décalé](#me-lo-de-cale)
 - [Balek (feat. Aya Nakamura, MC YOSHI, Mauvais Djo & Kokosvoice)](#balek-feat-aya-nakamura-mc-yoshi-mauvais-djo-kokosvoice)
-- [Séminaire](#se-minaire)
 - [melodrama](#melodrama)
+- [Séminaire](#se-minaire)
 - [Pineapple](#pineapple)
 - [Mopao aye (feat. MC YOSHI, Mauvais Djo & Kokosvoice)](#mopao-aye-feat-mc-yoshi-mauvais-djo-kokosvoice)
 - [Réanymé](#re-anyme)
@@ -15,8 +15,8 @@
 - [Sur paname](#sur-paname)
 - [NUEVAYoL](#nuevayol)
 - [Tout en Gucci](#tout-en-gucci)
-- [Full](#full)
 - [La pétasse](#la-pe-tasse)
+- [Full](#full)
 - [SO MAWA (feat. Mauvais Djo)](#so-mawa-feat-mauvais-djo)
 - [Triste everyday](#triste-everyday)
 - [Pocahontas](#pocahontas)
@@ -25,79 +25,79 @@
 - [La faille](#la-faille)
 - [Dis-moi que tu m'aimes](#dis-moi-que-tu-m-aimes)
 - [Jefe](#jefe)
+- [VVS](#vvs)
 - [PARISIENNE](#parisienne)
 - [Sicario](#sicario)
-- [VVS](#vvs)
 - [RENÉ CAOVILLA](#rene-caovilla)
 - [Pic et pic, alcool et drame](#pic-et-pic-alcool-et-drame)
-- [J'oublie tout](#j-oublie-tout)
 - [LOVE YOU](#love-you)
-- [Olivia Valere](#olivia-valere)
+- [J'oublie tout](#j-oublie-tout)
 - [Tu connais](#tu-connais)
 - [Adriano](#adriano)
-- [Scarface](#scarface)
 - [De l'autre côté (feat. Nekfeu)](#de-l-autre-co-te-feat-nekfeu)
-- [Oh qu'elle est belle (feat. Dystinct)](#oh-qu-elle-est-belle-feat-dystinct)
+- [Olivia Valere](#olivia-valere)
+- [Scarface](#scarface)
 - [CARTIER SANTOS](#cartier-santos)
-- [méli-mélo](#me-li-me-lo)
 - [AVEC MOI](#avec-moi)
+- [Oh qu'elle est belle (feat. Dystinct)](#oh-qu-elle-est-belle-feat-dystinct)
+- [méli-mélo](#me-li-me-lo)
 - [J'fais plaisir à la zone (feat. SDM)](#j-fais-plaisir-a-la-zone-feat-sdm)
 - [J'ai tout su](#j-ai-tout-su)
 - [Un Poco](#un-poco)
 - [Laboratoire](#laboratoire)
-- [B.M.S (by my side)](#b-m-s-by-my-side)
+- [Soleil](#soleil)
 - [La tipère](#la-tipe-re)
 - [Il pleut des balles (feat. SDM)](#il-pleut-des-balles-feat-sdm)
-- [Parfum quartier](#parfum-quartier)
-- [Soleil](#soleil)
+- [B.M.S (by my side)](#b-m-s-by-my-side)
 - [Phénoménal](#phe-nome-nal)
-- [MON BÉBÉ](#mon-be-be)
-- [Casanegra](#casanegra)
+- [Parfum quartier](#parfum-quartier)
 - [Pétunias](#pe-tunias)
-- [ONE TRACK MIND](#one-track-mind)
-- [Meuda](#meuda)
-- [Coco](#coco)
-- [Jalouse](#jalouse)
-- [CIEL](#ciel)
+- [MON BÉBÉ](#mon-be-be)
 - [L'humain](#l-humain)
+- [ONE TRACK MIND](#one-track-mind)
+- [Coco](#coco)
+- [Casanegra](#casanegra)
 - [Biff pas d'love](#biff-pas-d-love)
-- [Argent Sale - A COLORS SHOW](#argent-sale-a-colors-show)
-- [NETFLIX CHILL](#netflix-chill)
-- [Mood (feat. D2 & kulturr)](#mood-feat-d2-kulturr)
+- [Meuda](#meuda)
+- [Jalouse](#jalouse)
 - [Printemps](#printemps)
-- [DtMF](#dtmf)
+- [CIEL](#ciel)
+- [NETFLIX CHILL](#netflix-chill)
+- [Argent Sale - A COLORS SHOW](#argent-sale-a-colors-show)
 - [Tour du monde (feat. L2B)](#tour-du-monde-feat-l2b)
-- [Mandat de dépôt (feat. JUL)](#mandat-de-de-po-t-feat-jul)
 - [J'fais mes affaires](#j-fais-mes-affaires)
+- [DtMF](#dtmf)
+- [Mood (feat. D2 & kulturr)](#mood-feat-d2-kulturr)
+- [Mandat de dépôt (feat. JUL)](#mandat-de-de-po-t-feat-jul)
 - [Namek (feat. Omah Lay)](#namek-feat-omah-lay)
 - [La vie qu'on mène](#la-vie-qu-on-me-ne)
 - [Poney](#poney)
-- [Dracula (JENNIE Remix)](#dracula-jennie-remix)
 - [Macaroni (feat. Ninho)](#macaroni-feat-ninho)
+- [Dracula (JENNIE Remix)](#dracula-jennie-remix)
 - [Je pense à toi](#je-pense-a-toi)
-- [SPA](#spa)
 - [PARLU](#parlu)
+- [SPA](#spa)
 - [Sous la lune](#sous-la-lune)
-- [Paris](#paris)
 - [Chérie coco](#che-rie-coco)
+- [Paris](#paris)
 - [Arena de Cuba](#arena-de-cuba)
-- [Gros cave](#gros-cave)
-- [Maracanã](#maracana)
 - [NINAO](#ninao)
-- [RUINART](#ruinart)
 - [Piano](#piano)
-- [BAILE INoLVIDABLE](#baile-inolvidable)
 - [WHERE IS MY HUSBAND!](#where-is-my-husband)
-- [Dolce Camara](#dolce-camara)
-- [Monaco](#monaco)
+- [RUINART](#ruinart)
 - [Génération impolie](#ge-ne-ration-impolie)
-- [Nao entende (feat. Francis Mercier, MC YOSHI, Mauvais Djo & Kokosvoice)](#nao-entende-feat-francis-mercier-mc-yoshi-mauvais-djo-kokosvoice)
-- [DÁKITI](#da-kiti)
-- [Train de vie (feat. PLK)](#train-de-vie-feat-plk)
+- [Dolce Camara](#dolce-camara)
+- [Maracanã](#maracana)
+- [BAILE INoLVIDABLE](#baile-inolvidable)
+- [Gros cave](#gros-cave)
 - [Movin' To The Sun](#movin-to-the-sun)
-- [Charger (feat. MC YOSHI, Mauvais djo & Kokosvoice)](#charger-feat-mc-yoshi-mauvais-djo-kokosvoice)
+- [Train de vie (feat. PLK)](#train-de-vie-feat-plk)
+- [DÁKITI](#da-kiti)
 - [À tes côtés](#a-tes-co-te-s)
-- [Pyramide (feat. Damso)](#pyramide-feat-damso)
+- [Monaco](#monaco)
+- [Nao entende (feat. Francis Mercier, MC YOSHI, Mauvais Djo & Kokosvoice)](#nao-entende-feat-francis-mercier-mc-yoshi-mauvais-djo-kokosvoice)
+- [magique](#magique)
+- [No love](#no-love)
 
 <a id="sexy-nana"></a>
 ## Sexy Nana
@@ -155,19 +155,19 @@
 
 [View on Apple](https://music.apple.com/fr/album/balek-feat-aya-nakamura-mc-yoshi-mauvais-djo-kokosvoice/1885120906?i=1885121096)
 
-<a id="se-minaire"></a>
-## Séminaire
-
-![Séminaire](../../logos/6771573593-9df3c782.png)
-
-[View on Apple](https://music.apple.com/fr/album/s%C3%A9minaire/6771573336?i=6771573593)
-
 <a id="melodrama"></a>
 ## melodrama
 
 ![melodrama](../../logos/1840188177-ff920c29.png)
 
 [View on Apple](https://music.apple.com/fr/album/melodrama/1840188173?i=1840188177)
+
+<a id="se-minaire"></a>
+## Séminaire
+
+![Séminaire](../../logos/6771573593-9df3c782.png)
+
+[View on Apple](https://music.apple.com/fr/album/s%C3%A9minaire/6771573336?i=6771573593)
 
 <a id="pineapple"></a>
 ## Pineapple
@@ -218,19 +218,19 @@
 
 [View on Apple](https://music.apple.com/fr/album/tout-en-gucci/1536443638?i=1536443643)
 
-<a id="full"></a>
-## Full
-
-![Full](../../logos/1888240351-b943d20a.png)
-
-[View on Apple](https://music.apple.com/fr/album/full/1888240129?i=1888240351)
-
 <a id="la-pe-tasse"></a>
 ## La pétasse
 
 ![La pétasse](../../logos/6773813572-d15b50aa.png)
 
 [View on Apple](https://music.apple.com/fr/album/la-p%C3%A9tasse/6773813244?i=6773813572)
+
+<a id="full"></a>
+## Full
+
+![Full](../../logos/1888240351-b943d20a.png)
+
+[View on Apple](https://music.apple.com/fr/album/full/1888240129?i=1888240351)
 
 <a id="so-mawa-feat-mauvais-djo"></a>
 ## SO MAWA (feat. Mauvais Djo)
@@ -288,6 +288,13 @@
 
 [View on Apple](https://music.apple.com/fr/album/jefe/1597121321?i=1597121344)
 
+<a id="vvs"></a>
+## VVS
+
+![VVS](../../logos/1597121648-eb18f10e.png)
+
+[View on Apple](https://music.apple.com/fr/album/vvs/1597121321?i=1597121648)
+
 <a id="parisienne"></a>
 ## PARISIENNE
 
@@ -301,13 +308,6 @@
 ![Sicario](../../logos/6778036498-9ab71bcb.png)
 
 [View on Apple](https://music.apple.com/fr/album/sicario/6778036496?i=6778036498)
-
-<a id="vvs"></a>
-## VVS
-
-![VVS](../../logos/1597121648-eb18f10e.png)
-
-[View on Apple](https://music.apple.com/fr/album/vvs/1597121321?i=1597121648)
 
 <a id="rene-caovilla"></a>
 ## RENÉ CAOVILLA
@@ -323,13 +323,6 @@
 
 [View on Apple](https://music.apple.com/fr/album/pic-et-pic-alcool-et-drame/1666553911?i=1666554868)
 
-<a id="j-oublie-tout"></a>
-## J'oublie tout
-
-![J'oublie tout](../../logos/799176215-a7cd6543.png)
-
-[View on Apple](https://music.apple.com/fr/album/joublie-tout/799176203?i=799176215)
-
 <a id="love-you"></a>
 ## LOVE YOU
 
@@ -337,12 +330,12 @@
 
 [View on Apple](https://music.apple.com/fr/album/love-you/1843093059?i=1843093191)
 
-<a id="olivia-valere"></a>
-## Olivia Valere
+<a id="j-oublie-tout"></a>
+## J'oublie tout
 
-![Olivia Valere](../../logos/6778819038-89df9850.png)
+![J'oublie tout](../../logos/799176215-a7cd6543.png)
 
-[View on Apple](https://music.apple.com/fr/album/olivia-valere/6778819022?i=6778819038)
+[View on Apple](https://music.apple.com/fr/album/joublie-tout/799176203?i=799176215)
 
 <a id="tu-connais"></a>
 ## Tu connais
@@ -358,13 +351,6 @@
 
 [View on Apple](https://music.apple.com/fr/album/adriano/1824408095?i=1824408105)
 
-<a id="scarface"></a>
-## Scarface
-
-![Scarface](../../logos/1581451369-453dcab9.png)
-
-[View on Apple](https://music.apple.com/fr/album/scarface/1581451368?i=1581451369)
-
 <a id="de-l-autre-co-te-feat-nekfeu"></a>
 ## De l'autre côté (feat. Nekfeu)
 
@@ -372,12 +358,19 @@
 
 [View on Apple](https://music.apple.com/fr/album/de-lautre-c%C3%B4t%C3%A9-feat-nekfeu/1302387092?i=1302388764)
 
-<a id="oh-qu-elle-est-belle-feat-dystinct"></a>
-## Oh qu'elle est belle (feat. Dystinct)
+<a id="olivia-valere"></a>
+## Olivia Valere
 
-![Oh qu'elle est belle (feat. Dystinct)](../../logos/1725805782-8f0aab8a.png)
+![Olivia Valere](../../logos/6778819038-89df9850.png)
 
-[View on Apple](https://music.apple.com/fr/album/oh-quelle-est-belle-feat-dystinct/1725804372?i=1725805782)
+[View on Apple](https://music.apple.com/fr/album/olivia-valere/6778819022?i=6778819038)
+
+<a id="scarface"></a>
+## Scarface
+
+![Scarface](../../logos/1581451369-453dcab9.png)
+
+[View on Apple](https://music.apple.com/fr/album/scarface/1581451368?i=1581451369)
 
 <a id="cartier-santos"></a>
 ## CARTIER SANTOS
@@ -386,19 +379,26 @@
 
 [View on Apple](https://music.apple.com/fr/album/cartier-santos/1757802855?i=1757803302)
 
-<a id="me-li-me-lo"></a>
-## méli-mélo
-
-![méli-mélo](../../logos/1855573039-3123f9a8.png)
-
-[View on Apple](https://music.apple.com/fr/album/m%C3%A9li-m%C3%A9lo/1855573024?i=1855573039)
-
 <a id="avec-moi"></a>
 ## AVEC MOI
 
 ![AVEC MOI](../../logos/1863361439-1b8745bb.png)
 
 [View on Apple](https://music.apple.com/fr/album/avec-moi/1863361434?i=1863361439)
+
+<a id="oh-qu-elle-est-belle-feat-dystinct"></a>
+## Oh qu'elle est belle (feat. Dystinct)
+
+![Oh qu'elle est belle (feat. Dystinct)](../../logos/1725805782-8f0aab8a.png)
+
+[View on Apple](https://music.apple.com/fr/album/oh-quelle-est-belle-feat-dystinct/1725804372?i=1725805782)
+
+<a id="me-li-me-lo"></a>
+## méli-mélo
+
+![méli-mélo](../../logos/1855573039-3123f9a8.png)
+
+[View on Apple](https://music.apple.com/fr/album/m%C3%A9li-m%C3%A9lo/1855573024?i=1855573039)
 
 <a id="j-fais-plaisir-a-la-zone-feat-sdm"></a>
 ## J'fais plaisir à la zone (feat. SDM)
@@ -428,12 +428,12 @@
 
 [View on Apple](https://music.apple.com/fr/album/laboratoire/1768971301?i=1768971934)
 
-<a id="b-m-s-by-my-side"></a>
-## B.M.S (by my side)
+<a id="soleil"></a>
+## Soleil
 
-![B.M.S (by my side)](../../logos/1861756046-a1705bfb.png)
+![Soleil](../../logos/1889860646-424f5d13.png)
 
-[View on Apple](https://music.apple.com/fr/album/b-m-s-by-my-side/1861756043?i=1861756046)
+[View on Apple](https://music.apple.com/fr/album/soleil/1889860434?i=1889860646)
 
 <a id="la-tipe-re"></a>
 ## La tipère
@@ -449,19 +449,12 @@
 
 [View on Apple](https://music.apple.com/fr/album/il-pleut-des-balles-feat-sdm/1749947769?i=1749948531)
 
-<a id="parfum-quartier"></a>
-## Parfum quartier
+<a id="b-m-s-by-my-side"></a>
+## B.M.S (by my side)
 
-![Parfum quartier](../../logos/1666897006-9ff3105e.png)
+![B.M.S (by my side)](../../logos/1861756046-a1705bfb.png)
 
-[View on Apple](https://music.apple.com/fr/album/parfum-quartier/1666896346?i=1666897006)
-
-<a id="soleil"></a>
-## Soleil
-
-![Soleil](../../logos/1889860646-424f5d13.png)
-
-[View on Apple](https://music.apple.com/fr/album/soleil/1889860434?i=1889860646)
+[View on Apple](https://music.apple.com/fr/album/b-m-s-by-my-side/1861756043?i=1861756046)
 
 <a id="phe-nome-nal"></a>
 ## Phénoménal
@@ -470,19 +463,12 @@
 
 [View on Apple](https://music.apple.com/fr/album/ph%C3%A9nom%C3%A9nal/1807290303?i=1807290316)
 
-<a id="mon-be-be"></a>
-## MON BÉBÉ
+<a id="parfum-quartier"></a>
+## Parfum quartier
 
-![MON BÉBÉ](../../logos/1846141517-9960dfbe.png)
+![Parfum quartier](../../logos/1666897006-9ff3105e.png)
 
-[View on Apple](https://music.apple.com/fr/album/mon-b%C3%A9b%C3%A9/1846141102?i=1846141517)
-
-<a id="casanegra"></a>
-## Casanegra
-
-![Casanegra](../../logos/6789054333-b7d7930e.png)
-
-[View on Apple](https://music.apple.com/fr/album/casanegra/6789054322?i=6789054333)
+[View on Apple](https://music.apple.com/fr/album/parfum-quartier/1666896346?i=1666897006)
 
 <a id="pe-tunias"></a>
 ## Pétunias
@@ -491,40 +477,12 @@
 
 [View on Apple](https://music.apple.com/fr/album/p%C3%A9tunias/1771383375?i=1771385253)
 
-<a id="one-track-mind"></a>
-## ONE TRACK MIND
+<a id="mon-be-be"></a>
+## MON BÉBÉ
 
-![ONE TRACK MIND](../../logos/1852358425-548906fd.png)
+![MON BÉBÉ](../../logos/1846141517-9960dfbe.png)
 
-[View on Apple](https://music.apple.com/fr/album/one-track-mind/1852358411?i=1852358425)
-
-<a id="meuda"></a>
-## Meuda
-
-![Meuda](../../logos/1621517615-e3e8e09d.png)
-
-[View on Apple](https://music.apple.com/fr/album/meuda/1621517604?i=1621517615)
-
-<a id="coco"></a>
-## Coco
-
-![Coco](../../logos/1755595701-0faa0d0e.png)
-
-[View on Apple](https://music.apple.com/fr/album/coco/1755595512?i=1755595701)
-
-<a id="jalouse"></a>
-## Jalouse
-
-![Jalouse](../../logos/1807047391-81a637f1.png)
-
-[View on Apple](https://music.apple.com/fr/album/jalouse/1807046911?i=1807047391)
-
-<a id="ciel"></a>
-## CIEL
-
-![CIEL](../../logos/1773791057-0c593e96.png)
-
-[View on Apple](https://music.apple.com/fr/album/ciel/1773791055?i=1773791057)
+[View on Apple](https://music.apple.com/fr/album/mon-b%C3%A9b%C3%A9/1846141102?i=1846141517)
 
 <a id="l-humain"></a>
 ## L'humain
@@ -533,6 +491,27 @@
 
 [View on Apple](https://music.apple.com/fr/album/lhumain/6785645248?i=6785645257)
 
+<a id="one-track-mind"></a>
+## ONE TRACK MIND
+
+![ONE TRACK MIND](../../logos/1852358425-548906fd.png)
+
+[View on Apple](https://music.apple.com/fr/album/one-track-mind/1852358411?i=1852358425)
+
+<a id="coco"></a>
+## Coco
+
+![Coco](../../logos/1755595701-0faa0d0e.png)
+
+[View on Apple](https://music.apple.com/fr/album/coco/1755595512?i=1755595701)
+
+<a id="casanegra"></a>
+## Casanegra
+
+![Casanegra](../../logos/6789054333-b7d7930e.png)
+
+[View on Apple](https://music.apple.com/fr/album/casanegra/6789054322?i=6789054333)
+
 <a id="biff-pas-d-love"></a>
 ## Biff pas d'love
 
@@ -540,26 +519,19 @@
 
 [View on Apple](https://music.apple.com/fr/album/biff-pas-dlove/1821403604?i=1821403900)
 
-<a id="argent-sale-a-colors-show"></a>
-## Argent Sale - A COLORS SHOW
+<a id="meuda"></a>
+## Meuda
 
-![Argent Sale - A COLORS SHOW](../../logos/1876522627-95d6c248.png)
+![Meuda](../../logos/1621517615-e3e8e09d.png)
 
-[View on Apple](https://music.apple.com/fr/album/argent-sale-a-colors-show/1876522624?i=1876522627)
+[View on Apple](https://music.apple.com/fr/album/meuda/1621517604?i=1621517615)
 
-<a id="netflix-chill"></a>
-## NETFLIX CHILL
+<a id="jalouse"></a>
+## Jalouse
 
-![NETFLIX CHILL](../../logos/6769112340-72844482.png)
+![Jalouse](../../logos/1807047391-81a637f1.png)
 
-[View on Apple](https://music.apple.com/fr/album/netflix-chill/6769112339?i=6769112340)
-
-<a id="mood-feat-d2-kulturr"></a>
-## Mood (feat. D2 & kulturr)
-
-![Mood (feat. D2 & kulturr)](../../logos/1860924193-e873c34c.png)
-
-[View on Apple](https://music.apple.com/fr/album/mood-feat-d2-kulturr/1860924172?i=1860924193)
+[View on Apple](https://music.apple.com/fr/album/jalouse/1807046911?i=1807047391)
 
 <a id="printemps"></a>
 ## Printemps
@@ -568,12 +540,26 @@
 
 [View on Apple](https://music.apple.com/fr/album/printemps/1839231518?i=1839231523)
 
-<a id="dtmf"></a>
-## DtMF
+<a id="ciel"></a>
+## CIEL
 
-![DtMF](../../logos/1787023936-669873cf.png)
+![CIEL](../../logos/1773791057-0c593e96.png)
 
-[View on Apple](https://music.apple.com/fr/album/dtmf/1787022393?i=1787023936)
+[View on Apple](https://music.apple.com/fr/album/ciel/1773791055?i=1773791057)
+
+<a id="netflix-chill"></a>
+## NETFLIX CHILL
+
+![NETFLIX CHILL](../../logos/6769112340-72844482.png)
+
+[View on Apple](https://music.apple.com/fr/album/netflix-chill/6769112339?i=6769112340)
+
+<a id="argent-sale-a-colors-show"></a>
+## Argent Sale - A COLORS SHOW
+
+![Argent Sale - A COLORS SHOW](../../logos/1876522627-95d6c248.png)
+
+[View on Apple](https://music.apple.com/fr/album/argent-sale-a-colors-show/1876522624?i=1876522627)
 
 <a id="tour-du-monde-feat-l2b"></a>
 ## Tour du monde (feat. L2B)
@@ -582,19 +568,33 @@
 
 [View on Apple](https://music.apple.com/fr/album/tour-du-monde-feat-l2b/1828169322?i=1828169323)
 
-<a id="mandat-de-de-po-t-feat-jul"></a>
-## Mandat de dépôt (feat. JUL)
-
-![Mandat de dépôt (feat. JUL)](../../logos/6778819030-89df9850.png)
-
-[View on Apple](https://music.apple.com/fr/album/mandat-de-d%C3%A9p%C3%B4t-feat-jul/6778819022?i=6778819030)
-
 <a id="j-fais-mes-affaires"></a>
 ## J'fais mes affaires
 
 ![J'fais mes affaires](../../logos/1666673877-902f9549.png)
 
 [View on Apple](https://music.apple.com/fr/album/jfais-mes-affaires/1666673611?i=1666673877)
+
+<a id="dtmf"></a>
+## DtMF
+
+![DtMF](../../logos/1787023936-669873cf.png)
+
+[View on Apple](https://music.apple.com/fr/album/dtmf/1787022393?i=1787023936)
+
+<a id="mood-feat-d2-kulturr"></a>
+## Mood (feat. D2 & kulturr)
+
+![Mood (feat. D2 & kulturr)](../../logos/1860924193-e873c34c.png)
+
+[View on Apple](https://music.apple.com/fr/album/mood-feat-d2-kulturr/1860924172?i=1860924193)
+
+<a id="mandat-de-de-po-t-feat-jul"></a>
+## Mandat de dépôt (feat. JUL)
+
+![Mandat de dépôt (feat. JUL)](../../logos/6778819030-89df9850.png)
+
+[View on Apple](https://music.apple.com/fr/album/mandat-de-d%C3%A9p%C3%B4t-feat-jul/6778819022?i=6778819030)
 
 <a id="namek-feat-omah-lay"></a>
 ## Namek (feat. Omah Lay)
@@ -617,19 +617,19 @@
 
 [View on Apple](https://music.apple.com/fr/album/poney/1807046911?i=1807046921)
 
-<a id="dracula-jennie-remix"></a>
-## Dracula (JENNIE Remix)
-
-![Dracula (JENNIE Remix)](../../logos/1874125269-86a9a0ef.png)
-
-[View on Apple](https://music.apple.com/fr/album/dracula-jennie-remix/1874125260?i=1874125269)
-
 <a id="macaroni-feat-ninho"></a>
 ## Macaroni (feat. Ninho)
 
 ![Macaroni (feat. Ninho)](../../logos/1525245745-9d8fb576.png)
 
 [View on Apple](https://music.apple.com/fr/album/macaroni-feat-ninho/1525245731?i=1525245745)
+
+<a id="dracula-jennie-remix"></a>
+## Dracula (JENNIE Remix)
+
+![Dracula (JENNIE Remix)](../../logos/1874125269-86a9a0ef.png)
+
+[View on Apple](https://music.apple.com/fr/album/dracula-jennie-remix/1874125260?i=1874125269)
 
 <a id="je-pense-a-toi"></a>
 ## Je pense à toi
@@ -638,19 +638,19 @@
 
 [View on Apple](https://music.apple.com/fr/album/je-pense-%C3%A0-toi/1839849958?i=1839850249)
 
-<a id="spa"></a>
-## SPA
-
-![SPA](../../logos/1866925697-30d4b023.png)
-
-[View on Apple](https://music.apple.com/fr/album/spa/1866925695?i=1866925697)
-
 <a id="parlu"></a>
 ## PARLU
 
 ![PARLU](../../logos/1884058271-717d45cf.png)
 
 [View on Apple](https://music.apple.com/fr/album/parlu/1884058204?i=1884058271)
+
+<a id="spa"></a>
+## SPA
+
+![SPA](../../logos/1866925697-30d4b023.png)
+
+[View on Apple](https://music.apple.com/fr/album/spa/1866925695?i=1866925697)
 
 <a id="sous-la-lune"></a>
 ## Sous la lune
@@ -659,19 +659,19 @@
 
 [View on Apple](https://music.apple.com/fr/album/sous-la-lune/1665672124?i=1665673612)
 
-<a id="paris"></a>
-## Paris
-
-![Paris](../../logos/1804374320-6070a2f4.png)
-
-[View on Apple](https://music.apple.com/fr/album/paris/1804374229?i=1804374320)
-
 <a id="che-rie-coco"></a>
 ## Chérie coco
 
 ![Chérie coco](../../logos/6775905428-f6437771.png)
 
 [View on Apple](https://music.apple.com/fr/album/ch%C3%A9rie-coco/6775905424?i=6775905428)
+
+<a id="paris"></a>
+## Paris
+
+![Paris](../../logos/1804374320-6070a2f4.png)
+
+[View on Apple](https://music.apple.com/fr/album/paris/1804374229?i=1804374320)
 
 <a id="arena-de-cuba"></a>
 ## Arena de Cuba
@@ -680,33 +680,12 @@
 
 [View on Apple](https://music.apple.com/fr/album/arena-de-cuba/1895653691?i=6764132290)
 
-<a id="gros-cave"></a>
-## Gros cave
-
-![Gros cave](../../logos/6778819267-89df9850.png)
-
-[View on Apple](https://music.apple.com/fr/album/gros-cave/6778819022?i=6778819267)
-
-<a id="maracana"></a>
-## Maracanã
-
-![Maracanã](../../logos/6770946880-929b9f59.png)
-
-[View on Apple](https://music.apple.com/fr/album/maracan%C3%A3/6770946868?i=6770946880)
-
 <a id="ninao"></a>
 ## NINAO
 
 ![NINAO](../../logos/1797518241-fcebcace.png)
 
 [View on Apple](https://music.apple.com/fr/album/ninao/1797518058?i=1797518241)
-
-<a id="ruinart"></a>
-## RUINART
-
-![RUINART](../../logos/1818843905-a498e14b.png)
-
-[View on Apple](https://music.apple.com/fr/album/ruinart/1818843904?i=1818843905)
 
 <a id="piano"></a>
 ## Piano
@@ -715,13 +694,6 @@
 
 [View on Apple](https://music.apple.com/fr/album/piano/1810704200?i=1810704212)
 
-<a id="baile-inolvidable"></a>
-## BAILE INoLVIDABLE
-
-![BAILE INoLVIDABLE](../../logos/1787022842-669873cf.png)
-
-[View on Apple](https://music.apple.com/fr/album/baile-inolvidable/1787022393?i=1787022842)
-
 <a id="where-is-my-husband"></a>
 ## WHERE IS MY HUSBAND!
 
@@ -729,19 +701,12 @@
 
 [View on Apple](https://music.apple.com/fr/album/where-is-my-husband/1838737596?i=1838737598)
 
-<a id="dolce-camara"></a>
-## Dolce Camara
+<a id="ruinart"></a>
+## RUINART
 
-![Dolce Camara](../../logos/1729545250-9b4a9044.png)
+![RUINART](../../logos/1818843905-a498e14b.png)
 
-[View on Apple](https://music.apple.com/fr/album/dolce-camara/1729545246?i=1729545250)
-
-<a id="monaco"></a>
-## Monaco
-
-![Monaco](../../logos/1755200186-b5d9565c.png)
-
-[View on Apple](https://music.apple.com/fr/album/monaco/1755200180?i=1755200186)
+[View on Apple](https://music.apple.com/fr/album/ruinart/1818843904?i=1818843905)
 
 <a id="ge-ne-ration-impolie"></a>
 ## Génération impolie
@@ -750,26 +715,33 @@
 
 [View on Apple](https://music.apple.com/fr/album/g%C3%A9n%C3%A9ration-impolie/1844802673?i=1844802677)
 
-<a id="nao-entende-feat-francis-mercier-mc-yoshi-mauvais-djo-kokosvoice"></a>
-## Nao entende (feat. Francis Mercier, MC YOSHI, Mauvais Djo & Kokosvoice)
+<a id="dolce-camara"></a>
+## Dolce Camara
 
-![Nao entende (feat. Francis Mercier, MC YOSHI, Mauvais Djo & Kokosvoice)](../../logos/1885121099-8c458c74.png)
+![Dolce Camara](../../logos/1729545250-9b4a9044.png)
 
-[View on Apple](https://music.apple.com/fr/album/nao-entende-feat-francis-mercier-mc-yoshi-mauvais-djo/1885120906?i=1885121099)
+[View on Apple](https://music.apple.com/fr/album/dolce-camara/1729545246?i=1729545250)
 
-<a id="da-kiti"></a>
-## DÁKITI
+<a id="maracana"></a>
+## Maracanã
 
-![DÁKITI](../../logos/1542103620-b7fb4bd4.png)
+![Maracanã](../../logos/6770946880-929b9f59.png)
 
-[View on Apple](https://music.apple.com/fr/album/d%C3%A1kiti/1542102907?i=1542103620)
+[View on Apple](https://music.apple.com/fr/album/maracan%C3%A3/6770946868?i=6770946880)
 
-<a id="train-de-vie-feat-plk"></a>
-## Train de vie (feat. PLK)
+<a id="baile-inolvidable"></a>
+## BAILE INoLVIDABLE
 
-![Train de vie (feat. PLK)](../../logos/1507944449-2c02dee2.png)
+![BAILE INoLVIDABLE](../../logos/1787022842-669873cf.png)
 
-[View on Apple](https://music.apple.com/fr/album/train-de-vie-feat-plk/1507944447?i=1507944449)
+[View on Apple](https://music.apple.com/fr/album/baile-inolvidable/1787022393?i=1787022842)
+
+<a id="gros-cave"></a>
+## Gros cave
+
+![Gros cave](../../logos/6778819267-89df9850.png)
+
+[View on Apple](https://music.apple.com/fr/album/gros-cave/6778819022?i=6778819267)
 
 <a id="movin-to-the-sun"></a>
 ## Movin' To The Sun
@@ -778,12 +750,19 @@
 
 [View on Apple](https://music.apple.com/fr/album/movin-to-the-sun/6769069923?i=6769070199)
 
-<a id="charger-feat-mc-yoshi-mauvais-djo-kokosvoice"></a>
-## Charger (feat. MC YOSHI, Mauvais djo & Kokosvoice)
+<a id="train-de-vie-feat-plk"></a>
+## Train de vie (feat. PLK)
 
-![Charger (feat. MC YOSHI, Mauvais djo & Kokosvoice)](../../logos/1797885304-1ad5ccf2.png)
+![Train de vie (feat. PLK)](../../logos/1507944449-2c02dee2.png)
 
-[View on Apple](https://music.apple.com/fr/album/charger-feat-mc-yoshi-mauvais-djo-kokosvoice/1797885303?i=1797885304)
+[View on Apple](https://music.apple.com/fr/album/train-de-vie-feat-plk/1507944447?i=1507944449)
+
+<a id="da-kiti"></a>
+## DÁKITI
+
+![DÁKITI](../../logos/1542103620-b7fb4bd4.png)
+
+[View on Apple](https://music.apple.com/fr/album/d%C3%A1kiti/1542102907?i=1542103620)
 
 <a id="a-tes-co-te-s"></a>
 ## À tes côtés
@@ -792,9 +771,30 @@
 
 [View on Apple](https://music.apple.com/fr/album/%C3%A0-tes-c%C3%B4t%C3%A9s/6781757063?i=6781757067)
 
-<a id="pyramide-feat-damso"></a>
-## Pyramide (feat. Damso)
+<a id="monaco"></a>
+## Monaco
 
-![Pyramide (feat. Damso)](../../logos/1771383805-b6b8e8d3.png)
+![Monaco](../../logos/1755200186-b5d9565c.png)
 
-[View on Apple](https://music.apple.com/fr/album/pyramide-feat-damso/1771383375?i=1771383805)
+[View on Apple](https://music.apple.com/fr/album/monaco/1755200180?i=1755200186)
+
+<a id="nao-entende-feat-francis-mercier-mc-yoshi-mauvais-djo-kokosvoice"></a>
+## Nao entende (feat. Francis Mercier, MC YOSHI, Mauvais Djo & Kokosvoice)
+
+![Nao entende (feat. Francis Mercier, MC YOSHI, Mauvais Djo & Kokosvoice)](../../logos/1885121099-8c458c74.png)
+
+[View on Apple](https://music.apple.com/fr/album/nao-entende-feat-francis-mercier-mc-yoshi-mauvais-djo/1885120906?i=1885121099)
+
+<a id="magique"></a>
+## magique
+
+![magique](../../logos/6780447033-07c8292d.png)
+
+[View on Apple](https://music.apple.com/fr/album/magique/6780447029?i=6780447033)
+
+<a id="no-love"></a>
+## No love
+
+![No love](../../logos/1693872262-31311b7f.png)
+
+[View on Apple](https://music.apple.com/fr/album/no-love/1693872024?i=1693872262)

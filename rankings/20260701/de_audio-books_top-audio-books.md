@@ -2,102 +2,102 @@
 - [Die Psychiaterin – Wurde der Job ihr zum Verhängnis?](#die-psychiaterin-wurde-der-job-ihr-zum-verha-ngnis)
 - [Die Känguru-Rebellion (Die Känguru-Werke 5)](#die-ka-nguru-rebellion-die-ka-nguru-werke-5)
 - [Sommerfeldt Solo. Der Auftrag (Band 1, ungekürzt)](#sommerfeldt-solo-der-auftrag-band-1-ungeku-rzt)
-- [Bretonischer Glanz - Kommissar Dupin ermittelt - Kommissar Dupins fünfzehnter Fall, Band 15 (Gekürzte Lesung)](#bretonischer-glanz-kommissar-dupin-ermittelt-kommissar-dupins-fu-nfzehnter-fall-band-15-geku-rzte-lesung)
 - [Memories of Heidelberg (Ungekürzt)](#memories-of-heidelberg-ungeku-rzt)
-- [Die Känguru-Chroniken (Die Känguru-Werke 1)](#die-ka-nguru-chroniken-die-ka-nguru-werke-1)
+- [Bretonischer Glanz - Kommissar Dupin ermittelt - Kommissar Dupins fünfzehnter Fall, Band 15 (Gekürzte Lesung)](#bretonischer-glanz-kommissar-dupin-ermittelt-kommissar-dupins-fu-nfzehnter-fall-band-15-geku-rzte-lesung)
 - [Mord in der Toskana - Armstrong und Oscar ermitteln, Band 1 (Ungekürzte Lesung)](#mord-in-der-toskana-armstrong-und-oscar-ermitteln-band-1-ungeku-rzte-lesung)
+- [Mord im Chianti - Armstrong und Oscar ermitteln, Band 2 (Ungekürzte Lesung)](#mord-im-chianti-armstrong-und-oscar-ermitteln-band-2-ungeku-rzte-lesung)
 - [Todesstille über Föhr | Inselkrimi Hörbuch - Ein Nordseekrimi-Reihe, Band 5 (Ungekürzt)](#todesstille-u-ber-fo-hr-inselkrimi-ho-rbuch-ein-nordseekrimi-reihe-band-5-ungeku-rzt)
 - [Als Großmutter im Regen tanzte - Die Großmutter-Reihe, Band 1 (Ungekürzte Lesung)](#als-großmutter-im-regen-tanzte-die-großmutter-reihe-band-1-ungeku-rzte-lesung)
+- [Die Känguru-Chroniken (Die Känguru-Werke 1)](#die-ka-nguru-chroniken-die-ka-nguru-werke-1)
+- [Dungeon Crawler Carl (German Edition) (Unabridged)](#dungeon-crawler-carl-german-edition-unabridged)
+- [Wie man Freunde gewinnt - Die Kunst, beliebt und einflussreich zu werden (Ungekürzte Lesung)](#wie-man-freunde-gewinnt-die-kunst-beliebt-und-einflussreich-zu-werden-ungeku-rzte-lesung)
+- [Very Bad Liars (Kingston University, Spring Break, Teil 2) – Das Hörspiel](#very-bad-liars-kingston-university-spring-break-teil-2-das-ho-rspiel)
 - [Das Cottage in der Serling Street - Natalie Ames ermittelt - Tee? Kaffee? Mord!, Folge 39 (Ungekürzt)](#das-cottage-in-der-serling-street-natalie-ames-ermittelt-tee-kaffee-mord-folge-39-ungeku-rzt)
 - [Schleier aus Lügen - Bunburry - Ein Idyll zum Sterben, Folge 21 (Ungekürzt)](#schleier-aus-lu-gen-bunburry-ein-idyll-zum-sterben-folge-21-ungeku-rzt)
 - [Bullenbrüder - Tote haben keine Freunde (Ungekürzte Lesung)](#bullenbru-der-tote-haben-keine-freunde-ungeku-rzte-lesung)
-- [Dungeon Crawler Carl (German Edition) (Unabridged)](#dungeon-crawler-carl-german-edition-unabridged)
-- [Mord im Chianti - Armstrong und Oscar ermitteln, Band 2 (Ungekürzte Lesung)](#mord-im-chianti-armstrong-und-oscar-ermitteln-band-2-ungeku-rzte-lesung)
 - [Häftling (Ungekürzt)](#ha-ftling-ungeku-rzt)
+- [Die Ehefrau – Was hat sie zu verbergen?](#die-ehefrau-was-hat-sie-zu-verbergen)
+- [Sie kann dich hören](#sie-kann-dich-ho-ren)
 - [Das Kind in dir muss Heimat finden](#das-kind-in-dir-muss-heimat-finden)
+- [Das Känguru-Manifest (Die Känguru-Werke 2)](#das-ka-nguru-manifest-die-ka-nguru-werke-2)
+- [Splitterseele](#splitterseele)
 - [22 Kurzgeschichten, die dein Denken verändern werden](#22-kurzgeschichten-die-dein-denken-vera-ndern-werden)
+- [Der Thron der Lilie](#der-thron-der-lilie)
+- [John of John (ungekürzt)](#john-of-john-ungeku-rzt)
+- [Kreuzweg der Raben: The Witcher, Band 6](#kreuzweg-der-raben-the-witcher-band-6)
 - [Nightworld Academy - Gesamtausgabe (1-10)](#nightworld-academy-gesamtausgabe-1-10)
+- [Du schon wieder!: (K)ein Scheidungsroman](#du-schon-wieder-k-ein-scheidungsroman)
 - [Verliebt in Greenkenny - Irish Lovestories - Ein Irland-Liebesroman, Band 1 (Ungekürzt)](#verliebt-in-greenkenny-irish-lovestories-ein-irland-liebesroman-band-1-ungeku-rzt)
+- [Die Geschichte in mir. Eine deutsche Familie im 20. Jahrhundert](#die-geschichte-in-mir-eine-deutsche-familie-im-20-jahrhundert)
 - [Karneval der Lügen - Cherringham - Landluft kann tödlich sein, Folge 50 (Ungekürzt)](#karneval-der-lu-gen-cherringham-landluft-kann-to-dlich-sein-folge-50-ungeku-rzt)
+- [Der Hobbit](#der-hobbit)
 - [Der Nachbar](#der-nachbar)
+- [Das Café am Rande der Welt \[The Cafe on the Edge of the World\]: Eine Erzählung über den Sinn des Lebens \[A Narrative About the Meaning of Life\] (Unabridged)](#das-cafe-am-rande-der-welt-the-cafe-on-the-edge-of-the-world-eine-erza-hlung-u-ber-den-sinn-des-lebens-a-narrative-about-the-meaning-of-life-unabridged)
+- [Flammen und Finsternis: Das Reich der sieben Höfe – Teil 2: A Court of Mist and Fury](#flammen-und-finsternis-das-reich-der-sieben-ho-fe-teil-2-a-court-of-mist-and-fury)
 - [Psycho-Cybernetics (Updated and Expanded)](#psycho-cybernetics-updated-and-expanded)
 - [Die Roseninsel (Ungekürzt)](#die-roseninsel-ungeku-rzt)
 - [Apfelstrudel-Alibi: Franz Eberhofer, Band 13](#apfelstrudel-alibi-franz-eberhofer-band-13)
+- [EDEN - Wenn das Sterben beginnt](#eden-wenn-das-sterben-beginnt)
+- [Die verschlossene Tür (Ungekürzt)](#die-verschlossene-tu-r-ungeku-rzt)
+- [Yesteryear](#yesteryear)
+- [Blood – Du sollst bereuen](#blood-du-sollst-bereuen)
 - [Gesamtausgabe - Der Thron der Magier](#gesamtausgabe-der-thron-der-magier)
 - [Ein Kommissar wird gejagt - Taxi, Tod und Teufel, Folge 20 (Ungekürzt)](#ein-kommissar-wird-gejagt-taxi-tod-und-teufel-folge-20-ungeku-rzt)
 - [Tote singen keine Schlager - Sommer, Strand und Schlagermord, Folge 1 (Ungekürzt)](#tote-singen-keine-schlager-sommer-strand-und-schlagermord-folge-1-ungeku-rzt)
-- [Die Ehefrau – Was hat sie zu verbergen?](#die-ehefrau-was-hat-sie-zu-verbergen)
+- [Die 13 1/2 Leben des Käpt'n Blaubär - das Original](#die-13-1-2-leben-des-ka-pt-n-blauba-r-das-original)
 - [nonStop kissing the Boss](#nonstop-kissing-the-boss)
+- [Der Seelenbrecher](#der-seelenbrecher)
+- [Hamptons Prestige - Sparks & Scandals](#hamptons-prestige-sparks-scandals)
+- [Die geheimnisvolle Insel](#die-geheimnisvolle-insel)
+- [Monster 1983: Die komplette 3. Staffel](#monster-1983-die-komplette-3-staffel)
 - [artgerecht - Das andere Kleinkinderbuch](#artgerecht-das-andere-kleinkinderbuch)
 - [Das Schwert Gottes - Thriller ( John Milton 5 )](#das-schwert-gottes-thriller-john-milton-5)
-- [Sie kann dich hören](#sie-kann-dich-ho-ren)
+- [Nein sagen - Über den 20. Juli 1944, meine Eltern und persönliche Verantwortung heute (Ungekürzte Autorenlesung)](#nein-sagen-u-ber-den-20-juli-1944-meine-eltern-und-perso-nliche-verantwortung-heute-ungeku-rzte-autorenlesung)
 - [8000 Arten, als Mutter zu versagen (Ungekürzte Autorinnenlesung)](#8000-arten-als-mutter-zu-versagen-ungeku-rzte-autorinnenlesung)
 - [Harry Potter und der Stein der Weisen](#harry-potter-und-der-stein-der-weisen)
 - [Das Traumhotel am Meer | Ein romantisches Hörbuch mit gemütlichem Ostsee-Setting (Ungekürzt)](#das-traumhotel-am-meer-ein-romantisches-ho-rbuch-mit-gemu-tlichem-ostsee-setting-ungeku-rzt)
-- [Das Känguru-Manifest (Die Känguru-Werke 2)](#das-ka-nguru-manifest-die-ka-nguru-werke-2)
+- [Doppelmord im Strandhotel](#doppelmord-im-strandhotel)
+- [Du bist nicht allein](#du-bist-nicht-allein)
+- [Benjamin Blümchen, Folge 170: in Australien](#benjamin-blu-mchen-folge-170-in-australien)
+- [Ikigai](#ikigai)
 - [Der 8. Mann](#der-8-mann)
 - [Die Känguru-Offenbarung (Die Känguru-Werke 3)](#die-ka-nguru-offenbarung-die-ka-nguru-werke-3)
 - [Die Meerglas-Schwestern](#die-meerglas-schwestern)
 - [Die kleine Boutique am Meer](#die-kleine-boutique-am-meer)
+- [Tage am Fluss (Ungekürzte Lesung)](#tage-am-fluss-ungeku-rzte-lesung)
+- [Throne of Glass 7: Herrscherin über Asche und Zorn](#throne-of-glass-7-herrscherin-u-ber-asche-und-zorn)
 - [Der heilige Tod - Thriller ( John Milton 2 )](#der-heilige-tod-thriller-john-milton-2)
+- [Die Legende von Gold und Jade 4: Krieg und Frieden](#die-legende-von-gold-und-jade-4-krieg-und-frieden)
 - [Dear Britain](#dear-britain)
+- [Der kleine Drache Kokosnuss im Weltraum -](#der-kleine-drache-kokosnuss-im-weltraum)
 - [Kein Sommer ohne August - Every Summer Has A Story, Teil 1 (Ungekürzt)](#kein-sommer-ohne-august-every-summer-has-a-story-teil-1-ungeku-rzt)
 - [Sturmland - Die Sturmland-Saga, Band 1 (Autorisierte Lesefassung)](#sturmland-die-sturmland-saga-band-1-autorisierte-lesefassung)
 - [Der Tod braucht nie ein Alibi - Sofia und die Hirschgrund-Morde, Teil 29 (Ein Bayernkrimi)](#der-tod-braucht-nie-ein-alibi-sofia-und-die-hirschgrund-morde-teil-29-ein-bayernkrimi)
 - [Der Cleaner - Thriller ( John Milton 1 )](#der-cleaner-thriller-john-milton-1)
+- [Der Schwarm](#der-schwarm)
+- [Harry Potter und der Orden des Phönix](#harry-potter-und-der-orden-des-pho-nix)
 - [Ihre perfekte Ehe  Thriller Hörbuch - Wie weit würdest du gehen, um deine Familie zu beschützen? (Ungekürzt)](#ihre-perfekte-ehe-thriller-ho-rbuch-wie-weit-wu-rdest-du-gehen-um-deine-familie-zu-beschu-tzen-ungeku-rzt)
+- [Endlich Nichtraucher](#endlich-nichtraucher)
+- [The Deal – Reine Verhandlungssache](#the-deal-reine-verhandlungssache)
+- [Ostseefluch - Pia Korittkis achter Fall - Kommissarin Pia Korittki 8 (Ungekürzt)](#ostseefluch-pia-korittkis-achter-fall-kommissarin-pia-korittki-8-ungeku-rzt)
 - [Hollywell Hearts: Die kleine Farm am Meer](#hollywell-hearts-die-kleine-farm-am-meer)
 - [Der Name des Windes](#der-name-des-windes)
+- [Monster 1983: Die komplette 2. Staffel](#monster-1983-die-komplette-2-staffel)
 - [Das Haus im Wald - Krimi Hörbuch ( Atticus 1 )](#das-haus-im-wald-krimi-ho-rbuch-atticus-1)
 - [Der Lehrer – Will er dir helfen oder will er deinen Tod?](#der-lehrer-will-er-dir-helfen-oder-will-er-deinen-tod)
 - [SYLTKRIMI: Band 6-10](#syltkrimi-band-6-10)
+- [Bevor der Kaffee kalt wird (Ungekürzte Lesung)](#bevor-der-kaffee-kalt-wird-ungeku-rzte-lesung)
+- [Nach Grau kommt Himmelblau](#nach-grau-kommt-himmelblau)
+- [Das schwimmende Café von Kopenhagen](#das-schwimmende-cafe-von-kopenhagen)
+- [Die Tochter der Hexe](#die-tochter-der-hexe)
+- [Die Betrogene](#die-betrogene)
+- [Shaolin Spirit - Meistere dein Leben (Ungekürzte Lesung)](#shaolin-spirit-meistere-dein-leben-ungeku-rzte-lesung)
+- [Der erloschene Traum: Nik Pohl 6](#der-erloschene-traum-nik-pohl-6)
 - [Tod und Teufel](#tod-und-teufel)
-- [Very Bad Liars (Kingston University, Spring Break, Teil 2) – Das Hörspiel](#very-bad-liars-kingston-university-spring-break-teil-2-das-ho-rspiel)
-- [Das NEINhorn](#das-neinhorn)
-- [Der Thron der Lilie](#der-thron-der-lilie)
-- [Totholz - Was vergraben ist, ist nicht vergessen - Ein Wallner & Kreuthner Krimi, Band 11 (Ungekürzte Lesung)](#totholz-was-vergraben-ist-ist-nicht-vergessen-ein-wallner-kreuthner-krimi-band-11-ungeku-rzte-lesung)
-- [The Mistake – Niemand ist perfekt](#the-mistake-niemand-ist-perfekt)
-- [Eisige Nacht - Ein Norwegen-Krimi - Karl Sortland ermittelt-Reihe, Band 1 (Ungekürzt)](#eisige-nacht-ein-norwegen-krimi-karl-sortland-ermittelt-reihe-band-1-ungeku-rzt)
-- [John of John (ungekürzt)](#john-of-john-ungeku-rzt)
-- [Mord ist Familiensache  Ein historisches Cosy Crime Hörbuch mit typisch britischem Humor - Ein Fall für Miss Fitzgerald-Reihe, Band 3 (Ungekürzt)](#mord-ist-familiensache-ein-historisches-cosy-crime-ho-rbuch-mit-typisch-britischem-humor-ein-fall-fu-r-miss-fitzgerald-reihe-band-3-ungeku-rzt)
-- [Die 1%-Methode – Minimale Veränderung, maximale Wirkung](#die-1-methode-minimale-vera-nderung-maximale-wirkung)
-- [Die Känguru-Apokryphen (Die Känguru-Werke 4)](#die-ka-nguru-apokryphen-die-ka-nguru-werke-4)
-- [Am Himmel die Flüsse (Ungekürzte Lesung)](#am-himmel-die-flu-sse-ungeku-rzte-lesung)
-- [Kreuzweg der Raben: The Witcher, Band 6](#kreuzweg-der-raben-the-witcher-band-6)
-- [Heimsuchung](#heimsuchung)
-- [Alles Idioten!? - Endlich verstehen, wie andere ticken (Ungekürzte Lesung)](#alles-idioten-endlich-verstehen-wie-andere-ticken-ungeku-rzte-lesung)
-- [Die Natur ist kein Parteimitglied](#die-natur-ist-kein-parteimitglied)
-- [Du schon wieder!: (K)ein Scheidungsroman](#du-schon-wieder-k-ein-scheidungsroman)
-- [Einatmen. Ausatmen (Ungekürzte Lesung)](#einatmen-ausatmen-ungeku-rzte-lesung)
-- [Das Grab im Moor](#das-grab-im-moor)
-- [Künstliche Intelligenz und der Sinn des Lebens](#ku-nstliche-intelligenz-und-der-sinn-des-lebens)
-- [Eine von uns](#eine-von-uns)
-- [Fünf, sechs, sieben, acht](#fu-nf-sechs-sieben-acht)
-- [00-Laschet (Gekürzte Lesung)](#00-laschet-geku-rzte-lesung)
-- [Das Buch, von dem du dir wünschst, deine Eltern hätten es gelesen](#das-buch-von-dem-du-dir-wu-nschst-deine-eltern-ha-tten-es-gelesen)
-- [Das NEINhorn und die SchLANGEWEILE](#das-neinhorn-und-die-schlangeweile)
-- [Odyssee (Ungekürzte Lesung)](#odyssee-ungeku-rzte-lesung)
-- [FUCK SMALLTALK - MACHE BIGTALK](#fuck-smalltalk-mache-bigtalk)
-- [Harry Potter and the Prisoner of Azkaban](#harry-potter-and-the-prisoner-of-azkaban)
-- [Fifty-Fifty](#fifty-fifty)
-- [Mein Ehemann (Ungekürzt)](#mein-ehemann-ungeku-rzt)
-- [Nicht ihre Schuld - Johannes-Hornoff-Thriller, Band 1 (ungekürzt)](#nicht-ihre-schuld-johannes-hornoff-thriller-band-1-ungeku-rzt)
-- [Im Morgengrauen (Art Mayer-Serie 4)](#im-morgengrauen-art-mayer-serie-4)
-- [Der Hobbit](#der-hobbit)
-- [Hollywell Hearts: Die Glückspension am Meer](#hollywell-hearts-die-glu-ckspension-am-meer)
-- [Das Leuchten der kleinen Momente - Wie ich nach Italien reiste und mich selbst fand (Ungekürzte Lesung)](#das-leuchten-der-kleinen-momente-wie-ich-nach-italien-reiste-und-mich-selbst-fand-ungeku-rzte-lesung)
-- [Ein Sommer in Niendorf (Ungekürzt)](#ein-sommer-in-niendorf-ungeku-rzt)
-- [Die kalte Hand des Camping-Killers (Kriminalroman. Ungekürzt.)](#die-kalte-hand-des-camping-killers-kriminalroman-ungeku-rzt)
-- [Die 7 Wege zur Effektivität - Prinzipien für persönlichen und beruflichen Erfolg](#die-7-wege-zur-effektivita-t-prinzipien-fu-r-perso-nlichen-und-beruflichen-erfolg)
-- [Frisch verlobt (ungekürzt)](#frisch-verlobt-ungeku-rzt)
-- [Das letzte Königreich](#das-letzte-ko-nigreich)
-- [Ausgeliefert](#ausgeliefert)
-- [MontanaBlack](#montanablack)
-- [Acht Hercule Poirot Krimis](#acht-hercule-poirot-krimis)
-- [Odyssee - Von Abenteuern, Irrfahrten und Heimkehr - Die Mythos-Tetralogie, Band 4 (Ungekürzt)](#odyssee-von-abenteuern-irrfahrten-und-heimkehr-die-mythos-tetralogie-band-4-ungeku-rzt)
-- [Die Perlenschwester](#die-perlenschwester)
-- [Das Café am Rande der Welt \[The Cafe on the Edge of the World\]: Eine Erzählung über den Sinn des Lebens \[A Narrative About the Meaning of Life\] (Unabridged)](#das-cafe-am-rande-der-welt-the-cafe-on-the-edge-of-the-world-eine-erza-hlung-u-ber-den-sinn-des-lebens-a-narrative-about-the-meaning-of-life-unabridged)
-- [Held aller Zeiten (Die Nebelgeborenen 3)](#held-aller-zeiten-die-nebelgeborenen-3)
+- [Essentialismus. Die konsequente Suche nach Weniger. Ein neuer Minimalismus erobert die Welt](#essentialismus-die-konsequente-suche-nach-weniger-ein-neuer-minimalismus-erobert-die-welt)
+- [Das Hindernis ist der Weg: Mit der Philosophie der Stoiker zum Triumph](#das-hindernis-ist-der-weg-mit-der-philosophie-der-stoiker-zum-triumph)
+- [Momo](#momo)
+- [Alles klar! Der kleine Drache Kokosnuss erforscht den Weltraum](#alles-klar-der-kleine-drache-kokosnuss-erforscht-den-weltraum)
 
 <a id="herzklopfen-im-eiscafe-am-meer-ein-turbluent-romantisches-ku-stenroman-ho-rbuch-der-booktok-sensation-ungeku-rzt"></a>
 ## Herzklopfen im Eiscafé am Meer | Ein turbluent-romantisches Küstenroman Hörbuch der BookTok-Sensation (Ungekürzt)
@@ -152,15 +152,6 @@ Dieser erscheint als ungekürzte Autorenlesung bei GOYA und wird von Klaus-Peter
 
 [View on Apple](https://books.apple.com/de/audiobook/sommerfeldt-solo-der-auftrag-band-1-ungek%C3%BCrzt/id1893589547)
 
-<a id="bretonischer-glanz-kommissar-dupin-ermittelt-kommissar-dupins-fu-nfzehnter-fall-band-15-geku-rzte-lesung"></a>
-## Bretonischer Glanz - Kommissar Dupin ermittelt - Kommissar Dupins fünfzehnter Fall, Band 15 (Gekürzte Lesung)
-
-![Bretonischer Glanz - Kommissar Dupin ermittelt - Kommissar Dupins fünfzehnter Fall, Band 15 (Gekürzte Lesung)](../../logos/6770470077-5acb80c4.png)
-
-Weltberühmte Zwiebeln und mysteriöse Morde im idyllischen Roscoff<br /><br />Die Mittagssonne lässt die bunten Segel der Boote im Hafenbecken aufleuchten, als Kommissar Dupin sich auf der Terrasse des "Amiral" niederlässt. Gerade will er sich seinem "tartare de bœuf" widmen, als sein Handy klingelt: In Roscoff im hohen bretonischen Norden wurde eine junge Frau ermordet aufgefunden - ausgerechnet dort, wo gerade das berühmte Krimifestival stattfindet ...<br /><br />Umgehend macht sich der Kommissar zusammen mit seinen Inspektoren Riwal und Kadeg auf den Weg. In dem Hafenstädtchen, das für seine Zwiebeln weltbekannt ist, herrscht Ausnahmezustand: Inmitten des Festivaltrubels ziehen Mitarbeiter des lokalen Fährunternehmens wegen drohender Entlassungen durch die Straßen.<br /><br />Außerdem scheinen in der "Bruderschaft zum Schutz der Roscoff-Zwiebel" obskure Dinge vor sich zu gehen. Als Unbekannte beginnen, rätselhafte Drohparolen auf Hauswände zu schmieren, spitzt sich die Lage zu. Für Dupin wird es so gefährlich wie in keinem Fall zuvor ...
-
-[View on Apple](https://books.apple.com/de/audiobook/bretonischer-glanz-kommissar-dupin-ermittelt-kommissar/id6770470077)
-
 <a id="memories-of-heidelberg-ungeku-rzt"></a>
 ## Memories of Heidelberg (Ungekürzt)
 
@@ -170,15 +161,14 @@ Heidelberg im Frühling! Bertram und Isolde, ein in die Jahre gekommenes Paar au
 
 [View on Apple](https://books.apple.com/de/audiobook/memories-of-heidelberg-ungek%C3%BCrzt/id6777941567)
 
-<a id="die-ka-nguru-chroniken-die-ka-nguru-werke-1"></a>
-## Die Känguru-Chroniken (Die Känguru-Werke 1)
+<a id="bretonischer-glanz-kommissar-dupin-ermittelt-kommissar-dupins-fu-nfzehnter-fall-band-15-geku-rzte-lesung"></a>
+## Bretonischer Glanz - Kommissar Dupin ermittelt - Kommissar Dupins fünfzehnter Fall, Band 15 (Gekürzte Lesung)
 
-![Die Känguru-Chroniken (Die Känguru-Werke 1)](../../logos/1500352652-6d9e471c.png)
+![Bretonischer Glanz - Kommissar Dupin ermittelt - Kommissar Dupins fünfzehnter Fall, Band 15 (Gekürzte Lesung)](../../logos/6770470077-5acb80c4.png)
 
-Marc-Uwe Kling lebt mit einem Känguru zusammen. Das Känguru ist Kommunist und steht total auf Nirvana. Die Känguru-Chroniken berichten von den Abenteuern und Wortgefechten des Duos. Und so bekommen wir endlich Antworten auf die drängendsten Fragen unserer Zeit: War das Känguru wirklich beim Vietcong? Und wieso ist es schnapspralinensüchtig? Könnte man die Essenz des Hegelschen Gesamtwerkes in eine SMS packen? Und wer ist besser: Bud Spencer oder Terence Hill?
-Für Die Känguru-Chroniken erhielt Marc-Uwe Kling den Deutschen Hörbuchpreis 2013.
+Weltberühmte Zwiebeln und mysteriöse Morde im idyllischen Roscoff<br /><br />Die Mittagssonne lässt die bunten Segel der Boote im Hafenbecken aufleuchten, als Kommissar Dupin sich auf der Terrasse des "Amiral" niederlässt. Gerade will er sich seinem "tartare de bœuf" widmen, als sein Handy klingelt: In Roscoff im hohen bretonischen Norden wurde eine junge Frau ermordet aufgefunden - ausgerechnet dort, wo gerade das berühmte Krimifestival stattfindet ...<br /><br />Umgehend macht sich der Kommissar zusammen mit seinen Inspektoren Riwal und Kadeg auf den Weg. In dem Hafenstädtchen, das für seine Zwiebeln weltbekannt ist, herrscht Ausnahmezustand: Inmitten des Festivaltrubels ziehen Mitarbeiter des lokalen Fährunternehmens wegen drohender Entlassungen durch die Straßen.<br /><br />Außerdem scheinen in der "Bruderschaft zum Schutz der Roscoff-Zwiebel" obskure Dinge vor sich zu gehen. Als Unbekannte beginnen, rätselhafte Drohparolen auf Hauswände zu schmieren, spitzt sich die Lage zu. Für Dupin wird es so gefährlich wie in keinem Fall zuvor ...
 
-[View on Apple](https://books.apple.com/de/audiobook/die-k%C3%A4nguru-chroniken-die-k%C3%A4nguru-werke-1/id1500352652)
+[View on Apple](https://books.apple.com/de/audiobook/bretonischer-glanz-kommissar-dupin-ermittelt-kommissar/id6770470077)
 
 <a id="mord-in-der-toskana-armstrong-und-oscar-ermitteln-band-1-ungeku-rzte-lesung"></a>
 ## Mord in der Toskana - Armstrong und Oscar ermitteln, Band 1 (Ungekürzte Lesung)
@@ -222,6 +212,20 @@ Hörbuch-Highlights:
 
 [View on Apple](https://books.apple.com/de/audiobook/mord-in-der-toskana-armstrong-und-oscar-ermitteln-band/id6768579878)
 
+<a id="mord-im-chianti-armstrong-und-oscar-ermitteln-band-2-ungeku-rzte-lesung"></a>
+## Mord im Chianti - Armstrong und Oscar ermitteln, Band 2 (Ungekürzte Lesung)
+
+![Mord im Chianti - Armstrong und Oscar ermitteln, Band 2 (Ungekürzte Lesung)](../../logos/6768576532-4f36fc05.png)
+
+Mord am helllichten Tag
+
+Als der Unternehmer Rex Hunter mit eingeschlagenem Schädel auf dem Golfplatz seines prestigeträchtigen Country-Clubs im wunderschönen Chianti aufgefunden wird, besteht kein Zweifel: Es war Mord. Hunter war reich, erfolgreich und wurde von vielen beneidet - ein vermeintlich leichtes Spiel für den pensionierten DCI Dan Armstrong.
+
+Doch als Dan und sein treuer Begleiter, der Labrador Oscar, beginnen, Hunters Leben unter die Lupe zu nehmen, stoßen sie auf einen Mann, der von vielen verachtet wurde. Niemand scheint sonderlich traurig über das Ableben des berüchtigten Frauenhelds, rücksichtslosen Chefs und herzlosen Familienoberhaupts zu sein. Die Liste der Verdächtigen ist endlos, und jede neue Spur scheint in einer Sackgasse zu enden. Wird dies der erste Fall sein, den Dan und sein vierbeiniger Gefährte nicht lösen können?
+Der zweite Band der Cosy-Crime-Reihe von Bestsellerautor T. A. Williams - perfekt für Fans von Monsieur le Comte und Mrs Potts Mordclub
+
+[View on Apple](https://books.apple.com/de/audiobook/mord-im-chianti-armstrong-und-oscar-ermitteln-band/id6768576532)
+
 <a id="todesstille-u-ber-fo-hr-inselkrimi-ho-rbuch-ein-nordseekrimi-reihe-band-5-ungeku-rzt"></a>
 ## Todesstille über Föhr | Inselkrimi Hörbuch - Ein Nordseekrimi-Reihe, Band 5 (Ungekürzt)
 
@@ -247,6 +251,62 @@ Die Suche nach der Wahrheit führt Juni nach Berlin und in die kleine Stadt Demm
 Großmutter tanzte im Regen erzählt davon, wie uns die Vergangenheit prägt bis in die Generationen der Töchter und Enkelinnen. Doch vor allem ist es eine Geschichte über die heilende Kraft der Liebe.
 
 [View on Apple](https://books.apple.com/de/audiobook/als-gro%C3%9Fmutter-im-regen-tanzte-die-gro%C3%9Fmutter-reihe/id1665611760)
+
+<a id="die-ka-nguru-chroniken-die-ka-nguru-werke-1"></a>
+## Die Känguru-Chroniken (Die Känguru-Werke 1)
+
+![Die Känguru-Chroniken (Die Känguru-Werke 1)](../../logos/1500352652-6d9e471c.png)
+
+Marc-Uwe Kling lebt mit einem Känguru zusammen. Das Känguru ist Kommunist und steht total auf Nirvana. Die Känguru-Chroniken berichten von den Abenteuern und Wortgefechten des Duos. Und so bekommen wir endlich Antworten auf die drängendsten Fragen unserer Zeit: War das Känguru wirklich beim Vietcong? Und wieso ist es schnapspralinensüchtig? Könnte man die Essenz des Hegelschen Gesamtwerkes in eine SMS packen? Und wer ist besser: Bud Spencer oder Terence Hill?
+Für Die Känguru-Chroniken erhielt Marc-Uwe Kling den Deutschen Hörbuchpreis 2013.
+
+[View on Apple](https://books.apple.com/de/audiobook/die-k%C3%A4nguru-chroniken-die-k%C3%A4nguru-werke-1/id1500352652)
+
+<a id="dungeon-crawler-carl-german-edition-unabridged"></a>
+## Dungeon Crawler Carl (German Edition) (Unabridged)
+
+![Dungeon Crawler Carl (German Edition) (Unabridged)](../../logos/1858532121-0b3a3097.png)
+
+Arschwitzig, einfallsreich und absolut suchterzeugend. Die legendäre Fantasyserie um Dungeon Crawler Carl und die Perserkatze Princess Donut gibt es endlich auf Deutsch.<br /><br />Willkommen im Dungeon. Entertainment ist Pflicht. Überleben nicht.<br /><br />Das Leben ist nicht fair. Erst wird Carl von seiner Freundin sitzengelassen, und dann muss er mitten in der Nacht in Boxer Shorts und Lederjacke raus, um ihre Katze Prinzessin Donut zu retten. Noch unfairer wird es, als er von außerirdischen Invasoren gezwungen wird, an einer sadistischen, intergalaktischen Spielshow teilzunehmen.<br /><br />In einem Dungeon voller Fallen, explodierender Goblins, Drogen dealenden Lamas besteht sein Leben von nun an vor allem darin, am Leben zu bleiben. Und dafür muss er neue Fähigkeiten entwickeln, mächtige Waffen finden und Sponsoren, die ihn in einer perversen und intriganten Medienwelt unterstützen, gegen die Panem ein Kindergarten ist. Zum Glück hat er Donut dabei, eine Katze mit viel Erfahrung im Showbusiness. Und dem unbedingten Willen zum Erfolg.<br /><br />"Frisch. Kreativ. Urkomisch. Ich bin obsessed ... Princess Donut ist meine Königin." Felicia Day<br /><br />"Wenn es ein besseres LitRPG als Dungeon Crawler Carl gibt, habe ich es noch nicht gelesen." Shirtaloon, Autor von He Who Fights Monsters<br /><br />"Wie kann eine Serie nur so viel Tiefe, Gefühl und Komplexität unter ihrer derben, blutrünstigen Oberfläche verbergen? Was für eine verrückte und unerwartete Freude." Scott Lynch<br /><br /><b>Please note: This audiobook is in German.</b>
+
+[View on Apple](https://books.apple.com/de/audiobook/dungeon-crawler-carl-german-edition-unabridged/id1858532121)
+
+<a id="wie-man-freunde-gewinnt-die-kunst-beliebt-und-einflussreich-zu-werden-ungeku-rzte-lesung"></a>
+## Wie man Freunde gewinnt - Die Kunst, beliebt und einflussreich zu werden (Ungekürzte Lesung)
+
+![Wie man Freunde gewinnt - Die Kunst, beliebt und einflussreich zu werden (Ungekürzte Lesung)](../../logos/1425603286-200d274c.png)
+
+Dale Carnegies Gespür für den Umgang mit Menschen ist unübertroffen. Er beherrscht es meisterhaft, die Kunst, beliebt und einflussreich zu werden, an seine Hörer weiterzugeben. In diesem Hörbuch zeigt er auf seine unnachahmliche Weise, wie man Freunde gewinnt, auf neuen Wegen zu neuen Zielen gelangt, im Beruf erfolgreicher wird und seine Umwelt beeinflusst.
+
+[View on Apple](https://books.apple.com/de/audiobook/wie-man-freunde-gewinnt-die-kunst-beliebt-und-einflussreich/id1425603286)
+
+<a id="very-bad-liars-kingston-university-spring-break-teil-2-das-ho-rspiel"></a>
+## Very Bad Liars (Kingston University, Spring Break, Teil 2) – Das Hörspiel
+
+![Very Bad Liars (Kingston University, Spring Break, Teil 2) – Das Hörspiel](../../logos/6769693076-523accf9.png)
+
+Es wäre kein Spiel, wenn wir dir einfach sagen, dass du dich nicht zwischen uns entscheiden musst. Wir wollen, dass du wählst. Und es wird immer die falsche Wahl sein.
+
+Spring Break sollte für Mable die Zeit sein, in der sie sich auf ihre Prüfungen in Kingston vorbereitet, doch alles kommt anders als geplant.
+
+Das FBI bevölkert den Campus, um mehr über die Hintergründe des Anschlags auf die Elite-Studenten in Erfahrung zu bringen. Nicht einmal die Kings wissen, was Mable herausgefunden hat.
+
+Das Spiel der Begierde und Lust scheint eine tödliche Wendung zu nehmen. Werden die Könige ihre Dame beschützen?
+
+Oder planen sie noch immer ihren Untergang?
+
+Vergiss Spring Break, kleine Blüte. Wenn herauskommt, dass du uns etwas verschweigst, könnte das dein tatsächliches Ende bedeuten.
+
+Lektion drei: Die Elite kennt bessere Waffen als Pistolen und Messer. Wir kämpfen nicht – wir lassen kämpfen. Und du solltest uns dabei nicht im Weg stehen.
+
+Dark College. Bully Romance. Reverse Harem.
+
+Du willst nicht teilen. Sie dich schon.
+
+Band 3 der KINGSTON-Reihe von Bestseller-Autorin J. S. Wonda jetzt als Hörspiel. 
+Dies ist der zweite und abschließende Teil des Hörspiels.
+
+[View on Apple](https://books.apple.com/de/audiobook/very-bad-liars-kingston-university-spring-break-teil/id6769693076)
 
 <a id="das-cottage-in-der-serling-street-natalie-ames-ermittelt-tee-kaffee-mord-folge-39-ungeku-rzt"></a>
 ## Das Cottage in der Serling Street - Natalie Ames ermittelt - Tee? Kaffee? Mord!, Folge 39 (Ungekürzt)
@@ -280,29 +340,6 @@ Holger Brinks ist Kommissar bei der Mordkommission. Sein Bruder Charlie schlägt
 
 [View on Apple](https://books.apple.com/de/audiobook/bullenbr%C3%BCder-tote-haben-keine-freunde-ungek%C3%BCrzte-lesung/id1425467857)
 
-<a id="dungeon-crawler-carl-german-edition-unabridged"></a>
-## Dungeon Crawler Carl (German Edition) (Unabridged)
-
-![Dungeon Crawler Carl (German Edition) (Unabridged)](../../logos/1858532121-0b3a3097.png)
-
-Arschwitzig, einfallsreich und absolut suchterzeugend. Die legendäre Fantasyserie um Dungeon Crawler Carl und die Perserkatze Princess Donut gibt es endlich auf Deutsch.<br /><br />Willkommen im Dungeon. Entertainment ist Pflicht. Überleben nicht.<br /><br />Das Leben ist nicht fair. Erst wird Carl von seiner Freundin sitzengelassen, und dann muss er mitten in der Nacht in Boxer Shorts und Lederjacke raus, um ihre Katze Prinzessin Donut zu retten. Noch unfairer wird es, als er von außerirdischen Invasoren gezwungen wird, an einer sadistischen, intergalaktischen Spielshow teilzunehmen.<br /><br />In einem Dungeon voller Fallen, explodierender Goblins, Drogen dealenden Lamas besteht sein Leben von nun an vor allem darin, am Leben zu bleiben. Und dafür muss er neue Fähigkeiten entwickeln, mächtige Waffen finden und Sponsoren, die ihn in einer perversen und intriganten Medienwelt unterstützen, gegen die Panem ein Kindergarten ist. Zum Glück hat er Donut dabei, eine Katze mit viel Erfahrung im Showbusiness. Und dem unbedingten Willen zum Erfolg.<br /><br />"Frisch. Kreativ. Urkomisch. Ich bin obsessed ... Princess Donut ist meine Königin." Felicia Day<br /><br />"Wenn es ein besseres LitRPG als Dungeon Crawler Carl gibt, habe ich es noch nicht gelesen." Shirtaloon, Autor von He Who Fights Monsters<br /><br />"Wie kann eine Serie nur so viel Tiefe, Gefühl und Komplexität unter ihrer derben, blutrünstigen Oberfläche verbergen? Was für eine verrückte und unerwartete Freude." Scott Lynch<br /><br /><b>Please note: This audiobook is in German.</b>
-
-[View on Apple](https://books.apple.com/de/audiobook/dungeon-crawler-carl-german-edition-unabridged/id1858532121)
-
-<a id="mord-im-chianti-armstrong-und-oscar-ermitteln-band-2-ungeku-rzte-lesung"></a>
-## Mord im Chianti - Armstrong und Oscar ermitteln, Band 2 (Ungekürzte Lesung)
-
-![Mord im Chianti - Armstrong und Oscar ermitteln, Band 2 (Ungekürzte Lesung)](../../logos/6768576532-4f36fc05.png)
-
-Mord am helllichten Tag
-
-Als der Unternehmer Rex Hunter mit eingeschlagenem Schädel auf dem Golfplatz seines prestigeträchtigen Country-Clubs im wunderschönen Chianti aufgefunden wird, besteht kein Zweifel: Es war Mord. Hunter war reich, erfolgreich und wurde von vielen beneidet - ein vermeintlich leichtes Spiel für den pensionierten DCI Dan Armstrong.
-
-Doch als Dan und sein treuer Begleiter, der Labrador Oscar, beginnen, Hunters Leben unter die Lupe zu nehmen, stoßen sie auf einen Mann, der von vielen verachtet wurde. Niemand scheint sonderlich traurig über das Ableben des berüchtigten Frauenhelds, rücksichtslosen Chefs und herzlosen Familienoberhaupts zu sein. Die Liste der Verdächtigen ist endlos, und jede neue Spur scheint in einer Sackgasse zu enden. Wird dies der erste Fall sein, den Dan und sein vierbeiniger Gefährte nicht lösen können?
-Der zweite Band der Cosy-Crime-Reihe von Bestsellerautor T. A. Williams - perfekt für Fans von Monsieur le Comte und Mrs Potts Mordclub
-
-[View on Apple](https://books.apple.com/de/audiobook/mord-im-chianti-armstrong-und-oscar-ermitteln-band/id6768576532)
-
 <a id="ha-ftling-ungeku-rzt"></a>
 ## Häftling (Ungekürzt)
 
@@ -330,6 +367,24 @@ Leser:innen über Freida McFadden:
 
 [View on Apple](https://books.apple.com/de/audiobook/h%C3%A4ftling-ungek%C3%BCrzt/id1876228419)
 
+<a id="die-ehefrau-was-hat-sie-zu-verbergen"></a>
+## Die Ehefrau – Was hat sie zu verbergen?
+
+![Die Ehefrau – Was hat sie zu verbergen?](../../logos/1807980252-aab160db.png)
+
+<b>In diesem Haus ist nichts so, wie es scheint: Nr.-1-Bestsellerautorin Freida McFadden ist die Queen der packenden Twists!</b><br /><br />Sylvia Robinson wird im Haus der Barnetts als private Pflegekraft eingestellt. Nach einem Unfall benötigt Victoria Barnett rund um die Uhr Betreuung. Sie kann weder gehen noch sprechen und ist an ihr Bett im obersten Stockwerk des Hauses gefesselt. Daher hat ihr Mann Sylvia als Unterstützung hinzugeholt. Doch schon bald hat Sylvia das Gefühl, dass Victoria nicht so hilflos ist, wie sie scheint. Dann entdeckt sie Victorias Tagebuch versteckt in einer Kommode. Und was sie darin liest, zieht ihr den Boden unter den Füßen weg. <br /><br />leicht gekürzte Lesung mit Chantal Busse, Jodie Ahlborn<br />9h 29min
+
+[View on Apple](https://books.apple.com/de/audiobook/die-ehefrau-was-hat-sie-zu-verbergen/id1807980252)
+
+<a id="sie-kann-dich-ho-ren"></a>
+## Sie kann dich hören
+
+![Sie kann dich hören](../../logos/1704425015-2fde3419.png)
+
+<b>Die packende Geschichte von Millie geht weiter: Ein neuer Job. Ein luxuriöses Appartement. Eine Frau, die Millies Hilfe benötigt. Doch nichts ist, wie es scheint.</b><br /><br />Millie Calloway hat einen neuen Job. Um sich ihr Studium zu finanzieren, hilft sie einem reichen Paar aus Manhattan im Haushalt. Ihr Arbeitgeber Douglas Garrick wirkt nett, und zum Glück stellt er ihr nicht zu viele Fragen zu ihrer Vergangenheit. Doch warum darf Millie nicht mit seiner Frau Wendy sprechen? Was bedeuten das Weinen, das sie aus dem verschlossenen Zimmer hört, und die Blutflecke auf Wendys Kleidung? Ist Douglas in Wahrheit nicht der fürsorgliche Ehemann, der er vorgibt zu sein? Millie weiß nur eins: Sie muss Wendy helfen. Auch wenn sie damit riskiert, dass ihr dunkelstes Geheimnis doch noch ans Licht kommt.<br /><br />Gekürzte Lesung mit Leonie Landa, Vanida Karun<br />7h 16min
+
+[View on Apple](https://books.apple.com/de/audiobook/sie-kann-dich-h%C3%B6ren/id1704425015)
+
 <a id="das-kind-in-dir-muss-heimat-finden"></a>
 ## Das Kind in dir muss Heimat finden
 
@@ -338,6 +393,24 @@ Leser:innen über Freida McFadden:
 <b>Direkt, echt, lebensnah – die neue Erfolgsautorin in<br />der Lebenshilfe.</b><br /><br />Jeder Mensch sehnt sich danach, angenommen und geliebt zu werden. Im Idealfall entwickeln wir während unserer Kindheit das nötige Selbst- und Urvertrauen, das uns als Erwachsene durchs Leben trägt. Doch auch die erfahrenen Kränkungen prägen sich ein und bestimmen unbewusst unser gesamtes Beziehungsleben. Erfolgsautorin Stefanie Stahl hat einen neuen, wirksamen Ansatz zur Arbeit mit dem "inneren Kind" entwickelt: Wenn wir Freundschaft mit ihm schließen, bieten sich erstaunliche Möglichkeiten, Konflikte zu lösen, Beziehungen glücklicher zu gestalten und auf (fast) jedes Problem eine Antwort zu finden.
 
 [View on Apple](https://books.apple.com/de/audiobook/das-kind-in-dir-muss-heimat-finden/id1437376330)
+
+<a id="das-ka-nguru-manifest-die-ka-nguru-werke-2"></a>
+## Das Känguru-Manifest (Die Känguru-Werke 2)
+
+![Das Känguru-Manifest (Die Känguru-Werke 2)](../../logos/1500633929-1b2eeeb8.png)
+
+Sie sind wieder da – das kommunistische Känguru und der stoische Kleinkünstler! Auf der Jagd nach dem höchstverdächtigen Pinguin rasen sie durch die ganze Welt. Spektakuläre Enthüllungen! Skandale! Intrigen! Ein Mord, für den sich niemand interessiert! Eine Verschwörung auf niedrigster Ebene! Ein völlig abstruser Weltbeherrschungsplan! Mit Spaß, Spannung und Schnapspralinen ...
+
+[View on Apple](https://books.apple.com/de/audiobook/das-k%C3%A4nguru-manifest-die-k%C3%A4nguru-werke-2/id1500633929)
+
+<a id="splitterseele"></a>
+## Splitterseele
+
+![Splitterseele](../../logos/1852615307-699f69fe.png)
+
+<b>Eine Anschlagsserie im Herzen Oslos und eine zutiefst dunkle Wahrheit – der neue atemlose Thriller von SPIEGEL-Bestsellerautor Samuel Bjørk.</b><br /><br />In Oslo betritt eine verängstigte Frau eine U-Bahn, um den Körper einen Sprengstoffgürtel. Panik bricht aus. Dann explodiert die Bombe. Kurz darauf erhält die Journalistin Jessica Blomqvist einen Anruf von einem Unbekannten, der ihr eine weitere Tat ankündigt. Mit dem Fall werden der erfahrene Kommissar Holger Munch und sein Team betraut, zu dem auch die brillante junge Ermittlerin Mia Krüger zählt. Auf dem Küchentisch der Frau aus der U-Bahn stoßen Munch und Mia auf drei rätselhafte Gegenstände, darunter eine kleine Luchsfigur. Noch bevor sie die Hinweise entschlüsseln können, geht in einem belebten Park der Stadt erneut eine Bombe hoch. Für Munch und Mia beginnt ein atemloser Wettlauf gegen die Zeit. Denn der Täter hat sein seelenloses Spiel gerade erst begonnen …<br /><br />Gekürzte Lesung mit Dietmar Wunder<br />10h 48min
+
+[View on Apple](https://books.apple.com/de/audiobook/splitterseele/id1852615307)
 
 <a id="22-kurzgeschichten-die-dein-denken-vera-ndern-werden"></a>
 ## 22 Kurzgeschichten, die dein Denken verändern werden
@@ -354,6 +427,35 @@ Lass dich inspirieren, berühren und bestärken – Geschichte für Geschichte.
 Denn manchmal genügt schon ein Gedanke, um dein ganzes Leben zu verändern.
 
 [View on Apple](https://books.apple.com/de/audiobook/22-kurzgeschichten-die-dein-denken-ver%C3%A4ndern-werden/id1849959883)
+
+<a id="der-thron-der-lilie"></a>
+## Der Thron der Lilie
+
+![Der Thron der Lilie](../../logos/1852615686-98ab362f.png)
+
+<b>Die grandiose Fortsetzung von "Das Reich der Rose"</b><br /><br />Frankreich 1297. Während der Papst und der französische König einen erbitterten Machtkampf austragen, werden der Ritter Constantin Fleury, die Goliardin Mélisande und der Templer Gérard d’Acre von den Schatten ihrer Vergangenheit eingeholt. Feinde Constantins entführen Mélisande und seine schwangere Frau Agnès. Für die beiden Frauen beginnt ein Kampf ums Überleben. Um sie zu retten, muss Constantin sich hoch verschulden. Sein Freund Gérard, der sich auf einer heiklen Mission für den Templerorden befindet, hilft ihm, das Lösegeld nach Flandern zu bringen. Die rebellische Grafschaft taumelt am Rande eines Krieges, der Kronvasall Constantin gilt den Aufständischen als Todfeind. Auf der gefahrvollen Reise wird Gérard zudem mit alten Sünden konfrontiert und droht, an seiner Schuld zu zerbrechen …<br /><br />leicht gekürzte Lesung mit Johannes Steck<br />18h 49min
+
+[View on Apple](https://books.apple.com/de/audiobook/der-thron-der-lilie/id1852615686)
+
+<a id="john-of-john-ungeku-rzt"></a>
+## John of John (ungekürzt)
+
+![John of John (ungekürzt)](../../logos/1862090114-6fd3d69b.png)
+
+Ohne Geld und mit wenig vorzuweisen nach seiner Ausbildung an der Kunsthochschule, nimmt Cal die Fähre nach Hause auf die Insel Harris und all das, vor dem er nach Edinburgh geflüchtet war, ist wieder da: das karge Leben auf den Hebriden, der windgepeitschte Kreislauf aus Schafzucht und Nächten am Webstuhl, die Enge der Inselgemeinschaft.
+Sein Vater hat ihn nach Hause in sein altes Leben beordert. John, dem er all sein Wissen über Farben und Wolle verdankt, dessen Hingabe als Tweed-Weber er liebt und dessen presbyterianische Strenge er hasst. Sie sind einander so nah und kennen sich so wenig, blind für das wohlgehütete Geheimnis des anderen. Niemals könnte Cal dem Vater von seiner Sehnsucht nach einem Partner erzählen, wo dieser schon seine langen Haare als Sünde ahndet. Stattdessen sucht Cal immer mehr die Nähe von Innes, Johns sanftem bestem Freund, während sich die Fäden, die ihre fragile Gemeinschaft zusammenhalten, immer dichter verweben.
+Ein großer Roman über Verpflichtung und Verblendung, Liebe und Scham und die verwandelnde Kraft der Wahrheit.
+
+[View on Apple](https://books.apple.com/de/audiobook/john-of-john-ungek%C3%BCrzt/id1862090114)
+
+<a id="kreuzweg-der-raben-the-witcher-band-6"></a>
+## Kreuzweg der Raben: The Witcher, Band 6
+
+![Kreuzweg der Raben: The Witcher, Band 6](../../logos/1835499768-d4cda41e.png)
+
+Die Saga geht weiter ... das Ende ist der Anfang Der Großmeister der Fantasy kehrt zurück in die Jugendjahre von Geralt| der seine ersten Schritte als Hexer macht und sich zahlreichen tödlichen Herausforderungen stellen muss. Bewaffnet mit zwei Runenschwertern bekämpft er Monster| rettet unschuldige Jungfrauen und eilt unglücklich Verliebten zu Hilfe. Dabei versucht er immer und überall dem ungeschriebenen Kodex zu folgen| den ihm seine Lehrer und Mentoren mitgegeben haben. Doch bleiben ihm dabei keine Enttäuschungen erspart| und sein jugendlicher Idealismus muss bittere Erfahrungen hinnehmen. Doch Geralt gibt nicht auf … niemals!
+
+[View on Apple](https://books.apple.com/de/audiobook/kreuzweg-der-raben-the-witcher-band-6/id1835499768)
 
 <a id="nightworld-academy-gesamtausgabe-1-10"></a>
 ## Nightworld Academy - Gesamtausgabe (1-10)
@@ -373,6 +475,15 @@ Sie ist an einer Schule für Hexen, Gestaltwandler und Vampire und alle Häuser 
 
 [View on Apple](https://books.apple.com/de/audiobook/nightworld-academy-gesamtausgabe-1-10/id1895657130)
 
+<a id="du-schon-wieder-k-ein-scheidungsroman"></a>
+## Du schon wieder!: (K)ein Scheidungsroman
+
+![Du schon wieder!: (K)ein Scheidungsroman](../../logos/6790437757-d3462759.png)
+
+Passt es einfach nicht, oder verdient die Liebe doch noch eine zweite Chance? Beziehung reloaded? Klingt nach gar keiner guten Idee. Trotzdem gerät Krankenhausärztin Fanny ganz schön ins Wanken, als ihr Ex Dustin in die Notaufnahme eingeliefert wird. Plötzlich brodeln wieder Gefühle in ihr. Und das, obwohl sie in einer neuen Beziehung ist – genau wie Dustin. Noch krasser wird's, als die beiden eine heimliche Affäre beginnen. Was zur Hölle soll das werden? Als die Sache dann auffliegt, steht das gesamte Umfeld kopf, und Fanny muss sich entscheiden: Ex und hopp? Oder noch einmal mit Gefühl? Einmalig komisch und immer romantisch schreibt Bestsellerautorin Ellen Berg über die Frage, wie schlechtes Timing dem Glück im Wege stehen kann.
+
+[View on Apple](https://books.apple.com/de/audiobook/du-schon-wieder-k-ein-scheidungsroman/id6790437757)
+
 <a id="verliebt-in-greenkenny-irish-lovestories-ein-irland-liebesroman-band-1-ungeku-rzt"></a>
 ## Verliebt in Greenkenny - Irish Lovestories - Ein Irland-Liebesroman, Band 1 (Ungekürzt)
 
@@ -387,6 +498,15 @@ Sie ist an einer Schule für Hexen, Gestaltwandler und Vampire und alle Häuser 
 
 [View on Apple](https://books.apple.com/de/audiobook/verliebt-in-greenkenny-irish-lovestories-ein-irland/id1737744109)
 
+<a id="die-geschichte-in-mir-eine-deutsche-familie-im-20-jahrhundert"></a>
+## Die Geschichte in mir. Eine deutsche Familie im 20. Jahrhundert
+
+![Die Geschichte in mir. Eine deutsche Familie im 20. Jahrhundert](../../logos/6768996810-0aa326c3.png)
+
+Rüdiger von Fritsch hat sein Leben als Diplomat der Verständigung der Völker verschrieben, sein Vater das seinige »unserer herrlichen Bewegung«, dem Nationalsozialismus. Für Thomas von Fritsch waren »Deutschlands Feinde« schuld an dem unendlichen Verlust an Heimat, Haus und Menschen, der die Erzählungen der Erwachsenen während der Kindheit des Autors bestimmt. Der ehemalige Botschafter in Warschau und Moskau erzählt, wie ihm als Kind dämmerte, dass es in Wahrheit die Deutschen gewesen waren, die furchtbares Leid über den europäischen Kontinent und seine Menschen gebracht hatten. Sein Buch handelt davon, wie er sich schließlich dem geliebten Vater und seiner Ideologie entgegenstellte. Am Beispiel seiner Familie entwirft Rüdiger von Fritsch ein Panorama des 20. Jahrhunderts. Ein eindringlich und literarisch erzähltes Buch, das zeigt, wie wichtig und wie schwer es ist, über Schuld und Verstrickung in der eigenen Familie zu sprechen.
+
+[View on Apple](https://books.apple.com/de/audiobook/die-geschichte-in-mir-eine-deutsche-familie-im-20-jahrhundert/id6768996810)
+
 <a id="karneval-der-lu-gen-cherringham-landluft-kann-to-dlich-sein-folge-50-ungeku-rzt"></a>
 ## Karneval der Lügen - Cherringham - Landluft kann tödlich sein, Folge 50 (Ungekürzt)
 
@@ -398,6 +518,15 @@ Im sonst so beschaulichen Cherringham herrscht Ausnahmezustand: Es ist Sommer-Ka
 
 [View on Apple](https://books.apple.com/de/audiobook/karneval-der-l%C3%BCgen-cherringham-landluft-kann-t%C3%B6dlich/id6772132058)
 
+<a id="der-hobbit"></a>
+## Der Hobbit
+
+![Der Hobbit](../../logos/1435742775-4b82a497.png)
+
+Bilbo Beutlin, der kleine Hobbit, macht sich auf den Weg zum Einsamen Berg, um den rechtmäßigen Schatz der Zwerge zurückzuholen, den der Drache Smaug gestohlen hat. Als er auf seiner Reise einen Ring findet und ihn arglos einsteckt, ahnt er nicht, was für eine Rolle der Ring einmal spielen wird ...<br />Gert Heidenreich, die Stimme J.R.R. Tolkiens, erzählt, wie Bilbo sich vom ängstlichen Hobbit zum mutigen Meisterdieb mausert. Wort für Wort ist jetzt das Schicksal Mittelerdes und somit das Tolkiensche Werk zu hören.
+
+[View on Apple](https://books.apple.com/de/audiobook/der-hobbit/id1435742775)
+
 <a id="der-nachbar"></a>
 ## Der Nachbar
 
@@ -406,6 +535,24 @@ Im sonst so beschaulichen Cherringham herrscht Ausnahmezustand: Es ist Sommer-Ka
 Sie dachte, ihre größte Angst ist es, allein zu sein. Bis sie herausfindet, dass sie es nie war...<br /><br />Wer ist der "Nachbar"?<br /><br /><i>Der Nachbar</i> - Sebastian Fitzeks raffinierter Gänsehaut-Thriller für 2025<br /><br />Die Strafverteidigerin Sarah Wolff leidet an Monophobie, der Angst vor Einsamkeit. Was sie nicht weiß: Nachdem sie mit ihrer Tochter an den Stadtrand Berlins gezogen ist, hat sie einen unsichtbaren Nachbarn, der sie keine Sekunde lang allein lassen wird ...<br /><br />Das Unheimliche lauert im engsten Umfeld - der neue nervenzerreißende Psychothriller von #1-Bestseller-Autor Sebastian Fitzek sorgt für garantiert unruhige Nächte!
 
 [View on Apple](https://books.apple.com/de/audiobook/der-nachbar/id1836179259)
+
+<a id="das-cafe-am-rande-der-welt-the-cafe-on-the-edge-of-the-world-eine-erza-hlung-u-ber-den-sinn-des-lebens-a-narrative-about-the-meaning-of-life-unabridged"></a>
+## Das Café am Rande der Welt [The Cafe on the Edge of the World]: Eine Erzählung über den Sinn des Lebens [A Narrative About the Meaning of Life] (Unabridged)
+
+![Das Café am Rande der Welt \[The Cafe on the Edge of the World\]: Eine Erzählung über den Sinn des Lebens \[A Narrative About the Meaning of Life\] (Unabridged)](../../logos/1450302424-c5fff0f8.png)
+
+In einem Café mitten im Nirgendwo wird John mit 3 Sinnfragen konfrontiert. "Die Möwe Jonathan für das neue Jahrtausend."<br /><br />Ein kleines Café mitten im Nirgendwo wird zum Wendepunkt im Leben von John, einem Werbemanager, der stets in Eile ist. Eigentlich will er nur kurz Rast machen, doch dann entdeckt er auf der Speisekarte neben dem Menü des Tages drei Fragen: "Warum bist du hier? Hast du Angst vor dem Tod? Führst du ein erfülltes Leben?" Wie seltsam - doch einmal neugierig geworden, will John mithilfe des Kochs, der Bedienung und eines Gastes dieses Geheimnis ergründen. Die Fragen nach dem Sinn des Lebens führen ihn gedanklich weit weg von seiner Vorstandsetage an die Meeresküste von Hawaii. Dabei verändert sich seine Einstellung zum Leben und zu seinen Beziehungen, und er erfährt, wie viel man von einer weisen grünen Meeresschildkröte lernen kann. So gerät diese Reise letztlich zu einer Reise zum eigenen Selbst. Ein ebenso lebendig geschriebenes, humorvolles wie anrührendes Hörbuch.<br /><br />&#xa0;<b>Please note: This audiobook is in German.</b>
+
+[View on Apple](https://books.apple.com/de/audiobook/das-caf%C3%A9-am-rande-der-welt-the-cafe-on-the-edge/id1450302424)
+
+<a id="flammen-und-finsternis-das-reich-der-sieben-ho-fe-teil-2-a-court-of-mist-and-fury"></a>
+## Flammen und Finsternis: Das Reich der sieben Höfe – Teil 2: A Court of Mist and Fury
+
+![Flammen und Finsternis: Das Reich der sieben Höfe – Teil 2: A Court of Mist and Fury](../../logos/1262044477-87792653.png)
+
+Feyre hat überlebt. Sie hat Amarantha, die grausame Fae-Königin, besiegt und ist mit Tamlin an den Frühlingshof zurückgekehrt. Doch das scheinbar glückliche Ende täuscht. Tamlin verändert sich immer mehr und nimmt ihr allen Freiraum. Feyre hat Albträume, denn sie kann die schrecklichen Dinge nicht vergessen, die sie tun musste, um Tamlin zu retten. Und sie ist einen riskanten Handel mit Rhys eingegangen, an dessen gefürchtetem Hof der Nacht sie nun jeden Monat eine Woche verbringen muss. Dort wird sie immer tiefer in ein Netz aus Intrigen, Machtspielen und ungezügelter Leidenschaft gezogen.
+
+[View on Apple](https://books.apple.com/de/audiobook/flammen-und-finsternis-das-reich-der-sieben-h%C3%B6fe-teil/id1262044477)
 
 <a id="psycho-cybernetics-updated-and-expanded"></a>
 ## Psycho-Cybernetics (Updated and Expanded)
@@ -438,6 +585,40 @@ Völlig unerwartet trifft sie in dem Haus auf den Klippen auf Avas Sohn Ethan, d
 Als ob der Eberhofer Franz nicht schon Ärger genug hätte. Nein, jetzt muss die Susi-Maus sich auch noch als frischgebackene Bürgermeisterin wichtigmachen. Dabei hat er ganz andere Sorgen, nämlich einen Mordfall, einen waschechten. Zumindest glaubt das der Richter Moratschek, dessen geliebte Patentochter Letitia sicher nicht von ganz allein in Südtirol vom Berg gestürzt ist. Dem Eberhofer kommt das auch spanisch vor – oder eher italienisch! Und so kraxelt er auf den Spuren des vermeintlichen Mordopfers in den Dolomiten herum. Und der Rudi, der muss derweil beim Hauptverdächtigen auf dem Campingplatz ermitteln – inkognito, versteht sich. Na, sauber!
 
 [View on Apple](https://books.apple.com/de/audiobook/apfelstrudel-alibi-franz-eberhofer-band-13/id1839879244)
+
+<a id="eden-wenn-das-sterben-beginnt"></a>
+## EDEN - Wenn das Sterben beginnt
+
+![EDEN - Wenn das Sterben beginnt](../../logos/1831395606-8deffe1a.png)
+
+<b>Das Sterben hat begonnen – der neue rasante Thriller von SPIEGEL-Bestsellerautor Marc Elsberg</b><br /><br />Frühjahr: In der Karibik attackiert ein Riesenkalmar vor den Augen entsetzter Touristen einen Walhai. In der Bucht von Triest treiben Schwärme toter Fische. Im Amazonas verdorrt der Boden. Lokale Einzelphänomene der Natur – so scheint es. Doch weltweit beginnt etwas zu kippen …<br />Als das neue KI-Programm des IT-Experten Piero Manzano Alarm schlägt, ist die Prognose eindeutig: Binnen Monaten droht eine globale Megakrise. Gemeinsam mit dem reichweitenstarken Influencer Linus Strand und der jungen Meeresbiologin Sarah Keller macht Piero die Warnung öffentlich – und sie alle damit zur Zielscheibe. Mächtige Gegenspieler tun alles, um sie zum Schweigen zu bringen, während sich am Horizont ein Sturm zusammenbraut …<br /><br />Gekürzte Lesung mit Dietmar Wunder<br />15h 29min
+
+[View on Apple](https://books.apple.com/de/audiobook/eden-wenn-das-sterben-beginnt/id1831395606)
+
+<a id="die-verschlossene-tu-r-ungeku-rzt"></a>
+## Die verschlossene Tür (Ungekürzt)
+
+![Die verschlossene Tür (Ungekürzt)](../../logos/6767566127-bced3d1a.png)
+
+[View on Apple](https://books.apple.com/de/audiobook/die-verschlossene-t%C3%BCr-ungek%C3%BCrzt/id6767566127)
+
+<a id="yesteryear"></a>
+## Yesteryear
+
+![Yesteryear](../../logos/1852667989-bab84e6f.png)
+
+<b>Ihr Leben ist perfekt –solange man nicht hinter die Kulissen schaut</b><br /><br />Natalie Heller Mills hat alles: eine malerisch renovierte Farm, sechs Kinder, die um ihre Liebe buhlen, und einen Mann, der in Cowboy Stiefeln immerhin eine gute Figur abgibt. Vom Sauerteig bis zur Kindererziehung, nichts scheint ihr zu misslingen. Kein Wunder also, dass ihr Millionen von Menschen folgen, ihre Videos schauen, ihre Bilder anklicken. Sie gibt ihnen das, was sie wollen: eine heile Welt. Skandale werden unter den Teppich gekehrt, da, wo sie hingehören. <br />Doch eines Tages wacht Natalie auf und sieht sich mit einer unbequemen Frage konfrontiert: Was wäre, wenn sie keine Nannys beschäftigen könnte, es keine helfenden Hände auf der Farm gibt, kein Produktionsteam? Was wäre, wenn sie auf einmal das Leben führen müsste, dass sie immer vorgetäuscht hat?<br /><br />Ungekürzte Lesung mit Lisa Hrdina<br />14h 35min
+
+[View on Apple](https://books.apple.com/de/audiobook/yesteryear/id1852667989)
+
+<a id="blood-du-sollst-bereuen"></a>
+## Blood – Du sollst bereuen
+
+![Blood – Du sollst bereuen](../../logos/1884757965-169f7c79.png)
+
+<b>Laut, krass, dark und sexy – Teil 2 der heißersehnten Thriller-Serie als Hörbuch!</b><br /><br />Lana Myers ist jung, erfolgreich und seit Kurzem in einer glücklichen Beziehung mit dem FBI-Agenten Logan Bennett. Alles scheint perfekt. Was Logan aber nicht weiß: Lana ist die meistgesuchte Serienmörderin des Landes. Ihr Motiv ist Rache an einer Gruppe Männer, die ihr vor zehn Jahren unsagbares Leid angetan haben. Noch kann sie ihre wahre Identität geheim halten, doch Logan und sein Profiler-Team arbeiten unermüdlich an ihrem Fall. Ein einziger Fehler könnte Lanas Vergeltungsplan zum Einsturz bringen. Und sie ihre große Liebe kosten. Besonders seit Logans Kollegin Hadley sie im Visier hat …<br /><br />Ungekürzte Lesung mit Viola Müller, Richard Lingscheidt<br />3h 51min
+
+[View on Apple](https://books.apple.com/de/audiobook/blood-du-sollst-bereuen/id1884757965)
 
 <a id="gesamtausgabe-der-thron-der-magier"></a>
 ## Gesamtausgabe - Der Thron der Magier
@@ -491,14 +672,14 @@ Sommer, Strand und Schlagermord - ein witziger, spannender Krimi zum Wohlfühlen
 
 [View on Apple](https://books.apple.com/de/audiobook/tote-singen-keine-schlager-sommer-strand-und-schlagermord/id6783055760)
 
-<a id="die-ehefrau-was-hat-sie-zu-verbergen"></a>
-## Die Ehefrau – Was hat sie zu verbergen?
+<a id="die-13-1-2-leben-des-ka-pt-n-blauba-r-das-original"></a>
+## Die 13 1/2 Leben des Käpt'n Blaubär - das Original
 
-![Die Ehefrau – Was hat sie zu verbergen?](../../logos/1807980252-aab160db.png)
+![Die 13 1/2 Leben des Käpt'n Blaubär - das Original](../../logos/1707768112-8e218328.png)
 
-<b>In diesem Haus ist nichts so, wie es scheint: Nr.-1-Bestsellerautorin Freida McFadden ist die Queen der packenden Twists!</b><br /><br />Sylvia Robinson wird im Haus der Barnetts als private Pflegekraft eingestellt. Nach einem Unfall benötigt Victoria Barnett rund um die Uhr Betreuung. Sie kann weder gehen noch sprechen und ist an ihr Bett im obersten Stockwerk des Hauses gefesselt. Daher hat ihr Mann Sylvia als Unterstützung hinzugeholt. Doch schon bald hat Sylvia das Gefühl, dass Victoria nicht so hilflos ist, wie sie scheint. Dann entdeckt sie Victorias Tagebuch versteckt in einer Kommode. Und was sie darin liest, zieht ihr den Boden unter den Füßen weg. <br /><br />leicht gekürzte Lesung mit Chantal Busse, Jodie Ahlborn<br />9h 29min
+<b>Die legendäre Originalversion der Lesung von Dirk Bach – pur, ungekürzt, virtuos</b><br /><br />Man schrieb das Jahr 2002, als Dirk Bach ins Studio ging und seine charakteristische Stimme dem berühmten Käpt'n Blaubär, dem Held des ersten Romans von Walter Moers, seine Stimme lieh. Und so wurde der phantastische Kontinent Zamonien samt seiner Bewohner von Bachs leidenschaftlicher Virtuosität zum Leben erweckt: Zwergpiraten, Klabautergeister, Waldspinnenhexen, Tratschwellen, Stollentrolle, Finsterbergmaden, eine Berghutze, einen Riesen ohne Kopf, einen Kopf ohne Riese, schlafwandelnde Yetis, einen ewigen Tornado, Rikschadämonen, einen Prinz aus einer anderen Dimension, einen Professor mit sieben Gehirnen, denkenden Sand, eine kulinarische Insel, Kanaldrachen, dramatische Lügenduelle, Nattifftoffen, viereckige Sandstürme, eklige Kakertratten, das Tal der verworfenen Ideen, Horchlöffelchen, Zeitschnecken, Olfaktillen, einen Malmstrom, tödliche Gefahren, ewige Liebe, Rettungen in allerletzter Sekunde – und vieles andere mehr.<br /><br />Ungekürzte Lesung mit Dirk Bach<br />18h 21min
 
-[View on Apple](https://books.apple.com/de/audiobook/die-ehefrau-was-hat-sie-zu-verbergen/id1807980252)
+[View on Apple](https://books.apple.com/de/audiobook/die-13-1-2-leben-des-k%C3%A4ptn-blaub%C3%A4r-das-original/id1707768112)
 
 <a id="nonstop-kissing-the-boss"></a>
 ## nonStop kissing the Boss
@@ -510,6 +691,44 @@ Als ihr Boss Max Conrad sie in sein Büro ruft, rechnet Indy mit dem Schlimmsten
 Doch was, wenn es nicht bei einer Nacht bleibt – und niemand von dem Arrangement erfahren darf?
 
 [View on Apple](https://books.apple.com/de/audiobook/nonstop-kissing-the-boss/id1723991872)
+
+<a id="der-seelenbrecher"></a>
+## Der Seelenbrecher
+
+![Der Seelenbrecher](../../logos/296007679-2acbf09f.png)
+
+Drei Frauen - alle jung, schön und lebenslustig - verschwinden spurlos. Nur eine Woche in den Fängen des Psychopathen, den die Presse den "Seelenbrecher" nennt, genügt: Als man die Frauen wieder aufgreift, sind sie verwahrlost, psychisch gebrochen, wie lebendig in ihrem eigenen Körper begraben. Kurz vor Weihnachten wird der Seelenbrecher wieder aktiv, ausgerechnet in einer psychiatrischen Luxusklinik. Ärzte und Patienten müssen entsetzt feststellen, dass man den Täter unerkannt eingeliefert hat, kurz bevor die Klinik durch einen Schneesturm völlig von der Außenwelt abgeschnitten wurde. Verzweifelt versuchen die Eingeschlossenen einander zu schützen - doch in der Nacht des Grauens, die nun folgt, zeigt der Seelenbrecher, dass es kein Entkommen gibt...
+
+[View on Apple](https://books.apple.com/de/audiobook/der-seelenbrecher/id296007679)
+
+<a id="hamptons-prestige-sparks-scandals"></a>
+## Hamptons Prestige - Sparks & Scandals
+
+![Hamptons Prestige - Sparks & Scandals](../../logos/1807978694-b2ab57ae.png)
+
+<b>Zwischen Anziehung und Abgrund liegt manchmal nur ein einziger Kuss …</b><br /><br />Als June von ihrer Freundin Ashley eingeladen wird, die Semesterferien bei deren Familie in den Hamptons zu verbringen, ahnt sie nicht, dass diese Wochen ihr Leben verändern werden. Denn die Thornburys sind nicht nur Teil der High Society, ihnen gehört auch das Hamptons Prestige, der exklusivste Members’ Club der Insel. Bei einer Party lernt June Cameron kennen, der ihr den Kopf verdreht. Und dann ist da auch noch Ashleys Bruder Weston. Obwohl June ihn nicht ausstehen kann, lassen dessen Blicke ihr Herz ungewollt höherschlagen. Doch in den Hamptons, wo sich Lügen und Liebeleien die Hand reichen, ist es ausgerechnet die Wahrheit, die niemals schläft …<br /><b>Spicy New Adult Romance trifft auf Geheimnisse und High Society – mit den beliebten Tropes Love Triangle, Best Friend’s Brother, Broken Hero und Bad Boy vs. Good Guy</b><br /><br />Ungekürzte Lesung mit Pia-Rhona Saxe, Flemming Stein, Vincent Fallow<br />9h 1min<br /><br />Enthaltene Tropes: Love Triangle, Broken Hero/Heroine<br />Spice-Level: 3 von 5
+
+[View on Apple](https://books.apple.com/de/audiobook/hamptons-prestige-sparks-scandals/id1807978694)
+
+<a id="die-geheimnisvolle-insel"></a>
+## Die geheimnisvolle Insel
+
+![Die geheimnisvolle Insel](../../logos/350359041-7e9c007d.png)
+
+Während des amerikanischen Bürgerkrieges gelingt Cyrus Smith zusammen mit einigen seiner Mithäftlinge die Flucht aus einem Gefangenenlager in einem Ballon. Nach einem langen Irrflug stranden sie auf einer scheinbar verlassenen Pazifikinsel. Cyrus und seine Gefährten richten sich auf dem Eiland ein. Doch sie sind nicht alleine. Ein Unbekannter rettet ihnen mehrfach das Leben. Wer ist dieser Fremde, und was führt er im Schilde? Wird Cyrus und seinen Freunden jemals die Flucht von der Insel gelingen? Der große Klassiker von Jules Verne, gesprochen von Reinhard Kuhnert. 
+<br />&gt;&gt; Diese ungekürzte Hörbuch-Fassung ist ausschließlich im Download erhältlich.
+
+[View on Apple](https://books.apple.com/de/audiobook/die-geheimnisvolle-insel/id350359041)
+
+<a id="monster-1983-die-komplette-3-staffel"></a>
+## Monster 1983: Die komplette 3. Staffel
+
+![Monster 1983: Die komplette 3. Staffel](../../logos/1303507665-163b44ba.png)
+
+Amy ist zurück in Harmony Bay - und mit ihr das Monster. Cody weiß, dass seine kleine Tochter eine Gefahr für die gesamte Stadt darstellt, und trotzdem kann er es nicht zulassen, dass irgendjemand ihr etwas antut. Eine echte Zerreißprobe bahnt sich an. 
+<br /><br />Als sich unter den Einwohnern der kleinen Küstenstadt ein merkwürdiges Virus verbreitet, das die Betroffenen unkontrollierbar macht, scheint der Nachtmahr allerdings nicht mehr die einzige Gefahr zu sein. Sheriff Landers muss handeln, um seine Stadt zu retten - und trifft dabei eine folgenschwere Entscheidung...
+
+[View on Apple](https://books.apple.com/de/audiobook/monster-1983-die-komplette-3-staffel/id1303507665)
 
 <a id="artgerecht-das-andere-kleinkinderbuch"></a>
 ## artgerecht - Das andere Kleinkinderbuch
@@ -533,14 +752,18 @@ Aber Milton wird reingelegt und schwer verletzt. Unbewaffnet und allein flieht e
 
 [View on Apple](https://books.apple.com/de/audiobook/das-schwert-gottes-thriller-john-milton-5/id1896274945)
 
-<a id="sie-kann-dich-ho-ren"></a>
-## Sie kann dich hören
+<a id="nein-sagen-u-ber-den-20-juli-1944-meine-eltern-und-perso-nliche-verantwortung-heute-ungeku-rzte-autorenlesung"></a>
+## Nein sagen - Über den 20. Juli 1944, meine Eltern und persönliche Verantwortung heute (Ungekürzte Autorenlesung)
 
-![Sie kann dich hören](../../logos/1704425015-2fde3419.png)
+![Nein sagen - Über den 20. Juli 1944, meine Eltern und persönliche Verantwortung heute (Ungekürzte Autorenlesung)](../../logos/1874020286-746f92bb.png)
 
-<b>Die packende Geschichte von Millie geht weiter: Ein neuer Job. Ein luxuriöses Appartement. Eine Frau, die Millies Hilfe benötigt. Doch nichts ist, wie es scheint.</b><br /><br />Millie Calloway hat einen neuen Job. Um sich ihr Studium zu finanzieren, hilft sie einem reichen Paar aus Manhattan im Haushalt. Ihr Arbeitgeber Douglas Garrick wirkt nett, und zum Glück stellt er ihr nicht zu viele Fragen zu ihrer Vergangenheit. Doch warum darf Millie nicht mit seiner Frau Wendy sprechen? Was bedeuten das Weinen, das sie aus dem verschlossenen Zimmer hört, und die Blutflecke auf Wendys Kleidung? Ist Douglas in Wahrheit nicht der fürsorgliche Ehemann, der er vorgibt zu sein? Millie weiß nur eins: Sie muss Wendy helfen. Auch wenn sie damit riskiert, dass ihr dunkelstes Geheimnis doch noch ans Licht kommt.<br /><br />Gekürzte Lesung mit Leonie Landa, Vanida Karun<br />7h 16min
+Über den Mut, Nein zu sagen
+Angesichts der neuen Bedrohung der Demokratie durch Rassismus und Fremdenfeindlichkeit erinnert der Schauspieler Matthias Brandt an den Mut der Widerstandskämpfer und -kämpferinnen gegen das NS-Regime, zu denen auch seine Eltern gehörten.
+Matthias Brandt hielt 2025 eine denkwürdige Rede zur Erinnerung an die Widerstandskämpfer des 20. Juli 1944 in der Gedenkstätte Berlin-Plötzensee - dem Ort, an dem viele der Beteiligten an dem Attentat gegen Adolf Hitler hingerichtet wurden.
+Als Sohn des Emigranten und späteren Bundeskanzlers Willy Brandt und seiner Frau Rut nahm Matthias Brandt die Rede zum Anlass, aus heutiger Sicht über den Mut und die Motive der Verschwörer des 20. Juli und vieler anderer Widerstandskämpfer:innen, zu denen auch die eigenen Eltern gehört hatten, nachzudenken und auch sich selbst über notwendige Konsequenzen aus der Geschichte zu befragen.
+Den Ausschlag, sich mit diesem, auf seiner Rede basierenden Buch politisch zu äußern, gaben für Matthias Brandt die bedrohliche Wiederkehr des Rechtsextremismus und die Wahlerfolge der AfD.
 
-[View on Apple](https://books.apple.com/de/audiobook/sie-kann-dich-h%C3%B6ren/id1704425015)
+[View on Apple](https://books.apple.com/de/audiobook/nein-sagen-%C3%BCber-den-20-juli-1944-meine-eltern-und-pers%C3%B6nliche/id1874020286)
 
 <a id="8000-arten-als-mutter-zu-versagen-ungeku-rzte-autorinnenlesung"></a>
 ## 8000 Arten, als Mutter zu versagen (Ungekürzte Autorinnenlesung)
@@ -577,14 +800,41 @@ Rufus Beck liest Band 1 von Harry Potter. Eigentlich hatte Harry geglaubt, er se
 
 [View on Apple](https://books.apple.com/de/audiobook/das-traumhotel-am-meer-ein-romantisches-h%C3%B6rbuch-mit/id1861533590)
 
-<a id="das-ka-nguru-manifest-die-ka-nguru-werke-2"></a>
-## Das Känguru-Manifest (Die Känguru-Werke 2)
+<a id="doppelmord-im-strandhotel"></a>
+## Doppelmord im Strandhotel
 
-![Das Känguru-Manifest (Die Känguru-Werke 2)](../../logos/1500633929-1b2eeeb8.png)
+![Doppelmord im Strandhotel](../../logos/1881666734-009d2024.png)
 
-Sie sind wieder da – das kommunistische Känguru und der stoische Kleinkünstler! Auf der Jagd nach dem höchstverdächtigen Pinguin rasen sie durch die ganze Welt. Spektakuläre Enthüllungen! Skandale! Intrigen! Ein Mord, für den sich niemand interessiert! Eine Verschwörung auf niedrigster Ebene! Ein völlig abstruser Weltbeherrschungsplan! Mit Spaß, Spannung und Schnapspralinen ...
+Sechs Wochen ist es her, dass seine Frau Alex ermordet wurde. Mitleidige Blicke aber verbittet sich Detective Sergeant Declan Miller, als er früher als angekündigt wieder zum Dienst bei der Lancashire Police erscheint. Viel Zeit für Anteilnahme bleibt ohnehin nicht: Im Sands Hotel an der Küste von Blackpool werden in einer Nacht zwei Männer erschossen. Der eine kein unbeschriebenes Blatt: Adrian Cutler war der jüngste Sohn von Wayne Cutler, Anführer einer stadtbekannten Verbrecherbande. Die Identität des anderen Mannes gilt es herauszufinden. Und auch, was den Männern, zwischen denen keine Verbindung zu bestehen scheint, zum Verhängnis wurde. Ein tragischer Irrtum? Ein Doppel-Auftragsmord? Miller hat ein persönliches Interesse an der Aufklärung des Falls: Seine Frau war ebenfalls Polizistin und ermittelte gegen Clans wie die der Cutlers.
 
-[View on Apple](https://books.apple.com/de/audiobook/das-k%C3%A4nguru-manifest-die-k%C3%A4nguru-werke-2/id1500633929)
+[View on Apple](https://books.apple.com/de/audiobook/doppelmord-im-strandhotel/id1881666734)
+
+<a id="du-bist-nicht-allein"></a>
+## Du bist nicht allein
+
+![Du bist nicht allein](../../logos/1852624592-3222a554.png)
+
+<b>Wenn die Mehrheit sich von Politik und Medien nicht mehr repräsentiert fühlt: Jan Fleischhauers stürmische Streitschrift über das "Mehrheitsparadox"</b><br /><br />In diesem Hörbuch beschreibt Jan Fleischhauer ein neues Phänomen, das für unsere Demokratie brandgefährlich ist: Wenn die Mehrheit der Gesellschaft das Gefühl hat, in der Politik und den Medien nicht mehr repräsentiert zu werden. Es ist das Mehrheitsparadox: Der Einzelne denkt, er sei mit seiner Meinung allein, und stellt dann überrascht fest, dass die meisten so denken wie er. Sie schweigen – aus Angst, lächerlich gemacht zu werden. <br />Was die Mehrheit denkt, wie sie lebt und fühlt, ist gut erforscht. Aber es spielt, so zeigt uns der Autor an vielen Beispielen, kaum eine Rolle mehr in den Parteizentralen und Thinktanks, in der Justiz und bei den Journalisten, die darüber bestimmen, was wichtig ist und was nicht. Mit absurden Folgen: Bei der Bundestagswahl 2025 wählte die Mehrheit der Bürger die Regierung ab – und alles bleibt beim alten, jetzt nur mit viel mehr Geld und in doppelter Geschwindigkeit. Die Wahrscheinlichkeit, dass dies für unsere Demokratie auf Dauer schiefgehen wird, ist ziemlich groß.<br /><br />Ungekürzte Lesung mit Jan Fleischhauer<br />10h 28min
+
+[View on Apple](https://books.apple.com/de/audiobook/du-bist-nicht-allein/id1852624592)
+
+<a id="benjamin-blu-mchen-folge-170-in-australien"></a>
+## Benjamin Blümchen, Folge 170: in Australien
+
+![Benjamin Blümchen, Folge 170: in Australien](../../logos/1886334448-63eadcbc.png)
+
+Benjamin und Otto treffen sich in Sydney mit ihrem Freund Djalu. Dort geraten sie zufällig an ein gestohlenes Schnabeltier. Das unter Schutz stehende Tier muss dringend wieder zurück in die Wildnis! Die drei Freunde wollen es in einen sicheren Nationalpark bringen. Eine abenteuerliche Fahrt durch Australien beginnt!
+
+[View on Apple](https://books.apple.com/de/audiobook/benjamin-bl%C3%BCmchen-folge-170-in-australien/id1886334448)
+
+<a id="ikigai"></a>
+## Ikigai
+
+![Ikigai](../../logos/1683682143-0a2b6d96.png)
+
+<b>ikigai ist „das, wofür es sich zu leben lohnt“</b><br /><br />Gleichermaßen anschaulich wie fundiert erklärt der Neurowissenschaftler Ken Mogi anhand von inspirierenden Lebensgeschichten und wissenschaftlichen Erkenntnissen die japanische Philosophie, die hilft, Erfüllung, Zufriedenheit und Achtsamkeit im Leben zu finden.<br />Er gewährt zudem tiefe Einblicke in die japanische Kultur, in der das Verständnis von ikigai allgegenwärtig ist. Japaner trachten danach, ihr ikigai und damit Sinn und Freude im Leben zu finden.<br /><br />Die fünf Säulen des ikigai:<br /><br />1. Klein anfangen<br /><br />2. Loslassen lernen<br /><br />3. Harmonie und Nachhaltigkeit leben<br /><br />4. Die Freude an kleinen Dingen entdecken<br /><br />5. Im Hier und Jetzt sein<br /><br />Ungekürzte Lesung mit Herbert Schäfer<br />4h 18min
+
+[View on Apple](https://books.apple.com/de/audiobook/ikigai/id1683682143)
 
 <a id="der-8-mann"></a>
 ## Der 8. Mann
@@ -623,6 +873,34 @@ Auf dem Rückflug ihres Urlaubes lernt Katja den charismatischen Hotelmanager Se
 
 [View on Apple](https://books.apple.com/de/audiobook/die-kleine-boutique-am-meer/id1837696668)
 
+<a id="tage-am-fluss-ungeku-rzte-lesung"></a>
+## Tage am Fluss (Ungekürzte Lesung)
+
+![Tage am Fluss (Ungekürzte Lesung)](../../logos/6776288783-b28d3087.png)
+
+<b>Manchmal muss man gegen den Strom schwimmen, um bei sich anzukommen!</b><br /><br />An einem heißen Sommertag strandet ein junger Mann bei der Fährfrau Sara Harmsen und bringt all ihre sorgsam errichteten Mauern ins Wanken. Ein Hörbuch über alte Wunden und den Mut, sich wieder auf das Leben einzulassen.<br /><br />Sara Harmsen betreibt eine kleine Fähre, die das Dorf Erlengrund mit dem Rest der Welt verbindet. Mit sieben Hühnern, drei Schafen und der Hündin Luna lebt sie in einem abgelegenen Haus am Fluss. Eines Tages taucht auf Saras Fähre ein junger Mann mit einer Kopfverletzung auf, Leon. Sara verarztet den jungen Mann und versteckt ihn bei sich. Dafür verlangt sie, dass er ihr bei den Arbeiten rund um ihr Haus hilft. Beim Scheren der Schafe, bei der Reparatur des Hühnerstalls und beim Sensen der Obstwiese kommen sich Sara und Leon zögerlich näher und bringen den Mut auf, sich ihren alten Wunden zu stellen. Und sie teilen ihre Liebe zur Natur und die Sorge um unseren Planeten. Als die beiden sich gegen eine geplante Brücke wenden, die Saras Fähre bedroht, sehen sie sich Anfeindungen und Übergriffen aus dem Dorf ausgesetzt. Und dann tritt auch noch der Fluss über die Ufer ...<br /><br />Heike Warmuth und Nils Kretschmer leihen Sara und Leon ihre Stimmen und begleiten uns durch Jochen Mariss' atmosphärisches Romandebüt.<br /><br />Zu diesem Hörbuch gibt es Zusatzmaterial. Eine Anleitung zum Download finden Sie im FAQ des Shops und der argon-Webseite.
+
+[View on Apple](https://books.apple.com/de/audiobook/tage-am-fluss-ungek%C3%BCrzte-lesung/id6776288783)
+
+<a id="throne-of-glass-7-herrscherin-u-ber-asche-und-zorn"></a>
+## Throne of Glass 7: Herrscherin über Asche und Zorn
+
+![Throne of Glass 7: Herrscherin über Asche und Zorn](../../logos/1520239144-459ca362.png)
+
+Aelin wird von der Dunklen Königin gefangen gehalten; eingesperrt in einem Käfig an einem geheimen Ort scheint die Flucht unmöglich zu sein. Während Prinz Rowan die halbe Welt nach seiner verlorenen Liebe absucht, versuchen Aedion und Gestaltenwandlerin Lysandra, ihre Heimat – nun ohne die Macht und den Schutz ihrer Königin – mit allen Mitteln zu verteidigen. Alte Bündnisse werden gebrochen, neue geschmiedet und vertieft, wobei alles auf die letzte große Schlacht hinausläuft, die Aelin Feuerherz und ihre Gefährten für sich entscheiden müssen, um Erilea vor der Herrschaft der Dämonen zu bewahren …
+Dies ist Band 7 der »Throne of Glass«-Reihe. Alle Hörbücher der epischen Fantasy Romance:
+-- Vorgeschichte: Celaenas Geschichte. Novella 1–5
+-- Band 1: Die Erwählte
+-- Band 2: Kriegerin im Schatten&#xa0;
+-- Band 3: Erbin des Feuers
+-- Band 4: Königin der Finsternis
+-- Band 5: Die Sturmbezwingerin&#xa0;
+-- Band 6: Der verwundete Krieger
+-- Band 7: Herrscherin über Asche und Zorn
+Die Reihe ist abgeschlossen.
+
+[View on Apple](https://books.apple.com/de/audiobook/throne-of-glass-7-herrscherin-%C3%BCber-asche-und-zorn/id1520239144)
+
 <a id="der-heilige-tod-thriller-john-milton-2"></a>
 ## Der heilige Tod - Thriller ( John Milton 2 )
 
@@ -638,6 +916,16 @@ Aber das ist leichter gesagt als getan, denn der Mann, der sie sucht, erweist si
 
 [View on Apple](https://books.apple.com/de/audiobook/der-heilige-tod-thriller-john-milton-2/id1874401216)
 
+<a id="die-legende-von-gold-und-jade-4-krieg-und-frieden"></a>
+## Die Legende von Gold und Jade 4: Krieg und Frieden
+
+![Die Legende von Gold und Jade 4: Krieg und Frieden](../../logos/1630317916-022ee9ca.png)
+
+Verfolgt – vergessen – geflohen.
+Noa kämpft sich ihren Weg zum Nabel der Welt. Ein Ort, der die lang ersehnte Wahrheit über Noas Vergangenheit enthüllen soll. Auf einer Reise durch die rote Wüste, geprägt durch Sand und Tränen, nicht zuletzt, da das Leben genau die erweckt, die Noa schon längst vergessen hatte. Und während jeder versucht dem Tod zu entkommen, wartet eine rachsüchtige Meute im Schatten, bereit anzugreifen.
+
+[View on Apple](https://books.apple.com/de/audiobook/die-legende-von-gold-und-jade-4-krieg-und-frieden/id1630317916)
+
 <a id="dear-britain"></a>
 ## Dear Britain
 
@@ -651,6 +939,15 @@ Sechs Jahre später und zehn Jahre nach dem Brexit-Referendum fragt sich Annette
 »Dieses fantastische Buch ist ebenso unterhaltsam wie klug. Ein tiefer Blick in die Seele der Briten, geschrieben fast wie ein Roman. Ich konnte nicht aufhören zu lesen!« ULRICH WICKERT
 
 [View on Apple](https://books.apple.com/de/audiobook/dear-britain/id1850499238)
+
+<a id="der-kleine-drache-kokosnuss-im-weltraum"></a>
+## Der kleine Drache Kokosnuss im Weltraum -
+
+![Der kleine Drache Kokosnuss im Weltraum -](../../logos/1436014048-e6aadb00.png)
+
+Der kleine Drache Kokosnuss, Stachelschwein Matilda und Fressdrache Oskar staunen nicht schlecht, als am Strand der Drachenbucht ein Raumgleiter mit einem kleinen Außerirdischen landet. Der Besucher aus dem All hat sich hoffnungslos verirrt und sein Raumgleiter ist kaputt. Kokosnuss &amp; Co. helfen ihm und begleiten ihn nach Hause in die Weiten des Weltraums.<br />(1 CD, Laufzeit: 50 min)
+
+[View on Apple](https://books.apple.com/de/audiobook/der-kleine-drache-kokosnuss-im-weltraum/id1436014048)
 
 <a id="kein-sommer-ohne-august-every-summer-has-a-story-teil-1-ungeku-rzt"></a>
 ## Kein Sommer ohne August - Every Summer Has A Story, Teil 1 (Ungekürzt)
@@ -695,6 +992,24 @@ John Milton war ein Attentäter für den britischen Geheimdienst. Er gehörte zu
 
 [View on Apple](https://books.apple.com/de/audiobook/der-cleaner-thriller-john-milton-1/id1834872690)
 
+<a id="der-schwarm"></a>
+## Der Schwarm
+
+![Der Schwarm](../../logos/1438058279-1f890636.png)
+
+<b>"Der Schwarm" endlich in einer ungekürzten Lesung</b><br /><br />Ein Fischer verschwindet vor der Küste Peru spurlos. Ölbohrexperten stoßen in der norwegischen See auf merkwürdige Organismen, die hunderte Quadratkilometer Meeresboden in Besitz genommen haben. Währenddessen geht mit den Walen entlang der Küste British Columbias eine unheimliche Veränderung vor. Nichts von alledem scheint miteinander in Zusammenhang zu stehen. Doch Sigur Johanson, norwegischer Biologe und Schöngeist, glaubt nicht an Zufälle. Auch der indianische Walforscher Leon Anawak gelangt zu einer beunruhigenden Erkenntnis: Eine Katastrophe bahnt sich an. Doch wer oder was löst sie aus? Während die Welt an den Abgrund gerät, kommen die Wissenschaftler zusammen mit der britischen Journalistin Karen Weaver einer ungeheuerlichen Wahrheit auf die Spur<br /><i>Stefan Kaminski verleiht diesem blitzenden Polit-Thriller von Bestsellerautor Frank Schätzing ein nachhaltiges Echo</i>. SOUNDCLOUD zu Lautlos<br /><br /><i>Kongenial von Stefan Kaminski gelesen, einfach spannungsgeladen. </i>FRÄNKISCHE NACHRICHTEN zu Lautlos <br /><br /><b>(4 mp3-CDs, Laufzeit: 38h 7</b>)
+
+[View on Apple](https://books.apple.com/de/audiobook/der-schwarm/id1438058279)
+
+<a id="harry-potter-und-der-orden-des-pho-nix"></a>
+## Harry Potter und der Orden des Phönix
+
+![Harry Potter und der Orden des Phönix](../../logos/1442757910-c2e74b23.png)
+
+Rufus Beck liest Band 5 von Harry Potter. Es sind Sommerferien und wieder einmal sitzt Harry bei den unmöglichen Dursleys im Ligusterweg fest. Doch diesmal treibt ihn größere Unruhe denn je - Warum schreiben seine Freunde Ron und Hermine nur so rätselhafte Briefe? Und vor allem: Warum erfährt er nichts über die dunklen Mächte, die inzwischen neu erstanden sind und sich unaufhaltsam über Harrys Welt verbreiten? Noch ahnt er nicht, was der geheimnisvolle Orden des Phönix gegen Voldemort ausrichten kann ... Als Harrys fünftes Schuljahr in Hogwarts beginnt, werden seine Sorgen nur noch größer. Und dann schlägt der Dunkle Lord wieder zu. Harry muss seine Freunde um sich scharen, sonst gibt es kein Entrinnen.<br /><br /><i>Titelmusik komponiert von James Hannigan</i>
+
+[View on Apple](https://books.apple.com/de/audiobook/harry-potter-und-der-orden-des-ph%C3%B6nix/id1442757910)
+
 <a id="ihre-perfekte-ehe-thriller-ho-rbuch-wie-weit-wu-rdest-du-gehen-um-deine-familie-zu-beschu-tzen-ungeku-rzt"></a>
 ## Ihre perfekte Ehe  Thriller Hörbuch - Wie weit würdest du gehen, um deine Familie zu beschützen? (Ungekürzt)
 
@@ -708,6 +1023,38 @@ Der fesselnde Thriller, der dich keine Sekunde loslassen wird</b><br /><br />Mar
 <i>"Die Bedrohung ist greifbar, die Charaktere vielschichtig - perfekt für Fans intelligenter und temporeicher Spannungsromane."</i>
 
 [View on Apple](https://books.apple.com/de/audiobook/ihre-perfekte-ehe-thriller-h%C3%B6rbuch-wie-weit-w%C3%BCrdest/id1831234907)
+
+<a id="endlich-nichtraucher"></a>
+## Endlich Nichtraucher
+
+![Endlich Nichtraucher](../../logos/1436234576-9bb9aca6.png)
+
+<b>Die mit Abstand erfolgreichste Methode das Rauchen aufzugeben!</b><br /><br />Mit "Endlich Nichtraucher!" schrieb Allen Carr das weltweit erfolgreichste Buch zur Überwindung der Nikotinsucht. Der ehemalige Kettenraucher hat aufgrund eigener Erfahrungen eine Methode entwickelt, mit der es selbst langjährigen Rauchern gelingt, sich von ihrem Zwang zu lösen. Dieses Hörbuch vermittelt eine geradlinige Schritt-für-Schritt-Anleitung bis zur letzten Zigarette.
+
+[View on Apple](https://books.apple.com/de/audiobook/endlich-nichtraucher/id1436234576)
+
+<a id="the-deal-reine-verhandlungssache"></a>
+## The Deal – Reine Verhandlungssache
+
+![The Deal – Reine Verhandlungssache](../../logos/1704357805-1277ab7c.png)
+
+Sie lässt sich auf einen Deal mit dem College Bad Boy ein …
+Hannah ist verliebt. Doch während die Einser-Studentin sonst kein Blatt vor den Mund nimmt, bringt sie ihrem Crush Justin gegenüber kein Wort heraus. Sie ist ... verzweifelt. Warum sonst hätte sie sich auf das Angebot von Garrett Graham eingelassen, dem selbstverliebten, kindischen und vor allem sturen Captain des Eishockey-Teams?&#xa0;
+Der Deal: Sie gibt ihm Nachhilfe, damit er die Abschlussprüfung besteht, und er gibt vor, dass er sich für Hannah interessiert, damit Justin endlich auf sie aufmerksam wird. Der Plan scheint aufzugehen, aber je mehr Zeit Hannah und Garrett miteinander verbringen, desto stärker verschwimmt die Grenze zwischen gespielten und echten Gefühlen …
+
+[View on Apple](https://books.apple.com/de/audiobook/the-deal-reine-verhandlungssache/id1704357805)
+
+<a id="ostseefluch-pia-korittkis-achter-fall-kommissarin-pia-korittki-8-ungeku-rzt"></a>
+## Ostseefluch - Pia Korittkis achter Fall - Kommissarin Pia Korittki 8 (Ungekürzt)
+
+![Ostseefluch - Pia Korittkis achter Fall - Kommissarin Pia Korittki 8 (Ungekürzt)](../../logos/1577168294-c68ae57e.png)
+
+Kommissarin Pia Korittki ermittelt auf Fehmarn
+Kommissarin Pia Korittki ermittelt auf FehmarnIm Garten eines verwahrlosten Anwesens auf Fehmarn wird die Leiche einer jungen Frau gefunden. Der Mord löst bei Einheimischen und Touristen Entsetzen aus. Doch die Eltern des Opfers scheinen etwas zu verschweigen. Stattdessen heißt es, dass auf dem alten Haus ein Fluch liegen soll.
+Pia Korittki, Kommissarin und alleinerziehende Mutter, glaubt nicht an Geistergeschichten. Aber dann geraten die Ermittlungen in eine Sackgasse, und Pia Korittki erkennt etwas Unglaubliches: dass es Zeit wird, sich mit dem Fluch zu befassen ...
+Der achte Teil der erfolgreichen Krimi-Reihe von Bestsellerautorin Eva Almstädt!
+
+[View on Apple](https://books.apple.com/de/audiobook/ostseefluch-pia-korittkis-achter-fall-kommissarin-pia/id1577168294)
 
 <a id="hollywell-hearts-die-kleine-farm-am-meer"></a>
 ## Hollywell Hearts: Die kleine Farm am Meer
@@ -726,6 +1073,17 @@ Eine Ziegenfarm am Meer? Tamlyn fällt aus allen Wolken, als sie plötzlich eine
 <b>„Ein Fantasy-Epos voll MUSIK und MAGIE.“ Denis Scheck</b><br /><br />„Vielleicht habt ihr von mir gehört“ ... von Kvothe, dem für die Magie begabten Sohn fahrender Spielleute. Das Lager seiner Truppe findet er verwüstet, die Mutter und den Vater tot. Wer aber sind diese Chandrian, die weißglänzenden, schleichenden Mörder seiner Familie? Um ihnen auf die Spur zu kommen, riskiert Kvothe alles. Er lebt als Straßenjunge in der Hafenstadt Tarbean, bis er auf das Arkanum, die Universität für hohe Magie aufgenommen wird. Vom Namenszauber, der ihn als Kind fast das Leben gekostet hätte, erhofft sich Kvothe die Macht, das Geheimnis der sagenumwobenen Dämonen aufzudecken.<br />Stefan Kaminski leiht dem berühmten Zauberer Kvothe und seiner spannenden Geschichte eine Stimme, die von der ersten Minute an fesselt.<br /><br /><b>(Laufzeit: 28h 19)</b>
 
 [View on Apple](https://books.apple.com/de/audiobook/der-name-des-windes/id1446961490)
+
+<a id="monster-1983-die-komplette-2-staffel"></a>
+## Monster 1983: Die komplette 2. Staffel
+
+![Monster 1983: Die komplette 2. Staffel](../../logos/1170106941-4ab5490a.png)
+
+Oregon, 1983 - nach einer grausamen Serie mysteriöser Morde scheint in dem kleinen Küstenstädtchen Harmony Bay endlich wieder Normalität einzukehren. Zumindest, wenn es nach Bürgermeister White geht. Doch Deputy Landers traut dem Frieden nicht, denn zu viele Fragen sind noch immer ungeklärt: Warum und wohin sind Sheriff Cody und seine beiden Kinder verschwunden? Wieso war die Regierung hinter dem Nachtmahr her? Was hat es mit dem ominösen Manila Club auf sich? Und warum will der Bürgermeister unbedingt Gras über die Sache wachsen lassen? 
+<br /><br />Für Landers steht fest: Er muss auf eigene Faust ermitteln! Und während er dabei immer tiefer in einem gefährlichen Sumpf aus Macht und Korruption versinkt, befinden sich Cody und seine Familie auf einer Flucht quer durch das Land. Sie müssen versuchen, seine Tochter vor der Regierung zu verstecken - und einen Weg finden, Amy von dem Nachtmahr zu befreien. Denn dieser ergreift Tag für Tag mehr Besitz von dem kleinen Mädchen - und wie sich bald herausstellen soll: nicht nur von ihr... 
+<br /><br />In deiner Audible-Bibliothek findest du für dieses Hörerlebnis eine PDF-Datei mit zusätzlichem Material.<br />&gt;&gt; Diese Hörspiel-Serie genießt du exklusiv nur bei Audible.
+
+[View on Apple](https://books.apple.com/de/audiobook/monster-1983-die-komplette-2-staffel/id1170106941)
 
 <a id="das-haus-im-wald-krimi-ho-rbuch-atticus-1"></a>
 ## Das Haus im Wald - Krimi Hörbuch ( Atticus 1 )
@@ -771,6 +1129,108 @@ Die raue See, der stete Wind und die endlosen Dünen machen SYLT zum idealen Sch
 
 [View on Apple](https://books.apple.com/de/audiobook/syltkrimi-band-6-10/id1837696242)
 
+<a id="bevor-der-kaffee-kalt-wird-ungeku-rzte-lesung"></a>
+## Bevor der Kaffee kalt wird (Ungekürzte Lesung)
+
+![Bevor der Kaffee kalt wird (Ungekürzte Lesung)](../../logos/1741302109-12fd15b6.png)
+
+Vier Geschichten, die uns lehren, aus der Vergangenheit über die Zukunft zu lernen und den Blick nach vorn zu öffnen.
+Was wäre, wenn du in die Vergangenheit reisen könntest? Bevor der Kaffee kalt wird erzählt die Geschichte von einem magischen Sessel in einem sehr besonderen Café in Japan. Wer sich in diesen Sessel setzt, darf in die Vergangenheit zurückreisen, aber nur solange, bis "der Kaffee kalt wird". Das Café trägt den Namen "Funiculi Funicula" und zieht viele Menschen unwillkürlich an, weil sie das Bedürfnis verspüren, die Vergangenheit noch einmal zu durchleben.
+Im Stil von Das Café am Rande der Welt erzählt der Dramatiker Toshikazu Kawaguchi vier mitreißende Geschichten von Menschen, die in die Vergangenheit gereist sind. Ihre Motive waren unterschiedlich, doch die gelernte Lektion dieselbe. Egal ob Versöhnung, Vergebung oder neue Hoffnung - das Leben wird vorwärts gelebt und rückwärts verstanden.
+Vier Erzählungen über den Sinn des Lebens und die Aussöhnung mit der Vergangenheit:
+Die Liebenden
+Das verheiratete Paar
+Die Schwestern
+Mutter und Kind
+
+[View on Apple](https://books.apple.com/de/audiobook/bevor-der-kaffee-kalt-wird-ungek%C3%BCrzte-lesung/id1741302109)
+
+<a id="nach-grau-kommt-himmelblau"></a>
+## Nach Grau kommt Himmelblau
+
+![Nach Grau kommt Himmelblau](../../logos/1780362043-3aa519b7.png)
+
+Für Angehörige, Freunde, Betroffene und Workaholics. Authentisch. Ungeschminkt. Fesselnd. Eine wahre Geschichte, die mitten aus dem Leben gegriffen ist.
+
+»Nach Grau kommt Himmelblau« erzählt die wahre Geschichte rund um den brutalen Absturz von Dr. Thomas Reinbacher, der nach einer Raketenkarriere (NASA, McKinsey, Amazon, Google) und einem perfekten Familienleben in eine schwerste Depression (F33.2) schlittert. Die Genesung wird ein steiniger Weg, der 2 Jahre und 200 Tage Psychiatrie in Anspruch nimmt. Ein Kraftakt für die ganze Familie. Aber einer, der sich lohnt!
+
+Das Buch bietet Einblicke in die Krankheit Depression und wie man damit umgeht, wie sie so noch nicht zu lesen waren.
+
+- Aus Sicht eines Betroffenen. Basierend auf Thomas' Tagebucheinträgen nimmt er seine Leser*innen mit auf eine packende, ungeschminkte Reise in die dunkelsten Abgründe einer depressiven Seele. Erst durch die radikale Akzeptanz seiner Erkrankung gelang ihm der erste Schritt in Richtung Genesung und Leben 2.0.
+
+- Aus Sicht der Angehörigen. Xiaoxi ist die verzweifelte Partnerin in der Geschichte, die erzählt wie sie versucht, die Familie zusammenzuhalten und nicht auch noch zum »Opfer« seiner Depression zu werden.
+
+Gemeinsam erzählen sie, wie sie es trotz aller Widrigkeiten geschafft haben, die Depression zu besiegen und als Paar in ein besseres Leben 2.0 zu starten. Mit neuen Werten. Mit Aussicht auf Himmelblau!
+
+Ein Buch, das tief berührt und Betroffenen &amp; Angehörigen viel Mut macht, dass einmal psychisch krank nicht ein Leben lang psychisch krank bedeutet .
+
+Eine augenöffnende Lektüre nicht nur für Angehörige, Betroffene, Pädagogen, Therapeuten etc. sondern auch für alle »Leistungsträger«. Aber die haben ja sowieso keine Zeit zum Lesen, oder?
+
+[View on Apple](https://books.apple.com/de/audiobook/nach-grau-kommt-himmelblau/id1780362043)
+
+<a id="das-schwimmende-cafe-von-kopenhagen"></a>
+## Das schwimmende Café von Kopenhagen
+
+![Das schwimmende Café von Kopenhagen](../../logos/1895730538-515aa007.png)
+
+Zwischen Zimtschnecken und Hygge – Neues Glück in der Stadt der Gelassenheit
+Mit einem gebrochenen Herzen flieht Milly nach Kopenhagen, um ihre beste Freundin dabei zu unterstützen, ein schwimmendes Café zu retten. Dabei trifft sie auf Theo – wortkarg, charmant und unverschämt attraktiv. Inmitten von duftenden Zimtschnecken, heißem Kaffee und dänischem Lebensgefühl knistert es gewaltig. Doch als das Ende des Sommers naht, müssen sich die beiden der Frage stellen, ob sie bereit sind, ihrer Liebe eine Chance zu geben.
+Romantische Neuanfänge in den schönsten europäischen Destinationen am Wasser - Herzklopfen inklusive!
+
+[View on Apple](https://books.apple.com/de/audiobook/das-schwimmende-caf%C3%A9-von-kopenhagen/id1895730538)
+
+<a id="die-tochter-der-hexe"></a>
+## Die Tochter der Hexe
+
+![Die Tochter der Hexe](../../logos/6769743161-c4a18099.png)
+
+"Hexentochter, du wirst sterben!"
+Als junges Mädchen erfährt Marthe-Marie, dass sie die Tochter einer Frau ist, die als Hexe galt. Sie macht sich auf in die Stadt, in der ihre Mutter grausam sterben musste. Doch als in Freiburg aufs Neue die Scheiterhaufen lodern, bleibt Marthe-Marie nur die Flucht. Sie schließt sich einer Truppe von Gauklern an, die kreuz und quer durch den Südwesten des Deutschen Reiches ziehen. Bald merkt sie, dass ihr zwei Männer auf den Fersen sind. Der eine sucht ihre Liebe, der andere ihren Tod. "Die Tochter der Hexe" ist ein großer Schicksalsroman, eine Liebesgeschichte und ein Porträt der Ausgestoßenen jener Zeit.
+
+[View on Apple](https://books.apple.com/de/audiobook/die-tochter-der-hexe/id6769743161)
+
+<a id="die-betrogene"></a>
+## Die Betrogene
+
+![Die Betrogene](../../logos/1435937361-1463e74f.png)
+
+<b>Einsam wacht, wer um die Schuld weiß ...</b><br /><br />Es gibt nur einen Menschen, den die Polizistin Kate Linville liebt: ihren Vater. Als dieser grausam ermordet wird, verliert Kate ihren letzten Halt. Da sie dem alkoholkranken Ermittler vor Ort nicht traut, begibt sie sich selbst auf die Spurensuche. Und entlarvt die Vergangenheit ihres Vaters als Trugbild, denn er war nicht der, für den sie ihn hielt.
+
+[View on Apple](https://books.apple.com/de/audiobook/die-betrogene/id1435937361)
+
+<a id="shaolin-spirit-meistere-dein-leben-ungeku-rzte-lesung"></a>
+## Shaolin Spirit - Meistere dein Leben (Ungekürzte Lesung)
+
+![Shaolin Spirit - Meistere dein Leben (Ungekürzte Lesung)](../../logos/1709992608-9c7b6cb0.png)
+
+Shi Heng Yi eröffnet mit diesem Hörbuch Einsichten in einer bisher unveröffentlichten Form der Shaolin-Tradition - anwendbare Praktiken für das alltägliche Leben, untermauert mit Sichtweisen, um Bekanntes neu zu erkennen.
+Shaolin Spirit - Meistere dein Leben!
+Wünschst du dir mehr Disziplin, Willensstärke, Mut, Ausdauer und tief empfundene Loyalität? Shi Heng Yi bietet dir auf Basis seines eigenen Lebensweges Werkzeuge, die dein Leben leichter machen - indem du stärker wirst.
+Das Geheimnis der inneren Stärke basiert auf den Tugenden der Shaolin. Diese schrittweise in deinem Leben zu kultivieren, ist in Wahrheit so simpel, dass jeder Shi Heng Yis Lehre folgen kann. Lerne deinen Körper kennen und ergründe ihn - bereichere dein Leben mit den Methoden, die seit über 1500 Jahren erfolgreich praktiziert werden.
+Praxisteil: Stärke Körper und Geist
+Lerne, bewusst zu werden und zu stehen, und spüre, vor welche Herausforderung dich das stellen kann. Begegne und trainiere damit ebenso deine Tugenden. Der begleitende Praxisteil im Hörbuch führt dich über einfache, aber nicht minder effektive Übungen zur Entdeckung deiner inneren Fähigkeiten. Finde zurück auf deinen persönlichen Weg und ergründe, worum es in deinem Leben wirklich geht - denn es ist einzigartig.
+Shi Heng Yi lehrt dich in seinem Hörbuch die Essenz der Shaolin-Lehren, entsprungen aus seiner persönlichen Erfahrung. Beherzigst du sie und integrierst die Eindrücke und Praktiken in deinen Alltag, kannst du:
+das Leben auf einer bisher unbekannten und tieferen Ebene in die eigene Hand nehmen;
+lernen, feinfühliger zu werden. Das Zusammenspiel gegensätzlicher Kräfte, wie zum Beispiel Freiheit und Struktur, Spontanität und Planung, Aktivität und Passivität für dich nutzen;
+tiefes Vertrauen in das Leben entwickeln und Antworten entdecken, die nur in ihrem wahren Selbst aufzufinden sind
+Du darfst positive Resultate erwarten - doch übe dich in Geduld.
+Erfahre wahrhaftige Veränderung
+Shi Heng Yi ist überzeugt: Leben mehr Menschen nach den Tugenden der Shaolin, würde sehr viel Leid von den Menschen - und der ganzen Welt - genommen. Indem du dir diese Tugenden aneignest und bewusst lebst, trägst du deinen Teil dazu bei. Es geht um echte Veränderung für dich und dein Leben - und das der Menschen um dich herum.
+Lerne noch mehr von Shi Heng Yi
+Shi Heng Yi amtiert als leitender Meister des Shaolin Temple Europe, einem buddhistischen Kloster mit Sitz in Deutschland. Er trainiert Shaolin Kung Fu seit seinem vierten Lebensjahr und absolvierte mit achtzehn Jahren die Meisterprüfung. Neben dem Praxisteil im Hörbuch findest du zahlreiche kostenfreie Lernvideos und vertiefende Praktiken auf der offiziellen Präsenz von Shi Heng Yi www.shaolinspirit.online sowie auf seinem YouTube-Kanal.
+Coverfoto: © Christine Sommerfeldt
+
+[View on Apple](https://books.apple.com/de/audiobook/shaolin-spirit-meistere-dein-leben-ungek%C3%BCrzte-lesung/id1709992608)
+
+<a id="der-erloschene-traum-nik-pohl-6"></a>
+## Der erloschene Traum: Nik Pohl 6
+
+![Der erloschene Traum: Nik Pohl 6](../../logos/1750190520-c55c0a98.png)
+
+<b>Ein Fall für den BND oder Privatermittler Nik Pohl? Von #1-Bestsellerautor Alexander Hartung</b><br /><br />Das Entsetzen in München ist groß, als eine ältere Dame einen Mann scheinbar grundlos in einem Café ersticht. Erste polizeiliche Ermittlungen deuten auf keine Verbindung zwischen der Frau und dem Getöteten hin. Nik Pohl steigt in den Fall ein und findet heraus, dass die Täterin seit Jahren unter falschem Namen lebte. Als ihn ein Agent des Bundesnachrichtendiensts auffordert, die Ermittlungen einzustellen, ist sein Misstrauen endgültig geweckt. Motivierter denn je sucht er nach der Wahrheit und macht es zu seiner Mission, Gerechtigkeit für das Opfer herzustellen.
+
+[View on Apple](https://books.apple.com/de/audiobook/der-erloschene-traum-nik-pohl-6/id1750190520)
+
 <a id="tod-und-teufel"></a>
 ## Tod und Teufel
 
@@ -780,532 +1240,52 @@ Die raue See, der stete Wind und die endlosen Dünen machen SYLT zum idealen Sch
 
 [View on Apple](https://books.apple.com/de/audiobook/tod-und-teufel/id1435725813)
 
-<a id="very-bad-liars-kingston-university-spring-break-teil-2-das-ho-rspiel"></a>
-## Very Bad Liars (Kingston University, Spring Break, Teil 2) – Das Hörspiel
+<a id="essentialismus-die-konsequente-suche-nach-weniger-ein-neuer-minimalismus-erobert-die-welt"></a>
+## Essentialismus. Die konsequente Suche nach Weniger. Ein neuer Minimalismus erobert die Welt
 
-![Very Bad Liars (Kingston University, Spring Break, Teil 2) – Das Hörspiel](../../logos/6769693076-523accf9.png)
+![Essentialismus. Die konsequente Suche nach Weniger. Ein neuer Minimalismus erobert die Welt](../../logos/1874320903-b4b2b50a.png)
 
-Es wäre kein Spiel, wenn wir dir einfach sagen, dass du dich nicht zwischen uns entscheiden musst. Wir wollen, dass du wählst. Und es wird immer die falsche Wahl sein.
+Der New York Times Bestseller. Mehr als eine Million verkaufte Exemplare.
+Beim Essentialismus geht es nicht darum, mehr in kürzerer Zeit zu erledigen. Es geht darum, mit ganzem Herzen das zu verfolgen, was wirklich wichtig ist.
+Der Google-Coach und Bestsellerautor Greg McKeown teilt in diesem Hörbuch seine Erfahrungen im Umgang mit den Top-Managern der erfolgreichsten Unternehmen dieser Welt um zu zeigen, wie man mit Weniger sehr viel mehr erreichen kann.
+Die Strategie von McKeown, der Weg des Essentialisten, hat schon Viele aus dem Griff der Belanglosigkeiten und konstanten Überforderung befreit. Die Geheimformel: Weniger, aber besser!
+In vier praktischen Schritten zeigt McKeown, der nach der Promotion in Stanford eine Firma für Strategie und Leadership im Silicon Valley gegründet hat, auszusortieren und die richtigen Fragen zu stellen, die Energie auf das zu lenken, was wirklich zählt.
+Dabei ist dieses Hörbuch keine neue Zeitmanagementstrategie oder Produktivitätstechnik. Es geht vielmehr darum, das Wesentliche vom Unwesentlichen zu unterscheiden und mit Disziplin das zu verfolgen, was die eigene größte Stärke ist.
+Mit dem Hörbuch werden Sie:
+- endlich wieder glücklich sein,
+- mehr Freude am Arbeitsplatz haben,
+- privat erfüllter leben,
+- Entscheidungen treffen, die neue Maßstäbe setzen,
+- statt tausend Belanglosigkeiten eine wesentliche Sache bewegen.
+Greg McKeown schreibt, unterrichtet und spricht weltweit über die Bedeutung eines Lebens als Essentialist. Er hat bereits Vorträge bei Unternehmen wie Apple, Google, Facebook, LinkedIn, Salesforce.com, Symantec und Twitter gehalten und zählt zu den beliebtesten Bloggern der Harvard Business Review und der LinkedIn Influencers-Gruppe. Er ist Mitentwickler des Kurses Designing Life, Essentially der Stanford University, hat den Wall Street Journal-Bestseller Multipliers mitverfasst und ist als Young Global Leader für das World Economic Forum tätig. Greg McKeown hat einen Abschluss als Master of Business Administration der Stanford University.
 
-Spring Break sollte für Mable die Zeit sein, in der sie sich auf ihre Prüfungen in Kingston vorbereitet, doch alles kommt anders als geplant.
+[View on Apple](https://books.apple.com/de/audiobook/essentialismus-die-konsequente-suche-nach-weniger-ein/id1874320903)
 
-Das FBI bevölkert den Campus, um mehr über die Hintergründe des Anschlags auf die Elite-Studenten in Erfahrung zu bringen. Nicht einmal die Kings wissen, was Mable herausgefunden hat.
+<a id="das-hindernis-ist-der-weg-mit-der-philosophie-der-stoiker-zum-triumph"></a>
+## Das Hindernis ist der Weg: Mit der Philosophie der Stoiker zum Triumph
 
-Das Spiel der Begierde und Lust scheint eine tödliche Wendung zu nehmen. Werden die Könige ihre Dame beschützen?
+![Das Hindernis ist der Weg: Mit der Philosophie der Stoiker zum Triumph](../../logos/1215374097-524fb01f.png)
 
-Oder planen sie noch immer ihren Untergang?
+Die großen Frauen und Männer hatten weder außergewöhnlich viel Glück, Talent oder Erfahrung. Sie hatten lediglich das gleiche Motto: Was dir im Weg steht, wird dein Weg! 
+<br /><br />Ryan Holiday, Marketing-Guru und Bestsellerautor, wendet die vergessene Erfolgsformel der antiken Philosophen auf die heutige Welt an und gibt konkrete Anleitung, wie wir unser Leben selbst erfolgreich gestalten können: Manage deine Wahrnehmung! Erkenne, welche Begebenheiten du verändern kannst! Lenke deine Handlungen auf ein Ziel! Und mache jedes Hindernis in deinem Weg zu einer Chance!<br />&gt;&gt; Diese ungekürzte Hörbuch-Fassung genießt du exklusiv nur bei Audible.
 
-Vergiss Spring Break, kleine Blüte. Wenn herauskommt, dass du uns etwas verschweigst, könnte das dein tatsächliches Ende bedeuten.
+[View on Apple](https://books.apple.com/de/audiobook/das-hindernis-ist-der-weg-mit-der-philosophie-der-stoiker/id1215374097)
 
-Lektion drei: Die Elite kennt bessere Waffen als Pistolen und Messer. Wir kämpfen nicht – wir lassen kämpfen. Und du solltest uns dabei nicht im Weg stehen.
+<a id="momo"></a>
+## Momo
 
-Dark College. Bully Romance. Reverse Harem.
+![Momo](../../logos/1500529583-b480445d.png)
 
-Du willst nicht teilen. Sie dich schon.
+Momos Welt ist eine Großstadt, irgendwo im Süden Europas. Ein gespenstisches Heer grauer Herren ist am Werk und veranlasst immer mehr Menschen, Zeit zu sparen. Aber in Wirklichkeit betrügen sie die Menschen um diese ersparte Zeit und nehmen ihnen alle Lebensfreude. Je mehr die Menschen an Zeit sparen, desto ärmer, hastiger und kälter wird ihr Dasein. Am meisten bekommen die Kinder diese Lieblosigkeit zu spüren. Als die Not am größten ist, greift Meister Hora ein, der geheimnisvolle Verwalter der Zeit. Doch braucht er dazu die Hilfe eines Menschenkindes. Momo, die kleine struppige Heldin der Geschichte, übernimmt die schwierige Aufgabe und kämpft ganz allein, mit nichts als einer Blume in der Hand und einer Schildkröte unter dem Arm, gegen das riesige Heer der grauen Herren – und siegt auf wunderbare Weise. &#xa0;
+Hier geht es um die Fragen unserer Wirklichkeit, die sich in den Figuren und Schicksalen widerspiegeln – deswegen ist Michael Endes Märchen-Roman voller Poesie und Herzenswärme über den Zauber der Zeit heute immer noch und wieder aktuell und hat von seinem Reiz nach 45 Jahren nichts eingebüßt.
 
-Band 3 der KINGSTON-Reihe von Bestseller-Autorin J. S. Wonda jetzt als Hörspiel. 
-Dies ist der zweite und abschließende Teil des Hörspiels.
+[View on Apple](https://books.apple.com/de/audiobook/momo/id1500529583)
 
-[View on Apple](https://books.apple.com/de/audiobook/very-bad-liars-kingston-university-spring-break-teil/id6769693076)
+<a id="alles-klar-der-kleine-drache-kokosnuss-erforscht-den-weltraum"></a>
+## Alles klar! Der kleine Drache Kokosnuss erforscht den Weltraum
 
-<a id="das-neinhorn"></a>
-## Das NEINhorn
+![Alles klar! Der kleine Drache Kokosnuss erforscht den Weltraum](../../logos/1618345799-c5b1e5ef.png)
 
-![Das NEINhorn](../../logos/1498775335-9cc77119.png)
+<b>Sonne, Mond und Sterne – mit Kokosnuss das Weltall entdecken!</b><br /><br />Der kleine Drache Kokosnuss, Matilda und Oskar planen einen weiteren Besuch im Weltraum, denn bei ihrer letzten Begegnung mit dem Außerirdischen Bobby von Zitterpappel sind einige Fragen unbeantwortet geblieben ... Seit wann beobachten die Menschen die Sterne? Wer hat den „Mann im Mond” erfunden? Wann gab es die erste Rakete? Wie hieß der erste Astronaut? Wie lief die Mondlandung ab? Und seit wann gibt es die Internationale Raumstation ISS? <br />Die schlauen Antworten gibt es für kleine Forscherinnen und Forscher nicht nur zum Hören, sondern auch zusammen mit vielen Bildern zum Angucken in „Matildas Notizbuch”, dem Booklet. Mit vielen lustigen Songs zum Mitsingen! <br /><br />Inszenierte Lesung mit Musik mit Philipp Schepmann<br />1h 15min
 
-Das neue Kinderbuch von Marc-Uwe Kling - Jetzt endlich als Hörbuch
-Diese Ausgabe enthält als Bonus einen exklusiven Live-Mitschnitt von Das NEINhorn – von Marc-Uwe Kling vor Publikum gelesen im Mehringhoftheater Kreuzberg.
-Im Herzwald kommt ein kleines, schnickeldischnuckeliges Einhorn zur Welt. Aber obwohl alle ganz lilalieb zu ihm sind und es ständig mit gezuckertem Glücksklee füttern, benimmt sich das Tierchen ganz und gar nicht einhornmäßig. Es sagt einfach immer Nein, sodass seine Familie es bald nur noch NEINhorn nennt. Eines Tages bricht das NEINhorn aus seiner Zuckerwattewelt aus. Es trifft einen Waschbären, der nicht zuhören will, einen Hund, dem echt alles schnuppe ist, und eine Prinzessin, die immer Widerworte gibt. Die vier sind ein ziemlich gutes Team. Denn sogar bockig sein macht zusammen viel mehr Spaß!&#xa0;
-Vom Autor der&#xa0;Känguru-Chroniken&#xa0;und des Kinderbuch-Bestsellers&#xa0;Der Tag, an dem die Oma das Internet kaputt gemacht hat.
-
-[View on Apple](https://books.apple.com/de/audiobook/das-neinhorn/id1498775335)
-
-<a id="der-thron-der-lilie"></a>
-## Der Thron der Lilie
-
-![Der Thron der Lilie](../../logos/1852615686-98ab362f.png)
-
-<b>Die grandiose Fortsetzung von "Das Reich der Rose"</b><br /><br />Frankreich 1297. Während der Papst und der französische König einen erbitterten Machtkampf austragen, werden der Ritter Constantin Fleury, die Goliardin Mélisande und der Templer Gérard d’Acre von den Schatten ihrer Vergangenheit eingeholt. Feinde Constantins entführen Mélisande und seine schwangere Frau Agnès. Für die beiden Frauen beginnt ein Kampf ums Überleben. Um sie zu retten, muss Constantin sich hoch verschulden. Sein Freund Gérard, der sich auf einer heiklen Mission für den Templerorden befindet, hilft ihm, das Lösegeld nach Flandern zu bringen. Die rebellische Grafschaft taumelt am Rande eines Krieges, der Kronvasall Constantin gilt den Aufständischen als Todfeind. Auf der gefahrvollen Reise wird Gérard zudem mit alten Sünden konfrontiert und droht, an seiner Schuld zu zerbrechen …<br /><br />leicht gekürzte Lesung mit Johannes Steck<br />18h 49min
-
-[View on Apple](https://books.apple.com/de/audiobook/der-thron-der-lilie/id1852615686)
-
-<a id="totholz-was-vergraben-ist-ist-nicht-vergessen-ein-wallner-kreuthner-krimi-band-11-ungeku-rzte-lesung"></a>
-## Totholz - Was vergraben ist, ist nicht vergessen - Ein Wallner & Kreuthner Krimi, Band 11 (Ungekürzte Lesung)
-
-![Totholz - Was vergraben ist, ist nicht vergessen - Ein Wallner & Kreuthner Krimi, Band 11 (Ungekürzte Lesung)](../../logos/1731860204-428d5197.png)
-
-Eine Leiche im Wald, eine verschwundene Zeugin und eine antike Kanone:
-Totholz ist der 11. Bayern-Krimi aus Andreas Föhrs humorvoller Krimi-Reihe um die Kult-Ermittler Wallner &amp; Kreuthner und ihre neue Chefin Karla Tiedemann von der Kripo Miesbach.
-Leo Kreuthner ist außer sich: Da wagt es doch so ein dahergelaufener Lump, ihm bei der Schwarzbrennerei Konkurrenz zu machen! Das muss selbstredend sofort unterbunden werden - wenn nötig auch mithilfe einer alten Kanone aus dem 18. Jahrhundert ...
-Währenddessen führt eine nicht ganz freiwillige Zeugenaussage Kommissar Wallner und die Kripo Miesbach zu einer im Wald vergrabenen Leiche, die so stark verbrannt ist, dass sie nicht identifiziert werden kann. Kurz darauf ist auch noch die Zeugin wie vom Erdboden verschluckt, doch eine erste Spur weist auf drei abgelegene Anwesen. Die Gespräche mit den eigenbrötlerischen Bewohnern gestalten sich skurril bis schwierig, und Wallner ahnt bald, dass alle drei Familien dunkle Geheimnisse hüten. Aber wer hat etwas mit der Leiche im Wald zu tun?
-Regio-Krimi mit Humor und Hirn: Bestseller-Autor Andreas Föhr steht für intelligente Krimis aus Bayern, die mit einer guten Portion schwarzen Humors und glaubwürdigen Figuren mitten aus dem Leben bestens unterhalten.
-Michael Schwarzmaier wird es sich auch bei diesem Fall nicht nehmen lassen, Wallner und Kreuthner gewitzt und spannungsreich zu begleiten - auf unnachahmliche Weise bajuwarisch.
-
-[View on Apple](https://books.apple.com/de/audiobook/totholz-was-vergraben-ist-ist-nicht-vergessen-ein-wallner/id1731860204)
-
-<a id="the-mistake-niemand-ist-perfekt"></a>
-## The Mistake – Niemand ist perfekt
-
-![The Mistake – Niemand ist perfekt](../../logos/1706145833-14ffb389.png)
-
-Wenn aus einem kleinen Fehler die große Liebe wird ...
-College-Eishockeystar Logan ahnt nicht, dass er die richtige Frau am falschen Ort trifft, als er sich eines Nachts nach einer Feier im Zimmer irrt und in das Bett von Grace stolpert. Er hinterlässt einen miserablen ersten Eindruck und verscherzt es sich mit der zurückhaltenden Studentin. Trotzdem geht ihm dieses hübsche, scharfzüngige Mauerblümchen nicht mehr aus dem Kopf. Irgendwie muss er es schaffen, dass sie ihm eine zweite Chance gibt. Schade nur, dass Grace nicht vorhat, ihm zu verzeihen – wobei es ihr durchaus Spaß macht, diesem selbstverliebten Player dabei zuzusehen, wie er es immer wieder bei ihr versucht.
-
-[View on Apple](https://books.apple.com/de/audiobook/the-mistake-niemand-ist-perfekt/id1706145833)
-
-<a id="eisige-nacht-ein-norwegen-krimi-karl-sortland-ermittelt-reihe-band-1-ungeku-rzt"></a>
-## Eisige Nacht - Ein Norwegen-Krimi - Karl Sortland ermittelt-Reihe, Band 1 (Ungekürzt)
-
-![Eisige Nacht - Ein Norwegen-Krimi - Karl Sortland ermittelt-Reihe, Band 1 (Ungekürzt)](../../logos/1770060677-0f4dba03.png)
-
-Im eisigen Norwegen lauert tödliche Kälte - und ein Mörder in der Dunkelheit. Der packende Kriminalroman vor der düsteren Kulisse Skandinaviens.
-Im hohen Norden Norwegens verschwinden Forscher von einer arktischen Wetterstation - ohne jede Spur. Kommissar Karl Sortland und sein neuer Partner Mats Samuelsson werden nach Bjørnøya entsandt, um das Mysterium zu lüften. Vor Ort erwarten sie eine verwüstete Forschungsstation, eine Leiche und eine schwer verletzte Stationsleiterin. Schnell werden die Ermittlungen zu einem Überlebenskampf gegen die eisige Wildnis und gegen die eigene dunkle Vergangenheit. In einer verzweifelten Jagd nach der Wahrheit enthüllen die Kommissare ein Netz aus Geheimnissen und Intrigen, das sie bis an ihre Grenzen bringt ...
-
-[View on Apple](https://books.apple.com/de/audiobook/eisige-nacht-ein-norwegen-krimi-karl-sortland-ermittelt/id1770060677)
-
-<a id="john-of-john-ungeku-rzt"></a>
-## John of John (ungekürzt)
-
-![John of John (ungekürzt)](../../logos/1862090114-6fd3d69b.png)
-
-Ohne Geld und mit wenig vorzuweisen nach seiner Ausbildung an der Kunsthochschule, nimmt Cal die Fähre nach Hause auf die Insel Harris und all das, vor dem er nach Edinburgh geflüchtet war, ist wieder da: das karge Leben auf den Hebriden, der windgepeitschte Kreislauf aus Schafzucht und Nächten am Webstuhl, die Enge der Inselgemeinschaft.
-Sein Vater hat ihn nach Hause in sein altes Leben beordert. John, dem er all sein Wissen über Farben und Wolle verdankt, dessen Hingabe als Tweed-Weber er liebt und dessen presbyterianische Strenge er hasst. Sie sind einander so nah und kennen sich so wenig, blind für das wohlgehütete Geheimnis des anderen. Niemals könnte Cal dem Vater von seiner Sehnsucht nach einem Partner erzählen, wo dieser schon seine langen Haare als Sünde ahndet. Stattdessen sucht Cal immer mehr die Nähe von Innes, Johns sanftem bestem Freund, während sich die Fäden, die ihre fragile Gemeinschaft zusammenhalten, immer dichter verweben.
-Ein großer Roman über Verpflichtung und Verblendung, Liebe und Scham und die verwandelnde Kraft der Wahrheit.
-
-[View on Apple](https://books.apple.com/de/audiobook/john-of-john-ungek%C3%BCrzt/id1862090114)
-
-<a id="mord-ist-familiensache-ein-historisches-cosy-crime-ho-rbuch-mit-typisch-britischem-humor-ein-fall-fu-r-miss-fitzgerald-reihe-band-3-ungeku-rzt"></a>
-## Mord ist Familiensache  Ein historisches Cosy Crime Hörbuch mit typisch britischem Humor - Ein Fall für Miss Fitzgerald-Reihe, Band 3 (Ungekürzt)
-
-![Mord ist Familiensache  Ein historisches Cosy Crime Hörbuch mit typisch britischem Humor - Ein Fall für Miss Fitzgerald-Reihe, Band 3 (Ungekürzt)](../../logos/1815981426-5d051fca.png)
-
-<b>Wenn Hochzeitsgäste vergiftet werden und nur der Bräutigam unter Verdacht steht ...</b>
-<b>Ein weiterer mysteriöser Fall für die cleverste Privatdetektivin in der englischen Küstenstadt Brighton</b><br /><br />Als Clara Fitzgerald der Einladung zur Hochzeit ihres Cousins Andrew folgt, ahnt sie nicht, dass sie mehr Privatdetektivin als Gast sein wird. Denn etwas an der bevorstehenden Trauung stimmt ganz und gar nicht. Nicht nur, dass weder der Bräutigam noch seine Familie Interesse an den bevorstehenden Feierlichkeiten zeigen, es taucht auch eine Frau auf, die behauptet, bereits mit Andrew verheiratet zu sein. Nicht lange nach ihrer Ankunft ist die vermeintliche erste Ehefrau tot - vergiftet, ebenso wie ein unliebsamer Onkel, den sowieso keiner dort haben wollte. Mit Andrew als dem Hauptverdächtigen und einem Giftmörder, der es auf die Hochzeitsgesellschaft abgesehen hat, muss Clara so schnell wie möglich die Geheimnisse der Familie lüften. Dabei braucht sie alle Hilfe, die sie kriegen kann und die Zeit läuft ihr davon ...<br /><br /><i>Alle Bände der </i>Ein Fall für Miss Fitzgerald-Reihe <i>können unabhängig voneinander gehört werden.</i><br /><br /><b>Erste Leser:innenstimmen</b>
-<i>"Ein sehr spannender Cosy Crime mit einer cleveren Heldin!"</i>
-<i>"Dieser historische Krimi hat alles, was man von einem guten Cosy Crime erwartet: eine interessante Ermittlerin, eine verworrene Familiengeschichte und jede Menge Charme!"</i>
-<i>"Die Mischung aus mysteriösen Todesfällen, Familienintrigen und Claras cleveren Ermittlungen macht diesen Cosy Krimi zu einem humorvollen Leseerlebnis."</i>
-<i>"Clara ist eine sympathische und kluge Detektivin, die man sofort ins Herz schließt."</i>
-
-[View on Apple](https://books.apple.com/de/audiobook/mord-ist-familiensache-ein-historisches-cosy-crime/id1815981426)
-
-<a id="die-1-methode-minimale-vera-nderung-maximale-wirkung"></a>
-## Die 1%-Methode – Minimale Veränderung, maximale Wirkung
-
-![Die 1%-Methode – Minimale Veränderung, maximale Wirkung](../../logos/1586387330-f4a89a61.png)
-
-<b>Der Welterfolg zum Trendthema "Micro Habits"</b><br /><br />Das Geheimnis des Erfolgs: "Die 1%-Methode". Sie liefert das nötige Handwerkszeug, mit dem Sie jedes Ziel erreichen. James Clear, erfolgreicher Coach und einer der führenden Experten für Gewohnheitsbildung, zeigt praktische Strategien, mit denen Sie jeden Tag etwas besser werden bei dem, was Sie sich vornehmen. Denn bereits kleinste Veränderungen der täglichen Routine können dem Leben eine neue Richtung geben.<br />Clears Methode greift auf Erkenntnisse aus Biologie, Psychologie und Neurowissenschaften zurück und funktioniert in allen Lebensbereichen. Ganz egal, was Sie erreichen möchten – ob sportliche Höchstleistungen, berufliche Meilensteine oder persönliche Ziele wie mit dem Rauchen aufzuhören –, mit diesem Hörbuch schaffen Sie es ganz sicher.<br /><br />Gekürzte Lesung mit Oliver Brod<br />7h 7min
-
-[View on Apple](https://books.apple.com/de/audiobook/die-1-methode-minimale-ver%C3%A4nderung-maximale-wirkung/id1586387330)
-
-<a id="die-ka-nguru-apokryphen-die-ka-nguru-werke-4"></a>
-## Die Känguru-Apokryphen (Die Känguru-Werke 4)
-
-![Die Känguru-Apokryphen (Die Känguru-Werke 4)](../../logos/1500353264-1afccb7f.png)
-
-Sensation, Sensation: Archäologen haben in einem Geheimfach in Marc-Uwes Schreibtisch neue Geschichten vom Känguru und seinem Kleinkünstler gefunden! Dies ist nicht die Fortsetzung der Fortsetzung der Fortsetzung der Känguru-Chroniken. Triologie bleibt Triologie. Aber ein anständiger Kleinkünstler hat natürlich eine Zugabe vorbereitet.
-Die Känguru-Apokryphen versammeln zum ersten Mal alle weniger bekannten Eskapaden des dynamischen Duos: Episoden, die zwar nicht im allgemein gültigen Hochkanon der Känguru-Trilogie vertreten, aber ebenso witzig sind. Geschichten aus Anthologien, Live-Programmen ... und aus besagtem Geheimfach.
-
-[View on Apple](https://books.apple.com/de/audiobook/die-k%C3%A4nguru-apokryphen-die-k%C3%A4nguru-werke-4/id1500353264)
-
-<a id="am-himmel-die-flu-sse-ungeku-rzte-lesung"></a>
-## Am Himmel die Flüsse (Ungekürzte Lesung)
-
-![Am Himmel die Flüsse (Ungekürzte Lesung)](../../logos/1753825560-ef4f6e67.png)
-
-Narin ist neun, als in dem ezidischen Dorf am Tigris Planierraupen auftauchen. Ihre Heimat soll einem Dammbauprojekt der türkischen Regierung weichen. Die Großmutter, fest entschlossen, die Enkelin an einem ungestörten Ort taufen zu lassen, bereitet alles für die Reise ins heilige Lalisch-Tal vor. Kurz vor Aufbruch stößt Narin auf das Grab eines gewissen Arthur - direkt neben dem ihrer Ururgroßmutter Leila. Wer war dieser "König der Abwasserkanäle und Elendsquartiere", der Junge aus dem viktorianischen London, von den Ufern der verschmutzten Themse? Und was hat er mit Narins eigener Vertreibung zu tun?
-Meisterhaft verwebt Elif Shafak Vergangenheit und Gegenwart zu einem soghaften Roman über sich kreuzende menschliche Schicksale und die Macht jahrhundertealter Konflikte.
-Mit ihrer weichen Stimme und ihrer Ausdruckstiefe ist Pegah Ferydoni eine großartige Interpretin für Elif Shafaks Roman.
-
-[View on Apple](https://books.apple.com/de/audiobook/am-himmel-die-fl%C3%BCsse-ungek%C3%BCrzte-lesung/id1753825560)
-
-<a id="kreuzweg-der-raben-the-witcher-band-6"></a>
-## Kreuzweg der Raben: The Witcher, Band 6
-
-![Kreuzweg der Raben: The Witcher, Band 6](../../logos/1835499768-d4cda41e.png)
-
-Die Saga geht weiter ... das Ende ist der Anfang Der Großmeister der Fantasy kehrt zurück in die Jugendjahre von Geralt| der seine ersten Schritte als Hexer macht und sich zahlreichen tödlichen Herausforderungen stellen muss. Bewaffnet mit zwei Runenschwertern bekämpft er Monster| rettet unschuldige Jungfrauen und eilt unglücklich Verliebten zu Hilfe. Dabei versucht er immer und überall dem ungeschriebenen Kodex zu folgen| den ihm seine Lehrer und Mentoren mitgegeben haben. Doch bleiben ihm dabei keine Enttäuschungen erspart| und sein jugendlicher Idealismus muss bittere Erfahrungen hinnehmen. Doch Geralt gibt nicht auf … niemals!
-
-[View on Apple](https://books.apple.com/de/audiobook/kreuzweg-der-raben-the-witcher-band-6/id1835499768)
-
-<a id="heimsuchung"></a>
-## Heimsuchung
-
-![Heimsuchung](../../logos/1435690967-9191ff6d.png)
-
-<b>Die Autorin liest ihe Geschichte: von einem Haus am See – und wie ein ganzes Jahrhundert in ihm wütet</b><br /><br />Ein Haus an einem märkischen See: Es ist der Schauplatz für fünfzehn Lebensläufe, Geschichten, Schicksale von den Zwanzigerjahren bis heute. Das Haus und seine Bewohner erleben die Weimarer Republik, das Dritte Reich, den Krieg und dessen Ende, die DDR, die Wende und die Zeit der Nachwende. Jedem einzelnen Schicksal gibt Jenny Erpenbeck eine eigene literarische Form, jedes entfaltet auf ganz eigene Weise seine Dramatik, seine Tragik, sein Glück. Alle zusammen bilden ein Panorama des letzten Jahrhunderts, das verstört, beglückt, verunsichert und versöhnt.<br />Die Autorin Jenny Erpenbeck liest ihren eindrucksvollen, poetisch verdichteten Roman selbst – ein Hörerlebnis höchster Intensität.
-
-[View on Apple](https://books.apple.com/de/audiobook/heimsuchung/id1435690967)
-
-<a id="alles-idioten-endlich-verstehen-wie-andere-ticken-ungeku-rzte-lesung"></a>
-## Alles Idioten!? - Endlich verstehen, wie andere ticken (Ungekürzte Lesung)
-
-![Alles Idioten!? - Endlich verstehen, wie andere ticken (Ungekürzte Lesung)](../../logos/1552689915-87007725.png)
-
-Erfolgreich kommunizieren in allen Lebenslagen - der internationale Selbst-Coaching-Bestseller aus Schweden.
-Wie oft werden wir nicht oder falsch verstanden? Wie oft sind unsere Beziehungen zu anderen Menschen von Missverständnissen getrübt? Wie oft glauben wir, wir seien nur von Idioten umgeben?
-"Das muss nicht sein", sagt der Selbst-Coaching-Experte Thomas Erikson: "Menschen sind zwar keine Excel-Tabellen, und Ihr Verhalten lässt sich nicht exakt vorausberechnen. Aber wenn wir die Grundlagen des menschlichen Kommunikationsverhaltens begreifen, können wir viele Missverständnisse vermeiden."
-Nach dem Motto "vier Farben - vier Typen - und jede Menge Tools" präsentiert Thomas Erikson ein Modell mit vier Persönlichkeitstypen, das es uns leicht macht, unser Gegenüber und sein Kommunikationsverhalten zu verstehen - ob es sich um Körpersprache, Emails oder ein Gespräch handelt. Zunächst werden die vier Persönlichkeitstypen vorgestellt, dann beschreibt Thomas Erikson das Kommunikationsverhalten der vier Persönlichkeitstypen und erklärt, welche Konflikte sich daraus im Umgang mit anderen ergeben und wie diese Konflikte vermieden werden können.
-Humorvoll verpackt, helfen uns Thomas Eriksons anschauliche Beispiele aus Beruf, Freizeit und Familie zu erkennen, mit welchem Persönlichkeitstyp wir es jeweils zu tun haben: So können wir unser Kommunikationsverhalten gezielt trainieren und den alltäglichen Kommunikationsfallen erfolgreich aus dem Weg gehen.
-
-[View on Apple](https://books.apple.com/de/audiobook/alles-idioten-endlich-verstehen-wie-andere-ticken-ungek%C3%BCrzte/id1552689915)
-
-<a id="die-natur-ist-kein-parteimitglied"></a>
-## Die Natur ist kein Parteimitglied
-
-![Die Natur ist kein Parteimitglied](../../logos/1852621810-b8dc500f.png)
-
-<b>Die Physiker Harald Lesch und Axel Kleidon sind sauer über mangelnde Konsequenz in der Klimapolitik und das verbreitete Unverständnis dafür, wie Natur funktioniert – ein Hörbuch, das aufrüttelt</b><br /><br />Harald Lesch und Axel Kleidon sind sauer: Ein ums andere Mal versuchen Verantwortliche in Politik und Wirtschaft so zu tun, als könne man die Gesetze der Natur einfach ignorieren. Deshalb sprechen die beiden Physiker hier Klartext: Die Natur verhandelt nicht, sie ist nicht Partei, sie lässt sich nicht vereinnahmen. Sie folgt auf der ganzen Erde denselben allgemeingültigen Gesetzen – und die müssen unsere Leitplanken sein beim Umgang mit dem Klimawandel. Sie erläutern daher hier noch einmal kurz und knapp, was effiziente Energienutzung bedeutet, warum Energie entwertet wird und welche Maßnahmen eine Politik ergreifen würde, die begriffen hat, wie die Natur funktioniert.<br /><b>Bonus: Mit einem 20-minütigen Zusatzgespräch der beiden Autoren.</b><br /><br />Ungekürzte Lesung mit Axel Kleidon, Harald Lesch<br />2h 26min
-
-[View on Apple](https://books.apple.com/de/audiobook/die-natur-ist-kein-parteimitglied/id1852621810)
-
-<a id="du-schon-wieder-k-ein-scheidungsroman"></a>
-## Du schon wieder!: (K)ein Scheidungsroman
-
-![Du schon wieder!: (K)ein Scheidungsroman](../../logos/6790437757-d3462759.png)
-
-Passt es einfach nicht, oder verdient die Liebe doch noch eine zweite Chance? Beziehung reloaded? Klingt nach gar keiner guten Idee. Trotzdem gerät Krankenhausärztin Fanny ganz schön ins Wanken, als ihr Ex Dustin in die Notaufnahme eingeliefert wird. Plötzlich brodeln wieder Gefühle in ihr. Und das, obwohl sie in einer neuen Beziehung ist – genau wie Dustin. Noch krasser wird's, als die beiden eine heimliche Affäre beginnen. Was zur Hölle soll das werden? Als die Sache dann auffliegt, steht das gesamte Umfeld kopf, und Fanny muss sich entscheiden: Ex und hopp? Oder noch einmal mit Gefühl? Einmalig komisch und immer romantisch schreibt Bestsellerautorin Ellen Berg über die Frage, wie schlechtes Timing dem Glück im Wege stehen kann.
-
-[View on Apple](https://books.apple.com/de/audiobook/du-schon-wieder-k-ein-scheidungsroman/id6790437757)
-
-<a id="einatmen-ausatmen-ungeku-rzte-lesung"></a>
-## Einatmen. Ausatmen (Ungekürzte Lesung)
-
-![Einatmen. Ausatmen (Ungekürzte Lesung)](../../logos/1848136243-b20a5a4c.png)
-
-Was passiert, wenn eine gefühlsresistente Spitzenmanagerin ein Achtsamkeitstraining bei einem Coach absolvieren muss, der selbst in einer Sinnkrise steckt? Maxim Leos rasend komischer und tief berührender Roman über die Suche nach dem richtigen Leben und den Weg zu uns selbst.
-Marlene Buchholz soll Vorstandsvorsitzende des "Aviola"-Konzerns werden. Ihre Kollegen sind sich einig, dass sie fachlich hochkompetent ist - aber menschlich eine ziemliche Katastrophe. Weshalb sie zum Coaching in ein Brandenburger Schloss geschickt wird - zu Alex Grow, dem berühmten Seelenflüsterer.
-Was niemand weiß: Seine Academy steht kurz vor dem Bankrott und Alex hat selbst mit Panikattacken zu kämpfen. Marlene ist seine letzte Hoffnung, denn im Erfolgsfall winkt ein Großauftrag der "Aviola". Doch die Klientin bleibt skeptisch und verschlossen - bis ein verletztes Wildschwein, ein schüchterner Hausmeister und ein dreizehnjähriges Mädchen auftauchen, die Marlenes Augen und Herz öffnen und sie erahnen lassen, was am Ende wirklich zählt.
-
-[View on Apple](https://books.apple.com/de/audiobook/einatmen-ausatmen-ungek%C3%BCrzte-lesung/id1848136243)
-
-<a id="das-grab-im-moor"></a>
-## Das Grab im Moor
-
-![Das Grab im Moor](../../logos/1523055629-e0b3d4d4.png)
-
-Kein Grab ist tief genug für die Wahrheit!
-Eine »Schatzkarte« ihres verstorbenen Großvaters führt eine junge Amerikanerin in die schottischen Highlands zu einem abgelegenen Ort mitten im Moor: Dort stößt sie auf ein vergrabenes, erstaunlich gut erhaltenes Motorrad, Baujahr 1944 – und auf eine männliche Leiche deutlich jüngeren Datums. DCI Karen Pirie, spezialisiert auf Cold Cases, ist eigentlich wegen eines anderen Falles in der Gegend, doch der Tote im Moor lässt ihr keine Ruhe. Er trägt ein sehr spezielles Paar Nike-Sneakers, eine Sonderanfertigung aus dem Jahr 1995. Und er ist offensichtlich keines natürlichen Todes gestorben ...
-
-[View on Apple](https://books.apple.com/de/audiobook/das-grab-im-moor/id1523055629)
-
-<a id="ku-nstliche-intelligenz-und-der-sinn-des-lebens"></a>
-## Künstliche Intelligenz und der Sinn des Lebens
-
-![Künstliche Intelligenz und der Sinn des Lebens](../../logos/1514966572-c9f59364.png)
-
-<b>Der bekannteste Philosoph Deutschlands über die Moral der Künstlichen Intelligenz</b><br /><br />Während die drohende Klimakatastrophe und der enorme Ressourcenverbrauch der Menschheit die Lebensgrundlagen unseres Planeten zerstören, machen sich Informatiker und Ingenieure daran, die Entwicklung einer Künstlichen Intelligenz voranzutreiben, die alles das können soll, was Menschen auch können – nur vielfach "optimierter". Ausgehend von völlig falschen Annahmen soll den Maschinen sogar eine menschenähnliche Moral einprogrammiert werden.<br />Richard David Precht macht uns eindringlich klar, dass das nicht möglich ist. Denn unser Leben besteht nicht aus der Abfolge vorausberechneter Schritte. Wir sind viel mehr als das.<br /><br />Ungekürzte Lesung mit Richard David Precht<br />6h 48min
-
-[View on Apple](https://books.apple.com/de/audiobook/k%C3%BCnstliche-intelligenz-und-der-sinn-des-lebens/id1514966572)
-
-<a id="eine-von-uns"></a>
-## Eine von uns
-
-![Eine von uns](../../logos/1812670966-834c186c.png)
-
-Eine von uns wird bezahlen. Eine von uns wird sterben.
-Als ihr Haus abbrennt, wird Ginas Leben und das ihrer Familie auf den Kopf gestellt. Glücklicherweise ist ihre alte Freundin Annie nicht in der Stadt und bietet ihnen an, vorübergehend bei ihr zu wohnen – in einem wunderschönen, renovierten georgianischen Haus. Gina nimmt das Angebot dankend an. Als es bald darauf an der Tür klingelt und Mary auftaucht, die behauptet, die Haushälterin zu sein, stellt Gina das nicht infrage, denn Annie lobt ihre Angestellte in den höchsten Tönen. Doch Gina hat das Gefühl, dass Mary etwas zu verbergen hat. Während sie darüber grübelt, wird sie von albtraumhaften Erinnerungen heimgesucht – Erinnerungen an eine verhängnisvolle Nacht vor vielen Jahren. Doch der wahre Albtraum steht erst noch bevor.
-
-[View on Apple](https://books.apple.com/de/audiobook/eine-von-uns/id1812670966)
-
-<a id="fu-nf-sechs-sieben-acht"></a>
-## Fünf, sechs, sieben, acht
-
-![Fünf, sechs, sieben, acht](../../logos/1870697849-54a738af.png)
-
-Anton, 60 Jahre alt, ist Stepptänzer. Ja, er ist nicht mehr so schnell wie früher, aber mit seiner Erfahrung und Ausdruckskraft tanzt er – noch – allen davon. Wer sollte ihm also die Stelle als Choreograf an einer Theaterbühne streitig machen? Doch die neue Intendantin sieht das anders – und engagiert ausgerechnet Emma, Antons Tochter. Anton ist verletzt, wütend, traurig und zugleich stolz auf seine Tochter. Zeigen kann er ihr das nicht.
-Die Absage spült etwas in ihm hoch, das er nicht länger verdrängen kann: das Gefühl des Älterwerdens. Plötzlich spürt er die eigene Endlichkeit und fragt sich, ob er sein Leben richtig gelebt hat. Eine Frage, die ihn wieder an eine alte große Liebe denken lässt. Jo war damals einfach spurlos verschwunden. Hätte er mit ihr ein besseres Leben gelebt?
-Es ist Emma, die auf Jos Spur stößt. Mit ihr reist er nach Irland. Alte Konflikte zwischen Vater und Tochter brechen wieder auf. Für Anton wird es eine Reise zu sich selbst und er begreift: Zu Ende ist es erst, wenn es zu Ende ist. Bis dahin will das Leben gelebt werden.
-
-[View on Apple](https://books.apple.com/de/audiobook/f%C3%BCnf-sechs-sieben-acht/id1870697849)
-
-<a id="00-laschet-geku-rzte-lesung"></a>
-## 00-Laschet (Gekürzte Lesung)
-
-![00-Laschet (Gekürzte Lesung)](../../logos/6773634998-5f4283d7.png)
-
-<b>LIZENZ ZUM LACHEN!</b><br /><br />Wer wäre als Spitzenagent der Bundesrepublik wohl besser geeignet als Armin Laschet? Nun, vermutlich sehr viele Menschen.<br /><br />Armin freut sich wie ein Schneekönig, dass er nicht Kanzler geworden ist, sondern Bundespräsident sein darf. Doch schon am ersten Tag erfährt er, dass tief unter dem Schloss Bellevue die Zentrale des geheimsten Geheimdienstes der Welt liegt. Und er als Bundespräsident in Wahrheit nur eine Aufgabe hat: Agenten an Orte zu bringen, an die sie sonst nicht gelangen würden. Sogleich muss der überforderte Armin mit einer jungen Topagentin die Menschheit vor der Auslöschung retten. Sein Abenteuer führt ihn ins Schloss Windsor, an die Côte d'Azur, nach Grönland, in den Vatikan und sogar in die Arme des Popstars Madonna. Und so erstaunlich es auch ist: Die einzige Hoffnung auf ein Überleben der Welt trägt den Namen 00-Laschet!<br /><br />David Safiers Romane und Hörbücher erreichen eine Gesamtauflage von sieben Millionen Exemplaren im In- und Ausland. DieKrimireihe rund um die Ex-Kanzlerin Angela Merkel konnte sich mit jedem Band auf Platz 1 der Bestsellerlisten platzieren.
-
-[View on Apple](https://books.apple.com/de/audiobook/00-laschet-gek%C3%BCrzte-lesung/id6773634998)
-
-<a id="das-buch-von-dem-du-dir-wu-nschst-deine-eltern-ha-tten-es-gelesen"></a>
-## Das Buch, von dem du dir wünschst, deine Eltern hätten es gelesen
-
-![Das Buch, von dem du dir wünschst, deine Eltern hätten es gelesen](../../logos/1502705316-906f01ed.png)
-
-»Ein ganz besonderer Erziehungsratgeber.« ZEIT
-In ihrem Bestseller erklärt Philippa Perry, worauf es zwischen Eltern&#xa0;und Kindern wirklich ankommt. Die erfahrene Psychotherapeutin verrät, wie wir schmerzliche Erfahrungen&#xa0;aus der eigenen Kindheit nicht weitergeben, sondern heilen. Wenn wir uns bewusst machen, dass unsere eigene Erziehung auch das Verhältnis zu&#xa0;unseren Kindern beeinflusst, können wir aus Fehlern lernen – und sie wiedergutmachen. Wir erfahren, wie wir aus negativen Verhaltensmustern ausbrechen und mit impulsiven Gefühlen umgehen.
-Jetzt mit einem zusätzlichen Kapitel über Geschwister
-
-[View on Apple](https://books.apple.com/de/audiobook/das-buch-von-dem-du-dir-w%C3%BCnschst-deine-eltern-h%C3%A4tten/id1502705316)
-
-<a id="das-neinhorn-und-die-schlangeweile"></a>
-## Das NEINhorn und die SchLANGEWEILE
-
-![Das NEINhorn und die SchLANGEWEILE](../../logos/1589234142-573f2580.png)
-
-Schlangweilig? Nicht mit dem NEINhorn und Marc-Uwe Kling!
-
-Diese Ausgabe enthält als Bonus einen exklusiven Live-Mitschnitt von Das NEINhorn und die SchLANGEWEILE – von Marc-Uwe Kling vor Publikum gelesen im Mehringhoftheater Kreuzberg.&#xa0;
-Das NEINhorn und die KönigsDOCHter, die hatten einen Streit ... aber beide wissen nicht mehr, worum es geht. Als sich der NAhUND zum Erzieher aufspielt, wird es dem NEINhorn zu blöd und es zischt ab. Nach einer langen Wanderung landet es im dichten dunklen Dschungel, wo die SchLANGEWEILE von einem Assst runterhängt und allesss sssuper schlangweilig findet! Egal, was das NEINhorn vorschlägt, sie hat keine Schlussst darauf.&#xa0;
-
-Vom Autor der&#xa0;Känguru-Chroniken und der Kinderbuch-Bestseller Das NEINhorn und DerTag, an dem die Oma das Internet kaputt gemacht hat.
-
-[View on Apple](https://books.apple.com/de/audiobook/das-neinhorn-und-die-schlangeweile/id1589234142)
-
-<a id="odyssee-ungeku-rzte-lesung"></a>
-## Odyssee (Ungekürzte Lesung)
-
-![Odyssee (Ungekürzte Lesung)](../../logos/1425151456-17ccae83.png)
-
-Homers "Odysee" - Ein Weltgedicht: Im späten 8. Jahrhundert niedergeschrieben, gehört es zu den ältesten und einflußreichsten Werken der abendländischen Literatur.
-Das Versepos erzählt die Irrfahrten des griechischen Helden Odysseus, der um Troja gekämpft hat und durch den Fluch des Poseidon an der Rückkehr nach Ithaka gehindert wird. Es ist die Geschichte einer Heimkehr, die Geschichte eines Mannes, der trotz ständiger Bedrohungen und Verlockungen sein Ziel nicht aus den Augen verliert. Und es ist die Geschichte einer Frau, die zwanzig Jahre auf ihren Mann warten muss.
-
-[View on Apple](https://books.apple.com/de/audiobook/odyssee-ungek%C3%BCrzte-lesung/id1425151456)
-
-<a id="fuck-smalltalk-mache-bigtalk"></a>
-## FUCK SMALLTALK - MACHE BIGTALK
-
-![FUCK SMALLTALK - MACHE BIGTALK](../../logos/1424426353-a6c7f8c4.png)
-
-Schnell und einfach tiefgehende Gespräche führen, die dich glücklich machen
-
-Fällt es dir schwer Gespräche zu führen und auf andere zuzugehen? Hättest du gerne Freunde fürs Leben? Hast du keine Lust mehr, auf oberflächliche und sinnlose Gespräche? Dann ist BigTalk genau das Richtige für dich! Denn in diesem Buch und GRATIS Videokurs lernst du:
-
-- Wie du unfassbar schnell neue Kontakte knüpfst (und dadurch Freunde findest, die zu dir passen)
-- Wie du Beziehung und Freundschaften aufbaust, die wirklich Bedeutung haben
-- Wie du zu einem beliebten Menschenmagneten wirst
-- Wie du schnell massiv viel Selbstbewusstsein aufbaust
-- Wie du peinliche Stille für dich nutzen lernst
-- Wie du Gesprächsthemen findest, die dir Spaß machen
-- Wie du Angst ganz einfach zu deinem besten Freund machst
-- Wie du mit einer Frage jedes Gespräch zum BigTalk machen kannst
-- Was das Geheimnis von Empathie ist und wie du es anwendest
-- Wie du aufrichtiges Interesse zeigst, ohne schmierig zu wirken
-- Wie du Gefühlen authentisch Ausdruck verleihst und deinen Gesprächspartner für dich gewinnst
-- Wie du jemandem die Meinung sagst, ohne beleidigend zu wirken
-- Wie du durch BigTalk ein für alle Mal die Einsamkeit verlässt
-- Wie du Spaß an sozialen Interaktionen findest
-… und viel mehr!
-
-+ 3 BONUS-Kapitel + GRATIS Videokurs
-
-Deniz ist Autor, Speaker, Podcaster und Mitbegründer von "Erschaffe dich neu", einem Unternehmen, das u.a. durch YouTube Videos und Podcasts tagtäglich tausende Menschen bei ihrer persönlichen Weiterentwicklung unterstützt.
-
-[View on Apple](https://books.apple.com/de/audiobook/fuck-smalltalk-mache-bigtalk/id1424426353)
-
-<a id="harry-potter-and-the-prisoner-of-azkaban"></a>
-## Harry Potter and the Prisoner of Azkaban
-
-![Harry Potter and the Prisoner of Azkaban](../../logos/1442094440-25d88563.png)
-
-Stephen Fry brings the richness of these magical stories to life in the original British recordings.<br /><br /><i>'Welcome to the Knight Bus, emergency transport for the stranded witch or wizard. Just stick out your wand hand, step on board and we can take you anywhere you want to go.'</i><br /><br />Treat your ears to a performance so rich and captivating you'll imagine yourself in the halls of Hogwarts. Wherever you listen, the unmistakable voice of Stephen Fry is guaranteed to guide you ever more deeply into this magical story and transport you to the heart of the adventure.<br /><br />When the Knight Bus crashes through the darkness and screeches to a halt in front of him, it's the start of another far from ordinary year at Hogwarts for Harry Potter. Sirius Black, escaped mass-murderer and follower of Lord Voldemort, is on the run - and they say he is coming after Harry. In his first ever Divination class, Professor Trelawney sees an omen of death in Harry's tea leaves... But perhaps most terrifying of all are the Dementors patrolling the school grounds, with their soul-sucking kiss...<br /><br />Theme music composed by James Hannigan<br /><br />Having become classics of our time, the Harry Potter stories never fail to bring comfort and escapism. With their message of hope, belonging and the enduring power of truth and love, the story of the Boy Who Lived continues to delight generations of new listeners.
-
-[View on Apple](https://books.apple.com/de/audiobook/harry-potter-and-the-prisoner-of-azkaban/id1442094440)
-
-<a id="fifty-fifty"></a>
-## Fifty-Fifty
-
-![Fifty-Fifty](../../logos/1618312214-5a5f8ed1.png)
-
-<b>Eine ist unschuldig. Die andere eine eiskalte Killerin. Welcher der beiden Schwestern glaubst du?</b><br /><br />Frank Avellino wurde mit äußerster Brutalität in seinem eigenen Schlafzimmer erstochen, der Täter muss in einem wahren Blutrausch gehandelt haben. Besser gesagt: die Täterin. Denn Franks Töchter Alexandra und Sofia beschuldigen sich gegenseitig. Eine der beiden ist eine Mörderin, die andere unschuldig. Aber wer sagt die Wahrheit? Sowohl Eddie Flynn, der Sofia vor Gericht verteidigt, als auch Alexandras Anwältin befürchten, dass die Wahrheit im Trubel um diesen spektakulären Fall untergeht. Denn der Ermordete war nicht nur ehemaliger Bürgermeister von New York. Es gibt auch ein Millionenerbe zu verteilen. Eddie Flynns Chancen, die richtige Schwester vor dem Gefängnis zu bewahren, stehen fifty-fifty ...<br /><br />Gekürzte Lesung mit Thomas M. Meinhardt, Susanne Schroeder<br />12h 18min
-
-[View on Apple](https://books.apple.com/de/audiobook/fifty-fifty/id1618312214)
-
-<a id="mein-ehemann-ungeku-rzt"></a>
-## Mein Ehemann (Ungekürzt)
-
-![Mein Ehemann (Ungekürzt)](../../logos/1891934384-d82e4162.png)
-
-st der Mann, den du liebst, ein Mörder?
-Ich bin seit über zwanzig Jahren mit meinem sanftmütigen, liebenden Ehemann Lachlan verheiratet. Er ist mein Ein und Alles, und ich könnte nicht glücklicher sein. Bis meine beste Freundin etwas sagt, das mich alles infrage stellen lässt ...
-Sie findet es merkwürdig, dass Lachlan in der Nähe von gleich zwei unaufgeklärten Mordfällen gelebt hat: Der Mord einer Frau in dem kleinen schottischen Dorf, in dem er aufgewachsen ist, und der grauenvolle Tod unserer Nachbarin. Sicherlich nur ein Zufall, oder?
-Aber in den nächsten Tagen fällt mir plötzlich Lachlans merkwürdiges Verhalten auf. Er ist so wütend, ganz anders als sonst. Verheimlicht er etwas vor mir? Könnte er tatsächlich schuldig sein? Ich schiebe die Vermutungen beiseite, aber der Zweifel nagt an mir.
-Es gibt nur einen Weg, die Wahrheit herauszufinden - in die schottischen Highlands zu fahren und meinen Mann mit seiner Vergangenheit zu konfrontieren. Aber als die Geheimnisse ans Licht kommen, ist die Wahrheit nicht so simpel, wie ich dachte. Denn Lachlan ist nicht der Einzige, der ein Mörder sein könnte.
-Jetzt sind meine Kinder und ich in furchtbarer Gefahr - und hierherzukommen könnte der letzte Fehler gewesen sein, den ich je machen werde.
-
-[View on Apple](https://books.apple.com/de/audiobook/mein-ehemann-ungek%C3%BCrzt/id1891934384)
-
-<a id="nicht-ihre-schuld-johannes-hornoff-thriller-band-1-ungeku-rzt"></a>
-## Nicht ihre Schuld - Johannes-Hornoff-Thriller, Band 1 (ungekürzt)
-
-![Nicht ihre Schuld - Johannes-Hornoff-Thriller, Band 1 (ungekürzt)](../../logos/1683085914-c97ca29e.png)
-
-Auftakt der Johannes-Hornoff-Thrillerreihe von Bestsellerautor Noah Fitz. In einem kleinen Städtchen in der Nähe von Berlin verschwinden zwei Mädchen, Jackie und Michi. Nach mehreren Monaten erfolgloser Fahndung hat die Polizei eine erste Spur. Dann findet sie ein Mädchen, das nicht als vermisst gilt. Es ist tot. Nicht weit vom Fundort entfernt macht die Polizei eine weitere grausige Entdeckung: Familie Frühling wurde in ihrem eigenen Haus brutal ermordet. Nur einer hat das Massaker überlebt: Leopold, der psychisch kranke Sohn des Ehepaares. Ist er der gesuchte Mörder? Wo sind Michi und Jackie? Und warum hatte das tote Mädchen ein silbernes Medaillon in seinem Mund? Auftakt der Johannes-Hornoff-Reihe von Bestsellerautor Noah Fitz, grandios interpretiert von Yesim Meisheit und Wolfgang Wagner.
-
-[View on Apple](https://books.apple.com/de/audiobook/nicht-ihre-schuld-johannes-hornoff-thriller-band-1/id1683085914)
-
-<a id="im-morgengrauen-art-mayer-serie-4"></a>
-## Im Morgengrauen (Art Mayer-Serie 4)
-
-![Im Morgengrauen (Art Mayer-Serie 4)](../../logos/1852028460-c8207702.png)
-
-Art Mayer am Limit.
-Seit Wochen gehen im Netz die Videos einer jungen Frau viral. Ihr Gesicht ist unkenntlich, auf ihrem Unterarm ist ein markantes Eulen-Tattoo. Der Inhalt der Videos: skandalöse Details ihrer Affäre mit dem Bundeskanzler. Ein Fake? Eine Kampagne? Oder die Wahrheit?
-Plötzlich verschwindet Kanzler Henrik Westphal spurlos.&#xa0;
-In der aufgeheizten Stimmung stoßen BKA-Ermittler Art Mayer und Nele Tschaikowski tief im U-Bahntunnel unter dem Alexanderplatz auf die entstellte Leiche einer jungen Frau. War sie die Affäre des Kanzlers? Und welche Rolle spielt Juli, die Frau des Kanzlers – und Arts große Jugendliebe. Als Art plötzlich selbst ins Visier gerät, eskaliert die Situation: Wem kann er noch vertrauen?
-Gelesen wird dieser fesselnde Thriller von Peter Lontzek und Pia-Rhona Saxe.
-
-[View on Apple](https://books.apple.com/de/audiobook/im-morgengrauen-art-mayer-serie-4/id1852028460)
-
-<a id="der-hobbit"></a>
-## Der Hobbit
-
-![Der Hobbit](../../logos/1435742775-4b82a497.png)
-
-Bilbo Beutlin, der kleine Hobbit, macht sich auf den Weg zum Einsamen Berg, um den rechtmäßigen Schatz der Zwerge zurückzuholen, den der Drache Smaug gestohlen hat. Als er auf seiner Reise einen Ring findet und ihn arglos einsteckt, ahnt er nicht, was für eine Rolle der Ring einmal spielen wird ...<br />Gert Heidenreich, die Stimme J.R.R. Tolkiens, erzählt, wie Bilbo sich vom ängstlichen Hobbit zum mutigen Meisterdieb mausert. Wort für Wort ist jetzt das Schicksal Mittelerdes und somit das Tolkiensche Werk zu hören.
-
-[View on Apple](https://books.apple.com/de/audiobook/der-hobbit/id1435742775)
-
-<a id="hollywell-hearts-die-glu-ckspension-am-meer"></a>
-## Hollywell Hearts: Die Glückspension am Meer
-
-![Hollywell Hearts: Die Glückspension am Meer](../../logos/1732404211-45912ef7.png)
-
-Ein Neuanfang am Meer … Nachdem ihr Traum von einer eigenen Familie zerplatzt ist, sehnt sich Ava nach einer Veränderung. Da kommt ein Jobangebot weit weg von London gerade recht: Ava soll ihrer Freundin Tamy beim Aufbau einer kleinen Frühstückspension in Cornwall helfen. Und Tamys Farm »Hollywell Heaven« würde sich doch wunderbar als Rückzugsort für urlaubsreife Großstädter und gestresste Manager anbieten. Oder auch für Kinder, die es nicht leicht im Leben haben und sich im trubeligen Alltag der Ziegenfarm frei entfalten könnten? Ava sprüht nur so vor Ideen – vor allem, als sie den Single-Dad John und seine freche Tochter Elisa kennenlernt. Aber wird sie für eine zweite Chance auf Glück ihre schmerzliche Vergangenheit überwinden können? 
-
-[View on Apple](https://books.apple.com/de/audiobook/hollywell-hearts-die-gl%C3%BCckspension-am-meer/id1732404211)
-
-<a id="das-leuchten-der-kleinen-momente-wie-ich-nach-italien-reiste-und-mich-selbst-fand-ungeku-rzte-lesung"></a>
-## Das Leuchten der kleinen Momente - Wie ich nach Italien reiste und mich selbst fand (Ungekürzte Lesung)
-
-![Das Leuchten der kleinen Momente - Wie ich nach Italien reiste und mich selbst fand (Ungekürzte Lesung)](../../logos/6783895798-c9699077.png)
-
-Ein altes, verwunschenes Hotel in den venezianischen Hügeln, in seinem Garten ein beeindruckendes grünes Labyrinth - als Nina die Villa Primaluna zum ersten Mal sieht, verschlägt es ihr die Sprache. Eigentlich sollte sie jetzt woanders sein, gemeinsam mit ihrem Mann, eine Reise zu ihrem fünfzigsten Geburtstag. Doch nun ist sie allein hier, in ihrem Sehnsuchtsland, und wünscht sich, endlich etwas Zeit für sich zu haben.
-
-Nina begegnet Consilia, die dieses Hotel seit Jahrzehnten führt. Eine weise alte Frau, deren Leben so ganz anders ist als ihr eigenes. Und obwohl sie anfangs zögert, sich Consilia ganz zu öffnen, spürt sie bald, dass diese Reise mehr für sie bereithält als Entspannung und gutes Essen.
-Vielleicht gibt es hier, an diesem besonderen Ort, endlich einen Weg aus der Leere, die sie schon so lange in sich fühlt. Vielleicht ist im Labyrinth die Antwort auf die Frage verborgen, die sie schon zu lange meidet. Und vielleicht findet sie endlich, was sie schon so lange sucht: sich selbst.
-
-[View on Apple](https://books.apple.com/de/audiobook/das-leuchten-der-kleinen-momente-wie-ich-nach-italien/id6783895798)
-
-<a id="ein-sommer-in-niendorf-ungeku-rzt"></a>
-## Ein Sommer in Niendorf (Ungekürzt)
-
-![Ein Sommer in Niendorf (Ungekürzt)](../../logos/1625367078-14bc6f95.png)
-
-Ein bürgerlicher Held, ein Jurist und Schriftsteller namens Roth, begibt sich für eine längere Auszeit nach Niendorf: Er will ein wichtiges Buch schreiben, eine Abrechnung mit seiner Familie. Am mit Bedacht gewählten Ort gerät er aber bald in die Fänge eines trotz seiner penetranten Banalität dämonischen Geists: ein Strandkorbverleiher, außerdem Besitzer des örtlichen Spirituosengeschäfts. Aus Befremden und Belästigtsein wird nach und nach Zufallsgemeinschaft und irgendwann Notwendigkeit. Als Dritte stößt die Freundin des Schnapshändlers hinzu, in jeder Hinsicht eine Nicht-Traumfrau - eigentlich. Und am Ende dieser Sommergeschichte ist Roth seiner alten Welt komplett abhanden gekommen.
-
-[View on Apple](https://books.apple.com/de/audiobook/ein-sommer-in-niendorf-ungek%C3%BCrzt/id1625367078)
-
-<a id="die-kalte-hand-des-camping-killers-kriminalroman-ungeku-rzt"></a>
-## Die kalte Hand des Camping-Killers (Kriminalroman. Ungekürzt.)
-
-![Die kalte Hand des Camping-Killers (Kriminalroman. Ungekürzt.)](../../logos/6789264408-7353f4b4.png)
-
-[View on Apple](https://books.apple.com/de/audiobook/die-kalte-hand-des-camping-killers-kriminalroman-ungek%C3%BCrzt/id6789264408)
-
-<a id="die-7-wege-zur-effektivita-t-prinzipien-fu-r-perso-nlichen-und-beruflichen-erfolg"></a>
-## Die 7 Wege zur Effektivität - Prinzipien für persönlichen und beruflichen Erfolg
-
-![Die 7 Wege zur Effektivität - Prinzipien für persönlichen und beruflichen Erfolg](../../logos/1727101263-fb38fd63.png)
-
-Über 40 Millionen verkaufte Exemplare: Der Meilenstein der Managementliteratur und Selbstorganisation!<br /><br /><i>Die 7 Wege zur Effektivität</i> von Stephen R. Covey sind ein absolutes Ausnahmewerk. Mit über 40 Millionen verkauften Exemplaren gehört es zu den wichtigsten und einflussreichsten Büchern, die jemals geschrieben wurden. Der Managementklassiker hilft Menschen und Organisationen auf der ganzen Welt, ihre Effektivität nicht nur sehr erfolgreich, sondern auch verantwortungsvoll und nachhaltig zu steigern. Die zentrale Botschaft von Stephen R. Covey lautet:<br /><br />Oberflächliche Erfolgstechniken, seelenlose Managementtools und belanglose Motivationstipps bringen uns nicht weiter. Was wirklich zählt, sind zeitlose, allgemeingültige Prinzipien.<br /><br />Die 7 Wege sind so zuverlässig und unumstößlich wie Naturgesetze<br /><br />Ob Fairness, Integrität, Ehrlichkeit, Verantwortungsbewusstsein oder Achtsamkeit und Respekt: Die Prinzipien aus den 7 Wegen sind wie&#xa0;Naturgesetze. Sie wirken immer und überall. Hier ein erster Überblick:<br />
-1. Weg: Pro-aktiv sein
-2. Weg: Schon am Anfang das Ende im Sinn haben
-3. Weg: Das Wichtigste zuerst tun
-4. Weg: Erst verstehen, dann verstanden werden
-5. Weg: Win-Win-Denken
-6. Weg: Synergien schaffen
-7. Weg: Die Säge schärfen
-
-<br />Die 7 Wege sind wirksamer und wichtiger denn je!<br /><br />Das Tempo des Lebens hat für viele Menschen geradezu Lichtgeschwindigkeit erreicht. Bildschirme haben das Regiment übernommen. Rund um die Uhr sind wir mit der ganzen Welt vernetzt. Privates und Berufliches vermischen sich immer mehr. Burn-out und&#xa0; Unzufriedenheit im Job greifen immer weiter um sich. Je schneller die Welt sich dreht und je größer unsere Herausforderungen werden, desto mehr können die 7 Wege uns geben. Inmitten einer Welt des Wandels sorgen sie für Halt, Sicherheit und Orientierung. Die 7 Wege helfen uns, unsere Arbeit und unser Leben so effektiv zu gestalten, dass beruflicher Erfolg und privates Glück auch in herausfordernden Zeiten eine harmonische Einheit bilden. Oder um es mit Stephen R. Covey zu sagen: "Selbst, wenn Sie nur einen der 7 Wege umsetzen, werden Sie sofort Ergebnisse sehen. Aber es ist ein nie endendes Abenteuer, das Ihnen ein Leben voller Verheißungen verspricht!"<br /><br />Dieses Hörbuch macht Sie mit den weltbekannten Prinzipien und Konzepten von Stephen R. Covey zur Verbesserung Ihrer beruflichen und persönlichen Effektivität vertraut. Es basiert auf der deutschen Ausgabe der <i>7 Wege zu Effektivität</i>, die 2005 im GABAL Verlag erschienen ist.<br /><br />Jetzt neu vertont und mit persönlichen Anekdoten von Sohn Sean Covey zu Die <i>7 Wege zur Effektivität</i> exklusiv für Sie in der verlängerten Hörbuchedition!
-
-[View on Apple](https://books.apple.com/de/audiobook/die-7-wege-zur-effektivit%C3%A4t-prinzipien-f%C3%BCr-pers%C3%B6nlichen/id1727101263)
-
-<a id="frisch-verlobt-ungeku-rzt"></a>
-## Frisch verlobt (ungekürzt)
-
-![Frisch verlobt (ungekürzt)](../../logos/1739120657-a3c78793.png)
-
-Wenn alles in ihrem Leben so rund laufen würde wie ihr Nudelholz, wäre Nicole Keyes glücklich. Doch nicht nur die Familienbäckerei, sondern auch ihre beiden Schwestern lassen der leidenschaftlichen Konditorin keine Zeit für die Erfüllung ihrer Wünsche. Bis der wundervolle Hawk in ihr Leben tritt und ihr ein Stück von der Freiheit zeigt, nach der sie sich immer gesehnt hat. Und bald schon stellt Nicole fest: Mit der Liebe ist es wie mit einer Torte - man muss nur die richtigen Zutaten haben, dann gelingt sie auch einer Anfängerin.
-
-[View on Apple](https://books.apple.com/de/audiobook/frisch-verlobt-ungek%C3%BCrzt/id1739120657)
-
-<a id="das-letzte-ko-nigreich"></a>
-## Das letzte Königreich
-
-![Das letzte Königreich](../../logos/1605607572-a044b100.png)
-
-Nordengland im 9. Jahrhundert. Die christlichen Sachsen versuchen ihr Land und ihren Glauben gegen die heidnischen Wikinger zu verteidigen. Der zehnjährige Fürstensohn Uhtred kämpft gegen die dänischen Eroberer. Ragnar, ihr Anführer, ist vom Mut des Jungen in der Schlacht so beeindruckt, daß er ihn verschont. Uhtred wächst als sein Ziehsohn bei den Nordmännern auf. Jahre später droht nun auch Wessex, das letzte der fünf angelsächsischen Königreiche, nach blutigen Raub- und Eroberungszügenan an die Eroberer zu fallen. Da wechselt Uhtred die Seiten und der Kampf um Wessex beginnt … Das letzte Königreich ist der erste Teil der spannenden Wikinger-Saga Bernard Cornwells.
-
-[View on Apple](https://books.apple.com/de/audiobook/das-letzte-k%C3%B6nigreich/id1605607572)
-
-<a id="ausgeliefert"></a>
-## Ausgeliefert
-
-![Ausgeliefert](../../logos/1681349332-28c494ec.png)
-
-<b>Unversöhnlich, unerbittlich, unschlagbar: Jack Reacher, der eigenwilligste Ermittler der amerikanischen Thrillerliteratur!</b><br /><br />Ein Mann und eine Frau treffen zufällig auf einer Straße in Chicago zusammen. Plötzlich tauchen zwei Männer auf und entführen die beiden mit vorgehaltener Waffe. Sie werden mit Handschellen aneinandergekettet, in einen Lieferwagen geworfen und in die tiefen Wälder Montanas gebracht. Die Frau ist Holly Johnson, Agentin des FBI und Tochter eines der ranghöchsten Generäle Washingtons. Der Mann ist Jack Reacher …<br /><br />Ungekürzte Lesung mit Michael Schwarzmaier<br />16h 53min
-
-[View on Apple](https://books.apple.com/de/audiobook/ausgeliefert/id1681349332)
-
-<a id="montanablack"></a>
-## MontanaBlack
-
-![MontanaBlack](../../logos/1503596167-e5f90efe.png)
-
-»Ich wachte auf und fühlte mich wie ein King. Seitdem habe ich nie wieder gekifft.« Mit Anfang 20 ist Marcel Eris an seinem absoluten Tiefpunkt. Er ist drogenabhängig, hat keine Arbeit und wird obdachlos. Um an Geld für Gras und Kokain zu kommen, knackt er Autos und steigt in Häuser ein. Nichts deutet darauf hin, dass dieser perspektivlose Drogenabhängige aus Buxtehude es schaffen sollte, noch einmal in ein normales Leben zurückzukehren. Doch er schafft es und lässt die Welt übers Internet daran teilhaben. Marcel Eris wird zu MontanaBlack und MontanaBlack zu Deutschlands erfolgreichstem Gaming-Streamer mit Millionen Fans auf YouTube und Twitch. Schonungslos offen erzählt er in seiner Autobiografie von dieser Zeit, die ihn tief geprägt hat, und davon, wie er es geschafft hat, vom Junkie zum YouTube-Star zu werden.
-
-[View on Apple](https://books.apple.com/de/audiobook/montanablack/id1503596167)
-
-<a id="acht-hercule-poirot-krimis"></a>
-## Acht Hercule Poirot Krimis
-
-![Acht Hercule Poirot Krimis](../../logos/1435754581-4dccc81b.png)
-
-Diese Hörspiele garantieren allerbeste Krimiunterhaltung: Acht spannende Fälle nach Erzählungen der Queen of Crime. An den Tatorten tummelt sich eine illustre Gesellschaft an hochkarätigen Sprechern: Peter Fricke, Leslie Malton, Udo Schenk und viele andere. Und mit unnachahmlichem Charme geht Meisterdetektiv Hercule Poirot der Frage nach: Wer war diesmal der Mörder?<br />Enthält die Krimis "Eine Tür fällt ins Schloss", "Tot im dritten Stock", "Urlaub auf Rhodos", "Lasst Blumen sprechen", "Poirot und der Kidnapper", "Der Traum", "24 Schwarzdrosseln" und "Der verräterische Garten".<br /><b>(Laufzeit: 5h 28) </b>
-
-[View on Apple](https://books.apple.com/de/audiobook/acht-hercule-poirot-krimis/id1435754581)
-
-<a id="odyssee-von-abenteuern-irrfahrten-und-heimkehr-die-mythos-tetralogie-band-4-ungeku-rzt"></a>
-## Odyssee - Von Abenteuern, Irrfahrten und Heimkehr - Die Mythos-Tetralogie, Band 4 (Ungekürzt)
-
-![Odyssee - Von Abenteuern, Irrfahrten und Heimkehr - Die Mythos-Tetralogie, Band 4 (Ungekürzt)](../../logos/1842829489-08e4d436.png)
-
-Der krönende Abschluss der Mythos-Tetralogie: Die berühmteste Heldengeschichte aller Zeiten
-Troja ist gefallen. Nach zehn Jahren Krieg lockt für die Griechen endlich die Heimat. Während Agamemnon zu Hause die Rache Klytaimnestras erwartet, ist Odysseus dazu verdammt, über die Meere zu irren. Dabei muss er sich einäugigen Riesen, verführerischen Nymphen, schrecklichen Seeungeheuern und tosenden Stürmen stellen, um nach Ithaka zu seiner klugen Frau Penelope zurückzukehren.
-In einer grandios unterhaltsamen Neuerzählung des Homer'schen Epos lädt uns der Erfolgsautor Stephen Fry dazu ein, die faszinierende Welt der griechischen Mythen, Götter und Helden neu zu entdecken. Fast wünscht man sich dabei, diese Irrfahrt würde nie enden.
-
-[View on Apple](https://books.apple.com/de/audiobook/odyssee-von-abenteuern-irrfahrten-und-heimkehr-die/id1842829489)
-
-<a id="die-perlenschwester"></a>
-## Die Perlenschwester
-
-![Die Perlenschwester](../../logos/1435888258-7cef68c8.png)
-
-<b>Von den exotischen Stränden Thailands in die Weiten des australischen Outbacks</b><br /><br />Wie auch ihre Schwestern ist CeCe d'Aplièse ein Adoptivkind, und ihre Herkunft ist ihr unbekannt. Als ihr Vater stirbt, hinterlässt er einen Hinweis – sie soll in Australien die Spur einer gewissen Kitty Mercer ausfindig machen, eine Schottin, die im 19. Jahrhundert nach Australien kam und den Perlenhandel zu ungeahnter Blüte brachte. CeCe fliegt nach Down Under, um den verschlungenen Pfaden von Kittys Schicksal zu folgen. Und taucht dabei ein in die magische Kunst der Aborigines, die ihr den Weg weist ins Herz ihrer eigenen Geschichte ...<br />Gelesen von Katharina Spiering, Oliver Siebeck und Katja Hirsch.<br /><br /><b>(2 mp3-CDs, Laufzeit: 18h 9)</b>
-
-[View on Apple](https://books.apple.com/de/audiobook/die-perlenschwester/id1435888258)
-
-<a id="das-cafe-am-rande-der-welt-the-cafe-on-the-edge-of-the-world-eine-erza-hlung-u-ber-den-sinn-des-lebens-a-narrative-about-the-meaning-of-life-unabridged"></a>
-## Das Café am Rande der Welt [The Cafe on the Edge of the World]: Eine Erzählung über den Sinn des Lebens [A Narrative About the Meaning of Life] (Unabridged)
-
-![Das Café am Rande der Welt \[The Cafe on the Edge of the World\]: Eine Erzählung über den Sinn des Lebens \[A Narrative About the Meaning of Life\] (Unabridged)](../../logos/1450302424-c5fff0f8.png)
-
-In einem Café mitten im Nirgendwo wird John mit 3 Sinnfragen konfrontiert. "Die Möwe Jonathan für das neue Jahrtausend."<br /><br />Ein kleines Café mitten im Nirgendwo wird zum Wendepunkt im Leben von John, einem Werbemanager, der stets in Eile ist. Eigentlich will er nur kurz Rast machen, doch dann entdeckt er auf der Speisekarte neben dem Menü des Tages drei Fragen: "Warum bist du hier? Hast du Angst vor dem Tod? Führst du ein erfülltes Leben?" Wie seltsam - doch einmal neugierig geworden, will John mithilfe des Kochs, der Bedienung und eines Gastes dieses Geheimnis ergründen. Die Fragen nach dem Sinn des Lebens führen ihn gedanklich weit weg von seiner Vorstandsetage an die Meeresküste von Hawaii. Dabei verändert sich seine Einstellung zum Leben und zu seinen Beziehungen, und er erfährt, wie viel man von einer weisen grünen Meeresschildkröte lernen kann. So gerät diese Reise letztlich zu einer Reise zum eigenen Selbst. Ein ebenso lebendig geschriebenes, humorvolles wie anrührendes Hörbuch.<br /><br />&#xa0;<b>Please note: This audiobook is in German.</b>
-
-[View on Apple](https://books.apple.com/de/audiobook/das-caf%C3%A9-am-rande-der-welt-the-cafe-on-the-edge/id1450302424)
-
-<a id="held-aller-zeiten-die-nebelgeborenen-3"></a>
-## Held aller Zeiten (Die Nebelgeborenen 3)
-
-![Held aller Zeiten (Die Nebelgeborenen 3)](../../logos/1763802722-38151a0d.png)
-
-Band 3 der erfolgreichen »Nebelgeborenen«-Reihe!
-Das Letzte Reich ist Vergangenheit, der Oberste Herrscher besiegt. Das jetzt freie Volk der Skaa und die Nebelgeborenen blickten hoffnungsvoll in die Zukunft. Doch um wirklich ein neues glückliches Zeitalter herbeizuführen, müssen die Helden um Rebellenanführerin Vin und den neuen König Elant noch einige Prüfungen bestehen. Es gilt Kriege mit neuen Feinden zu bestreiten – und nun muss auch noch ein uraltes Grauen besiegt und das Land von einem tödlichen Fluch befreit werden. Doch dafür müssen die mit den magischen Kräften der Metalle ausgestatteten Nebelgeborenen düsteren Geheimnissen aus vergangenen Zeiten auf die Spur kommen, sodass am Ende ein Held aller Zeiten vielleicht doch noch alles zum Guten wenden kann ...
-Vielschichtig und fesselnd: High-Fantasy-Welten von Brandon Sanderson &#xa0;
-High Fantasy oder epische Fantasy bezeichnet Fantasy, die in einer magischen, uns völlig fremden Welt spielt. Wie J.R.R. Tolkien mit seinem Mittelerde oder Robert Jordan mit Rad der Zeit entwirft auch Brandon Sanderson mit beeindruckender Vorstellungskraft und Liebe zum Detail ebenso komplexe wie anschauliche Welten und magische Systeme.  &#xa0;
-Einstieg in die Nebelgeborenen-Saga voller Magie und Metalle  &#xa0;
-Nach seinem gefeierten Debütroman »Elantris« legt Fantasy-Autor Brandon Sanderson mit der Trilogie um die mit magischen Fähigkeiten kämpfenden Nebelgeborenen nach. »Die Kinder des Nebels« ist der gelungene, temporeiche Einstieg in die Welt des Letzten Reiches, in dem eine Gruppe Abtrünniger versucht, die Welt von ihrem grausamen Herrscher zu befreien. 
-*** Weitere Bände der Reihe ***
-Erstes Zeitalter der Nebelgeborenen:
-»Kinder des Nebels« (Band 1)
-»Krieger des Feuers« (Band 2)
-»Held aller Zeiten« (Band 3)
-
-Zweites Zeitalter der Nebelgeborenen (»Wax &amp; Wayne«-Reihe):
-»Hüter des Gesetzes« (Band 4) (vormals erschienen als: Jäger der Macht)
-»Schatten über Elantel« (Band 5)
-»Bänder der Trauer« (Band 6)
-»Metall der Götter« (Band 7)
-
-[View on Apple](https://books.apple.com/de/audiobook/held-aller-zeiten-die-nebelgeborenen-3/id1763802722)
+[View on Apple](https://books.apple.com/de/audiobook/alles-klar-der-kleine-drache-kokosnuss-erforscht-den/id1618345799)

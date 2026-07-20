@@ -3,101 +3,101 @@
 - [Claude by Anthropic](#claude-by-anthropic)
 - [ChatGPT](#chatgpt)
 - [DramaWave - Drama & Reel](#dramawave-drama-reel)
+- [Shop: Deine Lieblingsmarken](#shop-deine-lieblingsmarken)
 - [NetShort -Beliebte Dramen & TV](#netshort-beliebte-dramen-tv)
 - [ReelShort - Stream Drama & TV](#reelshort-stream-drama-tv)
 - [Airbnb](#airbnb)
 - [Revolut — Banking & Trading](#revolut-banking-trading)
-- [Shop: Deine Lieblingsmarken](#shop-deine-lieblingsmarken)
-- [Winamax Paris Sportifs & Poker](#winamax-paris-sportifs-poker)
+- [Waze Navigation und Verkehr](#waze-navigation-und-verkehr)
+- [France Identité](#france-identite)
+- [Threads](#threads)
 - [多邻国Duolingo英语日语法语](#多邻国duolingo英语日语法语)
 - [Whatnot: Shop, Sell, Connect](#whatnot-shop-sell-connect)
-- [Waze Navigation und Verkehr](#waze-navigation-und-verkehr)
-- [Threads](#threads)
 - [Bolt: Fahrten anfordern](#bolt-fahrten-anfordern)
-- [Betclic Paris Sportifs & Poker](#betclic-paris-sportifs-poker)
-- [Netflix Game Controller](#netflix-game-controller)
-- [CapCut: Foto- und Video-Editor](#capcut-foto-und-video-editor)
-- [Uber: Ride-Hailing & Taxis](#uber-ride-hailing-taxis)
-- [leboncoin](#leboncoin)
-- [Booking.com: Hotel Angebote](#booking-com-hotel-angebote)
 - [Google Maps](#google-maps)
-- [Google](#google)
-- [Wero](#wero)
-- [France Identité](#france-identite)
+- [Uber: Ride-Hailing & Taxis](#uber-ride-hailing-taxis)
+- [Booking.com: Hotel Angebote](#booking-com-hotel-angebote)
+- [leboncoin](#leboncoin)
+- [Winamax Paris Sportifs & Poker](#winamax-paris-sportifs-poker)
+- [CapCut: Foto- und Video-Editor](#capcut-foto-und-video-editor)
 - [Strava: Laufen & Radfahren](#strava-laufen-radfahren)
+- [Wero](#wero)
+- [Netflix Game Controller](#netflix-game-controller)
+- [Google](#google)
+- [Betclic Paris Sportifs & Poker](#betclic-paris-sportifs-poker)
+- [EasyPark parken - Park App](#easypark-parken-park-app)
+- [Doctolib - Die Gesundheits-App](#doctolib-die-gesundheits-app)
 - [tricount: compte entre amis](#tricount-compte-entre-amis)
-- [Vinted: Secondhand-Marktplatz](#vinted-secondhand-marktplatz)
 - [SNCF Connect: Trains & trajets](#sncf-connect-trains-trajets)
-- [Facebook](#facebook)
-- [Uber Eats: Essen, Lieferdienst](#uber-eats-essen-lieferdienst)
+- [Polarsteps](#polarsteps)
 - [Meta AI](#meta-ai)
+- [Vinted: Secondhand-Marktplatz](#vinted-secondhand-marktplatz)
+- [Facebook](#facebook)
+- [Amazon FR](#amazon-fr)
 - [Pinterest](#pinterest)
 - [Telegram Messenger](#telegram-messenger)
-- [Amazon FR](#amazon-fr)
-- [Polarsteps](#polarsteps)
-- [Spotify Musik und Podcasts](#spotify-musik-und-podcasts)
-- [WePlay - Partyspiel & Chat](#weplay-partyspiel-chat)
-- [Hinge Dating App: Date & Meet](#hinge-dating-app-date-meet)
-- [Netflix](#netflix)
-- [X](#x)
-- [teststar: Gagnez de l’Argent](#teststar-gagnez-de-l-argent)
-- [Instagram](#instagram)
-- [INTERSPORT France](#intersport-france)
-- [EasyPark parken - Park App](#easypark-parken-park-app)
-- [Proton VPN: Privé et Rapide](#proton-vpn-prive-et-rapide)
-- [Google Chrome](#google-chrome)
-- [Mondial Relay, suivi de colis](#mondial-relay-suivi-de-colis)
-- [GetYourGuide: Planen & buchen](#getyourguide-planen-buchen)
-- [Roole Map : Navigation](#roole-map-navigation)
 - [Île-de-France Mobilités](#i-le-de-france-mobilite-s)
+- [Mondial Relay, suivi de colis](#mondial-relay-suivi-de-colis)
+- [Spotify Musik und Podcasts](#spotify-musik-und-podcasts)
 - [AllTrails Rando Sentiers Carte](#alltrails-rando-sentiers-carte)
-- [Discord - Chat, Jeux, Détente](#discord-chat-jeux-de-tente)
-- [Mon E.Leclerc](#mon-e-leclerc)
-- [TikTok - Videos, Shop und LIVE](#tiktok-videos-shop-und-live)
-- [Bump - va voir tes amis IRL](#bump-va-voir-tes-amis-irl)
-- [Parions Sport](#parions-sport)
-- [Doctolib - Die Gesundheits-App](#doctolib-die-gesundheits-app)
-- [DramaBox - Film et Drame Court](#dramabox-film-et-drame-court)
-- [Zalando Mode & Fashion online](#zalando-mode-fashion-online)
-- [Gmail – E-Mail von Google](#gmail-e-mail-von-google)
-- [PayPal: Geld senden, verwalten](#paypal-geld-senden-verwalten)
-- [Amazon Prime Video](#amazon-prime-video)
-- [Action](#action)
-- [SeLoger location & achat immo](#seloger-location-achat-immo)
-- [Planity](#planity)
-- [Indeed Jobs](#indeed-jobs)
-- [Too Good To Go: Essen retten](#too-good-to-go-essen-retten)
-- [Commerce B2B avec Alibaba](#commerce-b2b-avec-alibaba)
-- [Free](#free)
-- [VPN - Super Unlimited Proxy ™](#vpn-super-unlimited-proxy-tm)
-- [Grand Frais](#grand-frais)
-- [YouTube](#youtube)
-- [WhatsApp Messenger](#whatsapp-messenger)
+- [INTERSPORT France](#intersport-france)
+- [Tchap](#tchap)
 - [L’Identité Numérique La Poste](#l-identite-nume-rique-la-poste)
+- [Roole Map : Navigation](#roole-map-navigation)
+- [teststar: Gagnez de l’Argent](#teststar-gagnez-de-l-argent)
+- [WePlay - Partyspiel & Chat](#weplay-partyspiel-chat)
+- [GetYourGuide: Planen & buchen](#getyourguide-planen-buchen)
+- [Google Chrome](#google-chrome)
+- [Uber Eats: Essen, Lieferdienst](#uber-eats-essen-lieferdienst)
+- [Mon E.Leclerc](#mon-e-leclerc)
+- [X (anciennement Twitter)](#x-anciennement-twitter)
+- [Planity](#planity)
+- [Hinge Dating App: Date & Meet](#hinge-dating-app-date-meet)
+- [Instagram](#instagram)
+- [Netflix](#netflix)
+- [Indeed Jobs](#indeed-jobs)
+- [SeLoger location & achat immo](#seloger-location-achat-immo)
+- [Gmail – E-Mail von Google](#gmail-e-mail-von-google)
+- [TikTok - Videos, Shop und LIVE](#tiktok-videos-shop-und-live)
+- [Compte ameli](#compte-ameli)
+- [Shotgun - Musique Live](#shotgun-musique-live)
+- [Proton VPN: Privé et Rapide](#proton-vpn-prive-et-rapide)
+- [Zalando Mode & Fashion online](#zalando-mode-fashion-online)
+- [Action](#action)
+- [Grand Frais](#grand-frais)
+- [Bump - va voir tes amis IRL](#bump-va-voir-tes-amis-irl)
+- [Discord - Chat, Jeux, Détente](#discord-chat-jeux-de-tente)
+- [PayPal: Geld senden, verwalten](#paypal-geld-senden-verwalten)
+- [Free](#free)
+- [DramaBox - Film et Drame Court](#dramabox-film-et-drame-court)
+- [Microsoft Authenticator](#microsoft-authenticator)
+- [Commerce B2B avec Alibaba](#commerce-b2b-avec-alibaba)
+- [WhatsApp Messenger](#whatsapp-messenger)
 - [BlaBlaCar : Bus, Train, Covoit](#blablacar-bus-train-covoit)
-- [Temu : Achats et Mode en Ligne](#temu-achats-et-mode-en-ligne)
-- [Hacoo - Discovering &Inspiring](#hacoo-discovering-inspiring)
-- [Charge E-Lec - E.Leclerc](#charge-e-lec-e-leclerc)
-- [Google Photos](#google-photos)
+- [Too Good To Go: Essen retten](#too-good-to-go-essen-retten)
+- [Parions Sport](#parions-sport)
+- [Amazon Prime Video](#amazon-prime-video)
+- [Lidl Plus](#lidl-plus)
+- [YouTube](#youtube)
 - [Ryanair](#ryanair)
 - [Joko | Cashback & code promo](#joko-cashback-code-promo)
+- [VPN - Super Unlimited Proxy ™](#vpn-super-unlimited-proxy-tm)
 - [Canva: KI-Foto- & Video-Editor](#canva-ki-foto-video-editor)
-- [McDo+ : Faites-vous livrer !](#mcdo-faites-vous-livrer)
-- [Unibet Paris Sportifs et Poker](#unibet-paris-sportifs-et-poker)
-- [Grok - Assistant IA](#grok-assistant-ia)
-- [Shotgun - Musique Live](#shotgun-musique-live)
-- [TV Télécommande Universelle・](#tv-te-le-commande-universelle)
-- [Snapchat: Chatte mit Freunden](#snapchat-chatte-mit-freunden)
+- [Temu : Achats et Mode en Ligne](#temu-achats-et-mode-en-ligne)
+- [Google Photos](#google-photos)
+- [Hacoo - Discovering &Inspiring](#hacoo-discovering-inspiring)
+- [Charge E-Lec - E.Leclerc](#charge-e-lec-e-leclerc)
 - [Feux de Forêt](#feux-de-fore-t)
-- [Lidl Plus](#lidl-plus)
-- [Tinder: appli de rencontre](#tinder-appli-de-rencontre)
-- [france.tv: direct et replay TV](#france-tv-direct-et-replay-tv)
-- [Compte ameli](#compte-ameli)
+- [komoot - Wandern und Radfahren](#komoot-wandern-und-radfahren)
 - [GenK : Culture Générale](#genk-culture-ge-ne-rale)
-- [JustPlay: Cumulez pts fidélité](#justplay-cumulez-pts-fide-lite)
-- [inDrive - Au-delà du taxi](#indrive-au-dela-du-taxi)
-- [Flo : calendrier menstruel](#flo-calendrier-menstruel)
+- [Grok - Assistant IA](#grok-assistant-ia)
 - [BoursoBank](#boursobank)
+- [Snapchat : chats entre ami·e·s](#snapchat-chats-entre-ami-e-s)
+- [Transavia](#transavia)
+- [JustPlay: Cumulez pts fidélité](#justplay-cumulez-pts-fide-lite)
+- [Carrefour & sa carte Club](#carrefour-sa-carte-club)
+- [Flo : calendrier menstruel](#flo-calendrier-menstruel)
+- [McDo+ : Faites-vous livrer !](#mcdo-faites-vous-livrer)
 
 <a id="m6-streaming-tv-replay"></a>
 ## M6+ : Streaming & Tv Replay
@@ -336,6 +336,43 @@ Lade DramaWave jetzt herunter und tauche in eine neue Welt des Dramas ein!
 
 [View on Apple](https://apps.apple.com/fr/app/dramawave-courts-reels/id6670430706)
 
+<a id="shop-deine-lieblingsmarken"></a>
+## Shop: Deine Lieblingsmarken
+
+![Shop: Deine Lieblingsmarken](../../logos/1223471316-9c775004.png)
+
+Jeden Shopping-Moment zum Highlight machen
+
+– Aktuelle Trends in einer einzigen Shopping-App entdecken, verfolgen und kaufen
+– Mit Push-Benachrichtigungen von Marken, denen du folgst, nie wieder einen Sale, eine Lagerauffüllung oder ein Bestellupdate verpassen
+– Personalisierte Einkaufsempfehlungen erhalten und neue Marken entdecken
+
+Shoppen, das sich lohnt
+
+– Shop Cash-Prämien für Einkäufe in der Shop App*
+– Mit Shop Pay kannst du deine Rechnungsdaten geschützt aufbewahren und mit nur einem Tastendruck den Shopping-Checkout durchführen.
+– Unkompliziertes Shopping mit flexiblen Zahlungsoptionen, wann immer du willst*
+
+Unbesorgtes Shopping
+
+– Online-Bestellungen in einer App verwalten
+– Mit Nachverfolgung in Echtzeit immer über den Verbleib deines Pakets auf dem Laufenden bleiben – vom Versand bis zur Haustür.
+
+ 
+---
+
+Kontaktinformationen:
+
+Du hast eine Frage oder möchtest mit uns reden? Kontaktiere uns unter help.shop.app
+
+Sicher und unbesorgt einkaufen: Unsere Server erfüllen strenge PCI-Compliance-Standards für die Hinterlegung von Kreditkarteninformationen.
+
+Powered by Shopify: Shop beruht auf der Commerce-Plattform, der Millionen von Unternehmen weltweit vertrauen.
+
+* Nur in den USA und Kanada verfügbar. Zahlungsoptionen werden von Affirm angeboten und unterliegen einer Berechtigungsprüfung. Nicht verfügbar in New Mexico. Einwohner:innen Kaliforniens: Darlehen von Affirm Loan Services, LLC werden gemäß einer California Finance Lender-Lizenz erteilt oder geregelt.
+
+[View on Apple](https://apps.apple.com/fr/app/shop-vos-marques-pr%C3%A9f%C3%A9r%C3%A9es/id1223471316)
+
 <a id="netshort-beliebte-dramen-tv"></a>
 ## NetShort -Beliebte Dramen & TV
 
@@ -507,42 +544,364 @@ Bankdienstleistungen werden von der Revolut Bank UAB, Zweigniederlassung Deutsch
 
 [View on Apple](https://apps.apple.com/fr/app/revolut-plus-quune-banque/id932493382)
 
-<a id="shop-deine-lieblingsmarken"></a>
-## Shop: Deine Lieblingsmarken
+<a id="waze-navigation-und-verkehr"></a>
+## Waze Navigation und Verkehr
 
-![Shop: Deine Lieblingsmarken](../../logos/1223471316-9c775004.png)
+![Waze Navigation und Verkehr](../../logos/323229106-ab1f5cba.png)
 
-Jeden Shopping-Moment zum Highlight machen
+Waze ist eine community-basierende Navigations-App, die Millionen Nutzern an ihr Ziel hilft, indem sie Echtzeitwarnungen zu den Straßenverhältnissen und eine tagesaktuelle Karte bietet. Dank unserem Netzwerk an Fahrern spart Dir Waze Zeit, weil es sofort warnt bei Stau, Baustellen, Unfällen, Polizeikontrollen und mehr. Von Routenaktualisierungen zur Stauvermeidung, Echtzeit-Warnungen zu Deiner Sicherheit, bis zu Hinweisen zu niedrigen Treibstoffpreisen, ist Waze eine Gemeinschaft von Fahrern, die anderen Fahrern helfen.
 
-– Aktuelle Trends in einer einzigen Shopping-App entdecken, verfolgen und kaufen
-– Mit Push-Benachrichtigungen von Marken, denen du folgst, nie wieder einen Sale, eine Lagerauffüllung oder ein Bestellupdate verpassen
-– Personalisierte Einkaufsempfehlungen erhalten und neue Marken entdecken
 
-Shoppen, das sich lohnt
+Mit Waze wirst du...
 
-– Shop Cash-Prämien für Einkäufe in der Shop App*
-– Mit Shop Pay kannst du deine Rechnungsdaten geschützt aufbewahren und mit nur einem Tastendruck den Shopping-Checkout durchführen.
-– Unkompliziertes Shopping mit flexiblen Zahlungsoptionen, wann immer du willst*
 
-Unbesorgtes Shopping
+• Schneller ankommen: Stauvermeidende Routenupdates
+• Bußgelder vermeiden: sei über Polizeikontrollen und Blitzer informiert
+• Eine genauere Ankunftszeit haben: Aufgrund von Live-Verkehrsdaten, Baustellen, Wetter und mehr
+• Von der Community-basierende Navigationprofitieren: Echtzeit-Updates von anderen Autofahrern
+• Geld sparen: Finde die günstigste Tankstelle auf deiner Route
+• Maut sparen: Sieh dir die Mautpreise an, wenn du eine Route auswählst
+• Apple Car Play nutzen können: Verbinde Waze mit dem eingebauten System
+• den Vorteil des Echtzeit-Tacho erleben: Erhalte Warnungen, wenn du zu schnell fährst und vermeide Strafzettel
+• Deine Fahrt individualisieren könnne: erhalte Routenanweisungen von Deinen Lieblings-Stars und Filmcharakteren
+• Nicht mehr zwischen Apps hin- und herschalten müssen: nutze Deine Lieblings-Audio-App direkt aus Waze heraus
 
-– Online-Bestellungen in einer App verwalten
-– Mit Nachverfolgung in Echtzeit immer über den Verbleib deines Pakets auf dem Laufenden bleiben – vom Versand bis zur Haustür.
 
- 
----
+Fahre sicherer und smarter mit Waze!
 
-Kontaktinformationen:
 
-Du hast eine Frage oder möchtest mit uns reden? Kontaktiere uns unter help.shop.app
+Du kannst jederzeit Deine Waze Privatsphäreeinstellungen verwalten und ändern. Erfahre mehr über die Waze Datenschutzerklärung unter www.waze.com/legal/privacy.
 
-Sicher und unbesorgt einkaufen: Unsere Server erfüllen strenge PCI-Compliance-Standards für die Hinterlegung von Kreditkarteninformationen.
 
-Powered by Shopify: Shop beruht auf der Commerce-Plattform, der Millionen von Unternehmen weltweit vertrauen.
+Die Waze Routenführung ist nicht für Einsatzfahrzeuge und übergroße Fahrzeuge bestimmt.
 
-* Nur in den USA und Kanada verfügbar. Zahlungsoptionen werden von Affirm angeboten und unterliegen einer Berechtigungsprüfung. Nicht verfügbar in New Mexico. Einwohner:innen Kaliforniens: Darlehen von Affirm Loan Services, LLC werden gemäß einer California Finance Lender-Lizenz erteilt oder geregelt.
+[View on Apple](https://apps.apple.com/fr/app/navigation-waze-et-trafic/id323229106)
 
-[View on Apple](https://apps.apple.com/fr/app/shop-vos-marques-pr%C3%A9f%C3%A9r%C3%A9es/id1223471316)
+<a id="france-identite"></a>
+## France Identité
+
+![France Identité](../../logos/1590142959-3c5d2b28.png)
+
+L'IDENTITÉ NUMÉRIQUE RÉGALIENNE PERMET DE :
+- Prouver votre identité sans divulguer toutes vos données
+- Remplacer vos identifiants et mots de passe
+- Empêcher l'usurpation de votre d'identité
+VOUS AVEZ PLUS DE 18 ANS ET VOUS ÊTES MUNIS DE LA NOUVELLE CARTE NATIONALE D'IDENTITÉ ?
+- Téléchargez France Identité
+- Créez votre identité numérique
+- Gardez la maitrise de vos données
+AVEC L'APPLICATION FRANCE IDENTITÉ :
+- Lisez votre nouvelle carte d'identité directement avec votre téléphone
+- Définissez votre code personnel pour sécuriser l'accès à vos données
+- Créez des justificatifs d'identité à usage unique pour remplacer les photocopies de votre carte d'identité
+- Authentifiez-vous sur tous les services disponibles sur FranceConnect
+- Dématérialisez votre permis de conduire
+À VENIR:
+- La dématérialisation de la carte grise et de l'assurance
+LE RESPECT DE VOS DONNÉES
+L'application ne traite pas vos données à des fins commerciales ou publicitaires et applique notamment les dispositions du règlement général sur la protection des données (ou RGPD) et de la loi informatique et libertés.
+
+[View on Apple](https://apps.apple.com/fr/app/france-identit%C3%A9/id1590142959)
+
+<a id="threads"></a>
+## Threads
+
+![Threads](../../logos/6446901002-174304f3.png)
+
+Entdecke neue Perspektiven und unterhalte dich mit anderen auf Threads.
+
+Finde heraus, worüber die Menschen gerade sprechen, von ungewöhnlichen Interessen bis zu großen Momenten. Mit Communitys findest du auf Threads Menschen mit ähnlichen Interessen. Antworte, höre zu, teile selbst etwas oder folge ihnen.
+
+Das kannst du auf Threads tun:
+
+■ Starte einen Thread, teile deine Sichtweise
+Beschäftigt dich etwas? Poste es auf Threads. Teile einen Gedanken, stelle eine Frage oder beginne eine Unterhaltung. Es gibt verschiedene Möglichkeiten, um Dinge mit Text, Bildern, Umfragen, selbstlöschenden Beiträgen und mehr ins Rollen zu bringen.
+
+■ Springe direkt zu den Antworten
+Beteilige dich direkt an der Diskussion, reagiere auf neue Ideen oder beobachte, in welche Richtung sich das Gespräch entwickelt. Jeder Thread ist eine Einladung, dich zu beteiligen.
+
+■ Behalte Trends im Blick
+Von Live-Ergebnissen bis zu entscheidenden Momenten: Mit Threads bist du immer auf dem Laufenden und kannst dich direkt an der Diskussion beteiligen, wenn du etwas zu sagen hast.
+
+■ Du steuerst, welche Inhalte du siehst
+Steuere, wer dir antworten, dich erwähnen oder deine Beiträge sehen kann. Verwende unerwünschte Begriffe, um Beiträge und Antworten herauszufiltern, die Begriffe oder Formulierungen enthalten, die du nicht sehen möchtest. So gestaltest du dein Nutzungserlebnis nach deinen Vorstellungen.
+
+■ Vertiefe deine Interessen
+Folge Freund*innen, Creator*innen und Communitys, die dich interessieren. Threads wurde entwickelt, um neue Perspektiven zu entdecken und miteinander ins Gespräch zu kommen – angefangen mit den Communitys, die dir am wichtigsten sind.
+
+■ Schaffe Verbindungen im Chat
+Führe private Unterhaltungen mit 1:1-Chats und Gruppen-Direktnachrichten. Wenn ein öffentlicher Thread persönlich wird, kannst du ihn in dein Postfach verschieben, um das Gespräch zu vertiefen oder den Teilnehmerkreis einzugrenzen.
+
+Meta Terms: https://www.facebook.com/terms.php
+Threads Supplemental Terms: https://help.instagram.com/769983657850450
+Meta Privacy Policy: https://privacycenter.instagram.com/policy
+Threads Supplemental Privacy Policy: https://help.instagram.com/515230437301944
+Instagram Community Guidelines: https://help.instagram.com/477434105621119
+
+[View on Apple](https://apps.apple.com/fr/app/threads/id6446901002)
+
+<a id="多邻国duolingo英语日语法语"></a>
+## 多邻国Duolingo英语日语法语
+
+![多邻国Duolingo英语日语法语](../../logos/570060128-f81fecd8.png)
+
+火遍全球的语言学习APP：多邻国Duolingo！5亿用户的选择。
+
+【40多个语种】包含英语、日语、韩语、法语、意大利语、西班牙语等流行语言，还有夏威夷语、威尔士语等小众和濒危语言，甚至有《权力的游戏》中的龙语哦。
+
+【游戏化学习】零基础入门，将生活场景分成单元学习，旅行、点菜、聊天、面试...忘掉那些枯燥乏味的死记硬背吧，用游戏闯关的方法，有宝石、王冠，有可可爱爱的动画人物为你加油鼓气，玩儿着玩儿着就学会了。
+
+【碎片时间】每天10-15分钟即可循序渐进，通勤、排队、等待时间都不会浪费啦！
+
+【可免费学习所有课程】我们的愿景是为全世界提供平等且优质的学习机会。
+
+千呼万唤，多邻国粤语课程终于迎来重磅更新！
+【从虾饺到糖水，终于可以从早吃到晚】
+“你哋是但叫嘢，今日多兒埋單。”
+ 糖水、地方美食、街头小吃……更多粤式美食词汇和真实场景上线。下一次去茶楼，不只是会说“唔该”，还能自信加单！
+【看港片不用等字幕，不必空耳懂情歌】
+“今日唔想做嘢，不如我哋去唱K啦。”
+经典粤语歌词、港片对白首次加入课程。那些耳熟能详的旋律和台词，这次终于不只是会跟着唱，而是真的听得懂。
+【走进真实生活语境，从天气寒暄聊到人生百态】
+“我唔想做馬騮，好想放工啊！”
+租房、上班、点外卖、刷社交媒体；从校园生活到职场日常，从谈情说爱到中年烦恼。学的不只是语言，更是粤语区年轻人的真实生活。
+【去顺德食饭，去珠海散步，感受大湾区的烟火气】
+“我哋去順德啦！上次去順德仲係上次！”
+跟着课程走进大湾区不同城市，感受各地独特的节奏与烟火气。在学习粤语的同时，也认识一个真实鲜活的粤语世界。
+【食粽子、賞月光，透过习俗领略粤语文化的魅力】
+“我阿婆整嘅粽香到飛起。”：端午、中秋、清明……通过丰富有趣的例句，体验粤语文化圈里那些代代相传的仪式感与人情味。
+
+2013&2014年谷歌「年度手机应用」
+2013年苹果「年度手机应用」
+2019年福布斯「下一家潜力独角兽公司」
+2018 - 2020年CNBC「最具开创性品牌TOP50」
+
+欢迎关注微信公众号：多邻国Duolingo，和官方微博@多邻国_Duolingo。
+
+[View on Apple](https://apps.apple.com/fr/app/duolingo-langues-et-%C3%A9checs/id570060128)
+
+<a id="whatnot-shop-sell-connect"></a>
+## Whatnot: Shop, Sell, Connect
+
+![Whatnot: Shop, Sell, Connect](../../logos/1488269261-097a49fd.png)
+
+Whatnot ist die größte Plattform für Live Shopping in Europa, der UK und den USA – wir sind ein Marktplatz, der Millionen zusammenbringt, um die Dinge, die sie lieben, zu kaufen, verkaufen und sich zu vernetzen. Von Taschen bis Beauty, Comics bis Münzen, von Sneakers bis Streetwear und Vintage bis Vinyl – wir haben alles. Erkunde über 250 Kategorien, darunter Electronics, Sport und Pokémon-Karten, Mode, Pflanzen, Schmuck und mehr.
+
+FINDE UNGLAUBLICHE MARKENDEALS – Schließe dich Hunderttausenden von Verkäufern an und shoppe mit hohen Rabatten deine Lieblingsmode und Dinge des täglichen Bedarfs. Von Marken, die du kennst und liebst, bis hin zu neuen und schwer zu findenden Spezialprodukten. Whatnot hat einen Deal für alles, was du suchst.
+
+SHOPPEN HAT NOCH NIE SO VIEL SPASS GEMACHT. Ob du an schnellen Auktionen, unglaublichen Flash-Sales oder Livestream-Giveaways teilnimmst, den Marktplatz durchstöberst oder dich im Chat beteiligst – du hattest noch nie so viel Spaß beim Shoppen. Whatnot hat das Beste des physischen Einzelhandels ins Netz gebracht. 
+
+SHOPPE MIT VERTRAUEN - Falls bei deinem Kauf doch mal etwas schiefgeht, sind wir für dich da. Mit unserem Käuferschutz bist du abgesichert - egal, ob dein Artikel beschädigt ankommt, fehlt oder nicht der Beschreibung entspricht.
+
+INTERESSE AM VERKAUF AUF WHATNOT? Im letzten Jahr generierten kleine Unternehmen mehr als 3 Milliarden Euro Umsatz auf Whatnot. Verdiene mehr, indem du live verkaufst, komm noch heute zu Whatnot.
+
+[View on Apple](https://apps.apple.com/fr/app/whatnot-live-shopping-vid%C3%A9o/id1488269261)
+
+<a id="bolt-fahrten-anfordern"></a>
+## Bolt: Fahrten anfordern
+
+![Bolt: Fahrten anfordern](../../logos/675033630-7aac40c9.png)
+
+Komme dank der Bolt App leichter ans Ziel! Egal, ob du eine Fahrt in der Stadt, einen Flughafentransfer oder einen E-Scooter benötigst, um von A nach B zu kommen — unsere App macht es dir leicht, sicher und komfortabel unterwegs zu sein.
+
+WARUM SOLLTEST DU DIE BOLT APP WÄHLEN?
+- Du kannst innerhalb von Sekunden eine Fahrt anfordern: Genieße sichere, preiswerte Fahrten mit qualifizierten Fahrer:innen.
+- Transparente Preise: Du siehst deinen Fahrpreis im Voraus, damit es keine Überraschungen gibt.
+- Mehrere Zahlungsmöglichkeiten: Bezahle sicher mit deiner Kredit-/Debitkarte, Apple Pay, Google Pay oder in bar.
+
+EINFACHE FAHRTANFRAGE:
+- Öffne die App und gib dein Ziel an.
+- Wähle eine Kategorie aus, die deinen Bedürfnissen entspricht (Comfort, Premium, Priority, XL und mehr).
+- Folge Fahrer:innen in Echtzeit in der App.
+- Komme entspannt ans Ziel und bewerte deine Fahrt.
+
+SICHERHEIT STEHT AN ERSTER STELLE:
+Einige der Sicherheitsfunktionen von Bolt erfordern, dass die App im Hintergrund läuft.
+
+- Notfall-Hilfe-Button: Alarmiere in Notfällen diskret unser Sicherheitsteam.
+- Audioaufzeichnung der Fahrt: Nimm während der Fahrt den Ton auf, um dich abzusichern.
+- Deine Kontaktdaten sind privat: Dein Nummer und deine allgemeinen privaten Informationen bleiben vertraulich, wenn du Fahrer:innen anrufst.
+
+VORAUSSCHAUEND PLANEN:
+Benötigst du einen Flughafentransfer oder eine Fahrt am frühen Morgen? Du kannst deine Fahrt 30 Minuten bis 90 Tage vor der erwarteten Abholzeit im Voraus planen.
+
+*BOLT PLUS ABONNIEREN UND PREMIUM-FUNKTIONEN FREISCHALTEN!
+Hol dir mit Bolt Plus das Beste von Bolt. Genieße exklusive Vorteile, die dir Zeit und Geld sparen und jede Fahrt noch angenehmer und komfortabler machen.
+
+*BOLT DRIVE:
+Wir haben uns dem Ziel verpflichtet, bis 2040 klimaneutral zu werden. Deshalb erweitern wir das Angebot an Elektro- und Hybridautos in Bolt Drive, unserem Carsharing-Service. Du kannst auch Bolt E-Scooter und E-Bikes über die App mieten.
+
+*PAKETE AUSLIEFERN
+Nutze die Kategorie „Send“, um in deiner Stadt schnell und einfach Pakete ausliefern zu lassen.
+
+Bolt - die globale Plattform für geteilte Mobilität, die in 50 Ländern und über 600 Städten weltweit verfügbar ist. Wir haben uns 2019 von Taxify in Bolt umbenannt.
+
+Bolt ist die perfekte Taxi-Alternative für schnelle, zuverlässige und preiswerte Fahrten. Die App ermöglicht das unkomplizierte Anfordern von Fahrten, egal ob du zur Arbeit fährst, verreist oder Besorgungen machst. Wenn du also das nächste Mal von A nach B kommen möchtest, wähle die Bolt App!
+
+*Die Bolt Angebote unterscheiden sich je nach Ort. Schau in der App nach, welche Optionen in deiner Stadt verfügbar sind.
+
+Mit der Bolt Driver App kannst du als Fahrer:in Umsatz erzielen. Registriere dich hier: https: //bolt.eu/driver/
+
+Noch Fragen? Kontaktiere uns über info@bolt.eu oder unter https://bolt.eu
+
+Folge uns auf Social Media, um Updates, Rabatte und Angebote zu erhalten!
+
+Facebook - https://www.facebook.com/Bolt/
+Instagram - https://www.instagram.com/bolt
+X - https://x.com/Boltapp
+
+[View on Apple](https://apps.apple.com/fr/app/bolt-demandez-un-trajet-24-7/id675033630)
+
+<a id="google-maps"></a>
+## Google Maps
+
+![Google Maps](../../logos/585027354-9efd3f69.png)
+
+Mit Google Maps kannst du die Welt ganz einfach erkunden und bereisen. Anhand von Live-Verkehrsdaten und GPS-Navigation lassen sich die besten Routen finden – ganz gleich, ob du mit dem Auto, zu Fuß, mit dem Fahrrad oder mit öffentlichen Verkehrsmitteln unterwegs bist. Über 250 Millionen Orte und Unternehmen, darunter Restaurants, Geschäfte und Lebensmittelhändler, sind bei Google Maps eingetragen – mit Fotos, Rezensionen und nützlichen Informationen.
+
+Erkunde die Welt auf deine Weise:
+• Erreiche dein Ziel mit kraftstoffsparenden Routen
+• Finde die beste Route anhand von Echtzeitinformationen mit detaillierter Routenführung per Sprachnavigation oder Navigation auf dem Bildschirm
+• Komm schneller ans Ziel mithilfe der automatischen Neuberechnung von Routen, je nach aktueller Verkehrslage, Verkehrsbehinderungen und Straßensperrungen
+• Echtzeitinformationen machen es einfacher, deinen Bus, Zug oder Fahrdienst zu erreichen.
+• Wenn du besser vorankommen und flexibler sein möchtest, kannst du nach einem Fahrrad- oder Rollerverleih suchen.
+
+Plane Reisen und Ausflüge ohne viel Aufwand:
+• Street View ermöglicht es dir, schon vorab die Gegend zu erkunden und herauszufinden, wo sich beispielsweise Parkmöglichkeiten und Eingänge befinden.
+• Mit Immersive View kannst du dir Sehenswürdigkeiten, Parks und Routen ansehen oder sogar die Wetterverhältnisse beobachten, damit du optimal auf deinen Besuch vorbereitet bist.
+• Teile Listen mit deinen gespeicherten Lieblingsorten mit anderen.
+• Du hast die Möglichkeit, Essen zur Lieferung und Selbstabholung zu bestellen, Reservierungen vorzunehmen und Hotels zu buchen.
+• Mithilfe von Offlinekarten findest du dich auch in Gegenden mit schlechtem Empfang gut zurecht.
+• Du kannst nach lokalen Orten und möglichen Aktivitäten suchen und basierend auf Nutzerrezensionen und Fotos Entscheidungen treffen.
+
+Lass dich von Insidertipps inspirieren:
+• Jährlich tragen 500 Millionen Nutzer dazu bei, die Google Maps auf dem neuesten Stand zu halten. Dir stehen also aktuelle Informationen zur Verfügung.
+• Du kannst vorab herausfinden, wie stark ein Ort besucht ist, und so Menschenansammlungen meiden.
+• Mithilfe von Lens in Maps lassen sich Fußgängerrouten in die reale Umgebung einblenden.
+• Restaurants können beispielsweise nach Restauranttyp, Öffnungszeiten, Preisen oder Bewertungen gefiltert werden.
+• Bei Fragen zu einem Ort – etwa zu den angebotenen Gerichten oder Parkplätzen – erhältst du schnell Antworten.
+
+Einige Funktionen sind nicht in allen Ländern oder Städten verfügbar.
+Die Navigation ist nicht für übergroße Fahrzeuge oder Einsatzfahrzeuge geeignet.
+
+[View on Apple](https://apps.apple.com/fr/app/google-maps/id585027354)
+
+<a id="uber-ride-hailing-taxis"></a>
+## Uber: Ride-Hailing & Taxis
+
+![Uber: Ride-Hailing & Taxis](../../logos/368677368-91cedcb7.png)
+
+Schließe dich Millionen von Nutzer*innen in Deutschland an, die mit der Uber App bequem an ihr Ziel gelangen. Wähle zwischen verschiedenen Vermittlungsoptionenptionen und Transportmitteln aus und gelange von A nach B, wie du es willst – leger mit dem Lime Scooter oder stilvoll mit Uber Premium.
+
+FINDE DIE PASSENDE FAHRT
+Deine nächste Fahrt ist nur einen Fingertipp entfernt! Mit Uber kommst du völlig unkompliziert und bequem von A nach B.
+Wähle aus einer Vielzahl von Produkten für die verschiedensten Bedürfnisse:
+
+- UberX: günstige Preise und eine Fahrt nur für dich allein
+- Electric: Elektroautos – die besonders umweltfreundliche Option
+- UberXL: günstige Fahrten für Gruppen bis zu 6 Personen
+- Uber Comfort: neuwertige Autos, die viel Beinfreiheit bieten
+- Uber Comfort Electric: Elektroautos aus dem Premiumsegment
+- Uber Pet: günstige Fahrten für dich und dein Haustier
+- Uber Taxi: In ausgewählten Städten findest du auch lokale Taxis in der Uber App.
+- 2-Rad: Buche ein E-Bike oder einen Roller (Lime Scooter) und fahre gleich los.
+- Uber Assist: Der Service für Menschen mit eingeschränkter Mobilität
+- Uber Taxi Wheelchair: Taxis, die auf die Bedürfnisse von Rollstuhlfahrer*innen zugeschnitten sind
+- Uber Taxi Van: Großraumtaxis für Gruppen
+
+FAHRPREISSCHÄTZUNG ANZEIGEN
+Mit der Uber App kannst du den Fahrpreis schon im Vorfeld abfragen, noch bevor du deine Fahrt bestellst. So weißt du gleich, wie viel du bezahlen musst.
+
+ERSCHWINGLICHE PREISE
+Wir gestalten unsere Preisstruktur so transparent wie möglich.
+- Fahrpreisteilung: Teile dir den Betrag direkt auf der Fahrt mit deinen Freund*innen – so müsst ihr euch später nicht den Kopf zerbrechen.
+
+REGISTRIERE DICH BEI UBER ONE UND ERHALTE ATTRAKTIVE PRÄMIEN
+Profitiere von 0,00 € Liefergebühr und spare bis zu 10 % auf berechtigte Liefer- und Abholbestellungen, erhalte 5 % Uber Cash auf berechtigte Fahrten und eine Gutschrift von 5,00 € sollte unsere Schätzung für die späteste Ankunftszeit deiner Bestellung mal nicht der Realität entsprechen. Es gelten weitere Gebühren und Bedingungen. Weitere Details findest du unter uber.com/uberone.
+
+UMWELTBEWUSST VON A NACH B
+Uber engagiert sich für eine nachhaltige Zukunft in unseren Städten. Mit einer wachsenden Flotte von Elektro- und Hybridfahrzeugen hast du jetzt auch die Möglichkeit, dich für besonders umweltfreundliche Fahrten zu entscheiden.
+
+SPONTANE MOBILITÄTSOPTIONEN FÜR MEHR BARRIEREFREIHEIT
+Gemeinsam mit verschiedenen Taxi-Partnern in Deutschland wurden Autos speziell für die Bedürfnisse von Rollstuhlfahrer*innen umgerüstet.
+
+WEITERE HILFREICHE FEATURES
+Bequem zu dir nach Hause
+Lieferung: Bestelle dir dein Lieblingsgericht vom Italiener im Viertel direkt zu dir nach Hause. Lasse dir außerdem Lebensmittel, etwas aus der Apotheke oder Haustierartikel liefern.
+Taxi, bitte!
+Uber Taxi: Ab sofort hast du noch mehr Beförderungsmöglichkeiten in nur einer App – buche dir ganz bequem mithilfe der Uber App ein lokales Taxi zum regulären Taxitarif.
+Darf es ein E-Bike oder E-Scooter sein?
+2-Rad: Wusstest du, dass du dir mit der Uber App auch E-Bikes und Roller (Lime Scooter) ausleihen kannst? Perfekt für die Tage, an denen du etwas mehr Antrieb brauchst, als ein normales Fahrrad hergibt.
+Alles auf einen Blick
+Uber for Business: Verwalte und tracke Geschäftsfahrten, Essenslieferungen und vieles mehr in nur einem Dashboard.
+Lege gleich los! Lade dir die Uber App herunter und erstelle noch heute ein Konto.
+Uber ist in verschiedenen Städten in Deutschland verfügbar, Infos dazu findest du auf unserer Website. Bleibe auf dem Laufenden über neueste Nachrichten, Aktionen und Angebote, indem du uns auf Twitter unter https://twitter.com/uber_ger oder auf Facebook unter https://www.facebook.com/uberdeutschland folgst.
+Uber vermittelt Beförderungsaufträge an professionelle und lizenzierte Mietwagenunternehmer. Uber selbst bietet keine Fahrten an und ist für die Beförderung als solche nicht verantwortlich.
+
+[View on Apple](https://apps.apple.com/fr/app/uber-commandez-un-trajet/id368677368)
+
+<a id="booking-com-hotel-angebote"></a>
+## Booking.com: Hotel Angebote
+
+![Booking.com: Hotel Angebote](../../logos/367003839-e6c05e42.png)
+
+Laden Sie sich die am besten bewertete Reise-App herunter und finden Sie wie tausende andere Reisende Angebote für Hotels, Motels und Ferienunterkünfte. Finden Sie Unterkünfte für Ihren Urlaub, Wochenendausflug oder Ihre Geschäftsreise – und das auf der ganzen Welt!
+
+Suchen Sie nach Hotels, Motels und Ferienunterkünften
+
+• 27 Millionen Hotels, Ferienunterkünfte, Ferienhäuser und -wohnungen sowie weitere einzigartige Unterkünfte
+• Suchen Sie mit nur einmal Tippen nach Stadt, Attraktion, Sehenswürdigkeit oder Hotelname
+• Filtern Sie nach Preis, Bewertungsergebnis, Annehmlichkeiten und anderen, für Sie wichtigen Dingen
+• Finden Sie Ihren Last-Minute-Aufenthalt oder buchen Sie lange im Voraus
+
+Finden Sie ein tolles Reiseangebot
+
+• Tägliche Angebote für jedes Budget
+• Kostenlose Stornierung bei den meisten Zimmern
+• Sehen Sie sich über 135 Millionen echte Gästebewertungen an
+
+Verwalten Sie Ihre Buchung unterwegs
+
+• Erhalten Sie eine papierlose Bestätigung
+• Nehmen Sie Änderungen wann und wo Sie möchten vor
+• Kundenservice rund um die Uhr in über 40 Sprachen
+• Kontaktieren Sie Ihren Gastgeber, sehen Sie sich die Check-in-Zeiten an und schreiben Sie Bewertungen
+• Keine Buchungs- oder Kreditkartengebühren
+
+[View on Apple](https://apps.apple.com/fr/app/booking-com-h%C3%B4tels-voyage/id367003839)
+
+<a id="leboncoin"></a>
+## leboncoin
+
+![leboncoin](../../logos/484115113-6536b7cd.png)
+
+Multimédia, déco, mode, livres, jeux, vélo, bricolage, immo, auto, l’application leboncoin vous accompagne au quotidien.
+
+Plus de 84 millions de bonnes raisons de télécharger l’appli.
+leboncoin facilite tous vos échanges au quotidien grâce à ses 83 millions d’annonces dans 5 univers.
+
+Simple comme un clic.
+Publiez vos annonces et vendez vos biens en quelques clics avec le dépôt d’annonces automatisé.
+Toute la seconde main est accessible en livraison ou en main propre.
+Achetez et payez en ligne grâce au paiement sécurisé. Votre argent est versé au vendeur une fois que vous avez récupéré et validé votre article. Et s’il ne correspond pas à vos attentes, vous
+pouvez annuler la transaction. Et en plus de ça, les profils des vendeurs sont vérifiés. Vos prochains coups de coeur n’attendent que vous.
+
+Question logement, vous êtes à la bonne adresse.
+leboncoin, premier site immobilier de France, est la clé pour vendre, acheter ou louer votre maison, appartement, ou terrain avec plus d’1,5 million d’annonces en ligne. On est invités à la
+crémaillère ?
+
+En route pour trouver votre bonheur.
+Envie de partir à l’aventure ? Consultez nos annonces de voitures, motos, scooters ou motos cross d’occasion.
+Achetez ou vendez votre véhicule au meilleur prix sur leboncoin, premier site pour les annonces auto.
+
+Le bon candidat pour trouver un job.
+Ici, on aime le travail bien fait. Découvrez toutes les offres d’emploi faites pour vous et postulez en deux clics dans la catégorie emploi du boncoin, deuxième site d’emploi privé en France.
+
+Partez l’esprit léger.
+Que vous préfériez le bord de mer, la campagne, ou la montagne… Votre location de vacances vous attend sur leboncoin. Réservez votre prochain voyage partout en France, du camping au
+chalet en passant par la cabane dans les arbres en pleine nature, en toute sécurité. Détente garantie.
+
+[View on Apple](https://apps.apple.com/fr/app/leboncoin/id484115113)
 
 <a id="winamax-paris-sportifs-poker"></a>
 ## Winamax Paris Sportifs & Poker
@@ -626,187 +985,188 @@ Pour être aidé, appelez le 09-74-75-13-13 (Appel non surtaxé)
 
 [View on Apple](https://apps.apple.com/fr/app/winamax-paris-sportifs-poker/id385720307)
 
-<a id="多邻国duolingo英语日语法语"></a>
-## 多邻国Duolingo英语日语法语
+<a id="capcut-foto-und-video-editor"></a>
+## CapCut: Foto- und Video-Editor
 
-![多邻国Duolingo英语日语法语](../../logos/570060128-f81fecd8.png)
+![CapCut: Foto- und Video-Editor](../../logos/1500855883-69b7fd16.png)
 
-火遍全球的语言学习APP：多邻国Duolingo！5亿用户的选择。
+CapCut ist eine kostenlose App für die umfangreiche Videobearbeitung, mit der du tolle Videos erstellen kannst.
 
-【40多个语种】包含英语、日语、韩语、法语、意大利语、西班牙语等流行语言，还有夏威夷语、威尔士语等小众和濒危语言，甚至有《权力的游戏》中的龙语哦。
+「Benutzerfreundlich」
+Zuschneiden, umkehren und Geschwindigkeit verändern: Perfektion war noch nie so einfach; veröffentliche deine wunderbaren Momente.
 
-【游戏化学习】零基础入门，将生活场景分成单元学习，旅行、点菜、聊天、面试...忘掉那些枯燥乏味的死记硬背吧，用游戏闯关的方法，有宝石、王冠，有可可爱爱的动画人物为你加油鼓气，玩儿着玩儿着就学会了。
+「Hohe Qualität」
+Erweiterte Filter und makellose Schönheitseffekte eröffnen eine ganz neue Welt an Möglichkeiten.
 
-【碎片时间】每天10-15分钟即可循序渐进，通勤、排队、等待时间都不会浪费啦！
+「Topmusikhits/Toller Klang」
+Umfangreiche Musikbibliothek und exklusive urheberrechtlich geschützte Lieder
 
-【可免费学习所有课程】我们的愿景是为全世界提供平等且优质的学习机会。
+「Sticker und Text」
+Mit den besten angesagten Stickern und Schriftarten kannst du dich in deinen Videos kreativ ausdrücken.
 
-千呼万唤，多邻国粤语课程终于迎来重磅更新！
-【从虾饺到糖水，终于可以从早吃到晚】
-“你哋是但叫嘢，今日多兒埋單。”
- 糖水、地方美食、街头小吃……更多粤式美食词汇和真实场景上线。下一次去茶楼，不只是会说“唔该”，还能自信加单！
-【看港片不用等字幕，不必空耳懂情歌】
-“今日唔想做嘢，不如我哋去唱K啦。”
-经典粤语歌词、港片对白首次加入课程。那些耳熟能详的旋律和台词，这次终于不只是会跟着唱，而是真的听得懂。
-【走进真实生活语境，从天气寒暄聊到人生百态】
-“我唔想做馬騮，好想放工啊！”
-租房、上班、点外卖、刷社交媒体；从校园生活到职场日常，从谈情说爱到中年烦恼。学的不只是语言，更是粤语区年轻人的真实生活。
-【去顺德食饭，去珠海散步，感受大湾区的烟火气】
-“我哋去順德啦！上次去順德仲係上次！”
-跟着课程走进大湾区不同城市，感受各地独特的节奏与烟火气。在学习粤语的同时，也认识一个真实鲜活的粤语世界。
-【食粽子、賞月光，透过习俗领略粤语文化的魅力】
-“我阿婆整嘅粽香到飛起。”：端午、中秋、清明……通过丰富有趣的例句，体验粤语文化圈里那些代代相传的仪式感与人情味。
+「Effekt」
+Werde kreativ mit einer Vielzahl an magischen Effekten
 
-2013&2014年谷歌「年度手机应用」
-2013年苹果「年度手机应用」
-2019年福布斯「下一家潜力独角兽公司」
-2018 - 2020年CNBC「最具开创性品牌TOP50」
+Nutzungsbedingungen —
+http://www.capcut.com/clause/terms-of-service
 
-欢迎关注微信公众号：多邻国Duolingo，和官方微博@多邻国_Duolingo。
+Datenschutzerklärung —
+https://www.capcut.com/clause/privacy-policy
 
-[View on Apple](https://apps.apple.com/fr/app/duolingo-langues-et-%C3%A9checs/id570060128)
+Kontakt: capcut.support@bytedance.com
 
-<a id="whatnot-shop-sell-connect"></a>
-## Whatnot: Shop, Sell, Connect
+[View on Apple](https://apps.apple.com/fr/app/capcut-%C3%A9diteur-vid%C3%A9o-photo/id1500855883)
 
-![Whatnot: Shop, Sell, Connect](../../logos/1488269261-097a49fd.png)
+<a id="strava-laufen-radfahren"></a>
+## Strava: Laufen & Radfahren
 
-Whatnot ist die größte Plattform für Live Shopping in Europa, der UK und den USA – wir sind ein Marktplatz, der Millionen zusammenbringt, um die Dinge, die sie lieben, zu kaufen, verkaufen und sich zu vernetzen. Von Taschen bis Beauty, Comics bis Münzen, von Sneakers bis Streetwear und Vintage bis Vinyl – wir haben alles. Erkunde über 250 Kategorien, darunter Electronics, Sport und Pokémon-Karten, Mode, Pflanzen, Schmuck und mehr.
+![Strava: Laufen & Radfahren](../../logos/426826309-f343b940.png)
 
-FINDE UNGLAUBLICHE MARKENDEALS – Schließe dich Hunderttausenden von Verkäufern an und shoppe mit hohen Rabatten deine Lieblingsmode und Dinge des täglichen Bedarfs. Von Marken, die du kennst und liebst, bis hin zu neuen und schwer zu findenden Spezialprodukten. Whatnot hat einen Deal für alles, was du suchst.
+App Store Award-Gewinner: Apple Watch‑App des Jahres
 
-SHOPPEN HAT NOCH NIE SO VIEL SPASS GEMACHT. Ob du an schnellen Auktionen, unglaublichen Flash-Sales oder Livestream-Giveaways teilnimmst, den Marktplatz durchstöberst oder dich im Chat beteiligst – du hattest noch nie so viel Spaß beim Shoppen. Whatnot hat das Beste des physischen Einzelhandels ins Netz gebracht. 
+Strava verbindet Fitness-Tracking mit sozialem Netzwerk. Wir erfassen deinen gesamten sportlichen Lebensweg an einem zentralen Ort – und du kannst diesen mit deinen Freunden teilen. So geht's:
 
-SHOPPE MIT VERTRAUEN - Falls bei deinem Kauf doch mal etwas schiefgeht, sind wir für dich da. Mit unserem Käuferschutz bist du abgesichert - egal, ob dein Artikel beschädigt ankommt, fehlt oder nicht der Beschreibung entspricht.
+• Zeichne alles auf – Läufe, Fahrten, Wanderungen, Yoga und über 50+ andere Sportarten. Stell dir Strava als die Zentrale für deine Aktivitäten vor.
 
-INTERESSE AM VERKAUF AUF WHATNOT? Im letzten Jahr generierten kleine Unternehmen mehr als 3 Milliarden Euro Umsatz auf Whatnot. Verdiene mehr, indem du live verkaufst, komm noch heute zu Whatnot.
+• Mach dir ein Bild von deinem Krafttraining – du trainierst jede Woche im Fitnessstudio, machst HIIT-Workouts und nimmst an Gruppenkursen für Krafttraining teil? Nutze dein Lieblingsgerät oder deine Lieblings-App für Krafttraining, und deine Übungen, Sätze, Wiederholungen, Gewichte und eine Muskelkarte werden automatisch angezeigt. Oder leg noch heute los und sieh, wie schnell Krafttraining zu einem wichtigen Teil deines aktiven Lebens wird.
 
-[View on Apple](https://apps.apple.com/fr/app/whatnot-live-shopping-vid%C3%A9o/id1488269261)
+• Überall gibt es etwas zu entdecken – unser Routen-Tool nutzt anonymisierte Strava-Daten, um dir auf intelligente Weise beliebte Routen zu empfehlen, die auf deinen Vorlieben basieren. Du kannst auch deine eigenen Routen erstellen.
 
-<a id="waze-navigation-und-verkehr"></a>
-## Waze Navigation und Verkehr
+• Entdecke beliebte Wander-Routen in deiner Umgebung, darunter lokale Favoriten, malerische Trails und Langstrecken-Aufstiege
 
-![Waze Navigation und Verkehr](../../logos/323229106-ab1f5cba.png)
+• Entdecke beliebte Wander-Routen in deiner Umgebung, darunter lokale Favoriten, malerische Trails und Langstrecken-Aufstiege
 
-Waze ist eine community-basierende Navigations-App, die Millionen Nutzern an ihr Ziel hilft, indem sie Echtzeitwarnungen zu den Straßenverhältnissen und eine tagesaktuelle Karte bietet. Dank unserem Netzwerk an Fahrern spart Dir Waze Zeit, weil es sofort warnt bei Stau, Baustellen, Unfällen, Polizeikontrollen und mehr. Von Routenaktualisierungen zur Stauvermeidung, Echtzeit-Warnungen zu Deiner Sicherheit, bis zu Hinweisen zu niedrigen Treibstoffpreisen, ist Waze eine Gemeinschaft von Fahrern, die anderen Fahrern helfen.
+• Baue dir ein Netzwerk von Unterstützern auf – bei Strava geht es darum, Bewegung zu feiern. Hier findest du eine Community, die sich gegenseitig anfeuert.
 
+• Trainiere intelligenter – erhalte Dateneinblicke, um deinen Fortschritt zu verstehen und zu sehen, wie du dich verbesserst. In deinem Trainingstagebuch werden alle deine Trainingseinheiten aufgezeichnet.
 
-Mit Waze wirst du...
+• Bewege dich sicherer – teile deinen Standort in Echtzeit mit deinen Lieben, wenn du draußen bist, um deine Sicherheit zu erhöhen.
 
+• Synchronisiere deine Lieblings-Apps und -Geräte – Strava ist mit Tausenden von ihnen kompatibel (Apple Watch, Fitbit, Garmin – was immer du willst).
 
-• Schneller ankommen: Stauvermeidende Routenupdates
-• Bußgelder vermeiden: sei über Polizeikontrollen und Blitzer informiert
-• Eine genauere Ankunftszeit haben: Aufgrund von Live-Verkehrsdaten, Baustellen, Wetter und mehr
-• Von der Community-basierende Navigationprofitieren: Echtzeit-Updates von anderen Autofahrern
-• Geld sparen: Finde die günstigste Tankstelle auf deiner Route
-• Maut sparen: Sieh dir die Mautpreise an, wenn du eine Route auswählst
-• Apple Car Play nutzen können: Verbinde Waze mit dem eingebauten System
-• den Vorteil des Echtzeit-Tacho erleben: Erhalte Warnungen, wenn du zu schnell fährst und vermeide Strafzettel
-• Deine Fahrt individualisieren könnne: erhalte Routenanweisungen von Deinen Lieblings-Stars und Filmcharakteren
-• Nicht mehr zwischen Apps hin- und herschalten müssen: nutze Deine Lieblings-Audio-App direkt aus Waze heraus
+• Nimm an Herausforderungen teil und erstelle selbst welche – nimm gemeinsam mit Millionen von Sportlern an monatlich wechselnden Herausforderungen teil, um neue Ziele zu verfolgen, digitale Abzeichen zu sammeln und fit zu bleiben.
 
+• Lass dich von ungefilterten Erfahrungen inspirieren – dein Feed auf Strava ist voller echter Leistungen von echten Menschen. Auf diese Weise motivieren wir uns gegenseitig.
 
-Fahre sicherer und smarter mit Waze!
+• Egal ob du ein Weltklasse-Sportler oder ein totaler Anfänger bist, du gehörst hierher. Zeichne einfach deine Aktivitäten auf und los geht's.
 
+Strava bietet sowohl eine kostenlose Version als auch eine Mitgliedschaft mit Premium-Funktionen.
+Strava nutzt HealthKit, um deine Strava-Aktivitäten in die Health-App zu exportieren und um deine Herzfrequenz- und biometrische Daten zu lesen.
 
-Du kannst jederzeit Deine Waze Privatsphäreeinstellungen verwalten und ändern. Erfahre mehr über die Waze Datenschutzerklärung unter www.waze.com/legal/privacy.
+Du kannst die Mitgliedschaft im App Store mit deiner Apple ID abschließen und bezahlen. Die Zahlung wird bei der Kaufbestätigung über deine Apple ID abgebucht. Deine Mitgliedschaft verlängert sich automatisch, wenn sie nicht mindestens 24 Stunden vor Ablauf des aktuellen Zeitraums gekündigt wird. Dein Konto wird innerhalb von 24 Stunden vor dem Ende des aktuellen Zeitraums für die Verlängerung belastet. Die Mitgliedschaft und die automatische Verlängerung kann nach dem Kauf in den Einstellungen des App Stores unter „Abonnements“ verwaltet und deaktiviert werden. Ein ungenutzter Teil einer kostenlosen Probemitgliedschaft verfällt, wenn eine kostenpflichtige Mitgliedschaft abgeschloßen wird. Die Mitgliedschaft verlängert sich dann zu den gleichen Kosten.
 
+Allgemeine Geschäftsbedingungen: 
+https://www.strava.com/legal/terms
+Datenschutzerklärung: 
+https://www.strava.com/legal/privacy
 
-Die Waze Routenführung ist nicht für Einsatzfahrzeuge und übergroße Fahrzeuge bestimmt.
+[View on Apple](https://apps.apple.com/fr/app/strava-course-v%C3%A9lo-rando/id426826309)
 
-[View on Apple](https://apps.apple.com/fr/app/navigation-waze-et-trafic/id323229106)
+<a id="wero"></a>
+## Wero
 
-<a id="threads"></a>
-## Threads
+![Wero](../../logos/6480469576-4b8b0159.png)
 
-![Threads](../../logos/6446901002-174304f3.png)
+L'application Wero vous accompagne pour une utilisation simple et fluide de la solution de paiement Wero avec votre banque.
 
-Entdecke neue Perspektiven und unterhalte dich mit anderen auf Threads.
+Les clients de La Banque Postale et de Postbank profitent d'une intégration directe, leur offrant une expérience optimisée pour réaliser leurs paiements en toute simplicité.
 
-Finde heraus, worüber die Menschen gerade sprechen, von ungewöhnlichen Interessen bis zu großen Momenten. Mit Communitys findest du auf Threads Menschen mit ähnlichen Interessen. Antworte, höre zu, teile selbst etwas oder folge ihnen.
+Wero, votre solution de paiement mobile instantanée arrive très bientôt sur votre store d’application favori !
 
-Das kannst du auf Threads tun:
+Des paiements rapides, sécurisés et instantanés dans toute l’europe. Tout ce dont vous avez besoin est un compte bancaire et un smartphone pour transformer Wero en un moyen pratique pour payer vos proches.
 
-■ Starte einen Thread, teile deine Sichtweise
-Beschäftigt dich etwas? Poste es auf Threads. Teile einen Gedanken, stelle eine Frage oder beginne eine Unterhaltung. Es gibt verschiedene Möglichkeiten, um Dinge mit Text, Bildern, Umfragen, selbstlöschenden Beiträgen und mehr ins Rollen zu bringen.
+Principales fonctionnalités :
+•	Envoyez et recevez de l’argent en quelques secondes, 24 heures sur 24 et 7 jours sur 7, même le week-end et les jours fériés.
+•	Aucun frais pour l’envoi ou la réception d'argent.
+•	Ajoutez plusieurs comptes bancaires facilement.
 
-■ Springe direkt zu den Antworten
-Beteilige dich direkt an der Diskussion, reagiere auf neue Ideen oder beobachte, in welche Richtung sich das Gespräch entwickelt. Jeder Thread ist eine Einladung, dich zu beteiligen.
+Facile à configurer :
+Il suffit de quelques minutes et de quelques étapes pour configurer Wero sur votre smartphone.
+•	Téléchargez l’application Wero.
+•	Confirmez votre compte bancaire.
+•	Liez votre numéro de téléphone à votre compte.
+•	Retrouvez vos amis utilisant Wero.
+•	Commencez à envoyer et recevoir de l'argent.
 
-■ Behalte Trends im Blick
-Von Live-Ergebnissen bis zu entscheidenden Momenten: Mit Threads bist du immer auf dem Laufenden und kannst dich direkt an der Diskussion beteiligen, wenn du etwas zu sagen hast.
+Envoyer et recevoir de l’argent :
+•	Faites un envoi d’argent en quelques clics,
+•	Envoyez des demandes de paiement,
+•	Présentez ou scannez un QR code Wero.
 
-■ Du steuerst, welche Inhalte du siehst
-Steuere, wer dir antworten, dich erwähnen oder deine Beiträge sehen kann. Verwende unerwünschte Begriffe, um Beiträge und Antworten herauszufiltern, die Begriffe oder Formulierungen enthalten, die du nicht sehen möchtest. So gestaltest du dein Nutzungserlebnis nach deinen Vorstellungen.
+Toujours informé :
+N'oubliez pas d'activer vos notifications:
+•	Soyez informé lorsque vous recevez de l’argent.
+•	Soyez alerté quand vous recevez des demandes de paiement.
+•	Historique complet des paiements.
+•	Assistant virtuel intégré et Foire aux questions.
 
-■ Vertiefe deine Interessen
-Folge Freund*innen, Creator*innen und Communitys, die dich interessieren. Threads wurde entwickelt, um neue Perspektiven zu entdecken und miteinander ins Gespräch zu kommen – angefangen mit den Communitys, die dir am wichtigsten sind.
+Soutenu par des banques européennes :
+La solution de paiement Wero est supportée par les principaux établissements financiers et bancaires européens. Wero vous permet d’envoyer, de demander et de recevoir de l’argent depuis la plupart des comptes bancaires en Belgique, en France et en Allemagne – et d'autres pays européens sont à venir.
 
-■ Schaffe Verbindungen im Chat
-Führe private Unterhaltungen mit 1:1-Chats und Gruppen-Direktnachrichten. Wenn ein öffentlicher Thread persönlich wird, kannst du ihn in dein Postfach verschieben, um das Gespräch zu vertiefen oder den Teilnehmerkreis einzugrenzen.
+Dans le future:
+Wero s’enrichira de fonctionnalités supplémentaires, paiements en lignes, abonnements et paiements en magasins sont au programme pour les années à venir.
 
-Meta Terms: https://www.facebook.com/terms.php
-Threads Supplemental Terms: https://help.instagram.com/769983657850450
-Meta Privacy Policy: https://privacycenter.instagram.com/policy
-Threads Supplemental Privacy Policy: https://help.instagram.com/515230437301944
-Instagram Community Guidelines: https://help.instagram.com/477434105621119
+[View on Apple](https://apps.apple.com/fr/app/wero/id6480469576)
 
-[View on Apple](https://apps.apple.com/fr/app/threads/id6446901002)
+<a id="netflix-game-controller"></a>
+## Netflix Game Controller
 
-<a id="bolt-fahrten-anfordern"></a>
-## Bolt: Fahrten anfordern
+![Netflix Game Controller](../../logos/6447582581-851acfd0.png)
 
-![Bolt: Fahrten anfordern](../../logos/675033630-7aac40c9.png)
+Spiele Spiele auf deinem Fernseher oder Computerbrowser mit dem Netflix-Gamecontroller.
 
-Komme dank der Bolt App leichter ans Ziel! Egal, ob du eine Fahrt in der Stadt, einen Flughafentransfer oder einen E-Scooter benötigst, um von A nach B zu kommen — unsere App macht es dir leicht, sicher und komfortabel unterwegs zu sein.
+Mit dieser App kannst du Spiele auf Netflix spielen, indem du dein Handy oder Mobilgerät als Gamecontroller verwendest. Die Netflix-Gamecontroller-App ist für alle verfügbar.
 
-WARUM SOLLTEST DU DIE BOLT APP WÄHLEN?
-- Du kannst innerhalb von Sekunden eine Fahrt anfordern: Genieße sichere, preiswerte Fahrten mit qualifizierten Fahrer:innen.
-- Transparente Preise: Du siehst deinen Fahrpreis im Voraus, damit es keine Überraschungen gibt.
-- Mehrere Zahlungsmöglichkeiten: Bezahle sicher mit deiner Kredit-/Debitkarte, Apple Pay, Google Pay oder in bar.
+Netflix Games befindet sich in der Beta-Phase und je nach Gerätetyp wird dein Fernseher oder Browser möglicherweise derzeit nicht unterstützt.
 
-EINFACHE FAHRTANFRAGE:
-- Öffne die App und gib dein Ziel an.
-- Wähle eine Kategorie aus, die deinen Bedürfnissen entspricht (Comfort, Premium, Priority, XL und mehr).
-- Folge Fahrer:innen in Echtzeit in der App.
-- Komme entspannt ans Ziel und bewerte deine Fahrt.
+Lass die Spiele beginnen!
 
-SICHERHEIT STEHT AN ERSTER STELLE:
-Einige der Sicherheitsfunktionen von Bolt erfordern, dass die App im Hintergrund läuft.
+[View on Apple](https://apps.apple.com/fr/app/netflix-game-controller/id6447582581)
 
-- Notfall-Hilfe-Button: Alarmiere in Notfällen diskret unser Sicherheitsteam.
-- Audioaufzeichnung der Fahrt: Nimm während der Fahrt den Ton auf, um dich abzusichern.
-- Deine Kontaktdaten sind privat: Dein Nummer und deine allgemeinen privaten Informationen bleiben vertraulich, wenn du Fahrer:innen anrufst.
+<a id="google"></a>
+## Google
 
-VORAUSSCHAUEND PLANEN:
-Benötigst du einen Flughafentransfer oder eine Fahrt am frühen Morgen? Du kannst deine Fahrt 30 Minuten bis 90 Tage vor der erwarteten Abholzeit im Voraus planen.
+![Google](../../logos/284815942-c566dbd3.png)
 
-*BOLT PLUS ABONNIEREN UND PREMIUM-FUNKTIONEN FREISCHALTEN!
-Hol dir mit Bolt Plus das Beste von Bolt. Genieße exklusive Vorteile, die dir Zeit und Geld sparen und jede Fahrt noch angenehmer und komfortabler machen.
+Mit der Google App bist du immer über die Dinge informiert, die dir wichtig sind. Hier findest du schnelle Antworten, erhältst Informationen zu deinen Interessen und bleibst mit Discover immer auf dem Laufenden.
 
-*BOLT DRIVE:
-Wir haben uns dem Ziel verpflichtet, bis 2040 klimaneutral zu werden. Deshalb erweitern wir das Angebot an Elektro- und Hybridautos in Bolt Drive, unserem Carsharing-Service. Du kannst auch Bolt E-Scooter und E-Bikes über die App mieten.
+Funktionshighlights:
+• Nutze die Kamera, um Objekte in deiner Umgebung zu identifizieren, z. B. einen bunten Schmetterling oder eine stachelige Pflanze
+• Lass dir Straßenschilder, Speisekarten oder andere Texte mit deiner Kamera übersetzen – mehr als 100 Sprachen werden unterstützt
+• Du siehst etwas, was dir gefällt? Finde mit der Kamera heraus, was es ist und wo du es kaufen kannst
+• Füge deiner Kamerasuche Wörter hinzu, um die Ergebnisse einzugrenzen – z. B. wenn du ein paar Schuhe entdeckt hast, die du gern in „blau“ hättest, oder wenn du wissen möchtest, wie du ein kaputtes Teil an deinem Fahrrad „reparieren“ kannst
+• Suche Lieder mit deiner Stimme, auch wenn du den Text nicht kennst. Summe einfach die Melodie eines Songs – die App zeigt dir den Titel des Songs
+• Nutze die Kamera, um Hilfe bei deinen Hausaufgaben zu erhalten. So findest du detaillierte Anleitungen und Videos zur Lösung von Aufgaben aus beispielsweise Mathematik, Chemie, Biologie und Physik
 
-*PAKETE AUSLIEFERN
-Nutze die Kategorie „Send“, um in deiner Stadt schnell und einfach Pakete ausliefern zu lassen.
 
-Bolt - die globale Plattform für geteilte Mobilität, die in 50 Ländern und über 600 Städten weltweit verfügbar ist. Wir haben uns 2019 von Taxify in Bolt umbenannt.
+Lass dich von Discover auf dem Laufenden halten – ganz auf dich zugeschnitten:
+• Aktuelle Informationen zu Themen, die dich interessieren
+• Jeden Morgen die neuesten Nachrichten und den Wetterbericht
+• Echtzeit-Updates zu Sport, Filmen und Veranstaltungen
+• Informationen zu Neuveröffentlichungen deiner Lieblingsmusiker
+• Artikel zu deinen Interessen und Hobbys
+• Interessante Themen direkt aus den Google-Suchergebnissen
 
-Bolt ist die perfekte Taxi-Alternative für schnelle, zuverlässige und preiswerte Fahrten. Die App ermöglicht das unkomplizierte Anfordern von Fahrten, egal ob du zur Arbeit fährst, verreist oder Besorgungen machst. Wenn du also das nächste Mal von A nach B kommen möchtest, wähle die Bolt App!
 
-*Die Bolt Angebote unterscheiden sich je nach Ort. Schau in der App nach, welche Optionen in deiner Stadt verfügbar sind.
+Sicherheit bei der Suche:
+• Alle Suchanfragen in der Google App werden mit einer verschlüsselten Verbindung zwischen deinem Gerät und Google geschützt.
+• Die Datenschutzeinstellungen sind leicht zu finden und zu verwalten. Tippe einfach auf dein Profilbild. Daraufhin öffnet sich das Menü, wo du mit einem Klick die Suchverlaufeinträge der letzten paar Minuten aus deinem Konto löschen kannst.
+• Webspam wird in der Google Suche proaktiv herausgefiltert, damit du sichere, hochwertige Ergebnisse erhältst.
 
-Mit der Bolt Driver App kannst du als Fahrer:in Umsatz erzielen. Registriere dich hier: https: //bolt.eu/driver/
 
-Noch Fragen? Kontaktiere uns über info@bolt.eu oder unter https://bolt.eu
+Du hast noch mehr Möglichkeiten, Google zu nutzen:
+• Google Such-Widget – mit dem neuen Google-Widget kannst du Suchanfragen direkt auf deinem Start- oder Sperrbildschirm ausführen. Du hast die Wahl zwischen 2 Widgets, die dir eine Schnellsuchleiste in zwei Größen bieten. Über Verknüpfungen kannst du im mittelgroßen Widget auswählen, wenn du mit Lens, Voice und im Inkognitomodus suchen möchtest.
 
-Folge uns auf Social Media, um Updates, Rabatte und Angebote zu erhalten!
 
-Facebook - https://www.facebook.com/Bolt/
-Instagram - https://www.instagram.com/bolt
-X - https://x.com/Boltapp
+Hier erfährst du mehr zu den Vorteilen der Google App: https://search.google/
 
-[View on Apple](https://apps.apple.com/fr/app/bolt-demandez-un-trajet-24-7/id675033630)
+Datenschutzerklärung: https://www.google.com/policies/privacy
+
+Das Feedback unserer Nutzerinnen und Nutzer hilft uns, bessere Produkte zu entwickeln. Wenn auch du an Nutzungsstudien teilnehmen möchtest, besuche:
+
+https://goo.gl/kKQn99
+
+[View on Apple](https://apps.apple.com/fr/app/google/id284815942)
 
 <a id="betclic-paris-sportifs-poker"></a>
 ## Betclic Paris Sportifs & Poker
@@ -877,365 +1237,74 @@ Des questions ? Contacte-nous directement sur mobile@betclic.fr
 
 [View on Apple](https://apps.apple.com/fr/app/betclic-paris-sportifs-poker/id441081528)
 
-<a id="netflix-game-controller"></a>
-## Netflix Game Controller
+<a id="easypark-parken-park-app"></a>
+## EasyPark parken - Park App
 
-![Netflix Game Controller](../../logos/6447582581-851acfd0.png)
+![EasyPark parken - Park App](../../logos/449594317-04052462.png)
 
-Spiele Spiele auf deinem Fernseher oder Computerbrowser mit dem Netflix-Gamecontroller.
+Seit 2001 macht EasyPark Städte lebenswerter. Mit Millionen von Autofahrer:innen, Unternehmen und Betreiber:innen, die unsere Dienste in mehr als 20 Ländern nutzen, entwickeln wir bequeme und einfach zu bedienende Lösungen. Das spart oft Zeit und Geld und verringert den unnötigen Stress des Parkens.
 
-Mit dieser App kannst du Spiele auf Netflix spielen, indem du dein Handy oder Mobilgerät als Gamecontroller verwendest. Die Netflix-Gamecontroller-App ist für alle verfügbar.
+EasyPark ist die Nr. 1 unter den Park-Apps in Europa, mit der besten Abdeckung. Unsere Lösung für mobiles Parken erlaubt es, für das Parken in Parkhäusern, Garagen, auf der Straße oder am Flughafen zu bezahlen. Ob von zu Hause oder im Ausland - wo immer das Leben stattfindet!
 
-Netflix Games befindet sich in der Beta-Phase und je nach Gerätetyp wird dein Fernseher oder Browser möglicherweise derzeit nicht unterstützt.
+Preis: An den meisten Standorten erheben wir eine Servicegebühr zusätzlich zu den vom Betreiber/der Stadt erhobenen Parkgebühren. Der Gesamtpreis und die Aufschlüsselung der Gebühren werden in der EasyPark-App vor jedem Parkvorgang angezeigt. Weitere Informationen sind auf unserer lokalen easypark.com-Website verfügbar.
 
-Lass die Spiele beginnen!
+Mit der App von EasyPark kann jeder:
+- Einen Parkvorgang vom Smartphone aus starten.
+- Das Parken jederzeit stoppen und nur für die tatsächlich genutzte Zeit bezahlen.
+- Die Parkdauer von überall aus anpassen, wenn es mal etwas länger dauert.
+- Einfacher einen freien Parkplatz in der Nähe des Zielorts finden.
+- Die App beruflich oder privat nutzen.
+- Kosten, ob beruflich oder privat, einfach aufteilen und übersichtlich darstellen.
+- Aus sicheren Zahlungsarten frei auswählen.
+- Benachrichtigungen aktivieren, um über Parkvorgänge auf dem Laufenden zu bleiben.
 
-[View on Apple](https://apps.apple.com/fr/app/netflix-game-controller/id6447582581)
+Mit der App von EasyPark kann man in folgenden Städten parken: Berlin, Hamburg, Köln, Frankfurt, Stuttgart, München, Düsseldorf, Dortmund, Wien, Graz, Linz, Innsbruck, Zürich, Genf, Bulle, Bellinzona, Fribourg, Lugano, Locarno, Bern und viele viele mehr!
 
-<a id="capcut-foto-und-video-editor"></a>
-## CapCut: Foto- und Video-Editor
+Leider ist die EasyPark-App im Vereinigten Königreich nicht verfügbar. Um in Großbritannien zu parken, empfehlen wir die App von RingGo zu verwenden.
 
-![CapCut: Foto- und Video-Editor](../../logos/1500855883-69b7fd16.png)
+[View on Apple](https://apps.apple.com/fr/app/easypark-stationnement-facile/id449594317)
 
-CapCut ist eine kostenlose App für die umfangreiche Videobearbeitung, mit der du tolle Videos erstellen kannst.
+<a id="doctolib-die-gesundheits-app"></a>
+## Doctolib - Die Gesundheits-App
 
-「Benutzerfreundlich」
-Zuschneiden, umkehren und Geschwindigkeit verändern: Perfektion war noch nie so einfach; veröffentliche deine wunderbaren Momente.
+![Doctolib - Die Gesundheits-App](../../logos/925339063-25b8ada0.png)
 
-「Hohe Qualität」
-Erweiterte Filter und makellose Schönheitseffekte eröffnen eine ganz neue Welt an Möglichkeiten.
+Doctolib - Ihr digitaler Gesundheitsbegleiter
 
-「Topmusikhits/Toller Klang」
-Umfangreiche Musikbibliothek und exklusive urheberrechtlich geschützte Lieder
+Verwalten Sie Ihre Gesundheit und die Ihrer Familie, jederzeit und von überall mit der Doctolib-App:
 
-「Sticker und Text」
-Mit den besten angesagten Stickern und Schriftarten kannst du dich in deinen Videos kreativ ausdrücken.
+• Finden Sie Arzttermine nach Fachgebiet und Standort bei zehntausenden medizinischen Fachkräften.
+• Schnell und jederzeit Ihre nächsten Arzttermine in der Doctolib-App buchen, beim Arzt vor Ort in Ihrer Nähe oder als Doctolib-Videosprechstunde.
+• Egal, ob gesetzlich oder privat versichert: Online-Arzttermine werden von allen gängigen Krankenkassen übernommen, wie z.B. Barmer, Techniker Krankenkasse oder AOK.
+• Senden Sie Nachrichten direkt per Chat an das Gesundheitsteam für Folgerezepte, Befunde oder sonstige Themen. 
 
-「Effekt」
-Werde kreativ mit einer Vielzahl an magischen Effekten
+• Egal wo Sie sind: Mit der Videosprechstunde erhalten Sie eine flexible Versorgung für Ihre Gesundheit von überall:
+• Gewinnen Sie mehr Zeit: Lassen Sie sich bequem per Videosprechstunde behandeln und sparen Sie sich den Weg zu Ihrem Arzt.
+• Profitieren Sie von einer professionellen Behandlung: Bequem und sicher – ganz genau so, wie Sie es von einem Termin in der Praxis bei Ihrem Arzt kennen.
 
-Nutzungsbedingungen —
-http://www.capcut.com/clause/terms-of-service
+• Gesundheitsmanagement der gesamten Familie: Fügen Sie Angehörige Ihrem Doctolib-Konto hinzu und verwalten Sie die Gesundheit und die Arzttermine Ihrer Familie.
+• Bewahren Sie Ihre Dokumente an einem Ort: Immer verfügbar, sicher und digital, wie z. B. E-Rezepte. Lösen Sie das E-Rezept ganz einfach in der Apotheke mit Ihrer Versichertenkarte oder der Gematik E-Rezept-App ein. 
+• Behalten Sie Ihre Gesundheit im Blick: Mit der Terminerinnerungsfunktion verpassen Sie keine Arzttermine mehr. 
+• Fügen Sie Ärzt:innen und Therapeut:innen zu Ihren Favoriten und teilen Sie diese mit Familie und Freunden.
 
-Datenschutzerklärung —
-https://www.capcut.com/clause/privacy-policy
+Mit Doctolib, Ihrem digitalen Gesundheitsbegleiter, verwalten Sie Ihre Gesundheit und Ihre Arzttermine digital in der Doctolib-App: Erhalten Sie Zugriff auf eine große Auswahl an Ärzt:innen und Gesundheitsexpert:innen:
+Verfügbare Fachrichtungen: Allergologe, Allgemeinmediziner, Augenarzt, Dermatologe, Ernährungsberater, Gastroenterologe, Gynäkologe, Hämatologe, Heilpraktiker, HNO-Arzt, Kardiologe, Kinderarzt, Logopäde, Nephrologe, Onkologe, Orthopäde, Osteopath, Physiotherapeut, Psychologe, Rheumatologe, Urologe, Zahnarzt etc.
 
-Kontakt: capcut.support@bytedance.com
+Für ein gesünderes Leben. Mehr als Arzttermine.
+Seit 2013 hat sich Doctolib einem einzigen Ziel verschrieben: Die Gesundheitsversorgung der Zukunft zu gestalten, gemeinsam mit Gesundheitsteams und Patient:innen. Doctolib unterstützt europaweit 410.000 Gesundheitsfachkräfte mit innovativen Technologien, verbessert ihren Arbeitsalltag und ermöglicht es ihnen, die bestmögliche Versorgung zu gewährleisten. Darüber hinaus hilft das Unternehmen 80 Millionen Menschen in ganz Europa, einen sicheren, vertraulichen und reibungslosen Zugang zur Gesundheitsversorgung zu erhalten – für ein gesünderes Leben.
 
-[View on Apple](https://apps.apple.com/fr/app/capcut-%C3%A9diteur-vid%C3%A9o-photo/id1500855883)
+Doctolib – eines der führenden E-Health Unternehmen in Europa: 
+• 80 Millionen Patient:innen
+• 410.000 Ärzt:innen und Therapeut:innen
 
-<a id="uber-ride-hailing-taxis"></a>
-## Uber: Ride-Hailing & Taxis
+Ihre Gesundheit. Ihre Daten.
+Die Vertraulichkeit Ihrer persönlichen Daten ist für Doctolib eine absolute Priorität und leitet unser tägliches Handeln. Erfahren Sie mehr darüber hier: https://about.doctolib.de/privatsphaere/
 
-![Uber: Ride-Hailing & Taxis](../../logos/368677368-91cedcb7.png)
+Noch Fragen? Weitere Informationen erhalten Sie hier: https://www.doctolib.de/help
 
-Schließe dich Millionen von Nutzer*innen in Deutschland an, die mit der Uber App bequem an ihr Ziel gelangen. Wähle zwischen verschiedenen Vermittlungsoptionenptionen und Transportmitteln aus und gelange von A nach B, wie du es willst – leger mit dem Lime Scooter oder stilvoll mit Uber Premium.
+Alle Informationen zu unseren Nutzungsbedingungen finden Sie hier: https://media.doctolib.com/image/upload/v1721138417/legal/C1_B2C-CU-Sep-23-DE_1.pdf
 
-FINDE DIE PASSENDE FAHRT
-Deine nächste Fahrt ist nur einen Fingertipp entfernt! Mit Uber kommst du völlig unkompliziert und bequem von A nach B.
-Wähle aus einer Vielzahl von Produkten für die verschiedensten Bedürfnisse:
-
-- UberX: günstige Preise und eine Fahrt nur für dich allein
-- Electric: Elektroautos – die besonders umweltfreundliche Option
-- UberXL: günstige Fahrten für Gruppen bis zu 6 Personen
-- Uber Comfort: neuwertige Autos, die viel Beinfreiheit bieten
-- Uber Comfort Electric: Elektroautos aus dem Premiumsegment
-- Uber Pet: günstige Fahrten für dich und dein Haustier
-- Uber Taxi: In ausgewählten Städten findest du auch lokale Taxis in der Uber App.
-- 2-Rad: Buche ein E-Bike oder einen Roller (Lime Scooter) und fahre gleich los.
-- Uber Assist: Der Service für Menschen mit eingeschränkter Mobilität
-- Uber Taxi Wheelchair: Taxis, die auf die Bedürfnisse von Rollstuhlfahrer*innen zugeschnitten sind
-- Uber Taxi Van: Großraumtaxis für Gruppen
-
-FAHRPREISSCHÄTZUNG ANZEIGEN
-Mit der Uber App kannst du den Fahrpreis schon im Vorfeld abfragen, noch bevor du deine Fahrt bestellst. So weißt du gleich, wie viel du bezahlen musst.
-
-ERSCHWINGLICHE PREISE
-Wir gestalten unsere Preisstruktur so transparent wie möglich.
-- Fahrpreisteilung: Teile dir den Betrag direkt auf der Fahrt mit deinen Freund*innen – so müsst ihr euch später nicht den Kopf zerbrechen.
-
-REGISTRIERE DICH BEI UBER ONE UND ERHALTE ATTRAKTIVE PRÄMIEN
-Profitiere von 0,00 € Liefergebühr und spare bis zu 10 % auf berechtigte Liefer- und Abholbestellungen, erhalte 5 % Uber Cash auf berechtigte Fahrten und eine Gutschrift von 5,00 € sollte unsere Schätzung für die späteste Ankunftszeit deiner Bestellung mal nicht der Realität entsprechen. Es gelten weitere Gebühren und Bedingungen. Weitere Details findest du unter uber.com/uberone.
-
-UMWELTBEWUSST VON A NACH B
-Uber engagiert sich für eine nachhaltige Zukunft in unseren Städten. Mit einer wachsenden Flotte von Elektro- und Hybridfahrzeugen hast du jetzt auch die Möglichkeit, dich für besonders umweltfreundliche Fahrten zu entscheiden.
-
-SPONTANE MOBILITÄTSOPTIONEN FÜR MEHR BARRIEREFREIHEIT
-Gemeinsam mit verschiedenen Taxi-Partnern in Deutschland wurden Autos speziell für die Bedürfnisse von Rollstuhlfahrer*innen umgerüstet.
-
-WEITERE HILFREICHE FEATURES
-Bequem zu dir nach Hause
-Lieferung: Bestelle dir dein Lieblingsgericht vom Italiener im Viertel direkt zu dir nach Hause. Lasse dir außerdem Lebensmittel, etwas aus der Apotheke oder Haustierartikel liefern.
-Taxi, bitte!
-Uber Taxi: Ab sofort hast du noch mehr Beförderungsmöglichkeiten in nur einer App – buche dir ganz bequem mithilfe der Uber App ein lokales Taxi zum regulären Taxitarif.
-Darf es ein E-Bike oder E-Scooter sein?
-2-Rad: Wusstest du, dass du dir mit der Uber App auch E-Bikes und Roller (Lime Scooter) ausleihen kannst? Perfekt für die Tage, an denen du etwas mehr Antrieb brauchst, als ein normales Fahrrad hergibt.
-Alles auf einen Blick
-Uber for Business: Verwalte und tracke Geschäftsfahrten, Essenslieferungen und vieles mehr in nur einem Dashboard.
-Lege gleich los! Lade dir die Uber App herunter und erstelle noch heute ein Konto.
-Uber ist in verschiedenen Städten in Deutschland verfügbar, Infos dazu findest du auf unserer Website. Bleibe auf dem Laufenden über neueste Nachrichten, Aktionen und Angebote, indem du uns auf Twitter unter https://twitter.com/uber_ger oder auf Facebook unter https://www.facebook.com/uberdeutschland folgst.
-Uber vermittelt Beförderungsaufträge an professionelle und lizenzierte Mietwagenunternehmer. Uber selbst bietet keine Fahrten an und ist für die Beförderung als solche nicht verantwortlich.
-
-[View on Apple](https://apps.apple.com/fr/app/uber-commandez-un-trajet/id368677368)
-
-<a id="leboncoin"></a>
-## leboncoin
-
-![leboncoin](../../logos/484115113-6536b7cd.png)
-
-Multimédia, déco, mode, livres, jeux, vélo, bricolage, immo, auto, l’application leboncoin vous accompagne au quotidien.
-
-Plus de 84 millions de bonnes raisons de télécharger l’appli.
-leboncoin facilite tous vos échanges au quotidien grâce à ses 83 millions d’annonces dans 5 univers.
-
-Simple comme un clic.
-Publiez vos annonces et vendez vos biens en quelques clics avec le dépôt d’annonces automatisé.
-Toute la seconde main est accessible en livraison ou en main propre.
-Achetez et payez en ligne grâce au paiement sécurisé. Votre argent est versé au vendeur une fois que vous avez récupéré et validé votre article. Et s’il ne correspond pas à vos attentes, vous
-pouvez annuler la transaction. Et en plus de ça, les profils des vendeurs sont vérifiés. Vos prochains coups de coeur n’attendent que vous.
-
-Question logement, vous êtes à la bonne adresse.
-leboncoin, premier site immobilier de France, est la clé pour vendre, acheter ou louer votre maison, appartement, ou terrain avec plus d’1,5 million d’annonces en ligne. On est invités à la
-crémaillère ?
-
-En route pour trouver votre bonheur.
-Envie de partir à l’aventure ? Consultez nos annonces de voitures, motos, scooters ou motos cross d’occasion.
-Achetez ou vendez votre véhicule au meilleur prix sur leboncoin, premier site pour les annonces auto.
-
-Le bon candidat pour trouver un job.
-Ici, on aime le travail bien fait. Découvrez toutes les offres d’emploi faites pour vous et postulez en deux clics dans la catégorie emploi du boncoin, deuxième site d’emploi privé en France.
-
-Partez l’esprit léger.
-Que vous préfériez le bord de mer, la campagne, ou la montagne… Votre location de vacances vous attend sur leboncoin. Réservez votre prochain voyage partout en France, du camping au
-chalet en passant par la cabane dans les arbres en pleine nature, en toute sécurité. Détente garantie.
-
-[View on Apple](https://apps.apple.com/fr/app/leboncoin/id484115113)
-
-<a id="booking-com-hotel-angebote"></a>
-## Booking.com: Hotel Angebote
-
-![Booking.com: Hotel Angebote](../../logos/367003839-e6c05e42.png)
-
-Laden Sie sich die am besten bewertete Reise-App herunter und finden Sie wie tausende andere Reisende Angebote für Hotels, Motels und Ferienunterkünfte. Finden Sie Unterkünfte für Ihren Urlaub, Wochenendausflug oder Ihre Geschäftsreise – und das auf der ganzen Welt!
-
-Suchen Sie nach Hotels, Motels und Ferienunterkünften
-
-• 27 Millionen Hotels, Ferienunterkünfte, Ferienhäuser und -wohnungen sowie weitere einzigartige Unterkünfte
-• Suchen Sie mit nur einmal Tippen nach Stadt, Attraktion, Sehenswürdigkeit oder Hotelname
-• Filtern Sie nach Preis, Bewertungsergebnis, Annehmlichkeiten und anderen, für Sie wichtigen Dingen
-• Finden Sie Ihren Last-Minute-Aufenthalt oder buchen Sie lange im Voraus
-
-Finden Sie ein tolles Reiseangebot
-
-• Tägliche Angebote für jedes Budget
-• Kostenlose Stornierung bei den meisten Zimmern
-• Sehen Sie sich über 135 Millionen echte Gästebewertungen an
-
-Verwalten Sie Ihre Buchung unterwegs
-
-• Erhalten Sie eine papierlose Bestätigung
-• Nehmen Sie Änderungen wann und wo Sie möchten vor
-• Kundenservice rund um die Uhr in über 40 Sprachen
-• Kontaktieren Sie Ihren Gastgeber, sehen Sie sich die Check-in-Zeiten an und schreiben Sie Bewertungen
-• Keine Buchungs- oder Kreditkartengebühren
-
-[View on Apple](https://apps.apple.com/fr/app/booking-com-h%C3%B4tels-voyage/id367003839)
-
-<a id="google-maps"></a>
-## Google Maps
-
-![Google Maps](../../logos/585027354-9efd3f69.png)
-
-Mit Google Maps kannst du die Welt ganz einfach erkunden und bereisen. Anhand von Live-Verkehrsdaten und GPS-Navigation lassen sich die besten Routen finden – ganz gleich, ob du mit dem Auto, zu Fuß, mit dem Fahrrad oder mit öffentlichen Verkehrsmitteln unterwegs bist. Über 250 Millionen Orte und Unternehmen, darunter Restaurants, Geschäfte und Lebensmittelhändler, sind bei Google Maps eingetragen – mit Fotos, Rezensionen und nützlichen Informationen.
-
-Erkunde die Welt auf deine Weise:
-• Erreiche dein Ziel mit kraftstoffsparenden Routen
-• Finde die beste Route anhand von Echtzeitinformationen mit detaillierter Routenführung per Sprachnavigation oder Navigation auf dem Bildschirm
-• Komm schneller ans Ziel mithilfe der automatischen Neuberechnung von Routen, je nach aktueller Verkehrslage, Verkehrsbehinderungen und Straßensperrungen
-• Echtzeitinformationen machen es einfacher, deinen Bus, Zug oder Fahrdienst zu erreichen.
-• Wenn du besser vorankommen und flexibler sein möchtest, kannst du nach einem Fahrrad- oder Rollerverleih suchen.
-
-Plane Reisen und Ausflüge ohne viel Aufwand:
-• Street View ermöglicht es dir, schon vorab die Gegend zu erkunden und herauszufinden, wo sich beispielsweise Parkmöglichkeiten und Eingänge befinden.
-• Mit Immersive View kannst du dir Sehenswürdigkeiten, Parks und Routen ansehen oder sogar die Wetterverhältnisse beobachten, damit du optimal auf deinen Besuch vorbereitet bist.
-• Teile Listen mit deinen gespeicherten Lieblingsorten mit anderen.
-• Du hast die Möglichkeit, Essen zur Lieferung und Selbstabholung zu bestellen, Reservierungen vorzunehmen und Hotels zu buchen.
-• Mithilfe von Offlinekarten findest du dich auch in Gegenden mit schlechtem Empfang gut zurecht.
-• Du kannst nach lokalen Orten und möglichen Aktivitäten suchen und basierend auf Nutzerrezensionen und Fotos Entscheidungen treffen.
-
-Lass dich von Insidertipps inspirieren:
-• Jährlich tragen 500 Millionen Nutzer dazu bei, die Google Maps auf dem neuesten Stand zu halten. Dir stehen also aktuelle Informationen zur Verfügung.
-• Du kannst vorab herausfinden, wie stark ein Ort besucht ist, und so Menschenansammlungen meiden.
-• Mithilfe von Lens in Maps lassen sich Fußgängerrouten in die reale Umgebung einblenden.
-• Restaurants können beispielsweise nach Restauranttyp, Öffnungszeiten, Preisen oder Bewertungen gefiltert werden.
-• Bei Fragen zu einem Ort – etwa zu den angebotenen Gerichten oder Parkplätzen – erhältst du schnell Antworten.
-
-Einige Funktionen sind nicht in allen Ländern oder Städten verfügbar.
-Die Navigation ist nicht für übergroße Fahrzeuge oder Einsatzfahrzeuge geeignet.
-
-[View on Apple](https://apps.apple.com/fr/app/google-maps/id585027354)
-
-<a id="google"></a>
-## Google
-
-![Google](../../logos/284815942-c566dbd3.png)
-
-Mit der Google App bist du immer über die Dinge informiert, die dir wichtig sind. Hier findest du schnelle Antworten, erhältst Informationen zu deinen Interessen und bleibst mit Discover immer auf dem Laufenden.
-
-Funktionshighlights:
-• Nutze die Kamera, um Objekte in deiner Umgebung zu identifizieren, z. B. einen bunten Schmetterling oder eine stachelige Pflanze
-• Lass dir Straßenschilder, Speisekarten oder andere Texte mit deiner Kamera übersetzen – mehr als 100 Sprachen werden unterstützt
-• Du siehst etwas, was dir gefällt? Finde mit der Kamera heraus, was es ist und wo du es kaufen kannst
-• Füge deiner Kamerasuche Wörter hinzu, um die Ergebnisse einzugrenzen – z. B. wenn du ein paar Schuhe entdeckt hast, die du gern in „blau“ hättest, oder wenn du wissen möchtest, wie du ein kaputtes Teil an deinem Fahrrad „reparieren“ kannst
-• Suche Lieder mit deiner Stimme, auch wenn du den Text nicht kennst. Summe einfach die Melodie eines Songs – die App zeigt dir den Titel des Songs
-• Nutze die Kamera, um Hilfe bei deinen Hausaufgaben zu erhalten. So findest du detaillierte Anleitungen und Videos zur Lösung von Aufgaben aus beispielsweise Mathematik, Chemie, Biologie und Physik
-
-
-Lass dich von Discover auf dem Laufenden halten – ganz auf dich zugeschnitten:
-• Aktuelle Informationen zu Themen, die dich interessieren
-• Jeden Morgen die neuesten Nachrichten und den Wetterbericht
-• Echtzeit-Updates zu Sport, Filmen und Veranstaltungen
-• Informationen zu Neuveröffentlichungen deiner Lieblingsmusiker
-• Artikel zu deinen Interessen und Hobbys
-• Interessante Themen direkt aus den Google-Suchergebnissen
-
-
-Sicherheit bei der Suche:
-• Alle Suchanfragen in der Google App werden mit einer verschlüsselten Verbindung zwischen deinem Gerät und Google geschützt.
-• Die Datenschutzeinstellungen sind leicht zu finden und zu verwalten. Tippe einfach auf dein Profilbild. Daraufhin öffnet sich das Menü, wo du mit einem Klick die Suchverlaufeinträge der letzten paar Minuten aus deinem Konto löschen kannst.
-• Webspam wird in der Google Suche proaktiv herausgefiltert, damit du sichere, hochwertige Ergebnisse erhältst.
-
-
-Du hast noch mehr Möglichkeiten, Google zu nutzen:
-• Google Such-Widget – mit dem neuen Google-Widget kannst du Suchanfragen direkt auf deinem Start- oder Sperrbildschirm ausführen. Du hast die Wahl zwischen 2 Widgets, die dir eine Schnellsuchleiste in zwei Größen bieten. Über Verknüpfungen kannst du im mittelgroßen Widget auswählen, wenn du mit Lens, Voice und im Inkognitomodus suchen möchtest.
-
-
-Hier erfährst du mehr zu den Vorteilen der Google App: https://search.google/
-
-Datenschutzerklärung: https://www.google.com/policies/privacy
-
-Das Feedback unserer Nutzerinnen und Nutzer hilft uns, bessere Produkte zu entwickeln. Wenn auch du an Nutzungsstudien teilnehmen möchtest, besuche:
-
-https://goo.gl/kKQn99
-
-[View on Apple](https://apps.apple.com/fr/app/google/id284815942)
-
-<a id="wero"></a>
-## Wero
-
-![Wero](../../logos/6480469576-4b8b0159.png)
-
-L'application Wero vous accompagne pour une utilisation simple et fluide de la solution de paiement Wero avec votre banque.
-
-Les clients de La Banque Postale et de Postbank profitent d'une intégration directe, leur offrant une expérience optimisée pour réaliser leurs paiements en toute simplicité.
-
-Wero, votre solution de paiement mobile instantanée arrive très bientôt sur votre store d’application favori !
-
-Des paiements rapides, sécurisés et instantanés dans toute l’europe. Tout ce dont vous avez besoin est un compte bancaire et un smartphone pour transformer Wero en un moyen pratique pour payer vos proches.
-
-Principales fonctionnalités :
-•	Envoyez et recevez de l’argent en quelques secondes, 24 heures sur 24 et 7 jours sur 7, même le week-end et les jours fériés.
-•	Aucun frais pour l’envoi ou la réception d'argent.
-•	Ajoutez plusieurs comptes bancaires facilement.
-
-Facile à configurer :
-Il suffit de quelques minutes et de quelques étapes pour configurer Wero sur votre smartphone.
-•	Téléchargez l’application Wero.
-•	Confirmez votre compte bancaire.
-•	Liez votre numéro de téléphone à votre compte.
-•	Retrouvez vos amis utilisant Wero.
-•	Commencez à envoyer et recevoir de l'argent.
-
-Envoyer et recevoir de l’argent :
-•	Faites un envoi d’argent en quelques clics,
-•	Envoyez des demandes de paiement,
-•	Présentez ou scannez un QR code Wero.
-
-Toujours informé :
-N'oubliez pas d'activer vos notifications:
-•	Soyez informé lorsque vous recevez de l’argent.
-•	Soyez alerté quand vous recevez des demandes de paiement.
-•	Historique complet des paiements.
-•	Assistant virtuel intégré et Foire aux questions.
-
-Soutenu par des banques européennes :
-La solution de paiement Wero est supportée par les principaux établissements financiers et bancaires européens. Wero vous permet d’envoyer, de demander et de recevoir de l’argent depuis la plupart des comptes bancaires en Belgique, en France et en Allemagne – et d'autres pays européens sont à venir.
-
-Dans le future:
-Wero s’enrichira de fonctionnalités supplémentaires, paiements en lignes, abonnements et paiements en magasins sont au programme pour les années à venir.
-
-[View on Apple](https://apps.apple.com/fr/app/wero/id6480469576)
-
-<a id="france-identite"></a>
-## France Identité
-
-![France Identité](../../logos/1590142959-3c5d2b28.png)
-
-L'IDENTITÉ NUMÉRIQUE RÉGALIENNE PERMET DE :
-- Prouver votre identité sans divulguer toutes vos données
-- Remplacer vos identifiants et mots de passe
-- Empêcher l'usurpation de votre d'identité
-VOUS AVEZ PLUS DE 18 ANS ET VOUS ÊTES MUNIS DE LA NOUVELLE CARTE NATIONALE D'IDENTITÉ ?
-- Téléchargez France Identité
-- Créez votre identité numérique
-- Gardez la maitrise de vos données
-AVEC L'APPLICATION FRANCE IDENTITÉ :
-- Lisez votre nouvelle carte d'identité directement avec votre téléphone
-- Définissez votre code personnel pour sécuriser l'accès à vos données
-- Créez des justificatifs d'identité à usage unique pour remplacer les photocopies de votre carte d'identité
-- Authentifiez-vous sur tous les services disponibles sur FranceConnect
-- Dématérialisez votre permis de conduire
-À VENIR:
-- La dématérialisation de la carte grise et de l'assurance
-LE RESPECT DE VOS DONNÉES
-L'application ne traite pas vos données à des fins commerciales ou publicitaires et applique notamment les dispositions du règlement général sur la protection des données (ou RGPD) et de la loi informatique et libertés.
-
-[View on Apple](https://apps.apple.com/fr/app/france-identit%C3%A9/id1590142959)
-
-<a id="strava-laufen-radfahren"></a>
-## Strava: Laufen & Radfahren
-
-![Strava: Laufen & Radfahren](../../logos/426826309-f343b940.png)
-
-App Store Award-Gewinner: Apple Watch‑App des Jahres
-
-Strava verbindet Fitness-Tracking mit sozialem Netzwerk. Wir erfassen deinen gesamten sportlichen Lebensweg an einem zentralen Ort – und du kannst diesen mit deinen Freunden teilen. So geht's:
-
-• Zeichne alles auf – Läufe, Fahrten, Wanderungen, Yoga und über 50+ andere Sportarten. Stell dir Strava als die Zentrale für deine Aktivitäten vor.
-
-• Mach dir ein Bild von deinem Krafttraining – du trainierst jede Woche im Fitnessstudio, machst HIIT-Workouts und nimmst an Gruppenkursen für Krafttraining teil? Nutze dein Lieblingsgerät oder deine Lieblings-App für Krafttraining, und deine Übungen, Sätze, Wiederholungen, Gewichte und eine Muskelkarte werden automatisch angezeigt. Oder leg noch heute los und sieh, wie schnell Krafttraining zu einem wichtigen Teil deines aktiven Lebens wird.
-
-• Überall gibt es etwas zu entdecken – unser Routen-Tool nutzt anonymisierte Strava-Daten, um dir auf intelligente Weise beliebte Routen zu empfehlen, die auf deinen Vorlieben basieren. Du kannst auch deine eigenen Routen erstellen.
-
-• Entdecke beliebte Wander-Routen in deiner Umgebung, darunter lokale Favoriten, malerische Trails und Langstrecken-Aufstiege
-
-• Entdecke beliebte Wander-Routen in deiner Umgebung, darunter lokale Favoriten, malerische Trails und Langstrecken-Aufstiege
-
-• Baue dir ein Netzwerk von Unterstützern auf – bei Strava geht es darum, Bewegung zu feiern. Hier findest du eine Community, die sich gegenseitig anfeuert.
-
-• Trainiere intelligenter – erhalte Dateneinblicke, um deinen Fortschritt zu verstehen und zu sehen, wie du dich verbesserst. In deinem Trainingstagebuch werden alle deine Trainingseinheiten aufgezeichnet.
-
-• Bewege dich sicherer – teile deinen Standort in Echtzeit mit deinen Lieben, wenn du draußen bist, um deine Sicherheit zu erhöhen.
-
-• Synchronisiere deine Lieblings-Apps und -Geräte – Strava ist mit Tausenden von ihnen kompatibel (Apple Watch, Fitbit, Garmin – was immer du willst).
-
-• Nimm an Herausforderungen teil und erstelle selbst welche – nimm gemeinsam mit Millionen von Sportlern an monatlich wechselnden Herausforderungen teil, um neue Ziele zu verfolgen, digitale Abzeichen zu sammeln und fit zu bleiben.
-
-• Lass dich von ungefilterten Erfahrungen inspirieren – dein Feed auf Strava ist voller echter Leistungen von echten Menschen. Auf diese Weise motivieren wir uns gegenseitig.
-
-• Egal ob du ein Weltklasse-Sportler oder ein totaler Anfänger bist, du gehörst hierher. Zeichne einfach deine Aktivitäten auf und los geht's.
-
-Strava bietet sowohl eine kostenlose Version als auch eine Mitgliedschaft mit Premium-Funktionen.
-Strava nutzt HealthKit, um deine Strava-Aktivitäten in die Health-App zu exportieren und um deine Herzfrequenz- und biometrische Daten zu lesen.
-
-Du kannst die Mitgliedschaft im App Store mit deiner Apple ID abschließen und bezahlen. Die Zahlung wird bei der Kaufbestätigung über deine Apple ID abgebucht. Deine Mitgliedschaft verlängert sich automatisch, wenn sie nicht mindestens 24 Stunden vor Ablauf des aktuellen Zeitraums gekündigt wird. Dein Konto wird innerhalb von 24 Stunden vor dem Ende des aktuellen Zeitraums für die Verlängerung belastet. Die Mitgliedschaft und die automatische Verlängerung kann nach dem Kauf in den Einstellungen des App Stores unter „Abonnements“ verwaltet und deaktiviert werden. Ein ungenutzter Teil einer kostenlosen Probemitgliedschaft verfällt, wenn eine kostenpflichtige Mitgliedschaft abgeschloßen wird. Die Mitgliedschaft verlängert sich dann zu den gleichen Kosten.
-
-Allgemeine Geschäftsbedingungen: 
-https://www.strava.com/legal/terms
-Datenschutzerklärung: 
-https://www.strava.com/legal/privacy
-
-[View on Apple](https://apps.apple.com/fr/app/strava-course-v%C3%A9lo-rando/id426826309)
+[View on Apple](https://apps.apple.com/fr/app/doctolib-compagnon-de-sant%C3%A9/id925339063)
 
 <a id="tricount-compte-entre-amis"></a>
 ## tricount: compte entre amis
@@ -1285,42 +1354,6 @@ Plus besoin de feuilles de calcul : tricount s'occupe de tout. Idéal pour les 
 Découvrez la façon la plus simple de suivre les dépenses de groupe.
 
 [View on Apple](https://apps.apple.com/fr/app/tricount-compte-entre-amis/id349866256)
-
-<a id="vinted-secondhand-marktplatz"></a>
-## Vinted: Secondhand-Marktplatz
-
-![Vinted: Secondhand-Marktplatz](../../logos/632064380-578a8d92.png)
-
-Die Idee ist simpel: Du verkaufst deine aussortierten Sachen an andere Mitglieder, die sie wieder lieben werden. Sie freuen sich aufs Unboxing und über ihren tollen neuen Schatz und du hast wieder mehr Platz zu Hause. Bedeutet also: Guter Style, Gutes tun, gutes Gefühl – für alle! 
-
-Das Verkaufen ist einfach und kostenfrei
-Mach einfach ein paar Fotos von deinem Artikel, beschreibe ihn und leg einen Preis fest. Alles, was du verdienst, gehört dir – zu 100 %!  
-• Verdien dir was dazu, indem du pre-loved Kleidung, Haushaltswaren, Elektronik, Sammlerstücke, Spielzeug und mehr verkaufst. 
-• Schau zu, wie dein Guthaben wächst. Lass dir dein Geld direkt auf dein Bankkonto auszahlen. 
-• Den Versand zahlt der Käufer. Bei einem Verkauf erhältst du einen bereits bezahlten Versandschein – einfach und praktisch. 
-
-Shoppe Wieder-neu-Schätze     
-Freu dich über deine Secondhand-Entdeckungen – von Designer-Teilen bis zu hochwertigen elektronischen Geräten. 
-• Schnell gefunden, lang geliebt. Auf Vinted gibt’s Kategorien für fast alles. Nutze Filter, um schneller zu finden, was du suchst. 
-• Wir sind für dich da. Wenn du auf Vinted kaufst, wirst du von unserem Käuferschutz abgesichert. Gegen eine geringe Gebühr erhältst du eine Rückerstattung, falls dein Artikel verloren gegangen ist, bei der Lieferung beschädigt wurde oder deutlich anders als beschrieben ist. 
-• Wähle einen Versandanbieter und lass dir deine Sendung nach Hause oder an eine Abholstelle liefern.  
-
-Hol dir zusätzliche Sicherheit
-Auf Vinted stehen dir 2 Verifizierungsdienste zur Verfügung. Mit ihnen kannst du auch hochpreisige Artikel mit ruhigem Gewissen kaufen und verkaufen. 
-Die Artikelverifizierung für Designerartikel
-Lass die Authentizität qualifizierter Artikel von unserem Expertenteam prüfen. 
-Die Elektronikverifizierung 
-Lass die Funktionalität, den Zustand und die Authentizität bestimmter technischer Artikel prüfen. 
-Wir schicken den Artikel nur an dich weiter, wenn er erfolgreich verifiziert werden konnte. Andernfalls erhältst du eine Rückerstattung. Die Verifizierung kannst du beim Checkout hinzufügen. 
-
-Dich erwartet eine facettenreiche Community von Secondhand-Fans in Deutschland, Frankreich und Italien. Chatte mit anderen Mitgliedern, erhalte Updates und verwalte deine Bestellungen an einem Ort. 
-
-Mach mit
-TikTok: https://www.tiktok.com/@vinted 
-Instagram: https://www.instagram.com/vinted
-Mehr Infos findest du in unserem Hilfe-Center: https://www.vinted.de/help.
-
-[View on Apple](https://apps.apple.com/fr/app/vinted-shopping-seconde-main/id632064380)
 
 <a id="sncf-connect-trains-trajets"></a>
 ## SNCF Connect: Trains & trajets
@@ -1376,177 +1409,6 @@ Besoin d’aide ?
 
 [View on Apple](https://apps.apple.com/fr/app/sncf-connect-trains-trajets/id343889987)
 
-<a id="facebook"></a>
-## Facebook
-
-![Facebook](../../logos/284882215-9c7a82be.png)
-
-Wo echte Menschen deine Neugier wecken. Auf Facebook kannst du mit echten Personen interagieren, wie in keinem anderen Social Network: Verkaufe und kaufe Second-Hand-Ausrüstung, teile Reels mit Menschen auf deiner Wellenlänge oder lache mit anderen über witzige Bilder, denen KI einen unerwarteten Twist gegeben hat.
-
-Entdecke Neues und erweitere deine Interessen: 
-* Fordere die Meta-KI auf, nach interessanten Themen für dich zu suchen, und erhalte sofort interaktive Ergebnisse, die mehr als nur Text zu bieten haben.
-* Suche auf dem Marketplace nach guten Deals und Schätzen für deine Hobbys.
-* Personalisiere deinen Feed, um mehr von dem zu sehen, was dir gefällt.
-* Sieh dir Reels und Videos an – für Unterhaltung oder hilfreiche Anleitungen.
-
-Verbinde dich mit Menschen und Communitys:
-* Tritt Gruppen bei und erhalte nützliche Tipps und Tricks von anderen Nutzer*innen
-* Teile deine Inhalte automatisch auf Instagram und spare Zeit
-* Sende Posts in einer privaten Nachricht an deine BFF, weil nur sie weißt, was du meinst, oder einen Reel-Trend, über den alle reden.
-
-Lass andere an deiner Welt teilhaben:
-* Nutze generative KI, um deine Freund*innen mit individuellen Bildern zu überraschen, oder um dir beim Verfassen von Beiträgen zu helfen.
-* Passe dein Profil an und lege fest, wie du angezeigt wirst und wer deine Beiträge sehen kann.
-* Erstelle aus aktuellen Vorlagen mühelos eigene Reels oder lass deiner Kreativität mit vielfältigen Bearbeitungs-Tools freien Lauf.
-* Zeige spontane Momente in den Stories.
-
-Nutzungsbedingungen & Richtlinien https://www.facebook.com/policies_center
-
-[View on Apple](https://apps.apple.com/fr/app/facebook/id284882215)
-
-<a id="uber-eats-essen-lieferdienst"></a>
-## Uber Eats: Essen, Lieferdienst
-
-![Uber Eats: Essen, Lieferdienst](../../logos/1058959277-eb6734d7.png)
-
-Lass dir mit der Uber Eats App Essen von tausenden fantastischen lokalen und internationalen Restaurants direkt an die Haustür liefern. Finde das Essen, das du suchst und bestelle es ganz einfach und schnell online. Verfolge deine Bestellung in Echtzeit und genieße den besten Lieferservice.
-
-FINDE DEIN LIEBLINGSESSEN & RESTAURANTS
-Bestelle Essen von Restaurants in deiner Nähe und suche nach Gerichten wie Pizza, Burritos, Burger, Sushi, Bowls, Donuts, Döner, Lasagne, Tapas, Waffeln und mehr. Ob asiatisch, indisch, japanisch, koreanisch, halal, vegan oder chinesisch - Uber Eats hat und liefert dir alles. Abholung bevorzugt? Überspringe einfach die Schlange. Du kennst nur Lieferando, Just Eat, Deliveroo, Wolt, Bolt Food oder Glovo? Dann probiere doch jetzt Uber Eats und lass dir dein Lieblingsessen liefern.
-
-UBER ONE ABONNIEREN
-Für nur 4,99 € im Monat erhältst du als Uber One-Abonnent 0€ Liefergebühren für berechtigte Bestellungen. Verdiene 5% Uber Cash für berechtigte Uber Fahrten. Profitiere von Prämien, Rabatten, Gutscheinen und Angeboten. Die vollständigen Uber One Geschäftsbedingungen findest du in der Uber Eats und Uber App.
-
-BESTELLE FAST ALLES, WANN IMMER DU WILLST
-Bestelle Artikel und Lebensmittel von Supermärkten, Tierhandlungen, deinem Lieblings-Restaurant und mehr. Ob Babynahrung, Windeln, Schönheitsprodukte, Kosmetik, Brot, Milch, Bananen, Obst, Blumen oder Tiefkühlkost - wir lassen alles liefern. Auch alkoholische Getränke wie Bier, Wein und Spirituosen sind erhältlich*. Bezahle sicher und einfach mit Klarna, Paypal, Debit- oder Kreditkarte.
-
-EINFACH BESTELLEN, EINFACH GELIEFERT
-Wähle dein Essen aus einer beliebigen Speisekarte und füge es mit wenigen Klicks deinem Warenkorb hinzu. Uber Eats macht es einfach, Essen online zu bestellen und geliefert zu bekommen. Plane deine Bestellung im Voraus oder bestelle sofort - du hast die Wahl! Einfach mit Klarna, Paypal, Debit- oder Kreditkarte bezahlen und mit der Uber Eats App alle deine Bestellungen bequem online nachverfolgen.
-
-ECHTZEIT-BESTELLVERFOLGUNG
-Verfolge deine Essenslieferung in Echtzeit auf einer Karte. Lass dich benachrichtigen, wenn deine Bestellung eintrifft. Nutze den Tracker in der Uber Eats App, um deine Bestellung live zu verfolgen und sei immer auf dem Laufenden.
-
-FINDE DEINE LIEBLINGSRESTAURANTS
-Egal ob du Pizza, Döner, Fast Food oder vegetarisches Essen bestellen möchtest, Uber Eats ist dein Lieferservice für alles. Genieße auch die leckeren Gerichte von L’Osteria, Burgermeister, Five Guys und vielen anderen Restaurants. Wähle aus verschiedenen Gerichten für Frühstück, Mittagessen oder Abendessen. Bestelle Sushi, Bowls, Bubble Tea, vegan oder einen Loco Chicken Burger. Einige unserer Lieferpartner sind McDonald's, Burger King, Dominos, KFC, Subway, Starbucks, Pizza Hut und viele mehr.
-
-RESTAURANTS, LEBENSMITTELGESCHÄFTE UND MEHR FINDEN
-Bestelle bei Lebensmittelgeschäften wie Flink oder anderen Kiosken. Andere Lieferpartner sind Pets Deli und lokale Supermärkte. Lass dir deine Einkäufe bequem nach Hause liefern. Finde alle deine Lieblingsprodukte und bestelle sie ganz einfach online. Von japanischem Sushi über koreanisches BBQ bis hin zu traditionellen deutschen Gerichten - bei Uber Eats findest du alles.
-
-IN DEINER STADT VERFÜGBAR
-Schließe dich den Tausenden von Menschen in Deutschland (DE) an, die Uber Eats nutzen, um in ihren Lieblingsrestaurants zu bestellen. Uber Eats ist in Städten wie Berlin, Frankfurt am Main, München, Köln, Düsseldorf, Essen, Hamburg, Stuttgart, Bremen, Leipzig, Hannover, Dresden und vielen mehr verfügbar. Finde Essenslieferungen in deiner Stadt mit Uber Eats. Bestelle Essen online und nutze die App, um den Lieferstatus in Echtzeit zu verfolgen. Genieße die Vielfalt der internationalen Küche, von italienischer Pizza über chinesisches Dim Sum bis hin zum klassichen Hamburger und arabischen Mezze.
-
-*Alkohol in ausgewählten Märkten. Mindestalter: 18 Jahre. Verfügbarkeit variiert je nach Markt. Siehe App für Details.
-
-[View on Apple](https://apps.apple.com/fr/app/uber-eats-repas-et-courses/id1058959277)
-
-<a id="meta-ai"></a>
-## Meta AI
-
-![Meta AI](../../logos/1558240027-a0f18b60.png)
-
-Meta AI est votre assistant IA personnel - connecté au monde, mais ancré dans votre univers. Obtenez des réponses, des recommandations et de l'inspiration réellement utiles.
-
-• Des réponses plus riches : Meta AI s'appuie sur ce que les gens partagent et sur les sujets dont ils parlent sur Instagram, Facebook et Threads.
-
-• Achetez plus intelligemment : Décrivez ce que vous recherchez ou prenez une photo pour trouver de l'inspiration. Meta AI tient compte des Creators que vous suivez et des marques que vous aimez pour vous proposer des recommandations qui reflètent votre style.
-
-• Découvrez des lieux près de chez vous : Demandez des recommandations de restaurants, des idées d'activités ou des endroits à visiter ce week-end. Meta AI s'appuie sur des avis authentiques, des publications et les tendances du moment pour vous fournir des suggestions, avec des notes, photos et détails.
-
-• Obtenez des réponses à partir de n'importe quelle photo, vidéo, document ou fichier : Prenez une photo pour obtenir une aide instantanée. Importez des documents, PDF ou feuilles de calcul pour obtenir des résumés, des comparaisons ou des analyses. Envoyez plusieurs fichiers et Meta AI les traitera ensemble.
-
-• Réfléchissez aux sujets les plus complexes : Qu'il s'agisse d'une grande décision ou d'une question rapide, Meta AI vous aide à y voir plus clair. Activez le mode Réflexion pour raisonner étape par étape sur des questions complexes.
-
-• Discutez en privé : Démarrez une discussion incognito avec Meta AI pour une conversation privée et temporaire que vous seul(e) pouvez voir.
-
-• Exprimez votre créativité : Créez et partagez des vibes, ces vidéos immersives de vous, de vos amis et de tout ce que vous pouvez imaginer.
-
-• Parlez avec Meta AI : Oralement ou par écrit. Les conversations vocales sont plus rapides et naturelles, disponibles dans 13 langues. Obtenez des réponses en temps réel sur ce que vous voyez avec live AI.
-
-• Mode mains libres : Appairez vos lunettes IA pour une assistance personnelle tout au long de votre journée. L'application Meta AI est nécessaire à la gestion de vos lunettes IA, à l'importation et au partage de contenu multimédia et à d'autres fonctionnalités.
-
-Meta AI est conçu avec Muse Spark, le premier d'une nouvelle famille de modèles issus de Meta Superintelligence Labs. Vous pouvez utiliser Meta Al sur WhatsApp, Messenger, Instagram, Facebook, les lunettes IA, l'application Meta AI et meta.ai.
-
-Certaines fonctionnalités de Meta AI ne sont disponibles que dans certains pays et certaines langues. Certaines fonctionnalités pourront être déployées progressivement. Vous souhaitez signaler un problème ou nous faire part de vos commentaires ? Secouez votre téléphone et appuyez sur « Envoyer un signalement ».
-
-[View on Apple](https://apps.apple.com/fr/app/meta-ai/id1558240027)
-
-<a id="pinterest"></a>
-## Pinterest
-
-![Pinterest](../../logos/429047995-25d28d5c.png)
-
-Pinterest ist ein Ort endloser Möglichkeiten. Du kannst:
-- Inspiration sammeln
-- Die neuesten Trends shoppen
-- Neue Hobbys ausprobieren
-
-Erstelle Pinnwände, merke dir Pins und kreiere Collagen mit allem, was dich inspiriert. Entdecke zahllose Ideen, von Fashion-Tipps und einfachen Rezepten bis DIY-Projekten und kreativen Ideen, mit denen du deinem Zuhause einen neuen Anstrich verpassen kannst. Gestalte ein Leben, das du liebst? 
-
-It's Possible.
-
-[View on Apple](https://apps.apple.com/fr/app/pinterest-id%C3%A9es-inspiration/id429047995)
-
-<a id="telegram-messenger"></a>
-## Telegram Messenger
-
-![Telegram Messenger](../../logos/686449807-0817888a.png)
-
-Echtes Instant Messaging – einfach, schnell, sicher und mit all deinen Geräten synchronisiert. Eine der Top 5 der am meisten heruntergeladenen Apps der Welt, mit über 1 Milliarde aktiven Nutzern.
-
-SCHNELL: Telegram ist die schnellste Messaging-App auf dem Markt, um Leute über ein weltweit einmalig verteiltes Netzwerk von Rechenzentren zu verbinden.
-
-SYNCHRONISIERT: Du kannst auf alle deine Chatnachrichten und Dateien von verschiedenen Geräten (einschließlich PCs, Tablets und Smartphones) gleichzeitig zugreifen. Die Telegram-Apps sind unabhängig, sodass du dein Handy nicht ständig eingeschaltet lassen musst. Starte deine Nachricht auf einem Gerät und setze sie jederzeit auf einem anderen Gerät fort. Verliere niemals wieder deine Daten.
-
-UNBEGRENZT: Du kannst Chatnachrichten, Bilder, Videos und Dateien jeglicher Art senden. Dein Chatverlauf, inkl. Medien und Dateien, verbraucht keinen Speicherplatz auf deinem Gerät und wird sicher in der Telegram Cloud gespeichert – solange du es möchtest.
-
-SICHER: Unsere Mission ist, ein sicheres, schnelles und globales Kommunikationsmittel zu schaffen. Alles bei Telegram, inklusive Chats, Gruppen, Medien etc. ist verschlüsselt. Wir setzen auf eine Kombination aus 256-Bit symmetrischer AES Verschlüsselung, 2048-Bit RSA Verschlüsselung und dem sicheren Diffie-Hellman Schlüsselaustauschverfahren.
-
-100 % KOSTENLOS & OFFEN: Telegram hat eine vollständig dokumentierte und kostenlose API für Entwickler, Open-Source-Apps und überprüfbare Builds, um zu beweisen, dass die App, die du herunterlädst, aus genau demselben Quellcode erstellt wurde, der veröffentlicht wurde.
-
-LEISTUNGSSTARK: Bei uns kannst du Gruppen mit bis zu 200.000 Mitgliedern erstellen, große Videos und Dateien jeglicher Art (.DOCX, .MP3, .ZIP etc.) mit jeweils bis zu 2 GB teilen und sogar Bots für bestimmte Aufgaben einsetzen. Telegram ist so das perfekte Werkzeug für deine Online-Community und um Teamarbeit zu koordinieren.
-
-ZUVERLÄSSIG: Telegram ist das zuverlässigste Nachrichtensystem, welches je entwickelt wurde, um deine Nachrichten mit möglichst wenig Datenverkehr zu übertragen. Es funktioniert selbst mit der langsamsten mobilen Verbindung.
-
-UNTERHALTSAM: Telegram verfügt über leistungsstarke Foto- und Videobearbeitungswerkzeuge, animierte Sticker und Emoji, vollständig anpassbare Farbthemen, um das Aussehen deiner App zu verändern, und eine offene Sticker-/GIF-Plattform, um all deine ausdrucksstarken Bedürfnisse zu erfüllen.
-
-EINFACH: Obwohl wir eine noch nie dagewesene Vielfalt an Funktionen bieten, achten wir sehr darauf, die Oberfläche schlicht zu halten. Telegram ist so einfach, dass du bereits weißt, wie man es benutzt. 
-
-PRIVAT: Wir nehmen deine Privatsphäre sehr ernst und werden es niemals Dritten erlauben, auf deine Daten zuzugreifen. Du kannst jede Nachricht, die du jemals gesendet oder empfangen hast, für beide Seiten, jederzeit und spurlos löschen. Telegram wird deine Daten niemals nutzen, um dir Werbung zu zeigen.
-
-Für alle, die an maximaler Privatsphäre interessiert sind, gibt es Geheime Chats. Hier zerstören sich Nachrichten, Videos oder Bilder auf Wunsch bei beiden Chatpartnern selbst, sodass es gar keine Spuren mehr von dieser Unterhaltung gibt. Geheime Chats nutzen eine Ende-zu-Ende-Verschlüsselung, um sicherzustellen, dass eine Nachricht nur von dem vorgesehenen Empfänger gelesen werden kann.
-
-Wir setzen neue Standards: Regelmäßige Updates und immer wieder neue interessante Funktionen, die es bei keinem anderen Messenger gibt. Entdecke die Zukunft.
-
-Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
-
-[View on Apple](https://apps.apple.com/fr/app/telegram-messenger/id686449807)
-
-<a id="amazon-fr"></a>
-## Amazon FR
-
-![Amazon FR](../../logos/358861688-cb43cca2.png)
-
-Complète
-Recherchez et achetez des produits, obtenez des informations détaillées, lisez des avis et faites votre choix parmi les millions de produits proposés par Amazon.fr ou amazon.com.be et par d'autres vendeurs.
- 
-Pratique
-Connectez-vous avec votre compte Amazon déjà existant pour accéder à votre panier et à vos options de paiement et de livraison. Pas besoin de créer de nouveau compte pour gérer vos paramètres de commande 1-Click et vos listes d'envie, suivre vos commandes et utiliser vos avantages Premium/ Prime. Faites vos achats aussi facilement que sur Internet.
- 
-Rapide
-Comparez les prix et vérifiez la disponibilité d'un produit instantanément en scannant un code-barres, en prenant une photo ou en saisissant votre recherche. Les utilisateurs de l’Apple Watch peuvent à présent utiliser la reconnaissance vocale pour rechercher des produits, acheter en 1-Click et ajouter des idées à leur Liste d’envies sur leur montre.
- 
-Sûre
-Tous les paiements passent par les serveurs sécurisés d'Amazon.
- 
-Universelle
-Faites vos achats sur Amazon.co.uk, Amazon.de, Amazon.fr, Amazon.com, Amazon.it, Amazon.cn, Amazon.co.jp ou amazon.com.be depuis une même application.
-
-En utilisant cette app, vous acceptez les Conditions générales de vente d’Amazon (www.amazon.fr/conditionsofuse ou www.amazon.com.be/conditionsofuse). Veuillez consulter notre Notice Protection de vos informations personnelles (www.amazon.fr/privacynotice ou www.amazon.com.be/privacynotice), notre Notice Cookies (www.amazon.fr/cookies ou www.amazon.com.be/cookies) et notre Notice Annonces publicitaires basées sur vos centres d’intérêt (www.amazon.fr/interestbasedads ou www.amazon.com.be/interestbasedads).
-
-Si votre appareil prend en charge la technologie TrueDepth, l’application en utilisera l’appareil photo pour détecter les mouvements de votre visage uniquement lorsque vous utilisez certaines fonctionnalités telles que des produits essayés virtuellement comme des lunettes de soleil. Toutes les informations traitées à l’aide de cette technologie restent sur votre appareil et ne sont pas stockées, traitées ou partagées par Amazon.
-
-[View on Apple](https://apps.apple.com/fr/app/amazon-fr/id358861688)
-
 <a id="polarsteps"></a>
 ## Polarsteps
 
@@ -1600,6 +1462,266 @@ POLARSTEPS DANS LA PRESSE
 
 [View on Apple](https://apps.apple.com/fr/app/polarsteps/id947925763)
 
+<a id="meta-ai"></a>
+## Meta AI
+
+![Meta AI](../../logos/1558240027-a0f18b60.png)
+
+Meta AI est votre assistant IA personnel - connecté au monde, mais ancré dans votre univers. Obtenez des réponses, des recommandations et de l'inspiration réellement utiles.
+
+• Des réponses plus riches : Meta AI s'appuie sur ce que les gens partagent et sur les sujets dont ils parlent sur Instagram, Facebook et Threads.
+
+• Achetez plus intelligemment : Décrivez ce que vous recherchez ou prenez une photo pour trouver de l'inspiration. Meta AI tient compte des Creators que vous suivez et des marques que vous aimez pour vous proposer des recommandations qui reflètent votre style.
+
+• Découvrez des lieux près de chez vous : Demandez des recommandations de restaurants, des idées d'activités ou des endroits à visiter ce week-end. Meta AI s'appuie sur des avis authentiques, des publications et les tendances du moment pour vous fournir des suggestions, avec des notes, photos et détails.
+
+• Obtenez des réponses à partir de n'importe quelle photo, vidéo, document ou fichier : Prenez une photo pour obtenir une aide instantanée. Importez des documents, PDF ou feuilles de calcul pour obtenir des résumés, des comparaisons ou des analyses. Envoyez plusieurs fichiers et Meta AI les traitera ensemble.
+
+• Réfléchissez aux sujets les plus complexes : Qu'il s'agisse d'une grande décision ou d'une question rapide, Meta AI vous aide à y voir plus clair. Activez le mode Réflexion pour raisonner étape par étape sur des questions complexes.
+
+• Discutez en privé : Démarrez une discussion incognito avec Meta AI pour une conversation privée et temporaire que vous seul(e) pouvez voir.
+
+• Exprimez votre créativité : Créez et partagez des vibes, ces vidéos immersives de vous, de vos amis et de tout ce que vous pouvez imaginer.
+
+• Parlez avec Meta AI : Oralement ou par écrit. Les conversations vocales sont plus rapides et naturelles, disponibles dans 13 langues. Obtenez des réponses en temps réel sur ce que vous voyez avec live AI.
+
+• Mode mains libres : Appairez vos lunettes IA pour une assistance personnelle tout au long de votre journée. L'application Meta AI est nécessaire à la gestion de vos lunettes IA, à l'importation et au partage de contenu multimédia et à d'autres fonctionnalités.
+
+Meta AI est conçu avec Muse Spark, le premier d'une nouvelle famille de modèles issus de Meta Superintelligence Labs. Vous pouvez utiliser Meta Al sur WhatsApp, Messenger, Instagram, Facebook, les lunettes IA, l'application Meta AI et meta.ai.
+
+Certaines fonctionnalités de Meta AI ne sont disponibles que dans certains pays et certaines langues. Certaines fonctionnalités pourront être déployées progressivement. Vous souhaitez signaler un problème ou nous faire part de vos commentaires ? Secouez votre téléphone et appuyez sur « Envoyer un signalement ».
+
+[View on Apple](https://apps.apple.com/fr/app/meta-ai/id1558240027)
+
+<a id="vinted-secondhand-marktplatz"></a>
+## Vinted: Secondhand-Marktplatz
+
+![Vinted: Secondhand-Marktplatz](../../logos/632064380-578a8d92.png)
+
+Die Idee ist simpel: Du verkaufst deine aussortierten Sachen an andere Mitglieder, die sie wieder lieben werden. Sie freuen sich aufs Unboxing und über ihren tollen neuen Schatz und du hast wieder mehr Platz zu Hause. Bedeutet also: Guter Style, Gutes tun, gutes Gefühl – für alle! 
+
+Das Verkaufen ist einfach und kostenfrei
+Mach einfach ein paar Fotos von deinem Artikel, beschreibe ihn und leg einen Preis fest. Alles, was du verdienst, gehört dir – zu 100 %!  
+• Verdien dir was dazu, indem du pre-loved Kleidung, Haushaltswaren, Elektronik, Sammlerstücke, Spielzeug und mehr verkaufst. 
+• Schau zu, wie dein Guthaben wächst. Lass dir dein Geld direkt auf dein Bankkonto auszahlen. 
+• Den Versand zahlt der Käufer. Bei einem Verkauf erhältst du einen bereits bezahlten Versandschein – einfach und praktisch. 
+
+Shoppe Wieder-neu-Schätze     
+Freu dich über deine Secondhand-Entdeckungen – von Designer-Teilen bis zu hochwertigen elektronischen Geräten. 
+• Schnell gefunden, lang geliebt. Auf Vinted gibt’s Kategorien für fast alles. Nutze Filter, um schneller zu finden, was du suchst. 
+• Wir sind für dich da. Wenn du auf Vinted kaufst, wirst du von unserem Käuferschutz abgesichert. Gegen eine geringe Gebühr erhältst du eine Rückerstattung, falls dein Artikel verloren gegangen ist, bei der Lieferung beschädigt wurde oder deutlich anders als beschrieben ist. 
+• Wähle einen Versandanbieter und lass dir deine Sendung nach Hause oder an eine Abholstelle liefern.  
+
+Hol dir zusätzliche Sicherheit
+Auf Vinted stehen dir 2 Verifizierungsdienste zur Verfügung. Mit ihnen kannst du auch hochpreisige Artikel mit ruhigem Gewissen kaufen und verkaufen. 
+Die Artikelverifizierung für Designerartikel
+Lass die Authentizität qualifizierter Artikel von unserem Expertenteam prüfen. 
+Die Elektronikverifizierung 
+Lass die Funktionalität, den Zustand und die Authentizität bestimmter technischer Artikel prüfen. 
+Wir schicken den Artikel nur an dich weiter, wenn er erfolgreich verifiziert werden konnte. Andernfalls erhältst du eine Rückerstattung. Die Verifizierung kannst du beim Checkout hinzufügen. 
+
+Dich erwartet eine facettenreiche Community von Secondhand-Fans in Deutschland, Frankreich und Italien. Chatte mit anderen Mitgliedern, erhalte Updates und verwalte deine Bestellungen an einem Ort. 
+
+Mach mit
+TikTok: https://www.tiktok.com/@vinted 
+Instagram: https://www.instagram.com/vinted
+Mehr Infos findest du in unserem Hilfe-Center: https://www.vinted.de/help.
+
+[View on Apple](https://apps.apple.com/fr/app/vinted-shopping-seconde-main/id632064380)
+
+<a id="facebook"></a>
+## Facebook
+
+![Facebook](../../logos/284882215-9c7a82be.png)
+
+Wo echte Menschen deine Neugier wecken. Auf Facebook kannst du mit echten Personen interagieren, wie in keinem anderen Social Network: Verkaufe und kaufe Second-Hand-Ausrüstung, teile Reels mit Menschen auf deiner Wellenlänge oder lache mit anderen über witzige Bilder, denen KI einen unerwarteten Twist gegeben hat.
+
+Entdecke Neues und erweitere deine Interessen: 
+* Fordere die Meta-KI auf, nach interessanten Themen für dich zu suchen, und erhalte sofort interaktive Ergebnisse, die mehr als nur Text zu bieten haben.
+* Suche auf dem Marketplace nach guten Deals und Schätzen für deine Hobbys.
+* Personalisiere deinen Feed, um mehr von dem zu sehen, was dir gefällt.
+* Sieh dir Reels und Videos an – für Unterhaltung oder hilfreiche Anleitungen.
+
+Verbinde dich mit Menschen und Communitys:
+* Tritt Gruppen bei und erhalte nützliche Tipps und Tricks von anderen Nutzer*innen
+* Teile deine Inhalte automatisch auf Instagram und spare Zeit
+* Sende Posts in einer privaten Nachricht an deine BFF, weil nur sie weißt, was du meinst, oder einen Reel-Trend, über den alle reden.
+
+Lass andere an deiner Welt teilhaben:
+* Nutze generative KI, um deine Freund*innen mit individuellen Bildern zu überraschen, oder um dir beim Verfassen von Beiträgen zu helfen.
+* Passe dein Profil an und lege fest, wie du angezeigt wirst und wer deine Beiträge sehen kann.
+* Erstelle aus aktuellen Vorlagen mühelos eigene Reels oder lass deiner Kreativität mit vielfältigen Bearbeitungs-Tools freien Lauf.
+* Zeige spontane Momente in den Stories.
+
+Nutzungsbedingungen & Richtlinien https://www.facebook.com/policies_center
+
+[View on Apple](https://apps.apple.com/fr/app/facebook/id284882215)
+
+<a id="amazon-fr"></a>
+## Amazon FR
+
+![Amazon FR](../../logos/358861688-cb43cca2.png)
+
+Complète
+Recherchez et achetez des produits, obtenez des informations détaillées, lisez des avis et faites votre choix parmi les millions de produits proposés par Amazon.fr ou amazon.com.be et par d'autres vendeurs.
+ 
+Pratique
+Connectez-vous avec votre compte Amazon déjà existant pour accéder à votre panier et à vos options de paiement et de livraison. Pas besoin de créer de nouveau compte pour gérer vos paramètres de commande 1-Click et vos listes d'envie, suivre vos commandes et utiliser vos avantages Premium/ Prime. Faites vos achats aussi facilement que sur Internet.
+ 
+Rapide
+Comparez les prix et vérifiez la disponibilité d'un produit instantanément en scannant un code-barres, en prenant une photo ou en saisissant votre recherche. Les utilisateurs de l’Apple Watch peuvent à présent utiliser la reconnaissance vocale pour rechercher des produits, acheter en 1-Click et ajouter des idées à leur Liste d’envies sur leur montre.
+ 
+Sûre
+Tous les paiements passent par les serveurs sécurisés d'Amazon.
+ 
+Universelle
+Faites vos achats sur Amazon.co.uk, Amazon.de, Amazon.fr, Amazon.com, Amazon.it, Amazon.cn, Amazon.co.jp ou amazon.com.be depuis une même application.
+
+En utilisant cette app, vous acceptez les Conditions générales de vente d’Amazon (www.amazon.fr/conditionsofuse ou www.amazon.com.be/conditionsofuse). Veuillez consulter notre Notice Protection de vos informations personnelles (www.amazon.fr/privacynotice ou www.amazon.com.be/privacynotice), notre Notice Cookies (www.amazon.fr/cookies ou www.amazon.com.be/cookies) et notre Notice Annonces publicitaires basées sur vos centres d’intérêt (www.amazon.fr/interestbasedads ou www.amazon.com.be/interestbasedads).
+
+Si votre appareil prend en charge la technologie TrueDepth, l’application en utilisera l’appareil photo pour détecter les mouvements de votre visage uniquement lorsque vous utilisez certaines fonctionnalités telles que des produits essayés virtuellement comme des lunettes de soleil. Toutes les informations traitées à l’aide de cette technologie restent sur votre appareil et ne sont pas stockées, traitées ou partagées par Amazon.
+
+[View on Apple](https://apps.apple.com/fr/app/amazon-fr/id358861688)
+
+<a id="pinterest"></a>
+## Pinterest
+
+![Pinterest](../../logos/429047995-25d28d5c.png)
+
+Pinterest ist ein Ort endloser Möglichkeiten. Du kannst:
+- Inspiration sammeln
+- Die neuesten Trends shoppen
+- Neue Hobbys ausprobieren
+
+Erstelle Pinnwände, merke dir Pins und kreiere Collagen mit allem, was dich inspiriert. Entdecke zahllose Ideen, von Fashion-Tipps und einfachen Rezepten bis DIY-Projekten und kreativen Ideen, mit denen du deinem Zuhause einen neuen Anstrich verpassen kannst. Gestalte ein Leben, das du liebst? 
+
+It's Possible.
+
+[View on Apple](https://apps.apple.com/fr/app/pinterest-id%C3%A9es-inspiration/id429047995)
+
+<a id="telegram-messenger"></a>
+## Telegram Messenger
+
+![Telegram Messenger](../../logos/686449807-0817888a.png)
+
+Echtes Instant Messaging – einfach, schnell, sicher und mit all deinen Geräten synchronisiert. Eine der Top 5 der am meisten heruntergeladenen Apps der Welt, mit über 1 Milliarde aktiven Nutzern.
+
+SCHNELL: Telegram ist die schnellste Messaging-App auf dem Markt, um Leute über ein weltweit einmalig verteiltes Netzwerk von Rechenzentren zu verbinden.
+
+SYNCHRONISIERT: Du kannst auf alle deine Chatnachrichten und Dateien von verschiedenen Geräten (einschließlich PCs, Tablets und Smartphones) gleichzeitig zugreifen. Die Telegram-Apps sind unabhängig, sodass du dein Handy nicht ständig eingeschaltet lassen musst. Starte deine Nachricht auf einem Gerät und setze sie jederzeit auf einem anderen Gerät fort. Verliere niemals wieder deine Daten.
+
+UNBEGRENZT: Du kannst Chatnachrichten, Bilder, Videos und Dateien jeglicher Art senden. Dein Chatverlauf, inkl. Medien und Dateien, verbraucht keinen Speicherplatz auf deinem Gerät und wird sicher in der Telegram Cloud gespeichert – solange du es möchtest.
+
+SICHER: Unsere Mission ist, ein sicheres, schnelles und globales Kommunikationsmittel zu schaffen. Alles bei Telegram, inklusive Chats, Gruppen, Medien etc. ist verschlüsselt. Wir setzen auf eine Kombination aus 256-Bit symmetrischer AES Verschlüsselung, 2048-Bit RSA Verschlüsselung und dem sicheren Diffie-Hellman Schlüsselaustauschverfahren.
+
+100 % KOSTENLOS & OFFEN: Telegram hat eine vollständig dokumentierte und kostenlose API für Entwickler, Open-Source-Apps und überprüfbare Builds, um zu beweisen, dass die App, die du herunterlädst, aus genau demselben Quellcode erstellt wurde, der veröffentlicht wurde.
+
+LEISTUNGSSTARK: Bei uns kannst du Gruppen mit bis zu 200.000 Mitgliedern erstellen, große Videos und Dateien jeglicher Art (.DOCX, .MP3, .ZIP etc.) mit jeweils bis zu 2 GB teilen und sogar Bots für bestimmte Aufgaben einsetzen. Telegram ist so das perfekte Werkzeug für deine Online-Community und um Teamarbeit zu koordinieren.
+
+ZUVERLÄSSIG: Telegram ist das zuverlässigste Nachrichtensystem, welches je entwickelt wurde, um deine Nachrichten mit möglichst wenig Datenverkehr zu übertragen. Es funktioniert selbst mit der langsamsten mobilen Verbindung.
+
+UNTERHALTSAM: Telegram verfügt über leistungsstarke Foto- und Videobearbeitungswerkzeuge, animierte Sticker und Emoji, vollständig anpassbare Farbthemen, um das Aussehen deiner App zu verändern, und eine offene Sticker-/GIF-Plattform, um all deine ausdrucksstarken Bedürfnisse zu erfüllen.
+
+EINFACH: Obwohl wir eine noch nie dagewesene Vielfalt an Funktionen bieten, achten wir sehr darauf, die Oberfläche schlicht zu halten. Telegram ist so einfach, dass du bereits weißt, wie man es benutzt. 
+
+PRIVAT: Wir nehmen deine Privatsphäre sehr ernst und werden es niemals Dritten erlauben, auf deine Daten zuzugreifen. Du kannst jede Nachricht, die du jemals gesendet oder empfangen hast, für beide Seiten, jederzeit und spurlos löschen. Telegram wird deine Daten niemals nutzen, um dir Werbung zu zeigen.
+
+Für alle, die an maximaler Privatsphäre interessiert sind, gibt es Geheime Chats. Hier zerstören sich Nachrichten, Videos oder Bilder auf Wunsch bei beiden Chatpartnern selbst, sodass es gar keine Spuren mehr von dieser Unterhaltung gibt. Geheime Chats nutzen eine Ende-zu-Ende-Verschlüsselung, um sicherzustellen, dass eine Nachricht nur von dem vorgesehenen Empfänger gelesen werden kann.
+
+Wir setzen neue Standards: Regelmäßige Updates und immer wieder neue interessante Funktionen, die es bei keinem anderen Messenger gibt. Entdecke die Zukunft.
+
+Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+
+[View on Apple](https://apps.apple.com/fr/app/telegram-messenger/id686449807)
+
+<a id="i-le-de-france-mobilite-s"></a>
+## Île-de-France Mobilités
+
+![Île-de-France Mobilités](../../logos/484527651-6cd1659b.png)
+
+Île-de-France Mobilités vous accompagne au quotidien, achetez un titre dématérialisé, rechargez votre passe Navigo, recherchez un itinéraire pour les trains, RER, métros, tramways, bus, cars, vélos, Vélib’, en covoiturage, autopartage, cherchez un horaire en temps réel ou une info trafic... Retrouvez les outils et informations essentielles à l’organisation de vos déplacements en Île-de-France. Ensemble, voyageons en toute simplicité.
+
+Évitez les files d’attente en station : achetez vos titres de transport depuis votre iPhone !
+Il est possible d’acheter les titres suivants :
+
+- Tickets Métro-Train-RER ou Ticket Bus-tram
+- Titres Paris Région Aéroports (ce titre ne peut être acheté lorsqu’un Ticket Métro-Train RER est déjà chargé sur votre support (passe Navigo ou iPhone)
+- Forfaits Navigo jour (ce titre ne permet pas de se rendre aux aéroports), semaine ou mois
+- Titres spéciaux (Forfait antipollution, Forfaits Paris Visite etc.)
+- Titres Vélib’ journaliers
+
+Les titres achetés peuvent ensuite être (en fonction du parcours d’achat choisi) :
+
+- Stockés sur l’iPhone et validé directement en station (à partir de l’iPhone Xr et à partir d'iOS 17.5)
+- Chargés sur votre passe Navigo (à partir d’un iPhone 7, disposant au minimum de la version iOS 13. Les iPhones XR et XS sont compatibles à partir d’iOS 14.5)
+
+Pour les titres compatibles (Tickets Métro-Train-RER ou Ticket Bus-Tram, forfaits Navigo Jour, titres spéciaux) aucun compte n’est nécessaire, et vous pouvez payer directement avec Apple Pay !
+
+Vous pouvez préparer et planifier vos déplacements :
+
+- Retrouver les arrêts de bus, gares et stations de métro proches de vous
+- Rechercher en temps réel vos itinéraires en transports en commun, en covoiturage et vélo
+- Enregistrer vos trajets à venir sur l’agenda de votre téléphone
+- Consulter les prochains passages de vos lignes en temps réel et l’ensemble des fiches horaires
+- Visualiser les plans des réseaux de transport en commun (accessibles même hors connexion)
+- Suivre l’itinéraire piéton pour les tronçons de marche
+
+Soyez le premier informé et anticipez les perturbations :
+
+- Consulter le fil Twitter de vos lignes pour connaitre l’info trafic en temps réel
+- Être alerté en cas de perturbations sur vos lignes et trajets favoris
+- Rester informé sur l’état des ascenseurs dans les stations empruntées
+
+Personnalisez vos déplacements :
+
+- Enregistrer vos destinations (travail, domicile, salle de sport…), stations et gares en favoris
+- Personnaliser votre profil (marcheur rapide, avec difficultés, mobilité réduite…)
+- Sélectionner les lignes ou stations à éviter
+
+Privilégiez des modes de transport doux ou alternatif :
+
+- Réservez vos trajets en covoiturage et/ou en autopartage, en partenariat avec les principaux acteurs
+- Préférez les itinéraires à vélo proposés pour tous vos trajets
+- Louez une voiture ou un utilitaire pour une courte durée en choisissant un véhicule d'autopartage Communauto parmi un large choix de stations autour de vous et réservez-le sans délai pour la durée de votre choix.
+--
+Vous utilisez déjà l'application Île-de-France Mobilités et appréciez ses services ? Faites-le nous savoir avec 5 étoiles !
+Des bugs ou des remarques à nous faire remonter ? Aidez-nous à nous améliorer en nous envoyant vos suggestions depuis le formulaire de contact disponible via l'espace personnel.
+
+[View on Apple](https://apps.apple.com/fr/app/%C3%AEle-de-france-mobilit%C3%A9s/id484527651)
+
+<a id="mondial-relay-suivi-de-colis"></a>
+## Mondial Relay, suivi de colis
+
+![Mondial Relay, suivi de colis](../../logos/1633060599-3edee675.png)
+
+Vous êtes mobile ? Envie de suivre en temps réel tous vos colis ? Rien de plus simple, avec l’application Mondial Relay L'application Mondial Relay est gratuite et vous facilite la vie ! Elle est simple, fiable et sécurisée. Avec elle dans votre poche, le suivi, le retrait et l'envoi de vos colis, c'est facile ! Localisez vos Lockers 24/7 et vos Points Relais® favoris dans un réseau de 18 000 points de proximité.
+
+SUIVEZ EN TEMPS REEL TOUS VOS COLIS 
+Quoi de mieux que d’avoir les informations importantes dans votre poche ? Avec l’application Mondial Relay, suivez tous vos colis : livraisons e-commerce, envois entre particuliers, marketplaces, retours…
+Le détail de chaque étape de livraison est clair, précis et vous permet de savoir exactement où en est votre colis. 
+Vous ne souhaitez plus voir un colis dans votre suivi ? Archivez-le ou supprimez-le depuis l'application.
+
+LOCALISEZ VOS LOCKERS/ POINTS RELAIS®
+Avec + de 11 000 Lockers, Mondial Relay est le Leader en France. Trouvez facilement les Points de proximité autour de vous, de votre domicile ou encore de votre lieu de travail grâce à notre carte interactive. Le dépôt et le retrait de colis chez Mondial Relay c’est où vous voulez, quand vous voulez ! 
+
+RETIREZ RAPIDEMENT VOS COLIS 
+Grâce aux notifications de votre application mobile, soyez informé dès que vos colis sont disponibles. N’oubliez pas de les activer depuis les paramètres de votre compte. 
+Encore plus simple et rapide pour retirer vos colis en Locker ! Muni de l’app Mondial Relay, ouvrez votre casier à distance avec votre smartphone et laissez la magie opérer…Tadam ! La porte s’ouvre et votre colis est prêt à être récupéré. Une fonctionnalité qui donne vraiment le Smiiile ;)
+En alternative à l’ouverture à distance, le QR code et le code de retrait restent toujours opérationnels pour récupérer un colis.
+
+ENVOYEZ DES COLIS A VOS PROCHES
+Envie de faire plaisir à un proche ? Qu’il s’agisse d’un anniversaire ou d’un objet oublié, pas de panique ! Vous pouvez acheter vos étiquettes directement depuis l’onglet "Envoyer" de l’app, à partir de 4,15 € seulement. Et bonne nouvelle : la livraison à domicile est désormais disponible partout en France. Vous pouvez également envoyer un colis sans étiquette, en le déposant simplement dans un Locker grâce à un QR code. Plus besoin d’imprimante, l’envoi de colis n’a jamais été aussi simple !
+
+AJOUTEZ MANUELLEMENT UN COLIS À VOTRE SUIVI 
+Un des colis que vous attendez ne s'affiche pas dans votre application ? Pas de panique, vous pouvez l'ajouter à votre suivi en cliquant sur "+" et en renseignant son numéro de suivi.
+
+SUIVEZ LES COLIS DE VOTRE FAMILLE ET DE VOS AMIS 
+A vous de choisir ! Renseignez jusqu’à 5 adresses emails et/ou jusqu’à 5 numéros de mobile dans votre profil, de manière sécurisée. Cela vous permet de suivre et de retirer des colis supplémentaires : les vôtres et ceux de vos proches. Pour ajouter ou supprimer un email / n° de mobile, tout se fait en un clic !
+
+L'application Mondial Relay est gérée et hébergée par la société MONDIAL RELAY SASU : - Adresse : 1 avenue de l'Horizon, 59650 VILLENEUVE D'ASCQ, France - Capital social : 500 400 Euros - Immatriculation : n°385 218 631 au Registre du Commerce et des Sociétés - de LILLE METROPOLE (FRANCE) - TVA Intracommunautaire : FR 39 385 218 631 - Directeur en charge de l'Application : Mr Quentin BENAULT - Téléphone : 09 69 32 23 32 - Email : app-feedback@mondialrelay.fr - Politique RGPD : https://www.mondialrelay.fr/donnees-personnelles/.
+
+[View on Apple](https://apps.apple.com/fr/app/mondial-relay-suivi-de-colis/id1633060599)
+
 <a id="spotify-musik-und-podcasts"></a>
 ## Spotify Musik und Podcasts
 
@@ -1646,6 +1768,239 @@ Folge uns auf TikTok: https://www.tiktok.com/@spotify
 
 [View on Apple](https://apps.apple.com/fr/app/spotify-musique-et-podcasts/id324684580)
 
+<a id="alltrails-rando-sentiers-carte"></a>
+## AllTrails Rando Sentiers Carte
+
+![AllTrails Rando Sentiers Carte](../../logos/405075943-d2e3ee9d.png)
+
+Que vous préfériez la randonnée, le vélo ou la course à pied, AllTrails est votre  guide du plein air ultime. Consultez des avis détaillés et trouvez l'inspiration parmi notre communauté d'explorateurs comme vous. Nous vous aiderons à planifier, partager et profiter de vos aventures en plein air.
+
+AllTrails est bien plus qu'une simple application de sport. Nous vous permettons de découvrir des itinéraires adaptés aux chiens, aux poussettes ou aux fauteuils roulants et bien plus encore, et de les explorer encore mieux grâce à une navigation suivie.
+
+◆Découvrez des itinéraires : recherchez parmi plus de 500 000 itinéraires dans le monde entier, par lieu, point d'intérêt, niveau de difficulté et plus encore.
+◆ Préparez votre prochaine aventure : obtenez des informations détaillées sur les itinéraires, telles que les avis laissés, l'état des sentiers et les indications GPS, et sauvegardez vos itinéraires favoris pour plus tard.
+◆ Gardez le cap : suivez l'itinéraire prévu ou créez facilement votre propre parcours sur le moment avec votre téléphone ou votre appareil Wear OS. Utilisez Wear OS pour commencer et enregistrer toutes vos activités
+◆ Trouvez des points d'intérêt : découvrez des cascades, des sites historiques, des points de vue et plus encore, tout au long de l'itinéraire.
+◆ Faites grandir votre communauté : célébrez vos aventures en plein air et trouvez l'inspiration en communiquant avec des explorateurs comme vous.
+◆ Partagez vos aventures en plein air : publiez facilement vos itinéraires et activités sur Facebook, Instagram ou WhatsApp.
+◆ Enregistrez vos activités : sauvegardez vos statistiques, laissez des avis et publiez des photos de vos randonnées préférées.
+
+Découvrez des itinéraires qui vous correspondent, que vous soyez fan de fitness, de randonnée, de marche, de VTT, de course ou de cyclisme. Que vous poussiez vos limites ou une poussette, vous trouverez forcément un itinéraire qui correspond à vos besoins. Laissez AllTrails vous guider vers le parcours idéal pour vous.
+
+► Allez plus loin avec AllTrails Plus ►
+Passez moins de temps à chercher où vous voulez être et plus de temps à profiter de là où vous êtes. Avec nos cartes hors ligne, nos notifications de sortie d'itinéraire et d'autres fonctionnalités de sécurité et de planification, votre abonnement annuel vous offre plus d'outils pour plus d'aventures.
+
+◆ Recherchez par distance pour trouver les itinéraires les plus proches de vous.
+◆ Préparez-vous en consultant l'état du terrain, la météo, la qualité de l'air, l'index UV et plus.
+◆ Suivez le changement des conditions sur l'itinéraire selon l'heure de la journée.
+◆ Déconnectez-vous complètement en emportant une carte imprimée avec vous.
+◆ Explorez hors ligne en téléchargeant des cartes d'itinéraires, de parcs et de zones entières.
+◆ Partagez votre activité sur les sentiers en direct avec votre famille et vos amis.
+◆ Ne vous laissez pas surprendre par les montées : visualisez la carte topographique de votre itinéraire en 3D.
+◆ Admirez la vue sans vous soucier de garder un œil sur la carte grâce aux notifications de sortie d'itinéraire.
+◆ Donnez en retour : AllTrails reverse une portion de chaque abonnement à 1% for the Planet.
+◆ Explorez sans publicité : supprimez les publicités occasionnelles en vous abonnant.
+
+► Nouveau ! Explorez pleinement avec AllTrails Peak ►
+
+Profitez encore plus de chaque itinéraire grâce à notre tout nouvel abonnement premium. Créez votre propre tracé, prévoyez la météo et explorez les sentiers populaires, le tout avec les avantages hors ligne de Plus.
+
+◆ Dessinez votre propre itinéraire ou modifiez l'un des 500 000 déjà en ligne.
+◆ Découvrez quelles zones sont fréquentées ou non grâce à notre heatmap de la communauté.
+◆ Accédez également aux fonctionnalités Plus et Base.
+
+Que vous fassiez du géocaching dans un parc national, partiez en aventure VTT ou planifiez une course pour vous changer les idées, AllTrails Plus et Peak rendent les activités de plein air encore plus agréables.
+
+[View on Apple](https://apps.apple.com/fr/app/alltrails-rando-sentiers-carte/id405075943)
+
+<a id="intersport-france"></a>
+## INTERSPORT France
+
+![INTERSPORT France](../../logos/6759600510-09084ce5.png)
+
+Bienvenue sur l’application officielle INTERSPORT France, votre destination n°1 pour l’équipement sportif. Que vous soyez un athlète de haut niveau, un passionné d’aventure en plein air ou un pratiquant occasionnel, notre application a été conçue pour vous accompagner dans chaque mouvement
+Accédez à un catalogue de plus de 30 sports et retrouvez les plus grandes marques mondiales à prix accessible en quelques clics
+
+VIVEZ VOS PASSIONS À 100% : NOS 4 UNIVERS MAJEURS
+
+L'application INTERSPORT met à l'honneur vos disciplines favorites avec une profondeur de gamme inégalée :
+FOOTBALL : Préparez votre saison avec les derniers crampons, maillots officiels et accessoires d'entraînement. Retrouvez les innovations de Nike et Adidas pour dominer le terrain, que vous jouiez en club ou entre amis
+RUNNING : Repoussez vos limites avec une sélection pointue de vêtements et chaussures de course. Profitez de l'amorti révolutionnaire de Hoka, de la stabilité légendaire d'Asics, de la respirabilité des débardeurs Energetics et du dynamisme des modèles les plus récents pour tous types de foulées
+RANDONNÉE & OUTDOOR : Équipez-vous pour l'aventure avec des produits techniques conçus pour durer. De la technicité de The North Face à la fiabilité des chaussures Salomon, en passant par la versatilité des produits McKinley nous vous offrons le meilleur pour explorer les sommets en toute sécurité
+VÉLO : Du VTT au vélo de route en passant par la mobilité urbaine, découvrez nos gammes de cycles, casques et protections. Fiabilité, performance et sécurité vous accompagnent pour vos sorties quotidiennes ou vos défis sportifs avec nos marques NAKAMURA et SUNN
+
+UN LARGE CHOIX ET DES PRIX ENGAGÉS
+
+INTERSPORT, c'est la force d'un réseau coopératif leader alliant marques internationales et marques propres. Affichez votre style lifestyle ou sportif, et profitez de notre positionnement prix unique : 
+Offres promotionnelles régulières et ventes flash sur vos marques préférées
+Prix Engagés pour rendre le sport accessible à tous
+Gamme Premier Prix Performance : la qualité technique au prix le plus bas
+        
+L’EXPÉRIENCE TEAM INTERSPORT : PLUS QU’UN PROGRAMME DE FIDÉLITÉ
+
+Rejoignez la communauté et profitez d'un parcours personnalisé avant, pendant et après vos achats : 
+Votre carte digitale : Accédez directement à votre carte fidélité dans votre application et scannez-la en caisse pour profiter de tous vos avantages
+Cagnotte en temps réel : Suivez le montant de vos points et recevez des alertes exclusives pour utiliser vos remises
+Espace personnel complet : Gérez vos informations, consultez votre historique d'achat et suivez l'avancée de vos commandes en un clin d’œil
+Store Locator : Trouvez le magasin INTERSPORT le plus proche, consultez ses horaires et découvrez les services spécifiques (atelier, location, etc.)
+
+UNE EXPÉRIENCE E-COMMERCE FLUIDE ET CONNECTÉE
+
+Scan Produit en magasin : Vous hésitez sur une taille ou voulez consulter les avis clients ? Scannez le code-barres en rayon pour accéder immédiatement à la fiche produit détaillée et vérifier la disponibilité des stocks
+Wishlist : Enregistrez vos articles favoris pour créer la liste de vos envies
+Parcours d’achat rapide : Une interface optimisée pour une commande sécurisée en quelques secondes
+
+EXPERTISE ET CONSEILS À VOTRE SERVICE
+
+Accédez directement via l'app à nos sections Guides & Conseils : 
+Des guides d'achat experts pour choisir le matériel adapté à votre morphologie et à votre niveau
+Des articles d'inspiration lifestyle et sport pour rester au top des tendances
+Des conseils d'entretien pour prolonger la vie de vos équipements de marque
+
+TOUS LES SERVICES POUR VOUS SIMPLIFIER LA VIE
+
+Commandez l'esprit tranquille grâce à nos engagements : 
+Click & Collect : Retrait gratuit en magasin pour vos articles favoris
+Paiement 100% sécurisé : Plusieurs options de paiement pour une transaction sereine
+Retours étendus : Vous avez jusqu'à 100 jours pour changer d'avis et nous retourner vos produits
+
+[View on Apple](https://apps.apple.com/fr/app/intersport-france/id6759600510)
+
+<a id="tchap"></a>
+## Tchap
+
+![Tchap](../../logos/6736991029-69119e23.png)
+
+Tchap est la messagerie instantanée officielle des agents publics français.
+
+Disponible sur mobile et ordinateur, cette nouvelle application offre une expérience plus fluide, des performances améliorées et de nouvelles fonctionnalités, tout en permettant de rester connecté en toutes circonstances et d’échanger en toute confidentialité.
+
+Fonctionnalités principales :
+• Échanger par messages individuels ou en groupe
+• Passer des appels audio et vidéo (nouveau)
+• Partager des fichiers et des documents
+• Accéder à l'annuaire des agents inscrits
+•  Fil de discussion (nouveau)
+•  Accès aux Espaces (nouveau)
+• Synchronisation sur plusieurs appareils (smartphone, tablette, ordinateur)
+• Invitation de contacts externes (partenaires, prestataires, usagers) dans vos échanges
+
+Tchap offre un environnement de communication fiable et sécurisé, adapté aux usages professionnels des agents publics.
+
+Tchap est réservé aux agents de l’Etat et aux personnes invitées dans une conversation professionnelle avec un agent de l’Etat.
+
+[View on Apple](https://apps.apple.com/fr/app/tchap/id6736991029)
+
+<a id="l-identite-nume-rique-la-poste"></a>
+## L’Identité Numérique La Poste
+
+![L’Identité Numérique La Poste](../../logos/1434857287-b91ab905.png)
+
+L’IDENTITÉ NUMÉRIQUE LA POSTE, C’EST COMME PRÉSENTER VOTRE PIÈCE D’IDENTITÉ AVEC VOTRE SMARTPHONE
+- Prouvez votre identité sur des centaines de services en ligne et libérez-vous de vos multiples comptes et mots de passe à gérer.
+
+- Utilisez FranceConnect avec votre Identité Numérique La Poste et accédez à des démarches en ligne nécessitant la certitude que c’est bien vous et uniquement vous derrière la démarche en cours.  
+- Retirez votre colis en Bureau de Poste en ouvrant simplement votre application Identité Numérique La Poste sur votre smartphone.
+Ce service simple, sécurisé et gratuit vous fait gagner du temps et vous protège au quotidien.
+ 
+COMMENT CRÉER VOTRE IDENTITÉ NUMÉRIQUE LA POSTE ?
+Vous êtes majeur.e, possédez une pièce d'identité française en cours de validité et disposez d'un smartphone compatible ? Téléchargez notre application et suivez les étapes de création OU rendez-vous en bureau de poste pour créer votre Identité Numérique avec un chargé de clientèle.
+ 
+OÙ UTILISER L’IDENTITÉ NUMÉRIQUE LA POSTE ?
+Vous pouvez utiliser votre Identité Numérique La Poste pour accéder à plus de 1400 services publics et privés en ligne via le portail FranceConnect : services publics, fournisseurs d’énergie, banques, mutuelles, services postaux, et bien d’autres.
+ 
+COMMENT UTILISER L’IDENTITÉ NUMÉRIQUE LA POSTE ?
+A chaque fois que vous vous rendez sur un site proposant de vous connecter avec L’Identité Numérique La Poste :
+1 - Cliquez sur le bouton L'Identité Numérique La Poste ;
+2 - Saisissez vos identifiants ;
+3 - Confirmez que c'est bien vous qui vous connectez en validant la demande de connexion sur l'application L'Identité Numérique.
+L'Identité Numérique La Poste repose sur la combinaison unique de votre identifiant, votre application mobile et votre code secret. Cette procédure d'authentification forte permet de garantir vos accès en s'assurant que c'est bien vous qui êtes à l'origine de la demande de connexion. Avec La Poste, L'Identité Numérique c'est plus simple, plus sûre et plus pratique.
+ 
+SOYEZ VIGILANT, NE COMMUNIQUEZ JAMAIS VOTRE CODE SECRET OU N’ACTIVEZ JAMAIS VOTRE IDENTITÉ NUMÉRIQUE SI QUELQU’UN VOUS LE DEMANDE EN FACE À FACE, PAR TÉLÉPHONE OU PAR MAIL.
+- La Poste ne réalise pas de démarchage téléphonique pour inciter à la création d’Identité Numérique ou pour proposer un accompagnement à la création d’une Identité Numérique.
+- La Poste ne vous demandera jamais le code confidentiel de votre Identité Numérique. Ne confiez jamais votre code confidentiel à un inconnu, votre Identité Numérique est personnelle.
+
+[View on Apple](https://apps.apple.com/fr/app/lidentit%C3%A9-num%C3%A9rique-la-poste/id1434857287)
+
+<a id="roole-map-navigation"></a>
+## Roole Map : Navigation
+
+![Roole Map : Navigation](../../logos/1621923838-842fc624.png)
+
+Roole Map est l’application GPS gratuite, sans publicité, pensée pour les conducteurs en France et labellisée Origine France Garantie.
+
+Profitez d’une navigation intuitive et intégrée, compatible CarPlay, pour planifier vos trajets du quotidien ou vos départs en vacances. Trouvez les meilleurs itinéraires, roulez en évitant le trafic et les radars, faites le plein, rechargez, faites une pause et stationnez avec des données locales fiables et mises à jour en temps réel.
+
+Tout ce qu’il vous faut, dans une seule app :
+
+- Itinéraires intelligents selon votre véhicule (thermique, hybride ou électrique)
+- Stations-service les moins chères, bornes de recharge disponibles, aires d'autoroute avec les restaurations disponibles, parkings ouverts 24/7
+- Infos stationnement en voirie : tarifs et règles locales affichés
+
+Pourquoi choisir Roole Map ?
+
+- Navigation fluide : itinéraires alternatifs, trafic et radars sont affichés sur votre mobile ou sur CarPlay dans votre voiture
+- Signalements communautaires : alertes de la communauté des Rooleurs : accidents, zones de contrôle, travaux, dangers ...
+- Économies garanties : prix des péages, du carburant, des recharges et du stationnement affichés et comparés
+- Temps réel : bornes disponibles, pénuries et erreurs signalées par notre communauté de conducteurs
+- Respect de votre vie privée: vos données restent à 100 % sur votre téléphone
+- Des infos locales et fiables, fournies par les meilleurs partenaires en France
+
+Téléchargez l’app et reprenez la route à votre rythme !
+Roole Map est une application de Roole, le premier club automobile en France.
+
+Envie de faire partie de l’aventure Roole Map ? Faites-nous part de vos retours et suggestions par e-mail → contact-map@roole.fr ou sur https://contribuer.roolemap.fr
+
+Mentions légales : https://app.roolemap.fr/mentions-legales
+Charte de confidentialité : https://app.roolemap.fr/charte-de-confidentialite
+Conditions générales d’utilisation : https://app.roolemap.fr/cgu
+Source de données du gouvernement : https://www.prix-carburants.gouv.fr/rubrique/opendata
+
+[View on Apple](https://apps.apple.com/fr/app/roole-map-navigation/id1621923838)
+
+<a id="teststar-gagnez-de-l-argent"></a>
+## teststar: Gagnez de l’Argent
+
+![teststar: Gagnez de l’Argent](../../logos/6749456669-fe74bcd5.png)
+
+Fatigué de faire défiler votre téléphone sans rien gagner ? Vous voulez gagner de l’argent en ligne tout en vous amusant ? Ne cherchez plus ! teststar est l’application de récompenses ultime qui vous paie pour faire ce que vous aimez déjà : tester des produits, répondre à des sondages et partager vos avis.
+Chaque clic vous rapproche de vrais gains en argent. Que vous testiez de nouveaux produits, exploriez des sondages passionnants ou réalisez de petites tâches, vous gagnez de l’argent où que vous soyez !
+
+Pourquoi choisir teststar ?
+
+- Gagnez de l’Argent Réel – Accédez aux meilleurs sondages et tâches et soyez récompensé pour vos tests.
+- Simple, Amusant et Gratifiant – Effectuez des missions faciles et stimulantes et regardez vos gains augmenter.
+- Paiements Rapides et Sécurisés – Retirez vos gains en toute simplicité via PayPal.
+- Pas de Piège, Juste du Cash – Contrairement à d’autres applis, nous offrons de vraies récompenses en argent, sans arnaques. Gagnez facilement et retirez vos gains à tout moment !
+- Fiable et recommandé par nos utilisateurs – Testé, vérifié, approuvé ! Consultez nos avis sur Trustpilot.
+- Des Options Infinies – Large choix avec de nouvelles offres chaque jour.
+
+Comment fonctionne teststar ?
+
+Commencer est simple. Suivez ces trois étapes faciles :
+Inscrivez-vous gratuitement – Découvrez des tâches et sondages passionnants.
+
+
+Choisissez ce qui vous plaît – Chaque mission terminée vous rapporte de l’argent.
+
+Recevez vos gains – Retirez vos gains directement via PayPal, rapidement et en toute sécurité.
+C’est aussi simple que ça ! Commencez à gagner dès aujourd’hui tout en vous amusant !
+
+Avec autant de façons de gagner de l’argent réel, teststar est l’application idéale pour les petits boulots, les étudiants et toute personne cherchant un revenu supplémentaire.
+Gagnez de l'argent réel n’importe où, n’importe quand ! Que vous soyez à la maison, en déplacement ou en pause, transformez votre temps libre en argent avec teststar. Il n’y a pas de limite à vos gains – c’est vous qui décidez de l’effort à fournir ! Pas de tâches compliquées, pas de faux points – juste de l’argent réel !
+
+Rejoignez des millions d’utilisateurs satisfaits qui ont déjà gagné avec teststar !
+
+Des gains sûrs et sécurisés
+
+Votre sécurité est notre priorité. teststar est 100 % sûr, fiable et approuvé par des millions d’utilisateurs. Nous garantissons des récompenses justes pour votre temps, et nos paiements rapides via PayPal vous assurent de ne jamais attendre longtemps pour recevoir votre argent.
+Pas d’arnaques. Pas de fausses promesses. Juste de vraies récompenses.
+Prêt à transformer votre temps libre en argent réel ? Téléchargez teststar maintenant et commencez à gagner de l’argent en faisant ce que vous aimez – tester, réaliser des tâches et partager vos avis !
+
+Si vous avez besoin d’aide, notre support en ligne est disponible 24h/24 et 7j/7.
+
+[View on Apple](https://apps.apple.com/fr/app/teststar-gagnez-de-largent/id6749456669)
+
 <a id="weplay-partyspiel-chat"></a>
 ## WePlay - Partyspiel & Chat
 
@@ -1676,6 +2031,220 @@ Automatische Verlängerung – Nutzungsvereinbarung: https://weplayapp.com/docs/
 Terms of Use (EULA)：https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 
 [View on Apple](https://apps.apple.com/fr/app/weplay-jeu-chat/id1580330718)
+
+<a id="getyourguide-planen-buchen"></a>
+## GetYourGuide: Planen & buchen
+
+![GetYourGuide: Planen & buchen](../../logos/705079381-618f36f2.png)
+
+Entdecke die Welt mit GetYourGuide!
+
+Mit der GetYourGuide-App kannst du ganz einfach Tickets für unzählige Aktivitäten und Erlebnisse auf deinen Reisen buchen. Ob du auf der Suche nach einer aufregenden Tagestour, einem unvergesslichen Reiseerlebnis oder einer faszinierenden Stadtführung bist, hier findest du eine Vielzahl von Optionen, um das Beste aus deinem Urlaub herauszuholen.
+
+Egal, ob für die Urlaubsplanung oder für die spontane Suche nach Last-Minute-Erlebnissen an einem beliebigen Reiseziel – mit uns ist das Buchen von Touren, Tagesausflügen und Aktivitäten so einfach wie nie.
+
+Mach mehr aus deiner Reise mit exklusivem Zugang zu den besten Attraktionen und Museen der Welt, entdecke die Highlights und die versteckten Geheimtipps und bleib stets auf dem Laufenden über Last-Minute-Angebote mit der App – wir machen Reiseplanung einfach.
+
+Deine Vorteile mit der GetYourGuide-App
+
+Jetzt reservieren, später zahlen: Sichere dir deinen Platz für beliebte Erlebnisse frühzeitig und bezahle erst später.
+
+Sofortige Buchungsbestätigung: Egal, ob du deine Tour schon lange im Voraus oder last minute buchst, du erhältst deine Tickets und Buchungsbestätigung sofort.
+
+Offline-Tickets: Greife über die App ganz bequem offline auf deine Tickets zu.
+
+24/7 Kundenservice: Du erreichst uns rund um die Uhr kostenlos per E-Mail, Telefon oder WhatsApp
+
+Tickets sicher und bequem im Voraus buchen
+
+Planst du eine Reise und möchtest die wichtigsten Sehenswürdigkeiten besuchen? Mit GetYourGuide kannst du bequem im Voraus Touren und Tickets für berühmte Wahrzeichen wie den beeindruckenden Mailänder Dom, faszinierende Museen und andere Attraktionen buchen. Spare dir das Anstehen in der Warteschlange und genieße einen stressfreien Besuch, indem du deine Tickets einfach auf deinem Smartphone vorzeigst.
+
+Entdecke über 75.000 Erlebnisse
+
+Mit der GetYourGuide-App hast du Zugriff auf eine beeindruckende Auswahl von über 75.000 Erlebnissen, Tickets und Aktivitäten weltweit. Egal, ob du Abenteuer suchst, kulturelle Sehenswürdigkeiten erkunden möchtest oder kulinarische Entdeckungen machen willst – bei uns wirst du fündig. Stöbere durch unsere umfangreiche Sammlung von Tagestouren, Stadtführungen, Museumsbesuchen und vielem mehr und finde das perfekte Erlebnis für deine Reise.
+
+Bleibe flexibel
+
+Mit GetYourGuide bleibst du flexibel und kannst deine Reisepläne mühelos anpassen. Unsere App bietet dir eine einfache Möglichkeit, nach Aktivitäten und Tickets an deinem Reiseziel zu suchen und sie nach deinen individuellen Vorlieben zu filtern. Du kannst spontan entscheiden, ob du lieber eine Stadtführung machen möchtest, an einer Outdoor-Aktivität teilnehmen willst oder Lust auf ein Museum hast. Wähle aus verschiedenen Terminen und Optionen, um sicherzustellen, dass deine Erlebnisse nahtlos in deine Reiseroute passen.
+
+Sichere Buchung
+
+Mit GetYourGuide kannst du deine Aktivitäten sicher und bequem buchen. Unsere App sorgt für ein schnelles und unkompliziertes Buchungserlebnis. Durchstöbere Bewertungen und Erfahrungen anderer Reisender, um dir ein Bild von den Aktivitäten zu machen. Sobald du dich entschieden hast, kannst du deine Tickets direkt über die App buchen und erhältst eine sofortige Buchungsbestätigung. Vermeide das lästige Anstehen an den Attraktionen, indem du deine Tickets einfach auf deinem Smartphone vorzeigst.
+
+Lade jetzt die GetYourGuide-App herunter und entdecke die Welt der unvergesslichen Erlebnisse und Aktivitäten. Egal, ob du alleine reist, mit deinem Partner oder mit Freunden – bei uns findest du das perfekte Abenteuer, um deine Reise unvergesslich zu machen. Erkunde neue Orte, lerne interessante Fakten und schaffe unvergessliche Erinnerungen – alles mit nur wenigen Klicks auf deinem Smartphone.
+
+Starte jetzt dein Abenteuer mit GetYourGuide!
+
+[View on Apple](https://apps.apple.com/fr/app/getyourguide-tours-billets/id705079381)
+
+<a id="google-chrome"></a>
+## Google Chrome
+
+![Google Chrome](../../logos/535886823-e8d3b1b6.png)
+
+Chrome ist der schnelle, sichere Browser von Google und bietet dir unzählige Möglichkeiten im Web. Lade ihn noch heute herunter und überzeuge dich selbst.
+
+DAS BESTE VON GOOGLE IN CHROME
+
+• GOOGLE SUCHE: Du findest in Sekundenschnelle Antworten auf alle deine Fragen – wenn du möchtest, auch per Sprachbefehl.
+• GOOGLE LENS: Du kannst nach allem suchen, was du auf dem Display oder durch die Kamera siehst.
+• GOOGLE ÜBERSETZER: Unser Dienst unterstützt mehr als 130 Sprachen. Ein Klick genügt – du kannst sogar ganze Websites übersetzen lassen.
+
+ERSTKLASSIGE SICHERHEITSFUNKTIONEN
+
+• MODUS „ERWEITERTER SCHUTZ“: Dieser Chrome-Modus sorgt für höchstmöglichen Schutz, wenn du im Web unterwegs bist.
+• SICHERHEITSCHECK: Wir informieren dich mit proaktiven Sicherheitswarnungen rechtzeitig über Sicherheitsprobleme, damit du dich auf das Wesentliche konzentrieren kannst.
+• GOOGLE PASSWORTMANAGER: Mit diesem Dienst kannst du Passwörter erstellen und speichern, damit du dich immer und überall schnell anmelden kannst. Außerdem warnt er dich, wenn deine Passwörter doch einmal in Gefahr sein sollten.
+
+VERFÜGBAR AUF ALLEN DEINEN GERÄTEN
+
+• GERÄTEÜBERGREIFENDE SYNCHRONISIERUNG: Wichtige Dinge wie Lesezeichen, Tabs und Passwörter lassen sich speichern und sind dann sofort verfügbar, wenn du dich auf deinem Smartphone, Computer oder Tablet in Chrome anmeldest.
+• TABGRUPPEN: Dank Tabgruppen behältst du beim Surfen immer den Überblick, auch wenn du mehrere Geräte nutzt.
+• AUTOFILL: Du kannst Zahlungsinformationen, Adressen und Passwörter speichern und automatisch in Onlineformulare eintragen lassen. Das spart jede Menge Zeit.
+
+Funktionsverfügbarkeit kann je nach Land und Sprache variieren. Kompatibilität variiert. Antworten sollten auf ihre Richtigkeit geprüft werden.
+
+[View on Apple](https://apps.apple.com/fr/app/google-chrome/id535886823)
+
+<a id="uber-eats-essen-lieferdienst"></a>
+## Uber Eats: Essen, Lieferdienst
+
+![Uber Eats: Essen, Lieferdienst](../../logos/1058959277-eb6734d7.png)
+
+Lass dir mit der Uber Eats App Essen von tausenden fantastischen lokalen und internationalen Restaurants direkt an die Haustür liefern. Finde das Essen, das du suchst und bestelle es ganz einfach und schnell online. Verfolge deine Bestellung in Echtzeit und genieße den besten Lieferservice.
+
+FINDE DEIN LIEBLINGSESSEN & RESTAURANTS
+Bestelle Essen von Restaurants in deiner Nähe und suche nach Gerichten wie Pizza, Burritos, Burger, Sushi, Bowls, Donuts, Döner, Lasagne, Tapas, Waffeln und mehr. Ob asiatisch, indisch, japanisch, koreanisch, halal, vegan oder chinesisch - Uber Eats hat und liefert dir alles. Abholung bevorzugt? Überspringe einfach die Schlange. Du kennst nur Lieferando, Just Eat, Deliveroo, Wolt, Bolt Food oder Glovo? Dann probiere doch jetzt Uber Eats und lass dir dein Lieblingsessen liefern.
+
+UBER ONE ABONNIEREN
+Für nur 4,99 € im Monat erhältst du als Uber One-Abonnent 0€ Liefergebühren für berechtigte Bestellungen. Verdiene 5% Uber Cash für berechtigte Uber Fahrten. Profitiere von Prämien, Rabatten, Gutscheinen und Angeboten. Die vollständigen Uber One Geschäftsbedingungen findest du in der Uber Eats und Uber App.
+
+BESTELLE FAST ALLES, WANN IMMER DU WILLST
+Bestelle Artikel und Lebensmittel von Supermärkten, Tierhandlungen, deinem Lieblings-Restaurant und mehr. Ob Babynahrung, Windeln, Schönheitsprodukte, Kosmetik, Brot, Milch, Bananen, Obst, Blumen oder Tiefkühlkost - wir lassen alles liefern. Auch alkoholische Getränke wie Bier, Wein und Spirituosen sind erhältlich*. Bezahle sicher und einfach mit Klarna, Paypal, Debit- oder Kreditkarte.
+
+EINFACH BESTELLEN, EINFACH GELIEFERT
+Wähle dein Essen aus einer beliebigen Speisekarte und füge es mit wenigen Klicks deinem Warenkorb hinzu. Uber Eats macht es einfach, Essen online zu bestellen und geliefert zu bekommen. Plane deine Bestellung im Voraus oder bestelle sofort - du hast die Wahl! Einfach mit Klarna, Paypal, Debit- oder Kreditkarte bezahlen und mit der Uber Eats App alle deine Bestellungen bequem online nachverfolgen.
+
+ECHTZEIT-BESTELLVERFOLGUNG
+Verfolge deine Essenslieferung in Echtzeit auf einer Karte. Lass dich benachrichtigen, wenn deine Bestellung eintrifft. Nutze den Tracker in der Uber Eats App, um deine Bestellung live zu verfolgen und sei immer auf dem Laufenden.
+
+FINDE DEINE LIEBLINGSRESTAURANTS
+Egal ob du Pizza, Döner, Fast Food oder vegetarisches Essen bestellen möchtest, Uber Eats ist dein Lieferservice für alles. Genieße auch die leckeren Gerichte von L’Osteria, Burgermeister, Five Guys und vielen anderen Restaurants. Wähle aus verschiedenen Gerichten für Frühstück, Mittagessen oder Abendessen. Bestelle Sushi, Bowls, Bubble Tea, vegan oder einen Loco Chicken Burger. Einige unserer Lieferpartner sind McDonald's, Burger King, Dominos, KFC, Subway, Starbucks, Pizza Hut und viele mehr.
+
+RESTAURANTS, LEBENSMITTELGESCHÄFTE UND MEHR FINDEN
+Bestelle bei Lebensmittelgeschäften wie Flink oder anderen Kiosken. Andere Lieferpartner sind Pets Deli und lokale Supermärkte. Lass dir deine Einkäufe bequem nach Hause liefern. Finde alle deine Lieblingsprodukte und bestelle sie ganz einfach online. Von japanischem Sushi über koreanisches BBQ bis hin zu traditionellen deutschen Gerichten - bei Uber Eats findest du alles.
+
+IN DEINER STADT VERFÜGBAR
+Schließe dich den Tausenden von Menschen in Deutschland (DE) an, die Uber Eats nutzen, um in ihren Lieblingsrestaurants zu bestellen. Uber Eats ist in Städten wie Berlin, Frankfurt am Main, München, Köln, Düsseldorf, Essen, Hamburg, Stuttgart, Bremen, Leipzig, Hannover, Dresden und vielen mehr verfügbar. Finde Essenslieferungen in deiner Stadt mit Uber Eats. Bestelle Essen online und nutze die App, um den Lieferstatus in Echtzeit zu verfolgen. Genieße die Vielfalt der internationalen Küche, von italienischer Pizza über chinesisches Dim Sum bis hin zum klassichen Hamburger und arabischen Mezze.
+
+*Alkohol in ausgewählten Märkten. Mindestalter: 18 Jahre. Verfügbarkeit variiert je nach Markt. Siehe App für Details.
+
+[View on Apple](https://apps.apple.com/fr/app/uber-eats-repas-et-courses/id1058959277)
+
+<a id="mon-e-leclerc"></a>
+## Mon E.Leclerc
+
+![Mon E.Leclerc](../../logos/756693888-36f97372.png)
+
+Découvrez l'application Mon E.Leclerc, votre assistant personnel de courses. Planifiez vos courses depuis votre smartphone : 
+ 
+VOS TICKETS DE CAISSE TOUJOURS AVEC VOUS.
+Gardez une vue d'ensemble sur vos dépenses en retrouvant tous vos tickets de caisse dans votre application Mon E.Leclerc. Consultez l’historique de vos achats et générez une facture directement depuis votre application Mon E.Leclerc.
+
+
+
+VOS RÉDUCTIONS À PORTÉE DE MAIN
+Avec l’application Mon E.Leclerc, profitez d’encore plus d’avantages et de réductions personnalisées. Activez vos bons de réduction et ajoutez-les directement sur votre carte E.Leclerc pour faire le plein d’économies !
+
+
+
+VOTRE CARTE E.LECLERC DANS VOTRE MOBILE
+Créez ou ajoutez votre Carte E.Leclerc pour bénéficier de tous ses avantages. Ajoutez-y vos bons de réduction et suivez votre cagnotte directement depuis votre application. 
+ 
+VOS CATALOGUES DANS VOTRE POCHE
+Désormais, vos promotions sont dans votre poche. Soyez informés en avant-première de nos offres et bons plans et ajoutez-les en un clic à votre mémo courses. Lors de votre passage en caisse, présentez votre carte E.Leclerc depuis votre application et le tour est joué !
+
+
+VOTRE LISTE DE COURSES
+Gagnez du temps pendant vos courses : parcourez vos catalogues, vos réductions et préparez votre mémo courses à l’avance sur votre application Mon E.Leclerc. Ajoutez-y vos promotions pour ne rien rater.
+ 
+ACTUALITÉS DE VOTRE MAGASIN
+Consultez les informations liées à votre magasin (actualités, promotions, horaires d'ouvertures exceptionnelles, prix du carburant…) en temps réel !
+
+
+
+ET AUSSI… Profitez de jeux exclusifs pour cumuler toujours plus d’avantages !
+
+
+
+Téléchargez dès maintenant l’application Mon E.Leclerc et bénéficiez de tous ces avantages pour faire le plein d’économies !
+
+Accessibilité : partiellement conforme
+https://media.e.leclerc/LEN/document/D%C3%A9claration%20d%E2%80%99accessibilit%C3%A9_MON_LECLERC?vh=34ca8d&func=proxy
+
+[View on Apple](https://apps.apple.com/fr/app/mon-e-leclerc/id756693888)
+
+<a id="x-anciennement-twitter"></a>
+## X (anciennement Twitter)
+
+![X (anciennement Twitter)](../../logos/333903271-2faefdd6.png)
+
+Bienvenue sur X, anciennement connu sous le nom de Twitter, votre place publique numérique de confiance où les conversations se déroulent en temps réel et où le monde se connecte via les actualités de dernière minute, les événements en direct, les podcasts et tout ce qui se passe entre les deux.
+
+Que vous soyez passionné par le sport, la technologie, la musique ou la politique, X vous offre une place au premier rang pour ce qui se passe dans le monde entier.
+
+X n’est pas seulement une autre application de réseaux sociaux, c’est la destination ultime pour rester bien informé, partager des idées et construire des communautés. Avec X, vous êtes toujours au courant des sujets tendance pertinents et des actualités de dernière minute, livrés instantanément sur votre écran, bruts et non filtrés.
+
+Ce que vous pouvez faire sur X :
+• Suivez les actualités de dernière minute du monde entier avant qu’elles ne fassent les gros titres, et restez en avance avec des mises à jour en temps réel sur les sujets tendance et les conversations virales.
+
+• Publiez vos pensées, photos et vidéos avec une communauté mondiale. Rejoignez des millions d’utilisateurs pour façonner le dialogue public à travers des conversations sociales, culturelles et politiques.
+
+• Découvrez Grok, l’assistant IA alimenté par les données en temps réel de X. Vous pouvez demander à Grok de résumer les actualités tendance, d’expliquer des vidéos ou de fournir plus de contexte sur les publications.
+
+• Diffusez des vidéos en direct ou passez en live avec Spaces, notre fonctionnalité audio qui vous permet d’animer des discussions, de mener des interviews ou de lancer votre prochain podcast en direct. Que vous diffusiez un concert, un match en direct ou vos réflexions sur un sujet brûlant, X garde votre public engagé.
+
+• Regardez des vidéos : des actualités de dernière minute en direct et des extraits sportifs aux podcasts et sessions de jeu pouvant durer jusqu’à 3 heures. De nombreuses voix leaders mondiales en comédie, jeux, podcasts et politique partagent leur contenu sur X.
+
+• Connectez-vous et discutez en privé avec des amis, des abonnés, des clients ou des collaborateurs via les Messages Directs.
+
+• Rejoignez et construisez des communautés adaptées à vos intérêts : des actualités sportives aux jeux, divertissement, crypto, entrepreneuriat, technologie et plus encore.
+
+• Abonnez-vous à X Premium pour débloquer des fonctionnalités exclusives comme la coche bleue, une visibilité accrue, des réponses priorisées, moins de publicités, des vidéos plus longues et l’édition de publications. X Premium vous donne également accès au partage de revenus pour les créateurs et à la possibilité d’offrir du contenu exclusif aux abonnés.
+
+Pourquoi X ?
+Dans un monde en constante évolution, X est votre source en temps réel pour rester en avance, vous connecter avec les gens et explorer des perspectives diverses. Des actualités de dernière minute en direct et des mèmes tendance aux meilleurs podcasts et streams en direct de vos créateurs préférés, X réunit tout dans une expérience sociale puissante.
+
+Politique de Confidentialité : https://x.com/fr/privacy
+Conditions Générales : https://x.com/fr/tos
+
+[View on Apple](https://apps.apple.com/fr/app/x-anciennement-twitter/id333903271)
+
+<a id="planity"></a>
+## Planity
+
+![Planity](../../logos/1434056190-bcc21813.png)
+
+Planity, c’est l’application qui simplifie votre quotidien et qui révolutionne vos prises de rendez-vous beauté en ligne.
+Alors que nos modes de vie sont de plus en plus intenses, prendre soin de soi est devenu un besoin essentiel.
+Gagnez du temps en prenant rendez-vous dans l’un de nos établissements beauté partenaire, en quelques clics et 7j/7.
+
+Rapide, immédiat et 24h/24.
+
+Vous n’avez pas eu le temps de faire votre manucure ou votre brushing ? Vous souhaitez vous faire plaisir avec un soin du visage ? Ou vous avez besoin d’un rafraîchissement et vous cherchez le meilleur barbier à proximité ?
+Nous avons pris le soin de sélectionner les meilleurs professionnels de la beauté, partout en France.
+
+• 15 millions d’utilisateurs actifs,
+• 60 000 établissements de beauté référencés partout en France, Belgique et Allemagne
+• Une fiche détaillée incluant les prestations, les tarifs, les disponibilités et les photos de vos établissements préférés,
+• Des sms de rappel pour éviter l’oubli de vos rendez-vous,
+• Un espace personnel pour gérer, déplacer ou annuler vos rendez-vous en quelques clics.
+
+« L’Application beauté MUST-HAVE » selon ELLE magazine.
+Déjà plus de 400 millions de rendez-vous pris.
+Laissez Planity prendre soin de vous.
+
+[View on Apple](https://apps.apple.com/fr/app/planity/id1434056190)
 
 <a id="hinge-dating-app-date-meet"></a>
 ## Hinge Dating App: Date & Meet
@@ -1741,6 +2310,34 @@ Alle Fotos sind von Modellen und dienen nur zur Veranschaulichung.
 
 [View on Apple](https://apps.apple.com/fr/app/hinge-rencontre-date-tchat/id595287172)
 
+<a id="instagram"></a>
+## Instagram
+
+![Instagram](../../logos/389801252-8abbb146.png)
+
+Aus kleinen Momenten werden große Freundschaften. Teile deine auf Instagram.
+– Von Meta
+
+Bleib mit deinen Freund*innen in Kontakt, finde andere Fans und finde heraus, was die Menschen in deinem Umfeld so treiben. Erkunde deine Interessen und poste, was gerade bei dir los ist – ob Alltagsmomente oder besondere Highlights in deinem Leben.
+
+Teile, was dich gerade bewegt.
+- Halte deine Freund*innen mit Stories und Notizen, die für 24 Stunden sichtbar sind, auf dem Laufenden.
+- Starte Gruppenchats und teile spontane Momente mit deinen engen Freund*innen.
+- Teile Erinnerungen von aktuellen Veranstaltungen oder Reisen im Feed.
+- Verwandle dein Leben in einen Film und entdecke mit Reels auf Instagram unterhaltsame Kurzvideos.
+- Personalisiere deine Beiträge mit exklusiven Vorlagen, Musik, Stickern und Filtern.
+
+Erkunde Themen, die dich interessieren.
+- Sieh dir Videos deiner Lieblings-Creator*innen an und entdecke neue Inhalte, die auf deine Interessen zugeschnitten sind.
+- Lass dich im „Explore“-Tab von den Fotos und Videos neuer Konten inspirieren.
+- Entdecke Marken und Kleinunternehmen und shoppe Produkte, die deinen Stil unterstreichen.
+
+Manche Instagram-Features sind in deinem Land oder deiner Region möglicherweise nicht verfügbar.
+
+Nutzungsbedingungen und Richtlinien: https://help.instagram.com/581066165581870
+
+[View on Apple](https://apps.apple.com/fr/app/instagram/id389801252)
+
 <a id="netflix"></a>
 ## Netflix
 
@@ -1776,187 +2373,213 @@ E-Mail: iosappstore@netflix.com
 
 [View on Apple](https://apps.apple.com/fr/app/netflix/id363590051)
 
-<a id="x"></a>
-## X
+<a id="indeed-jobs"></a>
+## Indeed Jobs
 
-![X](../../logos/333903271-2faefdd6.png)
+![Indeed Jobs](../../logos/309735670-7328d118.png)
 
-Willkommen bei X, früher bekannt als Twitter, Ihrem vertrauenswürdigen digitalen Marktplatz wo Gespräche in Echtzeit ablaufen und die Welt sich über Eilmeldungen, Live-Events, Podcasts und alles dazwischen verbindet.
+Finden Sie passende Jobs mit der kostenlosen Indeed-App – überall und jederzeit.
 
-Ob Sie leidenschaftlich an Sport, Technik, Musik oder Politik interessiert sind, X bietet Ihnen einen Platz in der ersten Reihe für das, was weltweit passiert.
+Ihre App für die Jobsuche: Mit 12 neuen Stellenanzeigen pro Sekunde und intelligenten Suchfiltern für passende Stellen finden Sie Ihren nächsten Job im Handumdrehen.
 
-X ist nicht nur eine weitere Social-Media-App, sondern das ultimative Ziel, um gut informiert zu bleiben, Ideen zu teilen und Communities aufzubauen. 
+Ob Sie nur gelegentlich oder sehr dringend suchen, auf Indeed finden Sie alle passenden Stellen an einem einzigen Ort. Dank unserer erweiterten Funktionen können Sie Jobs nach Ihren Vorstellungen finden und sich unkompliziert über jedes Ihrer Geräte bewerben. 
 
-Mit X sind Sie immer auf dem Laufenden mit relevanten Trending-Themen und Eilmeldungen, die sofort auf Ihrem Bildschirm erscheinen, roh und ungefiltert.
+• Finden Sie passende Jobs in unserer umfassenden Datenbank, darunter auch Stellenanzeigen von anderen Online-Jobseiten, und erhalten Sie Job-Vorschläge basierend auf Ihren Präferenzen und Ihrer Berufserfahrung.
 
-Was Sie auf X tun können:
-• Verfolgen Sie Eilmeldungen aus der ganzen Welt, bevor sie in die Schlagzeilen kommen, und bleiben Sie voraus mit Echtzeit-Updates zu Trending-Themen und viralen Gesprächen.
-• Teilen Sie Ihre Gedanken, Fotos und Videos mit einer globalen Community. Schließen Sie sich Millionen von Nutzern an, um den öffentlichen Diskurs in sozialen, kulturellen und politischen Gesprächen zu gestalten.
-• Entdecken Sie Grok, den KI-Assistenten, der von den Echtzeit-Daten von X angetrieben wird. Sie können Grok bitten, Trending-News zusammenzufassen, Videos zu erklären oder mehr Kontext zu Beiträgen zu geben.
-• Streamen Sie Live-Videos oder gehen Sie live mit Spaces, unserem Audio-Feature, das es Ihnen ermöglicht, Diskussionen zu moderieren, Interviews zu führen oder Ihren nächsten Live-Podcast zu starten. Ob Sie ein Konzert, ein Live-Spiel oder Ihre Gedanken zu einem heißen Thema streamen, X hält Ihr Publikum bei der Stange.
-• Schauen Sie Videos: von Live-Eilmeldungen und Sport-Clips bis hin zu Podcasts und Gaming-Sessions, die bis zu 3 Stunden lang sein können. Viele der führenden Stimmen der Welt in Komödie, Gaming, Podcasting und Politik teilen ihren Content auf X.
-• Verbinden Sie sich und chatten Sie privat mit Freunden, Followern, Kunden oder Kollaborateuren über Direktnachrichten.
-• Treten Sie Communities bei und bauen Sie sie auf, die auf Ihre Interessen zugeschnitten sind: von Sport-News, Gaming, Entertainment, Krypto, Unternehmertum, Tech und mehr.
-• Abonnieren Sie X Premium, um exklusive Features freizuschalten wie das blaue Häkchen, erhöhte Sichtbarkeit, priorisierte Antworten, weniger Werbung, längere Videos und die Bearbeitung von Beiträgen. X Premium gibt Ihnen auch Zugang zum Revenue-Sharing für Creator und die Möglichkeit, exklusiven Content für Abonnenten anzubieten.
+• Laden Sie Ihren Lebenslauf hoch, oder erstellen Sie einen auf Indeed, um sich von Ihrer besten Seite zu zeigen und von Arbeitgebern gefunden zu werden.
 
-Warum X?
-In einer Welt des ständigen Wandels ist X Ihre Echtzeit-Quelle, um voraus zu sein, mit Menschen in Kontakt zu treten und vielfältige Perspektiven zu erkunden. Von Live-Eilmeldungen und Trending-Memes bis hin zu Top-Podcasts und Live-Streams Ihrer Lieblings-Creator bringt X alles in einer leistungsstarken Social-Erfahrung zusammen.
+• Legen Sie einen Indeed Lebenslauf an, um ihn bei jeder Bewerbung sofort parat zu haben.
 
-Datenschutzrichtlinie: https://x.com/de/privacy
-Nutzungsbedingungen: https://x.com/de/tos
+• Lassen Sie sich benachrichtigen, wenn Arbeitgeber Ihre Bewerbung auf Indeed gelesen und beantwortet haben.
 
-[View on Apple](https://apps.apple.com/fr/app/x-anciennement-twitter/id333903271)
+• Erfahren Sie in über 700 Millionen Unternehmensratings und -bewertungen, was Mitarbeiter*innen über ihre Arbeitgeber denken. 
 
-<a id="teststar-gagnez-de-l-argent"></a>
-## teststar: Gagnez de l’Argent
+• Erhalten Sie noch vor der Bewerbung Einblick in das Gehalt – dank 1,1 Mrd. nach Jobtitel, Unternehmen und Arbeitsort durchsuchbaren Gehaltsangaben.
 
-![teststar: Gagnez de l’Argent](../../logos/6749456669-fe74bcd5.png)
+• Finden Sie flexible Jobs mit unseren intelligenten Suchfiltern für Remote- und Homeoffice-Jobs, Nebenjobs, freie Mitarbeit, Beamten-Jobs, Teilzeit-Jobs und weitere Kriterien.
 
-Fatigué de faire défiler votre téléphone sans rien gagner ? Vous voulez gagner de l’argent en ligne tout en vous amusant ? Ne cherchez plus ! teststar est l’application de récompenses ultime qui vous paie pour faire ce que vous aimez déjà : tester des produits, répondre à des sondages et partager vos avis.
-Chaque clic vous rapproche de vrais gains en argent. Que vous testiez de nouveaux produits, exploriez des sondages passionnants ou réalisez de petites tâches, vous gagnez de l’argent où que vous soyez !
+Mit unserer Jobsuche-App können Sie sich von der Bewerbung bis zum Vorstellungsgespräch von Ihrer besten Seite zeigen, egal in welcher Phase Ihrer Karriere Sie sich befinden. Wir stehen Ihnen dabei zur Seite.
 
-Pourquoi choisir teststar ?
+Mit dem Download dieser App stimmen Sie den Richtlinien zur Verwendung von Cookies, der Datenschutzerklärung und den Nutzungsbedingungen von Indeed zu, die Sie unter www.indeed.com/legal abrufen können. Sie können jederzeit von Ihrem Recht Gebrauch machen, der rechtmäßigen Nutzung Ihrer personenbezogenen Daten zu Marketingzwecken zu widersprechen. Außerdem stimmen Sie mit dem Download dieser App zu, dass Indeed alle Ihre Aktivitäten in der App sowie alle Interaktionen und Kontakte, die Sie mit, in oder über diese App pflegen, verarbeiten, analysieren und erfassen darf. Wir tun dies, um das Nutzererlebnis zu optimieren und die gewünschte Funktionsweise der App herzustellen. Damit wir Ihnen bestimmte Dienste zur Verfügung stellen und die Anzeigenzuordnung unterstützen können, werden Nutzerdaten wie die IP-Adresse oder andere eindeutige Kennzeichner sowie Ereignisdaten, die im Zusammenhang mit der Installation der Indeed-App stehen, beim Download oder der Installation der App möglicherweise an unsere Dienstleister weitergegeben.
+Dies wird aufgrund des berechtigten Interesses von Indeed so gehandhabt, damit wir sämtliche Vorgänge auf Kundenseite nachvollziehen und optimieren können, indem wir
 
-- Gagnez de l’Argent Réel – Accédez aux meilleurs sondages et tâches et soyez récompensé pour vos tests.
-- Simple, Amusant et Gratifiant – Effectuez des missions faciles et stimulantes et regardez vos gains augmenter.
-- Paiements Rapides et Sécurisés – Retirez vos gains en toute simplicité via PayPal.
-- Pas de Piège, Juste du Cash – Contrairement à d’autres applis, nous offrons de vraies récompenses en argent, sans arnaques. Gagnez facilement et retirez vos gains à tout moment !
-- Fiable et recommandé par nos utilisateurs – Testé, vérifié, approuvé ! Consultez nos avis sur Trustpilot.
-- Des Options Infinies – Large choix avec de nouvelles offres chaque jour.
+• besser verstehen, wie Nutzer*innen auf unsere Website gelangen
+• die Ergebnisse unserer Anzeigen besser messen
+• Nutzer*innen in bestimmten Fällen die Anmeldung über Drittanbieterkonten ermöglichen
+• besser nachvollziehen, wann Nutzer*innen über ein anderes Gerät auf Indeed zugreifen
 
-Comment fonctionne teststar ?
+Wir freuen uns über Feedback: ios@indeed.com.
 
-Commencer est simple. Suivez ces trois étapes faciles :
-Inscrivez-vous gratuitement – Découvrez des tâches et sondages passionnants.
+Meine personenbezogenen Daten dürfen nicht verkauft werden: https://www.indeed.com/legal/ccpa-dns
 
+[View on Apple](https://apps.apple.com/fr/app/indeed-recherche-demploi/id309735670)
 
-Choisissez ce qui vous plaît – Chaque mission terminée vous rapporte de l’argent.
+<a id="seloger-location-achat-immo"></a>
+## SeLoger location & achat immo
 
-Recevez vos gains – Retirez vos gains directement via PayPal, rapidement et en toute sécurité.
-C’est aussi simple que ça ! Commencez à gagner dès aujourd’hui tout en vous amusant !
+![SeLoger location & achat immo](../../logos/326883014-ed9d4b9a.png)
 
-Avec autant de façons de gagner de l’argent réel, teststar est l’application idéale pour les petits boulots, les étudiants et toute personne cherchant un revenu supplémentaire.
-Gagnez de l'argent réel n’importe où, n’importe quand ! Que vous soyez à la maison, en déplacement ou en pause, transformez votre temps libre en argent avec teststar. Il n’y a pas de limite à vos gains – c’est vous qui décidez de l’effort à fournir ! Pas de tâches compliquées, pas de faux points – juste de l’argent réel !
+SeLoger est l’application incontournable pour louer, acheter ou vendre un bien immobilier en France – rapidement, facilement et avec la puissance de l’IA. Que vous cherchiez un appartement, une maison, une colocation ou un garage, SeLoger vous propose un large choix de biens à louer ou à acheter. Trouvez votre appartement, maison ou logement idéal à la location ou à la vente en France avec SeLoger.
 
-Rejoignez des millions d’utilisateurs satisfaits qui ont déjà gagné avec teststar !
+Points forts de l’application SeLoger :
 
-Des gains sûrs et sécurisés
+• Parcourez un large choix de biens : appartements, maisons, studios et plus encore
+• Recherchez sur la carte ou en liste, et affinez avec des filtres personnalisés
+• Enregistrez vos recherches et recevez des alertes instantanées
+• Regroupez vos annonces préférées dans le mémo
+• Comparez les prix et estimez gratuitement la valeur d’un bien
+• Déposez votre annonce en quelques secondes et contactez des acheteurs immédiatement
+• Gérez vos annonces et trouvez des agences immobilières facilement
 
-Votre sécurité est notre priorité. teststar est 100 % sûr, fiable et approuvé par des millions d’utilisateurs. Nous garantissons des récompenses justes pour votre temps, et nos paiements rapides via PayPal vous assurent de ne jamais attendre longtemps pour recevoir votre argent.
-Pas d’arnaques. Pas de fausses promesses. Juste de vraies récompenses.
-Prêt à transformer votre temps libre en argent réel ? Téléchargez teststar maintenant et commencez à gagner de l’argent en faisant ce que vous aimez – tester, réaliser des tâches et partager vos avis !
+Biens immobiliers à louer
+Notre puissant moteur de recherche vous aide à trouver rapidement votre prochain appartement, maison, studio ou logement à louer parmi la plus grande sélection de biens immobiliers en France. Recevez des alertes en temps réel pour les nouveaux biens correspondant à vos critères de recherche et enregistrez vos annonces préférées pour les consulter rapidement et facilement. Des descriptions détaillées et des visites virtuelles vous donnent une vision claire des biens qui vous intéressent.
 
-Si vous avez besoin d’aide, notre support en ligne est disponible 24h/24 et 7j/7.
+Biens à vendre
+Parcourez la plus grande sélection de logements à vendre en France, maisons, appartements, terrains, bureaux, magasins et garages, grâce à notre moteur de recherche avancé. Que vous soyez à la recherche d'une maison familiale ou d'un appartement moderne, trouvez votre bien idéal en seulement quelques clics.
 
-[View on Apple](https://apps.apple.com/fr/app/teststar-gagnez-de-largent/id6749456669)
+Enregistrez vos annonces préférées, créez des alertes personnalisées et facilitez votre achat immobilier. Utilisez notre calculatrice de prêt immobilier pour estimer vos mensualités et décider en toute connaissance de cause de votre investissement immobilier.
 
-<a id="instagram"></a>
-## Instagram
+Vendre un bien
+Mettez votre bien en vente rapidement et entrez en contact avec des acheteurs potentiels grâce à l'application SeLoger, optimisée pour faciliter le processus de vente. Accédez à vos annonces et gérez-les sans effort, communiquez avec les acheteurs et concluez la transaction rapidement grâce à nos outils dédiés.
 
-![Instagram](../../logos/389801252-8abbb146.png)
+Évaluer le prix des biens
+Évaluez rapidement la valeur de votre propriété et obtenez des conseils pour mieux vendre grâce à notre outil d'évaluation en ligne gratuit. Vous obtiendrez une estimation précise en fonction de l'emplacement, de la surface et des caractéristiques de votre bien. Comparez les prix de vente récents de logements similaires dans votre région pour affiner votre estimation.
 
-Aus kleinen Momenten werden große Freundschaften. Teile deine auf Instagram.
-– Von Meta
+Explorez l'espace Mon Propriétaire mis à jour, où vous pouvez suivre, gérer et recevoir des conseils pour votre projet. Louez et vendez votre bien gratuitement sur SeLoger.
 
-Bleib mit deinen Freund*innen in Kontakt, finde andere Fans und finde heraus, was die Menschen in deinem Umfeld so treiben. Erkunde deine Interessen und poste, was gerade bei dir los ist – ob Alltagsmomente oder besondere Highlights in deinem Leben.
+Prêt à trouver votre futur logement en France ? Téléchargez SeLoger et commencez votre recherche dès maintenant !
 
-Teile, was dich gerade bewegt.
-- Halte deine Freund*innen mit Stories und Notizen, die für 24 Stunden sichtbar sind, auf dem Laufenden.
-- Starte Gruppenchats und teile spontane Momente mit deinen engen Freund*innen.
-- Teile Erinnerungen von aktuellen Veranstaltungen oder Reisen im Feed.
-- Verwandle dein Leben in einen Film und entdecke mit Reels auf Instagram unterhaltsame Kurzvideos.
-- Personalisiere deine Beiträge mit exklusiven Vorlagen, Musik, Stickern und Filtern.
+N'oubliez pas de nous suivre sur les réseaux sociaux pour les dernières mises à jour et les actualités immobilières :
 
-Erkunde Themen, die dich interessieren.
-- Sieh dir Videos deiner Lieblings-Creator*innen an und entdecke neue Inhalte, die auf deine Interessen zugeschnitten sind.
-- Lass dich im „Explore“-Tab von den Fotos und Videos neuer Konten inspirieren.
-- Entdecke Marken und Kleinunternehmen und shoppe Produkte, die deinen Stil unterstreichen.
+• Facebook: @SeLoger
+• Twitter/X: @SeLoger
+• Instagram: @seloger
 
-Manche Instagram-Features sind in deinem Land oder deiner Region möglicherweise nicht verfügbar.
+SeLoger, MySeLogerPro, Immowelt, Immonet, Immoweb, Meilleurs Agents, Belles Demeures, LogicImmo et Yad2 font partie du groupe AVIV, l'une des plus grandes sociétés immobilières technologiques numériques dans le monde, avec une forte présence en Europe.
 
-Nutzungsbedingungen und Richtlinien: https://help.instagram.com/581066165581870
+Vous pouvez nous partager votre expérience en nous laissant un avis sur l'Apple App Store. Si vous avez des questions supplémentaires, n'hésitez pas à nous contacter à l'adresse mobile@seloger.com.
 
-[View on Apple](https://apps.apple.com/fr/app/instagram/id389801252)
+*En nombre de monthly active user - data.ai, décembre 2024
 
-<a id="intersport-france"></a>
-## INTERSPORT France
+[View on Apple](https://apps.apple.com/fr/app/seloger-location-achat-immo/id326883014)
 
-![INTERSPORT France](../../logos/6759600510-09084ce5.png)
+<a id="gmail-e-mail-von-google"></a>
+## Gmail – E-Mail von Google
 
-Bienvenue sur l’application officielle INTERSPORT France, votre destination n°1 pour l’équipement sportif. Que vous soyez un athlète de haut niveau, un passionné d’aventure en plein air ou un pratiquant occasionnel, notre application a été conçue pour vous accompagner dans chaque mouvement
-Accédez à un catalogue de plus de 30 sports et retrouvez les plus grandes marques mondiales à prix accessible en quelques clics
+![Gmail – E-Mail von Google](../../logos/422689480-3e3ebe15.png)
 
-VIVEZ VOS PASSIONS À 100% : NOS 4 UNIVERS MAJEURS
+Mit der offiziellen Gmail App können Sie sich das Beste von Gmail auf Ihr iPhone oder iPad holen: hilfreiche KI-Funktionen, umfassender Schutz, Benachrichtigungen in Echtzeit, Unterstützung für mehrere Konten und die intelligente Suche im gesamten Posteingang.
 
-L'application INTERSPORT met à l'honneur vos disciplines favorites avec une profondeur de gamme inégalée :
-FOOTBALL : Préparez votre saison avec les derniers crampons, maillots officiels et accessoires d'entraînement. Retrouvez les innovations de Nike et Adidas pour dominer le terrain, que vous jouiez en club ou entre amis
-RUNNING : Repoussez vos limites avec une sélection pointue de vêtements et chaussures de course. Profitez de l'amorti révolutionnaire de Hoka, de la stabilité légendaire d'Asics, de la respirabilité des débardeurs Energetics et du dynamisme des modèles les plus récents pour tous types de foulées
-RANDONNÉE & OUTDOOR : Équipez-vous pour l'aventure avec des produits techniques conçus pour durer. De la technicité de The North Face à la fiabilité des chaussures Salomon, en passant par la versatilité des produits McKinley nous vous offrons le meilleur pour explorer les sommets en toute sécurité
-VÉLO : Du VTT au vélo de route en passant par la mobilité urbaine, découvrez nos gammes de cycles, casques et protections. Fiabilité, performance et sécurité vous accompagnent pour vos sorties quotidiennes ou vos défis sportifs avec nos marques NAKAMURA et SUNN
+Vorteile der Gmail App:
+• Sie können Gmail auf iOS-Geräten als Standard-E-Mail-App festlegen.
+• Dank hilfreicher Infokarten bleiben Sie ganz einfach über die neuesten Pakete, anstehende Termine, Rechnungen und Reisedaten auf dem Laufenden.
+• Mit der integrierten E-Mail-Aboverwaltung lässt sich Ihr Posteingang übersichtlich halten.
+• Gemini* in Gmail kann für Sie lange E-Mails zusammenfassen, Antworten entwerfen oder verfeinern oder in Ihrem Posteingang nach Informationen suchen.
+• Sie können mehrere E-Mail-Konten von verschiedenen Anbietern verbinden und zwischen ihnen wechseln.
+• Über 99,9 % der Spam-, Phishing- und Malware-Inhalte werden automatisch blockiert – bevor sie Ihren Posteingang erreichen.
+• Mit Gemini in Gmail lassen sich Termine aus E-Mails schnell in Google Kalender eintragen.
+• Über den personalisierten Tab „Werbung“ finden Sie schneller die besten Angebote.
+• Sie können schneller auf E-Mails antworten – dank KI-basierter Antwortvorschläge, die sowohl den Kontext Ihrer E-Mails als auch Ihren individuellen Schreibstil und Ton berücksichtigen.
+• E-Mails lassen sich nach dem Senden bis zu 30 Sekunden lang zurückrufen, um Fehler zu vermeiden.
+• Sie können direkt auf Google Meet und Google Chat zugreifen – ohne Gmail zu verlassen.
+• Sie können Ihre E-Mails mit Labeln versehen, markieren, löschen und als Spam melden – so behalten Sie besser den Überblick.
+• Mithilfe der Wischgesten zum Archivieren oder Löschen lässt sich Ihr Posteingang schnell und einfach aufräumen.
 
-UN LARGE CHOIX ET DES PRIX ENGAGÉS
+Gmail ist Teil von Google Workspace – Sie können sich also ganz leicht mit Ihrem Team austauschen und zusammenarbeiten. Dazu haben Sie folgende Möglichkeiten:
+• Mit Kolleginnen und Kollegen über Google Meet oder Google Chat in Kontakt bleiben, Einladungen in Google Kalender senden, Aufgabenlisten erstellen und mehr – viele alltägliche Aufgaben lassen sich direkt in Gmail erledigen.
+• Mit den Funktionen von Gemini in Gmail wie „Formuliere für mich“, „Antwortvorschläge“, „Übersichten mit KI“ und „Korrekturlesen“ erhalten Sie einen besseren Überblick über Ihre Arbeit und können Routineaufgaben schneller abschließen und effizienter sein.
+• Umfassender Schutz: Mit unseren Modellen für maschinelles Lernen werden über 99,9 % der Spam-, Phishing- und Malware-Inhalte blockiert – noch bevor sie Ihren Posteingang erreichen.
 
-INTERSPORT, c'est la force d'un réseau coopératif leader alliant marques internationales et marques propres. Affichez votre style lifestyle ou sportif, et profitez de notre positionnement prix unique : 
-Offres promotionnelles régulières et ventes flash sur vos marques préférées
-Prix Engagés pour rendre le sport accessible à tous
-Gamme Premier Prix Performance : la qualité technique au prix le plus bas
-        
-L’EXPÉRIENCE TEAM INTERSPORT : PLUS QU’UN PROGRAMME DE FIDÉLITÉ
+* Zur Nutzung einiger Gemini-Funktionen ist ein Abo für Google One AI erforderlich. Es ist eine Internetverbindung erforderlich. Die Verfügbarkeit variiert je nach Sprache und Land. Antworten sollten auf ihre Richtigkeit geprüft werden.
 
-Rejoignez la communauté et profitez d'un parcours personnalisé avant, pendant et après vos achats : 
-Votre carte digitale : Accédez directement à votre carte fidélité dans votre application et scannez-la en caisse pour profiter de tous vos avantages
-Cagnotte en temps réel : Suivez le montant de vos points et recevez des alertes exclusives pour utiliser vos remises
-Espace personnel complet : Gérez vos informations, consultez votre historique d'achat et suivez l'avancée de vos commandes en un clin d’œil
-Store Locator : Trouvez le magasin INTERSPORT le plus proche, consultez ses horaires et découvrez les services spécifiques (atelier, location, etc.)
+[View on Apple](https://apps.apple.com/fr/app/gmail-la-messagerie-google/id422689480)
 
-UNE EXPÉRIENCE E-COMMERCE FLUIDE ET CONNECTÉE
+<a id="tiktok-videos-shop-und-live"></a>
+## TikTok - Videos, Shop und LIVE
 
-Scan Produit en magasin : Vous hésitez sur une taille ou voulez consulter les avis clients ? Scannez le code-barres en rayon pour accéder immédiatement à la fiche produit détaillée et vérifier la disponibilité des stocks
-Wishlist : Enregistrez vos articles favoris pour créer la liste de vos envies
-Parcours d’achat rapide : Une interface optimisée pour une commande sécurisée en quelques secondes
+![TikTok - Videos, Shop und LIVE](../../logos/835599320-e7d1c80b.png)
 
-EXPERTISE ET CONSEILS À VOTRE SERVICE
+TikTok ist deine globale Video-Community für kurze und unterhaltsame Videos. Die Inhalte sind dabei auf dich zugeschnitten: Lass dich von spannenden Storys unterhalten, lerne fürs Leben und entdecke neue Talente in dir.
+Du kannst dabei auch selbst unvergessliche Momente hochladen und sie mit der Welt teilen. Mit einer großen Auswahl an Musik, Filtern und Stickern wird jede Aufnahme einzigartig – Deiner Kreativität sind keine Grenzen gesetzt!
 
-Accédez directement via l'app à nos sections Guides & Conseils : 
-Des guides d'achat experts pour choisir le matériel adapté à votre morphologie et à votre niveau
-Des articles d'inspiration lifestyle et sport pour rester au top des tendances
-Des conseils d'entretien pour prolonger la vie de vos équipements de marque
+■ Schaue Millionen von Videos, basierend auf den Inhalten, die dir gefallen!
+■ Lass dich von unserer globalen TikTok-Community unterhalten und inspirieren!
+■ Mit unseren Edit-Tools kannst du Videoclips problemlos schneiden, zusammenfügen und duplizieren.
+■ Füge deinen Videos kostenlose Musikclips, Sounds und viele weitere Effekte hinzu!
+■ Livestreaming-Filter werden ständig mit neuen Designs aktualisiert.
+■ Stelle dich abwechslungsreichen Challenges und zeige, was in dir steckt!
+■ Hast du Feedback für uns? Kontaktiere uns unter https://www.tiktok.com/legal/report/feedback
 
-TOUS LES SERVICES POUR VOUS SIMPLIFIER LA VIE
+Erhalte Zugriff auf LIVE-Vorteile, um besser mit Hosts interagieren zu können!
+Du kannst dich für ein einmaliges Abonnement oder für ein Abonnement mit automatischer Verlängerung entscheiden, um in den Genuss besonderer LIVE-Vorteile zu kommen (derzeit nur in bestimmten Regionen verfügbar)
 
-Commandez l'esprit tranquille grâce à nos engagements : 
-Click & Collect : Retrait gratuit en magasin pour vos articles favoris
-Paiement 100% sécurisé : Plusieurs options de paiement pour une transaction sereine
-Retours étendus : Vous avez jusqu'à 100 jours pour changer d'avis et nous retourner vos produits
+Hinweis: 
+Wenn du das Abonnement über Apple abgeschlossen hast, wird dein mit deiner Apple-ID verknüpftes Konto nach der Bestätigung des Kaufs mit dem Kaufbetrag belastet. Dein Abonnement wird automatisch verlängert, sofern die automatische Verlängerung nicht mindestens 24 Stunden vor Ablauf des aktuellen Abonnementzeitraums deaktiviert wird. Dein Konto wird innerhalb von 24 Stunden vor Ablauf des aktuellen Abonnementzeitraums mit der für den verlängerten Tarif fälligen Gebühr belastet. Abonnements und automatische Verlängerungen können nach dem Kauf unter Kontoeinstellungen verwaltet werden.
 
-[View on Apple](https://apps.apple.com/fr/app/intersport-france/id6759600510)
+Nutzungsbedingungen —
+https://www.tiktok.com/legal/terms-of-service
 
-<a id="easypark-parken-park-app"></a>
-## EasyPark parken - Park App
+Datenschutzerklärung —
+https://www.tiktok.com/legal/privacy-policy
 
-![EasyPark parken - Park App](../../logos/449594317-04052462.png)
+[View on Apple](https://apps.apple.com/fr/app/tiktok-%C3%A7a-commence-avec-toi/id835599320)
 
-Seit 2001 macht EasyPark Städte lebenswerter. Mit Millionen von Autofahrer:innen, Unternehmen und Betreiber:innen, die unsere Dienste in mehr als 20 Ländern nutzen, entwickeln wir bequeme und einfach zu bedienende Lösungen. Das spart oft Zeit und Geld und verringert den unnötigen Stress des Parkens.
+<a id="compte-ameli"></a>
+## Compte ameli
 
-EasyPark ist die Nr. 1 unter den Park-Apps in Europa, mit der besten Abdeckung. Unsere Lösung für mobiles Parken erlaubt es, für das Parken in Parkhäusern, Garagen, auf der Straße oder am Flughafen zu bezahlen. Ob von zu Hause oder im Ausland - wo immer das Leben stattfindet!
+![Compte ameli](../../logos/620447173-adf0647b.png)
 
-Preis: An den meisten Standorten erheben wir eine Servicegebühr zusätzlich zu den vom Betreiber/der Stadt erhobenen Parkgebühren. Der Gesamtpreis und die Aufschlüsselung der Gebühren werden in der EasyPark-App vor jedem Parkvorgang angezeigt. Weitere Informationen sind auf unserer lokalen easypark.com-Website verfügbar.
+Connectez-vous à votre compte avec votre numéro de sécurité sociale, votre mot de passe et le code unique reçu par email ou via l'authentification biométrique (disponible sur smartphone) et accéder à tous les services suivants :
 
-Mit der App von EasyPark kann jeder:
-- Einen Parkvorgang vom Smartphone aus starten.
-- Das Parken jederzeit stoppen und nur für die tatsächlich genutzte Zeit bezahlen.
-- Die Parkdauer von überall aus anpassen, wenn es mal etwas länger dauert.
-- Einfacher einen freien Parkplatz in der Nähe des Zielorts finden.
-- Die App beruflich oder privat nutzen.
-- Kosten, ob beruflich oder privat, einfach aufteilen und übersichtlich darstellen.
-- Aus sicheren Zahlungsarten frei auswählen.
-- Benachrichtigungen aktivieren, um über Parkvorgänge auf dem Laufenden zu bleiben.
+Consultez vos remboursements de soins :
+    - Visualisez tous vos remboursements en détails
 
-Mit der App von EasyPark kann man in folgenden Städten parken: Berlin, Hamburg, Köln, Frankfurt, Stuttgart, München, Düsseldorf, Dortmund, Wien, Graz, Linz, Innsbruck, Zürich, Genf, Bulle, Bellinzona, Fribourg, Lugano, Locarno, Bern und viele viele mehr!
+Consultez tous vos documents :    
+    - Téléchargez votre attestation de droits ou d’indemnités journalières
+    - Téléchargez vos relevés mensuels de remboursements, disponibles pour les 27 derniers mois
 
-Leider ist die EasyPark-App im Vereinigten Königreich nicht verfügbar. Um in Großbritannien zu parken, empfehlen wir die App von RingGo zu verwenden.
+Réalisez certaines démarches sans vous déplacer :
+    - Simulez et estimez vos indemnités journalières, et effectuez vos éventuelles démarches
+    - Commandez votre carte européenne d’assurance maladie (CEAM) et visualisez-la sur votre smartphone
+    - Déclarez la perte ou le vol de votre carte Vitale
+    - Commandez une carte Vitale 
+    - Déclarez votre nouveau-né à votre caisse 
+    - Inscrivez votre enfant sur les cartes des deux parents
+    - Modifiez votre nom d’usage
+    - Déclarez un accident causé par un tiers
+    - Accédez à la simulation de vos droits aux aides sociales
+    - Consultez les délais de traitement de votre caisse
+    - Choisissez votre organisme complémentaire en cas de chevauchement de contrats
+    - Déclarez un acte médical ou un soin non réalisé
 
-[View on Apple](https://apps.apple.com/fr/app/easypark-stationnement-facile/id449594317)
+Gérez vos informations personnelles :
+    - Retrouvez toutes vos informations personnelles
+    - Modifiez votre adresse postale, votre adresse email et vos numéros de téléphone
+
+Prenez rendez-vous avec votre caisse :
+    - Choisissez un créneau de rendez-vous téléphonique
+    - Modifiez vos rendez-vous
+    - Supprimez vos rendez-vous
+    - Visionnez vos rendez-vous à venir
+
+[View on Apple](https://apps.apple.com/fr/app/compte-ameli/id620447173)
+
+<a id="shotgun-musique-live"></a>
+## Shotgun - Musique Live
+
+![Shotgun - Musique Live](../../logos/760028892-0240554b.png)
+
+Découvre Shotgun, ton passeport pour les festivals, concerts, soirées et raves les plus électrisants. Fan d'électro, de hip-hop ou d'autres genres, rejoins les évènements et communautés qui te font vibrer. Profite d'achats de billets simplifiés, de la revente sécurisée et de recommandations personnalisées pour ne jamais manquer les événements marquants.
+
+• Explore et sort : Accède à une large sélection d'événements selon ton mood et tes goûts !
+• Sur Mesure : Reçoit des alertes personnalisées en synchronisant avec ta musique et en suivant tes artistes ou organisateurs préférés.
+• Billetterie Facile : Achète et revends tes billets facilement, ou inscris-toi sur des listes d'attente pour les événements complets!
+• Communauté & Récompenses : Suis où vont tes amis, conserve un historique de tes sorties, engage-toi comme ambassadeur et gagne des récompenses en explorant plus d'événements.
+
+Rejoins Shotgun : passionnés de musique, souvenirs inoubliables, nouvelles expériences et nouveaux horizons. 
+Live long, dance, and take care.
+
+[View on Apple](https://apps.apple.com/fr/app/shotgun-musique-live/id760028892)
 
 <a id="proton-vpn-prive-et-rapide"></a>
 ## Proton VPN: Privé et Rapide
@@ -2003,351 +2626,112 @@ Mozilla : « Il existe de nombreux fournisseurs de VPN, mais tous ne se valent p
 
 [View on Apple](https://apps.apple.com/fr/app/proton-vpn-priv%C3%A9-et-rapide/id1437005085)
 
-<a id="google-chrome"></a>
-## Google Chrome
+<a id="zalando-mode-fashion-online"></a>
+## Zalando Mode & Fashion online
 
-![Google Chrome](../../logos/535886823-e8d3b1b6.png)
+![Zalando Mode & Fashion online](../../logos/585629514-cc3bcc1b.png)
 
-Chrome ist der schnelle, sichere Browser von Google und bietet dir unzählige Möglichkeiten im Web. Lade ihn noch heute herunter und überzeuge dich selbst.
+Die Zalando App ist mit mehr als 6000 Marken deine erste Adresse für hochwertige Fashion- und Lifestyle-Brands. Hol dir Inspo für Outfits sowie Beauty- und Pflegeprodukte und genieße ein reibungsloses, stressfreies Shopping-Erlebnis – direkt auf deinem Handy.
 
-DAS BESTE VON GOOGLE IN CHROME
+LASS DICH INSPIRIEREN
+• Folge deinen Lieblingscreators für Outfit- und Styling-Inspo
+• Lieblingsbrands folgen und neue Releases sowie exklusive Kollektionen zuerst shoppen
+• Erstelle und folge Boards mit Outfits, Videos und Produkten, die dich inspirieren – oder werde selbst zur Inspiration
+• Entdecke mit Trend Spotter, was in Europa gerade angesagt ist – und was man in Berlin, Paris und Mailand trägt
+• Live-Videos ansehen, Profi-Tipps holen, Produkt-How-tos entdecken und deine Favoriten direkt shoppen
+• Entdecke unsere Storys und hol dir deinen Style- und Culture-Guide – mit Formaten wie „Was zieh ich an?“ und den neuesten Infos zu großen Brand-Collabs
+• Speichere deine Favoriten auf der Wunschliste und verpasse keine Größen-Updates oder Preissenkungen
 
-• GOOGLE SUCHE: Du findest in Sekundenschnelle Antworten auf alle deine Fragen – wenn du möchtest, auch per Sprachbefehl.
-• GOOGLE LENS: Du kannst nach allem suchen, was du auf dem Display oder durch die Kamera siehst.
-• GOOGLE ÜBERSETZER: Unser Dienst unterstützt mehr als 130 Sprachen. Ein Klick genügt – du kannst sogar ganze Websites übersetzen lassen.
+ENTDECKE VIELFALT
+• Entdecke mehr als 11.000 Artikel von einer umfassenden Auswahl an Brands, darunter auch zeitlose Fashion-Favoriten
+• Tauche ein in unsere vielseitigen Kategorien: Bekleidung, Schuhe, Accessoires, Sport, Beauty & Hautpflege, Pre-owned Pieces und Kidswear
+• Erhalte Updates zu allem, was dich interessiert – von News und Trends bis zu Sales und Promo-Codes
+• Erfahre als Erstes von neuen Kollektionen und Produkt-Launches deiner Lieblingsbrands
+• Aktiviere Benachrichtigungen für deine Wunschliste und verpasse keine Preissenkung oder Wiederverfügbarkeit
+• Schenke Pre-owned Pieces ein neues Leben – mit unserer großen Auswahl an Kleidung, Accessoires und Boots – fast wie neu
+• Wähle deine bevorzugte Zahlungsmethode und freu dich auf eine Lieferung direkt bis an deine Haustür
 
-ERSTKLASSIGE SICHERHEITSFUNKTIONEN
+HIER WIRDS PERSÖNLICH
+• Erhalte persönliche Empfehlungen, die genau zu deinem Style passen – ganz ohne stundenlanges Browsen
+• Bewerte die Passform deiner Bestellungen und genieße individuelle Größenberatung beim Shoppen
+• Finde mit unserem Mess-Tool im Handumdrehen heraus, was wirklich passt
+• Probiere Outfits virtuell an und finde vor dem Bestellen heraus, wie sie sitzen
+• Hol dir jederzeit Style- und Outfittipps vom Zalando Assistant – deinem maßgeschneiderten, KI-gestützten Fashion-Begleiter für deine gesamte Shopping-Reise
 
-• MODUS „ERWEITERTER SCHUTZ“: Dieser Chrome-Modus sorgt für höchstmöglichen Schutz, wenn du im Web unterwegs bist.
-• SICHERHEITSCHECK: Wir informieren dich mit proaktiven Sicherheitswarnungen rechtzeitig über Sicherheitsprobleme, damit du dich auf das Wesentliche konzentrieren kannst.
-• GOOGLE PASSWORTMANAGER: Mit diesem Dienst kannst du Passwörter erstellen und speichern, damit du dich immer und überall schnell anmelden kannst. Außerdem warnt er dich, wenn deine Passwörter doch einmal in Gefahr sein sollten.
+Bereit, die App zu entdecken?
+Shoppe deine Lieblingsbrands, sichere dir exklusive Vorteile und hol dir Inspiration und Empfehlungen, die genau zu dir passen.
 
-VERFÜGBAR AUF ALLEN DEINEN GERÄTEN
+[View on Apple](https://apps.apple.com/fr/app/zalando-boutique-mode-en-ligne/id585629514)
 
-• GERÄTEÜBERGREIFENDE SYNCHRONISIERUNG: Wichtige Dinge wie Lesezeichen, Tabs und Passwörter lassen sich speichern und sind dann sofort verfügbar, wenn du dich auf deinem Smartphone, Computer oder Tablet in Chrome anmeldest.
-• TABGRUPPEN: Dank Tabgruppen behältst du beim Surfen immer den Überblick, auch wenn du mehrere Geräte nutzt.
-• AUTOFILL: Du kannst Zahlungsinformationen, Adressen und Passwörter speichern und automatisch in Onlineformulare eintragen lassen. Das spart jede Menge Zeit.
+<a id="action"></a>
+## Action
 
-Funktionsverfügbarkeit kann je nach Land und Sprache variieren. Kompatibilität variiert. Antworten sollten auf ihre Richtigkeit geprüft werden.
+![Action](../../logos/1531860284-ed112b7f.png)
 
-[View on Apple](https://apps.apple.com/fr/app/google-chrome/id535886823)
+Dank der Action App hast du jetzt rund um die Uhr Zugriff auf all die tollen Dinge, für die du normalerweise in die Action-Filiale gehst. Sichere dir die Pole-Position, was die aktuellsten Wochenangebote und neuesten Produkte betrifft. Sobald du etwas siehst, das dir gefällt oder das du brauchst, kannst du es gleich auf deine ganz persönliche Einkaufsliste setzen! Auf diese Weise vergisst du nie wieder etwas bei deinem Shopping-Erlebnis bei Action. Das willst du dir nicht entgehen lassen? Dann lade dir schnell App herunter und lass dich von den vielen tollen und nützlichen Funktionen überraschen!
 
-<a id="mondial-relay-suivi-de-colis"></a>
-## Mondial Relay, suivi de colis
+*Alles von Action stets zur Hand 
+*Die Action App hält dich immer auf dem Laufenden und versorgt dich mit den neuesten Infos zu all den fantastischen Angeboten und Produkten, die du von Action gewohnt bist. So bist du unter den Ersten, die von unseren aufregendsten Wochenangeboten, neuesten Produkten und aktuellsten Neuigkeiten erfahren.
 
-![Mondial Relay, suivi de colis](../../logos/1633060599-c5db96ed.png)
+*Aufregende Produkte, speziell für dich ausgewählt
+*Gib in der App deine Interessen an, damit Action dir die Produkte zeigen kann, die am besten zu dir passen. 
 
-Vous êtes mobile ? Envie de suivre en temps réel tous vos colis ? Rien de plus simple, avec l’application Mondial Relay L'application Mondial Relay est gratuite et vous facilite la vie ! Elle est simple, fiable et sécurisée. Avec elle dans votre poche, le suivi, le retrait et l'envoi de vos colis, c'est facile ! Localisez vos Lockers 24/7 et vos Points Relais® favoris dans un réseau de 18 000 points de proximité.
+*Erstelle eine Liste mit deinen Lieblingsprodukten
+*Bei so vielen überraschenden Produkten vergisst man schon mal, was man eigentlich gesucht hat.  Setze die Artikel, die du brauchst, auf deine Einkaufsliste, damit dir das so schnell nicht mehr passiert. Das Beste daran: Du kannst dir die Einkaufsliste auf jedem deiner Geräte anzeigen lassen.
 
-SUIVEZ EN TEMPS REEL TOUS VOS COLIS 
-Quoi de mieux que d’avoir les informations importantes dans votre poche ? Avec l’application Mondial Relay, suivez tous vos colis : livraisons e-commerce, envois entre particuliers, marketplaces, retours…
-Le détail de chaque étape de livraison est clair, précis et vous permet de savoir exactement où en est votre colis. 
-Vous ne souhaitez plus voir un colis dans votre suivi ? Archivez-le ou supprimez-le depuis l'application.
+* Verwende den praktischen Produktscanner für mehr Informationen 
+*Du willst mehr über ein bestimmtes Produkt erfahren? Dann kannst du dein Handy mithilfe der App im Handumdrehen in einen Scanner verwandeln. Auf diese Weise gelangst du in der Filiale (oder zu Hause) genau an die Informationen, die du suchst. 
 
-LOCALISEZ VOS LOCKERS/ POINTS RELAIS®
-Avec + de 11 000 Lockers, Mondial Relay est le Leader en France. Trouvez facilement les Points de proximité autour de vous, de votre domicile ou encore de votre lieu de travail grâce à notre carte interactive. Le dépôt et le retrait de colis chez Mondial Relay c’est où vous voulez, quand vous voulez ! 
+*Alle deine Kassenbons digital und an einem Ort 
+*Ab jetzt findest du alle deine Kassenbons von Action übersichtlich in deiner App gelistet. Scanne beim Einkaufen deine digitale Kundenkarte, dann erscheint der digitale Kassenbon automatisch in der App.
 
-RETIREZ RAPIDEMENT VOS COLIS 
-Grâce aux notifications de votre application mobile, soyez informé dès que vos colis sont disponibles. N’oubliez pas de les activer depuis les paramètres de votre compte. 
-Encore plus simple et rapide pour retirer vos colis en Locker ! Muni de l’app Mondial Relay, ouvrez votre casier à distance avec votre smartphone et laissez la magie opérer…Tadam ! La porte s’ouvre et votre colis est prêt à être récupéré. Une fonctionnalité qui donne vraiment le Smiiile ;)
-En alternative à l’ouverture à distance, le QR code et le code de retrait restent toujours opérationnels pour récupérer un colis.
+Lass dich von über 6.000 Artikeln inspirieren
+Beginne in aller Ruhe deine Entdeckungsreise durch die App und lass dich von den mehr als 6.000 Artikeln überraschen, die dir Action jeden Tag bietet. Du wirst staunen, wie viel es zu entdecken gibt!
 
-ENVOYEZ DES COLIS A VOS PROCHES
-Envie de faire plaisir à un proche ? Qu’il s’agisse d’un anniversaire ou d’un objet oublié, pas de panique ! Vous pouvez acheter vos étiquettes directement depuis l’onglet "Envoyer" de l’app, à partir de 4,15 € seulement. Et bonne nouvelle : la livraison à domicile est désormais disponible partout en France. Vous pouvez également envoyer un colis sans étiquette, en le déposant simplement dans un Locker grâce à un QR code. Plus besoin d’imprimante, l’envoi de colis n’a jamais été aussi simple !
+[View on Apple](https://apps.apple.com/fr/app/action/id1531860284)
 
-AJOUTEZ MANUELLEMENT UN COLIS À VOTRE SUIVI 
-Un des colis que vous attendez ne s'affiche pas dans votre application ? Pas de panique, vous pouvez l'ajouter à votre suivi en cliquant sur "+" et en renseignant son numéro de suivi.
+<a id="grand-frais"></a>
+## Grand Frais
 
-SUIVEZ LES COLIS DE VOTRE FAMILLE ET DE VOS AMIS 
-A vous de choisir ! Renseignez jusqu’à 5 adresses emails et/ou jusqu’à 5 numéros de mobile dans votre profil, de manière sécurisée. Cela vous permet de suivre et de retirer des colis supplémentaires : les vôtres et ceux de vos proches. Pour ajouter ou supprimer un email / n° de mobile, tout se fait en un clic !
+![Grand Frais](../../logos/6753673412-f272fa93.png)
 
-L'application Mondial Relay est gérée et hébergée par la société MONDIAL RELAY SASU : - Adresse : 1 avenue de l'Horizon, 59650 VILLENEUVE D'ASCQ, France - Capital social : 500 400 Euros - Immatriculation : n°385 218 631 au Registre du Commerce et des Sociétés - de LILLE METROPOLE (FRANCE) - TVA Intracommunautaire : FR 39 385 218 631 - Directeur en charge de l'Application : Mr Quentin BENAULT - Téléphone : 09 69 32 23 32 - Email : app-feedback@mondialrelay.fr - Politique RGPD : https://www.mondialrelay.fr/donnees-personnelles/.
+L’APP QUI VOUS RECOMPENSE
 
-[View on Apple](https://apps.apple.com/fr/app/mondial-relay-suivi-de-colis/id1633060599)
+Pour rendre chaque visite dans votre magasin Grand Frais encore plus savoureuse, scannez simplement votre QR code en caisse, depuis « Ma carte » dans l’application et laissez la magie opérer : 
 
-<a id="getyourguide-planen-buchen"></a>
-## GetYourGuide: Planen & buchen
+• Des cadeaux et récompenses toute l'année
+• Le Panier Gourmand : tentez de gagner un panier rempli de vos produits préférés ! Le Grand Jeu : chaque semaine, un tirage au sort exceptionnel pour gagner un lot qui mettra des étoiles dans votre cuisine.
+• Des promotions exclusives : chaque semaine, bénéficiez de promos et offres réservées aux membres de l'APP Grand Frais.
 
-![GetYourGuide: Planen & buchen](../../logos/705079381-618f36f2.png)
+L’APP QUI VOUS DIVERTIT
 
-Entdecke die Welt mit GetYourGuide!
+Réveillez le joueur qui est en vous !
+Quiz gourmands : devenez experts de vos produits préférés avec nos quiz gourmands et tentez de gagner des récompenses
+Sac'célère : jouez au premier jeu en ligne Grand Frais et tentez de remporter des bons d’achat
 
-Mit der GetYourGuide-App kannst du ganz einfach Tickets für unzählige Aktivitäten und Erlebnisse auf deinen Reisen buchen. Ob du auf der Suche nach einer aufregenden Tagestour, einem unvergesslichen Reiseerlebnis oder einer faszinierenden Stadtführung bist, hier findest du eine Vielzahl von Optionen, um das Beste aus deinem Urlaub herauszuholen.
+L’APP QUI VOUS FACILITE LE QUOTIDIEN
 
-Egal, ob für die Urlaubsplanung oder für die spontane Suche nach Last-Minute-Erlebnissen an einem beliebigen Reiseziel – mit uns ist das Buchen von Touren, Tagesausflügen und Aktivitäten so einfach wie nie.
+L'application vous simplifie les courses et votre quotidien en cuisine. 
+• Tickets de caisse : retrouvez tous nos conseils sur vos produits préférés en 1 clic depuis votre ticket de caisse sur l’app.
+• Produits : tous les secrets de vos produits préférés et des conseils pour les cuisiner !
+• Liste de courses : les ingrédients de vos recettes favorites ou de vos envies du moment pour ne rien oublier en magasin.
+• Recettes : trouvez toute l’inspiration avec les recettes Grand Frais. Appuyez sur play et laissez-vous guider étape par étape. Entrée, plat, dessert ? Toutes les recettes dans votre poche.
+• Informations magasins : consultez les horaires et infos de votre magasin Grand Frais le plus proche et les promotions du moment.
 
-Mach mehr aus deiner Reise mit exklusivem Zugang zu den besten Attraktionen und Museen der Welt, entdecke die Highlights und die versteckten Geheimtipps und bleib stets auf dem Laufenden über Last-Minute-Angebote mit der App – wir machen Reiseplanung einfach.
+TOUT LE MEILLEUR DE VOTRE MARCHÉ GRAND FRAIS
 
-Deine Vorteile mit der GetYourGuide-App
+Retrouvez dans l'application l'esprit de nos halles et la passion de nos professionnels pour les bons produits.
+Fruits et Légumes : la fraîcheur et la variété au rythme des saisons.
+Épiceries d'ici et d'ailleurs : pour faire voyager vos papilles.
+Fromagerie : un savoir-faire unique pour des fromages et des produits laitiers de caractère.
+Boucherie : des viandes de qualité préparées et conseillées par de vrais artisans.
+Poissonnerie : les trésors de la mer, sélectionnés pour leur fraîcheur incomparable.
 
-Jetzt reservieren, später zahlen: Sichere dir deinen Platz für beliebte Erlebnisse frühzeitig und bezahle erst später.
+MAINTENANT, VOUS SAVEZ TOUT SUR L’APP QUI REGALE
 
-Sofortige Buchungsbestätigung: Egal, ob du deine Tour schon lange im Voraus oder last minute buchst, du erhältst deine Tickets und Buchungsbestätigung sofort.
+Trouvez l'inspiration en cuisine pour tous vos repas, de l'entrée au dessert. Téléchargez l'application Grand Frais dès maintenant. Le meilleur de vos courses vous attend !
 
-Offline-Tickets: Greife über die App ganz bequem offline auf deine Tickets zu.
-
-24/7 Kundenservice: Du erreichst uns rund um die Uhr kostenlos per E-Mail, Telefon oder WhatsApp
-
-Tickets sicher und bequem im Voraus buchen
-
-Planst du eine Reise und möchtest die wichtigsten Sehenswürdigkeiten besuchen? Mit GetYourGuide kannst du bequem im Voraus Touren und Tickets für berühmte Wahrzeichen wie den beeindruckenden Mailänder Dom, faszinierende Museen und andere Attraktionen buchen. Spare dir das Anstehen in der Warteschlange und genieße einen stressfreien Besuch, indem du deine Tickets einfach auf deinem Smartphone vorzeigst.
-
-Entdecke über 75.000 Erlebnisse
-
-Mit der GetYourGuide-App hast du Zugriff auf eine beeindruckende Auswahl von über 75.000 Erlebnissen, Tickets und Aktivitäten weltweit. Egal, ob du Abenteuer suchst, kulturelle Sehenswürdigkeiten erkunden möchtest oder kulinarische Entdeckungen machen willst – bei uns wirst du fündig. Stöbere durch unsere umfangreiche Sammlung von Tagestouren, Stadtführungen, Museumsbesuchen und vielem mehr und finde das perfekte Erlebnis für deine Reise.
-
-Bleibe flexibel
-
-Mit GetYourGuide bleibst du flexibel und kannst deine Reisepläne mühelos anpassen. Unsere App bietet dir eine einfache Möglichkeit, nach Aktivitäten und Tickets an deinem Reiseziel zu suchen und sie nach deinen individuellen Vorlieben zu filtern. Du kannst spontan entscheiden, ob du lieber eine Stadtführung machen möchtest, an einer Outdoor-Aktivität teilnehmen willst oder Lust auf ein Museum hast. Wähle aus verschiedenen Terminen und Optionen, um sicherzustellen, dass deine Erlebnisse nahtlos in deine Reiseroute passen.
-
-Sichere Buchung
-
-Mit GetYourGuide kannst du deine Aktivitäten sicher und bequem buchen. Unsere App sorgt für ein schnelles und unkompliziertes Buchungserlebnis. Durchstöbere Bewertungen und Erfahrungen anderer Reisender, um dir ein Bild von den Aktivitäten zu machen. Sobald du dich entschieden hast, kannst du deine Tickets direkt über die App buchen und erhältst eine sofortige Buchungsbestätigung. Vermeide das lästige Anstehen an den Attraktionen, indem du deine Tickets einfach auf deinem Smartphone vorzeigst.
-
-Lade jetzt die GetYourGuide-App herunter und entdecke die Welt der unvergesslichen Erlebnisse und Aktivitäten. Egal, ob du alleine reist, mit deinem Partner oder mit Freunden – bei uns findest du das perfekte Abenteuer, um deine Reise unvergesslich zu machen. Erkunde neue Orte, lerne interessante Fakten und schaffe unvergessliche Erinnerungen – alles mit nur wenigen Klicks auf deinem Smartphone.
-
-Starte jetzt dein Abenteuer mit GetYourGuide!
-
-[View on Apple](https://apps.apple.com/fr/app/getyourguide-tours-billets/id705079381)
-
-<a id="roole-map-navigation"></a>
-## Roole Map : Navigation
-
-![Roole Map : Navigation](../../logos/1621923838-842fc624.png)
-
-Roole Map est l’application GPS gratuite, sans publicité, pensée pour les conducteurs en France et labellisée Origine France Garantie.
-
-Profitez d’une navigation intuitive et intégrée, compatible CarPlay, pour planifier vos trajets du quotidien ou vos départs en vacances. Trouvez les meilleurs itinéraires, roulez en évitant le trafic et les radars, faites le plein, rechargez, faites une pause et stationnez avec des données locales fiables et mises à jour en temps réel.
-
-Tout ce qu’il vous faut, dans une seule app :
-
-- Itinéraires intelligents selon votre véhicule (thermique, hybride ou électrique)
-- Stations-service les moins chères, bornes de recharge disponibles, aires d'autoroute avec les restaurations disponibles, parkings ouverts 24/7
-- Infos stationnement en voirie : tarifs et règles locales affichés
-
-Pourquoi choisir Roole Map ?
-
-- Navigation fluide : itinéraires alternatifs, trafic et radars sont affichés sur votre mobile ou sur CarPlay dans votre voiture
-- Signalements communautaires : alertes de la communauté des Rooleurs : accidents, zones de contrôle, travaux, dangers ...
-- Économies garanties : prix des péages, du carburant, des recharges et du stationnement affichés et comparés
-- Temps réel : bornes disponibles, pénuries et erreurs signalées par notre communauté de conducteurs
-- Respect de votre vie privée: vos données restent à 100 % sur votre téléphone
-- Des infos locales et fiables, fournies par les meilleurs partenaires en France
-
-Téléchargez l’app et reprenez la route à votre rythme !
-Roole Map est une application de Roole, le premier club automobile en France.
-
-Envie de faire partie de l’aventure Roole Map ? Faites-nous part de vos retours et suggestions par e-mail → contact-map@roole.fr ou sur https://contribuer.roolemap.fr
-
-Mentions légales : https://app.roolemap.fr/mentions-legales
-Charte de confidentialité : https://app.roolemap.fr/charte-de-confidentialite
-Conditions générales d’utilisation : https://app.roolemap.fr/cgu
-Source de données du gouvernement : https://www.prix-carburants.gouv.fr/rubrique/opendata
-
-[View on Apple](https://apps.apple.com/fr/app/roole-map-navigation/id1621923838)
-
-<a id="i-le-de-france-mobilite-s"></a>
-## Île-de-France Mobilités
-
-![Île-de-France Mobilités](../../logos/484527651-6cd1659b.png)
-
-Île-de-France Mobilités vous accompagne au quotidien, achetez un titre dématérialisé, rechargez votre passe Navigo, recherchez un itinéraire pour les trains, RER, métros, tramways, bus, cars, vélos, Vélib’, en covoiturage, autopartage, cherchez un horaire en temps réel ou une info trafic... Retrouvez les outils et informations essentielles à l’organisation de vos déplacements en Île-de-France. Ensemble, voyageons en toute simplicité.
-
-Évitez les files d’attente en station : achetez vos titres de transport depuis votre iPhone !
-Il est possible d’acheter les titres suivants :
-
-- Tickets Métro-Train-RER ou Ticket Bus-tram
-- Titres Paris Région Aéroports (ce titre ne peut être acheté lorsqu’un Ticket Métro-Train RER est déjà chargé sur votre support (passe Navigo ou iPhone)
-- Forfaits Navigo jour (ce titre ne permet pas de se rendre aux aéroports), semaine ou mois
-- Titres spéciaux (Forfait antipollution, Forfaits Paris Visite etc.)
-- Titres Vélib’ journaliers
-
-Les titres achetés peuvent ensuite être (en fonction du parcours d’achat choisi) :
-
-- Stockés sur l’iPhone et validé directement en station (à partir de l’iPhone Xr et à partir d'iOS 17.5)
-- Chargés sur votre passe Navigo (à partir d’un iPhone 7, disposant au minimum de la version iOS 13. Les iPhones XR et XS sont compatibles à partir d’iOS 14.5)
-
-Pour les titres compatibles (Tickets Métro-Train-RER ou Ticket Bus-Tram, forfaits Navigo Jour, titres spéciaux) aucun compte n’est nécessaire, et vous pouvez payer directement avec Apple Pay !
-
-Vous pouvez préparer et planifier vos déplacements :
-
-- Retrouver les arrêts de bus, gares et stations de métro proches de vous
-- Rechercher en temps réel vos itinéraires en transports en commun, en covoiturage et vélo
-- Enregistrer vos trajets à venir sur l’agenda de votre téléphone
-- Consulter les prochains passages de vos lignes en temps réel et l’ensemble des fiches horaires
-- Visualiser les plans des réseaux de transport en commun (accessibles même hors connexion)
-- Suivre l’itinéraire piéton pour les tronçons de marche
-
-Soyez le premier informé et anticipez les perturbations :
-
-- Consulter le fil Twitter de vos lignes pour connaitre l’info trafic en temps réel
-- Être alerté en cas de perturbations sur vos lignes et trajets favoris
-- Rester informé sur l’état des ascenseurs dans les stations empruntées
-
-Personnalisez vos déplacements :
-
-- Enregistrer vos destinations (travail, domicile, salle de sport…), stations et gares en favoris
-- Personnaliser votre profil (marcheur rapide, avec difficultés, mobilité réduite…)
-- Sélectionner les lignes ou stations à éviter
-
-Privilégiez des modes de transport doux ou alternatif :
-
-- Réservez vos trajets en covoiturage et/ou en autopartage, en partenariat avec les principaux acteurs
-- Préférez les itinéraires à vélo proposés pour tous vos trajets
-- Louez une voiture ou un utilitaire pour une courte durée en choisissant un véhicule d'autopartage Communauto parmi un large choix de stations autour de vous et réservez-le sans délai pour la durée de votre choix.
---
-Vous utilisez déjà l'application Île-de-France Mobilités et appréciez ses services ? Faites-le nous savoir avec 5 étoiles !
-Des bugs ou des remarques à nous faire remonter ? Aidez-nous à nous améliorer en nous envoyant vos suggestions depuis le formulaire de contact disponible via l'espace personnel.
-
-[View on Apple](https://apps.apple.com/fr/app/%C3%AEle-de-france-mobilit%C3%A9s/id484527651)
-
-<a id="alltrails-rando-sentiers-carte"></a>
-## AllTrails Rando Sentiers Carte
-
-![AllTrails Rando Sentiers Carte](../../logos/405075943-d2e3ee9d.png)
-
-Que vous préfériez la randonnée, le vélo ou la course à pied, AllTrails est votre  guide du plein air ultime. Consultez des avis détaillés et trouvez l'inspiration parmi notre communauté d'explorateurs comme vous. Nous vous aiderons à planifier, partager et profiter de vos aventures en plein air.
-
-AllTrails est bien plus qu'une simple application de sport. Nous vous permettons de découvrir des itinéraires adaptés aux chiens, aux poussettes ou aux fauteuils roulants et bien plus encore, et de les explorer encore mieux grâce à une navigation suivie.
-
-◆Découvrez des itinéraires : recherchez parmi plus de 500 000 itinéraires dans le monde entier, par lieu, point d'intérêt, niveau de difficulté et plus encore.
-◆ Préparez votre prochaine aventure : obtenez des informations détaillées sur les itinéraires, telles que les avis laissés, l'état des sentiers et les indications GPS, et sauvegardez vos itinéraires favoris pour plus tard.
-◆ Gardez le cap : suivez l'itinéraire prévu ou créez facilement votre propre parcours sur le moment avec votre téléphone ou votre appareil Wear OS. Utilisez Wear OS pour commencer et enregistrer toutes vos activités
-◆ Trouvez des points d'intérêt : découvrez des cascades, des sites historiques, des points de vue et plus encore, tout au long de l'itinéraire.
-◆ Faites grandir votre communauté : célébrez vos aventures en plein air et trouvez l'inspiration en communiquant avec des explorateurs comme vous.
-◆ Partagez vos aventures en plein air : publiez facilement vos itinéraires et activités sur Facebook, Instagram ou WhatsApp.
-◆ Enregistrez vos activités : sauvegardez vos statistiques, laissez des avis et publiez des photos de vos randonnées préférées.
-
-Découvrez des itinéraires qui vous correspondent, que vous soyez fan de fitness, de randonnée, de marche, de VTT, de course ou de cyclisme. Que vous poussiez vos limites ou une poussette, vous trouverez forcément un itinéraire qui correspond à vos besoins. Laissez AllTrails vous guider vers le parcours idéal pour vous.
-
-► Allez plus loin avec AllTrails Plus ►
-Passez moins de temps à chercher où vous voulez être et plus de temps à profiter de là où vous êtes. Avec nos cartes hors ligne, nos notifications de sortie d'itinéraire et d'autres fonctionnalités de sécurité et de planification, votre abonnement annuel vous offre plus d'outils pour plus d'aventures.
-
-◆ Recherchez par distance pour trouver les itinéraires les plus proches de vous.
-◆ Préparez-vous en consultant l'état du terrain, la météo, la qualité de l'air, l'index UV et plus.
-◆ Suivez le changement des conditions sur l'itinéraire selon l'heure de la journée.
-◆ Déconnectez-vous complètement en emportant une carte imprimée avec vous.
-◆ Explorez hors ligne en téléchargeant des cartes d'itinéraires, de parcs et de zones entières.
-◆ Partagez votre activité sur les sentiers en direct avec votre famille et vos amis.
-◆ Ne vous laissez pas surprendre par les montées : visualisez la carte topographique de votre itinéraire en 3D.
-◆ Admirez la vue sans vous soucier de garder un œil sur la carte grâce aux notifications de sortie d'itinéraire.
-◆ Donnez en retour : AllTrails reverse une portion de chaque abonnement à 1% for the Planet.
-◆ Explorez sans publicité : supprimez les publicités occasionnelles en vous abonnant.
-
-► Nouveau ! Explorez pleinement avec AllTrails Peak ►
-
-Profitez encore plus de chaque itinéraire grâce à notre tout nouvel abonnement premium. Créez votre propre tracé, prévoyez la météo et explorez les sentiers populaires, le tout avec les avantages hors ligne de Plus.
-
-◆ Dessinez votre propre itinéraire ou modifiez l'un des 500 000 déjà en ligne.
-◆ Découvrez quelles zones sont fréquentées ou non grâce à notre heatmap de la communauté.
-◆ Accédez également aux fonctionnalités Plus et Base.
-
-Que vous fassiez du géocaching dans un parc national, partiez en aventure VTT ou planifiez une course pour vous changer les idées, AllTrails Plus et Peak rendent les activités de plein air encore plus agréables.
-
-[View on Apple](https://apps.apple.com/fr/app/alltrails-rando-sentiers-carte/id405075943)
-
-<a id="discord-chat-jeux-de-tente"></a>
-## Discord - Chat, Jeux, Détente
-
-![Discord - Chat, Jeux, Détente](../../logos/985746746-161099ba.png)
-
-Discord est conçu pour le gaming, mais c'est aussi le moyen idéal pour simplement se détendre avec des amis ou créer une communauté. Personnalise ton propre espace et réunis tes amis pour discuter en jouant à tes jeux favoris, ou simplement pour passer du temps ensemble.
-
-DES GROUPES DE DISCUSSION POUR JOUER ET S'AMUSER
-∙ Discord est idéal pour jouer à des jeux et se détendre avec des amis, ou même pour créer une communauté mondiale. Personnalise ton propre espace pour discuter, jouer et y passer du temps.
-
-RENDS TES GROUPES DE DISCUSSION ENCORE PLUS FUN
-∙ Crée des émojis personnalisés, des autocollants, des effets de soundboard et plus encore pour ajouter une touche de ta personnalité à un chat vocal, vidéo ou textuel. Définis ton avatar et un état personnalisé, et rédige ton propre profil pour te présenter dans le chat comme tu le sens.
-
-STREAME COMME SI VOUS ÉTIEZ DANS LA MÊME PIÈCE
-∙ La haute qualité et le streaming à faible latence te donnent l'impression d'être tranquillement sur le canapé avec des amis pendant que tu joues à un jeu, que tu regardes des émissions ou des photos, ou je sais pas, que tu fais devoirs ou ce que tu veux !
-
-VIENS QUAND TU VEUX, PAS BESOIN D'APPELER
-∙ Rejoins ou quitte les chats vocaux ou textuels sans avoir à appeler ou inviter qui que ce soit, histoire que tu puisses discuter avec tes amis avant, pendant et après ta session de jeu.
-
-VOIS QUI EST DISPO POUR PAPOTER
-∙ Tu peux voir qui est là, qui joue à des jeux ou qui se détend, au calme ! Pour les jeux pris en charge, tu peux même voir à quels modes ou avec quels personnages tes amis jouent et les rejoindre directement.
-
-TOUJOURS UN TRUC À FAIRE ENSEMBLE
-∙ Regardez des vidéos, jouez à des jeux intégrés, écoutez de la musique ou scrollez ensemble pour spammer des mèmes ! Envoyez des messages, appelez, faites des chats vidéo et jouez à des jeux, tout ça dans un seul et même groupe de discussion.
-
-OÙ QUE TU JOUES, RETROUVE TES AMIS ICI
-∙ Sur ton PC, ton téléphone ou ta console, tu peux toujours venir sur Discord. Alterne facilement entre les appareils et utilise des outils intégrés pour gérer plusieurs groupes de discussion avec tes amis.
-
-[View on Apple](https://apps.apple.com/fr/app/discord-chat-jeux-d%C3%A9tente/id985746746)
-
-<a id="mon-e-leclerc"></a>
-## Mon E.Leclerc
-
-![Mon E.Leclerc](../../logos/756693888-36f97372.png)
-
-Découvrez l'application Mon E.Leclerc, votre assistant personnel de courses. Planifiez vos courses depuis votre smartphone : 
- 
-VOS TICKETS DE CAISSE TOUJOURS AVEC VOUS.
-Gardez une vue d'ensemble sur vos dépenses en retrouvant tous vos tickets de caisse dans votre application Mon E.Leclerc. Consultez l’historique de vos achats et générez une facture directement depuis votre application Mon E.Leclerc.
-
-
-
-VOS RÉDUCTIONS À PORTÉE DE MAIN
-Avec l’application Mon E.Leclerc, profitez d’encore plus d’avantages et de réductions personnalisées. Activez vos bons de réduction et ajoutez-les directement sur votre carte E.Leclerc pour faire le plein d’économies !
-
-
-
-VOTRE CARTE E.LECLERC DANS VOTRE MOBILE
-Créez ou ajoutez votre Carte E.Leclerc pour bénéficier de tous ses avantages. Ajoutez-y vos bons de réduction et suivez votre cagnotte directement depuis votre application. 
- 
-VOS CATALOGUES DANS VOTRE POCHE
-Désormais, vos promotions sont dans votre poche. Soyez informés en avant-première de nos offres et bons plans et ajoutez-les en un clic à votre mémo courses. Lors de votre passage en caisse, présentez votre carte E.Leclerc depuis votre application et le tour est joué !
-
-
-VOTRE LISTE DE COURSES
-Gagnez du temps pendant vos courses : parcourez vos catalogues, vos réductions et préparez votre mémo courses à l’avance sur votre application Mon E.Leclerc. Ajoutez-y vos promotions pour ne rien rater.
- 
-ACTUALITÉS DE VOTRE MAGASIN
-Consultez les informations liées à votre magasin (actualités, promotions, horaires d'ouvertures exceptionnelles, prix du carburant…) en temps réel !
-
-
-
-ET AUSSI… Profitez de jeux exclusifs pour cumuler toujours plus d’avantages !
-
-
-
-Téléchargez dès maintenant l’application Mon E.Leclerc et bénéficiez de tous ces avantages pour faire le plein d’économies !
-
-Accessibilité : partiellement conforme
-https://media.e.leclerc/LEN/document/D%C3%A9claration%20d%E2%80%99accessibilit%C3%A9_MON_LECLERC?vh=34ca8d&func=proxy
-
-[View on Apple](https://apps.apple.com/fr/app/mon-e-leclerc/id756693888)
-
-<a id="tiktok-videos-shop-und-live"></a>
-## TikTok - Videos, Shop und LIVE
-
-![TikTok - Videos, Shop und LIVE](../../logos/835599320-e7d1c80b.png)
-
-TikTok ist deine globale Video-Community für kurze und unterhaltsame Videos. Die Inhalte sind dabei auf dich zugeschnitten: Lass dich von spannenden Storys unterhalten, lerne fürs Leben und entdecke neue Talente in dir.
-Du kannst dabei auch selbst unvergessliche Momente hochladen und sie mit der Welt teilen. Mit einer großen Auswahl an Musik, Filtern und Stickern wird jede Aufnahme einzigartig – Deiner Kreativität sind keine Grenzen gesetzt!
-
-■ Schaue Millionen von Videos, basierend auf den Inhalten, die dir gefallen!
-■ Lass dich von unserer globalen TikTok-Community unterhalten und inspirieren!
-■ Mit unseren Edit-Tools kannst du Videoclips problemlos schneiden, zusammenfügen und duplizieren.
-■ Füge deinen Videos kostenlose Musikclips, Sounds und viele weitere Effekte hinzu!
-■ Livestreaming-Filter werden ständig mit neuen Designs aktualisiert.
-■ Stelle dich abwechslungsreichen Challenges und zeige, was in dir steckt!
-■ Hast du Feedback für uns? Kontaktiere uns unter https://www.tiktok.com/legal/report/feedback
-
-Erhalte Zugriff auf LIVE-Vorteile, um besser mit Hosts interagieren zu können!
-Du kannst dich für ein einmaliges Abonnement oder für ein Abonnement mit automatischer Verlängerung entscheiden, um in den Genuss besonderer LIVE-Vorteile zu kommen (derzeit nur in bestimmten Regionen verfügbar)
-
-Hinweis: 
-Wenn du das Abonnement über Apple abgeschlossen hast, wird dein mit deiner Apple-ID verknüpftes Konto nach der Bestätigung des Kaufs mit dem Kaufbetrag belastet. Dein Abonnement wird automatisch verlängert, sofern die automatische Verlängerung nicht mindestens 24 Stunden vor Ablauf des aktuellen Abonnementzeitraums deaktiviert wird. Dein Konto wird innerhalb von 24 Stunden vor Ablauf des aktuellen Abonnementzeitraums mit der für den verlängerten Tarif fälligen Gebühr belastet. Abonnements und automatische Verlängerungen können nach dem Kauf unter Kontoeinstellungen verwaltet werden.
-
-Nutzungsbedingungen —
-https://www.tiktok.com/legal/terms-of-service
-
-Datenschutzerklärung —
-https://www.tiktok.com/legal/privacy-policy
-
-[View on Apple](https://apps.apple.com/fr/app/tiktok-%C3%A7a-commence-avec-toi/id835599320)
+[View on Apple](https://apps.apple.com/fr/app/grand-frais/id6753673412)
 
 <a id="bump-va-voir-tes-amis-irl"></a>
 ## Bump - va voir tes amis IRL
@@ -2402,203 +2786,35 @@ Pour des questions, demandes de fonctionnalités ou du merch exclusif, envoie-no
 
 [View on Apple](https://apps.apple.com/fr/app/bump-va-voir-tes-amis-irl/id6471519217)
 
-<a id="parions-sport"></a>
-## Parions Sport
+<a id="discord-chat-jeux-de-tente"></a>
+## Discord - Chat, Jeux, Détente
 
-![Parions Sport](../../logos/496184783-1bf3c72f.png)
+![Discord - Chat, Jeux, Détente](../../logos/985746746-161099ba.png)
 
-◆ L’appli N°1 pour parier en point de vente (FDJ officiel) ◆
+Discord est conçu pour le gaming, mais c'est aussi le moyen idéal pour simplement se détendre avec des amis ou créer une communauté. Personnalise ton propre espace et réunis tes amis pour discuter en jouant à tes jeux favoris, ou simplement pour passer du temps ensemble.
 
-Pariez très simplement avec l’application Parions Sport : pas besoin de vous inscrire, préparez votre pari sportif quand vous le souhaitez, rendez-vous dans un point de vente et pariez en Cash ou CB.
+DES GROUPES DE DISCUSSION POUR JOUER ET S'AMUSER
+∙ Discord est idéal pour jouer à des jeux et se détendre avec des amis, ou même pour créer une communauté mondiale. Personnalise ton propre espace pour discuter, jouer et y passer du temps.
 
-En bref :
-• Accédez à des statistiques et discutez avec les autres parieurs sur notre forum pour préparer vos paris sportifs
-• Ajoutez vos paris dans votre panier, enregistrez vos QR codes et validez vos paris dans un point de vente FDJ
-• Consultez les résultats et découvrez vos gains potentiels
-• Et jouez en exclusivité à Loto Foot !
+RENDS TES GROUPES DE DISCUSSION ENCORE PLUS FUN
+∙ Crée des émojis personnalisés, des autocollants, des effets de soundboard et plus encore pour ajouter une touche de ta personnalité à un chat vocal, vidéo ou textuel. Définis ton avatar et un état personnalisé, et rédige ton propre profil pour te présenter dans le chat comme tu le sens.
 
-20 000 PARIS PAR JOUR
-Davantage de paris sportifs sont disponibles sur l’app que pour le bulletin papier. Un large choix de sports : foot, tennis, basket, rugby, hockey... mais aussi les plus grandes compétitions sportives : Ligue 1, Premier League, Liga, Ligue des Champions, Ligue Europa, MMA, Roland-Garros, NBA… et de paris : buteur, Mi-temps, Combi-bonus avec des cotes boostées
+STREAME COMME SI VOUS ÉTIEZ DANS LA MÊME PIÈCE
+∙ La haute qualité et le streaming à faible latence te donnent l'impression d'être tranquillement sur le canapé avec des amis pendant que tu joues à un jeu, que tu regardes des émissions ou des photos, ou je sais pas, que tu fais devoirs ou ce que tu veux !
 
-Un doute sur un pronostic ? Notre forum vous permet de discuter avec les autres parieurs pour profiter des meilleurs tips sur votre prochain pari sportif.
+VIENS QUAND TU VEUX, PAS BESOIN D'APPELER
+∙ Rejoins ou quitte les chats vocaux ou textuels sans avoir à appeler ou inviter qui que ce soit, histoire que tu puisses discuter avec tes amis avant, pendant et après ta session de jeu.
 
-LIVE SCORE 
-Pour suivre en direct les résultats de vos matchs pariés
+VOIS QUI EST DISPO POUR PAPOTER
+∙ Tu peux voir qui est là, qui joue à des jeux ou qui se détend, au calme ! Pour les jeux pris en charge, tu peux même voir à quels modes ou avec quels personnages tes amis jouent et les rejoindre directement.
 
-LOTO SPORTS EN EXCLUSIVITE
-Préparez aisément vos grilles Loto Foot, Loto Rugby ou Loto Basket, grâce notamment à la répartition des mises en temps réel, ou à l’estimateur de rapports pour estimer vos gains. Et suivez les résultats en direct.
+TOUJOURS UN TRUC À FAIRE ENSEMBLE
+∙ Regardez des vidéos, jouez à des jeux intégrés, écoutez de la musique ou scrollez ensemble pour spammer des mèmes ! Envoyez des messages, appelez, faites des chats vidéo et jouez à des jeux, tout ça dans un seul et même groupe de discussion.
 
-PARI GAGNE ?
-Partagez vos plus belles cotes ou votre grille Loto Foot en 1 clic ! Il est temps de montrer vos talents de parieur. 
+OÙ QUE TU JOUES, RETROUVE TES AMIS ICI
+∙ Sur ton PC, ton téléphone ou ta console, tu peux toujours venir sur Discord. Alterne facilement entre les appareils et utilise des outils intégrés pour gérer plusieurs groupes de discussion avec tes amis.
 
-27 000 POINTS DE VENTE FDJ
-Trouvez rapidement le point de vente autour de vous avec la carte des points de vente, et rendez-vous y avec l'itinéraire proposé.
-
-PARIONS STORE
-Découvrez notre collection de vêtements Parions Sport !
-
-Restons en contact :
-votreAvisAppliPSPDVNousInteresse@lfdj.com.
-Et si ça vous plaît et que vous voulez nous soutenir, laissez-nous 5 étoiles dans l'App Store :)
-
-Vous pouvez également nous suivre sur les réseaux sociaux :
-https://www.instagram.com/parionssport
-https://www.facebook.com/ParionsSport
-
-L'équipe Parions Sport
-
-+18 - Les jeux d'argents et de hasard sont interdits aux mineurs
-Jouer comporte des risques : endettement, isolement, dépendance. Pour être aidé appelez le 09-74-75-13-13 ou rendez-vous sur http://www.joueurs-info-service.fr/
-
-L'utilisation de l'application étant limitée aux territoires français et monégasque, nous vérifions votre localisation. Vous disposez d’un droit d’opposition pour des motifs légitimes que vous pouvez exercer en contactant le service client à cette adresse : Service Clients FDJ® TSA 36 707 95 905 CERGY PONTOISE Cedex 9.
-
-[View on Apple](https://apps.apple.com/fr/app/parions-sport/id496184783)
-
-<a id="doctolib-die-gesundheits-app"></a>
-## Doctolib - Die Gesundheits-App
-
-![Doctolib - Die Gesundheits-App](../../logos/925339063-25b8ada0.png)
-
-Doctolib - Ihr digitaler Gesundheitsbegleiter
-
-Verwalten Sie Ihre Gesundheit und die Ihrer Familie, jederzeit und von überall mit der Doctolib-App:
-
-• Finden Sie Arzttermine nach Fachgebiet und Standort bei zehntausenden medizinischen Fachkräften.
-• Schnell und jederzeit Ihre nächsten Arzttermine in der Doctolib-App buchen, beim Arzt vor Ort in Ihrer Nähe oder als Doctolib-Videosprechstunde.
-• Egal, ob gesetzlich oder privat versichert: Online-Arzttermine werden von allen gängigen Krankenkassen übernommen, wie z.B. Barmer, Techniker Krankenkasse oder AOK.
-• Senden Sie Nachrichten direkt per Chat an das Gesundheitsteam für Folgerezepte, Befunde oder sonstige Themen. 
-
-• Egal wo Sie sind: Mit der Videosprechstunde erhalten Sie eine flexible Versorgung für Ihre Gesundheit von überall:
-• Gewinnen Sie mehr Zeit: Lassen Sie sich bequem per Videosprechstunde behandeln und sparen Sie sich den Weg zu Ihrem Arzt.
-• Profitieren Sie von einer professionellen Behandlung: Bequem und sicher – ganz genau so, wie Sie es von einem Termin in der Praxis bei Ihrem Arzt kennen.
-
-• Gesundheitsmanagement der gesamten Familie: Fügen Sie Angehörige Ihrem Doctolib-Konto hinzu und verwalten Sie die Gesundheit und die Arzttermine Ihrer Familie.
-• Bewahren Sie Ihre Dokumente an einem Ort: Immer verfügbar, sicher und digital, wie z. B. E-Rezepte. Lösen Sie das E-Rezept ganz einfach in der Apotheke mit Ihrer Versichertenkarte oder der Gematik E-Rezept-App ein. 
-• Behalten Sie Ihre Gesundheit im Blick: Mit der Terminerinnerungsfunktion verpassen Sie keine Arzttermine mehr. 
-• Fügen Sie Ärzt:innen und Therapeut:innen zu Ihren Favoriten und teilen Sie diese mit Familie und Freunden.
-
-Mit Doctolib, Ihrem digitalen Gesundheitsbegleiter, verwalten Sie Ihre Gesundheit und Ihre Arzttermine digital in der Doctolib-App: Erhalten Sie Zugriff auf eine große Auswahl an Ärzt:innen und Gesundheitsexpert:innen:
-Verfügbare Fachrichtungen: Allergologe, Allgemeinmediziner, Augenarzt, Dermatologe, Ernährungsberater, Gastroenterologe, Gynäkologe, Hämatologe, Heilpraktiker, HNO-Arzt, Kardiologe, Kinderarzt, Logopäde, Nephrologe, Onkologe, Orthopäde, Osteopath, Physiotherapeut, Psychologe, Rheumatologe, Urologe, Zahnarzt etc.
-
-Für ein gesünderes Leben. Mehr als Arzttermine.
-Seit 2013 hat sich Doctolib einem einzigen Ziel verschrieben: Die Gesundheitsversorgung der Zukunft zu gestalten, gemeinsam mit Gesundheitsteams und Patient:innen. Doctolib unterstützt europaweit 410.000 Gesundheitsfachkräfte mit innovativen Technologien, verbessert ihren Arbeitsalltag und ermöglicht es ihnen, die bestmögliche Versorgung zu gewährleisten. Darüber hinaus hilft das Unternehmen 80 Millionen Menschen in ganz Europa, einen sicheren, vertraulichen und reibungslosen Zugang zur Gesundheitsversorgung zu erhalten – für ein gesünderes Leben.
-
-Doctolib – eines der führenden E-Health Unternehmen in Europa: 
-• 80 Millionen Patient:innen
-• 410.000 Ärzt:innen und Therapeut:innen
-
-Ihre Gesundheit. Ihre Daten.
-Die Vertraulichkeit Ihrer persönlichen Daten ist für Doctolib eine absolute Priorität und leitet unser tägliches Handeln. Erfahren Sie mehr darüber hier: https://about.doctolib.de/privatsphaere/
-
-Noch Fragen? Weitere Informationen erhalten Sie hier: https://www.doctolib.de/help
-
-Alle Informationen zu unseren Nutzungsbedingungen finden Sie hier: https://media.doctolib.com/image/upload/v1721138417/legal/C1_B2C-CU-Sep-23-DE_1.pdf
-
-[View on Apple](https://apps.apple.com/fr/app/doctolib-compagnon-de-sant%C3%A9/id925339063)
-
-<a id="dramabox-film-et-drame-court"></a>
-## DramaBox - Film et Drame Court
-
-![DramaBox - Film et Drame Court](../../logos/6445905219-24875e4d.png)
-
-Bienvenue sur DramaBox - Films et Drame, le monde des courts-métrages, la destination ultime pour un divertissement captivant! Avec DramaBox, vous plongerez dans un kaléidoscope d'émotions, d'histoires et de créativité. DramaBox est votre passeport pour regarder des milliers d'heures de courts-métrages exclusifs et originaux, couvrant une myriade de genres.              
-  
-- Genres divers, histoires illimitées          
-Immergez-vous dans un trésor de courts-métrages exclusifs, méticuleusement conçues pour répondre à tous les goûts. Des courts métrages romantiques aux courts métrages déchirants, DramaBox vous propose une vaste collection, garantissant que chacun y trouve son bonheur. Préparez-vous à un voyage à travers les frontières des mini-séries.
-
-- Libérez vos émotions           
-Que vous recherchiez de la joie, de l'émotion ou des sensations fortes, DramaBox est là pour vous. Nos courts-métrages sélectionnés avec soin sont conçus pour éveiller en vous une multitude d'émotions, offrant une expérience intense à travers une narration qui laisse un impact durable. Préparez-vous pour un tourbillon d'émotions à chaque clic et glissement.
-
-- Exclusivités originales 
-Explorez un monde de contenus que vous ne trouverez nulle part ailleurs. DramaBox est fier de vous présenter une gamme de courts-métrages exclusifs et originaux, dotés de perspectives nouvelles, de narrations uniques et d'une créativité incomparable. Plongez-vous dans des histoires riches et captivantes, où chaque court-métrage témoigne de l'art de raconter des histoires en toute simplicité.
-
-- Personnalisez votre expérience           
-Adaptez votre expérience de visionnage avec les fonctionnalités personnalisables de DramaBox. Ajustez les paramètres de lecture vidéo, explorez différents genres et organisez votre liste de surveillance pour créer un voyage personnalisé à travers le vaste paysage de bonnes vidéos courtes. Votre divertissement, à votre façon.
-
-- Regardez n'importe où et n'importe quand 
-Peu importe où vous vous trouvez, DramaBox est votre meilleur compagnon. Profitez du plaisir de regarder des courts-métrages n'importe où et n'importe quand. Que vous soyez en déplacement ou à la maison, il vous suffit d'un simple clic pour plonger dans un monde de mini-séries remplies de moments captivants.
-
-- Mises à jour régulières               
-Grâce aux mises à jour régulières du contenu de DramaBox, découvrez la joie de toujours trouver quelque chose de nouveau. Notre bibliothèque s'agrandit constamment, garantissant que chaque visite de l'application vous réserve de nouveaux courts-métrages excitants. Dites adieu à la monotonie et bonjour à un flux constant de courts-métrages passionnants.             
-
-DramaBox n'est pas seulement une application, c'est une véritable expérience.Embarquez pour un voyage dans le monde des courts-métrages, dont vous ne pourrez plus vous passer. DramaBox - Films et Théâtre propose certaines fonctionnalités gratuitement, mais pour une expérience plus immersive, pensez à vous abonner pour profiter d'offres exclusives.
-
-
-Note : Si vous vous abonnez via Apple, le paiement sera débité de votre compte App Store lorsque vous confirmerez votre achat. À moins que l'utilisateur ne désactive la fonction de renouvellement automatique au moins 24 heures avant la fin de la période d'abonnement en cours, l'abonnement sera automatiquement prolongé. Dans les 24 heures suivant la fin de la période d'abonnement en cours, le système facturera les frais de renouvellement du compte en fonction du prix du forfait sélectionné. Après avoir effectué l'achat, l'utilisateur peut gérer l'abonnement et le renouvellement automatique dans les paramètres du compte. 
-
-Politique de confidentialité : https://support.dramaboxdb.com/privacy.html 
-Conditions de service payantes de DramaBox : https://www.apple.com/legal/internet-services/itunes/dev/stdeula 
-Site web du développeur : https://dramaboxdb.com
-
-[View on Apple](https://apps.apple.com/fr/app/dramabox-film-et-drame-court/id6445905219)
-
-<a id="zalando-mode-fashion-online"></a>
-## Zalando Mode & Fashion online
-
-![Zalando Mode & Fashion online](../../logos/585629514-cc3bcc1b.png)
-
-Die Zalando App ist mit mehr als 6000 Marken deine erste Adresse für hochwertige Fashion- und Lifestyle-Brands. Hol dir Inspo für Outfits sowie Beauty- und Pflegeprodukte und genieße ein reibungsloses, stressfreies Shopping-Erlebnis – direkt auf deinem Handy.
-
-LASS DICH INSPIRIEREN
-• Folge deinen Lieblingscreators für Outfit- und Styling-Inspo
-• Lieblingsbrands folgen und neue Releases sowie exklusive Kollektionen zuerst shoppen
-• Erstelle und folge Boards mit Outfits, Videos und Produkten, die dich inspirieren – oder werde selbst zur Inspiration
-• Entdecke mit Trend Spotter, was in Europa gerade angesagt ist – und was man in Berlin, Paris und Mailand trägt
-• Live-Videos ansehen, Profi-Tipps holen, Produkt-How-tos entdecken und deine Favoriten direkt shoppen
-• Entdecke unsere Storys und hol dir deinen Style- und Culture-Guide – mit Formaten wie „Was zieh ich an?“ und den neuesten Infos zu großen Brand-Collabs
-• Speichere deine Favoriten auf der Wunschliste und verpasse keine Größen-Updates oder Preissenkungen
-
-ENTDECKE VIELFALT
-• Entdecke mehr als 11.000 Artikel von einer umfassenden Auswahl an Brands, darunter auch zeitlose Fashion-Favoriten
-• Tauche ein in unsere vielseitigen Kategorien: Bekleidung, Schuhe, Accessoires, Sport, Beauty & Hautpflege, Pre-owned Pieces und Kidswear
-• Erhalte Updates zu allem, was dich interessiert – von News und Trends bis zu Sales und Promo-Codes
-• Erfahre als Erstes von neuen Kollektionen und Produkt-Launches deiner Lieblingsbrands
-• Aktiviere Benachrichtigungen für deine Wunschliste und verpasse keine Preissenkung oder Wiederverfügbarkeit
-• Schenke Pre-owned Pieces ein neues Leben – mit unserer großen Auswahl an Kleidung, Accessoires und Boots – fast wie neu
-• Wähle deine bevorzugte Zahlungsmethode und freu dich auf eine Lieferung direkt bis an deine Haustür
-
-HIER WIRDS PERSÖNLICH
-• Erhalte persönliche Empfehlungen, die genau zu deinem Style passen – ganz ohne stundenlanges Browsen
-• Bewerte die Passform deiner Bestellungen und genieße individuelle Größenberatung beim Shoppen
-• Finde mit unserem Mess-Tool im Handumdrehen heraus, was wirklich passt
-• Probiere Outfits virtuell an und finde vor dem Bestellen heraus, wie sie sitzen
-• Hol dir jederzeit Style- und Outfittipps vom Zalando Assistant – deinem maßgeschneiderten, KI-gestützten Fashion-Begleiter für deine gesamte Shopping-Reise
-
-Bereit, die App zu entdecken?
-Shoppe deine Lieblingsbrands, sichere dir exklusive Vorteile und hol dir Inspiration und Empfehlungen, die genau zu dir passen.
-
-[View on Apple](https://apps.apple.com/fr/app/zalando-boutique-mode-en-ligne/id585629514)
-
-<a id="gmail-e-mail-von-google"></a>
-## Gmail – E-Mail von Google
-
-![Gmail – E-Mail von Google](../../logos/422689480-3e3ebe15.png)
-
-Mit der offiziellen Gmail App können Sie sich das Beste von Gmail auf Ihr iPhone oder iPad holen: hilfreiche KI-Funktionen, umfassender Schutz, Benachrichtigungen in Echtzeit, Unterstützung für mehrere Konten und die intelligente Suche im gesamten Posteingang.
-
-Vorteile der Gmail App:
-• Sie können Gmail auf iOS-Geräten als Standard-E-Mail-App festlegen.
-• Dank hilfreicher Infokarten bleiben Sie ganz einfach über die neuesten Pakete, anstehende Termine, Rechnungen und Reisedaten auf dem Laufenden.
-• Mit der integrierten E-Mail-Aboverwaltung lässt sich Ihr Posteingang übersichtlich halten.
-• Gemini* in Gmail kann für Sie lange E-Mails zusammenfassen, Antworten entwerfen oder verfeinern oder in Ihrem Posteingang nach Informationen suchen.
-• Sie können mehrere E-Mail-Konten von verschiedenen Anbietern verbinden und zwischen ihnen wechseln.
-• Über 99,9 % der Spam-, Phishing- und Malware-Inhalte werden automatisch blockiert – bevor sie Ihren Posteingang erreichen.
-• Mit Gemini in Gmail lassen sich Termine aus E-Mails schnell in Google Kalender eintragen.
-• Über den personalisierten Tab „Werbung“ finden Sie schneller die besten Angebote.
-• Sie können schneller auf E-Mails antworten – dank KI-basierter Antwortvorschläge, die sowohl den Kontext Ihrer E-Mails als auch Ihren individuellen Schreibstil und Ton berücksichtigen.
-• E-Mails lassen sich nach dem Senden bis zu 30 Sekunden lang zurückrufen, um Fehler zu vermeiden.
-• Sie können direkt auf Google Meet und Google Chat zugreifen – ohne Gmail zu verlassen.
-• Sie können Ihre E-Mails mit Labeln versehen, markieren, löschen und als Spam melden – so behalten Sie besser den Überblick.
-• Mithilfe der Wischgesten zum Archivieren oder Löschen lässt sich Ihr Posteingang schnell und einfach aufräumen.
-
-Gmail ist Teil von Google Workspace – Sie können sich also ganz leicht mit Ihrem Team austauschen und zusammenarbeiten. Dazu haben Sie folgende Möglichkeiten:
-• Mit Kolleginnen und Kollegen über Google Meet oder Google Chat in Kontakt bleiben, Einladungen in Google Kalender senden, Aufgabenlisten erstellen und mehr – viele alltägliche Aufgaben lassen sich direkt in Gmail erledigen.
-• Mit den Funktionen von Gemini in Gmail wie „Formuliere für mich“, „Antwortvorschläge“, „Übersichten mit KI“ und „Korrekturlesen“ erhalten Sie einen besseren Überblick über Ihre Arbeit und können Routineaufgaben schneller abschließen und effizienter sein.
-• Umfassender Schutz: Mit unseren Modellen für maschinelles Lernen werden über 99,9 % der Spam-, Phishing- und Malware-Inhalte blockiert – noch bevor sie Ihren Posteingang erreichen.
-
-* Zur Nutzung einiger Gemini-Funktionen ist ein Abo für Google One AI erforderlich. Es ist eine Internetverbindung erforderlich. Die Verfügbarkeit variiert je nach Sprache und Land. Antworten sollten auf ihre Richtigkeit geprüft werden.
-
-[View on Apple](https://apps.apple.com/fr/app/gmail-la-messagerie-google/id422689480)
+[View on Apple](https://apps.apple.com/fr/app/discord-chat-jeux-d%C3%A9tente/id985746746)
 
 <a id="paypal-geld-senden-verwalten"></a>
 ## PayPal: Geld senden, verwalten
@@ -2636,263 +2852,6 @@ ZAHLUNGEN BEQUEM  ZENTRAL VERWALTEN
 Verwalte deine Abonnements und wiederkehrenden Zahlungen direkt in der PayPal-App.
 
 [View on Apple](https://apps.apple.com/fr/app/paypal-transfert-dargent/id283646709)
-
-<a id="amazon-prime-video"></a>
-## Amazon Prime Video
-
-![Amazon Prime Video](../../logos/545519333-861c01d2.png)
-
-Sehen Sie Filme, Serien und Sportübertragungen, darunter Amazon Originals wie The Boys, The Marvelous Mrs. Maisel und Tom Clancy’s Jack Ryan oder unsere Empfehlungen speziell für Sie.
-
-App-Funktionen:
-• Videos herunterladen und offline ansehen
-• Neue Filme und beliebte Serien kaufen oder leihen (Verfügbarkeit abhängig vom jeweiligen Marktplatz)
-• Videos mit Chromecast vom Smartphone oder Tablet auf den großen Bildschirm übertragen
-• Individuelle Unterhaltungserlebnisse durch Profile für mehrere Benutzer
-• Blick hinter die Kulissen von Filmen und Serien mit exklusivem X-Ray-Zugang und IMDb
-• Separate tvOS-App herunterladen (erfordert Apple TV, 3. Generation oder neuer) und Sendungen auf Apple TV ansehen
-
-Die Prime Video-App ist jetzt auf Mac verfügbar, wenn Sie die separate macOS-App herunterladen (erfordert macOS Big Sur 11.4 oder höher).
-
-Wenn Sie eine Amazon Prime Video-Mitgliedschaft über iTunes abschließen (sofern verfügbar), wird die Zahlung nach der Bestätigung der Registrierung über Ihr iTunes-Konto abgewickelt. Ihre Mitgliedschaft wird automatisch verlängert, falls die automatische Verlängerung nicht mindestens 24 Stunden vor dem Ende des entsprechenden Abrechnungszeitraums deaktiviert wird. Ihr Konto wird jeweils innerhalb von 24 Stunden vor Ende des Abrechnungszeitraums mit dem Preis des gewählten Pakets belastet. Verwalten Sie Ihre Mitgliedschaft jederzeit über iTunes oder "Mein Konto". Dort können Sie auch die automatische Verlängerung deaktivieren.
-
-Für Kunden in der Europäischen Union, Großbritannien oder Brasilien: Durch die Verwendung dieser App stimmen Sie den Nutzungsbedingungen von Amazon sowie den Nutzungsbedingungen von Prime Video zu, die hier zu finden sind: www.primevideo.com/ww-av-legal-home. Unsere Datenschutzerklärung, unsere Cookie-Richtlinien und unsere Hinweise zu interessenbasierter Werbung können Sie hier nachlesen: www.primevideo.com/ww-av-legal-home. 
- 
-Für alle anderen Kunden: Durch die Verwendung dieser App stimmen Sie den Nutzungsbedingungen und der Datenschutzerklärung von Amazon sowie den Nutzungsbedingungen von Prime Video zu, die hier zu finden sind: www.primevideo.com/ww-av-legal-home.
-
-[View on Apple](https://apps.apple.com/fr/app/amazon-prime-video/id545519333)
-
-<a id="action"></a>
-## Action
-
-![Action](../../logos/1531860284-ed112b7f.png)
-
-Dank der Action App hast du jetzt rund um die Uhr Zugriff auf all die tollen Dinge, für die du normalerweise in die Action-Filiale gehst. Sichere dir die Pole-Position, was die aktuellsten Wochenangebote und neuesten Produkte betrifft. Sobald du etwas siehst, das dir gefällt oder das du brauchst, kannst du es gleich auf deine ganz persönliche Einkaufsliste setzen! Auf diese Weise vergisst du nie wieder etwas bei deinem Shopping-Erlebnis bei Action. Das willst du dir nicht entgehen lassen? Dann lade dir schnell App herunter und lass dich von den vielen tollen und nützlichen Funktionen überraschen!
-
-*Alles von Action stets zur Hand 
-*Die Action App hält dich immer auf dem Laufenden und versorgt dich mit den neuesten Infos zu all den fantastischen Angeboten und Produkten, die du von Action gewohnt bist. So bist du unter den Ersten, die von unseren aufregendsten Wochenangeboten, neuesten Produkten und aktuellsten Neuigkeiten erfahren.
-
-*Aufregende Produkte, speziell für dich ausgewählt
-*Gib in der App deine Interessen an, damit Action dir die Produkte zeigen kann, die am besten zu dir passen. 
-
-*Erstelle eine Liste mit deinen Lieblingsprodukten
-*Bei so vielen überraschenden Produkten vergisst man schon mal, was man eigentlich gesucht hat.  Setze die Artikel, die du brauchst, auf deine Einkaufsliste, damit dir das so schnell nicht mehr passiert. Das Beste daran: Du kannst dir die Einkaufsliste auf jedem deiner Geräte anzeigen lassen.
-
-* Verwende den praktischen Produktscanner für mehr Informationen 
-*Du willst mehr über ein bestimmtes Produkt erfahren? Dann kannst du dein Handy mithilfe der App im Handumdrehen in einen Scanner verwandeln. Auf diese Weise gelangst du in der Filiale (oder zu Hause) genau an die Informationen, die du suchst. 
-
-*Alle deine Kassenbons digital und an einem Ort 
-*Ab jetzt findest du alle deine Kassenbons von Action übersichtlich in deiner App gelistet. Scanne beim Einkaufen deine digitale Kundenkarte, dann erscheint der digitale Kassenbon automatisch in der App.
-
-Lass dich von über 6.000 Artikeln inspirieren
-Beginne in aller Ruhe deine Entdeckungsreise durch die App und lass dich von den mehr als 6.000 Artikeln überraschen, die dir Action jeden Tag bietet. Du wirst staunen, wie viel es zu entdecken gibt!
-
-[View on Apple](https://apps.apple.com/fr/app/action/id1531860284)
-
-<a id="seloger-location-achat-immo"></a>
-## SeLoger location & achat immo
-
-![SeLoger location & achat immo](../../logos/326883014-ed9d4b9a.png)
-
-SeLoger est l’application incontournable pour louer, acheter ou vendre un bien immobilier en France – rapidement, facilement et avec la puissance de l’IA. Que vous cherchiez un appartement, une maison, une colocation ou un garage, SeLoger vous propose un large choix de biens à louer ou à acheter. Trouvez votre appartement, maison ou logement idéal à la location ou à la vente en France avec SeLoger.
-
-Points forts de l’application SeLoger :
-
-• Parcourez un large choix de biens : appartements, maisons, studios et plus encore
-• Recherchez sur la carte ou en liste, et affinez avec des filtres personnalisés
-• Enregistrez vos recherches et recevez des alertes instantanées
-• Regroupez vos annonces préférées dans le mémo
-• Comparez les prix et estimez gratuitement la valeur d’un bien
-• Déposez votre annonce en quelques secondes et contactez des acheteurs immédiatement
-• Gérez vos annonces et trouvez des agences immobilières facilement
-
-Biens immobiliers à louer
-Notre puissant moteur de recherche vous aide à trouver rapidement votre prochain appartement, maison, studio ou logement à louer parmi la plus grande sélection de biens immobiliers en France. Recevez des alertes en temps réel pour les nouveaux biens correspondant à vos critères de recherche et enregistrez vos annonces préférées pour les consulter rapidement et facilement. Des descriptions détaillées et des visites virtuelles vous donnent une vision claire des biens qui vous intéressent.
-
-Biens à vendre
-Parcourez la plus grande sélection de logements à vendre en France, maisons, appartements, terrains, bureaux, magasins et garages, grâce à notre moteur de recherche avancé. Que vous soyez à la recherche d'une maison familiale ou d'un appartement moderne, trouvez votre bien idéal en seulement quelques clics.
-
-Enregistrez vos annonces préférées, créez des alertes personnalisées et facilitez votre achat immobilier. Utilisez notre calculatrice de prêt immobilier pour estimer vos mensualités et décider en toute connaissance de cause de votre investissement immobilier.
-
-Vendre un bien
-Mettez votre bien en vente rapidement et entrez en contact avec des acheteurs potentiels grâce à l'application SeLoger, optimisée pour faciliter le processus de vente. Accédez à vos annonces et gérez-les sans effort, communiquez avec les acheteurs et concluez la transaction rapidement grâce à nos outils dédiés.
-
-Évaluer le prix des biens
-Évaluez rapidement la valeur de votre propriété et obtenez des conseils pour mieux vendre grâce à notre outil d'évaluation en ligne gratuit. Vous obtiendrez une estimation précise en fonction de l'emplacement, de la surface et des caractéristiques de votre bien. Comparez les prix de vente récents de logements similaires dans votre région pour affiner votre estimation.
-
-Explorez l'espace Mon Propriétaire mis à jour, où vous pouvez suivre, gérer et recevoir des conseils pour votre projet. Louez et vendez votre bien gratuitement sur SeLoger.
-
-Prêt à trouver votre futur logement en France ? Téléchargez SeLoger et commencez votre recherche dès maintenant !
-
-N'oubliez pas de nous suivre sur les réseaux sociaux pour les dernières mises à jour et les actualités immobilières :
-
-• Facebook: @SeLoger
-• Twitter/X: @SeLoger
-• Instagram: @seloger
-
-SeLoger, MySeLogerPro, Immowelt, Immonet, Immoweb, Meilleurs Agents, Belles Demeures, LogicImmo et Yad2 font partie du groupe AVIV, l'une des plus grandes sociétés immobilières technologiques numériques dans le monde, avec une forte présence en Europe.
-
-Vous pouvez nous partager votre expérience en nous laissant un avis sur l'Apple App Store. Si vous avez des questions supplémentaires, n'hésitez pas à nous contacter à l'adresse mobile@seloger.com.
-
-*En nombre de monthly active user - data.ai, décembre 2024
-
-[View on Apple](https://apps.apple.com/fr/app/seloger-location-achat-immo/id326883014)
-
-<a id="planity"></a>
-## Planity
-
-![Planity](../../logos/1434056190-bcc21813.png)
-
-Planity, c’est l’application qui simplifie votre quotidien et qui révolutionne vos prises de rendez-vous beauté en ligne.
-Alors que nos modes de vie sont de plus en plus intenses, prendre soin de soi est devenu un besoin essentiel.
-Gagnez du temps en prenant rendez-vous dans l’un de nos établissements beauté partenaire, en quelques clics et 7j/7.
-
-Rapide, immédiat et 24h/24.
-
-Vous n’avez pas eu le temps de faire votre manucure ou votre brushing ? Vous souhaitez vous faire plaisir avec un soin du visage ? Ou vous avez besoin d’un rafraîchissement et vous cherchez le meilleur barbier à proximité ?
-Nous avons pris le soin de sélectionner les meilleurs professionnels de la beauté, partout en France.
-
-• 15 millions d’utilisateurs actifs,
-• 60 000 établissements de beauté référencés partout en France, Belgique et Allemagne
-• Une fiche détaillée incluant les prestations, les tarifs, les disponibilités et les photos de vos établissements préférés,
-• Des sms de rappel pour éviter l’oubli de vos rendez-vous,
-• Un espace personnel pour gérer, déplacer ou annuler vos rendez-vous en quelques clics.
-
-« L’Application beauté MUST-HAVE » selon ELLE magazine.
-Déjà plus de 400 millions de rendez-vous pris.
-Laissez Planity prendre soin de vous.
-
-[View on Apple](https://apps.apple.com/fr/app/planity/id1434056190)
-
-<a id="indeed-jobs"></a>
-## Indeed Jobs
-
-![Indeed Jobs](../../logos/309735670-7328d118.png)
-
-Finden Sie passende Jobs mit der kostenlosen Indeed-App – überall und jederzeit.
-
-Ihre App für die Jobsuche: Mit 12 neuen Stellenanzeigen pro Sekunde und intelligenten Suchfiltern für passende Stellen finden Sie Ihren nächsten Job im Handumdrehen.
-
-Ob Sie nur gelegentlich oder sehr dringend suchen, auf Indeed finden Sie alle passenden Stellen an einem einzigen Ort. Dank unserer erweiterten Funktionen können Sie Jobs nach Ihren Vorstellungen finden und sich unkompliziert über jedes Ihrer Geräte bewerben. 
-
-• Finden Sie passende Jobs in unserer umfassenden Datenbank, darunter auch Stellenanzeigen von anderen Online-Jobseiten, und erhalten Sie Job-Vorschläge basierend auf Ihren Präferenzen und Ihrer Berufserfahrung.
-
-• Laden Sie Ihren Lebenslauf hoch, oder erstellen Sie einen auf Indeed, um sich von Ihrer besten Seite zu zeigen und von Arbeitgebern gefunden zu werden.
-
-• Legen Sie einen Indeed Lebenslauf an, um ihn bei jeder Bewerbung sofort parat zu haben.
-
-• Lassen Sie sich benachrichtigen, wenn Arbeitgeber Ihre Bewerbung auf Indeed gelesen und beantwortet haben.
-
-• Erfahren Sie in über 700 Millionen Unternehmensratings und -bewertungen, was Mitarbeiter*innen über ihre Arbeitgeber denken. 
-
-• Erhalten Sie noch vor der Bewerbung Einblick in das Gehalt – dank 1,1 Mrd. nach Jobtitel, Unternehmen und Arbeitsort durchsuchbaren Gehaltsangaben.
-
-• Finden Sie flexible Jobs mit unseren intelligenten Suchfiltern für Remote- und Homeoffice-Jobs, Nebenjobs, freie Mitarbeit, Beamten-Jobs, Teilzeit-Jobs und weitere Kriterien.
-
-Mit unserer Jobsuche-App können Sie sich von der Bewerbung bis zum Vorstellungsgespräch von Ihrer besten Seite zeigen, egal in welcher Phase Ihrer Karriere Sie sich befinden. Wir stehen Ihnen dabei zur Seite.
-
-Mit dem Download dieser App stimmen Sie den Richtlinien zur Verwendung von Cookies, der Datenschutzerklärung und den Nutzungsbedingungen von Indeed zu, die Sie unter www.indeed.com/legal abrufen können. Sie können jederzeit von Ihrem Recht Gebrauch machen, der rechtmäßigen Nutzung Ihrer personenbezogenen Daten zu Marketingzwecken zu widersprechen. Außerdem stimmen Sie mit dem Download dieser App zu, dass Indeed alle Ihre Aktivitäten in der App sowie alle Interaktionen und Kontakte, die Sie mit, in oder über diese App pflegen, verarbeiten, analysieren und erfassen darf. Wir tun dies, um das Nutzererlebnis zu optimieren und die gewünschte Funktionsweise der App herzustellen. Damit wir Ihnen bestimmte Dienste zur Verfügung stellen und die Anzeigenzuordnung unterstützen können, werden Nutzerdaten wie die IP-Adresse oder andere eindeutige Kennzeichner sowie Ereignisdaten, die im Zusammenhang mit der Installation der Indeed-App stehen, beim Download oder der Installation der App möglicherweise an unsere Dienstleister weitergegeben.
-Dies wird aufgrund des berechtigten Interesses von Indeed so gehandhabt, damit wir sämtliche Vorgänge auf Kundenseite nachvollziehen und optimieren können, indem wir
-
-• besser verstehen, wie Nutzer*innen auf unsere Website gelangen
-• die Ergebnisse unserer Anzeigen besser messen
-• Nutzer*innen in bestimmten Fällen die Anmeldung über Drittanbieterkonten ermöglichen
-• besser nachvollziehen, wann Nutzer*innen über ein anderes Gerät auf Indeed zugreifen
-
-Wir freuen uns über Feedback: ios@indeed.com.
-
-Meine personenbezogenen Daten dürfen nicht verkauft werden: https://www.indeed.com/legal/ccpa-dns
-
-[View on Apple](https://apps.apple.com/fr/app/indeed-recherche-demploi/id309735670)
-
-<a id="too-good-to-go-essen-retten"></a>
-## Too Good To Go: Essen retten
-
-![Too Good To Go: Essen retten](../../logos/1060683933-84ee091d.png)
-
-Too Good To Go ist dein einfacher Weg, leckere Lebensmittel zu genießen und gleichzeitig Gutes für die Umwelt zu tun. Die #1-App zur Reduzierung von Lebensmittelverschwendung hilft dir, leckere, überschüssige Snacks, Mahlzeiten und Lebensmittel von Läden, Cafés, Supermärkten, Restaurants und Co. in deiner Nähe zu retten – und das zu großartigen Preisen. 
-
-Jedes Jahr werden 40 % der produzierten Lebensmittel verschwendet. Wenn du Lebensmittelverschwendung reduzierst, hilfst du, den Klimawandel einzudämmen (tgtg.to/claims). So sicherst du dir mit Too Good To Go nicht nur preiswerte Mahlzeiten und Lebensmittel, sondern hilfst gleichzeitig mit jeder geretteten Überraschungstüte, den Planeten zu retten. Gemeinsam können wir einen Unterschied bewirken.
- 
-SO FUNKTIONIERT TOO GOOD TO GO:
-
-ENTDECKE DAS ANGEBOT IN DEINER NÄHE
-Lade die App herunter, um auf der Karte Restaurants, Cafés, Bäckereien, Supermärkte und mehr in der Nähe zu finden, die gutes Essen zu einem tollen Preis anbieten.
-
-RETTE DEINE ÜBERRASCHUNGSTÜTE ODER TOO GOOD TO GO PAKET
-Entdecke eine Vielzahl von Überraschungstüten, die mit leckeren, überschüssigen Lebensmitteln gefüllt sind – von Sushi, Pizza und Burger bis hin zu Obst und Gemüse. Du willst dir Produkte deiner Lieblingsmarken lieber liefern lassen? Rette ein Too Good To Go Paket zu einem großartigen Preis, das mit Produkten deiner Lieblingsbrands gefüllt ist. 
-
-BEZAHLBARE MAHLZEITEN
-Rette eine Überraschungstüte oder ein Too Good To Go Paket zu 50% des Preises oder weniger. 
-
-RESERVIERE DEINEN FAVORITEN
-Bestätige den Kauf über die App, um deine Überraschungstüte zu reservieren und die leckere Mahlzeit vor der Verschwendung zu retten. Indem du Lebensmittel rettest, sparst du Geld und trägst dazu bei, Lebensmittelverschwendung zu reduzieren.
-
-GENIESSEN
-Hol deine Überraschungstüte zur vereinbarten Zeit ab oder lass dir dein Too Good To Go Paket direkt nach Hause liefern.
-
- WARUM TOO GOOD TO GO?:
-
-BUDGETFREUNDLICHER GENUSS
-Genieße gute Mahlzeiten zu erschwinglichen Preisen, die sowohl deinen Gaumen als auch deinen Geldbeutel zufriedenstellen.
-
-VIELFALT UND AUSWAHL
-Too Good To Go arbeitet mit einer großen Auswahl an lokalen Favoriten und bekannten Marken zusammen, die alles von Sushi, Pizza, Backwaren und frischen Lebensmitteln bis hin zu leicht lagerbaren Grundnahrungsmitteln wie Snacks, Getränken, Süßigkeiten oder Pasta anbieten.
-
-AUSWIRKUNGEN AUF DIE UMWELT
-Jede gerettete Mahlzeit vermeidet CO2e-Emissionen und die unnötige Nutzung von Wasser und landwirtschaftlicher Fläche (tgtg.to/claims). Indem du  Lebensmittel vor der Verschwendung rettest, machst du einen Schritt in Richtung eines grüneren Planeten. 
-
-EINFACHE ABWICKLUNG
-Die einfache und benutzerfreundliche Oberfläche der App erleichtert dir das Durchsuchen, Auswählen und Speichern von Überraschungstüten oder Too Good To Go Paketen.
-
-BEQUEMLICHKEIT
-Hol deine Überraschungstüte zur vereinbarten Zeit ab oder lass dir ein Too Good To Go Paket direkt nach Hause liefern.
-
-WERDE TEIL DER TOO GOOD TO GO COMMUNITY
-Werde Teil der Community von Foodies, die durch die Reduzierung von Lebensmittelverschwendung einen positiven Einfluss auf die Umwelt ausüben. Lade jetzt die App herunter und fang an, Lebensmittelverschwendung zu reduzieren – eine Überraschungstüte nach der anderen. 
-Lebensmittelverschwendung zu reduzieren hilft, den Klimawandel einzudämmen. Erfahre mehr unter tgtg.to/claims. Für weitere Informationen besuche tgtg.to/claims.
-
-[View on Apple](https://apps.apple.com/fr/app/too-good-to-go-pas-de-gaspi/id1060683933)
-
-<a id="commerce-b2b-avec-alibaba"></a>
-## Commerce B2B avec Alibaba
-
-![Commerce B2B avec Alibaba](../../logos/503451073-8816673b.png)
-
-Qu'est-ce qu'Alibaba.com ?
-Alibaba.com est l'un des principaux marchés mondiaux de commerce électronique B2B. Notre application vous permet de vous approvisionner en produits auprès de fournisseurs mondiaux, le tout depuis le confort de votre appareil mobile.
-
-Achetez en toute confiance
- Notre service d'assurance protège vos commandes et vos paiements sur la plateforme, vous permettant d'acheter en toute sécurité et facilement avec une assistance étendue.
-
-Produits personnalisables
- Rencontrez des fournisseurs avec des années d'expérience dans la personnalisation et l'exécution des commandes pour les vendeurs sur Amazon, eBay, Wish, Etsy, Mercari, Lazada, etc. 
-
-Approvisionnement facile
- Découvrez des millions de produits prêts à expédier dans toutes les catégories de l'industrie. Dites aux fournisseurs ce dont vous avez besoin et obtenez rapidement des devis grâce aux services de demande de devis.
-
-Expédition rapide
- Alibaba.com s'associe aux principaux transitaires pour fournir des solutions de transport terrestre, maritime et aérien avec des services de livraison ponctuels, un suivi de bout en bout et des prix compétitifs.
-
-Diffusions en direct et visites d'usine
-Interagissez avec les fabricants en temps réel via des démonstrations de produits et des visites d'usines, fournissant un aperçu et une surveillance de la fabrication de vos produits.
-
-Catégories populaires et salons professionnels
- Trouvez une large gamme d'articles populaires - des biens de consommation tendance aux matières premières - et rejoignez nos salons professionnels annuels pour découvrir des produits de niche et des remises.
-
-Contrôle de qualité
-Choisissez les services de surveillance et d'inspection de la production d'Alibaba.com pour réduire les retards de production et les risques de qualité.
-
-Réductions et promotions
- Débloquez de nouvelles remises et promotions des fabricants et fournisseurs en vedette.
-
-Restez à jour
- Utilisez l'application Alibaba.com pour rester à jour sur les nouveaux produits et les promotions de vos fournisseurs préférés.
-
-Prise en charge des langues et des devises
- Alibaba.com prend en charge 18 langues et 54 devises locales. Utilisez notre traducteur en temps réel pour communiquer avec les vendeurs dans votre langue maternelle.
-
-[View on Apple](https://apps.apple.com/fr/app/commerce-b2b-avec-alibaba/id503451073)
 
 <a id="free"></a>
 ## Free
@@ -2950,159 +2909,106 @@ L’app vous plaît ? N’hésitez pas à la noter 5 étoiles ainsi qu’à no
 
 [View on Apple](https://apps.apple.com/fr/app/free/id1643534870)
 
-<a id="vpn-super-unlimited-proxy-tm"></a>
-## VPN - Super Unlimited Proxy ™
+<a id="dramabox-film-et-drame-court"></a>
+## DramaBox - Film et Drame Court
 
-![VPN - Super Unlimited Proxy ™](../../logos/1370293473-6bbbb2c3.png)
+![DramaBox - Film et Drame Court](../../logos/6445905219-24875e4d.png)
 
-Kostenloses VPN für iPhone und iPad – schützen Sie Ihre Privatsphäre in WLAN und Hotspots!
+Bienvenue sur DramaBox - Films et Drame, le monde des courts-métrages, la destination ultime pour un divertissement captivant! Avec DramaBox, vous plongerez dans un kaléidoscope d'émotions, d'histoires et de créativité. DramaBox est votre passeport pour regarder des milliers d'heures de courts-métrages exclusifs et originaux, couvrant une myriade de genres.              
+  
+- Genres divers, histoires illimitées          
+Immergez-vous dans un trésor de courts-métrages exclusifs, méticuleusement conçues pour répondre à tous les goûts. Des courts métrages romantiques aux courts métrages déchirants, DramaBox vous propose une vaste collection, garantissant que chacun y trouve son bonheur. Préparez-vous à un voyage à travers les frontières des mini-séries.
 
-- Express Lightning Speed 10G-Server machen dies zur schnellen VPN-Wahl für Streaming
-- Globale Abdeckung: 700+ Server in 53+ Ländern (auch für VPN kostenlose Nutzer!)
-- Keine Logs-Politik: Wir verfolgen oder speichern Ihre Online-Aktivitäten nicht
-- Benutzerfreundlich: Einmal tippen zum Verbinden – keine Registrierung erforderlich
-- Plattformübergreifend: iPhone, iPad, iPod, Apple Vision und Mac mit iOS 11.0+
-- Keine Zeitlimits, Datenbegrenzungen oder Bandbreitenrestriktionen
-- 256-Bit-Verschlüsselung wpn schützt Ihre Aktivitäten und Ihren Standort
-- VPN kostenlos blockiert das Tracking Ihrer iPhone-Browsing-Gewohnheiten
-- WiFi Guardian: Kostenlose VPN-Schutz für Passwörter in öffentlichen Netzwerken
-- Zugang zu sozialen Medien, Messaging und Streaming-Diensten: Tiktok (tik tok), Netflix, HBO, Hulu, Youtube und Youtube TV, Facebook, Instagram, Spotify, Snapchat, X (Twitter), Reddit, Discord, Steam, Telegram (Телеграм ВПН), vk ВПН und mehr wpn Optionen.
-- Optimierung Ihres Spielerlebnisses: Verringern Sie die Latenz bei Ponor of Kings, Genshin Impact, Minecraft, Pokémon GO, Rise of Kingdoms, Clash of Kings, PUBG Mobile, Call of Duty (COD): Mobile, Fortnite, Mobile Legends: Bang Bang, Free Fire, Roblox, Apex Legends Mobile, Arena of Valor, League of Legends (LOL): Wild Rift, Diablo Immortal, Brawl Stars, Subway Surfers, Among Us, Clash Royale, State of Survival, Lords Mobile, Evony: The King's Return, und anderen Spielen.
+- Libérez vos émotions           
+Que vous recherchiez de la joie, de l'émotion ou des sensations fortes, DramaBox est là pour vous. Nos courts-métrages sélectionnés avec soin sont conçus pour éveiller en vous une multitude d'émotions, offrant une expérience intense à travers une narration qui laisse un impact durable. Préparez-vous pour un tourbillon d'émotions à chaque clic et glissement.
 
-■ Was können Sie mit dem VPN - Super Unlimited Proxy Free VPN iPhone / iPad tun?
+- Exclusivités originales 
+Explorez un monde de contenus que vous ne trouverez nulle part ailleurs. DramaBox est fier de vous présenter une gamme de courts-métrages exclusifs et originaux, dotés de perspectives nouvelles, de narrations uniques et d'une créativité incomparable. Plongez-vous dans des histoires riches et captivantes, où chaque court-métrage témoigne de l'art de raconter des histoires en toute simplicité.
 
-- Anonym bleiben: Surfen Sie mit vollständigem Datenschutz
-- Erhöhte Sicherheit: Verschlüsseln Sie Verbindungen in öffentlichen WiFi-Netzen und Hotspots
-- Schutz der Identität: Verbergen Sie Ihre echte IP-Adresse und Ihren Standort
-- iOS-Datenschutz: free VPN-Schutz für iPhone und iPad, auf den Sie sich verlassen können
-- Vollständiger iOS-Schutz: VPN kostenlos schützt persönliche Daten auf allen Apple-Geräten
-- Schulzugriffs-Lösung: Umgehen Sie Einschränkungen mit unserem BPN für sichereres Surfen
+- Personnalisez votre expérience           
+Adaptez votre expérience de visionnage avec les fonctionnalités personnalisables de DramaBox. Ajustez les paramètres de lecture vidéo, explorez différents genres et organisez votre liste de surveillance pour créer un voyage personnalisé à travers le vaste paysage de bonnes vidéos courtes. Votre divertissement, à votre façon.
 
-■ Serverstandorte weltweit:
+- Regardez n'importe où et n'importe quand 
+Peu importe où vous vous trouvez, DramaBox est votre meilleur compagnon. Profitez du plaisir de regarder des courts-métrages n'importe où et n'importe quand. Que vous soyez en déplacement ou à la maison, il vous suffit d'un simple clic pour plonger dans un monde de mini-séries remplies de moments captivants.
 
-Wählen Sie aus über 700+ Servern in 53+ Ländern, einschließlich:
+- Mises à jour régulières               
+Grâce aux mises à jour régulières du contenu de DramaBox, découvrez la joie de toujours trouver quelque chose de nouveau. Notre bibliothèque s'agrandit constamment, garantissant que chaque visite de l'application vous réserve de nouveaux courts-métrages excitants. Dites adieu à la monotonie et bonjour à un flux constant de courts-métrages passionnants.             
 
-- Asien: Singapur, Südkorea, Japan, Hongkong, Indonesien, Indien, Israel, Kasachstan, Taiwan, Vietnam, Türkei
-- Europa: Bulgarien, Schweiz, Tschechien, Deutschland, Dänemark, Estland, Spanien, Finnland, Frankreich, Vereinigtes Königreich, Griechenland, Kroatien, Ungarn, Irland, Island, Italien, Litauen, Luxemburg, Lettland, Moldawien, Niederlande, Norwegen, Polen, Portugal, Rumänien, Serbien, Russische Föderation, Slowakei, Schweden, Ukraine
-- Nord Amerika VPN: USA, Kanada, Mexiko
-- Südamerika: Brasilien, Chile, Kolumbien, Peru
-- Afrika: Ägypten, Südafrika
+DramaBox n'est pas seulement une application, c'est une véritable expérience.Embarquez pour un voyage dans le monde des courts-métrages, dont vous ne pourrez plus vous passer. DramaBox - Films et Théâtre propose certaines fonctionnalités gratuitement, mais pour une expérience plus immersive, pensez à vous abonner pour profiter d'offres exclusives.
 
-■ Einfache Preisoptionen
 
-Während unser kostenloser von-Service außergewöhnliche Leistungen bietet, können Sie für noch mehr Funktionen upgraden:
+Note : Si vous vous abonnez via Apple, le paiement sera débité de votre compte App Store lorsque vous confirmerez votre achat. À moins que l'utilisateur ne désactive la fonction de renouvellement automatique au moins 24 heures avant la fin de la période d'abonnement en cours, l'abonnement sera automatiquement prolongé. Dans les 24 heures suivant la fin de la période d'abonnement en cours, le système facturera les frais de renouvellement du compte en fonction du prix du forfait sélectionné. Après avoir effectué l'achat, l'utilisateur peut gérer l'abonnement et le renouvellement automatique dans les paramètres du compte. 
 
-- Free VPN-Plan: Unbegrenzter Zugang mit grundlegenden Funktionen
-- Premium-Pläne (werbefrei, 10G-Server und mehr):
-- -  Wöchentlich: $9.99/Woche
-- - Monatlich: $11.99/Monat (7-Tage-Test)
-- - Jährlich: $79.99/Jahr (7-Tage-Test)
+Politique de confidentialité : https://support.dramaboxdb.com/privacy.html 
+Conditions de service payantes de DramaBox : https://www.apple.com/legal/internet-services/itunes/dev/stdeula 
+Site web du développeur : https://dramaboxdb.com
 
-Kein Aufwand oder unnötige Datenmengen: Unsere VPN-Lösung für iPad und iPhone bietet rundum Schutz.
+[View on Apple](https://apps.apple.com/fr/app/dramabox-film-et-drame-court/id6445905219)
 
-■ Welches VPN-Protokoll sollte ich verwenden?
+<a id="microsoft-authenticator"></a>
+## Microsoft Authenticator
 
-- Auto (Empfohlen): Intelligente Protokollwahl
-- Manuelle Optionen: OpenVPN, IKEv2
+![Microsoft Authenticator](../../logos/983156458-9c5a13c6.png)
 
-■ Datenschutzerklärung
+Verwenden Sie Microsoft Authenticator, um sich über die Multi-Faktor-Authentifizierung oder eine kennwortlose Anmeldung einfach und sicher bei all Ihren Onlinekonten anzumelden oder AutoAusfüllen für Kennwörter zu nutzen. Darüber hinaus stehen Ihnen zusätzliche Kontoverwaltungsoptionen für Ihre persönlichen Microsoft-Konten und Ihre Geschäfts-, Schul- oder Unikonten zur Verfügung.
 
-Im Gegensatz zu Diensten, die Ihre Daten durchsuchen wie ein Hai oder im Dunkeln lauern, verpflichtet sich VPN Super Unlimited Proxy zu absoluter Privatsphäre mit Null-Protokollen.
-Links zu unseren Nutzungsbedingungen und der Datenschutzerklärung finden Sie unten:
+Erste Schritte mit der Multi-Faktor-Authentifizierung
 
-- Datenschutzerklärung: https://www.vpnsuper.com/privacy-notice
-- Nutzungsbedingungen: https://www.vpnsuper.com/terms-of-service
+Durch die Multi-Faktor-Authentifizierung (MFA) wird eine zweite Sicherheitsebene bereitgestellt. Wenn aktiviert, werden Sie bei der Anmeldung nach dem Sie Ihr Kennwort eingegeben haben dazu aufgefordert, mithilfe einer zusätzlichen Methode nachzuweisen, dass es sich wirklich um Sie handelt. Sie können hierzu entweder die an Microsoft Authenticator gesendete Nachricht genehmigen oder das von der App generierte Einmalkennwort eingeben. Das Einmalkennwort ist 30 Sekunden lang gültig. Diese zeitliche begrenzte Gültigkeitsdauer stellt sicher, dass Sie nie dasselbe Einmalkennwort zweimal verwenden und sich die Zahl merken müssen. Für das Einmalkennwort ist keine Netzwerkverbindung erforderlich, und es belastet den Akku nicht. Sie können Ihrer App mehrere Konten hinzufügen, darunter auch Nicht-Microsoft-Konten wie Facebook, Amazon, Dropbox, Google, LinkedIn, GitHub und andere.
 
-Laden Sie noch heute die beste free VPN iPhone und iPad herunter und erleben Sie grenzenlose Freiheit im Internet!
+Erste Schritte mit der kennwortlosen Anmeldung
 
-[View on Apple](https://apps.apple.com/fr/app/vpn-super-unlimited-proxy/id1370293473)
+Verwenden Sie anstelle eines Kennworts Ihr Telefon für die Anmeldung bei Ihrem Microsoft-Konto. Geben Sie lediglich Ihren Benutzernamen ein, und genehmigen Sie dann die Benachrichtigung, die an Ihr Telefon gesendet wird. Ihr Fingerabdruck, Face ID oder eine PIN stellen bei dieser zweistufigen Verifizierung die zweite Sicherheitsebene dar. Nach der Anmeldung mithilfe der zweistufigen Authentifizierung (2FA) haben Sie Zugriff auf all Ihre Microsoft-Produkte und -Dienste, beispielsweise Outlook, OneDrive, Office usw.
 
-<a id="grand-frais"></a>
-## Grand Frais
+Erste Schritte mit dem AutoAusfüllen von Kennwörtern
 
-![Grand Frais](../../logos/6753673412-f272fa93.png)
+Die Microsoft Authenticator-App kann auch für das automatische Ausfüllen von Kennwörtern genutzt werden. Melden Sie sich in der Authenticator-App auf der Registerkarte "Kennwörter" mit Ihrem persönlichen Microsoft-Konto an, um die Kennwortsynchronisierung (in Microsoft Edge gespeicherte Kennwörter eingeschlossen) zu starten. Legen Sie Microsoft Authenticator als Standardanbieter für das AutoAusfüllen von Kennwörtern fest, und starten Sie das AutoAusfüllen von Kennwörtern für Apps und Websites, die Sie auf Ihrem mobilen Gerät nutzen oder besuchen. Ihre Kennwörter werden mithilfe der Multi-Faktor-Authentifizierung in der App geschützt. Sie müssen Ihre Identität per Fingerabdruck, Face ID oder PIN nachweisen, um auf Ihrem mobilen Gerät auf Kennwörter zuzugreifen und das AutoAusfüllen für Kennwörter zu nutzen. Sie haben außerdem die Möglichkeit, Kennwörter aus Google Chrome und anderen Kennwort-Managern zu importieren.
 
-L’APP QUI VOUS RECOMPENSE
+Persönliche Microsoft-Konten, Geschäfts-, Schul- oder Unikonten
 
-Pour rendre chaque visite dans votre magasin Grand Frais encore plus savoureuse, scannez simplement votre QR code en caisse, depuis « Ma carte » dans l’application et laissez la magie opérer : 
+Gelegentlich kann es vorkommen, dass Sie durch Ihren Arbeitgeber oder Ihre Schule/Universität aufgefordert werden, Microsoft Authenticator zu installieren, wenn Sie auf bestimmte Dateien der Organisation zugreifen. Sie müssen Ihr Gerät über die App bei Ihrer Organisation registrieren und Ihr Geschäfts-, Schul- oder Unikonto hinzufügen. Microsoft Authenticator unterstützt die zertifikatbasierte Authentifizierung durch das Ausstellen eines Zertifikats auf Ihrem Gerät. Auf diese Weise weiß Ihre Organisation, dass die Anmeldeanforderung von einem vertrauenswürdigen Gerät stammt, und Sie erhalten nahtlosen und sicheren Zugriff auf zusätzliche Microsoft-Apps und -Dienste, ohne sich immer wieder neu anmelden zu müssen.
 
-• Des cadeaux et récompenses toute l'année
-• Le Panier Gourmand : tentez de gagner un panier rempli de vos produits préférés ! Le Grand Jeu : chaque semaine, un tirage au sort exceptionnel pour gagner un lot qui mettra des étoiles dans votre cuisine.
-• Des promotions exclusives : chaque semaine, bénéficiez de promos et offres réservées aux membres de l'APP Grand Frais.
+[View on Apple](https://apps.apple.com/fr/app/microsoft-authenticator/id983156458)
 
-L’APP QUI VOUS DIVERTIT
+<a id="commerce-b2b-avec-alibaba"></a>
+## Commerce B2B avec Alibaba
 
-Réveillez le joueur qui est en vous !
-Quiz gourmands : devenez experts de vos produits préférés avec nos quiz gourmands et tentez de gagner des récompenses
-Sac'célère : jouez au premier jeu en ligne Grand Frais et tentez de remporter des bons d’achat
+![Commerce B2B avec Alibaba](../../logos/503451073-8816673b.png)
 
-L’APP QUI VOUS FACILITE LE QUOTIDIEN
+Qu'est-ce qu'Alibaba.com ?
+Alibaba.com est l'un des principaux marchés mondiaux de commerce électronique B2B. Notre application vous permet de vous approvisionner en produits auprès de fournisseurs mondiaux, le tout depuis le confort de votre appareil mobile.
 
-L'application vous simplifie les courses et votre quotidien en cuisine. 
-• Tickets de caisse : retrouvez tous nos conseils sur vos produits préférés en 1 clic depuis votre ticket de caisse sur l’app.
-• Produits : tous les secrets de vos produits préférés et des conseils pour les cuisiner !
-• Liste de courses : les ingrédients de vos recettes favorites ou de vos envies du moment pour ne rien oublier en magasin.
-• Recettes : trouvez toute l’inspiration avec les recettes Grand Frais. Appuyez sur play et laissez-vous guider étape par étape. Entrée, plat, dessert ? Toutes les recettes dans votre poche.
-• Informations magasins : consultez les horaires et infos de votre magasin Grand Frais le plus proche et les promotions du moment.
+Achetez en toute confiance
+ Notre service d'assurance protège vos commandes et vos paiements sur la plateforme, vous permettant d'acheter en toute sécurité et facilement avec une assistance étendue.
 
-TOUT LE MEILLEUR DE VOTRE MARCHÉ GRAND FRAIS
+Produits personnalisables
+ Rencontrez des fournisseurs avec des années d'expérience dans la personnalisation et l'exécution des commandes pour les vendeurs sur Amazon, eBay, Wish, Etsy, Mercari, Lazada, etc. 
 
-Retrouvez dans l'application l'esprit de nos halles et la passion de nos professionnels pour les bons produits.
-Fruits et Légumes : la fraîcheur et la variété au rythme des saisons.
-Épiceries d'ici et d'ailleurs : pour faire voyager vos papilles.
-Fromagerie : un savoir-faire unique pour des fromages et des produits laitiers de caractère.
-Boucherie : des viandes de qualité préparées et conseillées par de vrais artisans.
-Poissonnerie : les trésors de la mer, sélectionnés pour leur fraîcheur incomparable.
+Approvisionnement facile
+ Découvrez des millions de produits prêts à expédier dans toutes les catégories de l'industrie. Dites aux fournisseurs ce dont vous avez besoin et obtenez rapidement des devis grâce aux services de demande de devis.
 
-MAINTENANT, VOUS SAVEZ TOUT SUR L’APP QUI REGALE
+Expédition rapide
+ Alibaba.com s'associe aux principaux transitaires pour fournir des solutions de transport terrestre, maritime et aérien avec des services de livraison ponctuels, un suivi de bout en bout et des prix compétitifs.
 
-Trouvez l'inspiration en cuisine pour tous vos repas, de l'entrée au dessert. Téléchargez l'application Grand Frais dès maintenant. Le meilleur de vos courses vous attend !
+Diffusions en direct et visites d'usine
+Interagissez avec les fabricants en temps réel via des démonstrations de produits et des visites d'usines, fournissant un aperçu et une surveillance de la fabrication de vos produits.
 
-[View on Apple](https://apps.apple.com/fr/app/grand-frais/id6753673412)
+Catégories populaires et salons professionnels
+ Trouvez une large gamme d'articles populaires - des biens de consommation tendance aux matières premières - et rejoignez nos salons professionnels annuels pour découvrir des produits de niche et des remises.
 
-<a id="youtube"></a>
-## YouTube
+Contrôle de qualité
+Choisissez les services de surveillance et d'inspection de la production d'Alibaba.com pour réduire les retards de production et les risques de qualité.
 
-![YouTube](../../logos/544007664-2e995546.png)
+Réductions et promotions
+ Débloquez de nouvelles remises et promotions des fabricants et fournisseurs en vedette.
 
-Hol dir die offizielle YouTube App auf iPhones und iPads und entdecke angesagte Videos weltweit – von den coolsten Musikvideos bis hin zu Hits in Sachen Gaming, Fashion, Beauty, Nachrichten, Bildung und mehr. Du kannst deine Lieblingskanäle abonnieren, eigene Inhalte erstellen sowie Videos mit Freunden teilen und auf allen Geräten wiedergeben.
+Restez à jour
+ Utilisez l'application Alibaba.com pour rester à jour sur les nouveaux produits et les promotions de vos fournisseurs préférés.
 
-Ansehen und abonnieren
-● Auf dem Tab „Start“ findest du persönliche Empfehlungen.
-● Unter „Abos“ siehst du die neuesten Uploads von deinen Lieblingskanälen.
-● Die „Mediathek“ enthält die Videos, die du dir angesehen, mit „Mag ich“ bewertet und für später gespeichert hast.
+Prise en charge des langues et des devises
+ Alibaba.com prend en charge 18 langues et 54 devises locales. Utilisez notre traducteur en temps réel pour communiquer avec les vendeurs dans votre langue maternelle.
 
-Verschiedene Themen, angesagte Inhalte sowie aufstrebende Creator, Gamer und Künstler entdecken
-(in ausgewählten Ländern verfügbar)
-● Du kannst dich in Bereichen wie Musik, Gaming, Beauty, Nachrichten und Bildung auf dem Laufenden halten.
-● Auf dem Tab „Entdecken“ siehst du, was auf YouTube und weltweit gerade im Trend liegt.
-● Du erfährst mehr über aufstrebende Creator, Gamer und Künstler (in ausgewählten Ländern verfügbar).
-
-Mit der YouTube-Community in Kontakt bleiben
-● Über Beiträge, Stories, Premieren und Livestreams kannst du immer mitverfolgen, was es bei deinen Lieblings-Creatorn gerade Neues gibt.
-● In den Kommentaren kannst du dich mit Creatorn und anderen Community-Mitgliedern austauschen.
-
-Inhalte über dein Mobilgerät erstellen
-● Du kannst direkt in der App eigene Videos erstellen oder hochladen.
-● Mit Livestreams direkt über die Appkannst du in Echtzeit mit deinen Zuschauern in Kontakt treten.
-
-Die passende Lösung für dich und deine Familie finden (in ausgewählten Ländern verfügbar)
-● Jede Familie nutzt Onlinevideos anders. Unter youtube.com/myfamily findest du weitere Informationen zur YouTube Kids App und zu den neuen YouTube-Konten mit Elternaufsicht.
-
-Upgrade auf YouTube Premium durchführen (in ausgewählten Ländern verfügbar)
-● Du kannst dir Videos ansehen, während du andere Apps verwendest oder dein Bildschirm gesperrt ist –ganz ohne Werbeunterbrechungen.
-● Du kannst Videos speichern und jederzeit abspielen – auch im Flugzeug oder auf dem
-Weg zur Arbeit.
-● Die Mitgliedschaft beinhaltet außerdem den Zugriff auf YouTube Music Premium.
-
-Hinweis: Bei einem Abo über Apple wird dein App Store-Konto in dem Moment mit dem fälligen Betrag belastet, in dem du den Kauf bestätigst. Das Abo wird automatisch verlängert, wenn die automatische Verlängerung nicht bis spätestens 24 Stunden vor Ablauf des aktuellen Abozeitraums deaktiviert wird.
-Die Gebühren für die Verlängerung des Abos werden am letzten Gültigkeitstag des laufenden Abos entsprechend dem gewählten Tarif in Rechnung gestellt. Du kannst deine Abos und die Einstellungen
-für die automatische Verlängerung nach dem Kauf in den Kontoeinstellungen ändern.
-
-Nutzungsbedingungen für kostenpflichtige Dienste von YouTube: https://www.youtube.com/t/terms_paidservice.
-Datenschutzerklärung: https://www.google.com/policies/privacy
-
-[View on Apple](https://apps.apple.com/fr/app/youtube/id544007664)
+[View on Apple](https://apps.apple.com/fr/app/commerce-b2b-avec-alibaba/id503451073)
 
 <a id="whatsapp-messenger"></a>
 ## WhatsApp Messenger
@@ -3150,37 +3056,6 @@ En savoir plus sur la sécurité sur WhatsApp : https://www.whatsapp.com/securit
 
 [View on Apple](https://apps.apple.com/fr/app/whatsapp-messenger/id310633997)
 
-<a id="l-identite-nume-rique-la-poste"></a>
-## L’Identité Numérique La Poste
-
-![L’Identité Numérique La Poste](../../logos/1434857287-b91ab905.png)
-
-L’IDENTITÉ NUMÉRIQUE LA POSTE, C’EST COMME PRÉSENTER VOTRE PIÈCE D’IDENTITÉ AVEC VOTRE SMARTPHONE
-- Prouvez votre identité sur des centaines de services en ligne et libérez-vous de vos multiples comptes et mots de passe à gérer.
-
-- Utilisez FranceConnect avec votre Identité Numérique La Poste et accédez à des démarches en ligne nécessitant la certitude que c’est bien vous et uniquement vous derrière la démarche en cours.  
-- Retirez votre colis en Bureau de Poste en ouvrant simplement votre application Identité Numérique La Poste sur votre smartphone.
-Ce service simple, sécurisé et gratuit vous fait gagner du temps et vous protège au quotidien.
- 
-COMMENT CRÉER VOTRE IDENTITÉ NUMÉRIQUE LA POSTE ?
-Vous êtes majeur.e, possédez une pièce d'identité française en cours de validité et disposez d'un smartphone compatible ? Téléchargez notre application et suivez les étapes de création OU rendez-vous en bureau de poste pour créer votre Identité Numérique avec un chargé de clientèle.
- 
-OÙ UTILISER L’IDENTITÉ NUMÉRIQUE LA POSTE ?
-Vous pouvez utiliser votre Identité Numérique La Poste pour accéder à plus de 1400 services publics et privés en ligne via le portail FranceConnect : services publics, fournisseurs d’énergie, banques, mutuelles, services postaux, et bien d’autres.
- 
-COMMENT UTILISER L’IDENTITÉ NUMÉRIQUE LA POSTE ?
-A chaque fois que vous vous rendez sur un site proposant de vous connecter avec L’Identité Numérique La Poste :
-1 - Cliquez sur le bouton L'Identité Numérique La Poste ;
-2 - Saisissez vos identifiants ;
-3 - Confirmez que c'est bien vous qui vous connectez en validant la demande de connexion sur l'application L'Identité Numérique.
-L'Identité Numérique La Poste repose sur la combinaison unique de votre identifiant, votre application mobile et votre code secret. Cette procédure d'authentification forte permet de garantir vos accès en s'assurant que c'est bien vous qui êtes à l'origine de la demande de connexion. Avec La Poste, L'Identité Numérique c'est plus simple, plus sûre et plus pratique.
- 
-SOYEZ VIGILANT, NE COMMUNIQUEZ JAMAIS VOTRE CODE SECRET OU N’ACTIVEZ JAMAIS VOTRE IDENTITÉ NUMÉRIQUE SI QUELQU’UN VOUS LE DEMANDE EN FACE À FACE, PAR TÉLÉPHONE OU PAR MAIL.
-- La Poste ne réalise pas de démarchage téléphonique pour inciter à la création d’Identité Numérique ou pour proposer un accompagnement à la création d’une Identité Numérique.
-- La Poste ne vous demandera jamais le code confidentiel de votre Identité Numérique. Ne confiez jamais votre code confidentiel à un inconnu, votre Identité Numérique est personnelle.
-
-[View on Apple](https://apps.apple.com/fr/app/lidentit%C3%A9-num%C3%A9rique-la-poste/id1434857287)
-
 <a id="blablacar-bus-train-covoit"></a>
 ## BlaBlaCar : Bus, Train, Covoit
 
@@ -3210,132 +3085,226 @@ Une idée, une suggestion ? Partagez votre avis avec nous : https://www.blablaca
 
 [View on Apple](https://apps.apple.com/fr/app/blablacar-bus-train-covoit/id341329033)
 
-<a id="temu-achats-et-mode-en-ligne"></a>
-## Temu : Achats et Mode en Ligne
+<a id="too-good-to-go-essen-retten"></a>
+## Too Good To Go: Essen retten
 
-![Temu : Achats et Mode en Ligne](../../logos/1641486558-a6d81be5.png)
+![Too Good To Go: Essen retten](../../logos/1060683933-84ee091d.png)
 
-Visitez Temu pour des offres exclusives. 
+Too Good To Go ist dein einfacher Weg, leckere Lebensmittel zu genießen und gleichzeitig Gutes für die Umwelt zu tun. Die #1-App zur Reduzierung von Lebensmittelverschwendung hilft dir, leckere, überschüssige Snacks, Mahlzeiten und Lebensmittel von Läden, Cafés, Supermärkten, Restaurants und Co. in deiner Nähe zu retten – und das zu großartigen Preisen. 
 
-Quels que soient vos désirs, Temu a ce qu'il vous faut, mode, décoration intérieure, DIY, produits de beauté, vêtements, chaussures, et plus encore.
+Jedes Jahr werden 40 % der produzierten Lebensmittel verschwendet. Wenn du Lebensmittelverschwendung reduzierst, hilfst du, den Klimawandel einzudämmen (tgtg.to/claims). So sicherst du dir mit Too Good To Go nicht nur preiswerte Mahlzeiten und Lebensmittel, sondern hilfst gleichzeitig mit jeder geretteten Überraschungstüte, den Planeten zu retten. Gemeinsam können wir einen Unterschied bewirken.
+ 
+SO FUNKTIONIERT TOO GOOD TO GO:
 
-Téléchargez Temu aujourd'hui et profitez d'offres incroyables tous les jours.
+ENTDECKE DAS ANGEBOT IN DEINER NÄHE
+Lade die App herunter, um auf der Karte Restaurants, Cafés, Bäckereien, Supermärkte und mehr in der Nähe zu finden, die gutes Essen zu einem tollen Preis anbieten.
 
-PROMOS EXCEPTIONNELLES D'OUVERTURE
-Achetez des cadeaux pour vous et vos proches. Profitez de jusqu'à -90% !
+RETTE DEINE ÜBERRASCHUNGSTÜTE ODER TOO GOOD TO GO PAKET
+Entdecke eine Vielzahl von Überraschungstüten, die mit leckeren, überschüssigen Lebensmitteln gefüllt sind – von Sushi, Pizza und Burger bis hin zu Obst und Gemüse. Du willst dir Produkte deiner Lieblingsmarken lieber liefern lassen? Rette ein Too Good To Go Paket zu einem großartigen Preis, das mit Produkten deiner Lieblingsbrands gefüllt ist. 
 
-GRANDE SÉLECTION
-Découvrez des milliers de nouveaux produits et boutiques.
+BEZAHLBARE MAHLZEITEN
+Rette eine Überraschungstüte oder ein Too Good To Go Paket zu 50% des Preises oder weniger. 
 
-PRATIQUE
-Paiement rapide et sécurisé.
-Livraison et retours gratuits sous 90 jours.
-*D'autres conditions peuvent s'appliquer.
+RESERVIERE DEINEN FAVORITEN
+Bestätige den Kauf über die App, um deine Überraschungstüte zu reservieren und die leckere Mahlzeit vor der Verschwendung zu retten. Indem du Lebensmittel rettest, sparst du Geld und trägst dazu bei, Lebensmittelverschwendung zu reduzieren.
 
-Visitez temu.com ou suivez-nous sur :
-Instagram: https://www.instagram.com/temu/
-TikTok: https://www.tiktok.com/@temu 
-Facebook: https://www.facebook.com/shoptemu
-Youtube: https://www.youtube.com/@temu
+GENIESSEN
+Hol deine Überraschungstüte zur vereinbarten Zeit ab oder lass dir dein Too Good To Go Paket direkt nach Hause liefern.
 
-[View on Apple](https://apps.apple.com/fr/app/temu-achats-et-mode-en-ligne/id1641486558)
+ WARUM TOO GOOD TO GO?:
 
-<a id="hacoo-discovering-inspiring"></a>
-## Hacoo - Discovering &Inspiring
+BUDGETFREUNDLICHER GENUSS
+Genieße gute Mahlzeiten zu erschwinglichen Preisen, die sowohl deinen Gaumen als auch deinen Geldbeutel zufriedenstellen.
 
-![Hacoo - Discovering &Inspiring](../../logos/1399907836-ede00be7.png)
+VIELFALT UND AUSWAHL
+Too Good To Go arbeitet mit einer großen Auswahl an lokalen Favoriten und bekannten Marken zusammen, die alles von Sushi, Pizza, Backwaren und frischen Lebensmitteln bis hin zu leicht lagerbaren Grundnahrungsmitteln wie Snacks, Getränken, Süßigkeiten oder Pasta anbieten.
 
-Hacoo est une communauté de partage de contenu innovante et ouverte où nous nous engageons à créer un espace interactif diversifié, fiable et dynamique pour nos utilisateurs. Ici, vous pouvez vous exprimer librement, partager votre vie et vous connecter avec des amis partageant les mêmes idées ainsi qu'avec un vaste marché.
+AUSWIRKUNGEN AUF DIE UMWELT
+Jede gerettete Mahlzeit vermeidet CO2e-Emissionen und die unnötige Nutzung von Wasser und landwirtschaftlicher Fläche (tgtg.to/claims). Indem du  Lebensmittel vor der Verschwendung rettest, machst du einen Schritt in Richtung eines grüneren Planeten. 
 
-**Partagez votre belle vie**
-Que vous soyez un passionné de mode, un explorateur de voyages, un amateur de gastronomie ou quelqu'un qui aime capturer et partager des moments uniques de la vie quotidienne, Hacoo permet à vos moments précieux de devenir une source d'inspiration pour les autres. Cela vous offre également une richesse de contenu pour vous aider à trouver des amis partageant les mêmes intérêts.
+EINFACHE ABWICKLUNG
+Die einfache und benutzerfreundliche Oberfläche der App erleichtert dir das Durchsuchen, Auswählen und Speichern von Überraschungstüten oder Too Good To Go Paketen.
 
-**Examen et confiance**
-Sur Hacoo, vous pouvez évaluer des produits, des marques et même des services, en partageant vos expériences et idées personnelles. Cela fournit des références fiables aux autres utilisateurs et favorise l’établissement d’un climat de confiance, garantissant que chacun puisse trouver les choix qui lui conviennent le mieux.
+BEQUEMLICHKEIT
+Hol deine Überraschungstüte zur vereinbarten Zeit ab oder lass dir ein Too Good To Go Paket direkt nach Hause liefern.
 
-**Ouvrir les connexions**
-Fidèle à sa philosophie ouverte, Hacoo vise à faciliter les connexions et les interactions libres entre les utilisateurs. Nous créons des canaux de liaison faciles pour chaque utilisateur, vous permettant de vous connecter sans effort avec les autres et d'étendre votre influence. Nous aidons les utilisateurs à trouver des produits et services adaptés et aidons les marques et les entreprises à élargir leur portée.
+WERDE TEIL DER TOO GOOD TO GO COMMUNITY
+Werde Teil der Community von Foodies, die durch die Reduzierung von Lebensmittelverschwendung einen positiven Einfluss auf die Umwelt ausüben. Lade jetzt die App herunter und fang an, Lebensmittelverschwendung zu reduzieren – eine Überraschungstüte nach der anderen. 
+Lebensmittelverschwendung zu reduzieren hilft, den Klimawandel einzudämmen. Erfahre mehr unter tgtg.to/claims. Für weitere Informationen besuche tgtg.to/claims.
 
-Hacoo simplifie le partage et renforce les liens, alors que nous explorons les possibilités infinies de la vie avec vous.
+[View on Apple](https://apps.apple.com/fr/app/too-good-to-go-pas-de-gaspi/id1060683933)
 
-[View on Apple](https://apps.apple.com/fr/app/hacoo-discovering-inspiring/id1399907836)
+<a id="parions-sport"></a>
+## Parions Sport
 
-<a id="charge-e-lec-e-leclerc"></a>
-## Charge E-Lec - E.Leclerc
+![Parions Sport](../../logos/496184783-1bf3c72f.png)
 
-![Charge E-Lec - E.Leclerc](../../logos/6744098315-a44c79d5.png)
+◆ L’appli N°1 pour parier en point de vente (FDJ officiel) ◆
 
-L'application Charge E-Lec est conçue pour accompagner les conducteurs de véhicules électriques vers une mobilité durable et accessible. Accédez à notre réseau de bornes de recharge et profitez de la simplicité d'utilisation alliée à la puissance du prix E.Leclerc.
+Pariez très simplement avec l’application Parions Sport : pas besoin de vous inscrire, préparez votre pari sportif quand vous le souhaitez, rendez-vous dans un point de vente et pariez en Cash ou CB.
 
-POURQUOI CHOISIR CHARGE E-LEC ?
+En bref :
+• Accédez à des statistiques et discutez avec les autres parieurs sur notre forum pour préparer vos paris sportifs
+• Ajoutez vos paris dans votre panier, enregistrez vos QR codes et validez vos paris dans un point de vente FDJ
+• Consultez les résultats et découvrez vos gains potentiels
+• Et jouez en exclusivité à Loto Foot !
 
-Le meilleur prix : Profitez de tarifs transparents et compétitifs pour votre recharge électrique, sans frais cachés.
+20 000 PARIS PAR JOUR
+Davantage de paris sportifs sont disponibles sur l’app que pour le bulletin papier. Un large choix de sports : foot, tennis, basket, rugby, hockey... mais aussi les plus grandes compétitions sportives : Ligue 1, Premier League, Liga, Ligue des Champions, Ligue Europa, MMA, Roland-Garros, NBA… et de paris : buteur, Mi-temps, Combi-bonus avec des cotes boostées
 
-Liberté totale : Pas d’abonnement requis. Vous rechargez quand vous voulez, où vous voulez.
+Un doute sur un pronostic ? Notre forum vous permet de discuter avec les autres parieurs pour profiter des meilleurs tips sur votre prochain pari sportif.
 
-Localisation instantanée : Trouvez la borne de recharge la plus proche en temps réel et vérifiez sa disponibilité pour éviter les attentes inutiles.
+LIVE SCORE 
+Pour suivre en direct les résultats de vos matchs pariés
 
-Cagnottez des tickets E.Leclerc* : Profitez de la possibilité de cagnotter sur votre Carte de fidélité E.Leclerc lors de vos recharges 
+LOTO SPORTS EN EXCLUSIVITE
+Préparez aisément vos grilles Loto Foot, Loto Rugby ou Loto Basket, grâce notamment à la répartition des mises en temps réel, ou à l’estimateur de rapports pour estimer vos gains. Et suivez les résultats en direct.
 
+PARI GAGNE ?
+Partagez vos plus belles cotes ou votre grille Loto Foot en 1 clic ! Il est temps de montrer vos talents de parieur. 
 
-VOS AVANTAGES AU QUOTIDIEN
+27 000 POINTS DE VENTE FDJ
+Trouvez rapidement le point de vente autour de vous avec la carte des points de vente, et rendez-vous y avec l'itinéraire proposé.
 
+PARIONS STORE
+Découvrez notre collection de vêtements Parions Sport !
 
-Visualisation rapide des points de charge sur votre itinéraire.
+Restons en contact :
+votreAvisAppliPSPDVNousInteresse@lfdj.com.
+Et si ça vous plaît et que vous voulez nous soutenir, laissez-nous 5 étoiles dans l'App Store :)
 
-Historique de vos sessions et suivi de vos consommations.
+Vous pouvez également nous suivre sur les réseaux sociaux :
+https://www.instagram.com/parionssport
+https://www.facebook.com/ParionsSport
 
-La qualité de service et le sérieux du réseau E.Leclerc à votre service.
+L'équipe Parions Sport
 
-*La possibilité de cumuler des tickets E.Leclerc dans une cagnotte et leurs montants dépendent du magasin où se situe la borne.
++18 - Les jeux d'argents et de hasard sont interdits aux mineurs
+Jouer comporte des risques : endettement, isolement, dépendance. Pour être aidé appelez le 09-74-75-13-13 ou rendez-vous sur http://www.joueurs-info-service.fr/
 
-[View on Apple](https://apps.apple.com/fr/app/charge-e-lec-e-leclerc/id6744098315)
+L'utilisation de l'application étant limitée aux territoires français et monégasque, nous vérifions votre localisation. Vous disposez d’un droit d’opposition pour des motifs légitimes que vous pouvez exercer en contactant le service client à cette adresse : Service Clients FDJ® TSA 36 707 95 905 CERGY PONTOISE Cedex 9.
 
-<a id="google-photos"></a>
-## Google Photos
+[View on Apple](https://apps.apple.com/fr/app/parions-sport/id496184783)
 
-![Google Photos](../../logos/962194608-559b105b.png)
+<a id="amazon-prime-video"></a>
+## Amazon Prime Video
 
-Google Photos vous permet de centraliser toutes vos photos et vidéos. Stockez, retouchez, organisez et recherchez facilement vos souvenirs à l'aide de l'IA de Google.
+![Amazon Prime Video](../../logos/545519333-861c01d2.png)
 
+Sehen Sie Filme, Serien und Sportübertragungen, darunter Amazon Originals wie The Boys, The Marvelous Mrs. Maisel und Tom Clancy’s Jack Ryan oder unsere Empfehlungen speziell für Sie.
 
-• 15 GO D'ESPACE DE STOCKAGE CLOUD : chaque compte Google dispose de 15 Go d'espace de stockage*, soit trois fois plus que de nombreux autres services de stockage cloud. Vous pouvez ainsi sauvegarder vos souvenirs automatiquement et les conserver en lieu sûr sur tous vos appareils.
+App-Funktionen:
+• Videos herunterladen und offline ansehen
+• Neue Filme und beliebte Serien kaufen oder leihen (Verfügbarkeit abhängig vom jeweiligen Marktplatz)
+• Videos mit Chromecast vom Smartphone oder Tablet auf den großen Bildschirm übertragen
+• Individuelle Unterhaltungserlebnisse durch Profile für mehrere Benutzer
+• Blick hinter die Kulissen von Filmen und Serien mit exklusivem X-Ray-Zugang und IMDb
+• Separate tvOS-App herunterladen (erfordert Apple TV, 3. Generation oder neuer) und Sendungen auf Apple TV ansehen
 
+Die Prime Video-App ist jetzt auf Mac verfügbar, wenn Sie die separate macOS-App herunterladen (erfordert macOS Big Sur 11.4 oder höher).
 
-• OUTILS DE RETOUCHE OPTIMISÉS PAR L'IA : effectuez des retouches complexes en quelques gestes. Supprimez les éléments indésirables avec la Gomme magique. Améliorez les photos floues grâce à la fonctionnalité Anti-flou. Optimisez l'éclairage et la luminosité avec Éclairage portrait.
+Wenn Sie eine Amazon Prime Video-Mitgliedschaft über iTunes abschließen (sofern verfügbar), wird die Zahlung nach der Bestätigung der Registrierung über Ihr iTunes-Konto abgewickelt. Ihre Mitgliedschaft wird automatisch verlängert, falls die automatische Verlängerung nicht mindestens 24 Stunden vor dem Ende des entsprechenden Abrechnungszeitraums deaktiviert wird. Ihr Konto wird jeweils innerhalb von 24 Stunden vor Ende des Abrechnungszeitraums mit dem Preis des gewählten Pakets belastet. Verwalten Sie Ihre Mitgliedschaft jederzeit über iTunes oder "Mein Konto". Dort können Sie auch die automatische Verlängerung deaktivieren.
 
+Für Kunden in der Europäischen Union, Großbritannien oder Brasilien: Durch die Verwendung dieser App stimmen Sie den Nutzungsbedingungen von Amazon sowie den Nutzungsbedingungen von Prime Video zu, die hier zu finden sind: www.primevideo.com/ww-av-legal-home. Unsere Datenschutzerklärung, unsere Cookie-Richtlinien und unsere Hinweise zu interessenbasierter Werbung können Sie hier nachlesen: www.primevideo.com/ww-av-legal-home. 
+ 
+Für alle anderen Kunden: Durch die Verwendung dieser App stimmen Sie den Nutzungsbedingungen und der Datenschutzerklärung von Amazon sowie den Nutzungsbedingungen von Prime Video zu, die hier zu finden sind: www.primevideo.com/ww-av-legal-home.
 
-• RECHERCHE SIMPLIFIÉE : retrouvez facilement vos photos grâce à des descriptions naturelles, telles que "Alice et moi en train de rire", "Kayak sur un lac entouré de montagnes" ou "Emma qui peint dans le jardin".
+[View on Apple](https://apps.apple.com/fr/app/amazon-prime-video/id545519333)
 
+<a id="lidl-plus"></a>
+## Lidl Plus
 
-• ORGANISATION FACILE : Google Photos vous aide à désencombrer votre galerie en organisant automatiquement les doublons et les photos similaires dans des piles de photos. Il propose également des dossiers intelligents et intuitifs pour les captures d'écran, les documents, les albums personnalisés et l'organisation quotidienne de la pellicule, afin que votre galerie soit ordonnée et personnalisée. Vous pouvez même enregistrer des photos et des vidéos sensibles dans un dossier verrouillé protégé par le verrouillage de l'écran de votre appareil.
+![Lidl Plus](../../logos/1238611143-7cd0c20d.png)
 
+Lade die Lidl App gratis herunter, melde dich bei Lidl Plus an und spare jeden Tag mit exklusiven Lidl Plus Aktionen oder shoppe in unserem Onlineshop!
 
-• REVIVEZ ET PARTAGEZ VOS SOUVENIRS PRÉFÉRÉS : replongez dans vos souvenirs directement depuis Google Photos. Partagez des photos, des vidéos et des albums avec tous vos contacts, même s'ils n'utilisent pas Google Photos.
+Entdecke alle Vorteile von Lidl Plus:
+- Zusätzliche Rabatte auf wöchentlich wechselnde Artikel
+- Lidl Pay Bezahlfunktion, um den Einkauf noch schneller zu machen 
+- Digitale Rubbellose für zusätzliche Überraschungen nach jedem Einkauf
+- Digitale Kassenbons für den optimalen Überblick
+- E-Mobilität an vielen unserer Filialen – Starte den Ladevorgang ab sofort über Lidl Plus
+- Der wöchentliche Prospekt immer digital griffbereit
+- Einkaufsliste zum besseren planen des Lidl Einkaufs
+- Vorteile bei ausgewählten Partnern
+- Benachrichtigungen, um keine Aktion mehr zu verpassen
 
+Der Dienst Lidl Plus richtet sich an Verbraucher, die von der Lidl Stiftung personalisierte Informationen über Angebote und Aktionen von Lidl Plus sowie über Angebote, Waren und Dienstleistungen von ausgewählten Kooperationspartnern und Lidl-Gesellschaften erhalten möchten, die möglichst stark ihren Interessen entsprechen. Grundlage für die Ermittlung der relevanten Interessen ist das Kauf- und Nutzungsverhalten hinsichtlich der Produkte und Services der Lidl-Gesellschaften.
 
-• VOS SOUVENIRS SONT EN LIEU SÛR : vos photos et vidéos sont en sécurité dès l'instant où vous les stockez. Elles sont protégées par notre infrastructure de sécurité avancée, qu'elles soient stockées ou partagées.
+Mehr Infos unter www.lidlplus.de, www.lidlplus.ch und www.lidlplus.at
 
+In der App gibt es noch viel mehr zu entdecken und wir arbeiten kontinuierlich daran, dein Einkaufserlebnis zu verbessern.
+Bei Fragen oder Anregungen steht dir unser Kundenservice zur Verfügung. 
 
-• TOUS VOS SOUVENIRS AU MÊME ENDROIT : avec la sauvegarde activée, vous pouvez facilement transférer vos photos depuis d'autres applications, galeries et appareils, pour regrouper tous vos contenus au même endroit.
+Kontaktformular:
+Deutschland: https://kundenservice.lidl.de/SelfServiceDE/s/contactsupport
+Österreich: https://kundenservice.lidl.at/SelfServiceAT/s/contactsupport
+Schweiz: https://service.lidl.ch/SelfServiceCH/s/contactsupport?language=de_CH
 
+Telefon:
+Deutschland: +49 800 5435 7587
+Österreich: +43 800 500 810
+Schweiz: +41 71 588 05
 
-• LIBÉREZ DE L'ESPACE : fini les problèmes d'espace sur votre téléphone. Supprimez de votre appareil les photos déjà sauvegardées dans Google Photos en un seul geste.
+Datenschutz & Teilnahmebedingungen:
+Im Rahmen der Lidl Plus App Nutzung kannst du Datenanalysetechnologien zulassen, welche wir bei der Teilnahme am Lidl Plus Programm nutzen, um die Inhalte, die wir dir in Lidl Plus präsentieren, personalisieren können. Dazu gehört, welche Produkte dich ansprechen, welche Coupons für dich interessanter sind, wie oft du die App verwendest und welche Teile der App für dich relevant sind. Das Tracking ermöglicht uns, dir Inhalte zu bieten, die an deine Vorlieben und Bedürfnisse angepasst sind. Darüber hinaus verwenden wir diese Daten, um Fehler zu identifizieren und zu beheben und die App und Lidl Plus zu verbessern.
 
+Datenschutzhinweise für den Lidl Onlineshop und die Lidl App:
+Deutschland: https://www.lidl.de/c/datenschutz/s10007528?hidebanner=true 
+Österreich: https://www.lidl.at/c/datenschutz/s10012009?salesChannel=02&hidebanner=true
+Schweiz: https://www.lidl.ch/c/de-CH/datenschutz/s10017521?salesChannel=02&hidebanner=true
 
-• IMPRIMEZ VOS MOMENTS PRÉFÉRÉS :
-Imprimez vos souvenirs sur papier depuis votre téléphone. Transformez vos souvenirs préférés en livres photo, tirages photo, toiles murales et plus encore. Le prix varie selon le produit. Les services d'impression sont disponibles uniquement au Canada, aux États-Unis, au Royaume-Uni et dans l'Union européenne.
+Datenschutzhinweise Lidl Plus:
+Deutschland: https://www.lidl.de/c/datenschutzhinweise/s10005247?salesChannel=02
+Österreich: https://www.lidl.at/c/lidl-plus-datenschutzinformationen/s10012223?salesChannel=02
+Schweiz: https://www.lidl.ch/c/de-CH/datenschutzerklaerung-lidl-plus/s10020718?salesChannel=02
 
+Teilnahmebedingungen Lidl Plus:
+Deutschland: https://www.lidl.de/c/lidl-plus-teilnahme-und-nutzungsbedingungen/s10005289?salesChannel=02
+Österreich: https://www.lidl.at/c/lidl-plus-nutzungsbedingungen/s10012221?salesChannel=02
+Schweiz: https://www.lidl.ch/c/de-CH/nutzungsbedingungen-lidl-plus/s10020600?salesChannel=02
 
-• GOOGLE LENS : recherchez ce que vous voyez. Cette fonctionnalité disponible en preview permet d'identifier du texte et des objets dans vos photos pour en savoir plus et effectuer différentes actions.
+[View on Apple](https://apps.apple.com/fr/app/lidl-plus/id1238611143)
 
+<a id="youtube"></a>
+## YouTube
 
-Règles de confidentialité de Google : https://google.com/intl/fr_FR/policies/privacy
+![YouTube](../../logos/544007664-2e995546.png)
 
+Téléchargez l'application YouTube officielle sur votre iPhone ou iPad. Découvrez les contenus regardés partout dans le monde : des clips musicaux du moment aux vidéos populaires sur les jeux vidéo, la mode, la beauté, les actualités, l'éducation et bien plus encore. Abonnez-vous aux chaînes que vous aimez, créez vos propres vidéos, partagez des contenus avec vos amis et profitez de YouTube sur n'importe quel appareil.
 
-* L'espace de stockage du compte Google est partagé entre Google Photos, Gmail et Google Drive. Dans certains pays, chaque compte dispose de 5 Go d'espace de stockage, avec la possibilité d'obtenir 10 Go supplémentaires en ajoutant un numéro de téléphone.
+Regardez des vidéos et abonnez-vous à des chaînes
+● Explorez les recommandations personnalisées dans "Accueil".
+● Découvrez les nouveautés de vos chaînes préférées dans "Abonnements".
+● Retrouvez les vidéos que vous avez regardées, aimées et enregistrées pour plus tard dans "Bibliothèque".
 
-[View on Apple](https://apps.apple.com/fr/app/google-photos/id962194608)
+Explorez des sujets variés, des contenus populaires et nos sélections à découvrir (disponibles dans certains pays)
+● Ne manquez aucune vidéo populaire sur les jeux vidéo, la beauté, les actualités, l'éducation et bien plus encore.
+● Découvrez les tendances sur YouTube et à travers le monde dans "Explorer".
+● Parcourez nos sélections de créateurs, gamers et artistes à découvrir (disponibles dans certains pays).
+
+Rejoignez la communauté YouTube
+● Suivez vos créateurs favoris via les posts, les stories, les Premières et les diffusions en direct.
+● Participez à la discussion dans les commentaires, et interagissez avec les créateurs et les autres membres de la communauté.
+
+Créez des contenus sur votre appareil mobile
+● Créez ou importez vos propres vidéos directement dans l'application.
+● Interagissez avec votre audience en temps réel avec le streaming en direct depuis l'application.
+
+Choisissez l'expérience adaptée à vos besoins et ceux de votre famille (disponible dans certains pays)
+● L’encadrement de l'accès aux vidéos en ligne varie d'une famille à l'autre. Découvrez les options que nous vous proposons : l'application YouTube Kids et la nouvelle expérience supervisée par les parents sur YouTube (youtube.com/myfamily).
+
+Passez à YouTube Premium (disponible dans certains pays)
+● Regardez des vidéos sans publicité tout en utilisant d'autres applications ou avec l'écran verrouillé.
+● Enregistrez des vidéos pour les regarder quand vous voulez, par exemple dans l'avion ou les transports.
+● Profitez de YouTube Music Premium dans le cadre de vos avantages.
+
+Remarque : Si vous vous abonnez via Apple, le montant de l'abonnement sera prélevé sur votre compte App Store après confirmation de l'achat. L'abonnement est automatiquement renouvelé, sauf si le renouvellement automatique est désactivé au moins 24 heures avant la fin de la période en cours. Le montant du renouvellement de l'abonnement sera prélevé sur le compte dans les 24 heures précédant la fin de la période en cours, au tarif de l'abonnement sélectionné. Vous pouvez gérer vos abonnements et la fonctionnalité de renouvellement automatique dans les paramètres du compte une fois l'achat effectué.
+
+Conditions d'utilisation du service payant YouTube : https://www.youtube.com/t/terms_paidservice
+Règles de confidentialité : https://www.google.com/policies/privacy
+
+[View on Apple](https://apps.apple.com/fr/app/youtube/id544007664)
 
 <a id="ryanair"></a>
 ## Ryanair
@@ -3413,6 +3382,73 @@ Téléchargez Joko et profitez de chaque bon plan, réduction et cashback.
 
 [View on Apple](https://apps.apple.com/fr/app/joko-cashback-code-promo/id1378996692)
 
+<a id="vpn-super-unlimited-proxy-tm"></a>
+## VPN - Super Unlimited Proxy ™
+
+![VPN - Super Unlimited Proxy ™](../../logos/1370293473-6bbbb2c3.png)
+
+Kostenloses VPN für iPhone und iPad – schützen Sie Ihre Privatsphäre in WLAN und Hotspots!
+
+- Express Lightning Speed 10G-Server machen dies zur schnellen VPN-Wahl für Streaming
+- Globale Abdeckung: 700+ Server in 53+ Ländern (auch für VPN kostenlose Nutzer!)
+- Keine Logs-Politik: Wir verfolgen oder speichern Ihre Online-Aktivitäten nicht
+- Benutzerfreundlich: Einmal tippen zum Verbinden – keine Registrierung erforderlich
+- Plattformübergreifend: iPhone, iPad, iPod, Apple Vision und Mac mit iOS 11.0+
+- Keine Zeitlimits, Datenbegrenzungen oder Bandbreitenrestriktionen
+- 256-Bit-Verschlüsselung wpn schützt Ihre Aktivitäten und Ihren Standort
+- VPN kostenlos blockiert das Tracking Ihrer iPhone-Browsing-Gewohnheiten
+- WiFi Guardian: Kostenlose VPN-Schutz für Passwörter in öffentlichen Netzwerken
+- Zugang zu sozialen Medien, Messaging und Streaming-Diensten: Tiktok (tik tok), Netflix, HBO, Hulu, Youtube und Youtube TV, Facebook, Instagram, Spotify, Snapchat, X (Twitter), Reddit, Discord, Steam, Telegram (Телеграм ВПН), vk ВПН und mehr wpn Optionen.
+- Optimierung Ihres Spielerlebnisses: Verringern Sie die Latenz bei Ponor of Kings, Genshin Impact, Minecraft, Pokémon GO, Rise of Kingdoms, Clash of Kings, PUBG Mobile, Call of Duty (COD): Mobile, Fortnite, Mobile Legends: Bang Bang, Free Fire, Roblox, Apex Legends Mobile, Arena of Valor, League of Legends (LOL): Wild Rift, Diablo Immortal, Brawl Stars, Subway Surfers, Among Us, Clash Royale, State of Survival, Lords Mobile, Evony: The King's Return, und anderen Spielen.
+
+■ Was können Sie mit dem VPN - Super Unlimited Proxy Free VPN iPhone / iPad tun?
+
+- Anonym bleiben: Surfen Sie mit vollständigem Datenschutz
+- Erhöhte Sicherheit: Verschlüsseln Sie Verbindungen in öffentlichen WiFi-Netzen und Hotspots
+- Schutz der Identität: Verbergen Sie Ihre echte IP-Adresse und Ihren Standort
+- iOS-Datenschutz: free VPN-Schutz für iPhone und iPad, auf den Sie sich verlassen können
+- Vollständiger iOS-Schutz: VPN kostenlos schützt persönliche Daten auf allen Apple-Geräten
+- Schulzugriffs-Lösung: Umgehen Sie Einschränkungen mit unserem BPN für sichereres Surfen
+
+■ Serverstandorte weltweit:
+
+Wählen Sie aus über 700+ Servern in 53+ Ländern, einschließlich:
+
+- Asien: Singapur, Südkorea, Japan, Hongkong, Indonesien, Indien, Israel, Kasachstan, Taiwan, Vietnam, Türkei
+- Europa: Bulgarien, Schweiz, Tschechien, Deutschland, Dänemark, Estland, Spanien, Finnland, Frankreich, Vereinigtes Königreich, Griechenland, Kroatien, Ungarn, Irland, Island, Italien, Litauen, Luxemburg, Lettland, Moldawien, Niederlande, Norwegen, Polen, Portugal, Rumänien, Serbien, Russische Föderation, Slowakei, Schweden, Ukraine
+- Nord Amerika VPN: USA, Kanada, Mexiko
+- Südamerika: Brasilien, Chile, Kolumbien, Peru
+- Afrika: Ägypten, Südafrika
+
+■ Einfache Preisoptionen
+
+Während unser kostenloser von-Service außergewöhnliche Leistungen bietet, können Sie für noch mehr Funktionen upgraden:
+
+- Free VPN-Plan: Unbegrenzter Zugang mit grundlegenden Funktionen
+- Premium-Pläne (werbefrei, 10G-Server und mehr):
+- -  Wöchentlich: $9.99/Woche
+- - Monatlich: $11.99/Monat (7-Tage-Test)
+- - Jährlich: $79.99/Jahr (7-Tage-Test)
+
+Kein Aufwand oder unnötige Datenmengen: Unsere VPN-Lösung für iPad und iPhone bietet rundum Schutz.
+
+■ Welches VPN-Protokoll sollte ich verwenden?
+
+- Auto (Empfohlen): Intelligente Protokollwahl
+- Manuelle Optionen: OpenVPN, IKEv2
+
+■ Datenschutzerklärung
+
+Im Gegensatz zu Diensten, die Ihre Daten durchsuchen wie ein Hai oder im Dunkeln lauern, verpflichtet sich VPN Super Unlimited Proxy zu absoluter Privatsphäre mit Null-Protokollen.
+Links zu unseren Nutzungsbedingungen und der Datenschutzerklärung finden Sie unten:
+
+- Datenschutzerklärung: https://www.vpnsuper.com/privacy-notice
+- Nutzungsbedingungen: https://www.vpnsuper.com/terms-of-service
+
+Laden Sie noch heute die beste free VPN iPhone und iPad herunter und erleben Sie grenzenlose Freiheit im Internet!
+
+[View on Apple](https://apps.apple.com/fr/app/vpn-super-unlimited-proxy/id1370293473)
+
 <a id="canva-ki-foto-video-editor"></a>
 ## Canva: KI-Foto- & Video-Editor
 
@@ -3453,260 +3489,132 @@ Datenschutzrichtlinie: https://www.canva.com/policies/privacy-policy/
 
 [View on Apple](https://apps.apple.com/fr/app/canva-montage-photo-vid%C3%A9o-ia/id897446215)
 
-<a id="mcdo-faites-vous-livrer"></a>
-## McDo+ : Faites-vous livrer !
+<a id="temu-achats-et-mode-en-ligne"></a>
+## Temu : Achats et Mode en Ligne
 
-![McDo+ : Faites-vous livrer !](../../logos/324887734-4d579a48.png)
+![Temu : Achats et Mode en Ligne](../../logos/1641486558-a6d81be5.png)
 
-L'application McDo+ évolue pour rendre chaque commande simple et rapide. Commandez et dégustez les incontournables de McDonald's en quelques clics : Big Mac™, 280™, McChicken™, McNuggets™, McFlurry™, Happy Meal™  et bien plus encore ! Avec McDo+, bénéficiez des mêmes prix qu'en restaurant et cumulez des points de fidélité pour des récompenses exclusives.
+Visitez Temu pour des offres exclusives. 
 
-Tous les Services McDo+ au Bout des Doigts
+Quels que soient vos désirs, Temu a ce qu'il vous faut, mode, décoration intérieure, DIY, produits de beauté, vêtements, chaussures, et plus encore.
 
-- Programme de Fidélité : Activez votre programme de fidélité et cumulez des points pour des offres exclusives. Échangez vos points contre des produits gratuits (petite boisson, Happy Meal™, Maxi Best Of™) et des articles collectors uniques comme des serviettes de plage, sauces Big Mac™ et bien plus encore.
-- Livraison : Faites-vous livrer vos plats préférés directement chez vous pour un repas sans interruption.
-- Click & Collect : Commandez sur l’app et récupérez votre commande au McDrive ou en restaurant.
-- Click & Ready™ : Choisissez le service piéton ou parking, lancez la préparation de votre commande en arrivant près du restaurant et récupérez-la sans attente.
-- Service à Table : Installez-vous, scannez le QR code via l'app McDo+, commandez depuis votre mobile, et détendez-vous – on vous apporte votre commande directement à table.
-- Offres Personnalisées : Profitez d’offres exclusives adaptées à vos préférences et à votre restaurant préféré.
+Téléchargez Temu aujourd'hui et profitez d'offres incroyables tous les jours.
 
-Nouveau : Plongez dans la Ligue 1 avec McDonald's
+PROMOS EXCEPTIONNELLES D'OUVERTURE
+Achetez des cadeaux pour vous et vos proches. Profitez de jusqu'à -90% !
 
-Fans de football, vivez la passion de la Ligue 1 entre amis avec McDo+ ! 
-Découvrez des menus exclusifs Menu Golden Ligue 1, à déguster en solo ou le   Menu Golden Ligue 1 Duo  à partager entre amis.
-Célébrez chaque match et commandez facilement depuis l’application McDo+ pour une expérience conviviale et gourmande, où que vous soyez !
+GRANDE SÉLECTION
+Découvrez des milliers de nouveaux produits et boutiques.
 
-Des Fonctions Pratiques pour Simplifier Vos Commandes
+PRATIQUE
+Paiement rapide et sécurisé.
+Livraison et retours gratuits sous 90 jours.
+*D'autres conditions peuvent s'appliquer.
 
-- Trouver un restaurant : Repérez facilement le McDonald's le plus proche, partout en France.
-- Commandes favorites : Sauvegardez vos commandes préférées pour les retrouver en un clic.
-- Notifications push : Activez les notifications pour rester informé des nouveautés, offres, et autres actualités toujours plus exclusives de votre enseigne McDonalds. 
- 
-Des Services Spéciaux pour les Familles
+Visitez temu.com ou suivez-nous sur :
+Instagram: https://www.instagram.com/temu/
+TikTok: https://www.tiktok.com/@temu 
+Facebook: https://www.facebook.com/shoptemu
+Youtube: https://www.youtube.com/@temu
 
-- Ateliers de Créativité : Inscrivez vos enfants aux ateliers gratuits pour stimuler leur créativité.
-- Anniversaires McDonald’s : Organisez un anniversaire inoubliable avec animations, goûter et activités amusantes. Vos enfants vivront une aventure incroyable, avec magiciens, licornes, yétis et plus encore !
- 
+[View on Apple](https://apps.apple.com/fr/app/temu-achats-et-mode-en-ligne/id1641486558)
 
-Téléchargez McDo+ dès maintenant et profitez d'une application de commande rapide et personnalisée, avec des expériences exclusives !
+<a id="google-photos"></a>
+## Google Photos
 
-Les Services McDo+ sont disponibles dans les restaurants participants. Plus d'informations sur l'application McDo+ et le site mcdonalds.fr.
+![Google Photos](../../logos/962194608-559b105b.png)
 
-[View on Apple](https://apps.apple.com/fr/app/mcdo-faites-vous-livrer/id324887734)
+Google Photos vous permet de centraliser toutes vos photos et vidéos. Stockez, retouchez, organisez et recherchez facilement vos souvenirs à l'aide de l'IA de Google.
 
-<a id="unibet-paris-sportifs-et-poker"></a>
-## Unibet Paris Sportifs et Poker
 
-![Unibet Paris Sportifs et Poker](../../logos/360945239-647e049b.png)
+• 15 GO D'ESPACE DE STOCKAGE CLOUD : chaque compte Google dispose de 15 Go d'espace de stockage*, soit trois fois plus que de nombreux autres services de stockage cloud. Vous pouvez ainsi sauvegarder vos souvenirs automatiquement et les conserver en lieu sûr sur tous vos appareils.
 
-Profite de nos MEILLEURES COTES et parie sur plus de 60 sports : football, basket, rugby, tennis, volley, MMA, tennis de table, Formule 1, ski, biathlon, rallye… et sur les plus grandes compétitions comme la Ligue 1 McDonald's, la Premier League, la Ligue des champions, la NBA, Roland-Garros, l’UFC et bien d’autres !
 
-Unibet te propose le meilleur des paris sportifs
+• OUTILS DE RETOUCHE OPTIMISÉS PAR L'IA : effectuez des retouches complexes en quelques gestes. Supprimez les éléments indésirables avec la Gomme magique. Améliorez les photos floues grâce à la fonctionnalité Anti-flou. Optimisez l'éclairage et la luminosité avec Éclairage portrait.
 
-• STREAMING. Parie en live et regarde tes matchs sur Unibet TV.
 
-• VIREMENT INSTANTANÉ. Reçois tes gains sur ton compte bancaire en un éclair.
+• RECHERCHE SIMPLIFIÉE : retrouvez facilement vos photos grâce à des descriptions naturelles, telles que "Alice et moi en train de rire", "Kayak sur un lac entouré de montagnes" ou "Emma qui peint dans le jardin".
 
-• COACHING GAGNANT. Si le remplaçant de ton buteur marque, ton pari est gagnant.
 
-• COTES BOOSTÉES : des boosts de cotes tous les jours sur les plus grands matchs !
+• ORGANISATION FACILE : Google Photos vous aide à désencombrer votre galerie en organisant automatiquement les doublons et les photos similaires dans des piles de photos. Il propose également des dossiers intelligents et intuitifs pour les captures d'écran, les documents, les albums personnalisés et l'organisation quotidienne de la pellicule, afin que votre galerie soit ordonnée et personnalisée. Vous pouvez même enregistrer des photos et des vidéos sensibles dans un dossier verrouillé protégé par le verrouillage de l'écran de votre appareil.
 
-• PARI PAYÉ DIRECTEMENT. Ton équipe prend une belle avance ? Ton pari est gagnant, même si l’adversaire revient ensuite au score ! +2 buts en foot, +2 sets en tennis, +20 points en basket, +3 buts en hockey et +15 points en rugby.
 
-• COMBI BOOSTÉ. Booste tes gains jusqu’à 50 % pour un maximum de gains en un clic.
+• REVIVEZ ET PARTAGEZ VOS SOUVENIRS PRÉFÉRÉS : replongez dans vos souvenirs directement depuis Google Photos. Partagez des photos, des vidéos et des albums avec tous vos contacts, même s'ils n'utilisent pas Google Photos.
 
-• CASHOUT. Encaisse tes gains quand tu le décides.
 
-• COMPLÈTE TON PARI. Ajoute une sélection à ton pari même après l’avoir validé.
+• VOS SOUVENIRS SONT EN LIEU SÛR : vos photos et vidéos sont en sécurité dès l'instant où vous les stockez. Elles sont protégées par notre infrastructure de sécurité avancée, qu'elles soient stockées ou partagées.
 
-• ASSURANCE BUTEUR. Ton buteur se blesse ou sort en 1re mi-temps ? Ton pari est remboursé.
 
-• PARI SUR MESURE. Crée ton scénario parfait en combinant jusqu’à 10 sélections sur un même match.
+• TOUS VOS SOUVENIRS AU MÊME ENDROIT : avec la sauvegarde activée, vous pouvez facilement transférer vos photos depuis d'autres applications, galeries et appareils, pour regrouper tous vos contenus au même endroit.
 
-• STATS. Analyse détaillée en avant-match et en live.
 
-• BETSHARE. Partage tes paris en 1 clic et montre qui est le boss !
+• LIBÉREZ DE L'ESPACE : fini les problèmes d'espace sur votre téléphone. Supprimez de votre appareil les photos déjà sauvegardées dans Google Photos en un seul geste.
 
-◆ Poker et Turf ◆
 
-Profite d’une offre complète avec les paris sportifs, le poker et le turf. Un seul compte et un seul solde valables sur les 3 univers !
-• Pour les amateurs de POKER, tente de gagner un jackpot jusqu’à 1 Million d'euros avec les Power Spin
-• Les paris hippiques avec ZEturf, c’est l’assurance d’être chez les meilleurs : numéro 1 sur les rapports.
+• IMPRIMEZ VOS MOMENTS PRÉFÉRÉS :
+Imprimez vos souvenirs sur papier depuis votre téléphone. Transformez vos souvenirs préférés en livres photo, tirages photo, toiles murales et plus encore. Le prix varie selon le produit. Les services d'impression sont disponibles uniquement au Canada, aux États-Unis, au Royaume-Uni et dans l'Union européenne.
 
-◆ Promotions et Bonus Unibet ◆
 
-• Profite de PROMOTIONS exclusives toute l’année : challenges, cotes boostées et gagne des paris gratuits (freebets) chaque semaine.
-• Nouveau chez Unibet ? Crée un compte et reçois jusqu’à 450 € : 3 BONUS* = Bonus Sport : jusqu’à 100 €* + Bonus Poker : jusqu’à 250 €* + Bonus Turf : jusqu’à 100 €*.
-• Invite tes amis à s’inscrire sur Unibet et recevez chacun des Freebets (pari gratuit) !
+• GOOGLE LENS : recherchez ce que vous voyez. Cette fonctionnalité disponible en preview permet d'identifier du texte et des objets dans vos photos pour en savoir plus et effectuer différentes actions.
 
-◆ Jeu Responsable ◆
 
-Chez Unibet, marque FDJ UNITED, le jeu responsable est au cœur de nos engagements. Chaque rencontre, chaque partie a son propre scénario : les surprises sont l’essence même du sport.
-• Mon tableau de bord centralise l’ensemble de ton activité de jeu.
-• Mes pratiques de jeu : à tout moment, tu as la possibilité de consulter ton statut de jeu.
-• Mes limites de jeu : limite de versement et de mise.
+Règles de confidentialité de Google : https://google.com/intl/fr_FR/policies/privacy
 
-Une question ? Envoie un email à votreavisappsport@fdjunited.com
 
-* Sport: 1er dépôt et 1ère prise de jeu de 5€ minimum dans les 60 jours suivants l’inscription. Poker: 1er dépôt et 1ère connexion poker dans les 60 jours suivants l'inscription. Turf: 1er dépôt + mises 60 jours pour le calcul du cashback. Voir conditions sur www.unibet.fr. * Etude réalisée par Nielsen Sports sur les cotes (pari [1N2]) auprès de ParionsSport En Ligne, Winamax, Betclic, Unibet, Netbet.
+* L'espace de stockage du compte Google est partagé entre Google Photos, Gmail et Google Drive. Dans certains pays, chaque compte dispose de 5 Go d'espace de stockage, avec la possibilité d'obtenir 10 Go supplémentaires en ajoutant un numéro de téléphone.
 
-+18 - Les jeux d'argent et de hasard sont interdits aux mineurs
-Jouer comporte des risques : endettement, isolement, dépendance. Pour être aidé appelez le 09 74 75 13 13 ou rendez-vous sur http://www.joueurs-info-service.fr/
+[View on Apple](https://apps.apple.com/fr/app/google-photos/id962194608)
 
-L'utilisation de l'application étant limitée aux territoires français et monégasque, nous vérifions votre localisation. Vous disposez d’un droit d’opposition pour des motifs légitimes que vous pouvez exercer en contactant le service client à cette adresse : Service Clients FDJ® TSA 36 707 95 905 CERGY PONTOISE Cedex 9.
+<a id="hacoo-discovering-inspiring"></a>
+## Hacoo - Discovering &Inspiring
 
-[View on Apple](https://apps.apple.com/fr/app/unibet-paris-sportifs-et-poker/id360945239)
+![Hacoo - Discovering &Inspiring](../../logos/1399907836-ede00be7.png)
 
-<a id="grok-assistant-ia"></a>
-## Grok - Assistant IA
+Hacoo est une communauté de partage de contenu innovante et ouverte où nous nous engageons à créer un espace interactif diversifié, fiable et dynamique pour nos utilisateurs. Ici, vous pouvez vous exprimer librement, partager votre vie et vous connecter avec des amis partageant les mêmes idées ainsi qu'avec un vaste marché.
 
-![Grok - Assistant IA](../../logos/6670324846-e16cbc5d.png)
+**Partagez votre belle vie**
+Que vous soyez un passionné de mode, un explorateur de voyages, un amateur de gastronomie ou quelqu'un qui aime capturer et partager des moments uniques de la vie quotidienne, Hacoo permet à vos moments précieux de devenir une source d'inspiration pour les autres. Cela vous offre également une richesse de contenu pour vous aider à trouver des amis partageant les mêmes intérêts.
 
-Grok est un assistant alimenté par l'intelligence artificielle, développé par xAI, conçu pour être d'une véracité maximale, utile et curieux. Obtenez des réponses à toutes vos questions, générez des images frappantes et téléchargez des photos pour mieux comprendre votre monde. Avec Grok, l'univers est entre vos mains !
+**Examen et confiance**
+Sur Hacoo, vous pouvez évaluer des produits, des marques et même des services, en partageant vos expériences et idées personnelles. Cela fournit des références fiables aux autres utilisateurs et favorise l’établissement d’un climat de confiance, garantissant que chacun puisse trouver les choix qui lui conviennent le mieux.
 
-Caractéristiques principales :
-- DeepSearch : Disposez de votre propre chercheur web qui fournit des réponses détaillées et bien raisonnées à toutes vos interrogations.
-- Think : Faites résoudre par Grok les problèmes les plus complexes en mathématiques, sciences et programmation grâce au modèle de raisonnement de Grok.
-- Génération d'images : Accédez gratuitement à la création d'images de haute qualité grâce aux capacités avancées de Grok AI.
-- En temps réel : Avec un accès aux données actuelles de X et du web, Grok fournit des informations à jour pour vos questions, vous tenant informé des derniers développements.
-- Ton conversationnel : Engageant et humoristique, Grok rend l'apprentissage et la collecte d'informations agréables, le distinguant des autres chatbots IA.
-- Axé sur la confidentialité : Toutes les interactions avec les données sont gérées en gardant à l'esprit la confidentialité des utilisateurs, garantissant une expérience sécurisée conforme à la politique de confidentialité de xAI.
+**Ouvrir les connexions**
+Fidèle à sa philosophie ouverte, Hacoo vise à faciliter les connexions et les interactions libres entre les utilisateurs. Nous créons des canaux de liaison faciles pour chaque utilisateur, vous permettant de vous connecter sans effort avec les autres et d'étendre votre influence. Nous aidons les utilisateurs à trouver des produits et services adaptés et aidons les marques et les entreprises à élargir leur portée.
 
-Avec Grok comme copilote, naviguer dans l'immense étendue de la connaissance devient un voyage passionnant. Son intégration avec X et son accent sur les informations en temps réel en font le compagnon idéal pour ceux qui recherchent un assistant alimenté par l'IA.
+Hacoo simplifie le partage et renforce les liens, alors que nous explorons les possibilités infinies de la vie avec vous.
 
-Conditions de service : https://x.ai/legal/terms-of-service
-Politique de confidentialité : https://x.ai/legal/privacy-policy
+[View on Apple](https://apps.apple.com/fr/app/hacoo-discovering-inspiring/id1399907836)
 
-Grok par xAI
+<a id="charge-e-lec-e-leclerc"></a>
+## Charge E-Lec - E.Leclerc
 
-[View on Apple](https://apps.apple.com/fr/app/grok-assistant-ia/id6670324846)
+![Charge E-Lec - E.Leclerc](../../logos/6744098315-a44c79d5.png)
 
-<a id="shotgun-musique-live"></a>
-## Shotgun - Musique Live
+L'application Charge E-Lec est conçue pour accompagner les conducteurs de véhicules électriques vers une mobilité durable et accessible. Accédez à notre réseau de bornes de recharge et profitez de la simplicité d'utilisation alliée à la puissance du prix E.Leclerc.
 
-![Shotgun - Musique Live](../../logos/760028892-0240554b.png)
+POURQUOI CHOISIR CHARGE E-LEC ?
 
-Découvre Shotgun, ton passeport pour les festivals, concerts, soirées et raves les plus électrisants. Fan d'électro, de hip-hop ou d'autres genres, rejoins les évènements et communautés qui te font vibrer. Profite d'achats de billets simplifiés, de la revente sécurisée et de recommandations personnalisées pour ne jamais manquer les événements marquants.
+Le meilleur prix : Profitez de tarifs transparents et compétitifs pour votre recharge électrique, sans frais cachés.
 
-• Explore et sort : Accède à une large sélection d'événements selon ton mood et tes goûts !
-• Sur Mesure : Reçoit des alertes personnalisées en synchronisant avec ta musique et en suivant tes artistes ou organisateurs préférés.
-• Billetterie Facile : Achète et revends tes billets facilement, ou inscris-toi sur des listes d'attente pour les événements complets!
-• Communauté & Récompenses : Suis où vont tes amis, conserve un historique de tes sorties, engage-toi comme ambassadeur et gagne des récompenses en explorant plus d'événements.
+Liberté totale : Pas d’abonnement requis. Vous rechargez quand vous voulez, où vous voulez.
 
-Rejoins Shotgun : passionnés de musique, souvenirs inoubliables, nouvelles expériences et nouveaux horizons. 
-Live long, dance, and take care.
+Localisation instantanée : Trouvez la borne de recharge la plus proche en temps réel et vérifiez sa disponibilité pour éviter les attentes inutiles.
 
-[View on Apple](https://apps.apple.com/fr/app/shotgun-musique-live/id760028892)
+Cagnottez des tickets E.Leclerc* : Profitez de la possibilité de cagnotter sur votre Carte de fidélité E.Leclerc lors de vos recharges 
 
-<a id="tv-te-le-commande-universelle"></a>
-## TV Télécommande Universelle・
 
-![TV Télécommande Universelle・](../../logos/1581765635-1f1f8fc0.png)
+VOS AVANTAGES AU QUOTIDIEN
 
-Votre télécommande disparaît toujours au moment où commence votre émission préférée ?
 
-Cela arrive toujours au pire moment — le match est sur le point de commencer, le pop-corn est prêt… mais la télécommande a mystérieusement disparu. Vous fouillez le canapé, la table basse, voire le réfrigérateur (oui, c’est déjà arrivé) — et toujours rien.
+Visualisation rapide des points de charge sur votre itinéraire.
 
-Ou peut-être que vous la retrouvez, mais les piles sont mortes, les boutons se coincent et taper le titre d’un film ressemble à envoyer un SMS dans les années 90.
+Historique de vos sessions et suivi de vos consommations.
 
-Découvrez Universal Remote TV Control・ — l’application qui met fin au chaos des télécommandes une fois pour toutes. Transformez votre iPhone ou iPad en une télécommande intelligente, réactive et tout-en-un pour votre Smart TV ou appareil de streaming. Fini les recherches frénétiques, fini les disputes du genre « Qui l’avait en dernier ? ».
+La qualité de service et le sérieux du réseau E.Leclerc à votre service.
 
-FONCTIONNALITÉS PRINCIPALES :
-• Contrôle sans limites
-Avec Universal Remote TV Control・, votre téléphone devient le centre de commande de votre divertissement. Changez de chaîne instantanément, lancez Netflix, YouTube, Hulu ou votre application de streaming préférée d’un simple geste. Réglez le volume, changez de source ou ouvrez les paramètres sans jamais toucher une télécommande en plastique.
+*La possibilité de cumuler des tickets E.Leclerc dans une cagnotte et leurs montants dépendent du magasin où se situe la borne.
 
-• Recherche en quelques secondes
-Oubliez la saisie lettre par lettre — tapez ou dictez votre recherche directement grâce au clavier rapide ou au contrôle vocal de l’app. Trouvez le film parfait avant que le pop-corn ne refroidisse.
-
-• Partagez & diffusez sur TV
-Envie de montrer vos photos de vacances, de lire des vidéos ou de diffuser de la musique sur grand écran ? Diffusez-les directement depuis votre téléphone. Idéal pour les soirées cinéma, les fêtes ou pour transformer votre salon en piste de danse.
-
-• Installation simple & intuitive
-Il suffit de connecter votre téléphone et votre TV au même réseau Wi-Fi. L’application détecte automatiquement votre télé — pas de codes, pas de complications. Vous serez prêt à contrôler en moins d’une minute.
-
-Pourquoi vous ne reviendrez plus en arrière :
-– Remplacez toutes les télécommandes de la maison par une seule app.
-– Compatible avec la plupart des Smart TV et appareils de streaming populaires.
-– Navigation rapide et fluide au toucher ou à la voix.
-– Plus de désordre, plus de télécommandes perdues, plus de temps gaspillé.
-
-Marques de téléviseurs prises en charge :
-Roku
-TCL
-Sony
-LG Smart TV
-Samsung
-Android TV
-Hisense
-FireTV
-Philips
-Vizio
-
-Avertissement : Universal Remote TV Control・ n’est affiliée ni approuvée par aucune des marques mentionnées.
-
-Informations sur les achats intégrés :
-Passez à la version Premium pour supprimer les publicités et débloquer toutes les fonctionnalités. L’abonnement coûte 6,99 $ par semaine.
-– Le paiement sera facturé sur le compte iTunes à la confirmation de l’achat (après la période d’essai gratuite si proposée).
-– L’abonnement se renouvelle automatiquement sauf si la fonction de renouvellement automatique est désactivée au moins 24 heures avant la fin de la période en cours.
-– Le compte sera facturé pour le renouvellement dans les 24 heures précédant la fin de la période en cours, avec indication du coût.
-– L’utilisateur peut gérer son abonnement et désactiver le renouvellement automatique depuis les paramètres de son compte après l’achat.
-– Toute partie inutilisée d’une période d’essai gratuite, si proposée, sera perdue lorsque l’utilisateur achètera un abonnement.
-
-Pour toute assistance, contactez-nous à : feedback@begamob.com
-
-Politique de confidentialité : https://begamob.com/cast-policy.html
-Conditions d’utilisation : https://begamob.com/ofs-termofuse.html
-
-[View on Apple](https://apps.apple.com/fr/app/tv-t%C3%A9l%C3%A9commande-universelle/id1581765635)
-
-<a id="snapchat-chatte-mit-freunden"></a>
-## Snapchat: Chatte mit Freunden
-
-![Snapchat: Chatte mit Freunden](../../logos/447188370-e68d9fee.png)
-
-Mit Snapchat kannst du schnell und auf lustige Weise Momente mit Freunden und Familie teilen.
-
-SNAPPEN
-• Snapchat öffnet direkt die Kamera – tippe, um ein Foto zu machen oder halte gedrückt, um ein Video aufzunehmen.
-• Mit Linsen, Filtern, Bitmoji und weiteren tollen Funktionen kannst du deiner Kreativität Ausdruck verleihen!
-• Probiere täglich neue Linsen aus, die von der Snapchat-Community erstellt werden!
-
-CHATTEN
-• Bleib über den Chat in Kontakt mit deinen Freunden oder zeig in Gruppen-Storys, wie dein Tag so läuft.
-• Du kannst mit bis zu 16 Freunden gleichzeitig videochatten – dabei kannst du sogar Filter und Linsen verwenden!
-• Zeig deine Individualität mit Friendmoji – das sind exklusive Bitmoji, die extra für dich und einen Freund erstellt werden.
-
-STORYS
-• Schau dir die Storys deiner Freunde an, um zu sehen, was bei ihnen los ist.
-• Sieh dir Storys aus der Snapchat-Community an, die auf deinen Interessen basieren.
-• Entdecke aktuelle Nachrichten und exklusive Original-Shows.
-
-SPOTLIGHT
-• Bei Spotlight findest du die besten Snaps!
-• Poste eigene Snaps oder lehne dich einfach zurück und schau zu. 
-• Wähle deine Favoriten aus und teile sie mit deinen Freunden.
-
-SNAP MAP
-• Teile deinen Standort mit deinen besten Freunden oder tauche unter mit dem Geistmodus.
-• Auf deiner persönlichen Karte kannst du sehen, was deine Freunde gerade machen, wenn sie ihren Standort mit dir teilen.
-• Entdecke Live-Storys aus der Community in deiner Nähe oder aus der ganzen Welt!
-
-MEMORYS
-• Speichere eine unbegrenzte Anzahl von Fotos und Videos deiner schönsten Momente.
-• Bearbeite vergangene Momente und schicke sie an Freunde oder speichere sie in deinen Aufnahmen.
-• Erstelle Storys aus deinen schönsten Erinnerungen, um sie mit Freunden und Familie zu teilen.
-
-FREUNDSCHAFTSPROFIL
-• Jede Freundschaft hat ein eigenes Profil mit all den Momenten, die ihr gemeinsam erlebt habt. 
-• Mit den Meilensteinen kannst du neue Gemeinsamkeiten entdecken – zum Beispiel, wie lange ihr schon Freunde seid, ob ihr astrologisch kompatibel seid, welchen Modestil eure Bitmoji haben und vieles mehr!
-• Freundschaftsprofile sind nur für dich und einen Freund sichtbar, sodass ihr gemeinsam feiern könnt, was eure Freundschaft so besonders macht.
-
-Happy Snapping!
-
-Hinweis: Snapchatter können deine Nachrichten immer festhalten oder speichern, indem sie beispielsweise einen Screenshot machen oder eine Kamera verwenden. Pass also auf, was du snappst!
-
-Eine vollständige Beschreibung unserer Datenschutzmaßnahmen findest du im Datenschutzcenter.
-
-[View on Apple](https://apps.apple.com/fr/app/snapchat-chats-entre-ami-e-s/id447188370)
+[View on Apple](https://apps.apple.com/fr/app/charge-e-lec-e-leclerc/id6744098315)
 
 <a id="feux-de-fore-t"></a>
 ## Feux de Forêt
@@ -3723,206 +3631,58 @@ Conditions d’utilisation : https://www.apple.com/legal/internet-services/itune
 
 [View on Apple](https://apps.apple.com/fr/app/feux-de-for%C3%AAt/id1211866961)
 
-<a id="lidl-plus"></a>
-## Lidl Plus
+<a id="komoot-wandern-und-radfahren"></a>
+## komoot - Wandern und Radfahren
 
-![Lidl Plus](../../logos/1238611143-7cd0c20d.png)
+![komoot - Wandern und Radfahren](../../logos/447374873-2229f2eb.png)
 
-Lade die Lidl App gratis herunter, melde dich bei Lidl Plus an und spare jeden Tag mit exklusiven Lidl Plus Aktionen oder shoppe in unserem Onlineshop!
+Turn your next ride, hike, or run into an adventure with komoot. Get inspired by tapping into shared community knowledge and recommendations, then bring your adventures to life with the easy route planner.
 
-Entdecke alle Vorteile von Lidl Plus:
-- Zusätzliche Rabatte auf wöchentlich wechselnde Artikel
-- Lidl Pay Bezahlfunktion, um den Einkauf noch schneller zu machen 
-- Digitale Rubbellose für zusätzliche Überraschungen nach jedem Einkauf
-- Digitale Kassenbons für den optimalen Überblick
-- E-Mobilität an vielen unserer Filialen – Starte den Ladevorgang ab sofort über Lidl Plus
-- Der wöchentliche Prospekt immer digital griffbereit
-- Einkaufsliste zum besseren planen des Lidl Einkaufs
-- Vorteile bei ausgewählten Partnern
-- Benachrichtigungen, um keine Aktion mehr zu verpassen
+PLAN YOUR PERFECT HIKING, MOUNTAIN BIKING OR ROAD CYCLING ADVENTURE
+Get the route perfect for your sport—be it smooth asphalt for your road bike, singletracks for your mountain bike, silent cycling paths for touring or natural trails for your hikes. Plan down to the last detail with at-your-fingertips info like surface, difficulty, distance and elevation profile.
 
-Der Dienst Lidl Plus richtet sich an Verbraucher, die von der Lidl Stiftung personalisierte Informationen über Angebote und Aktionen von Lidl Plus sowie über Angebote, Waren und Dienstleistungen von ausgewählten Kooperationspartnern und Lidl-Gesellschaften erhalten möchten, die möglichst stark ihren Interessen entsprechen. Grundlage für die Ermittlung der relevanten Interessen ist das Kauf- und Nutzungsverhalten hinsichtlich der Produkte und Services der Lidl-Gesellschaften.
+TURN-BY-TURN VOICE NAVIGATION
+Never take your eyes off the road with turn-by-turn voice navigation: your precise, down-to-the-inch verbal navigator that doesn’t distract you from your surroundings. Keep your eyes firmly on the adventure in front of you and navigate with ease, even on small trails or in the woods.
 
-Mehr Infos unter www.lidlplus.de, www.lidlplus.ch und www.lidlplus.at
+OFFLINE MAPS FOR OUTDOOR ADVENTURES
+Download your planned outdoor adventures and save topographic maps with one tap. Navigate the outdoors even when the internet is down or unreliable. Differentiate hiking paths, MTB singletracks or paved roads, terrain and land cover at a glance.
 
-In der App gibt es noch viel mehr zu entdecken und wir arbeiten kontinuierlich daran, dein Einkaufserlebnis zu verbessern.
-Bei Fragen oder Anregungen steht dir unser Kundenservice zur Verfügung. 
+BROWSE HIGHLIGHTS: THE KOMOOT COMMUNITY’S FAVOURITE PLACES
+So you can decide on the destination of your next adventure at a glance, see Highlights on the map. From peaks, parks, and points of interest, to singletracks and sandwich shops, these places or segments, showing up as red dots in the planner, are the spots other users think you should check out. And if you’re in the know, you can recommend your own to the community in turn and inspire others to visit your favourite places, too.
 
-Kontaktformular:
-Deutschland: https://kundenservice.lidl.de/SelfServiceDE/s/contactsupport
-Österreich: https://kundenservice.lidl.at/SelfServiceAT/s/contactsupport
-Schweiz: https://service.lidl.ch/SelfServiceCH/s/contactsupport?language=de_CH
+TELL YOUR STORY
+Track your rides and hikes with GPS. Add photos, Highlights and tips and build your own personal adventure log that’ll store your favourite experiences—forever. Save them for private use or share them with the komoot community to receive likes and comments and to inspire fellow outdoor folks. Follow your friends and like-minded explorers to keep up with their outdoor adventures.
 
-Telefon:
-Deutschland: +49 800 5435 7587
-Österreich: +43 800 500 810
-Schweiz: +41 71 588 05
+BE A LOCAL EXPERT. BECOME A PIONEER.
+Contribute photos, tips and Highlights to the community and show you’re a local Expert. Earn more upvotes than in any else for your sport in your region and become the Pioneer!
 
-Datenschutz & Teilnahmebedingungen:
-Im Rahmen der Lidl Plus App Nutzung kannst du Datenanalysetechnologien zulassen, welche wir bei der Teilnahme am Lidl Plus Programm nutzen, um die Inhalte, die wir dir in Lidl Plus präsentieren, personalisieren können. Dazu gehört, welche Produkte dich ansprechen, welche Coupons für dich interessanter sind, wie oft du die App verwendest und welche Teile der App für dich relevant sind. Das Tracking ermöglicht uns, dir Inhalte zu bieten, die an deine Vorlieben und Bedürfnisse angepasst sind. Darüber hinaus verwenden wir diese Daten, um Fehler zu identifizieren und zu beheben und die App und Lidl Plus zu verbessern.
+SEAMLESS SYNC ACROSS EVERY DEVICE
+Whether you prep like a pro on your desktop or plan a route on the go, komoot automatically syncs your routes, tracked adventures and photos across all devices, including your smartphone, desktop, iPad and Apple Watch. Use a Garmin or a Wahoo? Simply download the komoot for Garmin app in the IQ Store and sync your profiles via Garmin Connect, or connect your komoot and Wahoo accounts to share Tours with the ELEMNT and ELEMNT BOLT.
 
-Datenschutzhinweise für den Lidl Onlineshop und die Lidl App:
-Deutschland: https://www.lidl.de/c/datenschutz/s10007528?hidebanner=true 
-Österreich: https://www.lidl.at/c/datenschutz/s10012009?salesChannel=02&hidebanner=true
-Schweiz: https://www.lidl.ch/c/de-CH/datenschutz/s10017521?salesChannel=02&hidebanner=true
+EXPERIENCE KOMOOT FOR FREE
+When you download komoot, your first region is free—forever. To expand the areas in which komoot has your back, conveniently choose between single regions, region bundles or the World Pack to access offline maps and turn-by-turn voice navigation wherever you go.
 
-Datenschutzhinweise Lidl Plus:
-Deutschland: https://www.lidl.de/c/datenschutzhinweise/s10005247?salesChannel=02
-Österreich: https://www.lidl.at/c/lidl-plus-datenschutzinformationen/s10012223?salesChannel=02
-Schweiz: https://www.lidl.ch/c/de-CH/datenschutzerklaerung-lidl-plus/s10020718?salesChannel=02
+APPLE WATCH
+Take a quick glance at your Apple Watch to get directions, distance, and speed in real-time—right on your wrist.
 
-Teilnahmebedingungen Lidl Plus:
-Deutschland: https://www.lidl.de/c/lidl-plus-teilnahme-und-nutzungsbedingungen/s10005289?salesChannel=02
-Österreich: https://www.lidl.at/c/lidl-plus-nutzungsbedingungen/s10012221?salesChannel=02
-Schweiz: https://www.lidl.ch/c/de-CH/nutzungsbedingungen-lidl-plus/s10020600?salesChannel=02
+APPLE HEALTH
+You can connect komoot to Health to ensure your data is always up-to-date. Automatically share your time and distance data for komoot hiking, cycling, and running activities with Health.
 
-[View on Apple](https://apps.apple.com/fr/app/lidl-plus/id1238611143)
 
-<a id="tinder-appli-de-rencontre"></a>
-## Tinder: appli de rencontre
+“Komoot does for hiking and biking what Apple does for hardware: makes it easily accessible and fun to use.”  
+— Cult of Mac
 
-![Tinder: appli de rencontre](../../logos/547702041-4a930e32.png)
 
-TOUT COMMENCE PAR UN SWIPE™ : MATCHE, DISCUTE, FAIS DES RENCONTRES
-Avec plus de 97 milliards de Matchs à ce jour, Tinder® est la meilleure appli de rencontres gratuite (et le meilleur endroit pour discuter). Grâce à ses nouvelles fonctionnalités de sécurité, fais des rencontres sans crainte. 
+For support and tips, please visit help.komoot.de
 
-Tu cherches quoi ? Un crush, un date, une relation libre ou des potes pour sortir ? (Ou tout à la fois ?) Tinder te connecte à des profils autour de toi.
 
-COMMENT FONCTIONNE TINDER
-C’est simple. Choisis tes meilleures photos et ajoute des infos sur toi pour te démarquer. Partage une anecdote, réponds aux quiz et poste des photos où on peut voir ton visage pour augmenter tes chances de matcher. Pour liker un profil, swipe à droite et pour passer au profil suivant, swipe à gauche. Et si quelqu’un like aussi ton profil, c’est un Match ! Avec ce système de double validation, l’intérêt doit être réciproque pour matcher.
+MORE INFORMATION
+Komoot uses background audio service for voice navigation messages.
+Komoot requires a GPS signal for directions, Tour recording and speed in real-time.
 
-LA SÉCURITÉ : NOTRE PRIORITÉ
-Essaie l’une de nos fonctionnalités pour faire des rencontres sereinement.
+Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 
-- Partager Ton Date : donne les infos de ton plan à tes potes et à ta famille pour qu’ils sachent qui tu rencontres et où.
-- Vérification photo : passe par ce processus  pour que les autres membres sachent que ce ou cette BG sur les photos, c’est bien toi
-- Are You Sure/Does This Bother You : Tinder détecte les propos inappropriés. En général, les gens réfléchissent à deux fois avant d’envoyer un message déplacé.
-- Signaler un profil : signale ou bloque les profils qui ont une activité louche ou un comportement inapproprié.
-- Bloquer les contacts : prends le contrôle. Bloque les personnes que tu ne veux pas voir sur l’app (au hasard, ton ex).
-- Chat vidéo : vérifie que ça passe entre vous et discute en face à face sans bouger de ton canap’ !
-
-ESSAIE TINDER PLUS
-- Grâce à un nombre illimité de Likes, tu peux crusher sur pleeein de profils !
-- Utilise Passeport pour matcher et discuter avec des locaux, avant même de débarquer dans la ville.
-- Rewind® te permet d’annuler ton dernier Swipe et de revenir en arrière (en illimité).
-- Tu ne veux être vu•e que par les personnes que t’as likées ? Passe en mode incognito.
-
-PASSE À TINDER GOLD
-- Profite des fonctionnalités Tinder Plus ! Et si t’hésites, sache que tu peux tester l’abonnement pendant une semaine avant de t’engager.
-- Likes You te fait de gagner du temps en découvrant les personnes qui ont liké ton profil.
-- La fonction Boost mensuel met ton profil en avant pendant 30 minutes, pour être vu•e par plus de membres !
-- Enfin, profite de Superlikes toutes les semaines, au cas où tu crush vraaaiment fort.
-
-OFFRE-TOI TINDER PLATINUM
-Tu veux accéder aux fonctionnalités premium de Tinder ? Choisis Tinder Platinum™ pour obtenir des Likes prioritaires, envoyer des DM avant de matcher, et bien plus encore.
-
-Alors, t’attends quoi ? Rejoins des millions de personnes situées aux quatre coins du monde, pour tenter de trouver la personne qu’il te faut, car Tinder, c’est la plus grande communauté de daters au monde ! Télécharge la meilleure appli de rencontres gratuite.
-
----------------
-Si tu choisis de t’abonner à Tinder Plus®, Tinder Gold™ ou Tinder Platinum™, le paiement sera effectué via ton compte Apple. Il sera débité du montant du renouvellement dans les 24 heures précédant la fin de la période en cours. Tu peux désactiver à tout moment le renouvellement automatique, en allant dans les Paramètres de l’App Store après ton achat. L’annulation de l’abonnement en cours n’est pas possible durant la période d’activation de l’abonnement. Si tu ne souhaites pas t’abonner à Tinder Plus®, Tinder Gold™ ou Tinder Platinum™, tu peux continuer d’utiliser la version gratuite.
-
-Toutes les photos représentent des modèles et ne sont utilisées qu’à des fins d’illustration.
-
-Politique de confidentialité : https://www.gotinder.com/privacy
-Conditions d’utilisation : https://www.gotinder.com/terms
-
-[View on Apple](https://apps.apple.com/fr/app/tinder-appli-de-rencontre/id547702041)
-
-<a id="france-tv-direct-et-replay-tv"></a>
-## france.tv: direct et replay TV
-
-![france.tv: direct et replay TV](../../logos/428835098-e5f5ef8d.png)
-
-Avec l’application france.tv, accédez gratuitement à des milliers de programmes en direct et en replay : séries, films, émissions, documentaires, ainsi que des contenus en avant-première et des exclusivités. Retrouvez toutes nos offres : France 2, France 3, France 4, France 5, Franceinfo, Culturebox, Slash, Okoo, Outre-mer La 1ère. Profitez également des contenus de nos partenaires : Arte, TV5 Monde, France 24, INA, LCP, Public Sénat. 
-
-france.tv est une application gratuite, sans abonnement. 
-
-Une offre complète pour tous les goûts : 
-
-• Séries & fictions : Un si grand soleil, L’affaire Laura Stern, Alex Hugo, Je sais pas… 
-• Actualité & société : Les JT, Envoyé Spécial, C politique, C dans l’air, C à vous, Ça commence aujourd’hui... 
-• Sport : Jeux Olympiques et Paralympiques, Roland-Garros, Tour de France, Tournoi des 6 Nations… 
-• Cinéma & culture : Films, Festival de Cannes, concerts live, spectacles… 
-• Documentaires : Infrarouge, Echappées Belles, Des racines & des ailes, Rendez-vous en terre inconnue... 
-• Divertissement : N’oubliez pas les paroles, Fort Boyard, Drag Race France, Tout le monde veut prendre sa place… 
-• Jeunesse : Okoo-koo, Peppa Pig, Simon, Les lapins crétins… 
-
-Explorez les séries du moment, les films, les émissions et les documentaires sur france.tv gratuitement, en direct ou en replay. 
-
-Profitez de vos programmes où vous voulez quand vous voulez : 
-
-• Regardez nos chaînes en direct : France 2, France 3, France 4, France 5, Franceinfo, Arte, LCP, TV5 Monde, France 24, Mieux. 
-• Ajoutez vos films, séries, émissions et documentaires à votre liste pour y revenir facilement. 
-• Reprenez vos lectures là où vous les avez laissées : films, séries, émissions, documentaires… 
-• Accédez à des recommandations personnalisées. 
-• Regardez sur votre TV via Chromecast. 
-• Téléchargez certains programmes pour les regarder hors connexion.* 
-
-*Le téléchargement n’est pas encore possible pour tous les programmes. Nous travaillons à vous proposer de plus en plus de vidéos disponibles au téléchargement. 
-
-Avertissement : Cette application est gratuite hors coût d’abonnement à l’opérateur et hors surcoût éventuel facturé par l’opérateur pour le chargement et l’envoi des données. L’utilisation de cette application pouvant engendrer une consommation importante de données, notamment lors du visionnage de vidéos, France Télévisions vous recommande de vérifier auprès de votre opérateur mobile que vous disposez bien d’un abonnement adapté à cet usage. 
-
-La politique de confidentialité ne change pas : vos données personnelles sont protégées et ne sont pas revendues. Vous pouvez à tout moment accéder à vos données, les modifier ou les supprimer. 
-
-Pour des raisons juridiques de droits de diffusion, certaines vidéos ne sont pas accessibles en dehors du territoire français. 
-
-France Télévisions se réserve le droit de ne pas autoriser l’installation de cette application sur les terminaux sur lesquels la qualité de lecture de ses vidéos sera jugée insuffisante. 
-
-Pour rester en contact avec vos programmes préférés : 
-
-• Rejoignez nos réseaux sociaux : 
-
-Instagram : https://www.instagram.com/france.tv/  
-Facebook : https://www.facebook.com/francetv  
-Tiktok : https://www.tiktok.com/@france.tv?lang=fr 
-Youtube : https://www.youtube.com/francetv  
-Twitter : https://twitter.com/francetv  
-
-• Inscrivez-vous à nos newsletters thématiques : www.francetelevisions.fr/abonnements 
-
-Envoyez vos suggestions ou signalez un problème via : https://www.france.tv/services/aide-contact.html
-
-[View on Apple](https://apps.apple.com/fr/app/france-tv-direct-et-replay-tv/id428835098)
-
-<a id="compte-ameli"></a>
-## Compte ameli
-
-![Compte ameli](../../logos/620447173-adf0647b.png)
-
-Connectez-vous à votre compte avec votre numéro de sécurité sociale, votre mot de passe et le code unique reçu par email ou via l'authentification biométrique (disponible sur smartphone) et accéder à tous les services suivants :
-
-Consultez vos remboursements de soins :
-    - Visualisez tous vos remboursements en détails
-
-Consultez tous vos documents :    
-    - Téléchargez votre attestation de droits ou d’indemnités journalières
-    - Téléchargez vos relevés mensuels de remboursements, disponibles pour les 27 derniers mois
-
-Réalisez certaines démarches sans vous déplacer :
-    - Simulez et estimez vos indemnités journalières, et effectuez vos éventuelles démarches
-    - Commandez votre carte européenne d’assurance maladie (CEAM) et visualisez-la sur votre smartphone
-    - Déclarez la perte ou le vol de votre carte Vitale
-    - Commandez une carte Vitale 
-    - Déclarez votre nouveau-né à votre caisse 
-    - Inscrivez votre enfant sur les cartes des deux parents
-    - Modifiez votre nom d’usage
-    - Déclarez un accident causé par un tiers
-    - Accédez à la simulation de vos droits aux aides sociales
-    - Consultez les délais de traitement de votre caisse
-    - Choisissez votre organisme complémentaire en cas de chevauchement de contrats
-    - Déclarez un acte médical ou un soin non réalisé
-
-Gérez vos informations personnelles :
-    - Retrouvez toutes vos informations personnelles
-    - Modifiez votre adresse postale, votre adresse email et vos numéros de téléphone
-
-Prenez rendez-vous avec votre caisse :
-    - Choisissez un créneau de rendez-vous téléphonique
-    - Modifiez vos rendez-vous
-    - Supprimez vos rendez-vous
-    - Visionnez vos rendez-vous à venir
-
-[View on Apple](https://apps.apple.com/fr/app/compte-ameli/id620447173)
+[View on Apple](https://apps.apple.com/fr/app/komoot-rando-v%C3%A9lo-course/id447374873)
 
 <a id="genk-culture-ge-ne-rale"></a>
 ## GenK : Culture Générale
@@ -3991,120 +3751,29 @@ https://www.genk.app/app-terms-conditions
 
 [View on Apple](https://apps.apple.com/fr/app/genk-culture-g%C3%A9n%C3%A9rale/id6612027371)
 
-<a id="justplay-cumulez-pts-fide-lite"></a>
-## JustPlay: Cumulez pts fidélité
+<a id="grok-assistant-ia"></a>
+## Grok - Assistant IA
 
-![JustPlay: Cumulez pts fidélité](../../logos/6444946155-a1006490.png)
+![Grok - Assistant IA](../../logos/6670324846-e16cbc5d.png)
 
-Bienvenue sur JustPlay, le programme de fidélité exclusif pour les fans de Gimica Games ! Nous avons conçu ce programme pour vous récompenser pour ce que vous aimez le plus : jouer à vos jeux Gimica préférés.
+Grok est un assistant alimenté par l'intelligence artificielle, développé par xAI, conçu pour être d'une véracité maximale, utile et curieux. Obtenez des réponses à toutes vos questions, générez des images frappantes et téléchargez des photos pour mieux comprendre votre monde. Avec Grok, l'univers est entre vos mains !
 
-Voici comment ça marche :
+Caractéristiques principales :
+- DeepSearch : Disposez de votre propre chercheur web qui fournit des réponses détaillées et bien raisonnées à toutes vos interrogations.
+- Think : Faites résoudre par Grok les problèmes les plus complexes en mathématiques, sciences et programmation grâce au modèle de raisonnement de Grok.
+- Génération d'images : Accédez gratuitement à la création d'images de haute qualité grâce aux capacités avancées de Grok AI.
+- En temps réel : Avec un accès aux données actuelles de X et du web, Grok fournit des informations à jour pour vos questions, vous tenant informé des derniers développements.
+- Ton conversationnel : Engageant et humoristique, Grok rend l'apprentissage et la collecte d'informations agréables, le distinguant des autres chatbots IA.
+- Axé sur la confidentialité : Toutes les interactions avec les données sont gérées en gardant à l'esprit la confidentialité des utilisateurs, garantissant une expérience sécurisée conforme à la politique de confidentialité de xAI.
 
-• JOUEZ ET GAGNEZ DES POINTS FIDÉLITÉ
-Terminez des niveaux et débloquez des succès pour accumuler des points. C’est aussi simple que ça. Plus vous jouez, plus vous gagnez !
+Avec Grok comme copilote, naviguer dans l'immense étendue de la connaissance devient un voyage passionnant. Son intégration avec X et son accent sur les informations en temps réel en font le compagnon idéal pour ceux qui recherchent un assistant alimenté par l'IA.
 
-• DES RÉCOMPENSES TOUTES LES 3 HEURES
-Avec JustPlay, pas d’attente interminable. Toutes les 3 heures, convertissez vos points de fidélité en récompenses bien réelles. En partenariat avec des acteurs mondiaux comme Amazon et PayPal, votre temps de jeu est vraiment valorisé.
+Conditions de service : https://x.ai/legal/terms-of-service
+Politique de confidentialité : https://x.ai/legal/privacy-policy
 
-• FAITES UN DON À DES ASSOCIATIONS DE RÉFÉRENCE
-JustPlay, ce n’est pas que des récompenses. C’est le seul programme de fidélité gaming qui vous permet aussi de redonner. Choisissez de reverser vos gains à des organisations majeures comme The Hunger Project, Médecins Sans Frontières ou Clean Air Force, entre autres. Et pour chaque don, Gimica ajoute le même montant : votre impact est doublé.
+Grok par xAI
 
-• BOOSTEZ VOTRE EXPÉRIENCE GIMICA
-Passez au niveau supérieur avec JustPlay. Profitez de vos jeux favoris, soutenez des causes qui comptent et obtenez de super récompenses - le tout au même endroit.
-
-Installez JustPlay dès maintenant, plongez dans l’univers fun des jeux casual et gagnez en jouant. It’s time to JustPlay !
-Rendez votre temps avec Gimica encore plus gratifiant : avantages supplémentaires ou soutien à des causes importantes, JustPlay ajoute du + à chaque session de jeu.
-
-[View on Apple](https://apps.apple.com/fr/app/justplay-cumulez-pts-fid%C3%A9lit%C3%A9/id6444946155)
-
-<a id="indrive-au-dela-du-taxi"></a>
-## inDrive - Au-delà du taxi
-
-![inDrive - Au-delà du taxi](../../logos/780125801-67a36a55.png)
-
-Depuis notre siège en Californie, nous avons lancé inDrive dans 48 pays à travers le monde.
-
-Nouvelle success story de la Silicon Valley, inDrive est une application de covoiturage gratuite disponible dans plus de 1100 villes de 48 pays. Nous nous développons rapidement en remettant le pouvoir entre les mains des gens. 
-
-Ici, des trajets abordables pour les passagers sont toujours synonymes de trajets bien rémunérés pour les conducteurs. 
-
-En tant que passager, vous pouvez trouver rapidement une course et convenir d'un tarif équitable avec le conducteur.
-
-En tant que conducteur, vous pouvez conduire de manière flexible selon votre propre horaire et choisir les trajets que vous prenez.
-
-ÉQUITABLE POUR TOUS
-Un prix équitable est celui sur lequel vous vous mettez d'accord - et non celui que vous espérez. inDrive existe pour prouver que les gens peuvent toujours se mettre d'accord. 
-
-RAPIDE ET FACILE
-Il est simple et rapide de demander un trajet abordable - il suffit de saisir les points " A " et " B " dans l'application, d'indiquer le prix que vous êtes prêt à payer et de choisir votre conducteur.
-
-PROPOSEZ VOTRE TARIF
-inDrive vous offre une expérience de covoiturage sur mesure et sans surcharge. C'est vous, et non l'algorithme, qui décidez du tarif et choisissez le conducteur. Nous ne fixons pas le prix en fonction du temps et du kilométrage comme d'autres services. Vous convenez d'un prix gagnant-gagnant avec le conducteur avant le début de la course.
-
-CHOISISSEZ VOTRE CONDUCTEUR
-inDrive vous permet de choisir votre conducteur à partir d'une liste de conducteurs qui ont accepté votre demande de transport. Choisissez-les en fonction de la meilleure offre, de l'heure d'arrivée, de l'évaluation du conducteur, du nombre de trajets effectués et même du modèle de voiture.
-
-RESTEZ EN SÉCURITÉ
-Consultez le nom du conducteur, le modèle de voiture, le numéro de plaque d'immatriculation et le nombre de trajets déjà effectués avant d'accepter la course. Pendant votre trajet, vous pouvez partager les informations relatives au conducteur et la localisation de la voiture en temps réel avec votre famille ou vos amis en utilisant le bouton ""Partager votre trajet"". Votre géolocalisation en temps réel peut être partagée via des messageries, des réseaux sociaux, des e-mails ou des SMS. Tout cela est mis en place pour rendre votre expérience sûre et fiable. Nous ajoutons continuellement de nouvelles fonctions de sécurité à l'application pour que les conducteurs et les passagers puissent profiter de trajets 100 % sûrs.
-
-AJOUTEZ DES OPTIONS DE VOYAGE
-Vous avez des besoins spécifiques ? Précisez les options de voyage - un SUV, des arrêts supplémentaires en cours de route, un siège enfant ou la prise en compte de besoins particuliers. Vous pouvez indiquer vos demandes spécifiques ou tout autre détail dans le champ des commentaires, par exemple "je voyage avec mon animal de compagnie", "j'ai des bagages", etc.
-
-INSCRIVEZ-VOUS COMME CONDUCTEUR ET GAGNEZ DE L'ARGENT SUPPLÉMENTAIRE
-Si vous avez une voiture, inDrive vous offre une excellente opportunité de gagner de l'argent supplémentaire. Définissez votre horaire et profitez d'une transparence totale avec inDrive. Voyez le lieu de dépôt de votre passager et son prix avant d'accepter la demande de transport. Si le prix proposé par le passager ne vous semble pas suffisant, vous pouvez toujours proposer votre tarif ou sauter les trajets qui ne vous plaisent pas, sans aucune pénalité.
-Mieux encore, les tarifs de service bas ou nuls signifient que vous gagnez plus d'argent en conduisant avec inDrive !
-
-Nous sommes impatients que vous en fassiez l'expérience. Installez l'application et allons-y ! La seule et unique application de mobilité qui convient à tout le monde. Ici, les clients et les fournisseurs de services peuvent choisir l'un ou l'autre et afficher leurs tarifs pour chaque service.
-
-[View on Apple](https://apps.apple.com/fr/app/indrive-au-del%C3%A0-du-taxi/id780125801)
-
-<a id="flo-calendrier-menstruel"></a>
-## Flo : calendrier menstruel
-
-![Flo : calendrier menstruel](../../logos/1038369065-82347411.png)
-
-Vivez en harmonie avec votre cycle en utilisant Flo, l’appli de santé féminine la plus populaire au monde. Obtenez des informations et des prévisions personnalisées au sujet de votre corps.
-
-Flo est votre partenaire unique pour tous les aspects de la santé féminine : prédire les règles, tomber enceinte, suivre une grossesse ou mieux comprendre des symptômes. Rejoignez plus de 460 millions de membres.
-
-Avantages de Flo :
-– Vos données sont en sécurité : Flo est le premier outil de suivi des règles et de l’ovulation à obtenir les certifications ISO 27001 et ISO 27701, des normes de pointe en matière de protection des données.
-– Vous vous sentez mieux compris·e : partagez vos données Flo via Flo à deux pour vous sentir plus proche et bénéficier d’un meilleur soutien.
-– Vous profitez d’un niveau de protection supplémentaire : avec le mode Anonyme, personne, pas même Flo, ne peut vous identifier d’après vos données de santé.
-– Vous accédez à des informations de santé fiables : Flo collabore avec une organisation mondialement reconnue qui agit en faveur de la santé et des droits en matière de reproduction, pour vous offrir un soutien fiable.
-
-Voici ce que Flo Premium vous offre :
-– Rapports mensuels sur le cycle
-– Tendances et prévisions de symptômes
-– Prévisions personnalisées
-– Suivi détaillé de la grossesse
-– Accès complet à Flo à deux
-– Assistant Flo Health 24 h/24 et 7 j/7
-– Articles, vidéos et cours tous vérifiés par l’un·e des 140 spécialistes de la santé de Flo
-
-Flo inclut désormais la périménopause :
-– Découvrez ce à quoi peut ressembler la périménopause et comment rester à l’écoute des changements de votre corps.
-– Apprenez-en plus sur les symptômes courants de la périménopause et comment les soulager.
-– Prenez des décisions plus éclairées sur votre santé et identifiez vos besoins pour vous sentir au top de votre forme.
-
-Commencez à suivre votre cycle gratuitement aujourd’hui.
-
-Politique de confidentialité et Conditions d’utilisation :
-https://flo.health/fr/politique-de-confidentialite 
-https://flo.health/fr/conditions-dutilisation
-
-Suivez Flo :
-Web : flo.health
-TikTok : @flotracker
-Instagram : @flotracker
-
-Remarque : Flo n’est pas un outil de diagnostic et ne doit pas être utilisée comme moyen de contraception ou pour faciliter la conception. Les prévisions et les informations de l’application sont fournies à titre indicatif uniquement. Elles ne peuvent se substituer à un avis, diagnostic ou traitement médical professionnel. Consultez systématiquement un·e professionnel·le de santé qualifié·e pour toute décision ou tout problème lié à votre santé.
-
-Flo utilise HealthKit pour lire vos données de cycle menstruel et exporter vos activités Flo vers l’appli Santé.
-
-Si vous avez des difficultés à utiliser l’application, contactez Flo via support@flo.health.
-
-[View on Apple](https://apps.apple.com/fr/app/flo-calendrier-menstruel/id1038369065)
+[View on Apple](https://apps.apple.com/fr/app/grok-assistant-ia/id6670324846)
 
 <a id="boursobank"></a>
 ## BoursoBank
@@ -4167,3 +3836,228 @@ Liste des établissements éligibles disponible sur votre Espace Client.
 Boursorama - 44 rue Traversière, CS 80134, 92772 BOULOGNE BILLANCOURT CEDEX
 
 [View on Apple](https://apps.apple.com/fr/app/boursobank/id425368900)
+
+<a id="snapchat-chats-entre-ami-e-s"></a>
+## Snapchat : chats entre ami·e·s
+
+![Snapchat : chats entre ami·e·s](../../logos/447188370-e68d9fee.png)
+
+Snapchat est un moyen rapide et amusant de partager un moment avec votre famille et vos ami·e·s 
+
+SNAPS
+• Snapchat s'ouvre directement sur l'appareil photo. Il suffit alors d'appuyer pour prendre une photo, ou d'appuyer longuement pour commencer à filmer. 
+• Faites parler votre créativité avec des Lenses, des Filtres, des Bitmojis et bien plus ! 
+• Essayez chaque jour de nouvelles Lenses, créées par la communauté Snapchat !
+
+CHAT
+• Restez en contact avec vos ami·e·s grâce aux messages instantanés, ou partagez votre journée dans les Stories de groupe. 
+• Retrouvez jusqu'à 16 ami·e·s en même temps lors des appels vidéo, et agrémentez la discussion par des Lenses et des Filtres ! 
+• Exprimez-vous à l'aide de Friendmojis, des Bitmojis créés exclusivement pour vous et l'un·e de vos ami·e·s.
+
+STORIES
+• Regardez les Stories de vos ami·e·s pour suivre leur journée. 
+• La communauté Snapchat sélectionne pour vous des Stories qui correspondent à vos centres d'intérêt. 
+• Découvrez les dernières actualités et des Émissions originales exclusives.
+
+SPOTLIGHT
+• Sur Spotlight, seule la crème de la crème Snapchat est autorisée ! 
+• Envoyez vos propres Snaps, ou installez-vous confortablement pour profiter du contenu. 
+• Sélectionnez vos favoris pour les partager avec vos ami·e·s.
+
+CARTE 
+• Partagez votre localisation avec vos meilleur·e·s ami·e·s, ou disparaissez des radars grâce au Mode Fantôme. 
+• Utilisez votre carte personnelle pour savoir ce que font vos ami·e·s lorsqu'ils partagent leur position avec vous. 
+• Découvrez les Live Stories de la communauté, à deux pas de chez vous ou à l'autre bout du monde !
+
+SOUVENIRS
+• Enregistrez autant de photos et de vidéos que vous voulez pour garder une trace de vos meilleurs moments. 
+• Modifiez et envoyez des souvenirs à vos ami·e·s, ou enregistrez-les sur votre appareil. 
+• Transformez vos Souvenirs préférés en Stories pour en faire profiter vos ami·e·s et votre famille.
+
+PROFIL D'AMITIÉ 
+• Chaque amitié possède son propre profil, créé spécialement pour se remémorer les moments partagés à deux. 
+• Trouvez-vous de nouveaux points communs grâce aux badges, comme la durée de votre amitié, votre compatibilité astrologique, votre sens de la mode Bitmoji et bien plus ! 
+• Les profils d'amitié sont réservés à vous et à votre ami·e, pour vous laisser chérir ce qui rend votre lien si spécial.
+
+Bons Snaps !
+
+Important : les Snapchatters peuvent toujours faire des captures d'écran de vos messages ou les conserver, par exemple en les prenant en photo. Faites donc attention à ce que vous mettez dans vos Snaps !
+
+Pour une description complète de nos pratiques de confidentialité, consultez notre Centre de confidentialité.
+
+[View on Apple](https://apps.apple.com/fr/app/snapchat-chats-entre-ami-e-s/id447188370)
+
+<a id="transavia"></a>
+## Transavia
+
+![Transavia](../../logos/582302037-20e77d38.png)
+
+Prêt(e) pour votre prochain voyage ? Grâce à notre application, trouvez des billets d'avion à petit prix, réservez en quelques clics et gérez facilement votre réservation !  Avec plus de 120 destinations, on vous emmène où ?
+
+Avec l'application vous pouvez :
+- Rechercher des billets et réserver votre vol
+- Ajouter des bagages cabine ou soute
+- Réserver un siège
+- Visualiser et gérer votre réservation
+- Vous enregistrer en ligne 
+- Télécharger votre carte d'embarquement
+ - Recevoir des alertes concernant votre réservation et le statut de votre vol
+- Vous connecter à votre compte Mon Transavia
+
+Toutes vos informations de voyage regroupées : 
+- avec notre application, retrouvez toutes vos informations de voyage au même endroit pour une expérience optimale. Réservez et gérez votre voyage en quelques clics. C'est l'heure de s'enregistrer ? Vous recevrez une notification depuis l'application.
+
+Le saviez-vous ? Vous pouvez vous enregistrer en ligne jusqu'à 30h avant votre départ (pour la plupart de nos vols).
+
+[View on Apple](https://apps.apple.com/fr/app/transavia/id582302037)
+
+<a id="justplay-cumulez-pts-fide-lite"></a>
+## JustPlay: Cumulez pts fidélité
+
+![JustPlay: Cumulez pts fidélité](../../logos/6444946155-a1006490.png)
+
+Bienvenue sur JustPlay, le programme de fidélité exclusif pour les fans de Gimica Games ! Nous avons conçu ce programme pour vous récompenser pour ce que vous aimez le plus : jouer à vos jeux Gimica préférés.
+
+Voici comment ça marche :
+
+• JOUEZ ET GAGNEZ DES POINTS FIDÉLITÉ
+Terminez des niveaux et débloquez des succès pour accumuler des points. C’est aussi simple que ça. Plus vous jouez, plus vous gagnez !
+
+• DES RÉCOMPENSES TOUTES LES 3 HEURES
+Avec JustPlay, pas d’attente interminable. Toutes les 3 heures, convertissez vos points de fidélité en récompenses bien réelles. En partenariat avec des acteurs mondiaux comme Amazon et PayPal, votre temps de jeu est vraiment valorisé.
+
+• FAITES UN DON À DES ASSOCIATIONS DE RÉFÉRENCE
+JustPlay, ce n’est pas que des récompenses. C’est le seul programme de fidélité gaming qui vous permet aussi de redonner. Choisissez de reverser vos gains à des organisations majeures comme The Hunger Project, Médecins Sans Frontières ou Clean Air Force, entre autres. Et pour chaque don, Gimica ajoute le même montant : votre impact est doublé.
+
+• BOOSTEZ VOTRE EXPÉRIENCE GIMICA
+Passez au niveau supérieur avec JustPlay. Profitez de vos jeux favoris, soutenez des causes qui comptent et obtenez de super récompenses - le tout au même endroit.
+
+Installez JustPlay dès maintenant, plongez dans l’univers fun des jeux casual et gagnez en jouant. It’s time to JustPlay !
+Rendez votre temps avec Gimica encore plus gratifiant : avantages supplémentaires ou soutien à des causes importantes, JustPlay ajoute du + à chaque session de jeu.
+
+[View on Apple](https://apps.apple.com/fr/app/justplay-cumulez-pts-fid%C3%A9lit%C3%A9/id6444946155)
+
+<a id="carrefour-sa-carte-club"></a>
+## Carrefour & sa carte Club
+
+![Carrefour & sa carte Club](../../logos/378305156-0e8436e3.png)
+
+Accédez à l'application Carrefour France pour simplifier toutes vos courses et optimiser votre budget. Que vous souhaitiez faire votre marché en ligne, préparer une liste de courses ou simplement consulter les promotions, tout est désormais à portée de main. Organisez vos achats en Drive, en livraison à domicile ou en magasin, parcourez nos catalogues exclusifs, profitez d'offres personnalisées et gérez votre fidélité en toute simplicité. Avec Carrefour, chaque course devient plus simple, plus pratique et plus économique. 
+
+LE PRINTEMPS EST LÀ
+Préparez vos courses en ligne via l'application pour la saison avec des produits frais Carrefour, des fruits et légumes de saison, et des idées de recettes printanières. Profitez des beaux jours avec vos courses en drive ou en livraison, et préparez vos repas en extérieur, pique-niques et moments en famille pour le printemps.
+
+GARDEZ LE CONTRÔLE DE VOS DÉPENSES
+Recevez une notification de ticket de caisse directement sur votre téléphone à chaque passage en caisse en magasin ou en station-service. Consultez vos tickets dans l’application et suivez facilement vos dépenses pour mieux gérer votre budget.
+
+TOUTES LES PROMOTIONS AU MÊME ENDROIT
+Retrouvez facilement toutes les promotions Carrefour directement dans l’application. Accédez aux catalogues, aux bons plans, aux offres personnalisées et aux réductions sur vos courses du quotidien. Faites des économies sur vos produits alimentaires, produits frais et grandes marques, en drive ou en livraison à domicile.
+
+AVEC CARREFOUR
+Simplifiez vos courses au quotidien
+L'application Carrefour vous accompagne pour faire vos courses rapidement et facilement. Créez des listes de courses organisées, consultez l'historique de vos achats pour retrouver facilement vos articles préférés et ajoutez-les à votre panier en un seul clic. Gagnez un temps précieux et optimisez vos achats grâce à une interface intuitive et personnalisée qui mémorise vos habitudes.
+
+DRIVE, LIVRAISON, MAGASIN : DES OPTIONS FLEXIBLES
+Carrefour s'adapte à votre emploi du temps et à vos besoins :
+- Drive : Commandez en ligne et retirez vos courses en magasin, sans sortir de votre véhicule.
+- Livraison à domicile : Faites-vous livrer vos courses directement chez vous, à l'heure qui vous convient le mieux.
+- En magasin : Préparez votre liste sur l'application et utilisez-la pour vous guider dans les rayons.
+C'est l'outil idéal pour gérer toutes vos actions Carrefour en un seul endroit.
+
+LE CLUB CARREFOUR : FIDÉLITÉ RÉCOMPENSÉE
+Avec la carte Club Carrefour intégrée à l'application, cumulez des euros sur vos achats, bénéficiez d'offres exclusives et retrouvez vos bons de réduction personnalisés directement depuis votre téléphone. Votre fidélité est récompensée à chaque passage en caisse, et vous pouvez suivre en temps réel le solde de votre cagnotte directement sur l'application. Gérez facilement votre carte Carrefour.
+
+UNE GAMME DE PRODUITS RICHE ET ÉCO-RESPONSABLE
+Carrefour s'engage à vous offrir une diversité de produits pour répondre à toutes vos attentes : produits frais, bio et locaux, articles pour vos animaux, équipements pour la maison, et bien plus encore. Notre interface, intuitive et sécurisée, rend vos courses toujours plus simples. Recevez des notifications personnalisées pour ne manquer aucune promotion sur vos produits favoris.
+
+Téléchargez l'application dès aujourd'hui et rendez vos achats plus pratiques et économiques. Avec Carrefour, on a tous droit au meilleur, au meilleur prix !
+
+[View on Apple](https://apps.apple.com/fr/app/carrefour-sa-carte-club/id378305156)
+
+<a id="flo-calendrier-menstruel"></a>
+## Flo : calendrier menstruel
+
+![Flo : calendrier menstruel](../../logos/1038369065-82347411.png)
+
+Vivez en harmonie avec votre cycle en utilisant Flo, l’appli de santé féminine la plus populaire au monde. Obtenez des informations et des prévisions personnalisées au sujet de votre corps.
+
+Flo est votre partenaire unique pour tous les aspects de la santé féminine : prédire les règles, tomber enceinte, suivre une grossesse ou mieux comprendre des symptômes. Rejoignez plus de 460 millions de membres.
+
+Avantages de Flo :
+– Vos données sont en sécurité : Flo est le premier outil de suivi des règles et de l’ovulation à obtenir les certifications ISO 27001 et ISO 27701, des normes de pointe en matière de protection des données.
+– Vous vous sentez mieux compris·e : partagez vos données Flo via Flo à deux pour vous sentir plus proche et bénéficier d’un meilleur soutien.
+– Vous profitez d’un niveau de protection supplémentaire : avec le mode Anonyme, personne, pas même Flo, ne peut vous identifier d’après vos données de santé.
+– Vous accédez à des informations de santé fiables : Flo collabore avec une organisation mondialement reconnue qui agit en faveur de la santé et des droits en matière de reproduction, pour vous offrir un soutien fiable.
+
+Voici ce que Flo Premium vous offre :
+– Rapports mensuels sur le cycle
+– Tendances et prévisions de symptômes
+– Prévisions personnalisées
+– Suivi détaillé de la grossesse
+– Accès complet à Flo à deux
+– Assistant Flo Health 24 h/24 et 7 j/7
+– Articles, vidéos et cours tous vérifiés par l’un·e des 140 spécialistes de la santé de Flo
+
+Flo inclut désormais la périménopause :
+– Découvrez ce à quoi peut ressembler la périménopause et comment rester à l’écoute des changements de votre corps.
+– Apprenez-en plus sur les symptômes courants de la périménopause et comment les soulager.
+– Prenez des décisions plus éclairées sur votre santé et identifiez vos besoins pour vous sentir au top de votre forme.
+
+Commencez à suivre votre cycle gratuitement aujourd’hui.
+
+Politique de confidentialité et Conditions d’utilisation :
+https://flo.health/fr/politique-de-confidentialite 
+https://flo.health/fr/conditions-dutilisation
+
+Suivez Flo :
+Web : flo.health
+TikTok : @flotracker
+Instagram : @flotracker
+
+Remarque : Flo n’est pas un outil de diagnostic et ne doit pas être utilisée comme moyen de contraception ou pour faciliter la conception. Les prévisions et les informations de l’application sont fournies à titre indicatif uniquement. Elles ne peuvent se substituer à un avis, diagnostic ou traitement médical professionnel. Consultez systématiquement un·e professionnel·le de santé qualifié·e pour toute décision ou tout problème lié à votre santé.
+
+Flo utilise HealthKit pour lire vos données de cycle menstruel et exporter vos activités Flo vers l’appli Santé.
+
+Si vous avez des difficultés à utiliser l’application, contactez Flo via support@flo.health.
+
+[View on Apple](https://apps.apple.com/fr/app/flo-calendrier-menstruel/id1038369065)
+
+<a id="mcdo-faites-vous-livrer"></a>
+## McDo+ : Faites-vous livrer !
+
+![McDo+ : Faites-vous livrer !](../../logos/324887734-4d579a48.png)
+
+L'application McDo+ évolue pour rendre chaque commande simple et rapide. Commandez et dégustez les incontournables de McDonald's en quelques clics : Big Mac™, 280™, McChicken™, McNuggets™, McFlurry™, Happy Meal™  et bien plus encore ! Avec McDo+, bénéficiez des mêmes prix qu'en restaurant et cumulez des points de fidélité pour des récompenses exclusives.
+
+Tous les Services McDo+ au Bout des Doigts
+
+- Programme de Fidélité : Activez votre programme de fidélité et cumulez des points pour des offres exclusives. Échangez vos points contre des produits gratuits (petite boisson, Happy Meal™, Maxi Best Of™) et des articles collectors uniques comme des serviettes de plage, sauces Big Mac™ et bien plus encore.
+- Livraison : Faites-vous livrer vos plats préférés directement chez vous pour un repas sans interruption.
+- Click & Collect : Commandez sur l’app et récupérez votre commande au McDrive ou en restaurant.
+- Click & Ready™ : Choisissez le service piéton ou parking, lancez la préparation de votre commande en arrivant près du restaurant et récupérez-la sans attente.
+- Service à Table : Installez-vous, scannez le QR code via l'app McDo+, commandez depuis votre mobile, et détendez-vous – on vous apporte votre commande directement à table.
+- Offres Personnalisées : Profitez d’offres exclusives adaptées à vos préférences et à votre restaurant préféré.
+
+Nouveau : Plongez dans la Ligue 1 avec McDonald's
+
+Fans de football, vivez la passion de la Ligue 1 entre amis avec McDo+ ! 
+Découvrez des menus exclusifs Menu Golden Ligue 1, à déguster en solo ou le   Menu Golden Ligue 1 Duo  à partager entre amis.
+Célébrez chaque match et commandez facilement depuis l’application McDo+ pour une expérience conviviale et gourmande, où que vous soyez !
+
+Des Fonctions Pratiques pour Simplifier Vos Commandes
+
+- Trouver un restaurant : Repérez facilement le McDonald's le plus proche, partout en France.
+- Commandes favorites : Sauvegardez vos commandes préférées pour les retrouver en un clic.
+- Notifications push : Activez les notifications pour rester informé des nouveautés, offres, et autres actualités toujours plus exclusives de votre enseigne McDonalds. 
+ 
+Des Services Spéciaux pour les Familles
+
+- Ateliers de Créativité : Inscrivez vos enfants aux ateliers gratuits pour stimuler leur créativité.
+- Anniversaires McDonald’s : Organisez un anniversaire inoubliable avec animations, goûter et activités amusantes. Vos enfants vivront une aventure incroyable, avec magiciens, licornes, yétis et plus encore !
+ 
+
+Téléchargez McDo+ dès maintenant et profitez d'une application de commande rapide et personnalisée, avec des expériences exclusives !
+
+Les Services McDo+ sont disponibles dans les restaurants participants. Plus d'informations sur l'application McDo+ et le site mcdonalds.fr.
+
+[View on Apple](https://apps.apple.com/fr/app/mcdo-faites-vous-livrer/id324887734)

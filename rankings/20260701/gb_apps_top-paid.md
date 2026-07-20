@@ -9,44 +9,47 @@
 - [Trunks across the Thames](#trunks-across-the-thames)
 - [St Luke's Guiding Lights](#st-luke-s-guiding-lights)
 - [Manager for KuKirin](#manager-for-kukirin)
-- [Procreate Pocket](#procreate-pocket)
 - [CITB MAP HS&E test V11](#citb-map-hs-e-test-v11)
+- [Procreate Pocket](#procreate-pocket)
 - [AnkiMobile Flashcards](#ankimobile-flashcards)
 - [Parchment: Agenda & Daily Note](#parchment-agenda-daily-note)
-- [Freya • Surge Timer](#freya-surge-timer)
-- [PeakFinder](#peakfinder)
-- [Shambala 2026](#shambala-2026)
-- [Monash FODMAP Diet](#monash-fodmap-diet)
-- [TeleGuard](#teleguard)
-- [The Official DVSA Highway Code](#the-official-dvsa-highway-code)
-- [Streaks](#streaks)
-- [Blueprint 4-Track](#blueprint-4-track)
 - [Site Audit Pro](#site-audit-pro)
+- [Freya • Surge Timer](#freya-surge-timer)
+- [Monash FODMAP Diet](#monash-fodmap-diet)
+- [Shambala 2026](#shambala-2026)
+- [PeakFinder](#peakfinder)
+- [The Official DVSA Highway Code](#the-official-dvsa-highway-code)
+- [TeleGuard](#teleguard)
+- [RESET by Sarah Rusbatch](#reset-by-sarah-rusbatch)
+- [Streaks](#streaks)
 - [Spirit Talker ®](#spirit-talker)
-- [Baby Led Weaning Recipes](#baby-led-weaning-recipes)
 - [Blitzer.de PRO](#blitzer-de-pro)
-- [HappyCow - Vegan Food Near You](#happycow-vegan-food-near-you)
+- [Blueprint 4-Track](#blueprint-4-track)
 - [Hit the Button Maths](#hit-the-button-maths)
-- [Goblin Tools](#goblin-tools)
+- [Baby Led Weaning Recipes](#baby-led-weaning-recipes)
+- [Universalis](#universalis)
+- [HappyCow - Vegan Food Near You](#happycow-vegan-food-near-you)
+- [Threema. Der sichere Messenger](#threema-der-sichere-messenger)
 - [DVSA Hazard Perception](#dvsa-hazard-perception)
-- [WorkOutDoors](#workoutdoors)
 - [Llwybrau'r Wyddfa](#llwybrau-r-wyddfa)
+- [Goblin Tools](#goblin-tools)
+- [Blower](#blower)
+- [Fussy Toddler Recipes](#fussy-toddler-recipes)
+- [WorkOutDoors](#workoutdoors)
 - [Koala Sampler • Beat Maker](#koala-sampler-beat-maker)
 - [Paprika Rezept-Manager 3](#paprika-rezept-manager-3)
-- [Universalis](#universalis)
 - [Shot Tracer](#shot-tracer)
 - [Bear's Big Adventure Trail](#bear-s-big-adventure-trail)
-- [Blower](#blower)
 - [Wales Airshow](#wales-airshow)
 - [Life in the UK 2026 Test Prep](#life-in-the-uk-2026-test-prep)
-- [Threema. Der sichere Messenger](#threema-der-sichere-messenger)
-- [Fussy Toddler Recipes](#fussy-toddler-recipes)
+- [Driver CPC Case Studies Test](#driver-cpc-case-studies-test)
 - [Stylebook](#stylebook)
+- [Spelling Shed](#spelling-shed)
 - [Slow Shutter Cam](#slow-shutter-cam)
-- [RESET by Sarah Rusbatch](#reset-by-sarah-rusbatch)
+- [HealthFit](#healthfit)
+- [AutoSleep - 苹果手表睡眠监测，睡觉记录及智能闹钟](#autosleep-苹果手表睡眠监测-睡觉记录及智能闹钟)
 - [Wipr 2](#wipr-2)
 - [PhotoPills](#photopills)
-- [Driver CPC Case Studies Test](#driver-cpc-case-studies-test)
 - [Ableton Note](#ableton-note)
 - [Cloud Baby Monitor](#cloud-baby-monitor)
 - [Antenna Finder](#antenna-finder)
@@ -54,13 +57,13 @@
 - [Ship Finder](#ship-finder)
 - [Squeezy Men](#squeezy-men)
 - [SkyView®](#skyview)
-- [HealthFit](#healthfit)
 - [FL Studio Mobile](#fl-studio-mobile)
 - [Things 3](#things-3)
-- [AutoSleep - 苹果手表睡眠监测，睡觉记录及智能闹钟](#autosleep-苹果手表睡眠监测-睡觉记录及智能闹钟)
 - [Unora](#unora)
+- [Camping Assistant: Ausrichten](#camping-assistant-ausrichten)
 - [BritTest: Life in the UK Test practice tests](#brittest-life-in-the-uk-test-practice-tests)
-- [Spelling Shed](#spelling-shed)
+- [Bristol Playgrounds](#bristol-playgrounds)
+- [Gus on the Go: French](#gus-on-the-go-french)
 - [QZ - qdomyos-zwift](#qz-qdomyos-zwift)
 - [U.K. Biker Cafes](#u-k-biker-cafes)
 - [Foundation Doctor Handbook](#foundation-doctor-handbook)
@@ -72,29 +75,26 @@
 - [Stop Motion Studio Pro](#stop-motion-studio-pro)
 - [My Tide Times Pro - Tide Chart](#my-tide-times-pro-tide-chart)
 - [Theory Lessons](#theory-lessons)
-- [TonalEnergy Stimmgerät & Metro](#tonalenergy-stimmgera-t-metro)
+- [WikiCamps Australia](#wikicamps-australia)
+- [TonalEnergy Tuner & Metronome](#tonalenergy-tuner-metronome)
 - [Isle of Man Theory Test Suite](#isle-of-man-theory-test-suite)
+- [Better ST for Bose SoundTouch](#better-st-for-bose-soundtouch)
+- [Scrivener](#scrivener)
 - [Love, Manuela](#love-manuela)
+- [The Great White App](#the-great-white-app)
+- [Network Analyzer Pro](#network-analyzer-pro)
 - [ABRSM Music Theory Trainer](#abrsm-music-theory-trainer)
+- [Radio Stations UK - Live FM](#radio-stations-uk-live-fm)
+- [Seconds Pro Interval Timer](#seconds-pro-interval-timer)
 - [Cozmo Robot](#cozmo-robot)
 - [YoungPhoto - Aesthetic Camera](#youngphoto-aesthetic-camera)
+- [PromptSmart Pro - Teleprompter](#promptsmart-pro-teleprompter)
 - [AutoSnore: 鼾声记录器](#autosnore-鼾声记录器)
 - [LocoPast: The History Map](#locopast-the-history-map)
-- [Camping Assistant: Ausrichten](#camping-assistant-ausrichten)
 - [FORScan Lite - for Ford, Mazda](#forscan-lite-for-ford-mazda)
 - [ProCamera. RAW+ Fotografie](#procamera-raw-fotografie)
+- [Jersey Theory Test Suite](#jersey-theory-test-suite)
 - [CS Card Test Revision 2026](#cs-card-test-revision-2026)
-- [Voice Recorder : Ton aufnehmen](#voice-recorder-ton-aufnehmen)
-- [Moment Pro Camera II](#moment-pro-camera-ii)
-- [Watch to 5K: Couch to 5km plan](#watch-to-5k-couch-to-5km-plan)
-- [Bristol Playgrounds](#bristol-playgrounds)
-- [Knoten 3D  (Knots 3D)](#knoten-3d-knots-3d)
-- [Alice Box](#alice-box)
-- [Gruffalo: Games](#gruffalo-games)
-- [LineLearner](#linelearner)
-- [Morse-It](#morse-it)
-- [atvTools](#atvtools)
-- [World Map Pro Edition](#world-map-pro-edition)
 
 <a id="driving-theory-test-4-in-1-kit"></a>
 ## Driving Theory Test 4 in 1 Kit
@@ -439,6 +439,30 @@ Kompatybilność: KuKirin G2 / G2 Master / G3 / G4
 
 [View on Apple](https://apps.apple.com/gb/app/manager-for-kukirin/id6778099993)
 
+<a id="citb-map-hs-e-test-v11"></a>
+## CITB MAP HS&E test V11
+
+![CITB MAP HS&E test V11](../../logos/6445915563-7171fd04.png)
+
+*The Official CITB HS&E test app for Managers and Professionals (GT200) V11*
+ 
+The CITB Health, Safety and Environment (HS&E) Managers and Professionals (GT200-V11) test app offers the only complete revision experience available. This app contains everything you need to know to book, prepare for and sit the Managers and Professionals HS&E test.
+ 
+Key application features:
+• Experience our most realistic test simulation yet - revise on the move using your smartphone or tablet
+• Benefit from having the full suite of revision material on your mobile device – practise the knowledge questions with the ability to navigate forwards, backwards and flag questions for review
+• Take a simulated test against the clock, to measure how ready you really are and where further preparation is needed
+• Read through the entire, up to date, official question bank, category by category
+• Search the question bank for keywords and sit tests on matching items
+• Sit a practice test covering your weakest areas
+• Smart revision technology concentrates on unseen questions and those you have answered incorrectly, to minimise repetition and maximise learning
+• Review your progress with a comprehensive breakdown of scores – look at individual questions to see which answers are correct, and watch as your scores improve over time with practice
+• Revise for your test, with voiceovers in English or on-screen text in Welsh
+• Share your score on Facebook and Twitter
+• Find your closest HS&E test centres, when you are ready to book and take your test
+
+[View on Apple](https://apps.apple.com/gb/app/citb-map-hs-e-test-v11/id6445915563)
+
 <a id="procreate-pocket"></a>
 ## Procreate Pocket
 
@@ -524,30 +548,6 @@ Procreate Pocket 就是你手中的移动画室。
 
 [View on Apple](https://apps.apple.com/gb/app/procreate-pocket/id916366645)
 
-<a id="citb-map-hs-e-test-v11"></a>
-## CITB MAP HS&E test V11
-
-![CITB MAP HS&E test V11](../../logos/6445915563-7171fd04.png)
-
-*The Official CITB HS&E test app for Managers and Professionals (GT200) V11*
- 
-The CITB Health, Safety and Environment (HS&E) Managers and Professionals (GT200-V11) test app offers the only complete revision experience available. This app contains everything you need to know to book, prepare for and sit the Managers and Professionals HS&E test.
- 
-Key application features:
-• Experience our most realistic test simulation yet - revise on the move using your smartphone or tablet
-• Benefit from having the full suite of revision material on your mobile device – practise the knowledge questions with the ability to navigate forwards, backwards and flag questions for review
-• Take a simulated test against the clock, to measure how ready you really are and where further preparation is needed
-• Read through the entire, up to date, official question bank, category by category
-• Search the question bank for keywords and sit tests on matching items
-• Sit a practice test covering your weakest areas
-• Smart revision technology concentrates on unseen questions and those you have answered incorrectly, to minimise repetition and maximise learning
-• Review your progress with a comprehensive breakdown of scores – look at individual questions to see which answers are correct, and watch as your scores improve over time with practice
-• Revise for your test, with voiceovers in English or on-screen text in Welsh
-• Share your score on Facebook and Twitter
-• Find your closest HS&E test centres, when you are ready to book and take your test
-
-[View on Apple](https://apps.apple.com/gb/app/citb-map-hs-e-test-v11/id6445915563)
-
 <a id="ankimobile-flashcards"></a>
 ## AnkiMobile Flashcards
 
@@ -609,307 +609,6 @@ Features include:
 Parchment is for people who want a journal that understands the shape of their day. It gives you one place to write what happened, see what is coming up, and keep a private record over time.
 
 [View on Apple](https://apps.apple.com/gb/app/parchment-agenda-daily-note/id6779987526)
-
-<a id="freya-surge-timer"></a>
-## Freya • Surge Timer
-
-![Freya • Surge Timer](../../logos/1447509164-3143eee3.png)
-
-Meet Freya, the world’s first hypnobirthing-friendly birth timer, brought to you by The Positive Birth Company. This award-winning birth timer supports you through labour, coaching you through every single surge (or contraction) with a simple breathing technique and guided relaxations. 
-
-
-Put hypnobirthing techniques into practice during pregnancy, labour and childbirth 
-Relax between surges with a mix of guided relaxations, positive affirmations, gentle music and calming visualisations
-Birth timer that keeps track of surges, logging each surge or contraction so you can see how frequently they are coming and how long they are lasting
-Receive a notification from Freya when your labour is established and it might be a good time to call your midwife
-Use Freya during pregnancy to practice breathing techniques and relaxation 
-Available in French, German, Portuguese, Spanish and Italian
-
-
-Never birth alone with Freya by your side.
-
-
-TRACK YOUR SURGES
-In hypnobirthing we refer to contractions as surges, because a ‘surge’ more accurately describes the sensation you’ll experience when in labour. Freya is the ONLY hypnobirthing-friendly contraction timer on the app store, designed specifically with hypnobirthing mums in mind, using appropriate terminology, but can be used by anyone. If you would like to know more about Hypnobirthing, follow The Positive Birth Company on Instagram or Tik Tok where we share loads of free resources to make your birth better.
-
-
-PREPARE FOR BIRTH
-You can use this birth timer in pregnancy to help you relax and prepare for childbirth. In fact the more you practice your breathing and listen to the guided relaxations and positive affirmations, the more familiar they will become and the more effective they will be at helping you relax when it comes to birth. Positive affirmations have been proven to change the way your mind works and listening regularly will help you feel less anxious and more confident in the lead up to birth. You can practice daily and then reset the surge history whenever you like.
-
-
-THE SCIENCE
-We know the more relaxed you are during birth, the more oxytocin you will produce. Oxytocin helps your uterus to work efficiently, making labour faster and more comfortable.
-
-
-LIFESKILLS
-Freya can be used for pregnancy and post-birth relaxation, any time you feel you could benefit from taking some deep breaths or need some help finding your zen. Everything you learn - mindfulness exercises and breathing techniques - are skills for life.
-
-
-If you have any questions or spot any pesky bugs lurking about the place please do let us know at hello@thepositivebirthcompany.com
-
-
-WHAT YOU’LL GET:
-- iPhone and Apple Watch app
-- Timer to record your surges (also known as a contraction timer) and let you know when you’re in established labour
-- Coaching audio to keep your mind focused on breathing through each surge and the ability to switch between 4 and 8 breath counts or 3 and 6, or turn the counting off altogether.
-- 4 different birth coach voices
-- Guided relaxations, positive affirmations and soothing visuals to help keep you relaxed between surges
-- A gentle expanding visualisation that you can use to sync your breathing
-- Option to record your own music, visualisations or relaxation tracks
-- You can listen to your own playlist on a third party app (such as Spotify) whilst still using the Freya app to keep track of your surges and coach you through each one.
-- A detailed log of your surges over time, so you can track your progress through labour, reset this after you practice breathwork at any time
-- Ability to easily share the log with your birth partner, midwife or doula
-- Coaching created by renowned hypnobirthing expert Siobhan Miller, founder of The Positive Birth Company
-
-
-Download the ONLY hypnobirthing-friendly birth timer on the App Store and prepare to meet your baby in the best possible way, feeling calm and confident, relaxed and happy!
-
-[View on Apple](https://apps.apple.com/gb/app/freya-surge-timer/id1447509164)
-
-<a id="peakfinder"></a>
-## PeakFinder
-
-![PeakFinder](../../logos/357421934-6d5b3f95.png)
-
-群山在召唤！力争在登山家队伍中探索最多高山吧！ PeakFinder让你的梦想成为可能…，还能以360°全景显示所有山脉和山峰的名称。
-该功能可完全脱机离线工作- 全球适用!
-
-本应用的内容涉及到超过1'000'000座山峰- 从珠穆朗玛峰到世界角落的小山丘。
-
-•••••••••
-荣获数个奖项的冠军，如'AppStore最佳应用'、'每周最佳应用',…
-macnewsworld.com, nationalgeographic.com, smokinapps.com, outdoor-magazin.com, digital-geography.com, …强烈推荐
-•••••••••
-
-
-••• 特色 •••
-
-• 可在全球完全脱机离线工作
-• 包括超过1'000'000座山峰的名称
-• 利用全景图覆盖相机图像
-• 快速渲染300公里范围周围地形
-• 数码双目望远镜可选择远方不显著山峰
-• '显示我'功能适合可见的山峰
-• 通过GPS、山峰目录或（在线）地图选择观察点
-• 可像鸟一样在山峰之间飞翔并垂直上升
-• 标记您喜欢的山脉和地方
-• 显示太阳和月球轨道以及升落时间
-• 使用指南针和加速度传感器
-• 山峰目录每周更新
-• 不包含任何经常性费用。您只需一次性付款
-• 无广告
-
-
-••• 评价 •••
-
-iTunes中的每个好评（包括下述更新）都让我快乐。好的评价和评论使我得以一直改进本应用。多谢你的支持！
-
-
-••• 支持 •••
-
-如有问题、疑问、错误、遗漏的山脉名称以及对将来发展想发表意见，我很乐意帮助你。请给我来信：support@peakfinder.com.
-
-[View on Apple](https://apps.apple.com/gb/app/peakfinder/id357421934)
-
-<a id="shambala-2026"></a>
-## Shambala 2026
-
-![Shambala 2026](../../logos/6777216049-43f6d2d4.png)
-
-Drop the outside world at the gates and dive into four days of Adventures in Utopia…
-
-Whether you’re a meticulous planner or a barefoot wanderer, the official Shambala 2026 app is designed to help you squeeze every last drop of joy from your weekend. 
-
-One of the UK’s last truly independent festivals, Shambala takes place over the August Bank Holiday Weekend at a gorgeous Northamptonshire countryside site, with stunning lakes, lush flat fields, woodlands and meadows.
-
-Expect an astonishing array of things to do and see: hundreds of genre-busting musical acts, world-class performances, inspiring talks, captivating art installations, acclaimed poetry, hands-on workshops, and one of the best kids’ areas on the circuit.
-
-We’re also proudly pioneering when it comes to sustainability: meat and fish free, single-use plastic free, 100% renewably-powered, and we’ve reduced our carbon footprint by nearly 90% over the past decade.
-
-About the App:
-Your essential companion for navigating this year’s adventures in utopia, the official Shambala 2026 app lets you:
-
-- Effortlessly browse the full festival line-up
-
-- Build a personalised schedule and set reminders for performances or experiences you don’t want to miss. You can even add your own items - like meet-ups or drinks with friends 
-
-- Keep track of where you are and see what’s happening nearby with our interactive map
-
-- Use GPS to find your tent, car or Campervan pitch
-
-- Explore our diverse array food traders and bars and check for dietary information
-
-- Receive real-time push notifications - from can’t-miss happenings to important weather or safety updates
-
-- Shop our gorgeous Shambala 2026 official merch collection, designed by Sophie Bass
-
-Even after the festival has ended, you’ll be able to stay connected with the Shambala community through the app. Receive updates from utopia, app-first news and get a first taste of Shambala 2027… 
-
-See you in the fields! x
-
-Please note that the app is built to work offline but only if downloaded in advance.
-
-Disclaimer: The Shambala app uses location services to show you nearby performances, food and drink locations and other services. While we have built the app to consume the least amount of power possible, using location services consistently may increase battery consumption.
-
-[View on Apple](https://apps.apple.com/gb/app/shambala-2026/id6777216049)
-
-<a id="monash-fodmap-diet"></a>
-## Monash FODMAP Diet
-
-![Monash FODMAP Diet](../../logos/586149216-db65d5cb.png)
-
-Die Wissenschaftler der Monash University haben die FODMAP-arme Diät und eine zugehörige App entwickelt, um bei der Behandlung von Magen-Darm-Beschwerden im Zusammenhang mit dem Reizdarmsyndrom zu helfen. Die FODMAP-Diät der Monash University funktioniert, indem sie Lebensmittel mit hohem Gehalt an fermentierbaren Kohlenhydraten (FODMAPs) gegen Alternativen mit niedrigem FODMAP-Wert austauscht. Etwa 75 % der Menschen mit Reizdarm erleben eine Symptomlinderung bei einer FODMAP-armen Diät.
-
-Die App kommt direkt vom Forschungsteam der Monash University und beinhaltet Folgendes:
-
-- Allgemeine Informationen über die FODMAP-Diät und Reizdarm.
-- Leicht verständliche Anleitungen, die Sie durch die App und die 3-stufige FODMAP-Diät führen.
-- Ein Lebensmittel-Leitfaden, der den FODMAP-Gehalt für Hunderte von Lebensmitteln mit einem einfachen „Ampelsystem“ beschreibt.. 
-- Eine Liste von Markenprodukten, die von Monash als FODMAP-arm zertifiziert wurden..
-- Eine Sammlung von über 70 nahrhaften, FODMAP-armen Rezepten.. 
-- Funktionen, mit denen Sie Ihre eigene Einkaufsliste erstellen und Notizen zu einzelnen Lebensmitteln hinzufügen können.
-- Ein Tagebuch, mit dem Sie verzehrte Lebensmittel, Reizdarm-Symptome, Darmverhalten und Stressniveaus erfassen können. Das Tagebuch führt Sie auch durch Schritt 2 der Diät – erneute Einführung von FODMAPs in die Ernährung.
-- Die Möglichkeit, Maßeinheiten (metrisch oder imperial) einzustellen und die Hilfe bei Farbenblindheit zu aktivieren.
-
-[View on Apple](https://apps.apple.com/gb/app/monash-fodmap-diet/id586149216)
-
-<a id="teleguard"></a>
-## TeleGuard
-
-![TeleGuard](../../logos/1505636751-bf9b6357.png)
-
-Anonymität garantiert – keine Registrierung
-Es gibt keine Bindung an eine Telefonnummer und keine Erfassung von Benutzeri-dentifikationsdaten. Die TeleGuard-ID ist Ihre ganz persönliche Identifikationsnummer, die Sie brauchen, um sich mit Ihren Freunden zu verbinden. Jeder TeleGuard Nutzer erhält eine ID Nummer und einen QR-Code, welche zur Kontaktaufnahme verschickt werden können. 
-
-
-Entworfen, um der sicherste Messenger der Welt zu sein
-Der Fokus von TeleGuard liegt auf dem Schutz von Privatsphäre und vertraulicher Kommunikation. TeleGuard ist der datensichere Messenger aus dem Hause Swisscows. Swisscows hat es sich zur Aufgabe gemacht, seine Nutzer in jeder Lage vor Datenmissbrauch zu bewahren. Da heutzutage das Smartphone das meistgenutz-te Medium der Welt ist, ist ein sicherer Messenger unverzichtbar. 
-
-Hochsicherer und moderner Server
-Alle Server befinden sich in den Rechenzentren der Schweiz. Es wird ein komplexes Verschlüsselungssystem für alle übertragenen Daten verwendet und es werden abso-lut keine Benutzerdaten auf den Servern gespeichert. Alles ist absolut anonym. 
-
-Darum ist TeleGuard besser als die anderen
-TeleGuard verschlüsselt jede Nachricht und alle Telefongespräche mit dem besten Verschlüsselungsprogramm, was es derzeit gibt: SALSA 20. Da unsere Server in der Schweiz stehen, unterstehen wir nicht den Datenschutzgesetzen der EU / USA und müssen keine Daten weitergeben.
-
-Wie wird meine Privatsphäre gesichert? 
-HTTPS, Ende-zu-Ende-Verschlüsselung, Löschen von Nachrichten auf dem Server nach dem Lesen. Es werden keinerlei Benutzerdaten, weder IP-Adresse noch andere, erfasst oder gespeichert.
-
-
-Funktionen
-
-•	Text- und Sprachnachrichten senden
-•	Bilder und Videos teilen
-•	Video- und Sprachtelefonie
-•	Dateien senden
-•	Gruppen erstellen
-•	Die Identität von Kontakten kann durch Scannen des QR-Codes verifiziert werden.
-
-Support
-
-Bei weiteren Fragen finden Sie hier unsere FAQs: teleguard.com/de#faq
-
-[View on Apple](https://apps.apple.com/gb/app/teleguard/id1505636751)
-
-<a id="the-official-dvsa-highway-code"></a>
-## The Official DVSA Highway Code
-
-![The Official DVSA Highway Code](../../logos/522687241-4eccbbf3.png)
-
-This app will help you keep up to date with all the latest rules and guidance to keep you safe on the road and pass your theory test. 
-
-Our app is suitable for all road users in GB.
-
-This app can be used offline so that you can learn anytime, anywhere. 
-
-HIGHWAY CODE
-• navigate through an interactive copy of the Official Highway Code - regularly updated to keep you informed of any changes in rules. Featuring images, diagrams, and useful links to support your understanding.
-
-STUDY AND PRACTICE
-• test your understanding of the Highway Code by practicing over 360+ questions (including questions on Road and Traffic Signs). Got a question wrong? See the correct answer, note the explanation, and find out more with references to the Highway Code and more useful DVSA guides!
-
-TEST YOURSELF
-• take a custom quiz with a set number of questions and topics or a quick quiz with 20 questions covering all theory test topics!
-
-SEARCH
-• want to know more about ‘Airbags’, ‘Stopping Distances’, or ‘Yellow Lines’? Use the Index tool to navigate to specific areas of the Highway Code.
-
-ENGLISH VOICEOVER
-• if you have reading difficulties such as dyslexia, or prefer to learn by listening, use our voiceover feature within the test section to support you. 
-
-PROGRESS GAUGE
-• backed by learning science, use the progress gauge to measure how much of the Highway Code you’ve learned. If you’re preparing for your theory test it will provide you with confidence that you’re ready to pass.
-
-USEFUL LINKS AND SUPPLIER ZONE
-• navigate through useful resources to support your learning, including Safe Driving for Life – a one-stop information zone. Passed your test? Use our Supplier Zone to help you with the next steps in your driving journey.
-
-• Ready to Pass? Links to DVSA’s official resources to help you understand what it takes to be ready for your driving test. Give yourself the best possible chance of passing by learning vital skills, managing your nerves, and taking mock tests.
-
-FEEDBACK
-• missing something? Let us know what you’d like to see. We’d love to hear from you with any comments or suggestions about this app. 
-
-SUPPORT
-• need support? Contact our UK-based team at feedback@williamslea.com or +44 (0)333 202 5070. We listen and respond to your feedback by updating the app and adding new features, so help others in their studies by letting us know what you’d like to see!
-
-[View on Apple](https://apps.apple.com/gb/app/the-official-dvsa-highway-code/id522687241)
-
-<a id="streaks"></a>
-## Streaks
-
-![Streaks](../../logos/963034692-66f80cdd.png)
-
-STREAKS. Die Aufgabeliste für gute Gewohnheiten.
-Gewinner des Apple Design Award
-
-Wähle bis zu 24 Aufgaben, die du jeden Tag erledigen willst. Ziel ist es, diese Aufgaben mehrere Tage hintereinander zu erledigen. Streaks funktioniert mit der Health-App, damit du deine Fitness-Ziele erreichen kannst.
-
-FUNKTIONEN:
-
-* Passe die App-Farbe an.
-* Wähle aus hunderten Symbolen.
-* Lass dir benutzerdefinierte Benachrichtigungen schicken, um auf dem Laufenden zu bleiben.
-* Betrachte deine aktuelle und beste Aufgabenserie und deine Erledigungsstatistik.
-* Streaks erkennt automatisch, wann du Health-Aufgaben erledigst.
-* Gewöhne dir schlechte Angewohnheiten mit unschönen Aufgaben ab
-* Apple Watch
-
-Solltest du Fragen, Anregungen oder sonstiges Feedback haben, schreibe bitte eine E-Mail an support@streaks.app oder eine Twitter-Nachricht an @TheStreaksApp.
-
-Wenn dir Streaks gefällt, hinterlasse bitte einen Erfahrungsbericht! Die Erfahrungsberichte werden zurückgesetzt, sobald wir ein neues Update veröffentlichen. Daher sind wir auf deine ständige Unterstützung angewiesen.
-
-ÜBER HEALTH-DATEN:
-
-Auf kompatiblen Geräten kann Streaks deine Spazieren-/Joggen-Daten lesen, vorausgesetzt du erteilst die Erlaubnis, die Erledigung deiner Aufgaben zu bestimmen. Alle Daten werden in voller Übereinstimmung mit den iOS-Regeln von Apple für Erfahrungsberichte abgerufen. Bitte lies unsere Datenschutzerklärung unter https://streaks.app/privacy.html und erfahre mehr über die Verwendung deiner Daten.
-
-Schritt- und Entfernungsdaten sind nur automatisch verfügbar, wenn du ein iPhone 5S, eine höhere Version oder ein Zubehörgerät wie die Apple Watch verwendest, um Daten auf die Health-App zu übertragen. Bei Fragen schreibe uns bitte an support@streaks.app.
-
-[View on Apple](https://apps.apple.com/gb/app/streaks/id963034692)
-
-<a id="blueprint-4-track"></a>
-## Blueprint 4-Track
-
-![Blueprint 4-Track](../../logos/6777792345-bebd277d.png)
-
-Great for demos, first takes, and fresh ideas: voice and guitar at the kitchen table, or a band passing one phone around the room.
-
-The sound of the machine is built in. Each track has its own set of knobs and there is no undo.
-  
-  - Records one track at a time, from the built-in mic, a headset mic, or a USB audio interface.
-  - Has track merging/clearing, punch-in recording, and a metronome.
-  - Your recordings are WAV files saved on your phone. Share the song, or export the whole session.
-  - Works entirely offline and collects nothing.
-  - Pay once. No subscription, no ads, no account.
-  - Works on iPhone and iPad.
-  
-  TIPS
-
-  - Overdub with wired headphones, so the mic doesn't pick up the other tracks.
-  - Don't use Bluetooth headphones while recording: they add delay, and only play in mono.
-  - Tap record while playing to punch in over a part you want to redo.
-  - Tap the ? at the top left for a guide to the controls.
-
-Blueprint is made by one person. If something feels confusing or missing, email max@blueprintdaw.com and I will answer.
-
-[View on Apple](https://apps.apple.com/gb/app/blueprint-4-track/id6777792345)
 
 <a id="site-audit-pro"></a>
 ## Site Audit Pro
@@ -1006,6 +705,341 @@ https://www.siteauditpro.com/terms
 
 [View on Apple](https://apps.apple.com/gb/app/site-audit-pro/id430234732)
 
+<a id="freya-surge-timer"></a>
+## Freya • Surge Timer
+
+![Freya • Surge Timer](../../logos/1447509164-3143eee3.png)
+
+Meet Freya, the world’s first hypnobirthing-friendly birth timer, brought to you by The Positive Birth Company. This award-winning birth timer supports you through labour, coaching you through every single surge (or contraction) with a simple breathing technique and guided relaxations. 
+
+
+Put hypnobirthing techniques into practice during pregnancy, labour and childbirth 
+Relax between surges with a mix of guided relaxations, positive affirmations, gentle music and calming visualisations
+Birth timer that keeps track of surges, logging each surge or contraction so you can see how frequently they are coming and how long they are lasting
+Receive a notification from Freya when your labour is established and it might be a good time to call your midwife
+Use Freya during pregnancy to practice breathing techniques and relaxation 
+Available in French, German, Portuguese, Spanish and Italian
+
+
+Never birth alone with Freya by your side.
+
+
+TRACK YOUR SURGES
+In hypnobirthing we refer to contractions as surges, because a ‘surge’ more accurately describes the sensation you’ll experience when in labour. Freya is the ONLY hypnobirthing-friendly contraction timer on the app store, designed specifically with hypnobirthing mums in mind, using appropriate terminology, but can be used by anyone. If you would like to know more about Hypnobirthing, follow The Positive Birth Company on Instagram or Tik Tok where we share loads of free resources to make your birth better.
+
+
+PREPARE FOR BIRTH
+You can use this birth timer in pregnancy to help you relax and prepare for childbirth. In fact the more you practice your breathing and listen to the guided relaxations and positive affirmations, the more familiar they will become and the more effective they will be at helping you relax when it comes to birth. Positive affirmations have been proven to change the way your mind works and listening regularly will help you feel less anxious and more confident in the lead up to birth. You can practice daily and then reset the surge history whenever you like.
+
+
+THE SCIENCE
+We know the more relaxed you are during birth, the more oxytocin you will produce. Oxytocin helps your uterus to work efficiently, making labour faster and more comfortable.
+
+
+LIFESKILLS
+Freya can be used for pregnancy and post-birth relaxation, any time you feel you could benefit from taking some deep breaths or need some help finding your zen. Everything you learn - mindfulness exercises and breathing techniques - are skills for life.
+
+
+If you have any questions or spot any pesky bugs lurking about the place please do let us know at hello@thepositivebirthcompany.com
+
+
+WHAT YOU’LL GET:
+- iPhone and Apple Watch app
+- Timer to record your surges (also known as a contraction timer) and let you know when you’re in established labour
+- Coaching audio to keep your mind focused on breathing through each surge and the ability to switch between 4 and 8 breath counts or 3 and 6, or turn the counting off altogether.
+- 4 different birth coach voices
+- Guided relaxations, positive affirmations and soothing visuals to help keep you relaxed between surges
+- A gentle expanding visualisation that you can use to sync your breathing
+- Option to record your own music, visualisations or relaxation tracks
+- You can listen to your own playlist on a third party app (such as Spotify) whilst still using the Freya app to keep track of your surges and coach you through each one.
+- A detailed log of your surges over time, so you can track your progress through labour, reset this after you practice breathwork at any time
+- Ability to easily share the log with your birth partner, midwife or doula
+- Coaching created by renowned hypnobirthing expert Siobhan Miller, founder of The Positive Birth Company
+
+
+Download the ONLY hypnobirthing-friendly birth timer on the App Store and prepare to meet your baby in the best possible way, feeling calm and confident, relaxed and happy!
+
+[View on Apple](https://apps.apple.com/gb/app/freya-surge-timer/id1447509164)
+
+<a id="monash-fodmap-diet"></a>
+## Monash FODMAP Diet
+
+![Monash FODMAP Diet](../../logos/586149216-db65d5cb.png)
+
+Die Wissenschaftler der Monash University haben die FODMAP-arme Diät und eine zugehörige App entwickelt, um bei der Behandlung von Magen-Darm-Beschwerden im Zusammenhang mit dem Reizdarmsyndrom zu helfen. Die FODMAP-Diät der Monash University funktioniert, indem sie Lebensmittel mit hohem Gehalt an fermentierbaren Kohlenhydraten (FODMAPs) gegen Alternativen mit niedrigem FODMAP-Wert austauscht. Etwa 75 % der Menschen mit Reizdarm erleben eine Symptomlinderung bei einer FODMAP-armen Diät.
+
+Die App kommt direkt vom Forschungsteam der Monash University und beinhaltet Folgendes:
+
+- Allgemeine Informationen über die FODMAP-Diät und Reizdarm.
+- Leicht verständliche Anleitungen, die Sie durch die App und die 3-stufige FODMAP-Diät führen.
+- Ein Lebensmittel-Leitfaden, der den FODMAP-Gehalt für Hunderte von Lebensmitteln mit einem einfachen „Ampelsystem“ beschreibt.. 
+- Eine Liste von Markenprodukten, die von Monash als FODMAP-arm zertifiziert wurden..
+- Eine Sammlung von über 70 nahrhaften, FODMAP-armen Rezepten.. 
+- Funktionen, mit denen Sie Ihre eigene Einkaufsliste erstellen und Notizen zu einzelnen Lebensmitteln hinzufügen können.
+- Ein Tagebuch, mit dem Sie verzehrte Lebensmittel, Reizdarm-Symptome, Darmverhalten und Stressniveaus erfassen können. Das Tagebuch führt Sie auch durch Schritt 2 der Diät – erneute Einführung von FODMAPs in die Ernährung.
+- Die Möglichkeit, Maßeinheiten (metrisch oder imperial) einzustellen und die Hilfe bei Farbenblindheit zu aktivieren.
+
+[View on Apple](https://apps.apple.com/gb/app/monash-fodmap-diet/id586149216)
+
+<a id="shambala-2026"></a>
+## Shambala 2026
+
+![Shambala 2026](../../logos/6777216049-43f6d2d4.png)
+
+Drop the outside world at the gates and dive into four days of Adventures in Utopia…
+
+Whether you’re a meticulous planner or a barefoot wanderer, the official Shambala 2026 app is designed to help you squeeze every last drop of joy from your weekend. 
+
+One of the UK’s last truly independent festivals, Shambala takes place over the August Bank Holiday Weekend at a gorgeous Northamptonshire countryside site, with stunning lakes, lush flat fields, woodlands and meadows.
+
+Expect an astonishing array of things to do and see: hundreds of genre-busting musical acts, world-class performances, inspiring talks, captivating art installations, acclaimed poetry, hands-on workshops, and one of the best kids’ areas on the circuit.
+
+We’re also proudly pioneering when it comes to sustainability: meat and fish free, single-use plastic free, 100% renewably-powered, and we’ve reduced our carbon footprint by nearly 90% over the past decade.
+
+About the App:
+Your essential companion for navigating this year’s adventures in utopia, the official Shambala 2026 app lets you:
+
+- Effortlessly browse the full festival line-up
+
+- Build a personalised schedule and set reminders for performances or experiences you don’t want to miss. You can even add your own items - like meet-ups or drinks with friends 
+
+- Keep track of where you are and see what’s happening nearby with our interactive map
+
+- Use GPS to find your tent, car or Campervan pitch
+
+- Explore our diverse array food traders and bars and check for dietary information
+
+- Receive real-time push notifications - from can’t-miss happenings to important weather or safety updates
+
+- Shop our gorgeous Shambala 2026 official merch collection, designed by Sophie Bass
+
+Even after the festival has ended, you’ll be able to stay connected with the Shambala community through the app. Receive updates from utopia, app-first news and get a first taste of Shambala 2027… 
+
+See you in the fields! x
+
+Please note that the app is built to work offline but only if downloaded in advance.
+
+Disclaimer: The Shambala app uses location services to show you nearby performances, food and drink locations and other services. While we have built the app to consume the least amount of power possible, using location services consistently may increase battery consumption.
+
+[View on Apple](https://apps.apple.com/gb/app/shambala-2026/id6777216049)
+
+<a id="peakfinder"></a>
+## PeakFinder
+
+![PeakFinder](../../logos/357421934-6d5b3f95.png)
+
+群山在召唤！力争在登山家队伍中探索最多高山吧！ PeakFinder让你的梦想成为可能…，还能以360°全景显示所有山脉和山峰的名称。
+该功能可完全脱机离线工作- 全球适用!
+
+本应用的内容涉及到超过1'000'000座山峰- 从珠穆朗玛峰到世界角落的小山丘。
+
+•••••••••
+荣获数个奖项的冠军，如'AppStore最佳应用'、'每周最佳应用',…
+macnewsworld.com, nationalgeographic.com, smokinapps.com, outdoor-magazin.com, digital-geography.com, …强烈推荐
+•••••••••
+
+
+••• 特色 •••
+
+• 可在全球完全脱机离线工作
+• 包括超过1'000'000座山峰的名称
+• 利用全景图覆盖相机图像
+• 快速渲染300公里范围周围地形
+• 数码双目望远镜可选择远方不显著山峰
+• '显示我'功能适合可见的山峰
+• 通过GPS、山峰目录或（在线）地图选择观察点
+• 可像鸟一样在山峰之间飞翔并垂直上升
+• 标记您喜欢的山脉和地方
+• 显示太阳和月球轨道以及升落时间
+• 使用指南针和加速度传感器
+• 山峰目录每周更新
+• 不包含任何经常性费用。您只需一次性付款
+• 无广告
+
+
+••• 评价 •••
+
+iTunes中的每个好评（包括下述更新）都让我快乐。好的评价和评论使我得以一直改进本应用。多谢你的支持！
+
+
+••• 支持 •••
+
+如有问题、疑问、错误、遗漏的山脉名称以及对将来发展想发表意见，我很乐意帮助你。请给我来信：support@peakfinder.com.
+
+[View on Apple](https://apps.apple.com/gb/app/peakfinder/id357421934)
+
+<a id="the-official-dvsa-highway-code"></a>
+## The Official DVSA Highway Code
+
+![The Official DVSA Highway Code](../../logos/522687241-4eccbbf3.png)
+
+This app will help you keep up to date with all the latest rules and guidance to keep you safe on the road and pass your theory test. 
+
+Our app is suitable for all road users in GB.
+
+This app can be used offline so that you can learn anytime, anywhere. 
+
+HIGHWAY CODE
+• navigate through an interactive copy of the Official Highway Code - regularly updated to keep you informed of any changes in rules. Featuring images, diagrams, and useful links to support your understanding.
+
+STUDY AND PRACTICE
+• test your understanding of the Highway Code by practicing over 360+ questions (including questions on Road and Traffic Signs). Got a question wrong? See the correct answer, note the explanation, and find out more with references to the Highway Code and more useful DVSA guides!
+
+TEST YOURSELF
+• take a custom quiz with a set number of questions and topics or a quick quiz with 20 questions covering all theory test topics!
+
+SEARCH
+• want to know more about ‘Airbags’, ‘Stopping Distances’, or ‘Yellow Lines’? Use the Index tool to navigate to specific areas of the Highway Code.
+
+ENGLISH VOICEOVER
+• if you have reading difficulties such as dyslexia, or prefer to learn by listening, use our voiceover feature within the test section to support you. 
+
+PROGRESS GAUGE
+• backed by learning science, use the progress gauge to measure how much of the Highway Code you’ve learned. If you’re preparing for your theory test it will provide you with confidence that you’re ready to pass.
+
+USEFUL LINKS AND SUPPLIER ZONE
+• navigate through useful resources to support your learning, including Safe Driving for Life – a one-stop information zone. Passed your test? Use our Supplier Zone to help you with the next steps in your driving journey.
+
+• Ready to Pass? Links to DVSA’s official resources to help you understand what it takes to be ready for your driving test. Give yourself the best possible chance of passing by learning vital skills, managing your nerves, and taking mock tests.
+
+FEEDBACK
+• missing something? Let us know what you’d like to see. We’d love to hear from you with any comments or suggestions about this app. 
+
+SUPPORT
+• need support? Contact our UK-based team at feedback@williamslea.com or +44 (0)333 202 5070. We listen and respond to your feedback by updating the app and adding new features, so help others in their studies by letting us know what you’d like to see!
+
+[View on Apple](https://apps.apple.com/gb/app/the-official-dvsa-highway-code/id522687241)
+
+<a id="teleguard"></a>
+## TeleGuard
+
+![TeleGuard](../../logos/1505636751-bf9b6357.png)
+
+Anonymität garantiert – keine Registrierung
+Es gibt keine Bindung an eine Telefonnummer und keine Erfassung von Benutzeri-dentifikationsdaten. Die TeleGuard-ID ist Ihre ganz persönliche Identifikationsnummer, die Sie brauchen, um sich mit Ihren Freunden zu verbinden. Jeder TeleGuard Nutzer erhält eine ID Nummer und einen QR-Code, welche zur Kontaktaufnahme verschickt werden können. 
+
+
+Entworfen, um der sicherste Messenger der Welt zu sein
+Der Fokus von TeleGuard liegt auf dem Schutz von Privatsphäre und vertraulicher Kommunikation. TeleGuard ist der datensichere Messenger aus dem Hause Swisscows. Swisscows hat es sich zur Aufgabe gemacht, seine Nutzer in jeder Lage vor Datenmissbrauch zu bewahren. Da heutzutage das Smartphone das meistgenutz-te Medium der Welt ist, ist ein sicherer Messenger unverzichtbar. 
+
+Hochsicherer und moderner Server
+Alle Server befinden sich in den Rechenzentren der Schweiz. Es wird ein komplexes Verschlüsselungssystem für alle übertragenen Daten verwendet und es werden abso-lut keine Benutzerdaten auf den Servern gespeichert. Alles ist absolut anonym. 
+
+Darum ist TeleGuard besser als die anderen
+TeleGuard verschlüsselt jede Nachricht und alle Telefongespräche mit dem besten Verschlüsselungsprogramm, was es derzeit gibt: SALSA 20. Da unsere Server in der Schweiz stehen, unterstehen wir nicht den Datenschutzgesetzen der EU / USA und müssen keine Daten weitergeben.
+
+Wie wird meine Privatsphäre gesichert? 
+HTTPS, Ende-zu-Ende-Verschlüsselung, Löschen von Nachrichten auf dem Server nach dem Lesen. Es werden keinerlei Benutzerdaten, weder IP-Adresse noch andere, erfasst oder gespeichert.
+
+
+Funktionen
+
+•	Text- und Sprachnachrichten senden
+•	Bilder und Videos teilen
+•	Video- und Sprachtelefonie
+•	Dateien senden
+•	Gruppen erstellen
+•	Die Identität von Kontakten kann durch Scannen des QR-Codes verifiziert werden.
+
+Support
+
+Bei weiteren Fragen finden Sie hier unsere FAQs: teleguard.com/de#faq
+
+[View on Apple](https://apps.apple.com/gb/app/teleguard/id1505636751)
+
+<a id="reset-by-sarah-rusbatch"></a>
+## RESET by Sarah Rusbatch
+
+![RESET by Sarah Rusbatch](../../logos/6779501593-072bd97b.png)
+
+Backed by 12,000 women. Built by women who've been there. RESET is the app that finally understands what women need to change their drinking, hormones, cravings, emotions and all.
+
+This is not a clinical app. Not a 12-step program. Not a one-size-fits-all tool built with men in mind. RESET is a warm, judgment-free daily companion created by women's wellness coaches who have lived this journey themselves, and who know exactly what it feels like to question your relationship with alcohol. It’s everything they needed when they changed their drinking and the tools that ACTUALLY work.
+
+Whether you're taking a break, exploring sober curiosity, or committing to an alcohol free life, RESET meets you exactly where you are. No shame. No pressure. Just real support, whenever you need it, right in your pocket.
+
+WHAT RESET GIVES YOU
+
+Coach In Your Pocket!
+
+You are never alone in the hard moments. Hear directly from Sarah Rusbatch and her team. real voices, real warmth, any time the evening wine is calling.
+
+Daily Check-Ins and Mood Tracking
+
+Show up for yourself every single day with a simple, pressure-free check-in. Log how you're feeling, track your alcohol-free days, and build self-awareness one day at a time.
+
+Milestone Celebrations
+
+Every day counts. RESET tracks your alcohol free days and celebrates every milestone, from your very first day to your first year and beyond, with beautiful, shareable cards that mark how far you've come.
+
+Craving Support Tools - Right When You Need Them
+
+When a craving hits, RESET has you covered. Play The Tape Forward, urge surfing, the HALTBSH check and more, science-backed tools designed specifically for women, available the moment you need them most.
+
+Coach Voice Notes
+
+Four real women's wellness coaches. Pre-recorded voice notes designed to calm your nervous system, lift your spirits and get you through your hardest moments. Because sometimes you just need to hear a real voice that gets it.
+
+Guided Journaling Prompts
+
+Reflect, grow and reconnect with yourself through guided prompts for daily reflection, gratitude and glimmer moments. Journaling has never felt this supportive.
+
+Stats, Insights and Savings
+
+Track your streak, your alcohol free percentage, and yes, the money you've saved. All in one beautiful, motivating dashboard that shows you exactly how far you've come.
+
+CREATED BY WOMEN WHO TRULY GET IT
+
+RESET was built by a team of women who have all walked this path themselves. Sarah Rusbatch, accredited grey area drinking coach and author of Beyond Booze, has supported over 12,000 women to change their relationship with alcohol. Her expertise, warmth and hard-won wisdom are woven into every single feature of this app.
+
+This is what 12,000 women's experiences looks like when it's distilled into one powerful tool.
+
+THIS APP IS FOR YOU IF:
+
+• You're curious about taking a break from alcohol
+• You've tried before and want real support this time
+• You want tools designed for how women actually feel and function
+• You're done with shame and ready for something different
+• You want coach tools in your pocket for the moments that matter most
+
+RESET is not about perfection. It is about progress, one day at a time.
+
+Download RESET today and take the first step toward a life you love waking up to.
+
+[View on Apple](https://apps.apple.com/gb/app/reset-by-sarah-rusbatch/id6779501593)
+
+<a id="streaks"></a>
+## Streaks
+
+![Streaks](../../logos/963034692-66f80cdd.png)
+
+STREAKS. Die Aufgabeliste für gute Gewohnheiten.
+Gewinner des Apple Design Award
+
+Wähle bis zu 24 Aufgaben, die du jeden Tag erledigen willst. Ziel ist es, diese Aufgaben mehrere Tage hintereinander zu erledigen. Streaks funktioniert mit der Health-App, damit du deine Fitness-Ziele erreichen kannst.
+
+FUNKTIONEN:
+
+* Passe die App-Farbe an.
+* Wähle aus hunderten Symbolen.
+* Lass dir benutzerdefinierte Benachrichtigungen schicken, um auf dem Laufenden zu bleiben.
+* Betrachte deine aktuelle und beste Aufgabenserie und deine Erledigungsstatistik.
+* Streaks erkennt automatisch, wann du Health-Aufgaben erledigst.
+* Gewöhne dir schlechte Angewohnheiten mit unschönen Aufgaben ab
+* Apple Watch
+
+Solltest du Fragen, Anregungen oder sonstiges Feedback haben, schreibe bitte eine E-Mail an support@streaks.app oder eine Twitter-Nachricht an @TheStreaksApp.
+
+Wenn dir Streaks gefällt, hinterlasse bitte einen Erfahrungsbericht! Die Erfahrungsberichte werden zurückgesetzt, sobald wir ein neues Update veröffentlichen. Daher sind wir auf deine ständige Unterstützung angewiesen.
+
+ÜBER HEALTH-DATEN:
+
+Auf kompatiblen Geräten kann Streaks deine Spazieren-/Joggen-Daten lesen, vorausgesetzt du erteilst die Erlaubnis, die Erledigung deiner Aufgaben zu bestimmen. Alle Daten werden in voller Übereinstimmung mit den iOS-Regeln von Apple für Erfahrungsberichte abgerufen. Bitte lies unsere Datenschutzerklärung unter https://streaks.app/privacy.html und erfahre mehr über die Verwendung deiner Daten.
+
+Schritt- und Entfernungsdaten sind nur automatisch verfügbar, wenn du ein iPhone 5S, eine höhere Version oder ein Zubehörgerät wie die Apple Watch verwendest, um Daten auf die Health-App zu übertragen. Bei Fragen schreibe uns bitte an support@streaks.app.
+
+[View on Apple](https://apps.apple.com/gb/app/streaks/id963034692)
+
 <a id="spirit-talker"></a>
 ## Spirit Talker ®
 
@@ -1091,6 +1125,116 @@ Beware of FAKE copies, this is the ORIGINAL Spirit Talker App.
 
 [View on Apple](https://apps.apple.com/gb/app/spirit-talker/id1536762482)
 
+<a id="blitzer-de-pro"></a>
+## Blitzer.de PRO
+
+![Blitzer.de PRO](../../logos/498732510-3c759ccb.png)
+
+Blitzer.de PRO - Die Verkehrssicherheits-App!
+Und der Marktführer in Deutschland seit über 10 Jahren.
+
+Blitzer.de PRO versorgt dich mit Live-Warnungen zu mobilen und festen Blitzern, Pannen, Unfällen, Stauenden und mehr in deiner Nähe. Schließe dich Europas größter und bekanntester Verkehrs-Community mit über 5 Millionen aktiven Nutzern an und mache deine Autofahrt sicherer und entspannter.
+
+► VERSCHIEDENE ANSICHTEN
+Wähle zwischen der einfachen Klassik-Ansicht, der Karte oder dem unauffälligen Dunklen Modus.
+
+► AUTO START & STOPP
+Einfach einsteigen, losfahren! Definiere eigene Kurzbefehle und die App aktiviert & deaktiviert sich ganz automatisch.
+
+► CARPLAY
+Alles im Blick auf dem Autobildschirm! Und das Audio direkt über die Autolautsprecher.
+
+► PERSONALISIERT
+Bestimme selbst, vor welchen Blitzern und Gefahren du gewarnt werden möchtest.
+
+► INNOVATIVE NAVIGATION
+Mit Schwarmintelligenz navigieren und schneller am Ziel ankommen.
+
+► VIELE AUDIO OPTIONEN
+Warnungen per Stimme oder Piepton - über das iPhone oder die Autolautsprecher. Zusätzliche Vibration für Motorradfahrer.
+
+► STABILER HINTERGRUNDBETRIEB
+Erhalte Warnungen auch während Telefonaten und beim Nutzen anderer Apps.
+
+ÜBERSICHT DER VORTEILE
+* Live-Aktualisierung der Blitzer und Gefahren
+* Über 109.000 feste Blitzer weltweit
+* Zuverlässige, präzise und straßenbezogene Warnungen, von unserer Verkehrsredaktion geprüft
+* Anzeige von Blitzer-/Gefahrentyp mit erlaubter Höchstgeschwindigkeit und Entfernung
+* Optimiert für die Nutzung im Auto: selbsterklärend und ohne Ablenkung vom Verkehr
+* Einfaches Melden und Bestätigen von Blitzern und Gefahren
+* Persönlicher Kundensupport für Fragen, Anregungen oder Probleme
+* Keine lästige Werbung
+
+SYSTEMANFORDERUNGEN
+* Aktivierte Ortungsdienste
+* Internetverbindung für Online-Updates (Flatrate empfohlen)
+
+IN-APP-KAUF: MOBILE BLITZER & GEFAHREN
+Profitiere in den ersten 14 Tagen von sämtlichen Funktionen der App. Nach Ablauf dieses 14-tägigen Testzeitraums erhältst du fortlaufend unbegrenzt aktualisierte Warnungen vor festen Blitzern weltweit. Sichere dir mit dem einmaligen In-App-Kauf für nur 9.99 EUR den vollen Funktionsumfang der App, einschließlich lebenslanger mobiler Blitzerwarnungen und Echtzeitinformationen zu Gefahren wie Pannen, Stauenden, Unfällen, Baustellen und mehr. Ohne Abo, ohne Zusatzkosten.
+
+FOLGE UNS
+https://www.instagram.com/blitzer.de
+https://www.facebook.com/www.Blitzer.de
+
+BESUCHE UNS IM WEB
+https://www.blitzer.de/
+
+[View on Apple](https://apps.apple.com/gb/app/blitzer-de-pro/id498732510)
+
+<a id="blueprint-4-track"></a>
+## Blueprint 4-Track
+
+![Blueprint 4-Track](../../logos/6777792345-bebd277d.png)
+
+Great for demos, first takes, and fresh ideas: voice and guitar at the kitchen table, or a band passing one phone around the room.
+
+The sound of the machine is built in. Each track has its own set of knobs and there is no undo.
+  
+  - Records one track at a time, from the built-in mic, a headset mic, or a USB audio interface.
+  - Has track merging/clearing, punch-in recording, and a metronome.
+  - Your recordings are WAV files saved on your phone. Share the song, or export the whole session.
+  - Works entirely offline and collects nothing.
+  - Pay once. No subscription, no ads, no account.
+  - Works on iPhone and iPad.
+  
+  TIPS
+
+  - Overdub with wired headphones, so the mic doesn't pick up the other tracks.
+  - Don't use Bluetooth headphones while recording: they add delay, and only play in mono.
+  - Tap record while playing to punch in over a part you want to redo.
+  - Tap the ? at the top left for a guide to the controls.
+
+Blueprint is made by one person. If something feels confusing or missing, email max@blueprintdaw.com and I will answer.
+
+[View on Apple](https://apps.apple.com/gb/app/blueprint-4-track/id6777792345)
+
+<a id="hit-the-button-maths"></a>
+## Hit the Button Maths
+
+![Hit the Button Maths](../../logos/1001893116-07472140.png)
+
+Hit the Button Maths is an app designed to help develop mental maths and calculation skills.
+
+The app is aimed at 5-11 year olds. There are 166 different game modes of varying difficulty so it is useful throughout the primary school age range. Answer as many questions as possible in minute-long games, or you can now practice without the pressure of a countdown timer. Questions are randomly generated which means it is very replayable. The game has been carefully designed for children, with large, widely spaced buttons. We recommend that young children play on a tablet.
+
+Six main topics are covered:
+
+* Times tables - up to 10 or 12
+* Division - up to 10 or 12
+* Square numbers 
+* Number bonds
+* Doubling 
+* Halving
+
+Between these topics, the four standard arithmetic operations are covered: addition, subtraction, multiplication and division.
+
+You can create up to 30 player profiles per device to track an individual's scores. If you prefer there's also the option to play as a guest. All data is stored locally on your device so you don't have to worry about privacy issues. We've also made it very easy for children to quickly switch between profiles after playing a game, if they're sharing a device.
+
+After each game, the score achieved is displayed along with the child's high score. Bronze, silver or gold stars and trophies are awarded depending on the score achieved in each game.
+
+[View on Apple](https://apps.apple.com/gb/app/hit-the-button-maths/id1001893116)
+
 <a id="baby-led-weaning-recipes"></a>
 ## Baby Led Weaning Recipes
 
@@ -1155,62 +1299,64 @@ Natalie x
 
 [View on Apple](https://apps.apple.com/gb/app/baby-led-weaning-recipes/id1114320457)
 
-<a id="blitzer-de-pro"></a>
-## Blitzer.de PRO
+<a id="universalis"></a>
+## Universalis
 
-![Blitzer.de PRO](../../logos/498732510-3c759ccb.png)
+![Universalis](../../logos/284942719-a6a41190.png)
 
-Blitzer.de PRO - Die Verkehrssicherheits-App!
-Und der Marktführer in Deutschland seit über 10 Jahren.
+Universalis is a missal and a breviary, and more besides. It gives you the Liturgy of the Hours (Divine Office) and the Mass for every day; plus valuable additional material. 
 
-Blitzer.de PRO versorgt dich mit Live-Warnungen zu mobilen und festen Blitzern, Pannen, Unfällen, Stauenden und mehr in deiner Nähe. Schließe dich Europas größter und bekanntester Verkehrs-Community mit über 5 Millionen aktiven Nutzern an und mache deine Autofahrt sicherer und entspannter.
+Tens of thousands of people use Universalis daily. Come and join them!
 
-► VERSCHIEDENE ANSICHTEN
-Wähle zwischen der einfachen Klassik-Ansicht, der Karte oder dem unauffälligen Dunklen Modus.
+• Single purchase: the app lasts for ever. It does not need a subscription to make it work.
+• No Internet needed: everything you need is already built in.
+• No cleverness needed: each day, Universalis works out exactly what you need to see.
+• View any date: past, present and future.
+• Use your own local calendar: USA, Canada, Singapore, Ireland, and every diocese in Australia, New Zealand and the UK.
+• Easy to read and use: a choice of fonts; big or small type; dark or light theme; page-turning or scrolling.
+• Optional add-on: spoken audio read by real human beings (this needs a subscription: see below).
+• Latin if you want it: by itself or alongside the English.
+• Help and support: tips and instructions are included; or press “Contact Us” to send us a message, and we will reply.
 
-► AUTO START & STOPP
-Einfach einsteigen, losfahren! Definiere eigene Kurzbefehle und die App aktiviert & deaktiviert sich ganz automatisch.
+EXTRA MATERIAL
 
-► CARPLAY
-Alles im Blick auf dem Autobildschirm! Und das Audio direkt über die Autolautsprecher.
+• The “About Today” page tells you what saints are being celebrated today, worldwide. It includes reflections, biographies and illustrations.
+• “Mass Today” gives you the Order of Mass and today’s readings and prayers, all in one page. Bishops have been known to use it to say Mass from their iPads!
+• “Spiritual Reading” gathers the patristic and hagiographic readings for all the saints and feasts of the day.  
+• “The Rosary” has a verse of Scripture for every Hail Mary of every Mystery. Spoken audio is included.
+• Daily Books takes selected spiritual classics and presents them in daily instalments to focus and enrich your prayer life.
+• Commentaries on the day’s Mass readings from a leading biblical scholar.
 
-► PERSONALISIERT
-Bestimme selbst, vor welchen Blitzern und Gefahren du gewarnt werden möchtest.
+And more – Home Screen widgets; liturgical events for your iOS calendar; daily email service; copy and paste into other apps; reminders and alarms; Mass readings on your Apple Watch.
 
-► INNOVATIVE NAVIGATION
-Mit Schwarmintelligenz navigieren und schneller am Ziel ankommen.
+LITURGY OF THE HOURS (Divine Office)
 
-► VIELE AUDIO OPTIONEN
-Warnungen per Stimme oder Piepton - über das iPhone oder die Autolautsprecher. Zusätzliche Vibration für Motorradfahrer.
+The complete official Liturgy of the Hours of the Catholic Church, as used worldwide. Morning (Lauds), daytime (Terce, Sext and None), evening (Vespers), night (Compline) and the deeply reflective Office of Readings. Do as many or as few of them as you like.
+• The psalms and canticles match the official English and American books. Scripture readings – United States: RSV. Elsewhere: Jerusalem Bible (with RSV as an optional add-on).
 
-► STABILER HINTERGRUNDBETRIEB
-Erhalte Warnungen auch während Telefonaten und beim Nutzen anderer Apps.
+READINGS AT MASS
 
-ÜBERSICHT DER VORTEILE
-* Live-Aktualisierung der Blitzer und Gefahren
-* Über 109.000 feste Blitzer weltweit
-* Zuverlässige, präzise und straßenbezogene Warnungen, von unserer Verkehrsredaktion geprüft
-* Anzeige von Blitzer-/Gefahrentyp mit erlaubter Höchstgeschwindigkeit und Entfernung
-* Optimiert für die Nutzung im Auto: selbsterklärend und ohne Ablenkung vom Verkehr
-* Einfaches Melden und Bestätigen von Blitzern und Gefahren
-* Persönlicher Kundensupport für Fragen, Anregungen oder Probleme
-* Keine lästige Werbung
+The exact prayers and readings at Mass for each day.
+• England, Wales, Scotland: the official ESV version. 
+• United States: the official NAB version. 
+• Elsewhere: Jerusalem Bible readings and Grail psalms, as used at Mass in most of the English-speaking world.
 
-SYSTEMANFORDERUNGEN
-* Aktivierte Ortungsdienste
-* Internetverbindung für Online-Updates (Flatrate empfohlen)
+OPTIONAL ADD-ON AUDIO (in-app purchase required)
 
-IN-APP-KAUF: MOBILE BLITZER & GEFAHREN
-Profitiere in den ersten 14 Tagen von sämtlichen Funktionen der App. Nach Ablauf dieses 14-tägigen Testzeitraums erhältst du fortlaufend unbegrenzt aktualisierte Warnungen vor festen Blitzern weltweit. Sichere dir mit dem einmaligen In-App-Kauf für nur 9.99 EUR den vollen Funktionsumfang der App, einschließlich lebenslanger mobiler Blitzerwarnungen und Echtzeitinformationen zu Gefahren wie Pannen, Stauenden, Unfällen, Baustellen und mehr. Ohne Abo, ohne Zusatzkosten.
+Just press the button and listen! If you want to see what you are hearing, the text is highlighted to follow the sound. After an initial download, no Internet is required. Works with CarPlay too.
 
-FOLGE UNS
-https://www.instagram.com/blitzer.de
-https://www.facebook.com/www.Blitzer.de
+• Spoken English Liturgy of the Hours: every Hour of every day of every year. Monthly or annual subscription.
+• Spoken English Mass Readings: First and Second Reading and the Gospel. Jerusalem Bible translation only. Monthly or annual subscription.
 
-BESUCHE UNS IM WEB
-https://www.blitzer.de/
+(You can listen to a sample before subscribing. Following App Store rules, subscriptions renew automatically but you can cancel auto-renewal at any time.)
 
-[View on Apple](https://apps.apple.com/gb/app/blitzer-de-pro/id498732510)
+• Sung Latin Compline (Night Prayer): by the boys of the Schola Cantorum of the London Oratory School. Single purchase.
+
+--
+
+Privacy policy and terms of service: universalis.com/n-ios-privacy.htm
+
+[View on Apple](https://apps.apple.com/gb/app/universalis/id284942719)
 
 <a id="happycow-vegan-food-near-you"></a>
 ## HappyCow - Vegan Food Near You
@@ -1237,31 +1383,99 @@ Gibt's Probleme? Schick uns eine Nachricht: ios (at) happycow.net
 
 [View on Apple](https://apps.apple.com/gb/app/happycow-vegan-food-near-you/id435871950)
 
-<a id="hit-the-button-maths"></a>
-## Hit the Button Maths
+<a id="threema-der-sichere-messenger"></a>
+## Threema. Der sichere Messenger
 
-![Hit the Button Maths](../../logos/1001893116-07472140.png)
+![Threema. Der sichere Messenger](../../logos/578665578-9c465f24.png)
 
-Hit the Button Maths is an app designed to help develop mental maths and calculation skills.
+Threema ist der weltweit meistverkaufte sichere Messenger, der von mehr als 12 Millionen Menschen in über 175 Ländern verwendet wird – entwickelt in der Schweiz und konsequent auf Datenschutz und Privatsphäre ausgelegt. Ob Chats, Anrufe oder Dateien: Alles ist Ende-zu-Ende-verschlüsselt, und keine Datenspur bleibt zurück. Anstelle einer Telefonnummer oder E-Mail-Adresse dient eine zufällig erzeugte Threema-ID als eindeutige Kennung – anonym und sicher. Threema schützt, was wirklich zählt: Ihre Privatsphäre.
 
-The app is aimed at 5-11 year olds. There are 166 different game modes of varying difficulty so it is useful throughout the primary school age range. Answer as many questions as possible in minute-long games, or you can now practice without the pressure of a countdown timer. Questions are randomly generated which means it is very replayable. The game has been carefully designed for children, with large, widely spaced buttons. We recommend that young children play on a tablet.
+Vorteile mit Threema:
+• Text- und Sprachnachrichten inkl. Emoji-Reaktionen
+• Durchgängig verschlüsselte Sprach-, Video- und Gruppenanrufe
+• Teilen des Standorts
+• Versand von Dateien aller Formate (PDF, GIF, MP3, ZIP und mehr)
+• Möglichkeit, bereits gesendete Nachrichten zu bearbeiten und für Chatpartner zu löschen
+• Desktop-App und Web-Client, um bequem am PC zu chatten
+• Erstellen von Gruppen und Umfragen
+• Helles oder dunkles Design
+• Keine Werbung, keine Tracker, keine Datensammelei
+• Verifikation der Identität von Kontakten durch Scannen des QR-Codes
 
-Six main topics are covered:
+Zuverlässige Sicherheit:
+• Open Source und regelmässige Audits
+• Server in der Schweiz
+• Anonyme Nutzung möglich: keine Telefonnummer oder E-Mail-Adresse erforderlich
+• Löschung von Nachrichten vom Server sofort nach Zustellung
 
-* Times tables - up to 10 or 12
-* Division - up to 10 or 12
-* Square numbers 
-* Number bonds
-* Doubling 
-* Halving
+Haben Sie Fragen oder Probleme? Unsere FAQ helfen weiter: https://threema.com/support
 
-Between these topics, the four standard arithmetic operations are covered: addition, subtraction, multiplication and division.
+Viel Freude mit Threema!
 
-You can create up to 30 player profiles per device to track an individual's scores. If you prefer there's also the option to play as a guest. All data is stored locally on your device so you don't have to worry about privacy issues. We've also made it very easy for children to quickly switch between profiles after playing a game, if they're sharing a device.
+[View on Apple](https://apps.apple.com/gb/app/threema-the-secure-messenger/id578665578)
 
-After each game, the score achieved is displayed along with the child's high score. Bronze, silver or gold stars and trophies are awarded depending on the score achieved in each game.
+<a id="dvsa-hazard-perception"></a>
+## DVSA Hazard Perception
 
-[View on Apple](https://apps.apple.com/gb/app/hit-the-button-maths/id1001893116)
+![DVSA Hazard Perception](../../logos/1019610471-e3b5c709.png)
+
+Struggling with the Hazard Perception section of your Theory Test? 
+
+This app provides extra support and resources to help you ace your Hazard Perception test!
+
+Improve your road safety awareness and hazard perception skills and be confident in knowing that you’re ready to pass! 
+
+Whether you’re a learner or an experienced driver or rider, you can help make the roads safer by becoming more aware of potential hazards. 
+
+HAZARD PERCEPTION
+• practice your skills with an extra 30 Official DVSA hazard perception video clips – featuring all environments and weather conditions. Receive immediate feedback after each clip to find out where the hazard was and where maximum points could have been achieved! 
+
+USEFUL LINKS AND SUPPLIER ZONE
+• navigate through useful resources to support your learning, including Safe Driving for Life – a one-stop information zone. Passed your test? Use our Supplier Zone to help you with the next steps in your driving journey. 
+
+FEEDBACK
+• missing something? Let us know what you’d like to see. We’d love to hear from you with any comments or suggestions about this app. 
+
+SUPPORT
+• need support? Contact our UK-based team at feedback@williamslea.com or +44 (0)333 202 5070. We listen and respond to your feedback by updating the app and adding new features, so help others in their studies by letting us know what you’d like to see!
+
+[View on Apple](https://apps.apple.com/gb/app/dvsa-hazard-perception/id1019610471)
+
+<a id="llwybrau-r-wyddfa"></a>
+## Llwybrau'r Wyddfa
+
+![Llwybrau'r Wyddfa](../../logos/1522259939-c7af1ff2.png)
+
+*** SCROLL DOWN FOR ENGLISH ***
+
+Mae’r Wyddfa yn fynydd eiconig sy’n adnabyddus dros y byd i gyd. Mae’n gartref i gymuned fywiog, egnïol, ac i fusnesau a mannau gwaith arloesol yn ogystal â chlytwaith o ffermydd mynydd. Mae'n ased cenedlaethol a hwn yw mynydd mwyaf poblogaidd y Deyrnas Unedig o ran ymwelwyr. Mae'n denu pobl o bob cwr o Gymru, y DU, ac o bob rhan o'r byd.
+
+Dyluniwyd yr ap gan Awdurdod Parc Cenedlaethol Eryri a phartneriaid gweithgar sy’n cynnwys cynrychiolwyr o sefydliadau sydd â dyletswydd ymarferol o reoli’r mynydd ar lawr gwlad. Mae’r gwaith yn amrywio o reolaeth cadwraeth a llwybrau i dwristiaeth, ffermio ac achub mynydd.
+
+Mae’r ap yn hawdd i’w ddefnyddio, yn gweithio gyda GPS ac yn cynnwys mapiau manwl sy’n dilyn eich taith wrth i chi gerdded ar unrhyw un o’r 6 prif lwybr i’r copa. Mae hyn yn gweithio all-lein, sy’n golygu nad oes angen cyflenwad i’r we neu signal ffôn tra’n ei ddefnyddio ar y mynydd. Mae pob map yn cynnwys cyfuchliniau fel y gallwch gadw golwg ar ddarnau anodd wrth i chi gerdded.
+
+Fe fydd yr ap yn eich helpu i gynllunio ymlaen llaw cyn eich ymweliad ac yn cynnwys cyngor pwysig fydd yn eich galluogi i’n cynorthwyo i barchu, gofalu, a gwarchod y mynydd, yr amgylchedd o’i amgylch, a’r cymunedau lleol.
+
+Yn cynnwys data AO © Hawlfraint y goron a hawl basdata 2020.
+
+Datblygwyd yr ap gan Tiny Mobile Limited ar gyfer Partneriaeth Yr Wyddfa. Cysylltwch â paul@tinymobile.co.uk os oes diddordeb gennych mewn datblygu ap cerdded.
+
+
+
+
+Yr Wyddfa (pronounced uhr-with-va) is a globally renowned, iconic mountain and home to vibrant, energetic communities and a mosaic of upland hill farms. It is a national asset, the most visited mountain in the UK, attracting people from across Wales, the UK and around the world.
+
+This app is designed by the Eryri National Park Authority (Snowdonia) together with partners who are responsible for the on-the-ground management of the mountain. The work ranges from conservation and path management to tourism, farming and mountain rescue.
+
+Our simple to use GPS-enabled app covers the 6 main paths to the summit of Yr Wyddfa with detailed route maps that tracks your progress as you ascend. This works offline, meaning no internet or phone signal is required when using the app on the mountain. Each map also includes contour information so you can look out for hazardous sections as you climb.
+
+This app will also help you plan ahead before your visit and includes important advice which will allow you to help us respect, care, and protect this incredible mountain, the surrounding environment and local communities.
+
+Contains OS data © Crown copyright and database right 2023.
+
+This walking app was developed for Partneriaeth Yr Wyddfa by Tinymobile Limited. Email Paul on paul@tinymobile.co.uk if you would like to discuss walking app development.
+
+[View on Apple](https://apps.apple.com/gb/app/llwybraur-wyddfa/id1522259939)
 
 <a id="goblin-tools"></a>
 ## Goblin Tools
@@ -1290,32 +1504,86 @@ The website is free and publicly available. Purchases of this app go first towar
 
 [View on Apple](https://apps.apple.com/gb/app/goblin-tools/id6449003064)
 
-<a id="dvsa-hazard-perception"></a>
-## DVSA Hazard Perception
+<a id="blower"></a>
+## Blower
 
-![DVSA Hazard Perception](../../logos/1019610471-e3b5c709.png)
+![Blower](../../logos/335862325-bd940dc1.png)
 
-Struggling with the Hazard Perception section of your Theory Test? 
+"It blows air!", CNN --- Unlocken Sie den neuen mind-blowing-Funktion auf Ihrem iPhone und iPad: Ändern Sie es in einem echten Luft Blower! Blower nutzt geheime Hardware-Features von Ihrem Device, überprüfen Sie unten die Blower Power.
 
-This app provides extra support and resources to help you ace your Hazard Perception test!
+• "Believe it or not, it blows air!" , Gizmodo
+• Knocked Ellen Degeneres out of her chair during her TV talkshow!
+• "a one-of-a-kind application that pushes the iPhone’s functionality and awesomeness even further", krapps.com
 
-Improve your road safety awareness and hazard perception skills and be confident in knowing that you’re ready to pass! 
+• Ranked overall #1 in 20+ countries in the App Store
+• 40+ YouTube Videos von Blower Nutzern auf der ganzen Welt
+• "This is both totally stupid and incredibly brilliant", youtube comment by "mambokurtz"
 
-Whether you’re a learner or an experienced driver or rider, you can help make the roads safer by becoming more aware of potential hazards. 
+Probieren Sie es aus und staunen Sie... Starten Sie Ihren Blower und spüren Sie die Luft aus der Lautsprecheröffnung. Lustige Party Trick Beispiele:
 
-HAZARD PERCEPTION
-• practice your skills with an extra 30 Official DVSA hazard perception video clips – featuring all environments and weather conditions. Receive immediate feedback after each clip to find out where the hazard was and where maximum points could have been achieved! 
+• BLOW Modus: Kerzen und Feuerzeugflamme ausblasen
+• BEAT Modus: lassen Sie Flammen zum Musik Beat tanzen, oder kontrolliere Flammen mit deiner Stimme!
+• GUN Modus: lassen Sie Flammen zittern mit automatischen Gun Modus
+• TUNER Modus: passen Sie den Gebläsemotor an, um den Luftstrom auf Ihrem Gerät zu optimieren
+• Berühren Sie die Rotor des Blowers: treiben Sie es selbst it und sehen Sie die Funken
+• Geburtstag iMessage Stickerpack
 
-USEFUL LINKS AND SUPPLIER ZONE
-• navigate through useful resources to support your learning, including Safe Driving for Life – a one-stop information zone. Passed your test? Use our Supplier Zone to help you with the next steps in your driving journey. 
+Neugierig? Sehen Sie sich Blower in Aktion auf BlowerApp.com, oder suchen Sie "iPhone blower" auf YouTube.
+Vielen Spaß!
 
-FEEDBACK
-• missing something? Let us know what you’d like to see. We’d love to hear from you with any comments or suggestions about this app. 
+Qneo
 
-SUPPORT
-• need support? Contact our UK-based team at feedback@williamslea.com or +44 (0)333 202 5070. We listen and respond to your feedback by updating the app and adding new features, so help others in their studies by letting us know what you’d like to see!
 
-[View on Apple](https://apps.apple.com/gb/app/dvsa-hazard-perception/id1019610471)
+BLOWER POWER
+Für ein Maximum Blower Power, verwenden Sie das Device ohne zusätzliche Schutzhüllen / Gehäuse, verwenden Sie maximale Lautstärke, optimieren mit dem eingebauten Tuner, und stellen Sie sicher daB kein Staub in Ihrem Lautsprecheröffnung angesammelt ist. Sie können den kühlen Luftstrom überprüfen, durch die Lautsprecheröffnung nahe Ihrem Mund zu halten. Beim Ausblasen von Kerzen, brennen Sie nicht Ihren Gerät!
+
+[View on Apple](https://apps.apple.com/gb/app/blower/id335862325)
+
+<a id="fussy-toddler-recipes"></a>
+## Fussy Toddler Recipes
+
+![Fussy Toddler Recipes](../../logos/1234987252-b1dbdf15.png)
+
+Do you want your child to eat a healthy, balanced diet but feel stuck when they refuse everything you offer?
+
+Are mealtimes turning into negotiations, stress and wasted food?
+
+The Fussy Toddler App is here to help.
+
+Packed with quick, easy, family-friendly recipes, this app is designed specifically for toddlers and children who are fussy with food. You’ll find realistic meals that actually get eaten with clever, enjoyable ways to include fruit and vegetables without pressure or battles.
+
+From breakfasts and lunches to dinners and snacks, every recipe focuses on nourishment, variety and enjoyment - because food shouldn’t feel like a fight.
+
+Why I created this app:
+
+Every toddler goes through fussy phases, especially when it comes to fruit and vegetables. I know how frustrating and worrying that can feel.
+
+My daughter, Annabelle, has had her fair share of fussy stages, as have my twin boys. After creating my best selling Baby-Led Weaning recipes app in Annabelle’s early years, I wanted to build something that supported parents beyond that stage - something practical, realistic, and rooted in real life.
+
+This app is the result.
+
+Each recipe is designed to bring health, variety and excitement back to mealtimes, helping fussy eaters stay interested while giving parents peace of mind.
+
+I also know how busy life is. When you’re juggling work, childcare and everything else, spending hours in the kitchen just isn’t realistic. That’s why every recipe is simple to prepare, family-friendly and tested by my own fussy eaters - so you don’t have to guess what might work.
+
+If you’re struggling to offer healthy meals your child will actually eat, this app gives you the confidence, ideas and reassurance you need - without guilt or pressure.
+
+Key App Features
+
+• Over 200 family recipes designed specifically for fussy eaters
+• Quick, easy meals using everyday ingredients
+• Recipes clearly divided into breakfast, lunch, dinner and snacks
+• Search by recipe name or ingredient
+• Add ingredients straight to your shopping list
+• Save favourites for easy access
+• Free help and support via the  online community (linked in the app)
+• Free updates with new features and improvements
+
+If you ever have a question or need support, please don’t hesitate to get in touch - I’m always happy to help.
+
+Natalie x
+
+[View on Apple](https://apps.apple.com/gb/app/fussy-toddler-recipes/id1234987252)
 
 <a id="workoutdoors"></a>
 ## WorkOutDoors
@@ -1375,42 +1643,6 @@ All this is included for a single one-off payment. No extra in-app purchases or 
 If you own an Apple Watch and do any form of exercise, then WorkOutDoors is the app for you. Give it a go!
 
 [View on Apple](https://apps.apple.com/gb/app/workoutdoors/id1241909999)
-
-<a id="llwybrau-r-wyddfa"></a>
-## Llwybrau'r Wyddfa
-
-![Llwybrau'r Wyddfa](../../logos/1522259939-c7af1ff2.png)
-
-*** SCROLL DOWN FOR ENGLISH ***
-
-Mae’r Wyddfa yn fynydd eiconig sy’n adnabyddus dros y byd i gyd. Mae’n gartref i gymuned fywiog, egnïol, ac i fusnesau a mannau gwaith arloesol yn ogystal â chlytwaith o ffermydd mynydd. Mae'n ased cenedlaethol a hwn yw mynydd mwyaf poblogaidd y Deyrnas Unedig o ran ymwelwyr. Mae'n denu pobl o bob cwr o Gymru, y DU, ac o bob rhan o'r byd.
-
-Dyluniwyd yr ap gan Awdurdod Parc Cenedlaethol Eryri a phartneriaid gweithgar sy’n cynnwys cynrychiolwyr o sefydliadau sydd â dyletswydd ymarferol o reoli’r mynydd ar lawr gwlad. Mae’r gwaith yn amrywio o reolaeth cadwraeth a llwybrau i dwristiaeth, ffermio ac achub mynydd.
-
-Mae’r ap yn hawdd i’w ddefnyddio, yn gweithio gyda GPS ac yn cynnwys mapiau manwl sy’n dilyn eich taith wrth i chi gerdded ar unrhyw un o’r 6 prif lwybr i’r copa. Mae hyn yn gweithio all-lein, sy’n golygu nad oes angen cyflenwad i’r we neu signal ffôn tra’n ei ddefnyddio ar y mynydd. Mae pob map yn cynnwys cyfuchliniau fel y gallwch gadw golwg ar ddarnau anodd wrth i chi gerdded.
-
-Fe fydd yr ap yn eich helpu i gynllunio ymlaen llaw cyn eich ymweliad ac yn cynnwys cyngor pwysig fydd yn eich galluogi i’n cynorthwyo i barchu, gofalu, a gwarchod y mynydd, yr amgylchedd o’i amgylch, a’r cymunedau lleol.
-
-Yn cynnwys data AO © Hawlfraint y goron a hawl basdata 2020.
-
-Datblygwyd yr ap gan Tiny Mobile Limited ar gyfer Partneriaeth Yr Wyddfa. Cysylltwch â paul@tinymobile.co.uk os oes diddordeb gennych mewn datblygu ap cerdded.
-
-
-
-
-Yr Wyddfa (pronounced uhr-with-va) is a globally renowned, iconic mountain and home to vibrant, energetic communities and a mosaic of upland hill farms. It is a national asset, the most visited mountain in the UK, attracting people from across Wales, the UK and around the world.
-
-This app is designed by the Eryri National Park Authority (Snowdonia) together with partners who are responsible for the on-the-ground management of the mountain. The work ranges from conservation and path management to tourism, farming and mountain rescue.
-
-Our simple to use GPS-enabled app covers the 6 main paths to the summit of Yr Wyddfa with detailed route maps that tracks your progress as you ascend. This works offline, meaning no internet or phone signal is required when using the app on the mountain. Each map also includes contour information so you can look out for hazardous sections as you climb.
-
-This app will also help you plan ahead before your visit and includes important advice which will allow you to help us respect, care, and protect this incredible mountain, the surrounding environment and local communities.
-
-Contains OS data © Crown copyright and database right 2023.
-
-This walking app was developed for Partneriaeth Yr Wyddfa by Tinymobile Limited. Email Paul on paul@tinymobile.co.uk if you would like to discuss walking app development.
-
-[View on Apple](https://apps.apple.com/gb/app/llwybraur-wyddfa/id1522259939)
 
 <a id="koala-sampler-beat-maker"></a>
 ## Koala Sampler • Beat Maker
@@ -1534,65 +1766,6 @@ Was gibt es Neues in 3.0
 • Erstellen Sie wiederverwendbare Menüs, die mehrere Tage abdecken.
 
 [View on Apple](https://apps.apple.com/gb/app/paprika-recipe-manager-3/id1303222868)
-
-<a id="universalis"></a>
-## Universalis
-
-![Universalis](../../logos/284942719-a6a41190.png)
-
-Universalis is a missal and a breviary, and more besides. It gives you the Liturgy of the Hours (Divine Office) and the Mass for every day; plus valuable additional material. 
-
-Tens of thousands of people use Universalis daily. Come and join them!
-
-• Single purchase: the app lasts for ever. It does not need a subscription to make it work.
-• No Internet needed: everything you need is already built in.
-• No cleverness needed: each day, Universalis works out exactly what you need to see.
-• View any date: past, present and future.
-• Use your own local calendar: USA, Canada, Singapore, Ireland, and every diocese in Australia, New Zealand and the UK.
-• Easy to read and use: a choice of fonts; big or small type; dark or light theme; page-turning or scrolling.
-• Optional add-on: spoken audio read by real human beings (this needs a subscription: see below).
-• Latin if you want it: by itself or alongside the English.
-• Help and support: tips and instructions are included; or press “Contact Us” to send us a message, and we will reply.
-
-EXTRA MATERIAL
-
-• The “About Today” page tells you what saints are being celebrated today, worldwide. It includes reflections, biographies and illustrations.
-• “Mass Today” gives you the Order of Mass and today’s readings and prayers, all in one page. Bishops have been known to use it to say Mass from their iPads!
-• “Spiritual Reading” gathers the patristic and hagiographic readings for all the saints and feasts of the day.  
-• “The Rosary” has a verse of Scripture for every Hail Mary of every Mystery. Spoken audio is included.
-• Daily Books takes selected spiritual classics and presents them in daily instalments to focus and enrich your prayer life.
-• Commentaries on the day’s Mass readings from a leading biblical scholar.
-
-And more – Home Screen widgets; liturgical events for your iOS calendar; daily email service; copy and paste into other apps; reminders and alarms; Mass readings on your Apple Watch.
-
-LITURGY OF THE HOURS (Divine Office)
-
-The complete official Liturgy of the Hours of the Catholic Church, as used worldwide. Morning (Lauds), daytime (Terce, Sext and None), evening (Vespers), night (Compline) and the deeply reflective Office of Readings. Do as many or as few of them as you like.
-• The psalms and canticles match the official English and American books. Scripture readings – United States: RSV. Elsewhere: Jerusalem Bible (with RSV as an optional add-on).
-
-READINGS AT MASS
-
-The exact prayers and readings at Mass for each day.
-• England, Wales, Scotland: the official ESV version. 
-• United States: the official NAB version. 
-• Elsewhere: Jerusalem Bible readings and Grail psalms, as used at Mass in most of the English-speaking world.
-
-OPTIONAL ADD-ON AUDIO (in-app purchase required)
-
-Just press the button and listen! If you want to see what you are hearing, the text is highlighted to follow the sound. After an initial download, no Internet is required. Works with CarPlay too.
-
-• Spoken English Liturgy of the Hours: every Hour of every day of every year. Monthly or annual subscription.
-• Spoken English Mass Readings: First and Second Reading and the Gospel. Jerusalem Bible translation only. Monthly or annual subscription.
-
-(You can listen to a sample before subscribing. Following App Store rules, subscriptions renew automatically but you can cancel auto-renewal at any time.)
-
-• Sung Latin Compline (Night Prayer): by the boys of the Schola Cantorum of the London Oratory School. Single purchase.
-
---
-
-Privacy policy and terms of service: universalis.com/n-ios-privacy.htm
-
-[View on Apple](https://apps.apple.com/gb/app/universalis/id284942719)
 
 <a id="shot-tracer"></a>
 ## Shot Tracer
@@ -1722,41 +1895,6 @@ Wild in Art is a leading creative producer of spectacular, mass-appeal public ar
 
 [View on Apple](https://apps.apple.com/gb/app/bears-big-adventure-trail/id6762607526)
 
-<a id="blower"></a>
-## Blower
-
-![Blower](../../logos/335862325-bd940dc1.png)
-
-"It blows air!", CNN --- Unlocken Sie den neuen mind-blowing-Funktion auf Ihrem iPhone und iPad: Ändern Sie es in einem echten Luft Blower! Blower nutzt geheime Hardware-Features von Ihrem Device, überprüfen Sie unten die Blower Power.
-
-• "Believe it or not, it blows air!" , Gizmodo
-• Knocked Ellen Degeneres out of her chair during her TV talkshow!
-• "a one-of-a-kind application that pushes the iPhone’s functionality and awesomeness even further", krapps.com
-
-• Ranked overall #1 in 20+ countries in the App Store
-• 40+ YouTube Videos von Blower Nutzern auf der ganzen Welt
-• "This is both totally stupid and incredibly brilliant", youtube comment by "mambokurtz"
-
-Probieren Sie es aus und staunen Sie... Starten Sie Ihren Blower und spüren Sie die Luft aus der Lautsprecheröffnung. Lustige Party Trick Beispiele:
-
-• BLOW Modus: Kerzen und Feuerzeugflamme ausblasen
-• BEAT Modus: lassen Sie Flammen zum Musik Beat tanzen, oder kontrolliere Flammen mit deiner Stimme!
-• GUN Modus: lassen Sie Flammen zittern mit automatischen Gun Modus
-• TUNER Modus: passen Sie den Gebläsemotor an, um den Luftstrom auf Ihrem Gerät zu optimieren
-• Berühren Sie die Rotor des Blowers: treiben Sie es selbst it und sehen Sie die Funken
-• Geburtstag iMessage Stickerpack
-
-Neugierig? Sehen Sie sich Blower in Aktion auf BlowerApp.com, oder suchen Sie "iPhone blower" auf YouTube.
-Vielen Spaß!
-
-Qneo
-
-
-BLOWER POWER
-Für ein Maximum Blower Power, verwenden Sie das Device ohne zusätzliche Schutzhüllen / Gehäuse, verwenden Sie maximale Lautstärke, optimieren mit dem eingebauten Tuner, und stellen Sie sicher daB kein Staub in Ihrem Lautsprecheröffnung angesammelt ist. Sie können den kühlen Luftstrom überprüfen, durch die Lautsprecheröffnung nahe Ihrem Mund zu halten. Beim Ausblasen von Kerzen, brennen Sie nicht Ihren Gerät!
-
-[View on Apple](https://apps.apple.com/gb/app/blower/id335862325)
-
 <a id="wales-airshow"></a>
 ## Wales Airshow
 
@@ -1794,82 +1932,61 @@ Note: Remeber that you must book your Life in the UK Test online at least 3 days
 
 [View on Apple](https://apps.apple.com/gb/app/life-in-the-uk-2026-test-prep/id1113930361)
 
-<a id="threema-der-sichere-messenger"></a>
-## Threema. Der sichere Messenger
+<a id="driver-cpc-case-studies-test"></a>
+## Driver CPC Case Studies Test
 
-![Threema. Der sichere Messenger](../../logos/578665578-9c465f24.png)
+![Driver CPC Case Studies Test](../../logos/1181449615-3ff27c40.png)
 
-Threema ist der weltweit meistverkaufte sichere Messenger, der von mehr als 12 Millionen Menschen in über 175 Ländern verwendet wird – entwickelt in der Schweiz und konsequent auf Datenschutz und Privatsphäre ausgelegt. Ob Chats, Anrufe oder Dateien: Alles ist Ende-zu-Ende-verschlüsselt, und keine Datenspur bleibt zurück. Anstelle einer Telefonnummer oder E-Mail-Adresse dient eine zufällig erzeugte Threema-ID als eindeutige Kennung – anonym und sicher. Threema schützt, was wirklich zählt: Ihre Privatsphäre.
+WHAT’S INCLUDED?
 
-Vorteile mit Threema:
-• Text- und Sprachnachrichten inkl. Emoji-Reaktionen
-• Durchgängig verschlüsselte Sprach-, Video- und Gruppenanrufe
-• Teilen des Standorts
-• Versand von Dateien aller Formate (PDF, GIF, MP3, ZIP und mehr)
-• Möglichkeit, bereits gesendete Nachrichten zu bearbeiten und für Chatpartner zu löschen
-• Desktop-App und Web-Client, um bequem am PC zu chatten
-• Erstellen von Gruppen und Umfragen
-• Helles oder dunkles Design
-• Keine Werbung, keine Tracker, keine Datensammelei
-• Verifikation der Identität von Kontakten durch Scannen des QR-Codes
+- Practise hundreds of interactive multiple-choice questions.
 
-Zuverlässige Sicherheit:
-• Open Source und regelmässige Audits
-• Server in der Schweiz
-• Anonyme Nutzung möglich: keine Telefonnummer oder E-Mail-Adresse erforderlich
-• Löschung von Nachrichten vom Server sofort nach Zustellung
+- Covers every aspect of the Great Britain (GB) and Northern Ireland (NI) DVSA syllabus with the largest database of professionally written CPC questions.
 
-Haben Sie Fragen oder Probleme? Unsere FAQ helfen weiter: https://threema.com/support
+- Review your answers and read explanations to help improve your skills.
 
-Viel Freude mit Threema!
+- Sit hundreds of mock tests.
 
-[View on Apple](https://apps.apple.com/gb/app/threema-the-secure-messenger/id578665578)
+- Over 40 minutes of professional video tutorials covering pre-driving checks, use of the tachograph and driver’s hours*
 
-<a id="fussy-toddler-recipes"></a>
-## Fussy Toddler Recipes
+- Learn the latest rules and regulations from a searchable Highway Code.
 
-![Fussy Toddler Recipes](../../logos/1234987252-b1dbdf15.png)
+- Keep a track of your progress to see if you’re test ready.
 
-Do you want your child to eat a healthy, balanced diet but feel stuck when they refuse everything you offer?
+- Optional English voiceover to help those with reading difficulties or dyslexia.*
 
-Are mealtimes turning into negotiations, stress and wasted food?
+- No annoying ads to interrupt your learning.
 
-The Fussy Toddler App is here to help.
+- Free in-house customer services and technical support (support@completetheorytest.co.uk).
 
-Packed with quick, easy, family-friendly recipes, this app is designed specifically for toddlers and children who are fussy with food. You’ll find realistic meals that actually get eaten with clever, enjoyable ways to include fruit and vegetables without pressure or battles.
+Practise interactive case studies covering the full DVSA syllabus: 
 
-From breakfasts and lunches to dinners and snacks, every recipe focuses on nourishment, variety and enjoyment - because food shouldn’t feel like a fight.
+• Customer Service
+• Diet and Health
+• Documentation
+• Drivers' Hours
+• EcoSafe Driving
+• Health and Safety
+• Incidents, Emergencies and First Aid
+• Legal Matters
+• Licensing and Qualifications
+• Risk Factors
+• Speed, Height, Weight and Other Limits
+• Tachograph Use
+• Technical Matters
+• Vehicle Loading, Unloading and Security
+• Vulnerable Road Users
+• Working Time Directive
 
-Why I created this app:
+-------------------------------------------------------------------------
 
-Every toddler goes through fussy phases, especially when it comes to fruit and vegetables. I know how frustrating and worrying that can feel.
+* Internet access required for voiceovers and videos (WiFi recommended)
 
-My daughter, Annabelle, has had her fair share of fussy stages, as have my twin boys. After creating my best selling Baby-Led Weaning recipes app in Annabelle’s early years, I wanted to build something that supported parents beyond that stage - something practical, realistic, and rooted in real life.
+IMPORTANT: The revision materials in this app are NOT the actual questions you will be asked in the official test. The DVSA do not release any of the live CPC questions, nor do they publish a revision question set. The questions in this product have been written by experts within the industry and cover the DVSA’s CPC test syllabus.
 
-This app is the result.
+The Official Highway Code is Crown Copyright material and reproduced under the terms of the Open Government Licence. ‘The Complete’ is a brand name owned by Driving Test Success Ltd. App developed by Imagitech Ltd ©2026. All rights reserved.
 
-Each recipe is designed to bring health, variety and excitement back to mealtimes, helping fussy eaters stay interested while giving parents peace of mind.
-
-I also know how busy life is. When you’re juggling work, childcare and everything else, spending hours in the kitchen just isn’t realistic. That’s why every recipe is simple to prepare, family-friendly and tested by my own fussy eaters - so you don’t have to guess what might work.
-
-If you’re struggling to offer healthy meals your child will actually eat, this app gives you the confidence, ideas and reassurance you need - without guilt or pressure.
-
-Key App Features
-
-• Over 200 family recipes designed specifically for fussy eaters
-• Quick, easy meals using everyday ingredients
-• Recipes clearly divided into breakfast, lunch, dinner and snacks
-• Search by recipe name or ingredient
-• Add ingredients straight to your shopping list
-• Save favourites for easy access
-• Free help and support via the  online community (linked in the app)
-• Free updates with new features and improvements
-
-If you ever have a question or need support, please don’t hesitate to get in touch - I’m always happy to help.
-
-Natalie x
-
-[View on Apple](https://apps.apple.com/gb/app/fussy-toddler-recipes/id1234987252)
+[View on Apple](https://apps.apple.com/gb/app/driver-cpc-case-studies-test/id1181449615)
 
 <a id="stylebook"></a>
 ## Stylebook
@@ -1909,6 +2026,100 @@ FONCTIONNALITÉS :
 (*) La génération d'images par l'IA nécessite Apple Intelligence.
 
 [View on Apple](https://apps.apple.com/gb/app/stylebook/id335709058)
+
+<a id="spelling-shed"></a>
+## Spelling Shed
+
+![Spelling Shed](../../logos/1264568098-d0e9ef49.png)
+
+Spelling Shed is the #1 spelling game enjoyed by over 2.5 million children every month! 
+ 
+Spelling Shed’s multi-award-winning app is the leading spelling app and has been #1 in several countries. Designed by a team of teachers, our platform enables everyone to succeed with spelling and enjoy the process! 
+ 
+Used in thousands of schools across the globe, our games make spelling enjoyable, accessible and achievable. As well as improving spelling, our app significantly impacts reading ability, vocabulary acquisition and writing.  
+
+Created by EdShed, the multi-award-winning EdTech company trusted by over 170,000 educators and enjoyed by millions of children worldwide. 
+ 
+
+Improve Results 
+
+‣ Spelling Shed is proven to improve results by up to 80%. 
+‣ Proven to improve pupil engagement. 
+‣ Makes spelling fun, effective and meaningful. 
+‣ Reduces teacher workload. 
+
+
+Play a variety of games 
+
+‣ Feed Hungry Horses, shoot your shot in Penalty Spell-out, take on a Shed Load  or play the original Spelling Bee game. The choice of how you practice spelling is yours.  
+‣ Avoid the lava and beat Chipper. Squirrel Scurry allows you to play solo or against the computer, choose to reach the top or enjoy endless gameplay. 
+‣ Includes bonus Bee Keeper and Buzz Words games. 
+‣ Boost vocabulary acquisition by playing Missing Words or Definitions games.  
+‣ Choose from 4 different levels: easy, medium, hard and extreme! 
+ 
+
+Play Hive Games 
+
+‣ Hive games are multi-player games that allow you to play with your friends or classmates in real-time.  
+‣ Create your own hives or join others.  
+‣ See real-time league statistics between each word spelled.  
+‣ Includes a range of levels and play options. 
+ 
+
+Empowering Every Learner 
+
+‣ Inclusive and accessible for all pupils. 
+‣ Includes multi-modal learning options such as audio assistance and being able to read the word before spelling it.  
+‣ Choose from 4 different levels: easy, medium, hard and extreme! 
+‣ Choose the amount of support needed to succeed. 
+‣ Ensures every learner experiences success to further motivate them.  
+‣ Gives instant feedback and rewards.  
+‣ Clear interface reduces cognitive load and makes navigation simple.  
+‣ Proven to be effective for pupils with ADHD, dyslexia and autism.  
+ 
+
+Play anytime, anywhere 
+
+‣ Play with classmates from home. 
+‣ Perfect for in-class practice, home learning or intervention. 
+‣ No in-app downloads required. 
+‣ Engaging games that fit around busy schedules. 
+ 
+
+100% Curriculum Coverage
+
+‣ Choose from over 1,000,000 word lists.  
+‣ Provides full curriculum coverage for spelling.  
+‣ Subscribers (via website) can use alongside Spelling Shed’s evidence-based spelling scheme.  
+‣ Create your own custom word lists. 
+ 
+
+Unique Phonics Spelling System 
+
+‣ Choose to spell using graphemes or letters.  
+‣ Select ‘phonics on’ to spell words using graphemes.  
+‣ Support phonics learning 
+‣ Support home learning of phonics.  
+ 
+
+The Science of Spelling  
+
+‣ Use alongside Spelling Shed’s evidence-based spelling scheme for maximum impact. Subscribe via Spelling Shed’s website.  
+‣ Support phonological knowledge. 
+‣ Develop orthographical knowledge. 
+‣ Strengthen morphological knowledge. 
+ 
+
+Celebrate Success 
+
+‣ Receive instant feedback. 
+‣ Honeypots are awarded immediately. 
+‣ Honeypots are EdShed’s currency, which can be spent on customising your avatar. 
+‣ Harder levels and bonuses give more points and honeypots.  
+‣ More points gives a higher league position in class league.  
+‣ More points also mean a higher class/group position in school and world leagues!
+
+[View on Apple](https://apps.apple.com/gb/app/spelling-shed/id1264568098)
 
 <a id="slow-shutter-cam"></a>
 ## Slow Shutter Cam
@@ -1961,66 +2172,171 @@ Search #slowshuttercam on Instagram or visit the "Slow Shutter Cam - iPhone" gro
 
 [View on Apple](https://apps.apple.com/gb/app/slow-shutter-cam/id357404131)
 
-<a id="reset-by-sarah-rusbatch"></a>
-## RESET by Sarah Rusbatch
+<a id="healthfit"></a>
+## HealthFit
 
-![RESET by Sarah Rusbatch](../../logos/6779501593-072bd97b.png)
+![HealthFit](../../logos/1202650514-e32f4b0a.png)
 
-Backed by 12,000 women. Built by women who've been there. RESET is the app that finally understands what women need to change their drinking, hormones, cravings, emotions and all.
+Verwandle deine Apple Watch in eine umfassende Trainingsplattform.
 
-This is not a clinical app. Not a 12-step program. Not a one-size-fits-all tool built with men in mind. RESET is a warm, judgment-free daily companion created by women's wellness coaches who have lived this journey themselves, and who know exactly what it feels like to question your relationship with alcohol. It’s everything they needed when they changed their drinking and the tools that ACTUALLY work.
+HealthFit verwandelt die in Apple Health gespeicherten Trainings- und Gesundheitsdaten in fortschrittliche Fitnessmetriken, Trainingsanalysen und eine nahtlose Synchronisierung deiner Workouts – ganz ohne Benutzerkonto.
 
-Whether you're taking a break, exploring sober curiosity, or committing to an alcohol free life, RESET meets you exactly where you are. No shame. No pressure. Just real support, whenever you need it, right in your pocket.
+Egal, ob du für deinen nächsten Wettkampf trainierst, deine Fitness verbessern oder einfach aktiv bleiben möchtest – HealthFit hilft dir, deine Fortschritte zu verstehen, dein Training zu optimieren und deine Ziele zu erreichen.
 
-WHAT RESET GIVES YOU
+INTELLIGENTER TRAINIEREN
 
-Coach In Your Pocket!
+HealthFit hilft dir dabei, Folgendes zu verstehen:
 
-You are never alone in the hard moments. Hear directly from Sarah Rusbatch and her team. real voices, real warmth, any time the evening wine is calling.
+• Trainingsbelastung
+• Fitness (CTL), Ermüdung (ATL) und Form (TSB)
+• Trainingsbelastungsverhältnis
+• Herzfrequenzzonen und Trainingsverteilung
+• Jahresvergleiche und Trends
+• Explorer Score und Trainings-Heatmaps
 
-Daily Check-Ins and Mood Tracking
+Diese Metriken und Analysen sind normalerweise professionellen Trainingsplattformen vorbehalten.
 
-Show up for yourself every single day with a simple, pressure-free check-in. Log how you're feeling, track your alcohol-free days, and build self-awareness one day at a time.
+ALLES AN EINEM ORT
 
-Milestone Celebrations
+Verfolge Trainingsbelastung, Fitnessentwicklung, Gesundheitsmetriken und deinen gesamten Trainingsverlauf über ein einziges Dashboard.
 
-Every day counts. RESET tracks your alcohol free days and celebrates every milestone, from your very first day to your first year and beyond, with beautiful, shareable cards that mark how far you've come.
+EIN BESSERER AKTIVITÄTSFEED
 
-Craving Support Tools - Right When You Need Them
+Durchsuche deine Workouts mit Karten, Fotos und den wichtigsten Kennzahlen auf einen Blick.
 
-When a craving hits, RESET has you covered. Play The Tape Forward, urge surfing, the HALTBSH check and more, science-backed tools designed specifically for women, available the moment you need them most.
+• Anpassbare Herzfrequenzzonen
+• Verfolgung der Trainingsbelastung
+• Ausrüstungsverfolgung (Schuhe, Fahrräder und mehr)
+• Analyse von Höhenmetern, Tempo, Leistung und Kadenz
+• Detaillierte Diagramme und Leistungstrends
 
-Coach Voice Notes
+HealthFit kann automatisch Fotos zuordnen, die während deiner Workouts aufgenommen wurden.
 
-Four real women's wellness coaches. Pre-recorded voice notes designed to calm your nervous system, lift your spirits and get you through your hardest moments. Because sometimes you just need to hear a real voice that gets it.
+LEISTUNGSANALYSE
 
-Guided Journaling Prompts
+Analysiere deine Lauf- und Radleistung mit:
 
-Reflect, grow and reconnect with yourself through guided prompts for daily reflection, gratitude and glimmer moments. Journaling has never felt this supportive.
+• Geschätzte kritische Leistung
+• Gewichtete Durchschnittsleistung
+• Mean-Maximal-Power-Kurven
+• Leistungsverteilung
+• Historische Leistungstrends
 
-Stats, Insights and Savings
+GESUNDHEITSMETRIKEN FÜR ATHLETEN
 
-Track your streak, your alcohol free percentage, and yes, the money you've saved. All in one beautiful, motivating dashboard that shows you exactly how far you've come.
+• Herzfrequenzvariabilität (HRV)
+• Ruheherzfrequenz
+• Kardiorespiratorische Fitness (VO₂max)
+• Schlafmetriken
+• Gewicht, BMI und Körperfettanteil
+• Baevsky-Stressindex
 
-CREATED BY WOMEN WHO TRULY GET IT
+FÜR JEDE SPORTART GEEIGNET
 
-RESET was built by a team of women who have all walked this path themselves. Sarah Rusbatch, accredited grey area drinking coach and author of Beyond Booze, has supported over 12,000 women to change their relationship with alcohol. Her expertise, warmth and hard-won wisdom are woven into every single feature of this app.
+HealthFit unterstützt alle Aktivitätstypen und passt Statistiken, Diagramme und Analysen automatisch an deine häufigsten Aktivitäten an.
 
-This is what 12,000 women's experiences looks like when it's distilled into one powerful tool.
+AUTOMATISCHE WORKOUT-SYNCHRONISIERUNG
 
-THIS APP IS FOR YOU IF:
+HealthFit synchronisiert deine Workouts automatisch im Hintergrund mit deinen bevorzugten Fitnessplattformen.
 
-• You're curious about taking a break from alcohol
-• You've tried before and want real support this time
-• You want tools designed for how women actually feel and function
-• You're done with shame and ready for something different
-• You want coach tools in your pocket for the moments that matter most
+Jedes mit der Apple Watch aufgezeichnete Workout wird automatisch hochgeladen – ohne manuelle Exporte und ohne zusätzliche Schritte.
 
-RESET is not about perfection. It is about progress, one day at a time.
+Du kannst sogar deinen gesamten Trainingsverlauf synchronisieren.
 
-Download RESET today and take the first step toward a life you love waking up to.
+MULTISPORT-UNTERSTÜTZUNG
 
-[View on Apple](https://apps.apple.com/gb/app/reset-by-sarah-rusbatch/id6779501593)
+HealthFit unterstützt Multisport- und Intervalltrainings vollständig und kann Multisport-Aktivitäten als echte Multi-Session-Aktivitäten exportieren.
+
+DEINE DATEN GEHÖREN DIR
+
+Kein Benutzerkonto erforderlich. Keine Anmeldung erforderlich.
+
+HealthFit arbeitet direkt mit Apple Health und speichert deine Daten auf deinem Gerät.
+
+VERBINDET SICH MIT DEINEN LIEBLINGS-FITNESSPLATTFORMEN
+
+Strava, TrainingPeaks, Final Surge, Selfloops, Smashrun, Ride with GPS, Cycling Analytics, Today's Plan, Runalyze, Suunto, 2PEAK, Komoot, COROS, Intervals.icu, Nolio, TrainAsONE, Tredict, Stages Link, Map My Tracks und Xhale.
+
+Exportiere detaillierte Trainingsberichte im Markdown-Format mit Diagrammen, Karten und Analysen oder exportiere deine Daten in den Formaten FIT, GPX, CSV und Google Sheets.
+
+Nutzungsbedingungen:
+https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+
+[View on Apple](https://apps.apple.com/gb/app/healthfit/id1202650514)
+
+<a id="autosleep-苹果手表睡眠监测-睡觉记录及智能闹钟"></a>
+## AutoSleep - 苹果手表睡眠监测，睡觉记录及智能闹钟
+
+![AutoSleep - 苹果手表睡眠监测，睡觉记录及智能闹钟](../../logos/1164801111-8d1eb49f.png)
+
+使用手表来自动追踪您的睡眠*。无需按动任何按钮，无需安装任何手表应用，只要安稳睡觉就好！
+
+关于 AutoSleep
+-----------------
+使用先进的启发式应用 AutoSleep 来计算您的睡眠时长。
+
+如果您戴上手表睡觉，您什么都不需要做。AutoSleep 会自动监控您的睡眠时长与质量并在您早晨第一次解锁手机后给你发送通知。
+
+即使您不带着手表睡觉, AutoSleep 也可以计算您在床上的时间。这非常简单。
+
+因为人总是各异的，AutoSleep 提供了微调选项，您可以通过简单地滑动滑块来调整自己的睡眠活跃度检测级别并可以很快速地看到睡眠时钟的统计变化。它还允许您自定义睡眠窗口, 是否需要每日通知以及在睡眠时钟上显示更多或更少的信息。 
+
+与 Apple 睡眠阶段应用完全集成，使您可以选择使用 Apple 睡眠应用并在 AutoSleep 中查看所有信息。
+
+AutoSleep 包括睡眠监控所需的所有信息和功能，包括：
+睡眠时间 – 睡眠时长和睡眠银行余额
+睡眠评分 – 对您睡眠的综合评分
+睡眠环 – 用高质量的睡眠填充您的睡眠环，包括心率、深度睡眠和快速动眼
+Apple 睡眠阶段 – 可使用 Apple 睡眠应用中数据的选项
+睡眠呼吸暂停 - 了解您是否患有睡眠呼吸暂停
+睡眠血氧 – 睡眠时的测量值
+呼吸频率 – 记录您每分钟的呼吸
+噪声 – 环境噪声测量值
+睡眠分析 – 查看您的睡眠周期的详细图表和细分情况
+睡眠燃料 – 衡量您的睡眠质量和效率
+今晚就寝时间 – 根据您的习惯推荐您最近的就寝时间
+就绪 – 表示您的身体和精神压力
+温度 – 跟踪您睡眠时的手腕温度
+睡眠一致性 – 了解您的就寝时间习惯
+熄灯 – 跟踪入睡时间
+实时睡眠跟踪 – 查看您夜间的睡眠统计信息
+智能闹钟 – Watch 内置的智能闹钟，帮助您从较浅的睡眠中醒来
+小组件 – 各种各样超棒的 iPhone 小组件
+复杂功能 – 多种 Watch 表盘选项
+HomeKit – 与 Apple HomeKit 完全集成
+表情符号和笔记 – 记录对睡眠时段的评论和标签
+探索 – 深入分析视图
+Siri – 通过 Siri 语音指令使用
+快捷方式 – 创建您自己用于 AutoSleep 的快捷方式
+调整 – 调整您个人睡眠/醒来检测的简单功能
+历史 – 高级图表和趋势
+配置 – 更改主题并设计您的时钟睡眠环
+设置 – 定制您的睡眠目标、设置通知和提醒
+导出 – 导出选项以保存数据
+
+AutoSleep 可以与 HeartWatch 联动，它是我们首推的心跳与活动检测应用。AutoSleep 会将您的睡眠信息记入健康应用中。 
+
+*需要运行 Watch OS 4 或更高版本的 Apple Watch。
+
+- 2018年度最佳
+https://apps.apple.com/story/id1438574124/
+
+- 2019年度最佳
+https://apps.apple.com/story/id1484100916/
+
+- 2020年度最佳
+https://apps.apple.com/story/id1535572713/
+
+- 2021年度最佳
+https://apps.apple.com/story/id1591083005/
+
+- 2022年度最佳
+https://apps.apple.com/story/id1654240446
+
+- 2023年度最佳
+https://apps.apple.com/story/id1719170110
+
+[View on Apple](https://apps.apple.com/gb/app/autosleep-watch-sleep-tracker/id1164801111)
 
 <a id="wipr-2"></a>
 ## Wipr 2
@@ -2099,62 +2415,6 @@ Teile deine Pläne und Orte via E-Mail. Lade deine Freunde ein dabei zu sein. An
 Worauf wartest du? Hol dir PhotoPills gleich jetzt und mache wirklich einzigartig Aufnahmen!
 
 [View on Apple](https://apps.apple.com/gb/app/photopills/id596026805)
-
-<a id="driver-cpc-case-studies-test"></a>
-## Driver CPC Case Studies Test
-
-![Driver CPC Case Studies Test](../../logos/1181449615-3ff27c40.png)
-
-WHAT’S INCLUDED?
-
-- Practise hundreds of interactive multiple-choice questions.
-
-- Covers every aspect of the Great Britain (GB) and Northern Ireland (NI) DVSA syllabus with the largest database of professionally written CPC questions.
-
-- Review your answers and read explanations to help improve your skills.
-
-- Sit hundreds of mock tests.
-
-- Over 40 minutes of professional video tutorials covering pre-driving checks, use of the tachograph and driver’s hours*
-
-- Learn the latest rules and regulations from a searchable Highway Code.
-
-- Keep a track of your progress to see if you’re test ready.
-
-- Optional English voiceover to help those with reading difficulties or dyslexia.*
-
-- No annoying ads to interrupt your learning.
-
-- Free in-house customer services and technical support (support@completetheorytest.co.uk).
-
-Practise interactive case studies covering the full DVSA syllabus: 
-
-• Customer Service
-• Diet and Health
-• Documentation
-• Drivers' Hours
-• EcoSafe Driving
-• Health and Safety
-• Incidents, Emergencies and First Aid
-• Legal Matters
-• Licensing and Qualifications
-• Risk Factors
-• Speed, Height, Weight and Other Limits
-• Tachograph Use
-• Technical Matters
-• Vehicle Loading, Unloading and Security
-• Vulnerable Road Users
-• Working Time Directive
-
--------------------------------------------------------------------------
-
-* Internet access required for voiceovers and videos (WiFi recommended)
-
-IMPORTANT: The revision materials in this app are NOT the actual questions you will be asked in the official test. The DVSA do not release any of the live CPC questions, nor do they publish a revision question set. The questions in this product have been written by experts within the industry and cover the DVSA’s CPC test syllabus.
-
-The Official Highway Code is Crown Copyright material and reproduced under the terms of the Open Government Licence. ‘The Complete’ is a brand name owned by Driving Test Success Ltd. App developed by Imagitech Ltd ©2026. All rights reserved.
-
-[View on Apple](https://apps.apple.com/gb/app/driver-cpc-case-studies-test/id1181449615)
 
 <a id="ableton-note"></a>
 ## Ableton Note
@@ -2476,98 +2736,6 @@ Eine unterhaltsame Art sich selbst, Kindern, Studenten oder Freunden die Wunder 
 
 [View on Apple](https://apps.apple.com/gb/app/skyview/id404990064)
 
-<a id="healthfit"></a>
-## HealthFit
-
-![HealthFit](../../logos/1202650514-e32f4b0a.png)
-
-Verwandle deine Apple Watch in eine umfassende Trainingsplattform.
-
-HealthFit verwandelt die in Apple Health gespeicherten Trainings- und Gesundheitsdaten in fortschrittliche Fitnessmetriken, Trainingsanalysen und eine nahtlose Synchronisierung deiner Workouts – ganz ohne Benutzerkonto.
-
-Egal, ob du für deinen nächsten Wettkampf trainierst, deine Fitness verbessern oder einfach aktiv bleiben möchtest – HealthFit hilft dir, deine Fortschritte zu verstehen, dein Training zu optimieren und deine Ziele zu erreichen.
-
-INTELLIGENTER TRAINIEREN
-
-HealthFit hilft dir dabei, Folgendes zu verstehen:
-
-• Trainingsbelastung
-• Fitness (CTL), Ermüdung (ATL) und Form (TSB)
-• Trainingsbelastungsverhältnis
-• Herzfrequenzzonen und Trainingsverteilung
-• Jahresvergleiche und Trends
-• Explorer Score und Trainings-Heatmaps
-
-Diese Metriken und Analysen sind normalerweise professionellen Trainingsplattformen vorbehalten.
-
-ALLES AN EINEM ORT
-
-Verfolge Trainingsbelastung, Fitnessentwicklung, Gesundheitsmetriken und deinen gesamten Trainingsverlauf über ein einziges Dashboard.
-
-EIN BESSERER AKTIVITÄTSFEED
-
-Durchsuche deine Workouts mit Karten, Fotos und den wichtigsten Kennzahlen auf einen Blick.
-
-• Anpassbare Herzfrequenzzonen
-• Verfolgung der Trainingsbelastung
-• Ausrüstungsverfolgung (Schuhe, Fahrräder und mehr)
-• Analyse von Höhenmetern, Tempo, Leistung und Kadenz
-• Detaillierte Diagramme und Leistungstrends
-
-HealthFit kann automatisch Fotos zuordnen, die während deiner Workouts aufgenommen wurden.
-
-LEISTUNGSANALYSE
-
-Analysiere deine Lauf- und Radleistung mit:
-
-• Geschätzte kritische Leistung
-• Gewichtete Durchschnittsleistung
-• Mean-Maximal-Power-Kurven
-• Leistungsverteilung
-• Historische Leistungstrends
-
-GESUNDHEITSMETRIKEN FÜR ATHLETEN
-
-• Herzfrequenzvariabilität (HRV)
-• Ruheherzfrequenz
-• Kardiorespiratorische Fitness (VO₂max)
-• Schlafmetriken
-• Gewicht, BMI und Körperfettanteil
-• Baevsky-Stressindex
-
-FÜR JEDE SPORTART GEEIGNET
-
-HealthFit unterstützt alle Aktivitätstypen und passt Statistiken, Diagramme und Analysen automatisch an deine häufigsten Aktivitäten an.
-
-AUTOMATISCHE WORKOUT-SYNCHRONISIERUNG
-
-HealthFit synchronisiert deine Workouts automatisch im Hintergrund mit deinen bevorzugten Fitnessplattformen.
-
-Jedes mit der Apple Watch aufgezeichnete Workout wird automatisch hochgeladen – ohne manuelle Exporte und ohne zusätzliche Schritte.
-
-Du kannst sogar deinen gesamten Trainingsverlauf synchronisieren.
-
-MULTISPORT-UNTERSTÜTZUNG
-
-HealthFit unterstützt Multisport- und Intervalltrainings vollständig und kann Multisport-Aktivitäten als echte Multi-Session-Aktivitäten exportieren.
-
-DEINE DATEN GEHÖREN DIR
-
-Kein Benutzerkonto erforderlich. Keine Anmeldung erforderlich.
-
-HealthFit arbeitet direkt mit Apple Health und speichert deine Daten auf deinem Gerät.
-
-VERBINDET SICH MIT DEINEN LIEBLINGS-FITNESSPLATTFORMEN
-
-Strava, TrainingPeaks, Final Surge, Selfloops, Smashrun, Ride with GPS, Cycling Analytics, Today's Plan, Runalyze, Suunto, 2PEAK, Komoot, COROS, Intervals.icu, Nolio, TrainAsONE, Tredict, Stages Link, Map My Tracks und Xhale.
-
-Exportiere detaillierte Trainingsberichte im Markdown-Format mit Diagrammen, Karten und Analysen oder exportiere deine Daten in den Formaten FIT, GPX, CSV und Google Sheets.
-
-Nutzungsbedingungen:
-https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
-
-[View on Apple](https://apps.apple.com/gb/app/healthfit/id1202650514)
-
 <a id="fl-studio-mobile"></a>
 ## FL Studio Mobile
 
@@ -2707,80 +2875,6 @@ Wende dich an uns, wenn du Fragen hast. Wir helfen gerne weiter.
 
 [View on Apple](https://apps.apple.com/gb/app/things-3/id904237743)
 
-<a id="autosleep-苹果手表睡眠监测-睡觉记录及智能闹钟"></a>
-## AutoSleep - 苹果手表睡眠监测，睡觉记录及智能闹钟
-
-![AutoSleep - 苹果手表睡眠监测，睡觉记录及智能闹钟](../../logos/1164801111-8d1eb49f.png)
-
-使用手表来自动追踪您的睡眠*。无需按动任何按钮，无需安装任何手表应用，只要安稳睡觉就好！
-
-关于 AutoSleep
------------------
-使用先进的启发式应用 AutoSleep 来计算您的睡眠时长。
-
-如果您戴上手表睡觉，您什么都不需要做。AutoSleep 会自动监控您的睡眠时长与质量并在您早晨第一次解锁手机后给你发送通知。
-
-即使您不带着手表睡觉, AutoSleep 也可以计算您在床上的时间。这非常简单。
-
-因为人总是各异的，AutoSleep 提供了微调选项，您可以通过简单地滑动滑块来调整自己的睡眠活跃度检测级别并可以很快速地看到睡眠时钟的统计变化。它还允许您自定义睡眠窗口, 是否需要每日通知以及在睡眠时钟上显示更多或更少的信息。 
-
-与 Apple 睡眠阶段应用完全集成，使您可以选择使用 Apple 睡眠应用并在 AutoSleep 中查看所有信息。
-
-AutoSleep 包括睡眠监控所需的所有信息和功能，包括：
-睡眠时间 – 睡眠时长和睡眠银行余额
-睡眠评分 – 对您睡眠的综合评分
-睡眠环 – 用高质量的睡眠填充您的睡眠环，包括心率、深度睡眠和快速动眼
-Apple 睡眠阶段 – 可使用 Apple 睡眠应用中数据的选项
-睡眠呼吸暂停 - 了解您是否患有睡眠呼吸暂停
-睡眠血氧 – 睡眠时的测量值
-呼吸频率 – 记录您每分钟的呼吸
-噪声 – 环境噪声测量值
-睡眠分析 – 查看您的睡眠周期的详细图表和细分情况
-睡眠燃料 – 衡量您的睡眠质量和效率
-今晚就寝时间 – 根据您的习惯推荐您最近的就寝时间
-就绪 – 表示您的身体和精神压力
-温度 – 跟踪您睡眠时的手腕温度
-睡眠一致性 – 了解您的就寝时间习惯
-熄灯 – 跟踪入睡时间
-实时睡眠跟踪 – 查看您夜间的睡眠统计信息
-智能闹钟 – Watch 内置的智能闹钟，帮助您从较浅的睡眠中醒来
-小组件 – 各种各样超棒的 iPhone 小组件
-复杂功能 – 多种 Watch 表盘选项
-HomeKit – 与 Apple HomeKit 完全集成
-表情符号和笔记 – 记录对睡眠时段的评论和标签
-探索 – 深入分析视图
-Siri – 通过 Siri 语音指令使用
-快捷方式 – 创建您自己用于 AutoSleep 的快捷方式
-调整 – 调整您个人睡眠/醒来检测的简单功能
-历史 – 高级图表和趋势
-配置 – 更改主题并设计您的时钟睡眠环
-设置 – 定制您的睡眠目标、设置通知和提醒
-导出 – 导出选项以保存数据
-
-AutoSleep 可以与 HeartWatch 联动，它是我们首推的心跳与活动检测应用。AutoSleep 会将您的睡眠信息记入健康应用中。 
-
-*需要运行 Watch OS 4 或更高版本的 Apple Watch。
-
-- 2018年度最佳
-https://apps.apple.com/story/id1438574124/
-
-- 2019年度最佳
-https://apps.apple.com/story/id1484100916/
-
-- 2020年度最佳
-https://apps.apple.com/story/id1535572713/
-
-- 2021年度最佳
-https://apps.apple.com/story/id1591083005/
-
-- 2022年度最佳
-https://apps.apple.com/story/id1654240446
-
-- 2023年度最佳
-https://apps.apple.com/story/id1719170110
-
-[View on Apple](https://apps.apple.com/gb/app/autosleep-watch-sleep-tracker/id1164801111)
-
 <a id="unora"></a>
 ## Unora
 
@@ -2808,6 +2902,54 @@ Privacy Policy: https://unora.se/privacy
 
 [View on Apple](https://apps.apple.com/gb/app/unora/id6739263703)
 
+<a id="camping-assistant-ausrichten"></a>
+## Camping Assistant: Ausrichten
+
+![Camping Assistant: Ausrichten](../../logos/6760473513-8f4dc091.png)
+
+EINMALKAUF – KEIN ABO – KEINE WERBUNG!
+Entwickelt von Campern, für Camper!
+
+Du kommst nach langer Fahrt am Campingplatz an, die Sonne scheint, aber wie richte ich den Camper schnell aus, um endlich zu entspannen? Mit dem Camping Assistant gehört das mühsame Raten, Diskutieren und das nervige Hin- und Herlaufen der Vergangenheit an. Richte dein Wohnmobil oder deinen Wohnwagen ab heute absolut zentimetergenau, stressfrei und entspannt aus.
+
+Warum Camping Assistant die einzige App ist, die du brauchst:
+Die App ist das ultimative Schweizer Taschenmesser für deinen Urlaub. Wir haben alle wichtigen Funktionen in einer einzigen Anwendung gebündelt, damit du dein Smartphone nicht mit unzähligen Einzel-Apps zumüllen musst.
+
+Die wichtigsten Funktionen im Überblick:
+
+Zentimetergenaue Ausrichtung & Nivellieren: Fahrzeugprofil wählen und für jedes Rad exakt in Echtzeit ablesen, wie weit du kurbeln oder auf deine Auffahrkeile auffahren musst. Die App ersetzt die ungenaue Wasserwaage komplett und macht die Nivellierung zum Kinderspiel.
+
+Smartwatch-Integration (Apple Watch & Wear OS): Das Handy bleibt im Camper! Verbinde deine Smartwatch und erhalte das Live-Feedback direkt am Handgelenk, während du draußen am Stützrad kurbelst. Dank haptischem Feedback spürst du per Vibration genau, wenn das Fahrzeug perfekt im Lot steht.
+
+Zweitgerät-Modus über WLAN: Du möchtest draußen arbeiten, aber die App im Auge behalten? Verbinde ein zweites Tablet oder Handy per lokalem WLAN. Das Live-Display überträgt alle Daten in Echtzeit, damit du während der Ausrichtung die volle Kontrolle behälst.
+
+Stützlast- & Beladungssimulator (speziell für Wohnwagen): Wie viel Gewicht darf in den Gaskasten oder auf die Deichsel? Platziere Gepäck virtuell im Gewichtsrechner und sieh in Echtzeit die Stützlaständerung. Die perfekte digitale Ergänzung zu deiner Wohnwagenwaage oder Caravanwaage – für eine sichere Reise.
+
+Intelligente Sprachausgabe: Konzentriere dich voll aufs Rangieren. Die App sagt dir die Werte akustisch an, wenn du korrigieren musst (z.B. "Vorne links 3 Zentimeter hoch").
+
+100% personalisierbare Abfahrts-Checklisten: Schluss mit dem "Habe ich das Fenster zu?"-Syndrom. Nutze unsere interaktiven Listen für Innen, Außen und die Kupplung. Alle Listen sind komplett nach deinen Wünschen editierbar und beliebig erweiterbar um eigene Punkte und völlig neue Listen!
+
+Ankuppel-Hilfe: Die App merkt sich deine perfekte Deichselhöhe beim Abkuppeln, damit das Ankuppel beim nächsten Mal auf Anhieb klappt.
+
+KI-Routen-Check: Keine Überraschungen bei der Anfahrt! Gib Start und Ziel ein und erhalte sofort Infos zu Maut, Verkehrsregeln und kritischen Durchfahrthöhen für Gespanne.
+
+Sonnen- & Satelliten-Radar: Finde den perfekten Schattenplatz oder richte deine Satellitenschüssel im Handumdrehen aus. Die AR-Anzeige zeigt dir präzise, wo die Sonne steht und wo sich die TV-Satelliten befinden.
+
+Smarte Restaurant-Suche: Hunger nach einem anstrengenden Fahrtag? Finde mit einem Klick die besten Restaurants in der Umgebung, sortiert nach deiner Lieblingsküche.
+
+Deine Vorteile auf dem Stellplatz & Campingplatz:
+
+100% Offline-fähig: Alle Kernfunktionen wie das Ausrichten, der Simulator und die Checklisten funktionieren komplett ohne Internet mitten in der Natur.
+
+Kein Abo, kein Risiko: Einmal fair zahlen, für immer unbegrenzt auf all deinen Geräten (Handy, Tablet und Uhr) nutzen.
+
+
+Lade den Camping Assistant jetzt herunter und mach deinen nächsten Trip zum entspanntesten Urlaub deines Lebens!
+
+Rechtlicher Hinweis: Die berechneten Werte basieren auf mathematischen Modellen. Bitte überprüfe die tatsächliche Stützlast vor jedem Fahrtantritt immer zusätzlich mit einer physischen Waage. Verlasse dich im Straßenverkehr stets auf die offizielle Beschilderung und deinen gesunden Menschenverstand. Der Entwickler haftet nicht für Schäden durch fehlerhafte Messergebnisse oder unsachgemäße Nutzung.
+
+[View on Apple](https://apps.apple.com/gb/app/camping-assistant-level/id6760473513)
+
 <a id="brittest-life-in-the-uk-test-practice-tests"></a>
 ## BritTest: Life in the UK Test practice tests
 
@@ -2830,99 +2972,54 @@ IMPORTANT NOTE: This app does not contain the text of the official study materia
 
 [View on Apple](https://apps.apple.com/gb/app/brittest-life-in-the-uk-test-practice-tests/id835976083)
 
-<a id="spelling-shed"></a>
-## Spelling Shed
+<a id="bristol-playgrounds"></a>
+## Bristol Playgrounds
 
-![Spelling Shed](../../logos/1264568098-b4b8ad44.png)
+![Bristol Playgrounds](../../logos/1459763927-64056a7e.png)
 
-Spelling Shed is the #1 spelling game enjoyed by over 2.5 million children every month! 
- 
-Spelling Shed’s multi-award-winning app is the leading spelling app and has been #1 in several countries. Designed by a team of teachers, our platform enables everyone to succeed with spelling and enjoy the process! 
- 
-Used in thousands of schools across the globe, our games make spelling enjoyable, accessible and achievable. As well as improving spelling, our app significantly impacts reading ability, vocabulary acquisition and writing.  
+Discover, play, and collect!
+Bristol Playgrounds helps you find the best playgrounds in Bristol with an interactive map and curated list. Visit playgrounds to unlock equipment and build your own virtual playground—while rating and saving your favourites along the way.
 
-Created by EdShed, the multi-award-winning EdTech company trusted by over 170,000 educators and enjoyed by millions of children worldwide. 
- 
+[View on Apple](https://apps.apple.com/gb/app/bristol-playgrounds/id1459763927)
 
-Improve Results 
+<a id="gus-on-the-go-french"></a>
+## Gus on the Go: French
 
-‣ Spelling Shed is proven to improve results by up to 80%. 
-‣ Proven to improve pupil engagement. 
-‣ Makes spelling fun, effective and meaningful. 
-‣ Reduces teacher workload. 
+![Gus on the Go: French](../../logos/578992727-09208283.png)
+
+Learning French has never been so much fun! Join Gus, the friendly owl, as he travels around the world and explore languages from every corner of the globe with Gus on the Go! Featuring adorable animations and fun exercises, your child can learn basic vocabulary concepts with interactive visual and auditory lessons on numbers, colors, shapes and more. Each lesson review unlocks an exciting vocabulary game that reinforces what your child has learned. Now, your child can take on a second language through a fun, multi-sensory journey on any iPad, iPhone or iPod Touch.
+
+- Features -
+
+NEW WORDS WITH INTERACTIVE LESSONS 
+- Nearly 90 French words to learn
+- 10 fun and educational activities
+- Native French language audio speaker
+
+HAVE FUN WHILE LEARNING
+- Engaging vocabulary reviews after each lesson
+- Fun animations and delightful animal noises and transportation sounds
+- Easy to navigate country and city maps
+
+EARN ACHIEVEMENTS
+- Exciting games, unlocked by completing lesson reviews
+- Trophy room to track achievements
+
+USEFUL FRENCH VOCABULARY CATEGORIES
+- Animals
+- Food
+- Clothes
+
+and more . . .
+
+Enjoy Gus on the Go: French for Kids from toojuice! At toojuice, we are committed to providing entertainment that merges quality learning experiences and fun. Be sure to enjoy more Gus on the Go in more languages including Cantonese, Croatian, English, German, Hebrew, Hungarian, Italian, Japanese, Korean, Mandarin (Chinese), Polish, Portuguese, Romanian, Russian, Spanish, Taiwanese, Taiwanese Mandarin and Vietnamese!
 
 
-Play a variety of games 
+NOTICE TO PARENTS
 
-‣ Feed Hungry Horses, shoot your shot in Penalty Spell-out, take on a Shed Load  or play the original Spelling Bee game. The choice of how you practice spelling is yours.  
-‣ Avoid the lava and beat Chipper. Squirrel Scurry allows you to play solo or against the computer, choose to reach the top or enjoy endless gameplay. 
-‣ Includes bonus Bee Keeper and Buzz Words games. 
-‣ Boost vocabulary acquisition by playing Missing Words or Definitions games.  
-‣ Choose from 4 different levels: easy, medium, hard and extreme! 
- 
+This app is kid friendly and does NOT contain ads, in-app purchases, links, tracking or sharing functions.
 
-Play Hive Games 
-
-‣ Hive games are multi-player games that allow you to play with your friends or classmates in real-time.  
-‣ Create your own hives or join others.  
-‣ See real-time league statistics between each word spelled.  
-‣ Includes a range of levels and play options. 
- 
-
-Empowering Every Learner 
-
-‣ Inclusive and accessible for all pupils. 
-‣ Includes multi-modal learning options such as audio assistance and being able to read the word before spelling it.  
-‣ Choose from 4 different levels: easy, medium, hard and extreme! 
-‣ Choose the amount of support needed to succeed. 
-‣ Ensures every learner experiences success to further motivate them.  
-‣ Gives instant feedback and rewards.  
-‣ Clear interface reduces cognitive load and makes navigation simple.  
-‣ Proven to be effective for pupils with ADHD, dyslexia and autism.  
- 
-
-Play anytime, anywhere 
-
-‣ Play with classmates from home. 
-‣ Perfect for in-class practice, home learning or intervention. 
-‣ No in-app downloads required. 
-‣ Engaging games that fit around busy schedules. 
- 
-
-100% Curriculum Coverage
-
-‣ Choose from over 1,000,000 word lists.  
-‣ Provides full curriculum coverage for spelling.  
-‣ Subscribers (via website) can use alongside Spelling Shed’s evidence-based spelling scheme.  
-‣ Create your own custom word lists. 
- 
-
-Unique Phonics Spelling System 
-
-‣ Choose to spell using graphemes or letters.  
-‣ Select ‘phonics on’ to spell words using graphemes.  
-‣ Support phonics learning 
-‣ Support home learning of phonics.  
- 
-
-The Science of Spelling  
-
-‣ Use alongside Spelling Shed’s evidence-based spelling scheme for maximum impact. Subscribe via Spelling Shed’s website.  
-‣ Support phonological knowledge. 
-‣ Develop orthographical knowledge. 
-‣ Strengthen morphological knowledge. 
- 
-
-Celebrate Success 
-
-‣ Receive instant feedback. 
-‣ Honeypots are awarded immediately. 
-‣ Honeypots are EdShed’s currency, which can be spent on customising your avatar. 
-‣ Harder levels and bonuses give more points and honeypots.  
-‣ More points gives a higher league position in class league.  
-‣ More points also mean a higher class/group position in school and world leagues!
-
-[View on Apple](https://apps.apple.com/gb/app/spelling-shed/id1264568098)
+[View on Apple](https://apps.apple.com/gb/app/gus-on-the-go-french/id578992727)
 
 <a id="qz-qdomyos-zwift"></a>
 ## QZ - qdomyos-zwift
@@ -3431,63 +3528,100 @@ Complete lesson list:
 
 [View on Apple](https://apps.apple.com/gb/app/theory-lessons/id493157418)
 
-<a id="tonalenergy-stimmgera-t-metro"></a>
-## TonalEnergy Stimmgerät & Metro
+<a id="wikicamps-australia"></a>
+## WikiCamps Australia
 
-![TonalEnergy Stimmgerät & Metro](../../logos/497716362-e72ea50e.png)
+![WikiCamps Australia](../../logos/505365608-5642a832.png)
 
-Für Musiker, ob Profi oder Anfänger, ob Sie singen, ein Blechblas-, Holzblas-, Saiteninstrument oder Gitarre spielen, diese App bietet funktionsreiche Übungs-Tools mit unterhaltsamem & lohnendem Feedback. So viel mehr als nur ein Stimmgerät! 
-Was macht TonalEnergy zur meistverkauften Musik-Übungs-App? 
+The app for knowing where you’re going.
 
-• Alles in einem: hochmodernes Stimmgerät, fortschrittliches Metronom, eigene Orchesterstreicher & Gitarrenstimmseite, Klaviatur, Klanganalyse-Seiten & Audio-/visuelle Aufnahmemöglichkeiten. 
 
-• Einfach anzuwenden: Optionen wie Target Tuner oder Pitch Tracker auf allen Hauptseiten. TonalEnergy hilft Nutzern, lohnende & erreichbare Ziele für Proben oder eigenständiges Üben festzulegen. Bunte Analysen-Datenseiten & Funktionen zur Audio-/Video-Aufnahme erleichtern das Üben zusätzlich. 
+--- Explore over 60,000 sites across Australia --- 
+Whether you're heading away for a weekend camping trip or planning an outback adventure, find the right places for you with WikiCamps!
 
-• Innovatives Metronom. Beispiellose Flexibilität in Klangauswahl, Tempo-Einstellungen, Taktarten, Subdivisionsmustern & visuellen Anzeigen. Dank gesprochenem Einzählen, Erstellen & Bearbeiten von Voreinstellungsgruppen & Ableton Link zur Synchronisierung mehrerer Geräte ein hervorragendes Tool für Live-Musiker. 
+Search with ease using intuitive filters to access detailed information, provided and kept up to date by a community of like-minded WikiCampers.
 
-• Endlose Möglichkeiten zur Schulung des Gehörs. Die hochwertigen, multi-gesampelten Instrumentenklänge für Symphonie-Instrumente sind einzigartig unter allen anderen Stimmgerät-Apps. Das Gehör kann mit einer 8-Oktaven-Klaviatur, einem chromatischen Rad & einem Tonerzeuger geschult werden.
+Get exclusive insights from real travellers, including authentic reviews, fee information to help your budgeting, and photos that show you the real deal—before you travel.  
 
-• Lernen ist eine soziale Aktivität. Mit TonalEnergy Tuners einzigartigen Funktionen lassen sich Daten sammeln, prüfen, bearbeiten & mit anderen teilen. Für Konzertmusiker ist Feedback zur Weiterentwicklung ihrer Fähigkeiten entscheidend. Der Austausch steht im Zentrum. 
 
-Chris Coletti, Mitglied von The Canadian Brass, fasst TonalEnergy so zusammen: 
+--- Plan your journey from here to there or anywhere --- 
+WikiCamps has the ultimate tools to plan your next journey. 
 
-“TonalEnergy ist ein Muss für jeden ernsthaften Musiker. Es bietet eine komplette Tool-Suite in nur einer App: Stimmgerät, Tonerzeuger, Aufnahmegerät, Metronom & die hübsche Oberfläche machen es zu einem der besten Tools für Musiker, die es gibt, Punkt.” 
+Use collections to create a wishlist, mark where you’ve been, or remember places you liked on previous adventures. 
 
-FUNKTIONEN 
+In Trip Planner, you can build an itinerary, plot a route, gauge your fuel spend, and see every place in your adventure mapped out. 
 
-• Erkennt einen großen Tonhöhenbereich, auch in tieferen Stimmlagen als viele andere Stimmgeräte (C0-C8). Spricht bestens auf Blas-, Akustik- & elektrische Saiteninstrumente an 
-• Anpassbarer Normalton A=440 Hz 
-• Autom. oder manuelle Transpositionsoptionen 
-• Wechselt sofort zwischen gleichstufigen, reinen & anderen benutzerdef. Stimmungen 
-• Autom.- oder sofortige Normalton-Funktion mit TonalEnergy-Tönen 
-• Umfassende Stimmliste für alle Orchestersaiten- & Saiteninstrumente mit Bünden, inkl. weit mehr Funktionen als die meisten anderen Stimmgeräte-Apps nur für Saiteninstrumente 
-• Ausklappbare 8-Oktaven-Klaviatur bereichert viele wichtige Stimmfunktionen 
-• Tongenerator am chromatischen Rad, mit optionaler autom. Vibrato-Funktion 
-• Frequenz & Naturton-Grafiken mit multifunktionaler Wellenform 
-• Spezielle Metronomseite, die die Funktionen aller anderen Metronom-Apps erfüllt oder überbietet 
-• Notationsoptionen inkl. den Varianten Standard-Englisch, Solfège, Nordeuropäisch & Indisch 
-• Bluetooth & andere Eingang-/Ausgangs-Unterstützung 
-• Audio- & Video-Aufnahmefunktionen, inkl. Bearbeiten, Looping, Zeitdehnung, alles exportierbar über iTunes gemeinsamen Dateizugriff, AirDrop, E-Mail, AudioCopy, SoundCloud usw. 
-• Musik-Import aus der iTunes-Bibliothek oder E-Mail-Anhängen 
-• Kompatibel mit externen Mikrofon- & Ansteck-Schwingungssensor-Geräten 
-• Unterstützt externe Video-Ausgabe auf externem Display zur Nutzung in Proberäumen 
-• Externe MIDI-Keyboard-Steuerungsunterstützung 
-• Universelle App, unterstützt alle Geräteausrichtungen 
-• Audiobus- & Inter-App-Audio-Unterstützung 
-• VoiceOver-Unterstützung für Blinde & Sehbehinderte 
 
-INSTRUMENTE 
-• Piccoloflöte, Flöte 
-• Oboe, Englischhorn, Fagott 
-• Es-, B/A-Klarinette, Bassklarinette 
-• Sopran-, Alt-, Tenor- & Bariton-Saxophon 
-• Trompete 
-• Waldhorn 
-• Tenor- & Bassposaune 
-• Euphonium & Tuba 
-• Eckige, Sägezahn- & Sinus-Wellenformen 
-• Orgel 
-• Zupfinstrumente
+--- No signal? No worries! Use offline mode --- 
+Thanks to offline mode, you can download everything you need to explore and travel. You’ll always be in the know, wherever you go! 
+
+
+--- New! Book and Save with WikiCamps --- 
+Many of your favourite sites are now bookable through WikiCamps! Plus, check out how you can save money on your adventures with our travel partners. 
+
+
+--- Why not download the ultimate travel companion today? ---
+
+[View on Apple](https://apps.apple.com/gb/app/wikicamps-australia/id505365608)
+
+<a id="tonalenergy-tuner-metronome"></a>
+## TonalEnergy Tuner & Metronome
+
+![TonalEnergy Tuner & Metronome](../../logos/497716362-e72ea50e.png)
+
+For musicians from pros to beginners, whether you sing, play a brass, woodwind or stringed instrument or any type of guitar, this app provides a set of feature-rich practice tools that gives fun and rewarding feedback. It’s much more than just a tuner!
+      
+So what makes the TonalEnergy the best selling music practice app?
+ 
+• It's an all-in-one app, with a state-of-the-art tuner, an advanced metronome, dedicated orchestral strings and guitar tuning page, a piano keyboard, sound analysis pages, and audio/visual recording capabilities.
+
+• It’s easy to use. Options like the Target Tuner or Pitch Tracker are on all the main pages.  TonalEnergy helps users create rewarding and attainable goals during a rehearsal or when working alone. Colorful analysis data pages and audio/video recording features enhance the experience of practice.  
+
+• The metronome is cutting edge. It offers unmatched flexibility in sound choices, tempo settings, meters, subdivision patterns and visual displays. Voice count-ins, the ability to create and edit preset groups and Ableton link for syncing multiple devices make this a superior tool for performers. 
+
+• Ear training possibilities are endless. The high quality multi-sampled instrument sounds for symphonic instruments are unique among all other tuning applications. Listening skills can be developed through the use of the eight-octave keyboard, chromatic wheel and tone generator. There are no other sounds like these. 
+
+• Learning is a social activity. Using features unique to the TonalEnergy Tuner, data can be collected, reviewed, edited and shared with others. Feedback is essential for growing and developing great performers. It’s all about connectivity.
+
+Chris Coletti, member of The Canadian Brass, sums up TonalEnergy by saying,
+
+      “TonalEnergy is a must-have for any serious musician. It's a full suite of tools in one app; the tuner, tone generator, recorder, metronome and beautiful interface make it one of the best tools for musicians out there, period.” 
+
+FEATURES
+
+• Recognizes a large pitch range, extending to lower registers than many competing tuners (C0 - C8) that is highly responsive to wind instruments, as well as acoustic and electric string instruments
+• Adjustable A=440 Hz reference 
+• Automatic or manual transposing options
+• Instantly changes between equal, just and other custom temperaments, including user-defined ones
+• Auto or instant pitch reference note feature using the TonalEnergy sounds
+• Extensive tuning list for all orchestral string and fretted string instruments including many more features than most other string-only tuner apps
+• An expandable eight octave piano keyboard enhancing many of the key aspects of the tuner’s functions
+• Chromatic wheel tone generator, with optional auto-vibrato feature
+• Frequency and Harmonic energy overtone graphs, along with a multi-function waveform
+• Dedicated metronome page that matches or exceeds the features available on all other stand alone metronome apps
+• Notation options including standard English, Solfege, Northern European, and Indian variants
+• Bluetooth output/input support
+• Audio and Video recording capabilities including, editing, looping, timestretch that are all exportable via iTunes sharing, AirDrop, email, AudioCopy, SoundCloud, etc
+• Import music from iTunes Library or email attachments
+• Compatible with external microphones and clip-on vibration sensor devices
+• Supports external video output to an external display for use in rehearsal halls
+• External MIDI keyboard control support 
+• Apple Watch app acts ONLY as a remote control for the phone app
+• Audiobus and inter-app audio support
+• VoiceOver support for the blind or visually impaired 
+
+INSTRUMENT SOUNDS
+• Piccolo, Flute
+• Oboe, English Horn, Bassoon
+• Full Clarinet Family
+• Soprano, Alto, Tenor, and Baritone Saxophone
+• Trumpet
+• French Horn
+• Tenor and Bass Trombone
+• Euphonium and Tuba
+• Square, sawtooth, and sine waveforms
+• Organ
+• Bowed and Plucked Strings
 
 [View on Apple](https://apps.apple.com/gb/app/tonalenergy-tuner-metronome/id497716362)
 
@@ -3540,6 +3674,127 @@ A performance review is presented at the end of each test, showing you where you
 Designed for both iPhone & iPad devices.
 
 [View on Apple](https://apps.apple.com/gb/app/isle-of-man-theory-test-suite/id1470389616)
+
+<a id="better-st-for-bose-soundtouch"></a>
+## Better ST for Bose SoundTouch
+
+![Better ST for Bose SoundTouch](../../logos/6757758923-6131d01b.png)
+
+Hinweis: Die Benutzeroberfläche der App ist jetzt auf Deutsch verfügbar.
+
+Sorgen, dass das Internetradio verschwindet, wenn die Bose-Server oder TuneIn abschalten? Suchst du eine schnelle, zuverlässige und moderne Steuerungs-App für deine SoundTouch-Lautsprecher? Hier ist sie. Better ST sorgt dafür, dass deine Musik weiterläuft.
+
+Key Features:
+
+• Sofort startklar: Keine Konten. Keine Bose-Server. Kein Tracking. Better ST startet sofort, erkennt deine Geräte automatisch im lokalen Netzwerk und respektiert deine Privatsphäre. Einfach öffnen und abspielen.
+
+• Hardware-Preset-Tasten funktionieren weiterhin: Der Better ST-Server hilft dabei, einen Teil der offiziellen Serverfunktionen wiederherzustellen, sodass du deine geliebten physischen Preset-Tasten weiter nutzen kannst. Einmal konfiguriert, laufen deine Lautsprecher völlig unabhängig, ohne auf dein Smartphone angewiesen zu sein.
+
+• Super-Presets (Szenen): Gehe über einfache Radiosender hinaus. Erstelle benutzerdefinierte "Szenen"-Tasten für den Party-Modus – synchronisiere Multi-Room-Gruppen sofort und lege spezifische Lautstärken für jeden Lautsprecher fest (z. B. "Spiele Jazz in Küche & Wohnzimmer auf 20%") mit nur einem Tippen.
+
+• Liquid Glass UI: Schnell, flüssig und exklusiv für iOS 26 entwickelt. Erlebe eine atemberaubende, native Benutzeroberfläche, die sich auf deinem iPhone oder iPad genau richtig anfühlt.
+
+• Sofortiger Zugriff: Siehe auf einen Blick, was gerade läuft, und steuere Play/Pause. Das Beste daran: Starte deine Super-Presets direkt von deinem Home-Bildschirm aus, um deine perfekte Szene zu aktivieren, ohne die App überhaupt öffnen zu müssen.
+
+• Weltweites Radio: Unterstützt von Radio Browser, bietet dir integrierten Zugriff auf eine riesige Bibliothek mit Tausenden von weltweiten Sendern, filterbar nach Land, Genre und Qualität.
+
+• Siri Kurzbefehle & Magic Wake: Soll dein Lautsprecher zusammen mit deinem morgendlichen Wecker starten? Nutze unsere leistungsstarke Kurzbefehle-Integration (Shortcuts), um eine "Magic Wake"-Automation zu erstellen und deinen SoundTouch in deine täglichen iOS-Routinen zu integrieren.
+
+• Volle Fernsteuerung: Meistere deinen Sound mit Präzision. Verwalte Lautstärke, Wiedergabe, Gerätegruppierung (Multi-Room) und passe deinen Ton mit speziellen EQ-Einstellungen an.
+
+• Mixtape-Modus (NAS): Verwandle deine lokalen NAS-Ordner in eine Retro-Musikbibliothek. Stelle deine Lieblingssammlungen zu virtuellen Kassetten zusammen für eine echte lückenlose Wiedergabe (Gapless Playback).
+
+Technische Details & Hardware-Steuerung:
+Zu den unterstützten Hardware-Funktionen gehören:
+
+• Allgemeine Systeme: Lautsprecher umbenennen, Basspegel anpassen, Gruppeneinstellungen für Video Sync ändern und den Auto-Off-Timer bei den meisten SoundTouch-Geräten deaktivieren.
+• SoundTouch 20 / 30 / Portable: Das vordere LED-Uhrendisplay ein- und ausschalten.
+• SoundTouch 300 & Lifestyle 550/600/650: Zugriff auf erweiterte Heimkino-Einstellungen. Passe die Lautstärke des Center-Kanals und der Surround-Lautsprecher individuell an, verwalte HDMI-CEC-Einstellungen, aktiviere HDMI-In, weise die Quellentaste auf deiner Fernbedienung zu und schalte die Lautsprecherauswahl um.
+(Hinweis: Die Verfügbarkeit bestimmter Hardware-Einstellungen hängt von deinem genauen SoundTouch-Modell und der aktuellen Firmware-Version ab.)
+
+Haftungsausschluss: Diese Anwendung wird nur zwischen dem Entwickler und dem Endbenutzer abgeschlossen und nicht mit Bose. Bose unterstützt, genehmigt oder sponsert diese Anwendung in keiner Weise. Bose und SoundTouch sind Marken der Bose Corporation.
+
+Nutzungsbedingungen (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+
+[View on Apple](https://apps.apple.com/gb/app/better-st-for-bose-soundtouch/id6757758923)
+
+<a id="scrivener"></a>
+## Scrivener
+
+![Scrivener](../../logos/972387337-a39bc43b.png)
+
+“The biggest software advance for writers since the word processor.” —Michael Marshall Smith, bestselling author
+
+Typewriter. Ring-binder. Scrapbook. Scrivener combines all the writing tools you need to craft your first draft, from nascent notion to final full stop.
+
+Tailor-made for creating long manuscripts, Scrivener banishes page fright by allowing you to compose your text in any order, in sections as large or small as you like. Got a great idea but don’t know where it fits? Write when inspiration strikes and find its place later. Grow your manuscript organically, idea by idea.
+
+Whether you plan or plunge, Scrivener works your way: meticulously outline every last detail first, or hammer out a complete draft and restructure later. Or do a bit of both. All text sections in Scrivener are fully integrated with its outlining tools, so working with an overview of your manuscript is only ever a tap away, and turning Chapter Four into Chapter One is as simple as drag and drop.
+
+Need to refer to research? In Scrivener, your background material is always at hand. Write a description based on a photograph. Reference a video or PDF. Check for consistency with an earlier chapter. On the iPad, open two documents side-by-side; on the iPhone, flip between research and writing with just two taps.
+
+Once you’re ready to share your work with the world, simply compile everything into a single document for printing, or export to popular formats such as Word, PDF, Final Draft or plain text. You can even share using different formatting, so that you can write in your favorite font and still keep your editor happy.
+
+
+FEATURES
+
+Get Started
+• Interactive tutorial project
+• Keep each manuscript and supporting materials in a self-contained project
+• Import Word, RTF, Final Draft and plain text files
+• Easily split imported text into separate sections
+
+Get Writing
+• Write your manuscript in sections of any size
+• View all sections as a single text using the “Draft Navigator” (iPad only)
+• Quickly navigate sections using the “binder” sidebar
+• Format with fonts and presets
+• Comments, footnotes, links and highlights
+• Simple bullets and lists
+• Insert images
+• Pinch-zoom to resize text
+• Full-screen mode (iPad only)
+• Typewriter scrolling mode keeps typed text center-screen (iPad only)
+• Write a screenplay using scriptwriting mode
+• Live word and character counts
+• Set word and character count targets
+• Find and replace
+• Customizable keyboard row provides quick-access buttons for formatting, navigation and punctuation
+• Comprehensive keyboard shortcuts for external keyboard users
+• Dark mode
+
+Find Your Structure
+• Write in any order and reorganize later
+• Write a synopsis for any text section and see it in the outline
+• Expand, collapse and drill down into sections of your project
+• Rearrange sections as index cards on the corkboard (iPad only)
+• Project-wide search
+• Track ideas using labels and status
+• Apply custom icons to your sections
+
+Refer to Research
+• Import research material such as image, PDF and media files
+• View research files or other sections right alongside your writing (iPad only)
+• Every section has its own notes area for jotting down ideas
+• Supports multitasking split screen mode (supported devices only)
+
+Share Your Work
+• Compile to a single document for sharing or printing
+• Use different formatting in your exported or printed document
+• Export to Word, RTF, Final Draft, PDF or plain text
+• Convert rich text to Markdown for sharing with Markdown apps
+• Create and email zipped backups of your projects
+
+Work Anywhere
+• Use Dropbox to sync between devices and with the macOS and Windows versions of Scrivener*
+• Copy projects between devices via iTunes
+
+* Requires a Dropbox account (not compatible with iCloud).
+
+SUPPORT
+You can contact us at ios.support@literatureandlatte.com, visit our forums at http://www.literatureandlatte.com/forum, or find us @scrivenerapp on Twitter.
+
+[View on Apple](https://apps.apple.com/gb/app/scrivener/id972387337)
 
 <a id="love-manuela"></a>
 ## Love, Manuela
@@ -3595,6 +3850,118 @@ Love, Manuela
 
 [View on Apple](https://apps.apple.com/gb/app/love-manuela/id1505065609)
 
+<a id="the-great-white-app"></a>
+## The Great White App
+
+![The Great White App](../../logos/6461311115-f58dae47.png)
+
+IMPORTANT INFO:
+
+* This app will always be free on the Sustainable Oceans Society website
+
+* By purchasing this app you are supporting The Great White Project - a study of Great White Sharks in New Zealand conducted by non-profit the Sustainable Oceans Society
+
+* New shark locations appear in the app whenever a shark surfaces from the water. Unfortunately we have no control over when or where this happens.
+
+* This is a long-term effort - sharks are tagged on an annual basis and we hope to gradually add more sharks to the app over time. Your ongoing support through sharing this with friends and family, leaving positive reviews and purchasing this app are all ways to help us both continue our mission and also add more sharks to the app (therefore more locations).
+
+The Great White App is a shark tracking app that lets you explore sharks tagged by the Sustainable Oceans Society. Explore the live map and learn about different sharks and their stories, see photos and view their migration over time.
+
+
+FAQs:
+
+Q: Why hasn't a shark moved in x days, weeks or months?
+
+A: Locations only occur when a shark's dorsal fin, and thus the satellite tag, break the surface of the ocean and link to satellites in orbit. It isn't uncommon for the sharks to spend weeks underwater before coming to surface again
+
+Q: How accurate are locations?
+
+The longer the tag is above the water, the more accurate a location fix from satellites. Highly accurate locations are to within less than 250m while some very brief satellite fixes make locations only accurate to several kilometres which is why, at times, some shark locations may appear to be 'on the land' but it is due to lower accuracy locations, near the coast.
+
+Q: What does purchasing this app do?
+
+A: The app will always be free to access on our website sustainableoceansociety.co.nz . Purchasing the app funds future tagging of the sharks, continued conservation efforts and development of the app.
+
+The Sustainable Oceans Society is on a mission to study how the way we live affects the oceans and its inhabitants.
+
+We're a non-profit organisation focussed on marine conservation and ocean sustainability. Our aim is to operate our own research projects and campaigns as well as support sustainable research, ideas and initiatives.
+
+Through the sponsorship of shark tags and by purchasing this app you are helping our mission to improve the health of New Zealand's natural seafood resources, reduce the amount of rubbish and pollutants in the ocean and you are supporting research and educational initiatives aimed towards improving our knowledge of New Zealand's marine resources.
+
+[View on Apple](https://apps.apple.com/gb/app/the-great-white-app/id6461311115)
+
+<a id="network-analyzer-pro"></a>
+## Network Analyzer Pro
+
+![Network Analyzer Pro](../../logos/557405467-7f6d3561.png)
+
+An advanced tool for network diagnostics, LAN scanning, and problem detection.
+
+Network Analyzer can help you diagnose various problems in your wifi network setup, Internet connectivity, and also detect various issues on remote servers thanks to the wide range of tools it provides.
+
+It is equipped with a fast wifi device discovery tool, including all the LAN device's addresses and names, together with the Bonjour/DLNA services they provide. Further, Network Analyzer contains standard diagnostic tools such as ping, traceroute, port scanner, DNS lookup, whois, and Internet speed tester. Finally, it displays various useful information related to your wifi/cell connection.
+
+WIFI LAN SCANNER 
+• Detection of all connected network devices (wifi & VPN) 
+• IP addresses of all discovered devices 
+• NetBIOS, mDNS (Bonjour​), LLMNR, and DNS name where available 
+• Pingability test of discovered devices
+• IPv6 availability and discovered IPv6 addresses
+• Wake on LAN (WOL) including remote WOL 
+• Scan of custom IP ranges 
+• Filtering and search in the discovered device list
+
+PING & TRACEROUTE 
+• Round trip delay including IP address and hostname for every network node 
+• Geolocation data including latitude, longitude, country, city, and time zone 
+• AS number and network name information 
+• Complete trace route visualization on the map 
+• Graphical ping statistics updated in real time
+• Configurable ICMP/UDP probes for traceroute
+• Configurable ping payload size
+• Both IPv4 and IPv6 - selectable
+
+PORT SCANNER
+• Scanning the most common ports or user-specified port ranges 
+• Detection of closed, firewalled, and open ports 
+• Description of the known open port services 
+• Scan of complete port range or user-editable common ports
+• Both IPv4 and IPv6 - selectable
+
+WHOIS 
+• Whois of domains, IP addresses and AS numbers 
+
+DNS LOOKUP
+• Functionality similar to nslookup or dig 
+• Support of A, AAAA, CAA, CNAME, HINFO, MX, NS, PTR, SOA, SPF, SRV, SSHFP, TXT records
+• Decoding and showing DNSSEC records such as DNSKEY, CDNSKEY, RRSIG, NSEC3PARAM, NSEC, NSEC3, DS, CDS, TLSA 
+
+INTERNET SPEED 
+• Test of both download and upload speeds
+• Graphical speed test view
+• Speed test history 
+
+NETWORK INFORMATION
+• Default gateway, external IP (v4 and v6), DNS server, HTTP proxy 
+• Wifi network information such as SSID, BSSID, IP address, and subnet mask 
+• Cell network information such as network type
+• Monitor of wifi, cell and VPN data usage (both sent and received data since the last boot) 
+
+LOCAL SERVICE DISCOVERY
+• Bonjour service browser
+• UPnP/DLNA service and device browser
+
+MORE
+• Full IPv6 support everywhere
+• History of all performed tasks with the possibility to star the favorite ones 
+• Export by email, AirPrint, and AirDrop for most tools
+• Light/dark theme
+• Copy/paste support 
+• Detailed help
+• Regular updates
+
+[View on Apple](https://apps.apple.com/gb/app/network-analyzer-pro/id557405467)
+
 <a id="abrsm-music-theory-trainer"></a>
 ## ABRSM Music Theory Trainer
 
@@ -3617,6 +3984,64 @@ Strong foundations in musical knowledge and understanding are essential for deve
 Hey, phone users! Music notation is complex and phone screens are small. This app is best viewed on an iPad, but there is still a lot you can learn and enjoy if you’re using the app on a smaller phone. Make sure you check out the preview screenshots in the App Store to see how the app will look on your device.
 
 [View on Apple](https://apps.apple.com/gb/app/abrsm-music-theory-trainer/id1415709055)
+
+<a id="radio-stations-uk-live-fm"></a>
+## Radio Stations UK - Live FM
+
+![Radio Stations UK - Live FM](../../logos/1052718459-911f3542.png)
+
+*** LIVE RADIO BROADCAST ***
+*** 800 UK RADIO STATIONS IN 1 APP ***
+
+Listen to the best radio stations in the UK in our application. You can choose from sports, news, music and other radio stations.
+
+Heart, magic, classic fm,capital London, kiss FM, planet rock , LBC , jazz fm, Smooth Radio London, kisstory, talksport, absolute 80s, House Nation UK, Ministry of Sound Radio, 100 Chill, Gold London etc.
+
+Now you can listen to the best radio stations in your country when you are abroad.
+
+With Radio UK you can:
+- Listen to the best radio stations in the UK;
+- Share with others via Facebook, Twitter, SMS or Email;
+- Listen radios in the background or via bluetooth.
+
+There may be some stations that do not work because their stream is offline.This application is optimized for 3G networks and Wi-Fi.
+
+Radio UK gives you the best experience when listening to radio stations in the UK.
+
+[View on Apple](https://apps.apple.com/gb/app/radio-stations-uk-live-fm/id1052718459)
+
+<a id="seconds-pro-interval-timer"></a>
+## Seconds Pro Interval Timer
+
+![Seconds Pro Interval Timer](../../logos/363978811-eda8155b.png)
+
+Seconds Pro Interval Timer is the best interval timer for Tabata, HIIT & Circuit Training workouts. As well as being featured by Apple, it is recommended by celebrity and personal trainers to their clients all around the globe.
+ 
+
+INTERVAL TIMER:
+
+- Full screen, colored display. Easy to read from a distance. Landscape or portrait.
+- Templates for HIIT, Tabata & Circuit Training. Combine timers for ultimate control.
+- Speaks your interval names & can provide warning for upcoming intervals.
+- Other alerts including beeps and bells are available.
+- Assign music per interval or per interval timer.
+- Match the intensity of your music to the intensity of your HIIT workoutk.
+- Interval timer runs in the background while you use other apps.
+- Share your interval timer with a friend.
+
+ADDITIONAL TIMERS:
+
+- Stopwatch highlights best and worst lap times.
+- Countdown Timer with 5 preset durations (only first 3 on Apple Watch).
+
+APPLE HEALTH:
+
+- Seconds Pro Interval Timer can use Apple Health to save workouts or mindful sessions, read body measurements and year of birth to calculate calorie expenditure in conjunction with a heart rate monitor.
+
+VARIANTS:
+- Please note, Seconds Interval Timer and Seconds Pro Interval Timer are separate products. Once paid for they each contain identical features. However, they are not interchangeable. If you have purchased one you should always download that version and in the case of Seconds Interval Timer, restore the in-app purchase within it gain access to the upgraded features.
+
+[View on Apple](https://apps.apple.com/gb/app/seconds-pro-interval-timer/id363978811)
 
 <a id="cozmo-robot"></a>
 ## Cozmo Robot
@@ -3670,6 +4095,83 @@ Use YoungPhoto to capture your everyday life with more feeling, style, and inten
 - Photo and video filter editing
 
 [View on Apple](https://apps.apple.com/gb/app/youngphoto-aesthetic-camera/id6763737180)
+
+<a id="promptsmart-pro-teleprompter"></a>
+## PromptSmart Pro - Teleprompter
+
+![PromptSmart Pro - Teleprompter](../../logos/894811756-ca06ce47.png)
+
+PromptSmart is the only “smart” teleprompter app. Our patented VoiceTrack™ speech recognition technology is revolutionary because it provides a robust solution to automatically follow a speaker's voice in real time. 
+
+Make your video productions less stressful and more efficient. VoiceTrack™ is a powerful and smart prompting tool that will automatically start and stop at the speaker's natural pace, allowing you to focus on other production values rather than film take after take trying to match a pre-set scroll speed to the speaker's cadence. Save time, energy, and keep your talent focused with PromptSmart.
+
+Other teleprompter apps fall short--relying on clunky hardware or pre-set scrolling speeds. We asked tens of thousands of users what they liked most about our prompter app, and over 90% of respondents said "VoiceTrack," calling it "awesome," "astonishing," "tremendous," “easy to use,” a “game changer”—“absolutely brilliant!!!” Our customers tell our story best and PromptSmart products are the highest rated and most frequently rated teleprompter apps in the App Store.
+
+PromptSmart is also an invaluable tool for anyone that engages in regular public speaking, like clergy, educators, politicians, podcasters, audiobook creators, or business leaders. Our prompter apps are useful as a practice tool or to help keep you on-message at live speaking engagements.
+
+If you’re on a budget or trying to film videos by yourself, there is no better companion than the PromptSmart teleprompter app because VoiceTrack starts and stops at your natural pace.
+
+PromptSmart Pro includes an introductory month trial of an optional, paid Extended subscription service, which unlocks added features, including: a Remote Control, File Sync, and Scroll Assist! (See below)
+
+PromptSmart Pro features:
+
+[+] VoiceTrack—Speech-recognition based scrolling. If you go off-script, VoiceTrack knows and will hold your place, waiting for you to return.
+
+[+] Invert text to reflect off two-way teleprompter glass
+
+[+] Narrow the side margins to avoid eye tracking
+
+[+] Selfie Mode: fix text next to the camera and record HD video simultaneously 
+
+[+] In-app camera controls: tap-to-focus, auto-exposure lock, and auto-focus lock
+
+[+] Import these file-types into PromptSmart: 
+
+-DOCX 
+-PDF (must be OCR-scanned first)
+-RTF
+-TXT
+-GDOC (Google Documents)
+ 
+[+] Import and export scripts to and from the cloud: Google Drive, One Drive, Box, Dropbox, or iCloud
+
+[+] Bulk delete scripts
+
+[+] Annual or monthly term of Extended Subscription (in-app purchase)
+
+[+] Buy PromptSmart Remote Control (in-app-purchase) without subscribing
+
+[+] An optional mic meter in Presentation Mode
+
+[+] Volume buttons play/pause presentations (Selfie Stick friendly!)
+
+[+] And many more!
+
+IMPORTANT! Review carefully before purchase: 
+
+-VoiceTrack language supported: English only
+
+-Minimum system reqs: iPad Air (and up); iPhone 5S (and up); iOS 11 (OS below 11 not supported)
+
+-Maximum recommended script word count: up to 5,000
+
+-Recommended max of continuous VoiceTrack use: ~30 minutes (not a strict cap)
+
+-Recommended max Notecards: 200
+
+-External wired microphone recommended with VoiceTrack (but not required)
+
+Your satisfaction is important to us. Contact us anytime: team@promptsmart.com
+
+Important Disclosure:
+
+PromptSmart Pro includes an optional PromptSmart Extended subscription. Depending on your chosen subscription period (monthly or annual), either a $1.99 purchase or a $19.99 purchase will be applied to your iTunes account at the end of your introductory trial.
+
+Subscriptions will automatically renew unless cancelled at least within 24-hours before the end of the current period. You can cancel anytime within your iTunes account settings. Any unused portion of a free trial will be forfeited if you purchase a subscription.
+
+For more info, see our Help Center, Privacy Policy, and Terms of Service: https://promptsmart.com/help
+
+[View on Apple](https://apps.apple.com/gb/app/promptsmart-pro-teleprompter/id894811756)
 
 <a id="autosnore-鼾声记录器"></a>
 ## AutoSnore: 鼾声记录器
@@ -3775,54 +4277,6 @@ The next time you look at a street, a square, a river or a landmark, you'll know
 Download LocoPast and uncover the hidden history of the world around you.
 
 [View on Apple](https://apps.apple.com/gb/app/locopast-the-history-map/id6782311773)
-
-<a id="camping-assistant-ausrichten"></a>
-## Camping Assistant: Ausrichten
-
-![Camping Assistant: Ausrichten](../../logos/6760473513-8f4dc091.png)
-
-EINMALKAUF – KEIN ABO – KEINE WERBUNG!
-Entwickelt von Campern, für Camper!
-
-Du kommst nach langer Fahrt am Campingplatz an, die Sonne scheint, aber wie richte ich den Camper schnell aus, um endlich zu entspannen? Mit dem Camping Assistant gehört das mühsame Raten, Diskutieren und das nervige Hin- und Herlaufen der Vergangenheit an. Richte dein Wohnmobil oder deinen Wohnwagen ab heute absolut zentimetergenau, stressfrei und entspannt aus.
-
-Warum Camping Assistant die einzige App ist, die du brauchst:
-Die App ist das ultimative Schweizer Taschenmesser für deinen Urlaub. Wir haben alle wichtigen Funktionen in einer einzigen Anwendung gebündelt, damit du dein Smartphone nicht mit unzähligen Einzel-Apps zumüllen musst.
-
-Die wichtigsten Funktionen im Überblick:
-
-Zentimetergenaue Ausrichtung & Nivellieren: Fahrzeugprofil wählen und für jedes Rad exakt in Echtzeit ablesen, wie weit du kurbeln oder auf deine Auffahrkeile auffahren musst. Die App ersetzt die ungenaue Wasserwaage komplett und macht die Nivellierung zum Kinderspiel.
-
-Smartwatch-Integration (Apple Watch & Wear OS): Das Handy bleibt im Camper! Verbinde deine Smartwatch und erhalte das Live-Feedback direkt am Handgelenk, während du draußen am Stützrad kurbelst. Dank haptischem Feedback spürst du per Vibration genau, wenn das Fahrzeug perfekt im Lot steht.
-
-Zweitgerät-Modus über WLAN: Du möchtest draußen arbeiten, aber die App im Auge behalten? Verbinde ein zweites Tablet oder Handy per lokalem WLAN. Das Live-Display überträgt alle Daten in Echtzeit, damit du während der Ausrichtung die volle Kontrolle behälst.
-
-Stützlast- & Beladungssimulator (speziell für Wohnwagen): Wie viel Gewicht darf in den Gaskasten oder auf die Deichsel? Platziere Gepäck virtuell im Gewichtsrechner und sieh in Echtzeit die Stützlaständerung. Die perfekte digitale Ergänzung zu deiner Wohnwagenwaage oder Caravanwaage – für eine sichere Reise.
-
-Intelligente Sprachausgabe: Konzentriere dich voll aufs Rangieren. Die App sagt dir die Werte akustisch an, wenn du korrigieren musst (z.B. "Vorne links 3 Zentimeter hoch").
-
-100% personalisierbare Abfahrts-Checklisten: Schluss mit dem "Habe ich das Fenster zu?"-Syndrom. Nutze unsere interaktiven Listen für Innen, Außen und die Kupplung. Alle Listen sind komplett nach deinen Wünschen editierbar und beliebig erweiterbar um eigene Punkte und völlig neue Listen!
-
-Ankuppel-Hilfe: Die App merkt sich deine perfekte Deichselhöhe beim Abkuppeln, damit das Ankuppel beim nächsten Mal auf Anhieb klappt.
-
-KI-Routen-Check: Keine Überraschungen bei der Anfahrt! Gib Start und Ziel ein und erhalte sofort Infos zu Maut, Verkehrsregeln und kritischen Durchfahrthöhen für Gespanne.
-
-Sonnen- & Satelliten-Radar: Finde den perfekten Schattenplatz oder richte deine Satellitenschüssel im Handumdrehen aus. Die AR-Anzeige zeigt dir präzise, wo die Sonne steht und wo sich die TV-Satelliten befinden.
-
-Smarte Restaurant-Suche: Hunger nach einem anstrengenden Fahrtag? Finde mit einem Klick die besten Restaurants in der Umgebung, sortiert nach deiner Lieblingsküche.
-
-Deine Vorteile auf dem Stellplatz & Campingplatz:
-
-100% Offline-fähig: Alle Kernfunktionen wie das Ausrichten, der Simulator und die Checklisten funktionieren komplett ohne Internet mitten in der Natur.
-
-Kein Abo, kein Risiko: Einmal fair zahlen, für immer unbegrenzt auf all deinen Geräten (Handy, Tablet und Uhr) nutzen.
-
-
-Lade den Camping Assistant jetzt herunter und mach deinen nächsten Trip zum entspanntesten Urlaub deines Lebens!
-
-Rechtlicher Hinweis: Die berechneten Werte basieren auf mathematischen Modellen. Bitte überprüfe die tatsächliche Stützlast vor jedem Fahrtantritt immer zusätzlich mit einer physischen Waage. Verlasse dich im Straßenverkehr stets auf die offizielle Beschilderung und deinen gesunden Menschenverstand. Der Entwickler haftet nicht für Schäden durch fehlerhafte Messergebnisse oder unsachgemäße Nutzung.
-
-[View on Apple](https://apps.apple.com/gb/app/camping-assistant-level/id6760473513)
 
 <a id="forscan-lite-for-ford-mazda"></a>
 ## FORScan Lite - for Ford, Mazda
@@ -3952,6 +4406,64 @@ Die aktuellsten Informationen gibt es im ProCamera Newsletter und unter procamer
 
 [View on Apple](https://apps.apple.com/gb/app/procamera-raw-manual-camera/id694647259)
 
+<a id="jersey-theory-test-suite"></a>
+## Jersey Theory Test Suite
+
+![Jersey Theory Test Suite](../../logos/1463574418-f8e3d65f.png)
+
+The Official Jersey Theory Test Suite helps you to fully prepare for taking your Theory Test on Jersey.
+
+
+Features combined Theory Test & Hazard Perception practice.
+
+
+
+All Vehicle Categories are included:
+
+
+Motor Car & Other Vehicle (CAR)
+Motor Bicycle & Moped (BIKE)
+Approved Driving Instructor (ADI)
+Motor Bicycle Approved Instructor (CBT)
+Large Goods Vehicle (LGV)
+Passenger Carrying Vehicle (PSV)
+
+
+Simply choose your appropriate Vehicle Category from the settings screen and get learning!
+
+
+
+Contains questions and topics which cover the entire knowledge requirements needed to practise for your live Jersey Theory Test.
+
+
+
+The Jersey & UK Highway Code forms the basis of the questions within the app. There are also questions which relate to the French Highway Code.
+
+
+
+You can revise individual topics using the handy Topic Training feature, or practise an unlimited number of Mock Tests.
+
+
+
+The Mock Test feature chooses a random set of questions from all available topics, and is designed to test your overall knowledge and performance. The test is presented in a similar way to that which you will experience when you take your real test, using the same conditions and pass requirements.
+
+
+The Hazard Perception feature explains how the Hazard Perception element of the live Jersey Theory Test Hazard Perception element is scored and allows you to practise several sample Hazard Perception clips. Full explanations and performance evaluation of each hazard is given at the end of each clip, designed to assist you with your preparations for the Jersey Hazard Perception element of the live test.
+
+
+
+Hints and advice are given throughout the app to assist your understanding of all questions and Hazard Perception clips presented.
+
+
+
+A performance review is presented at the end of each test, showing you where you are performing well, as well as highlighting any areas where you need to improve.
+
+
+
+Designed for both iPhone & iPad devices.
+
+[View on Apple](https://apps.apple.com/gb/app/jersey-theory-test-suite/id1463574418)
+
 <a id="cs-card-test-revision-2026"></a>
 ## CS Card Test Revision 2026
 
@@ -4004,381 +4516,3 @@ Tailored for comprehensive coverage across all facets of the exam path toward ea
 Elevate your exam readiness today – download the app and set your course toward excellence!
 
 [View on Apple](https://apps.apple.com/gb/app/cs-card-test-revision-2026/id6444266283)
-
-<a id="voice-recorder-ton-aufnehmen"></a>
-## Voice Recorder : Ton aufnehmen
-
-![Voice Recorder : Ton aufnehmen](../../logos/936694037-32989dbe.png)
-
-Voice Recorder ist ein einfach zu bedienen und praktische Anwendung der Sitzung, Vortrag, Musik und vieles mehr aufzeichnen. Die Schnittstelle ist so konzipiert, es schnell zu machen. Mit einzigen Antippen können Sie aufnehmen und die Aufnahmen teilen.
-
-Live-Sound mit seinem wahren Gefühle. Genießen Sie die Aufnahme, Wiedergabe und Audio-Editing mit Voice Recorder. Wir haben abgestimmt es gut für den Tag-zu-Tag-Aktivitäten. Der Besuch etwas Wichtiges und wollen es aufnehmen
-für die spätere Wiedergabe, wird Voice Recorder können Sie Ihre Meetings, Vorträge aufzuzeichnen und andere Veranstaltungen mit Codec-Rauschunterdrückung. Sie können alles innerhalb von 10 bis 100 Metern um die Sie aufnehmen.
-
-Bearbeiten Sie die Aufnahme nach Ihren Bedarf und speichern Sie sie für eine spätere Wiedergabe. Voice Recorder verfügt über mehrere Optionen der Wiedergabe helfen Sie entscheiden, wie Sie die Aufnahme hören wollen. Entwickelt speziell für Apple, es spielt ebenso hervorragend mit Apple EarPods wie es mit unseren alten Kopfhörer spielt.
-
-Sie können die automatische Upload und sogar die Aufnahme auf Wolke (Dropbox) in Sekunden teilen.
-
-Genießen Sie Sound, aufnehmen, bearbeiten, spielen und hören!
-
-Liste der Funktionen
-
-# Audio Recorder
-- Qualitätsoptionen: (Low: 8 kHz, Mittel: 22,05 kHz, Hoch: 44,1 KHz)
-- Format Optionen: (WAV, CAF, M4A)
-- Externe Eingabegerät Unterstützung: Bluetooth Mic, Andere externe Mic (Getestet mit Tascam mic)
-- Hintergrund Aufnahmeunterstützung
-
-(Neu)
-- Fahren Sie weiter in bestehende Aufnahmen der Aufnahme.
-- Anrufunterbrechung Handhabung - Die Aufnahme wird weiterhin nach einem Anruf oder eine andere Unterbrechung.
-
-# Audio-Abspielgerät; Audio-Player; Musikabspielgerät
-- Schnell-Audio-Player
-- Steuerelemente für die Wiedergabe (Schnellrücklauf, Schnellrücklauf)
-- Externe Ausgabegerät Unterstützung (Bluetooth und externen Lautsprecher-Geräte)
-- Hintergrund Audio-Wiedergabe
-
-# Audio Trimmen
-Wählen Sie einen Teil der Aufnahme und schneiden Sie es -.
-
-# Freigabe
-- E-Mail-Aufnahmen
-- Dropbox-Sharing (Auto-Upload-Aufnahme-Unterstützung)
-Laden Sie icloud-Laufwerk -
-- Import-Aufnahmen auf den Computer mit iTunes File-Sharing
-- Fallschirmabwurf Austausch mit iOS und Mac-Geräten.
-
-# Universal-App
-- Unterstützung für beide iPhone und iPad-Geräte.
-
-# In 11 verschiedenen SPRACHE
-Englisch, Spanisch, Französisch, Deutsch, Português (Br.), Português, Italiano, 中文 (vereinfacht), Русский, 日本語, 한국어
-
-[View on Apple](https://apps.apple.com/gb/app/voice-recorder-audio-record/id936694037)
-
-<a id="moment-pro-camera-ii"></a>
-## Moment Pro Camera II
-
-![Moment Pro Camera II](../../logos/6748837351-fa363aa5.png)
-
-Your Camera, Your Looks, Your Way.
-
-Moment Pro Camera II turns your phone into your favorite camera for photography and filmmaking. Shoot like a pro with full manual controls, creative looks, and an upgraded interface – all in one intuitive app.
-
-What’s New in Pro Camera II?
-
-Our first pro camera app has been the #1 rated camera app for years. Now, it’s time for the next chapter. We’ve re-engineered Pro Camera II from the ground up to give you better performance, advanced controls, and new customizable interfaces and shooting modes.
-
-Key Features:
-
-• Pro-Level Exposure Control – Our smart exposure system allows you to take control with Shutter Priority, ISO Priority, Manual, and Auto exposure modes, including the ability to limit Auto ISO to a specific range.
-• Upgraded White Balance – Beyond auto white balance, you can manually configure temperature and tint, choose a preset, or calibrate via a gray card.
-• Advanced Photo Options – Control the level of processing and HDR applied to your photos. Shoot in RAW, ProRAW, TIFF, HEIF, or JPG.
-• Cinematic Video Tools – Apple Log, Open Gate, ProRes, 10-bit recording, and more. Adjust the resolution, color space, frame rate, codec, bitrate, and chroma subsampling for total creative freedom.
-• Precision Monitoring – Get pro-level feedback with Waveform, RGB Histograms, and audio meters — normally reserved for cinema cameras.
-• Aspect Ratio – Frame your shot within your favorite aspect ratio (4:3, 16:9, 3:2, 5:4, 1:1)
-• Designed for All Creators – A beautiful, intuitive interface that adapts to how you shoot. Swipe, tap, and adjust anything immediately with one hand (including a dedicated left-handed layout), or go distraction-free with Zen Mode. Works natively in landscape orientation.
-• Looks, Your Way – Apply creative Looks or import your own LUTs to video and photos. Preview them live, bake them into your footage, or adjust intensity on the fly.
-• Focus Tools That Just Work – Separate reticles for exposure and focus with a tap, or dial in the shot with Manual Focus and Focus Peaking.
-• Quick Actions, Faster Shooting – One swipe to reach your most used tools: flash, stabilization, zebras, focus peaking, grids, and more.
-• Intuitive Lens Control – Remove the guesswork of which lens you are using and eliminate surprises with our Optic Controls. Say goodbye to shaky zoom with our fluid zoom control.
-• Hardware-Ready – Optimized for every iPhone, with seamless integration for external mics and Moment’s entire lens + case ecosystem.
-
-Upcoming Feature Releases
-• Look Store: purchase creator color grades and film emulations
-• Slow Shutter and Timelapse modes
-• Advanced Profile sharing and collaboration tools
-• Extended hardware integration partnerships
-
-We love hearing from our community. For feature requests, ideas, or support, email us at hello@shopmoment.com or message us @momentprocamera on social media.
-
-Fully Compatible with iPhone and Moment's complete ecosystem of lenses, cases, and accessories.
-
-[View on Apple](https://apps.apple.com/gb/app/moment-pro-camera-ii/id6748837351)
-
-<a id="watch-to-5k-couch-to-5km-plan"></a>
-## Watch to 5K: Couch to 5km plan
-
-![Watch to 5K: Couch to 5km plan](../../logos/1517914828-e62b8445.png)
-
-Watch to 5K helps you build up to running 5K in just 9 weeks. It’s designed for absolute beginners and runs entirely on your Apple Watch, so you can leave your phone at home.
-The plan includes three runs per week with a rest day between, and a new schedule each week. By the end of the program, you’ll be able to run continuously for 30 minutes.
-
-BUILT FOR THE APPLE WATCH
-• Runs independently without the need for your iPhone.
-• Watch face complications are included allowing you to monitor your progress and quickly launch the app.
-
-PHONE COMPANION APP
-• An iPhone companion app is included to allow you to track your progress.
-• View a breakdown of your previous runs, including health data and run route.
-• Achievements are awarded as you progress through the plan to celebrate milestones such as running continuously for 5 minutes or running for a certain distance.
-
-APPLE HEALTH INTEGRATION
-• Sessions are stored in Apple Health and count towards your activity goals.
-• Watch to 5K tracks your route, distance, calories, average speed and heart rate so you can easily track your progress.
-• Supports outdoors or indoor runs.
-
-LISTEN TO YOUR MUSIC WHILE YOU RUN
-• Works alongside your preferred music player or podcast watch app, automatically ‘dipping’ the volumes so you can hear the instructions and updates on your progress.
-• Signals the halfway point, so you know when to head home!
-• Easy to follow countdown timer that uses sounds and haptics, so you know how long you’ve got left of each run.
-
-GO AT YOUR OWN PACE 
-• Ability to repeat runs, allowing you to go at a pace that suits you.
-• Start the plan from any week. Perfect if you are coming to Watch to 5K from a different plan/app.
-• After completing the 5K plan, challenge yourself with the available 10K expansion plan.
-
-NO SUBSCRIPTION REQUIRED
-• Watch to 5K is a one time purchase with no ongoing subscriptions.
-
-FEATURED ON
-* TechRadar - Top Apple Watch app of 2024 *
-* MacRumors - Apps to Check Out *
-* Stuff.tv -  40 best Apple Watch apps *
-* Coach - The Best Apple Watch Fitness apps * 
-* Wareable - The Best Apple Watch running apps * 
-
-Watch to 5K integrates with Apple Health using HealthKit to store your run activity.
-
-If you have any questions, comments or ideas, you can get in touch at support@watchto5k.com
-
-[View on Apple](https://apps.apple.com/gb/app/watch-to-5k-couch-to-5km-plan/id1517914828)
-
-<a id="bristol-playgrounds"></a>
-## Bristol Playgrounds
-
-![Bristol Playgrounds](../../logos/1459763927-64056a7e.png)
-
-Discover, play, and collect!
-Bristol Playgrounds helps you find the best playgrounds in Bristol with an interactive map and curated list. Visit playgrounds to unlock equipment and build your own virtual playground—while rating and saving your favourites along the way.
-
-[View on Apple](https://apps.apple.com/gb/app/bristol-playgrounds/id1459763927)
-
-<a id="knoten-3d-knots-3d"></a>
-## Knoten 3D  (Knots 3D)
-
-![Knoten 3D  (Knots 3D)](../../logos/453571750-4c04091d.png)
-
-Binden, lösen und rotiere 220+ Knoten mit Deinem Finger in 3D!
-
-Knoten 3D, unsere erstklassige 3D-Knoten-App wird Dir eine komplett neue Perspektive über Knoten geben! Nimm Dir ein Stück Seil und habe Spaß!
-
-Produktmerkmale und Funktionen
-- Lerne, 225 einzigartige Knoten zu binden
-- Lokalisierte für: Niederländisch, Französisch, Deutsch, Italienisch, Koreanisch, Spanisch, Russisch, Dänisch, Chinesisch, Portugiesisch, Japanisch, Schwedisch, Türkisch, Hebräisch, Norwegisch, Polnisch und Englisch!
-- Durchsuche die Knoten nach Kategorie, Art, Favoriten oder sehe Dir die gesamte Bibliothek an
-- Sehe zu, wie sich Knoten selbst binden und mache eine Pause oder passe die Geschwindigkeit der Animation jederzeit an
-- Rotiere die Knoten um 360 Grad, 3D-Ansichten helfen dabei, sie von einem anderen Winkel zu untersuchen
-- Zoome einen Knoten heran, um ihn größer zu sehen
-- Interagiere mit dem Knoten auf dem Bildschirm durch Multi-Touch-Gesten
-
-Die Knoten werden unter ihren gebräuchlichen Synonymen oder lokalisierten Entsprechungen aufgelistet. Die Knotennamen sind in Niederländisch, Französisch, Deutsch, Italienisch, Koreanisch und Russisch aufgeführt.
-
-Schmetterlingsknoten
-Blutknoten
-Palstek
-Webeleinenstek
-Doppelter Schotstek
-Flämischer Achtknoten
-Affenfaust
-Halbmastwurf
-Anglerschlaufe
-Trompetenknoten
-Zeppelinstek
-...
-
-Die gesamte Knotenliste:
-
-https://knots3d.com/de/komplette-knotenliste
-
-[View on Apple](https://apps.apple.com/gb/app/knots-3d/id453571750)
-
-<a id="alice-box"></a>
-## Alice Box
-
-![Alice Box](../../logos/1622546772-d75179a2.png)
-
-After years of activities in the domain of Trans Communication research, and in all the different types of mediumship development, our relationship has strengthened with our spirit partners, and we have learned how to connect with them and how to communicate with them.
-
-Instrumental Trans Communication (ITC) and Electronic Voice Phenomena (EVP) are considered aspects of physical mediumship, as the spirit's actions also affect the objects, specifically the equipment.
-
-Alice Box is the moble app version of Alice, the Instrumental Trans Communication (ITC) software. Using wide ranging programmer skill sets in the areas of natural language programming (NLP) and artificial intelligence (AI), this is an ideal device to add to any paranormal group's armoury for site investigative work.
-
-[View on Apple](https://apps.apple.com/gb/app/alice-box/id1622546772)
-
-<a id="gruffalo-games"></a>
-## Gruffalo: Games
-
-![Gruffalo: Games](../../logos/909269064-d6bd077c.png)
-
-A BAFTA NOMINATED APP - 6 Gruffalo themed mini-games specially designed for 3 - 7 year olds!
-
-**Educational App Store Certified with no in-app purchases**
-
-***Great technical support - see below or contact office@magiclightpictures.com***
-
-Featuring 6 beautiful and challenging puzzle games that help develop reactions, logic and problem solving skills.
-• Are you faster than the Gruffalo? Challenge him to a game of Snap!
-• Clear the woodland floor – pair Gruffalo, Mouse, Fox, Owl and Snake as quickly as you can!
-• Help Mouse catch nuts - they’re all good!
-• Outsmart the Gruffalo in a game of 3 in a Row.
-• Piece together your favorite characters - how quickly can you complete the jigsaws?
-• Keep the bug colony moving – pull down the correct leaves to send them on their merry way.
-
-Based on ‘The Gruffalo’, the classic children’s picture book written by Julia Donaldson and illustrated Axel Scheffler.
-
-These games are brought to you by Magic Light Pictures, producers of the Oscar nominated animations 'The Gruffalo' and 'Room on the Broom' as well as 'The Gruffalo's Child' and 'Stick Man'.
-
-You can play Gruffalo: Games on iPhone (4 and above), iPod Touch (4 and above), iPad (2 and above) and iPad mini. Previous generations of these devices will not be fully supported.
-
-***Technical Support***
-If you’re having trouble loading Gruffalo: Games, you may need to fully reboot your device. This should not affect any apps or data currently on your device.
-
-iPhone
-1. Hold the sleep/wake button at the top right of the device and the Home button at the same time.
-2. Keep holding both buttons until the screen goes black and the silver Apple logo appears.
-3. Let go of both buttons. Your iPhone should now be rebooting.
-
-iPad
-1. Press the Hold and home buttons at the same time. The hold button can be found in the top right corner of the iPad. The home button is round and can be found at the bottom of the iPad screen.
-2. Keep holding both buttons until the screen either flashes and goes black or a red slider appears at the top of the screen.
-3. If the red slider appears, slide it to the right to turn the iPad off.
-4. Once the iPad screen is black, hold down the Hold and Home buttons to reset and restart the device. The Apple logo should appear before the device reboots.
-
-Once your device has rebooted, click on the game icon to reload the app.
-
-If you are still experiencing technical difficulties please email office@magiclightpictures.com
-
-[View on Apple](https://apps.apple.com/gb/app/gruffalo-games/id909269064)
-
-<a id="linelearner"></a>
-## LineLearner
-
-![LineLearner](../../logos/368070258-9061b8d5.png)
-
-Line Learner helps you to learn lines as quickly and easily as you learn a catchy song.
-Line Learner enables you to record scenes from plays.  It allows you to listen to the full recording while you learn your part.  You can then select to leave gaps in the recording for you to speak your part aloud.  A prompt button is there to remind you of your line if you forget.
-You can choose to repeat individual scenes, or the whole play.
-With line learner you can record your script, and share it with others, who can record their lines, and share them back, giving you the ability to rehearse together even when apart.
-The app allows you to load up a script in PDF or Word format and display it as you record your lines.
-After you have recorded your lines you can alter the pitch of the other characters so as to more easily tell their lines apart from your own.
-Some quotes from some of our users:
-" I attribute much of my success to using your app"
-"Great app, really enjoying it!"
-"I say this app is damn near perfect!"
-"I really love your app and find it very useful."
-
-[View on Apple](https://apps.apple.com/gb/app/linelearner/id368070258)
-
-<a id="morse-it"></a>
-## Morse-It
-
-![Morse-It](../../logos/284942940-8d8ee15c.png)
-
-Morse-it is an easy-to-use application that lets you translate, interpret, type, learn, convert Morse code, and more.
-You can run it on your iPhone or iPad and it is compatible with VoiceOver.
-
-Note: By getting this app, you'll have access to several useful and fun features related to Morse code (these are the features explained in this description and visible in the screenshots).
-In addition, you can unlock advanced features in the app if you need them: learning and social features. More information at the end of this description.
-
-Type any text and it will be automatically encoded into a full-screen flashing effect of the corresponding Morse code.
-The flashlight of your device is also used.
-
-Your "SOS" messages will be seen quite far away!
-
-Some sound will also be played accordingly. In detailed mode, the encoded text will scroll during the decoding process.
-
-Tap some Morse code on the screen and the program will translate it into some text.
-Several input types are supported: Novice, Straight Key, Memory Paddle, Iambic Paddle (A and B), Microphone. Left and right handed modes are supported.
-Test and improve your skills: are you good enough to be understood?
-
-Create Morse code audio files from a given text (or variables).
-Use these files as you like: listen to them to train your decoding skills or use them as ringtones for your mobile phone.
-
-Create beautiful abstract wallpapers for your device (or posters to be printed) by customizing the display of the dashes and dots of the sentence you like.
-
-Exclusive feature that allows you to decode in real time the Morse code recorded by the microphone into text (note: the sound must be quite clear/loud and without much noise).
-Some automatic calibration is performed, allowing adaptation to speed, tone and volume changes.
-
-The full Morse alphabet (including prosigns) can also be viewed and the associated Morse code can be played.
-Tapped and decoded text can be edited and exported to clipboard, in-app email and SMS.
-A special screen allows textual conversion of Morse code and text. Exchange encrypted messages with your friends.
-
-Wikipedia and Visual Mnemonic screens to get information and mnemonics about Morse code.
-You can also add your own websites for in-app consultation.
-The whole application is highly configurable (frequency, WPM, tone type, color, Morse code, variables ...)
-
-A customizable today view widget can be added to your home screen to display the current date in Morse code.
-Some custom actions are available in the shortcut app, and some features of the app can be triggered using Siri.
-
-You can also become part of the Morse-it Social Club (thanks to a renewable subscription) and unlock the following Social features:
-Messages, Forums, QSO Bot, Poem of the Day, Quotes of the Day, Games of the Day ... and more.
-
-The following Learning features will also be unlocked (but can also be unlocked with a single one-time in-app purchase if you prefer):
-Koch trainer, Sending trainer, Cards trainer, CWops Academy learning method, Quiz, Macros, Dictionaries: abbreviations, QSOs, mnemonics, timing (Farnsworth) and Morse alphabet/Prosigns personalization, appearance customization ... and more.
-
-Some Morse-it features are powered by Icom, a world leader in the amateur radio market.
-
-!!! As seen on TV !!! (UK) in Most Haunted Live: Apparently you can use it to communicate with ghosts (no guarantee though :D)
-
-[View on Apple](https://apps.apple.com/gb/app/morse-it/id284942940)
-
-<a id="atvtools"></a>
-## atvTools
-
-![atvTools](../../logos/1661419573-2642cb7f.png)
-
-开发的应用程序用于通过 iOS 设备控制电视设备。您需要在 Android 设备上启用 USB/网络调试才能使其工作
-根据设备的不同，某些功能可能不可用。此外，它尚未经过测试
-
-应用程序允许：
-- 从 iOS 设备安装（侧载）应用程序到电视设备
-- 控制电视应用程序（包括打开、卸载、禁用/启用和下载 APK）
-- 控制应用程序权限（授予/撤销）
-- 内置文件管理器
-- 截屏或录屏（由于操作系统限制，您无法捕获任何视频内容）
-- 将文件从手机发送到电视
-- 使用应用程序中的遥控器和鼠标模式控制您的设备
-- 在 iOS 设备上打开频道（仅限 Android TV 8+）
-- 从手机粘贴文本
-- 运行 Shell 命令
-- 使用一个按钮清除所有应用程序缓存
-- 重新启动并打开电视设备
-- 查看 CPU、RAM、网络和存储的使用情况
-- 查看正在运行的应用程序并在需要时强制停止它们
-
-[View on Apple](https://apps.apple.com/gb/app/atvtools/id1661419573)
-
-<a id="world-map-pro-edition"></a>
-## World Map Pro Edition
-
-![World Map Pro Edition](../../logos/350925062-40c33e56.png)
-
-Explore the World at Your Fingertips!
-
-Looking for a fast, easy, and beautiful way to access world maps? Whether you're a student, traveler, trivia lover, or just curious about the world, this app gives you instant access to a collection of informative reference world maps.
-
-What's Inside:
-==========
-
-- Interactive World Map - Zoom in to see greater detail
-- Large Detailed Map – See countries, U.S. states, Canadian provinces, and even ocean floor contours.
-- Political Map – Understand global borders and countries.
-- Physical Map – Study landforms, elevations, and terrain.
-- World Time Zone Map – Track global time changes and stay in sync.
-
-Top Features:
-==========
-
-- Quick search for countries and capital cities
-- Smooth map switching – just tap the top left corner!
-- Full-screen viewing in portrait or landscape
-- High-resolution maps – perfect for study or reference
-- Works offline and online (internet required for Interactive World Map)
-
-Fun Fact: Did you know that on May 4, 2018, North Korea adjusted its clocks by 30 minutes to align with South Korea? With the World Time Zone Map, you can track unique changes like this in real time!
-
-Download now and explore the world like never before.
-
-[View on Apple](https://apps.apple.com/gb/app/world-map-pro-edition/id350925062)
