@@ -49,8 +49,9 @@ test('runSequential processes one item at a time and preserves order', async () 
 test('runCountryTasks runs countries concurrently', async () => {
     let active = 0;
     let maximumActive = 0;
+    const countries = ['us', 'cn', 'jp', 'gb', 'de', 'fr'];
 
-    const result = await runCountryTasks(['us', 'cn', 'jp'], async country => {
+    const result = await runCountryTasks(countries, async country => {
         active += 1;
         maximumActive = Math.max(maximumActive, active);
         await new Promise(resolve => setTimeout(resolve, 5));
@@ -58,8 +59,8 @@ test('runCountryTasks runs countries concurrently', async () => {
         return country.toUpperCase();
     });
 
-    assert.deepEqual(result, ['US', 'CN', 'JP']);
-    assert.equal(maximumActive, 3);
+    assert.deepEqual(result, countries.map(country => country.toUpperCase()));
+    assert.equal(maximumActive, countries.length);
 });
 
 test('runCountryTasks rejects the stage after all country tasks settle', async () => {

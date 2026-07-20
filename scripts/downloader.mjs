@@ -11,7 +11,7 @@ const DETAILS_DIR = path.join(ROOT_DIR, 'details');
 const LOGOS_DIR = path.join(ROOT_DIR, 'logos');
 const RANKINGS_INDEX = path.join(ROOT_DIR, 'rankings.json');
 
-const COUNTRIES = ['us', 'cn', 'jp'];
+const COUNTRIES = ['us', 'cn', 'jp', 'gb', 'de', 'fr'];
 const FEED_CONFIGS = [
     { mediaType: 'apps', feedType: 'top-free', resource: 'apps', fileSuffix: 'top-free' },
     { mediaType: 'apps', feedType: 'top-paid', resource: 'apps', fileSuffix: 'top-paid' },

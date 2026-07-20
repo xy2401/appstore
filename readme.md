@@ -4,7 +4,7 @@ This project downloads Apple top-chart feeds, archives them by date, caches medi
 
 ## Features
 
-- **Regions**: United States (`us`), China (`cn`), and Japan (`jp`).
+- **Regions**: United States (`us`), China (`cn`), Japan (`jp`), United Kingdom (`gb`), Germany (`de`), and France (`fr`).
 - **Media**: Apps, music, podcasts, books, and audiobooks where Apple provides a regional feed.
 - **Charts**: Free and paid apps/books, top songs, top albums, top podcasts, and top audiobooks.
 - **Historical archive**: Ranking JSON is stored in date-stamped directories under `rankings/YYYYMMDD/`.
@@ -34,7 +34,7 @@ node scripts/downloader.mjs
 # Equivalent to: node scripts/downloader.mjs all
 ```
 
-Only the country tasks (`us`, `cn`, and `jp`) run concurrently during the `rank` stage. Feeds within each country are fetched in order, and the `details` and `media` stages are sequential. This keeps request behavior predictable while still allowing the independent countries to make progress together.
+Only the six country tasks (`us`, `cn`, `jp`, `gb`, `de`, and `fr`) run concurrently during the `rank` stage. Feeds within each country are fetched in order, and the `details` and `media` stages are sequential. This keeps request behavior predictable while still allowing the independent countries to make progress together.
 
 ### Options
 
