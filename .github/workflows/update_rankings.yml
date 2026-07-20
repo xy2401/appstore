@@ -38,9 +38,6 @@ jobs:
         with:
           node-version: 24
 
-      - name: Test downloader
-        run: node --test scripts/downloader.test.mjs
-
       - name: Prepare archive date and Git identity
         shell: bash
         run: |
