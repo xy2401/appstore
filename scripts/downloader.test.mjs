@@ -5,7 +5,9 @@ import {
     createDetailBatches,
     createRequestThrottle,
     getArtworkFileName,
+    getFeedConfigsForCountry,
     hashArtworkUrl,
+    isLookupCompatibleId,
     parseArguments,
     runCountryTasks,
     runSequential,
@@ -48,6 +50,17 @@ test('parseArguments rejects invalid values and unknown flags', () => {
 test('parseArguments accepts comma and unquoted space-separated countries', () => {
     assert.deepEqual(parseArguments(['--countries=US,CN']).countries, ['us', 'cn']);
     assert.deepEqual(parseArguments(['--countries', 'jp', 'gb', 'de']).countries, ['jp', 'gb', 'de']);
+});
+
+test('subscriber podcast feeds are requested only in supported storefronts', () => {
+    const getResources = country => getFeedConfigsForCountry(country)
+        .map(config => `${config.feedType}/${config.resource}`);
+
+    assert.equal(getResources('us').includes('top-subscriber/podcasts'), true);
+    assert.equal(getResources('gb').includes('top-subscriber/podcast-channels'), true);
+    assert.equal(getResources('cn').includes('top-subscriber/podcasts'), false);
+    assert.equal(getResources('jp').includes('top-subscriber/podcast-channels'), false);
+    assert.equal(getResources('cn').includes('top/podcast-episodes'), true);
 });
 
 test('runSequential processes one item at a time and preserves order', async () => {
@@ -115,6 +128,11 @@ test('detail batches preserve countries and enforce the requested size', () => {
         ['us'],
         ['jp']
     ]);
+});
+
+test('Lookup API compatibility excludes Apple Music playlist IDs', () => {
+    assert.equal(isLookupCompatibleId('1896321897'), true);
+    assert.equal(isLookupCompatibleId('pl.87bb5b36a9bd49db8c975607452bfa2b'), false);
 });
 
 test('lookup batch results split into the existing per-ID format', () => {

@@ -6,7 +6,7 @@ This project downloads Apple top-chart feeds, archives them by date, caches medi
 
 - **Regions**: United States (`us`), China (`cn`), Japan (`jp`), United Kingdom (`gb`), Germany (`de`), and France (`fr`).
 - **Media**: Apps, music, podcasts, books, and audiobooks where Apple provides a regional feed.
-- **Charts**: Free and paid apps/books, top songs, top albums, top podcasts, and top audiobooks.
+- **Charts**: Free and paid apps/books; songs, albums, music videos, and playlists; podcast shows, subscriber charts, episodes, and channels; plus top audiobooks.
 - **Historical archive**: Ranking JSON is stored in date-stamped directories under `rankings/YYYYMMDD/`.
 - **Local assets**: Lookup metadata is cached in `details/` and artwork is downloaded to `logos/`.
 - **Static web interface**: Filter by date, region, media type, and chart; inspect media details; or browse the styled index of raw JSON archives.

@@ -20,11 +20,20 @@ const FEED_CONFIGS = [
     { mediaType: 'apps', feedType: 'top-paid', resource: 'apps', fileSuffix: 'top-paid' },
     { mediaType: 'music', feedType: 'most-played', resource: 'songs', fileSuffix: 'top-songs' },
     { mediaType: 'music', feedType: 'most-played', resource: 'albums', fileSuffix: 'top-albums' },
+    { mediaType: 'music', feedType: 'most-played', resource: 'music-videos', fileSuffix: 'top-music-videos' },
+    { mediaType: 'music', feedType: 'most-played', resource: 'playlists', fileSuffix: 'top-playlists' },
     { mediaType: 'podcasts', feedType: 'top', resource: 'podcasts', fileSuffix: 'top-podcasts' },
+    { mediaType: 'podcasts', feedType: 'top-subscriber', resource: 'podcasts', fileSuffix: 'top-subscriber-podcasts', countries: ['us', 'gb'] },
+    { mediaType: 'podcasts', feedType: 'top', resource: 'podcast-episodes', fileSuffix: 'top-podcast-episodes' },
+    { mediaType: 'podcasts', feedType: 'top-subscriber', resource: 'podcast-channels', fileSuffix: 'top-subscriber-podcast-channels', countries: ['us', 'gb'] },
     { mediaType: 'books', feedType: 'top-free', resource: 'books', fileSuffix: 'top-free' },
     { mediaType: 'books', feedType: 'top-paid', resource: 'books', fileSuffix: 'top-paid' },
     { mediaType: 'audio-books', feedType: 'top', resource: 'audio-books', fileSuffix: 'top-audio-books' }
 ];
+
+export function getFeedConfigsForCountry(country) {
+    return FEED_CONFIGS.filter(config => !config.countries || config.countries.includes(country));
+}
 
 class HttpError extends Error {
     constructor(message, status, retryAfterMs = 0) {
@@ -315,7 +324,7 @@ async function ensureDirectories() {
 
 async function downloadCountryRankings(country, outputDirectory, options) {
     console.log(`[rank:${country}] started`);
-    const results = await runSequential(FEED_CONFIGS, async config => {
+    const results = await runSequential(getFeedConfigsForCountry(country), async config => {
         const url = `https://rss.marketingtools.apple.com/api/v2/${country}/${config.mediaType}/${config.feedType}/${options.limit}/${config.resource}.json`;
         const fileName = `${country}_${config.mediaType}_${config.fileSuffix}.json`;
         const filePath = path.join(outputDirectory, fileName);
@@ -468,6 +477,10 @@ export function createDetailBatches(entries, batchSize = DETAIL_BATCH_SIZE) {
     return batches;
 }
 
+export function isLookupCompatibleId(id) {
+    return /^\d+$/.test(String(id));
+}
+
 function getPrimaryLookupResultId(result) {
     if (result.wrapperType === 'collection' && result.collectionId != null) {
         return String(result.collectionId);
@@ -603,8 +616,23 @@ async function downloadDetails(entries, options) {
         const cached = options.skipExisting
             ? await readJson(filePath).catch(() => null)
             : null;
-        if (cached) completed += 1;
-        else pendingEntries.push(entry);
+        if (cached) {
+            completed += 1;
+        } else if (!isLookupCompatibleId(entry.id)) {
+            const existing = await readJson(filePath).catch(() => null);
+            if (!existing) {
+                await atomicWrite(
+                    filePath,
+                    `${JSON.stringify({ resultCount: 0, results: [] }, null, 2)}\n`
+                );
+            }
+            console.warn(
+                `[details] Lookup API does not accept ${entry.id}; using ranking metadata only`
+            );
+            completed += 1;
+        } else {
+            pendingEntries.push(entry);
+        }
     }
 
     reportProgress(false);
