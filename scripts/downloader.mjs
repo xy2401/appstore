@@ -36,13 +36,18 @@ function printHelp() {
     console.log(`Apple Top Charts downloader
 
 Usage:
-  node scripts/downloader.mjs [options]
+  node scripts/downloader.mjs <command> [options]
+
+Commands:
+  rank                     Download ranking RSS into rankings/YYYYMMDD/
+  details                  Download lookup JSON into details/
+  media                    Download artwork, generate output, and publish the index
+  all                      Run rank, details, and media in order (default)
 
 Options:
   --skip-existing          Reuse cached ranking, detail, and artwork files
   --generate-markdown      Generate Markdown summaries for ranking files
   --limit <number>         Results requested from each feed (default: 100)
-  --concurrency <number>   Concurrent detail and artwork requests (default: 4)
   --date <YYYYMMDD>        Archive date override, useful for backfills
   -h, --help               Show this help
 `);
@@ -57,32 +62,37 @@ function readPositiveInteger(value, optionName) {
 }
 
 export function parseArguments(argv) {
+    const args = [...argv];
+    const commands = new Set(['rank', 'details', 'media', 'all']);
+    let command = 'all';
+
+    if (args[0] && !args[0].startsWith('-')) {
+        command = args.shift();
+        if (!commands.has(command)) throw new Error(`Unknown command: ${command}`);
+    }
+
     const options = {
+        command,
         skipExisting: false,
         generateMarkdown: false,
         limit: 100,
-        concurrency: 4,
         date: new Date().toISOString().slice(0, 10).replaceAll('-', ''),
         help: false
     };
 
-    for (let index = 0; index < argv.length; index += 1) {
-        const argument = argv[index];
+    for (let index = 0; index < args.length; index += 1) {
+        const argument = args[index];
 
         if (argument === '--skip-existing') {
             options.skipExisting = true;
         } else if (argument === '--generate-markdown') {
             options.generateMarkdown = true;
         } else if (argument === '--limit') {
-            options.limit = readPositiveInteger(argv[++index], '--limit');
+            options.limit = readPositiveInteger(args[++index], '--limit');
         } else if (argument.startsWith('--limit=')) {
             options.limit = readPositiveInteger(argument.slice('--limit='.length), '--limit');
-        } else if (argument === '--concurrency') {
-            options.concurrency = readPositiveInteger(argv[++index], '--concurrency');
-        } else if (argument.startsWith('--concurrency=')) {
-            options.concurrency = readPositiveInteger(argument.slice('--concurrency='.length), '--concurrency');
         } else if (argument === '--date') {
-            options.date = argv[++index];
+            options.date = args[++index];
         } else if (argument.startsWith('--date=')) {
             options.date = argument.slice('--date='.length);
         } else if (argument === '--help' || argument === '-h') {
@@ -207,21 +217,24 @@ async function downloadToFile(url, filePath, { responseType, skipExisting }) {
     return { data, skipped: false };
 }
 
-export async function mapWithConcurrency(items, concurrency, worker) {
-    const results = new Array(items.length);
-    let nextIndex = 0;
-
-    async function runWorker() {
-        while (nextIndex < items.length) {
-            const currentIndex = nextIndex;
-            nextIndex += 1;
-            results[currentIndex] = await worker(items[currentIndex], currentIndex);
-        }
+export async function runSequential(items, worker) {
+    const results = [];
+    for (let index = 0; index < items.length; index += 1) {
+        results.push(await worker(items[index], index));
     }
-
-    const workerCount = Math.min(Math.max(1, concurrency), Math.max(1, items.length));
-    await Promise.all(Array.from({ length: workerCount }, runWorker));
     return results;
+}
+
+export async function runCountryTasks(countries, worker) {
+    const outcomes = await Promise.allSettled(countries.map(worker));
+    const failures = outcomes.filter(outcome => outcome.status === 'rejected');
+    if (failures.length > 0) {
+        throw new AggregateError(
+            failures.map(outcome => outcome.reason),
+            `${failures.length} country task(s) failed.`
+        );
+    }
+    return outcomes.map(outcome => outcome.value);
 }
 
 async function ensureDirectories() {
@@ -232,13 +245,9 @@ async function ensureDirectories() {
     ]);
 }
 
-async function downloadRankings(options) {
-    const outputDirectory = path.join(RANKINGS_DIR, options.date);
-    await mkdir(outputDirectory, { recursive: true });
-
-    const tasks = COUNTRIES.flatMap(country => FEED_CONFIGS.map(config => ({ country, config })));
-    const results = await mapWithConcurrency(tasks, Math.min(options.concurrency, 3), async task => {
-        const { country, config } = task;
+async function downloadCountryRankings(country, outputDirectory, options) {
+    console.log(`[rank:${country}] started`);
+    const results = await runSequential(FEED_CONFIGS, async config => {
         const url = `https://rss.marketingtools.apple.com/api/v2/${country}/${config.mediaType}/${config.feedType}/${options.limit}/${config.resource}.json`;
         const fileName = `${country}_${config.mediaType}_${config.fileSuffix}.json`;
         const filePath = path.join(outputDirectory, fileName);
@@ -248,27 +257,63 @@ async function downloadRankings(options) {
                 responseType: 'json',
                 skipExisting: options.skipExisting
             });
-            console.log(`[ranking] ${result.skipped ? 'cached' : 'saved'} ${fileName}`);
+            console.log(`[rank:${country}] ${result.skipped ? 'cached' : 'saved'} ${fileName}`);
             return { country, filePath, data: result.data };
         } catch (error) {
-            console.warn(`[ranking] unavailable ${fileName}: ${error.message}`);
             if (await fileExists(filePath)) {
                 try {
-                    console.warn(`[ranking] using existing archive ${fileName}`);
+                    console.warn(`[rank:${country}] using existing archive ${fileName}: ${error.message}`);
                     return { country, filePath, data: await readJson(filePath) };
                 } catch {
                     // Ignore an unreadable fallback file.
                 }
             }
-            return null;
+
+            if (error instanceof HttpError && error.status === 404) {
+                console.warn(`[rank:${country}] feed unavailable ${fileName}`);
+                return null;
+            }
+            throw new Error(`[rank:${country}] ${fileName}: ${error.message}`, { cause: error });
         }
     });
 
-    const availableResults = results.filter(Boolean);
+    console.log(`[rank:${country}] completed`);
+    return results.filter(Boolean);
+}
+
+async function downloadRankings(options) {
+    const outputDirectory = path.join(RANKINGS_DIR, options.date);
+    await mkdir(outputDirectory, { recursive: true });
+
+    const countryResults = await runCountryTasks(
+        COUNTRIES,
+        country => downloadCountryRankings(country, outputDirectory, options)
+    );
+    const availableResults = countryResults.flat();
     if (availableResults.length === 0) {
         throw new Error('No ranking feeds could be downloaded or loaded from the archive.');
     }
     return availableResults;
+}
+
+async function loadRankingResults(date) {
+    const directory = path.join(RANKINGS_DIR, date);
+    if (!await fileExists(directory)) {
+        throw new Error(`Ranking archive does not exist: rankings/${date}`);
+    }
+
+    const files = (await readdir(directory))
+        .filter(fileName => fileName.endsWith('.json'))
+        .sort();
+    if (files.length === 0) {
+        throw new Error(`No ranking JSON files found in rankings/${date}`);
+    }
+
+    return runSequential(files, async fileName => ({
+        country: fileName.split('_')[0],
+        filePath: path.join(directory, fileName),
+        data: await readJson(path.join(directory, fileName))
+    }));
 }
 
 function collectMediaEntries(rankingResults) {
@@ -303,8 +348,9 @@ function summarizeMedia(entry, lookupData) {
 
 async function downloadDetails(entries, options) {
     let completed = 0;
+    const failures = [];
 
-    return mapWithConcurrency(entries, options.concurrency, async entry => {
+    const mediaItems = await runSequential(entries, async entry => {
         const filePath = path.join(DETAILS_DIR, `${entry.id}.json`);
         const url = `https://itunes.apple.com/lookup?id=${encodeURIComponent(entry.id)}&country=${encodeURIComponent(entry.country)}`;
         let lookupData = null;
@@ -316,9 +362,14 @@ async function downloadDetails(entries, options) {
             });
             lookupData = result.data;
         } catch (error) {
-            console.warn(`[details] ${entry.id}: ${error.message}`);
             if (await fileExists(filePath)) {
                 lookupData = await readJson(filePath).catch(() => null);
+            }
+            if (lookupData) {
+                console.warn(`[details] using existing ${entry.id}: ${error.message}`);
+            } else {
+                console.warn(`[details] failed ${entry.id}: ${error.message}`);
+                failures.push(entry.id);
             }
         }
 
@@ -328,13 +379,19 @@ async function downloadDetails(entries, options) {
         }
         return summarizeMedia(entry, lookupData);
     });
+
+    if (failures.length > 0) {
+        throw new Error(`Details stage incomplete: ${failures.length} item(s) failed.`);
+    }
+    return mediaItems;
 }
 
 async function downloadArtwork(mediaItems, options) {
     const itemsWithArtwork = mediaItems.filter(item => item.artworkUrl);
     let completed = 0;
+    const failures = [];
 
-    await mapWithConcurrency(itemsWithArtwork, options.concurrency, async item => {
+    await runSequential(itemsWithArtwork, async item => {
         const filePath = path.join(LOGOS_DIR, `${item.id}.png`);
         try {
             await downloadToFile(item.artworkUrl, filePath, {
@@ -342,13 +399,30 @@ async function downloadArtwork(mediaItems, options) {
                 skipExisting: options.skipExisting
             });
         } catch (error) {
-            console.warn(`[artwork] ${item.id}: ${error.message}`);
+            if (await fileExists(filePath)) {
+                console.warn(`[media] using existing ${item.id}: ${error.message}`);
+            } else {
+                console.warn(`[media] failed ${item.id}: ${error.message}`);
+                failures.push(item.id);
+            }
         }
 
         completed += 1;
         if (completed % 100 === 0 || completed === itemsWithArtwork.length) {
-            console.log(`[artwork] ${completed}/${itemsWithArtwork.length}`);
+            console.log(`[media] ${completed}/${itemsWithArtwork.length}`);
         }
+    });
+
+    if (failures.length > 0) {
+        throw new Error(`Media stage incomplete: ${failures.length} artwork file(s) failed.`);
+    }
+}
+
+async function loadMediaItems(entries) {
+    return runSequential(entries, async entry => {
+        const filePath = path.join(DETAILS_DIR, `${entry.id}.json`);
+        const lookupData = await readJson(filePath).catch(() => null);
+        return summarizeMedia(entry, lookupData);
     });
 }
 
@@ -445,6 +519,34 @@ async function rebuildRankingsIndex() {
     console.log(`[index] wrote ${index.length} ranking files`);
 }
 
+export async function runRankStage(options) {
+    console.log('[stage 1/3] Downloading ranking RSS...');
+    const results = await downloadRankings(options);
+    console.log(`[stage 1/3] Complete: ${results.length} ranking feed(s).`);
+}
+
+export async function runDetailsStage(options) {
+    console.log('[stage 2/3] Downloading detail JSON...');
+    const rankings = await loadRankingResults(options.date);
+    const entries = collectMediaEntries(rankings);
+    await downloadDetails(entries, options);
+    console.log(`[stage 2/3] Complete: ${entries.length} unique media item(s).`);
+}
+
+export async function runMediaStage(options) {
+    console.log('[stage 3/3] Downloading media files...');
+    const rankings = await loadRankingResults(options.date);
+    const entries = collectMediaEntries(rankings);
+    const mediaItems = await loadMediaItems(entries);
+    await downloadArtwork(mediaItems, options);
+
+    if (options.generateMarkdown) await generateMarkdownFiles();
+    else console.log('[markdown] skipped');
+
+    await rebuildRankingsIndex();
+    console.log(`[stage 3/3] Complete: ${mediaItems.length} media item(s); rankings.json published.`);
+}
+
 export async function main(argv = process.argv.slice(2)) {
     const options = parseArguments(argv);
     if (options.help) {
@@ -452,26 +554,19 @@ export async function main(argv = process.argv.slice(2)) {
         return;
     }
 
-    console.log(`Archive date: ${options.date}`);
-    console.log(`Limit: ${options.limit}; concurrency: ${options.concurrency}; skip existing: ${options.skipExisting}`);
+    console.log(`Command: ${options.command}; archive date: ${options.date}`);
+    console.log(`Limit: ${options.limit}; skip existing: ${options.skipExisting}`);
     await ensureDirectories();
 
-    console.log('[1/5] Downloading ranking feeds...');
-    const rankingResults = await downloadRankings(options);
-
-    console.log('[2/5] Downloading lookup metadata...');
-    const entries = collectMediaEntries(rankingResults);
-    const mediaItems = await downloadDetails(entries, options);
-
-    console.log('[3/5] Downloading artwork...');
-    await downloadArtwork(mediaItems, options);
-
-    console.log('[4/5] Generating optional Markdown...');
-    if (options.generateMarkdown) await generateMarkdownFiles();
-    else console.log('[markdown] skipped');
-
-    console.log('[5/5] Rebuilding rankings.json...');
-    await rebuildRankingsIndex();
+    if (options.command === 'rank' || options.command === 'all') {
+        await runRankStage(options);
+    }
+    if (options.command === 'details' || options.command === 'all') {
+        await runDetailsStage(options);
+    }
+    if (options.command === 'media' || options.command === 'all') {
+        await runMediaStage(options);
+    }
     console.log('Done.');
 }
 

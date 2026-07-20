@@ -21,11 +21,20 @@ This project downloads Apple top-chart feeds, archives them by date, caches medi
 
 ## Download rankings
 
-Run the Node.js downloader from the repository root:
+The downloader is split into three resumable stages that match the generated directories:
+
+1. `rank` downloads Apple ranking RSS JSON into `rankings/YYYYMMDD/`.
+2. `details` reads that archive and downloads iTunes Lookup JSON into `details/`.
+3. `media` downloads artwork into `logos/`, optionally generates Markdown, and rebuilds `rankings.json`.
+
+Run all three stages from the repository root:
 
 ```bash
 node scripts/downloader.mjs
+# Equivalent to: node scripts/downloader.mjs all
 ```
+
+Only the country tasks (`us`, `cn`, and `jp`) run concurrently during the `rank` stage. Feeds within each country are fetched in order, and the `details` and `media` stages are sequential. This keeps request behavior predictable while still allowing the independent countries to make progress together.
 
 ### Options
 
@@ -34,27 +43,30 @@ node scripts/downloader.mjs
 | `--skip-existing` | Off | Reuse cached ranking, detail, and artwork files. |
 | `--generate-markdown` | Off | Generate `.md` summaries alongside ranking JSON files. |
 | `--limit <number>` | `100` | Maximum results requested from each Apple feed. |
-| `--concurrency <number>` | `4` | Concurrent detail and artwork requests. |
 | `--date <YYYYMMDD>` | Current UTC date | Override the archive date for a backfill. |
 | `--help` | — | Show command usage. |
 
 Examples:
 
 ```bash
-# Refresh all configured feeds
-node scripts/downloader.mjs
+# Run the stages separately
+node scripts/downloader.mjs rank --date 20260701
+node scripts/downloader.mjs details --date 20260701
+node scripts/downloader.mjs media --date 20260701
 
-# Reuse the current archive and cached assets
-node scripts/downloader.mjs --skip-existing
+# Resume all stages while reusing completed files
+node scripts/downloader.mjs all --date 20260701 --skip-existing
 
-# Request 50 results and generate Markdown summaries
-node scripts/downloader.mjs --limit 50 --generate-markdown
+# Request 50 ranking results, then generate Markdown in the media stage
+node scripts/downloader.mjs rank --date 20260701 --limit 50
+node scripts/downloader.mjs details --date 20260701
+node scripts/downloader.mjs media --date 20260701 --generate-markdown
 
-# Create or refresh a specific archive date
-node scripts/downloader.mjs --date 20260701 --skip-existing
+# Show command help
+node scripts/downloader.mjs --help
 ```
 
-The downloader applies request timeouts, bounded concurrency, retry with exponential backoff, and temporary-file writes. Failed regional feeds do not stop other feeds from being archived.
+The downloader applies request timeouts, retry with exponential backoff, and temporary-file writes. A missing Apple feed (`404`) is skipped, while other unhandled download failures make the current stage fail so that an incomplete checkpoint is not committed.
 
 ### Legacy PowerShell downloader
 
@@ -103,7 +115,7 @@ The interface automatically selects the newest available archive and provides de
 
 ## Automation
 
-`.github/workflows/update_rankings.yml` runs on Ubuntu with Node.js at `00:00 UTC` on the first day of each month and can also be started manually. It runs `scripts/downloader.mjs`, commits changed archive files, pushes them to the repository, and dispatches the GitHub Pages deployment workflow.
+`.github/workflows/update_rankings.yml` runs on Ubuntu with Node.js at `00:00 UTC` on the first day of each month and can also be started manually. It creates a Git checkpoint after each successful stage: ranking RSS first, detail JSON second, then media plus the published `rankings.json` index. If a later stage fails, the completed earlier checkpoints remain available for a resumed run. GitHub Pages is dispatched only after Stage 3 succeeds.
 
 `.github/workflows/update_rankings-ps.yml` is retained as a disabled rollback reference. Its job has a constant false condition and cannot execute the legacy downloader unless that condition is deliberately removed.
 

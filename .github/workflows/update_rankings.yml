@@ -6,25 +6,20 @@ on:
   workflow_dispatch:
     inputs:
       generate_markdown:
-        description: 'Generate Markdown files'
+        description: 'Generate Markdown files during the media stage'
         required: false
         type: boolean
         default: false
       skip_existing:
-        description: 'Reuse cached details and artwork'
+        description: 'Reuse files already committed by an earlier run'
         required: false
         type: boolean
         default: false
       limit:
-        description: 'Maximum results requested from each feed'
+        description: 'Maximum results requested from each RSS feed'
         required: false
         type: number
         default: 100
-      concurrency:
-        description: 'Concurrent detail and artwork requests'
-        required: false
-        type: number
-        default: 4
 
 concurrency:
   group: update-rankings
@@ -47,43 +42,81 @@ jobs:
         uses: actions/setup-node@v6
         with:
           node-version: 24
-          package-manager-cache: false
 
       - name: Test downloader
         run: node --test scripts/downloader.test.mjs
 
-      - name: Download rankings
+      - name: Prepare archive date and Git identity
         shell: bash
         run: |
-          args=(--limit "${{ inputs.limit || 100 }}" --concurrency "${{ inputs.concurrency || 4 }}")
+          echo "ARCHIVE_DATE=$(date -u +'%Y%m%d')" >> "$GITHUB_ENV"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
+      - name: Stage 1 - Download ranking RSS
+        shell: bash
+        run: |
+          args=(rank --date "$ARCHIVE_DATE" --limit "${{ inputs.limit || 100 }}")
           if [[ "${{ inputs.skip_existing }}" == "true" ]]; then
             args+=(--skip-existing)
           fi
+          node scripts/downloader.mjs "${args[@]}"
 
+      - name: Stage 1 - Commit ranking checkpoint
+        shell: bash
+        run: |
+          git add -- "rankings/$ARCHIVE_DATE"
+          if ! git diff --cached --quiet; then
+            git commit -m "Archive ranking RSS $ARCHIVE_DATE"
+            git push
+          else
+            echo "No ranking RSS changes to commit."
+          fi
+
+      - name: Stage 2 - Download detail JSON
+        shell: bash
+        run: |
+          args=(details --date "$ARCHIVE_DATE")
+          if [[ "${{ inputs.skip_existing }}" == "true" ]]; then
+            args+=(--skip-existing)
+          fi
+          node scripts/downloader.mjs "${args[@]}"
+
+      - name: Stage 2 - Commit details checkpoint
+        shell: bash
+        run: |
+          git add -- details
+          if ! git diff --cached --quiet; then
+            git commit -m "Update ranking details $ARCHIVE_DATE"
+            git push
+          else
+            echo "No detail changes to commit."
+          fi
+
+      - name: Stage 3 - Download media and publish index
+        shell: bash
+        run: |
+          args=(media --date "$ARCHIVE_DATE")
+          if [[ "${{ inputs.skip_existing }}" == "true" ]]; then
+            args+=(--skip-existing)
+          fi
           if [[ "${{ inputs.generate_markdown }}" == "true" ]]; then
             args+=(--generate-markdown)
           fi
-
           node scripts/downloader.mjs "${args[@]}"
 
-      - name: Commit and push changes
+      - name: Stage 3 - Commit completed archive and deploy
         shell: bash
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-          git add -- rankings.json rankings details logos
-
-          if git diff --cached --quiet; then
-            echo "No ranking changes to commit."
-            exit 0
+          git add -- logos rankings rankings.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Complete ranking archive $ARCHIVE_DATE"
+            git push
+          else
+            echo "No media or index changes to commit."
           fi
-
-          git commit -m "Update app rankings $(date -u +'%Y-%m-%d')"
-          git push
 
           echo "Triggering static content deployment..."
           gh workflow run static.yml
