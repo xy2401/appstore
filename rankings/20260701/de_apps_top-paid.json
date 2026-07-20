@@ -14,7 +14,7 @@
     "copyright": "Copyright © 2026 Apple Inc. All rights reserved.",
     "country": "de",
     "icon": "https://www.apple.com/favicon.ico",
-    "updated": "Mon, 20 Jul 2026 10:14:26 +0000",
+    "updated": "Mon, 20 Jul 2026 11:20:29 +0000",
     "results": [
       {
         "artistName": "Eifrig Media",
@@ -67,16 +67,6 @@
         "url": "https://apps.apple.com/de/app/ankimobile-flashcards/id373493387"
       },
       {
-        "artistName": "PeakFinder GmbH",
-        "id": "357421934",
-        "name": "PeakFinder",
-        "releaseDate": "2010-03-12",
-        "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/2e/1d/832e1df7-b2e5-807a-9b6a-340aed3930be/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/100x100bb.png",
-        "genres": [],
-        "url": "https://apps.apple.com/de/app/peakfinder/id357421934"
-      },
-      {
         "artistName": "Tamas Szabo",
         "id": "1444681822",
         "name": "BorderWatcher",
@@ -85,6 +75,16 @@
         "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/3e/a4/153ea481-4f05-8519-bb05-dc04b7d7f5bf/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
         "genres": [],
         "url": "https://apps.apple.com/de/app/borderwatcher/id1444681822"
+      },
+      {
+        "artistName": "PeakFinder GmbH",
+        "id": "357421934",
+        "name": "PeakFinder",
+        "releaseDate": "2010-03-12",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/2e/1d/832e1df7-b2e5-807a-9b6a-340aed3930be/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/100x100bb.png",
+        "genres": [],
+        "url": "https://apps.apple.com/de/app/peakfinder/id357421934"
       },
       {
         "artistName": "HappyCow",
@@ -107,13 +107,34 @@
         "url": "https://apps.apple.com/de/app/dgv-platzreife/id1470048869"
       },
       {
+        "artistName": "PiNCAMP GmbH",
+        "id": "6756656688",
+        "name": "ADAC Camping / Stellplatz 2026",
+        "releaseDate": "2025-12-19",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/20/8e/2b208ee3-7a95-843e-89fa-76feb59fcfb7/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+        "genres": [],
+        "url": "https://apps.apple.com/de/app/adac-camping-stellplatz-2026/id6756656688"
+      },
+      {
         "artistName": "TappyTaps s.r.o.",
         "id": "490077681",
         "name": "Babyphone 3G",
         "releaseDate": "2012-01-17",
         "kind": "apps",
         "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/e7/9b/ffe79b1f-6329-c6a3-1238-87c115957c1b/AppIcon-0-0-1x_U007emarketing-0-11-0-0-0-0-85-220.png/100x100bb.png",
-        "genres": [],
+        "genres": [
+          {
+            "genreId": "6012",
+            "name": "Lifestyle",
+            "url": "https://itunes.apple.com/de/genre/id6012"
+          },
+          {
+            "genreId": "6013",
+            "name": "Gesundheit und Fitness",
+            "url": "https://itunes.apple.com/de/genre/id6013"
+          }
+        ],
         "url": "https://apps.apple.com/de/app/babyphone-3g/id490077681"
       },
       {
@@ -131,27 +152,6 @@
           }
         ],
         "url": "https://apps.apple.com/de/app/teleguard/id1505636751"
-      },
-      {
-        "artistName": "Radoslaw Marciniak",
-        "id": "6778099993",
-        "name": "Manager for KuKirin",
-        "releaseDate": "2026-06-09",
-        "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/89/3a/e5893a88-8024-0d06-9fb5-d1a92caa8d1d/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "6003",
-            "name": "Reisen",
-            "url": "https://itunes.apple.com/de/genre/id6003"
-          },
-          {
-            "genreId": "6002",
-            "name": "Dienst­programme",
-            "url": "https://itunes.apple.com/de/genre/id6002"
-          }
-        ],
-        "url": "https://apps.apple.com/de/app/manager-for-kukirin/id6778099993"
       },
       {
         "artistName": "DTN Germany GmbH.",
@@ -175,12 +175,12 @@
         "url": "https://apps.apple.com/de/app/weatherpro/id294631159"
       },
       {
-        "artistName": "PiNCAMP GmbH",
-        "id": "6756656688",
-        "name": "ADAC Camping / Stellplatz 2026",
-        "releaseDate": "2025-12-19",
+        "artistName": "Radoslaw Marciniak",
+        "id": "6778099993",
+        "name": "Manager for KuKirin",
+        "releaseDate": "2026-06-09",
         "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/20/8e/2b208ee3-7a95-843e-89fa-76feb59fcfb7/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/89/3a/e5893a88-8024-0d06-9fb5-d1a92caa8d1d/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
         "genres": [
           {
             "genreId": "6003",
@@ -188,12 +188,12 @@
             "url": "https://itunes.apple.com/de/genre/id6003"
           },
           {
-            "genreId": "6018",
-            "name": "Bücher",
-            "url": "https://itunes.apple.com/de/genre/id6018"
+            "genreId": "6002",
+            "name": "Dienst­programme",
+            "url": "https://itunes.apple.com/de/genre/id6002"
           }
         ],
-        "url": "https://apps.apple.com/de/app/adac-camping-stellplatz-2026/id6756656688"
+        "url": "https://apps.apple.com/de/app/manager-for-kukirin/id6778099993"
       },
       {
         "artistName": "Bjoern Steiger Stiftung Dienstleistung GmbH",
@@ -233,25 +233,25 @@
         "url": "https://apps.apple.com/de/app/shadowrocket/id932747118"
       },
       {
-        "artistName": "Chris Lawley",
-        "id": "6779987526",
-        "name": "Parchment: Agenda & Daily Note",
-        "releaseDate": "2026-07-15",
+        "artistName": "Tantsissa",
+        "id": "6746705608",
+        "name": "AutoSnore: Schnarch-Rekorder",
+        "releaseDate": "2025-11-02",
         "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/88/f3/1588f3ec-539c-751b-55bd-36653a4e729a/Parchment-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/60/2f/70/602f7013-998f-6fc3-6627-2f510d8b42db/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
         "genres": [
           {
-            "genreId": "6007",
-            "name": "Produktivität",
-            "url": "https://itunes.apple.com/de/genre/id6007"
+            "genreId": "6020",
+            "name": "Medizin",
+            "url": "https://itunes.apple.com/de/genre/id6020"
           },
           {
-            "genreId": "6002",
-            "name": "Dienst­programme",
-            "url": "https://itunes.apple.com/de/genre/id6002"
+            "genreId": "6013",
+            "name": "Gesundheit und Fitness",
+            "url": "https://itunes.apple.com/de/genre/id6013"
           }
         ],
-        "url": "https://apps.apple.com/de/app/parchment-agenda-daily-note/id6779987526"
+        "url": "https://apps.apple.com/de/app/autosnore-schnarch-rekorder/id6746705608"
       },
       {
         "artistName": "weissfly UG (haftungsbeschrankt)",
@@ -275,25 +275,25 @@
         "url": "https://apps.apple.com/de/app/harzer-wandernadel-community/id1620616675"
       },
       {
-        "artistName": "Tantsissa",
-        "id": "6746705608",
-        "name": "AutoSnore: Schnarch-Rekorder",
-        "releaseDate": "2025-11-02",
+        "artistName": "Chris Lawley",
+        "id": "6779987526",
+        "name": "Parchment: Agenda & Daily Note",
+        "releaseDate": "2026-07-15",
         "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/60/2f/70/602f7013-998f-6fc3-6627-2f510d8b42db/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/88/f3/1588f3ec-539c-751b-55bd-36653a4e729a/Parchment-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
         "genres": [
           {
-            "genreId": "6020",
-            "name": "Medizin",
-            "url": "https://itunes.apple.com/de/genre/id6020"
+            "genreId": "6007",
+            "name": "Produktivität",
+            "url": "https://itunes.apple.com/de/genre/id6007"
           },
           {
-            "genreId": "6013",
-            "name": "Gesundheit und Fitness",
-            "url": "https://itunes.apple.com/de/genre/id6013"
+            "genreId": "6002",
+            "name": "Dienst­programme",
+            "url": "https://itunes.apple.com/de/genre/id6002"
           }
         ],
-        "url": "https://apps.apple.com/de/app/autosnore-schnarch-rekorder/id6746705608"
+        "url": "https://apps.apple.com/de/app/parchment-agenda-daily-note/id6779987526"
       },
       {
         "artistName": "Savage Interactive Pty Ltd",
@@ -317,96 +317,17 @@
         "url": "https://apps.apple.com/de/app/procreate-pocket/id916366645"
       },
       {
-        "artistName": "Cocologics",
-        "id": "694647259",
-        "name": "ProCamera. RAW+ Fotografie",
-        "releaseDate": "2013-09-18",
+        "artistName": "theorie24 GmbH",
+        "id": "920788519",
+        "name": "Führerschein 2026 PRO",
+        "releaseDate": "2014-10-22",
         "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/4c/1a/264c1ad2-2752-688b-291e-7897c2c69f23/AppIcon-0-1x_U007epad-0-0-0-1-0-0-85-220-0.png/100x100bb.png",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/73/de/5473deba-b4ec-27d0-517a-b3a2a979b53f/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/100x100bb.png",
         "genres": [
-          {
-            "genreId": "6008",
-            "name": "Foto und Video",
-            "url": "https://itunes.apple.com/de/genre/id6008"
-          },
-          {
-            "genreId": "6003",
-            "name": "Reisen",
-            "url": "https://itunes.apple.com/de/genre/id6003"
-          }
-        ],
-        "url": "https://apps.apple.com/de/app/procamera-raw-fotografie/id694647259"
-      },
-      {
-        "artistName": "Stephane Lizeray",
-        "id": "1202650514",
-        "name": "HealthFit",
-        "releaseDate": "2017-09-26",
-        "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/07/31/11073183-9007-413b-fdd5-c930fcdd9241/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "6013",
-            "name": "Gesundheit und Fitness",
-            "url": "https://itunes.apple.com/de/genre/id6013"
-          }
-        ],
-        "url": "https://apps.apple.com/de/app/healthfit/id1202650514"
-      },
-      {
-        "artistName": "Marco Pohl",
-        "id": "6760473513",
-        "name": "Camping Assistant: Ausrichten",
-        "releaseDate": "2026-03-17",
-        "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/33/18/763318fa-0c96-746c-96ea-eef334656bfc/AppIcon-0-0-1x_U007ephone-0-1-85-220.jpeg/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "6002",
-            "name": "Dienst­programme",
-            "url": "https://itunes.apple.com/de/genre/id6002"
-          },
-          {
-            "genreId": "6003",
-            "name": "Reisen",
-            "url": "https://itunes.apple.com/de/genre/id6003"
-          }
-        ],
-        "url": "https://apps.apple.com/de/app/camping-assistant-ausrichten/id6760473513"
-      },
-      {
-        "artistName": "PhotoPills S.L.",
-        "id": "596026805",
-        "name": "PhotoPills",
-        "releaseDate": "2013-03-21",
-        "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/60/70/5e60703c-75ac-14d2-ec12-bf81cee85008/Photopills-liquid-glass-logo-0-1x_U007epad-0-1-0-0-85-220-0.png/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "6008",
-            "name": "Foto und Video",
-            "url": "https://itunes.apple.com/de/genre/id6008"
-          },
           {
             "genreId": "6017",
             "name": "Bildung",
             "url": "https://itunes.apple.com/de/genre/id6017"
-          }
-        ],
-        "url": "https://apps.apple.com/de/app/photopills/id596026805"
-      },
-      {
-        "artistName": "Crunchy Bagel",
-        "id": "963034692",
-        "name": "Streaks",
-        "releaseDate": "2015-06-01",
-        "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/97/70/9c97702e-944a-f189-2dda-453ec55ce0c4/orange_normal-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "6013",
-            "name": "Gesundheit und Fitness",
-            "url": "https://itunes.apple.com/de/genre/id6013"
           },
           {
             "genreId": "6002",
@@ -414,7 +335,7 @@
             "url": "https://itunes.apple.com/de/genre/id6002"
           }
         ],
-        "url": "https://apps.apple.com/de/app/streaks/id963034692"
+        "url": "https://apps.apple.com/de/app/f%C3%BChrerschein-2026-pro/id920788519"
       },
       {
         "artistName": "Tantsissa",
@@ -438,25 +359,83 @@
         "url": "https://apps.apple.com/de/app/autosleep-schlaftracker/id1164801111"
       },
       {
-        "artistName": "theorie24 GmbH",
-        "id": "920788519",
-        "name": "Führerschein 2026 PRO",
-        "releaseDate": "2014-10-22",
+        "artistName": "Cocologics",
+        "id": "694647259",
+        "name": "ProCamera. RAW+ Fotografie",
+        "releaseDate": "2013-09-18",
         "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/73/de/5473deba-b4ec-27d0-517a-b3a2a979b53f/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/100x100bb.png",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/4c/1a/264c1ad2-2752-688b-291e-7897c2c69f23/AppIcon-0-1x_U007epad-0-0-0-1-0-0-85-220-0.png/100x100bb.png",
         "genres": [
           {
-            "genreId": "6017",
-            "name": "Bildung",
-            "url": "https://itunes.apple.com/de/genre/id6017"
+            "genreId": "6008",
+            "name": "Foto und Video",
+            "url": "https://itunes.apple.com/de/genre/id6008"
           },
+          {
+            "genreId": "6003",
+            "name": "Reisen",
+            "url": "https://itunes.apple.com/de/genre/id6003"
+          }
+        ],
+        "url": "https://apps.apple.com/de/app/procamera-raw-fotografie/id694647259"
+      },
+      {
+        "artistName": "Marco Pohl",
+        "id": "6760473513",
+        "name": "Camping Assistant: Ausrichten",
+        "releaseDate": "2026-03-17",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/33/18/763318fa-0c96-746c-96ea-eef334656bfc/AppIcon-0-0-1x_U007ephone-0-1-85-220.jpeg/100x100bb.png",
+        "genres": [
           {
             "genreId": "6002",
             "name": "Dienst­programme",
             "url": "https://itunes.apple.com/de/genre/id6002"
+          },
+          {
+            "genreId": "6003",
+            "name": "Reisen",
+            "url": "https://itunes.apple.com/de/genre/id6003"
           }
         ],
-        "url": "https://apps.apple.com/de/app/f%C3%BChrerschein-2026-pro/id920788519"
+        "url": "https://apps.apple.com/de/app/camping-assistant-ausrichten/id6760473513"
+      },
+      {
+        "artistName": "Stephane Lizeray",
+        "id": "1202650514",
+        "name": "HealthFit",
+        "releaseDate": "2017-09-26",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/07/31/11073183-9007-413b-fdd5-c930fcdd9241/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6013",
+            "name": "Gesundheit und Fitness",
+            "url": "https://itunes.apple.com/de/genre/id6013"
+          }
+        ],
+        "url": "https://apps.apple.com/de/app/healthfit/id1202650514"
+      },
+      {
+        "artistName": "PhotoPills S.L.",
+        "id": "596026805",
+        "name": "PhotoPills",
+        "releaseDate": "2013-03-21",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/60/70/5e60703c-75ac-14d2-ec12-bf81cee85008/Photopills-liquid-glass-logo-0-1x_U007epad-0-1-0-0-85-220-0.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6008",
+            "name": "Foto und Video",
+            "url": "https://itunes.apple.com/de/genre/id6008"
+          },
+          {
+            "genreId": "6017",
+            "name": "Bildung",
+            "url": "https://itunes.apple.com/de/genre/id6017"
+          }
+        ],
+        "url": "https://apps.apple.com/de/app/photopills/id596026805"
       },
       {
         "artistName": "Dens Medizinische Geraete Entwicklungs- und Vertriebs GmbH",
@@ -478,6 +457,69 @@
           }
         ],
         "url": "https://apps.apple.com/de/app/densgoz/id6760102783"
+      },
+      {
+        "artistName": "CCS Ltd",
+        "id": "1241909999",
+        "name": "WorkOutDoors",
+        "releaseDate": "2017-07-13",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/6e/51/4d6e5100-2cc9-d2c9-fbed-9cbc67ddd821/AppIcon-0-0-1x_U007emarketing-0-6-0-0-GLES2_U002c0-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6013",
+            "name": "Gesundheit und Fitness",
+            "url": "https://itunes.apple.com/de/genre/id6013"
+          },
+          {
+            "genreId": "6010",
+            "name": "Navigation",
+            "url": "https://itunes.apple.com/de/genre/id6010"
+          }
+        ],
+        "url": "https://apps.apple.com/de/app/workoutdoors/id1241909999"
+      },
+      {
+        "artistName": "Crunchy Bagel",
+        "id": "963034692",
+        "name": "Streaks",
+        "releaseDate": "2015-06-01",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/97/70/9c97702e-944a-f189-2dda-453ec55ce0c4/orange_normal-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6013",
+            "name": "Gesundheit und Fitness",
+            "url": "https://itunes.apple.com/de/genre/id6013"
+          },
+          {
+            "genreId": "6002",
+            "name": "Dienst­programme",
+            "url": "https://itunes.apple.com/de/genre/id6002"
+          }
+        ],
+        "url": "https://apps.apple.com/de/app/streaks/id963034692"
+      },
+      {
+        "artistName": "Food with love",
+        "id": "1496402756",
+        "name": "food with love: Rezepte",
+        "releaseDate": "2020-04-03",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/17/17/c41717dd-c990-93a7-6ed4-b73a1a9a8c56/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6023",
+            "name": "Essen und Trinken",
+            "url": "https://itunes.apple.com/de/genre/id6023"
+          },
+          {
+            "genreId": "6018",
+            "name": "Bücher",
+            "url": "https://itunes.apple.com/de/genre/id6018"
+          }
+        ],
+        "url": "https://apps.apple.com/de/app/food-with-love-rezepte/id1496402756"
       },
       {
         "artistName": "SmashMelon LLC",
@@ -522,27 +564,6 @@
         "url": "https://apps.apple.com/de/app/better-st-for-bose-soundtouch/id6757758923"
       },
       {
-        "artistName": "CCS Ltd",
-        "id": "1241909999",
-        "name": "WorkOutDoors",
-        "releaseDate": "2017-07-13",
-        "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/6e/51/4d6e5100-2cc9-d2c9-fbed-9cbc67ddd821/AppIcon-0-0-1x_U007emarketing-0-6-0-0-GLES2_U002c0-85-220.png/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "6013",
-            "name": "Gesundheit und Fitness",
-            "url": "https://itunes.apple.com/de/genre/id6013"
-          },
-          {
-            "genreId": "6010",
-            "name": "Navigation",
-            "url": "https://itunes.apple.com/de/genre/id6010"
-          }
-        ],
-        "url": "https://apps.apple.com/de/app/workoutdoors/id1241909999"
-      },
-      {
         "artistName": "Christian Harms",
         "id": "1052863684",
         "name": "Controller für Bose SoundTouch",
@@ -562,111 +583,6 @@
           }
         ],
         "url": "https://apps.apple.com/de/app/controller-f%C3%BCr-bose-soundtouch/id1052863684"
-      },
-      {
-        "artistName": "Toni Dominik Hoffmann",
-        "id": "1579524063",
-        "name": "Curve Tracker fürs Motorrad",
-        "releaseDate": "2021-08-05",
-        "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/2c/84/bc2c84e4-2337-c341-ec9d-b72032deee3d/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "6010",
-            "name": "Navigation",
-            "url": "https://itunes.apple.com/de/genre/id6010"
-          },
-          {
-            "genreId": "6003",
-            "name": "Reisen",
-            "url": "https://itunes.apple.com/de/genre/id6003"
-          }
-        ],
-        "url": "https://apps.apple.com/de/app/curve-tracker-f%C3%BCrs-motorrad/id1579524063"
-      },
-      {
-        "artistName": "Food with love",
-        "id": "1496402756",
-        "name": "food with love: Rezepte",
-        "releaseDate": "2020-04-03",
-        "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/17/17/c41717dd-c990-93a7-6ed4-b73a1a9a8c56/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "6023",
-            "name": "Essen und Trinken",
-            "url": "https://itunes.apple.com/de/genre/id6023"
-          },
-          {
-            "genreId": "6018",
-            "name": "Bücher",
-            "url": "https://itunes.apple.com/de/genre/id6018"
-          }
-        ],
-        "url": "https://apps.apple.com/de/app/food-with-love-rezepte/id1496402756"
-      },
-      {
-        "artistName": "Cultured Code GmbH & Co. KG",
-        "id": "904237743",
-        "name": "Things 3",
-        "releaseDate": "2017-05-18",
-        "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/0f/af/900faf7a-fddc-9cc4-602a-9e9e39bebc0c/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-85-220.png/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "6007",
-            "name": "Produktivität",
-            "url": "https://itunes.apple.com/de/genre/id6007"
-          },
-          {
-            "genreId": "6000",
-            "name": "Wirtschaft",
-            "url": "https://itunes.apple.com/de/genre/id6000"
-          }
-        ],
-        "url": "https://apps.apple.com/de/app/things-3/id904237743"
-      },
-      {
-        "artistName": "TeamSpeak Systems Inc",
-        "id": "577628510",
-        "name": "TeamSpeak 3",
-        "releaseDate": "2012-12-10",
-        "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/33/e9/9833e9ee-fb56-df24-0ec1-d7eb12308d05/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "6005",
-            "name": "Soziale Netze",
-            "url": "https://itunes.apple.com/de/genre/id6005"
-          },
-          {
-            "genreId": "6000",
-            "name": "Wirtschaft",
-            "url": "https://itunes.apple.com/de/genre/id6000"
-          }
-        ],
-        "url": "https://apps.apple.com/de/app/teamspeak-3/id577628510"
-      },
-      {
-        "artistName": "DIHK Bildungs GmbH",
-        "id": "1316073818",
-        "name": "IHK. 34a GewO",
-        "releaseDate": "2018-09-14",
-        "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/72/44/737244a2-d857-a552-c11c-98cffd324a7f/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "6017",
-            "name": "Bildung",
-            "url": "https://itunes.apple.com/de/genre/id6017"
-          },
-          {
-            "genreId": "6000",
-            "name": "Wirtschaft",
-            "url": "https://itunes.apple.com/de/genre/id6000"
-          }
-        ],
-        "url": "https://apps.apple.com/de/app/ihk-34a-gewo/id1316073818"
       },
       {
         "artistName": "Tantsissa",
@@ -711,12 +627,12 @@
         "url": "https://apps.apple.com/de/app/wikicamps-australia/id505365608"
       },
       {
-        "artistName": "gibgas medien",
-        "id": "922443794",
-        "name": "gibgas CNG-App",
-        "releaseDate": "2014-10-31",
+        "artistName": "Toni Dominik Hoffmann",
+        "id": "1579524063",
+        "name": "Curve Tracker fürs Motorrad",
+        "releaseDate": "2021-08-05",
         "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/61/18/dc/6118dc17-5561-f3c2-3e02-39e4c97febe8/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/100x100bb.png",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/2c/84/bc2c84e4-2337-c341-ec9d-b72032deee3d/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
         "genres": [
           {
             "genreId": "6010",
@@ -729,7 +645,7 @@
             "url": "https://itunes.apple.com/de/genre/id6003"
           }
         ],
-        "url": "https://apps.apple.com/de/app/gibgas-cng-app/id922443794"
+        "url": "https://apps.apple.com/de/app/curve-tracker-f%C3%BCrs-motorrad/id1579524063"
       },
       {
         "artistName": "Monash University",
@@ -769,6 +685,174 @@
         "url": "https://apps.apple.com/de/app/blueprint-4-track/id6777792345"
       },
       {
+        "artistName": "Cultured Code GmbH & Co. KG",
+        "id": "904237743",
+        "name": "Things 3",
+        "releaseDate": "2017-05-18",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/0f/af/900faf7a-fddc-9cc4-602a-9e9e39bebc0c/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6007",
+            "name": "Produktivität",
+            "url": "https://itunes.apple.com/de/genre/id6007"
+          },
+          {
+            "genreId": "6000",
+            "name": "Wirtschaft",
+            "url": "https://itunes.apple.com/de/genre/id6000"
+          }
+        ],
+        "url": "https://apps.apple.com/de/app/things-3/id904237743"
+      },
+      {
+        "artistName": "TeamSpeak Systems Inc",
+        "id": "577628510",
+        "name": "TeamSpeak 3",
+        "releaseDate": "2012-12-10",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/33/e9/9833e9ee-fb56-df24-0ec1-d7eb12308d05/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6005",
+            "name": "Soziale Netze",
+            "url": "https://itunes.apple.com/de/genre/id6005"
+          },
+          {
+            "genreId": "6000",
+            "name": "Wirtschaft",
+            "url": "https://itunes.apple.com/de/genre/id6000"
+          }
+        ],
+        "url": "https://apps.apple.com/de/app/teamspeak-3/id577628510"
+      },
+      {
+        "artistName": "Kaylee Calderolla",
+        "id": "1662217862",
+        "name": "Wipr 2",
+        "releaseDate": "2024-11-12",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/05/fd/ef05fd2a-5bf4-2d5f-7a22-f5c6e129bbc8/AppIcon-0-0-1x_U007epad-0-0-0-1-0-sRGB-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6002",
+            "name": "Dienst­programme",
+            "url": "https://itunes.apple.com/de/genre/id6002"
+          },
+          {
+            "genreId": "6007",
+            "name": "Produktivität",
+            "url": "https://itunes.apple.com/de/genre/id6007"
+          }
+        ],
+        "url": "https://apps.apple.com/de/app/wipr-2/id1662217862"
+      },
+      {
+        "artistName": "DIHK Bildungs GmbH",
+        "id": "1316073818",
+        "name": "IHK. 34a GewO",
+        "releaseDate": "2018-09-14",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/72/44/737244a2-d857-a552-c11c-98cffd324a7f/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6017",
+            "name": "Bildung",
+            "url": "https://itunes.apple.com/de/genre/id6017"
+          },
+          {
+            "genreId": "6000",
+            "name": "Wirtschaft",
+            "url": "https://itunes.apple.com/de/genre/id6000"
+          }
+        ],
+        "url": "https://apps.apple.com/de/app/ihk-34a-gewo/id1316073818"
+      },
+      {
+        "artistName": "Aleksei Savin",
+        "id": "892347083",
+        "name": "FORScan Lite - for Ford, Mazda",
+        "releaseDate": "2014-11-02",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/4b/59/054b5916-9ac4-578e-f0b7-06730ecf0e83/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6002",
+            "name": "Dienst­programme",
+            "url": "https://itunes.apple.com/de/genre/id6002"
+          },
+          {
+            "genreId": "6007",
+            "name": "Produktivität",
+            "url": "https://itunes.apple.com/de/genre/id6007"
+          }
+        ],
+        "url": "https://apps.apple.com/de/app/forscan-lite-for-ford-mazda/id892347083"
+      },
+      {
+        "artistName": "Visual Vertigo Software Technologies GmbH",
+        "id": "1140451547",
+        "name": "Shot Tracer",
+        "releaseDate": "2016-09-11",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/31/91/8831917d-23aa-48a7-5262-e17a1df5a793/AppIcon_ShotTracer-0-0-1x_U007epad-0-1-0-85-220.jpeg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6004",
+            "name": "Sport",
+            "url": "https://itunes.apple.com/de/genre/id6004"
+          },
+          {
+            "genreId": "6008",
+            "name": "Foto und Video",
+            "url": "https://itunes.apple.com/de/genre/id6008"
+          }
+        ],
+        "url": "https://apps.apple.com/de/app/shot-tracer/id1140451547"
+      },
+      {
+        "artistName": "gibgas medien",
+        "id": "922443794",
+        "name": "gibgas CNG-App",
+        "releaseDate": "2014-10-31",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/61/18/dc/6118dc17-5561-f3c2-3e02-39e4c97febe8/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6010",
+            "name": "Navigation",
+            "url": "https://itunes.apple.com/de/genre/id6010"
+          },
+          {
+            "genreId": "6003",
+            "name": "Reisen",
+            "url": "https://itunes.apple.com/de/genre/id6003"
+          }
+        ],
+        "url": "https://apps.apple.com/de/app/gibgas-cng-app/id922443794"
+      },
+      {
+        "artistName": "Tobias Bechtold",
+        "id": "6757768955",
+        "name": "Intake: Kalorienzähler & Diät",
+        "releaseDate": "2026-01-20",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/dd/5b/bcdd5bc3-6d93-2d4b-29df-c90981e0724b/intake-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6013",
+            "name": "Gesundheit und Fitness",
+            "url": "https://itunes.apple.com/de/genre/id6013"
+          },
+          {
+            "genreId": "6023",
+            "name": "Essen und Trinken",
+            "url": "https://itunes.apple.com/de/genre/id6023"
+          }
+        ],
+        "url": "https://apps.apple.com/de/app/intake-kalorienz%C3%A4hler-di%C3%A4t/id6757768955"
+      },
+      {
         "artistName": "Visible Body Apps",
         "id": "1117998129",
         "name": "Atlas der Humananatomie 2026",
@@ -790,6 +874,22 @@
         "url": "https://apps.apple.com/de/app/atlas-der-humananatomie-2026/id1117998129"
       },
       {
+        "artistName": "Hindsight Labs LLC",
+        "id": "1303222868",
+        "name": "Paprika Rezept-Manager 3",
+        "releaseDate": "2017-11-15",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/d6/97/aad69734-b8e6-9cbe-77bd-98ce50bf5841/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6023",
+            "name": "Essen und Trinken",
+            "url": "https://itunes.apple.com/de/genre/id6023"
+          }
+        ],
+        "url": "https://apps.apple.com/de/app/paprika-rezept-manager-3/id1303222868"
+      },
+      {
         "artistName": "D&M Holdings",
         "id": "1210584625",
         "name": "Audyssey MultEQ Editor app",
@@ -809,6 +909,43 @@
           }
         ],
         "url": "https://apps.apple.com/de/app/audyssey-multeq-editor-app/id1210584625"
+      },
+      {
+        "artistName": "JRustonApps B.V.",
+        "id": "1175031995",
+        "name": "Mein Blitz-Tracker Pro",
+        "releaseDate": "2016-11-16",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/11/d8/8611d873-d49d-9c24-ecfb-a830de226ae5/AppIcon-2-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6001",
+            "name": "Wetter",
+            "url": "https://itunes.apple.com/de/genre/id6001"
+          },
+          {
+            "genreId": "6003",
+            "name": "Reisen",
+            "url": "https://itunes.apple.com/de/genre/id6003"
+          }
+        ],
+        "url": "https://apps.apple.com/de/app/mein-blitz-tracker-pro/id1175031995"
+      },
+      {
+        "artistName": "Seungyun Kim",
+        "id": "6763737180",
+        "name": "YoungPhoto - Aesthetic Camera",
+        "releaseDate": "2026-06-26",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/b4/fa/f8b4fae0-6960-559a-2deb-f545aeae2d59/Ophoto-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6008",
+            "name": "Foto und Video",
+            "url": "https://itunes.apple.com/de/genre/id6008"
+          }
+        ],
+        "url": "https://apps.apple.com/de/app/youngphoto-aesthetic-camera/id6763737180"
       },
       {
         "artistName": "Florian Chrometz",
@@ -846,27 +983,6 @@
           }
         ],
         "url": "https://apps.apple.com/de/app/groundwire-voip-sip-softphone/id378503081"
-      },
-      {
-        "artistName": "Kaylee Calderolla",
-        "id": "1662217862",
-        "name": "Wipr 2",
-        "releaseDate": "2024-11-12",
-        "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/05/fd/ef05fd2a-5bf4-2d5f-7a22-f5c6e129bbc8/AppIcon-0-0-1x_U007epad-0-0-0-1-0-sRGB-85-220.png/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "6002",
-            "name": "Dienst­programme",
-            "url": "https://itunes.apple.com/de/genre/id6002"
-          },
-          {
-            "genreId": "6007",
-            "name": "Produktivität",
-            "url": "https://itunes.apple.com/de/genre/id6007"
-          }
-        ],
-        "url": "https://apps.apple.com/de/app/wipr-2/id1662217862"
       },
       {
         "artistName": "Valnova",
@@ -911,12 +1027,12 @@
         "url": "https://apps.apple.com/de/app/koala-sampler-beat-maker/id1449584007"
       },
       {
-        "artistName": "Aleksei Savin",
-        "id": "892347083",
-        "name": "FORScan Lite - for Ford, Mazda",
-        "releaseDate": "2014-11-02",
+        "artistName": "Stefan Gohler",
+        "id": "639343132",
+        "name": "iConnectHue für Philips Hue",
+        "releaseDate": "2013-04-29",
         "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/4b/59/054b5916-9ac4-578e-f0b7-06730ecf0e83/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/100x100bb.png",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/c7/b7/a3c7b7eb-0dc7-0543-b65b-59ba429f7eb8/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/100x100bb.png",
         "genres": [
           {
             "genreId": "6002",
@@ -924,33 +1040,33 @@
             "url": "https://itunes.apple.com/de/genre/id6002"
           },
           {
-            "genreId": "6007",
-            "name": "Produktivität",
-            "url": "https://itunes.apple.com/de/genre/id6007"
+            "genreId": "6012",
+            "name": "Lifestyle",
+            "url": "https://itunes.apple.com/de/genre/id6012"
           }
         ],
-        "url": "https://apps.apple.com/de/app/forscan-lite-for-ford-mazda/id892347083"
+        "url": "https://apps.apple.com/de/app/iconnecthue-f%C3%BCr-philips-hue/id639343132"
       },
       {
-        "artistName": "Visual Vertigo Software Technologies GmbH",
-        "id": "1140451547",
-        "name": "Shot Tracer",
-        "releaseDate": "2016-09-11",
+        "artistName": "Cogitap Software",
+        "id": "357404131",
+        "name": "Slow Shutter Cam",
+        "releaseDate": "2010-02-23",
         "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/31/91/8831917d-23aa-48a7-5262-e17a1df5a793/AppIcon_ShotTracer-0-0-1x_U007epad-0-1-0-85-220.jpeg/100x100bb.png",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/67/b7/ac67b7ee-c27b-b6cd-d1f1-19cad428286f/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
         "genres": [
-          {
-            "genreId": "6004",
-            "name": "Sport",
-            "url": "https://itunes.apple.com/de/genre/id6004"
-          },
           {
             "genreId": "6008",
             "name": "Foto und Video",
             "url": "https://itunes.apple.com/de/genre/id6008"
+          },
+          {
+            "genreId": "6002",
+            "name": "Dienst­programme",
+            "url": "https://itunes.apple.com/de/genre/id6002"
           }
         ],
-        "url": "https://apps.apple.com/de/app/shot-tracer/id1140451547"
+        "url": "https://apps.apple.com/de/app/slow-shutter-cam/id357404131"
       },
       {
         "artistName": "Fahrschule.de Internetdienste GmbH",
@@ -1004,27 +1120,6 @@
           }
         ],
         "url": "https://apps.apple.com/de/app/ableton-note/id1633243177"
-      },
-      {
-        "artistName": "Tobias Bechtold",
-        "id": "6757768955",
-        "name": "Intake: Kalorienzähler & Diät",
-        "releaseDate": "2026-01-20",
-        "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/dd/5b/bcdd5bc3-6d93-2d4b-29df-c90981e0724b/intake-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "6013",
-            "name": "Gesundheit und Fitness",
-            "url": "https://itunes.apple.com/de/genre/id6013"
-          },
-          {
-            "genreId": "6023",
-            "name": "Essen und Trinken",
-            "url": "https://itunes.apple.com/de/genre/id6023"
-          }
-        ],
-        "url": "https://apps.apple.com/de/app/intake-kalorienz%C3%A4hler-di%C3%A4t/id6757768955"
       },
       {
         "artistName": "Der App-Verlag GmbH",
@@ -1132,41 +1227,46 @@
         "url": "https://apps.apple.com/de/app/lumafusion/id1062022008"
       },
       {
-        "artistName": "Hindsight Labs LLC",
-        "id": "1303222868",
-        "name": "Paprika Rezept-Manager 3",
-        "releaseDate": "2017-11-15",
+        "artistName": "Tinkerworks Apps",
+        "id": "730712409",
+        "name": "ProCam - Pro-Kamera",
+        "releaseDate": "2013-10-30",
         "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/d6/97/aad69734-b8e6-9cbe-77bd-98ce50bf5841/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/c3/2d/e4c32d7f-b5c0-1041-7746-b6d8c43a07e9/AppIcon-2-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
         "genres": [
           {
-            "genreId": "6023",
-            "name": "Essen und Trinken",
-            "url": "https://itunes.apple.com/de/genre/id6023"
-          }
-        ],
-        "url": "https://apps.apple.com/de/app/paprika-rezept-manager-3/id1303222868"
-      },
-      {
-        "artistName": "JRustonApps B.V.",
-        "id": "1175031995",
-        "name": "Mein Blitz-Tracker Pro",
-        "releaseDate": "2016-11-16",
-        "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/11/d8/8611d873-d49d-9c24-ecfb-a830de226ae5/AppIcon-2-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "6001",
-            "name": "Wetter",
-            "url": "https://itunes.apple.com/de/genre/id6001"
+            "genreId": "6008",
+            "name": "Foto und Video",
+            "url": "https://itunes.apple.com/de/genre/id6008"
           },
           {
-            "genreId": "6003",
-            "name": "Reisen",
-            "url": "https://itunes.apple.com/de/genre/id6003"
+            "genreId": "6012",
+            "name": "Lifestyle",
+            "url": "https://itunes.apple.com/de/genre/id6012"
           }
         ],
-        "url": "https://apps.apple.com/de/app/mein-blitz-tracker-pro/id1175031995"
+        "url": "https://apps.apple.com/de/app/procam-pro-kamera/id730712409"
+      },
+      {
+        "artistName": "Jeffrey Friesen",
+        "id": "1605488891",
+        "name": "VESC Tool",
+        "releaseDate": "2022-03-30",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/d2/1e/eed21e42-7df1-2885-5550-fcd5859ddd7b/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6002",
+            "name": "Dienst­programme",
+            "url": "https://itunes.apple.com/de/genre/id6002"
+          },
+          {
+            "genreId": "6026",
+            "name": "Entwickler-Tools",
+            "url": "https://itunes.apple.com/de/genre/id6026"
+          }
+        ],
+        "url": "https://apps.apple.com/de/app/vesc-tool/id1605488891"
       },
       {
         "artistName": "Markus Schlegel",
@@ -1183,22 +1283,6 @@
           }
         ],
         "url": "https://apps.apple.com/de/app/emaxmobileapp/id1460664010"
-      },
-      {
-        "artistName": "Seungyun Kim",
-        "id": "6763737180",
-        "name": "YoungPhoto - Aesthetic Camera",
-        "releaseDate": "2026-06-26",
-        "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/b4/fa/f8b4fae0-6960-559a-2deb-f545aeae2d59/Ophoto-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "6008",
-            "name": "Foto und Video",
-            "url": "https://itunes.apple.com/de/genre/id6008"
-          }
-        ],
-        "url": "https://apps.apple.com/de/app/youngphoto-aesthetic-camera/id6763737180"
       },
       {
         "artistName": "RTD",
@@ -1220,6 +1304,48 @@
           }
         ],
         "url": "https://apps.apple.com/de/app/nightcap-kamera/id754105884"
+      },
+      {
+        "artistName": "CH-Software",
+        "id": "327754661",
+        "name": "RegenVorschau Pro",
+        "releaseDate": "2009-08-29",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/86/69/e7/8669e71f-e9c6-d072-bc3d-5333f70f3915/AppIconPro-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6001",
+            "name": "Wetter",
+            "url": "https://itunes.apple.com/de/genre/id6001"
+          },
+          {
+            "genreId": "6002",
+            "name": "Dienst­programme",
+            "url": "https://itunes.apple.com/de/genre/id6002"
+          }
+        ],
+        "url": "https://apps.apple.com/de/app/regenvorschau-pro/id327754661"
+      },
+      {
+        "artistName": "iVerify",
+        "id": "1466120520",
+        "name": "iVerify Basic",
+        "releaseDate": "2019-11-08",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/2a/68/e42a6841-cdf4-39f9-966e-afbd52eda459/IvyRelease-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6002",
+            "name": "Dienst­programme",
+            "url": "https://itunes.apple.com/de/genre/id6002"
+          },
+          {
+            "genreId": "6007",
+            "name": "Produktivität",
+            "url": "https://itunes.apple.com/de/genre/id6007"
+          }
+        ],
+        "url": "https://apps.apple.com/de/app/iverify-basic/id1466120520"
       },
       {
         "artistName": "Roberto Viola",
@@ -1301,6 +1427,27 @@
         "url": "https://apps.apple.com/de/app/blower/id335862325"
       },
       {
+        "artistName": "appdoctors UG",
+        "id": "384086202",
+        "name": "Seewetter Pro",
+        "releaseDate": "2010-08-03",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/70/a7/65/70a76521-597d-1783-2979-e87033ca62b7/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6001",
+            "name": "Wetter",
+            "url": "https://itunes.apple.com/de/genre/id6001"
+          },
+          {
+            "genreId": "6017",
+            "name": "Bildung",
+            "url": "https://itunes.apple.com/de/genre/id6017"
+          }
+        ],
+        "url": "https://apps.apple.com/de/app/seewetter-pro/id384086202"
+      },
+      {
         "artistName": "droidvision",
         "id": "6443923265",
         "name": "GSE SMART IPTV PRO",
@@ -1320,6 +1467,27 @@
           }
         ],
         "url": "https://apps.apple.com/de/app/gse-smart-iptv-pro/id6443923265"
+      },
+      {
+        "artistName": "David Ryall",
+        "id": "1020967894",
+        "name": "GPS Diagnostic: Satellite Test",
+        "releaseDate": "2015-09-10",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/28/5a/48/285a4871-256f-64ac-75c5-519977a7b0ed/AppIcon-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6010",
+            "name": "Navigation",
+            "url": "https://itunes.apple.com/de/genre/id6010"
+          },
+          {
+            "genreId": "6002",
+            "name": "Dienst­programme",
+            "url": "https://itunes.apple.com/de/genre/id6002"
+          }
+        ],
+        "url": "https://apps.apple.com/de/app/gps-diagnostic-satellite-test/id1020967894"
       },
       {
         "artistName": "Nynix",
@@ -1343,38 +1511,80 @@
         "url": "https://apps.apple.com/de/app/knoten-3d-knots-3d/id453571750"
       },
       {
-        "artistName": "Stefan Gohler",
-        "id": "639343132",
-        "name": "iConnectHue für Philips Hue",
-        "releaseDate": "2013-04-29",
+        "artistName": "Frank Guchelaar",
+        "id": "531809006",
+        "name": "Stell die Uhr",
+        "releaseDate": "2012-06-10",
         "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/c7/b7/a3c7b7eb-0dc7-0543-b65b-59ba429f7eb8/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/100x100bb.png",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/f8/35/8af83564-8ebd-d84e-1daf-cc5c3d79de28/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/100x100bb.png",
         "genres": [
           {
-            "genreId": "6002",
-            "name": "Dienst­programme",
-            "url": "https://itunes.apple.com/de/genre/id6002"
+            "genreId": "6017",
+            "name": "Bildung",
+            "url": "https://itunes.apple.com/de/genre/id6017"
           },
           {
-            "genreId": "6012",
-            "name": "Lifestyle",
-            "url": "https://itunes.apple.com/de/genre/id6012"
+            "genreId": "6014",
+            "name": "Spiele",
+            "url": "https://itunes.apple.com/de/genre/id6014"
+          },
+          {
+            "genreId": "7009",
+            "name": "Familie",
+            "url": "https://itunes.apple.com/de/genre/id7009"
           }
         ],
-        "url": "https://apps.apple.com/de/app/iconnecthue-f%C3%BCr-philips-hue/id639343132"
+        "url": "https://apps.apple.com/de/app/stell-die-uhr/id531809006"
       },
       {
-        "artistName": "Cogitap Software",
-        "id": "357404131",
-        "name": "Slow Shutter Cam",
-        "releaseDate": "2010-02-23",
+        "artistName": "RT Sixty Ltd",
+        "id": "1234266367",
+        "name": "Drum Tuner - iDrumTune Pro",
+        "releaseDate": "2017-05-31",
         "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/67/b7/ac67b7ee-c27b-b6cd-d1f1-19cad428286f/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/59/01/f4590140-e7f5-e11c-0c29-162f9e1bfd9a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6011",
+            "name": "Musik",
+            "url": "https://itunes.apple.com/de/genre/id6011"
+          },
+          {
+            "genreId": "6017",
+            "name": "Bildung",
+            "url": "https://itunes.apple.com/de/genre/id6017"
+          }
+        ],
+        "url": "https://apps.apple.com/de/app/drum-tuner-idrumtune-pro/id1234266367"
+      },
+      {
+        "artistName": "Photomyne LTD",
+        "id": "951627022",
+        "name": "Fotoscanner Plus",
+        "releaseDate": "2015-03-10",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/a9/2c/caa92c17-f112-c4f3-3467-b0678c9fce88/AppIcon-0-0-1x_U007emarketing-0-7-85-220.png/100x100bb.png",
         "genres": [
           {
             "genreId": "6008",
             "name": "Foto und Video",
             "url": "https://itunes.apple.com/de/genre/id6008"
+          }
+        ],
+        "url": "https://apps.apple.com/de/app/fotoscanner-plus/id951627022"
+      },
+      {
+        "artistName": "OCTech, LLC",
+        "id": "650684932",
+        "name": "OBD Fusion",
+        "releaseDate": "2013-06-02",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/81/e0/4081e083-102c-6cbf-1cd0-7a7e4a1d0279/appicon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6003",
+            "name": "Reisen",
+            "url": "https://itunes.apple.com/de/genre/id6003"
           },
           {
             "genreId": "6002",
@@ -1382,7 +1592,7 @@
             "url": "https://itunes.apple.com/de/genre/id6002"
           }
         ],
-        "url": "https://apps.apple.com/de/app/slow-shutter-cam/id357404131"
+        "url": "https://apps.apple.com/de/app/obd-fusion/id650684932"
       },
       {
         "artistName": "Skyjos Co., Ltd.",
@@ -1406,6 +1616,27 @@
         "url": "https://apps.apple.com/de/app/fe-file-explorer-pro/id499470113"
       },
       {
+        "artistName": "Neil Crutchlow",
+        "id": "1112916047",
+        "name": "CopperKnob",
+        "releaseDate": "2016-05-13",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/fb/38/97fb383f-c087-d439-abf7-0a393bb91dec/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6012",
+            "name": "Lifestyle",
+            "url": "https://itunes.apple.com/de/genre/id6012"
+          },
+          {
+            "genreId": "6006",
+            "name": "Nachschlagewerke",
+            "url": "https://itunes.apple.com/de/genre/id6006"
+          }
+        ],
+        "url": "https://apps.apple.com/de/app/copperknob/id1112916047"
+      },
+      {
         "artistName": "Adam Ratana",
         "id": "525176875",
         "name": "Sun Surveyor (Sonnenvermesser)",
@@ -1425,6 +1656,22 @@
           }
         ],
         "url": "https://apps.apple.com/de/app/sun-surveyor-sonnenvermesser/id525176875"
+      },
+      {
+        "artistName": "KOMPASS-NRW GmbH",
+        "id": "1543783818",
+        "name": "Sachkundeprüfung §34a GewO",
+        "releaseDate": "2021-02-03",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f3/df/4e/f3df4e7f-109f-3351-4430-8b4fc029e0cb/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6017",
+            "name": "Bildung",
+            "url": "https://itunes.apple.com/de/genre/id6017"
+          }
+        ],
+        "url": "https://apps.apple.com/de/app/sachkundepr%C3%BCfung-34a-gewo/id1543783818"
       },
       {
         "artistName": "Stefan Meyer",
@@ -1469,6 +1716,64 @@
         "url": "https://apps.apple.com/de/app/next-deck/id6752478755"
       },
       {
+        "artistName": "Wohnmobilland Schweiz",
+        "id": "1589449369",
+        "name": "Wohnmobilland",
+        "releaseDate": "2021-10-11",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/93/31/7f93314f-1426-6eab-bd21-86be8fd04d71/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6003",
+            "name": "Reisen",
+            "url": "https://itunes.apple.com/de/genre/id6003"
+          }
+        ],
+        "url": "https://apps.apple.com/de/app/wohnmobilland/id1589449369"
+      },
+      {
+        "artistName": "NatureGuides Ltd.",
+        "id": "868827305",
+        "name": "Der Kosmos Vogelführer",
+        "releaseDate": "2014-08-14",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/c0/da/ebc0da89-8dc4-67b0-c99e-dbe7603bf530/3rdEdition-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6006",
+            "name": "Nachschlagewerke",
+            "url": "https://itunes.apple.com/de/genre/id6006"
+          },
+          {
+            "genreId": "6018",
+            "name": "Bücher",
+            "url": "https://itunes.apple.com/de/genre/id6018"
+          }
+        ],
+        "url": "https://apps.apple.com/de/app/der-kosmos-vogelf%C3%BChrer/id868827305"
+      },
+      {
+        "artistName": "Lux Optics Incorporated",
+        "id": "6472380172",
+        "name": "Kino - Pro Videokamera",
+        "releaseDate": "2024-05-29",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/df/57/8ddf5799-ae9f-c92a-967d-70e14e36d4da/AppIcon-0-0-1x_U007ephone-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6008",
+            "name": "Foto und Video",
+            "url": "https://itunes.apple.com/de/genre/id6008"
+          },
+          {
+            "genreId": "6027",
+            "name": "Grafik und Design",
+            "url": "https://itunes.apple.com/de/genre/id6027"
+          }
+        ],
+        "url": "https://apps.apple.com/de/app/kino-pro-videokamera/id6472380172"
+      },
+      {
         "artistName": "Terminal Eleven LLC",
         "id": "404990064",
         "name": "SkyView®",
@@ -1490,25 +1795,51 @@
         "url": "https://apps.apple.com/de/app/skyview/id404990064"
       },
       {
-        "artistName": "Jeffrey Friesen",
-        "id": "1605488891",
-        "name": "VESC Tool",
-        "releaseDate": "2022-03-30",
+        "artistName": "Mario Herzberg",
+        "id": "1536343162",
+        "name": "Alkoholfrei - EasyQuit Pro",
+        "releaseDate": "2020-10-23",
         "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/d2/1e/eed21e42-7df1-2885-5550-fcd5859ddd7b/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/88/7f/56887fa7-fa1f-0d70-0077-47477242239f/AppIcon-Pro-1x_U007emarketing-0-7-0-0-85-220-0.png/100x100bb.png",
         "genres": [
           {
-            "genreId": "6002",
-            "name": "Dienst­programme",
-            "url": "https://itunes.apple.com/de/genre/id6002"
-          },
-          {
-            "genreId": "6026",
-            "name": "Entwickler-Tools",
-            "url": "https://itunes.apple.com/de/genre/id6026"
+            "genreId": "6013",
+            "name": "Gesundheit und Fitness",
+            "url": "https://itunes.apple.com/de/genre/id6013"
           }
         ],
-        "url": "https://apps.apple.com/de/app/vesc-tool/id1605488891"
+        "url": "https://apps.apple.com/de/app/alkoholfrei-easyquit-pro/id1536343162"
+      },
+      {
+        "artistName": "Carlsen Verlag GmbH",
+        "id": "1116692318",
+        "name": "Conni Uhrzeit",
+        "releaseDate": "2016-08-20",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/6e/d0/16/6ed01663-7aed-92b2-cc4c-0226436349a7/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6017",
+            "name": "Bildung",
+            "url": "https://itunes.apple.com/de/genre/id6017"
+          },
+          {
+            "genreId": "7009",
+            "name": "Familie",
+            "url": "https://itunes.apple.com/de/genre/id7009"
+          },
+          {
+            "genreId": "6014",
+            "name": "Spiele",
+            "url": "https://itunes.apple.com/de/genre/id6014"
+          },
+          {
+            "genreId": "7018",
+            "name": "Quiz- und Denkspiele",
+            "url": "https://itunes.apple.com/de/genre/id7018"
+          }
+        ],
+        "url": "https://apps.apple.com/de/app/conni-uhrzeit/id1116692318"
       },
       {
         "artistName": "Jeffrey Kuiken",
@@ -1530,6 +1861,27 @@
           }
         ],
         "url": "https://apps.apple.com/de/app/noir-dark-mode-for-safari/id1581140954"
+      },
+      {
+        "artistName": "Adguard Software Limited",
+        "id": "1126386264",
+        "name": "AdGuard Pro: Safari Ad Blocker",
+        "releaseDate": "2016-09-30",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/44/91/78449193-1f91-f42a-ab5c-dd7e3d16a75a/ProAppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6002",
+            "name": "Dienst­programme",
+            "url": "https://itunes.apple.com/de/genre/id6002"
+          },
+          {
+            "genreId": "6007",
+            "name": "Produktivität",
+            "url": "https://itunes.apple.com/de/genre/id6007"
+          }
+        ],
+        "url": "https://apps.apple.com/de/app/adguard-pro-safari-ad-blocker/id1126386264"
       },
       {
         "artistName": "entwicklungsschmiede UG & Co KG",
@@ -1572,348 +1924,6 @@
           }
         ],
         "url": "https://apps.apple.com/de/app/goblin-tools/id6449003064"
-      },
-      {
-        "artistName": "DevelopW LLC",
-        "id": "1489470545",
-        "name": "iFacialMocap",
-        "releaseDate": "2020-01-13",
-        "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/0a/77/9e0a7704-f57b-8d32-abde-701796bcbcb9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "6007",
-            "name": "Produktivität",
-            "url": "https://itunes.apple.com/de/genre/id6007"
-          },
-          {
-            "genreId": "6016",
-            "name": "Unterhaltung",
-            "url": "https://itunes.apple.com/de/genre/id6016"
-          }
-        ],
-        "url": "https://apps.apple.com/de/app/ifacialmocap/id1489470545"
-      },
-      {
-        "artistName": "Badoo Software Ltd",
-        "id": "403684733",
-        "name": "Badoo Premium",
-        "releaseDate": "2011-01-05",
-        "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/7c/9d/8c7c9de1-0f1f-0ea7-4460-7b9483895a7e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "6005",
-            "name": "Soziale Netze",
-            "url": "https://itunes.apple.com/de/genre/id6005"
-          },
-          {
-            "genreId": "6012",
-            "name": "Lifestyle",
-            "url": "https://itunes.apple.com/de/genre/id6012"
-          }
-        ],
-        "url": "https://apps.apple.com/de/app/badoo-premium/id403684733"
-      },
-      {
-        "artistName": "潮激 李",
-        "id": "1580768213",
-        "name": "iDOS 3",
-        "releaseDate": "2024-08-09",
-        "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/6c/c8/446cc81a-2b2d-d9d1-b6fe-85b471ec4a31/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "6002",
-            "name": "Dienst­programme",
-            "url": "https://itunes.apple.com/de/genre/id6002"
-          },
-          {
-            "genreId": "6017",
-            "name": "Bildung",
-            "url": "https://itunes.apple.com/de/genre/id6017"
-          }
-        ],
-        "url": "https://apps.apple.com/de/app/idos-3/id1580768213"
-      },
-      {
-        "artistName": "BARLAS DUMANLI",
-        "id": "6779937537",
-        "name": "Don't Sleep With The Fishes",
-        "releaseDate": "2026-06-30",
-        "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/58/f5/dd58f507-5adf-76ff-e1ec-e3634ed4bc4f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "6016",
-            "name": "Unterhaltung",
-            "url": "https://itunes.apple.com/de/genre/id6016"
-          }
-        ],
-        "url": "https://apps.apple.com/de/app/dont-sleep-with-the-fishes/id6779937537"
-      },
-      {
-        "artistName": "Yannick PLASSIARD",
-        "id": "6758660315",
-        "name": "aGram",
-        "releaseDate": "2026-04-09",
-        "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/1b/61/731b6125-4904-f5f3-cd50-d30d045fc3c4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "6005",
-            "name": "Soziale Netze",
-            "url": "https://itunes.apple.com/de/genre/id6005"
-          },
-          {
-            "genreId": "6002",
-            "name": "Dienst­programme",
-            "url": "https://itunes.apple.com/de/genre/id6002"
-          }
-        ],
-        "url": "https://apps.apple.com/de/app/agram/id6758660315"
-      },
-      {
-        "artistName": "Spiny Software Ltd",
-        "id": "983740897",
-        "name": "Zwitschomat - Vogelerkennung",
-        "releaseDate": "2015-05-04",
-        "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/db/43/47db4302-5371-6bab-75c1-77e92445600e/AppIcon-DE-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "6006",
-            "name": "Nachschlagewerke",
-            "url": "https://itunes.apple.com/de/genre/id6006"
-          },
-          {
-            "genreId": "6002",
-            "name": "Dienst­programme",
-            "url": "https://itunes.apple.com/de/genre/id6002"
-          }
-        ],
-        "url": "https://apps.apple.com/de/app/zwitschomat-vogelerkennung/id983740897"
-      },
-      {
-        "artistName": "appsolute GmbH",
-        "id": "311658127",
-        "name": "Radio - Receiver",
-        "releaseDate": "2009-04-16",
-        "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/0f/23/560f233d-6119-7de4-de31-924927021fa9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.jpeg/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "6016",
-            "name": "Unterhaltung",
-            "url": "https://itunes.apple.com/de/genre/id6016"
-          },
-          {
-            "genreId": "6011",
-            "name": "Musik",
-            "url": "https://itunes.apple.com/de/genre/id6011"
-          }
-        ],
-        "url": "https://apps.apple.com/de/app/radio-receiver/id311658127"
-      },
-      {
-        "artistName": "Zed Said Studio LLC",
-        "id": "645384141",
-        "name": "Cachly - Geocachen",
-        "releaseDate": "2015-12-11",
-        "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/ee/18/50ee184c-d9a7-52d2-be3f-16cf38405f82/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "6010",
-            "name": "Navigation",
-            "url": "https://itunes.apple.com/de/genre/id6010"
-          },
-          {
-            "genreId": "6016",
-            "name": "Unterhaltung",
-            "url": "https://itunes.apple.com/de/genre/id6016"
-          }
-        ],
-        "url": "https://apps.apple.com/de/app/cachly-geocachen/id645384141"
-      },
-      {
-        "artistName": "Verlag Friedrich Bischoff GmbH",
-        "id": "491916556",
-        "name": "NAK Gesangbuch",
-        "releaseDate": "2012-01-11",
-        "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a5/31/a9/a531a9fa-e4b4-43e3-a08f-415bfac0cd64/AppIcon-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "6011",
-            "name": "Musik",
-            "url": "https://itunes.apple.com/de/genre/id6011"
-          },
-          {
-            "genreId": "6018",
-            "name": "Bücher",
-            "url": "https://itunes.apple.com/de/genre/id6018"
-          }
-        ],
-        "url": "https://apps.apple.com/de/app/nak-gesangbuch/id491916556"
-      },
-      {
-        "artistName": "TonalEnergy, Inc",
-        "id": "497716362",
-        "name": "TonalEnergy Stimmgerät & Metro",
-        "releaseDate": "2012-02-18",
-        "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/41/4b/73414b5f-0ab4-eb76-b031-5226e38337de/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "6011",
-            "name": "Musik",
-            "url": "https://itunes.apple.com/de/genre/id6011"
-          },
-          {
-            "genreId": "6017",
-            "name": "Bildung",
-            "url": "https://itunes.apple.com/de/genre/id6017"
-          }
-        ],
-        "url": "https://apps.apple.com/de/app/tonalenergy-stimmger%C3%A4t-metro/id497716362"
-      },
-      {
-        "artistName": "Moment Inc.",
-        "id": "6748837351",
-        "name": "Moment Pro Camera II",
-        "releaseDate": "2025-11-14",
-        "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/55/2b/d8/552bd824-8f75-9e9b-434a-8b783f5a3a16/AppIcon-0-1x_U007ephone-0-1-85-220-0.png/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "6008",
-            "name": "Foto und Video",
-            "url": "https://itunes.apple.com/de/genre/id6008"
-          }
-        ],
-        "url": "https://apps.apple.com/de/app/moment-pro-camera-ii/id6748837351"
-      },
-      {
-        "artistName": "Onder Ozbek",
-        "id": "1517061932",
-        "name": "Sila Yolu Sevenler",
-        "releaseDate": "2020-06-10",
-        "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/63/14/eb631477-6bf9-a234-23e0-70960d0401d0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "6003",
-            "name": "Reisen",
-            "url": "https://itunes.apple.com/de/genre/id6003"
-          },
-          {
-            "genreId": "6010",
-            "name": "Navigation",
-            "url": "https://itunes.apple.com/de/genre/id6010"
-          }
-        ],
-        "url": "https://apps.apple.com/de/app/sila-yolu-sevenler/id1517061932"
-      },
-      {
-        "artistName": "Jaime Gil de Sagredo Luna",
-        "id": "1422489202",
-        "name": "ProBikeGarage: Bicycle tracker",
-        "releaseDate": "2019-03-29",
-        "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/ea/f3/34eaf34e-9cdd-26e3-e32b-c557e6e0aa87/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "6013",
-            "name": "Gesundheit und Fitness",
-            "url": "https://itunes.apple.com/de/genre/id6013"
-          },
-          {
-            "genreId": "6004",
-            "name": "Sport",
-            "url": "https://itunes.apple.com/de/genre/id6004"
-          }
-        ],
-        "url": "https://apps.apple.com/de/app/probikegarage-bicycle-tracker/id1422489202"
-      },
-      {
-        "artistName": "Sebastian Mikolai",
-        "id": "1049049299",
-        "name": "Noten Lesen - schneller lesen",
-        "releaseDate": "2016-04-15",
-        "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/a4/96/36a496c1-49af-0729-1c0e-ae9ed5f18673/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "6017",
-            "name": "Bildung",
-            "url": "https://itunes.apple.com/de/genre/id6017"
-          },
-          {
-            "genreId": "6011",
-            "name": "Musik",
-            "url": "https://itunes.apple.com/de/genre/id6011"
-          }
-        ],
-        "url": "https://apps.apple.com/de/app/noten-lesen-schneller-lesen/id1049049299"
-      },
-      {
-        "artistName": "CH-Software",
-        "id": "327754661",
-        "name": "RegenVorschau Pro",
-        "releaseDate": "2009-08-29",
-        "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/86/69/e7/8669e71f-e9c6-d072-bc3d-5333f70f3915/AppIconPro-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "6001",
-            "name": "Wetter",
-            "url": "https://itunes.apple.com/de/genre/id6001"
-          },
-          {
-            "genreId": "6002",
-            "name": "Dienst­programme",
-            "url": "https://itunes.apple.com/de/genre/id6002"
-          }
-        ],
-        "url": "https://apps.apple.com/de/app/regenvorschau-pro/id327754661"
-      },
-      {
-        "artistName": "Mario Herzberg",
-        "id": "1508108761",
-        "name": "Rauchen aufhören -EasyQuit Pro",
-        "releaseDate": "2020-04-18",
-        "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/86/1e/57861e02-7ba3-3c83-6bbf-922968f24a1c/AppIcon-Pro-1x_U007emarketing-0-7-0-0-85-220-0.png/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "6013",
-            "name": "Gesundheit und Fitness",
-            "url": "https://itunes.apple.com/de/genre/id6013"
-          }
-        ],
-        "url": "https://apps.apple.com/de/app/rauchen-aufh%C3%B6ren-easyquit-pro/id1508108761"
-      },
-      {
-        "artistName": "LiveBird Technologies Private Limited",
-        "id": "936694037",
-        "name": "Voice Recorder : Ton aufnehmen",
-        "releaseDate": "2014-11-20",
-        "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/2e/87/4c2e87e8-ee2c-9d5c-8b5e-8d603ddabce3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "6000",
-            "name": "Wirtschaft",
-            "url": "https://itunes.apple.com/de/genre/id6000"
-          },
-          {
-            "genreId": "6007",
-            "name": "Produktivität",
-            "url": "https://itunes.apple.com/de/genre/id6007"
-          }
-        ],
-        "url": "https://apps.apple.com/de/app/voice-recorder-ton-aufnehmen/id936694037"
       }
     ]
   }
