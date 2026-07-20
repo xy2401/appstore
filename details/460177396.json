@@ -2,9 +2,7 @@
   "resultCount": 1,
   "results": [
     {
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/fe/fb/86fefbfe-29cb-5db8-372c-3b442a20eb50/TwitchAppIcon-0-0-1x_U007epad-0-1-0-0-0-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/fe/fb/86fefbfe-29cb-5db8-372c-3b442a20eb50/TwitchAppIcon-0-0-1x_U007epad-0-1-0-0-0-0-85-220.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/us/developer/twitch-interactive-inc/id358612219?uo=4",
+      "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
       ],
@@ -147,6 +145,9 @@
         "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References"
       ],
       "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/us/developer/twitch-interactive-inc/id358612219?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/fe/fb/86fefbfe-29cb-5db8-372c-3b442a20eb50/TwitchAppIcon-0-0-1x_U007epad-0-1-0-0-0-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/fe/fb/86fefbfe-29cb-5db8-372c-3b442a20eb50/TwitchAppIcon-0-0-1x_U007epad-0-1-0-0-0-0-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/23/48/80/234880cc-db04-7d86-a3d5-70a0b46d6896/37b30cee-8c44-4162-944b-4def125308cf_01-1242x2208.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/60/aa/4e/60aa4eec-76de-e4dd-77b6-390b4bd323f7/121623e7-1287-49f0-9ea7-068ffc760e1f_02-1242x2208.jpg/392x696bb.jpg",
@@ -158,13 +159,8 @@
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/fe/fb/86fefbfe-29cb-5db8-372c-3b442a20eb50/TwitchAppIcon-0-0-1x_U007epad-0-1-0-0-0-0-85-220.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
-      "averageUserRating": 4.72025,
-      "trackViewUrl": "https://apps.apple.com/us/app/twitch-live-streaming/id460177396?uo=4",
-      "contentAdvisoryRating": "12+",
-      "trackCensoredName": "Twitch: Live Streaming",
-      "currentVersionReleaseDate": "2026-07-13T16:40:24Z",
-      "releaseNotes": "Bug fixes, stability fixes, and app optimizations",
+      "bundleId": "tv.twitch",
+      "minimumOsVersion": "16.4",
       "artistId": 358612219,
       "artistName": "Twitch Interactive, Inc.",
       "genres": [
@@ -172,23 +168,22 @@
         "Social Networking"
       ],
       "price": 0,
-      "genreIds": [
-        "6008",
-        "6005"
-      ],
       "primaryGenreName": "Photo & Video",
       "primaryGenreId": 6008,
-      "trackName": "Twitch: Live Streaming",
-      "trackId": 460177396,
       "isVppDeviceBasedLicensingEnabled": true,
-      "sellerName": "Twitch Interactive, Inc.",
       "releaseDate": "2011-10-26T07:00:00Z",
+      "sellerName": "Twitch Interactive, Inc.",
+      "trackId": 460177396,
+      "trackName": "Twitch: Live Streaming",
+      "currentVersionReleaseDate": "2026-07-13T16:40:24Z",
       "version": "30.3",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Twitch is where thousands of communities come together for our favorite streamers, for the games we love, for the lulz, for each other, for whatever. Download Twitch and join millions enjoying live games, music, sports, esports, podcasts, cooking shows, IRL streams, and whatever else crosses our community’s wonderfully absurd minds. We’ll see you in chat.\n\nHere’s a convenient list of other awesome things about Twitch:\n\nEveryone is “about” community. We actually are one: Whatever you nerd out about, you can find your people on Twitch. \nGive support, get support: Find new streamers and subscribe to your favorites. Plus,  unlock exclusive perks for your support. \nStart your own channel: The Twitch app is one of the easiest ways to start streaming. Just create an account, go live directly from the app, and bring people together around whatever you’re passionate about. \nYou never know what you’ll find: Popular games are always live, but so are music festivals, rocket launches, street tours of Tokyo, and goat yoga. Yes, really. \nDark mode: Y’all love this one. Black and purple have never looked this good together.\n\nTwitch's Terms of Service are available at https://www.twitch.tv/p/legal/terms-of-service/\nFor feedback and assistance, please visit our Support Center: https://help.twitch.tv\n \nPlease note: This app features Nielsen’s proprietary measurement software which contributes to market research, like Nielsen’s TV Ratings. Please see http://priv-policy.imrworldwide.com/priv/mobile/us/en/optout.html for more information",
-      "bundleId": "tv.twitch",
-      "sellerUrl": "http://mobile.twitch.tv",
+      "averageUserRating": 4.72025,
+      "trackCensoredName": "Twitch: Live Streaming",
+      "trackViewUrl": "https://apps.apple.com/us/app/twitch-live-streaming/id460177396?uo=4",
+      "contentAdvisoryRating": "12+",
       "languageCodesISO2A": [
         "AR",
         "BG",
@@ -220,11 +215,16 @@
         "VI"
       ],
       "fileSizeBytes": "392459264",
+      "sellerUrl": "http://mobile.twitch.tv",
       "formattedPrice": "Free",
       "userRatingCountForCurrentVersion": 2758736,
       "trackContentRating": "12+",
-      "minimumOsVersion": "16.4",
       "averageUserRatingForCurrentVersion": 4.72025,
+      "releaseNotes": "Bug fixes, stability fixes, and app optimizations",
+      "genreIds": [
+        "6008",
+        "6005"
+      ],
       "userRatingCount": 2758736
     }
   ]

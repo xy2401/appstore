@@ -3,17 +3,7 @@
   "results": [
     {
       "isGameCenterEnabled": false,
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/cb/0e/90/cb0e9021-f65e-3ca6-08a7-5f9506644290/1d858927-7732-4b54-94c4-ed08489479d3__U30b9_U30de_U30db_U30b9_U30af_U30b7_U30e755_ja.png/392x696bb.png"
-      ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/8e/3c/1d/8e3c1d01-70ec-56b9-e1cb-288f0516e321/30bfd0fc-b814-40c7-b469-d091f29d4fe6_iPad_U30b9_U30af_U30b7_U30e72nd_ja.png/552x414bb.png"
-      ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/55/9e/c3/559ec31f-b38b-fc56-6018-26a4f46a34c7/AppIcon-1x_U007epad-85-220.png/512x512bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
+      "advisories": [],
       "supportedDevices": [
         "MacDesktop-MacDesktop",
         "iPhone5s-iPhone5s",
@@ -144,47 +134,57 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "advisories": [],
       "kind": "software",
       "artistViewUrl": "https://apps.apple.com/jp/developer/noze-inc/id1702645084?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/55/9e/c3/559ec31f-b38b-fc56-6018-26a4f46a34c7/AppIcon-1x_U007epad-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/55/9e/c3/559ec31f-b38b-fc56-6018-26a4f46a34c7/AppIcon-1x_U007epad-85-220.png/100x100bb.jpg",
-      "languageCodesISO2A": [
-        "EN",
-        "JA"
+      "features": [
+        "iosUniversal"
       ],
-      "fileSizeBytes": "877568",
-      "formattedPrice": "¥120",
-      "userRatingCountForCurrentVersion": 112,
-      "trackContentRating": "4+",
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/8e/3c/1d/8e3c1d01-70ec-56b9-e1cb-288f0516e321/30bfd0fc-b814-40c7-b469-d091f29d4fe6_iPad_U30b9_U30af_U30b7_U30e72nd_ja.png/552x414bb.png"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/55/9e/c3/559ec31f-b38b-fc56-6018-26a4f46a34c7/AppIcon-1x_U007epad-85-220.png/512x512bb.jpg",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/cb/0e/90/cb0e9021-f65e-3ca6-08a7-5f9506644290/1d858927-7732-4b54-94c4-ed08489479d3__U30b9_U30de_U30db_U30b9_U30af_U30b7_U30e755_ja.png/392x696bb.png"
+      ],
       "artistId": 1702645084,
       "artistName": "NOZE INC.",
       "genres": [
         "ユーティリティ"
       ],
       "price": 120,
-      "bundleId": "company.noze.Y-News-Excluder-for-Safari",
-      "releaseDate": "2023-08-21T07:00:00Z",
-      "trackId": 6461722709,
-      "trackName": "Y!News Excluder for Safari",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "NOZE INC.",
       "genreIds": [
         "6002"
       ],
       "primaryGenreName": "Utilities",
       "primaryGenreId": 6002,
-      "sellerName": "NOZE INC.",
-      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseDate": "2023-08-21T07:00:00Z",
+      "trackName": "Y!News Excluder for Safari",
+      "trackId": 6461722709,
       "currentVersionReleaseDate": "2023-08-21T10:33:49Z",
       "version": "1.0.0",
       "wrapperType": "software",
       "currency": "JPY",
       "description": "Yahoo!ニュースから指定ワードがタイトルに含まれる記事を除外する拡張機能です。\n改行区切りでキーワードを複数指定する事ができます。",
+      "bundleId": "company.noze.Y-News-Excluder-for-Safari",
       "trackCensoredName": "Y!News Excluder for Safari",
       "trackViewUrl": "https://apps.apple.com/jp/app/y-news-excluder-for-safari/id6461722709?uo=4",
-      "averageUserRating": 4.4375,
       "contentAdvisoryRating": "4+",
-      "minimumOsVersion": "15.0",
+      "averageUserRating": 4.4375,
+      "userRatingCountForCurrentVersion": 112,
+      "trackContentRating": "4+",
       "averageUserRatingForCurrentVersion": 4.4375,
+      "minimumOsVersion": "15.0",
+      "languageCodesISO2A": [
+        "EN",
+        "JA"
+      ],
+      "fileSizeBytes": "877568",
+      "formattedPrice": "¥120",
       "userRatingCount": 112
     }
   ]

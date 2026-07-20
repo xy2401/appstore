@@ -2,17 +2,10 @@
   "resultCount": 1,
   "results": [
     {
-      "screenshotUrls": [],
-      "ipadScreenshotUrls": [],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/f3/24/a5f32444-aff2-a0f7-023f-b977b41df4fb/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "isGameCenterEnabled": false,
       "artistViewUrl": "https://apps.apple.com/cn/developer/jan-biniok/id1482490088?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/f3/24/a5f32444-aff2-a0f7-023f-b977b41df4fb/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/f3/24/a5f32444-aff2-a0f7-023f-b977b41df4fb/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
       "supportedDevices": [
         "MacDesktop-MacDesktop",
         "iPhone5s-iPhone5s",
@@ -145,6 +138,38 @@
       ],
       "advisories": [],
       "kind": "software",
+      "screenshotUrls": [],
+      "ipadScreenshotUrls": [],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/f3/24/a5f32444-aff2-a0f7-023f-b977b41df4fb/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
+      "minimumOsVersion": "15.0",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 3.6789,
+      "trackCensoredName": "Tampermonkey",
+      "trackViewUrl": "https://apps.apple.com/cn/app/tampermonkey/id6738342400?uo=4",
+      "artistId": 1482490088,
+      "artistName": "Jan Biniok",
+      "trackId": 6738342400,
+      "trackName": "Tampermonkey",
+      "genreIds": [
+        "6007",
+        "6026"
+      ],
+      "releaseNotes": "常规\n将更新检查与实际更新流程解耦；可按需设置“自动安装”\n支持从弹出菜单启动带有 @run-at context-menu 的脚本\n减少了脚本更新时的桌面通知提醒数量\n优化了 GM_xmlhttpRequest 的性能\n改进了恢复出厂设置，现可清除更多已存储的数据\n新增 Amazon S3 作为用户脚本同步与导入的云存储后端\n\n界面\n为包含/排除规则编辑器新增排序功能\n新增复选框，可反转脚本搜索结果\n新增更多编辑器命令，方便在触摸设备上进行编辑\n脚本搜索新增正则表达式支持\n新增编辑器主题“Claude” | 感谢 coffeechococake7\n改进了所选脚本的标签编辑体验\n修正了 SVG 脚本图标的渲染问题\n\n本地化\n更新了繁体中文翻译 | 感谢 MaxHasBeenUsed\n更新了意大利语翻译 | 感谢 bovirus\n更新了葡萄牙语翻译 | 感谢 Blackspirits\n更新了越南语翻译 | 感谢 IoeCmcomc\n更新了日语翻译 | 感谢 shirayuki\n更新了白俄罗斯语翻译 | 感谢 Pavel Miniutka\n更新了希腊语翻译 | 感谢 panos78\n更新了西班牙语翻译 | 感谢 pepe1987\n更新了俄语翻译 | 感谢 Blueberryy",
+      "primaryGenreName": "Productivity",
+      "primaryGenreId": 6007,
+      "releaseDate": "2024-11-18T08:00:00Z",
+      "sellerName": "Jan Biniok",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-07-17T22:41:38Z",
+      "version": "5.6.6240",
+      "wrapperType": "software",
+      "currency": "CNY",
+      "description": "Tampermonkey 是一款广受欢迎的浏览器扩展，兼容所有主流浏览器。\n它允许您使用用户脚本——添加或修改功能的小型 JavaScript 程序——来自定义和增强网页。\n使用 Tampermonkey，您可以轻松地在任何网站上创建、管理和运行这些脚本。",
+      "averageUserRatingForCurrentVersion": 3.6789,
       "languageCodesISO2A": [
         "AR",
         "HR",
@@ -175,39 +200,14 @@
       ],
       "fileSizeBytes": "6958080",
       "formattedPrice": "¥15.00",
-      "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 3.6789,
       "userRatingCountForCurrentVersion": 109,
-      "averageUserRating": 3.6789,
-      "currentVersionReleaseDate": "2026-07-17T22:41:38Z",
-      "trackCensoredName": "Tampermonkey",
-      "trackViewUrl": "https://apps.apple.com/cn/app/tampermonkey/id6738342400?uo=4",
-      "contentAdvisoryRating": "4+",
-      "artistId": 1482490088,
-      "artistName": "Jan Biniok",
+      "trackContentRating": "4+",
+      "bundleId": "net.tampermonkey.SafariWebExt",
+      "price": 15,
       "genres": [
         "效率",
         "软件开发工具"
       ],
-      "releaseDate": "2024-11-18T08:00:00Z",
-      "bundleId": "net.tampermonkey.SafariWebExt",
-      "trackId": 6738342400,
-      "trackName": "Tampermonkey",
-      "primaryGenreName": "Productivity",
-      "primaryGenreId": 6007,
-      "genreIds": [
-        "6007",
-        "6026"
-      ],
-      "sellerName": "Jan Biniok",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "version": "5.6.6240",
-      "wrapperType": "software",
-      "currency": "CNY",
-      "description": "Tampermonkey 是一款广受欢迎的浏览器扩展，兼容所有主流浏览器。\n它允许您使用用户脚本——添加或修改功能的小型 JavaScript 程序——来自定义和增强网页。\n使用 Tampermonkey，您可以轻松地在任何网站上创建、管理和运行这些脚本。",
-      "minimumOsVersion": "15.0",
-      "releaseNotes": "常规\n将更新检查与实际更新流程解耦；可按需设置“自动安装”\n支持从弹出菜单启动带有 @run-at context-menu 的脚本\n减少了脚本更新时的桌面通知提醒数量\n优化了 GM_xmlhttpRequest 的性能\n改进了恢复出厂设置，现可清除更多已存储的数据\n新增 Amazon S3 作为用户脚本同步与导入的云存储后端\n\n界面\n为包含/排除规则编辑器新增排序功能\n新增复选框，可反转脚本搜索结果\n新增更多编辑器命令，方便在触摸设备上进行编辑\n脚本搜索新增正则表达式支持\n新增编辑器主题“Claude” | 感谢 coffeechococake7\n改进了所选脚本的标签编辑体验\n修正了 SVG 脚本图标的渲染问题\n\n本地化\n更新了繁体中文翻译 | 感谢 MaxHasBeenUsed\n更新了意大利语翻译 | 感谢 bovirus\n更新了葡萄牙语翻译 | 感谢 Blackspirits\n更新了越南语翻译 | 感谢 IoeCmcomc\n更新了日语翻译 | 感谢 shirayuki\n更新了白俄罗斯语翻译 | 感谢 Pavel Miniutka\n更新了希腊语翻译 | 感谢 panos78\n更新了西班牙语翻译 | 感谢 pepe1987\n更新了俄语翻译 | 感谢 Blueberryy",
-      "price": 15,
       "userRatingCount": 109
     }
   ]

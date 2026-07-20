@@ -2,6 +2,7 @@
   "resultCount": 1,
   "results": [
     {
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/5b/83/44/5b8344ad-dd28-d561-e76e-6254455a3550/pr_source.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c6/b2/d4/c6b2d4da-2a23-073e-0849-a859c1de4aed/pr_source.png/392x696bb.png",
@@ -24,12 +25,6 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/96/7e/73967e6d-3368-4f87-1ffa-a878582a8e98/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
-      "artistViewUrl": "https://apps.apple.com/us/developer/microsoft-corporation/id298856275?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/96/7e/73967e6d-3368-4f87-1ffa-a878582a8e98/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/96/7e/73967e6d-3368-4f87-1ffa-a878582a8e98/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
-      "advisories": [],
-      "kind": "software",
       "features": [
         "iosUniversal"
       ],
@@ -162,6 +157,14 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
+      "advisories": [],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/us/developer/microsoft-corporation/id298856275?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/96/7e/73967e6d-3368-4f87-1ffa-a878582a8e98/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/96/7e/73967e6d-3368-4f87-1ffa-a878582a8e98/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+      "averageUserRatingForCurrentVersion": 4.65222,
+      "formattedPrice": "Free",
+      "fileSizeBytes": "128886784",
       "sellerUrl": "http://go.microsoft.com/fwlink/?linkid=273865",
       "languageCodesISO2A": [
         "CS",
@@ -187,41 +190,38 @@
         "ZH",
         "TR"
       ],
-      "fileSizeBytes": "128886784",
-      "formattedPrice": "Free",
-      "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.65222,
       "userRatingCountForCurrentVersion": 703629,
-      "releaseNotes": "We’ve been improving the stability of the Company Portal. This helps keep your information safe and makes the app work more efficiently.",
-      "trackCensoredName": "Intune Company Portal",
-      "trackViewUrl": "https://apps.apple.com/us/app/intune-company-portal/id719171358?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.65222,
+      "trackContentRating": "4+",
+      "artistId": 298856275,
+      "artistName": "Microsoft Corporation",
       "genres": [
         "Business",
         "Productivity"
       ],
-      "artistName": "Microsoft Corporation",
-      "artistId": 298856275,
       "price": 0,
+      "bundleId": "com.microsoft.CompanyPortal",
       "primaryGenreName": "Business",
       "primaryGenreId": 6000,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "sellerName": "Microsoft Corporation",
+      "releaseDate": "2013-11-19T22:20:10Z",
       "genreIds": [
         "6000",
         "6007"
       ],
-      "releaseDate": "2013-11-19T22:20:10Z",
+      "trackId": 719171358,
+      "trackName": "Intune Company Portal",
+      "sellerName": "Microsoft Corporation",
+      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-07-08T14:40:58Z",
+      "releaseNotes": "We’ve been improving the stability of the Company Portal. This helps keep your information safe and makes the app work more efficiently.",
       "version": "5.2606.0",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Microsoft Intune helps organizations manage access to corporate apps, data, and resources. Company Portal is the app that lets you, as an employee of your company, securely access those resources.\n\nBefore you can use this app, make sure your IT admin has set up your work account. Your company must also have a subscription to Microsoft Intune.\n\nCompany Portal helps simplify the tasks you need to do for work: \n\n• Enroll your device to access corporate resources, including Office, email, and OneDrive for Business\n• Quickly reset the password to your work account if you should forget it\n• Find apps that will help you with your daily tasks as provided by your company\n• View and manage all your enrolled devices – and wipe them yourself if they get lost or stolen\n• Get help from your IT department with easy-to-find contact information\n\nA note about Intune: every organization has different access requirements, and will use Intune in ways that they determine will best manage their information. Some functionality might be unavailable in certain countries. If you have questions about how this app is being used within your organization, your company’s IT administrator should have those answers for you. Microsoft, your network provider, and your device’s manufacturer do not know how Intune will be used by your organization.",
+      "averageUserRating": 4.65222,
+      "trackCensoredName": "Intune Company Portal",
+      "trackViewUrl": "https://apps.apple.com/us/app/intune-company-portal/id719171358?uo=4",
+      "contentAdvisoryRating": "4+",
       "minimumOsVersion": "17.0",
-      "trackName": "Intune Company Portal",
-      "trackId": 719171358,
-      "bundleId": "com.microsoft.CompanyPortal",
       "userRatingCount": 703629
     }
   ]

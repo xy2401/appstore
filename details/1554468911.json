@@ -2,6 +2,11 @@
   "resultCount": 1,
   "results": [
     {
+      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -131,15 +136,10 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "isGameCenterEnabled": false,
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/gb/developer/stephen-cox/id593878439?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/bd/37/d9bd37a3-0559-0084-ed61-2ecc95f321cb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/bd/37/d9bd37a3-0559-0084-ed61-2ecc95f321cb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/gb/developer/stephen-cox/id593878439?uo=4",
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [],
-      "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/9e/62/ab/9e62abf0-fc50-b588-9ce3-7570ffdbf286/d3a7a319-c323-4679-a15b-394ce567dc32_iPhone_flat6.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/09/0d/a6/090da6ac-e9e6-172b-9c27-635d7e32d1f8/a3b0ec4e-6a78-4fb5-8c13-d596eba99aff_iPhone_flat7.png/392x696bb.png",
@@ -156,45 +156,45 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/bd/37/d9bd37a3-0559-0084-ed61-2ecc95f321cb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "releaseNotes": "Just some minor updates and tweaks for your enjoyment.\n1. Now you can review Bike and Brew venues in the same way as other categories, but only via the list view.\n2. User guide updated to inform users about the member code required for web functionality.\n3. Reset option added to the bottom of the list view for resetting the Bike and Brew Marked locations. Ready for next year when the event starts again.",
       "minimumOsVersion": "13.0",
-      "trackId": 1554468911,
-      "trackName": "U.K. Biker Cafes",
-      "averageUserRating": 4.71821,
-      "contentAdvisoryRating": "4+",
-      "trackCensoredName": "U.K. Biker Cafes",
-      "trackViewUrl": "https://apps.apple.com/gb/app/u-k-biker-cafes/id1554468911?uo=4",
-      "artistId": 593878439,
-      "artistName": "Stephen COX",
-      "genres": [
-        "Food & Drink",
-        "Navigation"
-      ],
-      "price": 2.99,
       "bundleId": "pocketsoftware.co.uk.biker",
-      "currentVersionReleaseDate": "2026-07-03T15:11:25Z",
-      "primaryGenreName": "Food & Drink",
-      "primaryGenreId": 6023,
       "genreIds": [
         "6023",
         "6010"
       ],
-      "sellerName": "Stephen COX",
+      "trackId": 1554468911,
+      "trackName": "U.K. Biker Cafes",
       "isVppDeviceBasedLicensingEnabled": true,
       "releaseDate": "2021-03-19T07:00:00Z",
-      "releaseNotes": "Just some minor updates and tweaks for your enjoyment.\n1. Now you can review Bike and Brew venues in the same way as other categories, but only via the list view.\n2. User guide updated to inform users about the member code required for web functionality.\n3. Reset option added to the bottom of the list view for resetting the Bike and Brew Marked locations. Ready for next year when the event starts again.",
+      "primaryGenreName": "Food & Drink",
+      "primaryGenreId": 6023,
+      "sellerName": "Stephen COX",
+      "currentVersionReleaseDate": "2026-07-03T15:11:25Z",
       "version": "1.22",
       "wrapperType": "software",
       "currency": "GBP",
       "description": "UK Biker Cafes is a location based app showing placemarks for Biker friendly cafes, pubs, & accommodation, with the ability to launch navigation apps of your choice to a selected item or search for a placemark in the list view. This is also the official app recommended by the Bike and Brew Passport event.",
+      "trackCensoredName": "U.K. Biker Cafes",
+      "trackViewUrl": "https://apps.apple.com/gb/app/u-k-biker-cafes/id1554468911?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.71821,
+      "userRatingCountForCurrentVersion": 1093,
       "averageUserRatingForCurrentVersion": 4.71821,
-      "sellerUrl": "https://ukbikercafes.co.uk",
       "languageCodesISO2A": [
         "EN"
       ],
       "fileSizeBytes": "4957184",
       "formattedPrice": "£2.99",
       "trackContentRating": "4+",
-      "userRatingCountForCurrentVersion": 1093,
+      "sellerUrl": "https://ukbikercafes.co.uk",
+      "genres": [
+        "Food & Drink",
+        "Navigation"
+      ],
+      "price": 2.99,
+      "artistId": 593878439,
+      "artistName": "Stephen COX",
       "userRatingCount": 1093
     }
   ]

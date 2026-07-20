@@ -3,6 +3,9 @@
   "results": [
     {
       "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -138,9 +141,6 @@
         "Infrequent/Mild Medical/Treatment Information"
       ],
       "kind": "software",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/04/ae/5604ae0d-a879-4686-daeb-444fa0c9e833/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/04/ae/5604ae0d-a879-4686-daeb-444fa0c9e833/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/us/developer/perplexity-ai-inc/id1668000336?uo=4",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ba/a4/7b/baa47bf2-9eba-676b-9316-8baec0dd0d30/ec6f3df2-07ef-4e83-a061-c1dee5d5b200_5.5_inch_iphone_01.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c9/08/ce/c908ce80-b33a-1f52-97a1-ac6fde4a79f0/5e85343a-7a8d-4f64-a0cb-68cb84ccbf7d_5.5_inch_iphone_02.png/392x696bb.png",
@@ -162,34 +162,37 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/04/ae/5604ae0d-a879-4686-daeb-444fa0c9e833/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
+      "artistViewUrl": "https://apps.apple.com/us/developer/perplexity-ai-inc/id1668000336?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/04/ae/5604ae0d-a879-4686-daeb-444fa0c9e833/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/04/ae/5604ae0d-a879-4686-daeb-444fa0c9e833/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.jpg",
+      "userRatingCountForCurrentVersion": 487555,
       "minimumOsVersion": "18.0",
-      "currentVersionReleaseDate": "2026-07-18T02:18:27Z",
+      "artistId": 1668000336,
+      "artistName": "Perplexity AI, Inc.",
+      "genres": [
+        "Productivity",
+        "Utilities"
+      ],
       "price": 0,
-      "releaseNotes": "Bug fixes and improvements",
-      "releaseDate": "2023-03-27T07:00:00Z",
+      "bundleId": "ai.perplexity.app",
       "genreIds": [
         "6007",
         "6002"
       ],
       "primaryGenreName": "Productivity",
       "primaryGenreId": 6007,
-      "sellerName": "Perplexity AI Inc.",
       "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "Perplexity AI Inc.",
+      "releaseDate": "2023-03-27T07:00:00Z",
+      "trackId": 1668000334,
+      "trackName": "Perplexity - AI Search & Chat",
+      "currentVersionReleaseDate": "2026-07-18T02:18:27Z",
+      "releaseNotes": "Bug fixes and improvements",
       "version": "26.28.1",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Perplexity—Where Knowledge Begins. Accurate answers to any question, backed by sources and citations. \n\nCut through the clutter and get straight to credible, up-to-date answers. This free app syncs across devices and leverages the power of the top AI models from OpenAI, Anthropic, Meta, and more. \n\nFeatures:\n\n· Perplexity Pro Search & Deep Research: Guided AI search for deeper exploration.\n\n· Thread Follow-Ups: Keep the conversation going for a deeper understanding.\n\n· Assistant: Draft emails, schedule appointments, book reservations, and more. \n\n· Perplexity Labs: Bring your reports and projects to life faster than ever before.\n\n· Voice: Instant, up-to-date answers whether you type or say it. \n\n· Trust Built In: Cited sources for every answer.\n\n· Discover: Learn new things from the community.\n\n· Your Library: More than search history, it's a curation of your discoveries.\n\nDownload Perplexity now and continue your journey to better knowledge and understanding.\n\nIn-app Subscriptions:\n\nIf you decide to subscribe to Perplexity Pro, it will be applied to your iTunes account upon confirmation. Subscriptions will automatically renew unless canceled within 24 hours before the end of the current period. You can cancel anytime by visiting the 'Manage Subscription' section of your account. For more information, please refer to our Terms of Service and Privacy Policy.\n\nTerms of Service: https://www.perplexity.ai/tos\nPrivacy Policy: https://www.perplexity.ai/privacy",
-      "bundleId": "ai.perplexity.app",
-      "trackViewUrl": "https://apps.apple.com/us/app/perplexity-ai-search-chat/id1668000334?uo=4",
-      "contentAdvisoryRating": "17+",
       "averageUserRating": 4.82517,
-      "trackCensoredName": "Perplexity - AI Search & Chat",
-      "averageUserRatingForCurrentVersion": 4.82517,
-      "userRatingCountForCurrentVersion": 487555,
-      "sellerUrl": "https://www.perplexity.ai/iphone",
       "languageCodesISO2A": [
         "SQ",
         "AR",
@@ -243,17 +246,14 @@
         "UR",
         "VI"
       ],
+      "sellerUrl": "https://www.perplexity.ai/iphone",
+      "averageUserRatingForCurrentVersion": 4.82517,
       "fileSizeBytes": "220656640",
       "formattedPrice": "Free",
       "trackContentRating": "17+",
-      "trackId": 1668000334,
-      "trackName": "Perplexity - AI Search & Chat",
-      "artistId": 1668000336,
-      "artistName": "Perplexity AI, Inc.",
-      "genres": [
-        "Productivity",
-        "Utilities"
-      ],
+      "trackCensoredName": "Perplexity - AI Search & Chat",
+      "trackViewUrl": "https://apps.apple.com/us/app/perplexity-ai-search-chat/id1668000334?uo=4",
+      "contentAdvisoryRating": "17+",
       "userRatingCount": 487555
     }
   ]

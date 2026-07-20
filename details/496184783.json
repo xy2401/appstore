@@ -2,8 +2,17 @@
   "resultCount": 1,
   "results": [
     {
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/47/83/c64783d5-e983-ccb3-caf7-ec8e838ae651/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "isGameCenterEnabled": false,
+      "advisories": [
+        "Concours rares/modérés",
+        "Simulations fréquentes/intenses de jeu de hasard",
+        "Accès au Web non contrôlé.",
+        "Jeux de hasard"
+      ],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/fr/developer/la-fran%C3%A7aise-des-jeux/id322110853?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/47/83/c64783d5-e983-ccb3-caf7-ec8e838ae651/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/47/83/c64783d5-e983-ccb3-caf7-ec8e838ae651/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/db/46/4c/db464c15-ff87-ef9e-7ad5-b2d02f5a3774/IOS_image01.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ac/f8/77/acf877d0-ef70-b744-903c-e0550ba0dd4c/IOS_image02.png/392x696bb.png",
@@ -16,6 +25,10 @@
       ],
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/47/83/c64783d5-e983-ccb3-caf7-ec8e838ae651/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -145,40 +158,21 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [
-        "Concours rares/modérés",
-        "Simulations fréquentes/intenses de jeu de hasard",
-        "Accès au Web non contrôlé.",
-        "Jeux de hasard"
-      ],
-      "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/fr/developer/la-fran%C3%A7aise-des-jeux/id322110853?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/47/83/c64783d5-e983-ccb3-caf7-ec8e838ae651/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/47/83/c64783d5-e983-ccb3-caf7-ec8e838ae651/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
-      "userRatingCountForCurrentVersion": 94741,
-      "minimumOsVersion": "16.0",
-      "sellerUrl": "https://www.pointdevente.parionssport.fdj.fr/",
-      "averageUserRatingForCurrentVersion": 4.68476,
-      "languageCodesISO2A": [
-        "FR"
-      ],
-      "fileSizeBytes": "70964224",
-      "formattedPrice": "Gratuit",
-      "trackContentRating": "17+",
-      "trackId": 496184783,
-      "trackName": "Parions Sport",
-      "price": 0,
+      "artistId": 322110853,
+      "artistName": "La Française des jeux",
       "genres": [
         "Sports",
         "Actualités"
       ],
+      "price": 0,
+      "bundleId": "fr.fdj.parionssport",
+      "releaseNotes": "Vous pouvez désormais consulter le détail des sélections associées à votre QR code directement lors de son affichage pour le scan.\nNous mettons régulièrement à jour l’app pour vous offrir une meilleure expérience : corrections de bugs, performances optimisées et nouvelles fonctionnalités.\nVous aimez l’app Parions Sport ? Faites-le nous savoir en nous laissant 5 étoiles sur l'App Store !",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "primaryGenreName": "Sports",
+      "primaryGenreId": 6004,
       "sellerName": "La Francaise des jeux",
       "releaseDate": "2012-01-31T08:00:00Z",
       "currentVersionReleaseDate": "2026-07-06T07:16:19Z",
-      "releaseNotes": "Vous pouvez désormais consulter le détail des sélections associées à votre QR code directement lors de son affichage pour le scan.\nNous mettons régulièrement à jour l’app pour vous offrir une meilleure expérience : corrections de bugs, performances optimisées et nouvelles fonctionnalités.\nVous aimez l’app Parions Sport ? Faites-le nous savoir en nous laissant 5 étoiles sur l'App Store !",
       "version": "8.31.0",
       "wrapperType": "software",
       "currency": "EUR",
@@ -187,16 +181,22 @@
       "trackViewUrl": "https://apps.apple.com/fr/app/parions-sport/id496184783?uo=4",
       "contentAdvisoryRating": "17+",
       "averageUserRating": 4.68476,
+      "minimumOsVersion": "16.0",
+      "averageUserRatingForCurrentVersion": 4.68476,
+      "sellerUrl": "https://www.pointdevente.parionssport.fdj.fr/",
+      "languageCodesISO2A": [
+        "FR"
+      ],
+      "fileSizeBytes": "70964224",
+      "formattedPrice": "Gratuit",
+      "userRatingCountForCurrentVersion": 94741,
+      "trackContentRating": "17+",
+      "trackName": "Parions Sport",
+      "trackId": 496184783,
       "genreIds": [
         "6004",
         "6009"
       ],
-      "artistId": 322110853,
-      "artistName": "La Française des jeux",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "bundleId": "fr.fdj.parionssport",
-      "primaryGenreName": "Sports",
-      "primaryGenreId": 6004,
       "userRatingCount": 94741
     }
   ]

@@ -2,10 +2,11 @@
   "resultCount": 1,
   "results": [
     {
-      "artistViewUrl": "https://apps.apple.com/us/developer/microsoft-corporation/id298856275?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/e3/9a/02e39a25-b304-9d0a-6c88-029b73b8f99d/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/e3/9a/02e39a25-b304-9d0a-6c88-029b73b8f99d/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
+      "screenshotUrls": [],
+      "ipadScreenshotUrls": [],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/e3/9a/02e39a25-b304-9d0a-6c88-029b73b8f99d/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
       "features": [
         "iosUniversal"
       ],
@@ -142,14 +143,19 @@
         "Frequent/Intense Medical/Treatment Information"
       ],
       "kind": "software",
-      "screenshotUrls": [],
-      "ipadScreenshotUrls": [],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/e3/9a/02e39a25-b304-9d0a-6c88-029b73b8f99d/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
-      "trackCensoredName": "Microsoft Dragon Copilot",
-      "trackViewUrl": "https://apps.apple.com/us/app/microsoft-dragon-copilot/id6737987442?uo=4",
-      "contentAdvisoryRating": "17+",
-      "averageUserRating": 4.07143,
+      "artistViewUrl": "https://apps.apple.com/us/developer/microsoft-corporation/id298856275?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/e3/9a/02e39a25-b304-9d0a-6c88-029b73b8f99d/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/e3/9a/02e39a25-b304-9d0a-6c88-029b73b8f99d/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.jpg",
+      "averageUserRatingForCurrentVersion": 4.07143,
+      "sellerUrl": "https://www.microsoft.com/en-us/health-solutions/clinical-workflow/dragon-copilot",
+      "languageCodesISO2A": [
+        "NL",
+        "EN",
+        "FR",
+        "DE"
+      ],
+      "userRatingCountForCurrentVersion": 14,
+      "trackContentRating": "17+",
       "artistId": 298856275,
       "artistName": "Microsoft Corporation",
       "genres": [
@@ -157,37 +163,31 @@
         "Productivity"
       ],
       "price": 0,
-      "primaryGenreName": "Medical",
-      "primaryGenreId": 6020,
-      "trackId": 6737987442,
-      "trackName": "Microsoft Dragon Copilot",
-      "releaseDate": "2025-01-10T08:00:00Z",
       "releaseNotes": "- Bug fixes and general improvements.",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-07-09T01:28:08Z",
+      "bundleId": "com.microsoft.ProjectFlame",
       "genreIds": [
         "6020",
         "6007"
       ],
+      "primaryGenreName": "Medical",
+      "primaryGenreId": 6020,
+      "trackId": 6737987442,
       "sellerName": "Microsoft Corporation",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseDate": "2025-01-10T08:00:00Z",
+      "trackName": "Microsoft Dragon Copilot",
+      "currentVersionReleaseDate": "2026-07-09T01:28:08Z",
       "version": "4.0.0",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Microsoft Dragon Copilot, your AI assistant for clinical workflow, brings together the trusted voice dictation capabilities of Dragon Medical One and ambient listening capabilities of DAX Copilot with fine-tuned generative AI and healthcare-adapted safeguards. This unified experience integrates with EHRs and supports clinicians across all stages of their workflow. Part of Microsoft Cloud for Healthcare, it’s an extensible AI workspace that’s built on a secure modern architecture and helps promote clinician wellbeing, increase efficiency, enhance the patient experience, and drive meaningful financial impact.",
       "minimumOsVersion": "17.0",
-      "bundleId": "com.microsoft.ProjectFlame",
-      "userRatingCountForCurrentVersion": 14,
-      "sellerUrl": "https://www.microsoft.com/en-us/health-solutions/clinical-workflow/dragon-copilot",
-      "averageUserRatingForCurrentVersion": 4.07143,
-      "languageCodesISO2A": [
-        "NL",
-        "EN",
-        "FR",
-        "DE"
-      ],
-      "fileSizeBytes": "96008192",
+      "averageUserRating": 4.07143,
+      "trackCensoredName": "Microsoft Dragon Copilot",
+      "trackViewUrl": "https://apps.apple.com/us/app/microsoft-dragon-copilot/id6737987442?uo=4",
+      "contentAdvisoryRating": "17+",
       "formattedPrice": "Free",
-      "trackContentRating": "17+",
+      "fileSizeBytes": "96008192",
       "userRatingCount": 14
     }
   ]

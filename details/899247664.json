@@ -2,11 +2,14 @@
   "resultCount": 1,
   "results": [
     {
+      "screenshotUrls": [],
+      "ipadScreenshotUrls": [],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/85/68/dd856873-5ed1-e70e-750a-b826aaa80c64/AppIcon-0-1x_U007epad-0-1-0-P3-85-220-0.png/512x512bb.jpg",
       "isGameCenterEnabled": false,
       "artistViewUrl": "https://apps.apple.com/us/developer/apple/id284417353?mt=12&uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/85/68/dd856873-5ed1-e70e-750a-b826aaa80c64/AppIcon-0-1x_U007epad-0-1-0-P3-85-220-0.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/85/68/dd856873-5ed1-e70e-750a-b826aaa80c64/AppIcon-0-1x_U007epad-0-1-0-P3-85-220-0.png/100x100bb.jpg",
-      "advisories": [],
       "features": [
         "iosUniversal"
       ],
@@ -140,36 +143,8 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
+      "advisories": [],
       "kind": "software",
-      "screenshotUrls": [],
-      "ipadScreenshotUrls": [],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/85/68/dd856873-5ed1-e70e-750a-b826aaa80c64/AppIcon-0-1x_U007epad-0-1-0-P3-85-220-0.png/512x512bb.jpg",
-      "minimumOsVersion": "16.0",
-      "genreIds": [
-        "6026"
-      ],
-      "trackCensoredName": "TestFlight",
-      "trackViewUrl": "https://apps.apple.com/us/app/testflight/id899247664?uo=4",
-      "contentAdvisoryRating": "12+",
-      "averageUserRating": 4.74606,
-      "artistId": 284417353,
-      "artistName": "Apple",
-      "price": 0,
-      "primaryGenreName": "Developer Tools",
-      "primaryGenreId": 6026,
-      "sellerName": "Apple Inc.",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "trackName": "TestFlight",
-      "trackId": 899247664,
-      "bundleId": "com.apple.TestFlight",
-      "releaseDate": "2014-07-23T19:48:08Z",
-      "releaseNotes": "This update includes stability improvements and bug fixes.",
-      "currentVersionReleaseDate": "2026-06-23T22:08:47Z",
-      "version": "4.2.2",
-      "wrapperType": "software",
-      "currency": "USD",
-      "description": "TestFlight makes it easy to test beta versions of apps and App Clips to provide valuable feedback to developers before they release their apps on the App Store. Developers can invite testers through email or a public link.\n\nWhen you test a beta app or App Clip, Apple collects and sends crash logs, usage information, and any feedback you submit to the developer. The developer may use this information to improve their app and related products. Apple may use crash logs and usage information to improve our products and services.\n\nFor instructions on installation, testing, and feedback submission and for details on how your data is handled, see testflight.apple.com.",
       "averageUserRatingForCurrentVersion": 4.74606,
       "sellerUrl": "https://developer.apple.com/testflight/",
       "languageCodesISO2A": [
@@ -222,9 +197,34 @@
       "formattedPrice": "Free",
       "userRatingCountForCurrentVersion": 787832,
       "trackContentRating": "12+",
+      "minimumOsVersion": "16.0",
+      "averageUserRating": 4.74606,
+      "contentAdvisoryRating": "12+",
+      "trackCensoredName": "TestFlight",
+      "trackViewUrl": "https://apps.apple.com/us/app/testflight/id899247664?uo=4",
+      "artistId": 284417353,
+      "artistName": "Apple",
       "genres": [
         "Developer Tools"
       ],
+      "price": 0,
+      "releaseNotes": "This update includes stability improvements and bug fixes.",
+      "sellerName": "Apple Inc.",
+      "genreIds": [
+        "6026"
+      ],
+      "trackId": 899247664,
+      "trackName": "TestFlight",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "primaryGenreName": "Developer Tools",
+      "primaryGenreId": 6026,
+      "releaseDate": "2014-07-23T19:48:08Z",
+      "currentVersionReleaseDate": "2026-06-23T22:08:47Z",
+      "version": "4.2.2",
+      "wrapperType": "software",
+      "currency": "USD",
+      "description": "TestFlight makes it easy to test beta versions of apps and App Clips to provide valuable feedback to developers before they release their apps on the App Store. Developers can invite testers through email or a public link.\n\nWhen you test a beta app or App Clip, Apple collects and sends crash logs, usage information, and any feedback you submit to the developer. The developer may use this information to improve their app and related products. Apple may use crash logs and usage information to improve our products and services.\n\nFor instructions on installation, testing, and feedback submission and for details on how your data is handled, see testflight.apple.com.",
+      "bundleId": "com.apple.TestFlight",
       "userRatingCount": 787832
     }
   ]

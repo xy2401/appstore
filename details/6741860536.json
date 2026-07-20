@@ -2,6 +2,7 @@
   "resultCount": 1,
   "results": [
     {
+      "isGameCenterEnabled": false,
       "screenshotUrls": [],
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
@@ -10,7 +11,8 @@
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/d9/90/ebd990a7-4cec-d105-7e97-981dfd9ddc1c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
       "artistViewUrl": "https://apps.apple.com/fr/developer/james-moore/id428240071?uo=4",
       "features": [],
-      "isGameCenterEnabled": false,
+      "advisories": [],
+      "kind": "software",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -140,9 +142,7 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "advisories": [],
-      "kind": "software",
-      "sellerUrl": "https://fotosyn.com/trevni",
+      "averageUserRatingForCurrentVersion": 4,
       "averageUserRating": 4,
       "trackCensoredName": "Trevni: Inverseur négatifs",
       "languageCodesISO2A": [
@@ -153,38 +153,38 @@
         "ES"
       ],
       "fileSizeBytes": "3635200",
+      "sellerUrl": "https://fotosyn.com/trevni",
       "formattedPrice": "2,99 €",
       "contentAdvisoryRating": "4+",
+      "userRatingCountForCurrentVersion": 1,
       "trackViewUrl": "https://apps.apple.com/fr/app/trevni-inverseur-n%C3%A9gatifs/id6741860536?uo=4",
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4,
-      "genres": [
-        "Photo et vidéo",
-        "Productivité"
-      ],
-      "price": 2.99,
       "artistId": 428240071,
       "artistName": "James Moore",
-      "isVppDeviceBasedLicensingEnabled": true,
+      "price": 2.99,
       "trackId": 6741860536,
       "trackName": "Trevni: Inverseur négatifs",
+      "sellerName": "James Moore",
       "releaseDate": "2025-05-21T07:00:00Z",
-      "bundleId": "com.fotosyn.trevni",
-      "primaryGenreName": "Photo & Video",
-      "primaryGenreId": 6008,
       "genreIds": [
         "6008",
         "6007"
       ],
-      "releaseNotes": "Corrections de bugs et améliorations.\nVos retours nous aident à améliorer Trevni. Merci !",
+      "currentVersionReleaseDate": "2026-03-21T16:10:01Z",
       "version": "1.2.2",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Trevni : Convertisseur de négatifs argentiques\n\nQue vous numérisiez de vieux négatifs de famille ou vos pellicules récentes, Trevni convertit des négatifs photo déjà photographiés ou scannés depuis votre photothèque en images fidèles à la réalité. Aucun réglage de courbes ou de niveaux n’est nécessaire.\n\nConversion en un geste :\n\n• Conversion instantanée des négatifs couleur C-41 et noir et blanc\n• Suppression automatique du masque orange des films couleur\n• Préserve la qualité d’image et les métadonnées d’origine\n• Fonctionne avec des négatifs photographiés ou scannés\n\nPréréglages et réglages fins :\n\n• Préréglages intégrés pour un point de départ rapide et fiable\n• Créez et enregistrez vos propres préréglages personnalisés\n• Échantillonnage pour une précision colorimétrique ou tonale\n• Réglage de la température, teinte, exposition, contraste et saturation\n• Conçu pour les flux de travail analogiques et les caractéristiques du film\n\nFlux de travail rapide et intuitif :\n\n• Importez un négatif depuis votre photothèque\n• Choisissez film couleur ou noir et blanc\n• Échantillonnez, ajustez et exportez l’image finale\n• Prêt à partager, archiver ou imprimer\n\nFlux compatibles :\n\n• Captures iPhone (table lumineuse ou rétroéclairage)\n• Scans d’appareils photo numériques\n• Fichiers de scanners à plat\n\nIdéal pour :\n\n• Photographes argentiques\n• Passionnés de photographie analogique\n• Étudiants et enseignants\n• Restauration d’images et archivage numérique\n\nConçu par un photographe argentique, pour les photographes argentiques\n\nTrevni privilégie une conversion fidèle, sans artifices, pour des résultats naturels qui respectent votre processus créatif.",
-      "userRatingCountForCurrentVersion": 1,
       "minimumOsVersion": "17.0",
-      "sellerName": "James Moore",
-      "currentVersionReleaseDate": "2026-03-21T16:10:01Z",
+      "primaryGenreName": "Photo & Video",
+      "primaryGenreId": 6008,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseNotes": "Corrections de bugs et améliorations.\nVos retours nous aident à améliorer Trevni. Merci !",
+      "genres": [
+        "Photo et vidéo",
+        "Productivité"
+      ],
+      "bundleId": "com.fotosyn.trevni",
       "userRatingCount": 1
     }
   ]

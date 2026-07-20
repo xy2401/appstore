@@ -2,15 +2,10 @@
   "resultCount": 1,
   "results": [
     {
-      "isGameCenterEnabled": false,
       "artistViewUrl": "https://apps.apple.com/de/developer/bayerisches-landesamt-fuer-steuern/id1018163928?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/51/3c/29513c8f-880b-3c11-466a-0867acb06e5a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/51/3c/29513c8f-880b-3c11-466a-0867acb06e5a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [],
-      "kind": "software",
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/2f/f3/f62ff382-33a8-434d-09ee-4e047a8097cd/947bfd4c-23fd-40f2-a5cf-f0f8409e81d7_0._Tutorial.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/c0/72/19c0720b-9cb7-064a-c2b3-23809300b735/da7e44b0-ff6f-45a1-ab8d-bd73292b86df_1.a_Startseite.png/392x696bb.png",
@@ -155,33 +150,15 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "minimumOsVersion": "15.0",
-      "averageUserRating": 4.61657,
+      "advisories": [],
+      "kind": "software",
+      "features": [
+        "iosUniversal"
+      ],
       "trackCensoredName": "ElsterSecure",
       "trackViewUrl": "https://apps.apple.com/de/app/elstersecure/id1579060331?uo=4",
       "contentAdvisoryRating": "4+",
-      "genres": [
-        "Finanzen"
-      ],
-      "artistId": 1018163928,
-      "artistName": "Bayerisches Landesamt fuer Steuern",
-      "price": 0,
-      "genreIds": [
-        "6015"
-      ],
-      "trackName": "ElsterSecure",
-      "trackId": 1579060331,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "primaryGenreName": "Finance",
-      "primaryGenreId": 6015,
-      "sellerName": "Bayerisches Landesamt fuer Steuern",
-      "currentVersionReleaseDate": "2026-04-15T07:51:23Z",
-      "releaseNotes": "Behebung der Absturzursachen im Zusammenhang mit QR-Code Scans",
-      "version": "ElsterSecure 26.1.1",
-      "wrapperType": "software",
-      "currency": "EUR",
-      "description": "ElsterSecure ist die neue Authentisierungs-App von ELSTER. Einmal eingerichtet, benötigen Sie für Ihren Login nur noch Ihr Smartphone. Eine Zertifikatsdatei oder einen Nutzernamen benötigen Sie nach erstmaliger Einrichtung nicht mehr.\n \nSo richten Sie ElsterSecure ein:\n\n1. Loggen Sie sich wie bisher gewohnt in MeinElster ein.\n2. Gehen Sie zu \"Mein Benutzerkonto\" > \"ElsterSecure\": https://www.elster.de/eportal/meinKonto/elstersecure\n3. Unter \"Login-Option ElsterSecure hinzufügen\" können Sie die App mit Ihrem MeinElster-Konto verknüpfen\n\nWenn Sie noch kein MeinElster Konto besitzen, können Sie sich unter www.elster.de registrieren und ElsterSecure als Login-Option wählen. \n\nDerzeit ist eine Authentisierung mittels ElsterSecure nur für den Login in MeinElster möglich. Eine Übermittlung durch Drittanbieter von Steuersoftware wird noch nicht unterstützt, hierfür benötigen Sie weiterhin ein Zertifikat.\n\nElsterSecure benötigt folgende Berechtigungen:  \n- Zugriff auf die Kamera(s) des Geräts: Diese Berechtigung wird für das Scannen des QR-Codes benötigt.\n\nDatenschutzhinweis:\nhttps://www.elster.de/eportal/infoseite/elstersecure",
-      "bundleId": "de.elster.elstersecure.app",
+      "averageUserRating": 4.61657,
       "averageUserRatingForCurrentVersion": 4.61657,
       "sellerUrl": "https://www.elster.de/elsterweb/infoseite/app/elstersecure",
       "languageCodesISO2A": [
@@ -192,7 +169,30 @@
       "formattedPrice": "Gratis",
       "userRatingCountForCurrentVersion": 37352,
       "trackContentRating": "4+",
+      "artistId": 1018163928,
+      "artistName": "Bayerisches Landesamt fuer Steuern",
+      "genres": [
+        "Finanzen"
+      ],
+      "price": 0,
+      "sellerName": "Bayerisches Landesamt fuer Steuern",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "genreIds": [
+        "6015"
+      ],
       "releaseDate": "2022-11-26T08:00:00Z",
+      "primaryGenreName": "Finance",
+      "primaryGenreId": 6015,
+      "trackId": 1579060331,
+      "trackName": "ElsterSecure",
+      "currentVersionReleaseDate": "2026-04-15T07:51:23Z",
+      "releaseNotes": "Behebung der Absturzursachen im Zusammenhang mit QR-Code Scans",
+      "version": "ElsterSecure 26.1.1",
+      "wrapperType": "software",
+      "currency": "EUR",
+      "description": "ElsterSecure ist die neue Authentisierungs-App von ELSTER. Einmal eingerichtet, benötigen Sie für Ihren Login nur noch Ihr Smartphone. Eine Zertifikatsdatei oder einen Nutzernamen benötigen Sie nach erstmaliger Einrichtung nicht mehr.\n \nSo richten Sie ElsterSecure ein:\n\n1. Loggen Sie sich wie bisher gewohnt in MeinElster ein.\n2. Gehen Sie zu \"Mein Benutzerkonto\" > \"ElsterSecure\": https://www.elster.de/eportal/meinKonto/elstersecure\n3. Unter \"Login-Option ElsterSecure hinzufügen\" können Sie die App mit Ihrem MeinElster-Konto verknüpfen\n\nWenn Sie noch kein MeinElster Konto besitzen, können Sie sich unter www.elster.de registrieren und ElsterSecure als Login-Option wählen. \n\nDerzeit ist eine Authentisierung mittels ElsterSecure nur für den Login in MeinElster möglich. Eine Übermittlung durch Drittanbieter von Steuersoftware wird noch nicht unterstützt, hierfür benötigen Sie weiterhin ein Zertifikat.\n\nElsterSecure benötigt folgende Berechtigungen:  \n- Zugriff auf die Kamera(s) des Geräts: Diese Berechtigung wird für das Scannen des QR-Codes benötigt.\n\nDatenschutzhinweis:\nhttps://www.elster.de/eportal/infoseite/elstersecure",
+      "minimumOsVersion": "15.0",
+      "bundleId": "de.elster.elstersecure.app",
       "userRatingCount": 37352
     }
   ]

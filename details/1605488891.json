@@ -2,13 +2,14 @@
   "resultCount": 1,
   "results": [
     {
-      "isGameCenterEnabled": false,
       "artistViewUrl": "https://apps.apple.com/de/developer/jeffrey-friesen/id1605488893?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/d2/1e/eed21e42-7df1-2885-5550-fcd5859ddd7b/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/d2/1e/eed21e42-7df1-2885-5550-fcd5859ddd7b/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
+      "screenshotUrls": [],
+      "ipadScreenshotUrls": [],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/d2/1e/eed21e42-7df1-2885-5550-fcd5859ddd7b/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -138,49 +139,48 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
+      "features": [
+        "iosUniversal"
+      ],
       "advisories": [],
       "kind": "software",
-      "screenshotUrls": [],
-      "ipadScreenshotUrls": [],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/d2/1e/eed21e42-7df1-2885-5550-fcd5859ddd7b/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "averageUserRating": 4.71429,
       "trackCensoredName": "VESC Tool",
       "trackViewUrl": "https://apps.apple.com/de/app/vesc-tool/id1605488891?uo=4",
       "contentAdvisoryRating": "4+",
-      "genres": [
-        "Dienst­programme",
-        "Entwickler-Tools"
-      ],
-      "artistId": 1605488893,
-      "artistName": "Jeffrey Friesen",
-      "price": 3.99,
-      "trackName": "VESC Tool",
-      "trackId": 1605488891,
-      "genreIds": [
-        "6002",
-        "6026"
-      ],
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
-      "sellerName": "Jeffrey Friesen",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-05-22T21:52:28Z",
-      "version": "7.00",
-      "wrapperType": "software",
-      "currency": "EUR",
-      "description": "This is the mobile version of VESC Tool, which can be used to configure VESC hardware over WiFi or BLE. It can also be used to log ride data, update the firmware, switch ride profiles, view battery status, and edit settings on the go!\n\nFor details, visit\nhttps://vesc-project.com",
-      "bundleId": "com.vesc-project.vesc-tool",
-      "sellerUrl": "https://vesc-project.com/",
+      "averageUserRating": 4.71429,
+      "minimumOsVersion": "12.0",
       "averageUserRatingForCurrentVersion": 4.71429,
+      "sellerUrl": "https://vesc-project.com/",
       "languageCodesISO2A": [],
       "fileSizeBytes": "50746368",
       "formattedPrice": "3,99 €",
       "userRatingCountForCurrentVersion": 7,
       "trackContentRating": "4+",
-      "minimumOsVersion": "12.0",
+      "price": 3.99,
+      "artistId": 1605488893,
+      "artistName": "Jeffrey Friesen",
+      "genres": [
+        "Dienst­programme",
+        "Entwickler-Tools"
+      ],
+      "trackId": 1605488891,
+      "trackName": "VESC Tool",
       "releaseDate": "2022-03-30T07:00:00Z",
+      "sellerName": "Jeffrey Friesen",
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
+      "currentVersionReleaseDate": "2026-05-22T21:52:28Z",
       "releaseNotes": "This VESC Tool APP is now compatible with VESC Beta Firmwares. They cannot be installed from this app, but if downloaded and installed from vesc project website this app is now able to interact with the settings and configuration.\n\nFirmwares are now stored in the cloud to reduce app size and can be downloaded from the firmwares window.",
+      "version": "7.00",
+      "wrapperType": "software",
+      "currency": "EUR",
+      "description": "This is the mobile version of VESC Tool, which can be used to configure VESC hardware over WiFi or BLE. It can also be used to log ride data, update the firmware, switch ride profiles, view battery status, and edit settings on the go!\n\nFor details, visit\nhttps://vesc-project.com",
+      "bundleId": "com.vesc-project.vesc-tool",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "genreIds": [
+        "6002",
+        "6026"
+      ],
       "userRatingCount": 7
     }
   ]

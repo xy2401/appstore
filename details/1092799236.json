@@ -2,10 +2,15 @@
   "resultCount": 1,
   "results": [
     {
-      "artistViewUrl": "https://apps.apple.com/gb/developer/yuca/id1460679283?uo=4",
+      "features": [
+        "iosUniversal"
+      ],
       "isGameCenterEnabled": false,
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/f6/a5/30f6a5a1-9473-52d1-6287-a3d5f9710fb9/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/f6/a5/30f6a5a1-9473-52d1-6287-a3d5f9710fb9/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
+      "screenshotUrls": [],
+      "ipadScreenshotUrls": [],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/f6/a5/30f6a5a1-9473-52d1-6287-a3d5f9710fb9/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -135,47 +140,13 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [],
       "kind": "software",
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/f6/a5/30f6a5a1-9473-52d1-6287-a3d5f9710fb9/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "screenshotUrls": [],
-      "ipadScreenshotUrls": [],
-      "appletvScreenshotUrls": [],
-      "bundleId": "yuca.scanner",
-      "trackCensoredName": "Yuka - Food & Cosmetic Scanner",
-      "trackViewUrl": "https://apps.apple.com/gb/app/yuka-food-cosmetic-scanner/id1092799236?uo=4",
-      "releaseNotes": "New Liquid Glass design.\nMinor bug fixes and performance improvements.",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.84288,
-      "artistId": 1460679283,
-      "artistName": "Yuca",
-      "genres": [
-        "Health & Fitness",
-        "Food & Drink"
-      ],
-      "price": 0,
-      "primaryGenreName": "Health & Fitness",
-      "primaryGenreId": 6013,
-      "genreIds": [
-        "6013",
-        "6023"
-      ],
-      "sellerName": "Yuca",
-      "trackId": 1092799236,
-      "trackName": "Yuka - Food & Cosmetic Scanner",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseDate": "2017-01-09T00:16:29Z",
-      "currentVersionReleaseDate": "2026-07-07T22:45:42Z",
-      "version": "5.2",
-      "wrapperType": "software",
-      "currency": "GBP",
-      "description": "◆ 85 MILLION USERS ◆\n\nYuka is a free mobile app that allows you to scan the barcodes of food and personal care products and instantly see their impact on your health. A rating and detailed information help you understand the analysis of each product.\n\nWhen a product has a negative impact on your health, Yuka also recommends similar but healthier alternative products.\n\n◆ A 100% INDEPENDENT PROJECT ◆\n\nYuka is a 100% independent project : product reviews and recommendations of healthier alternatives are done in an objective way. No brand or manufacturer can influence them in one way or another. Furthermore, there is no in-app advertising. You can access detailed information on our business model on our website (www.yuka.io).\n\n◆ 6 MILLION REFERENCED PRODUCTS ◆\n\nYuka established a database that contains 4 million food products and 2 million cosmetic products.\n\nEach food product is evaluated according to 3 objective criteria: nutritional quality, presence of additives and organic aspect of the product.\n\nThe method to analyse cosmetic products is based on the analysis of all the ingredients of the product. Each ingredient is assigned a risk level according to the latest scientific data.\n\n---\nYou can choose a Yuka Premium subscription at £15/year to access a search bar, an offline mode, and unlimited history.\n\nTerms of use: https://yuka-app.helpdocs.io/l/en/article/2a12869y56",
+      "artistViewUrl": "https://apps.apple.com/gb/developer/yuca/id1460679283?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/f6/a5/30f6a5a1-9473-52d1-6287-a3d5f9710fb9/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/f6/a5/30f6a5a1-9473-52d1-6287-a3d5f9710fb9/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
+      "minimumOsVersion": "15.5",
       "averageUserRatingForCurrentVersion": 4.84288,
       "sellerUrl": "https://yuka.io/en",
-      "minimumOsVersion": "15.5",
       "languageCodesISO2A": [
         "EN",
         "FR",
@@ -188,6 +159,35 @@
       "formattedPrice": "Free",
       "userRatingCountForCurrentVersion": 27000,
       "trackContentRating": "4+",
+      "artistId": 1460679283,
+      "artistName": "Yuca",
+      "genres": [
+        "Health & Fitness",
+        "Food & Drink"
+      ],
+      "price": 0,
+      "genreIds": [
+        "6013",
+        "6023"
+      ],
+      "bundleId": "yuca.scanner",
+      "releaseDate": "2017-01-09T00:16:29Z",
+      "sellerName": "Yuca",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-07-07T22:45:42Z",
+      "releaseNotes": "New Liquid Glass design.\nMinor bug fixes and performance improvements.",
+      "trackId": 1092799236,
+      "trackName": "Yuka - Food & Cosmetic Scanner",
+      "primaryGenreName": "Health & Fitness",
+      "primaryGenreId": 6013,
+      "version": "5.2",
+      "wrapperType": "software",
+      "currency": "GBP",
+      "description": "◆ 85 MILLION USERS ◆\n\nYuka is a free mobile app that allows you to scan the barcodes of food and personal care products and instantly see their impact on your health. A rating and detailed information help you understand the analysis of each product.\n\nWhen a product has a negative impact on your health, Yuka also recommends similar but healthier alternative products.\n\n◆ A 100% INDEPENDENT PROJECT ◆\n\nYuka is a 100% independent project : product reviews and recommendations of healthier alternatives are done in an objective way. No brand or manufacturer can influence them in one way or another. Furthermore, there is no in-app advertising. You can access detailed information on our business model on our website (www.yuka.io).\n\n◆ 6 MILLION REFERENCED PRODUCTS ◆\n\nYuka established a database that contains 4 million food products and 2 million cosmetic products.\n\nEach food product is evaluated according to 3 objective criteria: nutritional quality, presence of additives and organic aspect of the product.\n\nThe method to analyse cosmetic products is based on the analysis of all the ingredients of the product. Each ingredient is assigned a risk level according to the latest scientific data.\n\n---\nYou can choose a Yuka Premium subscription at £15/year to access a search bar, an offline mode, and unlimited history.\n\nTerms of use: https://yuka-app.helpdocs.io/l/en/article/2a12869y56",
+      "trackCensoredName": "Yuka - Food & Cosmetic Scanner",
+      "trackViewUrl": "https://apps.apple.com/gb/app/yuka-food-cosmetic-scanner/id1092799236?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.84288,
       "userRatingCount": 27000
     }
   ]

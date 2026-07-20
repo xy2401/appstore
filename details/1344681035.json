@@ -2,7 +2,6 @@
   "resultCount": 1,
   "results": [
     {
-      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/01/24/31/01243106-b7a2-b347-1d45-d74d25d110ee/pr_source.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/26/f9/69/26f96936-04ec-a2ce-443d-afe5dadbc1ae/pr_source.png/392x696bb.png",
@@ -19,9 +18,7 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/f5/ce/a1f5ce88-52e3-8ff2-7a5b-b5eda676f448/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
+      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -156,7 +153,9 @@
       "artistViewUrl": "https://apps.apple.com/jp/developer/%E6%9D%A8-%E6%9D%8E/id1278845234?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/f5/ce/a1f5ce88-52e3-8ff2-7a5b-b5eda676f448/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/f5/ce/a1f5ce88-52e3-8ff2-7a5b-b5eda676f448/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
-      "releaseNotes": "サポート iOS 18 / iPadOS 18.",
+      "features": [
+        "iosUniversal"
+      ],
       "languageCodesISO2A": [
         "EN",
         "JA",
@@ -166,19 +165,20 @@
       "formattedPrice": "¥300",
       "userRatingCountForCurrentVersion": 369,
       "trackContentRating": "4+",
-      "artistId": 1278845234,
-      "artistName": "杨 李",
+      "averageUserRatingForCurrentVersion": 4.35229,
+      "minimumOsVersion": "13.0",
+      "releaseNotes": "サポート iOS 18 / iPadOS 18.",
       "genres": [
         "エンターテインメント"
       ],
+      "artistId": 1278845234,
+      "artistName": "杨 李",
       "price": 300,
-      "bundleId": "com.flashairpro.ios",
-      "releaseDate": "2018-04-05T18:01:33Z",
-      "trackId": 1344681035,
-      "trackName": "FAir for FlashAir",
       "genreIds": [
         "6016"
       ],
+      "trackId": 1344681035,
+      "trackName": "FAir for FlashAir",
       "primaryGenreName": "Entertainment",
       "primaryGenreId": 6016,
       "sellerName": "杨 李",
@@ -188,12 +188,12 @@
       "wrapperType": "software",
       "currency": "JPY",
       "description": "使用FAir for FlashAir，あなたの無線FlashAir SDカードのすべての画像、ファイルをすばやく閲覧、ダウンロードできます。\n\nサポートされているデバイス FlashAir W-02、W-03、W-04\n主な機能のリストは以下の通りです。：\n\nシステム\n- 完全に似合う iOS 13\n- 完全に似合う Dark Mode\n\nダウンロード\n- 独立したダウンロードプロセス管理は、あなたのダウンロード履歴を失うことはありません。\n- ダウンロード速度の表示、ダウンロードジョブの削除、編集などができます。\n- 先にアプリのローカルフォルダにダウンロードして、さらにフィルタして保存することができます。\n- 個別のアルバムに保存し、アルバムのファイル名を設定できます。\n- ダウンロードが完了したら、ハイビジョンのサムネイルを作成できます。\n- 写真の情報を完全に保留して、ダウンロードしたのは原図で、カメラのピクチャーと完全に一致します。\n- 写真を選択する場合は、全選択、スライド複数選択、時間グループ選択など様々な方法で画像を選択できます。\n- 写真/動画の自動保存\n- 自動更新 新しい写真を検出したら更新します\n- 自動接続 アプリ内でFlashAir Wi-Fiを自動的に接続できます\n- ダウンロード順序の設定ができます。\n\n表示\n- FlashAir上の画像はデフォルトビューまたは日付グループで表示できます。\n- フォーマットフィルタリングは、あなたが見たいファイル形式を選択できます。JPG、RAWなどを表示するだけです。\n- 画像を昇順または降順で並べ替えることができます。\n- DCIMの中の写真だけを読み込むか、カード内のすべての画像を表示するかを選択できます。\n- 画像ファイル名の表示/非表示ができます。\n- ダウンロードされていないタグの表示を選択できます。\n- 行ごとに表示される画像の数を設定できます。\n- サムネイルまたは完全な大図で画像を見ることができます。\n- 動画をスムーズにプレビューできます。\n- 写真の完全なEXIF情報を見ることができます。\n- FlashAirの完全なファイルシステムを確認し、ファイルを操作することができます。\n- RAWプレビューを表示できます。(同じ名前のJPGプレビューを使用して)\n\nFlashAir設定\n- FlashAir SSID、Wi-Fiパスワードが設定できます。\n- FlashAir Master Codeの設定と自動管理ができます。\n- FlashAirの完全な情報SSID、パスワード、空きスペース、Macアドレスなどが確認できます。\n- FlashAirとセルラーネットワークの共同使用が設定できます。\n\nその他\n- FlashAirのファイルを他のアプリで開くことができます。\n- マスターコードの自動処理ができます。\n- ダウンロード中のロック防止が可能です。\n- 複数の画像をスライドさせ、効率を向上させます。\n- 画像キャッシュをクリアして、アプリが多すぎるスペースを占めるのを防ぐことができます。\n- 完全な操作マニュアル、問題フィードバックチャネル",
-      "trackCensoredName": "FAir for FlashAir",
-      "trackViewUrl": "https://apps.apple.com/jp/app/fair-for-flashair/id1344681035?uo=4",
       "averageUserRating": 4.35229,
       "contentAdvisoryRating": "4+",
-      "minimumOsVersion": "13.0",
-      "averageUserRatingForCurrentVersion": 4.35229,
+      "trackCensoredName": "FAir for FlashAir",
+      "trackViewUrl": "https://apps.apple.com/jp/app/fair-for-flashair/id1344681035?uo=4",
+      "releaseDate": "2018-04-05T18:01:33Z",
+      "bundleId": "com.flashairpro.ios",
       "userRatingCount": 369
     }
   ]

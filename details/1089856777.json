@@ -2,6 +2,7 @@
   "resultCount": 1,
   "results": [
     {
+      "isGameCenterEnabled": false,
       "screenshotUrls": [],
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5a/01/b3/5a01b3dc-8ba5-fb4b-9dbd-f572c877a232/2a8f19b6-c6b8-46b8-acd6-372ba3405408_fiches_ide129inches2.png/576x768bb.png",
@@ -23,7 +24,13 @@
       "features": [
         "iosUniversal"
       ],
-      "isGameCenterEnabled": false,
+      "advisories": [
+        "Scènes rares/modérées réservées aux adultes (suggestives)",
+        "Accès au Web non contrôlé.",
+        "Scènes rares/modérées de consommation ou de référence à l’alcool, au tabac ou à la drogue",
+        "Scènes fréquentes/intenses de contenu à caractère médical"
+      ],
+      "kind": "software",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -153,52 +160,45 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "advisories": [
-        "Scènes rares/modérées réservées aux adultes (suggestives)",
-        "Accès au Web non contrôlé.",
-        "Scènes rares/modérées de consommation ou de référence à l’alcool, au tabac ou à la drogue",
-        "Scènes fréquentes/intenses de contenu à caractère médical"
-      ],
-      "kind": "software",
-      "sellerUrl": "https://www.fiches-ide.fr/application/",
+      "averageUserRatingForCurrentVersion": 4.50161,
       "averageUserRating": 4.50161,
       "trackCensoredName": "Fiches IDE",
       "languageCodesISO2A": [
         "EN"
       ],
       "fileSizeBytes": "255539200",
+      "sellerUrl": "https://www.fiches-ide.fr/application/",
       "formattedPrice": "3,99 €",
       "contentAdvisoryRating": "17+",
+      "userRatingCountForCurrentVersion": 311,
       "trackViewUrl": "https://apps.apple.com/fr/app/fiches-ide/id1089856777?uo=4",
       "trackContentRating": "17+",
-      "averageUserRatingForCurrentVersion": 4.50161,
-      "genres": [
-        "Éducation",
-        "Forme et santé"
-      ],
-      "price": 3.99,
       "artistId": 1089856776,
       "artistName": "Julie Violet",
-      "isVppDeviceBasedLicensingEnabled": true,
+      "price": 3.99,
       "trackId": 1089856777,
       "trackName": "Fiches IDE",
+      "sellerName": "Julie Violet",
       "releaseDate": "2016-03-10T00:04:35Z",
-      "bundleId": "dev.romainbulot.com.ficheside",
-      "primaryGenreName": "Education",
-      "primaryGenreId": 6017,
       "genreIds": [
         "6017",
         "6013"
       ],
-      "releaseNotes": "MISE A JOUR V3.14\n\nCorrectif d'un bug empêchant la progression sur les quizz sur certains appareils",
+      "currentVersionReleaseDate": "2026-01-19T10:16:42Z",
       "version": "3.14",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Fiches IDE, l'application référence indispensable à tous les Etudiants en Soins Infirmiers (ESI) ou les Infirmier(e)s Diplômé(e)s d'Etat.\n\nVous pourrez y trouver des fiches pratiques concernant les différentes UE enseignées dans le nouveau référentiel de formation. Une aide aux révisions pour les étudiants et une aide pour les professionnels diplômés qui souhaitent reprendre les bases ou encadrer les futurs jeunes diplômés. L'application permet de vous donner accès à tout son contenu de manière illimitée et sans pubs !\n\nFonctionnalités :\n- Cours (+ de 500 fiches)\n- Vocabulaire : Plus de 50 000 définitions (Dictionnaire de l'Académie de Médecine)\n- Pathologies\n- Quizz\n- Annales (+ de 100)\n- Familles de médicaments\n- Examens biologiques\n- Contacts de professionnels pour vos TFE\n\n... Et plus encore ! \n\nNe nécessite aucun accès à internet.\nPaiement unique - sans abonnement !\n\nMerci de choisir Fiches IDE!\nJulie & Romain",
-      "userRatingCountForCurrentVersion": 311,
       "minimumOsVersion": "12.0",
-      "sellerName": "Julie Violet",
-      "currentVersionReleaseDate": "2026-01-19T10:16:42Z",
+      "primaryGenreName": "Education",
+      "primaryGenreId": 6017,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseNotes": "MISE A JOUR V3.14\n\nCorrectif d'un bug empêchant la progression sur les quizz sur certains appareils",
+      "genres": [
+        "Éducation",
+        "Forme et santé"
+      ],
+      "bundleId": "dev.romainbulot.com.ficheside",
       "userRatingCount": 311
     }
   ]

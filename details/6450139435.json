@@ -2,20 +2,19 @@
   "resultCount": 1,
   "results": [
     {
-      "trackCensoredName": "Animal ABC",
-      "artistViewUrl": "https://books.apple.com/gb/artist/lisette-starr/1476406886?uo=4",
-      "trackViewUrl": "https://books.apple.com/gb/book/animal-abc/id6450139435?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/61/bd/39/61bd3917-0808-7d36-869f-5af977415e12/0001093234.jpg/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/61/bd/39/61bd3917-0808-7d36-869f-5af977415e12/0001093234.jpg/100x100bb.jpg",
       "artistIds": [
         1476406886
       ],
       "artistId": 1476406886,
       "artistName": "Lisette Starr",
+      "genres": [
+        "Animals for Kids",
+        "Books",
+        "Kids",
+        "Basic Concepts for Kids",
+        "The Alphabet for Kids"
+      ],
       "price": 0,
-      "releaseDate": "2023-06-09T07:00:00Z",
-      "trackId": 6450139435,
-      "trackName": "Animal ABC",
       "genreIds": [
         "11087",
         "38",
@@ -23,17 +22,18 @@
         "11088",
         "11089"
       ],
+      "releaseDate": "2023-06-09T07:00:00Z",
+      "trackName": "Animal ABC",
+      "trackId": 6450139435,
       "kind": "ebook",
       "currency": "GBP",
       "description": "<b>Give your child a head start with the Red Beetle Beginner series...</b><br /><br /><i><b>\"Lisette Starr's Animal ABC\"</b> is a whimsical, fun alphabet picture book designed to help kids get a head start on learning their letters while learning about all different kinds of animals. Full of bright colorful illustrations. From alligators, cats, elephants and horses to wombats and zebras there is a whole alphabet full of cute fun creatures. &#xa0;</i><br /><br /><i>Each letter is accompanied by a cute illustration, a capital and lower case example, and a line of color coded alliterative text to help lock in the learning.</i><br /><br /><b>It's never too early to start on a child's education. The more kids can learn in the vital preschool years the better!</b><br /><br />Red Beetle Beginner Books are perfect for preschool kids from 1-5 yo.",
       "formattedPrice": "Free",
-      "genres": [
-        "Animals for Kids",
-        "Books",
-        "Kids",
-        "Basic Concepts for Kids",
-        "The Alphabet for Kids"
-      ]
+      "artistViewUrl": "https://books.apple.com/gb/artist/lisette-starr/1476406886?uo=4",
+      "trackViewUrl": "https://books.apple.com/gb/book/animal-abc/id6450139435?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/61/bd/39/61bd3917-0808-7d36-869f-5af977415e12/0001093234.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication126/v4/61/bd/39/61bd3917-0808-7d36-869f-5af977415e12/0001093234.jpg/100x100bb.jpg",
+      "trackCensoredName": "Animal ABC"
     }
   ]
 }

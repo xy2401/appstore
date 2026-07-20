@@ -19,6 +19,14 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/aa/b3/51/aab35101-ee41-d04d-cd5c-9950a05d9f87/logo_google_cloud_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/us/developer/google/id281956209?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/aa/b3/51/aab35101-ee41-d04d-cd5c-9950a05d9f87/logo_google_cloud_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/aa/b3/51/aab35101-ee41-d04d-cd5c-9950a05d9f87/logo_google_cloud_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/100x100bb.jpg",
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -148,17 +156,7 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "advisories": [],
-      "kind": "software",
-      "features": [
-        "iosUniversal"
-      ],
-      "artistViewUrl": "https://apps.apple.com/us/developer/google/id281956209?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/aa/b3/51/aab35101-ee41-d04d-cd5c-9950a05d9f87/logo_google_cloud_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/aa/b3/51/aab35101-ee41-d04d-cd5c-9950a05d9f87/logo_google_cloud_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/100x100bb.jpg",
-      "minimumOsVersion": "17.0",
-      "averageUserRatingForCurrentVersion": 3.41,
-      "sellerUrl": "https://cloud.google.com/",
+      "userRatingCountForCurrentVersion": 100,
       "languageCodesISO2A": [
         "EN",
         "FR",
@@ -175,36 +173,38 @@
       "fileSizeBytes": "113253376",
       "formattedPrice": "Free",
       "trackContentRating": "4+",
+      "sellerUrl": "https://cloud.google.com/",
+      "averageUserRatingForCurrentVersion": 3.41,
       "artistId": 281956209,
-      "artistName": "Google",
-      "genres": [
-        "Productivity",
-        "Utilities"
-      ],
-      "price": 0,
-      "sellerName": "Google LLC",
       "bundleId": "com.google.Vespa",
       "isVppDeviceBasedLicensingEnabled": true,
-      "genreIds": [
-        "6007",
-        "6002"
-      ],
-      "releaseDate": "2015-07-23T18:43:36Z",
-      "trackId": 1005120814,
-      "trackName": "Google Cloud",
+      "primaryGenreName": "Productivity",
+      "primaryGenreId": 6007,
       "currentVersionReleaseDate": "2026-06-23T23:01:51Z",
       "releaseNotes": "• Bug fixes and performance improvements.",
       "version": "26.06.170800",
       "wrapperType": "software",
       "currency": "USD",
       "description": "The app helps you manage your services running on Google Cloud directly from your Apple iPhone or iPad:\n\n• Stay connected to the cloud and check billing, status, and critical issues.\n• Create your own custom dashboard to produce an overview of your Google Cloud services.\n• Monitor the state of your Compute Engine and App Engine resources with the ability to SSH into your VMs.\n• Access to Cloud Shell to perform any Google Cloud (gcloud) operation.\n• View and respond to incidents, errors, and logging.\n\nWe plan to ship new features regularly and continually improve your user experience. Please give us your feedback in the app by tapping the menu button in the upper-left corner, selecting Help & Feedback, and then Send feedback.",
+      "minimumOsVersion": "17.0",
       "trackCensoredName": "Google Cloud",
       "trackViewUrl": "https://apps.apple.com/us/app/google-cloud/id1005120814?uo=4",
       "contentAdvisoryRating": "4+",
       "averageUserRating": 3.41,
-      "userRatingCountForCurrentVersion": 100,
-      "primaryGenreName": "Productivity",
-      "primaryGenreId": 6007,
+      "genreIds": [
+        "6007",
+        "6002"
+      ],
+      "releaseDate": "2015-07-23T18:43:36Z",
+      "genres": [
+        "Productivity",
+        "Utilities"
+      ],
+      "artistName": "Google",
+      "sellerName": "Google LLC",
+      "trackId": 1005120814,
+      "trackName": "Google Cloud",
+      "price": 0,
       "userRatingCount": 100
     }
   ]

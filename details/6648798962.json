@@ -2,9 +2,7 @@
   "resultCount": 1,
   "results": [
     {
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/4d/df/f84ddfa3-c4ab-0869-bacd-b40812834b50/AppIcon2-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/4d/df/f84ddfa3-c4ab-0869-bacd-b40812834b50/AppIcon2-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/us/developer/polymarket/id1770798135?uo=4",
+      "isGameCenterEnabled": false,
       "features": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
@@ -137,17 +135,15 @@
       ],
       "advisories": [],
       "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/us/developer/polymarket/id1770798135?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/4d/df/f84ddfa3-c4ab-0869-bacd-b40812834b50/AppIcon2-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/4d/df/f84ddfa3-c4ab-0869-bacd-b40812834b50/AppIcon2-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.jpg",
       "screenshotUrls": [],
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/4d/df/f84ddfa3-c4ab-0869-bacd-b40812834b50/AppIcon2-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
-      "averageUserRating": 4.63929,
-      "trackViewUrl": "https://apps.apple.com/us/app/polymarket/id6648798962?uo=4",
-      "contentAdvisoryRating": "17+",
-      "trackCensoredName": "Polymarket",
-      "currentVersionReleaseDate": "2026-07-18T08:33:29Z",
-      "releaseNotes": "The World's Largest Prediction Market™ is now CFTC regulated & legal in the United States.",
+      "bundleId": "com.polymarket.ios-app",
+      "minimumOsVersion": "18.0",
       "artistId": 1770798135,
       "artistName": "Polymarket",
       "genres": [
@@ -155,32 +151,36 @@
         "Sports"
       ],
       "price": 0,
-      "genreIds": [
-        "6015",
-        "6004"
-      ],
       "primaryGenreName": "Finance",
       "primaryGenreId": 6015,
-      "trackName": "Polymarket",
-      "trackId": 6648798962,
       "isVppDeviceBasedLicensingEnabled": true,
-      "sellerName": "Blockratize Inc",
       "releaseDate": "2024-09-24T07:00:00Z",
+      "sellerName": "Blockratize Inc",
+      "trackId": 6648798962,
+      "trackName": "Polymarket",
+      "currentVersionReleaseDate": "2026-07-18T08:33:29Z",
       "version": "2.7.2",
       "wrapperType": "software",
       "currency": "USD",
       "description": "With over 30 million users globally, Americans can now trade on the World's Largest Prediction Market™\n\nOn Polymarket, you can buy in and trade out without ever getting locked out. \n\nPolymarket always has the tightest spreads, the lowest fees, & the biggest opportunities. \n\nLIVETRADE™ IN GAME\n- Instantaneously trade in and out \n- Bigger payouts than sportsbooks\n- No \"house\" & no limits\n- Instant cashouts\n\nTRADE ON ANYTHING\n- Trade on sports, geopolitics, election, news, tech, culture, & more\n- Put your money where your mouth is, and earn a return for your knowledge\n\nHOW DOES IT WORK?\n- Prices = probability\n- If something has a 67% chance of happening, you can buy shares for $0.67 each which you can sell if the price goes up — or cash in for $1 each if you're right\n- If you think the odds are wrong, you can profit by buying shares in the polymarket\n\nLEGAL & REGULATED\n- Polymarket is fully legal & CFTC regulated in the United States — in all 50 states*\n- Backed by the New York Stock Exchange's parent company\n- Bank-grade security & encryption\n- 24/7 live customer support\n\nJoin the tens of millions of Polymarket users & see why there’s been over $27 billion traded globally.\n\nYou see the future — now trade it.\n\n—\n\n* Trading currently unavailable in NV",
-      "bundleId": "com.polymarket.ios-app",
-      "sellerUrl": "https://polymarket.us",
+      "averageUserRating": 4.63929,
+      "trackCensoredName": "Polymarket",
+      "trackViewUrl": "https://apps.apple.com/us/app/polymarket/id6648798962?uo=4",
+      "contentAdvisoryRating": "17+",
       "languageCodesISO2A": [
         "EN"
       ],
       "fileSizeBytes": "290421760",
+      "sellerUrl": "https://polymarket.us",
       "formattedPrice": "Free",
       "userRatingCountForCurrentVersion": 52353,
       "trackContentRating": "17+",
-      "minimumOsVersion": "18.0",
       "averageUserRatingForCurrentVersion": 4.63929,
+      "releaseNotes": "The World's Largest Prediction Market™ is now CFTC regulated & legal in the United States.",
+      "genreIds": [
+        "6015",
+        "6004"
+      ],
       "userRatingCount": 52353
     }
   ]

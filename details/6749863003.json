@@ -2,12 +2,13 @@
   "resultCount": 1,
   "results": [
     {
-      "formattedPrice": "£0.99",
       "artistIds": [
         501015020,
         664972759,
         1180396202
       ],
+      "artistId": 501015020,
+      "artistName": "Mieko Kawakami, Laurel Taylor & Hitomi Yoshio",
       "genres": [
         "Literary Fiction",
         "Books",
@@ -15,8 +16,9 @@
         "Crime & Thrillers",
         "Hard-Boiled Mysteries"
       ],
-      "artistId": 501015020,
-      "artistName": "Mieko Kawakami, Laurel Taylor & Hitomi Yoshio",
+      "price": 0.99,
+      "trackName": "Sisters in Yellow",
+      "trackId": 6749863003,
       "genreIds": [
         "10049",
         "38",
@@ -25,8 +27,6 @@
         "10050"
       ],
       "releaseDate": "2026-03-19T07:00:00Z",
-      "trackId": 6749863003,
-      "trackName": "Sisters in Yellow",
       "kind": "ebook",
       "currency": "GBP",
       "description": "<b>The Instant <i>Sunday Times</i> Bestseller</b><br /><br /><b>'I can never forget the sense of pure astonishment I felt when I first read Mieko Kawakami'</b><br /><b>– Haruki Murakami</b><br /><br /><b>'The most exciting Japanese novelist at work today'<br />– <i>The Times</i></b><br /><br /><b>A heart-stopping story of teenage girls on the brink in 1990s Tokyo from the International Booker Prize-Shortlisted author of <i>Heaven</i> and <i>Breasts and Eggs</i>.</b><br /><br />Hana has nothing but she’s hopeful. She’s fifteen years old. She lives in a tiny apartment in a suburb of Tokyo with her young mother, a hostess at a local dive bar. They have no money, no security. Then Kimiko appears.<br /><br />Kimiko is older, a bright light in Hana’s dark world. Together they set up Lemon, a bar that, despite its shabby setting and seedy clientele, becomes a haven for Hana. Suddenly Hana has a job she loves, friends to share her days with, and the glittering promise of money. She feels like a normal girl. She feels invincible.<br /><br />But in the narrow alleys of Sangenjaya, nothing is as it seems. Soon all of Hana’s hope, her optimism, and her drive, will be tested to the limit . . .<br /><br />A story of enduring friendship and deep betrayal, Sisters in Yellow is a masterpiece of teenage dreams and adult cruelties that confirms Mieko Kawakami as one of the great writers of her generation.<br /><br /><b>'Relentlessly riveting . . . My heart felt very tender reading this'<br />– Frances Cha, author of <i>If I Had Your Face</i></b><br /><br /><b>Readers love <i>Sisters in Yellow</i>:</b><br /><br />'My new favourite book of ALL TIME. The ending absolutely destroyed me.'<br /><br />'A powerful, emotionally charged exploration of friendship, survival and the quiet brutality of inequality'<br /><br />'Mieko Kawakami doesn't need a high-speed chase to create tension; she lets a heavy, unsettling mood seep into the floorboards'<br /><br />'Confirms Kawakami’s place as one of the most vital voices in contemporary literature'<br /><br />'The character building is second to none . . . Mieko Kawakami is a generational talent'<br /><br />'This is Kawakami at her best. Not for a second does the pace let up.'",
@@ -35,7 +35,7 @@
       "trackViewUrl": "https://books.apple.com/gb/book/sisters-in-yellow/id6749863003?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/bc/af/8a/bcaf8a37-2226-ffe0-55fe-cb4a68452281/9781035024155.jpg/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/bc/af/8a/bcaf8a37-2226-ffe0-55fe-cb4a68452281/9781035024155.jpg/100x100bb.jpg",
-      "price": 0.99,
+      "formattedPrice": "£0.99",
       "averageUserRating": 4,
       "userRatingCount": 5
     }

@@ -2,6 +2,9 @@
   "resultCount": 1,
   "results": [
     {
+      "artistViewUrl": "https://apps.apple.com/de/developer/iverify/id1700333884?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/2a/68/e42a6841-cdf4-39f9-966e-afbd52eda459/IvyRelease-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/2a/68/e42a6841-cdf4-39f9-966e-afbd52eda459/IvyRelease-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/24/f8/6c/24f86c84-c055-59cf-1523-3ca50c194ec1/b38288c3-7674-42c0-847d-6e92e648df75_Frame_2.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/35/eb/9b/35eb9b72-ebf0-7551-e03c-a8c84d6e8d7e/38827258-01d6-436f-8e56-34124ba121d0_Frame_3.jpg/392x696bb.jpg",
@@ -15,13 +18,7 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/de/eb/c1/deebc1c2-1ab4-42c7-cdec-0bea399f487f/6cc59cfc-62c1-4bd9-9165-74b9a75e2039_Frame_16.jpg/576x768bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/2a/68/e42a6841-cdf4-39f9-966e-afbd52eda459/IvyRelease-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/2a/68/e42a6841-cdf4-39f9-966e-afbd52eda459/IvyRelease-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/2a/68/e42a6841-cdf4-39f9-966e-afbd52eda459/IvyRelease-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/fr/developer/iverify/id1700333884?uo=4",
-      "features": [
-        "iosUniversal"
-      ],
       "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
@@ -152,48 +149,51 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
+      "features": [
+        "iosUniversal"
+      ],
       "advisories": [],
       "kind": "software",
-      "sellerUrl": "https://www.iverify.io/",
-      "averageUserRating": 4.27848,
       "trackCensoredName": "iVerify Basic",
+      "trackViewUrl": "https://apps.apple.com/de/app/iverify-basic/id1466120520?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.40815,
+      "minimumOsVersion": "14.0",
+      "averageUserRatingForCurrentVersion": 4.40815,
+      "sellerUrl": "https://www.iverify.io/",
       "languageCodesISO2A": [
         "EN"
       ],
       "fileSizeBytes": "58050560",
       "formattedPrice": "0,99 €",
-      "contentAdvisoryRating": "4+",
-      "trackViewUrl": "https://apps.apple.com/fr/app/iverify-basic/id1466120520?uo=4",
+      "userRatingCountForCurrentVersion": 98,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.27848,
-      "genres": [
-        "Utilitaires",
-        "Productivité"
-      ],
       "price": 0.99,
       "artistId": 1700333884,
       "artistName": "iVerify",
-      "isVppDeviceBasedLicensingEnabled": true,
+      "genres": [
+        "Dienst­programme",
+        "Produktivität"
+      ],
       "trackId": 1466120520,
       "trackName": "iVerify Basic",
       "releaseDate": "2019-11-08T08:00:00Z",
-      "bundleId": "com.trailofbits.iverify2",
+      "sellerName": "iVerify LLC",
       "primaryGenreName": "Utilities",
       "primaryGenreId": 6002,
-      "genreIds": [
-        "6002",
-        "6007"
-      ],
+      "currentVersionReleaseDate": "2026-03-02T13:19:19Z",
       "releaseNotes": "Improved scanning stability for better performance",
       "version": "71",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "iVerify Basic is your gateway to enhanced device security and threat awareness, offering a glimpse into the powerful capabilities of our enterprise-grade solution, iVerify EDR. Designed for individuals who prioritize their digital security, iVerify Basic empowers users to take proactive measures to safeguard their devices against a myriad of threats. Users can scan their devices with a tap to detect vulnerabilities and stay proactive against threats.",
-      "userRatingCountForCurrentVersion": 79,
-      "minimumOsVersion": "14.0",
-      "sellerName": "iVerify LLC",
-      "currentVersionReleaseDate": "2026-03-02T13:19:19Z",
-      "userRatingCount": 79
+      "bundleId": "com.trailofbits.iverify2",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "genreIds": [
+        "6002",
+        "6007"
+      ],
+      "userRatingCount": 98
     }
   ]
 }

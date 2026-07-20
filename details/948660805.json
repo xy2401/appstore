@@ -2,15 +2,10 @@
   "resultCount": 1,
   "results": [
     {
-      "isGameCenterEnabled": false,
       "artistViewUrl": "https://apps.apple.com/de/developer/governikus-gmbh-co-kg/id948660804?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/9e/1c/0c9e1cbc-dd40-dddb-d456-11fffeb88925/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/9e/1c/0c9e1cbc-dd40-dddb-d456-11fffeb88925/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [],
-      "kind": "software",
+      "isGameCenterEnabled": false,
       "screenshotUrls": [],
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
@@ -145,33 +140,15 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "minimumOsVersion": "17.0",
-      "averageUserRating": 4.18848,
+      "advisories": [],
+      "kind": "software",
+      "features": [
+        "iosUniversal"
+      ],
       "trackCensoredName": "AusweisApp Bund",
       "trackViewUrl": "https://apps.apple.com/de/app/ausweisapp-bund/id948660805?uo=4",
       "contentAdvisoryRating": "4+",
-      "genres": [
-        "Dienst­programme"
-      ],
-      "artistId": 948660804,
-      "artistName": "Governikus GmbH & Co. KG",
-      "price": 0,
-      "genreIds": [
-        "6002"
-      ],
-      "trackName": "AusweisApp Bund",
-      "trackId": 948660805,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
-      "sellerName": "Governikus GmbH & Co. KG",
-      "currentVersionReleaseDate": "2026-07-15T11:01:32Z",
-      "releaseNotes": "- Visuelle Anpassungen und Optimierungen der grafischen Oberfläche.\n- Ein möglicher Absturz bei der Verwendung der Barrierefreiheitsfunktionen behoben.\n- Optimierung einzelner Barrierefreiheitsfunktionen.\n- Funktionserweiterung des SDKs (siehe Changelog).",
-      "version": "2.5.4",
-      "wrapperType": "software",
-      "currency": "EUR",
-      "description": "Die AusweisApp ist eine Software, die Sie auf Ihrem iPhone, Mac oder iPad installieren, um sich mit Ihrem Personalausweis, Ihrem elektronischen Aufenthaltstitel oder der eID-Karte für Unionsbürger:innen online auszuweisen. \n\nAlle weiterführenden Informationen finden Sie unter: www.ausweisapp.bund.de\n\nDie Erklärung zur Barrierefreiheit der Software finden Sie unter: https://www.ausweisapp.bund.de/barrierefreiheit-app\n\nEntwickelt im Auftrag des Bundesamtes für Sicherheit in der Informationstechnik.",
-      "bundleId": "com.governikus.ausweisapp2",
+      "averageUserRating": 4.18848,
       "averageUserRatingForCurrentVersion": 4.18848,
       "sellerUrl": "https://www.ausweisapp.bund.de",
       "languageCodesISO2A": [
@@ -184,7 +161,30 @@
       "formattedPrice": "Gratis",
       "userRatingCountForCurrentVersion": 209491,
       "trackContentRating": "4+",
+      "artistId": 948660804,
+      "artistName": "Governikus GmbH & Co. KG",
+      "genres": [
+        "Dienst­programme"
+      ],
+      "price": 0,
+      "sellerName": "Governikus GmbH & Co. KG",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "genreIds": [
+        "6002"
+      ],
       "releaseDate": "2019-09-26T07:00:00Z",
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
+      "trackId": 948660805,
+      "trackName": "AusweisApp Bund",
+      "currentVersionReleaseDate": "2026-07-15T11:01:32Z",
+      "releaseNotes": "- Visuelle Anpassungen und Optimierungen der grafischen Oberfläche.\n- Ein möglicher Absturz bei der Verwendung der Barrierefreiheitsfunktionen behoben.\n- Optimierung einzelner Barrierefreiheitsfunktionen.\n- Funktionserweiterung des SDKs (siehe Changelog).",
+      "version": "2.5.4",
+      "wrapperType": "software",
+      "currency": "EUR",
+      "description": "Die AusweisApp ist eine Software, die Sie auf Ihrem iPhone, Mac oder iPad installieren, um sich mit Ihrem Personalausweis, Ihrem elektronischen Aufenthaltstitel oder der eID-Karte für Unionsbürger:innen online auszuweisen. \n\nAlle weiterführenden Informationen finden Sie unter: www.ausweisapp.bund.de\n\nDie Erklärung zur Barrierefreiheit der Software finden Sie unter: https://www.ausweisapp.bund.de/barrierefreiheit-app\n\nEntwickelt im Auftrag des Bundesamtes für Sicherheit in der Informationstechnik.",
+      "minimumOsVersion": "17.0",
+      "bundleId": "com.governikus.ausweisapp2",
       "userRatingCount": 209491
     }
   ]

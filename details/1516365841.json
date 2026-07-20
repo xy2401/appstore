@@ -2,10 +2,6 @@
   "resultCount": 1,
   "results": [
     {
-      "artistViewUrl": "https://apps.apple.com/jp/developer/shuhei-sakai/id552746280?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/6b/84/326b8492-839b-4a05-bf6d-a258367ca511/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/6b/84/326b8492-839b-4a05-bf6d-a258367ca511/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
-      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f6/6f/81/f66f81a2-525f-24d6-9a58-b7fd8790a45d/b0b80cea-fd8d-4917-911e-3ab94025a53d_Simulator_Screenshot_-_iPhone_8_Plus_iOS15_-_2023-11-03_at_15.47.53.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dd/9b/f4/dd9bf461-5255-298e-1d6e-d1ea13eaafa6/6338dd2c-ecf8-45a0-9932-fdeeec581b36_Simulator_Screenshot_-_iPhone_8_Plus_iOS15_-_2023-11-03_at_15.48.51.png/392x696bb.png",
@@ -23,10 +19,7 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/6b/84/326b8492-839b-4a05-bf6d-a258367ca511/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [],
+      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -156,45 +149,52 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
+      "advisories": [],
       "kind": "software",
-      "releaseNotes": "- 水平線の価格の見やすさ向上を目的として、背景と文字色の調整と色の設定画面への遷移ボタンを追加しました。\n- 図形描画ツールにエリオット推進波を追加しました。\n\n【不具合修正】\n- ヘルプ画面(設定 → ヘルプ)内のリンク先が間違っている問題\n- 6月の土曜日5時50分ころのXAUUSDの日付を選択すると読み込みエラーになる問題",
-      "minimumOsVersion": "16.6",
-      "trackCensoredName": "FX検証",
-      "trackViewUrl": "https://apps.apple.com/jp/app/fx%E6%A4%9C%E8%A8%BC/id1516365841?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.69937,
+      "artistViewUrl": "https://apps.apple.com/jp/developer/shuhei-sakai/id552746280?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/6b/84/326b8492-839b-4a05-bf6d-a258367ca511/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/6b/84/326b8492-839b-4a05-bf6d-a258367ca511/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
+      "sellerUrl": "https://tradesimu.com",
       "languageCodesISO2A": [
         "EN",
         "JA"
       ],
       "fileSizeBytes": "27022336",
       "formattedPrice": "¥300",
+      "userRatingCountForCurrentVersion": 316,
       "trackContentRating": "4+",
-      "sellerUrl": "https://tradesimu.com",
+      "averageUserRatingForCurrentVersion": 4.69937,
+      "minimumOsVersion": "16.6",
+      "releaseNotes": "- 水平線の価格の見やすさ向上を目的として、背景と文字色の調整と色の設定画面への遷移ボタンを追加しました。\n- 図形描画ツールにエリオット推進波を追加しました。\n\n【不具合修正】\n- ヘルプ画面(設定 → ヘルプ)内のリンク先が間違っている問題\n- 6月の土曜日5時50分ころのXAUUSDの日付を選択すると読み込みエラーになる問題",
+      "genres": [
+        "ユーティリティ"
+      ],
       "artistId": 552746280,
       "artistName": "Shuhei Sakai",
       "price": 300,
-      "bundleId": "jp.fxtester.fxkensho",
       "genreIds": [
         "6002"
       ],
-      "isVppDeviceBasedLicensingEnabled": true,
-      "sellerName": "Shuhei Sakai",
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
-      "releaseDate": "2020-06-23T07:00:00Z",
       "trackId": 1516365841,
       "trackName": "FX検証",
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
+      "sellerName": "Shuhei Sakai",
+      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-07-08T19:31:28Z",
       "version": "4.2",
       "wrapperType": "software",
       "currency": "JPY",
       "description": "本アプリはチャート再生で練習・検証するためのユーティリティです。\n※ 実際の金銭を伴う取引機能（入出金・約定・口座連携）はありません。\n\nアプリの特徴\n・カレンダーから好きな日付に移動することができます。その当時のチャートを再生できます。\n・カレンダーは画面左上にあるボタンから表示できます。\n・チャートデータは2015年から表示可能です。\n・リアルタイムのデータではありません。過去のデータです。\n・FX銘柄は日曜の朝8時に先週分のデータが追加されます。\n　翌月のカレンダーはアプリのアップデートで追加していますので、アプリ自体をアップデートして頂かないと翌月のデータは表示できません。\n・XAUUSDはアプリのアップデートのタイミングでデータが追加されます。毎週ではありませんのでご注意ください。\n・クリスマスから年明けまではデータ提供が停止します。\n・本アプリでは1分足のデータを使っています。ティックデータではありませんのでリアル性に欠けています。決済の判定も1分単位で行っているため、例えば損切りと利確が同時に発動したケースで秒足レベルでは先に利確されていたとしても損切りが優先されます。精度的に問題があります。\n・本アプリではスプレッド固定となっていますので実際と違いがあります。指標発表時や朝1時間はかなり違いがあります。\n・ pipsから金額への変換に使っているレートは月毎の固定値です。実際は常に変動していますので計算結果には誤差があります。\n・スワップポイントを含めた損益を出すことはできません。\n・各種インジケータは可能な限り正確な結果となるように努めていますが、実際とは多少の誤差がある場合がございます。例えばスプレッド等の違いにより、実際のチャートの計算結果と多少の誤差が発生します。\n・対応時間足：1分足、3分足、5分足、10分足、15分足、30分足、1時間足、2時間足、4時間足、8時間足、12時間足、日足、週足、月足\n・対応通貨ペア：EURUSD, USDJPY, GBPUSD,  AUDUSD, USDCHF, USDCAD,  EURJPY,  GBPJPY,  EURGBP, EURCHF, NZDUSD,  EURAUD, GBPAUD, AUDJPY, GBPCAD, GBPNZD, EURCAD, GBPCHF, AUDNZD, XAUUSD\n・画面レイアウトはiPhone版は2個までチャートを同時に表示できます。iPad版は4個まで同時に表示できます。\n\n注意事項\n・このアプリは為替取引の取引を促進するものではありません。\n・このアプリはシミュレーションソフトです。実際の為替通貨を売ったり買ったりすることはできません。\n・Mac版はありません。\n\nその他の詳細については、ディベロッパWebサイト\nhttps://tradesimu.com をご参照ください。\n\nFX検証アプリをダウンロードすることで、下記の文書に記載されている利用規約に同意したことになります。\nhttps://tradesimu.com/terms\n\nプライバシーポリシー\nhttps://tradesimu.com/privacy",
-      "userRatingCountForCurrentVersion": 316,
-      "averageUserRatingForCurrentVersion": 4.69937,
-      "genres": [
-        "ユーティリティ"
-      ],
+      "averageUserRating": 4.69937,
+      "contentAdvisoryRating": "4+",
+      "trackCensoredName": "FX検証",
+      "trackViewUrl": "https://apps.apple.com/jp/app/fx%E6%A4%9C%E8%A8%BC/id1516365841?uo=4",
+      "releaseDate": "2020-06-23T07:00:00Z",
+      "bundleId": "jp.fxtester.fxkensho",
       "userRatingCount": 316
     }
   ]

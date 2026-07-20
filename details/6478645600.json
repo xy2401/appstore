@@ -2,22 +2,11 @@
   "resultCount": 1,
   "results": [
     {
-      "isGameCenterEnabled": false,
-      "advisories": [],
-      "kind": "software",
       "artistViewUrl": "https://apps.apple.com/jp/developer/zensho-co-ltd/id528555487?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/d8/16/70d816f1-9159-6d20-4b05-34a4c3db0c17/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/d8/16/70d816f1-9159-6d20-4b05-34a4c3db0c17/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.jpg",
+      "isGameCenterEnabled": false,
       "features": [],
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fd/7b/80/fd7b80fc-fd66-d43e-bb4d-c7efdfa584fa/IOS_5.5.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/00/5e/43/005e4327-9168-791b-c996-51f7b2f867f2/IOS5.5.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/55/7a/f5557a68-06d8-28e9-5499-75fb1367e165/3162c046-2bee-4b4c-ad54-f59bdef62ccc_IOS_5_5inch_3.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/78/ae/6d/78ae6df4-00bc-b573-2fd4-0bd226ff5ff5/408f57b1-e95d-4c63-9e69-d8ca826bb0ea_IOS_5_5inch_4.png/392x696bb.png"
-      ],
-      "ipadScreenshotUrls": [],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/d8/16/70d816f1-9159-6d20-4b05-34a4c3db0c17/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -147,31 +136,47 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
+      "advisories": [],
+      "kind": "software",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fd/7b/80/fd7b80fc-fd66-d43e-bb4d-c7efdfa584fa/IOS_5.5.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/00/5e/43/005e4327-9168-791b-c996-51f7b2f867f2/IOS5.5.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/55/7a/f5557a68-06d8-28e9-5499-75fb1367e165/3162c046-2bee-4b4c-ad54-f59bdef62ccc_IOS_5_5inch_3.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/78/ae/6d/78ae6df4-00bc-b573-2fd4-0bd226ff5ff5/408f57b1-e95d-4c63-9e69-d8ca826bb0ea_IOS_5_5inch_4.png/392x696bb.png"
+      ],
+      "ipadScreenshotUrls": [],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/d8/16/70d816f1-9159-6d20-4b05-34a4c3db0c17/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "trackCensoredName": "ゼッテリア",
+      "trackViewUrl": "https://apps.apple.com/jp/app/%E3%82%BC%E3%83%83%E3%83%86%E3%83%AA%E3%82%A2/id6478645600?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 1.86264,
+      "userRatingCountForCurrentVersion": 182,
       "minimumOsVersion": "15.0",
-      "artistId": 528555487,
-      "artistName": "ZENSHO CO.,LTD.",
       "genres": [
         "フード／ドリンク",
         "ライフスタイル"
       ],
       "price": 0,
-      "trackName": "ゼッテリア",
       "primaryGenreName": "Food & Drink",
       "primaryGenreId": 6023,
-      "isVppDeviceBasedLicensingEnabled": true,
+      "bundleId": "jp.co.zensho.zetteria",
       "releaseDate": "2024-05-08T07:00:00Z",
       "sellerName": "ZENSHO CO.,LTD.",
+      "trackName": "ゼッテリア",
+      "trackId": 6478645600,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "genreIds": [
+        "6023",
+        "6012"
+      ],
       "currentVersionReleaseDate": "2026-07-01T06:00:18Z",
+      "releaseNotes": "クーポン関連のUI改善と一部デザインの変更を行いました。",
       "version": "1.1.9",
       "wrapperType": "software",
       "currency": "JPY",
       "description": "ゼッテリア公式アプリは、ゼッテリアをもっとお得にもっと便利にご利用いただけるアプリです。\n\n【ご利用いただける機能】\n\n◆アプリで簡単モバイルオーダー◆\nお店にご来店されなくても、アプリでお持ち帰り注文が可能です！\nクレジットカードの登録で簡単決済！\n※3Dセキュア認証対応カードが必須です。\n\n◆お好きな時間に受け取り予約◆\n指定時間にお店に行くことで、待たずに商品が受け取れます！\n24時間注文・1ヶ月先のご予約もできます！\n（一部店舗を除く）\n\n◆モバイルオーダーで共通ポイント付与◆\nモバイルオーダーで共通ポイントが貯まります！\n\n◆お得なクーポンをGET◆\n限定クーポンが使用できます！\n\n◆店舗検索◆\n「近くの店舗」や「住所」で店舗が検索できます！",
       "averageUserRatingForCurrentVersion": 1.86264,
-      "bundleId": "jp.co.zensho.zetteria",
-      "trackCensoredName": "ゼッテリア",
-      "trackViewUrl": "https://apps.apple.com/jp/app/%E3%82%BC%E3%83%83%E3%83%86%E3%83%AA%E3%82%A2/id6478645600?uo=4",
-      "contentAdvisoryRating": "4+",
-      "userRatingCountForCurrentVersion": 182,
       "sellerUrl": "https://www.zetteria.jp/",
       "languageCodesISO2A": [
         "EN",
@@ -180,13 +185,8 @@
       "fileSizeBytes": "80512000",
       "formattedPrice": "無料",
       "trackContentRating": "4+",
-      "averageUserRating": 1.86264,
-      "genreIds": [
-        "6023",
-        "6012"
-      ],
-      "releaseNotes": "クーポン関連のUI改善と一部デザインの変更を行いました。",
-      "trackId": 6478645600,
+      "artistId": 528555487,
+      "artistName": "ZENSHO CO.,LTD.",
       "userRatingCount": 182
     }
   ]

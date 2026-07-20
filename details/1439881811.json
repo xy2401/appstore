@@ -3,9 +3,6 @@
   "results": [
     {
       "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -137,9 +134,6 @@
       ],
       "advisories": [],
       "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/us/developer/sds-weather-llc/id1727853866?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/80/11/018011ab-4a71-f65c-228d-1b138c81ce85/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/80/11/018011ab-4a71-f65c-228d-1b138c81ce85/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
       "screenshotUrls": [],
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/0d/d4/380dd4ad-b176-a022-2d20-7aed9117420c/36ee86ec-f1d9-4297-92e0-ea0df446ebaf_1.png/576x768bb.png",
@@ -154,9 +148,14 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/00/cf/b8/00cfb834-ed44-0a55-9fbb-691b46831417/0cd5bf19-cf98-4432-8cb4-fa4036826240_10.png/576x768bb.png"
       ],
       "appletvScreenshotUrls": [],
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/80/11/018011ab-4a71-f65c-228d-1b138c81ce85/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/80/11/018011ab-4a71-f65c-228d-1b138c81ce85/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/80/11/018011ab-4a71-f65c-228d-1b138c81ce85/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/us/developer/sds-weather-llc/id1727853866?uo=4",
+      "features": [
+        "iosUniversal"
+      ],
       "releaseNotes": "Minor bug fixes",
-      "minimumOsVersion": "16.0",
       "artistId": 1727853866,
       "artistName": "SDS Weather LLC",
       "genres": [
@@ -165,35 +164,36 @@
       ],
       "price": 8.99,
       "bundleId": "com.stromdamage.RadarX",
-      "releaseDate": "2019-03-14T14:36:12Z",
       "trackId": 1439881811,
       "trackName": "RadarOmega: Doppler Radar App",
+      "primaryGenreName": "Weather",
+      "primaryGenreId": 6001,
+      "isVppDeviceBasedLicensingEnabled": true,
       "genreIds": [
         "6001",
         "6017"
       ],
-      "primaryGenreName": "Weather",
-      "primaryGenreId": 6001,
       "sellerName": "SDS Weather INC",
-      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseDate": "2019-03-14T14:36:12Z",
       "currentVersionReleaseDate": "2026-07-15T16:39:39Z",
       "version": "5.8.0",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Welcome to RadarOmega, the next-generation weather app that keeps you up to date with live, local radar, real-time severe weather alerts, and more. Our high-resolution weather data app operates in the US, Canada, Germany, Australia, and South Korea.\n\nRadarOmega provides unique data solutions for all types of weather data, customized to your needs and weather alert preferences. From severe weather to local radar, advanced meteorology technology provides detailed insights for full weather coverage. Track high-resolution radar data, flash flood warnings, excessive rainfall, tornado watches, and more. \n\nRadarOmega created an exclusive network of weather stations featuring live video and sensor data called cyclonePORT. RadarOmega and cyclonePORT work closely with universities, emergency managers, broadcast meteorologists, and more to provide solutions for relaying extreme weather information through weather alerts.\n\nView weather alerts for wind speeds, precipitation, extreme temperatures, severe weather, hurricanes, and tornadoes seamlessly. Users can subscribe to different packages to access additional data on satellite, MRMS, and models. Explore Alpha, Beta, or Gamma subscriptions to access data from winter to hurricane season. \n\nDownload today to start viewing your customizable weather alerts.\n\nRADAROMEGA APP FEATURES:\n\nEXTREME WEATHER DATA & METEOROLOGY REPORTS\n- High-resolution radar: Level 2 & 3, Dual Pol\n- MRMS: Reflectivity, hail, rotation tracks, precipitation, etc\n- Satellite: Visible, LWIR, water vapor\n- Models: HRRR, NAM3KM, NAM12KM, RAP, GFS, ECMWF\n- NDFD: Temperature, wind speeds, wind gusts, snow totals\n\nBASE APPLICATION RADAR & ALERTS\n- High-resolution single site radar\n- Severe weather outlooks & daily meteorology monitoring for excessive rainfall, fire weather & more\n- Extreme weather alerts for snow, rain, flash floods, hurricanes, tornadoes, etc. with flash animation & in-app sound alerts\n- Real-time NWS storm-based warnings\n- Radar & map type customization tools\n- Buoy data & tidal forecast charts\n- & more\n\nGAMMA PACKAGE\n- Hi-Res Satellite Data\n- Lightning Detection/Animation, METARS, & GLM for Mesoscale & Storm-Based Satellite Sectors\n- National Digital Forecast Database\n- Access to Project MesoVort\n- 75 Frames of Data\n- Dual View Radar with 30 Frames\n- Smoothing for Radar/Satellite\n- 30 Day Radar History\n- 6 Month Storm Report Archive\n- 3D Radar / Satellite\n- Upload 3 Custom Color Tables\n- 30 Custom Locations with Icon Upload & 2 Custom Location Lists\n\nBETA PACKAGE\n*Everything in Gamma PLUS*\n- MRMS Data\n- 150 Frames of Data\n- Dual View Radar/Satellite with 50 Frames\n- Smoothing for MRMS\n- 90 Day Radar History\n- 5 Year Storm Report Archive\n- 3D MRMS\n- Upload 8 Custom Color Tables\n- 75 Custom Locations with Icon Upload & 5 Custom Location Lists\n\nALPHA PACKAGE\n*Everything in Beta PLUS*\n- Volumetric Radar\n- Model Data with Contours for HRRR, NAM3KM, NAM12KM, RAP, GFS, ECMWF, HWRF, & HMON\n- 250 Frames of Data\n- Dual View Radar/Satellite with 100 Frames\n- Quad View Radar/Satellite on Tablet & Desktop with 50 Frames\n- Smoothing for Models\n- 90 Day Radar History\n- 10 Year Storm Report Archive\n- Upload 30 Custom Color Tables\n- 150 Custom Locations with Icon Upload & 10 Custom Location Lists\n- Lightning Monitoring: 1 Site Lightning Monitoring with Custom Range Zones\n\nAdditional Add-Ons\n- RapidSweep\n\nStart your subscription today to start tracking local radars, daily temps, precipitation, and extreme weather!\n\nSubscriptions are maintained through the iOS App Store. We will work with our customers; however, refunds must be done through the iOS App Store. Please be sure to reach out to our support team if you have any problems, questions, or concerns.\n\nFor Support - You can create a ticket, and we will resolve it as soon as possible:\nhttps://radaromegawx.supportbee.io/portal/sign_in\n\nSee our Terms of Service below: https://www.radaromega.com/terms.php",
+      "userRatingCountForCurrentVersion": 896,
+      "averageUserRatingForCurrentVersion": 3.5279,
       "averageUserRating": 3.5279,
       "trackCensoredName": "RadarOmega: Doppler Radar App",
-      "trackViewUrl": "https://apps.apple.com/us/app/radaromega-doppler-radar-app/id1439881811?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRatingForCurrentVersion": 3.5279,
-      "sellerUrl": "https://www.radaromega.com",
       "languageCodesISO2A": [
         "EN"
       ],
       "fileSizeBytes": "6951936",
       "formattedPrice": "$8.99",
-      "userRatingCountForCurrentVersion": 896,
+      "contentAdvisoryRating": "4+",
+      "trackViewUrl": "https://apps.apple.com/us/app/radaromega-doppler-radar-app/id1439881811?uo=4",
       "trackContentRating": "4+",
+      "sellerUrl": "https://www.radaromega.com",
+      "minimumOsVersion": "16.0",
       "userRatingCount": 896
     }
   ]

@@ -3,9 +3,6 @@
   "results": [
     {
       "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
       "supportedDevices": [
         "MacDesktop-MacDesktop",
         "iPhone5s-iPhone5s",
@@ -138,15 +135,17 @@
       ],
       "advisories": [],
       "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/us/developer/forscore-llc/id797590287?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/04/fe/9004fe56-284f-fba2-ff84-c83ab180e097/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/04/fe/9004fe56-284f-fba2-ff84-c83ab180e097/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.jpg",
       "screenshotUrls": [],
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/04/fe/9004fe56-284f-fba2-ff84-c83ab180e097/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/60x60bb.jpg",
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/04/fe/9004fe56-284f-fba2-ff84-c83ab180e097/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/04/fe/9004fe56-284f-fba2-ff84-c83ab180e097/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/us/developer/forscore-llc/id797590287?uo=4",
+      "features": [
+        "iosUniversal"
+      ],
       "releaseNotes": "This update fixes a bug that prevented external display options from appearing and resolves an issue that failed to properly restore cropped pages from archives.",
-      "minimumOsVersion": "17.0",
       "artistId": 797590287,
       "artistName": "forScore, LLC",
       "genres": [
@@ -155,28 +154,26 @@
       ],
       "price": 24.99,
       "bundleId": "com.mgsdevelopment.forscore",
-      "releaseDate": "2010-04-09T19:24:51Z",
       "trackId": 363738376,
       "trackName": "forScore",
+      "primaryGenreName": "Music",
+      "primaryGenreId": 6011,
+      "isVppDeviceBasedLicensingEnabled": true,
       "genreIds": [
         "6011",
         "6018"
       ],
-      "primaryGenreName": "Music",
-      "primaryGenreId": 6011,
       "sellerName": "forScore, LLC",
-      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseDate": "2010-04-09T19:24:51Z",
       "currentVersionReleaseDate": "2026-04-23T13:44:58Z",
       "version": "15.1.2",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Go paperless. Get organized. Download and play something new in seconds. With forScore for iOS, iPadOS, macOS and visionOS, your scores have never been better—it’s everything you can do with paper and so much more. As seen in Apple keynote addresses and retail stores worldwide!\n\nOn your music stand or on the go, it's the complete PDF sheet music reading experience that has wowed musicians all over the world for years:\n\nCONNECT\n• Copy PDFs from other apps like Safari and Mail and sync them to all of your devices with iCloud\n• Import scores from popular cloud storage services and content providers like Musicnotes.com\n• Share scores and setlists with colleagues, whether or not they use forScore\n\nORGANIZE\n• Add metadata to your scores for a perfectly browsable, instantly searchable library\n• Create smart bookmarks to manage longer files containing multiple parts or pieces\n• Group scores manually with Setlists to play through them from start to finish\n\nPLAY\n• View full pages in portrait orientation and crop them to better fit your device's screen\n• Turn your device sideways for bigger scrolling pages or view two pages side by side instead\n• Use Reflow on smaller screens to lay out systems of music end-to-end like a horizontal teleprompter\n\nREFINE\n• Enter annotation mode to draw, type text, or place common symbols onto the page\n• Separate your annotations into layers and show or hide them at any time\n• Open scores and setlists in multiple windows or tabs to multitask with ease\n\nSIMPLIFY\n• Create links and buttons to handle repeats or perform common actions with a single tap\n• Rearrange and duplicate pages of a score to play without jumping back and forth\n• Connect your Bluetooth page turner for hands-free navigation\n\nEXTEND\n• Access integrated utilities like our metronome, pitch pipe, tuner, and piano keyboard\n• Link tracks to scores to loop regions, adjust pitch, and even use them to record and play back your page turns\n• Connect wirelessly to nearby devices and coordinate your page turns and program changes effortlessly\n\n\nThere's much more than those highlights, though, so be sure to visit forscore.co to learn all about forScore's incredible features and find out why so many musicians agree that forScore is simply the best!\n\n\nNote: forScore also offers an optional, annual auto-renewing subscription called forScore Pro that unlocks additional features and content (visit forScore.co/pro for complete details). forScore Pro is a 1-year subscription that renews automatically until canceled. Should you choose to subscribe, payment will be charged to your iTunes Account upon confirmation of purchase. Your subscription will then automatically renew unless canceled at least 24 hours before the end of the current period. You can manage your subscriptions in your iTunes Account Settings after purchase. Complete terms of service are available on our website at: forScore.co/terms-of-service",
+      "userRatingCountForCurrentVersion": 42227,
+      "averageUserRatingForCurrentVersion": 4.80762,
       "averageUserRating": 4.80762,
       "trackCensoredName": "forScore",
-      "trackViewUrl": "https://apps.apple.com/us/app/forscore/id363738376?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.80762,
-      "sellerUrl": "https://forscore.co",
       "languageCodesISO2A": [
         "DA",
         "NL",
@@ -195,8 +192,11 @@
       ],
       "fileSizeBytes": "27414528",
       "formattedPrice": "$24.99",
-      "userRatingCountForCurrentVersion": 42227,
+      "contentAdvisoryRating": "4+",
+      "trackViewUrl": "https://apps.apple.com/us/app/forscore/id363738376?uo=4",
       "trackContentRating": "4+",
+      "sellerUrl": "https://forscore.co",
+      "minimumOsVersion": "17.0",
       "userRatingCount": 42227
     }
   ]

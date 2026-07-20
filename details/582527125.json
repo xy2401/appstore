@@ -2,6 +2,7 @@
   "resultCount": 1,
   "results": [
     {
+      "isGameCenterEnabled": false,
       "screenshotUrls": [],
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
@@ -12,7 +13,10 @@
       "features": [
         "iosUniversal"
       ],
-      "isGameCenterEnabled": false,
+      "advisories": [
+        "Scènes rares/modérées d’humour vulgaire ou blasphématoire"
+      ],
+      "kind": "software",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -142,49 +146,45 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "advisories": [
-        "Scènes rares/modérées d’humour vulgaire ou blasphématoire"
-      ],
-      "kind": "software",
-      "sellerUrl": "https://www.wikicamps.co.nz/",
+      "averageUserRatingForCurrentVersion": 3.7037,
       "averageUserRating": 3.7037,
       "trackCensoredName": "WikiCamps New Zealand",
       "languageCodesISO2A": [
         "EN"
       ],
       "fileSizeBytes": "105705472",
+      "sellerUrl": "https://www.wikicamps.co.nz/",
       "formattedPrice": "4,99 €",
       "contentAdvisoryRating": "9+",
+      "userRatingCountForCurrentVersion": 27,
       "trackViewUrl": "https://apps.apple.com/fr/app/wikicamps-new-zealand/id582527125?uo=4",
       "trackContentRating": "9+",
-      "averageUserRatingForCurrentVersion": 3.7037,
-      "genres": [
-        "Voyages",
-        "Références"
-      ],
-      "price": 4.99,
       "artistId": 469872262,
       "artistName": "WikiCamps pty ltd",
-      "isVppDeviceBasedLicensingEnabled": true,
+      "price": 4.99,
       "trackId": 582527125,
       "trackName": "WikiCamps New Zealand",
+      "sellerName": "WikiCamps pty ltd",
       "releaseDate": "2012-12-17T08:50:05Z",
-      "bundleId": "au.com.angryrobot.wikicampsnz",
-      "primaryGenreName": "Travel",
-      "primaryGenreId": 6003,
       "genreIds": [
         "6003",
         "6006"
       ],
-      "releaseNotes": "Minor bug fixes and improvements.",
+      "currentVersionReleaseDate": "2026-07-07T23:07:34Z",
       "version": "6.2.2",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "The app for knowing where you’re going.\n\n\n--- Explore over 12,000 sites across New Zealand ---\nWhether you're heading away for a weekend camping trip or planning a big adventure, find the right places for you with WikiCamps!\n\nSearch with ease using intuitive filters to access detailed information, provided and kept up to date by a community of like-minded WikiCampers.\n\nGet exclusive insights from real travellers, including authentic reviews, fee information to help your budgeting, and photos that show you the real deal—before you travel.\n\n\n--- Plan your journey from here to there or anywhere ---\nWikiCamps has the ultimate tools to plan your next journey.\n\nUse collections to create a wishlist, mark where you’ve been, or remember places you liked on previous adventures.\n\nIn Trip Planner, you can build an itinerary, plot a route, gauge your fuel spend, and see every place in your journey mapped out.\n\n\n--- No signal? No worries! Use offline mode ---\nThanks to offline mode, you can download everything you need to explore and travel. You’ll always be in the know, wherever you go!\n\n\n--- New! Book and Save with WikiCamps ---\nMany of your favourite sites are now bookable through WikiCamps! Plus, check out how you can save money on your travels with our partners.\n\n\n--- Why not download the ultimate travel companion today? ---",
-      "userRatingCountForCurrentVersion": 27,
       "minimumOsVersion": "14.0",
-      "sellerName": "WikiCamps pty ltd",
-      "currentVersionReleaseDate": "2026-07-07T23:07:34Z",
+      "primaryGenreName": "Travel",
+      "primaryGenreId": 6003,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseNotes": "Minor bug fixes and improvements.",
+      "genres": [
+        "Voyages",
+        "Références"
+      ],
+      "bundleId": "au.com.angryrobot.wikicampsnz",
       "userRatingCount": 27
     }
   ]

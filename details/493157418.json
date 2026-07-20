@@ -2,20 +2,11 @@
   "resultCount": 1,
   "results": [
     {
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/25/23/86/25238609-8333-db17-8602-2f556b74825f/mzl.fxmxfymp.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/21/53/8c/21538c8a-ec04-5849-59ce-85a28d009857/mzl.mzbceqzl.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/98/32/40/983240a3-8a5f-60c5-0607-57c8ddcefb7c/mzl.oqsnxwml.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/d0/7f/85/d07f8565-4568-5fb4-1815-3ff2ed0c1d86/mzl.psxntofa.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/81/ff/24/81ff2471-6cfa-d43e-9789-39ace54dab47/mzl.fxumfcrh.png/392x696bb.png"
-      ],
-      "ipadScreenshotUrls": [],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/c2/43/16c24345-4372-c1fa-fe74-0d1a5f8c809f/AppIcon-0-0-1x_U007epad-0-6-0-85-220.png/512x512bb.jpg",
       "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
       ],
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -145,28 +136,22 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "advisories": [],
       "kind": "software",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/c2/43/16c24345-4372-c1fa-fe74-0d1a5f8c809f/AppIcon-0-0-1x_U007epad-0-6-0-85-220.png/100x100bb.jpg",
       "artistViewUrl": "https://apps.apple.com/gb/developer/musictheory-net/id459313479?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/c2/43/16c24345-4372-c1fa-fe74-0d1a5f8c809f/AppIcon-0-0-1x_U007epad-0-6-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/c2/43/16c24345-4372-c1fa-fe74-0d1a5f8c809f/AppIcon-0-0-1x_U007epad-0-6-0-85-220.png/100x100bb.jpg",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/25/23/86/25238609-8333-db17-8602-2f556b74825f/mzl.fxmxfymp.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/21/53/8c/21538c8a-ec04-5849-59ce-85a28d009857/mzl.mzbceqzl.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/98/32/40/983240a3-8a5f-60c5-0607-57c8ddcefb7c/mzl.oqsnxwml.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/d0/7f/85/d07f8565-4568-5fb4-1815-3ff2ed0c1d86/mzl.psxntofa.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/81/ff/24/81ff2471-6cfa-d43e-9789-39ace54dab47/mzl.fxumfcrh.png/392x696bb.png"
+      ],
+      "ipadScreenshotUrls": [],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/c2/43/16c24345-4372-c1fa-fe74-0d1a5f8c809f/AppIcon-0-0-1x_U007epad-0-6-0-85-220.png/512x512bb.jpg",
+      "releaseNotes": "- Fixes an issue where opening a link to a lesson could fail.\n- Updates the app icon used in Dark, Clear, or Tinted modes.\n- Fixes an issue where the wrong image would show in \"The Staff, Clefs, and Ledger Lines\".\n- Corrects typographical errors in \"The Minor Scales\", \"Diatonic Seventh Chords\", and \"Roman Numeral Analysis: Seventh Chords\".",
       "minimumOsVersion": "15.8",
-      "sellerUrl": "https://www.musictheory.net/products/lessons",
-      "languageCodesISO2A": [
-        "EN"
-      ],
-      "fileSizeBytes": "4576256",
-      "formattedPrice": "£2.99",
-      "userRatingCountForCurrentVersion": 12,
-      "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.08333,
-      "artistId": 459313479,
-      "artistName": "musictheory.net",
-      "genres": [
-        "Music",
-        "Education"
-      ],
-      "price": 2.99,
       "bundleId": "net.musictheory.TheoryLessons",
       "genreIds": [
         "6011",
@@ -174,21 +159,36 @@
       ],
       "trackId": 493157418,
       "trackName": "Theory Lessons",
-      "releaseDate": "2012-01-17T08:00:00Z",
-      "sellerName": "musictheory.net, LLC",
       "isVppDeviceBasedLicensingEnabled": true,
+      "releaseDate": "2012-01-17T08:00:00Z",
       "primaryGenreName": "Music",
       "primaryGenreId": 6011,
-      "releaseNotes": "- Fixes an issue where opening a link to a lesson could fail.\n- Updates the app icon used in Dark, Clear, or Tinted modes.\n- Fixes an issue where the wrong image would show in \"The Staff, Clefs, and Ledger Lines\".\n- Corrects typographical errors in \"The Minor Scales\", \"Diatonic Seventh Chords\", and \"Roman Numeral Analysis: Seventh Chords\".",
+      "sellerName": "musictheory.net, LLC",
       "currentVersionReleaseDate": "2026-04-21T16:47:55Z",
       "version": "3.2.1",
       "wrapperType": "software",
       "currency": "GBP",
       "description": "Theory Lessons features 39 music theory lessons from musictheory.net, presented in their original animated versions.\n\nComplete lesson list:\n\n• The Staff, Clefs, and Ledger Lines\n• Note Duration\n• Measures and Time Signature\n• Rest Duration\n• Dots and Ties\n• Steps and Accidentals\n\n• Simple and Compound Meter\n• Odd Meter\n\n• The Major Scale\n• The Minor Scales\n• Scale Degrees\n• Key Signatures\n• Key Signature Calculation\n\n• Generic Intervals\n• Specific Intervals\n• Writing Intervals\n• Interval Inversion\n\n• Introduction to Chords\n• Triad Inversion\n• Seventh Chords\n• More Seventh Chords\n• Seventh Chord Inversion\n\n• Diatonic Triads\n• Roman Numeral Analysis: Triads\n• Diatonic Seventh Chords\n• Roman Numeral Analysis: Seventh Chords\n• Composing with Minor Scales\n• Voicing Chords\n• Analysis: O Canada\n\n• Nonharmonic Tones\n• Phrases and Cadences\n• Circle Progressions\n• Common Chord Progressions\n• Triads in First Inversion\n• Triads in Second Inversion\n• Analysis: Auld Lang Syne\n\n• Building Neapolitan Chords\n• Using Neapolitan Chords\n• Analysis: Moonlight Sonata",
-      "contentAdvisoryRating": "4+",
       "trackCensoredName": "Theory Lessons",
       "trackViewUrl": "https://apps.apple.com/gb/app/theory-lessons/id493157418?uo=4",
+      "contentAdvisoryRating": "4+",
       "averageUserRating": 4.08333,
+      "userRatingCountForCurrentVersion": 12,
+      "averageUserRatingForCurrentVersion": 4.08333,
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "fileSizeBytes": "4576256",
+      "formattedPrice": "£2.99",
+      "trackContentRating": "4+",
+      "sellerUrl": "https://www.musictheory.net/products/lessons",
+      "genres": [
+        "Music",
+        "Education"
+      ],
+      "price": 2.99,
+      "artistId": 459313479,
+      "artistName": "musictheory.net",
       "userRatingCount": 12
     }
   ]

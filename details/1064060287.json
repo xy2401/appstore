@@ -2,6 +2,12 @@
   "resultCount": 1,
   "results": [
     {
+      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
+      "advisories": [],
+      "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/df/ae/f3/dfaef36f-f6e2-4af1-dd19-3bee4353f912/pr_source.png/406x228bb.png"
       ],
@@ -9,16 +15,10 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/1b/aa/bd/1baabd57-0f0e-ac9e-1807-61ab398d3ebf/pr_source.png/552x414bb.png"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/f8/88/a7f888f6-f414-841d-5bfd-a40560dd90ae/AppIcon-0-0-1x_U007emarketing-0-7-85-220.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/cn/developer/%E8%81%83-%E5%BC%A0/id1064060286?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/f8/88/a7f888f6-f414-841d-5bfd-a40560dd90ae/AppIcon-0-0-1x_U007emarketing-0-7-85-220.png/60x60bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/f8/88/a7f888f6-f414-841d-5bfd-a40560dd90ae/AppIcon-0-0-1x_U007emarketing-0-7-85-220.png/512x512bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/f8/88/a7f888f6-f414-841d-5bfd-a40560dd90ae/AppIcon-0-0-1x_U007emarketing-0-7-85-220.png/100x100bb.jpg",
-      "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [],
-      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/cn/developer/%E8%81%83-%E5%BC%A0/id1064060286?uo=4",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -148,42 +148,42 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "averageUserRatingForCurrentVersion": 3.03279,
-      "languageCodesISO2A": [
-        "EN"
-      ],
-      "trackCensoredName": "XP3Player",
-      "trackViewUrl": "https://apps.apple.com/cn/app/xp3player/id1064060287?uo=4",
-      "contentAdvisoryRating": "17+",
-      "averageUserRating": 3.03279,
-      "fileSizeBytes": "38014976",
-      "formattedPrice": "¥58.00",
-      "trackContentRating": "17+",
-      "releaseNotes": "- Support for iOS 26\n- Support for high resolution / high refresh rate devices\n- Documents can be displayed in the File app\n- Stability improvements",
+      "artistId": 1064060286,
+      "artistName": "聃 张",
       "genres": [
         "工具"
       ],
+      "price": 58,
       "bundleId": "tvp.XP3Player",
-      "trackName": "XP3Player",
       "trackId": 1064060287,
+      "trackName": "XP3Player",
       "genreIds": [
         "6002"
       ],
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseDate": "2016-03-20T14:05:21Z",
-      "sellerName": "聃 张",
       "primaryGenreName": "Utilities",
       "primaryGenreId": 6002,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseDate": "2016-03-20T14:05:21Z",
+      "releaseNotes": "- Support for iOS 26\n- Support for high resolution / high refresh rate devices\n- Documents can be displayed in the File app\n- Stability improvements",
       "currentVersionReleaseDate": "2026-05-02T11:39:29Z",
+      "sellerName": "聃 张",
       "version": "1.3.12",
       "wrapperType": "software",
       "currency": "CNY",
       "description": "A simple interactive video player written in C++. Let you watch many video formats on your iOS devices.\n\nSupport many media formats like AVI/RMVB/MP4/XP3/MKV/etc.\nYou can transfer media files using File app or the built-in HTTP server.",
       "minimumOsVersion": "15.6",
+      "averageUserRatingForCurrentVersion": 3.03279,
+      "averageUserRating": 3.03279,
+      "trackCensoredName": "XP3Player",
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "fileSizeBytes": "38014976",
+      "formattedPrice": "¥58.00",
+      "contentAdvisoryRating": "17+",
       "userRatingCountForCurrentVersion": 732,
-      "price": 58,
-      "artistId": 1064060286,
-      "artistName": "聃 张",
+      "trackViewUrl": "https://apps.apple.com/cn/app/xp3player/id1064060287?uo=4",
+      "trackContentRating": "17+",
       "userRatingCount": 732
     }
   ]

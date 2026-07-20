@@ -2,6 +2,7 @@
   "resultCount": 1,
   "results": [
     {
+      "isGameCenterEnabled": false,
       "screenshotUrls": [],
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
@@ -10,7 +11,8 @@
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/c0/b1/8cc0b1e0-e035-5f77-4438-88b53cf1c4fc/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/100x100bb.jpg",
       "artistViewUrl": "https://apps.apple.com/fr/developer/beyond-logic-ab/id1896664450?uo=4",
       "features": [],
-      "isGameCenterEnabled": false,
+      "advisories": [],
+      "kind": "software",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -140,9 +142,7 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "advisories": [],
-      "kind": "software",
-      "sellerUrl": "https://unora.se",
+      "averageUserRatingForCurrentVersion": 0,
       "averageUserRating": 0,
       "trackCensoredName": "Unora",
       "languageCodesISO2A": [
@@ -150,36 +150,36 @@
         "SV"
       ],
       "fileSizeBytes": "144073728",
+      "sellerUrl": "https://unora.se",
       "formattedPrice": "1,99 €",
       "contentAdvisoryRating": "4+",
+      "userRatingCountForCurrentVersion": 0,
       "trackViewUrl": "https://apps.apple.com/fr/app/unora/id6739263703?uo=4",
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 0,
-      "genres": [
-        "Productivité"
-      ],
-      "price": 1.99,
       "artistId": 1896664450,
       "artistName": "Beyond Logic AB",
-      "isVppDeviceBasedLicensingEnabled": true,
+      "price": 1.99,
       "trackId": 6739263703,
       "trackName": "Unora",
+      "sellerName": "Beyond Logic AB",
       "releaseDate": "2025-05-02T07:00:00Z",
-      "bundleId": "se.unoraab.unora",
-      "primaryGenreName": "Productivity",
-      "primaryGenreId": 6007,
       "genreIds": [
         "6007"
       ],
-      "releaseNotes": "Buggfixar",
+      "currentVersionReleaseDate": "2026-07-14T15:59:32Z",
       "version": "1.8.6",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Förenkla ditt digitala liv med Unora!\nSäg hejdå till kaoset av att konstant växla mellan flera appar. Unora samlar dina email, meddelanden från Instagram, Slack, WhatsApp, Snapchat, Gmail och Discord i en användarvänlig app. Bli den organiserade personen du alltid velat vara med  hjälp av funktioner såsom filtrering, färgkodning och maillistor.\n\nKOMMUNIKATION\nUnora är en universell messagingapp som visar chattar och mail från flertal chattplattformar i ett interface. Den stödjer appar som Instagram, WhatsApp, Gmail samt 4 ytterligare plattformar, tillåter dig att skicka och svara på meddelanden utan att behöva växla mellan appar. \n\nFILTRERING \nAppen erbjuder organiserade funktioner såsom filtrering, maillistor och färgkodning. Unora ger rum för en användarvänlig design som främjar enkelhet och effektivitet. \n\nMAILLISTOR\nHar du en mail-inkorg fylld med reklam och nyhetsbrev där de viktiga mailen försvinner? Genom Unora kan du se en tydlig och enad lista över alla nyhetsbrev från ditt kopplade mail-konto. I samma lista kan du med ett klick även avregistrera dig!\n\nUnora är kompatibel med iPhone-enheter med iOS 18.0 eller nyare.\n\n\nMer finner du på https://unora.se/\n\nTerms of Service: https://unora.se/terms\nPrivacy Policy: https://unora.se/privacy",
-      "userRatingCountForCurrentVersion": 0,
       "minimumOsVersion": "18.0",
-      "sellerName": "Beyond Logic AB",
-      "currentVersionReleaseDate": "2026-07-14T15:59:32Z",
+      "primaryGenreName": "Productivity",
+      "primaryGenreId": 6007,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseNotes": "Buggfixar",
+      "genres": [
+        "Productivité"
+      ],
+      "bundleId": "se.unoraab.unora",
       "userRatingCount": 0
     }
   ]

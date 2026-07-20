@@ -2,6 +2,7 @@
   "resultCount": 1,
   "results": [
     {
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/29/ad/45/29ad45d9-71b0-0922-6d1d-cbacf0df6547/iOS_AS_iPhone_5.5_Hero_One_Screen.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1c/b9/23/1cb923b1-5112-a202-685d-b301454d88b4/AS_5.5_Value_1.png/392x696bb.png",
@@ -14,15 +15,14 @@
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/f0/cc/35f0cc51-ca9c-f54d-2653-b44a8359fd38/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
+      "kind": "software",
       "artistViewUrl": "https://apps.apple.com/us/developer/microsoft-corporation/id298856275?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/f0/cc/35f0cc51-ca9c-f54d-2653-b44a8359fd38/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/f0/cc/35f0cc51-ca9c-f54d-2653-b44a8359fd38/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/100x100bb.jpg",
       "advisories": [],
-      "kind": "software",
-      "features": [
-        "iosUniversal"
-      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -152,7 +152,7 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "sellerUrl": "https://products.office.com/mobile/office",
+      "userRatingCountForCurrentVersion": 1294027,
       "languageCodesISO2A": [
         "AR",
         "CA",
@@ -191,38 +191,38 @@
       "fileSizeBytes": "427201536",
       "formattedPrice": "Free",
       "trackContentRating": "12+",
+      "sellerUrl": "https://products.office.com/mobile/office",
       "averageUserRatingForCurrentVersion": 4.70719,
-      "userRatingCountForCurrentVersion": 1294027,
-      "releaseNotes": "• General quality and performance enhancements.",
-      "trackCensoredName": "Microsoft 365 Copilot",
-      "trackViewUrl": "https://apps.apple.com/us/app/microsoft-365-copilot/id541164041?uo=4",
-      "contentAdvisoryRating": "12+",
-      "averageUserRating": 4.70719,
-      "genres": [
-        "Productivity",
-        "Business"
-      ],
-      "artistName": "Microsoft Corporation",
       "artistId": 298856275,
-      "price": 0,
+      "bundleId": "com.microsoft.officemobile",
+      "isVppDeviceBasedLicensingEnabled": true,
       "primaryGenreName": "Productivity",
       "primaryGenreId": 6007,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "sellerName": "Microsoft Corporation",
-      "genreIds": [
-        "6007",
-        "6000"
-      ],
-      "releaseDate": "2013-06-14T09:07:54Z",
       "currentVersionReleaseDate": "2026-07-20T04:06:38Z",
+      "releaseNotes": "• General quality and performance enhancements.",
       "version": "2.112.1",
       "wrapperType": "software",
       "currency": "USD",
       "description": "The Microsoft 365 Copilot app is your AI-first productivity app for work. It provides one place for you to chat with your AI assistant1, create content, manage projects and quickly find files on the go – helping you get more done, without doing more. \n\nWith the Microsoft 365 Copilot mobile app, you can1:\n\n•\tChat with your AI assistant – Ask Copilot to create or summarize a document, draft an email or analyze a spreadsheet using natural language. \n\n•\tInteract with voice – Talk to Copilot to help you prepare for your day, get answers and brainstorm ideas.\n\n•\tFind what matters fast – Find the strategy deck you were working on recently, or a file that was attached to an email.\n\n•\tAccelerate your learning – Ask Copilot to explain a concept, summarize recent trends or help you prepare for a presentation.\n\n•\tGet expert insights – Use built-in AI agents like Researcher and Analyst to generate research reports and analyze complex datasets.\n\n•\tCreate polished content– Create and edit images, posters, banners, surveys and more with easy-to-use templates.\n\n•\tManage projects easily – Bring together ideas, documents and links and ask Copilot to summarize and connect the dots with Copilot Notebooks. \n\n•\tUpload and save documents – Upload Word, Excel or PDF files from your phone’s storage to get answers from Copilot.\n\nSign in with your work, school or personal Microsoft account to start using the app today.\n1Availability of Microsoft 365 Copilot features may vary. Some capabilities require specific licenses or may be disabled by your organization's administrator. See this webpage for more information on feature availability by license: \nhttps://support.microsoft.com/topic/understanding-the-different-microsoft-copilot-experiences-cfff4791-694a-4d90-9c9c-1eb3fb28e842\n\nPlease refer to Microsoft’s EULA for Terms of Service for Microsoft 365. By installing the app, you agree to these terms and conditions:\nhttps://learn.microsoft.com/legal/microsoft-365/microsoft-365-copilot-mobile-license-terms",
       "minimumOsVersion": "18.0",
-      "trackName": "Microsoft 365 Copilot",
+      "trackCensoredName": "Microsoft 365 Copilot",
+      "trackViewUrl": "https://apps.apple.com/us/app/microsoft-365-copilot/id541164041?uo=4",
+      "contentAdvisoryRating": "12+",
+      "averageUserRating": 4.70719,
+      "genreIds": [
+        "6007",
+        "6000"
+      ],
+      "releaseDate": "2013-06-14T09:07:54Z",
+      "genres": [
+        "Productivity",
+        "Business"
+      ],
+      "artistName": "Microsoft Corporation",
+      "sellerName": "Microsoft Corporation",
       "trackId": 541164041,
-      "bundleId": "com.microsoft.officemobile",
+      "trackName": "Microsoft 365 Copilot",
+      "price": 0,
       "userRatingCount": 1294027
     }
   ]

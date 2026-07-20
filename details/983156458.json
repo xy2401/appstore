@@ -2,10 +2,6 @@
   "resultCount": 1,
   "results": [
     {
-      "artistViewUrl": "https://apps.apple.com/us/developer/microsoft-corporation/id298856275?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/5a/6e/fc5a6e9e-4166-895d-d0dc-c9cb4e1a2716/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/5a/6e/fc5a6e9e-4166-895d-d0dc-c9cb4e1a2716/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/100x100bb.jpg",
-      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/82/df/6e/82df6e41-b39b-c03c-060f-eea73af5a0f2/iOS_AS_iPhone_5.5_Hero_1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/eb/ce/1d/ebce1d4c-d95f-e5cf-494f-653a62cdbfa7/iOS_AS_iPhone_5.5_Hero_2.png/392x696bb.png",
@@ -17,11 +13,11 @@
       ],
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/5a/6e/fc5a6e9e-4166-895d-d0dc-c9cb4e1a2716/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/60x60bb.jpg",
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/5a/6e/fc5a6e9e-4166-895d-d0dc-c9cb4e1a2716/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/512x512bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [],
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/5a/6e/fc5a6e9e-4166-895d-d0dc-c9cb4e1a2716/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/de/developer/microsoft-corporation/id298856275?uo=4",
+      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -151,13 +147,15 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
+      "features": [
+        "iosUniversal"
+      ],
+      "advisories": [],
       "kind": "software",
+      "averageUserRatingForCurrentVersion": 4.65958,
+      "sellerUrl": "https://www.microsoft.com/authenticator",
+      "averageUserRating": 4.65958,
       "trackCensoredName": "Microsoft Authenticator",
-      "trackViewUrl": "https://apps.apple.com/us/app/microsoft-authenticator/id983156458?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.7175,
-      "averageUserRatingForCurrentVersion": 4.7175,
-      "minimumOsVersion": "17.0",
       "languageCodesISO2A": [
         "AR",
         "EU",
@@ -203,36 +201,38 @@
         "VI"
       ],
       "fileSizeBytes": "172462080",
-      "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 663299,
+      "formattedPrice": "Gratis",
+      "contentAdvisoryRating": "4+",
+      "userRatingCountForCurrentVersion": 91254,
+      "trackViewUrl": "https://apps.apple.com/de/app/microsoft-authenticator/id983156458?uo=4",
       "trackContentRating": "4+",
-      "sellerUrl": "https://www.microsoft.com/authenticator",
-      "artistId": 298856275,
-      "artistName": "Microsoft Corporation",
+      "releaseNotes": "Wir arbeiten fortlaufend an neuen Features, Fehlerbehebungen und Leistungsverbesserungen. Verwenden Sie für optimale Benutzerfreundlichkeit bei der Authentifizierung stets die neueste Version.",
+      "price": 0,
       "genres": [
-        "Productivity",
-        "Utilities"
+        "Produktivität",
+        "Dienst­programme"
       ],
-      "price": 0.0,
       "bundleId": "com.microsoft.azureauthenticator",
-      "releaseNotes": "We're always working on new features, bug fixes, and performance improvements. Make sure you stay updated with the latest version for the best authentication experience.",
       "genreIds": [
         "6007",
         "6002"
       ],
+      "trackId": 983156458,
+      "trackName": "Microsoft Authenticator",
       "primaryGenreName": "Productivity",
       "primaryGenreId": 6007,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "trackName": "Microsoft Authenticator",
-      "trackId": 983156458,
-      "releaseDate": "2015-05-30T09:25:44Z",
       "sellerName": "Microsoft Corporation",
+      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-06-30T20:23:59Z",
       "version": "6.8.50",
       "wrapperType": "software",
-      "currency": "USD",
-      "description": "Use Microsoft Authenticator for easy, secure sign-ins for all your online accounts using multi-factor authentication, passwordless, or password autofill. You also have additional account management options for your Microsoft personal, work or school accounts.\n\nGetting started with multi-factor authentication\n\nMulti factor authentication (MFA)provides a second layer of security. When enabled, during login after entering your password, you’ll be asked for an additional way to prove it’s really you. Either approve the notification sent to the Microsoft Authenticator, or enter the one-time password (OTP) generated by the app. The OTP codes have a 30 second timer counting down. This timer is so you never have to use the same time-based one-time password (TOTP) twice and you don’t have to remember the number. The OTP doesn’t require you to be connected to a network, and it won’t drain your battery. You can add multiple accounts to your app, including non-Microsoft accounts like Facebook, Amazon, Dropbox, Google, LinkedIn, GitHub, and more.\n\nGetting started with passwordless\n\nUse your phone, not your password, to log into your Microsoft account. Just enter your username, then approve the notification sent to your phone. Your fingerprint, face ID, or PIN will provide a second layer of security in this two-step verification process. After you’ve signed in with two factor authentication (2FA), you’ll have access to all your Microsoft products and services, such as Outlook, OneDrive, Office, and more.\n\nGetting started with autofill\n\nMicrosoft Authenticator app can also autofill passwords for you. Sign-in on the Passwords tab inside the Authenticator app with your personal Microsoft account to start syncing passwords, including the passwords saved in Microsoft Edge. Make Microsoft Authenticator the default autofill provider and start autofilling passwords on apps and sites you visit on your mobile. Your passwords are protected with multi-factor authentication in the app. You will need to prove yourself with your fingerprint, face ID, or PIN to access and autofill passwords on your mobile. You can also import passwords from Google Chrome and other password managers.\n\nMicrosoft personal, work or school accounts\n\nSometimes your work or school might ask you to install the Microsoft Authenticator when accessing certain organization resources. You will need to register your device to your organization through the app and add your work or school account. Microsoft Authenticator supports cert-based authentication by issuing a certificate on your device. This will let your organization know that the sign-in request is coming from a trusted device and help you seamlessly and securely access additional Microsoft apps and services without needing to log into each.",
-      "userRatingCount": 663299
+      "currency": "EUR",
+      "description": "Verwenden Sie Microsoft Authenticator, um sich über die Multi-Faktor-Authentifizierung oder eine kennwortlose Anmeldung einfach und sicher bei all Ihren Onlinekonten anzumelden oder AutoAusfüllen für Kennwörter zu nutzen. Darüber hinaus stehen Ihnen zusätzliche Kontoverwaltungsoptionen für Ihre persönlichen Microsoft-Konten und Ihre Geschäfts-, Schul- oder Unikonten zur Verfügung.\n\nErste Schritte mit der Multi-Faktor-Authentifizierung\n\nDurch die Multi-Faktor-Authentifizierung (MFA) wird eine zweite Sicherheitsebene bereitgestellt. Wenn aktiviert, werden Sie bei der Anmeldung nach dem Sie Ihr Kennwort eingegeben haben dazu aufgefordert, mithilfe einer zusätzlichen Methode nachzuweisen, dass es sich wirklich um Sie handelt. Sie können hierzu entweder die an Microsoft Authenticator gesendete Nachricht genehmigen oder das von der App generierte Einmalkennwort eingeben. Das Einmalkennwort ist 30 Sekunden lang gültig. Diese zeitliche begrenzte Gültigkeitsdauer stellt sicher, dass Sie nie dasselbe Einmalkennwort zweimal verwenden und sich die Zahl merken müssen. Für das Einmalkennwort ist keine Netzwerkverbindung erforderlich, und es belastet den Akku nicht. Sie können Ihrer App mehrere Konten hinzufügen, darunter auch Nicht-Microsoft-Konten wie Facebook, Amazon, Dropbox, Google, LinkedIn, GitHub und andere.\n\nErste Schritte mit der kennwortlosen Anmeldung\n\nVerwenden Sie anstelle eines Kennworts Ihr Telefon für die Anmeldung bei Ihrem Microsoft-Konto. Geben Sie lediglich Ihren Benutzernamen ein, und genehmigen Sie dann die Benachrichtigung, die an Ihr Telefon gesendet wird. Ihr Fingerabdruck, Face ID oder eine PIN stellen bei dieser zweistufigen Verifizierung die zweite Sicherheitsebene dar. Nach der Anmeldung mithilfe der zweistufigen Authentifizierung (2FA) haben Sie Zugriff auf all Ihre Microsoft-Produkte und -Dienste, beispielsweise Outlook, OneDrive, Office usw.\n\nErste Schritte mit dem AutoAusfüllen von Kennwörtern\n\nDie Microsoft Authenticator-App kann auch für das automatische Ausfüllen von Kennwörtern genutzt werden. Melden Sie sich in der Authenticator-App auf der Registerkarte \"Kennwörter\" mit Ihrem persönlichen Microsoft-Konto an, um die Kennwortsynchronisierung (in Microsoft Edge gespeicherte Kennwörter eingeschlossen) zu starten. Legen Sie Microsoft Authenticator als Standardanbieter für das AutoAusfüllen von Kennwörtern fest, und starten Sie das AutoAusfüllen von Kennwörtern für Apps und Websites, die Sie auf Ihrem mobilen Gerät nutzen oder besuchen. Ihre Kennwörter werden mithilfe der Multi-Faktor-Authentifizierung in der App geschützt. Sie müssen Ihre Identität per Fingerabdruck, Face ID oder PIN nachweisen, um auf Ihrem mobilen Gerät auf Kennwörter zuzugreifen und das AutoAusfüllen für Kennwörter zu nutzen. Sie haben außerdem die Möglichkeit, Kennwörter aus Google Chrome und anderen Kennwort-Managern zu importieren.\n\nPersönliche Microsoft-Konten, Geschäfts-, Schul- oder Unikonten\n\nGelegentlich kann es vorkommen, dass Sie durch Ihren Arbeitgeber oder Ihre Schule/Universität aufgefordert werden, Microsoft Authenticator zu installieren, wenn Sie auf bestimmte Dateien der Organisation zugreifen. Sie müssen Ihr Gerät über die App bei Ihrer Organisation registrieren und Ihr Geschäfts-, Schul- oder Unikonto hinzufügen. Microsoft Authenticator unterstützt die zertifikatbasierte Authentifizierung durch das Ausstellen eines Zertifikats auf Ihrem Gerät. Auf diese Weise weiß Ihre Organisation, dass die Anmeldeanforderung von einem vertrauenswürdigen Gerät stammt, und Sie erhalten nahtlosen und sicheren Zugriff auf zusätzliche Microsoft-Apps und -Dienste, ohne sich immer wieder neu anmelden zu müssen.",
+      "minimumOsVersion": "17.0",
+      "releaseDate": "2015-05-30T09:25:44Z",
+      "artistId": 298856275,
+      "artistName": "Microsoft Corporation",
+      "userRatingCount": 91254
     }
   ]
 }

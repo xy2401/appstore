@@ -3,19 +3,6 @@
   "results": [
     {
       "isGameCenterEnabled": false,
-      "artistViewUrl": "https://apps.apple.com/us/developer/apple/id284417353?mt=12&uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/c0/0b/85c00b80-1cb9-86af-34b0-9d5dd48282c2/podcasts-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/c0/0b/85c00b80-1cb9-86af-34b0-9d5dd48282c2/podcasts-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
-      "advisories": [
-        "Infrequent/Mild Realistic Violence",
-        "Infrequent/Mild Sexual Content and Nudity",
-        "Infrequent/Mild Cartoon or Fantasy Violence",
-        "Infrequent/Mild Mature/Suggestive Themes",
-        "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References",
-        "Infrequent/Mild Profanity or Crude Humor",
-        "Infrequent/Mild Horror/Fear Themes",
-        "Infrequent/Mild Medical/Treatment Information"
-      ],
       "features": [
         "iosUniversal"
       ],
@@ -149,37 +136,50 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
+      "advisories": [
+        "Infrequent/Mild Realistic Violence",
+        "Infrequent/Mild Sexual Content and Nudity",
+        "Infrequent/Mild Cartoon or Fantasy Violence",
+        "Infrequent/Mild Mature/Suggestive Themes",
+        "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References",
+        "Infrequent/Mild Profanity or Crude Humor",
+        "Infrequent/Mild Horror/Fear Themes",
+        "Infrequent/Mild Medical/Treatment Information"
+      ],
       "kind": "software",
       "screenshotUrls": [],
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/c0/0b/85c00b80-1cb9-86af-34b0-9d5dd48282c2/podcasts-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/us/developer/apple/id284417353?mt=12&uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/c0/0b/85c00b80-1cb9-86af-34b0-9d5dd48282c2/podcasts-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/c0/0b/85c00b80-1cb9-86af-34b0-9d5dd48282c2/podcasts-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
+      "userRatingCountForCurrentVersion": 2073075,
       "minimumOsVersion": "10.0",
+      "artistId": 284417353,
+      "artistName": "Apple",
+      "genres": [
+        "Entertainment"
+      ],
+      "price": 0,
+      "bundleId": "com.apple.podcasts",
       "genreIds": [
         "6016"
       ],
-      "trackCensoredName": "Apple Podcasts",
-      "trackViewUrl": "https://apps.apple.com/us/app/apple-podcasts/id525463029?uo=4",
-      "contentAdvisoryRating": "12+",
-      "averageUserRating": 4.86422,
-      "artistId": 284417353,
-      "artistName": "Apple",
-      "price": 0,
       "primaryGenreName": "Entertainment",
       "primaryGenreId": 6016,
-      "sellerName": "Apple Inc.",
       "isVppDeviceBasedLicensingEnabled": true,
-      "trackName": "Apple Podcasts",
-      "trackId": 525463029,
-      "bundleId": "com.apple.podcasts",
+      "sellerName": "Apple Inc.",
       "releaseDate": "2012-06-26T17:40:41Z",
-      "releaseNotes": "Bug Fixes and Feature Enhancements",
+      "trackId": 525463029,
+      "trackName": "Apple Podcasts",
       "currentVersionReleaseDate": "2026-04-27T19:31:06Z",
+      "releaseNotes": "Bug Fixes and Feature Enhancements",
       "version": "4.5",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Discover podcasts that entertain, inform, and inspire. Get recommendations curated by Apple Podcasts editors and dive deep into what interests you most. Seamlessly sync your shows across Apple devices.\n\nFeatures:\n\n• Listen and watch podcasts, download and play offline. \n• Explore new shows with personalized recommendations. \n• Find trending shows and episodes by category with Top Charts. \n• Find the best of what’s new and popular in podcasting with curated collections from Apple editors.\n• Follow and save your favorite shows to your library. \n• Use playback controls to build and manage your queue, control playback speed, and set sleep timers.\n• Hear voices in episodes more clearly with Enhance Dialogue.\n• Add your favorite categories to find shows that map to your unique tastes.\n• Access subscriber-only content, from the biggest names to the top independents.\n• Connect subscriptions to access shows from Apple Music, Apple News, and other top apps. \n• Read along with a transcript as your episode plays.\n• Share a specific moment in an episode from the transcript.\n• Get new episode notifications from shows you follow.\n• Pick up where you left off with seamless syncing across your Apple devices.\n• Listen on-the-go with CarPlay and Apple Watch.\n• Use customizable widgets to listen with just one tap.\n\nAvailability and features vary by country and region, plan, or device. https://support.apple.com/HT204411",
-      "averageUserRatingForCurrentVersion": 4.86422,
+      "averageUserRating": 4.86422,
       "languageCodesISO2A": [
         "AR",
         "CA",
@@ -215,13 +215,13 @@
         "UK",
         "VI"
       ],
+      "averageUserRatingForCurrentVersion": 4.86422,
       "fileSizeBytes": "8567808",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 2073075,
       "trackContentRating": "12+",
-      "genres": [
-        "Entertainment"
-      ],
+      "trackCensoredName": "Apple Podcasts",
+      "trackViewUrl": "https://apps.apple.com/us/app/apple-podcasts/id525463029?uo=4",
+      "contentAdvisoryRating": "12+",
       "userRatingCount": 2073075
     }
   ]

@@ -2,8 +2,21 @@
   "resultCount": 1,
   "results": [
     {
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/e0/e1/27e0e19b-e5ec-89a1-2841-20b2c593618f/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "isGameCenterEnabled": false,
+      "advisories": [
+        "Scènes rares/modérées d’humour vulgaire ou blasphématoire",
+        "Scènes rares/modérées de violence (animation ou fantastique)",
+        "Scènes rares/modérées de contenu à caractère médical",
+        "Scènes rares/modérées de consommation ou de référence à l’alcool, au tabac ou à la drogue",
+        "Scènes rares/modérées à caractère sexuel ou de nudité",
+        "Simulations rares/modérées de jeu de hasard",
+        "Scènes rares/modérées de violence réaliste",
+        "Scènes rares/modérées réservées aux adultes (suggestives)"
+      ],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/fr/developer/discord-inc/id658886503?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/e0/e1/27e0e19b-e5ec-89a1-2841-20b2c593618f/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/e0/e1/27e0e19b-e5ec-89a1-2841-20b2c593618f/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/76/81/33/76813336-08c3-eb43-2f2d-164108bcd7a8/a17072c0-78cd-4ac8-a106-309a377ad14f_1_GroupChat_Tile_FR_5-5.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a0/4a/8c/a04a8cc6-7054-2bdc-a8dd-bd2f7abd4eab/c03ff552-8d4c-4042-bc70-530a645c33ab_2_Stream_Tile_FR_5-5.png/392x696bb.png",
@@ -22,6 +35,10 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e1/a6/f3/e1a6f308-6a0f-790c-9937-ca3065d89bf4/Hero_Image__U0028for_Apple_store_U0029_Server__U0028no_members_list_U0029_2732x2048_EN.png/552x414bb.png"
       ],
       "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/e0/e1/27e0e19b-e5ec-89a1-2841-20b2c593618f/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -151,44 +168,21 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [
-        "Scènes rares/modérées d’humour vulgaire ou blasphématoire",
-        "Scènes rares/modérées de violence (animation ou fantastique)",
-        "Scènes rares/modérées de contenu à caractère médical",
-        "Scènes rares/modérées de consommation ou de référence à l’alcool, au tabac ou à la drogue",
-        "Scènes rares/modérées à caractère sexuel ou de nudité",
-        "Simulations rares/modérées de jeu de hasard",
-        "Scènes rares/modérées de violence réaliste",
-        "Scènes rares/modérées réservées aux adultes (suggestives)"
-      ],
-      "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/fr/developer/discord-inc/id658886503?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/e0/e1/27e0e19b-e5ec-89a1-2841-20b2c593618f/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/e0/e1/27e0e19b-e5ec-89a1-2841-20b2c593618f/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
-      "userRatingCountForCurrentVersion": 387930,
-      "minimumOsVersion": "16.0",
-      "sellerUrl": "https://discord.com/",
-      "averageUserRatingForCurrentVersion": 4.70524,
-      "languageCodesISO2A": [
-        "EN"
-      ],
-      "fileSizeBytes": "230878208",
-      "formattedPrice": "Gratuit",
-      "trackContentRating": "12+",
-      "trackId": 985746746,
-      "trackName": "Discord - Chat, Jeux, Détente",
-      "price": 0,
+      "artistId": 658886503,
+      "artistName": "Discord Inc.",
       "genres": [
         "Réseaux sociaux",
         "Jeux"
       ],
+      "price": 0,
+      "bundleId": "com.hammerandchisel.discord",
+      "releaseNotes": "Nous avons travaillé dur pour améliorer ton expérience sur Discord, et avons ainsi implémenté des corrections de bugs et des améliorations des performances. Pour de plus amples informations, rends-toi sur ton profil dans l'application et fais défiler l'écran jusqu'à « Nouveautés ».",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "primaryGenreName": "Social Networking",
+      "primaryGenreId": 6005,
       "sellerName": "Discord Inc.",
       "releaseDate": "2015-05-21T07:08:40Z",
       "currentVersionReleaseDate": "2026-07-13T17:06:08Z",
-      "releaseNotes": "Nous avons travaillé dur pour améliorer ton expérience sur Discord, et avons ainsi implémenté des corrections de bugs et des améliorations des performances. Pour de plus amples informations, rends-toi sur ton profil dans l'application et fais défiler l'écran jusqu'à « Nouveautés ».",
       "version": "337.0",
       "wrapperType": "software",
       "currency": "EUR",
@@ -197,16 +191,22 @@
       "trackViewUrl": "https://apps.apple.com/fr/app/discord-chat-jeux-d%C3%A9tente/id985746746?uo=4",
       "contentAdvisoryRating": "12+",
       "averageUserRating": 4.70524,
+      "minimumOsVersion": "16.0",
+      "averageUserRatingForCurrentVersion": 4.70524,
+      "sellerUrl": "https://discord.com/",
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "fileSizeBytes": "230878208",
+      "formattedPrice": "Gratuit",
+      "userRatingCountForCurrentVersion": 387930,
+      "trackContentRating": "12+",
+      "trackName": "Discord - Chat, Jeux, Détente",
+      "trackId": 985746746,
       "genreIds": [
         "6005",
         "6014"
       ],
-      "artistId": 658886503,
-      "artistName": "Discord Inc.",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "bundleId": "com.hammerandchisel.discord",
-      "primaryGenreName": "Social Networking",
-      "primaryGenreId": 6005,
       "userRatingCount": 387930
     }
   ]

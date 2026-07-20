@@ -2,15 +2,10 @@
   "resultCount": 1,
   "results": [
     {
-      "isGameCenterEnabled": false,
       "artistViewUrl": "https://apps.apple.com/de/developer/nect/id1246962000?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/ed/b4/bfedb40f-d06a-6045-5dc5-55b83e832f69/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/ed/b4/bfedb40f-d06a-6045-5dc5-55b83e832f69/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [],
-      "kind": "software",
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c5/ea/87/c5ea87c8-a182-92b7-0a0d-22cbd9debe09/5.5-inch_01.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/83/33/32/83333245-7ecb-305f-e634-1a5fa0a48173/5.5-inch_02.jpg/392x696bb.jpg",
@@ -158,35 +153,15 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "minimumOsVersion": "16.0",
-      "averageUserRating": 4.81799,
+      "advisories": [],
+      "kind": "software",
+      "features": [
+        "iosUniversal"
+      ],
       "trackCensoredName": "Nect Wallet",
       "trackViewUrl": "https://apps.apple.com/de/app/nect-wallet/id1331065474?uo=4",
       "contentAdvisoryRating": "4+",
-      "genres": [
-        "Produktivität",
-        "Finanzen"
-      ],
-      "artistId": 1246962000,
-      "artistName": "Nect",
-      "price": 0,
-      "genreIds": [
-        "6007",
-        "6015"
-      ],
-      "trackName": "Nect Wallet",
-      "trackId": 1331065474,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "primaryGenreName": "Productivity",
-      "primaryGenreId": 6007,
-      "sellerName": "Nect GmbH",
-      "currentVersionReleaseDate": "2026-07-20T07:25:48Z",
-      "releaseNotes": "Das Scannen Ihres Dokuments wird jetzt noch übersichtlicher. Eine neue Video-Anleitung auf dem Bildschirm zeigt Ihnen genau, wie Sie Ihr Dokument neigen müssen, und die App ermittelt anschließend automatisch den nächsten Schritt für Sie. Klarere Führung, reibungslosere Verifizierung.",
-      "version": "4.4.0",
-      "wrapperType": "software",
-      "currency": "EUR",
-      "description": "Sich schnell und sicher identifizieren oder vertrauliche Dokumente unterschreiben – jederzeit und von überall. Ganz ohne persönlichen Termin, langen Briefverkehr oder Video Chat mit einem Servicemitarbeiter. In der Nect Wallet legen Sie Ihre digitale Identität sicher ab und haben Sie jederzeit griffbereit. Ob Personalausweis, Reisepass, Aufenthaltstitel oder andere Dokumente. Verwenden Sie unsere nutzerfreundliche, vollautomatische und zertifizierte Lösung, um sich mit Nect Ident bei unseren Partnerunternehmen rechtskonform auszuweisen oder mit Nect Sign Dokumente qualifiziert zu unterzeichnen. Die Nect Wallet entspricht den hohen Sicherheitsstandards und steht ohne Wartezeit zur Verfügung.\n\nUnsere Lösungen im Überblick\n\nNect Ident: Ausweisen mit Selfie-Video, eID, ePass oder Dokumenten wie der elektronischen Gesundheitskarte. Wir bieten den für Sie schnellsten Weg.\n\nNect Sign: Dokumente, die der Schriftform unterliegen, qualifiziert elektronisch per App unterschreiben. Schnell und rechtskonform.\n\nWas erwartet Sie noch bei uns?\n\nEinmal erfolgreich identifiziert, wird Ihr Ausweisdokument digital, sicher und nur für Sie zugänglich in der Nect Wallet hinterlegt. Für Ihre nächste Identifizierung können Sie das Ausweisdokument per Gesichtserkennung binnen Sekunden einfach wiederverwenden. Unser Netzwerk an Partnerunternehmen wächst ständig. Behalten Sie die Nect Wallet also auf Ihrem Handy und nutzen Sie Ihre digitale Identität zukünftig für weitere Services – es lohnt sich!",
-      "bundleId": "com.nect.app.prod",
+      "averageUserRating": 4.81799,
       "averageUserRatingForCurrentVersion": 4.81799,
       "sellerUrl": "https://nect.com",
       "languageCodesISO2A": [
@@ -198,7 +173,32 @@
       "formattedPrice": "Gratis",
       "userRatingCountForCurrentVersion": 66386,
       "trackContentRating": "4+",
+      "artistId": 1246962000,
+      "artistName": "Nect",
+      "genres": [
+        "Produktivität",
+        "Finanzen"
+      ],
+      "price": 0,
+      "sellerName": "Nect GmbH",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "genreIds": [
+        "6007",
+        "6015"
+      ],
       "releaseDate": "2018-10-08T13:23:02Z",
+      "primaryGenreName": "Productivity",
+      "primaryGenreId": 6007,
+      "trackId": 1331065474,
+      "trackName": "Nect Wallet",
+      "currentVersionReleaseDate": "2026-07-20T07:25:48Z",
+      "releaseNotes": "Das Scannen Ihres Dokuments wird jetzt noch übersichtlicher. Eine neue Video-Anleitung auf dem Bildschirm zeigt Ihnen genau, wie Sie Ihr Dokument neigen müssen, und die App ermittelt anschließend automatisch den nächsten Schritt für Sie. Klarere Führung, reibungslosere Verifizierung.",
+      "version": "4.4.0",
+      "wrapperType": "software",
+      "currency": "EUR",
+      "description": "Sich schnell und sicher identifizieren oder vertrauliche Dokumente unterschreiben – jederzeit und von überall. Ganz ohne persönlichen Termin, langen Briefverkehr oder Video Chat mit einem Servicemitarbeiter. In der Nect Wallet legen Sie Ihre digitale Identität sicher ab und haben Sie jederzeit griffbereit. Ob Personalausweis, Reisepass, Aufenthaltstitel oder andere Dokumente. Verwenden Sie unsere nutzerfreundliche, vollautomatische und zertifizierte Lösung, um sich mit Nect Ident bei unseren Partnerunternehmen rechtskonform auszuweisen oder mit Nect Sign Dokumente qualifiziert zu unterzeichnen. Die Nect Wallet entspricht den hohen Sicherheitsstandards und steht ohne Wartezeit zur Verfügung.\n\nUnsere Lösungen im Überblick\n\nNect Ident: Ausweisen mit Selfie-Video, eID, ePass oder Dokumenten wie der elektronischen Gesundheitskarte. Wir bieten den für Sie schnellsten Weg.\n\nNect Sign: Dokumente, die der Schriftform unterliegen, qualifiziert elektronisch per App unterschreiben. Schnell und rechtskonform.\n\nWas erwartet Sie noch bei uns?\n\nEinmal erfolgreich identifiziert, wird Ihr Ausweisdokument digital, sicher und nur für Sie zugänglich in der Nect Wallet hinterlegt. Für Ihre nächste Identifizierung können Sie das Ausweisdokument per Gesichtserkennung binnen Sekunden einfach wiederverwenden. Unser Netzwerk an Partnerunternehmen wächst ständig. Behalten Sie die Nect Wallet also auf Ihrem Handy und nutzen Sie Ihre digitale Identität zukünftig für weitere Services – es lohnt sich!",
+      "minimumOsVersion": "16.0",
+      "bundleId": "com.nect.app.prod",
       "userRatingCount": 66386
     }
   ]

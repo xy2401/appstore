@@ -2,10 +2,11 @@
   "resultCount": 1,
   "results": [
     {
-      "formattedPrice": "£6.99",
       "artistIds": [
         1845499809
       ],
+      "artistId": 1845499809,
+      "artistName": "Olivia Bowen",
       "genres": [
         "Biography",
         "Books",
@@ -19,8 +20,9 @@
         "Professional & Technical",
         "Medical"
       ],
-      "artistId": 1845499809,
-      "artistName": "Olivia Bowen",
+      "price": 6.99,
+      "trackName": "Lost Until Love",
+      "trackId": 6753777192,
       "genreIds": [
         "9008",
         "38",
@@ -35,8 +37,6 @@
         "10086"
       ],
       "releaseDate": "2026-07-02T07:00:00Z",
-      "trackId": 6753777192,
-      "trackName": "Lost Until Love",
       "kind": "ebook",
       "currency": "GBP",
       "description": "<b><i>'It's important for me to talk about everything that's happened to me in my life, to be open about it, because when you share something that you've gone through, and survived, it helps other people going through something similar. You aren't alone. And you are enough.</i>'</b>  <br /><br /> In the summer of 2026, it is ten years since Olivia Bowen appeared on the second series of<i> Love Island</i>, finishing as a runner up with her partner, Alex. A true love story, the couple remain the longest standing success story of the show's entire history, now married with two beautiful children, Abel and Siena Grace.<br /><br />Yet the last decade for Olivia has been a very different experience from her life before, where she'd struggled to navigate family disruption, unhealthy relationships and a battle with depression and anxiety.<br /><br /> In <i>Lost Until Love</i>, Olivia reflects on her life, sharing with her devoted followers what really drove her to enter the <i>Love Island</i> villa, as well as giving exclusive insight behind-the-scenes at Casa Amor, her relationship with Alex, and the many varied - and sometimes unexpected! - experiences and opportunities the show has brought her since. <br /><br />Olivia also explores her raw journey of motherhood, as well as the devastating loss of her twin daughter while pregnant with Siena Grace and how this has changed her outlook on life and her future. Through the highs, lows and self-reflection, Olivia has finally created an authentic blueprint for her life that she hopes will inspire others to seek out their turning point and reach for their dreams.<br /><br /><i> Lost Until Love</i> is a love letter to Olivia's younger self; it might be Olivia's own story but the hope and learnings between these pages are for every person who wants to own, learn, and turn their story into a life well lived and loved.<br /><br /><b><i>'Applying to be on Love Island wasn't my dream, I didn't set out aiming to win it or believe it was going to be a life-changing opportunity. It was just a chance for me to escape from where I was, it piqued my interest. And I would encourage anyone who feels that spark of intrigue </i><i>to do the same. It's like following little breadcrumbs... You might not know where they will lead but if it feels right to follow the trail, you should do it!'</i></b>",
@@ -45,7 +45,7 @@
       "trackViewUrl": "https://books.apple.com/gb/book/lost-until-love/id6753777192?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/2a/51/60/2a51608f-eb33-616b-96c9-79a24b587825/9781788709699.jpg/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/2a/51/60/2a51608f-eb33-616b-96c9-79a24b587825/9781788709699.jpg/100x100bb.jpg",
-      "price": 6.99
+      "formattedPrice": "£6.99"
     }
   ]
 }
