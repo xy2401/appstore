@@ -35,7 +35,7 @@ node scripts/downloader.mjs
 # Equivalent to: node scripts/downloader.mjs all
 ```
 
-Only the six country tasks (`us`, `cn`, `jp`, `gb`, `de`, and `fr`) run concurrently during the `rank` stage. Feeds within each country are fetched in order, and the `details` and `media` stages are sequential. This keeps request behavior predictable while still allowing the independent countries to make progress together.
+Only the six country tasks (`us`, `cn`, `jp`, `gb`, `de`, and `fr`) run concurrently during the `rank` stage. Feeds within each country are fetched in order, and the `details` and `media` stages are sequential. Failed countries are reported without discarding available ranking files, so the workflow can checkpoint partial data and continue. Stage 1 stops only when no readable ranking feed is available after every country task finishes.
 
 ### Options
 

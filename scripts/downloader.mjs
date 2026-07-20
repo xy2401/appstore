@@ -226,15 +226,34 @@ export async function runSequential(items, worker) {
 }
 
 export async function runCountryTasks(countries, worker) {
-    const outcomes = await Promise.allSettled(countries.map(worker));
-    const failures = outcomes.filter(outcome => outcome.status === 'rejected');
+    const outcomes = await Promise.allSettled(
+        countries.map((country, index) => worker(country, index))
+    );
+    const failures = [];
+    const successes = [];
+
+    outcomes.forEach((outcome, index) => {
+        if (outcome.status === 'fulfilled') {
+            successes.push(outcome.value);
+            return;
+        }
+
+        const country = countries[index];
+        failures.push({ country, reason: outcome.reason });
+        console.warn(
+            `[rank:${country}] failed; continuing with other countries: `
+            + (outcome.reason?.message || outcome.reason)
+        );
+    });
+
     if (failures.length > 0) {
-        throw new AggregateError(
-            failures.map(outcome => outcome.reason),
-            `${failures.length} country task(s) failed.`
+        console.warn(
+            `[rank] ${failures.length} country task(s) failed (${failures.map(failure => failure.country).join(', ')}); `
+            + `continuing with ${successes.length} successful country task(s).`
         );
     }
-    return outcomes.map(outcome => outcome.value);
+
+    return successes;
 }
 
 async function ensureDirectories() {
@@ -285,15 +304,18 @@ async function downloadRankings(options) {
     const outputDirectory = path.join(RANKINGS_DIR, options.date);
     await mkdir(outputDirectory, { recursive: true });
 
-    const countryResults = await runCountryTasks(
+    await runCountryTasks(
         COUNTRIES,
         country => downloadCountryRankings(country, outputDirectory, options)
     );
-    const availableResults = countryResults.flat();
-    if (availableResults.length === 0) {
-        throw new Error('No ranking feeds could be downloaded or loaded from the archive.');
+
+    try {
+        return await loadRankingResults(options.date);
+    } catch (error) {
+        throw new Error('No readable ranking feeds are available after all country tasks finished.', {
+            cause: error
+        });
     }
-    return availableResults;
 }
 
 async function loadRankingResults(date) {
