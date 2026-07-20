@@ -3,7 +3,9 @@
   "results": [
     {
       "isGameCenterEnabled": false,
-      "advisories": [],
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -133,10 +135,11 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
+      "advisories": [],
       "kind": "software",
-      "features": [
-        "iosUniversal"
-      ],
+      "artistViewUrl": "https://apps.apple.com/us/developer/eugene-kuleshov/id1464906865?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/90/7e/99907e04-2082-17dc-9184-6df8a65799a5/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/90/7e/99907e04-2082-17dc-9184-6df8a65799a5/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2b/b9/38/2bb9383e-f94b-cc12-4c72-c037543fef29/19b66f0e-832e-4017-9461-8fa516848264_Simulator_Screen_Shot_-_iPhone_6_Plus_-_2021-01-18_at_11.21.56.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d1/6c/a6/d16ca62b-1e9e-a543-1e70-2dc9cbb96e2b/3b7ad40c-27fc-4338-aad8-467e94695de3_Simulator_Screen_Shot_-_iPhone_6_Plus_-_2021-01-18_at_11.23.11.png/392x696bb.png",
@@ -149,49 +152,46 @@
       ],
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/58/16/ec5816ce-fd42-9511-8db6-30e5f19daaa0/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/58/16/ec5816ce-fd42-9511-8db6-30e5f19daaa0/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/58/16/ec5816ce-fd42-9511-8db6-30e5f19daaa0/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/us/developer/eugene-kuleshov/id1464906865?uo=4",
-      "releaseNotes": "* Fixed issues reported by automated crash reporting system\n* Fixed issues with video overlay\n* Improved hits colors",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/90/7e/99907e04-2082-17dc-9184-6df8a65799a5/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "genres": [
         "Sports",
         "Utilities"
       ],
+      "price": 9.99,
+      "bundleId": "com.niftybytes.practiscore.competitor",
       "artistId": 1464906865,
       "artistName": "Eugene Kuleshov",
-      "releaseDate": "2017-03-29T20:17:43Z",
-      "trackName": "PractiScore Competitor",
+      "releaseNotes": "* Fixed issues reported by automated crash reporting system\n* Fixed loading matches from PractiScore that require viewing password\n* ICORE, IDPA show classifier info\n* [Pro] Added experimental comparison table mode",
       "trackId": 1191380081,
-      "sellerName": "Eugene Kuleshov",
+      "trackName": "PractiScore Competitor",
+      "releaseDate": "2017-03-29T20:17:43Z",
       "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "Eugene Kuleshov",
       "primaryGenreName": "Sports",
       "primaryGenreId": 6004,
+      "currentVersionReleaseDate": "2026-06-03T20:52:59Z",
+      "version": "2.2.12",
+      "wrapperType": "software",
+      "currency": "USD",
+      "description": "The easiest way to view and compare match results, as well as analyze competitor performance at IPSC, USPSA, Steel Challenge, IDPA, ICORE, PRS, ProAm, NRA, ISSF, 3Gun, PCSL and other matches.\n\n* Search results posted on https://practiscore.com by match name or competitor name\n* Download results posted on https://practiscore.com and several other web sites for offline viewing\n* Sync over WiFi during match from scoring devices running PractiScore apps\n* View and compare multiple competitors side by side\n* Dig into every details of the match performance",
+      "averageUserRating": 3.1573,
+      "trackCensoredName": "PractiScore Competitor",
+      "trackViewUrl": "https://apps.apple.com/us/app/practiscore-competitor/id1191380081?uo=4",
+      "contentAdvisoryRating": "17+",
+      "minimumOsVersion": "15",
+      "userRatingCountForCurrentVersion": 89,
+      "averageUserRatingForCurrentVersion": 3.1573,
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "fileSizeBytes": "107010048",
+      "formattedPrice": "$9.99",
+      "trackContentRating": "17+",
       "genreIds": [
         "6004",
         "6002"
       ],
-      "currentVersionReleaseDate": "2026-05-27T16:54:09Z",
-      "version": "2.2.10",
-      "wrapperType": "software",
-      "currency": "USD",
-      "description": "The easiest way to view and compare match results, as well as analyze competitor performance at IPSC, USPSA, Steel Challenge, IDPA, ICORE, PRS, ProAm, NRA, ISSF, 3Gun, PCSL and other matches.\n\n* Search results posted on https://practiscore.com by match name or competitor name\n* Download results posted on https://practiscore.com and several other web sites for offline viewing\n* Sync over WiFi during match from scoring devices running PractiScore apps\n* View and compare multiple competitors side by side\n* Dig into every details of the match performance",
-      "bundleId": "com.niftybytes.practiscore.competitor",
-      "minimumOsVersion": "15",
-      "userRatingCountForCurrentVersion": 81,
-      "averageUserRatingForCurrentVersion": 3.09877,
-      "averageUserRating": 3.09877,
-      "trackCensoredName": "PractiScore Competitor",
-      "languageCodesISO2A": [
-        "EN"
-      ],
-      "fileSizeBytes": "106613760",
-      "formattedPrice": "$9.99",
-      "contentAdvisoryRating": "17+",
-      "trackViewUrl": "https://apps.apple.com/us/app/practiscore-competitor/id1191380081?uo=4",
-      "trackContentRating": "17+",
-      "price": 9.99,
-      "userRatingCount": 81
+      "userRatingCount": 89
     }
   ]
 }

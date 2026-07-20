@@ -2,6 +2,10 @@
   "resultCount": 1,
   "results": [
     {
+      "artistViewUrl": "https://apps.apple.com/jp/developer/fanship/id327802296?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/4f/47/cd/4f47cd86-cff4-e19b-8cc6-87ab207e3bbb/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/4f/47/cd/4f47cd86-cff4-e19b-8cc6-87ab207e3bbb/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.jpg",
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/58/36/3a/58363a95-605c-d62c-5c6f-30bba54a0dc1/mzl.mgocxozg.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/94/95/fc/9495fcba-a18e-feb1-5c37-e0006540c4b0/mzl.cqzdotnw.png/392x696bb.png",
@@ -15,13 +19,13 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/7a/b7/4b/7ab74bf9-2564-b9a7-dba1-b8798f0e6c5d/mzl.kkhigksd.jpg/576x768bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/4f/47/cd/4f47cd86-cff4-e19b-8cc6-87ab207e3bbb/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg",
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/4f/47/cd/4f47cd86-cff4-e19b-8cc6-87ab207e3bbb/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/4f/47/cd/4f47cd86-cff4-e19b-8cc6-87ab207e3bbb/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/jp/developer/fanship/id327802296?uo=4",
-      "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
+      ],
+      "advisories": [
+        "頻繁／極度な成人向けまたはわいせつなテーマ",
+        "無制限のWebアクセス"
       ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
@@ -152,19 +156,13 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "advisories": [
-        "頻繁／極度な成人向けまたはわいせつなテーマ",
-        "無制限のWebアクセス"
-      ],
       "kind": "software",
-      "fileSizeBytes": "112229376",
-      "formattedPrice": "¥150",
-      "contentAdvisoryRating": "17+",
-      "userRatingCountForCurrentVersion": 12877,
-      "trackViewUrl": "https://apps.apple.com/jp/app/isafe-pro/id402012828?uo=4",
-      "trackContentRating": "17+",
-      "sellerUrl": "https://isafe.pro",
+      "releaseNotes": "performance update",
+      "minimumOsVersion": "11.0",
       "trackCensoredName": "iSafe Pro",
+      "trackViewUrl": "https://apps.apple.com/jp/app/isafe-pro/id402012828?uo=4",
+      "contentAdvisoryRating": "17+",
+      "averageUserRating": 3.49196,
       "languageCodesISO2A": [
         "AR",
         "CA",
@@ -199,34 +197,36 @@
         "UK",
         "VI"
       ],
-      "averageUserRatingForCurrentVersion": 3.49173,
+      "fileSizeBytes": "112229376",
+      "formattedPrice": "¥150",
+      "trackContentRating": "17+",
+      "sellerUrl": "https://isafe.pro",
       "artistId": 327802296,
       "artistName": "Fanship",
-      "genres": [
-        "ユーティリティ",
-        "ミュージック"
-      ],
-      "price": 150.0,
+      "price": 150,
+      "bundleId": "net.fanship.iSafePod",
       "genreIds": [
         "6002",
         "6011"
       ],
-      "bundleId": "net.fanship.iSafePod",
-      "trackName": "iSafe Pro",
-      "trackId": 402012828,
-      "releaseDate": "2010-12-14T22:24:35Z",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "Fung Kam Keung",
       "primaryGenreName": "Utilities",
       "primaryGenreId": 6002,
-      "sellerName": "Fung Kam Keung",
-      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseDate": "2010-12-14T22:24:35Z",
+      "trackId": 402012828,
+      "trackName": "iSafe Pro",
       "currentVersionReleaseDate": "2023-05-16T19:16:27Z",
-      "releaseNotes": "performance update",
       "version": "10.78",
       "wrapperType": "software",
       "currency": "JPY",
       "description": "*** App of the Day ***\nTop Overall in 25 countries \nTop Utility in 58 countries \n\n \n写真やビデオにパスワードを設定したくないですか?\n友達にiPhoneを貸すときプライベートなファイルを見られないか心配ですか?\n彼女にiPhoneをロック解除させられ、秘密がバレちゃったことないですか?\nそんなあなたにピッタリなアプリがここにあります。\n\n特徴: \n• パスワードとフェイクパス\nこのアプリはパスワードまたはフェイクパスで起動できます。\nパスワード: ロックしていないアイテムとロックしたもの両方を閲覧できます。\nフェイクパス: ロックしたアイテムは閲覧できません。\n㊙: パスワードを入力して画面を引き上げて更新すると㊙フォルダが表示されます。\n彼女にアプリの中身を見せるよう迫られたら、このフェイクパスで起動しましょう。\n \n• ログイン形式\nロック解除の方法はさまざまな形式から選択できます。4桁の数字パスワード、9個のドット\n \n• ベストなカテゴリ分け\nファイルはすべて3つのカテゴリ(写真、ビデオ、ファイル)に分けられます。 \nそのすべてのカテゴリにおいて、アルバムやフォルダをロックすることができます。 \n \n• 高機能ビデオプレイヤー\niSafeはほとんどすべてのビデオフォーマットに対応しているので、変換は必要ありません。\n\n• プライベートブラウザ\nあなたの足跡を非表示にします。\n\n• その他の機能\n- サブフォルダ\n- テキストエディター\n- ファイルブラウザ\n- URLスキームによるファイルダウンロード\n- zip、rarファイルの解凍\n- ファイルの圧縮\n- 外部ディスプレイとの接続\n- 曲、ビデオのバックグラウンド再生\n- ロック画面で音楽をコントロール\n- 画像を連絡先に割り当て\n \n\nさまざまなファイルフォーマットに対応\n- 画像: png, jpg, jpeg, bmp, tif, gif\n- ビデオ: mp4, mov, m4v, 3gp, flv, f4v, mpg, mpeg, wmv, rmvb, mkv, asf, webm\n- 音声: mp3, m4a, m4r, aac, caf, wma\n- テキスト: txt, php, cgi, asp, h, m, c (編集可能)\n- リッチテキスト: rtf, pdf\n- iWorks: pages, numbers, key\n- MS Office: doc, xls, ppt, docx, xlsx, pptx\n- ウェブ: htm, html, webarchive\n- アーカイブ: zip, rar\n- その他: …… (読み込み不可、保存のみ)\n \n\nファイル転送\n- WIFI経由によるFTP転送\n- WIFI経由によるブラウザ転送\n- USB経由によるiTunes転送\n- Bluetooth経由によるiOSデバイス間転送\n- メールまたは他アプリからの\"別アプリで開く\"による転送\n- カメラロールから写真とビデオの転送\n \n\n複数言語対応: 20以上の言語に対応しています。\n \n機能もドンドン追加していく予定です。ご購入をお待ちしています!",
-      "averageUserRating": 3.49173,
-      "minimumOsVersion": "11.0",
+      "userRatingCountForCurrentVersion": 12877,
+      "averageUserRatingForCurrentVersion": 3.49196,
+      "genres": [
+        "ユーティリティ",
+        "ミュージック"
+      ],
       "userRatingCount": 12877
     }
   ]

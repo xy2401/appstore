@@ -3,6 +3,10 @@
   "results": [
     {
       "isGameCenterEnabled": false,
+      "artistViewUrl": "https://apps.apple.com/us/developer/base-velocity-llc/id288419286?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/9b/53/929b538f-7c74-3e6e-747a-a46506606fbb/App_Icon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/9b/53/929b538f-7c74-3e6e-747a-a46506606fbb/App_Icon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/100x100bb.jpg",
+      "advisories": [],
       "supportedDevices": [
         "MacDesktop-MacDesktop",
         "iPhone5s-iPhone5s",
@@ -134,6 +138,8 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
+      "kind": "software",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/9b/53/929b538f-7c74-3e6e-747a-a46506606fbb/App_Icon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ab/4a/fa/ab4afae8-b54c-2126-44b7-fc7e6f7b4117/612b49b8-dfe5-421a-a40c-558f50bde688_1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5c/c7/ff/5cc7ffe5-125f-522b-0cd1-a9183efcc6d9/abc10a84-ca49-40e8-9eb7-727d8271c219_2.png/392x696bb.png",
@@ -159,26 +165,36 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bb/e9/bb/bbe9bbe4-6ec3-d984-5ff2-3b02ed6566d0/593d4c7e-f0f2-4dc3-8844-a6007964bf4e_10.png/576x768bb.png"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/88/a9/3088a97e-f8b7-b37a-f13c-0633b7c3cdba/App_Icon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/512x512bb.jpg",
-      "advisories": [],
-      "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/us/developer/base-velocity-llc/id288419286?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/88/a9/3088a97e-f8b7-b37a-f13c-0633b7c3cdba/App_Icon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/88/a9/3088a97e-f8b7-b37a-f13c-0633b7c3cdba/App_Icon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/100x100bb.jpg",
       "features": [
         "iosUniversal"
       ],
-      "releaseNotes": "• Fixed missing hail attributes in storm tracks\n• Fixed missing statement text when using Weather Pulse feed\n• Fixed incorrect risk level in outlook inspector\n• Precipitable water in sounding detail view honors metric units setting\n• Updated RTMA wind palette\n• Updated some location names",
-      "averageUserRatingForCurrentVersion": 4.17614,
+      "trackCensoredName": "RadarScope",
+      "trackViewUrl": "https://apps.apple.com/us/app/radarscope/id288419283?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.17282,
+      "artistId": 288419286,
+      "artistName": "Base Velocity, LLC",
       "genres": [
         "Weather",
         "Utilities"
       ],
       "price": 9.99,
+      "currentVersionReleaseDate": "2026-07-01T18:42:11Z",
       "releaseDate": "2019-02-12T08:00:00Z",
-      "bundleId": "com.basevelocity.RadarScope",
-      "primaryGenreName": "Weather",
-      "primaryGenreId": 6001,
+      "sellerName": "Base Velocity, LLC",
+      "releaseNotes": "• Added probabilistic category for day 3 outlook\n• Improvements to download error reporting\n• Optimized download behavior when switching radars\n• Updated NWS zone names\n• Updated city database\n• Updated line with for land outlines\n• Possible fix for a map jumping bug\n• Fixed a bug when launching the app from a widget or URL\n• Fixed incorrect mPING icing icon\n• Fixed coordinate display bug for mPING and SN report submissions\n• Fixed an issue with some archive L2 data\n• Fixed watchOS full screen toggle when scrolling\n• Fixed map tile crown rotation bug on watchOS\n• Fixed a tool icon bug\n• Fixed outlook drawing order\n• Fixed a refresh jitter when changing the outlook type",
+      "trackId": 288419283,
+      "trackName": "RadarScope",
+      "version": "5.5.6",
+      "wrapperType": "software",
+      "currency": "USD",
+      "description": "RadarScope is an AMS-award-winning weather visualization tool that empowers meteorologists, public safety officials, storm spotters, and weather enthusiasts to view a full suite of single-site radar data and related severe weather products. Your initial purchase provides professional radar visualization in a fully native app, free from distracting and invasive practices, with optional subscription packages to add even more capabilities.\n\nWhether you’re scanning for a mesocyclone’s tell-tale hook echo, pinpointing the landfall of a hurricane’s eye wall, or identifying velocity couplet, hail spike, or debris ball signatures, RadarScope displays native radar data in its original radial format. You see what the radar sees almost as soon as the radar sees it, with automatic updates every two to ten minutes depending on the radar’s scanning strategy.\n\nYour initial app purchase includes the following:\n\n• Full suite of single-site radar products for the US, Canada, Guam, Denmark, Finland, and Germany\n• 6-frame radar loops\n• Two built-in providers for radar data\n• Tornado, thunderstorm, flash flood, marine, snow squall, extreme wind, tropical, and other warnings in the US\n• Selected severe weather warnings in Canada and Australia\n• NWS-generated storm tracks with hail, TVS, and mesocyclone attributes\n• Inspector and distance tools\n• Color palette options for radar data\n• Weather Pulse data plan integration\n• Spotter Network integration for storm and location reporting\n• mPING integration for submitting weather reports to NSSL\n• Bundled maps with political boundaries, water bodies, and major highways, optimized for low-bandwidth use\n• Support for widgets and complications\n• Universal app for Apple platforms, including Apple Watch and Apple TV\n• Family Sharing support\n\nRadarScope Pro Tier One is an optional annual subscription that adds more features for tracking severe weather:\n\n• 30-frame radar loops\n• Cloud-to-ground lightning strikes\n• Severe weather watches in the US and Canada\n• Special weather statements in the US and Canada\n• Mesoscale convective and precipitation discussions\n• SPC convective, tornado, hail, wind, and fire outlooks\n• WPC excessive rainfall outlooks in the US\n• Local storm reports in the US\n• Custom color palette support\n• Multi-pane display (2 on phones; 4 on larger devices)\n• Family Sharing support\n\nRadarScope Pro Tier Two is an optional annual or monthly subscription that transforms RadarScope into a more complete visualization tool for a larger suite of weather products, including:\n\n• Everything in Pro Tier One\n• 50-frame radar loops\n• A third provider for US radar data\n• 30-year archive of NEXRAD Level II radar data\n• 6-year archive of NEXRAD Level III data\n• 30-day archive of super-res and non-US radar data\n• 20-year archive of NWS bulletins\n• GOES satellite data\n• Multi-Radar Multi-Sensor (MRMS) data\n• Real-Time Mesoscale Assimilation (RTMA) data\n• GFS, ECMWF, HRRR, HRW, and NAM forecast model data\n• Surface observations\n• Atmospheric soundings in the US\n• Hail size, hail probability, and azimuthal shear contours with a 30-day archive\n• More detailed transportation and satellite imagery maps\n• Custom color palette support for GOES, MRMS, RTMA, and forecast products\n• Server-sent events for radar and warning updates\n• Cross-platform subscription sharing on up to 5 devices\n• Family sharing support\n\nIf you choose to buy a RadarScope Pro subscription, it will be charged to your App Store account. The subscription will be auto-renewed within 24 hours prior to the end of the current period at the same price you originally paid. Subscriptions may be managed and auto-renewal disabled via your App Store account settings after the purchase. Once purchased, the subscription cannot be canceled during the active subscription period.\n\nDTN is committed to safeguarding your privacy online. Our privacy policy is available for review at https://www.dtn.com/privacy-policy/\n\nPlease visit our web site for more information.",
+      "minimumOsVersion": "16.6",
+      "fileSizeBytes": "303308800",
+      "formattedPrice": "$9.99",
+      "userRatingCountForCurrentVersion": 2708,
+      "trackContentRating": "4+",
+      "averageUserRatingForCurrentVersion": 4.17282,
       "sellerUrl": "http://www.radarscope.app",
       "languageCodesISO2A": [
         "EN",
@@ -186,31 +202,15 @@
         "DE",
         "ES"
       ],
-      "fileSizeBytes": "305508352",
-      "formattedPrice": "$9.99",
-      "userRatingCountForCurrentVersion": 2691,
-      "trackContentRating": "4+",
+      "bundleId": "com.basevelocity.RadarScope",
       "genreIds": [
         "6001",
         "6002"
       ],
+      "primaryGenreName": "Weather",
+      "primaryGenreId": 6001,
       "isVppDeviceBasedLicensingEnabled": true,
-      "trackId": 288419283,
-      "trackName": "RadarScope",
-      "currentVersionReleaseDate": "2026-03-17T16:49:34Z",
-      "version": "5.5.5",
-      "wrapperType": "software",
-      "currency": "USD",
-      "description": "RadarScope is an AMS-award-winning weather visualization tool that empowers meteorologists, public safety officials, storm spotters, and weather enthusiasts to view a full suite of single-site radar data and related severe weather products. Your initial purchase provides professional radar visualization in a fully native app, free from distracting and invasive practices, with optional subscription packages to add even more capabilities.\n\nWhether you’re scanning for a mesocyclone’s tell-tale hook echo, pinpointing the landfall of a hurricane’s eye wall, or identifying velocity couplet, hail spike, or debris ball signatures, RadarScope displays native radar data in its original radial format. You see what the radar sees almost as soon as the radar sees it, with automatic updates every two to ten minutes depending on the radar’s scanning strategy.\n\nYour initial app purchase includes the following:\n\n• Full suite of single-site radar products for the US, Canada, Guam, Denmark, Finland, and Germany\n• 6-frame radar loops\n• Two built-in providers for radar data\n• Tornado, thunderstorm, flash flood, marine, snow squall, extreme wind, tropical, and other warnings in the US\n• Selected severe weather warnings in Canada and Australia\n• NWS-generated storm tracks with hail, TVS, and mesocyclone attributes\n• Inspector and distance tools\n• Color palette options for radar data\n• AllisonHouse data plan integration\n• Spotter Network integration for storm and location reporting\n• mPING integration for submitting weather reports to NSSL\n• Bundled maps with political boundaries, water bodies, and major highways, optimized for low-bandwidth use\n• Support for widgets and complications\n• Universal app for Apple platforms, including Apple Watch and Apple TV\n• Family Sharing support\n\nRadarScope Pro Tier One is an optional annual subscription that adds more features for tracking severe weather:\n\n• 30-frame radar loops\n• Cloud-to-ground lightning strikes\n• Severe weather watches in the US and Canada\n• Special weather statements in the US and Canada\n• Mesoscale convective and precipitation discussions\n• SPC convective, tornado, hail, wind, and fire outlooks\n• WPC excessive rainfall outlooks in the US\n• Local storm reports in the US\n• Custom color palette support\n• Multi-pane display (2 on phones; 4 on larger devices)\n• Family Sharing support\n\nRadarScope Pro Tier Two is an optional annual or monthly subscription that transforms RadarScope into a more complete visualization tool for a larger suite of weather products, including:\n\n• Everything in Pro Tier One\n• 50-frame radar loops\n• A third provider for US radar data\n• NEXRAD Level II radar data for the US with a 30-year historical archive\n• Historical NEXRAD Level III, super-res, and non-US radar data with a 30-day archive\n• Historical NWS bulletins with a 19-year archive\n• GOES East and GOES West satellite products\n• NSSL’s Multi-Radar Multi-Sensor (MRMS) products\n• NCEP’s Real-Time Mesoscale Assimilation (RTMA) products\n• Surface observations\n• Atmospheric soundings in the US\n• Hail size, hail probability, and azimuthal shear contours with a 30-day archive\n• More detailed transportation and satellite imagery maps\n• Custom color palette support for GOES, MRMS, and RTMA\n• Server-sent events for radar and warning updates\n• Cross-platform subscription sharing on up to 5 devices\n• Family sharing support\n\nIf you choose to buy a RadarScope Pro subscription, it will be charged to your App Store account. The subscription will be auto-renewed within 24 hours prior to the end of the current period at the same price you originally paid. Subscriptions may be managed and auto-renewal disabled via your App Store account settings after the purchase. Once purchased, the subscription cannot be canceled during the active subscription period.\n\nDTN is committed to safeguarding your privacy online. Our privacy policy is available for review at https://www.dtn.com/privacy-policy/\n\nPlease visit our web site for more information.",
-      "averageUserRating": 4.17614,
-      "trackCensoredName": "RadarScope",
-      "trackViewUrl": "https://apps.apple.com/us/app/radarscope/id288419283?uo=4",
-      "contentAdvisoryRating": "4+",
-      "minimumOsVersion": "16.6",
-      "sellerName": "Base Velocity, LLC",
-      "artistId": 288419286,
-      "artistName": "Base Velocity, LLC",
-      "userRatingCount": 2691
+      "userRatingCount": 2708
     }
   ]
 }

@@ -2,10 +2,7 @@
   "resultCount": 1,
   "results": [
     {
-      "formattedPrice": "$5.99",
-      "artistIds": [
-        650564637
-      ],
+      "artistId": 650564637,
       "genres": [
         "Adventure Sci-Fi",
         "Books",
@@ -14,11 +11,12 @@
         "Fiction & Literature",
         "Action & Adventure"
       ],
-      "artistId": 650564637,
       "artistName": "Pierce Brown",
-      "price": 5.99,
-      "trackId": 650564636,
       "trackName": "Red Rising",
+      "artistIds": [
+        650564637
+      ],
+      "trackId": 650564636,
       "genreIds": [
         "11006",
         "38",
@@ -36,8 +34,10 @@
       "trackViewUrl": "https://books.apple.com/us/book/red-rising/id650564636?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication1/v4/10/1f/b7/101fb78b-a06b-3427-8876-773ed9bc8351/9780345539793.jpg/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication1/v4/10/1f/b7/101fb78b-a06b-3427-8876-773ed9bc8351/9780345539793.jpg/100x100bb.jpg",
+      "formattedPrice": "$5.99",
+      "price": 5.99,
       "averageUserRating": 4.5,
-      "userRatingCount": 7391
+      "userRatingCount": 7628
     }
   ]
 }

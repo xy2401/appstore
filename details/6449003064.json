@@ -2,11 +2,10 @@
   "resultCount": 1,
   "results": [
     {
+      "isGameCenterEnabled": false,
+      "artistViewUrl": "https://apps.apple.com/de/developer/skyhook/id1695118263?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/98/d1/49/98d149b0-645a-7cf4-fb16-3948ff3dd471/AppIcon-1x_U007emarketing-0-10-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/98/d1/49/98d149b0-645a-7cf4-fb16-3948ff3dd471/AppIcon-1x_U007emarketing-0-10-0-85-220.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/us/developer/skyhook/id1695118263?uo=4",
-      "advisories": [],
-      "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
       ],
@@ -139,30 +138,29 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
+      "advisories": [],
       "kind": "software",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/dd/25/3e/dd253ed9-8f15-3fa1-1c84-44cb49326a34/30e52f3b-a155-4043-b758-23a38e1d4488_IMG_0012.PNG/392x696bb.png"
+      ],
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/32/69/bb/3269bb6c-ab3a-0fac-f930-e524d11dd894/e3a0ae36-a06a-4355-876f-674a7e29cd5c_goblin.tools___U00282_U0029.png/552x414bb.png"
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/98/d1/49/98d149b0-645a-7cf4-fb16-3948ff3dd471/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/dd/25/3e/dd253ed9-8f15-3fa1-1c84-44cb49326a34/30e52f3b-a155-4043-b758-23a38e1d4488_IMG_0012.PNG/392x696bb.png"
-      ],
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.77695,
+      "averageUserRating": 4.89872,
       "trackCensoredName": "Goblin Tools",
-      "trackViewUrl": "https://apps.apple.com/us/app/goblin-tools/id6449003064?uo=4",
-      "currentVersionReleaseDate": "2023-06-23T05:40:54Z",
+      "trackViewUrl": "https://apps.apple.com/de/app/goblin-tools/id6449003064?uo=4",
+      "contentAdvisoryRating": "4+",
+      "genres": [
+        "Dienst­programme",
+        "Produktivität"
+      ],
       "artistId": 1695118263,
       "artistName": "Skyhook",
-      "genres": [
-        "Utilities",
-        "Productivity"
-      ],
       "price": 2.99,
-      "bundleId": "com.goblintools",
-      "releaseNotes": "Enabling cloud sync for todo lists! Privacy safe, synchronise between anything that runs goblin.tools, whether it's the website or apps. Also includes some stability improvements.",
-      "releaseDate": "2023-05-31T07:00:00Z",
+      "trackName": "Goblin Tools",
+      "trackId": 6449003064,
       "genreIds": [
         "6002",
         "6007"
@@ -170,23 +168,25 @@
       "primaryGenreName": "Utilities",
       "primaryGenreId": 6002,
       "sellerName": "Skyhook",
-      "trackId": 6449003064,
-      "trackName": "Goblin Tools",
       "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2023-06-23T05:40:54Z",
       "version": "1.1",
       "wrapperType": "software",
-      "currency": "USD",
+      "currency": "EUR",
       "description": "This is an app version of the free website goblin.tools, a collection of small, simple, single-task tools, mostly designed to help neurodivergent people with tasks they find overwhelming or difficult.\n\n\n\nTools include\n- A Magic Todo list that automatically breaks down tasks into steps\n- The Formalizer that transforms your language to be more formal, sociable, concise, or many other options\n- The Judge that helps with interpreting tone\n- The Estimator that can guess at a timeframe for an activity\n- The Compiler to take entire braindumps and turn them into actionable tasks\n- The Chef, who turns a description of what ingredients and tools you have in your kitchen into a real recipe\n\n\n\nAnd many more to come!\n\n\n\nThe website is free and publicly available. Purchases of this app go first towards keeping the site free and ad-free, before supporting the author.",
+      "bundleId": "com.goblintools",
+      "averageUserRatingForCurrentVersion": 4.89872,
       "languageCodesISO2A": [
         "EN"
       ],
       "fileSizeBytes": "662528",
-      "formattedPrice": "$2.99",
-      "userRatingCountForCurrentVersion": 2941,
+      "formattedPrice": "2,99 €",
+      "userRatingCountForCurrentVersion": 158,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.77695,
       "minimumOsVersion": "14.0",
-      "userRatingCount": 2941
+      "releaseDate": "2023-05-31T07:00:00Z",
+      "releaseNotes": "Enabling cloud sync for todo lists! Privacy safe, synchronise between anything that runs goblin.tools, whether it's the website or apps. Also includes some stability improvements.",
+      "userRatingCount": 158
     }
   ]
 }

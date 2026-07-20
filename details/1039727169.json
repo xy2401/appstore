@@ -3,7 +3,6 @@
   "results": [
     {
       "isGameCenterEnabled": false,
-      "features": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -133,11 +132,12 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
+      "features": [],
       "advisories": [],
       "kind": "software",
       "artistViewUrl": "https://apps.apple.com/cn/developer/%E5%85%AC%E5%AE%89%E9%83%A8%E4%BA%A4%E9%80%9A%E7%AE%A1%E7%90%86%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6%E6%89%80/id1039727168?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/68/61/4f686165-d803-7225-03ff-8ebacec3b22c/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/68/61/4f686165-d803-7225-03ff-8ebacec3b22c/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/100x100bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/b3/5c/7db35c22-cf4c-bca5-521f-e36a4a820fc9/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/b3/5c/7db35c22-cf4c-bca5-521f-e36a4a820fc9/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/84/7f/39/847f391a-371c-8dd9-e09b-c8f9d43eabaf/2b22303c-eeb7-441c-a234-9e533c146295__U82f9_U679c5.5_U5bf8_U56fe4_U5907_U4efd_2.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f8/41/58/f841581c-3953-77a8-1209-bfa7c178f259/28a69d7b-6a29-4006-940b-def7d774b261__U82f9_U679c5.5_U5bf8_U56fe1_U5907_U4efd_2.png/392x696bb.png",
@@ -147,7 +147,7 @@
       ],
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/68/61/4f686165-d803-7225-03ff-8ebacec3b22c/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/512x512bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/b3/5c/7db35c22-cf4c-bca5-521f-e36a4a820fc9/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/512x512bb.jpg",
       "minimumOsVersion": "12.0",
       "artistId": 1039727168,
       "artistName": "公安部交通管理科学研究所",
@@ -155,39 +155,41 @@
         "生活",
         "工具"
       ],
-      "price": 0.0,
-      "isVppDeviceBasedLicensingEnabled": true,
+      "price": 0,
+      "bundleId": "com.tmri.12123",
+      "releaseNotes": "1、解决已知问题。",
+      "releaseDate": "2016-01-24T08:16:34Z",
+      "trackId": 1039727169,
+      "trackName": "交管12123",
+      "primaryGenreName": "Lifestyle",
+      "primaryGenreId": 6012,
+      "sellerName": "Traffic Management Research Institute of the Ministry of Public Security",
       "genreIds": [
         "6012",
         "6002"
       ],
-      "bundleId": "com.tmri.12123",
-      "primaryGenreName": "Lifestyle",
-      "primaryGenreId": 6012,
-      "trackName": "交管12123",
-      "trackId": 1039727169,
-      "currentVersionReleaseDate": "2026-06-01T00:29:55Z",
-      "releaseNotes": "修复已知问题。",
-      "version": "3.5.3",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-07-11T05:07:42Z",
+      "version": "3.5.5",
       "wrapperType": "software",
       "currency": "CNY",
       "description": "“交管12123”是公安部官方互联网交通安全综合服务管理平台（*.122.gov.cn，以下简称互联网平台）的唯一手机客户端应用软件，由公安部交通管理科学研究所负责研发并提供技术支持。本软件服务对象为全国机动车车主、驾驶人等广大用户。\n\n本软件具备以下功能：\n1、用户注册。\n2、绑定本人机动车和驾驶证。\n3、电子监控设备记录的违法行为处理。\n4、机动车驾驶人考试预约。\n5、新车预选机动车号牌。\n6、补换领机动车行驶证、机动车号牌、机动车驾驶证，补领机动车安全技术检验合格标志。\n7、机动车驾驶证延期换证、延期审验、延期提交身体条件证明。\n8、机动车、驾驶证相关信息查询及告知提示。\n9、交通管理相关业务办理地点导航。\n\n＊温馨提示：目前各地互联网平台尚在推广应用过程中，用户只能使用其牌证所在地、违法发生地互联网平台启用的相应功能。对于尚未启用的功能，用户暂时无法使用，敬请耐心等待。",
       "trackCensoredName": "交管12123",
       "trackViewUrl": "https://apps.apple.com/cn/app/%E4%BA%A4%E7%AE%A112123/id1039727169?uo=4",
       "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.87451,
       "sellerUrl": "http://www.tmri.cn",
       "languageCodesISO2A": [
+        "EN",
+        "ZH",
         "ZH"
       ],
-      "fileSizeBytes": "373176320",
+      "fileSizeBytes": "362421248",
       "formattedPrice": "免费",
+      "userRatingCountForCurrentVersion": 3070734,
       "trackContentRating": "4+",
-      "averageUserRating": 4.87575,
-      "userRatingCountForCurrentVersion": 3069170,
-      "averageUserRatingForCurrentVersion": 4.87575,
-      "sellerName": "Traffic Management Research Institute of the Ministry of Public Security",
-      "releaseDate": "2016-01-24T08:16:34Z",
-      "userRatingCount": 3069170
+      "averageUserRatingForCurrentVersion": 4.87451,
+      "userRatingCount": 3070734
     }
   ]
 }

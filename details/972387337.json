@@ -3,9 +3,6 @@
   "results": [
     {
       "isGameCenterEnabled": false,
-      "artistViewUrl": "https://apps.apple.com/us/developer/literature-latte/id418889514?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/03/53/53/03535336-8087-e172-bc96-6c4d7e0b833c/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/03/53/53/03535336-8087-e172-bc96-6c4d7e0b833c/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/100x100bb.jpg",
       "features": [
         "iosUniversal"
       ],
@@ -140,6 +137,9 @@
       ],
       "advisories": [],
       "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/us/developer/literature-latte/id418889514?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/03/53/53/03535336-8087-e172-bc96-6c4d7e0b833c/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/03/53/53/03535336-8087-e172-bc96-6c4d7e0b833c/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/34/17/d4/3417d4a4-9393-880a-75c2-62d7261606d0/mzl.vekpxgpl.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/50/77/ce/5077ce3c-a9c3-caa0-bed7-acec324f6c72/345d3994-3deb-45de-a04d-5eeb77b1d9f6_2-inspector.png/392x696bb.png",
@@ -156,10 +156,8 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/03/53/53/03535336-8087-e172-bc96-6c4d7e0b833c/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg",
-      "trackCensoredName": "Scrivener",
-      "trackViewUrl": "https://apps.apple.com/us/app/scrivener/id972387337?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.1821,
+      "releaseNotes": "Scrivener 1.2.4 fixes a bug in 1.2.3 whereby creating a new card on the corkboard would cause a crash.\n\n1.2.3 release notes:\n• Updated for iOS 17.\n• Fixed issue whereby you could tap outside of the new text/folder sheet to dismiss it, and thus accidentally lose a synopsis you were adding.\n• Fixed bug whereby “Split” didn’t work in the text when the selection was at the end.\n• Fixed bug whereby the “Style to” scriptwriting setting did not work.\n• Fixed bug whereby the “Style to” scriptwriting setting could cause a crash in some circumstances.\n• Fixed crash that could occur when setting certain fonts as the default, and in other circumstances related to font changes.\n• Fixed bug whereby the keyboard accessory bar on the iPhone might be cut off by phone features such as the home bar.\n• Fixed bug whereby the “Look Up” popover in the main text and notes would disappear immediately.\n• Fixed bug whereby if you tried to search for a font, the fonts popover would disappear.\n• Fixed bug whereby the share sheet would disappear when trying to share text from the main editor or notes.\n• Fixed bug whereby, in full screen mode, the top of the navigation bar could collapse after multitasking, resulting in controls being too close to the top of the screen.\n• Fixed bug whereby typing on an iPhone could disappear beneath the on-screen keyboard.\n• Fixed bug whereby typewriter scrolling on an iPad when using the on-screen keyboard could create too much empty space and result in the typing disappearing off the top of the view.\n• Fixed bug whereby the buttons in the keyboard accessory row may use light mode colours in dark mode.\n• Fixed bug whereby “Allow Negatives” in session targets would always be reset to off.\n• Fixed bug whereby temporarily setting the session target to 0 while changing the target could reset the current session count.\n• Fixed clipping of numbers in the target settings picker.\n• Fixed bug whereby, in dark mode, text in Compile’s Appearance editor would turn black and thus become unreadable on editing.\n• The Appearance “i” button in Compile now works with VoiceOver, making it possible to access the Appearance editor using VoiceOver.",
+      "minimumOsVersion": "12.0",
       "artistId": 418889514,
       "artistName": "Literature & Latte",
       "genres": [
@@ -168,24 +166,27 @@
       ],
       "price": 23.99,
       "bundleId": "com.literatureandlatte.scrivener.ios",
-      "primaryGenreName": "Productivity",
-      "primaryGenreId": 6007,
-      "sellerName": "Literature & Latte Ltd",
+      "releaseDate": "2016-07-20T08:07:51Z",
+      "trackId": 972387337,
+      "trackName": "Scrivener",
       "genreIds": [
         "6007",
         "6018"
       ],
-      "releaseDate": "2016-07-20T08:07:51Z",
-      "releaseNotes": "Scrivener 1.2.4 fixes a bug in 1.2.3 whereby creating a new card on the corkboard would cause a crash.\n\n1.2.3 release notes:\n• Updated for iOS 17.\n• Fixed issue whereby you could tap outside of the new text/folder sheet to dismiss it, and thus accidentally lose a synopsis you were adding.\n• Fixed bug whereby “Split” didn’t work in the text when the selection was at the end.\n• Fixed bug whereby the “Style to” scriptwriting setting did not work.\n• Fixed bug whereby the “Style to” scriptwriting setting could cause a crash in some circumstances.\n• Fixed crash that could occur when setting certain fonts as the default, and in other circumstances related to font changes.\n• Fixed bug whereby the keyboard accessory bar on the iPhone might be cut off by phone features such as the home bar.\n• Fixed bug whereby the “Look Up” popover in the main text and notes would disappear immediately.\n• Fixed bug whereby if you tried to search for a font, the fonts popover would disappear.\n• Fixed bug whereby the share sheet would disappear when trying to share text from the main editor or notes.\n• Fixed bug whereby, in full screen mode, the top of the navigation bar could collapse after multitasking, resulting in controls being too close to the top of the screen.\n• Fixed bug whereby typing on an iPhone could disappear beneath the on-screen keyboard.\n• Fixed bug whereby typewriter scrolling on an iPad when using the on-screen keyboard could create too much empty space and result in the typing disappearing off the top of the view.\n• Fixed bug whereby the buttons in the keyboard accessory row may use light mode colours in dark mode.\n• Fixed bug whereby “Allow Negatives” in session targets would always be reset to off.\n• Fixed bug whereby temporarily setting the session target to 0 while changing the target could reset the current session count.\n• Fixed clipping of numbers in the target settings picker.\n• Fixed bug whereby, in dark mode, text in Compile’s Appearance editor would turn black and thus become unreadable on editing.\n• The Appearance “i” button in Compile now works with VoiceOver, making it possible to access the Appearance editor using VoiceOver.",
-      "trackId": 972387337,
-      "trackName": "Scrivener",
+      "primaryGenreName": "Productivity",
+      "primaryGenreId": 6007,
+      "sellerName": "Literature & Latte Ltd",
       "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2023-09-29T08:22:11Z",
       "version": "1.2.4",
       "wrapperType": "software",
       "currency": "USD",
       "description": "“The biggest software advance for writers since the word processor.” —Michael Marshall Smith, bestselling author\n\nTypewriter. Ring-binder. Scrapbook. Scrivener combines all the writing tools you need to craft your first draft, from nascent notion to final full stop.\n\nTailor-made for creating long manuscripts, Scrivener banishes page fright by allowing you to compose your text in any order, in sections as large or small as you like. Got a great idea but don’t know where it fits? Write when inspiration strikes and find its place later. Grow your manuscript organically, idea by idea.\n\nWhether you plan or plunge, Scrivener works your way: meticulously outline every last detail first, or hammer out a complete draft and restructure later. Or do a bit of both. All text sections in Scrivener are fully integrated with its outlining tools, so working with an overview of your manuscript is only ever a tap away, and turning Chapter Four into Chapter One is as simple as drag and drop.\n\nNeed to refer to research? In Scrivener, your background material is always at hand. Write a description based on a photograph. Reference a video or PDF. Check for consistency with an earlier chapter. On the iPad, open two documents side-by-side; on the iPhone, flip between research and writing with just two taps.\n\nOnce you’re ready to share your work with the world, simply compile everything into a single document for printing, or export to popular formats such as Word, PDF, Final Draft or plain text. You can even share using different formatting, so that you can write in your favorite font and still keep your editor happy.\n\n\nFEATURES\n\nGet Started\n• Interactive tutorial project\n• Keep each manuscript and supporting materials in a self-contained project\n• Import Word, RTF, Final Draft and plain text files\n• Easily split imported text into separate sections\n\nGet Writing\n• Write your manuscript in sections of any size\n• View all sections as a single text using the “Draft Navigator” (iPad only)\n• Quickly navigate sections using the “binder” sidebar\n• Format with fonts and presets\n• Comments, footnotes, links and highlights\n• Simple bullets and lists\n• Insert images\n• Pinch-zoom to resize text\n• Full-screen mode (iPad only)\n• Typewriter scrolling mode keeps typed text center-screen (iPad only)\n• Write a screenplay using scriptwriting mode\n• Live word and character counts\n• Set word and character count targets\n• Find and replace\n• Customizable keyboard row provides quick-access buttons for formatting, navigation and punctuation\n• Comprehensive keyboard shortcuts for external keyboard users\n• Dark mode\n\nFind Your Structure\n• Write in any order and reorganize later\n• Write a synopsis for any text section and see it in the outline\n• Expand, collapse and drill down into sections of your project\n• Rearrange sections as index cards on the corkboard (iPad only)\n• Project-wide search\n• Track ideas using labels and status\n• Apply custom icons to your sections\n\nRefer to Research\n• Import research material such as image, PDF and media files\n• View research files or other sections right alongside your writing (iPad only)\n• Every section has its own notes area for jotting down ideas\n• Supports multitasking split screen mode (supported devices only)\n\nShare Your Work\n• Compile to a single document for sharing or printing\n• Use different formatting in your exported or printed document\n• Export to Word, RTF, Final Draft, PDF or plain text\n• Convert rich text to Markdown for sharing with Markdown apps\n• Create and email zipped backups of your projects\n\nWork Anywhere\n• Use Dropbox to sync between devices and with the macOS and Windows versions of Scrivener*\n• Copy projects between devices via iTunes\n\n* Requires a Dropbox account (not compatible with iCloud).\n\nSUPPORT\nYou can contact us at ios.support@literatureandlatte.com, visit our forums at http://www.literatureandlatte.com/forum, or find us @scrivenerapp on Twitter.",
-      "averageUserRatingForCurrentVersion": 4.1821,
+      "averageUserRating": 4.17845,
+      "trackCensoredName": "Scrivener",
+      "trackViewUrl": "https://apps.apple.com/us/app/scrivener/id972387337?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRatingForCurrentVersion": 4.17845,
       "sellerUrl": "http://www.literatureandlatte.com/scrivener_ios.php",
       "languageCodesISO2A": [
         "EN",
@@ -201,10 +202,9 @@
       ],
       "fileSizeBytes": "27816960",
       "formattedPrice": "$23.99",
-      "userRatingCountForCurrentVersion": 2581,
+      "userRatingCountForCurrentVersion": 2589,
       "trackContentRating": "4+",
-      "minimumOsVersion": "12.0",
-      "userRatingCount": 2581
+      "userRatingCount": 2589
     }
   ]
 }

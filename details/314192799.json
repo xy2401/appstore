@@ -3,8 +3,6 @@
   "results": [
     {
       "isGameCenterEnabled": false,
-      "artistViewUrl": "https://apps.apple.com/jp/developer/acrobits/id314192802?uo=4",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/7d/d4/1d7dd47a-40e3-b5f2-4ba6-a29373b25fcf/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/63/e3/1d/63e31df7-e898-7f23-5e75-8b57a5bb1fac/dcf1fce6-ba30-4e0c-b48e-3912762c3813_2245522_AppStoreScreenshots_U0026FeaturedImage2_ACROBITS5.5_01_041024.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b5/c0/e6/b5c0e603-62a3-1e66-4a70-d53e83c3362d/9e2313e5-f746-4189-bf7e-809487502b00_2245522_AppStoreScreenshots_U0026FeaturedImage2_ACROBITS5.5_02_041024.png/392x696bb.png",
@@ -14,8 +12,8 @@
       ],
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/7d/d4/1d7dd47a-40e3-b5f2-4ba6-a29373b25fcf/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/7d/d4/1d7dd47a-40e3-b5f2-4ba6-a29373b25fcf/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/04/d3/3304d358-0e88-9304-af7a-11ec4ba49bf1/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "features": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -145,10 +143,12 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "features": [],
       "advisories": [],
       "kind": "software",
-      "sellerUrl": "https://www.acrobits.net",
+      "artistViewUrl": "https://apps.apple.com/jp/developer/acrobits/id314192802?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/04/d3/3304d358-0e88-9304-af7a-11ec4ba49bf1/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/04/d3/3304d358-0e88-9304-af7a-11ec4ba49bf1/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
+      "releaseNotes": "- Implemented compliance with the Declare Age Rating API",
       "languageCodesISO2A": [
         "AR",
         "BG",
@@ -179,39 +179,39 @@
         "TR",
         "VI"
       ],
-      "fileSizeBytes": "65658880",
+      "fileSizeBytes": "66400256",
       "formattedPrice": "¥1,100",
-      "contentAdvisoryRating": "17+",
+      "sellerUrl": "https://www.acrobits.net",
       "userRatingCountForCurrentVersion": 59,
-      "trackViewUrl": "https://apps.apple.com/jp/app/acrobits-softphone/id314192799?uo=4",
       "trackContentRating": "17+",
-      "averageUserRatingForCurrentVersion": 2.83051,
-      "averageUserRating": 2.83051,
-      "trackCensoredName": "Acrobits Softphone",
-      "minimumOsVersion": "16.0",
       "artistId": 314192802,
       "artistName": "Acrobits",
-      "price": 1100.0,
+      "genres": [
+        "仕事効率化"
+      ],
+      "price": 1100,
+      "bundleId": "cz.acrobits.softphone.own",
+      "releaseDate": "2009-07-02T06:20:09Z",
+      "trackId": 314192799,
+      "trackName": "Acrobits Softphone",
       "genreIds": [
         "6007"
       ],
-      "releaseDate": "2009-07-02T06:20:09Z",
       "primaryGenreName": "Productivity",
       "primaryGenreId": 6007,
       "sellerName": "Acrobits",
       "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-04-29T19:47:52Z",
-      "releaseNotes": "- Improved app stability and internal diagnostics",
-      "version": "25.3.76",
+      "currentVersionReleaseDate": "2026-07-09T23:26:51Z",
+      "version": "25.3.100",
       "wrapperType": "software",
       "currency": "JPY",
       "description": "Make voice and video calls, send messages, and stay connected with Acrobits Softphone App — a powerful and feature-rich SIP softphone designed for all your calling needs.\n\nIMPORTANT, PLEASE READ\n\nAcrobits Softphone is a SIP Client, not a VoIP service. To use it, you need an account with a VoIP provider or PBX that supports standard SIP clients. \n\nNote: this app does not support call transfer or conference calling.\n\nTake your VoIP calling experience to the next level with Acrobits Softphone with out-of-the-box support for many of the most popular providers and Bluetooth devices on the market.\n\nAcrobits Softphone brings all the popular features you expect from a SIP app, including support for 5G, voice and video calling, push notifications, call handover between WiFi and data, multi-device compatibility, lifetime access to support and updates, and more.\n\nExperience crystal clear calling with support for popular audio standards, including Opus, G.722, G.729, G.711, iLBC, and GSM. Need to make video calls? Acrobits Softphone supports up to 720p HD and supports both H.265 and VP8.\n\nYou can even create your own look and feel. Acrobits Softphone is fully customizable, allowing you to configure your own SIP call settings, UI, ringtones, and more.\n\nAcrobits Softphone makes it easy for you to communicate with friends and family on any device. This SIP calling app is compatible with virtually all iPhones and iPads.\n\nDon’t worry about hidden fees. You can try Acrobits Softphone today for a one-time fee that comes with lifetime support and updates.",
-      "bundleId": "cz.acrobits.softphone.own",
-      "trackId": 314192799,
-      "trackName": "Acrobits Softphone",
-      "genres": [
-        "仕事効率化"
-      ],
+      "trackCensoredName": "Acrobits Softphone",
+      "trackViewUrl": "https://apps.apple.com/jp/app/acrobits-softphone/id314192799?uo=4",
+      "averageUserRating": 2.83051,
+      "contentAdvisoryRating": "17+",
+      "minimumOsVersion": "16.0",
+      "averageUserRatingForCurrentVersion": 2.83051,
       "userRatingCount": 59
     }
   ]
