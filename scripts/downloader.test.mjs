@@ -103,6 +103,15 @@ test('curated and ranking entries share one cache entry per App ID', () => {
     assert.deepEqual(result[0].artworkUrls, ['small.png', 'large.png']);
 });
 
+test('curated entries shared by multiple lists are downloaded once', () => {
+    const entries = createCuratedEntries([
+        { id: 'ai', country: 'us', mediaType: 'apps', ids: ['6477489729'] },
+        { id: 'google', country: 'us', mediaType: 'apps', ids: ['6477489729'] }
+    ]);
+
+    assert.equal(mergeMediaEntries(entries).length, 1);
+});
+
 test('runSequential processes one item at a time and preserves order', async () => {
     let active = 0;
     let maximumActive = 0;

@@ -947,7 +947,7 @@ export async function runMediaStage(options) {
 export async function runListsStage(options) {
     console.log('[lists] Downloading curated app details and media...');
     const lists = await loadCuratedLists(options.countries);
-    const entries = createCuratedEntries(lists);
+    const entries = mergeMediaEntries(createCuratedEntries(lists));
     await downloadDetails(entries, options);
     const mediaItems = await loadMediaItems(entries);
     await downloadArtwork(mediaItems);

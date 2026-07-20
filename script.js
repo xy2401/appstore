@@ -9,7 +9,13 @@ const closeModalBtn = document.querySelector('.close-modal');
 const jsonListButton = document.getElementById('jsonListButton');
 const themeToggle = document.getElementById('themeToggle');
 const CURATED_SOURCE = '@lists';
-const CURATED_LIST_PATHS = ['lists/apple-apps.json'];
+const CURATED_LIST_PATHS = [
+    'lists/apple-apps.json',
+    'lists/ai-apps.json',
+    'lists/china-ai-apps.json',
+    'lists/google-apps.json',
+    'lists/microsoft-apps.json'
+];
 
 let allFiles = [];
 let curatedLists = [];
@@ -331,7 +337,8 @@ mediaTypeSelect.addEventListener('change', () => {
 });
 
 feedSelect.addEventListener('change', () => {
-    loadRankings();
+    if (dateSelect.value === CURATED_SOURCE) updateCuratedOptions();
+    else loadRankings();
 });
 
 jsonListButton.addEventListener('click', showJsonFileList);

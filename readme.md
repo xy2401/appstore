@@ -138,4 +138,4 @@ The interface automatically selects the newest available archive and provides de
 
 ## Curated app lists
 
-`lists/apple-apps.json` contains the ordered App IDs for the built-in Apple Apps collection. The interface exposes it through the special `Curated Lists` source, fixes the region to US metadata and the media type to Apps, and reuses `details/<id>.json` plus `logos/<id>.png`. Scheduled Stage 2 and Stage 3 runs include these IDs automatically; use the `lists` command to refresh only curated data without processing ranking archives.
+The files in `lists/` contain ordered App IDs for the built-in Apple, global AI, China AI, Google, and Microsoft collections. The interface exposes them through the special `Curated Lists` source, fixes the media type to Apps, switches the metadata region to match each list, and reuses `details/<id>.json` plus `logos/<id>.png`. Scheduled Stage 2 and Stage 3 runs include these IDs automatically; use the `lists` command to refresh only curated data without processing ranking archives.
