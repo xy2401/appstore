@@ -8,6 +8,7 @@ This project downloads Apple top-chart feeds, archives them by date, caches medi
 - **Media**: Apps, music, podcasts, books, and audiobooks where Apple provides a regional feed.
 - **Charts**: Free and paid apps/books; songs, albums, music videos, and playlists; podcast shows, subscriber charts, episodes, and channels; plus top audiobooks.
 - **Historical archive**: Ranking JSON is stored in date-stamped directories under `rankings/YYYYMMDD/`.
+- **Curated lists**: Manually maintained App IDs reuse the same detail and artwork caches without pretending to be chart entries.
 - **Local assets**: Lookup metadata is cached in `details/` and artwork is downloaded to `logos/`.
 - **Static web interface**: Filter by date, region, media type, and chart; inspect media details; or browse the styled index of raw JSON archives.
 - **Adaptive themes**: Follow the operating-system theme by default, with a persistent light/dark toggle.
@@ -72,6 +73,9 @@ node scripts/downloader.mjs media --date 20260701 --generate-markdown
 node scripts/downloader.mjs all --date 20260701 --countries cn
 node scripts/downloader.mjs all --date 20260701 --countries "cn jp"
 
+# Refresh only manually maintained curated lists
+node scripts/downloader.mjs lists --skip-existing
+
 # Show command help
 node scripts/downloader.mjs --help
 ```
@@ -115,6 +119,7 @@ The interface automatically selects the newest available archive and provides de
 ├── rankings.json          # Generated index used by the web interface
 ├── rankings/
 │   └── YYYYMMDD/          # Archived ranking feeds
+├── lists/                 # Manually maintained curated App IDs
 ├── details/               # Cached iTunes Lookup API responses
 ├── logos/                 # Locally cached artwork
 └── .github/workflows/
@@ -130,3 +135,7 @@ The interface automatically selects the newest available archive and provides de
 `.github/workflows/update_rankings-ps.yml` is retained as a disabled rollback reference. Its job has a constant false condition and cannot execute the legacy downloader unless that condition is deliberately removed.
 
 `.github/workflows/static.yml` deploys the repository on pushes to `main` and when manually dispatched by the update workflow.
+
+## Curated app lists
+
+`lists/apple-apps.json` contains the ordered App IDs for the built-in Apple Apps collection. The interface exposes it through the special `Curated Lists` source, fixes the region to US metadata and the media type to Apps, and reuses `details/<id>.json` plus `logos/<id>.png`. Scheduled Stage 2 and Stage 3 runs include these IDs automatically; use the `lists` command to refresh only curated data without processing ranking archives.

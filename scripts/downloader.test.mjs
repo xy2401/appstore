@@ -2,12 +2,14 @@ import assert from 'node:assert/strict';
 import test from 'node:test';
 
 import {
+    createCuratedEntries,
     createDetailBatches,
     createRequestThrottle,
     getArtworkFileName,
     getFeedConfigsForCountry,
     hashArtworkUrl,
     isLookupCompatibleId,
+    mergeMediaEntries,
     parseArguments,
     runCountryTasks,
     runSequential,
@@ -38,6 +40,10 @@ test('parseArguments defaults to the all command', () => {
     assert.deepEqual(options.countries, ['us', 'cn', 'jp', 'gb', 'de', 'fr']);
 });
 
+test('parseArguments accepts the curated lists command', () => {
+    assert.equal(parseArguments(['lists']).command, 'lists');
+});
+
 test('parseArguments rejects invalid values and unknown flags', () => {
     assert.throws(() => parseArguments(['--limit', '0']), /positive integer/);
     assert.throws(() => parseArguments(['--date', '2026-07-01']), /YYYYMMDD/);
@@ -61,6 +67,40 @@ test('subscriber podcast feeds are requested only in supported storefronts', () 
     assert.equal(getResources('cn').includes('top-subscriber/podcasts'), false);
     assert.equal(getResources('jp').includes('top-subscriber/podcast-channels'), false);
     assert.equal(getResources('cn').includes('top/podcast-episodes'), true);
+});
+
+test('curated app lists become normal detail and media entries', () => {
+    const entries = createCuratedEntries([{
+        country: 'US',
+        mediaType: 'apps',
+        ids: ['525463029', '899247664']
+    }]);
+
+    assert.deepEqual(entries.map(entry => entry.id), ['525463029', '899247664']);
+    assert.equal(entries[0].country, 'us');
+    assert.equal(entries[0].item.kind, 'apps');
+});
+
+test('curated and ranking entries share one cache entry per App ID', () => {
+    const result = mergeMediaEntries(
+        [{
+            id: '525463029',
+            country: 'us',
+            item: { id: '525463029', name: 'Apple Podcasts' },
+            artworkUrls: ['small.png']
+        }],
+        [{
+            id: '525463029',
+            country: 'us',
+            item: { id: '525463029', kind: 'apps' },
+            artworkUrls: ['large.png']
+        }]
+    );
+
+    assert.equal(result.length, 1);
+    assert.equal(result[0].item.name, 'Apple Podcasts');
+    assert.equal(result[0].item.kind, 'apps');
+    assert.deepEqual(result[0].artworkUrls, ['small.png', 'large.png']);
 });
 
 test('runSequential processes one item at a time and preserves order', async () => {

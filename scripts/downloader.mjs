@@ -9,6 +9,7 @@ const ROOT_DIR = path.resolve(SCRIPT_DIR, '..');
 const RANKINGS_DIR = path.join(ROOT_DIR, 'rankings');
 const DETAILS_DIR = path.join(ROOT_DIR, 'details');
 const LOGOS_DIR = path.join(ROOT_DIR, 'logos');
+const LISTS_DIR = path.join(ROOT_DIR, 'lists');
 const RANKINGS_INDEX = path.join(ROOT_DIR, 'rankings.json');
 const DETAIL_BATCH_SIZE = 25;
 const LOOKUP_MIN_INTERVAL_MS = 3_250;
@@ -54,6 +55,7 @@ Commands:
   rank                     Download ranking RSS into rankings/YYYYMMDD/
   details                  Download lookup JSON into details/
   media                    Download artwork, generate output, and publish the index
+  lists                    Download details and artwork only for curated lists
   all                      Run rank, details, and media in order (default)
 
 Options:
@@ -95,7 +97,7 @@ function parseCountries(value) {
 
 export function parseArguments(argv) {
     const args = [...argv];
-    const commands = new Set(['rank', 'details', 'media', 'all']);
+    const commands = new Set(['rank', 'details', 'media', 'lists', 'all']);
     let command = 'all';
 
     if (args[0] && !args[0].startsWith('-')) {
@@ -318,7 +320,8 @@ async function ensureDirectories() {
     await Promise.all([
         mkdir(RANKINGS_DIR, { recursive: true }),
         mkdir(DETAILS_DIR, { recursive: true }),
-        mkdir(LOGOS_DIR, { recursive: true })
+        mkdir(LOGOS_DIR, { recursive: true }),
+        mkdir(LISTS_DIR, { recursive: true })
     ]);
 }
 
@@ -422,6 +425,78 @@ function collectMediaEntries(rankingResults) {
     }
 
     return [...entries.values()];
+}
+
+async function loadCuratedLists(countries = COUNTRIES) {
+    const files = (await readdir(LISTS_DIR))
+        .filter(fileName => fileName.endsWith('-apps.json'))
+        .sort();
+    const lists = [];
+
+    for (const fileName of files) {
+        const list = await readJson(path.join(LISTS_DIR, fileName));
+        const country = String(list.country || 'us').toLowerCase();
+        if (!countries.includes(country)) continue;
+        lists.push({ ...list, country, fileName });
+    }
+
+    return lists;
+}
+
+export function createCuratedEntries(lists) {
+    const entries = [];
+
+    for (const list of lists) {
+        const country = String(list.country || 'us').toLowerCase();
+        for (const value of list.ids || []) {
+            const id = String(value || '');
+            if (!id) continue;
+            entries.push({
+                id,
+                country,
+                item: { id, kind: list.mediaType || 'apps' },
+                artworkUrls: []
+            });
+        }
+    }
+
+    return entries;
+}
+
+export function mergeMediaEntries(...entryGroups) {
+    const entries = new Map();
+
+    for (const group of entryGroups) {
+        for (const entry of group) {
+            if (!entries.has(entry.id)) {
+                entries.set(entry.id, {
+                    ...entry,
+                    item: { ...entry.item },
+                    artworkUrls: [...entry.artworkUrls]
+                });
+                continue;
+            }
+
+            const existing = entries.get(entry.id);
+            existing.item = { ...entry.item, ...existing.item };
+            for (const artworkUrl of entry.artworkUrls) {
+                if (!existing.artworkUrls.includes(artworkUrl)) {
+                    existing.artworkUrls.push(artworkUrl);
+                }
+            }
+        }
+    }
+
+    return [...entries.values()];
+}
+
+async function loadAllMediaEntries(options) {
+    const rankings = await loadRankingResults(options.date, options.countries);
+    const lists = await loadCuratedLists(options.countries);
+    return mergeMediaEntries(
+        collectMediaEntries(rankings),
+        createCuratedEntries(lists)
+    );
 }
 
 function summarizeMedia(entry, lookupData) {
@@ -851,16 +926,14 @@ export async function runRankStage(options) {
 
 export async function runDetailsStage(options) {
     console.log('[stage 2/3] Downloading detail JSON...');
-    const rankings = await loadRankingResults(options.date, options.countries);
-    const entries = collectMediaEntries(rankings);
+    const entries = await loadAllMediaEntries(options);
     await downloadDetails(entries, options);
     console.log(`[stage 2/3] Complete: ${entries.length} unique media item(s).`);
 }
 
 export async function runMediaStage(options) {
     console.log('[stage 3/3] Downloading media files...');
-    const rankings = await loadRankingResults(options.date, options.countries);
-    const entries = collectMediaEntries(rankings);
+    const entries = await loadAllMediaEntries(options);
     const mediaItems = await loadMediaItems(entries);
     await downloadArtwork(mediaItems);
 
@@ -869,6 +942,16 @@ export async function runMediaStage(options) {
 
     await rebuildRankingsIndex();
     console.log(`[stage 3/3] Complete: ${mediaItems.length} media item(s); rankings.json published.`);
+}
+
+export async function runListsStage(options) {
+    console.log('[lists] Downloading curated app details and media...');
+    const lists = await loadCuratedLists(options.countries);
+    const entries = createCuratedEntries(lists);
+    await downloadDetails(entries, options);
+    const mediaItems = await loadMediaItems(entries);
+    await downloadArtwork(mediaItems);
+    console.log(`[lists] Complete: ${lists.length} list(s); ${mediaItems.length} app(s).`);
 }
 
 export async function main(argv = process.argv.slice(2)) {
@@ -891,6 +974,9 @@ export async function main(argv = process.argv.slice(2)) {
     }
     if (options.command === 'media' || options.command === 'all') {
         await runMediaStage(options);
+    }
+    if (options.command === 'lists') {
+        await runListsStage(options);
     }
     console.log('Done.');
 }

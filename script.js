@@ -8,8 +8,11 @@ const modalBody = document.getElementById('modalBody');
 const closeModalBtn = document.querySelector('.close-modal');
 const jsonListButton = document.getElementById('jsonListButton');
 const themeToggle = document.getElementById('themeToggle');
+const CURATED_SOURCE = '@lists';
+const CURATED_LIST_PATHS = ['lists/apple-apps.json'];
 
 let allFiles = [];
+let curatedLists = [];
 let availableDates = new Set();
 let availableCountries = new Set();
 let availableMediaTypes = new Set();
@@ -91,21 +94,31 @@ window.onclick = (event) => {
     }
 }
 
-// Fetch the file list
-fetch('rankings.json')
-    .then(response => {
-        if (!response.ok) throw new Error('Failed to load rankings.json');
+function fetchJson(path) {
+    return fetch(path).then(response => {
+        if (!response.ok) throw new Error(`Failed to load ${path}`);
         return response.json();
-    })
-    .then(files => {
+    });
+}
+
+// Fetch the ranking archive and manually maintained curated lists.
+Promise.all([
+    fetchJson('rankings.json'),
+    Promise.all(CURATED_LIST_PATHS.map(path => (
+        fetchJson(path).then(list => ({ ...list, path }))
+    )))
+])
+    .then(([files, lists]) => {
         allFiles = files;
+        curatedLists = lists;
         processFiles();
         populateDropdowns();
         jsonListButton.disabled = !allFiles.some(file => file.parsed);
         
         // Auto-select most recent if available
-        if (dateSelect.options.length > 1) {
-            dateSelect.selectedIndex = 1;
+        const newestDate = Array.from(availableDates).sort().reverse()[0];
+        if (newestDate) {
+            dateSelect.value = newestDate;
             updateAvailableOptions();
             // Try to set defaults if available
             if (countrySelect.options.length > 1) countrySelect.selectedIndex = 1;
@@ -144,13 +157,26 @@ function processFiles() {
 }
 
 function populateDropdowns() {
+    if (curatedLists.length > 0) {
+        const listGroup = document.createElement('optgroup');
+        listGroup.label = 'Lists';
+        const option = document.createElement('option');
+        option.value = CURATED_SOURCE;
+        option.textContent = 'Curated Lists';
+        listGroup.appendChild(option);
+        dateSelect.appendChild(listGroup);
+    }
+
+    const archiveGroup = document.createElement('optgroup');
+    archiveGroup.label = 'Archives';
     const sortedDates = Array.from(availableDates).sort().reverse();
     sortedDates.forEach(date => {
         const option = document.createElement('option');
         option.value = date;
         option.textContent = formatDate(date);
-        dateSelect.appendChild(option);
+        archiveGroup.appendChild(option);
     });
+    dateSelect.appendChild(archiveGroup);
 }
 
 function formatDate(dateStr) {
@@ -161,11 +187,49 @@ function formatDate(dateStr) {
     return dateStr;
 }
 
+function updateCuratedOptions({ loadIfComplete = true } = {}) {
+    const currentFeed = feedSelect.value;
+    const listIds = new Set(curatedLists.map(list => list.id));
+    const selectedList = curatedLists.find(list => list.id === currentFeed)
+        || curatedLists[0];
+    const country = selectedList?.country || 'us';
+
+    countrySelect.innerHTML = `<option value="${escapeHtml(country)}">${escapeHtml(country.toUpperCase())} Metadata</option>`;
+    countrySelect.value = country;
+    countrySelect.disabled = true;
+
+    mediaTypeSelect.innerHTML = '<option value="apps">Apps</option>';
+    mediaTypeSelect.value = 'apps';
+    mediaTypeSelect.disabled = true;
+
+    feedSelect.innerHTML = '<option value="" disabled>List</option>';
+    curatedLists.forEach(list => {
+        const option = document.createElement('option');
+        option.value = list.id;
+        option.textContent = list.title || formatLabel(list.id);
+        feedSelect.appendChild(option);
+    });
+
+    if (listIds.has(currentFeed)) feedSelect.value = currentFeed;
+    else if (selectedList) feedSelect.value = selectedList.id;
+    else feedSelect.selectedIndex = -1;
+
+    if (loadIfComplete && feedSelect.value) loadRankings();
+}
+
 function updateAvailableOptions({ selectFirstFeed = false, loadIfComplete = true } = {}) {
     const selectedDate = dateSelect.value;
     const currentCountry = countrySelect.value;
     const currentMediaType = mediaTypeSelect.value;
     const currentFeed = feedSelect.value;
+
+    if (selectedDate === CURATED_SOURCE) {
+        updateCuratedOptions({ loadIfComplete });
+        return;
+    }
+
+    countrySelect.disabled = false;
+    mediaTypeSelect.disabled = false;
 
     // 1. Update Country (depends on Date)
     availableCountries.clear();
@@ -255,7 +319,7 @@ function updateAvailableOptions({ selectFirstFeed = false, loadIfComplete = true
 }
 
 dateSelect.addEventListener('change', () => {
-    updateAvailableOptions();
+    updateAvailableOptions({ selectFirstFeed: true });
 });
 
 countrySelect.addEventListener('change', () => {
@@ -491,6 +555,11 @@ function loadRankings() {
 
     if (!date || !country || !mediaType || !feed) return;
 
+    if (date === CURATED_SOURCE) {
+        loadCuratedApps(feed);
+        return;
+    }
+
     appGrid.innerHTML = '<div class="loading">Loading charts...</div>';
 
     const file = allFiles.find(f => 
@@ -522,26 +591,85 @@ function loadRankings() {
         });
 }
 
-function renderApps(apps) {
+async function getAppDetails(appId) {
+    if (Object.prototype.hasOwnProperty.call(appDetailsCache, appId)) {
+        return appDetailsCache[appId];
+    }
+
+    let details = null;
+    try {
+        const data = await fetchJson(`details/${appId}.json`);
+        if (data.resultCount > 0) details = data.results[0];
+    } catch {
+        // Some media types are not returned by the iTunes lookup endpoint.
+    }
+    appDetailsCache[appId] = details;
+    return details;
+}
+
+function createCuratedApp(id, details) {
+    return {
+        id: String(details?.trackId || id),
+        name: details?.trackName || `App ${id}`,
+        artistName: details?.artistName || details?.sellerName || '',
+        artworkUrl100: details?.artworkUrl100 || '',
+        artworkUrl60: details?.artworkUrl60 || '',
+        kind: 'apps',
+        url: details?.trackViewUrl || '',
+        genres: details?.genres || [],
+        releaseDate: details?.releaseDate || ''
+    };
+}
+
+async function loadCuratedApps(listId) {
+    const list = curatedLists.find(candidate => candidate.id === listId);
+    if (!list) {
+        appGrid.innerHTML = '<div class="error">Curated list not found.</div>';
+        return;
+    }
+
+    appGrid.innerHTML = '<div class="loading">Loading curated apps...</div>';
+    const apps = await Promise.all((list.ids || []).map(async value => {
+        const id = String(value);
+        return createCuratedApp(id, await getAppDetails(id));
+    }));
+    renderApps(apps, { collection: list });
+}
+
+function renderApps(apps, { collection = null } = {}) {
     appGrid.innerHTML = '';
-    
+
+    if (collection) {
+        const header = document.createElement('section');
+        header.className = 'collection-header';
+        header.innerHTML = `
+            <span class="collection-eyebrow">Curated List</span>
+            <h2>${escapeHtml(collection.title || formatLabel(collection.id))}</h2>
+            <p>${escapeHtml(collection.description || '')}</p>
+            <div class="collection-meta">${apps.length} Apps · ${escapeHtml((collection.country || 'us').toUpperCase())} metadata</div>
+        `;
+        appGrid.appendChild(header);
+    }
+
     apps.forEach((app, index) => {
         const item = document.createElement('div');
-        item.className = 'app-item';
+        item.className = `app-item${collection ? ' curated-app-item' : ''}`;
         item.onclick = () => showAppDetails(app.id, app); // Pass basic app info as backup
 
         const localLogoPath = `logos/${app.id}.png`;
         const artworkUrl = app.artworkUrl100 || app.artworkUrl60 || '';
+        const name = app.name || `App ${app.id}`;
+        const artistName = app.artistName || '';
         
         item.innerHTML = `
-            <img src="${escapeHtml(localLogoPath)}" alt="${escapeHtml(app.name)}" class="app-logo">
+            <img src="${escapeHtml(localLogoPath)}" alt="${escapeHtml(name)}" class="app-logo">
             <div class="app-info">
                 <div class="app-header">
-                    <span class="app-rank">${index + 1}</span>
-                    <span class="app-name" title="${app.name}">${app.name}</span>
+                    ${collection ? '' : `<span class="app-rank">${index + 1}</span>`}
+                    <span class="app-name" title="${escapeHtml(name)}">${escapeHtml(name)}</span>
                 </div>
-                <div class="app-meta" title="${app.artistName}">
-                    ${app.artistName}
+                <div class="app-meta" title="${escapeHtml(artistName)}">
+                    ${escapeHtml(artistName)}
                 </div>
             </div>
         `;
@@ -556,27 +684,7 @@ async function showAppDetails(appId, basicAppInfo) {
     modalBody.innerHTML = '<div class="loading">Loading details...</div>';
     appModal.style.display = "flex";
 
-    let details = null;
-
-    if (Object.prototype.hasOwnProperty.call(appDetailsCache, appId)) {
-        details = appDetailsCache[appId];
-    } else {
-        try {
-            const res = await fetch(`details/${appId}.json`);
-            if (!res.ok) throw new Error('Details not found');
-            const data = await res.json();
-            if (data.resultCount > 0) {
-                details = data.results[0];
-            }
-        } catch {
-            // Some media types are not returned by the iTunes lookup endpoint.
-            // Their RSS data still contains enough information for a useful modal.
-            details = null;
-        }
-        appDetailsCache[appId] = details;
-    }
-
-    renderModalContent(details, appId, basicAppInfo);
+    renderModalContent(await getAppDetails(appId), appId, basicAppInfo);
 }
 
 function formatAppDate(dateString) {

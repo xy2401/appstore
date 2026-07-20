@@ -168,6 +168,11 @@ select:focus {
     border-color: var(--accent-color);
 }
 
+select:disabled {
+    cursor: default;
+    opacity: 0.72;
+}
+
 .svg-sprite {
     position: absolute;
     width: 0;
@@ -252,6 +257,43 @@ main {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
     gap: 20px;
+}
+
+.collection-header {
+    grid-column: 1 / -1;
+    padding: 8px 4px 4px;
+}
+
+.collection-eyebrow {
+    color: var(--accent-color);
+    font-size: 12px;
+    font-weight: 800;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+}
+
+.collection-header h2 {
+    margin: 6px 0 4px;
+    color: var(--text-primary);
+    font-size: 28px;
+    line-height: 1.2;
+}
+
+.collection-header p {
+    margin: 0;
+    color: var(--text-secondary);
+    font-size: 15px;
+}
+
+.collection-meta {
+    margin-top: 8px;
+    color: var(--text-secondary);
+    font-size: 12px;
+    font-weight: 700;
+}
+
+.curated-app-item .app-header {
+    gap: 0;
 }
 
 .app-item {
