@@ -10,6 +10,7 @@ This project downloads Apple top-chart feeds, archives them by date, caches medi
 - **Historical archive**: Ranking JSON is stored in date-stamped directories under `rankings/YYYYMMDD/`.
 - **Local assets**: Lookup metadata is cached in `details/` and artwork is downloaded to `logos/`.
 - **Static web interface**: Filter by date, region, media type, and chart; inspect media details; or browse the styled index of raw JSON archives.
+- **Adaptive themes**: Follow the operating-system theme by default, with a persistent light/dark toggle.
 - **Zero-dependency downloader**: The active downloader uses only built-in Node.js APIs.
 - **Automation**: GitHub Actions refreshes the archive monthly and deploys the repository to GitHub Pages.
 

@@ -5,8 +5,88 @@
     --text-primary: #ffffff;
     --text-secondary: #8e8e93;
     --accent-color: #0a84ff;
+    --accent-hover: #409cff;
     --separator: #38383a;
+    --header-bg: rgba(0, 0, 0, 0.8);
+    --control-bg: #1c1c1e;
+    --control-hover-bg: #2c2c2e;
+    --surface-border: rgba(255, 255, 255, 0.05);
+    --surface-border-hover: rgba(255, 255, 255, 0.1);
+    --surface-shadow: rgba(0, 0, 0, 0.3);
+    --logo-bg: #2c2c2e;
+    --modal-overlay: rgba(0, 0, 0, 0.6);
+    --modal-close-color: #aaaaaa;
+    --modal-close-bg: rgba(0, 0, 0, 0.5);
+    --json-header-start: #26384d;
+    --json-header-end: #1c1c1e;
+    --eyebrow-color: #64b5ff;
+    --country-color: #b9dcff;
+    --country-bg: rgba(10, 132, 255, 0.16);
+    --json-card-bg: #242426;
+    --json-card-hover-bg: #2c2c2e;
+    --json-card-border-hover: #5a5a5e;
+    --json-card-glow: rgba(10, 132, 255, 0.12);
+    --json-divider: rgba(255, 255, 255, 0.06);
+    --open-icon-color: #707076;
+    --current-color: #8ee6ad;
+    --current-bg: rgba(48, 209, 88, 0.15);
+    --file-color: #b5b5ba;
+    --file-muted: #6f6f74;
+    --modal-header-start: #2c2c2e;
+    --modal-header-end: #1c1c1e;
+    --description-color: #dddddd;
+    --info-border: #2c2c2e;
+    --app-icon-color: #9bd0ff;
+    --music-icon-color: #ffb4d2;
+    --podcast-icon-color: #d8b6ff;
+    --book-icon-color: #ffd59a;
     --font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color-scheme: dark;
+}
+
+:root[data-theme="light"] {
+    --bg-color: #f5f5f7;
+    --item-bg: #ffffff;
+    --item-hover-bg: #f0f4f9;
+    --text-primary: #1d1d1f;
+    --text-secondary: #6e6e73;
+    --accent-color: #0071e3;
+    --accent-hover: #147ce5;
+    --separator: #d2d2d7;
+    --header-bg: rgba(255, 255, 255, 0.82);
+    --control-bg: #ffffff;
+    --control-hover-bg: #f0f4f9;
+    --surface-border: rgba(0, 0, 0, 0.08);
+    --surface-border-hover: rgba(0, 0, 0, 0.16);
+    --surface-shadow: rgba(22, 32, 48, 0.14);
+    --logo-bg: #e8e8ed;
+    --modal-overlay: rgba(22, 32, 48, 0.3);
+    --modal-close-color: #515154;
+    --modal-close-bg: rgba(255, 255, 255, 0.88);
+    --json-header-start: #e2effc;
+    --json-header-end: #ffffff;
+    --eyebrow-color: #0066cc;
+    --country-color: #0055a8;
+    --country-bg: rgba(0, 113, 227, 0.12);
+    --json-card-bg: #ffffff;
+    --json-card-hover-bg: #f6f9fd;
+    --json-card-border-hover: #9da7b3;
+    --json-card-glow: rgba(0, 113, 227, 0.08);
+    --json-divider: rgba(0, 0, 0, 0.08);
+    --open-icon-color: #8a8a8e;
+    --current-color: #147a35;
+    --current-bg: rgba(40, 167, 69, 0.12);
+    --file-color: #515154;
+    --file-muted: #86868b;
+    --modal-header-start: #eef3f8;
+    --modal-header-end: #ffffff;
+    --description-color: #424245;
+    --info-border: #e5e5ea;
+    --app-icon-color: #0066cc;
+    --music-icon-color: #c41e62;
+    --podcast-icon-color: #7d31a8;
+    --book-icon-color: #a35d00;
+    color-scheme: light;
 }
 
 body {
@@ -17,11 +97,12 @@ body {
     padding: 0;
     min-height: 100vh;
     -webkit-font-smoothing: antialiased;
+    transition: background-color 0.2s ease, color 0.2s ease;
 }
 
 /* Header & Controls */
 header {
-    background-color: rgba(0, 0, 0, 0.8);
+    background-color: var(--header-bg);
     backdrop-filter: blur(20px);
     -webkit-backdrop-filter: blur(20px);
     padding: 16px 20px;
@@ -62,9 +143,9 @@ h1 {
 
 select {
     appearance: none;
-    background-color: #1c1c1e;
+    background-color: var(--control-bg);
     color: var(--accent-color);
-    border: 1px solid #38383a;
+    border: 1px solid var(--separator);
     padding: 8px 16px;
     border-radius: 20px;
     font-size: 14px;
@@ -75,7 +156,7 @@ select {
 }
 
 select:hover {
-    background-color: #2c2c2e;
+    background-color: var(--control-hover-bg);
     border-color: var(--accent-color);
 }
 
@@ -83,6 +164,13 @@ select:focus {
     outline: none;
     box-shadow: 0 0 0 3px rgba(10, 132, 255, 0.2);
     border-color: var(--accent-color);
+}
+
+.svg-sprite {
+    position: absolute;
+    width: 0;
+    height: 0;
+    overflow: hidden;
 }
 
 .json-list-button {
@@ -101,7 +189,7 @@ select:focus {
 }
 
 .json-list-button:hover:not(:disabled) {
-    background-color: #409cff;
+    background-color: var(--accent-hover);
     transform: translateY(-1px);
 }
 
@@ -113,6 +201,42 @@ select:focus {
 .json-list-button:disabled {
     opacity: 0.45;
     cursor: default;
+}
+
+.theme-toggle {
+    display: grid;
+    width: 36px;
+    height: 36px;
+    flex: 0 0 36px;
+    place-items: center;
+    padding: 0;
+    color: var(--text-primary);
+    background: var(--control-bg);
+    border: 1px solid var(--separator);
+    border-radius: 50%;
+    cursor: pointer;
+    transition: background-color 0.2s ease, border-color 0.2s ease, transform 0.2s ease;
+}
+
+.theme-toggle:hover {
+    background: var(--control-hover-bg);
+    border-color: var(--accent-color);
+    transform: translateY(-1px);
+}
+
+.theme-toggle:focus-visible {
+    outline: none;
+    box-shadow: 0 0 0 3px rgba(10, 132, 255, 0.25);
+}
+
+.theme-toggle svg {
+    width: 18px;
+    height: 18px;
+    fill: none;
+    stroke: currentColor;
+    stroke-width: 1.8;
+    stroke-linecap: round;
+    stroke-linejoin: round;
 }
 
 /* Main Grid Layout */
@@ -134,7 +258,7 @@ main {
     padding: 16px;
     background-color: var(--item-bg);
     border-radius: 16px;
-    border: 1px solid rgba(255, 255, 255, 0.05);
+    border: 1px solid var(--surface-border);
     transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
     cursor: default;
 }
@@ -142,8 +266,8 @@ main {
 .app-item:hover {
     background-color: var(--item-hover-bg);
     transform: translateY(-4px);
-    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
-    border-color: rgba(255, 255, 255, 0.1);
+    box-shadow: 0 10px 20px var(--surface-shadow);
+    border-color: var(--surface-border-hover);
 }
 
 .app-logo {
@@ -151,8 +275,8 @@ main {
     height: 72px;
     border-radius: 18px;
     object-fit: cover;
-    background-color: #2c2c2e;
-    border: 1px solid rgba(255,255,255,0.1);
+    background-color: var(--logo-bg);
+    border: 1px solid var(--surface-border-hover);
     flex-shrink: 0;
     margin-right: 16px;
     box-shadow: 0 4px 8px rgba(0,0,0,0.2);
@@ -253,7 +377,7 @@ main {
     width: 100%;
     height: 100%;
     overflow: hidden;
-    background-color: rgba(0,0,0,0.6);
+    background-color: var(--modal-overlay);
     backdrop-filter: blur(10px);
     -webkit-backdrop-filter: blur(10px);
     justify-content: center;
@@ -262,7 +386,7 @@ main {
 }
 
 .modal-content {
-    background-color: #1c1c1e;
+    background-color: var(--item-bg);
     margin: 0;
     padding: 0;
     width: 100%;
@@ -286,7 +410,7 @@ main {
 }
 
 .close-modal {
-    color: #aaa;
+    color: var(--modal-close-color);
     position: absolute;
     top: 15px;
     right: 20px;
@@ -294,7 +418,7 @@ main {
     font-weight: bold;
     cursor: pointer;
     z-index: 10;
-    background: rgba(0,0,0,0.5);
+    background: var(--modal-close-bg);
     width: 32px;
     height: 32px;
     border-radius: 50%;
@@ -304,7 +428,7 @@ main {
 
 .close-modal:hover,
 .close-modal:focus {
-    color: white;
+    color: var(--text-primary);
     text-decoration: none;
     cursor: pointer;
 }
@@ -317,7 +441,7 @@ main {
 
 .json-list-header {
     padding: 32px 56px 24px 24px;
-    background: linear-gradient(145deg, #26384d, #1c1c1e 70%);
+    background: linear-gradient(145deg, var(--json-header-start), var(--json-header-end) 70%);
     border-bottom: 1px solid var(--separator);
 }
 
@@ -334,7 +458,7 @@ main {
 }
 
 .json-list-eyebrow {
-    color: #64b5ff;
+    color: var(--eyebrow-color);
     font-size: 12px;
     font-weight: 800;
     letter-spacing: 0.12em;
@@ -369,7 +493,7 @@ main {
 
 .json-country-group {
     padding: 16px 0 22px;
-    border-top: 1px solid rgba(255, 255, 255, 0.07);
+    border-top: 1px solid var(--json-divider);
 }
 
 .json-country-heading {
@@ -392,8 +516,8 @@ main {
 .json-country-code {
     min-width: 24px;
     padding: 4px 7px;
-    color: #b9dcff;
-    background: rgba(10, 132, 255, 0.16);
+    color: var(--country-color);
+    background: var(--country-bg);
     border-radius: 6px;
     font-size: 10px;
     font-weight: 800;
@@ -416,8 +540,8 @@ main {
     color: var(--text-primary);
     text-decoration: none;
     background:
-        radial-gradient(circle at 12% 0%, rgba(10, 132, 255, 0.12), transparent 44%),
-        #242426;
+        radial-gradient(circle at 12% 0%, var(--json-card-glow), transparent 44%),
+        var(--json-card-bg);
     border: 1px solid var(--separator);
     border-radius: 14px;
     cursor: pointer;
@@ -426,8 +550,8 @@ main {
 
 .json-file-card:hover {
     transform: translateY(-2px);
-    background: #2c2c2e;
-    border-color: #5a5a5e;
+    background: var(--json-card-hover-bg);
+    border-color: var(--json-card-border-hover);
 }
 
 .json-file-card.is-current {
@@ -453,7 +577,7 @@ main {
     height: 42px;
     flex: 0 0 42px;
     place-items: center;
-    color: #9bd0ff;
+    color: var(--app-icon-color);
     background: linear-gradient(145deg, rgba(10, 132, 255, 0.32), rgba(10, 132, 255, 0.1));
     border: 1px solid rgba(100, 181, 255, 0.3);
     border-radius: 12px;
@@ -470,20 +594,20 @@ main {
 }
 
 .json-file-card[data-media="music"] .json-file-icon {
-    color: #ffb4d2;
+    color: var(--music-icon-color);
     background: linear-gradient(145deg, rgba(255, 55, 95, 0.3), rgba(255, 55, 95, 0.08));
     border-color: rgba(255, 105, 180, 0.3);
 }
 
 .json-file-card[data-media="podcasts"] .json-file-icon,
 .json-file-card[data-media="audio-books"] .json-file-icon {
-    color: #d8b6ff;
+    color: var(--podcast-icon-color);
     background: linear-gradient(145deg, rgba(175, 82, 222, 0.3), rgba(175, 82, 222, 0.08));
     border-color: rgba(191, 126, 255, 0.3);
 }
 
 .json-file-card[data-media="books"] .json-file-icon {
-    color: #ffd59a;
+    color: var(--book-icon-color);
     background: linear-gradient(145deg, rgba(255, 159, 10, 0.3), rgba(255, 159, 10, 0.08));
     border-color: rgba(255, 183, 77, 0.3);
 }
@@ -508,7 +632,7 @@ main {
 
 .json-open-icon {
     align-self: flex-start;
-    color: #707076;
+    color: var(--open-icon-color);
     font-size: 18px;
     transition: color 0.2s ease, transform 0.2s ease;
 }
@@ -524,7 +648,7 @@ main {
     align-items: center;
     gap: 8px;
     padding-top: 9px;
-    border-top: 1px solid rgba(255, 255, 255, 0.06);
+    border-top: 1px solid var(--json-divider);
 }
 
 .json-current-badge {
@@ -535,8 +659,8 @@ main {
 }
 
 .json-current-badge {
-    color: #8ee6ad;
-    background: rgba(48, 209, 88, 0.15);
+    color: var(--current-color);
+    background: var(--current-bg);
     letter-spacing: 0;
 }
 
@@ -551,7 +675,7 @@ main {
     display: block;
     min-width: 0;
     overflow: hidden;
-    color: #b5b5ba;
+    color: var(--file-color);
     font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
     font-size: 11px;
     text-overflow: ellipsis;
@@ -566,7 +690,7 @@ main {
 }
 
 .json-file-size {
-    color: #6f6f74;
+    color: var(--file-muted);
     font-size: 11px;
     white-space: nowrap;
 }
@@ -583,15 +707,15 @@ main {
     display: flex;
     gap: 20px;
     align-items: flex-start;
-    background: linear-gradient(to bottom, #2c2c2e, #1c1c1e);
+    background: linear-gradient(to bottom, var(--modal-header-start), var(--modal-header-end));
 }
 
 .modal-icon {
     width: 100px;
     height: 100px;
     border-radius: 22px;
-    border: 1px solid rgba(255,255,255,0.1);
-    background-color: #000;
+    border: 1px solid var(--surface-border-hover);
+    background-color: var(--logo-bg);
 }
 
 .modal-title-info {
@@ -678,7 +802,7 @@ main {
     height: 300px;
     border-radius: 12px;
     scroll-snap-align: start;
-    background-color: #2c2c2e;
+    background-color: var(--logo-bg);
 }
 
 .modal-section {
@@ -695,14 +819,14 @@ main {
 .description {
     font-size: 15px;
     line-height: 1.5;
-    color: #ddd;
+    color: var(--description-color);
 }
 
 .info-row {
     display: flex;
     justify-content: space-between;
     padding: 12px 0;
-    border-bottom: 1px solid #2c2c2e;
+    border-bottom: 1px solid var(--info-border);
     font-size: 14px;
 }
 

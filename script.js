@@ -7,6 +7,7 @@ const appModal = document.getElementById('appModal');
 const modalBody = document.getElementById('modalBody');
 const closeModalBtn = document.querySelector('.close-modal');
 const jsonListButton = document.getElementById('jsonListButton');
+const themeToggle = document.getElementById('themeToggle');
 
 let allFiles = [];
 let availableDates = new Set();
@@ -16,6 +17,46 @@ let availableFeeds = new Set();
 
 // Cache for app details to avoid re-fetching
 const appDetailsCache = {};
+
+const systemThemePreference = window.matchMedia('(prefers-color-scheme: dark)');
+
+function getSavedTheme() {
+    try {
+        const theme = localStorage.getItem('theme');
+        return theme === 'light' || theme === 'dark' ? theme : null;
+    } catch {
+        return null;
+    }
+}
+
+function updateThemeToggle() {
+    const isDark = document.documentElement.dataset.theme === 'dark';
+    const label = isDark ? 'Switch to light theme' : 'Switch to dark theme';
+    themeToggle.setAttribute('aria-label', label);
+    themeToggle.title = label;
+    themeToggle.innerHTML = isDark
+        ? '<svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="4"></circle><path d="M12 2v2M12 20v2M4.93 4.93l1.42 1.42M17.65 17.65l1.42 1.42M2 12h2M20 12h2M4.93 19.07l1.42-1.42M17.65 6.35l1.42-1.42"></path></svg>'
+        : '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20.5 14.2A8.5 8.5 0 0 1 9.8 3.5 8.5 8.5 0 1 0 20.5 14.2z"></path></svg>';
+}
+
+themeToggle.addEventListener('click', () => {
+    const theme = document.documentElement.dataset.theme === 'dark' ? 'light' : 'dark';
+    document.documentElement.dataset.theme = theme;
+    try {
+        localStorage.setItem('theme', theme);
+    } catch {
+        // The current page still switches even when persistence is unavailable.
+    }
+    updateThemeToggle();
+});
+
+systemThemePreference.addEventListener('change', event => {
+    if (getSavedTheme()) return;
+    document.documentElement.dataset.theme = event.matches ? 'dark' : 'light';
+    updateThemeToggle();
+});
+
+updateThemeToggle();
 
 // Close modal events
 closeModalBtn.onclick = () => appModal.style.display = "none";
@@ -222,14 +263,15 @@ function formatFileSize(bytes) {
 }
 
 function renderMediaIcon(mediaType) {
-    const icons = {
-        apps: '<svg viewBox="0 0 24 24"><rect x="3" y="3" width="7" height="7" rx="2"></rect><rect x="14" y="3" width="7" height="7" rx="2"></rect><rect x="3" y="14" width="7" height="7" rx="2"></rect><rect x="14" y="14" width="7" height="7" rx="2"></rect></svg>',
-        music: '<svg viewBox="0 0 24 24"><path d="M9 18V5l11-2v13"></path><circle cx="6" cy="18" r="3"></circle><circle cx="17" cy="16" r="3"></circle></svg>',
-        podcasts: '<svg viewBox="0 0 24 24"><circle cx="12" cy="11" r="2.5"></circle><path d="M8.5 16.5a6 6 0 1 1 7 0"></path><path d="M6 19a10 10 0 1 1 12 0"></path><path d="M10 15h4l1 6h-6z"></path></svg>',
-        books: '<svg viewBox="0 0 24 24"><path d="M3 5.5A3.5 3.5 0 0 1 6.5 2H11v18H6.5A3.5 3.5 0 0 0 3 23z"></path><path d="M21 5.5A3.5 3.5 0 0 0 17.5 2H13v18h4.5A3.5 3.5 0 0 1 21 23z"></path></svg>',
-        'audio-books': '<svg viewBox="0 0 24 24"><path d="M4 15v-3a8 8 0 0 1 16 0v3"></path><path d="M4 15a3 3 0 0 1 3-3h1v8H7a3 3 0 0 1-3-3z"></path><path d="M20 15a3 3 0 0 0-3-3h-1v8h1a3 3 0 0 0 3-3z"></path></svg>'
+    const iconIds = {
+        apps: 'media-icon-apps',
+        music: 'media-icon-music',
+        podcasts: 'media-icon-podcasts',
+        books: 'media-icon-books',
+        'audio-books': 'media-icon-audio-books'
     };
-    return icons[mediaType] || '<svg viewBox="0 0 24 24"><path d="M7 3h7l4 4v14H7z"></path><path d="M14 3v5h5"></path></svg>';
+    const iconId = iconIds[mediaType] || 'media-icon-file';
+    return `<svg viewBox="0 0 24 24"><use href="#${iconId}"></use></svg>`;
 }
 
 function formatCountryName(country) {
