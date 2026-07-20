@@ -85,6 +85,36 @@ select:focus {
     border-color: var(--accent-color);
 }
 
+.json-list-button {
+    appearance: none;
+    background-color: var(--accent-color);
+    color: white;
+    border: 1px solid var(--accent-color);
+    padding: 8px 16px;
+    border-radius: 20px;
+    font-family: inherit;
+    font-size: 14px;
+    font-weight: 700;
+    cursor: pointer;
+    transition: background-color 0.2s ease, transform 0.2s ease;
+    white-space: nowrap;
+}
+
+.json-list-button:hover:not(:disabled) {
+    background-color: #409cff;
+    transform: translateY(-1px);
+}
+
+.json-list-button:focus-visible {
+    outline: none;
+    box-shadow: 0 0 0 3px rgba(10, 132, 255, 0.3);
+}
+
+.json-list-button:disabled {
+    opacity: 0.45;
+    cursor: default;
+}
+
 /* Main Grid Layout */
 main {
     padding: 24px;
@@ -283,6 +313,269 @@ main {
     padding: 0;
     overflow-y: auto;
     flex: 1;
+}
+
+.json-list-header {
+    padding: 32px 56px 24px 24px;
+    background: linear-gradient(145deg, #26384d, #1c1c1e 70%);
+    border-bottom: 1px solid var(--separator);
+}
+
+.json-list-header h2 {
+    margin: 4px 0 8px;
+    font-size: 28px;
+}
+
+.json-list-header p {
+    max-width: 600px;
+    margin: 0;
+    color: var(--text-secondary);
+    line-height: 1.5;
+}
+
+.json-list-eyebrow {
+    color: #64b5ff;
+    font-size: 12px;
+    font-weight: 800;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+}
+
+.json-list-content {
+    padding: 8px 24px 32px;
+}
+
+.json-archive-section {
+    padding-top: 24px;
+}
+
+.json-date-heading {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 16px;
+    margin-bottom: 12px;
+}
+
+.json-date-heading h3 {
+    margin: 0;
+    font-size: 19px;
+}
+
+.json-date-heading span {
+    color: var(--text-secondary);
+    font-size: 13px;
+}
+
+.json-country-group {
+    padding: 16px 0 22px;
+    border-top: 1px solid rgba(255, 255, 255, 0.07);
+}
+
+.json-country-heading {
+    display: flex;
+    align-items: center;
+    gap: 9px;
+    margin-bottom: 12px;
+}
+
+.json-country-heading strong {
+    font-size: 14px;
+}
+
+.json-country-heading > span:last-child {
+    margin-left: auto;
+    color: var(--text-secondary);
+    font-size: 12px;
+}
+
+.json-country-code {
+    min-width: 24px;
+    padding: 4px 7px;
+    color: #b9dcff;
+    background: rgba(10, 132, 255, 0.16);
+    border-radius: 6px;
+    font-size: 10px;
+    font-weight: 800;
+    letter-spacing: 0.08em;
+    text-align: center;
+}
+
+.json-file-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 14px;
+}
+
+.json-file-card {
+    display: flex;
+    min-width: 0;
+    flex-direction: column;
+    gap: 10px;
+    padding: 16px;
+    color: var(--text-primary);
+    text-decoration: none;
+    background:
+        radial-gradient(circle at 12% 0%, rgba(10, 132, 255, 0.12), transparent 44%),
+        #242426;
+    border: 1px solid var(--separator);
+    border-radius: 14px;
+    cursor: pointer;
+    transition: transform 0.2s ease, background-color 0.2s ease, border-color 0.2s ease;
+}
+
+.json-file-card:hover {
+    transform: translateY(-2px);
+    background: #2c2c2e;
+    border-color: #5a5a5e;
+}
+
+.json-file-card.is-current {
+    border-color: var(--accent-color);
+    box-shadow: inset 0 0 0 1px rgba(10, 132, 255, 0.28), 0 8px 24px rgba(10, 132, 255, 0.1);
+}
+
+.json-file-card:focus-visible {
+    outline: none;
+    border-color: var(--accent-color);
+    box-shadow: 0 0 0 3px rgba(10, 132, 255, 0.25);
+}
+
+.json-file-card-top {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.json-file-icon {
+    display: grid;
+    width: 42px;
+    height: 42px;
+    flex: 0 0 42px;
+    place-items: center;
+    color: #9bd0ff;
+    background: linear-gradient(145deg, rgba(10, 132, 255, 0.32), rgba(10, 132, 255, 0.1));
+    border: 1px solid rgba(100, 181, 255, 0.3);
+    border-radius: 12px;
+}
+
+.json-file-icon svg {
+    width: 22px;
+    height: 22px;
+    fill: none;
+    stroke: currentColor;
+    stroke-width: 1.8;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+}
+
+.json-file-card[data-media="music"] .json-file-icon {
+    color: #ffb4d2;
+    background: linear-gradient(145deg, rgba(255, 55, 95, 0.3), rgba(255, 55, 95, 0.08));
+    border-color: rgba(255, 105, 180, 0.3);
+}
+
+.json-file-card[data-media="podcasts"] .json-file-icon,
+.json-file-card[data-media="audio-books"] .json-file-icon {
+    color: #d8b6ff;
+    background: linear-gradient(145deg, rgba(175, 82, 222, 0.3), rgba(175, 82, 222, 0.08));
+    border-color: rgba(191, 126, 255, 0.3);
+}
+
+.json-file-card[data-media="books"] .json-file-icon {
+    color: #ffd59a;
+    background: linear-gradient(145deg, rgba(255, 159, 10, 0.3), rgba(255, 159, 10, 0.08));
+    border-color: rgba(255, 183, 77, 0.3);
+}
+
+.json-file-identity {
+    min-width: 0;
+    flex: 1;
+}
+
+.json-file-title-row {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.json-file-title-row strong {
+    overflow: hidden;
+    font-size: 16px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.json-open-icon {
+    align-self: flex-start;
+    color: #707076;
+    font-size: 18px;
+    transition: color 0.2s ease, transform 0.2s ease;
+}
+
+.json-file-card:hover .json-open-icon {
+    color: var(--accent-color);
+    transform: translateX(3px);
+}
+
+.json-file-card-footer {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto;
+    align-items: center;
+    gap: 8px;
+    padding-top: 9px;
+    border-top: 1px solid rgba(255, 255, 255, 0.06);
+}
+
+.json-current-badge {
+    padding: 3px 7px;
+    border-radius: 6px;
+    font-size: 10px;
+    font-weight: 800;
+}
+
+.json-current-badge {
+    color: #8ee6ad;
+    background: rgba(48, 209, 88, 0.15);
+    letter-spacing: 0;
+}
+
+.json-feed-name {
+    display: block;
+    margin-top: 3px;
+    color: var(--text-secondary);
+    font-size: 13px;
+}
+
+.json-file-name {
+    display: block;
+    min-width: 0;
+    overflow: hidden;
+    color: #b5b5ba;
+    font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+    font-size: 11px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.json-file-name:hover,
+.json-file-name:focus-visible {
+    color: var(--accent-color);
+    text-decoration: underline;
+    text-underline-offset: 3px;
+}
+
+.json-file-size {
+    color: #6f6f74;
+    font-size: 11px;
+    white-space: nowrap;
+}
+
+@media (min-width: 768px) {
+    .json-index-modal .modal-content {
+        width: 90%;
+        max-width: none;
+    }
 }
 
 .modal-header-section {

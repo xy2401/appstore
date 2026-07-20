@@ -6,7 +6,7 @@ const appGrid = document.getElementById('appGrid');
 const appModal = document.getElementById('appModal');
 const modalBody = document.getElementById('modalBody');
 const closeModalBtn = document.querySelector('.close-modal');
-const jsonLink = document.getElementById('jsonLink');
+const jsonListButton = document.getElementById('jsonListButton');
 
 let allFiles = [];
 let availableDates = new Set();
@@ -35,6 +35,7 @@ fetch('rankings.json')
         allFiles = files;
         processFiles();
         populateDropdowns();
+        jsonListButton.disabled = !allFiles.some(file => file.parsed);
         
         // Auto-select most recent if available
         if (dateSelect.options.length > 1) {
@@ -49,12 +50,10 @@ fetch('rankings.json')
             
             loadRankings();
         }
-        updateJsonLink(); // Initial update after loading data
     })
     .catch(err => {
         appGrid.innerHTML = `<div class="error">Unable to load data.<br>Ensure rankings.json exists.</div>`;
         console.error(err);
-        updateJsonLink(); // Also update if error
     });
 
 function processFiles() {
@@ -96,7 +95,7 @@ function formatDate(dateStr) {
     return dateStr;
 }
 
-function updateAvailableOptions() {
+function updateAvailableOptions({ selectFirstFeed = false, loadIfComplete = true } = {}) {
     const selectedDate = dateSelect.value;
     const currentCountry = countrySelect.value;
     const currentMediaType = mediaTypeSelect.value;
@@ -175,16 +174,16 @@ function updateAvailableOptions() {
         feedSelect.appendChild(option);
     });
 
-    if (availableFeeds.has(currentFeed)) {
+    if (selectFirstFeed && sortedFeeds.length > 0) {
+        feedSelect.value = sortedFeeds[0];
+    } else if (availableFeeds.has(currentFeed)) {
         feedSelect.value = currentFeed;
     } else {
         feedSelect.selectedIndex = -1;
     }
 
-    updateJsonLink();
-    
     // If we still have a valid selection for everything, load it
-    if (dateSelect.value && countrySelect.value && mediaTypeSelect.value && feedSelect.value) {
+    if (loadIfComplete && dateSelect.value && countrySelect.value && mediaTypeSelect.value && feedSelect.value) {
         loadRankings();
     }
 }
@@ -198,41 +197,185 @@ countrySelect.addEventListener('change', () => {
 });
 
 mediaTypeSelect.addEventListener('change', () => {
-    updateAvailableOptions();
+    updateAvailableOptions({ selectFirstFeed: true });
 });
 
 feedSelect.addEventListener('change', () => {
     loadRankings();
-    updateJsonLink();
 });
 
-function updateJsonLink() {
-    const date = dateSelect.value;
-    const country = countrySelect.value;
-    const mediaType = mediaTypeSelect.value;
-    const feed = feedSelect.value;
+jsonListButton.addEventListener('click', showJsonFileList);
 
-    if (date && country && mediaType && feed) {
-        const file = allFiles.find(f => 
-            f.parsed && 
-            f.parsed.date === date && 
-            f.parsed.country === country && 
-            f.parsed.mediaType === mediaType &&
-            f.parsed.feed === feed
-        );
+function formatLabel(value) {
+    return String(value || '')
+        .split('-')
+        .map(word => word.charAt(0).toUpperCase() + word.slice(1))
+        .join(' ');
+}
 
-        if (file) {
-            const fetchPath = file.RelativePath.replace(/\\/g, '/');
-            jsonLink.href = fetchPath;
-            jsonLink.style.display = 'inline-block';
-        } else {
-            jsonLink.style.display = 'none';
-            jsonLink.href = '#';
-        }
-    } else {
-        jsonLink.style.display = 'none';
-        jsonLink.href = '#';
-    }
+function formatFileSize(bytes) {
+    const size = Number(bytes);
+    if (!Number.isFinite(size) || size < 0) return '';
+    if (size < 1024) return `${size} B`;
+    if (size < 1024 ** 2) return `${(size / 1024).toFixed(1)} KB`;
+    return `${(size / 1024 ** 2).toFixed(1)} MB`;
+}
+
+function renderMediaIcon(mediaType) {
+    const icons = {
+        apps: '<svg viewBox="0 0 24 24"><rect x="3" y="3" width="7" height="7" rx="2"></rect><rect x="14" y="3" width="7" height="7" rx="2"></rect><rect x="3" y="14" width="7" height="7" rx="2"></rect><rect x="14" y="14" width="7" height="7" rx="2"></rect></svg>',
+        music: '<svg viewBox="0 0 24 24"><path d="M9 18V5l11-2v13"></path><circle cx="6" cy="18" r="3"></circle><circle cx="17" cy="16" r="3"></circle></svg>',
+        podcasts: '<svg viewBox="0 0 24 24"><circle cx="12" cy="11" r="2.5"></circle><path d="M8.5 16.5a6 6 0 1 1 7 0"></path><path d="M6 19a10 10 0 1 1 12 0"></path><path d="M10 15h4l1 6h-6z"></path></svg>',
+        books: '<svg viewBox="0 0 24 24"><path d="M3 5.5A3.5 3.5 0 0 1 6.5 2H11v18H6.5A3.5 3.5 0 0 0 3 23z"></path><path d="M21 5.5A3.5 3.5 0 0 0 17.5 2H13v18h4.5A3.5 3.5 0 0 1 21 23z"></path></svg>',
+        'audio-books': '<svg viewBox="0 0 24 24"><path d="M4 15v-3a8 8 0 0 1 16 0v3"></path><path d="M4 15a3 3 0 0 1 3-3h1v8H7a3 3 0 0 1-3-3z"></path><path d="M20 15a3 3 0 0 0-3-3h-1v8h1a3 3 0 0 0 3-3z"></path></svg>'
+    };
+    return icons[mediaType] || '<svg viewBox="0 0 24 24"><path d="M7 3h7l4 4v14H7z"></path><path d="M14 3v5h5"></path></svg>';
+}
+
+function formatCountryName(country) {
+    const names = {
+        us: 'United States',
+        cn: 'China',
+        jp: 'Japan',
+        gb: 'United Kingdom',
+        de: 'Germany',
+        fr: 'France'
+    };
+    return names[country] || country.toUpperCase();
+}
+
+function renderJsonFileCard(file, date, selected) {
+    const { country, mediaType, feed } = file.parsed;
+    const isCurrent = date === selected.date
+        && country === selected.country
+        && mediaType === selected.mediaType
+        && feed === selected.feed;
+    const relativePath = file.RelativePath.replace(/\\/g, '/');
+
+    return `
+        <article class="json-file-card${isCurrent ? ' is-current' : ''}"
+            data-date="${escapeHtml(date)}"
+            data-country="${escapeHtml(country)}"
+            data-media="${escapeHtml(mediaType)}"
+            data-feed="${escapeHtml(feed)}"
+            role="button"
+            tabindex="0"
+            aria-label="Switch to ${escapeHtml(country.toUpperCase())} ${escapeHtml(formatLabel(mediaType))} ${escapeHtml(formatLabel(feed))}">
+            <div class="json-file-card-top">
+                <span class="json-file-icon" aria-hidden="true">${renderMediaIcon(mediaType)}</span>
+                <div class="json-file-identity">
+                    <div class="json-file-title-row">
+                        <strong>${escapeHtml(formatLabel(mediaType))}</strong>
+                        ${isCurrent ? '<span class="json-current-badge">Current</span>' : ''}
+                    </div>
+                    <span class="json-feed-name">${escapeHtml(formatLabel(feed))}</span>
+                </div>
+                <span class="json-open-icon" aria-hidden="true">→</span>
+            </div>
+            <div class="json-file-card-footer">
+                <a class="json-file-name" href="${escapeHtml(relativePath)}" target="_blank" rel="noopener noreferrer" title="Open ${escapeHtml(file.Name)}">${escapeHtml(file.Name)}</a>
+                <span class="json-file-size">${escapeHtml(formatFileSize(file.Length))}</span>
+            </div>
+        </article>
+    `;
+}
+
+function showJsonFileList() {
+    const mediaTypeOrder = ['apps', 'music', 'podcasts', 'books', 'audio-books'];
+    const files = allFiles
+        .filter(file => file.parsed)
+        .sort((left, right) => {
+            return right.parsed.date.localeCompare(left.parsed.date)
+                || left.parsed.country.localeCompare(right.parsed.country)
+                || mediaTypeOrder.indexOf(left.parsed.mediaType) - mediaTypeOrder.indexOf(right.parsed.mediaType)
+                || left.parsed.feed.localeCompare(right.parsed.feed);
+        });
+
+    const filesByDate = new Map();
+    files.forEach(file => {
+        if (!filesByDate.has(file.parsed.date)) filesByDate.set(file.parsed.date, []);
+        filesByDate.get(file.parsed.date).push(file);
+    });
+
+    const selected = {
+        date: dateSelect.value,
+        country: countrySelect.value,
+        mediaType: mediaTypeSelect.value,
+        feed: feedSelect.value
+    };
+
+    const sections = Array.from(filesByDate, ([date, dateFiles]) => {
+        const filesByCountry = new Map();
+        dateFiles.forEach(file => {
+            const country = file.parsed.country;
+            if (!filesByCountry.has(country)) filesByCountry.set(country, []);
+            filesByCountry.get(country).push(file);
+        });
+
+        const countrySections = Array.from(filesByCountry, ([country, countryFiles]) => `
+            <div class="json-country-group">
+                <div class="json-country-heading">
+                    <span class="json-country-code">${escapeHtml(country.toUpperCase())}</span>
+                    <strong>${escapeHtml(formatCountryName(country))}</strong>
+                    <span>${countryFiles.length} files</span>
+                </div>
+                <div class="json-file-grid">
+                    ${countryFiles.map(file => renderJsonFileCard(file, date, selected)).join('')}
+                </div>
+            </div>
+        `).join('');
+
+        return `
+            <section class="json-archive-section">
+                <div class="json-date-heading">
+                    <h3>${escapeHtml(formatDate(date))}</h3>
+                    <span>${dateFiles.length} files</span>
+                </div>
+                ${countrySections}
+            </section>
+        `;
+    }).join('');
+
+    modalBody.innerHTML = `
+        <div class="json-list-header">
+            <span class="json-list-eyebrow">Rankings index</span>
+            <h2>JSON Files</h2>
+            <p>${files.length} archived ranking files. Select a card to open its raw JSON data.</p>
+        </div>
+        <div class="json-list-content">
+            ${sections || '<div class="error">No JSON files are available.</div>'}
+        </div>
+    `;
+    modalBody.querySelectorAll('.json-file-card').forEach(card => {
+        const selectCard = () => selectRankingFile(card.dataset);
+        card.addEventListener('click', event => {
+            if (!event.target.closest('.json-file-name')) selectCard();
+        });
+        card.addEventListener('keydown', event => {
+            if (event.target.closest('.json-file-name')) return;
+            if (event.key === 'Enter' || event.key === ' ') {
+                event.preventDefault();
+                selectCard();
+            }
+        });
+    });
+    appModal.classList.add('json-index-modal');
+    appModal.style.display = 'flex';
+}
+
+function selectRankingFile({ date, country, media, feed }) {
+    dateSelect.value = date;
+    updateAvailableOptions({ loadIfComplete: false });
+
+    countrySelect.value = country;
+    updateAvailableOptions({ loadIfComplete: false });
+
+    mediaTypeSelect.value = media;
+    updateAvailableOptions({ loadIfComplete: false });
+
+    feedSelect.value = feed;
+    appModal.style.display = 'none';
+    loadRankings();
 }
 
 function loadRankings() {
@@ -272,7 +415,6 @@ function loadRankings() {
         .catch(err => {
             appGrid.innerHTML = `<div class="error">Error loading rankings: ${err.message}</div>`;
         });
-    updateJsonLink(); // Also update json link after loading rankings
 }
 
 function renderApps(apps) {
@@ -303,6 +445,7 @@ function renderApps(apps) {
 }
 
 async function showAppDetails(appId, basicAppInfo) {
+    appModal.classList.remove('json-index-modal');
     modalBody.innerHTML = '<div class="loading">Loading details...</div>';
     appModal.style.display = "flex";
 
