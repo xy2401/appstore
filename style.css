@@ -496,6 +496,32 @@ main {
     scrollbar-width: none;
 }
 
+.controls > button,
+.controls > select {
+    box-sizing: border-box;
+    flex-shrink: 0;
+}
+
+#jsonListButton {
+    width: 108px;
+}
+
+#dateSelect {
+    width: 118px;
+}
+
+#countrySelect {
+    width: 96px;
+}
+
+#mediaTypeSelect {
+    width: 140px;
+}
+
+#feedSelect {
+    width: 280px;
+}
+
 .json-date-nav-links::-webkit-scrollbar {
     display: none;
 }
