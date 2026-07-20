@@ -306,110 +306,210 @@ async function showAppDetails(appId, basicAppInfo) {
     modalBody.innerHTML = '<div class="loading">Loading details...</div>';
     appModal.style.display = "flex";
 
-    try {
-        let details;
-        if (appDetailsCache[appId]) {
-            details = appDetailsCache[appId];
-        } else {
+    let details = null;
+
+    if (Object.prototype.hasOwnProperty.call(appDetailsCache, appId)) {
+        details = appDetailsCache[appId];
+    } else {
+        try {
             const res = await fetch(`details/${appId}.json`);
             if (!res.ok) throw new Error('Details not found');
             const data = await res.json();
             if (data.resultCount > 0) {
                 details = data.results[0];
-                appDetailsCache[appId] = details;
-            } else {
-                throw new Error('Empty details');
             }
+        } catch {
+            // Some media types are not returned by the iTunes lookup endpoint.
+            // Their RSS data still contains enough information for a useful modal.
+            details = null;
         }
-        renderModalContent(details, appId);
-    } catch (err) {
-        // Fallback to basic info if fetch fails
-        console.warn("Fetching details failed, using basic info:", err);
-        renderModalFallback(basicAppInfo, appId);
+        appDetailsCache[appId] = details;
     }
+
+    renderModalContent(details, appId, basicAppInfo);
 }
 
-// Helper to format date strings
 function formatAppDate(dateString) {
     if (!dateString) return '-';
+    const date = new Date(dateString);
+    if (Number.isNaN(date.getTime())) return dateString;
+
+    const year = date.getFullYear();
+    const month = (date.getMonth() + 1).toString().padStart(2, '0');
+    const day = date.getDate().toString().padStart(2, '0');
+    return `${year}-${month}-${day}`;
+}
+
+function escapeHtml(value) {
+    return String(value ?? '')
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;')
+        .replace(/'/g, '&#039;');
+}
+
+function formatGenres(genres) {
+    if (!Array.isArray(genres)) return '';
+    return genres
+        .map(genre => typeof genre === 'string' ? genre : genre?.name)
+        .filter(Boolean)
+        .join(', ');
+}
+
+function formatMediaType(kind) {
+    const labels = {
+        apps: 'App',
+        software: 'App',
+        songs: 'Song',
+        song: 'Song',
+        albums: 'Album',
+        album: 'Album',
+        podcasts: 'Podcast',
+        podcast: 'Podcast',
+        books: 'Book',
+        'audio-books': 'Audiobook'
+    };
+
+    return labels[kind] || kind || 'Media';
+}
+
+function formatPrice(app) {
+    if (app.formattedPrice) return app.formattedPrice;
+
+    const price = app.trackPrice ?? app.collectionPrice;
+    if (price === undefined || price === null) return '';
+    if (Number(price) === 0) return 'Free';
+
     try {
-        const date = new Date(dateString);
-        const year = date.getFullYear();
-        const month = (date.getMonth() + 1).toString().padStart(2, '0'); // Months are 0-indexed
-        const day = date.getDate().toString().padStart(2, '0');
-        return `${year}-${month}-${day}`;
+        return new Intl.NumberFormat(undefined, {
+            style: 'currency',
+            currency: app.currency || 'USD'
+        }).format(price);
     } catch {
-        return dateString; // Return as is if parsing fails
+        return `${price} ${app.currency || ''}`.trim();
     }
 }
 
-function renderModalContent(app, appId) {
-    const localLogoPath = `logos/${appId}.png`;
-    const sizeMB = (app.fileSizeBytes / 1024 / 1024).toFixed(1) + ' MB';
-    
-    const screenshotsHtml = app.screenshotUrls ? 
-        `<div class="screenshots-scroll">
-            ${app.screenshotUrls.map(url => `<img src="${url}" class="screenshot" loading="lazy">`).join('')}
-         </div>` : '';
+function formatDuration(milliseconds) {
+    if (!milliseconds) return '';
+    const totalSeconds = Math.round(milliseconds / 1000);
+    const minutes = Math.floor(totalSeconds / 60);
+    const seconds = String(totalSeconds % 60).padStart(2, '0');
+    return `${minutes}:${seconds}`;
+}
 
-    modalBody.innerHTML = `
-        <div class="modal-header-section">
-            <img src="${localLogoPath}" class="modal-icon" onerror="this.src='${app.artworkUrl512 || app.artworkUrl100}'">
-            <div class="modal-title-info">
-                <h2>${app.trackName}</h2>
-                <div class="modal-subtitle">${app.artistName}</div>
-                <a href="${app.trackViewUrl}" target="_blank" class="get-button">${app.formattedPrice || 'Get'}</a>
-            </div>
-        </div>
-
-        <div class="stats-row">
-            <div class="stat-item">
-                <div class="stat-label">RATING</div>
-                <div class="stat-value">${app.averageUserRating ? app.averageUserRating.toFixed(1) : '-'} ★</div>
-                <div class="stat-sub">${app.userRatingCountForCurrentVersion || app.userRatingCount || 0} Ratings</div>
-            </div>
-            <div class="stat-item">
-                <div class="stat-label">AGE</div>
-                <div class="stat-value">${app.contentAdvisoryRating}</div>
-                <div class="stat-sub">Years Old</div>
-            </div>
-            <div class="stat-item">
-                <div class="stat-label">CATEGORY</div>
-                <div class="stat-value">${app.primaryGenreName || 'App'}</div>
-            </div>
-        </div>
-
-        ${screenshotsHtml}
-
-        <div class="modal-section">
-            <p class="description">${app.description.replace(/\n/g, '<br>')}</p>
-        </div>
-
-        <div class="modal-section">
-            <h3>Information</h3>
-            <div class="info-row"><span>Provider</span> <span>${app.sellerName}</span></div>
-            <div class="info-row"><span>Size</span> <span>${sizeMB}</span></div>
-            <div class="info-row"><span>Version</span> <span>${app.version}</span></div>
-            <div class="info-row"><span>Original Release</span> <span>${formatAppDate(app.releaseDate)}</span></div>
-            <div class="info-row"><span>Last Update</span> <span>${formatAppDate(app.currentVersionReleaseDate)}</span></div>
-            <div class="info-row"><span>Compatibility</span> <span>${app.minimumOsVersion}+</span></div>
+function renderStat(label, value, sub = '') {
+    return `
+        <div class="stat-item">
+            <div class="stat-label">${escapeHtml(label)}</div>
+            <div class="stat-value">${escapeHtml(value || '-')}</div>
+            ${sub ? `<div class="stat-sub">${escapeHtml(sub)}</div>` : ''}
         </div>
     `;
 }
 
-function renderModalFallback(app, appId) {
+function renderInfoRows(rows) {
+    return rows
+        .filter(([, value]) => value !== undefined && value !== null && value !== '')
+        .map(([label, value]) => `
+            <div class="info-row">
+                <span>${escapeHtml(label)}</span>
+                <span>${escapeHtml(value)}</span>
+            </div>
+        `)
+        .join('');
+}
+
+function renderModalContent(details, appId, basicAppInfo) {
+    const app = details || {};
     const localLogoPath = `logos/${appId}.png`;
+    const title = app.trackName || app.collectionName || basicAppInfo.name || 'Untitled';
+    const subtitle = app.artistName || app.sellerName || basicAppInfo.artistName || '';
+    const kind = basicAppInfo.kind || app.kind || app.collectionType?.toLowerCase() || app.wrapperType;
+    const mediaType = formatMediaType(kind);
+    const isSoftware = app.wrapperType === 'software' || app.kind === 'software' || kind === 'apps';
+    const artworkUrl = app.artworkUrl600 || app.artworkUrl512 || app.artworkUrl100 || basicAppInfo.artworkUrl100 || '';
+    const storeUrl = app.trackViewUrl || app.collectionViewUrl || basicAppInfo.url || '#';
+    const price = formatPrice(app);
+    const genres = formatGenres(app.genres) || app.primaryGenreName || formatGenres(basicAppInfo.genres);
+    const releaseDate = formatAppDate(app.releaseDate || basicAppInfo.releaseDate);
+    const description = app.description || app.longDescription || '';
+    const sizeMB = app.fileSizeBytes ? `${(app.fileSizeBytes / 1024 / 1024).toFixed(1)} MB` : '';
+
+    const screenshotsHtml = Array.isArray(app.screenshotUrls) && app.screenshotUrls.length > 0 ?
+        `<div class="screenshots-scroll">
+            ${app.screenshotUrls.map(url => `<img src="${escapeHtml(url)}" class="screenshot" loading="lazy" alt="">`).join('')}
+         </div>` : '';
+
+    let statsHtml;
+    let informationRows;
+
+    if (isSoftware) {
+        const rating = Number(app.averageUserRating);
+        const ratingCount = app.userRatingCountForCurrentVersion || app.userRatingCount || 0;
+        statsHtml = [
+            renderStat('RATING', Number.isFinite(rating) ? `${rating.toFixed(1)} ★` : '-', `${ratingCount.toLocaleString()} Ratings`),
+            renderStat('AGE', app.contentAdvisoryRating || '-'),
+            renderStat('CATEGORY', genres || 'App')
+        ].join('');
+
+        informationRows = [
+            ['Provider', app.sellerName || subtitle],
+            ['Size', sizeMB],
+            ['Version', app.version],
+            ['Original Release', releaseDate],
+            ['Last Update', formatAppDate(app.currentVersionReleaseDate)],
+            ['Compatibility', app.minimumOsVersion ? `${app.minimumOsVersion}+` : '']
+        ];
+    } else {
+        const itemCount = app.trackCount
+            ? `${app.trackCount.toLocaleString()} ${app.kind === 'podcast' ? 'Episodes' : 'Tracks'}`
+            : '';
+        statsHtml = [
+            renderStat('TYPE', mediaType),
+            renderStat('GENRE', genres || '-'),
+            renderStat(app.kind === 'podcast' ? 'EPISODES' : 'RELEASED', app.kind === 'podcast' ? itemCount : releaseDate)
+        ].join('');
+
+        informationRows = [
+            [mediaType === 'Book' || mediaType === 'Audiobook' ? 'Author' : 'Artist', subtitle],
+            ['Album', app.collectionName && app.collectionName !== title ? app.collectionName : ''],
+            ['Genre', genres],
+            ['Release', releaseDate],
+            ['Duration', app.kind === 'song' ? formatDuration(app.trackTimeMillis) : ''],
+            [app.kind === 'podcast' ? 'Episodes' : 'Tracks', itemCount],
+            ['Advisory', app.contentAdvisoryRating],
+            ['Country', app.country],
+            ['Copyright', app.copyright]
+        ];
+    }
+
     modalBody.innerHTML = `
         <div class="modal-header-section">
-            <img src="${localLogoPath}" class="modal-icon" onerror="this.src='${app.artworkUrl100}'">
+            <img src="${escapeHtml(localLogoPath)}" alt="${escapeHtml(title)}" class="modal-icon" onerror="this.src='${escapeHtml(artworkUrl)}'">
             <div class="modal-title-info">
-                <h2>${app.name}</h2>
-                <div class="modal-subtitle">${app.artistName}</div>
-                <a href="${app.url}" target="_blank" class="get-button">View on App Store</a>
+                <h2>${escapeHtml(title)}</h2>
+                <div class="modal-subtitle">${escapeHtml(subtitle)}</div>
+                <a href="${escapeHtml(storeUrl)}" target="_blank" rel="noopener noreferrer" class="get-button">${escapeHtml(price || 'View on Apple')}</a>
             </div>
         </div>
+
+        <div class="stats-row">
+            ${statsHtml}
+        </div>
+
+        ${screenshotsHtml}
+
+        ${description ? `
+            <div class="modal-section">
+                <p class="description">${escapeHtml(description).replace(/\n/g, '<br>')}</p>
+            </div>
+        ` : ''}
+
         <div class="modal-section">
-            <p class="description">Detailed information is currently unavailable for this app.</p>
+            <h3>Information</h3>
+            ${renderInfoRows(informationRows)}
         </div>
     `;
 }

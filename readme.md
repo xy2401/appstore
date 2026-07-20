@@ -1,86 +1,84 @@
-# iStore App Ranking Downloader
+# Apple Top Charts Archive
 
-This project automates the process of fetching Apple App Store rankings, downloading app details and logos, and presenting the data in a user-friendly web interface.
+This project downloads Apple top-chart feeds, archives them by date, caches media metadata and artwork, and publishes a static browser for exploring the results.
 
 ## Features
 
--   **Multi-Region Support**: Fetches rankings for US and China (CN).
--   **Ranking Types**: Supports "Top Free" and "Top Paid" charts.
--   **Data Archiving**: Saves ranking data in date-stamped directories (`app_rankings/YYYYMMDD/`) for historical tracking.
--   **Rich Media**: Downloads high-resolution app icons locally.
--   **Web Interface**: Includes a modern, dark-themed `index.html` to browse rankings by date, country, and category.
--   **Markdown Generation**: Optionally generates Markdown summaries of the rankings.
--   **Automation**: Integrated with GitHub Actions to run automatically on the 1st of every month.
+- **Regions**: United States (`us`), China (`cn`), and Japan (`jp`).
+- **Media**: Apps, music, podcasts, books, and audiobooks where Apple provides a regional feed.
+- **Charts**: Free and paid apps/books, top songs, top albums, top podcasts, and top audiobooks.
+- **Historical archive**: Ranking JSON is stored in date-stamped directories under `rankings/YYYYMMDD/`.
+- **Local assets**: Lookup metadata is cached in `details/` and artwork is downloaded to `logos/`.
+- **Static web interface**: Filter by date, region, media type, and chart; inspect media details; or open the source JSON.
+- **Optional Markdown output**: Generate Markdown summaries alongside ranking JSON files.
+- **Automation**: GitHub Actions refreshes the archive monthly and deploys the repository to GitHub Pages.
 
-## Usage
+## Requirements
 
-### Prerequisites
+- PowerShell 5.1 or PowerShell Core 7+
+- Internet access to Apple's RSS and iTunes Lookup APIs
 
--   PowerShell 5.1 or later (Windows) or PowerShell Core (Cross-platform).
--   Internet connection to access Apple's RSS feeds and iTunes API.
+## Download rankings
 
-### Running the Script
-
-Run the `app_downloader.ps1` script from the root directory:
+Run the downloader from the repository root:
 
 ```powershell
-.\app_downloader.ps1
+.\downloader.ps1
 ```
 
 ### Parameters
 
-| Parameter | Type | Default | Description |
-| :--- | :--- | :--- | :--- |
-| `-SkipExisting` | Switch | `$false` | If specified, skips downloading app details and logos if they already exist locally. By default, it forces a re-download to ensure fresh data. |
-| `-GenerateMarkdown` | Switch | `$false` | If specified, generates Markdown files (`.md`) alongside the JSON ranking files. |
+| Parameter | Default | Description |
+| --- | --- | --- |
+| `-SkipExisting` | `$false` | Reuse existing detail and artwork files instead of downloading them again. |
+| `-GenerateMarkdown` | `$false` | Generate `.md` summaries alongside ranking JSON files. |
+| `-Limit` | `100` | Maximum number of results requested from each Apple feed. |
 
-**Examples:**
+Examples:
 
-1.  **Standard Run** (Force update, no markdown):
-    ```powershell
-    .\app_downloader.ps1
-    ```
+```powershell
+# Refresh all configured feeds
+.\downloader.ps1
 
-2.  **Skip Existing Files** (Faster run):
-    ```powershell
-    .\app_downloader.ps1 -SkipExisting
-    ```
+# Reuse cached metadata and artwork
+.\downloader.ps1 -SkipExisting
 
-3.  **Generate Markdown**:
-    ```powershell
-    .\app_downloader.ps1 -GenerateMarkdown
-    ```
+# Request 50 results and generate Markdown summaries
+.\downloader.ps1 -Limit 50 -GenerateMarkdown
+```
 
-## Web Interface
+## Browse the archive
 
-Open `index.html` in your web browser to view the rankings.
--   **Select Date**: Choose from available historical dates.
--   **Select Country**: Filter by US or CN.
--   **Select List**: Choose between Top Free or Top Paid.
+Serve the repository through a local HTTP server because the interface loads JSON with `fetch`:
 
-*Note: The web interface relies on `app_rankings.json`, which is generated/updated every time the script runs.*
+```powershell
+python -m http.server 8080
+```
 
-## Directory Structure
+Then open `http://127.0.0.1:8080/index.html`.
+
+The interface automatically selects the newest available archive and provides dependent filters for region, media type, and chart. App records show software-specific fields such as ratings, screenshots, version, size, and compatibility. Other media types show the metadata available for that format, such as album, genre, release date, duration, track count, or author.
+
+## Project structure
 
 ```text
 .
-├── app_downloader.ps1      # Main PowerShell script
-├── index.html              # Web interface
-├── app_rankings.json       # Index file for the web interface
-├── app_rankings/           # Directory for ranking data
-│   └── YYYYMMDD/           # Date-stamped subdirectories
-│       ├── us_top-free.json
-│       └── ...
-├── app_details/            # Cached app details (JSON)
-├── app_logos/              # Downloaded app icons (PNG)
-└── .github/
-    └── workflows/          # GitHub Actions configuration
+├── downloader.ps1         # Apple feed, metadata, and artwork downloader
+├── index.html             # Static web interface
+├── script.js              # Filtering, list rendering, and detail modals
+├── style.css              # Interface styles
+├── rankings.json          # Generated index used by the web interface
+├── rankings/
+│   └── YYYYMMDD/          # Archived ranking feeds
+├── details/               # Cached iTunes Lookup API responses
+├── logos/                 # Locally cached artwork
+└── .github/workflows/
+    ├── update_rankings.yml
+    └── static.yml
 ```
 
 ## Automation
 
-This repository includes a GitHub Actions workflow (`.github/workflows/update_rankings.yml`) that:
--   Runs **monthly on the 1st at 00:00 UTC**.
--   Executes the downloader script.
--   Commits and pushes the new data back to the repository.
--   Can be triggered manually via the "Run workflow" button in the GitHub Actions tab.
+`.github/workflows/update_rankings.yml` runs at `00:00 UTC` on the first day of each month and can also be started manually. It runs `downloader.ps1`, commits changed archive files, pushes them to the repository, and triggers the GitHub Pages deployment workflow.
+
+`.github/workflows/static.yml` also deploys the repository on pushes to `main`.

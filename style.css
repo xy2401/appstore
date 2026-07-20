@@ -346,6 +346,8 @@ main {
     display: flex;
     flex-direction: column;
     gap: 4px;
+    flex: 1;
+    min-width: 0;
 }
 
 .stat-label {
@@ -359,6 +361,7 @@ main {
     font-size: 20px;
     font-weight: 700;
     color: var(--text-secondary);
+    overflow-wrap: anywhere;
 }
 
 .stat-sub {
@@ -412,6 +415,12 @@ main {
 
 .info-row span:first-child {
     color: var(--text-secondary);
+}
+
+.info-row span:last-child {
+    max-width: 65%;
+    text-align: right;
+    overflow-wrap: anywhere;
 }
 
 .app-item {
