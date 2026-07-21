@@ -75,7 +75,7 @@ jobs:
             echo "No ranking RSS changes to commit."
           fi
 
-      - name: Stage 2 - Download detail JSON
+      - name: Stage 2 - Download detail JSON and update curated lists
         shell: bash
         run: |
           args=(details --date "$ARCHIVE_DATE")
@@ -87,15 +87,25 @@ jobs:
           fi
           node scripts/downloader.mjs "${args[@]}"
 
-      - name: Stage 2 - Commit details checkpoint
+          # Backfill metadata for curated lists using the downloaded details
+          lists_args=(lists)
+          if [[ "${{ inputs.skip_existing }}" == "true" ]]; then
+            lists_args+=(--skip-existing)
+          fi
+          if [[ -n "$SELECTED_COUNTRIES" ]]; then
+            lists_args+=(--countries "$SELECTED_COUNTRIES")
+          fi
+          node scripts/downloader.mjs "${lists_args[@]}"
+
+      - name: Stage 2 - Commit details and curated lists checkpoint
         shell: bash
         run: |
-          git add -- details
+          git add -- details rankings/24010101
           if ! git diff --cached --quiet; then
-            git commit -m "Update ranking details $ARCHIVE_DATE"
+            git commit -m "Update ranking details and curated lists metadata $ARCHIVE_DATE"
             git push
           else
-            echo "No detail changes to commit."
+            echo "No detail or curated lists changes to commit."
           fi
 
       - name: Stage 3 - Download media and publish index
