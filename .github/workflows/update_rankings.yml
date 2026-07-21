@@ -10,6 +10,11 @@ on:
         required: false
         type: boolean
         default: false
+      generate_markdown:
+        description: 'Generate Markdown summaries alongside ranking files'
+        required: false
+        type: boolean
+        default: false
       limit:
         description: 'Maximum results requested from each RSS feed'
         required: false
@@ -111,7 +116,10 @@ jobs:
       - name: Stage 3 - Download media and publish index
         shell: bash
         run: |
-          args=(media --date "$ARCHIVE_DATE" --generate-markdown)
+          args=(media --date "$ARCHIVE_DATE")
+          if [[ "${{ inputs.generate_markdown }}" == "true" ]]; then
+            args+=(--generate-markdown)
+          fi
           if [[ "${{ inputs.skip_existing }}" == "true" ]]; then
             args+=(--skip-existing)
           fi
