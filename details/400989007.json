@@ -10,20 +10,6 @@
       "features": [
         "iosUniversal"
       ],
-      "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/us/developer/google/id281956209?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/a0/ff/5ea0ff89-6dc5-6c1e-3ead-0c30d2b1d9b3/logo_play_books_color-0-0-1x_U007epad-0-0-0-1-0-0-0-0-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/a0/ff/5ea0ff89-6dc5-6c1e-3ead-0c30d2b1d9b3/logo_play_books_color-0-0-1x_U007epad-0-0-0-1-0-0-0-0-0-85-220.png/100x100bb.jpg",
-      "advisories": [
-        "Infrequent/Mild Cartoon or Fantasy Violence",
-        "Infrequent/Mild Realistic Violence",
-        "Infrequent/Mild Mature/Suggestive Themes",
-        "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References",
-        "Infrequent/Mild Profanity or Crude Humor",
-        "Infrequent/Mild Sexual Content and Nudity",
-        "Infrequent/Mild Medical/Treatment Information",
-        "Infrequent/Mild Horror/Fear Themes"
-      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -153,7 +139,24 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "userRatingCountForCurrentVersion": 9626,
+      "advisories": [
+        "Infrequent/Mild Cartoon or Fantasy Violence",
+        "Infrequent/Mild Realistic Violence",
+        "Infrequent/Mild Mature/Suggestive Themes",
+        "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References",
+        "Infrequent/Mild Profanity or Crude Humor",
+        "Infrequent/Mild Sexual Content and Nudity",
+        "Infrequent/Mild Medical/Treatment Information",
+        "Infrequent/Mild Horror/Fear Themes"
+      ],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/us/developer/google/id281956209?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/a0/ff/5ea0ff89-6dc5-6c1e-3ead-0c30d2b1d9b3/logo_play_books_color-0-0-1x_U007epad-0-0-0-1-0-0-0-0-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/a0/ff/5ea0ff89-6dc5-6c1e-3ead-0c30d2b1d9b3/logo_play_books_color-0-0-1x_U007epad-0-0-0-1-0-0-0-0-0-85-220.png/100x100bb.jpg",
+      "currentVersionReleaseDate": "2026-07-07T14:14:22Z",
+      "minimumOsVersion": "18.0",
+      "averageUserRatingForCurrentVersion": 4.4183,
+      "sellerUrl": "https://play.google.com",
       "languageCodesISO2A": [
         "AF",
         "AR",
@@ -199,39 +202,36 @@
       "fileSizeBytes": "73568256",
       "formattedPrice": "Free",
       "trackContentRating": "12+",
-      "sellerUrl": "https://play.google.com",
-      "averageUserRatingForCurrentVersion": 4.41824,
+      "artistName": "Google",
       "artistId": 281956209,
-      "bundleId": "com.google.GoogleBooks",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "primaryGenreName": "Book",
-      "primaryGenreId": 6018,
-      "currentVersionReleaseDate": "2026-07-07T14:14:22Z",
-      "releaseNotes": "Bug fixes and performance improvements.",
-      "version": "26.703.00",
-      "wrapperType": "software",
-      "currency": "USD",
-      "description": "All the books you love. On the page or out loud. Anywhere you are.\n\nDive into a world of stories with Google Play Books! Explore millions of ebooks, audiobooks, comics, and manga — all in one app.\n\nKey Features: \n• Your library, anywhere: Enjoy books on your phone, tablet, computer, or even in your car with CarPlay. Plus, you can download books to read offline.\n\n• Organize with shelves: Personalize your digital library with custom shelves to categorize your books by genre, author, or any theme you’d like.\n\n• Audio immersion: Enjoy a vast library of audiobooks with customizable playback speed, sleep timers, and bookmarking to enhance your listening experience.\n\n• Smart notes: Jot down notes while you read that sync with your Google Drive and can be shared for easy collaboration.\n\n• Kid–friendly reading tools: Let kids explore word definitions or listen to books aloud. Note: Reading tools are available in English only.\n\n• Immersive comics: Experience Bubble Zoom for a specialized comic and manga reading experience.\n\n• Hands–free reading: Control your audiobook with your voice using Siri.\n\n• Read your way: Customize your reading experience by adjusting the font, text size, brightness, and more.\n\nMillions of stories await on Google Play Books! Download now and start reading.",
-      "minimumOsVersion": "18.0",
-      "trackCensoredName": "Google Play Books & Audiobooks",
-      "trackViewUrl": "https://apps.apple.com/us/app/google-play-books-audiobooks/id400989007?uo=4",
-      "contentAdvisoryRating": "12+",
-      "averageUserRating": 4.41824,
-      "genreIds": [
-        "6018",
-        "6006"
-      ],
-      "releaseDate": "2010-12-06T17:46:27Z",
       "genres": [
         "Books",
         "Reference"
       ],
-      "artistName": "Google",
+      "bundleId": "com.google.GoogleBooks",
+      "releaseDate": "2010-12-06T17:46:27Z",
+      "genreIds": [
+        "6018",
+        "6006"
+      ],
+      "primaryGenreName": "Book",
+      "primaryGenreId": 6018,
       "sellerName": "Google LLC",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "version": "26.703.00",
+      "wrapperType": "software",
+      "currency": "USD",
+      "description": "All the books you love. On the page or out loud. Anywhere you are.\n\nDive into a world of stories with Google Play Books! Explore millions of ebooks, audiobooks, comics, and manga — all in one app.\n\nKey Features: \n• Your library, anywhere: Enjoy books on your phone, tablet, computer, or even in your car with CarPlay. Plus, you can download books to read offline.\n\n• Organize with shelves: Personalize your digital library with custom shelves to categorize your books by genre, author, or any theme you’d like.\n\n• Audio immersion: Enjoy a vast library of audiobooks with customizable playback speed, sleep timers, and bookmarking to enhance your listening experience.\n\n• Smart notes: Jot down notes while you read that sync with your Google Drive and can be shared for easy collaboration.\n\n• Kid–friendly reading tools: Let kids explore word definitions or listen to books aloud. Note: Reading tools are available in English only.\n\n• Immersive comics: Experience Bubble Zoom for a specialized comic and manga reading experience.\n\n• Hands–free reading: Control your audiobook with your voice using Siri.\n\n• Read your way: Customize your reading experience by adjusting the font, text size, brightness, and more.\n\nMillions of stories await on Google Play Books! Download now and start reading.",
+      "averageUserRating": 4.4183,
+      "userRatingCountForCurrentVersion": 9627,
+      "trackCensoredName": "Google Play Books & Audiobooks",
+      "trackViewUrl": "https://apps.apple.com/us/app/google-play-books-audiobooks/id400989007?uo=4",
+      "contentAdvisoryRating": "12+",
+      "releaseNotes": "Bug fixes and performance improvements.",
       "trackId": 400989007,
       "trackName": "Google Play Books & Audiobooks",
       "price": 0,
-      "userRatingCount": 9626
+      "userRatingCount": 9627
     }
   ]
 }

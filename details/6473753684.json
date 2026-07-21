@@ -2,10 +2,7 @@
   "resultCount": 1,
   "results": [
     {
-      "artistViewUrl": "https://apps.apple.com/de/developer/anthropic-pbc/id1719695350?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/56/f5/0956f5d8-19e7-5aab-24e5-6dc7cef01611/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/56/f5/0956f5d8-19e7-5aab-24e5-6dc7cef01611/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
-      "isGameCenterEnabled": false,
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/56/f5/0956f5d8-19e7-5aab-24e5-6dc7cef01611/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/88/50/10/88501066-bca0-9cc4-502e-ca33831eca7c/Useful_answers.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/73/d9/90/73d99050-9685-3922-984a-8a53c494d953/Voice_Mode.png/392x696bb.png",
@@ -17,9 +14,10 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ce/58/d5/ce58d578-ec2a-2999-7759-86108b505d8f/Write.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/14/ac/79/14ac79fd-995a-f926-0920-8379abad99fe/End_Card.png/392x696bb.png"
       ],
-      "ipadScreenshotUrls": [],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/56/f5/0956f5d8-19e7-5aab-24e5-6dc7cef01611/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -150,22 +148,20 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
       "advisories": [
-        "Selten/schwach ausgeprägt: medizinische/Behandlungs-Informationen",
-        "Selten/schwach ausgeprägt: Szenen mit erotischen Anspielungen",
-        "Selten/schwach ausgeprägt: Gebrauch von Alkohol, Tabak oder Drogen bzw. Verweise hierzu",
-        "Selten/schwach ausgeprägt: obszöner oder vulgärer Humor",
-        "Selten/schwach ausgeprägt: sexuelle Inhalte oder Nacktheit"
+        "Infrequent/Mild Medical/Treatment Information",
+        "Infrequent/Mild Mature/Suggestive Themes",
+        "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References",
+        "Infrequent/Mild Profanity or Crude Humor",
+        "Infrequent/Mild Sexual Content and Nudity"
       ],
       "kind": "software",
-      "features": [
-        "iosUniversal"
-      ],
-      "trackCensoredName": "Claude by Anthropic",
-      "trackViewUrl": "https://apps.apple.com/de/app/claude-by-anthropic/id6473753684?uo=4",
-      "contentAdvisoryRating": "17+",
-      "averageUserRating": 4.54559,
-      "averageUserRatingForCurrentVersion": 4.54559,
+      "ipadScreenshotUrls": [],
+      "appletvScreenshotUrls": [],
+      "artistViewUrl": "https://apps.apple.com/us/developer/anthropic-pbc/id1719695350?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/56/f5/0956f5d8-19e7-5aab-24e5-6dc7cef01611/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/56/f5/0956f5d8-19e7-5aab-24e5-6dc7cef01611/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
       "sellerUrl": "https://claude.ai",
+      "minimumOsVersion": "18.0",
       "languageCodesISO2A": [
         "EN",
         "FR",
@@ -179,36 +175,40 @@
         "ES"
       ],
       "fileSizeBytes": "204146688",
-      "formattedPrice": "Gratis",
-      "userRatingCountForCurrentVersion": 19995,
+      "formattedPrice": "Free",
+      "userRatingCountForCurrentVersion": 205882,
       "trackContentRating": "17+",
+      "averageUserRatingForCurrentVersion": 4.71752,
+      "currentVersionReleaseDate": "2026-07-18T01:42:04Z",
       "artistId": 1719695350,
       "artistName": "Anthropic PBC",
       "genres": [
-        "Produktivität",
-        "Wirtschaft"
+        "Productivity",
+        "Business"
       ],
       "price": 0,
-      "sellerName": "Anthropic PBC",
-      "isVppDeviceBasedLicensingEnabled": true,
+      "bundleId": "com.anthropic.claude",
+      "releaseNotes": "Squashed some bugs and improved the overall experience. Yours, Claude",
+      "releaseDate": "2024-05-01T07:00:00Z",
+      "trackId": 6473753684,
+      "trackName": "Claude by Anthropic",
       "genreIds": [
         "6007",
         "6000"
       ],
-      "releaseDate": "2024-05-13T07:00:00Z",
+      "sellerName": "Anthropic PBC",
       "primaryGenreName": "Productivity",
       "primaryGenreId": 6007,
-      "trackId": 6473753684,
-      "trackName": "Claude by Anthropic",
-      "currentVersionReleaseDate": "2026-07-18T01:42:04Z",
-      "releaseNotes": "Einige Fehler wurden behoben und das Gesamterlebnis wurde verbessert. Viele Grüße, Claude",
+      "isVppDeviceBasedLicensingEnabled": true,
       "version": "1.260716.0",
       "wrapperType": "software",
-      "currency": "EUR",
-      "description": "Verbinde dich mit Claude – deinem persönlichen KI-Assistenten, der mit dir denkt, aber dich nicht lenkt.\n\nClaude von Anthropic ist deine All-in-One-App als KI-Assistent fürs Schreiben, Recherchieren, Programmieren und Lösen komplexer Aufgaben. Claude steigert deine Produktivität und Effizienz.\n\n\n\nKI-SCHREIBASSISTENT\n\n\n\nNutze Claude als deinen persönlichen KI-Schreibassistenten und verwandle Ideen in überzeugende Texte. Ob Social-Media-Posts, professionelle E-Mails oder Berichte – Claude bringt Ton, Struktur und Klarheit auf den Punkt. \n\nProfessionelle KI-Schreibhilfe, die publikationsfertige Inhalte liefert.\n\n\n\nÜBERSETZE NATÜRLICH ZWISCHEN ÜBER 100 SPRACHEN\n\n\n\nClaude bietet fortgeschrittene KI-Übersetzung mit Präzision und natürlichem Klang. Ob Gespräch oder Text, Claude liefert flüssige Übersetzungen für über 100 Sprachen und bewahrt Ton und Bedeutung.\n\n\n\nKI-CODING UND PROGRAMMIERUNG\n\n\n\nClaude ist dein KI-Coding-Assistent für ernsthaftes Development. Bewältige Programmieraufgaben auf Production-Level mit Präzision. Überprüfe Codes, behebe Fehler und entdecke neue Programmiersprachen. Claude erklärt komplexe Konzepte leicht verständlich und liefert Lösungen für Python, JavaScript, React und Dutzende weitere Sprachen.\n\nAls vielseitiger KI-Agent und Coding-Assistent plant Claude mehrstufige Coding-Aufgaben, integriert relevantes Wissen und passt sich deinem Projekt an. Entwickle Programme durch natürliche Konversation und nutze Claude als präzisen KI-Debugger, der Fehler blitzschnell findet und behebt. Claude skaliert von schnellen Skripten bis hin zur Unternehmensentwicklung.\n\n\nFORSCHUNG UND DATENANALYSE\n\n\n\nClaude bietet KI-gestützte Recherche, fasst zusammen und analysiert Daten für umsetzbare Erkenntnisse. Durchsuche Google Drive, Gmail, Kalender und das Web mit präzisen Quellenangaben. Claude unterstützt Business-Analysen, Report-Erstellung und Ideenfindung.\n\n\nVISUELLE ANALYSE\n\n\n\nLade Bilder, PDFs oder Screenshots für sofortige Einblicke hoch. Claude bietet KI-Bildanalyse zum Extrahieren von Text, Interpretieren von Diagrammen und Bewerten von UI-Layouts oder technischen Zeichnungen. Feedback zu Screenshots, App-Designs und Datenvisualisierungen. Generiere SVG-Code für Grafiken und Illustrationen.\n\n\nSPRECHEN STATT TIPPEN\n\n\n\nNutze Claude als deinen KI-Sprachassistenten und diktiere direkt in mehreren Sprachen. Ideal für Multitasking oder spontanes Brainstorming.\n\n\nENTFALTE DEIN SKILLSET\n\n\nErweitere deinen Horizont mit KI-Tools, die sich an dein Level anpassen. Lerne neue Fähigkeiten, erschließe unbekannte Bereiche oder hole dir einen frischen Blick.\n\nClaude hilft bei Folgendem:\n\n▶ Texte schreiben und mit KI-Schreibhilfe verbessern\n▶ Meetings zusammenfassen und Erkenntnisse herausfiltern\n▶ Berichte und Marketinginhalte generieren\n▶ Komplexe Themen mit Erklärungen lösen\n▶ Projekte planen, KI-Aufgaben managen und Ideen strukturieren\n▶ Über 100 Sprachen natürlich übersetzen\n▶ Inhalte aus PDFs, Screenshots und Bildern auslesen\n▶ Freihändig per KI-Chat und Diktat arbeiten\n▶ Programmieren lernen, mit KI-Coding-Hilfe debuggen\n▶ Kalkulatoren, Charts und interaktive Tools erstellen\n\n\n\nVERTRAUENSWÜRDIG & ZUVERLÄSSIG\n\n\n\nClaude ist verlässlich, präzise und hilfreich. Entwickelt von Anthropic, einem KI-Forschungsunternehmen für sichere und zuverlässige KI-Tools. Angetrieben von Claude Opus und Sonnet vereint die App starke Analyse-, Kreativ- und Produktivitätsfunktionen in einem KI-Assistenten.\n\n\nPROBIER CLAUDE KOSTENLOS AUS – MILLIONEN VERTRAUEN IHM\n\n\n\nSchließ dich Millionen Nutzer:innen an und nutze Claude kostenlos. Ob du programmierst, schreibst, recherchierst oder Business-Herausforderungen meisterst – Claude erweitert dein Skillset.\n\n\n\nNutzungsbedingungen: https://www.anthropic.com/legal/consumer-terms\nDatenschutzrichtlinie: https://www.anthropic.com/legal/privacy\n\n\n\n© 2026 Anthropic, PBC",
-      "minimumOsVersion": "18.0",
-      "bundleId": "com.anthropic.claude",
-      "userRatingCount": 19995
+      "currency": "USD",
+      "description": "Meet Claude, your AI problem solver and thinking partner. Claude works with you to write, research, code, and tackle complex problems and hard questions with depth and precision. It enhances your thinking and expands what you're capable of, right from your phone.\n\nAI WRITING ASSISTANT \n\nTurn rough ideas into polished work. Whether you're crafting social media posts, professional emails, or complex reports, Claude refines tone, structure, and clarity, iterating with you until your voice comes through. Get writing support that understands what you're trying to say, even when you're still figuring it out.\n\nAI CODING AND PROGRAMMING HELP \n\nClaude handles production-level development work. Review code, debug complex issues, and explore new languages with an AI coding assistant that explains the \"why\" behind every solution. Work through problems in Python, JavaScript, TypeScript, and dozens of other languages—from quick scripts to multi-step architecture.\n\nAs a versatile coding assistant, Claude plans multi-step tasks, pulls in relevant context, and adapts its approach as your project evolves. Write programs through natural conversation and use Claude to identify and fix errors faster. It scales from a single function to enterprise-level development.\n\nRESEARCH AND DATA INSIGHTS \n\nGo deeper on the questions that matter. Claude searches the web, compiles findings with accurate citations, and surfaces what's actually useful. Connect Google Drive, Gmail, and Calendar to bring your own context into the conversation. Whether you're conducting business analysis, building reports, or exploring new ideas, Claude thinks through problems with you, from the first question to the one you didn’t know to ask.\n\nVISUAL ANALYSIS \n\nUpload any photo, PDF, or screenshot for instant analysis. Claude extracts text, interprets charts and graphs, evaluates UI layouts and technical diagrams, and explains what it sees. Get thoughtful feedback on app designs and data visualizations. Generate SVG code for graphics and illustrations, right from your phone.\n\nNO TYPING NEEDED \n\nThink out loud. Use Claude as your AI voice assistant to have conversations in multiple languages—perfect for brainstorming sessions or working through ideas on the go.\n\nEXPAND WHAT YOU CAN DO \n\nTake on projects outside your usual expertise. Whether you're learning something new, navigating unfamiliar territory, or need a thoughtful second opinion, Claude helps you take on the hard questions you otherwise don’t have time or bandwidth for.\n\nClaude helps you: \n▶ Develop and refine content with AI writing\n▶ Work through meeting notes to surface key insights\n▶ Build reports and marketing content iteratively\n▶ Explore complex math problems with step-by-step reasoning\n▶ Plan projects, structure ideas, and build flowcharts together\n▶ Analyze PDFs, screenshots, and visual content for deeper patterns\n▶ Think through problems hands-free with voice dictation\n\nTRUSTED AND RELIABLE \n\nClaude is designed to be reliable, accurate, and collaborative. It’s built by Anthropic, an AI research company dedicated to building safe and dependable AI tools. Powered by Claude Fable, Opus, Sonnet, and Haiku, it brings advanced reasoning, creativity, and problem-solving capabilities to your most important challenges.\n\nTRY CLAUDE FOR FREE\n\nJoin millions of users who trust Claude for their work on the problems that matter. Whether you're coding, writing, researching, or tackling business challenges, Claude helps you think deeper and reach further.\n\nTerms of Service: https://www.anthropic.com/legal/consumer-terms \nPrivacy Policy: https://www.anthropic.com/legal/privacy \n© 2026 Anthropic, PBC",
+      "trackCensoredName": "Claude by Anthropic",
+      "trackViewUrl": "https://apps.apple.com/us/app/claude-by-anthropic/id6473753684?uo=4",
+      "contentAdvisoryRating": "17+",
+      "averageUserRating": 4.71752,
+      "userRatingCount": 205882
     }
   ]
 }

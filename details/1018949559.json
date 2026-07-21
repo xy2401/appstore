@@ -3,10 +3,6 @@
   "results": [
     {
       "isGameCenterEnabled": false,
-      "screenshotUrls": [],
-      "ipadScreenshotUrls": [],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/14/3d/2c143da8-2998-a6aa-a03c-7e7f1a0b0703/AppIcon-0-1x_U007emarketing-0-11-0-0-85-220-0.png/512x512bb.jpg",
       "features": [
         "iosUniversal"
       ],
@@ -139,14 +135,41 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "advisories": [],
       "kind": "software",
+      "screenshotUrls": [],
+      "ipadScreenshotUrls": [],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/14/3d/2c143da8-2998-a6aa-a03c-7e7f1a0b0703/AppIcon-0-1x_U007emarketing-0-11-0-0-85-220-0.png/512x512bb.jpg",
       "artistViewUrl": "https://apps.apple.com/us/developer/microsoft-corporation/id298856275?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/14/3d/2c143da8-2998-a6aa-a03c-7e7f1a0b0703/AppIcon-0-1x_U007emarketing-0-11-0-0-85-220-0.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/14/3d/2c143da8-2998-a6aa-a03c-7e7f1a0b0703/AppIcon-0-1x_U007emarketing-0-11-0-0-85-220-0.png/100x100bb.jpg",
-      "averageUserRatingForCurrentVersion": 4.75075,
-      "formattedPrice": "Free",
-      "fileSizeBytes": "26831872",
+      "advisories": [],
+      "minimumOsVersion": "17.0",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "artistId": 298856275,
+      "artistName": "Microsoft Corporation",
+      "genres": [
+        "Productivity",
+        "Travel"
+      ],
+      "price": 0,
+      "trackId": 1018949559,
+      "trackName": "Microsoft Translator",
+      "bundleId": "com.microsoft.translator",
+      "releaseNotes": "• The multi-device conversation feature has been retired.\n• Bug fixes and general improvements.",
+      "genreIds": [
+        "6007",
+        "6003"
+      ],
+      "currentVersionReleaseDate": "2026-06-30T19:10:12Z",
+      "primaryGenreName": "Productivity",
+      "primaryGenreId": 6007,
+      "sellerName": "Microsoft Corporation",
+      "version": "26.7.1",
+      "wrapperType": "software",
+      "currency": "USD",
+      "description": "Break language barriers instantly with Microsoft Translator.\n \nTranslate text, speech, and images in over 100 languages — for free. Whether you're traveling, navigating daily life, or working across languages, Microsoft Translator helps you communicate quickly and confidently.\n \nKey features:\n• Translate text in 100+ languages\n• Real-time speech translation\n• Translate text in images\n\nNote: The multi-device conversation feature has been retired.\n \nWith a simple, intuitive interface and high-quality translations, Microsoft Translator makes it easy to connect with people anywhere in the world.\n \nGet started today and communicate without limits. Explore supported languages at https://aka.ms/applanguages",
+      "averageUserRating": 4.75075,
       "sellerUrl": "https://translator.microsoft.com/",
       "languageCodesISO2A": [
         "AR",
@@ -174,39 +197,16 @@
         "ZH",
         "TR"
       ],
-      "userRatingCountForCurrentVersion": 158231,
+      "fileSizeBytes": "26831872",
+      "formattedPrice": "Free",
       "trackContentRating": "4+",
-      "artistId": 298856275,
-      "artistName": "Microsoft Corporation",
-      "genres": [
-        "Productivity",
-        "Travel"
-      ],
-      "price": 0,
-      "bundleId": "com.microsoft.translator",
-      "primaryGenreName": "Productivity",
-      "primaryGenreId": 6007,
-      "releaseDate": "2015-08-06T06:08:19Z",
-      "genreIds": [
-        "6007",
-        "6003"
-      ],
-      "trackId": 1018949559,
-      "trackName": "Microsoft Translator",
-      "sellerName": "Microsoft Corporation",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-06-30T19:10:12Z",
-      "releaseNotes": "• The multi-device conversation feature has been retired.\n• Bug fixes and general improvements.",
-      "version": "26.7.1",
-      "wrapperType": "software",
-      "currency": "USD",
-      "description": "Break language barriers instantly with Microsoft Translator.\n \nTranslate text, speech, and images in over 100 languages — for free. Whether you're traveling, navigating daily life, or working across languages, Microsoft Translator helps you communicate quickly and confidently.\n \nKey features:\n• Translate text in 100+ languages\n• Real-time speech translation\n• Translate text in images\n\nNote: The multi-device conversation feature has been retired.\n \nWith a simple, intuitive interface and high-quality translations, Microsoft Translator makes it easy to connect with people anywhere in the world.\n \nGet started today and communicate without limits. Explore supported languages at https://aka.ms/applanguages",
-      "averageUserRating": 4.75075,
       "trackCensoredName": "Microsoft Translator",
       "trackViewUrl": "https://apps.apple.com/us/app/microsoft-translator/id1018949559?uo=4",
       "contentAdvisoryRating": "4+",
-      "minimumOsVersion": "17.0",
-      "userRatingCount": 158231
+      "userRatingCountForCurrentVersion": 158230,
+      "averageUserRatingForCurrentVersion": 4.75075,
+      "releaseDate": "2015-08-06T06:08:19Z",
+      "userRatingCount": 158230
     }
   ]
 }

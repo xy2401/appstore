@@ -9,7 +9,7 @@ const ROOT_DIR = path.resolve(SCRIPT_DIR, '..');
 const RANKINGS_DIR = path.join(ROOT_DIR, 'rankings');
 const DETAILS_DIR = path.join(ROOT_DIR, 'details');
 const LOGOS_DIR = path.join(ROOT_DIR, 'logos');
-const LISTS_DIR = path.join(ROOT_DIR, 'lists');
+const LISTS_DIR = path.join(RANKINGS_DIR, '24010101');
 const RANKINGS_INDEX = path.join(ROOT_DIR, 'rankings.json');
 const DETAIL_BATCH_SIZE = 25;
 const LOOKUP_MIN_INTERVAL_MS = 3_250;
@@ -435,7 +435,7 @@ async function loadCuratedLists(countries = COUNTRIES) {
 
     for (const fileName of files) {
         const list = await readJson(path.join(LISTS_DIR, fileName));
-        const country = String(list.country || 'us').toLowerCase();
+        const country = String(list.feed?.country || 'us').toLowerCase();
         if (!countries.includes(country)) continue;
         lists.push({ ...list, country, fileName });
     }
@@ -447,14 +447,15 @@ export function createCuratedEntries(lists) {
     const entries = [];
 
     for (const list of lists) {
-        const country = String(list.country || 'us').toLowerCase();
-        for (const value of list.ids || []) {
-            const id = String(value || '');
+        const country = String(list.feed?.country || 'us').toLowerCase();
+        const results = list.feed?.results || [];
+        for (const item of results) {
+            const id = String(item.id || '');
             if (!id) continue;
             entries.push({
                 id,
                 country,
-                item: { id, kind: list.mediaType || 'apps' },
+                item: { id, kind: list.feed?.mediaType || 'apps' },
                 artworkUrls: []
             });
         }
@@ -951,7 +952,60 @@ export async function runListsStage(options) {
     await downloadDetails(entries, options);
     const mediaItems = await loadMediaItems(entries);
     await downloadArtwork(mediaItems);
-    console.log(`[lists] Complete: ${lists.length} list(s); ${mediaItems.length} app(s).`);
+
+    console.log('[lists] Backfilling curated lists metadata...');
+    for (const list of lists) {
+        if (!list.feed || !Array.isArray(list.feed.results)) continue;
+        
+        for (let i = 0; i < list.feed.results.length; i++) {
+            const item = list.feed.results[i];
+            const id = String(item.id || '');
+            if (!id) continue;
+            
+            const detailPath = path.join(DETAILS_DIR, `${id}.json`);
+            const detailsData = await readJson(detailPath).catch(() => null);
+            const details = detailsData?.results?.[0];
+            
+            if (details) {
+                item.artistName = details.artistName || item.artistName || '';
+                item.id = String(details.trackId ?? details.collectionId ?? id);
+                item.name = details.trackName || details.collectionName || details.name || item.name || '';
+                if (details.releaseDate) {
+                    item.releaseDate = details.releaseDate.slice(0, 10);
+                }
+                item.kind = item.kind || 'apps';
+                item.artworkUrl100 = details.artworkUrl100 || details.artworkUrl60 || item.artworkUrl100 || '';
+                
+                if (details.genreIds && details.genres) {
+                    item.genres = details.genreIds.map((genreId, idx) => ({
+                        genreId: String(genreId),
+                        name: details.genres[idx] || '',
+                        url: `https://itunes.apple.com/genre/id${genreId}`
+                    }));
+                } else if (details.primaryGenreId && details.primaryGenreName) {
+                    item.genres = [{
+                        genreId: String(details.primaryGenreId),
+                        name: details.primaryGenreName,
+                        url: `https://itunes.apple.com/genre/id${details.primaryGenreId}`
+                    }];
+                } else {
+                    item.genres = item.genres || [];
+                }
+                
+                item.url = details.trackViewUrl || details.collectionViewUrl || details.artistViewUrl || details.url || item.url || '';
+            }
+        }
+
+        const listPath = path.join(LISTS_DIR, list.fileName);
+        const outputJson = {
+            feed: list.feed
+        };
+        await atomicWrite(listPath, `${JSON.stringify(outputJson, null, 2)}\n`);
+        console.log(`[lists] Updated ${list.fileName}`);
+    }
+
+    await rebuildRankingsIndex();
+    console.log(`[lists] Complete: ${lists.length} list(s); ${mediaItems.length} app(s); index updated.`);
 }
 
 export async function main(argv = process.argv.slice(2)) {
