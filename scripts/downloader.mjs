@@ -36,6 +36,31 @@ export function getFeedConfigsForCountry(country) {
     return FEED_CONFIGS.filter(config => !config.countries || config.countries.includes(country));
 }
 
+const COUNTRY_ISO_MAP = {
+    us: 'USA',
+    cn: 'CHN',
+    jp: 'JPN',
+    gb: 'GBR',
+    de: 'DEU',
+    fr: 'FRA'
+};
+
+export function mapCountryToIso(country) {
+    return COUNTRY_ISO_MAP[String(country).toLowerCase()] || String(country).toUpperCase();
+}
+
+export function hasDetailForCountry(cachedJson, country) {
+    if (!cachedJson || !Array.isArray(cachedJson.results) || cachedJson.results.length === 0) {
+        return false;
+    }
+    const targetIso = mapCountryToIso(country);
+    return cachedJson.results.some(
+        item => item.country === targetIso
+            || item.country === country
+            || item.country?.toLowerCase() === String(country).toLowerCase()
+    );
+}
+
 class HttpError extends Error {
     constructor(message, status, retryAfterMs = 0) {
         super(message);
@@ -408,16 +433,18 @@ function collectMediaEntries(rankingResults) {
     const entries = new Map();
 
     for (const ranking of rankingResults) {
+        const country = ranking.country || 'us';
         for (const item of ranking.data?.feed?.results || []) {
             const id = String(item.id || '');
             if (!id) continue;
 
+            const key = `${country}:${id}`;
             const artworkUrl = item.artworkUrl100 || item.artworkUrl60 || '';
-            if (!entries.has(id)) {
-                entries.set(id, { id, country: ranking.country, item, artworkUrls: [] });
+            if (!entries.has(key)) {
+                entries.set(key, { id, country, item, artworkUrls: [] });
             }
 
-            const entry = entries.get(id);
+            const entry = entries.get(key);
             if (artworkUrl && !entry.artworkUrls.includes(artworkUrl)) {
                 entry.artworkUrls.push(artworkUrl);
             }
@@ -447,15 +474,15 @@ export function createCuratedEntries(lists) {
     const entries = [];
 
     for (const list of lists) {
-        const country = String(list.feed?.country || 'us').toLowerCase();
-        const results = list.feed?.results || [];
+        const country = String(list.feed?.country || list.country || 'us').toLowerCase();
+        const results = list.feed?.results || list.results || (Array.isArray(list.ids) ? list.ids.map(id => ({ id })) : []);
         for (const item of results) {
             const id = String(item.id || '');
             if (!id) continue;
             entries.push({
                 id,
                 country,
-                item: { id, kind: list.feed?.mediaType || 'apps' },
+                item: { id, kind: list.feed?.mediaType || list.mediaType || 'apps' },
                 artworkUrls: []
             });
         }
@@ -469,8 +496,9 @@ export function mergeMediaEntries(...entryGroups) {
 
     for (const group of entryGroups) {
         for (const entry of group) {
-            if (!entries.has(entry.id)) {
-                entries.set(entry.id, {
+            const key = `${entry.country}:${entry.id}`;
+            if (!entries.has(key)) {
+                entries.set(key, {
                     ...entry,
                     item: { ...entry.item },
                     artworkUrls: [...entry.artworkUrls]
@@ -478,7 +506,7 @@ export function mergeMediaEntries(...entryGroups) {
                 continue;
             }
 
-            const existing = entries.get(entry.id);
+            const existing = entries.get(key);
             existing.item = { ...entry.item, ...existing.item };
             for (const artworkUrl of entry.artworkUrls) {
                 if (!existing.artworkUrls.includes(artworkUrl)) {
@@ -501,7 +529,11 @@ async function loadAllMediaEntries(options) {
 }
 
 function summarizeMedia(entry, lookupData) {
-    const details = lookupData?.results?.[0] || {};
+    const targetIso = mapCountryToIso(entry.country);
+    const details = lookupData?.results?.find(
+        item => item.country === targetIso || item.country === entry.country || item.country?.toLowerCase() === entry.country.toLowerCase()
+    ) || lookupData?.results?.[0] || {};
+
     const artworkUrl = details.artworkUrl600
         || details.artworkUrl512
         || details.artworkUrl100
@@ -655,13 +687,35 @@ async function saveDetailBatch(entries, lookupData) {
 
     for (const entry of entries) {
         const filePath = path.join(DETAILS_DIR, `${entry.id}.json`);
-        const result = resultsById.get(String(entry.id));
-        if (result) {
-            await atomicWrite(filePath, `${JSON.stringify({ resultCount: 1, results: [result] }, null, 2)}\n`);
+        const newResult = resultsById.get(String(entry.id));
+
+        const existing = await readJson(filePath).catch(() => null);
+        let results = Array.isArray(existing?.results) ? [...existing.results] : [];
+
+        if (newResult) {
+            const targetIso = mapCountryToIso(entry.country);
+            const resultToSave = {
+                ...newResult,
+                country: newResult.country || targetIso
+            };
+
+            const existingIndex = results.findIndex(
+                item => item.country === resultToSave.country || item.country === targetIso || item.country === entry.country
+            );
+
+            if (existingIndex >= 0) {
+                results[existingIndex] = resultToSave;
+            } else {
+                results.push(resultToSave);
+            }
+
+            await atomicWrite(
+                filePath,
+                `${JSON.stringify({ resultCount: results.length, results }, null, 2)}\n`
+            );
             continue;
         }
 
-        const existing = await readJson(filePath).catch(() => null);
         if (existing) {
             console.warn(`[details] lookup omitted ${entry.id}; keeping existing file`);
         } else {
@@ -689,13 +743,11 @@ async function downloadDetails(entries, options) {
 
     for (const entry of entries) {
         const filePath = path.join(DETAILS_DIR, `${entry.id}.json`);
-        const cached = options.skipExisting
-            ? await readJson(filePath).catch(() => null)
-            : null;
+        const existing = await readJson(filePath).catch(() => null);
+        const cached = options.skipExisting && hasDetailForCountry(existing, entry.country);
         if (cached) {
             completed += 1;
         } else if (!isLookupCompatibleId(entry.id)) {
-            const existing = await readJson(filePath).catch(() => null);
             if (!existing) {
                 await atomicWrite(
                     filePath,

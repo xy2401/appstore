@@ -7,8 +7,10 @@ import {
     createRequestThrottle,
     getArtworkFileName,
     getFeedConfigsForCountry,
+    hasDetailForCountry,
     hashArtworkUrl,
     isLookupCompatibleId,
+    mapCountryToIso,
     mergeMediaEntries,
     parseArguments,
     runCountryTasks,
@@ -216,3 +218,27 @@ test('request throttle enforces a minimum start-to-start interval', async () => 
 
     assert.deepEqual(waits, [2_250]);
 });
+
+test('mapCountryToIso maps two-letter country codes to three-letter ISO codes', () => {
+    assert.equal(mapCountryToIso('us'), 'USA');
+    assert.equal(mapCountryToIso('cn'), 'CHN');
+    assert.equal(mapCountryToIso('jp'), 'JPN');
+    assert.equal(mapCountryToIso('gb'), 'GBR');
+    assert.equal(mapCountryToIso('de'), 'DEU');
+    assert.equal(mapCountryToIso('fr'), 'FRA');
+});
+
+test('hasDetailForCountry checks if cached details contain target country result', () => {
+    const cached = {
+        resultCount: 2,
+        results: [
+            { country: 'USA', trackName: 'US App' },
+            { country: 'CHN', trackName: 'CN App' }
+        ]
+    };
+
+    assert.equal(hasDetailForCountry(cached, 'us'), true);
+    assert.equal(hasDetailForCountry(cached, 'cn'), true);
+    assert.equal(hasDetailForCountry(cached, 'jp'), false);
+});
+

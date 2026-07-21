@@ -530,21 +530,41 @@ function loadRankings() {
         .catch(err => {
             appGrid.innerHTML = `<div class="error">Error loading rankings: ${err.message}</div>`;
         });
+}const COUNTRY_ISO_MAP = {
+    us: 'USA',
+    cn: 'CHN',
+    jp: 'JPN',
+    gb: 'GBR',
+    de: 'DEU',
+    fr: 'FRA'
+};
+
+function selectLocalizedDetail(results, targetCountry) {
+    if (!Array.isArray(results) || results.length === 0) return null;
+    const targetIso = COUNTRY_ISO_MAP[String(targetCountry).toLowerCase()] || String(targetCountry).toUpperCase();
+    return results.find(item => 
+        item.country === targetIso || 
+        item.country === targetCountry || 
+        item.country?.toLowerCase() === String(targetCountry).toLowerCase()
+    ) || results[0];
 }
 
-async function getAppDetails(appId) {
-    if (Object.prototype.hasOwnProperty.call(appDetailsCache, appId)) {
-        return appDetailsCache[appId];
+async function getAppDetails(appId, country = countrySelect.value) {
+    const cacheKey = `${appId}:${country}`;
+    if (Object.prototype.hasOwnProperty.call(appDetailsCache, cacheKey)) {
+        return appDetailsCache[cacheKey];
     }
 
     let details = null;
     try {
         const data = await fetchJson(`details/${appId}.json`);
-        if (data.resultCount > 0) details = data.results[0];
+        if (data.resultCount > 0) {
+            details = selectLocalizedDetail(data.results, country);
+        }
     } catch {
         // Some media types are not returned by the iTunes lookup endpoint.
     }
-    appDetailsCache[appId] = details;
+    appDetailsCache[cacheKey] = details;
     return details;
 }
 
@@ -584,7 +604,9 @@ async function showAppDetails(appId, basicAppInfo) {
     modalBody.innerHTML = '<div class="loading">Loading details...</div>';
     appModal.style.display = "flex";
 
-    renderModalContent(await getAppDetails(appId), appId, basicAppInfo);
+    const currentCountry = countrySelect.value;
+    renderModalContent(await getAppDetails(appId, currentCountry), appId, basicAppInfo);
+}
 }
 
 function formatAppDate(dateString) {
