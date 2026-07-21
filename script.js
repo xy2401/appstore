@@ -8,17 +8,8 @@ const modalBody = document.getElementById('modalBody');
 const closeModalBtn = document.querySelector('.close-modal');
 const jsonListButton = document.getElementById('jsonListButton');
 const themeToggle = document.getElementById('themeToggle');
-const CURATED_SOURCE = '@lists';
-const CURATED_LIST_PATHS = [
-    'lists/apple-apps.json',
-    'lists/ai-apps.json',
-    'lists/china-ai-apps.json',
-    'lists/google-apps.json',
-    'lists/microsoft-apps.json'
-];
-
+const subTitle = document.querySelector('.title-sub');
 let allFiles = [];
-let curatedLists = [];
 let availableDates = new Set();
 let availableCountries = new Set();
 let availableMediaTypes = new Set();
@@ -107,22 +98,16 @@ function fetchJson(path) {
     });
 }
 
-// Fetch the ranking archive and manually maintained curated lists.
-Promise.all([
-    fetchJson('rankings.json'),
-    Promise.all(CURATED_LIST_PATHS.map(path => (
-        fetchJson(path).then(data => ({ ...(data.feed || data), path }))
-    )))
-])
-    .then(([files, lists]) => {
+// Fetch the ranking archive index.
+fetchJson('rankings.json')
+    .then(files => {
         allFiles = files;
-        curatedLists = lists;
         processFiles();
         populateDropdowns();
         jsonListButton.disabled = !allFiles.some(file => file.parsed);
         
-        // Auto-select most recent if available
-        const newestDate = Array.from(availableDates).sort().reverse()[0];
+        // Auto-select most recent if available (excluding the special Curated Lists date)
+        const newestDate = Array.from(availableDates).filter(d => d !== '24010101').sort().reverse()[0];
         if (newestDate) {
             dateSelect.value = newestDate;
             updateAvailableOptions();
@@ -143,7 +128,6 @@ Promise.all([
 
 function processFiles() {
     allFiles.forEach(file => {
-        // Supports both slash types
         const parts = file.RelativePath.split(/[/\\]/);
         if (parts.length >= 3) {
             const date = parts[1];
@@ -163,29 +147,19 @@ function processFiles() {
 }
 
 function populateDropdowns() {
-    if (curatedLists.length > 0) {
-        const listGroup = document.createElement('optgroup');
-        listGroup.label = 'Lists';
-        const option = document.createElement('option');
-        option.value = CURATED_SOURCE;
-        option.textContent = 'Curated Lists';
-        listGroup.appendChild(option);
-        dateSelect.appendChild(listGroup);
-    }
-
-    const archiveGroup = document.createElement('optgroup');
-    archiveGroup.label = 'Archives';
     const sortedDates = Array.from(availableDates).sort().reverse();
     sortedDates.forEach(date => {
         const option = document.createElement('option');
         option.value = date;
         option.textContent = formatDate(date);
-        archiveGroup.appendChild(option);
+        dateSelect.appendChild(option);
     });
-    dateSelect.appendChild(archiveGroup);
 }
 
 function formatDate(dateStr) {
+    if (dateStr === '24010101') {
+        return 'Curated Lists';
+    }
     if (dateStr.length === 8) {
         // YYYYMMDD -> MM/DD/YYYY or similar
         return `${dateStr.substring(0, 4)}-${dateStr.substring(4, 6)}-${dateStr.substring(6, 8)}`;
@@ -193,46 +167,11 @@ function formatDate(dateStr) {
     return dateStr;
 }
 
-function updateCuratedOptions({ loadIfComplete = true } = {}) {
-    const currentFeed = feedSelect.value;
-    const listIds = new Set(curatedLists.map(list => list.id));
-    const selectedList = curatedLists.find(list => list.id === currentFeed)
-        || curatedLists[0];
-    const country = selectedList?.country || 'us';
-
-    countrySelect.innerHTML = `<option value="${escapeHtml(country)}">${escapeHtml(country.toUpperCase())} Metadata</option>`;
-    countrySelect.value = country;
-    countrySelect.disabled = true;
-
-    mediaTypeSelect.innerHTML = '<option value="apps">Apps</option>';
-    mediaTypeSelect.value = 'apps';
-    mediaTypeSelect.disabled = true;
-
-    feedSelect.innerHTML = '<option value="" disabled>List</option>';
-    curatedLists.forEach(list => {
-        const option = document.createElement('option');
-        option.value = list.id;
-        option.textContent = list.title || formatLabel(list.id);
-        feedSelect.appendChild(option);
-    });
-
-    if (listIds.has(currentFeed)) feedSelect.value = currentFeed;
-    else if (selectedList) feedSelect.value = selectedList.id;
-    else feedSelect.selectedIndex = -1;
-
-    if (loadIfComplete && feedSelect.value) loadRankings();
-}
-
 function updateAvailableOptions({ selectFirstFeed = false, loadIfComplete = true } = {}) {
     const selectedDate = dateSelect.value;
     const currentCountry = countrySelect.value;
     const currentMediaType = mediaTypeSelect.value;
     const currentFeed = feedSelect.value;
-
-    if (selectedDate === CURATED_SOURCE) {
-        updateCuratedOptions({ loadIfComplete });
-        return;
-    }
 
     countrySelect.disabled = false;
     mediaTypeSelect.disabled = false;
@@ -337,8 +276,7 @@ mediaTypeSelect.addEventListener('change', () => {
 });
 
 feedSelect.addEventListener('change', () => {
-    if (dateSelect.value === CURATED_SOURCE) updateCuratedOptions();
-    else loadRankings();
+    loadRankings();
 });
 
 jsonListButton.addEventListener('click', showJsonFileList);
@@ -562,11 +500,6 @@ function loadRankings() {
 
     if (!date || !country || !mediaType || !feed) return;
 
-    if (date === CURATED_SOURCE) {
-        loadCuratedApps(feed);
-        return;
-    }
-
     appGrid.innerHTML = '<div class="loading">Loading charts...</div>';
 
     const file = allFiles.find(f => 
@@ -588,6 +521,7 @@ function loadRankings() {
         .then(res => res.json())
         .then(data => {
             if (data.feed && data.feed.results) {
+                subTitle.textContent = data.feed.title || '';
                 renderApps(data.feed.results);
             } else {
                 throw new Error("Invalid data format");
@@ -614,58 +548,12 @@ async function getAppDetails(appId) {
     return details;
 }
 
-function createCuratedApp(id, details) {
-    return {
-        id: String(details?.trackId || id),
-        name: details?.trackName || `App ${id}`,
-        artistName: details?.artistName || details?.sellerName || '',
-        artworkUrl100: details?.artworkUrl100 || '',
-        artworkUrl60: details?.artworkUrl60 || '',
-        kind: 'apps',
-        url: details?.trackViewUrl || '',
-        genres: details?.genres || [],
-        releaseDate: details?.releaseDate || ''
-    };
-}
-
-async function loadCuratedApps(listId) {
-    const list = curatedLists.find(candidate => candidate.id === listId);
-    if (!list) {
-        appGrid.innerHTML = '<div class="error">Curated list not found.</div>';
-        return;
-    }
-
-    appGrid.innerHTML = '<div class="loading">Loading curated apps...</div>';
-    let apps;
-    if (list.results) {
-        apps = list.results;
-    } else {
-        apps = await Promise.all((list.ids || []).map(async value => {
-            const id = String(value);
-            return createCuratedApp(id, await getAppDetails(id));
-        }));
-    }
-    renderApps(apps, { collection: list });
-}
-
-function renderApps(apps, { collection = null } = {}) {
+function renderApps(apps) {
     appGrid.innerHTML = '';
-
-    if (collection) {
-        const header = document.createElement('section');
-        header.className = 'collection-header';
-        header.innerHTML = `
-            <span class="collection-eyebrow">Curated List</span>
-            <h2>${escapeHtml(collection.title || formatLabel(collection.id))}</h2>
-            <p>${escapeHtml(collection.description || '')}</p>
-            <div class="collection-meta">${apps.length} Apps · ${escapeHtml((collection.country || 'us').toUpperCase())} metadata</div>
-        `;
-        appGrid.appendChild(header);
-    }
 
     apps.forEach((app, index) => {
         const item = document.createElement('div');
-        item.className = `app-item${collection ? ' curated-app-item' : ''}`;
+        item.className = 'app-item';
         item.onclick = () => showAppDetails(app.id, app); // Pass basic app info as backup
 
         const localLogoPath = `logos/${app.id}.png`;
@@ -677,7 +565,7 @@ function renderApps(apps, { collection = null } = {}) {
             <img src="${escapeHtml(localLogoPath)}" alt="${escapeHtml(name)}" class="app-logo">
             <div class="app-info">
                 <div class="app-header">
-                    ${collection ? '' : `<span class="app-rank">${index + 1}</span>`}
+                    <span class="app-rank">${index + 1}</span>
                     <span class="app-name" title="${escapeHtml(name)}">${escapeHtml(name)}</span>
                 </div>
                 <div class="app-meta" title="${escapeHtml(artistName)}">

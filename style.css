@@ -124,11 +124,40 @@ header {
     gap: 16px;
 }
 
-h1 {
+.title-group {
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+    flex-wrap: wrap;
+    gap: 8px 12px;
+}
+
+.title-main {
     margin: 0;
     font-size: 28px;
     font-weight: 700;
     letter-spacing: 0.3px;
+    color: var(--text-primary);
+}
+
+.title-sub {
+    font-size: 20px;
+    font-weight: 400;
+    color: var(--text-secondary);
+    display: inline-flex;
+    align-items: center;
+}
+
+.title-sub::before {
+    content: "•";
+    margin-right: 12px;
+    color: var(--separator);
+    font-size: 18px;
+}
+
+/* Hide separator if subtitle is empty */
+.title-sub:empty::before {
+    display: none;
 }
 
 .controls {
