@@ -133,7 +133,7 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          git add -- logos rankings rankings.json
+          git add -- logos rankings archives rankings.json
           if ! git diff --cached --quiet; then
             git commit -m "Complete ranking archive $ARCHIVE_DATE"
             git push

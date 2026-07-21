@@ -9,6 +9,7 @@ const ROOT_DIR = path.resolve(SCRIPT_DIR, '..');
 const RANKINGS_DIR = path.join(ROOT_DIR, 'rankings');
 const DETAILS_DIR = path.join(ROOT_DIR, 'details');
 const LOGOS_DIR = path.join(ROOT_DIR, 'logos');
+const ARCHIVES_DIR = path.join(ROOT_DIR, 'archives');
 const LISTS_DIR = path.join(RANKINGS_DIR, '24010101');
 const RANKINGS_INDEX = path.join(ROOT_DIR, 'rankings.json');
 const DETAIL_BATCH_SIZE = 25;
@@ -122,7 +123,7 @@ function parseCountries(value) {
 
 export function parseArguments(argv) {
     const args = [...argv];
-    const commands = new Set(['rank', 'details', 'media', 'lists', 'all']);
+    const commands = new Set(['rank', 'details', 'media', 'lists', 'archives', 'all']);
     let command = 'all';
 
     if (args[0] && !args[0].startsWith('-')) {
@@ -346,6 +347,7 @@ async function ensureDirectories() {
         mkdir(RANKINGS_DIR, { recursive: true }),
         mkdir(DETAILS_DIR, { recursive: true }),
         mkdir(LOGOS_DIR, { recursive: true }),
+        mkdir(ARCHIVES_DIR, { recursive: true }),
         mkdir(LISTS_DIR, { recursive: true })
     ]);
 }
@@ -519,8 +521,33 @@ export function mergeMediaEntries(...entryGroups) {
     return [...entries.values()];
 }
 
+async function loadAllHistoricalRankingResults(countries = COUNTRIES) {
+    let entries = [];
+    try {
+        entries = await readdir(RANKINGS_DIR, { withFileTypes: true });
+    } catch {
+        return [];
+    }
+
+    const dateDirectories = entries
+        .filter(entry => entry.isDirectory() && entry.name !== '24010101' && /^\d{8}$/.test(entry.name))
+        .map(entry => entry.name)
+        .sort();
+
+    const allResults = [];
+    for (const date of dateDirectories) {
+        try {
+            const results = await loadRankingResults(date, countries);
+            allResults.push(...results);
+        } catch {
+            // ignore unreadable date directory
+        }
+    }
+    return allResults;
+}
+
 async function loadAllMediaEntries(options) {
-    const rankings = await loadRankingResults(options.date, options.countries);
+    const rankings = await loadAllHistoricalRankingResults(options.countries);
     const lists = await loadCuratedLists(options.countries);
     return mergeMediaEntries(
         collectMediaEntries(rankings),
@@ -984,17 +1011,85 @@ export async function runDetailsStage(options) {
     console.log(`[stage 2/3] Complete: ${entries.length} unique media item(s).`);
 }
 
+export async function buildAppArchives() {
+    console.log('[archives] Building per-app historical archives...');
+    await mkdir(ARCHIVES_DIR, { recursive: true });
+
+    let entries = [];
+    try {
+        entries = await readdir(RANKINGS_DIR, { withFileTypes: true });
+    } catch {
+        // RANKINGS_DIR might not exist yet
+    }
+
+    const dateDirectories = entries
+        .filter(entry => entry.isDirectory() && entry.name !== '24010101' && /^\d{8}$/.test(entry.name))
+        .map(entry => entry.name)
+        .sort();
+
+    const archivesMap = new Map();
+
+    for (const date of dateDirectories) {
+        const dateDir = path.join(RANKINGS_DIR, date);
+        const rankingFiles = (await readdir(dateDir).catch(() => []))
+            .filter(fileName => fileName.endsWith('.json'))
+            .sort();
+
+        for (const fileName of rankingFiles) {
+            const parts = fileName.replace(/\.json$/i, '').split('_');
+            if (parts.length < 3) continue;
+            const country = parts[0];
+            const mediaType = parts[1];
+            const feed = parts.slice(2).join('_');
+
+            const filePath = path.join(dateDir, fileName);
+            const rankingData = await readJson(filePath).catch(() => null);
+            const results = rankingData?.feed?.results || [];
+
+            results.forEach((item, index) => {
+                const id = String(item.id || '');
+                if (!id) return;
+
+                if (!archivesMap.has(id)) {
+                    archivesMap.set(id, []);
+                }
+
+                archivesMap.get(id).push({
+                    date,
+                    country,
+                    mediaType,
+                    feed,
+                    rank: index + 1,
+                    ...item
+                });
+            });
+        }
+    }
+
+    for (const [id, history] of archivesMap.entries()) {
+        const archivePath = path.join(ARCHIVES_DIR, `${id}.json`);
+        await atomicWrite(
+            archivePath,
+            `${JSON.stringify({ resultCount: history.length, results: history }, null, 2)}\n`
+        );
+    }
+
+    console.log(`[archives] Complete: ${archivesMap.size} app archive(s) generated.`);
+}
+
 export async function runMediaStage(options) {
     console.log('[stage 3/3] Downloading media files...');
     const entries = await loadAllMediaEntries(options);
     const mediaItems = await loadMediaItems(entries);
     await downloadArtwork(mediaItems);
 
+    await buildAppArchives();
+
     if (options.generateMarkdown) await generateMarkdownFiles(options.date, options.countries);
     else console.log('[markdown] skipped');
 
     await rebuildRankingsIndex();
-    console.log(`[stage 3/3] Complete: ${mediaItems.length} media item(s); rankings.json published.`);
+    console.log(`[stage 3/3] Complete: ${mediaItems.length} media item(s); archives and rankings.json published.`);
 }
 
 export async function runListsStage(options) {
@@ -1080,6 +1175,9 @@ export async function main(argv = process.argv.slice(2)) {
     }
     if (options.command === 'media' || options.command === 'all') {
         await runMediaStage(options);
+    }
+    if (options.command === 'archives') {
+        await buildAppArchives();
     }
     if (options.command === 'lists') {
         await runListsStage(options);

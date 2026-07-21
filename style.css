@@ -1041,3 +1041,139 @@ main {
 .app-item {
     cursor: pointer; /* Add pointer cursor to list items */
 }
+
+/* Archive & Ranking History Modal Section */
+.archive-section {
+    background-color: var(--card-bg);
+}
+
+.archive-filter-tabs {
+    display: flex;
+    gap: 8px;
+    margin-bottom: 16px;
+    flex-wrap: wrap;
+}
+
+.archive-tab {
+    padding: 6px 14px;
+    border-radius: 16px;
+    border: 1px solid var(--separator);
+    background: var(--btn-bg);
+    color: var(--text-secondary);
+    font-size: 13px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.archive-tab:hover {
+    color: var(--text-primary);
+    border-color: var(--accent-color);
+}
+
+.archive-tab.active {
+    background: var(--accent-color);
+    color: #ffffff;
+    border-color: var(--accent-color);
+}
+
+.archive-history-list {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    max-height: 320px;
+    overflow-y: auto;
+    padding-right: 4px;
+}
+
+.archive-history-item {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    padding: 10px 14px;
+    background: var(--json-card-bg);
+    border: 1px solid var(--json-card-border);
+    border-radius: 12px;
+    transition: background 0.2s ease;
+}
+
+.archive-history-item:hover {
+    background: var(--json-card-hover-bg);
+}
+
+.archive-history-icon {
+    width: 48px;
+    height: 48px;
+    border-radius: 10px;
+    object-fit: cover;
+    background: var(--logo-bg);
+    flex-shrink: 0;
+}
+
+.archive-history-content {
+    flex: 1;
+    min-width: 0;
+}
+
+.archive-history-top {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 4px;
+}
+
+.archive-date-badge {
+    font-size: 12px;
+    font-weight: 700;
+    color: var(--text-secondary);
+}
+
+.archive-country-badge {
+    font-size: 11px;
+    font-weight: 800;
+    padding: 2px 6px;
+    border-radius: 6px;
+    background: var(--info-border);
+    color: var(--text-primary);
+}
+
+.archive-rank-badge {
+    font-size: 12px;
+    font-weight: 800;
+    padding: 2px 8px;
+    border-radius: 10px;
+    background: var(--info-border);
+    color: var(--accent-color);
+}
+
+.archive-rank-badge.rank-top-1 {
+    background: #ffd700;
+    color: #000000;
+}
+
+.archive-rank-badge.rank-top-2 {
+    background: #c0c0c0;
+    color: #000000;
+}
+
+.archive-rank-badge.rank-top-3 {
+    background: #cd7f32;
+    color: #ffffff;
+}
+
+.archive-history-name {
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--text-primary);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.archive-history-meta {
+    font-size: 12px;
+    color: var(--text-secondary);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}

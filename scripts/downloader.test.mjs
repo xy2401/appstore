@@ -2,6 +2,7 @@ import assert from 'node:assert/strict';
 import test from 'node:test';
 
 import {
+    buildAppArchives,
     createCuratedEntries,
     createDetailBatches,
     createRequestThrottle,
@@ -241,4 +242,11 @@ test('hasDetailForCountry checks if cached details contain target country result
     assert.equal(hasDetailForCountry(cached, 'cn'), true);
     assert.equal(hasDetailForCountry(cached, 'jp'), false);
 });
+
+test('buildAppArchives executes without throwing error', async () => {
+    await assert.doesNotReject(async () => {
+        await buildAppArchives();
+    });
+});
+
 

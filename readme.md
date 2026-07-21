@@ -121,6 +121,7 @@ The interface automatically selects the newest available archive and provides de
 │   └── YYYYMMDD/          # Archived ranking feeds
 ├── lists/                 # Manually maintained curated App IDs
 ├── details/               # Cached iTunes Lookup API responses
+├── archives/              # Per-app aggregated ranking history
 ├── logos/                 # Locally cached artwork
 └── .github/workflows/
     ├── update_rankings.yml      # Active Node.js updater

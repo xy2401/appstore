@@ -597,6 +597,95 @@ function renderApps(apps) {
         setImageFallbacks(item.querySelector('.app-logo'), [artworkUrl]);
         appGrid.appendChild(item);
     });
+}const appArchiveCache = {};
+
+async function getAppArchive(appId) {
+    if (Object.prototype.hasOwnProperty.call(appArchiveCache, appId)) {
+        return appArchiveCache[appId];
+    }
+    let archive = null;
+    try {
+        archive = await fetchJson(`archives/${appId}.json`);
+    } catch {
+        // Archives might not exist for non-ranking items
+    }
+    appArchiveCache[appId] = archive;
+    return archive;
+}
+
+function renderArchiveSection(archive, appId) {
+    const results = Array.isArray(archive?.results) ? archive.results : (Array.isArray(archive?.history) ? archive.history : []);
+    if (results.length === 0) {
+        return '';
+    }
+
+    const sortedHistory = [...results].sort((a, b) => b.date.localeCompare(a.date));
+    const countries = [...new Set(sortedHistory.map(h => h.country))].sort();
+
+    const historyItemsHtml = sortedHistory.map(entry => {
+        const logoUrl = entry.artworkUrl100 || entry.artworkUrl60 || entry.artworkUrl || '';
+        const versionedLogo = getVersionedLogoPath(appId, logoUrl);
+        const formattedDate = formatDate(entry.date);
+        const countryCode = (entry.country || 'us').toUpperCase();
+        const feedLabel = (entry.feed || '').replace(/-/g, ' ');
+        const rankClass = entry.rank <= 3 ? ` rank-top-${entry.rank}` : '';
+
+        return `
+            <div class="archive-history-item" data-country="${escapeHtml(entry.country)}">
+                <img src="${escapeHtml(versionedLogo)}" alt="${escapeHtml(entry.name || '')}" class="archive-history-icon" loading="lazy" data-fallback="${escapeHtml(logoUrl)}">
+                <div class="archive-history-content">
+                    <div class="archive-history-top">
+                        <span class="archive-date-badge">${escapeHtml(formattedDate)}</span>
+                        <span class="archive-country-badge">${escapeHtml(countryCode)}</span>
+                        <span class="archive-rank-badge${rankClass}">#${entry.rank}</span>
+                    </div>
+                    <div class="archive-history-name">${escapeHtml(entry.name || '')}</div>
+                    <div class="archive-history-meta">${escapeHtml(entry.artistName || '')} • ${escapeHtml(feedLabel)}</div>
+                </div>
+            </div>
+        `;
+    }).join('');
+
+    return `
+        <div class="modal-section archive-section">
+            <h3>Ranking & Icon History (${results.length})</h3>
+            ${countries.length > 1 ? `
+                <div class="archive-filter-tabs">
+                    <button class="archive-tab active" data-filter="all">All (${results.length})</button>
+                    ${countries.map(c => `<button class="archive-tab" data-filter="${escapeHtml(c)}">${escapeHtml(c.toUpperCase())}</button>`).join('')}
+                </div>
+            ` : ''}
+            <div class="archive-history-list">
+                ${historyItemsHtml}
+            </div>
+        </div>
+    `;
+}
+
+function setupArchiveTabs(container) {
+    const tabs = container.querySelectorAll('.archive-tab');
+    const items = container.querySelectorAll('.archive-history-item');
+
+    tabs.forEach(tab => {
+        tab.addEventListener('click', () => {
+            tabs.forEach(t => t.classList.remove('active'));
+            tab.classList.add('active');
+
+            const filter = tab.dataset.filter;
+            items.forEach(item => {
+                if (filter === 'all' || item.dataset.country === filter) {
+                    item.style.display = 'flex';
+                } else {
+                    item.style.display = 'none';
+                }
+            });
+        });
+    });
+
+    container.querySelectorAll('.archive-history-icon').forEach(img => {
+        const fallback = img.dataset.fallback;
+        if (fallback) setImageFallbacks(img, [fallback]);
+    });
 }
 
 async function showAppDetails(appId, basicAppInfo) {
@@ -605,8 +694,12 @@ async function showAppDetails(appId, basicAppInfo) {
     appModal.style.display = "flex";
 
     const currentCountry = countrySelect.value;
-    renderModalContent(await getAppDetails(appId, currentCountry), appId, basicAppInfo);
-}
+    const [details, archive] = await Promise.all([
+        getAppDetails(appId, currentCountry),
+        getAppArchive(appId)
+    ]);
+
+    renderModalContent(details, appId, basicAppInfo, archive);
 }
 
 function formatAppDate(dateString) {
@@ -701,7 +794,7 @@ function renderInfoRows(rows) {
         .join('');
 }
 
-function renderModalContent(details, appId, basicAppInfo) {
+function renderModalContent(details, appId, basicAppInfo, archive) {
     const app = details || {};
     const stableLogoPath = `logos/${appId}.png`;
     const title = app.trackName || app.collectionName || basicAppInfo.name || 'Untitled';
@@ -775,6 +868,8 @@ function renderModalContent(details, appId, basicAppInfo) {
         ];
     }
 
+    const archiveHtml = renderArchiveSection(archive, appId);
+
     modalBody.innerHTML = `
         <div class="modal-header-section">
             <img src="${escapeHtml(localLogoPath)}" alt="${escapeHtml(title)}" class="modal-icon">
@@ -801,10 +896,16 @@ function renderModalContent(details, appId, basicAppInfo) {
             <h3>Information</h3>
             ${renderInfoRows(informationRows)}
         </div>
+
+        ${archiveHtml}
     `;
 
     setImageFallbacks(
         modalBody.querySelector('.modal-icon'),
         [stableLogoPath, versionArtworkUrl]
     );
+
+    if (archiveHtml) {
+        setupArchiveTabs(modalBody.querySelector('.archive-section'));
+    }
 }
