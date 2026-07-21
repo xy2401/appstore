@@ -1,55 +1,959 @@
 {
-  "id": "microsoft",
-  "title": "Microsoft Apps",
-  "description": "Microsoft 发布的官方应用",
-  "country": "us",
-  "mediaType": "apps",
-  "ids": [
-    "6472538445",
-    "541164041",
-    "951937596",
-    "1113153706",
-    "1288723196",
-    "586447913",
-    "586683407",
-    "586449534",
-    "477537958",
-    "410395246",
-    "983156458",
-    "1212616790",
-    "1352499399",
-    "1637682491",
-    "1219301037",
-    "1091505266",
-    "929738808",
-    "1047318566",
-    "1094928825",
-    "1219013620",
-    "345323231",
-    "1526737990",
-    "6448308247",
-    "1018949559",
-    "714464092",
-    "6443686328",
-    "736179781",
-    "1507406707",
-    "719171358",
-    "761397963",
-    "1003997947",
-    "6444014310",
-    "1476326475",
-    "1476329686",
-    "945416273",
-    "289559439",
-    "605841731",
-    "6737987442",
-    "6761068230",
-    "6752790990",
-    "1489209093",
-    "1064676206",
-    "1103438575",
-    "1462494195",
-    "1486892969",
-    "580935508"
-  ]
+  "feed": {
+    "title": "Microsoft Apps",
+    "id": "lists/microsoft-apps.json",
+    "author": {
+      "name": "Apple",
+      "url": "https://www.apple.com/"
+    },
+    "links": [
+      {
+        "self": "lists/microsoft-apps.json"
+      }
+    ],
+    "copyright": "Copyright © 2026 Apple Inc. All rights reserved.",
+    "country": "us",
+    "mediaType": "apps",
+    "description": "Microsoft 发布的官方应用",
+    "icon": "https://www.apple.com/favicon.ico",
+    "updated": "Tue, 21 Jul 2026 08:24:44 +0000",
+    "results": [
+      {
+        "artistName": "Microsoft Corporation",
+        "id": "6472538445",
+        "name": "Microsoft Copilot",
+        "releaseDate": "2023-12-29",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6e/ac/e2/6eace2fe-96d3-d302-75ce-47f477dc23d7/AppIcon_Production-0-0-1x_U007epad-0-4-85-220.png/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "6007",
+            "name": "Productivity",
+            "url": "https://itunes.apple.com/genre/id6007"
+          },
+          {
+            "genreId": "6012",
+            "name": "Lifestyle",
+            "url": "https://itunes.apple.com/genre/id6012"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/microsoft-copilot/id6472538445?uo=4"
+      },
+      {
+        "artistName": "Microsoft Corporation",
+        "id": "541164041",
+        "name": "Microsoft 365 Copilot",
+        "releaseDate": "2013-06-14",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/f0/cc/35f0cc51-ca9c-f54d-2653-b44a8359fd38/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "6007",
+            "name": "Productivity",
+            "url": "https://itunes.apple.com/genre/id6007"
+          },
+          {
+            "genreId": "6000",
+            "name": "Business",
+            "url": "https://itunes.apple.com/genre/id6000"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/microsoft-365-copilot/id541164041?uo=4"
+      },
+      {
+        "artistName": "Microsoft Corporation",
+        "id": "951937596",
+        "name": "Microsoft Outlook",
+        "releaseDate": "2015-01-29",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/79/20/3a792033-0140-efd0-671a-352339e4d4aa/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-0-85-220.png/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "6007",
+            "name": "Productivity",
+            "url": "https://itunes.apple.com/genre/id6007"
+          },
+          {
+            "genreId": "6000",
+            "name": "Business",
+            "url": "https://itunes.apple.com/genre/id6000"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/microsoft-outlook/id951937596?uo=4"
+      },
+      {
+        "artistName": "Microsoft Corporation",
+        "id": "1113153706",
+        "name": "Microsoft Teams",
+        "releaseDate": "2016-11-02",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/d8/1b/96d81bc5-3f5a-a22b-c991-4e00d709717e/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "6000",
+            "name": "Business",
+            "url": "https://itunes.apple.com/genre/id6000"
+          },
+          {
+            "genreId": "6007",
+            "name": "Productivity",
+            "url": "https://itunes.apple.com/genre/id6007"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/microsoft-teams/id1113153706?uo=4"
+      },
+      {
+        "artistName": "Microsoft Corporation",
+        "id": "1288723196",
+        "name": "Microsoft Edge",
+        "releaseDate": "2017-11-30",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/f6/3b/51f63b89-52f5-184e-9808-80f22afbd8ac/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "6002",
+            "name": "Utilities",
+            "url": "https://itunes.apple.com/genre/id6002"
+          },
+          {
+            "genreId": "6007",
+            "name": "Productivity",
+            "url": "https://itunes.apple.com/genre/id6007"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/microsoft-edge/id1288723196?uo=4"
+      },
+      {
+        "artistName": "Microsoft Corporation",
+        "id": "586447913",
+        "name": "Microsoft Word",
+        "releaseDate": "2014-03-27",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/b6/16/bdb6164e-fd6f-c9a6-f62b-c7d4bdb10315/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "6007",
+            "name": "Productivity",
+            "url": "https://itunes.apple.com/genre/id6007"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/microsoft-word/id586447913?uo=4"
+      },
+      {
+        "artistName": "Microsoft Corporation",
+        "id": "586683407",
+        "name": "Microsoft Excel",
+        "releaseDate": "2014-03-27",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/80/99/88809990-20e3-acfe-f7f7-951ec9e57c87/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "6007",
+            "name": "Productivity",
+            "url": "https://itunes.apple.com/genre/id6007"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/microsoft-excel/id586683407?uo=4"
+      },
+      {
+        "artistName": "Microsoft Corporation",
+        "id": "586449534",
+        "name": "Microsoft PowerPoint",
+        "releaseDate": "2014-03-27",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/38/b0/4938b097-be32-e2d1-32d6-74e466e6aa3b/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "6007",
+            "name": "Productivity",
+            "url": "https://itunes.apple.com/genre/id6007"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/microsoft-powerpoint/id586449534?uo=4"
+      },
+      {
+        "artistName": "Microsoft Corporation",
+        "id": "477537958",
+        "name": "Microsoft OneDrive",
+        "releaseDate": "2011-12-13",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/d9/ed/58d9ed95-5d71-f153-8746-fbf436314bae/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "6007",
+            "name": "Productivity",
+            "url": "https://itunes.apple.com/genre/id6007"
+          },
+          {
+            "genreId": "6008",
+            "name": "Photo & Video",
+            "url": "https://itunes.apple.com/genre/id6008"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/microsoft-onedrive/id477537958?uo=4"
+      },
+      {
+        "artistName": "Microsoft Corporation",
+        "id": "410395246",
+        "name": "Microsoft OneNote",
+        "releaseDate": "2011-01-18",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/39/05/81390527-1a7d-0f1e-1039-07175c7b136c/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "6007",
+            "name": "Productivity",
+            "url": "https://itunes.apple.com/genre/id6007"
+          },
+          {
+            "genreId": "6017",
+            "name": "Education",
+            "url": "https://itunes.apple.com/genre/id6017"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/microsoft-onenote/id410395246?uo=4"
+      },
+      {
+        "artistName": "Microsoft Corporation",
+        "id": "983156458",
+        "name": "Microsoft Authenticator",
+        "releaseDate": "2015-05-30",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/5a/6e/fc5a6e9e-4166-895d-d0dc-c9cb4e1a2716/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "6007",
+            "name": "Productivity",
+            "url": "https://itunes.apple.com/genre/id6007"
+          },
+          {
+            "genreId": "6002",
+            "name": "Utilities",
+            "url": "https://itunes.apple.com/genre/id6002"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/microsoft-authenticator/id983156458?uo=4"
+      },
+      {
+        "artistName": "Microsoft Corporation",
+        "id": "1212616790",
+        "name": "Microsoft To Do",
+        "releaseDate": "2017-04-19",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/bc/aa/9ebcaa4a-2f17-4969-fe08-8c251c08674e/To-Do-AppStore-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "6007",
+            "name": "Productivity",
+            "url": "https://itunes.apple.com/genre/id6007"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/microsoft-to-do/id1212616790?uo=4"
+      },
+      {
+        "artistName": "Microsoft Corporation",
+        "id": "1352499399",
+        "name": "Microsoft Whiteboard",
+        "releaseDate": "2018-09-25",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/e5/52/86e55205-e601-ba1d-4e75-4f4d8a708496/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "6007",
+            "name": "Productivity",
+            "url": "https://itunes.apple.com/genre/id6007"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/microsoft-whiteboard/id1352499399?uo=4"
+      },
+      {
+        "artistName": "Microsoft Corporation",
+        "id": "1637682491",
+        "name": "Microsoft Loop",
+        "releaseDate": "2023-10-24",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/09/1c/48091cf8-c383-9fca-69bf-7712bc222090/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "6007",
+            "name": "Productivity",
+            "url": "https://itunes.apple.com/genre/id6007"
+          },
+          {
+            "genreId": "6000",
+            "name": "Business",
+            "url": "https://itunes.apple.com/genre/id6000"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/microsoft-loop/id1637682491?uo=4"
+      },
+      {
+        "artistName": "Microsoft Corporation",
+        "id": "1219301037",
+        "name": "Microsoft Planner",
+        "releaseDate": "2017-05-18",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/0b/aa/290baa52-9160-a5b8-bc25-823dd85ab19a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "6007",
+            "name": "Productivity",
+            "url": "https://itunes.apple.com/genre/id6007"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/microsoft-planner/id1219301037?uo=4"
+      },
+      {
+        "artistName": "Microsoft Corporation",
+        "id": "1091505266",
+        "name": "Microsoft SharePoint",
+        "releaseDate": "2016-06-20",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/e0/bc/6de0bcf4-3bd7-02d5-d2ef-411a0f85ec1c/SharePointAppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "6007",
+            "name": "Productivity",
+            "url": "https://itunes.apple.com/genre/id6007"
+          },
+          {
+            "genreId": "6000",
+            "name": "Business",
+            "url": "https://itunes.apple.com/genre/id6000"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/microsoft-sharepoint/id1091505266?uo=4"
+      },
+      {
+        "artistName": "Microsoft Corporation",
+        "id": "929738808",
+        "name": "Microsoft Power BI",
+        "releaseDate": "2014-12-21",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/7d/99/7a7d9983-96c2-a9c8-0af1-42eed2fc176d/AppIcon-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "6000",
+            "name": "Business",
+            "url": "https://itunes.apple.com/genre/id6000"
+          },
+          {
+            "genreId": "6007",
+            "name": "Productivity",
+            "url": "https://itunes.apple.com/genre/id6007"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/microsoft-power-bi/id929738808?uo=4"
+      },
+      {
+        "artistName": "Microsoft Corporation",
+        "id": "1047318566",
+        "name": "Power Apps",
+        "releaseDate": "2015-11-30",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/f0/0b/5af00b00-6dfd-4cc9-39d7-b537875dca8d/PowerApps_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "6000",
+            "name": "Business",
+            "url": "https://itunes.apple.com/genre/id6000"
+          },
+          {
+            "genreId": "6002",
+            "name": "Utilities",
+            "url": "https://itunes.apple.com/genre/id6002"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/power-apps/id1047318566?uo=4"
+      },
+      {
+        "artistName": "Microsoft Corporation",
+        "id": "1094928825",
+        "name": "Power Automate",
+        "releaseDate": "2016-06-20",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/84/b5/4484b570-586e-e5b0-f9b7-229be1a04ba3/AppIcon-1x_U007ephone-0-1-85-220-0.png/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "6000",
+            "name": "Business",
+            "url": "https://itunes.apple.com/genre/id6000"
+          },
+          {
+            "genreId": "6007",
+            "name": "Productivity",
+            "url": "https://itunes.apple.com/genre/id6007"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/power-automate/id1094928825?uo=4"
+      },
+      {
+        "artistName": "Microsoft Corporation",
+        "id": "1219013620",
+        "name": "Microsoft Azure",
+        "releaseDate": "2017-05-09",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/c9/73/0cc973ae-3708-3e1e-6730-8557953eac9d/AppIcons-0-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "6000",
+            "name": "Business",
+            "url": "https://itunes.apple.com/genre/id6000"
+          },
+          {
+            "genreId": "6007",
+            "name": "Productivity",
+            "url": "https://itunes.apple.com/genre/id6007"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/microsoft-azure/id1219013620?uo=4"
+      },
+      {
+        "artistName": "Microsoft Corporation",
+        "id": "345323231",
+        "name": "Microsoft Bing Search",
+        "releaseDate": "2009-12-16",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/56/28/435628cc-4372-c248-b150-7b8ed9892e72/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "6007",
+            "name": "Productivity",
+            "url": "https://itunes.apple.com/genre/id6007"
+          },
+          {
+            "genreId": "6002",
+            "name": "Utilities",
+            "url": "https://itunes.apple.com/genre/id6002"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/microsoft-bing-search/id345323231?uo=4"
+      },
+      {
+        "artistName": "Microsoft Corporation",
+        "id": "1526737990",
+        "name": "Microsoft Defender: Security",
+        "releaseDate": "2020-11-29",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/5e/8c/1c5e8c24-2259-eca8-930b-449f5e8041c3/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "6000",
+            "name": "Business",
+            "url": "https://itunes.apple.com/genre/id6000"
+          },
+          {
+            "genreId": "6002",
+            "name": "Utilities",
+            "url": "https://itunes.apple.com/genre/id6002"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/microsoft-defender-security/id1526737990?uo=4"
+      },
+      {
+        "artistName": "Microsoft Corporation",
+        "id": "6448308247",
+        "name": "Microsoft Designer",
+        "releaseDate": "2024-06-11",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/ea/76/3eea76bc-20c6-4571-6f4e-90fde1a12c33/AppIcon-0-1x_U007ephone-0-1-0-0-85-220-0.png/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "6027",
+            "name": "Graphics & Design",
+            "url": "https://itunes.apple.com/genre/id6027"
+          },
+          {
+            "genreId": "6007",
+            "name": "Productivity",
+            "url": "https://itunes.apple.com/genre/id6007"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/microsoft-designer/id6448308247?uo=4"
+      },
+      {
+        "artistName": "Microsoft Corporation",
+        "id": "1018949559",
+        "name": "Microsoft Translator",
+        "releaseDate": "2015-08-06",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/14/3d/2c143da8-2998-a6aa-a03c-7e7f1a0b0703/AppIcon-0-1x_U007emarketing-0-11-0-0-85-220-0.png/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "6007",
+            "name": "Productivity",
+            "url": "https://itunes.apple.com/genre/id6007"
+          },
+          {
+            "genreId": "6003",
+            "name": "Travel",
+            "url": "https://itunes.apple.com/genre/id6003"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/microsoft-translator/id1018949559?uo=4"
+      },
+      {
+        "artistName": "Microsoft Corporation",
+        "id": "714464092",
+        "name": "Windows App Mobile",
+        "releaseDate": "2013-10-18",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/f5/9e/39f59e3f-5392-b524-cb2f-fc642ebca3ba/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "6000",
+            "name": "Business",
+            "url": "https://itunes.apple.com/genre/id6000"
+          },
+          {
+            "genreId": "6007",
+            "name": "Productivity",
+            "url": "https://itunes.apple.com/genre/id6007"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/windows-app-mobile/id714464092?uo=4"
+      },
+      {
+        "artistName": "Microsoft Corporation",
+        "id": "6443686328",
+        "name": "Link to Windows",
+        "releaseDate": "2023-02-28",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/c2/b4/55c2b484-970b-e646-838b-dfc056138d11/AppIcon-0-1x_U007ephone-0-1-0-85-220-0.png/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "6007",
+            "name": "Productivity",
+            "url": "https://itunes.apple.com/genre/id6007"
+          },
+          {
+            "genreId": "6002",
+            "name": "Utilities",
+            "url": "https://itunes.apple.com/genre/id6002"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/link-to-windows/id6443686328?uo=4"
+      },
+      {
+        "artistName": "Microsoft Corporation",
+        "id": "736179781",
+        "name": "XBOX",
+        "releaseDate": "2013-11-19",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/2a/90/192a9094-542e-db6b-5fd3-944c4e83320c/AppIcon-1x_U007epad-0-1-85-220-0.png/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "6016",
+            "name": "Entertainment",
+            "url": "https://itunes.apple.com/genre/id6016"
+          },
+          {
+            "genreId": "6014",
+            "name": "Games",
+            "url": "https://itunes.apple.com/genre/id6014"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/xbox/id736179781?uo=4"
+      },
+      {
+        "artistName": "Microsoft Corporation",
+        "id": "1507406707",
+        "name": "Xbox Family Settings",
+        "releaseDate": "2020-09-23",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/d0/86/f2d08688-db07-f0a2-cd2a-c1a7bfa6e7f0/AppIcon-Release-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "6012",
+            "name": "Lifestyle",
+            "url": "https://itunes.apple.com/genre/id6012"
+          },
+          {
+            "genreId": "6016",
+            "name": "Entertainment",
+            "url": "https://itunes.apple.com/genre/id6016"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/xbox-family-settings/id1507406707?uo=4"
+      },
+      {
+        "artistName": "Microsoft Corporation",
+        "id": "719171358",
+        "name": "Intune Company Portal",
+        "releaseDate": "2013-11-19",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/96/7e/73967e6d-3368-4f87-1ffa-a878582a8e98/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "6000",
+            "name": "Business",
+            "url": "https://itunes.apple.com/genre/id6000"
+          },
+          {
+            "genreId": "6007",
+            "name": "Productivity",
+            "url": "https://itunes.apple.com/genre/id6007"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/intune-company-portal/id719171358?uo=4"
+      },
+      {
+        "artistName": "Microsoft Corporation",
+        "id": "761397963",
+        "name": "Microsoft 365 Admin",
+        "releaseDate": "2013-12-12",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/33/81/ae3381f4-7438-5861-f7ee-b31d9585ba27/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "6007",
+            "name": "Productivity",
+            "url": "https://itunes.apple.com/genre/id6007"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/microsoft-365-admin/id761397963?uo=4"
+      },
+      {
+        "artistName": "Microsoft Corporation",
+        "id": "1003997947",
+        "name": "Dynamics 365 for phones",
+        "releaseDate": "2015-07-13",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/86/68/0b866877-ca04-1d24-cfdd-07aa2da2cda9/Dynamics_AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "6000",
+            "name": "Business",
+            "url": "https://itunes.apple.com/genre/id6000"
+          },
+          {
+            "genreId": "6007",
+            "name": "Productivity",
+            "url": "https://itunes.apple.com/genre/id6007"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/dynamics-365-for-phones/id1003997947?uo=4"
+      },
+      {
+        "artistName": "Microsoft Corporation",
+        "id": "6444014310",
+        "name": "Microsoft Warehouse Management",
+        "releaseDate": "2023-04-20",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/ef/b2/79efb2d6-d239-b3d5-e6da-9543d8f4d11c/AppIcon-0-1x_U007epad-0-1-85-220-0.png/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "6000",
+            "name": "Business",
+            "url": "https://itunes.apple.com/genre/id6000"
+          },
+          {
+            "genreId": "6007",
+            "name": "Productivity",
+            "url": "https://itunes.apple.com/genre/id6007"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/microsoft-warehouse-management/id6444014310?uo=4"
+      },
+      {
+        "artistName": "Microsoft Corporation",
+        "id": "1476326475",
+        "name": "Microsoft MyHub",
+        "releaseDate": "2020-07-01",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/31/ce/0531cee1-9406-54f5-b737-b915e33cf3c7/AppIcon.prod-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "6000",
+            "name": "Business",
+            "url": "https://itunes.apple.com/genre/id6000"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/microsoft-myhub/id1476326475?uo=4"
+      },
+      {
+        "artistName": "Microsoft Corporation",
+        "id": "1476329686",
+        "name": "Microsoft Surface",
+        "releaseDate": "2020-05-07",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/a9/4c/23a94c72-1586-5379-bd70-c9e05f3d2668/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220-0.png/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "6002",
+            "name": "Utilities",
+            "url": "https://itunes.apple.com/genre/id6002"
+          },
+          {
+            "genreId": "6007",
+            "name": "Productivity",
+            "url": "https://itunes.apple.com/genre/id6007"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/microsoft-surface/id1476329686?uo=4"
+      },
+      {
+        "artistName": "Microsoft Corporation",
+        "id": "945416273",
+        "name": "MSN",
+        "releaseDate": "2014-12-11",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/33/63/3f336345-7446-ef7e-699f-43e8ec7a668a/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.jpeg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "6009",
+            "name": "News",
+            "url": "https://itunes.apple.com/genre/id6009"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/msn/id945416273?uo=4"
+      },
+      {
+        "artistName": "Microsoft Corporation",
+        "id": "289559439",
+        "name": "Viva Engage",
+        "releaseDate": "2019-02-12",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/d4/61/e5d46183-fc78-b170-047f-34d182d1713a/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "6000",
+            "name": "Business",
+            "url": "https://itunes.apple.com/genre/id6000"
+          },
+          {
+            "genreId": "6007",
+            "name": "Productivity",
+            "url": "https://itunes.apple.com/genre/id6007"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/viva-engage/id289559439?uo=4"
+      },
+      {
+        "artistName": "Microsoft Corporation",
+        "id": "605841731",
+        "name": "Skype for Business",
+        "releaseDate": "2013-03-12",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/27/ee/b327ee1f-d14c-6650-21cf-71294902677e/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "6000",
+            "name": "Business",
+            "url": "https://itunes.apple.com/genre/id6000"
+          },
+          {
+            "genreId": "6007",
+            "name": "Productivity",
+            "url": "https://itunes.apple.com/genre/id6007"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/skype-for-business/id605841731?uo=4"
+      },
+      {
+        "artistName": "Microsoft Corporation",
+        "id": "6737987442",
+        "name": "Microsoft Dragon Copilot",
+        "releaseDate": "2025-01-10",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/e3/9a/02e39a25-b304-9d0a-6c88-029b73b8f99d/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "6020",
+            "name": "Medical",
+            "url": "https://itunes.apple.com/genre/id6020"
+          },
+          {
+            "genreId": "6007",
+            "name": "Productivity",
+            "url": "https://itunes.apple.com/genre/id6007"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/microsoft-dragon-copilot/id6737987442?uo=4"
+      },
+      {
+        "artistName": "Microsoft Corporation",
+        "id": "6761068230",
+        "name": "Microsoft Events",
+        "releaseDate": "2026-05-04",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/75/0f/a6750f1c-f212-216b-e886-0c42e74c54f7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "6000",
+            "name": "Business",
+            "url": "https://itunes.apple.com/genre/id6000"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/microsoft-events/id6761068230?uo=4"
+      },
+      {
+        "artistName": "Microsoft Corporation",
+        "id": "6752790990",
+        "name": "Microsoft Cloud Switcher",
+        "releaseDate": "2026-03-17",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/de/01/b4de01c0-68d0-8e56-73cd-22bfacd275a7/appicon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "6002",
+            "name": "Utilities",
+            "url": "https://itunes.apple.com/genre/id6002"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/microsoft-cloud-switcher/id6752790990?uo=4"
+      },
+      {
+        "artistName": "Microsoft Corporation",
+        "id": "1489209093",
+        "name": "Microsoft Family Safety",
+        "releaseDate": "2020-07-28",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/8a/7d/0f8a7d26-4d70-26de-348d-885ba6913359/AppIcon-prod-1x_U007emarketing-0-6-0-0-85-220-0.png/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "6012",
+            "name": "Lifestyle",
+            "url": "https://itunes.apple.com/genre/id6012"
+          },
+          {
+            "genreId": "6002",
+            "name": "Utilities",
+            "url": "https://itunes.apple.com/genre/id6002"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/microsoft-family-safety/id1489209093?uo=4"
+      },
+      {
+        "artistName": "Microsoft Corporation",
+        "id": "1064676206",
+        "name": "Microsoft Selfie",
+        "releaseDate": "2015-12-28",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/1e/bc/23/1ebc2320-6fd1-013e-8b0f-27d63bc05512/mzl.ehivcvqm.png/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "6008",
+            "name": "Photo & Video",
+            "url": "https://itunes.apple.com/genre/id6008"
+          },
+          {
+            "genreId": "6016",
+            "name": "Entertainment",
+            "url": "https://itunes.apple.com/genre/id6016"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/microsoft-selfie/id1064676206?uo=4"
+      },
+      {
+        "artistName": "Microsoft Corporation",
+        "id": "1103438575",
+        "name": "Microsoft Solitaire Collection",
+        "releaseDate": "2016-11-23",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/65/cd/c0/65cdc014-aa74-4101-ba19-412af7ade566/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "6014",
+            "name": "Games",
+            "url": "https://itunes.apple.com/genre/id6014"
+          },
+          {
+            "genreId": "6016",
+            "name": "Entertainment",
+            "url": "https://itunes.apple.com/genre/id6016"
+          },
+          {
+            "genreId": "7006",
+            "name": "Casino",
+            "url": "https://itunes.apple.com/genre/id7006"
+          },
+          {
+            "genreId": "7005",
+            "name": "Card",
+            "url": "https://itunes.apple.com/genre/id7005"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/microsoft-solitaire-collection/id1103438575?uo=4"
+      },
+      {
+        "artistName": "Microsoft Corporation",
+        "id": "1462494195",
+        "name": "Microsoft Sudoku",
+        "releaseDate": "2020-02-24",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/60/c1/83/60c18318-436e-01f7-411d-ff0dfffc5a1d/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "6014",
+            "name": "Games",
+            "url": "https://itunes.apple.com/genre/id6014"
+          },
+          {
+            "genreId": "7012",
+            "name": "Puzzle",
+            "url": "https://itunes.apple.com/genre/id7012"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/microsoft-sudoku/id1462494195?uo=4"
+      },
+      {
+        "artistName": "Microsoft Corporation",
+        "id": "1486892969",
+        "name": "Mahjong by Microsoft",
+        "releaseDate": "2021-01-12",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/3a/a9/583aa9ef-df6d-091d-595d-bb4d09321842/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "6014",
+            "name": "Games",
+            "url": "https://itunes.apple.com/genre/id6014"
+          },
+          {
+            "genreId": "7003",
+            "name": "Casual",
+            "url": "https://itunes.apple.com/genre/id7003"
+          },
+          {
+            "genreId": "7012",
+            "name": "Puzzle",
+            "url": "https://itunes.apple.com/genre/id7012"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/mahjong-by-microsoft/id1486892969?uo=4"
+      },
+      {
+        "artistName": "Microsoft Corporation",
+        "id": "580935508",
+        "name": "Microsoft Wordament",
+        "releaseDate": "2012-12-21",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/81/06/4f810601-692c-12d6-0cbe-0752ffed1e2e/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "6014",
+            "name": "Games",
+            "url": "https://itunes.apple.com/genre/id6014"
+          },
+          {
+            "genreId": "7004",
+            "name": "Board",
+            "url": "https://itunes.apple.com/genre/id7004"
+          },
+          {
+            "genreId": "6016",
+            "name": "Entertainment",
+            "url": "https://itunes.apple.com/genre/id6016"
+          },
+          {
+            "genreId": "7019",
+            "name": "Word",
+            "url": "https://itunes.apple.com/genre/id7019"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/microsoft-wordament/id580935508?uo=4"
+      }
+    ]
+  }
 }

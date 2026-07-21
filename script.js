@@ -111,7 +111,7 @@ function fetchJson(path) {
 Promise.all([
     fetchJson('rankings.json'),
     Promise.all(CURATED_LIST_PATHS.map(path => (
-        fetchJson(path).then(list => ({ ...list, path }))
+        fetchJson(path).then(data => ({ ...(data.feed || data), path }))
     )))
 ])
     .then(([files, lists]) => {
@@ -636,10 +636,15 @@ async function loadCuratedApps(listId) {
     }
 
     appGrid.innerHTML = '<div class="loading">Loading curated apps...</div>';
-    const apps = await Promise.all((list.ids || []).map(async value => {
-        const id = String(value);
-        return createCuratedApp(id, await getAppDetails(id));
-    }));
+    let apps;
+    if (list.results) {
+        apps = list.results;
+    } else {
+        apps = await Promise.all((list.ids || []).map(async value => {
+            const id = String(value);
+            return createCuratedApp(id, await getAppDetails(id));
+        }));
+    }
     renderApps(apps, { collection: list });
 }
 

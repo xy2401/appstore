@@ -1,20 +1,249 @@
 {
-  "id": "ai",
-  "title": "AI Apps",
-  "description": "主流 AI 服务的官方应用",
-  "country": "us",
-  "mediaType": "apps",
-  "ids": [
-    "6448311069",
-    "6473753684",
-    "6477489729",
-    "6472538445",
-    "1668000334",
-    "6670324846",
-    "6737597349",
-    "1640745955",
-    "6740410176",
-    "6737527615",
-    "1558240027"
-  ]
+  "feed": {
+    "title": "AI Apps",
+    "id": "lists/ai-apps.json",
+    "author": {
+      "name": "Apple",
+      "url": "https://www.apple.com/"
+    },
+    "links": [
+      {
+        "self": "lists/ai-apps.json"
+      }
+    ],
+    "copyright": "Copyright © 2026 Apple Inc. All rights reserved.",
+    "country": "us",
+    "mediaType": "apps",
+    "description": "主流 AI 服务的官方应用",
+    "icon": "https://www.apple.com/favicon.ico",
+    "updated": "Tue, 21 Jul 2026 08:24:44 +0000",
+    "results": [
+      {
+        "artistName": "OpenAI OpCo, LLC",
+        "id": "6448311069",
+        "name": "ChatGPT",
+        "releaseDate": "2023-05-24",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/b8/66/1bb86608-721f-bc92-5c02-1f2ddf30b055/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "6007",
+            "name": "Produktivität",
+            "url": "https://itunes.apple.com/genre/id6007"
+          },
+          {
+            "genreId": "6002",
+            "name": "Dienst­programme",
+            "url": "https://itunes.apple.com/genre/id6002"
+          }
+        ],
+        "url": "https://apps.apple.com/de/app/chatgpt/id6448311069?uo=4"
+      },
+      {
+        "artistName": "Anthropic PBC",
+        "id": "6473753684",
+        "name": "Claude by Anthropic",
+        "releaseDate": "2024-05-13",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/56/f5/0956f5d8-19e7-5aab-24e5-6dc7cef01611/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "6007",
+            "name": "Produktivität",
+            "url": "https://itunes.apple.com/genre/id6007"
+          },
+          {
+            "genreId": "6000",
+            "name": "Wirtschaft",
+            "url": "https://itunes.apple.com/genre/id6000"
+          }
+        ],
+        "url": "https://apps.apple.com/de/app/claude-by-anthropic/id6473753684?uo=4"
+      },
+      {
+        "artistName": "Google",
+        "id": "6477489729",
+        "name": "Google Gemini",
+        "releaseDate": "2024-11-13",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/a7/53/46a75369-61ed-b52a-0913-8b9b9a486a26/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "6007",
+            "name": "Produktivität",
+            "url": "https://itunes.apple.com/genre/id6007"
+          },
+          {
+            "genreId": "6002",
+            "name": "Dienst­programme",
+            "url": "https://itunes.apple.com/genre/id6002"
+          }
+        ],
+        "url": "https://apps.apple.com/de/app/google-gemini/id6477489729?uo=4"
+      },
+      {
+        "artistName": "Microsoft Corporation",
+        "id": "6472538445",
+        "name": "Microsoft Copilot",
+        "releaseDate": "2023-12-29",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6e/ac/e2/6eace2fe-96d3-d302-75ce-47f477dc23d7/AppIcon_Production-0-0-1x_U007epad-0-4-85-220.png/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "6007",
+            "name": "Productivity",
+            "url": "https://itunes.apple.com/genre/id6007"
+          },
+          {
+            "genreId": "6012",
+            "name": "Lifestyle",
+            "url": "https://itunes.apple.com/genre/id6012"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/microsoft-copilot/id6472538445?uo=4"
+      },
+      {
+        "artistName": "Perplexity AI, Inc.",
+        "id": "1668000334",
+        "name": "Perplexity - AI Search & Chat",
+        "releaseDate": "2023-03-27",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/04/ae/5604ae0d-a879-4686-daeb-444fa0c9e833/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "6007",
+            "name": "Productivity",
+            "url": "https://itunes.apple.com/genre/id6007"
+          },
+          {
+            "genreId": "6002",
+            "name": "Utilities",
+            "url": "https://itunes.apple.com/genre/id6002"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/perplexity-ai-search-chat/id1668000334?uo=4"
+      },
+      {
+        "artistName": "X Corp.",
+        "id": "6670324846",
+        "name": "Grok - Assistant IA",
+        "releaseDate": "2025-02-19",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/65/5b/d9/655bd9e4-8257-db16-d96e-53665adb16e0/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-P3-0-85-220.png/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "6007",
+            "name": "Productivité",
+            "url": "https://itunes.apple.com/genre/id6007"
+          },
+          {
+            "genreId": "6002",
+            "name": "Utilitaires",
+            "url": "https://itunes.apple.com/genre/id6002"
+          }
+        ],
+        "url": "https://apps.apple.com/fr/app/grok-assistant-ia/id6670324846?uo=4"
+      },
+      {
+        "artistName": "杭州深度求索人工智能基础技术研究有限公司",
+        "id": "6737597349",
+        "name": "DeepSeek - AI 智能助手",
+        "releaseDate": "2025-01-10",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/11/1c/cd111c71-432e-031f-43fc-5459925ccc73/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "6007",
+            "name": "效率",
+            "url": "https://itunes.apple.com/genre/id6007"
+          }
+        ],
+        "url": "https://apps.apple.com/cn/app/deepseek-ai-%E6%99%BA%E8%83%BD%E5%8A%A9%E6%89%8B/id6737597349?uo=4"
+      },
+      {
+        "artistName": "Quora, Inc.",
+        "id": "1640745955",
+        "name": "Poe – Fast AI Chat",
+        "releaseDate": "2022-12-19",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/d7/d9/fcd7d9f6-f89f-5b69-21f9-eaa3e82b6f09/AppIcon_Poe-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "6007",
+            "name": "Productivity",
+            "url": "https://itunes.apple.com/genre/id6007"
+          },
+          {
+            "genreId": "6006",
+            "name": "Reference",
+            "url": "https://itunes.apple.com/genre/id6006"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/poe-fast-ai-chat/id1640745955?uo=4"
+      },
+      {
+        "artistName": "Mistral AI",
+        "id": "6740410176",
+        "name": "Vibe by Mistral (ex-Le Chat)",
+        "releaseDate": "2025-02-05",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/96/9c/36969c40-f159-6468-28ed-aaff1022ebbf/chat-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "6007",
+            "name": "Productivity",
+            "url": "https://itunes.apple.com/genre/id6007"
+          },
+          {
+            "genreId": "6002",
+            "name": "Utilities",
+            "url": "https://itunes.apple.com/genre/id6002"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/vibe-by-mistral-ex-le-chat/id6740410176?uo=4"
+      },
+      {
+        "artistName": "Google",
+        "id": "6737527615",
+        "name": "Gemini Notebook",
+        "releaseDate": "2025-05-19",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/b6/a6/62b6a669-932b-6efd-781d-52214bfd57fc/logo_gemini_notebook_ios_color-0-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220.png/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "6007",
+            "name": "Productivity",
+            "url": "https://itunes.apple.com/genre/id6007"
+          },
+          {
+            "genreId": "6017",
+            "name": "Education",
+            "url": "https://itunes.apple.com/genre/id6017"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/gemini-notebook/id6737527615?uo=4"
+      },
+      {
+        "artistName": "Meta Platforms, Inc.",
+        "id": "1558240027",
+        "name": "Meta AI",
+        "releaseDate": "2022-02-25",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/23/1e/10231e9b-3977-7cd2-e0b8-f2fca526cd0c/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "6007",
+            "name": "Productivité",
+            "url": "https://itunes.apple.com/genre/id6007"
+          },
+          {
+            "genreId": "6008",
+            "name": "Photo et vidéo",
+            "url": "https://itunes.apple.com/genre/id6008"
+          }
+        ],
+        "url": "https://apps.apple.com/fr/app/meta-ai/id1558240027?uo=4"
+      }
+    ]
+  }
 }

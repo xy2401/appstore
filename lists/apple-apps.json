@@ -1,22 +1,271 @@
 {
-  "id": "apple",
-  "title": "Apple Apps",
-  "description": "Apple 发布的官方应用",
-  "country": "us",
-  "mediaType": "apps",
-  "ids": [
-    "525463029",
-    "364709193",
-    "1598433714",
-    "375380948",
-    "1130498044",
-    "1514844621",
-    "915249334",
-    "899247664",
-    "408709785",
-    "377298193",
-    "361285480",
-    "361309726",
-    "361304891"
-  ]
+  "feed": {
+    "title": "Apple Apps",
+    "id": "lists/apple-apps.json",
+    "author": {
+      "name": "Apple",
+      "url": "https://www.apple.com/"
+    },
+    "links": [
+      {
+        "self": "lists/apple-apps.json"
+      }
+    ],
+    "copyright": "Copyright © 2026 Apple Inc. All rights reserved.",
+    "country": "us",
+    "mediaType": "apps",
+    "description": "Apple 发布的官方应用",
+    "icon": "https://www.apple.com/favicon.ico",
+    "updated": "Tue, 21 Jul 2026 08:24:44 +0000",
+    "results": [
+      {
+        "artistName": "Apple",
+        "id": "525463029",
+        "name": "Apple Podcasts",
+        "releaseDate": "2012-06-26",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/c0/0b/85c00b80-1cb9-86af-34b0-9d5dd48282c2/podcasts-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "6016",
+            "name": "Entertainment",
+            "url": "https://itunes.apple.com/genre/id6016"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/apple-podcasts/id525463029?uo=4"
+      },
+      {
+        "artistName": "Apple",
+        "id": "364709193",
+        "name": "Apple Books",
+        "releaseDate": "2010-04-02",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/29/87/fc29870e-93f7-1c92-9805-c21f1679f245/books-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "6018",
+            "name": "Books",
+            "url": "https://itunes.apple.com/genre/id6018"
+          },
+          {
+            "genreId": "6016",
+            "name": "Entertainment",
+            "url": "https://itunes.apple.com/genre/id6016"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/apple-books/id364709193?uo=4"
+      },
+      {
+        "artistName": "Apple",
+        "id": "1598433714",
+        "name": "Apple Music Classical",
+        "releaseDate": "2023-03-28",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/a0/fd/fca0fd57-dcca-d7b6-392d-d1aee0dc8e6d/AppIcon-0-1x_U007epad-0-0-0-1-0-0-85-220-0.png/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "6011",
+            "name": "Music",
+            "url": "https://itunes.apple.com/genre/id6011"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/apple-music-classical/id1598433714?uo=4"
+      },
+      {
+        "artistName": "Apple",
+        "id": "375380948",
+        "name": "Apple Store",
+        "releaseDate": "2010-06-15",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/00/51/ba0051e9-ea98-38a2-1bb5-e3df6a43d6d6/AppIcon-0-1x_U007epad-0-0-0-1-0-0-85-220-0.png/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "6024",
+            "name": "Shopping",
+            "url": "https://itunes.apple.com/genre/id6024"
+          },
+          {
+            "genreId": "6012",
+            "name": "Lifestyle",
+            "url": "https://itunes.apple.com/genre/id6012"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/apple-store/id375380948?uo=4"
+      },
+      {
+        "artistName": "Apple",
+        "id": "1130498044",
+        "name": "Apple Support",
+        "releaseDate": "2016-12-14",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/e8/36/04e83684-5e28-ddb1-12a7-547c85829cfd/AppIcon-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220-0.png/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "6002",
+            "name": "Utilities",
+            "url": "https://itunes.apple.com/genre/id6002"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/apple-support/id1130498044?uo=4"
+      },
+      {
+        "artistName": "Apple",
+        "id": "1514844621",
+        "name": "Find My",
+        "releaseDate": "2020-06-22",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/f8/dc/e7f8dca5-9326-58ce-a058-74269c035717/findmy-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "6002",
+            "name": "Utilities",
+            "url": "https://itunes.apple.com/genre/id6002"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/find-my/id1514844621?uo=4"
+      },
+      {
+        "artistName": "Apple",
+        "id": "915249334",
+        "name": "Shortcuts",
+        "releaseDate": "2014-12-11",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/3e/52/07/3e520776-0908-893c-2248-6c9d29a03cc7/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "6007",
+            "name": "Productivity",
+            "url": "https://itunes.apple.com/genre/id6007"
+          },
+          {
+            "genreId": "6002",
+            "name": "Utilities",
+            "url": "https://itunes.apple.com/genre/id6002"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/shortcuts/id915249334?uo=4"
+      },
+      {
+        "artistName": "Apple",
+        "id": "899247664",
+        "name": "TestFlight",
+        "releaseDate": "2014-07-23",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/85/68/dd856873-5ed1-e70e-750a-b826aaa80c64/AppIcon-0-1x_U007epad-0-1-0-P3-85-220-0.png/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "6026",
+            "name": "Developer Tools",
+            "url": "https://itunes.apple.com/genre/id6026"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/testflight/id899247664?uo=4"
+      },
+      {
+        "artistName": "Apple",
+        "id": "408709785",
+        "name": "GarageBand",
+        "releaseDate": "2011-03-10",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/b3/a4/07b3a4b9-5372-25d8-78be-b89ea37c9cc9/AppIcon-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220-0.png/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "6011",
+            "name": "Music",
+            "url": "https://itunes.apple.com/genre/id6011"
+          },
+          {
+            "genreId": "6012",
+            "name": "Lifestyle",
+            "url": "https://itunes.apple.com/genre/id6012"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/garageband/id408709785?uo=4"
+      },
+      {
+        "artistName": "Apple",
+        "id": "377298193",
+        "name": "iMovie",
+        "releaseDate": "2010-06-24",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/cc/74/0ecc74b6-54f6-f43b-b3d9-e2ba1d81ebc6/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "6008",
+            "name": "Photo & Video",
+            "url": "https://itunes.apple.com/genre/id6008"
+          },
+          {
+            "genreId": "6012",
+            "name": "Lifestyle",
+            "url": "https://itunes.apple.com/genre/id6012"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/imovie/id377298193?uo=4"
+      },
+      {
+        "artistName": "Apple",
+        "id": "361285480",
+        "name": "Keynote: Design Presentations",
+        "releaseDate": "2010-04-01",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/a6/27/20a62723-90b8-3bcc-b1aa-1ad19e039652/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220-0.png/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "6007",
+            "name": "Productivity",
+            "url": "https://itunes.apple.com/genre/id6007"
+          },
+          {
+            "genreId": "6000",
+            "name": "Business",
+            "url": "https://itunes.apple.com/genre/id6000"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/keynote-design-presentations/id361285480?uo=4"
+      },
+      {
+        "artistName": "Apple",
+        "id": "361309726",
+        "name": "Pages: Create Documents",
+        "releaseDate": "2010-04-01",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/38/be/ab38bece-90e5-a842-a091-b06d104e8b86/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220-0.png/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "6007",
+            "name": "Productivity",
+            "url": "https://itunes.apple.com/genre/id6007"
+          },
+          {
+            "genreId": "6000",
+            "name": "Business",
+            "url": "https://itunes.apple.com/genre/id6000"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/pages-create-documents/id361309726?uo=4"
+      },
+      {
+        "artistName": "Apple",
+        "id": "361304891",
+        "name": "Numbers: Make Spreadsheets",
+        "releaseDate": "2010-04-01",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/49/77/3b497790-0cb5-1ea3-37c3-83086adbfe3c/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220-0.png/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "6007",
+            "name": "Productivity",
+            "url": "https://itunes.apple.com/genre/id6007"
+          },
+          {
+            "genreId": "6000",
+            "name": "Business",
+            "url": "https://itunes.apple.com/genre/id6000"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/numbers-make-spreadsheets/id361304891?uo=4"
+      }
+    ]
+  }
 }
