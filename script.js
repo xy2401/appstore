@@ -296,7 +296,16 @@ function formatFileSize(bytes) {
     return `${(size / 1024 ** 2).toFixed(1)} MB`;
 }
 
+const OFFICIAL_MEDIA_LOGOS = {
+    apps: { id: '375380948', alt: 'Apple Store' },
+    music: { id: '1598433714', alt: 'Apple Music Classical' },
+    podcasts: { id: '525463029', alt: 'Apple Podcasts' },
+    books: { id: '364709193', alt: 'Apple Books' },
+    'audio-books': { id: '364709193', alt: 'Apple Books' }
+};
+
 function renderMediaIcon(mediaType) {
+    const official = OFFICIAL_MEDIA_LOGOS[mediaType];
     const iconIds = {
         apps: 'media-icon-apps',
         music: 'media-icon-music',
@@ -304,8 +313,20 @@ function renderMediaIcon(mediaType) {
         books: 'media-icon-books',
         'audio-books': 'media-icon-audio-books'
     };
-    const iconId = iconIds[mediaType] || 'media-icon-file';
-    return `<svg viewBox="0 0 24 24"><use href="#${iconId}"></use></svg>`;
+    const fallbackSvgId = iconIds[mediaType] || 'media-icon-file';
+    const svgFallbackHtml = `<svg viewBox="0 0 24 24" class="media-svg-icon"><use href="#${fallbackSvgId}"></use></svg>`;
+
+    if (official) {
+        return `
+            <img src="logos/${official.id}.png" 
+                 alt="${escapeHtml(official.alt)}" 
+                 class="media-official-logo" 
+                 loading="lazy" 
+                 onerror="this.style.display='none';if(this.nextElementSibling)this.nextElementSibling.style.display='block';">
+            ${svgFallbackHtml.replace('<svg ', '<svg style="display:none;" ')}
+        `.trim();
+    }
+    return svgFallbackHtml;
 }
 
 function formatCountryName(country) {

@@ -778,7 +778,17 @@ main {
     color: var(--app-icon-color);
     background: linear-gradient(145deg, rgba(10, 132, 255, 0.32), rgba(10, 132, 255, 0.1));
     border: 1px solid rgba(100, 181, 255, 0.3);
-    border-radius: 12px;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.media-official-logo {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 9px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.18);
+    display: block;
 }
 
 .json-file-icon svg {
