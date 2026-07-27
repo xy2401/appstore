@@ -1,5 +1,5 @@
 {
-  "resultCount": 4,
+  "resultCount": 5,
   "results": [
     {
       "date": "20260406",
@@ -87,10 +87,38 @@
     },
     {
       "date": "20260701",
+      "country": "gb",
+      "mediaType": "music",
+      "feed": "top-songs",
+      "rank": 75,
+      "artistName": "Luke Combs",
+      "id": "1666738581",
+      "name": "Where the Wild Things Are",
+      "releaseDate": "2023-03-24",
+      "kind": "songs",
+      "artistId": "815635315",
+      "artistUrl": "https://music.apple.com/gb/artist/luke-combs/815635315",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/7d/24/14/7d241439-671a-d957-9613-2f738f43a064/196589485991.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "6",
+          "name": "Country",
+          "url": "https://itunes.apple.com/gb/genre/id6"
+        },
+        {
+          "genreId": "34",
+          "name": "Music",
+          "url": "https://itunes.apple.com/gb/genre/id34"
+        }
+      ],
+      "url": "https://music.apple.com/gb/album/where-the-wild-things-are/1666738524?i=1666738581"
+    },
+    {
+      "date": "20260701",
       "country": "us",
       "mediaType": "music",
       "feed": "top-songs",
-      "rank": 69,
+      "rank": 53,
       "artistName": "Luke Combs",
       "id": "1666738581",
       "name": "Where the Wild Things Are",
