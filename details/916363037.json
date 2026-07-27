@@ -1,5 +1,5 @@
 {
-  "resultCount": 1,
+  "resultCount": 2,
   "results": [
     {
       "artistIds": [
@@ -32,6 +32,39 @@
       "releaseDate": "2014-09-04T07:00:00Z",
       "averageUserRating": 4,
       "userRatingCount": 35
+    },
+    {
+      "artistIds": [
+        2765976
+      ],
+      "genres": [
+        "Théâtre",
+        "Livres",
+        "Arts et spectacles"
+      ],
+      "price": 0,
+      "releaseDate": "2014-09-04T07:00:00Z",
+      "trackId": 916363037,
+      "trackName": "Hamlet",
+      "genreIds": [
+        "10036",
+        "38",
+        "9007"
+      ],
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "The prince of Denmark tries to summon the will to kill his father's murderer, his uncle and now king.",
+      "trackCensoredName": "Hamlet",
+      "artistViewUrl": "https://books.apple.com/fr/artist/william-shakespeare/2765976?uo=4",
+      "trackViewUrl": "https://books.apple.com/fr/book/hamlet/id916363037?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication1/v4/80/7f/fe/807ffea3-3d9b-4e7c-02a4-6fed7e6348eb/cover.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication1/v4/80/7f/fe/807ffea3-3d9b-4e7c-02a4-6fed7e6348eb/cover.png/100x100bb.jpg",
+      "formattedPrice": "Gratuit",
+      "artistId": 2765976,
+      "artistName": "William Shakespeare",
+      "averageUserRating": 4,
+      "userRatingCount": 36,
+      "country": "FRA"
     }
   ]
 }
