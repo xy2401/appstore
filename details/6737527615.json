@@ -262,20 +262,6 @@
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/26/6e/87266ebb-9fb6-f01a-274b-cd50f8680daa/logo_gemini_notebook_ios_color-0-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/26/6e/87266ebb-9fb6-f01a-274b-cd50f8680daa/logo_gemini_notebook_ios_color-0-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [
-        "Infrequent/Mild Profanity or Crude Humor",
-        "Infrequent/Mild Mature/Suggestive Themes",
-        "Infrequent/Mild Medical/Treatment Information",
-        "Infrequent/Mild Realistic Violence",
-        "Infrequent/Mild Sexual Content and Nudity",
-        "Infrequent/Mild Cartoon or Fantasy Violence",
-        "Infrequent/Mild Horror/Fear Themes",
-        "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References"
-      ],
-      "kind": "software",
       "screenshotUrls": [],
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
@@ -409,35 +395,25 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "averageUserRating": 4.86397,
+      "features": [
+        "iosUniversal"
+      ],
+      "advisories": [
+        "Infrequent/Mild Profanity or Crude Humor",
+        "Infrequent/Mild Mature/Suggestive Themes",
+        "Infrequent/Mild Medical/Treatment Information",
+        "Infrequent/Mild Realistic Violence",
+        "Infrequent/Mild Sexual Content and Nudity",
+        "Infrequent/Mild Cartoon or Fantasy Violence",
+        "Infrequent/Mild Horror/Fear Themes",
+        "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References"
+      ],
+      "kind": "software",
       "trackCensoredName": "Gemini Notebook",
       "trackViewUrl": "https://apps.apple.com/us/app/gemini-notebook/id6737527615?uo=4",
       "contentAdvisoryRating": "12+",
-      "price": 0,
-      "artistName": "Google",
-      "artistId": 281956209,
-      "genres": [
-        "Productivity",
-        "Education"
-      ],
-      "releaseDate": "2025-05-19T07:00:00Z",
-      "bundleId": "com.google.NotebookLM",
-      "trackId": 6737527615,
-      "trackName": "Gemini Notebook",
-      "genreIds": [
-        "6007",
-        "6017"
-      ],
-      "currentVersionReleaseDate": "2026-07-25T23:05:13Z",
-      "releaseNotes": "Two-click artifact generation:\n  -  When you tap a tile to create an artifact, the customization box will appear to allow users to review and customize generation settings before kicking off generation.\n\nAs always, submit feedback in the app or tag us on social to share your thoughts!",
-      "sellerName": "Google LLC",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "primaryGenreName": "Productivity",
-      "primaryGenreId": 6007,
-      "version": "1.49.7",
-      "wrapperType": "software",
-      "currency": "USD",
-      "description": "Turn complexity into clarity with Gemini Notebook, your brain’s new best friend. Join the millions of students, creators, researchers, professionals, CEOs, and more who are saving time, getting stuff done, and learning in new ways.\n\n“One of the most compelling and completely flabbergasting demonstrations of AI’s potential yet.” – The Wall Street Journal\n\nNow, with the Gemini Notebook app, you can create and access notebooks, ask questions whenever you think of them, and listen to your podcast-style Audio Overviews on the go with background playback and offline support.\n\nUPLOAD SOURCES\nUpload all your long and complex PDFs, websites, YouTube videos, or text into a notebook.\n\nINSIGHTS YOU CAN TRUST\nGemini Notebook becomes an expert on your sources, summarizing them and making interesting connections. Then, you can ask it questions about, well, anything — and you can trust the answers, since your sources are cited in-line.\n\nLEARN YOUR OWN WAY\nLong blocks of text not your preferred way to learn? Transform what you uploaded into something more your speed, like a podcast-style audio discussion with two engaging AI hosts. You can even join the show to ask questions or steer the conversation in a different direction.",
+      "averageUserRating": 4.86353,
+      "averageUserRatingForCurrentVersion": 4.86353,
       "languageCodesISO2A": [
         "AF",
         "SQ",
@@ -506,12 +482,36 @@
       ],
       "fileSizeBytes": "197954560",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 51649,
+      "userRatingCountForCurrentVersion": 52480,
       "trackContentRating": "12+",
       "sellerUrl": "http://notebooklm.google",
-      "averageUserRatingForCurrentVersion": 4.86397,
+      "genres": [
+        "Productivity",
+        "Education"
+      ],
+      "price": 0,
+      "artistId": 281956209,
+      "artistName": "Google",
+      "releaseDate": "2025-05-19T07:00:00Z",
+      "sellerName": "Google LLC",
+      "genreIds": [
+        "6007",
+        "6017"
+      ],
+      "bundleId": "com.google.NotebookLM",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-07-25T23:05:13Z",
+      "releaseNotes": "Two-click artifact generation:\n  -  When you tap a tile to create an artifact, the customization box will appear to allow users to review and customize generation settings before kicking off generation.\n\nAs always, submit feedback in the app or tag us on social to share your thoughts!",
+      "version": "1.49.7",
+      "wrapperType": "software",
+      "currency": "USD",
+      "description": "Turn complexity into clarity with Gemini Notebook, your brain’s new best friend. Join the millions of students, creators, researchers, professionals, CEOs, and more who are saving time, getting stuff done, and learning in new ways.\n\n“One of the most compelling and completely flabbergasting demonstrations of AI’s potential yet.” – The Wall Street Journal\n\nNow, with the Gemini Notebook app, you can create and access notebooks, ask questions whenever you think of them, and listen to your podcast-style Audio Overviews on the go with background playback and offline support.\n\nUPLOAD SOURCES\nUpload all your long and complex PDFs, websites, YouTube videos, or text into a notebook.\n\nINSIGHTS YOU CAN TRUST\nGemini Notebook becomes an expert on your sources, summarizing them and making interesting connections. Then, you can ask it questions about, well, anything — and you can trust the answers, since your sources are cited in-line.\n\nLEARN YOUR OWN WAY\nLong blocks of text not your preferred way to learn? Transform what you uploaded into something more your speed, like a podcast-style audio discussion with two engaging AI hosts. You can even join the show to ask questions or steer the conversation in a different direction.",
       "minimumOsVersion": "17.0",
-      "userRatingCount": 51649,
+      "primaryGenreName": "Productivity",
+      "primaryGenreId": 6007,
+      "trackName": "Gemini Notebook",
+      "trackId": 6737527615,
+      "userRatingCount": 52480,
       "country": "USA"
     }
   ]

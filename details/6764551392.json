@@ -183,13 +183,15 @@
       "userRatingCount": 8
     },
     {
+      "artistViewUrl": "https://apps.apple.com/cn/developer/%E6%B3%BD%E5%9D%A4-%E5%91%A8/id1895818497?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/ba/55/62ba5534-7627-cb19-21ea-508a94fdb42d/icon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/ba/55/62ba5534-7627-cb19-21ea-508a94fdb42d/icon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.jpg",
+      "screenshotUrls": [],
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/ba/55/62ba5534-7627-cb19-21ea-508a94fdb42d/icon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/512x512bb.jpg",
-      "features": [],
-      "screenshotUrls": [],
       "isGameCenterEnabled": false,
-      "advisories": [],
+      "features": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -320,10 +322,13 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
+      "advisories": [],
       "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/cn/developer/%E6%B3%BD%E5%9D%A4-%E5%91%A8/id1895818497?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/ba/55/62ba5534-7627-cb19-21ea-508a94fdb42d/icon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/ba/55/62ba5534-7627-cb19-21ea-508a94fdb42d/icon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.jpg",
+      "minimumOsVersion": "18.6",
+      "trackCensoredName": "WristDict-手表离线英汉互译词典",
+      "trackViewUrl": "https://apps.apple.com/cn/app/wristdict-%E6%89%8B%E8%A1%A8%E7%A6%BB%E7%BA%BF%E8%8B%B1%E6%B1%89%E4%BA%92%E8%AF%91%E8%AF%8D%E5%85%B8/id6764551392?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.63636,
       "languageCodesISO2A": [
         "EN",
         "ZH"
@@ -332,35 +337,30 @@
       "formattedPrice": "¥6.00",
       "userRatingCountForCurrentVersion": 11,
       "trackContentRating": "4+",
-      "bundleId": "com.azumachiaki.WristDict",
       "averageUserRatingForCurrentVersion": 4.63636,
-      "minimumOsVersion": "18.6",
-      "trackId": 6764551392,
-      "trackName": "WristDict-手表离线英汉互译词典",
-      "artistName": "泽坤 周",
       "artistId": 1895818497,
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
-      "releaseNotes": "桌面组件新增自定义词汇和考试词汇的显示模式，新增iOS版本",
+      "artistName": "泽坤 周",
+      "genres": [
+        "工具"
+      ],
+      "price": 6,
+      "releaseDate": "2026-05-11T07:00:00Z",
       "genreIds": [
         "6002"
       ],
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
       "sellerName": "泽坤 周",
       "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-06-25T10:54:02Z",
+      "releaseNotes": "桌面组件新增自定义词汇和考试词汇的显示模式，新增iOS版本",
       "version": "1.3.0",
       "wrapperType": "software",
       "currency": "CNY",
       "description": "本词典工具iOS端含76万+的离线词库，watchOS端内含十万+的超大离线词库，无需联网即可使用本app的所有功能，使用自研的查找算法使得大幅度减少占用，使得软件的使用更加省电快速，我们还为此应用配备了收藏夹和背景开关按钮，能够方便收藏词汇和根据您的喜好来切换UI风格，watchOS端还搭载了“概念查找”，您可以在概念查找中输入一种感觉，一个意象，或者一种概念，WristDict将会输出一些相关的词汇，这会更方便的帮助您学习和表达",
-      "trackViewUrl": "https://apps.apple.com/cn/app/wristdict-%E6%89%8B%E8%A1%A8%E7%A6%BB%E7%BA%BF%E8%8B%B1%E6%B1%89%E4%BA%92%E8%AF%91%E8%AF%8D%E5%85%B8/id6764551392?uo=4",
-      "contentAdvisoryRating": "4+",
-      "trackCensoredName": "WristDict-手表离线英汉互译词典",
-      "averageUserRating": 4.63636,
-      "releaseDate": "2026-05-11T07:00:00Z",
-      "currentVersionReleaseDate": "2026-06-25T10:54:02Z",
-      "price": 6,
-      "genres": [
-        "工具"
-      ],
+      "bundleId": "com.azumachiaki.WristDict",
+      "trackId": 6764551392,
+      "trackName": "WristDict-手表离线英汉互译词典",
       "userRatingCount": 11,
       "country": "CHN"
     }

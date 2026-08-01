@@ -226,10 +226,12 @@
       "userRatingCount": 16257
     },
     {
-      "artistViewUrl": "https://apps.apple.com/us/developer/microsoft-corporation/id298856275?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/27/ee/b327ee1f-d14c-6650-21cf-71294902677e/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/27/ee/b327ee1f-d14c-6650-21cf-71294902677e/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
+      "advisories": [],
+      "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/f6/f2/6c/f6f26cf9-3164-4c52-df88-e7738ff1a91a/mzl.dinnlthr.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/a3/75/4f/a3754faf-44ae-6d66-9fb0-35b4d5e84b28/mzl.cfrywhhy.png/392x696bb.png",
@@ -244,11 +246,9 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/27/ee/b327ee1f-d14c-6650-21cf-71294902677e/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [],
-      "kind": "software",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/27/ee/b327ee1f-d14c-6650-21cf-71294902677e/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/27/ee/b327ee1f-d14c-6650-21cf-71294902677e/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/us/developer/microsoft-corporation/id298856275?uo=4",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -378,13 +378,30 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "trackCensoredName": "Skype for Business",
-      "trackViewUrl": "https://apps.apple.com/us/app/skype-for-business/id605841731?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.311,
       "minimumOsVersion": "15.0",
-      "sellerUrl": "http://www.microsoft.com/lync",
+      "artistName": "Microsoft Corporation",
+      "price": 0,
+      "artistId": 298856275,
+      "genres": [
+        "Business",
+        "Productivity"
+      ],
+      "genreIds": [
+        "6000",
+        "6007"
+      ],
+      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "Microsoft Corporation",
+      "releaseNotes": "Bug fixes and performance improvements.",
+      "bundleId": "com.microsoft.lync2013.iphone",
+      "releaseDate": "2013-03-12T07:00:00Z",
+      "currentVersionReleaseDate": "2025-06-10T03:45:59Z",
+      "version": "6.34.119",
+      "wrapperType": "software",
+      "currency": "USD",
+      "description": "Skype for Business, formerly Lync 2013 for iOS, extends the power of Lync and Skype to your favorite mobile device: voice & video over wireless, rich presence, instant messaging, conferencing, and calling features from a single, easy-to-use interface.\n\nKey Features:\nInitiate a group IM or video conversation and invite additional participants\nJoin, rejoin and initiate a Skype for Business Meeting to communicate and collaborate on amazing ideas\nSimultaneously view shared content and speaker's video during a conference\nControl the meeting (mute or remove attendees) and know more about participants’ modalities\nLook at your upcoming meetings and join via one click\nFind your recent conversations and pick them up from where you left off\nSearch your contacts by name, email, or phone number\nEnhanced security via Active Directory Authentication Library \n\nAnyone can use the Skype for Business for iOS app when invited to a Skype for Business or Lync 2013 meeting. However, you must have a Skype for Business or Lync account in order to use (and enjoy) the full capability of the Skype for Business app. Also, some functionality might require an update to Lync or Skype for Business Server or might not be available to all users. If you’re not sure about your account status, please contact your IT department.\n\nIMPORTANT: THIS SOFTWARE REQUIRES CONNECTIVITY TO VALIDLY LICENSED COPIES OF MICROSOFT LYNC OR SKYPE FOR BUSINESS SERVER OR OFFICE 365 / LYNC ONLINE / SKYPE FOR BUSINESS ONLINE AND WILL NOT WORK WITHOUT IT. UPDATES TO MICROSOFT LYNC SERVER OR SKYPE FOR BUSINESS MAY BE REQUIRED FOR PROPER PERFORMANCE. SOME FUNCTIONALITY MAY NOT BE AVAILABLE IN ALL COUNTRIES. IF YOU ARE UNSURE ABOUT YOUR COMPANY’S LICENSE TO AND/OR DEPLOYMENT OF LYNC OR SKYPE FOR BUSINESS, PLEASE CONTACT YOUR IT DEPARTMENT. SKYPE FOR BUSINESS APP IS ONLY AVAILBLE FOR iOS 8.0 OR GREATER.",
       "averageUserRatingForCurrentVersion": 4.311,
+      "sellerUrl": "http://www.microsoft.com/lync",
       "languageCodesISO2A": [
         "AR",
         "CA",
@@ -422,31 +439,14 @@
       "formattedPrice": "Free",
       "userRatingCountForCurrentVersion": 16257,
       "trackContentRating": "4+",
-      "artistId": 298856275,
-      "artistName": "Microsoft Corporation",
-      "genres": [
-        "Business",
-        "Productivity"
-      ],
-      "price": 0,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "bundleId": "com.microsoft.lync2013.iphone",
-      "genreIds": [
-        "6000",
-        "6007"
-      ],
+      "averageUserRating": 4.311,
+      "contentAdvisoryRating": "4+",
+      "trackCensoredName": "Skype for Business",
+      "trackViewUrl": "https://apps.apple.com/us/app/skype-for-business/id605841731?uo=4",
+      "trackId": 605841731,
+      "trackName": "Skype for Business",
       "primaryGenreName": "Business",
       "primaryGenreId": 6000,
-      "sellerName": "Microsoft Corporation",
-      "releaseDate": "2013-03-12T07:00:00Z",
-      "currentVersionReleaseDate": "2025-06-10T03:45:59Z",
-      "releaseNotes": "Bug fixes and performance improvements.",
-      "version": "6.34.119",
-      "wrapperType": "software",
-      "currency": "USD",
-      "description": "Skype for Business, formerly Lync 2013 for iOS, extends the power of Lync and Skype to your favorite mobile device: voice & video over wireless, rich presence, instant messaging, conferencing, and calling features from a single, easy-to-use interface.\n\nKey Features:\nInitiate a group IM or video conversation and invite additional participants\nJoin, rejoin and initiate a Skype for Business Meeting to communicate and collaborate on amazing ideas\nSimultaneously view shared content and speaker's video during a conference\nControl the meeting (mute or remove attendees) and know more about participants’ modalities\nLook at your upcoming meetings and join via one click\nFind your recent conversations and pick them up from where you left off\nSearch your contacts by name, email, or phone number\nEnhanced security via Active Directory Authentication Library \n\nAnyone can use the Skype for Business for iOS app when invited to a Skype for Business or Lync 2013 meeting. However, you must have a Skype for Business or Lync account in order to use (and enjoy) the full capability of the Skype for Business app. Also, some functionality might require an update to Lync or Skype for Business Server or might not be available to all users. If you’re not sure about your account status, please contact your IT department.\n\nIMPORTANT: THIS SOFTWARE REQUIRES CONNECTIVITY TO VALIDLY LICENSED COPIES OF MICROSOFT LYNC OR SKYPE FOR BUSINESS SERVER OR OFFICE 365 / LYNC ONLINE / SKYPE FOR BUSINESS ONLINE AND WILL NOT WORK WITHOUT IT. UPDATES TO MICROSOFT LYNC SERVER OR SKYPE FOR BUSINESS MAY BE REQUIRED FOR PROPER PERFORMANCE. SOME FUNCTIONALITY MAY NOT BE AVAILABLE IN ALL COUNTRIES. IF YOU ARE UNSURE ABOUT YOUR COMPANY’S LICENSE TO AND/OR DEPLOYMENT OF LYNC OR SKYPE FOR BUSINESS, PLEASE CONTACT YOUR IT DEPARTMENT. SKYPE FOR BUSINESS APP IS ONLY AVAILBLE FOR iOS 8.0 OR GREATER.",
-      "trackName": "Skype for Business",
-      "trackId": 605841731,
       "userRatingCount": 16257,
       "country": "USA"
     }

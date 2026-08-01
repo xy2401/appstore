@@ -198,7 +198,8 @@
       "userRatingCount": 4
     },
     {
-      "advisories": [],
+      "features": [],
+      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -328,8 +329,8 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
+      "advisories": [],
       "kind": "software",
-      "features": [],
       "screenshotUrls": [],
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
@@ -337,8 +338,7 @@
       "artistViewUrl": "https://apps.apple.com/jp/developer/sean-cho/id1660678472?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/33/8d/f8338d7a-9e36-3cf6-d565-f17868caa2ea/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/33/8d/f8338d7a-9e36-3cf6-d565-f17868caa2ea/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/100x100bb.jpg",
-      "isGameCenterEnabled": false,
-      "currentVersionReleaseDate": "2026-07-18T18:05:38Z",
+      "bundleId": "com.seancho.Oldi",
       "minimumOsVersion": "18.0",
       "artistId": 1660678472,
       "artistName": "Sean Cho",
@@ -347,9 +347,9 @@
         "ユーティリティ"
       ],
       "price": 150,
-      "bundleId": "com.seancho.Oldi",
       "trackId": 6760838876,
       "trackName": "オルディ Oldi - Phone Camera",
+      "releaseNotes": "カメラコントロールボタンに対応しました。",
       "releaseDate": "2026-03-20T07:00:00Z",
       "genreIds": [
         "6008",
@@ -359,10 +359,13 @@
       "primaryGenreId": 6008,
       "sellerName": "Sean Cho",
       "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-07-18T18:05:38Z",
       "version": "1.3.0",
       "wrapperType": "software",
       "currency": "JPY",
       "description": "さまざまな旧型iPhoneカメラを体験できるアプリです。\n\n単なるフィルターではなく、センサーレイヤーから最もリアルに旧型iPhoneを再現します。\n\n対応機種: 3GS, 4, 4S, 5, 5S, SE, 6, 6S, 7, 8, X, XS",
+      "averageUserRatingForCurrentVersion": 4.66667,
+      "sellerUrl": "https://www.instagram.com/oldi_phonecamera/",
       "languageCodesISO2A": [
         "AR",
         "NL",
@@ -384,13 +387,10 @@
       "formattedPrice": "¥150",
       "userRatingCountForCurrentVersion": 6,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.66667,
-      "sellerUrl": "https://www.instagram.com/oldi_phonecamera/",
+      "contentAdvisoryRating": "4+",
       "averageUserRating": 4.66667,
       "trackCensoredName": "オルディ Oldi - Phone Camera",
       "trackViewUrl": "https://apps.apple.com/jp/app/%E3%82%AA%E3%83%AB%E3%83%87%E3%82%A3-oldi-phone-camera/id6760838876?uo=4",
-      "contentAdvisoryRating": "4+",
-      "releaseNotes": "カメラコントロールボタンに対応しました。",
       "userRatingCount": 6,
       "country": "JPN"
     }

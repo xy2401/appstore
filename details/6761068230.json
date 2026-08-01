@@ -183,19 +183,19 @@
       "userRatingCount": 10
     },
     {
-      "artistViewUrl": "https://apps.apple.com/us/developer/microsoft-corporation/id298856275?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/75/0f/a6750f1c-f212-216b-e886-0c42e74c54f7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/75/0f/a6750f1c-f212-216b-e886-0c42e74c54f7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
-      "screenshotUrls": [],
-      "ipadScreenshotUrls": [],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/75/0f/a6750f1c-f212-216b-e886-0c42e74c54f7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "features": [
         "iosUniversal"
       ],
       "advisories": [],
       "kind": "software",
+      "screenshotUrls": [],
+      "ipadScreenshotUrls": [],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/75/0f/a6750f1c-f212-216b-e886-0c42e74c54f7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/75/0f/a6750f1c-f212-216b-e886-0c42e74c54f7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/75/0f/a6750f1c-f212-216b-e886-0c42e74c54f7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/us/developer/microsoft-corporation/id298856275?uo=4",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -325,11 +325,26 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "trackCensoredName": "Microsoft Events",
-      "trackViewUrl": "https://apps.apple.com/us/app/microsoft-events/id6761068230?uo=4",
-      "contentAdvisoryRating": "17+",
-      "averageUserRating": 4.4,
       "minimumOsVersion": "15.1",
+      "artistName": "Microsoft Corporation",
+      "price": 0,
+      "artistId": 298856275,
+      "genres": [
+        "Business"
+      ],
+      "genreIds": [
+        "6000"
+      ],
+      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "Microsoft Corporation",
+      "releaseNotes": "Thank you for using Microsoft Events. \n\nThis update includes performance improvements, accessibility enhancements, UI refinements, and bug fixes to help improve your event experience.",
+      "bundleId": "com.msevents",
+      "releaseDate": "2026-05-04T07:00:00Z",
+      "currentVersionReleaseDate": "2026-06-26T06:43:13Z",
+      "version": "1.1.6",
+      "wrapperType": "software",
+      "currency": "USD",
+      "description": "A single app for everything happening across Microsoft's event calendar — Build, Ignite, and the AI Tour. Whether you're attending in person or streaming from your desk, it keeps all the logistics, content, and connections in one place.  \n\nStay in the loop on what matters most  \n\nReal-time updates on keynotes, product announcements, and demos. Session catalogs you can filter by topic, skill level, or product area. And on-demand access to recordings after the fact.  \n\nBuild your own schedule  \n\nBrowse sessions across Microsoft events and bookmark your favorites. Whatever you're working on, you can put together an agenda that focuses on what matters to you.  \n\nConnect with the community  \n\nMicrosoft events bring together developers, IT pros, architects, business decision-makers, partners, and builders from across the industry. The app helps you connect with speakers, discover what's happening during the event, and keep conversations with fellow attendees going.  \n\nKey features  \n\nCustomize your schedule schedules and bookmark sessions.  \n\nStream live and on demand.  \n\nGet speaker profiles and full session details.  \n\nSee venue maps and wayfinding for in-person events. \n\nJoin community forums.  \n\nAccess recordings and resources after events.",
       "averageUserRatingForCurrentVersion": 4.4,
       "languageCodesISO2A": [
         "EN"
@@ -338,29 +353,14 @@
       "formattedPrice": "Free",
       "userRatingCountForCurrentVersion": 10,
       "trackContentRating": "17+",
-      "artistId": 298856275,
-      "artistName": "Microsoft Corporation",
-      "genres": [
-        "Business"
-      ],
-      "price": 0,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "bundleId": "com.msevents",
-      "genreIds": [
-        "6000"
-      ],
+      "averageUserRating": 4.4,
+      "contentAdvisoryRating": "17+",
+      "trackCensoredName": "Microsoft Events",
+      "trackViewUrl": "https://apps.apple.com/us/app/microsoft-events/id6761068230?uo=4",
+      "trackId": 6761068230,
+      "trackName": "Microsoft Events",
       "primaryGenreName": "Business",
       "primaryGenreId": 6000,
-      "sellerName": "Microsoft Corporation",
-      "releaseDate": "2026-05-04T07:00:00Z",
-      "currentVersionReleaseDate": "2026-06-26T06:43:13Z",
-      "releaseNotes": "Thank you for using Microsoft Events. \n\nThis update includes performance improvements, accessibility enhancements, UI refinements, and bug fixes to help improve your event experience.",
-      "version": "1.1.6",
-      "wrapperType": "software",
-      "currency": "USD",
-      "description": "A single app for everything happening across Microsoft's event calendar — Build, Ignite, and the AI Tour. Whether you're attending in person or streaming from your desk, it keeps all the logistics, content, and connections in one place.  \n\nStay in the loop on what matters most  \n\nReal-time updates on keynotes, product announcements, and demos. Session catalogs you can filter by topic, skill level, or product area. And on-demand access to recordings after the fact.  \n\nBuild your own schedule  \n\nBrowse sessions across Microsoft events and bookmark your favorites. Whatever you're working on, you can put together an agenda that focuses on what matters to you.  \n\nConnect with the community  \n\nMicrosoft events bring together developers, IT pros, architects, business decision-makers, partners, and builders from across the industry. The app helps you connect with speakers, discover what's happening during the event, and keep conversations with fellow attendees going.  \n\nKey features  \n\nCustomize your schedule schedules and bookmark sessions.  \n\nStream live and on demand.  \n\nGet speaker profiles and full session details.  \n\nSee venue maps and wayfinding for in-person events. \n\nJoin community forums.  \n\nAccess recordings and resources after events.",
-      "trackName": "Microsoft Events",
-      "trackId": 6761068230,
       "userRatingCount": 10,
       "country": "USA"
     }

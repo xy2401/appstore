@@ -201,6 +201,7 @@
       "userRatingCount": 23
     },
     {
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/3e/6d/f2/3e6df255-83bd-fa50-1d71-84b0912bf200/pr_source.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/c7/11/b6/c711b6d5-a65a-afd0-b67a-309a7e56ea6b/pr_source.png/392x696bb.png",
@@ -216,18 +217,10 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/f5/b5/91/f5b59103-9b82-383b-aea1-bfd1d1281834/pr_source.png/576x768bb.png"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/29/d1/b0/29d1b083-54cc-ac3e-9722-132cee4df963/EspanolTodos-AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/60x60bb.jpg",
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/29/d1/b0/29d1b083-54cc-ac3e-9722-132cee4df963/EspanolTodos-AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/512x512bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/29/d1/b0/29d1b083-54cc-ac3e-9722-132cee4df963/EspanolTodos-AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/jp/developer/%E7%89%A9%E6%9B%B8%E5%A0%82/id284350529?uo=4",
-      "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
       ],
-      "advisories": [
-        "まれ／軽度な過激な言葉遣いまたは下品なユーモア"
-      ],
-      "kind": "software",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -357,8 +350,15 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "minimumOsVersion": "11.0",
+      "advisories": [
+        "まれ／軽度な過激な言葉遣いまたは下品なユーモア"
+      ],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/jp/developer/%E7%89%A9%E6%9B%B8%E5%A0%82/id284350529?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/29/d1/b0/29d1b083-54cc-ac3e-9722-132cee4df963/EspanolTodos-AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/29/d1/b0/29d1b083-54cc-ac3e-9722-132cee4df963/EspanolTodos-AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/100x100bb.jpg",
       "averageUserRatingForCurrentVersion": 3.86957,
+      "currentVersionReleaseDate": "2019-12-30T21:27:03Z",
       "sellerUrl": "http://www.monokakido.jp/foreign/espanoltodos/",
       "languageCodesISO2A": [
         "EN",
@@ -366,12 +366,8 @@
       ],
       "fileSizeBytes": "145294336",
       "formattedPrice": "¥4,100",
-      "contentAdvisoryRating": "9+",
-      "trackViewUrl": "https://apps.apple.com/jp/app/%E8%A5%BF%E5%92%8C%E4%B8%AD%E8%BE%9E%E5%85%B8-%E5%92%8C%E8%A5%BF%E8%BE%9E%E5%85%B8/id993524592?uo=4",
       "trackContentRating": "9+",
-      "averageUserRating": 3.86957,
-      "trackCensoredName": "西和中辞典・和西辞典",
-      "userRatingCountForCurrentVersion": 23,
+      "minimumOsVersion": "11.0",
       "artistId": 284350529,
       "artistName": "物書堂",
       "genres": [
@@ -380,23 +376,27 @@
       ],
       "price": 4100,
       "bundleId": "jp.monokakido.EspanolTodos",
-      "releaseNotes": "•「辞書 by 物書堂」への移行に関する問題を修正しました。",
-      "trackId": 993524592,
-      "trackName": "西和中辞典・和西辞典",
       "releaseDate": "2015-06-08T02:20:03Z",
-      "sellerName": "MONOKAKIDO Co. Ltd.",
-      "primaryGenreName": "Reference",
-      "primaryGenreId": 6006,
-      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseNotes": "•「辞書 by 物書堂」への移行に関する問題を修正しました。",
       "genreIds": [
         "6006",
         "6017"
       ],
-      "currentVersionReleaseDate": "2019-12-30T21:27:03Z",
+      "primaryGenreName": "Reference",
+      "primaryGenreId": 6006,
+      "trackName": "西和中辞典・和西辞典",
+      "trackId": 993524592,
+      "sellerName": "MONOKAKIDO Co. Ltd.",
+      "isVppDeviceBasedLicensingEnabled": true,
       "version": "1.4.3",
       "wrapperType": "software",
       "currency": "JPY",
       "description": "「西和中辞典・和西辞典」は、収録語数・記述の詳しさで群を抜く日本最高レベルの西和辞典、小学館の「西和中辞典 第2版」と、現代の日常生活表現に必要な語彙と表現を積極的に収録した小学館の「和西辞典」をセットにした電子辞典です。ビジネスにも、学習にも、スペイン語に携わり学ぶすべての人に自信をもっておすすめいたします。\n\nまた語数の少ないシンプルな和西辞典を収録した「西和中辞典・ポケプロ和西辞典」と本製品との違いは収録されている和西辞典ですので用途に応じてご検討ください。\n\n本製品は、全てのコンテンツがデバイスにインストールされますので、インターネット無しでご利用いただけます。\n本製品は、iPhone、iPod touch および iPad 全てでご利用頂けるユニバーサルアプリケーションで、iOS 11 ならびに最新のiPhone、iPad のドラッグ＆ドロップ、Slide Over、Split View に対応しています。\n\n主な機能は以下の通りです。\n\n- コンテンツ表示\n・物書堂独自のレイアウトエンジンによる高速なコンテンツ表示\n・なぞってジャンプ® \n・見出音声再生 \n・項目内検索 \n・用例や成句をなぞってブックマークに登録 \n- 画面遷移 \n・メニューから素早く品詞、複合語を表示\n・メニューからの前後ページを表示\n・スワイプで次項目表示／戻る\n・戻るボタン長押しで任意の階層へ戻る\n- 検索（見出／成句／用例） \n・前方一致／後方一致／完全一致\n・パターン検索（任意の文字／母音・子音／グループ／アナグラム）\n・日本語にも対応した用例検索\n・間違ったスペルでも候補を推測して表示\n・ひっぱって消去\n- ブックマーク（見出順／日付順／カスタム） \n・ブックマークの書き出し\n- 履歴（表示履歴／検索履歴） \n- 付録（重要語、コラム、動詞活用表）\n- その他＞設定 \n・カラー\n・本文の日本語フォント（明朝体／ゴシック体）\n・本文の文字サイズ、一覧の文字サイズ\n・背景色、文字のコントラスト\n・音量\n・検索文字を消去、シェイクで消去、クリップボード検索\n・ブックマークを同期［要iCloud］\n・英語キーボードを優先、フルスクリーンレイアウト\n- 3D TouchのPeekとPopおよびクイックアクションに対応。\n- iPadのドラッグ＆ドロップ（検索キーワードのドロップ）に対応\n- Retinaディスプレイに対応\n- App Extension（カスタムアクション）によるSafari内での検索、他アプリからの呼び出し、物書堂辞書アプリでの検索\n\nコンテンツについて\n\n◎ 西和中辞典（第2版）\n\n・20世紀末以降、著しく飛躍を遂げたスペインでのスペイン語辞書の成果を反映。収録語数・記述の詳しさで群を抜く日本で最高レベルの西和辞典。 \n・スペインで用いられるスペイン語だけでなく、ラテンアメリカおよびスペイン語系住民が急速に増えつつある米国で用いられるスペイン語までカバー。地域的な語彙バリエーションを示したほか、発音も中南米式を併記。 \n・学習辞典としての機能を充実させ、重要語7,000語を特にていねいに記述。動詞と目的語の関係や、従属文が直説法をとるのか接続法をとるのかを明示。またスペイン語の作文に役立つよう構文パターンを表示。 \n・実務の世界でスペイン語を駆使する人たち、文学書や専門的文献を読む人たちの要望にも応えられる確かな内容。IT関連の用語など時代に即応した新語も追加して、総収録語数は8万語。 \n・音声は約1万項目。音声学の専門家が太鼓判を押した、信頼できるスペイン人による収録。 \n・語源欄ではスペイン語の関連語だけでなく、他言語との関連まで表示。 \n\n◎ 和西辞典\n\n現代生活即応のイキのいい和西辞典\n\n・現代の日常生活表現に必要な語彙と表現を積極的に収録した「日本語->スペイン語」辞典です。日本語については現代の生活語彙はもちろん、IT・経済・時事用語などの新語、さらに熟語や慣用表現も使用頻度の高いものを豊富に収録し、実際によく使われている現代スペイン語の訳語を充てました。全編を通し、校閲の過程で複数回のネイティブチェックが入っています。\n・既存の辞書に比べて、熟語・コロケーション・口語表現など、はるかに情報量豊かな内容になっています。\n・その他に、日本文化に関する項目も説明訳を添えて分かりやすくしました。外国人に日本の文化を伝えるときにこのまま使うことができます。また、本辞書では新正書法を反映したスペイン語表記を採用してありますので、スペイン留学などの際も安心して利用できます。\n・尚、本辞書の編集者代表はNHKラジオ講座でおなじみの小池和良先生です。すべての項目に丹念に目を通されていますので、初学者にも分かりやすく、メリハリある実用性の高い辞書に仕上がったと思います。是非スペイン語学習にお役立て下さい。\n\n・見出し：約5万5千項目\n・用例：約4万2千項目\n・付録：コラム、関連語\n\n* 本アプリには、図版など書籍版の内容を一部収録していないものがあります。",
+      "averageUserRating": 3.86957,
+      "trackCensoredName": "西和中辞典・和西辞典",
+      "trackViewUrl": "https://apps.apple.com/jp/app/%E8%A5%BF%E5%92%8C%E4%B8%AD%E8%BE%9E%E5%85%B8-%E5%92%8C%E8%A5%BF%E8%BE%9E%E5%85%B8/id993524592?uo=4",
+      "contentAdvisoryRating": "9+",
+      "userRatingCountForCurrentVersion": 23,
       "userRatingCount": 23,
       "country": "JPN"
     }

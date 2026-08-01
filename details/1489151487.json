@@ -190,12 +190,6 @@
       "userRatingCount": 6827
     },
     {
-      "isGameCenterEnabled": false,
-      "advisories": [],
-      "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/jp/developer/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%91%E3%82%B9%E3%83%A2/id1470586134?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/ea/8c/c6ea8c51-4006-caf2-9613-76a52724a2df/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/ea/8c/c6ea8c51-4006-caf2-9613-76a52724a2df/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/6f/b8/0a/6fb80a5d-0909-7b1f-4ef1-4f97c837843b/b6b2c889-efb8-429c-84a9-94b8a3442f68_2_ad_01_5.5_U30a4_U30f3_U30c1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/79/b8/f8/79b8f8da-bda7-1058-0ab4-18b261ca271e/153b2103-8fb3-44d4-8d01-aba2af9775db_2_ad_02.png/392x696bb.png",
@@ -208,7 +202,7 @@
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/ea/8c/c6ea8c51-4006-caf2-9613-76a52724a2df/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
-      "features": [],
+      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -338,6 +332,21 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
+      "features": [],
+      "advisories": [],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/jp/developer/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%91%E3%82%B9%E3%83%A2/id1470586134?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/ea/8c/c6ea8c51-4006-caf2-9613-76a52724a2df/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/ea/8c/c6ea8c51-4006-caf2-9613-76a52724a2df/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.jpg",
+      "languageCodesISO2A": [
+        "JA"
+      ],
+      "fileSizeBytes": "31123456",
+      "formattedPrice": "無料",
+      "userRatingCountForCurrentVersion": 7289,
+      "averageUserRatingForCurrentVersion": 1.89532,
+      "sellerUrl": "https://www.pasmo.co.jp/mp/app/",
+      "trackContentRating": "4+",
       "minimumOsVersion": "14.0",
       "artistId": 1470586134,
       "artistName": "株式会社パスモ",
@@ -345,15 +354,19 @@
         "ファイナンス"
       ],
       "price": 0,
-      "currentVersionReleaseDate": "2026-06-17T01:10:44Z",
-      "releaseNotes": "今回のアップデート内容は下記の通りとなります。\n・セキュリティ機能を強化しました。",
-      "trackName": "PASMO（パスモ）",
       "trackId": 1489151487,
+      "trackName": "PASMO（パスモ）",
+      "bundleId": "jp.pasmo.mobile.app",
       "releaseDate": "2020-10-05T07:00:00Z",
+      "genreIds": [
+        "6015"
+      ],
+      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "PASMO CO.,LTD.",
       "primaryGenreName": "Finance",
       "primaryGenreId": 6015,
-      "sellerName": "PASMO CO.,LTD.",
-      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-06-17T01:10:44Z",
+      "releaseNotes": "今回のアップデート内容は下記の通りとなります。\n・セキュリティ機能を強化しました。",
       "version": "1.0.38",
       "wrapperType": "software",
       "currency": "JPY",
@@ -361,21 +374,8 @@
       "trackCensoredName": "PASMO（パスモ）",
       "trackViewUrl": "https://apps.apple.com/jp/app/pasmo-%E3%83%91%E3%82%B9%E3%83%A2/id1489151487?uo=4",
       "contentAdvisoryRating": "4+",
-      "averageUserRating": 1.8969,
-      "sellerUrl": "https://www.pasmo.co.jp/mp/app/",
-      "languageCodesISO2A": [
-        "JA"
-      ],
-      "fileSizeBytes": "31123456",
-      "formattedPrice": "無料",
-      "userRatingCountForCurrentVersion": 7265,
-      "trackContentRating": "4+",
-      "bundleId": "jp.pasmo.mobile.app",
-      "averageUserRatingForCurrentVersion": 1.8969,
-      "genreIds": [
-        "6015"
-      ],
-      "userRatingCount": 7265,
+      "averageUserRating": 1.89532,
+      "userRatingCount": 7289,
       "country": "JPN"
     }
   ]

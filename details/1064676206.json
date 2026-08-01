@@ -223,10 +223,10 @@
       "userRatingCount": 385
     },
     {
-      "artistViewUrl": "https://apps.apple.com/us/developer/microsoft-corporation/id298856275?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/1e/bc/23/1ebc2320-6fd1-013e-8b0f-27d63bc05512/mzl.ehivcvqm.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/1e/bc/23/1ebc2320-6fd1-013e-8b0f-27d63bc05512/mzl.ehivcvqm.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
+      "features": [],
+      "advisories": [],
+      "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple69/v4/63/da/8e/63da8e76-99f3-d2e8-da21-61ccc3ddb1c3/pr_source.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple49/v4/b0/f1/38/b0f1383b-a0d1-ffd1-673b-2911094e3cda/pr_source.jpg/392x696bb.jpg",
@@ -235,9 +235,9 @@
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/1e/bc/23/1ebc2320-6fd1-013e-8b0f-27d63bc05512/mzl.ehivcvqm.png/512x512bb.jpg",
-      "features": [],
-      "advisories": [],
-      "kind": "software",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/1e/bc/23/1ebc2320-6fd1-013e-8b0f-27d63bc05512/mzl.ehivcvqm.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/1e/bc/23/1ebc2320-6fd1-013e-8b0f-27d63bc05512/mzl.ehivcvqm.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/us/developer/microsoft-corporation/id298856275?uo=4",
       "supportedDevices": [
         "iPad2Wifi-iPad2Wifi",
         "iPad23G-iPad23G",
@@ -379,13 +379,30 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "trackCensoredName": "Microsoft Selfie",
-      "trackViewUrl": "https://apps.apple.com/us/app/microsoft-selfie/id1064676206?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 3.21299,
       "minimumOsVersion": "8.0",
-      "sellerUrl": "http://aka.ms/selfiepromo",
+      "artistName": "Microsoft Corporation",
+      "price": 0,
+      "artistId": 298856275,
+      "genres": [
+        "Photo & Video",
+        "Entertainment"
+      ],
+      "genreIds": [
+        "6008",
+        "6016"
+      ],
+      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "Microsoft Corporation",
+      "releaseNotes": "This update from Apple will improve the functionality of this app. No new features are included.\n\nGDPR compliance fix",
+      "bundleId": "com.microsoft.autofacetouchup",
+      "releaseDate": "2015-12-28T05:51:35Z",
+      "currentVersionReleaseDate": "2018-06-16T01:02:07Z",
+      "version": "2.2.6",
+      "wrapperType": "software",
+      "currency": "USD",
+      "description": "Microsoft Selfie is a selfie and photo enhancement application available on iOS, web and WeChat. Backed by computer vision technology, Microsoft Selfie intelligently considers age, gender, skin tone, lighting, and many other variables all with one click. Users can transform average photos into enhanced, ideal portraits in seconds. \n\n[Key Features]\n- Intelligent Portrait Enhancement: The app intelligently considers age, gender, skin tone and lighting when enhancing the portraits, and it will make the result much more natural.  \n\n- Noise reduction: In dim light condition, the app would automatically enable “Denoise” mode, and effectively reduce noise by using burst shots. When “Denoise” mode is enabled, you can see “Denoise” on the screen.\n\n- Auto exposure: It can do automatic exposure correction and photo clarifying, especially for backlit photos. This function can be achieved when user chooses the “Boost” filter mode.",
       "averageUserRatingForCurrentVersion": 3.21299,
+      "sellerUrl": "http://aka.ms/selfiepromo",
       "languageCodesISO2A": [
         "DA",
         "NL",
@@ -416,31 +433,14 @@
       "formattedPrice": "Free",
       "userRatingCountForCurrentVersion": 385,
       "trackContentRating": "4+",
-      "artistId": 298856275,
-      "artistName": "Microsoft Corporation",
-      "genres": [
-        "Photo & Video",
-        "Entertainment"
-      ],
-      "price": 0,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "bundleId": "com.microsoft.autofacetouchup",
-      "genreIds": [
-        "6008",
-        "6016"
-      ],
+      "averageUserRating": 3.21299,
+      "contentAdvisoryRating": "4+",
+      "trackCensoredName": "Microsoft Selfie",
+      "trackViewUrl": "https://apps.apple.com/us/app/microsoft-selfie/id1064676206?uo=4",
+      "trackId": 1064676206,
+      "trackName": "Microsoft Selfie",
       "primaryGenreName": "Photo & Video",
       "primaryGenreId": 6008,
-      "sellerName": "Microsoft Corporation",
-      "releaseDate": "2015-12-28T05:51:35Z",
-      "currentVersionReleaseDate": "2018-06-16T01:02:07Z",
-      "releaseNotes": "This update from Apple will improve the functionality of this app. No new features are included.\n\nGDPR compliance fix",
-      "version": "2.2.6",
-      "wrapperType": "software",
-      "currency": "USD",
-      "description": "Microsoft Selfie is a selfie and photo enhancement application available on iOS, web and WeChat. Backed by computer vision technology, Microsoft Selfie intelligently considers age, gender, skin tone, lighting, and many other variables all with one click. Users can transform average photos into enhanced, ideal portraits in seconds. \n\n[Key Features]\n- Intelligent Portrait Enhancement: The app intelligently considers age, gender, skin tone and lighting when enhancing the portraits, and it will make the result much more natural.  \n\n- Noise reduction: In dim light condition, the app would automatically enable “Denoise” mode, and effectively reduce noise by using burst shots. When “Denoise” mode is enabled, you can see “Denoise” on the screen.\n\n- Auto exposure: It can do automatic exposure correction and photo clarifying, especially for backlit photos. This function can be achieved when user chooses the “Boost” filter mode.",
-      "trackName": "Microsoft Selfie",
-      "trackId": 1064676206,
       "userRatingCount": 385,
       "country": "USA"
     }

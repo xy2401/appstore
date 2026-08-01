@@ -212,12 +212,6 @@
       "userRatingCount": 2495878
     },
     {
-      "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [],
-      "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/74/3d/ed/743dedc0-5205-22fe-1cd8-ec515ee89fb8/SE_iPhone_Screen_1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/62/ff/ac/62ffacb2-7ec8-9951-ceed-3323e72deb18/SE_iPhone_Screen_2.png/392x696bb.png",
@@ -237,10 +231,11 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cb/a9/e1/cba9e1ad-2ae7-3ed5-e998-e1b5563e35fb/iPad_Screen_7.png/576x768bb.png"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/33/a8/d233a875-954e-01b1-5826-8cdab0a25e3a/AppIcon-JE-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg",
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/33/a8/d233a875-954e-01b1-5826-8cdab0a25e3a/AppIcon-JE-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/33/a8/d233a875-954e-01b1-5826-8cdab0a25e3a/AppIcon-JE-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/gb/developer/just-eat-com/id383091095?uo=4",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/78/4a/63784ad9-8193-734f-8a7e-176000ffb000/AppIcon-JE-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -370,30 +365,15 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "minimumOsVersion": "17.0",
-      "genres": [
-        "Food & Drink",
-        "Lifestyle"
-      ],
-      "artistId": 383091095,
-      "artistName": "Just-Eat.com",
-      "price": 0,
+      "advisories": [],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/gb/developer/just-eat-com/id383091095?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/78/4a/63784ad9-8193-734f-8a7e-176000ffb000/AppIcon-JE-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/78/4a/63784ad9-8193-734f-8a7e-176000ffb000/AppIcon-JE-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
       "bundleId": "com.justeat.JUSTEAT",
-      "releaseDate": "2012-11-01T07:00:00Z",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "sellerName": "Just-Eat Holdings Limited",
-      "primaryGenreName": "Food & Drink",
-      "primaryGenreId": 6023,
-      "currentVersionReleaseDate": "2026-07-06T09:58:50Z",
-      "releaseNotes": "We've done some tasty bug fixes and improvements to the app to make your ordering experience even better",
-      "version": "36.31.0",
-      "wrapperType": "software",
-      "currency": "GBP",
-      "description": "Whether it’s Friday night pizza cravings, a healthy lunch on the go, or fun dinner with friends, the free Just Eat app has you covered. Order online for delivery or collection from your favourite restaurants and local takeaways in your area.\n\nOrder from your favourite restaurants\nFrom big brands like Kentucky Fried Chicken and Burger King to local gems nearby, order your favourite food online on Just Eat.\n• Boost your energy with a fresh salad or speedy lunch delivered straight to your work.\n• Unwind with a tasty dinner at home. From aromatic Indian to fresh sushi, crispy fried chicken to rich desserts, vegan treats to juicy steak. Find your flavours on Just Eat.\n• Satisfy your food cravings with pizza, kebab, and more comfort food from a takeaway nearby.\n\nYour benefits at a glance\nDownload the Just Eat app now and enjoy perks like:\n• Easy ordering: Fast checkout for delivery or collection\n• Exclusive offers: Special deals and discounts\n• Wide selection: Discover local favourites and famous places near you\n• Endless options: A variety of cuisines, flavours, and dietary options\n• Real-time updates: Follow your order with our handy Food Tracker®\n• Pay your way: Multiple payment options to choose from\n\nOver 14.000+ restaurants at your fingertips.\n\nFrom big brands like McDonald's to local hidden gems. From pizza delivery to lunch to go. Find it near you, order online, and track it to your door.\n\nDownload Just Eat now and get what you love, delivered or ready for collection.",
-      "userRatingCountForCurrentVersion": 2500261,
+      "userRatingCountForCurrentVersion": 2502924,
+      "averageUserRatingForCurrentVersion": 4.75713,
       "sellerUrl": "http://www.just-eat.co.uk/apps",
-      "averageUserRating": 4.7572,
-      "trackCensoredName": "Just Eat: Food and Shops",
       "languageCodesISO2A": [
         "BG",
         "CA",
@@ -407,19 +387,39 @@
         "SK",
         "ES"
       ],
-      "fileSizeBytes": "299208704",
+      "fileSizeBytes": "302253056",
       "formattedPrice": "Free",
-      "contentAdvisoryRating": "12+",
-      "trackViewUrl": "https://apps.apple.com/gb/app/just-eat-food-and-shops/id566347057?uo=4",
       "trackContentRating": "12+",
-      "averageUserRatingForCurrentVersion": 4.7572,
-      "trackId": 566347057,
-      "trackName": "Just Eat: Food and Shops",
+      "artistId": 383091095,
+      "artistName": "Just-Eat.com",
+      "genres": [
+        "Food & Drink",
+        "Lifestyle"
+      ],
+      "price": 0,
+      "releaseNotes": "We've done some tasty bug fixes and improvements to the app to make your ordering experience even better",
       "genreIds": [
         "6023",
         "6012"
       ],
-      "userRatingCount": 2500261,
+      "sellerName": "Just-Eat Holdings Limited",
+      "releaseDate": "2012-11-01T07:00:00Z",
+      "trackId": 566347057,
+      "trackName": "Just Eat: Food and Shops",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "primaryGenreName": "Food & Drink",
+      "primaryGenreId": 6023,
+      "currentVersionReleaseDate": "2026-07-29T14:09:20Z",
+      "version": "36.32.2",
+      "wrapperType": "software",
+      "currency": "GBP",
+      "description": "Whether it’s Friday night pizza cravings, last-minute birthday flowers, or stocking up on groceries, the free Just Eat app has you covered. Order online for delivery or collection from your favourite restaurants, go-to supermarkets, and local shops in your area.\n\nOrder from your favourite restaurants\nFrom big brands like McDonald's and KFC to local gems nearby, order your favourite food online on Just Eat.\n• Kickstart your day with a tasty breakfast to go.\n• Boost your energy with a fresh salad or speedy lunch delivered straight to your work.\n• Unwind with a tasty dinner at home. From aromatic Indian to fresh sushi, crispy fried chicken to rich desserts, vegan treats to juicy steak. Find your flavours on Just Eat.\n• Satisfy those late-night food cravings with pizza, kebab, and more comfort food from a takeaway nearby.\n\nGroceries delivered to your door\nMidweek essentials, missing ingredients, no matter what you need: get your groceries quickly and easily online. Order anything from fresh fruit to household essentials, from baked goods to frozen meals, delivered from trusted supermarkets like Co-op or Sainsbury's directly to your doorstep.\n• Busy week? Get your weekly shop delivered.\n• Forgot something? Fresh milk and eggs for that birthday cake you’re making are coming right up.\n• Feeling under the weather? We’ll bring fresh fruit and vegetables from your local supermarket.\n• Not enough time to relax? Restock your pantry staples with same-day grocery delivery.\n• Ready to deep clean? Get dish soap, detergent and more supplies delivered while the motivation lasts.\n\nShop online with Just Eat\nGo beyond the basics with Just Eat. Order beauty must-haves, emergency supplies from the pharmacy, and thoughtful gifts direct to their door. We’ve got all your everyday essentials and fun treats covered, delivered straight from go-to stores like Superdrug and more.\n• Beauty and skincare on demand: Lost your eyeliner or out of moisturiser? Viral cosmetics, skincare favourites and beauty essentials are a tap away.\n• Celebrate in style: From bouquets of fresh flowers to chilled bottles of champagne, make any moment special.\n• Emergency essentials: Out of nappies or toothpaste? Consider it done.\n• Health and self-care: Stay in bed when you’re under the weather. We’ll deliver the painkillers and plasters.\n• More time with your pets, less time stocking up: We’ll deliver pet food and care items.\n\nYour benefits at a glance\nDownload the Just Eat app now and enjoy perks like:\n• Easy ordering: Fast checkout for delivery or collection\n• Exclusive offers: Special deals and discounts\n• Wide selection: Discover local favourites and famous places near you\n• Endless options: A variety of stores, cuisines, and dietary options\n• Real-time updates: Follow your order with our handy Food Tracker®\n• Pay your way: Multiple payment options to choose from\n\nOver 90,000+ restaurants, supermarkets, takeaways, and shops at your fingertips.\n\nFrom big brands like McDonald's and Sainsbury's to convenience stores and local hidden gems. From pizza delivery to everyday essentials. Find it near you, order online, and track it to your door.\n\nDownload Just Eat now and get what you love, delivered or ready for collection.",
+      "trackCensoredName": "Just Eat: Food and Shops",
+      "trackViewUrl": "https://apps.apple.com/gb/app/just-eat-food-and-shops/id566347057?uo=4",
+      "contentAdvisoryRating": "12+",
+      "averageUserRating": 4.75713,
+      "minimumOsVersion": "17.0",
+      "userRatingCount": 2502924,
       "country": "GBR"
     }
   ]

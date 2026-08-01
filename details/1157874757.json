@@ -191,15 +191,11 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/a2/f8/50/a2f850e9-e2f5-01ab-9022-05df4ce8cfea/3784fe7e-c1ab-4b15-b96e-0d41a0c040b5_2048_2732.jpg/576x768bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/e2/90/fe/e290fec0-33c3-1650-686e-6354b342319b/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg",
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/e2/90/fe/e290fec0-33c3-1650-686e-6354b342319b/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/e2/90/fe/e290fec0-33c3-1650-686e-6354b342319b/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/jp/developer/norifumi-tamura/id1157874756?uo=4",
-      "advisories": [],
-      "kind": "software",
       "features": [
         "iosUniversal"
       ],
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -329,43 +325,47 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "userRatingCountForCurrentVersion": 20,
-      "minimumOsVersion": "11.0",
-      "averageUserRatingForCurrentVersion": 3.6,
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/jp/developer/norifumi-tamura/id1157874756?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/e2/90/fe/e290fec0-33c3-1650-686e-6354b342319b/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/e2/90/fe/e290fec0-33c3-1650-686e-6354b342319b/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.jpg",
       "formattedPrice": "¥150",
-      "contentAdvisoryRating": "4+",
-      "trackViewUrl": "https://apps.apple.com/jp/app/%E5%A1%97%E6%96%99%E3%81%AE%E7%A1%AC%E5%8C%96%E5%89%A4-%E5%8D%B3%E8%A8%88%E7%AE%97-ios%E7%89%88/id1157874757?uo=4",
       "trackContentRating": "4+",
-      "averageUserRating": 3.6,
-      "trackCensoredName": "塗料の硬化剤　即計算！　iOS版",
+      "averageUserRatingForCurrentVersion": 3.6,
+      "userRatingCountForCurrentVersion": 20,
       "languageCodesISO2A": [
         "EN",
         "JA"
       ],
       "fileSizeBytes": "26099712",
       "price": 150,
-      "genres": [
-        "仕事効率化"
-      ],
-      "artistId": 1157874756,
-      "artistName": "Norifumi Tamura",
+      "primaryGenreName": "Productivity",
+      "primaryGenreId": 6007,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "bundleId": "jp.sugitatosou.appname",
+      "sellerName": "Norifumi Tamura",
+      "trackId": 1157874757,
+      "trackName": "塗料の硬化剤　即計算！　iOS版",
+      "releaseDate": "2016-09-27T02:08:52Z",
       "genreIds": [
         "6007"
       ],
-      "primaryGenreName": "Productivity",
-      "primaryGenreId": 6007,
-      "sellerName": "Norifumi Tamura",
-      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2021-03-18T09:47:46Z",
       "releaseNotes": "2021年3月　バージョン1.3.0について\n\n\n処理が重いなどに対応。\n入力枠と表示方法を変更いたしました。\n（入力枠と結果表示を同一枠にしていたものを、別枠に。そこに内部的不具合があり、ご迷惑をお掛けしておりました）\n\n処理に関する問題解決版。\n取り急ぎのため、文字の大きさとかそのあたりはご容赦ください。\n後日改良いたします。",
       "version": "1.3.0",
       "wrapperType": "software",
       "currency": "JPY",
       "description": "全国の塗装屋さんのためのアプリです。\n\nこのアプリは、「比率」と、「主剤の重さ」を入力すれば、「硬化剤の重量」と「作成量」を即計算します！\n標準塗布量を入力すれば、どれぐらいの面積を塗ることができるのかも即計算！\n\n主剤・硬化剤・作成したい量・塗りたい面積、の重さや面積から、どれがどれぐらい必要か計算します。\n\n希釈率（シンナーとかで薄める場合）を入れれば、その量も計算します！\n\n無駄のない塗料の作成、使用を目指してご活用ください。\n\n※追加機能募集！\n塗料、塗装に関して、こんな計算機能が欲しいというものがあればぜひ株式会社杉田塗装までご連絡ください。",
-      "bundleId": "jp.sugitatosou.appname",
-      "currentVersionReleaseDate": "2021-03-18T09:47:46Z",
-      "trackName": "塗料の硬化剤　即計算！　iOS版",
-      "trackId": 1157874757,
-      "releaseDate": "2016-09-27T02:08:52Z",
+      "averageUserRating": 3.6,
+      "trackCensoredName": "塗料の硬化剤　即計算！　iOS版",
+      "trackViewUrl": "https://apps.apple.com/jp/app/%E5%A1%97%E6%96%99%E3%81%AE%E7%A1%AC%E5%8C%96%E5%89%A4-%E5%8D%B3%E8%A8%88%E7%AE%97-ios%E7%89%88/id1157874757?uo=4",
+      "contentAdvisoryRating": "4+",
+      "minimumOsVersion": "11.0",
+      "artistId": 1157874756,
+      "artistName": "Norifumi Tamura",
+      "genres": [
+        "仕事効率化"
+      ],
       "userRatingCount": 20,
       "country": "JPN"
     }

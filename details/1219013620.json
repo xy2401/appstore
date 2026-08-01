@@ -216,7 +216,12 @@
       "userRatingCount": 2767
     },
     {
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/a0/f7/08a0f7ea-6851-719b-3185-7a7867fe8dcc/AppIcons-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
+      "advisories": [],
+      "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/91/31/ef9131e8-03ab-f4bf-17ed-c21f9d0a7b95/pr_source.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/c3/fd/34c3fdba-9fce-966e-8fba-af212b199e5b/pr_source.png/392x696bb.png",
@@ -225,15 +230,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/50/3d/fc503d07-30c8-5ca1-4c33-1b7a4cb38421/pr_source.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/34/e6/9034e657-c713-731a-95c1-cdfd3fa252c0/mzl.odyuebqe.png/392x696bb.png"
       ],
-      "artistViewUrl": "https://apps.apple.com/us/developer/microsoft-corporation/id298856275?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/a0/f7/08a0f7ea-6851-719b-3185-7a7867fe8dcc/AppIcons-0-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/a0/f7/08a0f7ea-6851-719b-3185-7a7867fe8dcc/AppIcons-0-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
-      "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [],
-      "kind": "software",
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/f2/fd/d8f2fd45-256a-5391-760c-ddf17ed7950d/pr_source.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/83/78/0f8378d7-bf9d-d40a-43a4-159be0b0afb8/pr_source.png/576x768bb.png",
@@ -242,6 +238,10 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/5e/81/3d5e813e-7ab4-4117-d2bb-157d4e1ed51d/mzl.zpjansen.png/552x414bb.png"
       ],
       "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/a0/f7/08a0f7ea-6851-719b-3185-7a7867fe8dcc/AppIcons-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/us/developer/microsoft-corporation/id298856275?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/a0/f7/08a0f7ea-6851-719b-3185-7a7867fe8dcc/AppIcons-0-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/a0/f7/08a0f7ea-6851-719b-3185-7a7867fe8dcc/AppIcons-0-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -371,8 +371,33 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "averageUserRating": 4.77256,
+      "bundleId": "com.microsoft.azure",
       "minimumOsVersion": "16.0",
+      "price": 0,
+      "genres": [
+        "Business",
+        "Productivity"
+      ],
+      "artistId": 298856275,
+      "artistName": "Microsoft Corporation",
+      "currentVersionReleaseDate": "2026-07-21T15:51:57Z",
+      "releaseNotes": "Thank you for using the Azure app. Our regular updates include performance improvements and bug fixes to make the app faster and more reliable.\n\nPlease reach out to us for any questions, concerns, or feature requests.",
+      "genreIds": [
+        "6000",
+        "6007"
+      ],
+      "primaryGenreName": "Business",
+      "primaryGenreId": 6000,
+      "sellerName": "Microsoft Corporation",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "version": "8.1.10",
+      "wrapperType": "software",
+      "currency": "USD",
+      "description": "The Microsoft Azure app helps you keep track of your resources while on-the-go:\n•\tStay connected to the cloud and check status and critical metrics anytime, anywhere\n•\tStay informed with notifications and alerts about important health issues \n•\tStay in control of your resources and take corrective actions, like starting and stopping VMs and web apps\n\n\n\n\n--------------------\n\nMicrosoft collects data to operate effectively and provide you with the best experiences in our products. This mobile application may collect personal information, for example, the email address used to log in. We do not share this personal information with third-parties without your consent. We do not use your information for marketing purposes.\n\nIf you do not agree with Microsoft collecting this data, please do not log into the application and delete it from your device.",
+      "averageUserRatingForCurrentVersion": 4.77273,
+      "formattedPrice": "Free",
+      "fileSizeBytes": "117042176",
+      "sellerUrl": "http://aka.ms/azureapp",
       "languageCodesISO2A": [
         "CS",
         "NL",
@@ -393,41 +418,16 @@
         "ZH",
         "TR"
       ],
-      "fileSizeBytes": "117042176",
-      "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 2770,
+      "userRatingCountForCurrentVersion": 2772,
       "trackContentRating": "4+",
-      "sellerUrl": "http://aka.ms/azureapp",
-      "averageUserRatingForCurrentVersion": 4.77256,
+      "averageUserRating": 4.77273,
       "trackCensoredName": "Microsoft Azure",
       "trackViewUrl": "https://apps.apple.com/us/app/microsoft-azure/id1219013620?uo=4",
       "contentAdvisoryRating": "4+",
-      "genres": [
-        "Business",
-        "Productivity"
-      ],
-      "artistId": 298856275,
-      "artistName": "Microsoft Corporation",
-      "genreIds": [
-        "6000",
-        "6007"
-      ],
-      "currentVersionReleaseDate": "2026-07-21T15:51:57Z",
-      "trackId": 1219013620,
       "releaseDate": "2017-05-09T22:50:43Z",
-      "sellerName": "Microsoft Corporation",
-      "primaryGenreName": "Business",
-      "primaryGenreId": 6000,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseNotes": "Thank you for using the Azure app. Our regular updates include performance improvements and bug fixes to make the app faster and more reliable.\n\nPlease reach out to us for any questions, concerns, or feature requests.",
-      "version": "8.1.10",
-      "wrapperType": "software",
-      "currency": "USD",
-      "description": "The Microsoft Azure app helps you keep track of your resources while on-the-go:\n•\tStay connected to the cloud and check status and critical metrics anytime, anywhere\n•\tStay informed with notifications and alerts about important health issues \n•\tStay in control of your resources and take corrective actions, like starting and stopping VMs and web apps\n\n\n\n\n--------------------\n\nMicrosoft collects data to operate effectively and provide you with the best experiences in our products. This mobile application may collect personal information, for example, the email address used to log in. We do not share this personal information with third-parties without your consent. We do not use your information for marketing purposes.\n\nIf you do not agree with Microsoft collecting this data, please do not log into the application and delete it from your device.",
-      "bundleId": "com.microsoft.azure",
-      "price": 0,
+      "trackId": 1219013620,
       "trackName": "Microsoft Azure",
-      "userRatingCount": 2770,
+      "userRatingCount": 2772,
       "country": "USA"
     }
   ]

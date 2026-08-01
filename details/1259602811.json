@@ -191,12 +191,6 @@
       "userRatingCount": 1922
     },
     {
-      "isGameCenterEnabled": false,
-      "advisories": [],
-      "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/jp/developer/japan-system-techniques-co-ltd/id544658046?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/0d/87/db0d8754-aecf-b25f-26c6-af9649020051/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/0d/87/db0d8754-aecf-b25f-26c6-af9649020051/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/fb/18/2b/fb182ba8-51c3-ab21-673a-562d3927c8ca/mzl.ikfgkvxu.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/73/8d/a7/738da7c8-ce0e-848b-10e1-ebf3520732d5/mzl.dxnnhxcv.png/392x696bb.png",
@@ -207,7 +201,7 @@
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/0d/87/db0d8754-aecf-b25f-26c6-af9649020051/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
-      "features": [],
+      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -337,6 +331,22 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
+      "features": [],
+      "advisories": [],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/jp/developer/japan-system-techniques-co-ltd/id544658046?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/0d/87/db0d8754-aecf-b25f-26c6-af9649020051/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/0d/87/db0d8754-aecf-b25f-26c6-af9649020051/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.jpg",
+      "languageCodesISO2A": [
+        "EN",
+        "JA"
+      ],
+      "fileSizeBytes": "24389632",
+      "formattedPrice": "無料",
+      "userRatingCountForCurrentVersion": 2005,
+      "averageUserRatingForCurrentVersion": 1.60998,
+      "sellerUrl": "http://www.jast-gakuen.com",
+      "trackContentRating": "4+",
       "minimumOsVersion": "13.0",
       "artistId": 544658046,
       "artistName": "Japan System Techniques Co., Ltd.",
@@ -345,15 +355,20 @@
         "ライフスタイル"
       ],
       "price": 0,
-      "currentVersionReleaseDate": "2026-04-08T15:41:20Z",
-      "releaseNotes": "・不具合を修正",
-      "trackName": "UNIPA(ユニパ) Ver.1",
       "trackId": 1259602811,
+      "trackName": "UNIPA(ユニパ) Ver.1",
+      "bundleId": "com.jast.gakuen.up.sm",
       "releaseDate": "2017-10-12T02:22:35Z",
+      "genreIds": [
+        "6017",
+        "6012"
+      ],
+      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "Japan System Techniques Co., Ltd.",
       "primaryGenreName": "Education",
       "primaryGenreId": 6017,
-      "sellerName": "Japan System Techniques Co., Ltd.",
-      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-04-08T15:41:20Z",
+      "releaseNotes": "・不具合を修正",
       "version": "1.1.28",
       "wrapperType": "software",
       "currency": "JPY",
@@ -361,23 +376,8 @@
       "trackCensoredName": "UNIPA(ユニパ) Ver.1",
       "trackViewUrl": "https://apps.apple.com/jp/app/unipa-%E3%83%A6%E3%83%8B%E3%83%91-ver-1/id1259602811?uo=4",
       "contentAdvisoryRating": "4+",
-      "averageUserRating": 1.6092,
-      "sellerUrl": "http://www.jast-gakuen.com",
-      "languageCodesISO2A": [
-        "EN",
-        "JA"
-      ],
-      "fileSizeBytes": "24389632",
-      "formattedPrice": "無料",
-      "userRatingCountForCurrentVersion": 2001,
-      "trackContentRating": "4+",
-      "bundleId": "com.jast.gakuen.up.sm",
-      "averageUserRatingForCurrentVersion": 1.6092,
-      "genreIds": [
-        "6017",
-        "6012"
-      ],
-      "userRatingCount": 2001,
+      "averageUserRating": 1.60998,
+      "userRatingCount": 2005,
       "country": "JPN"
     }
   ]

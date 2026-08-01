@@ -202,6 +202,7 @@
       "userRatingCount": 376524
     },
     {
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/09/85/72/0985729d-845e-dc28-8e66-60acd3ca6132/01_main_UQmobile.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c2/4a/89/c24a8903-c7b0-911f-de71-8aba4e204a25/02_main_UQmobile.png/392x696bb.png",
@@ -224,7 +225,9 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/73/58/c173584b-dd5b-0ca6-cd2a-03eace15b529/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -356,50 +359,47 @@
       ],
       "advisories": [],
       "kind": "software",
-      "features": [
-        "iosUniversal"
-      ],
       "artistViewUrl": "https://apps.apple.com/jp/developer/kddi-corporation/id448137434?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/73/58/c173584b-dd5b-0ca6-cd2a-03eace15b529/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/73/58/c173584b-dd5b-0ca6-cd2a-03eace15b529/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
-      "minimumOsVersion": "15.0",
-      "releaseNotes": "より快適にご利用いただけるよう軽微な改修を行いました。\n今後ともMy UQ mobileをよろしくお願いいたします。",
       "languageCodesISO2A": [
         "EN",
         "JA"
       ],
       "fileSizeBytes": "127226880",
       "formattedPrice": "無料",
-      "userRatingCountForCurrentVersion": 378143,
+      "userRatingCountForCurrentVersion": 379671,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.0991,
+      "averageUserRatingForCurrentVersion": 4.09818,
       "artistId": 448137434,
       "artistName": "KDDI CORPORATION",
       "genres": [
         "ユーティリティ"
       ],
       "price": 0,
+      "currentVersionReleaseDate": "2026-06-25T02:04:37Z",
+      "bundleId": "jp.uqmobile.uqmobileportalapp.ios",
       "trackId": 1117312593,
       "trackName": "My UQ mobile",
-      "bundleId": "jp.uqmobile.uqmobileportalapp.ios",
-      "releaseDate": "2016-06-23T06:41:30Z",
-      "sellerName": "KDDI CORPORATION",
-      "isVppDeviceBasedLicensingEnabled": true,
       "genreIds": [
         "6002"
       ],
       "primaryGenreName": "Utilities",
       "primaryGenreId": 6002,
-      "currentVersionReleaseDate": "2026-06-25T02:04:37Z",
+      "sellerName": "KDDI CORPORATION",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseNotes": "より快適にご利用いただけるよう軽微な改修を行いました。\n今後ともMy UQ mobileをよろしくお願いいたします。",
       "version": "10.9.0",
       "wrapperType": "software",
       "currency": "JPY",
       "description": "◆料金もデータ残量（ギガ）もポイントもすぐに確認できる！\n\n〜主な機能〜\n\n①データ残量（ギガ）・利用量\n・現在のデータ残量（ギガ）や利用量を確認できます\n・直近30日間、過去6ヶ月のデータ利用履歴（ギガ）もグラフで確認できます\n\n②ご請求額・ご請求予定額\n・ご請求額と内訳を確認できます\n・過去6ヶ月のご請求額をグラフで比較できます\n\n③ご契約情報の確認・変更\n・ご契約情報の確認や、料金プラン・オプションサービスの変更手続きができます\n・お引越し前に必要な住所変更ができます\n・エンタメ、auの金融・保険サービスの加入状況が確認できます\n\n④サポートメニュー\n・疑問やトラブルをご自身でスムーズに解決できます\n・テキスト形式でオペレーターへの相談ができるチャット機能や来店予約手続きができます\n\n⑤お知らせ\n・あなたにあったお知らせが確認できます\n\n⑥カレンダー\n・大事な予定が一目でわかります\n・おトクな情報もカレンダーで確認できます\n\n⑦Pontaポイント・au Ponta レベル\n・保有しているPontaポイント・au Ponta レベルの確認ができます\n・ポイントの使い方や貯め方もアプリから確認できます\n\n⑧au PAY残高・au PAYカード\n・au PAY残高やau PAYカードの利用額が確認できます\n\n⑨UQ mobileオンラインショップ\n・最新機種の購入や機種変更も簡単にお手続きできます\n\n⑩データ通信モードの切り替え\n・高速モード(高速通信)と節約モード(低速通信)を切り替えることができます\n※対象の料金プランでご利用できます\n\n利用規約URL：\nhttps://www.uqwimax.jp/signup/term/files/myuqmobile_service.pdf",
-      "averageUserRating": 4.0991,
+      "minimumOsVersion": "15.0",
       "trackCensoredName": "My UQ mobile",
       "trackViewUrl": "https://apps.apple.com/jp/app/my-uq-mobile/id1117312593?uo=4",
       "contentAdvisoryRating": "4+",
-      "userRatingCount": 378143,
+      "averageUserRating": 4.09818,
+      "releaseDate": "2016-06-23T06:41:30Z",
+      "userRatingCount": 379671,
       "country": "JPN"
     }
   ]

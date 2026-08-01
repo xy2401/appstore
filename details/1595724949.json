@@ -208,6 +208,7 @@
       "userRatingCount": 31175
     },
     {
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/60/27/06/6027062d-f1a7-4802-4f76-8ae0992936a5/6bf3086c-382a-4257-b5cc-634445778468_iPhone_8_Plus_U00285.5in_U0029_01.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bb/8c/ae/bb8cae6e-69a6-99be-699d-d492ffae4550/0b62ffd9-1141-4596-85a3-5b249a644666_iPhone_8_Plus_U00285.5in_U0029_02.png/392x696bb.png",
@@ -223,8 +224,10 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/34/68/62/346862df-6838-6aff-fb99-66caa2c5aae0/2fa4bca9-68b5-4a4d-8a2b-ad299b9570d6_iPad_Pro_U0028_U7b2c2_U4e16_U4ee3_U0029_12.9_05.png/576x768bb.png"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/a6/8e/dca68e06-0f94-5fef-88e6-afa6ac3ba385/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5f/5e/3a/5f5e3a3a-d814-a425-03f8-9c2210fffdd3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -356,15 +359,10 @@
       ],
       "advisories": [],
       "kind": "software",
-      "features": [
-        "iosUniversal"
-      ],
       "artistViewUrl": "https://apps.apple.com/jp/developer/classi%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/id959491388?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/a6/8e/dca68e06-0f94-5fef-88e6-afa6ac3ba385/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/a6/8e/dca68e06-0f94-5fef-88e6-afa6ac3ba385/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
-      "minimumOsVersion": "17.0",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5f/5e/3a/5f5e3a3a-d814-a425-03f8-9c2210fffdd3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5f/5e/3a/5f5e3a3a-d814-a425-03f8-9c2210fffdd3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
       "sellerUrl": "https://tetoru.jp/",
-      "releaseNotes": "・軽微な修正をしました\n快適にご利用いただくために最新バージョンへのアップデートをお願いします。\ntetoru(テトル）は保護者と学校に新しいつながりを創出するために日々改善を行っています。\n引き続きtetoruをどうぞよろしくお願いします。\n※ その他お困りごとがありましたら下記のヘルプセンターをご利用ください。\nhttps://support.tetoru.jp/hc/ja",
       "languageCodesISO2A": [
         "AR",
         "EN",
@@ -380,38 +378,40 @@
         "ZH",
         "VI"
       ],
-      "fileSizeBytes": "12762112",
+      "fileSizeBytes": "12411904",
       "formattedPrice": "無料",
-      "userRatingCountForCurrentVersion": 35012,
+      "userRatingCountForCurrentVersion": 35106,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.60454,
+      "averageUserRatingForCurrentVersion": 4.6036,
       "artistId": 959491388,
       "artistName": "Classi株式会社",
       "genres": [
         "教育"
       ],
       "price": 0,
+      "currentVersionReleaseDate": "2026-07-29T01:53:52Z",
+      "bundleId": "jp.classi.ocean",
       "trackId": 1595724949,
       "trackName": "tetoru（テトル）",
-      "bundleId": "jp.classi.ocean",
-      "releaseDate": "2022-01-30T08:00:00Z",
-      "sellerName": "CLASSI CORP.",
-      "isVppDeviceBasedLicensingEnabled": true,
       "genreIds": [
         "6017"
       ],
       "primaryGenreName": "Education",
       "primaryGenreId": 6017,
-      "currentVersionReleaseDate": "2026-07-21T01:32:42Z",
-      "version": "4.16.3",
+      "sellerName": "CLASSI CORP.",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseNotes": "・Widget（ウィジェット）機能の提供終了しました。アップデート以降は、ホーム画面に設定したWidgetが停止または表示されなくなりますので、大変お手数ですがご自身でWidgetの削除をお願いいたします。\n快適にご利用いただくために最新バージョンへのアップデートをお願いします。\ntetoru(テトル）は保護者と学校に新しいつながりを創出するために日々改善を行っています。\n引き続きtetoruをどうぞよろしくお願いします。\n※ その他お困りごとがありましたら下記のヘルプセンターをご利用ください。\nhttps://support.tetoru.jp/hc/ja",
+      "version": "4.17.0",
       "wrapperType": "software",
       "currency": "JPY",
       "description": "tetoru（テトル）は手軽に使える小中学校向けの保護者連絡サービスです。\n学校から保護者への連絡配信や、保護者から学校への欠席連絡などを効率化し、学校のICT化をサポートします。\n\n■tetoruでできること\n保護者は学校から配布される登録用紙の内容を登録することによりお子さま情報との連携、連絡が可能になります。\n\n1. 学校からの連絡配信閲覧\n学校からの連絡配信を受け取り、閲覧することができます。\n連絡は学校全体、学年別、クラス別とグループごとの連絡内容を確認することができます。\n\n2. アプリでの欠席連絡送信\nお子さまの欠席連絡は電話や連絡帳を使わず、アプリで完結することができます。\n学校への電話が繋がらないといった負担を軽減することができます。\n\n3. ひとつのアプリで兄弟連携\n兄弟がいる保護者はひとつのIDで兄弟を紐付けることができます。\nお子さまごとにログイン、ログアウトする手間が省け、お子さまに関する情報がtetoruひとつで完結できます。\n\n■tetoruが生まれた背景\n学校に新しいつながりを。\n\n学校の連絡をもっとスムーズに、気持ちがつながりあうものにしたい。\nそんな発想からtetoruは生まれました。\n先生や保護者が抱える負担を軽くして、よりよい信頼関係を築くきっかけになるために。\nお互いが伝えあうことで、今を知り、ココロが通じあうことで、思いやり、手と手をとりあって、子どもの成長を発見できるサービスへ。",
-      "averageUserRating": 4.60454,
+      "minimumOsVersion": "17.0",
       "trackCensoredName": "tetoru（テトル）",
       "trackViewUrl": "https://apps.apple.com/jp/app/tetoru-%E3%83%86%E3%83%88%E3%83%AB/id1595724949?uo=4",
       "contentAdvisoryRating": "4+",
-      "userRatingCount": 35012,
+      "averageUserRating": 4.6036,
+      "releaseDate": "2022-01-30T08:00:00Z",
+      "userRatingCount": 35106,
       "country": "JPN"
     }
   ]

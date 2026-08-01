@@ -2,14 +2,10 @@
   "resultCount": 1,
   "results": [
     {
-      "artistViewUrl": "https://apps.apple.com/cn/developer/%E5%A4%AA%E5%BD%AC-%E9%83%AD/id6792054754?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/3f/fe/363ffec9-b9db-f7f3-b275-343fb52dc0fc/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/3f/fe/363ffec9-b9db-f7f3-b275-343fb52dc0fc/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
-      "screenshotUrls": [],
-      "ipadScreenshotUrls": [],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/3f/fe/363ffec9-b9db-f7f3-b275-343fb52dc0fc/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -141,47 +137,51 @@
       ],
       "advisories": [],
       "kind": "software",
-      "features": [
-        "iosUniversal"
-      ],
-      "trackCensoredName": "班主任工作台",
-      "trackViewUrl": "https://apps.apple.com/cn/app/%E7%8F%AD%E4%B8%BB%E4%BB%BB%E5%B7%A5%E4%BD%9C%E5%8F%B0/id6792072690?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4,
-      "userRatingCountForCurrentVersion": 5,
-      "averageUserRatingForCurrentVersion": 4,
-      "sellerUrl": "https://github.com/Chipmunk1995/banzhuren-ios-pages",
-      "languageCodesISO2A": [
-        "ZH"
-      ],
-      "fileSizeBytes": "13037568",
-      "formattedPrice": "¥29.90",
-      "trackContentRating": "4+",
+      "screenshotUrls": [],
+      "ipadScreenshotUrls": [],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/3f/fe/363ffec9-b9db-f7f3-b275-343fb52dc0fc/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/cn/developer/%E5%A4%AA%E5%BD%AC-%E9%83%AD/id6792054754?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/3f/fe/363ffec9-b9db-f7f3-b275-343fb52dc0fc/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/3f/fe/363ffec9-b9db-f7f3-b275-343fb52dc0fc/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+      "averageUserRating": 4.30769,
+      "releaseNotes": "本次更新重点完善成绩分析、表格导入和本地资料迁移：\n\n• 成绩支持年级、学校、区县、市及联考排名识别，并按同一指标和排名范围生成趋势\n• 优化 Excel/CSV 多行与合并表头识别，补充学生信息字段、导入预览和标准模板\n• 学生多选支持全选本班或搜索结果，改进长名单选择与删除可靠性\n• 请假新增上午、下午、全天和连续节次快捷选择，并提供学生月度汇总\n• 完善单双周课表、学期周次、每日作息、留痕附件和可编辑台账导出\n• 数据迁移升级为完整本地备份，包含业务资料及应用内照片、录音和附件，恢复前会校验并保留快照\n• 修复成绩、考试、班级、留痕等删除及多项稳定性问题\n\n所有数据仍只保存在设备本机。",
       "minimumOsVersion": "17.0",
-      "price": 29.9,
+      "genres": [
+        "效率"
+      ],
       "artistId": 6792054754,
       "artistName": "太彬 郭",
-      "bundleId": "cn.guotaibin.banzhuren",
       "trackId": 6792072690,
       "trackName": "班主任工作台",
-      "currentVersionReleaseDate": "2026-07-26T17:48:17Z",
-      "releaseDate": "2026-07-24T07:00:00Z",
-      "sellerName": "太彬 郭",
       "genreIds": [
         "6007"
       ],
+      "bundleId": "cn.guotaibin.banzhuren",
       "primaryGenreName": "Productivity",
       "primaryGenreId": 6007,
+      "sellerName": "太彬 郭",
       "isVppDeviceBasedLicensingEnabled": true,
-      "releaseNotes": "本次更新重点完善成绩分析、表格导入和本地资料迁移：\n\n• 成绩支持年级、学校、区县、市及联考排名识别，并按同一指标和排名范围生成趋势\n• 优化 Excel/CSV 多行与合并表头识别，补充学生信息字段、导入预览和标准模板\n• 学生多选支持全选本班或搜索结果，改进长名单选择与删除可靠性\n• 请假新增上午、下午、全天和连续节次快捷选择，并提供学生月度汇总\n• 完善单双周课表、学期周次、每日作息、留痕附件和可编辑台账导出\n• 数据迁移升级为完整本地备份，包含业务资料及应用内照片、录音和附件，恢复前会校验并保留快照\n• 修复成绩、考试、班级、留痕等删除及多项稳定性问题\n\n所有数据仍只保存在设备本机。",
+      "currentVersionReleaseDate": "2026-07-26T17:48:17Z",
       "version": "1.2",
       "wrapperType": "software",
       "currency": "CNY",
       "description": "班主任工作台是一款面向一线教师的纯本地工作工具，把每天反复出现的班级事务集中到一个清晰、安静的工作台中。\n\n【今日工作台】\n集中查看待办、考试倒计时、本班课表、教师个人课表与今日班级动态。支持带时间的待办提醒、桌面小组件和主屏幕快捷操作。\n\n【日常事务】\n记录请假、销假、违纪、量化积分与处分后续跟踪；同时支持班费收支、宿舍管理、培优辅差和课后服务统计。\n\n【学生与成绩】\n支持手动添加学生，也可从 Excel 或 CSV 导入名单、成绩、课表与高中合格考情况。学生按拼音首字母分组，可快速检索；还可管理座位、宿舍、联系人、期末评语并导出单生家长版档案。\n\n【工作留痕】\n集中保存班级活动、主题班会、安全教育和学生沟通等记录。照片保存在 App 私有目录，可按需选择是否额外备份到系统相册，并可生成 PDF 或表格用于个人归档。\n\n【纯本地】\n不要求注册或登录，不含广告。学生档案、成绩、照片、录音、课表和日常记录只保存在本机；App 不提供云同步、在线反馈、分析统计或崩溃上传，也不向开发者服务器发送 App 数据。\n\n支持小学、初中、高中及大学辅导员等不同工作场景。部分入口会根据所选学段自动调整。",
-      "genres": [
-        "效率"
+      "userRatingCountForCurrentVersion": 13,
+      "sellerUrl": "https://github.com/Chipmunk1995/banzhuren-ios-pages",
+      "fileSizeBytes": "13037568",
+      "formattedPrice": "¥29.90",
+      "trackContentRating": "4+",
+      "languageCodesISO2A": [
+        "ZH"
       ],
-      "userRatingCount": 5,
+      "averageUserRatingForCurrentVersion": 4.30769,
+      "trackCensoredName": "班主任工作台",
+      "trackViewUrl": "https://apps.apple.com/cn/app/%E7%8F%AD%E4%B8%BB%E4%BB%BB%E5%B7%A5%E4%BD%9C%E5%8F%B0/id6792072690?uo=4",
+      "contentAdvisoryRating": "4+",
+      "releaseDate": "2026-07-24T07:00:00Z",
+      "price": 29.9,
+      "userRatingCount": 13,
       "country": "CHN"
     }
   ]

@@ -219,10 +219,10 @@
       "userRatingCount": 170
     },
     {
-      "artistViewUrl": "https://apps.apple.com/us/developer/microsoft-corporation/id298856275?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/a9/4c/23a94c72-1586-5379-bd70-c9e05f3d2668/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220-0.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/a9/4c/23a94c72-1586-5379-bd70-c9e05f3d2668/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220-0.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
+      "features": [],
+      "advisories": [],
+      "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/a8/dd/73/a8dd7338-8c23-5ec1-2752-57281b5aac7b/c22c7c21-7232-4ded-a25d-19cefd409ab6_IMG_0003_2.PNG/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/20/46/6b/20466b52-0626-2831-1a6a-b6ebfe7e10e2/30520eb0-5f9c-49b0-9482-b479207ea898_IMG_0004_2.PNG/392x696bb.png",
@@ -233,9 +233,9 @@
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/a9/4c/23a94c72-1586-5379-bd70-c9e05f3d2668/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220-0.png/512x512bb.jpg",
-      "features": [],
-      "advisories": [],
-      "kind": "software",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/a9/4c/23a94c72-1586-5379-bd70-c9e05f3d2668/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220-0.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/a9/4c/23a94c72-1586-5379-bd70-c9e05f3d2668/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220-0.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/us/developer/microsoft-corporation/id298856275?uo=4",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -365,13 +365,30 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "trackCensoredName": "Microsoft Surface",
-      "trackViewUrl": "https://apps.apple.com/us/app/microsoft-surface/id1476329686?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 3.12281,
       "minimumOsVersion": "11.0",
-      "sellerUrl": "https://www.microsoft.com/p/surface-earbuds/920bnghqjshs",
+      "artistName": "Microsoft Corporation",
+      "price": 0,
+      "artistId": 298856275,
+      "genres": [
+        "Utilities",
+        "Productivity"
+      ],
+      "genreIds": [
+        "6002",
+        "6007"
+      ],
+      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "Microsoft Corporation",
+      "releaseNotes": "Thanks for using Microsoft Surface app! This release includes bug fixes and performance improvements.",
+      "bundleId": "com.microsoft.SurfaceAudio",
+      "releaseDate": "2020-05-07T07:00:00Z",
+      "currentVersionReleaseDate": "2025-01-23T03:40:52Z",
+      "version": "2.1059.0",
+      "wrapperType": "software",
+      "currency": "USD",
+      "description": "Here are the things you can do:\n• Update your earbuds and headphones\n• View and change device info\n• View battery info and volume level\n• Personalize settings\n• Change equalizer settings to get the sound you want\n• Control which devices are connected\n• Change language settings\n• Reset your earbuds and headphones to the factory settings\n• Watch tutorial videos\n• Send us feedback",
       "averageUserRatingForCurrentVersion": 3.12281,
+      "sellerUrl": "https://www.microsoft.com/p/surface-earbuds/920bnghqjshs",
       "languageCodesISO2A": [
         "BG",
         "HR",
@@ -408,31 +425,14 @@
       "formattedPrice": "Free",
       "userRatingCountForCurrentVersion": 171,
       "trackContentRating": "4+",
-      "artistId": 298856275,
-      "artistName": "Microsoft Corporation",
-      "genres": [
-        "Utilities",
-        "Productivity"
-      ],
-      "price": 0,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "bundleId": "com.microsoft.SurfaceAudio",
-      "genreIds": [
-        "6002",
-        "6007"
-      ],
+      "averageUserRating": 3.12281,
+      "contentAdvisoryRating": "4+",
+      "trackCensoredName": "Microsoft Surface",
+      "trackViewUrl": "https://apps.apple.com/us/app/microsoft-surface/id1476329686?uo=4",
+      "trackId": 1476329686,
+      "trackName": "Microsoft Surface",
       "primaryGenreName": "Utilities",
       "primaryGenreId": 6002,
-      "sellerName": "Microsoft Corporation",
-      "releaseDate": "2020-05-07T07:00:00Z",
-      "currentVersionReleaseDate": "2025-01-23T03:40:52Z",
-      "releaseNotes": "Thanks for using Microsoft Surface app! This release includes bug fixes and performance improvements.",
-      "version": "2.1059.0",
-      "wrapperType": "software",
-      "currency": "USD",
-      "description": "Here are the things you can do:\n• Update your earbuds and headphones\n• View and change device info\n• View battery info and volume level\n• Personalize settings\n• Change equalizer settings to get the sound you want\n• Control which devices are connected\n• Change language settings\n• Reset your earbuds and headphones to the factory settings\n• Watch tutorial videos\n• Send us feedback",
-      "trackName": "Microsoft Surface",
-      "trackId": 1476329686,
       "userRatingCount": 171,
       "country": "USA"
     }

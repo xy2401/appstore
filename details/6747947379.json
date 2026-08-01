@@ -175,14 +175,13 @@
       "userRatingCount": 4
     },
     {
+      "isGameCenterEnabled": false,
       "artistViewUrl": "https://apps.apple.com/cn/developer/%E5%A8%87-%E6%9D%8E/id1700298679?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/b7/dd/58b7dd24-4276-c7c5-df8f-dc28d3bd90d7/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/b7/dd/58b7dd24-4276-c7c5-df8f-dc28d3bd90d7/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/100x100bb.jpg",
-      "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
       ],
-      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -312,11 +311,14 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
+      "advisories": [],
       "kind": "software",
       "screenshotUrls": [],
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/b7/dd/58b7dd24-4276-c7c5-df8f-dc28d3bd90d7/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/512x512bb.jpg",
+      "releaseNotes": "1、新增了首页风格自定义功能\n2、修复部分bug，优化用户体验",
+      "averageUserRating": 3.11111,
       "trackCensoredName": "sousou-聚合搜索、直达搜索、极简搜索无信息流干扰",
       "trackViewUrl": "https://apps.apple.com/cn/app/sousou-%E8%81%9A%E5%90%88%E6%90%9C%E7%B4%A2-%E7%9B%B4%E8%BE%BE%E6%90%9C%E7%B4%A2-%E6%9E%81%E7%AE%80%E6%90%9C%E7%B4%A2%E6%97%A0%E4%BF%A1%E6%81%AF%E6%B5%81%E5%B9%B2%E6%89%B0/id6747947379?uo=4",
       "contentAdvisoryRating": "4+",
@@ -326,26 +328,22 @@
         "效率"
       ],
       "price": 1,
+      "releaseDate": "2025-07-06T07:00:00Z",
       "genreIds": [
         "6007"
       ],
+      "sellerName": "娇 李",
       "primaryGenreName": "Productivity",
       "primaryGenreId": 6007,
-      "releaseDate": "2025-07-06T07:00:00Z",
-      "sellerName": "娇 李",
       "isVppDeviceBasedLicensingEnabled": true,
-      "releaseNotes": "1、新增了首页风格自定义功能\n2、修复部分bug，优化用户体验",
       "currentVersionReleaseDate": "2025-12-29T00:53:41Z",
-      "trackId": 6747947379,
-      "trackName": "sousou-聚合搜索、直达搜索、极简搜索无信息流干扰",
       "version": "1.0.5",
       "wrapperType": "software",
       "currency": "CNY",
       "description": "SouSou 是一款帮助你快速直达App搜索结果页的效率工具。\n您无需忍受推荐内容、首页信息流、热榜诱惑或短视频干扰；\n只需输入搜索关键词，一键跳转，快速进入App搜索结果页；\n就像一条直线，从想搜什么直接得到搜索结果，专注而干脆的完成搜索。\n\n功能亮点：\n- 搜索直达：跳过首页 Feed 流，直接进入搜索结果页\n- 线性历史：自动记录搜索行为，帮你回溯注意力轨迹\n- App快捷指令：直接在快捷指令中输入搜索关键词，一键跳转\n- 小组件支持：小、中、大的组件直接展现App,再桌面可以直接快速的进入搜索\n\n隐私协议： https://kdocs.cn/l/cpcLa2W9FeOp\n\n技术支持：https://kdocs.cn/l/cg2KU5VbU8Tp",
-      "averageUserRating": 3.375,
-      "bundleId": "com.lijiao.sousou",
-      "userRatingCountForCurrentVersion": 8,
-      "averageUserRatingForCurrentVersion": 3.375,
+      "minimumOsVersion": "15.0",
+      "userRatingCountForCurrentVersion": 9,
+      "averageUserRatingForCurrentVersion": 3.11111,
       "languageCodesISO2A": [
         "EN",
         "ZH"
@@ -353,8 +351,10 @@
       "fileSizeBytes": "15855616",
       "formattedPrice": "¥1.00",
       "trackContentRating": "4+",
-      "minimumOsVersion": "15.0",
-      "userRatingCount": 8,
+      "bundleId": "com.lijiao.sousou",
+      "trackId": 6747947379,
+      "trackName": "sousou-聚合搜索、直达搜索、极简搜索无信息流干扰",
+      "userRatingCount": 9,
       "country": "CHN"
     }
   ]

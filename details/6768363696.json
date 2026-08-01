@@ -183,15 +183,17 @@
       "userRatingCount": 2
     },
     {
+      "artistViewUrl": "https://apps.apple.com/cn/developer/%E5%BE%81-%E5%90%B4/id1107254547?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/ac/f4/a4acf48a-72b9-455f-895a-a1b33ea8f454/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/ac/f4/a4acf48a-72b9-455f-895a-a1b33ea8f454/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+      "screenshotUrls": [],
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/ac/f4/a4acf48a-72b9-455f-895a-a1b33ea8f454/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
       ],
-      "screenshotUrls": [],
-      "isGameCenterEnabled": false,
-      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -321,10 +323,13 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
+      "advisories": [],
       "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/cn/developer/%E5%BE%81-%E5%90%B4/id1107254547?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/ac/f4/a4acf48a-72b9-455f-895a-a1b33ea8f454/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/ac/f4/a4acf48a-72b9-455f-895a-a1b33ea8f454/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+      "minimumOsVersion": "16.0",
+      "trackCensoredName": "TVSnap",
+      "trackViewUrl": "https://apps.apple.com/cn/app/tvsnap/id6768363696?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4,
       "languageCodesISO2A": [
         "EN",
         "ZH"
@@ -333,34 +338,29 @@
       "formattedPrice": "¥8.00",
       "userRatingCountForCurrentVersion": 4,
       "trackContentRating": "4+",
-      "bundleId": "com.lxdev.ATVSnap",
       "averageUserRatingForCurrentVersion": 4,
-      "minimumOsVersion": "16.0",
-      "trackId": 6768363696,
-      "trackName": "TVSnap",
-      "artistName": "征 吴",
       "artistId": 1107254547,
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
+      "artistName": "征 吴",
+      "genres": [
+        "工具"
+      ],
+      "price": 8,
+      "releaseDate": "2026-05-26T07:00:00Z",
       "genreIds": [
         "6002"
       ],
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
       "sellerName": "征 吴",
       "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-05-27T03:03:13Z",
       "version": "1.2.1",
       "wrapperType": "software",
       "currency": "CNY",
       "description": "TVSnap — Apple TV 投屏工具\n\n将 Apple TV 画面实时同步到 iPhone，支持截图和录屏。\n\n功能亮点\n- Apple TV 屏幕实时镜像到 iPhone\n- 一键截图，保存电视画面\n- 屏幕录制，可选 30/60 FPS\n- 内置媒体库，轻松管理截图和录屏\n\n设计特性\n- 深色模式图标适配\n- 多主题配色可选\n- 中英文双语支持\n- 触觉反馈\n- 兼容 iOS 16+",
-      "trackViewUrl": "https://apps.apple.com/cn/app/tvsnap/id6768363696?uo=4",
-      "contentAdvisoryRating": "4+",
-      "trackCensoredName": "TVSnap",
-      "averageUserRating": 4,
-      "releaseDate": "2026-05-26T07:00:00Z",
-      "currentVersionReleaseDate": "2026-05-27T03:03:13Z",
-      "price": 8,
-      "genres": [
-        "工具"
-      ],
+      "bundleId": "com.lxdev.ATVSnap",
+      "trackId": 6768363696,
+      "trackName": "TVSnap",
       "userRatingCount": 4,
       "country": "CHN"
     }

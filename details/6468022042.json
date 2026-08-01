@@ -2,7 +2,19 @@
   "resultCount": 1,
   "results": [
     {
+      "isGameCenterEnabled": false,
       "features": [],
+      "advisories": [],
+      "kind": "software",
+      "ipadScreenshotUrls": [],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/91/49/90/9149902d-e803-ec1d-4cf7-209a5a4e132e/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/98/08/25/98082527-c5ee-ad7a-ed9a-ed87d211992e/1dcd7b96-c798-4191-b11d-d775e9ecb882_Effects_5.5inch_JP.jpg/392x696bb.jpg"
+      ],
+      "artistViewUrl": "https://apps.apple.com/jp/developer/zoom-corporation/id566291782?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/91/49/90/9149902d-e803-ec1d-4cf7-209a5a4e132e/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/91/49/90/9149902d-e803-ec1d-4cf7-209a5a4e132e/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/100x100bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -132,37 +144,29 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "advisories": [],
-      "kind": "software",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/98/08/25/98082527-c5ee-ad7a-ed9a-ed87d211992e/1dcd7b96-c798-4191-b11d-d775e9ecb882_Effects_5.5inch_JP.jpg/392x696bb.jpg"
-      ],
-      "ipadScreenshotUrls": [],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/91/49/90/9149902d-e803-ec1d-4cf7-209a5a4e132e/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
-      "artistViewUrl": "https://apps.apple.com/jp/developer/zoom-corporation/id566291782?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/91/49/90/9149902d-e803-ec1d-4cf7-209a5a4e132e/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/91/49/90/9149902d-e803-ec1d-4cf7-209a5a4e132e/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/100x100bb.jpg",
-      "userRatingCountForCurrentVersion": 18,
+      "bundleId": "jp.co.zoom.HandyGuitarLabforMS50GPlus",
       "minimumOsVersion": "15",
       "currentVersionReleaseDate": "2023-11-15T02:29:13Z",
-      "averageUserRating": 1.94444,
+      "genres": [
+        "ミュージック",
+        "エンターテインメント"
+      ],
       "artistId": 566291782,
       "artistName": "ZOOM Corporation",
-      "bundleId": "jp.co.zoom.HandyGuitarLabforMS50GPlus",
+      "price": 150,
+      "genreIds": [
+        "6011",
+        "6016"
+      ],
+      "releaseDate": "2023-11-14T08:00:00Z",
       "trackId": 6468022042,
       "trackName": "Handy Guitar Lab for MS-50G+",
-      "releaseDate": "2023-11-14T08:00:00Z",
-      "primaryGenreName": "Music",
-      "primaryGenreId": 6011,
       "sellerName": "ZOOM CORPORATION",
       "isVppDeviceBasedLicensingEnabled": true,
       "version": "1.0",
       "wrapperType": "software",
       "currency": "JPY",
       "description": "Handy Guitar Lab for MS-50G+は、ZOOM MS-50G+ MULTISTOMP専用のリモート・コントロール・アプリです。\nこのアプリを使用すると、新しいエフェクトのダウンロードやMS-50G+にロードされているエフェクトの管理ができます。\n今後配信されるパッチメモリーの表示とダウンロード、MS-50G+上のパッチメモリーリストのカスタマイズ、保管用のバックアップ作成ができます。\nパッチメモリーを編集したり、ゼロから新しいパッチメモリーを作成したりすることができます。\nファームウェアのアップデートが利用可能になったときに通知を受けたり、アップデートを実行できます。\niOS/iPadOS VoiceOverをサポートし、視覚障害者にアクセシビリティを提供します。\n\n* Handy Guitar Lab for MS-50G+は、USB（Type-C）ケーブルでMS-50G+と接続します。Lightningコネクタを搭載したiOS/iPadOSデバイスと接続するには、Lightning-USBカメラアダプタが必要です。",
-      "averageUserRatingForCurrentVersion": 1.94444,
       "languageCodesISO2A": [
         "EN",
         "JA"
@@ -170,18 +174,14 @@
       "fileSizeBytes": "14860288",
       "formattedPrice": "¥150",
       "trackContentRating": "4+",
+      "averageUserRatingForCurrentVersion": 1.94444,
+      "averageUserRating": 1.94444,
+      "userRatingCountForCurrentVersion": 18,
       "trackCensoredName": "Handy Guitar Lab for MS-50G+",
       "trackViewUrl": "https://apps.apple.com/jp/app/handy-guitar-lab-for-ms-50g/id6468022042?uo=4",
       "contentAdvisoryRating": "4+",
-      "genreIds": [
-        "6011",
-        "6016"
-      ],
-      "genres": [
-        "ミュージック",
-        "エンターテインメント"
-      ],
-      "price": 150,
+      "primaryGenreName": "Music",
+      "primaryGenreId": 6011,
       "userRatingCount": 18,
       "country": "JPN"
     }

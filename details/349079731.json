@@ -226,12 +226,6 @@
       "userRatingCount": 31
     },
     {
-      "isGameCenterEnabled": false,
-      "advisories": [],
-      "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/jp/developer/noracom-tokyo-co-ltd/id349079734?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/d7/39/c4/d739c461-8c2e-5927-3553-05944860e871/AppIcon-0-1x_U007emarketing-0-0-85-220-5.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/d7/39/c4/d739c461-8c2e-5927-3553-05944860e871/AppIcon-0-1x_U007emarketing-0-0-85-220-5.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/c5/db/3b/c5db3bb0-221e-b7a1-aa40-99a79e65ab19/pr_source.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/34/da/0b/34da0b38-71fe-f7b5-0c09-769c2f67f899/pr_source.png/392x696bb.png",
@@ -242,7 +236,7 @@
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/d7/39/c4/d739c461-8c2e-5927-3553-05944860e871/AppIcon-0-1x_U007emarketing-0-0-85-220-5.png/512x512bb.jpg",
-      "features": [],
+      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPad2Wifi-iPad2Wifi",
         "iPad23G-iPad23G",
@@ -407,6 +401,22 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
+      "features": [],
+      "advisories": [],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/jp/developer/noracom-tokyo-co-ltd/id349079734?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/d7/39/c4/d739c461-8c2e-5927-3553-05944860e871/AppIcon-0-1x_U007emarketing-0-0-85-220-5.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/d7/39/c4/d739c461-8c2e-5927-3553-05944860e871/AppIcon-0-1x_U007emarketing-0-0-85-220-5.png/100x100bb.jpg",
+      "languageCodesISO2A": [
+        "EN",
+        "JA"
+      ],
+      "fileSizeBytes": "39614464",
+      "formattedPrice": "¥150",
+      "userRatingCountForCurrentVersion": 32,
+      "averageUserRatingForCurrentVersion": 3.65625,
+      "sellerUrl": "http://www.doubutsu-uranai.com/iphone.php",
+      "trackContentRating": "4+",
       "minimumOsVersion": "8.0",
       "artistId": 349079734,
       "artistName": "Noracom Tokyo Co., Ltd.",
@@ -415,15 +425,20 @@
         "エンターテインメント"
       ],
       "price": 150,
-      "currentVersionReleaseDate": "2020-03-30T04:13:03Z",
-      "releaseNotes": "iOS13に対応しました。",
-      "trackName": "動物占い®PREMIUM",
       "trackId": 349079731,
+      "trackName": "動物占い®PREMIUM",
+      "bundleId": "com.octcreators.AnimalBasic",
       "releaseDate": "2010-01-15T08:00:00Z",
+      "genreIds": [
+        "6012",
+        "6016"
+      ],
+      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "Noracom Tokyo Co., Ltd.",
       "primaryGenreName": "Lifestyle",
       "primaryGenreId": 6012,
-      "sellerName": "Noracom Tokyo Co., Ltd.",
-      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2020-03-30T04:13:03Z",
+      "releaseNotes": "iOS13に対応しました。",
       "version": "3.0.0",
       "wrapperType": "software",
       "currency": "JPY",
@@ -432,21 +447,6 @@
       "trackViewUrl": "https://apps.apple.com/jp/app/%E5%8B%95%E7%89%A9%E5%8D%A0%E3%81%84-premium/id349079731?uo=4",
       "contentAdvisoryRating": "4+",
       "averageUserRating": 3.65625,
-      "sellerUrl": "http://www.doubutsu-uranai.com/iphone.php",
-      "languageCodesISO2A": [
-        "EN",
-        "JA"
-      ],
-      "fileSizeBytes": "39614464",
-      "formattedPrice": "¥150",
-      "userRatingCountForCurrentVersion": 32,
-      "trackContentRating": "4+",
-      "bundleId": "com.octcreators.AnimalBasic",
-      "averageUserRatingForCurrentVersion": 3.65625,
-      "genreIds": [
-        "6012",
-        "6016"
-      ],
       "userRatingCount": 32,
       "country": "JPN"
     }

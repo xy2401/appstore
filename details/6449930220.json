@@ -201,10 +201,10 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/92/37/21923796-b3a0-db7b-5f8d-2fcbb9bfff0f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/cn/developer/%E9%87%91%E7%87%95-%E6%AF%9B/id1687412633?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/92/37/21923796-b3a0-db7b-5f8d-2fcbb9bfff0f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/92/37/21923796-b3a0-db7b-5f8d-2fcbb9bfff0f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -335,13 +335,14 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "features": [
-        "iosUniversal"
-      ],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/cn/developer/%E9%87%91%E7%87%95-%E6%AF%9B/id1687412633?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/92/37/21923796-b3a0-db7b-5f8d-2fcbb9bfff0f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/92/37/21923796-b3a0-db7b-5f8d-2fcbb9bfff0f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
       "advisories": [
         "无限制网页访问"
       ],
-      "kind": "software",
+      "averageUserRatingForCurrentVersion": 4.69418,
       "languageCodesISO2A": [
         "EN",
         "FR",
@@ -359,37 +360,36 @@
       "formattedPrice": "¥3.00",
       "userRatingCountForCurrentVersion": 533,
       "trackContentRating": "17+",
-      "averageUserRatingForCurrentVersion": 4.69418,
-      "trackCensoredName": "Wafari  手表浏览器",
-      "trackViewUrl": "https://apps.apple.com/cn/app/wafari-%E6%89%8B%E8%A1%A8%E6%B5%8F%E8%A7%88%E5%99%A8/id6449930220?uo=4",
-      "contentAdvisoryRating": "17+",
-      "averageUserRating": 4.69418,
-      "minimumOsVersion": "16.0",
-      "releaseNotes": "* 修复一些失效的数据",
       "artistId": 1687412633,
       "artistName": "金燕 毛",
       "genres": [
         "娱乐",
         "工具"
       ],
-      "price": 3,
-      "trackId": 6449930220,
-      "trackName": "Wafari  手表浏览器",
-      "bundleId": "com.jy.Wafari",
-      "releaseDate": "2023-06-09T07:00:00Z",
+      "sellerName": "金燕 毛",
       "genreIds": [
         "6016",
         "6002"
       ],
-      "primaryGenreName": "Entertainment",
-      "primaryGenreId": 6016,
-      "sellerName": "金燕 毛",
-      "isVppDeviceBasedLicensingEnabled": true,
+      "price": 3,
       "currentVersionReleaseDate": "2025-07-04T16:26:03Z",
+      "trackId": 6449930220,
+      "trackName": "Wafari  手表浏览器",
       "version": "1.7",
       "wrapperType": "software",
       "currency": "CNY",
       "description": "Wafari 手表浏览器，让你的Apple Watch轻松浏览网页\n\n- 支持多种搜索引擎，搜索自定义\n- 书签快速创建和同步\n- 浏览历史记录\n- iCloud同步数据\n\n欢迎使用",
+      "minimumOsVersion": "16.0",
+      "averageUserRating": 4.69418,
+      "trackCensoredName": "Wafari  手表浏览器",
+      "trackViewUrl": "https://apps.apple.com/cn/app/wafari-%E6%89%8B%E8%A1%A8%E6%B5%8F%E8%A7%88%E5%99%A8/id6449930220?uo=4",
+      "contentAdvisoryRating": "17+",
+      "primaryGenreName": "Entertainment",
+      "primaryGenreId": 6016,
+      "releaseDate": "2023-06-09T07:00:00Z",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseNotes": "* 修复一些失效的数据",
+      "bundleId": "com.jy.Wafari",
       "userRatingCount": 533,
       "country": "CHN"
     }

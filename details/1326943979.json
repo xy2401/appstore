@@ -196,24 +196,10 @@
       "userRatingCount": 3871
     },
     {
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/13/d3/c7/13d3c79e-9cf6-fb03-f71f-91a465fb5694/c81ea31b-cf85-497a-bd4a-020d85bab85c_Copy_of_screenshot_phone_3.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b4/f6/25/b4f62523-114d-53ae-b577-c1a96439cb12/adcf276a-f91f-4f8f-a5fa-8133a68b52d7_Copy_of_screenshot_phone_2.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8e/55/e8/8e55e884-1670-91ed-ccae-4e1db3126307/bd36f331-d990-4c1e-8652-efb3064c1f6d_Copy_of_screenshot_phone_1.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/96/8a/ab/968aab0a-f866-87f8-b39d-a3c28324d694/c80a8f4c-038d-46d3-a64a-5a25375bd192_Copy_of_screenshot_phone_5.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5b/9f/18/5b9f188a-c340-16e5-dfc5-de577a9defca/e848bdc3-b8d1-49fe-bd59-960db193923b_Copy_of_screenshot_phone_4.png/392x696bb.png"
-      ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fa/a6/2a/faa62ab2-bfb3-b09c-0e2e-85f3fa281dd6/9fe8f831-c766-450b-86f8-e9b25c10de54_ipad_screenshot_1.png/576x768bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b6/05/f5/b605f55e-de65-3ddf-b575-00ffb844bbd6/b05b0635-ba3a-444e-87cd-d2cf107388cf_ipad_screenshot_2.png/576x768bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d7/a5/8d/d7a58dc7-29db-3c22-0a92-e2281baa56e9/b21bf8c2-62ac-4217-9338-0dd1cf151a04_ipad_screenshot_3.png/576x768bb.png"
-      ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/14/88/9d14882b-7ba5-4b91-f0a3-712c4eadfe0f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
       "artistViewUrl": "https://apps.apple.com/us/developer/tysm-technologies-llc/id6790445816?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/14/88/9d14882b-7ba5-4b91-f0a3-712c4eadfe0f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/14/88/9d14882b-7ba5-4b91-f0a3-712c4eadfe0f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -343,50 +329,64 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
+      "features": [
+        "iosUniversal"
+      ],
       "advisories": [
         "Infrequent/Mild Medical/Treatment Information"
       ],
       "kind": "software",
-      "features": [
-        "iosUniversal"
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/13/d3/c7/13d3c79e-9cf6-fb03-f71f-91a465fb5694/c81ea31b-cf85-497a-bd4a-020d85bab85c_Copy_of_screenshot_phone_3.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b4/f6/25/b4f62523-114d-53ae-b577-c1a96439cb12/adcf276a-f91f-4f8f-a5fa-8133a68b52d7_Copy_of_screenshot_phone_2.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8e/55/e8/8e55e884-1670-91ed-ccae-4e1db3126307/bd36f331-d990-4c1e-8652-efb3064c1f6d_Copy_of_screenshot_phone_1.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/96/8a/ab/968aab0a-f866-87f8-b39d-a3c28324d694/c80a8f4c-038d-46d3-a64a-5a25375bd192_Copy_of_screenshot_phone_5.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5b/9f/18/5b9f188a-c340-16e5-dfc5-de577a9defca/e848bdc3-b8d1-49fe-bd59-960db193923b_Copy_of_screenshot_phone_4.png/392x696bb.png"
       ],
-      "languageCodesISO2A": [
-        "EN"
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fa/a6/2a/faa62ab2-bfb3-b09c-0e2e-85f3fa281dd6/9fe8f831-c766-450b-86f8-e9b25c10de54_ipad_screenshot_1.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b6/05/f5/b605f55e-de65-3ddf-b575-00ffb844bbd6/b05b0635-ba3a-444e-87cd-d2cf107388cf_ipad_screenshot_2.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d7/a5/8d/d7a58dc7-29db-3c22-0a92-e2281baa56e9/b21bf8c2-62ac-4217-9338-0dd1cf151a04_ipad_screenshot_3.png/576x768bb.png"
       ],
-      "fileSizeBytes": "7324672",
-      "formattedPrice": "$14.99",
-      "trackContentRating": "12+",
-      "averageUserRatingForCurrentVersion": 4.80501,
-      "sellerUrl": "https://abawizard.net",
-      "currentVersionReleaseDate": "2025-10-08T06:58:33Z",
-      "averageUserRating": 4.80501,
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/14/88/9d14882b-7ba5-4b91-f0a3-712c4eadfe0f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "trackCensoredName": "ABA Wizard",
       "trackViewUrl": "https://apps.apple.com/us/app/aba-wizard/id1326943979?uo=4",
       "contentAdvisoryRating": "12+",
-      "minimumOsVersion": "13.0",
+      "averageUserRating": 4.80501,
       "artistId": 6790445816,
       "artistName": "TYSM Technologies, LLC",
       "genres": [
         "Education"
       ],
       "price": 14.99,
-      "genreIds": [
-        "6017"
-      ],
-      "releaseNotes": "Minor updates and bug fixes",
+      "bundleId": "com.Kylan.StudyABA",
+      "trackId": 1326943979,
+      "trackName": "ABA Wizard",
       "releaseDate": "2017-12-20T06:08:28Z",
       "primaryGenreName": "Education",
       "primaryGenreId": 6017,
-      "sellerName": "TYSM Technologies, LLC",
       "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "TYSM Technologies, LLC",
+      "currentVersionReleaseDate": "2025-10-08T06:58:33Z",
+      "releaseNotes": "Minor updates and bug fixes",
       "version": "4.10",
       "wrapperType": "software",
       "currency": "USD",
       "description": "This BCBA® exam prep app is designed for any behavior analyst who wants to master the content on the BCBA (Board Certified Behavior Analyst®) or BCaBA® exam. Recently updated, the app now has around 1000 practice questions covering all of the essential principles of applied behavior analysis (ABA) centered on the current 6th edition Test Content Outline. You will be prepared to pass the BCBA or BCaBA exam! \n\nHOW MUCH DOES THE APP COST? \nThis is not a subscription. You are given complete access to our entire ABA practice question library for the minimal price of the app. \n\nHOW IS THE APP ORGANIZED? \nThe layout of this comprehensive app is organized following the BCBA/BCaBA Test Content Outline (6th Ed.) with a 10 question quiz for every task list item. You will learn quickly with immediate feedback, an explanation, and references for each question. This is the highest value ABA test prep out there! Behavior analysts around the world have downloaded and are loving this program. \n\nHOW WERE THE QUESTIONS CREATED? \nAll questions in the app were created by Board Certified Behavior Analysts referencing scholarly texts commonly used in ABA. These questions were reviewed by several students, behavior analysts, as well as BCBA-Ds to ensure each practice question contains correct and applicable content.\n \nThe ABA Wizard App is owned by Test Prep Technologies, LLC.  Test Prep Technologies, LLC is not owned by or associated with the Behavior Analyst Certification Board®. ©2018 the Behavior Analyst Certification Board®, Inc. All rights reserved. Displayed by permission. The most current version of this document is available at www.BACB.com. Contact the BACB for permission to reprint this material.",
+      "minimumOsVersion": "13.0",
+      "averageUserRatingForCurrentVersion": 4.80501,
+      "sellerUrl": "https://abawizard.net",
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "fileSizeBytes": "7324672",
+      "formattedPrice": "$14.99",
+      "trackContentRating": "12+",
       "userRatingCountForCurrentVersion": 3872,
-      "bundleId": "com.Kylan.StudyABA",
-      "trackId": 1326943979,
-      "trackName": "ABA Wizard",
+      "genreIds": [
+        "6017"
+      ],
       "userRatingCount": 3872,
       "country": "USA"
     }

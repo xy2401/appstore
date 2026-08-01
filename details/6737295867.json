@@ -2,20 +2,17 @@
   "resultCount": 1,
   "results": [
     {
+      "formattedPrice": "£12.99",
       "artistIds": [
         151132127,
         1800190888
       ],
-      "formattedPrice": "£12.99",
-      "genres": [
-        "Self Help",
-        "Books",
-        "Health & Well-Being",
-        "Business & Personal Finance",
-        "Management & Leadership"
-      ],
       "price": 12.99,
+      "artistId": 151132127,
+      "artistName": "Mel Robbins & Sawyer Robbins",
       "releaseDate": "2024-12-24T08:00:00Z",
+      "trackId": 6737295867,
+      "trackName": "The Let Them Theory",
       "genreIds": [
         "10119",
         "38",
@@ -31,12 +28,15 @@
       "trackViewUrl": "https://books.apple.com/gb/book/the-let-them-theory/id6737295867?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/5f/cc/4c/5fcc4ce1-c9e9-5b1b-035c-267504bd0fbd/9781788176651.d.jpg/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/5f/cc/4c/5fcc4ce1-c9e9-5b1b-035c-267504bd0fbd/9781788176651.d.jpg/100x100bb.jpg",
-      "trackId": 6737295867,
-      "trackName": "The Let Them Theory",
-      "artistId": 151132127,
-      "artistName": "Mel Robbins & Sawyer Robbins",
-      "userRatingCount": 222,
+      "genres": [
+        "Self Help",
+        "Books",
+        "Health & Well-Being",
+        "Business & Personal Finance",
+        "Management & Leadership"
+      ],
       "averageUserRating": 4.5,
+      "userRatingCount": 222,
       "country": "GBR"
     }
   ]

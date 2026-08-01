@@ -1,5 +1,5 @@
 {
-  "resultCount": 2,
+  "resultCount": 3,
   "results": [
     {
       "artistIds": [
@@ -37,34 +37,67 @@
       "artistIds": [
         190184746
       ],
+      "genres": [
+        "Classics",
+        "Books",
+        "Fiction & Literature"
+      ],
       "price": 0,
       "genreIds": [
         "10042",
         "38",
         "9031"
       ],
-      "releaseDate": "1900-05-17T08:00:00Z",
       "trackId": 395544690,
       "trackName": "The Wonderful Wizard of Oz",
+      "releaseDate": "1900-05-17T08:00:00Z",
       "kind": "ebook",
       "currency": "USD",
       "description": "An Apple Books Classic edition.<br /><br />Adventure takes a more mythic turn in <i>Rinkitink in Oz</i>, a thrilling fairy-tale quest filled with L. Frank Baum’s trademark whimsy and color. Prince Inga’s father protects their peaceful island kingdom of Pingaree with his three magic pearls. But when the island is invaded and conquered, Inga must flee with the cheerfully bumbling royal visitor King Rinkitink and use the magic pearls himself to save his parents and his home.<br /><br />As the pair faces dangers and meets new allies—including some familiar characters for Oz fans—Inga must learn not only to use his new powers, but also his head when he loses those powers. <i>Rinkitink in Oz</i> steps beyond the Emerald City for a seafaring adventure that’s equal parts wit and wonder.",
-      "formattedPrice": "Free",
       "trackCensoredName": "The Wonderful Wizard of Oz",
       "artistViewUrl": "https://books.apple.com/us/artist/l-frank-baum/190184746?uo=4",
       "trackViewUrl": "https://books.apple.com/us/book/the-wonderful-wizard-of-oz/id395544690?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/6e/07/80/6e07807b-97e8-00d7-e675-474564b318fb/mza_17009087844576274421.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/6e/07/80/6e07807b-97e8-00d7-e675-474564b318fb/mza_17009087844576274421.png/100x100bb.jpg",
-      "genres": [
-        "Classics",
-        "Books",
-        "Fiction & Literature"
-      ],
+      "formattedPrice": "Free",
       "artistId": 190184746,
       "artistName": "L. Frank Baum",
       "averageUserRating": 4.5,
-      "userRatingCount": 11897,
+      "userRatingCount": 11899,
       "country": "USA"
+    },
+    {
+      "artistIds": [
+        190184746
+      ],
+      "genres": [
+        "Klassiker",
+        "Bücher",
+        "Belletristik und Literatur"
+      ],
+      "artistId": 190184746,
+      "artistName": "L. Frank Baum",
+      "kind": "ebook",
+      "currency": "EUR",
+      "description": "An Apple Books Classic edition.<br /><br />Adventure takes a more mythic turn in <i>Rinkitink in Oz</i>, a thrilling fairy-tale quest filled with L. Frank Baum’s trademark whimsy and color. Prince Inga’s father protects their peaceful island kingdom of Pingaree with his three magic pearls. But when the island is invaded and conquered, Inga must flee with the cheerfully bumbling royal visitor King Rinkitink and use the magic pearls himself to save his parents and his home.<br /><br />As the pair faces dangers and meets new allies—including some familiar characters for Oz fans—Inga must learn not only to use his new powers, but also his head when he loses those powers. <i>Rinkitink in Oz</i> steps beyond the Emerald City for a seafaring adventure that’s equal parts wit and wonder.",
+      "trackCensoredName": "The Wonderful Wizard of Oz",
+      "artistViewUrl": "https://books.apple.com/de/artist/l-frank-baum/190184746?uo=4",
+      "trackViewUrl": "https://books.apple.com/de/book/the-wonderful-wizard-of-oz/id395544690?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/6e/07/80/6e07807b-97e8-00d7-e675-474564b318fb/mza_17009087844576274421.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/6e/07/80/6e07807b-97e8-00d7-e675-474564b318fb/mza_17009087844576274421.png/100x100bb.jpg",
+      "formattedPrice": "Gratis",
+      "trackId": 395544690,
+      "trackName": "The Wonderful Wizard of Oz",
+      "genreIds": [
+        "10042",
+        "38",
+        "9031"
+      ],
+      "releaseDate": "1900-05-17T08:00:00Z",
+      "price": 0,
+      "averageUserRating": 4,
+      "userRatingCount": 155,
+      "country": "DEU"
     }
   ]
 }

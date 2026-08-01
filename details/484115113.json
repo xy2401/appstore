@@ -205,9 +205,6 @@
     },
     {
       "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -339,17 +336,18 @@
       ],
       "advisories": [
         "Scènes rares/modérées d’humour vulgaire ou blasphématoire",
-        "Scènes rares/modérées de consommation ou de référence à l’alcool, au tabac ou à la drogue",
-        "Scènes rares/modérées de violence (animation ou fantastique)",
         "Scènes rares/modérées à caractère sexuel ou de nudité",
-        "Scènes rares/modérées d’horreur ou d’épouvante"
+        "Scènes rares/modérées de violence (animation ou fantastique)",
+        "Scènes rares/modérées d’horreur ou d’épouvante",
+        "Scènes rares/modérées de consommation ou de référence à l’alcool, au tabac ou à la drogue"
       ],
       "kind": "software",
-      "appletvScreenshotUrls": [],
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/d7/07/96d70780-893a-8c76-bb15-f3595c366b29/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/d7/07/96d70780-893a-8c76-bb15-f3595c366b29/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/d7/07/96d70780-893a-8c76-bb15-f3595c366b29/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
       "artistViewUrl": "https://apps.apple.com/fr/developer/lbc-france/id484115116?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/86/43/9c8643e0-d25a-925d-f3c6-93a5741904b6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/86/43/9c8643e0-d25a-925d-f3c6-93a5741904b6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/26/5a/11/265a110c-d01b-74ed-4732-4f3de67f7374/3a48e452-6b19-45ce-83cd-e45eb87353ca_0_APP_IPHONE_55_0.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/62/f1/f4/62f1f4c8-a0e0-f917-6d55-57663d753066/c0a74489-c929-45d0-82ad-79332a2651b7_1_APP_IPHONE_55_1.jpg/392x696bb.jpg",
@@ -364,6 +362,9 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cc/c6/25/ccc625d4-5872-191e-4979-851709285012/2_APP_IPAD_PRO13_2.jpg/576x768bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9a/3b/87/9a3b87d2-488c-062a-26ff-622892ac780b/3_APP_IPAD_PRO13_3.jpg/576x768bb.jpg"
       ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/86/43/9c8643e0-d25a-925d-f3c6-93a5741904b6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "userRatingCountForCurrentVersion": 1516671,
       "artistId": 484115116,
       "artistName": "LBC France",
       "genres": [
@@ -375,35 +376,34 @@
         "6002",
         "6012"
       ],
-      "sellerName": "LBC France",
-      "bundleId": "fr.leboncoin.Leboncoin",
+      "releaseDate": "2011-12-08T08:00:00Z",
       "primaryGenreName": "Utilities",
       "primaryGenreId": 6002,
-      "releaseDate": "2011-12-08T08:00:00Z",
-      "trackId": 484115113,
-      "trackName": "leboncoin",
       "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-07-23T07:46:37Z",
       "releaseNotes": "Nous avons corrigé quelques bugs indétectables à l'œil nu dans cette version. Vous ne le voyez pas, mais ça marche beaucoup mieux comme ça !\n\nN'hésitez pas à activer les mises à jour automatiques pour bénéficier des améliorations de performances, même invisibles.",
-      "version": "101.73.1",
+      "trackName": "leboncoin",
+      "trackId": 484115113,
+      "sellerName": "LBC France",
+      "currentVersionReleaseDate": "2026-07-27T08:02:42Z",
+      "version": "101.74.0",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Multimédia, déco, mode, livres, jeux, vélo, bricolage, immo, auto, l’application leboncoin vous accompagne au quotidien.\n\nPlus de 84 millions de bonnes raisons de télécharger l’appli.\nleboncoin facilite tous vos échanges au quotidien grâce à ses 83 millions d’annonces dans 5 univers.\n\nSimple comme un clic.\nPubliez vos annonces et vendez vos biens en quelques clics avec le dépôt d’annonces automatisé.\nToute la seconde main est accessible en livraison ou en main propre.\nAchetez et payez en ligne grâce au paiement sécurisé. Votre argent est versé au vendeur une fois que vous avez récupéré et validé votre article. Et s’il ne correspond pas à vos attentes, vous\npouvez annuler la transaction. Et en plus de ça, les profils des vendeurs sont vérifiés. Vos prochains coups de coeur n’attendent que vous.\n\nQuestion logement, vous êtes à la bonne adresse.\nleboncoin, premier site immobilier de France, est la clé pour vendre, acheter ou louer votre maison, appartement, ou terrain avec plus d’1,5 million d’annonces en ligne. On est invités à la\ncrémaillère ?\n\nEn route pour trouver votre bonheur.\nEnvie de partir à l’aventure ? Consultez nos annonces de voitures, motos, scooters ou motos cross d’occasion.\nAchetez ou vendez votre véhicule au meilleur prix sur leboncoin, premier site pour les annonces auto.\n\nLe bon candidat pour trouver un job.\nIci, on aime le travail bien fait. Découvrez toutes les offres d’emploi faites pour vous et postulez en deux clics dans la catégorie emploi du boncoin, deuxième site d’emploi privé en France.\n\nPartez l’esprit léger.\nQue vous préfériez le bord de mer, la campagne, ou la montagne… Votre location de vacances vous attend sur leboncoin. Réservez votre prochain voyage partout en France, du camping au\nchalet en passant par la cabane dans les arbres en pleine nature, en toute sécurité. Détente garantie.",
-      "averageUserRatingForCurrentVersion": 4.6654,
-      "sellerUrl": "https://www.leboncoin.fr/",
-      "averageUserRating": 4.6654,
+      "averageUserRating": 4.66528,
+      "minimumOsVersion": "17.4",
       "trackCensoredName": "leboncoin",
+      "trackViewUrl": "https://apps.apple.com/fr/app/leboncoin/id484115113?uo=4",
+      "contentAdvisoryRating": "12+",
+      "averageUserRatingForCurrentVersion": 4.66528,
+      "sellerUrl": "https://www.leboncoin.fr/",
       "languageCodesISO2A": [
         "FR"
       ],
-      "fileSizeBytes": "295689216",
+      "fileSizeBytes": "298192896",
       "formattedPrice": "Gratuit",
-      "contentAdvisoryRating": "12+",
-      "userRatingCountForCurrentVersion": 1514127,
-      "trackViewUrl": "https://apps.apple.com/fr/app/leboncoin/id484115113?uo=4",
       "trackContentRating": "12+",
-      "minimumOsVersion": "17.4",
-      "userRatingCount": 1514127,
+      "bundleId": "fr.leboncoin.Leboncoin",
+      "userRatingCount": 1516671,
       "country": "FRA"
     }
   ]

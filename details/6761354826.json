@@ -2,11 +2,10 @@
   "resultCount": 1,
   "results": [
     {
-      "isGameCenterEnabled": false,
       "artistViewUrl": "https://apps.apple.com/jp/developer/pikabon-co-ltd/id1490838498?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/7b/d7/757bd7e8-c962-2974-e468-8d7c5d5bd157/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/7b/d7/757bd7e8-c962-2974-e468-8d7c5d5bd157/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/100x100bb.jpg",
-      "features": [],
+      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -136,17 +135,18 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
+      "features": [],
       "advisories": [],
       "kind": "software",
       "screenshotUrls": [],
-      "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/7b/d7/757bd7e8-c962-2974-e468-8d7c5d5bd157/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/512x512bb.jpg",
-      "minimumOsVersion": "11.1",
+      "ipadScreenshotUrls": [],
+      "averageUserRating": 4.9633,
       "trackCensoredName": "Ryosukeに支配されてみる?",
       "trackViewUrl": "https://apps.apple.com/jp/app/ryosuke%E3%81%AB%E6%94%AF%E9%85%8D%E3%81%95%E3%82%8C%E3%81%A6%E3%81%BF%E3%82%8B/id6761354826?uo=4",
       "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.98536,
+      "releaseNotes": "ダイアログメッセージを修正しました。",
       "artistId": 1490838498,
       "artistName": "PIKABON CO. LTD.",
       "genres": [
@@ -155,24 +155,23 @@
       ],
       "price": 0,
       "bundleId": "com.pikabon.ryosuke",
-      "releaseDate": "2026-06-15T07:00:00Z",
-      "trackId": 6761354826,
       "trackName": "Ryosukeに支配されてみる?",
+      "trackId": 6761354826,
+      "sellerName": "PIKABON, K.K.",
       "genreIds": [
         "6016",
         "6011"
       ],
       "primaryGenreName": "Entertainment",
       "primaryGenreId": 6016,
-      "sellerName": "PIKABON, K.K.",
       "isVppDeviceBasedLicensingEnabled": true,
+      "releaseDate": "2026-06-15T07:00:00Z",
       "currentVersionReleaseDate": "2026-07-17T05:00:47Z",
-      "releaseNotes": "ダイアログメッセージを修正しました。",
       "version": "1.0.3",
       "wrapperType": "software",
       "currency": "JPY",
       "description": "このアプリケーションは、「Ryosuke Yamada」のオリジナルペンライトを使用するために対応しています。\n\n【主な機能のご案内】\n1. 座席情報設定\n\nオリジナルペンライトをBluetooth機能で演出データに連動させることでコンサート中にオリジナルペンライトの多様な演出をお楽しみいただけます。\n\n2. Bluetooth接続\n\nオリジナルペンライトの表面中央にあるボタンを長押しすると、「Bluetoothモード」に切り替わります。\nスマートフォンの「Bluetoothモード」をオンにしてペンライトを近づけると、ペンライトとスマートフォンが連動します。\n\n【必須アクセス権限のご案内】\nサービスをご利用いただくためには、次の項目に対してアクセス権限が必要です。\n※ ポップアップ画面が表示されたら、「許可」ボタンを押してください。\n- Bluetooth：ペンライト接続のため",
-      "averageUserRatingForCurrentVersion": 4.98536,
+      "minimumOsVersion": "11.1",
       "languageCodesISO2A": [
         "EN",
         "JA",
@@ -182,9 +181,10 @@
       ],
       "fileSizeBytes": "69404672",
       "formattedPrice": "無料",
-      "userRatingCountForCurrentVersion": 205,
       "trackContentRating": "4+",
-      "userRatingCount": 205,
+      "userRatingCountForCurrentVersion": 218,
+      "averageUserRatingForCurrentVersion": 4.9633,
+      "userRatingCount": 218,
       "country": "JPN"
     }
   ]

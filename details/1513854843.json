@@ -209,6 +209,7 @@
       "userRatingCount": 1410
     },
     {
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e4/b7/e1/e4b7e1ea-57c8-4beb-fda5-aca67a07a0ed/5.5_1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/02/f3/03/02f3032c-f9e2-cf99-1227-8a40d940b1d7/5.5_2.png/392x696bb.png",
@@ -222,8 +223,10 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/7e/59/1c7e59e1-b9dc-dff7-18b2-89696085dd91/b6ce5b4c-0560-4c4a-bf06-34fe12151a34_sg_ipad_4.png/576x768bb.png"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/f1/f0/36f1f094-aed6-f6ac-a267-6683bdf38da4/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/00/de/d000de58-070c-26b6-9948-13b16ccbc233/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -355,15 +358,10 @@
       ],
       "advisories": [],
       "kind": "software",
-      "features": [
-        "iosUniversal"
-      ],
       "artistViewUrl": "https://apps.apple.com/jp/developer/spiral-locas-inc/id818331988?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/f1/f0/36f1f094-aed6-f6ac-a267-6683bdf38da4/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/f1/f0/36f1f094-aed6-f6ac-a267-6683bdf38da4/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
-      "minimumOsVersion": "15.0",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/00/de/d000de58-070c-26b6-9948-13b16ccbc233/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/00/de/d000de58-070c-26b6-9948-13b16ccbc233/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
       "sellerUrl": "https://www.locas.info/sughool/",
-      "releaseNotes": "【改善・修正】 \n ・チャネル登録に関する不具合修正",
       "languageCodesISO2A": [
         "MY",
         "EN",
@@ -380,11 +378,11 @@
         "ZH",
         "VI"
       ],
-      "fileSizeBytes": "46891008",
+      "fileSizeBytes": "47239168",
       "formattedPrice": "無料",
-      "userRatingCountForCurrentVersion": 1491,
+      "userRatingCountForCurrentVersion": 1493,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 2.44735,
+      "averageUserRatingForCurrentVersion": 2.44742,
       "artistId": 818331988,
       "artistName": "SPIRAL LOCAS Inc.",
       "genres": [
@@ -392,28 +390,30 @@
         "ライフスタイル"
       ],
       "price": 0,
+      "currentVersionReleaseDate": "2026-07-28T05:21:49Z",
+      "bundleId": "jp.sughool",
       "trackId": 1513854843,
       "trackName": "すぐーる",
-      "bundleId": "jp.sughool",
-      "releaseDate": "2020-07-14T07:00:00Z",
-      "sellerName": "SPIRAL LOCAS Inc.",
-      "isVppDeviceBasedLicensingEnabled": true,
       "genreIds": [
         "6017",
         "6012"
       ],
       "primaryGenreName": "Education",
       "primaryGenreId": 6017,
-      "currentVersionReleaseDate": "2026-06-17T08:01:00Z",
-      "version": "v1.7.2",
+      "sellerName": "SPIRAL LOCAS Inc.",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseNotes": "【改善・修正】 \n ・軽微な修正",
+      "version": "v1.7.3",
       "wrapperType": "software",
       "currency": "JPY",
       "description": "学校-家庭-地域をつなぐ連絡システム「すぐーる」の専用アプリです。\nこのアプリを利用することで学校や地域などの学校運営関係者からのさまざまな連絡を受\nけ取ることができます。お子様が通っている学校のチャネル、お住まいの地域のチャネ\nルなど自分に必要なチャネルを登録することで、アプリに通知が入ります。\n\n\n【　わかりやすいメッセージ通知　】\n■チャネルごとにできる通知設定や、新着メッセージの件数が見えてわかりやすい。\n■重要なメッセージにはラベルが表示されてわかりやすい。\n\n\n【　保護者の負担を軽減する機能　】\n■アプリから学校へ子どもの欠席・遅刻の連絡ができます。\n■アプリから送られてくるアンケートに回答できます。\n\n\n※本アプリは「すぐーる」が導入されている学校または地域のみでご利用いただけます。\n利用できる機能は学校・地域により異なります。学校チャネルに登録する場合は学校から\n発行される登録案内書等を確認してください。",
-      "averageUserRating": 2.44735,
+      "minimumOsVersion": "15.0",
       "trackCensoredName": "すぐーる",
       "trackViewUrl": "https://apps.apple.com/jp/app/%E3%81%99%E3%81%90%E3%83%BC%E3%82%8B/id1513854843?uo=4",
       "contentAdvisoryRating": "4+",
-      "userRatingCount": 1491,
+      "averageUserRating": 2.44742,
+      "releaseDate": "2020-07-14T07:00:00Z",
+      "userRatingCount": 1493,
       "country": "JPN"
     }
   ]

@@ -2,10 +2,6 @@
   "resultCount": 1,
   "results": [
     {
-      "artistViewUrl": "https://apps.apple.com/us/developer/soeren-lisager/id1121606698?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/e3/c4/fde3c461-f6e9-1201-4b49-6a4256065d63/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/e3/c4/fde3c461-f6e9-1201-4b49-6a4256065d63/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
-      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/eb/e3/4c/ebe34c93-7eb5-fc66-a6b5-5f32ad9a6c46/55_EBC.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a0/65/0d/a0650d39-fd43-0ad4-2e86-3e1378845859/55_2026_light_01.png/392x696bb.png",
@@ -14,6 +10,7 @@
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/e3/c4/fde3c461-f6e9-1201-4b49-6a4256065d63/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone6s-iPhone6s",
         "iPhone6sPlus-iPhone6sPlus",
@@ -129,18 +126,15 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
+      "advisories": [],
+      "kind": "software",
       "features": [
         "iosUniversal"
       ],
-      "advisories": [],
-      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/us/developer/soeren-lisager/id1121606698?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/e3/c4/fde3c461-f6e9-1201-4b49-6a4256065d63/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/e3/c4/fde3c461-f6e9-1201-4b49-6a4256065d63/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
       "averageUserRatingForCurrentVersion": 5,
-      "bundleId": "dk.superfilm.ebcam",
-      "trackCensoredName": "Easter Bunny Camera",
-      "trackViewUrl": "https://apps.apple.com/us/app/easter-bunny-camera/id6743328970?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 5,
-      "minimumOsVersion": "18.0",
       "languageCodesISO2A": [
         "EN"
       ],
@@ -148,19 +142,17 @@
       "formattedPrice": "$2.99",
       "userRatingCountForCurrentVersion": 4,
       "trackContentRating": "4+",
-      "genres": [
-        "Entertainment",
-        "Photo & Video"
-      ],
-      "price": 2.99,
-      "trackName": "Easter Bunny Camera",
-      "trackId": 6743328970,
       "releaseNotes": "Hear your bunny's footsteps on different surfaces. Choose from: wooden floor, carpet, grass, gravel, snow - each with unique sounds.\n\nEasily adjust lighting: just drag the shadow to where you want it, or place virtual lights near real light sources.\n\nNew video saving option: Toggle between methods in settings.\n\nYou see the Easter Bunny live, walking where ever you point the device.\n\nRecord and rehearse: Tap the GREEN button to practice the bunny’s movement, then tap the RED button to film your perfect take.\n\nReady for a visit from the Easter Bunny ? Download and start filming.",
+      "minimumOsVersion": "18.0",
+      "artistId": 1121606698,
+      "artistName": "Soeren Lisager",
+      "price": 2.99,
+      "trackId": 6743328970,
+      "trackName": "Easter Bunny Camera",
       "genreIds": [
         "6016",
         "6008"
       ],
-      "releaseDate": "2025-04-11T07:00:00Z",
       "primaryGenreName": "Entertainment",
       "primaryGenreId": 6016,
       "sellerName": "Soeren Lisager",
@@ -170,8 +162,16 @@
       "wrapperType": "software",
       "currency": "USD",
       "description": "See the Easter Bunny in your own home.\n\n-Rotate and move your device to record the Bunny's movement.\n\n-Create lights to mimic the lighting in your home.\n\n-Create virtual walls to conceal the Bunny when it walks behind a corner.\n\n-No in app purchases. Saving of videos is included with the app.\n\nQuestions ? Please write to:\nhello@EasterBunnyCamera.com",
-      "artistId": 1121606698,
-      "artistName": "Soeren Lisager",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 5,
+      "bundleId": "dk.superfilm.ebcam",
+      "trackCensoredName": "Easter Bunny Camera",
+      "trackViewUrl": "https://apps.apple.com/us/app/easter-bunny-camera/id6743328970?uo=4",
+      "genres": [
+        "Entertainment",
+        "Photo & Video"
+      ],
+      "releaseDate": "2025-04-11T07:00:00Z",
       "userRatingCount": 4,
       "country": "USA"
     }

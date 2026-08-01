@@ -185,17 +185,11 @@
       "userRatingCount": 101
     },
     {
-      "isGameCenterEnabled": false,
-      "advisories": [],
-      "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/jp/developer/hiroyuki-takada/id1888897968?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/51/e2/d151e250-67b9-ebdd-83b5-615d1f276e77/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/51/e2/d151e250-67b9-ebdd-83b5-615d1f276e77/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
       "screenshotUrls": [],
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/51/e2/d151e250-67b9-ebdd-83b5-615d1f276e77/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
-      "features": [],
+      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -325,6 +319,22 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
+      "features": [],
+      "advisories": [],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/jp/developer/hiroyuki-takada/id1888897968?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/51/e2/d151e250-67b9-ebdd-83b5-615d1f276e77/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/51/e2/d151e250-67b9-ebdd-83b5-615d1f276e77/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
+      "languageCodesISO2A": [
+        "EN",
+        "JA"
+      ],
+      "fileSizeBytes": "61995008",
+      "formattedPrice": "無料",
+      "userRatingCountForCurrentVersion": 235,
+      "averageUserRatingForCurrentVersion": 4.62979,
+      "sellerUrl": "https://path-biz.com",
+      "trackContentRating": "4+",
       "minimumOsVersion": "18.0",
       "artistId": 1888897968,
       "artistName": "HIROYUKI TAKADA",
@@ -333,15 +343,20 @@
         "旅行"
       ],
       "price": 0,
-      "currentVersionReleaseDate": "2026-07-20T15:16:11Z",
-      "releaseNotes": "・切り抜きに関するバグを修正\n-------------------------\n・切り抜きやフォント選択を広告視聴で得られる特典に追加しました。\n・待望の陸路の経路検索、地図経路描画に対応しました！\n・アプリ内ギャラリーの動作を改善しました！\n・Passage Plusで情報の自由配置やよりたくさんのフォントを選択可能に、画像の切り抜きも簡単に！",
-      "trackName": "Passage: Mapping Your Moments",
       "trackId": 6761323054,
+      "trackName": "Passage: Mapping Your Moments",
+      "bundleId": "com.flightphoto.Passage",
       "releaseDate": "2026-04-01T07:00:00Z",
+      "genreIds": [
+        "6008",
+        "6003"
+      ],
+      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "HIROYUKI TAKADA",
       "primaryGenreName": "Photo & Video",
       "primaryGenreId": 6008,
-      "sellerName": "HIROYUKI TAKADA",
-      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-07-20T15:16:11Z",
+      "releaseNotes": "・切り抜きに関するバグを修正\n-------------------------\n・切り抜きやフォント選択を広告視聴で得られる特典に追加しました。\n・待望の陸路の経路検索、地図経路描画に対応しました！\n・アプリ内ギャラリーの動作を改善しました！\n・Passage Plusで情報の自由配置やよりたくさんのフォントを選択可能に、画像の切り抜きも簡単に！",
       "version": "0.4.2",
       "wrapperType": "software",
       "currency": "JPY",
@@ -349,23 +364,8 @@
       "trackCensoredName": "Passage: Mapping Your Moments",
       "trackViewUrl": "https://apps.apple.com/jp/app/passage-mapping-your-moments/id6761323054?uo=4",
       "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.62661,
-      "sellerUrl": "https://path-biz.com",
-      "languageCodesISO2A": [
-        "EN",
-        "JA"
-      ],
-      "fileSizeBytes": "61995008",
-      "formattedPrice": "無料",
-      "userRatingCountForCurrentVersion": 233,
-      "trackContentRating": "4+",
-      "bundleId": "com.flightphoto.Passage",
-      "averageUserRatingForCurrentVersion": 4.62661,
-      "genreIds": [
-        "6008",
-        "6003"
-      ],
-      "userRatingCount": 233,
+      "averageUserRating": 4.62979,
+      "userRatingCount": 235,
       "country": "JPN"
     }
   ]

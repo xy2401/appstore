@@ -183,7 +183,8 @@
       "userRatingCount": 4
     },
     {
-      "advisories": [],
+      "features": [],
+      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -313,8 +314,8 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
+      "advisories": [],
       "kind": "software",
-      "features": [],
       "screenshotUrls": [],
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
@@ -322,8 +323,7 @@
       "artistViewUrl": "https://apps.apple.com/jp/developer/takuya-takahashi/id1837085463?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/b5/97/b7b5974e-f734-0709-2c95-637edde06c71/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/b5/97/b7b5974e-f734-0709-2c95-637edde06c71/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
-      "isGameCenterEnabled": false,
-      "currentVersionReleaseDate": "2026-06-30T21:53:38Z",
+      "bundleId": "com.benristudio.studies.gkentei",
       "minimumOsVersion": "13.0",
       "artistId": 1837085463,
       "artistName": "Takuya Takahashi",
@@ -332,9 +332,9 @@
         "雑誌／新聞"
       ],
       "price": 700,
-      "bundleId": "com.benristudio.studies.gkentei",
       "trackId": 6767193590,
       "trackName": "G検定 対策 問題集 500問・解説・用語集",
+      "releaseNotes": "今回のアップデート内容\n\n・アップデートで進捗データが消える不具合を修正しました。\n・データリセット時のバックアップを自動で行うように対応しました。\n\nいつもご利用いただきありがとうございます。",
       "releaseDate": "2026-05-11T07:00:00Z",
       "genreIds": [
         "6017",
@@ -344,25 +344,25 @@
       "primaryGenreId": 6017,
       "sellerName": "Takuya Takahashi",
       "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-06-30T21:53:38Z",
       "version": "1.2",
       "wrapperType": "software",
       "currency": "JPY",
       "description": "G検定（JDLA Deep Learning for GENERAL）試験の合格をサポートする学習アプリ\n\n新シラバスに完全準拠した500問の4択問題と詳しい解説で、AI・機械学習・ディープラーニングの基礎知識を効率よく習得。カテゴリ別の苦手復習から本番形式の模擬試験まで、このアプリ1つでG検定対策が完結します。\n\n\n◆ 3つの学習モード\n\n【学習モード】\n問題を解きながらインプット。すべての問題に詳しい解説付きで、正解・不正解の理由までしっかり理解できます。人工知能の概要・機械学習の具体的手法・ディープラーニングの要素技術と応用例・AI倫理・法律と契約・数理統計など、シラバス全領域を網羅。\n\n【復習モード】\n苦手問題・忘却曲線・ランダムの3つのアルゴリズムから選べるスマート復習。間違えた問題だけを集中的に解き直すことで、弱点を効率よく克服できます。\n\n【テストモード】\n本番と同じ形式・時間制限で実力を測定。合格ラインへの到達度がひと目でわかります。\n\n\n◆ 充実の学習サポート\n\n・用語集 — AI・機械学習・ディープラーニング関連の重要用語をいつでも確認。問題文や解説中の用語をタップするだけで、定義をすぐに表示。\n・メモ機能 — 問題ごとにメモを残して、自分だけのノートを作成。\n・ブックマーク — 気になる問題をブックマークして、あとでまとめて確認。\n・全文検索 — キーワードで問題を素早く検索。\n\n\n◆ 進捗の見える化\n\n・今日の学習状況（学習時間・正答率・進捗率）をダッシュボードで一覧表示\n・日別/週別/月別の進捗チャート・学習時間チャート・テスト正答率チャート\n・分野別の正答率で弱点を自動検出\n・目標設定機能で学習ペースを管理\n\n\n◆ 完全オフライン・広告なし\n\nすべての問題・解説・用語集をデバイスにダウンロード。インターネット接続なしで、通勤・通学中や外出先でもサクサク学習できます。広告は一切表示されず、学習に集中できます。\n\n\n◆ こんな方におすすめ\n\n・JDLA G検定（ジェネラリスト検定）の合格を目指している方\n・人工知能・機械学習・ディープラーニング・AI倫理を体系的に学びたい方\n・AIジェネラリストとしてのスキルを資格として証明したい方\n・スキマ時間を活用して効率よく勉強したい方\n・初心者から学び直したい方",
+      "averageUserRatingForCurrentVersion": 3,
+      "sellerUrl": "https://studies-policy.fly.dev/",
       "languageCodesISO2A": [
         "EN"
       ],
       "fileSizeBytes": "71168000",
       "formattedPrice": "¥700",
-      "userRatingCountForCurrentVersion": 5,
+      "userRatingCountForCurrentVersion": 6,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 3.4,
-      "sellerUrl": "https://studies-policy.fly.dev/",
-      "averageUserRating": 3.4,
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 3,
       "trackCensoredName": "G検定 対策 問題集 500問・解説・用語集",
       "trackViewUrl": "https://apps.apple.com/jp/app/g%E6%A4%9C%E5%AE%9A-%E5%AF%BE%E7%AD%96-%E5%95%8F%E9%A1%8C%E9%9B%86-500%E5%95%8F-%E8%A7%A3%E8%AA%AC-%E7%94%A8%E8%AA%9E%E9%9B%86/id6767193590?uo=4",
-      "contentAdvisoryRating": "4+",
-      "releaseNotes": "今回のアップデート内容\n\n・アップデートで進捗データが消える不具合を修正しました。\n・データリセット時のバックアップを自動で行うように対応しました。\n\nいつもご利用いただきありがとうございます。",
-      "userRatingCount": 5,
+      "userRatingCount": 6,
       "country": "JPN"
     }
   ]

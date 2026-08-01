@@ -2,17 +2,16 @@
   "resultCount": 1,
   "results": [
     {
+      "formattedPrice": "£3.99",
       "artistIds": [
         17506452
       ],
-      "formattedPrice": "£3.99",
-      "genres": [
-        "Crime & Thrillers",
-        "Books",
-        "Fiction & Literature"
-      ],
       "price": 3.99,
+      "artistId": 17506452,
+      "artistName": "Lee Child",
       "releaseDate": "2009-04-23T07:00:00Z",
+      "trackId": 436139983,
+      "trackName": "Gone Tomorrow",
       "genreIds": [
         "9032",
         "38",
@@ -26,12 +25,13 @@
       "trackViewUrl": "https://books.apple.com/gb/book/gone-tomorrow/id436139983?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/1d/01/67/1d01677a-59a5-db89-e789-72a863d14848/9781409081746.jpg/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/1d/01/67/1d01677a-59a5-db89-e789-72a863d14848/9781409081746.jpg/100x100bb.jpg",
-      "trackId": 436139983,
-      "trackName": "Gone Tomorrow",
-      "artistId": 17506452,
-      "artistName": "Lee Child",
-      "userRatingCount": 623,
+      "genres": [
+        "Crime & Thrillers",
+        "Books",
+        "Fiction & Literature"
+      ],
       "averageUserRating": 4.5,
+      "userRatingCount": 623,
       "country": "GBR"
     }
   ]

@@ -191,12 +191,6 @@
       "userRatingCount": 72156
     },
     {
-      "isGameCenterEnabled": false,
-      "advisories": [],
-      "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/jp/developer/indeed-inc/id309735673?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/39/1a/af391a2a-ce5e-e41f-7786-872851bdfc4a/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/39/1a/af391a2a-ce5e-e41f-7786-872851bdfc4a/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/78/dd/ce/78ddce09-d280-587c-7e10-3a979e63d9b2/01_sugojika_iOS_storevisual_vertical_1242_U00d72208_260225.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8e/eb/e4/8eebe4ad-5622-f09f-c226-4887cc9d0bcc/02_sugojika_iOS_storevisual_vertical_1242_U00d72208_251212.png/392x696bb.png",
@@ -208,7 +202,7 @@
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/39/1a/af391a2a-ce5e-e41f-7786-872851bdfc4a/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
-      "features": [],
+      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -338,6 +332,21 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
+      "features": [],
+      "advisories": [],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/jp/developer/indeed-inc/id309735673?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/39/1a/af391a2a-ce5e-e41f-7786-872851bdfc4a/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/39/1a/af391a2a-ce5e-e41f-7786-872851bdfc4a/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.jpg",
+      "languageCodesISO2A": [
+        "JA"
+      ],
+      "fileSizeBytes": "9056256",
+      "formattedPrice": "無料",
+      "userRatingCountForCurrentVersion": 72171,
+      "averageUserRatingForCurrentVersion": 4.68292,
+      "sellerUrl": "https://www.sugojika.com/",
+      "trackContentRating": "4+",
       "minimumOsVersion": "16.4",
       "artistId": 309735673,
       "artistName": "Indeed Inc.",
@@ -346,15 +355,20 @@
         "ソーシャルネットワーキング"
       ],
       "price": 0,
-      "currentVersionReleaseDate": "2026-05-27T01:51:38Z",
-      "releaseNotes": "内部処理を一部変更しました。",
-      "trackName": "すごい時間割 - 大学生の時間割アプリ",
       "trackId": 440720442,
+      "trackName": "すごい時間割 - 大学生の時間割アプリ",
+      "bundleId": "jp.co.labit.sugoijikanwari",
       "releaseDate": "2011-06-02T01:26:49Z",
+      "genreIds": [
+        "6017",
+        "6005"
+      ],
+      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "Indeed Inc.",
       "primaryGenreName": "Education",
       "primaryGenreId": 6017,
-      "sellerName": "Indeed Inc.",
-      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-05-27T01:51:38Z",
+      "releaseNotes": "内部処理を一部変更しました。",
       "version": "9.3.0",
       "wrapperType": "software",
       "currency": "JPY",
@@ -362,22 +376,8 @@
       "trackCensoredName": "すごい時間割 - 大学生の時間割アプリ",
       "trackViewUrl": "https://apps.apple.com/jp/app/%E3%81%99%E3%81%94%E3%81%84%E6%99%82%E9%96%93%E5%89%B2-%E5%A4%A7%E5%AD%A6%E7%94%9F%E3%81%AE%E6%99%82%E9%96%93%E5%89%B2%E3%82%A2%E3%83%97%E3%83%AA/id440720442?uo=4",
       "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.68293,
-      "sellerUrl": "https://www.sugojika.com/",
-      "languageCodesISO2A": [
-        "JA"
-      ],
-      "fileSizeBytes": "9056256",
-      "formattedPrice": "無料",
-      "userRatingCountForCurrentVersion": 72173,
-      "trackContentRating": "4+",
-      "bundleId": "jp.co.labit.sugoijikanwari",
-      "averageUserRatingForCurrentVersion": 4.68293,
-      "genreIds": [
-        "6017",
-        "6005"
-      ],
-      "userRatingCount": 72173,
+      "averageUserRating": 4.68292,
+      "userRatingCount": 72171,
       "country": "JPN"
     }
   ]

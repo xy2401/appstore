@@ -207,20 +207,6 @@
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/96/9c/36969c40-f159-6468-28ed-aaff1022ebbf/chat-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/96/9c/36969c40-f159-6468-28ed-aaff1022ebbf/chat-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [
-        "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References",
-        "Infrequent/Mild Realistic Violence",
-        "Infrequent/Mild Mature/Suggestive Themes",
-        "Infrequent/Mild Medical/Treatment Information",
-        "Infrequent/Mild Profanity or Crude Humor",
-        "Infrequent/Mild Cartoon or Fantasy Violence",
-        "Infrequent/Mild Simulated Gambling",
-        "Infrequent/Mild Horror/Fear Themes"
-      ],
-      "kind": "software",
       "screenshotUrls": [],
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
@@ -354,35 +340,25 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "averageUserRating": 4.76203,
+      "features": [
+        "iosUniversal"
+      ],
+      "advisories": [
+        "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References",
+        "Infrequent/Mild Realistic Violence",
+        "Infrequent/Mild Mature/Suggestive Themes",
+        "Infrequent/Mild Medical/Treatment Information",
+        "Infrequent/Mild Profanity or Crude Humor",
+        "Infrequent/Mild Cartoon or Fantasy Violence",
+        "Infrequent/Mild Simulated Gambling",
+        "Infrequent/Mild Horror/Fear Themes"
+      ],
+      "kind": "software",
       "trackCensoredName": "Vibe by Mistral (ex-Le Chat)",
       "trackViewUrl": "https://apps.apple.com/us/app/vibe-by-mistral-ex-le-chat/id6740410176?uo=4",
       "contentAdvisoryRating": "12+",
-      "price": 0,
-      "artistName": "Mistral AI",
-      "artistId": 1789808929,
-      "genres": [
-        "Productivity",
-        "Utilities"
-      ],
-      "releaseDate": "2025-02-05T08:00:00Z",
-      "bundleId": "ai.mistral.chat",
-      "trackId": 6740410176,
-      "trackName": "Vibe by Mistral (ex-Le Chat)",
-      "genreIds": [
-        "6007",
-        "6002"
-      ],
-      "currentVersionReleaseDate": "2026-07-01T13:32:37Z",
-      "releaseNotes": "Various fixes and improvements.",
-      "sellerName": "MISTRAL AI",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "primaryGenreName": "Productivity",
-      "primaryGenreId": 6007,
-      "version": "2.5.0",
-      "wrapperType": "software",
-      "currency": "USD",
-      "description": "Vibe is your AI agent for long-horizon tasks, fluent in your knowledge and tools. From a single conversation, it can think through complex work, draft solutions and deliver finished outcomes you can trust. All from your phone.\n\nCore ways to use Vibe:\n- Catch up across email, chat, calendar, and internal knowledge in one run\n- Run deep research across the web, internal docs, and connected tools with sourced analysis\n- Analyse spreadsheets and connected resources to surface patterns, anomalies, and key signals\n- Draft reports, updates, and announcements from internal context\n- And much more\n\nGet started with Vibe today: Free for quick answers and simple everyday tasks and Pro for complex work and deeper reasoning. For custom deployments, model training, and dedicated support, contact us about Enterprise: https://mistral.ai/contact.",
+      "averageUserRating": 4.76023,
+      "averageUserRatingForCurrentVersion": 4.76023,
       "languageCodesISO2A": [
         "NL",
         "EN",
@@ -396,12 +372,36 @@
       ],
       "fileSizeBytes": "83702784",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 1185,
+      "userRatingCountForCurrentVersion": 1197,
       "trackContentRating": "12+",
       "sellerUrl": "https://mistral.ai",
-      "averageUserRatingForCurrentVersion": 4.76203,
+      "genres": [
+        "Productivity",
+        "Utilities"
+      ],
+      "price": 0,
+      "artistId": 1789808929,
+      "artistName": "Mistral AI",
+      "releaseDate": "2025-02-05T08:00:00Z",
+      "sellerName": "MISTRAL AI",
+      "genreIds": [
+        "6007",
+        "6002"
+      ],
+      "bundleId": "ai.mistral.chat",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-07-01T13:32:37Z",
+      "releaseNotes": "Various fixes and improvements.",
+      "version": "2.5.0",
+      "wrapperType": "software",
+      "currency": "USD",
+      "description": "Vibe is your AI agent for long-horizon tasks, fluent in your knowledge and tools. From a single conversation, it can think through complex work, draft solutions and deliver finished outcomes you can trust. All from your phone.\n\nCore ways to use Vibe:\n- Catch up across email, chat, calendar, and internal knowledge in one run\n- Run deep research across the web, internal docs, and connected tools with sourced analysis\n- Analyse spreadsheets and connected resources to surface patterns, anomalies, and key signals\n- Draft reports, updates, and announcements from internal context\n- And much more\n\nGet started with Vibe today: Free for quick answers and simple everyday tasks and Pro for complex work and deeper reasoning. For custom deployments, model training, and dedicated support, contact us about Enterprise: https://mistral.ai/contact.",
       "minimumOsVersion": "15.1",
-      "userRatingCount": 1185,
+      "primaryGenreName": "Productivity",
+      "primaryGenreId": 6007,
+      "trackName": "Vibe by Mistral (ex-Le Chat)",
+      "trackId": 6740410176,
+      "userRatingCount": 1197,
       "country": "USA"
     }
   ]

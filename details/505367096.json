@@ -209,7 +209,6 @@
       "userRatingCount": 2020
     },
     {
-      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource123/v4/62/60/6d/62606d47-a569-5609-ef24-f71cbf8d1bcd/15d518b2-a94a-4816-b630-a1c1bfa12b93_01.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource113/v4/1a/a0/7d/1aa07d56-76d1-292f-88f0-c7bea377f5cc/df786d47-ce9f-49d7-846c-336a8bd9d581_02.png/392x696bb.png",
@@ -225,6 +224,9 @@
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/53/3a/5a533aa0-5672-5536-59cd-0ad4c1c38ee0/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/512x512bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/cn/developer/ollix/id374932200?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/53/3a/5a533aa0-5672-5536-59cd-0ad4c1c38ee0/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/53/3a/5a533aa0-5672-5536-59cd-0ad4c1c38ee0/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/100x100bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -357,12 +359,9 @@
       "features": [
         "iosUniversal"
       ],
+      "isGameCenterEnabled": false,
       "advisories": [],
       "kind": "software",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/53/3a/5a533aa0-5672-5536-59cd-0ad4c1c38ee0/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/53/3a/5a533aa0-5672-5536-59cd-0ad4c1c38ee0/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/cn/developer/ollix/id374932200?uo=4",
-      "minimumOsVersion": "13.0",
       "sellerUrl": "https://fogofworld.app",
       "languageCodesISO2A": [
         "DA",
@@ -382,8 +381,13 @@
       "fileSizeBytes": "158812160",
       "formattedPrice": "¥198.00",
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.85652,
-      "userRatingCountForCurrentVersion": 8419,
+      "averageUserRatingForCurrentVersion": 4.85648,
+      "userRatingCountForCurrentVersion": 8424,
+      "minimumOsVersion": "13.0",
+      "trackCensoredName": "世界迷雾",
+      "trackViewUrl": "https://apps.apple.com/cn/app/%E4%B8%96%E7%95%8C%E8%BF%B7%E9%9B%BE/id505367096?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.85648,
       "artistId": 374932200,
       "artistName": "Ollix",
       "genres": [
@@ -391,29 +395,25 @@
         "生活"
       ],
       "price": 198,
+      "primaryGenreName": "Travel",
+      "primaryGenreId": 6003,
       "trackId": 505367096,
       "trackName": "世界迷雾",
-      "currentVersionReleaseDate": "2026-05-23T14:41:29Z",
-      "bundleId": "com.ollix.FogOfWorld",
+      "releaseDate": "2012-09-18T13:31:51Z",
       "genreIds": [
         "6003",
         "6012"
       ],
       "releaseNotes": "隆重推出：全新的“路径编辑器”！\n\n“路径编辑器”正式登场！现在，您可以手动编辑记录下来的路径，打造您的完美地图，让每一条轨迹都能真实且准确地反映您的旅程。\n\n有了全新的编辑器，您可以：\n• 擦除因 GPS 漂移产生的不准确记录点。\n• 补上隧道与地铁的缺失路径。\n• 修正城市中因信号干扰而歪曲的路径。\n\n进入编辑模式请前往：设置 > 数据库 > 路径编辑器\n\n--\n\nv3.7.4 更新：\n• 新增地图单指缩放方向设置，可切换 \"上滑放大\" 或 \"上滑缩小\"\n• 修正坚果云授权后无法跳转回 App 的问题",
-      "releaseDate": "2012-09-18T13:31:51Z",
-      "primaryGenreName": "Travel",
-      "primaryGenreId": 6003,
-      "sellerName": "Ollix",
       "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "Ollix",
+      "currentVersionReleaseDate": "2026-05-23T14:41:29Z",
       "version": "3.7.4",
       "wrapperType": "software",
       "currency": "CNY",
       "description": "我们未曾见过的世界，大到无法想象。\n\n世界迷雾 (Fog of World) 是一款结合真实人生的游戏。你可以探索世界来消除覆盖在地图上的雾，记录并显示这辈子走过的所有足迹，也能发现周遭未曾到访過的地方。\n\n通过这款应用，你会揭开世界的迷雾，探索未知的地域，留下属于你的回忆。\n\n作为全球第一款将即时战略游戏中迷雾概念结合真实人生的 APP，世界迷雾自 2012 年发布后就收到许多媒体的关注和无数使用者的好评：\n\n• 在空间维度上，它满足了人们探索世界的欲望，在时间维度上，它能珍藏一辈子的回忆 － 第一财经周刊\n• 它将虚拟与现实相结合，记录下你一辈子走过的每个角落，记录下你在全世界的探索足迹 － 少数派\n• 世界迷雾可能是我这么长一段时间以来所看过最有趣的 APP 了 － GIZMODO (全球知名科技网站)\n• 我们已经记不得上一次碰到像世界迷雾这么有趣的 APP 是什么时候了 － Business Insider (美国知名新闻网站)\n• 世界迷雾将你在城市和全世界间的移动变成了一场探索游戏 － AppStorm (国外知名 APP 评测网站)\n• 一个原创的全球定位游戏，让你想要探索居住城市的每条街甚至是更遥远的地方 － LITTLE APP REVIEW \n• 世界迷雾用了电玩游戏中战争迷雾的概念将旅行变成了游戏 － The Awesomer \n• 曾经拿下美国知名科技推文网站 Hacker News 的第一名宝座!\n\n● 主要功能\n\n• 透过 GPS 记录走过的每个角落 (也可以当 APP 在后台时记录)\n• 在地图上同时显示你走过的所有轨迹\n• 分析你在全世界、各大洲，甚至是每个国家或地区的探索数据\n• 内建许多成就徽章鼓励你走遍全世界\n• 支持多数据库和快照，以满足各种跟路径记录需求。\n• 支持导入 GPX 和 KML 文件（可以使用其它的 GPS 装置记录轨迹再导入 APP）\n• 支持将探索數據同步及备份到 坚果云、iCloud、OneDrive 和 Dropbox（其中 坚果云 免梯子就能使用）\n• 完美支持国测局所制订的 GCJ02 座标系，记录的路线不会偏移\n• 高精度的脱机区域辨识系统，提供最准确的探索数据分析\n• 支持 Siri 快捷指令及录制 Siri 的个性化短语\n\n● 隐私政策\n\n简而言之，我们不会收集你的任何资料。当你同步时，你的数据会上传到云端存储，但只有你能访问这些数据，我们不能访问。\n\n● 为什么选择世界迷雾？\n\n• 世界迷雾是第一个将战争迷雾概念结合真实世界地图的 APP，并从 2012 年发布以来一直提供免费更新。\n• 世界迷雾至今仍是画雾效果最棒的 APP，不相信吗？去下载山寨 APP 并拿您实际看到的迷雾效果来跟世界迷雾的截屏比较看看。\n• 没有任何一个山寨 APP 可以像世界迷雾一样，让您在放大缩小地图时可以无缝平滑的显示路径粗细。\n• 世界迷雾没有用户帐户，所有的探索数据都是存在您自已的设备里，保有完全的隐私。\n• 您可以将世界迷雾的探索数据同步或备份到 iCloud, Dropbox, Google Drive, OneDrive 或坚果云, 但只有您有权限来访问。\n• 世界迷雾的数据库经过特别设计，能够尽可能的使用最少保存空间且提供优秀的效能。\n• 世界迷雾是唯一真正可以全球使用的 APP，这是因为中国采用了 GCJ-02 坐标系，而世界其他地方都采用 WGS-84 坐标系。山寨 APP 只能在中国或非中国地区其中一个正常运作。\n• 世界迷雾在多达 137 个国家或地区被 APPLE 选为 App of the Day 推荐。\n\n\n加入我们的行列，用独一无二的方式去展开你的冒险，走遍世界的每个角落并把路径都给记录下来，在地图上把覆盖在未知世界的迷雾消除，从今天起体验更精采的人生！\n\n＃若有任何相关问题欢迎随时和我们联系：fogofworld@ollix.com",
-      "averageUserRating": 4.85652,
-      "contentAdvisoryRating": "4+",
-      "trackCensoredName": "世界迷雾",
-      "trackViewUrl": "https://apps.apple.com/cn/app/%E4%B8%96%E7%95%8C%E8%BF%B7%E9%9B%BE/id505367096?uo=4",
-      "userRatingCount": 8419,
+      "bundleId": "com.ollix.FogOfWorld",
+      "userRatingCount": 8424,
       "country": "CHN"
     },
     {
@@ -432,15 +432,11 @@
       ],
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/53/3a/5a533aa0-5672-5536-59cd-0ad4c1c38ee0/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/60x60bb.jpg",
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/53/3a/5a533aa0-5672-5536-59cd-0ad4c1c38ee0/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/512x512bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/53/3a/5a533aa0-5672-5536-59cd-0ad4c1c38ee0/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/jp/developer/ollix/id374932200?uo=4",
-      "advisories": [],
-      "kind": "software",
       "features": [
         "iosUniversal"
       ],
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -570,16 +566,15 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "userRatingCountForCurrentVersion": 2024,
-      "minimumOsVersion": "13.0",
-      "averageUserRatingForCurrentVersion": 4.71443,
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/jp/developer/ollix/id374932200?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/53/3a/5a533aa0-5672-5536-59cd-0ad4c1c38ee0/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/53/3a/5a533aa0-5672-5536-59cd-0ad4c1c38ee0/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/100x100bb.jpg",
       "formattedPrice": "¥3,000",
-      "contentAdvisoryRating": "4+",
-      "trackViewUrl": "https://apps.apple.com/jp/app/%E4%B8%96%E7%95%8C%E3%81%AE%E9%9C%A7-fog-of-world/id505367096?uo=4",
       "trackContentRating": "4+",
       "sellerUrl": "https://fogofworld.app",
-      "averageUserRating": 4.71443,
-      "trackCensoredName": "世界の霧 (Fog of World)",
+      "averageUserRatingForCurrentVersion": 4.71562,
+      "userRatingCountForCurrentVersion": 2029,
       "languageCodesISO2A": [
         "DA",
         "NL",
@@ -597,31 +592,36 @@
       ],
       "fileSizeBytes": "158812160",
       "price": 3000,
-      "genres": [
-        "旅行",
-        "ライフスタイル"
-      ],
-      "artistId": 374932200,
-      "artistName": "Ollix",
+      "primaryGenreName": "Travel",
+      "primaryGenreId": 6003,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "bundleId": "com.ollix.FogOfWorld",
+      "sellerName": "Ollix",
+      "trackId": 505367096,
+      "trackName": "世界の霧 (Fog of World)",
+      "releaseDate": "2012-09-18T13:31:51Z",
       "genreIds": [
         "6003",
         "6012"
       ],
-      "primaryGenreName": "Travel",
-      "primaryGenreId": 6003,
-      "sellerName": "Ollix",
-      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-05-23T14:41:29Z",
       "releaseNotes": "全く新しい「トラック編集」機能が登場！\n\n「トラック編集」機能が新登場！この機能を使えば、記録されたトラックを手動で編集し、あなたの旅の軌跡をより忠実かつ正確にマップへ反映させることができます。\n\n新しいエディタで、以下のことが可能になります：\n• GPSのズレによって生じた不正確な記録ポイントを消去。\n• トンネルや地下鉄など、GPS信号を失った区間のトラックを追加。\n• 電波干渉が多い都市部での蛇行したルートを修正。\n\nさあ、今すぐ編集を始めましょう：設定 > データベース > トラック編集\n\n--\n\nv3.7.4 の新機能：\n• 地図の1本指ズームの方向設定を追加しました。\"上にスライドして拡大\" または \"上にスライドして縮小\" を切り替えられます\n• Nutstore の認証後に App に戻れない問題を修正しました",
       "version": "3.7.4",
       "wrapperType": "software",
       "currency": "JPY",
       "description": "世界の霧で、あなたはそれらの目的地とそこにあなたを導く道を追体験します。それをマップします。あなたが見るために各ストライドを引き出します。あなたが作成した芸術の作品を見て-ちょうど旅行によって。知ることによって、あなたは封じ込められない。\n\n参加してください。あなたの冒険を体験するユニークな方法を受け入れます!探検、訪問し、世界地図上のあなたの旅を暗記。世界を Unfog、今日のあなたの人生をより華麗にしてください！\n\n• 世界の霧ほど楽しいアプリに出会ったのは久しぶりだ - GIZMODO\n• 最後に世界の霧のような面白いアプリに遭遇したのはいつだったか思い出せない - Business Insider\n• 世界の霧は、街や自分の世界を移動するのを探検ゲームに変える - AppStorm\n• 街のあらゆる通りや、もっと遠いところを探検したくなるような、オリジナルの世界的位置追跡ゲーム - LITTLE APP REVIEW\n• 世界の霧は、ビデオゲームの戦争の霧を応用して、旅をゲーム化している - The Awesomer\n• ハッカー・ニュースで、注目ニュースの第一位を維持！\n\n● 特徴\n\n• （アプリがバックグラウンドで作動しているときも）あなたが通った跡を記録します。\n• 地図上の行ったことのある場所をすべて同時に表示します。\n• 世界中、すべての大陸、すべての国、地域にまたがるあなたの統計データを分析します。\n• 世界をもっと探検したくなる、たくさんのバッジ。\n• さまざまなトラッキング目的のための複数のデータベースとスナップショットによるデータ保護のサポート。\n• GPX や KML ファイルで通った跡をインポートするのをサポートします。\n• データを Dropbox や OneDrive へ同期化するのをサポートします。\n\n● プライバシーポリシー\n\n要するに我々はあなたのいかなる探索データも収集していません。あなたのデータはクラウドストレージと同期した際にアップロードされますが、アクセスできるのはあなただけです。我々にはできません。\n\n● 世界の霧の魅力は何？\n\n• 世界の霧は、2012年にリアルワールドマップに「戦争の霧」のアイデアを初めて取り入れ、その後も無料でアップデートを提供しています。\n• 世界の霧は霧オーバーレイをレンダリングする最高のアプリであり、高解像度のトラックを表示する唯一のアプリです。信じられない場合は、コピーアプリのアプリをダウンロードして、世界の霧のスクリーンショットと比較してみてください。\n• 他のコピーアプリは、地図をズームインまたはズームアウトするとシームレスな太さの変更でトラックを表示できない。\n• 世界の霧にはユーザーアカウントがなく、すべてのデータはデバイスに保存されます。100%のプライバシーがあります。\n• iCloud、Dropbox、Google Drive、OneDrive、Nutstoreにデータを同期またはバックアップできますが、アクセスできるのはあなただけです。私たちではありません。\n• データベースは、高いパフォーマンスを提供しながら可能な限り少ないストレージを使用するように設計されています。\n• 世界の霧は、中国が政治的理由でGCJ-02座標系を使用しているため、世界中で実際に動作する唯一のアプリです。他のコピーアプリは、中国または世界のどちらかでは正常に動作しますが、両方ではありません。\n• 世界の霧は、137カ国でApp of the Dayに選ばれました。\n\n\nFacebookでいいね！\nhttps://www.facebook.com/OllixIO/\n\nTwitterでフォローする\nhttps://twitter.com/OllixIO",
-      "bundleId": "com.ollix.FogOfWorld",
-      "currentVersionReleaseDate": "2026-05-23T14:41:29Z",
-      "trackName": "世界の霧 (Fog of World)",
-      "trackId": 505367096,
-      "releaseDate": "2012-09-18T13:31:51Z",
-      "userRatingCount": 2024,
+      "averageUserRating": 4.71562,
+      "trackCensoredName": "世界の霧 (Fog of World)",
+      "trackViewUrl": "https://apps.apple.com/jp/app/%E4%B8%96%E7%95%8C%E3%81%AE%E9%9C%A7-fog-of-world/id505367096?uo=4",
+      "contentAdvisoryRating": "4+",
+      "minimumOsVersion": "13.0",
+      "artistId": 374932200,
+      "artistName": "Ollix",
+      "genres": [
+        "旅行",
+        "ライフスタイル"
+      ],
+      "userRatingCount": 2029,
       "country": "JPN"
     }
   ]

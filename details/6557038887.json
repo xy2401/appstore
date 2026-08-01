@@ -178,12 +178,6 @@
       "userRatingCount": 3
     },
     {
-      "isGameCenterEnabled": false,
-      "advisories": [],
-      "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/jp/developer/recorrect-inc/id1141646408?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/21/19/e62119fd-8d83-fa3f-f123-f319136f8dc2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/21/19/e62119fd-8d83-fa3f-f123-f319136f8dc2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c2/da/20/c2da208a-48aa-3255-34c6-e7046f452308/71646663-9dfa-4082-b65f-40d33fcbd4f1_Simulator_Screenshot_-_iPhone_8_Plus_-_2024-07-31_at_19.26.55.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/43/64/30/43643055-368d-3263-4bdf-b8109e0318cf/0d919338-af62-4922-85cb-c6457b211085_Simulator_Screenshot_-_iPhone_8_Plus_-_2024-07-31_at_19.31.41.png/392x696bb.png",
@@ -194,7 +188,7 @@
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/21/19/e62119fd-8d83-fa3f-f123-f319136f8dc2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
-      "features": [],
+      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -324,6 +318,20 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
+      "features": [],
+      "advisories": [],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/jp/developer/recorrect-inc/id1141646408?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/21/19/e62119fd-8d83-fa3f-f123-f319136f8dc2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/21/19/e62119fd-8d83-fa3f-f123-f319136f8dc2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.jpg",
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "fileSizeBytes": "31480832",
+      "formattedPrice": "¥1,800",
+      "userRatingCountForCurrentVersion": 3,
+      "averageUserRatingForCurrentVersion": 4.66667,
+      "trackContentRating": "4+",
       "minimumOsVersion": "11.0",
       "artistId": 1141646408,
       "artistName": "ReCorrect Inc.",
@@ -331,15 +339,19 @@
         "教育"
       ],
       "price": 1800,
-      "currentVersionReleaseDate": "2025-10-24T18:37:45Z",
-      "releaseNotes": "2025年度試験に対応しました。",
-      "trackName": "１級管工事施工管理技術検定「30日合格プログラム」",
       "trackId": 6557038887,
+      "trackName": "１級管工事施工管理技術検定「30日合格プログラム」",
+      "bundleId": "com.ReCorrect.Kankouji1Kyuu",
       "releaseDate": "2024-07-31T07:00:00Z",
+      "genreIds": [
+        "6017"
+      ],
+      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "ReCorrect Inc.",
       "primaryGenreName": "Education",
       "primaryGenreId": 6017,
-      "sellerName": "ReCorrect Inc.",
-      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2025-10-24T18:37:45Z",
+      "releaseNotes": "2025年度試験に対応しました。",
       "version": "1.0.1",
       "wrapperType": "software",
       "currency": "JPY",
@@ -348,18 +360,6 @@
       "trackViewUrl": "https://apps.apple.com/jp/app/%EF%BC%91%E7%B4%9A%E7%AE%A1%E5%B7%A5%E4%BA%8B%E6%96%BD%E5%B7%A5%E7%AE%A1%E7%90%86%E6%8A%80%E8%A1%93%E6%A4%9C%E5%AE%9A-30%E6%97%A5%E5%90%88%E6%A0%BC%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0/id6557038887?uo=4",
       "contentAdvisoryRating": "4+",
       "averageUserRating": 4.66667,
-      "languageCodesISO2A": [
-        "EN"
-      ],
-      "fileSizeBytes": "31480832",
-      "formattedPrice": "¥1,800",
-      "userRatingCountForCurrentVersion": 3,
-      "trackContentRating": "4+",
-      "bundleId": "com.ReCorrect.Kankouji1Kyuu",
-      "averageUserRatingForCurrentVersion": 4.66667,
-      "genreIds": [
-        "6017"
-      ],
       "userRatingCount": 3,
       "country": "JPN"
     }

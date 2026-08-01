@@ -192,12 +192,6 @@
       "userRatingCount": 44
     },
     {
-      "isGameCenterEnabled": false,
-      "advisories": [],
-      "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/jp/developer/%E3%83%A2%E3%83%81%E3%83%99%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B9%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/id1459352353?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/f4/b4/cef4b407-f389-9236-aa40-a49b15c3c190/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/f4/b4/cef4b407-f389-9236-aa40-a49b15c3c190/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.jpg",
       "screenshotUrls": [],
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/16/7c/30/167c306e-79c8-7793-75f0-1a318f5e772c/0ec0e94b-f92e-4ea7-b18a-4e2d902b76c3_iPad_sample4__U00281_U0029.PNG/576x768bb.png",
@@ -206,9 +200,7 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/f4/b4/cef4b407-f389-9236-aa40-a49b15c3c190/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
+      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -338,6 +330,23 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
+      "features": [
+        "iosUniversal"
+      ],
+      "advisories": [],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/jp/developer/%E3%83%A2%E3%83%81%E3%83%99%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B9%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/id1459352353?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/f4/b4/cef4b407-f389-9236-aa40-a49b15c3c190/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/f4/b4/cef4b407-f389-9236-aa40-a49b15c3c190/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.jpg",
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "fileSizeBytes": "56309760",
+      "formattedPrice": "無料",
+      "userRatingCountForCurrentVersion": 166,
+      "averageUserRatingForCurrentVersion": 1.91566,
+      "sellerUrl": "https://blend.school",
+      "trackContentRating": "4+",
       "minimumOsVersion": "12.4",
       "artistId": 1459352353,
       "artistName": "モチベーションワークス株式会社",
@@ -345,15 +354,19 @@
         "教育"
       ],
       "price": 0,
-      "currentVersionReleaseDate": "2026-07-02T15:24:00Z",
-      "releaseNotes": "動作の改善を行いました",
-      "trackName": "BLEND",
       "trackId": 1459352354,
+      "trackName": "BLEND",
+      "bundleId": "school.blend",
       "releaseDate": "2019-11-23T08:00:00Z",
+      "genreIds": [
+        "6017"
+      ],
+      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "Motivation Works Inc.",
       "primaryGenreName": "Education",
       "primaryGenreId": 6017,
-      "sellerName": "Motivation Works Inc.",
-      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-07-02T15:24:00Z",
+      "releaseNotes": "動作の改善を行いました",
       "version": "1.2.30",
       "wrapperType": "software",
       "currency": "JPY",
@@ -361,21 +374,8 @@
       "trackCensoredName": "BLEND",
       "trackViewUrl": "https://apps.apple.com/jp/app/blend/id1459352354?uo=4",
       "contentAdvisoryRating": "4+",
-      "averageUserRating": 1.90244,
-      "sellerUrl": "https://blend.school",
-      "languageCodesISO2A": [
-        "EN"
-      ],
-      "fileSizeBytes": "56309760",
-      "formattedPrice": "無料",
-      "userRatingCountForCurrentVersion": 164,
-      "trackContentRating": "4+",
-      "bundleId": "school.blend",
-      "averageUserRatingForCurrentVersion": 1.90244,
-      "genreIds": [
-        "6017"
-      ],
-      "userRatingCount": 164,
+      "averageUserRating": 1.91566,
+      "userRatingCount": 166,
       "country": "JPN"
     }
   ]

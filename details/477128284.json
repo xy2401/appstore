@@ -223,7 +223,6 @@
       "userRatingCount": 7003214
     },
     {
-      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/07/ee/3b/07ee3bd6-6645-0ddc-b60f-0f404af047ef/3b262dd2-3b81-4ce0-acba-1e29687bc23e_2024_Q3_BOE_APP_1242x2208_US_1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d3/29/9d/d3299d90-8581-8f26-5ec7-18a4066a6dbc/a5ec460b-befa-48ee-a242-68226ee4b0ee_2024_Q3_BOE_APP_1242x2208_US_2.jpg/392x696bb.jpg",
@@ -245,7 +244,8 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/77/14/f2/7714f221-69fb-73be-d74f-3eb33e1b31ea/17164c40-b8cf-4129-b2c1-683a237e8e44_2024_Q3_BOE_APP_2048x2732_iPadPro_US_8.jpg/576x768bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/9e/7a/e59e7a5e-4b23-8a78-59ba-bf21da50f19d/BOEAppIcon-0-0-1x_U007epad-0-1-0-0-0-0-GLES2_U002c0-85-220.png/512x512bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/a3/5d/2ca35d2a-8166-82c8-33e5-f84a22962a42/BOEAppIcon-0-0-1x_U007epad-0-1-0-0-0-0-GLES2_U002c0-85-220.png/512x512bb.jpg",
+      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -375,21 +375,20 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "advisories": [
-        "Infrequent/Mild Cartoon or Fantasy Violence",
-        "Infrequent/Mild Sexual Content and Nudity",
-        "Infrequent/Mild Profanity or Crude Humor",
-        "Infrequent/Mild Horror/Fear Themes",
-        "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References"
-      ],
-      "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/us/developer/etsy-inc/id447644532?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/9e/7a/e59e7a5e-4b23-8a78-59ba-bf21da50f19d/BOEAppIcon-0-0-1x_U007epad-0-1-0-0-0-0-GLES2_U002c0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/9e/7a/e59e7a5e-4b23-8a78-59ba-bf21da50f19d/BOEAppIcon-0-0-1x_U007epad-0-1-0-0-0-0-GLES2_U002c0-85-220.png/100x100bb.jpg",
       "features": [
         "iosUniversal"
       ],
-      "averageUserRatingForCurrentVersion": 4.92556,
+      "advisories": [
+        "Infrequent/Mild Cartoon or Fantasy Violence",
+        "Infrequent/Mild Horror/Fear Themes",
+        "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References",
+        "Infrequent/Mild Sexual Content and Nudity",
+        "Infrequent/Mild Profanity or Crude Humor"
+      ],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/us/developer/etsy-inc/id447644532?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/a3/5d/2ca35d2a-8166-82c8-33e5-f84a22962a42/BOEAppIcon-0-0-1x_U007epad-0-1-0-0-0-0-GLES2_U002c0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/a3/5d/2ca35d2a-8166-82c8-33e5-f84a22962a42/BOEAppIcon-0-0-1x_U007epad-0-1-0-0-0-0-GLES2_U002c0-85-220.png/100x100bb.jpg",
       "sellerUrl": "https://www.etsy.com/mobile",
       "languageCodesISO2A": [
         "NL",
@@ -408,41 +407,42 @@
         "ES",
         "SV"
       ],
-      "fileSizeBytes": "200755200",
+      "fileSizeBytes": "206287872",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 7196376,
+      "userRatingCountForCurrentVersion": 7205342,
       "trackContentRating": "12+",
-      "price": 0,
+      "averageUserRatingForCurrentVersion": 4.92551,
+      "artistId": 447644532,
+      "artistName": "Etsy, Inc.",
       "genres": [
         "Shopping",
         "Lifestyle"
       ],
-      "currentVersionReleaseDate": "2026-07-20T15:03:56Z",
+      "price": 0,
       "primaryGenreName": "Shopping",
       "primaryGenreId": 6024,
-      "sellerName": "Etsy, Inc.",
-      "trackName": "Etsy: Shop Home, Style & More",
-      "trackId": 477128284,
       "bundleId": "com.etsy.etsyforios",
-      "releaseDate": "2011-11-16T16:40:25Z",
+      "trackId": 477128284,
+      "trackName": "Etsy: Shop Home, Style & More",
       "genreIds": [
         "6024",
         "6012"
       ],
+      "sellerName": "Etsy, Inc.",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseDate": "2011-11-16T16:40:25Z",
+      "currentVersionReleaseDate": "2026-07-28T05:29:10Z",
       "releaseNotes": "Bugfixes, to make your Etsy experience even smoother.\n\nLoving Etsy?\nShare the love by giving us a review on the App Store!\n\nHaving issues?\nVisit etsy.com/help",
-      "version": "7.87",
+      "version": "7.88",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Shop Etsy—your global marketplace for original items made, handpicked, and designed by real people for all budgets. Explore everything from vintage treasures and trending style pieces to personalized jewelry and custom home decor. Get online shopping offers and deals on one-of-a-kind items from small shops, chat with Etsy sellers, track your orders, and more.\n\nEvery piece comes from an independent seller. Support your local small shops by shopping one-of-a-kind finds from real people—the kind of pieces you won’t find on a big-box shelf. From clothes shopping for summer, to prepping the perfect patio decor—Etsy has you covered.\n \nDownload today and shop unique pieces from a special marketplace of sellers.\n \nDiscover Handmade, One-of-a-Kind Finds\nExplore over 15+ marketplace categories of original items from all over the world, including:\n• Home Goods & Decor: Find and buy furniture or new prints to style your space, and give the perfect housewarming gifts with pieces like handmade glassware sets or a custom dining table.\n• New & Vintage Clothes: Online shop clothing for men, women, and children and elevate your personal wardrobe.*\n• Jewelry & Accessories: Accessorize your looks with unique and handmade rings, earrings, and necklaces.\n• Original Art, Collectibles & Digital Downloads: Pick up finds from around the world, like Turkish pottery, Portuguese ceramics and custom prints.\n• DIY Ideas: Get all the supplies and craft kits you need to throw a themed party or learn a new hobby.\n\nSave More with the Etsy app\nShop top offers and deals from small shops with curated selections of items on sale from sellers you love. Plus, stay updated on sales for your favorite pieces with push notifications!\n\nMake Every Find One-of-a-Kind\nPersonalize clothes, decor, and style essentials to make your gifts one-of-a-kind. Customization knows no bounds with Etsy.\n\nEnhance your Search\nLooking for something specific? Or shopping with a budget? Discover the perfect  pieces with search by image, filtering by shop location, budget and more.\n\nEasily Track Your Order\nTrack gifts and shipments with real-time updates on your order status—including customized notifications to your taste. Chat with sellers, ask questions and stay in-the-know on your order on the app.\n\nCheckout Safe & Seamlessly\nShop safely with secure payments, including credit/debit, Etsy gift cards, Paypal, Klarna, and quick purchases with Apple Pay. \n\nFavorite, Organize & Create Lists\nFavorite shops, save items, and organize your pieces in collections for future inspiration. Or, create a gift list of your favorite items and save special occasions for helpful reminders.\n\nGifting for Every Occasion\nShopping last minute or need help picking out a gift? Shop gift guides for every occasion, or send a sneak peek at the present on the way via a custom preview message, with gifts for:\n• Birthdays\n• Anniversaries\n• Engagements\n• Weddings\n• Holidays\n• Her, Him & Pets\n• & so much more!\n\nGet Inspired\nAccess inspiration at your fingertips with the Etsy app. Browse new and trending items or shop collections curated specifically for you to discover the latest in home, style, and more.\n\nShop a Trusted Marketplace\nShop online with confidence. Etsy Purchase Protection ensures you are protected in the event there is an issue with your order. Plus, leave and read item and shop reviews.\n\nDiscover something special for every occasion from a global community of talented sellers—from clothing and furniture to art, decor, and more. Download today.\n\nReady to turn your craft into a shop? Download the Etsy Seller app to create listings, manage orders, and sell to buyers all over the world.\n \n*Etsy does not evaluate vintage items’ condition and authenticity.",
-      "minimumOsVersion": "18.0",
       "trackCensoredName": "Etsy: Shop Home, Style & More",
       "trackViewUrl": "https://apps.apple.com/us/app/etsy-shop-home-style-more/id477128284?uo=4",
       "contentAdvisoryRating": "12+",
-      "averageUserRating": 4.92556,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "artistId": 447644532,
-      "artistName": "Etsy, Inc.",
-      "userRatingCount": 7196376,
+      "averageUserRating": 4.92551,
+      "minimumOsVersion": "18.0",
+      "userRatingCount": 7205342,
       "country": "USA"
     }
   ]
