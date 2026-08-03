@@ -166,7 +166,7 @@
       "country": "de",
       "mediaType": "apps",
       "feed": "top-paid",
-      "rank": 40,
+      "rank": 44,
       "artistName": "Monash University",
       "id": "586149216",
       "name": "Monash FODMAP Diet",
@@ -192,14 +192,25 @@
       "country": "fr",
       "mediaType": "apps",
       "feed": "top-paid",
-      "rank": 10,
+      "rank": 11,
       "artistName": "Monash University",
       "id": "586149216",
       "name": "Monash FODMAP Diet",
       "releaseDate": "2012-12-17",
       "kind": "apps",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/ee/45/e4ee45d4-6c45-9a81-70f1-719429492fd7/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.jpeg/100x100bb.png",
-      "genres": [],
+      "genres": [
+        {
+          "genreId": "6020",
+          "name": "Médecine",
+          "url": "https://itunes.apple.com/fr/genre/id6020"
+        },
+        {
+          "genreId": "6013",
+          "name": "Forme et santé",
+          "url": "https://itunes.apple.com/fr/genre/id6013"
+        }
+      ],
       "url": "https://apps.apple.com/fr/app/monash-fodmap-diet/id586149216"
     },
     {
@@ -207,7 +218,7 @@
       "country": "gb",
       "mediaType": "apps",
       "feed": "top-paid",
-      "rank": 20,
+      "rank": 30,
       "artistName": "Monash University",
       "id": "586149216",
       "name": "Monash FODMAP Diet",
@@ -233,14 +244,25 @@
       "country": "us",
       "mediaType": "apps",
       "feed": "top-paid",
-      "rank": 8,
+      "rank": 14,
       "artistName": "Monash University",
       "id": "586149216",
       "name": "Monash FODMAP Diet",
       "releaseDate": "2012-12-17",
       "kind": "apps",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/ee/45/e4ee45d4-6c45-9a81-70f1-719429492fd7/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.jpeg/100x100bb.png",
-      "genres": [],
+      "genres": [
+        {
+          "genreId": "6020",
+          "name": "Medical",
+          "url": "https://itunes.apple.com/us/genre/id6020"
+        },
+        {
+          "genreId": "6013",
+          "name": "Health & Fitness",
+          "url": "https://itunes.apple.com/us/genre/id6013"
+        }
+      ],
       "url": "https://apps.apple.com/us/app/monash-fodmap-diet/id586149216"
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "resultCount": 6,
+  "resultCount": 7,
   "results": [
     {
       "date": "20260406",
@@ -83,10 +83,30 @@
     },
     {
       "date": "20260801",
+      "country": "gb",
+      "mediaType": "podcasts",
+      "feed": "top-subscriber-podcasts",
+      "rank": 73,
+      "artistName": "ABC News",
+      "id": "987967575",
+      "name": "20/20",
+      "kind": "podcasts",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/81/6c/5d/816c5d57-7c3f-3df9-1557-08e17469dfe4/mza_1433648970787567135.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1488",
+          "name": "True Crime",
+          "url": "https://itunes.apple.com/gb/genre/id1488"
+        }
+      ],
+      "url": "https://podcasts.apple.com/gb/podcast/20-20/id987967575"
+    },
+    {
+      "date": "20260801",
       "country": "us",
       "mediaType": "podcasts",
       "feed": "top-podcasts",
-      "rank": 61,
+      "rank": 11,
       "artistName": "ABC News",
       "id": "987967575",
       "name": "20/20",
@@ -106,7 +126,7 @@
       "country": "us",
       "mediaType": "podcasts",
       "feed": "top-subscriber-podcasts",
-      "rank": 22,
+      "rank": 9,
       "artistName": "ABC News",
       "id": "987967575",
       "name": "20/20",
