@@ -177,11 +177,15 @@
       "userRatingCount": 4861
     },
     {
-      "isGameCenterEnabled": false,
       "screenshotUrls": [],
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/15/0b/ad150b35-9029-1269-4fcd-274e7c848bfe/AppIconSantasBag-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/512x512bb.jpg",
+      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -311,30 +315,26 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "advisories": [],
       "kind": "software",
       "artistViewUrl": "https://apps.apple.com/us/developer/clay-pot-software-llc/id342038657?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/15/0b/ad150b35-9029-1269-4fcd-274e7c848bfe/AppIconSantasBag-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/15/0b/ad150b35-9029-1269-4fcd-274e7c848bfe/AppIconSantasBag-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
       "releaseNotes": ".Bug fixes and improvements",
-      "fileSizeBytes": "29331456",
-      "formattedPrice": "Free",
-      "trackContentRating": "4+",
+      "averageUserRatingForCurrentVersion": 4.8803,
       "sellerUrl": "https://claypotsoftware.com/santas-bag-for-ios/",
-      "averageUserRatingForCurrentVersion": 4.88056,
       "languageCodesISO2A": [
         "EN"
       ],
-      "userRatingCountForCurrentVersion": 5836,
+      "fileSizeBytes": "29331456",
+      "formattedPrice": "Free",
+      "trackContentRating": "4+",
+      "userRatingCountForCurrentVersion": 5840,
+      "artistId": 342038657,
+      "artistName": "Clay Pot Software LLC",
       "genres": [
         "Shopping",
         "Productivity"
       ],
-      "artistId": 342038657,
-      "artistName": "Clay Pot Software LLC",
       "price": 0,
       "bundleId": "com.claypotsoftware.santasbag",
       "genreIds": [
@@ -342,23 +342,23 @@
         "6007"
       ],
       "releaseDate": "2010-10-31T00:25:34Z",
+      "isVppDeviceBasedLicensingEnabled": true,
       "primaryGenreName": "Shopping",
       "primaryGenreId": 6024,
+      "sellerName": "Clay Pot Software LLC",
       "trackId": 397698040,
       "trackName": "Santa's Bag",
-      "sellerName": "Clay Pot Software LLC",
-      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-02-26T01:35:57Z",
       "version": "2.6.2",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Santa’s Bag has been recommended by The New York Times, US News & World Report, Consumer Reports, USA Today, Forbes Magazine, Fox News, Parents Magazine, Real Simple Magazine, PC Magazine, NBC News, Buzzfeed.com, and The Huffington Post, among others.\n\nRevolutionize your Christmas shopping experience! Santa's Bag is a fun and easy-to-use app to help you manage your Christmas gift recipients, planning, shopping, and budgets. Each detail of the app is carefully designed to make sure you don't forget anyone or anything. Christmas shopping has never been easier or more fun!\n\n* Add Gifts, Ideas, Links, Preferences, and Notes for each Recipient\n* Add Links, Photo, and Notes for each Gift\n* Save Links through our App Extension or by Drag & Drop into the app\n* Email, print or save customizable, checkable lists: Planning Lists, Shopping Lists, and more\n* Split/Multiple/Unassigned Gifts\n* Recipient/Occasion Budgets and Progress Bars\n* Screenlock Passcode\n* Highly Customizable Views/Sorts/Filters\n* Christmas Countdown Timer\n* Database Backup and Restore",
-      "minimumOsVersion": "18.6",
+      "contentAdvisoryRating": "4+",
       "trackCensoredName": "Santa's Bag",
       "trackViewUrl": "https://apps.apple.com/us/app/santas-bag/id397698040?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.88056,
-      "userRatingCount": 5836,
+      "averageUserRating": 4.8803,
+      "minimumOsVersion": "18.6",
+      "userRatingCount": 5840,
       "country": "USA"
     }
   ]

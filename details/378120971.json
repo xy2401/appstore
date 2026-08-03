@@ -2,8 +2,10 @@
   "resultCount": 1,
   "results": [
     {
+      "features": [
+        "iosUniversal"
+      ],
       "isGameCenterEnabled": false,
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/bd/fa/b3bdfa6a-4f3b-4a16-5dd9-7a4389dce570/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ef/04/85/ef048527-994d-5912-e85c-419dc6ad5b19/mzl.zgewpohi.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/32/f6/ba/32f6ba6a-b1e4-8911-b4ec-466c659a648f/tns.piepzcjp.png/392x696bb.png",
@@ -22,10 +24,12 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/89/c4/99/89c4993b-958a-13e6-4716-8893e4ac3730/mzl.dwlqmvrg.png/552x414bb.png"
       ],
       "appletvScreenshotUrls": [],
-      "features": [
-        "iosUniversal"
-      ],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/bd/fa/b3bdfa6a-4f3b-4a16-5dd9-7a4389dce570/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
       "advisories": [],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/fr/developer/lakehorn-ag/id288286082?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/bd/fa/b3bdfa6a-4f3b-4a16-5dd9-7a4389dce570/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/bd/fa/b3bdfa6a-4f3b-4a16-5dd9-7a4389dce570/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -156,10 +160,15 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/fr/developer/lakehorn-ag/id288286082?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/bd/fa/b3bdfa6a-4f3b-4a16-5dd9-7a4389dce570/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/bd/fa/b3bdfa6a-4f3b-4a16-5dd9-7a4389dce570/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.jpg",
+      "releaseNotes": "Captain Premium Plan (Subscription):\n- Added precipitation radar for Canada\n\nChanged:\n- Minor bug fixing (decoded NOTAM D field)\n- Improved loading of convective cells data (in map)\n- Database update (2026-07-09A)",
+      "userRatingCountForCurrentVersion": 64,
+      "price": 4.99,
+      "genres": [
+        "Météo",
+        "Voyages"
+      ],
+      "artistId": 288286082,
+      "artistName": "Lakehorn AG",
       "averageUserRatingForCurrentVersion": 3.4375,
       "sellerUrl": "https://www.lakehorn.com/products/aeroweather-pro/",
       "languageCodesISO2A": [
@@ -182,28 +191,14 @@
       "fileSizeBytes": "123194368",
       "formattedPrice": "4,99 €",
       "trackContentRating": "4+",
-      "userRatingCountForCurrentVersion": 64,
-      "artistId": 288286082,
-      "artistName": "Lakehorn AG",
-      "genres": [
-        "Météo",
-        "Voyages"
-      ],
-      "price": 4.99,
       "bundleId": "com.pascaldreer.aeroweatherpro",
-      "primaryGenreName": "Weather",
-      "primaryGenreId": 6001,
       "sellerName": "Lakehorn AG",
-      "genreIds": [
-        "6001",
-        "6003"
-      ],
       "isVppDeviceBasedLicensingEnabled": true,
       "releaseDate": "2010-06-30T22:22:40Z",
+      "primaryGenreName": "Weather",
+      "primaryGenreId": 6001,
       "trackId": 378120971,
       "trackName": "AeroWeather Pro",
-      "currentVersionReleaseDate": "2026-07-19T08:39:39Z",
-      "releaseNotes": "Captain Premium Plan (Subscription):\n- Added precipitation radar for Canada\n\nChanged:\n- Minor bug fixing (decoded NOTAM D field)\n- Improved loading of convective cells data (in map)\n- Database update (2026-07-09A)",
       "version": "3.15.6",
       "wrapperType": "software",
       "currency": "EUR",
@@ -213,6 +208,11 @@
       "trackViewUrl": "https://apps.apple.com/fr/app/aeroweather-pro/id378120971?uo=4",
       "contentAdvisoryRating": "4+",
       "minimumOsVersion": "16.0",
+      "genreIds": [
+        "6001",
+        "6003"
+      ],
+      "currentVersionReleaseDate": "2026-07-19T08:39:39Z",
       "userRatingCount": 64,
       "country": "FRA"
     }

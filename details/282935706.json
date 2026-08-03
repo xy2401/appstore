@@ -263,10 +263,12 @@
       "userRatingCount": 13118333
     },
     {
-      "isGameCenterEnabled": false,
       "artistViewUrl": "https://apps.apple.com/us/developer/life-church/id282935709?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/d0/89/15d0899e-5989-9163-09e0-b102afaf0861/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/d0/89/15d0899e-5989-9163-09e0-b102afaf0861/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/100x100bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -396,9 +398,6 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "features": [
-        "iosUniversal"
-      ],
       "advisories": [
         "Infrequent/Mild Mature/Suggestive Themes",
         "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References",
@@ -420,11 +419,14 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/d0/89/15d0899e-5989-9163-09e0-b102afaf0861/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/512x512bb.jpg",
-      "minimumOsVersion": "17.0",
+      "isGameCenterEnabled": false,
+      "bundleId": "tv.lifechurch.bible",
       "trackCensoredName": "Bible",
       "trackViewUrl": "https://apps.apple.com/us/app/bible/id282935706?uo=4",
       "contentAdvisoryRating": "12+",
-      "averageUserRating": 4.91499,
+      "averageUserRating": 4.91496,
+      "minimumOsVersion": "17.0",
+      "price": 0,
       "artistId": 282935709,
       "artistName": "Life.Church",
       "genres": [
@@ -434,20 +436,15 @@
       "releaseDate": "2019-02-12T08:00:00Z",
       "trackName": "Bible",
       "trackId": 282935706,
+      "primaryGenreName": "Reference",
+      "primaryGenreId": 6006,
+      "sellerName": "Life.Church",
       "isVppDeviceBasedLicensingEnabled": true,
-      "bundleId": "tv.lifechurch.bible",
-      "genreIds": [
-        "6006",
-        "6018"
-      ],
       "currentVersionReleaseDate": "2026-07-23T19:00:46Z",
-      "releaseNotes": "Bug fixes and performance improvements",
       "version": "11.28.0",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Take God’s Word with you wherever you go with the free YouVersion Bible App. Listen to Audio Bibles, create Prayers, study with Friends, watch engaging Videos, explore 3,500+ Bible versions, and much more. Download now!\n\nDownloaded over 700M times around the world, people are reading, listening to, watching, and sharing the free YouVersion Bible App. 3,500+ Bible versions, in 2,300+ languages. Thousands of Reading Plans in 100+ languages. Add your own Prayers, Verse Images, Highlights, Bookmarks, and public or private Notes.\n\nCustomize your Bible App experience. Access everything when connected, or download specific versions to use offline.\n\nExplore the Bible with your closest friends. Share honest conversations about Scripture with a trusted community. Grow together and share what you discover.\n\nMAKE PRAYER A DAILY HABIT\n* Use Prayer cards to keep track of your Prayers in the Bible App\n* Easily organize Prayer lists\n* Make your Prayers private or share with Friends\n* Celebrate answered Prayer requests with your Bible App Friends\n\nDISCOVER THE BIBLE\n* Easily select from thousands of Bible versions, in 2,300+ languages\n* Over 100 languages to choose from for your Bible App interface\n* Choose from popular versions like the NIV, NASB, ESV, NKJV, NLT, KJV, The Message, and more.\n* Offline Bibles: Read without network access (available for select versions)\n* Listen to audio Bibles and enjoy skip, playback speed, and timer controls. (Audio Bibles available for select versions and are not downloadable.)\n\nCONNECT WITH FRIENDS\n* Center your friendships around Scripture in the Bible App\n* See a stream of Bible activity that shows what you and your Friends are noting, bookmarking, and highlighting\n* Comment to ask questions and enjoy meaningful conversations in the app as you study God’s Word together\n\nSTUDY THE BIBLE\n* Thousands of Plans: Devotionals and Plans that lead you through specific topics, portions of the Bible, or the entire Bible in a year (both Bible in One Year and One Year® Bible)\n* Watch and share video clips from, The Chosen, The Bible Project, the “JESUS” film, “The Lumo Project,” and more\n* Search the Bible\n\nCUSTOMIZE YOUR BIBLE\n* Themes let you select a color palette for your entire Bible App experience\n* Verse Images turn Bible verses into shareable art\n* Highlight with custom colors—just like a paper Bible\n* Bookmark passages: Share, memorize, or keep track of your favorites\n* Share verses with friends using social networks, email, or SMS/text\n* Add Notes: Keep them private so only you can see them, or make them public to share with friends\n* Cloud syncing: With a free YouVersion account, see all your Notes, Highlights, Bookmarks, and Reading Plans on any supported device\n* Easy Reading: Adjust settings like fonts, spacing, and text size, and even read in Dark Mode\n\nCONNECT WITH YOUVERSION\n* Contact Support from inside the Bible App\n* Join the @youversion community on Instagram, Facebook, Twitter, TikTok & Pinterest\n* Catch up on the latest at blog.youversion.com\n* Access the Bible online at bible.com\n\nDownload the world’s most downloaded Bible App and enjoy the Bible experience loved by millions!",
-      "averageUserRatingForCurrentVersion": 4.91499,
-      "sellerUrl": "https://www.bible.com/about",
       "languageCodesISO2A": [
         "AF",
         "SQ",
@@ -515,13 +512,16 @@
       ],
       "fileSizeBytes": "167941120",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 13571008,
+      "userRatingCountForCurrentVersion": 13575569,
       "trackContentRating": "12+",
-      "primaryGenreName": "Reference",
-      "primaryGenreId": 6006,
-      "price": 0,
-      "sellerName": "Life.Church",
-      "userRatingCount": 13571008,
+      "sellerUrl": "https://www.bible.com/about",
+      "averageUserRatingForCurrentVersion": 4.91496,
+      "genreIds": [
+        "6006",
+        "6018"
+      ],
+      "releaseNotes": "Bug fixes and performance improvements",
+      "userRatingCount": 13575569,
       "country": "USA"
     }
   ]

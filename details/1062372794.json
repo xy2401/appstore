@@ -2,8 +2,10 @@
   "resultCount": 1,
   "results": [
     {
+      "features": [
+        "iosUniversal"
+      ],
       "isGameCenterEnabled": false,
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/68/c3/1668c3a5-48fa-b5aa-f552-f5ecbdf201dc/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.jpeg/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/f0/9d/ce/f09dceda-6cb8-bdb8-56fd-1436da4c8d44/mzl.wugkwvyj.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/8c/bb/80/8cbb8098-7ae3-92a2-fa2a-2d9b0ac0f0dd/mzl.lksmbhak.png/392x696bb.png",
@@ -20,10 +22,12 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/23/7f/2d/237f2db6-dc87-69af-2278-736a16fcff7e/mzl.cyjmgidk.png/576x768bb.png"
       ],
       "appletvScreenshotUrls": [],
-      "features": [
-        "iosUniversal"
-      ],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/68/c3/1668c3a5-48fa-b5aa-f552-f5ecbdf201dc/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.jpeg/512x512bb.jpg",
       "advisories": [],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/fr/developer/app4nav/id418723848?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/68/c3/1668c3a5-48fa-b5aa-f552-f5ecbdf201dc/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/68/c3/1668c3a5-48fa-b5aa-f552-f5ecbdf201dc/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.jpeg/100x100bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -154,10 +158,15 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/fr/developer/app4nav/id418723848?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/68/c3/1668c3a5-48fa-b5aa-f552-f5ecbdf201dc/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.jpeg/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/68/c3/1668c3a5-48fa-b5aa-f552-f5ecbdf201dc/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.jpeg/100x100bb.jpg",
+      "releaseNotes": "• Mise à jour du modèle magnétique mondial WMM 2025",
+      "userRatingCountForCurrentVersion": 121,
+      "price": 64.99,
+      "genres": [
+        "Météo",
+        "Navigation"
+      ],
+      "artistId": 418723848,
+      "artistName": "APP4NAV",
       "averageUserRatingForCurrentVersion": 4.17354,
       "sellerUrl": "http://www.weather4d.com/fr",
       "languageCodesISO2A": [
@@ -167,28 +176,14 @@
       "fileSizeBytes": "542610432",
       "formattedPrice": "64,99 €",
       "trackContentRating": "4+",
-      "userRatingCountForCurrentVersion": 121,
-      "artistId": 418723848,
-      "artistName": "APP4NAV",
-      "genres": [
-        "Météo",
-        "Navigation"
-      ],
-      "price": 64.99,
       "bundleId": "com.app4nav.ios.Weather4D",
-      "primaryGenreName": "Weather",
-      "primaryGenreId": 6001,
       "sellerName": "APP4NAV",
-      "genreIds": [
-        "6001",
-        "6010"
-      ],
       "isVppDeviceBasedLicensingEnabled": true,
       "releaseDate": "2015-12-09T11:52:57Z",
+      "primaryGenreName": "Weather",
+      "primaryGenreId": 6001,
       "trackId": 1062372794,
       "trackName": "Weather4D Routing & Navigation",
-      "currentVersionReleaseDate": "2026-07-04T05:31:05Z",
-      "releaseNotes": "• Mise à jour du modèle magnétique mondial WMM 2025",
       "version": "2.0.95",
       "wrapperType": "software",
       "currency": "EUR",
@@ -198,6 +193,11 @@
       "trackViewUrl": "https://apps.apple.com/fr/app/weather4d-routing-navigation/id1062372794?uo=4",
       "contentAdvisoryRating": "4+",
       "minimumOsVersion": "13.0",
+      "genreIds": [
+        "6001",
+        "6010"
+      ],
+      "currentVersionReleaseDate": "2026-07-04T05:31:05Z",
       "userRatingCount": 121,
       "country": "FRA"
     }

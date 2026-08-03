@@ -2,8 +2,8 @@
   "resultCount": 1,
   "results": [
     {
+      "features": [],
       "isGameCenterEnabled": false,
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/de/21/f1de21bc-2d71-c9aa-ffe7-b1a083f0bd13/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cb/f2/9a/cbf29a1e-183b-8c12-035e-f203e00e5e04/c432f3ab-397a-43b5-b3bd-036a69d1facb_slice1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/64/10/0a/64100a80-6d25-db23-103a-23029c054488/2026-2.jpg/392x696bb.jpg",
@@ -15,10 +15,14 @@
       ],
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
-      "features": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/de/21/f1de21bc-2d71-c9aa-ffe7-b1a083f0bd13/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
       "advisories": [
         "Scènes rares/modérées de violence (animation ou fantastique)"
       ],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/fr/developer/stephen-kempin/id1451415928?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/de/21/f1de21bc-2d71-c9aa-ffe7-b1a083f0bd13/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/de/21/f1de21bc-2d71-c9aa-ffe7-b1a083f0bd13/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -148,10 +152,15 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/fr/developer/stephen-kempin/id1451415928?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/de/21/f1de21bc-2d71-c9aa-ffe7-b1a083f0bd13/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/de/21/f1de21bc-2d71-c9aa-ffe7-b1a083f0bd13/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
+      "releaseNotes": "• All artwork locations checked and updated for 2026\n• Added multilingual support across the app\n• Artwork detail pages now show other nearby Banksy locations\n• Improved location information and navigation experience",
+      "userRatingCountForCurrentVersion": 3,
+      "price": 0.99,
+      "genres": [
+        "Navigation",
+        "Références"
+      ],
+      "artistId": 1451415928,
+      "artistName": "Stephen Kempin",
       "averageUserRatingForCurrentVersion": 5,
       "languageCodesISO2A": [
         "EN"
@@ -159,28 +168,14 @@
       "fileSizeBytes": "55784448",
       "formattedPrice": "0,99 €",
       "trackContentRating": "9+",
-      "userRatingCountForCurrentVersion": 3,
-      "artistId": 1451415928,
-      "artistName": "Stephen Kempin",
-      "genres": [
-        "Navigation",
-        "Références"
-      ],
-      "price": 0.99,
       "bundleId": "com.skuk.bristolbanksy",
-      "primaryGenreName": "Navigation",
-      "primaryGenreId": 6010,
       "sellerName": "Stephen Kempin",
-      "genreIds": [
-        "6010",
-        "6006"
-      ],
       "isVppDeviceBasedLicensingEnabled": true,
       "releaseDate": "2019-04-13T19:55:34Z",
+      "primaryGenreName": "Navigation",
+      "primaryGenreId": 6010,
       "trackId": 1459024024,
       "trackName": "Bristol Tour Map of Banksy",
-      "currentVersionReleaseDate": "2026-05-22T21:13:57Z",
-      "releaseNotes": "• All artwork locations checked and updated for 2026\n• Added multilingual support across the app\n• Artwork detail pages now show other nearby Banksy locations\n• Improved location information and navigation experience",
       "version": "2.0.11",
       "wrapperType": "software",
       "currency": "EUR",
@@ -190,6 +185,11 @@
       "trackViewUrl": "https://apps.apple.com/fr/app/bristol-tour-map-of-banksy/id1459024024?uo=4",
       "contentAdvisoryRating": "9+",
       "minimumOsVersion": "15.1",
+      "genreIds": [
+        "6010",
+        "6006"
+      ],
+      "currentVersionReleaseDate": "2026-05-22T21:13:57Z",
       "userRatingCount": 3,
       "country": "FRA"
     }

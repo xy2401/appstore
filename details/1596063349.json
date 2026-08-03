@@ -203,7 +203,6 @@
       "userRatingCount": 1196
     },
     {
-      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource123/v4/5c/f5/76/5cf5763b-568d-8fcd-005b-1cce24b17ef2/eb427951-d78c-4945-b001-c342344e7e95_Frame_1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource113/v4/33/cb/dc/33cbdc57-db3e-dc79-b807-c88184d0caec/a133f7d0-b631-422e-89b9-49b3d7d6ecfa_Frame_2.png/392x696bb.png",
@@ -218,6 +217,10 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/99/dc/8a99dc65-dbfa-d9f9-be4e-4170a0658239/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "isGameCenterEnabled": false,
+      "artistViewUrl": "https://apps.apple.com/jp/developer/stash-networks-limited/id1596063351?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/99/dc/8a99dc65-dbfa-d9f9-be4e-4170a0658239/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/99/dc/8a99dc65-dbfa-d9f9-be4e-4170a0658239/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.jpg",
       "features": [
         "iosUniversal"
       ],
@@ -352,11 +355,6 @@
       ],
       "advisories": [],
       "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/jp/developer/stash-networks-limited/id1596063351?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/99/dc/8a99dc65-dbfa-d9f9-be4e-4170a0658239/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/99/dc/8a99dc65-dbfa-d9f9-be4e-4170a0658239/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.jpg",
-      "averageUserRatingForCurrentVersion": 4.36364,
-      "currentVersionReleaseDate": "2026-07-16T17:06:42Z",
       "languageCodesISO2A": [
         "EN",
         "JA",
@@ -371,7 +369,12 @@
       "fileSizeBytes": "137574400",
       "formattedPrice": "¥1,000",
       "trackContentRating": "4+",
+      "averageUserRatingForCurrentVersion": 4.36364,
       "minimumOsVersion": "16.0",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.36364,
+      "trackCensoredName": "Stash - Rule Based Proxy",
+      "trackViewUrl": "https://apps.apple.com/jp/app/stash-rule-based-proxy/id1596063349?uo=4",
       "artistId": 1596063351,
       "artistName": "STASH NETWORKS LIMITED",
       "genres": [
@@ -380,35 +383,34 @@
       ],
       "price": 1000,
       "bundleId": "ws.stash.app",
-      "releaseDate": "2021-12-10T08:00:00Z",
+      "trackName": "Stash - Rule Based Proxy",
+      "trackId": 1596063349,
       "releaseNotes": "Optimization\n• Optimized StashTun\n\nFixes\n• Fixed an issue where switching networks could cause disconnection  \n• Fixed a crash that might occur when iCloud syncs in the background",
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
       "genreIds": [
         "6002",
         "6026"
       ],
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
-      "trackName": "Stash - Rule Based Proxy",
-      "trackId": 1596063349,
       "sellerName": "Stash Networks Limited",
+      "releaseDate": "2021-12-10T08:00:00Z",
       "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-07-16T17:06:42Z",
       "version": "3.4.1",
       "wrapperType": "software",
       "currency": "JPY",
       "description": "Stash is the best choice for Clash rules on iOS! Full adaptation of Clash Premium configuration. \nStash is a rule-based proxy client with multiple proxy protocol support. Support for Rule Set, JavaScript, HTTP Rewriting, MitM, SSID Policy Groups, On-Demand Connections and other new features.\n\n- Handle TCP / UDP / ICMP traffic and forward to any proxy server\n- Route traffic to different endpoint by rule of domain, IP-CIDR, or User-Agent\n- Support DNS over TCP / DNS over TLS / DNS over HTTPS\n- Native UI dashboard to display HTTP / HTTPS / TCP request\n- Support for Rewriting HTTP(S) requests using JavaScript\n- Decrypt HTTPS traffic with Man-in-the-Middle\n- Support for URL Rewrite\n- Fully IPv6 supports\n- Builtin DNS server with hostname mapping\n- Support for overriding some of the settings of the current configuration file using Override",
-      "averageUserRating": 4.36364,
-      "trackCensoredName": "Stash - Rule Based Proxy",
-      "trackViewUrl": "https://apps.apple.com/jp/app/stash-rule-based-proxy/id1596063349?uo=4",
-      "contentAdvisoryRating": "4+",
       "userRatingCountForCurrentVersion": 66,
       "userRatingCount": 66,
       "country": "JPN"
     },
     {
-      "isGameCenterEnabled": false,
       "artistViewUrl": "https://apps.apple.com/us/developer/stash-networks-limited/id1596063351?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/99/dc/8a99dc65-dbfa-d9f9-be4e-4170a0658239/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/99/dc/8a99dc65-dbfa-d9f9-be4e-4170a0658239/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -538,9 +540,6 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "features": [
-        "iosUniversal"
-      ],
       "advisories": [],
       "kind": "software",
       "screenshotUrls": [
@@ -557,11 +556,14 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/99/dc/8a99dc65-dbfa-d9f9-be4e-4170a0658239/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "minimumOsVersion": "16.0",
+      "isGameCenterEnabled": false,
+      "bundleId": "ws.stash.app",
       "trackCensoredName": "Stash - Rule Based Proxy",
       "trackViewUrl": "https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349?uo=4",
       "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.36219,
+      "averageUserRating": 4.36326,
+      "minimumOsVersion": "16.0",
+      "price": 5.99,
       "artistId": 1596063351,
       "artistName": "STASH NETWORKS LIMITED",
       "genres": [
@@ -571,19 +573,15 @@
       "releaseDate": "2021-12-10T08:00:00Z",
       "trackName": "Stash - Rule Based Proxy",
       "trackId": 1596063349,
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
+      "sellerName": "Stash Networks Limited",
       "isVppDeviceBasedLicensingEnabled": true,
-      "bundleId": "ws.stash.app",
-      "genreIds": [
-        "6002",
-        "6026"
-      ],
       "currentVersionReleaseDate": "2026-07-16T17:06:42Z",
-      "releaseNotes": "Optimization\n• Optimized StashTun\n\nFixes\n• Fixed an issue where switching networks could cause disconnection  \n• Fixed a crash that might occur when iCloud syncs in the background",
       "version": "3.4.1",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Stash is the best choice for Clash rules on iOS! Full adaptation of Clash Premium configuration. \nStash is a rule-based proxy client with multiple proxy protocol support. Support for Rule Set, JavaScript, HTTP Rewriting, MitM, SSID Policy Groups, On-Demand Connections and other new features.\n\n- Handle TCP / UDP / ICMP traffic and forward to any proxy server\n- Route traffic to different endpoint by rule of domain, IP-CIDR, or User-Agent\n- Support DNS over TCP / DNS over TLS / DNS over HTTPS\n- Native UI dashboard to display HTTP / HTTPS / TCP request\n- Support for Rewriting HTTP(S) requests using JavaScript\n- Decrypt HTTPS traffic with Man-in-the-Middle\n- Support for URL Rewrite\n- Fully IPv6 supports\n- Builtin DNS server with hostname mapping\n- Support for overriding some of the settings of the current configuration file using Override",
-      "averageUserRatingForCurrentVersion": 4.36219,
       "languageCodesISO2A": [
         "EN",
         "JA",
@@ -597,13 +595,15 @@
       ],
       "fileSizeBytes": "137574400",
       "formattedPrice": "$5.99",
-      "userRatingCountForCurrentVersion": 1201,
+      "userRatingCountForCurrentVersion": 1203,
       "trackContentRating": "4+",
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
-      "price": 5.99,
-      "sellerName": "Stash Networks Limited",
-      "userRatingCount": 1201,
+      "averageUserRatingForCurrentVersion": 4.36326,
+      "genreIds": [
+        "6002",
+        "6026"
+      ],
+      "releaseNotes": "Optimization\n• Optimized StashTun\n\nFixes\n• Fixed an issue where switching networks could cause disconnection  \n• Fixed a crash that might occur when iCloud syncs in the background",
+      "userRatingCount": 1203,
       "country": "USA"
     }
   ]

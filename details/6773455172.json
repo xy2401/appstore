@@ -2,15 +2,19 @@
   "resultCount": 1,
   "results": [
     {
-      "isGameCenterEnabled": false,
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/18/bc/1918bce5-5390-b211-bdd8-23d19cdf8ee6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "screenshotUrls": [],
-      "ipadScreenshotUrls": [],
-      "appletvScreenshotUrls": [],
       "features": [
         "iosUniversal"
       ],
+      "isGameCenterEnabled": false,
+      "screenshotUrls": [],
+      "ipadScreenshotUrls": [],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/4d/b2/b24db249-b393-9006-7c97-268228d6a08f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "advisories": [],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/fr/developer/jonathan-mark-schulman/id6773455174?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/4d/b2/b24db249-b393-9006-7c97-268228d6a08f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/4d/b2/b24db249-b393-9006-7c97-268228d6a08f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -140,41 +144,32 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/fr/developer/jonathan-mark-schulman/id6773455174?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/18/bc/1918bce5-5390-b211-bdd8-23d19cdf8ee6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/18/bc/1918bce5-5390-b211-bdd8-23d19cdf8ee6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+      "releaseNotes": "“The one where I improve signal decoding and add spotting”\n\nBe sure to check the release notes for prior versions to see what's new! I update the app regularly in response to feedback like yours. Read them at https://greylineft8.com/changelog.html\n\nShoutouts:\nON4LDZ - Reporting issues with live band activity view\nN9DNR - Reporting an issue with duplicate contacts being collected in Gatherer mode\nKR4EOD - Reporting discrepancies in signal report calculations\n\nFeatures:\n- Added live PSKReporter.info spotting. Spots are sent in 5 minute batches and include your callsign and grid location as well as the stations seen. Spotting is off by default, but can be activated in the Settings page\n- Added color coded signal reports in the Band Activity view\n- Added ability to filter the Logged Contacts view in the mapping page by time frame\n- Added a toggle to allow collection of duplicate callsigns when operating in Hunter or Gatherer modes (off by default)\n\nFixes:\n- SNR computation is now more accurate and accounts for real world noise as opposed to bench standard noise levels. PLEASE NOTE: Comparing SNR computed in Greyline to that in iFTX or WSJT-X is not an apples-to-apples comparison. Differences in algorithms used as well as differences in AGC across device types plays a big role in these numbers.\n- When you navigate away from the Band Activity view, you are now automatically returned to the most recent signals upon your return\n- Gatherer mode no longer collects duplicate callsigns by default. You can re-enable this behavior in the Settings view if you like\n- Dropdown controls in the Mapping view sometimes re-drew slowly, but now they don’t\n\nGive it a try and please leave a review if you enjoy using Greyline! I hope it makes your activations just a tiny bit more joyful. Thanks for bringing me along and 73!",
+      "userRatingCountForCurrentVersion": 0,
+      "price": 3.99,
+      "genres": [
+        "Utilitaires",
+        "Éducation"
+      ],
+      "artistId": 6773455174,
+      "artistName": "JONATHAN MARK SCHULMAN",
       "averageUserRatingForCurrentVersion": 0,
       "sellerUrl": "https://greylineft8.com/",
       "languageCodesISO2A": [
         "EN"
       ],
-      "fileSizeBytes": "15876096",
+      "fileSizeBytes": "15949824",
       "formattedPrice": "3,99 €",
       "trackContentRating": "4+",
-      "userRatingCountForCurrentVersion": 0,
-      "artistId": 6773455174,
-      "artistName": "JONATHAN MARK SCHULMAN",
-      "genres": [
-        "Utilitaires",
-        "Éducation"
-      ],
-      "price": 3.99,
       "bundleId": "com.kb0rb.Greyline",
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
       "sellerName": "JONATHAN MARK SCHULMAN",
-      "genreIds": [
-        "6002",
-        "6017"
-      ],
       "isVppDeviceBasedLicensingEnabled": true,
       "releaseDate": "2026-06-11T07:00:00Z",
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
       "trackId": 6773455172,
       "trackName": "Greyline FT8",
-      "currentVersionReleaseDate": "2026-07-30T16:56:47Z",
-      "releaseNotes": "“The one where I add cool new mapping capabilities”\n\nBe sure to check the release notes for prior versions to see what's new! I update the app regularly in response to feedback like yours. Read them at https://greylineft8.com/changelog.html\n\nShoutouts:\nON4LDZ - Suggestions for map views and new data columns\n\nFeatures:\n- The Band Activity view now includes Distance and Bearing columns. Both are computed from your GPS coordinates to the grid square of the remote station. You can select the units for distance in the Settings screen\n- The Live Spots view has been renamed to Mapping, and now supports two additional visualization types\n- As always, Live Spots maps the stations which hear you based on live PSKReporter data\n- The Stations Heard view maps out the stations which you’ve heard in the Band Activity view\n- Contacts Logged will visualize the contacts in your log, by band\n- You can select the default view for your map in Settings\n\nGive it a try and please leave a review if you enjoy using Greyline! I hope it makes your activations just a tiny bit more joyful. Thanks for bringing me along and 73!",
-      "version": "1.0.12",
+      "version": "1.0.13",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Greyline FT8 is a highly portable, capable amateur radio app designed specifically for field operation with an iOS device. \n\nI designed this app because I got very used to my full-stack FT8 solution: GridTracker, WSJT-X, PSK Reporter, WRL Desktop, several browser tabs, and more. But I didn't want the bulk and weight of a full Windows PC in the field. At the same time, while there are excellent and lightweight FT8 iOS solutions out there, they were lacking features I really wanted.\n\nGreyline is everything you need and nothing you don't. It automatically locates your grid square, performs callsign and calling station DXCC lookups (internet access required), and can even show you real-time spot data from PSK Reporter. Want to adjust your directional antenna? Now you've got the info you need to do it! \n\nGreyline also incorporates automated calling features. Gatherer mode calls CQ, responds to the first reply it gets, finishes the QSO and returns to calling CQ all without your input. On the other side of things, Hunter mode listens for CQ calls and pounces on them, finishing a QSO then returning to the live band to find the next. Or, take control of the conversation yourself with standard mode. That's the experience you're already used to from WSJT-X and other digital mode apps.\n\nSome other noteworthy features are:\n- Intelligent automatic free frequency selection\n- Dynamically adjusted audio delay for virtually drift-free message timing\n- PSK Reporter integrated Live Spots\n- Direct-to-QRZ logging and ADI export\n- Configurable waterfall settings\n- CQ addendums\n- CQ filtering for contesting and general courteous operation\n- Configurable retransmissions\n- Intelligent log recovery (didn't get that last 73 but want to log the contact anyway? Now you can!) \n- Log import and export\n- Antenna tuning\n- POTA Autospotting\n- One touch POTA activation and POTA.app-compatible ADIF export\n- And so much more! \n\nGreyline uses audio VOX and not serial PTT. Most radios support this with simple cabling or an audio interface like a Digirig. For helpful tips on cabling and configuring popular radios, visit the Support URL below.\n\nBuilt by a ham, for hams, I'm very open to your feedback and hope Greyline can be your field companion.",
@@ -183,6 +178,11 @@
       "trackViewUrl": "https://apps.apple.com/fr/app/greyline-ft8/id6773455172?uo=4",
       "contentAdvisoryRating": "4+",
       "minimumOsVersion": "26.5",
+      "genreIds": [
+        "6002",
+        "6017"
+      ],
+      "currentVersionReleaseDate": "2026-08-03T04:56:10Z",
       "userRatingCount": 0,
       "country": "FRA"
     }

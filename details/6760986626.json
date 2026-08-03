@@ -188,15 +188,11 @@
       "artistViewUrl": "https://apps.apple.com/jp/developer/satoshi-kojima/id1887157382?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/38/7e/cc387e30-785c-faae-f19d-ffe2bbb883e7/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/38/7e/cc387e30-785c-faae-f19d-ffe2bbb883e7/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+      "isGameCenterEnabled": false,
       "screenshotUrls": [],
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/38/7e/cc387e30-785c-faae-f19d-ffe2bbb883e7/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
-      "isGameCenterEnabled": false,
-      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -326,12 +322,15 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
+      "features": [
+        "iosUniversal"
+      ],
+      "advisories": [],
       "kind": "software",
-      "averageUserRating": 5,
       "trackCensoredName": "shelff",
       "trackViewUrl": "https://apps.apple.com/jp/app/shelff/id6760986626?uo=4",
       "contentAdvisoryRating": "4+",
-      "averageUserRatingForCurrentVersion": 5,
+      "averageUserRating": 5,
       "sellerUrl": "https://skoji.dev/shelff/",
       "languageCodesISO2A": [
         "EN",
@@ -339,34 +338,35 @@
       ],
       "fileSizeBytes": "8257536",
       "formattedPrice": "¥1,200",
-      "trackContentRating": "4+",
       "userRatingCountForCurrentVersion": 4,
+      "trackContentRating": "4+",
+      "averageUserRatingForCurrentVersion": 5,
+      "price": 1200,
       "artistId": 1887157382,
       "artistName": "Satoshi Kojima",
       "genres": [
         "ブック",
         "仕事効率化"
       ],
-      "price": 1200,
-      "bundleId": "jp.skoji.shelff",
-      "releaseDate": "2026-04-03T07:00:00Z",
+      "trackName": "shelff",
+      "trackId": 6760986626,
       "genreIds": [
         "6018",
         "6007"
       ],
-      "trackId": 6760986626,
-      "trackName": "shelff",
+      "releaseDate": "2026-04-03T07:00:00Z",
       "primaryGenreName": "Book",
       "primaryGenreId": 6018,
       "sellerName": "Satoshi Kojima",
       "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-07-12T22:17:25Z",
       "releaseNotes": "注釈機能を大きく改善しました。\n・PDFへの注釈の保存方式を刷新しました。Adobe AcrobatでOCRされたPDFでも、埋め込みテキストを壊すことなく注釈を追加できます。これに伴い、注釈追加時の警告表示は不要になったため廃止しました。\n・複数行にまたがるハイライトなどの注釈が、ひとつのブロックではなく行ごとに引かれるようになりました。\n・縦書きテキストのハイライトが、Acrobatなど他のアプリでも行単位で正しく表示されるようになりました。",
+      "currentVersionReleaseDate": "2026-07-12T22:17:25Z",
       "version": "1.5.0",
       "wrapperType": "software",
       "currency": "JPY",
       "description": "shelffは、iCloudに保存したPDFを閲覧・管理するための読書アプリです。\n\n  あなたのデータはすべてiCloud Documentsに保存されます。独自のデータベースにロックインされることはありません。メタデータはPDFと同じフォルダにJSONファイルとして保存されるため、アプリを使わなくなっても、データはいつでもあなたのものです。\n\n  ■ ライブラリ\n  ・フォルダで階層的に整理、またはフラット一覧で表示\n  ・カテゴリ・タグによる分類とフィルタ\n  ・複数巻の本や雑誌をコレクションにまとめ、任意の順序で表示\n  ・タイトル、著者、追加日、最終閲覧日でソート\n  ・既読ステータス（未読・読書中・既読）でフィルタ\n  ・PDF内テキストの横断検索\n  ・グリッド表示とリスト表示の切替\n\n  ■ PDFリーダー\n  ・全画面の没入型リーダー\n  ・単ページ・見開き・見開き（表紙あり）レイアウト\n  ・左綴じ（LTR）・右綴じ（RTL）対応\n  ・ハイライトとコメント付きアノテーション\n  ・目次・アノテーション一覧からのジャンプ\n  ・PDF内テキスト検索\n  ・輝度調整\n\n  ■ メタデータ管理\n  ・タイトル、著者、出版社、出版日などを手動編集\n  ・PDF内の情報から初期値を自動取得\n  ・既読ステータスの自動遷移（読み始めで「読書中」、最終ページで「既読」）\n\n  ■ データの透明性\n  ・すべてのデータはiCloud Documents上のファイル\n  ・メタデータはJSON、アノテーションはPDF本体に保存\n  ・ファイルアプリからいつでもアクセス可能\n  ・別途提供するMCPサーバとAI AgentをMacから利用することで、iCloud Document上のメタデータJSON操作が可能\n\n©ラムダノート: ラムダノート様のPDF書籍をスクリーンショットで使わせていただいています。",
       "minimumOsVersion": "17.0",
+      "bundleId": "jp.skoji.shelff",
       "userRatingCount": 4,
       "country": "JPN"
     }

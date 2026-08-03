@@ -220,10 +220,13 @@
       "userRatingCount": 30
     },
     {
+      "isGameCenterEnabled": false,
       "artistViewUrl": "https://apps.apple.com/us/developer/marine-conservation-science-institute-mcsi/id488682906?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e0/eb/84/e0eb8421-8602-4230-da0e-ee442d2f49e3/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e0/eb/84/e0eb8421-8602-4230-da0e-ee442d2f49e3/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.jpg",
-      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5-iPhone5",
         "iPadFourthGen-iPadFourthGen",
@@ -380,9 +383,6 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "features": [
-        "iosUniversal"
-      ],
       "advisories": [],
       "kind": "software",
       "screenshotUrls": [
@@ -397,9 +397,10 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e0/eb/84/e0eb8421-8602-4230-da0e-ee442d2f49e3/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
+      "minimumOsVersion": "10.0",
+      "contentAdvisoryRating": "4+",
       "trackCensoredName": "Expedition White Shark",
       "trackViewUrl": "https://apps.apple.com/us/app/expedition-white-shark/id488682903?uo=4",
-      "contentAdvisoryRating": "4+",
       "averageUserRating": 2.66667,
       "artistId": 488682906,
       "artistName": "Marine Conservation Science Institute MCSI",
@@ -410,31 +411,30 @@
       ],
       "price": 3.99,
       "bundleId": "com.Distribution.WhiteShark",
-      "trackId": 488682903,
-      "trackName": "Expedition White Shark",
+      "genreIds": [
+        "6017",
+        "7009",
+        "6014"
+      ],
       "releaseDate": "2012-01-11T00:49:24Z",
+      "trackName": "Expedition White Shark",
+      "trackId": 488682903,
       "primaryGenreName": "Education",
       "primaryGenreId": 6017,
-      "isVppDeviceBasedLicensingEnabled": true,
       "sellerName": "Marine Conservation Science Institute",
+      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2021-11-18T00:56:54Z",
       "releaseNotes": "- Performance improvement\n- Added date time for data retrieval",
       "version": "112",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Welcome to Expedition White Shark, the world’s first app designed to track adult white sharks in real time! To make this possible, scientists at the Marine Conservation Science Institute (MCSI) attached custom satellite tags to the dorsal fin of adult Great White Sharks, allowing us to follow their movements from Satellites orbiting the earth. Expedition White Shark allows you to receive near real time Great White Shark tracking data at the same time as the research scientists. Positions for the tagged sharks can only be calculated when a shark is at the surface with its dorsal fin out of the water for several minutes; since sharks are not always finning we receive intermittent position data from our sharks, but each signal beamed to us form space adds to our growing knowledge of the life history of this species. Since you are getting our data in near real time you will notice that the satellites sometimes make mistakes, placing the shark far from its actual location; we correct these errors later, when we analyze the data. The MCSI satellite tagging of Great White Sharks has led to many important new findings regarding white shark biology, and each new day brings promise of a new discovery that you can make with us!\n\nUse the shark filter to select a specific shark or see the last position for all sharks of a specific species, or select current to see shark positions within the last 30 days. If current is selected the last position for a shark that appears on the map as a dorsal fin , while sharks with historical location data on today’s date in previous years are marked with dot. This allows users to look for patterns of where sharks may be found during that time of year.\n\nKeep up with the latest research insights posted by Dr. Michael Domeier and Nicole Nasby-Lucas, by following us on Facebook www.facebook.com/MarineCSI and Instagram @marinecsiorg.",
-      "minimumOsVersion": "10.0",
       "averageUserRatingForCurrentVersion": 2.66667,
       "languageCodesISO2A": [],
       "fileSizeBytes": "102733824",
       "formattedPrice": "$3.99",
-      "trackContentRating": "4+",
       "userRatingCountForCurrentVersion": 30,
-      "genreIds": [
-        "6017",
-        "7009",
-        "6014"
-      ],
+      "trackContentRating": "4+",
       "userRatingCount": 30,
       "country": "USA"
     }

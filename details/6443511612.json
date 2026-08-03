@@ -2,18 +2,22 @@
   "resultCount": 1,
   "results": [
     {
+      "features": [
+        "iosUniversal"
+      ],
       "isGameCenterEnabled": false,
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/9d/02/cc9d0274-2297-855e-61ab-0ad5a4161681/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/56/e9/0f/56e90f5d-8f6e-4902-2e56-8bf5bf506690/4872295b-63a5-43e9-a697-c36c27122e6a_Simulator_Screenshot_-_iPhone_SE__U00283rd_generation_U0029_-_2023-09-27_at_18.21.03.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2b/21/40/2b214094-40fb-09ad-479c-5a0f9457df5c/ae635d28-678d-4b6d-a182-95d22de10b6e_Simulator_Screenshot_-_iPhone_SE__U00283rd_generation_U0029_-_2023-09-27_at_18.20.50.png/392x696bb.png"
       ],
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
-      "features": [
-        "iosUniversal"
-      ],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/9d/02/cc9d0274-2297-855e-61ab-0ad5a4161681/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "advisories": [],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/fr/developer/tim-bromhead/id1606038500?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/9d/02/cc9d0274-2297-855e-61ab-0ad5a4161681/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/9d/02/cc9d0274-2297-855e-61ab-0ad5a4161681/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -143,10 +147,15 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/fr/developer/tim-bromhead/id1606038500?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/9d/02/cc9d0274-2297-855e-61ab-0ad5a4161681/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/9d/02/cc9d0274-2297-855e-61ab-0ad5a4161681/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
+      "releaseNotes": "New features:\n- Now supports satellite cellular data! Requires suitable device (iPhone 14 or later) and satellite data support from your carrier.\n- New radar view.\n- New settings screen: Change data rate interval for both cellular and satellite connections.\n- New 'PureTrack link code', to make it easy to link to your other PureTrack tracking devices.\n\nMinor improvements:\n- Browsing back to trackers list no longer stops tracking.\n- See when points were last sent and received by PureTrack.\n- Altitude and speed now listed in multiple different units.\n- Tracking on/off button moved to bottom for easy thumb access.",
+      "userRatingCountForCurrentVersion": 0,
+      "price": 3.99,
+      "genres": [
+        "Navigation",
+        "Utilitaires"
+      ],
+      "artistId": 1606038500,
+      "artistName": "Tim Bromhead",
       "averageUserRatingForCurrentVersion": 0,
       "sellerUrl": "http://puretrack.io",
       "languageCodesISO2A": [
@@ -155,28 +164,14 @@
       "fileSizeBytes": "2130944",
       "formattedPrice": "3,99 €",
       "trackContentRating": "4+",
-      "userRatingCountForCurrentVersion": 0,
-      "artistId": 1606038500,
-      "artistName": "Tim Bromhead",
-      "genres": [
-        "Navigation",
-        "Utilitaires"
-      ],
-      "price": 3.99,
       "bundleId": "com.pear.PureTrack",
-      "primaryGenreName": "Navigation",
-      "primaryGenreId": 6010,
       "sellerName": "Tim Bromhead",
-      "genreIds": [
-        "6010",
-        "6002"
-      ],
       "isVppDeviceBasedLicensingEnabled": true,
       "releaseDate": "2023-09-30T07:00:00Z",
+      "primaryGenreName": "Navigation",
+      "primaryGenreId": 6010,
       "trackId": 6443511612,
       "trackName": "PureTrack GPS Tracker",
-      "currentVersionReleaseDate": "2026-07-14T23:03:06Z",
-      "releaseNotes": "New features:\n- Now supports satellite cellular data! Requires suitable device (iPhone 14 or later) and satellite data support from your carrier.\n- New radar view.\n- New settings screen: Change data rate interval for both cellular and satellite connections.\n- New 'PureTrack link code', to make it easy to link to your other PureTrack tracking devices.\n\nMinor improvements:\n- Browsing back to trackers list no longer stops tracking.\n- See when points were last sent and received by PureTrack.\n- Altitude and speed now listed in multiple different units.\n- Tracking on/off button moved to bottom for easy thumb access.",
       "version": "2.0",
       "wrapperType": "software",
       "currency": "EUR",
@@ -186,6 +181,11 @@
       "trackViewUrl": "https://apps.apple.com/fr/app/puretrack-gps-tracker/id6443511612?uo=4",
       "contentAdvisoryRating": "4+",
       "minimumOsVersion": "14.0",
+      "genreIds": [
+        "6010",
+        "6002"
+      ],
+      "currentVersionReleaseDate": "2026-07-14T23:03:06Z",
       "userRatingCount": 0,
       "country": "FRA"
     }

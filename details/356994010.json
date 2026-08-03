@@ -2,7 +2,6 @@
   "resultCount": 1,
   "results": [
     {
-      "isGameCenterEnabled": false,
       "screenshotUrls": [],
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/ae/6f/15ae6ff1-b1ef-718e-fa90-692b4e3470f2/mzl.yverhztq.png/552x414bb.png",
@@ -14,14 +13,10 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/0b/8c/4c0b8c33-bf04-49e2-71ab-7f16682fe05f/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/512x512bb.jpg",
+      "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
       ],
-      "advisories": [],
-      "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/fr/developer/brewalan-le-dru/id354890574?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/0b/8c/4c0b8c33-bf04-49e2-71ab-7f16682fe05f/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/0b/8c/4c0b8c33-bf04-49e2-71ab-7f16682fe05f/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/100x100bb.jpg",
       "supportedDevices": [
         "MacDesktop-MacDesktop",
         "iPhone5s-iPhone5s",
@@ -153,10 +148,12 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "releaseNotes": "Ajout de la synchronisation des favoris sur iCloud\nAjout des verbes récents\nAjout de la possibilité de copier un texte du verbe en appuyant longuement dessus\nAjout de la lecture du verbe en appuyant deux fois sur le verbe\nAjout d'un paramètre pour afficher une icône pour lancer la lecture du verbe",
+      "advisories": [],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/fr/developer/brewalan-le-dru/id354890574?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/0b/8c/4c0b8c33-bf04-49e2-71ab-7f16682fe05f/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/0b/8c/4c0b8c33-bf04-49e2-71ab-7f16682fe05f/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/100x100bb.jpg",
       "averageUserRatingForCurrentVersion": 3.92857,
-      "userRatingCountForCurrentVersion": 28,
-      "trackContentRating": "4+",
       "sellerUrl": "https://leconjugueur.lefigaro.fr/frlogicieliplc.php",
       "languageCodesISO2A": [
         "EN",
@@ -165,17 +162,30 @@
       ],
       "fileSizeBytes": "27328512",
       "formattedPrice": "0,99 €",
-      "trackId": 356994010,
-      "trackName": "Le Conjugueur",
+      "userRatingCountForCurrentVersion": 28,
+      "trackContentRating": "4+",
+      "minimumOsVersion": "18.6",
+      "currentVersionReleaseDate": "2026-06-02T22:32:53Z",
       "artistId": 354890574,
       "artistName": "Brewalan Le Dru",
+      "genres": [
+        "Références",
+        "Éducation"
+      ],
       "price": 0.99,
+      "bundleId": "89Q4MC5NW4.com.yourcompany.LeConjugueur",
+      "releaseNotes": "Ajout de la synchronisation des favoris sur iCloud\nAjout des verbes récents\nAjout de la possibilité de copier un texte du verbe en appuyant longuement dessus\nAjout de la lecture du verbe en appuyant deux fois sur le verbe\nAjout d'un paramètre pour afficher une icône pour lancer la lecture du verbe",
       "releaseDate": "2010-03-02T22:44:14Z",
+      "trackId": 356994010,
+      "trackName": "Le Conjugueur",
+      "genreIds": [
+        "6006",
+        "6017"
+      ],
       "primaryGenreName": "Reference",
       "primaryGenreId": 6006,
       "sellerName": "Brewalan Le Dru",
       "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-06-02T22:32:53Z",
       "version": "2.55",
       "wrapperType": "software",
       "currency": "EUR",
@@ -184,16 +194,6 @@
       "trackViewUrl": "https://apps.apple.com/fr/app/le-conjugueur/id356994010?uo=4",
       "contentAdvisoryRating": "4+",
       "averageUserRating": 3.92857,
-      "minimumOsVersion": "18.6",
-      "genreIds": [
-        "6006",
-        "6017"
-      ],
-      "bundleId": "89Q4MC5NW4.com.yourcompany.LeConjugueur",
-      "genres": [
-        "Références",
-        "Éducation"
-      ],
       "userRatingCount": 28,
       "country": "FRA"
     }

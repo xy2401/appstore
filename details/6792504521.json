@@ -2,10 +2,14 @@
   "resultCount": 1,
   "results": [
     {
+      "advisories": [],
+      "isGameCenterEnabled": false,
       "artistViewUrl": "https://apps.apple.com/jp/developer/daisuke-yoshimi/id1734564988?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/1d/46/241d4663-3ca9-c9c4-337f-61a03c100e25/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/1d/46/241d4663-3ca9-c9c4-337f-61a03c100e25/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
-      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -135,54 +139,50 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [],
       "kind": "software",
       "screenshotUrls": [],
+      "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/1d/46/241d4663-3ca9-c9c4-337f-61a03c100e25/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "ipadScreenshotUrls": [],
+      "primaryGenreName": "Education",
+      "primaryGenreId": 6017,
+      "sellerName": "Daisuke Yoshimi",
+      "isVppDeviceBasedLicensingEnabled": true,
       "averageUserRating": 4.91667,
       "trackCensoredName": "Hula Note",
-      "trackViewUrl": "https://apps.apple.com/jp/app/hula-note/id6792504521?uo=4",
       "contentAdvisoryRating": "4+",
-      "releaseNotes": "・スクリーンショットを更新しました \n・細かな改善を行いました",
+      "trackViewUrl": "https://apps.apple.com/jp/app/hula-note/id6792504521?uo=4",
       "artistId": 1734564988,
       "artistName": "Daisuke Yoshimi",
-      "genres": [
-        "教育",
-        "ミュージック"
-      ],
       "price": 680,
       "bundleId": "com.odoranaihula.hulaNote",
-      "trackName": "Hula Note",
+      "releaseNotes": "・スクリーンショットを更新しました \n・細かな改善を行いました",
       "trackId": 6792504521,
-      "sellerName": "Daisuke Yoshimi",
+      "trackName": "Hula Note",
+      "releaseDate": "2026-07-22T07:00:00Z",
       "genreIds": [
         "6017",
         "6011"
       ],
-      "primaryGenreName": "Education",
-      "primaryGenreId": 6017,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseDate": "2026-07-22T07:00:00Z",
-      "currentVersionReleaseDate": "2026-07-25T16:16:57Z",
       "version": "1.0.2",
       "wrapperType": "software",
       "currency": "JPY",
       "description": "言葉にマナを乗せて踊るのがHULA。\n\nHula Noteは、フラダンサーのための「メレ（歌）学習ノート」です。\nハワイの歌は言葉で紡いだレイ。歌詞を正しく聴き取り、言葉の意味を知り、それを自分の口で歌えるようになると、踊りに心が宿ります。\nHula Noteは、そんな毎日のフラ学習を助ける機能をひとまとめにしました。\n\n■ メレごとに、ぜんぶまとめて記録\n・My Mele Library：レパートリーのメレを自分で登録し、一覧で管理。検索・ABC順・並べ替えに対応\n・Mele Note：歌の背景や物語、先生から教わったことを自由にメモ（自動保存）\n・Mele Play：YouTubeやSpotifyの再生リンク、音源ファイルを登録していつでも再生\n・Mele Lyrics：歌詞を登録。口トレ画面にも表示されます\n・Mele Reference：手書き振り付けメモを撮影・保存。参考資料写真・バースごとの振り付け動画などを保存。スロー再生（0.5倍/0.75倍）やリピート再生に対応\n・Mele Vocabulary：メレに出てくるハワイ語の単語を登録して自分だけの単語帳を作る機能。オキナやカハコーを正しく扱うハワイ語式のABC順に対応\n\n■ 3つのトレーニングでハワイ語力を育てる\n・耳トレ（Listening Training）：音源を精聴して、聞き取れた言葉を書き取る\n・口トレ（Pronunciation Training）：音源に合わせて歌詞を見ながら発声する\n・脳トレ（Vocabulary Training）：単語帳からランダム出題。「覚えた」「もう一度」の自己採点で、間違えた単語だけ再テストも\n\n■ 安心して使える設計\n・アカウント登録は不要。開くだけですぐ使えます\n・データはすべてお使いの端末の中に保存。開発者を含む外部にデータが送信されることはありません\n・広告なし・追加課金なし・利用解析なし\n・iCloud同期対応：同じApple IDのiPhoneとiPadで、すべてのデータが自動で同期されます\n・バックアップ機能：全データを1つのファイルに書き出して保管・復元可能。機種変更に対応。\n\n■ こんな方に\n・手書きのノートをデジタルでも見れるようにしたい方\n・フラ教室に通っていて、レッスンの記録をまとめたい方\n・歌詞の意味を理解して、表現力を深めたい方\n・ハワイ語の単語を覚えたい方\n・発表会前に振り付け動画で復習したい方\n\n制作: 踊らないフラ教室\nハワイの歌は言葉で紡いだレイ。あなたのフラが、もっと深くなりますように。",
       "minimumOsVersion": "13.0",
-      "sellerUrl": "https://member.yoshimidaisuke.com/",
+      "averageUserRatingForCurrentVersion": 4.91667,
+      "userRatingCountForCurrentVersion": 12,
       "languageCodesISO2A": [
         "JA"
       ],
       "fileSizeBytes": "24344576",
       "formattedPrice": "¥680",
       "trackContentRating": "4+",
-      "userRatingCountForCurrentVersion": 12,
-      "averageUserRatingForCurrentVersion": 4.91667,
+      "sellerUrl": "https://member.yoshimidaisuke.com/",
+      "currentVersionReleaseDate": "2026-07-25T16:16:57Z",
+      "genres": [
+        "教育",
+        "ミュージック"
+      ],
       "userRatingCount": 12,
       "country": "JPN"
     }

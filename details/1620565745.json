@@ -2,10 +2,13 @@
   "resultCount": 1,
   "results": [
     {
+      "isGameCenterEnabled": false,
       "artistViewUrl": "https://apps.apple.com/us/developer/keaton-benning-llc/id1692217678?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/4e/71/a04e71fa-78cf-3a39-5d54-eba924bc839e/AppIcon-0-1x_U007epad-0-1-85-220-0.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/4e/71/a04e71fa-78cf-3a39-5d54-eba924bc839e/AppIcon-0-1x_U007epad-0-1-85-220-0.png/100x100bb.jpg",
-      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -135,9 +138,6 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "features": [
-        "iosUniversal"
-      ],
       "advisories": [
         "Frequent/Intense Medical/Treatment Information"
       ],
@@ -150,9 +150,10 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/4e/71/a04e71fa-78cf-3a39-5d54-eba924bc839e/AppIcon-0-1x_U007epad-0-1-85-220-0.png/512x512bb.jpg",
+      "minimumOsVersion": "15.1",
+      "contentAdvisoryRating": "17+",
       "trackCensoredName": "Nject",
       "trackViewUrl": "https://apps.apple.com/us/app/nject/id1620565745?uo=4",
-      "contentAdvisoryRating": "17+",
       "averageUserRating": 3.96825,
       "artistId": 1692217678,
       "artistName": "Keaton Benning, LLC",
@@ -162,33 +163,32 @@
       ],
       "price": 4.99,
       "bundleId": "com.medspanetwork.Nject",
-      "trackId": 1620565745,
-      "trackName": "Nject",
+      "genreIds": [
+        "6020",
+        "6017"
+      ],
       "releaseDate": "2022-04-26T07:00:00Z",
+      "trackName": "Nject",
+      "trackId": 1620565745,
       "primaryGenreName": "Medical",
       "primaryGenreId": 6020,
-      "isVppDeviceBasedLicensingEnabled": true,
       "sellerName": "Keaton Benning, LLC",
+      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-01-13T09:11:56Z",
       "releaseNotes": "-- new Training content",
       "version": "6.0.0",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Nject is a one stop shop for all your Aesthetics needs like: Dilution Calculators, Partnerships, Live Forum with experts, Vascular Occlusion help, and more...",
-      "minimumOsVersion": "15.1",
-      "averageUserRatingForCurrentVersion": 3.96825,
       "sellerUrl": "https://www.studioxdesigns.com/",
+      "averageUserRatingForCurrentVersion": 3.96825,
       "languageCodesISO2A": [
         "EN"
       ],
       "fileSizeBytes": "71651328",
       "formattedPrice": "$4.99",
-      "trackContentRating": "17+",
       "userRatingCountForCurrentVersion": 126,
-      "genreIds": [
-        "6020",
-        "6017"
-      ],
+      "trackContentRating": "17+",
       "userRatingCount": 126,
       "country": "USA"
     }

@@ -197,12 +197,6 @@
       "userRatingCount": 6296
     },
     {
-      "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [],
-      "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/f2/22/e4/f222e4e7-ca2b-995e-5f00-b15795c83d03/7bf6d9f2-cf62-430b-8ffa-6af2dd72698b_family_settings_01_iphone_5.5.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/84/0b/77/840b7731-b7cf-f5fd-b4dc-000bcefe5daf/d4077813-e314-45f7-a6ed-16e3ee6cf9e1_family_settings_02_iphone_5.5.png/392x696bb.png",
@@ -218,9 +212,7 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/e1/af/7ce1afde-fadb-1c93-1515-306b28f6aa9c/AppIcon-Release-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/us/developer/microsoft-corporation/id298856275?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/e1/af/7ce1afde-fadb-1c93-1515-306b28f6aa9c/AppIcon-Release-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/e1/af/7ce1afde-fadb-1c93-1515-306b28f6aa9c/AppIcon-Release-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
+      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -350,46 +342,54 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "bundleId": "com.microsoft.XboxFamily",
+      "features": [
+        "iosUniversal"
+      ],
+      "advisories": [],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/us/developer/microsoft-corporation/id298856275?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/e1/af/7ce1afde-fadb-1c93-1515-306b28f6aa9c/AppIcon-Release-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/e1/af/7ce1afde-fadb-1c93-1515-306b28f6aa9c/AppIcon-Release-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
       "minimumOsVersion": "16",
-      "price": 0,
+      "releaseNotes": "Minor bug fixes and Enhancements.",
+      "sellerUrl": "https://www.xbox.com/en-US/apps/family-settings-app",
+      "averageUserRatingForCurrentVersion": 4.05103,
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "fileSizeBytes": "88179712",
+      "formattedPrice": "Free",
+      "userRatingCountForCurrentVersion": 6310,
+      "trackContentRating": "4+",
       "genres": [
         "Lifestyle",
         "Entertainment"
       ],
       "artistId": 298856275,
       "artistName": "Microsoft Corporation",
-      "currentVersionReleaseDate": "2026-07-29T16:13:55Z",
-      "releaseNotes": "Minor bug fixes and Enhancements.",
+      "price": 0,
+      "trackId": 1507406707,
+      "trackName": "Xbox Family Settings",
+      "bundleId": "com.microsoft.XboxFamily",
       "genreIds": [
         "6012",
         "6016"
       ],
+      "releaseDate": "2020-09-23T07:00:00Z",
+      "sellerName": "Microsoft Corporation",
       "primaryGenreName": "Lifestyle",
       "primaryGenreId": 6012,
-      "sellerName": "Microsoft Corporation",
       "isVppDeviceBasedLicensingEnabled": true,
       "version": "2026.7.28",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Game time now comes with more peace of mind with the Xbox Family Settings app. Easily manage your children’s activities on Xbox consoles and enable gaming options that are right for your family. Quickly get into the fun by adding your children to your family account in a snap. Set screen time, update content restrictions, and stay on top of incoming friend requests, all in real time.\n \nPlease refer to Microsoft’s EULA for Terms of Service for Microsoft’s gaming applications on iOS. By installing the app, you agree to these terms and conditions: https://aka.ms/MobileGamingEULA",
-      "averageUserRatingForCurrentVersion": 4.05185,
-      "formattedPrice": "Free",
-      "fileSizeBytes": "88179712",
-      "sellerUrl": "https://www.xbox.com/en-US/apps/family-settings-app",
-      "languageCodesISO2A": [
-        "EN"
-      ],
-      "userRatingCountForCurrentVersion": 6307,
-      "trackContentRating": "4+",
-      "averageUserRating": 4.05185,
+      "averageUserRating": 4.05103,
       "trackCensoredName": "Xbox Family Settings",
       "trackViewUrl": "https://apps.apple.com/us/app/xbox-family-settings/id1507406707?uo=4",
       "contentAdvisoryRating": "4+",
-      "releaseDate": "2020-09-23T07:00:00Z",
-      "trackId": 1507406707,
-      "trackName": "Xbox Family Settings",
-      "userRatingCount": 6307,
+      "currentVersionReleaseDate": "2026-07-29T16:13:55Z",
+      "userRatingCount": 6310,
       "country": "USA"
     }
   ]

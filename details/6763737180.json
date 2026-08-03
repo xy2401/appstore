@@ -185,10 +185,12 @@
       "userRatingCount": 0
     },
     {
+      "advisories": [],
+      "isGameCenterEnabled": false,
       "artistViewUrl": "https://apps.apple.com/jp/developer/seungyun-kim/id1637477427?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/b4/fa/f8b4fae0-6960-559a-2deb-f545aeae2d59/Ophoto-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/b4/fa/f8b4fae0-6960-559a-2deb-f545aeae2d59/Ophoto-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.jpg",
-      "isGameCenterEnabled": false,
+      "features": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -318,41 +320,36 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "features": [],
-      "advisories": [],
       "kind": "software",
       "screenshotUrls": [],
+      "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/b4/fa/f8b4fae0-6960-559a-2deb-f545aeae2d59/Ophoto-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "ipadScreenshotUrls": [],
+      "primaryGenreName": "Photo & Video",
+      "primaryGenreId": 6008,
+      "sellerName": "Seungyun Kim",
+      "isVppDeviceBasedLicensingEnabled": true,
       "averageUserRating": 4,
       "trackCensoredName": "YoungPhoto - エモい構図カメラ",
-      "trackViewUrl": "https://apps.apple.com/jp/app/youngphoto-%E3%82%A8%E3%83%A2%E3%81%84%E6%A7%8B%E5%9B%B3%E3%82%AB%E3%83%A1%E3%83%A9/id6763737180?uo=4",
       "contentAdvisoryRating": "4+",
+      "trackViewUrl": "https://apps.apple.com/jp/app/youngphoto-%E3%82%A8%E3%83%A2%E3%81%84%E6%A7%8B%E5%9B%B3%E3%82%AB%E3%83%A1%E3%83%A9/id6763737180?uo=4",
       "artistId": 1637477427,
       "artistName": "Seungyun Kim",
-      "genres": [
-        "写真／ビデオ"
-      ],
       "price": 350,
       "bundleId": "com.seesun.ophoto",
-      "trackName": "YoungPhoto - エモい構図カメラ",
       "trackId": 6763737180,
-      "sellerName": "Seungyun Kim",
+      "trackName": "YoungPhoto - エモい構図カメラ",
+      "releaseDate": "2026-06-26T07:00:00Z",
       "genreIds": [
         "6008"
       ],
-      "primaryGenreName": "Photo & Video",
-      "primaryGenreId": 6008,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseDate": "2026-06-26T07:00:00Z",
-      "currentVersionReleaseDate": "2026-06-26T23:10:39Z",
       "version": "1.0",
       "wrapperType": "software",
       "currency": "JPY",
       "description": "こんにちは :) 写真をわかりやすく伝える、40万人の写真クリエイター YoungPhoto です。\n\nこれまで写真の構図、色味、撮影のコツなど、写真に関するさまざまなコンテンツを発信してきました。今回は、それらを日常の中ですぐに使える写真アプリとして作りました。\n\nSNSで見ていた構図コンテンツや写真の色味フィルターの作り方を、これからはアプリの中で直接見ながら、リアルタイムで撮影に活用できます。\n\nYoungPhotoは、ただフィルターをかけるだけのアプリではありません。リアルタイムのガイドラインと構図機能で、どう撮ればより感覚的でおしゃれに見えるのかを、誰でも簡単にまねできるようにしました。\n\n写真は好きだけれど、撮るたびにどこか物足りなさを感じていた方、何気ない日常を映画のワンシーンのように残したい方、写真初心者でも雰囲気のある一枚を残したい方のために作ったアプリです。\n\nYoungPhotoは、見る人の視線を自然に導き、一枚の写真の中にストーリーと空気感を込められるように設計しました。感性を引き出す構図ガイドに加えて、さまざまなシーンに合う、童話のようなフィルターも用意しています。\n\nYoungPhotoを使って、あなたの日常ももっと感覚的に記録してみてください :)\n\n[こんな方におすすめ]\n\n- 「あんな雰囲気で撮りたいのに、なぜ自分はうまく撮れないんだろう？」と思ったことがある方\n- 写真を撮るたびに構図が難しいと感じる方\n- ガイドラインを見ながら、簡単に雰囲気のある写真を撮りたい方\n- 複雑な編集なしで、雰囲気のある色味を作りたい方\n\n[主な機能]\n\n- 構図ガイドライン\n- 構図レッスン\n- YoungPhoto 感性フィルター\n- エフェクト\n- 写真・動画へのフィルター適用",
       "minimumOsVersion": "15.0",
-      "sellerUrl": "https://www.threads.com/@travel_0photo",
+      "averageUserRatingForCurrentVersion": 4,
+      "userRatingCountForCurrentVersion": 4,
       "languageCodesISO2A": [
         "EN",
         "JA",
@@ -363,19 +360,26 @@
       "fileSizeBytes": "267633664",
       "formattedPrice": "¥350",
       "trackContentRating": "4+",
-      "userRatingCountForCurrentVersion": 4,
-      "averageUserRatingForCurrentVersion": 4,
+      "sellerUrl": "https://www.threads.com/@travel_0photo",
+      "currentVersionReleaseDate": "2026-06-26T23:10:39Z",
+      "genres": [
+        "写真／ビデオ"
+      ],
       "userRatingCount": 4,
       "country": "JPN"
     },
     {
+      "features": [],
       "isGameCenterEnabled": false,
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/b4/fa/f8b4fae0-6960-559a-2deb-f545aeae2d59/Ophoto-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "screenshotUrls": [],
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
-      "features": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/b4/fa/f8b4fae0-6960-559a-2deb-f545aeae2d59/Ophoto-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "advisories": [],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/fr/developer/seungyun-kim/id1637477427?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/b4/fa/f8b4fae0-6960-559a-2deb-f545aeae2d59/Ophoto-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/b4/fa/f8b4fae0-6960-559a-2deb-f545aeae2d59/Ophoto-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -505,10 +509,13 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/fr/developer/seungyun-kim/id1637477427?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/b4/fa/f8b4fae0-6960-559a-2deb-f545aeae2d59/Ophoto-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/b4/fa/f8b4fae0-6960-559a-2deb-f545aeae2d59/Ophoto-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.jpg",
+      "userRatingCountForCurrentVersion": 0,
+      "price": 1.99,
+      "genres": [
+        "Photo et vidéo"
+      ],
+      "artistId": 1637477427,
+      "artistName": "Seungyun Kim",
       "averageUserRatingForCurrentVersion": 0,
       "sellerUrl": "https://www.threads.com/@travel_0photo",
       "languageCodesISO2A": [
@@ -521,25 +528,14 @@
       "fileSizeBytes": "267633664",
       "formattedPrice": "1,99 €",
       "trackContentRating": "4+",
-      "userRatingCountForCurrentVersion": 0,
-      "artistId": 1637477427,
-      "artistName": "Seungyun Kim",
-      "genres": [
-        "Photo et vidéo"
-      ],
-      "price": 1.99,
       "bundleId": "com.seesun.ophoto",
-      "primaryGenreName": "Photo & Video",
-      "primaryGenreId": 6008,
       "sellerName": "Seungyun Kim",
-      "genreIds": [
-        "6008"
-      ],
       "isVppDeviceBasedLicensingEnabled": true,
       "releaseDate": "2026-06-26T07:00:00Z",
+      "primaryGenreName": "Photo & Video",
+      "primaryGenreId": 6008,
       "trackId": 6763737180,
       "trackName": "YoungPhoto - Aesthetic Camera",
-      "currentVersionReleaseDate": "2026-06-26T23:10:39Z",
       "version": "1.0",
       "wrapperType": "software",
       "currency": "EUR",
@@ -549,6 +545,10 @@
       "trackViewUrl": "https://apps.apple.com/fr/app/youngphoto-aesthetic-camera/id6763737180?uo=4",
       "contentAdvisoryRating": "4+",
       "minimumOsVersion": "15.0",
+      "genreIds": [
+        "6008"
+      ],
+      "currentVersionReleaseDate": "2026-06-26T23:10:39Z",
       "userRatingCount": 0,
       "country": "FRA"
     }

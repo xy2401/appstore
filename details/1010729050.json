@@ -227,6 +227,9 @@
       "userRatingCount": 388127
     },
     {
+      "artistViewUrl": "https://apps.apple.com/us/developer/fedex/id304462052?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/b9/a3/94b9a3c0-98ae-61d9-3016-90d8e4420c32/AppIcon-1x_U007emarketing-0-8-0-sRGB-0-85-220-0.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/b9/a3/94b9a3c0-98ae-61d9-3016-90d8e4420c32/AppIcon-1x_U007emarketing-0-8-0-sRGB-0-85-220-0.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/2d/93/d9/2d93d9a5-f9b5-fef6-49d2-84ca20d3fa55/9d706ef1-a7cf-4480-80cf-b6863c1579d9_5.5-inch_Screenshot_1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/eb/17/dd/eb17ddd2-8612-ff10-b030-9de4c171b5bc/a24b6733-6ac2-47d1-80fa-40310bbc6db7_5.5-inch_Screenshot_2.png/392x696bb.png",
@@ -248,9 +251,6 @@
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/b9/a3/94b9a3c0-98ae-61d9-3016-90d8e4420c32/AppIcon-1x_U007emarketing-0-8-0-sRGB-0-85-220-0.png/512x512bb.jpg",
       "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -383,9 +383,16 @@
       ],
       "advisories": [],
       "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/us/developer/fedex/id304462052?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/b9/a3/94b9a3c0-98ae-61d9-3016-90d8e4420c32/AppIcon-1x_U007emarketing-0-8-0-sRGB-0-85-220-0.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/b9/a3/94b9a3c0-98ae-61d9-3016-90d8e4420c32/AppIcon-1x_U007emarketing-0-8-0-sRGB-0-85-220-0.png/100x100bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
+      "averageUserRating": 4.5999,
+      "userRatingCountForCurrentVersion": 396069,
+      "trackCensoredName": "FedEx Mobile",
+      "trackViewUrl": "https://apps.apple.com/us/app/fedex-mobile/id1010729050?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRatingForCurrentVersion": 4.5999,
+      "minimumOsVersion": "17.0",
       "sellerUrl": "http://mobilesolutions.fedex.com/for-ios",
       "languageCodesISO2A": [
         "AR",
@@ -426,39 +433,32 @@
       "fileSizeBytes": "323093504",
       "formattedPrice": "Free",
       "trackContentRating": "4+",
-      "userRatingCountForCurrentVersion": 395985,
-      "currentVersionReleaseDate": "2026-07-07T01:41:59Z",
-      "artistId": 304462052,
+      "artistName": "FedEx",
       "genres": [
         "Business",
         "Reference"
       ],
-      "artistName": "FedEx",
+      "artistId": 304462052,
       "price": 0,
-      "bundleId": "com.fedex.mobile.home",
-      "averageUserRatingForCurrentVersion": 4.59997,
-      "trackName": "FedEx Mobile",
       "trackId": 1010729050,
-      "genreIds": [
-        "6000",
-        "6006"
-      ],
+      "trackName": "FedEx Mobile",
+      "bundleId": "com.fedex.mobile.home",
+      "sellerName": "FedEx Corporate Services, Inc.",
       "primaryGenreName": "Business",
       "primaryGenreId": 6000,
-      "sellerName": "FedEx Corporate Services, Inc.",
       "isVppDeviceBasedLicensingEnabled": true,
+      "releaseNotes": "Thank you for choosing the FedEx Mobile App! Here are the latest updates:\n \n•    Design enhancements and bug fixes.",
       "version": "7.30.2",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Ship smarter. Track easier. Manage better.\n\nTake control of your deliveries with the FedEx® Mobile app — designed for convenience and compatible with Apple Watch.\n\nTrack Your Packages\n\nEnroll in FedEx Delivery Manager® to personalize your delivery experience*\nView packages in real time with an interactive map*\nPlace a hold at a nearby FedEx location or set a vacation hold*\nAdd delivery instructions for your driver*\nSign for packages directly from your iPhone*\nReceive push notifications for instant updates*\nSee photo proof of delivery or missed attempts*\nView your driver’s name and photo*\nAdd a tracking widget to your home screen\nScan door tags for quick access to delivery options*\n\nShip with Ease\n\nCreate domestic or international shipping labels - print from your phone or use a QR code to print at FedEx**\nUse your iPhone to measure packages for accurate rates\nGet real-time shipping rates\nSchedule and manage pickups with ease**\n\nMaximize Your Experience\n\nEnable permissions for Face ID, Location, Camera, and Push Notifications to unlock full functionality - including easy login, nearby drop-off searches, barcode scanning, package measuring, and instant status alerts.\n\n\n*Available in select regions\n**Shipping administration rules apply",
-      "minimumOsVersion": "17.0",
-      "averageUserRating": 4.59997,
-      "trackCensoredName": "FedEx Mobile",
-      "trackViewUrl": "https://apps.apple.com/us/app/fedex-mobile/id1010729050?uo=4",
-      "contentAdvisoryRating": "4+",
+      "genreIds": [
+        "6000",
+        "6006"
+      ],
       "releaseDate": "2015-11-10T17:48:56Z",
-      "releaseNotes": "Thank you for choosing the FedEx Mobile App! Here are the latest updates:\n \n•    Design enhancements and bug fixes.",
-      "userRatingCount": 395985,
+      "currentVersionReleaseDate": "2026-07-07T01:41:59Z",
+      "userRatingCount": 396069,
       "country": "USA"
     }
   ]

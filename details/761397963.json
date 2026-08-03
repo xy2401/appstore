@@ -210,12 +210,6 @@
       "userRatingCount": 5838
     },
     {
-      "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [],
-      "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/41/71/f7/4171f783-f852-cee6-d3b5-bbeee0b8f965/2ff6dff9-dfa3-4b65-9658-0f44d86eba4f_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2021-03-26_at_11.59.09.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/45/ad/38/45ad3831-46ad-1f46-ef4f-fdf1deff991b/043d4711-4324-484a-84dd-15566036ccb0_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2021-03-26_at_11.59.17.png/392x696bb.png",
@@ -240,9 +234,7 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/2a/0a/092a0a45-9984-9a8b-9555-f4b37522e4ac/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/us/developer/microsoft-corporation/id298856275?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/2a/0a/092a0a45-9984-9a8b-9555-f4b37522e4ac/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/2a/0a/092a0a45-9984-9a8b-9555-f4b37522e4ac/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
+      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -372,31 +364,18 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "bundleId": "com.microsoft.o365shdmobileapp",
+      "features": [
+        "iosUniversal"
+      ],
+      "advisories": [],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/us/developer/microsoft-corporation/id298856275?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/2a/0a/092a0a45-9984-9a8b-9555-f4b37522e4ac/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/2a/0a/092a0a45-9984-9a8b-9555-f4b37522e4ac/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
       "minimumOsVersion": "16.0",
-      "price": 0,
-      "genres": [
-        "Productivity"
-      ],
-      "artistId": 298856275,
-      "artistName": "Microsoft Corporation",
-      "currentVersionReleaseDate": "2026-07-24T07:43:43Z",
       "releaseNotes": "- Bug fixes for a more reliable experience\n- Refreshed app icon for a cleaner, more modern look",
-      "genreIds": [
-        "6007"
-      ],
-      "primaryGenreName": "Productivity",
-      "primaryGenreId": 6007,
-      "sellerName": "Microsoft Corporation",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "version": "6.0.1",
-      "wrapperType": "software",
-      "currency": "USD",
-      "description": "Manage users, groups, devices, reset passwords & receive critical notifications. \n\nThe Microsoft 365 Admin App enables you to be productive from anywhere. The app allows you to receive critical notifications, add users, reset passwords, manage devices, create support requests, and more—all while you’re on the go. \n\nWho should use this app? People with an admin role to a Microsoft 365 or Office 365 enterprise or business subscription. \n\nWhat can I do with this app? \n\n- Add, edit, block, or delete users, reset passwords, assign roles, or manage aliases & devices. \n\n- Add groups, edit groups, and add or remove users from groups.  \n\n- View all available and assigned licenses, assign licenses to users, add or remove licenses, view and download invoices. \n\n- Check the status of existing support requests, take actions on them, or create new ones.  \n\n- Monitor the health of all services and view active incidents in Service Health.  \n\n- Stay on top of all the upcoming changes and announcements via the Message Center feed. \n\n- Get push notifications about important information related to service health, message center, and billing.  \n\nThe app supports dark theme and is available in 39 languages. And if you're someone who is responsible for managing more than one tenant, you can sign-in to multiple tenants and quickly switch between them. \n\nWe're listening and constantly improving the app based on your feedback. Tell us what you like, what we can do better, and what features you'd like to see in the app. Send your feedback to feedback365@microsoft.com.",
-      "averageUserRatingForCurrentVersion": 4.64771,
-      "formattedPrice": "Free",
-      "fileSizeBytes": "224274432",
       "sellerUrl": "https://marketingsites-prod.microsoft.com/en-us/business/manage-office-365-admin-app?preview=inprogress&changesetid=RWusGF&item=canonicalhostnameoverride:products.office.com&variationChoices=*:default",
+      "averageUserRatingForCurrentVersion": 4.64771,
       "languageCodesISO2A": [
         "EN",
         "FR",
@@ -406,15 +385,36 @@
         "ES",
         "ZH"
       ],
+      "fileSizeBytes": "224274432",
+      "formattedPrice": "Free",
       "userRatingCountForCurrentVersion": 5839,
       "trackContentRating": "4+",
+      "genres": [
+        "Productivity"
+      ],
+      "artistId": 298856275,
+      "artistName": "Microsoft Corporation",
+      "price": 0,
+      "trackId": 761397963,
+      "trackName": "Microsoft 365 Admin",
+      "bundleId": "com.microsoft.o365shdmobileapp",
+      "genreIds": [
+        "6007"
+      ],
+      "releaseDate": "2013-12-12T17:30:12Z",
+      "sellerName": "Microsoft Corporation",
+      "primaryGenreName": "Productivity",
+      "primaryGenreId": 6007,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "version": "6.0.1",
+      "wrapperType": "software",
+      "currency": "USD",
+      "description": "Manage users, groups, devices, reset passwords & receive critical notifications. \n\nThe Microsoft 365 Admin App enables you to be productive from anywhere. The app allows you to receive critical notifications, add users, reset passwords, manage devices, create support requests, and more—all while you’re on the go. \n\nWho should use this app? People with an admin role to a Microsoft 365 or Office 365 enterprise or business subscription. \n\nWhat can I do with this app? \n\n- Add, edit, block, or delete users, reset passwords, assign roles, or manage aliases & devices. \n\n- Add groups, edit groups, and add or remove users from groups.  \n\n- View all available and assigned licenses, assign licenses to users, add or remove licenses, view and download invoices. \n\n- Check the status of existing support requests, take actions on them, or create new ones.  \n\n- Monitor the health of all services and view active incidents in Service Health.  \n\n- Stay on top of all the upcoming changes and announcements via the Message Center feed. \n\n- Get push notifications about important information related to service health, message center, and billing.  \n\nThe app supports dark theme and is available in 39 languages. And if you're someone who is responsible for managing more than one tenant, you can sign-in to multiple tenants and quickly switch between them. \n\nWe're listening and constantly improving the app based on your feedback. Tell us what you like, what we can do better, and what features you'd like to see in the app. Send your feedback to feedback365@microsoft.com.",
       "averageUserRating": 4.64771,
       "trackCensoredName": "Microsoft 365 Admin",
       "trackViewUrl": "https://apps.apple.com/us/app/microsoft-365-admin/id761397963?uo=4",
       "contentAdvisoryRating": "4+",
-      "releaseDate": "2013-12-12T17:30:12Z",
-      "trackId": 761397963,
-      "trackName": "Microsoft 365 Admin",
+      "currentVersionReleaseDate": "2026-07-24T07:43:43Z",
       "userRatingCount": 5839,
       "country": "USA"
     }

@@ -190,23 +190,11 @@
       "userRatingCount": 3990110
     },
     {
+      "features": [],
       "artistViewUrl": "https://apps.apple.com/us/developer/chick-fil-a-inc/id529598543?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/b6/89/91b689ee-c633-0b75-5c75-95e2880f3f1d/app-icon-release-glass-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/b6/89/91b689ee-c633-0b75-5c75-95e2880f3f1d/app-icon-release-glass-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
-      "advisories": [],
-      "kind": "software",
-      "features": [],
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ed/86/16/ed861661-735a-8b0a-2d15-eb0a8b3817d1/e548b76d-4376-456b-a534-be4977e66f33_Apple_5.5in_1242x2208_Frame-1.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f0/6f/80/f06f803a-3f56-cf50-3ba1-bc63f119f24b/6f41eab8-7036-4ee7-8b49-2b60ad55ef81_Apple_5.5in_1242x2208_Frame-2.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b3/f1/dc/b3f1dc2c-ae15-1e05-7f1d-1139f7ba8a33/f1f1ebf8-835d-4e07-8688-89a007487cd3_Apple_5.5in_1242x2208_Frame-3.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/53/16/48/53164878-add3-f2a3-da70-9a4fb76034ea/ece96bd4-3ddd-4dac-8c9d-7dac127e9698_Apple_5.5in_1242x2208_Frame-4.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5a/7c/19/5a7c19eb-e1d4-aaa4-ce06-c30970f50506/6217fd0f-3bdf-450c-b2e9-285c979ab788_Apple_5.5in_1242x2208_Frame-5.jpg/392x696bb.jpg"
-      ],
-      "ipadScreenshotUrls": [],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/b6/89/91b689ee-c633-0b75-5c75-95e2880f3f1d/app-icon-release-glass-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -336,46 +324,58 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
+      "advisories": [],
+      "kind": "software",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ed/86/16/ed861661-735a-8b0a-2d15-eb0a8b3817d1/e548b76d-4376-456b-a534-be4977e66f33_Apple_5.5in_1242x2208_Frame-1.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f0/6f/80/f06f803a-3f56-cf50-3ba1-bc63f119f24b/6f41eab8-7036-4ee7-8b49-2b60ad55ef81_Apple_5.5in_1242x2208_Frame-2.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b3/f1/dc/b3f1dc2c-ae15-1e05-7f1d-1139f7ba8a33/f1f1ebf8-835d-4e07-8688-89a007487cd3_Apple_5.5in_1242x2208_Frame-3.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/53/16/48/53164878-add3-f2a3-da70-9a4fb76034ea/ece96bd4-3ddd-4dac-8c9d-7dac127e9698_Apple_5.5in_1242x2208_Frame-4.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5a/7c/19/5a7c19eb-e1d4-aaa4-ce06-c30970f50506/6217fd0f-3bdf-450c-b2e9-285c979ab788_Apple_5.5in_1242x2208_Frame-5.jpg/392x696bb.jpg"
+      ],
+      "ipadScreenshotUrls": [],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/b6/89/91b689ee-c633-0b75-5c75-95e2880f3f1d/app-icon-release-glass-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "trackCensoredName": "Chick-fil-A",
       "trackViewUrl": "https://apps.apple.com/us/app/chick-fil-a/id488818252?uo=4",
-      "contentAdvisoryRating": "4+",
       "averageUserRating": 4.93414,
-      "currentVersionReleaseDate": "2026-07-27T12:35:45Z",
+      "contentAdvisoryRating": "4+",
+      "minimumOsVersion": "17.0",
+      "artistId": 529598543,
+      "artistName": "Chick-fil-A, Inc.",
       "genres": [
         "Food & Drink",
         "Lifestyle"
       ],
       "price": 0,
-      "releaseNotes": "Thank you for downloading the Chick-fil-A® App! This release includes some minor bug fixes and performance improvements to help make your app experience better.",
-      "trackId": 488818252,
-      "trackName": "Chick-fil-A",
       "releaseDate": "2011-12-16T21:48:58Z",
+      "bundleId": "com.engauge.Chick-fil-A",
       "genreIds": [
         "6023",
         "6012"
       ],
+      "currentVersionReleaseDate": "2026-07-27T12:35:45Z",
+      "trackId": 488818252,
+      "trackName": "Chick-fil-A",
       "primaryGenreName": "Food & Drink",
       "primaryGenreId": 6023,
       "sellerName": "Chick-fil-A, Inc.",
       "isVppDeviceBasedLicensingEnabled": true,
+      "releaseNotes": "Thank you for downloading the Chick-fil-A® App! This release includes some minor bug fixes and performance improvements to help make your app experience better.",
       "version": "2026.14.0",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Welcome to the Chick-fil-A® App. Find a restaurant near you and order ahead. Chick-fil-A One® Members can receive points with qualifying purchases, redeem available rewards of your choice and reach new tiers with increasing benefits.\n\nFEATURES\n1. Find restaurants - Find Chick-fil-A® restaurants near you while searching from home or out and about.\n\n2. Order Ahead – Place your order through your phone and pay, choose your preferred pick-up method, and let us know when you arrive.\n\n3. Receive points – Receive points with every qualifying purchase by scanning your QR code in the Chick-fil-A® App, paying with your Chick-fil-A One® digital gift card, or placing mobile orders at participating Chick-fil-A® restaurants.\n\n4. Redeem rewards – Use your points to redeem available rewards of your choice, including: free food rewards, birthday rewards, meal donations and more.\n\n5. Personalized menu – We’ll remember what you like and – even better – how you like it.",
-      "minimumOsVersion": "17.0",
-      "bundleId": "com.engauge.Chick-fil-A",
-      "userRatingCountForCurrentVersion": 4139719,
+      "sellerUrl": "https://www.chick-fil-a.com",
       "languageCodesISO2A": [
         "EN"
       ],
-      "averageUserRatingForCurrentVersion": 4.93414,
       "fileSizeBytes": "128957440",
       "formattedPrice": "Free",
+      "userRatingCountForCurrentVersion": 4143288,
+      "averageUserRatingForCurrentVersion": 4.93414,
       "trackContentRating": "4+",
-      "sellerUrl": "https://www.chick-fil-a.com",
-      "artistId": 529598543,
-      "artistName": "Chick-fil-A, Inc.",
-      "userRatingCount": 4139719,
+      "userRatingCount": 4143288,
       "country": "USA"
     }
   ]

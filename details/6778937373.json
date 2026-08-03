@@ -2,7 +2,14 @@
   "resultCount": 1,
   "results": [
     {
+      "screenshotUrls": [],
+      "ipadScreenshotUrls": [],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/04/47/82044790-f007-cee6-192e-df49d975f82b/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
       "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "advisories": [],
       "supportedDevices": [
         "MacDesktop-MacDesktop",
@@ -135,40 +142,11 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
       "kind": "software",
-      "screenshotUrls": [],
-      "ipadScreenshotUrls": [],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/04/47/82044790-f007-cee6-192e-df49d975f82b/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
       "artistViewUrl": "https://apps.apple.com/de/developer/synium-software-gmbh/id284959715?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/04/47/82044790-f007-cee6-192e-df49d975f82b/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/04/47/82044790-f007-cee6-192e-df49d975f82b/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
       "minimumOsVersion": "18.0",
-      "genres": [
-        "Grafik und Design",
-        "Produktivität"
-      ],
-      "artistId": 284959715,
-      "artistName": "Synium Software GmbH",
-      "price": 9.99,
-      "primaryGenreName": "Graphics & Design",
-      "primaryGenreId": 6027,
-      "genreIds": [
-        "6027",
-        "6007"
-      ],
-      "sellerName": "Synium Software GmbH",
-      "releaseDate": "2026-07-20T07:00:00Z",
-      "trackId": 6778937373,
-      "trackName": "Vectorize 2",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-07-21T06:46:17Z",
-      "version": "2.0",
-      "wrapperType": "software",
-      "currency": "EUR",
-      "description": "Um schnell und bequem eine Pixelgrafik in ein auflösungsunabhängiges und beliebig skalierbares Vektorformat umzuwandeln, ist Vectorize für Mac, iPhone und iPad die ideale Lösung. Ganz gleich, ob es sich um ein Logo handelt, das Sie nur als kleine JPG-Datei vorliegen haben, oder ob es eine Comiczeichnung, eine Skizze oder gar ein komplettes Foto ist – Vectorize macht aus Pixeln Vektoren. Wir freuen uns, Ihnen jetzt eine große neue Version vorstellen zu dürfen, basierend auf einer komplett neuen Vektorisierungs-Engine.\n\nDie Umwandlung einer pixelbasierten Grafik (z.B. ein Foto, eine Zeichnung, etc.) hin zu einer auflösungsunabhängigen Vektorgrafik gestaltet sich denkbar einfach: Wählen Sie eine Datei aus oder nutzen Sie ein iPhone zum Abfotografieren eines Bildes – und lassen Vectorize dann die restliche Arbeit machen. Anschließend legen Sie nur noch fest, wie detailreich das Resultat sein soll und ob Sie zusätzliche Konturen oder Kantenglättung wünschen… und das fertige Ergebnis ist nur noch einen Klick auf „Exportieren“ entfernt. Ihre Optionen sind PDF, SVG oder Logoist, um anschließend die Grafik weiter zu bearbeiten.\n\nNEU IN VECTORIZE 2\nMit Vectorize 2 war es noch nie so einfach, Bilder in auflösungsunabhängige Vektorgrafiken umzuwandeln – dank einer komplett neuentwickelten Vektorisier-Engine. Formen und Kurven werden deutlich präziser erkannt, feine Details wesentlich genauer übernommen und Farbverläufe mit spürbar höherer Genauigkeit nachgebildet. In einigen Fällen kann die App sogar erkennen, wie sich ein Farbverlauf im Hintergrund hinter einem Objekt fortsetzt. Das sorgt für sauberere, überzeugendere und natürlicher wirkende Ergebnisse. \n\nAuch an der Oberfläche hat sich einiges getan, diese erstrahlt nun in Apples neuer Designsprache \"Liquid Glass\". Zudem haben wir die Bedienung noch komfortabler und übersichtlicher gemacht.\n\nSie nutzen bereits Logoist 6?\nWenn Sie Logoist 6 für Mac, iPhone und iPad gekauft haben, benötigen Sie Vectorize 2 nicht zusätzlich, denn Vektorisierung ist bereits Bestandteil der Grafikdesign-App.\n\nKernfunktionen von Vectorize 2\n- Unterstützte Import-Formate: JPG, PNG, TIFF, HEIC, GIF\n- Unterstützte Export-Formate: PDF, SVG, Logoist\n- Einsatzgebiete: Fotos, Logos, Zeichnungen, Grafiken und mehr vektorisieren, um diese beliebig zu vergrößern",
+      "sellerUrl": "https://www.syniumsoftware.com/de/vectorize",
       "languageCodesISO2A": [
         "NL",
         "EN",
@@ -184,12 +162,34 @@
       "userRatingCountForCurrentVersion": 0,
       "trackContentRating": "4+",
       "averageUserRatingForCurrentVersion": 0,
-      "averageUserRating": 0,
-      "sellerUrl": "https://www.syniumsoftware.com/de/vectorize",
+      "artistId": 284959715,
+      "artistName": "Synium Software GmbH",
+      "genres": [
+        "Grafik und Design",
+        "Produktivität"
+      ],
+      "price": 9.99,
+      "sellerName": "Synium Software GmbH",
+      "bundleId": "com.syniumsoftware.vectorize2",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "genreIds": [
+        "6027",
+        "6007"
+      ],
+      "primaryGenreName": "Graphics & Design",
+      "primaryGenreId": 6027,
+      "releaseDate": "2026-07-20T07:00:00Z",
+      "trackName": "Vectorize 2",
+      "trackId": 6778937373,
+      "currentVersionReleaseDate": "2026-07-21T06:46:17Z",
+      "version": "2.0",
+      "wrapperType": "software",
+      "currency": "EUR",
+      "description": "Um schnell und bequem eine Pixelgrafik in ein auflösungsunabhängiges und beliebig skalierbares Vektorformat umzuwandeln, ist Vectorize für Mac, iPhone und iPad die ideale Lösung. Ganz gleich, ob es sich um ein Logo handelt, das Sie nur als kleine JPG-Datei vorliegen haben, oder ob es eine Comiczeichnung, eine Skizze oder gar ein komplettes Foto ist – Vectorize macht aus Pixeln Vektoren. Wir freuen uns, Ihnen jetzt eine große neue Version vorstellen zu dürfen, basierend auf einer komplett neuen Vektorisierungs-Engine.\n\nDie Umwandlung einer pixelbasierten Grafik (z.B. ein Foto, eine Zeichnung, etc.) hin zu einer auflösungsunabhängigen Vektorgrafik gestaltet sich denkbar einfach: Wählen Sie eine Datei aus oder nutzen Sie ein iPhone zum Abfotografieren eines Bildes – und lassen Vectorize dann die restliche Arbeit machen. Anschließend legen Sie nur noch fest, wie detailreich das Resultat sein soll und ob Sie zusätzliche Konturen oder Kantenglättung wünschen… und das fertige Ergebnis ist nur noch einen Klick auf „Exportieren“ entfernt. Ihre Optionen sind PDF, SVG oder Logoist, um anschließend die Grafik weiter zu bearbeiten.\n\nNEU IN VECTORIZE 2\nMit Vectorize 2 war es noch nie so einfach, Bilder in auflösungsunabhängige Vektorgrafiken umzuwandeln – dank einer komplett neuentwickelten Vektorisier-Engine. Formen und Kurven werden deutlich präziser erkannt, feine Details wesentlich genauer übernommen und Farbverläufe mit spürbar höherer Genauigkeit nachgebildet. In einigen Fällen kann die App sogar erkennen, wie sich ein Farbverlauf im Hintergrund hinter einem Objekt fortsetzt. Das sorgt für sauberere, überzeugendere und natürlicher wirkende Ergebnisse. \n\nAuch an der Oberfläche hat sich einiges getan, diese erstrahlt nun in Apples neuer Designsprache \"Liquid Glass\". Zudem haben wir die Bedienung noch komfortabler und übersichtlicher gemacht.\n\nSie nutzen bereits Logoist 6?\nWenn Sie Logoist 6 für Mac, iPhone und iPad gekauft haben, benötigen Sie Vectorize 2 nicht zusätzlich, denn Vektorisierung ist bereits Bestandteil der Grafikdesign-App.\n\nKernfunktionen von Vectorize 2\n- Unterstützte Import-Formate: JPG, PNG, TIFF, HEIC, GIF\n- Unterstützte Export-Formate: PDF, SVG, Logoist\n- Einsatzgebiete: Fotos, Logos, Zeichnungen, Grafiken und mehr vektorisieren, um diese beliebig zu vergrößern",
       "trackCensoredName": "Vectorize 2",
       "trackViewUrl": "https://apps.apple.com/de/app/vectorize-2/id6778937373?uo=4",
       "contentAdvisoryRating": "4+",
-      "bundleId": "com.syniumsoftware.vectorize2",
+      "averageUserRating": 0,
       "userRatingCount": 0,
       "country": "DEU"
     }

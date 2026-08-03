@@ -186,10 +186,17 @@
       "userRatingCount": 239
     },
     {
+      "screenshotUrls": [],
+      "ipadScreenshotUrls": [],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/92/74/559274e8-7ddc-3d70-d691-19d56bbdc729/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "isGameCenterEnabled": false,
       "artistViewUrl": "https://apps.apple.com/us/developer/dmac-mobile-developments-llc/id372235786?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/92/74/559274e8-7ddc-3d70-d691-19d56bbdc729/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/92/74/559274e8-7ddc-3d70-d691-19d56bbdc729/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
-      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -319,24 +326,21 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "features": [
-        "iosUniversal"
-      ],
       "advisories": [],
       "kind": "software",
-      "screenshotUrls": [],
-      "ipadScreenshotUrls": [],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/92/74/559274e8-7ddc-3d70-d691-19d56bbdc729/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "trackCensoredName": "JB4 Mobile",
-      "trackViewUrl": "https://apps.apple.com/us/app/jb4-mobile/id794841332?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 3.82008,
+      "sellerUrl": "https://www.jb4tech.com/forum/model-specific-engine-tuning-modification-discussion/jb4-mobile/1192-",
+      "languageCodesISO2A": [
+        "EN"
+      ],
       "fileSizeBytes": "25569280",
       "formattedPrice": "$27.99",
-      "userRatingCountForCurrentVersion": 239,
       "trackContentRating": "4+",
-      "releaseNotes": "Bug Fix: Viewing User Adj in landscape orientation\nBug Fix: Viewing graph with incompatible parameters.\n\nMinor changes to firmware uploading to make it faster.",
+      "averageUserRatingForCurrentVersion": 3.82008,
+      "minimumOsVersion": "15.1",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 3.82008,
+      "trackCensoredName": "JB4 Mobile",
+      "trackViewUrl": "https://apps.apple.com/us/app/jb4-mobile/id794841332?uo=4",
       "artistId": 372235786,
       "artistName": "Dmac Mobile Developments, LLC",
       "genres": [
@@ -345,14 +349,15 @@
       ],
       "price": 27.99,
       "bundleId": "com.dmacpro91.jb4-mobile",
+      "trackName": "JB4 Mobile",
+      "trackId": 794841332,
+      "releaseNotes": "Bug Fix: Viewing User Adj in landscape orientation\nBug Fix: Viewing graph with incompatible parameters.\n\nMinor changes to firmware uploading to make it faster.",
       "primaryGenreName": "Sports",
       "primaryGenreId": 6004,
       "genreIds": [
         "6004",
         "6003"
       ],
-      "trackId": 794841332,
-      "trackName": "JB4 Mobile",
       "sellerName": "Dmac Mobile Developments, LLC",
       "releaseDate": "2014-02-12T18:01:04Z",
       "isVppDeviceBasedLicensingEnabled": true,
@@ -361,12 +366,7 @@
       "wrapperType": "software",
       "currency": "USD",
       "description": "The brand new JB4 Mobile application is finally ready for public release and has lots of great new features including:\n*Gauge theme customizations\n*Built-in raw CSV data viewer\n*Revamped User Adj./WMI data editors\n*New modern UI completely rewritten from the ground up\n*More seamless integration with our backend servers\n\nJB4 Connect Kit Users: \n1) Install the Connect Kit per the installation guide for your vehicle\n2) Create your account/sign in with this app\n3) Ensure JB4 Mobile has all requested permissions\n4) Tap the Connect button in JB4 Mobile\n\nAbout The App:\nJB4 Mobile is a mobile data logger and display for use with the JB4 tuner from Burger Motorsports.\n\nJB4 Mobile allows you to monitor and log multiple parameters from your JB4 equipped car. Parameters such as boost, rpm, fuel trims, air/fuel ratios, ignition advance and much more are available. \n\nCurrent Features: \nLive gauges\nData logging\nData graphing\nLog export via email\nCode reading/deletion\nModify User Adj. (boost, fuel, etc.) settings\nModify WMI settings\nSwitch maps on the fly\nAuto WOT logging\nJB4 Firmware Updating\n\nJB4 ® is a registered trademark of Burger Motorsports Inc ® and is used with written permission.",
-      "minimumOsVersion": "15.1",
-      "averageUserRatingForCurrentVersion": 3.82008,
-      "sellerUrl": "https://www.jb4tech.com/forum/model-specific-engine-tuning-modification-discussion/jb4-mobile/1192-",
-      "languageCodesISO2A": [
-        "EN"
-      ],
+      "userRatingCountForCurrentVersion": 239,
       "userRatingCount": 239,
       "country": "USA"
     }

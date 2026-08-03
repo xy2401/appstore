@@ -205,7 +205,6 @@
       "userRatingCount": 33
     },
     {
-      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ec/2a/dc/ec2adcc1-8b27-cd37-05d2-3328a6532e31/4f892f65-aa6c-4a3e-981d-09a3827a9cfe_app-store-iphone55-2.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/aa/bf/6c/aabf6ceb-50db-36af-25df-d62f4f5f9791/d6c0d191-ace7-438e-bc64-ca9ffb09adf8_app-store-iphone55-1.jpg/392x696bb.jpg",
@@ -232,14 +231,10 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/7f/0d/417f0d5d-8142-c939-b950-57a659bdfaee/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
       ],
-      "advisories": [],
-      "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/fr/developer/roadtrippin/id1622444103?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/7f/0d/417f0d5d-8142-c939-b950-57a659bdfaee/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/7f/0d/417f0d5d-8142-c939-b950-57a659bdfaee/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -369,26 +364,39 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "releaseNotes": "Mise à jour du contenu",
+      "advisories": [],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/fr/developer/roadtrippin/id1622444103?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/7f/0d/417f0d5d-8142-c939-b950-57a659bdfaee/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/7f/0d/417f0d5d-8142-c939-b950-57a659bdfaee/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
       "averageUserRatingForCurrentVersion": 4.33333,
-      "userRatingCountForCurrentVersion": 33,
-      "trackContentRating": "4+",
       "languageCodesISO2A": [
         "FR"
       ],
       "fileSizeBytes": "49316864",
       "formattedPrice": "2,49 €",
-      "trackId": 1622550520,
-      "trackName": "RoadTrippin",
+      "userRatingCountForCurrentVersion": 33,
+      "trackContentRating": "4+",
+      "minimumOsVersion": "15.0",
+      "currentVersionReleaseDate": "2026-05-26T17:52:24Z",
       "artistId": 1622444103,
       "artistName": "RoadTrippin",
+      "genres": [
+        "Voyages"
+      ],
       "price": 2.49,
+      "bundleId": "com.roadtrippinfr.RoadTrippin5",
+      "releaseNotes": "Mise à jour du contenu",
       "releaseDate": "2022-05-07T07:00:00Z",
+      "trackId": 1622550520,
+      "trackName": "RoadTrippin",
+      "genreIds": [
+        "6003"
+      ],
       "primaryGenreName": "Travel",
       "primaryGenreId": 6003,
       "sellerName": "RoadTrippin",
       "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-05-26T17:52:24Z",
       "version": "1.16",
       "wrapperType": "software",
       "currency": "EUR",
@@ -397,14 +405,6 @@
       "trackViewUrl": "https://apps.apple.com/fr/app/roadtrippin/id1622550520?uo=4",
       "contentAdvisoryRating": "4+",
       "averageUserRating": 4.33333,
-      "minimumOsVersion": "15.0",
-      "genreIds": [
-        "6003"
-      ],
-      "bundleId": "com.roadtrippinfr.RoadTrippin5",
-      "genres": [
-        "Voyages"
-      ],
       "userRatingCount": 33,
       "country": "FRA"
     }

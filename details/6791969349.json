@@ -2,19 +2,14 @@
   "resultCount": 1,
   "results": [
     {
-      "isGameCenterEnabled": false,
       "screenshotUrls": [],
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/0d/6b/ae0d6bb7-88e6-52d9-63ca-0d413cbb5dce/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
       ],
-      "advisories": [],
-      "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/fr/developer/stephan-bolch/id1516634570?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/0d/6b/ae0d6bb7-88e6-52d9-63ca-0d413cbb5dce/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/0d/6b/ae0d6bb7-88e6-52d9-63ca-0d413cbb5dce/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -144,27 +139,42 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "releaseNotes": "- Fixed Tap Tempo: BPM display no longer resets to zero after a few seconds of inactivity\n- Timecode keypad is now always visible on desktop\n- Fixed content being cut off behind the navigation bar on smaller screens",
+      "advisories": [],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/fr/developer/stephan-bolch/id1516634570?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/0d/6b/ae0d6bb7-88e6-52d9-63ca-0d413cbb5dce/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/0d/6b/ae0d6bb7-88e6-52d9-63ca-0d413cbb5dce/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
       "averageUserRatingForCurrentVersion": 0,
-      "userRatingCountForCurrentVersion": 0,
-      "trackContentRating": "4+",
       "sellerUrl": "https://all-the-machines.com/products/kompute/",
       "languageCodesISO2A": [
         "EN"
       ],
       "fileSizeBytes": "2337792",
       "formattedPrice": "1,99 €",
-      "trackId": 6791969349,
-      "trackName": "Kompute - Music Calculator",
+      "userRatingCountForCurrentVersion": 0,
+      "trackContentRating": "4+",
+      "minimumOsVersion": "15.0",
+      "currentVersionReleaseDate": "2026-07-27T14:06:53Z",
       "artistId": 1516634570,
       "artistName": "Stephan Bolch",
+      "genres": [
+        "Musique",
+        "Utilitaires"
+      ],
       "price": 1.99,
+      "bundleId": "com.allthemachines.kompute",
+      "releaseNotes": "- Fixed Tap Tempo: BPM display no longer resets to zero after a few seconds of inactivity\n- Timecode keypad is now always visible on desktop\n- Fixed content being cut off behind the navigation bar on smaller screens",
       "releaseDate": "2026-07-23T07:00:00Z",
+      "trackId": 6791969349,
+      "trackName": "Kompute - Music Calculator",
+      "genreIds": [
+        "6011",
+        "6002"
+      ],
       "primaryGenreName": "Music",
       "primaryGenreId": 6011,
       "sellerName": "Stephan Bolch",
       "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-07-27T14:06:53Z",
       "version": "1.0.1",
       "wrapperType": "software",
       "currency": "EUR",
@@ -173,16 +183,6 @@
       "trackViewUrl": "https://apps.apple.com/fr/app/kompute-music-calculator/id6791969349?uo=4",
       "contentAdvisoryRating": "4+",
       "averageUserRating": 0,
-      "minimumOsVersion": "15.0",
-      "genreIds": [
-        "6011",
-        "6002"
-      ],
-      "bundleId": "com.allthemachines.kompute",
-      "genres": [
-        "Musique",
-        "Utilitaires"
-      ],
       "userRatingCount": 0,
       "country": "FRA"
     }

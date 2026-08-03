@@ -196,10 +196,12 @@
       "userRatingCount": 62417
     },
     {
-      "isGameCenterEnabled": false,
       "artistViewUrl": "https://apps.apple.com/us/developer/textme-inc/id307996876?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/20/d9/fc20d98a-fa42-42b7-30a0-a8e259c1459c/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/20/d9/fc20d98a-fa42-42b7-30a0-a8e259c1459c/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -329,9 +331,6 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "features": [
-        "iosUniversal"
-      ],
       "advisories": [],
       "kind": "software",
       "screenshotUrls": [
@@ -353,11 +352,14 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/20/d9/fc20d98a-fa42-42b7-30a0-a8e259c1459c/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
-      "minimumOsVersion": "17.6",
+      "isGameCenterEnabled": false,
+      "bundleId": "com.gemsoftware.textme",
       "trackCensoredName": "Free Tone - Calling & Texting",
       "trackViewUrl": "https://apps.apple.com/us/app/free-tone-calling-texting/id338088432?uo=4",
       "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.70575,
+      "averageUserRating": 4.70582,
+      "minimumOsVersion": "17.6",
+      "price": 1.99,
       "artistId": 307996876,
       "artistName": "TextMe, Inc.",
       "genres": [
@@ -367,20 +369,15 @@
       "releaseDate": "2010-03-02T18:34:29Z",
       "trackName": "Free Tone - Calling & Texting",
       "trackId": 338088432,
+      "primaryGenreName": "Social Networking",
+      "primaryGenreId": 6005,
+      "sellerName": "TextMe, Inc.",
       "isVppDeviceBasedLicensingEnabled": true,
-      "bundleId": "com.gemsoftware.textme",
-      "genreIds": [
-        "6005",
-        "6002"
-      ],
       "currentVersionReleaseDate": "2026-07-24T23:06:42Z",
-      "releaseNotes": "This update fixes bugs and improves the performance of the app",
       "version": "3.53.3",
       "wrapperType": "software",
       "currency": "USD",
       "description": "UNLIMITED TEXTING AND CALLING WITH YOUR OWN PERSONAL PHONE NUMBER\n\nFREE TONE THE MOST POPULAR FREE CALLING APP ON THE STORE IS NOW AVAILABLE WITHOUT ADS FOR 1 WEEK\n\nWith this version of Free Tone you will enjoy one week without ads when you create a new account*\n\n• Unlimited TEXT and PICTURE messaging to any phone in US & CANADA*\n• Unlimited Calling to ANY NUMBER IN THE US & CANADA*\n• Get a REAL phone number*\n• Receive phone calls on your number and enjoy Free Voicemail\n• Enjoy group texting features with text, photos and videos\n• Share your location in one click\n• Enjoy a wide sample of Stickers\n• Transform your IPAD into a real wifi phone\n\nNo Catch, No Hidden cost!\n\nFree Tone is an easy to use messaging application that allows you to send unlimited text, voice, pics, video messages to any mobile phone number in United States and Canada. You can also Call any number in the US and Canada too ! Also, if your friends install the app as well, you will be able to do a lot more with them! So pick a Number and share it with your friends and start texting, calling!\n\n* Important:\n- For outbound calls to the US and Canada, calling is free with FreeTone\n- Hawaii, Alaska and some other territories are not supported in the free bundle\n- For inbound calls to your personal number, the first five hundred minutes are complimentary, with the ability to receive calls to your FreeTone number for a minimal extension fee\n- Free calls to numbers in the US & Canada from some locations are subject to some limitations\n- Access to the free US/Canada number and calling is limited to US and Canada residents\n- If Push notification is not enabled, you may not receive messages and calls\n- Only one free phone number per account\n- Removal of Ads for one week is only available to users having downloaded the paid version of Free Tone and creating a new account, for users updating the app or using their existing account you will keep experiencing your current Free Tone experience\n- After the week of usage without Ads you will start to see ads in the App\nHelp us improve FreeTone: http://support.free-tone.com\n\nIn-App Subscription Details:\n\n- Payment will be charged to your iTunes account at confirmation of purchase\n- Subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of your current period\n- Account will be charged for renewal within 24-hours prior to the end of the current period, at the purchase price listed in the \"Manage Subscriptions\" section of your iTunes account\n- You may manage your subscriptions and turn off auto-renewal by going to your iTunes Account Settings and then “Manage Subscriptions”\n- No cancellation of the current subscription is allowed during active subscription\n- Also see Terms & Conditions (http://go-text.me/assets/tc) and Privacy Policy (http://go-text.me/assets/pp)\n\nTerms of Use: https://api.textme-app.com/api/support/terms-conditions/ios/",
-      "averageUserRatingForCurrentVersion": 4.70575,
-      "sellerUrl": "http://free-tone.com",
       "languageCodesISO2A": [
         "EN",
         "FR",
@@ -390,13 +387,16 @@
       ],
       "fileSizeBytes": "268713984",
       "formattedPrice": "$1.99",
-      "userRatingCountForCurrentVersion": 62729,
+      "userRatingCountForCurrentVersion": 62733,
       "trackContentRating": "4+",
-      "primaryGenreName": "Social Networking",
-      "primaryGenreId": 6005,
-      "price": 1.99,
-      "sellerName": "TextMe, Inc.",
-      "userRatingCount": 62729,
+      "sellerUrl": "http://free-tone.com",
+      "averageUserRatingForCurrentVersion": 4.70582,
+      "genreIds": [
+        "6005",
+        "6002"
+      ],
+      "releaseNotes": "This update fixes bugs and improves the performance of the app",
+      "userRatingCount": 62733,
       "country": "USA"
     }
   ]

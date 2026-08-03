@@ -40,12 +40,14 @@
       "userRatingCount": 1270
     },
     {
-      "formattedPrice": "Free",
+      "trackCensoredName": "Alice's Adventures in Wonderland",
+      "artistViewUrl": "https://books.apple.com/us/artist/lewis-carroll/2683818?uo=4",
+      "trackViewUrl": "https://books.apple.com/us/book/alices-adventures-in-wonderland/id510986661?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication113/v4/cd/03/66/cd0366ef-e0e8-5728-0c58-9368cf56cff4/PD-Alice-Adj.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication113/v4/cd/03/66/cd0366ef-e0e8-5728-0c58-9368cf56cff4/PD-Alice-Adj.jpg/100x100bb.jpg",
       "artistIds": [
         2683818
       ],
-      "artistName": "Lewis Carroll",
-      "artistId": 2683818,
       "genres": [
         "Action & Adventure Fiction for Kids",
         "Books",
@@ -54,6 +56,8 @@
         "Fiction & Literature",
         "Action & Adventure"
       ],
+      "artistId": 2683818,
+      "artistName": "Lewis Carroll",
       "price": 0,
       "genreIds": [
         "11113",
@@ -63,19 +67,15 @@
         "9031",
         "10039"
       ],
-      "releaseDate": "1865-11-25T08:00:00Z",
       "trackId": 510986661,
       "trackName": "Alice's Adventures in Wonderland",
+      "releaseDate": "1865-11-25T08:00:00Z",
       "kind": "ebook",
       "currency": "USD",
       "description": "An Apple Books Classic edition.<br /><br />Fall down the proverbial rabbit hole with Alice, the intrepid heroine of Lewis Carroll’s classic fantasy! When Alice spies a talking rabbit, she can’t resist following him into his hole - winding up in Wonderland, a nonsensical land of magical potions and never-ending tea parties. We accompany Alice on a journey that leads her to meet a grinning and elusive Cheshire Cat, a Mad Hatter, and, of course, the cruel, maniacal Queen of Hearts.<br /><br />Is Alice and every other inhabitant of Wonderland mad? Or is it just a daydream? For over 100 years, children have come under the spell of Carroll’s topsy-turvy world, and adults have debated the meaning of the mathematician turned author’s feverish story. Visit Wonderland alongside Alice and find out why so many generations become “curiouser and curiouser” with each reading.",
-      "trackCensoredName": "Alice's Adventures in Wonderland",
-      "artistViewUrl": "https://books.apple.com/us/artist/lewis-carroll/2683818?uo=4",
-      "trackViewUrl": "https://books.apple.com/us/book/alices-adventures-in-wonderland/id510986661?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication113/v4/cd/03/66/cd0366ef-e0e8-5728-0c58-9368cf56cff4/PD-Alice-Adj.jpg/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication113/v4/cd/03/66/cd0366ef-e0e8-5728-0c58-9368cf56cff4/PD-Alice-Adj.jpg/100x100bb.jpg",
+      "formattedPrice": "Free",
       "averageUserRating": 4,
-      "userRatingCount": 2670,
+      "userRatingCount": 2671,
       "country": "USA"
     },
     {
@@ -83,6 +83,8 @@
         2683818
       ],
       "formattedPrice": "Free",
+      "trackName": "Alice's Adventures in Wonderland",
+      "trackId": 510986661,
       "genres": [
         "Action & Adventure Fiction for Kids",
         "Books",
@@ -91,18 +93,9 @@
         "Fiction & Literature",
         "Action & Adventure"
       ],
+      "artistId": 2683818,
+      "artistName": "Lewis Carroll",
       "price": 0,
-      "releaseDate": "1865-11-25T08:00:00Z",
-      "genreIds": [
-        "11113",
-        "38",
-        "11086",
-        "11112",
-        "9031",
-        "10039"
-      ],
-      "trackId": 510986661,
-      "trackName": "Alice's Adventures in Wonderland",
       "kind": "ebook",
       "currency": "GBP",
       "description": "An Apple Books Classic edition.<br /><br />Fall down the proverbial rabbit hole with Alice, the intrepid heroine of Lewis Carroll’s classic fantasy! When Alice spies a talking rabbit, she can’t resist following him into his hole - winding up in Wonderland, a nonsensical land of magical potions and never-ending tea parties. We accompany Alice on a journey that leads her to meet a grinning and elusive Cheshire Cat, a Mad Hatter, and, of course, the cruel, maniacal Queen of Hearts.<br /><br />Is Alice and every other inhabitant of Wonderland mad? Or is it just a daydream? For over 100 years, children have come under the spell of Carroll’s topsy-turvy world, and adults have debated the meaning of the mathematician turned author’s feverish story. Visit Wonderland alongside Alice and find out why so many generations become “curiouser and curiouser” with each reading.",
@@ -111,8 +104,15 @@
       "trackViewUrl": "https://books.apple.com/gb/book/alices-adventures-in-wonderland/id510986661?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication113/v4/cd/03/66/cd0366ef-e0e8-5728-0c58-9368cf56cff4/PD-Alice-Adj.jpg/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication113/v4/cd/03/66/cd0366ef-e0e8-5728-0c58-9368cf56cff4/PD-Alice-Adj.jpg/100x100bb.jpg",
-      "artistId": 2683818,
-      "artistName": "Lewis Carroll",
+      "genreIds": [
+        "11113",
+        "38",
+        "11086",
+        "11112",
+        "9031",
+        "10039"
+      ],
+      "releaseDate": "1865-11-25T08:00:00Z",
       "averageUserRating": 4,
       "userRatingCount": 1273,
       "country": "GBR"

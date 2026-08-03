@@ -202,7 +202,6 @@
       "userRatingCount": 311
     },
     {
-      "isGameCenterEnabled": false,
       "screenshotUrls": [],
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5a/01/b3/5a01b3dc-8ba5-fb4b-9dbd-f572c877a232/2a8f19b6-c6b8-46b8-acd6-372ba3405408_fiches_ide129inches2.png/576x768bb.png",
@@ -218,19 +217,10 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/2e/7e/262e7e3f-870b-ddb1-6f5f-c35199dc2c5a/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/512x512bb.jpg",
+      "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
       ],
-      "advisories": [
-        "Scènes rares/modérées réservées aux adultes (suggestives)",
-        "Accès au Web non contrôlé.",
-        "Scènes rares/modérées de consommation ou de référence à l’alcool, au tabac ou à la drogue",
-        "Scènes fréquentes/intenses de contenu à caractère médical"
-      ],
-      "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/fr/developer/julie-violet/id1089856776?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/2e/7e/262e7e3f-870b-ddb1-6f5f-c35199dc2c5a/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/2e/7e/262e7e3f-870b-ddb1-6f5f-c35199dc2c5a/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/100x100bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -360,27 +350,47 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "releaseNotes": "MISE A JOUR V3.14\n\nCorrectif d'un bug empêchant la progression sur les quizz sur certains appareils",
+      "advisories": [
+        "Scènes rares/modérées réservées aux adultes (suggestives)",
+        "Accès au Web non contrôlé.",
+        "Scènes rares/modérées de consommation ou de référence à l’alcool, au tabac ou à la drogue",
+        "Scènes fréquentes/intenses de contenu à caractère médical"
+      ],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/fr/developer/julie-violet/id1089856776?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/2e/7e/262e7e3f-870b-ddb1-6f5f-c35199dc2c5a/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/2e/7e/262e7e3f-870b-ddb1-6f5f-c35199dc2c5a/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/100x100bb.jpg",
       "averageUserRatingForCurrentVersion": 4.50161,
-      "userRatingCountForCurrentVersion": 311,
-      "trackContentRating": "17+",
       "sellerUrl": "https://www.fiches-ide.fr/application/",
       "languageCodesISO2A": [
         "EN"
       ],
       "fileSizeBytes": "255539200",
       "formattedPrice": "3,99 €",
-      "trackId": 1089856777,
-      "trackName": "Fiches IDE",
+      "userRatingCountForCurrentVersion": 311,
+      "trackContentRating": "17+",
+      "minimumOsVersion": "12.0",
+      "currentVersionReleaseDate": "2026-01-19T10:16:42Z",
       "artistId": 1089856776,
       "artistName": "Julie Violet",
+      "genres": [
+        "Éducation",
+        "Forme et santé"
+      ],
       "price": 3.99,
+      "bundleId": "dev.romainbulot.com.ficheside",
+      "releaseNotes": "MISE A JOUR V3.14\n\nCorrectif d'un bug empêchant la progression sur les quizz sur certains appareils",
       "releaseDate": "2016-03-10T00:04:35Z",
+      "trackId": 1089856777,
+      "trackName": "Fiches IDE",
+      "genreIds": [
+        "6017",
+        "6013"
+      ],
       "primaryGenreName": "Education",
       "primaryGenreId": 6017,
       "sellerName": "Julie Violet",
       "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-01-19T10:16:42Z",
       "version": "3.14",
       "wrapperType": "software",
       "currency": "EUR",
@@ -389,16 +399,6 @@
       "trackViewUrl": "https://apps.apple.com/fr/app/fiches-ide/id1089856777?uo=4",
       "contentAdvisoryRating": "17+",
       "averageUserRating": 4.50161,
-      "minimumOsVersion": "12.0",
-      "genreIds": [
-        "6017",
-        "6013"
-      ],
-      "bundleId": "dev.romainbulot.com.ficheside",
-      "genres": [
-        "Éducation",
-        "Forme et santé"
-      ],
       "userRatingCount": 311,
       "country": "FRA"
     }

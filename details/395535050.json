@@ -2,23 +2,25 @@
   "resultCount": 2,
   "results": [
     {
-      "artistIds": [
-        2671774
-      ],
+      "artistId": 2671774,
+      "artistName": "Charles Dickens",
       "genres": [
         "Classics",
         "Books",
         "Fiction & Literature"
       ],
       "price": 0,
+      "artistIds": [
+        2671774
+      ],
       "genreIds": [
         "10042",
         "38",
         "9031"
       ],
+      "releaseDate": "1861-07-30T08:00:00Z",
       "trackId": 395535050,
       "trackName": "Great Expectations",
-      "releaseDate": "1861-07-30T08:00:00Z",
       "kind": "ebook",
       "currency": "USD",
       "description": "An Apple Books Classic edition.<br />\nCharles Dickens’ classic explores potent themes like good versus evil, crime, repentance, love and betrayal. At the center of the story is Pip, an impoverished orphan who dreams of a better life. When a mysterious benefactor gifts Pip a substantial fortune, he’s rescued from a life of deprivation and abuse-and introduced to a memorable host of characters: the bizarre Miss Havisham, a wealthy heiress who was spurned at the altar; her cold, austere ward Estella, who eventually breaks Pip’s heart; and an escaped convict who teaches Pip that people aren’t always what they seem.<br /><br />\nDickens’ novel-which was originally serialized in a weekly newspaper-contains major plot twists at every turn, which accounts for its enduring popularity. It’s a gripping read and a thrilling portrait of Victorian England.",
@@ -28,10 +30,8 @@
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication113/v4/e5/6d/57/e56d57b3-08e7-eb9e-0c8e-8359de1b1c7c/PD_Great_Expectations-Adj.jpg/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication113/v4/e5/6d/57/e56d57b3-08e7-eb9e-0c8e-8359de1b1c7c/PD_Great_Expectations-Adj.jpg/100x100bb.jpg",
       "formattedPrice": "Free",
-      "artistId": 2671774,
-      "artistName": "Charles Dickens",
       "averageUserRating": 4,
-      "userRatingCount": 4845,
+      "userRatingCount": 4846,
       "country": "USA"
     },
     {
@@ -45,15 +45,10 @@
         2671774
       ],
       "artistId": 2671774,
-      "genres": [
-        "Classics",
-        "Books",
-        "Fiction & Literature"
-      ],
-      "price": 0,
+      "artistName": "Charles Dickens",
+      "releaseDate": "1861-07-30T08:00:00Z",
       "trackId": 395535050,
       "trackName": "Great Expectations",
-      "releaseDate": "1861-07-30T08:00:00Z",
       "genreIds": [
         "10042",
         "38",
@@ -62,9 +57,14 @@
       "kind": "ebook",
       "currency": "GBP",
       "description": "An Apple Books Classic edition.<br />\nCharles Dickens’ classic explores potent themes like good versus evil, crime, repentance, love and betrayal. At the center of the story is Pip, an impoverished orphan who dreams of a better life. When a mysterious benefactor gifts Pip a substantial fortune, he’s rescued from a life of deprivation and abuse-and introduced to a memorable host of characters: the bizarre Miss Havisham, a wealthy heiress who was spurned at the altar; her cold, austere ward Estella, who eventually breaks Pip’s heart; and an escaped convict who teaches Pip that people aren’t always what they seem.<br /><br />\nDickens’ novel-which was originally serialized in a weekly newspaper-contains major plot twists at every turn, which accounts for its enduring popularity. It’s a gripping read and a thrilling portrait of Victorian England.",
-      "artistName": "Charles Dickens",
-      "averageUserRating": 4,
+      "price": 0,
+      "genres": [
+        "Classics",
+        "Books",
+        "Fiction & Literature"
+      ],
       "userRatingCount": 1890,
+      "averageUserRating": 4,
       "country": "GBR"
     }
   ]

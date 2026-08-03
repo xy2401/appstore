@@ -190,10 +190,10 @@
       "userRatingCount": 1705
     },
     {
-      "isGameCenterEnabled": false,
       "artistViewUrl": "https://apps.apple.com/us/developer/the-cheesecake-factory-inc/id1843703666?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/f1/90/3af190fa-6589-3a33-e298-04b17dfde4ab/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/f1/90/3af190fa-6589-3a33-e298-04b17dfde4ab/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
+      "features": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -323,7 +323,6 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "features": [],
       "advisories": [
         "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References"
       ],
@@ -338,11 +337,14 @@
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/f1/90/3af190fa-6589-3a33-e298-04b17dfde4ab/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "minimumOsVersion": "15.0",
+      "isGameCenterEnabled": false,
+      "bundleId": "com.cheesecakefactory.app",
       "trackCensoredName": "The Cheesecake Factory",
       "trackViewUrl": "https://apps.apple.com/us/app/the-cheesecake-factory/id6753362006?uo=4",
       "contentAdvisoryRating": "12+",
-      "averageUserRating": 4.92244,
+      "averageUserRating": 4.92276,
+      "minimumOsVersion": "15.0",
+      "price": 0,
       "artistId": 1843703666,
       "artistName": "The Cheesecake Factory Inc",
       "genres": [
@@ -351,31 +353,29 @@
       "releaseDate": "2026-03-18T07:00:00Z",
       "trackName": "The Cheesecake Factory",
       "trackId": 6753362006,
+      "primaryGenreName": "Food & Drink",
+      "primaryGenreId": 6023,
+      "sellerName": "The Cheesecake Factory Incorporated",
       "isVppDeviceBasedLicensingEnabled": true,
-      "bundleId": "com.cheesecakefactory.app",
-      "genreIds": [
-        "6023"
-      ],
       "currentVersionReleaseDate": "2026-07-13T12:13:20Z",
-      "releaseNotes": "This release includes bug fixes and minor updates.",
       "version": "2.0.6",
       "wrapperType": "software",
       "currency": "USD",
       "description": "The Cheesecake Factory is an experience like no other!  Our app brings our legendary menu of 250+ made-from-scratch dishes right to your fingertips. \n\nJoin Cheesecake Rewards® for a free birthday slice, exclusive surprises, and easy reservations at any location.\n\nAccess to Reservations\nOnly Cheesecake Rewards members have access to online reservations.  Enable location sharing to quickly find the restaurant location nearest you. \n\nFree Birthday Slice\nCheesecake Rewards members can enjoy a free birthday slice of any cheesecake or layer cake with any purchase. Use the app to redeem your birthday slice when you order takeout or order delivery through DoorDash. To redeem your birthday slice when dining in, tell your server you’re a member.\n\nPersonalized Surprises\nCheesecake Rewards members get exclusive rewards throughout the year.  Use the app to keep track of your rewards and redeem them with ease.\n\nDoorDash Offers\nCheesecake Rewards members get special DoorDash offers for delivery orders. Use the app to keep track of your rewards and connect to The Cheesecake Factory page on DoorDash to redeem them with ease.\n\nPush Notifications\nTurn on notifications to receive updates about new menu items, seasonal cheesecakes and special rewards, plus reminders about current offers.",
-      "averageUserRatingForCurrentVersion": 4.92244,
-      "sellerUrl": "https://www.thecheesecakefactory.com/",
       "languageCodesISO2A": [
         "EN"
       ],
       "fileSizeBytes": "140105728",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 18720,
+      "userRatingCountForCurrentVersion": 18941,
       "trackContentRating": "12+",
-      "primaryGenreName": "Food & Drink",
-      "primaryGenreId": 6023,
-      "price": 0,
-      "sellerName": "The Cheesecake Factory Incorporated",
-      "userRatingCount": 18720,
+      "sellerUrl": "https://www.thecheesecakefactory.com/",
+      "averageUserRatingForCurrentVersion": 4.92276,
+      "genreIds": [
+        "6023"
+      ],
+      "releaseNotes": "This release includes bug fixes and minor updates.",
+      "userRatingCount": 18941,
       "country": "USA"
     }
   ]

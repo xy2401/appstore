@@ -208,10 +208,13 @@
       "userRatingCount": 872
     },
     {
+      "isGameCenterEnabled": false,
       "artistViewUrl": "https://apps.apple.com/us/developer/bitcount-ltd/id286799610?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/99/ce/b3/99ceb32a-d82c-5d61-fabf-cf9797efec18/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/99/ce/b3/99ceb32a-d82c-5d61-fabf-cf9797efec18/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/100x100bb.jpg",
-      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPad2Wifi-iPad2Wifi",
         "iPad23G-iPad23G",
@@ -353,9 +356,6 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "features": [
-        "iosUniversal"
-      ],
       "advisories": [],
       "kind": "software",
       "screenshotUrls": [
@@ -365,10 +365,11 @@
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/99/ce/b3/99ceb32a-d82c-5d61-fabf-cf9797efec18/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg",
+      "minimumOsVersion": "9.0",
+      "contentAdvisoryRating": "4+",
       "trackCensoredName": "Cleartune",
       "trackViewUrl": "https://apps.apple.com/us/app/cleartune/id286799607?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 3.67955,
+      "averageUserRating": 3.6765,
       "artistId": 286799610,
       "artistName": "Bitcount ltd.",
       "genres": [
@@ -376,22 +377,24 @@
       ],
       "price": 3.99,
       "bundleId": "com.bitcount.cleartune",
-      "trackId": 286799607,
-      "trackName": "Cleartune",
+      "genreIds": [
+        "6011"
+      ],
       "releaseDate": "2019-02-13T08:00:00Z",
+      "trackName": "Cleartune",
+      "trackId": 286799607,
       "primaryGenreName": "Music",
       "primaryGenreId": 6011,
-      "isVppDeviceBasedLicensingEnabled": true,
       "sellerName": "Bitcount ltd.",
+      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2020-06-16T22:26:49Z",
       "releaseNotes": "Support for latest device resolutions\nNo latency switching between tuner and pitch pipe\nCorrected autolock handling on certain iOS versions\nImproved filtering and noise rejection\nAdded unlock button in pitch pipe to allow arbitrary frequency selection\nFixed incorrect octave being displayed with certain instruments",
       "version": "2.3",
       "wrapperType": "software",
       "currency": "USD",
       "description": "\"My most indispensable app is my guitar tuner, Cleartune.  None of the old visual or analog tuners are as precise. I've even taken it on stage with me!\" - Rosanne Cash\n\n\"Cleartune and Clockwork are my most used apps.\" - Ezra Oklan (Nicole Atkins, Norah Jones, Antibalas Afrobeat Orchestra, Matt Beck (Matchbox 20), Chico Hamilton, Arnie Lawrence)\n\n\"I've been having trouble with interference on stage with other tuners for the iPhone.  Used Cleartune last night before a gig and had no problems with stage noise.  Excellent tuner for bass.\" - Rob Calder (Kanye West, Angus and Julia Stone, The Break and Repair Method, Ghostface Killah)\n\nUsed in the making of the Gorillaz album \"The Fall\"\n\nFollow us on Facebook at www.facebook.com/cleartune\n-----------------------------------\n\n• Featured in Electronic Musician, Matchbox Mag, Making Music Mag, Premiere Guitar, MacWorld, Apple Staff Picks, Worship Leader Mag, Acoustic Guitar\n\n• Spotted in use backstage by The Black Keys, C.W. Stone King (www.va.ryanpolei.com), Grammy Nominee Sones de México (gearwire.com)\n\n-----------------------------------\n\nCleartune is a chromatic instrument tuner and pitch pipe that allows you to quickly and accurately tune your instrument using the built-in mic in your device.\n\nCleartune features a unique \"note wheel\" interface allowing you to quickly find your pitch, paired with a highly responsive fine-tuning meter for the perfect tune.\n\nWith support for custom temperaments, transposition, notations such as solfège, and adjustable calibration, Cleartune packs more power than most pro tuners, yet is simple enough for everyone to use. \n \nCleartune can tune acoustic or electric guitar, bass, bowed strings, woodwinds, brass, piano, tympani and any other instrument that can sustain a tone.\n\nMost electronic tuners cannot properly tune a violin. With a built in temperament for violin family instruments, Cleartune will have the 5ths singing perfectly.\n\nFeatures:\n\n- Note Wheel Display\n- Ultra responsive 25 cent range fine tuning display\n- Needle Damping option\n- Accuracy ±0.01 semitone (±1 cent)\n- Selectable Temperaments\n- Selectable Notations (such as Solfège)\n- User-defined temperament and notations\n- Support for transposing instruments\n- Automatic reference note calibration\n- Adjustable A4 calibration in 0.1 Hz increment\n- Pitch Pipe/Tone generator\n- Selectable tone waveform\n- Automatic or manual note selection",
-      "minimumOsVersion": "9.0",
-      "averageUserRatingForCurrentVersion": 3.67955,
       "sellerUrl": "http://www.bitcount.com/cleartune/",
+      "averageUserRatingForCurrentVersion": 3.6765,
       "languageCodesISO2A": [
         "DA",
         "NL",
@@ -406,31 +409,19 @@
       ],
       "fileSizeBytes": "8872960",
       "formattedPrice": "$3.99",
+      "userRatingCountForCurrentVersion": 881,
       "trackContentRating": "4+",
-      "userRatingCountForCurrentVersion": 880,
-      "genreIds": [
-        "6011"
-      ],
-      "userRatingCount": 880,
+      "userRatingCount": 881,
       "country": "USA"
     },
     {
+      "isGameCenterEnabled": false,
       "artistViewUrl": "https://apps.apple.com/fr/developer/bitcount-ltd/id286799610?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/99/ce/b3/99ceb32a-d82c-5d61-fabf-cf9797efec18/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/99/ce/b3/99ceb32a-d82c-5d61-fabf-cf9797efec18/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/100x100bb.jpg",
-      "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
       ],
-      "advisories": [],
-      "kind": "software",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/f8/b1/77/f8b1779e-9356-919f-9d9f-610f8adbe689/pr_source.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/cf/c5/bb/cfc5bb7f-f45c-1096-bcbf-fb0d5c403b71/pr_source.png/392x696bb.png"
-      ],
-      "ipadScreenshotUrls": [],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/99/ce/b3/99ceb32a-d82c-5d61-fabf-cf9797efec18/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg",
       "supportedDevices": [
         "iPad2Wifi-iPad2Wifi",
         "iPad23G-iPad23G",
@@ -572,31 +563,41 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
+      "advisories": [],
+      "kind": "software",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/99/ce/b3/99ceb32a-d82c-5d61-fabf-cf9797efec18/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/f8/b1/77/f8b1779e-9356-919f-9d9f-610f8adbe689/pr_source.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/cf/c5/bb/cfc5bb7f-f45c-1096-bcbf-fb0d5c403b71/pr_source.png/392x696bb.png"
+      ],
+      "ipadScreenshotUrls": [],
+      "appletvScreenshotUrls": [],
       "averageUserRating": 3.66667,
       "trackCensoredName": "Cleartune",
       "trackViewUrl": "https://apps.apple.com/fr/app/cleartune/id286799607?uo=4",
       "contentAdvisoryRating": "4+",
-      "bundleId": "com.bitcount.cleartune",
-      "releaseNotes": "Prise en charge des dernières résolutions d'appareils\nPas de latence de commutation entre l'accordeur et le pitch pipe\nCorrection de la gestion du verrouillage automatique sur certaines versions d'iOS\nAmélioration du filtrage et de la réjection du bruit\nAjout d'un bouton de déverrouillage dans le pitch pipe pour permettre une sélection de fréquence arbitraire\nCorrection d'une octave incorrecte affichée avec certains instruments",
+      "minimumOsVersion": "9.0",
+      "trackId": 286799607,
+      "trackName": "Cleartune",
+      "price": 3.99,
       "genres": [
         "Musique"
       ],
-      "artistId": 286799610,
-      "artistName": "Bitcount ltd.",
-      "price": 3.99,
-      "releaseDate": "2019-02-13T08:00:00Z",
-      "sellerName": "Bitcount ltd.",
+      "releaseNotes": "Prise en charge des dernières résolutions d'appareils\nPas de latence de commutation entre l'accordeur et le pitch pipe\nCorrection de la gestion du verrouillage automatique sur certaines versions d'iOS\nAmélioration du filtrage et de la réjection du bruit\nAjout d'un bouton de déverrouillage dans le pitch pipe pour permettre une sélection de fréquence arbitraire\nCorrection d'une octave incorrecte affichée avec certains instruments",
       "genreIds": [
         "6011"
       ],
+      "bundleId": "com.bitcount.cleartune",
+      "releaseDate": "2019-02-13T08:00:00Z",
+      "primaryGenreName": "Music",
+      "primaryGenreId": 6011,
+      "sellerName": "Bitcount ltd.",
       "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2020-06-16T22:26:49Z",
       "version": "2.3",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Cleartune est un accordeur chromatique et le diapason qui vous permet de régler rapidement et avec \nprécision en utilisant le micro intégré de votre iPhone.  \n \nCleartune dispose d'une interface « note wheel » unique  vous permettant de trouver rapidement votre \nréglage, jumelé à un accordeur très sensible pour une parfaite harmonie.  \n \nNe laissez pas sa propre conception et l'interface simple vous tromper. Avec le support des \ntempéraments, la transposition, les notations telles que le solfège, d'étalonnage et de réglage et  plus \nencore, Cleartune fournit assez de puissance pour les pros, mais est assez simple à utiliser pour tout le \nmonde.  \n   \nCleartune peut ajuster les guitares acoustiques ou électriques, basse, cordes frottées, les vents, les \ncuivres, piano et tout autre instrument qui peut soutenir un ton.  \n \nCaractéristiques:  \n \n- Interface « Note Wheel » \n- Affichage 25 cent affiner ultra réactif \n- Option d'amortissant needle  \n- Précision: ± 1 / 100 demi-ton (± 1 cent)  \n- Sélection Tempérament  \n- Sélection de notation (comme Solfège)  \n- Tempérament et notations Définies par l'utilisateur  \n- Support pour la transposition des instruments  \n- Calibrage A4 réglable en incréments de 0,1 Hz  \n- Diapason / générateur de tonalité  \n- Choix de la forme d'onde de tonalité  \n- sélection de note automatique ou manuelle \n \nNotes:  \n- l'IPod Touch 2G nécessite un casque externe avec micro pour la fonction tuner  \n- Non compatible avec les iPod Touch 1ère génération  \n \n** Pitch pipe est maintenant désactivé par défaut pour vous permettre de sélectionner une note en \nsilence. Pour l'activer, appuyez sur le bouton marche / arrêt entre les boutons tuner et diapason. Pour \nrégler le volume, utilisez les boutons de volume sur le côté de votre appareil. **",
-      "minimumOsVersion": "9.0",
-      "averageUserRatingForCurrentVersion": 3.66667,
       "sellerUrl": "http://www.bitcount.com/cleartune",
       "languageCodesISO2A": [
         "DA",
@@ -612,12 +613,11 @@
       ],
       "fileSizeBytes": "8872960",
       "formattedPrice": "3,99 €",
-      "userRatingCountForCurrentVersion": 114,
       "trackContentRating": "4+",
-      "primaryGenreName": "Music",
-      "primaryGenreId": 6011,
-      "trackId": 286799607,
-      "trackName": "Cleartune",
+      "averageUserRatingForCurrentVersion": 3.66667,
+      "userRatingCountForCurrentVersion": 114,
+      "artistId": 286799610,
+      "artistName": "Bitcount ltd.",
       "userRatingCount": 114,
       "country": "FRA"
     }

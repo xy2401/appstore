@@ -201,10 +201,14 @@
       "userRatingCount": 79
     },
     {
+      "advisories": [],
+      "isGameCenterEnabled": false,
       "artistViewUrl": "https://apps.apple.com/jp/developer/shuto-goto/id1558406144?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/9f/c7/419fc7b3-5bb9-6181-db50-9530f8f57632/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/9f/c7/419fc7b3-5bb9-6181-db50-9530f8f57632/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
-      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -334,10 +338,6 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [],
       "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/aa/50/faaa50c5-2797-59aa-b953-02b1bf6f5a34/db83c17f-ec0c-41d9-ade4-9f75e0f99492_1.png/392x696bb.png",
@@ -348,8 +348,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/b7/9d/83b79d4f-2707-337d-8990-744695cdaa09/6e9139a2-cf6c-494a-9ab5-6f6e48cb9eb1_6.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/b0/51/63b05138-a5c6-3474-fbe3-5d7b50bd3196/4e22e6f2-eeb1-4347-b98f-e9d9d5622f49_7.png/392x696bb.png"
       ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/9f/c7/419fc7b3-5bb9-6181-db50-9530f8f57632/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/db/df/badbdf6b-a119-27c3-f489-ee6aac593a00/b4caac8a-cf31-4e81-8cea-cd0bcf288b16_1.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/9d/c6/e89dc650-31ff-ed55-93c9-c494d3a2fdbf/f72e6b85-9f0b-4559-8089-ce0096807917_2.png/576x768bb.png",
@@ -359,44 +357,46 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/1c/02/181c029b-948d-dad4-3ab5-ae8ccdac85d7/95627e53-1923-4ae7-9481-c4b0e6812be2_6.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/be/6b/78be6b3f-95fc-15b6-9274-7eea8aec8461/b395e275-d686-4838-9932-e1e9c9c22dea_7.png/576x768bb.png"
       ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/9f/c7/419fc7b3-5bb9-6181-db50-9530f8f57632/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "primaryGenreName": "Education",
+      "primaryGenreId": 6017,
+      "sellerName": "Shuto Goto",
+      "isVppDeviceBasedLicensingEnabled": true,
       "averageUserRating": 4.60759,
       "trackCensoredName": "CafeEnglish-英会話フレーズ/日常英会話/英単語",
-      "trackViewUrl": "https://apps.apple.com/jp/app/cafeenglish-%E8%8B%B1%E4%BC%9A%E8%A9%B1%E3%83%95%E3%83%AC%E3%83%BC%E3%82%BA-%E6%97%A5%E5%B8%B8%E8%8B%B1%E4%BC%9A%E8%A9%B1-%E8%8B%B1%E5%8D%98%E8%AA%9E/id1558406142?uo=4",
       "contentAdvisoryRating": "4+",
-      "releaseNotes": "「役立つ英文法」の改良",
+      "trackViewUrl": "https://apps.apple.com/jp/app/cafeenglish-%E8%8B%B1%E4%BC%9A%E8%A9%B1%E3%83%95%E3%83%AC%E3%83%BC%E3%82%BA-%E6%97%A5%E5%B8%B8%E8%8B%B1%E4%BC%9A%E8%A9%B1-%E8%8B%B1%E5%8D%98%E8%AA%9E/id1558406142?uo=4",
       "artistId": 1558406144,
       "artistName": "Shuto Goto",
-      "genres": [
-        "教育",
-        "ビジネス"
-      ],
       "price": 800,
       "bundleId": "com.gmail.syutty27.CafeEnglish",
-      "trackName": "CafeEnglish-英会話フレーズ/日常英会話/英単語",
+      "releaseNotes": "「役立つ英文法」の改良",
       "trackId": 1558406142,
-      "sellerName": "Shuto Goto",
+      "trackName": "CafeEnglish-英会話フレーズ/日常英会話/英単語",
+      "releaseDate": "2021-03-18T07:00:00Z",
       "genreIds": [
         "6017",
         "6000"
       ],
-      "primaryGenreName": "Education",
-      "primaryGenreId": 6017,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseDate": "2021-03-18T07:00:00Z",
-      "currentVersionReleaseDate": "2026-07-18T03:37:33Z",
       "version": "1.7.7",
       "wrapperType": "software",
       "currency": "JPY",
       "description": "「教科書の英語」ではなく、ネイティブが毎日使う\"リアルなフレーズ\"や\"日常会話のための英文法\"を集めた英会話アプリです。\nLevel 1〜5、合計500フレーズを、基本から応用までステップアップ。1つ1つのフレーズに 例文・和訳・使い方のコツ・関連表現 を添えているので、「知っている」を「使える」に変えられます。聞き流しに便利なリスニングモード ・自分専用辞書でお気に入り登録 も可能！\nフレーズ以外にも、日本人あるあるの間違いや本当に役立つ英文法・英米の違いも収録。\n一歩先の、自然な日常英会話へ。ゆったりとコーヒーでも飲みながら。",
       "minimumOsVersion": "16.0",
+      "averageUserRatingForCurrentVersion": 4.60759,
+      "userRatingCountForCurrentVersion": 79,
       "languageCodesISO2A": [
         "EN"
       ],
       "fileSizeBytes": "120571904",
       "formattedPrice": "¥800",
       "trackContentRating": "4+",
-      "userRatingCountForCurrentVersion": 79,
-      "averageUserRatingForCurrentVersion": 4.60759,
+      "currentVersionReleaseDate": "2026-07-18T03:37:33Z",
+      "genres": [
+        "教育",
+        "ビジネス"
+      ],
       "userRatingCount": 79,
       "country": "JPN"
     }

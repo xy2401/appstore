@@ -205,10 +205,10 @@
       "userRatingCount": 555
     },
     {
+      "features": [
+        "iosUniversal"
+      ],
       "isGameCenterEnabled": false,
-      "artistViewUrl": "https://apps.apple.com/jp/developer/fenrir-inc/id318578225?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/24/bd/8124bdeb-0f1f-e756-08c2-1f1417179312/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/24/bd/8124bdeb-0f1f-e756-08c2-1f1417179312/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/100x100bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -351,9 +351,9 @@
         "頻繁／過激な性的表現またはヌード"
       ],
       "kind": "software",
-      "features": [
-        "iosUniversal"
-      ],
+      "artistViewUrl": "https://apps.apple.com/jp/developer/fenrir-inc/id318578225?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/24/bd/8124bdeb-0f1f-e756-08c2-1f1417179312/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/24/bd/8124bdeb-0f1f-e756-08c2-1f1417179312/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/2c/93/dc/2c93dc13-b9fc-8a3e-b9dd-e8f5d7972cf3/dae7e4be-b49d-44ee-b901-727ce4ef7c07_1_ja.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/9a/b6/11/9ab61114-d238-1658-9974-bcdc74c24f9b/ec3bb738-211b-470a-93bb-2c0607319847_2_ja.png/392x696bb.png",
@@ -372,27 +372,24 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/24/bd/8124bdeb-0f1f-e756-08c2-1f1417179312/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
-      "minimumOsVersion": "16.0",
-      "contentAdvisoryRating": "17+",
-      "trackCensoredName": "Sleipnir Mobile Black Edition",
-      "trackViewUrl": "https://apps.apple.com/jp/app/sleipnir-mobile-black-edition/id461181338?uo=4",
-      "averageUserRating": 2.777,
       "genres": [
         "ユーティリティ",
         "仕事効率化"
       ],
-      "artistName": "Fenrir Inc.",
       "artistId": 318578225,
+      "artistName": "Fenrir Inc.",
       "price": 600,
-      "trackName": "Sleipnir Mobile Black Edition",
       "trackId": 461181338,
+      "trackName": "Sleipnir Mobile Black Edition",
+      "releaseNotes": "ご報告いただいた問題を改善し安定性を向上しました。\n\n- WebP画像を保存するとクラッシュする問題を修正\n- アップデート確認の動作を調整\n- その他の軽微な修正と改善",
+      "bundleId": "jp.co.fenrir.sleipnirmobile-be",
       "releaseDate": "2011-09-08T01:54:32Z",
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
       "genreIds": [
         "6002",
         "6007"
       ],
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
       "sellerName": "Fenrir Inc.",
       "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2025-07-02T02:03:39Z",
@@ -400,8 +397,10 @@
       "wrapperType": "software",
       "currency": "JPY",
       "description": "Sleipnir Mobile Black Edition は、Sleipnir Mobile(無料)と同等+α の機能を備えた Web ブラウザです。ページを左右にフリックするだけでタブを切り替える「TouchPaging」など Sleipnir Mobile でおなじみの機能に加えて、「パスコードロック」と「検索エンジン選択」を搭載しています。また、黒を基調としたアイコンを採用しています。\n\nこれらの追加機能が必要ない場合は、無料の Sleipnir Mobile をご利用ください。",
-      "averageUserRatingForCurrentVersion": 2.777,
-      "sellerUrl": "http://www.fenrir-inc.com",
+      "trackCensoredName": "Sleipnir Mobile Black Edition",
+      "trackViewUrl": "https://apps.apple.com/jp/app/sleipnir-mobile-black-edition/id461181338?uo=4",
+      "contentAdvisoryRating": "17+",
+      "averageUserRating": 2.777,
       "languageCodesISO2A": [
         "EN",
         "JA",
@@ -412,8 +411,9 @@
       "formattedPrice": "¥600",
       "userRatingCountForCurrentVersion": 574,
       "trackContentRating": "17+",
-      "releaseNotes": "ご報告いただいた問題を改善し安定性を向上しました。\n\n- WebP画像を保存するとクラッシュする問題を修正\n- アップデート確認の動作を調整\n- その他の軽微な修正と改善",
-      "bundleId": "jp.co.fenrir.sleipnirmobile-be",
+      "averageUserRatingForCurrentVersion": 2.777,
+      "minimumOsVersion": "16.0",
+      "sellerUrl": "http://www.fenrir-inc.com",
       "userRatingCount": 574,
       "country": "JPN"
     }

@@ -197,10 +197,10 @@
       "userRatingCount": 412
     },
     {
+      "isGameCenterEnabled": false,
       "artistViewUrl": "https://apps.apple.com/us/developer/civi-corp/id505154738?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/ca/6f/17ca6f14-86b5-661c-798c-dacc490907be/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/ca/6f/17ca6f14-86b5-661c-798c-dacc490907be/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
-      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/1c/5d/5a1c5dc9-e6b6-e492-b988-8fb31b09802e/pr_source.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/94/74/79947422-51b5-3189-953c-b1b09e9bc4c9/pr_source.jpg/392x696bb.jpg",
@@ -216,6 +216,9 @@
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/ca/6f/17ca6f14-86b5-661c-798c-dacc490907be/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -345,16 +348,15 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "advisories": [],
       "kind": "software",
-      "features": [
-        "iosUniversal"
-      ],
-      "bundleId": ".com.solocator.solocator",
+      "advisories": [],
+      "releaseNotes": "- Bug Fix: Resolved a camera capture issue affecting some devices on iOS 18 after updating to v2.25.\n- Improvement: Refined the \"Wi-Fi Only\" upload alerts for better clarity and control.",
       "trackCensoredName": "Solocator - GPS Field Camera",
       "trackViewUrl": "https://apps.apple.com/us/app/solocator-gps-field-camera/id582584117?uo=4",
       "contentAdvisoryRating": "4+",
-      "minimumOsVersion": "15.0",
+      "averageUserRating": 4.26877,
+      "averageUserRatingForCurrentVersion": 4.26877,
+      "sellerUrl": "https://solocator.com",
       "languageCodesISO2A": [
         "EN"
       ],
@@ -362,33 +364,31 @@
       "formattedPrice": "$0.99",
       "userRatingCountForCurrentVersion": 413,
       "trackContentRating": "4+",
-      "sellerUrl": "https://solocator.com",
-      "averageUserRatingForCurrentVersion": 4.26877,
+      "artistId": 505154738,
+      "artistName": "Civi Corp",
       "price": 0.99,
-      "releaseNotes": "- Bug Fix: Resolved a camera capture issue affecting some devices on iOS 18 after updating to v2.25.\n- Improvement: Refined the \"Wi-Fi Only\" upload alerts for better clarity and control.",
-      "releaseDate": "2012-12-09T15:12:33Z",
-      "isVppDeviceBasedLicensingEnabled": true,
       "primaryGenreName": "Navigation",
       "primaryGenreId": 6010,
-      "sellerName": "Civi Corp Pty Ltd",
+      "releaseDate": "2012-12-09T15:12:33Z",
+      "currentVersionReleaseDate": "2026-04-04T22:19:14Z",
+      "trackId": 582584117,
+      "trackName": "Solocator - GPS Field Camera",
       "version": "2.26",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Solocator – The GPS Camera for Fieldwork and Photo Proof evidence. Overlay and stamp photos with location, direction, altitude, date & time taken. With the Industry Pack (in-app purchase), capture field notes including project name, photo description, company or username, and company logo.\nSolocator is trusted by professionals, government agencies, and industries worldwide for reliable photo documentation.\n\nTAILOR OVERLAY INFORMATION TO YOUR NEEDS\nCapture & stamp on your photos:\n\n+ GPS position (Latitude & Longitude in various formats) ± accuracy\n+ UTM/MGRS coordinates (Industry Pack)\n+ Street address (Industry Pack)\n+ Direction – bearing\n+ Altitude (MLS / HAE)\n+ Tilt & Roll angles\n+ Local date & time (based on GPS location)\n+ Local time zone\n+ UTC time\n+ Compass display\n+ Cardinal directions\n+ Building facade direction, e.g. \"North elevation\"\n+ Field Notes (Industry Pack)\n+ Company Logo (Industry Pack)\n\n\nAUTOSAVE PHOTOS TO iCLOUD & CAMERA ROLL\nAutosave two photos at once: one stamped with the selected overlays and the other as an original high-resolution photo.\n\n\nSORT, SEARCH, SHARE OR EMAIL\n+ Photos are sorted by time, location, distance from current location and project name.\n+ View photo direction and location in map view and navigate there.\n+ Share photos individually or as a zip file via the share sheet.\n+ Search for photos by date, date range or notes and street addresses.\n+ Email photos including the following information:\n   - Exif metadata\n   - Compass direction\n   - GPS position ± accuracy\n   - Altitude\n   - Tilt & Roll\n   - Date & time taken\n   - Street address (Industry Pack)\n   - Cardinal Directions\n   - Elevation of building facade\n   - Links to maps so the receiver can navigate there easily\n\n\n** INDUSTRY PACK **  (In-App Purchase) \"One-off charge\"\n\nEDITABLE NOTES OVERLAY\nStamp photos with \"Project name\", \"Description\" & “Watermark”. The Project Name field can be used as a job or ticket number. The Watermark field is typically used for a company or username. You can also edit these fields later.\n\nWATERMARK LOGO\nAdd your Company Logo to photos. Logo’s size, opacity, and position can be customised for both portrait and landscape photos. To get you started, a Solocator icon is included, which can be replaced.\n\nCUSTOM EXPORT FILENAME\nDefine your photo export filename from a selection of fields: Project Name, Description, Watermark, Street Address, Date/Time, Number#, Custom text field, Photo type (original/stamped), and Coordinates (DD.dddddd, UTM, UTM Bands, MGRS). \n\nAUTOSAVE OR EXPORT PHOTOS TO CLOUD STORAGE\nAutosave original and stamped photos to Google Drive, Dropbox, and OneDrive (Personal & For Business), including SharePoint Sites and Teams. You can also save photos in date or project name subfolders - automatically.\n\nPHOTO DATA in KML, KMZ & CSV\nAlong with photos, email or export photo data and notes in KML, KMZ or CSV formats. Both email and export buttons are customisable to suit your data requirements.\n\nSTREET ADDRESS & UTM/MGRS\nAdd street address to your overlay or use UTM/, UTM Bands & MGRS coordinate formats.\n\nBATCH EDIT NOTES & OVERLAY FIELDS\nSelect photos from the library and edit Project Name, Description & Watermark fields in one go.\n\nTRACK PHOTOS IN MAP VIEW\nView photos by direction, the distance between photos, area of photos taken and distance to your added markers via imported KML files or dropped pins.\n\nREFINE & LOCK GPS LOCATION\nIdeal for those working in and around buildings; to improve your GPS location. You can also use it to lock the asset position you're photographing.\n\nCOMPACT VIEW\nSwitch off Compass, Building and Street modes and only show the GPS info bar for a more compact view.\n\nVPP Customers: https://solocator.com/enterprise-app-for-mdms/\nTerms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-      "averageUserRating": 4.26877,
-      "trackId": 582584117,
-      "trackName": "Solocator - GPS Field Camera",
-      "currentVersionReleaseDate": "2026-04-04T22:19:14Z",
-      "genreIds": [
-        "6010",
-        "6008"
-      ],
-      "artistId": 505154738,
-      "artistName": "Civi Corp",
+      "minimumOsVersion": "15.0",
+      "isVppDeviceBasedLicensingEnabled": true,
       "genres": [
         "Navigation",
         "Photo & Video"
       ],
+      "bundleId": ".com.solocator.solocator",
+      "genreIds": [
+        "6010",
+        "6008"
+      ],
+      "sellerName": "Civi Corp Pty Ltd",
       "userRatingCount": 413,
       "country": "USA"
     },
@@ -397,6 +397,7 @@
         "iosUniversal"
       ],
       "isGameCenterEnabled": false,
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -526,11 +527,7 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "advisories": [],
       "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/gb/developer/civi-corp/id505154738?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/ca/6f/17ca6f14-86b5-661c-798c-dacc490907be/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/ca/6f/17ca6f14-86b5-661c-798c-dacc490907be/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/1c/5d/5a1c5dc9-e6b6-e492-b988-8fb31b09802e/pr_source.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/94/74/79947422-51b5-3189-953c-b1b09e9bc4c9/pr_source.jpg/392x696bb.jpg",
@@ -545,7 +542,11 @@
       ],
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/ca/6f/17ca6f14-86b5-661c-798c-dacc490907be/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg",
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/ca/6f/17ca6f14-86b5-661c-798c-dacc490907be/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/ca/6f/17ca6f14-86b5-661c-798c-dacc490907be/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/gb/developer/civi-corp/id505154738?uo=4",
+      "bundleId": ".com.solocator.solocator",
       "artistId": 505154738,
       "artistName": "Civi Corp",
       "genres": [
@@ -553,38 +554,37 @@
         "Photo & Video"
       ],
       "price": 0.99,
-      "releaseDate": "2012-12-09T15:12:33Z",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "sellerName": "Civi Corp Pty Ltd",
-      "trackId": 582584117,
-      "trackName": "Solocator - GPS Field Camera",
-      "primaryGenreName": "Navigation",
-      "primaryGenreId": 6010,
       "currentVersionReleaseDate": "2026-04-04T22:19:14Z",
+      "trackName": "Solocator - GPS Field Camera",
+      "trackId": 582584117,
+      "genreIds": [
+        "6010",
+        "6008"
+      ],
+      "sellerName": "Civi Corp Pty Ltd",
+      "releaseNotes": "- Bug Fix: Resolved a camera capture issue affecting some devices on iOS 18 after updating to v2.25.\n- Improvement: Refined the \"Wi-Fi Only\" upload alerts for better clarity and control.",
+      "releaseDate": "2012-12-09T15:12:33Z",
       "version": "2.26",
       "wrapperType": "software",
       "currency": "GBP",
       "description": "Solocator – The GPS Camera for Fieldwork and Photo Proof evidence. Overlay and stamp photos with location, direction, altitude, date & time taken. With the Industry Pack (in-app purchase), capture field notes including project name, photo description, company or username, and company logo.\nSolocator is trusted by professionals, government agencies, and industries worldwide for reliable photo documentation.\n\nTAILOR OVERLAY INFORMATION TO YOUR NEEDS\nCapture & stamp on your photos:\n\n+ GPS position (Latitude & Longitude in various formats) ± accuracy\n+ UTM/MGRS coordinates (Industry Pack)\n+ Street address (Industry Pack)\n+ Direction – bearing\n+ Altitude (MLS / HAE)\n+ Tilt & Roll angles\n+ Local date & time (based on GPS location)\n+ Local time zone\n+ UTC time\n+ Compass display\n+ Cardinal directions\n+ Building facade direction, e.g. \"North elevation\"\n+ Field Notes (Industry Pack)\n+ Company Logo (Industry Pack)\n\n\nAUTOSAVE PHOTOS TO iCLOUD & CAMERA ROLL\nAutosave two photos at once: one stamped with the selected overlays and the other as an original high-resolution photo.\n\n\nSORT, SEARCH, SHARE OR EMAIL\n+ Photos are sorted by time, location, distance from current location and project name.\n+ View photo direction and location in map view and navigate there.\n+ Share photos individually or as a zip file via the share sheet.\n+ Search for photos by date, date range or notes and street addresses.\n+ Email photos including the following information:\n   - Exif metadata\n   - Compass direction\n   - GPS position ± accuracy\n   - Altitude\n   - Tilt & Roll\n   - Date & time taken\n   - Street address (Industry Pack)\n   - Cardinal Directions\n   - Elevation of building facade\n   - Links to maps so the receiver can navigate there easily\n\n\n** INDUSTRY PACK **  (In-App Purchase) \"One-off charge\"\n\nEDITABLE NOTES OVERLAY\nStamp photos with \"Project name\", \"Description\" & “Watermark”. The Project Name field can be used as a job or ticket number. The Watermark field is typically used for a company or username. You can also edit these fields later.\n\nWATERMARK LOGO\nAdd your Company Logo to photos. Logo’s size, opacity, and position can be customised for both portrait and landscape photos. To get you started, a Solocator icon is included, which can be replaced.\n\nCUSTOM EXPORT FILENAME\nDefine your photo export filename from a selection of fields: Project Name, Description, Watermark, Street Address, Date/Time, Number#, Custom text field, Photo type (original/stamped), and Coordinates (DD.dddddd, UTM, UTM Bands, MGRS). \n\nAUTOSAVE OR EXPORT PHOTOS TO CLOUD STORAGE\nAutosave original and stamped photos to Google Drive, Dropbox, and OneDrive (Personal & For Business), including SharePoint Sites and Teams. You can also save photos in date or project name subfolders - automatically.\n\nPHOTO DATA in KML, KMZ & CSV\nAlong with photos, email or export photo data and notes in KML, KMZ or CSV formats. Both email and export buttons are customisable to suit your data requirements.\n\nSTREET ADDRESS & UTM/MGRS\nAdd street address to your overlay or use UTM/, UTM Bands & MGRS coordinate formats.\n\nBATCH EDIT NOTES & OVERLAY FIELDS\nSelect photos from the library and edit Project Name, Description & Watermark fields in one go.\n\nTRACK PHOTOS IN MAP VIEW\nView photos by direction, the distance between photos, area of photos taken and distance to your added markers via imported KML files or dropped pins.\n\nREFINE & LOCK GPS LOCATION\nIdeal for those working in and around buildings; to improve your GPS location. You can also use it to lock the asset position you're photographing.\n\nCOMPACT VIEW\nSwitch off Compass, Building and Street modes and only show the GPS info bar for a more compact view.\n\nVPP Customers: https://solocator.com/enterprise-app-for-mdms/\nTerms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-      "averageUserRating": 3.81081,
-      "trackCensoredName": "Solocator - GPS Field Camera",
-      "trackViewUrl": "https://apps.apple.com/gb/app/solocator-gps-field-camera/id582584117?uo=4",
-      "contentAdvisoryRating": "4+",
       "minimumOsVersion": "15.0",
       "sellerUrl": "https://solocator.com",
+      "averageUserRating": 3.81081,
       "averageUserRatingForCurrentVersion": 3.81081,
-      "userRatingCountForCurrentVersion": 37,
+      "trackCensoredName": "Solocator - GPS Field Camera",
       "languageCodesISO2A": [
         "EN"
       ],
       "fileSizeBytes": "30500864",
       "formattedPrice": "£0.99",
+      "contentAdvisoryRating": "4+",
+      "userRatingCountForCurrentVersion": 37,
+      "trackViewUrl": "https://apps.apple.com/gb/app/solocator-gps-field-camera/id582584117?uo=4",
       "trackContentRating": "4+",
-      "releaseNotes": "- Bug Fix: Resolved a camera capture issue affecting some devices on iOS 18 after updating to v2.25.\n- Improvement: Refined the \"Wi-Fi Only\" upload alerts for better clarity and control.",
-      "bundleId": ".com.solocator.solocator",
-      "genreIds": [
-        "6010",
-        "6008"
-      ],
+      "primaryGenreName": "Navigation",
+      "primaryGenreId": 6010,
+      "isVppDeviceBasedLicensingEnabled": true,
       "userRatingCount": 37,
       "country": "GBR"
     }

@@ -187,11 +187,14 @@
       "userRatingCount": 132
     },
     {
+      "isGameCenterEnabled": false,
       "screenshotUrls": [],
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/93/0a/82930aa3-a532-94b3-537c-ddf01755c66e/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/60x60bb.jpg",
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/93/0a/82930aa3-a532-94b3-537c-ddf01755c66e/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/93/0a/82930aa3-a532-94b3-537c-ddf01755c66e/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/cn/developer/nathan-jackson/id1783251260?uo=4",
       "features": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
@@ -323,14 +326,14 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/cn/developer/nathan-jackson/id1783251260?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/93/0a/82930aa3-a532-94b3-537c-ddf01755c66e/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/93/0a/82930aa3-a532-94b3-537c-ddf01755c66e/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.jpg",
       "advisories": [
         "无限制网页访问"
       ],
+      "kind": "software",
       "averageUserRatingForCurrentVersion": 4.49714,
+      "currentVersionReleaseDate": "2026-06-26T16:36:05Z",
+      "averageUserRating": 4.49714,
+      "trackCensoredName": "手表浏览器 - 腕上网络快速搜索",
       "languageCodesISO2A": [
         "EN",
         "FI",
@@ -348,36 +351,33 @@
       ],
       "fileSizeBytes": "3892224",
       "formattedPrice": "¥6.00",
-      "userRatingCountForCurrentVersion": 175,
+      "contentAdvisoryRating": "17+",
+      "trackViewUrl": "https://apps.apple.com/cn/app/%E6%89%8B%E8%A1%A8%E6%B5%8F%E8%A7%88%E5%99%A8-%E8%85%95%E4%B8%8A%E7%BD%91%E7%BB%9C%E5%BF%AB%E9%80%9F%E6%90%9C%E7%B4%A2/id6738976854?uo=4",
       "trackContentRating": "17+",
+      "bundleId": "com.tikbrowser.browser",
       "artistId": 1783251260,
       "artistName": "Nathan Jackson",
-      "genres": [
-        "工具"
-      ],
-      "sellerName": "Nathan Jackson",
+      "releaseDate": "2024-12-04T08:00:00Z",
+      "price": 6,
+      "trackId": 6738976854,
+      "trackName": "手表浏览器 - 腕上网络快速搜索",
+      "releaseNotes": "修复一些已知的问题。",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
       "genreIds": [
         "6002"
       ],
-      "price": 6,
-      "currentVersionReleaseDate": "2026-06-26T16:36:05Z",
-      "trackId": 6738976854,
-      "trackName": "手表浏览器 - 腕上网络快速搜索",
       "version": "2.8.7",
       "wrapperType": "software",
       "currency": "CNY",
       "description": "手表上的网页浏览器，一款简洁高效在Apple Watch浏览网络的应用程序，支持多种搜索引擎，轻松在手表上进行搜索，观看视频与浏览网页等。\n\n特点：\n- 自由输入想搜索的内容或URL\n- 支持多种搜索引擎，轻松切换\n- 手机与手表数据同步\n- 创建书签方便快速访问\n- 支持隐私的无痕浏览",
       "minimumOsVersion": "17.0",
-      "averageUserRating": 4.49714,
-      "trackCensoredName": "手表浏览器 - 腕上网络快速搜索",
-      "trackViewUrl": "https://apps.apple.com/cn/app/%E6%89%8B%E8%A1%A8%E6%B5%8F%E8%A7%88%E5%99%A8-%E8%85%95%E4%B8%8A%E7%BD%91%E7%BB%9C%E5%BF%AB%E9%80%9F%E6%90%9C%E7%B4%A2/id6738976854?uo=4",
-      "contentAdvisoryRating": "17+",
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
-      "releaseDate": "2024-12-04T08:00:00Z",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseNotes": "修复一些已知的问题。",
-      "bundleId": "com.tikbrowser.browser",
+      "userRatingCountForCurrentVersion": 175,
+      "sellerName": "Nathan Jackson",
+      "genres": [
+        "工具"
+      ],
       "userRatingCount": 175,
       "country": "CHN"
     }

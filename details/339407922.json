@@ -191,10 +191,11 @@
       "userRatingCount": 96
     },
     {
+      "isGameCenterEnabled": false,
       "artistViewUrl": "https://apps.apple.com/us/developer/francisco-alcala/id339407925?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/77/d4/20/77d4205a-3ef9-ae4b-1ecb-12b00b986943/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-4.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/77/d4/20/77d4205a-3ef9-ae4b-1ecb-12b00b986943/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-4.png/100x100bb.jpg",
-      "isGameCenterEnabled": false,
+      "features": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -325,7 +326,6 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "features": [],
       "advisories": [],
       "kind": "software",
       "screenshotUrls": [
@@ -338,9 +338,10 @@
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/77/d4/20/77d4205a-3ef9-ae4b-1ecb-12b00b986943/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-4.png/512x512bb.jpg",
+      "minimumOsVersion": "11.0",
+      "contentAdvisoryRating": "4+",
       "trackCensoredName": "iBend Pipe",
       "trackViewUrl": "https://apps.apple.com/us/app/ibend-pipe/id339407922?uo=4",
-      "contentAdvisoryRating": "4+",
       "averageUserRating": 4.29897,
       "artistId": 339407925,
       "artistName": "Francisco Alcala",
@@ -350,33 +351,32 @@
       ],
       "price": 3.99,
       "bundleId": "com.yourcompany.iBend-Pipe",
-      "trackId": 339407922,
-      "trackName": "iBend Pipe",
+      "genreIds": [
+        "6007",
+        "6002"
+      ],
       "releaseDate": "2009-11-16T22:52:49Z",
+      "trackName": "iBend Pipe",
+      "trackId": 339407922,
       "primaryGenreName": "Productivity",
       "primaryGenreId": 6007,
-      "isVppDeviceBasedLicensingEnabled": true,
       "sellerName": "Francisco Alcala",
+      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2018-01-02T23:54:30Z",
       "releaseNotes": "This update from Apple will improve the functionality of this app. No new features are included.\n\nBug Fixed - Offset Widget was only showing half of the controls, now all the controls are visible.",
       "version": "5.3",
       "wrapperType": "software",
       "currency": "USD",
       "description": "iBend Pipe is the best conduit bending applicaiton on an iPhone, it helps you bend it right...the first time.  \n\nIt calculates the following bends using English or Metric measurements so you don’t have to:\n\n    -Offsets Bends (specify towards an obstruction or away from an obstruction)\n    -Rolling Offsets Bends  (specify towards an obstruction or away from an obstruction)\n    -Parallel Offset Adjustment\n    -3-Bend Saddles\n    -4-Bend Saddles\n    -Segment Bends\n    -90° Bends\n    -Back to Back 90° Bends\n    -Kicked 90°s Bends\n    -Compound 90° Bends around a Round Obstruction\n    -Compound 90° Bends around a Square Obstruction\n    -Compound 90° Bends around a Rectangular Obstruction\n\n+ HOW DOES IT WORK?\nSimply slide your finger to set measurements and results are updated instantly.  There is no need to navigate through multiple screens just to get a measurement.  Easy and intuitive to use, and measurement are displayed in big font to make it easy to read.\n\n+FAST ONE SCREEN CALCULATIONS\nSimple one screen calculations that show results \"live\" and on the fly as you slide your finger to enter values in.\n\n+ACCURATE CALCULATIONS\nCenterline bending radius - based calculations are also available.  These calculations offer greater accuracy when compared to bending multiplier methods.  Preposition your bends automatically.  All bends take shrink into account so you don't have to do any math.  What's faster - bending it twice or bending it right the first time?\n\n+PROTRACTOR FUNCTION INCLUDED\nUse the included protractor function to measure the angle as you bend.  Angle will be fed directly from your input screen to save you time.\n\n+BENDER PROFILES\nAlmost 100 different bender/pipe combinations included.  You have the ability to tweak or completely modify any of the combinations to match your bender on the field.\n\n+ WHO IS IT FOR?\nIf you consider yourself a craftsman that takes pride in his work, iBend Pipe is for you.  If other \"sparkies\" come to you when they have a difficult bend, this is for you.  If you want to have a smaller \"bone\"  pile, this is for you.  If you can write your name in conduit, this is for you.  From, a  1st year inside wireman apprentice to a seasoned “old timer” this app will save you time and material.\n\nInput fractions instead of converting to decimals and get results in fractions.\n\nThanks for all the great reviews, if you have any suggestions:\nsupport@ibendpipe.com",
-      "minimumOsVersion": "11.0",
-      "averageUserRatingForCurrentVersion": 4.29897,
       "sellerUrl": "http://www.iBendPipe.com",
+      "averageUserRatingForCurrentVersion": 4.29897,
       "languageCodesISO2A": [
         "EN"
       ],
       "fileSizeBytes": "52623360",
       "formattedPrice": "$3.99",
-      "trackContentRating": "4+",
       "userRatingCountForCurrentVersion": 97,
-      "genreIds": [
-        "6007",
-        "6002"
-      ],
+      "trackContentRating": "4+",
       "userRatingCount": 97,
       "country": "USA"
     }

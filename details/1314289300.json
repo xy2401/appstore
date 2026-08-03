@@ -235,8 +235,10 @@
       "userRatingCount": 46
     },
     {
+      "features": [
+        "iosUniversal"
+      ],
       "isGameCenterEnabled": false,
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/ec/9f/87/ec9f87da-771c-c754-a4d2-47b623712d07/AppIcon-0-1x_U007emarketing-0-85-220-0-10.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/29/53/c4/2953c411-5e5e-0a9b-8e87-756949f9cb5f/mzl.suprllvx.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/de/73/2c/de732c53-9f88-0b7c-3cc9-1c8f4a32c56a/mzl.nfhxxolv.png/392x696bb.png",
@@ -252,12 +254,14 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/d9/f0/fd/d9f0fdd5-1117-599c-6b1a-8297c6d412c4/mzl.etkmpmig.png/576x768bb.png"
       ],
       "appletvScreenshotUrls": [],
-      "features": [
-        "iosUniversal"
-      ],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/ec/9f/87/ec9f87da-771c-c754-a4d2-47b623712d07/AppIcon-0-1x_U007emarketing-0-85-220-0-10.png/512x512bb.jpg",
       "advisories": [
         "Scènes fréquentes/intenses de contenu à caractère médical"
       ],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/fr/developer/mermed-bmpm/id384759618?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/ec/9f/87/ec9f87da-771c-c754-a4d2-47b623712d07/AppIcon-0-1x_U007emarketing-0-85-220-0-10.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/ec/9f/87/ec9f87da-771c-c754-a4d2-47b623712d07/AppIcon-0-1x_U007emarketing-0-85-220-0-10.png/100x100bb.jpg",
       "supportedDevices": [
         "iPad2Wifi-iPad2Wifi",
         "iPad23G-iPad23G",
@@ -422,10 +426,15 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/fr/developer/mermed-bmpm/id384759618?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/ec/9f/87/ec9f87da-771c-c754-a4d2-47b623712d07/AppIcon-0-1x_U007emarketing-0-85-220-0-10.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/ec/9f/87/ec9f87da-771c-c754-a4d2-47b623712d07/AppIcon-0-1x_U007emarketing-0-85-220-0-10.png/100x100bb.jpg",
+      "releaseNotes": "Et voici la mise à jour que vous attendiez toutes et tous, avec l’ensemble des dernières actualisions 2019 (c’était vraiment un gros travail, merci pour votre patience) !\nEn raison de la pandémie de COVID-19, des réactualisations de dernière minute ont également été apportées, en particulier sur les fiches:\n• « Inhalation d’oxygène »\n• « Lavage des mains »\n• « Solution hydroalcoolique »\n• « Lot de protection MIHC »\n• « Nettoyer et désinfecter un véhicule »\n• « Nettoyer et désinfecter le matériel »\nVous avez été très nombreux à nous faire savoir que vous avez apprécié les quiz d'autoévaluation introduits dans la version précédente; et bien vous allez être ravis d’apprendre que nous avons enrichi la banque de quiz de l’appli : répétez le test plusieurs fois pour avoir des quiz différents !\nQuelques correctifs mineurs ont également été apportés.\nUn grand Merci pour vos étoiles et vos commentaires si élogieux !\nEt bravo à vous tous, qui vous investissez dans le secours aux personnes !\nContinuez à nous faire parvenir vos avis sur https://smurbmpm.fr/contact/ et à mettre 5 étoiles à l'application, c'est le meilleur encouragement que nous puissions avoir à en poursuivre l'amélioration !",
+      "userRatingCountForCurrentVersion": 46,
+      "price": 1.99,
+      "genres": [
+        "Médecine",
+        "Références"
+      ],
+      "artistId": 384759618,
+      "artistName": "MERMED BMPM",
       "averageUserRatingForCurrentVersion": 4.52174,
       "sellerUrl": "https://smurbmpm.fr",
       "languageCodesISO2A": [
@@ -434,28 +443,14 @@
       "fileSizeBytes": "106036224",
       "formattedPrice": "1,99 €",
       "trackContentRating": "17+",
-      "userRatingCountForCurrentVersion": 46,
-      "artistId": 384759618,
-      "artistName": "MERMED BMPM",
-      "genres": [
-        "Médecine",
-        "Références"
-      ],
-      "price": 1.99,
       "bundleId": "com.mermed.gosapbmpm",
-      "primaryGenreName": "Medical",
-      "primaryGenreId": 6020,
       "sellerName": "MERMED BMPM",
-      "genreIds": [
-        "6020",
-        "6006"
-      ],
       "isVppDeviceBasedLicensingEnabled": true,
       "releaseDate": "2017-12-22T23:14:06Z",
+      "primaryGenreName": "Medical",
+      "primaryGenreId": 6020,
       "trackId": 1314289300,
       "trackName": "GOSAP BMPM",
-      "currentVersionReleaseDate": "2020-04-24T14:55:22Z",
-      "releaseNotes": "Et voici la mise à jour que vous attendiez toutes et tous, avec l’ensemble des dernières actualisions 2019 (c’était vraiment un gros travail, merci pour votre patience) !\nEn raison de la pandémie de COVID-19, des réactualisations de dernière minute ont également été apportées, en particulier sur les fiches:\n• « Inhalation d’oxygène »\n• « Lavage des mains »\n• « Solution hydroalcoolique »\n• « Lot de protection MIHC »\n• « Nettoyer et désinfecter un véhicule »\n• « Nettoyer et désinfecter le matériel »\nVous avez été très nombreux à nous faire savoir que vous avez apprécié les quiz d'autoévaluation introduits dans la version précédente; et bien vous allez être ravis d’apprendre que nous avons enrichi la banque de quiz de l’appli : répétez le test plusieurs fois pour avoir des quiz différents !\nQuelques correctifs mineurs ont également été apportés.\nUn grand Merci pour vos étoiles et vos commentaires si élogieux !\nEt bravo à vous tous, qui vous investissez dans le secours aux personnes !\nContinuez à nous faire parvenir vos avis sur https://smurbmpm.fr/contact/ et à mettre 5 étoiles à l'application, c'est le meilleur encouragement que nous puissions avoir à en poursuivre l'amélioration !",
       "version": "1.3.72",
       "wrapperType": "software",
       "currency": "EUR",
@@ -465,6 +460,11 @@
       "trackViewUrl": "https://apps.apple.com/fr/app/gosap-bmpm/id1314289300?uo=4",
       "contentAdvisoryRating": "17+",
       "minimumOsVersion": "9.0",
+      "genreIds": [
+        "6020",
+        "6006"
+      ],
+      "currentVersionReleaseDate": "2020-04-24T14:55:22Z",
       "userRatingCount": 46,
       "country": "FRA"
     }

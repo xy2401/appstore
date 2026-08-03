@@ -2,15 +2,19 @@
   "resultCount": 1,
   "results": [
     {
-      "isGameCenterEnabled": false,
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/4a/66/574a664d-46c3-4e36-65e0-c836fffef99e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "screenshotUrls": [],
-      "ipadScreenshotUrls": [],
-      "appletvScreenshotUrls": [],
       "features": [
         "iosUniversal"
       ],
+      "isGameCenterEnabled": false,
+      "screenshotUrls": [],
+      "ipadScreenshotUrls": [],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/4a/66/574a664d-46c3-4e36-65e0-c836fffef99e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "advisories": [],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/fr/developer/rexhino-kovaci/id1872995440?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/4a/66/574a664d-46c3-4e36-65e0-c836fffef99e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/4a/66/574a664d-46c3-4e36-65e0-c836fffef99e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -140,10 +144,15 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/fr/developer/rexhino-kovaci/id1872995440?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/4a/66/574a664d-46c3-4e36-65e0-c836fffef99e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/4a/66/574a664d-46c3-4e36-65e0-c836fffef99e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+      "releaseNotes": "Améliorations mineures.",
+      "userRatingCountForCurrentVersion": 1,
+      "price": 0.99,
+      "genres": [
+        "Divertissement",
+        "Style de vie"
+      ],
+      "artistId": 1872995440,
+      "artistName": "Rexhino Kovaci",
       "averageUserRatingForCurrentVersion": 5,
       "sellerUrl": "https://3367fa0c.1euroapp.pages.dev",
       "languageCodesISO2A": [
@@ -152,28 +161,14 @@
       "fileSizeBytes": "22178816",
       "formattedPrice": "0,99 €",
       "trackContentRating": "4+",
-      "userRatingCountForCurrentVersion": 1,
-      "artistId": 1872995440,
-      "artistName": "Rexhino Kovaci",
-      "genres": [
-        "Divertissement",
-        "Style de vie"
-      ],
-      "price": 0.99,
       "bundleId": "com.modex.1euro",
-      "primaryGenreName": "Entertainment",
-      "primaryGenreId": 6016,
       "sellerName": "Rexhino Kovaci",
-      "genreIds": [
-        "6016",
-        "6012"
-      ],
       "isVppDeviceBasedLicensingEnabled": true,
       "releaseDate": "2026-03-10T07:00:00Z",
+      "primaryGenreName": "Entertainment",
+      "primaryGenreId": 6016,
       "trackId": 6758916803,
       "trackName": "1 Euro — App Rien",
-      "currentVersionReleaseDate": "2026-04-27T14:49:47Z",
-      "releaseNotes": "Améliorations mineures.",
       "version": "3.0",
       "wrapperType": "software",
       "currency": "EUR",
@@ -183,6 +178,11 @@
       "trackViewUrl": "https://apps.apple.com/fr/app/1-euro-app-rien/id6758916803?uo=4",
       "contentAdvisoryRating": "4+",
       "minimumOsVersion": "15.1",
+      "genreIds": [
+        "6016",
+        "6012"
+      ],
+      "currentVersionReleaseDate": "2026-04-27T14:49:47Z",
       "userRatingCount": 1,
       "country": "FRA"
     }

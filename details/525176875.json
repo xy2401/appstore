@@ -1,5 +1,5 @@
 {
-  "resultCount": 3,
+  "resultCount": 4,
   "results": [
     {
       "artistViewUrl": "https://apps.apple.com/de/developer/adam-ratana/id525176878?uo=4",
@@ -218,10 +218,10 @@
       "userRatingCount": 118
     },
     {
+      "features": [
+        "iosUniversal"
+      ],
       "isGameCenterEnabled": false,
-      "artistViewUrl": "https://apps.apple.com/jp/developer/adam-ratana/id525176878?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/91/c5/4c91c58d-7d15-f40c-9920-6a83e4953750/sunsurveyor-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/91/c5/4c91c58d-7d15-f40c-9920-6a83e4953750/sunsurveyor-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -351,9 +351,9 @@
       ],
       "advisories": [],
       "kind": "software",
-      "features": [
-        "iosUniversal"
-      ],
+      "artistViewUrl": "https://apps.apple.com/jp/developer/adam-ratana/id525176878?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/91/c5/4c91c58d-7d15-f40c-9920-6a83e4953750/sunsurveyor-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/91/c5/4c91c58d-7d15-f40c-9920-6a83e4953750/sunsurveyor-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d5/09/58/d5095816-7b98-9baa-0f6e-6dfd0434d1e8/mzl.lxblnufc.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/5b/08/db/5b08db56-a378-03f3-8674-8ab481ee6c29/mzl.libbckmj.png/392x696bb.png",
@@ -372,27 +372,24 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/91/c5/4c91c58d-7d15-f40c-9920-6a83e4953750/sunsurveyor-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "minimumOsVersion": "16",
-      "contentAdvisoryRating": "4+",
-      "trackCensoredName": "サン·サーベイヤー (Sun Surveyor)",
-      "trackViewUrl": "https://apps.apple.com/jp/app/%E3%82%B5%E3%83%B3-%E3%82%B5%E3%83%BC%E3%83%99%E3%82%A4%E3%83%A4%E3%83%BC-sun-surveyor/id525176875?uo=4",
-      "averageUserRating": 4.13816,
       "genres": [
         "写真／ビデオ",
         "ユーティリティ"
       ],
-      "artistName": "Adam Ratana",
       "artistId": 525176878,
+      "artistName": "Adam Ratana",
       "price": 1500,
-      "trackName": "サン·サーベイヤー (Sun Surveyor)",
       "trackId": 525176875,
+      "trackName": "サン·サーベイヤー (Sun Surveyor)",
+      "releaseNotes": "2.9.1\n- SDK updates, minor fixes and tweaks.\n\n2.9\n- Added a shadow point and indicator line in the Live + Street View modules.\n- Twilight Info Panel, Ephemeris: Dawn and Dusk times now show start and end.\n- Added a preference for the Time Machine Slider startup default.\n- New more realistic moon simulation in the Ephemeris with libration shown over the year.",
+      "bundleId": "com.sunsurveyor.SunSurveyor",
       "releaseDate": "2012-05-11T23:24:46Z",
-      "primaryGenreName": "Photo & Video",
-      "primaryGenreId": 6008,
       "genreIds": [
         "6008",
         "6002"
       ],
+      "primaryGenreName": "Photo & Video",
+      "primaryGenreId": 6008,
       "sellerName": "Adam Ratana",
       "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2025-11-07T21:29:26Z",
@@ -400,8 +397,10 @@
       "wrapperType": "software",
       "currency": "JPY",
       "description": "サン·サーベイヤー(Sun Surveyor)は、太陽と月の位置(方位、高度、時間)を予測するモジュールを備えています： 3Dコンパス、マップビュー、カメラビュー（拡張現実）と詳細（天体暦）。サン·サーベイヤーは、映画や写真のロケーション·ハンティング、建築、太陽電池パネルの位置決定、ガーデニング、不動産、地学調査、その他多くの事に役立ちます！すべての日の出と日の入りに計画を！は、太陽と月の位置(方位、高度、時間)を予測するモジュールを備えています： 3Dコンパス、マップビュー、カメラビュー（拡張現実）と詳細（天体暦）。サン·サーベイヤーは、映画や写真のロケーション·ハンティング、建築、太陽電池パネルの位置決定、ガーデニング、不動産、地学調査、その他多くの事に役立ちます！すべての日の出と日の入りに計画を！\n\n以下にインタラクティブな機能を搭載しています。:\n - ゴールデンアワー、ブルーアワー、日の出、日の入、月の出と月の入を示して計画立てます。\n - 特定の場所での日の出・日の入、月を入れた撮影のための、最適な日時と角度を見つけ出せます。\n - 太陽と月の軌道を拡張現実プロジェクションで見る事ができ、太陽や月が特定の場所に位置する時間を正確に示します。\n - 地球上のどんな場所の視点からでも、1日または年間の太陽と月の運動を視覚化します。\n - どんな場所においても、夏至·冬至、春分·秋分の日の太陽の軌道を示します。\n- 天の川＆スター・トレイル機能で夜間撮影を準備\n\n特徴：\n - 太陽と月の位置·高度、日の出·日の入、影の比率、月の出·月の入、月相·輝いて見える部分の割合、トワイライトの時間、夏至·冬至·春分·秋分における太陽の軌道、ゴールデンアワー·ブルーアワー、太陽が最も高い時間\n- 天の川帯域と中心の可視化、スタートレイル可視化用のの天体コンパス\n - 3Dコンパス： 太陽と月の位置やイベント情報を、デバイスのベアリングと向きを表すコンパス上にオーバーレイする3Dプロジェクション\n - マップビュー： 太陽と月のイベント位置をインタラクティブマップ上にオーバーレイしたトップダウンビュー撮影位置をロックし、太陽と月のイベントで写真を整えられます！\n - ARカメラビュー： 携帯電話のカメラを通して、太陽と月が空のどこに位置するか、いつ建物の裏側に位置するかを示します。\n- ストリートビューのパノラマ - 選択した撮影位置でのマップビューが利用可能な場合、360度インタラクティブのパノラマが利用可能です。\n- 写真の機会 - 重要な時間帯のインタラクティブなリストで、アイデアをインスパイアするのに役立ちます。低位置での満月、天体観測のための真っ暗闇など、色々と有用です。\n- 位置検索 - 非常にパワフルなツールで、様々な設定の中で、太陽、月と天の川の中心位置を検索でき、完璧主義のプランナーの方にも有用です。\n- 撮影位置のインポートとエクスポート Google Earth の .kmz / .kml のプレイスマークのインポート、そして他のユーザーとのシェアやバックアップのためにエクスポートが可能です。\n - タイムマシーンスライダー： 1日のイベントを可視化したり、年間を通して日が長くなったり短くなったり、月の軌道が近づいたり遠のいたりするのが見れます。\n - オフライン使用（マップビューを除く）： 座標を入力し、撮影位置を保存したり開いたりして、データ接続やGPSが利用不可能な場所でもアプリは機能します。\n- 9個のホームスクリーンのウィジェット、2個のロックスクリーンのウィジェット\n - スクリーンショットと詳細の送信\n - 影の比率と投影、影の視覚化\n - ローカル、自動検出、マニュアルでの、タイムゾーンの選択\n - 偏角の埋め合わせ",
-      "averageUserRatingForCurrentVersion": 4.13816,
-      "sellerUrl": "https://www.sunsurveyor.com",
+      "trackCensoredName": "サン·サーベイヤー (Sun Surveyor)",
+      "trackViewUrl": "https://apps.apple.com/jp/app/%E3%82%B5%E3%83%B3-%E3%82%B5%E3%83%BC%E3%83%99%E3%82%A4%E3%83%A4%E3%83%BC-sun-surveyor/id525176875?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.13816,
       "languageCodesISO2A": [
         "CA",
         "CS",
@@ -429,15 +428,24 @@
       "formattedPrice": "¥1,500",
       "userRatingCountForCurrentVersion": 152,
       "trackContentRating": "4+",
-      "releaseNotes": "2.9.1\n- SDK updates, minor fixes and tweaks.\n\n2.9\n- Added a shadow point and indicator line in the Live + Street View modules.\n- Twilight Info Panel, Ephemeris: Dawn and Dusk times now show start and end.\n- Added a preference for the Time Machine Slider startup default.\n- New more realistic moon simulation in the Ephemeris with libration shown over the year.",
-      "bundleId": "com.sunsurveyor.SunSurveyor",
+      "averageUserRatingForCurrentVersion": 4.13816,
+      "minimumOsVersion": "16",
+      "sellerUrl": "https://www.sunsurveyor.com",
       "userRatingCount": 152,
       "country": "JPN"
     },
     {
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/91/c5/4c91c58d-7d15-f40c-9920-6a83e4953750/sunsurveyor-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/91/c5/4c91c58d-7d15-f40c-9920-6a83e4953750/sunsurveyor-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/fr/developer/adam-ratana/id525176878?uo=4",
       "isGameCenterEnabled": false,
-      "advisories": [],
-      "kind": "software",
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/02/92/95/02929517-65e0-2616-ebe0-79abd2a58ec4/mzl.dhcfodwh.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/2f/0f/54/2f0f543f-bb17-18e0-f0ee-de613dddb19b/mzl.ettqpjgc.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a2/70/38/a27038a4-a2d4-d507-31e6-7bc9e93d7589/mzl.vzgrjkfq.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/7e/51/9e/7e519ec8-96d9-3c07-bd08-d1b9d0e384fb/mzl.ohwhuzka.png/552x414bb.png"
+      ],
+      "appletvScreenshotUrls": [],
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/19/ed/d9/19edd9fb-f992-4e70-91ec-f5e145994070/mzl.wdzwnnce.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/64/54/38/645438d4-686e-20cf-caea-60dfa06137f0/mzl.ugqdkwxa.png/392x696bb.png",
@@ -448,17 +456,7 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a0/f4/e9/a0f4e9fc-5076-28eb-7515-8befdd9e9116/mzl.ehoqxtez.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c0/96/e4/c096e445-7376-93cd-dcb8-a5a581336c4f/mzl.oxdwgclr.png/392x696bb.png"
       ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/02/92/95/02929517-65e0-2616-ebe0-79abd2a58ec4/mzl.dhcfodwh.png/552x414bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/2f/0f/54/2f0f543f-bb17-18e0-f0ee-de613dddb19b/mzl.ettqpjgc.png/552x414bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a2/70/38/a27038a4-a2d4-d507-31e6-7bc9e93d7589/mzl.vzgrjkfq.png/552x414bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/7e/51/9e/7e519ec8-96d9-3c07-bd08-d1b9d0e384fb/mzl.ohwhuzka.png/552x414bb.png"
-      ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/91/c5/4c91c58d-7d15-f40c-9920-6a83e4953750/sunsurveyor-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/91/c5/4c91c58d-7d15-f40c-9920-6a83e4953750/sunsurveyor-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/91/c5/4c91c58d-7d15-f40c-9920-6a83e4953750/sunsurveyor-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/fr/developer/adam-ratana/id525176878?uo=4",
       "features": [
         "iosUniversal"
       ],
@@ -589,29 +587,15 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "minimumOsVersion": "16",
-      "artistId": 525176878,
-      "artistName": "Adam Ratana",
-      "trackId": 525176875,
-      "trackName": "Sun Surveyor (Soleil & Lune)",
-      "bundleId": "com.sunsurveyor.SunSurveyor",
-      "genreIds": [
-        "6008",
-        "6002"
-      ],
-      "sellerName": "Adam Ratana",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2025-11-07T21:29:26Z",
-      "releaseDate": "2012-05-11T23:24:46Z",
-      "releaseNotes": "2.9.1\n- SDK updates, minor fixes and tweaks.\n\n2.9\n- Added a shadow point and indicator line in the Live + Street View modules.\n- Twilight Info Panel, Ephemeris: Dawn and Dusk times now show start and end.\n- Added a preference for the Time Machine Slider startup default.\n- New more realistic moon simulation in the Ephemeris with libration shown over the year.",
-      "version": "2.9.1",
-      "wrapperType": "software",
-      "currency": "EUR",
-      "description": "Sun Surveyor prévoit les positions du soleil et de la lune (azimut, altitude, heure) avec ses modules : boussole 3D, vue carte, appareil photo en réalité augmentée et détails (éphémérides). Sun Surveyor est utile pour les repérages en cinéma et en photographie, pour placer un panneau solaire, pour le jardinage, l'immobilier, pour qui s'intéresse aux sciences, et plus encore ! Permet de prévoir chaque lever et coucher de soleil.\n\nUtilisez les commandes interactives pour :\n - Visualiser et anticiper l'heure dorée, l'heure bleue, le lever et le coucher du soleil, ainsi que de la lune.\n - Trouver le moment et l'angle idéaux pour des prises de vues au lever ou au coucher du soleil, ou avec la lune.\n - Voir en réalité augmentée les trajectoires du soleil et de la lune, et déterminer à quel moment ils seront à un point précis dans le ciel.\n - Visualiser les positions du soleil et de la lune au long de la journée ou sur un an pour tout endroit sur la Terre.\n - Observer les solstices d'été et d'hiver à tout endroit.\n- Préparez vos photos de nuit avec des options propres à la voie Lactée et aux filées d'étoiles.\n\nFonctions :\n - Angle et hauteur du soleil et de la lune, lever et coucher de soleil, ratio d'ombre, lever et coucher de lune, phases de la lune et illumination en %, heure du crépuscule, solstices d'été et d'hiver, equinoxes, heure dorée et heure bleue, midi solaire\n- Visualisation de la bande et du centre de la voie Lactée et boussole céleste pour les filées d'étoiles\n - Boussole 3D - une projection en 3D des positions du soleil et de la lune et des événements, superposée à une boussole représentant l'angle et l'orientation de l'appareil\n - Vue carte - Une vue de haut des positions du soleil et de la lune superposées sur une carte interactive.\n - Vue appareil photo - avec l'appareil photo du téléphone, permet de visualiser où seront le soleil et la lune, et quand ils passeront derrière un bâtiment\n- Panoramas Street View - Un panorama interactif à 360° quand disponible pour la position choisie, sur la vue carte.\n- Opportunités photo - une liste interactive des moments critiques pour inspirer et générer des idées de prise de vue comme la pleine lune bas dans le ciel durant l'heure magique, l'obscurité totale pour l'observation des étoiles et plus\n- Recherche de position - Un outil de recherche extrêmement puissant pour le soleil, la lune et la voie lactée selon différents paramètres pour le planificateur perfectionniste\n- Importation et exportation de positions - importation de fichiers Google Earth .kmz/.kml, et exportation pour les partager ou les sauvegarder\n - Curseur de temps - visualisez les événements pour une journée, ou sur une année pour voir les jours s'allonger ou raccourcir, et la trajectoire de la lune s'éloigner ou se rapprocher\n - Utilisation hors connexion (sauf vue carte) - permet d'entrer les coordonnées, d'enregistrer et d'ouvrir des positions sans utilisation de données ni gps.\n - Envoyer des captures écran et des détails\n - Ratio ombre soleil et visualisation des ombres projetées\n - Sélection du fuseau horaire local, manuel ou automatique\n - Compensation de la déclinaison magnétique",
-      "sellerUrl": "https://www.sunsurveyor.com",
-      "averageUserRatingForCurrentVersion": 4.73913,
+      "advisories": [],
+      "kind": "software",
       "averageUserRating": 4.73913,
+      "trackViewUrl": "https://apps.apple.com/fr/app/sun-surveyor-soleil-lune/id525176875?uo=4",
+      "contentAdvisoryRating": "4+",
       "trackCensoredName": "Sun Surveyor (Soleil & Lune)",
+      "releaseNotes": "2.9.1\n- SDK updates, minor fixes and tweaks.\n\n2.9\n- Added a shadow point and indicator line in the Live + Street View modules.\n- Twilight Info Panel, Ephemeris: Dawn and Dusk times now show start and end.\n- Added a preference for the Time Machine Slider startup default.\n- New more realistic moon simulation in the Ephemeris with libration shown over the year.",
+      "averageUserRatingForCurrentVersion": 4.73913,
+      "sellerUrl": "https://www.sunsurveyor.com",
       "languageCodesISO2A": [
         "CA",
         "CS",
@@ -637,12 +621,28 @@
       ],
       "fileSizeBytes": "69340160",
       "formattedPrice": "9,99 €",
-      "contentAdvisoryRating": "4+",
       "userRatingCountForCurrentVersion": 69,
-      "trackViewUrl": "https://apps.apple.com/fr/app/sun-surveyor-soleil-lune/id525176875?uo=4",
       "trackContentRating": "4+",
+      "artistId": 525176878,
+      "artistName": "Adam Ratana",
+      "bundleId": "com.sunsurveyor.SunSurveyor",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseDate": "2012-05-11T23:24:46Z",
+      "sellerName": "Adam Ratana",
+      "trackId": 525176875,
+      "trackName": "Sun Surveyor (Soleil & Lune)",
       "primaryGenreName": "Photo & Video",
       "primaryGenreId": 6008,
+      "currentVersionReleaseDate": "2025-11-07T21:29:26Z",
+      "version": "2.9.1",
+      "wrapperType": "software",
+      "currency": "EUR",
+      "description": "Sun Surveyor prévoit les positions du soleil et de la lune (azimut, altitude, heure) avec ses modules : boussole 3D, vue carte, appareil photo en réalité augmentée et détails (éphémérides). Sun Surveyor est utile pour les repérages en cinéma et en photographie, pour placer un panneau solaire, pour le jardinage, l'immobilier, pour qui s'intéresse aux sciences, et plus encore ! Permet de prévoir chaque lever et coucher de soleil.\n\nUtilisez les commandes interactives pour :\n - Visualiser et anticiper l'heure dorée, l'heure bleue, le lever et le coucher du soleil, ainsi que de la lune.\n - Trouver le moment et l'angle idéaux pour des prises de vues au lever ou au coucher du soleil, ou avec la lune.\n - Voir en réalité augmentée les trajectoires du soleil et de la lune, et déterminer à quel moment ils seront à un point précis dans le ciel.\n - Visualiser les positions du soleil et de la lune au long de la journée ou sur un an pour tout endroit sur la Terre.\n - Observer les solstices d'été et d'hiver à tout endroit.\n- Préparez vos photos de nuit avec des options propres à la voie Lactée et aux filées d'étoiles.\n\nFonctions :\n - Angle et hauteur du soleil et de la lune, lever et coucher de soleil, ratio d'ombre, lever et coucher de lune, phases de la lune et illumination en %, heure du crépuscule, solstices d'été et d'hiver, equinoxes, heure dorée et heure bleue, midi solaire\n- Visualisation de la bande et du centre de la voie Lactée et boussole céleste pour les filées d'étoiles\n - Boussole 3D - une projection en 3D des positions du soleil et de la lune et des événements, superposée à une boussole représentant l'angle et l'orientation de l'appareil\n - Vue carte - Une vue de haut des positions du soleil et de la lune superposées sur une carte interactive.\n - Vue appareil photo - avec l'appareil photo du téléphone, permet de visualiser où seront le soleil et la lune, et quand ils passeront derrière un bâtiment\n- Panoramas Street View - Un panorama interactif à 360° quand disponible pour la position choisie, sur la vue carte.\n- Opportunités photo - une liste interactive des moments critiques pour inspirer et générer des idées de prise de vue comme la pleine lune bas dans le ciel durant l'heure magique, l'obscurité totale pour l'observation des étoiles et plus\n- Recherche de position - Un outil de recherche extrêmement puissant pour le soleil, la lune et la voie lactée selon différents paramètres pour le planificateur perfectionniste\n- Importation et exportation de positions - importation de fichiers Google Earth .kmz/.kml, et exportation pour les partager ou les sauvegarder\n - Curseur de temps - visualisez les événements pour une journée, ou sur une année pour voir les jours s'allonger ou raccourcir, et la trajectoire de la lune s'éloigner ou se rapprocher\n - Utilisation hors connexion (sauf vue carte) - permet d'entrer les coordonnées, d'enregistrer et d'ouvrir des positions sans utilisation de données ni gps.\n - Envoyer des captures écran et des détails\n - Ratio ombre soleil et visualisation des ombres projetées\n - Sélection du fuseau horaire local, manuel ou automatique\n - Compensation de la déclinaison magnétique",
+      "minimumOsVersion": "16",
+      "genreIds": [
+        "6008",
+        "6002"
+      ],
       "price": 9.99,
       "genres": [
         "Photo et vidéo",
@@ -650,6 +650,223 @@
       ],
       "userRatingCount": 69,
       "country": "FRA"
+    },
+    {
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/91/c5/4c91c58d-7d15-f40c-9920-6a83e4953750/sunsurveyor-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/91/c5/4c91c58d-7d15-f40c-9920-6a83e4953750/sunsurveyor-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/de/developer/adam-ratana/id525176878?uo=4",
+      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
+      "advisories": [],
+      "supportedDevices": [
+        "iPhone5s-iPhone5s",
+        "iPadAir-iPadAir",
+        "iPadAirCellular-iPadAirCellular",
+        "iPadMiniRetina-iPadMiniRetina",
+        "iPadMiniRetinaCellular-iPadMiniRetinaCellular",
+        "iPhone6-iPhone6",
+        "iPhone6Plus-iPhone6Plus",
+        "iPadAir2-iPadAir2",
+        "iPadAir2Cellular-iPadAir2Cellular",
+        "iPadMini3-iPadMini3",
+        "iPadMini3Cellular-iPadMini3Cellular",
+        "iPhone6s-iPhone6s",
+        "iPhone6sPlus-iPhone6sPlus",
+        "iPadMini4-iPadMini4",
+        "iPadMini4Cellular-iPadMini4Cellular",
+        "iPadPro-iPadPro",
+        "iPadProCellular-iPadProCellular",
+        "iPadPro97-iPadPro97",
+        "iPadPro97Cellular-iPadPro97Cellular",
+        "iPhoneSE-iPhoneSE",
+        "iPhone7-iPhone7",
+        "iPhone7Plus-iPhone7Plus",
+        "iPad611-iPad611",
+        "iPad612-iPad612",
+        "iPad71-iPad71",
+        "iPad72-iPad72",
+        "iPad73-iPad73",
+        "iPad74-iPad74",
+        "iPhone8-iPhone8",
+        "iPhone8Plus-iPhone8Plus",
+        "iPhoneX-iPhoneX",
+        "iPad75-iPad75",
+        "iPad76-iPad76",
+        "iPhoneXS-iPhoneXS",
+        "iPhoneXSMax-iPhoneXSMax",
+        "iPhoneXR-iPhoneXR",
+        "iPad812-iPad812",
+        "iPad834-iPad834",
+        "iPad856-iPad856",
+        "iPad878-iPad878",
+        "iPadMini5-iPadMini5",
+        "iPadMini5Cellular-iPadMini5Cellular",
+        "iPadAir3-iPadAir3",
+        "iPadAir3Cellular-iPadAir3Cellular",
+        "iPhone11-iPhone11",
+        "iPhone11Pro-iPhone11Pro",
+        "iPadSeventhGen-iPadSeventhGen",
+        "iPadSeventhGenCellular-iPadSeventhGenCellular",
+        "iPhone11ProMax-iPhone11ProMax",
+        "iPhoneSESecondGen-iPhoneSESecondGen",
+        "iPadProSecondGen-iPadProSecondGen",
+        "iPadProSecondGenCellular-iPadProSecondGenCellular",
+        "iPadProFourthGen-iPadProFourthGen",
+        "iPadProFourthGenCellular-iPadProFourthGenCellular",
+        "iPhone12Mini-iPhone12Mini",
+        "iPhone12-iPhone12",
+        "iPhone12Pro-iPhone12Pro",
+        "iPhone12ProMax-iPhone12ProMax",
+        "iPadAir4-iPadAir4",
+        "iPadAir4Cellular-iPadAir4Cellular",
+        "iPadEighthGen-iPadEighthGen",
+        "iPadEighthGenCellular-iPadEighthGenCellular",
+        "iPadProThirdGen-iPadProThirdGen",
+        "iPadProThirdGenCellular-iPadProThirdGenCellular",
+        "iPadProFifthGen-iPadProFifthGen",
+        "iPadProFifthGenCellular-iPadProFifthGenCellular",
+        "iPhone13Pro-iPhone13Pro",
+        "iPhone13ProMax-iPhone13ProMax",
+        "iPhone13Mini-iPhone13Mini",
+        "iPhone13-iPhone13",
+        "iPadMiniSixthGen-iPadMiniSixthGen",
+        "iPadMiniSixthGenCellular-iPadMiniSixthGenCellular",
+        "iPadNinthGen-iPadNinthGen",
+        "iPadNinthGenCellular-iPadNinthGenCellular",
+        "iPhoneSEThirdGen-iPhoneSEThirdGen",
+        "iPadAirFifthGen-iPadAirFifthGen",
+        "iPadAirFifthGenCellular-iPadAirFifthGenCellular",
+        "iPhone14-iPhone14",
+        "iPhone14Plus-iPhone14Plus",
+        "iPhone14Pro-iPhone14Pro",
+        "iPhone14ProMax-iPhone14ProMax",
+        "iPadTenthGen-iPadTenthGen",
+        "iPadTenthGenCellular-iPadTenthGenCellular",
+        "iPadPro11FourthGen-iPadPro11FourthGen",
+        "iPadPro11FourthGenCellular-iPadPro11FourthGenCellular",
+        "iPadProSixthGen-iPadProSixthGen",
+        "iPadProSixthGenCellular-iPadProSixthGenCellular",
+        "iPhone15-iPhone15",
+        "iPhone15Plus-iPhone15Plus",
+        "iPhone15Pro-iPhone15Pro",
+        "iPhone15ProMax-iPhone15ProMax",
+        "iPadAir11M2-iPadAir11M2",
+        "iPadAir11M2Cellular-iPadAir11M2Cellular",
+        "iPadAir13M2-iPadAir13M2",
+        "iPadAir13M2Cellular-iPadAir13M2Cellular",
+        "iPadPro11M4-iPadPro11M4",
+        "iPadPro11M4Cellular-iPadPro11M4Cellular",
+        "iPadPro13M4-iPadPro13M4",
+        "iPadPro13M4Cellular-iPadPro13M4Cellular",
+        "iPhone16-iPhone16",
+        "iPhone16Plus-iPhone16Plus",
+        "iPhone16Pro-iPhone16Pro",
+        "iPhone16ProMax-iPhone16ProMax",
+        "iPadMiniA17Pro-iPadMiniA17Pro",
+        "iPadMiniA17ProCellular-iPadMiniA17ProCellular",
+        "iPhone16e-iPhone16e",
+        "iPadA16-iPadA16",
+        "iPadA16Cellular-iPadA16Cellular",
+        "iPadAir11M3-iPadAir11M3",
+        "iPadAir11M3Cellular-iPadAir11M3Cellular",
+        "iPadAir13M3-iPadAir13M3",
+        "iPadAir13M3Cellular-iPadAir13M3Cellular",
+        "iPhone17Pro-iPhone17Pro",
+        "iPhone17ProMax-iPhone17ProMax",
+        "iPhone17-iPhone17",
+        "iPhoneAir-iPhoneAir",
+        "iPadPro11M5-iPadPro11M5",
+        "iPadPro11M5Cellular-iPadPro11M5Cellular",
+        "iPadPro13M5-iPadPro13M5",
+        "iPadPro13M5Cellular-iPadPro13M5Cellular",
+        "iPhone17e-iPhone17e",
+        "iPadAir11M4-iPadAir11M4",
+        "iPadAir11M4Cellular-iPadAir11M4Cellular",
+        "iPadAir13M4-iPadAir13M4",
+        "iPadAir13M4Cellular-iPadAir13M4Cellular"
+      ],
+      "kind": "software",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/78/21/6c/78216cac-71d3-a6f8-6a86-7010a8cbe197/mzl.miiskkzr.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/83/f9/37/83f93796-8780-33c4-19b8-68a2ba695c1c/mzl.fuwyscur.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f9/79/11/f97911c8-9713-363d-e597-c977996d209b/mzl.svpstdyb.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/20/06/db/2006dbc7-8277-0c34-3788-4a99ed4bb618/mzl.jbzcpopc.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/cb/a1/63/cba16307-4cf5-e97f-b1ed-7c25e0252403/mzl.mgeilere.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/69/d1/1c/69d11c7e-2472-c859-3e5e-d6617752e45e/mzl.oglpfbcq.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/60/f5/41/60f54197-3192-49e2-0ebd-f22440a192ad/mzl.asqjaina.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/46/9a/e5/469ae5c8-2947-331d-9cfd-40fd3c7e67e9/mzl.anwvaxcr.png/392x696bb.png"
+      ],
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/5d/40/b6/5d40b67b-2fa0-53d4-75e3-e5ec19eaaac3/mzl.mdufzckl.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/5e/4c/99/5e4c99df-3ad3-2176-84ef-c383053cac80/mzl.nansopho.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/73/8d/5e/738d5e93-e283-76d7-352d-379bccc98c04/mzl.kpiusxry.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/aa/ce/3d/aace3d6e-aa35-43cc-0b4d-4d2d90acb8cb/mzl.gubtgffw.png/552x414bb.png"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/91/c5/4c91c58d-7d15-f40c-9920-6a83e4953750/sunsurveyor-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "minimumOsVersion": "16",
+      "trackViewUrl": "https://apps.apple.com/de/app/sun-surveyor-sonnenvermesser/id525176875?uo=4",
+      "contentAdvisoryRating": "4+",
+      "trackCensoredName": "Sun Surveyor (Sonnenvermesser)",
+      "averageUserRating": 4.70339,
+      "genres": [
+        "Foto und Video",
+        "Dienst­programme"
+      ],
+      "price": 9.99,
+      "artistId": 525176878,
+      "artistName": "Adam Ratana",
+      "bundleId": "com.sunsurveyor.SunSurveyor",
+      "sellerName": "Adam Ratana",
+      "genreIds": [
+        "6008",
+        "6002"
+      ],
+      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseDate": "2012-05-11T23:24:46Z",
+      "trackName": "Sun Surveyor (Sonnenvermesser)",
+      "trackId": 525176875,
+      "primaryGenreName": "Photo & Video",
+      "primaryGenreId": 6008,
+      "currentVersionReleaseDate": "2025-11-07T21:29:26Z",
+      "releaseNotes": "2.9.1\n- SDK updates, minor fixes and tweaks.\n\n2.9\n- Added a shadow point and indicator line in the Live + Street View modules.\n- Twilight Info Panel, Ephemeris: Dawn and Dusk times now show start and end.\n- Added a preference for the Time Machine Slider startup default.\n- New more realistic moon simulation in the Ephemeris with libration shown over the year.",
+      "version": "2.9.1",
+      "wrapperType": "software",
+      "currency": "EUR",
+      "description": "Sun Surveyor sagt die Positionen von Sonne & Mond (Azimut, Höhe, Zeiten) vorher, mit Modulen für Kartenansicht, Kameraansicht (Augmented Reality) und Details (Ephemeris). Sun Surveyor hilft dabei, Standorte für Film und Fotografie zu finden, Solaranlagen zu positionieren, ist nützlich im Gartenbau, beim Immobilienhandel, für geowissenschaftlich Versierte und mehr! Bereiten Sie sich auf jeden Sonnenauf- und untergang vor!\n\nVerwenden Sie interaktive Bedienelemente, um: \n- sich auf die „goldene Stunde“ vorzubereiten und diese zu visualisieren \n- den richtigen Zeitpunkt im Jahr und Winkel zu finden, um an einem Standort bei Sonnenauf- oder -untergang zu fotografieren oder zu filmen, oder um Motive mit dem Mond zu treffen \n- Sonne und Mond im Tages - oder Jahresverlauf für jeden Punkt auf der Erde zu visualisieren \n- mit der Augmented-Reality-Kameraansicht eine sphärische 360-Grad-Ansicht auf das Kamerabild zu projizieren\n- Bereiten Sie Nachtaufnahmen mit Funktionen für Milchstraße und Sternspuren vor\n\nFunktionen: \n- Peilung/Azimut und Höhe für Sonne & Mond, Sonnenauf- & -untergang, Schattenverhältnis, Mondauf- & -untergang, Mondphase & prozentuale Ausleuchtung, Dämmerungszeiten, Sommer- und Wintersonnenwendläufe, Zeiten für goldene und blaue Stunde , Wahrer Mittag\n- Visualisierungen für Milchstraßenband und -zentrum, Himmelskompass zur Visualisierung von Sternspuren\n- 3D-Kompass — Eine 3D-Projektion der Positionen von Sonne und Mond sowie von Ereignissen, überlagert auf einen Kompass, der die Ausrichtung und Neigung des Geräts in der realen Welt abbildet. \n- Kartenansicht — Eine Draufsicht auf die Positionen von Sonnen- und Mondereignissen, überlagert auf eine interaktive Karte.\n- AR-Kameraansicht — Sehen Sie durch die Kamera Ihres Geräts, wo am Himmel Sonne und Mond stehen werden, oder wann sie hinter einem Gebäude verschwinden. \n- Street-View-Panoramen — Ein interaktives 360-Grad-Panorama (sofern verfügbar) aus der Kartenansicht für Ihren gewählten Standort heraus.\n- Fotogelegenheiten — eine interaktive Liste markanter Zeitpunkte, die dabei helfen soll, zu inspirieren und Ideen für Fotos zu finden, einschließlich des die Landschaft während der magischen Stunde dominierenden Vollmonds, völliger Dunkelheit fürs Sternegucken, und mehr\n- Positionssuche — ein exterm leistungsfähiges Werkzeug zur Suche nach Positionen von Sonne, Mond und dem Zentrum der Milchstraße unter Berücksichtigung verschiedener Randbedingungen, für den perfektionistischen Planer\n- Import und Export von Standorten — Importieren Sie Google-Earth-Dateien mit Ortsmarken („*.kmz“/„*.kml“) und exportieren Sie Standorte zu Backup-Zwecken oder um sie mit Anderen zu teilen\n- „Zeitmaschine“-Schieberegler — Visualisieren Sie Ereignisse eines einzelnen Tages, oder beobachten Sie, wie die Tage im Jahresverlauf länger oder kürzer werden und der Mondlauf variiert. \n- Offline-Nutzung (außer Kartenansicht) — Geben Sie Koordinaten ein, speichern & laden Sie Standorte, ohne dass eine Datenverbindung oder GPS-Verfügbarkeit erforderlich ist. \n- Verschicken Sie Bildschirmfotos und Details. - Sonnenschattenverhältnis und –Projektion — visualisieren Sie die von der Sonne geworfenen Schatten. \n- Lokale, automatisch detektierte oder manuelle Zeitzonen-Einstellung \n- Kompensation der magnetischen Missweisung",
+      "averageUserRatingForCurrentVersion": 4.70339,
+      "sellerUrl": "https://www.sunsurveyor.com",
+      "languageCodesISO2A": [
+        "CA",
+        "CS",
+        "DA",
+        "NL",
+        "EN",
+        "FR",
+        "DE",
+        "EL",
+        "IT",
+        "JA",
+        "KO",
+        "NB",
+        "PL",
+        "PT",
+        "RU",
+        "ZH",
+        "ES",
+        "SV",
+        "TH",
+        "ZH",
+        "TR"
+      ],
+      "fileSizeBytes": "69340160",
+      "formattedPrice": "9,99 €",
+      "userRatingCountForCurrentVersion": 118,
+      "trackContentRating": "4+",
+      "userRatingCount": 118,
+      "country": "DEU"
     }
   ]
 }

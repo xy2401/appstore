@@ -191,6 +191,9 @@
       "userRatingCount": 27000
     },
     {
+      "artistViewUrl": "https://apps.apple.com/us/developer/yuca/id1460679283?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/f6/a5/30f6a5a1-9473-52d1-6287-a3d5f9710fb9/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/f6/a5/30f6a5a1-9473-52d1-6287-a3d5f9710fb9/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
       "screenshotUrls": [],
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
@@ -199,7 +202,6 @@
       "features": [
         "iosUniversal"
       ],
-      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -329,11 +331,14 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
+      "advisories": [],
       "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/us/developer/yuca/id1460679283?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/f6/a5/30f6a5a1-9473-52d1-6287-a3d5f9710fb9/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/f6/a5/30f6a5a1-9473-52d1-6287-a3d5f9710fb9/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
+      "averageUserRating": 4.81666,
+      "trackCensoredName": "Yuka - Food & Cosmetic Scanner",
+      "trackViewUrl": "https://apps.apple.com/us/app/yuka-food-cosmetic-scanner/id1092799236?uo=4",
+      "contentAdvisoryRating": "4+",
       "minimumOsVersion": "15.5",
+      "averageUserRatingForCurrentVersion": 4.81666,
       "sellerUrl": "https://yuka.io/en",
       "languageCodesISO2A": [
         "EN",
@@ -345,39 +350,34 @@
       ],
       "fileSizeBytes": "214030336",
       "formattedPrice": "Free",
+      "userRatingCountForCurrentVersion": 97114,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.81663,
-      "releaseNotes": "Yuka is now available in Brazil, Mexico and Portugal.\nBug fixes and improvements.",
-      "bundleId": "yuca.scanner",
       "genres": [
         "Health & Fitness",
         "Food & Drink"
       ],
       "artistId": 1460679283,
       "artistName": "Yuca",
-      "price": 0,
+      "bundleId": "yuca.scanner",
+      "releaseNotes": "Yuka is now available in Brazil, Mexico and Portugal.\nBug fixes and improvements.",
+      "currentVersionReleaseDate": "2026-07-07T22:45:42Z",
       "releaseDate": "2017-01-09T00:16:29Z",
-      "sellerName": "Yuca",
+      "primaryGenreName": "Health & Fitness",
+      "primaryGenreId": 6013,
+      "isVppDeviceBasedLicensingEnabled": true,
       "trackId": 1092799236,
       "trackName": "Yuka - Food & Cosmetic Scanner",
-      "genreIds": [
-        "6013",
-        "6023"
-      ],
-      "currentVersionReleaseDate": "2026-07-07T22:45:42Z",
+      "sellerName": "Yuca",
       "version": "5.2",
       "wrapperType": "software",
       "currency": "USD",
       "description": "◆ 85 MILLION USERS ◆\n\nYuka is a free mobile app that allows you to scan the barcodes of food and personal care products and instantly see their impact on your health. A rating and detailed information help you understand the analysis of each product.\n\nWhen a product has a negative impact on your health, Yuka also recommends similar but healthier alternative products.\n\n◆ A 100% INDEPENDENT PROJECT ◆\n\nYuka is a 100% independent project : product reviews and recommendations of healthier alternatives are done in an objective way. No brand or manufacturer can influence them in one way or another. Furthermore, there is no in-app advertising. You can access detailed information on our business model on our website (www.yuka.io).\n\n◆ 6 MILLION REFERENCED PRODUCTS ◆\n\nYuka established a database that contains 4 million food products and 2 million cosmetic products.\n\nEach food product is evaluated according to 3 objective criteria: nutritional quality, presence of additives and organic aspect of the product.\n\nThe method to analyse cosmetic products is based on the analysis of all the ingredients of the product. Each ingredient is assigned a risk level according to the latest scientific data.\n\n---\nTerms of use: https://yuka-app.helpdocs.io/l/en/article/2a12869y56",
-      "averageUserRating": 4.81663,
-      "trackCensoredName": "Yuka - Food & Cosmetic Scanner",
-      "trackViewUrl": "https://apps.apple.com/us/app/yuka-food-cosmetic-scanner/id1092799236?uo=4",
-      "contentAdvisoryRating": "4+",
-      "userRatingCountForCurrentVersion": 97022,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "primaryGenreName": "Health & Fitness",
-      "primaryGenreId": 6013,
-      "userRatingCount": 97022,
+      "genreIds": [
+        "6013",
+        "6023"
+      ],
+      "price": 0,
+      "userRatingCount": 97114,
       "country": "USA"
     }
   ]

@@ -176,13 +176,17 @@
       "userRatingCount": 0
     },
     {
+      "screenshotUrls": [],
+      "ipadScreenshotUrls": [],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/f1/04/96f104d5-b875-9f92-93c2-61b3fb8d3c8d/AppIcon-1x_U007epad-0-1-85-220-0.png/512x512bb.jpg",
+      "isGameCenterEnabled": false,
       "artistViewUrl": "https://apps.apple.com/us/developer/igor-vasiliev/id424401626?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/f1/04/96f104d5-b875-9f92-93c2-61b3fb8d3c8d/AppIcon-1x_U007epad-0-1-85-220-0.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/f1/04/96f104d5-b875-9f92-93c2-61b3fb8d3c8d/AppIcon-1x_U007epad-0-1-85-220-0.png/100x100bb.jpg",
       "features": [
         "iosUniversal"
       ],
-      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -314,49 +318,45 @@
       ],
       "advisories": [],
       "kind": "software",
-      "screenshotUrls": [],
-      "ipadScreenshotUrls": [],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/f1/04/96f104d5-b875-9f92-93c2-61b3fb8d3c8d/AppIcon-1x_U007epad-0-1-85-220-0.png/512x512bb.jpg",
-      "contentAdvisoryRating": "4+",
-      "trackCensoredName": "ExoSphere",
-      "trackViewUrl": "https://apps.apple.com/us/app/exosphere/id6748644082?uo=4",
-      "bundleId": "com.exosphere",
-      "averageUserRating": 4.68182,
-      "genres": [
-        "Music",
-        "Entertainment"
-      ],
-      "artistId": 424401626,
-      "artistName": "Igor Vasiliev",
-      "price": 14.99,
-      "releaseDate": "2025-12-02T08:00:00Z",
-      "primaryGenreName": "Music",
-      "primaryGenreId": 6011,
-      "genreIds": [
-        "6011",
-        "6016"
-      ],
-      "trackId": 6748644082,
-      "trackName": "ExoSphere",
-      "currentVersionReleaseDate": "2026-02-03T12:24:49Z",
-      "releaseNotes": "Added sample groups to the File Manager for organized sample management.\nAdded the Move function for assigning samples to groups or returning them to the main list.\nAdded Back navigation to switch between groups and the main sample list.\nUser sample selection now opens directly in the corresponding layer's group for faster workflow.\nImplemented automatic grouping based on sample name prefixes.\nAdded missing sample indicator \"(!)\" to the select button when the sample is no longer found.\nAdded three playback modes to the Shard generator: Granular, Oneshot, and Repeat.\nSome minor user interface improvements.\nDescription updated. Also available as a PDF file on app site.\nSeveral minor bugs were fixed.",
-      "version": "1.3",
-      "wrapperType": "software",
-      "currency": "USD",
-      "description": "ExoSphere is a creative tool for shaping continuous ambient and meditative compositions, based on five independent sound layers that merge into a seamless atmosphere. It provides an effortless way to create a foundation for ambient tracks or even a complete background piece with minimal adjustments. Designed with slow rhythmic structures in mind, it is especially suited for meditative music and calm soundscapes.\n\nAt the heart of ExoSphere are five complementary sound elements, each contributing a distinct dimension to the evolving sonic environment:\n\nCore - Deep, evolving drones that anchor the listener with resonant low frequencies, creating a grounding presence in the body.\nFlow - A layer reminiscent of an instrument, voice, or choir that forms the harmonic foundation of the composition. Gentle shifts its color and pitch, creating a subtle drifting detune that feels fluid and alive.\nGrain - Layers of stretched environmental fragments - whispers of wind, water, and space - that envelop the listener in a textured, atmospheric sense of place.\nShard – Fleeting melodic fragments that surface and dissolve unpredictably, like echoes of imagined songs, sparking shifting associations and evoking transient images.\nGlow - High, sparkling tones that flicker like light on water, bringing brightness, clarity, and a gentle radiance to the soundscape.\n\nTogether, these layers interweave into a living, breathing composition that never feels static. The result is a continuously shifting atmosphere - equally suitable as a meditative backdrop, a creative foundation for ambient production, or a complete standalone piece.\n\nEach layer in ExoSphere is sample-based, giving the user complete freedom to define the sonic palette. You can load your own samples into any of the five layers, tailoring the sound to your personal style and creating highly individual, versatile compositions. For a quick start, ExoSphere also includes a built‑in library of curated samples, offering ready‑to‑use material that can instantly generate immersive atmospheres.\n\nExoSphere offers an easy start with a minimal interface: choose a factory preset and quickly refresh it by replacing samples, adjusting presence and tone. You can create new variations with the advanced randomizer, while detailed panels provide full control for those who want deeper customization.\n\nExoSphere is a universal application for iOS and macOS. It can work on iPhone and iPad as well as Mac / MacBook with M1 chip (and later). ExoSphere works on iPhone and iPad standalone, as an Audio Unit or Inter-App Audio module, and supports Audiobus and Ableton Link. On MacOS, ExoSphere can works both as a standalone application and as an Audio unit (AUv3) with DAWs and other hosts that support AUv3 plugins. ExoSphere has a built-in detailed description of all parameters also available as PDF file on the application site.\n\nQuick start demo:\n\nhttps://youtu.be/1e2Ds24vXQQ\n\nYou can find more information on ExoSphere and other creative audio apps at:\n\nhttps://motion-soundscape.blogspot.com",
-      "minimumOsVersion": "15.6",
+      "userRatingCountForCurrentVersion": 22,
       "averageUserRatingForCurrentVersion": 4.68182,
-      "sellerUrl": "https://motion-soundscape.blogspot.com",
       "languageCodesISO2A": [
         "EN"
       ],
       "fileSizeBytes": "269795328",
       "formattedPrice": "$14.99",
-      "userRatingCountForCurrentVersion": 22,
       "trackContentRating": "4+",
+      "sellerUrl": "https://motion-soundscape.blogspot.com",
+      "currentVersionReleaseDate": "2026-02-03T12:24:49Z",
+      "releaseNotes": "Added sample groups to the File Manager for organized sample management.\nAdded the Move function for assigning samples to groups or returning them to the main list.\nAdded Back navigation to switch between groups and the main sample list.\nUser sample selection now opens directly in the corresponding layer's group for faster workflow.\nImplemented automatic grouping based on sample name prefixes.\nAdded missing sample indicator \"(!)\" to the select button when the sample is no longer found.\nAdded three playback modes to the Shard generator: Granular, Oneshot, and Repeat.\nSome minor user interface improvements.\nDescription updated. Also available as a PDF file on app site.\nSeveral minor bugs were fixed.",
+      "averageUserRating": 4.68182,
+      "trackCensoredName": "ExoSphere",
+      "trackViewUrl": "https://apps.apple.com/us/app/exosphere/id6748644082?uo=4",
+      "contentAdvisoryRating": "4+",
+      "minimumOsVersion": "15.6",
+      "artistId": 424401626,
+      "artistName": "Igor Vasiliev",
+      "genres": [
+        "Music",
+        "Entertainment"
+      ],
+      "price": 14.99,
+      "bundleId": "com.exosphere",
+      "releaseDate": "2025-12-02T08:00:00Z",
+      "genreIds": [
+        "6011",
+        "6016"
+      ],
+      "trackName": "ExoSphere",
+      "trackId": 6748644082,
+      "primaryGenreName": "Music",
+      "primaryGenreId": 6011,
       "sellerName": "Igor Vasiliev",
       "isVppDeviceBasedLicensingEnabled": true,
+      "version": "1.3",
+      "wrapperType": "software",
+      "currency": "USD",
+      "description": "ExoSphere is a creative tool for shaping continuous ambient and meditative compositions, based on five independent sound layers that merge into a seamless atmosphere. It provides an effortless way to create a foundation for ambient tracks or even a complete background piece with minimal adjustments. Designed with slow rhythmic structures in mind, it is especially suited for meditative music and calm soundscapes.\n\nAt the heart of ExoSphere are five complementary sound elements, each contributing a distinct dimension to the evolving sonic environment:\n\nCore - Deep, evolving drones that anchor the listener with resonant low frequencies, creating a grounding presence in the body.\nFlow - A layer reminiscent of an instrument, voice, or choir that forms the harmonic foundation of the composition. Gentle shifts its color and pitch, creating a subtle drifting detune that feels fluid and alive.\nGrain - Layers of stretched environmental fragments - whispers of wind, water, and space - that envelop the listener in a textured, atmospheric sense of place.\nShard – Fleeting melodic fragments that surface and dissolve unpredictably, like echoes of imagined songs, sparking shifting associations and evoking transient images.\nGlow - High, sparkling tones that flicker like light on water, bringing brightness, clarity, and a gentle radiance to the soundscape.\n\nTogether, these layers interweave into a living, breathing composition that never feels static. The result is a continuously shifting atmosphere - equally suitable as a meditative backdrop, a creative foundation for ambient production, or a complete standalone piece.\n\nEach layer in ExoSphere is sample-based, giving the user complete freedom to define the sonic palette. You can load your own samples into any of the five layers, tailoring the sound to your personal style and creating highly individual, versatile compositions. For a quick start, ExoSphere also includes a built‑in library of curated samples, offering ready‑to‑use material that can instantly generate immersive atmospheres.\n\nExoSphere offers an easy start with a minimal interface: choose a factory preset and quickly refresh it by replacing samples, adjusting presence and tone. You can create new variations with the advanced randomizer, while detailed panels provide full control for those who want deeper customization.\n\nExoSphere is a universal application for iOS and macOS. It can work on iPhone and iPad as well as Mac / MacBook with M1 chip (and later). ExoSphere works on iPhone and iPad standalone, as an Audio Unit or Inter-App Audio module, and supports Audiobus and Ableton Link. On MacOS, ExoSphere can works both as a standalone application and as an Audio unit (AUv3) with DAWs and other hosts that support AUv3 plugins. ExoSphere has a built-in detailed description of all parameters also available as PDF file on the application site.\n\nQuick start demo:\n\nhttps://youtu.be/1e2Ds24vXQQ\n\nYou can find more information on ExoSphere and other creative audio apps at:\n\nhttps://motion-soundscape.blogspot.com",
       "userRatingCount": 22,
       "country": "USA"
     }

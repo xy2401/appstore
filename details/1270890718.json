@@ -2,8 +2,10 @@
   "resultCount": 1,
   "results": [
     {
+      "features": [
+        "iosUniversal"
+      ],
       "isGameCenterEnabled": false,
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/0a/35/f9/0a35f9a2-b718-8912-0d8d-d914688a9295/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/7b/9d/f7/7b9df795-5574-cdb0-6958-7a6ca20a01ec/1781fae4-7209-42ae-8317-82605568eeec_iphone-standard-live.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/3a/2e/da/3a2eda26-2e89-7a81-8d4a-b3d746a20288/f8344046-08a0-4069-99ad-fe1ef6c9d129_iphone-standard-setlist.png/392x696bb.png",
@@ -21,10 +23,12 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/9f/23/9e/9f239e30-61bb-1649-791f-3fe649d02bd8/77ea0e4b-cb1d-4d80-8dc2-28143e9016c0_ipad-rounded-more.png/552x414bb.png"
       ],
       "appletvScreenshotUrls": [],
-      "features": [
-        "iosUniversal"
-      ],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/0a/35/f9/0a35f9a2-b718-8912-0d8d-d914688a9295/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
       "advisories": [],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/fr/developer/ryan-robinson/id1270890717?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/0a/35/f9/0a35f9a2-b718-8912-0d8d-d914688a9295/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/0a/35/f9/0a35f9a2-b718-8912-0d8d-d914688a9295/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.jpg",
       "supportedDevices": [
         "MacDesktop-MacDesktop",
         "iPhone5s-iPhone5s",
@@ -155,10 +159,14 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/fr/developer/ryan-robinson/id1270890717?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/0a/35/f9/0a35f9a2-b718-8912-0d8d-d914688a9295/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/0a/35/f9/0a35f9a2-b718-8912-0d8d-d914688a9295/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.jpg",
+      "releaseNotes": "New in AutoPad 1.10.2:\n- Update dependencies to latest versions.\n- Add right-click options for gesture-based actions on macOS (requires macOS 11).",
+      "userRatingCountForCurrentVersion": 6,
+      "price": 7.99,
+      "genres": [
+        "Musique"
+      ],
+      "artistId": 1270890717,
+      "artistName": "Ryan Robinson",
       "averageUserRatingForCurrentVersion": 4.83333,
       "languageCodesISO2A": [
         "EN",
@@ -168,26 +176,14 @@
       "fileSizeBytes": "37665792",
       "formattedPrice": "7,99 €",
       "trackContentRating": "4+",
-      "userRatingCountForCurrentVersion": 6,
-      "artistId": 1270890717,
-      "artistName": "Ryan Robinson",
-      "genres": [
-        "Musique"
-      ],
-      "price": 7.99,
       "bundleId": "ryan.AutoPad",
-      "primaryGenreName": "Music",
-      "primaryGenreId": 6011,
       "sellerName": "Ryan Robinson",
-      "genreIds": [
-        "6011"
-      ],
       "isVppDeviceBasedLicensingEnabled": true,
       "releaseDate": "2017-09-04T17:15:01Z",
+      "primaryGenreName": "Music",
+      "primaryGenreId": 6011,
       "trackId": 1270890718,
       "trackName": "AutoPad — Ambient Pad Loops",
-      "currentVersionReleaseDate": "2022-12-01T16:47:11Z",
-      "releaseNotes": "New in AutoPad 1.10.2:\n- Update dependencies to latest versions.\n- Add right-click options for gesture-based actions on macOS (requires macOS 11).",
       "version": "1.10.2",
       "wrapperType": "software",
       "currency": "EUR",
@@ -197,6 +193,10 @@
       "trackViewUrl": "https://apps.apple.com/fr/app/autopad-ambient-pad-loops/id1270890718?uo=4",
       "contentAdvisoryRating": "4+",
       "minimumOsVersion": "12.0",
+      "genreIds": [
+        "6011"
+      ],
+      "currentVersionReleaseDate": "2022-12-01T16:47:11Z",
       "userRatingCount": 6,
       "country": "FRA"
     }

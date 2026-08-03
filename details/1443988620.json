@@ -201,10 +201,13 @@
       "userRatingCount": 1656
     },
     {
+      "isGameCenterEnabled": false,
       "artistViewUrl": "https://apps.apple.com/us/developer/cross-utility-ltd/id1252015437?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/a4/ca/aca4cafb-ab1d-347f-0bdf-8aa08cbe1232/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/a4/ca/aca4cafb-ab1d-347f-0bdf-8aa08cbe1232/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
-      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "MacDesktop-MacDesktop",
         "iPhone5s-iPhone5s",
@@ -335,9 +338,6 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "features": [
-        "iosUniversal"
-      ],
       "advisories": [],
       "kind": "software",
       "screenshotUrls": [
@@ -356,9 +356,10 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/a4/ca/aca4cafb-ab1d-347f-0bdf-8aa08cbe1232/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "minimumOsVersion": "13.0",
+      "contentAdvisoryRating": "4+",
       "trackCensoredName": "Quantumult X",
       "trackViewUrl": "https://apps.apple.com/us/app/quantumult-x/id1443988620?uo=4",
-      "contentAdvisoryRating": "4+",
       "averageUserRating": 3.8113,
       "artistId": 1252015437,
       "artistName": "Cross Utility Ltd",
@@ -368,22 +369,25 @@
       ],
       "price": 9.99,
       "bundleId": "com.crossutility.quantumult-x",
-      "trackId": 1443988620,
-      "trackName": "Quantumult X",
+      "genreIds": [
+        "6002",
+        "6026"
+      ],
       "releaseDate": "2019-10-11T07:00:00Z",
+      "trackName": "Quantumult X",
+      "trackId": 1443988620,
       "primaryGenreName": "Utilities",
       "primaryGenreId": 6002,
-      "isVppDeviceBasedLicensingEnabled": true,
       "sellerName": "Cross Utility Ltd",
+      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-05-21T02:17:03Z",
       "releaseNotes": "- Add support for AnyTLS proxy protocol.\n- Bug fixes and other minor improvements.",
       "version": "1.6.0",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Quantumult completely rebuilt from scratch, and includes a lots of awesome new features!\n\nQuantumult X is a powerful network tool for web developers and users who need to customize their proxies.\n\nFor web develpers:\n- HTTP activity can record the whole HTTP request and response including body(HTTP debug should be enabled).\n- The MitM HTTP decryption can work for the traffics from TUN interface(MitM should be enabled).\n- HTTP rewrite with URL 302/307 redirect or request header/body modification or response header/body modification(Rewrite should be enabled).\n- Customized DNS settings for specific domains(IPv4 or IPv6),  only can be edited in configuration profile.\n\nFor users who need to customize their proxies:\n- Supports shadowsocks proxy protocol.\n- Supports shadowsocks with obfs-tls or obfs-http plugins.\n- Supports shadowsocks over websocket and tls(server side should be deployed by v2ray-core).\n- Supports UDP relay if the server supports it.\n- Supports different policies for network request by using customized filters(host, host suffix, host keyword...).\n\nPrivacy Policy: https://quantumult.app/x/privacy/\nContact Us: support@quantumult.app",
-      "minimumOsVersion": "13.0",
-      "averageUserRatingForCurrentVersion": 3.8113,
       "sellerUrl": "https://quantumult.app/x",
+      "averageUserRatingForCurrentVersion": 3.8113,
       "languageCodesISO2A": [
         "EN",
         "ZH",
@@ -391,12 +395,8 @@
       ],
       "fileSizeBytes": "60488704",
       "formattedPrice": "$9.99",
-      "trackContentRating": "4+",
       "userRatingCountForCurrentVersion": 1664,
-      "genreIds": [
-        "6002",
-        "6026"
-      ],
+      "trackContentRating": "4+",
       "userRatingCount": 1664,
       "country": "USA"
     }

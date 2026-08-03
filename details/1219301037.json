@@ -221,12 +221,6 @@
       "userRatingCount": 13073
     },
     {
-      "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [],
-      "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/0a/96/f9/0a96f922-4e77-c3a7-075b-5f6f4ac77290/pr_source.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/6d/e1/21/6de121ff-3c57-9a7c-2f10-915d79c408b4/pr_source.png/392x696bb.png",
@@ -241,9 +235,7 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/9e/90/7d9e90ec-8363-d83c-c321-1262a68fcc2f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/us/developer/microsoft-corporation/id298856275?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/9e/90/7d9e90ec-8363-d83c-c321-1262a68fcc2f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/9e/90/7d9e90ec-8363-d83c-c321-1262a68fcc2f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -373,30 +365,17 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "bundleId": "com.microsoft.PlannerMobile",
+      "features": [
+        "iosUniversal"
+      ],
+      "advisories": [],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/us/developer/microsoft-corporation/id298856275?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/9e/90/7d9e90ec-8363-d83c-c321-1262a68fcc2f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/9e/90/7d9e90ec-8363-d83c-c321-1262a68fcc2f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
       "minimumOsVersion": "17.0",
-      "price": 0,
-      "genres": [
-        "Productivity"
-      ],
-      "artistId": 298856275,
-      "artistName": "Microsoft Corporation",
-      "currentVersionReleaseDate": "2026-07-20T12:53:04Z",
       "releaseNotes": "Bug fixes and performance improvements.",
-      "genreIds": [
-        "6007"
-      ],
-      "primaryGenreName": "Productivity",
-      "primaryGenreId": 6007,
-      "sellerName": "Microsoft Corporation",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "version": "1.17.18",
-      "wrapperType": "software",
-      "currency": "USD",
-      "description": "Microsoft Planner requires an eligible Office 365 work or school subscription.  This app does not support Office 365 personal accounts (for example: name@outlook.com or name@hotmail.com).  If you are not sure about your company’s subscription or the services you have access to, please contact your IT department.\n\nPlanner provides a simple, visual way to organize teamwork. Planner makes it easy for your team to create new plans, organize and assign tasks, share files, chat about what you’re working on, and get updates on progress.\n\n-- Organize work visually --\nEach plan has its own board, where you can organize tasks into buckets. You can categorize tasks based on their status or on whom they’re assigned to. To update the status or change assignments, just drag and drop tasks between columns.\n\n-- Visibility --\nThe My Tasks view provides a comprehensive list of all your tasks and their status across all your plans. When working together on a plan, team members always know who is working on what.\n\n-- Collaborate --\nBuilt for Office 365, Planner lets you work together on the same tasks, attach captured photos directly to them, and even have conversations around tasks without switching between apps. With Planner, all your team’s discussions and deliverables stay with the plan and don’t get locked away across disparate applications.\n\n-- Works across devices --\nPlanner works across all your devices. And with Planner, everyone is always on the same page. Continue conversations and updates tasks while on-the-go or at your desk.\n\nTerms of service: https://go.microsoft.com/fwlink/?linkid=846830\nPrivacy policy: https://go.microsoft.com/fwlink/?LinkId=521839\n\nTo learn more, please visit https://go.microsoft.com/fwlink/?linkid=849067\n\nThe Microsoft Planner app will request permission to access your photos and your camera: When you try to attach a photo to a Planner task, the app requests permission to access your Photos app in order to select images. If you choose to take a photo to attach to a Planner task, the app will request permission to access your Camera app.",
-      "averageUserRatingForCurrentVersion": 4.63499,
-      "formattedPrice": "Free",
-      "fileSizeBytes": "165495808",
+      "averageUserRatingForCurrentVersion": 4.63442,
       "languageCodesISO2A": [
         "CA",
         "HR",
@@ -428,16 +407,37 @@
         "UK",
         "VI"
       ],
-      "userRatingCountForCurrentVersion": 13090,
+      "fileSizeBytes": "165495808",
+      "formattedPrice": "Free",
+      "userRatingCountForCurrentVersion": 13097,
       "trackContentRating": "4+",
-      "averageUserRating": 4.63499,
+      "genres": [
+        "Productivity"
+      ],
+      "artistId": 298856275,
+      "artistName": "Microsoft Corporation",
+      "price": 0,
+      "trackId": 1219301037,
+      "trackName": "Microsoft Planner",
+      "bundleId": "com.microsoft.PlannerMobile",
+      "genreIds": [
+        "6007"
+      ],
+      "releaseDate": "2017-05-18T04:57:29Z",
+      "sellerName": "Microsoft Corporation",
+      "primaryGenreName": "Productivity",
+      "primaryGenreId": 6007,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "version": "1.17.18",
+      "wrapperType": "software",
+      "currency": "USD",
+      "description": "Microsoft Planner requires an eligible Office 365 work or school subscription.  This app does not support Office 365 personal accounts (for example: name@outlook.com or name@hotmail.com).  If you are not sure about your company’s subscription or the services you have access to, please contact your IT department.\n\nPlanner provides a simple, visual way to organize teamwork. Planner makes it easy for your team to create new plans, organize and assign tasks, share files, chat about what you’re working on, and get updates on progress.\n\n-- Organize work visually --\nEach plan has its own board, where you can organize tasks into buckets. You can categorize tasks based on their status or on whom they’re assigned to. To update the status or change assignments, just drag and drop tasks between columns.\n\n-- Visibility --\nThe My Tasks view provides a comprehensive list of all your tasks and their status across all your plans. When working together on a plan, team members always know who is working on what.\n\n-- Collaborate --\nBuilt for Office 365, Planner lets you work together on the same tasks, attach captured photos directly to them, and even have conversations around tasks without switching between apps. With Planner, all your team’s discussions and deliverables stay with the plan and don’t get locked away across disparate applications.\n\n-- Works across devices --\nPlanner works across all your devices. And with Planner, everyone is always on the same page. Continue conversations and updates tasks while on-the-go or at your desk.\n\nTerms of service: https://go.microsoft.com/fwlink/?linkid=846830\nPrivacy policy: https://go.microsoft.com/fwlink/?LinkId=521839\n\nTo learn more, please visit https://go.microsoft.com/fwlink/?linkid=849067\n\nThe Microsoft Planner app will request permission to access your photos and your camera: When you try to attach a photo to a Planner task, the app requests permission to access your Photos app in order to select images. If you choose to take a photo to attach to a Planner task, the app will request permission to access your Camera app.",
+      "averageUserRating": 4.63442,
       "trackCensoredName": "Microsoft Planner",
       "trackViewUrl": "https://apps.apple.com/us/app/microsoft-planner/id1219301037?uo=4",
       "contentAdvisoryRating": "4+",
-      "releaseDate": "2017-05-18T04:57:29Z",
-      "trackId": 1219301037,
-      "trackName": "Microsoft Planner",
-      "userRatingCount": 13090,
+      "currentVersionReleaseDate": "2026-07-20T12:53:04Z",
+      "userRatingCount": 13097,
       "country": "USA"
     }
   ]

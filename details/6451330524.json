@@ -2,8 +2,10 @@
   "resultCount": 1,
   "results": [
     {
+      "features": [
+        "iosUniversal"
+      ],
       "isGameCenterEnabled": false,
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/a4/ce/73a4cedf-2163-e2e1-ccf3-6a3cd103fcaa/MyAppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/05/dd/ff/05ddffcf-e6b5-fdbe-35e2-872d18783c7e/eae1a041-f2fe-4aef-9eb9-cb322f671741_Iphone_5.5.png/392x696bb.png"
       ],
@@ -11,10 +13,12 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7f/6d/98/7f6d982a-9635-1e74-e1ca-55238cb5982b/df727f6e-fc8b-451a-a8bc-5af66803d6cc_Frame_17.png/576x768bb.png"
       ],
       "appletvScreenshotUrls": [],
-      "features": [
-        "iosUniversal"
-      ],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/a4/ce/73a4cedf-2163-e2e1-ccf3-6a3cd103fcaa/MyAppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
       "advisories": [],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/fr/developer/yevhen-tretiakov/id1592732760?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/a4/ce/73a4cedf-2163-e2e1-ccf3-6a3cd103fcaa/MyAppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/a4/ce/73a4cedf-2163-e2e1-ccf3-6a3cd103fcaa/MyAppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
       "supportedDevices": [
         "MacDesktop-MacDesktop",
         "iPhone5s-iPhone5s",
@@ -145,10 +149,15 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/fr/developer/yevhen-tretiakov/id1592732760?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/a4/ce/73a4cedf-2163-e2e1-ccf3-6a3cd103fcaa/MyAppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/a4/ce/73a4cedf-2163-e2e1-ccf3-6a3cd103fcaa/MyAppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
+      "releaseNotes": "Améliorations de performance et corrections de bugs.",
+      "userRatingCountForCurrentVersion": 12,
+      "price": 1.99,
+      "genres": [
+        "Utilitaires",
+        "Productivité"
+      ],
+      "artistId": 1592732760,
+      "artistName": "Yevhen Tretiakov",
       "averageUserRatingForCurrentVersion": 4.33333,
       "languageCodesISO2A": [
         "EN"
@@ -156,28 +165,14 @@
       "fileSizeBytes": "7991296",
       "formattedPrice": "1,99 €",
       "trackContentRating": "4+",
-      "userRatingCountForCurrentVersion": 12,
-      "artistId": 1592732760,
-      "artistName": "Yevhen Tretiakov",
-      "genres": [
-        "Utilitaires",
-        "Productivité"
-      ],
-      "price": 1.99,
       "bundleId": "me.swifter.BlockShorts",
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
       "sellerName": "Yevhen Tretiakov",
-      "genreIds": [
-        "6002",
-        "6007"
-      ],
       "isVppDeviceBasedLicensingEnabled": true,
       "releaseDate": "2023-08-28T07:00:00Z",
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
       "trackId": 6451330524,
       "trackName": "Shorts Blocker for YouTube",
-      "currentVersionReleaseDate": "2026-06-30T23:15:29Z",
-      "releaseNotes": "Améliorations de performance et corrections de bugs.",
       "version": "2.3",
       "wrapperType": "software",
       "currency": "EUR",
@@ -187,6 +182,11 @@
       "trackViewUrl": "https://apps.apple.com/fr/app/shorts-blocker-for-youtube/id6451330524?uo=4",
       "contentAdvisoryRating": "4+",
       "minimumOsVersion": "15.4",
+      "genreIds": [
+        "6002",
+        "6007"
+      ],
+      "currentVersionReleaseDate": "2026-06-30T23:15:29Z",
       "userRatingCount": 12,
       "country": "FRA"
     }

@@ -195,10 +195,12 @@
       "userRatingCount": 1622
     },
     {
-      "isGameCenterEnabled": false,
       "artistViewUrl": "https://apps.apple.com/us/developer/doug-fales/id1375794328?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/40/bd/ca40bdbd-c75e-1d17-baaf-f975979721bf/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/40/bd/ca40bdbd-c75e-1d17-baaf-f975979721bf/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/100x100bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -328,9 +330,6 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "features": [
-        "iosUniversal"
-      ],
       "advisories": [],
       "kind": "software",
       "screenshotUrls": [
@@ -355,11 +354,14 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/40/bd/ca40bdbd-c75e-1d17-baaf-f975979721bf/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/512x512bb.jpg",
-      "minimumOsVersion": "14.0",
+      "isGameCenterEnabled": false,
+      "bundleId": "com.passcams.passwarrior",
       "trackCensoredName": "PassWarrior",
       "trackViewUrl": "https://apps.apple.com/us/app/passwarrior/id1375794329?uo=4",
       "contentAdvisoryRating": "4+",
       "averageUserRating": 4.83283,
+      "minimumOsVersion": "14.0",
+      "price": 2.99,
       "artistId": 1375794328,
       "artistName": "Doug Fales",
       "genres": [
@@ -369,20 +371,15 @@
       "releaseDate": "2018-10-11T10:53:48Z",
       "trackName": "PassWarrior",
       "trackId": 1375794329,
+      "primaryGenreName": "Travel",
+      "primaryGenreId": 6003,
+      "sellerName": "Doug Fales",
       "isVppDeviceBasedLicensingEnabled": true,
-      "bundleId": "com.passcams.passwarrior",
-      "genreIds": [
-        "6003",
-        "6001"
-      ],
       "currentVersionReleaseDate": "2025-02-24T16:23:42Z",
-      "releaseNotes": "Fixes a crash which occurred when viewing details for sites that have just a single camera.",
       "version": "1.8.3",
       "wrapperType": "software",
       "currency": "USD",
       "description": "PassWarrior will help you keep tabs on Montana road conditions when you need to know before you go. With PassWarrior, you can:\n\n• instantly locate the closest road cams\n• follow the dash cams of all active MDT plows\n• watch timelapse videos from your nearest mountain pass\n• get the latest sensor readings and snow and ice warnings\n• view nearby incidents\n• read up on active construction zones\n\nPassWarrior presents the same info available on the MDT/ITD websites, but in one place, and tailored to your location.",
-      "averageUserRatingForCurrentVersion": 4.83283,
-      "sellerUrl": "https://www.passwarrior.com",
       "languageCodesISO2A": [
         "EN"
       ],
@@ -390,10 +387,13 @@
       "formattedPrice": "$2.99",
       "userRatingCountForCurrentVersion": 1669,
       "trackContentRating": "4+",
-      "primaryGenreName": "Travel",
-      "primaryGenreId": 6003,
-      "price": 2.99,
-      "sellerName": "Doug Fales",
+      "sellerUrl": "https://www.passwarrior.com",
+      "averageUserRatingForCurrentVersion": 4.83283,
+      "genreIds": [
+        "6003",
+        "6001"
+      ],
+      "releaseNotes": "Fixes a crash which occurred when viewing details for sites that have just a single camera.",
       "userRatingCount": 1669,
       "country": "USA"
     }

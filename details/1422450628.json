@@ -2,10 +2,13 @@
   "resultCount": 1,
   "results": [
     {
+      "isGameCenterEnabled": false,
       "artistViewUrl": "https://apps.apple.com/us/developer/after-hours-data-systems-llc/id573215695?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/77/c7/9777c727-4c18-2383-ebc2-b8fa10ad996a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/77/c7/9777c727-4c18-2383-ebc2-b8fa10ad996a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
-      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -135,9 +138,6 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "features": [
-        "iosUniversal"
-      ],
       "advisories": [],
       "kind": "software",
       "screenshotUrls": [],
@@ -152,9 +152,10 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/77/c7/9777c727-4c18-2383-ebc2-b8fa10ad996a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "minimumOsVersion": "13.0",
+      "contentAdvisoryRating": "4+",
       "trackCensoredName": "608 Practice",
       "trackViewUrl": "https://apps.apple.com/us/app/608-practice/id1422450628?uo=4",
-      "contentAdvisoryRating": "4+",
       "averageUserRating": 3.89744,
       "artistId": 573215695,
       "artistName": "After Hours Data Systems LLC",
@@ -163,32 +164,31 @@
       ],
       "price": 12.99,
       "bundleId": "com.afterhoursds.EPA608Practice",
-      "trackId": 1422450628,
-      "trackName": "608 Practice",
+      "genreIds": [
+        "6017"
+      ],
       "releaseDate": "2018-08-13T22:45:38Z",
+      "trackName": "608 Practice",
+      "trackId": 1422450628,
       "primaryGenreName": "Education",
       "primaryGenreId": 6017,
-      "isVppDeviceBasedLicensingEnabled": true,
       "sellerName": "After Hours Data Systems LLC",
+      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-04-17T20:58:33Z",
       "releaseNotes": "• App now available in Spanish (Latin American): full UI and the entire question bank translated\n• Language toggle in About; follows your device language by default\n• Search works in both English and Spanish\n• New bookmark filter in Cram and Study, so you can review just your flagged questions\n• Backup & Restore in About: save or load your progress from a file",
       "version": "64",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Prepare for your Section 608 certification exam with the most comprehensive study app available. Whether you're going for Type I, Type II, Type III, or Universal certification, 608 Practice has everything you need to pass.\n\nHundreds of Practice Questions Study from a massive question bank covering all four exam sections: Core, Type I, Type II, and Type III. Every question has four answer options and a detailed explanation, just like the real exam. New questions are added regularly.\n\nPressure-Temperature Chart Questions Practice reading PT charts the way you will on the real exam. An interactive chart covering R-22, R-134a, R-410A, R-404A, and R-32 is built right into the questions. Calculate superheat, subcooling, identify refrigerants, and compare pressures across different refrigerants.\n\n5 Study Modes Per Section\n\nCram Mode - Read through every question with the correct answer and explanation shown. Absorb the material before testing yourself.\nStudy - Answer questions at your own pace with instant feedback. Your position is saved so you can pick up where you left off.\nSmart Practice - The app tracks what you get wrong and builds focused sessions around your weak spots. 75% of questions come from your weakest areas, 25% from material you haven't seen yet. Questions you master (3 correct in a row) are excluded so you spend time where it matters.\nMock Exam - Simulate the real exam with 25 random questions. 72% required to pass, just like the actual certification test. Review your answers with full explanations after each attempt.\nMost Missed - See which questions you get wrong most often, organized by section. As you master questions, they leave the list automatically.\nTrack Your Progress\n\nStudy streak counter to keep you motivated\nPer-section readiness scores\nMastery tracking for every question (3 correct answers in a row = mastered)\nBest test scores by section\nFull history of practice and test results\nStudy Reminders Set daily or weekly notifications to keep your study habit consistent. Choose your preferred time and frequency.\n\nWorks Offline All questions are stored on your device. Study anywhere, anytime, with no internet required. Questions sync automatically in the background when updates are available.\n\nBuilt for the Real Exam\n\n72% passing score, matching the actual Section 608 exam\n25 questions per test, same as the certification\nFour answer options per question, just like the real thing\nCovers all current regulations including the AIM Act and 2026 rule changes\nPrivacy First No account required. No personal data collected. All your progress stays on your device.",
-      "minimumOsVersion": "13.0",
-      "averageUserRatingForCurrentVersion": 3.89744,
       "sellerUrl": "https://epa608app.com",
+      "averageUserRatingForCurrentVersion": 3.89744,
       "languageCodesISO2A": [
         "EN"
       ],
       "fileSizeBytes": "28411904",
       "formattedPrice": "$12.99",
-      "trackContentRating": "4+",
       "userRatingCountForCurrentVersion": 117,
-      "genreIds": [
-        "6017"
-      ],
+      "trackContentRating": "4+",
       "userRatingCount": 117,
       "country": "USA"
     }

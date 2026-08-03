@@ -3,9 +3,10 @@
   "results": [
     {
       "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/01/f1/5201f100-6032-46a9-078c-0a181fb0b193/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "screenshotUrls": [],
+      "ipadScreenshotUrls": [],
+      "appletvScreenshotUrls": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -137,50 +138,49 @@
       ],
       "advisories": [],
       "kind": "software",
-      "screenshotUrls": [],
-      "ipadScreenshotUrls": [],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/01/f1/5201f100-6032-46a9-078c-0a181fb0b193/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "artistViewUrl": "https://apps.apple.com/cn/developer/%E5%B3%B0-%E4%BA%8E/id6772845425?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/01/f1/5201f100-6032-46a9-078c-0a181fb0b193/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/01/f1/5201f100-6032-46a9-078c-0a181fb0b193/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
-      "averageUserRating": 5,
-      "releaseNotes": "新增 FMO 官方备份 ZIP 导出功能\n支持将备份 ZIP 直接恢复到 FMO 设备\n新增 ADIF 转 FMO 备份包工具\n优化最近 20 个通联的实时显示逻辑\n优化深色模式下的显示效果\n默认开启通联播报，便于及时发现语音流状态\n修复若干移动端界面适配问题",
-      "minimumOsVersion": "15.0",
+      "features": [
+        "iosUniversal"
+      ],
+      "userRatingCountForCurrentVersion": 1,
+      "averageUserRatingForCurrentVersion": 5,
+      "sellerUrl": "https://github.com/54dashayu/FMO-Dashboard",
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "fileSizeBytes": "10747904",
+      "formattedPrice": "¥6.00",
+      "trackContentRating": "4+",
+      "artistId": 6772845425,
+      "artistName": "峰 于",
       "genres": [
         "工具"
       ],
-      "artistId": 6772845425,
-      "artistName": "峰 于",
-      "trackId": 6772919070,
-      "trackName": "FMO- Dashboard",
+      "price": 6,
       "genreIds": [
         "6002"
       ],
-      "bundleId": "net.bh1jss.fmodashboard.ios",
+      "sellerName": "峰 于",
+      "releaseDate": "2026-05-29T07:00:00Z",
+      "isVppDeviceBasedLicensingEnabled": true,
       "primaryGenreName": "Utilities",
       "primaryGenreId": 6002,
-      "sellerName": "峰 于",
-      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseNotes": "新增 FMO 官方备份 ZIP 导出功能\n支持将备份 ZIP 直接恢复到 FMO 设备\n新增 ADIF 转 FMO 备份包工具\n优化最近 20 个通联的实时显示逻辑\n优化深色模式下的显示效果\n默认开启通联播报，便于及时发现语音流状态\n修复若干移动端界面适配问题",
       "currentVersionReleaseDate": "2026-06-28T17:55:51Z",
       "version": "2.0.3",
       "wrapperType": "software",
       "currency": "CNY",
       "description": "FMO-Dashboard 是为业余无线电 FMO 用户设计的实时仪表盘与通联日志工具。\n\n它将 FMO 设备中的通联信息整理成更适合手机和平板查看的界面，帮助你在值守、收听和回顾通联记录时，更快了解当前网络中正在发生什么。\n\n主要功能：\n\n实时仪表盘\n打开 App 后可查看当前或最近发言呼号、QTH、网格、相对方位、距离、当前中继以及最近通联列表。\n\n通联日志\n支持同步和导入 FMO 通联日志，按时间查看通联记录，并展示呼号、时间、QTH、模式、中继、留言等信息。\n\n老朋友回溯\n自动识别历史通联过的呼号，支持查看与某个呼号的历史通联记录，方便快速回忆过往通联情况。\n\n呼号语音播报\n支持通联播报和新呼号提示，呼号可按 NATO 字母解释法播报，适合值守时减少频繁看屏幕的需求。\n\n多地址管理\n可保存多个 FMO 地址，支持局域网 IP、fmo.local 以及可访问的远程地址，便于在不同网络环境中使用。\n\n数据管理\n支持 FMO 日志导入、同步、备份和导出，方便在不同设备间保留和整理通联数据。\n\n本 App 在BH5HSJ的“FMOLogs”项目基础上开发，不是 FMO 官方应用，不提供无线电发射功能。它用于连接用户自己的 FMO 设备或查看用户导入的通联日志数据。",
-      "userRatingCountForCurrentVersion": 1,
-      "sellerUrl": "https://github.com/54dashayu/FMO-Dashboard",
-      "fileSizeBytes": "10747904",
-      "formattedPrice": "¥6.00",
-      "trackContentRating": "4+",
-      "languageCodesISO2A": [
-        "EN"
-      ],
-      "averageUserRatingForCurrentVersion": 5,
       "trackCensoredName": "FMO- Dashboard",
       "trackViewUrl": "https://apps.apple.com/cn/app/fmo-dashboard/id6772919070?uo=4",
       "contentAdvisoryRating": "4+",
-      "releaseDate": "2026-05-29T07:00:00Z",
-      "price": 6,
+      "averageUserRating": 5,
+      "bundleId": "net.bh1jss.fmodashboard.ios",
+      "minimumOsVersion": "15.0",
+      "trackId": 6772919070,
+      "trackName": "FMO- Dashboard",
       "userRatingCount": 1,
       "country": "CHN"
     }

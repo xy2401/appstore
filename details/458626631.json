@@ -2,8 +2,10 @@
   "resultCount": 1,
   "results": [
     {
+      "features": [
+        "iosUniversal"
+      ],
       "isGameCenterEnabled": false,
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/1c/83/c01c8322-c505-19d3-0bdb-b16853e44708/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a6/be/90/a6be90f4-e33d-a1db-009d-b0f247ae202d/fa63acc2-587b-4918-80d2-90f4f36ab2d1_petit_robert_iphone_1242x2208_2.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/8c/2a/fd/8c2afd35-9bdc-c6b1-1302-ad0202404a99/51ba0156-4724-450d-9339-6dfc277c6387_petit_robert_iphone_1242x2208_3.png/392x696bb.png",
@@ -27,10 +29,12 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/6c/29/9d/6c299d19-9f20-81e6-d680-293416369e09/a291e7d4-05af-463a-bebc-17602e756ea4_petit_robert_ipad_2048x2732_10.png/576x768bb.png"
       ],
       "appletvScreenshotUrls": [],
-      "features": [
-        "iosUniversal"
-      ],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/1c/83/c01c8322-c505-19d3-0bdb-b16853e44708/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
       "advisories": [],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/fr/developer/diagonal-sas/id1756738778?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/1c/83/c01c8322-c505-19d3-0bdb-b16853e44708/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/1c/83/c01c8322-c505-19d3-0bdb-b16853e44708/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -160,10 +164,15 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/fr/developer/diagonal-sas/id1756738778?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/1c/83/c01c8322-c505-19d3-0bdb-b16853e44708/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/1c/83/c01c8322-c505-19d3-0bdb-b16853e44708/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.jpg",
+      "releaseNotes": "- Amélioration de la compatibilité iOS 26.",
+      "userRatingCountForCurrentVersion": 53,
+      "price": 59.99,
+      "genres": [
+        "Références",
+        "Éducation"
+      ],
+      "artistId": 1756738778,
+      "artistName": "Diagonal SAS",
       "averageUserRatingForCurrentVersion": 3.60377,
       "sellerUrl": "https://www.lerobert.com/applications-mobiles.html",
       "languageCodesISO2A": [
@@ -172,28 +181,14 @@
       "fileSizeBytes": "120997888",
       "formattedPrice": "59,99 €",
       "trackContentRating": "4+",
-      "userRatingCountForCurrentVersion": 53,
-      "artistId": 1756738778,
-      "artistName": "Diagonal SAS",
-      "genres": [
-        "Références",
-        "Éducation"
-      ],
-      "price": 59.99,
       "bundleId": "com.rainero.PR1-iPad",
-      "primaryGenreName": "Reference",
-      "primaryGenreId": 6006,
       "sellerName": "DIAGONAL, SAS",
-      "genreIds": [
-        "6006",
-        "6017"
-      ],
       "isVppDeviceBasedLicensingEnabled": true,
       "releaseDate": "2011-09-20T07:00:00Z",
+      "primaryGenreName": "Reference",
+      "primaryGenreId": 6006,
       "trackId": 458626631,
       "trackName": "Dictionnaire Le Petit Robert",
-      "currentVersionReleaseDate": "2026-07-07T18:38:05Z",
-      "releaseNotes": "- Amélioration de la compatibilité iOS 26.",
       "version": "12.1",
       "wrapperType": "software",
       "currency": "EUR",
@@ -203,6 +198,11 @@
       "trackViewUrl": "https://apps.apple.com/fr/app/dictionnaire-le-petit-robert/id458626631?uo=4",
       "contentAdvisoryRating": "4+",
       "minimumOsVersion": "12.0",
+      "genreIds": [
+        "6006",
+        "6017"
+      ],
+      "currentVersionReleaseDate": "2026-07-07T18:38:05Z",
       "userRatingCount": 53,
       "country": "FRA"
     }

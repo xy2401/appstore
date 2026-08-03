@@ -200,10 +200,12 @@
       "userRatingCount": 63649
     },
     {
-      "isGameCenterEnabled": false,
       "artistViewUrl": "https://apps.apple.com/us/developer/nasa/id355542146?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/65/6f/1d/656f1d35-e1fe-fb88-9f62-64fa3fa0ade6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.jpeg/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/65/6f/1d/656f1d35-e1fe-fb88-9f62-64fa3fa0ade6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.jpeg/100x100bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -333,9 +335,6 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "features": [
-        "iosUniversal"
-      ],
       "advisories": [],
       "kind": "software",
       "screenshotUrls": [
@@ -356,11 +355,14 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/65/6f/1d/656f1d35-e1fe-fb88-9f62-64fa3fa0ade6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.jpeg/512x512bb.jpg",
-      "minimumOsVersion": "15.6",
+      "isGameCenterEnabled": false,
+      "bundleId": "gov.nasa.NASA",
       "trackCensoredName": "NASA",
       "trackViewUrl": "https://apps.apple.com/us/app/nasa/id334325516?uo=4",
       "contentAdvisoryRating": "4+",
       "averageUserRating": 4.82584,
+      "minimumOsVersion": "15.6",
+      "price": 0,
       "artistId": 355542146,
       "artistName": "NASA",
       "genres": [
@@ -370,20 +372,15 @@
       "releaseDate": "2009-10-23T07:00:00Z",
       "trackName": "NASA",
       "trackId": 334325516,
+      "primaryGenreName": "Education",
+      "primaryGenreId": 6017,
+      "sellerName": "NASA",
       "isVppDeviceBasedLicensingEnabled": true,
-      "bundleId": "gov.nasa.NASA",
-      "genreIds": [
-        "6017",
-        "6006"
-      ],
       "currentVersionReleaseDate": "2026-07-28T16:46:21Z",
-      "releaseNotes": "- Fixed bugs in Skyview, including when exiting the scene\n- Fixed layouts in tabs\n- Other minor fixes",
       "version": "6.9",
       "wrapperType": "software",
       "currency": "USD",
       "description": "The redesigned NASA App unlocks access to the new NASA+ video streaming service, plus all the latest NASA images, news, mission information, podcasts, and interactive augmented reality experiences to explore -- putting the universe at your fingertips!\n\nWith the NASA App, you'll be able to:\n•\tExplore with unlimited access to NASA+, featuring all of NASA's official live coverage and original on-demand video series. No subscription required.\n•\tEasily view over 21,000 of the latest NASA images\n•\tRate images and explore all of the highest rated ones\n•\tRead all the latest NASA news and feature articles\n•\tGet the latest updates on Artemis, the James Webb Space Telescope, and other exciting NASA missions. \n•\tListen to our podcasts featuring astronauts and experts who take you on a tour of the galaxy without ever leaving Earth.\n•\tSet an alert for when the International Space Station will fly over your location and use the Sky View feature to help you locate the station during the visible pass\n•\tExperience our rovers and rockets up close and personal with augmented reality. \n•\tAnd so much more!\n\nDownload the updated NASA App now!",
-      "averageUserRatingForCurrentVersion": 4.82584,
-      "sellerUrl": "http://www.nasa.gov/nasa-app",
       "languageCodesISO2A": [
         "EN"
       ],
@@ -391,10 +388,13 @@
       "formattedPrice": "Free",
       "userRatingCountForCurrentVersion": 63723,
       "trackContentRating": "4+",
-      "primaryGenreName": "Education",
-      "primaryGenreId": 6017,
-      "price": 0,
-      "sellerName": "NASA",
+      "sellerUrl": "http://www.nasa.gov/nasa-app",
+      "averageUserRatingForCurrentVersion": 4.82584,
+      "genreIds": [
+        "6017",
+        "6006"
+      ],
+      "releaseNotes": "- Fixed bugs in Skyview, including when exiting the scene\n- Fixed layouts in tabs\n- Other minor fixes",
       "userRatingCount": 63723,
       "country": "USA"
     }

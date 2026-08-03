@@ -210,14 +210,11 @@
       "userRatingCount": 206389
     },
     {
-      "artistViewUrl": "https://apps.apple.com/gb/developer/appmind/id727690868?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/a3/da/98a3dac1-8e5c-127d-10fd-9e2678d1405c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/a3/da/98a3dac1-8e5c-127d-10fd-9e2678d1405c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
+      "advisories": [],
       "features": [
         "iosUniversal"
       ],
-      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -348,6 +345,8 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
       "kind": "software",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/a3/da/98a3dac1-8e5c-127d-10fd-9e2678d1405c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/a3/da/98a3dac1-8e5c-127d-10fd-9e2678d1405c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
       "screenshotUrls": [],
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/18/f3/e218f358-e873-6037-7b4e-8a63de35f2e3/mzl.kcfhknfq.png/576x768bb.png",
@@ -357,37 +356,30 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/a3/da/98a3dac1-8e5c-127d-10fd-9e2678d1405c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "minimumOsVersion": "15.6",
-      "trackCensoredName": "Radio Stations UK - Live FM",
-      "trackViewUrl": "https://apps.apple.com/gb/app/radio-stations-uk-live-fm/id1052718459?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.78693,
-      "genreIds": [
-        "6011",
-        "6016"
-      ],
-      "artistId": 727690868,
-      "artistName": "AppMind",
+      "artistViewUrl": "https://apps.apple.com/gb/developer/appmind/id727690868?uo=4",
+      "price": 9.99,
       "genres": [
         "Music",
         "Entertainment"
       ],
-      "releaseDate": "2015-11-19T05:46:16Z",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "sellerName": "APPMIND - SOFTWARE TECHNOLOGIES LDA",
+      "artistId": 727690868,
+      "artistName": "AppMind",
       "bundleId": "com.appmind.ukradios",
+      "sellerName": "APPMIND - SOFTWARE TECHNOLOGIES LDA",
       "primaryGenreName": "Music",
       "primaryGenreId": 6011,
+      "releaseDate": "2015-11-19T05:46:16Z",
       "trackId": 1052718459,
       "trackName": "Radio Stations UK - Live FM",
-      "userRatingCountForCurrentVersion": 206711,
       "currentVersionReleaseDate": "2026-05-26T10:18:10Z",
-      "releaseNotes": "- Optimisation and performance enhancement for new iPhones;\n- Bug fixes",
       "version": "3.0.0",
       "wrapperType": "software",
       "currency": "GBP",
       "description": "*** LIVE RADIO BROADCAST ***\n*** 800 UK RADIO STATIONS IN 1 APP ***\n\nListen to the best radio stations in the UK in our application. You can choose from sports, news, music and other radio stations.\n\nHeart, magic, classic fm,capital London, kiss FM, planet rock , LBC , jazz fm, Smooth Radio London, kisstory, talksport, absolute 80s, House Nation UK, Ministry of Sound Radio, 100 Chill, Gold London etc.\n\nNow you can listen to the best radio stations in your country when you are abroad.\n\nWith Radio UK you can:\n- Listen to the best radio stations in the UK;\n- Share with others via Facebook, Twitter, SMS or Email;\n- Listen radios in the background or via bluetooth.\n\nThere may be some stations that do not work because their stream is offline.This application is optimized for 3G networks and Wi-Fi.\n\nRadio UK gives you the best experience when listening to radio stations in the UK.",
-      "averageUserRatingForCurrentVersion": 4.78693,
+      "contentAdvisoryRating": "4+",
+      "averageUserRatingForCurrentVersion": 4.78686,
+      "averageUserRating": 4.78686,
+      "sellerUrl": "https://www.radio-uk.co.uk",
       "languageCodesISO2A": [
         "AR",
         "DA",
@@ -412,10 +404,18 @@
       ],
       "fileSizeBytes": "109503488",
       "formattedPrice": "£9.99",
+      "userRatingCountForCurrentVersion": 206786,
       "trackContentRating": "4+",
-      "sellerUrl": "https://www.radio-uk.co.uk",
-      "price": 9.99,
-      "userRatingCount": 206711,
+      "trackCensoredName": "Radio Stations UK - Live FM",
+      "trackViewUrl": "https://apps.apple.com/gb/app/radio-stations-uk-live-fm/id1052718459?uo=4",
+      "minimumOsVersion": "15.6",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "genreIds": [
+        "6011",
+        "6016"
+      ],
+      "releaseNotes": "- Optimisation and performance enhancement for new iPhones;\n- Bug fixes",
+      "userRatingCount": 206786,
       "country": "GBR"
     }
   ]

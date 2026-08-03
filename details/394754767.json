@@ -2,8 +2,10 @@
   "resultCount": 1,
   "results": [
     {
+      "features": [
+        "iosUniversal"
+      ],
       "isGameCenterEnabled": false,
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/91/80/1f/91801f94-da37-a43d-671d-2595f9074fdf/AppIcon-1x_U007emarketing-85-220-6.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/3f/e4/92/3fe492ef-00d8-345d-49e2-a96fbe2c1983/d1dfadbd-c18a-4587-b5d4-c916368754f8_main-55.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/52/7f/f2/527ff2f4-2bef-f453-5d21-2b473384edb3/cc9379d5-5a4b-4f02-8847-f4a1beee9e78_page2-55.png/392x696bb.png",
@@ -19,10 +21,12 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/06/ee/cd/06eecd2a-af96-37d0-5275-7515bcb29aaf/84843b7a-04aa-4289-b000-b0aba87464da_5.png/552x414bb.png"
       ],
       "appletvScreenshotUrls": [],
-      "features": [
-        "iosUniversal"
-      ],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/91/80/1f/91801f94-da37-a43d-671d-2595f9074fdf/AppIcon-1x_U007emarketing-85-220-6.png/512x512bb.jpg",
       "advisories": [],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/fr/developer/contrasonic-ab/id394754771?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/91/80/1f/91801f94-da37-a43d-671d-2595f9074fdf/AppIcon-1x_U007emarketing-85-220-6.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/91/80/1f/91801f94-da37-a43d-671d-2595f9074fdf/AppIcon-1x_U007emarketing-85-220-6.png/100x100bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -152,10 +156,15 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/fr/developer/contrasonic-ab/id394754771?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/91/80/1f/91801f94-da37-a43d-671d-2595f9074fdf/AppIcon-1x_U007emarketing-85-220-6.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/91/80/1f/91801f94-da37-a43d-671d-2595f9074fdf/AppIcon-1x_U007emarketing-85-220-6.png/100x100bb.jpg",
+      "releaseNotes": "Fixes a bug where the keyboard wouldn't show up if the app had been launched from portrait mode on an iPad.",
+      "userRatingCountForCurrentVersion": 2,
+      "price": 5.99,
+      "genres": [
+        "Musique",
+        "Éducation"
+      ],
+      "artistId": 394754771,
+      "artistName": "Contrasonic AB",
       "averageUserRatingForCurrentVersion": 5,
       "sellerUrl": "http://chordbot.com",
       "languageCodesISO2A": [
@@ -164,28 +173,14 @@
       "fileSizeBytes": "18940928",
       "formattedPrice": "5,99 €",
       "trackContentRating": "4+",
-      "userRatingCountForCurrentVersion": 2,
-      "artistId": 394754771,
-      "artistName": "Contrasonic AB",
-      "genres": [
-        "Musique",
-        "Éducation"
-      ],
-      "price": 5.99,
       "bundleId": "com.chordbot",
-      "primaryGenreName": "Music",
-      "primaryGenreId": 6011,
       "sellerName": "Contrasonic AB",
-      "genreIds": [
-        "6011",
-        "6017"
-      ],
       "isVppDeviceBasedLicensingEnabled": true,
       "releaseDate": "2010-10-05T02:52:42Z",
+      "primaryGenreName": "Music",
+      "primaryGenreId": 6011,
       "trackId": 394754767,
       "trackName": "Chordbot",
-      "currentVersionReleaseDate": "2022-05-25T13:17:03Z",
-      "releaseNotes": "Fixes a bug where the keyboard wouldn't show up if the app had been launched from portrait mode on an iPad.",
       "version": "3.1.10",
       "wrapperType": "software",
       "currency": "EUR",
@@ -195,6 +190,11 @@
       "trackViewUrl": "https://apps.apple.com/fr/app/chordbot/id394754767?uo=4",
       "contentAdvisoryRating": "4+",
       "minimumOsVersion": "12.0",
+      "genreIds": [
+        "6011",
+        "6017"
+      ],
+      "currentVersionReleaseDate": "2022-05-25T13:17:03Z",
       "userRatingCount": 2,
       "country": "FRA"
     }

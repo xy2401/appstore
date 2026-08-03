@@ -233,7 +233,6 @@
       "userRatingCount": 9
     },
     {
-      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/8c/09/f1/8c09f151-f760-43b6-9ba9-09265acc9b41/6533e8b6-13a5-4c42-b5da-739a184e65a0_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2020-08-06_at_12.55.51.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/27/14/9c/27149c8e-8fd1-7c85-31bf-8110d2044fc9/c5e9a898-b5f2-49df-96f3-533e9d9e7449_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2020-08-06_at_12.56.11.png/392x696bb.png",
@@ -253,14 +252,10 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/16/29/5a/16295aff-e3b6-012a-b4dd-491e8034ec41/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg",
+      "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
       ],
-      "advisories": [],
-      "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/fr/developer/ecole-de-navigation-francaise/id455573709?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/16/29/5a/16295aff-e3b6-012a-b4dd-491e8034ec41/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/16/29/5a/16295aff-e3b6-012a-b4dd-491e8034ec41/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/100x100bb.jpg",
       "supportedDevices": [
         "iPad2Wifi-iPad2Wifi",
         "iPad23G-iPad23G",
@@ -425,26 +420,39 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "releaseNotes": "Mise en conformité avec la réforme de l'examen à partir du 1er juin 2022. Passage à 40 questions au lieu de 30 avec toujours 5 erreurs possibles.",
+      "advisories": [],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/fr/developer/ecole-de-navigation-francaise/id455573709?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/16/29/5a/16295aff-e3b6-012a-b4dd-491e8034ec41/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/16/29/5a/16295aff-e3b6-012a-b4dd-491e8034ec41/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/100x100bb.jpg",
       "averageUserRatingForCurrentVersion": 4.55556,
-      "userRatingCountForCurrentVersion": 9,
-      "trackContentRating": "4+",
       "languageCodesISO2A": [
         "EN"
       ],
       "fileSizeBytes": "66763776",
       "formattedPrice": "5,99 €",
-      "trackId": 455573706,
-      "trackName": "Permis bateau côtier ENF",
+      "userRatingCountForCurrentVersion": 9,
+      "trackContentRating": "4+",
+      "minimumOsVersion": "9.0",
+      "currentVersionReleaseDate": "2022-05-29T09:47:57Z",
       "artistId": 455573709,
       "artistName": "ECOLE DE NAVIGATION FRANCAISE",
+      "genres": [
+        "Éducation"
+      ],
       "price": 5.99,
+      "bundleId": "com.progilia.PermisCotier",
+      "releaseNotes": "Mise en conformité avec la réforme de l'examen à partir du 1er juin 2022. Passage à 40 questions au lieu de 30 avec toujours 5 erreurs possibles.",
       "releaseDate": "2011-08-15T19:23:54Z",
+      "trackId": 455573706,
+      "trackName": "Permis bateau côtier ENF",
+      "genreIds": [
+        "6017"
+      ],
       "primaryGenreName": "Education",
       "primaryGenreId": 6017,
       "sellerName": "ECOLE DE NAVIGATION FRANCAISE",
       "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2022-05-29T09:47:57Z",
       "version": "4.3",
       "wrapperType": "software",
       "currency": "EUR",
@@ -453,14 +461,6 @@
       "trackViewUrl": "https://apps.apple.com/fr/app/permis-bateau-c%C3%B4tier-enf/id455573706?uo=4",
       "contentAdvisoryRating": "4+",
       "averageUserRating": 4.55556,
-      "minimumOsVersion": "9.0",
-      "genreIds": [
-        "6017"
-      ],
-      "bundleId": "com.progilia.PermisCotier",
-      "genres": [
-        "Éducation"
-      ],
       "userRatingCount": 9,
       "country": "FRA"
     }

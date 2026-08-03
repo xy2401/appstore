@@ -2,11 +2,10 @@
   "resultCount": 1,
   "results": [
     {
-      "screenshotUrls": [],
-      "ipadScreenshotUrls": [],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/8f/51/b58f5120-0cb3-cb53-e8a9-1a6a1cf5d2cf/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -136,52 +135,53 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "features": [
-        "iosUniversal"
-      ],
+      "advisories": [],
       "kind": "software",
+      "screenshotUrls": [],
+      "ipadScreenshotUrls": [],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/8f/51/b58f5120-0cb3-cb53-e8a9-1a6a1cf5d2cf/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "artistViewUrl": "https://apps.apple.com/jp/developer/e-works-jp/id6788243380?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/8f/51/b58f5120-0cb3-cb53-e8a9-1a6a1cf5d2cf/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/8f/51/b58f5120-0cb3-cb53-e8a9-1a6a1cf5d2cf/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
-      "advisories": [],
+      "minimumOsVersion": "15.0",
+      "artistId": 6788243380,
+      "artistName": "E-WORKS JP",
+      "genres": [
+        "グラフィック／デザイン"
+      ],
+      "price": 1350,
+      "bundleId": "com.nems.nems",
+      "genreIds": [
+        "6027"
+      ],
+      "releaseNotes": "・ラスター/ベクターペン内に直線モードボタン追加。\n・直線モードボタン切替、及び拡大縮小のキーボードショートカットの追加。\n・キーボード矢印キーでのIME送りに対応。\n・テキスト入力画面内のCtrl+矢印キーでの移動に対応",
+      "primaryGenreName": "Graphics & Design",
+      "primaryGenreId": 6027,
+      "sellerName": "E-WORKS",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseDate": "2026-07-16T07:00:00Z",
+      "trackId": 6788243378,
+      "trackName": "Nem-S",
+      "currentVersionReleaseDate": "2026-07-28T19:29:39Z",
+      "version": "0.9.10",
+      "wrapperType": "software",
+      "currency": "JPY",
+      "description": "Nem-S（ネムス）は、漫画づくりにおいてネーム作成専用ソフトです。\n漫画家本人が現場の経験をもとに開発。ネーム制作の「間」をなくす、実用特化のツールです。\nマルチプラットフォーム対応で制作場所を選びません\n【ネーム専用だからできること】\n■ 全ページ一覧表示・見開き編集\n全ページを切り替えることなく１画面でシームレスに管理できます。\nページの行き来のストレスがなく、全体のリズムと流れをすぐに把握できます。\n列数の切替にも対応。ページの追加・削除・入れ替えもスムーズです。\n■ テキスト編集\n改行によるテキストレイヤー管理に対応。改行位置で自動的にレイヤーやページを分割します。\nページをまたぐセリフの調整も効率的。\n■ 書き出し（PSD / PNG / PDF）\n出力した画像とテキストをCLIP STUDIO PAINTなどの描画ソフトで\n読み込むことで簡単に次工程に引き継ぐ事ができます。\n■ 台本エディタ\nシーン・コマの階層構造で台詞・キャラクター名を管理。\n台本から直接ネームへ反映できるため、構成の整理と作画の往復がシームレスになります。\n【こんな方に】\n・ネーム制作に汎用ノートアプリやドローソフトを使っていて、不便を感じている方\n・全ページの流れを確認しながらテキストを調整したい方\n・台本からネームまで一貫して管理したい方\n・CLIP STUDIO PAINT等でペン入れを行い、ネームは別ツールで作成している方\n【特徴】\n・買い切り型（サブスクリプション不要）\n・漫画家が作った、漫画を書く全ての人のためのツール\n――\nNem-Sは、ネーム制作の「ページを開いて閉じて」の繰り返しをなくし、\nテキスト調整の手間を減らし、台本から出力までを一貫して行える環境を提供します。",
+      "sellerUrl": "https://nem-s.com/",
+      "averageUserRating": 3.5,
+      "averageUserRatingForCurrentVersion": 3.5,
+      "userRatingCountForCurrentVersion": 2,
       "languageCodesISO2A": [
         "JA"
       ],
       "fileSizeBytes": "31804416",
       "formattedPrice": "¥1,350",
       "trackContentRating": "4+",
-      "sellerUrl": "https://nem-s.com/",
-      "averageUserRatingForCurrentVersion": 4,
-      "userRatingCountForCurrentVersion": 1,
-      "price": 1350,
-      "bundleId": "com.nems.nems",
-      "primaryGenreName": "Graphics & Design",
-      "primaryGenreId": 6027,
-      "trackId": 6788243378,
-      "trackName": "Nem-S",
-      "sellerName": "E-WORKS",
-      "releaseDate": "2026-07-16T07:00:00Z",
-      "currentVersionReleaseDate": "2026-07-28T19:29:39Z",
-      "releaseNotes": "・ラスター/ベクターペン内に直線モードボタン追加。\n・直線モードボタン切替、及び拡大縮小のキーボードショートカットの追加。\n・キーボード矢印キーでのIME送りに対応。\n・テキスト入力画面内のCtrl+矢印キーでの移動に対応",
-      "version": "0.9.10",
-      "wrapperType": "software",
-      "currency": "JPY",
-      "description": "Nem-S（ネムス）は、漫画づくりにおいてネーム作成専用ソフトです。\n漫画家本人が現場の経験をもとに開発。ネーム制作の「間」をなくす、実用特化のツールです。\nマルチプラットフォーム対応で制作場所を選びません\n【ネーム専用だからできること】\n■ 全ページ一覧表示・見開き編集\n全ページを切り替えることなく１画面でシームレスに管理できます。\nページの行き来のストレスがなく、全体のリズムと流れをすぐに把握できます。\n列数の切替にも対応。ページの追加・削除・入れ替えもスムーズです。\n■ テキスト編集\n改行によるテキストレイヤー管理に対応。改行位置で自動的にレイヤーやページを分割します。\nページをまたぐセリフの調整も効率的。\n■ 書き出し（PSD / PNG / PDF）\n出力した画像とテキストをCLIP STUDIO PAINTなどの描画ソフトで\n読み込むことで簡単に次工程に引き継ぐ事ができます。\n■ 台本エディタ\nシーン・コマの階層構造で台詞・キャラクター名を管理。\n台本から直接ネームへ反映できるため、構成の整理と作画の往復がシームレスになります。\n【こんな方に】\n・ネーム制作に汎用ノートアプリやドローソフトを使っていて、不便を感じている方\n・全ページの流れを確認しながらテキストを調整したい方\n・台本からネームまで一貫して管理したい方\n・CLIP STUDIO PAINT等でペン入れを行い、ネームは別ツールで作成している方\n【特徴】\n・買い切り型（サブスクリプション不要）\n・漫画家が作った、漫画を書く全ての人のためのツール\n――\nNem-Sは、ネーム制作の「ページを開いて閉じて」の繰り返しをなくし、\nテキスト調整の手間を減らし、台本から出力までを一貫して行える環境を提供します。",
       "trackCensoredName": "Nem-S",
       "trackViewUrl": "https://apps.apple.com/jp/app/nem-s/id6788243378?uo=4",
       "contentAdvisoryRating": "4+",
-      "averageUserRating": 4,
-      "minimumOsVersion": "15.0",
-      "artistId": 6788243380,
-      "artistName": "E-WORKS JP",
-      "genreIds": [
-        "6027"
-      ],
-      "isVppDeviceBasedLicensingEnabled": true,
-      "genres": [
-        "グラフィック／デザイン"
-      ],
-      "userRatingCount": 1,
+      "userRatingCount": 2,
       "country": "JPN"
     }
   ]

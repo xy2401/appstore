@@ -203,18 +203,12 @@
       "userRatingCount": 101
     },
     {
-      "artistViewUrl": "https://apps.apple.com/de/developer/weissfly-ug-haftungsbeschrankt/id1615223295?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/a3/67/76a3675f-505d-68db-5fae-85d93c1ece98/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/a3/67/76a3675f-505d-68db-5fae-85d93c1ece98/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
-      "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
       ],
-      "advisories": [
-        "Selten/schwach ausgeprägt: Horror-/Gruselszenen",
-        "Selten/schwach ausgeprägt: realistisch dargestellte Gewalt"
-      ],
-      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/de/developer/weissfly-ug-haftungsbeschrankt/id1615223295?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/a3/67/76a3675f-505d-68db-5fae-85d93c1ece98/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/a3/67/76a3675f-505d-68db-5fae-85d93c1ece98/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/f6/c1/6d/f6c16de1-daf4-f413-1741-8e515cc915eb/327d1cbd-7cfe-4a04-a223-203e3ad89628_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2023-01-04_at_23.45.29.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/1d/6d/37/1d6d376f-de8b-d354-43b1-6f3c385ae0c1/702844fa-32d2-453d-8728-7d6946364492_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2023-01-04_at_23.51.16.png/392x696bb.png",
@@ -233,6 +227,12 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/a3/67/76a3675f-505d-68db-5fae-85d93c1ece98/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "isGameCenterEnabled": false,
+      "advisories": [
+        "Selten/schwach ausgeprägt: Horror-/Gruselszenen",
+        "Selten/schwach ausgeprägt: realistisch dargestellte Gewalt"
+      ],
+      "kind": "software",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -362,45 +362,45 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
+      "bundleId": "com.hwn.community",
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "averageUserRatingForCurrentVersion": 4.48076,
+      "minimumOsVersion": "15.1",
       "trackCensoredName": "Harzer Wandernadel Community",
       "trackViewUrl": "https://apps.apple.com/de/app/harzer-wandernadel-community/id1620616675?uo=4",
       "contentAdvisoryRating": "12+",
       "averageUserRating": 4.48076,
-      "averageUserRatingForCurrentVersion": 4.48076,
-      "artistName": "weissfly UG (haftungsbeschrankt)",
-      "artistId": 1615223295,
-      "genres": [
-        "Reisen",
-        "Gesundheit und Fitness"
-      ],
-      "price": 5.99,
-      "bundleId": "com.hwn.community",
-      "releaseNotes": "- Hinweis-Seiten beim App-Start sind jetzt scrollbar — auf kleinen Geräten oder mit großer Schrift wurde der Text bisher teilweise abgeschnitten.\n- Sonderstempelstelle HWN 9925 „Jagdschloss Windenhütte\" als abgebaut markiert.\n- Sonderstempelstelle HWN 9969 „Aholzwarte\" wegen Wartungsarbeiten als vorübergehend abgebaut markiert — der Stempel ist damit für zugehörige Themenhefte nicht relevant.\n- Bild von HWN 50 „Walzenhütte\" aktualisiert.",
-      "genreIds": [
-        "6003",
-        "6013"
-      ],
-      "releaseDate": "2022-09-05T07:00:00Z",
-      "primaryGenreName": "Travel",
-      "primaryGenreId": 6003,
-      "sellerName": "weissfly UG",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-07-29T20:30:38Z",
-      "version": "1.17.455",
-      "wrapperType": "software",
-      "currency": "EUR",
-      "description": "Community Projekt der Harzer Wandernadel:\n- Beschreibungen, Bilder, Koordinaten, Anfahrtsbeschreibungen zu Wanderzielen/Stempelstellen der Harzer Wandernadel\n- Darstellung des Wanderfortschrittes pro Heft und in Bezug auf die Leistungsabzeichen\n- Nachstempeln vom Sofa oder \"echtes\" Stempeln vor Ort\n- Suche von Stempelstellen per HWN-Name, -Nummer oder nahegelegener Ortschaft\n- Entfernung zu nächsten Stempelstellen\n- Visualisierung der bereits abgestempelten und offenen Stempelstellen\n- Anzeige und Meldung defekter Stempelkästen\n- Übernahme/Import der Abstempelungen aus ehemaliger App der Harzer Wandernadel\n- Unterstützung aller aktuellen Hefte der Harzer Wandernadel\n- Backup/Export zur Übernahme der Abstempelungen auf zukünftige Geräte\n- Überleitung an Navigationsapps zur Planung der Anfahrt\n- Kopieren der Koordinaten an spezialisierte Wandernavigationsapps zur Wanderroutenplanung\n\n\nAGB's / Terms and Conditions / Terms of Use: https://www.iubenda.com/nutzungsbedingungen/80444859",
-      "minimumOsVersion": "15.1",
+      "sellerUrl": "https://harzer-wandernadel-community.web.app",
       "fileSizeBytes": "155170816",
       "formattedPrice": "5,99 €",
       "userRatingCountForCurrentVersion": 104,
       "trackContentRating": "12+",
-      "sellerUrl": "https://harzer-wandernadel-community.web.app",
-      "languageCodesISO2A": [
-        "EN"
+      "artistId": 1615223295,
+      "artistName": "weissfly UG (haftungsbeschrankt)",
+      "sellerName": "weissfly UG",
+      "releaseDate": "2022-09-05T07:00:00Z",
+      "genreIds": [
+        "6003",
+        "6013"
       ],
+      "currentVersionReleaseDate": "2026-07-29T20:30:38Z",
+      "releaseNotes": "- Hinweis-Seiten beim App-Start sind jetzt scrollbar — auf kleinen Geräten oder mit großer Schrift wurde der Text bisher teilweise abgeschnitten.\n- Sonderstempelstelle HWN 9925 „Jagdschloss Windenhütte\" als abgebaut markiert.\n- Sonderstempelstelle HWN 9969 „Aholzwarte\" wegen Wartungsarbeiten als vorübergehend abgebaut markiert — der Stempel ist damit für zugehörige Themenhefte nicht relevant.\n- Bild von HWN 50 „Walzenhütte\" aktualisiert.",
+      "version": "1.17.455",
+      "wrapperType": "software",
+      "currency": "EUR",
+      "description": "Community Projekt der Harzer Wandernadel:\n- Beschreibungen, Bilder, Koordinaten, Anfahrtsbeschreibungen zu Wanderzielen/Stempelstellen der Harzer Wandernadel\n- Darstellung des Wanderfortschrittes pro Heft und in Bezug auf die Leistungsabzeichen\n- Nachstempeln vom Sofa oder \"echtes\" Stempeln vor Ort\n- Suche von Stempelstellen per HWN-Name, -Nummer oder nahegelegener Ortschaft\n- Entfernung zu nächsten Stempelstellen\n- Visualisierung der bereits abgestempelten und offenen Stempelstellen\n- Anzeige und Meldung defekter Stempelkästen\n- Übernahme/Import der Abstempelungen aus ehemaliger App der Harzer Wandernadel\n- Unterstützung aller aktuellen Hefte der Harzer Wandernadel\n- Backup/Export zur Übernahme der Abstempelungen auf zukünftige Geräte\n- Überleitung an Navigationsapps zur Planung der Anfahrt\n- Kopieren der Koordinaten an spezialisierte Wandernavigationsapps zur Wanderroutenplanung\n\n\nAGB's / Terms and Conditions / Terms of Use: https://www.iubenda.com/nutzungsbedingungen/80444859",
+      "primaryGenreName": "Travel",
+      "primaryGenreId": 6003,
       "trackId": 1620616675,
       "trackName": "Harzer Wandernadel Community",
+      "price": 5.99,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "genres": [
+        "Reisen",
+        "Gesundheit und Fitness"
+      ],
       "userRatingCount": 104,
       "country": "DEU"
     }

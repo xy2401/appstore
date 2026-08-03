@@ -190,10 +190,10 @@
       "userRatingCount": 22628
     },
     {
-      "isGameCenterEnabled": false,
       "artistViewUrl": "https://apps.apple.com/us/developer/scoopz-inc/id1781956324?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/79/a2/3f79a26c-9814-5119-c503-c134e702021a/AppIconNewsBreak-0-0-1x_U007ephone-0-11-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/79/a2/3f79a26c-9814-5119-c503-c134e702021a/AppIconNewsBreak-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.jpg",
+      "features": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -323,7 +323,6 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "features": [],
       "advisories": [
         "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References"
       ],
@@ -337,11 +336,14 @@
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/79/a2/3f79a26c-9814-5119-c503-c134e702021a/AppIconNewsBreak-0-0-1x_U007ephone-0-11-0-85-220.png/512x512bb.jpg",
-      "minimumOsVersion": "15.0",
+      "isGameCenterEnabled": false,
+      "bundleId": "com.newsbreak.radar",
       "trackCensoredName": "CrimeRadar Dispatch Audio",
       "trackViewUrl": "https://apps.apple.com/us/app/crimeradar-dispatch-audio/id6746114452?uo=4",
       "contentAdvisoryRating": "12+",
-      "averageUserRating": 4.89126,
+      "averageUserRating": 4.89051,
+      "minimumOsVersion": "15.0",
+      "price": 0,
       "artistId": 1781956324,
       "artistName": "Scoopz Inc.",
       "genres": [
@@ -350,32 +352,30 @@
       "releaseDate": "2025-05-27T07:00:00Z",
       "trackName": "CrimeRadar Dispatch Audio",
       "trackId": 6746114452,
+      "primaryGenreName": "News",
+      "primaryGenreId": 6009,
+      "sellerName": "Scoopz Inc.",
       "isVppDeviceBasedLicensingEnabled": true,
-      "bundleId": "com.newsbreak.radar",
-      "genreIds": [
-        "6009"
-      ],
       "currentVersionReleaseDate": "2026-07-29T21:20:55Z",
-      "releaseNotes": "Bug fixing and performance improvements.",
       "version": "26.30.2",
       "wrapperType": "software",
       "currency": "USD",
       "description": "CrimeRadar tracks first-responder audio and uses AI to summarize and map potential incidents so you can stay aware of public safety activity near you.\n\nCheck the interactive map. Listen to first-responder audio. Get customized alerts.\n\n• Safety Alerts and Map: Stay informed with notifications based on live dispatch audio, covering everything from wildfires to highway accidents and police callouts.\n\n• Customizable Filters: Choose what you want to track via the map, alerts, and activity logs.\n\n• First-Responder Radio: Tap any activity to listen to the original communication for yourself.\n\nHave feedback? Contact us at feedback@crimeradar.us\n\nTerms of Service: https://crimeradar.us/terms  \n\nPrivacy Policy: https://crimeradar.us/privacy  \n\nImportant: CrimeRadar provides situational awareness based on public-safety dispatch audio. Content is not an official report or verified information. Always rely on official sources for confirmation.",
-      "averageUserRatingForCurrentVersion": 4.89126,
-      "sellerUrl": "https://crimeradar.us/",
       "languageCodesISO2A": [
         "EN",
         "ES"
       ],
       "fileSizeBytes": "142435328",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 30384,
+      "userRatingCountForCurrentVersion": 30641,
       "trackContentRating": "12+",
-      "primaryGenreName": "News",
-      "primaryGenreId": 6009,
-      "price": 0,
-      "sellerName": "Scoopz Inc.",
-      "userRatingCount": 30384,
+      "sellerUrl": "https://crimeradar.us/",
+      "averageUserRatingForCurrentVersion": 4.89051,
+      "genreIds": [
+        "6009"
+      ],
+      "releaseNotes": "Bug fixing and performance improvements.",
+      "userRatingCount": 30641,
       "country": "USA"
     }
   ]

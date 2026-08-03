@@ -187,13 +187,21 @@
       "userRatingCount": 211
     },
     {
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/58/51/4f/58514f5d-1719-d960-94ec-e4a8ec121f7b/mzl.vwaznasz.jpg/392x696bb.jpg"
+      ],
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/63/83/9a/63839a37-03b1-7f7a-a64b-0b7cd7d6987e/mzl.wgpovspx.jpg/576x768bb.jpg"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/9f/0d/449f0d30-0b5b-e777-6e1e-b6bf880eb771/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "isGameCenterEnabled": false,
       "artistViewUrl": "https://apps.apple.com/us/developer/e-courier-inc/id601159500?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/9f/0d/449f0d30-0b5b-e777-6e1e-b6bf880eb771/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/9f/0d/449f0d30-0b5b-e777-6e1e-b6bf880eb771/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
       "features": [
         "iosUniversal"
       ],
-      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -325,50 +333,42 @@
       ],
       "advisories": [],
       "kind": "software",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/58/51/4f/58514f5d-1719-d960-94ec-e4a8ec121f7b/mzl.vwaznasz.jpg/392x696bb.jpg"
-      ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/63/83/9a/63839a37-03b1-7f7a-a64b-0b7cd7d6987e/mzl.wgpovspx.jpg/576x768bb.jpg"
-      ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/9f/0d/449f0d30-0b5b-e777-6e1e-b6bf880eb771/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
-      "contentAdvisoryRating": "4+",
-      "trackCensoredName": "ecMobile",
-      "trackViewUrl": "https://apps.apple.com/us/app/ecmobile/id601159497?uo=4",
-      "bundleId": "com.ecourier.mobile.ecMobile",
-      "averageUserRating": 2.11374,
-      "genres": [
-        "Business",
-        "Productivity"
-      ],
-      "artistId": 601159500,
-      "artistName": "e-Courier, Inc.",
-      "price": 9.99,
-      "releaseDate": "2013-02-16T00:22:27Z",
-      "primaryGenreName": "Business",
-      "primaryGenreId": 6000,
-      "genreIds": [
-        "6000",
-        "6007"
-      ],
-      "trackId": 601159497,
-      "trackName": "ecMobile",
-      "currentVersionReleaseDate": "2026-07-29T15:10:37Z",
-      "releaseNotes": "- Fixed bug that caused Name, Address, City, etc. values to get mixed up.\n- Fixed bug that required container in Pickup/Delivery Pieces even if it was already set on the piece.\n- Add \"Required, if not set\" option to Piece Quantity parameter, which will not require piece quantity to be entered in Pickup/Delivery Pieces if a quantity is already set on the piece.",
-      "version": "1.2.145",
-      "wrapperType": "software",
-      "currency": "USD",
-      "description": "ecMobile allows users to connect to, and receive dispatches from, many of the nation’s leading courier, delivery, and logistics companies.  If you have a truck, car, van, pickup, bike, or even a pair of shoes, you may be a candidate to perform pickup and delivery services in any city in the U.S.  Once you have registered with a delivery company, you can receive dispatches right to your device, and provide real time status updates, including bar code scanning data and signature images, back to the delivery company.  By simply logging on, you can signal to the delivery company your current location and that you are ready to receive work requests.  Please note that this app uses GPS running in the background, which can dramatically decrease battery life.",
-      "minimumOsVersion": "10.0",
+      "userRatingCountForCurrentVersion": 211,
       "averageUserRatingForCurrentVersion": 2.11374,
       "languageCodesISO2A": [],
       "fileSizeBytes": "63406080",
       "formattedPrice": "$9.99",
-      "userRatingCountForCurrentVersion": 211,
       "trackContentRating": "4+",
+      "currentVersionReleaseDate": "2026-07-29T15:10:37Z",
+      "releaseNotes": "- Fixed bug that caused Name, Address, City, etc. values to get mixed up.\n- Fixed bug that required container in Pickup/Delivery Pieces even if it was already set on the piece.\n- Add \"Required, if not set\" option to Piece Quantity parameter, which will not require piece quantity to be entered in Pickup/Delivery Pieces if a quantity is already set on the piece.",
+      "averageUserRating": 2.11374,
+      "trackCensoredName": "ecMobile",
+      "trackViewUrl": "https://apps.apple.com/us/app/ecmobile/id601159497?uo=4",
+      "contentAdvisoryRating": "4+",
+      "minimumOsVersion": "10.0",
+      "artistId": 601159500,
+      "artistName": "e-Courier, Inc.",
+      "genres": [
+        "Business",
+        "Productivity"
+      ],
+      "price": 9.99,
+      "bundleId": "com.ecourier.mobile.ecMobile",
+      "releaseDate": "2013-02-16T00:22:27Z",
+      "genreIds": [
+        "6000",
+        "6007"
+      ],
+      "trackName": "ecMobile",
+      "trackId": 601159497,
+      "primaryGenreName": "Business",
+      "primaryGenreId": 6000,
       "sellerName": "e-Courier, Inc.",
       "isVppDeviceBasedLicensingEnabled": true,
+      "version": "1.2.145",
+      "wrapperType": "software",
+      "currency": "USD",
+      "description": "ecMobile allows users to connect to, and receive dispatches from, many of the nation’s leading courier, delivery, and logistics companies.  If you have a truck, car, van, pickup, bike, or even a pair of shoes, you may be a candidate to perform pickup and delivery services in any city in the U.S.  Once you have registered with a delivery company, you can receive dispatches right to your device, and provide real time status updates, including bar code scanning data and signature images, back to the delivery company.  By simply logging on, you can signal to the delivery company your current location and that you are ready to receive work requests.  Please note that this app uses GPS running in the background, which can dramatically decrease battery life.",
       "userRatingCount": 211,
       "country": "USA"
     }

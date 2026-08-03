@@ -192,10 +192,10 @@
       "userRatingCount": 1135618
     },
     {
-      "isGameCenterEnabled": false,
       "artistViewUrl": "https://apps.apple.com/us/developer/taco-bell/id360756781?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/89/35/fa893560-f83e-cbd7-3f24-c98c23473f09/AppIcon-0-1x_U007ephone-0-11-0-sRGB-85-220-0.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/89/35/fa893560-f83e-cbd7-3f24-c98c23473f09/AppIcon-0-1x_U007ephone-0-11-0-sRGB-85-220-0.png/100x100bb.jpg",
+      "features": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -325,7 +325,6 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "features": [],
       "advisories": [
         "Infrequent/Mild Contests"
       ],
@@ -340,11 +339,14 @@
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/89/35/fa893560-f83e-cbd7-3f24-c98c23473f09/AppIcon-0-1x_U007ephone-0-11-0-sRGB-85-220-0.png/512x512bb.jpg",
-      "minimumOsVersion": "16.6",
+      "isGameCenterEnabled": false,
+      "bundleId": "com.tacobell.ARgame",
       "trackCensoredName": "Taco Bell Fast Food & Delivery",
       "trackViewUrl": "https://apps.apple.com/us/app/taco-bell-fast-food-delivery/id497387361?uo=4",
       "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.66674,
+      "averageUserRating": 4.66673,
+      "minimumOsVersion": "16.6",
+      "price": 0,
       "artistId": 360756781,
       "artistName": "Taco Bell",
       "genres": [
@@ -354,32 +356,30 @@
       "releaseDate": "2012-01-26T05:14:47Z",
       "trackName": "Taco Bell Fast Food & Delivery",
       "trackId": 497387361,
+      "primaryGenreName": "Food & Drink",
+      "primaryGenreId": 6023,
+      "sellerName": "Taco Bell",
       "isVppDeviceBasedLicensingEnabled": true,
-      "bundleId": "com.tacobell.ARgame",
-      "genreIds": [
-        "6023",
-        "6012"
-      ],
       "currentVersionReleaseDate": "2026-06-29T20:31:30Z",
-      "releaseNotes": "From soft shell errors to hard shell success",
       "version": "8.90.2",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Download the official Taco Bell® app and your taste buds will officially thank you. Earn points on every qualifying order and reward yourself with free food. Gain access to exclusives only available on the app. Order tacos for delivery or pickup.\n \nFeatures Include:\n1. Order and pay ahead for delivery or pickup\n2. Customize and save your favorite menu items to make ordering easy\n3. Track your order seamlessly on the app to know when it’s ready for pickup or being delivered\n4. Earn points on every qualifying order so your tacos can earn you more tacos\n5. Redeem exclusive rewards and special offers only available on the app\n \nTerms and conditions apply.",
-      "averageUserRatingForCurrentVersion": 4.66674,
-      "sellerUrl": "http://www.tacobell.com",
       "languageCodesISO2A": [
         "EN"
       ],
       "fileSizeBytes": "250830848",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 1135720,
+      "userRatingCountForCurrentVersion": 1135735,
       "trackContentRating": "4+",
-      "primaryGenreName": "Food & Drink",
-      "primaryGenreId": 6023,
-      "price": 0,
-      "sellerName": "Taco Bell",
-      "userRatingCount": 1135720,
+      "sellerUrl": "http://www.tacobell.com",
+      "averageUserRatingForCurrentVersion": 4.66673,
+      "genreIds": [
+        "6023",
+        "6012"
+      ],
+      "releaseNotes": "From soft shell errors to hard shell success",
+      "userRatingCount": 1135735,
       "country": "USA"
     }
   ]

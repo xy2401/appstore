@@ -194,13 +194,7 @@
       "userRatingCount": 263
     },
     {
-      "artistViewUrl": "https://apps.apple.com/de/developer/tobias-bechtold/id1830364539?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/7a/d3/d77ad3d6-b465-1b59-1cb7-b8232b90c9cd/intake-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/7a/d3/d77ad3d6-b465-1b59-1cb7-b8232b90c9cd/intake-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -331,26 +325,25 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
+      "features": [
+        "iosUniversal"
+      ],
       "advisories": [],
       "kind": "software",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/5b/59/4f5b5964-3b41-de6f-9b32-6e4debc1d574/intake-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/de/developer/tobias-bechtold/id1830364539?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/5b/59/4f5b5964-3b41-de6f-9b32-6e4debc1d574/intake-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/5b/59/4f5b5964-3b41-de6f-9b32-6e4debc1d574/intake-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
       "screenshotUrls": [],
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/7a/d3/d77ad3d6-b465-1b59-1cb7-b8232b90c9cd/intake-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
-      "trackCensoredName": "Intake: Kalorienzähler & Diät",
-      "trackViewUrl": "https://apps.apple.com/de/app/intake-kalorienz%C3%A4hler-di%C3%A4t/id6757768955?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.74638,
+      "minimumOsVersion": "26.0",
+      "price": 6.99,
       "artistId": 1830364539,
       "artistName": "Tobias Bechtold",
-      "genres": [
-        "Gesundheit und Fitness",
-        "Essen und Trinken"
-      ],
-      "bundleId": "de.bechtoldit.intake",
-      "releaseNotes": "Danke, dass du Intake nutzt!\n\nNeu in dieser Version:\n• Intake AI erklärt sich jetzt selbst: Bevor du dich für irgendwas entscheidest, zeigt dir ein kurzes Intro, wie die KI-Kosten entstehen und welche Wahl du hast – das Intake-AI-Abo, dein eigener API-Schlüssel oder gar keine KI.\n• Fair und transparent: Das Intro nennt den Abo-Preis von Anfang an, und ein neuer Guide erklärt, was ein API-Schlüssel ist und wie du einen bekommst.\n• Der Auswahl-Screen vergleicht beide Optionen direkt nebeneinander – wähl, was zu dir passt, und ändere es jederzeit in den Einstellungen.\n• Behoben: gelegentliches Einfrieren beim Öffnen der Lebensmittelsuche, beim Speichern und beim Zurückkehren in die App.\n\nViel Spaß beim Ausprobieren!",
       "trackId": 6757768955,
       "trackName": "Intake: Kalorienzähler & Diät",
+      "bundleId": "de.bechtoldit.intake",
       "genreIds": [
         "6013",
         "6023"
@@ -359,11 +352,15 @@
       "primaryGenreId": 6013,
       "sellerName": "Tobias Bechtold",
       "isVppDeviceBasedLicensingEnabled": true,
-      "version": "2.4.7",
+      "currentVersionReleaseDate": "2026-08-01T16:26:02Z",
+      "version": "2.5.0",
       "wrapperType": "software",
       "currency": "EUR",
-      "description": "Intake ist ein minimalistischer Kalorienzähler für Menschen, die einfach nur tracken wollen – mit fairem Einmalkauf, ohne Gamification und ohne unnötige Ernährungstipps.\n\nWas Intake kann:\n\n* Kalorien schnell und unkompliziert eintragen und gesund abnehmen\n* Tagesübersicht mit Ziel, gegessen und verbleibend\n* Essen tracken (Frühstück, Mittag, Abendessen, Snacks)\n* Intake AI: Essen per Foto oder Text zu Mahlzeiten hinzufügen\n* KI-Schätzungen als eine Mahlzeit loggen oder jede erkannte Zutat einzeln – mit eigenem Gewicht und Kalorien\n* Schätzungen direkt korrigieren: Zutaten, Kalorien und Portionsgröße anpassen, ohne neu zu schreiben\n* Widgets für noch schnelleres Loggen\n* Nährwertlabel scannen und automatisch ausfüllen lassen\n* Eigene Rezepte erstellen zum schnellen Loggen von selbstgekochten Gerichten\n* Produktsuche & Barcode-Scan\n* Intervallfasten\n* Wasser tracken, um genug zu trinken\n* Lebensmittel-Datenbank auf Basis von Open Food Facts\n* Optionale Apple Health Integration für Aktivitätskalorien\n\nAlles ohne Account – deine Daten bleiben auf deinem Gerät.\n\nIntake AI ist ein optionales Add-on für alle, die ihr Essen noch schneller erfassen möchten. Du kannst eine Mahlzeit fotografieren oder beschreiben, und Intake AI sagt dir genau welche Zutaten enthalten sind und wieviele Kalorien dein Essen hat. Beim Erstellen eigener Mahlzeiten kannst du außerdem ein Nährwertlabel scannen – Intake AI füllt die Angaben automatisch für dich aus.\n\nAlternativ kannst du auch deinen eigenen API Schlüssel von ChatGPT, Claude oder Gemini nutzen. Der Featureumfang ist dadurch auf einfaches Foto-Logging und den Text-Chat begrenzt.\n\nDie Nutzung von Intake AI ist großzügig ausgelegt und unterliegt einer fairen Nutzung, damit das Feature für alle zuverlässig und bezahlbar bleibt.\n\nFür wen Intake ist\n\nFür alle, die eine ruhige, ästhetische App wollen, die sich anfühlt wie iOS – und nicht wie ein Fitness-Spiel.\n\nOhne Bullshit\n\nKein Abo für die Basis-App\n\nKein Login\n\nKeine Streaks\n\nKeine Punkte\n\nKeine „Tipps“, die du nicht gefragt hast\n\nIntake. Tracken. Fertig.\n\nNutzungsbedingungen: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-      "sellerUrl": "https://www.getintake.de",
+      "description": "Intake ist ein minimalistischer Kalorienzähler für Menschen, die einfach nur tracken wollen – mit fairem Einmalkauf, ohne Gamification und ohne unnötige Ernährungstipps.\n\nWas Intake kann:\n\n* Kalorien schnell und unkompliziert eintragen und gesund abnehmen\n* Tagesübersicht mit Ziel, gegessen und verbleibend\n* Essen tracken (Frühstück, Mittag, Abendessen, Snacks)\n* Intake AI: Essen per Foto oder Text zu Mahlzeiten hinzufügen\n* KI-Schätzungen als eine Mahlzeit loggen oder jede erkannte Zutat einzeln – mit eigenem Gewicht und Kalorien\n* Schätzungen direkt korrigieren: Zutaten, Kalorien und Portionsgröße anpassen, ohne neu zu schreiben\n* Widgets für noch schnelleres Loggen\n* Nährwertlabel scannen und automatisch ausfüllen lassen\n* Eigene Rezepte erstellen zum schnellen Loggen von selbstgekochten Gerichten\n* Produktsuche & Barcode-Scan\n* Intervallfasten\n* Wasser tracken, um genug zu trinken\n* Lebensmittel-Datenbank auf Basis von Open Food Facts\n* Optionale Apple Health Integration für Aktivitätskalorien\n\nAlles ohne Account – deine Daten bleiben auf deinem Gerät.\n\nIntake AI ist ein optionales Add-on für alle, die ihr Essen noch schneller erfassen möchten. Du kannst eine Mahlzeit fotografieren oder beschreiben, und Intake AI sagt dir genau welche Zutaten enthalten sind und wieviele Kalorien dein Essen hat. Beim Erstellen eigener Mahlzeiten kannst du außerdem ein Nährwertlabel scannen – Intake AI füllt die Angaben automatisch für dich aus.\n\nAlternativ kannst du auch deinen eigenen API Schlüssel von ChatGPT, Claude oder Gemini nutzen. Foto-Logging, Text-Chat und die vollständige Zutatenliste sind dabei enthalten; das nachträgliche Korrigieren einer Schätzung bleibt Intake AI vorbehalten.\n\nDie Nutzung von Intake AI ist großzügig ausgelegt und unterliegt einer fairen Nutzung, damit das Feature für alle zuverlässig und bezahlbar bleibt.\n\nFür wen Intake ist\n\nFür alle, die eine ruhige, ästhetische App wollen, die sich anfühlt wie iOS – und nicht wie ein Fitness-Spiel.\n\nOhne Bullshit\n\nKein Abo für die Basis-App\n\nKein Login\n\nKeine Streaks\n\nKeine Punkte\n\nKeine „Tipps“, die du nicht gefragt hast\n\nIntake. Tracken. Fertig.\n\nNutzungsbedingungen: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+      "trackCensoredName": "Intake: Kalorienzähler & Diät",
+      "averageUserRatingForCurrentVersion": 4.74368,
+      "averageUserRating": 4.74368,
+      "contentAdvisoryRating": "4+",
       "languageCodesISO2A": [
         "NL",
         "EN",
@@ -374,16 +371,19 @@
         "PT",
         "ES"
       ],
-      "fileSizeBytes": "143584256",
+      "fileSizeBytes": "159793152",
       "formattedPrice": "6,99 €",
+      "userRatingCountForCurrentVersion": 277,
+      "trackViewUrl": "https://apps.apple.com/de/app/intake-kalorienz%C3%A4hler-di%C3%A4t/id6757768955?uo=4",
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.74638,
-      "userRatingCountForCurrentVersion": 276,
-      "minimumOsVersion": "26.0",
+      "sellerUrl": "https://www.getintake.de",
       "releaseDate": "2026-01-20T08:00:00Z",
-      "price": 6.99,
-      "currentVersionReleaseDate": "2026-07-26T07:34:57Z",
-      "userRatingCount": 276,
+      "releaseNotes": "Danke, dass du Intake nutzt!\n\nNeu in dieser Version:\n• Du nutzt deinen eigenen ChatGPT-, Claude- oder Gemini-API-Schlüssel? KI-Schätzungen enthalten jetzt eine vollständige Zutatenliste – logge eine Mahlzeit als einen Eintrag oder jede Zutat einzeln mit eigenem Gewicht und eigenen Kalorien.\n• Klarere KI-Fehler: Statt einer vagen Meldung sagt dir Intake, ob dein Schlüssel abgelehnt wurde, dein Limit erreicht ist oder der Anbieter einfach ausgelastet ist – und zitiert die Antwort des Anbieters.\n• Vorübergehende Aussetzer beim Anbieter werden jetzt automatisch wiederholt, und ein überlastetes Gemini-Modell lässt sich mit einem Tipp im Chat gegen ein anderes tauschen.\n• Behoben: Eine lange KI-Antwort, der der Platz ausging, kam als unlesbar zurück, statt dir eine kürzere Nachricht vorzuschlagen.\n• Rezepte lassen sich jetzt als ein Eintrag oder als einzelne Zutaten loggen – du entscheidest vorher, und Intake merkt sich deine Wahl.\n• Sortiere deine Rezepte nach Name, Hinzufügedatum oder Kalorien pro Portion.\n• Fotos von verpackten Produkten führen mit eigenem API-Schlüssel nicht mehr ins Leere – Intake schätzt jetzt anhand dessen, was auf dem Etikett lesbar ist.\n• Lange Lebensmittel- und Mahlzeitennamen werden nicht mehr nach ein paar Wörtern abgeschnitten.\n\nViel Spaß beim Ausprobieren!",
+      "genres": [
+        "Gesundheit und Fitness",
+        "Essen und Trinken"
+      ],
+      "userRatingCount": 277,
       "country": "DEU"
     }
   ]

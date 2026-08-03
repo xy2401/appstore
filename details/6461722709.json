@@ -188,7 +188,6 @@
       "userRatingCount": 112
     },
     {
-      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/cb/0e/90/cb0e9021-f65e-3ca6-08a7-5f9506644290/1d858927-7732-4b54-94c4-ed08489479d3__U30b9_U30de_U30db_U30b9_U30af_U30b7_U30e755_ja.png/392x696bb.png"
       ],
@@ -197,6 +196,10 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/55/9e/c3/559ec31f-b38b-fc56-6018-26a4f46a34c7/AppIcon-1x_U007epad-85-220.png/512x512bb.jpg",
+      "isGameCenterEnabled": false,
+      "artistViewUrl": "https://apps.apple.com/jp/developer/noze-inc/id1702645084?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/55/9e/c3/559ec31f-b38b-fc56-6018-26a4f46a34c7/AppIcon-1x_U007epad-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/55/9e/c3/559ec31f-b38b-fc56-6018-26a4f46a34c7/AppIcon-1x_U007epad-85-220.png/100x100bb.jpg",
       "features": [
         "iosUniversal"
       ],
@@ -332,11 +335,6 @@
       ],
       "advisories": [],
       "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/jp/developer/noze-inc/id1702645084?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/55/9e/c3/559ec31f-b38b-fc56-6018-26a4f46a34c7/AppIcon-1x_U007epad-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/55/9e/c3/559ec31f-b38b-fc56-6018-26a4f46a34c7/AppIcon-1x_U007epad-85-220.png/100x100bb.jpg",
-      "averageUserRatingForCurrentVersion": 4.4375,
-      "currentVersionReleaseDate": "2023-08-21T10:33:49Z",
       "languageCodesISO2A": [
         "EN",
         "JA"
@@ -344,7 +342,12 @@
       "fileSizeBytes": "877568",
       "formattedPrice": "¥120",
       "trackContentRating": "4+",
+      "averageUserRatingForCurrentVersion": 4.4375,
       "minimumOsVersion": "15.0",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.4375,
+      "trackCensoredName": "Y!News Excluder for Safari",
+      "trackViewUrl": "https://apps.apple.com/jp/app/y-news-excluder-for-safari/id6461722709?uo=4",
       "artistId": 1702645084,
       "artistName": "NOZE INC.",
       "genres": [
@@ -352,24 +355,21 @@
       ],
       "price": 120,
       "bundleId": "company.noze.Y-News-Excluder-for-Safari",
-      "releaseDate": "2023-08-21T07:00:00Z",
+      "trackName": "Y!News Excluder for Safari",
+      "trackId": 6461722709,
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
       "genreIds": [
         "6002"
       ],
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
-      "trackName": "Y!News Excluder for Safari",
-      "trackId": 6461722709,
       "sellerName": "NOZE INC.",
+      "releaseDate": "2023-08-21T07:00:00Z",
       "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2023-08-21T10:33:49Z",
       "version": "1.0.0",
       "wrapperType": "software",
       "currency": "JPY",
       "description": "Yahoo!ニュースから指定ワードがタイトルに含まれる記事を除外する拡張機能です。\n改行区切りでキーワードを複数指定する事ができます。",
-      "averageUserRating": 4.4375,
-      "trackCensoredName": "Y!News Excluder for Safari",
-      "trackViewUrl": "https://apps.apple.com/jp/app/y-news-excluder-for-safari/id6461722709?uo=4",
-      "contentAdvisoryRating": "4+",
       "userRatingCountForCurrentVersion": 112,
       "userRatingCount": 112,
       "country": "JPN"

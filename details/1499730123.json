@@ -194,7 +194,6 @@
       "userRatingCount": 73
     },
     {
-      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/c2/9f/02/c29f02ce-8178-0c76-3bc1-2f99903c3a57/acb61795-192a-4f67-9aea-0732eb95d3eb_Apple_iPhone_8_Plus_Screenshot_1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/84/19/38/84193805-f292-4043-a579-13370b81ff83/80b7f373-aa9e-4de5-be05-2f3672dcbddf_Apple_iPhone_8_Plus_Screenshot_0.png/392x696bb.png",
@@ -207,14 +206,10 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/aa/3d/dc/aa3ddc52-e5a1-aa54-bcab-bf200d4ecde6/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
+      "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
       ],
-      "advisories": [],
-      "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/fr/developer/pascal-trahan/id1461703541?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/aa/3d/dc/aa3ddc52-e5a1-aa54-bcab-bf200d4ecde6/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/aa/3d/dc/aa3ddc52-e5a1-aa54-bcab-bf200d4ecde6/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -344,27 +339,42 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "releaseNotes": "New cities added. More on the way !",
+      "advisories": [],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/fr/developer/pascal-trahan/id1461703541?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/aa/3d/dc/aa3ddc52-e5a1-aa54-bcab-bf200d4ecde6/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/aa/3d/dc/aa3ddc52-e5a1-aa54-bcab-bf200d4ecde6/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.jpg",
       "averageUserRatingForCurrentVersion": 4.65753,
-      "userRatingCountForCurrentVersion": 73,
-      "trackContentRating": "4+",
       "sellerUrl": "https://parisinvadersmap.com",
       "languageCodesISO2A": [
         "EN"
       ],
       "fileSizeBytes": "12601344",
       "formattedPrice": "5,99 €",
-      "trackId": 1499730123,
-      "trackName": "Paris Invaders Map",
+      "userRatingCountForCurrentVersion": 73,
+      "trackContentRating": "4+",
+      "minimumOsVersion": "12.4",
+      "currentVersionReleaseDate": "2023-10-31T22:35:28Z",
       "artistId": 1461703541,
       "artistName": "Pascal Trahan",
+      "genres": [
+        "Style de vie",
+        "Utilitaires"
+      ],
       "price": 5.99,
+      "bundleId": "com.parisinvadersmap.paris",
+      "releaseNotes": "New cities added. More on the way !",
       "releaseDate": "2020-02-23T08:00:00Z",
+      "trackId": 1499730123,
+      "trackName": "Paris Invaders Map",
+      "genreIds": [
+        "6012",
+        "6002"
+      ],
       "primaryGenreName": "Lifestyle",
       "primaryGenreId": 6012,
       "sellerName": "Pascal Trahan",
       "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2023-10-31T22:35:28Z",
       "version": "3.0.0",
       "wrapperType": "software",
       "currency": "EUR",
@@ -373,16 +383,6 @@
       "trackViewUrl": "https://apps.apple.com/fr/app/paris-invaders-map/id1499730123?uo=4",
       "contentAdvisoryRating": "4+",
       "averageUserRating": 4.65753,
-      "minimumOsVersion": "12.4",
-      "genreIds": [
-        "6012",
-        "6002"
-      ],
-      "bundleId": "com.parisinvadersmap.paris",
-      "genres": [
-        "Style de vie",
-        "Utilitaires"
-      ],
       "userRatingCount": 73,
       "country": "FRA"
     }

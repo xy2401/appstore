@@ -191,9 +191,10 @@
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/2b/16/272b161a-9d6d-4ced-5bf6-df3c7d7577b8/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/cn/developer/%E4%B8%8A%E6%B5%B7%E7%A8%80%E5%AE%87%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/id1682884211?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/2b/16/272b161a-9d6d-4ced-5bf6-df3c7d7577b8/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/2b/16/272b161a-9d6d-4ced-5bf6-df3c7d7577b8/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
+      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "MacDesktop-MacDesktop",
         "iPhone5s-iPhone5s",
@@ -324,26 +325,20 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "features": [
-        "iosUniversal"
-      ],
-      "isGameCenterEnabled": false,
       "advisories": [],
       "kind": "software",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/2b/16/272b161a-9d6d-4ced-5bf6-df3c7d7577b8/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/2b/16/272b161a-9d6d-4ced-5bf6-df3c7d7577b8/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/cn/developer/%E4%B8%8A%E6%B5%B7%E7%A8%80%E5%AE%87%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/id1682884211?uo=4",
+      "averageUserRatingForCurrentVersion": 4.57812,
       "languageCodesISO2A": [
         "EN",
         "ZH"
       ],
       "fileSizeBytes": "98436096",
       "formattedPrice": "免费",
+      "userRatingCountForCurrentVersion": 4525,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.57787,
-      "userRatingCountForCurrentVersion": 4527,
-      "minimumOsVersion": "15.0",
-      "trackCensoredName": "MiniMax - 通用AI Agent",
-      "trackViewUrl": "https://apps.apple.com/cn/app/minimax-%E9%80%9A%E7%94%A8ai-agent/id6446482834?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.57787,
       "artistId": 1682884211,
       "artistName": "上海稀宇科技有限公司",
       "genres": [
@@ -351,25 +346,30 @@
         "工具"
       ],
       "price": 0,
-      "primaryGenreName": "Productivity",
-      "primaryGenreId": 6007,
+      "currentVersionReleaseDate": "2026-07-21T02:54:41Z",
+      "bundleId": "com.ai.wanjuan",
       "trackId": 6446482834,
       "trackName": "MiniMax - 通用AI Agent",
-      "releaseDate": "2023-03-23T07:00:00Z",
       "genreIds": [
         "6007",
         "6002"
       ],
-      "releaseNotes": "新功能如约而至。MiniMax App 远程控制功能已上线，支持手机直接连接桌面端 Agent。\n连接后，项目文件、终端和运行环境仍保留在电脑上，一切如旧。手机将作为轻量控制入口：随时查看 Agent 回复、终端输出、代码改动和测试结果；需要介入时，也能继续发送指令、回应提问、处理权限审批。",
-      "isVppDeviceBasedLicensingEnabled": true,
+      "primaryGenreName": "Productivity",
+      "primaryGenreId": 6007,
       "sellerName": "Shanghai Xiyu Technology Co., LTD",
-      "currentVersionReleaseDate": "2026-07-21T02:54:41Z",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseNotes": "新功能如约而至。MiniMax App 远程控制功能已上线，支持手机直接连接桌面端 Agent。\n连接后，项目文件、终端和运行环境仍保留在电脑上，一切如旧。手机将作为轻量控制入口：随时查看 Agent 回复、终端输出、代码改动和测试结果；需要介入时，也能继续发送指令、回应提问、处理权限审批。",
       "version": "4.15.1",
       "wrapperType": "software",
       "currency": "CNY",
       "description": "MiniMax Agent是一个能完成长程复杂任务的通用智能体，在Multi-agent系统的支撑下，能多步规划出专家级解决方案、能灵活拆解任务需求、并能执行多个子任务从而交付最终结果。\nMiniMax 智能体的能力包括：\n- 高效模式：全面提升聊天场景体验，更高效地处理问答、文档总结和创意写作等日常任务。\n- 深度研究与分析：整合全网信息，生成深度研究报告。\n- 多模态内容生成：轻松创作视频、音频和图片，丰富您的内容呈现。\n- 专业演示文稿制作：一键生成内容精美、视觉丰富的专业演示文稿。\n- 全栈应用构建：创建稳定且视觉效果出众的全栈应用程序，覆盖从前端到后端。\n- 代码编写与调试：您的智能编程伙伴，助您高效完成代码编写与测试。\n\n隐私政策: https://chat.minimaxi.com/doc/privacy-policy.html\n用户协议: https://chat.minimaxi.com/doc/terms-of-service.html\n服务协议: https://agent.minimax.io/doc/zh/payment-policy.html",
-      "bundleId": "com.ai.wanjuan",
-      "userRatingCount": 4527,
+      "minimumOsVersion": "15.0",
+      "contentAdvisoryRating": "4+",
+      "trackCensoredName": "MiniMax - 通用AI Agent",
+      "trackViewUrl": "https://apps.apple.com/cn/app/minimax-%E9%80%9A%E7%94%A8ai-agent/id6446482834?uo=4",
+      "averageUserRating": 4.57812,
+      "releaseDate": "2023-03-23T07:00:00Z",
+      "userRatingCount": 4525,
       "country": "CHN"
     }
   ]

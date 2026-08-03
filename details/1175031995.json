@@ -205,10 +205,13 @@
       "userRatingCount": 538
     },
     {
-      "artistViewUrl": "https://apps.apple.com/us/developer/jrustonapps-b-v/id549019599?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/11/d8/8611d873-d49d-9c24-ecfb-a830de226ae5/AppIcon-2-0-0-1x_U007epad-0-11-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/11/d8/8611d873-d49d-9c24-ecfb-a830de226ae5/AppIcon-2-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
+      "artistViewUrl": "https://apps.apple.com/us/developer/jrustonapps-b-v/id549019599?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/cd/26/e8cd26c7-c974-161c-a7fb-342bd9565278/AppIcon-2-0-0-1x_U007epad-0-11-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/cd/26/e8cd26c7-c974-161c-a7fb-342bd9565278/AppIcon-2-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -339,9 +342,6 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "features": [
-        "iosUniversal"
-      ],
       "advisories": [],
       "kind": "software",
       "screenshotUrls": [
@@ -354,11 +354,12 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1a/a3/b9/1aa3b9ff-cbea-a3ae-4087-780d027de0c4/69389ea8-9f4d-4c16-8298-dc6464bb37ed_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029_-_2023-09-10_at_20.37.50.png/576x768bb.png"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/11/d8/8611d873-d49d-9c24-ecfb-a830de226ae5/AppIcon-2-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/cd/26/e8cd26c7-c974-161c-a7fb-342bd9565278/AppIcon-2-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
+      "minimumOsVersion": "15.0",
+      "contentAdvisoryRating": "4+",
       "trackCensoredName": "My Lightning Tracker Pro",
       "trackViewUrl": "https://apps.apple.com/us/app/my-lightning-tracker-pro/id1175031995?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.80487,
+      "averageUserRating": 4.80494,
       "artistId": 549019599,
       "artistName": "JRustonApps B.V.",
       "genres": [
@@ -367,22 +368,25 @@
       ],
       "price": 4.99,
       "bundleId": "com.jrustonapps.My-Lightning-Tracker-Pro",
-      "trackId": 1175031995,
-      "trackName": "My Lightning Tracker Pro",
+      "genreIds": [
+        "6001",
+        "6003"
+      ],
       "releaseDate": "2016-11-16T15:56:17Z",
+      "trackName": "My Lightning Tracker Pro",
+      "trackId": 1175031995,
       "primaryGenreName": "Weather",
       "primaryGenreId": 6001,
-      "isVppDeviceBasedLicensingEnabled": true,
       "sellerName": "JRustonApps B.V.",
-      "currentVersionReleaseDate": "2026-06-25T23:30:27Z",
-      "releaseNotes": "Due to important changes, this app update will soon be a required update.",
-      "version": "26.2.4",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-08-01T21:10:52Z",
+      "releaseNotes": "Important bug fixes.",
+      "version": "26.2.7",
       "wrapperType": "software",
       "currency": "USD",
       "description": "My Lightning Tracker Pro is the best app for monitoring lightning strikes all around the world in close to real-time. With a sleek modern design, you can watch thunderstorms as they occur. You can also receive notifications whenever strikes are detected in your area.\n\n- Detects and displays lightning strikes all around the world!\n- See a history of hotspots where lightning strikes occur most often!\n- View more detailed information about where the thunderstorm is occurring on a map.\n- Receive a lightning alarm when a storm is nearby so that you can monitor it live.\n- Share a strike with your friends so that they can see where the thunder & lightning is occurring too!\n- Monitor the weather radar to track what could be coming.\n- Full support for the latest iPhone and iPad models.\n- Pro version is ad-free and includes Apple Watch support!\n\nIf you want the most efficient way of keeping up lightning strikes and thunderstorms, then My Lightning Tracker Pro is the right lightning network for you. This version is similar to apps such as Blitzortung, Clime, Spark and Live Lightning.",
-      "minimumOsVersion": "15.0",
-      "averageUserRatingForCurrentVersion": 4.80487,
       "sellerUrl": "https://www.jrustonapps.com/apps/my-lightning-tracker",
+      "averageUserRatingForCurrentVersion": 4.80494,
       "languageCodesISO2A": [
         "DA",
         "NL",
@@ -399,28 +403,20 @@
       ],
       "fileSizeBytes": "9949184",
       "formattedPrice": "$4.99",
+      "userRatingCountForCurrentVersion": 5916,
       "trackContentRating": "4+",
-      "userRatingCountForCurrentVersion": 5914,
-      "genreIds": [
-        "6001",
-        "6003"
-      ],
-      "userRatingCount": 5914,
+      "userRatingCount": 5916,
       "country": "USA"
     },
     {
+      "features": [
+        "iosUniversal"
+      ],
+      "artistViewUrl": "https://apps.apple.com/fr/developer/jrustonapps-b-v/id549019599?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/cd/26/e8cd26c7-c974-161c-a7fb-342bd9565278/AppIcon-2-0-0-1x_U007epad-0-11-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/cd/26/e8cd26c7-c974-161c-a7fb-342bd9565278/AppIcon-2-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/67/80/53/678053e2-72aa-f35b-9e76-78c21e9f0e14/1837df42-8da9-44cd-83a7-57d4942b0a57_Simulator_Screenshot_-_iPhone_6s_Plus_-_2024-02-29_at_11.55.53.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/5f/3f/e45f3fda-fcd4-387f-b412-adc2434aa4d5/3c69ea72-bcc2-4e16-9dfd-e136808ca86a_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2022-05-27_at_10.12.26.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/f0/df/a7f0df90-595f-a39e-6961-97bf6859fd80/tns.xfqnjjvx.png/392x696bb.png"
-      ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f5/49/c2/f549c249-1f4b-6666-9b1d-fd8d0f1fb2a9/97033497-81bc-4525-a04d-f26867b8f30a_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029_-_2024-02-29_at_12.21.25.png/576x768bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/35/6e/68/356e689c-04fc-0958-f5a5-00a7b00d2c0c/3c9caba5-c36c-4ff1-a6cc-1d0e06bd8b5b_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029_-_2023-09-10_at_20.45.58.png/576x768bb.png"
-      ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/11/d8/8611d873-d49d-9c24-ecfb-a830de226ae5/AppIcon-2-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -551,17 +547,46 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [],
       "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/fr/developer/jrustonapps-b-v/id549019599?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/11/d8/8611d873-d49d-9c24-ecfb-a830de226ae5/AppIcon-2-0-0-1x_U007epad-0-11-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/11/d8/8611d873-d49d-9c24-ecfb-a830de226ae5/AppIcon-2-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.jpg",
-      "minimumOsVersion": "15.0",
-      "sellerUrl": "https://www.jrustonapps.com/apps/my-lightning-tracker",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/67/80/53/678053e2-72aa-f35b-9e76-78c21e9f0e14/1837df42-8da9-44cd-83a7-57d4942b0a57_Simulator_Screenshot_-_iPhone_6s_Plus_-_2024-02-29_at_11.55.53.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/5f/3f/e45f3fda-fcd4-387f-b412-adc2434aa4d5/3c69ea72-bcc2-4e16-9dfd-e136808ca86a_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2022-05-27_at_10.12.26.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/f0/df/a7f0df90-595f-a39e-6961-97bf6859fd80/tns.xfqnjjvx.png/392x696bb.png"
+      ],
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f5/49/c2/f549c249-1f4b-6666-9b1d-fd8d0f1fb2a9/97033497-81bc-4525-a04d-f26867b8f30a_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029_-_2024-02-29_at_12.21.25.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/35/6e/68/356e689c-04fc-0958-f5a5-00a7b00d2c0c/3c9caba5-c36c-4ff1-a6cc-1d0e06bd8b5b_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029_-_2023-09-10_at_20.45.58.png/576x768bb.png"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/cd/26/e8cd26c7-c974-161c-a7fb-342bd9565278/AppIcon-2-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
+      "averageUserRating": 4.81818,
+      "trackCensoredName": "Mon Traqueur de Foudre Pro",
+      "trackViewUrl": "https://apps.apple.com/fr/app/mon-traqueur-de-foudre-pro/id1175031995?uo=4",
+      "contentAdvisoryRating": "4+",
+      "artistId": 549019599,
+      "genres": [
+        "Météo",
+        "Voyages"
+      ],
+      "artistName": "JRustonApps B.V.",
+      "price": 5.99,
+      "bundleId": "com.jrustonapps.My-Lightning-Tracker-Pro",
+      "releaseDate": "2016-11-16T15:56:17Z",
+      "trackId": 1175031995,
+      "trackName": "Mon Traqueur de Foudre Pro",
+      "genreIds": [
+        "6001",
+        "6003"
+      ],
+      "currentVersionReleaseDate": "2026-08-01T21:10:52Z",
+      "releaseNotes": "Important bug fixes.",
+      "version": "26.2.7",
+      "wrapperType": "software",
+      "currency": "EUR",
+      "description": "Mon Traqueur de Foudre Pro est la meilleure appli pour surveiller les éclairs dans le monde entier, presque en temps réel. Avec un design moderne et élégant, vous pouvez regarder les orages quand ils se produisent. Vous pouvez également recevoir des notifications chaque fois que des éclairs sont détectés dans votre région.\n\n- Affiche les éclairs dans le monde entier !\n- Consultez un historique des zones sensibles où des éclairs se produisent le plus souvent !\n- Affichez des informations plus détaillées sur l'emplacement de l'orage sur une carte.\n- Recevez des notifications quand une tempête est à proximité afin que vous puissiez la surveiller en direct.\n- Partagez la foudre avec vos amis afin qu'ils puissent voir où le tonnerre et la foudre se produisent aussi !\n- Prise en charge complète pour les dernières versions d'iOS.\n\nSi vous voulez le moyen le plus efficace de suivre les éclairs et les orages, alors Mon traqueur de foudre pro est l'appli qu'il vous faut. Cette appli vous permettra de savoir quand un orage pourrait être en chemin.",
       "averageUserRatingForCurrentVersion": 4.81818,
+      "sellerUrl": "https://www.jrustonapps.com/apps/my-lightning-tracker",
+      "userRatingCountForCurrentVersion": 231,
       "languageCodesISO2A": [
         "DA",
         "NL",
@@ -578,37 +603,12 @@
       ],
       "fileSizeBytes": "9949184",
       "formattedPrice": "5,99 €",
-      "userRatingCountForCurrentVersion": 231,
       "trackContentRating": "4+",
-      "artistId": 549019599,
-      "artistName": "JRustonApps B.V.",
-      "genres": [
-        "Météo",
-        "Voyages"
-      ],
-      "price": 5.99,
-      "trackId": 1175031995,
-      "trackName": "Mon Traqueur de Foudre Pro",
-      "releaseDate": "2016-11-16T15:56:17Z",
-      "bundleId": "com.jrustonapps.My-Lightning-Tracker-Pro",
-      "sellerName": "JRustonApps B.V.",
-      "currentVersionReleaseDate": "2026-06-25T23:30:27Z",
-      "version": "26.2.4",
-      "wrapperType": "software",
-      "currency": "EUR",
-      "description": "Mon Traqueur de Foudre Pro est la meilleure appli pour surveiller les éclairs dans le monde entier, presque en temps réel. Avec un design moderne et élégant, vous pouvez regarder les orages quand ils se produisent. Vous pouvez également recevoir des notifications chaque fois que des éclairs sont détectés dans votre région.\n\n- Affiche les éclairs dans le monde entier !\n- Consultez un historique des zones sensibles où des éclairs se produisent le plus souvent !\n- Affichez des informations plus détaillées sur l'emplacement de l'orage sur une carte.\n- Recevez des notifications quand une tempête est à proximité afin que vous puissiez la surveiller en direct.\n- Partagez la foudre avec vos amis afin qu'ils puissent voir où le tonnerre et la foudre se produisent aussi !\n- Prise en charge complète pour les dernières versions d'iOS.\n\nSi vous voulez le moyen le plus efficace de suivre les éclairs et les orages, alors Mon traqueur de foudre pro est l'appli qu'il vous faut. Cette appli vous permettra de savoir quand un orage pourrait être en chemin.",
-      "averageUserRating": 4.81818,
-      "trackCensoredName": "Mon Traqueur de Foudre Pro",
-      "trackViewUrl": "https://apps.apple.com/fr/app/mon-traqueur-de-foudre-pro/id1175031995?uo=4",
-      "contentAdvisoryRating": "4+",
+      "minimumOsVersion": "15.0",
       "isVppDeviceBasedLicensingEnabled": true,
-      "releaseNotes": "Due to important changes, this app update will soon be a required update.",
       "primaryGenreName": "Weather",
       "primaryGenreId": 6001,
-      "genreIds": [
-        "6001",
-        "6003"
-      ],
+      "sellerName": "JRustonApps B.V.",
       "userRatingCount": 231,
       "country": "FRA"
     },

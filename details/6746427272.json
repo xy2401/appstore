@@ -186,10 +186,14 @@
       "userRatingCount": 4640
     },
     {
+      "advisories": [],
+      "isGameCenterEnabled": false,
       "artistViewUrl": "https://apps.apple.com/jp/developer/nhk-japan-broadcasting-corporation/id307227304?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/e4/88/71e4883d-1c1b-8fa8-3a5c-b238be193a77/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/e4/88/71e4883d-1c1b-8fa8-3a5c-b238be193a77/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
-      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -319,55 +323,51 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [],
       "kind": "software",
       "screenshotUrls": [],
+      "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/e4/88/71e4883d-1c1b-8fa8-3a5c-b238be193a77/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "ipadScreenshotUrls": [],
-      "averageUserRating": 3.19799,
+      "primaryGenreName": "News",
+      "primaryGenreId": 6009,
+      "sellerName": "NHK (Japan Broadcasting Corp.)",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "averageUserRating": 3.20221,
       "trackCensoredName": "NHK ONE ニュース・防災",
-      "trackViewUrl": "https://apps.apple.com/jp/app/nhk-one-%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9-%E9%98%B2%E7%81%BD/id6746427272?uo=4",
       "contentAdvisoryRating": "4+",
-      "releaseNotes": "今回のリリースでは、以下の変更を行いました。\n \n・記事の検索機能を追加しました。\n・軽微な修正を行いました。\n \n今後も機能拡充と改善に努めてまいります。",
+      "trackViewUrl": "https://apps.apple.com/jp/app/nhk-one-%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9-%E9%98%B2%E7%81%BD/id6746427272?uo=4",
       "artistId": 307227304,
       "artistName": "NHK (Japan Broadcasting Corporation)",
-      "genres": [
-        "ニュース",
-        "天気"
-      ],
       "price": 0,
       "bundleId": "nhk.app.nwa",
-      "trackName": "NHK ONE ニュース・防災",
+      "releaseNotes": "今回のリリースでは、以下の変更を行いました。\n \n・記事の検索機能を追加しました。\n・軽微な修正を行いました。\n \n今後も機能拡充と改善に努めてまいります。",
       "trackId": 6746427272,
-      "sellerName": "NHK (Japan Broadcasting Corp.)",
+      "trackName": "NHK ONE ニュース・防災",
+      "releaseDate": "2025-10-01T07:00:00Z",
       "genreIds": [
         "6009",
         "6001"
       ],
-      "primaryGenreName": "News",
-      "primaryGenreId": 6009,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseDate": "2025-10-01T07:00:00Z",
-      "currentVersionReleaseDate": "2026-07-14T02:00:27Z",
       "version": "1.6.0",
       "wrapperType": "software",
       "currency": "JPY",
       "description": "「命と暮らしを守る情報」を届けるNHK公式アプリ\n・正確なニュース、災害・気象情報をいち早く\n・テレビの主なニュース番組をスマホで同時・見逃し配信\n・速報や命を守る情報をプッシュ通知で速やかに\n・地域ごとのきめ細かい災害情報や天気予報\n・マップでも雨雲レーダーや河川情報を\n\n■主な機能■\n○NHKが取材したニュース記事・動画を網羅\n・社会、災害、政治、ビジネス、国際、スポーツなど\n・日本全国各地域ごとのニュースも\n○ニュース番組を同時・見逃し配信\n・テレビの主なニュース番組をお手元に配信\n・災害時/緊急時には臨時のニュース番組も配信\n○速報や命を守る緊急の情報をプッシュ通知で\n・ニュース速報や災害情報をいち早くお手元に\n○各地の天気予報\n・現在位置や設定地域ごとにきめ細かく\n○地震、津波、台風などの災害情報\n・最新情報を掲載\n○特別警報、警報・注意報\n・現在位置や設定地域ごとにきめ細かく\n○避難情報\n・自治体の出す避難に関する情報を掲載\n○マップでも災害・気象情報を確認可能\n・雨雲レーダーや河川氾濫・河川カメラ画像\n・台風の進路予想\n\n■ご利用にあたって■\n○すでに世帯でNHKの受信契約がある場合は、別途のご契約や追加のご負担は必要ありません。受信契約を締結されていない方がご利用される場合は、NHKの受信契約の手続きをお願いします。\n○日本国外からはご利用できません。",
       "minimumOsVersion": "16.0",
-      "sellerUrl": "https://www.nhk.or.jp/nhkone/service/",
+      "averageUserRatingForCurrentVersion": 3.20221,
+      "userRatingCountForCurrentVersion": 5697,
       "languageCodesISO2A": [
         "JA"
       ],
       "fileSizeBytes": "37352448",
       "formattedPrice": "無料",
       "trackContentRating": "4+",
-      "userRatingCountForCurrentVersion": 5672,
-      "averageUserRatingForCurrentVersion": 3.19799,
-      "userRatingCount": 5672,
+      "sellerUrl": "https://www.nhk.or.jp/nhkone/service/",
+      "currentVersionReleaseDate": "2026-07-14T02:00:27Z",
+      "genres": [
+        "ニュース",
+        "天気"
+      ],
+      "userRatingCount": 5697,
       "country": "JPN"
     }
   ]
