@@ -2,14 +2,17 @@
   "resultCount": 1,
   "results": [
     {
-      "features": [
-        "iosUniversal"
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c2/d7/32/c2d73230-ddcc-66ae-a65b-37fa05085476/Simulator_Screenshot_-_iPhone_16_Pro_Max_iOS_26.3_-_2026-03-22_at_13.19.06.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a8/50/79/a85079f7-ff3e-b00a-f6ff-5be8733faa2d/Simulator_Screenshot_-_iPhone_16_Pro_Max_iOS_26.3_-_2026-03-22_at_13.19.41.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/07/aa/25/07aa2538-3f46-3cd3-a865-1084b9777777/Simulator_Screenshot_-_iPhone_16_Pro_Max_iOS_26.3_-_2026-03-22_at_13.31.27.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c1/81/d6/c181d6a6-38ae-9102-6085-0f7088322283/Simulator_Screenshot_-_iPhone_16_Pro_Max_iOS_26.3_-_2026-03-22_at_13.14.18.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a6/4a/a8/a64aa8fa-290d-95f7-5df1-1a07a9083d3f/Simulator_Screenshot_-_iPhone_16_Pro_Max_iOS_26.3_-_2026-03-22_at_13.33.12.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/80/45/9c/80459c35-e5c0-22b5-f18c-9a7b2cf76d29/Simulator_Screenshot_-_iPhone_16_Pro_Max_iOS_26.3_-_2026-03-22_at_13.25.16.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5e/cb/9e/5ecb9e62-4f4e-55ea-5af0-299a1bd0c9e2/Simulator_Screenshot_-_iPhone_16_Pro_Max_iOS_26.3_-_2026-03-22_at_13.13.58.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b8/a8/eb/b8a8eb73-c071-7ac0-3380-1b8f7cd83e8a/Simulator_Screenshot_-_iPhone_16_Pro_Max_iOS_26.3_-_2026-03-22_at_13.38.32.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c1/c1/9b/c1c19b66-51af-864a-c7b9-d9f1d00b8335/Simulator_Screenshot_-_iPhone_16_Pro_Max_iOS_26.3_-_2026-03-22_at_13.32.59.png/320x480bb.jpg"
       ],
-      "artistViewUrl": "https://apps.apple.com/fr/developer/qvyshift-llc/id1536442361?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/56/94/2056944d-d28f-e259-e4d1-349376cfaa6a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/56/94/2056944d-d28f-e259-e4d1-349376cfaa6a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
-      "isGameCenterEnabled": false,
-      "screenshotUrls": [],
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/28/8d/9e288db1-59e0-2e9c-b833-9d78c5a6176d/27fac53a-04dd-481b-bafc-5c7f39a6fff0_Simulator_Screen_Shot_-_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029_-_2022-09-09_at_13.03.18.png/552x414bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/60/fc/f560fc81-546c-495b-3d02-ad1dc38ad4b6/7dc16a92-2976-41a0-904e-20a762288945_Simulator_Screen_Shot_-_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029_-_2022-03-29_at_13.46.55.png/576x768bb.png",
@@ -24,8 +27,10 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/56/94/2056944d-d28f-e259-e4d1-349376cfaa6a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "advisories": [],
-      "kind": "software",
+      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -155,12 +160,11 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "bundleId": "com.qvyshift.fireguard",
-      "trackCensoredName": "Fireguard : Feux de Forêt",
-      "trackViewUrl": "https://apps.apple.com/fr/app/fireguard-feux-de-for%C3%AAt/id1609656462?uo=4",
-      "averageUserRating": 0,
-      "contentAdvisoryRating": "4+",
-      "minimumOsVersion": "16.0",
+      "advisories": [],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/fr/developer/qvyshift-llc/id1536442361?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/56/94/2056944d-d28f-e259-e4d1-349376cfaa6a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/56/94/2056944d-d28f-e259-e4d1-349376cfaa6a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
       "languageCodesISO2A": [
         "BN",
         "CS",
@@ -194,31 +198,37 @@
       ],
       "fileSizeBytes": "19654656",
       "formattedPrice": "9,99 €",
-      "trackContentRating": "4+",
       "userRatingCountForCurrentVersion": 0,
+      "trackContentRating": "4+",
       "averageUserRatingForCurrentVersion": 0,
+      "minimumOsVersion": "16.0",
       "artistId": 1536442361,
       "artistName": "Qvyshift LLC",
       "genres": [
         "Météo"
       ],
+      "price": 9.99,
+      "trackId": 1609656462,
+      "trackName": "Fireguard : Feux de Forêt",
+      "releaseDate": "2022-03-30T07:00:00Z",
       "genreIds": [
         "6001"
       ],
-      "trackId": 1609656462,
-      "trackName": "Fireguard : Feux de Forêt",
       "primaryGenreName": "Weather",
       "primaryGenreId": 6001,
-      "releaseDate": "2022-03-30T07:00:00Z",
       "sellerName": "Qvyshift LLC",
-      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-07-30T21:41:00Z",
+      "releaseNotes": "Amélioration des prédictions de survol des satellites.",
       "version": "3.0.11",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Suivez l'activité des feux de forêt en quasi temps réel sur une carte unique multi-couches. Fireguard récupère les données de la NASA, de la NOAA et d'autres sources officielles pour que vous puissiez voir où brûlent les incendies, dans quelle direction ils progressent et comment les conditions évoluent.\n\nCOUCHES MONDIALES\n• Détections de points chauds par satellite : Suomi-NPP, NOAA-20, NOAA-21 (VIIRS 375 m) et Terra (MODIS 1 km)\n• Traces au sol des satellites avec horaires des prochains passages\n• Filtre pour masquer les détections à faible confiance et réduire les faux positifs\n\nCOUCHES INTERNATIONALES\n• Feux de forêt actifs au Canada par province (RNCan CWFIS)\n• Incidents majeurs en Nouvelle-Galles du Sud, Australie (NSW RFS)\n• Périmètres d'incendies en Europe, Méditerranée et Moyen-Orient (EFFIS)\n\nCOUCHES ÉTATS-UNIS\n• Périmètres d'incendies actifs, rapports d'incidents, alertes météo, caméras, qualité de l'air et plus\n\nCONÇU POUR TOUS\n• Aucun compte, connexion ou abonnement requis\n• Surveillez jusqu'à 3 zones de carte simultanément\n• Appuyez sur n'importe quel marqueur ou polygone pour des détails complets avec liens vers les sources\n\nIdéal pour toute personne vivant ou travaillant à proximité de zones à risque d'incendie.",
-      "price": 9.99,
-      "releaseNotes": "Amélioration des prédictions de survol des satellites.",
+      "bundleId": "com.qvyshift.fireguard",
+      "trackViewUrl": "https://apps.apple.com/fr/app/fireguard-feux-de-for%C3%AAt/id1609656462?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 0,
+      "trackCensoredName": "Fireguard : Feux de Forêt",
+      "isVppDeviceBasedLicensingEnabled": true,
       "userRatingCount": 0,
       "country": "FRA"
     }

@@ -190,9 +190,6 @@
     },
     {
       "isGameCenterEnabled": false,
-      "artistViewUrl": "https://apps.apple.com/us/developer/skyhook/id1695118263?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/98/d1/49/98d149b0-645a-7cf4-fb16-3948ff3dd471/AppIcon-1x_U007emarketing-0-10-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/98/d1/49/98d149b0-645a-7cf4-fb16-3948ff3dd471/AppIcon-1x_U007emarketing-0-10-0-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/dd/25/3e/dd253ed9-8f15-3fa1-1c84-44cb49326a34/30e52f3b-a155-4043-b758-23a38e1d4488_IMG_0012.PNG/392x696bb.png"
       ],
@@ -200,7 +197,12 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/32/69/bb/3269bb6c-ab3a-0fac-f930-e524d11dd894/e3a0ae36-a06a-4355-876f-674a7e29cd5c_goblin.tools___U00282_U0029.png/552x414bb.png"
       ],
       "appletvScreenshotUrls": [],
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/98/d1/49/98d149b0-645a-7cf4-fb16-3948ff3dd471/AppIcon-1x_U007emarketing-0-10-0-85-220.png/60x60bb.jpg",
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/98/d1/49/98d149b0-645a-7cf4-fb16-3948ff3dd471/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/98/d1/49/98d149b0-645a-7cf4-fb16-3948ff3dd471/AppIcon-1x_U007emarketing-0-10-0-85-220.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/us/developer/skyhook/id1695118263?uo=4",
+      "advisories": [],
+      "kind": "software",
       "features": [
         "iosUniversal"
       ],
@@ -333,62 +335,49 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "kind": "software",
-      "advisories": [],
-      "releaseNotes": "Enabling cloud sync for todo lists! Privacy safe, synchronise between anything that runs goblin.tools, whether it's the website or apps. Also includes some stability improvements.",
+      "minimumOsVersion": "14.0",
+      "averageUserRatingForCurrentVersion": 4.77149,
       "trackCensoredName": "Goblin Tools",
-      "trackViewUrl": "https://apps.apple.com/us/app/goblin-tools/id6449003064?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.7721,
-      "averageUserRatingForCurrentVersion": 4.7721,
       "languageCodesISO2A": [
         "EN"
       ],
       "fileSizeBytes": "662528",
       "formattedPrice": "$2.99",
-      "userRatingCountForCurrentVersion": 2962,
+      "contentAdvisoryRating": "4+",
+      "userRatingCountForCurrentVersion": 2967,
+      "trackViewUrl": "https://apps.apple.com/us/app/goblin-tools/id6449003064?uo=4",
       "trackContentRating": "4+",
+      "averageUserRating": 4.77149,
       "artistId": 1695118263,
       "artistName": "Skyhook",
       "price": 2.99,
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
-      "releaseDate": "2023-05-31T07:00:00Z",
-      "currentVersionReleaseDate": "2023-06-23T05:40:54Z",
-      "trackId": 6449003064,
-      "trackName": "Goblin Tools",
-      "version": "1.1",
-      "wrapperType": "software",
-      "currency": "USD",
-      "description": "This is an app version of the free website goblin.tools, a collection of small, simple, single-task tools, mostly designed to help neurodivergent people with tasks they find overwhelming or difficult.\n\n\n\nTools include\n- A Magic Todo list that automatically breaks down tasks into steps\n- The Formalizer that transforms your language to be more formal, sociable, concise, or many other options\n- The Judge that helps with interpreting tone\n- The Estimator that can guess at a timeframe for an activity\n- The Compiler to take entire braindumps and turn them into actionable tasks\n- The Chef, who turns a description of what ingredients and tools you have in your kitchen into a real recipe\n\n\n\nAnd many more to come!\n\n\n\nThe website is free and publicly available. Purchases of this app go first towards keeping the site free and ad-free, before supporting the author.",
-      "minimumOsVersion": "14.0",
-      "isVppDeviceBasedLicensingEnabled": true,
       "genres": [
         "Utilities",
         "Productivity"
       ],
       "bundleId": "com.goblintools",
+      "trackId": 6449003064,
+      "trackName": "Goblin Tools",
+      "releaseDate": "2023-05-31T07:00:00Z",
       "genreIds": [
         "6002",
         "6007"
       ],
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
       "sellerName": "Skyhook",
-      "userRatingCount": 2962,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2023-06-23T05:40:54Z",
+      "releaseNotes": "Enabling cloud sync for todo lists! Privacy safe, synchronise between anything that runs goblin.tools, whether it's the website or apps. Also includes some stability improvements.",
+      "version": "1.1",
+      "wrapperType": "software",
+      "currency": "USD",
+      "description": "This is an app version of the free website goblin.tools, a collection of small, simple, single-task tools, mostly designed to help neurodivergent people with tasks they find overwhelming or difficult.\n\n\n\nTools include\n- A Magic Todo list that automatically breaks down tasks into steps\n- The Formalizer that transforms your language to be more formal, sociable, concise, or many other options\n- The Judge that helps with interpreting tone\n- The Estimator that can guess at a timeframe for an activity\n- The Compiler to take entire braindumps and turn them into actionable tasks\n- The Chef, who turns a description of what ingredients and tools you have in your kitchen into a real recipe\n\n\n\nAnd many more to come!\n\n\n\nThe website is free and publicly available. Purchases of this app go first towards keeping the site free and ad-free, before supporting the author.",
+      "userRatingCount": 2967,
       "country": "USA"
     },
     {
       "isGameCenterEnabled": false,
-      "artistViewUrl": "https://apps.apple.com/de/developer/skyhook/id1695118263?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/98/d1/49/98d149b0-645a-7cf4-fb16-3948ff3dd471/AppIcon-1x_U007emarketing-0-10-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/98/d1/49/98d149b0-645a-7cf4-fb16-3948ff3dd471/AppIcon-1x_U007emarketing-0-10-0-85-220.png/100x100bb.jpg",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/dd/25/3e/dd253ed9-8f15-3fa1-1c84-44cb49326a34/30e52f3b-a155-4043-b758-23a38e1d4488_IMG_0012.PNG/392x696bb.png"
-      ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/32/69/bb/3269bb6c-ab3a-0fac-f930-e524d11dd894/e3a0ae36-a06a-4355-876f-674a7e29cd5c_goblin.tools___U00282_U0029.png/552x414bb.png"
-      ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/98/d1/49/98d149b0-645a-7cf4-fb16-3948ff3dd471/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -520,15 +509,39 @@
       ],
       "advisories": [],
       "kind": "software",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/dd/25/3e/dd253ed9-8f15-3fa1-1c84-44cb49326a34/30e52f3b-a155-4043-b758-23a38e1d4488_IMG_0012.PNG/392x696bb.png"
+      ],
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/32/69/bb/3269bb6c-ab3a-0fac-f930-e524d11dd894/e3a0ae36-a06a-4355-876f-674a7e29cd5c_goblin.tools___U00282_U0029.png/552x414bb.png"
+      ],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/98/d1/49/98d149b0-645a-7cf4-fb16-3948ff3dd471/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg",
+      "appletvScreenshotUrls": [],
       "features": [
         "iosUniversal"
       ],
-      "trackCensoredName": "Goblin Tools",
-      "trackViewUrl": "https://apps.apple.com/de/app/goblin-tools/id6449003064?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.89375,
+      "artistViewUrl": "https://apps.apple.com/de/developer/skyhook/id1695118263?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/98/d1/49/98d149b0-645a-7cf4-fb16-3948ff3dd471/AppIcon-1x_U007emarketing-0-10-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/98/d1/49/98d149b0-645a-7cf4-fb16-3948ff3dd471/AppIcon-1x_U007emarketing-0-10-0-85-220.png/100x100bb.jpg",
+      "artistId": 1695118263,
+      "artistName": "Skyhook",
+      "genreIds": [
+        "6002",
+        "6007"
+      ],
+      "isVppDeviceBasedLicensingEnabled": true,
+      "bundleId": "com.goblintools",
+      "trackName": "Goblin Tools",
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
+      "releaseDate": "2023-05-31T07:00:00Z",
+      "sellerName": "Skyhook",
+      "currentVersionReleaseDate": "2023-06-23T05:40:54Z",
+      "version": "1.1",
+      "wrapperType": "software",
+      "currency": "EUR",
+      "description": "This is an app version of the free website goblin.tools, a collection of small, simple, single-task tools, mostly designed to help neurodivergent people with tasks they find overwhelming or difficult.\n\n\n\nTools include\n- A Magic Todo list that automatically breaks down tasks into steps\n- The Formalizer that transforms your language to be more formal, sociable, concise, or many other options\n- The Judge that helps with interpreting tone\n- The Estimator that can guess at a timeframe for an activity\n- The Compiler to take entire braindumps and turn them into actionable tasks\n- The Chef, who turns a description of what ingredients and tools you have in your kitchen into a real recipe\n\n\n\nAnd many more to come!\n\n\n\nThe website is free and publicly available. Purchases of this app go first towards keeping the site free and ad-free, before supporting the author.",
       "minimumOsVersion": "14.0",
-      "averageUserRatingForCurrentVersion": 4.89375,
       "languageCodesISO2A": [
         "EN"
       ],
@@ -536,31 +549,18 @@
       "formattedPrice": "2,99 €",
       "userRatingCountForCurrentVersion": 160,
       "trackContentRating": "4+",
-      "price": 2.99,
+      "averageUserRatingForCurrentVersion": 4.89375,
+      "averageUserRating": 4.89375,
+      "trackCensoredName": "Goblin Tools",
+      "trackViewUrl": "https://apps.apple.com/de/app/goblin-tools/id6449003064?uo=4",
+      "contentAdvisoryRating": "4+",
+      "trackId": 6449003064,
       "genres": [
         "Dienst­programme",
         "Produktivität"
       ],
-      "releaseDate": "2023-05-31T07:00:00Z",
-      "genreIds": [
-        "6002",
-        "6007"
-      ],
-      "trackId": 6449003064,
-      "trackName": "Goblin Tools",
       "releaseNotes": "Enabling cloud sync for todo lists! Privacy safe, synchronise between anything that runs goblin.tools, whether it's the website or apps. Also includes some stability improvements.",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "sellerName": "Skyhook",
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
-      "currentVersionReleaseDate": "2023-06-23T05:40:54Z",
-      "version": "1.1",
-      "wrapperType": "software",
-      "currency": "EUR",
-      "description": "This is an app version of the free website goblin.tools, a collection of small, simple, single-task tools, mostly designed to help neurodivergent people with tasks they find overwhelming or difficult.\n\n\n\nTools include\n- A Magic Todo list that automatically breaks down tasks into steps\n- The Formalizer that transforms your language to be more formal, sociable, concise, or many other options\n- The Judge that helps with interpreting tone\n- The Estimator that can guess at a timeframe for an activity\n- The Compiler to take entire braindumps and turn them into actionable tasks\n- The Chef, who turns a description of what ingredients and tools you have in your kitchen into a real recipe\n\n\n\nAnd many more to come!\n\n\n\nThe website is free and publicly available. Purchases of this app go first towards keeping the site free and ad-free, before supporting the author.",
-      "bundleId": "com.goblintools",
-      "artistId": 1695118263,
-      "artistName": "Skyhook",
+      "price": 2.99,
       "userRatingCount": 160,
       "country": "DEU"
     },
@@ -572,13 +572,7 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/32/69/bb/3269bb6c-ab3a-0fac-f930-e524d11dd894/e3a0ae36-a06a-4355-876f-674a7e29cd5c_goblin.tools___U00282_U0029.png/552x414bb.png"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/98/d1/49/98d149b0-645a-7cf4-fb16-3948ff3dd471/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg",
       "isGameCenterEnabled": false,
-      "advisories": [],
-      "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/gb/developer/skyhook/id1695118263?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/98/d1/49/98d149b0-645a-7cf4-fb16-3948ff3dd471/AppIcon-1x_U007emarketing-0-10-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/98/d1/49/98d149b0-645a-7cf4-fb16-3948ff3dd471/AppIcon-1x_U007emarketing-0-10-0-85-220.png/100x100bb.jpg",
       "features": [
         "iosUniversal"
       ],
@@ -711,45 +705,51 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "averageUserRatingForCurrentVersion": 4.81989,
-      "trackCensoredName": "Goblin Tools",
-      "languageCodesISO2A": [
-        "EN"
-      ],
-      "fileSizeBytes": "662528",
-      "formattedPrice": "£2.99",
-      "userRatingCountForCurrentVersion": 372,
-      "trackViewUrl": "https://apps.apple.com/gb/app/goblin-tools/id6449003064?uo=4",
-      "trackContentRating": "4+",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/98/d1/49/98d149b0-645a-7cf4-fb16-3948ff3dd471/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg",
+      "advisories": [],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/gb/developer/skyhook/id1695118263?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/98/d1/49/98d149b0-645a-7cf4-fb16-3948ff3dd471/AppIcon-1x_U007emarketing-0-10-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/98/d1/49/98d149b0-645a-7cf4-fb16-3948ff3dd471/AppIcon-1x_U007emarketing-0-10-0-85-220.png/100x100bb.jpg",
+      "averageUserRatingForCurrentVersion": 4.82038,
+      "artistName": "Skyhook",
+      "artistId": 1695118263,
       "genres": [
         "Utilities",
         "Productivity"
       ],
-      "artistId": 1695118263,
-      "artistName": "Skyhook",
       "price": 2.99,
       "genreIds": [
         "6002",
         "6007"
       ],
+      "userRatingCountForCurrentVersion": 373,
+      "trackContentRating": "4+",
+      "releaseDate": "2023-05-31T07:00:00Z",
       "primaryGenreName": "Utilities",
       "primaryGenreId": 6002,
-      "sellerName": "Skyhook",
-      "isVppDeviceBasedLicensingEnabled": true,
+      "trackId": 6449003064,
+      "trackName": "Goblin Tools",
       "currentVersionReleaseDate": "2023-06-23T05:40:54Z",
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "fileSizeBytes": "662528",
+      "formattedPrice": "£2.99",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "Skyhook",
       "releaseNotes": "Enabling cloud sync for todo lists! Privacy safe, synchronise between anything that runs goblin.tools, whether it's the website or apps. Also includes some stability improvements.",
       "version": "1.1",
       "wrapperType": "software",
       "currency": "GBP",
       "description": "This is an app version of the free website goblin.tools, a collection of small, simple, single-task tools, mostly designed to help neurodivergent people with tasks they find overwhelming or difficult.\n\n\n\nTools include\n- A Magic Todo list that automatically breaks down tasks into steps\n- The Formalizer that transforms your language to be more formal, sociable, concise, or many other options\n- The Judge that helps with interpreting tone\n- The Estimator that can guess at a timeframe for an activity\n- The Compiler to take entire braindumps and turn them into actionable tasks\n- The Chef, who turns a description of what ingredients and tools you have in your kitchen into a real recipe\n\n\n\nAnd many more to come!\n\n\n\nThe website is free and publicly available. Purchases of this app go first towards keeping the site free and ad-free, before supporting the author.",
       "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.81989,
+      "averageUserRating": 4.82038,
+      "trackCensoredName": "Goblin Tools",
+      "trackViewUrl": "https://apps.apple.com/gb/app/goblin-tools/id6449003064?uo=4",
       "minimumOsVersion": "14.0",
       "bundleId": "com.goblintools",
-      "trackName": "Goblin Tools",
-      "trackId": 6449003064,
-      "releaseDate": "2023-05-31T07:00:00Z",
-      "userRatingCount": 372,
+      "userRatingCount": 373,
       "country": "GBR"
     },
     {

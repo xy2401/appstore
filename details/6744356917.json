@@ -183,10 +183,6 @@
       "userRatingCount": 7
     },
     {
-      "screenshotUrls": [],
-      "ipadScreenshotUrls": [],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/8d/fe/468dfe82-8a62-ed12-0cb7-8987c4c964d4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
@@ -325,43 +321,64 @@
       "artistViewUrl": "https://apps.apple.com/cn/developer/tianjin-kunyu-technology-co-ltd/id1647563391?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/8d/fe/468dfe82-8a62-ed12-0cb7-8987c4c964d4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/8d/fe/468dfe82-8a62-ed12-0cb7-8987c4c964d4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
-      "languageCodesISO2A": [
-        "EN"
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b8/64/5a/b8645a8b-4d9a-d2dc-7b1b-da04dacd74ab/1260x2736_2.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/74/65/c8/7465c8be-0470-0340-3cfc-9b1b9c87027f/1260x2736_1.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9e/28/42/9e2842a0-be24-1e52-543b-5fdb67dfa6e8/1260x2736_4.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/77/29/6f/77296f97-53e3-ada5-239b-e9c7c38ea345/1260x2736_3.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/da/ce/9f/dace9fa8-53db-e647-82a7-004bb38e04cf/1260x2736_5.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5b/97/37/5b9737cd-5f71-c91a-92a6-4ee1cd987b8f/1260x2736_6.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dc/b2/4d/dcb24d27-4ead-9f91-d64a-ea51258427d3/1260x2736_0.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/95/42/b6/9542b680-1d19-f051-54f6-25b33d0fccf0/1260x2736_0.png/320x480bb.jpg"
       ],
-      "fileSizeBytes": "1859676160",
-      "formattedPrice": "¥1.00",
-      "userRatingCountForCurrentVersion": 7,
-      "trackContentRating": "17+",
-      "averageUserRatingForCurrentVersion": 1,
-      "releaseNotes": "修复已知问题。",
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/17/66/9e/17669e26-7bf2-d5ef-6ea7-9ea2a9c969b3/2732x2048_4.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/50/95/04/5095049a-895e-820f-b10f-d59b04b08fbe/2732x2048_1.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8b/88/07/8b880797-d075-98d2-8599-d978a5f025b7/2732x2048_6.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ce/26/36/ce263674-7072-dc2e-712d-9ea542940b30/2732x2048_3.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5e/67/d4/5e67d470-443a-652c-b272-a49a67039a0b/2732x2048_2.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/69/c4/41/69c4416e-a4b8-962e-4669-dec8a1659152/2732x2048_5.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5f/e2/19/5fe219a9-9714-b8af-58d0-74e5b4674f57/2732x2048_7.png/360x480bb.jpg"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/8d/fe/468dfe82-8a62-ed12-0cb7-8987c4c964d4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "artistId": 1647563391,
       "artistName": "TIANJIN KUNYU TECHNOLOGY CO LTD",
       "genres": [
         "娱乐"
       ],
       "price": 1,
-      "bundleId": "com.hx.interactive",
-      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseNotes": "修复已知问题。",
+      "releaseDate": "2025-08-07T07:00:00Z",
+      "currentVersionReleaseDate": "2026-03-07T08:36:55Z",
+      "trackId": 6744356917,
+      "trackName": "开局五个亿-超现实模拟经营真人互动影游",
       "genreIds": [
         "6016"
       ],
-      "releaseDate": "2025-08-07T07:00:00Z",
       "primaryGenreName": "Entertainment",
       "primaryGenreId": 6016,
       "sellerName": "TIANJIN KUNYU TECHNOLOGY CO LTD",
-      "trackName": "开局五个亿-超现实模拟经营真人互动影游",
-      "trackId": 6744356917,
-      "currentVersionReleaseDate": "2026-03-07T08:36:55Z",
+      "isVppDeviceBasedLicensingEnabled": true,
       "version": "1.0.7",
       "wrapperType": "software",
       "currency": "CNY",
       "description": "开局五个亿，你将如何规划自己的人生？从零开始构建商业版图，在事业与情感的抉择中，书写属于你的独特故事。\n\n本作参考现实物价与商业事件，将真实的创业投资流程以轻松有趣的模拟经营方式呈现。你将化身主角，手握五亿启动资金，在一次次投资决策中积累财富，也在与六位性格各异的女性角色的相遇中，体验情感的交织与成长。\n\n【应用特色】\n\n1. 事业与情感双主线，真实创业体验\n从五亿启动资金开始，你的每一个投资决策都将影响财富走向，进而推动与不同角色之间的关系发展。在商业扩张与个人情感之间，如何找到属于自己的平衡点？\n\n2. 实力演员与人气创作者联合出演\n梅宝莱、温心、陈思澈、李心爱、刘梦茹等演员主演，携手花碎花、DJ江小白、牛奶公主小章等众多人气创作者共同参演。她们将化身性格迥异的角色，或干练、或温柔、或率真、或神秘，陪伴你的创业之路。随着剧情推进，你将有机会与她们展开更深度的故事互动。\n\n3. 多分支剧情，隐藏故事与彩蛋等待探索\n游戏内含百余种故事分支，多条隐藏剧情线等你发掘。财富积累与情商选择同样重要，不同的决策将带你走向截然不同的结局。注：结合现实生活的所见所闻，做出最符合内心的选择，或许会有意想不到的收获。\n\n4. 沉浸式创业模拟，体验财富积累与人生抉择\n随着主角财富值与事业版图的变化，角色们的心态与诉求也将随之改变。面对性格各异、背景不同的六位女性角色，你将如何与她们相处？在事业上升的不同阶段，她们的态度又将发生怎样的变化？一切由你决定。\n\n游戏中穿插了超过100个映射现实事件的“彩蛋梗”，涵盖商业、娱乐、文化等多个领域，期待玩家自行挖掘。",
+      "contentAdvisoryRating": "17+",
+      "averageUserRating": 1.125,
       "trackCensoredName": "开局五个亿-超现实模拟经营真人互动影游",
       "trackViewUrl": "https://apps.apple.com/cn/app/%E5%BC%80%E5%B1%80%E4%BA%94%E4%B8%AA%E4%BA%BF-%E8%B6%85%E7%8E%B0%E5%AE%9E%E6%A8%A1%E6%8B%9F%E7%BB%8F%E8%90%A5%E7%9C%9F%E4%BA%BA%E4%BA%92%E5%8A%A8%E5%BD%B1%E6%B8%B8/id6744356917?uo=4",
-      "contentAdvisoryRating": "17+",
-      "averageUserRating": 1,
       "minimumOsVersion": "12.0",
-      "userRatingCount": 7,
+      "fileSizeBytes": "1859676160",
+      "formattedPrice": "¥1.00",
+      "userRatingCountForCurrentVersion": 8,
+      "trackContentRating": "17+",
+      "averageUserRatingForCurrentVersion": 1.125,
+      "bundleId": "com.hx.interactive",
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "userRatingCount": 8,
       "country": "CHN"
     }
   ]

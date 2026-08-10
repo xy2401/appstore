@@ -250,9 +250,6 @@
     },
     {
       "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -384,14 +381,28 @@
       ],
       "advisories": [],
       "kind": "software",
-      "screenshotUrls": [],
-      "ipadScreenshotUrls": [],
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f0/5f/07/f05f0748-314c-4b2e-5edb-7cdfeb28e35d/APP_IPHONE_65-1.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/49/22/02/492202b7-cbe6-4b32-a91c-260f103c9458/APP_IPHONE_65-2.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/09/fd/02/09fd021a-7949-5ff0-439c-8abad7043f0a/APP_IPHONE_65-3.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/16/4c/60/164c60db-2fe8-5023-d561-4fc85a62b213/APP_IPHONE_65-4.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/80/a0/2d/80a02df0-aa32-4608-15ed-2b1677ab9936/APP_IPHONE_65-5.png/320x480bb.jpg"
+      ],
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f3/84/27/f38427f8-1e15-2fab-7222-1f03e4d6fd1d/APP_IPAD_PRO_3GEN_129-1.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ac/dc/5e/acdc5e68-9dea-23cd-b5db-4a48187a0826/APP_IPAD_PRO_3GEN_129-2.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a7/42/a4/a742a4e0-8d23-8609-f29d-d58ba84a38f0/APP_IPAD_PRO_3GEN_129-3.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c1/29/eb/c129eb28-b778-214a-3c9b-f3f7b9ec52b5/APP_IPAD_PRO_3GEN_129-4.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4c/94/54/4c945414-ee9d-127e-2b7d-0ed87a668b3b/APP_IPAD_PRO_3GEN_129-5.png/360x480bb.jpg"
+      ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/0c/2b/840c2bf2-2f0e-db28-097c-6f4284205d1d/drive_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/512x512bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/0b/d2/350bd2a1-96ea-e180-2a28-2319d4e7f38a/drive_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/60x60bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/0b/d2/350bd2a1-96ea-e180-2a28-2319d4e7f38a/drive_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/512x512bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/0b/d2/350bd2a1-96ea-e180-2a28-2319d4e7f38a/drive_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.jpg",
       "artistViewUrl": "https://apps.apple.com/jp/developer/google/id281956209?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/0c/2b/840c2bf2-2f0e-db28-097c-6f4284205d1d/drive_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/0c/2b/840c2bf2-2f0e-db28-097c-6f4284205d1d/drive_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.jpg",
-      "averageUserRating": 4.59072,
+      "features": [
+        "iosUniversal"
+      ],
       "minimumOsVersion": "16.0",
       "artistId": 281956209,
       "artistName": "Google",
@@ -402,15 +413,25 @@
       "genreIds": [
         "6007"
       ],
-      "sellerName": "Google LLC",
-      "currentVersionReleaseDate": "2026-07-27T16:23:10Z",
+      "trackId": 507874739,
+      "trackName": "Google ドライブ - 安全なオンライン ストレージ",
       "isVppDeviceBasedLicensingEnabled": true,
       "releaseDate": "2012-06-28T17:40:50Z",
+      "sellerName": "Google LLC",
+      "primaryGenreName": "Productivity",
+      "primaryGenreId": 6007,
+      "currentVersionReleaseDate": "2026-08-03T17:31:32Z",
       "releaseNotes": "* バグの修正とパフォーマンスの改善を行いました",
-      "version": "4.2630.41400",
+      "version": "4.2631.41401",
       "wrapperType": "software",
       "currency": "JPY",
       "description": "Google ドライブを使用すると、場所やデバイスを問わず、ファイルやフォルダを安全に保存したり、効率的に整理したり、共同編集したりできます。\n\nGoogle ドライブでできること:\n• どこからでも安全にファイルを保存して、アクセス\n• PDF、Office ファイル、動画など、100 種類以上のファイルを編集、保存\n• デバイスのカメラを使用して、紙のドキュメントをスキャンしてアップロード\n• 最近使用した重要なファイルにすばやくアクセス\n• ファイルの名前とコンテンツでファイルを検索\n• ファイルを種類や最終更新日などでフィルタ\n• ファイルやフォルダの共有や権限を設定\n• オフライン中に外出先でコンテンツを閲覧\n• ファイルの重要なアクティビティに関する通知を受け取る\n\nGoogle Workspace のサブスクリプションにお申し込みいただくと、ドライブで以下の追加機能をご利用いただけます。\n• AI を使用して、ファイルから情報の要約、概要のまとめ、分析情報を得る\n• データ コンプライアンスのニーズに対応した管理者向けセキュリティと管理の制御機能\n• ファイルやフォルダを組織内のグループまたはチームと直接共有\n• 共有ドライブを作成して、チームのあらゆるコンテンツを保存する\n• 電子署名のリクエスト、ベンダーや顧客との契約書の管理など\n\nGoogle Workspace アプリのアップデート ポリシー: https://support.google.com/a/answer/6288871\n\nGoogle アカウントには、Google ドライブ、Gmail、Google フォトで共通で利用できる 15 GB のストレージがついています。保存容量を追加するには、アプリ内購入で Google Workspace または Google One にアップグレードしてください。\n\nアプリ内で保存容量のサブスクリプションをご購入いただくと、お使いの iTunes アカウントに課金されます。また、サブスクリプションは、契約期間終了の 24 時間前までに自動更新を無効にしない限り、自動的に更新されます。ご購入後は iTunes アカウントの設定で、サブスクリプションや自動更新を管理できます。\n\nGoogle プライバシー ポリシー: https://www.google.com/intl/ja_jp/policies/privacy\nGoogle ドライブの利用規約: https://www.google.com/drive/terms-of-service\n\n以下の SNS アカウントでも最新情報を発信しています。\nX: https://x.com/googleworkspace および https://x.com/googledrive\nLinkedIn: https://www.linkedin.com/showcase/googleworkspace\nFacebook: https://www.facebook.com/googleworkspace/",
+      "averageUserRatingForCurrentVersion": 4.59034,
+      "trackViewUrl": "https://apps.apple.com/jp/app/google-%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96-%E5%AE%89%E5%85%A8%E3%81%AA%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3-%E3%82%B9%E3%83%88%E3%83%AC%E3%83%BC%E3%82%B8/id507874739?uo=4",
+      "trackContentRating": "4+",
+      "sellerUrl": "http://drive.google.com/start",
+      "averageUserRating": 4.59034,
+      "trackCensoredName": "Google ドライブ - 安全なオンライン ストレージ",
       "languageCodesISO2A": [
         "AF",
         "AM",
@@ -479,29 +500,22 @@
         "VI",
         "ZU"
       ],
-      "fileSizeBytes": "444383232",
+      "fileSizeBytes": "446779392",
       "formattedPrice": "無料",
-      "trackContentRating": "4+",
-      "sellerUrl": "http://drive.google.com/start",
-      "trackCensoredName": "Google ドライブ - 安全なオンライン ストレージ",
-      "trackViewUrl": "https://apps.apple.com/jp/app/google-%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96-%E5%AE%89%E5%85%A8%E3%81%AA%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3-%E3%82%B9%E3%83%88%E3%83%AC%E3%83%BC%E3%82%B8/id507874739?uo=4",
       "contentAdvisoryRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.59072,
-      "userRatingCountForCurrentVersion": 1132655,
+      "userRatingCountForCurrentVersion": 1134394,
       "bundleId": "com.google.Drive",
-      "trackId": 507874739,
-      "trackName": "Google ドライブ - 安全なオンライン ストレージ",
-      "primaryGenreName": "Productivity",
-      "primaryGenreId": 6007,
-      "userRatingCount": 1132655,
+      "userRatingCount": 1134394,
       "country": "JPN"
     },
     {
       "isGameCenterEnabled": false,
+      "artistViewUrl": "https://apps.apple.com/us/developer/google/id281956209?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/0b/d2/350bd2a1-96ea-e180-2a28-2319d4e7f38a/drive_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/0b/d2/350bd2a1-96ea-e180-2a28-2319d4e7f38a/drive_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.jpg",
       "features": [
         "iosUniversal"
       ],
-      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -631,39 +645,53 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
+      "advisories": [],
       "kind": "software",
-      "screenshotUrls": [],
-      "ipadScreenshotUrls": [],
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/62/86/55/628655da-8a97-fa57-6a15-0f59d954c947/APP_IPHONE_65-1.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ec/29/a4/ec29a491-3ae9-69eb-752e-ec8e50d49b49/APP_IPHONE_65-2.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a9/36/13/a9361398-0e27-6eff-cb35-67277a4a353f/APP_IPHONE_65-3.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c1/67/d6/c167d6b6-6df7-73f4-bcad-f5c257bcda40/APP_IPHONE_65-4.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f6/cc/30/f6cc30a1-14b8-dcd8-759e-5af655956399/APP_IPHONE_65-5.png/320x480bb.jpg"
+      ],
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9a/fb/75/9afb7503-24b0-efbd-0428-2984b1426a3a/APP_IPAD_PRO_3GEN_129-1.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/92/9f/1b/929f1b00-3bb2-6ae0-54a6-d80e92bfb9ac/APP_IPAD_PRO_3GEN_129-2.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/63/99/40/639940e2-8041-b719-debd-fcfa510c0134/APP_IPAD_PRO_3GEN_129-3.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a3/f3/51/a3f3512d-f36e-332e-808c-309acc36d095/APP_IPAD_PRO_3GEN_129-4.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/db/28/bcdb28e9-0dce-e043-04da-643a848cb752/APP_IPAD_PRO_3GEN_129-5.png/360x480bb.jpg"
+      ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/0c/2b/840c2bf2-2f0e-db28-097c-6f4284205d1d/drive_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/us/developer/google/id281956209?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/0c/2b/840c2bf2-2f0e-db28-097c-6f4284205d1d/drive_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/0c/2b/840c2bf2-2f0e-db28-097c-6f4284205d1d/drive_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/0b/d2/350bd2a1-96ea-e180-2a28-2319d4e7f38a/drive_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/512x512bb.jpg",
+      "bundleId": "com.google.Drive",
+      "trackCensoredName": "Google Drive",
+      "trackViewUrl": "https://apps.apple.com/us/app/google-drive/id507874739?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.77787,
+      "minimumOsVersion": "16.0",
       "artistId": 281956209,
       "artistName": "Google",
       "genres": [
         "Productivity"
       ],
       "price": 0,
-      "bundleId": "com.google.Drive",
-      "releaseNotes": "* Bug fixes and performance improvements",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "sellerName": "Google LLC",
-      "primaryGenreName": "Productivity",
-      "primaryGenreId": 6007,
       "releaseDate": "2012-06-28T17:40:50Z",
       "genreIds": [
         "6007"
       ],
+      "sellerName": "Google LLC",
+      "primaryGenreName": "Productivity",
+      "primaryGenreId": 6007,
       "trackId": 507874739,
       "trackName": "Google Drive",
-      "currentVersionReleaseDate": "2026-07-27T16:23:10Z",
-      "version": "4.2630.41400",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-08-03T17:31:32Z",
+      "releaseNotes": "* Bug fixes and performance improvements",
+      "version": "4.2631.41401",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Google Drive lets you securely store, intelligently organize and collaborate on files and folders from anywhere, on any device.\n\nWith Drive, you can:\n• Safely store and access your files anywhere\n• Edit and store 100+ file types, including PDFs, Office files, videos and more\n• Scan and upload paper documents using your device’s camera\n• Quickly access recent and important files\n• Search for files by name and content\n• Filter files by type, last modified date and more\n• Share and set permissions for files and folders\n• View your content on the go while offline\n• Receive notifications about important activity on your files\n\nGoogle Workspace subscribers have access to additional Drive functionality, including:\n• Using AI to summarize information, retrieve quick facts, and surface insights from your files\n• Security and management controls for admins to help meet data compliance needs\n• Sharing files and folders directly with groups or teams within your organization\n• Creating a shared drive to store all of your team’s content\n• Requesting electronic signatures and manage vendor agreements, customer contracts, and more\n\nLearn more about Google Apps update policy: https://support.google.com/a/answer/6288871\n\nGoogle accounts get 15GB of storage, shared across Google Drive, Gmail, and Google Photos. For additional storage, you can upgrade to Google Workspace or Google One as an in-app purchase.\n\nStorage subscriptions purchased from the app will be charged to your iTunes Account, and automatically renew unless auto-renew is turned off at least 24 hours before the end of the current period. Subscriptions and auto-renewal may be managed by going to iTunes Account Settings after purchase.\n\nGoogle Privacy Policy: https://www.google.com/intl/en_US/policies/privacy\nGoogle Drive Terms of Service: https://www.google.com/drive/terms-of-service\n\nFollow us for more:\nX: https://x.com/googleworkspace and https://x.com/googledrive\nLinkedIn: https://www.linkedin.com/showcase/googleworkspace\nFacebook: https://www.facebook.com/googleworkspace/",
-      "averageUserRatingForCurrentVersion": 4.7779,
-      "averageUserRating": 4.7779,
+      "averageUserRatingForCurrentVersion": 4.77787,
       "sellerUrl": "http://drive.google.com/start",
       "languageCodesISO2A": [
         "AF",
@@ -733,15 +761,11 @@
         "VI",
         "ZU"
       ],
-      "fileSizeBytes": "444383232",
+      "fileSizeBytes": "446779392",
       "formattedPrice": "Free",
+      "userRatingCountForCurrentVersion": 7713902,
       "trackContentRating": "4+",
-      "userRatingCountForCurrentVersion": 7699951,
-      "trackCensoredName": "Google Drive",
-      "trackViewUrl": "https://apps.apple.com/us/app/google-drive/id507874739?uo=4",
-      "contentAdvisoryRating": "4+",
-      "minimumOsVersion": "16.0",
-      "userRatingCount": 7699951,
+      "userRatingCount": 7713902,
       "country": "USA"
     }
   ]

@@ -2,16 +2,11 @@
   "resultCount": 1,
   "results": [
     {
-      "isGameCenterEnabled": false,
-      "screenshotUrls": [],
-      "ipadScreenshotUrls": [],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/35/41/f1354108-36e5-0a01-8a9f-dad0fe177e15/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "advisories": [],
-      "kind": "software",
       "artistViewUrl": "https://apps.apple.com/us/developer/parentsquare/id908126682?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/35/41/f1354108-36e5-0a01-8a9f-dad0fe177e15/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/35/41/f1354108-36e5-0a01-8a9f-dad0fe177e15/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
+      "advisories": [],
+      "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
       ],
@@ -144,9 +139,57 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "minimumOsVersion": "16.0",
-      "averageUserRatingForCurrentVersion": 4.61341,
+      "kind": "software",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/97/8a/3e/978a3e60-6b27-bfa4-7be8-eae98b252fa0/01_Never-miss-an-update_iPhone-6.9.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3b/97/9e/3b979ec9-72af-cf1c-8d3e-0e2b304ed5c5/02_Your-schools-official-app_iPhone-6.9.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/29/e5/30/29e5307d-5d52-2315-2896-2f54d34b4992/03_Stay-connected-with-teachers_iPhone-6.9.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ce/0f/ee/ce0fee35-55bf-8a0c-1d21-2d628b5ab99f/04_Read-and-respond-in-your-language_iPhone-6.9.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1b/7c/74/1b7c74bf-bd19-a4a9-e363-58353033d795/05_Everything-you-need-to-stay-involved_iPhone-6.9.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e1/a9/b9/e1a9b9aa-6d18-de68-d8ac-8c28451a42c3/06_Everything-you-need-to-stay-involved_iPhone-6.9.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7e/bf/45/7ebf4570-70ce-7e27-b44b-a25f38a43b85/07_Built-for-schools-designed-for-families_iPhone-6.9.png/320x480bb.jpg"
+      ],
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4a/8e/d9/4a8ed9ab-d89e-daf3-205c-a212561fe77e/01_Never-miss-an-update_iPad-13.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/93/3b/75/933b75dc-5ff8-c25b-bead-07777387d4f1/02_Your-schools-official-app_iPad-13.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1e/1f/dc/1e1fdcb9-8b7b-c8f6-279d-42b16ae5fe0e/03_Stay-connected-with-teachers_iPad-13.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ce/3a/7d/ce3a7d9e-775b-c9a6-9f9b-72d2d6994374/04_Read-and-respond-in-your-language_iPad-13.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1c/21/78/1c21781a-f474-4a12-79aa-adcc575d28c4/05_Everything-you-need-to-stay-involved_iPad-13.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/65/7a/aa/657aaa3d-6f5f-a3e3-e56c-493efe1f2988/06_Everything-you-need-to-stay-involved_iPad-13.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e9/5b/7b/e95b7b76-1494-931f-3c09-a0630d00fab9/07_Built-for-schools-designed-for-families_iPad-13.png/360x480bb.jpg"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/35/41/f1354108-36e5-0a01-8a9f-dad0fe177e15/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "averageUserRating": 4.61268,
+      "trackCensoredName": "ParentSquare",
+      "trackViewUrl": "https://apps.apple.com/us/app/parentsquare/id908126679?uo=4",
+      "contentAdvisoryRating": "4+",
       "currentVersionReleaseDate": "2026-07-30T18:26:03Z",
+      "genres": [
+        "Education",
+        "Productivity"
+      ],
+      "artistId": 908126682,
+      "artistName": "ParentSquare",
+      "price": 0,
+      "bundleId": "com.parentsquare.psapp",
+      "trackId": 908126679,
+      "trackName": "ParentSquare",
+      "releaseDate": "2014-08-21T02:41:59Z",
+      "genreIds": [
+        "6017",
+        "6007"
+      ],
+      "releaseNotes": "Bug fixes & performance improvements.",
+      "primaryGenreName": "Education",
+      "primaryGenreId": 6017,
+      "sellerName": "PARENTSQUARE LLC",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "version": "2.130.1",
+      "wrapperType": "software",
+      "currency": "USD",
+      "description": "What is ParentSquare?\n\nParentSquare helps schools and families stay connected and informed—all in one easy place. Whether it’s a quick message from a teacher, an important alert from the district, or a reminder about tomorrow’s field trip, ParentSquare makes sure families never miss a thing.\n\nWhy families and teachers love ParentSquare:\n\n• Simple, easy-to-use app and website\n• Messages are automatically translated into 190+ languages\n• Best-in-class safety and security practices\n• One place for all school updates, alerts, and messages\n\nWith ParentSquare, families and staff save time and stay connected—so everyone can focus on helping students succeed.\n\nParentSquare for iOS\n\nThe ParentSquare app makes it easy for families to stay in the loop and engage with their child’s school community. With the app, parents and guardians can:\n\n• See school news, classroom updates, and photos\n• Receive important notices like attendance alerts and cafeteria balances\n• Message teachers and staff directly\n• Join group conversations\n• Sign up for wishlist items, volunteering, and conferences\n• Respond to absences or tardies*\n• Pay school-related fees and invoices*\n\n\n* If included with your school's implementation",
+      "averageUserRatingForCurrentVersion": 4.61268,
       "sellerUrl": "http://www.parentsquare.com",
       "languageCodesISO2A": [
         "EN",
@@ -154,37 +197,10 @@
       ],
       "fileSizeBytes": "158141440",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 74940,
+      "userRatingCountForCurrentVersion": 75072,
       "trackContentRating": "4+",
-      "artistId": 908126682,
-      "artistName": "ParentSquare",
-      "price": 0,
-      "releaseNotes": "Bug fixes & performance improvements.",
-      "genreIds": [
-        "6017",
-        "6007"
-      ],
-      "primaryGenreName": "Education",
-      "primaryGenreId": 6017,
-      "bundleId": "com.parentsquare.psapp",
-      "sellerName": "PARENTSQUARE LLC",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "version": "2.130.1",
-      "wrapperType": "software",
-      "currency": "USD",
-      "description": "What is ParentSquare?\n\nParentSquare helps schools and families stay connected and informed—all in one easy place. Whether it’s a quick message from a teacher, an important alert from the district, or a reminder about tomorrow’s field trip, ParentSquare makes sure families never miss a thing.\n\nWhy families and teachers love ParentSquare:\n\n• Simple, easy-to-use app and website\n• Messages are automatically translated into 190+ languages\n• Best-in-class safety and security practices\n• One place for all school updates, alerts, and messages\n\nWith ParentSquare, families and staff save time and stay connected—so everyone can focus on helping students succeed.\n\nParentSquare for iOS\n\nThe ParentSquare app makes it easy for families to stay in the loop and engage with their child’s school community. With the app, parents and guardians can:\n\n• See school news, classroom updates, and photos\n• Receive important notices like attendance alerts and cafeteria balances\n• Message teachers and staff directly\n• Join group conversations\n• Sign up for wishlist items, volunteering, and conferences\n• Respond to absences or tardies*\n• Pay school-related fees and invoices*\n\n\n* If included with your school's implementation",
-      "trackCensoredName": "ParentSquare",
-      "trackViewUrl": "https://apps.apple.com/us/app/parentsquare/id908126679?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.61341,
-      "trackName": "ParentSquare",
-      "trackId": 908126679,
-      "releaseDate": "2014-08-21T02:41:59Z",
-      "genres": [
-        "Education",
-        "Productivity"
-      ],
-      "userRatingCount": 74940,
+      "minimumOsVersion": "16.0",
+      "userRatingCount": 75072,
       "country": "USA"
     }
   ]

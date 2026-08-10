@@ -3,9 +3,6 @@
   "results": [
     {
       "isGameCenterEnabled": false,
-      "artistViewUrl": "https://apps.apple.com/jp/developer/kyoto-city/id1456714053?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/3d/e6/4c3de638-8bb3-ed7a-1276-f88a49032aa5/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/3d/e6/4c3de638-8bb3-ed7a-1276-f88a49032aa5/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
       "features": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
@@ -138,16 +135,21 @@
       ],
       "advisories": [],
       "kind": "software",
-      "screenshotUrls": [],
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d5/61/73/d5617337-4a51-3b73-5a96-8c6d8748f62b/6.5-1.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/91/87/38/918738b6-7e1c-d1c5-fa24-5f0cbde02119/6.5-2.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/92/ad/f6/92adf618-b587-d58b-2fd2-9e3edc4a4a21/6.5-3.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/44/eb/c7/44ebc728-1365-245d-957e-eb7b4a7813cb/6.5-5.png/320x480bb.jpg"
+      ],
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/3d/e6/4c3de638-8bb3-ed7a-1276-f88a49032aa5/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/3d/e6/4c3de638-8bb3-ed7a-1276-f88a49032aa5/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/3d/e6/4c3de638-8bb3-ed7a-1276-f88a49032aa5/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/jp/developer/kyoto-city/id1456714053?uo=4",
       "releaseNotes": "機能を改善しました",
-      "trackCensoredName": "京都市公式アプリ",
-      "trackViewUrl": "https://apps.apple.com/jp/app/%E4%BA%AC%E9%83%BD%E5%B8%82%E5%85%AC%E5%BC%8F%E3%82%A2%E3%83%97%E3%83%AA/id6773233714?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 2.84615,
-      "minimumOsVersion": "15.1",
+      "artistId": 1456714053,
+      "artistName": "KYOTO CITY",
       "genres": [
         "ライフスタイル"
       ],
@@ -168,6 +170,9 @@
       "wrapperType": "software",
       "currency": "JPY",
       "description": "「京都市公式アプリ」は、京都市が提供する自治体公式アプリです。\n\nマイナンバーカードをスマホにかざすことで、情報を連携してアカウントを作ることができます。\n今後、便利な機能を追加・拡充していく予定です。",
+      "minimumOsVersion": "15.1",
+      "averageUserRating": 3.31034,
+      "trackCensoredName": "京都市公式アプリ",
       "languageCodesISO2A": [
         "EN",
         "JA",
@@ -177,12 +182,12 @@
       ],
       "fileSizeBytes": "84343808",
       "formattedPrice": "無料",
-      "userRatingCountForCurrentVersion": 13,
+      "contentAdvisoryRating": "4+",
+      "userRatingCountForCurrentVersion": 29,
+      "trackViewUrl": "https://apps.apple.com/jp/app/%E4%BA%AC%E9%83%BD%E5%B8%82%E5%85%AC%E5%BC%8F%E3%82%A2%E3%83%97%E3%83%AA/id6773233714?uo=4",
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 2.84615,
-      "artistId": 1456714053,
-      "artistName": "KYOTO CITY",
-      "userRatingCount": 13,
+      "averageUserRatingForCurrentVersion": 3.31034,
+      "userRatingCount": 29,
       "country": "JPN"
     }
   ]

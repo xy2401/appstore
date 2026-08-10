@@ -2,19 +2,9 @@
   "resultCount": 1,
   "results": [
     {
-      "features": [
-        "iosUniversal"
-      ],
-      "isGameCenterEnabled": false,
-      "screenshotUrls": [],
-      "ipadScreenshotUrls": [],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/4d/b2/b24db249-b393-9006-7c97-268228d6a08f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "advisories": [],
-      "kind": "software",
       "artistViewUrl": "https://apps.apple.com/fr/developer/jonathan-mark-schulman/id6773455174?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/4d/b2/b24db249-b393-9006-7c97-268228d6a08f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/4d/b2/b24db249-b393-9006-7c97-268228d6a08f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/0f/51/f10f51d8-b530-fd94-f977-e02a8042c2bd/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/0f/51/f10f51d8-b530-fd94-f977-e02a8042c2bd/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -144,45 +134,68 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "releaseNotes": "“The one where I improve signal decoding and add spotting”\n\nBe sure to check the release notes for prior versions to see what's new! I update the app regularly in response to feedback like yours. Read them at https://greylineft8.com/changelog.html\n\nShoutouts:\nON4LDZ - Reporting issues with live band activity view\nN9DNR - Reporting an issue with duplicate contacts being collected in Gatherer mode\nKR4EOD - Reporting discrepancies in signal report calculations\n\nFeatures:\n- Added live PSKReporter.info spotting. Spots are sent in 5 minute batches and include your callsign and grid location as well as the stations seen. Spotting is off by default, but can be activated in the Settings page\n- Added color coded signal reports in the Band Activity view\n- Added ability to filter the Logged Contacts view in the mapping page by time frame\n- Added a toggle to allow collection of duplicate callsigns when operating in Hunter or Gatherer modes (off by default)\n\nFixes:\n- SNR computation is now more accurate and accounts for real world noise as opposed to bench standard noise levels. PLEASE NOTE: Comparing SNR computed in Greyline to that in iFTX or WSJT-X is not an apples-to-apples comparison. Differences in algorithms used as well as differences in AGC across device types plays a big role in these numbers.\n- When you navigate away from the Band Activity view, you are now automatically returned to the most recent signals upon your return\n- Gatherer mode no longer collects duplicate callsigns by default. You can re-enable this behavior in the Settings view if you like\n- Dropdown controls in the Mapping view sometimes re-drew slowly, but now they don’t\n\nGive it a try and please leave a review if you enjoy using Greyline! I hope it makes your activations just a tiny bit more joyful. Thanks for bringing me along and 73!",
-      "userRatingCountForCurrentVersion": 0,
-      "price": 3.99,
+      "advisories": [],
+      "kind": "software",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/40/bd/82/40bd82d6-5c9a-98a6-c462-bbae713fca73/Simulator_Screenshot_-_iPhone_Air_-_2026-07-25_at_21_30_03.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1e/38/4f/1e384fb6-e484-80f7-c291-4eed9ec90e86/Simulator_Screenshot_-_iPhone_Air_-_2026-07-25_at_21_30_28.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/06/6f/b2/066fb2fa-4112-4cc6-caaf-86ddd120b84d/Simulator_Screenshot_-_iPhone_Air_-_2026-07-25_at_21_35_36.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/60/14/55/60145557-3433-aaef-ffcd-cd69a64c97e0/Simulator_Screenshot_-_iPhone_Air_-_2026-07-25_at_21_32_41.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7a/28/e0/7a28e0c7-a0ee-8650-b708-a3c872da06e9/Simulator_Screenshot_-_iPhone_Air_-_2026-07-25_at_21_30_53.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/df/f3/bcdff3e6-c9bc-f887-2bf7-0c52cb4c752a/Simulator_Screenshot_-_iPhone_Air_-_2026-07-25_at_21_31_50.png/320x480bb.jpg"
+      ],
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4e/d1/1f/4ed11f27-0cf7-c733-dd60-a81eb90c5fdf/Simulator_Screenshot_-_iPad__A16__-_2026-07-25_at_21_42_43.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d5/1b/3c/d51b3caa-f04b-9cff-ac2c-31fe316a0b27/Simulator_Screenshot_-_iPad__A16__-_2026-07-25_at_21_43_17.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8f/f0/19/8ff019b6-51f6-52fe-7ccb-8082954c6582/Simulator_Screenshot_-_iPad__A16__-_2026-07-25_at_21_43_27.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/24/9b/bc249b3d-8993-c92e-8c9f-684079673c60/Simulator_Screenshot_-_iPad__A16__-_2026-07-25_at_21_45_09.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bf/6d/68/bf6d684c-783f-21b2-1ad4-b7408e8ad602/Simulator_Screenshot_-_iPad__A16__-_2026-07-25_at_21_44_39.png/360x480bb.jpg"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/0f/51/f10f51d8-b530-fd94-f977-e02a8042c2bd/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
+      "isGameCenterEnabled": false,
+      "currentVersionReleaseDate": "2026-08-06T18:15:09Z",
+      "averageUserRating": 0,
+      "trackCensoredName": "Greyline FT8",
+      "trackViewUrl": "https://apps.apple.com/fr/app/greyline-ft8/id6773455172?uo=4",
+      "contentAdvisoryRating": "4+",
+      "artistId": 6773455174,
+      "artistName": "JONATHAN MARK SCHULMAN",
       "genres": [
         "Utilitaires",
         "Éducation"
       ],
-      "artistId": 6773455174,
-      "artistName": "JONATHAN MARK SCHULMAN",
+      "price": 3.99,
+      "minimumOsVersion": "26.5",
+      "trackId": 6773455172,
+      "trackName": "Greyline FT8",
+      "releaseNotes": "“The one where I make getting started easier”\n\nBe sure to check the release notes for prior versions to see what's new! I update the app regularly in response to feedback like yours. Read them at https://greylineft8.com/changelog.html\n\nShoutouts:\nVK2AWN - Validating IC-7300 functionality, providing Field Notes and photo, suggesting CQ only filter\nKR3BST - Providing Field Notes and photo\nK4RZO the coyote - Providing Field Notes and photo\n\nFeatures:\n- Added a brand new first-time onboarding experience. This will help new users get set up and on the air quickly. If you're already set up but still want to check out the onboarding flow, there’s a button in Settings to start it manually.\n- Added a new filter to the Band Activity view that only shows CQ calls and exchanges that you’re actively participating in or that mention your callsign specifically. This can optionally be set to apply on startup\n- Links to the Field Notes site as well as support email are now in Settings\n\nFixes:\n- Better handling of microphone and location permissions\n- Bundled latest version of Big CTY data\n\nGive it a try and please leave a review if you enjoy using Greyline! I hope it makes your activations just a tiny bit more joyful. Thanks for bringing me along and 73!",
+      "genreIds": [
+        "6002",
+        "6017"
+      ],
+      "releaseDate": "2026-06-11T07:00:00Z",
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
+      "sellerName": "JONATHAN MARK SCHULMAN",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "version": "1.0.14",
+      "wrapperType": "software",
+      "currency": "EUR",
+      "description": "Greyline FT8 is a highly portable, capable amateur radio app designed specifically for field operation with an iOS device. \n\nI designed this app because I got very used to my full-stack FT8 solution: GridTracker, WSJT-X, PSK Reporter, WRL Desktop, several browser tabs, and more. But I didn't want the bulk and weight of a full Windows PC in the field. At the same time, while there are excellent and lightweight FT8 iOS solutions out there, they were lacking features I really wanted.\n\nGreyline is everything you need and nothing you don't. It automatically locates your grid square, performs callsign and calling station DXCC lookups (internet access required), and can even show you real-time spot data from PSK Reporter. Want to adjust your directional antenna? Now you've got the info you need to do it! \n\nGreyline also incorporates automated calling features. Gatherer mode calls CQ, responds to the first reply it gets, finishes the QSO and returns to calling CQ all without your input. On the other side of things, Hunter mode listens for CQ calls and pounces on them, finishing a QSO then returning to the live band to find the next. Or, take control of the conversation yourself with standard mode. That's the experience you're already used to from WSJT-X and other digital mode apps.\n\nSome other noteworthy features are:\n- Intelligent automatic free frequency selection\n- Dynamically adjusted audio delay for virtually drift-free message timing\n- PSK Reporter integrated Live Spots\n- Direct-to-QRZ logging and ADI export\n- Configurable waterfall settings\n- CQ addendums\n- CQ filtering for contesting and general courteous operation\n- Configurable retransmissions\n- Intelligent log recovery (didn't get that last 73 but want to log the contact anyway? Now you can!) \n- Log import and export\n- Antenna tuning\n- POTA Autospotting\n- One touch POTA activation and POTA.app-compatible ADIF export\n- And so much more! \n\nGreyline uses audio VOX and not serial PTT. Most radios support this with simple cabling or an audio interface like a Digirig. For helpful tips on cabling and configuring popular radios, visit the Support URL below.\n\nBuilt by a ham, for hams, I'm very open to your feedback and hope Greyline can be your field companion.\n\nWant to share your own Field Notes (https://greylineft8.com/fieldnotes.html)? Email me at support@greylineft8.com!",
       "averageUserRatingForCurrentVersion": 0,
       "sellerUrl": "https://greylineft8.com/",
       "languageCodesISO2A": [
         "EN"
       ],
-      "fileSizeBytes": "15949824",
+      "fileSizeBytes": "18126848",
       "formattedPrice": "3,99 €",
+      "userRatingCountForCurrentVersion": 0,
       "trackContentRating": "4+",
       "bundleId": "com.kb0rb.Greyline",
-      "sellerName": "JONATHAN MARK SCHULMAN",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseDate": "2026-06-11T07:00:00Z",
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
-      "trackId": 6773455172,
-      "trackName": "Greyline FT8",
-      "version": "1.0.13",
-      "wrapperType": "software",
-      "currency": "EUR",
-      "description": "Greyline FT8 is a highly portable, capable amateur radio app designed specifically for field operation with an iOS device. \n\nI designed this app because I got very used to my full-stack FT8 solution: GridTracker, WSJT-X, PSK Reporter, WRL Desktop, several browser tabs, and more. But I didn't want the bulk and weight of a full Windows PC in the field. At the same time, while there are excellent and lightweight FT8 iOS solutions out there, they were lacking features I really wanted.\n\nGreyline is everything you need and nothing you don't. It automatically locates your grid square, performs callsign and calling station DXCC lookups (internet access required), and can even show you real-time spot data from PSK Reporter. Want to adjust your directional antenna? Now you've got the info you need to do it! \n\nGreyline also incorporates automated calling features. Gatherer mode calls CQ, responds to the first reply it gets, finishes the QSO and returns to calling CQ all without your input. On the other side of things, Hunter mode listens for CQ calls and pounces on them, finishing a QSO then returning to the live band to find the next. Or, take control of the conversation yourself with standard mode. That's the experience you're already used to from WSJT-X and other digital mode apps.\n\nSome other noteworthy features are:\n- Intelligent automatic free frequency selection\n- Dynamically adjusted audio delay for virtually drift-free message timing\n- PSK Reporter integrated Live Spots\n- Direct-to-QRZ logging and ADI export\n- Configurable waterfall settings\n- CQ addendums\n- CQ filtering for contesting and general courteous operation\n- Configurable retransmissions\n- Intelligent log recovery (didn't get that last 73 but want to log the contact anyway? Now you can!) \n- Log import and export\n- Antenna tuning\n- POTA Autospotting\n- One touch POTA activation and POTA.app-compatible ADIF export\n- And so much more! \n\nGreyline uses audio VOX and not serial PTT. Most radios support this with simple cabling or an audio interface like a Digirig. For helpful tips on cabling and configuring popular radios, visit the Support URL below.\n\nBuilt by a ham, for hams, I'm very open to your feedback and hope Greyline can be your field companion.",
-      "averageUserRating": 0,
-      "trackCensoredName": "Greyline FT8",
-      "trackViewUrl": "https://apps.apple.com/fr/app/greyline-ft8/id6773455172?uo=4",
-      "contentAdvisoryRating": "4+",
-      "minimumOsVersion": "26.5",
-      "genreIds": [
-        "6002",
-        "6017"
-      ],
-      "currentVersionReleaseDate": "2026-08-03T04:56:10Z",
       "userRatingCount": 0,
       "country": "FRA"
     }

@@ -2,15 +2,22 @@
   "resultCount": 1,
   "results": [
     {
-      "features": [
-        "iosUniversal"
-      ],
-      "screenshotUrls": [],
-      "ipadScreenshotUrls": [],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/13/b3/d313b335-14a5-4cbc-7735-ce3f5c94f1ed/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
       "isGameCenterEnabled": false,
-      "advisories": [],
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d3/26/1d/d3261d26-035f-a0c6-3e23-e503bed4a297/Glacier_Browse_iPhone.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f6/fa/99/f6fa9988-9622-51d4-fea6-1decfdee8288/Glacier_Protected_iPhone.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/32/ea/f1/32eaf112-9ae5-04d6-a870-6308fc05f5f6/Glacier_Phone_iPhone.jpg/320x480bb.jpg"
+      ],
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ba/80/df/ba80dfb5-1eeb-ca5e-883c-755b64cdec28/Screen_2.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a3/3e/57/a33e573d-d5b0-0927-970b-6688d6f4149a/Screen_1.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/98/81/6e/98816ed8-8487-b923-6619-38787d2a4077/Glacier_Phone_iPad.jpg/360x480bb.jpg"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/13/b3/d313b335-14a5-4cbc-7735-ce3f5c94f1ed/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/60x60bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/13/b3/d313b335-14a5-4cbc-7735-ce3f5c94f1ed/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/13/b3/d313b335-14a5-4cbc-7735-ce3f5c94f1ed/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/us/developer/security-app-llc/id6776005051?uo=4",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -140,11 +147,14 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
+      "advisories": [],
       "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/us/developer/security-app-llc/id6776005051?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/13/b3/d313b335-14a5-4cbc-7735-ce3f5c94f1ed/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/13/b3/d313b335-14a5-4cbc-7735-ce3f5c94f1ed/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
       "sellerUrl": "https://theglacierapp.com",
+      "averageUserRating": 4.41709,
+      "trackCensoredName": "Glacier App",
       "languageCodesISO2A": [
         "DA",
         "NL",
@@ -155,38 +165,36 @@
       ],
       "fileSizeBytes": "67975168",
       "formattedPrice": "Free",
+      "contentAdvisoryRating": "4+",
+      "userRatingCountForCurrentVersion": 199,
+      "trackViewUrl": "https://apps.apple.com/us/app/glacier-app/id6776005049?uo=4",
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.4973,
-      "userRatingCountForCurrentVersion": 185,
-      "minimumOsVersion": "18.0",
+      "averageUserRatingForCurrentVersion": 4.41709,
+      "genres": [
+        "Productivity"
+      ],
       "artistId": 6776005051,
       "artistName": "Security App LLC",
       "price": 0,
-      "bundleId": "com.theglacierapp.Glacier",
-      "genreIds": [
-        "6007"
-      ],
-      "isVppDeviceBasedLicensingEnabled": true,
-      "primaryGenreName": "Productivity",
-      "primaryGenreId": 6007,
       "sellerName": "Security App LLC",
+      "bundleId": "com.theglacierapp.Glacier",
       "releaseDate": "2026-07-13T07:00:00Z",
       "trackId": 6776005049,
       "trackName": "Glacier App",
+      "primaryGenreName": "Productivity",
+      "primaryGenreId": 6007,
       "currentVersionReleaseDate": "2026-08-01T05:33:19Z",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "genreIds": [
+        "6007"
+      ],
       "releaseNotes": "We've made phone calls more reliable, refreshed the dialer and call history, and made logging in more dependable. We also improved support for larger text and zoom, and made your security status easier to read at a glance — along with the usual behind-the-scenes improvements.\n\nThanks for the great feedback!",
       "version": "1.0.5",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Glacier brings intelligence-grade mobile security to your iPhone in a simple, consumer-friendly app.\n\nProtect your connection with VPN and DNS security, block trackers and intrusive ads, and get real-time alerts when your device or network may be at risk. Glacier is built to help you browse privately, reduce exposure to malicious content, and stay in control of your communications without adding friction to daily life.\n\nGlacier is designed with privacy by default. Your personal data stays on your device, and Glacier does not read your messages, access your contacts, or monitor your app usage.\n\nFeatures:\n• VPN and DNS protection for safer private browsing\n• Blocks many trackers, ad networks, and invasive data collection services\n• Real-time alerts and clear recommendations when threats are detected\n• Threat detection for tampering, jailbroken devices, emulation, and active hacking tools\n• Secure calling using different phone numbers to keep your personal number safe (Requires additional phone line subscription)\n• Built by a U.S.-based security team with experience protecting high-risk mobile environments\n\nGlacier helps protect your device and communications on Wi‑Fi, cellular, and while traveling.\n\nSUBSCRIPTION & IN-APP PURCHASES\nGlacier requires a subscription (Monthly or Yearly) to use the app. Phone-line features are optional add-ons that require a separate purchase on top of the base subscription:\n\n• 1 Line, 2 Lines, 5 Lines - auto-renewing subscriptions that add dedicated secure phone lines.\n• Extra Phone Number - a one-time purchase to change and add a new phone number beyond the lines included in your plan.\n\nSecure calling and replacement phone numbers are not available until the corresponding subscription or in-app purchase is purchased. Subscriptions renew automatically unless canceled at least 24 hours before the end of the current period.\n\nPrivacy Policy: https://www.theglacierapp.com/privacy\nTerms of Use: https://www.theglacierapp.com/terms",
-      "trackCensoredName": "Glacier App",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.4973,
-      "trackViewUrl": "https://apps.apple.com/us/app/glacier-app/id6776005049?uo=4",
-      "genres": [
-        "Productivity"
-      ],
-      "userRatingCount": 185,
+      "minimumOsVersion": "18.0",
+      "userRatingCount": 199,
       "country": "USA"
     }
   ]

@@ -185,10 +185,35 @@
       "userRatingCount": 88
     },
     {
-      "artistViewUrl": "https://apps.apple.com/jp/developer/takasa-works/id1876193063?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/70/de/f970ded5-b0b6-daa9-1e92-7469966123d9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/70/de/f970ded5-b0b6-daa9-1e92-7469966123d9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
+      "advisories": [],
+      "kind": "software",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/54/a2/20/54a220d6-71c1-6424-a982-4f19fb445ba1/1.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/55/ee/f2/55eef2ae-4652-826b-d127-409c50ea67ff/2.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b1/0d/15/b10d15de-a86b-f594-9c50-34c3b0fe40d7/4.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c8/79/4c/c8794c11-6898-8dd0-4e9d-7c50b43a9117/3.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/35/46/90/35469040-fd0b-3a7f-f251-d8d0a8a5a621/8.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/35/22/88/3522886f-0049-1eae-bf7e-09679e7ff01c/6.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/aa/29/d7/aa29d720-a6b3-2c4d-2657-2ce2da59026f/7.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/47/41/5d/47415d9d-10f2-393d-a7b7-66962577bb27/5_0315.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1a/4b/79/1a4b7940-b8cc-8a05-95ac-71d350ff58fd/9_0315.png/320x480bb.jpg"
+      ],
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/88/16/67/88166793-15c1-8191-1018-a30c4cfe11cb/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-06-25_at_23.08.20.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/80/56/37/8056374e-26b7-61f7-fc59-4e12b903d9bb/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-06-25_at_23.05.38.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/98/53/9e/98539ea7-5745-dd3b-1a17-b789b10d7874/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-06-25_at_23.08.59.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fd/67/f0/fd67f0ac-a84b-839f-4dfc-ae630aa5b1c1/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-06-25_at_23.08.16.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/92/35/33/9235336f-67aa-7377-dc72-307b7459d639/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-06-25_at_23.08.36.png/360x480bb.jpg"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/85/c9/0185c95e-08d8-3d51-6017-beeef8254d2c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/85/c9/0185c95e-08d8-3d51-6017-beeef8254d2c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/85/c9/0185c95e-08d8-3d51-6017-beeef8254d2c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/jp/developer/takasa-works/id1876193063?uo=4",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -318,55 +343,46 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [],
-      "kind": "software",
-      "screenshotUrls": [],
-      "ipadScreenshotUrls": [],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/70/de/f970ded5-b0b6-daa9-1e92-7469966123d9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "trackCensoredName": "原稿プランナー",
-      "trackViewUrl": "https://apps.apple.com/jp/app/%E5%8E%9F%E7%A8%BF%E3%83%97%E3%83%A9%E3%83%B3%E3%83%8A%E3%83%BC/id6759912958?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.11828,
-      "fileSizeBytes": "34122752",
-      "formattedPrice": "¥500",
-      "userRatingCountForCurrentVersion": 93,
-      "trackContentRating": "4+",
-      "releaseNotes": "【不具合修正・改善】\n・アプリ内での再計算タイミングを見直し、作品や記録が多い場合の動作を軽くしました\n・アプリ内「設定」画面を整理しました\n・その他、詳細スケジュールUI、表示と安定性を改善しました",
+      "minimumOsVersion": "17.0",
       "artistId": 1876193063,
       "artistName": "TAKASA WORKS",
       "genres": [
         "ライフスタイル",
         "仕事効率化"
       ],
-      "price": 500,
+      "sellerName": "TAKASA WORKS",
       "bundleId": "com.takasa-works.genkoplanner",
-      "primaryGenreName": "Lifestyle",
-      "primaryGenreId": 6012,
+      "releaseNotes": "・完成見込みの計算精度が不適切に計算されることがある場合をを改善しました。\n・進捗記録画面のページ一覧で、縦スクロール・なぞり塗り・タップ・長押し入力が正しく動作するよう修正しました。",
+      "releaseDate": "2026-03-15T07:00:00Z",
       "genreIds": [
         "6012",
         "6007"
       ],
-      "trackId": 6759912958,
-      "trackName": "原稿プランナー",
-      "sellerName": "TAKASA WORKS",
-      "releaseDate": "2026-03-15T07:00:00Z",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-08-02T17:22:37Z",
-      "version": "v1.17.6",
+      "currentVersionReleaseDate": "2026-08-05T20:08:00Z",
+      "version": "v1.17.8",
       "wrapperType": "software",
       "currency": "JPY",
       "description": "「あと何日で何ページ進めればいい？」「ペース計算してる時間ない」「割増入稿になっちゃうかも」\n  その不安、『原稿プランナー』が解決します。\n\n『原稿プランナー』は、漫画・小説・イラスト・グッズなど、あらゆる創作物の原稿管理に対応した制作プランナー（進捗＆ペース管理）アプリです。\n\n ◆ こんな人におすすめ\n  ・同人誌の入稿締切がいつもギリギリになる方\n  ・複数の原稿を同時進行で管理したい方\n  ・作業ペースを数値で把握したい方\n  ・同人イベント参加に向けて管理ツールが欲しい方\n\n【機能紹介】\n◆ 工程ごとの自動スケジュール\n  ページ数・作業可能時間・締切日を入力すると、工程ごと＋全体のスケジュールを自動生成。\n  早割・通常・割増の3段階の入稿締切に対応し、ガントチャートで全体の見通しを確認できます。\n  なんと複数印刷所が登録可能です。\n  そしてもちろん、工程のカスタマイズに対応しています。\n  さらに、祝日プリセットのほか、お休みの日や、多く作業する日、少なく作業する日を個別に設定できます。\n  現実に即したスケジュール設定が可能です。\n\n◆ ペース診断で遅れを見逃さない\n  今の作業ペースで締切に間に合うかを記録のたびに判定。\n  8段階のステータスのほか、望ましいペース、今のペース、不足時間などを詳細に表示します。\n\n◆ 工程ごとの進捗記録\n  表紙と本文を分けてかんたん記録可能。\n  作業タイマーから記録すれば作業時間が自動登録されます。\n  作業タイマーでは好きな休憩時間や、一定間隔での通知を設定できます。\n\n  ◆ イベント管理\n  主要即売会のプリセットを収録。\n  会場情報、サークル配置、持ち込みメモ、買い物リスト、事前準備チェックリストまで一元管理。\n  作品とイベントを紐づけて、どの原稿をどのイベントに出すかを把握できます。\n\n  ◆ まとまったカレンダー\n  月・週・日の3ビューで、締切・イベント・作業予定・作業記録をまとめて確認。\n メモ機能でスケジュールにTODOを残せます。\n\n  ◆ レポート & 共有\n  月別の作業時間・ページ数をグラフで可視化。進捗カードをSNSにシェアできます！\n  1年間、どれだけ作業したかを振り返るのもいいかもしれません。\n\n  ◆ ダークモードにも対応！\n\n  ◆ iCloud同期\n  複数のデバイスで自動同期。iPhoneで記録してiPadで確認、どこでもシームレスに管理しましょう。\n\n  原稿プランナーで、修羅場を計画的に乗り越えましょう！",
-      "minimumOsVersion": "17.0",
-      "averageUserRatingForCurrentVersion": 4.11828,
+      "averageUserRatingForCurrentVersion": 4.13684,
+      "averageUserRating": 4.13684,
+      "trackCensoredName": "原稿プランナー",
       "languageCodesISO2A": [
         "JA",
         "KO"
       ],
-      "userRatingCount": 93,
+      "fileSizeBytes": "34413568",
+      "formattedPrice": "¥500",
+      "contentAdvisoryRating": "4+",
+      "userRatingCountForCurrentVersion": 95,
+      "trackViewUrl": "https://apps.apple.com/jp/app/%E5%8E%9F%E7%A8%BF%E3%83%97%E3%83%A9%E3%83%B3%E3%83%8A%E3%83%BC/id6759912958?uo=4",
+      "trackContentRating": "4+",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "trackId": 6759912958,
+      "trackName": "原稿プランナー",
+      "price": 500,
+      "primaryGenreName": "Lifestyle",
+      "primaryGenreId": 6012,
+      "userRatingCount": 95,
       "country": "JPN"
     }
   ]

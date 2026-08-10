@@ -192,10 +192,12 @@
     },
     {
       "isGameCenterEnabled": false,
-      "artistViewUrl": "https://apps.apple.com/us/developer/american-society-for-colposcopy-and-cervical/id615585562?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/46/12/ac461265-6b13-53dc-c932-fd65b4a8e6ba/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/46/12/ac461265-6b13-53dc-c932-fd65b4a8e6ba/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/100x100bb.jpg",
-      "screenshotUrls": [],
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4c/71/c8/4c71c8ab-7a2b-c0b5-dde1-068f06970b5e/Apple_iPhone_11_Pro_Max_Screenshot_0.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2d/f3/46/2df346e8-1a48-71a2-4348-f750282d3246/Apple_iPhone_11_Pro_Max_Screenshot_1.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f7/5d/6d/f75d6df4-18b7-c90d-fa29-08cbb395ac5a/Apple_iPhone_11_Pro_Max_Screenshot_2.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/03/de/f7/03def7b1-9863-6a20-ae6f-2001d66477fe/Apple_iPhone_11_Pro_Max_Screenshot_3.png/320x480bb.jpg"
+      ],
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/bd/55/d9bd5535-e0a0-0079-2b90-eab5b33b5bf9/pr_source.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/de/a6/51dea652-dded-38b3-0260-3920df1f06e2/pr_source.png/576x768bb.png",
@@ -203,7 +205,14 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/d3/3c/bcd33c4d-4f04-c5dd-e462-ce7503efabb0/pr_source.png/576x768bb.png"
       ],
       "appletvScreenshotUrls": [],
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/46/12/ac461265-6b13-53dc-c932-fd65b4a8e6ba/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/60x60bb.jpg",
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/46/12/ac461265-6b13-53dc-c932-fd65b4a8e6ba/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/512x512bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/46/12/ac461265-6b13-53dc-c932-fd65b4a8e6ba/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/us/developer/american-society-for-colposcopy-and-cervical/id615585562?uo=4",
+      "advisories": [
+        "Frequent/Intense Medical/Treatment Information"
+      ],
+      "kind": "software",
       "features": [
         "iosUniversal"
       ],
@@ -336,48 +345,44 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "kind": "software",
-      "advisories": [
-        "Frequent/Intense Medical/Treatment Information"
-      ],
-      "releaseNotes": "- Updated language to clarify follow up information \n- Patch fix for new iOS release",
-      "trackCensoredName": "ASCCP Management Guidelines",
-      "trackViewUrl": "https://apps.apple.com/us/app/asccp-management-guidelines/id1498550832?uo=4",
-      "contentAdvisoryRating": "17+",
-      "averageUserRating": 4.77169,
-      "averageUserRatingForCurrentVersion": 4.77169,
+      "minimumOsVersion": "11.2",
+      "averageUserRatingForCurrentVersion": 4.77162,
       "sellerUrl": "https://www.asccp.org/",
+      "trackCensoredName": "ASCCP Management Guidelines",
       "languageCodesISO2A": [
         "EN"
       ],
       "fileSizeBytes": "49086464",
       "formattedPrice": "$14.99",
-      "userRatingCountForCurrentVersion": 8541,
+      "contentAdvisoryRating": "17+",
+      "userRatingCountForCurrentVersion": 8547,
+      "trackViewUrl": "https://apps.apple.com/us/app/asccp-management-guidelines/id1498550832?uo=4",
       "trackContentRating": "17+",
+      "averageUserRating": 4.77162,
       "artistId": 615585562,
       "artistName": "American Society for Colposcopy and Cervical Pathology Inc",
       "price": 14.99,
-      "primaryGenreName": "Medical",
-      "primaryGenreId": 6020,
-      "releaseDate": "2020-06-05T07:00:00Z",
-      "currentVersionReleaseDate": "2026-07-15T04:44:29Z",
-      "trackId": 1498550832,
-      "trackName": "ASCCP Management Guidelines",
-      "version": "2.4.3",
-      "wrapperType": "software",
-      "currency": "USD",
-      "description": "The ASCCP Risk-Based Management Consensus Guidelines provide evidence-based recommendations for managing abnormal cervical cancer screening results and cancer precursors, including post-colposcopy and post-treatment scenarios.\n\nASCCP is pleased to offer this app to streamline navigation of the ASCCP Risk-Based Management Consensus Guidelines for abnormal cervical cancer screening tests and cancer precursors. The guidelines articles, as published in the Journal of Lower Genital Tract Disease, as well as the comprehensive risk estimates, can be accessed through https://www.asccp.org/guidelines.  \n\nThese evidence-based management guidelines, initially developed in 2019, came together through a consensus process of 19 organizations. The updated management guidelines aim to:\n • Allow for a more complete and precise estimation of risk\n • Provide more appropriate intervention for high-risk individuals (detect and treat more precancer)\n • Recommend less intervention for low-risk individuals (decrease testing and treatment that won’t prevent cancer and may cause reproductive harm)\n • Allow for the future addition of new risk modifiers and screening and management technologies\n\nSee https://www.asccp.org/UserGuide for tips on using the app.",
-      "minimumOsVersion": "11.2",
-      "isVppDeviceBasedLicensingEnabled": true,
       "genres": [
         "Medical"
       ],
       "bundleId": "org.asccp.app2019",
+      "trackId": 1498550832,
+      "trackName": "ASCCP Management Guidelines",
+      "releaseDate": "2020-06-05T07:00:00Z",
       "genreIds": [
         "6020"
       ],
+      "primaryGenreName": "Medical",
+      "primaryGenreId": 6020,
       "sellerName": "American Society for Colposcopy and Cervical Pathology",
-      "userRatingCount": 8541,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-07-15T04:44:29Z",
+      "releaseNotes": "- Updated language to clarify follow up information \n- Patch fix for new iOS release",
+      "version": "2.4.3",
+      "wrapperType": "software",
+      "currency": "USD",
+      "description": "The ASCCP Risk-Based Management Consensus Guidelines provide evidence-based recommendations for managing abnormal cervical cancer screening results and cancer precursors, including post-colposcopy and post-treatment scenarios.\n\nASCCP is pleased to offer this app to streamline navigation of the ASCCP Risk-Based Management Consensus Guidelines for abnormal cervical cancer screening tests and cancer precursors. The guidelines articles, as published in the Journal of Lower Genital Tract Disease, as well as the comprehensive risk estimates, can be accessed through https://www.asccp.org/guidelines.  \n\nThese evidence-based management guidelines, initially developed in 2019, came together through a consensus process of 19 organizations. The updated management guidelines aim to:\n • Allow for a more complete and precise estimation of risk\n • Provide more appropriate intervention for high-risk individuals (detect and treat more precancer)\n • Recommend less intervention for low-risk individuals (decrease testing and treatment that won’t prevent cancer and may cause reproductive harm)\n • Allow for the future addition of new risk modifiers and screening and management technologies\n\nSee https://www.asccp.org/UserGuide for tips on using the app.",
+      "userRatingCount": 8547,
       "country": "USA"
     }
   ]
