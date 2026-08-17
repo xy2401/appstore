@@ -226,7 +226,7 @@
       "country": "gb",
       "mediaType": "apps",
       "feed": "top-paid",
-      "rank": 24,
+      "rank": 17,
       "artistName": "PeakFinder GmbH",
       "id": "357421934",
       "name": "PeakFinder",
@@ -252,7 +252,7 @@
       "country": "jp",
       "mediaType": "apps",
       "feed": "top-paid",
-      "rank": 28,
+      "rank": 85,
       "artistName": "PeakFinder GmbH",
       "id": "357421934",
       "name": "PeakFinder",
@@ -278,14 +278,25 @@
       "country": "us",
       "mediaType": "apps",
       "feed": "top-paid",
-      "rank": 9,
+      "rank": 12,
       "artistName": "PeakFinder GmbH",
       "id": "357421934",
       "name": "PeakFinder",
       "releaseDate": "2010-03-12",
       "kind": "apps",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/b0/b8/43b0b824-25b8-f93f-eca5-587378df114d/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/100x100bb.png",
-      "genres": [],
+      "genres": [
+        {
+          "genreId": "6003",
+          "name": "Travel",
+          "url": "https://itunes.apple.com/us/genre/id6003"
+        },
+        {
+          "genreId": "6010",
+          "name": "Navigation",
+          "url": "https://itunes.apple.com/us/genre/id6010"
+        }
+      ],
       "url": "https://apps.apple.com/us/app/peakfinder/id357421934"
     }
   ]
