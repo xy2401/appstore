@@ -224,6 +224,9 @@
     },
     {
       "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -355,18 +358,6 @@
       ],
       "advisories": [],
       "kind": "software",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4d/c3/ba/4dc3bae5-fa0c-e413-daac-b696ae36d847/APP_IPHONE_67-0.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2f/1b/72/2f1b72df-7153-a7b1-7e17-7feea495c0dd/APP_IPHONE_67-1.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ca/08/a3/ca08a3fc-09ff-9702-b445-288c91a477ae/APP_IPHONE_67-2.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/45/7f/fc/457ffc71-7922-6480-2526-5de08d12ffbd/APP_IPHONE_67-3.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f3/1a/53/f31a5316-1ab6-372f-728e-9d42de9e518f/APP_IPHONE_67-4.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b8/ea/9b/b8ea9b45-b6c7-81a1-2f79-d67010c273df/APP_IPHONE_67-5.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/68/68/34/686834fa-f498-3f65-1570-b2217ba44566/APP_IPHONE_67-6.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/72/96/ef/7296ef7e-2a22-62c0-0b67-00b6e49bb15e/APP_IPHONE_67-7.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/83/a6/88/83a68845-22e5-72ab-bf31-8fda6c20e19e/APP_IPHONE_67-8.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/da/8d/68/da8d68b0-64a2-c735-fa45-122565c8ee00/APP_IPHONE_67-9.png/320x480bb.jpg"
-      ],
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7d/d6/cc/7dd6cc6c-34df-6e38-92eb-5b0dfa2a663a/APP_IPAD_PRO_3GEN_129-0.png/360x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ec/5f/dc/ec5fdc4e-2d0b-7aed-5075-844e45d8b57f/APP_IPAD_PRO_3GEN_129-1.png/360x480bb.jpg",
@@ -379,42 +370,47 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/42/2d/d7/422dd755-f911-6718-4d9b-4ecf476d9a49/APP_IPAD_PRO_3GEN_129-8.png/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artistViewUrl": "https://apps.apple.com/us/developer/google/id281956209?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/65/5b/e2/655be279-673b-7d14-a306-a4588aa6bb14/ProdAppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/60x60bb.jpg",
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/65/5b/e2/655be279-673b-7d14-a306-a4588aa6bb14/ProdAppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/65/5b/e2/655be279-673b-7d14-a306-a4588aa6bb14/ProdAppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.jpg",
-      "features": [
-        "iosUniversal"
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/03/c4/1e03c40a-9949-3506-3fcb-9cdd90c6d79f/ProdAppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4d/c3/ba/4dc3bae5-fa0c-e413-daac-b696ae36d847/APP_IPHONE_67-0.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2f/1b/72/2f1b72df-7153-a7b1-7e17-7feea495c0dd/APP_IPHONE_67-1.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ca/08/a3/ca08a3fc-09ff-9702-b445-288c91a477ae/APP_IPHONE_67-2.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/45/7f/fc/457ffc71-7922-6480-2526-5de08d12ffbd/APP_IPHONE_67-3.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f3/1a/53/f31a5316-1ab6-372f-728e-9d42de9e518f/APP_IPHONE_67-4.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b8/ea/9b/b8ea9b45-b6c7-81a1-2f79-d67010c273df/APP_IPHONE_67-5.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/68/68/34/686834fa-f498-3f65-1570-b2217ba44566/APP_IPHONE_67-6.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/72/96/ef/7296ef7e-2a22-62c0-0b67-00b6e49bb15e/APP_IPHONE_67-7.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/83/a6/88/83a68845-22e5-72ab-bf31-8fda6c20e19e/APP_IPHONE_67-8.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/da/8d/68/da8d68b0-64a2-c735-fa45-122565c8ee00/APP_IPHONE_67-9.png/320x480bb.jpg"
       ],
-      "artistId": 281956209,
-      "artistName": "Google",
+      "artistViewUrl": "https://apps.apple.com/us/developer/google/id281956209?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/03/c4/1e03c40a-9949-3506-3fcb-9cdd90c6d79f/ProdAppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/03/c4/1e03c40a-9949-3506-3fcb-9cdd90c6d79f/ProdAppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.jpg",
+      "minimumOsVersion": "17.0",
+      "releaseNotes": "Less friction, more focus. This version brings stability improvements and minor bug fixes to keep your entire editing workflow effortless from import to export.",
       "genres": [
         "Photo & Video",
         "Lifestyle"
       ],
-      "price": 0,
+      "artistId": 281956209,
+      "artistName": "Google",
       "genreIds": [
         "6008",
         "6012"
       ],
-      "primaryGenreName": "Photo & Video",
-      "primaryGenreId": 6008,
-      "releaseDate": "2011-06-07T05:06:21Z",
-      "sellerName": "Google LLC",
+      "bundleId": "com.niksoftware.snapseedforipad",
       "trackId": 439438619,
       "trackName": "Snapseed: Photo Editor",
+      "primaryGenreName": "Photo & Video",
+      "primaryGenreId": 6008,
+      "sellerName": "Google LLC",
       "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-07-16T18:44:49Z",
-      "releaseNotes": "Keep it moving. We’ve taken care of a few minor issues behind the scenes so your experience stays fast, smooth, and reliable.",
-      "version": "4.0.5",
+      "currentVersionReleaseDate": "2026-08-15T16:19:09Z",
+      "version": "4.0.6",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Snapseed is a complete and professional photo editor developed by Google. Pro-level tools, authentic film simulations, smart masking and more — all with no strings attached.\n\n== KEY FEATURES ==\n• No Strings Attached: Get 30+ pro tools and filters - no subscriptions, purchases, ads, or watermarks\n• Vintage Styles: realistic film filters, plus Halation, Bloom, and Grain tools\n• Smart Masking: Instantly and intelligently isolate subjects or backgrounds with a single tap for fast, targeted edits\n• Batch Editing: Quickly apply your favorite looks and edits to multiple photos\n• Snapseed Camera: Capture using custom styles or film looks. Save time with real-time effects that can be edited or reset later\n• Non-destructive Editing: Easily undo changes or revert to your original photo at any time\n• RAW Support: Open and edit JPG and RAW files with precise control\n\n== PRO TOOLS & FILTERS ==\n• Snapseed Camera: shoot directly in your favorite film simulations or custom looks to capture your unique style in real-time and skip the editing step\n• Adjust: adjust exposure and color automatically or manually with fine, precise control\n• One-Touch Masking: instantly select subjects or backgrounds with smart precision for seamless targeted edits\n• Selective: precisely adjust brightness, contrast, or saturation in specific areas without affecting the rest of your photo\n• Healing: remove the uninvited neighbor from a group picture\n• Film: get beautiful looks with our completely updated, realistic film simulations of historic film stocks\n• Batch Edit: apply your custom looks and edits to an entire batch of photos instantly\n• Halation: add an authentic highlight glow to replicate classic analog lens effects\n• Bloom: create a soft, dreamy optical diffusion to light sources for a cinematic finish\n• RAW Develop: open and tweak some RAW file types\n• Double Exposure: combine two photos using blend modes inspired by film and digital processing\n• Portrait: modern tools to quickly enhance lighting, adjust poses, and refine facial features\n• Details: magically brings out surface structures in images\n• Crop and rotate: crop to standard sizes, rotate by 90°, or straighten a skewed horizon.\n• Perspective: fix skewed lines and perfect the geometry of horizons or buildings\n• White Balance: adjust the colors so that the image looks more natural\n• Brush: selectively retouch exposure, saturation, brightness or warmth\n• Vignette: darken image corners for a classic photographic effect\n• Curves: have precise control over the brightness levels in your photos\n• Color HSL: precisely adjust hue, saturation, and luminance of any color\n• Dehaze: instantly clear haze, fog, or glare for better contrast and detail\n• Expand: increase the size of your canvas\n• Lens Blur: add a beautiful Bokeh to images (background softening)\n• Glow: add a fine glow to images, great for fashion or portraits\n• Tonality: boost details selectively in the shadows, midtones and highlights\n• Black & White: classic Black and White look straight out of the darkroom\n• and more!",
-      "bundleId": "com.niksoftware.snapseedforipad",
-      "minimumOsVersion": "17.0",
       "sellerUrl": "http://snapseed.com",
-      "averageUserRating": 4.85885,
-      "trackCensoredName": "Snapseed: Photo Editor",
       "languageCodesISO2A": [
         "AR",
         "BN",
@@ -455,14 +451,18 @@
         "UK",
         "VI"
       ],
-      "fileSizeBytes": "205097984",
+      "fileSizeBytes": "247098368",
       "formattedPrice": "Free",
-      "contentAdvisoryRating": "4+",
-      "userRatingCountForCurrentVersion": 21708,
-      "trackViewUrl": "https://apps.apple.com/us/app/snapseed-photo-editor/id439438619?uo=4",
+      "userRatingCountForCurrentVersion": 22458,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.85885,
-      "userRatingCount": 21708,
+      "averageUserRatingForCurrentVersion": 4.85879,
+      "averageUserRating": 4.85879,
+      "trackCensoredName": "Snapseed: Photo Editor",
+      "trackViewUrl": "https://apps.apple.com/us/app/snapseed-photo-editor/id439438619?uo=4",
+      "contentAdvisoryRating": "4+",
+      "releaseDate": "2011-06-07T05:06:21Z",
+      "price": 0,
+      "userRatingCount": 22458,
       "country": "USA"
     }
   ]

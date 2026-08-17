@@ -2,10 +2,15 @@
   "resultCount": 1,
   "results": [
     {
+      "isGameCenterEnabled": false,
       "artistViewUrl": "https://apps.apple.com/us/developer/classical-conversations/id501527695?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e3/65/a3/e365a30b-6b30-d880-812d-c03b675e9b21/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e3/65/a3/e365a30b-6b30-d880-812d-c03b675e9b21/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.jpg",
-      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
+      "advisories": [],
+      "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/c9/54/03/c95403a1-294f-75a8-1f65-ca5c8bc972c7/54b45034-e056-4e60-89c4-f99812185918_Size5-5Home.png/406x228bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/d5/7c/6a/d57c6aa1-d97b-34e8-153f-f909e1f5e6d4/99984df2-c3a9-4a1b-874f-aa7a58a83638_Size5-5MathWeek21.png/406x228bb.png",
@@ -28,11 +33,6 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e3/65/a3/e365a30b-6b30-d880-812d-c03b675e9b21/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [],
-      "kind": "software",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -162,45 +162,45 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 3.57738,
       "trackCensoredName": "Foundations Memory Work C3",
-      "languageCodesISO2A": [
-        "EN"
-      ],
-      "fileSizeBytes": "775314432",
-      "formattedPrice": "$9.99",
-      "userRatingCountForCurrentVersion": 168,
       "trackViewUrl": "https://apps.apple.com/us/app/foundations-memory-work-c3/id501527692?uo=4",
-      "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 3.57738,
-      "sellerUrl": "http://www.classicalconversations.com",
-      "minimumOsVersion": "12.0",
+      "releaseNotes": "Updated for the 2023-2024 Foundations Memory Work.",
+      "averageUserRating": 3.57738,
+      "contentAdvisoryRating": "4+",
+      "artistId": 501527695,
+      "artistName": "Classical Conversations",
       "genres": [
         "Education",
         "Reference"
       ],
-      "artistId": 501527695,
-      "artistName": "Classical Conversations",
-      "sellerName": "Classical Conversations Inc.",
-      "trackId": 501527692,
-      "trackName": "Foundations Memory Work C3",
-      "releaseNotes": "Updated for the 2023-2024 Foundations Memory Work.",
-      "isVppDeviceBasedLicensingEnabled": true,
+      "price": 9.99,
+      "bundleId": "com.classicalconversations.Cycle3Tutorials",
+      "releaseDate": "2012-02-15T21:08:26Z",
       "genreIds": [
         "6017",
         "6006"
       ],
       "primaryGenreName": "Education",
       "primaryGenreId": 6017,
-      "releaseDate": "2012-02-15T21:08:26Z",
+      "sellerName": "Classical Conversations Inc.",
+      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2023-08-01T19:40:06Z",
       "version": "4.00",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Classical Conversations®\nFoundations Memory Work Tutorials, Cycle 3\n \nStrengthen your brain by memorizing quality content with art and song in a beautiful, interactive format in seven subject areas. New features include enhanced graphics and interactivity, Classical Conversations® Classical Acts & Facts® timeline, and the U.S. presidents!\n   \nClassical Conversations® empowers homeschooling parents and establishes classical, Christian communities that equip children with a biblical worldview and the classical tools of learning in order to impact the world for God’s glory.\n \nVisit us online to learn more:\nClassicalConversations.com\nClassicalConversationsBooks.com\nPlease send questions or comments to: customerservice@classicalconversations.com",
-      "bundleId": "com.classicalconversations.Cycle3Tutorials",
-      "price": 9.99,
+      "minimumOsVersion": "12.0",
+      "sellerUrl": "http://www.classicalconversations.com",
+      "averageUserRatingForCurrentVersion": 3.57738,
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "fileSizeBytes": "775314432",
+      "formattedPrice": "$9.99",
+      "userRatingCountForCurrentVersion": 168,
+      "trackContentRating": "4+",
+      "trackId": 501527692,
+      "trackName": "Foundations Memory Work C3",
       "userRatingCount": 168,
       "country": "USA"
     }

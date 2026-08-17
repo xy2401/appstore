@@ -203,8 +203,10 @@
       "userRatingCount": 3657
     },
     {
-      "advisories": [],
       "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -335,6 +337,7 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
+      "advisories": [],
       "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/57/f9/0a/57f90a33-ba40-35e3-fb56-9c9d62cd0a6b/mzl.ywbwrtfd.jpg/392x696bb.jpg",
@@ -355,35 +358,30 @@
       "artistViewUrl": "https://apps.apple.com/de/developer/appsolute-gmbh/id284444551?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/0f/23/560f233d-6119-7de4-de31-924927021fa9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.jpeg/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/0f/23/560f233d-6119-7de4-de31-924927021fa9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.jpeg/100x100bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
-      "currentVersionReleaseDate": "2025-12-18T21:56:42Z",
+      "artistId": 284444551,
+      "artistName": "appsolute GmbH",
       "genres": [
         "Unterhaltung",
         "Musik"
       ],
-      "releaseNotes": "- Anzeige von Stream-Qualitätsdaten wie Codec, Abtastrate und Bitrate\n- Option zum Deaktivieren der Anzeige von Albumcovern\n- Anpassung an iOS 26 Liquid Design\n- Kleinere Fehlerbehebungen und Verbesserungen",
       "price": 3.99,
-      "artistId": 284444551,
-      "artistName": "appsolute GmbH",
-      "releaseDate": "2009-04-16T21:50:03Z",
-      "trackId": 311658127,
-      "trackName": "Radio - Receiver",
-      "sellerName": "appsolute GmbH",
+      "primaryGenreName": "Entertainment",
+      "primaryGenreId": 6016,
+      "bundleId": "de.appsolute.vtuner",
       "genreIds": [
         "6016",
         "6011"
       ],
+      "trackId": 311658127,
+      "trackName": "Radio - Receiver",
+      "sellerName": "appsolute GmbH",
       "isVppDeviceBasedLicensingEnabled": true,
-      "primaryGenreName": "Entertainment",
-      "primaryGenreId": 6016,
+      "currentVersionReleaseDate": "2025-12-18T21:56:42Z",
+      "releaseNotes": "- Anzeige von Stream-Qualitätsdaten wie Codec, Abtastrate und Bitrate\n- Option zum Deaktivieren der Anzeige von Albumcovern\n- Anpassung an iOS 26 Liquid Design\n- Kleinere Fehlerbehebungen und Verbesserungen",
       "version": "4.7",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Receiver Radio ist ein Internetradio mit über 40.000 Radiosendern, über 25.000 Podcasts und einer Radioweckerfunktion. Mit Receiver Radio haben Sie eine viel größere Auswahl an Sendern als mit einem DAB- oder DAB+-Radio.\n\nFunktionen:\n\n+ Dank StreamOn keine Anrechnung auf das mobile Datenvolumen für Telekom-Kunden\n+ Über 40.000 Radiosender\n+ Mehr als 25.000 Podcasts\n+ Eigene Streams hinzufügen\n+ Suche nach Genre, Region, Sprache, Qualität, Beliebtheit neuer Sender etc.\n+ Senderliste mit hoher Audioqualität\n+ Favoriten mit anderen Geräten synchronisieren\n\n+ Siri-Kurzbefehle\n+ HomePod Unterstützung\n+ CarPlay Unterstützung\n+ Apple Watch App\n+ Airplay und Chromecast-Unterstützung\n+ Dark Mode\n\n+ iMessage App zum Empfehlen von Sendern\n+ Widget mit Lieblingssendern\n\n+ Wecker (Radio, Musik, Sound) mit beliebig vielen Weckzeiten\n+ Sleep Timer\n+ Schlummerfunktion\n\n+ Wunderschöne Analoguhr im Querformat\n+ Wähle deinen individuellen Look aus 5 verschiedenen Farben\n+ Im Radio wird der aktuell gespielte Song mit Cover angezeigt (wenn verfügbar)\n\n+ Unterstützung von Bedienungshilfen wie \"Voice Over\" und \"Bildschirminhalt vorlesen\" für Sehbehinderte\n\nNutzer-Kommentare:\n----\nÜbersichtliche App mit ausgezeichnetem Support\nHabe fast alle Sender gefunden und den einen fehlenden vorgeschlagen... am nächsten Tag war er integriert... super!!!!Sehr empfehlenswert!!!\n----\nTop auch für Blinde mit VoiceOver\nDie App ist wirklich super! Sie ist sehr übersichtlich und perfekt nutzbar für Menschen, die auf VoiceOver angewiesen sind. Besonders toll ist die HomePod Unterstützung. Einfach einen Shortcut erstellen und Siri den gewünschten Sender zurufen. Das iPhone muss im selben WLAN sein, aber wann ist das schon mal der Fall? Dank der App ist mein HomePod jetzt perfekt. 1000 Dank!\n\n\nMit Receiver Radio kann man die besten deutschen Radiosender hören, wie zum Beispiel: sport1.fm, Radio NRW, SWR3, Antenne, Bayern, EinsLive, WDR 2, Bayern 3, BigFM, Radio FFH, Deutschlandfunk, Radioeins, SWR1, Deutschlandradio Kultur, MDR FIGARO, NDR 2, Rock Antenne, N-Joy, Radio Paloma, Jam FM und viele, viele mehr.\nNeben über 1000 Radiosendern aus Deutschland stehen dir über 40.000 internationale Sender zur Verfügung. Mit Receiver bist du immer über alle Neuigkeiten aus den verschiedensten Bereichen informiert: Ob Sport, Fußball Bundesliga live, Reportagen, Hörspiele, Nachrichten, Musik, Podcasts, Reportagen, Reisen, Wetter und vieles mehr.",
-      "minimumOsVersion": "15.6",
-      "sellerUrl": "http://www.radioapp.de",
       "languageCodesISO2A": [
         "NL",
         "EN",
@@ -393,15 +391,17 @@
       ],
       "fileSizeBytes": "27822080",
       "formattedPrice": "3,99 €",
-      "userRatingCountForCurrentVersion": 3672,
+      "averageUserRatingForCurrentVersion": 4.61315,
+      "sellerUrl": "http://www.radioapp.de",
+      "userRatingCountForCurrentVersion": 3681,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.61165,
-      "averageUserRating": 4.61165,
       "trackCensoredName": "Radio - Receiver",
       "trackViewUrl": "https://apps.apple.com/de/app/radio-receiver/id311658127?uo=4",
       "contentAdvisoryRating": "4+",
-      "bundleId": "de.appsolute.vtuner",
-      "userRatingCount": 3672,
+      "averageUserRating": 4.61315,
+      "minimumOsVersion": "15.6",
+      "releaseDate": "2009-04-16T21:50:03Z",
+      "userRatingCount": 3681,
       "country": "DEU"
     }
   ]

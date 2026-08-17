@@ -2,7 +2,6 @@
   "resultCount": 1,
   "results": [
     {
-      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3d/93/07/3d9307a4-2e89-18c3-54b0-e28a01a9cd90/1242x220806.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5c/57/81/5c578190-97d5-1010-b455-edd8d866e059/1242x220805.png/392x696bb.png",
@@ -20,10 +19,11 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e1/67/b3/e167b3d4-a36a-2594-1f2a-68f9d2462524/2048x273201.png/576x768bb.png"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/46/2f/ce462f2b-8bf5-1387-15be-e4ab7b23d69e/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/46/2f/ce462f2b-8bf5-1387-15be-e4ab7b23d69e/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/46/2f/ce462f2b-8bf5-1387-15be-e4ab7b23d69e/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/fr/developer/credit-agricole-technologies/id787238413?uo=4",
+      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -153,34 +153,30 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "features": [
-        "iosUniversal"
-      ],
       "advisories": [],
       "kind": "software",
-      "formattedPrice": "Gratuit",
-      "contentAdvisoryRating": "4+",
-      "userRatingCountForCurrentVersion": 872067,
-      "trackViewUrl": "https://apps.apple.com/fr/app/ma-banque/id376202925?uo=4",
-      "trackContentRating": "4+",
-      "sellerUrl": "http://www.credit-agricole.fr/applications-credit-agricole.html",
-      "averageUserRating": 4.63117,
-      "trackCensoredName": "Ma Banque",
+      "artistViewUrl": "https://apps.apple.com/fr/developer/credit-agricole-technologies/id787238413?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/46/2f/ce462f2b-8bf5-1387-15be-e4ab7b23d69e/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/46/2f/ce462f2b-8bf5-1387-15be-e4ab7b23d69e/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
       "languageCodesISO2A": [
         "EN",
         "FR"
       ],
       "fileSizeBytes": "329827328",
-      "averageUserRatingForCurrentVersion": 4.63117,
+      "formattedPrice": "Gratuit",
+      "userRatingCountForCurrentVersion": 876315,
+      "trackContentRating": "4+",
+      "averageUserRatingForCurrentVersion": 4.63133,
+      "minimumOsVersion": "15.0",
+      "sellerUrl": "http://www.credit-agricole.fr/applications-credit-agricole.html",
+      "artistId": 787238413,
+      "artistName": "CREDIT AGRICOLE TECHNOLOGIES",
       "genres": [
         "Finance"
       ],
-      "artistId": 787238413,
-      "artistName": "CREDIT AGRICOLE TECHNOLOGIES",
       "price": 0,
-      "bundleId": "fr.creditagricole.monbudget",
-      "trackName": "Ma Banque",
       "trackId": 376202925,
+      "trackName": "Ma Banque",
       "releaseDate": "2010-06-24T20:14:32Z",
       "genreIds": [
         "6015"
@@ -188,15 +184,19 @@
       "primaryGenreName": "Finance",
       "primaryGenreId": 6015,
       "sellerName": "CREDIT AGRICOLE TECHNOLOGIES",
-      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-07-22T13:02:18Z",
+      "releaseNotes": "Découvrez les nouveautés de Ma Banque :\n\n- Retrouvez le détail de votre assurance habitation.\n- Retrouvez le détail de vos assurances vie Banques Privées.\n- Clients particuliers et professionnels : activez la solution de paiement mobile iOS depuis Ma Banque.\n- Etudiant de santé : simulez et souscrivez à une assurance multirisque depuis votre univers assurances.\n\nActivez les mises à jour automatiques pour ne rien manquer !",
       "version": "53.0.1",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Ma Banque : votre banque au quotidien, simple et sécurisée\n\nAvec l’application Ma Banque du Crédit Agricole, gérez vos comptes bancaires professionnels et particuliers, vos cartes, vos virements, votre épargne, vos crédits et vos assurances en toute simplicité, où que vous soyez.\n\nUn outil complet, sécurisé et pratique, pensé pour vous accompagner jour après jour.\n \nGÉREZ VOTRE ARGENT COMME VOUS LE SOUHAITEZ\n• Consultez le solde de vos comptes et vos opérations en temps réel\n• Effectuez vos virements classiques, instantanés, en France ou à l’international\n• Ajoutez un bénéficiaire, partagez votre RIB\n• Liez vos comptes bancaires externes pour gérer tous vos comptes au même endroit\n• Envoyez ou demandez de l’argent avec un simple numéro de téléphone ou un e-mail avec Wero \n\nSUIVEZ VOTRE BUDGET\n• Pointez et catégorisez vos opérations\n• Visualisez vos dépenses et revenus en un coup d’œil \n\nTOUTES VOS OPÉRATIONS EN SÉCURITÉ\n• Validez vos paiements et opérations sensibles grâce au service SécuriPass\n• Recevez des notifications en temps réel de vos opérations importantes \n\nPILOTEZ VOS CARTES ET GAGNEZ EN AUTONOMIE\n• Gérez vos plafonds, bloquez ou débloquez vos cartes en cas de besoin\n• Activez vos options de paiement sans contact et à l’étranger \n\nSIMPLIFIEZ VOS DÉMARCHES EN LIGNE\n• Réaliser vos devis assurances, simulez vos crédits\n• Signez vos contrats directement depuis l'application\n• Consultez et téléchargez vos e-documents à tout moment \n\nVOTRE AGENCE DANS VOTRE POCHE\n• Prenez rendez-vous en quelques clics, échangez avec votre conseiller par messagerie\n• Accédez aux informations de votre agence\n\nUNE APPLICATION PENSEE POUR TOUS, A VOTRE IMAGE\n• Profitez de parcours adaptés pour les utilisateurs mal ou non-voyants\n• Activez le mode sombre pour plus de confort\n• Définissez un compte bancaire en favori, personnalisez vos raccourcis\n\nTestez l’application grâce au mode démo, même sans vous connecter.\nCrédit Agricole : Agir chaque jour dans votre intérêt et celui de la société.",
-      "minimumOsVersion": "15.0",
-      "currentVersionReleaseDate": "2026-07-22T13:02:18Z",
-      "releaseNotes": "Découvrez les nouveautés de Ma Banque :\n\n- Retrouvez le détail de votre assurance habitation.\n- Retrouvez le détail de vos assurances vie Banques Privées.\n- Clients particuliers et professionnels : activez la solution de paiement mobile iOS depuis Ma Banque.\n- Etudiant de santé : simulez et souscrivez à une assurance multirisque depuis votre univers assurances.\n\nActivez les mises à jour automatiques pour ne rien manquer !",
-      "userRatingCount": 872067,
+      "bundleId": "fr.creditagricole.monbudget",
+      "trackViewUrl": "https://apps.apple.com/fr/app/ma-banque/id376202925?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.63133,
+      "trackCensoredName": "Ma Banque",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "userRatingCount": 876315,
       "country": "FRA"
     }
   ]

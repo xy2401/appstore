@@ -188,10 +188,6 @@
       "userRatingCount": 2097
     },
     {
-      "isGameCenterEnabled": false,
-      "features": [],
-      "advisories": [],
-      "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c5/f4/d0/c5f4d0d6-dad5-6eb3-2cbd-56eaa29ee566/AppStore_-_JP_1.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/87/68/45/8768457b-7d1f-72df-8f8a-827c3a7ce547/AppStore_-_JP_2.png/320x480bb.jpg",
@@ -201,10 +197,8 @@
       ],
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/f7/1c/17f71cc9-8a42-4d8c-fa64-8284ede07a1f/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/60x60bb.jpg",
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/f7/1c/17f71cc9-8a42-4d8c-fa64-8284ede07a1f/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/f7/1c/17f71cc9-8a42-4d8c-fa64-8284ede07a1f/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/jp/developer/new-chat/id1759998417?uo=4",
+      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -334,30 +328,16 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "minimumOsVersion": "17.6",
-      "artistId": 1759998417,
-      "artistName": "new chat",
-      "genres": [
-        "ソーシャルネットワーキング",
-        "写真／ビデオ"
-      ],
-      "sellerName": "New Chat Inc.",
+      "features": [],
+      "advisories": [],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/jp/developer/new-chat/id1759998417?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/f7/1c/17f71cc9-8a42-4d8c-fa64-8284ede07a1f/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/f7/1c/17f71cc9-8a42-4d8c-fa64-8284ede07a1f/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.jpg",
       "bundleId": "com.newchat.hai",
-      "releaseNotes": "不具合の修正とパフォーマンスの改善を行いました。",
-      "releaseDate": "2025-12-24T08:00:00Z",
-      "genreIds": [
-        "6005",
-        "6008"
-      ],
-      "currentVersionReleaseDate": "2026-08-09T17:52:30Z",
-      "version": "2.5.1",
-      "wrapperType": "software",
-      "currency": "JPY",
-      "description": "セットログ : 同じ1日、それぞれの瞬間\n@setlog_app\n\n毎時間のちょっとした瞬間を、友だちと一緒にVlogに残そう",
-      "averageUserRatingForCurrentVersion": 3.40568,
+      "averageUserRatingForCurrentVersion": 3.47584,
+      "fileSizeBytes": "91721728",
       "sellerUrl": "https://setlog.kr/",
-      "averageUserRating": 3.40568,
-      "trackCensoredName": "setlog",
       "languageCodesISO2A": [
         "EN",
         "JA",
@@ -365,19 +345,39 @@
         "ZH",
         "VI"
       ],
-      "fileSizeBytes": "91721728",
       "formattedPrice": "無料",
-      "contentAdvisoryRating": "12+",
-      "userRatingCountForCurrentVersion": 387,
-      "trackViewUrl": "https://apps.apple.com/jp/app/setlog/id6587576438?uo=4",
+      "userRatingCountForCurrentVersion": 538,
       "trackContentRating": "12+",
-      "isVppDeviceBasedLicensingEnabled": true,
+      "artistId": 1759998417,
+      "artistName": "new chat",
+      "price": 0,
       "trackId": 6587576438,
       "trackName": "setlog",
-      "price": 0,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "New Chat Inc.",
       "primaryGenreName": "Social Networking",
       "primaryGenreId": 6005,
-      "userRatingCount": 387,
+      "releaseDate": "2025-12-24T08:00:00Z",
+      "currentVersionReleaseDate": "2026-08-09T17:52:30Z",
+      "releaseNotes": "不具合の修正とパフォーマンスの改善を行いました。",
+      "version": "2.5.1",
+      "wrapperType": "software",
+      "currency": "JPY",
+      "description": "セットログ : 同じ1日、それぞれの瞬間\n@setlog_app\n\n毎時間のちょっとした瞬間を、友だちと一緒にVlogに残そう",
+      "minimumOsVersion": "17.6",
+      "averageUserRating": 3.47584,
+      "trackCensoredName": "setlog",
+      "trackViewUrl": "https://apps.apple.com/jp/app/setlog/id6587576438?uo=4",
+      "contentAdvisoryRating": "12+",
+      "genreIds": [
+        "6005",
+        "6008"
+      ],
+      "genres": [
+        "ソーシャルネットワーキング",
+        "写真／ビデオ"
+      ],
+      "userRatingCount": 538,
       "country": "JPN"
     }
   ]

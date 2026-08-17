@@ -2,10 +2,6 @@
   "resultCount": 1,
   "results": [
     {
-      "artistViewUrl": "https://apps.apple.com/jp/developer/ammi-sato/id1895334718?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/16/67/541667ea-7c67-72d7-3475-437cb2e46978/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/16/67/541667ea-7c67-72d7-3475-437cb2e46978/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/100x100bb.jpg",
-      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4e/ae/af/4eaeaf83-a447-b65e-5385-728ae5548662/_U30b9_U30af_U30b7_U30e7.001.jpeg/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/03/00/f0/0300f029-5872-64e0-8c79-0b036b35d006/_U30b9_U30af_U30b7_U30e7.005.jpeg/320x480bb.jpg",
@@ -25,7 +21,14 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e9/83/9a/e9839acc-a741-8f4d-9cad-a23b4f737980/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2025-01-17_at_21.05.47.png/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/16/67/541667ea-7c67-72d7-3475-437cb2e46978/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/60x60bb.jpg",
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/16/67/541667ea-7c67-72d7-3475-437cb2e46978/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/512x512bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/16/67/541667ea-7c67-72d7-3475-437cb2e46978/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/jp/developer/ammi-sato/id1895334718?uo=4",
+      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -159,21 +162,19 @@
         "まれ／軽度な医療または治療情報"
       ],
       "kind": "software",
-      "features": [
-        "iosUniversal"
-      ],
-      "averageUserRating": 2.6875,
+      "averageUserRating": 2.8,
       "trackCensoredName": "救急救命士問題集",
-      "trackViewUrl": "https://apps.apple.com/jp/app/%E6%95%91%E6%80%A5%E6%95%91%E5%91%BD%E5%A3%AB%E5%95%8F%E9%A1%8C%E9%9B%86/id6740698768?uo=4",
-      "contentAdvisoryRating": "12+",
       "languageCodesISO2A": [
         "JA"
       ],
       "fileSizeBytes": "53480448",
       "formattedPrice": "¥700",
-      "userRatingCountForCurrentVersion": 16,
+      "contentAdvisoryRating": "12+",
+      "userRatingCountForCurrentVersion": 15,
+      "trackViewUrl": "https://apps.apple.com/jp/app/%E6%95%91%E6%80%A5%E6%95%91%E5%91%BD%E5%A3%AB%E5%95%8F%E9%A1%8C%E9%9B%86/id6740698768?uo=4",
       "trackContentRating": "12+",
-      "averageUserRatingForCurrentVersion": 2.6875,
+      "averageUserRatingForCurrentVersion": 2.8,
+      "minimumOsVersion": "18.0",
       "artistId": 1895334718,
       "artistName": "Ammi Sato",
       "genres": [
@@ -181,24 +182,23 @@
       ],
       "price": 700,
       "releaseDate": "2025-01-19T08:00:00Z",
-      "bundleId": "com.oshige.dev.EMT",
-      "isVppDeviceBasedLicensingEnabled": true,
+      "trackName": "救急救命士問題集",
+      "trackId": 6740698768,
+      "primaryGenreName": "Education",
+      "primaryGenreId": 6017,
       "genreIds": [
         "6017"
       ],
       "sellerName": "Ammi Sato",
-      "releaseNotes": "このアップデートでは、内容を一部変更しました。",
-      "trackId": 6740698768,
-      "trackName": "救急救命士問題集",
-      "primaryGenreName": "Education",
-      "primaryGenreId": 6017,
+      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-07-22T17:00:21Z",
+      "releaseNotes": "このアップデートでは、内容を一部変更しました。",
       "version": "3.283",
       "wrapperType": "software",
       "currency": "JPY",
       "description": "このアプリは、救急救命士国家試験の問題を集め編集したものです。\n最初に無料版の「救急救命士問題集Lite」をご利用してください。\n\n【アプリの特徴】\n◆試験回から個別に問題を選択！\n試験回を選択すると、試験情報、A~D問題に別れている問題を選択し解答することができます。\nまた、各実施回を組み合わせてオリジナル問題集を作成し、ランダムに出題することができます。\n\n◆キーワードから検索！\n自分の苦手分野や分野別問題、名称を検索し類似問題をすぐに確認できます。\n\n◆履歴から復習！\n実施履歴から間違えた問題だけを解答することができます。\n\n◆お気に入りにから確認！\n問題をお気に入り登録しておくと、問題の正誤に関わらずすぐに確認ができます。間違えやすい問題や印象深かった問題を登録してみましょう。\n\n◆一言メモ機能で自分なりの解釈！\n自分の残したメモから自分ありの覚え方を再確認することができます。\n\n◆過去データから読み解く\n問題回答状況、正解数、不正解数から自分の成績を確認。過去の受験者データ等から不安を解消しましょう。",
-      "minimumOsVersion": "18.0",
-      "userRatingCount": 16,
+      "bundleId": "com.oshige.dev.EMT",
+      "userRatingCount": 15,
       "country": "JPN"
     }
   ]

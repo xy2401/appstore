@@ -186,12 +186,7 @@
       "userRatingCount": 5
     },
     {
-      "features": [
-        "iosUniversal"
-      ],
-      "artistViewUrl": "https://apps.apple.com/cn/developer/%E6%98%80%E6%98%8A-%E9%99%88/id6784079492?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/59/66/4d596629-ae57-4739-4839-973c6b4e967e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/59/66/4d596629-ae57-4739-4839-973c6b4e967e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cd/9c/d7/cd9cd7f1-0586-ae8d-544f-83df3bebd9b2/IMG_2102.JPG/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8d/6a/c7/8d6ac768-712b-cc4d-107e-3aad253ad495/IMG_2103.JPG/320x480bb.jpg",
@@ -204,8 +199,13 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b3/ca/9e/b3ca9e3e-b3f5-55c5-8f04-67c33fe266b0/3.jpg/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/59/66/4d596629-ae57-4739-4839-973c6b4e967e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/60/0f/fe600f7c-0068-7bc3-3742-ffeb029aaae7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/60/0f/fe600f7c-0068-7bc3-3742-ffeb029aaae7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/60/0f/fe600f7c-0068-7bc3-3742-ffeb029aaae7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/cn/developer/%E6%98%80%E6%98%8A-%E9%99%88/id6784079492?uo=4",
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -335,48 +335,48 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "advisories": [],
       "kind": "software",
-      "bundleId": "com.cloudhao.TravelTicket",
-      "averageUserRating": 4.625,
-      "trackCensoredName": "PicSlicer",
+      "advisories": [],
+      "userRatingCountForCurrentVersion": 9,
       "trackViewUrl": "https://apps.apple.com/cn/app/picslicer/id6784084452?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.625,
+      "trackContentRating": "4+",
+      "averageUserRatingForCurrentVersion": 4.66667,
+      "averageUserRating": 4.66667,
+      "trackCensoredName": "PicSlicer",
       "languageCodesISO2A": [
         "EN",
         "ZH"
       ],
-      "fileSizeBytes": "369576960",
+      "fileSizeBytes": "391752704",
       "formattedPrice": "¥1.00",
-      "userRatingCountForCurrentVersion": 8,
-      "trackContentRating": "4+",
-      "minimumOsVersion": "17.0",
-      "artistId": 6784079492,
-      "artistName": "昀昊 陈",
-      "price": 1,
-      "trackId": 6784084452,
-      "trackName": "PicSlicer",
-      "releaseDate": "2026-07-01T07:00:00Z",
-      "primaryGenreName": "Travel",
-      "primaryGenreId": 6003,
-      "genreIds": [
-        "6003",
-        "6008"
-      ],
-      "sellerName": "昀昊 陈",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-08-10T01:19:04Z",
-      "version": "2.5.2",
-      "wrapperType": "software",
-      "currency": "CNY",
-      "description": "PicSlicer iOS 版专注于把旅行照片做成“票根式记忆卡片”，让每一次出发、抵达和城市漫游都可以被收藏成一张有仪式感的旅行档案。\n\n你可以从照片开始制作票根，选择横版或竖版样式，编辑城市名称、拼音、国家/地区、旅行年月、票根编号、备注和主题色。App 会根据照片提取主色，让每张票根更贴合当次旅行的氛围。\n\n主要功能：\n- 旅行票根创作：支持横版票根、竖版照片优先、竖版标题优先等不同版式。\n- 照片裁切与构图：从相册选择旅行照片，按票根比例裁切，保留最适合展示的画面。\n- 主色提取：从照片中提取颜色并应用到票根，让卡片风格和照片自然统一。\n- 城市档案信息：记录城市、国家/地区、旅行年月、票根编号和个人备注。\n- 本地收藏册：保存已制作的旅行票根，在“票根”页浏览自己的城市记忆。\n- PNG 导出与分享：将票根导出为高清 PNG，保存到相册或通过系统分享发送。\n- 桌面 Widget：把已保存的旅行票根放到桌面，随时看到旅途片段。\n- 本地优先：无需注册登录，无广告和分析 SDK；照片处理、票根保存和导出均在设备本地完成。\n\nPicSlicer 不是通用图片裁剪器，而是围绕旅行照片、城市信息和票根视觉建立的原创记忆册体验。",
-      "releaseNotes": "• 新增相机手动对焦与曝光调节，拍摄票根更灵活\n• 为横版票根和桌面小组件优化专属布局，展示更清爽\n• 新增经典胶片风格模板\n• 支持选择图片压缩方式，分享与保存更方便\n• 优化预览与编辑细节，提升整体使用体验",
+      "contentAdvisoryRating": "4+",
       "genres": [
         "旅游",
         "摄影与录像"
       ],
-      "userRatingCount": 8,
+      "artistId": 6784079492,
+      "artistName": "昀昊 陈",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-08-15T23:55:53Z",
+      "sellerName": "昀昊 陈",
+      "releaseDate": "2026-07-01T07:00:00Z",
+      "trackId": 6784084452,
+      "trackName": "PicSlicer",
+      "genreIds": [
+        "6003",
+        "6008"
+      ],
+      "primaryGenreName": "Travel",
+      "primaryGenreId": 6003,
+      "releaseNotes": "• 优化横版票根、照片叠加和登机牌样式的文字比例与版式\n• 改进票根导出效果，让预览与导出的尺寸和圆角更一致\n• 优化不同屏幕尺寸下的票根预览与编辑体验\n• 完善隐私模糊票根的缓存和桌面小组件展示\n• 修复若干显示与导出问题，提升整体稳定性",
+      "version": "2.10.1",
+      "wrapperType": "software",
+      "currency": "CNY",
+      "description": "PicSlicer iOS 版专注于把旅行照片做成“票根式记忆卡片”，让每一次出发、抵达和城市漫游都可以被收藏成一张有仪式感的旅行档案。\n\n你可以从照片开始制作票根，选择横版或竖版样式，编辑城市名称、拼音、国家/地区、旅行年月、票根编号、备注和主题色。App 会根据照片提取主色，让每张票根更贴合当次旅行的氛围。\n\n主要功能：\n- 旅行票根创作：支持横版票根、竖版照片优先、竖版标题优先等不同版式。\n- 照片裁切与构图：从相册选择旅行照片，按票根比例裁切，保留最适合展示的画面。\n- 主色提取：从照片中提取颜色并应用到票根，让卡片风格和照片自然统一。\n- 城市档案信息：记录城市、国家/地区、旅行年月、票根编号和个人备注。\n- 本地收藏册：保存已制作的旅行票根，在“票根”页浏览自己的城市记忆。\n- PNG 导出与分享：将票根导出为高清 PNG，保存到相册或通过系统分享发送。\n- 桌面 Widget：把已保存的旅行票根放到桌面，随时看到旅途片段。\n- 本地优先：无需注册登录，无广告和分析 SDK；照片处理、票根保存和导出均在设备本地完成。\n\nPicSlicer 不是通用图片裁剪器，而是围绕旅行照片、城市信息和票根视觉建立的原创记忆册体验。",
+      "bundleId": "com.cloudhao.TravelTicket",
+      "minimumOsVersion": "17.0",
+      "price": 1,
+      "userRatingCount": 9,
       "country": "CHN"
     }
   ]

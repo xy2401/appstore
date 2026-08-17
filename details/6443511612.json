@@ -5,6 +5,10 @@
       "artistViewUrl": "https://apps.apple.com/fr/developer/tim-bromhead/id1606038500?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/6b/00/c46b0003-b7da-14f7-c269-bb25f141744d/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/6b/00/c46b0003-b7da-14f7-c269-bb25f141744d/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
+      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -149,14 +153,9 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/6b/00/c46b0003-b7da-14f7-c269-bb25f141744d/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
-      "isGameCenterEnabled": false,
-      "currentVersionReleaseDate": "2026-08-08T00:13:24Z",
-      "averageUserRating": 0,
       "trackCensoredName": "PureTrack GPS Tracker",
       "trackViewUrl": "https://apps.apple.com/fr/app/puretrack-gps-tracker/id6443511612?uo=4",
+      "averageUserRating": 0,
       "contentAdvisoryRating": "4+",
       "artistId": 1606038500,
       "artistName": "Tim Bromhead",
@@ -165,25 +164,24 @@
         "Utilitaires"
       ],
       "price": 3.99,
-      "minimumOsVersion": "14.0",
-      "trackId": 6443511612,
-      "trackName": "PureTrack GPS Tracker",
-      "releaseNotes": "- Easily link your trackers to PureTrack map markers, letting you merge data with other data sources easily.\n- Fixed issues linking to PureTrack map markers.\n- Added 'not moving' data rate option, to reduce data sent when not moving.\n- Now only sends data when less than 40m of accuracy (to avoid spikes).\n- Added warning notifications to the start screen if your system settings don't allow tracking.",
+      "bundleId": "com.pear.PureTrack",
       "genreIds": [
         "6010",
         "6002"
       ],
       "releaseDate": "2023-09-30T07:00:00Z",
+      "trackId": 6443511612,
+      "trackName": "PureTrack GPS Tracker",
+      "sellerName": "Tim Bromhead",
       "primaryGenreName": "Navigation",
       "primaryGenreId": 6010,
-      "sellerName": "Tim Bromhead",
       "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-08-08T00:13:24Z",
+      "releaseNotes": "- Easily link your trackers to PureTrack map markers, letting you merge data with other data sources easily.\n- Fixed issues linking to PureTrack map markers.\n- Added 'not moving' data rate option, to reduce data sent when not moving.\n- Now only sends data when less than 40m of accuracy (to avoid spikes).\n- Added warning notifications to the start screen if your system settings don't allow tracking.",
       "version": "2.3",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "PureTrack makes it easy to let others follow you on your adventures, for fun and safety.\n\n- Perfect for hikers, trampers, pilots, adventurers, mountain climbers, cyclists, kayakers, sailors, and anyone going anywhere remote.\n- Track aircraft, paragliders, gliders, vehicles, boats, kayaks, bikes, dogs, cats, people, or anything you like!\n\nKey features:\n- Now supporting satellite data live tracking, direct from your mobile phone!*\n- Easily share your live location with your friends on any computer or device with a simple web link.\n- Add multiple trackers or aircraft that you fly. Switch between them easily. Handy if you're jumping between multiple aircraft, vehicles or sports often.\n- PureTrack works worldwide, anywhere you've got cellular signal.\n- See all your friends on the same map.\n- Merge cellular tracking from this app with SPOT and InReach satellite trackers, ADSB, FLARM and OGN tracking data, for the ultimate coverage anywhere you go adventuring.\n- View tracks of where you've been.\n- Location data is shown on the puretrack.io website.\n- Follow aircraft from around the world.\n\n*Satellite data requires iPhone 14 or later, and must be supported by your cellular carrier.",
-      "averageUserRatingForCurrentVersion": 0,
-      "sellerUrl": "http://puretrack.io",
       "languageCodesISO2A": [
         "EN"
       ],
@@ -191,7 +189,9 @@
       "formattedPrice": "3,99 €",
       "userRatingCountForCurrentVersion": 0,
       "trackContentRating": "4+",
-      "bundleId": "com.pear.PureTrack",
+      "averageUserRatingForCurrentVersion": 0,
+      "sellerUrl": "http://puretrack.io",
+      "minimumOsVersion": "14.0",
       "userRatingCount": 0,
       "country": "FRA"
     }

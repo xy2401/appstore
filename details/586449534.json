@@ -218,6 +218,9 @@
     },
     {
       "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -350,15 +353,6 @@
       ],
       "advisories": [],
       "kind": "software",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/66/f8/66/66f8664f-f1d0-4a53-98bf-d6afd4689632/iOS_AS_iPhone_6.5_Value_1.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5a/88/22/5a8822db-b51e-199e-63a1-c269e9c40c7c/iOS_AS_iPhone_6.5_Value_2.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b9/6e/ea/b96eea43-208c-cfb9-4f2e-bb5814ef56ae/iOS_AS_iPhone_6.5_Value_3.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/71/4e/a3/714ea3d4-a5b4-eb15-bf6a-a707d90defb4/iOS_AS_iPhone_6.5_Value_4.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/03/d8/bf/03d8bf66-40fa-6147-0f5a-14c8b262e491/iOS_AS_iPhone_6.5_Value_5.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/39/16/5c/39165cf2-4fdd-c1db-b732-f8aaae85c630/iOS_AS_iPhone_6.5_Value_6.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/62/98/08/629808ce-65d8-b455-1eef-5ac4720b4ca2/iOS_AS_iPhone_6.5_Value_7.png/320x480bb.jpg"
-      ],
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f0/35/81/f03581c9-98f0-1054-2b93-0ec0cc156f31/AS_iPad_Hero.png/360x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/bb/ae/bcbbae8a-b6c8-0c57-7946-ac1375251d6e/AS_iPad_Value_1.png/360x480bb.jpg",
@@ -370,40 +364,42 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/51/9a/ee/519aeec9-ed24-91a7-4a38-2aa43e090efc/AS_iPad_Value_7.png/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/11/6b/1c116b2a-b64e-e692-23b3-6e1d98b532a6/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/66/f8/66/66f8664f-f1d0-4a53-98bf-d6afd4689632/iOS_AS_iPhone_6.5_Value_1.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5a/88/22/5a8822db-b51e-199e-63a1-c269e9c40c7c/iOS_AS_iPhone_6.5_Value_2.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b9/6e/ea/b96eea43-208c-cfb9-4f2e-bb5814ef56ae/iOS_AS_iPhone_6.5_Value_3.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/71/4e/a3/714ea3d4-a5b4-eb15-bf6a-a707d90defb4/iOS_AS_iPhone_6.5_Value_4.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/03/d8/bf/03d8bf66-40fa-6147-0f5a-14c8b262e491/iOS_AS_iPhone_6.5_Value_5.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/39/16/5c/39165cf2-4fdd-c1db-b732-f8aaae85c630/iOS_AS_iPhone_6.5_Value_6.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/62/98/08/629808ce-65d8-b455-1eef-5ac4720b4ca2/iOS_AS_iPhone_6.5_Value_7.png/320x480bb.jpg"
+      ],
       "artistViewUrl": "https://apps.apple.com/us/developer/microsoft-corporation/id298856275?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/11/6b/1c116b2a-b64e-e692-23b3-6e1d98b532a6/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/60x60bb.jpg",
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/11/6b/1c116b2a-b64e-e692-23b3-6e1d98b532a6/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/11/6b/1c116b2a-b64e-e692-23b3-6e1d98b532a6/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
-      "artistId": 298856275,
-      "artistName": "Microsoft Corporation",
+      "minimumOsVersion": "18.0",
+      "releaseNotes": "• General quality and performance enhancements.",
       "genres": [
         "Productivity"
       ],
-      "price": 0,
+      "artistId": 298856275,
+      "artistName": "Microsoft Corporation",
       "genreIds": [
         "6007"
       ],
-      "primaryGenreName": "Productivity",
-      "primaryGenreId": 6007,
-      "releaseDate": "2014-03-27T19:39:54Z",
-      "sellerName": "Microsoft Corporation",
+      "bundleId": "com.microsoft.Office.Powerpoint",
       "trackId": 586449534,
       "trackName": "Microsoft PowerPoint",
+      "primaryGenreName": "Productivity",
+      "primaryGenreId": 6007,
+      "sellerName": "Microsoft Corporation",
       "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-08-10T04:07:55Z",
-      "releaseNotes": "• General quality and performance enhancements.",
       "version": "2.112.4",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Create, edit, view, present and share presentations with ease, whether you're on your phone or switching between devices.\nQuickly access your recent presentations and slides across all your devices. OneDrive syncing keeps your work up to date, so you can start on your PC and continue editing on mobile without worrying about version conflicts.\nMake an impact with customizable, professional-looking slides. Use templates and design ideas to build polished presentations fast. Present confidently with Presenter Coach, an AI tool that offers real time suggestions to help you improve your pace, reduce filler words and speak naturally. (Microsoft 365 subscription required.)\nCollaborate in real time – share presentations with one tap, see who’s working with you, manage permissions and track comments and changes as your deck evolves.\nGet more done with Copilot – your built in AI assistant for PowerPoint.* \n•  Summarize lengthy presentation decks \n•  Get suggested Q&As to prep for meetings \n•  Research a topic using Copilot Chat\nPresent with Confidence\n•  Create or continue presentations on the go \n•  Seamless OneDrive syncing across devices \n•  Practice with Presenter Coach for personalized feedback\nCustomizable Slideshow Maker\n•  Start from templates or build slides from scratch \n•  Powerful editing tools help your work stand out\nCollaborate on Presentations\n•  Invite others to edit or review with one click sharing \n•  Manage access and see who’s active in your deck \n•  View comments and compare changes over time\nRequirements\n•  1 GB RAM or above\n*Unlock the full Microsoft 365 experience with a qualifying Microsoft 365 subscription for your phone, tablet, PC or Mac.\nMicrosoft 365 subscriptions purchased in app are billed to your App Store account and auto renew unless disabled in account settings. Subscriptions cannot be cancelled during the active period.\nThis app may be provided by Microsoft or a third party publisher and is subject to its own privacy statement and terms. Data may be transferred to or stored in the United States or other regions where Microsoft or its service providers operate.\nEULA: http://aka.ms/eula",
-      "bundleId": "com.microsoft.Office.Powerpoint",
-      "minimumOsVersion": "18.0",
       "sellerUrl": "https://office.microsoft.com/en-us/mobile/",
-      "averageUserRating": 4.72764,
-      "trackCensoredName": "Microsoft PowerPoint",
       "languageCodesISO2A": [
         "AR",
         "CA",
@@ -441,12 +437,16 @@
       ],
       "fileSizeBytes": "459210752",
       "formattedPrice": "Free",
-      "contentAdvisoryRating": "4+",
-      "userRatingCountForCurrentVersion": 568504,
-      "trackViewUrl": "https://apps.apple.com/us/app/microsoft-powerpoint/id586449534?uo=4",
+      "userRatingCountForCurrentVersion": 569792,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.72764,
-      "userRatingCount": 568504,
+      "averageUserRatingForCurrentVersion": 4.7276,
+      "averageUserRating": 4.7276,
+      "trackCensoredName": "Microsoft PowerPoint",
+      "trackViewUrl": "https://apps.apple.com/us/app/microsoft-powerpoint/id586449534?uo=4",
+      "contentAdvisoryRating": "4+",
+      "releaseDate": "2014-03-27T19:39:54Z",
+      "price": 0,
+      "userRatingCount": 569792,
       "country": "USA"
     }
   ]

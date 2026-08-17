@@ -2,10 +2,15 @@
   "resultCount": 3,
   "results": [
     {
-      "artistViewUrl": "https://apps.apple.com/us/developer/edvard-wikhall/id1847830664?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/b6/c8/3bb6c8bf-d830-2c85-2ab1-99a2b451d8e7/plezy-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/b6/c8/3bb6c8bf-d830-2c85-2ab1-99a2b451d8e7/plezy-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
+      "artistViewUrl": "https://apps.apple.com/us/developer/edvard-wikhall/id1847830664?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/1a/32/371a32ac-2221-00c7-7bfb-4db178146e18/plezy-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/1a/32/371a32ac-2221-00c7-7bfb-4db178146e18/plezy-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
+      "advisories": [],
+      "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4c/06/e4/4c06e4f3-2e0e-fa61-0156-4b906595aae2/ios-home.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fd/4a/e4/fd4ae48d-51c6-9af8-fa28-b0bf47f9d801/ios-library.png/320x480bb.jpg",
@@ -19,12 +24,7 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/28/cb/84/28cb84fe-4514-a36b-9c1b-3144f8f5e939/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2026-01-27_at_13.42.48.png/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/b6/c8/3bb6c8bf-d830-2c85-2ab1-99a2b451d8e7/plezy-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [],
-      "kind": "software",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/1a/32/371a32ac-2221-00c7-7bfb-4db178146e18/plezy-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -154,42 +154,43 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "contentAdvisoryRating": "4+",
+      "trackCensoredName": "Plezy: Media Server Client",
+      "trackViewUrl": "https://apps.apple.com/us/app/plezy-media-server-client/id6754315964?uo=4",
+      "releaseNotes": "NEW FEATURES\n- Emby joins Plex and Jellyfin as a first-class backend for onboarding, browsing, search, watch state, and downloads\n- Tracker sign-in dialogs now show a QR code and copyable link\n- MDBList adds watched-history sync, ratings, and scrobbling\n- Library context menus gain a watchlist toggle\n- Appearance gains an option to hide the Explore tab\n- Text subtitles can sit at the bottom of the screen, including beneath widescreen video\n- Playback Buffer now offers Auto, Large, and Extra Large tiers\n\nPLAYBACK\n- Plex transcodes now open at the resume position\n- Transcoded subtitles are delivered correctly again across Plex and Jellyfin\n- Repeated stream-open failures now show an actionable dialog\n- Playback skips count from the position where the jump actually landed\n- Keyboard Enter no longer switches the app into focus navigation\n- Escape exits only fullscreen sessions entered by the player\n- Watch Together accepts clock replies only from the host and stays anchored while the host reloads\n- Marking an item watched now clears its resume position and queued progress\n- Refreshed Discover rows correctly replace stale local watch-state patches\n\nMUSIC\n- Shuffle now includes the head of the queue\n- Gapless track changes report the correct timeline, preventing phantom Plex plays and Last.fm scrobbles\n\nLIVE TV\n- Guide rows follow their displayed order across multiple DVRs\n- An empty favorites-filtered guide explains the state and offers Show All Channels\n\nUI\n- Sheets size to their content instead of filling most of the screen\n- Delete-from-server dialogs identify exactly what will be removed\n- The profile picker keeps its highlight while sorting\n- Navigation labels are shorter on phones, and all 21 translations are complete",
       "averageUserRating": 4.46237,
-      "trackCensoredName": "Plezy for Plex & Jellyfin",
-      "languageCodesISO2A": [
-        "EN"
-      ],
-      "fileSizeBytes": "112906240",
-      "formattedPrice": "$5.99",
-      "userRatingCountForCurrentVersion": 93,
-      "trackViewUrl": "https://apps.apple.com/us/app/plezy-for-plex-jellyfin/id6754315964?uo=4",
-      "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.46237,
-      "minimumOsVersion": "15.5",
+      "contentAdvisoryRating": "4+",
+      "artistId": 1847830664,
+      "artistName": "Edvard Wikhall",
       "genres": [
         "Entertainment"
       ],
-      "artistId": 1847830664,
-      "artistName": "Edvard Wikhall",
-      "sellerName": "Edvard Wikhall",
-      "trackId": 6754315964,
-      "trackName": "Plezy for Plex & Jellyfin",
-      "releaseNotes": "## New features\n\n- All ratings the server sent are shown: IMDb, Rotten Tomatoes and TMDB side by side\n- Local profiles borrow the picture of the connection they were linked to first\n- File Info now works on music tracks and other file-backed items\n- A two-finger tap toggles playback without raising the chrome\n\n## Playback\n\n- A picked subtitle language carries across episodes again, including untagged tracks\n- Subtitles turned off, hidden or cycled stay off in the next episode\n- Jellyfin's subtitle mode of None is no longer overridden by default or forced tracks\n- A server that cannot read the media file now says so, instead of a redacted URL\n- Live TV keeps retrying when a stream 404s\n- Jellyfin streams the negotiated version on items with alternate versions\n- Backspace and Home edit text again in player sheets, such as subtitle search\n- Both player spinners are labelled for screen readers\n- Pinching back to 100% zoom now snaps exactly\n- The two-finger double tap no longer resets zoom; that stays in the settings sheet\n- Plex no longer records a second play for one watch\n- mpv no longer loads its yt-dlp hook, so failed opens are faster\n- A track's lyric stream is no longer listed under \"Embedded Images\"\n\n## Search, Explore & libraries\n\n- Hidden libraries no longer appear in global search, on Plex or Jellyfin\n- Explore lists every library copy of a title, each labelled with its resolution\n- Explore's popular shelves show worldwide titles again, not just the app language\n- \"Delete from server\" on Jellyfin follows the server's own permission, not the admin bit\n- Instant Mix uses a wand icon instead of faders that read as an equalizer\n\n## Performance\n\n- The Discover tab loads once per cold start, not twice: 5.2s to 2.5s on Jellyfin\n- Show detail paints before its on-deck episode is looked up: 18% faster on Jellyfin\n- Opening a detail screen no longer issues duplicate requests\n\n## Startup & storage\n\n- A failed launch names the phase, error and stack, with copy and upload actions\n- A damaged store can be repaired in place, and the screen leads with the repair\n- A store whose bytes are not valid UTF-8 is now repairable too\n- After a repair needing a restart, Retry is withdrawn rather than reopening a stale store\n- A preference whose stored type no longer matches now uses the default instead of failing the boot\n- Startup failures reach the crash reporter and Settings > Logs",
-      "isVppDeviceBasedLicensingEnabled": true,
+      "price": 5.99,
+      "bundleId": "com.edde746.plezy",
+      "releaseDate": "2025-10-30T07:00:00Z",
       "genreIds": [
         "6016"
       ],
       "primaryGenreName": "Entertainment",
       "primaryGenreId": 6016,
-      "releaseDate": "2025-10-30T07:00:00Z",
-      "currentVersionReleaseDate": "2026-08-06T18:20:11Z",
-      "version": "2.12.1",
+      "sellerName": "Edvard Wikhall",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-08-15T05:16:19Z",
+      "version": "2.13.0",
       "wrapperType": "software",
       "currency": "USD",
-      "description": "A powerful Plex and Jellyfin client focused on playback quality and offline access. Stream, download, and watch together — all with wide format support and no subscription required.\n\nPlayback\n\n- Wide codec support including HEVC, AV1, VP9, and more\n- HDR playback for stunning visual quality\n- Advanced subtitle rendering with full ASS/SSA styling support\n- Auto-skip intros and credits so you spend less time waiting\n- Sleep timer for late-night viewing\n- Variable playback speed control\n- Auto-play next episode for uninterrupted binge sessions\n- Resume exactly where you left off across devices\n\nDownloads & Offline\n\n- Download movies, shows, or entire seasons for offline viewing\n- Play your downloads without an internet connection\n- Watch progress syncs automatically when you're back online\n\nWatch Together\n\n- Create or join synchronized viewing sessions with friends\n- Watch the same content in perfect sync, no matter where you are\n\nBrowsing & Discovery\n\n- Browse your libraries with rich metadata and artwork\n- Explore collections, playlists, and personalized recommendations\n- Continue Watching keeps your in-progress content front and center\n- Search across all your servers and media in one place\n- Navigate easily through seasons, episodes, and extras\n\nProfiles & Servers\n\n- Multiple user profiles with optional PIN protection\n- Connect to multiple Plex and Jellyfin servers simultaneously\n- Smart server discovery with automatic connection management\n\nCustomization\n\n- Dark and light themes to match your preference\n- Customizable subtitle styling and positioning\n- Configurable playback controls and gestures\n- Adjustable grid density for browsing your library your way",
-      "bundleId": "com.edde746.plezy",
-      "price": 5.99,
+      "description": "Plezy is a modern client for Plex, Jellyfin, and Emby, built for high-quality playback, effortless discovery, and offline access. Connect multiple servers at once and enjoy your media in one clean, native app—no subscription required.\n\nBROWSE & DISCOVER\n- Browse libraries, collections, playlists, folders, extras, and personalized recommendations\n- Search across every connected Plex, Jellyfin, and Emby server\n- Explore trending, popular, watchlist, and recommendation rows from Plex Discover, Trakt, MyAnimeList, AniList, Simkl, and Seerr\n- Match catalog titles back to your own libraries and request movies or shows through Seerr\n- See resolution, HDR, Dolby Vision, and audio-format badges at a glance\n\nPLAYBACK\n- Wide codec support including HEVC, AV1, VP9, and more\n- HDR playback, direct play, and configurable transcode quality\n- Switch between media versions with detailed file and stream information\n- Full ASS/SSA subtitles with styling controls and online subtitle search\n- Auto-play the next episode with skip intro and skip credits\n- Chapter navigation, thumbnail scrubbing, playback speed, audio sync, sleep timer, and video zoom\n- Picture-in-Picture, loudness normalization, and stereo downmix with center-channel boost\n- Resume progress and remembered audio/subtitle choices\n\nMUSIC\n- Browse artists, albums, and tracks with rich artwork\n- Gapless playback with a reorderable queue, Play Next, and Add to Queue\n- Synced lyrics, a persistent mini-player, and sleep timer\n- Background playback with lock-screen and media controls\n- Offline albums and tracks, plus selectable streaming quality\n\nLIVE TV & DVR\n- Browse and tune live channels with favorites and a full program guide\n- See what's on, browse show schedules, and manage DVR recording rules\n- Use Live TV across multiple supported servers\n\nDOWNLOADS & OFFLINE\n- Download movies, shows, albums, and tracks\n- Pause or resume the background queue\n- Create automatic download rules, including optional show specials\n- Browse offline and sync watch state when you reconnect\n\nPROFILES & INTEGRATIONS\n- Use multiple profiles with per-profile settings, downloads, and watch state\n- Switch Plex Home users with optional PIN protection\n- Discover Jellyfin and Emby servers locally and use Quick Connect\n- Sync watchlists, ratings, watched state, and scrobbles with connected services\n- Watch together with synchronized play, pause, and seeking\n- Control desktop and TV devices with Plezy Remote\n- Available in English plus 21 translations\n\nSome features require a supported server, media format, or connected service.",
+      "minimumOsVersion": "15.5",
+      "sellerUrl": "https://plezy.app",
+      "averageUserRatingForCurrentVersion": 4.46237,
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "fileSizeBytes": "114454528",
+      "formattedPrice": "$5.99",
+      "userRatingCountForCurrentVersion": 93,
+      "trackContentRating": "4+",
+      "trackId": 6754315964,
+      "trackName": "Plezy: Media Server Client",
       "userRatingCount": 93,
       "country": "USA"
     },
@@ -386,15 +387,6 @@
       "country": "FRA"
     },
     {
-      "features": [
-        "iosUniversal"
-      ],
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4c/06/e4/4c06e4f3-2e0e-fa61-0156-4b906595aae2/ios-home.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fd/4a/e4/fd4ae48d-51c6-9af8-fa28-b0bf47f9d801/ios-library.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/23/9b/08/239b085a-6a35-7df5-f281-0a9e0a7faf9f/ios-media-card.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/68/7c/5c/687c5cb0-060c-e2a9-f121-6f70d0d4746f/ios-season.png/320x480bb.jpg"
-      ],
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/77/1f/ea/771fea42-aa28-4dca-f4ac-24d08b298318/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2026-01-27_at_13.45.29.png/360x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7d/2d/37/7d2d379e-b28a-42de-fbd8-7d5e6998f322/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2026-01-27_at_13.42.33.png/360x480bb.jpg",
@@ -402,11 +394,18 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/28/cb/84/28cb84fe-4514-a36b-9c1b-3144f8f5e939/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2026-01-27_at_13.42.48.png/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/b6/c8/3bb6c8bf-d830-2c85-2ab1-99a2b451d8e7/plezy-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/b6/c8/3bb6c8bf-d830-2c85-2ab1-99a2b451d8e7/plezy-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/b6/c8/3bb6c8bf-d830-2c85-2ab1-99a2b451d8e7/plezy-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/1a/32/371a32ac-2221-00c7-7bfb-4db178146e18/plezy-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/1a/32/371a32ac-2221-00c7-7bfb-4db178146e18/plezy-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/1a/32/371a32ac-2221-00c7-7bfb-4db178146e18/plezy-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
       "artistViewUrl": "https://apps.apple.com/gb/developer/edvard-wikhall/id1847830664?uo=4",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4c/06/e4/4c06e4f3-2e0e-fa61-0156-4b906595aae2/ios-home.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fd/4a/e4/fd4ae48d-51c6-9af8-fa28-b0bf47f9d801/ios-library.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/23/9b/08/239b085a-6a35-7df5-f281-0a9e0a7faf9f/ios-media-card.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/68/7c/5c/687c5cb0-060c-e2a9-f121-6f70d0d4746f/ios-season.png/320x480bb.jpg"
+      ],
       "isGameCenterEnabled": false,
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -536,44 +535,47 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "advisories": [],
       "kind": "software",
-      "averageUserRatingForCurrentVersion": 4.88235,
-      "trackCensoredName": "Plezy for Plex & Jellyfin",
+      "features": [
+        "iosUniversal"
+      ],
+      "averageUserRating": 4.88235,
       "languageCodesISO2A": [
         "EN"
       ],
-      "fileSizeBytes": "112906240",
+      "sellerUrl": "https://plezy.app",
+      "trackCensoredName": "Plezy: Media Server Client",
+      "fileSizeBytes": "114454528",
       "formattedPrice": "£5.99",
       "contentAdvisoryRating": "4+",
       "userRatingCountForCurrentVersion": 17,
-      "trackViewUrl": "https://apps.apple.com/gb/app/plezy-for-plex-jellyfin/id6754315964?uo=4",
+      "trackViewUrl": "https://apps.apple.com/gb/app/plezy-media-server-client/id6754315964?uo=4",
       "trackContentRating": "4+",
-      "averageUserRating": 4.88235,
-      "artistName": "Edvard Wikhall",
+      "averageUserRatingForCurrentVersion": 4.88235,
       "artistId": 1847830664,
+      "artistName": "Edvard Wikhall",
       "genres": [
         "Entertainment"
       ],
       "price": 5.99,
-      "primaryGenreName": "Entertainment",
-      "primaryGenreId": 6016,
-      "trackId": 6754315964,
-      "trackName": "Plezy for Plex & Jellyfin",
       "bundleId": "com.edde746.plezy",
-      "releaseDate": "2025-10-30T07:00:00Z",
-      "sellerName": "Edvard Wikhall",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-08-06T18:20:11Z",
-      "releaseNotes": "## New features\n\n- All ratings the server sent are shown: IMDb, Rotten Tomatoes and TMDB side by side\n- Local profiles borrow the picture of the connection they were linked to first\n- File Info now works on music tracks and other file-backed items\n- A two-finger tap toggles playback without raising the chrome\n\n## Playback\n\n- A picked subtitle language carries across episodes again, including untagged tracks\n- Subtitles turned off, hidden or cycled stay off in the next episode\n- Jellyfin's subtitle mode of None is no longer overridden by default or forced tracks\n- A server that cannot read the media file now says so, instead of a redacted URL\n- Live TV keeps retrying when a stream 404s\n- Jellyfin streams the negotiated version on items with alternate versions\n- Backspace and Home edit text again in player sheets, such as subtitle search\n- Both player spinners are labelled for screen readers\n- Pinching back to 100% zoom now snaps exactly\n- The two-finger double tap no longer resets zoom; that stays in the settings sheet\n- Plex no longer records a second play for one watch\n- mpv no longer loads its yt-dlp hook, so failed opens are faster\n- A track's lyric stream is no longer listed under \"Embedded Images\"\n\n## Search, Explore & libraries\n\n- Hidden libraries no longer appear in global search, on Plex or Jellyfin\n- Explore lists every library copy of a title, each labelled with its resolution\n- Explore's popular shelves show worldwide titles again, not just the app language\n- \"Delete from server\" on Jellyfin follows the server's own permission, not the admin bit\n- Instant Mix uses a wand icon instead of faders that read as an equalizer\n\n## Performance\n\n- The Discover tab loads once per cold start, not twice: 5.2s to 2.5s on Jellyfin\n- Show detail paints before its on-deck episode is looked up: 18% faster on Jellyfin\n- Opening a detail screen no longer issues duplicate requests\n\n## Startup & storage\n\n- A failed launch names the phase, error and stack, with copy and upload actions\n- A damaged store can be repaired in place, and the screen leads with the repair\n- A store whose bytes are not valid UTF-8 is now repairable too\n- After a repair needing a restart, Retry is withdrawn rather than reopening a stale store\n- A preference whose stored type no longer matches now uses the default instead of failing the boot\n- Startup failures reach the crash reporter and Settings > Logs",
-      "version": "2.12.1",
-      "wrapperType": "software",
-      "currency": "GBP",
-      "description": "A powerful Plex and Jellyfin client focused on playback quality and offline access. Stream, download, and watch together — all with wide format support and no subscription required.\n\nPlayback\n\n- Wide codec support including HEVC, AV1, VP9, and more\n- HDR playback for stunning visual quality\n- Advanced subtitle rendering with full ASS/SSA styling support\n- Auto-skip intros and credits so you spend less time waiting\n- Sleep timer for late-night viewing\n- Variable playback speed control\n- Auto-play next episode for uninterrupted binge sessions\n- Resume exactly where you left off across devices\n\nDownloads & Offline\n\n- Download movies, shows, or entire seasons for offline viewing\n- Play your downloads without an internet connection\n- Watch progress syncs automatically when you're back online\n\nWatch Together\n\n- Create or join synchronized viewing sessions with friends\n- Watch the same content in perfect sync, no matter where you are\n\nBrowsing & Discovery\n\n- Browse your libraries with rich metadata and artwork\n- Explore collections, playlists, and personalized recommendations\n- Continue Watching keeps your in-progress content front and center\n- Search across all your servers and media in one place\n- Navigate easily through seasons, episodes, and extras\n\nProfiles & Servers\n\n- Multiple user profiles with optional PIN protection\n- Connect to multiple Plex and Jellyfin servers simultaneously\n- Smart server discovery with automatic connection management\n\nCustomization\n\n- Dark and light themes to match your preference\n- Customizable subtitle styling and positioning\n- Configurable playback controls and gestures\n- Adjustable grid density for browsing your library your way",
-      "minimumOsVersion": "15.5",
       "genreIds": [
         "6016"
       ],
+      "sellerName": "Edvard Wikhall",
+      "releaseDate": "2025-10-30T07:00:00Z",
+      "primaryGenreName": "Entertainment",
+      "primaryGenreId": 6016,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "trackId": 6754315964,
+      "trackName": "Plezy: Media Server Client",
+      "currentVersionReleaseDate": "2026-08-15T05:16:19Z",
+      "releaseNotes": "NEW FEATURES\n- Emby joins Plex and Jellyfin as a first-class backend for onboarding, browsing, search, watch state, and downloads\n- Tracker sign-in dialogs now show a QR code and copyable link\n- MDBList adds watched-history sync, ratings, and scrobbling\n- Library context menus gain a watchlist toggle\n- Appearance gains an option to hide the Explore tab\n- Text subtitles can sit at the bottom of the screen, including beneath widescreen video\n- Playback Buffer now offers Auto, Large, and Extra Large tiers\n\nPLAYBACK\n- Plex transcodes now open at the resume position\n- Transcoded subtitles are delivered correctly again across Plex and Jellyfin\n- Repeated stream-open failures now show an actionable dialog\n- Playback skips count from the position where the jump actually landed\n- Keyboard Enter no longer switches the app into focus navigation\n- Escape exits only fullscreen sessions entered by the player\n- Watch Together accepts clock replies only from the host and stays anchored while the host reloads\n- Marking an item watched now clears its resume position and queued progress\n- Refreshed Discover rows correctly replace stale local watch-state patches\n\nMUSIC\n- Shuffle now includes the head of the queue\n- Gapless track changes report the correct timeline, preventing phantom Plex plays and Last.fm scrobbles\n\nLIVE TV\n- Guide rows follow their displayed order across multiple DVRs\n- An empty favorites-filtered guide explains the state and offers Show All Channels\n\nUI\n- Sheets size to their content instead of filling most of the screen\n- Delete-from-server dialogs identify exactly what will be removed\n- The profile picker keeps its highlight while sorting\n- Navigation labels are shorter on phones, and all 21 translations are complete",
+      "version": "2.13.0",
+      "wrapperType": "software",
+      "currency": "GBP",
+      "description": "Plezy is a modern client for Plex, Jellyfin, and Emby, built for high-quality playback, effortless discovery, and offline access. Connect multiple servers at once and enjoy your media in one clean, native app—no subscription required.\n\nBROWSE & DISCOVER\n- Browse libraries, collections, playlists, folders, extras, and personalized recommendations\n- Search across every connected Plex, Jellyfin, and Emby server\n- Explore trending, popular, watchlist, and recommendation rows from Plex Discover, Trakt, MyAnimeList, AniList, Simkl, and Seerr\n- Match catalog titles back to your own libraries and request movies or shows through Seerr\n- See resolution, HDR, Dolby Vision, and audio-format badges at a glance\n\nPLAYBACK\n- Wide codec support including HEVC, AV1, VP9, and more\n- HDR playback, direct play, and configurable transcode quality\n- Switch between media versions with detailed file and stream information\n- Full ASS/SSA subtitles with styling controls and online subtitle search\n- Auto-play the next episode with skip intro and skip credits\n- Chapter navigation, thumbnail scrubbing, playback speed, audio sync, sleep timer, and video zoom\n- Picture-in-Picture, loudness normalization, and stereo downmix with center-channel boost\n- Resume progress and remembered audio/subtitle choices\n\nMUSIC\n- Browse artists, albums, and tracks with rich artwork\n- Gapless playback with a reorderable queue, Play Next, and Add to Queue\n- Synced lyrics, a persistent mini-player, and sleep timer\n- Background playback with lock-screen and media controls\n- Offline albums and tracks, plus selectable streaming quality\n\nLIVE TV & DVR\n- Browse and tune live channels with favorites and a full program guide\n- See what's on, browse show schedules, and manage DVR recording rules\n- Use Live TV across multiple supported servers\n\nDOWNLOADS & OFFLINE\n- Download movies, shows, albums, and tracks\n- Pause or resume the background queue\n- Create automatic download rules, including optional show specials\n- Browse offline and sync watch state when you reconnect\n\nPROFILES & INTEGRATIONS\n- Use multiple profiles with per-profile settings, downloads, and watch state\n- Switch Plex Home users with optional PIN protection\n- Discover Jellyfin and Emby servers locally and use Quick Connect\n- Sync watchlists, ratings, watched state, and scrobbles with connected services\n- Watch together with synchronized play, pause, and seeking\n- Control desktop and TV devices with Plezy Remote\n- Available in English plus 21 translations\n\nSome features require a supported server, media format, or connected service.",
+      "minimumOsVersion": "15.5",
       "userRatingCount": 17,
       "country": "GBR"
     }

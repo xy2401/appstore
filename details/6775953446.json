@@ -193,14 +193,6 @@
       "country": "FRA"
     },
     {
-      "features": [
-        "iosUniversal"
-      ],
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ff/db/41/ffdb41e0-4fe8-33ff-3cd2-957369740154/appstore-screenshot-1.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0f/e7/cf/0fe7cf62-fa9e-383c-d29c-da1ad903f1d1/appstore-screenshot-2.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/41/59/f0/4159f0da-b316-6309-37b9-31cbe9f6c2f4/appstore-screenshot-3.png/320x480bb.jpg"
-      ],
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2a/f9/ea/2af9ea78-d4c1-8c33-c558-05b8f9f43891/appstore-screenshot-1__U00281_U0029.png/360x480bb.jpg"
       ],
@@ -209,7 +201,13 @@
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/4c/e5/254ce587-99e3-de9e-e509-d6d704284414/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/4c/e5/254ce587-99e3-de9e-e509-d6d704284414/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
       "artistViewUrl": "https://apps.apple.com/gb/developer/christopher-philip-smith/id6775953448?uo=4",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ff/db/41/ffdb41e0-4fe8-33ff-3cd2-957369740154/appstore-screenshot-1.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0f/e7/cf/0fe7cf62-fa9e-383c-d29c-da1ad903f1d1/appstore-screenshot-2.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/41/59/f0/4159f0da-b316-6309-37b9-31cbe9f6c2f4/appstore-screenshot-3.png/320x480bb.jpg"
+      ],
       "isGameCenterEnabled": false,
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -339,36 +337,42 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "advisories": [],
       "kind": "software",
-      "averageUserRatingForCurrentVersion": 0,
-      "trackCensoredName": "Break Beats",
+      "features": [
+        "iosUniversal"
+      ],
+      "averageUserRating": 0,
       "languageCodesISO2A": [
         "EN"
       ],
+      "sellerUrl": "https://cpurecords.net",
+      "trackCensoredName": "Break Beats",
       "fileSizeBytes": "17343488",
       "formattedPrice": "£2.99",
       "contentAdvisoryRating": "4+",
       "userRatingCountForCurrentVersion": 0,
       "trackViewUrl": "https://apps.apple.com/gb/app/break-beats/id6775953446?uo=4",
       "trackContentRating": "4+",
-      "sellerUrl": "https://cpurecords.net",
-      "averageUserRating": 0,
-      "artistName": "CHRISTOPHER PHILIP SMITH",
+      "averageUserRatingForCurrentVersion": 0,
       "artistId": 6775953448,
+      "artistName": "CHRISTOPHER PHILIP SMITH",
       "genres": [
         "Music",
         "Entertainment"
       ],
       "price": 2.99,
+      "bundleId": "CPU.BreakBeats",
+      "genreIds": [
+        "6011",
+        "6016"
+      ],
+      "sellerName": "CHRISTOPHER PHILIP SMITH",
+      "releaseDate": "2026-06-16T07:00:00Z",
       "primaryGenreName": "Music",
       "primaryGenreId": 6011,
+      "isVppDeviceBasedLicensingEnabled": true,
       "trackId": 6775953446,
       "trackName": "Break Beats",
-      "bundleId": "CPU.BreakBeats",
-      "releaseDate": "2026-06-16T07:00:00Z",
-      "sellerName": "CHRISTOPHER PHILIP SMITH",
-      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-07-08T22:08:21Z",
       "releaseNotes": "The Break Beats icon now features the CPU Records catalog number shared with the CPU Scratch Tool 7\" - the vinyl that Break Beats was built to accompany.",
       "version": "1.2.1",
@@ -376,10 +380,6 @@
       "currency": "GBP",
       "description": "Break Beats is a boundary-locked loop player built for portablists and turntablists.\nConnect your iPhone to a portable deck and you have a practice rig anywhere. Plug into a Numark PT01 Scratch, Reloop Spin or any portable turntable or mixer with an Aux input / Bluetooth and start working your scratch routines over your favourite breaks.\n\nTHIRTY-TWO LOOP SLOTS\n\nEight banks of four pads give you thirty-two assignable loop slots. Each bank is independent - load different breaks, different styles, different tempos. Swipe between banks and switch instantly without interrupting playback. Clear any pad back to empty whenever you want.\n\nBOUNDARY-LOCKED SWITCHING\n\nTap a new pad while a loop is playing and the switch happens at the exact end of the current loop - never mid-bar. The incoming pad blinks while it waits. Keep scratching, the app handles the switch.\n\nPITCH CONTROL\n\nThe pitch fader adjusts playback speed and pitch together, just like a turntable. The standard range is ±15%, and long-pressing PITCH unlocks ULTRA mode for ±50%. The BPM counter updates in real time so you can match any record on your deck. Tap to reset to centre. Long-press the BPM to enable Global BPM to lock every loop to one tempo automatically.\n\nRESONANT FILTERS\n\nIndependent low-pass and high-pass filters let you sweep frequencies out and back in for dramatic transitions between combos. Long-press to switch between LPF and HPF; tap to reset.\n\nREVERSE & RECORD\n\nFlip any loop into boundary-locked reverse playback and capture your sessions with the built-in recorder straight to a WAV in your Files app.\n\nIMPORT YOUR OWN BREAKS\n\nImport any WAV file from your iPhone, iCloud Drive or Dropbox. Prepare your loops in your favourite DAW, note the BPM and append it to the file name when you export - preferably at 48000Hz 24-bit for the cleanest audio. The app reads the BPM from the filename automatically.",
       "minimumOsVersion": "17.6",
-      "genreIds": [
-        "6011",
-        "6016"
-      ],
       "userRatingCount": 0,
       "country": "GBR"
     }

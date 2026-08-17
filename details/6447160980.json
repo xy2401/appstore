@@ -243,6 +243,10 @@
       "userRatingCount": 962557
     },
     {
+      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -372,18 +376,18 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "isGameCenterEnabled": false,
       "advisories": [
-        "まれ／軽度な性的表現またはヌード",
         "まれ／軽度なアニメまたはファンタジーバイオレンス",
-        "まれ／軽度なコンテスト",
-        "まれ／軽度なアルコール、タバコ、ドラッグの使用または言及",
-        "まれ／軽度なホラーまたは恐怖に関するテーマ",
         "まれ／軽度な過激な言葉遣いまたは下品なユーモア",
+        "まれ／軽度な性的表現またはヌード",
+        "まれ／軽度なコンテスト",
+        "まれ／軽度な成人向けまたはわいせつなテーマ",
+        "まれ／軽度なホラーまたは恐怖に関するテーマ",
         "まれ／軽度なバイオレンス",
-        "まれ／軽度な成人向けまたはわいせつなテーマ"
+        "まれ／軽度なアルコール、タバコ、ドラッグの使用または言及"
       ],
       "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/jp/developer/tiktok-ltd/id1322881000?uo=4",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/8c/3a/3d/8c3a3d81-fe53-4ce8-cc06-b5c04d7a46c3/1ff60811-f2dd-4f1c-a4c1-6bc72ea50d4b_creative_image_0c3c1726925be57dcb85961acfcce37c_origin.jpeg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/19/fb/24/19fb247a-0fa9-96cf-0d56-ee35d8671b06/5a9f30d6-837d-473d-993e-b5c09579f27e_creative_image_35aca7403307cf4d2763ea967d58a5d5_origin.jpeg/392x696bb.jpg",
@@ -397,37 +401,33 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/35/1e/e6/351ee6c2-fd9c-ef70-b24e-b52624f6c949/cfa109b3-edc8-493f-b688-9ca1473adf32_pad4.png/576x768bb.png"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/e1/a7/9fe1a726-8b3d-a601-986c-6a6d31c6126c/AppIcon_TikTok-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
-      "artistViewUrl": "https://apps.apple.com/jp/developer/tiktok-ltd/id1322881000?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/e1/a7/9fe1a726-8b3d-a601-986c-6a6d31c6126c/AppIcon_TikTok-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/e1/a7/9fe1a726-8b3d-a601-986c-6a6d31c6126c/AppIcon_TikTok-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
-      "currentVersionReleaseDate": "2026-08-04T01:18:36Z",
-      "bundleId": "com.ss.iphone.ugc.tiktok.lite",
-      "genres": [
-        "エンターテインメント"
-      ],
-      "price": 0,
-      "artistId": 1322881000,
-      "artistName": "TikTok Ltd.",
-      "sellerName": "TIKTOK PTE. LTD.",
-      "trackId": 6447160980,
-      "trackName": "TikTok Lite",
-      "releaseNotes": "動画に楽曲を簡単に追加できます。",
-      "primaryGenreName": "Entertainment",
-      "primaryGenreId": 6016,
-      "isVppDeviceBasedLicensingEnabled": true,
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/0a/c0/580ac023-9732-397e-4f31-0396b6196a21/AppIcon_TikTok-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/0a/c0/580ac023-9732-397e-4f31-0396b6196a21/AppIcon_TikTok-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/0a/c0/580ac023-9732-397e-4f31-0396b6196a21/AppIcon_TikTok-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
       "genreIds": [
         "6016"
       ],
-      "version": "46.3.0",
+      "artistId": 1322881000,
+      "artistName": "TikTok Ltd.",
+      "genres": [
+        "エンターテインメント"
+      ],
+      "isVppDeviceBasedLicensingEnabled": true,
+      "bundleId": "com.ss.iphone.ugc.tiktok.lite",
+      "primaryGenreName": "Entertainment",
+      "primaryGenreId": 6016,
+      "trackId": 6447160980,
+      "trackName": "TikTok Lite",
+      "currentVersionReleaseDate": "2026-08-10T13:37:13Z",
+      "releaseNotes": "コメント欄で友達を簡単に探したり、タグ付けしたりできます。",
+      "version": "46.4.0",
       "wrapperType": "software",
       "currency": "JPY",
       "description": "TikTokLiteには、面白い動画やためになる動画、グルメやペット、音楽、ゲーム、スポーツなどなど、多様なジャンルの動画がたくさん。あなたの好きな動画がきっと見つかります。\n\nまた、従来に比べて少ないデータ容量でより早く、より快適な動画体験をお楽しみいただくことができます。\n\nぜひTikTokLiteの世界を楽しみながら、充実した毎日を送ってください！",
-      "averageUserRatingForCurrentVersion": 4.80305,
-      "sellerUrl": "http://www.tiktok.com",
+      "minimumOsVersion": "14.0",
+      "trackCensoredName": "TikTok Lite",
+      "trackViewUrl": "https://apps.apple.com/jp/app/tiktok-lite/id6447160980?uo=4",
+      "averageUserRating": 4.80252,
       "languageCodesISO2A": [
         "AR",
         "BN",
@@ -471,17 +471,17 @@
         "UZ",
         "VI"
       ],
-      "fileSizeBytes": "938208256",
+      "fileSizeBytes": "958226432",
       "formattedPrice": "無料",
-      "userRatingCountForCurrentVersion": 973105,
+      "userRatingCountForCurrentVersion": 976408,
       "trackContentRating": "12+",
-      "minimumOsVersion": "14.0",
-      "trackViewUrl": "https://apps.apple.com/jp/app/tiktok-lite/id6447160980?uo=4",
       "contentAdvisoryRating": "12+",
-      "trackCensoredName": "TikTok Lite",
-      "averageUserRating": 4.80305,
+      "averageUserRatingForCurrentVersion": 4.80252,
+      "sellerUrl": "http://www.tiktok.com",
       "releaseDate": "2023-06-09T07:00:00Z",
-      "userRatingCount": 973105,
+      "sellerName": "TIKTOK PTE. LTD.",
+      "price": 0,
+      "userRatingCount": 976408,
       "country": "JPN"
     }
   ]

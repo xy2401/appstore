@@ -189,13 +189,31 @@
       "userRatingCount": 35429
     },
     {
+      "features": [
+        "iosUniversal"
+      ],
       "isGameCenterEnabled": false,
       "artistViewUrl": "https://apps.apple.com/us/developer/ryan-boyling/id1313437414?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/54/b5/f054b501-9f9e-83c2-302b-a693c466c1a2/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/54/b5/f054b501-9f9e-83c2-302b-a693c466c1a2/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
-      "features": [
-        "iosUniversal"
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/35/f5/9035f561-98f8-5090-1663-60f751702528/pr_source.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/b2/6c/d3b26c23-ae54-b54e-a56a-23df27efadb7/pr_source.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/b9/44/5eb94410-a243-5b20-d05b-6d13d5d6c788/pr_source.png/392x696bb.png"
       ],
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/15/8e/e5/158ee512-592d-4b30-44c9-fbc5eb4b9535/Intro__U2013_1.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/49/92/1e/49921e05-0f9e-99bc-96e1-c90d50d39656/Intro__U2013_2.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/90/24/bf/9024bf84-569a-a89b-9dcf-167b90eeeb24/Reason-analysis__U2013_1.png/360x480bb.jpg"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/54/b5/f054b501-9f9e-83c2-302b-a693c466c1a2/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "advisories": [
+        "Infrequent/Mild Profanity or Crude Humor",
+        "Infrequent/Mild Mature/Suggestive Themes",
+        "Frequent/Intense Horror/Fear Themes"
+      ],
+      "kind": "software",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -325,54 +343,15 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "advisories": [
-        "Infrequent/Mild Profanity or Crude Humor",
-        "Infrequent/Mild Mature/Suggestive Themes",
-        "Frequent/Intense Horror/Fear Themes"
-      ],
-      "kind": "software",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/35/f5/9035f561-98f8-5090-1663-60f751702528/pr_source.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/b2/6c/d3b26c23-ae54-b54e-a56a-23df27efadb7/pr_source.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/b9/44/5eb94410-a243-5b20-d05b-6d13d5d6c788/pr_source.png/392x696bb.png"
-      ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/15/8e/e5/158ee512-592d-4b30-44c9-fbc5eb4b9535/Intro__U2013_1.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/49/92/1e/49921e05-0f9e-99bc-96e1-c90d50d39656/Intro__U2013_2.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/90/24/bf/9024bf84-569a-a89b-9dcf-167b90eeeb24/Reason-analysis__U2013_1.png/360x480bb.jpg"
-      ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/54/b5/f054b501-9f9e-83c2-302b-a693c466c1a2/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "bundleId": "com.ios.rbcdown.Countdown",
+      "releaseNotes": "DEATH REASON\nUncover the reason for your death in this chilling new feature. Explore various dark and mysterious causes behind your inevitable fate, adding a layer of depth and narrative to your Countdown experience. What will your fate be? Discover the truth behind your demise with each new countdown.\n\nNOTIFICATIONS\nOzhin may now tease you with notifications, randomly changing the course of your fate. The tension is never predictable. At any moment, Ozhin could alter your countdown, adding new twists to your fate or delivering unnerving clues about what’s to come. Stay alert, as Ozhin is always watching and can change the outcome when you least expect it.",
+      "averageUserRating": 3.04112,
       "minimumOsVersion": "15.0",
-      "averageUserRating": 3.0415,
       "trackCensoredName": "Countdown App",
       "trackViewUrl": "https://apps.apple.com/us/app/countdown-app/id1481006495?uo=4",
       "contentAdvisoryRating": "12+",
-      "artistId": 1313437414,
-      "artistName": "Ryan Boyling",
-      "genres": [
-        "Entertainment",
-        "Lifestyle"
-      ],
-      "price": 0,
-      "releaseNotes": "DEATH REASON\nUncover the reason for your death in this chilling new feature. Explore various dark and mysterious causes behind your inevitable fate, adding a layer of depth and narrative to your Countdown experience. What will your fate be? Discover the truth behind your demise with each new countdown.\n\nNOTIFICATIONS\nOzhin may now tease you with notifications, randomly changing the course of your fate. The tension is never predictable. At any moment, Ozhin could alter your countdown, adding new twists to your fate or delivering unnerving clues about what’s to come. Stay alert, as Ozhin is always watching and can change the outcome when you least expect it.",
-      "releaseDate": "2019-09-26T07:00:00Z",
-      "genreIds": [
-        "6016",
-        "6012"
-      ],
-      "trackId": 1481006495,
-      "trackName": "Countdown App",
-      "primaryGenreName": "Entertainment",
-      "primaryGenreId": 6016,
-      "sellerName": "Ryan Boyling",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-03-06T18:17:47Z",
-      "version": "1.9",
-      "wrapperType": "software",
-      "currency": "USD",
-      "description": "Your countdown awaits. Inspired by the horror movie Countdown, this app will reveal exactly how much time you have left.\n\nBy receiving, opening the file package, and/or using Countdown('Software') containing this software, you agree that this End User License Agreement(EULA) is a legally binding and valid contract and agree to be bound by it. You agree to abide by the intellectual property laws and all of the terms and conditions of this Agreement. User shall accept the terms of his or her fate. Any attempt to use information derived from Countdown to alter the user’s fate will result in a breach of this agreement.\n\nTag us in your reactions using #CountdownApp on TikTok.\n\n--- --- --- ---\n\nWarning: This app contains vibrations, sound effects, and uses your device’s torch for added intensity. It may not be suitable for individuals with epilepsy.\n\nDisclaimer: This app is for entertainment purposes. Results should not be taken seriously.\n\n--- --- --- ---",
-      "averageUserRatingForCurrentVersion": 3.0415,
+      "averageUserRatingForCurrentVersion": 3.04112,
+      "sellerUrl": "https://boyling.co",
       "languageCodesISO2A": [
         "EN",
         "IT",
@@ -382,11 +361,32 @@
       ],
       "fileSizeBytes": "193717248",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 35954,
+      "userRatingCountForCurrentVersion": 35971,
       "trackContentRating": "12+",
-      "sellerUrl": "https://boyling.co",
-      "bundleId": "com.ios.rbcdown.Countdown",
-      "userRatingCount": 35954,
+      "artistId": 1313437414,
+      "artistName": "Ryan Boyling",
+      "genres": [
+        "Entertainment",
+        "Lifestyle"
+      ],
+      "price": 0,
+      "releaseDate": "2019-09-26T07:00:00Z",
+      "primaryGenreName": "Entertainment",
+      "primaryGenreId": 6016,
+      "sellerName": "Ryan Boyling",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "genreIds": [
+        "6016",
+        "6012"
+      ],
+      "currentVersionReleaseDate": "2026-03-06T18:17:47Z",
+      "version": "1.9",
+      "wrapperType": "software",
+      "currency": "USD",
+      "description": "Your countdown awaits. Inspired by the horror movie Countdown, this app will reveal exactly how much time you have left.\n\nBy receiving, opening the file package, and/or using Countdown('Software') containing this software, you agree that this End User License Agreement(EULA) is a legally binding and valid contract and agree to be bound by it. You agree to abide by the intellectual property laws and all of the terms and conditions of this Agreement. User shall accept the terms of his or her fate. Any attempt to use information derived from Countdown to alter the user’s fate will result in a breach of this agreement.\n\nTag us in your reactions using #CountdownApp on TikTok.\n\n--- --- --- ---\n\nWarning: This app contains vibrations, sound effects, and uses your device’s torch for added intensity. It may not be suitable for individuals with epilepsy.\n\nDisclaimer: This app is for entertainment purposes. Results should not be taken seriously.\n\n--- --- --- ---",
+      "trackId": 1481006495,
+      "trackName": "Countdown App",
+      "userRatingCount": 35971,
       "country": "USA"
     }
   ]

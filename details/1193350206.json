@@ -191,6 +191,9 @@
     },
     {
       "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -321,19 +324,12 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
       "advisories": [
-        "Infrequent/Mild Horror/Fear Themes",
-        "Infrequent/Mild Cartoon or Fantasy Violence",
         "Infrequent/Mild Profanity or Crude Humor",
+        "Infrequent/Mild Cartoon or Fantasy Violence",
+        "Infrequent/Mild Horror/Fear Themes",
         "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References"
       ],
       "kind": "software",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/33/91/e9/3391e911-0d56-c4f4-e053-ab8dba5bf6a1/APP_IPHONE_65-0.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b0/07/f3/b007f3fe-72ed-a2e3-1947-f6773ea21001/APP_IPHONE_65-1.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f1/6e/5d/f16e5de7-9e04-96fa-a079-4417699476e7/APP_IPHONE_65-2.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a7/6a/e5/a76ae5b9-b70b-5772-61e2-481214ed2591/APP_IPHONE_65-3.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9c/17/9b/9c179b3c-5fa9-2f0e-01cb-d896f0feb150/APP_IPHONE_65-4.png/320x480bb.jpg"
-      ],
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/47/0e/d8/470ed80f-6da6-b9ec-b32a-898f5e4dc401/APP_IPAD_PRO_3GEN_129-0.png/360x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8b/1e/51/8b1e51d7-c727-96bc-c6b7-7a8621c30342/APP_IPAD_PRO_3GEN_129-1.png/360x480bb.jpg",
@@ -342,52 +338,56 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1c/45/e2/1c45e2c0-abd0-d883-127f-19ce97cd8257/APP_IPAD_PRO_3GEN_129-4.png/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artistViewUrl": "https://apps.apple.com/us/developer/google/id281956209?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/43/19/254319fa-90c0-a9bf-5e8f-0e27776922eb/logo_youtube_television_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/60x60bb.jpg",
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/43/19/254319fa-90c0-a9bf-5e8f-0e27776922eb/logo_youtube_television_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/43/19/254319fa-90c0-a9bf-5e8f-0e27776922eb/logo_youtube_television_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/100x100bb.jpg",
-      "features": [
-        "iosUniversal"
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/d1/bb/e8d1bbd9-fb22-392c-174f-7422ded77427/logo_youtube_television_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/33/91/e9/3391e911-0d56-c4f4-e053-ab8dba5bf6a1/APP_IPHONE_65-0.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b0/07/f3/b007f3fe-72ed-a2e3-1947-f6773ea21001/APP_IPHONE_65-1.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f1/6e/5d/f16e5de7-9e04-96fa-a079-4417699476e7/APP_IPHONE_65-2.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a7/6a/e5/a76ae5b9-b70b-5772-61e2-481214ed2591/APP_IPHONE_65-3.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9c/17/9b/9c179b3c-5fa9-2f0e-01cb-d896f0feb150/APP_IPHONE_65-4.png/320x480bb.jpg"
       ],
-      "artistId": 281956209,
-      "artistName": "Google",
+      "artistViewUrl": "https://apps.apple.com/us/developer/google/id281956209?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/d1/bb/e8d1bbd9-fb22-392c-174f-7422ded77427/logo_youtube_television_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/d1/bb/e8d1bbd9-fb22-392c-174f-7422ded77427/logo_youtube_television_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/100x100bb.jpg",
+      "minimumOsVersion": "16.0",
+      "releaseNotes": "Bug fixes and stability improvements.",
       "genres": [
         "Entertainment"
       ],
-      "price": 0,
+      "artistId": 281956209,
+      "artistName": "Google",
       "genreIds": [
         "6016"
       ],
-      "primaryGenreName": "Entertainment",
-      "primaryGenreId": 6016,
-      "releaseDate": "2017-04-05T14:51:58Z",
-      "sellerName": "Google LLC",
+      "bundleId": "com.google.ios.youtubeunplugged",
       "trackId": 1193350206,
       "trackName": "YouTube TV",
+      "primaryGenreName": "Entertainment",
+      "primaryGenreId": 6016,
+      "sellerName": "Google LLC",
       "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-08-05T17:03:15Z",
-      "releaseNotes": "Bug fixes and stability improvements.",
-      "version": "10.32",
+      "currentVersionReleaseDate": "2026-08-12T19:54:43Z",
+      "version": "10.33",
       "wrapperType": "software",
       "currency": "USD",
       "description": "YouTube TV is now the exclusive home of NFL Sunday Ticket. Watch every out-of-market Sunday game* on your TV and supported devices. Learn more: https://yt.be/nflsundayticket\n\nWatch cable-free live TV. Download to watch & record live TV from 100+ networks, including local sports & news, as part of your monthly membership. Cancel anytime.\n\n+Cable-free live TV. No cable box required.\n+Stream major broadcast and cable networks, including ABC, CBS, FOX, NBC, NFL Network, ESPN, HGTV, TNT, AMC, and more, including your local sports & news channels.\n+Watch on your smartphone, tablet, computer, and TV\n+Cloud DVR without DVR storage space limits. Each recording will be stored for 9 months.\n+6 YouTube TV accounts per household. Everyone gets their own login, recommendations and DVR.\n+Monthly pay-as-you-go membership; cancel anytime.\n\nOver 100 networks are available in YouTube TV:\n\nBROADCAST\nABC, CBS, FOX, NBC, NFL Network, PBS, and more\n\nSPORTS\nCBS Sports Network, NBC Sports RSN (regional), NFL Network, ESPN, ESPN2, ESPNews, ESPNU, Golf Channel, NBA TV, SEC Network, and more\n\nENTERTAINMENT & LIFESTYLE\nAMC, Animal Planet, BBC America, BET, Bravo, Cheddar, CMT, Comedy Central, Comet, Cozi TV, Discovery, Discovery Turbo, E!, Food Network, Freeform, FX, FXM, FXX, IFC, Investigation Discovery, HGTV, MTV, Nat Geo, Nat Geo Wild, Oxygen True Crime, Paramount Network, Pop, Smithsonian Channel, SundanceTV, SyFy, TBS, TCM, TLC, TNT, Travel Channel, TruTV, TV Land, USA, VH1, WE tv, YouTube Originals, and more\n\nNEWS\nBBC World News, CNBC, CNN, HLN, MSNBC, and more\n\nKIDS\nCartoon Network, Disney Channel, Disney Junior, Disney XD, Nickelodeon, PBS Kids\n\n\nAvailability:\nYouTube TV is available nationwide in the United States.\n\nFor more information, please visit our Help Center.\n\nYour membership will automatically continue for as long as you choose to remain a member. Your membership is a month-to-month subscription that begins at sign up. You can easily cancel anytime, online, 24 hours a day. There are no long-term contracts or cancellation fees.\n\nSubscriptions automatically renew unless auto-renew is turned off at least 24-hours before the end of the current period. Account will be charged for renewal within 24-hours prior to the end of the current period.\n\nSubscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings on the device.\n\nTerms of service: tv.youtube.com/tv/terms\nPaid terms of service: tv.youtube.com/tv/paidterms\nPrivacy policy: tv.youtube.com/tv/privacy\n\nEnjoy cable-free live tv now!\n\n*Commercial use excluded. Locally broadcast Fox and CBS games, Sunday Night Football on NBC, select digital-only games and international games excluded from NFL Sunday Ticket.",
-      "bundleId": "com.google.ios.youtubeunplugged",
-      "minimumOsVersion": "16.0",
       "sellerUrl": "https://tv.youtube.com/",
-      "averageUserRating": 3.6416,
-      "trackCensoredName": "YouTube TV",
       "languageCodesISO2A": [
         "EN",
         "ES"
       ],
-      "fileSizeBytes": "154503168",
+      "fileSizeBytes": "155002880",
       "formattedPrice": "Free",
-      "contentAdvisoryRating": "12+",
-      "userRatingCountForCurrentVersion": 59426,
-      "trackViewUrl": "https://apps.apple.com/us/app/youtube-tv/id1193350206?uo=4",
+      "userRatingCountForCurrentVersion": 59432,
       "trackContentRating": "12+",
-      "averageUserRatingForCurrentVersion": 3.6416,
-      "userRatingCount": 59426,
+      "averageUserRatingForCurrentVersion": 3.64161,
+      "averageUserRating": 3.64161,
+      "trackCensoredName": "YouTube TV",
+      "trackViewUrl": "https://apps.apple.com/us/app/youtube-tv/id1193350206?uo=4",
+      "contentAdvisoryRating": "12+",
+      "releaseDate": "2017-04-05T14:51:58Z",
+      "price": 0,
+      "userRatingCount": 59432,
       "country": "USA"
     }
   ]

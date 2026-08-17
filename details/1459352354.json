@@ -192,15 +192,6 @@
       "userRatingCount": 44
     },
     {
-      "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [],
-      "kind": "software",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/f4/b4/cef4b407-f389-9236-aa40-a49b15c3c190/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/f4/b4/cef4b407-f389-9236-aa40-a49b15c3c190/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/jp/developer/%E3%83%A2%E3%83%81%E3%83%99%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B9%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/id1459352353?uo=4",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d5/d6/e6/d5d6e693-4acc-b617-aa18-97eb0433a3ef/1.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b0/62/a7/b062a733-a18f-7c90-fb9c-d9c3a2c4b06d/2.png/320x480bb.jpg",
@@ -213,6 +204,7 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/f4/b4/cef4b407-f389-9236-aa40-a49b15c3c190/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
+      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -342,43 +334,51 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
+      "advisories": [],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/jp/developer/%E3%83%A2%E3%83%81%E3%83%99%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B9%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/id1459352353?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/f4/b4/cef4b407-f389-9236-aa40-a49b15c3c190/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/f4/b4/cef4b407-f389-9236-aa40-a49b15c3c190/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "fileSizeBytes": "56309760",
+      "formattedPrice": "無料",
+      "userRatingCountForCurrentVersion": 168,
+      "trackContentRating": "4+",
+      "averageUserRatingForCurrentVersion": 1.93452,
+      "sellerUrl": "https://blend.school",
       "genres": [
         "教育"
       ],
-      "artistId": 1459352353,
-      "artistName": "モチベーションワークス株式会社",
       "price": 0,
       "bundleId": "school.blend",
       "primaryGenreName": "Education",
       "primaryGenreId": 6017,
+      "genreIds": [
+        "6017"
+      ],
       "releaseDate": "2019-11-23T08:00:00Z",
+      "isVppDeviceBasedLicensingEnabled": true,
       "trackId": 1459352354,
       "trackName": "BLEND",
       "sellerName": "Motivation Works Inc.",
-      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-07-02T15:24:00Z",
+      "releaseNotes": "動作の改善を行いました",
       "version": "1.2.30",
       "wrapperType": "software",
       "currency": "JPY",
       "description": "学校からの連絡確認や、欠席や遅刻連絡の送信、\n出欠や成績の確認が可能です。\n※学校から配布されたアカウントを用いてご利用ください。",
-      "formattedPrice": "無料",
+      "minimumOsVersion": "12.4",
+      "averageUserRating": 1.93452,
       "trackCensoredName": "BLEND",
       "trackViewUrl": "https://apps.apple.com/jp/app/blend/id1459352354?uo=4",
       "contentAdvisoryRating": "4+",
-      "fileSizeBytes": "56309760",
-      "averageUserRating": 1.94048,
-      "sellerUrl": "https://blend.school",
-      "languageCodesISO2A": [
-        "EN"
-      ],
-      "userRatingCountForCurrentVersion": 168,
-      "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 1.94048,
-      "minimumOsVersion": "12.4",
-      "genreIds": [
-        "6017"
-      ],
-      "releaseNotes": "動作の改善を行いました",
+      "artistId": 1459352353,
+      "artistName": "モチベーションワークス株式会社",
       "userRatingCount": 168,
       "country": "JPN"
     }

@@ -189,6 +189,13 @@
       "userRatingCount": 2411
     },
     {
+      "features": [
+        "iosUniversal"
+      ],
+      "isGameCenterEnabled": false,
+      "artistViewUrl": "https://apps.apple.com/jp/developer/social-note-co-ltd/id1476710964?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/bc/84/babc8415-526f-0d35-f304-8d3046930d56/AppIconCareManagerPro-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/bc/84/babc8415-526f-0d35-f304-8d3046930d56/AppIconCareManagerPro-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2f/fd/7e/2ffd7eee-609b-d512-d65c-751780c82757/pro5-1.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/cc/42/e0cc427f-6d72-9fc4-a264-6200bb6d7c85/80de5ecb-99a6-4e0c-bc05-78b12bd87616_6-2.png/320x480bb.jpg",
@@ -200,11 +207,11 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/55/38/61/553861aa-c9ff-7859-8548-d9982b07159e/pro12-3.png/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/27/a8/b127a8a6-5d95-2880-14eb-2420e242087a/AppIconCareManagerPro-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/bc/84/babc8415-526f-0d35-f304-8d3046930d56/AppIconCareManagerPro-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "advisories": [
+        "まれ／軽度な医療または治療情報"
       ],
+      "kind": "software",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -334,23 +341,23 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "advisories": [
-        "まれ／軽度な医療または治療情報"
-      ],
-      "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/jp/developer/social-note-co-ltd/id1476710964?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/27/a8/b127a8a6-5d95-2880-14eb-2420e242087a/AppIconCareManagerPro-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/27/a8/b127a8a6-5d95-2880-14eb-2420e242087a/AppIconCareManagerPro-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
+      "bundleId": "com.harusankaigo.CareManagerExamPro",
+      "releaseNotes": "いくつかの不具合を修正しました。\nAI相談機能を追加しました。\nカスタマイズ機能を追加しました。\nふりがな機能を追加しました。\n通知を3つまでできるようになりました。\n画面上にメモを書けるようになりました。\nお知らせいただいた誤字、脱字を修正しました。\niOS26に合わせてUIを調整しました。\n一部のバグを修正しました。",
+      "averageUserRating": 4.67361,
+      "minimumOsVersion": "17.6",
+      "trackCensoredName": "ケアマネ 過去問(完全版)",
+      "trackViewUrl": "https://apps.apple.com/jp/app/%E3%82%B1%E3%82%A2%E3%83%9E%E3%83%8D-%E9%81%8E%E5%8E%BB%E5%95%8F-%E5%AE%8C%E5%85%A8%E7%89%88/id1583706593?uo=4",
+      "contentAdvisoryRating": "12+",
+      "averageUserRatingForCurrentVersion": 4.67361,
       "sellerUrl": "https://kakomonblog.com",
       "languageCodesISO2A": [
         "EN",
         "JA"
       ],
-      "fileSizeBytes": "152939520",
+      "fileSizeBytes": "150940672",
       "formattedPrice": "¥370",
-      "userRatingCountForCurrentVersion": 2474,
+      "userRatingCountForCurrentVersion": 2494,
       "trackContentRating": "12+",
-      "averageUserRatingForCurrentVersion": 4.67623,
       "artistId": 1476710964,
       "artistName": "SOCIAL NOTE CO., LTD.",
       "genres": [
@@ -358,30 +365,23 @@
         "仕事効率化"
       ],
       "price": 370,
-      "bundleId": "com.harusankaigo.CareManagerExamPro",
-      "trackId": 1583706593,
-      "trackName": "ケアマネ 過去問(完全版)",
+      "releaseDate": "2021-08-31T07:00:00Z",
+      "primaryGenreName": "Education",
+      "primaryGenreId": 6017,
+      "sellerName": "SOCIAL NOTE CO., LTD.",
+      "isVppDeviceBasedLicensingEnabled": true,
       "genreIds": [
         "6017",
         "6007"
       ],
-      "releaseDate": "2021-08-31T07:00:00Z",
-      "sellerName": "SOCIAL NOTE CO., LTD.",
-      "primaryGenreName": "Education",
-      "primaryGenreId": 6017,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-05-04T15:42:33Z",
-      "releaseNotes": "以下、機能追加のお知らせ\nAI相談機能を追加しました。\nカスタマイズ機能を追加しました。\nふりがな機能を追加しました。\n通知を3つまでできるようになりました。\n画面上にメモを書けるようになりました。\nお知らせいただいた誤字、脱字を修正しました。\niOS26に合わせてUIを調整しました。\n一部のバグを修正しました。",
-      "version": "10.5.0",
+      "currentVersionReleaseDate": "2026-08-14T23:31:14Z",
+      "version": "10.6.0",
       "wrapperType": "software",
       "currency": "JPY",
       "description": "最新の問題と解説を掲載！！ケアマネの過去問をアプリ化。過去問検索やマイリスト機能。ランダム10問テストなど、国家試験を受験した時に、あったら良かったと思う機能を搭載しています。\n\n広告がなく、快適に学習することができます。成績やリストについては、無料版からの引き継ぎが可能となっています。\n通常広告は非表示ですが、AI機能については外部連携コストが発生するため、本機能に限りチケット制を導入し、広告表示があります。\n持続可能なサービス運営のため、ご理解いただけますと幸いです。\n\n公式サイト\nhttps://kakomonblog.com\n\n利用規約\nhttps://kakomonblog.com/kiyaku",
-      "minimumOsVersion": "17.6",
-      "averageUserRating": 4.67623,
-      "trackCensoredName": "ケアマネ 過去問(完全版)",
-      "trackViewUrl": "https://apps.apple.com/jp/app/%E3%82%B1%E3%82%A2%E3%83%9E%E3%83%8D-%E9%81%8E%E5%8E%BB%E5%95%8F-%E5%AE%8C%E5%85%A8%E7%89%88/id1583706593?uo=4",
-      "contentAdvisoryRating": "12+",
-      "userRatingCount": 2474,
+      "trackId": 1583706593,
+      "trackName": "ケアマネ 過去問(完全版)",
+      "userRatingCount": 2494,
       "country": "JPN"
     }
   ]
