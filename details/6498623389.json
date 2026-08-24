@@ -185,7 +185,21 @@
     },
     {
       "isGameCenterEnabled": false,
-      "advisories": [],
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/65/51/27/655127cc-91c0-89bb-8939-bb2fd0fa7758/Frame_1.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/89/0f/cd/890fcd56-2637-930f-d764-982d6bc4a413/Frame_3.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0e/76/66/0e7666ec-f0ef-9995-a1b5-4091749b1134/Frame_1-3.png/320x480bb.jpg"
+      ],
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/07/e1/11/07e111dd-2d3f-fb6e-2a55-27fb7a4e762d/Frame_2.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8c/d8/a6/8cd8a644-02b8-cf8a-0412-9a4dcba6cb52/Frame_5.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dd/61/e6/dd61e6d8-f529-b62e-1e40-db0d835ddaa4/Frame_6.png/360x480bb.jpg"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/f4/4e/97f44eec-b032-3edc-d909-46c2b8d09ff0/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -315,73 +329,73 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
+      "advisories": [],
       "kind": "software",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/65/51/27/655127cc-91c0-89bb-8939-bb2fd0fa7758/Frame_1.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/89/0f/cd/890fcd56-2637-930f-d764-982d6bc4a413/Frame_3.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0e/76/66/0e7666ec-f0ef-9995-a1b5-4091749b1134/Frame_1-3.png/320x480bb.jpg"
-      ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/07/e1/11/07e111dd-2d3f-fb6e-2a55-27fb7a4e762d/Frame_2.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8c/d8/a6/8cd8a644-02b8-cf8a-0412-9a4dcba6cb52/Frame_5.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dd/61/e6/dd61e6d8-f529-b62e-1e40-db0d835ddaa4/Frame_6.png/360x480bb.jpg"
-      ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/f4/4e/97f44eec-b032-3edc-d909-46c2b8d09ff0/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
       "artistViewUrl": "https://apps.apple.com/us/developer/jarrod-norwell/id1449237747?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/f4/4e/97f44eec-b032-3edc-d909-46c2b8d09ff0/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/f4/4e/97f44eec-b032-3edc-d909-46c2b8d09ff0/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
+      "bundleId": "com.antique.Folium-iOS",
       "minimumOsVersion": "16.0",
-      "genres": [
-        "Entertainment"
-      ],
-      "price": 2.99,
-      "artistId": 1449237747,
-      "artistName": "Jarrod Norwell",
-      "primaryGenreName": "Entertainment",
-      "primaryGenreId": 6016,
-      "sellerName": "Jarrod Norwell",
-      "currentVersionReleaseDate": "2026-03-18T01:27:27Z",
-      "releaseDate": "2024-05-31T07:00:00Z",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseNotes": "Changed\n- Updated Azahar for Cytrus to the latest available version on GitHub\n\nFixed\n- an issue where input via the on-screen buttons and external gamepads would not work in Cytrus\n- an issue where audio was handled unnecessarily in Grape causing minor static\n\nRemoved\n- SDL3 audio output from Cytrus until its fully functional, replaced with CoreAudio as of now",
-      "trackId": 6498623389,
-      "trackName": "Folium",
-      "version": "1.38",
-      "wrapperType": "software",
-      "currency": "USD",
-      "description": "Folium is a beautifully designed, high performing multi-system emulator that allows you to play video games from retro consoles and handhelds\n\n-- NOTE --\nFolium does not provide any games or system files, these must be provided by the user\n\nEmulation may be slow on older devices depending on the console or handheld emulated\n-- NOTE --\n\nSupported Consoles\n- ColecoVision\n- Game Boy, Game Boy Color\n- Game Boy Advance\n- Nintendo 3DS, New Nintendo 3DS\n- Nintendo DS, Nintendo DSi\n- Nintendo Entertainment System\n- SEGA Genesis, Mega Drive\n- Super Nintendo Entertainment System\n- PlayStation 1\n\nSupported Controllers\n- Backbone One\n- Nintendo Switch Joy-Con\n- Nintendo Switch Pro Controller\n- PlayStation DualShock 4\n- PlayStation 5 DualSense\n- Xbox Series S\n- Xbox Series X\n\nFolium is in no way affiliated with Nintendo. \"Nintendo\" and all associated game console and handheld names and game controller names are registered trademarks of Nintendo Co., Ltd\n\nFolium is in no way affiliated with Sony. \"PlayStation\" and all associated game controller names are registered trademarks of Sony Group Corporation\n\nFolium is in no way affiliated with SEGA. \"SEGA\" and all associated game console and handheld names are registered trademarks of SEGA Group Corporation",
       "languageCodesISO2A": [
         "EN"
       ],
       "fileSizeBytes": "69912576",
       "formattedPrice": "$2.99",
-      "userRatingCountForCurrentVersion": 834,
+      "userRatingCountForCurrentVersion": 836,
       "trackContentRating": "4+",
+      "averageUserRatingForCurrentVersion": 2.39353,
       "sellerUrl": "https://jarrodnorwell.com/folium",
-      "averageUserRatingForCurrentVersion": 2.39568,
-      "averageUserRating": 2.39568,
-      "trackCensoredName": "Folium",
-      "trackViewUrl": "https://apps.apple.com/us/app/folium/id6498623389?uo=4",
-      "bundleId": "com.antique.Folium-iOS",
-      "contentAdvisoryRating": "4+",
+      "price": 2.99,
+      "trackId": 6498623389,
+      "artistId": 1449237747,
+      "artistName": "Jarrod Norwell",
+      "genres": [
+        "Entertainment"
+      ],
+      "primaryGenreName": "Entertainment",
+      "primaryGenreId": 6016,
+      "releaseDate": "2024-05-31T07:00:00Z",
+      "currentVersionReleaseDate": "2026-03-18T01:27:27Z",
+      "sellerName": "Jarrod Norwell",
       "genreIds": [
         "6016"
       ],
-      "userRatingCount": 834,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseNotes": "Changed\n- Updated Azahar for Cytrus to the latest available version on GitHub\n\nFixed\n- an issue where input via the on-screen buttons and external gamepads would not work in Cytrus\n- an issue where audio was handled unnecessarily in Grape causing minor static\n\nRemoved\n- SDL3 audio output from Cytrus until its fully functional, replaced with CoreAudio as of now",
+      "version": "1.38",
+      "wrapperType": "software",
+      "currency": "USD",
+      "description": "Folium is a beautifully designed, high performing multi-system emulator that allows you to play video games from retro consoles and handhelds\n\n-- NOTE --\nFolium does not provide any games or system files, these must be provided by the user\n\nEmulation may be slow on older devices depending on the console or handheld emulated\n-- NOTE --\n\nSupported Consoles\n- ColecoVision\n- Game Boy, Game Boy Color\n- Game Boy Advance\n- Nintendo 3DS, New Nintendo 3DS\n- Nintendo DS, Nintendo DSi\n- Nintendo Entertainment System\n- SEGA Genesis, Mega Drive\n- Super Nintendo Entertainment System\n- PlayStation 1\n\nSupported Controllers\n- Backbone One\n- Nintendo Switch Joy-Con\n- Nintendo Switch Pro Controller\n- PlayStation DualShock 4\n- PlayStation 5 DualSense\n- Xbox Series S\n- Xbox Series X\n\nFolium is in no way affiliated with Nintendo. \"Nintendo\" and all associated game console and handheld names and game controller names are registered trademarks of Nintendo Co., Ltd\n\nFolium is in no way affiliated with Sony. \"PlayStation\" and all associated game controller names are registered trademarks of Sony Group Corporation\n\nFolium is in no way affiliated with SEGA. \"SEGA\" and all associated game console and handheld names are registered trademarks of SEGA Group Corporation",
+      "averageUserRating": 2.39353,
+      "trackCensoredName": "Folium",
+      "trackViewUrl": "https://apps.apple.com/us/app/folium/id6498623389?uo=4",
+      "contentAdvisoryRating": "4+",
+      "trackName": "Folium",
+      "userRatingCount": 836,
       "country": "USA"
     },
     {
-      "artistViewUrl": "https://apps.apple.com/de/developer/jarrod-norwell/id1449237747?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/f4/4e/97f44eec-b032-3edc-d909-46c2b8d09ff0/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/f4/4e/97f44eec-b032-3edc-d909-46c2b8d09ff0/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
       ],
+      "advisories": [],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/de/developer/jarrod-norwell/id1449237747?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/f4/4e/97f44eec-b032-3edc-d909-46c2b8d09ff0/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/f4/4e/97f44eec-b032-3edc-d909-46c2b8d09ff0/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/65/51/27/655127cc-91c0-89bb-8939-bb2fd0fa7758/Frame_1.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/89/0f/cd/890fcd56-2637-930f-d764-982d6bc4a413/Frame_3.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0e/76/66/0e7666ec-f0ef-9995-a1b5-4091749b1134/Frame_1-3.png/320x480bb.jpg"
+      ],
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/07/e1/11/07e111dd-2d3f-fb6e-2a55-27fb7a4e762d/Frame_2.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8c/d8/a6/8cd8a644-02b8-cf8a-0412-9a4dcba6cb52/Frame_5.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dd/61/e6/dd61e6d8-f529-b62e-1e40-db0d835ddaa4/Frame_6.png/360x480bb.jpg"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/f4/4e/97f44eec-b032-3edc-d909-46c2b8d09ff0/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -511,46 +525,28 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "advisories": [],
-      "kind": "software",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/65/51/27/655127cc-91c0-89bb-8939-bb2fd0fa7758/Frame_1.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/89/0f/cd/890fcd56-2637-930f-d764-982d6bc4a413/Frame_3.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0e/76/66/0e7666ec-f0ef-9995-a1b5-4091749b1134/Frame_1-3.png/320x480bb.jpg"
-      ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/07/e1/11/07e111dd-2d3f-fb6e-2a55-27fb7a4e762d/Frame_2.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8c/d8/a6/8cd8a644-02b8-cf8a-0412-9a4dcba6cb52/Frame_5.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dd/61/e6/dd61e6d8-f529-b62e-1e40-db0d835ddaa4/Frame_6.png/360x480bb.jpg"
-      ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/f4/4e/97f44eec-b032-3edc-d909-46c2b8d09ff0/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 2.49038,
-      "trackCensoredName": "Folium",
-      "trackViewUrl": "https://apps.apple.com/de/app/folium/id6498623389?uo=4",
-      "genres": [
-        "Unterhaltung"
-      ],
-      "artistId": 1449237747,
-      "artistName": "Jarrod Norwell",
-      "price": 2.99,
-      "trackName": "Folium",
+      "minimumOsVersion": "16.0",
+      "sellerName": "Jarrod Norwell",
+      "primaryGenreName": "Entertainment",
+      "primaryGenreId": 6016,
       "trackId": 6498623389,
+      "trackName": "Folium",
       "genreIds": [
         "6016"
       ],
-      "primaryGenreName": "Entertainment",
-      "primaryGenreId": 6016,
-      "sellerName": "Jarrod Norwell",
-      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseDate": "2024-05-31T07:00:00Z",
       "currentVersionReleaseDate": "2026-03-18T01:27:27Z",
+      "releaseNotes": "Changed\n- Updated Azahar for Cytrus to the latest available version on GitHub\n\nFixed\n- an issue where input via the on-screen buttons and external gamepads would not work in Cytrus\n- an issue where audio was handled unnecessarily in Grape causing minor static\n\nRemoved\n- SDL3 audio output from Cytrus until its fully functional, replaced with CoreAudio as of now",
       "version": "1.38",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Folium is a beautifully designed, high performing multi-system emulator that allows you to play video games from retro consoles and handhelds\n\n-- NOTE --\nFolium does not provide any games or system files, these must be provided by the user\n\nEmulation may be slow on older devices depending on the console or handheld emulated\n-- NOTE --\n\nSupported Consoles\n- ColecoVision\n- Game Boy, Game Boy Color\n- Game Boy Advance\n- Nintendo 3DS, New Nintendo 3DS\n- Nintendo DS, Nintendo DSi\n- Nintendo Entertainment System\n- SEGA Genesis, Mega Drive\n- Super Nintendo Entertainment System\n- PlayStation 1\n\nSupported Controllers\n- Backbone One\n- Nintendo Switch Joy-Con\n- Nintendo Switch Pro Controller\n- PlayStation DualShock 4\n- PlayStation 5 DualSense\n- Xbox Series S\n- Xbox Series X\n\nFolium is in no way affiliated with Nintendo. \"Nintendo\" and all associated game console and handheld names and game controller names are registered trademarks of Nintendo Co., Ltd\n\nFolium is in no way affiliated with Sony. \"PlayStation\" and all associated game controller names are registered trademarks of Sony Group Corporation\n\nFolium is in no way affiliated with SEGA. \"SEGA\" and all associated game console and handheld names are registered trademarks of SEGA Group Corporation",
+      "trackCensoredName": "Folium",
+      "trackViewUrl": "https://apps.apple.com/de/app/folium/id6498623389?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 2.49038,
+      "bundleId": "com.antique.Folium-iOS",
       "averageUserRatingForCurrentVersion": 2.49038,
-      "sellerUrl": "https://jarrodnorwell.com/folium",
       "languageCodesISO2A": [
         "EN"
       ],
@@ -558,14 +554,21 @@
       "formattedPrice": "2,99 €",
       "userRatingCountForCurrentVersion": 104,
       "trackContentRating": "4+",
-      "bundleId": "com.antique.Folium-iOS",
-      "minimumOsVersion": "16.0",
-      "releaseDate": "2024-05-31T07:00:00Z",
-      "releaseNotes": "Changed\n- Updated Azahar for Cytrus to the latest available version on GitHub\n\nFixed\n- an issue where input via the on-screen buttons and external gamepads would not work in Cytrus\n- an issue where audio was handled unnecessarily in Grape causing minor static\n\nRemoved\n- SDL3 audio output from Cytrus until its fully functional, replaced with CoreAudio as of now",
+      "sellerUrl": "https://jarrodnorwell.com/folium",
+      "price": 2.99,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "artistName": "Jarrod Norwell",
+      "artistId": 1449237747,
+      "genres": [
+        "Unterhaltung"
+      ],
       "userRatingCount": 104,
       "country": "DEU"
     },
     {
+      "artistViewUrl": "https://apps.apple.com/fr/developer/jarrod-norwell/id1449237747?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/f4/4e/97f44eec-b032-3edc-d909-46c2b8d09ff0/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/f4/4e/97f44eec-b032-3edc-d909-46c2b8d09ff0/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/65/51/27/655127cc-91c0-89bb-8939-bb2fd0fa7758/Frame_1.png/320x480bb.jpg",
@@ -579,6 +582,11 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/f4/4e/97f44eec-b032-3edc-d909-46c2b8d09ff0/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
+      "advisories": [],
+      "kind": "software",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -708,16 +716,12 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "advisories": [],
-      "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/fr/developer/jarrod-norwell/id1449237747?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/f4/4e/97f44eec-b032-3edc-d909-46c2b8d09ff0/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/f4/4e/97f44eec-b032-3edc-d909-46c2b8d09ff0/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
-      "minimumOsVersion": "16.0",
-      "sellerUrl": "https://jarrodnorwell.com/folium",
+      "trackCensoredName": "Folium",
+      "trackViewUrl": "https://apps.apple.com/fr/app/folium/id6498623389?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 2.12621,
+      "releaseNotes": "Changed\n- Updated Azahar for Cytrus to the latest available version on GitHub\n\nFixed\n- an issue where input via the on-screen buttons and external gamepads would not work in Cytrus\n- an issue where audio was handled unnecessarily in Grape causing minor static\n\nRemoved\n- SDL3 audio output from Cytrus until its fully functional, replaced with CoreAudio as of now",
+      "averageUserRatingForCurrentVersion": 2.12621,
       "languageCodesISO2A": [
         "EN"
       ],
@@ -725,34 +729,30 @@
       "formattedPrice": "2,99 €",
       "userRatingCountForCurrentVersion": 103,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 2.12621,
+      "sellerUrl": "https://jarrodnorwell.com/folium",
+      "artistId": 1449237747,
+      "artistName": "Jarrod Norwell",
+      "genres": [
+        "Divertissement"
+      ],
+      "price": 2.99,
       "genreIds": [
         "6016"
       ],
-      "releaseNotes": "Changed\n- Updated Azahar for Cytrus to the latest available version on GitHub\n\nFixed\n- an issue where input via the on-screen buttons and external gamepads would not work in Cytrus\n- an issue where audio was handled unnecessarily in Grape causing minor static\n\nRemoved\n- SDL3 audio output from Cytrus until its fully functional, replaced with CoreAudio as of now",
       "trackId": 6498623389,
       "trackName": "Folium",
-      "releaseDate": "2024-05-31T07:00:00Z",
       "sellerName": "Jarrod Norwell",
       "isVppDeviceBasedLicensingEnabled": true,
+      "primaryGenreName": "Entertainment",
+      "primaryGenreId": 6016,
+      "releaseDate": "2024-05-31T07:00:00Z",
       "currentVersionReleaseDate": "2026-03-18T01:27:27Z",
       "version": "1.38",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Folium is a beautifully designed, high performing multi-system emulator that allows you to play video games from retro consoles and handhelds\n\n-- NOTE --\nFolium does not provide any games or system files, these must be provided by the user\n\nEmulation may be slow on older devices depending on the console or handheld emulated\n-- NOTE --\n\nSupported Consoles\n- ColecoVision\n- Game Boy, Game Boy Color\n- Game Boy Advance\n- Nintendo 3DS, New Nintendo 3DS\n- Nintendo DS, Nintendo DSi\n- Nintendo Entertainment System\n- SEGA Genesis, Mega Drive\n- Super Nintendo Entertainment System\n- PlayStation 1\n\nSupported Controllers\n- Backbone One\n- Nintendo Switch Joy-Con\n- Nintendo Switch Pro Controller\n- PlayStation DualShock 4\n- PlayStation 5 DualSense\n- Xbox Series S\n- Xbox Series X\n\nFolium is in no way affiliated with Nintendo. \"Nintendo\" and all associated game console and handheld names and game controller names are registered trademarks of Nintendo Co., Ltd\n\nFolium is in no way affiliated with Sony. \"PlayStation\" and all associated game controller names are registered trademarks of Sony Group Corporation\n\nFolium is in no way affiliated with SEGA. \"SEGA\" and all associated game console and handheld names are registered trademarks of SEGA Group Corporation",
-      "trackCensoredName": "Folium",
-      "trackViewUrl": "https://apps.apple.com/fr/app/folium/id6498623389?uo=4",
-      "contentAdvisoryRating": "4+",
       "bundleId": "com.antique.Folium-iOS",
-      "averageUserRating": 2.12621,
-      "price": 2.99,
-      "primaryGenreName": "Entertainment",
-      "primaryGenreId": 6016,
-      "genres": [
-        "Divertissement"
-      ],
-      "artistId": 1449237747,
-      "artistName": "Jarrod Norwell",
+      "minimumOsVersion": "16.0",
       "userRatingCount": 103,
       "country": "FRA"
     },

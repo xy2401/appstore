@@ -210,7 +210,13 @@
       "userRatingCount": 12313
     },
     {
+      "artistViewUrl": "https://apps.apple.com/us/developer/microsoft-corporation/id298856275?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/39/c4/8539c444-254c-1a60-574c-17c22fa0044c/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/39/c4/8539c444-254c-1a60-574c-17c22fa0044c/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -342,6 +348,8 @@
       ],
       "advisories": [],
       "kind": "software",
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/39/c4/8539c444-254c-1a60-574c-17c22fa0044c/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/19/2a/77/192a7735-53ac-6636-90b6-a701bda880ba/3e3a74c4-19a0-4ff7-97e4-b834b807eaeb_1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/07/33/ce/0733cea6-e907-f49c-06a4-a23932e8d55c/9d8f9960-d5f9-46d2-9015-cf0b2a003783_2.png/392x696bb.png",
@@ -364,17 +372,12 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/ee/50/c0/ee50c051-7624-6eee-42e2-15f2ecd55ad7/18c4e9ff-a824-4d3c-96cc-c12fa6344fa7_7.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/e7/d3/ce/e7d3ce51-8e67-8271-b02c-12586b15f1a4/1b862284-c977-4776-b0e9-9b968cfa70a2_8.png/576x768bb.png"
       ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/39/c4/8539c444-254c-1a60-574c-17c22fa0044c/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
-      "artistViewUrl": "https://apps.apple.com/us/developer/microsoft-corporation/id298856275?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/39/c4/8539c444-254c-1a60-574c-17c22fa0044c/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/39/c4/8539c444-254c-1a60-574c-17c22fa0044c/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
+      "averageUserRating": 4.61291,
+      "contentAdvisoryRating": "4+",
+      "trackCensoredName": "Microsoft Wordament",
+      "trackViewUrl": "https://apps.apple.com/us/app/microsoft-wordament/id580935508?uo=4",
       "minimumOsVersion": "13.0",
-      "formattedPrice": "Free",
-      "fileSizeBytes": "211676160",
+      "artistId": 298856275,
       "artistName": "Microsoft Corporation",
       "genres": [
         "Games",
@@ -382,21 +385,20 @@
         "Entertainment",
         "Word"
       ],
-      "artistId": 298856275,
       "price": 0,
-      "sellerName": "Microsoft Corporation",
-      "isVppDeviceBasedLicensingEnabled": true,
+      "bundleId": "com.microsoft.wordament",
+      "trackId": 580935508,
       "primaryGenreName": "Games",
       "primaryGenreId": 6014,
-      "releaseDate": "2012-12-21T21:54:30Z",
-      "trackId": 580935508,
-      "trackName": "Microsoft Wordament",
+      "isVppDeviceBasedLicensingEnabled": true,
       "genreIds": [
         "6014",
         "7004",
         "6016",
         "7019"
       ],
+      "sellerName": "Microsoft Corporation",
+      "releaseDate": "2012-12-21T21:54:30Z",
       "currentVersionReleaseDate": "2026-08-11T17:01:48Z",
       "releaseNotes": "Compliance updates",
       "version": "4.5.8051",
@@ -406,16 +408,14 @@
       "languageCodesISO2A": [
         "EN"
       ],
+      "fileSizeBytes": "211676160",
+      "formattedPrice": "Free",
+      "userRatingCountForCurrentVersion": 12351,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.61277,
+      "averageUserRatingForCurrentVersion": 4.61291,
       "sellerUrl": "http://microsoftcasualgames.com",
-      "userRatingCountForCurrentVersion": 12344,
-      "trackCensoredName": "Microsoft Wordament",
-      "trackViewUrl": "https://apps.apple.com/us/app/microsoft-wordament/id580935508?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.61277,
-      "bundleId": "com.microsoft.wordament",
-      "userRatingCount": 12344,
+      "trackName": "Microsoft Wordament",
+      "userRatingCount": 12351,
       "country": "USA"
     }
   ]

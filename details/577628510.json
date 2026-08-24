@@ -200,7 +200,6 @@
       "userRatingCount": 404
     },
     {
-      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/27/03/ba/2703ba0c-21e8-dc55-4979-1aa1211554a6/5e43c33d-fc23-4025-af18-35f6ff96e481_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2020-11-23_at_11.42.17.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/1d/bd/5a/1dbd5a74-40bc-507c-6fb4-e7b182b2c7f9/mzl.wrzyfeio.png/392x696bb.png",
@@ -213,12 +212,13 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/65/4f/8a/654f8a8d-85f0-02b9-1f59-a6014e253ffc/mzl.murqcmxp.png/552x414bb.png"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/33/e9/9833e9ee-fb56-df24-0ec1-d7eb12308d05/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/33/e9/9833e9ee-fb56-df24-0ec1-d7eb12308d05/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/33/e9/9833e9ee-fb56-df24-0ec1-d7eb12308d05/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
       "artistViewUrl": "https://apps.apple.com/cn/developer/teamspeak-systems-inc/id577628513?uo=4",
-      "features": [
-        "iosUniversal"
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/33/e9/9833e9ee-fb56-df24-0ec1-d7eb12308d05/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/33/e9/9833e9ee-fb56-df24-0ec1-d7eb12308d05/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
+      "isGameCenterEnabled": false,
+      "advisories": [
+        "无限制网页访问"
       ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
@@ -349,16 +349,11 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "advisories": [
-        "无限制网页访问"
-      ],
       "kind": "software",
-      "minimumOsVersion": "15.6",
-      "releaseNotes": "- Fixed a bug that caused connection attempts to fail when joining servers requiring a password.",
-      "averageUserRatingForCurrentVersion": 2.33333,
+      "features": [
+        "iosUniversal"
+      ],
       "sellerUrl": "https://www.teamspeak.com",
-      "averageUserRating": 2.33333,
-      "trackCensoredName": "TeamSpeak 3",
       "languageCodesISO2A": [
         "EN",
         "DE",
@@ -367,10 +362,13 @@
       ],
       "fileSizeBytes": "34310144",
       "formattedPrice": "¥8.00",
-      "contentAdvisoryRating": "17+",
       "userRatingCountForCurrentVersion": 123,
-      "trackViewUrl": "https://apps.apple.com/cn/app/teamspeak-3/id577628510?uo=4",
       "trackContentRating": "17+",
+      "averageUserRatingForCurrentVersion": 2.33333,
+      "averageUserRating": 2.33333,
+      "trackCensoredName": "TeamSpeak 3",
+      "trackViewUrl": "https://apps.apple.com/cn/app/teamspeak-3/id577628510?uo=4",
+      "contentAdvisoryRating": "17+",
       "artistId": 577628513,
       "artistName": "TeamSpeak Systems Inc",
       "genres": [
@@ -382,19 +380,21 @@
         "6005",
         "6000"
       ],
-      "releaseDate": "2012-12-10T19:20:52Z",
-      "trackName": "TeamSpeak 3",
-      "trackId": 577628510,
+      "bundleId": "com.teamspeak.teamspeak",
+      "isVppDeviceBasedLicensingEnabled": true,
       "primaryGenreName": "Social Networking",
       "primaryGenreId": 6005,
       "sellerName": "TeamSpeak Systems Inc",
-      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2025-11-25T19:12:52Z",
+      "releaseDate": "2012-12-10T19:20:52Z",
+      "trackId": 577628510,
+      "trackName": "TeamSpeak 3",
       "version": "3.8.2",
       "wrapperType": "software",
       "currency": "CNY",
       "description": "Voice Chat Communication used by Professional Gamers.\n\n---------- \n\nTeamSpeak is an advanced voice chat and communication app that enables groups of people to communicate and share information with each other via the internet or through private networks, whether they are using smartphones or desktop PCs/Macs.\n\nFEATURES:\n● Ad & Spam Free\n● Low data usage\n● Minimal CPU Usage\n● Advanced Permission Controls\n● Offline/LAN functionality\n● Use on public or your own private server\n● Use Anonymously\n● Synchronise your bookmarks across devices\n● Push-To-Talk (PTT) and voice activation\n● Connect to multiple servers & channels\n● Send and receive group and direct messages\n● Identity and contacts management\n● See detailed channel and player information\n● Get player status notifications\n● Universal app for iPhone/iPod/iPad\n\nThe preferred voice chat solution for online gamers, friends and family and small businesses world-wide. TeamSpeak lets you chat with fellow team mates, discuss strategy in real-time, or facilitate online events.\n\nTeamSpeak can be run on either your own private server where you can securely connect with and chat to your guild, clan or colleagues. Or jump on one of the many public servers and channels.\n\nTeamSpeak3 for iOS is optimized to enhance your mobile device experience and keeps you connected with your peers while you're on-the-go. \n\nTo communicate with other users using TeamSpeak, you must be connected to a TeamSpeak 3 server (directly connecting to users is not possible).\n\nTo view a list of public servers, download the TeamSpeak desktop client and choose Connections > Server List.\n\nTo join a private server, contact your clan/guild/group's administrator for the information you would need to connect.\n\nOur team of developers are constantly working on improving the solution and to add new features to give you an even better experience.\n\nIf you find a specific bug or crash issue please let us know.  In most cases our developers will find and squash bugs or fix crash issues quickly, especially if you can aid us with information regarding your hardware or environment, and how to reproduce the issue. You may even get a reward!",
-      "bundleId": "com.teamspeak.teamspeak",
+      "minimumOsVersion": "15.6",
+      "releaseNotes": "- Fixed a bug that caused connection attempts to fail when joining servers requiring a password.",
       "userRatingCount": 123,
       "country": "CHN"
     },
@@ -411,14 +411,8 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/65/4f/8a/654f8a8d-85f0-02b9-1f59-a6014e253ffc/mzl.murqcmxp.png/552x414bb.png"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/33/e9/9833e9ee-fb56-df24-0ec1-d7eb12308d05/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/33/e9/9833e9ee-fb56-df24-0ec1-d7eb12308d05/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/33/e9/9833e9ee-fb56-df24-0ec1-d7eb12308d05/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/us/developer/teamspeak-systems-inc/id577628513?uo=4",
       "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -552,10 +546,15 @@
         "Unrestricted Web Access"
       ],
       "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/us/developer/teamspeak-systems-inc/id577628513?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/33/e9/9833e9ee-fb56-df24-0ec1-d7eb12308d05/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/33/e9/9833e9ee-fb56-df24-0ec1-d7eb12308d05/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
+      "minimumOsVersion": "15.6",
       "averageUserRatingForCurrentVersion": 2.49366,
       "sellerUrl": "https://www.teamspeak.com",
-      "averageUserRating": 2.49366,
-      "trackCensoredName": "TeamSpeak 3",
       "languageCodesISO2A": [
         "EN",
         "DE",
@@ -564,35 +563,36 @@
       ],
       "fileSizeBytes": "34310144",
       "formattedPrice": "$0.99",
-      "contentAdvisoryRating": "17+",
       "userRatingCountForCurrentVersion": 237,
-      "trackViewUrl": "https://apps.apple.com/us/app/teamspeak-3/id577628510?uo=4",
       "trackContentRating": "17+",
-      "minimumOsVersion": "15.6",
-      "artistId": 577628513,
-      "artistName": "TeamSpeak Systems Inc",
       "genres": [
         "Social Networking",
         "Business"
       ],
+      "artistId": 577628513,
+      "artistName": "TeamSpeak Systems Inc",
       "price": 0.99,
-      "bundleId": "com.teamspeak.teamspeak",
       "primaryGenreName": "Social Networking",
       "primaryGenreId": 6005,
-      "releaseDate": "2012-12-10T19:20:52Z",
       "isVppDeviceBasedLicensingEnabled": true,
+      "trackId": 577628510,
+      "trackName": "TeamSpeak 3",
       "genreIds": [
         "6005",
         "6000"
       ],
       "currentVersionReleaseDate": "2025-11-25T19:12:52Z",
-      "trackId": 577628510,
-      "trackName": "TeamSpeak 3",
+      "releaseDate": "2012-12-10T19:20:52Z",
       "releaseNotes": "- Fixed a bug that caused connection attempts to fail when joining servers requiring a password.",
       "version": "3.8.2",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Voice Chat Communication used by Professional Gamers.\n\n---------- \n\nTeamSpeak is an advanced voice chat and communication app that enables groups of people to communicate and share information with each other via the internet or through private networks, whether they are using smartphones or desktop PCs/Macs.\n\nFEATURES:\n● Ad & Spam Free\n● Low data usage\n● Minimal CPU Usage\n● Advanced Permission Controls\n● Offline/LAN functionality\n● Use on public or your own private server\n● Use Anonymously\n● Synchronise your bookmarks across devices\n● Push-To-Talk (PTT) and voice activation\n● Connect to multiple servers & channels\n● Send and receive group and direct messages\n● Identity and contacts management\n● See detailed channel and player information\n● Get player status notifications\n● Universal app for iPhone/iPod/iPad\n\nThe preferred voice chat solution for online gamers, friends and family and small businesses world-wide. TeamSpeak lets you chat with fellow team mates, discuss strategy in real-time, or facilitate online events.\n\nTeamSpeak can be run on either your own private server where you can securely connect with and chat to your guild, clan or colleagues. Or jump on one of the many public servers and channels.\n\nTeamSpeak3 for iOS is optimized to enhance your mobile device experience and keeps you connected with your peers while you're on-the-go. \n\nTo communicate with other users using TeamSpeak, you must be connected to a TeamSpeak 3 server (directly connecting to users is not possible).\n\nTo view a list of public servers, download the TeamSpeak desktop client and choose Connections > Server List.\n\nTo join a private server, contact your clan/guild/group's administrator for the information you would need to connect.\n\nOur team of developers are constantly working on improving the solution and to add new features to give you an even better experience.\n\nIf you find a specific bug or crash issue please let us know.  In most cases our developers will find and squash bugs or fix crash issues quickly, especially if you can aid us with information regarding your hardware or environment, and how to reproduce the issue. You may even get a reward!",
+      "bundleId": "com.teamspeak.teamspeak",
+      "trackCensoredName": "TeamSpeak 3",
+      "trackViewUrl": "https://apps.apple.com/us/app/teamspeak-3/id577628510?uo=4",
+      "contentAdvisoryRating": "17+",
+      "averageUserRating": 2.49366,
       "sellerName": "TeamSpeak Systems Inc",
       "userRatingCount": 237,
       "country": "USA"
@@ -612,9 +612,9 @@
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/33/e9/9833e9ee-fb56-df24-0ec1-d7eb12308d05/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
+      "artistViewUrl": "https://apps.apple.com/de/developer/teamspeak-systems-inc/id577628513?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/33/e9/9833e9ee-fb56-df24-0ec1-d7eb12308d05/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/33/e9/9833e9ee-fb56-df24-0ec1-d7eb12308d05/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -748,11 +748,9 @@
         "Unbeschränkter Zugang zum Web"
       ],
       "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/de/developer/teamspeak-systems-inc/id577628513?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/33/e9/9833e9ee-fb56-df24-0ec1-d7eb12308d05/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/33/e9/9833e9ee-fb56-df24-0ec1-d7eb12308d05/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
-      "minimumOsVersion": "15.6",
-      "sellerUrl": "https://www.teamspeak.com",
+      "features": [
+        "iosUniversal"
+      ],
       "languageCodesISO2A": [
         "EN",
         "DE",
@@ -764,35 +762,37 @@
       "userRatingCountForCurrentVersion": 404,
       "trackContentRating": "17+",
       "averageUserRatingForCurrentVersion": 2.67822,
-      "price": 0.99,
+      "sellerUrl": "https://www.teamspeak.com",
+      "minimumOsVersion": "15.6",
+      "contentAdvisoryRating": "17+",
+      "trackCensoredName": "TeamSpeak 3",
+      "trackViewUrl": "https://apps.apple.com/de/app/teamspeak-3/id577628510?uo=4",
+      "averageUserRating": 2.67822,
       "artistId": 577628513,
       "artistName": "TeamSpeak Systems Inc",
-      "bundleId": "com.teamspeak.teamspeak",
+      "genres": [
+        "Soziale Netze",
+        "Wirtschaft"
+      ],
+      "price": 0.99,
       "trackId": 577628510,
       "trackName": "TeamSpeak 3",
+      "primaryGenreName": "Social Networking",
+      "primaryGenreId": 6005,
       "genreIds": [
         "6005",
         "6000"
       ],
+      "releaseDate": "2012-12-10T19:20:52Z",
+      "sellerName": "TeamSpeak Systems Inc",
+      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2025-11-25T19:12:52Z",
       "releaseNotes": "- Fixed a bug that caused connection attempts to fail when joining servers requiring a password.",
       "version": "3.8.2",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Voice Chat Communication used by Professional Gamers.\n\n---------- \n\nTeamSpeak is an advanced voice chat and communication app that enables groups of people to communicate and share information with each other via the internet or through private networks, whether they are using smartphones or desktop PCs/Macs.\n\nFEATURES:\n● Ad & Spam Free\n● Low data usage\n● Minimal CPU Usage\n● Advanced Permission Controls\n● Offline/LAN functionality\n● Use on public or your own private server\n● Use Anonymously\n● Synchronise your bookmarks across devices\n● Push-To-Talk (PTT) and voice activation\n● Connect to multiple servers & channels\n● Send and receive group and direct messages\n● Identity and contacts management\n● See detailed channel and player information\n● Get player status notifications\n● Universal app for iPhone/iPod/iPad\n\nThe preferred voice chat solution for online gamers, friends and family and small businesses world-wide. TeamSpeak lets you chat with fellow team mates, discuss strategy in real-time, or facilitate online events.\n\nTeamSpeak can be run on either your own private server where you can securely connect with and chat to your guild, clan or colleagues. Or jump on one of the many public servers and channels.\n\nTeamSpeak3 for iOS is optimized to enhance your mobile device experience and keeps you connected with your peers while you're on-the-go. \n\nTo communicate with other users using TeamSpeak, you must be connected to a TeamSpeak 3 server (directly connecting to users is not possible).\n\nTo view a list of public servers, download the TeamSpeak desktop client and choose Connections > Server List.\n\nTo join a private server, contact your clan/guild/group's administrator for the information you would need to connect.\n\nOur team of developers are constantly working on improving the solution and to add new features to give you an even better experience.\n\nIf you find a specific bug or crash issue please let us know.  In most cases our developers will find and squash bugs or fix crash issues quickly, especially if you can aid us with information regarding your hardware or environment, and how to reproduce the issue. You may even get a reward!",
-      "trackCensoredName": "TeamSpeak 3",
-      "trackViewUrl": "https://apps.apple.com/de/app/teamspeak-3/id577628510?uo=4",
-      "contentAdvisoryRating": "17+",
-      "averageUserRating": 2.67822,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseDate": "2012-12-10T19:20:52Z",
-      "sellerName": "TeamSpeak Systems Inc",
-      "primaryGenreName": "Social Networking",
-      "primaryGenreId": 6005,
-      "genres": [
-        "Soziale Netze",
-        "Wirtschaft"
-      ],
+      "bundleId": "com.teamspeak.teamspeak",
       "userRatingCount": 404,
       "country": "DEU"
     },

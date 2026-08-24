@@ -191,6 +191,7 @@
       "userRatingCount": 113832
     },
     {
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8a/b2/bb/8ab2bb37-578b-3444-82d4-746a8a6e2a68/1_iphone_us-6-9.jpg/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/87/7e/48/877e48f8-28a2-0606-e8cd-b79a336183eb/2_iphone_us_6-9.jpg/320x480bb.jpg",
@@ -205,11 +206,11 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dc/4f/59/dc4f5935-dc7e-954b-d07c-dc21025c50fd/4_ipad_us_12-9.jpg/576x768bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0b/e2/9c/0be29cb1-3b6c-3d65-7ec5-ee887d68cbe0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0b/e2/9c/0be29cb1-3b6c-3d65-7ec5-ee887d68cbe0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0b/e2/9c/0be29cb1-3b6c-3d65-7ec5-ee887d68cbe0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/us/developer/onskeskyen-aps/id1529079964?uo=4",
-      "isGameCenterEnabled": false,
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/07/6f/d7076f0a-5583-00b3-5631-a90ab959adf5/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -339,13 +340,13 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "advisories": [],
       "kind": "software",
-      "features": [
-        "iosUniversal"
-      ],
+      "artistViewUrl": "https://apps.apple.com/us/developer/onskeskyen-aps/id1529079964?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/07/6f/d7076f0a-5583-00b3-5631-a90ab959adf5/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/07/6f/d7076f0a-5583-00b3-5631-a90ab959adf5/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+      "releaseNotes": "We've fixed some minor bugs and polished up the app for an even smoother experience – because you deserve the best!\nAnd just a reminder:\nCreate Wishlists that are easy to share and update. Birthday, Christmas, or just because – we’ve got you!\nAdd Anything You Like – Found something you love online? Add it to your wishlist in seconds.\nShare with Friends & Family – Let your loved ones know exactly what you want and avoid those awkward \"Oops, I already have this\" moments.\nMaking your dream list, saving it, and sharing it has never been this easy. Download the update and make every occasion that much more exciting!",
+      "averageUserRatingForCurrentVersion": 4.77565,
       "sellerUrl": "https://partner.gowish.com",
-      "trackCensoredName": "GoWish - Your Digital Wishlist",
       "languageCodesISO2A": [
         "DA",
         "NL",
@@ -360,39 +361,38 @@
         "ES",
         "SV"
       ],
-      "fileSizeBytes": "130056192",
+      "fileSizeBytes": "129656832",
       "formattedPrice": "Free",
-      "contentAdvisoryRating": "4+",
-      "userRatingCountForCurrentVersion": 161798,
-      "trackViewUrl": "https://apps.apple.com/us/app/gowish-your-digital-wishlist/id1605170923?uo=4",
+      "userRatingCountForCurrentVersion": 163194,
       "trackContentRating": "4+",
-      "averageUserRating": 4.77623,
-      "averageUserRatingForCurrentVersion": 4.77623,
-      "releaseNotes": "We've fixed some minor bugs and polished up the app for an even smoother experience – because you deserve the best!\nAnd just a reminder:\nCreate Wishlists that are easy to share and update. Birthday, Christmas, or just because – we’ve got you!\nAdd Anything You Like – Found something you love online? Add it to your wishlist in seconds.\nShare with Friends & Family – Let your loved ones know exactly what you want and avoid those awkward \"Oops, I already have this\" moments.\nMaking your dream list, saving it, and sharing it has never been this easy. Download the update and make every occasion that much more exciting!",
       "artistId": 1529079964,
       "artistName": "Onskeskyen ApS",
       "genres": [
         "Lifestyle"
       ],
       "price": 0,
-      "bundleId": "com.gowish.app",
-      "releaseDate": "2023-04-03T07:00:00Z",
       "primaryGenreName": "Lifestyle",
       "primaryGenreId": 6012,
+      "bundleId": "com.gowish.app",
       "sellerName": "Onskeskyen ApS",
-      "trackId": 1605170923,
-      "trackName": "GoWish - Your Digital Wishlist",
       "genreIds": [
         "6012"
       ],
       "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-08-14T05:54:07Z",
-      "version": "9.0.7",
+      "currentVersionReleaseDate": "2026-08-20T07:05:12Z",
+      "releaseDate": "2023-04-03T07:00:00Z",
+      "version": "9.0.9",
       "wrapperType": "software",
       "currency": "USD",
       "description": "What can GoWish be used for?\nGoWish is your digital wishlist, where you can create and save all your wishes in one place. Download the GoWish app, create a profile, and add wishes that you can easily share with all your friends. The app makes it easy for your friends and family to reserve and purchase your wishes.\n\nWith the app, you can create your gift wishes wherever you are. You can add wishes to your wishlists from any online store in the world - there are no limitations.\n\nAlso, use the app to keep track of things you need to remember to buy for yourself.\nIt has never been easier to share a wishlist than with the GoWish app. Share wishlists with your friends using the app, share via SMS, WhatsApp, Messenger, email, or one of your other favorite media.\n\nAvoid duplicate gifts:\nOne of the significant advantages of using the app is that you won't receive duplicate gifts for birthdays, Christmas, confirmations, weddings, etc. Your guests can see what is being reserved by other guests - without you, of course, being able to see it yourself.\nYou can use the GoWish app, or you can use GoWish through your browser. As a user, you always have your wishlist at hand. Easy and simple.\n\nSuper easy to use:\nIf you come across something you want, you can save it in two ways.\n\nIf it's on a website, you can save your wish directly with a single click on the wish button in your share-menu on your iPhone or iPad.\nYou can also copy the link to your gift wish and then go to the app and press \"create wish automatically,\" paste the link, and the app takes care of the rest :)\n\nWe recommend that you use one of the two automatic methods to create your wishes, making it super easy for your friends to find and buy exactly what you want.\nAll your wishes end up in the same place and are accessible, whether you use the app on your iPhone, iPad, or log in to our website.\n\nBenefits of using the digital universe og GoWish:\n\nEasily create all kinds of wishes from all online stores worldwide\nSave wishes online with just one click on the wish button\nYou can create all the wishlists you need\nYou can create a wishlist with your partner - e.g., a wedding wishlist\nYou can create wishlists on behalf of family members or friends\nYou can share wishlists digitally with your friends and family\nAvoid wrong gifts or two of the same gift\nGet inspiration from friends and family when exchanging wishlists\nYou can follow your friends' wishlists\nYou can find inspiration for your next wishlist from all the coolest brands\n\nGoWish - wishes should be saved, not forgotten.",
+      "averageUserRating": 4.77565,
+      "trackCensoredName": "GoWish - Your Digital Wishlist",
+      "trackViewUrl": "https://apps.apple.com/us/app/gowish-your-digital-wishlist/id1605170923?uo=4",
+      "contentAdvisoryRating": "4+",
       "minimumOsVersion": "16.4",
-      "userRatingCount": 161798,
+      "trackId": 1605170923,
+      "trackName": "GoWish - Your Digital Wishlist",
+      "userRatingCount": 163194,
       "country": "USA"
     }
   ]

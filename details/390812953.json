@@ -3,9 +3,7 @@
   "results": [
     {
       "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
+      "advisories": [],
       "supportedDevices": [
         "MacDesktop-MacDesktop",
         "iPhone5s-iPhone5s",
@@ -136,7 +134,9 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "advisories": [],
+      "features": [
+        "iosUniversal"
+      ],
       "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/b5/6c/6a/b56c6a35-f5f7-7126-5854-ca789881cc40/pr_source.png/392x696bb.png",
@@ -162,50 +162,50 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/a1/1a/68/a11a68e3-7c0a-ed18-192b-16cd506463e4/pr_source.png/576x768bb.png"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/1f/4c/09/1f4c0947-6033-c320-d792-22422f82bf98/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/de/developer/rhine-o-enterprises-llc/id375611282?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/1f/4c/09/1f4c0947-6033-c320-d792-22422f82bf98/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/1f/4c/09/1f4c0947-6033-c320-d792-22422f82bf98/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/1f/4c/09/1f4c0947-6033-c320-d792-22422f82bf98/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/de/developer/rhine-o-enterprises-llc/id375611282?uo=4",
+      "minimumOsVersion": "12.4",
       "artistId": 375611282,
       "artistName": "Rhine-o Enterprises LLC",
-      "genres": [
-        "Bildung",
-        "Dienst­programme"
-      ],
       "price": 1.99,
-      "primaryGenreName": "Education",
-      "primaryGenreId": 6017,
       "bundleId": "com.rhine-o.teamshake",
+      "sellerName": "Rhine-o Enterprises LLC",
       "genreIds": [
         "6017",
         "6002"
       ],
       "trackId": 390812953,
       "trackName": "Team Shake",
-      "sellerName": "Rhine-o Enterprises LLC",
+      "releaseNotes": "Version 3.0.3 fixes a bug with iOS 12.x which causes crashes when editing a player's properties\nVersion 3.0.2 brings the ability to assign multiple subteams and oppose teams to iPad and Mac devices.  XLSX files will now be exported with the same order as is seen on the screen.\nVersion 3.0.1 is a minor bug fix release that fixes some problems with the import of list via CSV and XLSX files\nVersion 3.0.0 is a major update bringing in some major features:\n- Team Shake now supports simultaneously assigning players to multiple subteams and / or oppose teams at the same time.\n- Subteams / Oppose teams can now have customized names to make selection easier\n- Subteams / Oppose teams can now be enabled or disabled globally so that teams can be made quickly without subteams / oppose teams.  In particular, Balance Teams Strengths will work when separate Male / Female teams are created.\n- Team Selection algorithms have been update to be more compatible with each other\n- A new options to choose team color automatically has been created.\n- New option to choose the default number of teams / people for a new list has been added.\n- New option to choose if a new list should default to creating a # of Teams or a # of People has been added.\n- Subteam X in Team X option has been added to all subteams to be assigned to particular teams\n- Fonts and Font Sizes can now be changed for both the main screen and the teams screen\n- Team Shake can now force all teams to have an even number of players.\n- An option has been added to show user strength on the Teams Screen\n- An option has been added to show gender on the Teams Screen\n- All subteams / oppose teams can now be cleared with a single action.\n- If a subteam is larger the team size, the subteam will be split into 2 or more subteams rather than ignoring the subteam.\n- If an oppose team is larger than the number of teams, it will be distributed evenly between teams so that the users are as separated as possible rather than ignoring the oppose team.",
+      "primaryGenreName": "Education",
+      "primaryGenreId": 6017,
       "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2021-11-16T06:48:26Z",
-      "releaseNotes": "Version 3.0.3 fixes a bug with iOS 12.x which causes crashes when editing a player's properties\nVersion 3.0.2 brings the ability to assign multiple subteams and oppose teams to iPad and Mac devices.  XLSX files will now be exported with the same order as is seen on the screen.\nVersion 3.0.1 is a minor bug fix release that fixes some problems with the import of list via CSV and XLSX files\nVersion 3.0.0 is a major update bringing in some major features:\n- Team Shake now supports simultaneously assigning players to multiple subteams and / or oppose teams at the same time.\n- Subteams / Oppose teams can now have customized names to make selection easier\n- Subteams / Oppose teams can now be enabled or disabled globally so that teams can be made quickly without subteams / oppose teams.  In particular, Balance Teams Strengths will work when separate Male / Female teams are created.\n- Team Selection algorithms have been update to be more compatible with each other\n- A new options to choose team color automatically has been created.\n- New option to choose the default number of teams / people for a new list has been added.\n- New option to choose if a new list should default to creating a # of Teams or a # of People has been added.\n- Subteam X in Team X option has been added to all subteams to be assigned to particular teams\n- Fonts and Font Sizes can now be changed for both the main screen and the teams screen\n- Team Shake can now force all teams to have an even number of players.\n- An option has been added to show user strength on the Teams Screen\n- An option has been added to show gender on the Teams Screen\n- All subteams / oppose teams can now be cleared with a single action.\n- If a subteam is larger the team size, the subteam will be split into 2 or more subteams rather than ignoring the subteam.\n- If an oppose team is larger than the number of teams, it will be distributed evenly between teams so that the users are as separated as possible rather than ignoring the oppose team.",
       "version": "3.0.3",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Team Shake provides a technological and environmentally friendly way to choose teams for board games, sporting events, tournaments, school projects or anytime groups are required. The newest release brings many new features including full iPad support, balancing teams based on skill or gender, importing users from a file, enabling video output, and sharing teams via facebook or email. \n\nTeam Shake is the premier iOS App for creating teams. Instead of a hat and scraps of paper, the user enters his friends' names in his iPhone and gives it a shake. The screen will then display a random set of color-coded teams. These teams can immediately be used for game play or shared via facebook or email.   The quick and easy selection of random (or balanced) teams eliminates fighting over who will be on which team. Innovative use of the iPhone shake gesture gives users the satisfying feeling of shaking a virtual hat without the trouble of carrying around an actual hat. Conventional buttons can also be used for those who would rather not shake their expensive hardware about.  \n\nThe app is designed with ease of use and simplicity in mind. Names can easily be entered with the onscreen keyboard, chosen from the user's contacts, or imported from a file. The email and facebook functions document the members of each individual team as well as preserving the team number and color assigned by the app. For repeated use of Team Shake, lists of friends can be easily saved and loaded later. The current list is also automatically saved so that if you exit the app, or even reboot the device, changes will not be lost. For teachers and others with large lists of people, Team Shake supports the ability to import teams from text or csv files.\n\nIf you have any problems, feature requests, or comments please send an email to support@rhine-o.com. \n\nFeatures:\n\n* Create 1 to 64 random teams\n* Create completely random or balanced teams\n* Full iPad support\n* Eliminates fighting over choosing teams\n* Share / Save teams via email or Facebook\n* Teams can be chosen by the number of teams or by the size of teams.\n* Save lists of friends for later games\n* Import lists from email or spreadsheet\n* Export lists and options for use on another device\n* Satisfying feeling of shaking a “virtual” hat to create teams\n* Animated shaking hat\n* Entry of names via onscreen keyboard\n* Entry of names via iPhone contacts\n* Temporarily disable people who are absent\n* Set groups of people to always be on the same team\n* Set groups of people to always be on different teams\n* Set user strength to make more even teams (now supports fully balanced teams)\n* 5 users strengths level\n* Pick a single random person from the list of players\n* User strength indicator on the main screen (can be disabled in options)\n* Number of active players and total players is now displayed on the main screen\n* Video Out Support\n* Option to Sort Teams by Name\n* Option to balance male / female team members\n* \"Equal Ability\" option to create teams where all players have the same strength\n* Option to create separate male and female teams\n* Configurable Team Colors\n* Configurable Team Names\n* Print Support\n* Export Teams in CSV or XLS Format\n* Team Shake now supports simultaneously assigning players to multiple subteams and / or oppose teams at the same time.\n* Subteams / Oppose teams can now have customized names to make selection easier\n* Subteams / Oppose teams can now be enabled or disabled globally so that teams can be made quickly without subteams / oppose teams.  In particular, Balance Teams Strengths will work when separate Male / Female teams are created.\n\nYappler-Tags: Teams, Groups, Random, Hat, Entertainment, Games, Utilities",
+      "averageUserRatingForCurrentVersion": 4.6517,
+      "averageUserRating": 4.6517,
+      "trackCensoredName": "Team Shake",
       "languageCodesISO2A": [
         "EN"
       ],
       "fileSizeBytes": "7949312",
       "formattedPrice": "1,99 €",
-      "averageUserRatingForCurrentVersion": 4.65214,
-      "sellerUrl": "http://teamshake.rhine-o.com",
-      "userRatingCountForCurrentVersion": 1308,
-      "trackContentRating": "4+",
-      "trackCensoredName": "Team Shake",
-      "trackViewUrl": "https://apps.apple.com/de/app/team-shake/id390812953?uo=4",
       "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.65214,
-      "minimumOsVersion": "12.4",
+      "userRatingCountForCurrentVersion": 1315,
+      "trackViewUrl": "https://apps.apple.com/de/app/team-shake/id390812953?uo=4",
+      "trackContentRating": "4+",
+      "sellerUrl": "http://teamshake.rhine-o.com",
       "releaseDate": "2010-10-09T16:31:21Z",
-      "userRatingCount": 1308,
+      "genres": [
+        "Bildung",
+        "Dienst­programme"
+      ],
+      "userRatingCount": 1315,
       "country": "DEU"
     }
   ]

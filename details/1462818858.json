@@ -2,10 +2,11 @@
   "resultCount": 1,
   "results": [
     {
-      "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
       ],
+      "isGameCenterEnabled": false,
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -135,21 +136,10 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "advisories": [],
       "kind": "software",
       "artistViewUrl": "https://apps.apple.com/jp/developer/zoom-communications-inc/id530594111?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/d1/69/38d169a1-8804-b69a-cd33-a77d96105e55/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/d1/69/38d169a1-8804-b69a-cd33-a77d96105e55/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.jpg",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/42/c1/47/42c1472f-8739-735d-8280-3aa0d4f10d1d/a83d387b-0fb0-4ce7-8032-481100113811_1.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/17/bc/ef/17bcefdb-e664-67f7-9281-54037d0bea41/3b51a48b-b224-4973-9ff7-7aa684d1eb0a_2.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/a4/e3/e5a4e3bb-cbd5-ce05-f872-f2c3cdf0ebd7/0d98e095-3e77-4540-87b9-2f560c89fd8f_3.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/73/72/52/737252ea-05e1-8b71-eedb-8946f6ac317c/b406b3a1-69d4-44d1-83df-d024f7a4b1f4_4.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cf/37/13/cf371350-6e1e-bd62-b559-75354499f49e/94f52558-b97f-4d33-b1b1-647d5f71aa92_5.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/70/37/ea/7037ea5c-a4d9-a572-6dd2-1d709d2f6523/0d5a8f4c-9a0b-4a1b-b09f-43ea205b54e1_6.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5e/ac/b7/5eacb79c-252c-7c18-5ef5-e3bada65d978/9467a5f9-9f1e-48de-95ac-6bb460a0d48e_7.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/05/61/d7/0561d761-3da6-24d8-3ab4-1aac3d2240d3/fed3e466-17ac-48c2-8b63-d8cf8dbd0de9_8.jpg/392x696bb.jpg"
-      ],
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9b/fe/14/9bfe1411-7f7b-51a0-1b8d-a9d5d8608bd7/0413c99a-4b43-4164-b529-b3ce3db92d7a_1.jpg/552x414bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/da/74/38/da7438e4-3126-b8c4-3557-5c8628063dc4/fccde8ab-5a1c-4504-85c1-9e96f13d4799_2.jpg/552x414bb.jpg",
@@ -161,33 +151,47 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/d1/69/38d169a1-8804-b69a-cd33-a77d96105e55/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
-      "releaseNotes": "Bug fixes and improvements",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/42/c1/47/42c1472f-8739-735d-8280-3aa0d4f10d1d/a83d387b-0fb0-4ce7-8032-481100113811_1.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/17/bc/ef/17bcefdb-e664-67f7-9281-54037d0bea41/3b51a48b-b224-4973-9ff7-7aa684d1eb0a_2.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/a4/e3/e5a4e3bb-cbd5-ce05-f872-f2c3cdf0ebd7/0d98e095-3e77-4540-87b9-2f560c89fd8f_3.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/73/72/52/737252ea-05e1-8b71-eedb-8946f6ac317c/b406b3a1-69d4-44d1-83df-d024f7a4b1f4_4.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cf/37/13/cf371350-6e1e-bd62-b559-75354499f49e/94f52558-b97f-4d33-b1b1-647d5f71aa92_5.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/70/37/ea/7037ea5c-a4d9-a572-6dd2-1d709d2f6523/0d5a8f4c-9a0b-4a1b-b09f-43ea205b54e1_6.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5e/ac/b7/5eacb79c-252c-7c18-5ef5-e3bada65d978/9467a5f9-9f1e-48de-95ac-6bb460a0d48e_7.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/05/61/d7/0561d761-3da6-24d8-3ab4-1aac3d2240d3/fed3e466-17ac-48c2-8b63-d8cf8dbd0de9_8.jpg/392x696bb.jpg"
+      ],
       "minimumOsVersion": "17.0",
+      "artistId": 530594111,
+      "artistName": "Zoom Communications, Inc.",
       "genres": [
         "ビジネス",
         "仕事効率化"
       ],
-      "artistId": 530594111,
-      "artistName": "Zoom Communications, Inc.",
-      "bundleId": "us.zoom.videomeetings4intune",
-      "releaseDate": "2019-05-24T00:24:35Z",
-      "trackId": 1462818858,
-      "trackName": "Zoom Workplace for Intune",
+      "price": 0,
       "genreIds": [
         "6000",
         "6007"
       ],
       "isVppDeviceBasedLicensingEnabled": true,
-      "sellerName": "Zoom Communications, Inc.",
+      "primaryGenreName": "Business",
+      "primaryGenreId": 6000,
+      "bundleId": "us.zoom.videomeetings4intune",
+      "releaseDate": "2019-05-24T00:24:35Z",
       "currentVersionReleaseDate": "2026-07-21T06:37:10Z",
+      "trackId": 1462818858,
+      "trackName": "Zoom Workplace for Intune",
+      "releaseNotes": "Bug fixes and improvements",
       "version": "7.1.5",
       "wrapperType": "software",
       "currency": "JPY",
       "description": "Zoom Workplace for Intune is for admins to organize and help protect BYOD environments with mobile application management (MAM). This app helps admins to protect corporate data while keeping employees connected.\n\nReimagine how you work with Zoom Workplace, an all-in-one, AI-powered collaboration platform that combines team chat, meetings, phone, whiteboard, calendar, mail, notes, and more.\n\nIf you are looking for the end-user version of Zoom Workplace, download it here: https://itunes.apple.com/us/app/zoom-cloud-meetings/id546505307?mt=8\n\nZoom Workplace for Intune gives enterprise users all the features they expect from Zoom, while providing IT administrators expanded mobile app management capabilities to help prevent leakage of company information. And in the event of a lost or stolen device, IT can remove Zoom Workplace from the iPhone or iPad, along with any sensitive data associated with it.\n\nIMPORTANT: This software requires your company’s work account and a Microsoft managed environment. Some functionality may not be available in all countries. If you have issues with this software or have questions about the use of it (including questions about your company’s privacy policy), please contact your company’s IT Administrator.\n\nFollow us on social media @zoom\n\nHave a question? Contact us at http://support.zoom.us.",
-      "averageUserRatingForCurrentVersion": 4.50438,
+      "averageUserRating": 4.50253,
       "trackCensoredName": "Zoom Workplace for Intune",
       "trackViewUrl": "https://apps.apple.com/jp/app/zoom-workplace-for-intune/id1462818858?uo=4",
       "contentAdvisoryRating": "4+",
+      "averageUserRatingForCurrentVersion": 4.50253,
+      "sellerUrl": "https://zoom.us",
       "languageCodesISO2A": [
         "NL",
         "EN",
@@ -207,16 +211,12 @@
         "TR",
         "VI"
       ],
-      "sellerUrl": "https://zoom.us",
       "fileSizeBytes": "342665216",
       "formattedPrice": "無料",
-      "userRatingCountForCurrentVersion": 3537,
+      "userRatingCountForCurrentVersion": 3556,
       "trackContentRating": "4+",
-      "averageUserRating": 4.50438,
-      "primaryGenreName": "Business",
-      "primaryGenreId": 6000,
-      "price": 0,
-      "userRatingCount": 3537,
+      "sellerName": "Zoom Communications, Inc.",
+      "userRatingCount": 3556,
       "country": "JPN"
     }
   ]

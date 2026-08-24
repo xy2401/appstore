@@ -5,9 +5,6 @@
       "artistViewUrl": "https://apps.apple.com/fr/developer/falling-fruit/id951506043?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/0e/c8/1c0ec8e4-c42f-fae3-741b-3984d55bd45f/AppIcon-0-1x_U007epad-0-1-85-220-0.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/0e/c8/1c0ec8e4-c42f-fae3-741b-3984d55bd45f/AppIcon-0-1x_U007epad-0-1-85-220-0.png/100x100bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
       "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
@@ -156,35 +153,38 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/0e/c8/1c0ec8e4-c42f-fae3-741b-3984d55bd45f/AppIcon-0-1x_U007epad-0-1-85-220-0.png/512x512bb.jpg",
-      "trackCensoredName": "Falling Fruit",
-      "trackViewUrl": "https://apps.apple.com/fr/app/falling-fruit/id380859409?uo=4",
+      "features": [
+        "iosUniversal"
+      ],
       "contentAdvisoryRating": "4+",
       "averageUserRating": 2.26667,
-      "sellerName": "Falling Fruit",
-      "artistId": 951506043,
-      "artistName": "Falling Fruit",
-      "trackId": 380859409,
-      "trackName": "Falling Fruit",
       "genres": [
         "Style de vie",
         "Cuisine et boissons"
       ],
-      "currentVersionReleaseDate": "2026-06-11T17:11:39Z",
-      "primaryGenreName": "Lifestyle",
-      "primaryGenreId": 6012,
+      "artistId": 951506043,
+      "artistName": "Falling Fruit",
+      "price": 0.99,
+      "releaseNotes": "Relaunch with many new features, including:\n\n* Flexible location filter\n* Location lists\n* Location labels (zoomed in) and clusters (zoomed out)\n* Multiple review photos\n* Share links and deep links\n* User profiles (name, bio, and activity)\n* Google Street View\n* OpenStreetMap basemaps\n* Content flagging\n* English, French, Arabic, Czech, German, Greek, Spanish, Hebrew, Italian, Japanese, Dutch, Polish, Portuguese, Russian, Swedish, Turkish, Ukrainian, Vietnamese, and Chinese",
       "releaseDate": "2010-07-05T21:10:23Z",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "bundleId": "com.fiddlemeragged.fallingfruit",
       "genreIds": [
         "6012",
         "6023"
       ],
-      "releaseNotes": "Relaunch with many new features, including:\n\n* Flexible location filter\n* Location lists\n* Location labels (zoomed in) and clusters (zoomed out)\n* Multiple review photos\n* Share links and deep links\n* User profiles (name, bio, and activity)\n* Google Street View\n* OpenStreetMap basemaps\n* Content flagging\n* English, French, Arabic, Czech, German, Greek, Spanish, Hebrew, Italian, Japanese, Dutch, Polish, Portuguese, Russian, Swedish, Turkish, Ukrainian, Vietnamese, and Chinese",
+      "trackId": 380859409,
+      "trackName": "Falling Fruit",
+      "sellerName": "Falling Fruit",
+      "primaryGenreName": "Lifestyle",
+      "primaryGenreId": 6012,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-06-11T17:11:39Z",
       "version": "0.3.1",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Falling Fruit is a 501(c)3 nonprofit based in Boulder, Colorado, USA. All proceeds from sales of the app help pay to keep our servers online. We greatly appreciate your support in keeping the project online!\n\nOur global map of edibles is not the first of its kind, but it aspires to be the world's most comprehensive. While our users contribute locations of their own, we comb the internet for pre-existing knowledge, seeking to unite the efforts of foragers, foresters, and freegans everywhere. The imported datasets range from small neighborhood foraging maps to vast professionally-compiled tree inventories. This amounts to thousands of different types of edibles (most, but not all, plant species) across thousands of cities around the world. Beyond the cultivated and commonplace to the exotic flavors of foreign plants and long-forgotten native plants, foraging in your neighborhood is a journey through time and across cultures.\n\nFalling Fruit is not associated with Fallen Fruit. Fallen Fruit can be found at fallenfruit.org.",
       "averageUserRatingForCurrentVersion": 2.26667,
+      "trackCensoredName": "Falling Fruit",
+      "trackViewUrl": "https://apps.apple.com/fr/app/falling-fruit/id380859409?uo=4",
       "languageCodesISO2A": [
         "EN"
       ],
@@ -192,8 +192,8 @@
       "formattedPrice": "0,99 €",
       "userRatingCountForCurrentVersion": 15,
       "trackContentRating": "4+",
+      "bundleId": "com.fiddlemeragged.fallingfruit",
       "minimumOsVersion": "14.0",
-      "price": 0.99,
       "userRatingCount": 15,
       "country": "FRA"
     }

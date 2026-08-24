@@ -13,9 +13,9 @@
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/fd/1c/7cfd1cf7-68cb-c849-013b-13b01bbc4e1b/AppIcon-0-0-1x_U007epad-0-85-220.png/512x512bb.jpg",
       "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
+      "artistViewUrl": "https://apps.apple.com/de/developer/andreas-filippi/id1321553968?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/fd/1c/7cfd1cf7-68cb-c849-013b-13b01bbc4e1b/AppIcon-0-0-1x_U007epad-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/fd/1c/7cfd1cf7-68cb-c849-013b-13b01bbc4e1b/AppIcon-0-0-1x_U007epad-0-85-220.png/100x100bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -149,11 +149,9 @@
         "Häufig/stark ausgeprägt: medizinische/Behandlungs-Informationen"
       ],
       "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/de/developer/andreas-filippi/id1321553968?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/fd/1c/7cfd1cf7-68cb-c849-013b-13b01bbc4e1b/AppIcon-0-0-1x_U007epad-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/fd/1c/7cfd1cf7-68cb-c849-013b-13b01bbc4e1b/AppIcon-0-0-1x_U007epad-0-85-220.png/100x100bb.jpg",
-      "minimumOsVersion": "13.0",
-      "sellerUrl": "https://andreas-filippi.ch",
+      "features": [
+        "iosUniversal"
+      ],
       "languageCodesISO2A": [
         "EN"
       ],
@@ -162,33 +160,35 @@
       "userRatingCountForCurrentVersion": 5,
       "trackContentRating": "17+",
       "averageUserRatingForCurrentVersion": 5,
-      "price": 2.99,
+      "sellerUrl": "https://andreas-filippi.ch",
+      "minimumOsVersion": "13.0",
+      "contentAdvisoryRating": "17+",
+      "trackCensoredName": "AcciDent 4.0",
+      "trackViewUrl": "https://apps.apple.com/de/app/accident-4-0/id6670756782?uo=4",
+      "averageUserRating": 5,
       "artistId": 1321553968,
       "artistName": "Andreas Filippi",
-      "bundleId": "ch.zahnunfallzentrum.accident2",
+      "genres": [
+        "Medizin"
+      ],
+      "price": 2.99,
       "trackId": 6670756782,
       "trackName": "AcciDent 4.0",
+      "primaryGenreName": "Medical",
+      "primaryGenreId": 6020,
       "genreIds": [
         "6020"
       ],
+      "releaseDate": "2024-09-11T07:00:00Z",
+      "sellerName": "Andreas Filippi",
+      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2025-01-30T20:19:33Z",
       "releaseNotes": "- Neue und aktualisierte Info Seiten",
       "version": "1.2",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Zahnunfälle nehmen zu! Und dennoch ist die Zahntraumatologie in der Praxis ein Gebiet in dem oftmals die Routine fehlt. Hier hilft AcciDent. Ohne viel suchen zu müssen, findet man im Notfall schnell alle nötigen Informationen für eine adäquate Diagnostik und Therapie.\nAcciDent wird Sie in Zukunft in Ihrer täglichen Praxis begleiten und Sie jedem Zahnunfall entspannt gegenübertreten lassen.",
-      "trackCensoredName": "AcciDent 4.0",
-      "trackViewUrl": "https://apps.apple.com/de/app/accident-4-0/id6670756782?uo=4",
-      "contentAdvisoryRating": "17+",
-      "averageUserRating": 5,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseDate": "2024-09-11T07:00:00Z",
-      "sellerName": "Andreas Filippi",
-      "primaryGenreName": "Medical",
-      "primaryGenreId": 6020,
-      "genres": [
-        "Medizin"
-      ],
+      "bundleId": "ch.zahnunfallzentrum.accident2",
       "userRatingCount": 5,
       "country": "DEU"
     }

@@ -185,12 +185,6 @@
       "userRatingCount": 912
     },
     {
-      "isGameCenterEnabled": false,
-      "advisories": [
-        "无限制网页访问",
-        "偶尔/轻微的医药或医疗信息"
-      ],
-      "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a3/87/01/a3870154-ce8b-16df-fd8d-5ae84131a55e/CN-1320x2868-01.jpg/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/70/3b/b2703b10-6b2a-aa75-5edb-50e5f928e4d9/CN-1320x2868-02.jpg/320x480bb.jpg",
@@ -203,6 +197,7 @@
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/6b/cb/7b6bcb45-6add-3390-4321-98513c17c564/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+      "isGameCenterEnabled": false,
       "artistViewUrl": "https://apps.apple.com/cn/developer/stepfun-intelligence-co-ltd/id1745274060?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/6b/cb/7b6bcb45-6add-3390-4321-98513c17c564/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/6b/cb/7b6bcb45-6add-3390-4321-98513c17c564/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
@@ -336,44 +331,49 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "artistId": 1745274060,
-      "artistName": "StepFun Intelligence Co., Ltd.",
-      "price": 0,
-      "releaseDate": "2024-06-01T07:00:00Z",
-      "genreIds": [
-        "6007"
+      "advisories": [
+        "无限制网页访问",
+        "偶尔/轻微的医药或医疗信息"
       ],
-      "sellerName": "StepFun Intelligence Co., Ltd.",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-08-12T22:46:17Z",
-      "releaseNotes": "- 修复了一些bug，优化了一些交互",
-      "version": "6.0.6",
-      "wrapperType": "software",
-      "currency": "CNY",
-      "description": "- 阶跃AI是你能聊天、能做任务的AI Agent，集智能问答、文件理解与任务执行于一体，一站式提升工作与学习效率\n- 全新升级Agent能力，现已接入阶跃自研顶级Step 3.7 Flash模型，AI更聪明、更高效\n-「Step Agent」你的专属7*24小时AI执行助手，支持跨端接收指令并执行，一键接入飞书机器人，极速响应，工作无忧\n-「问小跃」多模态问答与写作助手，随心而问，小跃永远懂你，内置实时语音通话入口，让沟通更自然、更轻松\n\n隐私协议：https://chat.stepfun.com/legal/privacy\n许可协议：https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-      "trackViewUrl": "https://apps.apple.com/cn/app/%E9%98%B6%E8%B7%83ai-%E9%98%B6%E8%B7%83%E6%98%9F%E8%BE%B0ai%E5%8A%A9%E6%89%8B/id6502382318?uo=4",
-      "contentAdvisoryRating": "17+",
+      "kind": "software",
+      "minimumOsVersion": "15.1",
+      "averageUserRatingForCurrentVersion": 4.69407,
       "languageCodesISO2A": [
         "EN",
         "ZH"
       ],
       "fileSizeBytes": "119462912",
       "formattedPrice": "免费",
-      "userRatingCountForCurrentVersion": 913,
+      "userRatingCountForCurrentVersion": 912,
       "trackContentRating": "17+",
-      "averageUserRatingForCurrentVersion": 4.69441,
-      "averageUserRating": 4.69441,
+      "averageUserRating": 4.69407,
       "trackCensoredName": "阶跃AI-阶跃星辰AI助手",
-      "bundleId": "cn.yuewen.ywapp",
-      "minimumOsVersion": "15.1",
+      "trackViewUrl": "https://apps.apple.com/cn/app/%E9%98%B6%E8%B7%83ai-%E9%98%B6%E8%B7%83%E6%98%9F%E8%BE%B0ai%E5%8A%A9%E6%89%8B/id6502382318?uo=4",
+      "contentAdvisoryRating": "17+",
+      "artistId": 1745274060,
+      "artistName": "StepFun Intelligence Co., Ltd.",
       "genres": [
         "效率"
       ],
+      "price": 0,
+      "bundleId": "cn.yuewen.ywapp",
+      "releaseNotes": "- 修复了一些bug，优化了一些交互",
       "trackId": 6502382318,
       "trackName": "阶跃AI-阶跃星辰AI助手",
+      "genreIds": [
+        "6007"
+      ],
       "primaryGenreName": "Productivity",
       "primaryGenreId": 6007,
-      "userRatingCount": 913,
+      "releaseDate": "2024-06-01T07:00:00Z",
+      "sellerName": "StepFun Intelligence Co., Ltd.",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-08-12T22:46:17Z",
+      "version": "6.0.6",
+      "wrapperType": "software",
+      "currency": "CNY",
+      "description": "- 阶跃AI是你能聊天、能做任务的AI Agent，集智能问答、文件理解与任务执行于一体，一站式提升工作与学习效率\n- 全新升级Agent能力，现已接入阶跃自研顶级Step 3.7 Flash模型，AI更聪明、更高效\n-「Step Agent」你的专属7*24小时AI执行助手，支持跨端接收指令并执行，一键接入飞书机器人，极速响应，工作无忧\n-「问小跃」多模态问答与写作助手，随心而问，小跃永远懂你，内置实时语音通话入口，让沟通更自然、更轻松\n\n隐私协议：https://chat.stepfun.com/legal/privacy\n许可协议：https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+      "userRatingCount": 912,
       "country": "CHN"
     }
   ]

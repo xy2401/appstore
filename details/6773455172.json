@@ -3,8 +3,8 @@
   "results": [
     {
       "artistViewUrl": "https://apps.apple.com/fr/developer/jonathan-mark-schulman/id6773455174?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/e5/63/88e56349-2be4-1f40-e48d-1b8deaa9f4b0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/e5/63/88e56349-2be4-1f40-e48d-1b8deaa9f4b0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/17/67/901767cc-5962-2a2d-15bf-e6b4309d6710/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/17/67/901767cc-5962-2a2d-15bf-e6b4309d6710/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
@@ -158,46 +158,46 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e1/44/70/e144700d-6caf-aaa0-1aa3-2564375fe17b/callqueue.png/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/e5/63/88e56349-2be4-1f40-e48d-1b8deaa9f4b0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/17/67/901767cc-5962-2a2d-15bf-e6b4309d6710/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "minimumOsVersion": "26.5",
+      "releaseNotes": "“The one with some bug fixes”\n\nBe sure to check the release notes for prior versions to see what's new! I update the app regularly in response to feedback like yours. Read them at https://greylineft8.com/changelog.html\n\nRemember that Greyline now has a comprehensive user manual at https://greylineft8.com/userguide.html - you’ll also find a button in the Settings view to take you there\n\nShoutouts:\nON4LDZ - Suggesting visual indicators to tell you why stations were skipped in automatic modes\nK7DFS - Confirming the very popular FT710 works perfectly with Greyline!\n\nFeatures:\n- You will now see visual indications on messages that were skipped in automatic modes. WAIT indicates the station was calling you but not responding, which carries a fixed 5 minute cooldown period. SKIPPED indicates a timeout in the Hunter mode, FILTERED indicates that you set a CQ filter which this station violated, and WORKED indicates the station would be a duplicate if you worked them.\n- When the app flips into an RR73 recovery mode while running Gatherer, the RR73 recovery will show up in the queue so you can decide whether to continue with it, reprioritize it, etc\n\nFixes:\n- Occasionally, a picosecond-scale rounding issue would accumulate and cause message slots to be shown as 1s earlier than they should be (for example, :59 or :29 instead of :00 or :30). This was a cosmetic issue only and did not affect actual transmission slots, but it looked bad. So it’s fixed now!\n- Moving from an RR73 recovery to the next queued call in Gatherer mode would sometimes skip a TX slot, wasting 30 valuable seconds. Now it doesn’t\n- CQ filters were being improperly persisted when a station changed their addendum. Now the filters are applied to the most recent call rather than the first one heard in the session\n\nThat’s it, that’s all, folks! Thanks for bringing me on your activations - now get out there and POTA on. 73!",
       "trackCensoredName": "Greyline FT8",
       "trackViewUrl": "https://apps.apple.com/fr/app/greyline-ft8/id6773455172?uo=4",
-      "averageUserRating": 0,
       "contentAdvisoryRating": "4+",
-      "artistId": 6773455174,
-      "artistName": "JONATHAN MARK SCHULMAN",
+      "averageUserRating": 0,
       "genres": [
         "Utilitaires",
         "Éducation"
       ],
       "price": 3.99,
+      "isVppDeviceBasedLicensingEnabled": true,
       "bundleId": "com.kb0rb.Greyline",
+      "trackId": 6773455172,
+      "trackName": "Greyline FT8",
+      "sellerName": "JONATHAN MARK SCHULMAN",
+      "currentVersionReleaseDate": "2026-08-23T17:22:05Z",
       "genreIds": [
         "6002",
         "6017"
       ],
-      "releaseDate": "2026-06-11T07:00:00Z",
-      "trackId": 6773455172,
-      "trackName": "Greyline FT8",
-      "sellerName": "JONATHAN MARK SCHULMAN",
       "primaryGenreName": "Utilities",
       "primaryGenreId": 6002,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-08-11T23:14:37Z",
-      "releaseNotes": "“The one with the biggest update yet”\n\nI know I’ve shipped 14 updates to Greyline since I launched it back in June, but this is the single biggest set of additions yet. Buckle up, this is a big one!\n\nBe sure to check the release notes for prior versions to see what's new! I update the app regularly in response to feedback like yours. Read them at https://greylineft8.com/changelog.html\n\nShoutouts:\nJK1TBL - Proposing a Cloudlog endpoint, providing an environment to test against, beta testing the app\nKR4EOD - Reporting a pretty major bug when working stations with a “/“ in their callsign\nON4LDZ - Submitting a Field Notes entry\nVK2AWN - Writing a great blog! https://andrewwoodward.net/2026/08/08/260808greylineft8/\n\nFeatures:\n- Greyline now supports Cloudlog and any Cloudlog-compatible logging endpoint! Just provide the API URL, API key, and Station Identifier and decide whether to auto-log your contacts to it!\n- The logging framework has been expanded to support QRZ, Cloudlog, and eventually WRL directly - stay tuned for that\n- Gatherer mode now provides a manually editable queue. This is, as far as I can tell, a first for FT8/FT4 software. When you’re working stations automatically, Greyline will queue them according to your preference (first heard, strongest signal, or furthest distance). But, with the new View Queue button, you can manually reprioritize them! Want to grab that station in Japan first? Been looking for that rare DX? Open up the queue and change the order that Gatherer will work them in. \n- Gatherer mode also now has a cooldown period - stations sending out of sequence or bad calls to you will be ignored for 5 minutes before we let them retry\n- POTA auto spotting now sends a “Thanks and 73” message to the cluster when you end your activation or export your POTA log\n\nFixes:\n- We had a *major* issue with working stations that had a / in their callsign (think W1A1/3, for example) - the FT8 specification provided for how to handle this edge case, and I totally missed implementing it. Now, you can work these stations without a problem! If you ever saw callsigns that looked like “…” - you hit this bug. It’s fixed now.\n- The Custom Message feature now follows the message queue timer and allows for full-length inputs\n- Changed the label on the Stations Heard map from “All time” to “This Session”, which is more accurate\n- On the iPhone or in some cases portrait mode iPad, text that doesn’t fit in the allocated space in the band activity view will marquee gently, so you don’t miss important info\n- Added string validation to the manual QSO form - making sure that callsigns, grid squares, and signal reports only contain valid characters that can be parsed by logging software\n- Exporting a POTA log or cancelling an activation now inserts a visual line into your log, so you can see which entries were part of the activation more clearly\n- We now require a grid square to be set (either manually or via Location Services) in order to transmit\n- POTA auto-spotting can now be optionally disabled in Settings.\n\nGive it a try and please leave a review if you enjoy using Greyline! I hope it makes your activations just a tiny bit more joyful. Thanks for bringing me along and 73!",
-      "version": "1.1",
+      "version": "1.3.1",
       "wrapperType": "software",
       "currency": "EUR",
-      "description": "Greyline FT8 is a highly portable, capable amateur radio app designed specifically for field operation with an iOS device. \n\nI designed this app because I got very used to my full-stack FT8 solution: GridTracker, WSJT-X, PSK Reporter, WRL Desktop, several browser tabs, and more. But I didn't want the bulk and weight of a full Windows PC in the field. At the same time, while there are excellent and lightweight FT8 iOS solutions out there, they were lacking features I really wanted.\n\nGreyline is everything you need and nothing you don't. It automatically locates your grid square, performs callsign and calling station DXCC lookups (internet access required), and can even show you real-time spot data from PSK Reporter. Want to adjust your directional antenna? Now you've got the info you need to do it! \n\nGreyline also incorporates automated calling features. Gatherer mode calls CQ, responds to the first reply it gets, finishes the QSO and returns to calling CQ all without your input. On the other side of things, Hunter mode listens for CQ calls and pounces on them, finishing a QSO then returning to the live band to find the next. Or, take control of the conversation yourself with standard mode. That's the experience you're already used to from WSJT-X and other digital mode apps.\n\nSome other noteworthy features are:\n- Intelligent automatic free frequency selection\n- Dynamically adjusted audio delay for virtually drift-free message timing\n- PSK Reporter integrated Live Spots\n- Direct-to-QRZ logging and ADI export\n- Configurable waterfall settings\n- CQ addendums\n- CQ filtering for contesting and general courteous operation\n- Configurable retransmissions\n- Intelligent log recovery (didn't get that last 73 but want to log the contact anyway? Now you can!) \n- Log import and export\n- Antenna tuning\n- POTA Autospotting\n- One touch POTA activation and POTA.app-compatible ADIF export\n- And so much more! \n\nGreyline uses audio VOX and not serial PTT. Most radios support this with simple cabling or an audio interface like a Digirig. For helpful tips on cabling and configuring popular radios, visit the Support URL below.\n\nBuilt by a ham, for hams, I'm very open to your feedback and hope Greyline can be your field companion.\n\nWant to share your own Field Notes (https://greylineft8.com/fieldnotes.html)? Email me at support@greylineft8.com!",
+      "description": "Greyline FT8 is a highly portable, capable amateur radio app designed specifically for field operation with an iOS device. \n\nI designed this app because I got very used to my full-stack FT8 solution: GridTracker, WSJT-X, PSK Reporter, WRL Desktop, several browser tabs, and more. But I didn't want the bulk and weight of a full Windows PC in the field. At the same time, while there are excellent and lightweight FT8 iOS solutions out there, they were lacking features I really wanted.\n\nGreyline is everything you need and nothing you don't. It automatically locates your grid square, performs callsign and calling station DXCC lookups (internet access required), and can even show you real-time spot data from PSK Reporter. Want to adjust your directional antenna? Now you've got the info you need to do it! \n\nGreyline also incorporates automated calling features. Gatherer mode calls CQ, responds to the first reply it gets, finishes the QSO and returns to calling CQ all without your input. On the other side of things, Hunter mode listens for CQ calls and pounces on them, finishing a QSO then returning to the live band to find the next. Or, take control of the conversation yourself with standard mode. That's the experience you're already used to from WSJT-X and other digital mode apps.\n\nSome other noteworthy features are:\n- Intelligent automatic free frequency selection\n- Dynamically adjusted audio delay for virtually drift-free message timing\n- PSK Reporter integrated Live Spots\n- Direct-to-QRZ and private Cloudlog logging and ADI export\n- Configurable waterfall settings\n- CQ addendums\n- CQ filtering for contesting and general courteous operation\n- Configurable retransmissions\n- Intelligent log recovery (didn't get that last 73 but want to log the contact anyway? Now you can!) \n- Log import and export\n- Antenna tuning\n- POTA Autospotting\n- One touch POTA activation and POTA.app-compatible ADIF export\n- Multiple POTA activation support\n- And so much more! \n\nGreyline uses audio VOX and not serial PTT. Most radios support this with simple cabling or an audio interface like a Digirig. For helpful tips on cabling and configuring popular radios, visit the Support URL below.\n\nBuilt by a ham, for hams, I'm very open to your feedback and hope Greyline can be your field companion.\n\nWant to share your own Field Notes (https://greylineft8.com/fieldnotes.html)? Email me at support@greylineft8.com!",
+      "averageUserRatingForCurrentVersion": 0,
+      "sellerUrl": "https://greylineft8.com/",
       "languageCodesISO2A": [
         "EN"
       ],
-      "fileSizeBytes": "18372608",
+      "fileSizeBytes": "18610176",
       "formattedPrice": "3,99 €",
       "userRatingCountForCurrentVersion": 0,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 0,
-      "sellerUrl": "https://greylineft8.com/",
-      "minimumOsVersion": "26.5",
+      "releaseDate": "2026-06-11T07:00:00Z",
+      "artistId": 6773455174,
+      "artistName": "JONATHAN MARK SCHULMAN",
       "userRatingCount": 0,
       "country": "FRA"
     }

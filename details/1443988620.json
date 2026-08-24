@@ -216,14 +216,8 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/65/41/4c/65414ca3-b440-07fa-3b4d-25374e36ad18/pr_source.png/552x414bb.png"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/72/e2/8572e29e-77c2-ab07-d898-48e92fd40f3d/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg",
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/72/e2/8572e29e-77c2-ab07-d898-48e92fd40f3d/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/72/e2/8572e29e-77c2-ab07-d898-48e92fd40f3d/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/us/developer/cross-utility-ltd/id1252015437?uo=4",
       "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
       "supportedDevices": [
         "MacDesktop-MacDesktop",
         "iPhone5s-iPhone5s",
@@ -356,10 +350,15 @@
       ],
       "advisories": [],
       "kind": "software",
-      "averageUserRatingForCurrentVersion": 3.80378,
+      "artistViewUrl": "https://apps.apple.com/us/developer/cross-utility-ltd/id1252015437?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/72/e2/8572e29e-77c2-ab07-d898-48e92fd40f3d/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/72/e2/8572e29e-77c2-ab07-d898-48e92fd40f3d/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
+      "minimumOsVersion": "14.0",
+      "averageUserRatingForCurrentVersion": 3.80207,
       "sellerUrl": "https://quantumult.app/x",
-      "averageUserRating": 3.80378,
-      "trackCensoredName": "Quantumult X",
       "languageCodesISO2A": [
         "EN",
         "ZH",
@@ -367,37 +366,38 @@
       ],
       "fileSizeBytes": "58567680",
       "formattedPrice": "$9.99",
-      "contentAdvisoryRating": "4+",
-      "userRatingCountForCurrentVersion": 1641,
-      "trackViewUrl": "https://apps.apple.com/us/app/quantumult-x/id1443988620?uo=4",
+      "userRatingCountForCurrentVersion": 1642,
       "trackContentRating": "4+",
-      "minimumOsVersion": "14.0",
-      "artistId": 1252015437,
-      "artistName": "Cross Utility Ltd",
       "genres": [
         "Utilities",
         "Developer Tools"
       ],
+      "artistId": 1252015437,
+      "artistName": "Cross Utility Ltd",
       "price": 9.99,
-      "bundleId": "com.crossutility.quantumult-x",
       "primaryGenreName": "Utilities",
       "primaryGenreId": 6002,
-      "releaseDate": "2019-10-11T07:00:00Z",
       "isVppDeviceBasedLicensingEnabled": true,
+      "trackId": 1443988620,
+      "trackName": "Quantumult X",
       "genreIds": [
         "6002",
         "6026"
       ],
       "currentVersionReleaseDate": "2026-08-16T02:24:36Z",
-      "trackId": 1443988620,
-      "trackName": "Quantumult X",
+      "releaseDate": "2019-10-11T07:00:00Z",
       "releaseNotes": "- Bug fixes and performance improvements.\n\nNote: This is the last version to support iOS 14. Future updates will require iOS 15 or later.",
       "version": "1.7.0",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Quantumult completely rebuilt from scratch, and includes a lots of awesome new features!\n\nQuantumult X is a powerful network tool for web developers and users who need to customize their proxies.\n\nFor web develpers:\n- HTTP activity can record the whole HTTP request and response including body(HTTP debug should be enabled).\n- The MitM HTTP decryption can work for the traffics from TUN interface(MitM should be enabled).\n- HTTP rewrite with URL 302/307 redirect or request header/body modification or response header/body modification(Rewrite should be enabled).\n- Customized DNS settings for specific domains(IPv4 or IPv6),  only can be edited in configuration profile.\n\nFor users who need to customize their proxies:\n- Supports shadowsocks proxy protocol.\n- Supports shadowsocks with obfs-tls or obfs-http plugins.\n- Supports shadowsocks over websocket and tls(server side should be deployed by v2ray-core).\n- Supports UDP relay if the server supports it.\n- Supports different policies for network request by using customized filters(host, host suffix, host keyword...).\n\nPrivacy Policy: https://quantumult.app/x/privacy/\nContact Us: support@quantumult.app",
+      "bundleId": "com.crossutility.quantumult-x",
+      "trackCensoredName": "Quantumult X",
+      "trackViewUrl": "https://apps.apple.com/us/app/quantumult-x/id1443988620?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 3.80207,
       "sellerName": "Cross Utility Ltd",
-      "userRatingCount": 1641,
+      "userRatingCount": 1642,
       "country": "USA"
     }
   ]

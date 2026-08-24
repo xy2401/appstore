@@ -206,9 +206,7 @@
     },
     {
       "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -339,7 +337,9 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "advisories": [],
+      "features": [
+        "iosUniversal"
+      ],
       "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/7a/db/70/7adb7042-5202-e5dc-374f-e8dc91c4b5f3/mzl.jjjcperp.png/392x696bb.png",
@@ -360,34 +360,34 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e4/06/da/e406da6a-a50a-6559-ff09-fc6e8e90f940/mzl.chdlyvft.png/552x414bb.png"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/99/1c/98991cb0-1be7-4df5-fd00-e12bd3ef4291/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/de/developer/stefan-meyer/id286070476?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/99/1c/98991cb0-1be7-4df5-fd00-e12bd3ef4291/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/60x60bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/99/1c/98991cb0-1be7-4df5-fd00-e12bd3ef4291/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/512x512bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/99/1c/98991cb0-1be7-4df5-fd00-e12bd3ef4291/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/de/developer/stefan-meyer/id286070476?uo=4",
+      "minimumOsVersion": "15.6",
       "artistId": 286070476,
       "artistName": "Stefan Meyer",
-      "genres": [
-        "Wirtschaft",
-        "Finanzen"
-      ],
       "price": 8.99,
-      "primaryGenreName": "Business",
-      "primaryGenreId": 6000,
       "bundleId": "de.meyer-solutions.Fahrtenbuch",
+      "sellerName": "Stefan Meyer",
       "genreIds": [
         "6000",
         "6015"
       ],
       "trackId": 286070473,
       "trackName": "Fahrtenbuch",
-      "sellerName": "Stefan Meyer",
+      "releaseNotes": "- Fahrtenbuch Desktop Integration\n- iOS 26 Optimierungen\n- Kleinere Fehlerbehebungen\n- Updaten Sie bitte immer auch auf die neuste für Sie verfügbare iOS Version!\n\nBei Fragen zur Nutzung, lesen Sie bitte das Handbuch auf der Website!\nWenn Sie das Update mögen, bewerten Sie die App bitte nach jeder Aktualisierung und werden Sponsor in den Fahrtenbuch Einstellungen. Empfehlen Sie Fahrtenbuch bitte weiter. Das hilft uns sehr, weiterhin Updates kostenlos zur Verfügung zu stellen.\nVielen Dank & gute Fahrt!",
+      "primaryGenreName": "Business",
+      "primaryGenreId": 6000,
       "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-08-05T18:57:24Z",
-      "releaseNotes": "- Fahrtenbuch Desktop Integration\n- iOS 26 Optimierungen\n- Kleinere Fehlerbehebungen\n- Updaten Sie bitte immer auch auf die neuste für Sie verfügbare iOS Version!\n\nBei Fragen zur Nutzung, lesen Sie bitte das Handbuch auf der Website!\nWenn Sie das Update mögen, bewerten Sie die App bitte nach jeder Aktualisierung und werden Sponsor in den Fahrtenbuch Einstellungen. Empfehlen Sie Fahrtenbuch bitte weiter. Das hilft uns sehr, weiterhin Updates kostenlos zur Verfügung zu stellen.\nVielen Dank & gute Fahrt!",
       "version": "9.9.23",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Erstes Fahrtenbuch im App-Store mit CarPlay, GPS Tracking, Autostart | Autostop, iPhone Kalender, Apple Watch, 3D Touch, Heute-Widget, iBeacon, iCloud Backup, Touch-ID, GoBD Export und Dropbox Integration!\n\nDas Fahrtenbuch liegt auf den Knien und der Kugelschreiber ausgelaufen im Handschuhfach... Das hat jetzt ein Ende!\nKeine Registrierung, keine laufenden Kosten, keine weitere Hardware (OBDII Dongle o.ä.) nötig! \nErfassen Sie Ihre Fahrten mit dem Fahrtenbuch für Ihr iPhone | iPad oder iPod touch. Zwei Klicks und Abfahrt!\nÜber das Fahrtenbuch Widget in der Mitteilungszentrale ab iOS8 sogar nur ein wischen und Abfahrt!\nEs werden keine Fahrten, Routen, Adressen etc. zu unseren Servern übertragen, Ihre Daten sind Ihre Daten!\n \nEs braucht nur zwei Berührungen des Bildschirms, und schon kann die Fahrt beginnen. Der Grund kann auch später noch gewählt werden, entweder als freier Text oder aus einer Liste eigener Favoriten. Die Position wird automatisch erkannt und eingetragen, oder für den iPod touch aus einer Liste gewählt (die zwar zuvor erstellt werden muss) aber auch direkt aus dem Adressbuch übernommen werden kann.\n\nSie können ein preiswertes GPS Tracking Modul als InApp Kauf erwerben und \"metergenau\" aufzeichnen - Wir raten dazu \"Exakte Streckenaufzeichnung\" für beste Ergebnisse zu aktivieren! Alternativ wird die Entfernung aus Kartendiensten geschätzt und muss nur noch kurz kontrolliert oder ggf. nach Tageskilometerstand angepasst werden.\n\niPhone Fahrtenbuch war das erste Fahrtenbuch für das iPhone überhaupt, die erste Version erschien bereits 2 Monate nach erscheinen von Apples Entwicklungsumgebung. Wir arbeiten trotzdem täglich hart daran, das beste Fahrtenbuch für iOS zu bleiben und kontinuierlich weiter zu entwickeln.\nAlle Updates sind bisher komplett kostenlos erschienen! \n\nDie optimale Ergänzung zum iPhone Fahrtenbuch:\n\"Fahrtenbuch | Maps\" für macOS im MacAppStore!\n\nExportmöglichkeiten:\n- iCloud\n- Dropbox\n- iTunes Dateifreigabe\n- Mail im Klartext\n- Mail als Anhang\n- iCal\n- Google-Docs\n- Google-Kalender (online)\n- Google-Tabelle (online)\n- Download per Web-Browser \n\nFormate & Exportschnittstellen: \n- PDF\n- CSV (Komma-, Tabulator-, Semikolon-, Trennzeichen)\n- fahrtenbuch.cloud\n- Zertifizierter GoBD Export (als InApp Kauf)\n- INtex Fahrtenbuch (als InApp Kauf)\n- DATEV Fahrtenbuch (als InApp Kauf)\n- WISO Fahrtenbuch (als InApp Kauf)\n- Lexware Reisekosten (als InApp Kauf)\n- Euro-Fahrtenbuch (als InApp Kauf)\n- Mac-HaBu (als InApp Kauf)\n- Fahrtenbuch Express (als InApp Kauf)\n- MonKey Reisekosten (als InApp Kauf)\n\nAuf Ihrem Mac oder PC können Sie Ihre Daten anschließend über Schnittstellen so in verschiedene Desktop Fahrtenbücher importieren.\n\nHilfe zur Einrichtung und weitere Neuigkeiten finden Sie unter \nhttp://www.iphone-fahrtenbuch.com/\n\nOptimale Ergänzung zum iPhone Fahrtenbuch:\n\"Fahrtenbuch | Maps\" für macOS im MacAppStore!\n\nWeitere iOS Apps:\n\"iPhone - Stempeluhr\"\n\"iPhone - RouteOptimizer\"\n\nWICHTIG... Machen Sie regelmäßig Datensicherungen und übertragen die Daten in ein Programm auf Ihrem Rechner. Wir haften nicht für Verlust der erfassten Daten.\n\n*Continued use of GPS running in the background can dramatically decrease battery life.\n*Kraftstoffpreise powered by tankerkoenig.de\n\nSollten Sie eine Unterstützung als Subscription in Erwägung ziehen, lesen Sie die Bedingungen bei Apple unter https://www.apple.com/legal/internet-services/itunes/dev/stdeula/.\n\nFür weitere Informationen und Support nutzen Sie bitte unserer Website.\nVielen Dank!",
+      "averageUserRatingForCurrentVersion": 4.52813,
+      "averageUserRating": 4.52813,
+      "trackCensoredName": "Fahrtenbuch",
       "languageCodesISO2A": [
         "NL",
         "EN",
@@ -395,17 +395,17 @@
       ],
       "fileSizeBytes": "80027648",
       "formattedPrice": "8,99 €",
-      "averageUserRatingForCurrentVersion": 4.5281,
-      "sellerUrl": "http://www.iphone-fahrtenbuch.com",
-      "userRatingCountForCurrentVersion": 7919,
-      "trackContentRating": "4+",
-      "trackCensoredName": "Fahrtenbuch",
-      "trackViewUrl": "https://apps.apple.com/de/app/fahrtenbuch/id286070473?uo=4",
       "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.5281,
-      "minimumOsVersion": "15.6",
+      "userRatingCountForCurrentVersion": 7928,
+      "trackViewUrl": "https://apps.apple.com/de/app/fahrtenbuch/id286070473?uo=4",
+      "trackContentRating": "4+",
+      "sellerUrl": "http://www.iphone-fahrtenbuch.com",
       "releaseDate": "2019-02-05T08:00:00Z",
-      "userRatingCount": 7919,
+      "genres": [
+        "Wirtschaft",
+        "Finanzen"
+      ],
+      "userRatingCount": 7928,
       "country": "DEU"
     }
   ]

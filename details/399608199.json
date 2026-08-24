@@ -205,11 +205,6 @@
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/b3/9c/19b39cbc-33b9-5d65-2daf-3f778435cbf7/AppIcon-1x_U007emarketing-0-8-0-0-sRGB-85-220-0.png/512x512bb.jpg",
-      "advisories": [],
-      "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/cn/developer/%E4%B8%AD%E5%9B%BD%E9%93%B6%E8%A1%8C%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/id392493980?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/b3/9c/19b39cbc-33b9-5d65-2daf-3f778435cbf7/AppIcon-1x_U007emarketing-0-8-0-0-sRGB-85-220-0.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/b3/9c/19b39cbc-33b9-5d65-2daf-3f778435cbf7/AppIcon-1x_U007emarketing-0-8-0-0-sRGB-85-220-0.png/100x100bb.jpg",
       "features": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
@@ -340,6 +335,15 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/cn/developer/%E4%B8%AD%E5%9B%BD%E9%93%B6%E8%A1%8C%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/id392493980?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/b3/9c/19b39cbc-33b9-5d65-2daf-3f778435cbf7/AppIcon-1x_U007emarketing-0-8-0-0-sRGB-85-220-0.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/b3/9c/19b39cbc-33b9-5d65-2daf-3f778435cbf7/AppIcon-1x_U007emarketing-0-8-0-0-sRGB-85-220-0.png/100x100bb.jpg",
+      "advisories": [],
+      "releaseNotes": "1、新增钞汇互转功能，新增中银见证通功能。 \n2、一键绑卡功能新增支持签约快手。 \n3、网点营业信息新增展示支付系统联行号。",
+      "averageUserRatingForCurrentVersion": 3.04354,
+      "fileSizeBytes": "602353664",
+      "sellerUrl": "http://www.boc.cn",
       "languageCodesISO2A": [
         "EN",
         "MN",
@@ -347,25 +351,27 @@
         "BO",
         "UG"
       ],
-      "fileSizeBytes": "602353664",
       "formattedPrice": "免费",
+      "userRatingCountForCurrentVersion": 61857,
       "trackContentRating": "17+",
-      "userRatingCountForCurrentVersion": 61826,
-      "sellerUrl": "http://www.boc.cn",
-      "averageUserRatingForCurrentVersion": 3.04417,
       "genres": [
         "财务",
         "商务"
       ],
-      "price": 0,
       "artistId": 392493980,
       "artistName": "中国银行股份有限公司",
+      "price": 0,
+      "bundleId": "com.boc.BOCMBCI",
+      "primaryGenreName": "Finance",
+      "primaryGenreId": 6015,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "genreIds": [
+        "6015",
+        "6000"
+      ],
       "trackId": 399608199,
       "trackName": "中国银行",
-      "isVppDeviceBasedLicensingEnabled": true,
       "releaseDate": "2010-11-03T16:14:25Z",
-      "currentVersionReleaseDate": "2026-07-31T11:04:09Z",
-      "releaseNotes": "1、新增钞汇互转功能，新增中银见证通功能。 \n2、一键绑卡功能新增支持签约快手。 \n3、网点营业信息新增展示支付系统联行号。",
       "version": "9.9.32",
       "wrapperType": "software",
       "currency": "CNY",
@@ -373,17 +379,11 @@
       "trackCensoredName": "中国银行",
       "trackViewUrl": "https://apps.apple.com/cn/app/%E4%B8%AD%E5%9B%BD%E9%93%B6%E8%A1%8C/id399608199?uo=4",
       "contentAdvisoryRating": "17+",
-      "averageUserRating": 3.04417,
+      "averageUserRating": 3.04354,
       "minimumOsVersion": "11.0",
-      "bundleId": "com.boc.BOCMBCI",
-      "primaryGenreName": "Finance",
-      "primaryGenreId": 6015,
       "sellerName": "Bank of China Limited",
-      "genreIds": [
-        "6015",
-        "6000"
-      ],
-      "userRatingCount": 61826,
+      "currentVersionReleaseDate": "2026-07-31T11:04:09Z",
+      "userRatingCount": 61857,
       "country": "CHN"
     }
   ]

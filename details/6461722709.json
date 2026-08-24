@@ -189,14 +189,7 @@
     },
     {
       "isGameCenterEnabled": false,
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/8e/3c/1d/8e3c1d01-70ec-56b9-e1cb-288f0516e321/30bfd0fc-b814-40c7-b469-d091f29d4fe6_iPad_U30b9_U30af_U30b7_U30e72nd_ja.png/552x414bb.png"
-      ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/4d/7e/2d4d7ebd-b807-db27-0857-b096637ba1e8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/cb/0e/90/cb0e9021-f65e-3ca6-08a7-5f9506644290/1d858927-7732-4b54-94c4-ed08489479d3__U30b9_U30de_U30db_U30b9_U30af_U30b7_U30e755_ja.png/392x696bb.png"
-      ],
+      "advisories": [],
       "supportedDevices": [
         "MacDesktop-MacDesktop",
         "iPhone5s-iPhone5s",
@@ -327,15 +320,49 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "advisories": [],
       "kind": "software",
-      "features": [
-        "iosUniversal"
-      ],
       "artistViewUrl": "https://apps.apple.com/jp/developer/noze-inc/id1702645084?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/4d/7e/2d4d7ebd-b807-db27-0857-b096637ba1e8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/4d/7e/2d4d7ebd-b807-db27-0857-b096637ba1e8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
-      "averageUserRatingForCurrentVersion": 4.44737,
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/4d/7e/2d4d7ebd-b807-db27-0857-b096637ba1e8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/cb/0e/90/cb0e9021-f65e-3ca6-08a7-5f9506644290/1d858927-7732-4b54-94c4-ed08489479d3__U30b9_U30de_U30db_U30b9_U30af_U30b7_U30e755_ja.png/392x696bb.png"
+      ],
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/8e/3c/1d/8e3c1d01-70ec-56b9-e1cb-288f0516e321/30bfd0fc-b814-40c7-b469-d091f29d4fe6_iPad_U30b9_U30af_U30b7_U30e72nd_ja.png/552x414bb.png"
+      ],
+      "features": [
+        "iosUniversal"
+      ],
+      "genres": [
+        "ユーティリティ"
+      ],
+      "artistId": 1702645084,
+      "artistName": "NOZE INC.",
+      "genreIds": [
+        "6002"
+      ],
+      "releaseDate": "2023-08-21T07:00:00Z",
+      "sellerName": "NOZE INC.",
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
+      "trackId": 6461722709,
+      "trackName": "Y!News Excluder for Safari",
+      "currentVersionReleaseDate": "2026-08-16T19:40:04Z",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseNotes": "- 除外対象の範囲を追加・改善\n- モバイルサイトのYahooアプリダウンロードバナーを非表示にする機能を追加\n- yahoo.comの除外対象範囲を追加・改善",
+      "version": "1.4.0",
+      "wrapperType": "software",
+      "currency": "JPY",
+      "description": "Yahoo!ニュースから指定ワードがタイトルに含まれる記事を除外する拡張機能です。\n改行区切りでキーワードを複数指定する事ができます。",
+      "averageUserRating": 4.4386,
+      "trackCensoredName": "Y!News Excluder for Safari",
+      "trackViewUrl": "https://apps.apple.com/jp/app/y-news-excluder-for-safari/id6461722709?uo=4",
+      "contentAdvisoryRating": "4+",
+      "bundleId": "company.noze.Y-News-Excluder-for-Safari",
+      "averageUserRatingForCurrentVersion": 4.4386,
+      "minimumOsVersion": "15.0",
       "languageCodesISO2A": [
         "EN",
         "JA"
@@ -344,34 +371,7 @@
       "formattedPrice": "¥120",
       "userRatingCountForCurrentVersion": 114,
       "trackContentRating": "4+",
-      "minimumOsVersion": "15.0",
-      "artistId": 1702645084,
-      "artistName": "NOZE INC.",
-      "genres": [
-        "ユーティリティ"
-      ],
       "price": 120,
-      "trackId": 6461722709,
-      "trackName": "Y!News Excluder for Safari",
-      "genreIds": [
-        "6002"
-      ],
-      "releaseNotes": "- 除外対象の範囲を追加・改善\n- モバイルサイトのYahooアプリダウンロードバナーを非表示にする機能を追加\n- yahoo.comの除外対象範囲を追加・改善",
-      "currentVersionReleaseDate": "2026-08-16T19:40:04Z",
-      "sellerName": "NOZE INC.",
-      "releaseDate": "2023-08-21T07:00:00Z",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "version": "1.4.0",
-      "wrapperType": "software",
-      "currency": "JPY",
-      "description": "Yahoo!ニュースから指定ワードがタイトルに含まれる記事を除外する拡張機能です。\n改行区切りでキーワードを複数指定する事ができます。",
-      "bundleId": "company.noze.Y-News-Excluder-for-Safari",
-      "averageUserRating": 4.44737,
-      "trackCensoredName": "Y!News Excluder for Safari",
-      "trackViewUrl": "https://apps.apple.com/jp/app/y-news-excluder-for-safari/id6461722709?uo=4",
-      "contentAdvisoryRating": "4+",
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
       "userRatingCount": 114,
       "country": "JPN"
     }

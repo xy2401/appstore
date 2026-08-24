@@ -184,13 +184,6 @@
       "userRatingCount": 436
     },
     {
-      "features": [
-        "iosUniversal"
-      ],
-      "isGameCenterEnabled": false,
-      "artistViewUrl": "https://apps.apple.com/us/developer/alex-kitcoff/id1348935577?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/c6/31/00c631fa-812e-09ca-4044-cbd99d825893/AppIcon-1x_U007epad-0-1-85-220-0.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/c6/31/00c631fa-812e-09ca-4044-cbd99d825893/AppIcon-1x_U007epad-0-1-85-220-0.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b0/fb/17/b0fb1776-d020-4782-ff5f-6fb86d1d5948/English__U005ben_U005d__U007c_iPhone_-_6.9_U0022_Display_-_1__U007c_2026-05-14_15-40-16.jpeg/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1b/16/a8/1b16a86f-c35d-51b6-8c25-4fb0e8d4578e/English__U005ben_U005d__U007c_iPhone_-_6.9_U0022_Display_-_2__U007c_2026-05-14_15-40-16.jpeg/320x480bb.jpg",
@@ -202,8 +195,9 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/c6/31/00c631fa-812e-09ca-4044-cbd99d825893/AppIcon-1x_U007epad-0-1-85-220-0.png/512x512bb.jpg",
-      "advisories": [],
-      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/us/developer/alex-kitcoff/id1348935577?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/c6/31/00c631fa-812e-09ca-4044-cbd99d825893/AppIcon-1x_U007epad-0-1-85-220-0.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/c6/31/00c631fa-812e-09ca-4044-cbd99d825893/AppIcon-1x_U007epad-0-1-85-220-0.png/100x100bb.jpg",
       "supportedDevices": [
         "MacDesktop-MacDesktop",
         "iPhone5s-iPhone5s",
@@ -334,22 +328,27 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "bundleId": "com.alexkitcoff.mapopener",
-      "releaseNotes": "- Bug fixes\n- Improved link handling",
-      "averageUserRating": 4.17678,
-      "minimumOsVersion": "16.0",
-      "trackCensoredName": "Mapper for Safari",
-      "trackViewUrl": "https://apps.apple.com/us/app/mapper-for-safari/id1589391989?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.17678,
+      "features": [
+        "iosUniversal"
+      ],
+      "isGameCenterEnabled": false,
+      "advisories": [],
+      "kind": "software",
+      "averageUserRatingForCurrentVersion": 4.17727,
       "sellerUrl": "https://alexkitcoff.com/mapper-for-safari/",
       "languageCodesISO2A": [
         "EN"
       ],
       "fileSizeBytes": "1213440",
       "formattedPrice": "$1.99",
-      "userRatingCountForCurrentVersion": 577,
+      "userRatingCountForCurrentVersion": 581,
       "trackContentRating": "4+",
+      "currentVersionReleaseDate": "2026-05-14T22:47:37Z",
+      "releaseNotes": "- Bug fixes\n- Improved link handling",
+      "trackCensoredName": "Mapper for Safari",
+      "trackViewUrl": "https://apps.apple.com/us/app/mapper-for-safari/id1589391989?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.17727,
       "artistId": 1348935577,
       "artistName": "Alex Kitcoff",
       "genres": [
@@ -357,6 +356,9 @@
         "Navigation"
       ],
       "price": 1.99,
+      "trackId": 1589391989,
+      "trackName": "Mapper for Safari",
+      "bundleId": "com.alexkitcoff.mapopener",
       "releaseDate": "2021-10-14T07:00:00Z",
       "primaryGenreName": "Utilities",
       "primaryGenreId": 6002,
@@ -366,14 +368,12 @@
         "6002",
         "6010"
       ],
-      "currentVersionReleaseDate": "2026-05-14T22:47:37Z",
       "version": "4.1.0",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Mapper opens Google Maps links, directions, addresses, and map thumbnails from Safari directly in Apple Maps, so you can stop copying and pasting addresses.\n\nKey features:\n- Redirect Google Maps links, addresses, direction buttons, and map thumbnails directly to Apple Maps.\n- Support every Google domain (google.com, .co.uk, .ca, etc.) on iOS and macOS.\n- Smart fallbacks: if Mapper can’t resolve a link, you’ll land on the Google Maps web app and then automatically redirect to Apple Maps.\n- Zero data collection: Mapper only scans for map links on Google search pages and never stores personal or location data.\n\nHow it works:\n- Install Mapper and enable the extension in Settings → Safari → Extensions.\n- Browse to Google in Safari.\n- Tap any map link, directions button, or thumbnail.\n- Mapper grabs the address or search term and opens Apple Maps with a single tap.\n\nMapper is built and maintained by a solo indie developer, ensuring it stays lightweight, reliable, and up-to-date. If you love Mapper, please consider leaving a rating or review. For questions or feedback, tap the Contact link within the Mapper app.",
-      "trackId": 1589391989,
-      "trackName": "Mapper for Safari",
-      "userRatingCount": 577,
+      "minimumOsVersion": "16.0",
+      "userRatingCount": 581,
       "country": "USA"
     }
   ]

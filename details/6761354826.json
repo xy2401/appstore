@@ -2,8 +2,9 @@
   "resultCount": 1,
   "results": [
     {
-      "isGameCenterEnabled": false,
       "features": [],
+      "isGameCenterEnabled": false,
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -133,11 +134,13 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "advisories": [],
       "kind": "software",
       "artistViewUrl": "https://apps.apple.com/jp/developer/pikabon-co-ltd/id1490838498?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/7b/d7/757bd7e8-c962-2974-e468-8d7c5d5bd157/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/7b/d7/757bd7e8-c962-2974-e468-8d7c5d5bd157/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/100x100bb.jpg",
+      "ipadScreenshotUrls": [],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/7b/d7/757bd7e8-c962-2974-e468-8d7c5d5bd157/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d3/51/0c/d3510c5c-3f41-afee-0e57-92001caa33b5/1.PNG/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/54/e8/21/54e8210d-edac-88c1-b676-e6bae91940d0/2.PNG/320x480bb.jpg",
@@ -150,36 +153,36 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e8/a7/fc/e8a7fc78-c2b6-8763-328d-c7d02e8a18ac/9.PNG/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/93/19/bb/9319bbb1-6cfd-d5f3-ade4-1e5896983e06/10.PNG/320x480bb.jpg"
       ],
-      "ipadScreenshotUrls": [],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/7b/d7/757bd7e8-c962-2974-e468-8d7c5d5bd157/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/512x512bb.jpg",
-      "releaseNotes": "ダイアログメッセージを修正しました。",
       "minimumOsVersion": "11.1",
+      "artistId": 1490838498,
+      "artistName": "PIKABON CO. LTD.",
       "genres": [
         "エンターテインメント",
         "ミュージック"
       ],
-      "artistId": 1490838498,
-      "artistName": "PIKABON CO. LTD.",
-      "bundleId": "com.pikabon.ryosuke",
-      "releaseDate": "2026-06-15T07:00:00Z",
-      "trackId": 6761354826,
-      "trackName": "Ryosukeに支配されてみる?",
+      "price": 0,
       "genreIds": [
         "6016",
         "6011"
       ],
       "isVppDeviceBasedLicensingEnabled": true,
-      "sellerName": "PIKABON, K.K.",
+      "primaryGenreName": "Entertainment",
+      "primaryGenreId": 6016,
+      "bundleId": "com.pikabon.ryosuke",
+      "releaseDate": "2026-06-15T07:00:00Z",
       "currentVersionReleaseDate": "2026-07-17T05:00:47Z",
+      "trackId": 6761354826,
+      "trackName": "Ryosukeに支配されてみる?",
+      "releaseNotes": "ダイアログメッセージを修正しました。",
       "version": "1.0.3",
       "wrapperType": "software",
       "currency": "JPY",
       "description": "このアプリケーションは、「Ryosuke Yamada」のオリジナルペンライトを使用するために対応しています。\n\n【主な機能のご案内】\n1. 座席情報設定\n\nオリジナルペンライトをBluetooth機能で演出データに連動させることでコンサート中にオリジナルペンライトの多様な演出をお楽しみいただけます。\n\n2. Bluetooth接続\n\nオリジナルペンライトの表面中央にあるボタンを長押しすると、「Bluetoothモード」に切り替わります。\nスマートフォンの「Bluetoothモード」をオンにしてペンライトを近づけると、ペンライトとスマートフォンが連動します。\n\n【必須アクセス権限のご案内】\nサービスをご利用いただくためには、次の項目に対してアクセス権限が必要です。\n※ ポップアップ画面が表示されたら、「許可」ボタンを押してください。\n- Bluetooth：ペンライト接続のため",
-      "averageUserRatingForCurrentVersion": 4.94752,
+      "averageUserRating": 4.94545,
       "trackCensoredName": "Ryosukeに支配されてみる?",
       "trackViewUrl": "https://apps.apple.com/jp/app/ryosuke%E3%81%AB%E6%94%AF%E9%85%8D%E3%81%95%E3%82%8C%E3%81%A6%E3%81%BF%E3%82%8B/id6761354826?uo=4",
       "contentAdvisoryRating": "4+",
+      "averageUserRatingForCurrentVersion": 4.94545,
       "languageCodesISO2A": [
         "EN",
         "JA",
@@ -189,13 +192,10 @@
       ],
       "fileSizeBytes": "69404672",
       "formattedPrice": "無料",
-      "userRatingCountForCurrentVersion": 1429,
+      "userRatingCountForCurrentVersion": 1430,
       "trackContentRating": "4+",
-      "averageUserRating": 4.94752,
-      "primaryGenreName": "Entertainment",
-      "primaryGenreId": 6016,
-      "price": 0,
-      "userRatingCount": 1429,
+      "sellerName": "PIKABON, K.K.",
+      "userRatingCount": 1430,
       "country": "JPN"
     }
   ]

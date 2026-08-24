@@ -220,7 +220,13 @@
       "userRatingCount": 2438
     },
     {
+      "artistViewUrl": "https://apps.apple.com/us/developer/microsoft-corporation/id298856275?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/3a/a9/583aa9ef-df6d-091d-595d-bb4d09321842/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/3a/a9/583aa9ef-df6d-091d-595d-bb4d09321842/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -352,6 +358,8 @@
       ],
       "advisories": [],
       "kind": "software",
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/3a/a9/583aa9ef-df6d-091d-595d-bb4d09321842/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/bd/39/59/bd395907-b1d5-ba2c-aff3-cb69906a192f/d6a28ac3-3714-46da-8e63-33dbd63da61d_1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/a0/44/88/a044884a-d9cc-56f1-2cf7-5641eb844b38/cfe1ba81-553a-4769-9cc1-1dd50e1d8886_2.png/392x696bb.png",
@@ -372,37 +380,31 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/f3/ee/6f/f3ee6fc0-641b-b7db-6c8f-d7f2cb0933c6/6f2356e8-749f-4cfa-8018-a1d371561d8f_7.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/40/ce/12/40ce1220-198d-589b-add5-bd119f1b5926/6415c338-e661-40b9-9cf6-0d5068eafaf7_8.png/576x768bb.png"
       ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/3a/a9/583aa9ef-df6d-091d-595d-bb4d09321842/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
-      "artistViewUrl": "https://apps.apple.com/us/developer/microsoft-corporation/id298856275?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/3a/a9/583aa9ef-df6d-091d-595d-bb4d09321842/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/3a/a9/583aa9ef-df6d-091d-595d-bb4d09321842/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
+      "averageUserRating": 4.50061,
+      "contentAdvisoryRating": "4+",
+      "trackCensoredName": "Mahjong by Microsoft",
+      "trackViewUrl": "https://apps.apple.com/us/app/mahjong-by-microsoft/id1486892969?uo=4",
       "minimumOsVersion": "15.0",
-      "formattedPrice": "Free",
-      "fileSizeBytes": "125574144",
+      "artistId": 298856275,
       "artistName": "Microsoft Corporation",
       "genres": [
         "Games",
         "Casual",
         "Puzzle"
       ],
-      "artistId": 298856275,
       "price": 0,
-      "sellerName": "Microsoft Corporation",
-      "isVppDeviceBasedLicensingEnabled": true,
+      "bundleId": "com.microsoft.mahjong",
+      "trackId": 1486892969,
       "primaryGenreName": "Games",
       "primaryGenreId": 6014,
-      "releaseDate": "2021-01-12T08:00:00Z",
-      "trackId": 1486892969,
-      "trackName": "Mahjong by Microsoft",
+      "isVppDeviceBasedLicensingEnabled": true,
       "genreIds": [
         "6014",
         "7003",
         "7012"
       ],
+      "sellerName": "Microsoft Corporation",
+      "releaseDate": "2021-01-12T08:00:00Z",
       "currentVersionReleaseDate": "2026-02-13T23:21:01Z",
       "releaseNotes": "Bug fixes and performance improvements.",
       "version": "4.9",
@@ -426,16 +428,14 @@
         "ES",
         "SV"
       ],
+      "fileSizeBytes": "125574144",
+      "formattedPrice": "Free",
+      "userRatingCountForCurrentVersion": 2449,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.50082,
+      "averageUserRatingForCurrentVersion": 4.50061,
       "sellerUrl": "https://www.microsoftcasualgames.com/",
-      "userRatingCountForCurrentVersion": 2448,
-      "trackCensoredName": "Mahjong by Microsoft",
-      "trackViewUrl": "https://apps.apple.com/us/app/mahjong-by-microsoft/id1486892969?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.50082,
-      "bundleId": "com.microsoft.mahjong",
-      "userRatingCount": 2448,
+      "trackName": "Mahjong by Microsoft",
+      "userRatingCount": 2449,
       "country": "USA"
     }
   ]

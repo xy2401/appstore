@@ -182,7 +182,6 @@
       "userRatingCount": 4
     },
     {
-      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f8/77/3f/f8773fb1-71a5-4f6c-9027-bbb5d1a07a32/1.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ea/eb/48/eaeb4887-0434-cac2-d1ef-535a2acd3bb4/2.png/320x480bb.jpg",
@@ -192,11 +191,12 @@
       ],
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/30/25/9d3025d5-2174-a882-d551-515ae2fcaa52/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/30/25/9d3025d5-2174-a882-d551-515ae2fcaa52/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/30/25/9d3025d5-2174-a882-d551-515ae2fcaa52/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
       "artistViewUrl": "https://apps.apple.com/cn/developer/%E7%A7%80%E5%B9%B3-%E7%8E%8B/id1812138700?uo=4",
-      "features": [],
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/30/25/9d3025d5-2174-a882-d551-515ae2fcaa52/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/30/25/9d3025d5-2174-a882-d551-515ae2fcaa52/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
+      "isGameCenterEnabled": false,
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -327,13 +327,8 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "advisories": [],
       "kind": "software",
-      "minimumOsVersion": "16.0",
-      "releaseNotes": "优化多语言显示。",
-      "averageUserRatingForCurrentVersion": 3.4375,
-      "averageUserRating": 3.4375,
-      "trackCensoredName": "掌上跳一跳 - 手表游戏",
+      "features": [],
       "languageCodesISO2A": [
         "EN",
         "FR",
@@ -349,10 +344,13 @@
       ],
       "fileSizeBytes": "6753280",
       "formattedPrice": "免费",
-      "contentAdvisoryRating": "4+",
-      "userRatingCountForCurrentVersion": 16,
-      "trackViewUrl": "https://apps.apple.com/cn/app/%E6%8E%8C%E4%B8%8A%E8%B7%B3%E4%B8%80%E8%B7%B3-%E6%89%8B%E8%A1%A8%E6%B8%B8%E6%88%8F/id6760839297?uo=4",
+      "userRatingCountForCurrentVersion": 17,
       "trackContentRating": "4+",
+      "averageUserRatingForCurrentVersion": 3.52941,
+      "averageUserRating": 3.52941,
+      "trackCensoredName": "掌上跳一跳 - 手表游戏",
+      "trackViewUrl": "https://apps.apple.com/cn/app/%E6%8E%8C%E4%B8%8A%E8%B7%B3%E4%B8%80%E8%B7%B3-%E6%89%8B%E8%A1%A8%E6%B8%B8%E6%88%8F/id6760839297?uo=4",
+      "contentAdvisoryRating": "4+",
       "artistId": 1812138700,
       "artistName": "秀平 王",
       "genres": [
@@ -362,20 +360,22 @@
       "genreIds": [
         "6016"
       ],
-      "releaseDate": "2026-03-19T07:00:00Z",
-      "trackName": "掌上跳一跳 - 手表游戏",
-      "trackId": 6760839297,
+      "bundleId": "com.jump3d",
+      "isVppDeviceBasedLicensingEnabled": true,
       "primaryGenreName": "Entertainment",
       "primaryGenreId": 6016,
       "sellerName": "秀平 王",
-      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-05-22T18:39:19Z",
+      "releaseDate": "2026-03-19T07:00:00Z",
+      "trackId": 6760839297,
+      "trackName": "掌上跳一跳 - 手表游戏",
       "version": "1.0.3",
       "wrapperType": "software",
       "currency": "CNY",
       "description": "专为 Apple Watch 打造的轻量跳跃小游戏。\n按住屏幕蓄力，松手起跳，控制力度与节奏，在不同风格的平台之间连续跳跃，冲击更高分数。\n游戏加入了多种平台样式与皮肤解锁内容，操作直观，节奏明快，适合碎片时间随时来一局。\n抬腕即玩，快速上手，体验腕上跳跃小游戏的轻快乐趣。\n\n游戏操作说明：\n• 按住屏幕进行蓄力。\n• 松开屏幕后角色会自动起跳。\n• 蓄力越久，跳跃距离越远。\n• 成功落在平台上即可继续前进。\n• 精准落点可获得更高分数。\n• 一旦失误掉落，游戏结束。",
-      "bundleId": "com.jump3d",
-      "userRatingCount": 16,
+      "minimumOsVersion": "16.0",
+      "releaseNotes": "优化多语言显示。",
+      "userRatingCount": 17,
       "country": "CHN"
     }
   ]

@@ -190,14 +190,6 @@
     },
     {
       "isGameCenterEnabled": false,
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/dd/25/3e/dd253ed9-8f15-3fa1-1c84-44cb49326a34/30e52f3b-a155-4043-b758-23a38e1d4488_IMG_0012.PNG/392x696bb.png"
-      ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/32/69/bb/3269bb6c-ab3a-0fac-f930-e524d11dd894/e3a0ae36-a06a-4355-876f-674a7e29cd5c_goblin.tools___U00282_U0029.png/552x414bb.png"
-      ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/98/d1/49/98d149b0-645a-7cf4-fb16-3948ff3dd471/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg",
       "features": [
         "iosUniversal"
       ],
@@ -332,64 +324,74 @@
       ],
       "advisories": [],
       "kind": "software",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/98/d1/49/98d149b0-645a-7cf4-fb16-3948ff3dd471/AppIcon-1x_U007emarketing-0-10-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/98/d1/49/98d149b0-645a-7cf4-fb16-3948ff3dd471/AppIcon-1x_U007emarketing-0-10-0-85-220.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/us/developer/skyhook/id1695118263?uo=4",
-      "minimumOsVersion": "14.0",
-      "averageUserRatingForCurrentVersion": 4.77083,
-      "languageCodesISO2A": [
-        "EN"
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a3/d7/11/a3d71155-27e2-919f-c489-a15d2cf41f24/30e52f3b-a155-4043-b758-23a38e1d4488_IMG_0012.PNG/392x696bb.png"
       ],
-      "fileSizeBytes": "662528",
-      "formattedPrice": "$2.99",
-      "userRatingCountForCurrentVersion": 2976,
-      "trackContentRating": "4+",
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/04/e2/0b/04e20b3d-4af6-3abb-c6de-caabbb5549eb/e3a0ae36-a06a-4355-876f-674a7e29cd5c_goblin.tools___U00282_U0029.png/552x414bb.png"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/bf/c9/78bfc938-dc36-764d-16a7-46bc36731f2b/AppIcon-1x_U007epad-0-1-85-220-0.png/512x512bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/us/developer/skyhook/id1695118263?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/bf/c9/78bfc938-dc36-764d-16a7-46bc36731f2b/AppIcon-1x_U007epad-0-1-85-220-0.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/bf/c9/78bfc938-dc36-764d-16a7-46bc36731f2b/AppIcon-1x_U007epad-0-1-85-220-0.png/100x100bb.jpg",
+      "artistId": 1695118263,
       "artistName": "Skyhook",
       "genres": [
-        "Utilities",
-        "Productivity"
+        "Productivity",
+        "Utilities"
       ],
-      "artistId": 1695118263,
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
+      "price": 1.99,
+      "bundleId": "com.goblintools",
+      "currentVersionReleaseDate": "2026-08-23T04:28:49Z",
       "releaseDate": "2023-05-31T07:00:00Z",
-      "releaseNotes": "Enabling cloud sync for todo lists! Privacy safe, synchronise between anything that runs goblin.tools, whether it's the website or apps. Also includes some stability improvements.",
-      "genreIds": [
-        "6002",
-        "6007"
-      ],
-      "isVppDeviceBasedLicensingEnabled": true,
-      "trackId": 6449003064,
       "trackName": "Goblin Tools",
-      "currentVersionReleaseDate": "2023-06-23T05:40:54Z",
-      "version": "1.1",
+      "trackId": 6449003064,
+      "genreIds": [
+        "6007",
+        "6002"
+      ],
+      "primaryGenreName": "Productivity",
+      "primaryGenreId": 6007,
+      "sellerName": "Skyhook",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "version": "2.1.1",
       "wrapperType": "software",
       "currency": "USD",
-      "description": "This is an app version of the free website goblin.tools, a collection of small, simple, single-task tools, mostly designed to help neurodivergent people with tasks they find overwhelming or difficult.\n\n\n\nTools include\n- A Magic Todo list that automatically breaks down tasks into steps\n- The Formalizer that transforms your language to be more formal, sociable, concise, or many other options\n- The Judge that helps with interpreting tone\n- The Estimator that can guess at a timeframe for an activity\n- The Compiler to take entire braindumps and turn them into actionable tasks\n- The Chef, who turns a description of what ingredients and tools you have in your kitchen into a real recipe\n\n\n\nAnd many more to come!\n\n\n\nThe website is free and publicly available. Purchases of this app go first towards keeping the site free and ad-free, before supporting the author.",
-      "contentAdvisoryRating": "4+",
+      "description": "A collection of small, simple tools, for when things feel too big or complicated\n\nGoblin Tools helps turn overwhelming tasks, confusing messages, difficult decisions, and messy thoughts into manageable next steps.\n\nThis is the official Goblin Tools app associated with goblin.tools. Beware of unofficial copycats. They are not affiliated with Goblin Tools, and some may be misleading or unsafe. Only trust the official app from the verified Goblin Tools publisher.\n\nCreated with neurodivergent people in mind, Goblin Tools is a collection of tiny, clever helpers for everyday life. It can support people with ADHD, autism, executive dysfunction, chronic illness, low-energy days, and anyone who could use a little help getting things done.\n\nYou get:\n\n- Magic ToDo: Break overwhelming tasks into clear, bite-sized steps\n- Formalizer: Rewrite text to match the tone, style, or level of formality you need\n- Judge: Get a second opinion on the mood, emotion, or intent behind a message\n- Professor: Turn complicated subjects into explanations that are easier to understand\n- Taskmaster: Work through your to-do list one step at a time, without losing focus\n- Consultant: Compare options and get help making a decision\n- Estimator: Create rough time estimates for tasks and activities\n- Compiler: Transform a messy brain dump into an organized list of actions\n- Chef: Invent recipes using the ingredients you already have\n\nGoblin Tools Pro unlocks features that rely on ongoing online services, storage, and continued development, and therefore cannot be sustainably provided for a single fixed purchase price.\n\nWith Goblin Tools Pro, you can:\n\n- Keep your data continuously synced between devices\n- Create and reuse templates for to-do items\n- Share the lists you create\n- Make custom Formalizer tones and use your own voice\n- Access your history across all Goblin Tools\n- Use additional Pro features as they are introduced\n\nUse Goblin Tools for productivity, planning, communication, decision-making, learning, cooking, and getting unstuck when your brain refuses to cooperate.\n\nIt is useful for anyone, but especially designed to help untangle the neurospicy challenges of ADHD, autism, executive dysfunction, spoonie life, and more.\n\nPurchasing the official app helps keep the Goblin Tools website free and ad-free for everyone, while Goblin Tools Pro supports the ongoing services behind its connected features.",
+      "averageUserRatingForCurrentVersion": 4.76449,
+      "languageCodesISO2A": [],
+      "fileSizeBytes": "35951616",
+      "formattedPrice": "$1.99",
+      "userRatingCountForCurrentVersion": 2985,
+      "trackContentRating": "4+",
       "trackCensoredName": "Goblin Tools",
       "trackViewUrl": "https://apps.apple.com/us/app/goblin-tools/id6449003064?uo=4",
-      "averageUserRating": 4.77083,
-      "bundleId": "com.goblintools",
-      "sellerName": "Skyhook",
-      "price": 2.99,
-      "userRatingCount": 2976,
+      "contentAdvisoryRating": "4+",
+      "minimumOsVersion": "15.0",
+      "averageUserRating": 4.76449,
+      "releaseNotes": "V2.1.1 is here! A much cleaner native app, with support for Pro accounts with full syncing and all the other fanciness. It's also a new base to build up from, including (some time in the future) widgets, notifications, and more!\n\nNow with added bugfixes!",
+      "userRatingCount": 2985,
       "country": "USA"
     },
     {
+      "artistViewUrl": "https://apps.apple.com/de/developer/skyhook/id1695118263?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/bf/c9/78bfc938-dc36-764d-16a7-46bc36731f2b/AppIcon-1x_U007epad-0-1-85-220-0.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/bf/c9/78bfc938-dc36-764d-16a7-46bc36731f2b/AppIcon-1x_U007epad-0-1-85-220-0.png/100x100bb.jpg",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a3/d7/11/a3d71155-27e2-919f-c489-a15d2cf41f24/30e52f3b-a155-4043-b758-23a38e1d4488_IMG_0012.PNG/392x696bb.png"
+      ],
       "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/32/69/bb/3269bb6c-ab3a-0fac-f930-e524d11dd894/e3a0ae36-a06a-4355-876f-674a7e29cd5c_goblin.tools___U00282_U0029.png/552x414bb.png"
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/04/e2/0b/04e20b3d-4af6-3abb-c6de-caabbb5549eb/e3a0ae36-a06a-4355-876f-674a7e29cd5c_goblin.tools___U00282_U0029.png/552x414bb.png"
       ],
       "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/bf/c9/78bfc938-dc36-764d-16a7-46bc36731f2b/AppIcon-1x_U007epad-0-1-85-220-0.png/512x512bb.jpg",
+      "advisories": [],
       "isGameCenterEnabled": false,
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/98/d1/49/98d149b0-645a-7cf4-fb16-3948ff3dd471/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/dd/25/3e/dd253ed9-8f15-3fa1-1c84-44cb49326a34/30e52f3b-a155-4043-b758-23a38e1d4488_IMG_0012.PNG/392x696bb.png"
-      ],
       "features": [
         "iosUniversal"
       ],
-      "advisories": [],
+      "kind": "software",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -519,56 +521,58 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/de/developer/skyhook/id1695118263?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/98/d1/49/98d149b0-645a-7cf4-fb16-3948ff3dd471/AppIcon-1x_U007emarketing-0-10-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/98/d1/49/98d149b0-645a-7cf4-fb16-3948ff3dd471/AppIcon-1x_U007emarketing-0-10-0-85-220.png/100x100bb.jpg",
-      "averageUserRatingForCurrentVersion": 4.89375,
-      "minimumOsVersion": "14.0",
-      "languageCodesISO2A": [
-        "EN"
-      ],
-      "fileSizeBytes": "662528",
-      "formattedPrice": "2,99 €",
-      "userRatingCountForCurrentVersion": 160,
-      "trackContentRating": "4+",
-      "artistId": 1695118263,
-      "artistName": "Skyhook",
-      "genres": [
-        "Dienst­programme",
-        "Produktivität"
-      ],
-      "price": 2.99,
-      "releaseDate": "2023-05-31T07:00:00Z",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "genreIds": [
-        "6002",
-        "6007"
-      ],
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
-      "sellerName": "Skyhook",
-      "trackId": 6449003064,
-      "trackName": "Goblin Tools",
-      "currentVersionReleaseDate": "2023-06-23T05:40:54Z",
-      "releaseNotes": "Enabling cloud sync for todo lists! Privacy safe, synchronise between anything that runs goblin.tools, whether it's the website or apps. Also includes some stability improvements.",
-      "version": "1.1",
-      "wrapperType": "software",
-      "currency": "EUR",
-      "description": "This is an app version of the free website goblin.tools, a collection of small, simple, single-task tools, mostly designed to help neurodivergent people with tasks they find overwhelming or difficult.\n\n\n\nTools include\n- A Magic Todo list that automatically breaks down tasks into steps\n- The Formalizer that transforms your language to be more formal, sociable, concise, or many other options\n- The Judge that helps with interpreting tone\n- The Estimator that can guess at a timeframe for an activity\n- The Compiler to take entire braindumps and turn them into actionable tasks\n- The Chef, who turns a description of what ingredients and tools you have in your kitchen into a real recipe\n\n\n\nAnd many more to come!\n\n\n\nThe website is free and publicly available. Purchases of this app go first towards keeping the site free and ad-free, before supporting the author.",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.89375,
       "trackCensoredName": "Goblin Tools",
       "trackViewUrl": "https://apps.apple.com/de/app/goblin-tools/id6449003064?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.89506,
+      "minimumOsVersion": "15.0",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "languageCodesISO2A": [],
+      "fileSizeBytes": "35951616",
+      "formattedPrice": "1,99 €",
+      "userRatingCountForCurrentVersion": 162,
+      "trackContentRating": "4+",
+      "averageUserRatingForCurrentVersion": 4.89506,
+      "price": 1.99,
+      "genres": [
+        "Produktivität",
+        "Dienst­programme"
+      ],
+      "artistId": 1695118263,
+      "artistName": "Skyhook",
       "bundleId": "com.goblintools",
-      "userRatingCount": 160,
+      "releaseDate": "2023-05-31T07:00:00Z",
+      "releaseNotes": "V2.1.1 is here! A much cleaner native app, with support for Pro accounts with full syncing and all the other fanciness. It's also a new base to build up from, including (some time in the future) widgets, notifications, and more!\n\nNow with added bugfixes!",
+      "currentVersionReleaseDate": "2026-08-23T04:28:49Z",
+      "genreIds": [
+        "6007",
+        "6002"
+      ],
+      "trackId": 6449003064,
+      "trackName": "Goblin Tools",
+      "primaryGenreName": "Productivity",
+      "primaryGenreId": 6007,
+      "sellerName": "Skyhook",
+      "version": "2.1.1",
+      "wrapperType": "software",
+      "currency": "EUR",
+      "description": "A collection of small, simple tools, for when things feel too big or complicated\n\nGoblin Tools helps turn overwhelming tasks, confusing messages, difficult decisions, and messy thoughts into manageable next steps.\n\nThis is the official Goblin Tools app associated with goblin.tools. Beware of unofficial copycats. They are not affiliated with Goblin Tools, and some may be misleading or unsafe. Only trust the official app from the verified Goblin Tools publisher.\n\nCreated with neurodivergent people in mind, Goblin Tools is a collection of tiny, clever helpers for everyday life. It can support people with ADHD, autism, executive dysfunction, chronic illness, low-energy days, and anyone who could use a little help getting things done.\n\nYou get:\n\n- Magic ToDo: Break overwhelming tasks into clear, bite-sized steps\n- Formalizer: Rewrite text to match the tone, style, or level of formality you need\n- Judge: Get a second opinion on the mood, emotion, or intent behind a message\n- Professor: Turn complicated subjects into explanations that are easier to understand\n- Taskmaster: Work through your to-do list one step at a time, without losing focus\n- Consultant: Compare options and get help making a decision\n- Estimator: Create rough time estimates for tasks and activities\n- Compiler: Transform a messy brain dump into an organized list of actions\n- Chef: Invent recipes using the ingredients you already have\n\nGoblin Tools Pro unlocks features that rely on ongoing online services, storage, and continued development, and therefore cannot be sustainably provided for a single fixed purchase price.\n\nWith Goblin Tools Pro, you can:\n\n- Keep your data continuously synced between devices\n- Create and reuse templates for to-do items\n- Share the lists you create\n- Make custom Formalizer tones and use your own voice\n- Access your history across all Goblin Tools\n- Use additional Pro features as they are introduced\n\nUse Goblin Tools for productivity, planning, communication, decision-making, learning, cooking, and getting unstuck when your brain refuses to cooperate.\n\nIt is useful for anyone, but especially designed to help untangle the neurospicy challenges of ADHD, autism, executive dysfunction, spoonie life, and more.\n\nPurchasing the official app helps keep the Goblin Tools website free and ad-free for everyone, while Goblin Tools Pro supports the ongoing services behind its connected features.",
+      "userRatingCount": 162,
       "country": "DEU"
     },
     {
       "isGameCenterEnabled": false,
-      "artistViewUrl": "https://apps.apple.com/gb/developer/skyhook/id1695118263?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/98/d1/49/98d149b0-645a-7cf4-fb16-3948ff3dd471/AppIcon-1x_U007emarketing-0-10-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/98/d1/49/98d149b0-645a-7cf4-fb16-3948ff3dd471/AppIcon-1x_U007emarketing-0-10-0-85-220.png/100x100bb.jpg",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a3/d7/11/a3d71155-27e2-919f-c489-a15d2cf41f24/30e52f3b-a155-4043-b758-23a38e1d4488_IMG_0012.PNG/392x696bb.png"
+      ],
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/04/e2/0b/04e20b3d-4af6-3abb-c6de-caabbb5549eb/e3a0ae36-a06a-4355-876f-674a7e29cd5c_goblin.tools___U00282_U0029.png/552x414bb.png"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/bf/c9/78bfc938-dc36-764d-16a7-46bc36731f2b/AppIcon-1x_U007epad-0-1-85-220-0.png/512x512bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -698,68 +702,55 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "kind": "software",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/dd/25/3e/dd253ed9-8f15-3fa1-1c84-44cb49326a34/30e52f3b-a155-4043-b758-23a38e1d4488_IMG_0012.PNG/392x696bb.png"
-      ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/32/69/bb/3269bb6c-ab3a-0fac-f930-e524d11dd894/e3a0ae36-a06a-4355-876f-674a7e29cd5c_goblin.tools___U00282_U0029.png/552x414bb.png"
-      ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/98/d1/49/98d149b0-645a-7cf4-fb16-3948ff3dd471/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg",
       "advisories": [],
-      "features": [
-        "iosUniversal"
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/gb/developer/skyhook/id1695118263?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/bf/c9/78bfc938-dc36-764d-16a7-46bc36731f2b/AppIcon-1x_U007epad-0-1-85-220-0.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/bf/c9/78bfc938-dc36-764d-16a7-46bc36731f2b/AppIcon-1x_U007epad-0-1-85-220-0.png/100x100bb.jpg",
+      "currentVersionReleaseDate": "2026-08-23T04:28:49Z",
+      "averageUserRatingForCurrentVersion": 4.82228,
+      "languageCodesISO2A": [],
+      "fileSizeBytes": "35951616",
+      "formattedPrice": "£1.99",
+      "userRatingCountForCurrentVersion": 377,
+      "trackContentRating": "4+",
+      "genres": [
+        "Productivity",
+        "Utilities"
       ],
-      "minimumOsVersion": "14.0",
-      "trackCensoredName": "Goblin Tools",
-      "trackViewUrl": "https://apps.apple.com/gb/app/goblin-tools/id6449003064?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.82132,
       "artistId": 1695118263,
       "artistName": "Skyhook",
+      "price": 1.99,
       "bundleId": "com.goblintools",
-      "price": 2.99,
-      "genreIds": [
-        "6002",
-        "6007"
-      ],
-      "currentVersionReleaseDate": "2023-06-23T05:40:54Z",
+      "releaseNotes": "V2.1.1 is here! A much cleaner native app, with support for Pro accounts with full syncing and all the other fanciness. It's also a new base to build up from, including (some time in the future) widgets, notifications, and more!\n\nNow with added bugfixes!",
+      "sellerName": "Skyhook",
       "isVppDeviceBasedLicensingEnabled": true,
       "releaseDate": "2023-05-31T07:00:00Z",
-      "sellerName": "Skyhook",
-      "trackId": 6449003064,
-      "trackName": "Goblin Tools",
-      "releaseNotes": "Enabling cloud sync for todo lists! Privacy safe, synchronise between anything that runs goblin.tools, whether it's the website or apps. Also includes some stability improvements.",
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
-      "version": "1.1",
+      "primaryGenreName": "Productivity",
+      "primaryGenreId": 6007,
+      "version": "2.1.1",
       "wrapperType": "software",
       "currency": "GBP",
-      "description": "This is an app version of the free website goblin.tools, a collection of small, simple, single-task tools, mostly designed to help neurodivergent people with tasks they find overwhelming or difficult.\n\n\n\nTools include\n- A Magic Todo list that automatically breaks down tasks into steps\n- The Formalizer that transforms your language to be more formal, sociable, concise, or many other options\n- The Judge that helps with interpreting tone\n- The Estimator that can guess at a timeframe for an activity\n- The Compiler to take entire braindumps and turn them into actionable tasks\n- The Chef, who turns a description of what ingredients and tools you have in your kitchen into a real recipe\n\n\n\nAnd many more to come!\n\n\n\nThe website is free and publicly available. Purchases of this app go first towards keeping the site free and ad-free, before supporting the author.",
-      "languageCodesISO2A": [
-        "EN"
+      "description": "A collection of small, simple tools, for when things feel too big or complicated\n\nGoblin Tools helps turn overwhelming tasks, confusing messages, difficult decisions, and messy thoughts into manageable next steps.\n\nThis is the official Goblin Tools app associated with goblin.tools. Beware of unofficial copycats. They are not affiliated with Goblin Tools, and some may be misleading or unsafe. Only trust the official app from the verified Goblin Tools publisher.\n\nCreated with neurodivergent people in mind, Goblin Tools is a collection of tiny, clever helpers for everyday life. It can support people with ADHD, autism, executive dysfunction, chronic illness, low-energy days, and anyone who could use a little help getting things done.\n\nYou get:\n\n- Magic ToDo: Break overwhelming tasks into clear, bite-sized steps\n- Formalizer: Rewrite text to match the tone, style, or level of formality you need\n- Judge: Get a second opinion on the mood, emotion, or intent behind a message\n- Professor: Turn complicated subjects into explanations that are easier to understand\n- Taskmaster: Work through your to-do list one step at a time, without losing focus\n- Consultant: Compare options and get help making a decision\n- Estimator: Create rough time estimates for tasks and activities\n- Compiler: Transform a messy brain dump into an organized list of actions\n- Chef: Invent recipes using the ingredients you already have\n\nGoblin Tools Pro unlocks features that rely on ongoing online services, storage, and continued development, and therefore cannot be sustainably provided for a single fixed purchase price.\n\nWith Goblin Tools Pro, you can:\n\n- Keep your data continuously synced between devices\n- Create and reuse templates for to-do items\n- Share the lists you create\n- Make custom Formalizer tones and use your own voice\n- Access your history across all Goblin Tools\n- Use additional Pro features as they are introduced\n\nUse Goblin Tools for productivity, planning, communication, decision-making, learning, cooking, and getting unstuck when your brain refuses to cooperate.\n\nIt is useful for anyone, but especially designed to help untangle the neurospicy challenges of ADHD, autism, executive dysfunction, spoonie life, and more.\n\nPurchasing the official app helps keep the Goblin Tools website free and ad-free for everyone, while Goblin Tools Pro supports the ongoing services behind its connected features.",
+      "contentAdvisoryRating": "4+",
+      "trackCensoredName": "Goblin Tools",
+      "trackViewUrl": "https://apps.apple.com/gb/app/goblin-tools/id6449003064?uo=4",
+      "averageUserRating": 4.82228,
+      "minimumOsVersion": "15.0",
+      "trackId": 6449003064,
+      "trackName": "Goblin Tools",
+      "genreIds": [
+        "6007",
+        "6002"
       ],
-      "fileSizeBytes": "662528",
-      "formattedPrice": "£2.99",
-      "userRatingCountForCurrentVersion": 375,
-      "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.82132,
-      "genres": [
-        "Utilities",
-        "Productivity"
-      ],
-      "userRatingCount": 375,
+      "userRatingCount": 377,
       "country": "GBR"
     },
     {
-      "isGameCenterEnabled": false,
       "artistViewUrl": "https://apps.apple.com/fr/developer/skyhook/id1695118263?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/98/d1/49/98d149b0-645a-7cf4-fb16-3948ff3dd471/AppIcon-1x_U007emarketing-0-10-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/98/d1/49/98d149b0-645a-7cf4-fb16-3948ff3dd471/AppIcon-1x_U007emarketing-0-10-0-85-220.png/100x100bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/bf/c9/78bfc938-dc36-764d-16a7-46bc36731f2b/AppIcon-1x_U007epad-0-1-85-220-0.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/bf/c9/78bfc938-dc36-764d-16a7-46bc36731f2b/AppIcon-1x_U007epad-0-1-85-220-0.png/100x100bb.jpg",
+      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -891,52 +882,53 @@
       ],
       "advisories": [],
       "kind": "software",
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/98/d1/49/98d149b0-645a-7cf4-fb16-3948ff3dd471/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg",
       "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/dd/25/3e/dd253ed9-8f15-3fa1-1c84-44cb49326a34/30e52f3b-a155-4043-b758-23a38e1d4488_IMG_0012.PNG/392x696bb.png"
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a3/d7/11/a3d71155-27e2-919f-c489-a15d2cf41f24/30e52f3b-a155-4043-b758-23a38e1d4488_IMG_0012.PNG/392x696bb.png"
       ],
       "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/32/69/bb/3269bb6c-ab3a-0fac-f930-e524d11dd894/e3a0ae36-a06a-4355-876f-674a7e29cd5c_goblin.tools___U00282_U0029.png/552x414bb.png"
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/04/e2/0b/04e20b3d-4af6-3abb-c6de-caabbb5549eb/e3a0ae36-a06a-4355-876f-674a7e29cd5c_goblin.tools___U00282_U0029.png/552x414bb.png"
       ],
       "appletvScreenshotUrls": [],
-      "averageUserRating": 4.96296,
-      "trackCensoredName": "Goblin Tools",
-      "trackViewUrl": "https://apps.apple.com/fr/app/goblin-tools/id6449003064?uo=4",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/bf/c9/78bfc938-dc36-764d-16a7-46bc36731f2b/AppIcon-1x_U007epad-0-1-85-220-0.png/512x512bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
       "contentAdvisoryRating": "4+",
-      "minimumOsVersion": "14.0",
-      "trackId": 6449003064,
-      "trackName": "Goblin Tools",
-      "price": 2.99,
+      "averageUserRating": 4.96296,
       "genres": [
-        "Utilitaires",
-        "Productivité"
+        "Productivité",
+        "Utilitaires"
       ],
-      "releaseNotes": "Enabling cloud sync for todo lists! Privacy safe, synchronise between anything that runs goblin.tools, whether it's the website or apps. Also includes some stability improvements.",
-      "genreIds": [
-        "6002",
-        "6007"
-      ],
-      "bundleId": "com.goblintools",
-      "releaseDate": "2023-05-31T07:00:00Z",
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
-      "sellerName": "Skyhook",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2023-06-23T05:40:54Z",
-      "version": "1.1",
-      "wrapperType": "software",
-      "currency": "EUR",
-      "description": "This is an app version of the free website goblin.tools, a collection of small, simple, single-task tools, mostly designed to help neurodivergent people with tasks they find overwhelming or difficult.\n\n\n\nTools include\n- A Magic Todo list that automatically breaks down tasks into steps\n- The Formalizer that transforms your language to be more formal, sociable, concise, or many other options\n- The Judge that helps with interpreting tone\n- The Estimator that can guess at a timeframe for an activity\n- The Compiler to take entire braindumps and turn them into actionable tasks\n- The Chef, who turns a description of what ingredients and tools you have in your kitchen into a real recipe\n\n\n\nAnd many more to come!\n\n\n\nThe website is free and publicly available. Purchases of this app go first towards keeping the site free and ad-free, before supporting the author.",
-      "languageCodesISO2A": [
-        "EN"
-      ],
-      "fileSizeBytes": "662528",
-      "formattedPrice": "2,99 €",
-      "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.96296,
-      "userRatingCountForCurrentVersion": 27,
       "artistId": 1695118263,
       "artistName": "Skyhook",
+      "price": 1.99,
+      "releaseNotes": "V2.1.1 is here! A much cleaner native app, with support for Pro accounts with full syncing and all the other fanciness. It's also a new base to build up from, including (some time in the future) widgets, notifications, and more!\n\nNow with added bugfixes!",
+      "releaseDate": "2023-05-31T07:00:00Z",
+      "genreIds": [
+        "6007",
+        "6002"
+      ],
+      "trackId": 6449003064,
+      "trackName": "Goblin Tools",
+      "sellerName": "Skyhook",
+      "primaryGenreName": "Productivity",
+      "primaryGenreId": 6007,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-08-23T04:28:49Z",
+      "version": "2.1.1",
+      "wrapperType": "software",
+      "currency": "EUR",
+      "description": "A collection of small, simple tools, for when things feel too big or complicated\n\nGoblin Tools helps turn overwhelming tasks, confusing messages, difficult decisions, and messy thoughts into manageable next steps.\n\nThis is the official Goblin Tools app associated with goblin.tools. Beware of unofficial copycats. They are not affiliated with Goblin Tools, and some may be misleading or unsafe. Only trust the official app from the verified Goblin Tools publisher.\n\nCreated with neurodivergent people in mind, Goblin Tools is a collection of tiny, clever helpers for everyday life. It can support people with ADHD, autism, executive dysfunction, chronic illness, low-energy days, and anyone who could use a little help getting things done.\n\nYou get:\n\n- Magic ToDo: Break overwhelming tasks into clear, bite-sized steps\n- Formalizer: Rewrite text to match the tone, style, or level of formality you need\n- Judge: Get a second opinion on the mood, emotion, or intent behind a message\n- Professor: Turn complicated subjects into explanations that are easier to understand\n- Taskmaster: Work through your to-do list one step at a time, without losing focus\n- Consultant: Compare options and get help making a decision\n- Estimator: Create rough time estimates for tasks and activities\n- Compiler: Transform a messy brain dump into an organized list of actions\n- Chef: Invent recipes using the ingredients you already have\n\nGoblin Tools Pro unlocks features that rely on ongoing online services, storage, and continued development, and therefore cannot be sustainably provided for a single fixed purchase price.\n\nWith Goblin Tools Pro, you can:\n\n- Keep your data continuously synced between devices\n- Create and reuse templates for to-do items\n- Share the lists you create\n- Make custom Formalizer tones and use your own voice\n- Access your history across all Goblin Tools\n- Use additional Pro features as they are introduced\n\nUse Goblin Tools for productivity, planning, communication, decision-making, learning, cooking, and getting unstuck when your brain refuses to cooperate.\n\nIt is useful for anyone, but especially designed to help untangle the neurospicy challenges of ADHD, autism, executive dysfunction, spoonie life, and more.\n\nPurchasing the official app helps keep the Goblin Tools website free and ad-free for everyone, while Goblin Tools Pro supports the ongoing services behind its connected features.",
+      "averageUserRatingForCurrentVersion": 4.96296,
+      "trackCensoredName": "Goblin Tools",
+      "trackViewUrl": "https://apps.apple.com/fr/app/goblin-tools/id6449003064?uo=4",
+      "languageCodesISO2A": [],
+      "fileSizeBytes": "35951616",
+      "formattedPrice": "1,99 €",
+      "userRatingCountForCurrentVersion": 27,
+      "trackContentRating": "4+",
+      "bundleId": "com.goblintools",
+      "minimumOsVersion": "15.0",
       "userRatingCount": 27,
       "country": "FRA"
     }

@@ -228,10 +228,10 @@
       "userRatingCount": 7281412
     },
     {
+      "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
       ],
-      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -364,6 +364,9 @@
       ],
       "advisories": [],
       "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/jp/developer/google/id281956209?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/d3/e2/4ed3e273-5114-70b7-b919-dca325bee1aa/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/d3/e2/4ed3e273-5114-70b7-b919-dca325bee1aa/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/80/2a/a9/802aa98a-8fdc-a0d6-ee62-0a469addc62d/APP_IPHONE_65-0.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/70/35/35/703535be-9b12-9e18-aa3f-b20dd1ff1719/APP_IPHONE_65-1.png/320x480bb.jpg",
@@ -376,23 +379,24 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f5/b2/bc/f5b2bc95-fff1-dc0e-5089-c1ef29e14b88/APP_IPAD_PRO_3GEN_129-2.png/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/d3/e2/4ed3e273-5114-70b7-b919-dca325bee1aa/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/60x60bb.jpg",
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/d3/e2/4ed3e273-5114-70b7-b919-dca325bee1aa/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/512x512bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/d3/e2/4ed3e273-5114-70b7-b919-dca325bee1aa/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/jp/developer/google/id281956209?uo=4",
-      "minimumOsVersion": "16.0",
       "bundleId": "com.google.Maps",
-      "artistName": "Google",
+      "minimumOsVersion": "16.0",
       "artistId": 281956209,
+      "artistName": "Google",
       "genres": [
         "ナビゲーション",
         "フード／ドリンク"
       ],
-      "trackId": 585027354,
-      "trackName": "Google マップ",
-      "releaseDate": "2012-12-13T04:21:00Z",
-      "sellerName": "Google LLC",
+      "price": 0,
+      "genreIds": [
+        "6010",
+        "6023"
+      ],
       "isVppDeviceBasedLicensingEnabled": true,
+      "trackName": "Google マップ",
+      "trackId": 585027354,
+      "sellerName": "Google LLC",
       "primaryGenreName": "Navigation",
       "primaryGenreId": 6010,
       "currentVersionReleaseDate": "2026-08-14T19:08:57Z",
@@ -401,10 +405,11 @@
       "wrapperType": "software",
       "currency": "JPY",
       "description": "Google マップがあれば、どんな場所でも簡単に見つけてたどり着くことができます。リアルタイムの交通データと GPS ナビゲーション機能で、自動車、徒歩、自転車、公共交通機関のそれぞれで最適なルートが見つかります。レストランやショップから日用品店まで、2 億 5 千万件を超える店舗や場所を調べることも、写真、クチコミ、役立つ情報を確認することもできます。\n\nあらゆる場所へ、思いのままに:\n• 燃料効率が良いルートのオプションを使用して目的地に到着\n• リアルタイムのターンバイターン方式音声ナビゲーションや画面上のナビゲーションで最適なルートを見つけられる\n• 交通量、事故、通行止めに関するリアルタイムの情報に基づく別ルート自動検索で、移動時間を短縮\n• リアルタイムの更新情報で、バス、鉄道、ライド シェアを簡単に利用可能\n• 簡易な移動手段としてバイクやスクーターのレンタル サービスを検索可能\n\nルートや行動の事前準備を簡単に:\n• 出かける前に駐車場や入口などの場所をストリートビューで確認可能\n• イマーシブビューを使用して、ランドマーク、公園、経路の概要を把握し、天気も確認して事前に準備\n• 保存したお気に入りの場所のカスタムリストを作成し、他の人と共有\n• デリバリーやテイクアウトを注文したり、レストランやホテルの予約も可能\n• 電波状況の悪い地域で道に迷うことのないよう、オフラインでマップを使用可能\n• 地域のおすすめスポットやアクティビティを検索し、ユーザーのクチコミと写真を参考に決定できる\n\n地元の人のように見つけて探索:\n• 毎年 5 億人のユーザーによる投稿でマップを最新の状態に保っているため、安心して探索できる\n• 現地に向かう前に混雑状況を確認し、人混みを回避\n• Google マップのレンズで、実際の風景に重ねて徒歩経路を確認可能\n• 料理、営業時間、価格、クチコミなどでレストランを絞り込める\n• 料理や駐車場など、スポットに関する質問をして、すぐに回答を得られる\n\n一部の機能は、国や地域によってはご利用いただけないことがあります\n大型車や緊急車両でのナビの利用は想定されていません",
-      "averageUserRatingForCurrentVersion": 4.52324,
-      "sellerUrl": "http://maps.google.com/about",
-      "averageUserRating": 4.52324,
+      "averageUserRating": 4.5231,
       "trackCensoredName": "Google マップ",
+      "trackViewUrl": "https://apps.apple.com/jp/app/google-%E3%83%9E%E3%83%83%E3%83%97/id585027354?uo=4",
+      "contentAdvisoryRating": "4+",
+      "sellerUrl": "http://maps.google.com/about",
       "languageCodesISO2A": [
         "SQ",
         "AR",
@@ -451,45 +456,19 @@
       ],
       "fileSizeBytes": "485685248",
       "formattedPrice": "無料",
-      "contentAdvisoryRating": "4+",
-      "userRatingCountForCurrentVersion": 1769127,
-      "trackViewUrl": "https://apps.apple.com/jp/app/google-%E3%83%9E%E3%83%83%E3%83%97/id585027354?uo=4",
+      "userRatingCountForCurrentVersion": 1771013,
       "trackContentRating": "4+",
-      "price": 0,
-      "genreIds": [
-        "6010",
-        "6023"
-      ],
-      "userRatingCount": 1769127,
+      "averageUserRatingForCurrentVersion": 4.5231,
+      "releaseDate": "2012-12-13T04:21:00Z",
+      "userRatingCount": 1771013,
       "country": "JPN"
     },
     {
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f0/12/54/f0125476-fd37-8c11-ca24-1034451ccaf6/download.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3c/02/9e/3c029eda-f5d4-c59b-b3ee-b6821c40c7ad/download__U00281_U0029.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1a/9a/53/1a9a5337-f18f-2d2d-f35e-265b553d1a4a/download__U00282_U0029.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f9/2c/01/f92c014a-0484-766a-ea25-604248f37aaa/download__U00283_U0029.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/97/c9/d7/97c9d772-501a-03ba-580f-366ae5ae2769/download__U00284_U0029.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/83/c6/d7/83c6d754-c12b-285e-5060-02f08730c2ea/download__U00285_U0029.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e4/bc/92/e4bc928c-2bc4-cb24-72e0-f4c3397d96e0/download__U00286_U0029.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/eb/4c/48/eb4c48f4-d1e9-5eee-d5fb-4a5c3e85c927/download__U00287_U0029.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/66/8c/16/668c16b7-2c34-38fd-3785-3547373ce185/download__U00288_U0029.png/320x480bb.jpg"
-      ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e8/5a/32/e85a32b8-3720-accc-1759-fad280fd6d0a/APP_IPAD_PRO_3GEN_129-0.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ab/9b/90/ab9b9086-3cec-aa2f-f9f5-19c80bc0ef62/APP_IPAD_PRO_3GEN_129-1.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/98/f6/f5/98f6f505-ac44-db54-9d71-02384a844e01/APP_IPAD_PRO_3GEN_129-2.png/360x480bb.jpg"
-      ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/d3/e2/4ed3e273-5114-70b7-b919-dca325bee1aa/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/us/developer/google/id281956209?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/d3/e2/4ed3e273-5114-70b7-b919-dca325bee1aa/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/d3/e2/4ed3e273-5114-70b7-b919-dca325bee1aa/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.jpg",
+      "advisories": [],
       "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
       ],
-      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -621,6 +600,51 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
       "kind": "software",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f0/12/54/f0125476-fd37-8c11-ca24-1034451ccaf6/download.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3c/02/9e/3c029eda-f5d4-c59b-b3ee-b6821c40c7ad/download__U00281_U0029.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1a/9a/53/1a9a5337-f18f-2d2d-f35e-265b553d1a4a/download__U00282_U0029.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f9/2c/01/f92c014a-0484-766a-ea25-604248f37aaa/download__U00283_U0029.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/97/c9/d7/97c9d772-501a-03ba-580f-366ae5ae2769/download__U00284_U0029.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/83/c6/d7/83c6d754-c12b-285e-5060-02f08730c2ea/download__U00285_U0029.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e4/bc/92/e4bc928c-2bc4-cb24-72e0-f4c3397d96e0/download__U00286_U0029.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/eb/4c/48/eb4c48f4-d1e9-5eee-d5fb-4a5c3e85c927/download__U00287_U0029.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/66/8c/16/668c16b7-2c34-38fd-3785-3547373ce185/download__U00288_U0029.png/320x480bb.jpg"
+      ],
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e8/5a/32/e85a32b8-3720-accc-1759-fad280fd6d0a/APP_IPAD_PRO_3GEN_129-0.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ab/9b/90/ab9b9086-3cec-aa2f-f9f5-19c80bc0ef62/APP_IPAD_PRO_3GEN_129-1.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/98/f6/f5/98f6f505-ac44-db54-9d71-02384a844e01/APP_IPAD_PRO_3GEN_129-2.png/360x480bb.jpg"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/d3/e2/4ed3e273-5114-70b7-b919-dca325bee1aa/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/512x512bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/us/developer/google/id281956209?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/d3/e2/4ed3e273-5114-70b7-b919-dca325bee1aa/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/d3/e2/4ed3e273-5114-70b7-b919-dca325bee1aa/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.jpg",
+      "currentVersionReleaseDate": "2026-08-14T19:08:57Z",
+      "artistId": 281956209,
+      "price": 0,
+      "genres": [
+        "Navigation",
+        "Food & Drink"
+      ],
+      "bundleId": "com.google.Maps",
+      "releaseDate": "2012-12-13T04:21:00Z",
+      "releaseNotes": "Thanks for using Google Maps! This release brings bug fixes that improve our product to help you discover new places and navigate to them.",
+      "trackName": "Google Maps",
+      "trackId": 585027354,
+      "genreIds": [
+        "6010",
+        "6023"
+      ],
+      "primaryGenreName": "Navigation",
+      "primaryGenreId": 6010,
+      "sellerName": "Google LLC",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "version": "26.33.1",
+      "wrapperType": "software",
+      "currency": "USD",
+      "description": "Explore and navigate the world with confidence using Google Maps. Find the best routes with live traffic data and real-time GPS navigation for driving, walking, cycling, and public transport. Discover over 250 million businesses and places - from restaurants and shops to everyday essentials – with photos, reviews, and helpful information.\n\nNavigate the world, the way you want:\n• Get to where you need to go with fuel-efficient route options\n• Find the best route with real-time, turn-by-turn voice, and on screen navigation\n• Save time with automatic rerouting based on live traffic, incidents, and road closures\n• Catch the bus, train, and ride-share effortlessly, with real-time updates\n• Find bike or scooter rentals to get around more easily\n\nPlan trips and experiences effortlessly:\n• Preview an area before you go (e.g. parking, entrances) with Street View\n• Use Immersive View to experience what landmarks, parks and routes look like, and even check the weather so you can be ready in advance\n• Create custom lists of your favorite saved places and share with others\n• Order delivery and takeout, make reservations, and book hotels\n• Don't get lost with offline maps in an area with bad signal\n• Search for local places and things to do, and decide based on user reviews and photos\n\nDiscover and explore like a local:\n• Explore with confidence knowing 500 million users contribute and keep the map up to date each year\n• Avoid the crowds by seeing how busy a place is before you get there\n• Use Lens in Maps to see walking directions overlaid on the real world\n• Filter restaurants by cuisine, hours, price, rating and more\n• Ask questions about a place, from dishes to parking, and get quick answers\n\nSome features not available in all countries or cities\nNavigation isn't intended to be used by oversized or emergency vehicles",
       "sellerUrl": "http://maps.google.com/about",
       "languageCodesISO2A": [
         "SQ",
@@ -668,47 +692,36 @@
       ],
       "fileSizeBytes": "485685248",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 7313864,
+      "userRatingCountForCurrentVersion": 7322316,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.67804,
-      "averageUserRating": 4.67804,
+      "minimumOsVersion": "16.0",
+      "averageUserRatingForCurrentVersion": 4.67793,
+      "contentAdvisoryRating": "4+",
       "trackCensoredName": "Google Maps",
       "trackViewUrl": "https://apps.apple.com/us/app/google-maps/id585027354?uo=4",
-      "contentAdvisoryRating": "4+",
-      "minimumOsVersion": "16.0",
-      "artistId": 281956209,
+      "averageUserRating": 4.67793,
       "artistName": "Google",
-      "genres": [
-        "Navigation",
-        "Food & Drink"
-      ],
-      "price": 0,
-      "bundleId": "com.google.Maps",
-      "sellerName": "Google LLC",
-      "releaseDate": "2012-12-13T04:21:00Z",
-      "primaryGenreName": "Navigation",
-      "primaryGenreId": 6010,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "trackId": 585027354,
-      "trackName": "Google Maps",
-      "currentVersionReleaseDate": "2026-08-14T19:08:57Z",
-      "releaseNotes": "Thanks for using Google Maps! This release brings bug fixes that improve our product to help you discover new places and navigate to them.",
-      "version": "26.33.1",
-      "wrapperType": "software",
-      "currency": "USD",
-      "description": "Explore and navigate the world with confidence using Google Maps. Find the best routes with live traffic data and real-time GPS navigation for driving, walking, cycling, and public transport. Discover over 250 million businesses and places - from restaurants and shops to everyday essentials – with photos, reviews, and helpful information.\n\nNavigate the world, the way you want:\n• Get to where you need to go with fuel-efficient route options\n• Find the best route with real-time, turn-by-turn voice, and on screen navigation\n• Save time with automatic rerouting based on live traffic, incidents, and road closures\n• Catch the bus, train, and ride-share effortlessly, with real-time updates\n• Find bike or scooter rentals to get around more easily\n\nPlan trips and experiences effortlessly:\n• Preview an area before you go (e.g. parking, entrances) with Street View\n• Use Immersive View to experience what landmarks, parks and routes look like, and even check the weather so you can be ready in advance\n• Create custom lists of your favorite saved places and share with others\n• Order delivery and takeout, make reservations, and book hotels\n• Don't get lost with offline maps in an area with bad signal\n• Search for local places and things to do, and decide based on user reviews and photos\n\nDiscover and explore like a local:\n• Explore with confidence knowing 500 million users contribute and keep the map up to date each year\n• Avoid the crowds by seeing how busy a place is before you get there\n• Use Lens in Maps to see walking directions overlaid on the real world\n• Filter restaurants by cuisine, hours, price, rating and more\n• Ask questions about a place, from dishes to parking, and get quick answers\n\nSome features not available in all countries or cities\nNavigation isn't intended to be used by oversized or emergency vehicles",
-      "genreIds": [
-        "6010",
-        "6023"
-      ],
-      "userRatingCount": 7313864,
+      "userRatingCount": 7322316,
       "country": "USA"
     },
     {
-      "isGameCenterEnabled": false,
-      "artistViewUrl": "https://apps.apple.com/de/developer/google/id281956209?uo=4",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f4/13/43/f4134328-acbb-bc8f-0c51-b08cda5d34f6/APP_IPHONE_65-0.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3b/37/6c/3b376c30-fdb9-c2da-defc-e519c4e1bca5/APP_IPHONE_65-1.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ec/f5/85/ecf58555-6716-c23a-bc7c-43c22fb89142/APP_IPHONE_65-2.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a5/e8/fc/a5e8fcb0-fab3-9465-ba16-fd78022ff575/APP_IPHONE_65-3.png/320x480bb.jpg"
+      ],
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5d/9d/d9/5d9dd9cf-5b08-733b-c1f4-e3f19df20e1b/APP_IPAD_PRO_3GEN_129-0.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c6/d8/d6/c6d8d65a-3b80-6b4b-2411-1a05a4f5d689/APP_IPAD_PRO_3GEN_129-1.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/52/11/23/521123bf-2796-85ac-3dde-e747d3b41a25/APP_IPAD_PRO_3GEN_129-2.png/360x480bb.jpg"
+      ],
+      "appletvScreenshotUrls": [],
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/d3/e2/4ed3e273-5114-70b7-b919-dca325bee1aa/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/60x60bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/d3/e2/4ed3e273-5114-70b7-b919-dca325bee1aa/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/512x512bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/d3/e2/4ed3e273-5114-70b7-b919-dca325bee1aa/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/de/developer/google/id281956209?uo=4",
+      "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
       ],
@@ -844,50 +857,7 @@
       ],
       "advisories": [],
       "kind": "software",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f4/13/43/f4134328-acbb-bc8f-0c51-b08cda5d34f6/APP_IPHONE_65-0.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3b/37/6c/3b376c30-fdb9-c2da-defc-e519c4e1bca5/APP_IPHONE_65-1.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ec/f5/85/ecf58555-6716-c23a-bc7c-43c22fb89142/APP_IPHONE_65-2.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a5/e8/fc/a5e8fcb0-fab3-9465-ba16-fd78022ff575/APP_IPHONE_65-3.png/320x480bb.jpg"
-      ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5d/9d/d9/5d9dd9cf-5b08-733b-c1f4-e3f19df20e1b/APP_IPAD_PRO_3GEN_129-0.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c6/d8/d6/c6d8d65a-3b80-6b4b-2411-1a05a4f5d689/APP_IPAD_PRO_3GEN_129-1.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/52/11/23/521123bf-2796-85ac-3dde-e747d3b41a25/APP_IPAD_PRO_3GEN_129-2.png/360x480bb.jpg"
-      ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/d3/e2/4ed3e273-5114-70b7-b919-dca325bee1aa/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/512x512bb.jpg",
-      "minimumOsVersion": "16.0",
-      "averageUserRating": 4.61086,
-      "trackCensoredName": "Google Maps",
-      "trackViewUrl": "https://apps.apple.com/de/app/google-maps/id585027354?uo=4",
-      "contentAdvisoryRating": "4+",
-      "artistId": 281956209,
-      "artistName": "Google",
-      "genres": [
-        "Navigation",
-        "Essen und Trinken"
-      ],
-      "price": 0,
-      "trackId": 585027354,
-      "bundleId": "com.google.Maps",
-      "currentVersionReleaseDate": "2026-08-14T19:08:57Z",
-      "trackName": "Google Maps",
-      "genreIds": [
-        "6010",
-        "6023"
-      ],
-      "sellerName": "Google LLC",
-      "primaryGenreName": "Navigation",
-      "primaryGenreId": 6010,
-      "releaseDate": "2012-12-13T04:21:00Z",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseNotes": "Schön, dass du Google Maps verwendest. Dieser Release enthält Fehlerkorrekturen, durch die unsere App verbessert wird. Du kannst nun einfacher neue Orte entdecken und den besten Weg dorthin finden.",
-      "version": "26.33.1",
-      "wrapperType": "software",
-      "currency": "EUR",
-      "description": "Mit Google Maps kannst du die Welt ganz einfach erkunden und bereisen. Anhand von Live-Verkehrsdaten und GPS-Navigation lassen sich die besten Routen finden – ganz gleich, ob du mit dem Auto, zu Fuß, mit dem Fahrrad oder mit öffentlichen Verkehrsmitteln unterwegs bist. Über 250 Millionen Orte und Unternehmen, darunter Restaurants, Geschäfte und Lebensmittelhändler, sind bei Google Maps eingetragen – mit Fotos, Rezensionen und nützlichen Informationen.\n\nErkunde die Welt auf deine Weise:\n• Erreiche dein Ziel mit kraftstoffsparenden Routen\n• Finde die beste Route anhand von Echtzeitinformationen mit detaillierter Routenführung per Sprachnavigation oder Navigation auf dem Bildschirm\n• Komm schneller ans Ziel mithilfe der automatischen Neuberechnung von Routen, je nach aktueller Verkehrslage, Verkehrsbehinderungen und Straßensperrungen\n• Echtzeitinformationen machen es einfacher, deinen Bus, Zug oder Fahrdienst zu erreichen.\n• Wenn du besser vorankommen und flexibler sein möchtest, kannst du nach einem Fahrrad- oder Rollerverleih suchen.\n\nPlane Reisen und Ausflüge ohne viel Aufwand:\n• Street View ermöglicht es dir, schon vorab die Gegend zu erkunden und herauszufinden, wo sich beispielsweise Parkmöglichkeiten und Eingänge befinden.\n• Mit Immersive View kannst du dir Sehenswürdigkeiten, Parks und Routen ansehen oder sogar die Wetterverhältnisse beobachten, damit du optimal auf deinen Besuch vorbereitet bist.\n• Teile Listen mit deinen gespeicherten Lieblingsorten mit anderen.\n• Du hast die Möglichkeit, Essen zur Lieferung und Selbstabholung zu bestellen, Reservierungen vorzunehmen und Hotels zu buchen.\n• Mithilfe von Offlinekarten findest du dich auch in Gegenden mit schlechtem Empfang gut zurecht.\n• Du kannst nach lokalen Orten und möglichen Aktivitäten suchen und basierend auf Nutzerrezensionen und Fotos Entscheidungen treffen.\n\nLass dich von Insidertipps inspirieren:\n• Jährlich tragen 500 Millionen Nutzer dazu bei, die Google Maps auf dem neuesten Stand zu halten. Dir stehen also aktuelle Informationen zur Verfügung.\n• Du kannst vorab herausfinden, wie stark ein Ort besucht ist, und so Menschenansammlungen meiden.\n• Mithilfe von Lens in Maps lassen sich Fußgängerrouten in die reale Umgebung einblenden.\n• Restaurants können beispielsweise nach Restauranttyp, Öffnungszeiten, Preisen oder Bewertungen gefiltert werden.\n• Bei Fragen zu einem Ort – etwa zu den angebotenen Gerichten oder Parkplätzen – erhältst du schnell Antworten.\n\nEinige Funktionen sind nicht in allen Ländern oder Städten verfügbar.\nDie Navigation ist nicht für übergroße Fahrzeuge oder Einsatzfahrzeuge geeignet.",
-      "averageUserRatingForCurrentVersion": 4.61086,
+      "averageUserRatingForCurrentVersion": 4.61071,
       "sellerUrl": "http://maps.google.com/about",
       "languageCodesISO2A": [
         "SQ",
@@ -935,29 +905,46 @@
       ],
       "fileSizeBytes": "485685248",
       "formattedPrice": "Gratis",
-      "userRatingCountForCurrentVersion": 925984,
+      "contentAdvisoryRating": "4+",
+      "userRatingCountForCurrentVersion": 927418,
+      "trackViewUrl": "https://apps.apple.com/de/app/google-maps/id585027354?uo=4",
       "trackContentRating": "4+",
-      "userRatingCount": 925984,
+      "averageUserRating": 4.61071,
+      "trackCensoredName": "Google Maps",
+      "artistId": 281956209,
+      "artistName": "Google",
+      "genres": [
+        "Navigation",
+        "Essen und Trinken"
+      ],
+      "price": 0,
+      "bundleId": "com.google.Maps",
+      "currentVersionReleaseDate": "2026-08-14T19:08:57Z",
+      "genreIds": [
+        "6010",
+        "6023"
+      ],
+      "trackName": "Google Maps",
+      "trackId": 585027354,
+      "releaseDate": "2012-12-13T04:21:00Z",
+      "primaryGenreName": "Navigation",
+      "primaryGenreId": 6010,
+      "sellerName": "Google LLC",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseNotes": "Schön, dass du Google Maps verwendest. Dieser Release enthält Fehlerkorrekturen, durch die unsere App verbessert wird. Du kannst nun einfacher neue Orte entdecken und den besten Weg dorthin finden.",
+      "version": "26.33.1",
+      "wrapperType": "software",
+      "currency": "EUR",
+      "description": "Mit Google Maps kannst du die Welt ganz einfach erkunden und bereisen. Anhand von Live-Verkehrsdaten und GPS-Navigation lassen sich die besten Routen finden – ganz gleich, ob du mit dem Auto, zu Fuß, mit dem Fahrrad oder mit öffentlichen Verkehrsmitteln unterwegs bist. Über 250 Millionen Orte und Unternehmen, darunter Restaurants, Geschäfte und Lebensmittelhändler, sind bei Google Maps eingetragen – mit Fotos, Rezensionen und nützlichen Informationen.\n\nErkunde die Welt auf deine Weise:\n• Erreiche dein Ziel mit kraftstoffsparenden Routen\n• Finde die beste Route anhand von Echtzeitinformationen mit detaillierter Routenführung per Sprachnavigation oder Navigation auf dem Bildschirm\n• Komm schneller ans Ziel mithilfe der automatischen Neuberechnung von Routen, je nach aktueller Verkehrslage, Verkehrsbehinderungen und Straßensperrungen\n• Echtzeitinformationen machen es einfacher, deinen Bus, Zug oder Fahrdienst zu erreichen.\n• Wenn du besser vorankommen und flexibler sein möchtest, kannst du nach einem Fahrrad- oder Rollerverleih suchen.\n\nPlane Reisen und Ausflüge ohne viel Aufwand:\n• Street View ermöglicht es dir, schon vorab die Gegend zu erkunden und herauszufinden, wo sich beispielsweise Parkmöglichkeiten und Eingänge befinden.\n• Mit Immersive View kannst du dir Sehenswürdigkeiten, Parks und Routen ansehen oder sogar die Wetterverhältnisse beobachten, damit du optimal auf deinen Besuch vorbereitet bist.\n• Teile Listen mit deinen gespeicherten Lieblingsorten mit anderen.\n• Du hast die Möglichkeit, Essen zur Lieferung und Selbstabholung zu bestellen, Reservierungen vorzunehmen und Hotels zu buchen.\n• Mithilfe von Offlinekarten findest du dich auch in Gegenden mit schlechtem Empfang gut zurecht.\n• Du kannst nach lokalen Orten und möglichen Aktivitäten suchen und basierend auf Nutzerrezensionen und Fotos Entscheidungen treffen.\n\nLass dich von Insidertipps inspirieren:\n• Jährlich tragen 500 Millionen Nutzer dazu bei, die Google Maps auf dem neuesten Stand zu halten. Dir stehen also aktuelle Informationen zur Verfügung.\n• Du kannst vorab herausfinden, wie stark ein Ort besucht ist, und so Menschenansammlungen meiden.\n• Mithilfe von Lens in Maps lassen sich Fußgängerrouten in die reale Umgebung einblenden.\n• Restaurants können beispielsweise nach Restauranttyp, Öffnungszeiten, Preisen oder Bewertungen gefiltert werden.\n• Bei Fragen zu einem Ort – etwa zu den angebotenen Gerichten oder Parkplätzen – erhältst du schnell Antworten.\n\nEinige Funktionen sind nicht in allen Ländern oder Städten verfügbar.\nDie Navigation ist nicht für übergroße Fahrzeuge oder Einsatzfahrzeuge geeignet.",
+      "minimumOsVersion": "16.0",
+      "userRatingCount": 927418,
       "country": "DEU"
     },
     {
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/95/58/2f/95582f8b-d1f3-812a-16ed-7862d2bf8621/APP_IPHONE_65-0.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/97/39/a5/9739a5d9-cf28-52c1-811d-7be6fc47d1d9/APP_IPHONE_65-1.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/70/2f/0f/702f0fc6-6915-8bf5-3f63-b56ce6f247b0/APP_IPHONE_65-2.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0f/c5/04/0fc50462-539d-1091-10c3-f6690c5e9da6/APP_IPHONE_65-3.png/320x480bb.jpg"
-      ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9a/f3/6d/9af36d40-a631-182e-ec40-a7cfeb5941f6/APP_IPAD_PRO_3GEN_129-0.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/78/58/84/78588487-d53d-7293-47b0-7cc1b069d3cf/APP_IPAD_PRO_3GEN_129-1.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b9/7a/44/b97a4487-367b-d5c4-5277-a7360645e195/APP_IPAD_PRO_3GEN_129-2.png/360x480bb.jpg"
-      ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/d3/e2/4ed3e273-5114-70b7-b919-dca325bee1aa/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/512x512bb.jpg",
       "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
+      "artistViewUrl": "https://apps.apple.com/fr/developer/google/id281956209?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/d3/e2/4ed3e273-5114-70b7-b919-dca325bee1aa/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/d3/e2/4ed3e273-5114-70b7-b919-dca325bee1aa/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -1088,13 +1075,55 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
+      "features": [
+        "iosUniversal"
+      ],
       "advisories": [],
       "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/fr/developer/google/id281956209?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/d3/e2/4ed3e273-5114-70b7-b919-dca325bee1aa/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/d3/e2/4ed3e273-5114-70b7-b919-dca325bee1aa/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.jpg",
-      "averageUserRatingForCurrentVersion": 4.58131,
-      "sellerUrl": "http://maps.google.com/about",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/95/58/2f/95582f8b-d1f3-812a-16ed-7862d2bf8621/APP_IPHONE_65-0.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/97/39/a5/9739a5d9-cf28-52c1-811d-7be6fc47d1d9/APP_IPHONE_65-1.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/70/2f/0f/702f0fc6-6915-8bf5-3f63-b56ce6f247b0/APP_IPHONE_65-2.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0f/c5/04/0fc50462-539d-1091-10c3-f6690c5e9da6/APP_IPHONE_65-3.png/320x480bb.jpg"
+      ],
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9a/f3/6d/9af36d40-a631-182e-ec40-a7cfeb5941f6/APP_IPAD_PRO_3GEN_129-0.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/78/58/84/78588487-d53d-7293-47b0-7cc1b069d3cf/APP_IPAD_PRO_3GEN_129-1.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b9/7a/44/b97a4487-367b-d5c4-5277-a7360645e195/APP_IPAD_PRO_3GEN_129-2.png/360x480bb.jpg"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/d3/e2/4ed3e273-5114-70b7-b919-dca325bee1aa/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/512x512bb.jpg",
+      "minimumOsVersion": "16.0",
+      "averageUserRating": 4.58125,
+      "trackCensoredName": "Google Maps",
+      "trackViewUrl": "https://apps.apple.com/fr/app/google-maps/id585027354?uo=4",
+      "contentAdvisoryRating": "4+",
+      "artistId": 281956209,
+      "artistName": "Google",
+      "genres": [
+        "Navigation",
+        "Cuisine et boissons"
+      ],
+      "price": 0,
+      "bundleId": "com.google.Maps",
+      "trackId": 585027354,
+      "trackName": "Google Maps",
+      "releaseDate": "2012-12-13T04:21:00Z",
+      "genreIds": [
+        "6010",
+        "6023"
+      ],
+      "primaryGenreName": "Navigation",
+      "primaryGenreId": 6010,
+      "sellerName": "Google LLC",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-08-14T19:08:57Z",
+      "releaseNotes": "Merci d'utiliser Google Maps ! Cette mise à jour apporte des corrections de bugs visant à améliorer notre produit afin de faciliter la découverte de nouveaux lieux et la navigation.",
+      "version": "26.33.1",
+      "wrapperType": "software",
+      "currency": "EUR",
+      "description": "Découvrez et parcourez le monde avec sérénité grâce à Google Maps. Trouvez les meilleurs itinéraires en voiture, à pied, à vélo et en transports en commun, tout en profitant de données sur le trafic en direct et d'une navigation GPS en temps réel. Découvrez plus de 250 millions d'établissements et lieux (des restaurants et boutiques aux essentiels du quotidien) avec des photos, des avis et des informations utiles.\n\nParcourez le monde à votre façon :\n• Rendez-vous à votre destination en profitant d'options d'itinéraires économes en carburant.\n• Découvrez le meilleur itinéraire à l'aide d'une navigation détaillée en temps réel offrant un guidage vocal et des instructions à l'écran.\n• Gagnez du temps grâce aux itinéraires actualisés automatiquement en fonction du trafic en temps réel, des incidents et des routes fermées.\n• Prenez le bus ou le train et faites du covoiturage en toute simplicité en bénéficiant d'informations en temps réel.\n• Trouvez un vélo ou une trottinette à louer pour vous déplacer plus facilement.\n\nPlanifiez vos trajets et activités sans effort :\n• Découvrez un aperçu de votre destination avant de vous y rendre (parkings, entrées, etc.) grâce à Street View.\n• Utilisez Immersive View pour voir à quoi ressemblent les points de repère, les parcs et les itinéraires. Vous pouvez même vérifier la météo sur place pour préparer votre arrivée.\n• Créez des listes personnalisées de vos lieux enregistrés préférés et partagez-les avec d'autres personnes.\n• Passez des commandes à emporter, faites-vous livrer et effectuez des réservations dans des restaurants et des hôtels.\n• Profitez des plans hors connexion pour éviter de vous perdre lorsque votre couverture réseau est mauvaise.\n• Recherchez des lieux et des activités à découvrir à proximité, et faites votre choix en fonction des avis et des photos d'autres utilisateurs.\n\nExplorez et parcourez des lieux comme les gens du coin :\n• Découvrez de nouveaux endroits de façon sereine grâce aux 500 millions de contributeurs qui aident Google à garder la carte à jour tout au long de l'année.\n• Évitez la foule en vérifiant le niveau d'affluence d'un lieu avant de vous y rendre.\n• Utilisez Lens dans Maps pour voir vos itinéraires à pied dans l'environnement réel.\n• Filtrez les restaurants en fonction de leur type de cuisine, de leurs horaires, de leurs tarifs, de leur note et plus encore.\n• Posez des questions sur un lieu, que ce soit sur ses plats ou les parkings disponibles, et obtenez rapidement des réponses.\n\nCertaines fonctionnalités ne sont pas disponibles dans l'ensemble des pays ou des villes.\nLa navigation n'est pas conçue pour les véhicules d'urgence ou de grand gabarit.",
+      "averageUserRatingForCurrentVersion": 4.58125,
       "languageCodesISO2A": [
         "SQ",
         "AR",
@@ -1141,46 +1170,13 @@
       ],
       "fileSizeBytes": "485685248",
       "formattedPrice": "Gratuit",
-      "userRatingCountForCurrentVersion": 800174,
+      "userRatingCountForCurrentVersion": 801585,
       "trackContentRating": "4+",
-      "artistId": 281956209,
-      "artistName": "Google",
-      "genres": [
-        "Navigation",
-        "Cuisine et boissons"
-      ],
-      "price": 0,
-      "releaseDate": "2012-12-13T04:21:00Z",
-      "primaryGenreName": "Navigation",
-      "primaryGenreId": 6010,
-      "bundleId": "com.google.Maps",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "genreIds": [
-        "6010",
-        "6023"
-      ],
-      "trackId": 585027354,
-      "trackName": "Google Maps",
-      "currentVersionReleaseDate": "2026-08-14T19:08:57Z",
-      "releaseNotes": "Merci d'utiliser Google Maps ! Cette mise à jour apporte des corrections de bugs visant à améliorer notre produit afin de faciliter la découverte de nouveaux lieux et la navigation.",
-      "version": "26.33.1",
-      "wrapperType": "software",
-      "currency": "EUR",
-      "description": "Découvrez et parcourez le monde avec sérénité grâce à Google Maps. Trouvez les meilleurs itinéraires en voiture, à pied, à vélo et en transports en commun, tout en profitant de données sur le trafic en direct et d'une navigation GPS en temps réel. Découvrez plus de 250 millions d'établissements et lieux (des restaurants et boutiques aux essentiels du quotidien) avec des photos, des avis et des informations utiles.\n\nParcourez le monde à votre façon :\n• Rendez-vous à votre destination en profitant d'options d'itinéraires économes en carburant.\n• Découvrez le meilleur itinéraire à l'aide d'une navigation détaillée en temps réel offrant un guidage vocal et des instructions à l'écran.\n• Gagnez du temps grâce aux itinéraires actualisés automatiquement en fonction du trafic en temps réel, des incidents et des routes fermées.\n• Prenez le bus ou le train et faites du covoiturage en toute simplicité en bénéficiant d'informations en temps réel.\n• Trouvez un vélo ou une trottinette à louer pour vous déplacer plus facilement.\n\nPlanifiez vos trajets et activités sans effort :\n• Découvrez un aperçu de votre destination avant de vous y rendre (parkings, entrées, etc.) grâce à Street View.\n• Utilisez Immersive View pour voir à quoi ressemblent les points de repère, les parcs et les itinéraires. Vous pouvez même vérifier la météo sur place pour préparer votre arrivée.\n• Créez des listes personnalisées de vos lieux enregistrés préférés et partagez-les avec d'autres personnes.\n• Passez des commandes à emporter, faites-vous livrer et effectuez des réservations dans des restaurants et des hôtels.\n• Profitez des plans hors connexion pour éviter de vous perdre lorsque votre couverture réseau est mauvaise.\n• Recherchez des lieux et des activités à découvrir à proximité, et faites votre choix en fonction des avis et des photos d'autres utilisateurs.\n\nExplorez et parcourez des lieux comme les gens du coin :\n• Découvrez de nouveaux endroits de façon sereine grâce aux 500 millions de contributeurs qui aident Google à garder la carte à jour tout au long de l'année.\n• Évitez la foule en vérifiant le niveau d'affluence d'un lieu avant de vous y rendre.\n• Utilisez Lens dans Maps pour voir vos itinéraires à pied dans l'environnement réel.\n• Filtrez les restaurants en fonction de leur type de cuisine, de leurs horaires, de leurs tarifs, de leur note et plus encore.\n• Posez des questions sur un lieu, que ce soit sur ses plats ou les parkings disponibles, et obtenez rapidement des réponses.\n\nCertaines fonctionnalités ne sont pas disponibles dans l'ensemble des pays ou des villes.\nLa navigation n'est pas conçue pour les véhicules d'urgence ou de grand gabarit.",
-      "trackCensoredName": "Google Maps",
-      "trackViewUrl": "https://apps.apple.com/fr/app/google-maps/id585027354?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.58131,
-      "minimumOsVersion": "16.0",
-      "sellerName": "Google LLC",
-      "userRatingCount": 800174,
+      "sellerUrl": "http://maps.google.com/about",
+      "userRatingCount": 801585,
       "country": "FRA"
     },
     {
-      "artistViewUrl": "https://apps.apple.com/gb/developer/google/id281956209?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/d3/e2/4ed3e273-5114-70b7-b919-dca325bee1aa/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/d3/e2/4ed3e273-5114-70b7-b919-dca325bee1aa/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.jpg",
-      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/84/22/b6/8422b655-4d23-8ff8-c5e6-638173415d4b/APP_IPHONE_65-0.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/94/1d/0c/941d0c80-9f1b-e67b-3713-5f7907db98fd/APP_IPHONE_65-1.png/320x480bb.jpg",
@@ -1194,9 +1190,12 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/d3/e2/4ed3e273-5114-70b7-b919-dca325bee1aa/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/512x512bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/d3/e2/4ed3e273-5114-70b7-b919-dca325bee1aa/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/d3/e2/4ed3e273-5114-70b7-b919-dca325bee1aa/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/gb/developer/google/id281956209?uo=4",
+      "isGameCenterEnabled": false,
+      "advisories": [],
+      "kind": "software",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -1327,14 +1326,10 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "kind": "software",
-      "advisories": [],
-      "averageUserRating": 4.66239,
-      "trackCensoredName": "Google Maps",
-      "trackViewUrl": "https://apps.apple.com/gb/app/google-maps/id585027354?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.66239,
-      "sellerUrl": "http://maps.google.com/about",
+      "features": [
+        "iosUniversal"
+      ],
+      "averageUserRatingForCurrentVersion": 4.66227,
       "languageCodesISO2A": [
         "SQ",
         "AR",
@@ -1379,37 +1374,42 @@
         "UZ",
         "VI"
       ],
+      "userRatingCountForCurrentVersion": 972967,
+      "trackContentRating": "4+",
       "fileSizeBytes": "485685248",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 971694,
-      "trackContentRating": "4+",
-      "minimumOsVersion": "16.0",
+      "sellerUrl": "http://maps.google.com/about",
+      "trackCensoredName": "Google Maps",
+      "trackViewUrl": "https://apps.apple.com/gb/app/google-maps/id585027354?uo=4",
+      "averageUserRating": 4.66227,
+      "contentAdvisoryRating": "4+",
+      "bundleId": "com.google.Maps",
+      "artistName": "Google",
+      "artistId": 281956209,
       "genres": [
         "Navigation",
         "Food & Drink"
       ],
+      "releaseNotes": "Thanks for using Google Maps! This release brings bug fixes that improve our product to help you discover new places and navigate to them.",
       "price": 0,
-      "currentVersionReleaseDate": "2026-08-14T19:08:57Z",
-      "bundleId": "com.google.Maps",
       "releaseDate": "2012-12-13T04:21:00Z",
+      "isVppDeviceBasedLicensingEnabled": true,
       "sellerName": "Google LLC",
+      "currentVersionReleaseDate": "2026-08-14T19:08:57Z",
+      "version": "26.33.1",
+      "wrapperType": "software",
+      "currency": "GBP",
+      "description": "Explore and navigate the world with confidence using Google Maps. Find the best routes with live traffic data and real-time GPS navigation for driving, walking, cycling and public transport. Discover over 250 million businesses and places – from restaurants and shops to everyday essentials – with photos, reviews and helpful information.\n\nNavigate the world, the way that you want:\n• Get to where you need to go with fuel-efficient route options\n• Find the best route with real-time, turn-by-turn voice and on-screen navigation\n• Save time with automatic rerouting based on live traffic, incidents and road closures\n• Catch the bus, train and ride-share effortlessly, with real-time updates\n• Find bike or scooter rentals to get around more easily\n\nPlan trips and experiences effortlessly:\n• Preview an area before you go (e.g. parking, entrances) with Street View\n• Use Immersive View to experience what landmarks, parks and routes look like, and even check the weather so that you can be ready in advance\n• Create custom lists of your favourite saved places and share with others\n• Order delivery and takeaway, make reservations and book hotels\n• Don't get lost with offline maps in an area with bad signal\n• Search for local places and things to do, and decide based on user reviews and photos\n\nDiscover and explore like a local:\n• Explore with confidence knowing 500 million users contribute and keep the map up to date each year\n• Avoid the crowds by seeing how busy a place is before you get there\n• Use Lens in Maps to see walking directions overlaid on the real world\n• Filter restaurants by cuisine, hours, price, rating and more\n• Ask questions about a place, from dishes to parking, and get quick answers\n\nSome features not available in all countries or cities\nNavigation isn't intended to be used by oversized or emergency vehicles",
+      "minimumOsVersion": "16.0",
+      "primaryGenreName": "Navigation",
+      "primaryGenreId": 6010,
       "genreIds": [
         "6010",
         "6023"
       ],
       "trackId": 585027354,
       "trackName": "Google Maps",
-      "primaryGenreName": "Navigation",
-      "primaryGenreId": 6010,
-      "releaseNotes": "Thanks for using Google Maps! This release brings bug fixes that improve our product to help you discover new places and navigate to them.",
-      "version": "26.33.1",
-      "wrapperType": "software",
-      "currency": "GBP",
-      "description": "Explore and navigate the world with confidence using Google Maps. Find the best routes with live traffic data and real-time GPS navigation for driving, walking, cycling and public transport. Discover over 250 million businesses and places – from restaurants and shops to everyday essentials – with photos, reviews and helpful information.\n\nNavigate the world, the way that you want:\n• Get to where you need to go with fuel-efficient route options\n• Find the best route with real-time, turn-by-turn voice and on-screen navigation\n• Save time with automatic rerouting based on live traffic, incidents and road closures\n• Catch the bus, train and ride-share effortlessly, with real-time updates\n• Find bike or scooter rentals to get around more easily\n\nPlan trips and experiences effortlessly:\n• Preview an area before you go (e.g. parking, entrances) with Street View\n• Use Immersive View to experience what landmarks, parks and routes look like, and even check the weather so that you can be ready in advance\n• Create custom lists of your favourite saved places and share with others\n• Order delivery and takeaway, make reservations and book hotels\n• Don't get lost with offline maps in an area with bad signal\n• Search for local places and things to do, and decide based on user reviews and photos\n\nDiscover and explore like a local:\n• Explore with confidence knowing 500 million users contribute and keep the map up to date each year\n• Avoid the crowds by seeing how busy a place is before you get there\n• Use Lens in Maps to see walking directions overlaid on the real world\n• Filter restaurants by cuisine, hours, price, rating and more\n• Ask questions about a place, from dishes to parking, and get quick answers\n\nSome features not available in all countries or cities\nNavigation isn't intended to be used by oversized or emergency vehicles",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "artistId": 281956209,
-      "artistName": "Google",
-      "userRatingCount": 971694,
+      "userRatingCount": 972967,
       "country": "GBR"
     }
   ]

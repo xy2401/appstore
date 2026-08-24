@@ -191,7 +191,13 @@
       "userRatingCount": 14
     },
     {
+      "artistViewUrl": "https://apps.apple.com/us/developer/microsoft-corporation/id298856275?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/41/45/33414574-b168-90bf-e42e-43f81ef81bc2/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/41/45/33414574-b168-90bf-e42e-43f81ef81bc2/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -325,6 +331,8 @@
         "Frequent/Intense Medical/Treatment Information"
       ],
       "kind": "software",
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/41/45/33414574-b168-90bf-e42e-43f81ef81bc2/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4b/1f/6e/4b1f6eb1-d607-4e59-b792-a736b8b71c77/iOS_PS_iPhone_6.5_Value_3_1.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1c/5d/d4/1c5dd43a-de53-1893-ac11-547cf73146cf/iOS_PS_iPhone_6.5_Value_1_1.png/320x480bb.jpg",
@@ -337,38 +345,32 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4d/7d/35/4d7d35d6-ca49-d416-8e2c-56aac2544078/iPad_Value_2.png/360x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/85/b0/bb/85b0bb96-6271-8f6b-a623-687059d11ed5/iPad_Value_1.png/360x480bb.jpg"
       ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/e3/9a/02e39a25-b304-9d0a-6c88-029b73b8f99d/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
-      "artistViewUrl": "https://apps.apple.com/us/developer/microsoft-corporation/id298856275?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/e3/9a/02e39a25-b304-9d0a-6c88-029b73b8f99d/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/e3/9a/02e39a25-b304-9d0a-6c88-029b73b8f99d/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.jpg",
+      "averageUserRating": 3.9375,
+      "contentAdvisoryRating": "17+",
+      "trackCensoredName": "Microsoft Dragon Copilot",
+      "trackViewUrl": "https://apps.apple.com/us/app/microsoft-dragon-copilot/id6737987442?uo=4",
       "minimumOsVersion": "17.0",
-      "formattedPrice": "Free",
-      "fileSizeBytes": "96008192",
+      "artistId": 298856275,
       "artistName": "Microsoft Corporation",
       "genres": [
         "Medical",
         "Productivity"
       ],
-      "artistId": 298856275,
       "price": 0,
-      "sellerName": "Microsoft Corporation",
-      "isVppDeviceBasedLicensingEnabled": true,
+      "bundleId": "com.microsoft.ProjectFlame",
+      "trackId": 6737987442,
       "primaryGenreName": "Medical",
       "primaryGenreId": 6020,
-      "releaseDate": "2025-01-10T08:00:00Z",
-      "trackId": 6737987442,
-      "trackName": "Microsoft Dragon Copilot",
+      "isVppDeviceBasedLicensingEnabled": true,
       "genreIds": [
         "6020",
         "6007"
       ],
-      "currentVersionReleaseDate": "2026-07-09T01:28:08Z",
-      "releaseNotes": "- Bug fixes and general improvements.",
-      "version": "4.0.0",
+      "sellerName": "Microsoft Corporation",
+      "releaseDate": "2025-01-10T08:00:00Z",
+      "currentVersionReleaseDate": "2026-08-20T01:31:17Z",
+      "releaseNotes": "- The app now supports Intune Mobile Device Management (MDM) and Mobile Application Management (MAM).\n- Bug fixes and general improvements.",
+      "version": "5.0.0",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Microsoft Dragon Copilot, your AI assistant for clinical workflow, brings together the trusted voice dictation capabilities of Dragon Medical One and ambient listening capabilities of DAX Copilot with fine-tuned generative AI and healthcare-adapted safeguards. This unified experience integrates with EHRs and supports clinicians across all stages of their workflow. Part of Microsoft Cloud for Healthcare, it’s an extensible AI workspace that’s built on a secure modern architecture and helps promote clinician wellbeing, increase efficiency, enhance the patient experience, and drive meaningful financial impact.",
@@ -378,15 +380,13 @@
         "FR",
         "DE"
       ],
+      "fileSizeBytes": "96098304",
+      "formattedPrice": "Free",
+      "userRatingCountForCurrentVersion": 16,
       "trackContentRating": "17+",
       "averageUserRatingForCurrentVersion": 3.9375,
       "sellerUrl": "https://www.microsoft.com/en-us/health-solutions/clinical-workflow/dragon-copilot",
-      "userRatingCountForCurrentVersion": 16,
-      "trackCensoredName": "Microsoft Dragon Copilot",
-      "trackViewUrl": "https://apps.apple.com/us/app/microsoft-dragon-copilot/id6737987442?uo=4",
-      "contentAdvisoryRating": "17+",
-      "averageUserRating": 3.9375,
-      "bundleId": "com.microsoft.ProjectFlame",
+      "trackName": "Microsoft Dragon Copilot",
       "userRatingCount": 16,
       "country": "USA"
     }

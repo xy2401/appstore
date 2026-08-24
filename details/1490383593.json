@@ -192,11 +192,6 @@
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/58/e8/b258e8ad-580e-fbdb-fe4d-895ab22fab88/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.jpeg/512x512bb.jpg",
-      "advisories": [],
-      "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/cn/developer/national-healthcare-security-administration/id1490383592?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/58/e8/b258e8ad-580e-fbdb-fe4d-895ab22fab88/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.jpeg/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/58/e8/b258e8ad-580e-fbdb-fe4d-895ab22fab88/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.jpeg/100x100bb.jpg",
       "features": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
@@ -327,27 +322,37 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/cn/developer/national-healthcare-security-administration/id1490383592?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/58/e8/b258e8ad-580e-fbdb-fe4d-895ab22fab88/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/58/e8/b258e8ad-580e-fbdb-fe4d-895ab22fab88/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.jpeg/100x100bb.jpg",
+      "advisories": [],
+      "releaseNotes": "1、APP开屏启动功能优化；\n2、人脸认证能力优化；\n3、一些问题修复。",
+      "averageUserRatingForCurrentVersion": 2.18878,
+      "fileSizeBytes": "149575680",
       "languageCodesISO2A": [
         "EN",
         "ZH"
       ],
-      "fileSizeBytes": "149575680",
       "formattedPrice": "免费",
+      "userRatingCountForCurrentVersion": 19573,
       "trackContentRating": "4+",
-      "userRatingCountForCurrentVersion": 19551,
-      "averageUserRatingForCurrentVersion": 2.18884,
       "genres": [
         "医疗"
       ],
-      "price": 0,
       "artistId": 1490383592,
       "artistName": "National Healthcare Security Administration",
+      "price": 0,
+      "bundleId": "cn.hsa.app",
+      "primaryGenreName": "Medical",
+      "primaryGenreId": 6020,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "genreIds": [
+        "6020"
+      ],
       "trackId": 1490383593,
       "trackName": "国家医保服务平台",
-      "isVppDeviceBasedLicensingEnabled": true,
       "releaseDate": "2020-01-06T08:00:00Z",
-      "currentVersionReleaseDate": "2026-05-19T02:46:24Z",
-      "releaseNotes": "1、APP开屏启动功能优化；\n2、人脸认证能力优化；\n3、一些问题修复。",
       "version": "1.3.30",
       "wrapperType": "software",
       "currency": "CNY",
@@ -355,16 +360,11 @@
       "trackCensoredName": "国家医保服务平台",
       "trackViewUrl": "https://apps.apple.com/cn/app/%E5%9B%BD%E5%AE%B6%E5%8C%BB%E4%BF%9D%E6%9C%8D%E5%8A%A1%E5%B9%B3%E5%8F%B0/id1490383593?uo=4",
       "contentAdvisoryRating": "4+",
-      "averageUserRating": 2.18884,
+      "averageUserRating": 2.18878,
       "minimumOsVersion": "13.0",
-      "bundleId": "cn.hsa.app",
-      "primaryGenreName": "Medical",
-      "primaryGenreId": 6020,
       "sellerName": "National Healthcare Security Administration",
-      "genreIds": [
-        "6020"
-      ],
-      "userRatingCount": 19551,
+      "currentVersionReleaseDate": "2026-05-19T02:46:24Z",
+      "userRatingCount": 19573,
       "country": "CHN"
     }
   ]
