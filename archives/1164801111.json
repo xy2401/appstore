@@ -341,7 +341,7 @@
       "country": "cn",
       "mediaType": "apps",
       "feed": "top-paid",
-      "rank": 17,
+      "rank": 18,
       "artistName": "Tantsissa",
       "id": "1164801111",
       "name": "AutoSleep - 苹果手表睡眠监测，睡觉记录及智能闹钟",
@@ -367,7 +367,7 @@
       "country": "de",
       "mediaType": "apps",
       "feed": "top-paid",
-      "rank": 21,
+      "rank": 29,
       "artistName": "Tantsissa",
       "id": "1164801111",
       "name": "AutoSleep - Schlaftracker",
@@ -393,7 +393,7 @@
       "country": "fr",
       "mediaType": "apps",
       "feed": "top-paid",
-      "rank": 18,
+      "rank": 17,
       "artistName": "Tantsissa",
       "id": "1164801111",
       "name": "AutoSleep - Tracker de sommeil",
@@ -419,7 +419,7 @@
       "country": "gb",
       "mediaType": "apps",
       "feed": "top-paid",
-      "rank": 44,
+      "rank": 86,
       "artistName": "Tantsissa",
       "id": "1164801111",
       "name": "AutoSleep: Watch Sleep Tracker",
@@ -445,14 +445,25 @@
       "country": "jp",
       "mediaType": "apps",
       "feed": "top-paid",
-      "rank": 9,
+      "rank": 11,
       "artistName": "Tantsissa",
       "id": "1164801111",
       "name": "AutoSleep 睡眠の追跡をWatchで",
       "releaseDate": "2016-12-20",
       "kind": "apps",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/92/fa/fb92fadb-a7c2-0fc6-8fcf-082973492641/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
-      "genres": [],
+      "genres": [
+        {
+          "genreId": "6013",
+          "name": "ヘルスケア／フィットネス",
+          "url": "https://itunes.apple.com/jp/genre/id6013"
+        },
+        {
+          "genreId": "6020",
+          "name": "メディカル",
+          "url": "https://itunes.apple.com/jp/genre/id6020"
+        }
+      ],
       "url": "https://apps.apple.com/jp/app/autosleep-%E7%9D%A1%E7%9C%A0%E3%81%AE%E8%BF%BD%E8%B7%A1%E3%82%92watch%E3%81%A7/id1164801111"
     },
     {
@@ -460,7 +471,7 @@
       "country": "us",
       "mediaType": "apps",
       "feed": "top-paid",
-      "rank": 22,
+      "rank": 21,
       "artistName": "Tantsissa",
       "id": "1164801111",
       "name": "AutoSleep: Watch Sleep Tracker",
