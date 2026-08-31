@@ -187,10 +187,6 @@
       "userRatingCount": 5215
     },
     {
-      "artistViewUrl": "https://apps.apple.com/us/developer/gfiber/id6804078716?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/62/81/9d6281ce-777e-b6f4-0f37-7f600c847c87/logo_google_fiber_color-0-0-1x_U007epad-0-11-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/62/81/9d6281ce-777e-b6f4-0f37-7f600c847c87/logo_google_fiber_color-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.jpg",
-      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c6/dd/08/c6dd08cf-470e-c847-5de1-81b2d8f8a223/APP_IPHONE_67-1.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/84/e8/3f/84e83f8e-4a27-4921-03a7-c650230a75a8/APP_IPHONE_67-2.png/320x480bb.jpg",
@@ -208,10 +204,15 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/44/61/6e/44616e45-58f4-7261-8358-fbb3e1ed2db6/APP_IPAD_PRO_3GEN_129-6.png/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "features": [
-        "iosUniversal"
-      ],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/62/81/9d6281ce-777e-b6f4-0f37-7f600c847c87/logo_google_fiber_color-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
+      "isGameCenterEnabled": false,
+      "advisories": [
+        "Unrestricted Web Access"
+      ],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/us/developer/gfiber/id6804078716?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/62/81/9d6281ce-777e-b6f4-0f37-7f600c847c87/logo_google_fiber_color-0-0-1x_U007epad-0-11-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/62/81/9d6281ce-777e-b6f4-0f37-7f600c847c87/logo_google_fiber_color-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -341,49 +342,48 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "advisories": [
-        "Unrestricted Web Access"
+      "features": [
+        "iosUniversal"
       ],
-      "kind": "software",
-      "averageUserRating": 4.52844,
-      "trackCensoredName": "GFiber: The Google Fiber App",
-      "trackViewUrl": "https://apps.apple.com/us/app/gfiber-the-google-fiber-app/id1063844759?uo=4",
-      "contentAdvisoryRating": "17+",
-      "fileSizeBytes": "113208320",
-      "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 5520,
-      "averageUserRatingForCurrentVersion": 4.52844,
       "minimumOsVersion": "18.0",
-      "price": 0,
-      "artistName": "GFiber",
-      "artistId": 6804078716,
-      "genres": [
-        "Utilities"
-      ],
+      "averageUserRatingForCurrentVersion": 4.52792,
       "sellerUrl": "http://gfiber.com",
       "languageCodesISO2A": [
         "EN",
         "ES"
       ],
+      "fileSizeBytes": "113208320",
+      "formattedPrice": "Free",
+      "userRatingCountForCurrentVersion": 5569,
       "trackContentRating": "17+",
-      "bundleId": "com.google.myfiber",
-      "trackId": 1063844759,
-      "trackName": "GFiber: The Google Fiber App",
-      "sellerName": "Google Fiber Inc.",
+      "artistId": 6804078716,
+      "artistName": "GFiber",
+      "price": 0,
+      "releaseDate": "2016-04-12T21:29:18Z",
       "primaryGenreName": "Utilities",
       "primaryGenreId": 6002,
-      "releaseDate": "2016-04-12T21:29:18Z",
+      "sellerName": "Google Fiber Inc.",
       "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-07-16T16:46:20Z",
+      "releaseNotes": "Bug fixes and various performance improvements.",
       "version": "3.17.0",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Easily manage your GFiber Internet Service. Run speed tests, edit your network settings, restart your router, and share your Wi-Fi password with family and friends.\n\nManage your GFiber account. View your current balance and previous statements, and quickly manage your payments.\n\nAccess the GFiber Help Center. Find answers to common questions and contact the GFiber team to get help.\n\nNote: To use this app you must be a GFiber customer.",
+      "contentAdvisoryRating": "17+",
+      "trackCensoredName": "GFiber: The Google Fiber App",
+      "trackViewUrl": "https://apps.apple.com/us/app/gfiber-the-google-fiber-app/id1063844759?uo=4",
+      "averageUserRating": 4.52792,
+      "bundleId": "com.google.myfiber",
+      "genres": [
+        "Utilities"
+      ],
+      "trackId": 1063844759,
+      "trackName": "GFiber: The Google Fiber App",
       "genreIds": [
         "6002"
       ],
-      "releaseNotes": "Bug fixes and various performance improvements.",
-      "userRatingCount": 5520,
+      "userRatingCount": 5569,
       "country": "USA"
     }
   ]

@@ -16,9 +16,7 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/8f/90/ab8f905d-a2e7-f763-b9c0-c9328b6e18bb/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/cn/developer/suzhou-xiying-guangnian-technology-co-ltd/id1619964518?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/8f/90/ab8f905d-a2e7-f763-b9c0-c9328b6e18bb/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/8f/90/ab8f905d-a2e7-f763-b9c0-c9328b6e18bb/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/100x100bb.jpg",
+      "isGameCenterEnabled": false,
       "supportedDevices": [
         "MacDesktop-MacDesktop",
         "iPhone5s-iPhone5s",
@@ -150,13 +148,15 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "isGameCenterEnabled": false,
       "advisories": [],
       "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/cn/developer/suzhou-xiying-guangnian-technology-co-ltd/id1619964518?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/8f/90/ab8f905d-a2e7-f763-b9c0-c9328b6e18bb/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/8f/90/ab8f905d-a2e7-f763-b9c0-c9328b6e18bb/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/100x100bb.jpg",
       "features": [
         "iosUniversal"
       ],
-      "releaseNotes": "【修复】修复一些会导致崩溃的问题",
+      "sellerUrl": "https://aptv.app/",
       "languageCodesISO2A": [
         "EN",
         "JA",
@@ -167,14 +167,9 @@
       ],
       "fileSizeBytes": "209389568",
       "formattedPrice": "免费",
-      "userRatingCountForCurrentVersion": 2091,
+      "userRatingCountForCurrentVersion": 2117,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.37685,
-      "sellerUrl": "https://aptv.app/",
-      "trackCensoredName": "APTV",
-      "trackViewUrl": "https://apps.apple.com/cn/app/aptv/id1630403500?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.37685,
+      "averageUserRatingForCurrentVersion": 4.37506,
       "artistId": 1619964518,
       "artistName": "Suzhou Xiying Guangnian Technology Co., Ltd",
       "genres": [
@@ -182,25 +177,30 @@
         "娱乐"
       ],
       "price": 0,
-      "releaseDate": "2022-10-01T07:00:00Z",
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
+      "releaseNotes": "【修复】修复一些会导致崩溃的问题",
       "genreIds": [
         "6002",
         "6016"
       ],
+      "releaseDate": "2022-10-01T07:00:00Z",
+      "sellerName": "Suzhou Xiying Guangnian Technology Co., Ltd",
       "trackId": 1630403500,
       "trackName": "APTV",
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
-      "sellerName": "Suzhou Xiying Guangnian Technology Co., Ltd",
       "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-08-11T22:17:15Z",
       "version": "1.5.9",
       "wrapperType": "software",
       "currency": "CNY",
       "description": "APTV，一款可实时预览的高颜值全平台 IPTV M3U播放器，是一个可播放可回看的多功能播放器。\n\n跨平台支持： iOS, tvOS, macOS, watchOS, visionOS\n\n核心功能：\n1. 播放能力  \n• 支持HLS, HTTP, RTMP等流媒体协议\n• H.264/H.265硬件解码\n• 4K/HDR/HLG支持\n• 画中画\n• AirPlay/DLNA投屏\n\n2. IPTV特性  \n• M3U播放列表\n• EPG电子节目指南\n• 频道管理（分类、收藏、历史）\n• 多源配置\n\n3. 数据存储  \n• 本地数据持久化\n• iCloud云端同步\n\nEmail：support@aptv.app\nGithub：Kimentanm/aptv",
-      "minimumOsVersion": "15.0",
+      "trackCensoredName": "APTV",
+      "trackViewUrl": "https://apps.apple.com/cn/app/aptv/id1630403500?uo=4",
+      "contentAdvisoryRating": "4+",
       "bundleId": "com.kimen.aptvpro",
-      "userRatingCount": 2091,
+      "averageUserRating": 4.37506,
+      "minimumOsVersion": "15.0",
+      "userRatingCount": 2117,
       "country": "CHN"
     }
   ]

@@ -203,13 +203,14 @@
       "country": "DEU"
     },
     {
+      "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
       ],
-      "artistViewUrl": "https://apps.apple.com/fr/developer/joybuy/id1886355743?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/c9/61/f3c96145-ae06-3d8a-7d66-b8220c5d5f83/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/c9/61/f3c96145-ae06-3d8a-7d66-b8220c5d5f83/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.jpg",
-      "isGameCenterEnabled": false,
+      "advisories": [
+        "Scènes rares/modérées réservées aux adultes (suggestives)",
+        "Scènes rares/modérées de consommation ou de référence à l’alcool, au tabac ou à la drogue"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -339,12 +340,7 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "advisories": [
-        "Scènes rares/modérées de consommation ou de référence à l’alcool, au tabac ou à la drogue",
-        "Scènes rares/modérées réservées aux adultes (suggestives)"
-      ],
       "kind": "software",
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/c9/61/f3c96145-ae06-3d8a-7d66-b8220c5d5f83/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/11/fa/9e/11fa9e65-f6b7-e726-0f04-c53c646b6031/App_Store_01_FR.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/10/7c/42/107c4265-ff38-358a-5e96-20487319d13e/App_Store_02_FR.png/320x480bb.jpg",
@@ -368,32 +364,35 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a7/6f/21/a76f217f-f838-2884-25ce-d668c758c020/App_Store-iPad-12.9inch-2048_2732-09-FR.png/576x768bb.png"
       ],
       "appletvScreenshotUrls": [],
-      "averageUserRatingForCurrentVersion": 4.85376,
-      "averageUserRating": 4.85376,
-      "trackCensoredName": "Joybuy-Don't just buy, Joybuy!",
-      "trackViewUrl": "https://apps.apple.com/fr/app/joybuy-dont-just-buy-joybuy/id6740224837?uo=4",
-      "releaseNotes": "Indices IA sur les marques : découvrez Lego et HP grâce à des indices intelligents — appuyez pour discuter avec notre IA et explorer une sélection de marques.\nJoyPlus x ClassPass : les membres bénéficient d'un premier mois offert, ainsi que de crédits bonus dans des milliers de salles de sport, studios, instituts de beauté et spas.",
-      "contentAdvisoryRating": "12+",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/0b/4b/4a0b4b0c-94d1-63ff-310f-6e514f648478/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/fr/developer/joybuy/id1886355743?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/0b/4b/4a0b4b0c-94d1-63ff-310f-6e514f648478/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/0b/4b/4a0b4b0c-94d1-63ff-310f-6e514f648478/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.jpg",
+      "sellerUrl": "http://m.joybuy.fr/",
+      "releaseNotes": "Une nouvelle version est arrivée !\nLa reprise est désormais disponible : les articles en stock et en précommande/réservation sont éligibles\nLa section livraison de la fiche produit a été repensée pour plus de clarté\nLes cadeaux incluent désormais des articles dématérialisés : encore plus de façons de jouer\nVenez l'essayer !",
       "artistId": 1886355743,
       "artistName": "Joybuy",
       "genres": [
         "Shopping"
       ],
-      "bundleId": "com.joybuy.jd",
-      "primaryGenreName": "Shopping",
-      "primaryGenreId": 6024,
-      "trackId": 6740224837,
-      "trackName": "Joybuy-Don't just buy, Joybuy!",
+      "price": 0,
+      "isVppDeviceBasedLicensingEnabled": true,
       "genreIds": [
         "6024"
       ],
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-08-21T22:02:19Z",
-      "version": "1.0.97",
+      "bundleId": "com.joybuy.jd",
+      "sellerName": "JINGDONG RETAIL (UK) LIMITED",
+      "primaryGenreName": "Shopping",
+      "primaryGenreId": 6024,
+      "releaseDate": "2025-03-10T07:00:00Z",
+      "trackId": 6740224837,
+      "trackName": "Joybuy-Don't just buy, Joybuy!",
+      "currentVersionReleaseDate": "2026-08-31T07:51:04Z",
+      "version": "1.0.98",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Joybuy est la plateforme européenne d'e-commerce en ligne de JD.com, née pour offrir aux consommateurs une expérience d’achat rapide, pratique et économique. Grâce à la livraison le jour même ou dès le lendemain en France, Joybuy allie rapidité, fiabilité et accessibilité pour répondre aux besoins des consommateurs modernes.\n\nAvec une riche offre de produits de qualité, des prix compétitifs et des services centrés sur le client — tels que la livraison gratuite sur la première commande, des promotions exclusives et une assistance disponible 24h/24 et 7j/7 — Joybuy est en train de redéfinir l'expérience d'achat en ligne.\n\nPour en savoir plus, rendez-vous sur joybuy.com ou suivez-nous sur :\nInstagram : @joybuyfrance\nTikTok : @joybuyfrance\nFacebook : @joybuyfrance\nYouTube : @Joybuyfrance\nRednote : @Joybuy\nCompte officiel WeChat : @Joybuy",
-      "sellerUrl": "http://m.joybuy.fr/",
+      "minimumOsVersion": "14.0",
       "languageCodesISO2A": [
         "NL",
         "EN",
@@ -402,15 +401,16 @@
         "ZH",
         "ZH"
       ],
-      "fileSizeBytes": "127431680",
+      "fileSizeBytes": "123845632",
       "formattedPrice": "Gratuit",
-      "userRatingCountForCurrentVersion": 7255,
+      "userRatingCountForCurrentVersion": 7598,
       "trackContentRating": "12+",
-      "minimumOsVersion": "14.0",
-      "price": 0,
-      "sellerName": "JINGDONG RETAIL (UK) LIMITED",
-      "releaseDate": "2025-03-10T07:00:00Z",
-      "userRatingCount": 7255,
+      "averageUserRatingForCurrentVersion": 4.85548,
+      "contentAdvisoryRating": "12+",
+      "averageUserRating": 4.85548,
+      "trackCensoredName": "Joybuy-Don't just buy, Joybuy!",
+      "trackViewUrl": "https://apps.apple.com/fr/app/joybuy-dont-just-buy-joybuy/id6740224837?uo=4",
+      "userRatingCount": 7598,
       "country": "FRA"
     }
   ]

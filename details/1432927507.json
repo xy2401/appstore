@@ -3,9 +3,7 @@
   "results": [
     {
       "isGameCenterEnabled": false,
-      "advisories": [
-        "Frequent/Intense Medical/Treatment Information"
-      ],
+      "features": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -135,8 +133,9 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "features": [],
       "kind": "software",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/27/61/f92761f4-54bd-d43e-cf48-29aecfe11373/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
+      "appletvScreenshotUrls": [],
       "artistViewUrl": "https://apps.apple.com/gb/developer/smartdr/id1432927505?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/27/61/f92761f4-54bd-d43e-cf48-29aecfe11373/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/27/61/f92761f4-54bd-d43e-cf48-29aecfe11373/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.jpg",
@@ -150,45 +149,46 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/45/43/694543a3-8f7e-ca73-716e-894c64cb1257/pr_source.jpg/392x696bb.jpg"
       ],
       "ipadScreenshotUrls": [],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/27/61/f92761f4-54bd-d43e-cf48-29aecfe11373/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
-      "currentVersionReleaseDate": "2026-05-22T19:56:24Z",
-      "releaseNotes": "Say hello to smartDr Pro. Your personal on-call assistant, upgraded.",
-      "price": 3.99,
+      "advisories": [
+        "Frequent/Intense Medical/Treatment Information"
+      ],
+      "minimumOsVersion": "15.1",
+      "artistId": 1432927505,
+      "artistName": "smartDr",
       "genres": [
         "Medical"
       ],
-      "artistId": 1432927505,
-      "artistName": "smartDr",
-      "bundleId": "com.smartDr.smartDr",
-      "trackId": 1432927507,
-      "trackName": "smartDr",
-      "releaseDate": "2018-09-26T17:43:11Z",
+      "price": 3.99,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "smartDr Ltd",
       "genreIds": [
         "6020"
       ],
+      "bundleId": "com.smartDr.smartDr",
       "primaryGenreName": "Medical",
       "primaryGenreId": 6020,
-      "sellerName": "smartDr Ltd",
-      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-05-22T19:56:24Z",
+      "releaseDate": "2018-09-26T17:43:11Z",
+      "trackId": 1432927507,
+      "trackName": "smartDr",
+      "releaseNotes": "Say hello to smartDr Pro. Your personal on-call assistant, upgraded.",
       "version": "1.2.1",
       "wrapperType": "software",
       "currency": "GBP",
       "description": "smartDr is the latest and greatest app made for doctors by doctors.\n\nWhether it be that red NEWS call, dodgy potassium level or a confused patient, smartDr is by your side.\n\nThe app is split into 6 simple sections:\n\n• EMERGENCIES: quick, easy-to-follow algorithms for managing the sickest patients\n\n• NEWS CALLS: address and manage every deranged vital sign \n\n• ASKED TO SEE PATIENT: diagnose and treat a wide range of symptoms \n\n• WARD JOBS: master the basics from prescribing fluids to confirming death \n\n• LAB RESULTS: interpret and correct blood result abnormalities\n\n• CALCULATORS: interactive scoring systems including AMTS, Wells score and CURB-65\n\nAnd this is only the beginning. smartDr will be updated regularly with new content. Feel free to drop us a suggestion at info@smartdr.app\n\nSo what are you waiting for? Become a smartDr today!",
-      "averageUserRating": 3.96667,
+      "sellerUrl": "http://smartdr.app",
       "trackCensoredName": "smartDr",
       "trackViewUrl": "https://apps.apple.com/gb/app/smartdr/id1432927507?uo=4",
       "contentAdvisoryRating": "17+",
-      "languageCodesISO2A": [
-        "EN"
-      ],
+      "averageUserRating": 3.96667,
       "fileSizeBytes": "64527360",
       "formattedPrice": "£3.99",
       "userRatingCountForCurrentVersion": 30,
-      "trackContentRating": "17+",
-      "sellerUrl": "http://smartdr.app",
       "averageUserRatingForCurrentVersion": 3.96667,
-      "minimumOsVersion": "15.1",
+      "trackContentRating": "17+",
+      "languageCodesISO2A": [
+        "EN"
+      ],
       "userRatingCount": 30,
       "country": "GBR"
     }

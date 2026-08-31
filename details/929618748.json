@@ -198,11 +198,7 @@
     },
     {
       "isGameCenterEnabled": false,
-      "advisories": [
-        "Infrequent/Mild Mature/Suggestive Themes",
-        "Infrequent/Mild Medical/Treatment Information",
-        "Infrequent/Mild Sexual Content and Nudity"
-      ],
+      "features": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -332,8 +328,9 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "features": [],
       "kind": "software",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/92/9b/11929b16-cb1f-1845-648e-b153dff0569c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+      "appletvScreenshotUrls": [],
       "artistViewUrl": "https://apps.apple.com/gb/developer/living-with-ltd/id1407197501?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/92/9b/11929b16-cb1f-1845-648e-b153dff0569c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/92/9b/11929b16-cb1f-1845-648e-b153dff0569c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
@@ -347,48 +344,51 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/6e/c2/8e/6ec28ee4-f887-3056-9e31-0ec83ed9618d/ed03c609-3cff-4bb8-b9e8-22c62b442c04_squeezy-m-playstore-5.5-7.png/392x696bb.png"
       ],
       "ipadScreenshotUrls": [],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/92/9b/11929b16-cb1f-1845-648e-b153dff0569c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
-      "currentVersionReleaseDate": "2026-07-03T08:28:29Z",
-      "releaseNotes": "• Fixed an issue where the app would crash when changing the exercise plan\n• Resolved a bug causing the exercise graph to render incorrectly",
-      "price": 3.99,
+      "advisories": [
+        "Infrequent/Mild Mature/Suggestive Themes",
+        "Infrequent/Mild Medical/Treatment Information",
+        "Infrequent/Mild Sexual Content and Nudity"
+      ],
+      "minimumOsVersion": "15.5",
+      "artistId": 1407197501,
+      "artistName": "Living With Ltd",
       "genres": [
         "Medical",
         "Health & Fitness"
       ],
-      "artistId": 1407197501,
-      "artistName": "Living With Ltd",
-      "bundleId": "com.propagata.squeezyformen",
-      "trackId": 929618748,
-      "trackName": "Squeezy Men",
-      "releaseDate": "2014-10-31T07:00:00Z",
+      "price": 3.99,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "Living With Ltd",
       "genreIds": [
         "6020",
         "6013"
       ],
+      "bundleId": "com.propagata.squeezyformen",
       "primaryGenreName": "Medical",
       "primaryGenreId": 6020,
-      "sellerName": "Living With Ltd",
-      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-07-03T08:28:29Z",
+      "releaseDate": "2014-10-31T07:00:00Z",
+      "trackId": 929618748,
+      "trackName": "Squeezy Men",
+      "releaseNotes": "• Fixed an issue where the app would crash when changing the exercise plan\n• Resolved a bug causing the exercise graph to render incorrectly",
       "version": "10.1.5",
       "wrapperType": "software",
       "currency": "GBP",
       "description": "Squeezy has been designed by chartered, NHS physiotherapists specialising in men's health.\n\nIt is suitable for all men who should be doing pelvic floor muscle exercises (also known as Kegel exercises). Men should only be doing these exercises if they have symptoms (like leaking) or before and after a prostatectomy. \n\nThe app is particularly aimed at men who are seeing a specialist physiotherapist for problems connected to their bladder, bowels or pelvic floor muscles, as it can be tailored to a specific exercise programme and set to remind you when to do your exercises.\n\nHaving pelvic floor muscles that are working well can help with premature ejaculation, erectile dysfunction and urinary incontinence.\n\nIt is simple to use, discreet, informative and has helpful visual and audio prompts to support your exercise programme. Also, it maintains a record of the number of exercises you have completed. \n\nFeatures:\n• Customisable exercise plan\n• \"Professional mode\" to help physiotherapists set detailed exercise plans for patients\n• Visual, and audio prompts for exercises\n• Information and tips written by men's health physiotherapists\n• Graphs to track and monitor your progress\n• Write a short note after a completed exercise\n• Bladder diary to keep track of your symptoms, if required\n• Simple and clear interface\n\nThe app is UKCA marked as Class I medical device in the United Kingdom and developed in compliance with Medical Devices Regulations 2002 (SI 2002 No 618, as amended).",
-      "averageUserRating": 4.76621,
+      "sellerUrl": "https://www.squeezyapp.com/",
       "trackCensoredName": "Squeezy Men",
       "trackViewUrl": "https://apps.apple.com/gb/app/squeezy-men/id929618748?uo=4",
       "contentAdvisoryRating": "12+",
+      "averageUserRating": 4.76621,
+      "fileSizeBytes": "43663360",
+      "formattedPrice": "£3.99",
+      "userRatingCountForCurrentVersion": 1125,
+      "averageUserRatingForCurrentVersion": 4.76621,
+      "trackContentRating": "12+",
       "languageCodesISO2A": [
         "EN",
         "PL"
       ],
-      "fileSizeBytes": "43663360",
-      "formattedPrice": "£3.99",
-      "userRatingCountForCurrentVersion": 1125,
-      "trackContentRating": "12+",
-      "sellerUrl": "https://www.squeezyapp.com/",
-      "averageUserRatingForCurrentVersion": 4.76621,
-      "minimumOsVersion": "15.5",
       "userRatingCount": 1125,
       "country": "GBR"
     }

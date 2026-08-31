@@ -259,8 +259,15 @@
     },
     {
       "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
+      "advisories": [
+        "Infrequent/Mild Sexual Content and Nudity",
+        "Infrequent/Mild Horror/Fear Themes",
+        "Infrequent/Mild Cartoon or Fantasy Violence",
+        "Infrequent/Mild Realistic Violence",
+        "Infrequent/Mild Mature/Suggestive Themes",
+        "Infrequent/Mild Profanity or Crude Humor",
+        "Infrequent/Mild Medical/Treatment Information",
+        "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References"
       ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
@@ -391,25 +398,7 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "advisories": [
-        "Infrequent/Mild Realistic Violence",
-        "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References",
-        "Infrequent/Mild Horror/Fear Themes",
-        "Infrequent/Mild Cartoon or Fantasy Violence",
-        "Infrequent/Mild Medical/Treatment Information",
-        "Infrequent/Mild Sexual Content and Nudity",
-        "Infrequent/Mild Profanity or Crude Humor",
-        "Infrequent/Mild Mature/Suggestive Themes"
-      ],
       "kind": "software",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/54/a1/64/54a1648e-6b2c-0131-b0aa-6f6129dd8697/GNB_AppStore_iOS_Mobile_Splash.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/61/d9/06/61d9068d-db96-bc4d-9417-097baa6b0987/GNB_AppStore_iOS_Mobile_Home.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0e/59/5b/0e595bb4-a1ae-981e-e487-c469f36e3bd3/GNB_AppStore_iOS_Mobile_Sources.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/34/1d/52/341d5267-0ec2-abad-9d49-3459649d43a9/GNB_AppStore_iOS_Mobile_Audio.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/16/e8/9916e82d-74fa-bee1-984e-d7f60608d4bf/GNB_AppStore_iOS_Mobile_Chat.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9b/6e/03/9b6e03d6-25cb-0852-ce70-07dad679f39a/GNB_AppStore_iOS_Mobile_ShareSheet.jpg/320x480bb.jpg"
-      ],
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/61/e4/60/61e460dc-c2e0-0101-c464-e517f10528bc/GNB_AppStore_iPadOS_Spash.jpg/360x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fe/63/db/fe63db9c-4912-d57f-10ce-fa6844775114/GNB_AppStore_iPadOS_Home.jpg/360x480bb.jpg",
@@ -419,32 +408,46 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3f/44/69/3f446955-847c-2a9c-3b2f-03f894056079/GNB_AppStore_iPadOS_ShareSheet.jpg/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/32/f1/bc32f1db-e47d-4d7b-bee2-7df062be7b7d/gemini_notebook_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/512x512bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/49/a1/9c49a1bc-9c63-0397-e532-f24afc41f749/gemini_notebook_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/512x512bb.jpg",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/54/a1/64/54a1648e-6b2c-0131-b0aa-6f6129dd8697/GNB_AppStore_iOS_Mobile_Splash.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/61/d9/06/61d9068d-db96-bc4d-9417-097baa6b0987/GNB_AppStore_iOS_Mobile_Home.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0e/59/5b/0e595bb4-a1ae-981e-e487-c469f36e3bd3/GNB_AppStore_iOS_Mobile_Sources.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/34/1d/52/341d5267-0ec2-abad-9d49-3459649d43a9/GNB_AppStore_iOS_Mobile_Audio.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/16/e8/9916e82d-74fa-bee1-984e-d7f60608d4bf/GNB_AppStore_iOS_Mobile_Chat.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9b/6e/03/9b6e03d6-25cb-0852-ce70-07dad679f39a/GNB_AppStore_iOS_Mobile_ShareSheet.jpg/320x480bb.jpg"
+      ],
       "artistViewUrl": "https://apps.apple.com/us/developer/google/id281956209?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/32/f1/bc32f1db-e47d-4d7b-bee2-7df062be7b7d/gemini_notebook_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/32/f1/bc32f1db-e47d-4d7b-bee2-7df062be7b7d/gemini_notebook_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.jpg",
-      "bundleId": "com.google.NotebookLM",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/49/a1/9c49a1bc-9c63-0397-e532-f24afc41f749/gemini_notebook_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/49/a1/9c49a1bc-9c63-0397-e532-f24afc41f749/gemini_notebook_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
+      "minimumOsVersion": "17.0",
       "genres": [
         "Productivity",
         "Education"
       ],
       "price": 0,
-      "trackId": 6737527615,
-      "trackName": "Gemini Notebook",
-      "primaryGenreName": "Productivity",
-      "primaryGenreId": 6007,
+      "bundleId": "com.google.NotebookLM",
       "genreIds": [
         "6007",
         "6017"
       ],
       "isVppDeviceBasedLicensingEnabled": true,
-      "releaseDate": "2025-05-19T07:00:00Z",
-      "currentVersionReleaseDate": "2026-08-17T15:43:44Z",
+      "primaryGenreName": "Productivity",
+      "primaryGenreId": 6007,
       "sellerName": "Google LLC",
-      "version": "1.54.2",
+      "currentVersionReleaseDate": "2026-08-24T18:23:28Z",
+      "releaseDate": "2025-05-19T07:00:00Z",
+      "trackId": 6737527615,
+      "trackName": "Gemini Notebook",
+      "releaseNotes": "Bug fixes and performance improvements",
+      "version": "1.54.8",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Turn complexity into clarity with Gemini Notebook, your brain’s new best friend. Join the millions of students, creators, researchers, professionals, CEOs, and more who are saving time, getting stuff done, and learning in new ways.\n\n“One of the most compelling and completely flabbergasting demonstrations of AI’s potential yet.” – The Wall Street Journal\n\nNow, with the Gemini Notebook app, you can create and access notebooks, ask questions whenever you think of them, and listen to your podcast-style Audio Overviews on the go with background playback and offline support.\n\nUPLOAD SOURCES\nUpload all your long and complex PDFs, websites, YouTube videos, or text into a notebook.\n\nINSIGHTS YOU CAN TRUST\nGemini Notebook becomes an expert on your sources, summarizing them and making interesting connections. Then, you can ask it questions about, well, anything — and you can trust the answers, since your sources are cited in-line.\n\nLEARN YOUR OWN WAY\nLong blocks of text not your preferred way to learn? Transform what you uploaded into something more your speed, like a podcast-style audio discussion with two engaging AI hosts. You can even join the show to ask questions or steer the conversation in a different direction.",
+      "sellerUrl": "http://notebooklm.google",
       "languageCodesISO2A": [
         "AF",
         "SQ",
@@ -511,21 +514,18 @@
         "UR",
         "VI"
       ],
-      "fileSizeBytes": "201777152",
+      "fileSizeBytes": "215249920",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 56171,
+      "userRatingCountForCurrentVersion": 57753,
       "trackContentRating": "12+",
-      "averageUserRatingForCurrentVersion": 4.86169,
-      "sellerUrl": "http://notebooklm.google",
-      "minimumOsVersion": "17.0",
-      "averageUserRating": 4.86169,
+      "averageUserRatingForCurrentVersion": 4.86042,
       "trackCensoredName": "Gemini Notebook",
       "trackViewUrl": "https://apps.apple.com/us/app/gemini-notebook/id6737527615?uo=4",
       "contentAdvisoryRating": "12+",
-      "releaseNotes": "Bug fixes and performance improvements",
+      "averageUserRating": 4.86042,
       "artistId": 281956209,
       "artistName": "Google",
-      "userRatingCount": 56171,
+      "userRatingCount": 57753,
       "country": "USA"
     }
   ]

@@ -226,11 +226,12 @@
       "userRatingCount": 372
     },
     {
-      "artistViewUrl": "https://apps.apple.com/jp/developer/shibuya-masanori/id339986228?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/80/e6/4c/80e64cb7-7fcf-f610-b0f7-a0b800c33499/AppIcon-0-1x_U007emarketing-0-0-85-220-0-3.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/80/e6/4c/80e64cb7-7fcf-f610-b0f7-a0b800c33499/AppIcon-0-1x_U007emarketing-0-0-85-220-0-3.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/jp/developer/shibuya-masanori/id339986228?uo=4",
       "isGameCenterEnabled": false,
       "features": [],
+      "advisories": [],
       "supportedDevices": [
         "iPad2Wifi-iPad2Wifi",
         "iPad23G-iPad23G",
@@ -395,7 +396,6 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "advisories": [],
       "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple22/v4/33/43/8b/33438bd9-da49-574b-b450-c0de20390cb0/mzl.rzpblrqe.png/392x696bb.png",
@@ -407,10 +407,13 @@
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/80/e6/4c/80e64cb7-7fcf-f610-b0f7-a0b800c33499/AppIcon-0-1x_U007emarketing-0-0-85-220-0-3.png/512x512bb.jpg",
-      "averageUserRating": 4.35561,
-      "trackCensoredName": "支出管理",
       "trackViewUrl": "https://apps.apple.com/jp/app/%E6%94%AF%E5%87%BA%E7%AE%A1%E7%90%86/id339986225?uo=4",
       "contentAdvisoryRating": "4+",
+      "trackCensoredName": "支出管理",
+      "averageUserRating": 4.35561,
+      "releaseNotes": "- iPhone Xs Maxのディスプレイサイズに対応しました。\n(以前のバージョンでもアプリを使用できましたが、より精細に表示されるようになります。）\n- 他にいくつか細かい修正をしました。",
+      "trackName": "支出管理",
+      "trackId": 339986225,
       "artistId": 339986228,
       "artistName": "SHIBUYA Masanori",
       "genres": [
@@ -424,19 +427,15 @@
       ],
       "primaryGenreName": "Finance",
       "primaryGenreId": 6015,
-      "bundleId": "com.gmail.shibuym.ExpenseBook",
-      "releaseDate": "2009-11-19T21:25:02Z",
-      "trackName": "支出管理",
-      "trackId": 339986225,
-      "sellerName": "MASANORI SHIBUYA",
       "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2018-09-24T01:09:20Z",
-      "releaseNotes": "- iPhone Xs Maxのディスプレイサイズに対応しました。\n(以前のバージョンでもアプリを使用できましたが、より精細に表示されるようになります。）\n- 他にいくつか細かい修正をしました。",
+      "sellerName": "MASANORI SHIBUYA",
+      "releaseDate": "2009-11-19T21:25:02Z",
       "version": "1.19.1",
       "wrapperType": "software",
       "currency": "JPY",
       "description": "「支出管理」は、予算を立てて毎月の支出を管理するアプリケーションです。\n家計やおこづかい、経費などの管理にお役立てください。",
-      "averageUserRatingForCurrentVersion": 4.35561,
+      "bundleId": "com.gmail.shibuym.ExpenseBook",
       "languageCodesISO2A": [
         "EN",
         "JA"
@@ -446,6 +445,7 @@
       "userRatingCountForCurrentVersion": 374,
       "trackContentRating": "4+",
       "sellerUrl": "http://shibuym.blogspot.com/",
+      "averageUserRatingForCurrentVersion": 4.35561,
       "minimumOsVersion": "9.0",
       "userRatingCount": 374,
       "country": "JPN"

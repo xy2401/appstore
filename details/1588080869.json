@@ -185,7 +185,6 @@
       "userRatingCount": 7590
     },
     {
-      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/73/bb/aa/73bbaa40-8e52-8385-c2d8-365491bf9b97/5.5-1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/09/4f/d0/094fd02d-5b9e-552a-5d01-72b8ddd58a4c/5.5-2.png/392x696bb.png",
@@ -195,11 +194,7 @@
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/95/8e/d8958efc-5de4-7b09-6722-fb7bb0b4fa66/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
-      "advisories": [],
-      "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/cn/developer/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%85%AC%E5%AE%89%E9%83%A8/id1750609318?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/95/8e/d8958efc-5de4-7b09-6722-fb7bb0b4fa66/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/95/8e/d8958efc-5de4-7b09-6722-fb7bb0b4fa66/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.jpg",
+      "isGameCenterEnabled": false,
       "features": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
@@ -330,42 +325,47 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "averageUserRatingForCurrentVersion": 1.94358,
-      "minimumOsVersion": "13.0",
+      "advisories": [],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/cn/developer/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%85%AC%E5%AE%89%E9%83%A8/id1750609318?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/95/8e/d8958efc-5de4-7b09-6722-fb7bb0b4fa66/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/95/8e/d8958efc-5de4-7b09-6722-fb7bb0b4fa66/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.jpg",
       "sellerUrl": "https://www.mps.gov.cn/",
+      "averageUserRatingForCurrentVersion": 1.92722,
       "languageCodesISO2A": [],
       "fileSizeBytes": "77115392",
       "formattedPrice": "免费",
-      "userRatingCountForCurrentVersion": 8897,
+      "userRatingCountForCurrentVersion": 9192,
       "trackContentRating": "4+",
+      "releaseNotes": "修复了一些已知问题。",
       "artistId": 1750609318,
       "artistName": "中华人民共和国公安部",
       "genres": [
         "工具"
       ],
-      "isVppDeviceBasedLicensingEnabled": true,
-      "sellerName": "Ministry of Public Security of the People's Republic of China",
+      "price": 0,
+      "bundleId": "cn.cyberIdentity.certification",
+      "releaseDate": "2023-06-27T07:00:00Z",
+      "trackId": 1588080869,
+      "trackName": "国家网络身份认证",
       "primaryGenreName": "Utilities",
       "primaryGenreId": 6002,
-      "bundleId": "cn.cyberIdentity.certification",
-      "releaseNotes": "修复了一些已知问题。",
+      "sellerName": "Ministry of Public Security of the People's Republic of China",
+      "genreIds": [
+        "6002"
+      ],
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-07-08T06:49:25Z",
       "version": "1.2.37",
       "wrapperType": "software",
       "currency": "CNY",
       "description": "为促进数字经济发展、保护个人信息安全，公安部会同有关部门组织建设了国家网络身份认证公共服务平台，向社会提供安全、便捷、权威、高效的网络身份认证公共服务。 \n国家网络身份认证App是国家网络身份认证公共服务平台的移动客户端。 \n个人用户可下载国家网络身份认证App，使用法定身份证件申领网号、网证，即可在不输入、不留存、不透露个人姓名、公民身份号码等明文身份信息的情况下完成身份认证。",
+      "minimumOsVersion": "13.0",
+      "averageUserRating": 1.92722,
       "trackCensoredName": "国家网络身份认证",
       "trackViewUrl": "https://apps.apple.com/cn/app/%E5%9B%BD%E5%AE%B6%E7%BD%91%E7%BB%9C%E8%BA%AB%E4%BB%BD%E8%AE%A4%E8%AF%81/id1588080869?uo=4",
       "contentAdvisoryRating": "4+",
-      "averageUserRating": 1.94358,
-      "currentVersionReleaseDate": "2026-07-08T06:49:25Z",
-      "genreIds": [
-        "6002"
-      ],
-      "releaseDate": "2023-06-27T07:00:00Z",
-      "price": 0,
-      "trackName": "国家网络身份认证",
-      "trackId": 1588080869,
-      "userRatingCount": 8897,
+      "userRatingCount": 9192,
       "country": "CHN"
     }
   ]

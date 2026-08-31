@@ -218,10 +218,6 @@
       "userRatingCount": 66967
     },
     {
-      "artistViewUrl": "https://apps.apple.com/us/developer/google/id281956209?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/48/46/68484684-a637-debb-dd54-c17e5d40a611/AppIcon-0-1x_U007epad-0-0-0-8-0-0-0-85-220-0.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/48/46/68484684-a637-debb-dd54-c17e5d40a611/AppIcon-0-1x_U007epad-0-0-0-8-0-0-0-85-220-0.png/100x100bb.jpg",
-      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/fb/88/ee/fb88eec2-8138-3641-7b25-5d3693d94b07/5c3079ff-011b-43e4-9cfd-cff315120a11_1_APP_IPHONE_55_1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/cf/04/7c/cf047c59-6326-0ad0-faff-299f0c3976e6/4cd073f2-db22-4c30-a0f3-4e52ca3f74cc_2_APP_IPHONE_55_2.png/392x696bb.png",
@@ -234,10 +230,15 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/9b/a9/44/9ba9443a-e7eb-fd6f-02fc-97dc4fe2e689/38fefd25-51de-46f1-ac63-a10716498015_3_APP_IPAD_PRO_129_3.png/552x414bb.png"
       ],
       "appletvScreenshotUrls": [],
-      "features": [
-        "iosUniversal"
-      ],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/48/46/68484684-a637-debb-dd54-c17e5d40a611/AppIcon-0-1x_U007epad-0-0-0-8-0-0-0-85-220-0.png/512x512bb.jpg",
+      "isGameCenterEnabled": false,
+      "advisories": [
+        "Unrestricted Web Access"
+      ],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/us/developer/google/id281956209?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/48/46/68484684-a637-debb-dd54-c17e5d40a611/AppIcon-0-1x_U007epad-0-0-0-8-0-0-0-85-220-0.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/48/46/68484684-a637-debb-dd54-c17e5d40a611/AppIcon-0-1x_U007epad-0-0-0-8-0-0-0-85-220-0.png/100x100bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -367,26 +368,11 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "advisories": [
-        "Unrestricted Web Access"
+      "features": [
+        "iosUniversal"
       ],
-      "kind": "software",
-      "averageUserRating": 4.73148,
-      "trackCensoredName": "Google Assistant",
-      "trackViewUrl": "https://apps.apple.com/us/app/google-assistant/id1220976145?uo=4",
-      "contentAdvisoryRating": "17+",
-      "fileSizeBytes": "267389952",
-      "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 66960,
-      "averageUserRatingForCurrentVersion": 4.73148,
       "minimumOsVersion": "15.0",
-      "price": 0,
-      "artistName": "Google",
-      "artistId": 281956209,
-      "genres": [
-        "Utilities",
-        "Productivity"
-      ],
+      "averageUserRatingForCurrentVersion": 4.73145,
       "sellerUrl": "https://assistant.google.com/",
       "languageCodesISO2A": [
         "AR",
@@ -412,25 +398,39 @@
         "TR",
         "VI"
       ],
+      "fileSizeBytes": "267389952",
+      "formattedPrice": "Free",
+      "userRatingCountForCurrentVersion": 66960,
       "trackContentRating": "17+",
-      "bundleId": "com.google.OPA",
-      "trackId": 1220976145,
-      "trackName": "Google Assistant",
-      "sellerName": "Google LLC",
+      "artistId": 281956209,
+      "artistName": "Google",
+      "price": 0,
+      "releaseDate": "2017-05-18T12:48:44Z",
       "primaryGenreName": "Utilities",
       "primaryGenreId": 6002,
-      "releaseDate": "2017-05-18T12:48:44Z",
+      "sellerName": "Google LLC",
       "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2025-07-23T12:24:44Z",
+      "releaseNotes": "We've updated the app to bring you the best Assistant experience. This release contains bug fixes and stability improvements.",
       "version": "1.9.148701",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Google Assistant helps you get everyday tasks done more easily and is thoughtfully designed to offer help throughout your day while keeping your information private, safe and secure.\n\nSet reminders, get quick answers, find directions with Google Maps, and more while on-the-go with the help of your Google Assistant.\n\nWith the Assistant app, you can:\n- Send text messages (e.g. \"Text Kat “I’m on my way”)\n- Set reminders (e.g. \"Remind me to buy a birthday gift for Sarah\")\n- Play music (e.g. \"Play jazz music on YouTube\")\n- Navigate places (e.g. \"Navigate to the nearest coffee shop\")\n- Weather information (e.g. \"What’s the weather today\")\n- Learn more about your privacy controls (e.g., “Where can I change my privacy settings?”)\n-Delete your recent Google Assistant activity (e.g., “Delete what I said this week”)",
+      "contentAdvisoryRating": "17+",
+      "trackCensoredName": "Google Assistant",
+      "trackViewUrl": "https://apps.apple.com/us/app/google-assistant/id1220976145?uo=4",
+      "averageUserRating": 4.73145,
+      "bundleId": "com.google.OPA",
+      "genres": [
+        "Utilities",
+        "Productivity"
+      ],
+      "trackId": 1220976145,
+      "trackName": "Google Assistant",
       "genreIds": [
         "6002",
         "6007"
       ],
-      "releaseNotes": "We've updated the app to bring you the best Assistant experience. This release contains bug fixes and stability improvements.",
       "userRatingCount": 66960,
       "country": "USA"
     }

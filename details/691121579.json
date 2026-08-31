@@ -2,11 +2,7 @@
   "resultCount": 2,
   "results": [
     {
-      "features": [
-        "iosUniversal"
-      ],
       "isGameCenterEnabled": false,
-      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -136,10 +132,21 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
+      "advisories": [],
       "kind": "software",
+      "features": [
+        "iosUniversal"
+      ],
       "artistViewUrl": "https://apps.apple.com/jp/developer/adblock-labs/id1709481333?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/2f/5a/65/2f5a653b-9f28-f6ab-0f51-8ad087fbbace/app-icon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/2f/5a/65/2f5a653b-9f28-f6ab-0f51-8ad087fbbace/app-icon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.jpg",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a4/5c/77/a45c77bb-934a-c914-83db-6f55afb31249/pr_source.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/58/fe/2f/58fe2feb-fbc0-cbe7-c918-cacfcebf1b97/pr_source.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/bd/4c/91/bd4c91de-5a0f-6e16-83de-f490b2329ac4/pr_source.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/15/c6/f0/15c6f018-4041-99ff-9d0e-f60083275fd4/pr_source.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/38/cf/f1/38cff1ad-cc76-ec0d-127e-d57cb4beb8f7/pr_source.png/392x696bb.png"
+      ],
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/24/67/ec/2467ec73-b244-6c0c-97bb-64338bd94d61/pr_source.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/13/81/2c/13812c6a-eefc-48db-70e0-f62ae4cd595d/pr_source.png/576x768bb.png",
@@ -149,53 +156,46 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/2f/5a/65/2f5a653b-9f28-f6ab-0f51-8ad087fbbace/app-icon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a4/5c/77/a45c77bb-934a-c914-83db-6f55afb31249/pr_source.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/58/fe/2f/58fe2feb-fbc0-cbe7-c918-cacfcebf1b97/pr_source.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/bd/4c/91/bd4c91de-5a0f-6e16-83de-f490b2329ac4/pr_source.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/15/c6/f0/15c6f018-4041-99ff-9d0e-f60083275fd4/pr_source.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/38/cf/f1/38cff1ad-cc76-ec0d-127e-d57cb4beb8f7/pr_source.png/392x696bb.png"
-      ],
-      "minimumOsVersion": "12.0",
-      "artistId": 1709481333,
-      "artistName": "AdBlock Labs",
+      "sellerUrl": "https://www.adblockios.com",
+      "averageUserRating": 4.38858,
+      "currentVersionReleaseDate": "2021-07-27T17:46:09Z",
+      "releaseNotes": "This version contains bug fixes. Please consider updating to iOS 14.7, as it solves most of the blocking issues.",
+      "bundleId": "com.futuremind.adblock",
       "genres": [
         "ユーティリティ",
         "仕事効率化"
       ],
-      "price": 300,
+      "artistId": 1709481333,
+      "artistName": "AdBlock Labs",
+      "releaseDate": "2014-03-16T00:42:42Z",
       "genreIds": [
         "6002",
         "6007"
       ],
-      "isVppDeviceBasedLicensingEnabled": true,
       "primaryGenreName": "Utilities",
       "primaryGenreId": 6002,
-      "bundleId": "com.futuremind.adblock",
-      "releaseDate": "2014-03-16T00:42:42Z",
-      "currentVersionReleaseDate": "2021-07-27T17:46:09Z",
-      "trackId": 691121579,
-      "trackName": "AdBlock",
-      "releaseNotes": "This version contains bug fixes. Please consider updating to iOS 14.7, as it solves most of the blocking issues.",
+      "sellerName": "AdBlock Labs Sp. z o. o.",
+      "isVppDeviceBasedLicensingEnabled": true,
       "version": "4.7.3",
       "wrapperType": "software",
       "currency": "JPY",
       "description": "The original AdBlock - the first and last ad-blocker you'll ever need. A one time purchase - no subscriptions needed. We've been blocking ads on iPhones and iPads since 2012 - we know our game! :) \nAdBlock allows you to block ads on your iOS device. Get rid of 99% of annoying popups, banners and video ads. Protect your privacy, limit bandwidth use, speed up your device, save battery and drastically improve your day-to-day iOS experience.\n\nThe most important advantages of AdBlock are:\n• AdBlock comes with a local DNS proxy service built-in. Use it to see which domains you're device is contacting. Create your own rules and assign any IP to any domain, right on your device. You can (and should!) bootstrap this feature with rules found online.\n• AdBlock has enhanced DNS proxy rules export and import function. Share DNS proxy rules with other users, easily import rules found on the Internet.\n• AdBlock comes with a Safari Content Blocker to block ads on websites in Safari.\n• AdBlock allows you to create your own list of domains and synchronize your rules between all your devices using iCloud.\n• AdBlock allows you to protect your privacy by blocking mobile trackers. Prevent Internet trackers from recording your online activity and selling your private data.\n• AdBlock does not send your Internet traffic through any remote server. All of your connections stay direct, fast and secure. Ads are blocked right on your device!\n• Setting up AdBlock is simple! Just download the app, and follow the tutorial to set everything up. When in doubt - contact our support!\n• AdBlock automatically updates to the latest version of the filters on every app run. We keep the ad servers database up-to-date for you.\n• AdBlock works with Wi-Fi and cellular networks. You don't need to set it up separately for every network you use.\n• AdBlock comes with a handy widget to quickly change the DNS proxy status when needed.\n\nLooking for support? Contact our dedicated support line directly from the app - we'll help you out with the proper setup and answer all the questions you might have.",
-      "averageUserRating": 4.38928,
-      "trackCensoredName": "AdBlock",
-      "trackViewUrl": "https://apps.apple.com/jp/app/adblock/id691121579?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.38928,
-      "sellerUrl": "https://www.adblockios.com",
+      "minimumOsVersion": "12.0",
+      "averageUserRatingForCurrentVersion": 4.38858,
       "languageCodesISO2A": [
         "EN"
       ],
       "fileSizeBytes": "25891840",
       "formattedPrice": "¥300",
-      "userRatingCountForCurrentVersion": 12888,
+      "userRatingCountForCurrentVersion": 12893,
       "trackContentRating": "4+",
-      "sellerName": "AdBlock Labs Sp. z o. o.",
-      "userRatingCount": 12888,
+      "trackCensoredName": "AdBlock",
+      "trackViewUrl": "https://apps.apple.com/jp/app/adblock/id691121579?uo=4",
+      "contentAdvisoryRating": "4+",
+      "trackId": 691121579,
+      "trackName": "AdBlock",
+      "price": 300,
+      "userRatingCount": 12893,
       "country": "JPN"
     },
     {

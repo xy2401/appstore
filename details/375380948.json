@@ -210,9 +210,7 @@
     },
     {
       "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -343,16 +341,7 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "advisories": [],
       "kind": "software",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/49/e0/19/49e019b1-95b3-5981-00d8-ae0f5376ed41/1-Personalization-6_5-English_U0028US_U0029.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/64/b3/24/64b324dd-da3b-99f1-c211-402a4bfbd45a/2-Browse_U0026Save-6_5-English_U0028US_U0029.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0d/4d/ac/0d4daca6-6a5c-8e03-decc-0e105e16a5f9/0-Gifting-6_5-English_U0028US_U0029.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/67/16/d1/6716d17e-f263-b975-3898-b8e7d8df9fc6/3-Go_Further-6_5-English_U0028US_U0029.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/37/d7/dd/37d7ddba-4510-e2be-5f3d-06f2d35ec59a/4-In_Store_Mode-6_5-English_U0028AU_U002c_CA_U002c_UK_U002c_US_U0029.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e8/f5/7f/e8f57f81-772a-f33a-f62b-67994946ebe4/5-Order_Tracking-6_5-English_U0028US_U0029.png/320x480bb.jpg"
-      ],
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6d/fe/d6/6dfed649-4617-0a2d-9286-b3c1297479ae/1-Personalization-12_9-English_U0028US_U0029.png/360x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5b/ab/cd/5babcd0f-f663-a079-41b4-e1478b8743ac/2-Browse_U0026Save-12_9-English_U0028US_U0029.png/360x480bb.jpg",
@@ -362,27 +351,40 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/83/16/7b831651-30d2-55a7-aabe-a0d6053df222/AppIcon-0-1x_U007epad-0-0-0-1-0-0-85-220-0.png/512x512bb.jpg",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/49/e0/19/49e019b1-95b3-5981-00d8-ae0f5376ed41/1-Personalization-6_5-English_U0028US_U0029.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/64/b3/24/64b324dd-da3b-99f1-c211-402a4bfbd45a/2-Browse_U0026Save-6_5-English_U0028US_U0029.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0d/4d/ac/0d4daca6-6a5c-8e03-decc-0e105e16a5f9/0-Gifting-6_5-English_U0028US_U0029.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/67/16/d1/6716d17e-f263-b975-3898-b8e7d8df9fc6/3-Go_Further-6_5-English_U0028US_U0029.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/37/d7/dd/37d7ddba-4510-e2be-5f3d-06f2d35ec59a/4-In_Store_Mode-6_5-English_U0028AU_U002c_CA_U002c_UK_U002c_US_U0029.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e8/f5/7f/e8f57f81-772a-f33a-f62b-67994946ebe4/5-Order_Tracking-6_5-English_U0028US_U0029.png/320x480bb.jpg"
+      ],
       "artistViewUrl": "https://apps.apple.com/us/developer/apple/id284417353?mt=12&uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/83/16/7b831651-30d2-55a7-aabe-a0d6053df222/AppIcon-0-1x_U007epad-0-0-0-1-0-0-85-220-0.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/83/16/7b831651-30d2-55a7-aabe-a0d6053df222/AppIcon-0-1x_U007epad-0-0-0-1-0-0-85-220-0.png/100x100bb.jpg",
-      "bundleId": "com.apple.store.Jolly",
+      "features": [
+        "iosUniversal"
+      ],
+      "minimumOsVersion": "18.0",
       "genres": [
         "Shopping",
         "Lifestyle"
       ],
       "price": 0,
-      "trackId": 375380948,
-      "trackName": "Apple Store",
-      "primaryGenreName": "Shopping",
-      "primaryGenreId": 6024,
+      "bundleId": "com.apple.store.Jolly",
       "genreIds": [
         "6024",
         "6012"
       ],
       "isVppDeviceBasedLicensingEnabled": true,
-      "releaseDate": "2010-06-15T11:31:33Z",
-      "currentVersionReleaseDate": "2026-07-22T19:03:39Z",
+      "primaryGenreName": "Shopping",
+      "primaryGenreId": 6024,
       "sellerName": "Apple Inc.",
+      "currentVersionReleaseDate": "2026-07-22T19:03:39Z",
+      "releaseDate": "2010-06-15T11:31:33Z",
+      "trackId": 375380948,
+      "trackName": "Apple Store",
+      "releaseNotes": "- Various improvements and performance enhancements.",
       "version": "6.9",
       "wrapperType": "software",
       "currency": "USD",
@@ -415,18 +417,16 @@
       ],
       "fileSizeBytes": "195094528",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 168651,
+      "userRatingCountForCurrentVersion": 169023,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 3.50334,
-      "minimumOsVersion": "18.0",
-      "averageUserRating": 3.50334,
+      "averageUserRatingForCurrentVersion": 3.5034,
       "trackCensoredName": "Apple Store",
       "trackViewUrl": "https://apps.apple.com/us/app/apple-store/id375380948?uo=4",
       "contentAdvisoryRating": "4+",
-      "releaseNotes": "- Various improvements and performance enhancements.",
+      "averageUserRating": 3.5034,
       "artistId": 284417353,
       "artistName": "Apple",
-      "userRatingCount": 168651,
+      "userRatingCount": 169023,
       "country": "USA"
     }
   ]

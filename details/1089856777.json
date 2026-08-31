@@ -202,9 +202,6 @@
       "userRatingCount": 311
     },
     {
-      "artistViewUrl": "https://apps.apple.com/fr/developer/julie-violet/id1089856776?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/2e/7e/262e7e3f-870b-ddb1-6f5f-c35199dc2c5a/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/2e/7e/262e7e3f-870b-ddb1-6f5f-c35199dc2c5a/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/aa/19/9a/aa199a33-bc70-dcf2-e07a-ded5596daf95/01.png/320x480bb.jpg",
@@ -229,13 +226,6 @@
       "features": [
         "iosUniversal"
       ],
-      "advisories": [
-        "Scènes rares/modérées réservées aux adultes (suggestives)",
-        "Accès au Web non contrôlé.",
-        "Scènes rares/modérées de consommation ou de référence à l’alcool, au tabac ou à la drogue",
-        "Scènes fréquentes/intenses de contenu à caractère médical"
-      ],
-      "kind": "software",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -365,11 +355,18 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "trackCensoredName": "Fiches IDE",
-      "trackViewUrl": "https://apps.apple.com/fr/app/fiches-ide/id1089856777?uo=4",
-      "contentAdvisoryRating": "17+",
-      "averageUserRating": 4.50161,
+      "advisories": [
+        "Scènes rares/modérées réservées aux adultes (suggestives)",
+        "Accès au Web non contrôlé.",
+        "Scènes rares/modérées de consommation ou de référence à l’alcool, au tabac ou à la drogue",
+        "Scènes fréquentes/intenses de contenu à caractère médical"
+      ],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/fr/developer/julie-violet/id1089856776?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/2e/7e/262e7e3f-870b-ddb1-6f5f-c35199dc2c5a/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/2e/7e/262e7e3f-870b-ddb1-6f5f-c35199dc2c5a/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/100x100bb.jpg",
       "releaseNotes": "MISE A JOUR V3.14\n\nCorrectif d'un bug empêchant la progression sur les quizz sur certains appareils",
+      "sellerUrl": "https://www.fiches-ide.fr/application/",
       "averageUserRatingForCurrentVersion": 4.50161,
       "languageCodesISO2A": [
         "EN"
@@ -378,7 +375,6 @@
       "formattedPrice": "3,99 €",
       "userRatingCountForCurrentVersion": 311,
       "trackContentRating": "17+",
-      "sellerUrl": "https://www.fiches-ide.fr/application/",
       "artistId": 1089856776,
       "artistName": "Julie Violet",
       "genres": [
@@ -386,22 +382,26 @@
         "Forme et santé"
       ],
       "price": 3.99,
+      "primaryGenreName": "Education",
+      "primaryGenreId": 6017,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseDate": "2016-03-10T00:04:35Z",
+      "sellerName": "Julie Violet",
       "genreIds": [
         "6017",
         "6013"
       ],
       "trackId": 1089856777,
       "trackName": "Fiches IDE",
-      "sellerName": "Julie Violet",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "primaryGenreName": "Education",
-      "primaryGenreId": 6017,
-      "releaseDate": "2016-03-10T00:04:35Z",
       "currentVersionReleaseDate": "2026-01-19T10:16:42Z",
       "version": "3.14",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Fiches IDE, l'application référence indispensable à tous les Etudiants en Soins Infirmiers (ESI) ou les Infirmier(e)s Diplômé(e)s d'Etat.\n\nVous pourrez y trouver des fiches pratiques concernant les différentes UE enseignées dans le nouveau référentiel de formation. Une aide aux révisions pour les étudiants et une aide pour les professionnels diplômés qui souhaitent reprendre les bases ou encadrer les futurs jeunes diplômés. L'application permet de vous donner accès à tout son contenu de manière illimitée et sans pubs !\n\nFonctionnalités :\n- Cours (+ de 500 fiches)\n- Vocabulaire : Plus de 50 000 définitions (Dictionnaire de l'Académie de Médecine)\n- Pathologies\n- Quizz\n- Annales (+ de 100)\n- Familles de médicaments\n- Examens biologiques\n- Contacts de professionnels pour vos TFE\n\n... Et plus encore ! \n\nNe nécessite aucun accès à internet.\nPaiement unique - sans abonnement !\n\nMerci de choisir Fiches IDE!\nJulie & Romain",
+      "averageUserRating": 4.50161,
+      "trackCensoredName": "Fiches IDE",
+      "trackViewUrl": "https://apps.apple.com/fr/app/fiches-ide/id1089856777?uo=4",
+      "contentAdvisoryRating": "17+",
       "bundleId": "dev.romainbulot.com.ficheside",
       "minimumOsVersion": "12.0",
       "userRatingCount": 311,

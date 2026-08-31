@@ -2,9 +2,6 @@
   "resultCount": 1,
   "results": [
     {
-      "artistViewUrl": "https://apps.apple.com/fr/developer/stephan-bolch/id1516634570?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/02/4a/74024a15-a2a5-4634-90c5-48875dfa6b0d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/02/4a/74024a15-a2a5-4634-90c5-48875dfa6b0d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8e/b4/94/8eb494c4-dea3-47ac-ae2f-aa8dc1e659e7/iphone-01-title.png/320x480bb.jpg",
@@ -25,8 +22,6 @@
       "features": [
         "iosUniversal"
       ],
-      "advisories": [],
-      "kind": "software",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -156,11 +151,13 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "trackCensoredName": "Kompute - Music Calculator",
-      "trackViewUrl": "https://apps.apple.com/fr/app/kompute-music-calculator/id6791969349?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 0,
+      "advisories": [],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/fr/developer/stephan-bolch/id1516634570?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/02/4a/74024a15-a2a5-4634-90c5-48875dfa6b0d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/02/4a/74024a15-a2a5-4634-90c5-48875dfa6b0d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
       "releaseNotes": "- Compressor calculator now shows separate attack and release times\n- Reverb pre-delay supports BPM mode with tempo-synced values\n- New Frames converter in the Timecode module (frame number to timecode)\n- App remembers your preferred startup tab and window size",
+      "sellerUrl": "https://all-the-machines.com/products/kompute/",
       "averageUserRatingForCurrentVersion": 0,
       "languageCodesISO2A": [
         "EN"
@@ -169,7 +166,6 @@
       "formattedPrice": "1,99 €",
       "userRatingCountForCurrentVersion": 0,
       "trackContentRating": "4+",
-      "sellerUrl": "https://all-the-machines.com/products/kompute/",
       "artistId": 1516634570,
       "artistName": "Stephan Bolch",
       "genres": [
@@ -177,22 +173,26 @@
         "Utilitaires"
       ],
       "price": 1.99,
+      "primaryGenreName": "Music",
+      "primaryGenreId": 6011,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseDate": "2026-07-23T07:00:00Z",
+      "sellerName": "Stephan Bolch",
       "genreIds": [
         "6011",
         "6002"
       ],
       "trackId": 6791969349,
       "trackName": "Kompute - Music Calculator",
-      "sellerName": "Stephan Bolch",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "primaryGenreName": "Music",
-      "primaryGenreId": 6011,
-      "releaseDate": "2026-07-23T07:00:00Z",
       "currentVersionReleaseDate": "2026-08-08T23:15:44Z",
       "version": "1.1.0",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Kompute gives you 10 precision tools for studio math, all in one app.\n\nTAP TEMPO + METRONOME\nTap to detect BPM with decimal precision. Built-in metronome. Round to nearest whole BPM or keep the exact reading.\n\nDELAY TIME TABLE\nEnter a BPM and see tempo-synced delay times for 21 note divisions. Normal, dotted, and triplet values in both milliseconds and Hz.\n\nNOTE TO FREQUENCY\nConvert any musical note to Hz. Supports 100+ temperaments beyond standard equal temperament. Adjustable concert pitch. Audio preview per note.\n\nFREQUENCY TO NOTE\nEnter a frequency, find the closest musical note with cents deviation. Identify the pitch of any sound.\n\nSAMPLE LENGTH CONVERTER\nBidirectional conversion between samples, milliseconds, seconds, bars, and beats. Edit any field, all others recalculate.\n\nTEMPO CHANGE CALCULATOR\nCalculate time-stretch ratio and transposition when changing from one tempo to another. Shows stretch percentage, tempo delta, and semitone shift.\n\nTIMECODE CALCULATOR\nFull timecode arithmetic for video and film. Add, subtract, and multiply timecodes. Supports 10 FPS formats including 23.976, 29.97 drop frame, and 59.94.\n\nREVERB PRE-DELAY\nCalculate tempo-synced pre-delay values. Small, medium, large, and hall presets. Keep your reverb rhythmically aligned.\n\nCOMPRESSOR SYNC\nTempo-synced attack and release times. Lock your dynamics processing to the groove.\n\nEQ REFERENCE CHART\nVisual reference of frequency ranges by instrument and tonal character. Sub-bass through brilliance, with descriptions.\n\nCROSS-MODULE DATA FLOW\nDetect a tempo via Tap Tempo and it automatically transfers to Delay Table, Reverb, and Compressor modules.\n\nNo ads. No tracking. No account required. Works fully offline.\n\nFrom All The Machines.",
+      "averageUserRating": 0,
+      "trackCensoredName": "Kompute - Music Calculator",
+      "trackViewUrl": "https://apps.apple.com/fr/app/kompute-music-calculator/id6791969349?uo=4",
+      "contentAdvisoryRating": "4+",
       "bundleId": "com.allthemachines.kompute",
       "minimumOsVersion": "15.0",
       "userRatingCount": 0,

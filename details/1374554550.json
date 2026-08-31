@@ -195,14 +195,6 @@
     },
     {
       "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [],
-      "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/de/developer/florian-chrometz/id1004595008?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ff/34/d3/ff34d3b7-427a-e662-1b4e-41d0ef46aa58/AppIcon-0-0-1x_U007epad-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ff/34/d3/ff34d3b7-427a-e662-1b4e-41d0ef46aa58/AppIcon-0-0-1x_U007epad-0-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/62/d1/00/62d100be-1890-9ab6-f939-33c59ef3091f/6f360a62-5942-4604-9ac0-72d36ea0de4b_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2022-11-20_at_21.43.28.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/ef/99/0f/ef990f04-0d8a-4c29-dcf8-03a6ad1e0a99/21f7dc50-c09e-48fa-b49b-f47ea9bea0b3_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2022-11-20_at_21.43.58.png/392x696bb.png"
@@ -215,6 +207,7 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ff/34/d3/ff34d3b7-427a-e662-1b4e-41d0ef46aa58/AppIcon-0-0-1x_U007epad-0-85-220.png/512x512bb.jpg",
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -344,46 +337,53 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "minimumOsVersion": "15.0",
-      "sellerName": "Florian Chrometz",
-      "primaryGenreName": "Reference",
-      "primaryGenreId": 6006,
-      "trackId": 1374554550,
-      "trackName": "Railmap for Open Railway Map",
-      "genreIds": [
-        "6006",
-        "6010"
+      "kind": "software",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ff/34/d3/ff34d3b7-427a-e662-1b4e-41d0ef46aa58/AppIcon-0-0-1x_U007epad-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ff/34/d3/ff34d3b7-427a-e662-1b4e-41d0ef46aa58/AppIcon-0-0-1x_U007epad-0-85-220.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/de/developer/florian-chrometz/id1004595008?uo=4",
+      "features": [
+        "iosUniversal"
       ],
-      "releaseDate": "2018-08-23T13:11:45Z",
-      "currentVersionReleaseDate": "2023-10-18T10:11:41Z",
-      "releaseNotes": "- Improved local tile caching",
-      "version": "1.2.2",
-      "wrapperType": "software",
-      "currency": "EUR",
-      "description": "Railmap allows you to explore the world with a whole new sight: the world of train tracks.\n\nExplore three different rail map layers:\nSTANDARD\nExplore the global network of train tracks.\n\nSPEED\nGet a feeling about how fast you can go on which train tracks.\n\nSIGNALS\nSee detailed information about signs and signals on train tracks.\n\nRailmaps also caches places you've seen on your device so they'll load even faster if you want to see the again.",
-      "trackCensoredName": "Railmap for Open Railway Map",
-      "trackViewUrl": "https://apps.apple.com/de/app/railmap-for-open-railway-map/id1374554550?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.6547,
-      "bundleId": "me.chrometz.railmap",
-      "averageUserRatingForCurrentVersion": 4.6547,
       "languageCodesISO2A": [
         "EN"
       ],
       "fileSizeBytes": "5485568",
       "formattedPrice": "2,99 €",
-      "userRatingCountForCurrentVersion": 1338,
+      "userRatingCountForCurrentVersion": 1344,
       "trackContentRating": "4+",
+      "minimumOsVersion": "15.0",
       "sellerUrl": "https://florian-chrometz.de",
+      "averageUserRatingForCurrentVersion": 4.65104,
+      "currentVersionReleaseDate": "2023-10-18T10:11:41Z",
       "price": 2.99,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "artistName": "Florian Chrometz",
-      "artistId": 1004595008,
       "genres": [
         "Nachschlagewerke",
         "Navigation"
       ],
-      "userRatingCount": 1338,
+      "artistId": 1004595008,
+      "artistName": "Florian Chrometz",
+      "primaryGenreName": "Reference",
+      "primaryGenreId": 6006,
+      "releaseDate": "2018-08-23T13:11:45Z",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "genreIds": [
+        "6006",
+        "6010"
+      ],
+      "sellerName": "Florian Chrometz",
+      "releaseNotes": "- Improved local tile caching",
+      "version": "1.2.2",
+      "wrapperType": "software",
+      "currency": "EUR",
+      "description": "Railmap allows you to explore the world with a whole new sight: the world of train tracks.\n\nExplore three different rail map layers:\nSTANDARD\nExplore the global network of train tracks.\n\nSPEED\nGet a feeling about how fast you can go on which train tracks.\n\nSIGNALS\nSee detailed information about signs and signals on train tracks.\n\nRailmaps also caches places you've seen on your device so they'll load even faster if you want to see the again.",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.65104,
+      "trackCensoredName": "Railmap for Open Railway Map",
+      "trackViewUrl": "https://apps.apple.com/de/app/railmap-for-open-railway-map/id1374554550?uo=4",
+      "bundleId": "me.chrometz.railmap",
+      "trackId": 1374554550,
+      "trackName": "Railmap for Open Railway Map",
+      "userRatingCount": 1344,
       "country": "DEU"
     }
   ]

@@ -208,6 +208,13 @@
       "userRatingCount": 2528442
     },
     {
+      "features": [
+        "iosUniversal"
+      ],
+      "artistViewUrl": "https://apps.apple.com/gb/developer/deliveroo/id1001501843?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/de/54/49de540d-7878-235b-11db-1380f7e90b9b/Production-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/de/54/49de540d-7878-235b-11db-1380f7e90b9b/Production-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/54/81/02/54810285-9945-804f-e9c6-dcd7232d6190/pr_source.png/640x1136bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/64/3c/5e/643c5eda-3226-0e01-8369-d963712e7d11/pr_source.png/640x1136bb.png",
@@ -225,11 +232,7 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/91/fa/cf/91facfe8-4ddc-a452-4907-c3128c0520d9/0192579b-34c7-44bd-b5c6-e6e13df99c11_iPadOS-EN-7.jpg/576x768bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/9c/17/3b9c1771-e0ea-ac97-d411-9c930e80a44e/Production-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/gb/developer/deliveroo/id1001501843?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/9c/17/3b9c1771-e0ea-ac97-d411-9c930e80a44e/Production-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/9c/17/3b9c1771-e0ea-ac97-d411-9c930e80a44e/Production-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
-      "isGameCenterEnabled": false,
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/de/54/49de540d-7878-235b-11db-1380f7e90b9b/Production-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "advisories": [
         "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References"
       ],
@@ -363,11 +366,11 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
       "kind": "software",
-      "features": [
-        "iosUniversal"
-      ],
-      "minimumOsVersion": "16.0",
-      "averageUserRatingForCurrentVersion": 4.62913,
+      "bundleId": "com.deliveroo.orderapp",
+      "trackCensoredName": "Deliveroo: Food & Shopping",
+      "trackViewUrl": "https://apps.apple.com/gb/app/deliveroo-food-shopping/id1001501844?uo=4",
+      "contentAdvisoryRating": "12+",
+      "averageUserRating": 4.62838,
       "languageCodesISO2A": [
         "AR",
         "NL",
@@ -377,51 +380,48 @@
         "ZH",
         "ZH"
       ],
-      "fileSizeBytes": "365885440",
-      "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 2549699,
-      "trackContentRating": "12+",
+      "averageUserRatingForCurrentVersion": 4.62838,
       "sellerUrl": "https://deliveroo.co.uk",
-      "trackCensoredName": "Deliveroo: Food & Shopping",
-      "trackViewUrl": "https://apps.apple.com/gb/app/deliveroo-food-shopping/id1001501844?uo=4",
-      "contentAdvisoryRating": "12+",
-      "averageUserRating": 4.62913,
       "artistId": 1001501843,
-      "artistName": "Deliveroo",
-      "genres": [
-        "Food & Drink",
-        "Shopping"
-      ],
       "price": 0,
-      "sellerName": "ROOFOODS LTD",
       "primaryGenreName": "Food & Drink",
       "primaryGenreId": 6023,
+      "trackId": 1001501844,
+      "trackName": "Deliveroo: Food & Shopping",
+      "currentVersionReleaseDate": "2026-08-25T10:28:46Z",
       "releaseNotes": "The Deliveroo chefs have been busy cooking up some new features for you:\n • We’ve been updating our app to use the latest technologies to make Deliveroo faster and easier to use than ever before\n • We've made several improvements to Deliveroo Plus, our free delivery subscription service\n • We’ve also made some changes to our Grocery feature so you can get all your essentials delivered in no time\n\nWe’re always making improvements, so keep your eyes peeled and make sure to keep updating your app to get all the latest features.\n\nBon appetit!",
       "releaseDate": "2015-07-02T17:11:16Z",
       "genreIds": [
         "6023",
         "6024"
       ],
-      "isVppDeviceBasedLicensingEnabled": true,
-      "trackId": 1001501844,
-      "trackName": "Deliveroo: Food & Shopping",
-      "currentVersionReleaseDate": "2026-08-20T11:27:22Z",
-      "version": "3.336.0",
+      "sellerName": "ROOFOODS LTD",
+      "userRatingCountForCurrentVersion": 2554348,
+      "trackContentRating": "12+",
+      "fileSizeBytes": "370284544",
+      "formattedPrice": "Free",
+      "version": "3.337.0",
       "wrapperType": "software",
       "currency": "GBP",
       "description": "Hungry? Get your favourite meals, takeaways and groceries delivered to your door in minutes with Deliveroo. From local gems to big-name brands, discover thousands of restaurants and supermarkets near you.\n\nALL YOUR FAVOURITES, DELIVERED:\n\n- Restaurants: Big brands and local gems\n- Grocery: Always fresh with our Freshness Promise\n- Convenience: Beauty essentials, flowers, gifts, DIY and more in minutes\n\nOrder from the restaurants you’re craving...\n\n- Sushi or pizza?\n- A Chinese or Indian?\n- Burgers, pasta, breakfast or something sweet?\n\nAll of your favourites are just a tap away from top brands like KFC, McDonald’s, Burger King, Subway, Nando’s, Wagamama, Popeyes, Papa John’s, Wingstop, Giggling Squid, Kokoro, Pizza Express, Five Guys, Franco Manca, Dishoom, Pho, Taco Bell, Starbucks, Gail's Bakery, Joe & the Juice, GBK and more!\n\nOr Fancy something different? Discover thousands of local gems that deliver right to your door.\n\n£0 DELIVERY FEE WITH DELIVEROO PLUS\n\nBecome a member and you’ll also unlock:\n\n- Exclusive offers and member-only deals\n- Monthly rewards that help your money go further\n- Discounted service fees*\n- Earn 10% back on restaurant orders over £30*\n\n*Plus Gold members only\n\nIt’s the simplest way to save while enjoying what you love most.\n\nSUPERMARKETS SORTED\n\nGet groceries delivered fast from top supermarkets, including Waitrose, ASDA, Morrisons, M&S, Sainsbury’s, Co-Op, Amazon Fresh, Whole Foods, Spar, One Stop, Iceland and Majestic Wine.\n\nMORE THAN FOOD\n\nWe’re here for the everyday essentials and little treats too. From Boots and Healf to Not On The High Street, B&Q, Screwfix, Accessorize and The Perfume Shop, we've got you covered.\n\nWHY CHOOSE DELIVEROO?\n\n- Track every order live from kitchen to doorstep\n- Enjoy fast, reliable delivery when it matters\n- Order for right now or schedule for later\n- Pick up deals you won’t find anywhere else\n\nDownload the app today and let us bring the best of your neighbourhood straight to your door.\n\nT&Cs apply. Visit the website for full details.",
-      "bundleId": "com.deliveroo.orderapp",
-      "userRatingCount": 2549699,
+      "minimumOsVersion": "16.0",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "genres": [
+        "Food & Drink",
+        "Shopping"
+      ],
+      "artistName": "Deliveroo",
+      "userRatingCount": 2554348,
       "country": "GBR"
     },
     {
+      "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
       ],
-      "artistViewUrl": "https://apps.apple.com/fr/developer/deliveroo/id1001501843?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/9c/17/3b9c1771-e0ea-ac97-d411-9c930e80a44e/Production-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/9c/17/3b9c1771-e0ea-ac97-d411-9c930e80a44e/Production-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
-      "isGameCenterEnabled": false,
+      "advisories": [
+        "Scènes rares/modérées de consommation ou de référence à l’alcool, au tabac ou à la drogue"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -551,11 +551,7 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "advisories": [
-        "Scènes rares/modérées de consommation ou de référence à l’alcool, au tabac ou à la drogue"
-      ],
       "kind": "software",
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/9c/17/3b9c1771-e0ea-ac97-d411-9c930e80a44e/Production-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4f/b0/bd/4fb0bd3e-783c-0f6b-2257-873d2bcbcccf/b6b3420a-9238-4b26-b9bb-3c5d8cddafac_iOS-FR-1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/27/ba/9127ba12-0a9d-947a-a537-8b5a5630b0b9/4adf7d78-8943-445b-8d62-3f9bef06d5e5_iOS-FR-2.jpg/392x696bb.jpg",
@@ -573,34 +569,37 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/21/0e/e0/210ee02f-fdc9-8712-3ebe-f65352548613/2f3238e3-ee28-40c4-a4ab-c22b32dbe2dd_iPadOS-FR-6.jpg/576x768bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "averageUserRatingForCurrentVersion": 4.54969,
-      "averageUserRating": 4.54969,
-      "trackCensoredName": "Deliveroo : Faites-vous livrer",
-      "trackViewUrl": "https://apps.apple.com/fr/app/deliveroo-faites-vous-livrer/id1001501844?uo=4",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/de/54/49de540d-7878-235b-11db-1380f7e90b9b/Production-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/fr/developer/deliveroo/id1001501843?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/de/54/49de540d-7878-235b-11db-1380f7e90b9b/Production-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/de/54/49de540d-7878-235b-11db-1380f7e90b9b/Production-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
+      "sellerUrl": "https://deliveroo.fr",
       "releaseNotes": "Corrections de bugs et amélioration des performances.",
-      "contentAdvisoryRating": "12+",
       "artistId": 1001501843,
       "artistName": "Deliveroo",
       "genres": [
         "Cuisine et boissons",
         "Shopping"
       ],
-      "bundleId": "com.deliveroo.orderapp",
-      "primaryGenreName": "Food & Drink",
-      "primaryGenreId": 6023,
-      "trackId": 1001501844,
-      "trackName": "Deliveroo : Faites-vous livrer",
+      "price": 0,
+      "isVppDeviceBasedLicensingEnabled": true,
       "genreIds": [
         "6023",
         "6024"
       ],
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-08-20T11:27:22Z",
-      "version": "3.336.0",
+      "bundleId": "com.deliveroo.orderapp",
+      "sellerName": "ROOFOODS LTD",
+      "primaryGenreName": "Food & Drink",
+      "primaryGenreId": 6023,
+      "releaseDate": "2015-08-26T01:08:37Z",
+      "trackId": 1001501844,
+      "trackName": "Deliveroo : Faites-vous livrer",
+      "currentVersionReleaseDate": "2026-08-25T10:28:46Z",
+      "version": "3.337.0",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Une petite faim ? Vos restaurants et commerces préférés, livrés chez vous en 20 minutes* avec Deliveroo. Des pépites de votre quartier aux grandes enseignes et chaînes de restauration, découvrez des milliers de restaurants et commerces proches de chez vous.\n\nFAITES VOUS LIVRER CE QUE VOUS AIMEZ :\n\n- Restaurants : grandes enseignes de restauration et pépites de votre quartier \n- Courses : vos produits du quotidien livrés directement chez vous\n\nCommandez les restaurants qui vous font envie...\n\n- Sushi ou pizza ?\n- Burger ou poke bowl ?\n- Petit-déjeuner ou plutôt goûter ?\n\nVos plats préférés sont à portée de main, avec les plus grandes enseignes telles que KFC, McDonald's, Burger King, Five Guys, Pizza Hut et bien d'autres encore !\n\nVous voulez quelque chose de différent ? Découvrez des milliers de petits restos coup de cœur, livrés directement à votre porte.\n\nLES COURSES SIMPLEMENT \n\nFaites-vous livrer en quelques clics les meilleures enseignes chez vous !\n\nRetrouvez également les artisans de votre quartier : boulangeries, pâtisseries, boucheries, fromageries, poissonneries…\n\nPOURQUOI CHOISIR DELIVEROO ?\n\n- Suivi des commandes en direct, de la cuisine à votre porte\n- Profitez d’une livraison fiable en 20 minutes* \n- Commandez immédiatement ou programmez pour plus tard\n- Profitez d’offres exclusives \n\nTéléchargez l’application aujourd’hui et faites-vous livrer le meilleur de votre quartier directement à votre porte.\n\nDes conditions générales s’appliquent, rendez-vous sur notre site pour plus de détails.\n\n*Les délais de livraison ne peuvent être garantis et varient",
-      "sellerUrl": "https://deliveroo.fr",
+      "minimumOsVersion": "16.0",
       "languageCodesISO2A": [
         "AR",
         "NL",
@@ -610,15 +609,16 @@
         "ZH",
         "ZH"
       ],
-      "fileSizeBytes": "365885440",
+      "fileSizeBytes": "370284544",
       "formattedPrice": "Gratuit",
-      "userRatingCountForCurrentVersion": 964493,
+      "userRatingCountForCurrentVersion": 965786,
       "trackContentRating": "12+",
-      "minimumOsVersion": "16.0",
-      "price": 0,
-      "sellerName": "ROOFOODS LTD",
-      "releaseDate": "2015-08-26T01:08:37Z",
-      "userRatingCount": 964493,
+      "averageUserRatingForCurrentVersion": 4.54933,
+      "contentAdvisoryRating": "12+",
+      "averageUserRating": 4.54933,
+      "trackCensoredName": "Deliveroo : Faites-vous livrer",
+      "trackViewUrl": "https://apps.apple.com/fr/app/deliveroo-faites-vous-livrer/id1001501844?uo=4",
+      "userRatingCount": 965786,
       "country": "FRA"
     }
   ]

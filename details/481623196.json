@@ -199,7 +199,6 @@
       "userRatingCount": 129475
     },
     {
-      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/24/61/10/2461108c-64e9-df40-5a1d-d612ed0109d1/20260810104339-0d7a5c63-138a-4433-919d-1c262ba64abc-f713574653bffa624d6eb490b87ae1edc19d9353-1.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/68/f9/cb/68f9cba4-3caf-17ea-9104-77af431f8fea/20260810104346-0d7a5c63-138a-4433-919d-1c262ba64abc-f5ff0465a736de9095f1a9534a8396131227cb33-1.png/320x480bb.jpg",
@@ -218,13 +217,7 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/f0/2d/1cf02d4a-e14f-09d7-fea9-51db242be34d/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/512x512bb.jpg",
-      "advisories": [
-        "偶尔/轻微的竞赛"
-      ],
-      "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/cn/developer/tencent-mobile-games/id446324237?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/f0/2d/1cf02d4a-e14f-09d7-fea9-51db242be34d/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/f0/2d/1cf02d4a-e14f-09d7-fea9-51db242be34d/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/100x100bb.jpg",
+      "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
       ],
@@ -357,46 +350,53 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "averageUserRatingForCurrentVersion": 4.48886,
-      "minimumOsVersion": "12.2",
+      "advisories": [
+        "偶尔/轻微的竞赛"
+      ],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/cn/developer/tencent-mobile-games/id446324237?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/f0/2d/1cf02d4a-e14f-09d7-fea9-51db242be34d/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/f0/2d/1cf02d4a-e14f-09d7-fea9-51db242be34d/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/100x100bb.jpg",
       "sellerUrl": "https://map.qq.com/mobile/",
+      "averageUserRatingForCurrentVersion": 4.48841,
       "languageCodesISO2A": [
         "ZH"
       ],
       "fileSizeBytes": "362731520",
       "formattedPrice": "免费",
-      "userRatingCountForCurrentVersion": 131603,
+      "userRatingCountForCurrentVersion": 131634,
       "trackContentRating": "4+",
+      "releaseNotes": "腾讯地图V11.5版本全新升级，超多实用新功能等你体验！\n【实景三维地形显示】国内首发上线，足不出户云游壮美山川\n【行程】暑假团建季，一键统筹团队路线，行程共享清晰查阅~\n【多人约碰面】实时行程共享、标记目的地，快速集合！\n【面对面传输】地点、路线、指南攻略等一键分享，好友同步更高效。",
       "artistId": 446324237,
       "artistName": "Tencent Mobile Games",
       "genres": [
         "导航",
         "旅游"
       ],
-      "isVppDeviceBasedLicensingEnabled": true,
-      "sellerName": "Shenzhen Tencent Computer Systems Company Limited",
+      "price": 0,
+      "bundleId": "com.tencent.sosomap",
+      "releaseDate": "2011-11-29T10:58:32Z",
+      "trackId": 481623196,
+      "trackName": "腾讯地图-AI路线规划,导航公交打车地铁出行",
       "primaryGenreName": "Navigation",
       "primaryGenreId": 6010,
-      "bundleId": "com.tencent.sosomap",
-      "releaseNotes": "腾讯地图V11.5版本全新升级，超多实用新功能等你体验！\n【实景三维地形显示】国内首发上线，足不出户云游壮美山川\n【行程】暑假团建季，一键统筹团队路线，行程共享清晰查阅~\n【多人约碰面】实时行程共享、标记目的地，快速集合！\n【面对面传输】地点、路线、指南攻略等一键分享，好友同步更高效。",
-      "version": "11.5.0",
-      "wrapperType": "software",
-      "currency": "CNY",
-      "description": "腾讯地图，更懂你的出行伙伴，AI行程管理，让出行更轻松\n【AI 一站式行程管理｜多人同行，行程管理更清晰】\n* 智能规划：独立“计划”入口，根据偏好生成定制攻略，还支持复制小红书攻略链接自动解析成行程，一键邀请好友。\n* 实时共享：队友位置实时可见，支持集合点通知与目标地同步，兼顾协作与省电。\n* 出行记忆：记录行程动态，支持一键分享至社区，沉淀专属足迹指南。\n【AI 叮当再进化｜全流程 AI 陪伴，省心更懂你】\n* 懂你的推荐：搜索结果附有详尽的「推荐理由」，助你快速决策，精准匹配心仪目的地。\n* 主动避堵：AI 实时识别最优路径并自动切换，无需动手操作，驾驶更安全高效。\n* 全语音交互：呼叫『叮当叮当』，AI助手全程响应，支持语音修改目的地、查询实时路况、刷新路线等复杂操作。\n【精准导航与服务｜全场景覆盖，出行更高效】\n* 多方式规划：全面覆盖驾车、公交、打车、步行、骑行等场景，提供精准的路线规划与到达时间预估。\n* 全网打车：一键同时呼叫多个主流平台车辆，多种车型一键同呼，价格透明，出发更快。\n* 实时路况：数据秒级刷新，室内地图覆盖主流机场、火车站与大型商场。\n【特色与趣味｜让导航也有个性与温度】\n* 海量语音伴行：元梦之星小红狐、喜剧人张兴朝、李嘉诚、刘旸、和平精英、DNF等丰富语音包，导航之旅妙趣横生。\n* 炫酷主题车标：喜剧人欢乐系列、和平精英经典、DNF赛丽亚等个性车标，彰显独特风格。\n* 足迹地图：记录去过的城市，生成专属足迹地图与成就，珍藏每一段旅程。\n* 特色地图：3D 地图、卫星地图、城市活动地图，满足不同的探索需求。\n【性能与视觉｜轻盈流畅，体验焕新】\n* 性能全面优化：新一代技术底座，启动速度提升 20%，流畅度提升 40%，卡顿减少 30%，操作更跟手。\n* 视觉清爽升级：界面布局与图标经过光影优化，视觉更清爽，核心地图信息更突出，浏览更舒适。\n【联系我们】\n* 如在使用中遇到任何问题或有宝贵建议，欢迎通过App内“设置-意见反馈”向我们反馈，或加入官方用户QQ群：293687610，我们将第一时间处理。\n* 为提供持续精准的导航服务，应用在后台可能会持续使用GPS定位功能，增加设备的电量消耗。",
-      "trackCensoredName": "腾讯地图-AI路线规划,导航公交打车地铁出行",
-      "trackViewUrl": "https://apps.apple.com/cn/app/%E8%85%BE%E8%AE%AF%E5%9C%B0%E5%9B%BE-ai%E8%B7%AF%E7%BA%BF%E8%A7%84%E5%88%92-%E5%AF%BC%E8%88%AA%E5%85%AC%E4%BA%A4%E6%89%93%E8%BD%A6%E5%9C%B0%E9%93%81%E5%87%BA%E8%A1%8C/id481623196?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.48886,
-      "currentVersionReleaseDate": "2026-08-11T03:14:37Z",
+      "sellerName": "Shenzhen Tencent Computer Systems Company Limited",
       "genreIds": [
         "6010",
         "6003"
       ],
-      "releaseDate": "2011-11-29T10:58:32Z",
-      "price": 0,
-      "trackName": "腾讯地图-AI路线规划,导航公交打车地铁出行",
-      "trackId": 481623196,
-      "userRatingCount": 131603,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-08-11T03:14:37Z",
+      "version": "11.5.0",
+      "wrapperType": "software",
+      "currency": "CNY",
+      "description": "腾讯地图，更懂你的出行伙伴，AI行程管理，让出行更轻松\n【AI 一站式行程管理｜多人同行，行程管理更清晰】\n* 智能规划：独立“计划”入口，根据偏好生成定制攻略，还支持复制小红书攻略链接自动解析成行程，一键邀请好友。\n* 实时共享：队友位置实时可见，支持集合点通知与目标地同步，兼顾协作与省电。\n* 出行记忆：记录行程动态，支持一键分享至社区，沉淀专属足迹指南。\n【AI 叮当再进化｜全流程 AI 陪伴，省心更懂你】\n* 懂你的推荐：搜索结果附有详尽的「推荐理由」，助你快速决策，精准匹配心仪目的地。\n* 主动避堵：AI 实时识别最优路径并自动切换，无需动手操作，驾驶更安全高效。\n* 全语音交互：呼叫『叮当叮当』，AI助手全程响应，支持语音修改目的地、查询实时路况、刷新路线等复杂操作。\n【精准导航与服务｜全场景覆盖，出行更高效】\n* 多方式规划：全面覆盖驾车、公交、打车、步行、骑行等场景，提供精准的路线规划与到达时间预估。\n* 全网打车：一键同时呼叫多个主流平台车辆，多种车型一键同呼，价格透明，出发更快。\n* 实时路况：数据秒级刷新，室内地图覆盖主流机场、火车站与大型商场。\n【特色与趣味｜让导航也有个性与温度】\n* 海量语音伴行：元梦之星小红狐、喜剧人张兴朝、李嘉诚、刘旸、和平精英、DNF等丰富语音包，导航之旅妙趣横生。\n* 炫酷主题车标：喜剧人欢乐系列、和平精英经典、DNF赛丽亚等个性车标，彰显独特风格。\n* 足迹地图：记录去过的城市，生成专属足迹地图与成就，珍藏每一段旅程。\n* 特色地图：3D 地图、卫星地图、城市活动地图，满足不同的探索需求。\n【性能与视觉｜轻盈流畅，体验焕新】\n* 性能全面优化：新一代技术底座，启动速度提升 20%，流畅度提升 40%，卡顿减少 30%，操作更跟手。\n* 视觉清爽升级：界面布局与图标经过光影优化，视觉更清爽，核心地图信息更突出，浏览更舒适。\n【联系我们】\n* 如在使用中遇到任何问题或有宝贵建议，欢迎通过App内“设置-意见反馈”向我们反馈，或加入官方用户QQ群：293687610，我们将第一时间处理。\n* 为提供持续精准的导航服务，应用在后台可能会持续使用GPS定位功能，增加设备的电量消耗。",
+      "minimumOsVersion": "12.2",
+      "averageUserRating": 4.48841,
+      "trackCensoredName": "腾讯地图-AI路线规划,导航公交打车地铁出行",
+      "trackViewUrl": "https://apps.apple.com/cn/app/%E8%85%BE%E8%AE%AF%E5%9C%B0%E5%9B%BE-ai%E8%B7%AF%E7%BA%BF%E8%A7%84%E5%88%92-%E5%AF%BC%E8%88%AA%E5%85%AC%E4%BA%A4%E6%89%93%E8%BD%A6%E5%9C%B0%E9%93%81%E5%87%BA%E8%A1%8C/id481623196?uo=4",
+      "contentAdvisoryRating": "4+",
+      "userRatingCount": 131634,
       "country": "CHN"
     }
   ]

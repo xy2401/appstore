@@ -182,13 +182,11 @@
       "userRatingCount": 2
     },
     {
-      "artistViewUrl": "https://apps.apple.com/us/developer/microsoft-corporation/id298856275?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/b3/94/edb394af-2e8b-e5cf-6baf-3af617c9b54d/appicon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/b3/94/edb394af-2e8b-e5cf-6baf-3af617c9b54d/appicon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/us/developer/microsoft-corporation/id298856275?uo=4",
       "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
+      "advisories": [],
       "supportedDevices": [
         "MacDesktop-MacDesktop",
         "iPhone5s-iPhone5s",
@@ -319,10 +317,10 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "advisories": [],
       "kind": "software",
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/b3/94/edb394af-2e8b-e5cf-6baf-3af617c9b54d/appicon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/29/89/3f/29893f3c-914f-1e33-ff08-d040291cad2f/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2025-12-15_at_16.42.42.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6d/c6/76/6dc67616-d6b6-fbfc-1c92-0d059f89a619/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2025-12-15_at_16.42.52.png/320x480bb.jpg",
@@ -335,41 +333,43 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/15/04/64/150464fa-7813-888e-bd7c-2ec0087abc5f/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2025-12-16_at_18.07.52.png/360x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6b/dc/e4/6bdce4aa-537f-2ab2-ac68-889575eab4ad/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2025-12-16_at_18.08.01.png/360x480bb.jpg"
       ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/b3/94/edb394af-2e8b-e5cf-6baf-3af617c9b54d/appicon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "averageUserRating": 5,
+      "trackViewUrl": "https://apps.apple.com/us/app/microsoft-cloud-switcher/id6752790990?uo=4",
       "contentAdvisoryRating": "4+",
       "trackCensoredName": "Microsoft Cloud Switcher",
-      "trackViewUrl": "https://apps.apple.com/us/app/microsoft-cloud-switcher/id6752790990?uo=4",
-      "minimumOsVersion": "18.0",
       "artistId": 298856275,
       "artistName": "Microsoft Corporation",
       "genres": [
         "Utilities"
       ],
       "price": 0,
-      "bundleId": "com.microsoft.cloudswitcher",
       "trackId": 6752790990,
+      "trackName": "Microsoft Cloud Switcher",
+      "releaseDate": "2026-03-17T07:00:00Z",
+      "isVppDeviceBasedLicensingEnabled": true,
       "primaryGenreName": "Utilities",
       "primaryGenreId": 6002,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "genreIds": [
-        "6002"
-      ],
       "sellerName": "Microsoft Corporation",
-      "releaseDate": "2026-03-17T07:00:00Z",
       "currentVersionReleaseDate": "2026-08-18T19:34:01Z",
       "releaseNotes": "small update for fixing bugs",
       "version": "1.5",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Microsoft Cloud Switcher allows users to pre-configure the target cloud for Microsoft 365 apps installed on the device. It allows switching between the Public Cloud, the Microsoft 365 Bleu Cloud, and the Microsoft 365 Delos Cloud. This app is for customers of the Microsoft 365 Bleu and Delos national partner clouds only. It is not intended for users of Microsoft consumer online services or other clouds. If you are unsure about the implications of switching, please contact your IT Administrator before making any changes.",
+      "averageUserRatingForCurrentVersion": 5,
       "languageCodesISO2A": [],
       "fileSizeBytes": "60113920",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 2,
+      "userRatingCountForCurrentVersion": 1,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 5,
-      "trackName": "Microsoft Cloud Switcher",
-      "userRatingCount": 2,
+      "bundleId": "com.microsoft.cloudswitcher",
+      "minimumOsVersion": "18.0",
+      "genreIds": [
+        "6002"
+      ],
+      "userRatingCount": 1,
       "country": "USA"
     }
   ]
