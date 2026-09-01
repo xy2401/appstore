@@ -266,9 +266,6 @@
       "artistViewUrl": "https://apps.apple.com/us/developer/google/id281956209?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/de/ea/ecdeeada-f0f2-772d-34cb-98680a0825a7/voice_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/de/ea/ecdeeada-f0f2-772d-34cb-98680a0825a7/voice_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -411,30 +408,31 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2f/69/1f/2f691f5b-b2dc-4d85-ee44-52d1d75e1a6e/APP_IPHONE_55-2.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8a/b8/67/8ab86740-e043-bc6f-547f-3990f9ff9cab/APP_IPHONE_55-3.png/392x696bb.png"
       ],
-      "minimumOsVersion": "18.0",
-      "averageUserRating": 4.26528,
-      "trackCensoredName": "Google Voice",
+      "features": [
+        "iosUniversal"
+      ],
+      "fileSizeBytes": "243458048",
+      "formattedPrice": "Free",
+      "averageUserRating": 4.26506,
       "trackViewUrl": "https://apps.apple.com/us/app/google-voice/id318698524?uo=4",
       "contentAdvisoryRating": "4+",
+      "trackCensoredName": "Google Voice",
+      "minimumOsVersion": "18.0",
       "artistId": 281956209,
       "artistName": "Google",
       "genres": [
         "Productivity"
       ],
       "price": 0,
-      "bundleId": "com.google.GVDialer",
-      "primaryGenreName": "Productivity",
-      "primaryGenreId": 6007,
+      "releaseNotes": "• Stability and performance improvements.",
       "genreIds": [
         "6007"
       ],
       "sellerName": "Google LLC",
       "releaseDate": "2010-11-16T19:14:42Z",
-      "isVppDeviceBasedLicensingEnabled": true,
       "trackId": 318698524,
       "trackName": "Google Voice",
       "currentVersionReleaseDate": "2026-08-28T12:50:47Z",
-      "releaseNotes": "• Stability and performance improvements.",
       "version": "26.34",
       "wrapperType": "software",
       "currency": "USD",
@@ -514,12 +512,14 @@
         "VI",
         "ZU"
       ],
-      "fileSizeBytes": "243458048",
-      "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 61926,
+      "userRatingCountForCurrentVersion": 61936,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.26528,
-      "userRatingCount": 61926,
+      "averageUserRatingForCurrentVersion": 4.26506,
+      "bundleId": "com.google.GVDialer",
+      "primaryGenreName": "Productivity",
+      "primaryGenreId": 6007,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "userRatingCount": 61936,
       "country": "USA"
     }
   ]

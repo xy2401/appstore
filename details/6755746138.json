@@ -2,6 +2,7 @@
   "resultCount": 1,
   "results": [
     {
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d7/fd/b5/d7fdb5d6-6cbc-e716-96c9-6bc58e930891/appstore-day-en.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/12/d8/dd/12d8dd61-a6ec-cc39-f439-8fb7b1c3b62e/appstore-goals-en.png/320x480bb.jpg",
@@ -16,15 +17,6 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/b2/26/7eb22640-b950-4575-3882-93d3d401dc8c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
-      "artistViewUrl": "https://apps.apple.com/fr/developer/devpool/id945885126?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/b2/26/7eb22640-b950-4575-3882-93d3d401dc8c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/b2/26/7eb22640-b950-4575-3882-93d3d401dc8c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [],
-      "kind": "software",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -154,6 +146,15 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
+      "advisories": [],
+      "kind": "software",
+      "features": [
+        "iosUniversal"
+      ],
+      "artistViewUrl": "https://apps.apple.com/fr/developer/devpool/id945885126?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/b2/26/7eb22640-b950-4575-3882-93d3d401dc8c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/b2/26/7eb22640-b950-4575-3882-93d3d401dc8c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+      "releaseNotes": "FIXED\n\n- Reminder sounds were silent. The bundled sounds (Chime, Bell, Gentle) shipped in a\n  format iOS notifications cannot play, so every reminder fell back to no sound at all.\n  They are now converted to a supported format.\n\n- Days off were not saved. The flag was written to storage but never read back, so a\n  day marked as rest reverted as soon as the app reloaded or you changed weeks. Days\n  off marked before this update are restored automatically.\n\n- Marking a day off cancelled every future reminder. Because reminders repeated\n  indefinitely, a single day off silently stopped notifications for good. Days off now\n  skip only the day concerned.\n\n- Reminders could stop arriving after about a day. The app scheduled more notifications\n  than iOS keeps per app (64), and the surplus was discarded without warning. Reminders\n  are now scheduled as a rolling window, rebuilt whenever you open the app or reply to\n  a notification.\n\n- The reminders toggle could turn itself back on after being switched off, because the\n  saved state was overwritten during the notification permission request.\n\nADDED\n\n- Export your data. From Settings, export your history as CSV for a spreadsheet, JSON\n  for a full backup, or a PDF report — for the current week, the current month, or\n  everything. Share it anywhere with the standard share sheet.\n\n- Hear a reminder sound before you pick it. Selecting a sound in Settings now plays it.\n\n- A warning now appears in Settings when notifications are blocked at the system level,\n  with a shortcut to the iOS settings page.\n\nNOTES\n\n- All new interface text is available in English, French and Spanish.\n- Support address corrected on the website: support@devpool.fr",
       "sellerUrl": "https://15minutes.dvpl.fr",
       "languageCodesISO2A": [
         "EN",
@@ -165,36 +166,35 @@
       "userRatingCountForCurrentVersion": 0,
       "trackContentRating": "4+",
       "averageUserRatingForCurrentVersion": 0,
-      "averageUserRating": 0,
-      "trackCensoredName": "15 Minutes - Suivi Minuteur",
-      "trackViewUrl": "https://apps.apple.com/fr/app/15-minutes-suivi-minuteur/id6755746138?uo=4",
-      "contentAdvisoryRating": "4+",
-      "genres": [
-        "Productivité",
-        "Utilitaires"
-      ],
       "artistId": 945885126,
       "artistName": "Devpool",
-      "price": 3.99,
+      "bundleId": "com.devpool.-5Minutes",
       "genreIds": [
         "6007",
         "6002"
       ],
+      "sellerName": "Devpool",
+      "releaseDate": "2025-11-25T08:00:00Z",
+      "trackId": 6755746138,
+      "trackName": "15 Minutes - Suivi Minuteur",
+      "isVppDeviceBasedLicensingEnabled": true,
       "primaryGenreName": "Productivity",
       "primaryGenreId": 6007,
-      "sellerName": "Devpool",
-      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-08-04T19:54:33Z",
-      "releaseNotes": "FIXED\n\n- Reminder sounds were silent. The bundled sounds (Chime, Bell, Gentle) shipped in a\n  format iOS notifications cannot play, so every reminder fell back to no sound at all.\n  They are now converted to a supported format.\n\n- Days off were not saved. The flag was written to storage but never read back, so a\n  day marked as rest reverted as soon as the app reloaded or you changed weeks. Days\n  off marked before this update are restored automatically.\n\n- Marking a day off cancelled every future reminder. Because reminders repeated\n  indefinitely, a single day off silently stopped notifications for good. Days off now\n  skip only the day concerned.\n\n- Reminders could stop arriving after about a day. The app scheduled more notifications\n  than iOS keeps per app (64), and the surplus was discarded without warning. Reminders\n  are now scheduled as a rolling window, rebuilt whenever you open the app or reply to\n  a notification.\n\n- The reminders toggle could turn itself back on after being switched off, because the\n  saved state was overwritten during the notification permission request.\n\nADDED\n\n- Export your data. From Settings, export your history as CSV for a spreadsheet, JSON\n  for a full backup, or a PDF report — for the current week, the current month, or\n  everything. Share it anywhere with the standard share sheet.\n\n- Hear a reminder sound before you pick it. Selecting a sound in Settings now plays it.\n\n- A warning now appears in Settings when notifications are blocked at the system level,\n  with a shortcut to the iOS settings page.\n\nNOTES\n\n- All new interface text is available in English, French and Spanish.\n- Support address corrected on the website: support@devpool.fr",
       "version": "2.1",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "15Minutes transforme votre gestion du temps en vous invitant à noter ce que vous faites toutes les 15 minutes. Une méthode simple et efficace pour prendre conscience de la façon dont vous passez réellement votre temps.\n\nCOMMENT ÇA MARCHE\n\nVotre journée est découpée en créneaux de 15 minutes. À chaque intervalle, une notification vous rappelle de noter votre activité en cours. En quelques mots, vous documentez ce que vous avez accompli. Répondez directement depuis la notification, sans même ouvrir l'app.\n\nMODE FOCUS\n\nActivez le mode Focus et travaillez par sessions de 15 minutes. Un superbe anneau de compte à rebours affiche le temps restant du créneau en cours, votre écran reste allumé pendant que vous travaillez, et quand les 15 minutes sont écoulées, l'app vous demande ce que vous avez fait puis enchaîne automatiquement sur la session suivante. Focus, on note, on repart.\n\nOBJECTIFS DU JOUR\n\nCommencez chaque matin en définissant vos 3 objectifs de la journée. Ils restent visibles en bas de votre écran toute la journée, et vous pouvez revoir le bilan de la veille avant de fixer vos intentions du jour.\n\nSTATS ET ANALYSES\n\n- Résumé du jour avec graphiques de répartition du temps\n- Taux de complétion, tâches uniques et temps total suivi\n- Série en cours et record de jours consécutifs\n- Activité par heure de la journée et par jour de la semaine\n- Vos tâches les plus fréquentes sur la semaine, le mois ou depuis le début\n\nFONCTIONNALITÉS\n\n- Créneaux de 15 minutes configurables selon vos horaires\n- Rappels automatiques par notifications, avec choix du son\n- Réponse aux notifications pour noter votre activité instantanément\n- Mode Focus avec sessions de 15 minutes et option écran toujours allumé\n- 3 objectifs quotidiens avec point du matin\n- Synchronisation iCloud : vos données vous suivent sur iPhone, iPad et Apple Vision Pro\n- Vue hebdomadaire pour naviguer entre les jours\n- Indicateurs de progression quotidiens et séries\n- Ajout rapide pour remplir une journée entière en quelques secondes\n- Mode Jour de repos pour mettre les rappels en pause\n- Suggestions intelligentes basées sur votre historique de tâches\n- 8 thèmes de couleurs pour personnaliser l'app\n- Heures de début et de fin de journée personnalisables\n- Interface épurée et intuitive\n- Disponible en français, anglais et espagnol\n\nPOUR QUI\n\nCette app s'adresse aux professionnels qui veulent analyser leur productivité, aux freelances qui facturent au temps passé, aux étudiants qui cherchent à optimiser leurs sessions de travail, et à toute personne souhaitant mieux comprendre l'usage de son temps.\n\nPOURQUOI 15 MINUTES\n\nLes intervalles de 15 minutes offrent l'équilibre idéal entre précision et praticité. Assez courts pour capturer les changements d'activité, assez longs pour ne pas être intrusifs.\n\nTéléchargez 15Minutes et commencez à maîtriser votre temps dès aujourd'hui.",
       "minimumOsVersion": "26.0",
-      "trackId": 6755746138,
-      "trackName": "15 Minutes - Suivi Minuteur",
-      "releaseDate": "2025-11-25T08:00:00Z",
-      "bundleId": "com.devpool.-5Minutes",
+      "trackCensoredName": "15 Minutes - Suivi Minuteur",
+      "trackViewUrl": "https://apps.apple.com/fr/app/15-minutes-suivi-minuteur/id6755746138?uo=4",
+      "averageUserRating": 0,
+      "contentAdvisoryRating": "4+",
+      "price": 3.99,
+      "genres": [
+        "Productivité",
+        "Utilitaires"
+      ],
       "userRatingCount": 0,
       "country": "FRA"
     }

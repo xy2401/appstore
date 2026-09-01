@@ -2,13 +2,6 @@
   "resultCount": 1,
   "results": [
     {
-      "artistViewUrl": "https://apps.apple.com/de/developer/commit-gmbh/id666544311?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/61/7d/e6/617de63b-c9b1-c5c2-6b68-23eb051e81f0/contsched.qikukfyf.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/61/7d/e6/617de63b-c9b1-c5c2-6b68-23eb051e81f0/contsched.qikukfyf.png/100x100bb.jpg",
-      "ipadScreenshotUrls": [],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/61/7d/e6/617de63b-c9b1-c5c2-6b68-23eb051e81f0/contsched.qikukfyf.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/06/15/53/06155339-9661-d360-ee8c-3bc6116c62b0/pr_source.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/e6/36/fa/e636fada-c218-467d-dd6f-a5a8120eec65/pr_source.png/392x696bb.png",
@@ -16,7 +9,16 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/09/6b/f5/096bf520-3fdb-34f8-c998-5d0b8dda5ba9/pr_source.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/ba/66/5c/ba665cf0-ee87-1fa6-962a-a3f8c59dcfda/pr_source.png/392x696bb.png"
       ],
+      "ipadScreenshotUrls": [],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/61/7d/e6/617de63b-c9b1-c5c2-6b68-23eb051e81f0/contsched.qikukfyf.png/512x512bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/de/developer/commit-gmbh/id666544311?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/61/7d/e6/617de63b-c9b1-c5c2-6b68-23eb051e81f0/contsched.qikukfyf.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/61/7d/e6/617de63b-c9b1-c5c2-6b68-23eb051e81f0/contsched.qikukfyf.png/100x100bb.jpg",
+      "isGameCenterEnabled": false,
       "features": [],
+      "advisories": [],
+      "kind": "software",
       "supportedDevices": [
         "iPhone5-iPhone5",
         "iPadFourthGen-iPadFourthGen",
@@ -150,12 +152,6 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "advisories": [],
-      "kind": "software",
-      "averageUserRating": 3.15686,
-      "contentAdvisoryRating": "4+",
-      "releaseNotes": "Die Hinweistöne werden nun auch bei aktiviertem Stummschalter ausgegeben.",
-      "averageUserRatingForCurrentVersion": 3.15686,
       "languageCodesISO2A": [
         "EN",
         "DE"
@@ -164,8 +160,12 @@
       "formattedPrice": "8,99 €",
       "userRatingCountForCurrentVersion": 51,
       "trackContentRating": "4+",
+      "averageUserRatingForCurrentVersion": 3.15686,
       "trackCensoredName": "Vagusvit Home",
       "trackViewUrl": "https://apps.apple.com/de/app/vagusvit-home/id1087891256?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 3.15686,
+      "minimumOsVersion": "10.0",
       "artistId": 666544311,
       "artistName": "Commit GmbH",
       "genres": [
@@ -173,24 +173,24 @@
         "Gesundheit und Fitness"
       ],
       "price": 8.99,
+      "trackId": 1087891256,
+      "trackName": "Vagusvit Home",
+      "bundleId": "de.commitgmbh.Vagusvit-Home",
+      "releaseDate": "2016-03-14T16:25:00Z",
       "sellerName": "Commit GmbH",
+      "isVppDeviceBasedLicensingEnabled": true,
       "genreIds": [
         "6020",
         "6013"
       ],
+      "releaseNotes": "Die Hinweistöne werden nun auch bei aktiviertem Stummschalter ausgegeben.",
       "primaryGenreName": "Medical",
       "primaryGenreId": 6020,
-      "trackName": "Vagusvit Home",
-      "trackId": 1087891256,
-      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2022-01-11T16:06:36Z",
       "version": "1.6.5",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Vagusvit ist Ihr „individueller Trainer“ zur Stärkung des Vagus bzw. des Entspannungsnerven. Ein zu schwacher Vagus führt früher oder später zwangsläufig zu organischen Erkrankungen. Die einfachste Möglichkeit den Vagus zu stärken ist die Atmung mit einem speziellen Atemtakt. Nachweislich ist dies eine schnelle und effektive Therapie für eine sanfte und schonende Stärkung des vegetativen Nervensystems und ganz speziell des Vagus. Es ist in unserer hektischen und schnelllebigen Zeit ideal, einen Trainer zu haben, der das Training überall und zu jeder Tages- und Nachtzeit ermöglicht. Das Ziel dieses Trainings ist, stressbedingten Funktionsstörungen vorzubeugen und die Stressresistenz sowie die Belastbarkeit Ihres Organismus zu erhöhen.\n\nVagusvit ermöglicht es Ihnen auf einfache Weise, einen gesunden, den Vagus stimulierenden Rhythmus zu atmen. Die intuitive und verständliche Bedienung von Vagusvit ermöglicht Patienten jeden Alters ein tägliches Vagustraining. Vagusvit beinhaltet sieben Atemtakte zur Auswahl, inklusive den Takt von 6 Atemzügen pro Minute. Dieser wurde in die nationalen Versorgungsleitlinien aufgenommen, weil dieser Rhythmus die größte Stimulation auf den Vagus ausübt. Da nicht jeder sofort diesen Takt atmen kann, sind auch schnellere Rhythmen integriert, so dass sich jeder langsam seinem optimalen Rhythmus annähern kann. Für Anwender, die noch langsamer atmen möchten, gibt es zwei weitere langsamere Takte.",
-      "minimumOsVersion": "10.0",
-      "bundleId": "de.commitgmbh.Vagusvit-Home",
-      "releaseDate": "2016-03-14T16:25:00Z",
       "userRatingCount": 51,
       "country": "DEU"
     }

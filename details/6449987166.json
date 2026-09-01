@@ -226,11 +226,20 @@
       "userRatingCount": 93
     },
     {
+      "isGameCenterEnabled": false,
+      "artistViewUrl": "https://apps.apple.com/us/developer/google/id281956209?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/12/20/8212201c-e687-8b5d-1e61-6663162ffbf6/logo_android_switch_color-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220-0.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/12/20/8212201c-e687-8b5d-1e61-6663162ffbf6/logo_android_switch_color-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220-0.png/100x100bb.jpg",
+      "advisories": [],
+      "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/8a/06/cf/8a06cfd7-a4de-c822-40d7-ec6a99ac2f95/114dc5d0-2a2f-495d-928b-7c9bb03a434f_iOS-5.5-in_0.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/12/2c/b1/122cb198-bb07-46ae-8d75-e29e628de7b1/bb8aa28c-9ded-4dbd-aadf-7a4a2dac0ca4_iOS-5.5-in_1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/fc/86/4e/fc864e3c-9fbb-93b1-79dc-7505949dc6d9/a51cfa48-b82f-48d2-9ebf-55d3df4ba576_iOS-5.5-in_2.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/75/9f/11/759f11eb-0ded-cb71-309c-1b0fc3b2fca4/f1c3f483-c825-4d25-9c69-14e1bc84a211_iOS-5.5-in_3.png/392x696bb.png"
+      ],
+      "features": [
+        "iosUniversal"
       ],
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/c6/25/4f/c6254fc3-9ea9-8702-1952-93c6329b7dac/da62a218-600b-49a4-b485-7bb17f54e875_iOS-iPad-Pro-2018-2ND-GEN_0.png/576x768bb.png",
@@ -240,12 +249,6 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/12/20/8212201c-e687-8b5d-1e61-6663162ffbf6/logo_android_switch_color-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220-0.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
-      "advisories": [],
-      "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/us/developer/google/id281956209?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/12/20/8212201c-e687-8b5d-1e61-6663162ffbf6/logo_android_switch_color-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220-0.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/12/20/8212201c-e687-8b5d-1e61-6663162ffbf6/logo_android_switch_color-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220-0.png/100x100bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -375,12 +378,33 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "features": [
-        "iosUniversal"
+      "trackCensoredName": "Android Switch",
+      "trackViewUrl": "https://apps.apple.com/us/app/android-switch/id6449987166?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 3.39583,
+      "artistName": "Google",
+      "genres": [
+        "Utilities"
       ],
+      "price": 0,
+      "trackId": 6449987166,
+      "trackName": "Android Switch",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseDate": "2023-08-14T07:00:00Z",
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
+      "genreIds": [
+        "6002"
+      ],
+      "sellerName": "Google LLC",
+      "currentVersionReleaseDate": "2025-10-27T16:35:18Z",
+      "version": "1.0.17452",
+      "wrapperType": "software",
+      "currency": "USD",
+      "description": "The Android Switch app from Google helps you easily and securely move your photos, videos, contacts, and calendar events to a brand new Android device without a cable.\n\nGet important info about switching and follow the steps to set up your new device, like turning off iMessage so you don't miss text messages from friends and family.\n\nThe app will ask you for a series of permissions so that your iPhone’s data can be moved to your Android device.\n\nSwitching to Samsung? You don't need this app. Turn on your new phone and follow the instructions instead.",
       "minimumOsVersion": "15.0",
       "averageUserRatingForCurrentVersion": 3.39583,
-      "sellerUrl": "http://android.com",
+      "bundleId": "com.google.sta",
       "languageCodesISO2A": [
         "AR",
         "CA",
@@ -420,33 +444,9 @@
       "formattedPrice": "Free",
       "userRatingCountForCurrentVersion": 96,
       "trackContentRating": "4+",
-      "artistId": 281956209,
-      "artistName": "Google",
-      "price": 0,
-      "releaseDate": "2023-08-14T07:00:00Z",
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
-      "sellerName": "Google LLC",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2025-10-27T16:35:18Z",
+      "sellerUrl": "http://android.com",
       "releaseNotes": "Bug fixes and performance improvements",
-      "version": "1.0.17452",
-      "wrapperType": "software",
-      "currency": "USD",
-      "description": "The Android Switch app from Google helps you easily and securely move your photos, videos, contacts, and calendar events to a brand new Android device without a cable.\n\nGet important info about switching and follow the steps to set up your new device, like turning off iMessage so you don't miss text messages from friends and family.\n\nThe app will ask you for a series of permissions so that your iPhone’s data can be moved to your Android device.\n\nSwitching to Samsung? You don't need this app. Turn on your new phone and follow the instructions instead.",
-      "contentAdvisoryRating": "4+",
-      "trackCensoredName": "Android Switch",
-      "trackViewUrl": "https://apps.apple.com/us/app/android-switch/id6449987166?uo=4",
-      "averageUserRating": 3.39583,
-      "bundleId": "com.google.sta",
-      "genres": [
-        "Utilities"
-      ],
-      "trackId": 6449987166,
-      "trackName": "Android Switch",
-      "genreIds": [
-        "6002"
-      ],
+      "artistId": 281956209,
       "userRatingCount": 96,
       "country": "USA"
     }

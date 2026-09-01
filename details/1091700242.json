@@ -282,9 +282,6 @@
       "artistViewUrl": "https://apps.apple.com/us/developer/google/id281956209?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/36/9c/fa/369cfa1c-232c-5ba0-8589-3c82e9bf6852/AppIcon-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/36/9c/fa/369cfa1c-232c-5ba0-8589-3c82e9bf6852/AppIcon-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -440,30 +437,31 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/04/aa/a6/04aaa6b1-b44a-35b1-ea3d-d618f6384e08/pr_source.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/cf/cb/e0/cfcbe056-76d6-805c-d76e-a7b0b4dec278/pr_source.jpg/392x696bb.jpg"
       ],
-      "minimumOsVersion": "12.0",
-      "averageUserRating": 4.05448,
-      "trackCensoredName": "Gboard – the Google Keyboard",
+      "features": [
+        "iosUniversal"
+      ],
+      "fileSizeBytes": "86777856",
+      "formattedPrice": "Free",
+      "averageUserRating": 4.05462,
       "trackViewUrl": "https://apps.apple.com/us/app/gboard-the-google-keyboard/id1091700242?uo=4",
       "contentAdvisoryRating": "12+",
+      "trackCensoredName": "Gboard – the Google Keyboard",
+      "minimumOsVersion": "12.0",
       "artistId": 281956209,
       "artistName": "Google",
       "genres": [
         "Utilities"
       ],
       "price": 0,
-      "bundleId": "com.google.keyboard",
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
+      "releaseNotes": "In this version we have: \n• Language improvements for Cantonese (new Jyutping input method, fuzzy selection)",
       "genreIds": [
         "6002"
       ],
       "sellerName": "Google LLC",
       "releaseDate": "2016-05-12T12:32:16Z",
-      "isVppDeviceBasedLicensingEnabled": true,
       "trackId": 1091700242,
       "trackName": "Gboard – the Google Keyboard",
       "currentVersionReleaseDate": "2022-05-02T21:51:30Z",
-      "releaseNotes": "In this version we have: \n• Language improvements for Cantonese (new Jyutping input method, fuzzy selection)",
       "version": "2.3.19",
       "wrapperType": "software",
       "currency": "USD",
@@ -546,12 +544,14 @@
         "CY",
         "ZU"
       ],
-      "fileSizeBytes": "86777856",
-      "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 59531,
+      "userRatingCountForCurrentVersion": 59555,
       "trackContentRating": "12+",
-      "averageUserRatingForCurrentVersion": 4.05448,
-      "userRatingCount": 59531,
+      "averageUserRatingForCurrentVersion": 4.05462,
+      "bundleId": "com.google.keyboard",
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "userRatingCount": 59555,
       "country": "USA"
     }
   ]

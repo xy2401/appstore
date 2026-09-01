@@ -2,8 +2,11 @@
   "resultCount": 1,
   "results": [
     {
-      "isGameCenterEnabled": false,
       "advisories": [],
+      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -134,9 +137,14 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
       "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/us/developer/instructure-inc/id418441198?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/26/f0/9f26f01f-43ea-4fa8-b230-35054e523f43/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/26/f0/9f26f01f-43ea-4fa8-b230-35054e523f43/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/05/b7/c9/05b7c919-f884-c39a-4741-b66cd9a291b6/mzl.xtbaigqz.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/50/63/d9/5063d924-7633-6b98-f408-3f05768e7e5a/mzl.cquhmtrl.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/9d/0a/b9/9d0ab9c3-033e-b171-cf1f-76359df88949/mzl.bmaiuflo.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/56/85/ce/5685cea6-1687-eb91-3e2c-d97b2f20a517/mzl.aahjbvoq.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/e7/56/72/e7567247-025a-c060-3284-43b0c31846f2/mzl.lobhtkum.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/7d/5a/16/7d5a16c7-e6ba-6b0c-72eb-02abf4900ffa/pr_source.png/392x696bb.png"
+      ],
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/53/c4/97/53c49790-525c-f340-4b5b-6d543e6eddd0/mzl.jzufsoem.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/01/d6/97/01d69772-2c9e-534a-fa4a-d2be26cc1f5e/mzl.uejwicmb.png/576x768bb.png",
@@ -146,17 +154,9 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/26/f0/9f26f01f-43ea-4fa8-b230-35054e523f43/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/05/b7/c9/05b7c919-f884-c39a-4741-b66cd9a291b6/mzl.xtbaigqz.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/50/63/d9/5063d924-7633-6b98-f408-3f05768e7e5a/mzl.cquhmtrl.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/9d/0a/b9/9d0ab9c3-033e-b171-cf1f-76359df88949/mzl.bmaiuflo.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/56/85/ce/5685cea6-1687-eb91-3e2c-d97b2f20a517/mzl.aahjbvoq.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/e7/56/72/e7567247-025a-c060-3284-43b0c31846f2/mzl.lobhtkum.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/7d/5a/16/7d5a16c7-e6ba-6b0c-72eb-02abf4900ffa/pr_source.png/392x696bb.png"
-      ],
+      "artistViewUrl": "https://apps.apple.com/us/developer/instructure-inc/id418441198?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/26/f0/9f26f01f-43ea-4fa8-b230-35054e523f43/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/26/f0/9f26f01f-43ea-4fa8-b230-35054e523f43/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
       "artistId": 418441198,
       "artistName": "Instructure Inc.",
       "genres": [
@@ -164,29 +164,26 @@
         "Productivity"
       ],
       "price": 0,
+      "bundleId": "com.instructure.icanvas",
       "currentVersionReleaseDate": "2026-08-12T10:02:21Z",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "primaryGenreName": "Education",
-      "primaryGenreId": 6017,
-      "releaseDate": "2011-12-08T17:41:59Z",
-      "sellerName": "Instructure, Inc.",
+      "releaseNotes": "- Fixed navigation issues on iOS 27.",
       "genreIds": [
         "6017",
         "6007"
       ],
-      "trackName": "Canvas by Instructure",
+      "releaseDate": "2011-12-08T17:41:59Z",
       "trackId": 480883488,
-      "releaseNotes": "- Fixed navigation issues on iOS 27.",
+      "trackName": "Canvas by Instructure",
+      "primaryGenreName": "Education",
+      "primaryGenreId": 6017,
+      "sellerName": "Instructure, Inc.",
+      "isVppDeviceBasedLicensingEnabled": true,
       "version": "8.12.1",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Your learning, anywhere.\nStay connected to your courses with the official Canvas app for learners. Whether you’re in class, commuting, or offline, Canvas helps you stay organized and engaged.\n\nNote for instructors: For teaching and grading features, use the Canvas Teacher app.\n\nWhat you can do\n• Organize: View grades, track assignments, homework, and schoolwork; get reminders, push notifications and add customizable widgets for quick access\n• Engage: Send messages, join class discussions and collaborate with classmates in real time\n• Learn: Submit assignments, PDFs, docs, and media files for teachers to annotate in SpeedGrader, take quizzes, and watch videos on the go\n• Offline: Download full courses and keep studying even without internet\n• Integration & inclusivity: Use integrated classroom tools (LTIs), enjoy dark mode, and rely on built-in accessibility for everyone (VPAT 2.2 compliant)\n• Lifelong learning: Support for continuous learning, career-focused skill based learning programs, and AI-powered learning experience via Career experience\n\nTrusted by over 40 million learners worldwide.",
-      "averageUserRating": 4.65503,
       "minimumOsVersion": "18.0",
-      "trackCensoredName": "Canvas by Instructure",
-      "trackViewUrl": "https://apps.apple.com/us/app/canvas-by-instructure/id480883488?uo=4",
-      "contentAdvisoryRating": "4+",
-      "bundleId": "com.instructure.icanvas",
+      "averageUserRatingForCurrentVersion": 4.65502,
       "sellerUrl": "https://www.canvaslms.com/",
       "languageCodesISO2A": [
         "AR",
@@ -222,10 +219,13 @@
       ],
       "fileSizeBytes": "219020288",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 2768139,
+      "userRatingCountForCurrentVersion": 2768152,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.65503,
-      "userRatingCount": 2768139,
+      "trackCensoredName": "Canvas by Instructure",
+      "trackViewUrl": "https://apps.apple.com/us/app/canvas-by-instructure/id480883488?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.65502,
+      "userRatingCount": 2768152,
       "country": "USA"
     }
   ]

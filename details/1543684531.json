@@ -189,10 +189,10 @@
       "userRatingCount": 95
     },
     {
+      "artistViewUrl": "https://apps.apple.com/us/developer/roberto-viola/id951920407?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/05/6a/6e056ad3-1d4d-3596-a926-c0aa1ac852ad/AppIcon-1x_U007emarketing-0-8-0-0-85-220-0.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/05/6a/6e056ad3-1d4d-3596-a926-c0aa1ac852ad/AppIcon-1x_U007emarketing-0-8-0-0-85-220-0.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -323,6 +323,9 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
+      "features": [
+        "iosUniversal"
+      ],
       "advisories": [],
       "kind": "software",
       "screenshotUrls": [
@@ -332,20 +335,18 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/88/b6/c3/88b6c3ec-453c-a12a-2d15-ced7621d3f26/tns.wefjchxn.png/576x768bb.png"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/05/6a/6e056ad3-1d4d-3596-a926-c0aa1ac852ad/AppIcon-1x_U007emarketing-0-8-0-0-85-220-0.png/60x60bb.jpg",
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/05/6a/6e056ad3-1d4d-3596-a926-c0aa1ac852ad/AppIcon-1x_U007emarketing-0-8-0-0-85-220-0.png/512x512bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/05/6a/6e056ad3-1d4d-3596-a926-c0aa1ac852ad/AppIcon-1x_U007emarketing-0-8-0-0-85-220-0.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/us/developer/roberto-viola/id951920407?uo=4",
       "minimumOsVersion": "12.0",
-      "artistId": 951920407,
-      "artistName": "Roberto Viola",
+      "averageUserRating": 4.82956,
+      "trackCensoredName": "QZ - qdomyos-zwift",
+      "trackViewUrl": "https://apps.apple.com/us/app/qz-qdomyos-zwift/id1543684531?uo=4",
+      "contentAdvisoryRating": "4+",
       "genres": [
         "Sports",
         "Lifestyle"
       ],
       "price": 6.99,
       "bundleId": "org.cagnulein.qdomyoszwift",
-      "releaseNotes": "- Garmin Connect Integration added\n- Peloton Walking Treadmill classes handled and API improvements\n- Wifi support for Rouvy and Mywhoosh\n- Intervals.icu integration added\n- Workout editor added\n- Workout history added\n- Voiceover added\n- Air Pods Pro 3 Heart rate support\n- Mywhoosh Rower compatibility added\n- Automatic virtual shifting\n- Peloton auto sync improved\n- Apple health without Apple watch\n- Live Activities\n- Elevation on apple health for treadmills\n- ERG mode improved for device that doesn't have ERG mode implemented\n- Technogym Ride supported",
       "trackName": "QZ - qdomyos-zwift",
       "trackId": 1543684531,
       "releaseDate": "2020-12-10T08:00:00Z",
@@ -357,34 +358,25 @@
       "primaryGenreId": 6004,
       "sellerName": "Roberto Viola",
       "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-03-24T07:46:46Z",
+      "releaseNotes": "- Garmin Connect Integration added\n- Peloton Walking Treadmill classes handled and API improvements\n- Wifi support for Rouvy and Mywhoosh\n- Intervals.icu integration added\n- Workout editor added\n- Workout history added\n- Voiceover added\n- Air Pods Pro 3 Heart rate support\n- Mywhoosh Rower compatibility added\n- Automatic virtual shifting\n- Peloton auto sync improved\n- Apple health without Apple watch\n- Live Activities\n- Elevation on apple health for treadmills\n- ERG mode improved for device that doesn't have ERG mode implemented\n- Technogym Ride supported",
       "version": "2.20",
       "wrapperType": "software",
       "currency": "USD",
       "description": "** QZ is not affiliated with or endorsed by any subscription service or maker of exercise equipment. **\n\nHave you got a bike (echelon, flywheel, proform, i-console yesoul, decathlon, domyos, keiser, ...) or a Domyos (Decathlon) / Horizon / Proform  treadmill and you want to join to zwift? This app allows you to give a second life to your machine!\n\nAlso ellipticals and rowers machinery are supported now!\n\nSimply connect your smartphone to the treadmill/bike and zwift/peloton/fulgaz/rouvy will recognize it!\n\nAlso this app allow you to use HealthKit to read your heart rate direct from your Apple Watch or any Heart Rate Bluetooth Belt. This metric will also be saved in your workout!\n\nCompatible machineries:\n- all the Echelon bikes (please check the firmware compatibility https://robertoviola.cloud/2025/07/22/how-i-built-qz-and-how-echelon-is-now-breaking-it/ )\n- all the Domyos bikes\n- all the Domyos treadmills\n- all the Domyos elliptical machinery\n- Smart Row Rower\n- Echelon Rower (please check the firmware compatibility https://robertoviola.cloud/2025/07/22/how-i-built-qz-and-how-echelon-is-now-breaking-it/ )\n- Concept Rower 2\n- Yesoul S3 (M3 is currently on testing, if you have one, contact me)\n- Sportstech bikes\n- Inspire bikes\n- Schwinn IC4 and Bowflex C6\n- Toorx bikes and spinbikes\n- Fassi treadmills\n- all the Proform bikes without a tablet builtin\n- Proform treadmills\n- Flywheel bike (the calibration tool is here https://ptx2.net/apps/flytest/ )\n- JK Fitness treadmill\n- Toorx treadmills\n- Sole elliptical\n- Chrono bike\n- NPECable\n- and much more! ask me by email about the compatibility\n\nIf you want you can join the Swag Bag auto-renewing subscription through an In-App Purchase in order to help me in the development of the app!\n• an auto-renewable subscription\n• 1 month ($1.99)\n• Your subscription will be charged to your iTunes account at confirmation of purchase and will automatically renew (at the duration selected) unless auto-renew is turned off at least 24 hours before the end of the current period.\n• Current subscription may not be cancelled during the active subscription period; however, you can manage your subscription and/or turn off auto-renewal by visiting your iTunes Account Settings after purchase.\n• Privacy policy: https://robertoviola.cloud/privacy-policy-qdomyos-zwift/\n• Licensed Application end user license agreement: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-      "averageUserRating": 4.82956,
-      "trackCensoredName": "QZ - qdomyos-zwift",
-      "languageCodesISO2A": [],
+      "sellerUrl": "https://robertoviola.cloud",
       "fileSizeBytes": "73857024",
       "formattedPrice": "$6.99",
-      "contentAdvisoryRating": "4+",
       "userRatingCountForCurrentVersion": 839,
-      "trackViewUrl": "https://apps.apple.com/us/app/qz-qdomyos-zwift/id1543684531?uo=4",
       "trackContentRating": "4+",
-      "sellerUrl": "https://robertoviola.cloud",
+      "languageCodesISO2A": [],
       "averageUserRatingForCurrentVersion": 4.82956,
+      "currentVersionReleaseDate": "2026-03-24T07:46:46Z",
+      "artistId": 951920407,
+      "artistName": "Roberto Viola",
       "userRatingCount": 839,
       "country": "USA"
     },
     {
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/b5/d5/da/b5d5da6b-8893-8033-76ca-ba6771ba3834/tns.gyvmsunk.png/392x696bb.png"
-      ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/88/b6/c3/88b6c3ec-453c-a12a-2d15-ced7621d3f26/tns.wefjchxn.png/576x768bb.png"
-      ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/05/6a/6e056ad3-1d4d-3596-a926-c0aa1ac852ad/AppIcon-1x_U007emarketing-0-8-0-0-85-220-0.png/512x512bb.jpg",
       "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
@@ -519,63 +511,66 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "advisories": [],
       "kind": "software",
       "artistViewUrl": "https://apps.apple.com/de/developer/roberto-viola/id951920407?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/05/6a/6e056ad3-1d4d-3596-a926-c0aa1ac852ad/AppIcon-1x_U007emarketing-0-8-0-0-85-220-0.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/05/6a/6e056ad3-1d4d-3596-a926-c0aa1ac852ad/AppIcon-1x_U007emarketing-0-8-0-0-85-220-0.png/100x100bb.jpg",
-      "averageUserRatingForCurrentVersion": 4.78788,
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/b5/d5/da/b5d5da6b-8893-8033-76ca-ba6771ba3834/tns.gyvmsunk.png/392x696bb.png"
+      ],
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/88/b6/c3/88b6c3ec-453c-a12a-2d15-ced7621d3f26/tns.wefjchxn.png/576x768bb.png"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/05/6a/6e056ad3-1d4d-3596-a926-c0aa1ac852ad/AppIcon-1x_U007emarketing-0-8-0-0-85-220-0.png/512x512bb.jpg",
+      "advisories": [],
+      "artistId": 951920407,
+      "artistName": "Roberto Viola",
+      "price": 7.99,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-03-24T07:46:46Z",
+      "primaryGenreName": "Sports",
+      "primaryGenreId": 6004,
+      "trackName": "QZ - qdomyos-zwift",
+      "trackId": 1543684531,
+      "releaseNotes": "- Garmin Connect Integration added\n- Peloton Walking Treadmill classes handled and API improvements\n- Wifi support for Rouvy and Mywhoosh\n- Intervals.icu integration added\n- Workout editor added\n- Workout history added\n- Voiceover added\n- Air Pods Pro 3 Heart rate support\n- Mywhoosh Rower compatibility added\n- Automatic virtual shifting\n- Peloton auto sync improved\n- Apple health without Apple watch\n- Live Activities\n- Elevation on apple health for treadmills\n- ERG mode improved for device that doesn't have ERG mode implemented\n- Technogym Ride supported",
+      "version": "2.20",
+      "wrapperType": "software",
+      "currency": "EUR",
+      "description": "** QZ is not affiliated with or endorsed by any subscription service or maker of exercise equipment. **\n\nHave you got a bike (echelon, flywheel, proform, i-console yesoul, decathlon, domyos, keiser, ...) or a Domyos (Decathlon) / Horizon / Proform  treadmill and you want to join to zwift? This app allows you to give a second life to your machine!\n\nAlso ellipticals and rowers machinery are supported now!\n\nSimply connect your smartphone to the treadmill/bike and zwift/peloton/fulgaz/rouvy will recognize it!\n\nAlso this app allow you to use HealthKit to read your heart rate direct from your Apple Watch or any Heart Rate Bluetooth Belt. This metric will also be saved in your workout!\n\nCompatible machineries:\n- all the Echelon bikes (please check the firmware compatibility https://robertoviola.cloud/2025/07/22/how-i-built-qz-and-how-echelon-is-now-breaking-it/ )\n- all the Domyos bikes\n- all the Domyos treadmills\n- all the Domyos elliptical machinery\n- Smart Row Rower\n- Echelon Rower (please check the firmware compatibility https://robertoviola.cloud/2025/07/22/how-i-built-qz-and-how-echelon-is-now-breaking-it/ )\n- Concept Rower 2\n- Yesoul S3 (M3 is currently on testing, if you have one, contact me)\n- Sportstech bikes\n- Inspire bikes\n- Schwinn IC4 and Bowflex C6\n- Toorx bikes and spinbikes\n- Fassi treadmills\n- all the Proform bikes without a tablet builtin\n- Proform treadmills\n- Flywheel bike (the calibration tool is here https://ptx2.net/apps/flytest/ )\n- JK Fitness treadmill\n- Toorx treadmills\n- Sole elliptical\n- Chrono bike\n- NPECable\n- and much more! ask me by email about the compatibility\n\nIf you want you can join the Swag Bag auto-renewing subscription through an In-App Purchase in order to help me in the development of the app!\n• an auto-renewable subscription\n• 1 month ($1.99)\n• Your subscription will be charged to your iTunes account at confirmation of purchase and will automatically renew (at the duration selected) unless auto-renew is turned off at least 24 hours before the end of the current period.\n• Current subscription may not be cancelled during the active subscription period; however, you can manage your subscription and/or turn off auto-renewal by visiting your iTunes Account Settings after purchase.\n• Privacy policy: https://robertoviola.cloud/privacy-policy-qdomyos-zwift/\n• Licensed Application end user license agreement: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+      "trackCensoredName": "QZ - qdomyos-zwift",
+      "trackViewUrl": "https://apps.apple.com/de/app/qz-qdomyos-zwift/id1543684531?uo=4",
+      "averageUserRating": 4.78788,
       "sellerUrl": "https://robertoviola.cloud",
       "languageCodesISO2A": [],
       "fileSizeBytes": "73857024",
       "formattedPrice": "7,99 €",
       "userRatingCountForCurrentVersion": 99,
       "trackContentRating": "4+",
-      "releaseNotes": "- Garmin Connect Integration added\n- Peloton Walking Treadmill classes handled and API improvements\n- Wifi support for Rouvy and Mywhoosh\n- Intervals.icu integration added\n- Workout editor added\n- Workout history added\n- Voiceover added\n- Air Pods Pro 3 Heart rate support\n- Mywhoosh Rower compatibility added\n- Automatic virtual shifting\n- Peloton auto sync improved\n- Apple health without Apple watch\n- Live Activities\n- Elevation on apple health for treadmills\n- ERG mode improved for device that doesn't have ERG mode implemented\n- Technogym Ride supported",
+      "contentAdvisoryRating": "4+",
+      "averageUserRatingForCurrentVersion": 4.78788,
       "minimumOsVersion": "12.0",
+      "releaseDate": "2020-12-10T08:00:00Z",
+      "sellerName": "Roberto Viola",
       "genres": [
         "Sport",
         "Lifestyle"
       ],
-      "price": 7.99,
-      "releaseDate": "2020-12-10T08:00:00Z",
-      "trackId": 1543684531,
-      "trackName": "QZ - qdomyos-zwift",
       "genreIds": [
         "6004",
         "6012"
       ],
-      "primaryGenreName": "Sports",
-      "primaryGenreId": 6004,
-      "sellerName": "Roberto Viola",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-03-24T07:46:46Z",
-      "version": "2.20",
-      "wrapperType": "software",
-      "currency": "EUR",
-      "description": "** QZ is not affiliated with or endorsed by any subscription service or maker of exercise equipment. **\n\nHave you got a bike (echelon, flywheel, proform, i-console yesoul, decathlon, domyos, keiser, ...) or a Domyos (Decathlon) / Horizon / Proform  treadmill and you want to join to zwift? This app allows you to give a second life to your machine!\n\nAlso ellipticals and rowers machinery are supported now!\n\nSimply connect your smartphone to the treadmill/bike and zwift/peloton/fulgaz/rouvy will recognize it!\n\nAlso this app allow you to use HealthKit to read your heart rate direct from your Apple Watch or any Heart Rate Bluetooth Belt. This metric will also be saved in your workout!\n\nCompatible machineries:\n- all the Echelon bikes (please check the firmware compatibility https://robertoviola.cloud/2025/07/22/how-i-built-qz-and-how-echelon-is-now-breaking-it/ )\n- all the Domyos bikes\n- all the Domyos treadmills\n- all the Domyos elliptical machinery\n- Smart Row Rower\n- Echelon Rower (please check the firmware compatibility https://robertoviola.cloud/2025/07/22/how-i-built-qz-and-how-echelon-is-now-breaking-it/ )\n- Concept Rower 2\n- Yesoul S3 (M3 is currently on testing, if you have one, contact me)\n- Sportstech bikes\n- Inspire bikes\n- Schwinn IC4 and Bowflex C6\n- Toorx bikes and spinbikes\n- Fassi treadmills\n- all the Proform bikes without a tablet builtin\n- Proform treadmills\n- Flywheel bike (the calibration tool is here https://ptx2.net/apps/flytest/ )\n- JK Fitness treadmill\n- Toorx treadmills\n- Sole elliptical\n- Chrono bike\n- NPECable\n- and much more! ask me by email about the compatibility\n\nIf you want you can join the Swag Bag auto-renewing subscription through an In-App Purchase in order to help me in the development of the app!\n• an auto-renewable subscription\n• 1 month ($1.99)\n• Your subscription will be charged to your iTunes account at confirmation of purchase and will automatically renew (at the duration selected) unless auto-renew is turned off at least 24 hours before the end of the current period.\n• Current subscription may not be cancelled during the active subscription period; however, you can manage your subscription and/or turn off auto-renewal by visiting your iTunes Account Settings after purchase.\n• Privacy policy: https://robertoviola.cloud/privacy-policy-qdomyos-zwift/\n• Licensed Application end user license agreement: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
       "bundleId": "org.cagnulein.qdomyoszwift",
-      "averageUserRating": 4.78788,
-      "trackCensoredName": "QZ - qdomyos-zwift",
-      "trackViewUrl": "https://apps.apple.com/de/app/qz-qdomyos-zwift/id1543684531?uo=4",
-      "contentAdvisoryRating": "4+",
-      "artistId": 951920407,
-      "artistName": "Roberto Viola",
       "userRatingCount": 99,
       "country": "DEU"
     },
     {
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/88/b6/c3/88b6c3ec-453c-a12a-2d15-ced7621d3f26/tns.wefjchxn.png/576x768bb.png"
+      "features": [
+        "iosUniversal"
       ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/05/6a/6e056ad3-1d4d-3596-a926-c0aa1ac852ad/AppIcon-1x_U007emarketing-0-8-0-0-85-220-0.png/60x60bb.jpg",
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/05/6a/6e056ad3-1d4d-3596-a926-c0aa1ac852ad/AppIcon-1x_U007emarketing-0-8-0-0-85-220-0.png/512x512bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/05/6a/6e056ad3-1d4d-3596-a926-c0aa1ac852ad/AppIcon-1x_U007emarketing-0-8-0-0-85-220-0.png/100x100bb.jpg",
       "artistViewUrl": "https://apps.apple.com/gb/developer/roberto-viola/id951920407?uo=4",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/b5/d5/da/b5d5da6b-8893-8033-76ca-ba6771ba3834/tns.gyvmsunk.png/392x696bb.png"
-      ],
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/05/6a/6e056ad3-1d4d-3596-a926-c0aa1ac852ad/AppIcon-1x_U007emarketing-0-8-0-0-85-220-0.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/05/6a/6e056ad3-1d4d-3596-a926-c0aa1ac852ad/AppIcon-1x_U007emarketing-0-8-0-0-85-220-0.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
       "advisories": [],
       "supportedDevices": [
@@ -709,20 +704,18 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
       "kind": "software",
-      "features": [
-        "iosUniversal"
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/b5/d5/da/b5d5da6b-8893-8033-76ca-ba6771ba3834/tns.gyvmsunk.png/392x696bb.png"
       ],
-      "averageUserRating": 4.90857,
-      "languageCodesISO2A": [],
-      "sellerUrl": "https://robertoviola.cloud",
-      "trackCensoredName": "QZ - qdomyos-zwift",
-      "fileSizeBytes": "73857024",
-      "formattedPrice": "£6.99",
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/88/b6/c3/88b6c3ec-453c-a12a-2d15-ced7621d3f26/tns.wefjchxn.png/576x768bb.png"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/05/6a/6e056ad3-1d4d-3596-a926-c0aa1ac852ad/AppIcon-1x_U007emarketing-0-8-0-0-85-220-0.png/512x512bb.jpg",
       "contentAdvisoryRating": "4+",
-      "userRatingCountForCurrentVersion": 175,
+      "trackCensoredName": "QZ - qdomyos-zwift",
       "trackViewUrl": "https://apps.apple.com/gb/app/qz-qdomyos-zwift/id1543684531?uo=4",
-      "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.90857,
+      "averageUserRating": 4.9096,
       "artistId": 951920407,
       "artistName": "Roberto Viola",
       "genres": [
@@ -731,28 +724,36 @@
       ],
       "price": 6.99,
       "bundleId": "org.cagnulein.qdomyoszwift",
+      "primaryGenreName": "Sports",
+      "primaryGenreId": 6004,
+      "currentVersionReleaseDate": "2026-03-24T07:46:46Z",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "Roberto Viola",
+      "releaseDate": "2020-12-10T08:00:00Z",
+      "releaseNotes": "- Garmin Connect Integration added\n- Peloton Walking Treadmill classes handled and API improvements\n- Wifi support for Rouvy and Mywhoosh\n- Intervals.icu integration added\n- Workout editor added\n- Workout history added\n- Voiceover added\n- Air Pods Pro 3 Heart rate support\n- Mywhoosh Rower compatibility added\n- Automatic virtual shifting\n- Peloton auto sync improved\n- Apple health without Apple watch\n- Live Activities\n- Elevation on apple health for treadmills\n- ERG mode improved for device that doesn't have ERG mode implemented\n- Technogym Ride supported",
+      "trackId": 1543684531,
+      "trackName": "QZ - qdomyos-zwift",
       "genreIds": [
         "6004",
         "6012"
       ],
-      "sellerName": "Roberto Viola",
-      "releaseDate": "2020-12-10T08:00:00Z",
-      "primaryGenreName": "Sports",
-      "primaryGenreId": 6004,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "trackId": 1543684531,
-      "trackName": "QZ - qdomyos-zwift",
-      "currentVersionReleaseDate": "2026-03-24T07:46:46Z",
-      "releaseNotes": "- Garmin Connect Integration added\n- Peloton Walking Treadmill classes handled and API improvements\n- Wifi support for Rouvy and Mywhoosh\n- Intervals.icu integration added\n- Workout editor added\n- Workout history added\n- Voiceover added\n- Air Pods Pro 3 Heart rate support\n- Mywhoosh Rower compatibility added\n- Automatic virtual shifting\n- Peloton auto sync improved\n- Apple health without Apple watch\n- Live Activities\n- Elevation on apple health for treadmills\n- ERG mode improved for device that doesn't have ERG mode implemented\n- Technogym Ride supported",
       "version": "2.20",
       "wrapperType": "software",
       "currency": "GBP",
       "description": "** QZ is not affiliated with or endorsed by any subscription service or maker of exercise equipment. **\n\nHave you got a bike (echelon, flywheel, proform, i-console yesoul, decathlon, domyos, keiser, ...) or a Domyos (Decathlon) / Horizon / Proform  treadmill and you want to join to zwift? This app allows you to give a second life to your machine!\n\nAlso ellipticals and rowers machinery are supported now!\n\nSimply connect your smartphone to the treadmill/bike and zwift/peloton/fulgaz/rouvy will recognize it!\n\nAlso this app allow you to use HealthKit to read your heart rate direct from your Apple Watch or any Heart Rate Bluetooth Belt. This metric will also be saved in your workout!\n\nCompatible machineries:\n- all the Echelon bikes (please check the firmware compatibility https://robertoviola.cloud/2025/07/22/how-i-built-qz-and-how-echelon-is-now-breaking-it/ )\n- all the Domyos bikes\n- all the Domyos treadmills\n- all the Domyos elliptical machinery\n- Smart Row Rower\n- Echelon Rower (please check the firmware compatibility https://robertoviola.cloud/2025/07/22/how-i-built-qz-and-how-echelon-is-now-breaking-it/ )\n- Concept Rower 2\n- Yesoul S3 (M3 is currently on testing, if you have one, contact me)\n- Sportstech bikes\n- Inspire bikes\n- Schwinn IC4 and Bowflex C6\n- Toorx bikes and spinbikes\n- Fassi treadmills\n- all the Proform bikes without a tablet builtin\n- Proform treadmills\n- Flywheel bike (the calibration tool is here https://ptx2.net/apps/flytest/ )\n- JK Fitness treadmill\n- Toorx treadmills\n- Sole elliptical\n- Chrono bike\n- NPECable\n- and much more! ask me by email about the compatibility\n\nIf you want you can join the Swag Bag auto-renewing subscription through an In-App Purchase in order to help me in the development of the app!\n• an auto-renewable subscription\n• 1 month ($1.99)\n• Your subscription will be charged to your iTunes account at confirmation of purchase and will automatically renew (at the duration selected) unless auto-renew is turned off at least 24 hours before the end of the current period.\n• Current subscription may not be cancelled during the active subscription period; however, you can manage your subscription and/or turn off auto-renewal by visiting your iTunes Account Settings after purchase.\n• Privacy policy: https://robertoviola.cloud/privacy-policy-qdomyos-zwift/\n• Licensed Application end user license agreement: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+      "averageUserRatingForCurrentVersion": 4.9096,
+      "sellerUrl": "https://robertoviola.cloud",
+      "languageCodesISO2A": [],
+      "fileSizeBytes": "73857024",
+      "formattedPrice": "£6.99",
+      "userRatingCountForCurrentVersion": 177,
+      "trackContentRating": "4+",
       "minimumOsVersion": "12.0",
-      "userRatingCount": 175,
+      "userRatingCount": 177,
       "country": "GBR"
     },
     {
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/b5/d5/da/b5d5da6b-8893-8033-76ca-ba6771ba3834/tns.gyvmsunk.png/392x696bb.png"
       ],
@@ -761,15 +762,6 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/05/6a/6e056ad3-1d4d-3596-a926-c0aa1ac852ad/AppIcon-1x_U007emarketing-0-8-0-0-85-220-0.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
-      "artistViewUrl": "https://apps.apple.com/fr/developer/roberto-viola/id951920407?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/05/6a/6e056ad3-1d4d-3596-a926-c0aa1ac852ad/AppIcon-1x_U007emarketing-0-8-0-0-85-220-0.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/05/6a/6e056ad3-1d4d-3596-a926-c0aa1ac852ad/AppIcon-1x_U007emarketing-0-8-0-0-85-220-0.png/100x100bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [],
-      "kind": "software",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -900,6 +892,15 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
+      "advisories": [],
+      "kind": "software",
+      "features": [
+        "iosUniversal"
+      ],
+      "artistViewUrl": "https://apps.apple.com/fr/developer/roberto-viola/id951920407?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/05/6a/6e056ad3-1d4d-3596-a926-c0aa1ac852ad/AppIcon-1x_U007emarketing-0-8-0-0-85-220-0.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/05/6a/6e056ad3-1d4d-3596-a926-c0aa1ac852ad/AppIcon-1x_U007emarketing-0-8-0-0-85-220-0.png/100x100bb.jpg",
+      "releaseNotes": "- Garmin Connect Integration added\n- Peloton Walking Treadmill classes handled and API improvements\n- Wifi support for Rouvy and Mywhoosh\n- Intervals.icu integration added\n- Workout editor added\n- Workout history added\n- Voiceover added\n- Air Pods Pro 3 Heart rate support\n- Mywhoosh Rower compatibility added\n- Automatic virtual shifting\n- Peloton auto sync improved\n- Apple health without Apple watch\n- Live Activities\n- Elevation on apple health for treadmills\n- ERG mode improved for device that doesn't have ERG mode implemented\n- Technogym Ride supported",
       "sellerUrl": "https://robertoviola.cloud",
       "languageCodesISO2A": [],
       "fileSizeBytes": "73857024",
@@ -907,36 +908,35 @@
       "userRatingCountForCurrentVersion": 43,
       "trackContentRating": "4+",
       "averageUserRatingForCurrentVersion": 4.90698,
-      "averageUserRating": 4.90698,
-      "trackCensoredName": "QZ - qdomyos-zwift",
-      "trackViewUrl": "https://apps.apple.com/fr/app/qz-qdomyos-zwift/id1543684531?uo=4",
-      "contentAdvisoryRating": "4+",
-      "genres": [
-        "Sports",
-        "Style de vie"
-      ],
       "artistId": 951920407,
       "artistName": "Roberto Viola",
-      "price": 7.99,
+      "bundleId": "org.cagnulein.qdomyoszwift",
       "genreIds": [
         "6004",
         "6012"
       ],
+      "sellerName": "Roberto Viola",
+      "releaseDate": "2020-12-10T08:00:00Z",
+      "trackId": 1543684531,
+      "trackName": "QZ - qdomyos-zwift",
+      "isVppDeviceBasedLicensingEnabled": true,
       "primaryGenreName": "Sports",
       "primaryGenreId": 6004,
-      "sellerName": "Roberto Viola",
-      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-03-24T07:46:46Z",
-      "releaseNotes": "- Garmin Connect Integration added\n- Peloton Walking Treadmill classes handled and API improvements\n- Wifi support for Rouvy and Mywhoosh\n- Intervals.icu integration added\n- Workout editor added\n- Workout history added\n- Voiceover added\n- Air Pods Pro 3 Heart rate support\n- Mywhoosh Rower compatibility added\n- Automatic virtual shifting\n- Peloton auto sync improved\n- Apple health without Apple watch\n- Live Activities\n- Elevation on apple health for treadmills\n- ERG mode improved for device that doesn't have ERG mode implemented\n- Technogym Ride supported",
       "version": "2.20",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "** QZ is not affiliated with or endorsed by any subscription service or maker of exercise equipment. **\n\nHave you got a bike (echelon, flywheel, proform, i-console yesoul, decathlon, domyos, keiser, ...) or a Domyos (Decathlon) / Horizon / Proform  treadmill and you want to join to zwift? This app allows you to give a second life to your machine!\n\nAlso ellipticals and rowers machinery are supported now!\n\nSimply connect your smartphone to the treadmill/bike and zwift/peloton/fulgaz/rouvy will recognize it!\n\nAlso this app allow you to use HealthKit to read your heart rate direct from your Apple Watch or any Heart Rate Bluetooth Belt. This metric will also be saved in your workout!\n\nCompatible machineries:\n- all the Echelon bikes (please check the firmware compatibility https://robertoviola.cloud/2025/07/22/how-i-built-qz-and-how-echelon-is-now-breaking-it/ )\n- all the Domyos bikes\n- all the Domyos treadmills\n- all the Domyos elliptical machinery\n- Smart Row Rower\n- Echelon Rower (please check the firmware compatibility https://robertoviola.cloud/2025/07/22/how-i-built-qz-and-how-echelon-is-now-breaking-it/ )\n- Concept Rower 2\n- Yesoul S3 (M3 is currently on testing, if you have one, contact me)\n- Sportstech bikes\n- Inspire bikes\n- Schwinn IC4 and Bowflex C6\n- Toorx bikes and spinbikes\n- Fassi treadmills\n- all the Proform bikes without a tablet builtin\n- Proform treadmills\n- Flywheel bike (the calibration tool is here https://ptx2.net/apps/flytest/ )\n- JK Fitness treadmill\n- Toorx treadmills\n- Sole elliptical\n- Chrono bike\n- NPECable\n- and much more! ask me by email about the compatibility\n\nIf you want you can join the Swag Bag auto-renewing subscription through an In-App Purchase in order to help me in the development of the app!\n• an auto-renewable subscription\n• 1 month ($1.99)\n• Your subscription will be charged to your iTunes account at confirmation of purchase and will automatically renew (at the duration selected) unless auto-renew is turned off at least 24 hours before the end of the current period.\n• Current subscription may not be cancelled during the active subscription period; however, you can manage your subscription and/or turn off auto-renewal by visiting your iTunes Account Settings after purchase.\n• Privacy policy: https://robertoviola.cloud/privacy-policy-qdomyos-zwift/\n• Licensed Application end user license agreement: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
       "minimumOsVersion": "12.0",
-      "trackId": 1543684531,
-      "trackName": "QZ - qdomyos-zwift",
-      "releaseDate": "2020-12-10T08:00:00Z",
-      "bundleId": "org.cagnulein.qdomyoszwift",
+      "trackCensoredName": "QZ - qdomyos-zwift",
+      "trackViewUrl": "https://apps.apple.com/fr/app/qz-qdomyos-zwift/id1543684531?uo=4",
+      "averageUserRating": 4.90698,
+      "contentAdvisoryRating": "4+",
+      "price": 7.99,
+      "genres": [
+        "Sports",
+        "Style de vie"
+      ],
       "userRatingCount": 43,
       "country": "FRA"
     }

@@ -199,14 +199,10 @@
       "userRatingCount": 384
     },
     {
-      "artistViewUrl": "https://apps.apple.com/jp/developer/jeffrey-kuiken/id1163503860?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/a3/57/b5a35714-5ec0-ed63-3109-9ba26b488fc0/AppIcon-0-0-1x_U007epad-0-0-0-1-0-sRGB-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/a3/57/b5a35714-5ec0-ed63-3109-9ba26b488fc0/AppIcon-0-0-1x_U007epad-0-0-0-1-0-sRGB-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
       ],
-      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -336,7 +332,11 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
+      "advisories": [],
       "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/jp/developer/jeffrey-kuiken/id1163503860?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/a3/57/b5a35714-5ec0-ed63-3109-9ba26b488fc0/AppIcon-0-0-1x_U007epad-0-0-0-1-0-sRGB-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/a3/57/b5a35714-5ec0-ed63-3109-9ba26b488fc0/AppIcon-0-0-1x_U007epad-0-0-0-1-0-sRGB-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/04/ca/2404ca73-1e86-e595-0f65-91fb359d79c0/010b6da5-2a60-433c-a0ce-dc8c9ba0a8eb_A_Dark_Mode_for_Every_Website.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/ab/be/02abbe8e-cd31-f414-4ec3-78c59639ecea/c6ad9b25-b2f8-43a1-808b-cd58ec989baf_Works_Automatically_and_On_All_Websites.png/392x696bb.png",
@@ -353,51 +353,50 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/a3/57/b5a35714-5ec0-ed63-3109-9ba26b488fc0/AppIcon-0-0-1x_U007epad-0-0-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "trackViewUrl": "https://apps.apple.com/jp/app/noir-dark-mode-for-safari/id1581140954?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.52941,
-      "trackCensoredName": "Noir - Dark Mode for Safari",
-      "artistId": 1163503860,
-      "artistName": "Jeffrey Kuiken",
+      "releaseNotes": "Hi there! Thanks you for using Noir.\n\nUnfortunately, a new bug on iOS 26.6 can cause a delay of up to 10 seconds before extensions like Noir are loaded when you first open Safari. Once Noir is loaded, it remains loaded until Safari is removed from memory on your device. This sometimes happens automatically (especially on older devices), but it's usually because you removed Safari from the multitasking menu yourself.\n\nWhen you encounter this issue, just leave Safari open. Noir should load shortly, and will be working instantly again from then on. Please refrain from closing Safari manually from the multitasking menu. Leaving Safari open means Noir remains loaded and working instantly.\n\nUnfortunately, this is a bug in iOS itself, and there's nothing I can do about it. It happens for every Safari extension, but it's especially noticeable with Noir, because you can immediately tell that Noir has not loaded yet.\n\nThis update adds shows info about this bug when you open the Noir menu in Safari when the extension has not been loaded yet. Sadly it's all I can do for now.\n\nI'm really sorry for the inconvenience and wish there was something I could do about it. If you have any questions about the issue, feel free to reach out to me at jeffrey@getnoir.app\n\nJeffrey",
       "genres": [
         "ユーティリティ",
         "仕事効率化"
       ],
-      "price": 400,
       "bundleId": "nl.jeffreykuiken.NoirApp",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "sellerName": "Jeffrey Kuiken",
-      "releaseDate": "2021-09-20T07:00:00Z",
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
+      "price": 400,
       "trackId": 1581140954,
       "trackName": "Noir - Dark Mode for Safari",
-      "currentVersionReleaseDate": "2026-08-13T12:58:32Z",
       "genreIds": [
         "6002",
         "6007"
       ],
-      "releaseNotes": "Hi there! Thanks you for using Noir.\n\nUnfortunately, a new bug on iOS 26.6 can cause a delay of up to 10 seconds before extensions like Noir are loaded when you first open Safari. Once Noir is loaded, it remains loaded until Safari is removed from memory on your device. This sometimes happens automatically (especially on older devices), but it's usually because you removed Safari from the multitasking menu yourself.\n\nWhen you encounter this issue, just leave Safari open. Noir should load shortly, and will be working instantly again from then on. Please refrain from closing Safari manually from the multitasking menu. Leaving Safari open means Noir remains loaded and working instantly.\n\nUnfortunately, this is a bug in iOS itself, and there's nothing I can do about it. It happens for every Safari extension, but it's especially noticeable with Noir, because you can immediately tell that Noir has not loaded yet.\n\nThis update adds shows info about this bug when you open the Noir menu in Safari when the extension has not been loaded yet. Sadly it's all I can do for now.\n\nI'm really sorry for the inconvenience and wish there was something I could do about it. If you have any questions about the issue, feel free to reach out to me at jeffrey@getnoir.app\n\nJeffrey",
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
+      "sellerName": "Jeffrey Kuiken",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-08-13T12:58:32Z",
       "version": "2026.1.9",
       "wrapperType": "software",
       "currency": "JPY",
       "description": "Noir is a Safari extension that automatically adds a dark mode to every website you visit.\n\nIt makes browsing the web at night so much better. With Noir, you won’t be blinded by bright websites ever again.\n\nAnd the results look great too. Noir generates a custom dark style for each website you visit, based on the colors that are used on a page. You won’t even notice this happening in the background – that’s how fast it is – but you’ll certainly appreciate the end result: a beautiful dark mode tailored for each website, where contrast is preserved and highlights still pop. And with over 20 built-in themes and the ability to create your own, you can customize the results exactly the way you want.\n\nNoir works with any website you visit in Safari, automatically. By default, Noir is linked to your device’s Dark Mode, so websites will only go dark when you want them to. But you can easily customize this to your liking, even per website. Only want to use Noir on just a few specific websites? Sure thing! Disable Noir on some websites? No problem!\n\nBuilt from the ground up for iOS and iPadOS, the app feels right at home on your device. It supports the brand new Safari web extension feature, which means there’s no need to manually activate it every time you load a new page. The app also tightly integrates with system features such as Shortcuts, Control Center, Focus Filters, and Widgets to fully integrate Noir in all your workflows. And your settings are automatically synced to all your devices using iCloud.\n\nAnd just as importantly, Noir takes your privacy seriously: it doesn’t collect any of your browsing data. Period.\n\nNoir is made by an indie iOS developer. It does not include any subscriptions or ads. Buy Noir once, use it forever.\n\nNotes:\n• Found a website where Noir’s dark mode doesn’t look just right? Let me know by reporting it. The app will be frequently updated to address issues that are reported.\n\nPrivacy Policy:\n• The Noir extension requires access to the websites you visit to analyze the existing style of the page and to override it with Noir's dark style.\n• Noir never collects your browsing data. The only data Noir ‘collects’ are your settings, and those will never leave your device or iCloud account.\n• You can read Noir’s full Privacy Policy at https://getnoir.app/privacypolicy",
+      "trackCensoredName": "Noir - Dark Mode for Safari",
+      "trackViewUrl": "https://apps.apple.com/jp/app/noir-dark-mode-for-safari/id1581140954?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.52941,
       "minimumOsVersion": "15.0",
-      "sellerUrl": "https://getnoir.app",
-      "averageUserRatingForCurrentVersion": 4.52941,
-      "languageCodesISO2A": [
-        "EN",
-        "ZH"
-      ],
       "fileSizeBytes": "18847744",
       "formattedPrice": "¥400",
       "userRatingCountForCurrentVersion": 102,
       "trackContentRating": "4+",
+      "languageCodesISO2A": [
+        "EN",
+        "ZH"
+      ],
+      "sellerUrl": "https://getnoir.app",
+      "averageUserRatingForCurrentVersion": 4.52941,
+      "artistId": 1163503860,
+      "artistName": "Jeffrey Kuiken",
+      "releaseDate": "2021-09-20T07:00:00Z",
       "userRatingCount": 102,
       "country": "JPN"
     },
     {
-      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/04/ca/2404ca73-1e86-e595-0f65-91fb359d79c0/010b6da5-2a60-433c-a0ce-dc8c9ba0a8eb_A_Dark_Mode_for_Every_Website.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/ab/be/02abbe8e-cd31-f414-4ec3-78c59639ecea/c6ad9b25-b2f8-43a1-808b-cd58ec989baf_Works_Automatically_and_On_All_Websites.png/392x696bb.png",
@@ -414,9 +413,14 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/a3/57/b5a35714-5ec0-ed63-3109-9ba26b488fc0/AppIcon-0-0-1x_U007epad-0-0-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/us/developer/jeffrey-kuiken/id1163503860?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/a3/57/b5a35714-5ec0-ed63-3109-9ba26b488fc0/AppIcon-0-0-1x_U007epad-0-0-0-1-0-sRGB-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/a3/57/b5a35714-5ec0-ed63-3109-9ba26b488fc0/AppIcon-0-0-1x_U007epad-0-0-0-1-0-sRGB-85-220.png/100x100bb.jpg",
+      "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
       ],
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -547,74 +551,51 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
       "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/us/developer/jeffrey-kuiken/id1163503860?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/a3/57/b5a35714-5ec0-ed63-3109-9ba26b488fc0/AppIcon-0-0-1x_U007epad-0-0-0-1-0-sRGB-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/a3/57/b5a35714-5ec0-ed63-3109-9ba26b488fc0/AppIcon-0-0-1x_U007epad-0-0-0-1-0-sRGB-85-220.png/100x100bb.jpg",
-      "advisories": [],
+      "contentAdvisoryRating": "4+",
       "minimumOsVersion": "15.0",
       "averageUserRatingForCurrentVersion": 4.56181,
+      "sellerUrl": "https://getnoir.app",
       "languageCodesISO2A": [
         "EN",
         "ZH"
       ],
+      "averageUserRating": 4.56181,
       "fileSizeBytes": "18847744",
       "formattedPrice": "$2.99",
       "userRatingCountForCurrentVersion": 1351,
       "trackContentRating": "4+",
-      "sellerUrl": "https://getnoir.app",
-      "price": 2.99,
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
       "artistId": 1163503860,
+      "artistName": "Jeffrey Kuiken",
       "genres": [
         "Utilities",
         "Productivity"
       ],
+      "price": 2.99,
+      "bundleId": "nl.jeffreykuiken.NoirApp",
+      "trackId": 1581140954,
+      "trackName": "Noir - Dark Mode for Safari",
+      "releaseNotes": "Hi there! Thanks you for using Noir.\n\nUnfortunately, a new bug on iOS 26.6 can cause a delay of up to 10 seconds before extensions like Noir are loaded when you first open Safari. Once Noir is loaded, it remains loaded until Safari is removed from memory on your device. This sometimes happens automatically (especially on older devices), but it's usually because you removed Safari from the multitasking menu yourself.\n\nWhen you encounter this issue, just leave Safari open. Noir should load shortly, and will be working instantly again from then on. Please refrain from closing Safari manually from the multitasking menu. Leaving Safari open means Noir remains loaded and working instantly.\n\nUnfortunately, this is a bug in iOS itself, and there's nothing I can do about it. It happens for every Safari extension, but it's especially noticeable with Noir, because you can immediately tell that Noir has not loaded yet.\n\nThis update adds shows info about this bug when you open the Noir menu in Safari when the extension has not been loaded yet. Sadly it's all I can do for now.\n\nI'm really sorry for the inconvenience and wish there was something I could do about it. If you have any questions about the issue, feel free to reach out to me at jeffrey@getnoir.app\n\nJeffrey",
       "isVppDeviceBasedLicensingEnabled": true,
       "genreIds": [
         "6002",
         "6007"
       ],
-      "bundleId": "nl.jeffreykuiken.NoirApp",
-      "releaseDate": "2021-09-20T07:00:00Z",
+      "sellerName": "Jeffrey Kuiken",
       "currentVersionReleaseDate": "2026-08-13T12:58:32Z",
-      "trackName": "Noir - Dark Mode for Safari",
-      "trackId": 1581140954,
-      "releaseNotes": "Hi there! Thanks you for using Noir.\n\nUnfortunately, a new bug on iOS 26.6 can cause a delay of up to 10 seconds before extensions like Noir are loaded when you first open Safari. Once Noir is loaded, it remains loaded until Safari is removed from memory on your device. This sometimes happens automatically (especially on older devices), but it's usually because you removed Safari from the multitasking menu yourself.\n\nWhen you encounter this issue, just leave Safari open. Noir should load shortly, and will be working instantly again from then on. Please refrain from closing Safari manually from the multitasking menu. Leaving Safari open means Noir remains loaded and working instantly.\n\nUnfortunately, this is a bug in iOS itself, and there's nothing I can do about it. It happens for every Safari extension, but it's especially noticeable with Noir, because you can immediately tell that Noir has not loaded yet.\n\nThis update adds shows info about this bug when you open the Noir menu in Safari when the extension has not been loaded yet. Sadly it's all I can do for now.\n\nI'm really sorry for the inconvenience and wish there was something I could do about it. If you have any questions about the issue, feel free to reach out to me at jeffrey@getnoir.app\n\nJeffrey",
+      "releaseDate": "2021-09-20T07:00:00Z",
       "version": "2026.1.9",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Noir is a Safari extension that automatically adds a dark mode to every website you visit.\n\nIt makes browsing the web at night so much better. With Noir, you won’t be blinded by bright websites ever again.\n\nAnd the results look great too. Noir generates a custom dark style for each website you visit, based on the colors that are used on a page. You won’t even notice this happening in the background – that’s how fast it is – but you’ll certainly appreciate the end result: a beautiful dark mode tailored for each website, where contrast is preserved and highlights still pop. And with over 20 built-in themes and the ability to create your own, you can customize the results exactly the way you want.\n\nNoir works with any website you visit in Safari, automatically. By default, Noir is linked to your device’s Dark Mode, so websites will only go dark when you want them to. But you can easily customize this to your liking, even per website. Only want to use Noir on just a few specific websites? Sure thing! Disable Noir on some websites? No problem!\n\nBuilt from the ground up for iOS and iPadOS, the app feels right at home on your device. It supports the brand new Safari web extension feature, which means there’s no need to manually activate it every time you load a new page. The app also tightly integrates with system features such as Shortcuts, Control Center, Focus Filters, and Widgets to fully integrate Noir in all your workflows. And your settings are automatically synced to all your devices using iCloud.\n\nAnd just as importantly, Noir takes your privacy seriously: it doesn’t collect any of your browsing data. Period.\n\nNoir is made by an indie iOS developer. It does not include any subscriptions or ads. Buy Noir once, use it forever.\n\nNotes:\n• Found a website where Noir’s dark mode doesn’t look just right? Let me know by reporting it. The app will be frequently updated to address issues that are reported.\n\nPrivacy Policy:\n• The Noir extension requires access to the websites you visit to analyze the existing style of the page and to override it with Noir's dark style.\n• Noir never collects your browsing data. The only data Noir ‘collects’ are your settings, and those will never leave your device or iCloud account.\n• You can read Noir’s full Privacy Policy at https://getnoir.app/privacypolicy",
-      "averageUserRating": 4.56181,
       "trackCensoredName": "Noir - Dark Mode for Safari",
       "trackViewUrl": "https://apps.apple.com/us/app/noir-dark-mode-for-safari/id1581140954?uo=4",
-      "contentAdvisoryRating": "4+",
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
-      "sellerName": "Jeffrey Kuiken",
-      "artistName": "Jeffrey Kuiken",
       "userRatingCount": 1351,
       "country": "USA"
     },
     {
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/04/ca/2404ca73-1e86-e595-0f65-91fb359d79c0/010b6da5-2a60-433c-a0ce-dc8c9ba0a8eb_A_Dark_Mode_for_Every_Website.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/ab/be/02abbe8e-cd31-f414-4ec3-78c59639ecea/c6ad9b25-b2f8-43a1-808b-cd58ec989baf_Works_Automatically_and_On_All_Websites.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8b/6e/04/8b6e0466-6fb5-a011-c800-05135f5266d4/3.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/94/7d/d1/947dd133-4cff-ea88-a8ec-86cc5e0864f1/4.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d7/b4/17/d7b41760-eb8e-1e60-5e8a-2953b6933740/5.png/392x696bb.png"
-      ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/41/af/9941af76-c516-1f5a-2361-157f4e80c9df/0098520a-0cd1-45ec-ab8b-cbb650b45536_A_Dark_Mode_for_Every_Website.png/576x768bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/67/28/6c/67286cc2-9e09-a1a9-3a86-be14b13c7bf9/8f5e7348-9059-40e3-8927-8bab61b40d21_Works_Automatically_and_On_All_Websites.png/576x768bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b7/ce/7b/b7ce7b4d-39c9-2f23-8d51-6b4ce66aebbf/3.png/576x768bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/20/0f/fc/200ffcc6-2514-08a3-f049-3fef5e88b386/4.png/576x768bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/75/4a/76/754a7601-4d8b-f484-7510-bc881595ab76/5.png/576x768bb.png"
-      ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/a3/57/b5a35714-5ec0-ed63-3109-9ba26b488fc0/AppIcon-0-0-1x_U007epad-0-0-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
-      "artistViewUrl": "https://apps.apple.com/de/developer/jeffrey-kuiken/id1163503860?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/a3/57/b5a35714-5ec0-ed63-3109-9ba26b488fc0/AppIcon-0-0-1x_U007epad-0-0-0-1-0-sRGB-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/a3/57/b5a35714-5ec0-ed63-3109-9ba26b488fc0/AppIcon-0-0-1x_U007epad-0-0-0-1-0-sRGB-85-220.png/100x100bb.jpg",
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -744,13 +725,53 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "advisories": [],
-      "kind": "software",
+      "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
       ],
-      "averageUserRatingForCurrentVersion": 4.75064,
-      "sellerUrl": "https://getnoir.app",
+      "kind": "software",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/04/ca/2404ca73-1e86-e595-0f65-91fb359d79c0/010b6da5-2a60-433c-a0ce-dc8c9ba0a8eb_A_Dark_Mode_for_Every_Website.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/ab/be/02abbe8e-cd31-f414-4ec3-78c59639ecea/c6ad9b25-b2f8-43a1-808b-cd58ec989baf_Works_Automatically_and_On_All_Websites.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8b/6e/04/8b6e0466-6fb5-a011-c800-05135f5266d4/3.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/94/7d/d1/947dd133-4cff-ea88-a8ec-86cc5e0864f1/4.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d7/b4/17/d7b41760-eb8e-1e60-5e8a-2953b6933740/5.png/392x696bb.png"
+      ],
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/41/af/9941af76-c516-1f5a-2361-157f4e80c9df/0098520a-0cd1-45ec-ab8b-cbb650b45536_A_Dark_Mode_for_Every_Website.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/67/28/6c/67286cc2-9e09-a1a9-3a86-be14b13c7bf9/8f5e7348-9059-40e3-8927-8bab61b40d21_Works_Automatically_and_On_All_Websites.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b7/ce/7b/b7ce7b4d-39c9-2f23-8d51-6b4ce66aebbf/3.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/20/0f/fc/200ffcc6-2514-08a3-f049-3fef5e88b386/4.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/75/4a/76/754a7601-4d8b-f484-7510-bc881595ab76/5.png/576x768bb.png"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/a3/57/b5a35714-5ec0-ed63-3109-9ba26b488fc0/AppIcon-0-0-1x_U007epad-0-0-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/de/developer/jeffrey-kuiken/id1163503860?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/a3/57/b5a35714-5ec0-ed63-3109-9ba26b488fc0/AppIcon-0-0-1x_U007epad-0-0-0-1-0-sRGB-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/a3/57/b5a35714-5ec0-ed63-3109-9ba26b488fc0/AppIcon-0-0-1x_U007epad-0-0-0-1-0-sRGB-85-220.png/100x100bb.jpg",
+      "sellerName": "Jeffrey Kuiken",
+      "genreIds": [
+        "6002",
+        "6007"
+      ],
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-08-13T12:58:32Z",
+      "genres": [
+        "Dienst­programme",
+        "Produktivität"
+      ],
+      "price": 3.99,
+      "bundleId": "nl.jeffreykuiken.NoirApp",
+      "trackId": 1581140954,
+      "trackName": "Noir - Dark Mode for Safari",
+      "releaseDate": "2021-09-20T07:00:00Z",
+      "releaseNotes": "Hi there! Thanks you for using Noir.\n\nUnfortunately, a new bug on iOS 26.6 can cause a delay of up to 10 seconds before extensions like Noir are loaded when you first open Safari. Once Noir is loaded, it remains loaded until Safari is removed from memory on your device. This sometimes happens automatically (especially on older devices), but it's usually because you removed Safari from the multitasking menu yourself.\n\nWhen you encounter this issue, just leave Safari open. Noir should load shortly, and will be working instantly again from then on. Please refrain from closing Safari manually from the multitasking menu. Leaving Safari open means Noir remains loaded and working instantly.\n\nUnfortunately, this is a bug in iOS itself, and there's nothing I can do about it. It happens for every Safari extension, but it's especially noticeable with Noir, because you can immediately tell that Noir has not loaded yet.\n\nThis update adds shows info about this bug when you open the Noir menu in Safari when the extension has not been loaded yet. Sadly it's all I can do for now.\n\nI'm really sorry for the inconvenience and wish there was something I could do about it. If you have any questions about the issue, feel free to reach out to me at jeffrey@getnoir.app\n\nJeffrey",
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
+      "version": "2026.1.9",
+      "wrapperType": "software",
+      "currency": "EUR",
+      "description": "Noir is a Safari extension that automatically adds a dark mode to every website you visit.\n\nIt makes browsing the web at night so much better. With Noir, you won’t be blinded by bright websites ever again.\n\nAnd the results look great too. Noir generates a custom dark style for each website you visit, based on the colors that are used on a page. You won’t even notice this happening in the background – that’s how fast it is – but you’ll certainly appreciate the end result: a beautiful dark mode tailored for each website, where contrast is preserved and highlights still pop. And with over 20 built-in themes and the ability to create your own, you can customize the results exactly the way you want.\n\nNoir works with any website you visit in Safari, automatically. By default, Noir is linked to your device’s Dark Mode, so websites will only go dark when you want them to. But you can easily customize this to your liking, even per website. Only want to use Noir on just a few specific websites? Sure thing! Disable Noir on some websites? No problem!\n\nBuilt from the ground up for iOS and iPadOS, the app feels right at home on your device. It supports the brand new Safari web extension feature, which means there’s no need to manually activate it every time you load a new page. The app also tightly integrates with system features such as Shortcuts, Control Center, Focus Filters, and Widgets to fully integrate Noir in all your workflows. And your settings are automatically synced to all your devices using iCloud.\n\nAnd just as importantly, Noir takes your privacy seriously: it doesn’t collect any of your browsing data. Period.\n\nNoir is made by an indie iOS developer. It does not include any subscriptions or ads. Buy Noir once, use it forever.\n\nNotes:\n• Found a website where Noir’s dark mode doesn’t look just right? Let me know by reporting it. The app will be frequently updated to address issues that are reported.\n\nPrivacy Policy:\n• The Noir extension requires access to the websites you visit to analyze the existing style of the page and to override it with Noir's dark style.\n• Noir never collects your browsing data. The only data Noir ‘collects’ are your settings, and those will never leave your device or iCloud account.\n• You can read Noir’s full Privacy Policy at https://getnoir.app/privacypolicy",
       "languageCodesISO2A": [
         "EN",
         "ZH"
@@ -759,41 +780,40 @@
       "formattedPrice": "3,99 €",
       "userRatingCountForCurrentVersion": 389,
       "trackContentRating": "4+",
-      "releaseNotes": "Hi there! Thanks you for using Noir.\n\nUnfortunately, a new bug on iOS 26.6 can cause a delay of up to 10 seconds before extensions like Noir are loaded when you first open Safari. Once Noir is loaded, it remains loaded until Safari is removed from memory on your device. This sometimes happens automatically (especially on older devices), but it's usually because you removed Safari from the multitasking menu yourself.\n\nWhen you encounter this issue, just leave Safari open. Noir should load shortly, and will be working instantly again from then on. Please refrain from closing Safari manually from the multitasking menu. Leaving Safari open means Noir remains loaded and working instantly.\n\nUnfortunately, this is a bug in iOS itself, and there's nothing I can do about it. It happens for every Safari extension, but it's especially noticeable with Noir, because you can immediately tell that Noir has not loaded yet.\n\nThis update adds shows info about this bug when you open the Noir menu in Safari when the extension has not been loaded yet. Sadly it's all I can do for now.\n\nI'm really sorry for the inconvenience and wish there was something I could do about it. If you have any questions about the issue, feel free to reach out to me at jeffrey@getnoir.app\n\nJeffrey",
+      "sellerUrl": "https://getnoir.app",
+      "averageUserRatingForCurrentVersion": 4.75064,
+      "minimumOsVersion": "15.0",
       "trackCensoredName": "Noir - Dark Mode for Safari",
       "trackViewUrl": "https://apps.apple.com/de/app/noir-dark-mode-for-safari/id1581140954?uo=4",
       "contentAdvisoryRating": "4+",
       "averageUserRating": 4.75064,
       "artistId": 1163503860,
       "artistName": "Jeffrey Kuiken",
-      "price": 3.99,
-      "trackName": "Noir - Dark Mode for Safari",
-      "trackId": 1581140954,
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
-      "sellerName": "Jeffrey Kuiken",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-08-13T12:58:32Z",
-      "version": "2026.1.9",
-      "wrapperType": "software",
-      "currency": "EUR",
-      "description": "Noir is a Safari extension that automatically adds a dark mode to every website you visit.\n\nIt makes browsing the web at night so much better. With Noir, you won’t be blinded by bright websites ever again.\n\nAnd the results look great too. Noir generates a custom dark style for each website you visit, based on the colors that are used on a page. You won’t even notice this happening in the background – that’s how fast it is – but you’ll certainly appreciate the end result: a beautiful dark mode tailored for each website, where contrast is preserved and highlights still pop. And with over 20 built-in themes and the ability to create your own, you can customize the results exactly the way you want.\n\nNoir works with any website you visit in Safari, automatically. By default, Noir is linked to your device’s Dark Mode, so websites will only go dark when you want them to. But you can easily customize this to your liking, even per website. Only want to use Noir on just a few specific websites? Sure thing! Disable Noir on some websites? No problem!\n\nBuilt from the ground up for iOS and iPadOS, the app feels right at home on your device. It supports the brand new Safari web extension feature, which means there’s no need to manually activate it every time you load a new page. The app also tightly integrates with system features such as Shortcuts, Control Center, Focus Filters, and Widgets to fully integrate Noir in all your workflows. And your settings are automatically synced to all your devices using iCloud.\n\nAnd just as importantly, Noir takes your privacy seriously: it doesn’t collect any of your browsing data. Period.\n\nNoir is made by an indie iOS developer. It does not include any subscriptions or ads. Buy Noir once, use it forever.\n\nNotes:\n• Found a website where Noir’s dark mode doesn’t look just right? Let me know by reporting it. The app will be frequently updated to address issues that are reported.\n\nPrivacy Policy:\n• The Noir extension requires access to the websites you visit to analyze the existing style of the page and to override it with Noir's dark style.\n• Noir never collects your browsing data. The only data Noir ‘collects’ are your settings, and those will never leave your device or iCloud account.\n• You can read Noir’s full Privacy Policy at https://getnoir.app/privacypolicy",
-      "bundleId": "nl.jeffreykuiken.NoirApp",
-      "minimumOsVersion": "15.0",
-      "genreIds": [
-        "6002",
-        "6007"
-      ],
-      "releaseDate": "2021-09-20T07:00:00Z",
-      "genres": [
-        "Dienst­programme",
-        "Produktivität"
-      ],
       "userRatingCount": 389,
       "country": "DEU"
     },
     {
+      "features": [
+        "iosUniversal"
+      ],
       "isGameCenterEnabled": false,
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/04/ca/2404ca73-1e86-e595-0f65-91fb359d79c0/010b6da5-2a60-433c-a0ce-dc8c9ba0a8eb_A_Dark_Mode_for_Every_Website.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/ab/be/02abbe8e-cd31-f414-4ec3-78c59639ecea/c6ad9b25-b2f8-43a1-808b-cd58ec989baf_Works_Automatically_and_On_All_Websites.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8b/6e/04/8b6e0466-6fb5-a011-c800-05135f5266d4/3.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/94/7d/d1/947dd133-4cff-ea88-a8ec-86cc5e0864f1/4.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d7/b4/17/d7b41760-eb8e-1e60-5e8a-2953b6933740/5.png/392x696bb.png"
+      ],
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/41/af/9941af76-c516-1f5a-2361-157f4e80c9df/0098520a-0cd1-45ec-ab8b-cbb650b45536_A_Dark_Mode_for_Every_Website.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/67/28/6c/67286cc2-9e09-a1a9-3a86-be14b13c7bf9/8f5e7348-9059-40e3-8927-8bab61b40d21_Works_Automatically_and_On_All_Websites.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b7/ce/7b/b7ce7b4d-39c9-2f23-8d51-6b4ce66aebbf/3.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/20/0f/fc/200ffcc6-2514-08a3-f049-3fef5e88b386/4.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/75/4a/76/754a7601-4d8b-f484-7510-bc881595ab76/5.png/576x768bb.png"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/a3/57/b5a35714-5ec0-ed63-3109-9ba26b488fc0/AppIcon-0-0-1x_U007epad-0-0-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -923,78 +943,58 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "advisories": [],
       "kind": "software",
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/a3/57/b5a35714-5ec0-ed63-3109-9ba26b488fc0/AppIcon-0-0-1x_U007epad-0-0-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/a3/57/b5a35714-5ec0-ed63-3109-9ba26b488fc0/AppIcon-0-0-1x_U007epad-0-0-0-1-0-sRGB-85-220.png/100x100bb.jpg",
       "artistViewUrl": "https://apps.apple.com/gb/developer/jeffrey-kuiken/id1163503860?uo=4",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/04/ca/2404ca73-1e86-e595-0f65-91fb359d79c0/010b6da5-2a60-433c-a0ce-dc8c9ba0a8eb_A_Dark_Mode_for_Every_Website.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/ab/be/02abbe8e-cd31-f414-4ec3-78c59639ecea/c6ad9b25-b2f8-43a1-808b-cd58ec989baf_Works_Automatically_and_On_All_Websites.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8b/6e/04/8b6e0466-6fb5-a011-c800-05135f5266d4/3.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/94/7d/d1/947dd133-4cff-ea88-a8ec-86cc5e0864f1/4.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d7/b4/17/d7b41760-eb8e-1e60-5e8a-2953b6933740/5.png/392x696bb.png"
-      ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/41/af/9941af76-c516-1f5a-2361-157f4e80c9df/0098520a-0cd1-45ec-ab8b-cbb650b45536_A_Dark_Mode_for_Every_Website.png/576x768bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/67/28/6c/67286cc2-9e09-a1a9-3a86-be14b13c7bf9/8f5e7348-9059-40e3-8927-8bab61b40d21_Works_Automatically_and_On_All_Websites.png/576x768bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b7/ce/7b/b7ce7b4d-39c9-2f23-8d51-6b4ce66aebbf/3.png/576x768bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/20/0f/fc/200ffcc6-2514-08a3-f049-3fef5e88b386/4.png/576x768bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/75/4a/76/754a7601-4d8b-f484-7510-bc881595ab76/5.png/576x768bb.png"
-      ],
-      "appletvScreenshotUrls": [],
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/a3/57/b5a35714-5ec0-ed63-3109-9ba26b488fc0/AppIcon-0-0-1x_U007epad-0-0-0-1-0-sRGB-85-220.png/60x60bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
-      "price": 3.99,
-      "artistId": 1163503860,
-      "artistName": "Jeffrey Kuiken",
-      "genres": [
-        "Utilities",
-        "Productivity"
-      ],
-      "sellerName": "Jeffrey Kuiken",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-08-13T12:58:32Z",
-      "releaseDate": "2021-09-20T07:00:00Z",
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
-      "version": "2026.1.9",
-      "wrapperType": "software",
-      "currency": "GBP",
-      "description": "Noir is a Safari extension that automatically adds a dark mode to every website you visit.\n\nIt makes browsing the web at night so much better. With Noir, you won’t be blinded by bright websites ever again.\n\nAnd the results look great too. Noir generates a custom dark style for each website you visit, based on the colors that are used on a page. You won’t even notice this happening in the background – that’s how fast it is – but you’ll certainly appreciate the end result: a beautiful dark mode tailored for each website, where contrast is preserved and highlights still pop. And with over 20 built-in themes and the ability to create your own, you can customize the results exactly the way you want.\n\nNoir works with any website you visit in Safari, automatically. By default, Noir is linked to your device’s Dark Mode, so websites will only go dark when you want them to. But you can easily customize this to your liking, even per website. Only want to use Noir on just a few specific websites? Sure thing! Disable Noir on some websites? No problem!\n\nBuilt from the ground up for iOS and iPadOS, the app feels right at home on your device. It supports the brand new Safari web extension feature, which means there’s no need to manually activate it every time you load a new page. The app also tightly integrates with system features such as Shortcuts, Control Center, Focus Filters, and Widgets to fully integrate Noir in all your workflows. And your settings are automatically synced to all your devices using iCloud.\n\nAnd just as importantly, Noir takes your privacy seriously: it doesn’t collect any of your browsing data. Period.\n\nNoir is made by an indie iOS developer. It does not include any subscriptions or ads. Buy Noir once, use it forever.\n\nNotes:\n• Found a website where Noir’s dark mode doesn’t look just right? Let me know by reporting it. The app will be frequently updated to address issues that are reported.\n\nPrivacy Policy:\n• The Noir extension requires access to the websites you visit to analyze the existing style of the page and to override it with Noir's dark style.\n• Noir never collects your browsing data. The only data Noir ‘collects’ are your settings, and those will never leave your device or iCloud account.\n• You can read Noir’s full Privacy Policy at https://getnoir.app/privacypolicy",
-      "averageUserRating": 4.68067,
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/a3/57/b5a35714-5ec0-ed63-3109-9ba26b488fc0/AppIcon-0-0-1x_U007epad-0-0-0-1-0-sRGB-85-220.png/100x100bb.jpg",
       "sellerUrl": "https://getnoir.app",
-      "trackCensoredName": "Noir - Dark Mode for Safari",
       "languageCodesISO2A": [
         "EN",
         "ZH"
       ],
       "fileSizeBytes": "18847744",
       "formattedPrice": "£3.99",
-      "contentAdvisoryRating": "4+",
       "userRatingCountForCurrentVersion": 238,
-      "trackViewUrl": "https://apps.apple.com/gb/app/noir-dark-mode-for-safari/id1581140954?uo=4",
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.68067,
-      "bundleId": "nl.jeffreykuiken.NoirApp",
-      "minimumOsVersion": "15.0",
+      "artistId": 1163503860,
+      "artistName": "Jeffrey Kuiken",
+      "price": 3.99,
+      "genres": [
+        "Utilities",
+        "Productivity"
+      ],
+      "isVppDeviceBasedLicensingEnabled": true,
       "genreIds": [
         "6002",
         "6007"
       ],
+      "sellerName": "Jeffrey Kuiken",
+      "bundleId": "nl.jeffreykuiken.NoirApp",
+      "releaseDate": "2021-09-20T07:00:00Z",
       "trackId": 1581140954,
       "trackName": "Noir - Dark Mode for Safari",
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
+      "currentVersionReleaseDate": "2026-08-13T12:58:32Z",
+      "version": "2026.1.9",
+      "wrapperType": "software",
+      "currency": "GBP",
+      "description": "Noir is a Safari extension that automatically adds a dark mode to every website you visit.\n\nIt makes browsing the web at night so much better. With Noir, you won’t be blinded by bright websites ever again.\n\nAnd the results look great too. Noir generates a custom dark style for each website you visit, based on the colors that are used on a page. You won’t even notice this happening in the background – that’s how fast it is – but you’ll certainly appreciate the end result: a beautiful dark mode tailored for each website, where contrast is preserved and highlights still pop. And with over 20 built-in themes and the ability to create your own, you can customize the results exactly the way you want.\n\nNoir works with any website you visit in Safari, automatically. By default, Noir is linked to your device’s Dark Mode, so websites will only go dark when you want them to. But you can easily customize this to your liking, even per website. Only want to use Noir on just a few specific websites? Sure thing! Disable Noir on some websites? No problem!\n\nBuilt from the ground up for iOS and iPadOS, the app feels right at home on your device. It supports the brand new Safari web extension feature, which means there’s no need to manually activate it every time you load a new page. The app also tightly integrates with system features such as Shortcuts, Control Center, Focus Filters, and Widgets to fully integrate Noir in all your workflows. And your settings are automatically synced to all your devices using iCloud.\n\nAnd just as importantly, Noir takes your privacy seriously: it doesn’t collect any of your browsing data. Period.\n\nNoir is made by an indie iOS developer. It does not include any subscriptions or ads. Buy Noir once, use it forever.\n\nNotes:\n• Found a website where Noir’s dark mode doesn’t look just right? Let me know by reporting it. The app will be frequently updated to address issues that are reported.\n\nPrivacy Policy:\n• The Noir extension requires access to the websites you visit to analyze the existing style of the page and to override it with Noir's dark style.\n• Noir never collects your browsing data. The only data Noir ‘collects’ are your settings, and those will never leave your device or iCloud account.\n• You can read Noir’s full Privacy Policy at https://getnoir.app/privacypolicy",
+      "minimumOsVersion": "15.0",
+      "averageUserRating": 4.68067,
+      "trackCensoredName": "Noir - Dark Mode for Safari",
+      "trackViewUrl": "https://apps.apple.com/gb/app/noir-dark-mode-for-safari/id1581140954?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRatingForCurrentVersion": 4.68067,
       "releaseNotes": "Hi there! Thanks you for using Noir.\n\nUnfortunately, a new bug on iOS 26.6 can cause a delay of up to 10 seconds before extensions like Noir are loaded when you first open Safari. Once Noir is loaded, it remains loaded until Safari is removed from memory on your device. This sometimes happens automatically (especially on older devices), but it's usually because you removed Safari from the multitasking menu yourself.\n\nWhen you encounter this issue, just leave Safari open. Noir should load shortly, and will be working instantly again from then on. Please refrain from closing Safari manually from the multitasking menu. Leaving Safari open means Noir remains loaded and working instantly.\n\nUnfortunately, this is a bug in iOS itself, and there's nothing I can do about it. It happens for every Safari extension, but it's especially noticeable with Noir, because you can immediately tell that Noir has not loaded yet.\n\nThis update adds shows info about this bug when you open the Noir menu in Safari when the extension has not been loaded yet. Sadly it's all I can do for now.\n\nI'm really sorry for the inconvenience and wish there was something I could do about it. If you have any questions about the issue, feel free to reach out to me at jeffrey@getnoir.app\n\nJeffrey",
       "userRatingCount": 238,
       "country": "GBR"
     },
     {
+      "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
       ],
-      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -1126,6 +1126,9 @@
       ],
       "advisories": [],
       "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/fr/developer/jeffrey-kuiken/id1163503860?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/a3/57/b5a35714-5ec0-ed63-3109-9ba26b488fc0/AppIcon-0-0-1x_U007epad-0-0-0-1-0-sRGB-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/a3/57/b5a35714-5ec0-ed63-3109-9ba26b488fc0/AppIcon-0-0-1x_U007epad-0-0-0-1-0-sRGB-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/04/ca/2404ca73-1e86-e595-0f65-91fb359d79c0/010b6da5-2a60-433c-a0ce-dc8c9ba0a8eb_A_Dark_Mode_for_Every_Website.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/ab/be/02abbe8e-cd31-f414-4ec3-78c59639ecea/c6ad9b25-b2f8-43a1-808b-cd58ec989baf_Works_Automatically_and_On_All_Websites.png/392x696bb.png",
@@ -1142,36 +1145,29 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/a3/57/b5a35714-5ec0-ed63-3109-9ba26b488fc0/AppIcon-0-0-1x_U007epad-0-0-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/fr/developer/jeffrey-kuiken/id1163503860?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/a3/57/b5a35714-5ec0-ed63-3109-9ba26b488fc0/AppIcon-0-0-1x_U007epad-0-0-0-1-0-sRGB-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/a3/57/b5a35714-5ec0-ed63-3109-9ba26b488fc0/AppIcon-0-0-1x_U007epad-0-0-0-1-0-sRGB-85-220.png/100x100bb.jpg",
       "minimumOsVersion": "15.0",
-      "artistId": 1163503860,
-      "artistName": "Jeffrey Kuiken",
+      "bundleId": "nl.jeffreykuiken.NoirApp",
       "genres": [
         "Utilitaires",
         "Productivité"
       ],
+      "artistId": 1163503860,
+      "artistName": "Jeffrey Kuiken",
       "price": 3.99,
-      "bundleId": "nl.jeffreykuiken.NoirApp",
-      "releaseDate": "2021-09-20T07:00:00Z",
-      "releaseNotes": "Hi there! Thanks you for using Noir.\n\nUnfortunately, a new bug on iOS 26.6 can cause a delay of up to 10 seconds before extensions like Noir are loaded when you first open Safari. Once Noir is loaded, it remains loaded until Safari is removed from memory on your device. This sometimes happens automatically (especially on older devices), but it's usually because you removed Safari from the multitasking menu yourself.\n\nWhen you encounter this issue, just leave Safari open. Noir should load shortly, and will be working instantly again from then on. Please refrain from closing Safari manually from the multitasking menu. Leaving Safari open means Noir remains loaded and working instantly.\n\nUnfortunately, this is a bug in iOS itself, and there's nothing I can do about it. It happens for every Safari extension, but it's especially noticeable with Noir, because you can immediately tell that Noir has not loaded yet.\n\nThis update adds shows info about this bug when you open the Noir menu in Safari when the extension has not been loaded yet. Sadly it's all I can do for now.\n\nI'm really sorry for the inconvenience and wish there was something I could do about it. If you have any questions about the issue, feel free to reach out to me at jeffrey@getnoir.app\n\nJeffrey",
-      "trackName": "Noir - Dark Mode for Safari",
-      "trackId": 1581140954,
-      "genreIds": [
-        "6002",
-        "6007"
-      ],
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
       "sellerName": "Jeffrey Kuiken",
+      "releaseDate": "2021-09-20T07:00:00Z",
       "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-08-13T12:58:32Z",
+      "releaseNotes": "Hi there! Thanks you for using Noir.\n\nUnfortunately, a new bug on iOS 26.6 can cause a delay of up to 10 seconds before extensions like Noir are loaded when you first open Safari. Once Noir is loaded, it remains loaded until Safari is removed from memory on your device. This sometimes happens automatically (especially on older devices), but it's usually because you removed Safari from the multitasking menu yourself.\n\nWhen you encounter this issue, just leave Safari open. Noir should load shortly, and will be working instantly again from then on. Please refrain from closing Safari manually from the multitasking menu. Leaving Safari open means Noir remains loaded and working instantly.\n\nUnfortunately, this is a bug in iOS itself, and there's nothing I can do about it. It happens for every Safari extension, but it's especially noticeable with Noir, because you can immediately tell that Noir has not loaded yet.\n\nThis update adds shows info about this bug when you open the Noir menu in Safari when the extension has not been loaded yet. Sadly it's all I can do for now.\n\nI'm really sorry for the inconvenience and wish there was something I could do about it. If you have any questions about the issue, feel free to reach out to me at jeffrey@getnoir.app\n\nJeffrey",
       "version": "2026.1.9",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Noir is a Safari extension that automatically adds a dark mode to every website you visit.\n\nIt makes browsing the web at night so much better. With Noir, you won’t be blinded by bright websites ever again.\n\nAnd the results look great too. Noir generates a custom dark style for each website you visit, based on the colors that are used on a page. You won’t even notice this happening in the background – that’s how fast it is – but you’ll certainly appreciate the end result: a beautiful dark mode tailored for each website, where contrast is preserved and highlights still pop. And with over 20 built-in themes and the ability to create your own, you can customize the results exactly the way you want.\n\nNoir works with any website you visit in Safari, automatically. By default, Noir is linked to your device’s Dark Mode, so websites will only go dark when you want them to. But you can easily customize this to your liking, even per website. Only want to use Noir on just a few specific websites? Sure thing! Disable Noir on some websites? No problem!\n\nBuilt from the ground up for iOS and iPadOS, the app feels right at home on your device. It supports the brand new Safari web extension feature, which means there’s no need to manually activate it every time you load a new page. The app also tightly integrates with system features such as Shortcuts, Control Center, Focus Filters, and Widgets to fully integrate Noir in all your workflows. And your settings are automatically synced to all your devices using iCloud.\n\nAnd just as importantly, Noir takes your privacy seriously: it doesn’t collect any of your browsing data. Period.\n\nNoir is made by an indie iOS developer. It does not include any subscriptions or ads. Buy Noir once, use it forever.\n\nNotes:\n• Found a website where Noir’s dark mode doesn’t look just right? Let me know by reporting it. The app will be frequently updated to address issues that are reported.\n\nPrivacy Policy:\n• The Noir extension requires access to the websites you visit to analyze the existing style of the page and to override it with Noir's dark style.\n• Noir never collects your browsing data. The only data Noir ‘collects’ are your settings, and those will never leave your device or iCloud account.\n• You can read Noir’s full Privacy Policy at https://getnoir.app/privacypolicy",
-      "sellerUrl": "https://getnoir.app",
+      "trackCensoredName": "Noir - Dark Mode for Safari",
+      "trackViewUrl": "https://apps.apple.com/fr/app/noir-dark-mode-for-safari/id1581140954?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.80808,
+      "averageUserRatingForCurrentVersion": 4.80808,
       "languageCodesISO2A": [
         "EN",
         "ZH"
@@ -1180,11 +1176,15 @@
       "formattedPrice": "3,99 €",
       "userRatingCountForCurrentVersion": 99,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.80808,
-      "trackCensoredName": "Noir - Dark Mode for Safari",
-      "trackViewUrl": "https://apps.apple.com/fr/app/noir-dark-mode-for-safari/id1581140954?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.80808,
+      "sellerUrl": "https://getnoir.app",
+      "genreIds": [
+        "6002",
+        "6007"
+      ],
+      "trackId": 1581140954,
+      "trackName": "Noir - Dark Mode for Safari",
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
       "userRatingCount": 99,
       "country": "FRA"
     }

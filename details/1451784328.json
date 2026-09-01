@@ -260,9 +260,6 @@
       "artistViewUrl": "https://apps.apple.com/us/developer/google/id281956209?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/08/80/37088054-edfc-6988-279f-af5c342af75a/logo_one_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/08/80/37088054-edfc-6988-279f-af5c342af75a/logo_one_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-0-85-220.png/100x100bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -408,11 +405,16 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/57/1f/0c/571f0cfc-0f26-b05f-b71a-262c827b3989/APP_IPHONE_67-3.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/29/0c/38/290c386a-84b5-0d5d-508e-5ef4124d7730/APP_IPHONE_67-4.png/320x480bb.jpg"
       ],
-      "minimumOsVersion": "17.0",
-      "averageUserRating": 4.71523,
-      "trackCensoredName": "Google One",
+      "features": [
+        "iosUniversal"
+      ],
+      "fileSizeBytes": "200158208",
+      "formattedPrice": "Free",
+      "averageUserRating": 4.71508,
       "trackViewUrl": "https://apps.apple.com/us/app/google-one/id1451784328?uo=4",
       "contentAdvisoryRating": "4+",
+      "trackCensoredName": "Google One",
+      "minimumOsVersion": "17.0",
       "artistId": 281956209,
       "artistName": "Google",
       "genres": [
@@ -420,20 +422,16 @@
         "Utilities"
       ],
       "price": 0,
-      "bundleId": "com.google.one",
-      "primaryGenreName": "Productivity",
-      "primaryGenreId": 6007,
+      "releaseNotes": "Performance improvements and bug fixes.",
       "genreIds": [
         "6007",
         "6002"
       ],
       "sellerName": "Google LLC",
       "releaseDate": "2020-11-09T08:00:00Z",
-      "isVppDeviceBasedLicensingEnabled": true,
       "trackId": 1451784328,
       "trackName": "Google One",
       "currentVersionReleaseDate": "2026-08-12T20:48:56Z",
-      "releaseNotes": "Performance improvements and bug fixes.",
       "version": "1.131.0",
       "wrapperType": "software",
       "currency": "USD",
@@ -512,12 +510,14 @@
         "VI",
         "ZU"
       ],
-      "fileSizeBytes": "200158208",
-      "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 22899,
+      "userRatingCountForCurrentVersion": 22901,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.71523,
-      "userRatingCount": 22899,
+      "averageUserRatingForCurrentVersion": 4.71508,
+      "bundleId": "com.google.one",
+      "primaryGenreName": "Productivity",
+      "primaryGenreId": 6007,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "userRatingCount": 22901,
       "country": "USA"
     }
   ]

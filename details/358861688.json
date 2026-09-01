@@ -247,9 +247,6 @@
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/81/bf/7e81bfdf-b978-ae4d-3ced-2cf3102e8aab/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/512x512bb.jpg",
       "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -384,7 +381,11 @@
       "artistViewUrl": "https://apps.apple.com/fr/developer/amazon/id335187486?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/81/bf/7e81bfdf-b978-ae4d-3ced-2cf3102e8aab/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/81/bf/7e81bfdf-b978-ae4d-3ced-2cf3102e8aab/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/100x100bb.jpg",
-      "averageUserRatingForCurrentVersion": 4.68482,
+      "features": [
+        "iosUniversal"
+      ],
+      "minimumOsVersion": "15.0",
+      "averageUserRatingForCurrentVersion": 4.6848,
       "sellerUrl": "https://www.amazon.fr/app",
       "languageCodesISO2A": [
         "AR",
@@ -415,39 +416,38 @@
       ],
       "fileSizeBytes": "245947392",
       "formattedPrice": "Gratuit",
-      "userRatingCountForCurrentVersion": 294593,
+      "userRatingCountForCurrentVersion": 294613,
       "trackContentRating": "4+",
-      "releaseNotes": "Profitez de notre dernière mise à jour où nous avons corrigé quelques bugs et amélioré notre application pour vous offrir une expérience d'achat agréable.",
-      "minimumOsVersion": "15.0",
       "genres": [
         "Shopping",
         "Style de vie"
       ],
+      "artistId": 335187486,
+      "artistName": "Amazon",
       "price": 0,
-      "releaseDate": "2010-03-09T21:47:13Z",
+      "primaryGenreName": "Shopping",
+      "primaryGenreId": 6024,
+      "isVppDeviceBasedLicensingEnabled": true,
       "trackId": 358861688,
       "trackName": "Amazon FR",
       "genreIds": [
         "6024",
         "6012"
       ],
-      "primaryGenreName": "Shopping",
-      "primaryGenreId": 6024,
-      "sellerName": "Amazon Europe Core SARL",
-      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-08-17T20:32:19Z",
+      "releaseDate": "2010-03-09T21:47:13Z",
+      "releaseNotes": "Profitez de notre dernière mise à jour où nous avons corrigé quelques bugs et amélioré notre application pour vous offrir une expérience d'achat agréable.",
       "version": "27.15.0",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Complète\nRecherchez et achetez des produits, obtenez des informations détaillées, lisez des avis et faites votre choix parmi les millions de produits proposés par Amazon.fr ou amazon.com.be et par d'autres vendeurs.\n \nPratique\nConnectez-vous avec votre compte Amazon déjà existant pour accéder à votre panier et à vos options de paiement et de livraison. Pas besoin de créer de nouveau compte pour gérer vos paramètres de commande 1-Click et vos listes d'envie, suivre vos commandes et utiliser vos avantages Premium/ Prime. Faites vos achats aussi facilement que sur Internet.\n \nRapide\nComparez les prix et vérifiez la disponibilité d'un produit instantanément en scannant un code-barres, en prenant une photo ou en saisissant votre recherche. Les utilisateurs de l’Apple Watch peuvent à présent utiliser la reconnaissance vocale pour rechercher des produits, acheter en 1-Click et ajouter des idées à leur Liste d’envies sur leur montre.\n \nSûre\nTous les paiements passent par les serveurs sécurisés d'Amazon.\n \nUniverselle\nFaites vos achats sur Amazon.co.uk, Amazon.de, Amazon.fr, Amazon.com, Amazon.it, Amazon.cn, Amazon.co.jp ou amazon.com.be depuis une même application.\n\nEn utilisant cette app, vous acceptez les Conditions générales de vente d’Amazon (www.amazon.fr/conditionsofuse ou www.amazon.com.be/conditionsofuse). Veuillez consulter notre Notice Protection de vos informations personnelles (www.amazon.fr/privacynotice ou www.amazon.com.be/privacynotice), notre Notice Cookies (www.amazon.fr/cookies ou www.amazon.com.be/cookies) et notre Notice Annonces publicitaires basées sur vos centres d’intérêt (www.amazon.fr/interestbasedads ou www.amazon.com.be/interestbasedads).\n\nSi votre appareil prend en charge la technologie TrueDepth, l’application en utilisera l’appareil photo pour détecter les mouvements de votre visage uniquement lorsque vous utilisez certaines fonctionnalités telles que des produits essayés virtuellement comme des lunettes de soleil. Toutes les informations traitées à l’aide de cette technologie restent sur votre appareil et ne sont pas stockées, traitées ou partagées par Amazon.",
       "bundleId": "com.amazon.AmazonFR",
-      "averageUserRating": 4.68482,
       "trackCensoredName": "Amazon FR",
       "trackViewUrl": "https://apps.apple.com/fr/app/amazon-fr/id358861688?uo=4",
       "contentAdvisoryRating": "4+",
-      "artistId": 335187486,
-      "artistName": "Amazon",
-      "userRatingCount": 294593,
+      "averageUserRating": 4.6848,
+      "sellerName": "Amazon Europe Core SARL",
+      "userRatingCount": 294613,
       "country": "FRA"
     }
   ]

@@ -256,9 +256,6 @@
       "artistViewUrl": "https://apps.apple.com/us/developer/google/id281956209?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/97/c3/0e97c373-a816-fb50-532f-6b1a6f46c361/logo_home_app_color-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/97/c3/0e97c373-a816-fb50-532f-6b1a6f46c361/logo_home_app_color-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/100x100bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -406,11 +403,16 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b5/79/3d/b5793dcb-5f14-22ab-5045-a76f3606e004/APP_IPHONE_55-3.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d4/c3/30/d4c33099-17c6-e502-025b-e762b6f1853b/APP_IPHONE_55-4.png/392x696bb.png"
       ],
-      "minimumOsVersion": "17.4",
-      "averageUserRating": 4.55898,
-      "trackCensoredName": "Google Home",
+      "features": [
+        "iosUniversal"
+      ],
+      "fileSizeBytes": "631191552",
+      "formattedPrice": "Free",
+      "averageUserRating": 4.55891,
       "trackViewUrl": "https://apps.apple.com/us/app/google-home/id680819774?uo=4",
       "contentAdvisoryRating": "4+",
+      "trackCensoredName": "Google Home",
+      "minimumOsVersion": "17.4",
       "artistId": 281956209,
       "artistName": "Google",
       "genres": [
@@ -418,20 +420,16 @@
         "Entertainment"
       ],
       "price": 0,
-      "bundleId": "com.google.Chromecast",
-      "primaryGenreName": "Lifestyle",
-      "primaryGenreId": 6012,
+      "releaseNotes": "New in this update:\n  We improve the app with new features, improvements and bug fixes each release.",
       "genreIds": [
         "6012",
         "6016"
       ],
       "sellerName": "Google LLC",
       "releaseDate": "2013-08-27T05:50:51Z",
-      "isVppDeviceBasedLicensingEnabled": true,
       "trackId": 680819774,
       "trackName": "Google Home",
       "currentVersionReleaseDate": "2026-08-26T07:15:16Z",
-      "releaseNotes": "New in this update:\n  We improve the app with new features, improvements and bug fixes each release.",
       "version": "4.27.25",
       "wrapperType": "software",
       "currency": "USD",
@@ -494,12 +492,14 @@
         "UK",
         "VI"
       ],
-      "fileSizeBytes": "631191552",
-      "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 1354879,
+      "userRatingCountForCurrentVersion": 1355390,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.55898,
-      "userRatingCount": 1354879,
+      "averageUserRatingForCurrentVersion": 4.55891,
+      "bundleId": "com.google.Chromecast",
+      "primaryGenreName": "Lifestyle",
+      "primaryGenreId": 6012,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "userRatingCount": 1355390,
       "country": "USA"
     }
   ]

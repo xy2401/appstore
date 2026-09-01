@@ -231,9 +231,6 @@
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/14/c7/3814c7f9-57d3-093f-2c65-31756e6cdcce/AppIcon-1x_U007emarketing-0-8-0-sRGB-0-85-220-0.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/14/c7/3814c7f9-57d3-093f-2c65-31756e6cdcce/AppIcon-1x_U007emarketing-0-8-0-sRGB-0-85-220-0.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -386,12 +383,14 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/14/c7/3814c7f9-57d3-093f-2c65-31756e6cdcce/AppIcon-1x_U007emarketing-0-8-0-sRGB-0-85-220-0.png/512x512bb.jpg",
-      "contentAdvisoryRating": "4+",
+      "features": [
+        "iosUniversal"
+      ],
+      "minimumOsVersion": "17.0",
       "trackCensoredName": "FedEx Mobile",
       "trackViewUrl": "https://apps.apple.com/us/app/fedex-mobile/id1010729050?uo=4",
-      "averageUserRating": 4.59903,
-      "minimumOsVersion": "17.0",
-      "releaseNotes": "Thank you for choosing the FedEx Mobile app!\n\nHere are the latest updates:\n• Updated Delivery Instructions experience.\n• Refreshed shipment list with improved package prioritization.\n• Performance improvements, security updates, and bug fixes.",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.59905,
       "artistId": 304462052,
       "artistName": "FedEx",
       "genres": [
@@ -399,24 +398,24 @@
         "Reference"
       ],
       "price": 0,
-      "bundleId": "com.fedex.mobile.home",
+      "trackId": 1010729050,
+      "trackName": "FedEx Mobile",
+      "releaseDate": "2015-11-10T17:48:56Z",
       "primaryGenreName": "Business",
       "primaryGenreId": 6000,
-      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "FedEx Corporate Services, Inc.",
       "genreIds": [
         "6000",
         "6006"
       ],
-      "sellerName": "FedEx Corporate Services, Inc.",
-      "trackId": 1010729050,
-      "trackName": "FedEx Mobile",
+      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-08-10T13:02:40Z",
       "version": "7.31.0",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Ship smarter. Track easier. Manage better.\n\nTake control of your deliveries with the FedEx® Mobile app — designed for convenience and compatible with Apple Watch.\n\nTrack Your Packages\n\nEnroll in FedEx Delivery Manager® to personalize your delivery experience*\nView packages in real time with an interactive map*\nPlace a hold at a nearby FedEx location or set a vacation hold*\nAdd delivery instructions for your driver*\nSign for packages directly from your iPhone*\nReceive push notifications for instant updates*\nSee photo proof of delivery or missed attempts*\nView your driver’s name and photo*\nAdd a tracking widget to your home screen\nScan door tags for quick access to delivery options*\n\nShip with Ease\n\nCreate domestic or international shipping labels - print from your phone or use a QR code to print at FedEx**\nUse your iPhone to measure packages for accurate rates\nGet real-time shipping rates\nSchedule and manage pickups with ease**\n\nMaximize Your Experience\n\nEnable permissions for Face ID, Location, Camera, and Push Notifications to unlock full functionality - including easy login, nearby drop-off searches, barcode scanning, package measuring, and instant status alerts.\n\n\n*Available in select regions\n**Shipping administration rules apply",
-      "averageUserRatingForCurrentVersion": 4.59903,
       "sellerUrl": "http://mobilesolutions.fedex.com/for-ios",
+      "averageUserRatingForCurrentVersion": 4.59905,
       "languageCodesISO2A": [
         "AR",
         "BG",
@@ -455,10 +454,11 @@
       ],
       "fileSizeBytes": "319597568",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 397188,
+      "userRatingCountForCurrentVersion": 397207,
       "trackContentRating": "4+",
-      "releaseDate": "2015-11-10T17:48:56Z",
-      "userRatingCount": 397188,
+      "bundleId": "com.fedex.mobile.home",
+      "releaseNotes": "Thank you for choosing the FedEx Mobile app!\n\nHere are the latest updates:\n• Updated Delivery Instructions experience.\n• Refreshed shipment list with improved package prioritization.\n• Performance improvements, security updates, and bug fixes.",
+      "userRatingCount": 397207,
       "country": "USA"
     }
   ]

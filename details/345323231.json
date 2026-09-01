@@ -228,7 +228,12 @@
       "userRatingCount": 291659
     },
     {
-      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
+      "artistViewUrl": "https://apps.apple.com/us/developer/microsoft-corporation/id298856275?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/de/81/f1de81c5-4d91-74d9-8cd6-95c72bdf1ea4/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/de/81/f1de81c5-4d91-74d9-8cd6-95c72bdf1ea4/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1b/13/b9/1b13b975-a5e3-2e1e-4738-cf06a2a088e1/EN-US_iOS_1290-2796_01.jpg/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ae/35/e2/ae35e2ad-c8f4-cded-f1e4-ffc2bc6c4589/EN-US_iOS_1290-2796_02.jpg/320x480bb.jpg",
@@ -248,16 +253,11 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/de/81/f1de81c5-4d91-74d9-8cd6-95c72bdf1ea4/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "isGameCenterEnabled": false,
       "advisories": [
         "Unrestricted Web Access"
       ],
-      "features": [
-        "iosUniversal"
-      ],
       "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/us/developer/microsoft-corporation/id298856275?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/de/81/f1de81c5-4d91-74d9-8cd6-95c72bdf1ea4/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/de/81/f1de81c5-4d91-74d9-8cd6-95c72bdf1ea4/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -387,9 +387,12 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "releaseNotes": "Introducing Copilot Search in Bing. A new way to search that delivers fast, intelligently curated answers and makes it easier than ever to discover more.",
+      "bundleId": "com.microsoft.bing",
+      "trackCensoredName": "Microsoft Bing Search",
+      "trackViewUrl": "https://apps.apple.com/us/app/microsoft-bing-search/id345323231?uo=4",
+      "contentAdvisoryRating": "17+",
+      "averageUserRating": 4.74723,
       "averageUserRatingForCurrentVersion": 4.74723,
-      "sellerUrl": "https://www.microsoft.com/bing/search-app-desktop",
       "languageCodesISO2A": [
         "AR",
         "BN",
@@ -435,8 +438,9 @@
       ],
       "fileSizeBytes": "272453632",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 294419,
+      "userRatingCountForCurrentVersion": 294515,
       "trackContentRating": "17+",
+      "sellerUrl": "https://www.microsoft.com/bing/search-app-desktop",
       "artistId": 298856275,
       "artistName": "Microsoft Corporation",
       "genres": [
@@ -444,29 +448,25 @@
         "Utilities"
       ],
       "price": 0,
-      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseNotes": "Introducing Copilot Search in Bing. A new way to search that delivers fast, intelligently curated answers and makes it easier than ever to discover more.",
       "releaseDate": "2009-12-16T00:31:30Z",
-      "bundleId": "com.microsoft.bing",
-      "genreIds": [
-        "6007",
-        "6002"
-      ],
+      "primaryGenreName": "Productivity",
+      "primaryGenreId": 6007,
+      "sellerName": "Microsoft Corporation",
+      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-08-24T16:28:21Z",
       "version": "34.0.440824001",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Microsoft Bing delivers fast, intelligently curated answers and makes it easier than ever to discover more. \n\nIntroducing Copilot Search in Bing\nCopilot Search in Bing brings AI to search where clear answers and key information are quickly curated at the top of your search results. Kickstart your next discovery with a new search to unlock the possibilities of where your curiosity can take you.\n\nUnlock answers faster \nCopilot Search in Bing brings intelligence to search so you can spend less time searching and more time discovering. Depending on your query, you’ll get an easy-to-scan layout of information, a summary of the most critical points, or a clear answer. No more hunting across the web.\n\nExplore deeper \nNeed to dive deeper? The next answer or new angle is waiting for you with helpful web links and clickable follow-up topics. It brings the best of traditional and generative search together to help you find what you need – and discover more.\n\nDiscover confidently\nPerfect for when you want to go heads-down to write a paper, learn something new, explore a passion project, or simply let your curiosity wonder. Choose from a variety of suggested queries to start your journey or simply start a new search to harness the power of AI to get curated results. \n\nTry Copilot Search in Bing today!\n\nAll the highlights\n\nNew homepage: Stay updated on topics you're following, and get quick access to Microsoft features\nCopilot Search in Bing: Seamlessly find a topic to explore within your everyday search flow\nImage Creator: Create images from words with AI\nVisual search: Search right from your camera or by uploading a picture\nVoice search: Tap the mic icon and use your voice to search\nMicrosoft Rewards: Earn more rewards is easy, simple, and fun. Just search with the Microsoft Bing app and you’ll earn faster than ever\nWeather: See the forecast for today and the week ahead\nWallpaper: Pick from a collection of beautiful images featured on the Bing homepage\n\nFunctions mentioned above not available in all markets, actual features and display contents may vary.",
       "minimumOsVersion": "18.0",
-      "trackCensoredName": "Microsoft Bing Search",
-      "trackViewUrl": "https://apps.apple.com/us/app/microsoft-bing-search/id345323231?uo=4",
-      "contentAdvisoryRating": "17+",
-      "averageUserRating": 4.74723,
-      "trackId": 345323231,
+      "genreIds": [
+        "6007",
+        "6002"
+      ],
       "trackName": "Microsoft Bing Search",
-      "primaryGenreName": "Productivity",
-      "primaryGenreId": 6007,
-      "sellerName": "Microsoft Corporation",
-      "userRatingCount": 294419,
+      "trackId": 345323231,
+      "userRatingCount": 294515,
       "country": "USA"
     }
   ]

@@ -2,8 +2,8 @@
   "resultCount": 1,
   "results": [
     {
-      "features": [],
       "isGameCenterEnabled": false,
+      "features": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -136,6 +136,9 @@
       ],
       "advisories": [],
       "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/fr/developer/atlum-limited/id1508897591?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/e9/00/42e9008e-e0a2-c6b5-9291-b3abd2863820/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/e9/00/42e9008e-e0a2-c6b5-9291-b3abd2863820/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0e/7a/78/0e7a7885-b894-a71c-db0c-0649f0c6f06a/39bb99fa-5253-41fd-a230-8d648b31b795_PNG_image-4A0D-88EB-A0-0.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/68/7e/1b/687e1b0b-19c2-2b44-b587-176253534fc0/a69d0039-8823-4b8e-812a-621ee831c8d5_PNG_image-4A0D-88EB-A0-1.png/392x696bb.png",
@@ -151,35 +154,29 @@
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/e9/00/42e9008e-e0a2-c6b5-9291-b3abd2863820/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/fr/developer/atlum-limited/id1508897591?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/e9/00/42e9008e-e0a2-c6b5-9291-b3abd2863820/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/e9/00/42e9008e-e0a2-c6b5-9291-b3abd2863820/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/100x100bb.jpg",
       "minimumOsVersion": "16.0",
-      "artistId": 1508897591,
-      "artistName": "Atlum Limited",
+      "bundleId": "com.danfordham.videwatch",
       "genres": [
         "Photo et vidéo",
         "Musique"
       ],
+      "artistId": 1508897591,
+      "artistName": "Atlum Limited",
       "price": 1.99,
-      "bundleId": "com.danfordham.videwatch",
-      "releaseDate": "2019-12-10T08:00:00Z",
-      "releaseNotes": "● Bug fixes",
-      "trackName": "Videwatch",
-      "trackId": 1489041267,
-      "genreIds": [
-        "6008",
-        "6011"
-      ],
-      "primaryGenreName": "Photo & Video",
-      "primaryGenreId": 6008,
       "sellerName": "Atlum Limited",
+      "releaseDate": "2019-12-10T08:00:00Z",
       "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-02-23T03:25:17Z",
+      "releaseNotes": "● Bug fixes",
       "version": "8.5.0",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Videwatch is a dedicated Apple Watch media player.\n\n● Play videos & audio at high quality\n● Play offline at any time\n● Use the Apple Watch speaker or headphones\n● Play all & shuffle options\n● Resume playback from last position\n● Organize with folders\n● Now Playing app support\n● Add podcasts & audiobooks\n● Play directly from your watch faces\n● Sort by recently played, name, duration, or when added\n● Choose from four different display options\n● Fast forward or rewind videos, by tapping the player progress bar\n\nAdd media:\n● From iPhone, iCloud, Google Drive, Dropbox, & more sources\n● Using a url (YouTube not currently supported)\n● From other apps, such as Photos and Mail\n\nVideo supported:\n● MP4, MOV, M4V\n\nFor audio we recommend our dedicated audio app WatchAudio.\n\nAudio files supported:\n● MP3, M4A, AAC, WAV, AIF, AIFF, AU, CAF, FLAC\n● M4B (audiobooks non-protected)",
+      "trackCensoredName": "Videwatch",
+      "trackViewUrl": "https://apps.apple.com/fr/app/videwatch/id1489041267?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.7,
+      "averageUserRatingForCurrentVersion": 4.7,
       "languageCodesISO2A": [
         "EN",
         "JA",
@@ -189,11 +186,14 @@
       "formattedPrice": "1,99 €",
       "userRatingCountForCurrentVersion": 20,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.7,
-      "trackCensoredName": "Videwatch",
-      "trackViewUrl": "https://apps.apple.com/fr/app/videwatch/id1489041267?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.7,
+      "genreIds": [
+        "6008",
+        "6011"
+      ],
+      "trackId": 1489041267,
+      "trackName": "Videwatch",
+      "primaryGenreName": "Photo & Video",
+      "primaryGenreId": 6008,
       "userRatingCount": 20,
       "country": "FRA"
     }

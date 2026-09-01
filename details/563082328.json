@@ -186,6 +186,7 @@
     },
     {
       "isGameCenterEnabled": false,
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -315,11 +316,10 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "advisories": [],
+      "features": [
+        "iosUniversal"
+      ],
       "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/us/developer/lynnfield-llc/id563082511?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/31/ef/1931ef6a-22b6-7e91-efe1-d85c900bf3e7/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/31/ef/1931ef6a-22b6-7e91-efe1-d85c900bf3e7/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/34/83/4a/34834a92-ffa6-8a11-a3e1-a003dac1bca6/iPhone_17_Pro_Max-1-Main.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a6/2e/6e/a62e6efc-8a1c-3351-d830-3cc0e5234f99/iPhone_17_Pro_Max-2-ProfileList.png/320x480bb.jpg",
@@ -342,26 +342,21 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/31/ef/1931ef6a-22b6-7e91-efe1-d85c900bf3e7/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
+      "artistViewUrl": "https://apps.apple.com/us/developer/lynnfield-llc/id563082511?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/31/ef/1931ef6a-22b6-7e91-efe1-d85c900bf3e7/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/31/ef/1931ef6a-22b6-7e91-efe1-d85c900bf3e7/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+      "minimumOsVersion": "15.0",
+      "price": 5.99,
       "genres": [
         "Finance",
         "Reference"
       ],
       "artistId": 563082511,
       "artistName": "LYNNFIELD LLC",
-      "price": 5.99,
       "genreIds": [
         "6015",
         "6006"
       ],
-      "releaseDate": "2012-09-26T02:26:31Z",
-      "trackId": 563082328,
-      "trackName": "Military Retirement",
-      "sellerName": "LYNNFIELD LLC",
-      "primaryGenreName": "Finance",
-      "primaryGenreId": 6015,
       "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-04-26T02:56:16Z",
       "releaseNotes": "• Fixes a misspelling\n• Other minor fixes and improvements",
@@ -369,21 +364,26 @@
       "wrapperType": "software",
       "currency": "USD",
       "description": "Military Retirement is a stand alone application intended to assist military personnel from all branches of military service by informing them of their benefits upon retirement from military service. Military Retirement gives assistance by calculating an estimation of retirement pay based on the data you enter. This data is secure and does not leave your device and is not tracked in any way. Military Retirement incorporates highly detailed algorithms to calculate your retirement pay to the highest level of accuracy possible. Compare multiple scenario options to determine which retirement option is best for you. \n\nNo login required. No personally identifying information to enter. No demographic tracking of who you are. No spam.\n\nMilitary Retirement works for Active Duty and Reserve/Guard for the following types of retirement plans: Final Pay, High-3, BRS, and CSB/REDUX personnel. \n\nSpecifically, Military Retirement will calculate\n• RETIREMENT PAY : Based on Rank, Years and Months of Service, and Date of Retirement. Also works for time in rank of less than 3 years.\n• SURVIVOR BENEFIT PLAN : Benefit and Premium\n• TRICARE MEDICAL INSURANCE : Options and Premium\n• DISABILITY PAY : Based on disability rating\n• VETERANS GROUP LIFE INSURANCE : Coverage and Premium\n• FEDERAL TAXES : Based on filing status\n\n** Note **\nInformation provided by Military Retirement should be used for educational and initial informative purposes only. Should not be used to plan retirement budget, as actual financial figures may slightly differ.\nMilitary Retirement supports retirement dates from 2012 onwards.\n\nLynnfield LLC is disabled-veteran owned.",
-      "trackCensoredName": "Military Retirement",
-      "trackViewUrl": "https://apps.apple.com/us/app/military-retirement/id563082328?uo=4",
-      "contentAdvisoryRating": "4+",
+      "bundleId": "com.LynnField.MilitaryRetire",
+      "averageUserRatingForCurrentVersion": 4.85157,
       "languageCodesISO2A": [
         "EN"
       ],
       "fileSizeBytes": "3262464",
       "formattedPrice": "$5.99",
-      "userRatingCountForCurrentVersion": 13619,
+      "userRatingCountForCurrentVersion": 13623,
       "trackContentRating": "4+",
-      "averageUserRating": 4.85175,
-      "averageUserRatingForCurrentVersion": 4.85175,
-      "bundleId": "com.LynnField.MilitaryRetire",
-      "minimumOsVersion": "15.0",
-      "userRatingCount": 13619,
+      "averageUserRating": 4.85157,
+      "trackCensoredName": "Military Retirement",
+      "trackViewUrl": "https://apps.apple.com/us/app/military-retirement/id563082328?uo=4",
+      "contentAdvisoryRating": "4+",
+      "primaryGenreName": "Finance",
+      "primaryGenreId": 6015,
+      "releaseDate": "2012-09-26T02:26:31Z",
+      "trackName": "Military Retirement",
+      "trackId": 563082328,
+      "sellerName": "LYNNFIELD LLC",
+      "userRatingCount": 13623,
       "country": "USA"
     }
   ]

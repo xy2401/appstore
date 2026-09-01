@@ -186,10 +186,10 @@
       "userRatingCount": 384
     },
     {
+      "isGameCenterEnabled": false,
       "artistViewUrl": "https://apps.apple.com/de/developer/techet/id401457168?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f0/c6/2f/f0c62fd0-b899-9c48-4a3b-0df4e9ab40c9/AppIcon-0-0-1x_U007epad-0-8-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f0/c6/2f/f0c62fd0-b899-9c48-4a3b-0df4e9ab40c9/AppIcon-0-0-1x_U007epad-0-8-0-85-220.png/100x100bb.jpg",
-      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -324,7 +324,6 @@
       ],
       "advisories": [],
       "kind": "software",
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f0/c6/2f/f0c62fd0-b899-9c48-4a3b-0df4e9ab40c9/AppIcon-0-0-1x_U007epad-0-8-0-85-220.png/512x512bb.jpg",
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/04/e2/39/04e23977-f12c-e541-a960-3edf5f5937ea/na1.png/360x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d7/0c/e1/d70ce1f2-cf7b-190b-f788-8b0c9a18f229/na2.png/360x480bb.jpg",
@@ -337,6 +336,8 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/91/57/3a/91573a63-329a-82e0-41e2-71cd73cd9b3f/4.png/360x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/96/c8/6c/96c86c3b-bb8c-feb2-c4c3-ed60b943e08e/5.png/360x480bb.jpg"
       ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f0/c6/2f/f0c62fd0-b899-9c48-4a3b-0df4e9ab40c9/AppIcon-0-0-1x_U007epad-0-8-0-85-220.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1e/c7/c6/1ec7c632-b585-7978-d4e6-f9b28875450a/1.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/16/10/2c/16102c2f-afaf-2a5b-8d8e-54bd6039472e/2.png/320x480bb.jpg",
@@ -346,46 +347,45 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/10/93/55/10935540-ed5e-4e94-2da1-be04cdd6676f/6.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c5/42/2a/c5422ab7-40d6-82ea-0925-26e8762f6b0e/7.png/320x480bb.jpg"
       ],
-      "appletvScreenshotUrls": [],
       "averageUserRating": 4.7735,
       "trackCensoredName": "Network Analyzer Pro: IP Tools",
       "trackViewUrl": "https://apps.apple.com/de/app/network-analyzer-pro-ip-tools/id557405467?uo=4",
       "contentAdvisoryRating": "4+",
       "artistId": 401457168,
       "artistName": "Techet",
+      "genres": [
+        "Dienst­programme",
+        "Produktivität"
+      ],
+      "price": 3.99,
       "trackId": 557405467,
       "trackName": "Network Analyzer Pro: IP Tools",
-      "releaseDate": "2012-09-18T22:22:06Z",
       "genreIds": [
         "6002",
         "6007"
       ],
       "primaryGenreName": "Utilities",
       "primaryGenreId": 6002,
-      "sellerName": "Jiri Techet",
+      "releaseDate": "2012-09-18T22:22:06Z",
       "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "Jiri Techet",
       "currentVersionReleaseDate": "2026-08-11T18:28:10Z",
       "releaseNotes": "- add TCP ping, audiable ping, and \"don't fragment\" support for determining MTU\n- improve NAT64 network support for external IP, ping and traceroute\n- add DNS +norec flag\n- support SVCB/HTTPS record types \n- add modern RDAP-based whois\n- add SNMP name resolution in LAN scanner\n- move Bonjour/UPnP to LAN page for easier navigation\n- add app shortcuts (Siri) support\n- add control center actions\n- add Safari extension allowing to launch the app and query the visited page\n- various speed tester reliability fixes\n- add Settings shortcut to the About page\n- lots of cleanups, bug fixes and internal modernization of the app",
       "version": "9.1",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Network Analyzer Pro is a complete network toolkit that turns your iPhone or iPad into a powerful diagnostic instrument. Whether you are troubleshooting a slow connection, tracking down unknown devices on your network, or exploring how the internet routes your traffic, it puts a professional-grade set of tools right in your pocket - no desktop or extra hardware required.\n\nDiscover and identify every device connected to your LAN, watch your traceroute unfold on a world map, measure your real download and upload speeds, and diagnose any host with ping, traceroute, port scanning, DNS lookup, and whois. From curious home users to IT professionals who depend on fast, accurate results every day, Network Analyzer Pro delivers everything you need in one polished app.\n\nLAN scanner:\n- Fast and reliable detection of all network devices (Wi-Fi & VPN)\n- IP addresses of all discovered devices\n- NetBIOS, mDNS (Bonjour), LLMNR, DNS, and SNMP name where available\n- Reachability (ping) test of discovered devices\n- IPv6 availability and discovered IPv6 addresses\n- Custom device names, scan history, and favorites\n- Device quick actions: open the web interface, browse the device's Bonjour and UPnP services, or wake it up\n- Wake on LAN (WOL) including remote WOL\n- Scan of custom IP ranges\n- Filtering and search in the discovered device list\n\nPing & traceroute:\n- Round-trip delay including IP address and hostname for every network node\n- Selectable ICMP, UDP, and TCP ping\n- Configurable probe delay, payload size, TCP port, and don't-fragment flag\n- Audible ping\n- Geolocation data including latitude, longitude, country, city, and time zone\n- AS number and network name information\n- Complete traceroute visualization on the map\n- Graphical ping statistics updated in real time\n- Configurable ICMP/UDP probes and probe delays for traceroute\n- Both IPv4 and IPv6 - selectable\n\nPort scanner:\n- Scan common ports, custom port ranges, or the complete port range\n- Detection of closed, firewalled, and open ports\n- Description of the known open port services\n- User-editable common port list\n- Adjustable scan rate\n- Both IPv4 and IPv6 - selectable\n\nWhois:\n- Look up domains, IP addresses, and AS numbers\n- Support for both classic whois and the modern RDAP protocol\n- Custom whois and RDAP servers\n\nDNS lookup:\n- Functionality similar to nslookup or dig\n- Query all record types at once or one specific type\n- Support for A, AAAA, CAA, CNAME, HINFO, LOC, MX, NAPTR, NS, PTR, SOA, SPF, SRV, SSHFP, TXT records\n- Decoding and showing DNSSEC records such as DNSKEY, CDNSKEY, RRSIG, NSEC3PARAM, NSEC, NSEC3, DS, CDS, TLSA\n- Custom DNS server and port\n- Options to disable recursion and show all response sections\n\nInternet speed:\n- Test of both download and upload speeds\n- Graphical speed test view\n- Speed test history\n\nNetwork information:\n- Default gateway, external IP (v4 and v6), DNS server, HTTP proxy\n- External IP hostname, AS number, and AS name\n- Wi-Fi network information such as SSID, BSSID, router vendor, security type, IP address, and subnet mask\n- VPN, USB Ethernet, and personal hotspot connection details\n- Cell network information such as network type, with dual SIM support\n- Monitor of Wi-Fi, cell, and VPN data usage (both sent and received data since the last boot)\n\nLocal service discovery:\n- Bonjour service browser\n- UPnP/DLNA service and device browser\n\nSiri, Shortcuts, and controls:\n- Siri, Spotlight, and Shortcuts app support for every tool\n- Control Center, Lock Screen, and Action button controls\n- Share extension: query any website straight from Safari's share sheet\n- Home screen quick actions\n\nMore:\n- Light and dark theme\n- Full IPv6 support everywhere\n- History of all performed tasks with the ability to star favorites\n- Export by email, AirPrint, and AirDrop for most tools\n- Copy/paste support\n- Detailed help\n- Regular updates",
-      "bundleId": "net.techet.netanalyzer",
-      "minimumOsVersion": "18.0",
-      "fileSizeBytes": "12039168",
-      "formattedPrice": "3,99 €",
-      "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.7735,
+      "sellerUrl": "https://techet.net/netanalyzer",
       "languageCodesISO2A": [
         "EN"
       ],
-      "sellerUrl": "https://techet.net/netanalyzer",
+      "fileSizeBytes": "12039168",
+      "formattedPrice": "3,99 €",
       "userRatingCountForCurrentVersion": 2053,
-      "genres": [
-        "Dienst­programme",
-        "Produktivität"
-      ],
-      "price": 3.99,
+      "trackContentRating": "4+",
+      "averageUserRatingForCurrentVersion": 4.7735,
+      "bundleId": "net.techet.netanalyzer",
+      "minimumOsVersion": "18.0",
       "userRatingCount": 2053,
       "country": "DEU"
     },

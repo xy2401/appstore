@@ -213,9 +213,6 @@
       "userRatingCount": 2708
     },
     {
-      "artistViewUrl": "https://apps.apple.com/us/developer/base-velocity-llc/id288419286?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/61/65/5e/61655e7b-4669-22e7-baaf-cbc7fd9a0458/App_Icon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/61/65/5e/61655e7b-4669-22e7-baaf-cbc7fd9a0458/App_Icon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
@@ -351,6 +348,7 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
+      "advisories": [],
       "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ab/4a/fa/ab4afae8-b54c-2126-44b7-fc7e6f7b4117/612b49b8-dfe5-421a-a40c-558f50bde688_1.png/392x696bb.png",
@@ -377,51 +375,53 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bb/e9/bb/bbe9bbe4-6ec3-d984-5ff2-3b02ed6566d0/593d4c7e-f0f2-4dc3-8844-a6007964bf4e_10.png/576x768bb.png"
       ],
       "appletvScreenshotUrls": [],
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/61/65/5e/61655e7b-4669-22e7-baaf-cbc7fd9a0458/App_Icon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/60x60bb.jpg",
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/61/65/5e/61655e7b-4669-22e7-baaf-cbc7fd9a0458/App_Icon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/512x512bb.jpg",
-      "advisories": [],
-      "formattedPrice": "$9.99",
-      "fileSizeBytes": "348157952",
-      "averageUserRating": 4.16465,
-      "trackCensoredName": "RadarScope",
-      "trackViewUrl": "https://apps.apple.com/us/app/radarscope/id288419283?uo=4",
-      "contentAdvisoryRating": "4+",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/61/65/5e/61655e7b-4669-22e7-baaf-cbc7fd9a0458/App_Icon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/us/developer/base-velocity-llc/id288419286?uo=4",
+      "releaseNotes": "New for Everyone:\n• Added localizations for more warning impact tags\n• Added labels for TDWR hazardous and monitor modes\n• Optimized download requests when switching radars\n• Optimized receipt validation process\n• Updated highway layer\n• Improved handling of radar download errors\n• Improved error message when restoring purchases\n• Improved date formatting on shared images\n• Improved loop exporting\n• Fixed a bug that incorrectly displayed some wind impact tags\n• Fixed incorrect wind speeds in some warning impact tags\n• Fixed a watchOS bug that entered full screen mode when panning\n• Fixed a macOS bug where the navigation back button was not always visible\n• Fixed some truncated labels on watchOS\n• Fixed a bug that caused the detail view toolbar to flash\n• Fixed a bug that prevented detail views from loading radar data\n• Fixed a bug that applied the wrong style to detail view text\n• Fixed various missing localizations\n\nNew for Pro Tier One:\n• Added day three probabilistic outlook category\n• Improved rendering of outlook CIGs\n• Fixed a bug that caused outlooks to blink when switching types\n• Fixed a bug that caused dual-pane mode to use the wrong screen orientation\n\nNew for Pro Tier Two:\n• Updated street maps with optimized caching\n• GFS forecast products\n• HRRR forecast products\n• HRW-ARW forecast products\n• HRW-FV3 forecast products\n• NAM-CONUS forecast products\n• NAM-12km forecast products\n• ECMWF HRES forecast products\n• Optimized performance of MRMS, RTMA, and GOES products\n• Optimized download of sounding data\n• Updated sea-level pressure color table and range\n• Updated color palettes for dewpoint, visibility, and cloud cover\n• Updated color palette ranges for some GOES products\n• Increased maximum loop frames for tiled products to 40 frames\n• Fixed incorrect tilt name for certain L2 products\n• Fixed a unit conversion bug for MRMS precip rate\n• Fixed a tile loading bug when zooming on watchOS\n• Fixed a bug where Level 2 loops did not show download progress\n• Fixed a bug in sounding calculations for most unstable parcel\n• Fixed a bug in the sounding time picker\n• Fixed a bug with the soudning sharing feature\n• New for Weather Pulse Subscribers:\n• GFS forecast products\n• HRRR forecast products\n• HRW-ARW forecast products\n• HRW-FV3 forecast products\n• NAM-CONUS forecast products\n• NAM-12km forecast products\n• ECMWF HRES forecast products\n• Optimized performance of MRMS, RTMA, and GOES products\n• Updated sea-level pressure color table and range\n• Updated color palettes for dewpoint, visibility, and cloud cover\n• Updated color palette ranges for some GOES products\n• Increased maximum loop frames for tiled products to 40 frames\n• Fixed an MRMS precip rate bug\n• Fixed a unit conversion bug for MRMS precip rate\n• Fixed a tile loading bug when zooming on watchOS",
+      "price": 9.99,
+      "bundleId": "com.basevelocity.RadarScope",
       "artistId": 288419286,
       "artistName": "Base Velocity, LLC",
-      "genres": [
-        "Weather",
-        "Utilities"
-      ],
-      "price": 9.99,
-      "sellerName": "Base Velocity, LLC",
-      "bundleId": "com.basevelocity.RadarScope",
-      "releaseDate": "2019-02-12T08:00:00Z",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "primaryGenreName": "Weather",
-      "primaryGenreId": 6001,
       "genreIds": [
         "6001",
         "6002"
       ],
+      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "Base Velocity, LLC",
+      "releaseDate": "2019-02-12T08:00:00Z",
       "trackId": 288419283,
       "trackName": "RadarScope",
       "currentVersionReleaseDate": "2026-08-12T16:31:01Z",
-      "releaseNotes": "New for Everyone:\n• Added localizations for more warning impact tags\n• Added labels for TDWR hazardous and monitor modes\n• Optimized download requests when switching radars\n• Optimized receipt validation process\n• Updated highway layer\n• Improved handling of radar download errors\n• Improved error message when restoring purchases\n• Improved date formatting on shared images\n• Improved loop exporting\n• Fixed a bug that incorrectly displayed some wind impact tags\n• Fixed incorrect wind speeds in some warning impact tags\n• Fixed a watchOS bug that entered full screen mode when panning\n• Fixed a macOS bug where the navigation back button was not always visible\n• Fixed some truncated labels on watchOS\n• Fixed a bug that caused the detail view toolbar to flash\n• Fixed a bug that prevented detail views from loading radar data\n• Fixed a bug that applied the wrong style to detail view text\n• Fixed various missing localizations\n\nNew for Pro Tier One:\n• Added day three probabilistic outlook category\n• Improved rendering of outlook CIGs\n• Fixed a bug that caused outlooks to blink when switching types\n• Fixed a bug that caused dual-pane mode to use the wrong screen orientation\n\nNew for Pro Tier Two:\n• Updated street maps with optimized caching\n• GFS forecast products\n• HRRR forecast products\n• HRW-ARW forecast products\n• HRW-FV3 forecast products\n• NAM-CONUS forecast products\n• NAM-12km forecast products\n• ECMWF HRES forecast products\n• Optimized performance of MRMS, RTMA, and GOES products\n• Optimized download of sounding data\n• Updated sea-level pressure color table and range\n• Updated color palettes for dewpoint, visibility, and cloud cover\n• Updated color palette ranges for some GOES products\n• Increased maximum loop frames for tiled products to 40 frames\n• Fixed incorrect tilt name for certain L2 products\n• Fixed a unit conversion bug for MRMS precip rate\n• Fixed a tile loading bug when zooming on watchOS\n• Fixed a bug where Level 2 loops did not show download progress\n• Fixed a bug in sounding calculations for most unstable parcel\n• Fixed a bug in the sounding time picker\n• Fixed a bug with the soudning sharing feature\n• New for Weather Pulse Subscribers:\n• GFS forecast products\n• HRRR forecast products\n• HRW-ARW forecast products\n• HRW-FV3 forecast products\n• NAM-CONUS forecast products\n• NAM-12km forecast products\n• ECMWF HRES forecast products\n• Optimized performance of MRMS, RTMA, and GOES products\n• Updated sea-level pressure color table and range\n• Updated color palettes for dewpoint, visibility, and cloud cover\n• Updated color palette ranges for some GOES products\n• Increased maximum loop frames for tiled products to 40 frames\n• Fixed an MRMS precip rate bug\n• Fixed a unit conversion bug for MRMS precip rate\n• Fixed a tile loading bug when zooming on watchOS",
       "version": "5.6",
       "wrapperType": "software",
       "currency": "USD",
       "description": "RadarScope is an AMS-award-winning weather visualization tool that empowers meteorologists, public safety officials, storm spotters, and weather enthusiasts to view a full suite of single-site radar data and related severe weather products. Your initial purchase provides professional radar visualization in a fully native app, free from distracting and invasive practices, with optional subscription packages to add even more capabilities.\n\nWhether you’re scanning for a mesocyclone’s tell-tale hook echo, pinpointing the landfall of a hurricane’s eye wall, or identifying velocity couplet, hail spike, or debris ball signatures, RadarScope displays native radar data in its original radial format. You see what the radar sees almost as soon as the radar sees it, with automatic updates every two to ten minutes depending on the radar’s scanning strategy.\n\nYour initial app purchase includes the following:\n\n• Full suite of single-site radar products for the US, Canada, Guam, Denmark, Finland, and Germany\n• 6-frame radar loops\n• Two built-in providers for radar data\n• Tornado, thunderstorm, flash flood, marine, snow squall, extreme wind, tropical, and other warnings in the US\n• Selected severe weather warnings in Canada and Australia\n• NWS-generated storm tracks with hail, TVS, and mesocyclone attributes\n• Inspector and distance tools\n• Color palette options for radar data\n• Weather Pulse data plan integration\n• Spotter Network integration for storm and location reporting\n• mPING integration for submitting weather reports to NSSL\n• Bundled maps with political boundaries, water bodies, and major highways, optimized for low-bandwidth use\n• Support for widgets and complications\n• Universal app for Apple platforms, including Apple Watch and Apple TV\n• Family Sharing support\n\nRadarScope Pro Tier One is an optional annual subscription that adds more features for tracking severe weather:\n\n• 30-frame radar loops\n• Cloud-to-ground lightning strikes\n• Severe weather watches in the US and Canada\n• Special weather statements in the US and Canada\n• Mesoscale convective and precipitation discussions\n• SPC convective, tornado, hail, wind, and fire outlooks\n• WPC excessive rainfall outlooks in the US\n• Local storm reports in the US\n• Custom color palette support\n• Multi-pane display (2 on phones; 4 on larger devices)\n• Family Sharing support\n\nRadarScope Pro Tier Two is an optional annual or monthly subscription that transforms RadarScope into a more complete visualization tool for a larger suite of weather products, including:\n\n• Everything in Pro Tier One\n• 50-frame radar loops\n• A third provider for US radar data\n• 30-year archive of NEXRAD Level II radar data\n• 6-year archive of NEXRAD Level III data\n• 30-day archive of super-res and non-US radar data\n• 20-year archive of NWS bulletins\n• GOES satellite data\n• Multi-Radar Multi-Sensor (MRMS) data\n• Real-Time Mesoscale Assimilation (RTMA) data\n• GFS, ECMWF, HRRR, HRW, and NAM forecast model data\n• Surface observations\n• Atmospheric soundings in the US\n• Hail size, hail probability, and azimuthal shear contours with a 30-day archive\n• More detailed transportation and satellite imagery maps\n• Custom color palette support for GOES, MRMS, RTMA, and forecast products\n• Server-sent events for radar and warning updates\n• Cross-platform subscription sharing on up to 5 devices\n• Family sharing support\n\nIf you choose to buy a RadarScope Pro subscription, it will be charged to your App Store account. The subscription will be auto-renewed within 24 hours prior to the end of the current period at the same price you originally paid. Subscriptions may be managed and auto-renewal disabled via your App Store account settings after the purchase. Once purchased, the subscription cannot be canceled during the active subscription period.\n\nDTN is committed to safeguarding your privacy online. Our privacy policy is available for review at https://www.dtn.com/privacy-policy/\n\nPlease visit our web site for more information.",
-      "averageUserRatingForCurrentVersion": 4.16465,
-      "minimumOsVersion": "16.6",
       "sellerUrl": "http://www.radarscope.app",
+      "minimumOsVersion": "16.6",
+      "averageUserRating": 4.16423,
+      "trackCensoredName": "RadarScope",
       "languageCodesISO2A": [
         "EN",
         "FR",
         "DE",
         "ES"
       ],
-      "userRatingCountForCurrentVersion": 2739,
+      "fileSizeBytes": "348157952",
+      "formattedPrice": "$9.99",
+      "contentAdvisoryRating": "4+",
+      "userRatingCountForCurrentVersion": 2740,
+      "trackViewUrl": "https://apps.apple.com/us/app/radarscope/id288419283?uo=4",
       "trackContentRating": "4+",
-      "userRatingCount": 2739,
+      "averageUserRatingForCurrentVersion": 4.16423,
+      "primaryGenreName": "Weather",
+      "primaryGenreId": 6001,
+      "genres": [
+        "Weather",
+        "Utilities"
+      ],
+      "userRatingCount": 2740,
       "country": "USA"
     },
     {

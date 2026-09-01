@@ -2,7 +2,6 @@
   "resultCount": 1,
   "results": [
     {
-      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e8/be/66/e8be6655-074b-c9a6-dc3d-854b1f7b7ea7/01-cold-day.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/23/fc/cf/23fccfb6-06d4-fa8f-f3a8-f5697dd68a35/02-bedtime-tog.png/320x480bb.jpg",
@@ -14,6 +13,7 @@
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5f/34/dc/5f34dc8e-ead2-c5ae-437c-efc504a419c7/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "isGameCenterEnabled": false,
       "features": [],
       "advisories": [],
       "kind": "software",
@@ -149,6 +149,7 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
+      "averageUserRatingForCurrentVersion": 4.8,
       "fileSizeBytes": "5073920",
       "formattedPrice": "£1.99",
       "userRatingCountForCurrentVersion": 5,
@@ -157,22 +158,24 @@
       "languageCodesISO2A": [
         "EN"
       ],
-      "averageUserRatingForCurrentVersion": 4.8,
+      "minimumOsVersion": "26.0",
       "genres": [
         "Lifestyle",
         "Weather"
       ],
       "artistId": 1692581235,
       "artistName": "Opticode Ltd",
+      "price": 1.99,
+      "bundleId": "ltd.opticode.littlelayers",
+      "releaseDate": "2026-08-05T07:00:00Z",
+      "trackId": 6796377018,
+      "trackName": "Little Layers Baby Weather",
       "genreIds": [
         "6012",
         "6001"
       ],
-      "bundleId": "ltd.opticode.littlelayers",
       "primaryGenreName": "Lifestyle",
       "primaryGenreId": 6012,
-      "trackName": "Little Layers Baby Weather",
-      "trackId": 6796377018,
       "sellerName": "Opticode Ltd",
       "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-08-05T12:17:33Z",
@@ -180,13 +183,10 @@
       "wrapperType": "software",
       "currency": "GBP",
       "description": "You know the temperature. What you actually want to know is whether they need the pramsuit.\n\nLittle Layers turns the local forecast into a straight answer: what to dress your child\nin right now, for what you're about to do. It knows the difference between a newborn in\na pram and a toddler walking to nursery, between 8°C in still air and 8°C in a north\nwind, and between a bedroom at 17°C and one at 22°C.\n\nWHAT IT TELLS YOU\n\n• The outfit - layer by layer, in plain UK terms. Vest, sleepsuit, pramsuit, wellies.\n• Bedtime - which tog sleeping bag for tonight's room temperature, and what to wear\n  underneath. Tell it which bags you own and it only ever suggests those.\n• How they're travelling - a sling strips the bulky suit and warms the extremities; a\n  car seat insists the coat comes off before the straps go on.\n• The best window for a walk today, from the hours they're actually awake.\n• A packing list for the bag, generated from the day ahead.\n• Tomorrow, tonight - so you can lay clothes out before bed.\n• A morning briefing and a heads-up before rain, if you want them.\n\nBUILT FOR EVERYONE WHO LOOKS AFTER THEM\n\nChildren, places and the nursery temperature sync over iCloud and stay in step on\nevery phone you invite - a partner, grandparent or childminder, each on their own\nApple ID. Add the Home Screen widget and the answer is there without opening anything.\n\nGUIDANCE, NOT MEDICAL ADVICE\n\nThe advice follows published UK guidance, and every source is named in the app with a\nlink: The Lullaby Trust for safer sleep and room temperature, the NHS for fever and sun\nsafety, the T.I.C.K.S. rule for slings, Good Egg for car seats. Tog ratings come from\nsleeping-bag manufacturers' charts.\n\nLittle Layers can't see your child and can't tell how well or unwell they are. If you're\nworried about your child, contact your health visitor, GP, or NHS 111. In an emergency,\ncall 999.\n\nPRIVACY\n\nNo account, no ads, no analytics, no tracking, and no server of ours. Your child's\ndetails live on your device and in your own iCloud. We can't see them.",
+      "averageUserRating": 4.8,
       "trackCensoredName": "Little Layers Baby Weather",
       "trackViewUrl": "https://apps.apple.com/gb/app/little-layers-baby-weather/id6796377018?uo=4",
       "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.8,
-      "minimumOsVersion": "26.0",
-      "releaseDate": "2026-08-05T07:00:00Z",
-      "price": 1.99,
       "userRatingCount": 5,
       "country": "GBR"
     }

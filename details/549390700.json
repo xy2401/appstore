@@ -208,6 +208,7 @@
       "userRatingCount": 33
     },
     {
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple117/v4/9f/15/df/9f15df21-e867-1828-9ec9-2f20183b0783/pr_source.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple127/v4/b5/14/d4/b514d449-d2d0-a2c4-c52c-35322f20dd58/pr_source.png/392x696bb.png",
@@ -223,15 +224,6 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/2c/65/832c65f4-c517-efb2-3838-aaac8b1c948a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
-      "artistViewUrl": "https://apps.apple.com/fr/developer/claude-joseph-angelique/id549390703?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/2c/65/832c65f4-c517-efb2-3838-aaac8b1c948a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/2c/65/832c65f4-c517-efb2-3838-aaac8b1c948a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [],
-      "kind": "software",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -361,6 +353,15 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
+      "advisories": [],
+      "kind": "software",
+      "features": [
+        "iosUniversal"
+      ],
+      "artistViewUrl": "https://apps.apple.com/fr/developer/claude-joseph-angelique/id549390703?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/2c/65/832c65f4-c517-efb2-3838-aaac8b1c948a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/2c/65/832c65f4-c517-efb2-3838-aaac8b1c948a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+      "releaseNotes": "Nouveautés de PerfExpert 2.4.0 :\n- GPS externe : désormais disponible en achat unique — accès à vie\n- PerfExpert Pro : abonnez-vous pour débloquer le logo personnalisé, la sauvegarde cloud et l'export CSV\n- Logo personnalisé : ajoutez votre propre logo ou marque sur vos rapports de puissance et d'accélération (Pro)\n- Sauvegarde cloud : vos résultats sont désormais sauvegardés en toute sécurité dans le cloud (Pro)\n- Conditions atmosphériques : température, pression et humidité plus précises, avec une récupération plus fiable\n- La norme de correction peut désormais être désactivée\n- Corrections de bugs et améliorations de stabilité",
       "sellerUrl": "https://www.perfexpert-app.com",
       "languageCodesISO2A": [
         "BG",
@@ -381,36 +382,35 @@
       "userRatingCountForCurrentVersion": 34,
       "trackContentRating": "4+",
       "averageUserRatingForCurrentVersion": 3.11765,
-      "averageUserRating": 3.11765,
-      "trackCensoredName": "PerfExpert - Car Dyno HP Test",
-      "trackViewUrl": "https://apps.apple.com/fr/app/perfexpert-car-dyno-hp-test/id549390700?uo=4",
-      "contentAdvisoryRating": "4+",
-      "genres": [
-        "Sports",
-        "Utilitaires"
-      ],
       "artistId": 549390703,
       "artistName": "Claude JOSEPH ANGELIQUE",
-      "price": 9.99,
+      "bundleId": "com.jameca.PerfExpert",
       "genreIds": [
         "6004",
         "6002"
       ],
+      "sellerName": "Claude JOSEPH ANGELIQUE",
+      "releaseDate": "2012-08-08T18:15:41Z",
+      "trackId": 549390700,
+      "trackName": "PerfExpert - Car Dyno HP Test",
+      "isVppDeviceBasedLicensingEnabled": true,
       "primaryGenreName": "Sports",
       "primaryGenreId": 6004,
-      "sellerName": "Claude JOSEPH ANGELIQUE",
-      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-08-18T19:13:32Z",
-      "releaseNotes": "Nouveautés de PerfExpert 2.4.0 :\n- GPS externe : désormais disponible en achat unique — accès à vie\n- PerfExpert Pro : abonnez-vous pour débloquer le logo personnalisé, la sauvegarde cloud et l'export CSV\n- Logo personnalisé : ajoutez votre propre logo ou marque sur vos rapports de puissance et d'accélération (Pro)\n- Sauvegarde cloud : vos résultats sont désormais sauvegardés en toute sécurité dans le cloud (Pro)\n- Conditions atmosphériques : température, pression et humidité plus précises, avec une récupération plus fiable\n- La norme de correction peut désormais être désactivée\n- Corrections de bugs et améliorations de stabilité",
       "version": "2.4.0",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Découvrez les vraies performances de votre voiture.\n\nTransformez votre smartphone en banc de puissance professionnel. Mesurez la puissance et le couple de votre moteur à 2% d'un banc à rouleaux, et chronométrez les temps d'accélération de votre voiture. Pas de prise OBD, pas de câble, pas de session de banc coûteuse. Fixez votre téléphone, accélérez, résultats instantanés.\n\nTestez et comparez vos modifications. Reprog ECU, admission, échappement, turbo, boîtier additionnel — vérifiez objectivement l'effet de chaque upgrade avec des données fiables et indépendantes.\n\n\nCOMMENT CA MARCHE\n\n1. Créez votre profil véhicule\nRenseignez le poids, les dimensions de pneus et les rapports de boîte. Pas sûr d'un paramètre ? L'application vous guide à chaque étape.\n\n2. Fixez votre téléphone et accélérez\nAucune connexion à la voiture nécessaire. Trouvez une route plate, droite et horizontale. Accélérez sur un seul rapport, des bas régimes jusqu'au rupteur. C'est tout.\n\n3. Consultez vos résultats\nCourbes de puissance et couple instantanées, comme sur un vrai banc à rouleaux. Comparez vos runs, suivez vos modifications, partagez vos résultats.\n\n\nMODES DE MESURE\n\nPuissance (Dyno) — Courbes complètes de puissance et couple en fonction du régime moteur. Modèle avancé de calcul des pertes de transmission, détection du rupteur, et normes de correction (DIN, SAE, JIS, CEE, ISO). Des résultats aussi détaillés qu'un banc à rouleaux professionnel.\n\nAccélération (Timed Run) — Chronométrage au départ arrêté. Intervalles de vitesse : 0-100, 100-200, 80-180, 60-160 km/h — 0-60, 60-120, 50-110, 40-100 mph. Distances : quarter mile, eighth mile (avec vitesse de passage), 60 ft. Vitesse max et accélération max enregistrées à chaque run.\n\n\nFONCTIONNALITES\n\n- Précision de 2% comparée aux bancs de puissance professionnels\n- Aucune prise OBD ou connexion à la voiture nécessaire\n- Fonctionne avec les capteurs intégrés de votre téléphone\n- GPS externe disponible en option pour une précision professionnelle : RaceBox Mini, Mini S, Micro (mesure de puissance en départ lancé, orientation libre du téléphone)\n- Normes de correction de puissance : DIN, SAE, JIS, CEE, ISO — pression atmosphérique, température et humidité en temps réel\n- Graphiques interactifs : zoomez, touchez pour les valeurs exactes\n- Export des résultats en image PNG ou lien web partageable\n- Unités personnalisables : HP, CV, kW — Nm, ft-lb, mkg — km/h, mph\n- Compatible téléphones et tablettes\n\n\nPERFEXPERT PRO (abonnement optionnel)\n\n- Logo personnalisé sur vos résultats\n- Sauvegarde cloud de vos résultats\n- Export CSV des données\n\n\nQUI UTILISE PERFEXPERT ?\n\n- Passionnés auto qui veulent connaître la vraie puissance de leur moteur\n- Préparateurs et mécaniciens vérifiant les reprogs ECU, boîtiers additionnels, admissions, échappements ou turbos\n- Propriétaires comparant l'avant/après de chaque modification\n- Conducteurs chronométrant leur 0-100 km/h ou 0-60 mph\n- Tous ceux qui veulent savoir ce que leur voiture a vraiment sous le capot\n\n\nNOTES IMPORTANTES\n\n- Le mode Puissance nécessite une boîte manuelle ou une boîte auto avec mode séquentiel\n- Pour des résultats optimaux, utilisez une route plate, droite et horizontale, sans circulation\n- Le GPS externe (disponible en option dans l'app) débloque des fonctionnalités supplémentaires : mesure de puissance en départ lancé (pas besoin de s'arrêter avant la mesure) et orientation libre du téléphone\n\n\nFAQ et support :\nhttps://www.perfexpert-app.com/faq\n\nRejoignez la communauté PerfExpert :\nhttps://www.facebook.com/groups/perfexpert/",
       "minimumOsVersion": "15.0",
-      "trackId": 549390700,
-      "trackName": "PerfExpert - Car Dyno HP Test",
-      "releaseDate": "2012-08-08T18:15:41Z",
-      "bundleId": "com.jameca.PerfExpert",
+      "trackCensoredName": "PerfExpert - Car Dyno HP Test",
+      "trackViewUrl": "https://apps.apple.com/fr/app/perfexpert-car-dyno-hp-test/id549390700?uo=4",
+      "averageUserRating": 3.11765,
+      "contentAdvisoryRating": "4+",
+      "price": 9.99,
+      "genres": [
+        "Sports",
+        "Utilitaires"
+      ],
       "userRatingCount": 34,
       "country": "FRA"
     }

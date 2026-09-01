@@ -2,8 +2,11 @@
   "resultCount": 1,
   "results": [
     {
-      "isGameCenterEnabled": false,
       "advisories": [],
+      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -134,9 +137,13 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
       "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/us/developer/brew-culture-llc/id1709719208?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/7a/3b/e97a3bd1-7c1d-abb9-5c0c-927fa0b608eb/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/7a/3b/e97a3bd1-7c1d-abb9-5c0c-927fa0b608eb/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9a/87/6f/9a876f5d-c96e-0446-0c30-86704bc6bb99/7Brew_App_Screenshot_6.9-inch_1.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/03/b4/f8/03b4f8df-087d-8749-5595-5c055b6f0187/7Brew_App_Screenshot_6.9-inch_2.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1c/0a/2c/1c0a2caa-77fb-5bb0-24f2-ed16360f8a10/7Brew_App_Screenshot_6.9-inch_3.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/35/10/29/351029db-a640-dd11-9eab-7a3732090fcc/7Brew_App_Screenshot_6.9-inch_4.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/79/56/f57956b1-f5ea-0a1c-1848-e5e79f65e83d/7Brew_App_Screenshot_6.9-inch_5.png/320x480bb.jpg"
+      ],
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/43/7b/55/437b55ef-b582-30c4-6ee3-44479ca5bf08/7Brew_App_Screenshot_Tablet_2.png/360x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f6/d3/bd/f6d3bd86-cd45-a8fe-064c-dd5ab0a57c55/7Brew_App_Screenshot_Tablet_3.png/360x480bb.jpg",
@@ -145,54 +152,47 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/7a/3b/e97a3bd1-7c1d-abb9-5c0c-927fa0b608eb/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9a/87/6f/9a876f5d-c96e-0446-0c30-86704bc6bb99/7Brew_App_Screenshot_6.9-inch_1.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/03/b4/f8/03b4f8df-087d-8749-5595-5c055b6f0187/7Brew_App_Screenshot_6.9-inch_2.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1c/0a/2c/1c0a2caa-77fb-5bb0-24f2-ed16360f8a10/7Brew_App_Screenshot_6.9-inch_3.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/35/10/29/351029db-a640-dd11-9eab-7a3732090fcc/7Brew_App_Screenshot_6.9-inch_4.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/79/56/f57956b1-f5ea-0a1c-1848-e5e79f65e83d/7Brew_App_Screenshot_6.9-inch_5.png/320x480bb.jpg"
-      ],
+      "artistViewUrl": "https://apps.apple.com/us/developer/brew-culture-llc/id1709719208?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/7a/3b/e97a3bd1-7c1d-abb9-5c0c-927fa0b608eb/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/7a/3b/e97a3bd1-7c1d-abb9-5c0c-927fa0b608eb/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
       "artistId": 1709719208,
       "artistName": "Brew Culture, LLC",
       "genres": [
         "Food & Drink"
       ],
       "price": 0,
+      "bundleId": "com.7brew.loyalty.app",
       "currentVersionReleaseDate": "2026-08-28T07:08:12Z",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "primaryGenreName": "Food & Drink",
-      "primaryGenreId": 6023,
-      "releaseDate": "2026-08-11T07:00:00Z",
-      "sellerName": "Brew Culture, LLC",
+      "releaseNotes": "Small bug fixes and improvements for a smoother ordering experience.",
       "genreIds": [
         "6023"
       ],
-      "trackName": "7 Brew Coffee",
+      "releaseDate": "2026-08-11T07:00:00Z",
       "trackId": 6762023973,
-      "releaseNotes": "Small bug fixes and improvements for a smoother ordering experience.",
+      "trackName": "7 Brew Coffee",
+      "primaryGenreName": "Food & Drink",
+      "primaryGenreId": 6023,
+      "sellerName": "Brew Culture, LLC",
+      "isVppDeviceBasedLicensingEnabled": true,
       "version": "1.1.0",
       "wrapperType": "software",
       "currency": "USD",
       "description": "The 7 Brew Coffee app is here! Ordering your favorite 7 Brew drink has never been easier.\n\nOrder Ahead: your delicious creation made fresh when you arrive and in your hands right after you pull up.\n\nExplore the Menu: discover every flavor and every drink you can only get at 7 Brew.\n\nCustomize Your Drink: quickly and easily customize your perfect drink for maximum deliciousness.\n\nEarn & Redeem Rewards: earn 100 points for every drink and redeem points for free drinks, exclusive merch and more!",
-      "averageUserRating": 4.91265,
       "minimumOsVersion": "15.0",
-      "trackCensoredName": "7 Brew Coffee",
-      "trackViewUrl": "https://apps.apple.com/us/app/7-brew-coffee/id6762023973?uo=4",
-      "contentAdvisoryRating": "12+",
-      "bundleId": "com.7brew.loyalty.app",
+      "averageUserRatingForCurrentVersion": 4.9318,
       "sellerUrl": "https://7brew.com/",
       "languageCodesISO2A": [
         "EN"
       ],
       "fileSizeBytes": "57764864",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 11208,
+      "userRatingCountForCurrentVersion": 18973,
       "trackContentRating": "12+",
-      "averageUserRatingForCurrentVersion": 4.91265,
-      "userRatingCount": 11208,
+      "trackCensoredName": "7 Brew Coffee",
+      "trackViewUrl": "https://apps.apple.com/us/app/7-brew-coffee/id6762023973?uo=4",
+      "contentAdvisoryRating": "12+",
+      "averageUserRating": 4.9318,
+      "userRatingCount": 18973,
       "country": "USA"
     }
   ]

@@ -187,10 +187,21 @@
     },
     {
       "isGameCenterEnabled": false,
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fe/66/c8/fe66c86d-6176-1958-f4ae-37195da9da87/03-sequence-slice-dens-goz-de-ios-phone-1320x2868.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d5/c0/7f/d5c07f3c-860b-589f-63e0-5f97e963e918/02-sequence-slice-dens-goz-de-ios-phone-1320x2868.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8a/2e/47/8a2e470e-f914-062a-6d59-e4150429778b/01-sequence-slice-dens-goz-de-ios-phone-1320x2868.png/320x480bb.jpg"
+      ],
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fb/f6/b8/fbf6b870-b7f8-c375-a546-93cb65c9f560/01-sequence-slice-dens-goz-de-ios-tablet-2752x2064.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/08/a5/d4/08a5d427-6f1d-caf5-75a3-4856d2c1d153/02-sequence-slice-dens-goz-de-ios-tablet-2752x2064.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9d/9c/1b/9d9c1b2c-b673-dc26-eb56-7ec2e79c0f8f/03-sequence-slice-dens-goz-de-ios-tablet-2752x2064.png/360x480bb.jpg"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/4b/8e/b44b8ec1-604b-ba20-96bb-fa1033ee857d/DensGoz-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "features": [
         "iosUniversal"
       ],
-      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -320,41 +331,13 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
+      "advisories": [],
       "kind": "software",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fe/66/c8/fe66c86d-6176-1958-f4ae-37195da9da87/03-sequence-slice-dens-goz-de-ios-phone-1320x2868.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d5/c0/7f/d5c07f3c-860b-589f-63e0-5f97e963e918/02-sequence-slice-dens-goz-de-ios-phone-1320x2868.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8a/2e/47/8a2e470e-f914-062a-6d59-e4150429778b/01-sequence-slice-dens-goz-de-ios-phone-1320x2868.png/320x480bb.jpg"
-      ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fb/f6/b8/fbf6b870-b7f8-c375-a546-93cb65c9f560/01-sequence-slice-dens-goz-de-ios-tablet-2752x2064.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/08/a5/d4/08a5d427-6f1d-caf5-75a3-4856d2c1d153/02-sequence-slice-dens-goz-de-ios-tablet-2752x2064.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9d/9c/1b/9d9c1b2c-b673-dc26-eb56-7ec2e79c0f8f/03-sequence-slice-dens-goz-de-ios-tablet-2752x2064.png/360x480bb.jpg"
-      ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/4b/8e/b44b8ec1-604b-ba20-96bb-fa1033ee857d/DensGoz-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "artistViewUrl": "https://apps.apple.com/de/developer/dens-medizinische-geraete-entwicklungs-und-vertriebs/id1518495671?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/4b/8e/b44b8ec1-604b-ba20-96bb-fa1033ee857d/DensGoz-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/4b/8e/b44b8ec1-604b-ba20-96bb-fa1033ee857d/DensGoz-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
       "minimumOsVersion": "18.6",
-      "genres": [
-        "Nachschlagewerke",
-        "Medizin"
-      ],
-      "isVppDeviceBasedLicensingEnabled": true,
-      "artistId": 1518495671,
-      "artistName": "Dens Medizinische Geraete Entwicklungs- und Vertriebs GmbH",
-      "bundleId": "com.dens-berlin.DensGoz",
-      "releaseDate": "2026-03-06T08:00:00Z",
-      "sellerName": "Dens Medizinische Geraete Entwicklungs- und Vertriebs GmbH",
-      "trackName": "DENSgoz",
-      "trackId": 6760102783,
-      "currentVersionReleaseDate": "2026-08-27T10:31:11Z",
-      "version": "1.3",
-      "wrapperType": "software",
-      "currency": "EUR",
-      "description": "DENSgoz ist eine mobile Referenz-App für den GOZ-Katalog – gemacht für den schnellen Einsatz im Praxisalltag. Der Katalog ist direkt in der App enthalten, sodass Sie sofort recherchieren können – auch ohne Internet.\n\nStatt mühsam in PDFs oder Unterlagen zu blättern, finden Sie Gebührenziffern und Inhalte in Sekunden per Suche und bekommst alle Details übersichtlich dargestellt.\n\nHighlights\n\t•\tSchnelle Suche: Suche nach Ziffer/Code sowie relevanten Texten (Kurz- und Langtext).\n\t•\tOffline nutzbar: Katalog, Suche und Details sind ohne Internet verfügbar.\n\t•\tFavoriten: Wichtige Einträge markieren und jederzeit wiederfinden.\n\t•\tNotizen: Kurze Notizen direkt am Eintrag speichern (ohne Patientenbezug).",
-      "sellerUrl": "https://zahnarztsoftware.de",
+      "averageUserRatingForCurrentVersion": 5,
       "languageCodesISO2A": [
         "DE"
       ],
@@ -362,19 +345,36 @@
       "formattedPrice": "0,99 €",
       "userRatingCountForCurrentVersion": 1,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 5,
-      "averageUserRating": 5,
-      "trackCensoredName": "DENSgoz",
-      "trackViewUrl": "https://apps.apple.com/de/app/densgoz/id6760102783?uo=4",
-      "contentAdvisoryRating": "4+",
-      "releaseNotes": "Dieses Update enthält kleinere Optimierungen, Stabilitätsverbesserungen und technische Anpassungen für eine zuverlässigere Nutzung der App.",
-      "primaryGenreName": "Reference",
-      "primaryGenreId": 6006,
+      "sellerUrl": "https://zahnarztsoftware.de",
+      "artistId": 1518495671,
+      "artistName": "Dens Medizinische Geraete Entwicklungs- und Vertriebs GmbH",
+      "genres": [
+        "Nachschlagewerke",
+        "Medizin"
+      ],
+      "price": 0.99,
+      "bundleId": "com.dens-berlin.DensGoz",
+      "trackId": 6760102783,
+      "trackName": "DENSgoz",
       "genreIds": [
         "6006",
         "6020"
       ],
-      "price": 0.99,
+      "releaseDate": "2026-03-06T08:00:00Z",
+      "primaryGenreName": "Reference",
+      "primaryGenreId": 6006,
+      "sellerName": "Dens Medizinische Geraete Entwicklungs- und Vertriebs GmbH",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseNotes": "Dieses Update enthält kleinere Optimierungen, Stabilitätsverbesserungen und technische Anpassungen für eine zuverlässigere Nutzung der App.",
+      "version": "1.3",
+      "wrapperType": "software",
+      "currency": "EUR",
+      "description": "DENSgoz ist eine mobile Referenz-App für den GOZ-Katalog – gemacht für den schnellen Einsatz im Praxisalltag. Der Katalog ist direkt in der App enthalten, sodass Sie sofort recherchieren können – auch ohne Internet.\n\nStatt mühsam in PDFs oder Unterlagen zu blättern, finden Sie Gebührenziffern und Inhalte in Sekunden per Suche und bekommst alle Details übersichtlich dargestellt.\n\nHighlights\n\t•\tSchnelle Suche: Suche nach Ziffer/Code sowie relevanten Texten (Kurz- und Langtext).\n\t•\tOffline nutzbar: Katalog, Suche und Details sind ohne Internet verfügbar.\n\t•\tFavoriten: Wichtige Einträge markieren und jederzeit wiederfinden.\n\t•\tNotizen: Kurze Notizen direkt am Eintrag speichern (ohne Patientenbezug).",
+      "trackCensoredName": "DENSgoz",
+      "trackViewUrl": "https://apps.apple.com/de/app/densgoz/id6760102783?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 5,
+      "currentVersionReleaseDate": "2026-08-27T10:31:11Z",
       "userRatingCount": 1,
       "country": "DEU"
     }

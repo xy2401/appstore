@@ -255,9 +255,6 @@
       "artistViewUrl": "https://apps.apple.com/us/developer/google/id281956209?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/bd/09/85bd0970-38a4-424f-575f-fca219ca2dde/logo_google_news_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-0-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/bd/09/85bd0970-38a4-424f-575f-fca219ca2dde/logo_google_news_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-0-0-85-220.png/100x100bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -416,30 +413,31 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/10/fc/e9/10fce98b-e268-36e8-33d9-81ba2beaa083/6e505c9f-30d0-4ed6-8557-7fbb05f4f580_5_iphone55_5.Screen5_-_Choose_topics_and_sources_-_iPhone8.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/1a/95/f4/1a95f450-a4e4-debf-5836-8b1444337b91/9b901bb2-4ed7-40c4-8037-7ea3de6f4096_6_iphone55_6.Screen6_-_Stay_updated_-_iPhone8.jpg/392x696bb.jpg"
       ],
-      "minimumOsVersion": "17.0",
-      "averageUserRating": 4.572,
-      "trackCensoredName": "Google News",
+      "features": [
+        "iosUniversal"
+      ],
+      "fileSizeBytes": "177003520",
+      "formattedPrice": "Free",
+      "averageUserRating": 4.57198,
       "trackViewUrl": "https://apps.apple.com/us/app/google-news/id459182288?uo=4",
       "contentAdvisoryRating": "12+",
+      "trackCensoredName": "Google News",
+      "minimumOsVersion": "17.0",
       "artistId": 281956209,
       "artistName": "Google",
       "genres": [
         "News"
       ],
       "price": 0,
-      "bundleId": "com.google.GoogleDigitalEditions",
-      "primaryGenreName": "News",
-      "primaryGenreId": 6009,
+      "releaseNotes": "· Bug fixes and performance improvements",
       "genreIds": [
         "6009"
       ],
       "sellerName": "Google LLC",
       "releaseDate": "2011-12-08T20:27:43Z",
-      "isVppDeviceBasedLicensingEnabled": true,
       "trackId": 459182288,
       "trackName": "Google News",
       "currentVersionReleaseDate": "2026-08-12T16:59:25Z",
-      "releaseNotes": "· Bug fixes and performance improvements",
       "version": "5.121",
       "wrapperType": "software",
       "currency": "USD",
@@ -492,12 +490,14 @@
         "VI",
         "ZU"
       ],
-      "fileSizeBytes": "177003520",
-      "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 226208,
+      "userRatingCountForCurrentVersion": 226207,
       "trackContentRating": "12+",
-      "averageUserRatingForCurrentVersion": 4.572,
-      "userRatingCount": 226208,
+      "averageUserRatingForCurrentVersion": 4.57198,
+      "bundleId": "com.google.GoogleDigitalEditions",
+      "primaryGenreName": "News",
+      "primaryGenreId": 6009,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "userRatingCount": 226207,
       "country": "USA"
     }
   ]

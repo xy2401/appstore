@@ -197,6 +197,7 @@
       "country": "JPN"
     },
     {
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0a/49/92/0a4992f8-8641-da98-f0d2-192fa7990376/library.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/44/5f/2c/445f2c0a-2787-4add-a9f1-86a7f8d8767c/xpscreen.png/320x480bb.jpg",
@@ -221,15 +222,6 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/7d/5e/bb7d5e1a-a4c0-ae11-932c-3b08822eb870/AppIcon-1x_U007epad-0-1-85-220-0.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
-      "artistViewUrl": "https://apps.apple.com/fr/developer/emir-han-temur/id1851261349?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/7d/5e/bb7d5e1a-a4c0-ae11-932c-3b08822eb870/AppIcon-1x_U007epad-0-1-85-220-0.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/7d/5e/bb7d5e1a-a4c0-ae11-932c-3b08822eb870/AppIcon-1x_U007epad-0-1-85-220-0.png/100x100bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [],
-      "kind": "software",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -359,6 +351,15 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
+      "advisories": [],
+      "kind": "software",
+      "features": [
+        "iosUniversal"
+      ],
+      "artistViewUrl": "https://apps.apple.com/fr/developer/emir-han-temur/id1851261349?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/7d/5e/bb7d5e1a-a4c0-ae11-932c-3b08822eb870/AppIcon-1x_U007epad-0-1-85-220-0.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/7d/5e/bb7d5e1a-a4c0-ae11-932c-3b08822eb870/AppIcon-1x_U007epad-0-1-85-220-0.png/100x100bb.jpg",
+      "releaseNotes": "La v2.3 apporte le support complet de la manette pour toute l'app, des correctifs critiques pour Pokémon Essentials et une nouvelle organisation de bibliothèque !\n\nNAVIGATION UI COMPLÈTE PAR MANETTE\n• Naviguez dans la Bibliothèque, les Collections et les Paramètres avec votre manette.\n• Basculez fluidement entre \"Mode Jeu\" et \"Mode UI\" sans toucher l'écran.\n• Intégration avec la Barre de Contrôle Compacte pour des actions rapides.\n\nCORRECTIFS D'ENTRÉE CRITIQUES\n• Résolution des problèmes d'entrée dans les jeux Win32API (ex: Pokemon Insurgence).\n• Correction des bugs ignorant les touches sur les écrans titres.\n• Amélioration de la fiabilité clavier et manette pour MKXP-Z.\n\nCOLLECTIONS & INTERFACE\n• Collections : Organisez vos jeux dans des dossiers !\n• Personnalisation : Couleurs uniques pour jeux et collections.\n• Glisser-Déposer : Réorganisation facile en liste ou grille.\n• Widgets iPad : Support widgets Extra Large.\n\nPERFORMANCE & STABILITÉ\n• Système de Sauvegarde : Réécrit pour éviter la corruption.\n• Importations Plus Rapides : Accélération matérielle (GPU) et multi-cœur.\n• Correctifs de Crash : Résolution des écrans noirs dans MKXP-Z.\n\nMOTEUR & COMPATIBILITÉ\n• Système de Fichiers : Résolution des problèmes de casse.\n• Polices CJK : Support caractères japonais/chinois.\n• Gestionnaire de Plugins : Recherche et meilleur parsing.\n• Moteur Web : Correction des crashs (MultiTweaks.js).\n\nAUTRES AMÉLIORATIONS\n• Conversion à la Demande.\n• Paramètres d'Importation.\n• Correctifs Ruby : Errores syntaxe (BEGIN).",
       "sellerUrl": "https://am1guard.github.io/rpgplayerfullcalisan/fr.html",
       "languageCodesISO2A": [
         "AR",
@@ -380,34 +381,33 @@
       "userRatingCountForCurrentVersion": 5,
       "trackContentRating": "4+",
       "averageUserRatingForCurrentVersion": 2.8,
-      "averageUserRating": 2.8,
-      "trackCensoredName": "RPGPlayer - An RPGMaker Player",
-      "trackViewUrl": "https://apps.apple.com/fr/app/rpgplayer-an-rpgmaker-player/id6754986970?uo=4",
-      "contentAdvisoryRating": "4+",
-      "genres": [
-        "Utilitaires"
-      ],
       "artistId": 1851261349,
       "artistName": "Emir Han Temur",
-      "price": 7.99,
+      "bundleId": "com.han.Rpgplayer",
       "genreIds": [
         "6002"
       ],
+      "sellerName": "Emir Han Temur",
+      "releaseDate": "2025-12-10T08:00:00Z",
+      "trackId": 6754986970,
+      "trackName": "RPGPlayer - An RPGMaker Player",
+      "isVppDeviceBasedLicensingEnabled": true,
       "primaryGenreName": "Utilities",
       "primaryGenreId": 6002,
-      "sellerName": "Emir Han Temur",
-      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-02-12T06:02:56Z",
-      "releaseNotes": "La v2.3 apporte le support complet de la manette pour toute l'app, des correctifs critiques pour Pokémon Essentials et une nouvelle organisation de bibliothèque !\n\nNAVIGATION UI COMPLÈTE PAR MANETTE\n• Naviguez dans la Bibliothèque, les Collections et les Paramètres avec votre manette.\n• Basculez fluidement entre \"Mode Jeu\" et \"Mode UI\" sans toucher l'écran.\n• Intégration avec la Barre de Contrôle Compacte pour des actions rapides.\n\nCORRECTIFS D'ENTRÉE CRITIQUES\n• Résolution des problèmes d'entrée dans les jeux Win32API (ex: Pokemon Insurgence).\n• Correction des bugs ignorant les touches sur les écrans titres.\n• Amélioration de la fiabilité clavier et manette pour MKXP-Z.\n\nCOLLECTIONS & INTERFACE\n• Collections : Organisez vos jeux dans des dossiers !\n• Personnalisation : Couleurs uniques pour jeux et collections.\n• Glisser-Déposer : Réorganisation facile en liste ou grille.\n• Widgets iPad : Support widgets Extra Large.\n\nPERFORMANCE & STABILITÉ\n• Système de Sauvegarde : Réécrit pour éviter la corruption.\n• Importations Plus Rapides : Accélération matérielle (GPU) et multi-cœur.\n• Correctifs de Crash : Résolution des écrans noirs dans MKXP-Z.\n\nMOTEUR & COMPATIBILITÉ\n• Système de Fichiers : Résolution des problèmes de casse.\n• Polices CJK : Support caractères japonais/chinois.\n• Gestionnaire de Plugins : Recherche et meilleur parsing.\n• Moteur Web : Correction des crashs (MultiTweaks.js).\n\nAUTRES AMÉLIORATIONS\n• Conversion à la Demande.\n• Paramètres d'Importation.\n• Correctifs Ruby : Errores syntaxe (BEGIN).",
       "version": "v2.3",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Transformez votre appareil iOS en console portable ultime pour les jeux RPG Maker ! RPG Player vous permet d'importer et de jouer à vos titres RPG Maker préférés en déplacement avec des performances optimisées et des fonctionnalités de qualité console.\n\nCompatibilité Universelle\n• Large support : Entièrement compatible avec les jeux créés sous RPG Maker XP, VX, VX Ace, MV et MZ.\n• Cœur à double moteur : Utilise le moteur MKXP-Z hautement optimisé pour les titres classiques et un wrapper Web haute performance personnalisé pour les jeux modernes MV/MZ.\n\nBibliothèque Intelligente & Organisation\n• Votre collection personnelle : Importez facilement des jeux via des archives ZIP ou RAR directement depuis l'application Fichiers.\n• Organisation intelligente : Organise automatiquement votre bibliothèque avec des vues en grille et des pochettes.\n• Recherche et filtres : Trouvez instantanément votre prochaine aventure grâce à de puissants outils de recherche et filtres de catégories.\n• Widgets de l'écran d'accueil : Revenez directement à vos jeux récemment joués avec de beaux widgets fonctionnels.\n\nExpérience de Qualité Console\n• Support manette : Jouez sans interruption avec des manettes Bluetooth (Xbox, PS5, MFi) ou utilisez la manette visuelle entièrement personnalisable.\n• Audio Pro : Le moteur audio amélioré assure une musique et des effets sonores sans glitch.\n• Paramètres rapides : Accédez aux paramètres du jeu, aux menus de sauvegarde/chargement et plus encore avec une barre d'outils glissante en jeu.\n\nOutils Avancés\n• Gestion des sauvegardes : Système de sauvegarde robuste avec protection par sauvegarde automatique. Transférez facilement les sauvegardes entre les appareils.\n• Gestionnaire de stockage : Suivez votre espace utilisé et gérez les gros fichiers de jeu sans effort.\n• Jeu hors ligne : Pas d'internet requis — vos jeux sont à vous pour jouer n'importe où, n'importe quand.\n\nRedécouvrez les classiques ou jouez aux dernières pépites indépendantes. Téléchargez RPG Player dès aujourd'hui !",
       "minimumOsVersion": "17.6",
-      "trackId": 6754986970,
-      "trackName": "RPGPlayer - An RPGMaker Player",
-      "releaseDate": "2025-12-10T08:00:00Z",
-      "bundleId": "com.han.Rpgplayer",
+      "trackCensoredName": "RPGPlayer - An RPGMaker Player",
+      "trackViewUrl": "https://apps.apple.com/fr/app/rpgplayer-an-rpgmaker-player/id6754986970?uo=4",
+      "averageUserRating": 2.8,
+      "contentAdvisoryRating": "4+",
+      "price": 7.99,
+      "genres": [
+        "Utilitaires"
+      ],
       "userRatingCount": 5,
       "country": "FRA"
     }

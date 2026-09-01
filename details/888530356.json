@@ -272,9 +272,6 @@
       "artistViewUrl": "https://apps.apple.com/us/developer/google/id281956209?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/26/84/5f26841d-ce84-bb56-f1fe-cb661b598fee/logo_youtube_studio_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/26/84/5f26841d-ce84-bb56-f1fe-cb661b598fee/logo_youtube_studio_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/100x100bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -428,11 +425,16 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/10/22/c3/1022c33e-3a14-3060-5479-e9bf081168e9/APP_IPHONE_55-6.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/66/ac/78/66ac788d-e7c3-3d12-638c-7cc087e03fa8/APP_IPHONE_55-7.png/392x696bb.png"
       ],
-      "minimumOsVersion": "17.0",
-      "averageUserRating": 4.05659,
-      "trackCensoredName": "YouTube Studio",
+      "features": [
+        "iosUniversal"
+      ],
+      "fileSizeBytes": "160997376",
+      "formattedPrice": "Free",
+      "averageUserRating": 4.05668,
       "trackViewUrl": "https://apps.apple.com/us/app/youtube-studio/id888530356?uo=4",
       "contentAdvisoryRating": "12+",
+      "trackCensoredName": "YouTube Studio",
+      "minimumOsVersion": "17.0",
       "artistId": 281956209,
       "artistName": "Google",
       "genres": [
@@ -440,20 +442,16 @@
         "Utilities"
       ],
       "price": 0,
-      "bundleId": "com.google.ios.ytcreator",
-      "primaryGenreName": "Photo & Video",
-      "primaryGenreId": 6008,
+      "releaseNotes": "- Bug fixes and stability improvements.",
       "genreIds": [
         "6008",
         "6002"
       ],
       "sellerName": "Google LLC",
       "releaseDate": "2014-07-13T04:05:59Z",
-      "isVppDeviceBasedLicensingEnabled": true,
       "trackId": 888530356,
       "trackName": "YouTube Studio",
       "currentVersionReleaseDate": "2026-08-27T17:55:34Z",
-      "releaseNotes": "- Bug fixes and stability improvements.",
       "version": "26.35",
       "wrapperType": "software",
       "currency": "USD",
@@ -534,12 +532,14 @@
         "VI",
         "ZU"
       ],
-      "fileSizeBytes": "160997376",
-      "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 25765,
+      "userRatingCountForCurrentVersion": 25773,
       "trackContentRating": "12+",
-      "averageUserRatingForCurrentVersion": 4.05659,
-      "userRatingCount": 25765,
+      "averageUserRatingForCurrentVersion": 4.05668,
+      "bundleId": "com.google.ios.ytcreator",
+      "primaryGenreName": "Photo & Video",
+      "primaryGenreId": 6008,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "userRatingCount": 25773,
       "country": "USA"
     }
   ]

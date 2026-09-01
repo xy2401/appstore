@@ -2,6 +2,7 @@
   "resultCount": 1,
   "results": [
     {
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2d/dc/7e/2ddc7e7c-0fba-83c1-8e7b-ae21dcbd15b5/Simulator_Screenshot_-_iPhone_14_Plus_-_2026-08-19_at_17.53.01.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8e/f6/98/8ef698fe-d476-6286-dc6c-0c4777e32f89/Simulator_Screenshot_-_iPhone_14_Plus_-_2026-08-19_at_17.56.09.png/320x480bb.jpg",
@@ -22,15 +23,6 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/c6/02/bdc602f6-29af-c56f-ce87-f2a21efa560a/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
-      "artistViewUrl": "https://apps.apple.com/fr/developer/haroun-mohamed/id6803139802?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/c6/02/bdc602f6-29af-c56f-ce87-f2a21efa560a/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/c6/02/bdc602f6-29af-c56f-ce87-f2a21efa560a/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [],
-      "kind": "software",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -160,6 +152,15 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
+      "advisories": [],
+      "kind": "software",
+      "features": [
+        "iosUniversal"
+      ],
+      "artistViewUrl": "https://apps.apple.com/fr/developer/haroun-mohamed/id6803139802?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/c6/02/bdc602f6-29af-c56f-ce87-f2a21efa560a/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/c6/02/bdc602f6-29af-c56f-ce87-f2a21efa560a/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
+      "releaseNotes": "correction de bugs",
       "languageCodesISO2A": [
         "EN"
       ],
@@ -168,34 +169,33 @@
       "userRatingCountForCurrentVersion": 2,
       "trackContentRating": "4+",
       "averageUserRatingForCurrentVersion": 5,
-      "averageUserRating": 5,
-      "trackCensoredName": "le mot Arabe",
-      "trackViewUrl": "https://apps.apple.com/fr/app/le-mot-arabe/id6803139800?uo=4",
-      "contentAdvisoryRating": "4+",
-      "genres": [
-        "Éducation"
-      ],
       "artistId": 6803139802,
       "artistName": "haroun mohamed",
-      "price": 9.99,
+      "bundleId": "com.arabicpro.lemotarabe",
       "genreIds": [
         "6017"
       ],
+      "sellerName": "haroun mohamed",
+      "releaseDate": "2026-08-27T07:00:00Z",
+      "trackId": 6803139800,
+      "trackName": "le mot Arabe",
+      "isVppDeviceBasedLicensingEnabled": true,
       "primaryGenreName": "Education",
       "primaryGenreId": 6017,
-      "sellerName": "haroun mohamed",
-      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-08-30T09:00:26Z",
-      "releaseNotes": "correction de bugs",
       "version": "1.1",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Apprenez l’arabe efficacement avec le mot Arabe !\n\n Plus de 6 000 mots et verbes arabes\n 28 catégories de vocabulaire\nplus de 40 catégories de verbes\n Des notions de grammaire arabe pour mieux comprendre la langue\n Des quiz interactifs pour tester vos connaissances\n Un système de progression pour suivre vos apprentissages\n\nEnrichissez votre vocabulaire, maîtrisez les bases de la grammaire et progressez à votre rythme.",
       "minimumOsVersion": "15.0",
-      "trackId": 6803139800,
-      "trackName": "le mot Arabe",
-      "releaseDate": "2026-08-27T07:00:00Z",
-      "bundleId": "com.arabicpro.lemotarabe",
+      "trackCensoredName": "le mot Arabe",
+      "trackViewUrl": "https://apps.apple.com/fr/app/le-mot-arabe/id6803139800?uo=4",
+      "averageUserRating": 5,
+      "contentAdvisoryRating": "4+",
+      "price": 9.99,
+      "genres": [
+        "Éducation"
+      ],
       "userRatingCount": 2,
       "country": "FRA"
     }

@@ -208,10 +208,10 @@
       "userRatingCount": 815
     },
     {
+      "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
       ],
-      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -345,6 +345,9 @@
         "Accès au Web non contrôlé."
       ],
       "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/fr/developer/cyril-dufay/id1451851036?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/70/d3/4b70d39d-6673-df33-f3f6-0414e58b4ef3/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/70/d3/4b70d39d-6673-df33-f3f6-0414e58b4ef3/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/19/a1/3a/19a13a4b-2451-a34e-69bc-16074c12697e/mzl.dboufbwj.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/16/9a/45/169a4564-eff9-7d12-2ca3-9f4e0ca7ee05/mzl.lvabjcsm.png/392x696bb.png",
@@ -368,36 +371,29 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/70/d3/4b70d39d-6673-df33-f3f6-0414e58b4ef3/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/fr/developer/cyril-dufay/id1451851036?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/70/d3/4b70d39d-6673-df33-f3f6-0414e58b4ef3/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/70/d3/4b70d39d-6673-df33-f3f6-0414e58b4ef3/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.jpg",
       "minimumOsVersion": "12.1",
-      "artistId": 1451851036,
-      "artistName": "Cyril DUFAY",
+      "bundleId": "com.ios.loto.quine.helper",
       "genres": [
         "Utilitaires",
         "Productivité"
       ],
+      "artistId": 1451851036,
+      "artistName": "Cyril DUFAY",
       "price": 6.99,
-      "bundleId": "com.ios.loto.quine.helper",
-      "releaseDate": "2019-03-07T08:14:43Z",
-      "releaseNotes": "corrections mineures",
-      "trackName": "Loto Quine Helper",
-      "trackId": 1451851037,
-      "genreIds": [
-        "6002",
-        "6007"
-      ],
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
       "sellerName": "Cyril DUFAY",
+      "releaseDate": "2019-03-07T08:14:43Z",
       "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2025-02-26T14:14:14Z",
+      "releaseNotes": "corrections mineures",
       "version": "2.6.0",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Loto Quine Helper est une application permettant de vous aider lors de vos parties de loto associatif. Cette application gérera vos différents cartons ainsi que ceux de vos amis ou votre famille. Il vous suffit d’ajouter les cartons dans l’application en début du loto. Puis au fil des tirages, vous saisissez les numéros annoncés et l’application va gérer automatiquement vos cartons, vous n’aurez pas à utiliser vos cartons et vos jetons. En début de partie vous choisissez votre objectif dans liste (une ligne, deux lignes, carton plein, ...), lorsqu’il est atteint un message vous est affiché pour vous prévenir. Cette application ne génère pas les numéros, elle permet seulement de gérer vos cartons. Fonctionne aussi pour les rifles.\n\nFonctionnalités :\n\n- Visualiser des numéros tirés dans la partie en cours\n- Afficher les derniers numéros manquants avant la victoire\n- Gérer vos cartons dans des catégories correspondant à différents joueurs ou différentes journées. \n- Visualiser les statistiques de vos parties permettant de voir les nombres les plus et les moins tirés\n                                      \n\nÀ propos :\n\nLes développeurs de l’application déclinent toute responsabilité en cas de crash durant la partie pouvant rendre impossible l’utilisation de l’application. De même, à vous de faire attention à votre batterie afin qu’elle tienne durant tout le loto. Veiller à enregistrer correctement vos cartons, car si une erreur de saisie est réalisée toute vos parties seront basées sur de faux cartons. L’application n’est qu’un utilitaire elle n’augmente pas vos chances de gains, en cas de victoire vous devrez présenter votre carte.",
-      "sellerUrl": "http://loto-quine-helper.com",
+      "trackCensoredName": "Loto Quine Helper",
+      "trackViewUrl": "https://apps.apple.com/fr/app/loto-quine-helper/id1451851037?uo=4",
+      "contentAdvisoryRating": "17+",
+      "averageUserRating": 4.76877,
+      "averageUserRatingForCurrentVersion": 4.76877,
       "languageCodesISO2A": [
         "EN",
         "FR"
@@ -406,11 +402,15 @@
       "formattedPrice": "6,99 €",
       "userRatingCountForCurrentVersion": 826,
       "trackContentRating": "17+",
-      "averageUserRatingForCurrentVersion": 4.76877,
-      "trackCensoredName": "Loto Quine Helper",
-      "trackViewUrl": "https://apps.apple.com/fr/app/loto-quine-helper/id1451851037?uo=4",
-      "contentAdvisoryRating": "17+",
-      "averageUserRating": 4.76877,
+      "sellerUrl": "http://loto-quine-helper.com",
+      "genreIds": [
+        "6002",
+        "6007"
+      ],
+      "trackId": 1451851037,
+      "trackName": "Loto Quine Helper",
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
       "userRatingCount": 826,
       "country": "FRA"
     }

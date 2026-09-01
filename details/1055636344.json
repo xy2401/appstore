@@ -2,6 +2,7 @@
   "resultCount": 1,
   "results": [
     {
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3e/9f/91/3e9f911d-8a9c-d4f9-38d1-0ce04c973f03/ffe330bb-cb16-4795-89d4-02ebc843e3f8_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2022-05-25_at_17.31.30.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/53/68/3f/53683f80-d3c4-f84a-b11d-d3644ef35640/dfb22a83-3d61-4bee-bd29-67ce2edd3dea_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2022-05-25_at_17.35.02.png/392x696bb.png",
@@ -25,15 +26,6 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/42/0a/a8420aab-4b54-d756-3b25-0d2aa702f7bd/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
-      "artistViewUrl": "https://apps.apple.com/fr/developer/kymatica-ab/id522046659?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/42/0a/a8420aab-4b54-d756-3b25-0d2aa702f7bd/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/42/0a/a8420aab-4b54-d756-3b25-0d2aa702f7bd/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [],
-      "kind": "software",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -163,6 +155,15 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
+      "advisories": [],
+      "kind": "software",
+      "features": [
+        "iosUniversal"
+      ],
+      "artistViewUrl": "https://apps.apple.com/fr/developer/kymatica-ab/id522046659?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/42/0a/a8420aab-4b54-d756-3b25-0d2aa702f7bd/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/42/0a/a8420aab-4b54-d756-3b25-0d2aa702f7bd/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.jpg",
+      "releaseNotes": "- Fix layout issue when launching with iPhone in landscape orientation.\n- Add setting for including Apple AUs.\n- Add global armed track count indicator.\n- Long-press REC button to un-arm recording for all channel strips.\n- MIDI Keyboard: allow scrolling by simply dragging on its toolbar.\n- Fix status bar layout on older iPads.\n- Support up to 128 hardware channels.\n- Work around iOS quirk where changing sample rate doesn't seem to work.\n- Fix auto-disabling HW input when switching to internal mic, to avoid feedback.\n- If recording stopped with failure, save it instead of discarding it.\n- Improve rec error messages.\n- Long-press navigator button to show/hide all plugins.",
       "sellerUrl": "http://kymatica.com/aum",
       "languageCodesISO2A": [
         "EN"
@@ -172,36 +173,35 @@
       "userRatingCountForCurrentVersion": 71,
       "trackContentRating": "4+",
       "averageUserRatingForCurrentVersion": 4.70423,
-      "averageUserRating": 4.70423,
-      "trackCensoredName": "AUM - Audio Mixer",
-      "trackViewUrl": "https://apps.apple.com/fr/app/aum-audio-mixer/id1055636344?uo=4",
-      "contentAdvisoryRating": "4+",
-      "genres": [
-        "Musique",
-        "Productivité"
-      ],
       "artistId": 522046659,
       "artistName": "Kymatica AB",
-      "price": 29.99,
+      "bundleId": "com.kymatica.AUM",
       "genreIds": [
         "6011",
         "6007"
       ],
+      "sellerName": "Kymatica AB",
+      "releaseDate": "2016-02-24T10:15:59Z",
+      "trackId": 1055636344,
+      "trackName": "AUM - Audio Mixer",
+      "isVppDeviceBasedLicensingEnabled": true,
       "primaryGenreName": "Music",
       "primaryGenreId": 6011,
-      "sellerName": "Kymatica AB",
-      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2025-11-23T11:53:23Z",
-      "releaseNotes": "- Fix layout issue when launching with iPhone in landscape orientation.\n- Add setting for including Apple AUs.\n- Add global armed track count indicator.\n- Long-press REC button to un-arm recording for all channel strips.\n- MIDI Keyboard: allow scrolling by simply dragging on its toolbar.\n- Fix status bar layout on older iPads.\n- Support up to 128 hardware channels.\n- Work around iOS quirk where changing sample rate doesn't seem to work.\n- Fix auto-disabling HW input when switching to internal mic, to avoid feedback.\n- If recording stopped with failure, save it instead of discarding it.\n- Improve rec error messages.\n- Long-press navigator button to show/hide all plugins.",
       "version": "1.4.8",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "AUM is the flexible audio mixer, recorder, and connection hub for your iPad, iPhone and iPod touch.\n\nConnect hardware inputs and outputs, Audio Unit extensions, Inter-App Audio apps, Audiobus, soundfile players, built-in signal processing and filters, in any configuration you want.\n\nRoute anything to anywhere with mix-busses, effect sends, audiobus ports, and external multi-channel audio interfaces.\n\nPlay hosted synths and instruments using the built-in keyboard or external MIDI controllers, or sequence them with AU MIDI plugins or from other apps using Virtual MIDI.\n\nRecord mixes, individual tracks, or both, straight into the storage space of AudioShare (no copying of files needed), with synchronized start and end for perfect loops.\n\nPlay back recordings, soundfiles and loops as channel sources in the mixer for backing tracks, further processing or mixing. Soundfiles can be opened from anywhere, including USB drives on iOS 13 and later.\n\nRoute and filter MIDI in any way you like using the MIDI matrix. Combine and filter MIDI endpoints using MIDI buses.\n\nSynchronize everything with the transport clock and play in time with other apps or devices using Ableton Link. Connect external music machines and synchronize them with MIDI Clock.\n\nIncludes built-in processing nodes for various stereo processing, Mid/Side balance and conversion, EQs and filters, limiting, clipping and saturation. Or use any 3rd party Audio Unit extension or Inter-App Audio effect.\n\nAll controls in the mixer can be controlled via MIDI, including parameters of hosted and built-in plugins.\n\n\"A brilliant idea that has been brilliantly executed. Top-notch technical stuff and highly recommended\" - MusicAppBlog\n\n\"Feature rich, powerful, intuitive, and simple to use\" - DubSpot\n\n\"Executes live mixing with surprising ease, with a load of extensive features under the hood, quick snappy response on the screen and audio\" - AudioNewsRoom\n\nFEATURES\n\n• High quality audio up to 32-bit 192kHz\n• Clean and intuitive user interface with crisp vector graphics\n• Unlimited number of channels\n• Unlimited number of effect slots\n• Inserts and sends are configurable pre/post-fader\n• Internal busses for mixing, effect sends, signal splitting\n• Supports multi-channel audio interfaces for both inputs and outputs\n• Supports built-in speaker and mic, including stereo mic on devices that has it.\n• Supports Audio Unit extensions, Inter-App Audio and Audiobus \n• Route MIDI output from Audio Unit extensions\n• Supports Audio Unit multiple output and input busses (for side-chaining etc)\n• Highly accurate transport clock\n• Metronome with selectable output and optional pre-roll\n• Sends host sync to Audio Unit plugins and IAA apps\n• Play in time with Ableton Link, with Start/Stop support\n• Slave external hardware via MIDI Clock\n• FilePlayer with sync and looping with access to all your soundfiles\n• Records straight into AudioShare storage space\n• Record synchronized beat-perfect loops\n• Built-in nodes for stereo processing, filtering and dynamics\n• Latency compensation makes everything align at the outputs\n• Optional manual compensation using TimeOffset\n• Multiple Inter-App Audio / Audiobus output ports\n• Audiobus state saving\n• Built-in MIDI keyboard\n• Fully MIDI controllable\n• MIDI Matrix for routing MIDI anywhere\n• MIDI filtering for any MIDI destination\n• Combine MIDI sources or destinations using MIDI buses\n\nBUILT-IN SIGNAL PROCESSING\n\n• Stereo balance\n• Stereo to mono\n• Stereo panning\n• Mid/Side balance\n• Mid/Side - Stereo convert\n• Invert Phase\n• Parametric EQ\n• Low-shelf filter\n• High-shelf filter\n• Low-pass resonant filter\n• High-pass resonant filter\n• LP/HP combo filter\n• First order All-pass filter\n• Second order All-pass filter\n• Gain\n• Hard clip\n• Saturation\n• Lookahead peak limiter\n• System-provided Apple Audio Units",
       "minimumOsVersion": "12.0",
-      "trackId": 1055636344,
-      "trackName": "AUM - Audio Mixer",
-      "releaseDate": "2016-02-24T10:15:59Z",
-      "bundleId": "com.kymatica.AUM",
+      "trackCensoredName": "AUM - Audio Mixer",
+      "trackViewUrl": "https://apps.apple.com/fr/app/aum-audio-mixer/id1055636344?uo=4",
+      "averageUserRating": 4.70423,
+      "contentAdvisoryRating": "4+",
+      "price": 29.99,
+      "genres": [
+        "Musique",
+        "Productivité"
+      ],
       "userRatingCount": 71,
       "country": "FRA"
     }

@@ -253,9 +253,6 @@
       "artistViewUrl": "https://apps.apple.com/us/developer/google/id281956209?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/2e/b3/272eb3a1-063f-fd92-0abf-e0a838b69a93/tasks_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/2e/b3/272eb3a1-063f-fd92-0abf-e0a838b69a93/tasks_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -403,30 +400,31 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/77/74/64/7774647f-8c8d-04cd-b550-694a809f1fba/APP_IPHONE_55-3.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/17/56/2b/17562ba9-e024-9d15-39b2-b9963a770776/APP_IPHONE_55-4.png/392x696bb.png"
       ],
-      "minimumOsVersion": "17.0",
+      "features": [
+        "iosUniversal"
+      ],
+      "fileSizeBytes": "166870016",
+      "formattedPrice": "Free",
       "averageUserRating": 4.80016,
-      "trackCensoredName": "Google Tasks: Get Things Done",
       "trackViewUrl": "https://apps.apple.com/us/app/google-tasks-get-things-done/id1353634006?uo=4",
       "contentAdvisoryRating": "4+",
+      "trackCensoredName": "Google Tasks: Get Things Done",
+      "minimumOsVersion": "17.0",
       "artistId": 281956209,
       "artistName": "Google",
       "genres": [
         "Productivity"
       ],
       "price": 0,
-      "bundleId": "com.google.tasks",
-      "primaryGenreName": "Productivity",
-      "primaryGenreId": 6007,
+      "releaseNotes": "• Bug fixes and performance improvements.",
       "genreIds": [
         "6007"
       ],
       "sellerName": "Google LLC",
       "releaseDate": "2018-04-27T21:26:14Z",
-      "isVppDeviceBasedLicensingEnabled": true,
       "trackId": 1353634006,
       "trackName": "Google Tasks: Get Things Done",
       "currentVersionReleaseDate": "2026-08-26T12:24:40Z",
-      "releaseNotes": "• Bug fixes and performance improvements.",
       "version": "26.34.0",
       "wrapperType": "software",
       "currency": "USD",
@@ -488,12 +486,14 @@
         "VI",
         "ZU"
       ],
-      "fileSizeBytes": "166870016",
-      "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 106034,
+      "userRatingCountForCurrentVersion": 106059,
       "trackContentRating": "4+",
       "averageUserRatingForCurrentVersion": 4.80016,
-      "userRatingCount": 106034,
+      "bundleId": "com.google.tasks",
+      "primaryGenreName": "Productivity",
+      "primaryGenreId": 6007,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "userRatingCount": 106059,
       "country": "USA"
     }
   ]
