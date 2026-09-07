@@ -1,5 +1,5 @@
 {
-  "resultCount": 3,
+  "resultCount": 4,
   "results": [
     {
       "date": "20260701",
@@ -47,15 +47,52 @@
       "country": "fr",
       "mediaType": "apps",
       "feed": "top-paid",
-      "rank": 6,
+      "rank": 12,
       "artistName": "Fongo Inc.",
       "id": "860809977",
       "name": "Fongo World Edition",
       "releaseDate": "2014-07-26",
       "kind": "apps",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/cf/23/07cf235f-d36f-772d-1bfb-018eb4ad284b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "genres": [],
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/78/cd/ec78cd71-2e58-ca23-6246-f2e87e4adec0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6005",
+          "name": "Réseaux sociaux",
+          "url": "https://itunes.apple.com/fr/genre/id6005"
+        },
+        {
+          "genreId": "6007",
+          "name": "Productivité",
+          "url": "https://itunes.apple.com/fr/genre/id6007"
+        }
+      ],
       "url": "https://apps.apple.com/fr/app/fongo-world-edition/id860809977"
+    },
+    {
+      "date": "20260901",
+      "country": "gb",
+      "mediaType": "apps",
+      "feed": "top-paid",
+      "rank": 93,
+      "artistName": "Fongo Inc.",
+      "id": "860809977",
+      "name": "Fongo World Edition",
+      "releaseDate": "2014-07-26",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/78/cd/ec78cd71-2e58-ca23-6246-f2e87e4adec0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6005",
+          "name": "Social Networking",
+          "url": "https://itunes.apple.com/gb/genre/id6005"
+        },
+        {
+          "genreId": "6007",
+          "name": "Productivity",
+          "url": "https://itunes.apple.com/gb/genre/id6007"
+        }
+      ],
+      "url": "https://apps.apple.com/gb/app/fongo-world-edition/id860809977"
     }
   ]
 }
