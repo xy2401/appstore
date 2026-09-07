@@ -189,9 +189,6 @@
       "userRatingCount": 109
     },
     {
-      "ipadScreenshotUrls": [],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/3e/6b/b13e6ba9-35c5-eabb-251b-c1bb3207b030/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a1/99/94/a19994d9-90cd-a932-b411-0310ed4ac24a/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-06-14_at_12.31.02.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2d/66/e9/2d66e99c-aa73-3177-e090-5631da42a912/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-06-14_at_12.32.10.png/320x480bb.jpg",
@@ -204,13 +201,13 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/df/13/2e/df132e2b-13cb-40fa-e509-0055b5c4a404/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-06-14_at_12.35.03.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/81/a6/36/81a636ca-df26-2656-c9f1-4487390276f2/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-06-14_at_12.43.50.png/320x480bb.jpg"
       ],
-      "isGameCenterEnabled": false,
-      "advisories": [],
-      "features": [],
-      "kind": "software",
+      "ipadScreenshotUrls": [],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/3e/6b/b13e6ba9-35c5-eabb-251b-c1bb3207b030/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "artistViewUrl": "https://apps.apple.com/us/developer/patrick-smith/id1569922925?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/3e/6b/b13e6ba9-35c5-eabb-251b-c1bb3207b030/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/3e/6b/b13e6ba9-35c5-eabb-251b-c1bb3207b030/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
+      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -340,44 +337,47 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
+      "advisories": [],
+      "kind": "software",
+      "features": [],
       "languageCodesISO2A": [
         "EN"
       ],
-      "averageUserRatingForCurrentVersion": 4.68907,
+      "fileSizeBytes": "53129216",
+      "formattedPrice": "$0.99",
       "userRatingCountForCurrentVersion": 119,
       "trackContentRating": "4+",
-      "minimumOsVersion": "18.6",
-      "price": 0.99,
+      "averageUserRating": 4.68907,
+      "averageUserRatingForCurrentVersion": 4.68907,
+      "trackCensoredName": "Air & Space Fitness Calculator",
+      "trackViewUrl": "https://apps.apple.com/us/app/air-space-fitness-calculator/id1569922923?uo=4",
+      "contentAdvisoryRating": "4+",
       "artistId": 1569922925,
       "artistName": "Patrick Smith",
+      "genres": [
+        "Health & Fitness",
+        "Utilities"
+      ],
+      "price": 0.99,
+      "releaseDate": "2021-05-30T07:00:00Z",
+      "trackId": 1569922923,
+      "trackName": "Air & Space Fitness Calculator",
+      "primaryGenreName": "Health & Fitness",
+      "primaryGenreId": 6013,
       "sellerName": "Patrick Smith",
-      "bundleId": "com.patricksmith.USAF-PT-Calculator",
+      "isVppDeviceBasedLicensingEnabled": true,
       "genreIds": [
         "6013",
         "6002"
       ],
-      "trackId": 1569922923,
-      "trackName": "Air & Space Fitness Calculator",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseDate": "2021-05-30T07:00:00Z",
       "currentVersionReleaseDate": "2026-06-16T14:34:25Z",
       "releaseNotes": "4.0.1. Updated the save score database upgrade to be more stable. If you experience issues with saving scores, try deleting and reinstalling the app. \n\nNew user interface! \n- A sleek new visual design\n- Input data persists when navigating throughout the app until you either reset the page or restart the app\n- Share your scores with friends or save them for tracking your fitness journey\n- View historical test trends\n- Improved input validation and usability\n- Added compliance with Air Force BCA exemptions, including BFA pass/fail\n- Added warning tracking to the HAMR Helper, which will automatically stop after 3 consecutive warnings and display the last completed shuttle\n- Added additional functionality to the DAFMAN/SPFMAN and score chart pages to allow searching the PDFs or jumping straight to the page you need\n- Numerous other performance improvements, bug fixes, and stability enhancments",
       "version": "4.0.1",
       "wrapperType": "software",
       "currency": "USD",
       "description": "All new 2026 Score Charts!\n\nUse the main calculator to determine your fitness assessment score. \n  -  calculates any component option\n  -  calculates exemptions\n  -  adjusts for location altitude\n  -  shows overall score as well as individual component scores\n  -  use the new share feature to show your friends how you did\n\nSave scores and track progress over time\n\nUse BestScore to determine the best combination of component alternatives to test with in order to maximize your score\n\nUse the HAMR Helper to practice for the HAMR test\n \nReference up-to-date score charts and the most current DAFMAN and SPFMAN 36-2905\n\nSave your test preferences for quicker scoring\n\n***This app is not official and should be used for reference purposes only. Scoring should be verified against official Air Force/Space Force Fitness Assessment scoring guidelines***",
-      "formattedPrice": "$0.99",
-      "fileSizeBytes": "53129216",
-      "averageUserRating": 4.68907,
-      "trackCensoredName": "Air & Space Fitness Calculator",
-      "trackViewUrl": "https://apps.apple.com/us/app/air-space-fitness-calculator/id1569922923?uo=4",
-      "contentAdvisoryRating": "4+",
-      "primaryGenreName": "Health & Fitness",
-      "primaryGenreId": 6013,
-      "genres": [
-        "Health & Fitness",
-        "Utilities"
-      ],
+      "minimumOsVersion": "18.6",
+      "bundleId": "com.patricksmith.USAF-PT-Calculator",
       "userRatingCount": 119,
       "country": "USA"
     }

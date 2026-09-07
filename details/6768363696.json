@@ -197,16 +197,11 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/70/6c/43/706c43b5-92a9-8edd-498f-0c26d3513e89/_U5206_U7ec4_4.png/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/ac/f4/a4acf48a-72b9-455f-895a-a1b33ea8f454/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/ac/f4/a4acf48a-72b9-455f-895a-a1b33ea8f454/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/ac/f4/a4acf48a-72b9-455f-895a-a1b33ea8f454/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/cn/developer/%E5%BE%81-%E5%90%B4/id1107254547?uo=4",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/1a/8f/8a1a8f47-cef0-a4fb-714c-0303a48a697b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
       ],
-      "isGameCenterEnabled": false,
-      "advisories": [],
-      "kind": "software",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -336,43 +331,49 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "averageUserRatingForCurrentVersion": 4.2,
-      "averageUserRating": 4.2,
-      "trackCensoredName": "TVSnap",
+      "advisories": [],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/cn/developer/tsz-hong-ma/id6806369957?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/1a/8f/8a1a8f47-cef0-a4fb-714c-0303a48a697b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/1a/8f/8a1a8f47-cef0-a4fb-714c-0303a48a697b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+      "averageUserRatingForCurrentVersion": 4,
       "languageCodesISO2A": [
         "EN",
         "ZH"
       ],
-      "fileSizeBytes": "5921792",
+      "fileSizeBytes": "5946368",
       "formattedPrice": "¥8.00",
-      "contentAdvisoryRating": "4+",
-      "userRatingCountForCurrentVersion": 5,
-      "trackViewUrl": "https://apps.apple.com/cn/app/tvsnap/id6768363696?uo=4",
+      "userRatingCountForCurrentVersion": 4,
       "trackContentRating": "4+",
-      "minimumOsVersion": "16.0",
+      "artistId": 6806369957,
+      "artistName": "Tsz Hong Ma",
       "genres": [
         "工具"
       ],
-      "artistId": 1107254547,
-      "artistName": "征 吴",
-      "bundleId": "com.lxdev.ATVSnap",
-      "genreIds": [
-        "6002"
-      ],
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-05-27T03:03:13Z",
-      "version": "1.2.1",
-      "wrapperType": "software",
-      "currency": "CNY",
-      "description": "TVSnap — Apple TV 投屏工具\n\n将 Apple TV 画面实时同步到 iPhone，支持截图和录屏。\n\n功能亮点\n- Apple TV 屏幕实时镜像到 iPhone\n- 一键截图，保存电视画面\n- 屏幕录制，可选 30/60 FPS\n- 内置媒体库，轻松管理截图和录屏\n\n设计特性\n- 深色模式图标适配\n- 多主题配色可选\n- 中英文双语支持\n- 触觉反馈\n- 兼容 iOS 16+",
-      "sellerName": "征 吴",
-      "releaseDate": "2026-05-26T07:00:00Z",
       "price": 8,
       "trackId": 6768363696,
       "trackName": "TVSnap",
+      "releaseDate": "2026-05-26T07:00:00Z",
+      "genreIds": [
+        "6002"
+      ],
       "primaryGenreName": "Utilities",
       "primaryGenreId": 6002,
-      "userRatingCount": 5,
+      "sellerName": "Tsz Hong Ma",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseNotes": "- 新增镜像页横竖屏切换\n- 新增推流分辨率选项（1080p / 4K）\n- 修复切换主题后波纹动画消失\n- 修复录制视频无法播放",
+      "version": "1.3.0",
+      "wrapperType": "software",
+      "currency": "CNY",
+      "description": "TVSnap — Apple TV 投屏工具\n\n将 Apple TV 画面实时同步到 iPhone，支持截图和录屏。\n\n功能亮点\n- Apple TV 屏幕实时镜像到 iPhone\n- 一键截图，保存电视画面\n- 屏幕录制，可选 30/60 FPS\n- 内置媒体库，轻松管理截图和录屏\n\n设计特性\n- 深色模式图标适配\n- 多主题配色可选\n- 中英文双语支持\n- 触觉反馈\n- 兼容 iOS 16+",
+      "minimumOsVersion": "16.0",
+      "bundleId": "com.lxdev.ATVSnap",
+      "trackCensoredName": "TVSnap",
+      "trackViewUrl": "https://apps.apple.com/cn/app/tvsnap/id6768363696?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4,
+      "currentVersionReleaseDate": "2026-09-06T23:09:30Z",
+      "userRatingCount": 4,
       "country": "CHN"
     }
   ]

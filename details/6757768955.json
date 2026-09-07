@@ -195,6 +195,9 @@
     },
     {
       "isGameCenterEnabled": false,
+      "artistViewUrl": "https://apps.apple.com/de/developer/tobias-bechtold/id1830364539?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/6f/6b/696f6b39-21e8-40f5-561a-26caa9558b4f/intake-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/6f/6b/696f6b39-21e8-40f5-561a-26caa9558b4f/intake-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
       "features": [
         "iosUniversal"
       ],
@@ -347,11 +350,12 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ab/d7/65/abd76591-bc1f-c54e-ae27-5fd820a5419f/de-2-Screenshot_3.png/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/51/fd/a551fd9f-24c8-976e-0cd4-4aae4fb32681/intake-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/de/developer/tobias-bechtold/id1830364539?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/51/fd/a551fd9f-24c8-976e-0cd4-4aae4fb32681/intake-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/51/fd/a551fd9f-24c8-976e-0cd4-4aae4fb32681/intake-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
-      "releaseNotes": "Danke, dass du Intake benutzt!\n\nIn dieser Version behoben:\n• Nach dem Scannen eines Barcodes konnte sich ein komplett leerer Bildschirm öffnen. Das Scan-Ergebnis erscheint jetzt zuverlässig.\n• Der Suchindikator schwebt jetzt über der Liste, statt sie zu verschieben. Ergebnisse springen nicht mehr genau dann, wenn du tippst.\n• Der Schalter zwischen Barcode und Essen scannen reagiert auf seiner ganzen Fläche, statt die Kamera scharfzustellen.\n• Ein gescannter Barcode ohne Datenbanktreffer öffnet sich jetzt als neues Produkt statt fälschlich als Produkt bearbeiten.\n\nNeu:\n• Gewichtsfelder akzeptieren Zehntelgramm. Eine Prise Salz wird als 0,5 g geloggt statt als volles Gramm, in Einträgen und Rezeptzutaten.",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/6f/6b/696f6b39-21e8-40f5-561a-26caa9558b4f/intake-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "averageUserRatingForCurrentVersion": 4.76051,
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.76051,
+      "trackCensoredName": "Intake: Kalorienzähler & Diät",
+      "trackViewUrl": "https://apps.apple.com/de/app/intake-kalorienz%C3%A4hler-di%C3%A4t/id6757768955?uo=4",
       "artistId": 1830364539,
       "artistName": "Tobias Bechtold",
       "genres": [
@@ -359,24 +363,12 @@
         "Essen und Trinken"
       ],
       "price": 6.99,
-      "bundleId": "de.bechtoldit.intake",
-      "releaseDate": "2026-01-20T08:00:00Z",
-      "sellerName": "Tobias Bechtold",
-      "trackId": 6757768955,
-      "trackName": "Intake: Kalorienzähler & Diät",
-      "genreIds": [
-        "6013",
-        "6023"
-      ],
       "primaryGenreName": "Health & Fitness",
       "primaryGenreId": 6013,
-      "currentVersionReleaseDate": "2026-08-31T18:01:26Z",
-      "version": "2.6.1",
-      "wrapperType": "software",
-      "currency": "EUR",
-      "description": "Intake ist ein minimalistischer Kalorienzähler für Menschen, die einfach nur tracken wollen – mit fairem Einmalkauf, ohne Gamification und ohne unnötige Ernährungstipps.\n\nWas Intake kann:\n\n* Kalorien schnell und unkompliziert eintragen und gesund abnehmen\n* Tagesübersicht mit Ziel, gegessen und verbleibend\n* Essen tracken (Frühstück, Mittag, Abendessen, Snacks)\n* Intake AI: Essen per Foto oder Text zu Mahlzeiten hinzufügen\n* KI-Schätzungen als eine Mahlzeit loggen oder jede erkannte Zutat einzeln – mit eigenem Gewicht und Kalorien\n* Schätzungen direkt korrigieren: Zutaten, Kalorien und Portionsgröße anpassen, ohne neu zu schreiben\n* Widgets für noch schnelleres Loggen\n* Nährwertlabel scannen und automatisch ausfüllen lassen\n* Eigene Rezepte erstellen zum schnellen Loggen von selbstgekochten Gerichten\n* Produktsuche & Barcode-Scan\n* Intervallfasten\n* Wasser tracken, um genug zu trinken\n* Lebensmittel-Datenbank auf Basis von Open Food Facts\n* Optionale Apple Health Integration für Aktivitätskalorien\n\nAlles ohne Account – deine Daten bleiben auf deinem Gerät.\n\nIntake AI ist ein optionales Add-on für alle, die ihr Essen noch schneller erfassen möchten. Du kannst eine Mahlzeit fotografieren oder beschreiben, und Intake AI sagt dir genau welche Zutaten enthalten sind und wieviele Kalorien dein Essen hat. Beim Erstellen eigener Mahlzeiten kannst du außerdem ein Nährwertlabel scannen – Intake AI füllt die Angaben automatisch für dich aus.\n\nAlternativ kannst du auch deinen eigenen API Schlüssel von ChatGPT, Claude oder Gemini nutzen. Foto-Logging, Text-Chat und die vollständige Zutatenliste sind dabei enthalten; das nachträgliche Korrigieren einer Schätzung bleibt Intake AI vorbehalten.\n\nDie Nutzung von Intake AI ist großzügig ausgelegt und unterliegt einer fairen Nutzung, damit das Feature für alle zuverlässig und bezahlbar bleibt.\n\nFür wen Intake ist\n\nFür alle, die eine ruhige, ästhetische App wollen, die sich anfühlt wie iOS – und nicht wie ein Fitness-Spiel.\n\nOhne Bullshit\n\nKein Abo für die Basis-App\n\nKein Login\n\nKeine Streaks\n\nKeine Punkte\n\nKeine „Tipps“, die du nicht gefragt hast\n\nIntake. Tracken. Fertig.\n\nNutzungsbedingungen: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-      "averageUserRatingForCurrentVersion": 4.76667,
-      "sellerUrl": "https://www.getintake.de",
+      "bundleId": "de.bechtoldit.intake",
+      "trackId": 6757768955,
+      "trackName": "Intake: Kalorienzähler & Diät",
+      "isVppDeviceBasedLicensingEnabled": true,
       "languageCodesISO2A": [
         "NL",
         "EN",
@@ -387,17 +379,25 @@
         "PT",
         "ES"
       ],
-      "fileSizeBytes": "238238720",
+      "fileSizeBytes": "238763008",
       "formattedPrice": "6,99 €",
-      "userRatingCountForCurrentVersion": 300,
+      "userRatingCountForCurrentVersion": 309,
       "trackContentRating": "4+",
+      "sellerName": "Tobias Bechtold",
+      "releaseNotes": "Danke, dass du Intake benutzt!\n\nIn dieser Version behoben:\n• Schlagwörter an deinen Lebensmitteln konnten nach der täglichen Aktualisierung der Bibliothek verschwinden. Sie bleiben jetzt erhalten, ebenso ausgeblendete häufige Lebensmittel und entfernte Favoriten.\n• Mehrere Produkte nacheinander zu scannen konnte den Produktbildschirm sekundenlang einfrieren oder von selbst schließen. Das Speichern läuft jetzt im Hintergrund, der Bildschirm bleibt bedienbar.\n• Ein eigenes Produkt zur Prüfung einzureichen hinterließ eine zweite Kopie in Meine Produkte und nichts unter Einreichungen. Jetzt bleibt es ein Produkt, steht mit Status unter Einreichungen, und das Formular sagt dir, wenn das Senden fehlschlägt.\n• „Erstellen“ beim Essen hinzufügen trug das Produkt ein, leerte das Formular und blieb stehen. Jetzt geht es nach dem Eintragen zurück.\n• Das Onboarding fragt Health jetzt nach Geburtsdatum und Geschlecht. Bisher fehlte die Berechtigung dafür, also blieb ein Standard-Geburtsjahr stehen.\n• Ein Wechsel zu Health und zurück konnte eine zweite Aktualisierung über die erste legen und die App für Sekunden einfrieren. Jetzt läuft eine nach der anderen.\n• Die Abfrage beim Zurücksetzen sagt jetzt, was wirklich passiert: Sie leert dieses Gerät, Daten in iCloud bleiben.\n• Nach dem Scannen eines Barcodes konnte sich ein komplett leerer Bildschirm öffnen. Das Scan-Ergebnis erscheint jetzt zuverlässig.\n• Der Suchindikator schwebt jetzt über der Liste, statt sie zu verschieben. Ergebnisse springen nicht mehr genau dann, wenn du tippst.\n• Der Schalter zwischen Barcode und Essen scannen reagiert auf seiner ganzen Fläche, statt die Kamera scharfzustellen.\n• Ein gescannter Barcode ohne Datenbanktreffer öffnet sich jetzt als neues Produkt statt fälschlich als Produkt bearbeiten.\n\nNeu:\n• Gewichtsfelder akzeptieren Zehntelgramm. Eine Prise Salz wird als 0,5 g geloggt statt als volles Gramm, in Einträgen und Rezeptzutaten.\n• iCloud-Daten löschen: Ein neuer Button in den iCloud-Einstellungen entfernt alles, was Intake in iCloud gespeichert hat, und schaltet die Synchronisierung aus. Daten auf deinem Gerät bleiben.\n• Produkte aus der Bibliothek zur Prüfung einreichen: Anlegen und Einreichen aus demselben Formular, mit Nährwertlabel-Scanner, einer Option für Produkte ohne Barcode und einer Liste, was vor dem Senden noch fehlt. Ein Barcode, den es schon gibt, öffnet stattdessen das bestehende Produkt.",
+      "releaseDate": "2026-01-20T08:00:00Z",
+      "currentVersionReleaseDate": "2026-09-04T20:05:46Z",
+      "version": "2.6.2",
+      "wrapperType": "software",
+      "currency": "EUR",
+      "description": "Intake ist ein minimalistischer Kalorienzähler für Menschen, die einfach nur tracken wollen – mit fairem Einmalkauf, ohne Gamification und ohne unnötige Ernährungstipps.\n\nWas Intake kann:\n\n* Kalorien schnell und unkompliziert eintragen und gesund abnehmen\n* Tagesübersicht mit Ziel, gegessen und verbleibend\n* Essen tracken (Frühstück, Mittag, Abendessen, Snacks)\n* Intake AI: Essen per Foto oder Text zu Mahlzeiten hinzufügen\n* KI-Schätzungen als eine Mahlzeit loggen oder jede erkannte Zutat einzeln – mit eigenem Gewicht und Kalorien\n* Schätzungen direkt korrigieren: Zutaten, Kalorien und Portionsgröße anpassen, ohne neu zu schreiben\n* Widgets für noch schnelleres Loggen\n* Nährwertlabel scannen und automatisch ausfüllen lassen\n* Eigene Rezepte erstellen zum schnellen Loggen von selbstgekochten Gerichten\n* Produktsuche & Barcode-Scan\n* Intervallfasten\n* Wasser tracken, um genug zu trinken\n* Lebensmittel-Datenbank auf Basis von Open Food Facts\n* Optionale Apple Health Integration für Aktivitätskalorien\n\nAlles ohne Account – deine Daten bleiben auf deinem Gerät.\n\nIntake AI ist ein optionales Add-on für alle, die ihr Essen noch schneller erfassen möchten. Du kannst eine Mahlzeit fotografieren oder beschreiben, und Intake AI sagt dir genau welche Zutaten enthalten sind und wieviele Kalorien dein Essen hat. Beim Erstellen eigener Mahlzeiten kannst du außerdem ein Nährwertlabel scannen – Intake AI füllt die Angaben automatisch für dich aus.\n\nAlternativ kannst du auch deinen eigenen API Schlüssel von ChatGPT, Claude oder Gemini nutzen. Foto-Logging, Text-Chat und die vollständige Zutatenliste sind dabei enthalten; das nachträgliche Korrigieren einer Schätzung bleibt Intake AI vorbehalten.\n\nDie Nutzung von Intake AI ist großzügig ausgelegt und unterliegt einer fairen Nutzung, damit das Feature für alle zuverlässig und bezahlbar bleibt.\n\nFür wen Intake ist\n\nFür alle, die eine ruhige, ästhetische App wollen, die sich anfühlt wie iOS – und nicht wie ein Fitness-Spiel.\n\nOhne Bullshit\n\nKein Abo für die Basis-App\n\nKein Login\n\nKeine Streaks\n\nKeine Punkte\n\nKeine „Tipps“, die du nicht gefragt hast\n\nIntake. Tracken. Fertig.\n\nNutzungsbedingungen: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
       "minimumOsVersion": "26.0",
-      "averageUserRating": 4.76667,
-      "trackCensoredName": "Intake: Kalorienzähler & Diät",
-      "trackViewUrl": "https://apps.apple.com/de/app/intake-kalorienz%C3%A4hler-di%C3%A4t/id6757768955?uo=4",
-      "contentAdvisoryRating": "4+",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "userRatingCount": 300,
+      "genreIds": [
+        "6013",
+        "6023"
+      ],
+      "sellerUrl": "https://www.getintake.de",
+      "userRatingCount": 309,
       "country": "DEU"
     }
   ]

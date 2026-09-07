@@ -229,12 +229,6 @@
       "userRatingCount": 1138237
     },
     {
-      "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [],
-      "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8d/de/b0/8ddeb0de-4792-5ed2-82b7-2f71d312cb5d/APP_IPHONE_55-0.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b9/bd/22/b9bd2237-fb2a-d358-afc7-1b960e8d0b9d/APP_IPHONE_55-1.png/392x696bb.png",
@@ -253,9 +247,10 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/16/6c/44166c7d-20fa-2e9b-66ea-73e5d45b1f5f/app_icon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/jp/developer/google/id281956209?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/16/6c/44166c7d-20fa-2e9b-66ea-73e5d45b1f5f/app_icon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/16/6c/44166c7d-20fa-2e9b-66ea-73e5d45b1f5f/app_icon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/100x100bb.jpg",
+      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -385,31 +380,11 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "minimumOsVersion": "16.0",
-      "artistId": 281956209,
-      "artistName": "Google",
-      "genres": [
-        "ユーティリティ"
-      ],
-      "price": 0,
-      "sellerName": "Google LLC",
-      "bundleId": "com.google.Authenticator",
-      "genreIds": [
-        "6002"
-      ],
-      "trackId": 388497605,
-      "trackName": "Google Authenticator",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseDate": "2010-09-20T07:29:36Z",
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
-      "currentVersionReleaseDate": "2026-08-24T18:26:15Z",
-      "releaseNotes": "• バグの修正と機能の改善を行いました。",
-      "version": "5.0.3",
-      "wrapperType": "software",
-      "currency": "JPY",
-      "description": "Google 認証システム機能を利用すると、ログイン時に 2 つ目の確認手順が追加されるため、オンライン アカウントのセキュリティをより一層強化できます。パスワードに加えて、スマートフォンの Google 認証システム アプリによって生成されたコードも入力する必要があります。\n\n確認コードは、ネットワークやモバイルデータに接続していなくても、スマートフォンの Google 認証システム アプリで生成できます。\n\n• 認証システムのコードを Google アカウントと複数のデバイス間で同期。これにより、スマートフォンを紛失した場合でも常にコードを利用できます。\n\n• QR コードによる認証システム アカウントの自動設定。すばやく簡単な操作で、コードを正しく設定できます。\n\n• 複数のアカウントに対応。認証システム アプリを使用すると複数のアカウントを管理できるため、ログインのたびにアプリを切り替える必要がなくなります。\n\n• 時間ベースとカウンタベースのコード生成に対応。ニーズに最適なコード生成方法を選択できます。\n\n• QR コードによるデバイス間のアカウント移行。アカウントを新しいデバイスに手軽に移行できます。\n\n\nGoogle で Google 認証システムを使用するには、お使いの Google アカウントで 2 段階認証プロセスを有効にする必要があります。有効にするには、http://www.google.com/2step にアクセスしてください",
-      "averageUserRatingForCurrentVersion": 4.67687,
+      "advisories": [],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/jp/developer/google/id281956209?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/16/6c/44166c7d-20fa-2e9b-66ea-73e5d45b1f5f/app_icon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/16/6c/44166c7d-20fa-2e9b-66ea-73e5d45b1f5f/app_icon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/100x100bb.jpg",
       "sellerUrl": "http://www.google.com/2step",
       "languageCodesISO2A": [
         "AR",
@@ -447,20 +422,60 @@
       ],
       "fileSizeBytes": "40885248",
       "formattedPrice": "無料",
-      "userRatingCountForCurrentVersion": 161091,
+      "userRatingCountForCurrentVersion": 161581,
       "trackContentRating": "4+",
+      "minimumOsVersion": "16.0",
+      "averageUserRatingForCurrentVersion": 4.67666,
+      "releaseNotes": "• バグの修正と機能の改善を行いました。",
+      "artistId": 281956209,
+      "artistName": "Google",
+      "genres": [
+        "ユーティリティ"
+      ],
+      "price": 0,
+      "bundleId": "com.google.Authenticator",
+      "genreIds": [
+        "6002"
+      ],
+      "trackId": 388497605,
+      "trackName": "Google Authenticator",
+      "releaseDate": "2010-09-20T07:29:36Z",
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
+      "sellerName": "Google LLC",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-08-24T18:26:15Z",
+      "version": "5.0.3",
+      "wrapperType": "software",
+      "currency": "JPY",
+      "description": "Google 認証システム機能を利用すると、ログイン時に 2 つ目の確認手順が追加されるため、オンライン アカウントのセキュリティをより一層強化できます。パスワードに加えて、スマートフォンの Google 認証システム アプリによって生成されたコードも入力する必要があります。\n\n確認コードは、ネットワークやモバイルデータに接続していなくても、スマートフォンの Google 認証システム アプリで生成できます。\n\n• 認証システムのコードを Google アカウントと複数のデバイス間で同期。これにより、スマートフォンを紛失した場合でも常にコードを利用できます。\n\n• QR コードによる認証システム アカウントの自動設定。すばやく簡単な操作で、コードを正しく設定できます。\n\n• 複数のアカウントに対応。認証システム アプリを使用すると複数のアカウントを管理できるため、ログインのたびにアプリを切り替える必要がなくなります。\n\n• 時間ベースとカウンタベースのコード生成に対応。ニーズに最適なコード生成方法を選択できます。\n\n• QR コードによるデバイス間のアカウント移行。アカウントを新しいデバイスに手軽に移行できます。\n\n\nGoogle で Google 認証システムを使用するには、お使いの Google アカウントで 2 段階認証プロセスを有効にする必要があります。有効にするには、http://www.google.com/2step にアクセスしてください",
       "trackCensoredName": "Google Authenticator",
       "trackViewUrl": "https://apps.apple.com/jp/app/google-authenticator/id388497605?uo=4",
       "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.67687,
-      "userRatingCount": 161091,
+      "averageUserRating": 4.67666,
+      "userRatingCount": 161581,
       "country": "JPN"
     },
     {
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2e/5c/3c/2e5c3cdf-c586-65f1-4d3c-39f8fad0fcbf/APP_IPHONE_55-0.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c4/46/c7/c446c73c-438c-dbad-95cb-be6e46f64222/APP_IPHONE_55-1.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bf/af/75/bfaf7562-b8b9-8a14-32a7-6870c9bf7645/APP_IPHONE_55-2.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/64/e4/f1/64e4f151-655f-8604-599f-e5e27e73c41a/APP_IPHONE_55-3.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bd/32/ff/bd32ff82-862e-7b5a-3bae-abe39fd7872f/APP_IPHONE_55-4.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/01/57/ca/0157caba-2723-e007-8c29-f6215221e6c0/APP_IPHONE_55-5.png/392x696bb.png"
+      ],
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2f/28/df/2f28df05-8cb9-91a1-28c1-2a8f87c419fd/APP_IPAD_PRO_129-0.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bd/d1/fe/bdd1fe5b-6bc3-1cfc-f32a-fab0bbc78ac9/APP_IPAD_PRO_129-1.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a7/15/54/a715549e-8813-151a-04ac-d1d941681d73/APP_IPAD_PRO_129-2.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/66/cd/b2/66cdb28d-9135-317a-8f1f-340d3f2a06a9/APP_IPAD_PRO_129-3.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e3/52/8b/e3528b2c-ff14-2f23-990c-4fae00747639/APP_IPAD_PRO_129-4.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cb/ab/04/cbab0425-2fb0-e77d-0432-cc0835f265f4/APP_IPAD_PRO_129-5.png/576x768bb.png"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/16/6c/44166c7d-20fa-2e9b-66ea-73e5d45b1f5f/app_icon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
       "isGameCenterEnabled": false,
-      "artistViewUrl": "https://apps.apple.com/us/developer/google/id281956209?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/16/6c/44166c7d-20fa-2e9b-66ea-73e5d45b1f5f/app_icon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/16/6c/44166c7d-20fa-2e9b-66ea-73e5d45b1f5f/app_icon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/100x100bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -592,54 +607,13 @@
       ],
       "advisories": [],
       "kind": "software",
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2f/28/df/2f28df05-8cb9-91a1-28c1-2a8f87c419fd/APP_IPAD_PRO_129-0.png/576x768bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bd/d1/fe/bdd1fe5b-6bc3-1cfc-f32a-fab0bbc78ac9/APP_IPAD_PRO_129-1.png/576x768bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a7/15/54/a715549e-8813-151a-04ac-d1d941681d73/APP_IPAD_PRO_129-2.png/576x768bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/66/cd/b2/66cdb28d-9135-317a-8f1f-340d3f2a06a9/APP_IPAD_PRO_129-3.png/576x768bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e3/52/8b/e3528b2c-ff14-2f23-990c-4fae00747639/APP_IPAD_PRO_129-4.png/576x768bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cb/ab/04/cbab0425-2fb0-e77d-0432-cc0835f265f4/APP_IPAD_PRO_129-5.png/576x768bb.png"
-      ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/16/6c/44166c7d-20fa-2e9b-66ea-73e5d45b1f5f/app_icon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2e/5c/3c/2e5c3cdf-c586-65f1-4d3c-39f8fad0fcbf/APP_IPHONE_55-0.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c4/46/c7/c446c73c-438c-dbad-95cb-be6e46f64222/APP_IPHONE_55-1.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bf/af/75/bfaf7562-b8b9-8a14-32a7-6870c9bf7645/APP_IPHONE_55-2.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/64/e4/f1/64e4f151-655f-8604-599f-e5e27e73c41a/APP_IPHONE_55-3.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bd/32/ff/bd32ff82-862e-7b5a-3bae-abe39fd7872f/APP_IPHONE_55-4.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/01/57/ca/0157caba-2723-e007-8c29-f6215221e6c0/APP_IPHONE_55-5.png/392x696bb.png"
-      ],
+      "artistViewUrl": "https://apps.apple.com/us/developer/google/id281956209?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/16/6c/44166c7d-20fa-2e9b-66ea-73e5d45b1f5f/app_icon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/16/6c/44166c7d-20fa-2e9b-66ea-73e5d45b1f5f/app_icon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/100x100bb.jpg",
       "features": [
         "iosUniversal"
       ],
-      "fileSizeBytes": "40885248",
-      "formattedPrice": "Free",
-      "averageUserRating": 4.85074,
-      "trackViewUrl": "https://apps.apple.com/us/app/google-authenticator/id388497605?uo=4",
-      "contentAdvisoryRating": "4+",
-      "trackCensoredName": "Google Authenticator",
-      "minimumOsVersion": "16.0",
-      "artistId": 281956209,
-      "artistName": "Google",
-      "genres": [
-        "Utilities"
-      ],
-      "price": 0,
-      "releaseNotes": "• Bug fixes and improvements.",
-      "genreIds": [
-        "6002"
-      ],
-      "sellerName": "Google LLC",
-      "releaseDate": "2010-09-20T07:29:36Z",
-      "trackId": 388497605,
-      "trackName": "Google Authenticator",
-      "currentVersionReleaseDate": "2026-08-24T18:26:15Z",
-      "version": "5.0.3",
-      "wrapperType": "software",
-      "currency": "USD",
-      "description": "Google Authenticator adds an extra layer of security to your online accounts by adding a second step of verification when you sign in. This means that in addition to your password, you'll also need to enter a code that is generated by the Google Authenticator app on your phone.\n\nThe verification code can be generated by the Google Authenticator app on your phone, even if you don't have a network or cellular connection.\n\n• Sync your Authenticator codes to your Google Account and across your devices. This way, you can always access them even if you lose your phone.\n\n• Set up your Authenticator accounts automatically with a QR code. This is quick and easy, and it helps to ensure that your codes are set up correctly.\n\n• Support for multiple accounts. You can use the Authenticator app to manage multiple accounts, so you don't have to switch between apps every time you need to sign in.\n\n• Support for time-based and counter-based code generation. You can choose the type of code generation that best suits your needs.\n\n• Transfer accounts between devices with a QR code. This is a convenient way to move your accounts to a new device.\n\n\nTo use Google Authenticator with Google, you need to enable 2-Step Verification on your Google Account. To get started visit http://www.google.com/2step",
-      "sellerUrl": "http://www.google.com/2step",
+      "averageUserRatingForCurrentVersion": 4.85065,
       "languageCodesISO2A": [
         "AR",
         "CA",
@@ -674,25 +648,68 @@
         "UK",
         "VI"
       ],
-      "userRatingCountForCurrentVersion": 1166063,
+      "fileSizeBytes": "40885248",
+      "formattedPrice": "Free",
+      "userRatingCountForCurrentVersion": 1170839,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.85074,
-      "bundleId": "com.google.Authenticator",
+      "sellerUrl": "http://www.google.com/2step",
+      "minimumOsVersion": "16.0",
+      "artistId": 281956209,
+      "artistName": "Google",
+      "genres": [
+        "Utilities"
+      ],
+      "price": 0,
+      "genreIds": [
+        "6002"
+      ],
+      "releaseDate": "2010-09-20T07:29:36Z",
+      "sellerName": "Google LLC",
       "primaryGenreName": "Utilities",
       "primaryGenreId": 6002,
+      "currentVersionReleaseDate": "2026-08-24T18:26:15Z",
       "isVppDeviceBasedLicensingEnabled": true,
-      "userRatingCount": 1166063,
+      "releaseNotes": "• Bug fixes and improvements.",
+      "version": "5.0.3",
+      "wrapperType": "software",
+      "currency": "USD",
+      "description": "Google Authenticator adds an extra layer of security to your online accounts by adding a second step of verification when you sign in. This means that in addition to your password, you'll also need to enter a code that is generated by the Google Authenticator app on your phone.\n\nThe verification code can be generated by the Google Authenticator app on your phone, even if you don't have a network or cellular connection.\n\n• Sync your Authenticator codes to your Google Account and across your devices. This way, you can always access them even if you lose your phone.\n\n• Set up your Authenticator accounts automatically with a QR code. This is quick and easy, and it helps to ensure that your codes are set up correctly.\n\n• Support for multiple accounts. You can use the Authenticator app to manage multiple accounts, so you don't have to switch between apps every time you need to sign in.\n\n• Support for time-based and counter-based code generation. You can choose the type of code generation that best suits your needs.\n\n• Transfer accounts between devices with a QR code. This is a convenient way to move your accounts to a new device.\n\n\nTo use Google Authenticator with Google, you need to enable 2-Step Verification on your Google Account. To get started visit http://www.google.com/2step",
+      "bundleId": "com.google.Authenticator",
+      "averageUserRating": 4.85065,
+      "trackCensoredName": "Google Authenticator",
+      "trackViewUrl": "https://apps.apple.com/us/app/google-authenticator/id388497605?uo=4",
+      "contentAdvisoryRating": "4+",
+      "trackId": 388497605,
+      "trackName": "Google Authenticator",
+      "userRatingCount": 1170839,
       "country": "USA"
     },
     {
       "artistViewUrl": "https://apps.apple.com/de/developer/google/id281956209?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/16/6c/44166c7d-20fa-2e9b-66ea-73e5d45b1f5f/app_icon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/16/6c/44166c7d-20fa-2e9b-66ea-73e5d45b1f5f/app_icon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/100x100bb.jpg",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/32/9d/70/329d70ac-32c0-e731-2c9a-18d2c42a424c/APP_IPHONE_55-0.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7d/62/55/7d62551c-8512-4fea-fda6-f40ba94f7888/APP_IPHONE_55-1.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e9/1f/2a/e91f2a94-1a57-75e8-2737-4a2fff461ff9/APP_IPHONE_55-2.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/57/b5/f0/57b5f0df-fd9b-819c-ada0-c8f7b37ad32c/APP_IPHONE_55-3.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/71/40/ca/7140ca6c-286b-c279-dff1-f23586b79039/APP_IPHONE_55-4.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/01/08/2d/01082def-7a8f-ba5f-887e-a692bf8b40d6/APP_IPHONE_55-5.png/392x696bb.png"
+      ],
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f9/af/8a/f9af8a52-3a14-2e70-3f91-891b199dfd1a/APP_IPAD_PRO_129-0.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/da/77/88/da77885e-16b1-f5e5-5461-c6fc371f6bf5/APP_IPAD_PRO_129-1.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/54/3b/48/543b4816-9969-2af1-ce95-4d2091a28131/APP_IPAD_PRO_129-2.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a5/c6/4d/a5c64db6-81f5-ab61-95a1-8b86f6414e02/APP_IPAD_PRO_129-3.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c8/a7/cd/c8a7cd67-27d0-e84b-6e71-277c477a3fca/APP_IPAD_PRO_129-4.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/52/f6/62/52f662cd-84c0-52e4-bcaa-4c5ab4fbb4fb/APP_IPAD_PRO_129-5.png/576x768bb.png"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/16/6c/44166c7d-20fa-2e9b-66ea-73e5d45b1f5f/app_icon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
       "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
       ],
-      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -822,52 +839,13 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
+      "advisories": [],
       "kind": "software",
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/16/6c/44166c7d-20fa-2e9b-66ea-73e5d45b1f5f/app_icon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/32/9d/70/329d70ac-32c0-e731-2c9a-18d2c42a424c/APP_IPHONE_55-0.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7d/62/55/7d62551c-8512-4fea-fda6-f40ba94f7888/APP_IPHONE_55-1.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e9/1f/2a/e91f2a94-1a57-75e8-2737-4a2fff461ff9/APP_IPHONE_55-2.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/57/b5/f0/57b5f0df-fd9b-819c-ada0-c8f7b37ad32c/APP_IPHONE_55-3.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/71/40/ca/7140ca6c-286b-c279-dff1-f23586b79039/APP_IPHONE_55-4.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/01/08/2d/01082def-7a8f-ba5f-887e-a692bf8b40d6/APP_IPHONE_55-5.png/392x696bb.png"
-      ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f9/af/8a/f9af8a52-3a14-2e70-3f91-891b199dfd1a/APP_IPAD_PRO_129-0.png/576x768bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/da/77/88/da77885e-16b1-f5e5-5461-c6fc371f6bf5/APP_IPAD_PRO_129-1.png/576x768bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/54/3b/48/543b4816-9969-2af1-ce95-4d2091a28131/APP_IPAD_PRO_129-2.png/576x768bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a5/c6/4d/a5c64db6-81f5-ab61-95a1-8b86f6414e02/APP_IPAD_PRO_129-3.png/576x768bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c8/a7/cd/c8a7cd67-27d0-e84b-6e71-277c477a3fca/APP_IPAD_PRO_129-4.png/576x768bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/52/f6/62/52f662cd-84c0-52e4-bcaa-4c5ab4fbb4fb/APP_IPAD_PRO_129-5.png/576x768bb.png"
-      ],
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.79993,
+      "averageUserRating": 4.79976,
       "trackCensoredName": "Google Authenticator",
       "trackViewUrl": "https://apps.apple.com/de/app/google-authenticator/id388497605?uo=4",
-      "releaseNotes": "• Fehlerkorrekturen und Verbesserungen.",
-      "artistId": 281956209,
-      "artistName": "Google",
-      "genres": [
-        "Dienst­programme"
-      ],
-      "price": 0,
-      "genreIds": [
-        "6002"
-      ],
-      "bundleId": "com.google.Authenticator",
-      "sellerName": "Google LLC",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "trackId": 388497605,
-      "trackName": "Google Authenticator",
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
-      "currentVersionReleaseDate": "2026-08-24T18:26:15Z",
-      "version": "5.0.3",
-      "wrapperType": "software",
-      "currency": "EUR",
-      "description": "Google Authenticator erhöht die Sicherheit Ihrer Onlinekonten, da bei der Anmeldung ein zweiter Bestätigungsschritt erforderlich ist. Das bedeutet, dass Sie neben Ihrem Passwort auch einen Code eingeben müssen, der von der Google Authenticator App auf Ihrem Smartphone generiert wurde.\n\nDer Bestätigungscode kann über die Google Authenticator App auf Ihrem Smartphone erstellt werden, auch wenn keine Netzwerk- oder Mobilfunkverbindung besteht.\n\n• Synchronisieren Sie Ihre Authenticator-Codes mit Ihrem Google-Konto und auf allen Ihren Geräten. So können Sie jederzeit auf sie zugreifen, selbst wenn Sie Ihr Smartphone verlieren.\n\n• Richten Sie Ihre Authenticator-Konten automatisch mit einem QR-Code ein. Das geht schnell und einfach und hilft Ihnen, Ihre Codes korrekt einzurichten.\n\n• Unterstützung mehrerer Konten. Mit der Authenticator App können Sie mehrere Konten verwalten, sodass Sie nicht bei jeder Anmeldung zwischen Apps wechseln müssen.\n\n• Unterstützung einer zeit- und zählergesteuerten Codegenerierung. Sie können die Art der Codegenerierung auswählen, die Ihren Anforderungen am besten entspricht.\n\n• Übertragen Sie Konten mit einem QR-Code zwischen Geräten. So können Sie Ihre Konten ganz bequem auf ein neues Gerät verschieben.\n\n\nZur Verwendung von Google Authenticator müssen Sie die 2-Faktor-Authentifizierung in Ihrem Google-Konto aktivieren. Unter http://www.google.com/2step finden Sie weitere Informationen.",
-      "averageUserRatingForCurrentVersion": 4.79993,
+      "contentAdvisoryRating": "4+",
+      "averageUserRatingForCurrentVersion": 4.79976,
       "sellerUrl": "http://www.google.com/2step",
       "languageCodesISO2A": [
         "AR",
@@ -905,17 +883,36 @@
       ],
       "fileSizeBytes": "40885248",
       "formattedPrice": "Gratis",
-      "userRatingCountForCurrentVersion": 157450,
+      "userRatingCountForCurrentVersion": 158139,
       "trackContentRating": "4+",
-      "minimumOsVersion": "16.0",
+      "releaseNotes": "• Fehlerkorrekturen und Verbesserungen.",
+      "genres": [
+        "Dienst­programme"
+      ],
+      "artistName": "Google",
+      "artistId": 281956209,
+      "bundleId": "com.google.Authenticator",
       "releaseDate": "2010-09-20T07:29:36Z",
-      "userRatingCount": 157450,
+      "trackId": 388497605,
+      "trackName": "Google Authenticator",
+      "genreIds": [
+        "6002"
+      ],
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
+      "sellerName": "Google LLC",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-08-24T18:26:15Z",
+      "version": "5.0.3",
+      "wrapperType": "software",
+      "currency": "EUR",
+      "description": "Google Authenticator erhöht die Sicherheit Ihrer Onlinekonten, da bei der Anmeldung ein zweiter Bestätigungsschritt erforderlich ist. Das bedeutet, dass Sie neben Ihrem Passwort auch einen Code eingeben müssen, der von der Google Authenticator App auf Ihrem Smartphone generiert wurde.\n\nDer Bestätigungscode kann über die Google Authenticator App auf Ihrem Smartphone erstellt werden, auch wenn keine Netzwerk- oder Mobilfunkverbindung besteht.\n\n• Synchronisieren Sie Ihre Authenticator-Codes mit Ihrem Google-Konto und auf allen Ihren Geräten. So können Sie jederzeit auf sie zugreifen, selbst wenn Sie Ihr Smartphone verlieren.\n\n• Richten Sie Ihre Authenticator-Konten automatisch mit einem QR-Code ein. Das geht schnell und einfach und hilft Ihnen, Ihre Codes korrekt einzurichten.\n\n• Unterstützung mehrerer Konten. Mit der Authenticator App können Sie mehrere Konten verwalten, sodass Sie nicht bei jeder Anmeldung zwischen Apps wechseln müssen.\n\n• Unterstützung einer zeit- und zählergesteuerten Codegenerierung. Sie können die Art der Codegenerierung auswählen, die Ihren Anforderungen am besten entspricht.\n\n• Übertragen Sie Konten mit einem QR-Code zwischen Geräten. So können Sie Ihre Konten ganz bequem auf ein neues Gerät verschieben.\n\n\nZur Verwendung von Google Authenticator müssen Sie die 2-Faktor-Authentifizierung in Ihrem Google-Konto aktivieren. Unter http://www.google.com/2step finden Sie weitere Informationen.",
+      "minimumOsVersion": "16.0",
+      "price": 0,
+      "userRatingCount": 158139,
       "country": "DEU"
     },
     {
-      "artistViewUrl": "https://apps.apple.com/gb/developer/google/id281956209?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/16/6c/44166c7d-20fa-2e9b-66ea-73e5d45b1f5f/app_icon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/16/6c/44166c7d-20fa-2e9b-66ea-73e5d45b1f5f/app_icon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
@@ -1048,6 +1045,16 @@
       ],
       "advisories": [],
       "kind": "software",
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/09/e6/4e/09e64e3f-6e3c-c4f1-0fce-8f0b6a5c5525/APP_IPAD_PRO_129-0.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f4/46/57/f44657eb-82cc-d175-3f65-c70948ec020e/APP_IPAD_PRO_129-1.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/55/0e/7c/550e7c33-bf9f-e379-7e3e-303fa19b9230/APP_IPAD_PRO_129-2.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/25/18/65/25186530-e5b4-6ece-386b-c6db68204d25/APP_IPAD_PRO_129-3.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3e/aa/d0/3eaad05d-9fb1-86fa-316e-8145780f3103/APP_IPAD_PRO_129-4.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a7/a1/71/a7a171ab-74ef-f369-fc7e-5a429272949c/APP_IPAD_PRO_129-5.png/576x768bb.png"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/16/6c/44166c7d-20fa-2e9b-66ea-73e5d45b1f5f/app_icon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
       "features": [
         "iosUniversal"
       ],
@@ -1059,31 +1066,18 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f3/5b/d5/f35bd5b0-afa9-1ae2-af03-0f3372fab0b1/APP_IPHONE_55-4.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/94/30/aa/9430aa0c-4259-20cc-4c0d-d4efa46e9a85/APP_IPHONE_55-5.png/392x696bb.png"
       ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/09/e6/4e/09e64e3f-6e3c-c4f1-0fce-8f0b6a5c5525/APP_IPAD_PRO_129-0.png/576x768bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f4/46/57/f44657eb-82cc-d175-3f65-c70948ec020e/APP_IPAD_PRO_129-1.png/576x768bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/55/0e/7c/550e7c33-bf9f-e379-7e3e-303fa19b9230/APP_IPAD_PRO_129-2.png/576x768bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/25/18/65/25186530-e5b4-6ece-386b-c6db68204d25/APP_IPAD_PRO_129-3.png/576x768bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3e/aa/d0/3eaad05d-9fb1-86fa-316e-8145780f3103/APP_IPAD_PRO_129-4.png/576x768bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a7/a1/71/a7a171ab-74ef-f369-fc7e-5a429272949c/APP_IPAD_PRO_129-5.png/576x768bb.png"
-      ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/16/6c/44166c7d-20fa-2e9b-66ea-73e5d45b1f5f/app_icon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
-      "trackCensoredName": "Google Authenticator",
-      "trackViewUrl": "https://apps.apple.com/gb/app/google-authenticator/id388497605?uo=4",
-      "averageUserRating": 4.82083,
-      "contentAdvisoryRating": "4+",
+      "artistViewUrl": "https://apps.apple.com/gb/developer/google/id281956209?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/16/6c/44166c7d-20fa-2e9b-66ea-73e5d45b1f5f/app_icon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/16/6c/44166c7d-20fa-2e9b-66ea-73e5d45b1f5f/app_icon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/100x100bb.jpg",
       "artistId": 281956209,
       "artistName": "Google",
       "genres": [
         "Utilities"
       ],
       "price": 0,
-      "currentVersionReleaseDate": "2026-08-24T18:26:15Z",
-      "releaseNotes": "• Bug fixes and improvements.",
+      "releaseDate": "2010-09-20T07:29:36Z",
       "trackId": 388497605,
       "trackName": "Google Authenticator",
-      "releaseDate": "2010-09-20T07:29:36Z",
       "genreIds": [
         "6002"
       ],
@@ -1091,13 +1085,17 @@
       "primaryGenreId": 6002,
       "sellerName": "Google LLC",
       "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-08-24T18:26:15Z",
+      "releaseNotes": "• Bug fixes and improvements.",
       "version": "5.0.3",
       "wrapperType": "software",
       "currency": "GBP",
       "description": "Google Authenticator adds an extra layer of security to your online accounts by adding a second step of verification when you sign in. This means that in addition to your password, you'll also need to enter a code that is generated by the Google Authenticator app on your phone.\n\nThe verification code can be generated by the Google Authenticator app on your phone, even if you don't have a network or mobile connection.\n\n• Sync your Authenticator codes to your Google Account and across your devices. This way, you can always access them even if you lose your phone.\n\n• Set up your Authenticator accounts automatically with a QR code. This is quick and easy, and it helps to ensure that your codes are set up correctly.\n\n• Support for multiple accounts. You can use the authenticator app to manage multiple accounts, so you don't have to switch between apps every time you need to sign in.\n\n• Support for time-based and counter-based code generation. You can choose the type of code generation that best suits your needs.\n\n• Transfer accounts between devices with a QR code. This is a convenient way to move your accounts to a new device.\n\n\nTo use Google Authenticator with Google, you need to enable 2-Step Verification on your Google Account. To get started, visit http://www.google.com/2step",
       "bundleId": "com.google.Authenticator",
-      "minimumOsVersion": "16.0",
-      "averageUserRatingForCurrentVersion": 4.82083,
+      "trackCensoredName": "Google Authenticator",
+      "trackViewUrl": "https://apps.apple.com/gb/app/google-authenticator/id388497605?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.8207,
       "sellerUrl": "http://www.google.com/2step",
       "languageCodesISO2A": [
         "AR",
@@ -1135,12 +1133,23 @@
       ],
       "fileSizeBytes": "40885248",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 167178,
+      "userRatingCountForCurrentVersion": 167855,
       "trackContentRating": "4+",
-      "userRatingCount": 167178,
+      "averageUserRatingForCurrentVersion": 4.8207,
+      "minimumOsVersion": "16.0",
+      "userRatingCount": 167855,
       "country": "GBR"
     },
     {
+      "artistViewUrl": "https://apps.apple.com/fr/developer/google/id281956209?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/16/6c/44166c7d-20fa-2e9b-66ea-73e5d45b1f5f/app_icon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/16/6c/44166c7d-20fa-2e9b-66ea-73e5d45b1f5f/app_icon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/100x100bb.jpg",
+      "isGameCenterEnabled": false,
+      "advisories": [],
+      "kind": "software",
+      "features": [
+        "iosUniversal"
+      ],
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ec/b1/70/ecb17077-2980-443b-e09b-9c87a50ad996/APP_IPHONE_55-0.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a9/47/68/a9476898-56e8-bc22-505b-cb66bad03813/APP_IPHONE_55-1.png/392x696bb.png",
@@ -1159,15 +1168,6 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/16/6c/44166c7d-20fa-2e9b-66ea-73e5d45b1f5f/app_icon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [],
-      "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/fr/developer/google/id281956209?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/16/6c/44166c7d-20fa-2e9b-66ea-73e5d45b1f5f/app_icon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/16/6c/44166c7d-20fa-2e9b-66ea-73e5d45b1f5f/app_icon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/100x100bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -1297,11 +1297,28 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "averageUserRatingForCurrentVersion": 4.84398,
-      "fileSizeBytes": "40885248",
-      "formattedPrice": "Gratuit",
-      "userRatingCountForCurrentVersion": 93168,
-      "trackContentRating": "4+",
+      "trackCensoredName": "Google Authenticator",
+      "trackViewUrl": "https://apps.apple.com/fr/app/google-authenticator/id388497605?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.84406,
+      "releaseNotes": "• Correction de bugs et améliorations.",
+      "artistId": 281956209,
+      "artistName": "Google",
+      "price": 0,
+      "releaseDate": "2010-09-20T07:29:36Z",
+      "genreIds": [
+        "6002"
+      ],
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
+      "sellerName": "Google LLC",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-08-24T18:26:15Z",
+      "version": "5.0.3",
+      "wrapperType": "software",
+      "currency": "EUR",
+      "description": "Google Authenticator renforce la sécurité de vos comptes en ligne en ajoutant une seconde étape de validation lorsque vous vous connectez. Cela signifie qu'en plus de votre mot de passe, vous devez aussi saisir un code généré par l'appli Google Authenticator sur votre téléphone.\n\nLe code de validation peut être généré par l'appli Google Authenticator sur votre téléphone, même si vous ne disposez pas d'une connexion réseau ou mobile.\n\n• Synchronisation de vos codes Authenticator sur votre compte Google et tous vos appareils. Vous y avez ainsi toujours accès, même si vous perdez votre téléphone.\n\n• Configuration automatique de vos comptes Authenticator à l'aide d'un code QR. C'est simple et rapide, et cela permet de s'assurer que vos codes sont correctement configurés.\n\n• Compatible avec plusieurs comptes. Vous pouvez utiliser l'appli Google Authenticator pour gérer plusieurs comptes. Vous n'avez donc pas besoin de changer d'appli chaque fois que vous devez vous connecter.\n\n• Génération de codes en fonction de l'heure ou d'un compteur. Vous pouvez choisir le type de génération de code qui convient le mieux à vos besoins.\n\n• Transfert de comptes entre des appareils via un code QR. C'est un moyen pratique de transférer vos comptes vers un nouvel appareil.\n\n\nPour utiliser Google Authenticator avec Google, vous devez activer la validation en deux étapes dans votre compte Google. Pour commencer, consultez http://www.google.com/2step.",
+      "averageUserRatingForCurrentVersion": 4.84406,
       "sellerUrl": "http://www.google.com/2step",
       "languageCodesISO2A": [
         "AR",
@@ -1337,35 +1354,18 @@
         "UK",
         "VI"
       ],
+      "fileSizeBytes": "40885248",
+      "formattedPrice": "Gratuit",
+      "userRatingCountForCurrentVersion": 93686,
+      "trackContentRating": "4+",
       "minimumOsVersion": "16.0",
+      "trackId": 388497605,
+      "trackName": "Google Authenticator",
       "genres": [
         "Utilitaires"
       ],
-      "artistId": 281956209,
-      "artistName": "Google",
-      "price": 0,
       "bundleId": "com.google.Authenticator",
-      "releaseDate": "2010-09-20T07:29:36Z",
-      "trackId": 388497605,
-      "trackName": "Google Authenticator",
-      "genreIds": [
-        "6002"
-      ],
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
-      "sellerName": "Google LLC",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-08-24T18:26:15Z",
-      "releaseNotes": "• Correction de bugs et améliorations.",
-      "version": "5.0.3",
-      "wrapperType": "software",
-      "currency": "EUR",
-      "description": "Google Authenticator renforce la sécurité de vos comptes en ligne en ajoutant une seconde étape de validation lorsque vous vous connectez. Cela signifie qu'en plus de votre mot de passe, vous devez aussi saisir un code généré par l'appli Google Authenticator sur votre téléphone.\n\nLe code de validation peut être généré par l'appli Google Authenticator sur votre téléphone, même si vous ne disposez pas d'une connexion réseau ou mobile.\n\n• Synchronisation de vos codes Authenticator sur votre compte Google et tous vos appareils. Vous y avez ainsi toujours accès, même si vous perdez votre téléphone.\n\n• Configuration automatique de vos comptes Authenticator à l'aide d'un code QR. C'est simple et rapide, et cela permet de s'assurer que vos codes sont correctement configurés.\n\n• Compatible avec plusieurs comptes. Vous pouvez utiliser l'appli Google Authenticator pour gérer plusieurs comptes. Vous n'avez donc pas besoin de changer d'appli chaque fois que vous devez vous connecter.\n\n• Génération de codes en fonction de l'heure ou d'un compteur. Vous pouvez choisir le type de génération de code qui convient le mieux à vos besoins.\n\n• Transfert de comptes entre des appareils via un code QR. C'est un moyen pratique de transférer vos comptes vers un nouvel appareil.\n\n\nPour utiliser Google Authenticator avec Google, vous devez activer la validation en deux étapes dans votre compte Google. Pour commencer, consultez http://www.google.com/2step.",
-      "averageUserRating": 4.84398,
-      "trackCensoredName": "Google Authenticator",
-      "trackViewUrl": "https://apps.apple.com/fr/app/google-authenticator/id388497605?uo=4",
-      "contentAdvisoryRating": "4+",
-      "userRatingCount": 93168,
+      "userRatingCount": 93686,
       "country": "FRA"
     }
   ]

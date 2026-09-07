@@ -196,9 +196,6 @@
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/02/e9/d302e932-245c-0560-f022-0200d4a6db89/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/02/e9/d302e932-245c-0560-f022-0200d4a6db89/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -330,6 +327,9 @@
       ],
       "advisories": [],
       "kind": "software",
+      "features": [
+        "iosUniversal"
+      ],
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d5/d6/e6/d5d6e693-4acc-b617-aa18-97eb0433a3ef/1.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b0/62/a7/b062a733-a18f-7c90-fb9c-d9c3a2c4b06d/2.png/320x480bb.jpg",
@@ -342,44 +342,44 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/02/e9/d302e932-245c-0560-f022-0200d4a6db89/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 1.9422,
       "trackCensoredName": "BLEND",
       "trackViewUrl": "https://apps.apple.com/jp/app/blend/id1459352354?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 1.92353,
-      "minimumOsVersion": "13",
-      "artistId": 1459352353,
-      "artistName": "モチベーションワークス株式会社",
       "genres": [
         "教育"
       ],
-      "price": 0,
-      "bundleId": "school.blend",
-      "trackId": 1459352354,
-      "trackName": "BLEND",
+      "artistId": 1459352353,
+      "artistName": "モチベーションワークス株式会社",
       "releaseDate": "2019-11-23T08:00:00Z",
+      "bundleId": "school.blend",
+      "releaseNotes": "・保護者アカウントの登録時とメールアドレス変更時にメール認証を追加いたしました。\n・その他動作の改善を行いました。",
       "genreIds": [
         "6017"
       ],
       "primaryGenreName": "Education",
       "primaryGenreId": 6017,
+      "trackId": 1459352354,
+      "trackName": "BLEND",
       "sellerName": "Motivation Works Inc.",
       "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-08-18T21:09:56Z",
-      "releaseNotes": "・保護者アカウントの登録時とメールアドレス変更時にメール認証を追加いたしました。\n・その他動作の改善を行いました。",
       "version": "1.2.31",
       "wrapperType": "software",
       "currency": "JPY",
       "description": "学校からの連絡確認や、欠席や遅刻連絡の送信、\n出欠や成績の確認が可能です。\n※学校から配布されたアカウントを用いてご利用ください。",
+      "averageUserRatingForCurrentVersion": 1.9422,
       "sellerUrl": "https://blend.school",
       "languageCodesISO2A": [
         "EN"
       ],
       "fileSizeBytes": "55593984",
       "formattedPrice": "無料",
-      "userRatingCountForCurrentVersion": 170,
+      "userRatingCountForCurrentVersion": 173,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 1.92353,
-      "userRatingCount": 170,
+      "minimumOsVersion": "13",
+      "price": 0,
+      "userRatingCount": 173,
       "country": "JPN"
     }
   ]

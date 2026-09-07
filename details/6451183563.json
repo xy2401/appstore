@@ -16,14 +16,11 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d6/94/c3/d694c37c-7c94-1e3f-cb7f-f1dea6a5d285/99385d06-1822-4eb3-b579-6d1aa86dc05b_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00286th_generation_U0029_-_2023-07-13_at_09.35.28.png/576x768bb.png"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/1e/24/b41e2482-154f-221c-a312-fc4ad496e0e2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/1e/24/b41e2482-154f-221c-a312-fc4ad496e0e2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/1e/24/b41e2482-154f-221c-a312-fc4ad496e0e2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/cn/developer/%E5%BF%83%E4%BC%9F-%E7%BD%97/id1679901766?uo=4",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/ce/90/e9ce90a0-5b2a-c3e7-5deb-334fc2f566b8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
+      "artistViewUrl": "https://apps.apple.com/cn/developer/%E5%BF%83%E4%BC%9F-%E7%BD%97/id1679901766?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/ce/90/e9ce90a0-5b2a-c3e7-5deb-334fc2f566b8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/ce/90/e9ce90a0-5b2a-c3e7-5deb-334fc2f566b8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -153,47 +150,50 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
+      "features": [
+        "iosUniversal"
+      ],
       "advisories": [],
       "kind": "software",
+      "averageUserRatingForCurrentVersion": 4.22759,
+      "minimumOsVersion": "15.6",
+      "userRatingCountForCurrentVersion": 145,
+      "trackContentRating": "4+",
       "languageCodesISO2A": [
         "EN"
       ],
-      "fileSizeBytes": "46086144",
+      "fileSizeBytes": "46131200",
       "formattedPrice": "¥3.00",
-      "userRatingCountForCurrentVersion": 142,
-      "trackContentRating": "4+",
-      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.22759,
       "trackCensoredName": "北矿助手",
       "trackViewUrl": "https://apps.apple.com/cn/app/%E5%8C%97%E7%9F%BF%E5%8A%A9%E6%89%8B/id6451183563?uo=4",
-      "averageUserRatingForCurrentVersion": 4.21127,
-      "averageUserRating": 4.21127,
-      "artistId": 1679901766,
-      "artistName": "心伟 罗",
+      "contentAdvisoryRating": "4+",
+      "price": 3,
+      "currentVersionReleaseDate": "2026-09-02T20:49:57Z",
+      "trackId": 6451183563,
+      "trackName": "北矿助手",
       "genres": [
         "教育",
         "工具"
       ],
-      "price": 3,
+      "artistId": 1679901766,
+      "artistName": "心伟 罗",
       "bundleId": "com.huami.cumtb.cumtbHelperFlutter",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseDate": "2023-08-04T07:00:00Z",
       "genreIds": [
         "6017",
         "6002"
       ],
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseDate": "2023-08-04T07:00:00Z",
-      "trackId": 6451183563,
-      "trackName": "北矿助手",
-      "currentVersionReleaseDate": "2026-08-28T16:04:47Z",
-      "version": "4.1.6",
+      "sellerName": "心伟 罗",
+      "primaryGenreName": "Education",
+      "primaryGenreId": 6017,
+      "releaseNotes": "修复课表导入错误的Bug",
+      "version": "4.1.7",
       "wrapperType": "software",
       "currency": "CNY",
       "description": "北矿助手是北矿人的智慧助理，为用户提供了最近课程卡片、整学期课表、成绩分析、学习资料库、校圈等功能，同时支持学生和教师，快来试试吧！",
-      "minimumOsVersion": "15.6",
-      "sellerName": "心伟 罗",
-      "releaseNotes": "体验优化\n\n  - 校圈首页全新改版,浏览更清爽\n  - 课表页界面优化,更简洁清晰\n\n问题修复\n\n  - 优化了教务系统自动登录的稳定性\n  - 修复了部分用户消息列表刷新失败的问题",
-      "primaryGenreName": "Education",
-      "primaryGenreId": 6017,
-      "userRatingCount": 142,
+      "userRatingCount": 145,
       "country": "CHN"
     }
   ]

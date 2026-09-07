@@ -10,8 +10,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8f/6a/37/8f6a3715-559b-4d26-809f-aef4bfb4f3e1/Apple_iPhone_16_Pro_Max_Screenshot_6.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2a/de/0d/2ade0d4e-aa94-f1bc-f541-47f26e433e85/Apple_iPhone_16_Pro_Max_Screenshot_5.png/320x480bb.jpg"
       ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/a6/f7/06a6f7c4-1a4d-6c7a-959b-cd5d2eb7a39c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0d/58/2c/0d582c19-633a-a3f7-9b59-8a53b245fafa/Apple_iPad_Pro_12.9_Inch_Screenshot_1.png/360x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d5/c5/02/d5c502d0-15eb-81f8-f244-63aeb5bc8de5/Apple_iPad_Pro_12.9_Inch_Screenshot_2.png/360x480bb.jpg",
@@ -20,6 +18,8 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fd/fa/13/fdfa133c-760a-99a2-9ac0-664b3abbaf73/Apple_iPad_Pro_12.9_Inch_Screenshot_3.png/360x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ef/61/26/ef6126ab-6e2a-d9ef-cf3c-0ef70e8d98f8/Apple_iPad_Pro_12.9_Inch_Screenshot_5.png/360x480bb.jpg"
       ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/a6/f7/06a6f7c4-1a4d-6c7a-959b-cd5d2eb7a39c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "isGameCenterEnabled": false,
       "artistViewUrl": "https://apps.apple.com/jp/developer/rumahsaku-corp/id1828221168?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/a6/f7/06a6f7c4-1a4d-6c7a-959b-cd5d2eb7a39c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
@@ -27,6 +27,8 @@
       "features": [
         "iosUniversal"
       ],
+      "advisories": [],
+      "kind": "software",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -156,44 +158,42 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "advisories": [],
-      "kind": "software",
-      "averageUserRatingForCurrentVersion": 5,
-      "languageCodesISO2A": [
-        "EN"
-      ],
       "fileSizeBytes": "19836928",
       "formattedPrice": "¥800",
       "userRatingCountForCurrentVersion": 2,
       "trackContentRating": "4+",
       "sellerUrl": "https://app.rumahsaku.com/",
-      "averageUserRating": 5,
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "averageUserRatingForCurrentVersion": 5,
       "trackCensoredName": "生保大学課程(生命保険と税・相続)　試験対策",
+      "averageUserRating": 5,
       "trackViewUrl": "https://apps.apple.com/jp/app/%E7%94%9F%E4%BF%9D%E5%A4%A7%E5%AD%A6%E8%AA%B2%E7%A8%8B-%E7%94%9F%E5%91%BD%E4%BF%9D%E9%99%BA%E3%81%A8%E7%A8%8E-%E7%9B%B8%E7%B6%9A-%E8%A9%A6%E9%A8%93%E5%AF%BE%E7%AD%96/id6758524484?uo=4",
       "contentAdvisoryRating": "4+",
-      "artistId": 1828221168,
-      "artistName": "RUMAHSAKU CORP.",
+      "minimumOsVersion": "13.0",
       "genres": [
         "教育"
       ],
+      "artistName": "RUMAHSAKU CORP.",
       "price": 800,
-      "bundleId": "com.rumahsaku.seiho-daigaku3",
-      "trackId": 6758524484,
-      "trackName": "生保大学課程(生命保険と税・相続)　試験対策",
-      "isVppDeviceBasedLicensingEnabled": true,
       "sellerName": "RUMAHSAKU CORP.",
-      "primaryGenreName": "Education",
-      "primaryGenreId": 6017,
-      "releaseDate": "2026-02-09T08:00:00Z",
       "genreIds": [
         "6017"
       ],
+      "primaryGenreName": "Education",
+      "primaryGenreId": 6017,
       "currentVersionReleaseDate": "2026-02-10T05:13:22Z",
+      "releaseDate": "2026-02-09T08:00:00Z",
+      "isVppDeviceBasedLicensingEnabled": true,
       "version": "1.0",
       "wrapperType": "software",
       "currency": "JPY",
       "description": "生保大学課程「生命保険と税・相続」の試験対策アプリです。\n\n【主な機能】\n\n■ 模擬試験（3回分収録）\n本番と同じ形式（80分・49問）で実力を確認できます。\n・選択問題 24問（4択）\n・正誤問題 10問\n・穴埋め問題 3問（計15箇所）\n\n■ カテゴリー別学習\n10のカテゴリーから苦手分野を集中的に学習：\n・所得税（所得区分・申告）\n・所得控除（生命保険料控除等）\n・住民税・事業税\n・贈与税\n・相続制度（民法）\n・相続税\n・生命保険金の課税\n・年金・給付金の課税\n・手続・書類（支払調書等）\n・法人税・法人向け保険\n\n■ 復習モード\n間違えた問題を自動で記録し、効率的に復習できます。\n\n■ ブックマーク機能\n重要な問題をブックマークして、いつでも確認できます。\n\n■ 学習分析\n・連続学習日数の記録\n・正答率の推移グラフ\n・総学習時間の確認\n・カテゴリー別の成績分析\n\n■ 便利な機能\n・学習リマインダー通知\n・ダークモード対応\n・オフラインで学習可能\n\n全問題に詳しい解説付き。スキマ時間を活用して、合格を目指しましょう！",
-      "minimumOsVersion": "13.0",
+      "trackName": "生保大学課程(生命保険と税・相続)　試験対策",
+      "trackId": 6758524484,
+      "bundleId": "com.rumahsaku.seiho-daigaku3",
+      "artistId": 1828221168,
       "userRatingCount": 2,
       "country": "JPN"
     }

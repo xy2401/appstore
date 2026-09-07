@@ -234,12 +234,13 @@
       "userRatingCount": 1333871
     },
     {
+      "features": [
+        "iosUniversal"
+      ],
       "isGameCenterEnabled": false,
       "artistViewUrl": "https://apps.apple.com/jp/developer/amzn-mobile-llc/id297606954?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/27/1c/66271cbb-7d59-8350-83dd-8cf44e036909/AppIcon-1x_U007epad-0-1-85-220-0.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/27/1c/66271cbb-7d59-8350-83dd-8cf44e036909/AppIcon-1x_U007epad-0-1-85-220-0.png/100x100bb.jpg",
-      "advisories": [],
-      "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a0/45/80/a04580eb-6243-cb0c-808e-37ff20039258/0_APP_IPHONE_55_0.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c0/f9/92/c0f992c8-abd5-a7b5-1fba-f3c8d53ffd6f/1_APP_IPHONE_55_1.png/392x696bb.png",
@@ -262,9 +263,6 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/27/1c/66271cbb-7d59-8350-83dd-8cf44e036909/AppIcon-1x_U007epad-0-1-85-220-0.png/512x512bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -394,31 +392,9 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "minimumOsVersion": "15.1",
-      "averageUserRating": 4.34105,
-      "trackCensoredName": "Amazon Fire TV",
-      "trackViewUrl": "https://apps.apple.com/jp/app/amazon-fire-tv/id947984433?uo=4",
-      "contentAdvisoryRating": "12+",
-      "price": 0,
-      "genres": [
-        "エンターテインメント",
-        "ユーティリティ"
-      ],
-      "artistId": 297606954,
-      "artistName": "AMZN Mobile LLC",
-      "trackId": 947984433,
-      "trackName": "Amazon Fire TV",
-      "sellerName": "AMZN Mobile LLC",
-      "primaryGenreName": "Entertainment",
-      "primaryGenreId": 6016,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseNotes": "• Fire TVまたは携帯電話をワンタップするだけでお気に入りのコンテンツを再生\n• スポーツコンテンツがアプリで利用できるようになりました\n• 簡単に検索できるコンテンツハブ（映画、TV番組、スポーツ、無料）\n• 映画とTV番組のウォッチリストフィルター\n• バグ修正とパフォーマンスの改善",
-      "version": "4.7.0",
-      "wrapperType": "software",
-      "currency": "JPY",
-      "description": "どこからでも操作できるエンターテインメント機能。\n\nFire TVのモバイルアプリでは、自宅のソファからでも外出先でもFire TVの機能を手軽に操作できます。\n\n好きなエンターテインメントをどこからでも検索・設定可能: 豊富なタイトルの中から好みに合うおすすめを見ることができます。ご利用中のサービスの映画やTV番組などもすべて検索できます。ウォッチリストは手早く作成し、好みに合わせて設定できます。\n\n簡単な操作とセットアップ: スムーズな操作でコンテンツを大画面で楽しめます。モバイルキーボードは文字入力に便利です。新しいFire TVデバイスのセットアップも素早く簡単に行えます。\n\n利用対象: コンテンツをテレビで楽しむには、Amazonアカウントが必要です。また、Fire TVと同じwifiネットワークに接続している必要があります。\n\n機能によっては、対応するFire TVが必要です。\n\nこのアプリを利用することで、お客様はAmazonの利用規約（www.amazon.com/conditionsofuse）およびプライバシー規約（www.amazon.com/privacy）に同意したものとみなされます。",
+      "kind": "software",
+      "advisories": [],
       "sellerUrl": "http://www.amazon.com/Fire-TV-streaming-media-player/dp/B00CX5P8FC",
-      "averageUserRatingForCurrentVersion": 4.34105,
       "languageCodesISO2A": [
         "SQ",
         "HY",
@@ -462,18 +438,42 @@
         "TR",
         "VI"
       ],
+      "averageUserRating": 4.34126,
       "fileSizeBytes": "109764608",
       "formattedPrice": "無料",
-      "userRatingCountForCurrentVersion": 95774,
+      "userRatingCountForCurrentVersion": 96079,
       "trackContentRating": "12+",
+      "trackCensoredName": "Amazon Fire TV",
+      "trackViewUrl": "https://apps.apple.com/jp/app/amazon-fire-tv/id947984433?uo=4",
+      "contentAdvisoryRating": "12+",
+      "averageUserRatingForCurrentVersion": 4.34126,
+      "genres": [
+        "エンターテインメント",
+        "ユーティリティ"
+      ],
+      "artistId": 297606954,
+      "artistName": "AMZN Mobile LLC",
+      "price": 0,
+      "trackId": 947984433,
+      "trackName": "Amazon Fire TV",
+      "sellerName": "AMZN Mobile LLC",
       "bundleId": "com.amazon.firetv.remote",
+      "isVppDeviceBasedLicensingEnabled": true,
       "genreIds": [
         "6016",
         "6002"
       ],
       "releaseDate": "2015-10-30T06:01:56Z",
+      "primaryGenreName": "Entertainment",
+      "primaryGenreId": 6016,
+      "releaseNotes": "• Fire TVまたは携帯電話をワンタップするだけでお気に入りのコンテンツを再生\n• スポーツコンテンツがアプリで利用できるようになりました\n• 簡単に検索できるコンテンツハブ（映画、TV番組、スポーツ、無料）\n• 映画とTV番組のウォッチリストフィルター\n• バグ修正とパフォーマンスの改善",
+      "version": "4.7.0",
+      "wrapperType": "software",
+      "currency": "JPY",
+      "description": "どこからでも操作できるエンターテインメント機能。\n\nFire TVのモバイルアプリでは、自宅のソファからでも外出先でもFire TVの機能を手軽に操作できます。\n\n好きなエンターテインメントをどこからでも検索・設定可能: 豊富なタイトルの中から好みに合うおすすめを見ることができます。ご利用中のサービスの映画やTV番組などもすべて検索できます。ウォッチリストは手早く作成し、好みに合わせて設定できます。\n\n簡単な操作とセットアップ: スムーズな操作でコンテンツを大画面で楽しめます。モバイルキーボードは文字入力に便利です。新しいFire TVデバイスのセットアップも素早く簡単に行えます。\n\n利用対象: コンテンツをテレビで楽しむには、Amazonアカウントが必要です。また、Fire TVと同じwifiネットワークに接続している必要があります。\n\n機能によっては、対応するFire TVが必要です。\n\nこのアプリを利用することで、お客様はAmazonの利用規約（www.amazon.com/conditionsofuse）およびプライバシー規約（www.amazon.com/privacy）に同意したものとみなされます。",
+      "minimumOsVersion": "15.1",
       "currentVersionReleaseDate": "2026-08-19T09:19:54Z",
-      "userRatingCount": 95774,
+      "userRatingCount": 96079,
       "country": "JPN"
     },
     {
@@ -499,13 +499,15 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/27/1c/66271cbb-7d59-8350-83dd-8cf44e036909/AppIcon-1x_U007epad-0-1-85-220-0.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/us/developer/amzn-mobile-llc/id297606954?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/27/1c/66271cbb-7d59-8350-83dd-8cf44e036909/AppIcon-1x_U007epad-0-1-85-220-0.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/27/1c/66271cbb-7d59-8350-83dd-8cf44e036909/AppIcon-1x_U007epad-0-1-85-220-0.png/100x100bb.jpg",
-      "advisories": [],
+      "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
       ],
+      "advisories": [],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/us/developer/amzn-mobile-llc/id297606954?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/27/1c/66271cbb-7d59-8350-83dd-8cf44e036909/AppIcon-1x_U007epad-0-1-85-220-0.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/27/1c/66271cbb-7d59-8350-83dd-8cf44e036909/AppIcon-1x_U007epad-0-1-85-220-0.png/100x100bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -635,8 +637,11 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "isGameCenterEnabled": false,
-      "kind": "software",
+      "averageUserRatingForCurrentVersion": 4.5416,
+      "fileSizeBytes": "109764608",
+      "formattedPrice": "Free",
+      "userRatingCountForCurrentVersion": 1404958,
+      "trackContentRating": "12+",
       "sellerUrl": "http://www.amazon.com/Fire-TV-streaming-media-player/dp/B00CX5P8FC",
       "languageCodesISO2A": [
         "SQ",
@@ -681,29 +686,18 @@
         "TR",
         "VI"
       ],
-      "averageUserRatingForCurrentVersion": 4.54132,
-      "fileSizeBytes": "109764608",
-      "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 1400459,
-      "trackContentRating": "12+",
-      "averageUserRating": 4.54132,
-      "trackCensoredName": "Amazon Fire TV",
-      "trackViewUrl": "https://apps.apple.com/us/app/amazon-fire-tv/id947984433?uo=4",
-      "contentAdvisoryRating": "12+",
-      "currentVersionReleaseDate": "2026-08-19T09:19:54Z",
       "minimumOsVersion": "15.1",
-      "artistId": 297606954,
-      "artistName": "AMZN Mobile LLC",
       "genres": [
         "Entertainment",
         "Utilities"
       ],
+      "artistId": 297606954,
+      "artistName": "AMZN Mobile LLC",
       "price": 0,
-      "trackId": 947984433,
-      "trackName": "Amazon Fire TV",
-      "releaseNotes": "• Play your favorite content with one tap on a Fire TV or mobile phone\n• Sports content is now available in the app\n• Content hubs (Movies, TV Shows, Sports, Free) for easier browsing\n• Watchlist filters for movies and TV shows\n• Bug fixes and performance improvements",
       "bundleId": "com.amazon.firetv.remote",
       "releaseDate": "2014-12-23T06:32:33Z",
+      "trackId": 947984433,
+      "trackName": "Amazon Fire TV",
       "genreIds": [
         "6016",
         "6002"
@@ -712,11 +706,17 @@
       "primaryGenreId": 6016,
       "sellerName": "AMZN Mobile LLC",
       "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-08-19T09:19:54Z",
+      "releaseNotes": "• Play your favorite content with one tap on a Fire TV or mobile phone\n• Sports content is now available in the app\n• Content hubs (Movies, TV Shows, Sports, Free) for easier browsing\n• Watchlist filters for movies and TV shows\n• Bug fixes and performance improvements",
       "version": "4.7.0",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Your entertainment sidekick wherever you go.\n\nThe Fire TV mobile app puts the Fire TV experience at your fingertips—whether you're on the couch or on the move.\n\nDiscover & personalize your entertainment anywhere: Browse titles and get personalized recommendations. Search for movies, TV shows, and more across all your services. Build and fine-tune your watchlist in the moment.\n\nEasy control & setup: Launch it all on your big screen with seamless control. Enjoy fast text entry using your mobile keyboard. Set up new Fire TV devices quickly and easily.\n\nCompatibility: Requires an Amazon account and connection to the same Wi-Fi network as your Fire TV to launch content to your TV. \n\nSome features require a compatible Fire TV.\n\nBy using this app, you agree to Amazon's Conditions of Use (www.amazon.com/conditionsofuse) and Privacy Notice (www.amazon.com/privacy).",
-      "userRatingCount": 1400459,
+      "averageUserRating": 4.5416,
+      "trackCensoredName": "Amazon Fire TV",
+      "trackViewUrl": "https://apps.apple.com/us/app/amazon-fire-tv/id947984433?uo=4",
+      "contentAdvisoryRating": "12+",
+      "userRatingCount": 1404958,
       "country": "USA"
     }
   ]

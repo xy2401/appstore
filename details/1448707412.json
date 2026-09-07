@@ -2,7 +2,6 @@
   "resultCount": 1,
   "results": [
     {
-      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/ff/c4/99/ffc4993a-7e5a-ebde-5666-9f9084043dfd/pr_source.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/f2/3c/1e/f23c1e09-9c3e-42d0-ae38-8bda31bc5fa1/pr_source.jpg/392x696bb.jpg",
@@ -11,8 +10,13 @@
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/ea/12/c4ea1231-eac0-82eb-4b90-b67586698bf9/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+      "isGameCenterEnabled": false,
       "features": [],
       "advisories": [],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/gb/developer/arbor-education-partners/id602224921?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/ea/12/c4ea1231-eac0-82eb-4b90-b67586698bf9/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/ea/12/c4ea1231-eac0-82eb-4b90-b67586698bf9/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -142,27 +146,26 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/gb/developer/arbor-education-partners/id602224921?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/ea/12/c4ea1231-eac0-82eb-4b90-b67586698bf9/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/ea/12/c4ea1231-eac0-82eb-4b90-b67586698bf9/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
+      "bundleId": "com.arboreducation.parentapp",
+      "averageUserRatingForCurrentVersion": 1.39151,
       "languageCodesISO2A": [
         "EN"
       ],
       "fileSizeBytes": "47052800",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 1837,
+      "userRatingCountForCurrentVersion": 1885,
       "trackContentRating": "4+",
-      "minimumOsVersion": "15.1",
-      "averageUserRatingForCurrentVersion": 1.39684,
+      "artistId": 602224921,
+      "artistName": "Arbor Education Partners",
       "genres": [
         "Education",
         "Reference"
       ],
-      "artistId": 602224921,
-      "artistName": "Arbor Education Partners",
       "price": 0,
-      "bundleId": "com.arboreducation.parentapp",
+      "trackId": 1448707412,
+      "trackName": "Arbor Parent App",
+      "releaseNotes": "We’ve done some important behind-the-scenes updates to keep the app running smoothly.",
+      "releaseDate": "2019-04-18T02:38:57Z",
       "genreIds": [
         "6017",
         "6006"
@@ -170,21 +173,18 @@
       "isVppDeviceBasedLicensingEnabled": true,
       "primaryGenreName": "Education",
       "primaryGenreId": 6017,
-      "releaseNotes": "We’ve done some important behind-the-scenes updates to keep the app running smoothly.",
       "sellerName": "Arbor Education Partners Limited",
-      "releaseDate": "2019-04-18T02:38:57Z",
       "currentVersionReleaseDate": "2026-08-26T15:54:16Z",
       "version": "38",
       "wrapperType": "software",
       "currency": "GBP",
       "description": "Arbor lets you book parent/guardian consultation slots, register your child for a club or trip, and manage payments all from one place. You can also use it to check in on your child’s attendance, behaviour & academic progress.\n\nArbor is only for parents at schools using Arbor Management Information System (MIS). If you’re not sure whether this applies to you, we recommend contacting your school office.\n\nUse Arbor to:\n- Take a look at your child’s key attendance information, including their average attendance for the year so far \n- Edit contact details for your child such as your home address or phone number\n- Register your child for an after-school club\n- Register your child for an upcoming school trip\n- Take a look at your child's behaviour information, including positive & negative behaviour points awarded this year\n- Manage your child’s payment accounts and pay for meals or trips directly \n- Track your child's academic progress, including the targets they’re working towards this year\n- Download report cards\n- Book slots at parent/guardian consultations\n- See your child’s timetable\n- Add new medical information about your child\n- Check upcoming homework assignments\n\nHaving trouble? Please reach out directly to your school office for help.",
-      "averageUserRating": 1.39684,
+      "minimumOsVersion": "15.1",
       "trackCensoredName": "Arbor Parent App",
       "trackViewUrl": "https://apps.apple.com/gb/app/arbor-parent-app/id1448707412?uo=4",
       "contentAdvisoryRating": "4+",
-      "trackId": 1448707412,
-      "trackName": "Arbor Parent App",
-      "userRatingCount": 1837,
+      "averageUserRating": 1.39151,
+      "userRatingCount": 1885,
       "country": "GBR"
     }
   ]

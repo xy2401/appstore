@@ -200,7 +200,7 @@
       "userRatingCount": 201745
     },
     {
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/dc/82/15dc829e-1aa3-3430-fd29-5a83ccdd5544/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.jpeg/512x512bb.jpg",
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5b/82/81/5b828136-79c5-3a83-23cf-d81aa4a4257e/DE_-_iPhone_6_U002c9__-_1.jpg/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/3b/85/e03b8546-f686-e8f5-5f8e-f981ea537d33/DE_-_iPhone_6_U002c9__-_2.jpg/320x480bb.jpg",
@@ -213,9 +213,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6a/ac/e2/6aace292-d4a1-9919-93d6-0956c215f1df/DE_-_iPhone_6_U002c9__-_9.jpg/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b1/4a/a5/b14aa50a-12d6-59ac-4000-f19ad820a524/DE_-_iPhone_6_U002c9__-_10.jpg/320x480bb.jpg"
       ],
-      "artistViewUrl": "https://apps.apple.com/de/developer/cranberry-apps/id820491345?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/dc/82/15dc829e-1aa3-3430-fd29-5a83ccdd5544/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.jpeg/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/dc/82/15dc829e-1aa3-3430-fd29-5a83ccdd5544/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.jpeg/100x100bb.jpg",
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8c/9d/01/8c9d01c0-0f30-ec11-5142-48eb4203847e/DE_-_iPad_12_U002c9__-_1.jpg/360x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/64/b2/2c/64b22c75-57ba-3921-03a0-ca52a9edeb0f/DE_-_iPad_12_U002c9__-_2.jpg/360x480bb.jpg",
@@ -229,16 +226,12 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4e/63/08/4e6308d4-a8db-3230-e3c4-73b4325ceda5/DE_-_iPad_12_U002c9__-_10.jpg/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "isGameCenterEnabled": false,
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/dc/82/15dc829e-1aa3-3430-fd29-5a83ccdd5544/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.jpeg/512x512bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/de/developer/cranberry-apps/id820491345?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/dc/82/15dc829e-1aa3-3430-fd29-5a83ccdd5544/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/dc/82/15dc829e-1aa3-3430-fd29-5a83ccdd5544/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.jpeg/100x100bb.jpg",
       "features": [
         "iosUniversal"
-      ],
-      "advisories": [
-        "Selten/schwach ausgeprägt: obszöner oder vulgärer Humor",
-        "Selten/schwach ausgeprägt: Wettkämpfe",
-        "Selten/schwach ausgeprägt: Gebrauch von Alkohol, Tabak oder Drogen bzw. Verweise hierzu",
-        "Selten/schwach ausgeprägt: Szenen mit erotischen Anspielungen",
-        "Selten/schwach ausgeprägt: sexuelle Inhalte oder Nacktheit"
       ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
@@ -369,10 +362,20 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
+      "advisories": [
+        "Selten/schwach ausgeprägt: obszöner oder vulgärer Humor",
+        "Selten/schwach ausgeprägt: Wettkämpfe",
+        "Selten/schwach ausgeprägt: Gebrauch von Alkohol, Tabak oder Drogen bzw. Verweise hierzu",
+        "Selten/schwach ausgeprägt: Szenen mit erotischen Anspielungen",
+        "Selten/schwach ausgeprägt: sexuelle Inhalte oder Nacktheit"
+      ],
       "kind": "software",
-      "averageUserRating": 4.72267,
-      "averageUserRatingForCurrentVersion": 4.72267,
+      "averageUserRating": 4.72089,
+      "contentAdvisoryRating": "12+",
+      "averageUserRatingForCurrentVersion": 4.72089,
       "sellerUrl": "https://cranberry.app/",
+      "trackCensoredName": "Splash - Party Spiele",
+      "trackViewUrl": "https://apps.apple.com/de/app/splash-party-spiele/id6744290388?uo=4",
       "languageCodesISO2A": [
         "NL",
         "EN",
@@ -385,40 +388,37 @@
         "ES",
         "TR"
       ],
-      "contentAdvisoryRating": "12+",
-      "minimumOsVersion": "16.6",
-      "fileSizeBytes": "407866368",
-      "formattedPrice": "Gratis",
-      "userRatingCountForCurrentVersion": 216884,
+      "userRatingCountForCurrentVersion": 218193,
       "trackContentRating": "12+",
-      "trackCensoredName": "Splash - Party Spiele",
-      "trackViewUrl": "https://apps.apple.com/de/app/splash-party-spiele/id6744290388?uo=4",
       "artistId": 820491345,
       "artistName": "Cranberry Apps",
+      "bundleId": "app.cranberry.splash",
       "genres": [
         "Unterhaltung",
         "Lifestyle"
       ],
       "price": 0,
       "releaseDate": "2025-04-12T07:00:00Z",
-      "trackId": 6744290388,
-      "trackName": "Splash - Party Spiele",
+      "sellerName": "Cranberry Apps GmbH",
       "genreIds": [
         "6016",
         "6012"
       ],
       "primaryGenreName": "Entertainment",
       "primaryGenreId": 6016,
-      "sellerName": "Cranberry Apps GmbH",
-      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-08-31T13:44:57Z",
       "releaseNotes": "3 neue Games! Ab sofort in Splash: 'Circa Impostor', 'Wie gut kennen wir uns?' und 'Score'!!\n\nWie immer arbeiten wir bereits fleißig am nächsten Spiel und freuen uns riesig über eure Ideen. Was fehlt euch noch? Was wollt ihr unbedingt in Splash sehen? Schreibt uns, wir lesen alles!",
       "version": "2.7.0",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Hey, wir sind Hannes & Jeremy.\n\nWir haben’s selbst erlebt: Für jeden Spieleabend muss man Regeln googeln, Zettel suchen oder Apps durchprobieren. Aber es gibt einfach keine richtig gute Party-App. Also machen wir jetzt eine.\n\nUnser Ziel: Die besten und viralsten Spiele in einer App vereinen. Zum Beispiel Wer ist der Impostor? - kennst du sicher schon von TikTok oder Insta.\n\nSchnell erklärt. Sofort spielbar. Perfekt für 3 bis 20 Personen.\n\nIdeal für WG-Abende, Geburtstage oder den nächsten Abend mit Freunden. Ladet eure Leute ein - und habt Spaß.\n\n\nUnsere App kannst du kostenlos gemeinsam mit deinen Freunden spielen. Für einige zusätzliche Funktionen gibt es Splash Plus - verfügbar als wöchentliches Abonnement. Nutzungsbedingungen, EULA und Datenschutz findest du hier: https://cranberry.app/terms\n\nHinweis: Diese App ist nicht auf alkoholbezogene Nutzung ausgelegt und enthält keinerlei entsprechende Inhalte. Sie richtet sich an alle, die Freude an geselligem Spielen haben.\n\nCheers und viel Freude mit der App!",
-      "bundleId": "app.cranberry.splash",
-      "userRatingCount": 216884,
+      "minimumOsVersion": "16.6",
+      "formattedPrice": "Gratis",
+      "fileSizeBytes": "407866368",
+      "trackId": 6744290388,
+      "trackName": "Splash - Party Spiele",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "userRatingCount": 218193,
       "country": "DEU"
     }
   ]

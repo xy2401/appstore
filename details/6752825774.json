@@ -184,6 +184,7 @@
       "userRatingCount": 7
     },
     {
+      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -313,22 +314,12 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "advisories": [],
-      "isGameCenterEnabled": false,
+      "kind": "software",
       "artistViewUrl": "https://apps.apple.com/jp/developer/rumahsaku-corp/id1828221168?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/c7/61/3dc76113-d0bb-d05e-a7d9-c20fac310e1a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/c7/61/3dc76113-d0bb-d05e-a7d9-c20fac310e1a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
       "features": [
         "iosUniversal"
-      ],
-      "kind": "software",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/02/07/28/0207287d-bf17-4f56-8765-5b4cff541a38/Apple_iPhone_16_Pro_Max_Screenshot_1.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/58/f2/44/58f2448e-be55-9645-88ed-0366fd5be250/Apple_iPhone_16_Pro_Max_Screenshot_2.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ba/85/b5/ba85b5ed-d6ec-569e-d7bc-e6b8b6c4b4ac/Apple_iPhone_16_Pro_Max_Screenshot_3.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fc/54/8b/fc548b77-cfe8-ee53-a387-4f327f40e4d3/Apple_iPhone_16_Pro_Max_Screenshot_5.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/9c/3b/919c3bed-afea-7228-1522-d8499a472906/Apple_iPhone_16_Pro_Max_Screenshot_4.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/31/78/40/31784046-a23e-c9c3-87b7-2d9b23c82b40/Apple_iPhone_16_Pro_Max_Screenshot_6.png/320x480bb.jpg"
       ],
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a5/58/0e/a5580e67-5add-4c71-808b-1d11ce53acf8/Apple_iPad_Pro_12.9_Inch_Screenshot_1.png/360x480bb.jpg",
@@ -340,31 +331,39 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/c7/61/3dc76113-d0bb-d05e-a7d9-c20fac310e1a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "minimumOsVersion": "13.0",
-      "releaseDate": "2025-09-22T07:00:00Z",
-      "trackCensoredName": "日本化粧品検定1級　試験対策",
-      "trackViewUrl": "https://apps.apple.com/jp/app/%E6%97%A5%E6%9C%AC%E5%8C%96%E7%B2%A7%E5%93%81%E6%A4%9C%E5%AE%9A1%E7%B4%9A-%E8%A9%A6%E9%A8%93%E5%AF%BE%E7%AD%96/id6752825774?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.375,
-      "artistId": 1828221168,
-      "artistName": "RUMAHSAKU CORP.",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/02/07/28/0207287d-bf17-4f56-8765-5b4cff541a38/Apple_iPhone_16_Pro_Max_Screenshot_1.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/58/f2/44/58f2448e-be55-9645-88ed-0366fd5be250/Apple_iPhone_16_Pro_Max_Screenshot_2.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ba/85/b5/ba85b5ed-d6ec-569e-d7bc-e6b8b6c4b4ac/Apple_iPhone_16_Pro_Max_Screenshot_3.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fc/54/8b/fc548b77-cfe8-ee53-a387-4f327f40e4d3/Apple_iPhone_16_Pro_Max_Screenshot_5.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/9c/3b/919c3bed-afea-7228-1522-d8499a472906/Apple_iPhone_16_Pro_Max_Screenshot_4.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/31/78/40/31784046-a23e-c9c3-87b7-2d9b23c82b40/Apple_iPhone_16_Pro_Max_Screenshot_6.png/320x480bb.jpg"
+      ],
+      "advisories": [],
       "genres": [
         "教育"
       ],
-      "price": 800,
-      "bundleId": "com.rumahsaku.keshohin1",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "sellerName": "RUMAHSAKU CORP.",
-      "currentVersionReleaseDate": "2026-05-27T19:10:44Z",
-      "primaryGenreName": "Education",
-      "primaryGenreId": 6017,
-      "releaseNotes": "問題の刷新。3180問に増加。",
+      "artistId": 1828221168,
+      "artistName": "RUMAHSAKU CORP.",
       "trackId": 6752825774,
       "trackName": "日本化粧品検定1級　試験対策",
+      "genreIds": [
+        "6017"
+      ],
+      "primaryGenreName": "Education",
+      "primaryGenreId": 6017,
+      "sellerName": "RUMAHSAKU CORP.",
+      "currentVersionReleaseDate": "2026-05-27T19:10:44Z",
+      "releaseNotes": "問題の刷新。3180問に増加。",
       "version": "2.0.0",
       "wrapperType": "software",
       "currency": "JPY",
       "description": "日本化粧品検定1級に合格したい方のための本格学習アプリ。\n最新の出題傾向を徹底分析し、過去問形式・カテゴリー別学習・模擬試験など合格に直結する機能を完備。\n\n◆◇ アプリの特徴 ◇◆\n\n過去問題を徹底分析した厳選問題集（豊富な解説付きで理解が深まる）\n\nカテゴリー別学習で苦手分野を重点的に克服\n\n本番形式の模擬試験で実力を確認\n\nブックマーク・復習リストで効率的に繰り返し学習\n\n進捗グラフ・正答率分析で学習状況を可視化\n\n美しいピンクデザインでモチベーション維持\n\n◆◇ こんな方におすすめ ◇◆\n\n化粧品業界でキャリアアップしたい方\n\n美容部員・BAを目指す方\n\n美容知識を武器に就職・転職したい方\n\n美容資格を取得し信頼を高めたい方",
+      "trackCensoredName": "日本化粧品検定1級　試験対策",
+      "trackViewUrl": "https://apps.apple.com/jp/app/%E6%97%A5%E6%9C%AC%E5%8C%96%E7%B2%A7%E5%93%81%E6%A4%9C%E5%AE%9A1%E7%B4%9A-%E8%A9%A6%E9%A8%93%E5%AF%BE%E7%AD%96/id6752825774?uo=4",
+      "bundleId": "com.rumahsaku.keshohin1",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.375,
       "languageCodesISO2A": [
         "EN"
       ],
@@ -372,11 +371,12 @@
       "formattedPrice": "¥800",
       "userRatingCountForCurrentVersion": 8,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.375,
       "sellerUrl": "https://app.rumahsaku.com/privacy-policy.html",
-      "genreIds": [
-        "6017"
-      ],
+      "averageUserRatingForCurrentVersion": 4.375,
+      "minimumOsVersion": "13.0",
+      "releaseDate": "2025-09-22T07:00:00Z",
+      "price": 800,
+      "isVppDeviceBasedLicensingEnabled": true,
       "userRatingCount": 8,
       "country": "JPN"
     }

@@ -2,10 +2,9 @@
   "resultCount": 1,
   "results": [
     {
-      "features": [
-        "iosUniversal"
-      ],
-      "isGameCenterEnabled": false,
+      "artistViewUrl": "https://apps.apple.com/de/developer/burger-king-corporation/id526466412?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/ff/c0/bdffc0d2-e3a6-8844-de78-646c40e057fe/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/ff/c0/bdffc0d2-e3a6-8844-de78-646c40e057fe/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/89/e2/df/89e2df67-8479-b207-ed8e-7e92ea4b9a55/fe5c70b2-7cf7-42e0-b21e-0639d33321bd_23_41_App-Screens_1-1242x2208-01.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/be/0c/5d/be0c5da0-c5d3-5632-5f84-60f0a280ca17/c1734b00-33a5-4320-a54c-a68487662d54_23_41_App-Screens_2-1242x2208-01.png/392x696bb.png",
@@ -21,12 +20,11 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/7c/28/6a/7c286a70-607b-8b47-69b7-028bdce39879/aecd8e7f-4df2-45a3-a260-0b0b7c308690_23_41_App-Screens_5-2048x2732-01.png/576x768bb.png"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/fe/2a/07fe2aa7-2114-36d7-b9f0-03957ed3d8a9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/fe/2a/07fe2aa7-2114-36d7-b9f0-03957ed3d8a9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/fe/2a/07fe2aa7-2114-36d7-b9f0-03957ed3d8a9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/de/developer/burger-king-corporation/id526466412?uo=4",
-      "advisories": [],
-      "kind": "software",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/ff/c0/bdffc0d2-e3a6-8844-de78-646c40e057fe/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -156,46 +154,48 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "bundleId": "de.burgerking.BurgerKing",
-      "averageUserRating": 4.65882,
-      "averageUserRatingForCurrentVersion": 4.65882,
+      "advisories": [],
+      "kind": "software",
+      "contentAdvisoryRating": "4+",
+      "averageUserRatingForCurrentVersion": 4.65919,
       "sellerUrl": "https://www.burgerking.de",
-      "trackCensoredName": "Burger King Deutschland",
       "languageCodesISO2A": [
         "DE"
       ],
-      "fileSizeBytes": "103155712",
-      "formattedPrice": "Gratis",
-      "contentAdvisoryRating": "4+",
-      "userRatingCountForCurrentVersion": 88346,
+      "trackCensoredName": "Burger King Deutschland",
       "trackViewUrl": "https://apps.apple.com/de/app/burger-king-deutschland/id471268068?uo=4",
+      "fileSizeBytes": "105159680",
+      "formattedPrice": "Gratis",
+      "userRatingCountForCurrentVersion": 88906,
       "trackContentRating": "4+",
+      "averageUserRating": 4.65919,
       "genres": [
         "Essen und Trinken",
         "Lifestyle"
       ],
       "price": 0,
-      "releaseDate": "2011-10-08T00:24:06Z",
+      "artistId": 526466412,
+      "artistName": "Burger King Corporation",
+      "trackName": "Burger King Deutschland",
+      "trackId": 471268068,
+      "bundleId": "de.burgerking.BurgerKing",
       "genreIds": [
         "6023",
         "6012"
       ],
-      "sellerName": "Burger King Corporation",
+      "releaseDate": "2011-10-08T00:24:06Z",
       "primaryGenreName": "Food & Drink",
       "primaryGenreId": 6023,
+      "sellerName": "Burger King Corporation",
       "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-07-27T06:41:50Z",
+      "currentVersionReleaseDate": "2026-09-03T17:56:14Z",
       "releaseNotes": "Wir aktualisieren unsere App so oft wie möglich, um sie schneller und zuverlässiger zu machen.\nDies sind einige der Verbesserungen, die wir im Rahmen des letzten Updates vorgenommen haben:\n - Verbesserungen der Benutzeroberfläche\n - Einige behobene Fehler",
-      "version": "6.27.56",
+      "version": "6.27.58",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Mit der offiziellen Burger King® App noch schneller zum Geschmack! Wir liefern dir alle wichtigen Informationen direkt in deine Hand – egal ob spannende Features, aktuelle Aktionen, BK Lieferservice oder Details zu deinen Lieblings-Produkten. Und mit unseren Coupons kannst du weiterhin ordentlich sparen!\n\n\n•••\n\nDie wichtigsten Funktionen im Überblick:\n\nMyBK: Beste Coupons ganz nach deinem Geschmack\n\nIm Coupon-Bereich findest du exklusive MyBK Coupons, für dich maßgeschneidert. Mit deinem Login erhältst du sofortigen Zugriff.\n\nBenachrichtigungen: Deine Entscheidung\n\nDu weißt nie, wann dich der große Hunger packt. Gewähre uns dein Erlaubnis, um Benachrichtigungen von unterwegs sowie personalisierte Empfehlungen zu erhalten. Du wählst aus, welche Infos du bekommen möchtest und welche nicht. So verpasst du nie wieder neue Coupons und Aktionen.\n\nDas bringt’s: BK Home Delivery\n\nNun kannst du direkt in der App beim Burger King Lieferservice bestellen. Nach der Eingabe deiner Adresse wird dir sofort angezeigt, ob unser Lieferdienst Whopper®, Big King und Co. auch zu dir bringt.\n\n•••\n\nGefällt Dir BURGER KING®?\nSchenke uns auf Facebook ein Like: http://www.facebook.com/BurgerKing.Deutschland",
       "minimumOsVersion": "16.2",
-      "trackName": "Burger King Deutschland",
-      "trackId": 471268068,
-      "artistId": 526466412,
-      "artistName": "Burger King Corporation",
-      "userRatingCount": 88346,
+      "userRatingCount": 88906,
       "country": "DEU"
     }
   ]

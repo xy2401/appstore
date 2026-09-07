@@ -197,10 +197,14 @@
       "userRatingCount": 77
     },
     {
-      "isGameCenterEnabled": false,
       "artistViewUrl": "https://apps.apple.com/cn/developer/%E6%81%92%E7%9B%9B-%E7%A8%8B/id1533201832?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/dd/03/0ddd03be-bae5-f7ad-e5e1-55d335b2b9f3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/dd/03/0ddd03be-bae5-f7ad-e5e1-55d335b2b9f3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+      "advisories": [],
+      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -330,12 +334,7 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "advisories": [],
       "kind": "software",
-      "features": [
-        "iosUniversal"
-      ],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/dd/03/0ddd03be-bae5-f7ad-e5e1-55d335b2b9f3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6c/a0/ef/6ca0ef64-a504-27d6-d2b4-7f00af5b51fc/1_1.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a3/35/15/a33515e8-d8c1-33dc-6290-9521f75e72d9/2_1.png/320x480bb.jpg",
@@ -350,35 +349,36 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7f/73/12/7f731259-54b1-9b77-e058-e5b1db95d0fc/ipad-v2-5.png/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "minimumOsVersion": "13.0",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/dd/03/0ddd03be-bae5-f7ad-e5e1-55d335b2b9f3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "contentAdvisoryRating": "9+",
       "trackCensoredName": "全球电视 - 观看世界各地电视节目",
       "trackViewUrl": "https://apps.apple.com/cn/app/%E5%85%A8%E7%90%83%E7%94%B5%E8%A7%86-%E8%A7%82%E7%9C%8B%E4%B8%96%E7%95%8C%E5%90%84%E5%9C%B0%E7%94%B5%E8%A7%86%E8%8A%82%E7%9B%AE/id6758746366?uo=4",
       "averageUserRating": 4.04706,
-      "artistId": 1533201832,
-      "artistName": "恒盛 程",
       "genres": [
         "娱乐",
         "生活"
       ],
-      "price": 3,
-      "primaryGenreName": "Entertainment",
-      "primaryGenreId": 6016,
+      "artistId": 1533201832,
+      "artistName": "恒盛 程",
+      "bundleId": "com.example.liveStreamTV",
+      "releaseDate": "2026-04-09T07:00:00Z",
       "genreIds": [
         "6016",
         "6012"
       ],
       "currentVersionReleaseDate": "2026-08-31T09:17:54Z",
-      "isVppDeviceBasedLicensingEnabled": true,
+      "primaryGenreName": "Entertainment",
+      "primaryGenreId": 6016,
       "sellerName": "恒盛 程",
-      "releaseDate": "2026-04-09T07:00:00Z",
+      "isVppDeviceBasedLicensingEnabled": true,
       "releaseNotes": "• 更快访问全部频道与推荐频道\n• 优化首次使用引导与加载失败提示\n• 成功播放后才在更合适的时机邀请评分",
+      "trackId": 6758746366,
+      "trackName": "全球电视 - 观看世界各地电视节目",
       "version": "7.5.4",
       "wrapperType": "software",
       "currency": "CNY",
       "description": "全球电视，把你喜爱的频道装进口袋。\n\n新闻、体育、娱乐、电影、音乐……让分散的直播频道汇聚到一个 App。快速搜索、收藏常看频道、切换节目并进入全屏播放，从找到频道到开始观看，一气呵成。\n\n无论出差、旅居，或只是想整理分散的直播链接，都能更快找到想看的内容并开始播放。\n\n你会喜欢的功能：\n• 将全球直播频道集中管理\n• 搜索、排序与筛选收藏\n• 切换频道、静音、旋转、分享及全屏播放\n• 来源提供多档画质时自由选择\n• 清楚显示加载、失败、重试与重连状态\n• 频道和设置保存在设备本地\n• 添加 JSON、M3U、M3U8 列表及 HTTP/HTTPS 链接\n\n一次购买即可完整使用 iOS 版本，没有订阅，也没有应用内二次收费。\n\n首次使用时，请添加你拥有或获准使用的频道列表或直播地址。本 App 是播放器和频道管理器，不销售电视订阅，也不托管第三方节目。频道可用性、画质、延迟和加载速度取决于来源及网络环境。",
-      "bundleId": "com.example.liveStreamTV",
-      "sellerUrl": "https://chenghengsheng.top",
+      "minimumOsVersion": "13.0",
       "languageCodesISO2A": [
         "AR",
         "EN",
@@ -395,11 +395,11 @@
       ],
       "fileSizeBytes": "43162624",
       "formattedPrice": "¥3.00",
+      "averageUserRatingForCurrentVersion": 4.04706,
+      "sellerUrl": "https://chenghengsheng.top",
       "userRatingCountForCurrentVersion": 85,
       "trackContentRating": "9+",
-      "averageUserRatingForCurrentVersion": 4.04706,
-      "trackId": 6758746366,
-      "trackName": "全球电视 - 观看世界各地电视节目",
+      "price": 3,
       "userRatingCount": 85,
       "country": "CHN"
     }

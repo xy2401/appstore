@@ -185,12 +185,13 @@
       "userRatingCount": 0
     },
     {
+      "features": [
+        "iosUniversal"
+      ],
       "isGameCenterEnabled": false,
       "artistViewUrl": "https://apps.apple.com/jp/developer/kaerupanda-inc/id668508567?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/32/54/a73254fb-9850-93d4-1f3e-a20bb90947b9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/32/54/a73254fb-9850-93d4-1f3e-a20bb90947b9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
-      "advisories": [],
-      "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/12/6d/3c/126d3cea-1946-e55e-061b-04b888fab748/Image_Sequence_023_0000.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e1/43/e9/e143e9c9-f779-6eb5-b0a1-4b66ee0898c8/Image_Sequence_010_0000.jpg/320x480bb.jpg",
@@ -208,9 +209,6 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/32/54/a73254fb-9850-93d4-1f3e-a20bb90947b9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -340,44 +338,46 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "minimumOsVersion": "18.0",
+      "kind": "software",
+      "advisories": [],
+      "sellerUrl": "https://www.kaerupanda.tokyo/makucollemini",
+      "languageCodesISO2A": [
+        "JA"
+      ],
       "averageUserRating": 5,
+      "fileSizeBytes": "234958848",
+      "formattedPrice": "¥500",
+      "userRatingCountForCurrentVersion": 1,
+      "trackContentRating": "4+",
       "trackCensoredName": "幕コレMINI 東武鉄道10030型 近鉄ラッピング",
       "trackViewUrl": "https://apps.apple.com/jp/app/%E5%B9%95%E3%82%B3%E3%83%ACmini-%E6%9D%B1%E6%AD%A6%E9%89%84%E9%81%9310030%E5%9E%8B-%E8%BF%91%E9%89%84%E3%83%A9%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0/id6762371349?uo=4",
       "contentAdvisoryRating": "4+",
-      "price": 500,
+      "averageUserRatingForCurrentVersion": 5,
       "genres": [
         "エンターテインメント",
         "旅行"
       ],
       "artistId": 668508567,
       "artistName": "KAERUPANDA INC.",
+      "price": 500,
       "trackId": 6762371349,
       "trackName": "幕コレMINI 東武鉄道10030型 近鉄ラッピング",
       "sellerName": "KAERUPANDA INC.",
-      "primaryGenreName": "Entertainment",
-      "primaryGenreId": 6016,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseNotes": "実車に合わせてイラストや幕の仕様を調整",
-      "version": "1.0.1",
-      "wrapperType": "software",
-      "currency": "JPY",
-      "description": "東武鉄道公式ライセンスの方向幕シミュレーター\n\n【本作のこだわりポイント】\n・2026年現在仕様の本線系統の正面幕を完全収録！\n・実車から収録したリアルな警笛などを鳴らしながら楽しめます。\n\n東武鉄道株式会社商品化許諾済\n\nスマートデバイスに広がる\nあなただけの方向幕コレクション\n\n【幕コレMINIシリーズ 続々展開中】\n関東・関西の各路線を網羅した圧倒的ラインナップ！\nあなたの推し路線を探してみませんか？\n\n▼デベロッパーページ（株式会社カエルパンダ）をタップして\nシリーズの他の車両も今すぐチェック！▼",
-      "sellerUrl": "https://www.kaerupanda.tokyo/makucollemini",
-      "averageUserRatingForCurrentVersion": 5,
-      "languageCodesISO2A": [
-        "JA"
-      ],
-      "fileSizeBytes": "234958848",
-      "formattedPrice": "¥500",
-      "userRatingCountForCurrentVersion": 1,
-      "trackContentRating": "4+",
       "bundleId": "com.kaerupanda.Makucolle-TB-10030KT",
+      "isVppDeviceBasedLicensingEnabled": true,
       "genreIds": [
         "6016",
         "6003"
       ],
       "releaseDate": "2026-05-29T07:00:00Z",
+      "primaryGenreName": "Entertainment",
+      "primaryGenreId": 6016,
+      "releaseNotes": "実車に合わせてイラストや幕の仕様を調整",
+      "version": "1.0.1",
+      "wrapperType": "software",
+      "currency": "JPY",
+      "description": "東武鉄道公式ライセンスの方向幕シミュレーター\n\n【本作のこだわりポイント】\n・2026年現在仕様の本線系統の正面幕を完全収録！\n・実車から収録したリアルな警笛などを鳴らしながら楽しめます。\n\n東武鉄道株式会社商品化許諾済\n\nスマートデバイスに広がる\nあなただけの方向幕コレクション\n\n【幕コレMINIシリーズ 続々展開中】\n関東・関西の各路線を網羅した圧倒的ラインナップ！\nあなたの推し路線を探してみませんか？\n\n▼デベロッパーページ（株式会社カエルパンダ）をタップして\nシリーズの他の車両も今すぐチェック！▼",
+      "minimumOsVersion": "18.0",
       "currentVersionReleaseDate": "2026-08-18T23:57:52Z",
       "userRatingCount": 1,
       "country": "JPN"

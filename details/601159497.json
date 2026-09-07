@@ -187,7 +187,16 @@
       "userRatingCount": 211
     },
     {
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/58/51/4f/58514f5d-1719-d960-94ec-e4a8ec121f7b/mzl.vwaznasz.jpg/392x696bb.jpg"
+      ],
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/63/83/9a/63839a37-03b1-7f7a-a64b-0b7cd7d6987e/mzl.wgpovspx.jpg/576x768bb.jpg"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/31/39/da313987-1a15-3067-f0d6-4ab3b95c848d/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
       "isGameCenterEnabled": false,
+      "advisories": [],
       "features": [
         "iosUniversal"
       ],
@@ -320,56 +329,47 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "advisories": [],
       "kind": "software",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/58/51/4f/58514f5d-1719-d960-94ec-e4a8ec121f7b/mzl.vwaznasz.jpg/392x696bb.jpg"
-      ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/63/83/9a/63839a37-03b1-7f7a-a64b-0b7cd7d6987e/mzl.wgpovspx.jpg/576x768bb.jpg"
-      ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/31/39/da313987-1a15-3067-f0d6-4ab3b95c848d/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg",
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/31/39/da313987-1a15-3067-f0d6-4ab3b95c848d/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/31/39/da313987-1a15-3067-f0d6-4ab3b95c848d/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
       "artistViewUrl": "https://apps.apple.com/us/developer/e-courier-inc/id601159500?uo=4",
-      "releaseNotes": "- Support geofence dwell time\n- Add option to specify time window for auto arrive location\n- If Piece Quantity parameter is set to \"Required, if not set\", also require piece quantity if job 1, stop1",
-      "price": 9.99,
-      "bundleId": "com.ecourier.mobile.ecMobile",
-      "artistId": 601159500,
-      "artistName": "e-Courier, Inc.",
-      "genreIds": [
-        "6000",
-        "6007"
-      ],
-      "isVppDeviceBasedLicensingEnabled": true,
-      "sellerName": "e-Courier, Inc.",
-      "releaseDate": "2013-02-16T00:22:27Z",
-      "trackId": 601159497,
-      "trackName": "ecMobile",
-      "currentVersionReleaseDate": "2026-08-23T15:52:40Z",
-      "version": "1.2.146",
-      "wrapperType": "software",
-      "currency": "USD",
-      "description": "ecMobile allows users to connect to, and receive dispatches from, many of the nation’s leading courier, delivery, and logistics companies.  If you have a truck, car, van, pickup, bike, or even a pair of shoes, you may be a candidate to perform pickup and delivery services in any city in the U.S.  Once you have registered with a delivery company, you can receive dispatches right to your device, and provide real time status updates, including bar code scanning data and signature images, back to the delivery company.  By simply logging on, you can signal to the delivery company your current location and that you are ready to receive work requests.  Please note that this app uses GPS running in the background, which can dramatically decrease battery life.",
-      "minimumOsVersion": "10.0",
-      "averageUserRating": 2.10849,
-      "trackCensoredName": "ecMobile",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/31/39/da313987-1a15-3067-f0d6-4ab3b95c848d/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/31/39/da313987-1a15-3067-f0d6-4ab3b95c848d/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
+      "averageUserRatingForCurrentVersion": 2.10329,
       "languageCodesISO2A": [],
       "fileSizeBytes": "63422464",
       "formattedPrice": "$9.99",
-      "contentAdvisoryRating": "4+",
-      "userRatingCountForCurrentVersion": 212,
-      "trackViewUrl": "https://apps.apple.com/us/app/ecmobile/id601159497?uo=4",
+      "userRatingCountForCurrentVersion": 213,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 2.10849,
-      "primaryGenreName": "Business",
-      "primaryGenreId": 6000,
+      "minimumOsVersion": "10.0",
+      "artistId": 601159500,
+      "artistName": "e-Courier, Inc.",
       "genres": [
         "Business",
         "Productivity"
       ],
-      "userRatingCount": 212,
+      "price": 9.99,
+      "bundleId": "com.ecourier.mobile.ecMobile",
+      "trackId": 601159497,
+      "trackName": "ecMobile",
+      "primaryGenreName": "Business",
+      "primaryGenreId": 6000,
+      "sellerName": "e-Courier, Inc.",
+      "currentVersionReleaseDate": "2026-08-23T15:52:40Z",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseNotes": "- Support geofence dwell time\n- Add option to specify time window for auto arrive location\n- If Piece Quantity parameter is set to \"Required, if not set\", also require piece quantity if job 1, stop1",
+      "version": "1.2.146",
+      "wrapperType": "software",
+      "currency": "USD",
+      "description": "ecMobile allows users to connect to, and receive dispatches from, many of the nation’s leading courier, delivery, and logistics companies.  If you have a truck, car, van, pickup, bike, or even a pair of shoes, you may be a candidate to perform pickup and delivery services in any city in the U.S.  Once you have registered with a delivery company, you can receive dispatches right to your device, and provide real time status updates, including bar code scanning data and signature images, back to the delivery company.  By simply logging on, you can signal to the delivery company your current location and that you are ready to receive work requests.  Please note that this app uses GPS running in the background, which can dramatically decrease battery life.",
+      "trackCensoredName": "ecMobile",
+      "trackViewUrl": "https://apps.apple.com/us/app/ecmobile/id601159497?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 2.10329,
+      "releaseDate": "2013-02-16T00:22:27Z",
+      "genreIds": [
+        "6000",
+        "6007"
+      ],
+      "userRatingCount": 213,
       "country": "USA"
     }
   ]

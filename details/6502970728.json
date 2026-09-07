@@ -188,6 +188,9 @@
     },
     {
       "isGameCenterEnabled": false,
+      "artistViewUrl": "https://apps.apple.com/jp/developer/mylops/id488047327?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/e0/54/80e054ea-0d0c-dfa8-6ed6-a99d34ae34e2/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/e0/54/80e054ea-0d0c-dfa8-6ed6-a99d34ae34e2/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
       "features": [
         "iosUniversal"
       ],
@@ -320,11 +323,7 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "advisories": [],
       "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/jp/developer/mylops/id488047327?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/e0/54/80e054ea-0d0c-dfa8-6ed6-a99d34ae34e2/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/e0/54/80e054ea-0d0c-dfa8-6ed6-a99d34ae34e2/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fa/39/3b/fa393b13-04a0-d2ff-1031-e670d4af6a67/600b3d06-c17d-4c86-b737-0c6e07173af4_Simulator_Screenshot_-_iPhone_8_Plus_-_2024-08-09_at_12.19.53.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d6/94/d9/d694d90c-7148-b8b4-a82c-98af166099eb/b5e8f8c9-d389-4123-9734-6ce7aaf7d153_Simulator_Screenshot_-_iPhone_8_Plus_-_2024-08-09_at_12.19.56.png/392x696bb.png",
@@ -339,15 +338,19 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/e0/54/80e054ea-0d0c-dfa8-6ed6-a99d34ae34e2/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "releaseNotes": "アプリの使い方のリンク変更",
+      "advisories": [],
+      "trackCensoredName": "関連図作成アプリ",
+      "trackViewUrl": "https://apps.apple.com/jp/app/%E9%96%A2%E9%80%A3%E5%9B%B3%E4%BD%9C%E6%88%90%E3%82%A2%E3%83%97%E3%83%AA/id6502970728?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 3.70588,
+      "bundleId": "com.mylops.associationchart.prod",
       "genres": [
         "教育",
         "メディカル"
       ],
-      "bundleId": "com.mylops.associationchart.prod",
-      "price": 800,
-      "trackId": 6502970728,
+      "releaseDate": "2024-08-26T07:00:00Z",
       "trackName": "関連図作成アプリ",
+      "trackId": 6502970728,
       "genreIds": [
         "6017",
         "6020"
@@ -355,29 +358,26 @@
       "primaryGenreName": "Education",
       "primaryGenreId": 6017,
       "sellerName": "mylops,inc",
-      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-01-29T07:36:42Z",
+      "releaseNotes": "アプリの使い方のリンク変更",
       "version": "1.3.8",
       "wrapperType": "software",
       "currency": "JPY",
       "description": "看護学生の睡眠時間を増やしたい！！\n関連図の書き方が分からない人、関連図で夜眠れない人、関連図がとにかく苦手な人に向けた関連図作成ツールです！\n関連図の軸となる病態関連図を情報に応じて簡単に作成できます。\n\n関連図作成アプリの使い方\n①疾患を選択\n②症状や状態を選択\n③選択に応じて病態関連図が作成\n\n\n購入者にはDiscordサーバーで学生向けAI指南してます",
-      "trackCensoredName": "関連図作成アプリ",
-      "trackViewUrl": "https://apps.apple.com/jp/app/%E9%96%A2%E9%80%A3%E5%9B%B3%E4%BD%9C%E6%88%90%E3%82%A2%E3%83%97%E3%83%AA/id6502970728?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 3.70588,
       "minimumOsVersion": "17.0",
+      "averageUserRatingForCurrentVersion": 3.70588,
+      "sellerUrl": "https://810poppo.com/",
+      "languageCodesISO2A": [
+        "JA"
+      ],
       "fileSizeBytes": "43126784",
       "formattedPrice": "¥800",
       "userRatingCountForCurrentVersion": 17,
       "trackContentRating": "4+",
-      "languageCodesISO2A": [
-        "JA"
-      ],
-      "sellerUrl": "https://810poppo.com/",
-      "averageUserRatingForCurrentVersion": 3.70588,
+      "price": 800,
+      "isVppDeviceBasedLicensingEnabled": true,
       "artistId": 488047327,
       "artistName": "mylops",
-      "releaseDate": "2024-08-26T07:00:00Z",
       "userRatingCount": 17,
       "country": "JPN"
     }

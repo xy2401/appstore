@@ -216,12 +216,6 @@
       "userRatingCount": 2767
     },
     {
-      "features": [
-        "iosUniversal"
-      ],
-      "artistViewUrl": "https://apps.apple.com/us/developer/microsoft-corporation/id298856275?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/a0/f7/08a0f7ea-6851-719b-3185-7a7867fe8dcc/AppIcons-0-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/a0/f7/08a0f7ea-6851-719b-3185-7a7867fe8dcc/AppIcons-0-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/91/31/ef9131e8-03ab-f4bf-17ed-c21f9d0a7b95/pr_source.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/c3/fd/34c3fdba-9fce-966e-8fba-af212b199e5b/pr_source.png/392x696bb.png",
@@ -239,9 +233,14 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/a0/f7/08a0f7ea-6851-719b-3185-7a7867fe8dcc/AppIcons-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/us/developer/microsoft-corporation/id298856275?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/a0/f7/08a0f7ea-6851-719b-3185-7a7867fe8dcc/AppIcons-0-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/a0/f7/08a0f7ea-6851-719b-3185-7a7867fe8dcc/AppIcons-0-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
       "advisories": [],
-      "kind": "software",
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -371,12 +370,9 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "bundleId": "com.microsoft.azure",
-      "trackCensoredName": "Microsoft Azure",
-      "trackViewUrl": "https://apps.apple.com/us/app/microsoft-azure/id1219013620?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.77306,
-      "averageUserRatingForCurrentVersion": 4.77306,
+      "kind": "software",
+      "averageUserRatingForCurrentVersion": 4.77339,
+      "sellerUrl": "http://aka.ms/azureapp",
       "languageCodesISO2A": [
         "CS",
         "NL",
@@ -399,35 +395,39 @@
       ],
       "fileSizeBytes": "117042176",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 2785,
+      "userRatingCountForCurrentVersion": 2789,
       "trackContentRating": "4+",
-      "sellerUrl": "http://aka.ms/azureapp",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.77339,
+      "trackCensoredName": "Microsoft Azure",
+      "trackViewUrl": "https://apps.apple.com/us/app/microsoft-azure/id1219013620?uo=4",
+      "minimumOsVersion": "16.0",
+      "price": 0,
       "artistId": 298856275,
       "artistName": "Microsoft Corporation",
-      "genres": [
-        "Business",
-        "Productivity"
-      ],
-      "price": 0,
-      "releaseNotes": "Thank you for using the Azure app. Our regular updates include performance improvements and bug fixes to make the app faster and more reliable.\n\nPlease reach out to us for any questions, concerns, or feature requests.",
-      "releaseDate": "2017-05-09T22:50:43Z",
-      "primaryGenreName": "Business",
-      "primaryGenreId": 6000,
-      "sellerName": "Microsoft Corporation",
-      "isVppDeviceBasedLicensingEnabled": true,
+      "bundleId": "com.microsoft.azure",
       "currentVersionReleaseDate": "2026-07-21T15:51:57Z",
-      "version": "8.1.10",
-      "wrapperType": "software",
-      "currency": "USD",
-      "description": "The Microsoft Azure app helps you keep track of your resources while on-the-go:\n•\tStay connected to the cloud and check status and critical metrics anytime, anywhere\n•\tStay informed with notifications and alerts about important health issues \n•\tStay in control of your resources and take corrective actions, like starting and stopping VMs and web apps\n\n\n\n\n--------------------\n\nMicrosoft collects data to operate effectively and provide you with the best experiences in our products. This mobile application may collect personal information, for example, the email address used to log in. We do not share this personal information with third-parties without your consent. We do not use your information for marketing purposes.\n\nIf you do not agree with Microsoft collecting this data, please do not log into the application and delete it from your device.",
-      "minimumOsVersion": "16.0",
+      "releaseDate": "2017-05-09T22:50:43Z",
+      "trackName": "Microsoft Azure",
+      "trackId": 1219013620,
       "genreIds": [
         "6000",
         "6007"
       ],
-      "trackName": "Microsoft Azure",
-      "trackId": 1219013620,
-      "userRatingCount": 2785,
+      "primaryGenreName": "Business",
+      "primaryGenreId": 6000,
+      "sellerName": "Microsoft Corporation",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseNotes": "Thank you for using the Azure app. Our regular updates include performance improvements and bug fixes to make the app faster and more reliable.\n\nPlease reach out to us for any questions, concerns, or feature requests.",
+      "version": "8.1.10",
+      "wrapperType": "software",
+      "currency": "USD",
+      "description": "The Microsoft Azure app helps you keep track of your resources while on-the-go:\n•\tStay connected to the cloud and check status and critical metrics anytime, anywhere\n•\tStay informed with notifications and alerts about important health issues \n•\tStay in control of your resources and take corrective actions, like starting and stopping VMs and web apps\n\n\n\n\n--------------------\n\nMicrosoft collects data to operate effectively and provide you with the best experiences in our products. This mobile application may collect personal information, for example, the email address used to log in. We do not share this personal information with third-parties without your consent. We do not use your information for marketing purposes.\n\nIf you do not agree with Microsoft collecting this data, please do not log into the application and delete it from your device.",
+      "genres": [
+        "Business",
+        "Productivity"
+      ],
+      "userRatingCount": 2789,
       "country": "USA"
     }
   ]

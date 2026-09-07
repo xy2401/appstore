@@ -197,10 +197,14 @@
       "userRatingCount": 5
     },
     {
-      "isGameCenterEnabled": false,
       "artistViewUrl": "https://apps.apple.com/cn/developer/%E9%BE%99-%E9%A9%AC/id1858588345?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/3a/8b/c13a8b05-31ba-be94-9922-fdced8cf84df/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/3a/8b/c13a8b05-31ba-be94-9922-fdced8cf84df/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+      "advisories": [],
+      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -331,12 +335,7 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "advisories": [],
       "kind": "software",
-      "features": [
-        "iosUniversal"
-      ],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/3a/8b/c13a8b05-31ba-be94-9922-fdced8cf84df/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5b/5f/a3/5b5fa34a-8481-1e74-7aa9-ce12e3834967/Simulator_Screenshot_-_iPhone_17_-_2026-03-28_at_20.26.49.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/76/b0/6a/76b06aa8-3400-d243-c4f8-4c44c8bd9581/Simulator_Screenshot_-_iPhone_17_-_2026-03-28_at_20.26.53.png/320x480bb.jpg",
@@ -350,35 +349,36 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/19/22/17/19221776-e921-5620-ac0c-732607febc7d/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M3_U0029_-_2026-03-28_at_20.32.16.png/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "minimumOsVersion": "17.0",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/3a/8b/c13a8b05-31ba-be94-9922-fdced8cf84df/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "contentAdvisoryRating": "4+",
       "trackCensoredName": "肘击",
       "trackViewUrl": "https://apps.apple.com/cn/app/%E8%82%98%E5%87%BB/id6761071037?uo=4",
       "averageUserRating": 4.59999,
-      "artistId": 1858588345,
-      "artistName": "龙 马",
       "genres": [
         "娱乐",
         "健康健美"
       ],
-      "price": 3,
-      "primaryGenreName": "Entertainment",
-      "primaryGenreId": 6016,
+      "artistId": 1858588345,
+      "artistName": "龙 马",
+      "bundleId": "com.goodloong.elbowstrike.Elbow-Strike",
+      "releaseDate": "2026-04-01T07:00:00Z",
       "genreIds": [
         "6016",
         "6013"
       ],
       "currentVersionReleaseDate": "2026-05-03T19:14:28Z",
-      "isVppDeviceBasedLicensingEnabled": true,
+      "primaryGenreName": "Entertainment",
+      "primaryGenreId": 6016,
       "sellerName": "龙 马",
-      "releaseDate": "2026-04-01T07:00:00Z",
+      "isVppDeviceBasedLicensingEnabled": true,
       "releaseNotes": "1.5 版本更新：\n- 全面支持日语、西班牙语、法语等 9 种新语言。\n- 优化了 Apple Watch 端的响应速度与识别精度。\n- 修复了若干已知问题，提升训练体验。",
+      "trackId": 6761071037,
+      "trackName": "肘击",
       "version": "1.5",
       "wrapperType": "software",
       "currency": "CNY",
       "description": "《肘击》是一款极具创意的体感反馈与运动记录应用，只依靠苹果手机或智能手表即可记录你的肘击运动，同时完美融合您的苹果手机与智能手表。也能够让你通过强大的动作识别引擎，应用能捕捉您的挥臂动作，为您带来趣味十足的体感锻炼体验！",
-      "bundleId": "com.goodloong.elbowstrike.Elbow-Strike",
-      "sellerUrl": "https://www.douyin.com/user/self?from_tab_name=goodloong",
+      "minimumOsVersion": "17.0",
       "languageCodesISO2A": [
         "AR",
         "EN",
@@ -394,11 +394,11 @@
       ],
       "fileSizeBytes": "19670016",
       "formattedPrice": "¥3.00",
+      "averageUserRatingForCurrentVersion": 4.59999,
+      "sellerUrl": "https://www.douyin.com/user/self?from_tab_name=goodloong",
       "userRatingCountForCurrentVersion": 5,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.59999,
-      "trackId": 6761071037,
-      "trackName": "肘击",
+      "price": 3,
       "userRatingCount": 5,
       "country": "CHN"
     }

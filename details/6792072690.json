@@ -2,7 +2,11 @@
   "resultCount": 1,
   "results": [
     {
+      "advisories": [],
       "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -134,13 +138,6 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
       "kind": "software",
-      "features": [
-        "iosUniversal"
-      ],
-      "artistViewUrl": "https://apps.apple.com/cn/developer/%E5%A4%AA%E5%BD%AC-%E9%83%AD/id6792054754?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/d1/1b/6bd11b5a-1350-5c6b-fd8a-24fca928374f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/d1/1b/6bd11b5a-1350-5c6b-fd8a-24fca928374f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/d1/1b/6bd11b5a-1350-5c6b-fd8a-24fca928374f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3d/bf/c8/3dbfc8b7-9cf2-f6e3-86cc-381d42ca69d7/AppStore-iPhone-01-_U6559_U5e08_U8bfe_U8868.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b0/9f/24/b09f243e-fbb3-6d85-6665-1dad8b68e6af/AppStore-iPhone-02-_U5bfc_U5165_U9010_U884c_U8bca_U65ad.png/320x480bb.jpg",
@@ -156,45 +153,48 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/33/4c/72/334c7297-7bc5-4c88-fdc4-b99f6cbf8a4c/AppStore-iPad-04-_U6392_U540d_U53e3_U5f84_U63d0_U793a.png/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "advisories": [],
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/12/15/c4121596-c054-9e86-f90d-7f072b0d858a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/12/15/c4121596-c054-9e86-f90d-7f072b0d858a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/cn/developer/%E5%A4%AA%E5%BD%AC-%E9%83%AD/id6792054754?uo=4",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/12/15/c4121596-c054-9e86-f90d-7f072b0d858a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+      "minimumOsVersion": "17.0",
       "artistId": 6792054754,
       "artistName": "太彬 郭",
       "genres": [
         "效率"
       ],
-      "bundleId": "cn.guotaibin.banzhuren",
       "price": 49.9,
+      "releaseNotes": "本次更新围绕老师的日常使用反馈改进：\n\n• 多人请假支持逐人销假，宿舍可查看今日请假和当前未返校名单。\n• 宿舍支持小数加扣分；历史餐费可按日期、餐次预览改价，并分别统计三餐次数。\n• 作业可按学生和状态筛选、查看个人历史；违纪与档案记录可打开完整只读详情。\n• 学生成绩新增横向明细表，资料字段支持长按复制完整值。\n• 支持多套学生分组方案及值日、量化联动，自动分组最多30组；插班生可补入指定空座。\n• 提高座位PDF、图片导出的可读性，保留过道和特殊座；今日待办新增大号小组件。\n• 优化课表导入与入口、按星期请假时段、早读等工作提醒及工作备注显示。\n\n既有数据继续保留。使用新增个人销假或宿舍小数记录后，旧端兼容交换会先检查，避免有损转换；完整备份仍可正常导出。",
+      "bundleId": "cn.guotaibin.banzhuren",
       "sellerName": "太彬 郭",
-      "isVppDeviceBasedLicensingEnabled": true,
       "primaryGenreName": "Productivity",
       "primaryGenreId": 6007,
-      "currentVersionReleaseDate": "2026-08-28T19:09:17Z",
       "releaseDate": "2026-07-24T07:00:00Z",
-      "trackId": 6792072690,
-      "trackName": "班主任工作台",
       "genreIds": [
         "6007"
       ],
-      "releaseNotes": "这次更新重点提升日常使用的可靠性：\n\n• 教师课表导入增加逐行诊断，混合日期、星期和单双周安排更容易检查。\n• 座位表导出会保留过道位置、左右顺序和查看视角，支持 PDF、图片、Excel、Word 和文本格式。\n• 待办提醒新增通知诊断，便于确认权限、计划时间和系统排队状态。\n• 请假消息粘贴入口更靠前，记录照片支持全屏缩放与多图切换。\n• 修复中号“我的课表”小组件文字重叠、照片 PDF 方向及成绩排名口径提示等问题。\n• 优化端侧语音待办的模型准备与本机回退，不会自动改为联网转写。",
-      "version": "2.1",
+      "currentVersionReleaseDate": "2026-09-06T23:24:56Z",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "trackName": "班主任工作台",
+      "trackId": 6792072690,
+      "version": "2.3",
       "wrapperType": "software",
       "currency": "CNY",
       "description": "班主任工作台是一款面向一线教师的班级管理工具，把每天反复出现的事务集中到清晰、安静的工作台中。\n\n【今日工作台】\n集中查看待办、考试倒计时、本班课表、教师个人课表与班级动态。支持带时间提醒、桌面小组件、主屏幕快捷操作及 iPhone Action Button 语音记待办。\n\n【日常事务】\n记录请假、销假、违纪、量化积分、处分跟踪、作业跟进、值日、用餐登记、班级收支、宿舍管理、培优辅差及课后服务。\n\n【学生与成绩】\n支持手动添加或从 Excel、CSV 导入学生、成绩和课表。支持学生档案、拼音检索、年级/市级等排名趋势、全班历次成绩进退、分组、积分、宿舍及座位安排，并可导出 PDF、Excel、Word 等资料。\n\n【工作留痕】\n保存班级活动、主题班会、安全教育和学生沟通记录。支持照片时间水印、录音、签名、附件、关联学生及多格式导出。\n\n【数据与备份】\n无需注册或登录，不含广告、追踪或开发者统计服务。业务数据默认保存在设备中；用户可主动导出完整备份，也可自行选择使用 Apple iCloud Drive 保存完整备份，或启用可选的照片原图存储。iCloud 功能由用户主动控制，数据不会上传至开发者服务器。\n\n支持小学、初中、高中、职业学校及大学辅导员等不同工作场景，部分入口会根据学段自动调整。",
-      "minimumOsVersion": "17.0",
+      "averageUserRating": 4.09091,
+      "averageUserRatingForCurrentVersion": 4.09091,
       "trackCensoredName": "班主任工作台",
-      "trackViewUrl": "https://apps.apple.com/cn/app/%E7%8F%AD%E4%B8%BB%E4%BB%BB%E5%B7%A5%E4%BD%9C%E5%8F%B0/id6792072690?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.03333,
-      "averageUserRatingForCurrentVersion": 4.03333,
-      "sellerUrl": "https://github.com/Chipmunk1995/banzhuren-ios-pages",
       "languageCodesISO2A": [
         "ZH"
       ],
-      "fileSizeBytes": "33180672",
+      "fileSizeBytes": "37334016",
       "formattedPrice": "¥49.90",
-      "userRatingCountForCurrentVersion": 30,
+      "contentAdvisoryRating": "4+",
+      "userRatingCountForCurrentVersion": 33,
+      "trackViewUrl": "https://apps.apple.com/cn/app/%E7%8F%AD%E4%B8%BB%E4%BB%BB%E5%B7%A5%E4%BD%9C%E5%8F%B0/id6792072690?uo=4",
       "trackContentRating": "4+",
-      "userRatingCount": 30,
+      "sellerUrl": "https://github.com/Chipmunk1995/banzhuren-ios-pages",
+      "userRatingCount": 33,
       "country": "CHN"
     }
   ]

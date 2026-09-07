@@ -327,6 +327,8 @@
       "artistViewUrl": "https://apps.apple.com/us/developer/lemel-software-llc/id1799612083?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/4b/5d/f54b5d27-f4b7-f35c-98bc-de963a30e755/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/4b/5d/f54b5d27-f4b7-f35c-98bc-de963a30e755/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/4b/5d/f54b5d27-f4b7-f35c-98bc-de963a30e755/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/36/cc/67/36cc6766-1145-ac0c-3e50-3c4bd8a0e0b1/iPhone.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7d/fc/1c/7dfc1cef-43e7-d334-cd6f-474c6f084ba4/Recipe_3.png/320x480bb.jpg",
@@ -347,29 +349,27 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7d/ea/ee/7deaeedc-f2fe-5726-4eb0-09a0c585d952/iPad_Costing.png/360x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d8/b1/cf/d8b1cf5e-fdf0-ca63-7c74-72a4d395424f/iPad_Collections.png/360x480bb.jpg"
       ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/4b/5d/f54b5d27-f4b7-f35c-98bc-de963a30e755/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "minimumOsVersion": "18.0",
-      "releaseNotes": "- Fixed crash issue\n- Much less storage used - Optimized the app to take up less space on your device.\n- Smarter spirit search - Searching \"whiskey\" now finds every bourbon, rye, and scotch drink, and the same works for \"cane,\" \"agave,\" and \"brandy.\"\n- Search by drink name - Now can search recipe titles, so \"Old Fashioned\" stops pulling up everything served in that glass and shows all your Old Fashioned recipes.\n- Updated spirit types - Top-level spirits are now Vodka, Gin, Cane, Agave, Whisky or Whiskey, Brandy, and Other, and your existing ingredients update automatically.\n- Tap a notification, go straight there - Notifications now open the actual pack, shared item, or friend request instead of just the section.\n- Steadier friends list - Your friends now appear instantly and stay put when sharing, instead of flickering while the list refreshes.\n- Fixed: deleting shared items - The delete button on recipes, packs, collections, and ingredients shared from friends now works.\n- Fixed: deleted collections coming back - Shared collections you delete now stay deleted, including on your other devices.\n- Fixed: metric unit switching - Switching unit display in the recipe editor no longer changes your ingredient amounts to \"dash.\"\n- Fixed: recipe deletion - Deleting a recipe no longer offers to remove ingredients that recipes still in your trash are using.\n- iPad fix - Tapping a friend request notification now opens your Friends list on iPad.",
-      "price": 4.99,
       "genres": [
         "Food & Drink",
         "Lifestyle"
       ],
       "artistId": 1799612083,
       "artistName": "Lemel Software, LLC",
+      "currentVersionReleaseDate": "2026-08-17T18:47:33Z",
       "bundleId": "dev.lemelsoftware.TheBarApp",
+      "trackName": "Bevnap: Cocktail Recipes",
+      "trackId": 6744274650,
+      "releaseDate": "2026-02-19T08:00:00Z",
+      "releaseNotes": "- Fixed crash issue\n- Much less storage used - Optimized the app to take up less space on your device.\n- Smarter spirit search - Searching \"whiskey\" now finds every bourbon, rye, and scotch drink, and the same works for \"cane,\" \"agave,\" and \"brandy.\"\n- Search by drink name - Now can search recipe titles, so \"Old Fashioned\" stops pulling up everything served in that glass and shows all your Old Fashioned recipes.\n- Updated spirit types - Top-level spirits are now Vodka, Gin, Cane, Agave, Whisky or Whiskey, Brandy, and Other, and your existing ingredients update automatically.\n- Tap a notification, go straight there - Notifications now open the actual pack, shared item, or friend request instead of just the section.\n- Steadier friends list - Your friends now appear instantly and stay put when sharing, instead of flickering while the list refreshes.\n- Fixed: deleting shared items - The delete button on recipes, packs, collections, and ingredients shared from friends now works.\n- Fixed: deleted collections coming back - Shared collections you delete now stay deleted, including on your other devices.\n- Fixed: metric unit switching - Switching unit display in the recipe editor no longer changes your ingredient amounts to \"dash.\"\n- Fixed: recipe deletion - Deleting a recipe no longer offers to remove ingredients that recipes still in your trash are using.\n- iPad fix - Tapping a friend request notification now opens your Friends list on iPad.",
       "genreIds": [
         "6023",
         "6012"
       ],
       "primaryGenreName": "Food & Drink",
       "primaryGenreId": 6023,
-      "trackId": 6744274650,
-      "trackName": "Bevnap: Cocktail Recipes",
       "sellerName": "Lemel Software, LLC",
       "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-08-17T18:47:33Z",
       "version": "4.3.6",
       "wrapperType": "software",
       "currency": "USD",
@@ -378,7 +378,6 @@
       "trackViewUrl": "https://apps.apple.com/us/app/bevnap-cocktail-recipes/id6744274650?uo=4",
       "contentAdvisoryRating": "17+",
       "averageUserRating": 4.71429,
-      "averageUserRatingForCurrentVersion": 4.71429,
       "languageCodesISO2A": [
         "EN"
       ],
@@ -386,7 +385,8 @@
       "formattedPrice": "$4.99",
       "userRatingCountForCurrentVersion": 35,
       "trackContentRating": "17+",
-      "releaseDate": "2026-02-19T08:00:00Z",
+      "averageUserRatingForCurrentVersion": 4.71429,
+      "price": 4.99,
       "userRatingCount": 35,
       "country": "USA"
     }

@@ -184,6 +184,7 @@
       "userRatingCount": 64
     },
     {
+      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -313,13 +314,14 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "advisories": [],
-      "isGameCenterEnabled": false,
+      "kind": "software",
       "artistViewUrl": "https://apps.apple.com/jp/developer/kaori-takahashi/id1800205675?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/a0/06/17a006dc-7cc9-87d3-6c43-f51e422d6edf/AppIcon-0-0-1x_U007ephone-0-1-P3-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/a0/06/17a006dc-7cc9-87d3-6c43-f51e422d6edf/AppIcon-0-0-1x_U007ephone-0-1-P3-85-220.png/100x100bb.jpg",
       "features": [],
-      "kind": "software",
+      "ipadScreenshotUrls": [],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/a0/06/17a006dc-7cc9-87d3-6c43-f51e422d6edf/AppIcon-0-0-1x_U007ephone-0-1-P3-85-220.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c4/d0/0b/c4d00bca-146f-358e-bc5c-a14e0c6428b2/Screen1.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fa/bd/22/fabd22a1-8077-db41-5661-876c5186bee9/Screen2.png/320x480bb.jpg",
@@ -328,35 +330,33 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/86/d9/b9/86d9b95c-e787-4196-0982-7f8b5de0b8d2/Screen5.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/25/35/97/253597ef-aab2-2b68-a653-990b4a895c85/Screen6.png/320x480bb.jpg"
       ],
-      "ipadScreenshotUrls": [],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/a0/06/17a006dc-7cc9-87d3-6c43-f51e422d6edf/AppIcon-0-0-1x_U007ephone-0-1-P3-85-220.png/512x512bb.jpg",
-      "minimumOsVersion": "17.0",
-      "releaseDate": "2026-01-20T08:00:00Z",
-      "trackCensoredName": "Min Habit - シンプルな習慣管理",
-      "trackViewUrl": "https://apps.apple.com/jp/app/min-habit-%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AA%E7%BF%92%E6%85%A3%E7%AE%A1%E7%90%86/id6757673148?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.49275,
-      "artistId": 1800205675,
-      "artistName": "Kaori Takahashi",
+      "advisories": [],
       "genres": [
         "ライフスタイル",
         "仕事効率化"
       ],
-      "price": 300,
-      "bundleId": "com.nanoka.minHabit",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "sellerName": "Kaori Takahashi",
-      "currentVersionReleaseDate": "2026-07-11T12:24:35Z",
-      "primaryGenreName": "Lifestyle",
-      "primaryGenreId": 6012,
-      "releaseNotes": "ウィジェット表示の安定性を改善しました。",
+      "artistId": 1800205675,
+      "artistName": "Kaori Takahashi",
       "trackId": 6757673148,
       "trackName": "Min Habit - シンプルな習慣管理",
+      "genreIds": [
+        "6012",
+        "6007"
+      ],
+      "primaryGenreName": "Lifestyle",
+      "primaryGenreId": 6012,
+      "sellerName": "Kaori Takahashi",
+      "currentVersionReleaseDate": "2026-07-11T12:24:35Z",
+      "releaseNotes": "ウィジェット表示の安定性を改善しました。",
       "version": "1.2.7",
       "wrapperType": "software",
       "currency": "JPY",
       "description": "■Min Habit は、毎日を少しずつ整える習慣管理アプリ\n\n・シンプルな習慣管理\n習慣を登録して、毎日チェックするだけ\n複雑な設定は一切不要\n\n・週・月で振り返り\n続けた日が一目でわかる\n小さな積み重ねを実感できます\n\n・自分にやさしい設計\n続かなかった日も責めない\n無理なく続くデザインと操作感\n\n■こんな人におすすめ\n・三日坊主になりがちな人\n・習慣化アプリが続かなかった人\n・シンプルで静かなアプリが好きな人\n・毎日を少しずつ良くしたい人\n\n\n利用規約：https://lead-cayenne-7c2.notion.site/Min-Habit-2ec6ed4e15a480a5b66cc6b1d56fd028?source=copy_link",
+      "trackCensoredName": "Min Habit - シンプルな習慣管理",
+      "trackViewUrl": "https://apps.apple.com/jp/app/min-habit-%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AA%E7%BF%92%E6%85%A3%E7%AE%A1%E7%90%86/id6757673148?uo=4",
+      "bundleId": "com.nanoka.minHabit",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.49275,
       "languageCodesISO2A": [
         "EN"
       ],
@@ -364,12 +364,12 @@
       "formattedPrice": "¥300",
       "userRatingCountForCurrentVersion": 69,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.49275,
       "sellerUrl": "https://takaori-o.github.io/",
-      "genreIds": [
-        "6012",
-        "6007"
-      ],
+      "averageUserRatingForCurrentVersion": 4.49275,
+      "minimumOsVersion": "17.0",
+      "releaseDate": "2026-01-20T08:00:00Z",
+      "price": 300,
+      "isVppDeviceBasedLicensingEnabled": true,
       "userRatingCount": 69,
       "country": "JPN"
     }

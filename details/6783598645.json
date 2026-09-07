@@ -11,8 +11,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7a/5d/69/7a5d695e-0932-b06d-f463-218d403b96c8/iphone-6.9-06-offline.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/27/9a/91279a7e-2a7d-eda1-3160-ee9d8a9aed61/iphone-6.9-07-exam-date.png/320x480bb.jpg"
       ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/d5/01/46d501a9-742f-886c-8ca5-1c31999b7bb3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d8/be/4a/d8be4af4-28e8-776d-2e2b-fbe34c75b266/ipad-13-01-home.png/360x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/94/24/a6/9424a696-4621-dc63-30df-8cdba42bbd46/ipad-13-02-card.png/360x480bb.jpg",
@@ -22,6 +20,8 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/12/ee/14/12ee14f6-e882-e583-3fac-6c998294c0d8/ipad-13-06-offline.png/360x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8f/e2/80/8fe28028-39d2-6f28-662a-485cbfb26be1/ipad-13-07-exam-date.png/360x480bb.jpg"
       ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/d5/01/46d501a9-742f-886c-8ca5-1c31999b7bb3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "isGameCenterEnabled": false,
       "artistViewUrl": "https://apps.apple.com/jp/developer/motohiro-fujita/id1817435117?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/d5/01/46d501a9-742f-886c-8ca5-1c31999b7bb3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
@@ -29,6 +29,8 @@
       "features": [
         "iosUniversal"
       ],
+      "advisories": [],
+      "kind": "software",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -158,48 +160,46 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "advisories": [],
-      "kind": "software",
-      "averageUserRatingForCurrentVersion": 4.44444,
+      "fileSizeBytes": "23098368",
+      "formattedPrice": "¥980",
+      "userRatingCountForCurrentVersion": 12,
+      "trackContentRating": "4+",
+      "sellerUrl": "https://fujicert.jp/ai-passport/app",
       "languageCodesISO2A": [
         "EN"
       ],
-      "fileSizeBytes": "23098368",
-      "formattedPrice": "¥980",
-      "userRatingCountForCurrentVersion": 9,
-      "trackContentRating": "4+",
-      "sellerUrl": "https://fujicert.jp/ai-passport/app",
-      "averageUserRating": 4.44444,
+      "averageUserRatingForCurrentVersion": 4.58333,
+      "releaseNotes": "・2026年最新シラバス対応語を追加し、収録用語数を153語に拡充(GPT-5・Operator・Codexなど)\n・カード裏の表示を見直し、詳しい試験ポイントは必要なときだけ開けるようにしました\n・復習間隔の判定精度を改善し、苦手な用語がより適切なタイミングで出題されるようにしました\n・試験直前まで通知が届き続けるよう、リマインダー機能を改善\n・日をまたいでアプリを開いた際に、学習内容が正しく更新されない場合がある不具合を修正",
       "trackCensoredName": "生成AIパスポート試験対応 用語暗記カード｜FujiCert",
+      "averageUserRating": 4.58333,
       "trackViewUrl": "https://apps.apple.com/jp/app/%E7%94%9F%E6%88%90ai%E3%83%91%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%88%E8%A9%A6%E9%A8%93%E5%AF%BE%E5%BF%9C-%E7%94%A8%E8%AA%9E%E6%9A%97%E8%A8%98%E3%82%AB%E3%83%BC%E3%83%89-fujicert/id6783598645?uo=4",
       "contentAdvisoryRating": "4+",
-      "artistId": 1817435117,
-      "artistName": "Motohiro Fujita",
+      "minimumOsVersion": "15.1",
       "genres": [
         "教育",
         "開発ツール"
       ],
+      "artistName": "Motohiro Fujita",
       "price": 980,
-      "bundleId": "jp.fujicert.aipassportcards",
-      "trackId": 6783598645,
-      "trackName": "生成AIパスポート試験対応 用語暗記カード｜FujiCert",
-      "isVppDeviceBasedLicensingEnabled": true,
       "sellerName": "Motohiro Fujita",
-      "primaryGenreName": "Education",
-      "primaryGenreId": 6017,
-      "releaseDate": "2026-06-26T07:00:00Z",
       "genreIds": [
         "6017",
         "6026"
       ],
+      "primaryGenreName": "Education",
+      "primaryGenreId": 6017,
       "currentVersionReleaseDate": "2026-07-04T07:52:56Z",
-      "releaseNotes": "・2026年最新シラバス対応語を追加し、収録用語数を153語に拡充(GPT-5・Operator・Codexなど)\n・カード裏の表示を見直し、詳しい試験ポイントは必要なときだけ開けるようにしました\n・復習間隔の判定精度を改善し、苦手な用語がより適切なタイミングで出題されるようにしました\n・試験直前まで通知が届き続けるよう、リマインダー機能を改善\n・日をまたいでアプリを開いた際に、学習内容が正しく更新されない場合がある不具合を修正",
+      "releaseDate": "2026-06-26T07:00:00Z",
+      "isVppDeviceBasedLicensingEnabled": true,
       "version": "1.1",
       "wrapperType": "software",
       "currency": "JPY",
       "description": "すきま時間に10語ずつ。\n2026年新シラバス対応の頻出153語を、すきま時間の10語から試験直前の追い込みまで、短い単位で反復できます。\n\n問題演習に入る前に基礎用語を固めたい人、移動中に数分だけ確認したい人、苦手な用語だけ見直したい人向けに、カード学習・用語検索・10問テストをまとめました。\n\nできること\n- 生成AIパスポートの主要153用語をカードで確認\n- 2026年新シラバス対応語（GPT-5・Operator・Codex など）を収録\n- 1回10語ずつの学習\n- 「もう一度・迷う・覚えた」の3段階で仕分け\n- 答えは要点1文、試験ポイントは折りたたみで深掘り\n- 間違えた用語は、その場でチェックポイントを見直し\n- 迷った用語を優先して見直し\n- 用語検索\n- 説明から用語を選ぶ10問テスト\n- 広告なし、ログインなし、オフラインで利用可能\n\n本アプリのカードは、試験範囲に基づくFujiCert独自の学習教材です。公式問題または実試験問題ではありません。\n\n「生成AIパスポート」は一般社団法人生成AI活用普及協会（GUGA）の登録商標です。本アプリは同団体の公式アプリではありません。",
-      "minimumOsVersion": "15.1",
-      "userRatingCount": 9,
+      "trackName": "生成AIパスポート試験対応 用語暗記カード｜FujiCert",
+      "trackId": 6783598645,
+      "bundleId": "jp.fujicert.aipassportcards",
+      "artistId": 1817435117,
+      "userRatingCount": 12,
       "country": "JPN"
     }
   ]

@@ -216,14 +216,14 @@
       "userRatingCount": 544
     },
     {
-      "artistViewUrl": "https://apps.apple.com/us/developer/netflix-inc/id363590054?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/5a/8d/2e5a8d87-29b5-e2b2-90d6-d8ec48bfd116/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/5a/8d/2e5a8d87-29b5-e2b2-90d6-d8ec48bfd116/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
-      "isGameCenterEnabled": true,
-      "features": [
-        "gameCenter",
-        "iosUniversal"
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1a/91/d0/1a91d0a1-4a8f-c476-65c8-10b8aa5a8e03/ipad_01_PlayGamesOvercooked.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0a/b5/11/0ab51122-3725-5911-3a96-66eba8ee22a8/ipad_02_OneController.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/05/7f/86/057f86db-68ec-69d1-113e-cac0c83f5870/ipad_03_PlayTogetherLego.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a4/14/57/a414576a-7694-4635-1f3f-2f3cff176175/ipad_04_IncludedWithMembership.jpg/360x480bb.jpg"
       ],
+      "appletvScreenshotUrls": [],
+      "isGameCenterEnabled": true,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -355,49 +355,49 @@
       ],
       "advisories": [],
       "kind": "software",
+      "features": [
+        "gameCenter",
+        "iosUniversal"
+      ],
+      "artistViewUrl": "https://apps.apple.com/us/developer/netflix-inc/id363590054?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/5a/8d/2e5a8d87-29b5-e2b2-90d6-d8ec48bfd116/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/5a/8d/2e5a8d87-29b5-e2b2-90d6-d8ec48bfd116/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/5a/8d/2e5a8d87-29b5-e2b2-90d6-d8ec48bfd116/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ed/ba/89/edba89fc-1b6f-f625-918a-df46c9a610dc/01_PlayGamesOvercooked.jpg/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/30/75/40/3075405e-8898-2e2d-682d-0f81e1d4e144/02_OneController.jpg/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/10/9c/e0/109ce08c-9b9b-ef2b-bee7-cbc248bd0942/03_PlayTogetherLego.jpg/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/67/63/11/676311ea-61c5-36d2-1e78-a7fae691680a/04_IncludedWithMembership.jpg/320x480bb.jpg"
       ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1a/91/d0/1a91d0a1-4a8f-c476-65c8-10b8aa5a8e03/ipad_01_PlayGamesOvercooked.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0a/b5/11/0ab51122-3725-5911-3a96-66eba8ee22a8/ipad_02_OneController.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/05/7f/86/057f86db-68ec-69d1-113e-cac0c83f5870/ipad_03_PlayTogetherLego.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a4/14/57/a414576a-7694-4635-1f3f-2f3cff176175/ipad_04_IncludedWithMembership.jpg/360x480bb.jpg"
-      ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/5a/8d/2e5a8d87-29b5-e2b2-90d6-d8ec48bfd116/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
-      "averageUserRating": 4.65162,
-      "contentAdvisoryRating": "4+",
       "releaseNotes": "We've squashed bugs and made behind-the-scenes improvements to bring Netflix members the best possible gameplay experience.",
-      "trackCensoredName": "Netflix Game Controller",
-      "trackViewUrl": "https://apps.apple.com/us/app/netflix-game-controller/id6447582581?uo=4",
-      "fileSizeBytes": "97703936",
-      "minimumOsVersion": "17.0",
-      "formattedPrice": "Free",
+      "artistId": 363590054,
+      "artistName": "Netflix, Inc.",
       "genres": [
         "Entertainment",
         "Games"
       ],
+      "price": 0,
       "bundleId": "com.netflix.ssicapp",
+      "sellerName": "Netflix, Inc.",
       "releaseDate": "2023-08-07T07:00:00Z",
+      "trackId": 6447582581,
+      "trackName": "Netflix Game Controller",
       "genreIds": [
         "6016",
         "6014"
       ],
-      "trackId": 6447582581,
-      "trackName": "Netflix Game Controller",
       "primaryGenreName": "Entertainment",
       "primaryGenreId": 6016,
-      "sellerName": "Netflix, Inc.",
       "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-08-25T13:07:07Z",
       "version": "3.14",
       "wrapperType": "software",
       "currency": "USD",
       "description": "It's game time! Play games instantly on Netflix with the Netflix Game Controller. No gadgets or gizmos needed: Once you install this mobile app, you can use your phone or tablet as a controller to play games on TV, or through your computer browser by visiting Netflix.com. Swipe, tap, type, draw and steer right from your phone.\n\nOnce you're set up, the party starts. Plan a group game night to enjoy multiplayer party games with friends and family, or dive into brain-teasing puzzle games and solo adventures. Whether you're relaxing on the couch or taking a break at your desk (we won't tell your boss), you'll have a whole world of games at your fingertips.\n\nLet the fun begin! A few games to try on your TV or computer today:\n\nOVERCOOKED! ALL YOU CAN EAT\nTeam up with friends as you rush to slice, stir and serve your way through an endless stream of orders. Can you keep your cool in the kitchen?\n\nPICTIONARY: GAME NIGHT\nDraw 'til you drop — or one of your friends guesses what you're sketching — in this hilarious and fast-paced spin on the classic group game.\n\nLEGO PARTY!\nPlay minigames and hunt for gold together through Challenge Zones in this BAFTA award-winning family game. Dodge dragons and flying roast turkeys!\n\nBOGGLE PARTY\nRace against the clock to find words (the longer, the better) in a jumbled-up letter grid. Play daily puzzles solo or party with up to eight players.\n\nGames are included in your Netflix membership, with no ads or extra fees. The Netflix Game Controller app is compatible across most mobile and tablet devices.",
+      "trackViewUrl": "https://apps.apple.com/us/app/netflix-game-controller/id6447582581?uo=4",
+      "averageUserRating": 4.65003,
+      "minimumOsVersion": "17.0",
+      "trackCensoredName": "Netflix Game Controller",
       "languageCodesISO2A": [
         "AR",
         "HR",
@@ -431,40 +431,24 @@
         "UK",
         "VI"
       ],
-      "averageUserRatingForCurrentVersion": 4.65162,
-      "userRatingCountForCurrentVersion": 193335,
+      "fileSizeBytes": "97703936",
+      "formattedPrice": "Free",
+      "contentAdvisoryRating": "4+",
+      "userRatingCountForCurrentVersion": 199241,
       "trackContentRating": "4+",
-      "price": 0,
-      "artistId": 363590054,
-      "artistName": "Netflix, Inc.",
-      "userRatingCount": 193335,
+      "averageUserRatingForCurrentVersion": 4.65003,
+      "userRatingCount": 199241,
       "country": "USA"
     },
     {
       "isGameCenterEnabled": true,
+      "artistViewUrl": "https://apps.apple.com/de/developer/netflix-inc/id363590054?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/5a/8d/2e5a8d87-29b5-e2b2-90d6-d8ec48bfd116/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/5a/8d/2e5a8d87-29b5-e2b2-90d6-d8ec48bfd116/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
       "features": [
         "gameCenter",
         "iosUniversal"
       ],
-      "kind": "software",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6d/eb/32/6deb3227-a76a-9aa6-c43e-82aef3e1b482/01_PlayGamesOvercooked.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/65/56/48/65564831-6033-6c56-7eb4-620f36a7b15b/02_OneController.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7a/13/2d/7a132d3b-c0d4-0d4f-0511-1a20fe43bdac/03_PlayTogetherLego.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/06/e7/5d/06e75dda-ab1e-9e5c-b38e-5e792a4da2e5/04_IncludedWithMembership.jpg/320x480bb.jpg"
-      ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c1/85/cf/c185cf94-d00b-cc4a-d9cb-760a6d1ce58f/ipad_01_PlayGamesOvercooked.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e3/7e/6a/e37e6a16-0642-51aa-07e3-0bd0d583b5d8/ipad_02_OneController.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0b/9f/67/0b9f6746-8bf2-6a46-bc06-abfd71cf79b8/ipad_03_PlayTogetherLego.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5f/40/63/5f406346-5c4e-1782-e5fd-168ff1a68795/ipad_04_IncludedWithMembership.jpg/360x480bb.jpg"
-      ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/5a/8d/2e5a8d87-29b5-e2b2-90d6-d8ec48bfd116/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/5a/8d/2e5a8d87-29b5-e2b2-90d6-d8ec48bfd116/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/5a/8d/2e5a8d87-29b5-e2b2-90d6-d8ec48bfd116/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/de/developer/netflix-inc/id363590054?uo=4",
-      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -594,24 +578,51 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "artistId": 363590054,
-      "artistName": "Netflix, Inc.",
+      "advisories": [],
+      "kind": "software",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6d/eb/32/6deb3227-a76a-9aa6-c43e-82aef3e1b482/01_PlayGamesOvercooked.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/65/56/48/65564831-6033-6c56-7eb4-620f36a7b15b/02_OneController.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7a/13/2d/7a132d3b-c0d4-0d4f-0511-1a20fe43bdac/03_PlayTogetherLego.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/06/e7/5d/06e75dda-ab1e-9e5c-b38e-5e792a4da2e5/04_IncludedWithMembership.jpg/320x480bb.jpg"
+      ],
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c1/85/cf/c185cf94-d00b-cc4a-d9cb-760a6d1ce58f/ipad_01_PlayGamesOvercooked.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e3/7e/6a/e37e6a16-0642-51aa-07e3-0bd0d583b5d8/ipad_02_OneController.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0b/9f/67/0b9f6746-8bf2-6a46-bc06-abfd71cf79b8/ipad_03_PlayTogetherLego.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5f/40/63/5f406346-5c4e-1782-e5fd-168ff1a68795/ipad_04_IncludedWithMembership.jpg/360x480bb.jpg"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/5a/8d/2e5a8d87-29b5-e2b2-90d6-d8ec48bfd116/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "trackCensoredName": "Netflix Game Controller",
+      "trackViewUrl": "https://apps.apple.com/de/app/netflix-game-controller/id6447582581?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.13141,
       "genres": [
         "Unterhaltung",
         "Spiele"
       ],
-      "isVppDeviceBasedLicensingEnabled": true,
+      "artistId": 363590054,
+      "artistName": "Netflix, Inc.",
+      "price": 0,
       "bundleId": "com.netflix.ssicapp",
+      "primaryGenreName": "Entertainment",
+      "primaryGenreId": 6016,
+      "sellerName": "Netflix, Inc.",
+      "genreIds": [
+        "6016",
+        "6014"
+      ],
       "releaseDate": "2023-08-07T07:00:00Z",
+      "trackId": 6447582581,
+      "trackName": "Netflix Game Controller",
+      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-08-25T13:07:07Z",
-      "releaseNotes": "Wir haben Fehler behoben und Verbesserungen hinter den Kulissen vorgenommen, um Netflix-Mitgliedern das bestmögliche Spielerlebnis zu bieten.",
       "version": "3.14",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Spiele Spiele auf deinem Fernseher oder Computerbrowser mit dem Netflix-Gamecontroller.\n\nMit dieser App kannst du Spiele auf Netflix spielen, indem du dein Handy oder Mobilgerät als Gamecontroller verwendest. Die Netflix-Gamecontroller-App ist für alle verfügbar.\n\nNetflix Games befindet sich in der Beta-Phase und je nach Gerätetyp wird dein Fernseher oder Browser möglicherweise derzeit nicht unterstützt.\n\nLass die Spiele beginnen!",
-      "averageUserRatingForCurrentVersion": 4.12742,
-      "averageUserRating": 4.12742,
-      "trackCensoredName": "Netflix Game Controller",
+      "averageUserRatingForCurrentVersion": 4.13141,
       "languageCodesISO2A": [
         "AR",
         "HR",
@@ -647,47 +658,18 @@
       ],
       "fileSizeBytes": "97703936",
       "formattedPrice": "Gratis",
-      "contentAdvisoryRating": "4+",
-      "userRatingCountForCurrentVersion": 620,
-      "trackViewUrl": "https://apps.apple.com/de/app/netflix-game-controller/id6447582581?uo=4",
+      "userRatingCountForCurrentVersion": 624,
       "trackContentRating": "4+",
       "minimumOsVersion": "17.0",
-      "sellerName": "Netflix, Inc.",
-      "genreIds": [
-        "6016",
-        "6014"
-      ],
-      "primaryGenreName": "Entertainment",
-      "primaryGenreId": 6016,
-      "trackName": "Netflix Game Controller",
-      "trackId": 6447582581,
-      "price": 0,
-      "userRatingCount": 620,
+      "releaseNotes": "Wir haben Fehler behoben und Verbesserungen hinter den Kulissen vorgenommen, um Netflix-Mitgliedern das bestmögliche Spielerlebnis zu bieten.",
+      "userRatingCount": 624,
       "country": "DEU"
     },
     {
       "artistViewUrl": "https://apps.apple.com/fr/developer/netflix-inc/id363590054?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/5a/8d/2e5a8d87-29b5-e2b2-90d6-d8ec48bfd116/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/5a/8d/2e5a8d87-29b5-e2b2-90d6-d8ec48bfd116/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e5/8b/a0/e58ba0b0-a2b7-74ed-bf9f-336724a4c649/01_PlayGamesOvercooked.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c9/e3/74/c9e3741b-cefd-35ba-2a06-cda2955bccb1/02_OneController.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2d/fc/28/2dfc289d-57a9-1831-1d78-874b9fe96ea2/03_PlayTogetherLego.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c5/94/f5/c594f543-796d-9e21-4b66-979011ee22b0/04_IncludedWithMembership.jpg/320x480bb.jpg"
-      ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ac/07/b9/ac07b9c2-2c03-f5eb-4d87-fd053298bcbe/ipad_01_PlayGamesOvercooked.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7c/ef/7b/7cef7b8d-3566-90e8-5fb2-754f4d3ea389/ipad_02_OneController.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/de/3a/b8/de3ab8eb-f683-8fb7-206f-b452ce75618f/ipad_03_PlayTogetherLego.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/de/61/ce/de61ce1c-9f43-a23e-604e-fda62cc15793/ipad_04_IncludedWithMembership.jpg/360x480bb.jpg"
-      ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/5a/8d/2e5a8d87-29b5-e2b2-90d6-d8ec48bfd116/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
       "isGameCenterEnabled": true,
-      "features": [
-        "gameCenter",
-        "iosUniversal"
-      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -819,13 +801,50 @@
       ],
       "advisories": [],
       "kind": "software",
-      "bundleId": "com.netflix.ssicapp",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.41374,
-      "formattedPrice": "Gratuit",
-      "fileSizeBytes": "97703936",
+      "features": [
+        "gameCenter",
+        "iosUniversal"
+      ],
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e5/8b/a0/e58ba0b0-a2b7-74ed-bf9f-336724a4c649/01_PlayGamesOvercooked.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c9/e3/74/c9e3741b-cefd-35ba-2a06-cda2955bccb1/02_OneController.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2d/fc/28/2dfc289d-57a9-1831-1d78-874b9fe96ea2/03_PlayTogetherLego.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c5/94/f5/c594f543-796d-9e21-4b66-979011ee22b0/04_IncludedWithMembership.jpg/320x480bb.jpg"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/5a/8d/2e5a8d87-29b5-e2b2-90d6-d8ec48bfd116/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ac/07/b9/ac07b9c2-2c03-f5eb-4d87-fd053298bcbe/ipad_01_PlayGamesOvercooked.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7c/ef/7b/7cef7b8d-3566-90e8-5fb2-754f4d3ea389/ipad_02_OneController.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/de/3a/b8/de3ab8eb-f683-8fb7-206f-b452ce75618f/ipad_03_PlayTogetherLego.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/de/61/ce/de61ce1c-9f43-a23e-604e-fda62cc15793/ipad_04_IncludedWithMembership.jpg/360x480bb.jpg"
+      ],
       "trackCensoredName": "Netflix Game Controller",
       "trackViewUrl": "https://apps.apple.com/fr/app/netflix-game-controller/id6447582581?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.41329,
+      "genres": [
+        "Divertissement",
+        "Jeux"
+      ],
+      "price": 0,
+      "bundleId": "com.netflix.ssicapp",
+      "genreIds": [
+        "6016",
+        "6014"
+      ],
+      "sellerName": "Netflix, Inc.",
+      "primaryGenreName": "Entertainment",
+      "primaryGenreId": 6016,
+      "releaseDate": "2023-08-07T07:00:00Z",
+      "trackId": 6447582581,
+      "trackName": "Netflix Game Controller",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-08-25T13:07:07Z",
+      "version": "3.14",
+      "wrapperType": "software",
+      "currency": "EUR",
+      "description": "Jouez sur votre téléviseur ou navigateur avec la Manette de jeu Netflix.\n\nCette application vous permet de jouer aux jeux Netflix en utilisant votre téléphone ou appareil mobile comme manette de jeu. L'application Manette de jeu Netflix est accessible à tous.\n\nNetflix Games est en version bêta et selon votre type d'appareil, votre téléviseur ou navigateur peut ne pas être pris en charge pour le moment.\n\nQue les jeux commencent !",
       "languageCodesISO2A": [
         "AR",
         "HR",
@@ -859,39 +878,19 @@
         "UK",
         "VI"
       ],
-      "userRatingCountForCurrentVersion": 684,
+      "fileSizeBytes": "97703936",
+      "formattedPrice": "Gratuit",
+      "userRatingCountForCurrentVersion": 692,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.41374,
-      "price": 0,
+      "averageUserRatingForCurrentVersion": 4.41329,
+      "minimumOsVersion": "17.0",
+      "releaseNotes": "Nous avons corrigé des bugs et apporté des améliorations en coulisses pour offrir aux membres Netflix la meilleure expérience de jeu possible.",
       "artistId": 363590054,
       "artistName": "Netflix, Inc.",
-      "releaseNotes": "Nous avons corrigé des bugs et apporté des améliorations en coulisses pour offrir aux membres Netflix la meilleure expérience de jeu possible.",
-      "releaseDate": "2023-08-07T07:00:00Z",
-      "genreIds": [
-        "6016",
-        "6014"
-      ],
-      "primaryGenreName": "Entertainment",
-      "primaryGenreId": 6016,
-      "sellerName": "Netflix, Inc.",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "version": "3.14",
-      "wrapperType": "software",
-      "currency": "EUR",
-      "description": "Jouez sur votre téléviseur ou navigateur avec la Manette de jeu Netflix.\n\nCette application vous permet de jouer aux jeux Netflix en utilisant votre téléphone ou appareil mobile comme manette de jeu. L'application Manette de jeu Netflix est accessible à tous.\n\nNetflix Games est en version bêta et selon votre type d'appareil, votre téléviseur ou navigateur peut ne pas être pris en charge pour le moment.\n\nQue les jeux commencent !",
-      "minimumOsVersion": "17.0",
-      "trackId": 6447582581,
-      "trackName": "Netflix Game Controller",
-      "currentVersionReleaseDate": "2026-08-25T13:07:07Z",
-      "genres": [
-        "Divertissement",
-        "Jeux"
-      ],
-      "userRatingCount": 684,
+      "userRatingCount": 692,
       "country": "FRA"
     },
     {
-      "isGameCenterEnabled": true,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ed/ba/89/edba89fc-1b6f-f625-918a-df46c9a610dc/01_PlayGamesOvercooked.jpg/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/30/75/40/3075405e-8898-2e2d-682d-0f81e1d4e144/02_OneController.jpg/320x480bb.jpg",
@@ -906,6 +905,11 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/5a/8d/2e5a8d87-29b5-e2b2-90d6-d8ec48bfd116/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "features": [
+        "gameCenter",
+        "iosUniversal"
+      ],
+      "isGameCenterEnabled": true,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -1037,14 +1041,10 @@
       ],
       "advisories": [],
       "kind": "software",
-      "features": [
-        "gameCenter",
-        "iosUniversal"
-      ],
       "artistViewUrl": "https://apps.apple.com/gb/developer/netflix-inc/id363590054?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/5a/8d/2e5a8d87-29b5-e2b2-90d6-d8ec48bfd116/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/5a/8d/2e5a8d87-29b5-e2b2-90d6-d8ec48bfd116/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
-      "averageUserRatingForCurrentVersion": 4.38713,
+      "averageUserRatingForCurrentVersion": 4.38737,
       "languageCodesISO2A": [
         "AR",
         "HR",
@@ -1080,39 +1080,39 @@
       ],
       "fileSizeBytes": "97703936",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 2224,
+      "userRatingCountForCurrentVersion": 2233,
       "trackContentRating": "4+",
+      "artistId": 363590054,
+      "artistName": "Netflix, Inc.",
       "genres": [
         "Entertainment",
         "Games"
       ],
-      "artistId": 363590054,
-      "artistName": "Netflix, Inc.",
-      "price": 0,
-      "releaseNotes": "We've squashed bugs and made behind-the-scenes improvements to bring Netflix members the best possible gameplay experience.",
+      "bundleId": "com.netflix.ssicapp",
+      "trackId": 6447582581,
+      "trackName": "Netflix Game Controller",
       "primaryGenreName": "Entertainment",
       "primaryGenreId": 6016,
-      "genreIds": [
-        "6016",
-        "6014"
-      ],
       "sellerName": "Netflix, Inc.",
       "releaseDate": "2023-08-07T07:00:00Z",
-      "currentVersionReleaseDate": "2026-08-25T13:07:07Z",
       "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-08-25T13:07:07Z",
+      "releaseNotes": "We've squashed bugs and made behind-the-scenes improvements to bring Netflix members the best possible gameplay experience.",
       "version": "3.14",
       "wrapperType": "software",
       "currency": "GBP",
       "description": "Play games on your TV or computer browser with the Netflix Game Controller. \n\nThis app allows you to play games on Netflix using your phone or mobile device as a game controller. The Netflix Game Controller app is available to everyone.\n\nNetflix Games is in beta and depending on your device type, your TV or browser may not be supported at this time.\n \nLet the games begin!",
-      "minimumOsVersion": "17.0",
-      "averageUserRating": 4.38713,
-      "bundleId": "com.netflix.ssicapp",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.38737,
       "trackCensoredName": "Netflix Game Controller",
       "trackViewUrl": "https://apps.apple.com/gb/app/netflix-game-controller/id6447582581?uo=4",
-      "contentAdvisoryRating": "4+",
-      "trackName": "Netflix Game Controller",
-      "trackId": 6447582581,
-      "userRatingCount": 2224,
+      "minimumOsVersion": "17.0",
+      "genreIds": [
+        "6016",
+        "6014"
+      ],
+      "price": 0,
+      "userRatingCount": 2233,
       "country": "GBR"
     }
   ]

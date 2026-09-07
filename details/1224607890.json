@@ -2,10 +2,13 @@
   "resultCount": 1,
   "results": [
     {
-      "isGameCenterEnabled": false,
+      "artistViewUrl": "https://apps.apple.com/de/developer/sudwestrundfunk-anstalt-des-offentlichen-rechts/id610313722?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/e2/a2/14e2a254-1f22-4648-c326-da53518d0dbc/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/e2/a2/14e2a254-1f22-4648-c326-da53518d0dbc/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
       "features": [
         "iosUniversal"
       ],
+      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -135,10 +138,16 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
+      "advisories": [
+        "Selten/schwach ausgeprägt: Szenen mit erotischen Anspielungen",
+        "Selten/schwach ausgeprägt: Zeichentrick- oder Fantasy-Gewalt",
+        "Selten/schwach ausgeprägt: Gebrauch von Alkohol, Tabak oder Drogen bzw. Verweise hierzu",
+        "Selten/schwach ausgeprägt: obszöner oder vulgärer Humor",
+        "Selten/schwach ausgeprägt: sexuelle Inhalte oder Nacktheit",
+        "Selten/schwach ausgeprägt: realistisch dargestellte Gewalt",
+        "Selten/schwach ausgeprägt: Horror-/Gruselszenen"
+      ],
       "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/de/developer/sudwestrundfunk-anstalt-des-offentlichen-rechts/id610313722?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/15/5f/49155fcf-72f0-f8e7-89bc-3acdd2f0a5f1/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/15/5f/49155fcf-72f0-f8e7-89bc-3acdd2f0a5f1/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f0/83/01/f08301b6-9c3a-a01f-68e7-53aeb59da527/Screenshot_01.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f3/43/c5/f343c54d-68c0-0374-a0fe-e27d83126fd9/Screenshot_02.png/320x480bb.jpg",
@@ -160,56 +169,47 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e1/12/55/e1125555-285a-7d7d-7562-2779a0b617b4/Screenshot_08.png/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/15/5f/49155fcf-72f0-f8e7-89bc-3acdd2f0a5f1/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
-      "advisories": [
-        "Selten/schwach ausgeprägt: Zeichentrick- oder Fantasy-Gewalt",
-        "Selten/schwach ausgeprägt: Gebrauch von Alkohol, Tabak oder Drogen bzw. Verweise hierzu",
-        "Selten/schwach ausgeprägt: obszöner oder vulgärer Humor",
-        "Selten/schwach ausgeprägt: sexuelle Inhalte oder Nacktheit",
-        "Selten/schwach ausgeprägt: Szenen mit erotischen Anspielungen",
-        "Selten/schwach ausgeprägt: realistisch dargestellte Gewalt",
-        "Selten/schwach ausgeprägt: Horror-/Gruselszenen"
-      ],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/e2/a2/14e2a254-1f22-4648-c326-da53518d0dbc/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "trackCensoredName": "ARD Sounds",
+      "trackViewUrl": "https://apps.apple.com/de/app/ard-sounds/id1224607890?uo=4",
+      "contentAdvisoryRating": "12+",
+      "averageUserRating": 4.60523,
+      "releaseNotes": "Eine Ursache für das gelegentliche Einfrieren der App wurde gefunden und mit diesem Update behoben.",
       "artistId": 610313722,
       "artistName": "Sudwestrundfunk, Anstalt des offentlichen Rechts",
+      "genres": [
+        "Unterhaltung",
+        "Musik"
+      ],
       "price": 0,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-08-31T09:31:45Z",
+      "bundleId": "de.ard.audiothek",
+      "trackId": 1224607890,
+      "trackName": "ARD Sounds",
+      "releaseDate": "2017-10-13T11:25:22Z",
+      "genreIds": [
+        "6016",
+        "6011"
+      ],
       "primaryGenreName": "Entertainment",
       "primaryGenreId": 6016,
-      "trackName": "ARD Sounds",
-      "trackId": 1224607890,
-      "releaseNotes": "In diesem Update haben wir vor allem unter der Haube geschraubt und bekannte Fehler behoben, damit du ARD Sounds zuverlässiger nutzen kannst:\n• Beim Zurücksetzen der App werden jetzt auch deine favorisierten Sender korrekt entfernt.\n• Ein Fehler im Chat wurde behoben, durch den bei der Eingabe von Emojis der Chatbereich teilweise nicht mehr sichtbar war.\n• Probleme beim Hinzufügen von Episoden zu Playlists wurden korrigiert, sodass du deine persönliche Hör-Auswahl wieder wie gewohnt organisieren kannst.\n\nAußerdem haben wir weitere kleinere Bugs gefixt und die Stabilität der App verbessert.",
-      "version": "4.6.0",
+      "sellerName": "Sudwestrundfunk, Anstalt des offentlichen Rechts",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-09-04T07:32:38Z",
+      "version": "4.6.1",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "ARD Sounds. Der Playbutton für deinen Tag. Die kostenlose Podcast App für Deutschland: exklusive ARD Podcasts, spannende Hörspiele, Hörbücher kostenlos, Live-Radio und verlässliche Nachrichten – alles in einer Audio-App. Für unterwegs, zu Hause oder auf Reisen. Hier bist du verbunden mit den Stimmen, die du liebst – aus deiner Region und aus der ganzen ARD-Welt und dem Deutschlandradio.\nEntdecke eine neue Art des Hörens: emotional, informativ, inspirierend. Ob Krimi für die Autofahrt, True-Crime-Podcast, Fußball-Live-Reportage oder Kinderpodcast zum Einschlafen – die ARD Sounds App bringt dir Audio auf höchstem Niveau, wann und wo du willst.\n\nDeine kostenlose Podcast & Radio App\n• Podcasts auf Deutsch: Politik, Kultur, Wissen, True Crime, Dokus, Comedy, Sport und mehr – alle wichtigen ARD Podcasts in einer App.\n• Hörbücher & Hörspiele: Fantasy, Klassiker, Romane und Kinderhörspiele – viele Inhalte kannst du kostenlos streamen und zum später Hören merken.\n• Live Radio: Höre deine Lieblingssender wie NDR 1 Niedersachsen, WDR 2, SWR3, BR-Programme oder Deutschlandradio jederzeit live – Digitalradio in bester Qualität.\n• Nachrichten & Live-Sport: Von NDR Info über BR24 bis zu großen Sportereignissen – bleib mit aktuellen News, Hintergründen und Reportagen immer auf dem Laufenden.\n\nMehr Komfort beim Podcast Hören\n• Podcasts offline hören: Lade Folgen herunter und nutze die App als Podcast Player – perfekt für Bahn, Flugzeug oder unterwegs ohne Empfang.\n• Eigene Playlists & Merkliste: Erstelle persönliche Playlists mit deinen liebsten Podcasts, Hörbüchern und Radiosendungen.\n• Weiterhören auf allen Geräten: Mit deinem ARD-Konto synchronisierst du Favoriten und Verlauf zwischen Smartphone, Web und anderen Geräten.\n• Intuitive Bedienung: Finde schnell neue Podcasts kostenlos auf Deutsch – nach Thema, Sender oder Stimmung.\n\nRadio & Podcasts in einer App\n\nARD Sounds bündelt das Beste aus Podcast, Hörspiel, Hörbuch und Radio: die Programme von BR, HR, MDR, NDR, RBB, Radio Bremen, SR, SWR, WDR und dem Deutschlandradio in einer modernen Radio App.\n\nFür alle, die Audio lieben\nARD Sounds ist deine App für Podcasts, Hörbücher, Hörspiele, Live-Radio, Nachrichten und Wissen – mit Tiefe, Herz und Haltung. Für alle, die Qualität schätzen. Für alle, die gern hören. Für alle, die verbunden bleiben wollen – mit den Stimmen, die sie lieben. Jetzt kostenlos herunterladen und eintauchen.",
-      "trackCensoredName": "ARD Sounds",
-      "trackViewUrl": "https://apps.apple.com/de/app/ard-sounds/id1224607890?uo=4",
-      "averageUserRating": 4.60754,
+      "averageUserRatingForCurrentVersion": 4.60523,
       "languageCodesISO2A": [
         "EN",
         "DE"
       ],
       "fileSizeBytes": "238684160",
       "formattedPrice": "Gratis",
-      "userRatingCountForCurrentVersion": 58080,
+      "userRatingCountForCurrentVersion": 58444,
       "trackContentRating": "12+",
-      "contentAdvisoryRating": "12+",
-      "averageUserRatingForCurrentVersion": 4.60754,
       "minimumOsVersion": "18.0",
-      "releaseDate": "2017-10-13T11:25:22Z",
-      "sellerName": "Sudwestrundfunk, Anstalt des offentlichen Rechts",
-      "genres": [
-        "Unterhaltung",
-        "Musik"
-      ],
-      "genreIds": [
-        "6016",
-        "6011"
-      ],
-      "bundleId": "de.ard.audiothek",
-      "userRatingCount": 58080,
+      "userRatingCount": 58444,
       "country": "DEU"
     }
   ]

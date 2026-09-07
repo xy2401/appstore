@@ -205,6 +205,12 @@
       "userRatingCount": 753
     },
     {
+      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
+      "advisories": [],
+      "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3a/99/ef/3a99ef9f-fb43-3296-cd2d-8142698927c0/5ca731e3-19ca-4bd4-b433-2b4ad3b94647_Simulator_Screenshot_-_iPhone_8_Plus_-_2024-05-02_at_18.20.05.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8a/0a/56/8a0a569f-a312-7b11-4696-a53950c3fa6c/a2e4bac2-ceaa-41c8-a217-b6595cc08ec5_Simulator_Screenshot_-_iPhone_8_Plus_-_2024-05-02_at_18.20.10.png/392x696bb.png",
@@ -228,7 +234,9 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/16/ae/8116ae7f-f0a8-efe1-19f7-38b1a86599ad/AppIcon-1x_U007epad-0-1-85-220-0.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
+      "artistViewUrl": "https://apps.apple.com/jp/developer/atsuko-yoseda/id497317278?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/16/ae/8116ae7f-f0a8-efe1-19f7-38b1a86599ad/AppIcon-1x_U007epad-0-1-85-220-0.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/16/ae/8116ae7f-f0a8-efe1-19f7-38b1a86599ad/AppIcon-1x_U007epad-0-1-85-220-0.png/100x100bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -358,51 +366,43 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "advisories": [],
-      "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/jp/developer/atsuko-yoseda/id497317278?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/16/ae/8116ae7f-f0a8-efe1-19f7-38b1a86599ad/AppIcon-1x_U007epad-0-1-85-220-0.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/16/ae/8116ae7f-f0a8-efe1-19f7-38b1a86599ad/AppIcon-1x_U007epad-0-1-85-220-0.png/100x100bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
-      "averageUserRatingForCurrentVersion": 4.65965,
-      "languageCodesISO2A": [
-        "EN",
-        "JA"
-      ],
-      "fileSizeBytes": "59354112",
-      "formattedPrice": "¥800",
-      "userRatingCountForCurrentVersion": 761,
-      "trackContentRating": "4+",
-      "minimumOsVersion": "13.0",
+      "price": 800,
       "artistId": 497317278,
       "artistName": "Atsuko Yoseda",
       "genres": [
         "教育",
         "ビジネス"
       ],
-      "price": 800,
+      "bundleId": "com.studyapp.pubboki1riron",
       "genreIds": [
         "6017",
         "6000"
       ],
-      "releaseDate": "2012-09-25T22:26:12Z",
       "sellerName": "ATSUKO YOSEDA",
       "primaryGenreName": "Education",
       "primaryGenreId": 6017,
-      "currentVersionReleaseDate": "2025-03-29T09:24:01Z",
       "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2025-03-29T09:24:01Z",
       "releaseNotes": "・iPhone16Pro、iPhone16ProMaxの画面表示に対応\n・iPhoneの種類別に文字のサイズ、リストの幅を調整\n・iPhoneの拡大表示モードの不具合を修正\n・iPadでアイコンが表示されない不具合を修正",
       "version": "5",
       "wrapperType": "software",
       "currency": "JPY",
       "description": "・2024年度版にアップデート！\n・第165回までの出題内容を反映した問題を追加しました！\n・最新の会計基準の改正に対応し、まとめ、解説と解答を修正。\n・収益認識基準などの最新の基準改正に対応した内容を追加。\n・iPhone15Proまでの機種に画面表示を最適化。\n\nえっ、本番と同じ記入式！？\n予測変換が会計用語になっちゃう…でも、それがいい。\n\n日商簿記1級は範囲が広い。\n「計算の学習だけで手いっぱい、理論対策までする時間がない」\n「時間をかけて理論対策のまとめノートを作成したけど、暗記できない」\n「一生懸命基準を読んでいるのに、問題が解けない」\nそんな受験生の声に応えるアプリが登場！\n\n●特徴①　効率的な学習方法〜まずアウトプット、そしてインプット〜\n基準を読んだりまとめノートを作ったりしてもなかなか頭に入ってこない経験はありませんか？\nそれはアウトプット不足から来るものかもしれません。\n\nアプリでの学習方法は…\n\nまず【問題】を見て考える。\n「ふむふむ、この文脈からいうとこういう言葉が入りそうだな、でも基準の文言では何ていうんだったっけ」\n\n次に【解答】を見る。\n「そうそう、包括主義！」\n\nさらに【解説】を読む\n「へぇ、包括主義と包括利益っていう言葉があるんだ。それぞれ違う概念なんだな」\n\n最後に【まとめ】を覚える\n「暗記しやすいようにまとまってる！試験直前にも見直そう」\n\n●特徴②　丁寧な解説\n公認会計士である製作者が、1問1問丁寧に解説を書きました。\n根本的な会計理論の考え方や会計実務の説明を加えることにより、\n理解が促進され、基準の文言の丸暗記というよりは、自然と頭に入ってくるようなツールにしました。\n\n●特徴③　学習に適した機能\n受験生の皆様が、効率的に、効果的に学習できるよう、機能を工夫しました。\n・続きから　前回セーブした問題から解くことができます\n・ミスのみ　自分が間違った問題だけ解くことができます\n・チェックのみ　自分でチェックした問題だけ解くことができます\n・まとめノート　解説についている【まとめ】だけを一覧で見ることができます。試験直前にさっと見直しができます。\n\n●特徴④　スキマ時間に、いつでもどこでも学習できる\n机の前に座っている時は計算練習。\n通勤通学の電車の中、毎日寝る前の10分、アプリを使って理論対策。\n…そんな使い方ができます。\n\n\n■的中情報\nこのアプリに入っていた問題が本試験に出てます。\n範囲が広い会計学の問題を4問中2問を的中しました。\n\n\n■問題について\n過去問を分析し、似た形式で問題を作成しました。\n過去問の出題傾向を分析しました。多く出る論点は問題数を多くしました。\n試験は基準の文言で出題されることが多いので、基準の文言に即した形で問題を作成しました。\n最初は違和感があるかもしれませんが、慣れてください。\n\n\n■制作者 \n書籍：簿記教科書 パブロフ流でみんな合格\nブログ：パブロフ簿記\n\n会計士試験合格後、監査法人を経てプログラミングを始める。簿記の学習に最適な機能と内容を研究。また、簿記1級の受験生へのリサーチを行い、アプリに反映しています。 \n\n日商簿記1級に合格できる受験生が一人でも増えてくださることを心から願っています。",
-      "bundleId": "com.studyapp.pubboki1riron",
-      "averageUserRating": 4.65965,
+      "minimumOsVersion": "13.0",
+      "averageUserRatingForCurrentVersion": 4.65965,
+      "userRatingCountForCurrentVersion": 761,
+      "trackContentRating": "4+",
+      "languageCodesISO2A": [
+        "EN",
+        "JA"
+      ],
+      "fileSizeBytes": "59354112",
+      "formattedPrice": "¥800",
       "trackCensoredName": "パブロフ簿記１級理論",
       "trackViewUrl": "https://apps.apple.com/jp/app/%E3%83%91%E3%83%96%E3%83%AD%E3%83%95%E7%B0%BF%E8%A8%98%EF%BC%91%E7%B4%9A%E7%90%86%E8%AB%96/id562626259?uo=4",
       "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.65965,
+      "releaseDate": "2012-09-25T22:26:12Z",
       "trackId": 562626259,
       "trackName": "パブロフ簿記１級理論",
       "userRatingCount": 761,

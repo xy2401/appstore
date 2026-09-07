@@ -2,12 +2,6 @@
   "resultCount": 1,
   "results": [
     {
-      "artistViewUrl": "https://apps.apple.com/us/developer/gregory-burlingame/id1871946798?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/98/2b/49982be3-a6b3-ed55-ff68-f911e2b081e2/app_icon-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/98/2b/49982be3-a6b3-ed55-ff68-f911e2b081e2/app_icon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/98/2b/49982be3-a6b3-ed55-ff68-f911e2b081e2/app_icon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/68/08/c3/6808c3c1-de1e-0cba-3e3d-059f3e81d3b1/01-dashboard.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/12/05/c2/1205c289-d36b-b609-d195-e87315aa3331/03-carplay.png/320x480bb.jpg",
@@ -25,9 +19,12 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/70/b9/8f/70b98f5e-5fc6-25da-b3bf-8728a1410193/01-dashboard.png/360x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0b/91/57/0b91570e-5fe8-0c1a-1dc3-87bb8f6cab9a/04-inspection-tools.png/360x480bb.jpg"
       ],
-      "features": [
-        "iosUniversal"
-      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/98/2b/49982be3-a6b3-ed55-ff68-f911e2b081e2/app_icon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "isGameCenterEnabled": false,
+      "artistViewUrl": "https://apps.apple.com/us/developer/gregory-burlingame/id1871946798?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/98/2b/49982be3-a6b3-ed55-ff68-f911e2b081e2/app_icon-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/98/2b/49982be3-a6b3-ed55-ff68-f911e2b081e2/app_icon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -157,13 +154,13 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
+      "features": [
+        "iosUniversal"
+      ],
       "advisories": [],
       "kind": "software",
-      "trackViewUrl": "https://apps.apple.com/us/app/ev-dashboard/id6761347502?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.78571,
-      "trackCensoredName": "EV Dashboard",
-      "releaseNotes": "Version 3.0\n\nName and languages\n- The app is now called EV Dashboard, with a new icon\n- Japanese joins as the tenth language\n\nCarPlay, rebuilt\n- Rebuilt from the ground up — the long-standing \"music notes\" bug is gone\n- Full-screen grid grows to 2x8 tiles\n- Split screen(1) gets its own 2x4 layout\n- Customize Tiles — choose which tiles appear and where, in separate Full Screen, Split Screen(1) and Maps layouts\n- Full support for CarPlay's Dashboard — a live charger map beside up to two tiles you choose\n- Help pages for every one of the 20 available tiles, with live preview\n\nNEW: Range and distance\n- View remaining range and recent drive efficiency\n- Trip distance is now measured from GPS and vehicle speed, not read in whole-mile steps\n- Range comes from a long-term average of your efficiency and the energy the battery reports\n\nNEW: Speed tile\n- Your current speed, with the last two minutes drawn behind it\n- White indicates when power was being drawn, green when regenerating\n\nNEW: Dynamic Nearest DC Charger / Arrive time tile\n- At a glance, the distance and location of the nearest DC charger\n- Quick visual of nearby traffic conditions\n\nCompass\n- The compass tile now uses your GPS course rather than the device magnetometer\n- It now points reliably in your direction of travel, whatever way your device is lying\n\nNEW: Navigation\n- A full-screen charger finder map — pan, zoom, filter, and an arrow to the nearest DC fast charger\n- Filter by DC power level or preferred network operator\n- Turn-by-turn navigation inside the app — navigate to a charger, or anywhere you choose\n- Spoken guidance in a voice you pick, ducking music and speaking over other apps\n- Turn directions in your instrument cluster(1) and head-up display(1)\n- Estimated charge on arrival, colored green, amber or red\n- Saved and recent destinations — up to 10 named addresses, plus your last 10 trips\n- Up to two chosen tiles sit beside the map while guidance runs\n\nNEW: DC Fast Charger finder\n- More than 59,000 DC fast-charge sites ship inside the app — worldwide, instant, offline\n- US and Canadian sites come from the official DOE / NRCan registry, with per-port power\n- Every site lists its connectors\n- You control charger database updates, under Settings → Navigation\n- The network filter follows the map worldwide, tailored to your region\n\nCharging\n- FIX: three-phase AC power was understated — now phase-aware, verified against the car's own display, and History reads \"AC 3-phase\"\n- \"Requested Current\" now reads what your vehicle asks the charger for over the CCS link\n\nVehicles\n- The Kia EV3 and Genesis GV60 are now fully supported\n- FIX: IONIQ 5 N gains a working odometer\n- FIX: Japan-market 2024 IONIQ 5 gains working 12V, lights, and DC charge session reporting\n\nConnection\n- NEW: Adapter Interference detection spots another OBD app sharing your adapter, and disconnects rather than show data it cannot trust\n- NEW: Two shareable on-device recorders in Settings → Diagnostics — the App Activity Log and Drive Diagnostics Recorder\n\n(1) where supported by the vehicle",
+      "minimumOsVersion": "26.0",
+      "averageUserRatingForCurrentVersion": 4.7931,
       "sellerUrl": "https://www.theburl.com/ioniq-app/",
       "languageCodesISO2A": [
         "NL",
@@ -179,35 +176,38 @@
       ],
       "fileSizeBytes": "30219264",
       "formattedPrice": "$12.99",
-      "userRatingCountForCurrentVersion": 56,
+      "userRatingCountForCurrentVersion": 58,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.78571,
-      "artistId": 1871946798,
-      "artistName": "Gregory Burlingame",
+      "releaseNotes": "Version 3.0\n\nName and languages\n- The app is now called EV Dashboard, with a new icon\n- Japanese joins as the tenth language\n\nCarPlay, rebuilt\n- Rebuilt from the ground up — the long-standing \"music notes\" bug is gone\n- Full-screen grid grows to 2x8 tiles\n- Split screen(1) gets its own 2x4 layout\n- Customize Tiles — choose which tiles appear and where, in separate Full Screen, Split Screen(1) and Maps layouts\n- Full support for CarPlay's Dashboard — a live charger map beside up to two tiles you choose\n- Help pages for every one of the 20 available tiles, with live preview\n\nNEW: Range and distance\n- View remaining range and recent drive efficiency\n- Trip distance is now measured from GPS and vehicle speed, not read in whole-mile steps\n- Range comes from a long-term average of your efficiency and the energy the battery reports\n\nNEW: Speed tile\n- Your current speed, with the last two minutes drawn behind it\n- White indicates when power was being drawn, green when regenerating\n\nNEW: Dynamic Nearest DC Charger / Arrive time tile\n- At a glance, the distance and location of the nearest DC charger\n- Quick visual of nearby traffic conditions\n\nCompass\n- The compass tile now uses your GPS course rather than the device magnetometer\n- It now points reliably in your direction of travel, whatever way your device is lying\n\nNEW: Navigation\n- A full-screen charger finder map — pan, zoom, filter, and an arrow to the nearest DC fast charger\n- Filter by DC power level or preferred network operator\n- Turn-by-turn navigation inside the app — navigate to a charger, or anywhere you choose\n- Spoken guidance in a voice you pick, ducking music and speaking over other apps\n- Turn directions in your instrument cluster(1) and head-up display(1)\n- Estimated charge on arrival, colored green, amber or red\n- Saved and recent destinations — up to 10 named addresses, plus your last 10 trips\n- Up to two chosen tiles sit beside the map while guidance runs\n\nNEW: DC Fast Charger finder\n- More than 59,000 DC fast-charge sites ship inside the app — worldwide, instant, offline\n- US and Canadian sites come from the official DOE / NRCan registry, with per-port power\n- Every site lists its connectors\n- You control charger database updates, under Settings → Navigation\n- The network filter follows the map worldwide, tailored to your region\n\nCharging\n- FIX: three-phase AC power was understated — now phase-aware, verified against the car's own display, and History reads \"AC 3-phase\"\n- \"Requested Current\" now reads what your vehicle asks the charger for over the CCS link\n\nVehicles\n- The Kia EV3 and Genesis GV60 are now fully supported\n- FIX: IONIQ 5 N gains a working odometer\n- FIX: Japan-market 2024 IONIQ 5 gains working 12V, lights, and DC charge session reporting\n\nConnection\n- NEW: Adapter Interference detection spots another OBD app sharing your adapter, and disconnects rather than show data it cannot trust\n- NEW: Two shareable on-device recorders in Settings → Diagnostics — the App Activity Log and Drive Diagnostics Recorder\n\n(1) where supported by the vehicle",
+      "averageUserRating": 4.7931,
+      "trackCensoredName": "EV Dashboard",
+      "trackViewUrl": "https://apps.apple.com/us/app/ev-dashboard/id6761347502?uo=4",
+      "contentAdvisoryRating": "4+",
+      "price": 12.99,
       "genres": [
         "Utilities",
         "Reference"
       ],
-      "sellerName": "Gregory Burlingame",
-      "releaseDate": "2026-04-30T07:00:00Z",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "trackName": "EV Dashboard",
+      "artistId": 1871946798,
+      "artistName": "Gregory Burlingame",
       "trackId": 6761347502,
+      "trackName": "EV Dashboard",
+      "releaseDate": "2026-04-30T07:00:00Z",
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
       "genreIds": [
         "6002",
         "6006"
       ],
+      "sellerName": "Gregory Burlingame",
+      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-08-27T19:09:55Z",
       "version": "3.0",
       "wrapperType": "software",
       "currency": "USD",
       "description": "EV Dashboard is an independent OBD-II diagnostic tool for E-GMP electric vehicles: the Hyundai IONIQ 5, IONIQ 5 N, IONIQ 6 and IONIQ 9, the Kia EV3, EV6 and EV9, and the Genesis GV60.\n\nREQUIREMENTS\n- An ELM327-compatible BLE OBD-II adapter is required (see https://www.theburl.com/ioniq-app/support.html for tested adapters)\n- Signal coverage varies by model, year and trim\n\nCARPLAY\n- A dashboard of live tiles you arrange yourself — 2x8 in full screen, 2x4 in split screen, where supported\n- Power, state of charge, range, speed, tires, climate, compass, cell voltage delta and 12V, each with its own Help page\n- A graphics-rich charging page appears when you plug in: session power, pack voltage and current\n- Full support for CarPlay's Dashboard — a live charger map beside two tiles of your choosing\n\nNAVIGATION & CHARGERS\n- More than 59,000 DC fast-charge sites ship inside the app — worldwide, instant, offline\n- US and Canadian sites come from the official DOE / NRCan registry; the rest of the world from Open Charge Map\n- Filter by power level or network operator, anywhere in the world\n- Turn-by-turn navigation to a charger or any address, with spoken guidance in a voice you choose\n- Turn directions in your instrument cluster and head-up display, where supported\n- Your estimated state of charge on arrival, so you know if you will make it\n\nIN-DEPTH DATA\n- State of charge, available energy, voltage, current, power, regeneration, and 12V and DC-DC telemetry\n- Per-cell voltages and temperatures as color-coded heatmaps, with min, max and delta\n- Tire pressures and temperatures, with per-axle warnings from your door placard, temperature-compensated\n- Vent and floor air temperatures, cabin and outside temperature, humidity, motor RPM, gear, battery warmer and lighting indicators\n\nCHARGING\n- Live AC and DC session detection\n- Charts for power, pack voltage, requested against delivered current and battery temperature\n- The charging station's published maximum power, voltage and current (J1772 + CCS)\n- Live \"Time to 70°F / 21°C\" battery ETA for DC fast charging\n\nHISTORY & ICLOUD\n- Every drive and charge recorded, with measured trip distance and efficiency\n- 50+ signals on charts you can pinch, pan and scrub\n- Optional iCloud sync keeps your history in step across iPhone, iPad and Mac\n- Attach a photo, share a report card, or export any session to CSV\n\nDIAGNOSTICS\n- Enhanced DTC Scan sweeps the whole vehicle bus, names every module that responds and reads its fault codes\n- Connection Report, ICCU Information, J1979 Scanner, ECU Finder and DID Range Scan, with CSV and image sharing\n\nPRIVACY BY DESIGN\nNo analytics, ads or accounts, and the app uploads nothing. Vehicle data stays on your device and your private iCloud; logs are exported only when you tap Share. The one thing it downloads is the charger database, when you ask. Privacy policy: https://www.theburl.com/ioniq-app/privacy.html\n\nNOT AFFILIATED\nEV Dashboard is not affiliated with, endorsed by or sponsored by Hyundai, Kia or Genesis. IONIQ, EV3, EV6, EV9 and GV60 are trademarks of their respective owners. This independent tool reads your own vehicle's data using open OBD-II and UDS standards (ISO 15031, ISO 14229).\n\nCharger data from Open Charge Map contributors (CC BY-SA 4.0) and the U.S. DOE / NRCan Alternative Fuels Data Center.",
       "bundleId": "com.theburl.ioniq5",
-      "minimumOsVersion": "26.0",
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
-      "price": 12.99,
-      "userRatingCount": 56,
+      "userRatingCount": 58,
       "country": "USA"
     }
   ]

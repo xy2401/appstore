@@ -2,20 +2,24 @@
   "resultCount": 1,
   "results": [
     {
-      "formattedPrice": "5,99 €",
       "artistIds": [
         1650282515
       ],
-      "artistId": 1650282515,
-      "artistName": "Chloé Wallerand",
+      "formattedPrice": "5,99 €",
+      "genres": [
+        "Thriller romantique",
+        "Livres",
+        "Romance",
+        "Romance jeunes adultes"
+      ],
       "price": 5.99,
+      "releaseDate": "2023-04-18T07:00:00Z",
       "genreIds": [
         "10061",
         "38",
         "9003",
         "11040"
       ],
-      "releaseDate": "2023-04-18T07:00:00Z",
       "trackId": 6445478311,
       "trackName": "The Devil's Sons - Tome 2",
       "kind": "ebook",
@@ -26,12 +30,8 @@
       "trackViewUrl": "https://books.apple.com/fr/book/the-devils-sons-tome-2/id6445478311?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication113/v4/a8/f6/4e/a8f64eff-95ad-b624-ca2a-d49a8efcd952/cover.jpg/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication113/v4/a8/f6/4e/a8f64eff-95ad-b624-ca2a-d49a8efcd952/cover.jpg/100x100bb.jpg",
-      "genres": [
-        "Thriller romantique",
-        "Livres",
-        "Romance",
-        "Romance jeunes adultes"
-      ],
+      "artistId": 1650282515,
+      "artistName": "Chloé Wallerand",
       "averageUserRating": 4.5,
       "userRatingCount": 993,
       "country": "FRA"

@@ -197,8 +197,8 @@
     },
     {
       "isGameCenterEnabled": false,
-      "advisories": [
-        "Infrequent/Mild Medical/Treatment Information"
+      "features": [
+        "iosUniversal"
       ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
@@ -329,10 +329,13 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "features": [
-        "iosUniversal"
+      "advisories": [
+        "Infrequent/Mild Medical/Treatment Information"
       ],
       "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/us/developer/tysm-technologies-llc/id6790445816?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/14/88/9d14882b-7ba5-4b91-f0a3-712c4eadfe0f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/14/88/9d14882b-7ba5-4b91-f0a3-712c4eadfe0f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/13/d3/c7/13d3c79e-9cf6-fb03-f71f-91a465fb5694/c81ea31b-cf85-497a-bd4a-020d85bab85c_Copy_of_screenshot_phone_3.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b4/f6/25/b4f62523-114d-53ae-b577-c1a96439cb12/adcf276a-f91f-4f8f-a5fa-8133a68b52d7_Copy_of_screenshot_phone_2.png/392x696bb.png",
@@ -347,29 +350,33 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/14/88/9d14882b-7ba5-4b91-f0a3-712c4eadfe0f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/us/developer/tysm-technologies-llc/id6790445816?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/14/88/9d14882b-7ba5-4b91-f0a3-712c4eadfe0f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/14/88/9d14882b-7ba5-4b91-f0a3-712c4eadfe0f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
       "minimumOsVersion": "13.0",
-      "price": 14.99,
+      "currentVersionReleaseDate": "2025-10-08T06:58:33Z",
       "genres": [
         "Education"
       ],
-      "artistId": 6790445816,
-      "artistName": "TYSM Technologies, LLC",
+      "price": 14.99,
+      "bundleId": "com.Kylan.StudyABA",
+      "releaseNotes": "Minor updates and bug fixes",
+      "releaseDate": "2017-12-20T06:08:28Z",
       "genreIds": [
         "6017"
       ],
+      "trackId": 1326943979,
+      "primaryGenreName": "Education",
+      "primaryGenreId": 6017,
+      "sellerName": "TYSM Technologies, LLC",
       "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2025-10-08T06:58:33Z",
-      "releaseNotes": "Minor updates and bug fixes",
       "version": "4.10",
       "wrapperType": "software",
       "currency": "USD",
       "description": "This BCBA® exam prep app is designed for any behavior analyst who wants to master the content on the BCBA (Board Certified Behavior Analyst®) or BCaBA® exam. Recently updated, the app now has around 1000 practice questions covering all of the essential principles of applied behavior analysis (ABA) centered on the current 6th edition Test Content Outline. You will be prepared to pass the BCBA or BCaBA exam! \n\nHOW MUCH DOES THE APP COST? \nThis is not a subscription. You are given complete access to our entire ABA practice question library for the minimal price of the app. \n\nHOW IS THE APP ORGANIZED? \nThe layout of this comprehensive app is organized following the BCBA/BCaBA Test Content Outline (6th Ed.) with a 10 question quiz for every task list item. You will learn quickly with immediate feedback, an explanation, and references for each question. This is the highest value ABA test prep out there! Behavior analysts around the world have downloaded and are loving this program. \n\nHOW WERE THE QUESTIONS CREATED? \nAll questions in the app were created by Board Certified Behavior Analysts referencing scholarly texts commonly used in ABA. These questions were reviewed by several students, behavior analysts, as well as BCBA-Ds to ensure each practice question contains correct and applicable content.\n \nThe ABA Wizard App is owned by Test Prep Technologies, LLC.  Test Prep Technologies, LLC is not owned by or associated with the Behavior Analyst Certification Board®. ©2018 the Behavior Analyst Certification Board®, Inc. All rights reserved. Displayed by permission. The most current version of this document is available at www.BACB.com. Contact the BACB for permission to reprint this material.",
-      "bundleId": "com.Kylan.StudyABA",
-      "averageUserRatingForCurrentVersion": 4.80511,
+      "trackCensoredName": "ABA Wizard",
+      "trackViewUrl": "https://apps.apple.com/us/app/aba-wizard/id1326943979?uo=4",
+      "contentAdvisoryRating": "12+",
+      "averageUserRating": 4.80511,
       "sellerUrl": "https://abawizard.net",
+      "averageUserRatingForCurrentVersion": 4.80511,
       "languageCodesISO2A": [
         "EN"
       ],
@@ -377,16 +384,9 @@
       "formattedPrice": "$14.99",
       "userRatingCountForCurrentVersion": 3874,
       "trackContentRating": "12+",
-      "averageUserRating": 4.80511,
-      "trackCensoredName": "ABA Wizard",
-      "trackViewUrl": "https://apps.apple.com/us/app/aba-wizard/id1326943979?uo=4",
-      "contentAdvisoryRating": "12+",
-      "primaryGenreName": "Education",
-      "primaryGenreId": 6017,
-      "releaseDate": "2017-12-20T06:08:28Z",
       "trackName": "ABA Wizard",
-      "trackId": 1326943979,
-      "sellerName": "TYSM Technologies, LLC",
+      "artistId": 6790445816,
+      "artistName": "TYSM Technologies, LLC",
       "userRatingCount": 3874,
       "country": "USA"
     }

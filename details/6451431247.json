@@ -204,7 +204,6 @@
       "userRatingCount": 11076
     },
     {
-      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7b/4f/dd/7b4fdd26-1708-10a5-3604-3857bf52acc1/_U82f1_U8bed.jpg/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8b/f2/09/8bf209c9-02e6-cbe2-41f7-3e23d04b0e89/20240963.jpg/320x480bb.jpg",
@@ -225,6 +224,10 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/62/43/c862433d-c522-097a-fc8a-11c229720532/AppIcon-0-0-1x_U007epad-0-8-0-sRGB-85-220.png/512x512bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
+      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -360,13 +363,10 @@
         "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References"
       ],
       "kind": "software",
-      "features": [
-        "iosUniversal"
-      ],
       "artistViewUrl": "https://apps.apple.com/gb/developer/spring-sg-pte-ltd/id1698257573?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/62/43/c862433d-c522-097a-fc8a-11c229720532/AppIcon-0-0-1x_U007epad-0-8-0-sRGB-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/62/43/c862433d-c522-097a-fc8a-11c229720532/AppIcon-0-0-1x_U007epad-0-8-0-sRGB-85-220.png/100x100bb.jpg",
-      "averageUserRatingForCurrentVersion": 4.50441,
+      "averageUserRatingForCurrentVersion": 4.52321,
       "languageCodesISO2A": [
         "AR",
         "EN",
@@ -389,37 +389,37 @@
       ],
       "fileSizeBytes": "303781888",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 20721,
+      "userRatingCountForCurrentVersion": 22383,
       "trackContentRating": "12+",
+      "artistId": 1698257573,
+      "artistName": "SPRING(SG)PTE.LTD.",
       "genres": [
         "Productivity"
       ],
-      "artistId": 1698257573,
-      "artistName": "SPRING(SG)PTE.LTD.",
-      "price": 0,
-      "releaseNotes": "Enjoy a better chat and creation experience with our recent fixes and updates.",
+      "bundleId": "com.bot.cici",
+      "trackId": 6451431247,
+      "trackName": "Dola: Smart AI Assistant",
       "primaryGenreName": "Productivity",
       "primaryGenreId": 6007,
-      "genreIds": [
-        "6007"
-      ],
       "sellerName": "SPRING SG PTE. LTD.",
       "releaseDate": "2024-08-15T07:00:00Z",
-      "currentVersionReleaseDate": "2026-08-17T07:49:49Z",
       "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-08-17T07:49:49Z",
+      "releaseNotes": "Enjoy a better chat and creation experience with our recent fixes and updates.",
       "version": "14.7.0",
       "wrapperType": "software",
       "currency": "GBP",
       "description": "Meet Dola: your all-in-one AI assistant for writing, thinking, and creating. \n\nDola helps you work, study, and create — all in one app. Whether you need to draft a report, generate stunning visuals, plan a weekend trip, or just have a friendly chat, Dola is here to help — anytime, anywhere. \n\n- Built to support your day \nDola helps you summarize meetings and articles in seconds, learn new languages, plan meals, find recipes, and stay organized, all through a clean, intuitive interface available across devices. \n\n- Talk or type, anytime \nDola supports fast voice input, making it easy to interact however you prefer. \n\n- Create various art styles fast \nDola can turn your ideas or photos into stunning AI art in seconds. You can explore diverse styles, from cyberpunk to anime, and customize every detail. Need to edit or restyle photos? Just tell Dola your requirements, no design skills needed.\n\nWhether you're working, studying, or just exploring, Dola makes it fast, smart, and fun.\n\nTerms of Service —\nhttps://www.dola.com/legal/terms/en\n\nPrivacy Policy —\nhttps://www.dola.com/legal/privacy/en",
-      "minimumOsVersion": "15.0",
-      "averageUserRating": 4.50441,
-      "bundleId": "com.bot.cici",
+      "contentAdvisoryRating": "12+",
+      "averageUserRating": 4.52321,
       "trackCensoredName": "Dola: Smart AI Assistant",
       "trackViewUrl": "https://apps.apple.com/gb/app/dola-smart-ai-assistant/id6451431247?uo=4",
-      "contentAdvisoryRating": "12+",
-      "trackName": "Dola: Smart AI Assistant",
-      "trackId": 6451431247,
-      "userRatingCount": 20721,
+      "minimumOsVersion": "15.0",
+      "genreIds": [
+        "6007"
+      ],
+      "price": 0,
+      "userRatingCount": 22383,
       "country": "GBR"
     }
   ]

@@ -2,12 +2,6 @@
   "resultCount": 1,
   "results": [
     {
-      "artistViewUrl": "https://apps.apple.com/us/developer/jorma-rodieck/id1856490604?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c7/88/4c/c7884cca-0d81-8494-d24b-6edb273d9ff7/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c7/88/4c/c7884cca-0d81-8494-d24b-6edb273d9ff7/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c7/88/4c/c7884cca-0d81-8494-d24b-6edb273d9ff7/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ca/d5/c4/cad5c465-aebc-c056-1423-fbb265d1441b/image1.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1b/91/21/1b9121be-908b-4b71-ded2-3f5eee449593/image2.png/320x480bb.jpg",
@@ -32,9 +26,12 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/14/1f/12/141f120a-9484-13c8-9bbf-6450ea2659cc/image9.png/360x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4d/55/92/4d559245-fb46-7bc8-8da4-091687ff5835/image10.png/360x480bb.jpg"
       ],
-      "features": [
-        "iosUniversal"
-      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/d7/95/74d795c4-210d-5492-bff1-e4a5bb26b989/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "isGameCenterEnabled": false,
+      "artistViewUrl": "https://apps.apple.com/us/developer/jorma-rodieck/id1856490604?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/d7/95/74d795c4-210d-5492-bff1-e4a5bb26b989/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/d7/95/74d795c4-210d-5492-bff1-e4a5bb26b989/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -164,48 +161,51 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
+      "features": [
+        "iosUniversal"
+      ],
       "advisories": [],
       "kind": "software",
-      "trackViewUrl": "https://apps.apple.com/us/app/hawaii-ocean-map/id6755807546?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 5,
-      "trackCensoredName": "Hawaii Ocean Map",
-      "releaseNotes": "DEPTH CONTOUR LINES\nToggle fathom lines at 40, 100, 200, 500, 750, and 1,000 fathoms drawn on top of the color bathymetry.\n\nBEARING WHEN MEASURING\nMeasurement mode now shows the heading and return bearing for your current leg, and a new Bearing Reference setting displays all bearings as true or magnetic, in measurement and navigation modes.\n\nNAVIGATE TO IMPORTED WAYPOINTS\nTap an imported waypoint's callout to see its details and navigate to it, just like placemarks you created in the app.\n\nUPDATED FAD STATUSES\nOahu FADs U, LL, and X are back in service (August 2026).",
+      "minimumOsVersion": "17.6",
+      "averageUserRatingForCurrentVersion": 5,
       "sellerUrl": "https://hawaiiocean.app",
       "languageCodesISO2A": [
         "EN"
       ],
-      "fileSizeBytes": "19196928",
+      "fileSizeBytes": "19586048",
       "formattedPrice": "$9.99",
-      "userRatingCountForCurrentVersion": 4,
+      "userRatingCountForCurrentVersion": 5,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 5,
-      "artistId": 1856490604,
-      "artistName": "Jorma Rodieck",
+      "releaseNotes": "SAVE IMPORTED WAYPOINTS AS PLACEMARKS\nTap any waypoint from an imported KML, KMZ, or GPX layer and save it as a placemark of your own - depth filled in automatically, ready to favorite, rename, or navigate to.\n\nUPDATED FAD STATUSES\nRefreshed from the Hawaii Institute of Marine Biology (September 2026). Six FADs are back in service - Oahu S (Pokai Bay) and HH (Ewa), and Kauai Z, CK, EK, and WK - while Big Island A (Ka Lae) is newly missing.",
+      "averageUserRating": 5,
+      "trackCensoredName": "Hawaii Ocean Map",
+      "trackViewUrl": "https://apps.apple.com/us/app/hawaii-ocean-map/id6755807546?uo=4",
+      "contentAdvisoryRating": "4+",
+      "price": 9.99,
       "genres": [
         "Navigation",
         "Sports"
       ],
-      "sellerName": "Jorma Rodieck",
-      "releaseDate": "2025-12-07T08:00:00Z",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "trackName": "Hawaii Ocean Map",
+      "artistId": 1856490604,
+      "artistName": "Jorma Rodieck",
       "trackId": 6755807546,
+      "trackName": "Hawaii Ocean Map",
+      "releaseDate": "2025-12-07T08:00:00Z",
+      "primaryGenreName": "Navigation",
+      "primaryGenreId": 6010,
       "genreIds": [
         "6010",
         "6004"
       ],
-      "currentVersionReleaseDate": "2026-08-31T17:56:31Z",
-      "version": "1.7.0",
+      "sellerName": "Jorma Rodieck",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-09-02T16:59:07Z",
+      "version": "1.8.1",
       "wrapperType": "software",
       "currency": "USD",
-      "description": "Hawaii Ocean Map brings professional-grade seafloor mapping to your iPhone and iPad. Explore the depths around the Hawaiian Islands with NOAA's high-resolution bathymetry data—all available offline, with no subscription required.\n\nPROFESSIONAL DEPTH DATA\nAccess detailed ocean floor topography derived from NOAA's Continuously Updated Digital Elevation Model (CUDEM) at approximately 3-meter resolution. Find underwater features including reefs, ledges, channels, and drop-offs with precision.\n\nDEPTH CONTOUR LINES\nFollow the ledges the way Hawaii fishermen talk about them. Toggle fathom lines at 40, 100, 200, 500, 750, and 1,000 fathoms, drawn and labeled on top of the color bathymetry.\n\nWORKS OFFLINE\nDownload maps before you head out. Whether you're miles offshore or in areas with no cell coverage, your depth data is always available. Perfect for ocean adventures beyond the reach of cellular networks.\n\nINSTANT DEPTH QUERIES\nTap anywhere on the map to instantly see the water depth at that location. Plan routes, identify fishing spots, or explore underwater terrain with a simple touch.\n\nSAVE LOCATIONS\nMark and save your favorite spots with custom placemarks. Add names, notes, and organize your locations for quick reference on future trips.\n\nNAVIGATE TO WAYPOINTS\nSelect any saved or imported placemark and get live bearing, distance, and a compass guiding you to your destination. Keep your eyes on the water while the app points the way.\n\nRECORD GPS TRACKS\nCapture your routes as you explore Hawaii's waters. Start, pause, and resume recording, then export your tracks as standard GPX files to share or analyze. Your tracks sync automatically across all your devices via iCloud.\n\nMAP LAYERS\nToggle and explore ocean overlays from one dedicated page—depth contour lines, fishing restriction zones, ORMA ocean recreation areas, humpback whale sanctuary boundaries, submarine cables, and curated points of interest including harbors, boat ramps, FAD buoys, surf spots, dive spots, and lifeguard towers. Zoom directly to any layer on the map.\n\nIMPORT YOUR SPOTS\nBring years of accumulated spots with you. Import KML, KMZ, and GPX files—exports from Google Earth, Navionics, Garmin, and most chartplotters and fishing apps—and each file becomes its own map layer of points, lines, and areas. Rename, show, or hide every layer, tap any feature for details, and your imported layers sync across all your devices via iCloud.\n\nMEASURE DISTANCE & BEARING\nUse the built-in measurement tool to calculate distances between points on the map, with the heading and return bearing for your current leg — shown as true or magnetic to match your compass.\n\nFULL ISLAND COVERAGE\nComplete bathymetry coverage for all major Hawaiian Islands—Oahu, Maui, Big Island, Kauai, Molokai, Lanai, and surrounding waters.\n\nNO SUBSCRIPTIONS\nOne purchase, lifetime access. No recurring fees, no in-app purchases, no ads.\n\nIdeal for boaters, fishermen, divers, snorkelers, kayakers, and anyone who wants to understand what lies beneath Hawaii's beautiful waters.\n\nIMPORTANT: For informational and recreational purposes only. Not a marine navigation device. Always use official nautical charts and proper navigation equipment when on the water. Full terms at hawaiiocean.app/terms.",
+      "description": "Hawaii Ocean Map brings professional-grade seafloor mapping to your iPhone and iPad. Explore the depths around the Hawaiian Islands with NOAA's high-resolution bathymetry data—all available offline, with no subscription required.\n\nPROFESSIONAL DEPTH DATA\nAccess detailed ocean floor topography derived from NOAA's Continuously Updated Digital Elevation Model (CUDEM) at approximately 3-meter resolution. Find underwater features including reefs, ledges, channels, and drop-offs with precision.\n\nDEPTH CONTOUR LINES\nToggle fathom lines at 40, 100, 200, 500, 750, 1,000, 1,500, and 2,000 fathoms, drawn and labeled on top of the color bathymetry.\n\nWORKS OFFLINE\nDownload maps before you head out. Whether you're miles offshore or in areas with no cell coverage, your depth data is always available. Perfect for ocean adventures beyond the reach of cellular networks.\n\nINSTANT DEPTH QUERIES\nTap anywhere on the map to instantly see the water depth at that location. Plan routes, identify fishing spots, or explore underwater terrain with a simple touch.\n\nSAVE LOCATIONS\nMark and save your favorite spots with custom placemarks. Add names, notes, and organize your locations for quick reference on future trips.\n\nNAVIGATE TO WAYPOINTS\nSelect any saved or imported placemark and get live bearing, distance, and a compass guiding you to your destination. Keep your eyes on the water while the app points the way.\n\nRECORD GPS TRACKS\nCapture your routes as you explore Hawaii's waters. Start, pause, and resume recording, then export your tracks as standard GPX files to share or analyze. Your tracks sync automatically across all your devices via iCloud.\n\nMAP LAYERS\nToggle and explore ocean overlays from one dedicated page—depth contour lines, fishing restriction zones, ORMA ocean recreation areas, humpback whale sanctuary boundaries, submarine cables, and curated points of interest including harbors, boat ramps, FAD buoys, surf spots, dive spots, and lifeguard towers. Zoom directly to any layer on the map.\n\nIMPORT YOUR SPOTS\nBring years of accumulated spots with you. Import KML, KMZ, and GPX files—exports from Google Earth, Navionics, Garmin, and most chartplotters and fishing apps—and each file becomes its own map layer of points, lines, and areas. Rename, show, or hide every layer, tap any feature for details, save any imported waypoint as a placemark of your own, and your imported layers sync across all your devices via iCloud.\n\nMEASURE DISTANCE & BEARING\nUse the built-in measurement tool to calculate distances between points on the map, with the heading and return bearing for your current leg — shown as true or magnetic to match your compass. Drag any point to fine-tune it, delete a single point, or undo the last one. Save any point — or every point at once — as placemarks, each with its depth filled in automatically.\n\nFULL ISLAND COVERAGE\nComplete bathymetry coverage for all major Hawaiian Islands—Oahu, Maui, Big Island, Kauai, Molokai, Lanai, and surrounding waters.\n\nNO SUBSCRIPTIONS\nOne purchase, lifetime access. No recurring fees, no in-app purchases, no ads.\n\nIdeal for boaters, fishermen, divers, snorkelers, kayakers, and anyone who wants to understand what lies beneath Hawaii's beautiful waters.\n\nIMPORTANT: For informational and recreational purposes only. Not a marine navigation device. Always use official nautical charts and proper navigation equipment when on the water. Full terms at hawaiiocean.app/terms.",
       "bundleId": "com.jorma.hawaiioceanmap.HawaiiOceanMap",
-      "minimumOsVersion": "17.6",
-      "primaryGenreName": "Navigation",
-      "primaryGenreId": 6010,
-      "price": 9.99,
-      "userRatingCount": 4,
+      "userRatingCount": 5,
       "country": "USA"
     }
   ]
