@@ -1,5 +1,5 @@
 {
-  "resultCount": 12,
+  "resultCount": 13,
   "results": [
     {
       "date": "20260406",
@@ -265,8 +265,8 @@
       "date": "20260901",
       "country": "gb",
       "mediaType": "podcasts",
-      "feed": "top-podcasts",
-      "rank": 86,
+      "feed": "top-subscriber-podcasts",
+      "rank": 31,
       "artistName": "Ash Kelley & Alaina Urquhart",
       "id": "1379959217",
       "name": "Morbid",
@@ -289,10 +289,10 @@
     },
     {
       "date": "20260901",
-      "country": "gb",
+      "country": "us",
       "mediaType": "podcasts",
-      "feed": "top-subscriber-podcasts",
-      "rank": 30,
+      "feed": "top-podcasts",
+      "rank": 5,
       "artistName": "Ash Kelley & Alaina Urquhart",
       "id": "1379959217",
       "name": "Morbid",
@@ -303,15 +303,41 @@
         {
           "genreId": "1488",
           "name": "True Crime",
-          "url": "https://itunes.apple.com/gb/genre/id1488"
+          "url": "https://itunes.apple.com/us/genre/id1488"
         },
         {
           "genreId": "1303",
           "name": "Comedy",
-          "url": "https://itunes.apple.com/gb/genre/id1303"
+          "url": "https://itunes.apple.com/us/genre/id1303"
         }
       ],
-      "url": "https://podcasts.apple.com/gb/podcast/morbid/id1379959217"
+      "url": "https://podcasts.apple.com/us/podcast/morbid/id1379959217"
+    },
+    {
+      "date": "20260901",
+      "country": "us",
+      "mediaType": "podcasts",
+      "feed": "top-subscriber-podcasts",
+      "rank": 6,
+      "artistName": "Ash Kelley & Alaina Urquhart",
+      "id": "1379959217",
+      "name": "Morbid",
+      "kind": "podcasts",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/78/e9/0e/78e90ee0-567d-1ad8-17a0-17d7c988c4bd/mza_8425901783365617933.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1488",
+          "name": "True Crime",
+          "url": "https://itunes.apple.com/us/genre/id1488"
+        },
+        {
+          "genreId": "1303",
+          "name": "Comedy",
+          "url": "https://itunes.apple.com/us/genre/id1303"
+        }
+      ],
+      "url": "https://podcasts.apple.com/us/podcast/morbid/id1379959217"
     }
   ]
 }

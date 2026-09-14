@@ -1,5 +1,5 @@
 {
-  "resultCount": 4,
+  "resultCount": 5,
   "results": [
     {
       "date": "20260701",
@@ -162,10 +162,73 @@
     },
     {
       "date": "20260901",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-paid",
+      "rank": 95,
+      "artistName": "Rebecca Yarros",
+      "id": "6445048129",
+      "name": "Fourth Wing",
+      "releaseDate": "2023-05-02",
+      "kind": "books",
+      "artistId": "802770747",
+      "artistUrl": "https://books.apple.com/de/author/rebecca-yarros/id802770747",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/17/c8/09/17c809d3-bc24-1131-9b55-65789950d5e5/9780349436982.jpg/100x157bb.png",
+      "genres": [
+        {
+          "genreId": "10058",
+          "name": "Paranormale Liebesromane",
+          "url": "https://itunes.apple.com/de/genre/id10058"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        },
+        {
+          "genreId": "9003",
+          "name": "Liebesromane",
+          "url": "https://itunes.apple.com/de/genre/id9003"
+        },
+        {
+          "genreId": "9020",
+          "name": "Science-Fiction und Fantasy",
+          "url": "https://itunes.apple.com/de/genre/id9020"
+        },
+        {
+          "genreId": "10044",
+          "name": "Fantasy",
+          "url": "https://itunes.apple.com/de/genre/id10044"
+        },
+        {
+          "genreId": "9025",
+          "name": "Gesundheit, Körper und Geist",
+          "url": "https://itunes.apple.com/de/genre/id9025"
+        },
+        {
+          "genreId": "10004",
+          "name": "Spiritualität",
+          "url": "https://itunes.apple.com/de/genre/id10004"
+        },
+        {
+          "genreId": "11040",
+          "name": "New Adult-Liebesromane",
+          "url": "https://itunes.apple.com/de/genre/id11040"
+        },
+        {
+          "genreId": "11233",
+          "name": "Militär-Liebesromane",
+          "url": "https://itunes.apple.com/de/genre/id11233"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/fourth-wing/id6445048129"
+    },
+    {
+      "date": "20260901",
       "country": "gb",
       "mediaType": "books",
       "feed": "top-paid",
-      "rank": 70,
+      "rank": 44,
       "artistName": "Rebecca Yarros",
       "id": "6445048129",
       "name": "Fourth Wing",
@@ -201,14 +264,24 @@
           "url": "https://itunes.apple.com/gb/genre/id10044"
         },
         {
-          "genreId": "11233",
-          "name": "Military Romance",
-          "url": "https://itunes.apple.com/gb/genre/id11233"
+          "genreId": "9025",
+          "name": "Health & Well-Being",
+          "url": "https://itunes.apple.com/gb/genre/id9025"
+        },
+        {
+          "genreId": "10004",
+          "name": "Spirituality",
+          "url": "https://itunes.apple.com/gb/genre/id10004"
         },
         {
           "genreId": "11040",
           "name": "New Adult Romance",
           "url": "https://itunes.apple.com/gb/genre/id11040"
+        },
+        {
+          "genreId": "11233",
+          "name": "Military Romance",
+          "url": "https://itunes.apple.com/gb/genre/id11233"
         }
       ],
       "url": "https://books.apple.com/gb/book/fourth-wing/id6445048129"

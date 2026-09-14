@@ -144,7 +144,7 @@
       "country": "de",
       "mediaType": "apps",
       "feed": "top-paid",
-      "rank": 9,
+      "rank": 7,
       "artistName": "Radoslaw Marciniak",
       "id": "6778099993",
       "name": "Manager for Scooters",
@@ -159,7 +159,7 @@
       "country": "fr",
       "mediaType": "apps",
       "feed": "top-paid",
-      "rank": 9,
+      "rank": 8,
       "artistName": "Radoslaw Marciniak",
       "id": "6778099993",
       "name": "Manager for Scooters",
@@ -174,14 +174,25 @@
       "country": "gb",
       "mediaType": "apps",
       "feed": "top-paid",
-      "rank": 9,
+      "rank": 13,
       "artistName": "Radoslaw Marciniak",
       "id": "6778099993",
       "name": "Manager for Scooters",
       "releaseDate": "2026-06-09",
       "kind": "apps",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/5e/c2/2a5ec264-4bb3-9438-9765-d5316676cb88/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "genres": [],
+      "genres": [
+        {
+          "genreId": "6003",
+          "name": "Travel",
+          "url": "https://itunes.apple.com/gb/genre/id6003"
+        },
+        {
+          "genreId": "6002",
+          "name": "Utilities",
+          "url": "https://itunes.apple.com/gb/genre/id6002"
+        }
+      ],
       "url": "https://apps.apple.com/gb/app/manager-for-scooters/id6778099993"
     },
     {
@@ -189,7 +200,7 @@
       "country": "us",
       "mediaType": "apps",
       "feed": "top-paid",
-      "rank": 78,
+      "rank": 84,
       "artistName": "Radoslaw Marciniak",
       "id": "6778099993",
       "name": "Manager for Scooters",
