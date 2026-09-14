@@ -209,9 +209,9 @@
     },
     {
       "isGameCenterEnabled": false,
-      "artistViewUrl": "https://apps.apple.com/fr/developer/tunap-paul/id1830510913?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/1d/36/9c1d36b9-699c-d79c-2b2b-8f4ab37ba377/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/1d/36/9c1d36b9-699c-d79c-2b2b-8f4ab37ba377/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -339,14 +339,12 @@
         "iPadAir11M4-iPadAir11M4",
         "iPadAir11M4Cellular-iPadAir11M4Cellular",
         "iPadAir13M4-iPadAir13M4",
-        "iPadAir13M4Cellular-iPadAir13M4Cellular"
+        "iPadAir13M4Cellular-iPadAir13M4Cellular",
+        "iPhone18Pro-iPhone18Pro",
+        "iPhone18ProMax-iPhone18ProMax",
+        "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
       "kind": "software",
-      "features": [
-        "iosUniversal"
-      ],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/1d/36/9c1d36b9-699c-d79c-2b2b-8f4ab37ba377/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/52/da/2a/52da2a75-fa90-b50b-26b3-c404ae12553a/01-connect.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3c/ca/8d/3cca8d87-6212-7a7a-d770-f9dd95400afd/02-chat.png/320x480bb.jpg",
@@ -366,33 +364,32 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b9/19/0b/b9190b25-ad9a-7e6c-4e9b-87cddf6ed54b/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-03-14_at_12.23.37.jpeg/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "minimumOsVersion": "16.0",
-      "contentAdvisoryRating": "4+",
-      "trackCensoredName": "Conduit : Open WebUI et IA",
-      "trackViewUrl": "https://apps.apple.com/fr/app/conduit-open-webui-et-ia/id6749840287?uo=4",
-      "averageUserRating": 5,
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/1d/36/9c1d36b9-699c-d79c-2b2b-8f4ab37ba377/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/fr/developer/tunap-paul/id1830510913?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/1d/36/9c1d36b9-699c-d79c-2b2b-8f4ab37ba377/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/1d/36/9c1d36b9-699c-d79c-2b2b-8f4ab37ba377/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+      "advisories": [],
+      "releaseNotes": "https://github.com/cogwheel0/conduit/releases/tag/v4.1.4",
+      "sellerName": "Tunap Paul",
+      "price": 3.99,
       "artistId": 1830510913,
       "artistName": "Tunap Paul",
-      "genres": [
-        "Productivité"
-      ],
-      "price": 3.99,
-      "primaryGenreName": "Productivity",
-      "primaryGenreId": 6007,
+      "releaseDate": "2025-08-17T07:00:00Z",
+      "bundleId": "app.cogwheel.conduit",
+      "currentVersionReleaseDate": "2026-09-02T13:39:41Z",
       "genreIds": [
         "6007"
       ],
-      "currentVersionReleaseDate": "2026-09-02T13:39:41Z",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "sellerName": "Tunap Paul",
-      "releaseDate": "2025-08-17T07:00:00Z",
-      "releaseNotes": "https://github.com/cogwheel0/conduit/releases/tag/v4.1.4",
+      "primaryGenreName": "Productivity",
+      "primaryGenreId": 6007,
+      "trackId": 6749840287,
+      "trackName": "Conduit : Open WebUI et IA",
       "version": "4.1.4",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Conduit est un client mobile natif pour Open WebUI, les endpoints de modèles directs et les agents auto-hébergés. Vos discussions vivent d'abord sur l'appareil. Rien ne passe par un backend opéré par le mainteneur.\n\nTrois façons de se connecter\n- Open WebUI — votre serveur auto-hébergé avec discussions, dossiers, notes, canaux, workspace, outils, recherche web et génération d'images\n- Direct — APIs compatibles OpenAI, Ollama, OpenRouter et endpoints locaux. Aucun compte Open WebUI requis\n- Hermes — votre agent auto-hébergé avec outils en direct, validations pour les étapes sensibles et tâches planifiées\n\nConçu pour le mobile\n- Chat en streaming en temps réel avec sélection des modèles, discussions temporaires, recherche et dossiers\n- Envoi de fichiers, images, audio et presse-papiers pour des prompts multimodaux\n- Saisie vocale, mode appel vocal, feuille de partage, actions rapides, widgets d'écran d'accueil et Raccourcis\n- Rendu riche pour Markdown, code, LaTeX, Mermaid, Chart.js, citations, raisonnement et appels d'outils\n- Notes, prompts enregistrés, canaux, terminal et autres fonctions lorsque votre serveur les prend en charge\n\nConçu pour les vrais déploiements\n- Connexion avec identifiant/mot de passe, LDAP, JWT, OAuth/SSO, flux de reverse proxy et en-têtes HTTP personnalisés\n- Identifiants stockés en toute sécurité dans le Keychain\n- Pas de publicité, pas de SDK d'analytique, pas de serveur relais opéré par le développeur\n\nImportant\n- Conduit n'héberge pas de modèles et ne fournit pas de service d'IA. Vous vous connectez aux serveurs et fournisseurs que vous contrôlez.\n- Les fonctions disponibles dépendent de ce à quoi vous vous connectez.\n- Conduit est open source et n'est pas officiellement affilié à Open WebUI ni à Hermes.",
-      "bundleId": "app.cogwheel.conduit",
       "sellerUrl": "https://github.com/cogwheel0/conduit",
+      "minimumOsVersion": "16.0",
       "languageCodesISO2A": [
         "NL",
         "EN",
@@ -412,8 +409,14 @@
       "userRatingCountForCurrentVersion": 3,
       "trackContentRating": "4+",
       "averageUserRatingForCurrentVersion": 5,
-      "trackId": 6749840287,
-      "trackName": "Conduit : Open WebUI et IA",
+      "averageUserRating": 5,
+      "trackCensoredName": "Conduit : Open WebUI et IA",
+      "trackViewUrl": "https://apps.apple.com/fr/app/conduit-open-webui-et-ia/id6749840287?uo=4",
+      "contentAdvisoryRating": "4+",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "genres": [
+        "Productivité"
+      ],
       "userRatingCount": 3,
       "country": "FRA"
     }

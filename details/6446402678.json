@@ -3,6 +3,8 @@
   "results": [
     {
       "isGameCenterEnabled": false,
+      "features": [],
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -130,10 +132,15 @@
         "iPadAir11M4-iPadAir11M4",
         "iPadAir11M4Cellular-iPadAir11M4Cellular",
         "iPadAir13M4-iPadAir13M4",
-        "iPadAir13M4Cellular-iPadAir13M4Cellular"
+        "iPadAir13M4Cellular-iPadAir13M4Cellular",
+        "iPhone18Pro-iPhone18Pro",
+        "iPhone18ProMax-iPhone18ProMax",
+        "iPhoneDuo-iPhoneDuo"
       ],
       "kind": "software",
-      "features": [],
+      "ipadScreenshotUrls": [],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/15/3f/44/153f440c-7e48-d2a4-a870-f37d42443757/AppIcon-1-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/12/a5/01/12a501b1-ddfb-b948-61dd-8957542e187e/0696b5c1-5fa0-4040-a318-597b13667f4a_Simulator_Screen_Shot_-_iPhone_8_Plus_5_U002c5_-_2023-03-20_at_09.21.40.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/25/55/cd/2555cd59-de3e-5aea-49fc-4b1d5ea0fa8a/0cb7d437-3a32-4318-a117-f4dc34bdb2be_Simulator_Screen_Shot_-_iPhone_8_Plus_5_U002c5_-_2023-03-20_at_09.22.46.png/392x696bb.png",
@@ -145,48 +152,44 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/42/38/7a/42387a6b-c981-c854-15a2-3cf00c4a1af5/f60b3ead-9fa4-4d4e-98a5-1d8641a79fdc_Simulator_Screen_Shot_-_iPhone_8_Plus_5_U002c5_-_2023-03-20_at_09.49.22.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/b2/9b/16/b29b1601-0c0c-85f4-c119-e23f7cf63b3f/844b06ce-67e8-485e-81a9-d3daa7fc8668_Simulator_Screen_Shot_-_iPhone_8_Plus_5_U002c5_-_2023-03-31_at_08.41.26.png/392x696bb.png"
       ],
-      "ipadScreenshotUrls": [],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/15/3f/44/153f440c-7e48-d2a4-a870-f37d42443757/AppIcon-1-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg",
       "artistViewUrl": "https://apps.apple.com/de/developer/landesanglerverband-sachsen-anhalt-e-v/id1677754934?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/15/3f/44/153f440c-7e48-d2a4-a870-f37d42443757/AppIcon-1-0-1x_U007emarketing-0-7-0-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/15/3f/44/153f440c-7e48-d2a4-a870-f37d42443757/AppIcon-1-0-1x_U007emarketing-0-7-0-0-85-220.png/100x100bb.jpg",
-      "advisories": [],
+      "bundleId": "de.lav.AngelatlasST",
       "minimumOsVersion": "9",
+      "price": 2.99,
+      "genres": [
+        "Sport"
+      ],
+      "artistId": 1677754934,
+      "artistName": "Landesanglerverband Sachsen-Anhalt e.V.",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseDate": "2023-03-21T07:00:00Z",
+      "releaseNotes": "Anpassungen für \"Dark Mode\"",
+      "trackId": 6446402678,
+      "trackName": "Angelatlas Sachsen-Anhalt",
+      "currentVersionReleaseDate": "2023-07-10T05:47:58Z",
+      "version": "1.7",
+      "wrapperType": "software",
+      "currency": "EUR",
+      "description": "Der Angelatlas Sachsen-Anhalt ist die mobile Variante des interaktiven Gewässerverzeichnisses des LAV Sachsen-Anhalt. Angler und interessierte Nichtangler finden hier Gewässer in Ihrer Nähe, inklusive aller nötigen Informationen und Bestimmungen.\n\nNachfolgende Leistungsmerkmale sind nutzbar:\n-genaue Darstellung der Gewässer durch Vektorgraphiken\n-Standortbestimmung\n-Gewässerverzeichnis\n-Suche nach Gewässernummer oder Gewässername\n-Fischverzeichnis\n-Link zur Gewässerordnung\n\nDie App nutzt die Daten des Angelatlas Sachsen-Anhalt.\nhttp://angelatlas-lsa.de/\n\nHinweis: Mit der erstmaligen Nutzung laden Sie sich bitte das Kartenmaterial herunter (ca. 400 MB) und führen ein Datenupdate durch.",
+      "averageUserRatingForCurrentVersion": 1.85294,
       "sellerUrl": "https://www.lav-sachsen-anhalt.de",
       "languageCodesISO2A": [],
       "fileSizeBytes": "46632960",
       "formattedPrice": "2,99 €",
       "userRatingCountForCurrentVersion": 34,
       "trackContentRating": "4+",
-      "artistId": 1677754934,
-      "artistName": "Landesanglerverband Sachsen-Anhalt e.V.",
-      "genres": [
-        "Sport"
-      ],
-      "price": 2.99,
-      "bundleId": "de.lav.AngelatlasST",
-      "releaseDate": "2023-03-21T07:00:00Z",
-      "releaseNotes": "Anpassungen für \"Dark Mode\"",
-      "currentVersionReleaseDate": "2023-07-10T05:47:58Z",
-      "trackId": 6446402678,
-      "trackName": "Angelatlas Sachsen-Anhalt",
-      "sellerName": "Landesanglerverband Sachsen-Anhalt e.V.",
-      "primaryGenreName": "Sports",
-      "primaryGenreId": 6004,
-      "genreIds": [
-        "6004"
-      ],
-      "isVppDeviceBasedLicensingEnabled": true,
-      "version": "1.7",
-      "wrapperType": "software",
-      "currency": "EUR",
-      "description": "Der Angelatlas Sachsen-Anhalt ist die mobile Variante des interaktiven Gewässerverzeichnisses des LAV Sachsen-Anhalt. Angler und interessierte Nichtangler finden hier Gewässer in Ihrer Nähe, inklusive aller nötigen Informationen und Bestimmungen.\n\nNachfolgende Leistungsmerkmale sind nutzbar:\n-genaue Darstellung der Gewässer durch Vektorgraphiken\n-Standortbestimmung\n-Gewässerverzeichnis\n-Suche nach Gewässernummer oder Gewässername\n-Fischverzeichnis\n-Link zur Gewässerordnung\n\nDie App nutzt die Daten des Angelatlas Sachsen-Anhalt.\nhttp://angelatlas-lsa.de/\n\nHinweis: Mit der erstmaligen Nutzung laden Sie sich bitte das Kartenmaterial herunter (ca. 400 MB) und führen ein Datenupdate durch.",
       "averageUserRating": 1.85294,
-      "averageUserRatingForCurrentVersion": 1.85294,
       "trackCensoredName": "Angelatlas Sachsen-Anhalt",
       "trackViewUrl": "https://apps.apple.com/de/app/angelatlas-sachsen-anhalt/id6446402678?uo=4",
       "contentAdvisoryRating": "4+",
+      "genreIds": [
+        "6004"
+      ],
+      "sellerName": "Landesanglerverband Sachsen-Anhalt e.V.",
+      "primaryGenreName": "Sports",
+      "primaryGenreId": 6004,
       "userRatingCount": 34,
       "country": "DEU"
     }

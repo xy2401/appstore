@@ -186,9 +186,6 @@
       "userRatingCount": 239
     },
     {
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/92/74/559274e8-7ddc-3d70-d691-19d56bbdc729/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6d/b4/3b/6db43ba5-901e-d916-18bb-cda6262d604e/c302077f-7288-4afd-97a9-69aba2e50b80_Simulator_Screenshot_-_iPhone_15_Pro_Max_-_2024-10-08_at_10.10.10.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/09/41/10/09411006-6b56-f68e-053c-f150699de3ee/5c8e5c72-c9fd-4b5c-bb52-3bb47200d2b1_Simulator_Screenshot_-_iPhone_15_Pro_Max_-_2024-10-08_at_10.10.40.png/320x480bb.jpg",
@@ -207,6 +204,9 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/01/9a/9a/019a9a6f-bdc0-dfc7-ca97-b7789e02df51/Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00286th_generation_U0029_-_2024-10-24_at_13.25.26.png/360x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a8/29/38/a8293841-8475-f038-afa9-308bcf5c4879/Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00286th_generation_U0029_-_2024-10-24_at_13.25.44.png/360x480bb.jpg"
       ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/92/74/559274e8-7ddc-3d70-d691-19d56bbdc729/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -334,17 +334,19 @@
         "iPadAir11M4-iPadAir11M4",
         "iPadAir11M4Cellular-iPadAir11M4Cellular",
         "iPadAir13M4-iPadAir13M4",
-        "iPadAir13M4Cellular-iPadAir13M4Cellular"
+        "iPadAir13M4Cellular-iPadAir13M4Cellular",
+        "iPhone18Pro-iPhone18Pro",
+        "iPhone18ProMax-iPhone18ProMax",
+        "iPhoneDuo-iPhoneDuo"
+      ],
+      "features": [
+        "iosUniversal"
       ],
       "advisories": [],
       "kind": "software",
       "artistViewUrl": "https://apps.apple.com/us/developer/dmac-mobile-developments-llc/id372235786?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/92/74/559274e8-7ddc-3d70-d691-19d56bbdc729/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/92/74/559274e8-7ddc-3d70-d691-19d56bbdc729/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
-      "minimumOsVersion": "15.1",
       "languageCodesISO2A": [
         "EN"
       ],
@@ -352,8 +354,10 @@
       "formattedPrice": "$27.99",
       "userRatingCountForCurrentVersion": 239,
       "trackContentRating": "4+",
-      "sellerUrl": "https://www.jb4tech.com/forum/model-specific-engine-tuning-modification-discussion/jb4-mobile/1192-",
       "averageUserRatingForCurrentVersion": 3.82008,
+      "bundleId": "com.dmacpro91.jb4-mobile",
+      "sellerUrl": "https://www.jb4tech.com/forum/model-specific-engine-tuning-modification-discussion/jb4-mobile/1192-",
+      "minimumOsVersion": "15.1",
       "artistId": 372235786,
       "artistName": "Dmac Mobile Developments, LLC",
       "genres": [
@@ -361,18 +365,18 @@
         "Travel"
       ],
       "price": 27.99,
+      "releaseDate": "2014-02-12T18:01:04Z",
       "trackId": 794841332,
       "trackName": "JB4 Mobile",
-      "releaseDate": "2014-02-12T18:01:04Z",
       "genreIds": [
         "6004",
         "6003"
       ],
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-01-08T00:45:43Z",
       "primaryGenreName": "Sports",
       "primaryGenreId": 6004,
       "sellerName": "Dmac Mobile Developments, LLC",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-01-08T00:45:43Z",
       "releaseNotes": "Bug Fix: Viewing User Adj in landscape orientation\nBug Fix: Viewing graph with incompatible parameters.\n\nMinor changes to firmware uploading to make it faster.",
       "version": "3.0.7",
       "wrapperType": "software",
@@ -382,7 +386,6 @@
       "trackCensoredName": "JB4 Mobile",
       "trackViewUrl": "https://apps.apple.com/us/app/jb4-mobile/id794841332?uo=4",
       "contentAdvisoryRating": "4+",
-      "bundleId": "com.dmacpro91.jb4-mobile",
       "userRatingCount": 239,
       "country": "USA"
     }

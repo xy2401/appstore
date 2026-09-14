@@ -3,6 +3,10 @@
   "results": [
     {
       "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -131,20 +135,12 @@
         "iPadAir11M4-iPadAir11M4",
         "iPadAir11M4Cellular-iPadAir11M4Cellular",
         "iPadAir13M4-iPadAir13M4",
-        "iPadAir13M4Cellular-iPadAir13M4Cellular"
+        "iPadAir13M4Cellular-iPadAir13M4Cellular",
+        "iPhone18Pro-iPhone18Pro",
+        "iPhone18ProMax-iPhone18ProMax",
+        "iPhoneDuo-iPhoneDuo"
       ],
       "kind": "software",
-      "features": [
-        "iosUniversal"
-      ],
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a2/21/2c/a2212c45-7ec6-eacd-9e42-0e7034af09fd/c8fc2347-2a75-4d19-b83a-93f687dc5801_1-small.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ea/db/1f/eadb1f71-483a-1000-4cb3-aaf3cd9f2ffd/c7d6b979-579d-4a44-a3d7-a25974421045_2-small.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c6/8f/77/c68f7735-6145-7671-9939-e321246627ea/85111a1b-1f4b-4673-96f1-e3098175f4f4_3-small.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/26/00/95/26009534-559b-93bb-f471-8eb5ebd2f7b2/f45746d1-6d3a-4a5c-9e69-3f6b3af72a07_4-small.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e6/a5/51/e6a5518c-6bc7-22fa-c077-7a8a537d3967/e82d52f8-d1a0-42c8-94aa-fdd3cffb6583_5-small.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f4/3e/b5/f43eb501-f93f-b290-c540-e1e9dc433b03/4d5eb1b0-d8e5-46d5-9ad2-421381a169d5_6-small.jpg/392x696bb.jpg"
-      ],
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ad/11/1a/ad111ad4-ff25-ec80-d11e-29f4a80ae270/mzl.fmfisvoj.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/62/17/ae/6217ae9a-d2e9-655d-38f3-d838529fd36b/mzl.ebphzsfs.png/576x768bb.png",
@@ -153,12 +149,38 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d8/d8/cf/d8d8cf15-6ec1-501f-b2c8-eec98b30d1d5/mzl.shynetdr.png/576x768bb.png"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/36/2d/3c362dd8-b8ee-ee4c-5890-3821f50525aa/BusyCal-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/ec/04/beec04e1-b238-a6ec-7efd-2dec34c65b21/BusyCal-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a2/21/2c/a2212c45-7ec6-eacd-9e42-0e7034af09fd/c8fc2347-2a75-4d19-b83a-93f687dc5801_1-small.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ea/db/1f/eadb1f71-483a-1000-4cb3-aaf3cd9f2ffd/c7d6b979-579d-4a44-a3d7-a25974421045_2-small.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c6/8f/77/c68f7735-6145-7671-9939-e321246627ea/85111a1b-1f4b-4673-96f1-e3098175f4f4_3-small.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/26/00/95/26009534-559b-93bb-f471-8eb5ebd2f7b2/f45746d1-6d3a-4a5c-9e69-3f6b3af72a07_4-small.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e6/a5/51/e6a5518c-6bc7-22fa-c077-7a8a537d3967/e82d52f8-d1a0-42c8-94aa-fdd3cffb6583_5-small.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f4/3e/b5/f43eb501-f93f-b290-c540-e1e9dc433b03/4d5eb1b0-d8e5-46d5-9ad2-421381a169d5_6-small.jpg/392x696bb.jpg"
+      ],
       "artistViewUrl": "https://apps.apple.com/de/developer/busy-apps-fze/id409966805?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/36/2d/3c362dd8-b8ee-ee4c-5890-3821f50525aa/BusyCal-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/36/2d/3c362dd8-b8ee-ee4c-5890-3821f50525aa/BusyCal-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
-      "advisories": [],
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/ec/04/beec04e1-b238-a6ec-7efd-2dec34c65b21/BusyCal-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/ec/04/beec04e1-b238-a6ec-7efd-2dec34c65b21/BusyCal-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
+      "bundleId": "com.busymac.BusyCaliOS",
       "minimumOsVersion": "18.0",
+      "price": 9.99,
+      "genres": [
+        "Produktivität",
+        "Wirtschaft"
+      ],
+      "artistId": 409966805,
+      "artistName": "Busy Apps FZE",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseDate": "2016-06-22T04:44:45Z",
+      "releaseNotes": "· [NEU] Siri-KI und Kurzbefehle wurden verbessert und erweitert.\n· [NEU] Die erweiterte Farbpalette und eigene Ereignisfarben von Google Calendar werden nun unterstützt.\n· [NEU] Unter Einstellungen > Neue Ereignis-Standardwerte legen Sie nun fest, ob beim Tippen auf + ein Ereignis oder eine Aufgabe entsteht, statt die automatische Auswahl zu nutzen.\n· [NEU] Fügen Sie Gäste zu Google-Meetings hinzu, zu denen Sie eingeladen sind, sofern der Organisator dies erlaubt.\n· [NEU] Im Jahresplaner lassen sich Wochentage monatsübergreifend wie im Wandplaner ausrichten. Drehen Sie das Gerät ins Querformat, um die Option Jahresansicht zu sehen.\n· [NEU] Die Einstellungen wurden neu gestaltet und verbessert.\n· [NEU] Bei der neu gestalteten Ersteinrichtung können Sie Ihre Konten schneller hinzufügen.\n· [NEU] In den Einstellungen können Sie Konten neu ordnen, damit die Kalender eines Kontos über denen eines anderen stehen.\n· [NEU] Beim Bearbeiten einer Kalendergruppe können Sie Kalender und Konten direkt umordnen und je Konto „Alphabetisch sortieren“ wählen.\n· [NEU] In den Einstellungen wählen Sie, wie Telefonnummern in Ereignisanmerkungen angerufen werden, etwa mit FaceTime, WhatsApp, Google Voice oder Zoom.\n· [NEU] Das Menü „Im Kalender blockieren“ bietet nun „Blockierung entfernen“ und markiert per Häkchen die Kalender, in denen das Ereignis bereits blockiert ist.\n· [NEU] Die Einstellung „Ganztägige Aufgaben einbeziehen“ blendet ganztägige Aufgaben im Kalender ein oder aus.\n· [NEU] Für Todoist-Konten gibt es nun „Anderen zugewiesene Aufgaben ausblenden“.\n· [NEU] Russisch wird nun unterstützt.\n· Die Synchronisation mit Google Calendar ist bei Meetings, Einladungsantworten und geteilten Kalendern insgesamt zuverlässiger.\n· Die Sperrfunktion wurde verbessert: Ist Face ID nicht verfügbar, können Sie BusyCal nun mit dem Gerätecode sperren und entsperren.\n· Die Aufgabenliste nutzt nun die Kalenderreihenfolge aus Einstellungen > Konto > Kalender. Dort können Sie Kalender auch alphabetisch sortieren.\n· WebDAV-Kalendertitel erscheinen nun in der Kontenübersicht.\n· Der Kalenderimport verarbeitet ungültige .ics-Dateien nun besser.\n· Die Ortssuche außerhalb Ihrer aktuellen Umgebung wurde verbessert.\n· Startzeiten und Speichernutzung wurden optimiert.\n· Antworten auf Meetings werden bei Office 365-Konten besser verarbeitet.\n· Die Monatsansicht scrollt flüssiger, auch an Tagen mit Ereignisgrafiken.\n· Beim CSV-Export gibt es nun die Option „Alles auswählen“.\n· Beim Öffnen der App oder Ansichtswechsel springt der Kalender nicht mehr zum falschen Datum.\n· Aufgaben aus Google Tasks wechseln nun auch in BusyCal in ihre neue Liste, wenn sie in Google verschoben werden.\n· Besprechungseinladungen für Microsoft 365- und Outlook-Konten erscheinen nun auch im Posteingang, wenn sie an Gruppen oder Verteilerlisten gesendet wurden.\n· Temperaturen erscheinen nicht mehr am falschen Datum.\n· Nach erteiltem Standortzugriff erscheint die Vorhersage nun ohne erneutes Öffnen der App.\n· Stabilität und Leistung werden weiter verbessert.",
+      "trackId": 1035689743,
+      "trackName": "BusyCal: Kalender & To-Dos",
+      "currentVersionReleaseDate": "2026-09-13T12:51:58Z",
+      "version": "6.7.4",
+      "wrapperType": "software",
+      "currency": "EUR",
+      "description": "BusyCal ist eine leistungsstarke, flexible Kalender-App zum Verwalten von Terminen, Ereignissen und Aufgaben.\n\nZu den einzigartigen Funktionen von BusyCal zählen anpassbare Kalenderansichten, integrierte Aufgaben, Besprechungsplanung, Reisezeit, Kartenintegration, Eingabe in natürlicher Sprache, Tags, Alarme, Suche, Wetter, Monde, Geburtstage, Jahrestage, Grafiken und mehr.\n\nBusyCal bietet zuverlässige Unterstützung für iCloud, Google-Kalender, Exchange, Microsoft Outlook, Office 365 und andere CalDAV-Server, sodass Sie Kalender mit anderen Mac- und iOS-Geräten mit BusyCal oder der integrierten Kalender-App synchronisieren und freigeben können.\n\nBusyCal für iOS ist ein voll ausgestatteter mobiler Begleiter von BusyCal für macOS, der führenden Kalenderlösung für macOS, der Tausende von Benutzern seit Jahren vertrauen und auf die sie sich verlassen.\n\nKalenderansichten\n\n• Lassen Sie sich Ihren Kalender in Monats-, Wochen-, Tages- oder Listenansicht anzeigen.\n• Ziehen und Zoomen Sie zum Steuern der Anzahl der pro Monat angezeigten Wochen und der pro Woche angezeigten Tage.\n• Passen Sie das Erscheinungsbild des Kalenders an, einschließlich der Kalenderfarben, des Wetters, der Monde, der Geburtstage, der Jahrestage, der Ereigniszeiten, der Wochennummern und mehr.\n\nPasswortschutz\n\n• Verbesserter Datenschutz mit der Option, alle Ihre Kalendersets oder nur die von Ihnen gewählten zu sperren\n\nEreignisse\n\n• Erstellen Sie Ereignisse manuell oder automatisch in natürlicher Sprache.\n• Wählen Sie aus einer Vielzahl von Attributen, die bei der Ansicht oder beim Bearbeiten von Ereignissen angezeigt werden sollen, einschließlich der Reisezeit, der Zeitzonen, der Teilnehmer, der Kontakte, der Tags, der Karten, des Zeitpunkts der letzten Bearbeitung und mehr.\n• Fügen Sie Tags zu Ereignissen hinzu, um Projekte und wichtige Ereignisse zu verfolgen.\n\nAufgaben\n\n• Aufgaben werden direkt im Kalender angezeigt und bis zur Erledigung übertragen.\n• Aufgaben können undatiert oder für ein bestimmtes Datum oder eine bestimmte Uhrzeit geplant werden.\n• Aufgaben können so geplant werden, dass sie täglich, wöchentlich, monatlich usw. wiederholt werden.\n• Aufgaben können nach Datum, Priorität, Kalender oder Titel sortiert und gefiltert werden.\n\nReisezeit, Standorte und Karten\n\n• Unterstützt Standortdienste zum Hinzufügen von Standorten zu Ereignissen.\n• Unterstützt sowohl Apple Maps als auch Google Maps für Wegbeschreibungen.\n• Reisezeit ermöglicht es Ihnen, die Wegzeit zu einem Termin einzutragen.\n• Alarme können Sie vor der Reisezeit warnen, wenn es Zeit zum Aufbruch ist.\n\nPersonalisierung\n\n• Lassen Sie sich Geburtstage und Jahrestage anzeigen, einschließlich des Geburtstagsalters und der Anzahl an Jahrestagen.\n• Lassen Sie sich eine 10-Tage-Live-Wettervorhersage anzeigen.\n• Lassen Sie sich Mondphasen anzeigen.\n• Lassen Sie sich Grafiken anzeigen, die in BusyCal für macOS erstellt wurden.\n\nSynchronisieren und Teilen von Kalendern\n\n• Synchronisieren und teilen Sie Kalender mit iCloud, Google Kalender, Exchange, Microsoft Outlook, Office 365, Fruux, Yahoo, Kerio, Zimbra, OS X Server, SabreDAV und anderen CalDAV-Servern.\n• Synchronisieren Sie mit anderen Mac- und iOS-Geräten, auf denen BusyCal oder die integrierte Kalender-App ausgeführt wird.\n\nMehr\n\n• Dunkelmodus\n• Erhalten Sie Posteingang-Benachrichtigungen über Besprechungen und Änderungen an Ereignissen in freigegebenen Kalendern.\n• Durchsuchen Sie Ihren Kalender nach vergangenen und zukünftigen Ereignissen und Aufgaben.\n• Legen Sie Standardeinstellungen für Ereignisse, Aufgaben und Alarme fest.",
+      "averageUserRatingForCurrentVersion": 4.49464,
       "sellerUrl": "https://www.busymac.com",
       "languageCodesISO2A": [
         "NL",
@@ -173,41 +195,22 @@
         "ZH",
         "ES"
       ],
-      "fileSizeBytes": "126987264",
+      "fileSizeBytes": "127669248",
       "formattedPrice": "9,99 €",
-      "userRatingCountForCurrentVersion": 1115,
+      "userRatingCountForCurrentVersion": 1120,
       "trackContentRating": "4+",
-      "artistId": 409966805,
-      "artistName": "Busy Apps FZE",
-      "genres": [
-        "Produktivität",
-        "Wirtschaft"
-      ],
-      "price": 9.99,
-      "bundleId": "com.busymac.BusyCaliOS",
-      "releaseDate": "2016-06-22T04:44:45Z",
-      "releaseNotes": "· [NEW] Siri and Shortcuts related improvements and additions\n· [NEW] New option in Settings  New Event Defaults to choose whether tapping the + button creates an event or a task, instead of the automatic default\n· [NEW] Add guests to Google meetings you've been invited to, when the organizer allows it\n· [NEW] New Year Planner option to align weekdays across months, wall-planner style. Rotate to landscape to see Year View option\n· [NEW] New and improved settings screen\n· [NEW] Redesigned first-run setup, making it quicker to add your accounts when you start out\n· [NEW] New option to reorder accounts from Settings, so calendars from one account can be listed above another\n· [NEW] Rearrange calendars and accounts directly from a Calendar Set's edit screen, with a Sort Alphabetically option for each account\n· [NEW] New setting to choose how phone numbers in event notes are called, including FaceTime, WhatsApp, Google Voice and Zoom\n· [NEW] New Remove Blocking command in the Block on Calendar menu, which now also checkmarks the calendars an event is already blocked on\n· [NEW] New Include All-Day Tasks setting to show or hide all-day tasks in the calendar\n· [NEW] Hide tasks assigned to others setting for Todoist accounts\n· [NEW] Added Russian localization\n· Improved overall reliability of Google Calendar syncing for meetings, RSVPs, and shared calendars\n· Improvements to the lock feature; you can now lock and unlock BusyCal with your device passcode when Face ID is not available\n· Calendar sorting within the Task List now uses the same calendar order visible in Settings  Account  Calendars. Calendars can be sorted alphabetically from the same settings screen\n· WebDAV Calendar Titles are now visible in the main Accounts screen\n· Improved calendar imports to better handle invalid .ics files\n· Improved location searches for places outside your current area\n· Optimizations to launch times and memory usage\n· Improved handling of meeting responses on Office 365 accounts\n· Smoother scrolling in Month view, including days with event graphics\n· Export to CSV now has a Select All option\n· Fixed the calendar landing on the wrong date when opening the app or switching between views\n· Fixed Google Tasks not moving to their new list in BusyCal when moved in Google\n· Fixed meeting invitations on Microsoft 365 and Outlook accounts not appearing in the Inbox when the invite was sent to a group or distribution list\n· Fixed an issue where temperatures could appear on the wrong date\n· Fixed the forecast not appearing until the app was reopened after allowing access to your location\n· Ongoing stability and performance enhancements",
-      "currentVersionReleaseDate": "2026-09-06T16:35:35Z",
-      "trackId": 1035689743,
-      "trackName": "BusyCal: Kalender & To-Dos",
-      "sellerName": "Busy Apps FZE",
-      "primaryGenreName": "Productivity",
-      "primaryGenreId": 6007,
+      "averageUserRating": 4.49464,
+      "trackCensoredName": "BusyCal: Kalender & To-Dos",
+      "trackViewUrl": "https://apps.apple.com/de/app/busycal-kalender-to-dos/id1035689743?uo=4",
+      "contentAdvisoryRating": "4+",
       "genreIds": [
         "6007",
         "6000"
       ],
-      "isVppDeviceBasedLicensingEnabled": true,
-      "version": "6.6.5",
-      "wrapperType": "software",
-      "currency": "EUR",
-      "description": "BusyCal ist eine leistungsstarke, flexible Kalender-App zum Verwalten von Terminen, Ereignissen und Aufgaben.\n\nZu den einzigartigen Funktionen von BusyCal zählen anpassbare Kalenderansichten, integrierte Aufgaben, Besprechungsplanung, Reisezeit, Kartenintegration, Eingabe in natürlicher Sprache, Tags, Alarme, Suche, Wetter, Monde, Geburtstage, Jahrestage, Grafiken und mehr.\n\nBusyCal bietet zuverlässige Unterstützung für iCloud, Google-Kalender, Exchange, Microsoft Outlook, Office 365 und andere CalDAV-Server, sodass Sie Kalender mit anderen Mac- und iOS-Geräten mit BusyCal oder der integrierten Kalender-App synchronisieren und freigeben können.\n\nBusyCal für iOS ist ein voll ausgestatteter mobiler Begleiter von BusyCal für macOS, der führenden Kalenderlösung für macOS, der Tausende von Benutzern seit Jahren vertrauen und auf die sie sich verlassen.\n\nKalenderansichten\n\n• Lassen Sie sich Ihren Kalender in Monats-, Wochen-, Tages- oder Listenansicht anzeigen.\n• Ziehen und Zoomen Sie zum Steuern der Anzahl der pro Monat angezeigten Wochen und der pro Woche angezeigten Tage.\n• Passen Sie das Erscheinungsbild des Kalenders an, einschließlich der Kalenderfarben, des Wetters, der Monde, der Geburtstage, der Jahrestage, der Ereigniszeiten, der Wochennummern und mehr.\n\nPasswortschutz\n\n• Verbesserter Datenschutz mit der Option, alle Ihre Kalendersets oder nur die von Ihnen gewählten zu sperren\n\nEreignisse\n\n• Erstellen Sie Ereignisse manuell oder automatisch in natürlicher Sprache.\n• Wählen Sie aus einer Vielzahl von Attributen, die bei der Ansicht oder beim Bearbeiten von Ereignissen angezeigt werden sollen, einschließlich der Reisezeit, der Zeitzonen, der Teilnehmer, der Kontakte, der Tags, der Karten, des Zeitpunkts der letzten Bearbeitung und mehr.\n• Fügen Sie Tags zu Ereignissen hinzu, um Projekte und wichtige Ereignisse zu verfolgen.\n\nAufgaben\n\n• Aufgaben werden direkt im Kalender angezeigt und bis zur Erledigung übertragen.\n• Aufgaben können undatiert oder für ein bestimmtes Datum oder eine bestimmte Uhrzeit geplant werden.\n• Aufgaben können so geplant werden, dass sie täglich, wöchentlich, monatlich usw. wiederholt werden.\n• Aufgaben können nach Datum, Priorität, Kalender oder Titel sortiert und gefiltert werden.\n\nReisezeit, Standorte und Karten\n\n• Unterstützt Standortdienste zum Hinzufügen von Standorten zu Ereignissen.\n• Unterstützt sowohl Apple Maps als auch Google Maps für Wegbeschreibungen.\n• Reisezeit ermöglicht es Ihnen, die Wegzeit zu einem Termin einzutragen.\n• Alarme können Sie vor der Reisezeit warnen, wenn es Zeit zum Aufbruch ist.\n\nPersonalisierung\n\n• Lassen Sie sich Geburtstage und Jahrestage anzeigen, einschließlich des Geburtstagsalters und der Anzahl an Jahrestagen.\n• Lassen Sie sich eine 10-Tage-Live-Wettervorhersage anzeigen.\n• Lassen Sie sich Mondphasen anzeigen.\n• Lassen Sie sich Grafiken anzeigen, die in BusyCal für macOS erstellt wurden.\n\nSynchronisieren und Teilen von Kalendern\n\n• Synchronisieren und teilen Sie Kalender mit iCloud, Google Kalender, Exchange, Microsoft Outlook, Office 365, Fruux, Yahoo, Kerio, Zimbra, OS X Server, SabreDAV und anderen CalDAV-Servern.\n• Synchronisieren Sie mit anderen Mac- und iOS-Geräten, auf denen BusyCal oder die integrierte Kalender-App ausgeführt wird.\n\nMehr\n\n• Dunkelmodus\n• Erhalten Sie Posteingang-Benachrichtigungen über Besprechungen und Änderungen an Ereignissen in freigegebenen Kalendern.\n• Durchsuchen Sie Ihren Kalender nach vergangenen und zukünftigen Ereignissen und Aufgaben.\n• Legen Sie Standardeinstellungen für Ereignisse, Aufgaben und Alarme fest.",
-      "averageUserRating": 4.49417,
-      "averageUserRatingForCurrentVersion": 4.49417,
-      "trackCensoredName": "BusyCal: Kalender & To-Dos",
-      "trackViewUrl": "https://apps.apple.com/de/app/busycal-kalender-to-dos/id1035689743?uo=4",
-      "contentAdvisoryRating": "4+",
-      "userRatingCount": 1115,
+      "sellerName": "Busy Apps FZE",
+      "primaryGenreName": "Productivity",
+      "primaryGenreId": 6007,
+      "userRatingCount": 1120,
       "country": "DEU"
     }
   ]

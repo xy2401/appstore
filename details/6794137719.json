@@ -3,7 +3,9 @@
   "results": [
     {
       "isGameCenterEnabled": false,
-      "advisories": [],
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -131,9 +133,16 @@
         "iPadAir11M4-iPadAir11M4",
         "iPadAir11M4Cellular-iPadAir11M4Cellular",
         "iPadAir13M4-iPadAir13M4",
-        "iPadAir13M4Cellular-iPadAir13M4Cellular"
+        "iPadAir13M4Cellular-iPadAir13M4Cellular",
+        "iPhone18Pro-iPhone18Pro",
+        "iPhone18ProMax-iPhone18ProMax",
+        "iPhoneDuo-iPhoneDuo"
       ],
+      "advisories": [],
       "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/gb/developer/audiokit-pro/id1307785645?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/8b/6b/388b6b6a-9051-a456-3e2d-633ed35e1984/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/8b/6b/388b6b6a-9051-a456-3e2d-633ed35e1984/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/32/a1/d3/32a1d393-01ad-554f-6fc2-2b46d42ef709/Simulator_Screenshot_-_iPhone_13_Pro_Max_-_2026-07-27_at_12.06.22.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6d/10/68/6d1068ff-0c4a-bc63-d5cd-ecb55b0484a1/Simulator_Screenshot_-_iPhone_13_Pro_Max_-_2026-07-27_at_12.05.49.png/320x480bb.jpg",
@@ -159,13 +168,7 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/66/b4/24/66b4247f-8a41-5046-b795-308e1ef17438/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2026-07-27_at_10.22.17.png/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/07/22/2b0722e1-9505-46e4-1196-1c8947d45f69/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/gb/developer/audiokit-pro/id1307785645?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/07/22/2b0722e1-9505-46e4-1196-1c8947d45f69/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/07/22/2b0722e1-9505-46e4-1196-1c8947d45f69/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/8b/6b/388b6b6a-9051-a456-3e2d-633ed35e1984/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "artistId": 1307785645,
       "artistName": "AudioKit Pro",
       "genres": [
@@ -173,39 +176,39 @@
         "Education"
       ],
       "price": 4.99,
-      "releaseDate": "2026-08-25T07:00:00Z",
-      "trackName": "Super 606 Drums - Drum Machine",
       "trackId": 6794137719,
+      "trackName": "Super 606 Drums - Drum Machine",
+      "sellerName": "AudioKit Pro, LLC",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "primaryGenreName": "Music",
+      "primaryGenreId": 6011,
+      "releaseDate": "2026-08-25T07:00:00Z",
+      "currentVersionReleaseDate": "2026-09-10T20:14:05Z",
+      "releaseNotes": "THANKS EVERYONE! MASSIVE FREE UPDATE:\n\nHI-HAT BONANZA!\n• LINK YOUR HATS: You can now link the Open and Closed Hi-Hats so Tune, Pan, Volume, and other settings stay matched. Find the new options by tapping the HAT header with the down arrow in the Tuner or Mixer panels.\n• NEW T-06 HI-HATS: A new hi-hat model inspired by a vintage 1981 unit. They have their own character, use even less CPU, and the synthesis code is open source too!\n\n• METRONOME?!\nYes! SUPER 606 now includes an optional metronome for Drum Pad recording in standalone mode.\nTurn it on in Standalone Options and choose from three different metronome sounds.\n\nThe original hardware didn't have a metronome, but some of you really love metronomes, so here it is! When using SUPER 606 as an AUv3, simply use your host's metronome.\n\n• MIDI TRANSPORT RECEIVE: Standalone can now receive MIDI Start/Stop. Turn it on to start, stop, and sync SUPER 606 with your other MIDI gear. MIDI Note transport start/stop still works as well in AUv3 and standalone. This is to receive a pure MIDI transport signal that some gear sends. \n\n• MIDI OUT LOCK: MIDI Out settings are saved with each preset. Want to keep the same MIDI Out setup while browsing sounds? Tap the new Lock toggle and your MIDI Out choices will stay put.\n\n• AUv3 IMPROVEMENTS: The bottom Sequence Picker is now visible on iPad even when you're not using the two-panel layout, and more.\n\n• MAJOR DSP OPTIMIZATIONS:\nWe've been digging deep into the drum synthesis code.\n• Up to 3x CPU performance improvement on some presets\n• T-06 Hi-Hats can save even more CPU compared with the original hat model\n• More DSP optimizations are already in progress, stay tuned!\n\nMORE OPEN-SOURCE DSP!\nThe optimized Clap and Hi-Hat synthesis code, with roughly 2.5x to 3x performance improvements, has been added to the SUPER 606 open-source library.\n\nYou're free to use the synth DSP from this app in your own projects:\nhttps://github.com/analogcode/606-Inspired-Synth-Drums\n\nAnd, as always, lots more fixes, tweaks, and improvements throughout!\nMORE COMING SOON!",
+      "version": "1.2",
+      "wrapperType": "software",
+      "currency": "GBP",
+      "description": "CLASSIC DRUM MACHINE  *Roland Cloud and TR-606 are trademarks of Roland Corporation. SUPER 606 is not affiliated with or endorsed by Roland Corporation. \n\n\"Fun and Instantly Inspiring!\" — The GarageBand Guide\n\"Authentic, all-synthesis-based TR-606 emulation for iOS” — Synth Anatomy\n\n\"ICONIC... SUPER 606 Drums DESERVES a spot on your iPhone or iPad!\" —  Beat Community Blog\n\"I have the Roland Cloud TR-606 as a plugin, and I compared them. There are no significant, audible differences. In my opinion, SUPER 606 nailed them in this comparison.\"  — Synth Anatomy\n\nGive your music movement and life! \n\nLIKE EXPENSIVE HARDWARE:\n• TAP Your Beat: Drum Pad pattern recording with accent/dull toggle\n• MULTI-OUTPUTS available for each Drum track in AUv3 mode\n• FLAMS: All nine 606-style types, plus a traditional ahead-of-the-beat Flam mode\n• HARDWARE-inspired down to the details: Advanced 606 features, and thoughtful touches throughout.\n• ANALOG dials in variations, including analog pitch drift and humanization\n• LAST STEP for each track, create evolving Polyrhythms\n\nWATCH VIDEO:\naudiokitpro.com/super606\n\n\"INCREDIBLE, Get this App!\" \n— Jade Starr Youtube\n\nPRO-FEATURES:\n• MIDI OUT: Send MIDI to other devices and your AUv3 Host\n• CLOCK SYNC: MIDI Clock, Ableton Link, AUv3, or Internal\n• MPC-STYLE SWING, Inspired by Roger Linn\n• RATCHETS: 606-style Substeps in 2x, 3x, and 4x \n• Triplets/beat divisions. Make 3/4 timing the classic way!\n• XL KICK mode: More melodic, Beefier \"608\" Kick Mode\n\nTogether, they make SUPER 606 feel alive. \n\nEASY WORKFLOW! ONE-TAP EXPORT:\n• Export MIDI for current pattern or the full sequence with one button\n• Export STEMS for easy professional mixing and sharing\n• Export WAV Loops, with or without FX Tails\n\nMAGIC PATTERN GENERATOR:\nTap it and start making unlimited drum patterns. \n• MAGIC PRESET MAKER creates a cohesive sound, FX profile, groove, and tempo\n• SMART FILLS button analyzes your current beat and creates a fill that fits\nNo prompts, no shared data, no cloud generation. Everything runs on your device.\n\nINSPIRING FX: \n• DELAY: Hardware 606-style delay, with per-drum routing\n• HEAT: Overdrive fine-tuned for a drum machine, hats/cymbals remain musical\n• REVERB: Epic Reverb with lo-cut, per-drum routing\n• FILTER: Moog-Inspired \n• MANGLE: Crusher with lo-end bypass\n\nMORE:\nIn addition to EXPORT options above:\n• RECORD standalone performances directly to WAV. SUPER 606 captures your performances. No other apps required. \n• IMPORT MIDI from your DAW and edit your beats on the go!\n• AUv3 WORKFLOW: Full Mobile host transport sync, complete state recall, a stereo main mix, and eight individual drum outputs.\n• Includes Standalone iPhone, iPad, and mobile AUv3 versions for one low price. \n\nINDEPENDENT SEQUENCE MANAGEMENT:\n• Save and organize sequences independently from sound presets\n• Import MIDI or SUPER 606 formats into Sequence banks\n• Custom banks, favorites, search, and sharing\n\nMORE: \n• Eight chain-able A–H patterns per sequence, inspired by the Hardware\n• Per-track Swing: Every drum can have its own Swing settings!\n• Per-step normal, ghost/dull, and accent levels\n• Four rhythmic grid modes: 16th notes, 32nd notes, 8th-note triplets, 16th-note triplets. \n• 16th and 32nd notes in same screen. Ie. Hi-Hats 32nd notes while Snare 16th.\n• Control app with MIDI + MIDI Learn \n\nOPEN-SOURCE:\nGet the free new XL 606 Kick Drum, Snare, Clap, Toms, Hi-Hat code:\nhttps://github.com/analogcode/606-Inspired-Synth-Drums\n\nYes, we're giving away the secret sauce. Make your own 606 drum machine!\n\nLEGAL STUFF:\n* Roland, Roland Cloud, and TR-606 are trademarks or registered trademarks of Roland Corporation. SUPER 606 is an independent original instrument inspired by classic drum synthesis and sequencing workflows. It is not affiliated with, authorized, sponsored, or endorsed by Roland Corporation. All other trademarks are the property of their respective owners.",
+      "trackCensoredName": "Super 606 Drums - Drum Machine",
+      "trackViewUrl": "https://apps.apple.com/gb/app/super-606-drums-drum-machine/id6794137719?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 5,
+      "bundleId": "com.audiokitpro.analog606",
+      "minimumOsVersion": "15.6",
+      "averageUserRatingForCurrentVersion": 5,
+      "sellerUrl": "https://audiokitpro.com/super606",
+      "userRatingCountForCurrentVersion": 34,
+      "trackContentRating": "4+",
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "fileSizeBytes": "58163200",
+      "formattedPrice": "£4.99",
       "genreIds": [
         "6011",
         "6017"
       ],
-      "primaryGenreName": "Music",
-      "primaryGenreId": 6011,
-      "sellerName": "AudioKit Pro, LLC",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-09-02T15:29:58Z",
-      "releaseNotes": "• NEW: MIDI Out. SUPER 606 can now send its patterns, drum pads, or its individual drum hits to your DAW or anything that can receive MIDI!\n• FIXED: AUv3 state now saves and restores correctly in GarageBand and Logic Pro\n• FIXED: The first beat no longer drops in GarageBand when Count-In is on.\n\n• MIDI Out has three modes. Set it on the About page. \nThe MIDI Out setting is saved with each preset and with the AUv3 state.\n\n1. \"Drum Notes\" MIDI Out\nSends every drum hit as a MIDI note.\nNote: if your DAW plays those notes back into SUPER 606 while its internal pattern is also running, you will hear doubled hits. \n\nTo avoid that, do one of the following:\n• Loop SUPER 606 on an empty pattern\n• Send note #33 (A0), Transport Stop, before the DAW plays its notes, so the internal pattern stays stopped\n• Use Pattern MIDI Out instead\n\n2. \"Pattern Changes\" MIDI Out\nThe most authentic groove: SUPER 606 plays its own patterns and your DAW triggers the pattern changes. That way, the internal groove engine can do its thing and you keep more of that little timing magic and mojo.\nPattern changes: notes 24–31 (C0–G0)\nModes 1 & 2 both send Drum Pad MIDI as well.\n\n3. MIDI Out Off: both buttons toggled off.\n---\nGARAGEBAND for iOS\nGarageBand records MIDI Out with no extra setup. \nPlus you can easily turn that MIDI into audio inside GarageBand, choose \"Merge\" on the 606 track.\n\nLOGIC PRO for iPad\nLogic records a plug-in's MIDI onto a second track, not the 606 track. Add a second software instrument track and select it. Open the Inspector (second icon at the bottom left, two stacked horizontal faders). Set \"Internal MIDI In\" to \"Instrument Output\" and choose 606 Drums. Set Record to Internal MIDI In. Record-enable the second track and press Record.\n\nNot a Logic power user? It is often easier to export MIDI or Audio with one tap in the app: use the Share icon at the top, second from the right.\n\nAnd remember to avoid double hits.",
-      "version": "1.1",
-      "wrapperType": "software",
-      "currency": "GBP",
-      "description": "CLASSIC DRUM MACHINE \n*Roland Cloud and TR-606 are trademarks of Roland Corporation. SUPER 606 is not affiliated with or endorsed by Roland Corporation. \n\n\"Fun and Instantly Inspiring!\" — The GarageBand Guide\n\"Authentic, all-synthesis-based TR-606 emulation for iOS” — Synth Anatomy\n\n\"ICONIC... SUPER 606 Drums DESERVES a spot on your iPhone or iPad!\" —  Beat Community Blog\n\n\"I have the Roland Cloud TR-606 as a plugin, and I compared them. There are no significant, audible differences. In my opinion, SUPER 606 nailed them in this comparison. — Synth Anatomy\n\nGive your music movement and life! \n\nLIKE EXPENSIVE HARDWARE:\n• TAP Your Beat: Drum Pad pattern recording with accent/dull toggle\n• MULTI-OUTPUTS available for each Drum track in AUv3 mode\n• FLAMS: All nine 606-style types, plus a traditional ahead-of-the-beat Flam mode\n• HARDWARE-inspired down to the details: Advanced 606 features, and thoughtful touches throughout.\n• ANALOG dials in variations, including analog pitch drift and humanization\n• LAST STEP for each track, create evolving Polyrhythms\n\nWATCH VIDEO:\naudiokitpro.com/super606\n\n\"INCREDIBLE, Get this App!\" — Jade Starr Youtube\n\nPRO-FEATURES:\n• CLOCK SYNC: MIDI Clock, Ableton Link, AUv3, or Internal\n• MPC-STYLE SWING, Inspired by Roger Linn\n• RATCHETS: 606-style Substeps in 2x, 3x, and 4x \n• Triplets/beat divisions. Make 3/4 timing the classic way!\n• XL KICK mode: More melodic, Beefier \"608\" Kick Mode\n\nTogether, they make SUPER 606 feel alive. \n\nEASY WORKFLOW! ONE-TAP EXPORT:\n• Export MIDI for current pattern or the full sequence with one button\n• Export STEMS for easy professional mixing and sharing\n• Export WAV Loops, with or without FX Tails\n\nMAGIC PATTERN GENERATOR:\nTap it and start making unlimited drum patterns. \n• MAGIC PRESET MAKER creates a cohesive sound, FX profile, groove, and tempo\n• SMART FILLS button analyzes your current beat and creates a fill that fits\nNo prompts, no shared data, no cloud generation. Everything runs on your device.\n\nINSPIRING FX: \n• DELAY: Hardware 606-style delay, with per-drum routing\n• HEAT: Overdrive fine-tuned for a drum machine, hats/cymbals remain musical\n• REVERB: Epic Reverb with lo-cut, per-drum routing\n• FILTER: Moog-Inspired \n• MANGLE: Crusher with lo-end bypass\n\nMORE:\nIn addition to EXPORT options above:\n• RECORD standalone performances directly to WAV. SUPER 606 captures your performances. No other apps required. \n• IMPORT MIDI from your DAW and edit your beats on the go!\n• AUv3 WORKFLOW: Full Mobile host transport sync, complete state recall, a stereo main mix, and eight individual drum outputs.\n• Includes Standalone iPhone, iPad, and mobile AUv3 versions for one low price. \n\nINDEPENDENT SEQUENCE MANAGEMENT:\n• Save and organize sequences independently from sound presets\n• Import MIDI or SUPER 606 formats into Sequence banks\n• Custom banks, favorites, search, and sharing\n\nMORE: \n• Eight chain-able A–H patterns per sequence, inspired by the Hardware\n• Per-track Swing: Every drum can have its own Swing settings!\n• Per-step normal, ghost/dull, and accent levels\n• Four rhythmic grid modes: 16th notes, 32nd notes, 8th-note triplets, 16th-note triplets. \n• 16th and 32nd notes in same screen. Ie. Hi-Hats 32nd notes while Snare 16th.\n• Control app with MIDI + MIDI Learn \n\nOPEN-SOURCE:\nGet the free new XL 606 Kick Drum, Snare, Clap, Toms, Hi-Hat code:\nhttps://github.com/analogcode/606-Inspired-Synth-Drums\n\nYes, we're giving away the secret sauce. Make your own 606 drum machine!\n\nLEGAL STUFF:\n* Roland, Roland Cloud, and TR-606 are trademarks or registered trademarks of Roland Corporation. SUPER 606 is an independent original instrument inspired by classic drum synthesis and sequencing workflows. It is not affiliated with, authorized, sponsored, or endorsed by Roland Corporation. All other trademarks are the property of their respective owners.\n** RD-6, etc are trademarks or registered trademarks of Behringer. SUPER 606 is not affiliated with or endorsed by Behringer.",
-      "minimumOsVersion": "15.6",
-      "userRatingCountForCurrentVersion": 30,
-      "sellerUrl": "https://audiokitpro.com/super606",
-      "languageCodesISO2A": [
-        "EN"
-      ],
-      "fileSizeBytes": "50784256",
-      "formattedPrice": "£4.99",
-      "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 5,
-      "trackCensoredName": "Super 606 Drums - Drum Machine",
-      "trackViewUrl": "https://apps.apple.com/gb/app/super-606-drums-drum-machine/id6794137719?uo=4",
-      "contentAdvisoryRating": "4+",
-      "bundleId": "com.audiokitpro.analog606",
-      "averageUserRating": 5,
-      "userRatingCount": 30,
+      "userRatingCount": 34,
       "country": "GBR"
     },
     {

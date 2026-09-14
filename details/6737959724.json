@@ -2,9 +2,6 @@
   "resultCount": 2,
   "results": [
     {
-      "artistViewUrl": "https://apps.apple.com/us/developer/edgar-sanchez/id1778600610?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/e2/17/a4e21704-b1ca-c102-cb02-de8b43c23656/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/e2/17/a4e21704-b1ca-c102-cb02-de8b43c23656/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/05/01/0a/05010afe-a170-5bfe-17c4-cd2efcaf93f9/Protego__U0023263-01Transform_framed.png/320x480bb.jpg",
@@ -28,9 +25,9 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/e2/17/a4e21704-b1ca-c102-cb02-de8b43c23656/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
+      "artistViewUrl": "https://apps.apple.com/us/developer/edgar-sanchez/id1778600610?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/e2/17/a4e21704-b1ca-c102-cb02-de8b43c23656/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/e2/17/a4e21704-b1ca-c102-cb02-de8b43c23656/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
       "supportedDevices": [
         "MacDesktop-MacDesktop",
         "iPhone5s-iPhone5s",
@@ -159,17 +156,21 @@
         "iPadAir11M4-iPadAir11M4",
         "iPadAir11M4Cellular-iPadAir11M4Cellular",
         "iPadAir13M4-iPadAir13M4",
-        "iPadAir13M4Cellular-iPadAir13M4Cellular"
+        "iPadAir13M4Cellular-iPadAir13M4Cellular",
+        "iPhone18Pro-iPhone18Pro",
+        "iPhone18ProMax-iPhone18ProMax",
+        "iPhoneDuo-iPhoneDuo"
+      ],
+      "features": [
+        "iosUniversal"
       ],
       "advisories": [],
       "kind": "software",
-      "trackCensoredName": "Protego for Reddit",
-      "trackViewUrl": "https://apps.apple.com/us/app/protego-for-reddit/id6737959724?uo=4",
+      "averageUserRatingForCurrentVersion": 4.59999,
+      "releaseNotes": "Protego 3.9 filters the one place it never reached: Reddit's search results.\n\nUntil now a keyword, community or user filter that hid a post everywhere else left the same post in plain sight the moment you searched for it. Search results are filtered like any other feed now, on new and old Reddit, with matches hidden and counted in your stats. Reddit's \"get the app\" panel could also freeze a page outright, with no close button and no way to scroll, and Protego lifts that freeze even on a panel it has never seen. VoiceOver reads Protego's confirmation messages aloud, and adding a domain points you at the ready-made filter that covers the whole site.\n\nNo account, no tracking, and your lists stay in your own iCloud.\n\nWHAT'S NEW:\n- Filtering on search results: your keyword, community and user filters now apply to Reddit's search pages, with matches hidden, counted in your stats, and announced by the same toast. Reveal Mode and Preview cover the surface too, so you can see what a filter would hide before you commit to it. A new-Reddit result carries no outbound link and no post body, so domain filters cannot apply there and keywords match the title and community name; old Reddit's results carry all four filter types.\n- A pointer to the filter that covers a whole site: several sites post links under more than one address, so a youtube.com filter on its own quietly misses everything arriving through youtu.be. Type a domain like that and Protego names the ready-made filter that covers both, in the add sheet and when you edit an entry. Your domain still saves normally.\n\nIMPROVEMENTS:\n- The \"Open in App\" nudges setting now also hides the app button inside Reddit's mature-content warning, where it sits above the two real choices. The warning itself still appears and still has to be answered.\n- Protego recognizes three more shapes of Reddit's app prompts, drawn from the public lists that ad-blockers maintain, so one we have not met in the wild is covered if it turns up.\n\nFIXES:\n- Reddit's \"get the app\" panel could cover a page with no close button and stop it scrolling, leaving force-quitting Safari as the only way out: Protego now recognizes the whole family of those panels, rather than the exact ones it had seen before.\n- Protego's confirmation messages were never read aloud by VoiceOver, so erasing your lists, importing one, or renaming a group gave no sign that anything had happened: every screen announces them now, confirmations and errors alike.",
       "contentAdvisoryRating": "4+",
       "averageUserRating": 4.59999,
-      "releaseNotes": "Protego 3.9 filters the one place it never reached: Reddit's search results.\n\nUntil now a keyword, community or user filter that hid a post everywhere else left the same post in plain sight the moment you searched for it. Search results are filtered like any other feed now, on new and old Reddit, with matches hidden and counted in your stats. Reddit's \"get the app\" panel could also freeze a page outright, with no close button and no way to scroll, and Protego lifts that freeze even on a panel it has never seen. VoiceOver reads Protego's confirmation messages aloud, and adding a domain points you at the ready-made filter that covers the whole site.\n\nNo account, no tracking, and your lists stay in your own iCloud.\n\nWHAT'S NEW:\n- Filtering on search results: your keyword, community and user filters now apply to Reddit's search pages, with matches hidden, counted in your stats, and announced by the same toast. Reveal Mode and Preview cover the surface too, so you can see what a filter would hide before you commit to it. A new-Reddit result carries no outbound link and no post body, so domain filters cannot apply there and keywords match the title and community name; old Reddit's results carry all four filter types.\n- A pointer to the filter that covers a whole site: several sites post links under more than one address, so a youtube.com filter on its own quietly misses everything arriving through youtu.be. Type a domain like that and Protego names the ready-made filter that covers both, in the add sheet and when you edit an entry. Your domain still saves normally.\n\nIMPROVEMENTS:\n- The \"Open in App\" nudges setting now also hides the app button inside Reddit's mature-content warning, where it sits above the two real choices. The warning itself still appears and still has to be answered.\n- Protego recognizes three more shapes of Reddit's app prompts, drawn from the public lists that ad-blockers maintain, so one we have not met in the wild is covered if it turns up.\n\nFIXES:\n- Reddit's \"get the app\" panel could cover a page with no close button and stop it scrolling, leaving force-quitting Safari as the only way out: Protego now recognizes the whole family of those panels, rather than the exact ones it had seen before.\n- Protego's confirmation messages were never read aloud by VoiceOver, so erasing your lists, importing one, or renaming a group gave no sign that anything had happened: every screen announces them now, confirmations and errors alike.",
       "sellerUrl": "https://getprotego.app",
-      "averageUserRatingForCurrentVersion": 4.59999,
       "languageCodesISO2A": [
         "EN",
         "PT",
@@ -179,50 +180,35 @@
       "formattedPrice": "$3.99",
       "userRatingCountForCurrentVersion": 25,
       "trackContentRating": "4+",
-      "artistId": 1778600610,
-      "artistName": "Edgar Sanchez",
+      "trackCensoredName": "Protego for Reddit",
+      "trackViewUrl": "https://apps.apple.com/us/app/protego-for-reddit/id6737959724?uo=4",
       "genres": [
         "Utilities"
       ],
-      "price": 3.99,
+      "artistId": 1778600610,
+      "artistName": "Edgar Sanchez",
+      "releaseDate": "2024-11-09T08:00:00Z",
+      "bundleId": "com.ArkonLabs.Protego",
       "genreIds": [
         "6002"
       ],
-      "isVppDeviceBasedLicensingEnabled": true,
-      "sellerName": "Edgar Sanchez",
       "primaryGenreName": "Utilities",
       "primaryGenreId": 6002,
-      "releaseDate": "2024-11-09T08:00:00Z",
-      "trackId": 6737959724,
-      "trackName": "Protego for Reddit",
+      "sellerName": "Edgar Sanchez",
+      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-09-03T04:34:44Z",
       "version": "3.9",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Add a keyword, a community, a user, or a domain, and matching posts quietly disappear from your feed. Protego is a Safari extension with a companion app, on iPhone, iPad, Mac, and Apple Vision Pro.\n\nWHY THE BROWSER:\nReddit belongs in your browser. The official app is built to keep you scrolling; in Safari, you decide what Reddit shows you, and Protego does the filtering. No notifications pulling you back, no \"get the app\" walls, and no Reddit app on your phone collecting in the background.\n\nFILTER WHAT YOU CHOOSE:\n- Keywords - Hide posts whose title, body, or community name matches a word or phrase\n- Communities - Hide everything from a community, or block its page entirely\n- Users - Hide one person's posts and comments\n- Domains - Hide posts linking to a particular site\n- Social Media - Hide posts linking to X, Instagram, TikTok, and more\nKeywords go further: * matches a word and its variations, # matches any 1 to 3 digit number, and groups switch a whole set on or off at once. Any filter can be switched off without deleting it.\nSee it working: Reveal Mode outlines every post a filter would hide instead of hiding it, and Preview tries a keyword before you save it.\n\nSET UP IN ONE TAP:\nPick a preset (Off, Minimal, Balanced, or Focused) and Protego applies a recommended set of options, stripping out distractions to bring new Reddit closer to the old one. Fine-tune anything afterward.\n\nCLEAR AWAY THE CLUTTER:\n- Hide thumbnails, avatars, flair, badges, vote controls, award and join buttons, and community banners\n- Hide recommendations, promoted posts, login and app nudges, and Reddit Answers\n- Hide the strip of pinned highlight cards above a community's feed\n- Collapse or hide comments carrying media, and the moderator comment pinned to the top of a thread\n\nMAKE REDDIT EASIER TO USE:\n- Color-code comment threads by reply depth, with four themes to pick from\n- Jump between comments by reply depth, and return to the top of a thread in one tap\n- Open comment pages with every reply chain folded away\n- Open posts from a feed in a new tab, so the feed keeps your place\n- Bring back who posted on the home, popular, and news feeds\n- Skip Reddit's For You home test and return to Following (experimental)\n- Land on old Reddit automatically, with an endless feed\n- Give old Reddit the dark theme it has never had, and drop communities' custom styling\n\nPUT REDDIT OUT OF REACH:\nFiltering hides what you do not want to see. Limits goes further and blocks Reddit itself, a step at a time: Home and Popular first, then all main feeds, then everything but direct links to posts, then all of Reddit. Pair a limit with a Focus like Sleep or Study and it turns itself on.\n\nPRIVACY:\nNo account, no tracking, no browsing history collected. Your filter lists stay on your devices and in your own iCloud.\n\nYOURS ON EVERY DEVICE:\n- One purchase covers iPhone, iPad, Mac, and Apple Vision Pro\n- No subscription, and optional tips are the only in-app purchase. Nothing is locked behind them\n- Lists sync over your own iCloud, even with the app closed\n- Works on new and old Reddit\n- English, Spanish, and Brazilian Portuguese\n- Search every setting by name or by what it does\n- Import and export your lists\n- Stats showing how much Protego has filtered, with a shareable card\n\nProtego filters text: post titles, bodies, community and author names, and link addresses. It cannot read words inside images or videos. Filtered posts are hidden from your view. Nothing is removed from Reddit, and nobody is notified.",
       "minimumOsVersion": "18.0",
-      "bundleId": "com.ArkonLabs.Protego",
+      "trackName": "Protego for Reddit",
+      "trackId": 6737959724,
+      "price": 3.99,
       "userRatingCount": 25,
       "country": "USA"
     },
     {
-      "features": [
-        "iosUniversal"
-      ],
-      "artistViewUrl": "https://apps.apple.com/fr/developer/edgar-sanchez/id1778600610?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/e2/17/a4e21704-b1ca-c102-cb02-de8b43c23656/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/e2/17/a4e21704-b1ca-c102-cb02-de8b43c23656/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
-      "isGameCenterEnabled": false,
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/05/01/0a/05010afe-a170-5bfe-17c4-cd2efcaf93f9/Protego__U0023263-01Transform_framed.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9c/fc/ef/9cfcefff-eb77-975d-d8bb-7a78c496e01c/Protego__U0023263-02Filter_framed.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9d/7f/b1/9d7fb1c2-8dff-f8e8-ae7f-7e53aaf2ee6f/Protego__U0023263-03Home_framed.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4c/5d/04/4c5d04b7-62ea-0fc5-d040-40f33a66ab1c/Protego__U0023263-04Filter_framed.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d0/15/5d/d0155d9f-3f53-5d4b-33ff-8483166e98ab/Protego__U0023263-05Keywords_framed.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/65/92/ea/6592ea0c-a833-0150-8ae8-5374d0cd2011/Protego__U0023263-06Transform_framed.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a9/8a/4a/a98a4a3b-c7dc-de7d-1897-7f4b7270526d/Protego__U0023263-07Limits_framed.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ba/48/32/ba4832e7-d048-b0fe-d7c7-7e925ca4b1a9/Protego__U0023263-08Stats_framed.png/320x480bb.jpg"
-      ],
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2c/cb/e8/2ccbe8e5-418b-abe4-b0d1-3a0178153793/iPad_Pro__U002812.9-inch_U0029__U00284th_generation_U0029-01Transform_framed.png/360x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4e/f6/30/4ef63013-ddf5-9530-63dc-2bbbd78fb87c/iPad_Pro__U002812.9-inch_U0029__U00284th_generation_U0029-02Filter_framed.png/360x480bb.jpg",
@@ -235,7 +221,20 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/e2/17/a4e21704-b1ca-c102-cb02-de8b43c23656/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
-      "advisories": [],
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/05/01/0a/05010afe-a170-5bfe-17c4-cd2efcaf93f9/Protego__U0023263-01Transform_framed.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9c/fc/ef/9cfcefff-eb77-975d-d8bb-7a78c496e01c/Protego__U0023263-02Filter_framed.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9d/7f/b1/9d7fb1c2-8dff-f8e8-ae7f-7e53aaf2ee6f/Protego__U0023263-03Home_framed.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4c/5d/04/4c5d04b7-62ea-0fc5-d040-40f33a66ab1c/Protego__U0023263-04Filter_framed.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d0/15/5d/d0155d9f-3f53-5d4b-33ff-8483166e98ab/Protego__U0023263-05Keywords_framed.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/65/92/ea/6592ea0c-a833-0150-8ae8-5374d0cd2011/Protego__U0023263-06Transform_framed.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a9/8a/4a/a98a4a3b-c7dc-de7d-1897-7f4b7270526d/Protego__U0023263-07Limits_framed.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ba/48/32/ba4832e7-d048-b0fe-d7c7-7e925ca4b1a9/Protego__U0023263-08Stats_framed.png/320x480bb.jpg"
+      ],
+      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "MacDesktop-MacDesktop",
         "iPhone5s-iPhone5s",
@@ -364,15 +363,16 @@
         "iPadAir11M4-iPadAir11M4",
         "iPadAir11M4Cellular-iPadAir11M4Cellular",
         "iPadAir13M4-iPadAir13M4",
-        "iPadAir13M4Cellular-iPadAir13M4Cellular"
+        "iPadAir13M4Cellular-iPadAir13M4Cellular",
+        "iPhone18Pro-iPhone18Pro",
+        "iPhone18ProMax-iPhone18ProMax",
+        "iPhoneDuo-iPhoneDuo"
       ],
+      "advisories": [],
       "kind": "software",
-      "bundleId": "com.ArkonLabs.Protego",
-      "averageUserRating": 0,
-      "trackCensoredName": "Protego for Reddit",
-      "trackViewUrl": "https://apps.apple.com/fr/app/protego-for-reddit/id6737959724?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRatingForCurrentVersion": 0,
+      "artistViewUrl": "https://apps.apple.com/fr/developer/edgar-sanchez/id1778600610?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/e2/17/a4e21704-b1ca-c102-cb02-de8b43c23656/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/e2/17/a4e21704-b1ca-c102-cb02-de8b43c23656/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
       "sellerUrl": "https://getprotego.app",
       "languageCodesISO2A": [
         "EN",
@@ -383,29 +383,35 @@
       "formattedPrice": "3,99 €",
       "userRatingCountForCurrentVersion": 0,
       "trackContentRating": "4+",
-      "minimumOsVersion": "18.0",
+      "averageUserRatingForCurrentVersion": 0,
       "artistId": 1778600610,
       "artistName": "Edgar Sanchez",
       "price": 3.99,
-      "genreIds": [
-        "6002"
+      "genres": [
+        "Utilitaires"
       ],
-      "sellerName": "Edgar Sanchez",
+      "bundleId": "com.ArkonLabs.Protego",
       "primaryGenreName": "Utilities",
       "primaryGenreId": 6002,
       "releaseDate": "2024-11-09T08:00:00Z",
-      "trackId": 6737959724,
+      "sellerName": "Edgar Sanchez",
       "trackName": "Protego for Reddit",
+      "trackId": 6737959724,
+      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-09-03T04:34:44Z",
-      "releaseNotes": "Protego 3.9 filters the one place it never reached: Reddit's search results.\n\nUntil now a keyword, community or user filter that hid a post everywhere else left the same post in plain sight the moment you searched for it. Search results are filtered like any other feed now, on new and old Reddit, with matches hidden and counted in your stats. Reddit's \"get the app\" panel could also freeze a page outright, with no close button and no way to scroll, and Protego lifts that freeze even on a panel it has never seen. VoiceOver reads Protego's confirmation messages aloud, and adding a domain points you at the ready-made filter that covers the whole site.\n\nNo account, no tracking, and your lists stay in your own iCloud.\n\nWHAT'S NEW:\n- Filtering on search results: your keyword, community and user filters now apply to Reddit's search pages, with matches hidden, counted in your stats, and announced by the same toast. Reveal Mode and Preview cover the surface too, so you can see what a filter would hide before you commit to it. A new-Reddit result carries no outbound link and no post body, so domain filters cannot apply there and keywords match the title and community name; old Reddit's results carry all four filter types.\n- A pointer to the filter that covers a whole site: several sites post links under more than one address, so a youtube.com filter on its own quietly misses everything arriving through youtu.be. Type a domain like that and Protego names the ready-made filter that covers both, in the add sheet and when you edit an entry. Your domain still saves normally.\n\nIMPROVEMENTS:\n- The \"Open in App\" nudges setting now also hides the app button inside Reddit's mature-content warning, where it sits above the two real choices. The warning itself still appears and still has to be answered.\n- Protego recognizes three more shapes of Reddit's app prompts, drawn from the public lists that ad-blockers maintain, so one we have not met in the wild is covered if it turns up.\n\nFIXES:\n- Reddit's \"get the app\" panel could cover a page with no close button and stop it scrolling, leaving force-quitting Safari as the only way out: Protego now recognizes the whole family of those panels, rather than the exact ones it had seen before.\n- Protego's confirmation messages were never read aloud by VoiceOver, so erasing your lists, importing one, or renaming a group gave no sign that anything had happened: every screen announces them now, confirmations and errors alike.",
       "version": "3.9",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Add a keyword, a community, a user, or a domain, and matching posts quietly disappear from your feed. Protego is a Safari extension with a companion app, on iPhone, iPad, Mac, and Apple Vision Pro.\n\nWHY THE BROWSER:\nReddit belongs in your browser. The official app is built to keep you scrolling; in Safari, you decide what Reddit shows you, and Protego does the filtering. No notifications pulling you back, no \"get the app\" walls, and no Reddit app on your phone collecting in the background.\n\nFILTER WHAT YOU CHOOSE:\n- Keywords - Hide posts whose title, body, or community name matches a word or phrase\n- Communities - Hide everything from a community, or block its page entirely\n- Users - Hide one person's posts and comments\n- Domains - Hide posts linking to a particular site\n- Social Media - Hide posts linking to X, Instagram, TikTok, and more\nKeywords go further: * matches a word and its variations, # matches any 1 to 3 digit number, and groups switch a whole set on or off at once. Any filter can be switched off without deleting it.\nSee it working: Reveal Mode outlines every post a filter would hide instead of hiding it, and Preview tries a keyword before you save it.\n\nSET UP IN ONE TAP:\nPick a preset (Off, Minimal, Balanced, or Focused) and Protego applies a recommended set of options, stripping out distractions to bring new Reddit closer to the old one. Fine-tune anything afterward.\n\nCLEAR AWAY THE CLUTTER:\n- Hide thumbnails, avatars, flair, badges, vote controls, award and join buttons, and community banners\n- Hide recommendations, promoted posts, login and app nudges, and Reddit Answers\n- Hide the strip of pinned highlight cards above a community's feed\n- Collapse or hide comments carrying media, and the moderator comment pinned to the top of a thread\n\nMAKE REDDIT EASIER TO USE:\n- Color-code comment threads by reply depth, with four themes to pick from\n- Jump between comments by reply depth, and return to the top of a thread in one tap\n- Open comment pages with every reply chain folded away\n- Open posts from a feed in a new tab, so the feed keeps your place\n- Bring back who posted on the home, popular, and news feeds\n- Skip Reddit's For You home test and return to Following (experimental)\n- Land on old Reddit automatically, with an endless feed\n- Give old Reddit the dark theme it has never had, and drop communities' custom styling\n\nPUT REDDIT OUT OF REACH:\nFiltering hides what you do not want to see. Limits goes further and blocks Reddit itself, a step at a time: Home and Popular first, then all main feeds, then everything but direct links to posts, then all of Reddit. Pair a limit with a Focus like Sleep or Study and it turns itself on.\n\nPRIVACY:\nNo account, no tracking, no browsing history collected. Your filter lists stay on your devices and in your own iCloud.\n\nYOURS ON EVERY DEVICE:\n- One purchase covers iPhone, iPad, Mac, and Apple Vision Pro\n- No subscription, and optional tips are the only in-app purchase. Nothing is locked behind them\n- Lists sync over your own iCloud, even with the app closed\n- Works on new and old Reddit\n- English, Spanish, and Brazilian Portuguese\n- Search every setting by name or by what it does\n- Import and export your lists\n- Stats showing how much Protego has filtered, with a shareable card\n\nProtego filters text: post titles, bodies, community and author names, and link addresses. It cannot read words inside images or videos. Filtered posts are hidden from your view. Nothing is removed from Reddit, and nobody is notified.",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "genres": [
-        "Utilitaires"
+      "trackCensoredName": "Protego for Reddit",
+      "trackViewUrl": "https://apps.apple.com/fr/app/protego-for-reddit/id6737959724?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 0,
+      "minimumOsVersion": "18.0",
+      "genreIds": [
+        "6002"
       ],
+      "releaseNotes": "Protego 3.9 filters the one place it never reached: Reddit's search results.\n\nUntil now a keyword, community or user filter that hid a post everywhere else left the same post in plain sight the moment you searched for it. Search results are filtered like any other feed now, on new and old Reddit, with matches hidden and counted in your stats. Reddit's \"get the app\" panel could also freeze a page outright, with no close button and no way to scroll, and Protego lifts that freeze even on a panel it has never seen. VoiceOver reads Protego's confirmation messages aloud, and adding a domain points you at the ready-made filter that covers the whole site.\n\nNo account, no tracking, and your lists stay in your own iCloud.\n\nWHAT'S NEW:\n- Filtering on search results: your keyword, community and user filters now apply to Reddit's search pages, with matches hidden, counted in your stats, and announced by the same toast. Reveal Mode and Preview cover the surface too, so you can see what a filter would hide before you commit to it. A new-Reddit result carries no outbound link and no post body, so domain filters cannot apply there and keywords match the title and community name; old Reddit's results carry all four filter types.\n- A pointer to the filter that covers a whole site: several sites post links under more than one address, so a youtube.com filter on its own quietly misses everything arriving through youtu.be. Type a domain like that and Protego names the ready-made filter that covers both, in the add sheet and when you edit an entry. Your domain still saves normally.\n\nIMPROVEMENTS:\n- The \"Open in App\" nudges setting now also hides the app button inside Reddit's mature-content warning, where it sits above the two real choices. The warning itself still appears and still has to be answered.\n- Protego recognizes three more shapes of Reddit's app prompts, drawn from the public lists that ad-blockers maintain, so one we have not met in the wild is covered if it turns up.\n\nFIXES:\n- Reddit's \"get the app\" panel could cover a page with no close button and stop it scrolling, leaving force-quitting Safari as the only way out: Protego now recognizes the whole family of those panels, rather than the exact ones it had seen before.\n- Protego's confirmation messages were never read aloud by VoiceOver, so erasing your lists, importing one, or renaming a group gave no sign that anything had happened: every screen announces them now, confirmations and errors alike.",
       "userRatingCount": 0,
       "country": "FRA"
     }

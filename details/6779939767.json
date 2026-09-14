@@ -131,9 +131,15 @@
         "iPadAir11M4-iPadAir11M4",
         "iPadAir11M4Cellular-iPadAir11M4Cellular",
         "iPadAir13M4-iPadAir13M4",
-        "iPadAir13M4Cellular-iPadAir13M4Cellular"
+        "iPadAir13M4Cellular-iPadAir13M4Cellular",
+        "iPhone18Pro-iPhone18Pro",
+        "iPhone18ProMax-iPhone18ProMax",
+        "iPhoneDuo-iPhoneDuo"
       ],
       "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/fr/developer/pham-tran-thai-bao/id1896319810?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/2c/0e/392c0e77-beab-abe5-76b8-79cc6b95ec62/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/2c/0e/392c0e77-beab-abe5-76b8-79cc6b95ec62/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/85/5f/19/855f1976-2bc9-0235-97ee-933ee774f890/ChatGPT_Image_Jun_18_U002c_2026_at_11_29_04_AM.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9e/c0/bf/9ec0bf61-33d5-0ef8-be0c-3c68fe2e8cba/ChatGPT_Image_Jun_18_U002c_2026_at_11_26_23_AM.png/320x480bb.jpg",
@@ -149,52 +155,49 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/26/ee/3c/26ee3c78-befc-cb04-104c-5eafccc835a1/Untitled_design-16.png/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/87/e0/5587e0d6-0142-1f3e-76e1-c3c0f5f12d50/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/fr/developer/pham-tran-thai-bao/id1896319810?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/87/e0/5587e0d6-0142-1f3e-76e1-c3c0f5f12d50/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/87/e0/5587e0d6-0142-1f3e-76e1-c3c0f5f12d50/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/2c/0e/392c0e77-beab-abe5-76b8-79cc6b95ec62/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "features": [
         "iosUniversal"
       ],
+      "minimumOsVersion": "15.0",
       "artistId": 1896319810,
       "artistName": "Pham Tran Thai Bao",
-      "genres": [
-        "Utilitaires",
-        "Divertissement"
-      ],
       "price": 2.99,
-      "releaseDate": "2026-07-02T07:00:00Z",
-      "trackName": "Runa: RPG Maker & VN Player",
+      "bundleId": "com.baokb.runa",
+      "currentVersionReleaseDate": "2026-09-11T18:45:20Z",
       "trackId": 6779939767,
-      "genreIds": [
-        "6002",
-        "6016"
-      ],
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
+      "trackName": "Runa: RPG Maker & VN Player",
       "sellerName": "Pham Tran Thai Bao",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-09-04T22:02:37Z",
-      "releaseNotes": "Smoother outdoor maps, in-app game updates, and a handful of fixes based on users reports.\nSMOOTHER\n• Large outdoor maps in classic RPG Maker games should now feel smoother while you walk around.\n\nGAME UPDATES\n• Games with their own patches/updates can now be updated from Game Details, while keeping your saves.\n\nFIXES\n• Fixed a crash when opening the pause menu in some classic RPG Maker games.\n• Fixed menu taps that could register slightly away from where you touched.\n• Improved stability during longer sessions, especially for games using more memory.\n• Fixed an issue where some saves stopped loading after a game update.",
-      "version": "1.3.8",
+      "releaseDate": "2026-07-02T07:00:00Z",
+      "releaseNotes": "Better RPG Maker MV/MZ support, new ways to import and patch games, and a new cheat.\n\nNEW\n• God Mode (beta) for RPG Maker MV/MZ — take no damage and heal your party when enabled\n• Install and remove MV/MZ content patches from Game Details\n• The Zip file with single-file .exe games can now be imported directly (beta)\n\nFIXES\n• Fixed crashes when opening menus, saving, or changing maps in some MV games\n• MV/MZ saves are now stored immediately, so progress survives crashes or force-closing Runa\n• Fixed several MV/MZ games failing to start or getting stuck loading\n• Fixed stretched screens and accidental scrolling in MV/MZ games\n• Improved support for bundled saves and more game folder layouts\n• A game's Exit command now returns to the Runa library\n• Classic RPG Maker cheats can now change item counts\n• Game errors are now included in diagnostics logs",
+      "version": "1.3.9",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Runa is an RPG Maker player for iPhone and iPad. Import and play the RPG Maker games you already own in full-screen landscape with touch controls and a customizable virtual gamepad — no PC required.\n\nWhether your games were created with RPG Maker XP, VX, VX Ace, MV, or MZ, Runa makes it easy to bring your collection to iPhone and iPad.\n\nSUPPORTED ENGINES\n\n• RPG Maker MV and MZ (web runtime included)\n• RPG Maker XP, VX, and VX Ace (native runtime included)\n\nHOW IT WORKS\n\n1. Zip your RPG Maker game folder on your Mac or PC.\n2. Open Runa and tap Import.\n3. Choose the ZIP file from Files or iCloud Drive.\n4. Runa automatically detects the engine and adds the game to your library.\n5. Tap Play and start your adventure.\n\nFEATURES\n\n• Full-screen landscape gameplay with immersive mode\n• Virtual gamepad with remappable buttons\n• Move and resize on-screen controls to fit your play style\n• Per-game settings saved automatically\n• Export and import save files as ZIP archives\n• Direct compatibility with RPG Maker XP and VX Ace save files from PC\n• Library search and filtering by engine\n• Sort games by name or recently played\n• Automatically generated cover art from game title screens\n• Offline play after import — no internet connection required\n\nDESIGNED FOR RPG MAKER PLAYERS\n\nRuna is built for players who enjoy RPG Maker games on mobile. Import your own game files and continue your adventures anywhere on iPhone or iPad.\n\nIMPORTANT\n\nRuna is a game player and does not include, sell, host, or distribute game content. All games must be legally obtained by the user. Users are responsible for ensuring they own the rights to any games they import.\n\nPaid once, supported ongoing. Reach us anytime at kbsoft.support@gmail.comn - we read every message\n\nOPEN SOURCE\n\nPowered by mkxp-z (GPL v2).\nSource code: github.com/mkxp-z/mkxp-z",
-      "minimumOsVersion": "15.0",
-      "userRatingCountForCurrentVersion": 1,
+      "trackCensoredName": "Runa: RPG Maker & VN Player",
+      "trackViewUrl": "https://apps.apple.com/fr/app/runa-rpg-maker-vn-player/id6779939767?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 5,
       "sellerUrl": "https://kbworks.pro.vn",
       "languageCodesISO2A": [
         "EN"
       ],
-      "fileSizeBytes": "79838208",
+      "fileSizeBytes": "80075776",
       "formattedPrice": "2,99 €",
+      "userRatingCountForCurrentVersion": 1,
       "trackContentRating": "4+",
       "averageUserRatingForCurrentVersion": 5,
-      "trackCensoredName": "Runa: RPG Maker & VN Player",
-      "trackViewUrl": "https://apps.apple.com/fr/app/runa-rpg-maker-vn-player/id6779939767?uo=4",
-      "contentAdvisoryRating": "4+",
-      "bundleId": "com.baokb.runa",
-      "averageUserRating": 5,
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "genreIds": [
+        "6002",
+        "6016"
+      ],
+      "genres": [
+        "Utilitaires",
+        "Divertissement"
+      ],
       "userRatingCount": 1,
       "country": "FRA"
     }

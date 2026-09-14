@@ -2,13 +2,13 @@
   "resultCount": 1,
   "results": [
     {
-      "features": [
-        "iosUniversal"
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/10/82/65/108265c6-8a8c-f2cd-57a0-180ed8046149/ipad_1.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5a/31/c1/5a31c19e-a7ee-1cae-88b6-034dc05c8c07/ipad_2.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/98/19/6e/98196ee5-af2c-b18f-e0d7-121179d430e8/ipad_4.png/360x480bb.jpg"
       ],
-      "artistViewUrl": "https://apps.apple.com/fr/developer/anthony-chanson/id1894606272?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/8d/87/e58d8716-a789-878b-9e13-fb894844fcba/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/8d/87/e58d8716-a789-878b-9e13-fb894844fcba/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
-      "isGameCenterEnabled": false,
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/8d/87/e58d8716-a789-878b-9e13-fb894844fcba/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e7/05/ff/e705ffa6-e41a-611b-a58e-8ed2fb739e92/CAPTURE_1.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b4/f6/ce/b4f6ced5-a81a-b56d-9757-939ef9f30c61/CAPTURE_2.png/320x480bb.jpg",
@@ -17,14 +17,10 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/47/6b/f1/476bf1dd-da93-2f66-684a-8dce00246abd/capture_5.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/21/8c/29/218c29e8-6b0e-5e89-d8f7-1ed68dda28e5/capture_6.png/320x480bb.jpg"
       ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/10/82/65/108265c6-8a8c-f2cd-57a0-180ed8046149/ipad_1.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5a/31/c1/5a31c19e-a7ee-1cae-88b6-034dc05c8c07/ipad_2.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/98/19/6e/98196ee5-af2c-b18f-e0d7-121179d430e8/ipad_4.png/360x480bb.jpg"
+      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
       ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/8d/87/e58d8716-a789-878b-9e13-fb894844fcba/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -152,15 +148,16 @@
         "iPadAir11M4-iPadAir11M4",
         "iPadAir11M4Cellular-iPadAir11M4Cellular",
         "iPadAir13M4-iPadAir13M4",
-        "iPadAir13M4Cellular-iPadAir13M4Cellular"
+        "iPadAir13M4Cellular-iPadAir13M4Cellular",
+        "iPhone18Pro-iPhone18Pro",
+        "iPhone18ProMax-iPhone18ProMax",
+        "iPhoneDuo-iPhoneDuo"
       ],
+      "advisories": [],
       "kind": "software",
-      "bundleId": "com.naturiago.app",
-      "averageUserRating": 0,
-      "trackCensoredName": "NaturiaGo - Spots Nature",
-      "trackViewUrl": "https://apps.apple.com/fr/app/naturiago-spots-nature/id6782687562?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRatingForCurrentVersion": 0,
+      "artistViewUrl": "https://apps.apple.com/fr/developer/anthony-chanson/id1894606272?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/8d/87/e58d8716-a789-878b-9e13-fb894844fcba/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/8d/87/e58d8716-a789-878b-9e13-fb894844fcba/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
       "sellerUrl": "https://naturiago.com",
       "languageCodesISO2A": [
         "EN"
@@ -169,31 +166,37 @@
       "formattedPrice": "0,99 €",
       "userRatingCountForCurrentVersion": 0,
       "trackContentRating": "4+",
-      "minimumOsVersion": "16.4",
+      "averageUserRatingForCurrentVersion": 0,
       "artistId": 1894606272,
       "artistName": "Anthony Chanson",
       "price": 0.99,
-      "genreIds": [
-        "6003",
-        "6012"
-      ],
-      "sellerName": "Anthony Chanson",
-      "primaryGenreName": "Travel",
-      "primaryGenreId": 6003,
-      "releaseDate": "2026-06-23T07:00:00Z",
-      "trackId": 6782687562,
-      "trackName": "NaturiaGo - Spots Nature",
-      "currentVersionReleaseDate": "2026-08-05T08:44:52Z",
-      "releaseNotes": "Nouveautés de cette version\n\n• Ajout de nouveaux spots nature.\n• Amélioration des performances de la carte.\n• Optimisation de la recherche et des filtres.\n• Corrections de bugs et amélioration de la stabilité.\n• Diverses améliorations de l’expérience utilisateur.",
-      "version": "1.3.0",
-      "wrapperType": "software",
-      "currency": "EUR",
-      "description": "Explore plus d’1 million de spots nature à travers le monde !\n\nDécouvre les plus beaux lacs, cascades, rivières, plages, baignades sauvages, points de vue, panoramas, randonnées, balades, coins barbecue, aires de pique-nique, forêts et bien plus encore, où que tu sois.\n\nQue tu pratiques la randonnée, le camping, la vanlife, le vélo, la photographie ou que tu cherches simplement une idée de sortie en famille, entre amis ou en couple, NaturiaGo t’aide à trouver les meilleurs lieux recommandés par la communauté.\n\nEXPLORE\n\n• Plus d’1 million de spots à découvrir dans le monde.\n• Carte interactive avec des milliers de lieux à explorer. \n• Recherche par catégories : lacs, cascades, plages, rivières, panoramas, randonnées, pique-niques, BBQ, baignades, nature, détente…\n• Filtres avancés : parking, feu autorisé, ombre, accessibilité, équipements, ambiance, distance…\n• Affichage Carte, Satellite ou Hybride.\n\nPARTAGE TES DÉCOUVERTES\n\n• Ajoute facilement un nouveau spot.\n• Position GPS ou adresse.\n• Photos, description et informations pratiques.\n• Plusieurs catégories par lieu.\n• Le créateur du lieu et les administrateurs peuvent mettre à jour les informations afin de garantir des données fiables et à jour.\n\nDES AVIS COMPLETS\n\nÉvalue chaque spot selon :\n• Beauté\n• Vue\n• Propreté\n• Qualité de l’eau\n• Calme\n• Sécurité\n• Accessibilité\n\nConsulte les avis détaillés de la communauté avant de partir.\n\nORGANISE TES SORTIES\n\n• Crée une sortie entre amis.\n• Propose plusieurs dates.\n• Vote intégré.\n• Chat de groupe.\n• Invitation par simple lien.\n\nREJOINS LA COMMUNAUTÉ\n\n\n• Partage tes découvertes.\n• Suis d’autres explorateurs et découvre leurs meilleurs spots.\n\n TES FAVORIS\n\n• Sauvegarde tes lieux préférés.\n• Retrouve-les rapidement.\n• Prépare facilement tes prochaines aventures.\n\nUNE COMMUNAUTÉ DE CONFIANCE\n\n• Signalement des contenus inappropriés.\n• Blocage des utilisateurs.\n• Modération active.\n• Informations mises à jour par la communauté et les administrateurs.\n\nPourquoi choisir NaturiaGo ?\n\nPlus d’1 million de spots nature dans le monde\nRandonnées, lacs, cascades, plages, panoramas, pique-niques, BBQ, baignades…\nOrganisation de sorties entre amis\nAvis détaillés et photos\nCarte interactive avec filtres avancés\nCommunauté mondiale de passionnés de nature\n\nNaturiaGo est l’application idéale pour découvrir les plus beaux endroits autour de toi, organiser tes aventures et partager tes découvertes, partout dans le monde.\n\nExplore. Relax. Share.",
-      "isVppDeviceBasedLicensingEnabled": true,
       "genres": [
         "Voyages",
         "Style de vie"
       ],
+      "bundleId": "com.naturiago.app",
+      "primaryGenreName": "Travel",
+      "primaryGenreId": 6003,
+      "releaseDate": "2026-06-23T07:00:00Z",
+      "sellerName": "Anthony Chanson",
+      "trackName": "NaturiaGo - Spots Nature",
+      "trackId": 6782687562,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-08-05T08:44:52Z",
+      "version": "1.3.0",
+      "wrapperType": "software",
+      "currency": "EUR",
+      "description": "Explore plus d’1 million de spots nature à travers le monde !\n\nDécouvre les plus beaux lacs, cascades, rivières, plages, baignades sauvages, points de vue, panoramas, randonnées, balades, coins barbecue, aires de pique-nique, forêts et bien plus encore, où que tu sois.\n\nQue tu pratiques la randonnée, le camping, la vanlife, le vélo, la photographie ou que tu cherches simplement une idée de sortie en famille, entre amis ou en couple, NaturiaGo t’aide à trouver les meilleurs lieux recommandés par la communauté.\n\nEXPLORE\n\n• Plus d’1 million de spots à découvrir dans le monde.\n• Carte interactive avec des milliers de lieux à explorer. \n• Recherche par catégories : lacs, cascades, plages, rivières, panoramas, randonnées, pique-niques, BBQ, baignades, nature, détente…\n• Filtres avancés : parking, feu autorisé, ombre, accessibilité, équipements, ambiance, distance…\n• Affichage Carte, Satellite ou Hybride.\n\nPARTAGE TES DÉCOUVERTES\n\n• Ajoute facilement un nouveau spot.\n• Position GPS ou adresse.\n• Photos, description et informations pratiques.\n• Plusieurs catégories par lieu.\n• Le créateur du lieu et les administrateurs peuvent mettre à jour les informations afin de garantir des données fiables et à jour.\n\nDES AVIS COMPLETS\n\nÉvalue chaque spot selon :\n• Beauté\n• Vue\n• Propreté\n• Qualité de l’eau\n• Calme\n• Sécurité\n• Accessibilité\n\nConsulte les avis détaillés de la communauté avant de partir.\n\nORGANISE TES SORTIES\n\n• Crée une sortie entre amis.\n• Propose plusieurs dates.\n• Vote intégré.\n• Chat de groupe.\n• Invitation par simple lien.\n\nREJOINS LA COMMUNAUTÉ\n\n\n• Partage tes découvertes.\n• Suis d’autres explorateurs et découvre leurs meilleurs spots.\n\n TES FAVORIS\n\n• Sauvegarde tes lieux préférés.\n• Retrouve-les rapidement.\n• Prépare facilement tes prochaines aventures.\n\nUNE COMMUNAUTÉ DE CONFIANCE\n\n• Signalement des contenus inappropriés.\n• Blocage des utilisateurs.\n• Modération active.\n• Informations mises à jour par la communauté et les administrateurs.\n\nPourquoi choisir NaturiaGo ?\n\nPlus d’1 million de spots nature dans le monde\nRandonnées, lacs, cascades, plages, panoramas, pique-niques, BBQ, baignades…\nOrganisation de sorties entre amis\nAvis détaillés et photos\nCarte interactive avec filtres avancés\nCommunauté mondiale de passionnés de nature\n\nNaturiaGo est l’application idéale pour découvrir les plus beaux endroits autour de toi, organiser tes aventures et partager tes découvertes, partout dans le monde.\n\nExplore. Relax. Share.",
+      "trackCensoredName": "NaturiaGo - Spots Nature",
+      "trackViewUrl": "https://apps.apple.com/fr/app/naturiago-spots-nature/id6782687562?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 0,
+      "minimumOsVersion": "16.4",
+      "genreIds": [
+        "6003",
+        "6012"
+      ],
+      "releaseNotes": "Nouveautés de cette version\n\n• Ajout de nouveaux spots nature.\n• Amélioration des performances de la carte.\n• Optimisation de la recherche et des filtres.\n• Corrections de bugs et amélioration de la stabilité.\n• Diverses améliorations de l’expérience utilisateur.",
       "userRatingCount": 0,
       "country": "FRA"
     }

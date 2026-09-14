@@ -3,9 +3,9 @@
   "results": [
     {
       "isGameCenterEnabled": false,
-      "artistViewUrl": "https://apps.apple.com/fr/developer/idoceo-studios-ltd/id477120944?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/59/92/75599205-a3bd-625c-e646-18b7228a3298/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/59/92/75599205-a3bd-625c-e646-18b7228a3298/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/100x100bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "MacDesktop-MacDesktop",
         "iPhone5s-iPhone5s",
@@ -134,14 +134,12 @@
         "iPadAir11M4-iPadAir11M4",
         "iPadAir11M4Cellular-iPadAir11M4Cellular",
         "iPadAir13M4-iPadAir13M4",
-        "iPadAir13M4Cellular-iPadAir13M4Cellular"
+        "iPadAir13M4Cellular-iPadAir13M4Cellular",
+        "iPhone18Pro-iPhone18Pro",
+        "iPhone18ProMax-iPhone18ProMax",
+        "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
       "kind": "software",
-      "features": [
-        "iosUniversal"
-      ],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/59/92/75599205-a3bd-625c-e646-18b7228a3298/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/f4/77/d0f47755-a012-dc9f-df00-e8a45061be72/39d7afd7-0c03-4ebb-b690-5d61c642f6c8_Artboard_1_en.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/79/b7/0479b7d8-c514-8ccf-6ec3-02afe150f339/a9e64c79-5cd6-4dbc-a7a4-c16b5039f167_Artboard_9_all.png/392x696bb.png",
@@ -166,35 +164,33 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/a8/82/50/a882509d-8c50-0d24-262b-51586bb283a5/412d6c08-6414-4d58-8ead-ca004108a2a6_Screenshot7_-_Timeline__U0028FLAT_U0029__U00281_U0029.png/552x414bb.png"
       ],
       "appletvScreenshotUrls": [],
-      "minimumOsVersion": "12.4",
-      "contentAdvisoryRating": "4+",
-      "trackCensoredName": "iDoceo - Carnet de notes",
-      "trackViewUrl": "https://apps.apple.com/fr/app/idoceo-carnet-de-notes/id477120941?uo=4",
-      "averageUserRating": 4.77522,
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/7a/99/3c7a9928-74a4-37b6-0340-3953eeaf73bd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/fr/developer/idoceo-studios-ltd/id477120944?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/7a/99/3c7a9928-74a4-37b6-0340-3953eeaf73bd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/7a/99/3c7a9928-74a4-37b6-0340-3953eeaf73bd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+      "advisories": [],
+      "releaseNotes": "Bienvenue dans iDoceo 9.0.5 !\nMerci à tous nos bêta-testeurs pour leurs commentaires, leurs tests et leur enthousiasme. Nous espérons que vous apprécierez toutes les nouveautés.\n\nVoici un bref aperçu. Vous trouverez plus de détails dans la rubrique « Nouveautés » de l’app.\n\n- Intégration de Gemini AI, offrant encore plus d’options pour la création de contenu assistée par l’IA.\n- Formules générées par l’IA pour le carnet de notes. Décrivez vos besoins et la formule sera créée automatiquement.\n- Nouvelle intégration avec addendo.org, la plateforme de gestion des signets.\n- Intégration de ChatGPT pour créer des plans de cours, des grilles d’évaluation et des évaluations dans iDoceo Connect.\n- Amélioration de la génération d’images par IA dans le journal et d’autres sections d’iDoceo.\n- Mise à jour de l’intégration Google avec la prise en charge des dernières normes de Google, de OneDrive et de Moodle.\n- Nouveaux outils de diagnostic iCloud pour vous aider à repérer les problèmes les plus courants dans la configuration d’iCloud.\n- Toutes les fonctionnalités d’IA sont disponibles avec OpenAI et Gemini.",
+      "sellerName": "iDoceo Studios Ltd.",
+      "price": 19.99,
       "artistId": 477120944,
       "artistName": "iDoceo Studios Ltd.",
-      "genres": [
-        "Éducation",
-        "Productivité"
-      ],
-      "price": 19.99,
-      "primaryGenreName": "Education",
-      "primaryGenreId": 6017,
+      "releaseDate": "2011-11-07T09:44:32Z",
+      "bundleId": "net.idoceo.iDoceo",
+      "currentVersionReleaseDate": "2026-09-12T08:36:07Z",
       "genreIds": [
         "6017",
         "6007"
       ],
-      "currentVersionReleaseDate": "2024-06-03T17:14:03Z",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "sellerName": "iDoceo Studios Ltd.",
-      "releaseDate": "2011-11-07T09:44:32Z",
-      "releaseNotes": "Bienvenue sur iDoceo 9, notre meilleure mise à jour à ce jour\nNous avons travaillé dur ces derniers mois pour améliorer chaque aspect de iDoceo et faciliter votre travail. \nMerci à tous les testeurs Beta qui ont rendu cela possible grâce à leurs retours, tests et enthousiasme.\n\nNous espérons que vous apprécierez toutes les nouvelles fonctionnalités.\n\nCette version est rétrocompatible avec iDoceo 8, mais pour que toutes ces \nfonctionnalités fonctionnent, vous aurez besoin d'iOS 17 ou supérieur.\n\nVoici une courte liste.\nVous trouverez plus de détails sur notre site web à idoceo.net\n- Nouveau planificateur dans iDoceo 9 avec des sections configurables et un nouvel éditeur impressionnant\n- Le nouveau planificateur vous permettra de gérer votre carnet de notes, présences et ressources\n- L'éditeur vous permettra d'ajouter des images, textes manuscrits, dessins, liens, vidéos YouTube, fichiers, listes, formules LaTeX et plus encore\n- Nouveau concepteur PDF pour le nouveau planificateur. Facilement personnalisable pour répondre à vos besoins\n- Intégration de chatGPT. Vous permettra de créer des plans de leçon, des grilles d'évaluation et des évaluations dans iDoceo Connect\n- L'intégration de DALL-E vous permettra de créer des images personnalisées dans chaque section du journal et le reste de iDoceo\n- Nouveaux horaires auxiliaires, non liés à aucun calendrier qui vous permettront d'ajouter tout type d'infos liées à vos cours ou étudiants",
-      "version": "9.0.4",
+      "primaryGenreName": "Education",
+      "primaryGenreId": 6017,
+      "trackId": 477120941,
+      "trackName": "iDoceo - Carnet de notes",
+      "version": "9.0.5",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "iDoceo est un puissant carnet de notes pour l'iPad/iPhone/Mac\nVous pouvez ajouter nombre illimité d'étudiants et classes.\n\niDoceo respecte la confidentialité de vos données. Il fonctionne complètement offline. Pas de connexion Internet est nécessaire.\nToutes vos données sont stockées localement sur l'iPad, pas dans le nuage ou sur des serveurs externes.\n\nIl est un tout-en-un avec les fonctions suivantes:\n\n- Carnet de notes avec des types flexibles, rubriques et calculs personnalisés.\n- Planner avec vue hebdomadaire et quotidienne\n- Agenda pour classe. Vue jour / semaine / mois / ligne du temps\n- Horaire\n- Plans de classe\n- Gestion de ressources et fichiers. PDF, audio, vidéos, fichiers, liens, images, etc.\n- Notes manuscrites ou du texte avec date et heure\n- Rapports configurable PDF, XLS et TXT\nCe sont les principales caractéristiques. Plus de détails dans www.idoceo.net\n\n• CARNET DE NOTES\n- Utilisez des rubriques, catégories,  icônes, couleurs,  texte ou les types de notes numériques. Vous pouvez définir vos propres types de notes.\n- Prenez des photos, enregistrez de vidéo et de l'audio et les ajoutez à toute classe, cellule, une colonne ou un étudiant.\n- Ajouter un nombre illimité de colonnes, des lignes, des catégories ou des pages pour organiser vos informations à volonté\n- Utilisez les éditeurs configurables sur chaque colonne pour l'édition ultrarapides et d'adapter le carnet à vos besoins\n- Envoyer des rapports d'information personnalisés à vos élèves par e-mail automatiquement avec les notes, annotations et fichiers\n- Filtrer et trier les étudiants sur l'écran par groupe, des conditions ou des valeurs dans une colonne particulière.\n- Ensemble vos propres rapports\n- Partagez vos configurations de carnet avec d'autres utilisateurs iDoceo\n- Importez des données de toute XLS, CSV ou modèle iDoceo\n- Importez des photos des élèves d'une seule image avec détection de visage ou massivement avec des images séparées\n- Exportez toutes les données au format PDF, XLS ou CSV (à d'autres plates-formes en ligne)\n\n•  PLANNER, JOURNAL  ET CALENDRIER\n\n- Définir les horaires hebdomadaires simples (mode classique) ou des combinaisons complexes avec des rotations et des vacances (mode étendu)\n- Cours illimités\n- Journal unique pour chaque classe. Voir le jour, semaine, mois et le calendrier.\n- Ajouter et modifier des événements iCal ou Google Calendar\n- Chronologie avec tous leurs cours en vue. Adelanta, retards et bloque les leçons spécifiques (mode étendu)\n- Ajouter des fichiers à partir de toute application ou nuage, vidéo, audio, des notes manuscrites, des liens et des ressources à vos leçons\n- Créer des rapports PDF / XLS votre planificateur quotidien et\n\n• PLAN\n\n- Ajoute des colonnes et modifier des notes comme si vous étiez dans le carnet\n- Jusqu'à dix plans de leçon avec cinq modes différents et les fonds configurables\n- Générateur de groupes au hasard\n\n• LISTE DES TÂCHES,CAHIERS DE TEXTE et MANUSCRITES\n\n- Créer un nombre illimité de cahiers indépendants ou liés à une classe. Feuilles configurables\n- Rapport PDF de vos carnets.\n- Les notes de texte comprennent la date, l'heure, les fichiers d'icônes et peuvent être associés à une classe ou d'un élève.\n\n• MANAGER DES RESSOURCES\n- Audio et vidéo,  notes manuscrites, signatures, fichiers, images, liens, texte ou annotations\npartout cellules du carnet, étudiants, classe, journal et planificateur.\n- Lecteur de PDF avec des vignettes et des signets\n- Affiche Keynote présentations, fichiers XLS, audio et vidéo.\n\n• OUTILS SYSTÈME\n\n- Plusieurs options de sauvegarde: Dropbox, Google Drive, iCloud ou votre propre serveur WebDAV (ownCloud ou BOX)\n- Ajouter mot de passe\n- Sélecteur aléatoire et la roulette dans le carnet, résumé et plan de classe\n\nMerci à tous pour votre soutien et commentaires sur l'App Store!\n\nVisitez notre forum à www.idoceo.es ou envoye un e-mail à partir de l'app > Aide > Support et Suggestions\nsi vous avez des questions ou des suggestions pour nos prochaines mises à jour.",
-      "bundleId": "net.idoceo.iDoceo",
       "sellerUrl": "https://www.idoceo.net",
+      "minimumOsVersion": "15.0",
       "languageCodesISO2A": [
         "EU",
         "CA",
@@ -213,47 +209,25 @@
         "ES",
         "TR"
       ],
-      "fileSizeBytes": "154143744",
+      "fileSizeBytes": "142541824",
       "formattedPrice": "19,99 €",
-      "userRatingCountForCurrentVersion": 2518,
+      "userRatingCountForCurrentVersion": 2535,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.77522,
-      "trackId": 477120941,
-      "trackName": "iDoceo - Carnet de notes",
-      "userRatingCount": 2518,
+      "averageUserRatingForCurrentVersion": 4.77554,
+      "averageUserRating": 4.77554,
+      "trackCensoredName": "iDoceo - Carnet de notes",
+      "trackViewUrl": "https://apps.apple.com/fr/app/idoceo-carnet-de-notes/id477120941?uo=4",
+      "contentAdvisoryRating": "4+",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "genres": [
+        "Éducation",
+        "Productivité"
+      ],
+      "userRatingCount": 2535,
       "country": "FRA"
     },
     {
-      "artistViewUrl": "https://apps.apple.com/de/developer/idoceo-studios-ltd/id477120944?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/59/92/75599205-a3bd-625c-e646-18b7228a3298/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/59/92/75599205-a3bd-625c-e646-18b7228a3298/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/100x100bb.jpg",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/48/b4/2b48b465-1ac1-5f84-aa0f-7fd7d23fc353/fe7e8cf9-0b63-4c3f-97b9-5ea584e71309_Artboard_1_de.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/af/52/c1af52d9-263f-f9fe-68b9-bde48b661503/a7454398-583d-4131-b859-49fa4553ba1a_Artboard_2_de.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/cd/ba/73cdba79-8990-128f-0b1c-11a1b40d5c29/75b3f302-cec5-4786-9edc-4b6b3a9493d0_Artboard_3_de.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/c1/b2/dec1b2d8-f973-d79a-04b1-ea62fc50f34d/983d986f-de92-4917-86f8-3a0f7117f709_Artboard_4_de.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/ca/07/4d/ca074d96-6c1e-b9c9-900c-dca93bd7be41/85f70c79-59ae-4882-b076-ed598521477d_Artboard_1___deutsch.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/15/70/f8157033-93a9-bd48-b376-2ad8b44cf10a/5812544d-fa96-4d3c-8473-fd4cc3bf1d5b_Artboard_7_de.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/26/1b/19261b44-1103-3e71-749a-77c9852b89d7/4ec6b8d1-fcaf-4018-a97d-08f536c459ce_Artboard_8_de.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/55/0f/29/550f29d3-182f-3e21-e30a-8bf9318b0927/b23f5676-610e-428f-a0d1-321a914e2294_Artboard_9_all.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/c5/97/eec597b9-d183-e55e-a340-15ab2f491dc8/4a8ed6b3-9634-4126-abb3-b56b92104bd1_Artboard_10_de.png/392x696bb.png"
-      ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/ab/e6/8b/abe68bbe-eafa-9850-6000-13ff220d9421/5bb4c309-9ec1-4f51-8e55-e3e34a262825_Screenshot1d.png/552x414bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/bf/5f/1d/bf5f1d10-6e52-429a-00c3-c52e34baf97b/731dc21b-3875-4d28-8199-92b30f6fb2ad_Screenshot2C_-_Schedule.png/552x414bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/f5/c2/1f/f5c21fe9-8b7d-14c0-d3ee-97577ee8b638/17273a95-b2d8-42ef-ad0c-c10388c70c0f_Deutsch_-_Planner.png/552x414bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/03/ef/8a/03ef8aa6-a2e8-41fc-bb9f-8a4d7a927ffb/55279fb4-266c-4e4b-9cac-63b21e49022d_Screenshot4B_-_Seating_plan__U00281_U0029.png/552x414bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/59/ff/8f/59ff8fa2-d758-9e19-e772-eadf47d0c871/ebbae041-1887-4d28-b044-643e4338e319_Screenshot6_-_Summary__U0028FLAT_U0029__U00281_U0029.png/552x414bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/f2/88/d3/f288d38c-e451-0824-8910-e12b1e9855c0/cf881f13-dd02-437a-bd4b-7f29478b112d_Screenshot9_-_Connect__U00281_U0029.png/552x414bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fc/51/fe/fc51fefd-6ed5-c286-8bca-389856edb44d/e95bdf74-7185-4e5b-ad18-9e1c1c25c705_german.png/552x414bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/31/9f/c8/319fc8be-2870-7f26-d61a-a420c54f1c36/d6382446-915d-4bc5-a974-ea504fa16d04_German_INTEGRATIONS.png/552x414bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/06/f0/93/06f09365-4e44-88bc-acb7-f645c36db17e/d2d2a852-5e7e-435a-ab85-27fa270711e5_Screenshot3C-_Diary__U00281_U0029.png/552x414bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/f2/95/e0/f295e011-826d-2fbe-1191-4578335680c6/b8f5eb25-422b-4cf2-ad18-beb1b7fdf616_Screenshot7_-_Timeline__U0028FLAT_U0029__U00281_U0029.png/552x414bb.png"
-      ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/59/92/75599205-a3bd-625c-e646-18b7228a3298/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/512x512bb.jpg",
       "isGameCenterEnabled": false,
-      "advisories": [],
       "supportedDevices": [
         "MacDesktop-MacDesktop",
         "iPhone5s-iPhone5s",
@@ -382,18 +356,73 @@
         "iPadAir11M4-iPadAir11M4",
         "iPadAir11M4Cellular-iPadAir11M4Cellular",
         "iPadAir13M4-iPadAir13M4",
-        "iPadAir13M4Cellular-iPadAir13M4Cellular"
+        "iPadAir13M4Cellular-iPadAir13M4Cellular",
+        "iPhone18Pro-iPhone18Pro",
+        "iPhone18ProMax-iPhone18ProMax",
+        "iPhoneDuo-iPhoneDuo"
       ],
+      "advisories": [],
       "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/de/developer/idoceo-studios-ltd/id477120944?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/7a/99/3c7a9928-74a4-37b6-0340-3953eeaf73bd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/7a/99/3c7a9928-74a4-37b6-0340-3953eeaf73bd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
       "features": [
         "iosUniversal"
       ],
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/48/b4/2b48b465-1ac1-5f84-aa0f-7fd7d23fc353/fe7e8cf9-0b63-4c3f-97b9-5ea584e71309_Artboard_1_de.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/af/52/c1af52d9-263f-f9fe-68b9-bde48b661503/a7454398-583d-4131-b859-49fa4553ba1a_Artboard_2_de.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/cd/ba/73cdba79-8990-128f-0b1c-11a1b40d5c29/75b3f302-cec5-4786-9edc-4b6b3a9493d0_Artboard_3_de.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/c1/b2/dec1b2d8-f973-d79a-04b1-ea62fc50f34d/983d986f-de92-4917-86f8-3a0f7117f709_Artboard_4_de.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/ca/07/4d/ca074d96-6c1e-b9c9-900c-dca93bd7be41/85f70c79-59ae-4882-b076-ed598521477d_Artboard_1___deutsch.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/15/70/f8157033-93a9-bd48-b376-2ad8b44cf10a/5812544d-fa96-4d3c-8473-fd4cc3bf1d5b_Artboard_7_de.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/26/1b/19261b44-1103-3e71-749a-77c9852b89d7/4ec6b8d1-fcaf-4018-a97d-08f536c459ce_Artboard_8_de.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/55/0f/29/550f29d3-182f-3e21-e30a-8bf9318b0927/b23f5676-610e-428f-a0d1-321a914e2294_Artboard_9_all.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/c5/97/eec597b9-d183-e55e-a340-15ab2f491dc8/4a8ed6b3-9634-4126-abb3-b56b92104bd1_Artboard_10_de.png/392x696bb.png"
+      ],
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/ab/e6/8b/abe68bbe-eafa-9850-6000-13ff220d9421/5bb4c309-9ec1-4f51-8e55-e3e34a262825_Screenshot1d.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/bf/5f/1d/bf5f1d10-6e52-429a-00c3-c52e34baf97b/731dc21b-3875-4d28-8199-92b30f6fb2ad_Screenshot2C_-_Schedule.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/f5/c2/1f/f5c21fe9-8b7d-14c0-d3ee-97577ee8b638/17273a95-b2d8-42ef-ad0c-c10388c70c0f_Deutsch_-_Planner.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/03/ef/8a/03ef8aa6-a2e8-41fc-bb9f-8a4d7a927ffb/55279fb4-266c-4e4b-9cac-63b21e49022d_Screenshot4B_-_Seating_plan__U00281_U0029.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/59/ff/8f/59ff8fa2-d758-9e19-e772-eadf47d0c871/ebbae041-1887-4d28-b044-643e4338e319_Screenshot6_-_Summary__U0028FLAT_U0029__U00281_U0029.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/f2/88/d3/f288d38c-e451-0824-8910-e12b1e9855c0/cf881f13-dd02-437a-bd4b-7f29478b112d_Screenshot9_-_Connect__U00281_U0029.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fc/51/fe/fc51fefd-6ed5-c286-8bca-389856edb44d/e95bdf74-7185-4e5b-ad18-9e1c1c25c705_german.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/31/9f/c8/319fc8be-2870-7f26-d61a-a420c54f1c36/d6382446-915d-4bc5-a974-ea504fa16d04_German_INTEGRATIONS.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/06/f0/93/06f09365-4e44-88bc-acb7-f645c36db17e/d2d2a852-5e7e-435a-ab85-27fa270711e5_Screenshot3C-_Diary__U00281_U0029.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/f2/95/e0/f295e011-826d-2fbe-1191-4578335680c6/b8f5eb25-422b-4cf2-ad18-beb1b7fdf616_Screenshot7_-_Timeline__U0028FLAT_U0029__U00281_U0029.png/552x414bb.png"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/7a/99/3c7a9928-74a4-37b6-0340-3953eeaf73bd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "averageUserRatingForCurrentVersion": 4.61707,
+      "artistId": 477120944,
+      "artistName": "iDoceo Studios Ltd.",
+      "genres": [
+        "Bildung",
+        "Produktivität"
+      ],
+      "price": 19.99,
+      "genreIds": [
+        "6017",
+        "6007"
+      ],
+      "primaryGenreName": "Education",
+      "primaryGenreId": 6017,
+      "sellerName": "iDoceo Studios Ltd.",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseDate": "2011-11-07T09:44:32Z",
+      "currentVersionReleaseDate": "2026-09-12T08:36:07Z",
+      "version": "9.0.5",
+      "wrapperType": "software",
+      "currency": "EUR",
+      "description": "iDoceo ist ein leistungsstarker Lehrerassistent für das iPad/iPhone/Mac \nErmöglicht das Management einer beliebigen Anzahl an Schülern und Klassen\n\nSie zahlen für iDoceo nur einmal für die vollständige App und alle Updates.\nEs fallen keine weiteren Kosten für Abonnements oder Käufe in der App an. \n\niDoceo respektiert Ihre persönlichen Daten. Keine Internetverbindung erforderlich.  \nAlle Ihre Daten werden ausschließlich lokal auf Ihrem iPad und nicht in einer Cloud oder auf externen Servern gespeichert. \n\nEin All-in-One-Tool inklusive:\n\n   - Umfassendes und konfigurierbares Klassenbuch mit benutzerdefinierten Kalkulationen, Anwesenheit und optionaler Verknüpfung mit Google Classroom.\n   - Unterrichtsplaner: Wochen-/Tagesansichten\n   - Terminkalender: Tages-/Wochen-/Monats-/Zeitachsenansichten einzelner Klassen\n   - Stundenplan\n   - Sitzpläne\n   - Ressourcenmanager für die Verwaltung von PDFs, Audiodateien, Verknüpfungen, Bildern etc.\n   - Notizblöcke mit handschriftlichen Notizen, Zeichnungen und Texten mit Zeitstempel\n   - Konfigurierbare Berichte als PDF, CSV, XLS und TXT\n\nHauptfunktionen: \n\n• PLANER, TERMINKALENDER UND STUNDENPLAN \n\n  - Konfiguration von einfachen Wochenstundenplänen oder komplexen rotierenden Zyklen mit Ferien. \n  - Individuelle Terminkalender für jede Klasse. Ansichten für einzelne Tage, Wochen, Monate und Zeitachse. \n  - Hinzufügen von Dateien aus beliebigen Quellen, Videos, Audio, handschriftliche Notizen, Verknüpfungen und Ressourcen für Ihre Unterrichtsstunden\n\n  \n• KLASSENBUCH\n\n  - Verwenden Sie Rubriken, Kategorien, Symbole, Farben, Text oder Noten auf Zahlenbasis. Konfigurieren Sie Ihr eigenes Benotungssystem\n  - Funktionen zur Nachverfolgung von Belegen. Machen Sie Fotos, nehmen Sie Videos und Audiodateien auf und weisen Sie diese beliebigen Zellen und Schülern zu.\n  - Berechnung einfacher gewichteter Durchschnitte und Hinzufügen oder Erstellen benutzerdefinierter Formeln wie in Excel mit Bedingungen und komplexe Funktionen.\n  - Hinzufügen unbegrenzter Spalten, Kategorien, Zeilen und Seiten zur individuellen Organisation von Informationen\n  - Automatisches Versenden personalisierter Informationen und Berichte an Schüler per E-Mail mit Noten, Anmerkungen oder Dateien \n  - Filtern von Informationen zu Schülern oder Gruppen direkt am Display\n  - Teilen von Konfigurationen des Notenbuchs mit anderen Benutzern\n  - Import von aktuellen Daten aus XLS,CSV\n  - Import von Fotos Ihrer Schüler aus einer Bilddatei mit Gesichtserkennung oder aus mehreren separaten Dateien\n  - Export von beliebigen Daten als PDF, XLS oder CSV\n\n• SITZPLÄNE \n\n  - Hinzufügen von Spalten und Bearbeiten von Daten wie im Notenbuch. \n  - Bis zu zehn Sitzpläne pro Klasse mit fünf verschiedenen Modi und Hintergründen\n\n• TO-DO-LISTEN, TEXTE UND HANDSCHRIFTLICHE NOTIZEN\n\n  - Erstellung einer beliebigen Anzahl an unabhängigen Notizblöcken oder in Verknüpfung mit einer Klasse. \n  - To-Do-Listen mit Ereignisalarmen\n  - Textnotizen mit Zeitstempel für Meetings mit Verknüpfung zu Klassen oder Schülern\n\n• RESSOURCENMANAGER\n\n  - Aufnahme von Audio und Videos mit handschriftlichen Notizen, Signaturen, Dateien, Bildern, Verknüpfungen und Text oder Anmerkungen \nÜberall: Zellen im Notenbuch, Schüler, Klassen, Terminkalender, Planer.\n  - Umfassender PDF Reader mit Lesezeichen und Thumbnails\n  - Abspielen von Präsentationen, Ansicht von XLS-Dateien, Audio und Video.\n\n• SYSTEM-TOOLS\n  \n  - Mehrere Backup-Optionen: Dropbox, Google Drive, OneDrive,  iCloud oder eigener WebDAV-Server.\n  - Passwortschutz für Inhalte\n  - Tool und Glücksrad zur Auswahl von Schülern\n  - Klassenübersicht mit konfigurierbaren Widgets.\n  - Papierkorb für kürzlich gelöschte Schüler, Spalten und Klassen\n\n  Vielen Dank für Ihre Unterstützung und hilfreichen Kommentare im App-Store!\n  Besuchen Sie unser Forum auf www.idoceo.net oder senden Sie uns eine E-Mail aus der App unter Help > Support&Suggestions falls Sie Fragen oder Vorschläge für zukünftige Updates haben.",
+      "averageUserRating": 4.61707,
       "trackCensoredName": "iDoceo - Lehrerkalender",
       "trackViewUrl": "https://apps.apple.com/de/app/idoceo-lehrerkalender/id477120941?uo=4",
       "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.61771,
+      "bundleId": "net.idoceo.iDoceo",
+      "minimumOsVersion": "15.0",
       "sellerUrl": "https://www.idoceo.net",
-      "averageUserRatingForCurrentVersion": 4.61771,
       "languageCodesISO2A": [
         "EU",
         "CA",
@@ -412,37 +441,14 @@
         "ES",
         "TR"
       ],
-      "fileSizeBytes": "154143744",
+      "fileSizeBytes": "142541824",
       "formattedPrice": "19,99 €",
-      "userRatingCountForCurrentVersion": 2676,
+      "userRatingCountForCurrentVersion": 2695,
       "trackContentRating": "4+",
-      "artistId": 477120944,
-      "artistName": "iDoceo Studios Ltd.",
-      "genres": [
-        "Bildung",
-        "Produktivität"
-      ],
-      "price": 19.99,
-      "sellerName": "iDoceo Studios Ltd.",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseDate": "2011-11-07T09:44:32Z",
-      "trackName": "iDoceo - Lehrerkalender",
+      "releaseNotes": "Willkommen bei iDoceo 9.0.5!\nVielen Dank an alle Beta-Tester für ihr Feedback, ihre Tests und ihre Begeisterung. Wir hoffen, dass Ihnen die neuen Funktionen gefallen.\n\nHier ist eine kurze Übersicht. Weitere Einzelheiten finden Sie in der App im Bereich „Neuigkeiten“.\n\n- Integration von Gemini AI mit noch mehr Möglichkeiten für die KI-gestützte Erstellung von Inhalten.\n- KI-generierte Formeln für das Notenbuch. Beschreiben Sie einfach Ihre Anforderungen und die Formel wird automatisch erstellt.\n- Neue Integration mit addendo.org, der Plattform zur Lesezeichenverwaltung.\n- ChatGPT-Integration zum Erstellen von Unterrichtsplänen, Bewertungsrastern und Beurteilungen in iDoceo Connect.\n- Verbesserte KI-Bilderzeugung im Tagebuch und in anderen Bereichen von iDoceo.\n- Aktualisierte Google-Integration mit Unterstützung für die neuesten Google-Standards, OneDrive und Moodle.\n- Neue iCloud-Diagnosewerkzeuge, mit denen Sie die häufigsten Probleme bei der iCloud-Konfiguration finden können.\n- Alle KI-Funktionen sind sowohl für OpenAI als auch für Gemini verfügbar.",
       "trackId": 477120941,
-      "currentVersionReleaseDate": "2024-06-03T17:14:03Z",
-      "releaseNotes": "Willkommen bei iDoceo 9, unserem bisher besten Update\nWir haben in den letzten Monaten hart gearbeitet, um jeden Aspekt von iDoceo zu verbessern und Ihre Arbeit zu erleichtern\nDank an alle Beta-Tester, die dies mit ihrem Feedback, ihren Tests und ihrer Begeisterung möglich gemacht haben.\n\nWir hoffen, Sie genießen all die neuen Funktionen.\n\nDiese Version ist rückwärtskompatibel mit iDoceo 8, aber für all diese Funktionen benötigen Sie iOS 17 oder höher.\n\nHier ist eine kurze Liste. Weitere Details finden Sie auf unserer Website unter idoceo.net\n- Neuer Planer in iDoceo 9 mit konfigurierbaren Abschnitten und einem beeindruckenden neuen Editor.\n- Der neue Planer ermöglicht es Ihnen, Ihr Notenbuch, Anwesenheit und Ressourcen zu verwalten\n- Der Editor ermöglicht es Ihnen, Bilder, handschriftliche Texte, Zeichnungen, Links, YouTube-Videos, Dateien, Listen, LaTeX-Formeln und mehr hinzuzufügen\n- Neuer PDF-Designer für den neuen Planer. Einfach an Ihre Bedürfnisse anpassbar.\n- Integration von chatGPT. Ermöglicht Ihnen, Unterrichtspläne, Bewertungsrubriken und Bewertungen in iDoceo Connect zu erstellen.\n- Integration von DALL-E ermöglicht es Ihnen, benutzerdefinierte Bilder in jedem Abschnitt des Tagebuchs und dem Rest von iDoceo zu erstellen\n- Neue Hilfspläne, die nicht an einen Kalender gebunden sind und es Ihnen ermöglichen, jegliche Arten von Informationen bezüglich Ihrer Kurse oder Schüler hinzuzufügen",
-      "version": "9.0.4",
-      "wrapperType": "software",
-      "currency": "EUR",
-      "description": "iDoceo ist ein leistungsstarker Lehrerassistent für das iPad/iPhone/Mac \nErmöglicht das Management einer beliebigen Anzahl an Schülern und Klassen\n\nSie zahlen für iDoceo nur einmal für die vollständige App und alle Updates.\nEs fallen keine weiteren Kosten für Abonnements oder Käufe in der App an. \n\niDoceo respektiert Ihre persönlichen Daten. Keine Internetverbindung erforderlich.  \nAlle Ihre Daten werden ausschließlich lokal auf Ihrem iPad und nicht in einer Cloud oder auf externen Servern gespeichert. \n\nEin All-in-One-Tool inklusive:\n\n   - Umfassendes und konfigurierbares Klassenbuch mit benutzerdefinierten Kalkulationen, Anwesenheit und optionaler Verknüpfung mit Google Classroom.\n   - Unterrichtsplaner: Wochen-/Tagesansichten\n   - Terminkalender: Tages-/Wochen-/Monats-/Zeitachsenansichten einzelner Klassen\n   - Stundenplan\n   - Sitzpläne\n   - Ressourcenmanager für die Verwaltung von PDFs, Audiodateien, Verknüpfungen, Bildern etc.\n   - Notizblöcke mit handschriftlichen Notizen, Zeichnungen und Texten mit Zeitstempel\n   - Konfigurierbare Berichte als PDF, CSV, XLS und TXT\n\nHauptfunktionen: \n\n• PLANER, TERMINKALENDER UND STUNDENPLAN \n\n  - Konfiguration von einfachen Wochenstundenplänen oder komplexen rotierenden Zyklen mit Ferien. \n  - Individuelle Terminkalender für jede Klasse. Ansichten für einzelne Tage, Wochen, Monate und Zeitachse. \n  - Hinzufügen von Dateien aus beliebigen Quellen, Videos, Audio, handschriftliche Notizen, Verknüpfungen und Ressourcen für Ihre Unterrichtsstunden\n\n  \n• KLASSENBUCH\n\n  - Verwenden Sie Rubriken, Kategorien, Symbole, Farben, Text oder Noten auf Zahlenbasis. Konfigurieren Sie Ihr eigenes Benotungssystem\n  - Funktionen zur Nachverfolgung von Belegen. Machen Sie Fotos, nehmen Sie Videos und Audiodateien auf und weisen Sie diese beliebigen Zellen und Schülern zu.\n  - Berechnung einfacher gewichteter Durchschnitte und Hinzufügen oder Erstellen benutzerdefinierter Formeln wie in Excel mit Bedingungen und komplexe Funktionen.\n  - Hinzufügen unbegrenzter Spalten, Kategorien, Zeilen und Seiten zur individuellen Organisation von Informationen\n  - Automatisches Versenden personalisierter Informationen und Berichte an Schüler per E-Mail mit Noten, Anmerkungen oder Dateien \n  - Filtern von Informationen zu Schülern oder Gruppen direkt am Display\n  - Teilen von Konfigurationen des Notenbuchs mit anderen Benutzern\n  - Import von aktuellen Daten aus XLS,CSV\n  - Import von Fotos Ihrer Schüler aus einer Bilddatei mit Gesichtserkennung oder aus mehreren separaten Dateien\n  - Export von beliebigen Daten als PDF, XLS oder CSV\n\n• SITZPLÄNE \n\n  - Hinzufügen von Spalten und Bearbeiten von Daten wie im Notenbuch. \n  - Bis zu zehn Sitzpläne pro Klasse mit fünf verschiedenen Modi und Hintergründen\n\n• TO-DO-LISTEN, TEXTE UND HANDSCHRIFTLICHE NOTIZEN\n\n  - Erstellung einer beliebigen Anzahl an unabhängigen Notizblöcken oder in Verknüpfung mit einer Klasse. \n  - To-Do-Listen mit Ereignisalarmen\n  - Textnotizen mit Zeitstempel für Meetings mit Verknüpfung zu Klassen oder Schülern\n\n• RESSOURCENMANAGER\n\n  - Aufnahme von Audio und Videos mit handschriftlichen Notizen, Signaturen, Dateien, Bildern, Verknüpfungen und Text oder Anmerkungen \nÜberall: Zellen im Notenbuch, Schüler, Klassen, Terminkalender, Planer.\n  - Umfassender PDF Reader mit Lesezeichen und Thumbnails\n  - Abspielen von Präsentationen, Ansicht von XLS-Dateien, Audio und Video.\n\n• SYSTEM-TOOLS\n  \n  - Mehrere Backup-Optionen: Dropbox, Google Drive, OneDrive,  iCloud oder eigener WebDAV-Server.\n  - Passwortschutz für Inhalte\n  - Tool und Glücksrad zur Auswahl von Schülern\n  - Klassenübersicht mit konfigurierbaren Widgets.\n  - Papierkorb für kürzlich gelöschte Schüler, Spalten und Klassen\n\n  Vielen Dank für Ihre Unterstützung und hilfreichen Kommentare im App-Store!\n  Besuchen Sie unser Forum auf www.idoceo.net oder senden Sie uns eine E-Mail aus der App unter Help > Support&Suggestions falls Sie Fragen oder Vorschläge für zukünftige Updates haben.",
-      "bundleId": "net.idoceo.iDoceo",
-      "minimumOsVersion": "12.4",
-      "genreIds": [
-        "6017",
-        "6007"
-      ],
-      "primaryGenreName": "Education",
-      "primaryGenreId": 6017,
-      "userRatingCount": 2676,
+      "trackName": "iDoceo - Lehrerkalender",
+      "userRatingCount": 2695,
       "country": "DEU"
     }
   ]

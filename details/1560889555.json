@@ -198,13 +198,6 @@
       "userRatingCount": 680
     },
     {
-      "features": [
-        "iosUniversal"
-      ],
-      "isGameCenterEnabled": false,
-      "artistViewUrl": "https://apps.apple.com/jp/developer/costco-wholesale-corporation/id535509418?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c3/ec/ec/c3ecec24-b925-6ead-1c26-8db9d4527455/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c3/ec/ec/c3ecec24-b925-6ead-1c26-8db9d4527455/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/56/9b/42/569b423c-3148-4998-040d-4aa8aa8b59cd/81f04fe7-3e64-45bd-a925-939a66441615_iphone-5.5-1242x2208_1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/34/54/94/34549497-4ca6-70b5-6f9e-04ab16cbf749/2838699a-5a09-4e72-9996-10b403bff044_iphone-5.5-1242x2208_2.png/392x696bb.png",
@@ -220,7 +213,15 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/f9/93/bf/f993bf86-1c63-bb7b-34d3-f2b18d8ee9c7/5326da25-c0be-4bf8-b084-0530e31115ce_-2048x2732-5.png/576x768bb.png"
       ],
       "appletvScreenshotUrls": [],
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c3/ec/ec/c3ecec24-b925-6ead-1c26-8db9d4527455/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c3/ec/ec/c3ecec24-b925-6ead-1c26-8db9d4527455/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c3/ec/ec/c3ecec24-b925-6ead-1c26-8db9d4527455/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/jp/developer/costco-wholesale-corporation/id535509418?uo=4",
+      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -348,50 +349,52 @@
         "iPadAir11M4-iPadAir11M4",
         "iPadAir11M4Cellular-iPadAir11M4Cellular",
         "iPadAir13M4-iPadAir13M4",
-        "iPadAir13M4Cellular-iPadAir13M4Cellular"
+        "iPadAir13M4Cellular-iPadAir13M4Cellular",
+        "iPhone18Pro-iPhone18Pro",
+        "iPhone18ProMax-iPhone18ProMax",
+        "iPhoneDuo-iPhoneDuo"
       ],
       "kind": "software",
-      "advisories": [],
+      "minimumOsVersion": "15.0",
+      "primaryGenreName": "Shopping",
+      "primaryGenreId": 6024,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "averageUserRatingForCurrentVersion": 2.02276,
+      "averageUserRating": 2.02276,
+      "trackCensoredName": "コストコ公式アプリ",
       "languageCodesISO2A": [
         "EN",
         "JA"
       ],
-      "averageUserRating": 2.02429,
       "fileSizeBytes": "195361792",
       "formattedPrice": "無料",
-      "userRatingCountForCurrentVersion": 700,
-      "trackContentRating": "4+",
-      "trackCensoredName": "コストコ公式アプリ",
-      "trackViewUrl": "https://apps.apple.com/jp/app/%E3%82%B3%E3%82%B9%E3%83%88%E3%82%B3%E5%85%AC%E5%BC%8F%E3%82%A2%E3%83%97%E3%83%AA/id1560889555?uo=4",
       "contentAdvisoryRating": "4+",
-      "averageUserRatingForCurrentVersion": 2.02429,
+      "userRatingCountForCurrentVersion": 703,
+      "trackViewUrl": "https://apps.apple.com/jp/app/%E3%82%B3%E3%82%B9%E3%83%88%E3%82%B3%E5%85%AC%E5%BC%8F%E3%82%A2%E3%83%97%E3%83%AA/id1560889555?uo=4",
+      "trackContentRating": "4+",
+      "artistName": "Costco Wholesale Corporation",
+      "artistId": 535509418,
+      "price": 0,
       "genres": [
         "ショッピング",
         "ライフスタイル"
       ],
-      "artistId": 535509418,
-      "artistName": "Costco Wholesale Corporation",
-      "price": 0,
+      "releaseDate": "2021-03-31T07:00:00Z",
+      "sellerName": "Costco Wholesale Corporation",
+      "currentVersionReleaseDate": "2026-08-30T19:49:37Z",
+      "bundleId": "intl.costco.com.mobile.japan",
       "trackId": 1560889555,
       "trackName": "コストコ公式アプリ",
-      "sellerName": "Costco Wholesale Corporation",
-      "bundleId": "intl.costco.com.mobile.japan",
-      "isVppDeviceBasedLicensingEnabled": true,
       "genreIds": [
         "6024",
         "6012"
       ],
-      "releaseDate": "2021-03-31T07:00:00Z",
-      "primaryGenreName": "Shopping",
-      "primaryGenreId": 6024,
       "releaseNotes": "コストコ公式アプリをご利用いただきましてありがとうございます。\n\n快適にアプリをご利用いただくため、UIおよび軽微な改善を行いました。\n\n最新バージョンにアップデートの上ご利用ください。",
       "version": "3.36.0",
       "wrapperType": "software",
       "currency": "JPY",
       "description": "コストコショッピングアプリを使って、コストコオンラインでお買い物をお楽しみください。\n\n【アプリの便利な機能】\nオンラインショッピング\nほしいものリスト\n倉庫店でご利用頂けるデジタルメンバーシップ\nコストコ会員の新規入会・更新\nオンライン・倉庫店でのお得な割引情報\nオンラインでの購入履歴の閲覧・注文情報追跡\n倉庫店でのイベント情報\n\nその他、メンバー様に便利な機能を定期的に追加していきます。\nこのアプリでオンラインショッピングやコストコメンバー限定の機能をお楽しみ頂くには、コストコのメンバーシップが必要です。アプリ、ウェブサイト、または倉庫店のいずれかの場所からメンバーシップのご購入が可能です。ゲストとして利用できるアプリの機能は限られています。",
-      "minimumOsVersion": "15.0",
-      "currentVersionReleaseDate": "2026-08-30T19:49:37Z",
-      "userRatingCount": 700,
+      "userRatingCount": 703,
       "country": "JPN"
     }
   ]

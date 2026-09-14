@@ -205,8 +205,8 @@
       ],
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/0c/7d/c90c7d0e-c13a-ec9c-7763-5c38ee215d7d/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/60x60bb.jpg",
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/0c/7d/c90c7d0e-c13a-ec9c-7763-5c38ee215d7d/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/512x512bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/0c/7d/c90c7d0e-c13a-ec9c-7763-5c38ee215d7d/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/0c/7d/c90c7d0e-c13a-ec9c-7763-5c38ee215d7d/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/100x100bb.jpg",
       "artistViewUrl": "https://apps.apple.com/cn/developer/%E4%B8%AD%E5%9B%BD%E9%82%AE%E6%94%BF%E5%82%A8%E8%93%84%E9%93%B6%E8%A1%8C/id493489518?uo=4",
       "supportedDevices": [
@@ -336,10 +336,20 @@
         "iPadAir11M4-iPadAir11M4",
         "iPadAir11M4Cellular-iPadAir11M4Cellular",
         "iPadAir13M4-iPadAir13M4",
-        "iPadAir13M4Cellular-iPadAir13M4Cellular"
+        "iPadAir13M4Cellular-iPadAir13M4Cellular",
+        "iPhone18Pro-iPhone18Pro",
+        "iPhone18ProMax-iPhone18ProMax",
+        "iPhoneDuo-iPhoneDuo"
       ],
       "minimumOsVersion": "13.0",
-      "price": 0,
+      "artistId": 493489518,
+      "artistName": "中国邮政储蓄银行",
+      "genres": [
+        "财务",
+        "工具"
+      ],
+      "bundleId": "com.psbc.mobilebank",
+      "currentVersionReleaseDate": "2026-08-31T05:26:55Z",
       "releaseDate": "2012-01-29T14:10:54Z",
       "genreIds": [
         "6015",
@@ -349,15 +359,12 @@
       "primaryGenreId": 6015,
       "sellerName": "Postal Savings Bank of China",
       "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-08-31T05:26:55Z",
+      "releaseNotes": "1.完善功能细节。",
       "version": "11.8.0",
       "wrapperType": "software",
       "currency": "CNY",
       "description": "本产品是中国邮政储蓄银行为iPhone用户打造的手机银行。客户通过手机银行可办理账户查询及管理、转账汇款、贷款、信用卡、投资理财、缴费、支付等业务，保证客户足不出户即可享受7*24小时的金融服务。\n\n客户服务热线:95580\n信用卡客户服务热线:40088-95580",
       "sellerUrl": "http://www.psbc.com",
-      "averageUserRatingForCurrentVersion": 4.67255,
-      "averageUserRating": 4.67255,
-      "trackCensoredName": "邮储银行",
       "languageCodesISO2A": [
         "EN",
         "ZH",
@@ -365,21 +372,17 @@
       ],
       "fileSizeBytes": "325826560",
       "formattedPrice": "免费",
-      "contentAdvisoryRating": "4+",
-      "userRatingCountForCurrentVersion": 623453,
-      "trackViewUrl": "https://apps.apple.com/cn/app/%E9%82%AE%E5%82%A8%E9%93%B6%E8%A1%8C/id493489515?uo=4",
+      "userRatingCountForCurrentVersion": 626700,
       "trackContentRating": "4+",
+      "averageUserRatingForCurrentVersion": 4.67356,
+      "averageUserRating": 4.67356,
+      "contentAdvisoryRating": "4+",
+      "trackCensoredName": "邮储银行",
+      "trackViewUrl": "https://apps.apple.com/cn/app/%E9%82%AE%E5%82%A8%E9%93%B6%E8%A1%8C/id493489515?uo=4",
       "trackId": 493489515,
       "trackName": "邮储银行",
-      "bundleId": "com.psbc.mobilebank",
-      "releaseNotes": "1.完善功能细节。",
-      "artistId": 493489518,
-      "artistName": "中国邮政储蓄银行",
-      "genres": [
-        "财务",
-        "工具"
-      ],
-      "userRatingCount": 623453,
+      "price": 0,
+      "userRatingCount": 626700,
       "country": "CHN"
     }
   ]

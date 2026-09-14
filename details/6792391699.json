@@ -2,6 +2,13 @@
   "resultCount": 1,
   "results": [
     {
+      "artistViewUrl": "https://apps.apple.com/jp/developer/shikaka-inc/id1573251802?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/34/d4/7b34d4df-3381-211c-90b8-ec439eb0ca9c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/34/d4/7b34d4df-3381-211c-90b8-ec439eb0ca9c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+      "advisories": [],
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -129,16 +136,12 @@
         "iPadAir11M4-iPadAir11M4",
         "iPadAir11M4Cellular-iPadAir11M4Cellular",
         "iPadAir13M4-iPadAir13M4",
-        "iPadAir13M4Cellular-iPadAir13M4Cellular"
+        "iPadAir13M4Cellular-iPadAir13M4Cellular",
+        "iPhone18Pro-iPhone18Pro",
+        "iPhone18ProMax-iPhone18ProMax",
+        "iPhoneDuo-iPhoneDuo"
       ],
-      "isGameCenterEnabled": false,
-      "advisories": [],
       "kind": "software",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/34/d4/7b34d4df-3381-211c-90b8-ec439eb0ca9c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/34/d4/7b34d4df-3381-211c-90b8-ec439eb0ca9c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5e/c8/b2/5ec8b28a-67ae-1d85-f1ce-a675c29613fc/tone-appstore-1.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c5/34/b6/c534b65f-6c1d-3e8d-46f3-042d393f084d/tone-appstore-2.png/320x480bb.jpg",
@@ -153,26 +156,25 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/34/d4/7b34d4df-3381-211c-90b8-ec439eb0ca9c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/jp/developer/shikaka-inc/id1573251802?uo=4",
-      "genres": [
-        "グラフィック／デザイン",
-        "写真／ビデオ"
-      ],
+      "isGameCenterEnabled": false,
+      "averageUserRating": 4.66355,
+      "trackCensoredName": "tone - 紙に刷ったような写真加工",
+      "trackViewUrl": "https://apps.apple.com/jp/app/tone-%E7%B4%99%E3%81%AB%E5%88%B7%E3%81%A3%E3%81%9F%E3%82%88%E3%81%86%E3%81%AA%E5%86%99%E7%9C%9F%E5%8A%A0%E5%B7%A5/id6792391699?uo=4",
+      "contentAdvisoryRating": "4+",
+      "minimumOsVersion": "17.0",
+      "releaseNotes": "tone 1.3.1では、一部のiPadでアプリが終了してしまう問題を修正しました。\n\n・iPad（第6世代・第7世代）とiPad Pro（2017）で、画像を選んだ直後にアプリが終了する問題を修正しました",
       "price": 0,
-      "currentVersionReleaseDate": "2026-09-02T01:26:47Z",
-      "releaseDate": "2026-07-22T07:00:00Z",
+      "artistId": 1573251802,
+      "artistName": "Shikaka, Inc.",
       "bundleId": "com.yojihan.tone",
+      "sellerName": "Shikaka, Inc.",
+      "releaseDate": "2026-07-22T07:00:00Z",
       "primaryGenreName": "Graphics & Design",
       "primaryGenreId": 6027,
+      "currentVersionReleaseDate": "2026-09-02T01:26:47Z",
+      "isVppDeviceBasedLicensingEnabled": true,
       "trackId": 6792391699,
       "trackName": "tone - 紙に刷ったような写真加工",
-      "releaseNotes": "tone 1.3.1では、一部のiPadでアプリが終了してしまう問題を修正しました。\n\n・iPad（第6世代・第7世代）とiPad Pro（2017）で、画像を選んだ直後にアプリが終了する問題を修正しました",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "genreIds": [
-        "6027",
-        "6008"
-      ],
-      "sellerName": "Shikaka, Inc.",
       "version": "1.3.1",
       "wrapperType": "software",
       "currency": "JPY",
@@ -186,17 +188,18 @@
       ],
       "fileSizeBytes": "8025088",
       "formattedPrice": "無料",
-      "userRatingCountForCurrentVersion": 106,
+      "userRatingCountForCurrentVersion": 107,
       "trackContentRating": "4+",
-      "averageUserRating": 4.66038,
-      "trackViewUrl": "https://apps.apple.com/jp/app/tone-%E7%B4%99%E3%81%AB%E5%88%B7%E3%81%A3%E3%81%9F%E3%82%88%E3%81%86%E3%81%AA%E5%86%99%E7%9C%9F%E5%8A%A0%E5%B7%A5/id6792391699?uo=4",
-      "contentAdvisoryRating": "4+",
-      "trackCensoredName": "tone - 紙に刷ったような写真加工",
-      "averageUserRatingForCurrentVersion": 4.66038,
-      "minimumOsVersion": "17.0",
-      "artistId": 1573251802,
-      "artistName": "Shikaka, Inc.",
-      "userRatingCount": 106,
+      "averageUserRatingForCurrentVersion": 4.66355,
+      "genreIds": [
+        "6027",
+        "6008"
+      ],
+      "genres": [
+        "グラフィック／デザイン",
+        "写真／ビデオ"
+      ],
+      "userRatingCount": 107,
       "country": "JPN"
     }
   ]

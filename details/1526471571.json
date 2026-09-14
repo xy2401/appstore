@@ -3,7 +3,9 @@
   "results": [
     {
       "isGameCenterEnabled": false,
-      "advisories": [],
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -131,9 +133,16 @@
         "iPadAir11M4-iPadAir11M4",
         "iPadAir11M4Cellular-iPadAir11M4Cellular",
         "iPadAir13M4-iPadAir13M4",
-        "iPadAir13M4Cellular-iPadAir13M4Cellular"
+        "iPadAir13M4Cellular-iPadAir13M4Cellular",
+        "iPhone18Pro-iPhone18Pro",
+        "iPhone18ProMax-iPhone18ProMax",
+        "iPhoneDuo-iPhoneDuo"
       ],
+      "advisories": [],
       "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/gb/developer/fitsum-gaim/id1526471573?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/fa/54/27fa54e9-cfd2-c5f8-c581-4f0581ca5591/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/fa/54/27fa54e9-cfd2-c5f8-c581-4f0581ca5591/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6a/70/69/6a7069e6-4789-334e-0268-444e7dd345d2/9d5a96bf-3162-4379-8cde-94ee5bb0ca0a_geezime.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f3/22/f8/f322f88d-4e89-1e5f-7d8d-dd66ecd1d38b/570738a7-e00e-47aa-89e0-f1cb943c499f_tigrinya.png/392x696bb.png",
@@ -153,12 +162,6 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/fa/54/27fa54e9-cfd2-c5f8-c581-4f0581ca5591/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/gb/developer/fitsum-gaim/id1526471573?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/fa/54/27fa54e9-cfd2-c5f8-c581-4f0581ca5591/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/fa/54/27fa54e9-cfd2-c5f8-c581-4f0581ca5591/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
       "artistId": 1526471573,
       "artistName": "Fitsum Gaim",
       "genres": [
@@ -166,38 +169,38 @@
         "Productivity"
       ],
       "price": 5.99,
-      "releaseDate": "2020-08-21T07:00:00Z",
-      "trackName": "GeezIME - Geez Keyboard",
       "trackId": 1526471571,
-      "genreIds": [
-        "6002",
-        "6007"
-      ],
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
+      "trackName": "GeezIME - Geez Keyboard",
       "sellerName": "Fitsum Gaim",
       "isVppDeviceBasedLicensingEnabled": true,
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
+      "releaseDate": "2020-08-21T07:00:00Z",
       "currentVersionReleaseDate": "2026-07-08T21:09:38Z",
       "releaseNotes": "Stability improvements, builtin emoji board with search, dedicated layouts for iPhone and iPad, live light/dark themes, and other improvements.",
       "version": "2026",
       "wrapperType": "software",
       "currency": "GBP",
       "description": "GeezIME is the easiest and most elegant way to type Ge`ez script on iOS, macOS, Andriod, Windows, and the Web.\n\n\nSupported languages: Tigrinya, Tigre, Blin, and Amharic\n\nFeatures:\n- GeezLab's easy keyboard mapping that uses the most familiar QWERTY keyboard layout.\n- Consistent typing method with GeezIME editions in other platforms (Windows, Andriod, Mac).\n- Suggestions (Autocompletion) for multiple languages.\n- Add your own words to the suggestions dictionary for future use.\n- Next-letter preview capability. Press and hold keys and move around the keyboard to see a preview.\n- Adaptive key mapping, letters are prioritized based on the selected language. For example, \"xe\" has a different mapping in Tigrinya vs Amharic, similarly, Blin introduces the \"Ge\" series.\n- Smart character deletion that matches the syllabary nature of Ge'ez script via the backspace key.\n- Full support for Ge'ez punctuation marks and number system.\n- Easily switch between GeezIME and other keyboards on your device.",
+      "trackCensoredName": "GeezIME - Geez Keyboard",
+      "trackViewUrl": "https://apps.apple.com/gb/app/geezime-geez-keyboard/id1526471571?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4,
+      "bundleId": "com.geezlab.igeezime",
       "minimumOsVersion": "16.0",
-      "userRatingCountForCurrentVersion": 10,
+      "averageUserRatingForCurrentVersion": 4,
       "sellerUrl": "https://geezlab.com",
+      "userRatingCountForCurrentVersion": 10,
+      "trackContentRating": "4+",
       "languageCodesISO2A": [
         "EN"
       ],
       "fileSizeBytes": "12246016",
       "formattedPrice": "£5.99",
-      "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4,
-      "trackCensoredName": "GeezIME - Geez Keyboard",
-      "trackViewUrl": "https://apps.apple.com/gb/app/geezime-geez-keyboard/id1526471571?uo=4",
-      "contentAdvisoryRating": "4+",
-      "bundleId": "com.geezlab.igeezime",
-      "averageUserRating": 4,
+      "genreIds": [
+        "6002",
+        "6007"
+      ],
       "userRatingCount": 10,
       "country": "GBR"
     }

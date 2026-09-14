@@ -186,6 +186,13 @@
       "userRatingCount": 4640
     },
     {
+      "artistViewUrl": "https://apps.apple.com/jp/developer/nhk-japan-broadcasting-corporation/id307227304?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/e4/88/71e4883d-1c1b-8fa8-3a5c-b238be193a77/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/e4/88/71e4883d-1c1b-8fa8-3a5c-b238be193a77/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
+      "advisories": [],
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -313,16 +320,12 @@
         "iPadAir11M4-iPadAir11M4",
         "iPadAir11M4Cellular-iPadAir11M4Cellular",
         "iPadAir13M4-iPadAir13M4",
-        "iPadAir13M4Cellular-iPadAir13M4Cellular"
+        "iPadAir13M4Cellular-iPadAir13M4Cellular",
+        "iPhone18Pro-iPhone18Pro",
+        "iPhone18ProMax-iPhone18ProMax",
+        "iPhoneDuo-iPhoneDuo"
       ],
-      "isGameCenterEnabled": false,
-      "advisories": [],
       "kind": "software",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/e4/88/71e4883d-1c1b-8fa8-3a5c-b238be193a77/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/e4/88/71e4883d-1c1b-8fa8-3a5c-b238be193a77/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/89/74/b9/8974b9cc-bec4-a22a-e0e0-82ca3e3ba144/01_top_1.3.0_iOS.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2d/75/0d/2d750de9-48bc-be75-7d5c-16d607bac101/02_news01_rev.png/320x480bb.jpg",
@@ -345,26 +348,25 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/e4/88/71e4883d-1c1b-8fa8-3a5c-b238be193a77/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/jp/developer/nhk-japan-broadcasting-corporation/id307227304?uo=4",
-      "genres": [
-        "ニュース",
-        "天気"
-      ],
+      "isGameCenterEnabled": false,
+      "averageUserRating": 3.22362,
+      "trackCensoredName": "NHK ONE ニュース・防災",
+      "trackViewUrl": "https://apps.apple.com/jp/app/nhk-one-%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9-%E9%98%B2%E7%81%BD/id6746427272?uo=4",
+      "contentAdvisoryRating": "4+",
+      "minimumOsVersion": "16.0",
+      "releaseNotes": "今回のリリースでは、以下の変更を行いました。\n \n・記事の検索機能を追加しました。\n・軽微な修正を行いました。\n \n今後も機能拡充と改善に努めてまいります。",
       "price": 0,
-      "currentVersionReleaseDate": "2026-07-14T02:00:27Z",
-      "releaseDate": "2025-10-01T07:00:00Z",
+      "artistId": 307227304,
+      "artistName": "NHK (Japan Broadcasting Corporation)",
       "bundleId": "nhk.app.nwa",
+      "sellerName": "NHK (Japan Broadcasting Corp.)",
+      "releaseDate": "2025-10-01T07:00:00Z",
       "primaryGenreName": "News",
       "primaryGenreId": 6009,
+      "currentVersionReleaseDate": "2026-07-14T02:00:27Z",
+      "isVppDeviceBasedLicensingEnabled": true,
       "trackId": 6746427272,
       "trackName": "NHK ONE ニュース・防災",
-      "releaseNotes": "今回のリリースでは、以下の変更を行いました。\n \n・記事の検索機能を追加しました。\n・軽微な修正を行いました。\n \n今後も機能拡充と改善に努めてまいります。",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "genreIds": [
-        "6009",
-        "6001"
-      ],
-      "sellerName": "NHK (Japan Broadcasting Corp.)",
       "version": "1.6.0",
       "wrapperType": "software",
       "currency": "JPY",
@@ -374,18 +376,19 @@
       ],
       "fileSizeBytes": "37352448",
       "formattedPrice": "無料",
-      "userRatingCountForCurrentVersion": 5977,
+      "userRatingCountForCurrentVersion": 6028,
       "trackContentRating": "4+",
-      "averageUserRating": 3.22135,
-      "trackViewUrl": "https://apps.apple.com/jp/app/nhk-one-%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9-%E9%98%B2%E7%81%BD/id6746427272?uo=4",
-      "contentAdvisoryRating": "4+",
       "sellerUrl": "https://www.nhk.or.jp/nhkone/service/",
-      "trackCensoredName": "NHK ONE ニュース・防災",
-      "averageUserRatingForCurrentVersion": 3.22135,
-      "minimumOsVersion": "16.0",
-      "artistId": 307227304,
-      "artistName": "NHK (Japan Broadcasting Corporation)",
-      "userRatingCount": 5977,
+      "averageUserRatingForCurrentVersion": 3.22362,
+      "genreIds": [
+        "6009",
+        "6001"
+      ],
+      "genres": [
+        "ニュース",
+        "天気"
+      ],
+      "userRatingCount": 6028,
       "country": "JPN"
     }
   ]

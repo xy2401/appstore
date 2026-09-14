@@ -226,9 +226,9 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6d/4e/99/6d4e99e9-ad39-aee6-f3a8-8a8247eb7868/cn_4.jpg/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/4b/8a/664b8a05-aeec-0a36-1e26-57cd0f17d971/AppIcon-0-0-1x_U007emarketing-0-5-0-sRGB-85-220.png/60x60bb.jpg",
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/4b/8a/664b8a05-aeec-0a36-1e26-57cd0f17d971/AppIcon-0-0-1x_U007emarketing-0-5-0-sRGB-85-220.png/512x512bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/4b/8a/664b8a05-aeec-0a36-1e26-57cd0f17d971/AppIcon-0-0-1x_U007emarketing-0-5-0-sRGB-85-220.png/100x100bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/87/98/508798e2-09e5-8708-f175-faadcdd8157e/AppIcon-0-0-1x_U007emarketing-0-5-0-sRGB-85-220.png/512x512bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/87/98/508798e2-09e5-8708-f175-faadcdd8157e/AppIcon-0-0-1x_U007emarketing-0-5-0-sRGB-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/87/98/508798e2-09e5-8708-f175-faadcdd8157e/AppIcon-0-0-1x_U007emarketing-0-5-0-sRGB-85-220.png/100x100bb.jpg",
       "artistViewUrl": "https://apps.apple.com/cn/developer/dji/id599957686?uo=4",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
@@ -358,10 +358,20 @@
         "iPadAir11M4-iPadAir11M4",
         "iPadAir11M4Cellular-iPadAir11M4Cellular",
         "iPadAir13M4-iPadAir13M4",
-        "iPadAir13M4Cellular-iPadAir13M4Cellular"
+        "iPadAir13M4Cellular-iPadAir13M4Cellular",
+        "iPhone18Pro-iPhone18Pro",
+        "iPhone18ProMax-iPhone18ProMax",
+        "iPhoneDuo-iPhoneDuo"
       ],
       "minimumOsVersion": "15.0",
-      "price": 0,
+      "artistId": 599957686,
+      "artistName": "DJI",
+      "genres": [
+        "摄影与录像",
+        "娱乐"
+      ],
+      "bundleId": "com.dji.mimo",
+      "currentVersionReleaseDate": "2026-09-14T02:54:25Z",
       "releaseDate": "2018-12-12T00:14:32Z",
       "genreIds": [
         "6008",
@@ -371,15 +381,12 @@
       "primaryGenreId": 6008,
       "sellerName": "SZ DJI TECHNOLOGY CO., LTD",
       "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-09-01T02:42:13Z",
-      "version": "2.11.9",
+      "releaseNotes": "DJI Mimo 迎来视觉升级，全新体验等你探索：\n全局视觉升级，内容浏览更直观\n编辑界面焕新，常用功能一键达\n教学专区重构，使用攻略轻松找\n\n创意编辑再升级\n1. 中秋、国庆节日限定水印：双节专属水印上线，添加水印为你的作品增添、节日氛围\n2. 实况出圈：Live 三拼全新玩法，一键让画面中的人物、宠物等主体突破边框，成片瞬间立体生动\n3. 新增「个人专属水印」：上传头像即可打造个人专属设备水印，支持在素材导出、Live 画框、贴纸等场景使用，为你的作品增添个人印记",
+      "version": "2.12.0",
       "wrapperType": "software",
       "currency": "CNY",
       "description": "DJI Mimo 是 DJI 为手持稳定设备打造的专属应用，精准控制云台相机，实时预览拍摄画面。编辑器简洁易用，且提供丰富模版和配乐可供选择，智能功能增添拍摄趣味，Story 模式助力快速成片。拍摄，剪辑和分享，在 DJI Mimo 一气呵成。\n\n主要亮点： \n1. 支持通过蓝牙或 Wi-Fi 无线连接，远程控制 Osmo 设备及下载素材到本地；\n2. 提供官方专业的设备使用和拍摄技巧教学；\n3. 精准的人脸识别和美颜功能，让你始终是美丽的焦点； \n4. 支持丰富的视频剪辑功能，支持字幕、贴纸、特效、音乐等资源的多轨道编辑；\n5. 全新升级 AI 自动化剪辑能力 ，智能分析素材提取高光片段，推荐匹配的模板，一键成片；\n6. 海量全新主题模板，一键导入视频片段，精美大片即刻生成\n7. 支持丰富的编辑素材资源，包括滤镜、转场、音乐、水印、贴纸、花字、音效等",
       "sellerUrl": "http://store.dji.com/",
-      "averageUserRatingForCurrentVersion": 4.91539,
-      "averageUserRating": 4.91539,
-      "trackCensoredName": "DJI Mimo",
       "languageCodesISO2A": [
         "EN",
         "FR",
@@ -397,23 +404,19 @@
         "ZH",
         "TR"
       ],
-      "fileSizeBytes": "2009665536",
+      "fileSizeBytes": "2063026176",
       "formattedPrice": "免费",
-      "contentAdvisoryRating": "4+",
-      "userRatingCountForCurrentVersion": 344724,
-      "trackViewUrl": "https://apps.apple.com/cn/app/dji-mimo/id1431720653?uo=4",
+      "userRatingCountForCurrentVersion": 348409,
       "trackContentRating": "4+",
+      "averageUserRatingForCurrentVersion": 4.91536,
+      "averageUserRating": 4.91536,
+      "contentAdvisoryRating": "4+",
+      "trackCensoredName": "DJI Mimo",
+      "trackViewUrl": "https://apps.apple.com/cn/app/dji-mimo/id1431720653?uo=4",
       "trackId": 1431720653,
       "trackName": "DJI Mimo",
-      "bundleId": "com.dji.mimo",
-      "releaseNotes": "新品速递\n新增适配 Osmo 360 II 全景相机；每一面，都是大场面\n\n创意编辑再升级\n1.新增「个人专属水印」：上传头像即可打造个人专属设备水印，支持在素材导出、Live画框、贴纸等场景使用，为你的作品增添个人印记！\n2.氛围慢动作实况：相册截屏新增慢动作实况模式，视频可一键导出氛围慢动作live图（48fps及以上平面视频素材适用）",
-      "artistId": 599957686,
-      "artistName": "DJI",
-      "genres": [
-        "摄影与录像",
-        "娱乐"
-      ],
-      "userRatingCount": 344724,
+      "price": 0,
+      "userRatingCount": 348409,
       "country": "CHN"
     }
   ]

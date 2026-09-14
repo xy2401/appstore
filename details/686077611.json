@@ -192,6 +192,10 @@
     },
     {
       "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -320,19 +324,12 @@
         "iPadAir11M4-iPadAir11M4",
         "iPadAir11M4Cellular-iPadAir11M4Cellular",
         "iPadAir13M4-iPadAir13M4",
-        "iPadAir13M4Cellular-iPadAir13M4Cellular"
+        "iPadAir13M4Cellular-iPadAir13M4Cellular",
+        "iPhone18Pro-iPhone18Pro",
+        "iPhone18ProMax-iPhone18ProMax",
+        "iPhoneDuo-iPhoneDuo"
       ],
       "kind": "software",
-      "features": [
-        "iosUniversal"
-      ],
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/49/01/e4/4901e43b-b7b9-499a-592c-ce1d84a773cc/84b89218-4cef-4135-b40d-dd43090a4be5_English1.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ff/f7/90/fff79012-cbed-a10f-3eac-7b20eef6266f/1b5f9d8d-f7e3-4d11-85af-bd5e2fbf1c83_English2.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ca/c2/4d/cac24da4-2dd1-3271-4029-63cf72cd1f3c/e27acadc-5637-43f5-9f36-f554c508fe82_English_3.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9c/53/a1/9c53a128-521a-0aa0-3f7d-92ee829cc8ad/17df9524-0c06-441a-8423-4625be1866a1_English_4.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8c/f6/f8/8cf6f815-2e2a-2e84-0225-7f0e711d6674/33db41f8-8801-4131-8a81-d8509633703a_English_5.jpg/320x480bb.jpg"
-      ],
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/79/7d/0b/797d0bf8-30dd-7650-8c9a-b2b0b3c700a3/0b5a452c-18c8-4d10-a08a-ec64a240b788_Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2024-06-07_at_12.01.27.png/360x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ec/32/67/ec32671f-76c3-d47f-31ee-4d7431cab687/60c640de-9ade-46ba-b04b-035909584d5e_Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2024-06-07_at_12.01.31.png/360x480bb.jpg",
@@ -341,12 +338,37 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0a/88/79/0a88791f-ab30-c246-750e-9eb5cf794ca7/e4dec5f8-6f62-4f09-9a9e-0cf7d649ef8c_Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2024-06-07_at_14.28.10.png/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/0d/78/780d78ca-b03a-9d6a-66ea-f0fc37937e84/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/512x512bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/3e/b7/bd3eb786-82aa-a5ea-84c1-74f6d2631136/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/512x512bb.jpg",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/49/01/e4/4901e43b-b7b9-499a-592c-ce1d84a773cc/84b89218-4cef-4135-b40d-dd43090a4be5_English1.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ff/f7/90/fff79012-cbed-a10f-3eac-7b20eef6266f/1b5f9d8d-f7e3-4d11-85af-bd5e2fbf1c83_English2.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ca/c2/4d/cac24da4-2dd1-3271-4029-63cf72cd1f3c/e27acadc-5637-43f5-9f36-f554c508fe82_English_3.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9c/53/a1/9c53a128-521a-0aa0-3f7d-92ee829cc8ad/17df9524-0c06-441a-8423-4625be1866a1_English_4.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8c/f6/f8/8cf6f815-2e2a-2e84-0225-7f0e711d6674/33db41f8-8801-4131-8a81-d8509633703a_English_5.jpg/320x480bb.jpg"
+      ],
       "artistViewUrl": "https://apps.apple.com/de/developer/masarat-app/id526065575?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/0d/78/780d78ca-b03a-9d6a-66ea-f0fc37937e84/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/0d/78/780d78ca-b03a-9d6a-66ea-f0fc37937e84/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/100x100bb.jpg",
-      "advisories": [],
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/3e/b7/bd3eb786-82aa-a5ea-84c1-74f6d2631136/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/3e/b7/bd3eb786-82aa-a5ea-84c1-74f6d2631136/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/100x100bb.jpg",
+      "bundleId": "com.masaratapp.salatuk",
       "minimumOsVersion": "15.0",
+      "price": 2.99,
+      "genres": [
+        "Lifestyle",
+        "Dienst­programme"
+      ],
+      "artistId": 526065575,
+      "artistName": "Masarat App",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseDate": "2013-09-02T08:31:14Z",
+      "releaseNotes": "-Travel Mode is now available — enable it for your trips and the app adapts to your location.\n-Apple Watch App support\n-Add new widgets by selecting **Edit Widgets**, then choose your preferred widget type and theme (Light or Dark)\n-Hijri date adjustments\n-Possibility to add an external Athan audio or record your own Athan\n-Bug fixes and performance improvement",
+      "trackId": 686077611,
+      "trackName": "Salatuk - صلاتك",
+      "currentVersionReleaseDate": "2026-09-09T17:07:33Z",
+      "version": "2.5.7",
+      "wrapperType": "software",
+      "currency": "EUR",
+      "description": "Salatuk is your Muslim prayer companion.\n\nBy automatically locating you, this app provides appropriate prayer times and the direction of the Qibla corresponding to your position.\n\nSalatuk's algorithm supports a large number of calculation methods adopted in the Islamic world. Depending on your location, the app chooses the appropriate method and Fiqh school. However, you also have the option to manually change this information in the 'Settings' tab if you wish.\n\nSalatuk is currently available in 3 languages: Arabic, English, and French.\n\n***** Important Note ***** \n\nIf you are familiar with Salatuk on other systems, please note that this version DOES NOT SUPPORT certain functions like \"Silent mode after Adhan,\" \"Full Adhan,\" or the use of a \"Custom Athan.\" This is due to technical limitations that we will try to remove once the iOS system allows it.\n\n***** About Prayer Times ***** \nPlease note that we pay great attention to the accuracy of prayer times. However, in some countries, these times may not be exact. In such cases, please refer to the official Islamic institutions in your locality and manually adjust the prayer times in the app settings.\n\n***** About the Adhan ***** \nSalatuk reminds you that it is time for prayer using \"4 takbeerats\" instead of the full Adhan.\n\n*****  Tips for Better Use ***** \nTo refresh prayer notifications, it is recommended to open the app frequently (once a day). This should also be done when you change location or time (daylight saving time).",
+      "averageUserRatingForCurrentVersion": 4.12022,
       "sellerUrl": "http://www.masaratapp.com",
       "languageCodesISO2A": [
         "AR",
@@ -355,40 +377,21 @@
         "ID",
         "TR"
       ],
-      "fileSizeBytes": "183489536",
+      "fileSizeBytes": "183526400",
       "formattedPrice": "2,99 €",
       "userRatingCountForCurrentVersion": 183,
       "trackContentRating": "4+",
-      "artistId": 526065575,
-      "artistName": "Masarat App",
-      "genres": [
-        "Lifestyle",
-        "Dienst­programme"
-      ],
-      "price": 2.99,
-      "bundleId": "com.masaratapp.salatuk",
-      "releaseDate": "2013-09-02T08:31:14Z",
-      "releaseNotes": "-Travel Mode is now available — enable it for your trips and the app adapts to your location.\n-Apple Watch App support\n-Add new widgets by selecting **Edit Widgets**, then choose your preferred widget type and theme (Light or Dark)\n-Hijri date adjustments\n-Possibility to add an external Athan audio or record your own Athan\n-Bug fixes and performance improvement",
-      "currentVersionReleaseDate": "2026-09-02T08:10:35Z",
-      "trackId": 686077611,
-      "trackName": "Salatuk - صلاتك",
-      "sellerName": "MASARAT APP",
-      "primaryGenreName": "Lifestyle",
-      "primaryGenreId": 6012,
+      "averageUserRating": 4.12022,
+      "trackCensoredName": "Salatuk - صلاتك",
+      "trackViewUrl": "https://apps.apple.com/de/app/salatuk-%D8%B5%D9%84%D8%A7%D8%AA%D9%83/id686077611?uo=4",
+      "contentAdvisoryRating": "4+",
       "genreIds": [
         "6012",
         "6002"
       ],
-      "isVppDeviceBasedLicensingEnabled": true,
-      "version": "2.5.6",
-      "wrapperType": "software",
-      "currency": "EUR",
-      "description": "Salatuk is your Muslim prayer companion.\n\nBy automatically locating you, this app provides appropriate prayer times and the direction of the Qibla corresponding to your position.\n\nSalatuk's algorithm supports a large number of calculation methods adopted in the Islamic world. Depending on your location, the app chooses the appropriate method and Fiqh school. However, you also have the option to manually change this information in the 'Settings' tab if you wish.\n\nSalatuk is currently available in 3 languages: Arabic, English, and French.\n\n***** Important Note ***** \n\nIf you are familiar with Salatuk on other systems, please note that this version DOES NOT SUPPORT certain functions like \"Silent mode after Adhan,\" \"Full Adhan,\" or the use of a \"Custom Athan.\" This is due to technical limitations that we will try to remove once the iOS system allows it.\n\n***** About Prayer Times ***** \nPlease note that we pay great attention to the accuracy of prayer times. However, in some countries, these times may not be exact. In such cases, please refer to the official Islamic institutions in your locality and manually adjust the prayer times in the app settings.\n\n***** About the Adhan ***** \nSalatuk reminds you that it is time for prayer using \"4 takbeerats\" instead of the full Adhan.\n\n*****  Tips for Better Use ***** \nTo refresh prayer notifications, it is recommended to open the app frequently (once a day). This should also be done when you change location or time (daylight saving time).",
-      "averageUserRating": 4.12022,
-      "averageUserRatingForCurrentVersion": 4.12022,
-      "trackCensoredName": "Salatuk - صلاتك",
-      "trackViewUrl": "https://apps.apple.com/de/app/salatuk-%D8%B5%D9%84%D8%A7%D8%AA%D9%83/id686077611?uo=4",
-      "contentAdvisoryRating": "4+",
+      "sellerName": "MASARAT APP",
+      "primaryGenreName": "Lifestyle",
+      "primaryGenreId": 6012,
       "userRatingCount": 183,
       "country": "DEU"
     },
@@ -523,9 +526,15 @@
         "iPadAir11M4-iPadAir11M4",
         "iPadAir11M4Cellular-iPadAir11M4Cellular",
         "iPadAir13M4-iPadAir13M4",
-        "iPadAir13M4Cellular-iPadAir13M4Cellular"
+        "iPadAir13M4Cellular-iPadAir13M4Cellular",
+        "iPhone18Pro-iPhone18Pro",
+        "iPhone18ProMax-iPhone18ProMax",
+        "iPhoneDuo-iPhoneDuo"
       ],
       "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/fr/developer/masarat-app/id526065575?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/3e/b7/bd3eb786-82aa-a5ea-84c1-74f6d2631136/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/3e/b7/bd3eb786-82aa-a5ea-84c1-74f6d2631136/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/50/09/35/500935e8-051a-be8c-9271-4ca6a85595d6/bd98216f-ae62-49b2-9c75-8325438ba3fa_French_1.jpg/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7e/61/b1/7e61b18f-5ae6-5ab7-4d83-42d7e37baeb1/65241c09-f621-4e16-8550-c6bb97c33894_French_4.jpg/320x480bb.jpg",
@@ -542,39 +551,29 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cc/25/54/cc25546f-617f-ad94-09b9-c4b92dbc02f2/a7bb623c-f0f3-4bf1-b72e-feb46f1ee78f_Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2024-06-07_at_14.46.25.png/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/0d/78/780d78ca-b03a-9d6a-66ea-f0fc37937e84/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/fr/developer/masarat-app/id526065575?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/0d/78/780d78ca-b03a-9d6a-66ea-f0fc37937e84/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/0d/78/780d78ca-b03a-9d6a-66ea-f0fc37937e84/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/100x100bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/3e/b7/bd3eb786-82aa-a5ea-84c1-74f6d2631136/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/512x512bb.jpg",
       "features": [
         "iosUniversal"
       ],
+      "minimumOsVersion": "15.0",
       "artistId": 526065575,
       "artistName": "Masarat App",
-      "genres": [
-        "Style de vie",
-        "Utilitaires"
-      ],
       "price": 2.99,
-      "releaseDate": "2013-09-02T08:31:14Z",
-      "trackName": "Salatuk - صلاتك",
+      "bundleId": "com.masaratapp.salatuk",
+      "currentVersionReleaseDate": "2026-09-09T17:07:33Z",
       "trackId": 686077611,
-      "genreIds": [
-        "6012",
-        "6002"
-      ],
-      "primaryGenreName": "Lifestyle",
-      "primaryGenreId": 6012,
+      "trackName": "Salatuk - صلاتك",
       "sellerName": "MASARAT APP",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-09-02T08:10:35Z",
+      "releaseDate": "2013-09-02T08:31:14Z",
       "releaseNotes": "- Le mode Voyage est désormais disponible — activez-le lors de vos déplacements pour que l'application s'ajuste à votre position.\n- Prise en charge de l'application Apple Watch\n- Ajoutez de nouveaux widgets en sélectionnant « Modifier les widgets », puis choisissez le type et le thème souhaités (clair ou sombre)\n- Ajustements de la date hégirienne\n- Possibilité d'ajouter un fichier audio d'Athan externe ou d'enregistrer votre propre Athan\n- Corrections de bugs et amélioration des performances",
-      "version": "2.5.6",
+      "version": "2.5.7",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "************************************\nSalatuk est votre compagnon de prières.\n\nEn vous localisant automatiquement, cette application vous propose les horaires de prières adaptés et la direction de la Qibla correspondant à votre position.\n\nL'algorithme de Salatuk supporte un grand nombre de méthodes de calcul adoptées dans le monde islamique. En fonction de votre localité, l'application choisit la méthode et l'école Fiqhi appropriées. Toutefois, vous avez aussi la possibilité de modifier ces informations manuellement dans l'onglet 'Paramètres' si vous le souhaitez.\n\nSalatuk est actuellement disponible en 3 langues : Arabe, Anglais et Français.\n\nNote Importante\n----------------------------\nSi vous êtes familier avec Salatuk sur d'autres systèmes, merci de noter que cette version NE SUPPORTE PAS certaines fonctions comme \"Passer en mode silencieux après le Adhan\". D'autres fonctions comme le \"Adhan complet\" ou l’utilisation d'un  \"Athan personnalisé\". Ceci est dû à des limitations techniques qu’on essaiera d'enlever une fois le système iOS le permettra.\n\nA propos des horaires de prière\n----------------------------------------\nMerci de noter que nous attachons beaucoup d'attention à la précision des horaires de prière. Toutefois, dans certains pays, ces horaires peuvent ne pas être exacts. Dans ce cas, merci de vous référer aux institutions islamiques officielles de votre localité et régler manuellement les horaires de prière dans les paramètres de l'application.\n\nA propos du Adhan\n----------------------------------------\nSalatuk rappelle qu'il est temps pour la prière en utilisant  \"4 takbeerats\" au lieu du Adhan complet.\n\nConseils pour une meilleure utilisation\n-------------------------------------------------\nPour rafraîchir les notifications de prière, il est recommandé d’ouvrir l'application fréquemment (1 fois par jour). Cela doit être le cas, aussi, quand vous changez de localisation ou d’horaire (heure d’été).\n\n****************************",
-      "minimumOsVersion": "15.0",
-      "userRatingCountForCurrentVersion": 306,
+      "trackCensoredName": "Salatuk - صلاتك",
+      "trackViewUrl": "https://apps.apple.com/fr/app/salatuk-%D8%B5%D9%84%D8%A7%D8%AA%D9%83/id686077611?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.11765,
       "sellerUrl": "http://www.masaratapp.com",
       "languageCodesISO2A": [
         "AR",
@@ -583,15 +582,22 @@
         "ID",
         "TR"
       ],
-      "fileSizeBytes": "183489536",
+      "fileSizeBytes": "183526400",
       "formattedPrice": "2,99 €",
+      "userRatingCountForCurrentVersion": 306,
       "trackContentRating": "4+",
       "averageUserRatingForCurrentVersion": 4.11765,
-      "trackCensoredName": "Salatuk - صلاتك",
-      "trackViewUrl": "https://apps.apple.com/fr/app/salatuk-%D8%B5%D9%84%D8%A7%D8%AA%D9%83/id686077611?uo=4",
-      "contentAdvisoryRating": "4+",
-      "bundleId": "com.masaratapp.salatuk",
-      "averageUserRating": 4.11765,
+      "primaryGenreName": "Lifestyle",
+      "primaryGenreId": 6012,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "genreIds": [
+        "6012",
+        "6002"
+      ],
+      "genres": [
+        "Style de vie",
+        "Utilitaires"
+      ],
       "userRatingCount": 306,
       "country": "FRA"
     }

@@ -194,11 +194,11 @@
       "artistViewUrl": "https://apps.apple.com/de/developer/natureguides-ltd/id310574314?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/c0/da/ebc0da89-8dc4-67b0-c99e-dbe7603bf530/3rdEdition-0-0-1x_U007epad-0-1-0-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/c0/da/ebc0da89-8dc4-67b0-c99e-dbe7603bf530/3rdEdition-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.jpg",
+      "advisories": [],
       "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
       ],
-      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -326,9 +326,19 @@
         "iPadAir11M4-iPadAir11M4",
         "iPadAir11M4Cellular-iPadAir11M4Cellular",
         "iPadAir13M4-iPadAir13M4",
-        "iPadAir13M4Cellular-iPadAir13M4Cellular"
+        "iPadAir13M4Cellular-iPadAir13M4Cellular",
+        "iPhone18Pro-iPhone18Pro",
+        "iPhone18ProMax-iPhone18ProMax",
+        "iPhoneDuo-iPhoneDuo"
       ],
       "kind": "software",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8b/69/87/8b69871f-6248-ee59-78b2-fc50e2421d3d/96a9763e-7833-4293-aa1c-bd9a4782b385_IMG_0633.PNG/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ae/1b/cc/ae1bcca2-b8f9-eb17-30bf-9874552eff0a/f344b79f-5ab5-4534-a917-0eeb8f1fa06f_IMG_0634.PNG/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/18/43/e9/1843e977-224c-f795-0cef-26324cc48249/33dd7429-2f27-4188-93b8-64d1ca426263_IMG_0636.PNG/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c9/32/7f/c9327f9f-9dc7-7e30-cec7-883140be3aa8/3483d50c-bd7f-4e5f-9cb5-cc1225588f08_IMG_0637.PNG/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0f/29/3f/0f293f60-84f3-abfe-a2f0-c0fa6563e3e2/54559047-2a54-46d4-aa30-403952e8c1e3_IMG_0638.PNG/320x480bb.jpg"
+      ],
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c0/d0/4a/c0d04a85-c84f-8be8-83d1-04e9fb625656/25737c0f-499b-4d03-82fb-7d96ed351940_IMG_0093.PNG/360x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b4/80/3c/b4803c77-9db9-34b8-2508-7164218a993b/7ace2953-1e4a-464f-85f4-a141e2c6c8cd_IMG_0094.PNG/360x480bb.jpg",
@@ -338,41 +348,36 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/c0/da/ebc0da89-8dc4-67b0-c99e-dbe7603bf530/3rdEdition-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8b/69/87/8b69871f-6248-ee59-78b2-fc50e2421d3d/96a9763e-7833-4293-aa1c-bd9a4782b385_IMG_0633.PNG/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ae/1b/cc/ae1bcca2-b8f9-eb17-30bf-9874552eff0a/f344b79f-5ab5-4534-a917-0eeb8f1fa06f_IMG_0634.PNG/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/18/43/e9/1843e977-224c-f795-0cef-26324cc48249/33dd7429-2f27-4188-93b8-64d1ca426263_IMG_0636.PNG/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c9/32/7f/c9327f9f-9dc7-7e30-cec7-883140be3aa8/3483d50c-bd7f-4e5f-9cb5-cc1225588f08_IMG_0637.PNG/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0f/29/3f/0f293f60-84f3-abfe-a2f0-c0fa6563e3e2/54559047-2a54-46d4-aa30-403952e8c1e3_IMG_0638.PNG/320x480bb.jpg"
-      ],
       "trackCensoredName": "Der Kosmos Vogelführer",
       "trackViewUrl": "https://apps.apple.com/de/app/der-kosmos-vogelf%C3%BChrer/id868827305?uo=4",
       "contentAdvisoryRating": "4+",
       "averageUserRating": 4.2,
-      "artistId": 310574314,
-      "artistName": "NatureGuides Ltd.",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseNotes": "Fehlerbehebungen und Optimierungen.",
       "genres": [
         "Nachschlagewerke",
         "Bücher"
       ],
+      "artistId": 310574314,
+      "artistName": "NatureGuides Ltd.",
       "price": 17.99,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "sellerName": "NatureGuides Ltd.",
+      "trackId": 868827305,
+      "trackName": "Der Kosmos Vogelführer",
+      "releaseDate": "2014-08-14T07:00:00Z",
+      "bundleId": "com.touchpress.birdguide",
       "genreIds": [
         "6006",
         "6018"
       ],
       "primaryGenreName": "Reference",
       "primaryGenreId": 6006,
-      "releaseDate": "2014-08-14T07:00:00Z",
-      "trackName": "Der Kosmos Vogelführer",
-      "trackId": 868827305,
-      "currentVersionReleaseDate": "2026-07-09T04:52:17Z",
-      "releaseNotes": "Fehlerbehebungen und Optimierungen.",
+      "sellerName": "NatureGuides Ltd.",
       "version": "3.3.0",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Der Kosmos-Vogelführer-App verbindet brilliante Zeichnungen und umfassende Informationen mit einem intuitivem Design. Damit ist er für passionierte wie auch für Hobby-Vogelbeobachter der beste Naturführer für die Vögel aus Europa, Nordafrika und Vorderasien.  Die App basiert auf dem Bestimmungsbuch von Lars Svensson, Killian Mullarney und Dan Zetterström, das als der europäische Standard-Naturführer bekannt ist. Dieses umfassende Werk wurde exklusiv für iPad und iPhone entwickelt  – von Vogelbeobachtern für Vogelbeobachter.\n\nDie Kosmos-Vogelführer-App enthält alles, was Sie brauchen, um eine Art schnell und sicher zu bestimmen und sich umfassend zu informeren. Tauchen Sie ein in die außergewöhnlichen Illustrationen, Karten, Stimmen und prägnanten Texte. Nutzen Sie die schnelle Suchfunktion und die hilfreiche Funktion, Verwechslungarten zu vergleichen, um die Art zu bestimmen. Die Kosmos-Vogelführer-App ist ein unverzichtbarer Begleiter, der auf Ihrem iPhone immer zur Hand ist und auf Ihrem iPad seine volle Pracht entfaltet.\n\nFunktionen inklusive:\n\n‣ Über 970 abgebildete Arten\n‣ Über 3700 wunderschöne Illustrationen von Killian Mullarney und Dan Zetterström\n‣ Ausführliche Texte zum Lebensraum, Ausbreitung, Bestimmung und Stimme von Lars Svensson\n‣ Protokollieren Sie Sichtungen, Standorte und Zeitpunkte mit der Listenfunktion\n‣ Zuverlässige Suchfunktion\n‣ Intuitives Design, um schnell und einfach zwischen den Arten hin- und herzublättern\n‣ Verwechslungsarten leicht unterscheiden\n‣ Über 1100 sorgfältig ausgewählte Gesänge und Rufe – viele von Lars Svensson\n‣ Alle Artennamen in 30 Sprachen – frei wählbar\n‣ Videos für jede abgebildete Art (In-App-Käufe) zeigen das Verhalten und den Lebensraum\n‣ Verfügbar in Englisch, Schwedisch, Norwegisch, Französisch und Deutsch\n‣ Wiegt nichts!\n\nVögel bestimmen mit KI ist unser brandneuer Abonnementdienst. Sofortige Identifizierung von Arten anhand von Fotos und Aufnahmen mit modernster KI.\n\nDer App können die Verbreitungskarten aus dem Atlas Deutscher Brutvogelarten (ADEBAR) 2005-09 hinzugefügt werden Damit steht Ihnen der aktuell umfassendste Wissensstand zur Brutverbreitung der Vögel Deutschlands zur Verfügung. \n\nDie App und die optionale Videobibliothek enthalten auch die Kartendaten der \"British Trust for Ornithology/BirdWatch Ireland/Scottish Ornithologists' Club Bird Atlas 2007–11\" als In-App-Käufe – die umfangreichsten Abbildungen aller Vogelführer-Apps.\n\nDie Kosmos-Vogelführer-App ab iOS 17.0.\n\nWenn Ihnen die Kosmos-Vogelführer-App gefällt, vergessen Sie nicht die App zu teilen oder sie zu bewerten.\n\nDatenschutzerklärung\nnatureguides.com/privacy-policy\n\nNutzungsbedingungen\napple.com/legal/internet-services/itunes/dev/stdeula/",
+      "minimumOsVersion": "17.0",
+      "averageUserRatingForCurrentVersion": 4.2,
       "sellerUrl": "https://www.natureguides.com/projects/",
       "languageCodesISO2A": [
         "NL",
@@ -386,17 +391,15 @@
       "formattedPrice": "17,99 €",
       "userRatingCountForCurrentVersion": 150,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.2,
-      "minimumOsVersion": "17.0",
-      "bundleId": "com.touchpress.birdguide",
+      "currentVersionReleaseDate": "2026-07-09T04:52:17Z",
       "userRatingCount": 150,
       "country": "DEU"
     },
     {
       "isGameCenterEnabled": false,
-      "artistViewUrl": "https://apps.apple.com/fr/developer/natureguides-ltd/id310574314?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/c0/da/ebc0da89-8dc4-67b0-c99e-dbe7603bf530/3rdEdition-0-0-1x_U007epad-0-1-0-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/c0/da/ebc0da89-8dc4-67b0-c99e-dbe7603bf530/3rdEdition-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -524,14 +527,12 @@
         "iPadAir11M4-iPadAir11M4",
         "iPadAir11M4Cellular-iPadAir11M4Cellular",
         "iPadAir13M4-iPadAir13M4",
-        "iPadAir13M4Cellular-iPadAir13M4Cellular"
+        "iPadAir13M4Cellular-iPadAir13M4Cellular",
+        "iPhone18Pro-iPhone18Pro",
+        "iPhone18ProMax-iPhone18ProMax",
+        "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
       "kind": "software",
-      "features": [
-        "iosUniversal"
-      ],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/c0/da/ebc0da89-8dc4-67b0-c99e-dbe7603bf530/3rdEdition-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/56/2e/65/562e6502-162f-d823-c077-cc4f91e50e85/3c193722-1c61-4277-b43a-f90d9c356c51_IMG_0628.PNG/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/75/4f/28/754f2879-c409-5b08-0d9c-02b6819e6910/6788d242-f0ab-48a0-89e1-cf33b6720538_IMG_0629.PNG/320x480bb.jpg",
@@ -547,35 +548,33 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/84/c9/f0/84c9f0bd-0315-32e6-1c6f-a6b7200f7188/6836c4a7-4a56-475a-8ac2-47d67de9aecd_IMG_0090.PNG/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "minimumOsVersion": "17.0",
-      "contentAdvisoryRating": "4+",
-      "trackCensoredName": "Le Guide Ornitho",
-      "trackViewUrl": "https://apps.apple.com/fr/app/le-guide-ornitho/id868827305?uo=4",
-      "averageUserRating": 4,
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/c0/da/ebc0da89-8dc4-67b0-c99e-dbe7603bf530/3rdEdition-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/fr/developer/natureguides-ltd/id310574314?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/c0/da/ebc0da89-8dc4-67b0-c99e-dbe7603bf530/3rdEdition-0-0-1x_U007epad-0-1-0-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/c0/da/ebc0da89-8dc4-67b0-c99e-dbe7603bf530/3rdEdition-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.jpg",
+      "advisories": [],
+      "releaseNotes": "Corrections de bugs et améliorations.",
+      "sellerName": "NatureGuides Ltd.",
+      "price": 17.99,
       "artistId": 310574314,
       "artistName": "NatureGuides Ltd.",
-      "genres": [
-        "Références",
-        "Livres"
-      ],
-      "price": 17.99,
-      "primaryGenreName": "Reference",
-      "primaryGenreId": 6006,
+      "releaseDate": "2014-08-14T07:00:00Z",
+      "bundleId": "com.touchpress.birdguide",
+      "currentVersionReleaseDate": "2026-07-09T04:52:17Z",
       "genreIds": [
         "6006",
         "6018"
       ],
-      "currentVersionReleaseDate": "2026-07-09T04:52:17Z",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "sellerName": "NatureGuides Ltd.",
-      "releaseDate": "2014-08-14T07:00:00Z",
-      "releaseNotes": "Corrections de bugs et améliorations.",
+      "primaryGenreName": "Reference",
+      "primaryGenreId": 6006,
+      "trackId": 868827305,
+      "trackName": "Le Guide Ornitho",
       "version": "3.3.0",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "L'application Le Guide Ornitho combine les illustrations des plus grands naturalistes, une quantité d'informations exceptionnelle et un design intuitif pour créer le meilleur guide de terrain des oiseaux de France et d'Europe. Pour ornithologues passionnés ou simples amateurs. L'application est basée sur le livre de référence de Lars Svensson, Killian Mullarney et Dan Zetterström, universellement reconnu comme le guide de terrain le plus complet d'Europe. Ce travail inégalé a été repensé pour iPad et iPhone, par des ornithologues pour des ornithologues.\n\nL'application Guide Ornitho fournit tout ce dont vous avez besoin pour identifier rapidement et tout savoir sur une espèce. Découvrez des cartes, chants et textes exceptionnels de précision. Plongez dans des illustrations couleurs d'une finesse inégalées. Utilisez le puissant filtre de recherche et l'outil de comparaison pour cibler une espèce. L'application Le Guide Ornitho est un guide indispensable toujours à portée de main sur votre iPhone, et disponible au format iPad pour une expérience inégalée.\n\nL'application contient :\n\n‣ +970 espèces décrites\n‣ +3700 illustrations de Killian Mullarney et Dan Zetterström\n‣ les textes de Lars Svenssin détaillant la répartition, l'habitat, les critères d'identification et les sons des oiseaux\n‣ Un filtre de recherche puissant\n‣ Un design intuitif pour glisser rapidement et facilement d'une espèce à l'autre\n‣ Un outil de comparaison des espèces difficiles à identifier\n‣ +1150 chants et cris soigneusement sélectionnés par Lars Svensson\n‣ Le choix parmi 30 langues pour les noms d'espèces\n‣ Des vidéos ornitho pour 811 espèces couvertes (achats In-App)\n‣ La traduction des textes en anglais, suédois, norvégien, français et allemand\n‣ Et tout ça ne pèse rien !\n\nIdentifier les oiseaux avec l'IA est notre tout nouveau service d'abonnement. Identifiez instantanément les espèces à partir de photos et d'enregistrements grâce à une IA de pointe.\n\nL'application Guide Ornitho nécessite iOS 17.0 ou une version ultérieure.\n\nSi vous aimez l'application Guide Ornitho, n'oubliez pas de partager l'application, noter et laisser un commentaire.\n\nPolitique de confidentialité\nnatureguides.com/privacy-policy\n\nConditions d'utilisation\napple.com/legal/internet-services/itunes/dev/stdeula/",
-      "bundleId": "com.touchpress.birdguide",
       "sellerUrl": "https://www.natureguides.com/projects/",
+      "minimumOsVersion": "17.0",
       "languageCodesISO2A": [
         "NL",
         "EN",
@@ -589,36 +588,23 @@
       "userRatingCountForCurrentVersion": 86,
       "trackContentRating": "4+",
       "averageUserRatingForCurrentVersion": 4,
-      "trackId": 868827305,
-      "trackName": "Le Guide Ornitho",
+      "averageUserRating": 4,
+      "trackCensoredName": "Le Guide Ornitho",
+      "trackViewUrl": "https://apps.apple.com/fr/app/le-guide-ornitho/id868827305?uo=4",
+      "contentAdvisoryRating": "4+",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "genres": [
+        "Références",
+        "Livres"
+      ],
       "userRatingCount": 86,
       "country": "FRA"
     },
     {
+      "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
       ],
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/0d/2f/a90d2f8b-87e1-6a6d-c97e-0188ebd0e467/7080e7d4-c08b-4616-b7b6-50249fb464d6_IMG_0623.PNG/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/d5/d9/30d5d9f3-c83b-9ac1-ab66-2941ca68292a/b347d175-a62d-49e6-bd92-a9ca5f92e06e_IMG_0624.PNG/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/bf/b7/09bfb75c-d804-37f7-044c-ee91ef3afec7/e7421070-8215-4b94-a736-0b085dc3b9f1_IMG_0625.PNG/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4a/37/45/4a3745e9-caa3-753e-0022-df208484f5d3/1addc18b-4c0b-47b7-85ae-4a39cf62d064_1242x2688bb.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/da/5d/cc/da5dccde-e21b-80c1-027e-f5eea4c33649/55192ac9-f6cc-4974-9df6-2ac29f0ae52a_1242x2688bb-2.png/320x480bb.jpg"
-      ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/77/d9/9c/77d99c14-e72b-6ae7-145a-4bbc54a07422/aab723ca-f32e-40c3-9c22-c1d48f513f9f_2732x2048bb.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/97/ac/e2/97ace260-baab-f3f8-8874-a7d21f8e938a/5732092a-505b-4491-b1da-3330bc0e2333_2732x2048bb-2.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/92/48/52/924852ce-0fb8-61ed-5c93-78b783fd5333/4df01812-236c-4c59-b8ba-8243e5d98850_2732x2048bb-3.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/45/2f/70/452f702a-6162-1069-9d78-c6c8e3cc4915/4f245b41-227b-4bc9-b115-992e5344ccdb_2732x2048bb-4.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cc/45/99/cc459948-d346-051b-1903-635079975615/dd6b4d0c-471c-440e-972f-858cff77e181_2732x2048bb-5.png/360x480bb.jpg"
-      ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/c0/da/ebc0da89-8dc4-67b0-c99e-dbe7603bf530/3rdEdition-0-0-1x_U007epad-0-1-0-0-85-220.png/60x60bb.jpg",
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/c0/da/ebc0da89-8dc4-67b0-c99e-dbe7603bf530/3rdEdition-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/c0/da/ebc0da89-8dc4-67b0-c99e-dbe7603bf530/3rdEdition-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/gb/developer/natureguides-ltd/id310574314?uo=4",
-      "isGameCenterEnabled": false,
-      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -746,14 +732,64 @@
         "iPadAir11M4-iPadAir11M4",
         "iPadAir11M4Cellular-iPadAir11M4Cellular",
         "iPadAir13M4-iPadAir13M4",
-        "iPadAir13M4Cellular-iPadAir13M4Cellular"
+        "iPadAir13M4Cellular-iPadAir13M4Cellular",
+        "iPhone18Pro-iPhone18Pro",
+        "iPhone18ProMax-iPhone18ProMax",
+        "iPhoneDuo-iPhoneDuo"
       ],
+      "advisories": [],
       "kind": "software",
-      "bundleId": "com.touchpress.birdguide",
-      "averageUserRatingForCurrentVersion": 3.72441,
-      "sellerUrl": "https://www.natureguides.com/projects/",
+      "artistViewUrl": "https://apps.apple.com/gb/developer/natureguides-ltd/id310574314?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/c0/da/ebc0da89-8dc4-67b0-c99e-dbe7603bf530/3rdEdition-0-0-1x_U007epad-0-1-0-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/c0/da/ebc0da89-8dc4-67b0-c99e-dbe7603bf530/3rdEdition-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.jpg",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/0d/2f/a90d2f8b-87e1-6a6d-c97e-0188ebd0e467/7080e7d4-c08b-4616-b7b6-50249fb464d6_IMG_0623.PNG/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/d5/d9/30d5d9f3-c83b-9ac1-ab66-2941ca68292a/b347d175-a62d-49e6-bd92-a9ca5f92e06e_IMG_0624.PNG/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/bf/b7/09bfb75c-d804-37f7-044c-ee91ef3afec7/e7421070-8215-4b94-a736-0b085dc3b9f1_IMG_0625.PNG/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4a/37/45/4a3745e9-caa3-753e-0022-df208484f5d3/1addc18b-4c0b-47b7-85ae-4a39cf62d064_1242x2688bb.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/da/5d/cc/da5dccde-e21b-80c1-027e-f5eea4c33649/55192ac9-f6cc-4974-9df6-2ac29f0ae52a_1242x2688bb-2.png/320x480bb.jpg"
+      ],
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/77/d9/9c/77d99c14-e72b-6ae7-145a-4bbc54a07422/aab723ca-f32e-40c3-9c22-c1d48f513f9f_2732x2048bb.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/97/ac/e2/97ace260-baab-f3f8-8874-a7d21f8e938a/5732092a-505b-4491-b1da-3330bc0e2333_2732x2048bb-2.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/92/48/52/924852ce-0fb8-61ed-5c93-78b783fd5333/4df01812-236c-4c59-b8ba-8243e5d98850_2732x2048bb-3.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/45/2f/70/452f702a-6162-1069-9d78-c6c8e3cc4915/4f245b41-227b-4bc9-b115-992e5344ccdb_2732x2048bb-4.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cc/45/99/cc459948-d346-051b-1903-635079975615/dd6b4d0c-471c-440e-972f-858cff77e181_2732x2048bb-5.png/360x480bb.jpg"
+      ],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/c0/da/ebc0da89-8dc4-67b0-c99e-dbe7603bf530/3rdEdition-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "appletvScreenshotUrls": [],
+      "genres": [
+        "Reference",
+        "Books"
+      ],
+      "price": 14.99,
+      "trackId": 868827305,
+      "trackName": "Collins Bird Guide",
+      "sellerName": "NatureGuides Ltd.",
+      "currentVersionReleaseDate": "2026-07-09T04:52:17Z",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "primaryGenreName": "Reference",
+      "primaryGenreId": 6006,
+      "genreIds": [
+        "6006",
+        "6018"
+      ],
+      "releaseDate": "2014-08-14T07:00:00Z",
+      "releaseNotes": "You can now pinch-zoom into the illustrations in the introduction, and the main map key is now large and easier to read as well. We've fixed an issue where the widget would show birds that you had hidden using the region filtering option in the settings, and have updated many Norwegian names.\n\nFor Identify subscribers we've improved the audio identification AI model and made some changes to the similar songs and calls.",
+      "version": "3.3.0",
+      "wrapperType": "software",
+      "currency": "GBP",
+      "description": "‘It’s much more convenient than taking a big book with you...the Collins app is fantastic.’\n– Chris Packham, Metro\n\n‘The Collins Bird Guide app is destined to become a real triumph, the ultimate in field guide apps — and deservedly so.’\n– BirdGuides\n\nThe Collins Bird Guide App combines world-class illustrations and comprehensive information with intuitive design to create the ultimate field guide for passionate birders and casual birdwatchers alike. The app is based on the landmark book by Lars Svensson, Killian Mullarney and Dan Zetterström, universally acknowledged as the standard European field guide. This definitive work has been reimagined for iPad and iPhone by birders for birders.\n\nThe Collins Bird Guide App provides everything you need to identify a species quickly and learn about it thoroughly. Immerse yourself in the exceptional illustrations, maps, calls and concise text. Use the powerful search filter and curated confusion lists to focus in on a species. The Collins Bird Guide App is an essential companion always to hand on your iPhone, and available to browse in full glory on your iPad.\n\nFeatures include:\n\n‣ 973 species covered - 843 illustrated\n‣ 3,700+ beautiful illustrations by Killian Mullarney and Dan Zetterström\n‣ Detailed text covering habitat, range, identification and voice by Lars Svensson\n‣ Record sightings, location and date with the listing tool\n‣ Powerful search filter\n‣ Intuitive design to quickly and easily swipe through species\n‣ Curated lists of confusable species\n‣ Over 1,100 carefully selected songs and calls – many by Lars Svensson\n‣ Select species names from 30+ languages\n‣ Expertly edited video clips for 811 species in the app (require in-app purchase)\n‣ Available in English, Swedish, Norwegian, French and German\n‣ Weighs nothing!\n\nIdentify Assist is our brand-new subscription service. Instantly identify species from photos and recordings with cutting-edge AI.\n\nAs well as this and the optional video library, the app incorporates British Trust for Ornithology/BirdWatch Ireland/Scottish Ornithologists' Club Bird Atlas 2007–11 mapping data as an in-app purchase, providing the most comprehensive location mapping of any bird guide app.\n\nThe latest version of the app requires iOS 17.0 or later.\n\nIf you like the app, don’t forget to share the app, rate it and leave a review.\n\nPrivacy Policy\nnatureguides.com/privacy-policy\n\nTerms of Use\napple.com/legal/internet-services/itunes/dev/stdeula/",
+      "minimumOsVersion": "17.0",
       "averageUserRating": 3.72441,
+      "bundleId": "com.touchpress.birdguide",
+      "contentAdvisoryRating": "4+",
+      "averageUserRatingForCurrentVersion": 3.72441,
       "trackCensoredName": "Collins Bird Guide",
+      "userRatingCountForCurrentVersion": 127,
+      "trackViewUrl": "https://apps.apple.com/gb/app/collins-bird-guide/id868827305?uo=4",
+      "trackContentRating": "4+",
+      "sellerUrl": "https://www.natureguides.com/projects/",
       "languageCodesISO2A": [
         "NL",
         "EN",
@@ -764,33 +800,6 @@
       ],
       "fileSizeBytes": "1333952512",
       "formattedPrice": "£14.99",
-      "contentAdvisoryRating": "4+",
-      "userRatingCountForCurrentVersion": 127,
-      "trackViewUrl": "https://apps.apple.com/gb/app/collins-bird-guide/id868827305?uo=4",
-      "trackContentRating": "4+",
-      "price": 14.99,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-07-09T04:52:17Z",
-      "releaseDate": "2014-08-14T07:00:00Z",
-      "sellerName": "NatureGuides Ltd.",
-      "primaryGenreName": "Reference",
-      "primaryGenreId": 6006,
-      "trackId": 868827305,
-      "trackName": "Collins Bird Guide",
-      "genreIds": [
-        "6006",
-        "6018"
-      ],
-      "releaseNotes": "You can now pinch-zoom into the illustrations in the introduction, and the main map key is now large and easier to read as well. We've fixed an issue where the widget would show birds that you had hidden using the region filtering option in the settings, and have updated many Norwegian names.\n\nFor Identify subscribers we've improved the audio identification AI model and made some changes to the similar songs and calls.",
-      "version": "3.3.0",
-      "wrapperType": "software",
-      "currency": "GBP",
-      "description": "‘It’s much more convenient than taking a big book with you...the Collins app is fantastic.’\n– Chris Packham, Metro\n\n‘The Collins Bird Guide app is destined to become a real triumph, the ultimate in field guide apps — and deservedly so.’\n– BirdGuides\n\nThe Collins Bird Guide App combines world-class illustrations and comprehensive information with intuitive design to create the ultimate field guide for passionate birders and casual birdwatchers alike. The app is based on the landmark book by Lars Svensson, Killian Mullarney and Dan Zetterström, universally acknowledged as the standard European field guide. This definitive work has been reimagined for iPad and iPhone by birders for birders.\n\nThe Collins Bird Guide App provides everything you need to identify a species quickly and learn about it thoroughly. Immerse yourself in the exceptional illustrations, maps, calls and concise text. Use the powerful search filter and curated confusion lists to focus in on a species. The Collins Bird Guide App is an essential companion always to hand on your iPhone, and available to browse in full glory on your iPad.\n\nFeatures include:\n\n‣ 973 species covered - 843 illustrated\n‣ 3,700+ beautiful illustrations by Killian Mullarney and Dan Zetterström\n‣ Detailed text covering habitat, range, identification and voice by Lars Svensson\n‣ Record sightings, location and date with the listing tool\n‣ Powerful search filter\n‣ Intuitive design to quickly and easily swipe through species\n‣ Curated lists of confusable species\n‣ Over 1,100 carefully selected songs and calls – many by Lars Svensson\n‣ Select species names from 30+ languages\n‣ Expertly edited video clips for 811 species in the app (require in-app purchase)\n‣ Available in English, Swedish, Norwegian, French and German\n‣ Weighs nothing!\n\nIdentify Assist is our brand-new subscription service. Instantly identify species from photos and recordings with cutting-edge AI.\n\nAs well as this and the optional video library, the app incorporates British Trust for Ornithology/BirdWatch Ireland/Scottish Ornithologists' Club Bird Atlas 2007–11 mapping data as an in-app purchase, providing the most comprehensive location mapping of any bird guide app.\n\nThe latest version of the app requires iOS 17.0 or later.\n\nIf you like the app, don’t forget to share the app, rate it and leave a review.\n\nPrivacy Policy\nnatureguides.com/privacy-policy\n\nTerms of Use\napple.com/legal/internet-services/itunes/dev/stdeula/",
-      "minimumOsVersion": "17.0",
-      "genres": [
-        "Reference",
-        "Books"
-      ],
       "artistId": 310574314,
       "artistName": "NatureGuides Ltd.",
       "userRatingCount": 127,

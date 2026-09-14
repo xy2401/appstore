@@ -209,23 +209,7 @@
       "userRatingCount": 895608
     },
     {
-      "artistViewUrl": "https://apps.apple.com/us/developer/cbs-interactive/id295669712?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/6c/22/096c22e0-f328-a3f6-0d64-dc5aaa53f0ec/P_U002bAppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/6c/22/096c22e0-f328-a3f6-0d64-dc5aaa53f0ec/P_U002bAppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [
-        "Infrequent/Mild Cartoon or Fantasy Violence",
-        "Infrequent/Mild Sexual Content and Nudity",
-        "Infrequent/Mild Profanity or Crude Humor",
-        "Infrequent/Mild Medical/Treatment Information",
-        "Infrequent/Mild Mature/Suggestive Themes",
-        "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References",
-        "Infrequent/Mild Realistic Violence",
-        "Infrequent/Mild Horror/Fear Themes"
-      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -353,7 +337,23 @@
         "iPadAir11M4-iPadAir11M4",
         "iPadAir11M4Cellular-iPadAir11M4Cellular",
         "iPadAir13M4-iPadAir13M4",
-        "iPadAir13M4Cellular-iPadAir13M4Cellular"
+        "iPadAir13M4Cellular-iPadAir13M4Cellular",
+        "iPhone18Pro-iPhone18Pro",
+        "iPhone18ProMax-iPhone18ProMax",
+        "iPhoneDuo-iPhoneDuo"
+      ],
+      "features": [
+        "iosUniversal"
+      ],
+      "advisories": [
+        "Infrequent/Mild Cartoon or Fantasy Violence",
+        "Infrequent/Mild Sexual Content and Nudity",
+        "Infrequent/Mild Profanity or Crude Humor",
+        "Infrequent/Mild Medical/Treatment Information",
+        "Infrequent/Mild Mature/Suggestive Themes",
+        "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References",
+        "Infrequent/Mild Realistic Violence",
+        "Infrequent/Mild Horror/Fear Themes"
       ],
       "kind": "software",
       "screenshotUrls": [
@@ -376,44 +376,47 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/6c/22/096c22e0-f328-a3f6-0d64-dc5aaa53f0ec/P_U002bAppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
-      "averageUserRating": 4.63106,
-      "trackCensoredName": "Paramount+",
-      "trackViewUrl": "https://apps.apple.com/us/app/paramount/id530168168?uo=4",
-      "contentAdvisoryRating": "12+",
-      "languageCodesISO2A": [
-        "EN"
-      ],
-      "fileSizeBytes": "209429504",
-      "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 912156,
-      "trackContentRating": "12+",
-      "artistId": 295669712,
-      "artistName": "CBS Interactive",
-      "genres": [
-        "Entertainment"
-      ],
-      "price": 0,
-      "releaseNotes": "Gearing up for your next streaming adventure? Get to your destination in style with the latest Paramount+ app version, complete with bug fixes and more. Just be sure to update your app before you hit the road for safe travels!",
-      "genreIds": [
-        "6016"
-      ],
-      "bundleId": "com.cbsvideo.app",
-      "releaseDate": "2013-03-14T07:41:45Z",
-      "sellerName": "CBS Mobile",
-      "isVppDeviceBasedLicensingEnabled": true,
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/6c/22/096c22e0-f328-a3f6-0d64-dc5aaa53f0ec/P_U002bAppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/6c/22/096c22e0-f328-a3f6-0d64-dc5aaa53f0ec/P_U002bAppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/us/developer/cbs-interactive/id295669712?uo=4",
+      "minimumOsVersion": "18.0",
       "trackId": 530168168,
       "trackName": "Paramount+",
+      "releaseDate": "2013-03-14T07:41:45Z",
+      "price": 0,
+      "releaseNotes": "Gearing up for your next streaming adventure? Get to your destination in style with the latest Paramount+ app version, complete with bug fixes and more. Just be sure to update your app before you hit the road for safe travels!",
+      "bundleId": "com.cbsvideo.app",
       "primaryGenreName": "Entertainment",
       "primaryGenreId": 6016,
+      "sellerName": "CBS Mobile",
+      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-09-02T16:38:21Z",
       "version": "15.25.0",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Stream exclusive originals, blockbuster movies, live sports like NFL on CBS, UFC, and UEFA Champions League, all of SHOWTIME® (Premium plan only), and favorites from CBS, BET, Nickelodeon, Comedy Central, MTV, VH1, and more.\n\n- Watch full episodes on demand from hit series like Survivor, South Park, SpongeBob SquarePants and more.\n- Obsess over originals. Watch subscriber-only originals such as Landman, 1923 and Star Trek: Strange New Worlds.\n- Stream UFC live and on demand. Catch all Numbered Events and Fight Nights, plus a huge library of iconic fights and finishes.\n- Make every night a movie night with blockbuster hits and fan-favorite films from Paramount Pictures, MGM and more.\n- Access live streams with around-the-clock news coverage on CBS News 24/7, scores + highlights on CBS Sports HQ and entertainment news on Mixible, plus 20 live channels of curated favorites.\n- Create up to 6 individual profiles for each member of your household. Have kids? Use our Kids Mode profile feature. \n- Save your faves with our watchlist feature, My List. \n\nGet even MORE on the Premium plan:\n- Watch ad-free* shows and movies.\n- Stream your local CBS station live.\n- Catch the best in live events including March Madness®, The Masters Tournament, The GRAMMYs and more.\n- Stream all of SHOWTIME, including SHOWTIME East and West live.\n- Download and watch offline*.\n\nSign up for Paramount+ now. See prmntpl.us/SubscriptionPlans for more details on plans and pricing. Download the app to get started.\n\n*Plans include trailers & sponsorship or similar. Live TV has ads. Downloaded content is accessible for earlier of 30 days from date of download or 48 hours from start of playback. Content availability subject to change. Please note use of the Paramount+ app is limited to the United States. Paramount+ promotional offers for new subscribers only. Live TV subject to availability. Prices shown are in U.S. dollars. Other restrictions apply.\n\nYour subscription will automatically renew after any applicable promotional period and your Apple ID account will be charged the subscription price on a recurring basis until you cancel.  You can cancel your subscription at any time through your Apple ID account settings.  If you cancel your subscription, the cancellation will go into effect at the end of your current subscription period, as applicable. You will have continued access to the Paramount+ Service for the remainder of your paid subscription period.\n\nPlease note: This app features Nielsen’s proprietary measurement software which will allow you to contribute to market research, like Nielsen’s TV Ratings. Please visit http://www.nielsen.com/digitalprivacy for more information.\n\nParamount+ Terms of Use:\nhttps://pplus.legal/terms\n\nParamount Privacy Policy:\nhttps://privacy.paramount.com/policy\n\nChildren’s Privacy Policy:\nhttps://privacy.paramount.com/childrens\n\nAdditional Privacy Rights:\nhttps://privacy.paramount.com/en/policy#additional-information-us-states\n\nDo Not Sell My Personal Information:\nhttps://privacy.paramount.com/app-donotsell",
-      "minimumOsVersion": "18.0",
-      "averageUserRatingForCurrentVersion": 4.63106,
+      "contentAdvisoryRating": "12+",
+      "trackCensoredName": "Paramount+",
+      "trackViewUrl": "https://apps.apple.com/us/app/paramount/id530168168?uo=4",
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "fileSizeBytes": "209429504",
+      "formattedPrice": "Free",
+      "userRatingCountForCurrentVersion": 917333,
+      "trackContentRating": "12+",
+      "averageUserRatingForCurrentVersion": 4.63208,
+      "averageUserRating": 4.63208,
       "sellerUrl": "https://www.paramountplus.com/",
-      "userRatingCount": 912156,
+      "genreIds": [
+        "6016"
+      ],
+      "artistId": 295669712,
+      "artistName": "CBS Interactive",
+      "genres": [
+        "Entertainment"
+      ],
+      "userRatingCount": 917333,
       "country": "USA"
     }
   ]

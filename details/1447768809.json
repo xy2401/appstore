@@ -3,9 +3,9 @@
   "results": [
     {
       "isGameCenterEnabled": false,
-      "artistViewUrl": "https://apps.apple.com/fr/developer/aditya-rajveer/id882719699?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/e3/c9/14e3c9c9-0a98-3363-d219-94ebca3ab8b9/AppIcon-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220-0.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/e3/c9/14e3c9c9-0a98-3363-d219-94ebca3ab8b9/AppIcon-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220-0.png/100x100bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -133,18 +133,12 @@
         "iPadAir11M4-iPadAir11M4",
         "iPadAir11M4Cellular-iPadAir11M4Cellular",
         "iPadAir13M4-iPadAir13M4",
-        "iPadAir13M4Cellular-iPadAir13M4Cellular"
-      ],
-      "advisories": [
-        "Scènes rares/modérées de consommation ou de référence à l’alcool, au tabac ou à la drogue",
-        "Scènes rares/modérées réservées aux adultes (suggestives)",
-        "Scènes rares/modérées d’humour vulgaire ou blasphématoire"
+        "iPadAir13M4Cellular-iPadAir13M4Cellular",
+        "iPhone18Pro-iPhone18Pro",
+        "iPhone18ProMax-iPhone18ProMax",
+        "iPhoneDuo-iPhoneDuo"
       ],
       "kind": "software",
-      "features": [
-        "iosUniversal"
-      ],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/e3/c9/14e3c9c9-0a98-3363-d219-94ebca3ab8b9/AppIcon-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220-0.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/0a/de/ac0ade6a-1f67-6c63-3147-1a57d64c3fef/mzl.iroabibt.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/6e/6c/8f6e6cd2-004f-817b-d04a-6f2892f72e73/mzl.pqsunkfo.jpg/392x696bb.jpg",
@@ -158,35 +152,37 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/df/ed/93dfedba-3700-097b-660f-b7a6a198fd1a/pr_source.jpg/576x768bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "minimumOsVersion": "18.1",
-      "contentAdvisoryRating": "12+",
-      "trackCensoredName": "Marvis Pro",
-      "trackViewUrl": "https://apps.apple.com/fr/app/marvis-pro/id1447768809?uo=4",
-      "averageUserRating": 4.75,
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/e3/c9/14e3c9c9-0a98-3363-d219-94ebca3ab8b9/AppIcon-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220-0.png/512x512bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/fr/developer/aditya-rajveer/id882719699?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/e3/c9/14e3c9c9-0a98-3363-d219-94ebca3ab8b9/AppIcon-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220-0.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/e3/c9/14e3c9c9-0a98-3363-d219-94ebca3ab8b9/AppIcon-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220-0.png/100x100bb.jpg",
+      "advisories": [
+        "Scènes rares/modérées de consommation ou de référence à l’alcool, au tabac ou à la drogue",
+        "Scènes rares/modérées réservées aux adultes (suggestives)",
+        "Scènes rares/modérées d’humour vulgaire ou blasphématoire"
+      ],
+      "releaseNotes": "Fixes and improvements.",
+      "sellerName": "Aditya Rajveer",
+      "price": 9.99,
       "artistId": 882719699,
       "artistName": "Aditya Rajveer",
-      "genres": [
-        "Musique",
-        "Divertissement"
-      ],
-      "price": 9.99,
-      "primaryGenreName": "Music",
-      "primaryGenreId": 6011,
+      "releaseDate": "2019-02-14T10:17:13Z",
+      "bundleId": "com.adityarajveer.Marvis",
+      "currentVersionReleaseDate": "2025-10-07T06:46:42Z",
       "genreIds": [
         "6011",
         "6016"
       ],
-      "currentVersionReleaseDate": "2025-10-07T06:46:42Z",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "sellerName": "Aditya Rajveer",
-      "releaseDate": "2019-02-14T10:17:13Z",
-      "releaseNotes": "Fixes and improvements.",
+      "primaryGenreName": "Music",
+      "primaryGenreId": 6011,
+      "trackId": 1447768809,
+      "trackName": "Marvis Pro",
       "version": "10.1.1",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Interagissez avec votre musique et retombez amoureux de votre bibliothèque. \n\n** Featured on MacStories, 9to5Mac, Cult of Mac, iDownloadBlog, iMore, and more. **\n\nMarvis offre une présentation magnifique de votre bibliothèque musicale avec beaucoup de puissantes fonctions dans une interface minimaliste et pourtant très personnalisable. \n\n• Pour Apple Music & iTunes Library.\n   ‣ Supporte la recherche sur Apple Music et les fonctionnalités Découvrir, Pour vous et Radio.\n   ‣ Sans abonnement, vous pouvez rechercher et parcourir tout le catalogue Apple Music et lire un extrait de 30s de chaque morceau.\n\n• Ajoutez un ou plusieurs éléments dans A venir, Jouer ou Aléatoire avec un simple glisser et déposer\n• Supporte la Last.fm.\n• Disposition en liste ou grille. Plusieurs styles de grille dont Cover Flow.\n• Détails et informations d'artiste avancés.\n• Triez et groupez.\n   ‣ Triez selon le nombre de lectures, la note ou la date d’ajout, de dernière lecture, de composition et plus encore.\n   ‣ Groupez les morceaux par album, artiste ou genre au sein des playlists.\n\nIMPORTANT : \n• Music.app est requise pour le fonctionnement de Marvis.\n• A cause de restrictions d’iOS, il n’est pas possible de supprimer des éléments ou playlists de votre bibliothèque depuis Marvis.\n\nReddit: r/MarvisApp",
-      "bundleId": "com.adityarajveer.Marvis",
       "sellerUrl": "http://appaddy.wixsite.com/marvis",
+      "minimumOsVersion": "18.1",
       "languageCodesISO2A": [
         "NL",
         "EN",
@@ -208,8 +204,15 @@
       "userRatingCountForCurrentVersion": 76,
       "trackContentRating": "12+",
       "averageUserRatingForCurrentVersion": 4.75,
-      "trackId": 1447768809,
-      "trackName": "Marvis Pro",
+      "averageUserRating": 4.75,
+      "trackCensoredName": "Marvis Pro",
+      "trackViewUrl": "https://apps.apple.com/fr/app/marvis-pro/id1447768809?uo=4",
+      "contentAdvisoryRating": "12+",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "genres": [
+        "Musique",
+        "Divertissement"
+      ],
       "userRatingCount": 76,
       "country": "FRA"
     },

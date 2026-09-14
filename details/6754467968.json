@@ -2,6 +2,9 @@
   "resultCount": 1,
   "results": [
     {
+      "artistViewUrl": "https://apps.apple.com/us/developer/nyfik-inc/id1848434851?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/d6/c9/3ad6c9b8-a56e-812d-3c67-dee9f1b44479/App_Icon_Prod-0-0-1x_U007epad-0-11-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/d6/c9/3ad6c9b8-a56e-812d-3c67-dee9f1b44479/App_Icon_Prod-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ed/36/75/ed3675a6-666f-fad3-4724-543b661743df/Apple-1284-Foggy_1.jpg/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/50/73/ed/5073ed6e-52bc-adf4-9151-6fe9ec9ff904/Apple-1284-Foggy_2.jpg/320x480bb.jpg",
@@ -23,9 +26,10 @@
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/d6/c9/3ad6c9b8-a56e-812d-3c67-dee9f1b44479/App_Icon_Prod-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
       "isGameCenterEnabled": false,
-      "artistViewUrl": "https://apps.apple.com/us/developer/nyfik-inc/id1848434851?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/d6/c9/3ad6c9b8-a56e-812d-3c67-dee9f1b44479/App_Icon_Prod-0-0-1x_U007epad-0-11-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/d6/c9/3ad6c9b8-a56e-812d-3c67-dee9f1b44479/App_Icon_Prod-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -153,52 +157,51 @@
         "iPadAir11M4-iPadAir11M4",
         "iPadAir11M4Cellular-iPadAir11M4Cellular",
         "iPadAir13M4-iPadAir13M4",
-        "iPadAir13M4Cellular-iPadAir13M4Cellular"
+        "iPadAir13M4Cellular-iPadAir13M4Cellular",
+        "iPhone18Pro-iPhone18Pro",
+        "iPhone18ProMax-iPhone18ProMax",
+        "iPhoneDuo-iPhoneDuo"
       ],
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [],
       "kind": "software",
-      "minimumOsVersion": "18.0",
       "averageUserRatingForCurrentVersion": 5,
+      "trackCensoredName": "Foggy: Bay Area Fog Tracker",
+      "trackViewUrl": "https://apps.apple.com/us/app/foggy-bay-area-fog-tracker/id6754467968?uo=4",
+      "contentAdvisoryRating": "12+",
+      "formattedPrice": "$5.99",
+      "userRatingCountForCurrentVersion": 18,
+      "trackContentRating": "12+",
       "sellerUrl": "https://foggysf.app/",
       "languageCodesISO2A": [
         "EN"
       ],
       "fileSizeBytes": "44292096",
-      "formattedPrice": "$5.99",
-      "userRatingCountForCurrentVersion": 18,
-      "trackContentRating": "12+",
-      "releaseNotes": "Neighborhood names are complicated; people know where they live in ways maps don't always capture, and we're still learning how to name areas in a way that's useful to you.\n\nThis update is a small step: when you submit a report, you'll see a few nearby neighborhood options to pick from. Choose what fits, or tell us none do. Either way, you're helping us get this more accurate over time.",
       "averageUserRating": 5,
-      "trackCensoredName": "Foggy: Bay Area Fog Tracker",
-      "trackViewUrl": "https://apps.apple.com/us/app/foggy-bay-area-fog-tracker/id6754467968?uo=4",
-      "contentAdvisoryRating": "12+",
-      "price": 5.99,
+      "minimumOsVersion": "18.0",
+      "artistId": 1848434851,
+      "artistName": "Nyfik, Inc.",
       "genres": [
         "Weather",
         "Travel"
       ],
-      "artistId": 1848434851,
-      "artistName": "Nyfik, Inc.",
-      "trackId": 6754467968,
-      "trackName": "Foggy: Bay Area Fog Tracker",
+      "price": 5.99,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "Nyfik, Inc.",
+      "bundleId": "com.nyfik.foggy",
       "releaseDate": "2026-06-22T07:00:00Z",
+      "currentVersionReleaseDate": "2026-09-02T12:16:19Z",
       "primaryGenreName": "Weather",
       "primaryGenreId": 6001,
+      "trackId": 6754467968,
+      "trackName": "Foggy: Bay Area Fog Tracker",
+      "releaseNotes": "Neighborhood names are complicated; people know where they live in ways maps don't always capture, and we're still learning how to name areas in a way that's useful to you.\n\nThis update is a small step: when you submit a report, you'll see a few nearby neighborhood options to pick from. Choose what fits, or tell us none do. Either way, you're helping us get this more accurate over time.",
       "genreIds": [
         "6001",
         "6003"
       ],
-      "sellerName": "Nyfik, Inc.",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-09-02T12:16:19Z",
       "version": "4.1.0",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Foggy is a new kind of weather app for people curious about fog in California’s San Francisco Bay Area. Built with the local community in mind by a small team focused on making a high quality experience, this app combines satellite imagery, detailed maps and community reporting to help Bay Area locals and visitors alike be more fog aware. \n\nFoggy’s map covers the SF Bay Area of California, inclusive of Point Reyes, Santa Cruz, San Francisco’s Ocean Beach and communities in the East Bay. Because the region’s fog and people share a unique relationship and are always in motion. \n\nSee real-time fog updates and track the fog visually across the Bay Area.\n\n– See the fog in your area and around the Bay: Views of the Bay Area from above, with satellite images updated every 5 minutes.\n– View the fog rolling in and out: 2 hour and 24 hour playback loop options to let you see the fog evolving and changing over time.\n– Understand fog and cloud distinction: Fog and cloud statuses from our proprietary model of satellite imagery and, ocean data help you distinguish between cooling cloud cover and a wet blanket of fog \n\nReport fog conditions in your area anonymously, and view other recent community reports shared from across the Bay Area’s neighborhoods. \n\n– Get a fuller picture of the local fog: Community reporting gives you the power to share your on-the-ground experience with the Foggy community and understand the fog others see in their areas\n– Keep a personal logbook: When you share your fog report with the community, you build your personal logbook of your experiences with San Francisco’s fog. You’ll be able to look back on all your reports or delete them. \n\nWe don’t sell your data. Privacy is a core pillar of our design. \n\n– No accounts: When you sign up for Foggy the app installs and assigns a random install ID that links your sessions using the app without identifying you to other users or to us.\n– No data sharing: We will never sell or share your data or personal information.  \n– No ads: See the fog and without ads.\n– No personal identifiable information: Users can use the full experience without ever providing any personal information. \n– Fog reports are anonymous and their location is approximate: what the community sees is just the report, not who reported it or exactly where it was reported\n– Your exact location is never saved or shown to others: Enabling location services is totally optional, and Foggy only sees an approximate location when you submit a report to identify your neighborhood. This way, you can see fog reports in your area, while protecting community members’ privacy.\n– Our business model is in support of your privacy: we charge you a small download fee to cover the cost of providing Foggy to you instead of selling your attention or data to advertisers.\n\nFoggy is built and supported by humans. Your feedback is important and will always be answered by a real person, not a bot. \n\nWhether you live in the foggier outer avenues of San Francisco or the sunnier East Bay, Foggy is your companion to understand fog’s real-time conditions and movements so you can be more fog-aware wherever you choose to spend your day and so you always bring the right layers.",
-      "bundleId": "com.nyfik.foggy",
       "userRatingCount": 18,
       "country": "USA"
     }

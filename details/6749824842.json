@@ -3,6 +3,10 @@
   "results": [
     {
       "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -130,22 +134,12 @@
         "iPadAir11M4-iPadAir11M4",
         "iPadAir11M4Cellular-iPadAir11M4Cellular",
         "iPadAir13M4-iPadAir13M4",
-        "iPadAir13M4Cellular-iPadAir13M4Cellular"
+        "iPadAir13M4Cellular-iPadAir13M4Cellular",
+        "iPhone18Pro-iPhone18Pro",
+        "iPhone18ProMax-iPhone18ProMax",
+        "iPhoneDuo-iPhoneDuo"
       ],
       "kind": "software",
-      "features": [
-        "iosUniversal"
-      ],
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1d/97/7d/1d977d1f-4509-e2c1-5831-116f859102e2/iPhone-01.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/90/3c/f0/903cf069-621c-ebb6-a278-db98b5646df0/iPhone-02.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4b/89/99/4b899967-f33b-8416-1f36-528edb39a8ea/iPhone-03.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/46/c6/cb/46c6cbeb-6088-af51-1da2-92e333233195/iPhone-04.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/47/89/76/47897605-4fcc-8c19-fe72-70208c2542c5/iPhone-05.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/85/77/fb/8577fbd4-7ec0-9241-4cf7-5e11844e8288/iPhone-06.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a2/e6/66/a2e666b8-db06-7d45-2c9b-a213cc77351d/iPhone-07.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/08/b3/8c/08b38c17-5879-851e-3382-200eff018544/iPhone-08.jpg/320x480bb.jpg"
-      ],
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/57/88/86/57888636-9646-531b-fbad-561a174385b8/iPad-01.jpg/360x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/19/87/38/198738d1-6fd7-c450-f4c7-3ef8d4671f60/iPad-02.jpg/360x480bb.jpg",
@@ -157,50 +151,59 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/45/11/2f/45112fc7-2ee5-2906-a8cd-96f07fa8ea10/iPad-08.jpg/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/7e/47/217e4735-436f-887f-1008-18dc23999f24/Parachute-iOS-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/de/developer/leitmotif-gmbh/id1627104008?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/7e/47/217e4735-436f-887f-1008-18dc23999f24/Parachute-iOS-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/7e/47/217e4735-436f-887f-1008-18dc23999f24/Parachute-iOS-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.jpg",
-      "advisories": [],
-      "minimumOsVersion": "18.0",
-      "languageCodesISO2A": [
-        "EN"
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/8d/81/a48d8183-adee-c533-37ba-10d048aafa7a/Parachute-iOS-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1d/97/7d/1d977d1f-4509-e2c1-5831-116f859102e2/iPhone-01.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/90/3c/f0/903cf069-621c-ebb6-a278-db98b5646df0/iPhone-02.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4b/89/99/4b899967-f33b-8416-1f36-528edb39a8ea/iPhone-03.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/46/c6/cb/46c6cbeb-6088-af51-1da2-92e333233195/iPhone-04.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/47/89/76/47897605-4fcc-8c19-fe72-70208c2542c5/iPhone-05.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/85/77/fb/8577fbd4-7ec0-9241-4cf7-5e11844e8288/iPhone-06.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a2/e6/66/a2e666b8-db06-7d45-2c9b-a213cc77351d/iPhone-07.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/08/b3/8c/08b38c17-5879-851e-3382-200eff018544/iPhone-08.jpg/320x480bb.jpg"
       ],
-      "fileSizeBytes": "17883136",
-      "formattedPrice": "9,99 €",
-      "userRatingCountForCurrentVersion": 51,
-      "trackContentRating": "4+",
-      "artistId": 1627104008,
-      "artistName": "Leitmotif GmbH",
+      "artistViewUrl": "https://apps.apple.com/de/developer/leitmotif-gmbh/id1627104008?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/8d/81/a48d8183-adee-c533-37ba-10d048aafa7a/Parachute-iOS-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/8d/81/a48d8183-adee-c533-37ba-10d048aafa7a/Parachute-iOS-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.jpg",
+      "bundleId": "net.ericmann.parachute.Parachute-Backup",
+      "minimumOsVersion": "18.0",
+      "price": 9.99,
       "genres": [
         "Dienst­programme",
         "Foto und Video"
       ],
-      "price": 9.99,
-      "bundleId": "net.ericmann.parachute.Parachute-Backup",
+      "artistId": 1627104008,
+      "artistName": "Leitmotif GmbH",
+      "isVppDeviceBasedLicensingEnabled": true,
       "releaseDate": "2025-08-14T07:00:00Z",
-      "releaseNotes": "This update fixes an issue where files, photos, and videos backed up to NAS and other network destinations could receive the backup time instead of their original dates.",
-      "currentVersionReleaseDate": "2026-08-27T20:41:58Z",
+      "releaseNotes": "Parachute Backup Mobile is ready for iOS 27. This update also fixes problems reported after the last release:\n• Backups started by a Shortcuts automation now run while the device is locked.\n• Google Drive destinations no longer end up with duplicate folders.\n• Faster backups to network drives and from iCloud Drive.\n• Files with restricted permissions no longer stop a cloud backup, and now reach drives and network shares too.\n• Files in iCloud Drive that are still uploading, have a sync conflict, or have syncing paused are backed up from the local copy instead of stopping with a download timeout.\n• Files that were locked on a Mac are now backed up, and left unlocked in the backup.\n• A clearer message when the destination folder has been deleted.",
       "trackId": 6749824842,
       "trackName": "Parachute Backup Mobile",
-      "sellerName": "Leitmotif GmbH",
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
+      "currentVersionReleaseDate": "2026-09-12T07:58:57Z",
+      "version": "1.9.3",
+      "wrapperType": "software",
+      "currency": "EUR",
+      "description": "Parachute is your backup companion for iCloud Photos and iCloud Drive. It backs up your memories — photos, videos, and documents — to storage you control, whether that’s an external drive, Google Drive, OneDrive, S3 Buckets, network drives/NAS, external hard drives and more. With Parachute, you get peace of mind and full ownership of your data, free from lock-in.\n\nYour Data, Your Way\n\t•\tBack up your entire iCloud Photos library (including Shared Albums) and folders from iCloud Drive.\n\t•\tPreserve originals in full resolution, all adjustment data, and the current edited versions.\n\t•\tWorks with USB drives, NAS/SMB/SFTP mounts, Google Drive, S3 Buckets, OneDrive, external hard drives and more\n\nKey Features\n\t•\tBackups can be triggered from the main screen to any of your backup destinations\n\t•\tAutomate backups with Shortcuts integration and Schedules\n\t•\tPrivacy-first: transfers handled via Apple’s Files extensions — your credentials never touch our app.\n\t•\tSupports full-quality media: Live Photos + videos, RAW images, bursts, edits, and slow motion.\n\nWhy It Matters\n\t•\tiCloud sync ≠ backup — deletions, expired storage, or sync errors can mean permanent loss.\n\t•\tParachute safeguards your digital life from accidents and disasters.\n\t•\tYour files are stored in normal folders you can browse and restore from directly — no special tools needed.\n\nOne time purchase. No Lock-In.\n\t•\tOne-time purchase unlocks all backup functionality — no recurring fees.\n\t•\tYour data stays in your storage, not ours.\n\t•\tNo accounts, no telemetry, no background bloat.\n\n\nFAQ Highlights\n\nQ: Does Parachute ever delete files from iCloud?\nA: Never. It’s strictly read-only.\n\nQ: Can I restore without Parachute?\nA: Yes. Backups are just normal folders — copy them back with Finder anytime.\n\nQ: What if a file is corrupted in iCloud?\nA: Parachute flags any unexportable items so you know exactly what couldn’t be saved.\n\nQ: Can it back up non-iCloud folders?\nA: Yes. Add any folder via the iOS/iPadOS file picker\n\nBy downloading Parachute Backup, you agree to Apple's Terms of Use (https://www.apple.com/legal/internet-services/itunes/dev/stdeula/) and our Privacy Policy (https://parachuteapps.com/privacy).",
+      "averageUserRatingForCurrentVersion": 4.36538,
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "fileSizeBytes": "18026496",
+      "formattedPrice": "9,99 €",
+      "userRatingCountForCurrentVersion": 52,
+      "trackContentRating": "4+",
+      "averageUserRating": 4.36538,
+      "trackCensoredName": "Parachute Backup Mobile",
+      "trackViewUrl": "https://apps.apple.com/de/app/parachute-backup-mobile/id6749824842?uo=4",
+      "contentAdvisoryRating": "4+",
       "genreIds": [
         "6002",
         "6008"
       ],
-      "isVppDeviceBasedLicensingEnabled": true,
-      "version": "1.9.2",
-      "wrapperType": "software",
-      "currency": "EUR",
-      "description": "Parachute is your backup companion for iCloud Photos and iCloud Drive. It backs up your memories — photos, videos, and documents — to storage you control, whether that’s an external drive, Google Drive, OneDrive, S3 Buckets, network drives/NAS, external hard drives and more. With Parachute, you get peace of mind and full ownership of your data, free from lock-in.\n\nYour Data, Your Way\n\t•\tBack up your entire iCloud Photos library (including Shared Albums) and folders from iCloud Drive.\n\t•\tPreserve originals in full resolution, all adjustment data, and the current edited versions.\n\t•\tWorks with USB drives, NAS/SMB/SFTP mounts, Google Drive, S3 Buckets, OneDrive, external hard drives and more\n\nKey Features\n\t•\tBackups can be triggered from the main screen to any of your backup destinations\n\t•\tAutomate backups with Shortcuts integration and Schedules\n\t•\tPrivacy-first: transfers handled via Apple’s Files extensions — your credentials never touch our app.\n\t•\tSupports full-quality media: Live Photos + videos, RAW images, bursts, edits, and slow motion.\n\nWhy It Matters\n\t•\tiCloud sync ≠ backup — deletions, expired storage, or sync errors can mean permanent loss.\n\t•\tParachute safeguards your digital life from accidents and disasters.\n\t•\tYour files are stored in normal folders you can browse and restore from directly — no special tools needed.\n\nOne time purchase. No Lock-In.\n\t•\tOne-time purchase unlocks all backup functionality — no recurring fees.\n\t•\tYour data stays in your storage, not ours.\n\t•\tNo accounts, no telemetry, no background bloat.\n\n\nFAQ Highlights\n\nQ: Does Parachute ever delete files from iCloud?\nA: Never. It’s strictly read-only.\n\nQ: Can I restore without Parachute?\nA: Yes. Backups are just normal folders — copy them back with Finder anytime.\n\nQ: What if a file is corrupted in iCloud?\nA: Parachute flags any unexportable items so you know exactly what couldn’t be saved.\n\nQ: Can it back up non-iCloud folders?\nA: Yes. Add any folder via the iOS/iPadOS file picker\n\nBy downloading Parachute Backup, you agree to Apple's Terms of Use (https://www.apple.com/legal/internet-services/itunes/dev/stdeula/) and our Privacy Policy (https://parachuteapps.com/privacy).",
-      "averageUserRating": 4.35294,
-      "averageUserRatingForCurrentVersion": 4.35294,
-      "trackCensoredName": "Parachute Backup Mobile",
-      "trackViewUrl": "https://apps.apple.com/de/app/parachute-backup-mobile/id6749824842?uo=4",
-      "contentAdvisoryRating": "4+",
-      "userRatingCount": 51,
+      "sellerName": "Leitmotif GmbH",
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
+      "userRatingCount": 52,
       "country": "DEU"
     }
   ]

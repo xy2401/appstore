@@ -3,7 +3,6 @@
   "results": [
     {
       "isGameCenterEnabled": false,
-      "advisories": [],
       "supportedDevices": [
         "MacDesktop-MacDesktop",
         "iPhone5s-iPhone5s",
@@ -132,7 +131,18 @@
         "iPadAir11M4-iPadAir11M4",
         "iPadAir11M4Cellular-iPadAir11M4Cellular",
         "iPadAir13M4-iPadAir13M4",
-        "iPadAir13M4Cellular-iPadAir13M4Cellular"
+        "iPadAir13M4Cellular-iPadAir13M4Cellular",
+        "iPhone18Pro-iPhone18Pro",
+        "iPhone18ProMax-iPhone18ProMax",
+        "iPhoneDuo-iPhoneDuo"
+      ],
+      "advisories": [],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/de/developer/and-a-dinosaur/id475577301?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/23/95/8623953d-d5ab-05db-cae7-545b87aa0c02/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/23/95/8623953d-d5ab-05db-cae7-545b87aa0c02/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/100x100bb.jpg",
+      "features": [
+        "iosUniversal"
       ],
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/46/de/40/46de40ca-61ec-e070-cc2a-9307fbfc8ce0/f261a659-acf5-4174-a3ea-a536708202bc_1.png/392x696bb.png",
@@ -144,36 +154,24 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/23/95/8623953d-d5ab-05db-cae7-545b87aa0c02/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/512x512bb.jpg",
-      "kind": "software",
-      "features": [
-        "iosUniversal"
-      ],
-      "artistViewUrl": "https://apps.apple.com/de/developer/and-a-dinosaur/id475577301?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/23/95/8623953d-d5ab-05db-cae7-545b87aa0c02/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/23/95/8623953d-d5ab-05db-cae7-545b87aa0c02/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/100x100bb.jpg",
-      "languageCodesISO2A": [
-        "EN"
-      ],
-      "fileSizeBytes": "9703424",
-      "formattedPrice": "1,99 €",
-      "userRatingCountForCurrentVersion": 460,
-      "trackContentRating": "4+",
       "averageUserRatingForCurrentVersion": 4.36957,
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
+      "artistId": 475577301,
+      "artistName": "And a Dinosaur",
       "genres": [
         "Dienst­programme",
         "Foto und Video"
       ],
-      "artistId": 475577301,
-      "artistName": "And a Dinosaur",
+      "price": 1.99,
+      "genreIds": [
+        "6002",
+        "6008"
+      ],
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
+      "sellerName": "And a Dinosaur",
       "isVppDeviceBasedLicensingEnabled": true,
-      "bundleId": "com.andadinosaur.Vinegar",
-      "currentVersionReleaseDate": "2026-08-15T20:38:25Z",
       "releaseDate": "2021-11-06T07:00:00Z",
-      "trackName": "Vinegar - Tube Cleaner",
-      "trackId": 1591303229,
-      "sellerUrl": "https://andadinosaur.com/launch-vinegar",
+      "currentVersionReleaseDate": "2026-08-15T20:38:25Z",
       "version": "3.5.2",
       "wrapperType": "software",
       "currency": "EUR",
@@ -182,14 +180,19 @@
       "trackCensoredName": "Vinegar - Tube Cleaner",
       "trackViewUrl": "https://apps.apple.com/de/app/vinegar-tube-cleaner/id1591303229?uo=4",
       "contentAdvisoryRating": "4+",
+      "bundleId": "com.andadinosaur.Vinegar",
       "minimumOsVersion": "15.0",
-      "sellerName": "And a Dinosaur",
-      "price": 1.99,
-      "releaseNotes": "Vinegar Changelog:\n\n- No changes.\n\nVinegar Classic Changelog:\n\n- Videos opened from Google search results should play normally now.",
-      "genreIds": [
-        "6002",
-        "6008"
+      "sellerUrl": "https://andadinosaur.com/launch-vinegar",
+      "languageCodesISO2A": [
+        "EN"
       ],
+      "fileSizeBytes": "9703424",
+      "formattedPrice": "1,99 €",
+      "userRatingCountForCurrentVersion": 460,
+      "trackContentRating": "4+",
+      "releaseNotes": "Vinegar Changelog:\n\n- No changes.\n\nVinegar Classic Changelog:\n\n- Videos opened from Google search results should play normally now.",
+      "trackId": 1591303229,
+      "trackName": "Vinegar - Tube Cleaner",
       "userRatingCount": 460,
       "country": "DEU"
     },

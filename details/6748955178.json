@@ -185,6 +185,9 @@
     },
     {
       "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -312,13 +315,18 @@
         "iPadAir11M4-iPadAir11M4",
         "iPadAir11M4Cellular-iPadAir11M4Cellular",
         "iPadAir13M4-iPadAir13M4",
-        "iPadAir13M4Cellular-iPadAir13M4Cellular"
+        "iPadAir13M4Cellular-iPadAir13M4Cellular",
+        "iPhone18Pro-iPhone18Pro",
+        "iPhone18ProMax-iPhone18ProMax",
+        "iPhoneDuo-iPhoneDuo"
       ],
       "advisories": [],
       "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/jp/developer/rumahsaku-corp/id1828221168?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/0d/69/b10d6935-36c8-0d4b-b7f3-efd23f1a6a4d/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/0d/69/b10d6935-36c8-0d4b-b7f3-efd23f1a6a4d/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/68/0f/d0/680fd0f4-46b9-6f99-41cf-9d1370b216bc/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2025-07-23_at_07.32.19.png/360x480bb.jpg"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/0d/69/b10d6935-36c8-0d4b-b7f3-efd23f1a6a4d/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8d/77/e3/8d77e312-d190-6850-5c3f-2df713058533/Apple_iPhone_16_Pro_Max_Screenshot_1.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1d/47/ad/1d47ada9-3c8d-d94c-5d00-52be41909c8a/Apple_iPhone_16_Pro_Max_Screenshot_2.png/320x480bb.jpg",
@@ -327,52 +335,47 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/98/50/f7/9850f731-6bb8-df5f-29fd-fd2834a84f15/Apple_iPhone_16_Pro_Max_Screenshot_5.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9d/7d/9b/9d7d9be9-b192-1ee6-72c7-e4218560b3dd/Apple_iPhone_16_Pro_Max_Screenshot_6.png/320x480bb.jpg"
       ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/68/0f/d0/680fd0f4-46b9-6f99-41cf-9d1370b216bc/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2025-07-23_at_07.32.19.png/360x480bb.jpg"
-      ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/0d/69/b10d6935-36c8-0d4b-b7f3-efd23f1a6a4d/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
+      "artistViewUrl": "https://apps.apple.com/jp/developer/rumahsaku-corp/id1828221168?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/0d/69/b10d6935-36c8-0d4b-b7f3-efd23f1a6a4d/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/0d/69/b10d6935-36c8-0d4b-b7f3-efd23f1a6a4d/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
       "artistId": 1828221168,
       "artistName": "RUMAHSAKU CORP.",
-      "genres": [
-        "教育"
-      ],
       "price": 800,
-      "releaseNotes": "学習履歴で回答数と正解数が「null」と表示される問題を修正しました。\n保存済みの学習履歴から、正しい数字が表示されるようになります。",
-      "currentVersionReleaseDate": "2026-09-06T02:54:49Z",
-      "releaseDate": "2025-07-23T07:00:00Z",
-      "trackId": 6748955178,
-      "trackName": "消防設備士4類 試験対策",
-      "primaryGenreName": "Education",
-      "primaryGenreId": 6017,
-      "sellerName": "RUMAHSAKU CORP.",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "bundleId": "com.rumahsaku.fireequipmentquiz",
       "genreIds": [
         "6017"
       ],
-      "isVppDeviceBasedLicensingEnabled": true,
+      "primaryGenreName": "Education",
+      "primaryGenreId": 6017,
+      "releaseNotes": "学習履歴で回答数と正解数が「null」と表示される問題を修正しました。\n保存済みの学習履歴から、正しい数字が表示されるようになります。",
+      "releaseDate": "2025-07-23T07:00:00Z",
+      "currentVersionReleaseDate": "2026-09-06T02:54:49Z",
+      "trackName": "消防設備士4類 試験対策",
+      "trackId": 6748955178,
       "version": "1.3.6",
       "wrapperType": "software",
       "currency": "JPY",
       "description": "消防設備士乙種・甲種4類対応の問題集！！オフライン対応\n\n一問一答モード\n\n自分で問題が作れるカスタム学習モード\n\n学習状況を確認してモチベーションアップ！\n\nシンプル＆軽量、どこでも学べる",
-      "trackCensoredName": "消防設備士4類 試験対策",
-      "trackViewUrl": "https://apps.apple.com/jp/app/%E6%B6%88%E9%98%B2%E8%A8%AD%E5%82%99%E5%A3%AB4%E9%A1%9E-%E8%A9%A6%E9%A8%93%E5%AF%BE%E7%AD%96/id6748955178?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 3.84058,
-      "averageUserRatingForCurrentVersion": 3.84058,
-      "bundleId": "com.rumahsaku.fireequipmentquiz",
+      "minimumOsVersion": "15.6",
       "sellerUrl": "https://app.rumahsaku.com/",
       "languageCodesISO2A": [
         "JA"
       ],
       "fileSizeBytes": "33740800",
       "formattedPrice": "¥800",
-      "userRatingCountForCurrentVersion": 69,
+      "userRatingCountForCurrentVersion": 70,
       "trackContentRating": "4+",
-      "minimumOsVersion": "15.6",
-      "userRatingCount": 69,
+      "averageUserRatingForCurrentVersion": 3.84286,
+      "averageUserRating": 3.84286,
+      "trackCensoredName": "消防設備士4類 試験対策",
+      "trackViewUrl": "https://apps.apple.com/jp/app/%E6%B6%88%E9%98%B2%E8%A8%AD%E5%82%99%E5%A3%AB4%E9%A1%9E-%E8%A9%A6%E9%A8%93%E5%AF%BE%E7%AD%96/id6748955178?uo=4",
+      "contentAdvisoryRating": "4+",
+      "sellerName": "RUMAHSAKU CORP.",
+      "genres": [
+        "教育"
+      ],
+      "userRatingCount": 70,
       "country": "JPN"
     }
   ]

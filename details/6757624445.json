@@ -185,8 +185,10 @@
     },
     {
       "artistViewUrl": "https://apps.apple.com/cn/developer/%E5%B9%BF%E8%81%AA-%E9%92%9F/id1867790847?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/ca/e4/f6cae489-0a26-2692-300a-878e68d64039/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/ca/e4/f6cae489-0a26-2692-300a-878e68d64039/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/9c/a1/509ca1de-ef85-0c11-06d0-a7480529e67f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/9c/a1/509ca1de-ef85-0c11-06d0-a7480529e67f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/9c/a1/509ca1de-ef85-0c11-06d0-a7480529e67f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/15/63/25/156325ca-c60f-9dc9-1e08-9421f2c36110/IMG_3111.jpg/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/98/ef/f9/98eff976-f7e3-fcb2-7a72-5b97096543ec/IMG_1034.jpg/320x480bb.jpg",
@@ -211,10 +213,7 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/72/19/07/7219076e-457e-686b-386b-1685ef079470/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-03-03_at_11.07.47.png/360x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bc/6e/ac/bc6eace3-e727-113d-bb55-86419edb33ee/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-03-03_at_11.07.51.png/360x480bb.jpg"
       ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/ca/e4/f6cae489-0a26-2692-300a-878e68d64039/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "isGameCenterEnabled": false,
-      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -343,49 +342,53 @@
         "iPadAir11M4-iPadAir11M4",
         "iPadAir11M4Cellular-iPadAir11M4Cellular",
         "iPadAir13M4-iPadAir13M4",
-        "iPadAir13M4Cellular-iPadAir13M4Cellular"
+        "iPadAir13M4Cellular-iPadAir13M4Cellular",
+        "iPhone18Pro-iPhone18Pro",
+        "iPhone18ProMax-iPhone18ProMax",
+        "iPhoneDuo-iPhoneDuo"
       ],
+      "advisories": [],
       "kind": "software",
       "features": [
         "iosUniversal"
       ],
+      "averageUserRating": 4.80263,
       "trackCensoredName": "Device Lab",
       "trackViewUrl": "https://apps.apple.com/cn/app/device-lab/id6757624445?uo=4",
       "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.80131,
-      "averageUserRatingForCurrentVersion": 4.80131,
+      "averageUserRatingForCurrentVersion": 4.80263,
+      "minimumOsVersion": "17.0",
       "languageCodesISO2A": [
         "ZH"
       ],
-      "fileSizeBytes": "31158272",
+      "fileSizeBytes": "33239040",
       "formattedPrice": "¥25.00",
-      "userRatingCountForCurrentVersion": 151,
+      "userRatingCountForCurrentVersion": 152,
       "trackContentRating": "4+",
+      "releaseNotes": "新增与优化\n• 更新 A、S、M 芯片内核架构及 ML 加速引擎信息。\n• 更新芯片板块内存缓存信息。\n\n修复与改进\n• 修复已知问题，提升稳定性及细节体验。",
+      "bundleId": "com.Device-Lab",
+      "currentVersionReleaseDate": "2026-09-13T08:55:15Z",
       "artistId": 1867790847,
       "artistName": "广聪 钟",
       "genres": [
         "工具"
       ],
       "price": 25,
-      "sellerName": "广聪 钟",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseDate": "2026-01-13T08:00:00Z",
-      "trackName": "Device Lab",
       "trackId": 6757624445,
-      "currentVersionReleaseDate": "2026-09-04T03:12:18Z",
-      "releaseNotes": "新增与优化\n• 修正部分 Mac 内存规格信息错误的问题。\n• 修正 M5 Ultra CPU 核心数信息。\n• 优化概览页面 CPU 详情的图表展示。\n• CPU 概览监控悬浮窗添加历史占用记录。\n\n修复与改进\n• 修复已知问题，提升稳定性及细节体验。",
-      "version": "1.6.2",
-      "wrapperType": "software",
-      "currency": "CNY",
-      "description": "Device Lab 是一款围绕设备与芯片信息构建的本地化资料与工具 App，包含硬件状态监控、参数整理、芯片与设备对比、系统信息查看与实用工具，帮助你更系统、更直观地理解和管理你所使用的设备。\n\n核心板块\n• 概览：集中展示当前设备的关键信息与运行状态，如发热状态、CPU占用、内存占用、当前网速信息等，重要数据一目了然，支持通过桌面小组件或画中画查看，让监控信息随时可见。\n• 芯片：系统化整理各代芯片的核心规格与技术参数，支持同系列、跨代际对比，直观呈现架构差异与升级重点。\n• 设备：收录不同设备的硬件配置与技术参数，清晰展示不同型号之间的差异，方便在选购、对比或查阅时快速获得可靠信息。\n• 工具：汇总与设备和芯片相关的性能参考与测试工具，包括性能排行榜、基准测试结果整理及测试工具索引，用于从数据角度理解不同芯片与设备的性能表现，帮助你在对比与分析时获得更直观的参考依据。\n\n隐私与原则\n• 本地优先：App 核心功能完全在设备本地运行，无需登录即可使用。\n• iCloud 同步：仅用于在你的设备之间同步数据，不收集、不分析任何个人信息，默认不开启。\n• 体验优先：无广告、无推送、无后台唤醒，界面简约设计，信息结构清晰，专注于内容本身。\n• 轻量设计：安装包体积小，不占用额外系统资源。\n\nDevice Lab，让复杂的硬件参数，从此一目了然。",
-      "bundleId": "com.Device-Lab",
-      "minimumOsVersion": "17.0",
+      "isVppDeviceBasedLicensingEnabled": true,
       "genreIds": [
         "6002"
       ],
+      "trackName": "Device Lab",
+      "sellerName": "广聪 钟",
+      "releaseDate": "2026-01-13T08:00:00Z",
+      "version": "1.6.6",
+      "wrapperType": "software",
+      "currency": "CNY",
+      "description": "Device Lab 是一款围绕设备与芯片信息构建的本地化资料与工具 App，包含硬件状态监控、参数整理、芯片与设备对比、系统信息查看与实用工具，帮助你更系统、更直观地理解和管理你所使用的设备。\n\n核心板块\n• 概览：集中展示当前设备的关键信息与运行状态，如发热状态、CPU占用、内存占用、当前网速信息等，重要数据一目了然，支持通过桌面小组件或画中画查看，让监控信息随时可见。\n• 芯片：系统化整理各代芯片的核心规格与技术参数，支持同系列、跨代际对比，直观呈现架构差异与升级重点。\n• 设备：收录不同设备的硬件配置与技术参数，清晰展示不同型号之间的差异，方便在选购、对比或查阅时快速获得可靠信息。\n• 工具：汇总与设备和芯片相关的性能参考与测试工具，包括性能排行榜、基准测试结果整理及测试工具索引，用于从数据角度理解不同芯片与设备的性能表现，帮助你在对比与分析时获得更直观的参考依据。\n\n隐私与原则\n• 本地优先：App 核心功能完全在设备本地运行，无需登录即可使用。\n• iCloud 同步：仅用于在你的设备之间同步数据，不收集、不分析任何个人信息，默认不开启。\n• 体验优先：无广告、无推送、无后台唤醒，界面简约设计，信息结构清晰，专注于内容本身。\n• 轻量设计：安装包体积小，不占用额外系统资源。\n\nDevice Lab，让复杂的硬件参数，从此一目了然。",
       "primaryGenreName": "Utilities",
       "primaryGenreId": 6002,
-      "userRatingCount": 151,
+      "userRatingCount": 152,
       "country": "CHN"
     }
   ]

@@ -190,7 +190,6 @@
       "userRatingCount": 5009
     },
     {
-      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/93/25/d0/9325d072-0e42-51c5-5324-8c21bd43fc8f/1_1242_U00d72208.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3c/a9/23/3ca923b6-2d9f-0356-cbe7-24f69b13530c/2_1242_U00d72208.jpg/392x696bb.jpg",
@@ -201,7 +200,11 @@
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/75/11/0f/75110fa8-8a9b-c57e-92db-e86b477a5fcc/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/512x512bb.jpg",
+      "isGameCenterEnabled": false,
       "features": [],
+      "advisories": [
+        "無制限のWebアクセス"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -329,41 +332,43 @@
         "iPadAir11M4-iPadAir11M4",
         "iPadAir11M4Cellular-iPadAir11M4Cellular",
         "iPadAir13M4-iPadAir13M4",
-        "iPadAir13M4Cellular-iPadAir13M4Cellular"
-      ],
-      "advisories": [
-        "無制限のWebアクセス"
+        "iPadAir13M4Cellular-iPadAir13M4Cellular",
+        "iPhone18Pro-iPhone18Pro",
+        "iPhone18ProMax-iPhone18ProMax",
+        "iPhoneDuo-iPhoneDuo"
       ],
       "kind": "software",
       "artistViewUrl": "https://apps.apple.com/jp/developer/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%83%87%E3%82%A3%E3%82%AA%E3%83%B3/id434823853?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/75/11/0f/75110fa8-8a9b-c57e-92db-e86b477a5fcc/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/75/11/0f/75110fa8-8a9b-c57e-92db-e86b477a5fcc/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/100x100bb.jpg",
-      "releaseNotes": "いつもエディオンアプリをご利用いただきありがとうございます。\n特定の操作を行った場合にアプリが強制終了する問題を修正しました。",
       "sellerUrl": "https://www.edion.com/app/ap0001/mar15135501.html",
-      "averageUserRatingForCurrentVersion": 2.60702,
+      "averageUserRatingForCurrentVersion": 2.6076,
       "languageCodesISO2A": [
         "JA"
       ],
       "fileSizeBytes": "50948096",
       "formattedPrice": "無料",
-      "userRatingCountForCurrentVersion": 5046,
+      "userRatingCountForCurrentVersion": 5051,
       "trackContentRating": "17+",
+      "artistId": 434823853,
+      "artistName": "株式会社エディオン",
       "genres": [
         "ライフスタイル"
       ],
-      "artistId": 434823853,
-      "artistName": "株式会社エディオン",
       "price": 0,
       "bundleId": "jp.co.edion.EdionMembersApp",
+      "releaseNotes": "いつもエディオンアプリをご利用いただきありがとうございます。\n特定の操作を行った場合にアプリが強制終了する問題を修正しました。",
       "genreIds": [
         "6012"
       ],
       "releaseDate": "2011-05-25T07:00:00Z",
+      "sellerName": "EDION Corporation",
+      "currentVersionReleaseDate": "2026-08-25T05:09:06Z",
+      "trackName": "エディオンアプリ",
+      "trackId": 434823849,
       "primaryGenreName": "Lifestyle",
       "primaryGenreId": 6012,
-      "sellerName": "EDION Corporation",
       "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-08-25T05:09:06Z",
       "version": "5.22.4",
       "wrapperType": "software",
       "currency": "JPY",
@@ -371,11 +376,9 @@
       "trackCensoredName": "エディオンアプリ",
       "trackViewUrl": "https://apps.apple.com/jp/app/%E3%82%A8%E3%83%87%E3%82%A3%E3%82%AA%E3%83%B3%E3%82%A2%E3%83%97%E3%83%AA/id434823849?uo=4",
       "contentAdvisoryRating": "17+",
-      "averageUserRating": 2.60702,
+      "averageUserRating": 2.6076,
       "minimumOsVersion": "13.0",
-      "trackName": "エディオンアプリ",
-      "trackId": 434823849,
-      "userRatingCount": 5046,
+      "userRatingCount": 5051,
       "country": "JPN"
     }
   ]

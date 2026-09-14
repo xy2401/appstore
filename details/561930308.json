@@ -183,15 +183,6 @@
       "artistViewUrl": "https://apps.apple.com/us/developer/ulta-salon-cosmetics-fragrance-inc/id561930851?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/e2/2d/eee22d7d-6a34-b8a4-05d5-4a42fb0a2e71/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/e2/2d/eee22d7d-6a34-b8a4-05d5-4a42fb0a2e71/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-85-220.png/100x100bb.jpg",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d6/03/85/d60385ba-9bb5-28ee-5bff-3ef35fd5df38/9b77f1af-a4f8-4ceb-83b5-59dcc3bdc2ce_shopping_1242x2208.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/86/c6/bc/86c6bcb2-501c-d1af-27c1-b328de1bc1fc/766fea70-0d56-4602-a3ce-3fb9f9a6f094_rewards_1242x2208.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/de/0e/ca/de0eca22-089a-9825-049c-5902e8b1f40f/e3f8ead7-64f2-42db-a853-cd426af8d3cf_bopis_1242x2208.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/63/45/34/63453452-8c8e-68ee-6aa3-7c82782c6246/48eafd46-436b-4c45-bc97-6d7b904bd350_virtually_1242x2208.png/392x696bb.png"
-      ],
-      "ipadScreenshotUrls": [],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/e2/2d/eee22d7d-6a34-b8a4-05d5-4a42fb0a2e71/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-85-220.png/512x512bb.jpg",
       "isGameCenterEnabled": false,
       "features": [],
       "supportedDevices": [
@@ -321,24 +312,28 @@
         "iPadAir11M4-iPadAir11M4",
         "iPadAir11M4Cellular-iPadAir11M4Cellular",
         "iPadAir13M4-iPadAir13M4",
-        "iPadAir13M4Cellular-iPadAir13M4Cellular"
+        "iPadAir13M4Cellular-iPadAir13M4Cellular",
+        "iPhone18Pro-iPhone18Pro",
+        "iPhone18ProMax-iPhone18ProMax",
+        "iPhoneDuo-iPhoneDuo"
       ],
       "advisories": [],
       "kind": "software",
-      "averageUserRatingForCurrentVersion": 4.86257,
-      "contentAdvisoryRating": "4+",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d6/03/85/d60385ba-9bb5-28ee-5bff-3ef35fd5df38/9b77f1af-a4f8-4ceb-83b5-59dcc3bdc2ce_shopping_1242x2208.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/86/c6/bc/86c6bcb2-501c-d1af-27c1-b328de1bc1fc/766fea70-0d56-4602-a3ce-3fb9f9a6f094_rewards_1242x2208.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/de/0e/ca/de0eca22-089a-9825-049c-5902e8b1f40f/e3f8ead7-64f2-42db-a853-cd426af8d3cf_bopis_1242x2208.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/63/45/34/63453452-8c8e-68ee-6aa3-7c82782c6246/48eafd46-436b-4c45-bc97-6d7b904bd350_virtually_1242x2208.png/392x696bb.png"
+      ],
+      "ipadScreenshotUrls": [],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/e2/2d/eee22d7d-6a34-b8a4-05d5-4a42fb0a2e71/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-85-220.png/512x512bb.jpg",
+      "bundleId": "com.ulta.UltaMcommerceApp",
       "trackCensoredName": "Ulta Beauty: Makeup & Skincare",
       "trackViewUrl": "https://apps.apple.com/us/app/ulta-beauty-makeup-skincare/id561930308?uo=4",
-      "averageUserRating": 4.86257,
-      "sellerUrl": "https://www.ulta.com/app",
-      "languageCodesISO2A": [
-        "EN"
-      ],
-      "fileSizeBytes": "267974656",
-      "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 2410852,
-      "trackContentRating": "4+",
-      "minimumOsVersion": "18.0",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.8623,
+      "releaseNotes": "Performance improvements and bug fixes: Enjoy a smoother, more reliable app experience.",
       "artistId": 561930851,
       "artistName": "Ulta Salon, Cosmetics & Fragrance, Inc",
       "genres": [
@@ -346,25 +341,33 @@
         "Lifestyle"
       ],
       "price": 0,
-      "bundleId": "com.ulta.UltaMcommerceApp",
-      "trackId": 561930308,
-      "trackName": "Ulta Beauty: Makeup & Skincare",
-      "releaseDate": "2012-11-11T05:28:36Z",
-      "sellerName": "Ulta Salon, Cosmetics and Fragrance Inc.",
-      "isVppDeviceBasedLicensingEnabled": true,
       "genreIds": [
         "6024",
         "6012"
       ],
       "primaryGenreName": "Shopping",
       "primaryGenreId": 6024,
+      "sellerName": "Ulta Salon, Cosmetics and Fragrance Inc.",
+      "releaseDate": "2012-11-11T05:28:36Z",
+      "trackId": 561930308,
+      "trackName": "Ulta Beauty: Makeup & Skincare",
+      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-08-21T13:38:42Z",
-      "releaseNotes": "Performance improvements and bug fixes: Enjoy a smoother, more reliable app experience.",
       "version": "10.16",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Download the Ulta Beauty app today and get everything you love about Ulta Beauty right at your fingertips.\n\n\n\nTrack your Ulta Beauty Rewards™ points progress, activate membership and app-exclusive offers and redeem points anywhere, anytime. Discover the updated GLAMlab® for virtual try-on, Foundation Shade Matcher to find your perfect shade and Skin Analysis for a customized skin care recommendation.\n\n\n\n•\tShop by category and filter by brand, price, rating, bestsellers & new arrivals. Discover brands you’ll find exclusively at Ulta Beauty and celebrate, amplify and support underrepresented voices in the beauty industry.\n\n\n\n•\tDiscover Conscious Beauty at Ulta Beauty®—choices for you and for your world. Shop the brands that share your values with our five pillars: Clean Ingredients, Vegan, Cruelty Free, Sustainable Packaging and Give Back.\n\n\n\n•\tBook a beauty service at The Salon™ at Ulta Beauty. Choose from hair services, waxing & brows, makeup & lashes, skin services and ear piercing.\n\n\n\n•\tOpt in for push notifications and be the first to know about app-exclusive offers, upcoming events at your local Ulta Beauty and more.",
-      "userRatingCount": 2410852,
+      "averageUserRatingForCurrentVersion": 4.8623,
+      "sellerUrl": "https://www.ulta.com/app",
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "fileSizeBytes": "267974656",
+      "formattedPrice": "Free",
+      "userRatingCountForCurrentVersion": 2419238,
+      "trackContentRating": "4+",
+      "minimumOsVersion": "18.0",
+      "userRatingCount": 2419238,
       "country": "USA"
     }
   ]

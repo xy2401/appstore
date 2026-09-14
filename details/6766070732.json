@@ -5,10 +5,6 @@
       "features": [
         "iosUniversal"
       ],
-      "isGameCenterEnabled": false,
-      "artistViewUrl": "https://apps.apple.com/de/developer/vaste-company-llc/id1875508904?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/a2/88/cfa28889-9a5a-6ae2-1ba8-c82d25c91a15/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/a2/88/cfa28889-9a5a-6ae2-1ba8-c82d25c91a15/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a0/6e/6d/a06e6d21-4032-2129-d6db-cc50f3bc5f86/1.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4f/e4/a1/4fe4a185-27c0-f65f-22db-dd41e9443940/2.png/320x480bb.jpg",
@@ -22,7 +18,8 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5c/db/cc/5cdbccb8-c532-b9f5-27ab-6d460bcf2e17/7.png/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/a2/88/cfa28889-9a5a-6ae2-1ba8-c82d25c91a15/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/c4/5b/5cc45b8d-dd14-522b-9137-4277b5806385/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -150,47 +147,53 @@
         "iPadAir11M4-iPadAir11M4",
         "iPadAir11M4Cellular-iPadAir11M4Cellular",
         "iPadAir13M4-iPadAir13M4",
-        "iPadAir13M4Cellular-iPadAir13M4Cellular"
+        "iPadAir13M4Cellular-iPadAir13M4Cellular",
+        "iPhone18Pro-iPhone18Pro",
+        "iPhone18ProMax-iPhone18ProMax",
+        "iPhoneDuo-iPhoneDuo"
       ],
-      "kind": "software",
       "advisories": [],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/de/developer/vaste-company-llc/id1875508904?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/c4/5b/5cc45b8d-dd14-522b-9137-4277b5806385/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/c4/5b/5cc45b8d-dd14-522b-9137-4277b5806385/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
+      "bundleId": "io.thecringe.app",
+      "minimumOsVersion": "15.0",
+      "averageUserRatingForCurrentVersion": 3.92893,
+      "formattedPrice": "Gratis",
+      "userRatingCountForCurrentVersion": 197,
+      "trackContentRating": "4+",
       "languageCodesISO2A": [
         "EN"
       ],
-      "averageUserRating": 3.73973,
       "fileSizeBytes": "38858752",
-      "formattedPrice": "Gratis",
-      "userRatingCountForCurrentVersion": 73,
-      "trackContentRating": "4+",
-      "trackCensoredName": "The Cringe: Chat Wrapped",
-      "trackViewUrl": "https://apps.apple.com/de/app/the-cringe-chat-wrapped/id6766070732?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRatingForCurrentVersion": 3.73973,
+      "releaseNotes": "Bessere Unterstützung für Chats, die in weiteren Sprachen exportiert wurden.",
+      "artistId": 1875508904,
+      "artistName": "VASTE COMPANY LLC",
       "genres": [
         "Dienst­programme"
       ],
-      "artistId": 1875508904,
-      "artistName": "VASTE COMPANY LLC",
       "price": 0,
-      "trackId": 6766070732,
-      "trackName": "The Cringe: Chat Wrapped",
-      "sellerName": "VASTE COMPANY LLC",
-      "bundleId": "io.thecringe.app",
-      "isVppDeviceBasedLicensingEnabled": true,
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
       "genreIds": [
         "6002"
       ],
       "releaseDate": "2026-05-08T07:00:00Z",
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
-      "releaseNotes": "Fehlerbehebungen",
-      "version": "1.1.3",
+      "trackId": 6766070732,
+      "trackName": "The Cringe: Chat Wrapped",
+      "sellerName": "VASTE COMPANY LLC",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-09-08T22:36:55Z",
+      "version": "1.1.4",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Fragst du dich, wer eigentlich mehr schreibt? Musst du Antwortzeiten checken oder Unstimmigkeiten finden? The Cringe liefert dir die genauen Zahlen. Kein Raten, nur Fakten.\n\nMit The Cringe kannst du:\n\nAuf genaue Metriken zugreifen: Erhalte die genaue Anzahl der Nachrichten pro Person und berechne die durchschnittliche Antwortzeit auf die Minute genau.\n\nUnstimmigkeiten finden: Verfolge, wie oft bestimmte Wörter vorkommen, und erkenne Muster im Chat.\n\nDetaillierte Analysen erhalten: Sieh dir ein komplettes Statistik-Dashboard eures Chats an.\n\n100 % privat bleiben: Es werden keine Daten gespeichert oder gesammelt. Deine Chats bleiben komplett bei dir.\n\nSo funktioniert's:\n\nExportiere deinen Chatverlauf direkt aus WhatsApp.\n\nODER lade unendlich viele Screenshots aus jeder beliebigen Messenger-App hoch (iMessage, Instagram, Snapchat usw.).\n\nErhalte sofort deinen detaillierten Bericht.\n\nOb dein Crush, dein Ex oder deine Freunde – die Zahlen lügen nicht.\n\nHinweis: Ein Abo ist erforderlich, um vollen Zugriff auf alle Statistiken und Berichte zu erhalten.",
-      "minimumOsVersion": "15.0",
-      "currentVersionReleaseDate": "2026-08-25T05:35:53Z",
-      "userRatingCount": 73,
+      "trackCensoredName": "The Cringe: Chat Wrapped",
+      "trackViewUrl": "https://apps.apple.com/de/app/the-cringe-chat-wrapped/id6766070732?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 3.92893,
+      "userRatingCount": 197,
       "country": "DEU"
     }
   ]

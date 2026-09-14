@@ -2,9 +2,6 @@
   "resultCount": 2,
   "results": [
     {
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/40/89/b140899f-80bb-34ef-2ea9-2393cc5e049f/AppIcon-0-0-1x_U007epad-0-0-85-220.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/95/c7/2e/95c72e62-30d4-35c9-a72c-15d1db3f572a/8f361847-825a-4c50-a4dc-d63d1593093b_Simulator_Screenshot_-_8_U002b_-_2024-02-05_at_20.04.10.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9b/44/15/9b44153b-e308-1b49-fc92-561f77f4ca3e/f4cadfbf-f65c-47b5-90c7-0d2d55bb2367_Simulator_Screenshot_-_8_U002b_-_2024-02-05_at_20.04.45.png/392x696bb.png"
@@ -13,6 +10,9 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/87/34/5c/87345ca1-8db1-c3bf-866b-f82bb54fa732/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M2_U0029_-_2025-01-20_at_17.09.35.png/360x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6f/70/55/6f7055df-c036-f59e-6fe6-6bf8ea21b251/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M2_U0029_-_2025-01-20_at_17.10.04.png/360x480bb.jpg"
       ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/40/89/b140899f-80bb-34ef-2ea9-2393cc5e049f/AppIcon-0-0-1x_U007epad-0-0-85-220.png/512x512bb.jpg",
+      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -140,17 +140,19 @@
         "iPadAir11M4-iPadAir11M4",
         "iPadAir11M4Cellular-iPadAir11M4Cellular",
         "iPadAir13M4-iPadAir13M4",
-        "iPadAir13M4Cellular-iPadAir13M4Cellular"
+        "iPadAir13M4Cellular-iPadAir13M4Cellular",
+        "iPhone18Pro-iPhone18Pro",
+        "iPhone18ProMax-iPhone18ProMax",
+        "iPhoneDuo-iPhoneDuo"
+      ],
+      "features": [
+        "iosUniversal"
       ],
       "advisories": [],
       "kind": "software",
       "artistViewUrl": "https://apps.apple.com/us/developer/aleksandra-wienclawska/id1720529429?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/40/89/b140899f-80bb-34ef-2ea9-2393cc5e049f/AppIcon-0-0-1x_U007epad-0-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/40/89/b140899f-80bb-34ef-2ea9-2393cc5e049f/AppIcon-0-0-1x_U007epad-0-0-85-220.png/100x100bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
-      "minimumOsVersion": "16.6",
       "languageCodesISO2A": [
         "EN"
       ],
@@ -159,6 +161,8 @@
       "userRatingCountForCurrentVersion": 120,
       "trackContentRating": "4+",
       "averageUserRatingForCurrentVersion": 4.63333,
+      "bundleId": "com.jacekdojwa.abg",
+      "minimumOsVersion": "16.6",
       "artistId": 1720529429,
       "artistName": "Aleksandra Wienclawska",
       "genres": [
@@ -166,18 +170,18 @@
         "Entertainment"
       ],
       "price": 3.99,
+      "releaseDate": "2023-10-02T07:00:00Z",
       "trackId": 6467719500,
       "trackName": "Amen Break Generator (Revived)",
-      "releaseDate": "2023-10-02T07:00:00Z",
       "genreIds": [
         "6011",
         "6016"
       ],
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2025-02-10T11:16:14Z",
       "primaryGenreName": "Music",
       "primaryGenreId": 6011,
       "sellerName": "Aleksandra Wienclawska",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2025-02-10T11:16:14Z",
       "releaseNotes": "- AUv3 extension now supports recording in a host app\n- Fixed issue with opening extension in Apple Logic Pro",
       "version": "2.11.3",
       "wrapperType": "software",
@@ -187,7 +191,6 @@
       "trackCensoredName": "Amen Break Generator (Revived)",
       "trackViewUrl": "https://apps.apple.com/us/app/amen-break-generator-revived/id6467719500?uo=4",
       "contentAdvisoryRating": "4+",
-      "bundleId": "com.jacekdojwa.abg",
       "userRatingCount": 120,
       "country": "USA"
     },

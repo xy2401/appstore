@@ -227,8 +227,8 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/87/3e/c8/873ec890-969d-2943-40aa-8175de71f0c2/9135ea76-679d-42e7-8471-075b5cddb527_daysmatter_ipad_5_opaque.png/576x768bb.png"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/52/d1/8552d138-f67a-ff71-06ea-b151a28f257e/AppIconDefault-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/60x60bb.jpg",
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/52/d1/8552d138-f67a-ff71-06ea-b151a28f257e/AppIconDefault-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/52/d1/8552d138-f67a-ff71-06ea-b151a28f257e/AppIconDefault-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/52/d1/8552d138-f67a-ff71-06ea-b151a28f257e/AppIconDefault-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/100x100bb.jpg",
       "artistViewUrl": "https://apps.apple.com/cn/developer/idaily-corp/id364264742?uo=4",
       "supportedDevices": [
@@ -359,10 +359,20 @@
         "iPadAir11M4-iPadAir11M4",
         "iPadAir11M4Cellular-iPadAir11M4Cellular",
         "iPadAir13M4-iPadAir13M4",
-        "iPadAir13M4Cellular-iPadAir13M4Cellular"
+        "iPadAir13M4Cellular-iPadAir13M4Cellular",
+        "iPhone18Pro-iPhone18Pro",
+        "iPhone18ProMax-iPhone18ProMax",
+        "iPhoneDuo-iPhoneDuo"
       ],
       "minimumOsVersion": "12.0",
-      "price": 0,
+      "artistId": 364264742,
+      "artistName": "iDaily Corp.",
+      "genres": [
+        "效率",
+        "生活"
+      ],
+      "bundleId": "com.chii.idays",
+      "currentVersionReleaseDate": "2026-09-04T05:45:48Z",
       "releaseDate": "2010-12-14T03:44:51Z",
       "genreIds": [
         "6007",
@@ -372,15 +382,12 @@
       "primaryGenreId": 6007,
       "sellerName": "iDaily Corp.",
       "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-09-04T05:45:48Z",
+      "releaseNotes": "- 新功能：「时空徽章」上线，从现在开始收集和解锁多达34个隐藏徽章，让你的倒数日事件更有趣\n- 新功能：「透明相机」新增「贴纸」，即刻探索爱心、幸运星、四叶草，满足你的所有喜欢\n- 新改进：「透明相机」支持 iOS 26 以下系统\n- 新改进：「倒数日历」支持「事件图标」\n- 新素材：「倒数本封面」x 4",
       "version": "5.3",
       "wrapperType": "software",
       "currency": "CNY",
       "description": "-=App Store 中国免费排行榜 Top 1=-\n\n「倒数日 · Days Matter」是一个帮你记录生活中重要日子的小工具，例如:恋人生日还有多少天？还信用卡还有多少天？发工资还有多少天？宝宝出生已经多少天？距离世界末日还有多少天……\n\n=主要功能=\n· 万年支持：支持从公元元年 1 月 1 日到公元 9999 年 12 月 31 日的倒数/正数日期，你可以计算诸如美国独立多少日、与女朋友交往多少日、宝宝出生多少日……\n· iCity 云端同步：保护你的重要资料\n· 农历支持：支持从 1901 年至 2049 年的农历日期\n· 通知中心挂件、Apple Watch & iMessage App\n· 三种默认分类：纪念日、工作、生活，支持自定义更多分类\n· 历史上的今天与明天\n· 日期计算器\n· 自定义事件背景\n· 高级功能：密码保护，通过 Face ID / Touch ID 解锁\n\n欢迎反馈你的需求给我们 ^_^\n\nClover 四叶新媒体荣誉出品\n\n————\n\n关于程序内提供的「按月订阅」功能：\n\n您可以在程序内使用 iTunes 自动续订功能获取会员专属功能，我们提供「每月 CNY ¥3」套餐。\n\n确认购买后，将会从您的 iTunes 帐户中收取费用。您可以在每个周期结束至少 24 小时前取消下个周期的订阅，每个周期结束 24 小时内将会自动续订，已订阅的周期将无法取消。\n\n隐私保护政策：https://clover.ly/privacy\n用户使用协议：https://m.icity.ly/tos",
       "sellerUrl": "http://daysmatter.com",
-      "averageUserRatingForCurrentVersion": 4.83342,
-      "averageUserRating": 4.83342,
-      "trackCensoredName": "倒数日 · Days Matter",
       "languageCodesISO2A": [
         "EN",
         "JA",
@@ -389,21 +396,17 @@
       ],
       "fileSizeBytes": "352763904",
       "formattedPrice": "免费",
-      "contentAdvisoryRating": "4+",
-      "userRatingCountForCurrentVersion": 2703686,
-      "trackViewUrl": "https://apps.apple.com/cn/app/%E5%80%92%E6%95%B0%E6%97%A5-days-matter/id406170251?uo=4",
+      "userRatingCountForCurrentVersion": 2707547,
       "trackContentRating": "4+",
+      "averageUserRatingForCurrentVersion": 4.83328,
+      "averageUserRating": 4.83328,
+      "contentAdvisoryRating": "4+",
+      "trackCensoredName": "倒数日 · Days Matter",
+      "trackViewUrl": "https://apps.apple.com/cn/app/%E5%80%92%E6%95%B0%E6%97%A5-days-matter/id406170251?uo=4",
       "trackId": 406170251,
       "trackName": "倒数日 · Days Matter",
-      "bundleId": "com.chii.idays",
-      "releaseNotes": "- 新功能：「时空徽章」上线，从现在开始收集和解锁多达34个隐藏徽章，让你的倒数日事件更有趣\n- 新功能：「透明相机」新增「贴纸」，即刻探索爱心、幸运星、四叶草，满足你的所有喜欢\n- 新改进：「透明相机」支持 iOS 26 以下系统\n- 新改进：「倒数日历」支持「事件图标」\n- 新素材：「倒数本封面」x 4",
-      "artistId": 364264742,
-      "artistName": "iDaily Corp.",
-      "genres": [
-        "效率",
-        "生活"
-      ],
-      "userRatingCount": 2703686,
+      "price": 0,
+      "userRatingCount": 2707547,
       "country": "CHN"
     }
   ]

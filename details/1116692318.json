@@ -203,6 +203,10 @@
     },
     {
       "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -330,19 +334,12 @@
         "iPadAir11M4-iPadAir11M4",
         "iPadAir11M4Cellular-iPadAir11M4Cellular",
         "iPadAir13M4-iPadAir13M4",
-        "iPadAir13M4Cellular-iPadAir13M4Cellular"
+        "iPadAir13M4Cellular-iPadAir13M4Cellular",
+        "iPhone18Pro-iPhone18Pro",
+        "iPhone18ProMax-iPhone18ProMax",
+        "iPhoneDuo-iPhoneDuo"
       ],
       "kind": "software",
-      "features": [
-        "iosUniversal"
-      ],
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/4e/90/8b/4e908be8-a73e-938c-9b77-896433c40852/pr_source.jpg/406x228bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/fc/eb/af/fcebafd3-24bb-898e-e45b-0db3e20e4f44/mzl.rvuvtbij.jpg/406x228bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/cc/8c/14/cc8c1447-c757-40f8-6907-36c10d846e35/mzl.upvxjnux.jpg/406x228bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/fe/aa/41/feaa41f8-f6e2-6991-ae9d-4e5530aac2c4/mzl.msgqirrh.jpg/406x228bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/67/54/47/675447ed-e196-c44f-d8dd-07f9092a8425/mzl.svkrsrbo.jpg/406x228bb.jpg"
-      ],
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/ec/aa/3a/ecaa3a37-4c16-924c-5eed-9cc6b52d112d/pr_source.jpg/552x414bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/a0/ac/26/a0ac26b6-5a39-d115-9c2d-03aaf4196385/mzl.alrhmvgg.jpg/552x414bb.jpg",
@@ -352,11 +349,38 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/6e/d0/16/6ed01663-7aed-92b2-cc4c-0226436349a7/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/4e/90/8b/4e908be8-a73e-938c-9b77-896433c40852/pr_source.jpg/406x228bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/fc/eb/af/fcebafd3-24bb-898e-e45b-0db3e20e4f44/mzl.rvuvtbij.jpg/406x228bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/cc/8c/14/cc8c1447-c757-40f8-6907-36c10d846e35/mzl.upvxjnux.jpg/406x228bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/fe/aa/41/feaa41f8-f6e2-6991-ae9d-4e5530aac2c4/mzl.msgqirrh.jpg/406x228bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/67/54/47/675447ed-e196-c44f-d8dd-07f9092a8425/mzl.svkrsrbo.jpg/406x228bb.jpg"
+      ],
       "artistViewUrl": "https://apps.apple.com/de/developer/carlsen-verlag-gmbh/id406471826?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/6e/d0/16/6ed01663-7aed-92b2-cc4c-0226436349a7/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/6e/d0/16/6ed01663-7aed-92b2-cc4c-0226436349a7/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.jpg",
-      "advisories": [],
+      "bundleId": "de.carlsen.conni.uhrzeit",
       "minimumOsVersion": "11.0",
+      "price": 3.49,
+      "genres": [
+        "Bildung",
+        "Familie",
+        "Spiele",
+        "Quiz- und Denkspiele"
+      ],
+      "artistId": 406471826,
+      "artistName": "Carlsen Verlag GmbH",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseDate": "2016-08-20T23:22:47Z",
+      "releaseNotes": "Liebe Eltern, mit diesem Update wird die App für neue Displaygrößen optimiert und erhält kleinere Fehlerbehebungen. Viel Spaß beim Lernen der Uhrzeit mit Conni!",
+      "trackId": 1116692318,
+      "trackName": "Conni Uhrzeit",
+      "currentVersionReleaseDate": "2021-11-04T07:34:27Z",
+      "version": "2.2.5",
+      "wrapperType": "software",
+      "currency": "EUR",
+      "description": "In dieser App führt Conni Kinder spielerisch an das Uhrzeitlesen heran. In 3 Spielen mit je 3 Schwierigkeitsgraden können Kinder ein Verständnis für unterschiedliche Tages- und Uhrzeiten entwickeln und lernen außerdem, verschiedene Uhrzeiten an analogen und digitalen Uhren einzustellen. Sie bekommen dafür Taler als Belohnung, die sie in ihrer Schatzkiste gegen Bauteile für ihre persönliche Traumburg eintauschen können.\n \nDie App wurde in Zusammenarbeit mit Grundschulpädagogen und im Hinblick auf die Lehrpläne der 1. und 2. Klasse entwickelt. Neben den Spielen enthält sie detaillierte kindgerechte Erklärungen über den Aufbau von analogen und digitalen Uhren sowie die verschiedenen Uhrzeiten. Diese werden bis auf Viertelstundenbasis erklärt, da dies eine gute Einstiegsgröße für Erstlernende ist. \n\nHÖHEPUNKTE\n• Auswahl zwischen zwei Uhrzeitsystemen („viertel nach 3“ und „viertel 4“)\n• Einstellungsmöglichkeit der Spielzeit\n• Elternbereich mit begleitenden pädagogischen Informationen \n• Spielerisches, audiovisuelles Lernen (ohne Text)\n• Uhr-Ausprobier-Modus mit Tag-Nacht-Wechsel am Fenster\n• Vierstufiges Belohnungssystem zur langfristigen Motivation \n• Individuell gestaltbarer Baubereich zur Förderung der Kreativität\n• Werbefrei und ohne In-App-Käufe\n• Gesprochen von der Original-Conni-Sprecherin aus den Hörbüchern\n\nLERNBEREICHE\n• Verstehen der Funktionsweise von analogen und digitalen Uhren \n• Verstehen von Tageszeiten\n• Einstellen von Uhrzeiten auf Analog- und Digitaluhr\n\nREAKTIONEN\n„Kinderleicht zu navigieren, stellt sich schnell das Gefühl ein, man spiele und lerne mit der beliebten Serienfigur fürs Leben. Bis man es kann!“ // Stuttgarter Zeitung\n\n„Habe diese App zum Uhrzeit lernen entdeckt und meine Tochter liebt sie!“ // App-Nutzer \n\n„Wir sind begeistert und nach nur 3 Wochen können wir inzwischen auch schon die schwierige Stufe angehen. Eine klare Empfehlung - was etwas heißen mag. Ich empfehle nur selten eine Lern-App weiter :)“ // App-Nutzer\n\nSUPPORT\nSie haben Fragen, Rückmeldungen oder Anregungen? Dann schreiben Sie uns gerne eine E-Mail an apps@carlsen.de. Wir freuen uns auf Ihre Nachricht und werden uns schnellstmöglich bei Ihnen zurückmelden.\n\nWir wünschen Ihnen und Ihrem Kind viel Spaß beim Uhrzeitlernen und würden uns über eine Bewertung von Ihnen freuen!\n\nMEHR VON CONNI\nKennen Sie schon unsere neue App „Conni Englisch“? Sie ist ab im Apple Appstore erhältlich.",
+      "averageUserRatingForCurrentVersion": 3.45783,
       "sellerUrl": "https://www.carlsen.de/ios/conni-uhrzeit/978-3-646-04087-6",
       "languageCodesISO2A": [
         "EN"
@@ -365,40 +389,19 @@
       "formattedPrice": "3,49 €",
       "userRatingCountForCurrentVersion": 83,
       "trackContentRating": "4+",
-      "artistId": 406471826,
-      "artistName": "Carlsen Verlag GmbH",
-      "genres": [
-        "Bildung",
-        "Familie",
-        "Spiele",
-        "Quiz- und Denkspiele"
-      ],
-      "price": 3.49,
-      "bundleId": "de.carlsen.conni.uhrzeit",
-      "releaseDate": "2016-08-20T23:22:47Z",
-      "releaseNotes": "Liebe Eltern, mit diesem Update wird die App für neue Displaygrößen optimiert und erhält kleinere Fehlerbehebungen. Viel Spaß beim Lernen der Uhrzeit mit Conni!",
-      "currentVersionReleaseDate": "2021-11-04T07:34:27Z",
-      "trackId": 1116692318,
-      "trackName": "Conni Uhrzeit",
-      "sellerName": "Carlsen Verlag GmbH",
-      "primaryGenreName": "Education",
-      "primaryGenreId": 6017,
+      "averageUserRating": 3.45783,
+      "trackCensoredName": "Conni Uhrzeit",
+      "trackViewUrl": "https://apps.apple.com/de/app/conni-uhrzeit/id1116692318?uo=4",
+      "contentAdvisoryRating": "4+",
       "genreIds": [
         "6017",
         "7009",
         "6014",
         "7018"
       ],
-      "isVppDeviceBasedLicensingEnabled": true,
-      "version": "2.2.5",
-      "wrapperType": "software",
-      "currency": "EUR",
-      "description": "In dieser App führt Conni Kinder spielerisch an das Uhrzeitlesen heran. In 3 Spielen mit je 3 Schwierigkeitsgraden können Kinder ein Verständnis für unterschiedliche Tages- und Uhrzeiten entwickeln und lernen außerdem, verschiedene Uhrzeiten an analogen und digitalen Uhren einzustellen. Sie bekommen dafür Taler als Belohnung, die sie in ihrer Schatzkiste gegen Bauteile für ihre persönliche Traumburg eintauschen können.\n \nDie App wurde in Zusammenarbeit mit Grundschulpädagogen und im Hinblick auf die Lehrpläne der 1. und 2. Klasse entwickelt. Neben den Spielen enthält sie detaillierte kindgerechte Erklärungen über den Aufbau von analogen und digitalen Uhren sowie die verschiedenen Uhrzeiten. Diese werden bis auf Viertelstundenbasis erklärt, da dies eine gute Einstiegsgröße für Erstlernende ist. \n\nHÖHEPUNKTE\n• Auswahl zwischen zwei Uhrzeitsystemen („viertel nach 3“ und „viertel 4“)\n• Einstellungsmöglichkeit der Spielzeit\n• Elternbereich mit begleitenden pädagogischen Informationen \n• Spielerisches, audiovisuelles Lernen (ohne Text)\n• Uhr-Ausprobier-Modus mit Tag-Nacht-Wechsel am Fenster\n• Vierstufiges Belohnungssystem zur langfristigen Motivation \n• Individuell gestaltbarer Baubereich zur Förderung der Kreativität\n• Werbefrei und ohne In-App-Käufe\n• Gesprochen von der Original-Conni-Sprecherin aus den Hörbüchern\n\nLERNBEREICHE\n• Verstehen der Funktionsweise von analogen und digitalen Uhren \n• Verstehen von Tageszeiten\n• Einstellen von Uhrzeiten auf Analog- und Digitaluhr\n\nREAKTIONEN\n„Kinderleicht zu navigieren, stellt sich schnell das Gefühl ein, man spiele und lerne mit der beliebten Serienfigur fürs Leben. Bis man es kann!“ // Stuttgarter Zeitung\n\n„Habe diese App zum Uhrzeit lernen entdeckt und meine Tochter liebt sie!“ // App-Nutzer \n\n„Wir sind begeistert und nach nur 3 Wochen können wir inzwischen auch schon die schwierige Stufe angehen. Eine klare Empfehlung - was etwas heißen mag. Ich empfehle nur selten eine Lern-App weiter :)“ // App-Nutzer\n\nSUPPORT\nSie haben Fragen, Rückmeldungen oder Anregungen? Dann schreiben Sie uns gerne eine E-Mail an apps@carlsen.de. Wir freuen uns auf Ihre Nachricht und werden uns schnellstmöglich bei Ihnen zurückmelden.\n\nWir wünschen Ihnen und Ihrem Kind viel Spaß beim Uhrzeitlernen und würden uns über eine Bewertung von Ihnen freuen!\n\nMEHR VON CONNI\nKennen Sie schon unsere neue App „Conni Englisch“? Sie ist ab im Apple Appstore erhältlich.",
-      "averageUserRating": 3.45783,
-      "averageUserRatingForCurrentVersion": 3.45783,
-      "trackCensoredName": "Conni Uhrzeit",
-      "trackViewUrl": "https://apps.apple.com/de/app/conni-uhrzeit/id1116692318?uo=4",
-      "contentAdvisoryRating": "4+",
+      "sellerName": "Carlsen Verlag GmbH",
+      "primaryGenreName": "Education",
+      "primaryGenreId": 6017,
       "userRatingCount": 83,
       "country": "DEU"
     }

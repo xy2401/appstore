@@ -215,6 +215,7 @@
       "userRatingCount": 223
     },
     {
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/81/e0/4081e083-102c-6cbf-1cd0-7a7e4a1d0279/appicon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/46/38/02/46380209-7dcd-4293-1c61-40a1e8849e6b/afaa05c9-ca84-4cb8-8d2c-979829cf37c3_01.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2e/48/f5/2e48f5bd-d64b-caba-7414-2b50792ce313/3babd1f6-a42b-4098-930a-b0b68827e792_02.png/392x696bb.png",
@@ -239,12 +240,15 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/eb/b4/34/ebb4343e-daba-4a90-0302-c1b95b540bd0/02822292-3684-47d3-b792-a91545bab0ff_09.png/552x414bb.png"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/81/e0/4081e083-102c-6cbf-1cd0-7a7e4a1d0279/appicon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "isGameCenterEnabled": false,
-      "advisories": [],
       "features": [
         "iosUniversal"
       ],
+      "advisories": [],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/us/developer/octech-llc/id650684935?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/81/e0/4081e083-102c-6cbf-1cd0-7a7e4a1d0279/appicon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/81/e0/4081e083-102c-6cbf-1cd0-7a7e4a1d0279/appicon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -372,14 +376,14 @@
         "iPadAir11M4-iPadAir11M4",
         "iPadAir11M4Cellular-iPadAir11M4Cellular",
         "iPadAir13M4-iPadAir13M4",
-        "iPadAir13M4Cellular-iPadAir13M4Cellular"
+        "iPadAir13M4Cellular-iPadAir13M4Cellular",
+        "iPhone18Pro-iPhone18Pro",
+        "iPhone18ProMax-iPhone18ProMax",
+        "iPhoneDuo-iPhoneDuo"
       ],
-      "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/us/developer/octech-llc/id650684935?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/81/e0/4081e083-102c-6cbf-1cd0-7a7e4a1d0279/appicon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/81/e0/4081e083-102c-6cbf-1cd0-7a7e4a1d0279/appicon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
-      "averageUserRatingForCurrentVersion": 4.73276,
       "sellerUrl": "https://www.obdsoftware.net/software/obdfusion",
+      "averageUserRatingForCurrentVersion": 4.73306,
+      "minimumOsVersion": "15.0",
       "languageCodesISO2A": [
         "CS",
         "EN",
@@ -393,9 +397,8 @@
       ],
       "fileSizeBytes": "62057472",
       "formattedPrice": "$9.99",
-      "userRatingCountForCurrentVersion": 19383,
+      "userRatingCountForCurrentVersion": 19420,
       "trackContentRating": "17+",
-      "minimumOsVersion": "15.0",
       "artistId": 650684935,
       "artistName": "OCTech, LLC",
       "genres": [
@@ -408,30 +411,27 @@
       "trackName": "OBD Fusion",
       "primaryGenreName": "Travel",
       "primaryGenreId": 6003,
-      "sellerName": "OCTECH LLC",
-      "currentVersionReleaseDate": "2026-07-16T21:31:53Z",
+      "genreIds": [
+        "6003",
+        "6002"
+      ],
+      "releaseDate": "2013-06-02T02:31:24Z",
       "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-07-16T21:31:53Z",
+      "sellerName": "OCTECH LLC",
       "releaseNotes": "• Added enhanced diagnostics for 2026 Ford vehicles. Use the vehicle editor to check support for your vehicle.\n• Added some additional Manufacturer PIDs for GM vehicles.\n• Made improvements to the Trip Statistics page.\n• Multiple bug fixes and improvements.",
       "version": "7.4.0",
       "wrapperType": "software",
       "currency": "USD",
       "description": "OBD Fusion is an app for your car that allows you to read OBD2 vehicle data directly from your iPhone or iPad. You can clear your check engine light, create custom dashboards, read diagnostic trouble codes, estimate fuel economy, and much more!\n\nIs your check engine light on? Do you want to monitor fuel economy and usage in your vehicle? Do you want cool looking virtual dashboards on your iPhone or iPad? If so, then OBD Fusion is the app for you! OBD Fusion is used by professional mechanics, do-it-yourself mechanics, and vehicle owners who want to monitor their vehicle and daily driving habits. Drive smarter, improve your fuel economy, and keep your engine healthy!\n\nIMPORTANT NOTE: You must have a Wi-Fi ELM327 compatible adapter or compatible Bluetooth LE adapter such as Veepeak BLE/BLE+ 4.0 adapter, Carista BLE adapter, OBDLink MX+, OBDLink CX, Tonwon BLE adapter, LELink BLE adapter, Viecar BLE adapter, Lonauto adapter, Vgate iCar Bluetooth 4.0, BAST BLE adapter, Kiwi 3/4 to use this app. OBD Fusion is not compatible with generic ELM Bluetooth scan tools. Checkout additional adapters here: https://www.obdsoftware.net/software/obdfusion\n\nOBD Fusion supports all OBD2 and EOBD vehicles sold worldwide. If you're not sure whether your vehicle is OBD2 or EOBD compliant, see this page for more information: https://www.obdsoftware.net/knowledgebase/obd2compliant. OBD Fusion can also connect to some JOBD vehicles that don’t support standard OBD2 protocols.\n\nElectric vehicles (EVs) are not required to have OBD2 diagnostics since they are emissions exempt. If you are interested in using OBD Fusion on an EV, contact us first to inquire about support.\n\nOBD Fusion has a ton of features including:\n- Read and clear emissions-related trouble codes (fault codes) and your Check Engine Light (MIL) \n- View vital driving information on your CarPlay screen. Note that real-time gauges are not supported by CarPlay, so you can't view your OBD Fusion pages such as dashboards on CarPlay.\n- With optional enhanced diagnostic add-ons, you can read and clear enhanced trouble codes on other modules such as ABS, SRS, etc. and read transmission temperature. An enhanced diagnostic add-on is required for this functionality.\n- Real-time dashboard display with fully customizable gauges. Create your own dashboards with the gauges that you want to see.\n- Performance calculations for 1/4 mile and 0-60 mph track times\n- Fuel economy MPG (US and UK), l/100km or km/l calculation\n- Full diagnostic report that can be stored and shared\n- Real-time graphing of multiple signals\n- Real-time data logging and playback\n- Multiple trip meters \n- Log data to CSV file\n- Create custom enhanced PIDs\n- Includes some built-in enhanced PIDs for GM vehicles\n- Display Boost pressure in real-time\n- Display Engine Power and Torque\n- Display calculated Air-to-fuel ratio\n- Display battery voltage \n- Read freeze frame data \n- Fully customizable units including English, Imperial, and Metric units \n- Over 250 supported PIDs \n- Display vehicle information including VIN and calibration ID \n- Emissions readiness for each US state. Find out if your car will pass emissions inspection.\n- Oxygen Sensor Results (Mode 05) \n- On-board Monitoring Tests (Mode 06) \n- In-performance Tracking Counters (Mode 09) \n- GPS tracking - plot vehicle parameters on a map\n- Integrated iCloud and Dropbox functionality\n- Available in English, Spanish, French, Italian, German, Czech, Greek, Chinese, and Portuguese\n- Manufacturer specific Enhanced Diagnostics are available for certain vehicles through In-App purchases.\n\n** Continued use of GPS running in the background can dramatically decrease battery life.\n\nOBD Fusion is brought to you by OCTech, LLC, the makers of TouchScan and OBDwiz.\n\nOBD Fusion is a trademark of OCTech, LLC registered in the U.S.",
+      "averageUserRating": 4.73306,
       "trackCensoredName": "OBD Fusion",
       "trackViewUrl": "https://apps.apple.com/us/app/obd-fusion/id650684932?uo=4",
       "contentAdvisoryRating": "17+",
-      "averageUserRating": 4.73276,
-      "releaseDate": "2013-06-02T02:31:24Z",
-      "genreIds": [
-        "6003",
-        "6002"
-      ],
-      "userRatingCount": 19383,
+      "userRatingCount": 19420,
       "country": "USA"
     },
     {
-      "features": [
-        "iosUniversal"
-      ],
       "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
@@ -560,10 +560,19 @@
         "iPadAir11M4-iPadAir11M4",
         "iPadAir11M4Cellular-iPadAir11M4Cellular",
         "iPadAir13M4-iPadAir13M4",
-        "iPadAir13M4Cellular-iPadAir13M4Cellular"
+        "iPadAir13M4Cellular-iPadAir13M4Cellular",
+        "iPhone18Pro-iPhone18Pro",
+        "iPhone18ProMax-iPhone18ProMax",
+        "iPhoneDuo-iPhoneDuo"
       ],
       "advisories": [],
       "kind": "software",
+      "features": [
+        "iosUniversal"
+      ],
+      "artistViewUrl": "https://apps.apple.com/gb/developer/octech-llc/id650684935?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/81/e0/4081e083-102c-6cbf-1cd0-7a7e4a1d0279/appicon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/81/e0/4081e083-102c-6cbf-1cd0-7a7e4a1d0279/appicon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/46/38/02/46380209-7dcd-4293-1c61-40a1e8849e6b/afaa05c9-ca84-4cb8-8d2c-979829cf37c3_01.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2e/48/f5/2e48f5bd-d64b-caba-7414-2b50792ce313/3babd1f6-a42b-4098-930a-b0b68827e792_02.png/392x696bb.png",
@@ -589,15 +598,6 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/81/e0/4081e083-102c-6cbf-1cd0-7a7e4a1d0279/appicon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/gb/developer/octech-llc/id650684935?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/81/e0/4081e083-102c-6cbf-1cd0-7a7e4a1d0279/appicon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/81/e0/4081e083-102c-6cbf-1cd0-7a7e4a1d0279/appicon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
-      "bundleId": "net.obdsoftware.obdfusion",
-      "minimumOsVersion": "15.0",
-      "genreIds": [
-        "6003",
-        "6002"
-      ],
       "artistId": 650684935,
       "artistName": "OCTech, LLC",
       "genres": [
@@ -605,20 +605,27 @@
         "Utilities"
       ],
       "price": 9.99,
-      "releaseDate": "2013-06-02T02:31:24Z",
       "trackId": 650684932,
       "trackName": "OBD Fusion",
+      "bundleId": "net.obdsoftware.obdfusion",
+      "releaseNotes": "• Added enhanced diagnostics for 2026 Ford vehicles. Use the vehicle editor to check support for your vehicle.\n• Added some additional Manufacturer PIDs for GM vehicles.\n• Made improvements to the Trip Statistics page.\n• Multiple bug fixes and improvements.",
+      "genreIds": [
+        "6003",
+        "6002"
+      ],
+      "releaseDate": "2013-06-02T02:31:24Z",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "OCTECH LLC",
       "primaryGenreName": "Travel",
       "primaryGenreId": 6003,
-      "sellerName": "OCTECH LLC",
-      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-07-16T21:31:53Z",
       "version": "7.4.0",
       "wrapperType": "software",
       "currency": "GBP",
       "description": "OBD Fusion is an app for your car that allows you to read OBD2 vehicle data directly from your iPhone or iPad. You can clear your check engine light, create custom dashboards, read diagnostic trouble codes, estimate fuel economy, and much more!\n\nIs your check engine light on? Do you want to monitor fuel economy and usage in your vehicle? Do you want cool looking virtual dashboards on your iPhone or iPad? If so, then OBD Fusion is the app for you! OBD Fusion is used by professional mechanics, do-it-yourself mechanics, and vehicle owners who want to monitor their vehicle and daily driving habits. Drive smarter, improve your fuel economy, and keep your engine healthy!\n\nIMPORTANT NOTE: You must have a Wi-Fi ELM327 compatible adapter or compatible Bluetooth LE adapter such as Veepeak BLE/BLE+ 4.0 adapter, Carista BLE adapter, OBDLink MX+, OBDLink CX, Tonwon BLE adapter, LELink BLE adapter, Viecar BLE adapter, Lonauto adapter, Vgate iCar Bluetooth 4.0, BAST BLE adapter, Kiwi 3/4 to use this app. OBD Fusion is not compatible with generic ELM Bluetooth scan tools. Checkout additional adapters here: https://www.obdsoftware.net/software/obdfusion\n\nOBD Fusion supports all OBD2 and EOBD vehicles sold worldwide. If you're not sure whether your vehicle is OBD2 or EOBD compliant, see this page for more information: https://www.obdsoftware.net/knowledgebase/obd2compliant. OBD Fusion can also connect to some JOBD vehicles that don’t support standard OBD2 protocols.\n\nElectric vehicles (EVs) are not required to have OBD2 diagnostics since they are emissions exempt. If you are interested in using OBD Fusion on an EV, contact us first to inquire about support.\n\nOBD Fusion has a ton of features including:\n- Read and clear emissions-related trouble codes (fault codes) and your Check Engine Light (MIL) \n- View vital driving information on your CarPlay screen. Note that real-time gauges are not supported by CarPlay, so you can't view your OBD Fusion pages such as dashboards on CarPlay.\n- With optional enhanced diagnostic add-ons, you can read and clear enhanced trouble codes on other modules such as ABS, SRS, etc. and read transmission temperature. An enhanced diagnostic add-on is required for this functionality.\n- Real-time dashboard display with fully customizable gauges. Create your own dashboards with the gauges that you want to see.\n- Performance calculations for 1/4 mile and 0-60 mph track times\n- Fuel economy MPG (US and UK), l/100km or km/l calculation\n- Full diagnostic report that can be stored and shared\n- Real-time graphing of multiple signals\n- Real-time data logging and playback\n- Multiple trip meters \n- Log data to CSV file\n- Create custom enhanced PIDs\n- Includes some built-in enhanced PIDs for GM vehicles\n- Display Boost pressure in real-time\n- Display Engine Power and Torque\n- Display calculated Air-to-fuel ratio\n- Display battery voltage \n- Read freeze frame data \n- Fully customizable units including English, Imperial, and Metric units \n- Over 250 supported PIDs \n- Display vehicle information including VIN and calibration ID \n- Emissions readiness for each US state. Find out if your car will pass emissions inspection.\n- Oxygen Sensor Results (Mode 05) \n- On-board Monitoring Tests (Mode 06) \n- In-performance Tracking Counters (Mode 09) \n- GPS tracking - plot vehicle parameters on a map\n- Integrated iCloud and Dropbox functionality\n- Available in English, Spanish, French, Italian, German, Czech, Greek, Chinese, and Portuguese\n- Manufacturer specific Enhanced Diagnostics are available for certain vehicles through In-App purchases.\n\n** Continued use of GPS running in the background can dramatically decrease battery life.\n\nOBD Fusion is brought to you by OCTech, LLC, the makers of TouchScan and OBDwiz.\n\nOBD Fusion is a trademark of OCTech, LLC registered in the U.S.",
-      "sellerUrl": "https://www.obdsoftware.net/software/obdfusion",
-      "averageUserRatingForCurrentVersion": 4.64605,
+      "trackCensoredName": "OBD Fusion",
+      "trackViewUrl": "https://apps.apple.com/gb/app/obd-fusion/id650684932?uo=4",
+      "contentAdvisoryRating": "17+",
       "languageCodesISO2A": [
         "CS",
         "EN",
@@ -632,18 +639,21 @@
       ],
       "fileSizeBytes": "62057472",
       "formattedPrice": "£9.99",
-      "userRatingCountForCurrentVersion": 873,
+      "userRatingCountForCurrentVersion": 875,
       "trackContentRating": "17+",
-      "trackCensoredName": "OBD Fusion",
-      "trackViewUrl": "https://apps.apple.com/gb/app/obd-fusion/id650684932?uo=4",
-      "contentAdvisoryRating": "17+",
-      "averageUserRating": 4.64605,
-      "releaseNotes": "• Added enhanced diagnostics for 2026 Ford vehicles. Use the vehicle editor to check support for your vehicle.\n• Added some additional Manufacturer PIDs for GM vehicles.\n• Made improvements to the Trip Statistics page.\n• Multiple bug fixes and improvements.",
-      "userRatingCount": 873,
+      "averageUserRating": 4.64686,
+      "minimumOsVersion": "15.0",
+      "averageUserRatingForCurrentVersion": 4.64686,
+      "sellerUrl": "https://www.obdsoftware.net/software/obdfusion",
+      "userRatingCount": 875,
       "country": "GBR"
     },
     {
       "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -771,24 +781,12 @@
         "iPadAir11M4-iPadAir11M4",
         "iPadAir11M4Cellular-iPadAir11M4Cellular",
         "iPadAir13M4-iPadAir13M4",
-        "iPadAir13M4Cellular-iPadAir13M4Cellular"
+        "iPadAir13M4Cellular-iPadAir13M4Cellular",
+        "iPhone18Pro-iPhone18Pro",
+        "iPhone18ProMax-iPhone18ProMax",
+        "iPhoneDuo-iPhoneDuo"
       ],
       "kind": "software",
-      "features": [
-        "iosUniversal"
-      ],
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/46/38/02/46380209-7dcd-4293-1c61-40a1e8849e6b/afaa05c9-ca84-4cb8-8d2c-979829cf37c3_01.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2e/48/f5/2e48f5bd-d64b-caba-7414-2b50792ce313/3babd1f6-a42b-4098-930a-b0b68827e792_02.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/eb/79/a9/eb79a980-0d10-df20-ba1e-0ddd2c218dde/3b160a08-ef44-42dc-adf1-07bc4c64cdb5_03.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1e/be/e6/1ebee68e-a97e-700b-1d3e-560fb73da892/33159532-0444-4231-8b00-658c509091dd_04.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7d/51/8a/7d518a66-b57d-21bc-72fc-7602aec9faab/676c6c9a-0af9-43a2-b991-39415f9ca946_05.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5a/50/9e/5a509ed0-226f-e8b6-f40e-d24dd6fe80cb/b08254f9-d23d-4ef6-be42-ae84be4de924_06.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a1/c1/71/a1c17152-33b3-5cbb-f1b4-040fe63fb251/ef7a0955-4af9-4529-ac09-58f5cc4ec069_07.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/60/e1/dd/60e1dda1-482e-cfab-d946-9bb8ef7b37ca/ba527b4f-5916-4485-bf8b-d23fdab36cc5_08.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4e/97/2b/4e972b46-0cb5-3b4d-581b-0ab057bc9552/ad295b8b-d720-436a-9f49-1b11e3c9dff0_09.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/47/64/1e/47641e79-3ee5-97ff-6560-d5ead4382e21/1d4416c0-c311-4be8-8c2c-398359c95555_10.png/392x696bb.png"
-      ],
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/83/37/2b/83372b83-6d51-9dda-1208-3c9ea5b27089/0ea3730b-c8d5-4116-8ffe-170303e33569_01.png/552x414bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fd/e7/ef/fde7ef2d-5df5-93cf-c434-9ca47aeb34f6/ae563212-b7f7-4734-a2af-309846ea6142_02.png/552x414bb.png",
@@ -802,11 +800,41 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/81/e0/4081e083-102c-6cbf-1cd0-7a7e4a1d0279/appicon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/46/38/02/46380209-7dcd-4293-1c61-40a1e8849e6b/afaa05c9-ca84-4cb8-8d2c-979829cf37c3_01.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2e/48/f5/2e48f5bd-d64b-caba-7414-2b50792ce313/3babd1f6-a42b-4098-930a-b0b68827e792_02.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/eb/79/a9/eb79a980-0d10-df20-ba1e-0ddd2c218dde/3b160a08-ef44-42dc-adf1-07bc4c64cdb5_03.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1e/be/e6/1ebee68e-a97e-700b-1d3e-560fb73da892/33159532-0444-4231-8b00-658c509091dd_04.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7d/51/8a/7d518a66-b57d-21bc-72fc-7602aec9faab/676c6c9a-0af9-43a2-b991-39415f9ca946_05.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5a/50/9e/5a509ed0-226f-e8b6-f40e-d24dd6fe80cb/b08254f9-d23d-4ef6-be42-ae84be4de924_06.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a1/c1/71/a1c17152-33b3-5cbb-f1b4-040fe63fb251/ef7a0955-4af9-4529-ac09-58f5cc4ec069_07.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/60/e1/dd/60e1dda1-482e-cfab-d946-9bb8ef7b37ca/ba527b4f-5916-4485-bf8b-d23fdab36cc5_08.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4e/97/2b/4e972b46-0cb5-3b4d-581b-0ab057bc9552/ad295b8b-d720-436a-9f49-1b11e3c9dff0_09.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/47/64/1e/47641e79-3ee5-97ff-6560-d5ead4382e21/1d4416c0-c311-4be8-8c2c-398359c95555_10.png/392x696bb.png"
+      ],
       "artistViewUrl": "https://apps.apple.com/de/developer/octech-llc/id650684935?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/81/e0/4081e083-102c-6cbf-1cd0-7a7e4a1d0279/appicon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/81/e0/4081e083-102c-6cbf-1cd0-7a7e4a1d0279/appicon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
-      "advisories": [],
+      "bundleId": "net.obdsoftware.obdfusion",
       "minimumOsVersion": "15.0",
+      "price": 9.99,
+      "genres": [
+        "Reisen",
+        "Dienst­programme"
+      ],
+      "artistId": 650684935,
+      "artistName": "OCTech, LLC",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseDate": "2013-06-02T02:31:24Z",
+      "releaseNotes": "• Added enhanced diagnostics for 2026 Ford vehicles. Use the vehicle editor to check support for your vehicle.\n• Added some additional Manufacturer PIDs for GM vehicles.\n• Made improvements to the Trip Statistics page.\n• Multiple bug fixes and improvements.",
+      "trackId": 650684932,
+      "trackName": "OBD Fusion",
+      "currentVersionReleaseDate": "2026-07-16T21:31:53Z",
+      "version": "7.4.0",
+      "wrapperType": "software",
+      "currency": "EUR",
+      "description": "OBD Fusion is an app for your car that allows you to read OBD2 vehicle data directly from your iPhone or iPad. You can clear your check engine light, create custom dashboards, read diagnostic trouble codes, estimate fuel economy, and much more!\n\nIs your check engine light on? Do you want to monitor fuel economy and usage in your vehicle? Do you want cool looking virtual dashboards on your iPhone or iPad? If so, then OBD Fusion is the app for you! OBD Fusion is used by professional mechanics, do-it-yourself mechanics, and vehicle owners who want to monitor their vehicle and daily driving habits. Drive smarter, improve your fuel economy, and keep your engine healthy!\n\nIMPORTANT NOTE: You must have a Wi-Fi ELM327 compatible adapter or compatible Bluetooth LE adapter such as Veepeak BLE/BLE+ 4.0 adapter, Carista BLE adapter, OBDLink MX+, OBDLink CX, Tonwon BLE adapter, LELink BLE adapter, Viecar BLE adapter, Lonauto adapter, Vgate iCar Bluetooth 4.0, BAST BLE adapter, Kiwi 3/4 to use this app. OBD Fusion is not compatible with generic ELM Bluetooth scan tools. Checkout additional adapters here: https://www.obdsoftware.net/software/obdfusion\n\nOBD Fusion supports all OBD2 and EOBD vehicles sold worldwide. If you're not sure whether your vehicle is OBD2 or EOBD compliant, see this page for more information: https://www.obdsoftware.net/knowledgebase/obd2compliant. OBD Fusion can also connect to some JOBD vehicles that don’t support standard OBD2 protocols.\n\nElectric vehicles (EVs) are not required to have OBD2 diagnostics since they are emissions exempt. If you are interested in using OBD Fusion on an EV, contact us first to inquire about support.\n\nOBD Fusion has a ton of features including:\n- Read and clear emissions-related trouble codes (fault codes) and your Check Engine Light (MIL) \n- View vital driving information on your CarPlay screen. Note that real-time gauges are not supported by CarPlay, so you can't view your OBD Fusion pages such as dashboards on CarPlay.\n- With optional enhanced diagnostic add-ons, you can read and clear enhanced trouble codes on other modules such as ABS, SRS, etc. and read transmission temperature. An enhanced diagnostic add-on is required for this functionality.\n- Real-time dashboard display with fully customizable gauges. Create your own dashboards with the gauges that you want to see.\n- Performance calculations for 1/4 mile and 0-60 mph track times\n- Fuel economy MPG (US and UK), l/100km or km/l calculation\n- Full diagnostic report that can be stored and shared\n- Real-time graphing of multiple signals\n- Real-time data logging and playback\n- Multiple trip meters \n- Log data to CSV file\n- Create custom enhanced PIDs\n- Includes some built-in enhanced PIDs for GM vehicles\n- Display Boost pressure in real-time\n- Display Engine Power and Torque\n- Display calculated Air-to-fuel ratio\n- Display battery voltage \n- Read freeze frame data \n- Fully customizable units including English, Imperial, and Metric units \n- Over 250 supported PIDs \n- Display vehicle information including VIN and calibration ID \n- Emissions readiness for each US state. Find out if your car will pass emissions inspection.\n- Oxygen Sensor Results (Mode 05) \n- On-board Monitoring Tests (Mode 06) \n- In-performance Tracking Counters (Mode 09) \n- GPS tracking - plot vehicle parameters on a map\n- Integrated iCloud and Dropbox functionality\n- Available in English, Spanish, French, Italian, German, Czech, Greek, Chinese, and Portuguese\n- Manufacturer specific Enhanced Diagnostics are available for certain vehicles through In-App purchases.\n\n** Continued use of GPS running in the background can dramatically decrease battery life.\n\nOBD Fusion is brought to you by OCTech, LLC, the makers of TouchScan and OBDwiz.\n\nOBD Fusion is a trademark of OCTech, LLC registered in the U.S.",
+      "averageUserRatingForCurrentVersion": 4.61233,
       "sellerUrl": "https://www.obdsoftware.net/software/obdfusion",
       "languageCodesISO2A": [
         "CS",
@@ -821,39 +849,20 @@
       ],
       "fileSizeBytes": "62057472",
       "formattedPrice": "9,99 €",
-      "userRatingCountForCurrentVersion": 226,
+      "userRatingCountForCurrentVersion": 227,
       "trackContentRating": "17+",
-      "artistId": 650684935,
-      "artistName": "OCTech, LLC",
-      "genres": [
-        "Reisen",
-        "Dienst­programme"
-      ],
-      "price": 9.99,
-      "bundleId": "net.obdsoftware.obdfusion",
-      "releaseDate": "2013-06-02T02:31:24Z",
-      "releaseNotes": "• Added enhanced diagnostics for 2026 Ford vehicles. Use the vehicle editor to check support for your vehicle.\n• Added some additional Manufacturer PIDs for GM vehicles.\n• Made improvements to the Trip Statistics page.\n• Multiple bug fixes and improvements.",
-      "currentVersionReleaseDate": "2026-07-16T21:31:53Z",
-      "trackId": 650684932,
-      "trackName": "OBD Fusion",
-      "sellerName": "OCTECH LLC",
-      "primaryGenreName": "Travel",
-      "primaryGenreId": 6003,
+      "averageUserRating": 4.61233,
+      "trackCensoredName": "OBD Fusion",
+      "trackViewUrl": "https://apps.apple.com/de/app/obd-fusion/id650684932?uo=4",
+      "contentAdvisoryRating": "17+",
       "genreIds": [
         "6003",
         "6002"
       ],
-      "isVppDeviceBasedLicensingEnabled": true,
-      "version": "7.4.0",
-      "wrapperType": "software",
-      "currency": "EUR",
-      "description": "OBD Fusion is an app for your car that allows you to read OBD2 vehicle data directly from your iPhone or iPad. You can clear your check engine light, create custom dashboards, read diagnostic trouble codes, estimate fuel economy, and much more!\n\nIs your check engine light on? Do you want to monitor fuel economy and usage in your vehicle? Do you want cool looking virtual dashboards on your iPhone or iPad? If so, then OBD Fusion is the app for you! OBD Fusion is used by professional mechanics, do-it-yourself mechanics, and vehicle owners who want to monitor their vehicle and daily driving habits. Drive smarter, improve your fuel economy, and keep your engine healthy!\n\nIMPORTANT NOTE: You must have a Wi-Fi ELM327 compatible adapter or compatible Bluetooth LE adapter such as Veepeak BLE/BLE+ 4.0 adapter, Carista BLE adapter, OBDLink MX+, OBDLink CX, Tonwon BLE adapter, LELink BLE adapter, Viecar BLE adapter, Lonauto adapter, Vgate iCar Bluetooth 4.0, BAST BLE adapter, Kiwi 3/4 to use this app. OBD Fusion is not compatible with generic ELM Bluetooth scan tools. Checkout additional adapters here: https://www.obdsoftware.net/software/obdfusion\n\nOBD Fusion supports all OBD2 and EOBD vehicles sold worldwide. If you're not sure whether your vehicle is OBD2 or EOBD compliant, see this page for more information: https://www.obdsoftware.net/knowledgebase/obd2compliant. OBD Fusion can also connect to some JOBD vehicles that don’t support standard OBD2 protocols.\n\nElectric vehicles (EVs) are not required to have OBD2 diagnostics since they are emissions exempt. If you are interested in using OBD Fusion on an EV, contact us first to inquire about support.\n\nOBD Fusion has a ton of features including:\n- Read and clear emissions-related trouble codes (fault codes) and your Check Engine Light (MIL) \n- View vital driving information on your CarPlay screen. Note that real-time gauges are not supported by CarPlay, so you can't view your OBD Fusion pages such as dashboards on CarPlay.\n- With optional enhanced diagnostic add-ons, you can read and clear enhanced trouble codes on other modules such as ABS, SRS, etc. and read transmission temperature. An enhanced diagnostic add-on is required for this functionality.\n- Real-time dashboard display with fully customizable gauges. Create your own dashboards with the gauges that you want to see.\n- Performance calculations for 1/4 mile and 0-60 mph track times\n- Fuel economy MPG (US and UK), l/100km or km/l calculation\n- Full diagnostic report that can be stored and shared\n- Real-time graphing of multiple signals\n- Real-time data logging and playback\n- Multiple trip meters \n- Log data to CSV file\n- Create custom enhanced PIDs\n- Includes some built-in enhanced PIDs for GM vehicles\n- Display Boost pressure in real-time\n- Display Engine Power and Torque\n- Display calculated Air-to-fuel ratio\n- Display battery voltage \n- Read freeze frame data \n- Fully customizable units including English, Imperial, and Metric units \n- Over 250 supported PIDs \n- Display vehicle information including VIN and calibration ID \n- Emissions readiness for each US state. Find out if your car will pass emissions inspection.\n- Oxygen Sensor Results (Mode 05) \n- On-board Monitoring Tests (Mode 06) \n- In-performance Tracking Counters (Mode 09) \n- GPS tracking - plot vehicle parameters on a map\n- Integrated iCloud and Dropbox functionality\n- Available in English, Spanish, French, Italian, German, Czech, Greek, Chinese, and Portuguese\n- Manufacturer specific Enhanced Diagnostics are available for certain vehicles through In-App purchases.\n\n** Continued use of GPS running in the background can dramatically decrease battery life.\n\nOBD Fusion is brought to you by OCTech, LLC, the makers of TouchScan and OBDwiz.\n\nOBD Fusion is a trademark of OCTech, LLC registered in the U.S.",
-      "averageUserRating": 4.61503,
-      "averageUserRatingForCurrentVersion": 4.61503,
-      "trackCensoredName": "OBD Fusion",
-      "trackViewUrl": "https://apps.apple.com/de/app/obd-fusion/id650684932?uo=4",
-      "contentAdvisoryRating": "17+",
-      "userRatingCount": 226,
+      "sellerName": "OCTECH LLC",
+      "primaryGenreName": "Travel",
+      "primaryGenreId": 6003,
+      "userRatingCount": 227,
       "country": "DEU"
     },
     {

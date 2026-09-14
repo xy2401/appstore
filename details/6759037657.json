@@ -186,9 +186,7 @@
       "userRatingCount": 1357
     },
     {
-      "artistViewUrl": "https://apps.apple.com/de/developer/bundesagentur-f%C3%BCr-arbeit/id573486057?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/21/e9/1121e9d1-3d31-8bd2-ae02-0e0b0d7960a2/AppIcon-Prod-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/21/e9/1121e9d1-3d31-8bd2-ae02-0e0b0d7960a2/AppIcon-Prod-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/74/d6/79/74d6794c-2a99-5037-c3a6-c14ec684dc45/1-Iphone_1320x2868.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/89/19/46/89194644-69c4-cabd-99dd-ca549b5b624d/2-Iphone_1320x2868.png/320x480bb.jpg",
@@ -205,10 +203,6 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/21/e9/1121e9d1-3d31-8bd2-ae02-0e0b0d7960a2/AppIcon-Prod-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -336,52 +330,61 @@
         "iPadAir11M4-iPadAir11M4",
         "iPadAir11M4Cellular-iPadAir11M4Cellular",
         "iPadAir13M4-iPadAir13M4",
-        "iPadAir13M4Cellular-iPadAir13M4Cellular"
+        "iPadAir13M4Cellular-iPadAir13M4Cellular",
+        "iPhone18Pro-iPhone18Pro",
+        "iPhone18ProMax-iPhone18ProMax",
+        "iPhoneDuo-iPhoneDuo"
       ],
       "advisories": [],
       "kind": "software",
-      "averageUserRating": 2.49555,
-      "trackCensoredName": "BA-Secure",
-      "trackViewUrl": "https://apps.apple.com/de/app/ba-secure/id6759037657?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRatingForCurrentVersion": 2.49555,
-      "sellerUrl": "https://www.arbeitsagentur.de/ba-secure-app",
+      "features": [
+        "iosUniversal"
+      ],
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/21/e9/1121e9d1-3d31-8bd2-ae02-0e0b0d7960a2/AppIcon-Prod-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/21/e9/1121e9d1-3d31-8bd2-ae02-0e0b0d7960a2/AppIcon-Prod-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/de/developer/bundesagentur-f%C3%BCr-arbeit/id573486057?uo=4",
+      "releaseNotes": "- Anzeige der App auf Englisch und Spanisch\n- Weitere Verbesserungen und Fehlerbehebungen",
       "languageCodesISO2A": [
         "EN",
         "DE",
         "ES"
       ],
-      "fileSizeBytes": "74030080",
-      "formattedPrice": "Gratis",
-      "userRatingCountForCurrentVersion": 2365,
-      "trackContentRating": "4+",
-      "releaseNotes": "- Anzeige der App auf Englisch und Spanisch\n- Weitere Verbesserungen und Fehlerbehebungen",
-      "genres": [
-        "Dienst­programme",
-        "Produktivität"
-      ],
-      "artistName": "Bundesagentur für Arbeit",
+      "sellerUrl": "https://www.arbeitsagentur.de/ba-secure-app",
+      "userRatingCountForCurrentVersion": 2498,
       "artistId": 573486057,
+      "artistName": "Bundesagentur für Arbeit",
+      "price": 0,
       "bundleId": "de.arbeitsagentur.authenticator",
-      "releaseDate": "2026-04-13T07:00:00Z",
-      "trackId": 6759037657,
-      "trackName": "BA-Secure",
+      "sellerName": "Bundesagentur fuer Arbeit",
       "genreIds": [
         "6002",
         "6007"
       ],
       "primaryGenreName": "Utilities",
       "primaryGenreId": 6002,
-      "sellerName": "Bundesagentur fuer Arbeit",
+      "fileSizeBytes": "74030080",
+      "formattedPrice": "Gratis",
+      "trackContentRating": "4+",
+      "releaseDate": "2026-04-13T07:00:00Z",
+      "trackName": "BA-Secure",
+      "trackId": 6759037657,
       "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-09-02T08:05:54Z",
       "version": "1.0.4",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Mit BA-Secure melden Sie sich sicher bei Ihren Konten der Bundesagentur für Arbeit an.\n\nBei Anmeldeversuchen erhalten Sie – wenn aktiviert – eine Push-Nachricht.\n\nBestätigen Sie Ihre Anmeldung einfach in der App.\n\nSo funktioniert’s:\nANMELDUNG IM PORTAL\nMelden Sie sich mit Ihrem Benutzernamen und Passwort im Portal der Bundesagentur für Arbeit an.\n\nANMELDUNG IN DER APP BESTÄTIGEN\nBestätigen Sie die Anmeldung direkt in der App.\nDanach sind Sie angemeldet und können die BA-Services nutzen.\n\nBENACHRICHTIGUNGEN\nAktivieren Sie Push-Nachrichten, dann werden Sie bei Anmeldeversuchen sofort benachrichtigt.\n\nCODE ZUM ENTSPERREN DES GERÄTS\nDamit Sie Anmeldungen bestätigen können, muss ein Code zum entsperren Ihres Geräts eingerichtet sein. Mit TouchID oder FaceID können Sie die App komfortabler bedienen.\n\nKONTOVERKNÜPFUNG\nAktuell kann nur ein Konto mit der App verknüpft werden.\n\nHINWEISE\nWir entwickeln die App laufend weiter und freuen uns über Ihr Feedback.\nBei Fragen hilft Ihnen unsere Nutzungshilfe (https://www.arbeitsagentur.de/ba-secure-app) oder Support-Hotline.\n\nErklärung zur Barrierefreiheit: https://www.arbeitsagentur.de/erklaerung-barrierefreiheit",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 2.4944,
+      "averageUserRatingForCurrentVersion": 2.4944,
+      "trackCensoredName": "BA-Secure",
+      "trackViewUrl": "https://apps.apple.com/de/app/ba-secure/id6759037657?uo=4",
       "minimumOsVersion": "15.0",
-      "price": 0,
-      "userRatingCount": 2365,
+      "genres": [
+        "Dienst­programme",
+        "Produktivität"
+      ],
+      "userRatingCount": 2498,
       "country": "DEU"
     }
   ]

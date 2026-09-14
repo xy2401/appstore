@@ -230,6 +230,7 @@
       "userRatingCount": 4554
     },
     {
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/0e/6d/e6/0e6de6eb-4e0b-55dc-13c1-109f97af6225/4a48a59e-9126-4ea6-9ef0-a8375a2d0482_iOS_5.5_-_hero_image_01.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/f5/60/0f/f5600f2a-aac0-bb99-6edb-d749644bc6fd/ca5a439e-c579-4d94-8ac3-03b7e06e54ac_iOS_5.5_-_hero_image_02.png/392x696bb.png",
@@ -247,11 +248,6 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/26/f3/1926f343-4a61-0820-7499-db12c3366168/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/us/developer/microsoft-corporation/id298856275?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/26/f3/1926f343-4a61-0820-7499-db12c3366168/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/26/f3/1926f343-4a61-0820-7499-db12c3366168/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.jpg",
-      "isGameCenterEnabled": false,
-      "advisories": [],
       "features": [
         "iosUniversal"
       ],
@@ -382,10 +378,23 @@
         "iPadAir11M4-iPadAir11M4",
         "iPadAir11M4Cellular-iPadAir11M4Cellular",
         "iPadAir13M4-iPadAir13M4",
-        "iPadAir13M4Cellular-iPadAir13M4Cellular"
+        "iPadAir13M4Cellular-iPadAir13M4Cellular",
+        "iPhone18Pro-iPhone18Pro",
+        "iPhone18ProMax-iPhone18ProMax",
+        "iPhoneDuo-iPhoneDuo"
       ],
+      "advisories": [],
       "kind": "software",
-      "averageUserRatingForCurrentVersion": 4.61984,
+      "artistViewUrl": "https://apps.apple.com/us/developer/microsoft-corporation/id298856275?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/26/f3/1926f343-4a61-0820-7499-db12c3366168/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/26/f3/1926f343-4a61-0820-7499-db12c3366168/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.jpg",
+      "genreIds": [
+        "6007",
+        "6000"
+      ],
+      "currentVersionReleaseDate": "2026-08-17T04:06:42Z",
+      "releaseNotes": "• General quality and performance enhancements.",
+      "averageUserRatingForCurrentVersion": 4.62085,
       "languageCodesISO2A": [
         "AR",
         "CA",
@@ -423,39 +432,33 @@
       ],
       "fileSizeBytes": "168394752",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 4819,
+      "userRatingCountForCurrentVersion": 4853,
       "trackContentRating": "4+",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.61984,
-      "trackCensoredName": "Microsoft Loop",
-      "trackViewUrl": "https://apps.apple.com/us/app/microsoft-loop/id1637682491?uo=4",
-      "minimumOsVersion": "18.0",
-      "price": 0,
       "artistId": 298856275,
       "artistName": "Microsoft Corporation",
-      "bundleId": "com.microsoft.loop",
-      "currentVersionReleaseDate": "2026-08-17T04:06:42Z",
-      "releaseDate": "2023-10-24T07:00:00Z",
-      "trackName": "Microsoft Loop",
-      "trackId": 1637682491,
-      "genreIds": [
-        "6007",
-        "6000"
-      ],
-      "primaryGenreName": "Productivity",
-      "primaryGenreId": 6007,
-      "sellerName": "Microsoft Corporation",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseNotes": "• General quality and performance enhancements.",
-      "version": "2.113",
-      "wrapperType": "software",
-      "currency": "USD",
-      "description": "Think, plan and create together with Loop on the go.\n\nMicrosoft Loop is a transformative co-creation experience that brings together teams, content and tasks across your tools and devices. Designed for the way you work, Loop can help you think, plan, and create together.\n• Capture ideas, create task lists, and insert photos to your Loop pages to express your thoughts.\n• Bring all your project content into a Loop workspace to help your team focus on what matters.\n• Comment and react in the app to quickly collaborate on the go.\n• Get only the notifications you care about and jump right back into what needs the most attention.\n• Edit and share Loop components across Microsoft 365 to help your team be on the same page in one place.\n\nTo get started, download Loop, and sign in with your Microsoft Account or the account assigned to you by your work or school.\n\nThis app is provided by either Microsoft or a third-party app publisher and is subject to a separate privacy statement and terms and conditions. Data provided through the use of this store and this app may be accessible to Microsoft or the third-party app publisher, as applicable, and transferred to, stored and processed in the United States or any other country where Microsoft or the app publisher and their affiliates or service providers maintain facilities.\n\nPlease refer to the End User License Terms for Microsoft Loop. By installing the app, you agree to these terms and conditions.\n\nPrivacy terms: https://aka.ms/privacy \n\nPlease refer to the Microsoft Software License Terms, see “License Agreement” under Information. By installing the app, you agree to these terms and conditions.",
       "genres": [
         "Productivity",
         "Business"
       ],
-      "userRatingCount": 4819,
+      "price": 0,
+      "trackId": 1637682491,
+      "bundleId": "com.microsoft.loop",
+      "trackName": "Microsoft Loop",
+      "releaseDate": "2023-10-24T07:00:00Z",
+      "primaryGenreName": "Productivity",
+      "primaryGenreId": 6007,
+      "sellerName": "Microsoft Corporation",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "version": "2.113",
+      "wrapperType": "software",
+      "currency": "USD",
+      "description": "Think, plan and create together with Loop on the go.\n\nMicrosoft Loop is a transformative co-creation experience that brings together teams, content and tasks across your tools and devices. Designed for the way you work, Loop can help you think, plan, and create together.\n• Capture ideas, create task lists, and insert photos to your Loop pages to express your thoughts.\n• Bring all your project content into a Loop workspace to help your team focus on what matters.\n• Comment and react in the app to quickly collaborate on the go.\n• Get only the notifications you care about and jump right back into what needs the most attention.\n• Edit and share Loop components across Microsoft 365 to help your team be on the same page in one place.\n\nTo get started, download Loop, and sign in with your Microsoft Account or the account assigned to you by your work or school.\n\nThis app is provided by either Microsoft or a third-party app publisher and is subject to a separate privacy statement and terms and conditions. Data provided through the use of this store and this app may be accessible to Microsoft or the third-party app publisher, as applicable, and transferred to, stored and processed in the United States or any other country where Microsoft or the app publisher and their affiliates or service providers maintain facilities.\n\nPlease refer to the End User License Terms for Microsoft Loop. By installing the app, you agree to these terms and conditions.\n\nPrivacy terms: https://aka.ms/privacy \n\nPlease refer to the Microsoft Software License Terms, see “License Agreement” under Information. By installing the app, you agree to these terms and conditions.",
+      "minimumOsVersion": "18.0",
+      "trackCensoredName": "Microsoft Loop",
+      "trackViewUrl": "https://apps.apple.com/us/app/microsoft-loop/id1637682491?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.62085,
+      "userRatingCount": 4853,
       "country": "USA"
     }
   ]

@@ -182,6 +182,9 @@
       "userRatingCount": 2
     },
     {
+      "artistViewUrl": "https://apps.apple.com/us/developer/microsoft-corporation/id298856275?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/b3/94/edb394af-2e8b-e5cf-6baf-3af617c9b54d/appicon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/b3/94/edb394af-2e8b-e5cf-6baf-3af617c9b54d/appicon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
@@ -314,13 +317,13 @@
         "iPadAir11M4-iPadAir11M4",
         "iPadAir11M4Cellular-iPadAir11M4Cellular",
         "iPadAir13M4-iPadAir13M4",
-        "iPadAir13M4Cellular-iPadAir13M4Cellular"
+        "iPadAir13M4Cellular-iPadAir13M4Cellular",
+        "iPhone18Pro-iPhone18Pro",
+        "iPhone18ProMax-iPhone18ProMax",
+        "iPhoneDuo-iPhoneDuo"
       ],
       "advisories": [],
       "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/us/developer/microsoft-corporation/id298856275?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/b3/94/edb394af-2e8b-e5cf-6baf-3af617c9b54d/appicon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/b3/94/edb394af-2e8b-e5cf-6baf-3af617c9b54d/appicon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/29/89/3f/29893f3c-914f-1e33-ff08-d040291cad2f/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2025-12-15_at_16.42.42.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6d/c6/76/6dc67616-d6b6-fbfc-1c92-0d059f89a619/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2025-12-15_at_16.42.52.png/320x480bb.jpg",
@@ -335,40 +338,40 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/b3/94/edb394af-2e8b-e5cf-6baf-3af617c9b54d/appicon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "trackCensoredName": "Microsoft Cloud Switcher",
+      "trackViewUrl": "https://apps.apple.com/us/app/microsoft-cloud-switcher/id6752790990?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 5,
       "releaseNotes": "small update for fixing bugs",
-      "artistId": 298856275,
-      "artistName": "Microsoft Corporation",
+      "minimumOsVersion": "18.0",
+      "genres": [
+        "Utilities"
+      ],
       "price": 0,
       "bundleId": "com.microsoft.cloudswitcher",
       "releaseDate": "2026-03-17T07:00:00Z",
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
-      "sellerName": "Microsoft Corporation",
       "genreIds": [
         "6002"
       ],
-      "isVppDeviceBasedLicensingEnabled": true,
       "trackId": 6752790990,
       "trackName": "Microsoft Cloud Switcher",
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
+      "sellerName": "Microsoft Corporation",
+      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-08-18T19:34:01Z",
       "version": "1.5",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Microsoft Cloud Switcher allows users to pre-configure the target cloud for Microsoft 365 apps installed on the device. It allows switching between the Public Cloud, the Microsoft 365 Bleu Cloud, and the Microsoft 365 Delos Cloud. This app is for customers of the Microsoft 365 Bleu and Delos national partner clouds only. It is not intended for users of Microsoft consumer online services or other clouds. If you are unsure about the implications of switching, please contact your IT Administrator before making any changes.",
-      "averageUserRating": 5,
-      "trackCensoredName": "Microsoft Cloud Switcher",
-      "trackViewUrl": "https://apps.apple.com/us/app/microsoft-cloud-switcher/id6752790990?uo=4",
-      "minimumOsVersion": "18.0",
-      "contentAdvisoryRating": "4+",
+      "averageUserRatingForCurrentVersion": 5,
       "languageCodesISO2A": [],
       "fileSizeBytes": "60113920",
       "formattedPrice": "Free",
       "userRatingCountForCurrentVersion": 1,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 5,
-      "genres": [
-        "Utilities"
-      ],
+      "artistId": 298856275,
+      "artistName": "Microsoft Corporation",
       "userRatingCount": 1,
       "country": "USA"
     }

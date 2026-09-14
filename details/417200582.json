@@ -188,6 +188,9 @@
       "userRatingCount": 4761324
     },
     {
+      "features": [
+        "iosUniversal"
+      ],
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8f/bb/ee/8fbbee4a-9a2f-90d9-d5d7-a2d5f29b1a9d/asa_U5e94_U7528_U622a_U56fe-_U91d1_U9756_U89c6_U89c9-1320x2868_U6e90_U6587_U4ef6-1.jpg/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/42/55/35/4255351c-9c75-fd18-f1bf-4666ce6fd719/2_U6b63_U54c1_U4fdd_U969c.jpg/320x480bb.jpg",
@@ -209,11 +212,8 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/72/b5/10/72b5104f-2927-65cb-2d38-ee0229a8479a/9_U8d85_U7ea7_U5927_U724c_U65e5.jpg/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/f2/e8/94f2e8ee-4d89-f797-9e89-48aff4c46e3c/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/0b/23/da0b239e-bf33-a406-1c29-c5a791b02aa0/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
       "isGameCenterEnabled": false,
-      "artistViewUrl": "https://apps.apple.com/cn/developer/guangzhou-vipshop-e-commerce-co-ltd/id1381317025?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/f2/e8/94f2e8ee-4d89-f797-9e89-48aff4c46e3c/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/f2/e8/94f2e8ee-4d89-f797-9e89-48aff4c46e3c/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -342,54 +342,57 @@
         "iPadAir11M4-iPadAir11M4",
         "iPadAir11M4Cellular-iPadAir11M4Cellular",
         "iPadAir13M4-iPadAir13M4",
-        "iPadAir13M4Cellular-iPadAir13M4Cellular"
-      ],
-      "features": [
-        "iosUniversal"
+        "iPadAir13M4Cellular-iPadAir13M4Cellular",
+        "iPhone18Pro-iPhone18Pro",
+        "iPhone18ProMax-iPhone18ProMax",
+        "iPhoneDuo-iPhoneDuo"
       ],
       "advisories": [
         "偶尔/轻微的成人或性暗示题材"
       ],
       "kind": "software",
-      "averageUserRatingForCurrentVersion": 4.88488,
+      "artistViewUrl": "https://apps.apple.com/cn/developer/guangzhou-vipshop-e-commerce-co-ltd/id1381317025?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/0b/23/da0b239e-bf33-a406-1c29-c5a791b02aa0/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/0b/23/da0b239e-bf33-a406-1c29-c5a791b02aa0/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.jpg",
+      "bundleId": "com.vipshop.iphone",
       "languageCodesISO2A": [
         "ZH"
       ],
-      "fileSizeBytes": "237516800",
+      "fileSizeBytes": "238061568",
       "formattedPrice": "免费",
-      "userRatingCountForCurrentVersion": 4762207,
+      "userRatingCountForCurrentVersion": 4762262,
       "trackContentRating": "9+",
-      "trackCensoredName": "唯品会",
-      "trackViewUrl": "https://apps.apple.com/cn/app/%E5%94%AF%E5%93%81%E4%BC%9A/id417200582?uo=4",
-      "averageUserRating": 4.88488,
-      "contentAdvisoryRating": "9+",
+      "averageUserRatingForCurrentVersion": 4.88486,
+      "minimumOsVersion": "13.0",
       "artistId": 1381317025,
       "artistName": "Guangzhou Vipshop E-Commerce Co.,Ltd.",
-      "genres": [
-        "购物",
-        "生活"
-      ],
-      "sellerName": "Guangzhou Vipshop E-Commerce Co.,Ltd.",
-      "trackId": 417200582,
-      "trackName": "唯品会",
-      "bundleId": "com.vipshop.iphone",
+      "price": 0,
       "releaseDate": "2011-04-04T02:23:32Z",
-      "primaryGenreName": "Shopping",
-      "primaryGenreId": 6024,
       "genreIds": [
         "6024",
         "6012"
       ],
+      "primaryGenreName": "Shopping",
+      "primaryGenreId": 6024,
+      "sellerName": "Guangzhou Vipshop E-Commerce Co.,Ltd.",
       "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-09-07T02:34:54Z",
-      "version": "9.83.6",
+      "trackName": "唯品会",
+      "trackId": 417200582,
+      "currentVersionReleaseDate": "2026-09-14T02:33:11Z",
+      "releaseNotes": "1、9.5早10-9.24早10，秋季新风尚火热开售；\n2、大牌衣服3折买；\n3、新人享豪礼，欢迎体验；\n4、细节优化，追求极致体验；\n5、功能升级，提供优质服务。",
+      "version": "9.84.1",
       "wrapperType": "software",
       "currency": "CNY",
       "description": "大牌衣服3折买！\n专注服装品牌特卖16年，大牌衣服品牌源头采买，100%正品保障。\n\n【正品保障 顺丰包邮】\n唯品会与各大品牌建立长期战略合作，品牌源头采买，同时还和中检成立联合鉴定实验室，确保每一件商品都是100%正品。\n自营商品顺丰配送，尺码不合适不用怕，顺丰上门退换货非常方便。\n\n【限时狂秒 每日上新】\n限时狂秒每天早十点和晚八点上新，精选爆款商品进行官方大额补贴，超低到手价超划算。\n\n【购物体验 实力保障】\n人工客服天天在线，每天9:00~24:00贴心在线为你服务；\n7天无理由退货，自营商品免费上门收件（自行寄回返10元唯品币）；\n还有自营商品满88元包邮，全年无限次！\n\n【新人享豪礼，欢迎体验】\n唯品会新人福利活动仅限唯品会平台新人用户参与，新人用户是指未在唯品会平台下过有效订单的用户，新人福利活动仅限受邀用户参加，此活动长期有效，参与路径为APP首页。\n\n【意见反馈】\n如有建议，请随时反馈，唯品会时刻倾听您的声音：\n官方微博：@唯品会 \n官方微信：“唯品会” \n唯品会客户端：个人中心-唯品客服-APP反馈",
-      "minimumOsVersion": "13.0",
-      "releaseNotes": "1、9.5早10-9.24早10，秋季新风尚火热开售；\n2、大牌衣服3折买；\n3、新人享豪礼，欢迎体验；\n4、细节优化，追求极致体验；\n5、功能升级，提供优质服务。",
-      "price": 0,
-      "userRatingCount": 4762207,
+      "averageUserRating": 4.88486,
+      "trackCensoredName": "唯品会",
+      "trackViewUrl": "https://apps.apple.com/cn/app/%E5%94%AF%E5%93%81%E4%BC%9A/id417200582?uo=4",
+      "contentAdvisoryRating": "9+",
+      "genres": [
+        "购物",
+        "生活"
+      ],
+      "userRatingCount": 4762262,
       "country": "CHN"
     }
   ]

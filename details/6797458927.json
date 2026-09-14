@@ -208,13 +208,11 @@
       "country": "JPN"
     },
     {
-      "artistViewUrl": "https://apps.apple.com/us/developer/%E5%82%A8%E8%BF%9B-%E5%BD%AD/id6795618800?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/f5/d3/c8f5d346-74d8-2fff-c777-a0eabdc4b83e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/f5/d3/c8f5d346-74d8-2fff-c777-a0eabdc4b83e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
-      "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
       ],
+      "isGameCenterEnabled": false,
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -342,10 +340,15 @@
         "iPadAir11M4-iPadAir11M4",
         "iPadAir11M4Cellular-iPadAir11M4Cellular",
         "iPadAir13M4-iPadAir13M4",
-        "iPadAir13M4Cellular-iPadAir13M4Cellular"
+        "iPadAir13M4Cellular-iPadAir13M4Cellular",
+        "iPhone18Pro-iPhone18Pro",
+        "iPhone18ProMax-iPhone18ProMax",
+        "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
       "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/us/developer/%E5%82%A8%E8%BF%9B-%E5%BD%AD/id6795618800?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/81/31/f981315b-e5e6-a53c-dec8-7f26e0c37138/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/81/31/f981315b-e5e6-a53c-dec8-7f26e0c37138/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d4/28/df/d428dfc2-ff69-6173-ff41-bec9e6d90df0/tower-appstore-3.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5d/e9/db/5de9db9f-913c-515a-ee0a-add2e86da584/tower-appstore-5.png/320x480bb.jpg",
@@ -359,32 +362,36 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/40/ea/10/40ea1051-cb4e-bc39-7a3f-9a3b32454ec4/Tower-ipad-1.png/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/f5/d3/c8f5d346-74d8-2fff-c777-a0eabdc4b83e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "averageUserRating": 5,
-      "trackCensoredName": "塔台",
-      "trackViewUrl": "https://apps.apple.com/us/app/%E5%A1%94%E5%8F%B0/id6797458927?uo=4",
-      "contentAdvisoryRating": "4+",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/81/31/f981315b-e5e6-a53c-dec8-7f26e0c37138/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "averageUserRatingForCurrentVersion": 5,
+      "releaseNotes": "• 优化页面切换、地图、刷新和长按动画，修复按钮漂移与搜索闪烁。\n• 订阅和自有节点支持左右滑动删除，订阅长按支持测速。\n• Clash 系客户端新增“仅节点”导出。\n• 修复 Hysteria 2、Trojan 等协议的证书指纹导出遗漏。\n• 完善规则导入、Mihomo YAML 模板及节点筛选编辑。\n• 优化导入和刷新进度、失败提示。\n• 修复 sing-box MT 的 DNS 与 IPv6 问题。\n• 优化 Mac 使用引导，更新内置 ACL4SSR 规则。",
       "artistId": 6795618800,
       "artistName": "储进 彭",
       "genres": [
         "Utilities"
       ],
-      "releaseDate": "2026-08-13T07:00:00Z",
-      "trackId": 6797458927,
-      "trackName": "塔台",
+      "price": 1.99,
+      "bundleId": "com.jzb.tower",
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
       "genreIds": [
         "6002"
       ],
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
       "sellerName": "储进 彭",
       "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-09-01T04:36:08Z",
-      "releaseNotes": "- 新增 sing-box MT 完整配置生成与一键导入\n\n- 新增订阅和自有节点批量管理，支持批量更新、启停和删除\n\n- 新增 DNS 三档保护、自定义测速地址和规则配置编辑\n\n- 修复 Clash / Stash 导出遗漏 GEOSITE 规则及部分节点格式兼容问题",
-      "version": "1.0.4",
+      "releaseDate": "2026-08-13T07:00:00Z",
+      "trackId": 6797458927,
+      "trackName": "塔台",
+      "currentVersionReleaseDate": "2026-09-12T18:26:29Z",
+      "version": "1.0.17",
       "wrapperType": "software",
       "currency": "USD",
       "description": "塔台是一个在你 iPhone 上运行的配置文件转换工具。\n\n它解决的是一件很具体的事：你手上有一份订阅文本，而你使用的客户端需要另一种格式的配置文件。塔台把前者转换成后者。\n\n转换全部在这台设备上完成。订阅地址、节点信息和生成的配置文件不会上传到任何服务器，也不经过任何第三方在线转换服务。\n\n■ 它做什么\n\n· 读取订阅文本，识别其中的节点条目\n· 支持十二种协议格式的解析与输出\n· 生成七种客户端各自的配置文件格式\n· 按国家和地区自动分组，生成对应的策略组\n· 内置规则集，也可以导入你自己的规则\n· 生成好的文件可以分享、复制，或直接交给同一台设备上的目标 App\n\n■ 为什么在本机做\n\n同类工具通常把订阅内容发到远程服务器转换。订阅文本里有服务器地址和密码，一旦发出去，你就无法确认它被怎么处理了。\n\n塔台不发。转换器、规则快照和用于识别国家地区的 IP 数据库都随 App 一起打包，需要用到时直接在设备上查。\n\n■ 关于联网\n\n塔台只在三种情况下联网，每一种都由你按下按钮触发：获取你自己填写的订阅地址、导入你主动提供的规则链接、以及解析节点域名。除此之外它不会在后台或启动时发起任何请求。\n\n国家和地区的识别不联网：先看节点名字，看不出来才查随 App 打包的离线数据库。你的服务器地址不会被发送出去查询。\n\n■ 关于数据\n\n塔台没有账号、没有统计、没有崩溃上报、没有广告，也没有任何第三方 SDK。它不收集任何数据。\n\n写到磁盘的文件——包括导出的配置和二维码图片——使用 iOS 的完整文件保护，设备锁定时无法读取。\n\n■ 代码是公开的\n\n上面每一条都可以自己去代码里核对，而不用相信这段文字：\nhttps://github.com/pengchujin/tower\n\n■ 请注意\n\n塔台是一个文件格式转换工具。它本身不建立任何网络连接隧道，不接管系统流量，也不提供任何服务器或节点。你需要自备订阅内容，并使用其他 App 来使用生成的配置。",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 5,
+      "trackCensoredName": "塔台",
+      "trackViewUrl": "https://apps.apple.com/us/app/%E5%A1%94%E5%8F%B0/id6797458927?uo=4",
+      "minimumOsVersion": "17.0",
       "languageCodesISO2A": [
         "AR",
         "EN",
@@ -402,15 +409,11 @@
         "TR",
         "VI"
       ],
-      "fileSizeBytes": "22611968",
+      "fileSizeBytes": "41865216",
       "formattedPrice": "$1.99",
+      "userRatingCountForCurrentVersion": 5,
       "trackContentRating": "4+",
-      "userRatingCountForCurrentVersion": 9,
-      "averageUserRatingForCurrentVersion": 5,
-      "bundleId": "com.jzb.tower",
-      "minimumOsVersion": "17.0",
-      "price": 1.99,
-      "userRatingCount": 9,
+      "userRatingCount": 5,
       "country": "USA"
     }
   ]

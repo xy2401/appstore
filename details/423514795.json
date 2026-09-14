@@ -191,20 +191,6 @@
         "频繁/强烈的竞赛",
         "偶尔/轻微的烟酒或毒品使用或相关内容"
       ],
-      "kind": "software",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f9/b8/fc/f9b8fc57-22e8-9f77-3d69-943fbcb10361/1320-2868-1.jpeg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e6/6c/73/e66c734d-f663-1858-417b-fabb5e9a0604/1320-2868-2.jpeg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/03/a5/a6/03a5a65f-89b3-009b-eede-0685df485a1a/1320-2868-3.jpeg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9a/f1/60/9af160e6-b4ab-605c-ab93-e097530e0126/1320-2868-4.jpeg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/40/34/ca/4034caf4-7538-90fc-340e-64f5677118cf/1320_2868-5.jpeg/320x480bb.jpg"
-      ],
-      "ipadScreenshotUrls": [],
-      "appletvScreenshotUrls": [],
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/6e/49/c96e4981-d3a9-f9d0-cff5-4d36135fdc3b/AppIcon-0-0-1x_U007ephone-0-1-0-0-sRGB-85-220.png/60x60bb.jpg",
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/6e/49/c96e4981-d3a9-f9d0-cff5-4d36135fdc3b/AppIcon-0-0-1x_U007ephone-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/6e/49/c96e4981-d3a9-f9d0-cff5-4d36135fdc3b/AppIcon-0-0-1x_U007ephone-0-1-0-0-sRGB-85-220.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/cn/developer/industrial-and-commercial-bank-of-china/id404569366?uo=4",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -332,46 +318,63 @@
         "iPadAir11M4-iPadAir11M4",
         "iPadAir11M4Cellular-iPadAir11M4Cellular",
         "iPadAir13M4-iPadAir13M4",
-        "iPadAir13M4Cellular-iPadAir13M4Cellular"
+        "iPadAir13M4Cellular-iPadAir13M4Cellular",
+        "iPhone18Pro-iPhone18Pro",
+        "iPhone18ProMax-iPhone18ProMax",
+        "iPhoneDuo-iPhoneDuo"
       ],
-      "minimumOsVersion": "11.0",
+      "kind": "software",
+      "ipadScreenshotUrls": [],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/6e/49/c96e4981-d3a9-f9d0-cff5-4d36135fdc3b/AppIcon-0-0-1x_U007ephone-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f9/b8/fc/f9b8fc57-22e8-9f77-3d69-943fbcb10361/1320-2868-1.jpeg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e6/6c/73/e66c734d-f663-1858-417b-fabb5e9a0604/1320-2868-2.jpeg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/03/a5/a6/03a5a65f-89b3-009b-eede-0685df485a1a/1320-2868-3.jpeg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9a/f1/60/9af160e6-b4ab-605c-ab93-e097530e0126/1320-2868-4.jpeg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/40/34/ca/4034caf4-7538-90fc-340e-64f5677118cf/1320_2868-5.jpeg/320x480bb.jpg"
+      ],
+      "artistViewUrl": "https://apps.apple.com/cn/developer/industrial-and-commercial-bank-of-china/id404569366?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/6e/49/c96e4981-d3a9-f9d0-cff5-4d36135fdc3b/AppIcon-0-0-1x_U007ephone-0-1-0-0-sRGB-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/6e/49/c96e4981-d3a9-f9d0-cff5-4d36135fdc3b/AppIcon-0-0-1x_U007ephone-0-1-0-0-sRGB-85-220.png/100x100bb.jpg",
+      "releaseNotes": "1、重置登录密码：增加NFC识别认证选项；\n2、刷脸认证：支持国家网络身份认证服务；\n3、信用卡：优化信用卡换卡领卡服务；\n4、扫码取号：支持手机银行免登录便捷扫码取号；\n5、隐私政策：《工银融e行个人信息保护政策》内容有调整，并已于2026年6月16日发布生效。\n注意：\n1、本期上线后，手机银行2025年8月版及以前版本需要升级；\n2、手机银行app不保证完全适配pad平板；\n3、iOS需要升级至11.0版本。",
+      "genres": [
+        "财务"
+      ],
       "artistId": 404569366,
       "artistName": "Industrial and Commercial Bank of China",
-      "genreIds": [
-        "6015"
-      ],
+      "price": 0,
       "releaseDate": "2011-03-25T07:00:00Z",
-      "bundleId": "com.icbc.iphoneclient",
-      "sellerName": "Industrial and Commercial Bank of China",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "trackId": 423514795,
+      "trackName": "中国工商银行",
       "primaryGenreName": "Finance",
       "primaryGenreId": 6015,
+      "sellerName": "Industrial and Commercial Bank of China",
       "currentVersionReleaseDate": "2026-09-02T07:17:03Z",
       "version": "11.1.0.8.0",
       "wrapperType": "software",
       "currency": "CNY",
       "description": "工行手机银行智享+1.0\n从心出发 共绘未来\n一、智慧服务  加倍随心\n工小智：更懂您的金融管家，对话式业务模式、产品获取、问题咨询，让智慧服务如影随形。\n简版：业面化繁为简，功能易用如初。\n二、财富成长  加倍贴心\n财富管理：理财收益全景展现，投资决策更从容；优选产品科学配置，投资轻松驾驭。\n天天盈：扩容超过百支，使用场景更丰富，财富管理更加方便。\n公益理财：捐赠全部超额收益，获取捐赠证书票据，让爱双向奔赴。\n节气存单：每个节气，存一笔心意，陪伴你度过一年四季。\n三、惠民消费  加倍省心\n智享惠民消费新主张：从消费到融资，省钱省心一站解决。\n消费贷款财政贴息更实惠，助商组合贷经营无忧，分期支付无缝衔接，借、查、还、管全流程体验升级。\n四、缤纷权益  加倍欢心\n智享权益生态新福利：玩转积分兑权益，福利天天有惊喜。\n工银i豆查积分、赚奖励、兑好礼，一站式权益中心，零门槛精彩福利。\n五、安全守护  加倍放心\n智享风险防控新保障：三重盾牌防范风险，资金守护牢固如山。\n生物识别与硬件加密双保障，国家网络身份认证+数字证书升级+NFC芯片级防护。",
-      "trackCensoredName": "中国工商银行",
       "languageCodesISO2A": [
         "EN",
         "ZH"
       ],
       "fileSizeBytes": "523395072",
       "formattedPrice": "免费",
-      "contentAdvisoryRating": "17+",
-      "userRatingCountForCurrentVersion": 6613161,
-      "trackViewUrl": "https://apps.apple.com/cn/app/%E4%B8%AD%E5%9B%BD%E5%B7%A5%E5%95%86%E9%93%B6%E8%A1%8C/id423514795?uo=4",
       "trackContentRating": "17+",
-      "averageUserRatingForCurrentVersion": 4.84654,
-      "averageUserRating": 4.84654,
-      "releaseNotes": "1、重置登录密码：增加NFC识别认证选项；\n2、刷脸认证：支持国家网络身份认证服务；\n3、信用卡：优化信用卡换卡领卡服务；\n4、扫码取号：支持手机银行免登录便捷扫码取号；\n5、隐私政策：《工银融e行个人信息保护政策》内容有调整，并已于2026年6月16日发布生效。\n注意：\n1、本期上线后，手机银行2025年8月版及以前版本需要升级；\n2、手机银行app不保证完全适配pad平板；\n3、iOS需要升级至11.0版本。",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "price": 0,
-      "genres": [
-        "财务"
+      "userRatingCountForCurrentVersion": 6651676,
+      "averageUserRatingForCurrentVersion": 4.84616,
+      "averageUserRating": 4.84616,
+      "bundleId": "com.icbc.iphoneclient",
+      "minimumOsVersion": "11.0",
+      "trackCensoredName": "中国工商银行",
+      "trackViewUrl": "https://apps.apple.com/cn/app/%E4%B8%AD%E5%9B%BD%E5%B7%A5%E5%95%86%E9%93%B6%E8%A1%8C/id423514795?uo=4",
+      "contentAdvisoryRating": "17+",
+      "genreIds": [
+        "6015"
       ],
-      "trackId": 423514795,
-      "trackName": "中国工商银行",
-      "userRatingCount": 6613161,
+      "userRatingCount": 6651676,
       "country": "CHN"
     }
   ]

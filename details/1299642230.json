@@ -191,10 +191,6 @@
       "userRatingCount": 3352
     },
     {
-      "isGameCenterEnabled": false,
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/f6/a9/36f6a93a-7223-fffc-bf84-0170afc37cc5/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/60x60bb.jpg",
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/f6/a9/36f6a93a-7223-fffc-bf84-0170afc37cc5/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/f6/a9/36f6a93a-7223-fffc-bf84-0170afc37cc5/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/da/2c/eb/da2ceb7f-9a24-17e1-33af-544efc720321/b0ee4af4-a5fc-4a2b-94b3-92601700c94c_IMG_0098__U00283_U0029.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/c5/bd/2e/c5bd2ebb-0950-5978-15a8-3c3a3e598d53/e6cb28c5-dbc2-418e-8dec-769c2d6ad5bc_IMG_0093.png/392x696bb.png",
@@ -207,7 +203,11 @@
       ],
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/0b/76/ef0b7639-12b6-0358-6e19-78ee83600b95/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
       "artistViewUrl": "https://apps.apple.com/jp/developer/abc-mart-inc/id966111093?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/0b/76/ef0b7639-12b6-0358-6e19-78ee83600b95/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/0b/76/ef0b7639-12b6-0358-6e19-78ee83600b95/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.jpg",
+      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -335,49 +335,52 @@
         "iPadAir11M4-iPadAir11M4",
         "iPadAir11M4Cellular-iPadAir11M4Cellular",
         "iPadAir13M4-iPadAir13M4",
-        "iPadAir13M4Cellular-iPadAir13M4Cellular"
+        "iPadAir13M4Cellular-iPadAir13M4Cellular",
+        "iPhone18Pro-iPhone18Pro",
+        "iPhone18ProMax-iPhone18ProMax",
+        "iPhoneDuo-iPhoneDuo"
       ],
       "advisories": [],
       "kind": "software",
       "features": [],
-      "averageUserRatingForCurrentVersion": 2.07574,
       "trackCensoredName": "ABC-MARTアプリ",
+      "trackViewUrl": "https://apps.apple.com/jp/app/abc-mart%E3%82%A2%E3%83%97%E3%83%AA/id1299642230?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 2.07511,
+      "genres": [
+        "ライフスタイル"
+      ],
+      "artistId": 966111093,
+      "artistName": "ABC-MART,INC.",
+      "releaseDate": "2018-03-06T05:29:22Z",
+      "trackId": 1299642230,
+      "trackName": "ABC-MARTアプリ",
+      "releaseNotes": "■軽微な修正をおこないました。",
+      "primaryGenreName": "Lifestyle",
+      "primaryGenreId": 6012,
+      "genreIds": [
+        "6012"
+      ],
+      "sellerName": "ABC-MART,INC.",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-09-09T02:02:08Z",
+      "version": "4.47.0",
+      "wrapperType": "software",
+      "currency": "JPY",
+      "description": "ABC-MART公式アプリがリニューアル。\n店舗、オンラインストアでの購入でポイントが貯まり、割引として使えます。\n貯まったポイントはお客様同士でプレゼントすることも可能です。\nそのほか、店舗検索、商品検索、購入履歴、クーポン、オンラインストアなどの機能をご利用頂けます。\n\n【主な機能】\n・ポイント機能（会員証）\n店舗、オンラインストアでの購入でポイントが貯まり、割引として使えます。\n・オンライン連携\n店舗とオンラインストアでポイント共通利用ができます。\n・商品バーコードスキャン\n商品バーコードを読み取ると商品詳細が確認できます。\n・お気に入り（商品・店舗）\nいくつかの商品を比較したいときに便利です。お気に入り店舗からお得な情報が届きます。\n・購入履歴\n買ったシューズのサイズが確認できるので同じものを買いたい時に便利です。\n・抽選申込\nイベントに参加したり、数量限定商品を購入する権利を抽選で手に入れることができます。",
+      "bundleId": "mobi.abcmart.app",
+      "minimumOsVersion": "13.0",
       "languageCodesISO2A": [
         "EN",
         "JA"
       ],
-      "fileSizeBytes": "52709376",
+      "fileSizeBytes": "52688896",
       "formattedPrice": "無料",
-      "contentAdvisoryRating": "4+",
-      "userRatingCountForCurrentVersion": 3393,
-      "trackViewUrl": "https://apps.apple.com/jp/app/abc-mart%E3%82%A2%E3%83%97%E3%83%AA/id1299642230?uo=4",
       "trackContentRating": "4+",
-      "averageUserRating": 2.07574,
-      "artistId": 966111093,
-      "artistName": "ABC-MART,INC.",
+      "averageUserRatingForCurrentVersion": 2.07511,
+      "userRatingCountForCurrentVersion": 3395,
       "price": 0,
-      "trackId": 1299642230,
-      "trackName": "ABC-MARTアプリ",
-      "releaseNotes": "■軽微な修正をおこないました。",
-      "sellerName": "ABC-MART,INC.",
-      "primaryGenreName": "Lifestyle",
-      "primaryGenreId": 6012,
-      "releaseDate": "2018-03-06T05:29:22Z",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-08-12T02:01:36Z",
-      "version": "4.46.0",
-      "wrapperType": "software",
-      "currency": "JPY",
-      "description": "ABC-MART公式アプリがリニューアル。\n店舗、オンラインストアでの購入でポイントが貯まり、割引として使えます。\n貯まったポイントはお客様同士でプレゼントすることも可能です。\nそのほか、店舗検索、商品検索、購入履歴、クーポン、オンラインストアなどの機能をご利用頂けます。\n\n【主な機能】\n・ポイント機能（会員証）\n店舗、オンラインストアでの購入でポイントが貯まり、割引として使えます。\n・オンライン連携\n店舗とオンラインストアでポイント共通利用ができます。\n・商品バーコードスキャン\n商品バーコードを読み取ると商品詳細が確認できます。\n・お気に入り（商品・店舗）\nいくつかの商品を比較したいときに便利です。お気に入り店舗からお得な情報が届きます。\n・購入履歴\n買ったシューズのサイズが確認できるので同じものを買いたい時に便利です。\n・抽選申込\nイベントに参加したり、数量限定商品を購入する権利を抽選で手に入れることができます。",
-      "minimumOsVersion": "13.0",
-      "bundleId": "mobi.abcmart.app",
-      "genreIds": [
-        "6012"
-      ],
-      "genres": [
-        "ライフスタイル"
-      ],
-      "userRatingCount": 3393,
+      "userRatingCount": 3395,
       "country": "JPN"
     }
   ]

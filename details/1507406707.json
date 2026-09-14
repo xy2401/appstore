@@ -197,6 +197,7 @@
       "userRatingCount": 6296
     },
     {
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/f2/22/e4/f222e4e7-ca2b-995e-5f00-b15795c83d03/7bf6d9f2-cf62-430b-8ffa-6af2dd72698b_family_settings_01_iphone_5.5.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/84/0b/77/840b7731-b7cf-f5fd-b4dc-000bcefe5daf/d4077813-e314-45f7-a6ed-16e3ee6cf9e1_family_settings_02_iphone_5.5.png/392x696bb.png",
@@ -211,12 +212,7 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/9a/51/1d/9a511dca-3308-fe9b-ad4e-d142642bbcfe/9cbc1e79-57bd-46ae-970f-3c36d339d729_iPad_Pro_12.9_U0022_settings_landing_landscape.png/552x414bb.png"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/3a/0b/1b3a0b57-0224-de4e-3591-30a42b0db1e8/AppIcon-Release-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/us/developer/microsoft-corporation/id298856275?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/3a/0b/1b3a0b57-0224-de4e-3591-30a42b0db1e8/AppIcon-Release-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/3a/0b/1b3a0b57-0224-de4e-3591-30a42b0db1e8/AppIcon-Release-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
-      "isGameCenterEnabled": false,
-      "advisories": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/af/43/eeaf4315-a660-6243-f3e7-de277b1180cb/AppIcon-Release-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
       "features": [
         "iosUniversal"
       ],
@@ -347,48 +343,55 @@
         "iPadAir11M4-iPadAir11M4",
         "iPadAir11M4Cellular-iPadAir11M4Cellular",
         "iPadAir13M4-iPadAir13M4",
-        "iPadAir13M4Cellular-iPadAir13M4Cellular"
+        "iPadAir13M4Cellular-iPadAir13M4Cellular",
+        "iPhone18Pro-iPhone18Pro",
+        "iPhone18ProMax-iPhone18ProMax",
+        "iPhoneDuo-iPhoneDuo"
       ],
+      "advisories": [],
       "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/us/developer/microsoft-corporation/id298856275?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/af/43/eeaf4315-a660-6243-f3e7-de277b1180cb/AppIcon-Release-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/af/43/eeaf4315-a660-6243-f3e7-de277b1180cb/AppIcon-Release-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
+      "genreIds": [
+        "6012",
+        "6016"
+      ],
+      "currentVersionReleaseDate": "2026-09-08T01:36:49Z",
+      "releaseNotes": "Minor bug fixes and Enhancements.",
       "averageUserRatingForCurrentVersion": 4.04756,
       "sellerUrl": "https://www.xbox.com/en-US/apps/family-settings-app",
       "languageCodesISO2A": [
         "EN"
       ],
-      "fileSizeBytes": "93047808",
+      "fileSizeBytes": "89967616",
       "formattedPrice": "Free",
       "userRatingCountForCurrentVersion": 6329,
       "trackContentRating": "4+",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.04756,
-      "trackCensoredName": "Xbox Family Settings",
-      "trackViewUrl": "https://apps.apple.com/us/app/xbox-family-settings/id1507406707?uo=4",
-      "minimumOsVersion": "16",
-      "price": 0,
       "artistId": 298856275,
       "artistName": "Microsoft Corporation",
-      "bundleId": "com.microsoft.XboxFamily",
-      "currentVersionReleaseDate": "2026-09-03T13:50:49Z",
-      "releaseDate": "2020-09-23T07:00:00Z",
-      "trackName": "Xbox Family Settings",
-      "trackId": 1507406707,
-      "genreIds": [
-        "6012",
-        "6016"
-      ],
-      "primaryGenreName": "Lifestyle",
-      "primaryGenreId": 6012,
-      "sellerName": "Microsoft Corporation",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseNotes": "Bug fixes and Enhancement.",
-      "version": "2026.9.02",
-      "wrapperType": "software",
-      "currency": "USD",
-      "description": "Game time now comes with more peace of mind with the XBOX Family Settings app. Easily manage your children’s activities on XBOX consoles and enable gaming options that are right for your family. Quickly get into the fun by adding your children to your family account in a snap. Set screen time, update content restrictions, and stay on top of incoming friend requests, all in real time.\n \nPlease refer to Microsoft’s EULA for Terms of Service for Microsoft’s gaming applications on iOS. By installing the app, you agree to these terms and conditions: https://aka.ms/MobileGamingEULA",
       "genres": [
         "Lifestyle",
         "Entertainment"
       ],
+      "price": 0,
+      "trackId": 1507406707,
+      "bundleId": "com.microsoft.XboxFamily",
+      "trackName": "Xbox Family Settings",
+      "releaseDate": "2020-09-23T07:00:00Z",
+      "primaryGenreName": "Lifestyle",
+      "primaryGenreId": 6012,
+      "sellerName": "Microsoft Corporation",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "version": "2026.9.07",
+      "wrapperType": "software",
+      "currency": "USD",
+      "description": "Game time now comes with more peace of mind with the XBOX Family Settings app. Easily manage your children’s activities on XBOX consoles and enable gaming options that are right for your family. Quickly get into the fun by adding your children to your family account in a snap. Set screen time, update content restrictions, and stay on top of incoming friend requests, all in real time.\n \nPlease refer to Microsoft’s EULA for Terms of Service for Microsoft’s gaming applications on iOS. By installing the app, you agree to these terms and conditions: https://aka.ms/MobileGamingEULA",
+      "minimumOsVersion": "16",
+      "trackCensoredName": "Xbox Family Settings",
+      "trackViewUrl": "https://apps.apple.com/us/app/xbox-family-settings/id1507406707?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.04756,
       "userRatingCount": 6329,
       "country": "USA"
     }

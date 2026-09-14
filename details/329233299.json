@@ -2,9 +2,6 @@
   "resultCount": 1,
   "results": [
     {
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/30/49/1930490e-1c17-ab43-7493-cb5dcfc91236/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/17/0c/ba/170cbaf9-35e6-c5fc-b1f1-1e6b81e96792/pr_source.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/7d/c9/33/7dc93357-8cf0-a019-b01a-4cc642f89671/pr_source.png/392x696bb.png",
@@ -17,6 +14,9 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/af/90/6c/af906c85-4df3-5cdb-69de-473502bd13ec/af41dfc6-ec74-4e11-9134-bca32d146c0b_iPadPro_12.9_screenshot_C.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/af/14/3c/af143c9b-82ff-9fe6-51cd-d1da6d0647f1/15b38c4a-0ca8-4f1f-9541-2a9c3f0b7b14_iPadPro_12.9_screenshot_D.png/576x768bb.png"
       ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/30/49/1930490e-1c17-ab43-7493-cb5dcfc91236/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -144,17 +144,19 @@
         "iPadAir11M4-iPadAir11M4",
         "iPadAir11M4Cellular-iPadAir11M4Cellular",
         "iPadAir13M4-iPadAir13M4",
-        "iPadAir13M4Cellular-iPadAir13M4Cellular"
+        "iPadAir13M4Cellular-iPadAir13M4Cellular",
+        "iPhone18Pro-iPhone18Pro",
+        "iPhone18ProMax-iPhone18ProMax",
+        "iPhoneDuo-iPhoneDuo"
+      ],
+      "features": [
+        "iosUniversal"
       ],
       "advisories": [],
       "kind": "software",
       "artistViewUrl": "https://apps.apple.com/us/developer/aerfish-llc/id329233302?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/30/49/1930490e-1c17-ab43-7493-cb5dcfc91236/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/30/49/1930490e-1c17-ab43-7493-cb5dcfc91236/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
-      "minimumOsVersion": "15.6",
       "languageCodesISO2A": [
         "EN"
       ],
@@ -162,8 +164,10 @@
       "formattedPrice": "$1.99",
       "userRatingCountForCurrentVersion": 1527,
       "trackContentRating": "4+",
-      "sellerUrl": "http://aerfish.com/UniverseSplitter",
       "averageUserRatingForCurrentVersion": 4.67256,
+      "bundleId": "com.aerfish.Universes",
+      "sellerUrl": "http://aerfish.com/UniverseSplitter",
+      "minimumOsVersion": "15.6",
       "artistId": 329233302,
       "artistName": "Aerfish LLC",
       "genres": [
@@ -171,18 +175,18 @@
         "Utilities"
       ],
       "price": 1.99,
+      "releaseDate": "2009-10-06T20:05:41Z",
       "trackId": 329233299,
       "trackName": "Universe Splitter",
-      "releaseDate": "2009-10-06T20:05:41Z",
       "genreIds": [
         "6016",
         "6002"
       ],
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2025-07-22T09:13:48Z",
       "primaryGenreName": "Entertainment",
       "primaryGenreId": 6016,
       "sellerName": "Aerfish LLC",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2025-07-22T09:13:48Z",
       "releaseNotes": "Minor interface tweaks; performance improvements",
       "version": "1.73",
       "wrapperType": "software",
@@ -192,7 +196,6 @@
       "trackCensoredName": "Universe Splitter",
       "trackViewUrl": "https://apps.apple.com/us/app/universe-splitter/id329233299?uo=4",
       "contentAdvisoryRating": "4+",
-      "bundleId": "com.aerfish.Universes",
       "userRatingCount": 1527,
       "country": "USA"
     }

@@ -188,9 +188,6 @@
     },
     {
       "isGameCenterEnabled": false,
-      "artistViewUrl": "https://apps.apple.com/jp/developer/mylops/id488047327?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/e0/54/80e054ea-0d0c-dfa8-6ed6-a99d34ae34e2/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/e0/54/80e054ea-0d0c-dfa8-6ed6-a99d34ae34e2/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
       "features": [
         "iosUniversal"
       ],
@@ -321,7 +318,10 @@
         "iPadAir11M4-iPadAir11M4",
         "iPadAir11M4Cellular-iPadAir11M4Cellular",
         "iPadAir13M4-iPadAir13M4",
-        "iPadAir13M4Cellular-iPadAir13M4Cellular"
+        "iPadAir13M4Cellular-iPadAir13M4Cellular",
+        "iPhone18Pro-iPhone18Pro",
+        "iPhone18ProMax-iPhone18ProMax",
+        "iPhoneDuo-iPhoneDuo"
       ],
       "kind": "software",
       "screenshotUrls": [
@@ -337,20 +337,23 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/18/a5/bc/18a5bcd2-204c-3ec6-7f7a-9018d857a6b1/6be19655-ab9c-4e0f-921a-1e5f9ca98ac6_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00284th_generation_U0029_-_2024-08-09_at_12.13.41.png/576x768bb.png"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/e0/54/80e054ea-0d0c-dfa8-6ed6-a99d34ae34e2/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/04/f7/5004f712-f7fa-aeee-4749-159ec63b8879/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/jp/developer/mylops/id488047327?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/04/f7/5004f712-f7fa-aeee-4749-159ec63b8879/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/04/f7/5004f712-f7fa-aeee-4749-159ec63b8879/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
       "advisories": [],
-      "trackCensoredName": "関連図作成アプリ",
-      "trackViewUrl": "https://apps.apple.com/jp/app/%E9%96%A2%E9%80%A3%E5%9B%B3%E4%BD%9C%E6%88%90%E3%82%A2%E3%83%97%E3%83%AA/id6502970728?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 3.70588,
-      "bundleId": "com.mylops.associationchart.prod",
+      "minimumOsVersion": "17.0",
+      "artistId": 488047327,
+      "artistName": "mylops",
       "genres": [
         "教育",
         "メディカル"
       ],
-      "releaseDate": "2024-08-26T07:00:00Z",
-      "trackName": "関連図作成アプリ",
+      "price": 800,
+      "bundleId": "com.mylops.associationchart.prod",
       "trackId": 6502970728,
+      "trackName": "関連図作成アプリ",
+      "currentVersionReleaseDate": "2026-09-08T11:17:21Z",
       "genreIds": [
         "6017",
         "6020"
@@ -358,26 +361,26 @@
       "primaryGenreName": "Education",
       "primaryGenreId": 6017,
       "sellerName": "mylops,inc",
-      "currentVersionReleaseDate": "2026-01-29T07:36:42Z",
-      "releaseNotes": "アプリの使い方のリンク変更",
-      "version": "1.3.8",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "version": "1.3.9",
       "wrapperType": "software",
       "currency": "JPY",
       "description": "看護学生の睡眠時間を増やしたい！！\n関連図の書き方が分からない人、関連図で夜眠れない人、関連図がとにかく苦手な人に向けた関連図作成ツールです！\n関連図の軸となる病態関連図を情報に応じて簡単に作成できます。\n\n関連図作成アプリの使い方\n①疾患を選択\n②症状や状態を選択\n③選択に応じて病態関連図が作成\n\n\n購入者にはDiscordサーバーで学生向けAI指南してます",
-      "minimumOsVersion": "17.0",
-      "averageUserRatingForCurrentVersion": 3.70588,
       "sellerUrl": "https://810poppo.com/",
+      "averageUserRatingForCurrentVersion": 3.70588,
       "languageCodesISO2A": [
         "JA"
       ],
-      "fileSizeBytes": "43126784",
+      "fileSizeBytes": "43759616",
       "formattedPrice": "¥800",
       "userRatingCountForCurrentVersion": 17,
       "trackContentRating": "4+",
-      "price": 800,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "artistId": 488047327,
-      "artistName": "mylops",
+      "trackCensoredName": "関連図作成アプリ",
+      "trackViewUrl": "https://apps.apple.com/jp/app/%E9%96%A2%E9%80%A3%E5%9B%B3%E4%BD%9C%E6%88%90%E3%82%A2%E3%83%97%E3%83%AA/id6502970728?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 3.70588,
+      "releaseDate": "2024-08-26T07:00:00Z",
+      "releaseNotes": "証明書の更新",
       "userRatingCount": 17,
       "country": "JPN"
     }

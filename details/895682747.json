@@ -229,8 +229,8 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/39/66/a5/3966a509-aa86-89ff-f7f5-f9b9ea80199a/_U6743_U76ca.jpg/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/92/06/f29206a6-894a-9c7c-aa03-bbceccb720e6/AppIcon-0-1x_U007epad-0-1-0-0-85-220-0.png/60x60bb.jpg",
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/92/06/f29206a6-894a-9c7c-aa03-bbceccb720e6/AppIcon-0-1x_U007epad-0-1-0-0-85-220-0.png/512x512bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/92/06/f29206a6-894a-9c7c-aa03-bbceccb720e6/AppIcon-0-1x_U007epad-0-1-0-0-85-220-0.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/92/06/f29206a6-894a-9c7c-aa03-bbceccb720e6/AppIcon-0-1x_U007epad-0-1-0-0-85-220-0.png/100x100bb.jpg",
       "artistViewUrl": "https://apps.apple.com/cn/developer/beijing-jingdong-financial-technology-holdings-co-ltd/id1220352269?uo=4",
       "supportedDevices": [
@@ -361,10 +361,20 @@
         "iPadAir11M4-iPadAir11M4",
         "iPadAir11M4Cellular-iPadAir11M4Cellular",
         "iPadAir13M4-iPadAir13M4",
-        "iPadAir13M4Cellular-iPadAir13M4Cellular"
+        "iPadAir13M4Cellular-iPadAir13M4Cellular",
+        "iPhone18Pro-iPhone18Pro",
+        "iPhone18ProMax-iPhone18ProMax",
+        "iPhoneDuo-iPhoneDuo"
       ],
       "minimumOsVersion": "12.2",
-      "price": 0,
+      "artistId": 1220352269,
+      "artistName": "Beijing Jingdong Financial Technology Holdings Co., Ltd.",
+      "genres": [
+        "财务",
+        "生活"
+      ],
+      "bundleId": "com.jd.jinrong",
+      "currentVersionReleaseDate": "2026-09-02T08:54:40Z",
       "releaseDate": "2014-07-15T03:37:14Z",
       "genreIds": [
         "6015",
@@ -374,34 +384,27 @@
       "primaryGenreId": 6015,
       "sellerName": "Beijing Jingdong Financial Technology Holdings Co., Ltd",
       "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-09-02T08:54:40Z",
+      "releaseNotes": "新增和优化了多项产品功能，邀你体验〜",
       "version": "8.2.60",
       "wrapperType": "software",
       "currency": "CNY",
       "description": "京东金融以智能化、内容化为核心能力，与银行、保险公司、基金公司等金融机构，共同为用户提供专业、安全的个人金融服务。 \n在这里你可以：\n1、 理财：一站式投资黄金，支持从购买、盯盘到回收全链路黄金投资。基金申赎便捷、更便宜，京东Plus会员免申购费，支持50万快速赎回。       \n2、 借贷：购物用京东白条，先消费后付款，分期免息更轻松；急用钱找京东金条借款，大平台、额度高、利息低、免息长（年化利率区间3.5%-24%）\n3、保险：医疗险、意外险、人寿险、重疾险、车险等，用心严选好保险，全方位守护家人    \n4、生活服务：每日来省钱频道领福利，使用积分兑换白条还款券、支付券、话费券、京东外卖券\n【风险提示】\n借款额度、分期期数及具体利率以实际审核为准，请根据需求合理借贷，理性消费，避免逾期  温馨提示：投资有风险，入资需谨慎，产品历史业绩情况仅供参考",
-      "averageUserRatingForCurrentVersion": 4.40106,
-      "averageUserRating": 4.40106,
-      "trackCensoredName": "京东金融-黄金基金理财借贷保险一站式平台",
       "languageCodesISO2A": [
         "ZH"
       ],
       "fileSizeBytes": "208935936",
       "formattedPrice": "免费",
-      "contentAdvisoryRating": "17+",
-      "userRatingCountForCurrentVersion": 273749,
-      "trackViewUrl": "https://apps.apple.com/cn/app/%E4%BA%AC%E4%B8%9C%E9%87%91%E8%9E%8D-%E9%BB%84%E9%87%91%E5%9F%BA%E9%87%91%E7%90%86%E8%B4%A2%E5%80%9F%E8%B4%B7%E4%BF%9D%E9%99%A9%E4%B8%80%E7%AB%99%E5%BC%8F%E5%B9%B3%E5%8F%B0/id895682747?uo=4",
+      "userRatingCountForCurrentVersion": 274159,
       "trackContentRating": "17+",
+      "averageUserRatingForCurrentVersion": 4.40076,
+      "averageUserRating": 4.40076,
+      "contentAdvisoryRating": "17+",
+      "trackCensoredName": "京东金融-黄金基金理财借贷保险一站式平台",
+      "trackViewUrl": "https://apps.apple.com/cn/app/%E4%BA%AC%E4%B8%9C%E9%87%91%E8%9E%8D-%E9%BB%84%E9%87%91%E5%9F%BA%E9%87%91%E7%90%86%E8%B4%A2%E5%80%9F%E8%B4%B7%E4%BF%9D%E9%99%A9%E4%B8%80%E7%AB%99%E5%BC%8F%E5%B9%B3%E5%8F%B0/id895682747?uo=4",
       "trackId": 895682747,
       "trackName": "京东金融-黄金基金理财借贷保险一站式平台",
-      "bundleId": "com.jd.jinrong",
-      "releaseNotes": "新增和优化了多项产品功能，邀你体验〜",
-      "artistId": 1220352269,
-      "artistName": "Beijing Jingdong Financial Technology Holdings Co., Ltd.",
-      "genres": [
-        "财务",
-        "生活"
-      ],
-      "userRatingCount": 273749,
+      "price": 0,
+      "userRatingCount": 274159,
       "country": "CHN"
     }
   ]

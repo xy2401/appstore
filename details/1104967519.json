@@ -3,12 +3,16 @@
   "results": [
     {
       "artistViewUrl": "https://apps.apple.com/de/developer/shop-apotheke-service-b-v/id1104967518?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/e5/7f/e6e57f7a-cad9-152a-4745-b009cb71daf1/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/e5/7f/e6e57f7a-cad9-152a-4745-b009cb71daf1/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/100x100bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/97/f6/b197f699-e999-df9b-e35c-07a926d2f98d/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/97/f6/b197f699-e999-df9b-e35c-07a926d2f98d/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/100x100bb.jpg",
+      "advisories": [
+        "Häufig/stark ausgeprägt: medizinische/Behandlungs-Informationen",
+        "Unbeschränkter Zugang zum Web"
+      ],
+      "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
       ],
-      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -136,11 +140,10 @@
         "iPadAir11M4-iPadAir11M4",
         "iPadAir11M4Cellular-iPadAir11M4Cellular",
         "iPadAir13M4-iPadAir13M4",
-        "iPadAir13M4Cellular-iPadAir13M4Cellular"
-      ],
-      "advisories": [
-        "Unbeschränkter Zugang zum Web",
-        "Häufig/stark ausgeprägt: medizinische/Behandlungs-Informationen"
+        "iPadAir13M4Cellular-iPadAir13M4Cellular",
+        "iPhone18Pro-iPhone18Pro",
+        "iPhone18ProMax-iPhone18ProMax",
+        "iPhoneDuo-iPhoneDuo"
       ],
       "kind": "software",
       "screenshotUrls": [
@@ -166,23 +169,24 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/30/56/a4/3056a464-fb5e-d9a3-489b-9c2d89ff0a70/10.png/576x768bb.png"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/e5/7f/e6e57f7a-cad9-152a-4745-b009cb71daf1/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/97/f6/b197f699-e999-df9b-e35c-07a926d2f98d/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "trackCensoredName": "Shop Apotheke: E-Rezept & mehr",
       "trackViewUrl": "https://apps.apple.com/de/app/shop-apotheke-e-rezept-mehr/id1104967519?uo=4",
       "contentAdvisoryRating": "17+",
-      "averageUserRating": 4.77684,
-      "releaseNotes": "Wir haben die App überarbeitet, um Ihnen das bestmögliche Erlebnis zu bieten. Aktualisieren Sie jetzt für mehr Leistung und Zuverlässigkeit. Wir wünschen Ihnen beste Gesundheit und viel Freude beim Einkaufen mit Redcare!",
-      "artistId": 1104967518,
-      "artistName": "Shop-Apotheke Service B.V.",
+      "averageUserRating": 4.77672,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseNotes": "Starte unsere App und entdecke die vielen kleinen Verbesserungen, die wir vorgenommen haben – für ein noch angenehmeres App-Erlebnis.",
       "genres": [
         "Medizin",
         "Shopping"
       ],
+      "artistId": 1104967518,
+      "artistName": "Shop-Apotheke Service B.V.",
       "price": 0,
-      "bundleId": "com.shop-apotheke.shop",
       "trackId": 1104967519,
       "trackName": "Shop Apotheke: E-Rezept & mehr",
       "releaseDate": "2016-05-12T07:50:28Z",
+      "bundleId": "com.shop-apotheke.shop",
       "genreIds": [
         "6020",
         "6024"
@@ -190,13 +194,12 @@
       "primaryGenreName": "Medical",
       "primaryGenreId": 6020,
       "sellerName": "Shop-Apotheke Service B.V.",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-08-28T07:32:53Z",
-      "version": "4.29.1",
+      "version": "4.31.0",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Gesundheit sollte sich leicht anfühlen. Mit der Shop Apotheke App gelingt das ganz einfach: Medikamente von überall bestellen, Ihr E-Rezept einlösen und alles bequem nach Hause liefern lassen. Kein Stress, kein Warten, keine Umwege – einfach gut versorgt mit Ihrer Online-Apotheke.\n\nE-Rezept? Einfach und in Sekunden eingelöst.\n\n● App öffnen.\n● Karte dranhalten.\n● Fertig und schon wird geliefert.\n\nIhre Vorteile für den Alltag:\n\n● Medikamente online bestellen – jederzeit & überall\n● E-Rezept ohne Aufwand einlösen\n● Schnelle Lieferung – oft noch am selben Tag\n● Attraktive Preise & App-Rabatte\n● Sicher & geschützt einkaufen\n● Bonusprogramm mit RedPoints*\n\nAlles für Ihre Gesundheit – an einem Ort\n\n■ Medikamente & Arzneimittel\n■ Beauty & Hautpflege\n■ Nahrungsergänzungsmittel\n■ Baby & Familie\n■ Tierbedarf & mehr\n\nÜber 200.000 Produkte – von Top-Marken bis Eigenmarken wie Redcare.\n\n● Schnell geliefert: Mit Now! erhalten Sie viele Produkte noch am selben Tag.\n● Einfach bezahlen, sicher geschützt: Alle gängigen Zahlungsmethoden.\n\nGeprüfte Qualität, pharmazeutische Standards und sichere Ende-zu-Ende-Verschlüsselung sorgen dafür, dass Sie sich jederzeit auf uns verlassen können.\n\nShop Apotheke – Ihre einfache Lösung für Gesundheit im Alltag.\n\n*Unser Vorteilsprogramm ist in der Schweiz als RedCoins verfügbar.\n\nSenden Sie Feedback: mobile@shop-apotheke.com",
-      "averageUserRatingForCurrentVersion": 4.77684,
+      "minimumOsVersion": "16.0",
+      "averageUserRatingForCurrentVersion": 4.77672,
       "sellerUrl": "https://www.shop-apotheke.com",
       "languageCodesISO2A": [
         "NL",
@@ -205,12 +208,12 @@
         "DE",
         "IT"
       ],
-      "fileSizeBytes": "362997760",
+      "fileSizeBytes": "364267520",
       "formattedPrice": "Gratis",
-      "userRatingCountForCurrentVersion": 437045,
+      "userRatingCountForCurrentVersion": 439461,
       "trackContentRating": "17+",
-      "minimumOsVersion": "16.0",
-      "userRatingCount": 437045,
+      "currentVersionReleaseDate": "2026-09-11T09:19:25Z",
+      "userRatingCount": 439461,
       "country": "DEU"
     }
   ]

@@ -2,9 +2,6 @@
   "resultCount": 1,
   "results": [
     {
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/b1/d3/f1/b1d3f1cc-fdac-961d-f198-4e8d7afb5d94/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-85-220.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/34/29/66/34296605-5d47-5d71-a456-fafb44ffb1c5/pr_source.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/b8/d3/5e/b8d35e77-5045-36eb-012a-73ae8edaf4ed/pr_source.png/392x696bb.png",
@@ -18,6 +15,9 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/6b/8e/f3/6b8ef3f3-7da9-c420-f2e9-c0fecaf4f3df/pr_source.png/392x696bb.png"
       ],
       "ipadScreenshotUrls": [],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/b1/d3/f1/b1d3f1cc-fdac-961d-f198-4e8d7afb5d94/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-85-220.png/512x512bb.jpg",
+      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPad2Wifi-iPad2Wifi",
         "iPad23G-iPad23G",
@@ -180,15 +180,20 @@
         "iPadAir11M4-iPadAir11M4",
         "iPadAir11M4Cellular-iPadAir11M4Cellular",
         "iPadAir13M4-iPadAir13M4",
-        "iPadAir13M4Cellular-iPadAir13M4Cellular"
+        "iPadAir13M4Cellular-iPadAir13M4Cellular",
+        "iPhone18Pro-iPhone18Pro",
+        "iPhone18ProMax-iPhone18ProMax",
+        "Watch12-Watch12",
+        "Watch12Cellular-Watch12Cellular",
+        "WatchUltra4-WatchUltra4",
+        "iPhoneDuo-iPhoneDuo"
       ],
+      "features": [],
       "advisories": [],
       "kind": "software",
       "artistViewUrl": "https://apps.apple.com/us/developer/grog-llc/id376302652?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/b1/d3/f1/b1d3f1cc-fdac-961d-f198-4e8d7afb5d94/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/b1/d3/f1/b1d3f1cc-fdac-961d-f198-4e8d7afb5d94/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-85-220.png/100x100bb.jpg",
-      "features": [],
-      "minimumOsVersion": "9.0",
       "languageCodesISO2A": [
         "EN"
       ],
@@ -196,8 +201,10 @@
       "formattedPrice": "$4.99",
       "userRatingCountForCurrentVersion": 336,
       "trackContentRating": "4+",
-      "sellerUrl": "https://www.animatedknots.com/shop",
       "averageUserRatingForCurrentVersion": 4.80952,
+      "bundleId": "com.animatedknots.knots",
+      "sellerUrl": "https://www.animatedknots.com/shop",
+      "minimumOsVersion": "9.0",
       "artistId": 376302652,
       "artistName": "Grog LLC",
       "genres": [
@@ -205,18 +212,18 @@
         "Education"
       ],
       "price": 4.99,
+      "releaseDate": "2010-06-25T00:26:29Z",
       "trackId": 376302649,
       "trackName": "Animated Knots by Grog",
-      "releaseDate": "2010-06-25T00:26:29Z",
       "genreIds": [
         "6006",
         "6017"
       ],
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2019-11-14T11:23:53Z",
       "primaryGenreName": "Reference",
       "primaryGenreId": 6006,
       "sellerName": "Grog LLC",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2019-11-14T11:23:53Z",
       "releaseNotes": "- New Category (Horse & Farm).\n- New/Updated knots \n- Supports Dark Mode for a great viewing experience especially in low-light environments.\n- A few minor updates & bug fixes.\n- In the MORE menu, app users can now write and submit a REVIEW without leaving the app.",
       "version": "9.0",
       "wrapperType": "software",
@@ -226,7 +233,6 @@
       "trackCensoredName": "Animated Knots by Grog",
       "trackViewUrl": "https://apps.apple.com/us/app/animated-knots-by-grog/id376302649?uo=4",
       "contentAdvisoryRating": "4+",
-      "bundleId": "com.animatedknots.knots",
       "userRatingCount": 336,
       "country": "USA"
     }

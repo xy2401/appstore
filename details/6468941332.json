@@ -190,6 +190,9 @@
     },
     {
       "isGameCenterEnabled": false,
+      "artistViewUrl": "https://apps.apple.com/cn/developer/state-administration-of-taxation/id1436002626?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/8b/ea/188bea3d-07de-0940-a8ce-95dcb13eea8d/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/8b/ea/188bea3d-07de-0940-a8ce-95dcb13eea8d/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.jpg",
       "features": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
@@ -318,7 +321,10 @@
         "iPadAir11M4-iPadAir11M4",
         "iPadAir11M4Cellular-iPadAir11M4Cellular",
         "iPadAir13M4-iPadAir13M4",
-        "iPadAir13M4Cellular-iPadAir13M4Cellular"
+        "iPadAir13M4Cellular-iPadAir13M4Cellular",
+        "iPhone18Pro-iPhone18Pro",
+        "iPhone18ProMax-iPhone18ProMax",
+        "iPhoneDuo-iPhoneDuo"
       ],
       "advisories": [],
       "kind": "software",
@@ -334,46 +340,43 @@
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/8b/ea/188bea3d-07de-0940-a8ce-95dcb13eea8d/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/cn/developer/state-administration-of-taxation/id1436002626?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/8b/ea/188bea3d-07de-0940-a8ce-95dcb13eea8d/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/8b/ea/188bea3d-07de-0940-a8ce-95dcb13eea8d/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.jpg",
-      "releaseNotes": "1.优化部分功能的用户体验。",
+      "contentAdvisoryRating": "4+",
+      "currentVersionReleaseDate": "2026-08-10T08:02:26Z",
+      "averageUserRating": 1.39986,
+      "trackCensoredName": "电子税务局",
+      "trackViewUrl": "https://apps.apple.com/cn/app/%E7%94%B5%E5%AD%90%E7%A8%8E%E5%8A%A1%E5%B1%80/id6468941332?uo=4",
+      "releaseDate": "2024-04-27T07:00:00Z",
       "artistId": 1436002626,
       "artistName": "State Administration of Taxation",
-      "genres": [
-        "财务"
-      ],
       "price": 0,
       "bundleId": "cn.gov.chinatax.gt4.app",
-      "currentVersionReleaseDate": "2026-08-10T08:02:26Z",
-      "trackId": 6468941332,
-      "trackName": "电子税务局",
-      "releaseDate": "2024-04-27T07:00:00Z",
-      "primaryGenreName": "Finance",
-      "primaryGenreId": 6015,
-      "sellerName": "State Administration of Taxation",
+      "releaseNotes": "1.优化部分功能的用户体验。",
       "genreIds": [
         "6015"
       ],
+      "sellerName": "State Administration of Taxation",
+      "trackName": "电子税务局",
+      "trackId": 6468941332,
       "isVppDeviceBasedLicensingEnabled": true,
+      "primaryGenreName": "Finance",
+      "primaryGenreId": 6015,
       "version": "1.2.17",
       "wrapperType": "software",
       "currency": "CNY",
       "description": "电子税务局APP是国家税务总局主办的全国统一规范电子税务局移动端，是从用户体验角度出发为纳税人精心设计、提供最适合在移动端办理的涉税业务的一款移动办税工具。主要支持纳税申报、税款缴纳、证明开具、信息报告、发票代开及发票开具等涉税业务办理，并配套提供账户中心、征纳互动在线咨询、反馈问题等功能。",
       "minimumOsVersion": "12.0",
-      "averageUserRating": 1.40476,
-      "contentAdvisoryRating": "4+",
-      "trackCensoredName": "电子税务局",
-      "averageUserRatingForCurrentVersion": 1.40476,
-      "trackViewUrl": "https://apps.apple.com/cn/app/%E7%94%B5%E5%AD%90%E7%A8%8E%E5%8A%A1%E5%B1%80/id6468941332?uo=4",
+      "fileSizeBytes": "77678592",
+      "formattedPrice": "免费",
       "trackContentRating": "4+",
       "languageCodesISO2A": [
         "ZH"
       ],
-      "fileSizeBytes": "77678592",
-      "formattedPrice": "免费",
-      "userRatingCountForCurrentVersion": 5502,
-      "userRatingCount": 5502,
+      "userRatingCountForCurrentVersion": 5722,
+      "averageUserRatingForCurrentVersion": 1.39986,
+      "genres": [
+        "财务"
+      ],
+      "userRatingCount": 5722,
       "country": "CHN"
     }
   ]

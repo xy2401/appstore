@@ -194,8 +194,8 @@
       ],
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/58/e8/b258e8ad-580e-fbdb-fe4d-895ab22fab88/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.jpeg/60x60bb.jpg",
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/58/e8/b258e8ad-580e-fbdb-fe4d-895ab22fab88/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.jpeg/512x512bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/58/e8/b258e8ad-580e-fbdb-fe4d-895ab22fab88/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.jpeg/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/58/e8/b258e8ad-580e-fbdb-fe4d-895ab22fab88/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.jpeg/100x100bb.jpg",
       "artistViewUrl": "https://apps.apple.com/cn/developer/national-healthcare-security-administration/id1490383592?uo=4",
       "supportedDevices": [
@@ -325,10 +325,19 @@
         "iPadAir11M4-iPadAir11M4",
         "iPadAir11M4Cellular-iPadAir11M4Cellular",
         "iPadAir13M4-iPadAir13M4",
-        "iPadAir13M4Cellular-iPadAir13M4Cellular"
+        "iPadAir13M4Cellular-iPadAir13M4Cellular",
+        "iPhone18Pro-iPhone18Pro",
+        "iPhone18ProMax-iPhone18ProMax",
+        "iPhoneDuo-iPhoneDuo"
       ],
       "minimumOsVersion": "13.0",
-      "price": 0,
+      "artistId": 1490383592,
+      "artistName": "National Healthcare Security Administration",
+      "genres": [
+        "医疗"
+      ],
+      "bundleId": "cn.hsa.app",
+      "currentVersionReleaseDate": "2026-05-19T02:46:24Z",
       "releaseDate": "2020-01-06T08:00:00Z",
       "genreIds": [
         "6020"
@@ -337,34 +346,28 @@
       "primaryGenreId": 6020,
       "sellerName": "National Healthcare Security Administration",
       "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-05-19T02:46:24Z",
+      "releaseNotes": "1、APP开屏启动功能优化；\n2、人脸认证能力优化；\n3、一些问题修复。",
       "version": "1.3.30",
       "wrapperType": "software",
       "currency": "CNY",
       "description": "国家医保服务平台客户端震撼首发\n让您把医保装进手机，服务实时在线\n \n1、医保电子凭证。\n一码在手，医保无忧。就医、购药，均可使用医保电子凭证进行医保结算。\n2、异地就医备案\n一键解决异地就医难题。手机在线进行异地就医备案，备案完成即可使用医保电子凭证异地结算。\n3、医保查询服务\n查询方便、快捷。医保公共信息、个人医保信息均可在线查看。\n4、更多医保业务办理\n参保凭证打印、在线参保缴费、特检用药申请等等医保业务一键线上办理。",
-      "averageUserRatingForCurrentVersion": 2.18848,
-      "averageUserRating": 2.18848,
-      "trackCensoredName": "国家医保服务平台",
       "languageCodesISO2A": [
         "EN",
         "ZH"
       ],
       "fileSizeBytes": "149575680",
       "formattedPrice": "免费",
-      "contentAdvisoryRating": "4+",
-      "userRatingCountForCurrentVersion": 19610,
-      "trackViewUrl": "https://apps.apple.com/cn/app/%E5%9B%BD%E5%AE%B6%E5%8C%BB%E4%BF%9D%E6%9C%8D%E5%8A%A1%E5%B9%B3%E5%8F%B0/id1490383593?uo=4",
+      "userRatingCountForCurrentVersion": 19629,
       "trackContentRating": "4+",
+      "averageUserRatingForCurrentVersion": 2.18824,
+      "averageUserRating": 2.18824,
+      "contentAdvisoryRating": "4+",
+      "trackCensoredName": "国家医保服务平台",
+      "trackViewUrl": "https://apps.apple.com/cn/app/%E5%9B%BD%E5%AE%B6%E5%8C%BB%E4%BF%9D%E6%9C%8D%E5%8A%A1%E5%B9%B3%E5%8F%B0/id1490383593?uo=4",
       "trackId": 1490383593,
       "trackName": "国家医保服务平台",
-      "bundleId": "cn.hsa.app",
-      "releaseNotes": "1、APP开屏启动功能优化；\n2、人脸认证能力优化；\n3、一些问题修复。",
-      "artistId": 1490383592,
-      "artistName": "National Healthcare Security Administration",
-      "genres": [
-        "医疗"
-      ],
-      "userRatingCount": 19610,
+      "price": 0,
+      "userRatingCount": 19629,
       "country": "CHN"
     }
   ]

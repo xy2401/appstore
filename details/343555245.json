@@ -186,7 +186,15 @@
       "userRatingCount": 482276
     },
     {
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/10/12/e7101237-0d6f-5932-1d7d-336615a1e182/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/10/12/e7101237-0d6f-5932-1d7d-336615a1e182/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/de/developer/deutsche-bahn/id343555249?uo=4",
       "isGameCenterEnabled": false,
+      "advisories": [],
+      "kind": "software",
+      "ipadScreenshotUrls": [],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/10/12/e7101237-0d6f-5932-1d7d-336615a1e182/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0c/ae/73/0cae7310-a0f5-5269-1483-fcbaf9295241/Screen_2_iPhone_6.9.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b7/b1/67/b7b167cd-c0f8-728f-8415-cdade06797ff/Screen_3_iPhone_6.9.png/320x480bb.jpg",
@@ -197,12 +205,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d1/e5/8d/d1e58d8d-ae35-b990-0133-2c27637e132f/Screen_8_iPhone_6.9.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c4/e7/91/c4e79167-8f3a-1594-85a1-df1a4048d9b3/Screen_9_iPhone_6.9.png/320x480bb.jpg"
       ],
-      "ipadScreenshotUrls": [],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/10/12/e7101237-0d6f-5932-1d7d-336615a1e182/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/de/developer/deutsche-bahn/id343555249?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/10/12/e7101237-0d6f-5932-1d7d-336615a1e182/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/10/12/e7101237-0d6f-5932-1d7d-336615a1e182/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.jpg",
       "features": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
@@ -332,51 +334,52 @@
         "iPadAir11M4-iPadAir11M4",
         "iPadAir11M4Cellular-iPadAir11M4Cellular",
         "iPadAir13M4-iPadAir13M4",
-        "iPadAir13M4Cellular-iPadAir13M4Cellular"
+        "iPadAir13M4Cellular-iPadAir13M4Cellular",
+        "iPhone18Pro-iPhone18Pro",
+        "iPhone18ProMax-iPhone18ProMax",
+        "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
-      "kind": "software",
-      "averageUserRating": 4.37363,
+      "minimumOsVersion": "15.1",
+      "releaseNotes": "Dieses Update bringt gleich zwei praktische Neuerungen:\n\nDu kannst jetzt Fahrräder von Call a Bike direkt im DB Navigator buchen. Außerdem hilft dir die neue Filteroption „Nur fahrbare Verbindungen“, schneller die Verbindungen zu finden, die aktuell für dich in Frage kommen.\n\nJetzt aktualisieren und ausprobieren!\n\nWir freuen uns auf dein Feedback hier im Store.",
+      "averageUserRating": 4.37617,
       "contentAdvisoryRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.37363,
-      "sellerUrl": "https://www.bahn.de/p/view/service/mobile/db-navigator.shtml",
       "trackCensoredName": "DB Navigator",
       "trackViewUrl": "https://apps.apple.com/de/app/db-navigator/id343555245?uo=4",
-      "languageCodesISO2A": [
-        "EN",
-        "DE"
-      ],
-      "userRatingCountForCurrentVersion": 534756,
-      "trackContentRating": "4+",
-      "artistId": 343555249,
-      "artistName": "Deutsche Bahn",
-      "bundleId": "com.deutschebahn.navigator",
+      "releaseDate": "2009-12-15T08:00:00Z",
       "genres": [
         "Reisen",
         "Navigation"
       ],
+      "artistId": 343555249,
+      "artistName": "Deutsche Bahn",
       "price": 0,
-      "releaseDate": "2009-12-15T08:00:00Z",
-      "sellerName": "DB Fernverkehr AG",
+      "trackName": "DB Navigator",
+      "trackId": 343555245,
       "genreIds": [
         "6003",
         "6010"
       ],
       "primaryGenreName": "Travel",
       "primaryGenreId": 6003,
+      "sellerName": "DB Fernverkehr AG",
+      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-09-02T07:25:55Z",
-      "releaseNotes": "Dieses Update bringt gleich zwei praktische Neuerungen:\n\nDu kannst jetzt Fahrräder von Call a Bike direkt im DB Navigator buchen. Außerdem hilft dir die neue Filteroption „Nur fahrbare Verbindungen“, schneller die Verbindungen zu finden, die aktuell für dich in Frage kommen.\n\nJetzt aktualisieren und ausprobieren!\n\nWir freuen uns auf dein Feedback hier im Store.",
       "version": "26.16.2",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "DB Navigator – dein smarter Reisebegleiter für ganz Deutschland und darüber hinaus.\n\nMit dem DB Navigator planst du deine Route, findest passende Verbindungen und buchst Tickets für den Nah- und Fernverkehr direkt in der App. Ob Deutschland-Ticket, tägliches Pendeln mit Bus und Bahn oder Reisen mit ICE, IC und Regionalverkehr, dank aktueller Fahrpläne, Fahrtinfos in Echtzeit sowie direkt buchbarem E-Scooter und Fahrrad bist du jederzeit flexibel unterwegs.\n\nDEINE VORTEILE AUF EINEN BLICK\n\n• Deutschland-Ticket abonnieren und verwalten\n• Fahrkarten für Nah- und Fernverkehr buchen\n• Fahrplan, Fahrplanauskunft und Routenplanung in Echtzeit\n• Reisebegleitung mit automatischen Reise-Updates\n• Aktuelle Fahrtinfos, Gleisangaben und Wagenreihung\n• Komfort Check-in für entspanntes Reisen im Fernverkehr\n• Auslastungsinformation für viele Züge\n• E-Scooter und Fahrrad direkt mieten\n• Reiseinformationen auf der Smartwatch sehen\n\nDEUTSCHLAND-TICKET & ÖPNV\n\nMit dem Deutschland-Ticket reist du bequem im öffentlichen Nahverkehr durch ganz Deutschland. Abonniere dein Deutschland-Ticket direkt im DB Navigator und finde passende Verbindungen für Bus, Bahn, S-Bahn, U-Bahn und Regionalverkehr. Dank praktischer Filter erkennst du schnell, welche Verbindungen mit dem Deutschland-Ticket nutzbar sind.\n\nTICKETS ZUM BESTPREIS BUCHEN\n\nBuche deine Fahrkarten und nutze dein Handy-Ticket für Nahverkehr und Fernverkehr in wenigen Schritten direkt in der App. Ob Regionalbahn, ICE oder IC, mit der DB Bestpreissuche findest du günstige Angebote für deine Reise und vergleichst mühelos passende Verbindungen. Reise bereits ab 6,99 € deutschlandweit.\n\nFAHRPLAN, FAHRTINFOS & ROUTENPLANUNG IN ECHTZEIT\n\nNutze den DB Navigator als Fahrplaner und Routenplaner für ganz Deutschland und darüber hinaus. Erhalte aktuelle Fahrplanauskünfte, finde die passende Verbindung und bleibe mit Echtzeitdaten zu Abfahrten, Ankünften und Umstiegen jederzeit informiert. So bist du auf deiner gesamten Reise jederzeit bestens informiert.\n\nREISEBEGLEITUNG FÜR ENTSPANNTES REISEN\n\nMit der Reisebegleitung hast du deine Reise jederzeit im Blick. Merke dir Verbindungen und erhalte automatisch wichtige Informationen zu deiner Route. Bei Änderungen wirst du direkt informiert und bleibst so während der gesamten Fahrt auf dem neuesten Stand.\n\nREISEN IM FERNVERKEHR NOCH KOMFORTABLER\n\nNutze praktische Funktionen für entspannte Zugreisen im Fernverkehr. Mit dem Komfort Check-in checkst du dich bequem selbst ein. In den Fahrtinformationen findest du auch die aktuelle Wagenreihung und siehst so auf einen Blick, wo dein Wagen am Gleis hält. Zusätzlich hilft dir die Auslastungsinformation dabei, einen möglichst entspannten Sitzplatz zu finden.\n\nBUS, BAHN, E-SCOOTER & FAHRRAD\n\nVerbinde verschiedene Verkehrsmittel ganz einfach in einer Route. Ergänzend zu Bus und Bahn kannst du direkt in der App einen passenden E-Scooter oder ein Fahrrad buchen und so flexibel die erste oder letzte Meile zurücklegen. Die integrierte Karte hilft dir zusätzlich bei der Orientierung und zeigt beispielsweise Fußwege zu Haltestellen in deiner Nähe.\n\nFAHRTINFOS AUF DER SMARTWATCH\n\nBehalte deine Verbindung auch unterwegs im Blick. Sende wichtige Reiseinformationen direkt an deine Smartwatch und erhalte aktuelle Fahrinfos zu deiner Route jederzeit bequem am Handgelenk.\n\nDB NAVIGATOR – DEIN SMARTER REISEBEGLEITER\n\nEgal, wohin deine Reise geht: Mit dem DB Navigator hast du Fahrplan, Tickets, Reiseinfos sowie Bus, Bahn, E-Scooter und Fahrrad immer griffbereit. Für entspannte Reisen mit Bus, Bahn und ÖPNV – deutschlandweit und darüber hinaus.\n\nJetzt kostenlos im App Store laden!\n\nWeitere Informationen zu den Funktionen des DB Navigators findest du auch auf unserer Website unter bahn.de/app.\n\nGefällt dir die App? Dann hinterlasse uns gerne dein Feedback direkt im Store!",
-      "minimumOsVersion": "15.1",
-      "formattedPrice": "Gratis",
+      "sellerUrl": "https://www.bahn.de/p/view/service/mobile/db-navigator.shtml",
+      "userRatingCountForCurrentVersion": 542237,
+      "bundleId": "com.deutschebahn.navigator",
+      "averageUserRatingForCurrentVersion": 4.37617,
+      "languageCodesISO2A": [
+        "EN",
+        "DE"
+      ],
       "fileSizeBytes": "277091328",
-      "trackId": 343555245,
-      "trackName": "DB Navigator",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "userRatingCount": 534756,
+      "formattedPrice": "Gratis",
+      "trackContentRating": "4+",
+      "userRatingCount": 542237,
       "country": "DEU"
     }
   ]

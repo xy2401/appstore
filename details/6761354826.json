@@ -2,6 +2,11 @@
   "resultCount": 1,
   "results": [
     {
+      "artistViewUrl": "https://apps.apple.com/jp/developer/pikabon-co-ltd/id1490838498?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/7b/d7/757bd7e8-c962-2974-e468-8d7c5d5bd157/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/7b/d7/757bd7e8-c962-2974-e468-8d7c5d5bd157/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/100x100bb.jpg",
+      "advisories": [],
+      "features": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -129,14 +134,12 @@
         "iPadAir11M4-iPadAir11M4",
         "iPadAir11M4Cellular-iPadAir11M4Cellular",
         "iPadAir13M4-iPadAir13M4",
-        "iPadAir13M4Cellular-iPadAir13M4Cellular"
+        "iPadAir13M4Cellular-iPadAir13M4Cellular",
+        "iPhone18Pro-iPhone18Pro",
+        "iPhone18ProMax-iPhone18ProMax",
+        "iPhoneDuo-iPhoneDuo"
       ],
-      "isGameCenterEnabled": false,
-      "advisories": [],
       "kind": "software",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/7b/d7/757bd7e8-c962-2974-e468-8d7c5d5bd157/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/7b/d7/757bd7e8-c962-2974-e468-8d7c5d5bd157/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/100x100bb.jpg",
-      "features": [],
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d3/51/0c/d3510c5c-3f41-afee-0e57-92001caa33b5/1.PNG/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/54/e8/21/54e8210d-edac-88c1-b676-e6bae91940d0/2.PNG/320x480bb.jpg",
@@ -152,26 +155,25 @@
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/7b/d7/757bd7e8-c962-2974-e468-8d7c5d5bd157/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/jp/developer/pikabon-co-ltd/id1490838498?uo=4",
-      "genres": [
-        "エンターテインメント",
-        "ミュージック"
-      ],
+      "isGameCenterEnabled": false,
+      "averageUserRating": 4.94595,
+      "trackCensoredName": "Ryosukeに支配されてみる?",
+      "trackViewUrl": "https://apps.apple.com/jp/app/ryosuke%E3%81%AB%E6%94%AF%E9%85%8D%E3%81%95%E3%82%8C%E3%81%A6%E3%81%BF%E3%82%8B/id6761354826?uo=4",
+      "contentAdvisoryRating": "4+",
+      "minimumOsVersion": "11.1",
+      "releaseNotes": "ダイアログメッセージを修正しました。",
       "price": 0,
-      "currentVersionReleaseDate": "2026-07-17T05:00:47Z",
-      "releaseDate": "2026-06-15T07:00:00Z",
+      "artistId": 1490838498,
+      "artistName": "PIKABON CO. LTD.",
       "bundleId": "com.pikabon.ryosuke",
+      "sellerName": "PIKABON, K.K.",
+      "releaseDate": "2026-06-15T07:00:00Z",
       "primaryGenreName": "Entertainment",
       "primaryGenreId": 6016,
+      "currentVersionReleaseDate": "2026-07-17T05:00:47Z",
+      "isVppDeviceBasedLicensingEnabled": true,
       "trackId": 6761354826,
       "trackName": "Ryosukeに支配されてみる?",
-      "releaseNotes": "ダイアログメッセージを修正しました。",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "genreIds": [
-        "6016",
-        "6011"
-      ],
-      "sellerName": "PIKABON, K.K.",
       "version": "1.0.3",
       "wrapperType": "software",
       "currency": "JPY",
@@ -187,14 +189,15 @@
       "formattedPrice": "無料",
       "userRatingCountForCurrentVersion": 1443,
       "trackContentRating": "4+",
-      "averageUserRating": 4.94595,
-      "trackViewUrl": "https://apps.apple.com/jp/app/ryosuke%E3%81%AB%E6%94%AF%E9%85%8D%E3%81%95%E3%82%8C%E3%81%A6%E3%81%BF%E3%82%8B/id6761354826?uo=4",
-      "contentAdvisoryRating": "4+",
-      "trackCensoredName": "Ryosukeに支配されてみる?",
       "averageUserRatingForCurrentVersion": 4.94595,
-      "minimumOsVersion": "11.1",
-      "artistId": 1490838498,
-      "artistName": "PIKABON CO. LTD.",
+      "genreIds": [
+        "6016",
+        "6011"
+      ],
+      "genres": [
+        "エンターテインメント",
+        "ミュージック"
+      ],
       "userRatingCount": 1443,
       "country": "JPN"
     }

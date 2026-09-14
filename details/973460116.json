@@ -5,10 +5,11 @@
       "artistViewUrl": "https://apps.apple.com/de/developer/supershift-gmbh/id956081909?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/41/d3/e641d3a6-ce04-e1f5-d177-fd568a908db4/AppIconPro-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/41/d3/e641d3a6-ce04-e1f5-d177-fd568a908db4/AppIconPro-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
+      "advisories": [],
+      "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
       ],
-      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -136,9 +137,11 @@
         "iPadAir11M4-iPadAir11M4",
         "iPadAir11M4Cellular-iPadAir11M4Cellular",
         "iPadAir13M4-iPadAir13M4",
-        "iPadAir13M4Cellular-iPadAir13M4Cellular"
+        "iPadAir13M4Cellular-iPadAir13M4Cellular",
+        "iPhone18Pro-iPhone18Pro",
+        "iPhone18ProMax-iPhone18ProMax",
+        "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
       "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/91/69/dd/9169dd73-a0b6-b049-2314-74bdab1a8109/8f37c1b8-12fd-40b0-b1ef-df3fbc58b7fc_iphone6Plus_1.png/392x696bb.png",
@@ -157,18 +160,19 @@
       "trackViewUrl": "https://apps.apple.com/de/app/bruno-pro/id973460116?uo=4",
       "contentAdvisoryRating": "4+",
       "averageUserRating": 4.68724,
+      "isVppDeviceBasedLicensingEnabled": true,
       "releaseNotes": "- Arbeitgeberzuschuss für private Krankenversicherung",
-      "artistId": 956081909,
-      "artistName": "Supershift GmbH",
       "genres": [
         "Finanzen",
         "Nachschlagewerke"
       ],
+      "artistId": 956081909,
+      "artistName": "Supershift GmbH",
       "price": 4.99,
-      "bundleId": "de.brunogehalt.Bruno.pro",
       "trackId": 973460116,
       "trackName": "Bruno Pro",
       "releaseDate": "2015-07-03T22:09:00Z",
+      "bundleId": "de.brunogehalt.Bruno.pro",
       "genreIds": [
         "6015",
         "6006"
@@ -176,12 +180,11 @@
       "primaryGenreName": "Finance",
       "primaryGenreId": 6015,
       "sellerName": "Supershift GmbH",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-02-18T16:33:13Z",
       "version": "2026.3",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Die werbefreie Version von Bruno dem Gehaltsrechner mit den Funktionen:\n\n• Firmenwagenrechner\n• Firmenradrechner\n• Einmalzahlungen wie 13. Gehalt und Weihnachtsgeld\n• Steuerfreie Bezüge (z.B. Schichtzuschläge, Reisekosten)\n• Zusatzbeiträge aller Krankenkassen\n• Umrechnung Monats- zu Jahresgehalt\n• Wunschnetto\n\nDurch das Eingeben eines Wunschnetto kannst du erfahren, welches Bruttogehalt notwendig wäre, um das gewünschte Nettogehalt zu bekommen.\n\nMit Bruno kannst du dein Gehalt mit verschiedene Einstellungen vergleichen und er funktioniert auch Offline. Deine Daten werden nicht ins Internet übertragen. \n\nFalls du Verbesserungsvorschläge hast, bitte eine Nachricht an info@bruno.app senden. Danke!\n\nDas Bruno-Logo ist eine eingetragene Marke. Alle Berechnungen ohne Gewähr.",
+      "minimumOsVersion": "16.0",
       "averageUserRatingForCurrentVersion": 4.68724,
       "sellerUrl": "https://bruno.app",
       "languageCodesISO2A": [
@@ -191,7 +194,7 @@
       "formattedPrice": "4,99 €",
       "userRatingCountForCurrentVersion": 243,
       "trackContentRating": "4+",
-      "minimumOsVersion": "16.0",
+      "currentVersionReleaseDate": "2026-02-18T16:33:13Z",
       "userRatingCount": 243,
       "country": "DEU"
     }

@@ -221,13 +221,13 @@
       "artistViewUrl": "https://apps.apple.com/de/developer/mario-herzberg/id1460863486?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/88/7f/56887fa7-fa1f-0d70-0077-47477242239f/AppIcon-Pro-1x_U007emarketing-0-7-0-0-85-220-0.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/88/7f/56887fa7-fa1f-0d70-0077-47477242239f/AppIcon-Pro-1x_U007emarketing-0-7-0-0-85-220-0.png/100x100bb.jpg",
-      "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
       "advisories": [
         "Häufig/stark ausgeprägt: Gebrauch von Alkohol, Tabak oder Drogen bzw. Verweise hierzu",
         "Selten/schwach ausgeprägt: medizinische/Behandlungs-Informationen"
+      ],
+      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
       ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
@@ -356,9 +356,24 @@
         "iPadAir11M4-iPadAir11M4",
         "iPadAir11M4Cellular-iPadAir11M4Cellular",
         "iPadAir13M4-iPadAir13M4",
-        "iPadAir13M4Cellular-iPadAir13M4Cellular"
+        "iPadAir13M4Cellular-iPadAir13M4Cellular",
+        "iPhone18Pro-iPhone18Pro",
+        "iPhone18ProMax-iPhone18ProMax",
+        "iPhoneDuo-iPhoneDuo"
       ],
       "kind": "software",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/54/ee/72/54ee722e-e8c9-7ab2-f63d-6bd8585606f2/6ff05eac-bf39-4a98-99cb-3caaf4b5e330_slice1.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/fb/4f/b1/fb4fb1d2-04ee-7d3d-b9e0-ba8b2b44c32a/d06d5d24-8bea-4880-b47b-00bb8b692714_slice2.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/45/a5/13/45a51395-f845-dcdf-559a-0ac0017253e2/b4d5c32e-bf03-488e-aca2-929511382cea_slice3.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/10/fc/4e/10fc4ec3-4ebb-423e-58df-be17bf8093fa/2b2a4cea-b315-4e46-9b15-95be018e59db_slice4.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/0a/3e/8a/0a3e8a3a-3a81-56e2-e481-0e302b435cf3/2f2c49a9-ed08-453e-9a2a-861a71ea8af2_slice5.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/d8/14/2d/d8142d2d-1d5a-fb07-9013-cea08566e685/53731be0-4839-4fec-8f74-550dfe467e6c_slice6.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/a1/96/a7/a196a729-a126-1f80-306c-2bd18cf6e558/0f451487-6517-4a71-8970-d02b4f95f53a_slice7.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/99/5f/e0/995fe017-3aad-34d7-04ee-76cd173bc7e0/1bb64628-8f31-47ab-a108-504d93f9eb32_slice8.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/46/6d/98/466d985f-b027-9c0c-8757-63f9c9892a34/3a8e5209-37c4-4173-8bb2-944c4fdd85a9_slice9.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/9c/b6/f4/9cb6f451-68a3-6c7b-0b76-0c5fede93b72/872faee0-409c-4eb3-bf4b-910b8ce37583_slice10.png/392x696bb.png"
+      ],
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/a8/a9/02/a8a90276-d6f0-85b7-9cc8-9e2d989bb5d3/289e36a8-7296-4300-a7c6-7b7c21c58237_1.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/95/e0/b4/95e0b4c1-a7a7-f5c3-8f3b-d60d10fe67d8/5d813af2-79b5-4dff-9ff4-176f2db72d02_2.png/576x768bb.png",
@@ -373,44 +388,34 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/88/7f/56887fa7-fa1f-0d70-0077-47477242239f/AppIcon-Pro-1x_U007emarketing-0-7-0-0-85-220-0.png/512x512bb.jpg",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/54/ee/72/54ee722e-e8c9-7ab2-f63d-6bd8585606f2/6ff05eac-bf39-4a98-99cb-3caaf4b5e330_slice1.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/fb/4f/b1/fb4fb1d2-04ee-7d3d-b9e0-ba8b2b44c32a/d06d5d24-8bea-4880-b47b-00bb8b692714_slice2.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/45/a5/13/45a51395-f845-dcdf-559a-0ac0017253e2/b4d5c32e-bf03-488e-aca2-929511382cea_slice3.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/10/fc/4e/10fc4ec3-4ebb-423e-58df-be17bf8093fa/2b2a4cea-b315-4e46-9b15-95be018e59db_slice4.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/0a/3e/8a/0a3e8a3a-3a81-56e2-e481-0e302b435cf3/2f2c49a9-ed08-453e-9a2a-861a71ea8af2_slice5.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/d8/14/2d/d8142d2d-1d5a-fb07-9013-cea08566e685/53731be0-4839-4fec-8f74-550dfe467e6c_slice6.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/a1/96/a7/a196a729-a126-1f80-306c-2bd18cf6e558/0f451487-6517-4a71-8970-d02b4f95f53a_slice7.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/99/5f/e0/995fe017-3aad-34d7-04ee-76cd173bc7e0/1bb64628-8f31-47ab-a108-504d93f9eb32_slice8.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/46/6d/98/466d985f-b027-9c0c-8757-63f9c9892a34/3a8e5209-37c4-4173-8bb2-944c4fdd85a9_slice9.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/9c/b6/f4/9cb6f451-68a3-6c7b-0b76-0c5fede93b72/872faee0-409c-4eb3-bf4b-910b8ce37583_slice10.png/392x696bb.png"
-      ],
       "trackCensoredName": "Alkoholfrei - EasyQuit Pro",
       "trackViewUrl": "https://apps.apple.com/de/app/alkoholfrei-easyquit-pro/id1536343162?uo=4",
       "contentAdvisoryRating": "17+",
-      "averageUserRating": 4.68844,
-      "artistId": 1460863486,
-      "artistName": "Mario Herzberg",
+      "averageUserRating": 4.68811,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseNotes": "Updated widgets to be better compatible with IOS 17.",
       "genres": [
         "Gesundheit und Fitness"
       ],
+      "artistId": 1460863486,
+      "artistName": "Mario Herzberg",
       "price": 4.99,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "sellerName": "Mario Herzberg",
+      "trackId": 1536343162,
+      "trackName": "Alkoholfrei - EasyQuit Pro",
+      "releaseDate": "2020-10-23T07:00:00Z",
+      "bundleId": "com.herzbergdevelopment.Stop-Drinking-EasyQuit-Pro",
       "genreIds": [
         "6013"
       ],
       "primaryGenreName": "Health & Fitness",
       "primaryGenreId": 6013,
-      "releaseDate": "2020-10-23T07:00:00Z",
-      "trackName": "Alkoholfrei - EasyQuit Pro",
-      "trackId": 1536343162,
-      "currentVersionReleaseDate": "2024-05-16T13:14:32Z",
-      "releaseNotes": "Updated widgets to be better compatible with IOS 17.",
+      "sellerName": "Mario Herzberg",
       "version": "1.7",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "EasyQuit ist eine App, mit der Sie die Gewohnheit, Alkohol zu trinken, aufgeben können.\nEs hat einen \"Langsam beenden\" -Modus, wissenschaftliche Gesundheitsstatistiken, Geld gespart, Motivationsabzeichen und viele weitere Funktionen.\n\n\n\n---- Motivierende Gesundheit ----\n- Countdown-Timer, mit dem Sie beobachten können, wie sich alle Aspekte Ihrer Gesundheit verbessern, da Sie sich entschieden haben, diese schlechte Angewohnheit, Alkohol zu trinken, zu beenden.\n\n\n---- Alkohol langsam stoppen ----\n- Sie können jetzt nicht aufhören zu trinken, weil die Alkoholabhängigkeit zu stark ist? kein Problem!\nEasy Quit verfügt über einen vollständigen \"Slow Mode\", mit dem Sie langsam anhalten können.\nEs wird ein individueller Plan erstellt, mit dem Sie mit weniger Schmerzen oder Stress alkoholfrei werden können.\n\n\n---- Hohe Privatsphäre ----\n- Keine Anmeldung, keine Erfassung oder kein Verkauf Ihrer sensiblen Daten wie E-Mail, Passwort oder Kontakte. Ihre Daten werden lokal auf Ihrem Telefon gespeichert.\n\n\n\n---- Geldstatistik ----\n- Beobachten Sie, wie Ihre Taschen wachsen und wie viel Geld Sie durch Alkohol-Nüchternheit gespart haben.\n- Machen Sie sich ein schönes Geschenk und lassen Sie sich von der App zeigen, wie lange es dauert, bis Sie dieses Geschenk erhalten. Dies wird Sie motivieren und Ihnen helfen, ohne Alkohol zu bleiben.\n\n\n\n---- Auslösestatistik ----\n- Kreisdiagramm, das Ihnen die Aufschlüsselung Ihrer Top-Trigger zeigt, damit Sie in diesem Moment nicht mehr trinken möchten (Pro-Version).\n\n\n\n---- Matching-Spiel ----\n- Lust auf etwas zu trinken? Lassen Sie sich von EasyQuit helfen, indem Sie ein cooles Spiel mit \"Matching Pairs\" mit wunderschönen Symbolen bereitstellen, um die Zeit zu vertreiben, bis der Drang nachlässt.\n\n\n\n\n---- Abzeichen ----\n- Verdiene bis zu 100 verschiedene Abzeichen als Belohnung und nutze sie als Motivationswerkzeug. Sie können Ihnen auch dabei helfen, gegen die Alkoholabhängigkeit stark zu bleiben, wenn Sie Ihre Fortschritte mit Ihren Freunden über die von EasyQuit bereitgestellte Screenshot-Option teilen.\n\n\n\n---- Farbige Hintergründe ----\n- Personalisieren Sie EasyQuit, indem Sie einen der 28 schönen Hintergründe auswählen.\n\n\n---- Rückfallassistent ----\n- Lassen Sie sich von der App bei der Entscheidung über Ihren nächsten Schritt nach einem Rückfall helfen, indem Sie eine bestimmte Aktion empfehlen, die auf Ihren vorherigen Beendigungsdaten basiert (Pro-Version).\n\n--- Tagebuch ---\n- Fügen Sie Ihre Gedanken und Stimmungen täglich hinzu, um einen klaren Kopf zu behalten und während dieser Reise stark zu bleiben (Pro-Version).\n\n---- Modernes Design ----\n- Modernes und originelles Design im Einklang mit den Richtlinien für modernes Design.\n\n\nIch hoffe, meine Nüchternheitszähler-App hilft Ihnen, für immer frei von Alkohol zu werden. Warten Sie nicht, beenden Sie jetzt oder verwenden Sie den Stop-Slow-Modus und lassen Sie sich von EasyQuit helfen, eine gesündere und glücklichere Person zu werden :)",
+      "minimumOsVersion": "12.0",
+      "averageUserRatingForCurrentVersion": 4.68811,
       "sellerUrl": "https://easyhealthapps.com",
       "languageCodesISO2A": [
         "AR",
@@ -426,34 +431,13 @@
       ],
       "fileSizeBytes": "31112192",
       "formattedPrice": "4,99 €",
-      "userRatingCountForCurrentVersion": 1117,
+      "userRatingCountForCurrentVersion": 1119,
       "trackContentRating": "17+",
-      "averageUserRatingForCurrentVersion": 4.68844,
-      "minimumOsVersion": "12.0",
-      "bundleId": "com.herzbergdevelopment.Stop-Drinking-EasyQuit-Pro",
-      "userRatingCount": 1117,
+      "currentVersionReleaseDate": "2024-05-16T13:14:32Z",
+      "userRatingCount": 1119,
       "country": "DEU"
     },
     {
-      "features": [
-        "iosUniversal"
-      ],
-      "artistViewUrl": "https://apps.apple.com/fr/developer/mario-herzberg/id1460863486?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/88/7f/56887fa7-fa1f-0d70-0077-47477242239f/AppIcon-Pro-1x_U007emarketing-0-7-0-0-85-220-0.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/88/7f/56887fa7-fa1f-0d70-0077-47477242239f/AppIcon-Pro-1x_U007emarketing-0-7-0-0-85-220-0.png/100x100bb.jpg",
-      "isGameCenterEnabled": false,
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/2c/26/f5/2c26f5f5-987e-85e0-649e-326d44035a02/2e08e5f2-83e1-4dcc-a519-d86afc70fb7a_slice1.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/a6/cb/0e/a6cb0e88-fbcd-0efd-14b6-88d09bee5bf9/8c777f73-4cca-4d36-a263-47a70cd53359_slice2.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/45/d5/69/45d569fe-6d14-e4cf-3b3c-ffa326795e58/9d0f717a-c1ef-4d2b-a1bf-1824bd82bf99_slice3.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/21/1d/80/211d8040-8a89-55e9-09a7-0a1228dd2c6c/6929ad09-7a22-4942-8e28-602b09a81d71_slice4.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/f1/7a/05/f17a05fc-28b0-ba23-d386-b7c2b67c465a/a0f187da-9ead-420a-9a2b-2a51d787832e_slice5.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/92/51/c1/9251c106-c85f-0883-b98a-f29d5f289e25/6d1b6b39-6ecc-4b13-96e1-bc073ba0fae7_slice6.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/46/af/f7/46aff7d4-9e7a-da6f-f139-9996664bb7c9/6cbf1761-d495-4ddc-9c09-fa9fa181f727_slice7.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/f5/48/69/f5486900-bd67-82fd-5b09-9dfd42c116aa/33c624b8-e7a6-4854-a6f9-ad1075b67ea5_slice8.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/f4/22/ed/f422edbd-b249-3d4a-ddc6-05f54d3e5028/f4ae3076-bea8-4737-832a-5367f368b664_slice9.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/20/d3/53/20d3537f-e059-d760-88c4-be68c0dd7d36/b948e788-f9f3-40a0-ab68-55ea2e67a462_slice10.png/392x696bb.png"
-      ],
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/fc/c7/2f/fcc72f14-a9e0-7d29-911b-31851a7eb070/c500854a-c542-4a42-8e16-a48232b1b85c_1.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/4e/1b/0b/4e1b0bae-5ec6-af97-be79-ec3eb713bb5f/e2edb62f-fee7-4981-b60f-f7feb200b4be_2.png/576x768bb.png",
@@ -468,9 +452,21 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/88/7f/56887fa7-fa1f-0d70-0077-47477242239f/AppIcon-Pro-1x_U007emarketing-0-7-0-0-85-220-0.png/512x512bb.jpg",
-      "advisories": [
-        "Scènes fréquentes/intenses de consommation ou de référence à l’alcool, au tabac ou à la drogue",
-        "Scènes rares/modérées de contenu à caractère médical"
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/2c/26/f5/2c26f5f5-987e-85e0-649e-326d44035a02/2e08e5f2-83e1-4dcc-a519-d86afc70fb7a_slice1.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/a6/cb/0e/a6cb0e88-fbcd-0efd-14b6-88d09bee5bf9/8c777f73-4cca-4d36-a263-47a70cd53359_slice2.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/45/d5/69/45d569fe-6d14-e4cf-3b3c-ffa326795e58/9d0f717a-c1ef-4d2b-a1bf-1824bd82bf99_slice3.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/21/1d/80/211d8040-8a89-55e9-09a7-0a1228dd2c6c/6929ad09-7a22-4942-8e28-602b09a81d71_slice4.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/f1/7a/05/f17a05fc-28b0-ba23-d386-b7c2b67c465a/a0f187da-9ead-420a-9a2b-2a51d787832e_slice5.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/92/51/c1/9251c106-c85f-0883-b98a-f29d5f289e25/6d1b6b39-6ecc-4b13-96e1-bc073ba0fae7_slice6.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/46/af/f7/46aff7d4-9e7a-da6f-f139-9996664bb7c9/6cbf1761-d495-4ddc-9c09-fa9fa181f727_slice7.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/f5/48/69/f5486900-bd67-82fd-5b09-9dfd42c116aa/33c624b8-e7a6-4854-a6f9-ad1075b67ea5_slice8.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/f4/22/ed/f422edbd-b249-3d4a-ddc6-05f54d3e5028/f4ae3076-bea8-4737-832a-5367f368b664_slice9.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/20/d3/53/20d3537f-e059-d760-88c4-be68c0dd7d36/b948e788-f9f3-40a0-ab68-55ea2e67a462_slice10.png/392x696bb.png"
+      ],
+      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
       ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
@@ -599,15 +595,19 @@
         "iPadAir11M4-iPadAir11M4",
         "iPadAir11M4Cellular-iPadAir11M4Cellular",
         "iPadAir13M4-iPadAir13M4",
-        "iPadAir13M4Cellular-iPadAir13M4Cellular"
+        "iPadAir13M4Cellular-iPadAir13M4Cellular",
+        "iPhone18Pro-iPhone18Pro",
+        "iPhone18ProMax-iPhone18ProMax",
+        "iPhoneDuo-iPhoneDuo"
+      ],
+      "advisories": [
+        "Scènes fréquentes/intenses de consommation ou de référence à l’alcool, au tabac ou à la drogue",
+        "Scènes rares/modérées de contenu à caractère médical"
       ],
       "kind": "software",
-      "bundleId": "com.herzbergdevelopment.Stop-Drinking-EasyQuit-Pro",
-      "averageUserRating": 4.72986,
-      "trackCensoredName": "Arrêter l'alcool -EasyQuit Pro",
-      "trackViewUrl": "https://apps.apple.com/fr/app/arr%C3%AAter-lalcool-easyquit-pro/id1536343162?uo=4",
-      "contentAdvisoryRating": "17+",
-      "averageUserRatingForCurrentVersion": 4.72986,
+      "artistViewUrl": "https://apps.apple.com/fr/developer/mario-herzberg/id1460863486?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/88/7f/56887fa7-fa1f-0d70-0077-47477242239f/AppIcon-Pro-1x_U007emarketing-0-7-0-0-85-220-0.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/88/7f/56887fa7-fa1f-0d70-0077-47477242239f/AppIcon-Pro-1x_U007emarketing-0-7-0-0-85-220-0.png/100x100bb.jpg",
       "sellerUrl": "https://easyhealthapps.com",
       "languageCodesISO2A": [
         "AR",
@@ -625,29 +625,35 @@
       "formattedPrice": "4,99 €",
       "userRatingCountForCurrentVersion": 211,
       "trackContentRating": "17+",
-      "minimumOsVersion": "12.0",
+      "averageUserRatingForCurrentVersion": 4.72986,
       "artistId": 1460863486,
       "artistName": "Mario Herzberg",
       "price": 4.99,
-      "genreIds": [
-        "6013"
+      "genres": [
+        "Forme et santé"
       ],
-      "sellerName": "Mario Herzberg",
+      "bundleId": "com.herzbergdevelopment.Stop-Drinking-EasyQuit-Pro",
       "primaryGenreName": "Health & Fitness",
       "primaryGenreId": 6013,
       "releaseDate": "2020-10-23T07:00:00Z",
-      "trackId": 1536343162,
+      "sellerName": "Mario Herzberg",
       "trackName": "Arrêter l'alcool -EasyQuit Pro",
+      "trackId": 1536343162,
+      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2024-05-16T13:14:32Z",
-      "releaseNotes": "Updated widgets to be better compatible with IOS 17.",
       "version": "1.7",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "EasyQuit est une application pour vous aider à briser l'habitude de boire de l'alcool.\nIl a un mode \"quitter lentement\", des statistiques scientifiques sur la santé, de l'argent économisé, des badges de motivation et bien d'autres fonctionnalités.\n\n\n\n---- Santé motivationnelle ----\n- Compte à rebours pour voir tous les aspects de votre santé s'améliorer suite à votre grande décision d'arrêter cette mauvaise habitude de boire de l'alcool.\n\n\n---- Arrêtez l'alcool lentement ----\n- Vous ne pouvez pas arrêter de boire maintenant parce que la dépendance à l'alcool est trop forte? aucun problème!\nEasy Quit a un \"mode lent\" complet pour vous aider à vous arrêter lentement.\nCela créera un plan personnalisé pour que vous deveniez sans alcool avec moins de douleur ou de stress.\n\n\n---- Haut niveau de confidentialité ----\n- Pas de connexion, pas de collecte ou de vente de vos données sensibles comme e-mail, mot de passe ou contacts. Vos données sont enregistrées localement sur votre téléphone.\n\n\n\n---- Statistiques de l'argent ----\n- Regardez vos poches se développer et voyez combien d'argent vous avez économisé en étant sobre à cause de l'alcool.\n- Offrez-vous un joli cadeau, laissez l'application vous aider à voir combien de temps avant que vous puissiez avoir ce cadeau. Cela vous motivera et vous aidera à rester sans alcool.\n\n\n\n---- Statistiques de déclenchement ----\n- Camembert vous montrant la répartition de vos principaux déclencheurs pour vous aider à éliminer votre désir de boire à ce moment-là (version Pro).\n\n\n\n---- Jeu de correspondance ----\n- Envie de boire un verre? Laissez EasyQuit vous aider en vous proposant un jeu sympa de \"Matching Pairs\" avec de belles icônes pour passer le temps jusqu'à ce que l'envie disparaisse.\n\n\n\n\n---- Insignes ----\n- Gagnez jusqu'à 100 badges différents comme récompenses et utilisez-les comme outil de motivation. Ils peuvent également vous aider à rester fort contre la dépendance à l'alcool si vous partagez vos progrès avec vos amis grâce à l'option de capture d'écran fournie par EasyQuit.\n\n\n\n---- Arrière-plans colorés ----\n- Personnalisez EasyQuit en choisissant l'un des 28 beaux arrière-plans fournis.\n\n\n---- Assistant de rechute ----\n- Laissez l'application vous aider à décider de votre prochaine étape après une rechute en recommandant une certaine action en fonction de vos données d'abandon précédentes (version Pro).\n\n--- Journal intime ---\n- Ajoutez vos pensées et vos humeurs quotidiennement pour garder l'esprit clair et rester fort pendant ce voyage (version Pro).\n\n---- Design moderne ----\n- Design moderne et original conforme aux directives de conception modernes.\n\n\nJ'espère que mon application de compteur de sobriété vous aidera à vous libérer de l'alcool pour toujours. N'attendez pas, quittez maintenant ou utilisez le mode Arrêter lentement et laissez EasyQuit vous aider à devenir une personne plus saine et plus heureuse :)",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "genres": [
-        "Forme et santé"
+      "trackCensoredName": "Arrêter l'alcool -EasyQuit Pro",
+      "trackViewUrl": "https://apps.apple.com/fr/app/arr%C3%AAter-lalcool-easyquit-pro/id1536343162?uo=4",
+      "contentAdvisoryRating": "17+",
+      "averageUserRating": 4.72986,
+      "minimumOsVersion": "12.0",
+      "genreIds": [
+        "6013"
       ],
+      "releaseNotes": "Updated widgets to be better compatible with IOS 17.",
       "userRatingCount": 211,
       "country": "FRA"
     }

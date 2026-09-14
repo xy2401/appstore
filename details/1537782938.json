@@ -199,6 +199,9 @@
     },
     {
       "isGameCenterEnabled": false,
+      "artistViewUrl": "https://apps.apple.com/cn/developer/guangzhou-quanliang-technology-co-ltd/id1652803028?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/da/5a/f9da5ade-6554-4721-a91e-47bca459f318/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/da/5a/f9da5ade-6554-4721-a91e-47bca459f318/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
       "features": [
         "iosUniversal"
       ],
@@ -329,7 +332,10 @@
         "iPadAir11M4-iPadAir11M4",
         "iPadAir11M4Cellular-iPadAir11M4Cellular",
         "iPadAir13M4-iPadAir13M4",
-        "iPadAir13M4Cellular-iPadAir13M4Cellular"
+        "iPadAir13M4Cellular-iPadAir13M4Cellular",
+        "iPhone18Pro-iPhone18Pro",
+        "iPhone18ProMax-iPhone18ProMax",
+        "iPhoneDuo-iPhoneDuo"
       ],
       "advisories": [],
       "kind": "software",
@@ -348,50 +354,47 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/52/53/61/52536190-d20e-49ea-9d04-f463f2bbe923/a06a9cb9-12c6-4bae-b28a-fa20e454e4c3_iPad_Pro_12.9__-_10.png/576x768bb.png"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/c9/39/e5c93915-0fe0-219b-32db-e045f8e72ff5/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/cn/developer/guangzhou-quanliang-technology-co-ltd/id1652803028?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/c9/39/e5c93915-0fe0-219b-32db-e045f8e72ff5/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/c9/39/e5c93915-0fe0-219b-32db-e045f8e72ff5/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
-      "releaseNotes": "- 新增充电计划：\n   - 为喜爱的创作者个人充电，向 TA 表达支持与感谢\n   - 为充电专属牌组充电，解锁全部牌组内容、享受免消耗学习\n- 新增若干实验性功能",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/da/5a/f9da5ade-6554-4721-a91e-47bca459f318/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "contentAdvisoryRating": "4+",
+      "currentVersionReleaseDate": "2026-09-11T02:52:37Z",
+      "averageUserRating": 4.84941,
+      "trackCensoredName": "墨墨记忆卡｜考研考公考证外语学习闪卡",
+      "trackViewUrl": "https://apps.apple.com/cn/app/%E5%A2%A8%E5%A2%A8%E8%AE%B0%E5%BF%86%E5%8D%A1-%E8%80%83%E7%A0%94%E8%80%83%E5%85%AC%E8%80%83%E8%AF%81%E5%A4%96%E8%AF%AD%E5%AD%A6%E4%B9%A0%E9%97%AA%E5%8D%A1/id1537782938?uo=4",
+      "releaseDate": "2021-06-14T07:00:00Z",
       "artistId": 1652803028,
       "artistName": "Guangzhou Quanliang Technology Co., Ltd.",
-      "genres": [
-        "教育",
-        "效率"
-      ],
       "price": 0,
       "bundleId": "com.maimemo.markji.ios",
-      "currentVersionReleaseDate": "2026-09-07T02:19:51Z",
-      "trackId": 1537782938,
-      "trackName": "墨墨记忆卡｜考研考公考证外语学习闪卡",
-      "releaseDate": "2021-06-14T07:00:00Z",
-      "primaryGenreName": "Education",
-      "primaryGenreId": 6017,
-      "sellerName": "Guangzhou Quanliang Technology Co., Ltd.",
+      "releaseNotes": "- 支持未选卡片暂停学习\n- 新增若干实验性功能\n- 优化了当日学习完成后的添加新卡交互\n- 优化了充电模块\n- 修复平板横屏充电后 UI 异常的问题\n- 修复 webcard 部分公式渲染失败问题",
       "genreIds": [
         "6017",
         "6007"
       ],
+      "sellerName": "Guangzhou Quanliang Technology Co., Ltd.",
+      "trackName": "墨墨记忆卡｜考研考公考证外语学习闪卡",
+      "trackId": 1537782938,
       "isVppDeviceBasedLicensingEnabled": true,
-      "version": "5.13.00",
+      "primaryGenreName": "Education",
+      "primaryGenreId": 6017,
+      "version": "5.14.00",
       "wrapperType": "software",
       "currency": "CNY",
       "description": "墨墨记忆卡 可以帮助你科学高效地规划需要记忆的知识，对抗遗忘。\n\n- 可以把知识编辑成卡片，目前支持文字、图片、声音。\n\n- 可以把自己的知识卡片分享给朋友，也可以搜索他人的卡片进行学习。\n\n- 可以把知识卡片加入记忆规划，墨墨记忆卡 会为你安排合适的时间进行复习。\n\n- 可以查看自己的记忆数据：遗忘曲线、记忆持久度、每日学习情况。\n\n- 可以每日签到，见证自己的坚持和成长。\n\n墨墨科技多年以来一直专注于记忆领域的探索，基于对 1300+ 亿条用户记忆行为数据的研究和统计，绘制了 3000+ 万条不同用户的遗忘曲线，协助用户高效规划自己的记忆。",
       "minimumOsVersion": "13",
-      "averageUserRating": 4.84828,
-      "contentAdvisoryRating": "4+",
-      "trackCensoredName": "墨墨记忆卡｜考研考公考证外语学习闪卡",
-      "averageUserRatingForCurrentVersion": 4.84828,
-      "trackViewUrl": "https://apps.apple.com/cn/app/%E5%A2%A8%E5%A2%A8%E8%AE%B0%E5%BF%86%E5%8D%A1-%E8%80%83%E7%A0%94%E8%80%83%E5%85%AC%E8%80%83%E8%AF%81%E5%A4%96%E8%AF%AD%E5%AD%A6%E4%B9%A0%E9%97%AA%E5%8D%A1/id1537782938?uo=4",
-      "trackContentRating": "4+",
       "sellerUrl": "https://www.markji.com/app",
+      "fileSizeBytes": "81904640",
+      "formattedPrice": "免费",
+      "trackContentRating": "4+",
       "languageCodesISO2A": [
         "ZH"
       ],
-      "fileSizeBytes": "81380352",
-      "formattedPrice": "免费",
-      "userRatingCountForCurrentVersion": 5800,
-      "userRatingCount": 5800,
+      "userRatingCountForCurrentVersion": 5877,
+      "averageUserRatingForCurrentVersion": 4.84941,
+      "genres": [
+        "教育",
+        "效率"
+      ],
+      "userRatingCount": 5877,
       "country": "CHN"
     }
   ]

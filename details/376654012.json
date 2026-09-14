@@ -3,9 +3,9 @@
   "results": [
     {
       "isGameCenterEnabled": false,
-      "artistViewUrl": "https://apps.apple.com/fr/developer/editions-hatier/id365246162?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/1b/fe/5e/1bfe5e3c-f23d-9e0d-764d-d74b7e58e4df/AppIcon-1x_U007emarketing-0-6-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/1b/fe/5e/1bfe5e3c-f23d-9e0d-764d-d74b7e58e4df/AppIcon-1x_U007emarketing-0-6-85-220.png/100x100bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPad2Wifi-iPad2Wifi",
         "iPad23G-iPad23G",
@@ -168,14 +168,15 @@
         "iPadAir11M4-iPadAir11M4",
         "iPadAir11M4Cellular-iPadAir11M4Cellular",
         "iPadAir13M4-iPadAir13M4",
-        "iPadAir13M4Cellular-iPadAir13M4Cellular"
+        "iPadAir13M4Cellular-iPadAir13M4Cellular",
+        "iPhone18Pro-iPhone18Pro",
+        "iPhone18ProMax-iPhone18ProMax",
+        "Watch12-Watch12",
+        "Watch12Cellular-Watch12Cellular",
+        "WatchUltra4-WatchUltra4",
+        "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
       "kind": "software",
-      "features": [
-        "iosUniversal"
-      ],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/1b/fe/5e/1bfe5e3c-f23d-9e0d-764d-d74b7e58e4df/AppIcon-1x_U007emarketing-0-6-85-220.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/ac/4c/74/ac4c7489-f6d5-d6f5-a23d-d458a58e355b/7333520f-25c3-4cc0-b7b3-b58822b1d911_CE1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/1c/fa/97/1cfa973e-8793-3e75-906d-cc3eeda3f823/19261626-c34b-44b4-bf84-b2e42db821f1_CE2.png/392x696bb.png",
@@ -195,35 +196,33 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/32/28/c7/3228c7da-fac2-bc84-756b-4c9c7a26472e/pr_source.png/552x414bb.png"
       ],
       "appletvScreenshotUrls": [],
-      "minimumOsVersion": "8.0",
-      "contentAdvisoryRating": "4+",
-      "trackCensoredName": "Bescherelle Synonymes",
-      "trackViewUrl": "https://apps.apple.com/fr/app/bescherelle-synonymes/id376654012?uo=4",
-      "averageUserRating": 4.70833,
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/1b/fe/5e/1bfe5e3c-f23d-9e0d-764d-d74b7e58e4df/AppIcon-1x_U007emarketing-0-6-85-220.png/512x512bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/fr/developer/editions-hatier/id365246162?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/1b/fe/5e/1bfe5e3c-f23d-9e0d-764d-d74b7e58e4df/AppIcon-1x_U007emarketing-0-6-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/1b/fe/5e/1bfe5e3c-f23d-9e0d-764d-d74b7e58e4df/AppIcon-1x_U007emarketing-0-6-85-220.png/100x100bb.jpg",
+      "advisories": [],
+      "releaseNotes": "Nouvelle base de données des synonymes, contraires, paronymes et définitions de l'édition 2021.\nCompatibilité iOS 14\nCorrection de bugs",
+      "sellerName": "Editions HATIER",
+      "price": 3.99,
       "artistId": 365246162,
       "artistName": "Editions Hatier",
-      "genres": [
-        "Références",
-        "Éducation"
-      ],
-      "price": 3.99,
-      "primaryGenreName": "Reference",
-      "primaryGenreId": 6006,
+      "releaseDate": "2010-06-22T01:07:39Z",
+      "bundleId": "fr.hatier.iphone.bescherelle.BescherelleSynos",
+      "currentVersionReleaseDate": "2021-04-13T12:52:33Z",
       "genreIds": [
         "6006",
         "6017"
       ],
-      "currentVersionReleaseDate": "2021-04-13T12:52:33Z",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "sellerName": "Editions HATIER",
-      "releaseDate": "2010-06-22T01:07:39Z",
-      "releaseNotes": "Nouvelle base de données des synonymes, contraires, paronymes et définitions de l'édition 2021.\nCompatibilité iOS 14\nCorrection de bugs",
+      "primaryGenreName": "Reference",
+      "primaryGenreId": 6006,
+      "trackId": 376654012,
+      "trackName": "Bescherelle Synonymes",
       "version": "5.0",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Ne cherchez plus vos mots, utilisez Bescherelle Synonymes :\nle premier dictionnaire de synonymes contextuels.\nDésormais dans une version universelle iPhone/ iPad. \nVous cherchez un mot pour être plus précis, vous souhaitez éviter une répétition : Bescherelle Synonymes vous fournit aussitôt le synonyme adapté au sens ou à la construction de votre phrase.\n\n*** Nouveau : \nVous pouvez afficher pour chaque verbe le tableau complet de sa conjugaison, en téléchargeant l’application Bescherelle Conjugaison.\n\nUn dictionnaire de synonymes unique, qui donne également accès aux antonymes et aux paronymes des mots, ainsi qu’à une définition de base pour chaque entrée.\n\nAucune connexion internet n’est nécessaire pour utiliser le dictionnaire.\n\n• Une très grande richesse\n83 000 entrées, plus de 3 000 000 de synonymes et d’antonymes.\n\n• Une recherche immédiate  \nVous pouvez rechercher un mot par ses premières lettres, avec une faute d'orthographe ou encore phonétiquement.\n\n• Des réponses complètes et efficaces\nUn bouton pour chaque rubrique : « Synonymes », « Antonymes », « Paronymes », « Sens ».\nLes synonymes et antonymes sont classés par nuance de sens et par construction ; l’article comprend également les synonymes et antonymes des locutions et expressions formées avec le mot. Les paronymes apportent une information linguistique complémentaire, en vous alertant sur les principales ambiguïtés de notre langue.\n\n• Une navigation hypertexte généralisée \nTous les mots d’un article sont cliquables. Vous pouvez ainsi explorer le dictionnaire à l’infini : les amoureux de la langue française vont apprécier…\n\n• Rapidité et fluidité\nVersion universelle permettant d'utiliser la même application aussi bien sur iPhone que sur iPad.\nMoins de 3 secondes pour lancer l'application.\nAutorotation de toutes les vues.\nNavigation fluide et réactive.\n\n*** Un dictionnaire signé Bescherelle \nCe dictionnaire est né de l’envie d’offrir un véritable service dans le domaine de la langue. Il est le fruit de la collaboration des éditions Hatier, qui éditent les ouvrages Bescherelle, et des éditions Diagonal, qui ont inventé le puissant logiciel de correction ProLexis. ***",
-      "bundleId": "fr.hatier.iphone.bescherelle.BescherelleSynos",
       "sellerUrl": "http://www.bescherelle.com/",
+      "minimumOsVersion": "8.0",
       "languageCodesISO2A": [
         "FR"
       ],
@@ -232,8 +231,15 @@
       "userRatingCountForCurrentVersion": 24,
       "trackContentRating": "4+",
       "averageUserRatingForCurrentVersion": 4.70833,
-      "trackId": 376654012,
-      "trackName": "Bescherelle Synonymes",
+      "averageUserRating": 4.70833,
+      "trackCensoredName": "Bescherelle Synonymes",
+      "trackViewUrl": "https://apps.apple.com/fr/app/bescherelle-synonymes/id376654012?uo=4",
+      "contentAdvisoryRating": "4+",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "genres": [
+        "Références",
+        "Éducation"
+      ],
       "userRatingCount": 24,
       "country": "FRA"
     }

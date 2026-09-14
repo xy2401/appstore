@@ -2,10 +2,7 @@
   "resultCount": 1,
   "results": [
     {
-      "isGameCenterEnabled": false,
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/4f/33/a54f339f-475c-a4d8-09a4-dd8affdca0f2/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
-      "appletvScreenshotUrls": [],
-      "ipadScreenshotUrls": [],
+      "features": [],
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/85/c7/3f/85c73f5b-44c7-2e2d-a4b8-bc272b3aca70/c6d05948-6390-47a8-a202-fa92c6064444_1242_U002a2208.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/a5/c3/c9/a5c3c983-66ec-1544-66da-37f44fab9374/88267d01-75f8-44ed-b7a5-d12d44d71fb0_1242_U002a2208_U5907_U4efd_2.png/392x696bb.png",
@@ -13,14 +10,16 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/c3/4f/d5/c34fd5c2-a6e3-7b01-04e0-70f80a520498/bbbbd8d8-7161-4c95-afea-ffa3f4c6b810_1242_U002a2208_U5907_U4efd_4.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/ca/b3/1b/cab31b96-48b4-3c27-b685-1cb4dc15b84f/bbcd5bd8-508d-4ad1-843a-9e4d86bbabf1_1242_U002a2208_U5907_U4efd.png/392x696bb.png"
       ],
-      "features": [],
-      "advisories": [
-        "无限制网页访问"
-      ],
-      "kind": "software",
+      "ipadScreenshotUrls": [],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/4f/33/a54f339f-475c-a4d8-09a4-dd8affdca0f2/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
       "artistViewUrl": "https://apps.apple.com/cn/developer/wuxi-xiaojing-sharing-network-technology-co-ltd/id1524582128?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/4f/33/a54f339f-475c-a4d8-09a4-dd8affdca0f2/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/4f/33/a54f339f-475c-a4d8-09a4-dd8affdca0f2/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.jpg",
+      "isGameCenterEnabled": false,
+      "advisories": [
+        "无限制网页访问"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -148,48 +147,52 @@
         "iPadAir11M4-iPadAir11M4",
         "iPadAir11M4Cellular-iPadAir11M4Cellular",
         "iPadAir13M4-iPadAir13M4",
-        "iPadAir13M4Cellular-iPadAir13M4Cellular"
+        "iPadAir13M4Cellular-iPadAir13M4Cellular",
+        "iPhone18Pro-iPhone18Pro",
+        "iPhone18ProMax-iPhone18ProMax",
+        "iPhoneDuo-iPhoneDuo"
       ],
+      "kind": "software",
+      "bundleId": "com.midea.vm.washer",
+      "minimumOsVersion": "10.0",
+      "averageUserRatingForCurrentVersion": 1.4693,
+      "formattedPrice": "免费",
+      "userRatingCountForCurrentVersion": 12461,
+      "trackContentRating": "17+",
+      "trackCensoredName": "U净-创造便利 传递快乐",
+      "trackViewUrl": "https://apps.apple.com/cn/app/u%E5%87%80-%E5%88%9B%E9%80%A0%E4%BE%BF%E5%88%A9-%E4%BC%A0%E9%80%92%E5%BF%AB%E4%B9%90/id1142157881?uo=4",
+      "contentAdvisoryRating": "17+",
+      "averageUserRating": 1.4693,
       "languageCodesISO2A": [
         "EN",
         "ZH"
       ],
       "fileSizeBytes": "161503232",
-      "formattedPrice": "免费",
-      "userRatingCountForCurrentVersion": 12410,
-      "averageUserRatingForCurrentVersion": 1.47043,
-      "trackContentRating": "17+",
-      "bundleId": "com.midea.vm.washer",
       "artistId": 1524582128,
       "artistName": "Wuxi Xiaojing Sharing Network Technology Co., Ltd",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "price": 0,
       "genres": [
         "生活",
         "工具"
       ],
+      "price": 0,
+      "sellerName": "Wuxi Xiaojing Sharing Network Technology Co., Ltd",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseDate": "2017-05-16T00:10:39Z",
+      "trackId": 1142157881,
+      "trackName": "U净-创造便利 传递快乐",
       "genreIds": [
         "6012",
         "6002"
       ],
-      "releaseDate": "2017-05-16T00:10:39Z",
+      "releaseNotes": "1、解决已知问题；2、优化用户体验；",
       "currentVersionReleaseDate": "2026-08-26T02:00:47Z",
       "version": "2.4.18",
       "wrapperType": "software",
       "currency": "CNY",
       "description": "U净是美的集团旗下打造的校园生活服务交互平台，致力于为千万大学生群体提供优质便捷的校园服务，平台已覆盖全国1500+高校，在大学校园、社区、酒店公寓建立体验式的线上预约、线下服务的综合服务体系，支持支付宝、微信、银联等多种支付方式，实现一键预约、便利服务，智享校园新生活。更多功能请下载体验U净APP。",
-      "averageUserRating": 1.47043,
-      "minimumOsVersion": "10.0",
-      "trackCensoredName": "U净-创造便利 传递快乐",
-      "trackViewUrl": "https://apps.apple.com/cn/app/u%E5%87%80-%E5%88%9B%E9%80%A0%E4%BE%BF%E5%88%A9-%E4%BC%A0%E9%80%92%E5%BF%AB%E4%B9%90/id1142157881?uo=4",
-      "contentAdvisoryRating": "17+",
-      "releaseNotes": "1、解决已知问题；2、优化用户体验；",
       "primaryGenreName": "Lifestyle",
       "primaryGenreId": 6012,
-      "sellerName": "Wuxi Xiaojing Sharing Network Technology Co., Ltd",
-      "trackId": 1142157881,
-      "trackName": "U净-创造便利 传递快乐",
-      "userRatingCount": 12410,
+      "userRatingCount": 12461,
       "country": "CHN"
     }
   ]
