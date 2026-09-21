@@ -200,7 +200,6 @@
       "userRatingCount": 67214
     },
     {
-      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ef/4d/f7/ef4df74e-3612-c9e3-b9b1-f5a208ffd86a/iphone-1_opaque.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/13/60/e9/1360e95f-10bc-cfb0-4a78-8871ae8a6ec1/iphone-2_opaque.png/320x480bb.jpg",
@@ -216,7 +215,8 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/31/7f/ea/317feaeb-c3b4-8c9d-fe85-9bda93c2a901/ipad-5_no_alpha.png/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/c8/c6/24c8c651-f281-3b39-18bf-774950ab1284/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/b4/d1/10b4d191-3d8d-57dd-0e43-fd0e333889e9/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
+      "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
       ],
@@ -355,21 +355,20 @@
       "advisories": [],
       "kind": "software",
       "artistViewUrl": "https://apps.apple.com/us/developer/hotschedules/id294934061?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/c8/c6/24c8c651-f281-3b39-18bf-774950ab1284/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/c8/c6/24c8c651-f281-3b39-18bf-774950ab1284/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.jpg",
-      "releaseNotes": "- Bug fixes & performance improvements",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/b4/d1/10b4d191-3d8d-57dd-0e43-fd0e333889e9/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/b4/d1/10b4d191-3d8d-57dd-0e43-fd0e333889e9/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.jpg",
+      "averageUserRatingForCurrentVersion": 4.59985,
       "sellerUrl": "http://www.hotschedules.com",
-      "averageUserRatingForCurrentVersion": 4.60013,
       "languageCodesISO2A": [
         "EN",
         "FR",
         "ES"
       ],
-      "fileSizeBytes": "61399040",
+      "fileSizeBytes": "61427712",
       "formattedPrice": "$2.99",
-      "userRatingCountForCurrentVersion": 67271,
+      "userRatingCountForCurrentVersion": 67291,
       "trackContentRating": "12+",
-      "minimumOsVersion": "17.1",
+      "releaseNotes": "- Bug fixes & performance improvements",
       "artistId": 294934061,
       "artistName": "HotSchedules",
       "genres": [
@@ -377,26 +376,27 @@
       ],
       "price": 2.99,
       "bundleId": "com.hotschedules.hotschedules",
-      "releaseDate": "2008-10-31T05:30:52Z",
-      "trackId": 294934058,
-      "trackName": "HotSchedules",
       "genreIds": [
         "6000"
       ],
+      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseDate": "2008-10-31T05:30:52Z",
+      "sellerName": "HotSchedules",
       "primaryGenreName": "Business",
       "primaryGenreId": 6000,
-      "sellerName": "HotSchedules",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-09-12T06:49:02Z",
-      "version": "6.0.1",
+      "trackId": 294934058,
+      "trackName": "HotSchedules",
+      "currentVersionReleaseDate": "2026-09-17T10:29:09Z",
+      "version": "6.0.2",
       "wrapperType": "software",
       "currency": "USD",
       "description": "HotSchedules is the industry's leading employee scheduling app because it’s the fastest and easiest way to manage your schedule and communicate with your team.  \n\nTeam members love it because they can swap, pick-up or release shifts with one click. Work-life balance is easily managed with automatic shift pick ups when you want more hours, and time off requests for when you don’t.  Calendar sync and notifications keep your Schedules and the roster automatically updated to your phone with any manager-approved changes.\n\nManagers appreciate the 75% time savings when building schedules and one-click approvals for shift changes.  The ability to monitor business performance with sales and labor snapshots from anywhere, keeps them out of the back office.  And most importantly, staying connected with broadcast and one-to-one messaging makes for a happy and productive team culture.\n \nNOTE: The HotSchedules application REQUIRES a valid HotSchedules user account through your employer.\n\nNeed help?  Contact Customer Care 24x7x365",
-      "averageUserRating": 4.60013,
+      "minimumOsVersion": "17.1",
       "contentAdvisoryRating": "12+",
+      "averageUserRating": 4.59985,
       "trackCensoredName": "HotSchedules",
       "trackViewUrl": "https://apps.apple.com/us/app/hotschedules/id294934058?uo=4",
-      "userRatingCount": 67271,
+      "userRatingCount": 67291,
       "country": "USA"
     }
   ]

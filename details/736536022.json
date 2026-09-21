@@ -223,17 +223,6 @@
     },
     {
       "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [
-        "偶尔/轻微的模拟赌博",
-        "偶尔/轻微的烟酒或毒品使用或相关内容",
-        "偶尔/轻微的现实暴力",
-        "偶尔/轻微的惊悚或恐怖题材",
-        "偶尔/轻微的色情内容或裸露",
-        "偶尔/轻微的卡通或幻想暴力"
-      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -366,37 +355,48 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "advisories": [
+        "偶尔/轻微的现实暴力",
+        "偶尔/轻微的卡通或幻想暴力",
+        "偶尔/轻微的色情内容或裸露",
+        "偶尔/轻微的惊悚或恐怖题材",
+        "偶尔/轻微的模拟赌博",
+        "偶尔/轻微的烟酒或毒品使用或相关内容"
+      ],
       "kind": "software",
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cf/bd/c3/cfbdc39f-c032-1ead-0c92-0d613f1aa3a4/1_U6d77_U91cf_U89c6_U9891.jpg/552x414bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7e/c1/14/7ec1141f-e783-fa70-a60f-accc081350af/2_U8ffd_U756a_U795e_U5668.jpg/552x414bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4e/fa/69/4efa69b0-8cb2-35f4-c7c8-aeb69646ab28/3_U5f39_U5e55_U72c2_U6b22.jpg/552x414bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ff/bb/b8/ffbbb861-ca8d-1bd1-fdea-cae35f68ce9a/4_U64ad_U653e_U9875.jpg/552x414bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a7/ce/d0/a7ced019-db39-5b52-2593-80e6df319c7d/5__U51e1_U4eba_U4fee_U4ed9_U4f20.jpg/552x414bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0d/39/c5/0d39c531-9cf8-2189-f95e-31092e002a50/6__U65f6_U5149_U4ee3_U7406_U4eba__U7b2c_U4e09_U5b63.jpg/552x414bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/60/4c/f5604c12-a4ae-9d0a-0e50-f1dc1f72b175/7__U8d22_U795e_U7aa6_U5360_U9f99.jpg/552x414bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ab/b6/d0/abb6d03c-57b8-4371-cd67-20008b214ca1/8_U77e5_U8bc6.jpg/552x414bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/78/5d/51/785d5164-62e6-a3d5-291c-a04ceacb59cb/9_U6e38_U620f.jpg/552x414bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3b/0e/35/3b0e3584-0e59-5515-5dad-d23302fc5ff6/10_U8fd0_U52a8.jpg/552x414bb.jpg"
+      "artistViewUrl": "https://apps.apple.com/cn/developer/bilibili/id736535969?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/8d/9c/c58d9cbb-7d9c-8e05-4b81-74a950b559c9/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/8d/9c/c58d9cbb-7d9c-8e05-4b81-74a950b559c9/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c6/1b/f8/c61bf8eb-33dc-7578-70c8-0fac783d9c23/1__U51e1_U4eba_U4fee_U4ed9_U4f20.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7c/d8/89/7cd889c3-3acd-eaae-5195-c171fb8c6d5c/3__U8d22_U795e_U7aa6_U5360_U9f99.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/76/0c/b2/760cb20b-942c-fbee-24e8-1aba69746c6a/3__U633d_U6551_U8ba1_U5212.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/02/30/a3/0230a320-1413-24fd-9b9c-4c481b014206/4_U77e5_U8bc6.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0b/0b/5c/0b0b5c1d-eb75-f7bd-d605-31655540dc9e/5_U6e38_U620f.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0a/81/d5/0a81d534-c091-5dc0-28c4-e200c0d8e763/6_U8fd0_U52a8.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9f/e9/a1/9fe9a10e-6d04-cb68-cf40-1e37aaf58a33/7_U6d77_U91cf_U89c6_U9891.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/14/c8/78/14c87811-7dfe-c965-cba9-0e9587ad1e23/8_U8ffd_U756a_U795e_U5668.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9d/e7/01/9de7019d-15b3-270f-7622-8f0a108eda9d/9__U624b_U529e_U5468_U8fb9.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e2/73/c0/e273c0b7-3a18-8781-5953-1cf743440ab6/10_U7cbe_U5f69_U76f4_U64ad.jpg/392x696bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/53/44/df53445a-5de2-2bbf-cdaa-dd7aa27f4004/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/97/96/a0/9796a0c9-ee85-b5be-ae92-5cd2a967efc8/1__U51e1_U4eba_U4fee_U4ed9_U4f20.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5d/98/de/5d98de45-f97e-61d6-2ba2-c18d2e03d899/2__U65f6_U5149_U4ee3_U7406_U4eba__U7b2c_U4e09_U5b63.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/87/0d/09/870d09b2-1580-4806-aea0-827ac3b84859/3__U8d22_U795e_U7aa6_U5360_U9f99.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c6/32/81/c6328186-8e78-7875-88ea-4f52797c5808/4_U77e5_U8bc6.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7c/9b/8f/7c9b8f8d-71df-49bc-e57b-10739c460c90/5_U6e38_U620f.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6b/ee/ad/6beeadfe-8461-fa4d-dee3-1857e2bb2c73/6_U8fd0_U52a8.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3b/6d/43/3b6d4346-c8b3-0c21-131b-e0c45b2d7ad2/7_U6d77_U91cf_U89c6_U9891.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f0/02/93/f00293a4-fe12-b24f-b20f-9ec40a98e74b/8_U8ffd_U756a_U795e_U5668.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b8/5a/3b/b85a3b7c-5521-bd26-3d8d-7d8a44437ffe/9__U624b_U529e_U5468_U8fb9.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/54/0e/68/540e682b-87f1-3e0a-c4c7-560b083e830c/10_U7cbe_U5f69_U76f4_U64ad.jpg/392x696bb.jpg"
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/8d/9c/c58d9cbb-7d9c-8e05-4b81-74a950b559c9/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d9/64/49/d9644987-907c-4bba-edb8-8dbd477fa853/1_U6d77_U91cf_U89c6_U9891.jpg/552x414bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/37/c6/87/37c68756-a90b-1aea-6ac8-26a243bbbb8a/2_U8ffd_U756a_U795e_U5668.jpg/552x414bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3a/c1/3f/3ac13fe9-23c5-9e04-cf16-203bc38447a2/3_U5f39_U5e55_U72c2_U6b22.jpg/552x414bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ef/e9/e0/efe9e0ff-1568-2964-77a3-8da982156bc3/4_U64ad_U653e_U9875.jpg/552x414bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c2/c0/e8/c2c0e860-1b95-9b96-919c-d2d53546ec12/5__U51e1_U4eba_U4fee_U4ed9_U4f20.jpg/552x414bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b9/b2/40/b9b24016-57a7-24a6-b53c-1c5407694bf8/7__U8d22_U795e_U7aa6_U5360_U9f99.jpg/552x414bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/36/ea/cd/36eacdc1-a690-8e3e-da79-411ce6f451a2/7__U633d_U6551_U8ba1_U5212.jpg/552x414bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/67/43/43/6743432b-b1fd-7e08-25b4-1f1ab75a89f8/8_U77e5_U8bc6.jpg/552x414bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/37/d9/a9/37d9a9b1-2a9c-41dc-7ef6-650052dda2ed/9_U6e38_U620f.jpg/552x414bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/03/da/62/03da62b2-d2e6-36cc-3293-588f8fadc8c5/10_U8fd0_U52a8.jpg/552x414bb.jpg"
       ],
-      "artistViewUrl": "https://apps.apple.com/cn/developer/bilibili/id736535969?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/53/44/df53445a-5de2-2bbf-cdaa-dd7aa27f4004/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/53/44/df53445a-5de2-2bbf-cdaa-dd7aa27f4004/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
-      "releaseNotes": "-我们优化了此版本的使用体验！\n-朋友们开学快乐！",
+      "minimumOsVersion": "14.0",
       "genres": [
         "娱乐",
         "摄影与录像"
@@ -404,18 +404,28 @@
       "artistId": 736535969,
       "artistName": "bilibili",
       "price": 0,
-      "releaseDate": "2013-11-09T21:17:14Z",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "trackId": 736536022,
-      "trackName": "哔哩哔哩-弹幕番剧直播高清视频",
+      "genreIds": [
+        "6016",
+        "6008"
+      ],
       "primaryGenreName": "Entertainment",
       "primaryGenreId": 6016,
+      "trackId": 736536022,
+      "trackName": "哔哩哔哩-弹幕番剧直播高清视频",
       "sellerName": "Shanghai Bilibili Animation Co.,Ltd",
-      "currentVersionReleaseDate": "2026-09-08T11:15:03Z",
-      "version": "9.11.0",
+      "releaseNotes": "-我追踪的、棘手的、复杂的、有挑战性的、我头疼的bug，我修复好了！\n-认真学习了定语从句。",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseDate": "2013-11-09T21:17:14Z",
+      "currentVersionReleaseDate": "2026-09-15T11:57:34Z",
+      "version": "9.12.0",
       "wrapperType": "software",
       "currency": "CNY",
-      "description": "国产动画】\n《凡人修仙传 年番》慕兰大军压境，黄龙山战役韩立一战成名。\n《牧神记》霸体少年初入世，掀起延康浩荡风云。\n《时光代理人 第三季 PART ONE》过去的真相，即将逐渐揭开...\n《财神窦占龙》命里因果，皆是交换。\n《有兽焉 第六季》蝉鸣盛夏，鹿人店重启！\n《请吃红小豆吧！第五季》不是四季豆，是五季豆！\n\n【番剧动画】\n成为勇者拯救世界，才是惩罚真正的开始，《判处勇者刑》正在热播！\n轻松快乐又隐有酸涩，像极了青春！《正相反的你与我》甜蜜上映中！\n变身骑士拯救世界，《假面骑士ZZZ》任务继续！\n还有海量精彩番剧内容等着你，快来与小伙伴们一同观看吧！！\n\n【电影】\n《挽救计划》热播中，Amaze！宇宙搭子拯救恒星！\n《洛杉矶劫案》热播中，超级英雄集结！雷神大战绿巨人？！\n《火遮眼》热播中，真打真干真玩命！顶级动作流派盛宴！\n《迈克尔·杰克逊：巨星之路》热播中，流行天王的传奇成长之路！\n《海绵宝宝：皮老板大电影》热播中，和海绵宝宝一起拯救比奇堡！\n《寂静的朋友》热播中，梁朝伟与树的秘密！\n\n【电视剧】\n《疑犯追踪》B站热播中！AI预判凶案，天才与特工暗夜救赎，反转迭起，硬核封神！\n《昭阳公主》独播中！寒门学子李宏毅意外与公主孔雪儿一夜春风后却被抛弃？看状元面首与执政公主相爱相杀！\n《流星花园》B站热播中！杂草少女邂逅霸道少爷，杉菜道明寺青涩初恋浪漫上演！\n《屌丝女士》系列B站持续热播中！精神状态遥遥领先的屌丝女士来袭，名场面一波接一波笑到停不下来！\n《心间错》朱正廷怀揣半心，意外邂逅千年灵柳哈妮克孜，奇案迭起，精怪横行！全网独播中！\n《小谢尔顿》全系列B站精彩上线！走进谢尔顿的童年时光，天才的童年究竟是什么模样？\n\n【纪录片】\n《进化》BBC全新巨制！讲述生命的演化历程\n《守护解放西·探案季》全网独播，守护不打烊！\n《吴承恩与西游记》和大圣一起重走取经路\n《奥德赛：从神话到科学》荷马史诗背后的故事\n《一线》《天网》系列看各种刑事案件侦破过程！\n《荒野独居》系列全网独播！单挑荒野赢大奖！\n还有3000+部纪录片等你来看～\n\n【综艺】\n《KPL系列团综：时差五小时3》独家热播！每周一中午12:00，和电竞少年们开启奇妙旅程！\n《天赐的声音 第七季》震撼开播！每周五20：50 B站同步播出，实力歌手组队竞演！\n《你好时光 第二季》温暖回归！每周六19:30，尼格买提撒贝宁再启新程！\n《打歌2026·X舞台》强势开播！每周五晚B站同步播出，实力歌手集结打歌，直播全开麦现场对决！\n《星愿时刻 与爱同频 2026时代少年团主题系列直播》时代少年团生日直播只在B站~2026年继续一起庆生！\n《金石探文明》以金石文物为钥，探寻文物背后的历史脉络，解锁中华文明的千年密码！\n\n【等等..这里是哔哩哔哩吗？！】\n哔哩哔哩追求做更多年轻人的潮流文化娱乐社区，常被动漫迷们昵称为bilibili，\"B站\"，“最大同?”（划掉。\n致力于ACG等娱乐领域内原创及二创的内容分享，集结精彩番剧、萌宅直播、经典影视、硬核游戏、数码评测、迷人宅舞、原创音乐、深度专栏、动人相簿、时尚美妆、搞笑日常、猫党狗党萌宠养成等海量精彩内容，更有鬼畜调教等神秘势力~~\n\n【秘技！核心玩法放送！】\n- 欢乐精彩的弹幕评论，组队发射更多弹幕\n- 丰富的番剧、国产动画内容，快速获得大量能量\n- 超多原创好评的专栏文章，下一个文豪就是你\n- 原创新鲜投稿，从今天开始成为偶像！\n\n【装备需要】\n推荐在获得Wi-Fi环境的buff下观看,更流畅更省流量\n装备技能要求:iOS11.0及以上\n\n【连续包月大会员说明】\n1、服务名称：连续包月大会员\n2、价格：15元/月\n3、购买连续包月大会员的账号，会在每个月到期前24小时，自动在iTunes账户扣费并延长1个月大会员有效期。\n4、如需取消订阅，请手动打开苹果手机“设置”-->进入“iTunes Store与App Store”-->点击“Apple ID”，选择“查看Apple ID”，进入“账户设置”页面，点击“订阅”，选择连续包月大会员取消订阅即可。如未在订阅期结束的至少24小时前关闭订阅，此订阅将会自动续订。\n5、服务协议（含连续包月服务规则）：https://www.bilibili.com/blackboard/big-protocol.html#monthly\n6、隐私协议：https://www.bilibili.com/blackboard/privacy-h5.html",
+      "description": "国产动画】\n《凡人修仙传 年番》慕兰大军压境，黄龙山战役韩立一战成名。\n《牧神记》霸体少年初入世，掀起延康浩荡风云。\n《时光代理人 第三季 PART ONE》过去的真相，即将逐渐揭开...\n《财神窦占龙》命里因果，皆是交换。\n《有兽焉 第六季》蝉鸣盛夏，鹿人店重启！\n《请吃红小豆吧！第五季》不是四季豆，是五季豆！\n\n【番剧动画】\n成为勇者拯救世界，才是惩罚真正的开始，《判处勇者刑》正在热播！\n轻松快乐又隐有酸涩，像极了青春！《正相反的你与我》甜蜜上映中！\n变身骑士拯救世界，《假面骑士ZZZ》任务继续！\n还有海量精彩番剧内容等着你，快来与小伙伴们一同观看吧！！\n\n【电影】\n《挽救计划》热播中，Amaze！宇宙搭子拯救恒星！\n《揭秘日》热播中，斯皮尔伯格新作，外星爷到底说了啥？\n《洛杉矶劫案》热播中，超级英雄集结！雷神大战绿巨人？！\n《火遮眼》热播中，真打真干真玩命！顶级动作流派盛宴！\n《海绵宝宝：皮老板大电影》热播中，和海绵宝宝一起拯救比奇堡！\n《寂静的朋友》热播中，梁朝伟与树的秘密！\n《奇门遁甲：逢凶化吉》热播中，老乞丐竟是东方幻术大佬！\n\n【电视剧】\n《疑犯追踪》B站热播中！AI预判凶案，天才与特工暗夜救赎，反转迭起，硬核封神！\n《昭阳公主》独播中！寒门学子李宏毅意外与公主孔雪儿一夜春风后却被抛弃？看状元面首与执政公主相爱相杀！\n《流星花园》B站热播中！杂草少女邂逅霸道少爷，杉菜道明寺青涩初恋浪漫上演！\n《屌丝女士》系列B站持续热播中！精神状态遥遥领先的屌丝女士来袭，名场面一波接一波笑到停不下来！\n《心间错》朱正廷怀揣半心，意外邂逅千年灵柳哈妮克孜，奇案迭起，精怪横行！全网独播中！\n《小谢尔顿》全系列B站精彩上线！走进谢尔顿的童年时光，天才的童年究竟是什么模样？\n\n【纪录片】\n《生命奇观2》无穷小亮带你探寻多处秘境\n《中国救护2》深入深圳120院前急救一线\n《进化》BBC全新巨制！讲述生命的演化历程\n《奥德赛：从神话到科学》荷马史诗背后的故事\n《一线》《天网》系列看各种刑事案件侦破过程！\n《人生七年》豆瓣9分全系列尽在B站！\n还有3000+部纪录片等你来看～\n\n【综艺】\n《KPL系列团综：时差五小时3》独家热播！每周一中午12:00，和电竞少年们开启奇妙旅程！\n《天赐的声音 第七季》震撼开播！每周五20：50 B站同步播出，实力歌手组队竞演！\n《你好时光 第二季》温暖回归！每周六19:30，尼格买提撒贝宁再启新程！\n《打歌2026·X舞台》强势开播！每周五晚B站同步播出，实力歌手集结打歌，直播全开麦现场对决！\n《星愿时刻 与爱同频 2026时代少年团主题系列直播》时代少年团生日直播只在B站~2026年继续一起庆生！\n《金石探文明》以金石文物为钥，探寻文物背后的历史脉络，解锁中华文明的千年密码！\n\n【等等..这里是哔哩哔哩吗？！】\n哔哩哔哩追求做更多年轻人的潮流文化娱乐社区，常被动漫迷们昵称为bilibili，\"B站\"，“最大同?”（划掉。\n致力于ACG等娱乐领域内原创及二创的内容分享，集结精彩番剧、萌宅直播、经典影视、硬核游戏、数码评测、迷人宅舞、原创音乐、深度专栏、动人相簿、时尚美妆、搞笑日常、猫党狗党萌宠养成等海量精彩内容，更有鬼畜调教等神秘势力~~\n\n【秘技！核心玩法放送！】\n- 欢乐精彩的弹幕评论，组队发射更多弹幕\n- 丰富的番剧、国产动画内容，快速获得大量能量\n- 超多原创好评的专栏文章，下一个文豪就是你\n- 原创新鲜投稿，从今天开始成为偶像！\n\n【装备需要】\n推荐在获得Wi-Fi环境的buff下观看,更流畅更省流量\n装备技能要求:iOS11.0及以上\n\n【连续包月大会员说明】\n1、服务名称：连续包月大会员\n2、价格：15元/月\n3、购买连续包月大会员的账号，会在每个月到期前24小时，自动在iTunes账户扣费并延长1个月大会员有效期。\n4、如需取消订阅，请手动打开苹果手机“设置”-->进入“iTunes Store与App Store”-->点击“Apple ID”，选择“查看Apple ID”，进入“账户设置”页面，点击“订阅”，选择连续包月大会员取消订阅即可。如未在订阅期结束的至少24小时前关闭订阅，此订阅将会自动续订。\n5、服务协议（含连续包月服务规则）：https://www.bilibili.com/blackboard/big-protocol.html#monthly\n6、隐私协议：https://www.bilibili.com/blackboard/privacy-h5.html",
+      "trackCensoredName": "哔哩哔哩-弹幕番剧直播高清视频",
+      "trackViewUrl": "https://apps.apple.com/cn/app/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9-%E5%BC%B9%E5%B9%95%E7%95%AA%E5%89%A7%E7%9B%B4%E6%92%AD%E9%AB%98%E6%B8%85%E8%A7%86%E9%A2%91/id736536022?uo=4",
+      "contentAdvisoryRating": "12+",
+      "averageUserRating": 4.77067,
+      "bundleId": "tv.danmaku.bilianime",
       "languageCodesISO2A": [
         "AR",
         "EN",
@@ -431,22 +441,12 @@
         "TR",
         "VI"
       ],
-      "fileSizeBytes": "751459328",
+      "fileSizeBytes": "755350528",
       "formattedPrice": "免费",
+      "userRatingCountForCurrentVersion": 7541849,
       "trackContentRating": "12+",
-      "userRatingCountForCurrentVersion": 7526323,
-      "averageUserRatingForCurrentVersion": 4.77064,
-      "averageUserRating": 4.77064,
-      "bundleId": "tv.danmaku.bilianime",
-      "minimumOsVersion": "14.0",
-      "trackCensoredName": "哔哩哔哩-弹幕番剧直播高清视频",
-      "trackViewUrl": "https://apps.apple.com/cn/app/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9-%E5%BC%B9%E5%B9%95%E7%95%AA%E5%89%A7%E7%9B%B4%E6%92%AD%E9%AB%98%E6%B8%85%E8%A7%86%E9%A2%91/id736536022?uo=4",
-      "contentAdvisoryRating": "12+",
-      "genreIds": [
-        "6016",
-        "6008"
-      ],
-      "userRatingCount": 7526323,
+      "averageUserRatingForCurrentVersion": 4.77067,
+      "userRatingCount": 7541849,
       "country": "CHN"
     },
     {

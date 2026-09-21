@@ -188,8 +188,9 @@
       "artistViewUrl": "https://apps.apple.com/cn/developer/the-boring-lab-limited/id1869238759?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/de/2e/39/de2e392d-3fa0-c74c-9446-f81586d1a7e1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/de/2e/39/de2e392d-3fa0-c74c-9446-f81586d1a7e1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
-      "isGameCenterEnabled": false,
-      "advisories": [],
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -322,10 +323,9 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "isGameCenterEnabled": false,
+      "advisories": [],
       "kind": "software",
-      "features": [
-        "iosUniversal"
-      ],
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/56/15/8c/56158c21-a6a6-a9d0-234c-36442602b1c6/IMG_7072.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/aa/a4/66/aaa46606-b10e-9f60-3e23-cb736eaad378/IMG_7076.png/320x480bb.jpg",
@@ -346,24 +346,26 @@
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/de/2e/39/de2e392d-3fa0-c74c-9446-f81586d1a7e1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "trackCensoredName": "Neko Dash - Just a Dashboard",
-      "averageUserRating": 4.36364,
       "trackViewUrl": "https://apps.apple.com/cn/app/neko-dash-just-a-dashboard/id6758199321?uo=4",
       "contentAdvisoryRating": "4+",
-      "genres": [
-        "工具",
-        "软件开发工具"
-      ],
-      "price": 0,
-      "bundleId": "cc.boring-lab.clashMate",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "sellerName": "THE BORING LAB LIMITED",
-      "releaseDate": "2026-02-10T08:00:00Z",
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
-      "trackId": 6758199321,
-      "trackName": "Neko Dash - Just a Dashboard",
+      "averageUserRating": 4.36364,
       "currentVersionReleaseDate": "2026-07-24T22:51:39Z",
       "releaseNotes": "注意：此 App 非代理工具，非 VPN 应用， App 提供 7 天免费使用，请充分使用该 App 确认为你所需才进行付费购买，谢谢。\n\n更新内容：\n1. 已购 Neko Dash Pro 用户可自行在 App 申请 TestFlight。\n2. 另修复诸多问题。",
+      "minimumOsVersion": "14.0",
+      "artistId": 1869238759,
+      "artistName": "THE BORING LAB LIMITED",
+      "price": 0,
+      "trackId": 6758199321,
+      "trackName": "Neko Dash - Just a Dashboard",
+      "releaseDate": "2026-02-10T08:00:00Z",
+      "genreIds": [
+        "6002",
+        "6026"
+      ],
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
+      "sellerName": "THE BORING LAB LIMITED",
+      "isVppDeviceBasedLicensingEnabled": true,
       "version": "2.0.5",
       "wrapperType": "software",
       "currency": "CNY",
@@ -373,16 +375,14 @@
       ],
       "fileSizeBytes": "40569856",
       "formattedPrice": "免费",
-      "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.36364,
-      "minimumOsVersion": "14.0",
       "userRatingCountForCurrentVersion": 11,
-      "genreIds": [
-        "6002",
-        "6026"
+      "trackContentRating": "4+",
+      "bundleId": "cc.boring-lab.clashMate",
+      "averageUserRatingForCurrentVersion": 4.36364,
+      "genres": [
+        "工具",
+        "软件开发工具"
       ],
-      "artistId": 1869238759,
-      "artistName": "THE BORING LAB LIMITED",
       "userRatingCount": 11,
       "country": "CHN"
     }

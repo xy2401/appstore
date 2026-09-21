@@ -207,8 +207,9 @@
       "artistViewUrl": "https://apps.apple.com/cn/developer/shanghai-jiyou-network-technology-company-limited/id1593657078?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/85/ed/8e85ed8d-131b-15be-5cac-b83a88b42d6a/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/85/ed/8e85ed8d-131b-15be-5cac-b83a88b42d6a/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.jpg",
-      "isGameCenterEnabled": false,
-      "advisories": [],
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -341,10 +342,9 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "isGameCenterEnabled": false,
+      "advisories": [],
       "kind": "software",
-      "features": [
-        "iosUniversal"
-      ],
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/51/d6/ed/51d6ed94-a8f6-dcac-2ca7-55a48ee67fb5/8008b2af-2a78-4edb-96b4-80d6f57fa735__U9ec4_U53865.5.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/29/8c/9a/298c9a49-7eac-0f11-dce3-158b84151f5b/eb166cf7-ff53-4a11-abe5-d227ea6fc6db__U4e07_U5e74_U53865.5.png/392x696bb.png",
@@ -368,24 +368,26 @@
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/85/ed/8e85ed8d-131b-15be-5cac-b83a88b42d6a/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
       "trackCensoredName": "小黄历-传统文化手撕黄历日历万年历正宗黄道吉日",
-      "averageUserRating": 4.8606,
       "trackViewUrl": "https://apps.apple.com/cn/app/%E5%B0%8F%E9%BB%84%E5%8E%86-%E4%BC%A0%E7%BB%9F%E6%96%87%E5%8C%96%E6%89%8B%E6%92%95%E9%BB%84%E5%8E%86%E6%97%A5%E5%8E%86%E4%B8%87%E5%B9%B4%E5%8E%86%E6%AD%A3%E5%AE%97%E9%BB%84%E9%81%93%E5%90%89%E6%97%A5/id6444561231?uo=4",
       "contentAdvisoryRating": "4+",
-      "genres": [
-        "效率",
-        "工具"
-      ],
-      "price": 8,
-      "bundleId": "com.PP.ChinaCalendar",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "sellerName": "Shanghai Jiyou Network Technology Company Limited",
-      "releaseDate": "2022-12-05T08:00:00Z",
-      "primaryGenreName": "Productivity",
-      "primaryGenreId": 6007,
-      "trackId": 6444561231,
-      "trackName": "小黄历-传统文化手撕黄历日历万年历正宗黄道吉日",
+      "averageUserRating": 4.85923,
       "currentVersionReleaseDate": "2026-07-13T01:03:11Z",
       "releaseNotes": "修复已知问题，优化用户体验。",
+      "minimumOsVersion": "11.0",
+      "artistId": 1593657078,
+      "artistName": "Shanghai Jiyou Network Technology Company Limited",
+      "price": 8,
+      "trackId": 6444561231,
+      "trackName": "小黄历-传统文化手撕黄历日历万年历正宗黄道吉日",
+      "releaseDate": "2022-12-05T08:00:00Z",
+      "genreIds": [
+        "6007",
+        "6002"
+      ],
+      "primaryGenreName": "Productivity",
+      "primaryGenreId": 6007,
+      "sellerName": "Shanghai Jiyou Network Technology Company Limited",
+      "isVppDeviceBasedLicensingEnabled": true,
       "version": "2.9.2",
       "wrapperType": "software",
       "currency": "CNY",
@@ -396,17 +398,15 @@
       ],
       "fileSizeBytes": "62992384",
       "formattedPrice": "¥8.00",
+      "userRatingCountForCurrentVersion": 2607,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.8606,
-      "minimumOsVersion": "11.0",
-      "userRatingCountForCurrentVersion": 2604,
-      "genreIds": [
-        "6007",
-        "6002"
+      "bundleId": "com.PP.ChinaCalendar",
+      "averageUserRatingForCurrentVersion": 4.85923,
+      "genres": [
+        "效率",
+        "工具"
       ],
-      "artistId": 1593657078,
-      "artistName": "Shanghai Jiyou Network Technology Company Limited",
-      "userRatingCount": 2604,
+      "userRatingCount": 2607,
       "country": "CHN"
     }
   ]

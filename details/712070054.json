@@ -2,19 +2,18 @@
   "resultCount": 1,
   "results": [
     {
-      "artistViewUrl": "https://apps.apple.com/fr/developer/alban-huguet/id501976354?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/cc/87/d8cc8757-b9e3-1575-8a5d-fff9d69fd371/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/cc/87/d8cc8757-b9e3-1575-8a5d-fff9d69fd371/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/31/b3/ff31b3d0-afad-e56f-d810-0dcb4fe21e34/pr_source.jpg/392x696bb.jpg"
       ],
-      "isGameCenterEnabled": false,
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/c4/71/5ac47116-c226-4a9e-cfe7-3e0b3322fb73/mzl.bvecxdhg.png/576x768bb.png"
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/cc/87/d8cc8757-b9e3-1575-8a5d-fff9d69fd371/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg",
-      "advisories": [],
+      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -142,51 +141,55 @@
         "iPadAir11M4-iPadAir11M4",
         "iPadAir11M4Cellular-iPadAir11M4Cellular",
         "iPadAir13M4-iPadAir13M4",
-        "iPadAir13M4Cellular-iPadAir13M4Cellular"
+        "iPadAir13M4Cellular-iPadAir13M4Cellular",
+        "iPhone18Pro-iPhone18Pro",
+        "iPhone18ProMax-iPhone18ProMax",
+        "iPhoneDuo-iPhoneDuo"
       ],
+      "advisories": [],
       "kind": "software",
-      "features": [
-        "iosUniversal"
-      ],
-      "averageUserRating": 3.30216,
-      "contentAdvisoryRating": "4+",
-      "averageUserRatingForCurrentVersion": 3.30216,
-      "releaseNotes": "L'affichage du calendrier a été entièrement recodé pour permettre une meilleure fluidité et pour supprimer le bug persistant lors du défilement.",
+      "artistViewUrl": "https://apps.apple.com/fr/developer/alban-huguet/id501976354?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/cc/87/d8cc8757-b9e3-1575-8a5d-fff9d69fd371/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/cc/87/d8cc8757-b9e3-1575-8a5d-fff9d69fd371/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.jpg",
+      "sellerUrl": "http://pardalissoftware.free.fr/cal42",
       "languageCodesISO2A": [
         "EN"
       ],
-      "sellerUrl": "http://pardalissoftware.free.fr/cal42",
       "fileSizeBytes": "2609152",
       "formattedPrice": "1,99 €",
       "userRatingCountForCurrentVersion": 139,
       "trackContentRating": "4+",
+      "averageUserRatingForCurrentVersion": 3.30216,
+      "price": 1.99,
+      "artistId": 501976354,
+      "artistName": "alban huguet",
       "genres": [
         "Utilitaires",
         "Économie et entreprise"
       ],
-      "artistId": 501976354,
-      "artistName": "alban huguet",
-      "bundleId": "com.pardalis.cal42plus",
-      "trackName": "Cal42 Plus",
       "trackId": 712070054,
-      "releaseDate": "2013-09-29T02:29:42Z",
+      "trackName": "Cal42 Plus",
+      "releaseNotes": "L'affichage du calendrier a été entièrement recodé pour permettre une meilleure fluidité et pour supprimer le bug persistant lors du défilement.",
       "currentVersionReleaseDate": "2025-01-17T20:23:41Z",
+      "sellerName": "Alban HUGUET",
       "isVppDeviceBasedLicensingEnabled": true,
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
+      "genreIds": [
+        "6002",
+        "6000"
+      ],
       "version": "3.7",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Cal42 Plus permet à toutes les personnes qui travaillent sur des cycles de travail atypiques de savoir comment elles travailleront à une date donnée.\nCal42 Plus s'adapte à tous les corps de métier ne travaillant pas en régime hebdomadaire, avec des cycles de travail tels que 3/3 ou tous types des cycles irréguliers.\n\nCréez votre cycle dans la page d'options et Cal42 Plus fera le reste...\n\n- Affichage du cycle en couleur.\n- Possibilité de prendre une petite note pour chaque jour.",
       "minimumOsVersion": "15.6",
+      "bundleId": "com.pardalis.cal42plus",
+      "averageUserRating": 3.30216,
       "trackCensoredName": "Cal42 Plus",
       "trackViewUrl": "https://apps.apple.com/fr/app/cal42-plus/id712070054?uo=4",
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
-      "sellerName": "Alban HUGUET",
-      "price": 1.99,
-      "genreIds": [
-        "6002",
-        "6000"
-      ],
+      "contentAdvisoryRating": "4+",
+      "releaseDate": "2013-09-29T02:29:42Z",
       "userRatingCount": 139,
       "country": "FRA"
     }

@@ -194,10 +194,10 @@
       "userRatingCount": 1603
     },
     {
+      "artistViewUrl": "https://apps.apple.com/jp/developer/kaikatsu-frontier-inc/id958083642?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/2f/cb/002fcb4f-8e48-8e4f-92cb-5edf4905856f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/2f/cb/002fcb4f-8e48-8e4f-92cb-5edf4905856f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -325,7 +325,10 @@
         "iPadAir11M4-iPadAir11M4",
         "iPadAir11M4Cellular-iPadAir11M4Cellular",
         "iPadAir13M4-iPadAir13M4",
-        "iPadAir13M4Cellular-iPadAir13M4Cellular"
+        "iPadAir13M4Cellular-iPadAir13M4Cellular",
+        "iPhone18Pro-iPhone18Pro",
+        "iPhone18ProMax-iPhone18ProMax",
+        "iPhoneDuo-iPhoneDuo"
       ],
       "advisories": [],
       "kind": "software",
@@ -344,23 +347,29 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/2f/cb/002fcb4f-8e48-8e4f-92cb-5edf4905856f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/2f/cb/002fcb4f-8e48-8e4f-92cb-5edf4905856f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/2f/cb/002fcb4f-8e48-8e4f-92cb-5edf4905856f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/jp/developer/kaikatsu-frontier-inc/id958083642?uo=4",
-      "bundleId": "jp.kaikatsu.official",
-      "minimumOsVersion": "15.1",
+      "features": [
+        "iosUniversal"
+      ],
+      "trackCensoredName": "快活CLUB公式アプリ",
+      "trackViewUrl": "https://apps.apple.com/jp/app/%E5%BF%AB%E6%B4%BBclub%E5%85%AC%E5%BC%8F%E3%82%A2%E3%83%97%E3%83%AA/id958083643?uo=4",
+      "averageUserRating": 2.22481,
+      "contentAdvisoryRating": "4+",
+      "artistId": 958083642,
+      "artistName": "KAIKATSU FRONTIER Inc.",
       "genres": [
         "ライフスタイル"
       ],
-      "artistId": 958083642,
-      "artistName": "KAIKATSU FRONTIER Inc.",
       "price": 0,
+      "releaseDate": "2015-05-16T15:40:28Z",
       "trackId": 958083643,
       "trackName": "快活CLUB公式アプリ",
+      "genreIds": [
+        "6012"
+      ],
       "primaryGenreName": "Lifestyle",
       "primaryGenreId": 6012,
       "sellerName": "KAIKATSU FRONTIER Inc.",
-      "releaseDate": "2015-05-16T15:40:28Z",
+      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-05-20T01:24:42Z",
       "releaseNotes": "軽微な不具合の修正",
       "version": "3.2.20",
@@ -372,18 +381,12 @@
       ],
       "fileSizeBytes": "46743552",
       "formattedPrice": "無料",
-      "userRatingCountForCurrentVersion": 1615,
+      "userRatingCountForCurrentVersion": 1628,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 2.2291,
-      "trackCensoredName": "快活CLUB公式アプリ",
-      "averageUserRating": 2.2291,
-      "trackViewUrl": "https://apps.apple.com/jp/app/%E5%BF%AB%E6%B4%BBclub%E5%85%AC%E5%BC%8F%E3%82%A2%E3%83%97%E3%83%AA/id958083643?uo=4",
-      "contentAdvisoryRating": "4+",
-      "genreIds": [
-        "6012"
-      ],
-      "isVppDeviceBasedLicensingEnabled": true,
-      "userRatingCount": 1615,
+      "averageUserRatingForCurrentVersion": 2.22481,
+      "minimumOsVersion": "15.1",
+      "bundleId": "jp.kaikatsu.official",
+      "userRatingCount": 1628,
       "country": "JPN"
     }
   ]

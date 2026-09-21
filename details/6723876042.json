@@ -190,6 +190,7 @@
       "userRatingCount": 6481
     },
     {
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/35/3a/e9/353ae9ae-38a3-5f4f-1724-495dc843ccc7/1.jpg/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d6/ee/1b/d6ee1b16-f784-2da2-a082-abb8fce25407/2.jpg/320x480bb.jpg",
@@ -207,10 +208,16 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/60/16/b7/6016b777-ec34-4419-93c5-8d3ce84cf948/AppIcon-prod-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "advisories": [
+        "頻繁／極度なホラーまたは恐怖に関するテーマ",
+        "まれ／軽度な成人向けまたはわいせつなテーマ",
+        "まれ／軽度なアニメまたはファンタジーバイオレンス",
+        "まれ／軽度な過激な言葉遣いまたは下品なユーモア"
+      ],
+      "kind": "software",
       "artistViewUrl": "https://apps.apple.com/jp/developer/flash-co-ltd/id1770505331?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/60/16/b7/6016b777-ec34-4419-93c5-8d3ce84cf948/AppIcon-prod-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/60/16/b7/6016b777-ec34-4419-93c5-8d3ce84cf948/AppIcon-prod-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
-      "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
       ],
@@ -346,52 +353,45 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [
-        "頻繁／極度なホラーまたは恐怖に関するテーマ",
-        "まれ／軽度な成人向けまたはわいせつなテーマ",
-        "まれ／軽度なアニメまたはファンタジーバイオレンス",
-        "まれ／軽度な過激な言葉遣いまたは下品なユーモア"
-      ],
-      "kind": "software",
-      "averageUserRatingForCurrentVersion": 4.34626,
-      "contentAdvisoryRating": "12+",
-      "formattedPrice": "無料",
-      "fileSizeBytes": "90749952",
+      "minimumOsVersion": "16.0",
+      "averageUserRatingForCurrentVersion": 4.34687,
       "sellerUrl": "https://flashinc.jp/",
-      "trackCensoredName": "ミリオン-ショートドラマ見放題人気ドラマアプリMillion",
-      "trackViewUrl": "https://apps.apple.com/jp/app/%E3%83%9F%E3%83%AA%E3%82%AA%E3%83%B3-%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%83%89%E3%83%A9%E3%83%9E%E8%A6%8B%E6%94%BE%E9%A1%8C%E4%BA%BA%E6%B0%97%E3%83%89%E3%83%A9%E3%83%9E%E3%82%A2%E3%83%97%E3%83%AAmillion/id6723876042?uo=4",
       "languageCodesISO2A": [
         "EN",
         "JA"
       ],
-      "userRatingCountForCurrentVersion": 7321,
+      "fileSizeBytes": "90749952",
+      "formattedPrice": "無料",
+      "userRatingCountForCurrentVersion": 7334,
       "trackContentRating": "12+",
-      "averageUserRating": 4.34626,
-      "artistId": 1770505331,
-      "artistName": "FLASH Co., Ltd.",
       "genres": [
         "エンターテインメント"
       ],
       "price": 0,
-      "bundleId": "com.flash.flashdramaApp",
-      "releaseDate": "2024-11-18T08:00:00Z",
+      "sellerName": "FLASH Co., Ltd.",
+      "isVppDeviceBasedLicensingEnabled": true,
       "genreIds": [
         "6016"
       ],
-      "trackName": "ミリオン-ショートドラマ見放題人気ドラマアプリMillion",
-      "trackId": 6723876042,
-      "releaseNotes": "いつもミリオンをご利用いただきありがとうございます。\n\n【今回のアップデート】\n・新しいアニメとドラマが追加されました。\n・軽微な不具合の修正とパフォーマンスの改善をしました。",
-      "currentVersionReleaseDate": "2026-09-07T02:14:52Z",
       "primaryGenreName": "Entertainment",
       "primaryGenreId": 6016,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "sellerName": "FLASH Co., Ltd.",
+      "releaseDate": "2024-11-18T08:00:00Z",
+      "currentVersionReleaseDate": "2026-09-07T02:14:52Z",
       "version": "0.1.75",
       "wrapperType": "software",
       "currency": "JPY",
       "description": "１話ごとにハラハラ楽しめる縦型ショートドラマアプリ\nミリオンに掲載されているドラマは１話2分以内で視聴可能です。\n電車に乗っている時間や、ちょっとした待ち時間など、隙間時間でも満足できるコンテンツを取り揃えています。\n恋愛、コメディ、ミステリー、ホラーなど、他では見られないオリジナル作品を配信中！",
-      "minimumOsVersion": "16.0",
-      "userRatingCount": 7321,
+      "trackCensoredName": "ミリオン-ショートドラマ見放題人気ドラマアプリMillion",
+      "trackViewUrl": "https://apps.apple.com/jp/app/%E3%83%9F%E3%83%AA%E3%82%AA%E3%83%B3-%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%83%89%E3%83%A9%E3%83%9E%E8%A6%8B%E6%94%BE%E9%A1%8C%E4%BA%BA%E6%B0%97%E3%83%89%E3%83%A9%E3%83%9E%E3%82%A2%E3%83%97%E3%83%AAmillion/id6723876042?uo=4",
+      "contentAdvisoryRating": "12+",
+      "averageUserRating": 4.34687,
+      "bundleId": "com.flash.flashdramaApp",
+      "releaseNotes": "いつもミリオンをご利用いただきありがとうございます。\n\n【今回のアップデート】\n・新しいアニメとドラマが追加されました。\n・軽微な不具合の修正とパフォーマンスの改善をしました。",
+      "trackName": "ミリオン-ショートドラマ見放題人気ドラマアプリMillion",
+      "trackId": 6723876042,
+      "artistId": 1770505331,
+      "artistName": "FLASH Co., Ltd.",
+      "userRatingCount": 7334,
       "country": "JPN"
     }
   ]

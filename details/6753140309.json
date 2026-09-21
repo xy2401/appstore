@@ -5,8 +5,8 @@
       "features": [
         "iosUniversal"
       ],
-      "isGameCenterEnabled": false,
       "advisories": [],
+      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -143,6 +143,8 @@
       "artistViewUrl": "https://apps.apple.com/us/developer/valery-mironov/id1699945726?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/18/5b/0d185b99-46cb-4c70-5e22-1aaff90e4e1e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/18/5b/0d185b99-46cb-4c70-5e22-1aaff90e4e1e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/18/5b/0d185b99-46cb-4c70-5e22-1aaff90e4e1e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/63/52/9f/63529f62-2c20-8244-739b-1635624fde78/DSCF1596__1.jpg/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9f/3e/bf/9f3ebf77-385f-cfd6-4be8-60d5315e85a0/DSCF1643.jpg/320x480bb.jpg",
@@ -165,45 +167,43 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d3/9e/44/d39e44fd-7fdb-8b49-0801-ce1642b417ed/DSCF1698.jpg/360x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/47/39/05/47390509-e612-29cf-81e0-e41c9ac3e96c/DSCF1691.jpg/360x480bb.jpg"
       ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/18/5b/0d185b99-46cb-4c70-5e22-1aaff90e4e1e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "averageUserRatingForCurrentVersion": 5,
+      "bundleId": "com.valerymironov.sentient",
+      "minimumOsVersion": "15.0",
+      "currentVersionReleaseDate": "2026-09-08T08:49:29Z",
       "artistId": 1699945726,
       "artistName": "Valery Mironov",
-      "genres": [
-        "Music",
-        "Entertainment"
-      ],
       "price": 4.99,
-      "bundleId": "com.valerymironov.sentient",
       "primaryGenreName": "Music",
       "primaryGenreId": 6011,
+      "releaseDate": "2026-09-08T08:49:29Z",
+      "trackId": 6753140309,
+      "trackName": "Sentient Synthesizer",
+      "sellerName": "Valery Mironov",
       "genreIds": [
         "6011",
         "6016"
       ],
-      "sellerName": "Valery Mironov",
       "isVppDeviceBasedLicensingEnabled": true,
-      "releaseDate": "2026-09-08T08:49:29Z",
-      "trackId": 6753140309,
-      "trackName": "Sentient Synthesizer",
-      "currentVersionReleaseDate": "2026-09-08T08:49:29Z",
       "version": "1.0",
       "wrapperType": "software",
       "currency": "USD",
       "description": "The controller with the eyes represents the neural network’s learning system. When the eyes are open, the system learns; when they are closed, learning is disabled. A long tap toggles learning on or off. Dragging vertically changes the learning rate, while dragging horizontally controls how strongly the winning neuron influences its neighbors. This influence is shown by the number of open eyes and the width of the pupils. While learning, the neural network visibly `swells`.\n\nWhen a new sound is analyzed, the neuron that best matches it updates its internal representation and `swells` more than the others. Nearby neurons also update, but less strongly, forming a smooth sound space inside the network.\n\nTwo grids represent the two `hemispheres` of the neural network. Each cell corresponds to a neuron. Tapping a cell selects the neuron whose waveform will be used. An orange dot marks the selected neuron, and the curve above it shows the fragment of waveform stored by that neuron — the wavetable used to generate notes or modulate parameters.\n\nThe controller with the planets manages memories. Dragging it moves through time and lets you browse stored states. A double tap returns to the present moment. A long tap opens a menu with three actions marked by Russian letters: `С` for save from sohranit, `У` for delete from udalit, and `З` for close from zakryt.\n\nThe planet interface represents time symbolically. The crescent shadow shows the time of day, the moon’s position indicates the day of the month, and the satellite’s position represents the orbital period of an artificial body similar to the ISS.\n\nBelow the neural grids are six synthesis sections. The first is marked with the Russian letter `Г`, from generator, and selects the oscillator waveform. Two sliders control the fundamental frequency and volume.\n\nThe remaining sections provide modulation. Sliders control depth and rate, while letters indicate the destination parameter: `П` pitch from podstroika, `П` pan from panorama, `Д` drive from drive, `Ч` filter frequency from chastota, and `Р` resonance from rezonans.\n\nThe slider with stars controls the filter. Dragging horizontally selects the filter type, while dragging vertically adjusts drive. The area to the right controls filter frequency and resonance.\n\nAt the bottom of the interface is a keyboard of eight keys represented by Lissajous figures — curves created by combining two harmonic oscillations. Each figure corresponds to a note. Above the keys are two buttons: `У` hold from uderzhanie and `П` tuning from podstroika.",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 5,
       "trackCensoredName": "Sentient Synthesizer",
       "trackViewUrl": "https://apps.apple.com/us/app/sentient-synthesizer/id6753140309?uo=4",
-      "minimumOsVersion": "15.0",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 3.5,
+      "averageUserRatingForCurrentVersion": 3.5,
       "sellerUrl": "https://valerymironov.com/sentient",
       "languageCodesISO2A": [],
       "fileSizeBytes": "172370944",
       "formattedPrice": "$4.99",
-      "userRatingCountForCurrentVersion": 1,
+      "userRatingCountForCurrentVersion": 2,
       "trackContentRating": "4+",
-      "userRatingCount": 1,
+      "genres": [
+        "Music",
+        "Entertainment"
+      ],
+      "userRatingCount": 2,
       "country": "USA"
     },
     {

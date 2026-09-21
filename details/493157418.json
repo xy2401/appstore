@@ -215,7 +215,6 @@
       "features": [
         "iosUniversal"
       ],
-      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -348,21 +347,24 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "advisories": [],
       "kind": "software",
-      "averageUserRatingForCurrentVersion": 4.43307,
       "trackCensoredName": "Theory Lessons",
       "trackViewUrl": "https://apps.apple.com/us/app/theory-lessons/id493157418?uo=4",
       "contentAdvisoryRating": "4+",
-      "formattedPrice": "$2.99",
-      "userRatingCountForCurrentVersion": 127,
-      "trackContentRating": "4+",
-      "sellerUrl": "https://www.musictheory.net/products/lessons",
+      "averageUserRating": 4.43307,
       "languageCodesISO2A": [
         "EN"
       ],
       "fileSizeBytes": "4576256",
-      "averageUserRating": 4.43307,
+      "formattedPrice": "$2.99",
+      "userRatingCountForCurrentVersion": 127,
+      "trackContentRating": "4+",
+      "averageUserRatingForCurrentVersion": 4.43307,
+      "sellerUrl": "https://www.musictheory.net/products/lessons",
       "minimumOsVersion": "15.8",
+      "currentVersionReleaseDate": "2026-04-21T16:47:55Z",
+      "releaseNotes": "- Fixes an issue where opening a link to a lesson could fail.\n- Updates the app icon used in Dark, Clear, or Tinted modes.\n- Fixes an issue where the wrong image would show in \"The Staff, Clefs, and Ledger Lines\".\n- Corrects typographical errors in \"The Minor Scales\", \"Diatonic Seventh Chords\", and \"Roman Numeral Analysis: Seventh Chords\".",
       "artistId": 459313479,
       "artistName": "musictheory.net",
       "genres": [
@@ -370,20 +372,18 @@
         "Education"
       ],
       "price": 2.99,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "sellerName": "musictheory.net, LLC",
       "bundleId": "net.musictheory.TheoryLessons",
       "releaseDate": "2012-01-17T08:00:00Z",
-      "currentVersionReleaseDate": "2026-04-21T16:47:55Z",
-      "primaryGenreName": "Music",
-      "primaryGenreId": 6011,
       "trackId": 493157418,
       "trackName": "Theory Lessons",
-      "releaseNotes": "- Fixes an issue where opening a link to a lesson could fail.\n- Updates the app icon used in Dark, Clear, or Tinted modes.\n- Fixes an issue where the wrong image would show in \"The Staff, Clefs, and Ledger Lines\".\n- Corrects typographical errors in \"The Minor Scales\", \"Diatonic Seventh Chords\", and \"Roman Numeral Analysis: Seventh Chords\".",
       "genreIds": [
         "6011",
         "6017"
       ],
+      "primaryGenreName": "Music",
+      "primaryGenreId": 6011,
+      "sellerName": "musictheory.net, LLC",
+      "isVppDeviceBasedLicensingEnabled": true,
       "version": "3.2.1",
       "wrapperType": "software",
       "currency": "USD",

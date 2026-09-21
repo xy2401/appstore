@@ -2,6 +2,15 @@
   "resultCount": 1,
   "results": [
     {
+      "advisories": [],
+      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/us/developer/instructure-inc/id418441198?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/26/f0/9f26f01f-43ea-4fa8-b230-35054e523f43/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/26/f0/9f26f01f-43ea-4fa8-b230-35054e523f43/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/05/b7/c9/05b7c919-f884-c39a-4741-b66cd9a291b6/mzl.xtbaigqz.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/50/63/d9/5063d924-7633-6b98-f408-3f05768e7e5a/mzl.cquhmtrl.png/392x696bb.png",
@@ -19,13 +28,6 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/26/f0/9f26f01f-43ea-4fa8-b230-35054e523f43/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
-      "artistViewUrl": "https://apps.apple.com/us/developer/instructure-inc/id418441198?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/26/f0/9f26f01f-43ea-4fa8-b230-35054e523f43/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/26/f0/9f26f01f-43ea-4fa8-b230-35054e523f43/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -158,18 +160,33 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
-      "kind": "software",
-      "minimumOsVersion": "18.0",
-      "averageUserRatingForCurrentVersion": 4.65496,
-      "fileSizeBytes": "219020288",
       "formattedPrice": "Free",
-      "contentAdvisoryRating": "4+",
-      "userRatingCountForCurrentVersion": 2768135,
-      "trackViewUrl": "https://apps.apple.com/us/app/canvas-by-instructure/id480883488?uo=4",
-      "trackContentRating": "4+",
-      "sellerUrl": "https://www.canvaslms.com/",
+      "fileSizeBytes": "219020288",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseNotes": "- Fixed navigation issues on iOS 27.",
+      "genres": [
+        "Education",
+        "Productivity"
+      ],
+      "price": 0,
+      "currentVersionReleaseDate": "2026-08-12T10:02:21Z",
+      "releaseDate": "2011-12-08T17:41:59Z",
+      "genreIds": [
+        "6017",
+        "6007"
+      ],
+      "primaryGenreName": "Education",
+      "primaryGenreId": 6017,
+      "sellerName": "Instructure, Inc.",
+      "version": "8.12.1",
+      "wrapperType": "software",
+      "currency": "USD",
+      "description": "Your learning, anywhere.\nStay connected to your courses with the official Canvas app for learners. Whether you’re in class, commuting, or offline, Canvas helps you stay organized and engaged.\n\nNote for instructors: For teaching and grading features, use the Canvas Teacher app.\n\nWhat you can do\n• Organize: View grades, track assignments, homework, and schoolwork; get reminders, push notifications and add customizable widgets for quick access\n• Engage: Send messages, join class discussions and collaborate with classmates in real time\n• Learn: Submit assignments, PDFs, docs, and media files for teachers to annotate in SpeedGrader, take quizzes, and watch videos on the go\n• Offline: Download full courses and keep studying even without internet\n• Integration & inclusivity: Use integrated classroom tools (LTIs), enjoy dark mode, and rely on built-in accessibility for everyone (VPAT 2.2 compliant)\n• Lifelong learning: Support for continuous learning, career-focused skill based learning programs, and AI-powered learning experience via Career experience\n\nTrusted by over 40 million learners worldwide.",
+      "averageUserRating": 4.65493,
       "trackCensoredName": "Canvas by Instructure",
+      "trackViewUrl": "https://apps.apple.com/us/app/canvas-by-instructure/id480883488?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRatingForCurrentVersion": 4.65493,
       "languageCodesISO2A": [
         "AR",
         "CA",
@@ -202,33 +219,16 @@
         "VI",
         "CY"
       ],
-      "averageUserRating": 4.65496,
+      "userRatingCountForCurrentVersion": 2768124,
+      "trackContentRating": "4+",
+      "sellerUrl": "https://www.canvaslms.com/",
+      "minimumOsVersion": "18.0",
+      "trackName": "Canvas by Instructure",
+      "trackId": 480883488,
       "artistId": 418441198,
       "artistName": "Instructure Inc.",
-      "genres": [
-        "Education",
-        "Productivity"
-      ],
-      "price": 0,
-      "genreIds": [
-        "6017",
-        "6007"
-      ],
       "bundleId": "com.instructure.icanvas",
-      "currentVersionReleaseDate": "2026-08-12T10:02:21Z",
-      "trackId": 480883488,
-      "trackName": "Canvas by Instructure",
-      "primaryGenreName": "Education",
-      "primaryGenreId": 6017,
-      "releaseDate": "2011-12-08T17:41:59Z",
-      "sellerName": "Instructure, Inc.",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseNotes": "- Fixed navigation issues on iOS 27.",
-      "version": "8.12.1",
-      "wrapperType": "software",
-      "currency": "USD",
-      "description": "Your learning, anywhere.\nStay connected to your courses with the official Canvas app for learners. Whether you’re in class, commuting, or offline, Canvas helps you stay organized and engaged.\n\nNote for instructors: For teaching and grading features, use the Canvas Teacher app.\n\nWhat you can do\n• Organize: View grades, track assignments, homework, and schoolwork; get reminders, push notifications and add customizable widgets for quick access\n• Engage: Send messages, join class discussions and collaborate with classmates in real time\n• Learn: Submit assignments, PDFs, docs, and media files for teachers to annotate in SpeedGrader, take quizzes, and watch videos on the go\n• Offline: Download full courses and keep studying even without internet\n• Integration & inclusivity: Use integrated classroom tools (LTIs), enjoy dark mode, and rely on built-in accessibility for everyone (VPAT 2.2 compliant)\n• Lifelong learning: Support for continuous learning, career-focused skill based learning programs, and AI-powered learning experience via Career experience\n\nTrusted by over 40 million learners worldwide.",
-      "userRatingCount": 2768135,
+      "userRatingCount": 2768124,
       "country": "USA"
     }
   ]
