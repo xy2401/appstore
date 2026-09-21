@@ -1,5 +1,5 @@
 {
-  "resultCount": 9,
+  "resultCount": 10,
   "results": [
     {
       "date": "20260406",
@@ -269,10 +269,48 @@
     },
     {
       "date": "20260901",
+      "country": "de",
+      "mediaType": "books",
+      "feed": "top-free",
+      "rank": 90,
+      "artistName": "Mary Shelley",
+      "id": "395546675",
+      "name": "Frankenstein",
+      "releaseDate": "1817-12-31",
+      "kind": "books",
+      "artistId": "2683453",
+      "artistUrl": "https://books.apple.com/de/author/mary-shelley/id2683453",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication123/v4/6e/64/6b/6e646b24-17de-f178-d4dd-0b3a34934d2a/PD_Frankensein-Adj.jpg/100x156bb.png",
+      "genres": [
+        {
+          "genreId": "10048",
+          "name": "Horror",
+          "url": "https://itunes.apple.com/de/genre/id10048"
+        },
+        {
+          "genreId": "38",
+          "name": "Bücher",
+          "url": "https://itunes.apple.com/de/genre/id38"
+        },
+        {
+          "genreId": "9031",
+          "name": "Belletristik und Literatur",
+          "url": "https://itunes.apple.com/de/genre/id9031"
+        },
+        {
+          "genreId": "10042",
+          "name": "Klassiker",
+          "url": "https://itunes.apple.com/de/genre/id10042"
+        }
+      ],
+      "url": "https://books.apple.com/de/book/frankenstein/id395546675"
+    },
+    {
+      "date": "20260901",
       "country": "gb",
       "mediaType": "books",
       "feed": "top-free",
-      "rank": 59,
+      "rank": 44,
       "artistName": "Mary Shelley",
       "id": "395546675",
       "name": "Frankenstein",
@@ -310,7 +348,7 @@
       "country": "us",
       "mediaType": "books",
       "feed": "top-free",
-      "rank": 48,
+      "rank": 50,
       "artistName": "Mary Shelley",
       "id": "395546675",
       "name": "Frankenstein",
