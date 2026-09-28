@@ -1,5 +1,5 @@
 {
-  "resultCount": 12,
+  "resultCount": 13,
   "results": [
     {
       "date": "20260406",
@@ -240,7 +240,7 @@
       "country": "de",
       "mediaType": "apps",
       "feed": "top-paid",
-      "rank": 84,
+      "rank": 70,
       "artistName": "Skyhook",
       "id": "6449003064",
       "name": "Goblin Tools",
@@ -263,10 +263,36 @@
     },
     {
       "date": "20260901",
+      "country": "fr",
+      "mediaType": "apps",
+      "feed": "top-paid",
+      "rank": 89,
+      "artistName": "Skyhook",
+      "id": "6449003064",
+      "name": "Goblin Tools",
+      "releaseDate": "2023-05-31",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/bf/c9/78bfc938-dc36-764d-16a7-46bc36731f2b/AppIcon-1x_U007epad-0-1-85-220-0.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6007",
+          "name": "Productivité",
+          "url": "https://itunes.apple.com/fr/genre/id6007"
+        },
+        {
+          "genreId": "6002",
+          "name": "Utilitaires",
+          "url": "https://itunes.apple.com/fr/genre/id6002"
+        }
+      ],
+      "url": "https://apps.apple.com/fr/app/goblin-tools/id6449003064"
+    },
+    {
+      "date": "20260901",
       "country": "gb",
       "mediaType": "apps",
       "feed": "top-paid",
-      "rank": 36,
+      "rank": 49,
       "artistName": "Skyhook",
       "id": "6449003064",
       "name": "Goblin Tools",
@@ -292,14 +318,25 @@
       "country": "us",
       "mediaType": "apps",
       "feed": "top-paid",
-      "rank": 10,
+      "rank": 21,
       "artistName": "Skyhook",
       "id": "6449003064",
       "name": "Goblin Tools",
       "releaseDate": "2023-05-31",
       "kind": "apps",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/bf/c9/78bfc938-dc36-764d-16a7-46bc36731f2b/AppIcon-1x_U007epad-0-1-85-220-0.png/100x100bb.png",
-      "genres": [],
+      "genres": [
+        {
+          "genreId": "6007",
+          "name": "Productivity",
+          "url": "https://itunes.apple.com/us/genre/id6007"
+        },
+        {
+          "genreId": "6002",
+          "name": "Utilities",
+          "url": "https://itunes.apple.com/us/genre/id6002"
+        }
+      ],
       "url": "https://apps.apple.com/us/app/goblin-tools/id6449003064"
     }
   ]
