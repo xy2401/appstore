@@ -192,6 +192,7 @@
       "userRatingCount": 210342
     },
     {
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5b/4a/84/5b4a840d-4d8d-0c31-524a-6d74c3bac1b1/APP_IPHONE_67-0.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4c/eb/93/4ceb936a-83d1-1e33-b72e-78f35708e0b1/APP_IPHONE_67-2.png/320x480bb.jpg",
@@ -205,10 +206,15 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/94/97/d4/9497d45d-5d54-4e10-1ee7-02634113fe84/APP_IPAD_PRO_129-1.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3a/86/c6/3a86c6fb-65ec-7b9d-5934-cb9a17e26d8d/APP_IPAD_PRO_129-2.png/576x768bb.png"
       ],
-      "isGameCenterEnabled": false,
+      "appletvScreenshotUrls": [],
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/ea/b0/80eab0d9-825b-0fa3-9cc7-165a1ce5462d/app_logo-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/60x60bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/ea/b0/80eab0d9-825b-0fa3-9cc7-165a1ce5462d/app_logo-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/ea/b0/80eab0d9-825b-0fa3-9cc7-165a1ce5462d/app_logo-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/100x100bb.jpg",
       "artistViewUrl": "https://apps.apple.com/us/developer/google/id281956209?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/b2/7f/1fb27f3b-436d-bbd4-9f5d-0ee4ec149970/app_logo-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/b2/7f/1fb27f3b-436d-bbd4-9f5d-0ee4ec149970/app_logo-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/100x100bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -341,21 +347,24 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
       "kind": "software",
-      "appletvScreenshotUrls": [],
-      "features": [
-        "iosUniversal"
-      ],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/b2/7f/1fb27f3b-436d-bbd4-9f5d-0ee4ec149970/app_logo-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
+      "releaseNotes": "Now available in France.",
       "minimumOsVersion": "17.0",
       "sellerUrl": "http://g.co/OpinionRewards",
-      "averageUserRatingForCurrentVersion": 4.74613,
-      "averageUserRating": 4.74613,
-      "releaseNotes": "Now available in France.",
+      "averageUserRating": 4.74597,
+      "averageUserRatingForCurrentVersion": 4.74597,
       "trackCensoredName": "Google Opinion Rewards",
-      "trackViewUrl": "https://apps.apple.com/us/app/google-opinion-rewards/id1227019728?uo=4",
+      "languageCodesISO2A": [
+        "EN",
+        "FR",
+        "DE"
+      ],
+      "fileSizeBytes": "93929472",
+      "formattedPrice": "Free",
       "contentAdvisoryRating": "17+",
+      "userRatingCountForCurrentVersion": 210440,
+      "trackViewUrl": "https://apps.apple.com/us/app/google-opinion-rewards/id1227019728?uo=4",
+      "trackContentRating": "17+",
       "artistId": 281956209,
       "artistName": "Google",
       "genres": [
@@ -363,33 +372,24 @@
         "Utilities"
       ],
       "price": 0,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "bundleId": "com.google.paidtasks",
       "genreIds": [
         "6012",
         "6002"
       ],
+      "bundleId": "com.google.paidtasks",
       "releaseDate": "2017-10-09T16:32:02Z",
       "sellerName": "Google LLC",
-      "currentVersionReleaseDate": "2026-09-08T13:35:44Z",
-      "trackId": 1227019728,
-      "trackName": "Google Opinion Rewards",
       "primaryGenreName": "Lifestyle",
       "primaryGenreId": 6012,
-      "version": "1.26.083100",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "trackId": 1227019728,
+      "trackName": "Google Opinion Rewards",
+      "currentVersionReleaseDate": "2026-09-22T15:07:32Z",
+      "version": "1.26.091400",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Your opinions are valuable. Now get paid to share them with the Google Opinion Rewards app.\n\nHow it works: You answer quick surveys and get paid up to $1 for each completed survey via your PayPal account. Surveys typically take less than 20 seconds.\n\nEasy to use: You'll receive a notification when a short survey is waiting for you. These surveys include everything from opinion surveys to hotel and product reviews to location-based merchant satisfaction surveys.\n\nYour privacy: When you take a survey using Google Opinion Rewards, your answers are aggregated and shared with the market researcher who wrote the survey questions. Unless otherwise explicitly stated at the beginning of the survey, as is the case with location-based surveys, these answers are completely anonymous and not linked to any of your personally identifiable information. In exchange, we provide you, the user, money that is deposited into your linked PayPal account.\n\n\nFor more information regarding the privacy of your survey responses, see the Google Privacy Policy https://www.google.com/intl/en/policies/privacy/.",
-      "languageCodesISO2A": [
-        "EN",
-        "FR",
-        "DE"
-      ],
-      "fileSizeBytes": "93577216",
-      "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 210409,
-      "trackContentRating": "17+",
-      "userRatingCount": 210409,
+      "userRatingCount": 210440,
       "country": "USA"
     }
   ]

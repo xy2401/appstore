@@ -182,11 +182,8 @@
       "userRatingCount": 30
     },
     {
-      "artistViewUrl": "https://apps.apple.com/cn/developer/%E7%8E%BA%E5%9D%A4-%E6%9D%8E/id1628794829?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/04/f3/d004f350-41b9-43fb-f714-2a673e79541b/InstaPic-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/04/f3/d004f350-41b9-43fb-f714-2a673e79541b/InstaPic-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
-      "features": [],
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -319,8 +316,8 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
       "kind": "software",
+      "features": [],
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/57/7b/6b/577b6bb2-a014-8e63-7f9e-444250bfbb68/_U65b01.jpg/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4e/47/6c/4e476c0b-a346-8cc7-832a-c80f91a4e230/_U65b01.5.jpg/320x480bb.jpg",
@@ -334,30 +331,28 @@
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/04/f3/d004f350-41b9-43fb-f714-2a673e79541b/InstaPic-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/cn/developer/%E7%8E%BA%E5%9D%A4-%E6%9D%8E/id1628794829?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/04/f3/d004f350-41b9-43fb-f714-2a673e79541b/InstaPic-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/04/f3/d004f350-41b9-43fb-f714-2a673e79541b/InstaPic-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
       "minimumOsVersion": "18.0",
-      "trackCensoredName": "InstaPic",
-      "trackViewUrl": "https://apps.apple.com/cn/app/instapic/id6773122110?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 3.87879,
       "artistId": 1628794829,
       "artistName": "玺坤 李",
       "genres": [
         "摄影与录像"
       ],
       "price": 6,
-      "bundleId": "Photo.InstaPrint",
-      "trackId": 6773122110,
-      "trackName": "InstaPic",
+      "sellerName": "玺坤 李",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseDate": "2026-05-28T07:00:00Z",
       "genreIds": [
         "6008"
       ],
-      "releaseNotes": "- 适配了iPhone 18 Pro和iPhone 18 Pro Max",
       "primaryGenreName": "Photo & Video",
       "primaryGenreId": 6008,
-      "sellerName": "玺坤 李",
-      "releaseDate": "2026-05-28T07:00:00Z",
-      "isVppDeviceBasedLicensingEnabled": true,
+      "trackId": 6773122110,
+      "trackName": "InstaPic",
       "currentVersionReleaseDate": "2026-09-20T18:39:52Z",
+      "releaseNotes": "- 适配了iPhone 18 Pro和iPhone 18 Pro Max",
       "version": "1.5.2",
       "wrapperType": "software",
       "currency": "CNY",
@@ -371,6 +366,11 @@
       "formattedPrice": "¥6.00",
       "userRatingCountForCurrentVersion": 33,
       "trackContentRating": "4+",
+      "bundleId": "Photo.InstaPrint",
+      "trackCensoredName": "InstaPic",
+      "trackViewUrl": "https://apps.apple.com/cn/app/instapic/id6773122110?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 3.87879,
       "userRatingCount": 33,
       "country": "CHN"
     }

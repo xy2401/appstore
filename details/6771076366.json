@@ -3,9 +3,9 @@
   "results": [
     {
       "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
+      "artistViewUrl": "https://apps.apple.com/fr/developer/shuai-yuan/id1464857207?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/f9/7d/23f97d95-50e5-4f39-c752-272ff0e0bfa0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/f9/7d/23f97d95-50e5-4f39-c752-272ff0e0bfa0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -140,8 +140,6 @@
       ],
       "advisories": [],
       "kind": "software",
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/f9/7d/23f97d95-50e5-4f39-c752-272ff0e0bfa0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ce/af/e9/ceafe913-74d1-d1ee-bf00-1da477b54b85/686shots_so.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6d/80/0f/6d800ff2-fb89-d563-9e79-66ee391a5127/9shots_so.png/320x480bb.jpg",
@@ -150,24 +148,38 @@
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/88/0d/63/880d63e2-5082-0f86-d3ec-31a61bc0010d/388shots_so.png/360x480bb.jpg"
       ],
-      "artistViewUrl": "https://apps.apple.com/fr/developer/shuai-yuan/id1464857207?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/f9/7d/23f97d95-50e5-4f39-c752-272ff0e0bfa0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/f9/7d/23f97d95-50e5-4f39-c752-272ff0e0bfa0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/f9/7d/23f97d95-50e5-4f39-c752-272ff0e0bfa0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
+      "releaseNotes": "1. Added J2ME emulator with support for .jar files\n2. Fixed numerous bugs",
+      "trackCensoredName": "GGEMU Retro Go",
+      "trackViewUrl": "https://apps.apple.com/fr/app/ggemu-retro-go/id6771076366?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 0,
+      "genres": [
+        "Divertissement"
+      ],
       "price": 5.99,
       "artistId": 1464857207,
       "artistName": "Shuai Yuan",
-      "primaryGenreName": "Entertainment",
-      "primaryGenreId": 6016,
-      "releaseDate": "2026-05-30T07:00:00Z",
-      "sellerName": "Shuai Yuan",
-      "isVppDeviceBasedLicensingEnabled": true,
       "trackId": 6771076366,
       "trackName": "GGEMU Retro Go",
+      "genreIds": [
+        "6016"
+      ],
+      "releaseDate": "2026-05-30T07:00:00Z",
+      "primaryGenreName": "Entertainment",
+      "primaryGenreId": 6016,
+      "sellerName": "Shuai Yuan",
+      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-09-16T23:21:55Z",
       "version": "0.9.4",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "GGEMU Retro Go is a powerful all-in-one emulator for iOS, bringing your favorite retro games together in one seamless experience. From classic arcade titles to portable consoles, DOS, and even Flash games — everything you love, all in one place.\n\nKey Features\n\nWide Platform Support\nPlay games across a broad range of systems:\n\nNintendo: NES / Famicom, SNES / Super Famicom, Game Boy (GB/GBC/GBA), Nintendo 64, Nintendo DS, Virtual Boy\nSony: PlayStation 1 (PS1), PlayStation Portable (PSP)\nSega: Genesis / Mega Drive, Master System, Game Gear, Sega CD, 32X, Saturn\nRetro PC & More: DOS (.jsdos / .zip), Flash (.swf), PC Engine, Neo Geo Pocket, WonderSwan, Atari Jaguar\nJ2ME (.jar)\n\nInstant Play, Zero Setup\nNo complicated configuration. Just drag and drop your ROMs into the app, or browse your local files to start playing instantly.\n\nLocal Network Multiplayer\nEnjoy smooth, low-latency multiplayer over your local network.\n\nExtensive Controller Support\nPlay your way with support for:\n\nNintendo Switch Pro Controller and Joy-Con\nNintendo Switch Online controllers (NES, SNES, N64)\nPlayStation 4 and PlayStation 5 controllers\nXbox One S and Xbox Series X controllers\nMFi game controllers\nBluetooth and wired keyboards\n\nSave Anytime\nSave and load game states at any moment — pick up right where you left off.\n\nCapture & Share\nRecord gameplay or take high-quality screenshots with built-in FFmpeg-powered media export.\n\nLocal Sharing\nEasily share your gameplay experience with others on the same network.\n\nDisclaimer\n\nGGEMU Retro Go is a shell application designed to run user-provided game files. The app does not include or distribute any game ROMs, copyrighted software, or digital assets. Users are responsible for ensuring they have the legal rights to use any files loaded into the app.",
+      "averageUserRatingForCurrentVersion": 0,
       "languageCodesISO2A": [
         "EN"
       ],
@@ -175,21 +187,9 @@
       "formattedPrice": "5,99 €",
       "userRatingCountForCurrentVersion": 0,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 0,
+      "minimumOsVersion": "14.0",
       "sellerUrl": "https://ggemu.com",
       "bundleId": "com.ezshine.retrogameplayer.ios",
-      "minimumOsVersion": "14.0",
-      "trackCensoredName": "GGEMU Retro Go",
-      "trackViewUrl": "https://apps.apple.com/fr/app/ggemu-retro-go/id6771076366?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 0,
-      "releaseNotes": "1. Added J2ME emulator with support for .jar files\n2. Fixed numerous bugs",
-      "genreIds": [
-        "6016"
-      ],
-      "genres": [
-        "Divertissement"
-      ],
       "userRatingCount": 0,
       "country": "FRA"
     }

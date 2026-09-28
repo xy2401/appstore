@@ -35,16 +35,14 @@
     },
     {
       "formattedPrice": "Free",
-      "artistIds": [
-        409046876
-      ],
+      "artistId": 409046876,
       "artistName": "A.A. Milne",
       "genres": [
         "Fiction for Kids",
         "Books",
         "Kids"
       ],
-      "artistId": 409046876,
+      "price": 0,
       "trackId": 6502919553,
       "trackName": "Winnie-the-Pooh",
       "releaseDate": "1926-10-14T08:00:00Z",
@@ -52,6 +50,9 @@
         "11112",
         "38",
         "11086"
+      ],
+      "artistIds": [
+        409046876
       ],
       "kind": "ebook",
       "currency": "USD",
@@ -61,9 +62,8 @@
       "trackViewUrl": "https://books.apple.com/us/book/winnie-the-pooh/id6502919553?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/a4/8a/c6/a48ac61b-d6f4-3c05-4fde-d6e2e766634e/ABC_Winnie-the-Pooh.jpg/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/a4/8a/c6/a48ac61b-d6f4-3c05-4fde-d6e2e766634e/ABC_Winnie-the-Pooh.jpg/100x100bb.jpg",
-      "price": 0,
       "averageUserRating": 4.5,
-      "userRatingCount": 650,
+      "userRatingCount": 654,
       "country": "USA"
     }
   ]

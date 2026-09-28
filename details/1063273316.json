@@ -185,11 +185,8 @@
       "userRatingCount": 222111
     },
     {
-      "artistViewUrl": "https://apps.apple.com/de/developer/eurowings-gmbh/id1063273315?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/05/3e/03053ec5-5be0-1cbf-6201-4d1da711d6bf/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/05/3e/03053ec5-5be0-1cbf-6201-4d1da711d6bf/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
-      "advisories": [],
+      "features": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -323,7 +320,6 @@
         "iPhoneDuo-iPhoneDuo"
       ],
       "kind": "software",
-      "features": [],
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/16/ad/a8/16ada8a3-c0a9-1b0f-51ff-3beb0c039e75/6_U002c5-inch_DE_1.jpg/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3b/43/3d/3b433de0-e0db-ec35-e650-fc8369b2dd07/6_U002c5-inch_DE_2.jpg/320x480bb.jpg",
@@ -331,50 +327,54 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6a/8f/43/6a8f43c7-bf19-b09e-8827-722bf040af05/6_U002c5-inch_DE_4.jpg/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b2/cb/c5/b2cbc53d-0e2b-98b9-ceda-1cb88fb3d73b/6_U002c5-inch_DE_5.jpg/320x480bb.jpg"
       ],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/05/3e/03053ec5-5be0-1cbf-6201-4d1da711d6bf/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/05/3e/03053ec5-5be0-1cbf-6201-4d1da711d6bf/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "trackCensoredName": "Eurowings",
-      "averageUserRating": 4.68611,
-      "trackViewUrl": "https://apps.apple.com/de/app/eurowings/id1063273316?uo=4",
-      "contentAdvisoryRating": "4+",
+      "artistViewUrl": "https://apps.apple.com/de/developer/eurowings-gmbh/id1063273315?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/05/3e/03053ec5-5be0-1cbf-6201-4d1da711d6bf/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/05/3e/03053ec5-5be0-1cbf-6201-4d1da711d6bf/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.jpg",
+      "advisories": [],
+      "minimumOsVersion": "17.0",
       "genres": [
         "Reisen",
         "Wirtschaft"
       ],
+      "artistId": 1063273315,
+      "artistName": "Eurowings GmbH",
       "price": 0,
-      "bundleId": "com.wings.iPhone",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "sellerName": "Eurowings GmbH",
-      "releaseDate": "2015-12-16T07:42:13Z",
-      "primaryGenreName": "Travel",
-      "primaryGenreId": 6003,
       "trackId": 1063273316,
       "trackName": "Eurowings",
+      "bundleId": "com.wings.iPhone",
+      "primaryGenreName": "Travel",
+      "primaryGenreId": 6003,
+      "sellerName": "Eurowings GmbH",
+      "genreIds": [
+        "6003",
+        "6000"
+      ],
+      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseDate": "2015-12-16T07:42:13Z",
       "currentVersionReleaseDate": "2026-09-07T11:18:19Z",
       "releaseNotes": "- In der Flugsuche kannst du nun Gruppen als Abflug- oder Zielflughafen auswählen (z.B. London oder Dubai). Diese Funktion wird in den nächsten Wochen ausgerollt.\n- Apple-Wallet-Pässe zeigt nun die Flughäfen in deiner Sprache an.\n- Viele Stabilitäts- und Leistungsverbesserungen.",
       "version": "26.5.0",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Alle Reisen auf einen Blick\n\nMit Meine Reisen hast du deine Reise und alles drum herum immer griffbereit. \nEinfach Buchung hinzufügen oder dein Eurowings Konto verbinden. Außerdem erwarten dich folgende Highlights:\nDeine Flüge als praktische Kalendereinträge fürs Handy \n-\tdein persönlicher Reiseplan\n-\taktuelle Updates zur Flugzeit und Status\n-\tInfos zu deinem Check-in-Status\n-\tdeine mobile Bordkarte – zum Export in dein Apple oder Google Wallet. Nicht alleine unterwegs? Teile deine mobile Bordkarte einfach mit Freund:innen und Familie\n-\tUnser exklusiver AR-Baggage-Scanner zur Größenprüfung deines Handgepäcks\n\nKein Suchen mehr in E-Mails – einfach App öffnen und abflugbereit sein.\n\nHilfe, wenn’s drauf ankommt\nFlug verspätet oder gestrichen? Die App unterstützt dich direkt mit aktuellen Infos und konkreten Umbuchungs-Optionen – klar, schnell, hilfreich.\n\nNeue Ziele entdecken & direkt buchen\nDu willst mal wieder raus? Lass dich inspirieren und finde deinen nächsten Trip. Mit der integrierten Flugsuche buchst du bequem direkt in der App. \nZeit für Vorfreude: Speicher dir zukünftigen Reiseziele direkt ab. So geht keine Idee verloren.\n\nDie besten Gründe für die Eurowings App?\n• Reisen smart und easy verwalten im “Meine Reisen” Bereich\n• teilbare mobile Bordkarte & Check-in Infos sofort zur Hand\n• Unterstützung bei Fluguregelmäßigkeiten\n• Flüge direkt zum Kalender hinzufügen\n• Explore‑Bereich für Inspiration & Favoriten\n\nJetzt Eurowings App downloaden und entspannter reisen – mit mehr Leichtigkeit für alle.",
-      "sellerUrl": "https://www.eurowings.com",
       "languageCodesISO2A": [
         "EN",
         "DE"
       ],
       "fileSizeBytes": "58213376",
       "formattedPrice": "Gratis",
+      "userRatingCountForCurrentVersion": 232857,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.68611,
-      "minimumOsVersion": "17.0",
-      "userRatingCountForCurrentVersion": 231627,
-      "genreIds": [
-        "6003",
-        "6000"
-      ],
-      "artistId": 1063273315,
-      "artistName": "Eurowings GmbH",
-      "userRatingCount": 231627,
+      "sellerUrl": "https://www.eurowings.com",
+      "averageUserRatingForCurrentVersion": 4.68607,
+      "trackCensoredName": "Eurowings",
+      "trackViewUrl": "https://apps.apple.com/de/app/eurowings/id1063273316?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.68607,
+      "userRatingCount": 232857,
       "country": "DEU"
     }
   ]

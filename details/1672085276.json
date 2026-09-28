@@ -163,7 +163,6 @@
       "artistViewUrl": "https://apps.apple.com/de/developer/sindre-sorhus/id328077650?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/6f/98/236f9810-8b14-3ea7-8d8e-4b055a1dbff0/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/6f/98/236f9810-8b14-3ea7-8d8e-4b055a1dbff0/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
-      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/51/66/5c/51665ca0-9be6-5f64-4863-3c5b438c0e71/11d4e44f-588a-4782-9d4b-01e221af2656_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2023-03-03_at_01.45.13.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/d4/fe/c4/d4fec4d1-43e2-68a3-d07c-3cf47d5e8170/8ff55810-9dd9-418e-bd83-23f161a35fc9_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2023-03-03_at_01.46.53.png/392x696bb.png"
@@ -174,10 +173,12 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/6f/98/236f9810-8b14-3ea7-8d8e-4b055a1dbff0/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "isGameCenterEnabled": false,
+      "advisories": [],
+      "kind": "software",
       "features": [
         "iosUniversal"
       ],
-      "advisories": [],
       "supportedDevices": [
         "MacDesktop-MacDesktop",
         "iPhoneXS-iPhoneXS",
@@ -274,13 +275,13 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "kind": "software",
-      "contentAdvisoryRating": "4+",
+      "minimumOsVersion": "26.0",
       "trackCensoredName": "Aiko",
       "trackViewUrl": "https://apps.apple.com/de/app/aiko/id1672085276?uo=4",
+      "contentAdvisoryRating": "4+",
       "averageUserRating": 4.81776,
+      "releaseNotes": "- The app now requires iOS 26.\n- Improved performance.",
       "sellerUrl": "https://sindresorhus.com/aiko",
-      "minimumOsVersion": "26.0",
       "languageCodesISO2A": [
         "EN"
       ],
@@ -296,24 +297,23 @@
         "Wirtschaft"
       ],
       "price": 29,
-      "currentVersionReleaseDate": "2026-06-27T00:29:04Z",
-      "trackId": 1672085276,
-      "trackName": "Aiko",
-      "releaseDate": "2023-03-03T08:00:00Z",
+      "bundleId": "com.sindresorhus.Aiko",
+      "sellerName": "Sindre Sorhus",
       "primaryGenreName": "Productivity",
       "primaryGenreId": 6007,
+      "releaseDate": "2023-03-03T08:00:00Z",
       "isVppDeviceBasedLicensingEnabled": true,
-      "sellerName": "Sindre Sorhus",
-      "genreIds": [
-        "6007",
-        "6000"
-      ],
-      "releaseNotes": "- The app now requires iOS 26.\n- Improved performance.",
+      "currentVersionReleaseDate": "2026-06-27T00:29:04Z",
       "version": "1.11.0",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "High-quality on-device transcription. Easily convert speech to text from meetings, lectures, and more.\n\nThe transcription is powered by OpenAI's Whisper running locally on your device. Nothing leaves your device.\n\nYou can export the transcription as subtitles too. It has a word-replacement feature to let you automatically fix common mistakes.\n\nAiko favors accuracy over speed.\n\nIt does not do live transcription while recording.\nIt does not currently have speaker detection.\n\n\nTry the trial first. See website.\n\nNote: Sharing from Voice Memos on iOS 26 does not work because of a iOS 26 bug outside of my control.\n\n\nSupports audio in 100 different languages:\nAfrikaans, Albanian, Amharic, Arabic, Armenian, Assamese, Azerbaijani, Bangla, Bashkir, Basque, Belarusian, Bosnian, Breton, Bulgarian, Burmese, Catalan, Chinese, Croatian, Czech, Danish, Dutch, English, Estonian, Faroese, Finnish, French, Galician, Georgian, German, Greek, Gujarati, Haitian Creole, Hausa, Hawaiian, Hebrew, Hindi, Hungarian, Icelandic, Indonesian, Italian, Japanese, Javanese, Kannada, Kazakh, Khmer, Korean, Lao, Latin, Latvian, Lingala, Lithuanian, Luxembourgish, Macedonian, Malagasy, Malay, Malayalam, Maltese, Marathi, Mongolian, Māori, Nepali, Norwegian, Norwegian Nynorsk, Occitan, Pashto, Persian, Polish, Portuguese, Punjabi, Romanian, Russian, Sanskrit, Serbian, Shona, Sindhi, Sinhala, Slovak, Slovenian, Somali, Spanish, Swahili, Swedish, Tagalog, Tajik, Tamil, Tatar, Telugu, Thai, Tibetan, Turkish, Turkmen, Ukrainian, Urdu, Uzbek, Vietnamese, Welsh, Yiddish, Yoruba\n\n\nThe app was made possible thanks to Whisper by OpenAI and whisper.cpp by Georgi Gerganov.\n\n\n■ FAQ\n\n‣ Can I edit the text in the app?\n\nI don't plan to support any editing. Export the transcription and edit it in a proper text editor.\n\n‣ Why is the app so large?\n\nThe app delivers the highest quality transcription on the market for 100 different languages. Rather than asking why it's so large, the real question is how is it so small.\n\n‣ Why is the transcription so slow?\n\nThe app favors accuracy over speed. However, performance is expected to improve in the coming months.\n\n‣ Why must I keep the iOS app open while it transcribes?\n\niOS apps are fundamentally restricted from operating in the background for extended periods.\n\n‣ Can I delete some of the languages to save space?\n\nThis is unfortunately not possible. The model has all the languages stored together in a way that makes it impossible to remove just some languages.\n\n\nMore FAQs on the website.\n\n\n■ Technical details\n\nThe app uses the Whisper medium or small model on iOS depending on available memory and the large v3 model on macOS.\n\n\n■ Privacy\n\nThe transcription is done locally on your device. Nothing leaves your device.\n\n\n■ Support\n\nYou can contact me through the feedback button in the app.",
-      "bundleId": "com.sindresorhus.Aiko",
+      "genreIds": [
+        "6007",
+        "6000"
+      ],
+      "trackId": 1672085276,
+      "trackName": "Aiko",
       "userRatingCount": 214,
       "country": "DEU"
     }

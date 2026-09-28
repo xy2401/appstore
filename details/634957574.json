@@ -2,11 +2,8 @@
   "resultCount": 1,
   "results": [
     {
-      "artistViewUrl": "https://apps.apple.com/de/developer/deichmann-se/id634957577?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/8e/df/508edf87-9c8c-f423-5390-b00b6c5a3802/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/8e/df/508edf87-9c8c-f423-5390-b00b6c5a3802/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
-      "advisories": [],
+      "features": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -140,7 +137,6 @@
         "iPhoneDuo-iPhoneDuo"
       ],
       "kind": "software",
-      "features": [],
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/80/53/f0/8053f080-f7d6-0db4-3fb1-0a4e93158372/73efcb16-68ce-47af-be5f-ac673fddb4fc_iOS_-_App_Store_5.5_-_DE_GER_-_Screen_1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/bc/d4/1bbcd40b-1337-354b-7959-ac00f27e0264/7f59e4dd-32c5-4692-b6fe-ffa47d045c8a_iOS_-_App_Store_5.5_-_DE_GER_-_Screen_2.jpg/392x696bb.jpg",
@@ -148,26 +144,33 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3d/f4/40/3df44089-a103-424c-59cc-b3f278a6536c/b8e5a29b-a7cb-4e07-8254-60fe0cb25675_iOS_-_App_Store_5.5_-_DE_GER_-_Screen_4.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/62/d9/a1/62d9a1ea-3244-266e-fe0b-d4030fe76cb1/7aa95cb9-7ff6-4cc7-a395-782272d69716_iOS_-_App_Store_5.5_-_DE_GER_-_Screen_5.jpg/392x696bb.jpg"
       ],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/8e/df/508edf87-9c8c-f423-5390-b00b6c5a3802/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/8e/df/508edf87-9c8c-f423-5390-b00b6c5a3802/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
-      "trackCensoredName": "DEICHMANN Schuhe",
-      "averageUserRating": 4.77223,
-      "trackViewUrl": "https://apps.apple.com/de/app/deichmann-schuhe/id634957574?uo=4",
-      "contentAdvisoryRating": "4+",
+      "artistViewUrl": "https://apps.apple.com/de/developer/deichmann-se/id634957577?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/8e/df/508edf87-9c8c-f423-5390-b00b6c5a3802/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/8e/df/508edf87-9c8c-f423-5390-b00b6c5a3802/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.jpg",
+      "advisories": [],
+      "minimumOsVersion": "18.5",
       "genres": [
         "Shopping",
         "Lifestyle"
       ],
+      "artistId": 634957577,
+      "artistName": "Deichmann SE",
       "price": 0,
-      "bundleId": "com.deichmann.deichmannapp",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "sellerName": "Deichmann SE",
-      "releaseDate": "2013-05-31T07:00:00Z",
-      "primaryGenreName": "Shopping",
-      "primaryGenreId": 6024,
       "trackId": 634957574,
       "trackName": "DEICHMANN Schuhe",
+      "bundleId": "com.deichmann.deichmannapp",
+      "primaryGenreName": "Shopping",
+      "primaryGenreId": 6024,
+      "sellerName": "Deichmann SE",
+      "genreIds": [
+        "6024",
+        "6012"
+      ],
+      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseDate": "2013-05-31T07:00:00Z",
       "currentVersionReleaseDate": "2026-08-31T10:23:15Z",
       "releaseNotes": "Entdecke unser neuestes Update! Wir haben Fehler behoben und die Leistung verbessert, um dein Shopping-Erlebnis zu optimieren. Genieße eine reibungslose und aufregende Shopping-Session bei DEICHMANN!",
       "version": "5.1.0",
@@ -196,17 +199,14 @@
       ],
       "fileSizeBytes": "92455936",
       "formattedPrice": "Gratis",
+      "userRatingCountForCurrentVersion": 11048,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.77223,
-      "minimumOsVersion": "18.5",
-      "userRatingCountForCurrentVersion": 11046,
-      "genreIds": [
-        "6024",
-        "6012"
-      ],
-      "artistId": 634957577,
-      "artistName": "Deichmann SE",
-      "userRatingCount": 11046,
+      "averageUserRatingForCurrentVersion": 4.77227,
+      "trackCensoredName": "DEICHMANN Schuhe",
+      "trackViewUrl": "https://apps.apple.com/de/app/deichmann-schuhe/id634957574?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.77227,
+      "userRatingCount": 11048,
       "country": "DEU"
     }
   ]

@@ -196,6 +196,7 @@
       "userRatingCount": 4910
     },
     {
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/06/1c/17/061c17d7-89c5-50d3-8169-58f53d7b9e60/e507a025-5e61-48ca-a8c3-655271c6f82a_01-IPHONE_SE_11_4.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/7b/5d/6e/7b5d6ee9-cc70-fc81-215f-280ecaae39ae/5b380f25-39cd-4afd-acf7-1f6d98ea23c8_02-IPHONE_SE_11_4.png/392x696bb.png",
@@ -208,10 +209,15 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/4a/f1/43/4af143e1-72aa-d8bf-0778-6fa3487708d1/57156b95-d1ed-4b10-89f3-11022a31f54f_03-IPAD_AIR_2_11_0.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/ec/db/f1/ecdbf15c-4662-73e5-2109-531459390467/1d411875-9459-4bcf-b8c2-a1d4a2f6ca91_04-IPAD_AIR_2_11_0.png/576x768bb.png"
       ],
-      "isGameCenterEnabled": false,
-      "artistViewUrl": "https://apps.apple.com/us/developer/google/id281956209?uo=4",
+      "appletvScreenshotUrls": [],
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/c9/16/1fc91661-a2ec-3f4e-0f18-435a7369f455/logo_ads_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/60x60bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/c9/16/1fc91661-a2ec-3f4e-0f18-435a7369f455/logo_ads_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/c9/16/1fc91661-a2ec-3f4e-0f18-435a7369f455/logo_ads_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/us/developer/google/id281956209?uo=4",
+      "features": [
+        "iosUniversal"
+      ],
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -344,21 +350,22 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
       "kind": "software",
-      "appletvScreenshotUrls": [],
-      "features": [
-        "iosUniversal"
-      ],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/c9/16/1fc91661-a2ec-3f4e-0f18-435a7369f455/logo_ads_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
+      "releaseNotes": "We regularly update the Google Ads mobile app to provide you with a better experience managing your account on the go.",
       "minimumOsVersion": "16.0",
       "sellerUrl": "https://ads.google.com/home/",
-      "averageUserRatingForCurrentVersion": 4.41713,
-      "averageUserRating": 4.41713,
-      "releaseNotes": "We regularly update the Google Ads mobile app to provide you with a better experience managing your account on the go.",
+      "averageUserRating": 4.41568,
+      "averageUserRatingForCurrentVersion": 4.41568,
       "trackCensoredName": "Google Ads",
-      "trackViewUrl": "https://apps.apple.com/us/app/google-ads/id1037457231?uo=4",
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "fileSizeBytes": "143153152",
+      "formattedPrice": "Free",
       "contentAdvisoryRating": "4+",
+      "userRatingCountForCurrentVersion": 5047,
+      "trackViewUrl": "https://apps.apple.com/us/app/google-ads/id1037457231?uo=4",
+      "trackContentRating": "4+",
       "artistId": 281956209,
       "artistName": "Google",
       "genres": [
@@ -366,31 +373,24 @@
         "Utilities"
       ],
       "price": 0,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "bundleId": "com.google.AdWords",
       "genreIds": [
         "6000",
         "6002"
       ],
+      "bundleId": "com.google.AdWords",
       "releaseDate": "2016-01-28T17:54:16Z",
       "sellerName": "Google LLC",
-      "currentVersionReleaseDate": "2026-09-18T10:42:47Z",
-      "trackId": 1037457231,
-      "trackName": "Google Ads",
       "primaryGenreName": "Business",
       "primaryGenreId": 6000,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "trackId": 1037457231,
+      "trackName": "Google Ads",
+      "currentVersionReleaseDate": "2026-09-18T10:42:47Z",
       "version": "3.39.20089207",
       "wrapperType": "software",
       "currency": "USD",
       "description": "The Google Ads mobile app helps you stay connected to your campaigns while on the go. In addition to monitoring your campaigns in real-time, you can review high-impact recommendations to improve performance and take action quickly and easily.\n\nUse the Google Ads app to:\n* Monitor performance on the go\n* Make quick changes to campaigns, budgets, keywords, and more\n* Create and edit ads\n* See your optimization score and apply recommendations\n* Get real-time notifications, such as performance summaries and ad disapprovals\n* Talk to an expert for support, wherever you may be\n\nDownload the Google Ads mobile app to get the most out of your account today!",
-      "languageCodesISO2A": [
-        "EN"
-      ],
-      "fileSizeBytes": "143153152",
-      "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 5032,
-      "trackContentRating": "4+",
-      "userRatingCount": 5032,
+      "userRatingCount": 5047,
       "country": "USA"
     }
   ]

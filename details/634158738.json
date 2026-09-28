@@ -220,7 +220,9 @@
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/5a/2e/d15a2efb-c991-1b30-3dca-d5aa82eb4d67/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "isGameCenterEnabled": false,
-      "advisories": [],
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -353,15 +355,14 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "advisories": [],
       "kind": "software",
-      "features": [
-        "iosUniversal"
-      ],
+      "artistViewUrl": "https://apps.apple.com/us/developer/rick-meyers/id567008122?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/5a/2e/d15a2efb-c991-1b30-3dca-d5aa82eb4d67/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/5a/2e/d15a2efb-c991-1b30-3dca-d5aa82eb4d67/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/us/developer/rick-meyers/id567008122?uo=4",
+      "minimumOsVersion": "15.6",
+      "averageUserRatingForCurrentVersion": 4.83612,
       "sellerUrl": "https://www.e-sword.net/iphone/",
-      "averageUserRatingForCurrentVersion": 4.83556,
       "languageCodesISO2A": [
         "EN",
         "FR",
@@ -370,39 +371,38 @@
       ],
       "fileSizeBytes": "21551104",
       "formattedPrice": "$3.99",
-      "userRatingCountForCurrentVersion": 7048,
+      "userRatingCountForCurrentVersion": 7054,
       "trackContentRating": "4+",
+      "releaseNotes": "Fixed random audio Bible issues and improved access reliability!",
       "genres": [
         "Reference",
         "Education"
       ],
-      "price": 3.99,
-      "artistName": "Rick Meyers",
-      "artistId": 567008122,
+      "releaseDate": "2013-04-20T07:00:00Z",
       "primaryGenreName": "Reference",
       "primaryGenreId": 6006,
-      "sellerName": "Richard Meyers",
-      "releaseDate": "2013-04-20T07:00:00Z",
-      "currentVersionReleaseDate": "2025-07-25T08:25:30Z",
+      "trackId": 634158738,
+      "trackName": "e-Sword LT: Bible Study to Go",
       "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "Richard Meyers",
+      "currentVersionReleaseDate": "2025-07-25T08:25:30Z",
       "version": "13.3",
       "wrapperType": "software",
       "currency": "USD",
       "description": "e-Sword® — the world's most popular PC Bible study software is now available on the world's most advanced mobile operating system!  e-Sword LT is the little brother of e-Sword HD for the iPad, but has many of the same powerful features in a slimmer design for the iPhone.  e-Sword LT is feature rich and user friendly.  As your Biblical library grows you will appreciate the intuitive layout and synchronization of resources.  e-Sword LT is so easy to use you may never need to read the Tutorial!\n\nEVERYTHING NEEDED to study the Bible in an enjoyable and enriching manner.  All Bibles, commentaries, dictionaries, … everything is just a tap away!\n\nPOWERFUL SEARCHES that are simple to use.  Enter as many words you want to search for and select the settings.  You can even search on Strong numbers!\n\nSTRONG'S DEFINITIONS are just a tap away and presented in a popover.\n\nSCRIPTURE REFERENCES too are just a tap away and presented in a popover.\n\nCOMPARE BIBLES quickly to see how the different versions translate a verse.\n\nLOCATION MAPS pin-point Biblical places on live modern maps to help bring the narrative to life!\n\nREADING PLANS designed to help you grow in your knowledge of the Bible.\n\nFORMATTED EMAILS of any selection of any text.  Perfect for sharing with others.\n\nNo Internet connection is required to use e-Sword LT.\n\ne-Sword LT initially installs with the King James Bible and the King James with Strong's numbers study Bible, the Strong's Lexicon, Smith's Bible dictionary, Meyer's devotional commentary, and the Treasury of Scripture Knowledge cross references.  There are over one hundred additional Bibles, commentaries, dictionaries, reference books and devotionals that you can download and add to your library absolutely free!\n\nAlso available are some \"locked\" resources which must be purchased from their publisher.  These are copyright and licensing requirements which are unavoidable.\n\nPlease note that e-Sword LT is an *ENGLISH* release (but does include Spanish, Portuguese and French UI localization.)  There are dozens of non-English Bibles available, but all other content is in English.\n\nThe perfect app on the perfect device.  What are you waiting for?  Download e-Sword LT today and get to studying the Bible!",
-      "bundleId": "net.e-sword.e-Sword-LT",
-      "contentAdvisoryRating": "4+",
       "trackCensoredName": "e-Sword LT: Bible Study to Go",
       "trackViewUrl": "https://apps.apple.com/us/app/e-sword-lt-bible-study-to-go/id634158738?uo=4",
-      "averageUserRating": 4.83556,
-      "minimumOsVersion": "15.6",
-      "trackId": 634158738,
-      "trackName": "e-Sword LT: Bible Study to Go",
-      "releaseNotes": "Fixed random audio Bible issues and improved access reliability!",
+      "contentAdvisoryRating": "4+",
+      "bundleId": "net.e-sword.e-Sword-LT",
+      "averageUserRating": 4.83612,
+      "artistId": 567008122,
+      "artistName": "Rick Meyers",
       "genreIds": [
         "6006",
         "6017"
       ],
-      "userRatingCount": 7048,
+      "price": 3.99,
+      "userRatingCount": 7054,
       "country": "USA"
     }
   ]

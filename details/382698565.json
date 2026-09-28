@@ -187,13 +187,6 @@
       "userRatingCount": 1326211
     },
     {
-      "features": [
-        "iosUniversal"
-      ],
-      "isGameCenterEnabled": false,
-      "advisories": [],
-      "kind": "software",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/87/d4/bd/87d4bde1-2e27-5c8b-1f7a-8bff172d58e0/AppIconGlass-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/80/6a/56/806a563c-c06b-addd-b7da-4077d37a838c/ASA-iPhone-Intro.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a4/3b/4a/a43b4abf-fef8-d8cf-7bce-029823fe99cc/ASA-iPhone-Home_Page.png/320x480bb.jpg",
@@ -206,9 +199,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/69/11/d9/6911d957-9082-e708-a069-d67d5bb81e4a/ASA-iPhone-Lock_Screen_Widgets.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/50/b6/62/50b662a8-ec8c-e1fe-1c32-23fc434f20f3/ASA-iPhone-Airport_Maps.png/320x480bb.jpg"
       ],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/87/d4/bd/87d4bde1-2e27-5c8b-1f7a-8bff172d58e0/AppIconGlass-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/87/d4/bd/87d4bde1-2e27-5c8b-1f7a-8bff172d58e0/AppIconGlass-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/us/developer/american-airlines/id382698568?uo=4",
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/48/27/99/48279945-2c93-42d7-f477-1a85e14deebc/ASA-iPad-Intro_Page.png/360x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/06/2f/9c/062f9ccf-3e6e-5ff7-ccd2-2042cae149c1/ASA-iPad-Home_Page.png/360x480bb.jpg",
@@ -219,6 +209,14 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/68/fa/9f/68fa9fed-365c-d4a9-610e-3aa525681f4e/ASA-iPad-Seat_Change.png/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/87/d4/bd/87d4bde1-2e27-5c8b-1f7a-8bff172d58e0/AppIconGlass-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "isGameCenterEnabled": false,
+      "artistViewUrl": "https://apps.apple.com/us/developer/american-airlines/id382698568?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/87/d4/bd/87d4bde1-2e27-5c8b-1f7a-8bff172d58e0/AppIconGlass-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/87/d4/bd/87d4bde1-2e27-5c8b-1f7a-8bff172d58e0/AppIconGlass-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -352,46 +350,48 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "bundleId": "com.aa.AmericanAirlines",
-      "minimumOsVersion": "18.0",
-      "price": 0,
+      "advisories": [],
+      "kind": "software",
+      "averageUserRatingForCurrentVersion": 4.79711,
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "fileSizeBytes": "318031872",
+      "formattedPrice": "Free",
+      "userRatingCountForCurrentVersion": 1612209,
+      "trackContentRating": "4+",
+      "sellerUrl": "http://www.aa.com/app",
+      "averageUserRating": 4.79711,
+      "trackCensoredName": "American Airlines",
+      "trackViewUrl": "https://apps.apple.com/us/app/american-airlines/id382698565?uo=4",
+      "contentAdvisoryRating": "4+",
+      "artistId": 382698568,
+      "artistName": "American Airlines",
       "genres": [
         "Travel",
         "Lifestyle"
       ],
-      "artistName": "American Airlines",
-      "artistId": 382698568,
-      "currentVersionReleaseDate": "2026-09-14T16:54:58Z",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "trackId": 382698565,
-      "trackName": "American Airlines",
+      "price": 0,
       "releaseDate": "2010-07-26T07:00:00Z",
+      "genreIds": [
+        "6003",
+        "6012"
+      ],
       "primaryGenreName": "Travel",
       "primaryGenreId": 6003,
+      "sellerName": "American Airlines, Inc.",
+      "trackId": 382698565,
+      "trackName": "American Airlines",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-09-14T16:54:58Z",
       "releaseNotes": "We've refreshed the app so it works smoothly no matter how you hold or resize your device. Rotate, split-screen or multitask, and everything adjusts to fit, instantly.",
       "version": "2026.27",
       "wrapperType": "software",
       "currency": "USD",
       "description": "With the American Airlines app, you’re covered with the information you need exactly when you need it. Curious about traffic to the airport? Need a mobile boarding pass? Wondering where the closest Admirals Club® lounge is? All of this info and more is available at your fingertips.\n\n- Live Activities: Track your flight in real-time right from your Lock Screen, Dynamic Island and your Apple Watch's Smart Stack. \n\n- Lock Screen & Home Screen widgets: See your next trip's details with our dynamic widgets.\n\n- Personalized home screen: See your next trip, AAdvantage® status, miles and Loyalty Points.\n\n- Booking: Book your next trip along with our hotel, car, cruise and vacation partners right from the app.\n\n- Mobile boarding pass: Check in for your trip and retrieve your mobile boarding pass. No need to print, and it’s updated along the way.\n\n- Interactive terminal maps: Navigating airports is a breeze with our interactive terminal maps. Find the closest Admirals Club® lounge or get directions to your connecting gate. \n\n- AAdvantage® account details: Review all the details of your AAdvantage® account right from your account dashboard. Not an AAdvantage® member? Sign up today.\n\n- Seat selection: Choose or change your seat within the app. Just pick the one you’d like and change it on the spot. \n\n- Track your bag: Know exactly where your bag is from the time it leaves your hands to when you extend the handle at your destination. \n\n- Save your trip: Your recently viewed trips are automatically saved in the app so you can easily grab the details for your next flight in seconds.\n\n- Quick interactions: The American app utilizes Haptic Touch and is Apple watch compatible, giving you quick access to the most important info. \n\n- Wi-Fi access in the air: Don’t forget, on flights with Wi-Fi you can use the American app and aa.com at no cost. \n\nThere’s a new group of flyers out there – The World’s Greatest Flyers. They know that having the right travel tools makes for a great experience.\n\nThe sky’s the limit with the American Airlines sticker pack! Let friends and family know that you’re traveling, headed to the Admirals Club® lounge to take it easy before taking off, snapping photos at 30,000 feet or that you’ve arrived.\n\nContact Us: 800-222-2377",
-      "sellerUrl": "http://www.aa.com/app",
-      "formattedPrice": "Free",
-      "averageUserRating": 4.79591,
-      "trackCensoredName": "American Airlines",
-      "languageCodesISO2A": [
-        "EN"
-      ],
-      "fileSizeBytes": "318031872",
-      "contentAdvisoryRating": "4+",
-      "userRatingCountForCurrentVersion": 1583433,
-      "trackViewUrl": "https://apps.apple.com/us/app/american-airlines/id382698565?uo=4",
-      "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.79591,
-      "sellerName": "American Airlines, Inc.",
-      "genreIds": [
-        "6003",
-        "6012"
-      ],
-      "userRatingCount": 1583433,
+      "minimumOsVersion": "18.0",
+      "bundleId": "com.aa.AmericanAirlines",
+      "userRatingCount": 1612209,
       "country": "USA"
     }
   ]
