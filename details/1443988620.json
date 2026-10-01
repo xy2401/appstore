@@ -221,6 +221,9 @@
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/12/42/f2/1242f2b1-d7a6-8b20-8947-7e081f78d7ae/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "MacDesktop-MacDesktop",
         "iPhone5s-iPhone5s",
@@ -356,27 +359,12 @@
       ],
       "advisories": [],
       "kind": "software",
-      "features": [
-        "iosUniversal"
-      ],
-      "releaseNotes": "- Optimized for iOS 27 with improved reliability and performance.\n- Bug fixes and other minor improvements.\n- The minimum supported version is now iOS 15.",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 3.80012,
       "trackCensoredName": "Quantumult X",
       "trackViewUrl": "https://apps.apple.com/us/app/quantumult-x/id1443988620?uo=4",
-      "averageUserRatingForCurrentVersion": 3.80012,
-      "genres": [
-        "Utilities",
-        "Developer Tools"
-      ],
-      "artistId": 1252015437,
-      "artistName": "Cross Utility Ltd",
-      "price": 9.99,
-      "bundleId": "com.crossutility.quantumult-x",
-      "genreIds": [
-        "6002",
-        "6026"
-      ],
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 3.79842,
+      "minimumOsVersion": "15.0",
+      "averageUserRatingForCurrentVersion": 3.79842,
       "sellerUrl": "https://quantumult.app/x",
       "languageCodesISO2A": [
         "EN",
@@ -385,22 +373,34 @@
       ],
       "fileSizeBytes": "91225088",
       "formattedPrice": "$9.99",
-      "userRatingCountForCurrentVersion": 1646,
+      "userRatingCountForCurrentVersion": 1647,
       "trackContentRating": "4+",
+      "price": 9.99,
+      "artistId": 1252015437,
+      "artistName": "Cross Utility Ltd",
+      "genres": [
+        "Utilities",
+        "Developer Tools"
+      ],
       "releaseDate": "2019-10-11T07:00:00Z",
-      "sellerName": "Cross Utility Ltd",
+      "releaseNotes": "- Optimized for iOS 27 with improved reliability and performance.\n- Bug fixes and other minor improvements.\n- The minimum supported version is now iOS 15.",
+      "currentVersionReleaseDate": "2026-09-15T07:05:52Z",
+      "trackId": 1443988620,
+      "trackName": "Quantumult X",
+      "genreIds": [
+        "6002",
+        "6026"
+      ],
       "primaryGenreName": "Utilities",
       "primaryGenreId": 6002,
-      "trackName": "Quantumult X",
-      "trackId": 1443988620,
+      "sellerName": "Cross Utility Ltd",
       "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-09-15T07:05:52Z",
       "version": "1.8.0",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Quantumult completely rebuilt from scratch, and includes a lots of awesome new features!\n\nQuantumult X is a powerful network tool for web developers and users who need to customize their proxies.\n\nFor web develpers:\n- HTTP activity can record the whole HTTP request and response including body(HTTP debug should be enabled).\n- The MitM HTTP decryption can work for the traffics from TUN interface(MitM should be enabled).\n- HTTP rewrite with URL 302/307 redirect or request header/body modification or response header/body modification(Rewrite should be enabled).\n- Customized DNS settings for specific domains(IPv4 or IPv6),  only can be edited in configuration profile.\n\nFor users who need to customize their proxies:\n- Supports shadowsocks proxy protocol.\n- Supports shadowsocks with obfs-tls or obfs-http plugins.\n- Supports shadowsocks over websocket and tls(server side should be deployed by v2ray-core).\n- Supports UDP relay if the server supports it.\n- Supports different policies for network request by using customized filters(host, host suffix, host keyword...).\n\nPrivacy Policy: https://quantumult.app/x/privacy/\nContact Us: support@quantumult.app",
-      "minimumOsVersion": "15.0",
-      "userRatingCount": 1646,
+      "bundleId": "com.crossutility.quantumult-x",
+      "userRatingCount": 1647,
       "country": "USA"
     },
     {

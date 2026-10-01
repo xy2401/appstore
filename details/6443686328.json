@@ -220,6 +220,7 @@
       "userRatingCount": 14613
     },
     {
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/41/2b/df/412bdfde-366f-f49c-56ae-e341e67e2514/e899d9b4-f6ad-498f-8a72-1eca773d2d73_03_Calls_5_5_iOS.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/52/68/cf/5268cf3d-d4b8-aff3-a3ef-f634d6cb4cff/01_PairDevices_5_5_iOS.png/392x696bb.png",
@@ -229,12 +230,6 @@
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/df/0d/3ddf0d0d-8cbb-5501-a174-43e9242c831a/AppIcon-0-1x_U007ephone-0-1-0-85-220-0.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/us/developer/microsoft-corporation/id298856275?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/df/0d/3ddf0d0d-8cbb-5501-a174-43e9242c831a/AppIcon-0-1x_U007ephone-0-1-0-85-220-0.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/df/0d/3ddf0d0d-8cbb-5501-a174-43e9242c831a/AppIcon-0-1x_U007ephone-0-1-0-85-220-0.png/100x100bb.jpg",
-      "isGameCenterEnabled": false,
-      "advisories": [],
-      "kind": "software",
       "features": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
@@ -368,7 +363,14 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "contentAdvisoryRating": "4+",
+      "advisories": [],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/us/developer/microsoft-corporation/id298856275?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/df/0d/3ddf0d0d-8cbb-5501-a174-43e9242c831a/AppIcon-0-1x_U007ephone-0-1-0-85-220-0.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/df/0d/3ddf0d0d-8cbb-5501-a174-43e9242c831a/AppIcon-0-1x_U007ephone-0-1-0-85-220-0.png/100x100bb.jpg",
+      "minimumOsVersion": "16.6",
+      "releaseNotes": "Bug fixes and performance improvements",
+      "averageUserRatingForCurrentVersion": 4.01518,
       "languageCodesISO2A": [
         "AR",
         "CA",
@@ -405,13 +407,9 @@
         "VI"
       ],
       "fileSizeBytes": "107885568",
-      "averageUserRating": 4.01394,
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 16067,
+      "userRatingCountForCurrentVersion": 16134,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.01394,
-      "trackCensoredName": "Link to Windows",
-      "trackViewUrl": "https://apps.apple.com/us/app/link-to-windows/id6443686328?uo=4",
       "artistId": 298856275,
       "artistName": "Microsoft Corporation",
       "genres": [
@@ -419,26 +417,28 @@
         "Utilities"
       ],
       "price": 0,
-      "sellerName": "Microsoft Corporation",
-      "primaryGenreName": "Productivity",
-      "primaryGenreId": 6007,
+      "bundleId": "com.microsoft.LinkToWindows",
+      "trackId": 6443686328,
+      "trackName": "Link to Windows",
+      "releaseDate": "2023-02-28T08:00:00Z",
+      "currentVersionReleaseDate": "2026-09-23T21:36:50Z",
       "genreIds": [
         "6007",
         "6002"
       ],
-      "releaseDate": "2023-02-28T08:00:00Z",
-      "currentVersionReleaseDate": "2026-09-23T21:36:50Z",
-      "releaseNotes": "Bug fixes and performance improvements",
+      "primaryGenreName": "Productivity",
+      "primaryGenreId": 6007,
+      "sellerName": "Microsoft Corporation",
+      "isVppDeviceBasedLicensingEnabled": true,
       "version": "1.26091.54.0",
       "wrapperType": "software",
       "currency": "USD",
       "description": "You love your phone. So does your PC. Get instant access to everything you love on your phone, right from your PC. To get started, connect your iPhone with the Phone Link Feature on your Windows PC.\n Enjoy these Phone Link features on your PC: \n\n • Make and receive calls\n • Manage your phone's notifications \n • Read and reply to text messages\n • View your phone contacts\n • Share files between your phone and PC \n\nPhone Link for iOS requires iPhone running iOS 16 or higher, and a PC with Bluetooth Low Energy (BLE) support running Windows 10 (with the May 2019 Update or later) or Windows 11. Not available for iPad (iPadOS) or MacOS.\n\n By installing this app, you agree to the Microsoft Terms of Use https://go.microsoft.com/fwlink/?LinkID=246338 and Privacy Statement https://go.microsoft.com/fwlink/?LinkID=248686",
-      "bundleId": "com.microsoft.LinkToWindows",
-      "minimumOsVersion": "16.6",
-      "trackName": "Link to Windows",
-      "trackId": 6443686328,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "userRatingCount": 16067,
+      "averageUserRating": 4.01518,
+      "trackCensoredName": "Link to Windows",
+      "trackViewUrl": "https://apps.apple.com/us/app/link-to-windows/id6443686328?uo=4",
+      "contentAdvisoryRating": "4+",
+      "userRatingCount": 16134,
       "country": "USA"
     }
   ]

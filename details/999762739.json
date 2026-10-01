@@ -6,11 +6,6 @@
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/c3/ea/9cc3ea18-2c89-2f81-75cf-89e686ff7c44/3.4d-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/c3/ea/9cc3ea18-2c89-2f81-75cf-89e686ff7c44/3.4d-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [],
-      "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/20/59/0f/20590f98-1c5f-3c05-4c37-bf3530e51279/58210fb3-92d7-4fc3-9fce-3028d4455d5b_01_iOS_DE.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c3/0e/70/c30e70f9-ce5b-ce93-efc3-fd0775e36451/8936c79a-5a8b-4502-a3f0-92a60e702c99_02_iOS_DE.png/392x696bb.png",
@@ -24,6 +19,9 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/c3/ea/9cc3ea18-2c89-2f81-75cf-89e686ff7c44/3.4d-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -156,37 +154,14 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "advisories": [],
+      "kind": "software",
       "trackCensoredName": "POSTIDENT",
       "trackViewUrl": "https://apps.apple.com/de/app/postident/id999762739?uo=4",
       "contentAdvisoryRating": "4+",
-      "minimumOsVersion": "17.0",
       "averageUserRating": 4.79235,
-      "artistId": 318784360,
-      "artistName": "Deutsche Post AG",
-      "genres": [
-        "Wirtschaft",
-        "Finanzen"
-      ],
-      "price": 0,
-      "trackId": 999762739,
-      "trackName": "POSTIDENT",
-      "primaryGenreName": "Business",
-      "primaryGenreId": 6000,
-      "genreIds": [
-        "6000",
-        "6015"
-      ],
-      "sellerName": "Deutsche Post AG",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseDate": "2015-06-23T14:05:12Z",
-      "currentVersionReleaseDate": "2026-09-28T05:14:48Z",
-      "releaseNotes": "- Allgemeine kleine Fehlerbehebungen\n- Optimierungen in der Benutzerführung",
-      "version": "34.0",
-      "wrapperType": "software",
-      "currency": "EUR",
-      "description": "Mit der POSTIDENT App können Sie sich bequem und einfach über Ihr Smartphone identifizieren.\n\nJe nachdem, für welches unserer Partnerunternehmen Sie die Identifizierung durchführen, können Sie sich entweder per Videochat, mit der Online-Ausweisfunktion des Personalausweises und des elektronischen Aufenthaltstitels oder vollautomatisch über die Erstellung von Aufnahmen Ihres Ausweisdokuments und Ihres Profils identifizieren. Mit Ihrer Online-Ausweisfunktion oder der automatisierten Prüfung Ihres Ausweisdokuments können Sie sich jederzeit schnell und sicher identifizieren. Bei allen weiteren Identifizierungsverfahren erfolgt die Prüfung Ihrer Daten durch Call-Center-Mitarbeiter der Deutschen Post AG. Diese stehen Ihnen montags bis sonntags in der Zeit von 8 bis 22 Uhr zur Verfügung. Außerdem können Sie den POSTIDENT Coupon zur Identifizierung in Ihrer Filiale direkt über die POSTIDENT App abrufen und müssen diesen damit nicht mehr ausdrucken.\n\nDie Identifizierungsverfahren sind rechtskonform, sicher und funktionieren in nur wenigen Schritten. Geben Sie einfach die Vorgangsnummer ein, die Sie entweder von unserem Partnerunternehmen oder von uns erhalten haben. Die App führt Sie anschließend durch den Vorgang. Bei POSTIDENT durch Videochat erklärt Ihnen zudem ein Mitarbeiter der Deutschen Post, wie das Verfahren im Detail funktioniert.\n\nDie POSTIDENT App ist optimiert für iPads und iPhones mit iOS 17 oder höher.",
       "averageUserRatingForCurrentVersion": 4.79235,
-      "bundleId": "de.deutschepost.postident",
+      "minimumOsVersion": "17.0",
       "sellerUrl": "https://www.youtube.com/watch?v=_Ei-GpJX2rM",
       "languageCodesISO2A": [
         "EN",
@@ -200,9 +175,34 @@
       ],
       "fileSizeBytes": "80727040",
       "formattedPrice": "Gratis",
-      "userRatingCountForCurrentVersion": 493416,
+      "userRatingCountForCurrentVersion": 493810,
       "trackContentRating": "4+",
-      "userRatingCount": 493416,
+      "artistId": 318784360,
+      "artistName": "Deutsche Post AG",
+      "genres": [
+        "Wirtschaft",
+        "Finanzen"
+      ],
+      "releaseDate": "2015-06-23T14:05:12Z",
+      "genreIds": [
+        "6000",
+        "6015"
+      ],
+      "primaryGenreName": "Business",
+      "primaryGenreId": 6000,
+      "trackName": "POSTIDENT",
+      "trackId": 999762739,
+      "sellerName": "Deutsche Post AG",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-09-28T05:14:48Z",
+      "releaseNotes": "- Allgemeine kleine Fehlerbehebungen\n- Optimierungen in der Benutzerführung",
+      "version": "34.0",
+      "wrapperType": "software",
+      "currency": "EUR",
+      "description": "Mit der POSTIDENT App können Sie sich bequem und einfach über Ihr Smartphone identifizieren.\n\nJe nachdem, für welches unserer Partnerunternehmen Sie die Identifizierung durchführen, können Sie sich entweder per Videochat, mit der Online-Ausweisfunktion des Personalausweises und des elektronischen Aufenthaltstitels oder vollautomatisch über die Erstellung von Aufnahmen Ihres Ausweisdokuments und Ihres Profils identifizieren. Mit Ihrer Online-Ausweisfunktion oder der automatisierten Prüfung Ihres Ausweisdokuments können Sie sich jederzeit schnell und sicher identifizieren. Bei allen weiteren Identifizierungsverfahren erfolgt die Prüfung Ihrer Daten durch Call-Center-Mitarbeiter der Deutschen Post AG. Diese stehen Ihnen montags bis sonntags in der Zeit von 8 bis 22 Uhr zur Verfügung. Außerdem können Sie den POSTIDENT Coupon zur Identifizierung in Ihrer Filiale direkt über die POSTIDENT App abrufen und müssen diesen damit nicht mehr ausdrucken.\n\nDie Identifizierungsverfahren sind rechtskonform, sicher und funktionieren in nur wenigen Schritten. Geben Sie einfach die Vorgangsnummer ein, die Sie entweder von unserem Partnerunternehmen oder von uns erhalten haben. Die App führt Sie anschließend durch den Vorgang. Bei POSTIDENT durch Videochat erklärt Ihnen zudem ein Mitarbeiter der Deutschen Post, wie das Verfahren im Detail funktioniert.\n\nDie POSTIDENT App ist optimiert für iPads und iPhones mit iOS 17 oder höher.",
+      "bundleId": "de.deutschepost.postident",
+      "price": 0,
+      "userRatingCount": 493810,
       "country": "DEU"
     }
   ]

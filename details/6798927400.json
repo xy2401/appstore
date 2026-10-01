@@ -2,7 +2,6 @@
   "resultCount": 1,
   "results": [
     {
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/41/08/76410845-1fa4-930f-96c0-419720e8c6b6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/95/0b/20/950b20fd-3e28-1aa1-68a8-a2af716d55c2/6.5-1.jpg/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ff/b6/2f/ffb62f30-5dec-a456-a0ef-be8d28dfe06a/6.5-2.jpg/320x480bb.jpg",
@@ -17,7 +16,9 @@
       ],
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/41/08/76410845-1fa4-930f-96c0-419720e8c6b6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "isGameCenterEnabled": false,
+      "features": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -150,13 +151,11 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "advisories": [],
       "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/jp/developer/lemm/id6798927582?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/41/08/76410845-1fa4-930f-96c0-419720e8c6b6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/41/08/76410845-1fa4-930f-96c0-419720e8c6b6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/jp/developer/lemm/id6798927582?uo=4",
-      "features": [],
-      "advisories": [],
-      "minimumOsVersion": "15.0",
       "averageUserRatingForCurrentVersion": 5,
       "sellerUrl": "https://www.lemmsounds.com/app-flashscore.html",
       "languageCodesISO2A": [
@@ -166,35 +165,36 @@
       "formattedPrice": "¥800",
       "userRatingCountForCurrentVersion": 3,
       "trackContentRating": "4+",
-      "genres": [
-        "教育",
-        "ミュージック"
-      ],
-      "artistId": 6798927582,
-      "artistName": "Lemm",
-      "price": 800,
+      "bundleId": "com.lemm.flashscore",
+      "releaseNotes": "・トップページ右上にFlashSCOREを使用するにあたって最低限必要な知識を解説するコンテンツを追加\n・音程モードを2つの複モードに分割\n　-音程判定:従来の音程モード\n　-音程指定：出題時に基準となるランダムな1音と、特定の音程を表示。回答時にその基準音から見た音程を表示。\n・アプリ全体の再生音やキー・音名表示について移調設定を追加。トップページの全体設定から変更できます。\n・トップページのアイコンやNextボタン等、機種によってUIが崩れる表示上の不具合を修正\n・トップページの全体設定に「トレーニング表示設定」を追加。トレーニング画面の各要素表示領域の比率を変更できるようになりました。\n　それに伴い従来の「Nextボタン表示位置」もここに統合されました。\n・併せて各6モードの設定画面にモード別に更に各要素表示領域の微調整ができる設定項目を追加しました。\n・コード逆引き辞典において、トップノートEb時にCbメジャーが候補に入らない等の候補漏れを修正\n・一部翻訳ミスを修正",
       "trackId": 6798927400,
       "trackName": "FlashSCORE",
-      "sellerName": "Lemm",
-      "primaryGenreName": "Education",
-      "primaryGenreId": 6017,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseDate": "2026-08-31T07:00:00Z",
-      "currentVersionReleaseDate": "2026-09-27T23:07:26Z",
-      "releaseNotes": "・トップページ右上にFlashSCOREを使用するにあたって最低限必要な知識を解説するコンテンツを追加\n・音程モードを2つの複モードに分割\n　-音程判定:従来の音程モード\n　-音程指定：出題時に基準となるランダムな1音と、特定の音程を表示。回答時にその基準音から見た音程を表示。\n・アプリ全体の再生音やキー・音名表示について移調設定を追加。トップページの全体設定から変更できます。\n・トップページのアイコンやNextボタン等、機種によってUIが崩れる表示上の不具合を修正\n・トップページの全体設定に「トレーニング表示設定」を追加。トレーニング画面の各要素表示領域の比率を変更できるようになりました。\n　それに伴い従来の「Nextボタン表示位置」もここに統合されました。\n・併せて各6モードの設定画面にモード別に更に各要素表示領域の微調整ができる設定項目を追加しました。\n・コード逆引き辞典において、トップノートEb時にCbメジャーが候補に入らない等の候補漏れを修正\n・一部翻訳ミスを修正",
-      "version": "1.0.2",
-      "wrapperType": "software",
-      "currency": "JPY",
-      "description": "音楽の基礎力を、少しずつ、確実に。\n\nFlashSCOREは、読譜・音程・コード・モードなど、音楽を学ぶうえで土台となる知識を、フラッシュカード形式で繰り返し確認するための音楽学習アプリです。\n\n楽譜を読む。\n音程を判断する。\nコードの構成音を思い出す。\n調や度数を瞬時に把握する。\n\nこうした基礎的な能力は、作曲、演奏、編曲、音楽理論など、さまざまな音楽学習の効率に大きく関わっています。\n\nFlashSCOREは、それらを「知っている」だけでなく、考え込まずに答えられる状態まで反復することを目的に作られました。\n\n学習できる主な内容：\n\n読譜\n音程\nモード\nコード\nコード構成音の逆引き\nコード進行\n度数・調\n借用和音\n転調\n\nFlashSCOREには、スコアやランキング、対戦などのゲーム要素はありません。\n\n正解数を競うのではなく、ただカードをめくりながら、自分のペースで繰り返し音楽の基礎を確認していくためのアプリです。\n\n通勤・通学中や、ちょっとした待ち時間にも。\n\n片手で使うことを前提に、縦画面とシンプルな操作を中心に設計しています。電車でつり革につかまりながらでも、短い空き時間に少しずつ練習できます。\n\n設定項目も細かく用意しているため、自分が覚えたい内容や苦手な分野に合わせてトレーニングできます。\n\n音楽を始めたばかりの方から、作曲・編曲・演奏を学んでいる方、すでに音楽活動をしていて基礎力を維持したい方まで。\n\nFlashSCOREで、音楽家としての「基礎体力」を鍛えてみませんか。",
-      "averageUserRating": 5,
-      "trackViewUrl": "https://apps.apple.com/jp/app/flashscore/id6798927400?uo=4",
-      "contentAdvisoryRating": "4+",
-      "trackCensoredName": "FlashSCORE",
-      "bundleId": "com.lemm.flashscore",
       "genreIds": [
         "6017",
         "6011"
       ],
+      "primaryGenreName": "Education",
+      "primaryGenreId": 6017,
+      "sellerName": "Lemm",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-09-27T23:07:26Z",
+      "version": "1.0.2",
+      "wrapperType": "software",
+      "currency": "JPY",
+      "description": "音楽の基礎力を、少しずつ、確実に。\n\nFlashSCOREは、読譜・音程・コード・モードなど、音楽を学ぶうえで土台となる知識を、フラッシュカード形式で繰り返し確認するための音楽学習アプリです。\n\n楽譜を読む。\n音程を判断する。\nコードの構成音を思い出す。\n調や度数を瞬時に把握する。\n\nこうした基礎的な能力は、作曲、演奏、編曲、音楽理論など、さまざまな音楽学習の効率に大きく関わっています。\n\nFlashSCOREは、それらを「知っている」だけでなく、考え込まずに答えられる状態まで反復することを目的に作られました。\n\n学習できる主な内容：\n\n読譜\n音程\nモード\nコード\nコード構成音の逆引き\nコード進行\n度数・調\n借用和音\n転調\n\nFlashSCOREには、スコアやランキング、対戦などのゲーム要素はありません。\n\n正解数を競うのではなく、ただカードをめくりながら、自分のペースで繰り返し音楽の基礎を確認していくためのアプリです。\n\n通勤・通学中や、ちょっとした待ち時間にも。\n\n片手で使うことを前提に、縦画面とシンプルな操作を中心に設計しています。電車でつり革につかまりながらでも、短い空き時間に少しずつ練習できます。\n\n設定項目も細かく用意しているため、自分が覚えたい内容や苦手な分野に合わせてトレーニングできます。\n\n音楽を始めたばかりの方から、作曲・編曲・演奏を学んでいる方、すでに音楽活動をしていて基礎力を維持したい方まで。\n\nFlashSCOREで、音楽家としての「基礎体力」を鍛えてみませんか。",
+      "minimumOsVersion": "15.0",
+      "averageUserRating": 5,
+      "trackCensoredName": "FlashSCORE",
+      "trackViewUrl": "https://apps.apple.com/jp/app/flashscore/id6798927400?uo=4",
+      "contentAdvisoryRating": "4+",
+      "releaseDate": "2026-08-31T07:00:00Z",
+      "artistId": 6798927582,
+      "artistName": "Lemm",
+      "genres": [
+        "教育",
+        "ミュージック"
+      ],
+      "price": 800,
       "userRatingCount": 3,
       "country": "JPN"
     }

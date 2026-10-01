@@ -212,7 +212,6 @@
     },
     {
       "isGameCenterEnabled": false,
-      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -345,6 +344,10 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "features": [
+        "iosUniversal"
+      ],
+      "advisories": [],
       "kind": "software",
       "artistViewUrl": "https://apps.apple.com/jp/developer/forvo-media-sl/id375819096?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/cb/43/d6cb43f3-3e21-234c-8fd5-d611de0a0616/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
@@ -375,10 +378,7 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/cb/43/d6cb43f3-3e21-234c-8fd5-d611de0a0616/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
-      "minimumOsVersion": "14.0",
+      "releaseNotes": "- New: Settings > Languages I speak. Choose the languages you can record in, directly from the app.\n- Fixed sharing on iOS 26: the share sheet now opens as expected.\n- Stability improvements.",
       "artistId": 375819096,
       "artistName": "Forvo Media SL",
       "genres": [
@@ -386,19 +386,19 @@
         "教育"
       ],
       "price": 500,
-      "trackName": "Forvo Pronunciation",
+      "bundleId": "com.local.forvoenglish",
       "trackId": 375819093,
-      "sellerName": "Forvo Media SL",
+      "trackName": "Forvo Pronunciation",
+      "isVppDeviceBasedLicensingEnabled": true,
       "genreIds": [
         "6006",
         "6017"
       ],
-      "isVppDeviceBasedLicensingEnabled": true,
       "releaseDate": "2010-06-24T01:02:14Z",
       "primaryGenreName": "Reference",
       "primaryGenreId": 6006,
+      "sellerName": "Forvo Media SL",
       "currentVersionReleaseDate": "2026-09-03T16:10:29Z",
-      "releaseNotes": "- New: Settings > Languages I speak. Choose the languages you can record in, directly from the app.\n- Fixed sharing on iOS 26: the share sheet now opens as expected.\n- Stability improvements.",
       "version": "4.2.4",
       "wrapperType": "software",
       "currency": "JPY",
@@ -407,9 +407,7 @@
       "trackCensoredName": "Forvo Pronunciation",
       "trackViewUrl": "https://apps.apple.com/jp/app/forvo-pronunciation/id375819093?uo=4",
       "contentAdvisoryRating": "4+",
-      "bundleId": "com.local.forvoenglish",
       "averageUserRatingForCurrentVersion": 3.47115,
-      "sellerUrl": "https://forvo.com/app-ios-android",
       "languageCodesISO2A": [
         "EN",
         "FR",
@@ -420,6 +418,8 @@
       "formattedPrice": "¥500",
       "userRatingCountForCurrentVersion": 104,
       "trackContentRating": "4+",
+      "minimumOsVersion": "14.0",
+      "sellerUrl": "https://forvo.com/app-ios-android",
       "userRatingCount": 104,
       "country": "JPN"
     },

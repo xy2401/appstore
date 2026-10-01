@@ -3,7 +3,6 @@
   "results": [
     {
       "isGameCenterEnabled": false,
-      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -136,6 +135,10 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "features": [
+        "iosUniversal"
+      ],
+      "advisories": [],
       "kind": "software",
       "artistViewUrl": "https://apps.apple.com/jp/developer/spoonjack-llc/id306629303?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/8a/e7/408ae70b-c58a-d413-ee1f-aa5e440fc91b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
@@ -156,10 +159,7 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/8a/e7/408ae70b-c58a-d413-ee1f-aa5e440fc91b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
-      "minimumOsVersion": "15.0",
+      "releaseNotes": "+ 新しいiOSバージョンおよびデバイスでの演奏の安定性を向上\n+ 通知サポートを改善",
       "artistId": 306629303,
       "artistName": "Spoonjack, LLC",
       "genres": [
@@ -167,19 +167,19 @@
         "エンターテインメント"
       ],
       "price": 500,
-      "trackName": "iBone - ポケットトロンボーン",
+      "bundleId": "com.spoonjack.iBone",
       "trackId": 306629300,
-      "sellerName": "Spoonjack, LLC",
+      "trackName": "iBone - ポケットトロンボーン",
+      "isVppDeviceBasedLicensingEnabled": true,
       "genreIds": [
         "6011",
         "6016"
       ],
-      "isVppDeviceBasedLicensingEnabled": true,
       "releaseDate": "2009-03-04T04:11:18Z",
       "primaryGenreName": "Music",
       "primaryGenreId": 6011,
+      "sellerName": "Spoonjack, LLC",
       "currentVersionReleaseDate": "2026-09-11T23:44:39Z",
-      "releaseNotes": "+ 新しいiOSバージョンおよびデバイスでの演奏の安定性を向上\n+ 通知サポートを改善",
       "version": "1.6.1",
       "wrapperType": "software",
       "currency": "JPY",
@@ -188,9 +188,7 @@
       "trackCensoredName": "iBone - ポケットトロンボーン",
       "trackViewUrl": "https://apps.apple.com/jp/app/ibone-%E3%83%9D%E3%82%B1%E3%83%83%E3%83%88%E3%83%88%E3%83%AD%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%B3/id306629300?uo=4",
       "contentAdvisoryRating": "4+",
-      "bundleId": "com.spoonjack.iBone",
       "averageUserRatingForCurrentVersion": 3.25,
-      "sellerUrl": "http://ibone.spoonjack.com/",
       "languageCodesISO2A": [
         "EN"
       ],
@@ -198,6 +196,8 @@
       "formattedPrice": "¥500",
       "userRatingCountForCurrentVersion": 4,
       "trackContentRating": "4+",
+      "minimumOsVersion": "15.0",
+      "sellerUrl": "http://ibone.spoonjack.com/",
       "userRatingCount": 4,
       "country": "JPN"
     }

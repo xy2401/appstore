@@ -3,7 +3,6 @@
   "results": [
     {
       "isGameCenterEnabled": false,
-      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -136,6 +135,8 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "features": [],
+      "advisories": [],
       "kind": "software",
       "artistViewUrl": "https://apps.apple.com/jp/developer/zoom-corporation/id566291782?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/91/49/90/9149902d-e803-ec1d-4cf7-209a5a4e132e/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/60x60bb.jpg",
@@ -146,8 +147,6 @@
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/91/49/90/9149902d-e803-ec1d-4cf7-209a5a4e132e/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg",
-      "features": [],
-      "minimumOsVersion": "15",
       "artistId": 566291782,
       "artistName": "ZOOM Corporation",
       "genres": [
@@ -155,17 +154,18 @@
         "エンターテインメント"
       ],
       "price": 150,
-      "trackName": "Handy Guitar Lab for MS-50G+",
+      "bundleId": "jp.co.zoom.HandyGuitarLabforMS50GPlus",
       "trackId": 6468022042,
-      "sellerName": "ZOOM CORPORATION",
+      "trackName": "Handy Guitar Lab for MS-50G+",
+      "isVppDeviceBasedLicensingEnabled": true,
       "genreIds": [
         "6011",
         "6016"
       ],
-      "isVppDeviceBasedLicensingEnabled": true,
       "releaseDate": "2023-11-14T08:00:00Z",
       "primaryGenreName": "Music",
       "primaryGenreId": 6011,
+      "sellerName": "ZOOM CORPORATION",
       "currentVersionReleaseDate": "2023-11-15T02:29:13Z",
       "version": "1.0",
       "wrapperType": "software",
@@ -175,7 +175,6 @@
       "trackCensoredName": "Handy Guitar Lab for MS-50G+",
       "trackViewUrl": "https://apps.apple.com/jp/app/handy-guitar-lab-for-ms-50g/id6468022042?uo=4",
       "contentAdvisoryRating": "4+",
-      "bundleId": "jp.co.zoom.HandyGuitarLabforMS50GPlus",
       "averageUserRatingForCurrentVersion": 1.94444,
       "languageCodesISO2A": [
         "EN",
@@ -185,6 +184,7 @@
       "formattedPrice": "¥150",
       "userRatingCountForCurrentVersion": 18,
       "trackContentRating": "4+",
+      "minimumOsVersion": "15",
       "userRatingCount": 18,
       "country": "JPN"
     }

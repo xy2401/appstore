@@ -2,9 +2,12 @@
   "resultCount": 1,
   "results": [
     {
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/27/41/ab27416c-d01a-de59-5123-97e77e8ee955/AppIcon-0-0-1x_U007epad-0-85-220.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/de/developer/balazs-galambosi/id936480978?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/27/41/ab27416c-d01a-de59-5123-97e77e8ee955/AppIcon-0-0-1x_U007epad-0-85-220.png/60x60bb.jpg",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/04/e6/49/04e6496b-ef10-96d5-0fce-442130111dc1/68e443ee-c814-424a-928b-de858385868c_New_Project.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/62/c2/1f/62c21f79-1941-e4e1-f440-ec75ebee1efa/eefde39d-333e-4ae7-918f-21ee7e676851_New_Project-2.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/6b/e6/09/6be609b7-7f89-d866-8ab8-617a7fe72d62/fea6b4a9-28c9-407d-8723-96d000fa1cc9_New_Project-3.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource123/v4/4a/59/63/4a59631c-c798-1b2c-334f-299ac9ad977d/f48e8b8f-51aa-4a12-9b44-3bfa6639acb0_1242x2208bb-2.png/392x696bb.png"
+      ],
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/f7/7b/09/f77b094e-d6f6-b670-ba5e-0a6b97b55a46/f5d83c7a-fc84-46be-a2fd-038a5579921c_ipad-shot.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/86/a9/9f/86a99f2b-69fd-4170-7b0c-476a4da98816/a68efbe9-d7b0-4c3e-804b-b5b66b5d86ed_ipad-shot-2.png/576x768bb.png",
@@ -13,19 +16,14 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/99/c3/16/99c31668-cbff-2251-0b20-4df5bd54d227/2256981b-9bea-4dc7-a85c-b846f8bbf2a3_ipad-shot-5.png/576x768bb.png"
       ],
       "appletvScreenshotUrls": [],
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/27/41/ab27416c-d01a-de59-5123-97e77e8ee955/AppIcon-0-0-1x_U007epad-0-85-220.png/60x60bb.jpg",
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/27/41/ab27416c-d01a-de59-5123-97e77e8ee955/AppIcon-0-0-1x_U007epad-0-85-220.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/04/e6/49/04e6496b-ef10-96d5-0fce-442130111dc1/68e443ee-c814-424a-928b-de858385868c_New_Project.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/62/c2/1f/62c21f79-1941-e4e1-f440-ec75ebee1efa/eefde39d-333e-4ae7-918f-21ee7e676851_New_Project-2.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/6b/e6/09/6be609b7-7f89-d866-8ab8-617a7fe72d62/fea6b4a9-28c9-407d-8723-96d000fa1cc9_New_Project-3.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource123/v4/4a/59/63/4a59631c-c798-1b2c-334f-299ac9ad977d/f48e8b8f-51aa-4a12-9b44-3bfa6639acb0_1242x2208bb-2.png/392x696bb.png"
-      ],
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/27/41/ab27416c-d01a-de59-5123-97e77e8ee955/AppIcon-0-0-1x_U007epad-0-85-220.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/de/developer/balazs-galambosi/id936480978?uo=4",
       "features": [
         "iosUniversal"
       ],
-      "advisories": [],
-      "kind": "software",
+      "isGameCenterEnabled": false,
       "supportedDevices": [
         "MacDesktop-MacDesktop",
         "iPhone5s-iPhone5s",
@@ -159,44 +157,46 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "contentAdvisoryRating": "4+",
-      "trackCensoredName": "Dark Night - mode for Safari",
-      "trackViewUrl": "https://apps.apple.com/de/app/dark-night-mode-for-safari/id1592844577?uo=4",
-      "averageUserRating": 4.06944,
-      "minimumOsVersion": "15.0",
+      "advisories": [],
+      "kind": "software",
       "releaseNotes": "various bug fixes and performance enhancements",
       "averageUserRatingForCurrentVersion": 4.06944,
+      "minimumOsVersion": "15.0",
+      "averageUserRating": 4.06944,
+      "trackCensoredName": "Dark Night - mode for Safari",
       "languageCodesISO2A": [
         "EN"
       ],
       "fileSizeBytes": "5047296",
       "formattedPrice": "0,99 €",
+      "contentAdvisoryRating": "4+",
       "userRatingCountForCurrentVersion": 72,
+      "trackViewUrl": "https://apps.apple.com/de/app/dark-night-mode-for-safari/id1592844577?uo=4",
       "trackContentRating": "4+",
-      "genres": [
-        "Dienst­programme",
-        "Produktivität"
-      ],
+      "price": 0.99,
       "artistId": 936480978,
       "artistName": "Balazs Galambosi",
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
-      "bundleId": "com.galambalazs.Neo-Noir",
+      "releaseDate": "2021-11-01T07:00:00Z",
+      "trackId": 1592844577,
+      "trackName": "Dark Night - mode for Safari",
       "genreIds": [
         "6002",
         "6007"
       ],
-      "releaseDate": "2021-11-01T07:00:00Z",
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
       "sellerName": "Balazs Galambosi",
+      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2024-10-15T09:02:08Z",
       "version": "1.4.2",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Diese Safari-Erweiterung bietet den Dunkelmodus\nSurfen in Safari. Dark Night Nachtmodus fügt hinzu\nein schönes Thema für jede Seite, die Sie besuchen.\n\nEs basiert auf dem Dark Reader-Projekt\nvon über 4.000.000 Benutzern verwendet.\nSo sieht der Dark Mode auf jeder Website aus\nwurde sorgfältig getestet.\n\nDark Night SAFARI ERWEITERUNG KOSTENLOS NUTZEN\n\nDer integrierte Safari-Dunkelmodus ist kostenlos und\nwird für immer kostenlos bleiben mit voller Unterstützung für\nalle Websites für genussvolle Nachtlektüre.\n\nIHRE DATENSCHUTZ, UNSERE PRIORITÄT\n\nDie Dark Night-Erweiterung wurde mit Privatsphäre gebaut\nals nein. 1 Priorität, damit keine gesammelt wird\nDaten von Safari beim Surfen mit\nruhige Augen. Die Datenschutzerklärung ist auf der verlinkt\nGeschäft.\n\nPASSE ES AN\n\nDiese Erweiterung kann pro Website deaktiviert werden\nBasis und konfiguriert, um dem System zu folgen\nDunkelmodus (dunkel in der Nacht, hell während der\nTag). Verwenden Sie einfach das Safari-Erweiterungsmenü, um\ndarauf zuzugreifen.\n\n--\n\nBerichte und Feedback sind willkommen unter:\nneonoirapp@gmail.com\n\n--\n\nDIE ZUKUNFT IST BUNTEN\n\nWeitere benutzerdefinierte Themen folgen in Kürze,\nMachen Sie sich bereit, alle Websites nach Ihren Wünschen auszumalen\nGeschmack!\n\nDieses optionale Extra ist der einzige Ort, an dem\nWir können eine kleine Gebühr erheben und Ihre Art\nBeitrag wird die Entwicklung von\ndieses Projekt. Die Hälfte aller Einnahmen fließt\nzurück zum Dark Reader-Community-Projekt.\n\nSCHÖNES NACHT-SUCHEN BEGINNT HIER\n\nSie können die App gerne weiter verwenden\nfür immer kostenlos!\n\nWorauf wartest du? Deine Augen sind die\nÄpfel deiner Augen!\n\nWir sehen uns auf der anderen Seite.\n(Ich frage mich, welcher das ist... ;)",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "price": 0.99,
-      "trackName": "Dark Night - mode for Safari",
-      "trackId": 1592844577,
+      "bundleId": "com.galambalazs.Neo-Noir",
+      "genres": [
+        "Dienst­programme",
+        "Produktivität"
+      ],
       "userRatingCount": 72,
       "country": "DEU"
     }

@@ -226,11 +226,6 @@
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/cb/b7/6fcbb7d8-0243-ed59-36e3-41e8ea4a454c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/cb/b7/6fcbb7d8-0243-ed59-36e3-41e8ea4a454c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [],
-      "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ee/d7/08/eed708fa-10af-d645-03e8-cb28fc7a4b33/ios-01.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c7/e2/33/c7e23389-dfdb-62a8-63a9-0c1d062c9336/ios-02.png/320x480bb.jpg",
@@ -257,6 +252,9 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/cb/b7/6fcbb7d8-0243-ed59-36e3-41e8ea4a454c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "MacDesktop-MacDesktop",
         "iPhone5s-iPhone5s",
@@ -391,37 +389,14 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "advisories": [],
+      "kind": "software",
       "trackCensoredName": "NaviBeat",
       "trackViewUrl": "https://apps.apple.com/de/app/navibeat/id6763518834?uo=4",
       "contentAdvisoryRating": "4+",
-      "minimumOsVersion": "17.0",
       "averageUserRating": 4.53846,
-      "artistId": 1895353961,
-      "artistName": "Nenad Jokic",
-      "genres": [
-        "Musik",
-        "Unterhaltung"
-      ],
-      "price": 6.99,
-      "trackId": 6763518834,
-      "trackName": "NaviBeat",
-      "primaryGenreName": "Music",
-      "primaryGenreId": 6011,
-      "genreIds": [
-        "6011",
-        "6016"
-      ],
-      "sellerName": "Nenad Jokic",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseDate": "2026-05-22T07:00:00Z",
-      "currentVersionReleaseDate": "2026-09-26T20:13:16Z",
-      "releaseNotes": "NEW IN THIS VERSION\n\nReady for Navidrome's new sign-in. Navidrome plans to turn off token sign-in by default. NaviBeat still tries the token first, and if your server says no, it signs in with your password and remembers that for the server. It can also sign in with an API key, for servers that offer one.\n\nLook & Feel. Artist and album pages and Now Playing can take the blurred colour of the cover, with a slider for how strong it is. On iPhone with Filled, Now Playing shows the cover edge to edge, its bottom fades into the page, and the next cover slides in as you swipe.\n\nAlbum and artist pages that fit the screen. Turn your iPhone sideways and the page is two columns, cover on the left and songs on the right. On iPhone Duo the page follows the sidebar and the hinge.\n\nYour queue is safe. If songs you added with Play Next or Add to Queue are still waiting, a tap on a song asks before it replaces them.\n\nReverse Order in the sort menu of playlists and song lists, and Songs sorted by Date Added now lists every song, album tag or not.\n\nBigger artwork. \"Larger artwork in grids\" shows fewer, bigger covers in every grid, with bigger titles.\n\nAn equalizer that reads AutoEQ. Import a headphone profile from text, use peak and shelf bands, and drag points on the curve to shape the sound.\n\nSmart playlists are sorted by name and shown as tiles above your playlists. Playlists has an Owner menu when your server shares playlists from several accounts, and Select mode has Play.\n\nDiscography your way. Grouping by release type can be switched off, and a single or EP tagged as an album too shows only under Singles or EPs.\n\nOffline that keeps its shape. Downloaded playlists keep the server's order, mirrored playlists show up offline, and on iPhone and iPad the \"Show downloaded only\" button is on every Library page.\n\nApple TV works behind a gateway that needs custom headers, covers included. The setup wizard offers the Look & Feel choices from Settings.\n\nMac. Choose where downloads live, an external drive too. Stop is in the playing bar's ... menu and on Cmd+.\n\nApple Watch runs from watchOS 10, so the first Apple Watch SE can run it.\n\nFIXED\n\nA song that stopped at its very end with Pause showing now moves on. A stream that freezes on mobile data restarts where it was. Crossfade works again for streamed songs. A song your server cannot play is skipped. Ratings given without a connection are sent later. The widget's Play works from a cold start. The \"No network\" bar shows only when the server really stops answering. Serbian texts have their proper letters. And many smaller fixes for battery, memory and fewer requests to your server.",
-      "version": "1.5.2",
-      "wrapperType": "software",
-      "currency": "EUR",
-      "description": "NaviBeat brings your own music library to every Apple device you own: iPhone, iPad, Mac, Apple TV, and Apple Watch, plus CarPlay, as a single Universal Purchase. Pay once.\n\nNo subscriptions. No ads. No tracking. No NaviBeat cloud. Your music stays on your own server, exactly where you put it. NaviBeat just plays it, beautifully.\n\nABOUT NAVIDROME\n\nNaviBeat is a client for Navidrome, the free and open-source self-hosted music server. Run Navidrome on a NAS, a Raspberry Pi, a VPS or any machine you control, and NaviBeat streams your collection to every Apple device. Airsonic-Advanced, Gonic and any OpenSubsonic server work too.\n\nON iPHONE & iPAD\n- Browse artists, albums, playlists and genres\n- Voice and text search with live results\n- Now Playing with synced lyrics\n- Background audio, Control Center, AirPlay, Lock Screen and Home Screen widgets\n- Offline: keep a song, an album, a playlist or a whole artist on the device\n- Listening Stats: a 24-hour clock, a weekday heatmap, your top artists and songs\n- Smart Playlists you write yourself, from rating, genre, year, play count and more, kept current and synced across your devices\n- Start on one device and carry on with another. The device you left pauses itself\n\nIN THE CAR\n\n- Full CarPlay support, included in the same purchase\n- Your library, playlists, downloads and Now Playing on the car screen\n- Voice search that resolves the play command against your own library, not a streaming catalogue, in all 12 of the app's languages\n\nON MAC\n\n- A real Mac app, not a phone app in a window\n- A Mini Player that pins over any window\n- Keyboard shortcuts, multi-window and directory browsing, desktop widgets\n- NaviSyncRock: sync your library to a Rockbox player. Your server does the transcoding, art is re-encoded so it renders, and plays sync back. A separate one-time in-app unlock.\n\nON APPLE TV\n\n- Cinema-scale artwork and discovery shelves\n- Recently Played, Most Played, Rediscover, On This Day, Because You Listened To\n- Voice search via the Siri Remote\n- Full-screen Now Playing with synced lyrics\n\nON APPLE WATCH\n\n- Now Playing complications on any watch face\n- Music stored on the watch and played from it, so you can run without your iPhone\n- Downloads pulled straight from your server over Wi-Fi\n\nAUDIO\n\n- Selectable high-fidelity playback engine\n- 10-band equalizer with presets\n- ReplayGain volume normalisation, per track or per album\n- Gapless playback\n- Streaming quality set separately for Wi-Fi and cellular, in Opus, AAC and MP3 tiers, or send the original file untouched\n- Internet radio\n\nYOUR LIBRARY, YOUR WAY\n\n- Multi-library Navidrome support: All Libraries, a single library, or any subset, filtered on the server\n- Star ratings synced to your server\n- Classical music: automatic work and movement grouping\n- Optional Last.fm and ListenBrainz integration. Scrobbles route through your own server, never directly from the app.\n- Server Health diagnostics: server type, version, OpenSubsonic extensions, scan status\n\nREACHING YOUR SERVER\n\nBuilt for a locked-down homelab. Custom HTTP headers for Cloudflare Access and Authelia, mTLS client certificates, and access over Tailscale all work, on every platform, with no third-party relay in between.\n\nTWELVE LANGUAGES\n\nEnglish, German, French, Italian, Spanish, Polish, Brazilian Portuguese, Russian, Ukrainian, Serbian, Simplified Chinese, and Traditional Chinese, with an in-app language picker on every platform.\n\nREQUIREMENTS\n\nNaviBeat requires a running Navidrome server (v0.50 or later, free and open source) accessible from your Apple device. Self-host it on a home NAS, a Raspberry Pi, a VPS, or any machine you control. See navibeat.app for setup.\n\nNaviBeat is a third-party client, not affiliated with the Navidrome project.\n\nPRIVACY\n\nNaviBeat collects zero data. There is no NaviBeat backend, no analytics, no telemetry and no third-party SDKs. Your credentials live in your device's Keychain. Your listening history stays on device. See navibeat.app/privacy.",
       "averageUserRatingForCurrentVersion": 4.53846,
-      "bundleId": "app.navibeat.NaviBeatApp",
+      "minimumOsVersion": "17.0",
       "sellerUrl": "https://navibeat.app",
       "languageCodesISO2A": [
         "EN",
@@ -441,6 +416,31 @@
       "formattedPrice": "6,99 €",
       "userRatingCountForCurrentVersion": 13,
       "trackContentRating": "4+",
+      "artistId": 1895353961,
+      "artistName": "Nenad Jokic",
+      "genres": [
+        "Musik",
+        "Unterhaltung"
+      ],
+      "releaseDate": "2026-05-22T07:00:00Z",
+      "genreIds": [
+        "6011",
+        "6016"
+      ],
+      "primaryGenreName": "Music",
+      "primaryGenreId": 6011,
+      "trackName": "NaviBeat",
+      "trackId": 6763518834,
+      "sellerName": "Nenad Jokic",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-09-26T20:13:16Z",
+      "releaseNotes": "NEW IN THIS VERSION\n\nReady for Navidrome's new sign-in. Navidrome plans to turn off token sign-in by default. NaviBeat still tries the token first, and if your server says no, it signs in with your password and remembers that for the server. It can also sign in with an API key, for servers that offer one.\n\nLook & Feel. Artist and album pages and Now Playing can take the blurred colour of the cover, with a slider for how strong it is. On iPhone with Filled, Now Playing shows the cover edge to edge, its bottom fades into the page, and the next cover slides in as you swipe.\n\nAlbum and artist pages that fit the screen. Turn your iPhone sideways and the page is two columns, cover on the left and songs on the right. On iPhone Duo the page follows the sidebar and the hinge.\n\nYour queue is safe. If songs you added with Play Next or Add to Queue are still waiting, a tap on a song asks before it replaces them.\n\nReverse Order in the sort menu of playlists and song lists, and Songs sorted by Date Added now lists every song, album tag or not.\n\nBigger artwork. \"Larger artwork in grids\" shows fewer, bigger covers in every grid, with bigger titles.\n\nAn equalizer that reads AutoEQ. Import a headphone profile from text, use peak and shelf bands, and drag points on the curve to shape the sound.\n\nSmart playlists are sorted by name and shown as tiles above your playlists. Playlists has an Owner menu when your server shares playlists from several accounts, and Select mode has Play.\n\nDiscography your way. Grouping by release type can be switched off, and a single or EP tagged as an album too shows only under Singles or EPs.\n\nOffline that keeps its shape. Downloaded playlists keep the server's order, mirrored playlists show up offline, and on iPhone and iPad the \"Show downloaded only\" button is on every Library page.\n\nApple TV works behind a gateway that needs custom headers, covers included. The setup wizard offers the Look & Feel choices from Settings.\n\nMac. Choose where downloads live, an external drive too. Stop is in the playing bar's ... menu and on Cmd+.\n\nApple Watch runs from watchOS 10, so the first Apple Watch SE can run it.\n\nFIXED\n\nA song that stopped at its very end with Pause showing now moves on. A stream that freezes on mobile data restarts where it was. Crossfade works again for streamed songs. A song your server cannot play is skipped. Ratings given without a connection are sent later. The widget's Play works from a cold start. The \"No network\" bar shows only when the server really stops answering. Serbian texts have their proper letters. And many smaller fixes for battery, memory and fewer requests to your server.",
+      "version": "1.5.2",
+      "wrapperType": "software",
+      "currency": "EUR",
+      "description": "NaviBeat brings your own music library to every Apple device you own: iPhone, iPad, Mac, Apple TV, and Apple Watch, plus CarPlay, as a single Universal Purchase. Pay once.\n\nNo subscriptions. No ads. No tracking. No NaviBeat cloud. Your music stays on your own server, exactly where you put it. NaviBeat just plays it, beautifully.\n\nABOUT NAVIDROME\n\nNaviBeat is a client for Navidrome, the free and open-source self-hosted music server. Run Navidrome on a NAS, a Raspberry Pi, a VPS or any machine you control, and NaviBeat streams your collection to every Apple device. Airsonic-Advanced, Gonic and any OpenSubsonic server work too.\n\nON iPHONE & iPAD\n- Browse artists, albums, playlists and genres\n- Voice and text search with live results\n- Now Playing with synced lyrics\n- Background audio, Control Center, AirPlay, Lock Screen and Home Screen widgets\n- Offline: keep a song, an album, a playlist or a whole artist on the device\n- Listening Stats: a 24-hour clock, a weekday heatmap, your top artists and songs\n- Smart Playlists you write yourself, from rating, genre, year, play count and more, kept current and synced across your devices\n- Start on one device and carry on with another. The device you left pauses itself\n\nIN THE CAR\n\n- Full CarPlay support, included in the same purchase\n- Your library, playlists, downloads and Now Playing on the car screen\n- Voice search that resolves the play command against your own library, not a streaming catalogue, in all 12 of the app's languages\n\nON MAC\n\n- A real Mac app, not a phone app in a window\n- A Mini Player that pins over any window\n- Keyboard shortcuts, multi-window and directory browsing, desktop widgets\n- NaviSyncRock: sync your library to a Rockbox player. Your server does the transcoding, art is re-encoded so it renders, and plays sync back. A separate one-time in-app unlock.\n\nON APPLE TV\n\n- Cinema-scale artwork and discovery shelves\n- Recently Played, Most Played, Rediscover, On This Day, Because You Listened To\n- Voice search via the Siri Remote\n- Full-screen Now Playing with synced lyrics\n\nON APPLE WATCH\n\n- Now Playing complications on any watch face\n- Music stored on the watch and played from it, so you can run without your iPhone\n- Downloads pulled straight from your server over Wi-Fi\n\nAUDIO\n\n- Selectable high-fidelity playback engine\n- 10-band equalizer with presets\n- ReplayGain volume normalisation, per track or per album\n- Gapless playback\n- Streaming quality set separately for Wi-Fi and cellular, in Opus, AAC and MP3 tiers, or send the original file untouched\n- Internet radio\n\nYOUR LIBRARY, YOUR WAY\n\n- Multi-library Navidrome support: All Libraries, a single library, or any subset, filtered on the server\n- Star ratings synced to your server\n- Classical music: automatic work and movement grouping\n- Optional Last.fm and ListenBrainz integration. Scrobbles route through your own server, never directly from the app.\n- Server Health diagnostics: server type, version, OpenSubsonic extensions, scan status\n\nREACHING YOUR SERVER\n\nBuilt for a locked-down homelab. Custom HTTP headers for Cloudflare Access and Authelia, mTLS client certificates, and access over Tailscale all work, on every platform, with no third-party relay in between.\n\nTWELVE LANGUAGES\n\nEnglish, German, French, Italian, Spanish, Polish, Brazilian Portuguese, Russian, Ukrainian, Serbian, Simplified Chinese, and Traditional Chinese, with an in-app language picker on every platform.\n\nREQUIREMENTS\n\nNaviBeat requires a running Navidrome server (v0.50 or later, free and open source) accessible from your Apple device. Self-host it on a home NAS, a Raspberry Pi, a VPS, or any machine you control. See navibeat.app for setup.\n\nNaviBeat is a third-party client, not affiliated with the Navidrome project.\n\nPRIVACY\n\nNaviBeat collects zero data. There is no NaviBeat backend, no analytics, no telemetry and no third-party SDKs. Your credentials live in your device's Keychain. Your listening history stays on device. See navibeat.app/privacy.",
+      "bundleId": "app.navibeat.NaviBeatApp",
+      "price": 6.99,
       "userRatingCount": 13,
       "country": "DEU"
     }

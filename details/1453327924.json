@@ -202,7 +202,6 @@
     },
     {
       "isGameCenterEnabled": false,
-      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -336,6 +335,8 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "features": [],
+      "advisories": [],
       "kind": "software",
       "artistViewUrl": "https://apps.apple.com/jp/developer/takuya-kimura/id982728568?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/41/79/5e4179f8-a5a6-106d-035d-cb7499a9eeb7/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg",
@@ -355,8 +356,7 @@
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/41/79/5e4179f8-a5a6-106d-035d-cb7499a9eeb7/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
-      "features": [],
-      "minimumOsVersion": "15.1",
+      "releaseNotes": "いつもゴルフスコアカウンターをご利用いただき、誠にありがとうございます。\n\n以下の改善を行いました。\n\n・Apple Watchの「一覧から選択」で、ラウンド数が多い場合に一覧の読み込みに失敗しやすかった問題を少しだけ改善しました。\n・iPhoneの「履歴からゴルフ場名/PAR反映」で、履歴が新しい順に表示されるようにしました。\n\n今後ともゴルフスコアカウンターをよろしくお願いいたします。",
       "artistId": 982728568,
       "artistName": "takuya kimura",
       "genres": [
@@ -364,19 +364,19 @@
         "ヘルスケア／フィットネス"
       ],
       "price": 490,
-      "trackName": "ゴルフスコアカウンター - スマートなゴルフカウンター",
+      "bundleId": "jp.golfscorecounter.GolfScoreCounter",
       "trackId": 1453327924,
-      "sellerName": "takuya kimura",
+      "trackName": "ゴルフスコアカウンター - スマートなゴルフカウンター",
+      "isVppDeviceBasedLicensingEnabled": true,
       "genreIds": [
         "6004",
         "6013"
       ],
-      "isVppDeviceBasedLicensingEnabled": true,
       "releaseDate": "2019-02-19T02:09:13Z",
       "primaryGenreName": "Sports",
       "primaryGenreId": 6004,
+      "sellerName": "takuya kimura",
       "currentVersionReleaseDate": "2026-09-27T17:41:43Z",
-      "releaseNotes": "いつもゴルフスコアカウンターをご利用いただき、誠にありがとうございます。\n\n以下の改善を行いました。\n\n・Apple Watchの「一覧から選択」で、ラウンド数が多い場合に一覧の読み込みに失敗しやすかった問題を少しだけ改善しました。\n・iPhoneの「履歴からゴルフ場名/PAR反映」で、履歴が新しい順に表示されるようにしました。\n\n今後ともゴルフスコアカウンターをよろしくお願いいたします。",
       "version": "44.0",
       "wrapperType": "software",
       "currency": "JPY",
@@ -385,9 +385,7 @@
       "trackCensoredName": "ゴルフスコアカウンター - スマートなゴルフカウンター",
       "trackViewUrl": "https://apps.apple.com/jp/app/%E3%82%B4%E3%83%AB%E3%83%95%E3%82%B9%E3%82%B3%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%82%BF%E3%83%BC-%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%81%AA%E3%82%B4%E3%83%AB%E3%83%95%E3%82%AB%E3%82%A6%E3%83%B3%E3%82%BF%E3%83%BC/id1453327924?uo=4",
       "contentAdvisoryRating": "4+",
-      "bundleId": "jp.golfscorecounter.GolfScoreCounter",
       "averageUserRatingForCurrentVersion": 4.40543,
-      "sellerUrl": "https://golfscorecounter.jp",
       "languageCodesISO2A": [
         "EN",
         "FR",
@@ -400,6 +398,8 @@
       "formattedPrice": "¥490",
       "userRatingCountForCurrentVersion": 772,
       "trackContentRating": "4+",
+      "minimumOsVersion": "15.1",
+      "sellerUrl": "https://golfscorecounter.jp",
       "userRatingCount": 772,
       "country": "JPN"
     }

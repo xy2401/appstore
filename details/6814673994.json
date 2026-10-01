@@ -2,7 +2,6 @@
   "resultCount": 1,
   "results": [
     {
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/0d/cb/3f0dcbfb-4692-2356-67b3-fd849db047d3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/41/42/f0/4142f029-7b92-ff53-c495-5bbf053241b8/appscr.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/99/16/1d/99161de5-cfd4-d7e9-95d5-69fc3a8496d7/evcalc-verti.png/320x480bb.jpg"
@@ -12,7 +11,11 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0e/1d/df/0e1ddf83-7f87-91b4-1171-f3abb5cec1c3/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M4_U0029_-_2026-09-25_at_18.52.24.png/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/0d/cb/3f0dcbfb-4692-2356-67b3-fd849db047d3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -145,16 +148,12 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "advisories": [],
       "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/jp/developer/akihiro-sakai/id6798064804?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/0d/cb/3f0dcbfb-4692-2356-67b3-fd849db047d3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/0d/cb/3f0dcbfb-4692-2356-67b3-fd849db047d3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/jp/developer/akihiro-sakai/id6798064804?uo=4",
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [],
-      "minimumOsVersion": "17.0",
-      "averageUserRatingForCurrentVersion": 4,
+      "averageUserRatingForCurrentVersion": 5,
       "sellerUrl": "https://sakai-filmworks.net/",
       "languageCodesISO2A": [
         "EN",
@@ -164,35 +163,36 @@
       "formattedPrice": "¥100",
       "userRatingCountForCurrentVersion": 1,
       "trackContentRating": "4+",
-      "genres": [
-        "写真／ビデオ",
-        "仕事効率化"
-      ],
-      "artistId": 6798064804,
-      "artistName": "Akihiro Sakai",
-      "price": 100,
+      "bundleId": "net.sakai-filmworks.EVCalc",
+      "releaseNotes": "NDの値が６４以上の時の表示が間違っていたのを修正しました。",
       "trackId": 6814673994,
       "trackName": "EV Calc",
-      "sellerName": "Akihiro Sakai",
-      "primaryGenreName": "Photo & Video",
-      "primaryGenreId": 6008,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseDate": "2026-09-23T07:00:00Z",
-      "currentVersionReleaseDate": "2026-09-27T22:48:41Z",
-      "releaseNotes": "NDの値が６４以上の時の表示が間違っていたのを修正しました。",
-      "version": "1.2",
-      "wrapperType": "software",
-      "currency": "JPY",
-      "description": "EV Calc は、撮影中の設定変更が明るさにどれだけ影響するかを、段数でひと目で確認できる露出計算アプリです。\n\n基準にしたい設定を「SET」で登録し、あとはシャッター・絞り・ISO・NDのホイールを回すだけ。基準との露出差が「+0.7」「-1.3」のように画面中央へ大きく表示されます。ND フィルターの付け外しや、絞り・ISO の変更後に、どれだけ補正すればよいかの目安になります。\n\n【主な機能】\n・シャッター、絞り、ISO、NDフィルターを4つのホイールで直感的に操作\n・「SET」で基準の露出を登録し、露出差を段数で表示（明るくなる方向はプラス、暗くなる方向はマイナス）\n・基準値は緑、明るくなる側の値はオレンジ、暗くなる側の値は青で色分け\n・基準EVと現在EVを常時表示\n・シャッター開角度を「1/48 (180°)」の形式で表示（フレームレートは 23.98 / 24 / 25 / 29.97 / 30 / 50 / 59.94 / 60 / 120 fps から選択。表示のオン・オフも可能）\n・ISOの刻みを 1段・1/2段・1/3段から選択\n・NDフィルターの単位を「濃度（0.3 など）」「ND（ND8 など）」「段数（3 stops など）」から選択\n・前回の設定を保持して、次回起動時にそのまま再開\n・横画面専用・ダークモード固定で、撮影現場でも見やすい表示\n・アカウント登録や通信は不要\n\n【ご注意】\n表示される露出差や EV 値は理論値です。使用するカメラやレンズによって、実際の露出とは差が出る場合があります。撮影時は目安としてご利用ください。",
-      "averageUserRating": 4,
-      "trackViewUrl": "https://apps.apple.com/jp/app/ev-calc/id6814673994?uo=4",
-      "contentAdvisoryRating": "4+",
-      "trackCensoredName": "EV Calc",
-      "bundleId": "net.sakai-filmworks.EVCalc",
       "genreIds": [
         "6008",
         "6007"
       ],
+      "primaryGenreName": "Photo & Video",
+      "primaryGenreId": 6008,
+      "sellerName": "Akihiro Sakai",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-09-27T22:48:41Z",
+      "version": "1.2",
+      "wrapperType": "software",
+      "currency": "JPY",
+      "description": "EV Calc は、撮影中の設定変更が明るさにどれだけ影響するかを、段数でひと目で確認できる露出計算アプリです。\n\n基準にしたい設定を「SET」で登録し、あとはシャッター・絞り・ISO・NDのホイールを回すだけ。基準との露出差が「+0.7」「-1.3」のように画面中央へ大きく表示されます。ND フィルターの付け外しや、絞り・ISO の変更後に、どれだけ補正すればよいかの目安になります。\n\n【主な機能】\n・シャッター、絞り、ISO、NDフィルターを4つのホイールで直感的に操作\n・「SET」で基準の露出を登録し、露出差を段数で表示（明るくなる方向はプラス、暗くなる方向はマイナス）\n・基準値は緑、明るくなる側の値はオレンジ、暗くなる側の値は青で色分け\n・基準EVと現在EVを常時表示\n・シャッター開角度を「1/48 (180°)」の形式で表示（フレームレートは 23.98 / 24 / 25 / 29.97 / 30 / 50 / 59.94 / 60 / 120 fps から選択。表示のオン・オフも可能）\n・ISOの刻みを 1段・1/2段・1/3段から選択\n・NDフィルターの単位を「濃度（0.3 など）」「ND（ND8 など）」「段数（3 stops など）」から選択\n・前回の設定を保持して、次回起動時にそのまま再開\n・横画面専用・ダークモード固定で、撮影現場でも見やすい表示\n・アカウント登録や通信は不要\n\n【ご注意】\n表示される露出差や EV 値は理論値です。使用するカメラやレンズによって、実際の露出とは差が出る場合があります。撮影時は目安としてご利用ください。",
+      "minimumOsVersion": "17.0",
+      "averageUserRating": 5,
+      "trackCensoredName": "EV Calc",
+      "trackViewUrl": "https://apps.apple.com/jp/app/ev-calc/id6814673994?uo=4",
+      "contentAdvisoryRating": "4+",
+      "releaseDate": "2026-09-23T07:00:00Z",
+      "artistId": 6798064804,
+      "artistName": "Akihiro Sakai",
+      "genres": [
+        "写真／ビデオ",
+        "仕事効率化"
+      ],
+      "price": 100,
       "userRatingCount": 1,
       "country": "JPN"
     }

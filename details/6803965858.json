@@ -3,23 +3,6 @@
   "results": [
     {
       "isGameCenterEnabled": false,
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/41/2c/41/412c416d-b63e-35f0-3ed7-61c472679389/01-operations.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d9/07/ea/d907ea46-f924-9c0b-860b-a0a53ca290c9/02-overview.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ba/39/ec/ba39ec5e-54e0-6ad0-3f8b-49f78950b6f4/03-report.jpg/320x480bb.jpg"
-      ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7d/c5/32/7dc53297-a7cb-2551-1cf2-cfea606b8209/01-operations.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1b/8a/bd/1b8abdec-05ee-d9ad-4266-4ea99d3b4b52/02-savings.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/14/cc/55/14cc55be-5391-8359-b901-40006ea9cf4c/03-report.jpg/360x480bb.jpg"
-      ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/ac/26/e1ac26a9-8139-bf6d-63e6-082877bf2886/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "advisories": [],
-      "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/fr/developer/pascal-hartmann/id1859422081?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/ac/26/e1ac26a9-8139-bf6d-63e6-082877bf2886/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/ac/26/e1ac26a9-8139-bf6d-63e6-082877bf2886/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
       "features": [
         "iosUniversal"
       ],
@@ -156,45 +139,62 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "averageUserRatingForCurrentVersion": 0,
+      "advisories": [],
+      "kind": "software",
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7d/c5/32/7dc53297-a7cb-2551-1cf2-cfea606b8209/01-operations.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1b/8a/bd/1b8abdec-05ee-d9ad-4266-4ea99d3b4b52/02-savings.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/14/cc/55/14cc55be-5391-8359-b901-40006ea9cf4c/03-report.jpg/360x480bb.jpg"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/ac/26/e1ac26a9-8139-bf6d-63e6-082877bf2886/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/ac/26/e1ac26a9-8139-bf6d-63e6-082877bf2886/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/ac/26/e1ac26a9-8139-bf6d-63e6-082877bf2886/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/fr/developer/pascal-hartmann/id1859422081?uo=4",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/41/2c/41/412c416d-b63e-35f0-3ed7-61c472679389/01-operations.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d9/07/ea/d907ea46-f924-9c0b-860b-a0a53ca290c9/02-overview.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ba/39/ec/ba39ec5e-54e0-6ad0-3f8b-49f78950b6f4/03-report.jpg/320x480bb.jpg"
+      ],
+      "bundleId": "com.pashartsoftware.bankgest",
+      "currentVersionReleaseDate": "2026-09-25T20:08:14Z",
       "genres": [
         "Finance"
       ],
       "artistId": 1859422081,
       "artistName": "Pascal Hartmann",
       "price": 14.99,
+      "trackId": 6803965858,
+      "trackName": "BankGest",
+      "releaseNotes": "• Recherche de mouvements plus rapide et actualisation des listes plus fluide.\n• Consultation des mouvements de chaque sous-catégorie dans les rapports.\n• Retour à la catégorie principale en touchant son nom.\n• Défilement automatique vers le détail des catégories sur iPhone et iPad.\n• Présentation des rapports allégée, avec respect des couleurs des catégories.",
+      "sellerName": "Pascal Hartmann",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "genreIds": [
+        "6015"
+      ],
+      "primaryGenreName": "Finance",
+      "primaryGenreId": 6015,
+      "releaseDate": "2026-09-02T07:00:00Z",
+      "version": "1.1",
+      "wrapperType": "software",
+      "currency": "EUR",
+      "description": "BankGest simplifie la gestion des finances personnelles sur iPhone, iPad et Mac.\n\nComptes courants, comptes d’épargne et autres comptes sont réunis au même endroit. Les mouvements peuvent être saisis, organisés et catégorisés, avec ventilation des montants entre plusieurs catégories et suivi des soldes.\n\nLes rapports permettent d’analyser les recettes et les dépenses, d’explorer les catégories et sous-catégories jusqu’au détail des mouvements, et de suivre l’évolution des soldes.\n\nPrincipales fonctionnalités :\n\n• Import de mouvements depuis des fichiers OFX et QIF\n• Export des données financières\n• Création et restauration d’archives locales\n• Recherche, filtrage et tri des mouvements\n• Annulation et rétablissement des modifications\n• Synchronisation optionnelle entre iPhone, iPad et Mac via une base iCloud privée\n\nLes données sont stockées localement. La synchronisation iCloud optionnelle utilise la base privée associée au compte Apple.\n\nAucun compte supplémentaire à créer. Aucun abonnement.\n\nUne même licence pour iPhone, iPad et Mac.",
       "sellerUrl": "http://pashartsoftware.com/bankgest/",
+      "fileSizeBytes": "8902656",
+      "formattedPrice": "14,99 €",
+      "averageUserRatingForCurrentVersion": 0,
+      "averageUserRating": 0,
+      "trackCensoredName": "BankGest",
       "languageCodesISO2A": [
         "EN",
         "FR",
         "DE"
       ],
-      "fileSizeBytes": "8902656",
-      "formattedPrice": "14,99 €",
-      "userRatingCountForCurrentVersion": 0,
-      "trackContentRating": "4+",
-      "releaseNotes": "• Recherche de mouvements plus rapide et actualisation des listes plus fluide.\n• Consultation des mouvements de chaque sous-catégorie dans les rapports.\n• Retour à la catégorie principale en touchant son nom.\n• Défilement automatique vers le détail des catégories sur iPhone et iPad.\n• Présentation des rapports allégée, avec respect des couleurs des catégories.",
-      "releaseDate": "2026-09-02T07:00:00Z",
-      "primaryGenreName": "Finance",
-      "primaryGenreId": 6015,
-      "genreIds": [
-        "6015"
-      ],
-      "sellerName": "Pascal Hartmann",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-09-25T20:08:14Z",
-      "version": "1.1",
-      "wrapperType": "software",
-      "currency": "EUR",
-      "description": "BankGest simplifie la gestion des finances personnelles sur iPhone, iPad et Mac.\n\nComptes courants, comptes d’épargne et autres comptes sont réunis au même endroit. Les mouvements peuvent être saisis, organisés et catégorisés, avec ventilation des montants entre plusieurs catégories et suivi des soldes.\n\nLes rapports permettent d’analyser les recettes et les dépenses, d’explorer les catégories et sous-catégories jusqu’au détail des mouvements, et de suivre l’évolution des soldes.\n\nPrincipales fonctionnalités :\n\n• Import de mouvements depuis des fichiers OFX et QIF\n• Export des données financières\n• Création et restauration d’archives locales\n• Recherche, filtrage et tri des mouvements\n• Annulation et rétablissement des modifications\n• Synchronisation optionnelle entre iPhone, iPad et Mac via une base iCloud privée\n\nLes données sont stockées localement. La synchronisation iCloud optionnelle utilise la base privée associée au compte Apple.\n\nAucun compte supplémentaire à créer. Aucun abonnement.\n\nUne même licence pour iPhone, iPad et Mac.",
-      "averageUserRating": 0,
-      "trackCensoredName": "BankGest",
-      "trackViewUrl": "https://apps.apple.com/fr/app/bankgest/id6803965858?uo=4",
       "contentAdvisoryRating": "4+",
+      "userRatingCountForCurrentVersion": 0,
+      "trackViewUrl": "https://apps.apple.com/fr/app/bankgest/id6803965858?uo=4",
+      "trackContentRating": "4+",
       "minimumOsVersion": "18.0",
-      "trackId": 6803965858,
-      "trackName": "BankGest",
-      "bundleId": "com.pashartsoftware.bankgest",
       "userRatingCount": 0,
       "country": "FRA"
     }

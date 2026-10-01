@@ -2,7 +2,6 @@
   "resultCount": 1,
   "results": [
     {
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/66/d1/3d66d113-38e2-aeb7-3a52-090ca18d65d7/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/33/ab/9a/33ab9a17-b8aa-5b3e-b575-52fd082b5e4b/01_freeplay.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/89/d3/04/89d3040d-a92b-c83a-bb45-0cabbf595929/02_spell.png/320x480bb.jpg",
@@ -18,7 +17,11 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5d/e6/a2/5de6a257-65b2-caf1-0eca-97d47cbc715c/05_seq.png/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/66/d1/3d66d113-38e2-aeb7-3a52-090ca18d65d7/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -151,15 +154,11 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "advisories": [],
       "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/jp/developer/chih-han-lin/id1800248325?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/66/d1/3d66d113-38e2-aeb7-3a52-090ca18d65d7/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/66/d1/3d66d113-38e2-aeb7-3a52-090ca18d65d7/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/jp/developer/chih-han-lin/id1800248325?uo=4",
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [],
-      "minimumOsVersion": "17.0",
       "averageUserRatingForCurrentVersion": 0,
       "sellerUrl": "https://nono-today.github.io/spellsynth/",
       "languageCodesISO2A": [
@@ -169,35 +168,36 @@
       "formattedPrice": "¥500",
       "userRatingCountForCurrentVersion": 0,
       "trackContentRating": "4+",
-      "genres": [
-        "ミュージック",
-        "教育"
-      ],
-      "artistId": 1800248325,
-      "artistName": "Chih Han Lin",
-      "price": 500,
+      "bundleId": "nonotoday.SpellSynth",
+      "releaseNotes": "1.4.0 — The Plug-in Speaks For Itself.\n\n• Type any word into the AUv3 and it speaks. The plugin makes the voice itself now, so a word it has never heard comes out spoken instead of spelled letter by letter.\n\n• Make a word in the plugin and it's waiting for you in the app, and the other way round — they keep one shared set of voices, so a word is only ever made once.\n\n• Everything already made stays instant. Only a brand-new word takes a moment, and the display tells you while it works.\n\nBug reports or feature requests welcome at zhiii0x@gmail.com — Zhi",
       "trackId": 6762822700,
       "trackName": "SpellSynth: Retro Vocal Synth",
-      "sellerName": "Chih Han Lin",
-      "primaryGenreName": "Music",
-      "primaryGenreId": 6011,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseDate": "2026-04-22T07:00:00Z",
-      "currentVersionReleaseDate": "2026-09-13T16:43:33Z",
-      "releaseNotes": "1.4.0 — The Plug-in Speaks For Itself.\n\n• Type any word into the AUv3 and it speaks. The plugin makes the voice itself now, so a word it has never heard comes out spoken instead of spelled letter by letter.\n\n• Make a word in the plugin and it's waiting for you in the app, and the other way round — they keep one shared set of voices, so a word is only ever made once.\n\n• Everything already made stays instant. Only a brand-new word takes a moment, and the display tells you while it works.\n\nBug reports or feature requests welcome at zhiii0x@gmail.com — Zhi",
-      "version": "1.4.0",
-      "wrapperType": "software",
-      "currency": "JPY",
-      "description": "SpellSynth is a playable love-letter to the 1978 spelling toy that taught a generation to read — rebuilt for iPhone, iPad, and Mac, with five modes, a crunchy VFD display, and\nthree vintage voice characters across two decades of speech-synthesis history.\n\nTap a letter and it speaks. Type ANY word — your name, this week's vocabulary list — and SpellSynth speaks it back.\n\nEVERY WORD SPEAKS\nThe 500+ bundled words across 20+ themes use a hand-recorded retro voice. Anything else — a name, your kid's spelling list — falls back to the system engine through your chosen voice, cached so the second tap is instant.\n\n• FREE PLAY — type any word, a whole phrase, or a number and hear it spoken. Tap SPACE to build a sentence; it's read back word by word as the VFD cycles. Numbers (\"2\" becomes \"two\") and contractions (\"don't\") speak too. A GAP control tunes the pause between words (50–500 ms), and a RECENT row keeps this session.\n\n• SEQ — a 16-step sequencer that speaks a word per step, locked to your tempo. Type four words, get a robot vocal loop. Put a single letter on a step and it spells on the beat instead. FIT stretches each word to fill its step, so words pitch up as the tempo climbs.\n\n• SPELL — SpellSynth says a word. You spell it. Three mistakes and you get the answer, then try a new one. HINT reveals a letter when you're stuck.\n\n• MYSTERY WORD — the classic hidden-word game. You get the category and first letter free; pick letters until it reveals itself. Six wrong guesses ends it.\n\n• SAY IT — listen-and-repeat practice. SpellSynth spells the word letter by letter, then says it whole. REPEAT to hear it again, NEXT for a new one.\n\n• SHARE — render any word or phrase to a WAV and send it to Files, AirDrop, or your DAW.\n\nTHREE VINTAGE VOICES\nPick a voice character in Settings. Each one draws from a different era of speech-synthesis history, applied to every word you hear:\n\n• 1968 ODYSSEY — calm, deep-baritone monotone with a deliberately slow cadence. Fixed-pitch formant synthesis at ~65 Hz, time-stretched 1.6×. Aesthetic homage to the late-60s sci-fi AI voices.\n\n• 1978 LPC — the original Speak & Spell character. A 10-pole LPC vocoder driven by the actual TMS5220 chirp ROM, the same speech algorithm Texas Instruments shipped in the toy. Buzzy, granular, unmistakable.\n\n• 1986 DECTALK STYLE — fixed-pitch impulse train through formants extracted from your input. Modelled on the Klatt-style synthesis that defined Hawking's iconic computer voice. Deliberate, monotone, emphatically computery.\n\n• DEFAULT — clean system speech, no extra processing, for when you just want clear pronunciation.\n\nEach caches separately, so switching is instant and the choice sticks.\n\nPLAY WITH A MIDI KEYBOARD\nConnect a USB, Bluetooth, or Network MIDI keyboard and the keypad plays from real keys. Notes C4–C#6 trigger letters A–Z, so any 25-key controller covers the whole alphabet. Pairs naturally with the LPC voice for a Speak & Spell instrument on your desk.\n\nBUNDLED AUDIO UNIT (AUv3)\nSpellSynth ships an AUv3 instrument extension, so the same voice engine loads inside GarageBand, AUM, Loopy Pro, Cubasis, Logic Pro for iPad, and any AUv3 host on iPhone or iPad. Type a word and it speaks live. Twenty-three parameters cover pitch, speed, bit-crush, sample-rate reduction, filter, envelope, LFO, stutter, the step sequencer, MIDI shaping, and voice character. Ten factory presets; all four voices play in your DAW.\n\nA serious MIDI surface for performers: sustain pedal (CC 64) for hold-and-release phrasing, Channel Pressure (aftertouch) routable to any parameter, three velocity curves (Soft / Linear / Hard), a pitch-bend range from ±0 to ±12 semitones, and 14 MIDI Learn targets covering every performance knob — bound CCs ride along with the preset. Stutter locks to the host tempo (1/4, 1/8, 1/16), and a Letter Map mode maps A–Z onto MIDI notes 60–85 so you can sequence spelling right in your DAW. Perfect for producers chasing that Kraftwerk / Stereolab / Broadcast sound.",
-      "averageUserRating": 0,
-      "trackViewUrl": "https://apps.apple.com/jp/app/spellsynth-retro-vocal-synth/id6762822700?uo=4",
-      "contentAdvisoryRating": "4+",
-      "trackCensoredName": "SpellSynth: Retro Vocal Synth",
-      "bundleId": "nonotoday.SpellSynth",
       "genreIds": [
         "6011",
         "6017"
       ],
+      "primaryGenreName": "Music",
+      "primaryGenreId": 6011,
+      "sellerName": "Chih Han Lin",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-09-13T16:43:33Z",
+      "version": "1.4.0",
+      "wrapperType": "software",
+      "currency": "JPY",
+      "description": "SpellSynth is a playable love-letter to the 1978 spelling toy that taught a generation to read — rebuilt for iPhone, iPad, and Mac, with five modes, a crunchy VFD display, and\nthree vintage voice characters across two decades of speech-synthesis history.\n\nTap a letter and it speaks. Type ANY word — your name, this week's vocabulary list — and SpellSynth speaks it back.\n\nEVERY WORD SPEAKS\nThe 500+ bundled words across 20+ themes use a hand-recorded retro voice. Anything else — a name, your kid's spelling list — falls back to the system engine through your chosen voice, cached so the second tap is instant.\n\n• FREE PLAY — type any word, a whole phrase, or a number and hear it spoken. Tap SPACE to build a sentence; it's read back word by word as the VFD cycles. Numbers (\"2\" becomes \"two\") and contractions (\"don't\") speak too. A GAP control tunes the pause between words (50–500 ms), and a RECENT row keeps this session.\n\n• SEQ — a 16-step sequencer that speaks a word per step, locked to your tempo. Type four words, get a robot vocal loop. Put a single letter on a step and it spells on the beat instead. FIT stretches each word to fill its step, so words pitch up as the tempo climbs.\n\n• SPELL — SpellSynth says a word. You spell it. Three mistakes and you get the answer, then try a new one. HINT reveals a letter when you're stuck.\n\n• MYSTERY WORD — the classic hidden-word game. You get the category and first letter free; pick letters until it reveals itself. Six wrong guesses ends it.\n\n• SAY IT — listen-and-repeat practice. SpellSynth spells the word letter by letter, then says it whole. REPEAT to hear it again, NEXT for a new one.\n\n• SHARE — render any word or phrase to a WAV and send it to Files, AirDrop, or your DAW.\n\nTHREE VINTAGE VOICES\nPick a voice character in Settings. Each one draws from a different era of speech-synthesis history, applied to every word you hear:\n\n• 1968 ODYSSEY — calm, deep-baritone monotone with a deliberately slow cadence. Fixed-pitch formant synthesis at ~65 Hz, time-stretched 1.6×. Aesthetic homage to the late-60s sci-fi AI voices.\n\n• 1978 LPC — the original Speak & Spell character. A 10-pole LPC vocoder driven by the actual TMS5220 chirp ROM, the same speech algorithm Texas Instruments shipped in the toy. Buzzy, granular, unmistakable.\n\n• 1986 DECTALK STYLE — fixed-pitch impulse train through formants extracted from your input. Modelled on the Klatt-style synthesis that defined Hawking's iconic computer voice. Deliberate, monotone, emphatically computery.\n\n• DEFAULT — clean system speech, no extra processing, for when you just want clear pronunciation.\n\nEach caches separately, so switching is instant and the choice sticks.\n\nPLAY WITH A MIDI KEYBOARD\nConnect a USB, Bluetooth, or Network MIDI keyboard and the keypad plays from real keys. Notes C4–C#6 trigger letters A–Z, so any 25-key controller covers the whole alphabet. Pairs naturally with the LPC voice for a Speak & Spell instrument on your desk.\n\nBUNDLED AUDIO UNIT (AUv3)\nSpellSynth ships an AUv3 instrument extension, so the same voice engine loads inside GarageBand, AUM, Loopy Pro, Cubasis, Logic Pro for iPad, and any AUv3 host on iPhone or iPad. Type a word and it speaks live. Twenty-three parameters cover pitch, speed, bit-crush, sample-rate reduction, filter, envelope, LFO, stutter, the step sequencer, MIDI shaping, and voice character. Ten factory presets; all four voices play in your DAW.\n\nA serious MIDI surface for performers: sustain pedal (CC 64) for hold-and-release phrasing, Channel Pressure (aftertouch) routable to any parameter, three velocity curves (Soft / Linear / Hard), a pitch-bend range from ±0 to ±12 semitones, and 14 MIDI Learn targets covering every performance knob — bound CCs ride along with the preset. Stutter locks to the host tempo (1/4, 1/8, 1/16), and a Letter Map mode maps A–Z onto MIDI notes 60–85 so you can sequence spelling right in your DAW. Perfect for producers chasing that Kraftwerk / Stereolab / Broadcast sound.",
+      "minimumOsVersion": "17.0",
+      "averageUserRating": 0,
+      "trackCensoredName": "SpellSynth: Retro Vocal Synth",
+      "trackViewUrl": "https://apps.apple.com/jp/app/spellsynth-retro-vocal-synth/id6762822700?uo=4",
+      "contentAdvisoryRating": "4+",
+      "releaseDate": "2026-04-22T07:00:00Z",
+      "artistId": 1800248325,
+      "artistName": "Chih Han Lin",
+      "genres": [
+        "ミュージック",
+        "教育"
+      ],
+      "price": 500,
       "userRatingCount": 0,
       "country": "JPN"
     }

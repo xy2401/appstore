@@ -2,7 +2,6 @@
   "resultCount": 1,
   "results": [
     {
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/71/1c/fc/711cfc54-f626-a6a0-7d57-168c27b79e19/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/03/42/61/034261ca-1a2e-757e-e93c-5563d51768f7/01.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ac/a8/79/aca879ad-bcbc-d33c-d16e-7882f4fe130b/02.png/320x480bb.jpg",
@@ -20,7 +19,11 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/45/4a/1d/454a1d3d-7320-95cd-47fe-e680567c5b7f/05-settings.png/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/61/4f/7b614f9c-51c3-3a1f-21ea-bfcb93b702be/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -153,18 +156,15 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "kind": "software",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/71/1c/fc/711cfc54-f626-a6a0-7d57-168c27b79e19/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/71/1c/fc/711cfc54-f626-a6a0-7d57-168c27b79e19/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/jp/developer/hyunwoo-lee/id6791167449?uo=4",
-      "features": [
-        "iosUniversal"
-      ],
       "advisories": [],
-      "minimumOsVersion": "15.0",
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/jp/developer/hyunwoo-lee/id6791167449?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/61/4f/7b614f9c-51c3-3a1f-21ea-bfcb93b702be/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/61/4f/7b614f9c-51c3-3a1f-21ea-bfcb93b702be/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
       "averageUserRatingForCurrentVersion": 0,
       "languageCodesISO2A": [
         "AR",
+        "ZH",
         "EN",
         "FR",
         "DE",
@@ -173,46 +173,45 @@
         "JA",
         "KO",
         "PT",
-        "ZH",
         "ES",
         "TH",
-        "ZH",
         "TR",
         "VI"
       ],
-      "fileSizeBytes": "29306880",
+      "fileSizeBytes": "30300160",
       "formattedPrice": "¥500",
       "userRatingCountForCurrentVersion": 0,
       "trackContentRating": "4+",
-      "genres": [
-        "仕事効率化",
-        "ユーティリティ"
-      ],
-      "artistId": 6791167449,
-      "artistName": "HyunWoo Lee",
-      "price": 500,
+      "bundleId": "com.asllasoft.whenDidi",
+      "releaseNotes": "ウィジェットや他のアプリの「共有」から、アプリを開かずに記録できます（iPhoneはロック画面からも）。iPhoneとiPadで「iCloudに自動保管」をオンにしておくと、他の端末の記録も自動で取り込まれます。\n設定に「カテゴリを管理」が加わりました。記録すると下に案内バーが出て、「元に戻す」や「写真・メモを追加」をすぐ押せます。項目の詳細は「カレンダー表示」でも見られます。\n初めてインストールすると使い方の案内が表示されます（設定 > 「使い方を見る」）。「アルバム」からその項目へすぐ移動できるようになったほか、ダークモードのアイコンなど、いろいろな箇所を整えました。",
       "trackId": 6801866888,
       "trackName": "いつだったっけ",
-      "sellerName": "HyunWoo Lee",
-      "primaryGenreName": "Productivity",
-      "primaryGenreId": 6007,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseDate": "2026-08-20T07:00:00Z",
-      "currentVersionReleaseDate": "2026-09-26T23:10:17Z",
-      "releaseNotes": "ホームの検索欄の×（消去）で検索語を一度に消せます。検索で見つけた項目を記録したり、詳細から戻ったりすると元の画面に戻ります。\n辞典「カレンダー」の「記録N件」が、項目数ではなくその日の記録数を数えるようになりました。今日より後の日付の記録もホームで「今日」と表示され、「最近7日」に入ります。\n写真を追加すると、その写真がすぐ大きく表示されます。記録の復元が必要な間は、保存できたように見せずにお知らせします。その他の不具合も修正しました。",
-      "version": "3.1.0",
-      "wrapperType": "software",
-      "currency": "JPY",
-      "description": "やることを管理しないでください。やった日だけ覚えておけば十分です。\n\n「シーツ、最後に洗ったのはいつだっけ？」\n「浄水器のフィルター、いつ替えた？」\n「実家に電話したの、いつだった？」\n\nどうしても思い出せない、そんなことがあります。いつだったっけ は、それをやった日付だけを記録します。\n目標も、通知の嵐も、チェックリストもありません。タップして今日を記録すれば、それで終わりです。\n\n■ どれくらい経ったか、ひと目で\n項目ごとに、最後にやった日から何日経ったかを表示します。\n長く放っておいたものほど目立ちます。\n\n■ 間隔がそのまま見える記録\n点と点の距離が、実際の日付の間隔です。\nよくやっていた時期は詰まって見え、しばらくやらなかった期間は広く空いて見えます。\n\n■ 写真とメモ\n記録ごとに写真1枚と短いメモを残せます。\n「あのときどうだったっけ」まで残ります。\n\n■ ウィジェットとロック画面\nホーム画面のウィジェットで遅れているものを確認し、アプリを開かずに記録できます。\nロック画面から直接記録することもできます。（iOS 16.4以降）\n\n■ 一日のしめくくり通知\n希望すれば、夜に一度「今日は何をしましたか？」と尋ねます。初期設定ではオフです。\n\n■ すべて端末の中で\nアカウントも、サーバーも、広告もありません。記録は端末にだけ保存されます。\nバックアップファイルを自分で書き出し・読み込みでき、iCloudにも自動で控えを置くので、\n機種変更やアプリの入れ直しをしても元に戻せます。\n\n■ 買い切り\n一度買えばすべての機能が使えます。アプリ内課金も、サブスクも、広告もありません。",
-      "averageUserRating": 0,
-      "trackViewUrl": "https://apps.apple.com/jp/app/%E3%81%84%E3%81%A4%E3%81%A0%E3%81%A3%E3%81%9F%E3%81%A3%E3%81%91/id6801866888?uo=4",
-      "contentAdvisoryRating": "4+",
-      "trackCensoredName": "いつだったっけ",
-      "bundleId": "com.asllasoft.whenDidi",
       "genreIds": [
         "6007",
         "6002"
       ],
+      "primaryGenreName": "Productivity",
+      "primaryGenreId": 6007,
+      "sellerName": "HyunWoo Lee",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-09-30T19:49:18Z",
+      "version": "4.0.0",
+      "wrapperType": "software",
+      "currency": "JPY",
+      "description": "やることを管理しないでください。やった日だけ覚えておけば十分です。\n\n「シーツ、最後に洗ったのはいつだっけ？」\n「浄水器のフィルター、いつ替えた？」\n「実家に電話したの、いつだった？」\n\nどうしても思い出せない、そんなことがあります。いつだったっけ は、それをやった日付だけを記録します。\n目標も、通知の嵐も、チェックリストもありません。タップして今日を記録すれば、それで終わりです。\n\n■ どれくらい経ったか、ひと目で\n項目ごとに、最後にやった日から何日経ったかを表示します。\n長く放っておいたものほど目立ちます。\n\n■ 間隔がそのまま見える記録\n点と点の距離が、実際の日付の間隔です。\nよくやっていた時期は詰まって見え、しばらくやらなかった期間は広く空いて見えます。\n\n■ 写真とメモ\n記録ごとに写真1枚と短いメモを残せます。\n「あのときどうだったっけ」まで残ります。\n\n■ ウィジェットとロック画面\nホーム画面のウィジェットで遅れているものを確認し、アプリを開かずに記録できます。\nロック画面から直接記録することもできます。（iOS 16.4以降）\n\n■ 一日のしめくくり通知\n希望すれば、夜に一度「今日は何をしましたか？」と尋ねます。初期設定ではオフです。\n\n■ すべて端末の中で\nアカウントも、サーバーも、広告もありません。記録は端末にだけ保存されます。\nバックアップファイルを自分で書き出し・読み込みでき、iCloudにも自動で控えを置くので、\n機種変更やアプリの入れ直しをしても元に戻せます。\n\n■ 買い切り\n一度買えばすべての機能が使えます。アプリ内課金も、サブスクも、広告もありません。",
+      "minimumOsVersion": "15.0",
+      "averageUserRating": 0,
+      "trackCensoredName": "いつだったっけ",
+      "trackViewUrl": "https://apps.apple.com/jp/app/%E3%81%84%E3%81%A4%E3%81%A0%E3%81%A3%E3%81%9F%E3%81%A3%E3%81%91/id6801866888?uo=4",
+      "contentAdvisoryRating": "4+",
+      "releaseDate": "2026-08-20T07:00:00Z",
+      "artistId": 6791167449,
+      "artistName": "HyunWoo Lee",
+      "genres": [
+        "仕事効率化",
+        "ユーティリティ"
+      ],
+      "price": 500,
       "userRatingCount": 0,
       "country": "JPN"
     }

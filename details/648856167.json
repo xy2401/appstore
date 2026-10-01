@@ -2,19 +2,10 @@
   "resultCount": 1,
   "results": [
     {
+      "artistViewUrl": "https://apps.apple.com/fr/developer/audeonic-apps/id351607509?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/c6/65/04/c66504b4-0fe2-e02a-9e11-1dd538324dc7/mzl.wssdcsjx.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/c6/65/04/c66504b4-0fe2-e02a-9e11-1dd538324dc7/mzl.wssdcsjx.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/99/30/5d/99305db8-e0f0-3d91-5c80-0e2dc1e164dc/pr_source.png/392x696bb.png"
-      ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/a6/0b/60/a60b6004-8336-d0a2-0f29-3029a566d26a/pr_source.png/576x768bb.png"
-      ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/c6/65/04/c66504b4-0fe2-e02a-9e11-1dd538324dc7/mzl.wssdcsjx.png/512x512bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [],
       "supportedDevices": [
         "iPhone3GS-iPhone-3GS",
         "iPadWifi-iPadWifi",
@@ -165,12 +156,45 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "advisories": [],
       "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/fr/developer/audeonic-apps/id351607509?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/c6/65/04/c66504b4-0fe2-e02a-9e11-1dd538324dc7/mzl.wssdcsjx.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/c6/65/04/c66504b4-0fe2-e02a-9e11-1dd538324dc7/mzl.wssdcsjx.png/100x100bb.jpg",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/99/30/5d/99305db8-e0f0-3d91-5c80-0e2dc1e164dc/pr_source.png/392x696bb.png"
+      ],
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/a6/0b/60/a60b6004-8336-d0a2-0f29-3029a566d26a/pr_source.png/576x768bb.png"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/c6/65/04/c66504b4-0fe2-e02a-9e11-1dd538324dc7/mzl.wssdcsjx.png/512x512bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
       "minimumOsVersion": "5.1.1",
-      "releaseNotes": "bug fix - handle case where wifi connected but no internet",
+      "contentAdvisoryRating": "4+",
+      "currentVersionReleaseDate": "2016-09-19T22:14:38Z",
+      "averageUserRating": 5,
+      "artistId": 351607509,
+      "artistName": "Audeonic Apps",
+      "genres": [
+        "Musique"
+      ],
+      "price": 2.99,
+      "bundleId": "com.audeonic.midibus",
+      "genreIds": [
+        "6011"
+      ],
+      "releaseDate": "2013-12-11T19:08:50Z",
+      "trackId": 648856167,
+      "trackName": "MidiBus",
+      "sellerName": "Soft Audio",
+      "primaryGenreName": "Music",
+      "primaryGenreId": 6011,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "version": "1.52",
+      "wrapperType": "software",
+      "currency": "EUR",
+      "description": "MidiBus is a MIDI clock sync generator and monitor.\n\nChoose your bpm, time signature and MIDI destinations. Press the play button and all selected apps and devices will receive a synchronised, rock-solid MIDI sync clock source.\n\nOn the flipside, monitor the MIDI clock signals of apps and devices (including MidiBus itself) and measure how accurate and stable they really are. You might be very surprised at the results.\n\nMidiBus is based on the iOS MIDI development library of the same name. Full details at http://midib.us",
+      "averageUserRatingForCurrentVersion": 5,
       "languageCodesISO2A": [
         "EN"
       ],
@@ -178,33 +202,9 @@
       "formattedPrice": "2,99 €",
       "userRatingCountForCurrentVersion": 2,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 5,
-      "artistId": 351607509,
-      "artistName": "Audeonic Apps",
-      "genres": [
-        "Musique"
-      ],
-      "price": 2.99,
-      "primaryGenreName": "Music",
-      "primaryGenreId": 6011,
-      "bundleId": "com.audeonic.midibus",
-      "sellerName": "Soft Audio",
-      "trackId": 648856167,
-      "trackName": "MidiBus",
-      "releaseDate": "2013-12-11T19:08:50Z",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "genreIds": [
-        "6011"
-      ],
-      "currentVersionReleaseDate": "2016-09-19T22:14:38Z",
-      "version": "1.52",
-      "wrapperType": "software",
-      "currency": "EUR",
-      "description": "MidiBus is a MIDI clock sync generator and monitor.\n\nChoose your bpm, time signature and MIDI destinations. Press the play button and all selected apps and devices will receive a synchronised, rock-solid MIDI sync clock source.\n\nOn the flipside, monitor the MIDI clock signals of apps and devices (including MidiBus itself) and measure how accurate and stable they really are. You might be very surprised at the results.\n\nMidiBus is based on the iOS MIDI development library of the same name. Full details at http://midib.us",
       "trackCensoredName": "MidiBus",
       "trackViewUrl": "https://apps.apple.com/fr/app/midibus/id648856167?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 5,
+      "releaseNotes": "bug fix - handle case where wifi connected but no internet",
       "userRatingCount": 2,
       "country": "FRA"
     }

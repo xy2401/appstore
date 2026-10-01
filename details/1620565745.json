@@ -20,6 +20,9 @@
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/4e/71/a04e71fa-78cf-3a39-5d54-eba924bc839e/AppIcon-0-1x_U007epad-0-1-85-220-0.png/512x512bb.jpg",
       "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -156,27 +159,12 @@
         "Frequent/Intense Medical/Treatment Information"
       ],
       "kind": "software",
-      "features": [
-        "iosUniversal"
-      ],
-      "releaseNotes": "-- new Training content",
-      "contentAdvisoryRating": "17+",
-      "averageUserRating": 3.96825,
       "trackCensoredName": "Nject",
       "trackViewUrl": "https://apps.apple.com/us/app/nject/id1620565745?uo=4",
+      "contentAdvisoryRating": "17+",
+      "averageUserRating": 3.96825,
+      "minimumOsVersion": "15.1",
       "averageUserRatingForCurrentVersion": 3.96825,
-      "genres": [
-        "Medical",
-        "Education"
-      ],
-      "artistId": 1692217678,
-      "artistName": "Keaton Benning, LLC",
-      "price": 4.99,
-      "bundleId": "com.medspanetwork.Nject",
-      "genreIds": [
-        "6020",
-        "6017"
-      ],
       "sellerUrl": "https://www.studioxdesigns.com/",
       "languageCodesISO2A": [
         "EN"
@@ -185,19 +173,31 @@
       "formattedPrice": "$4.99",
       "userRatingCountForCurrentVersion": 126,
       "trackContentRating": "17+",
+      "price": 4.99,
+      "artistId": 1692217678,
+      "artistName": "Keaton Benning, LLC",
+      "genres": [
+        "Medical",
+        "Education"
+      ],
       "releaseDate": "2022-04-26T07:00:00Z",
-      "sellerName": "Keaton Benning, LLC",
+      "releaseNotes": "-- new Training content",
+      "currentVersionReleaseDate": "2026-01-13T09:11:56Z",
+      "trackId": 1620565745,
+      "trackName": "Nject",
+      "genreIds": [
+        "6020",
+        "6017"
+      ],
       "primaryGenreName": "Medical",
       "primaryGenreId": 6020,
-      "trackName": "Nject",
-      "trackId": 1620565745,
+      "sellerName": "Keaton Benning, LLC",
       "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-01-13T09:11:56Z",
       "version": "6.0.0",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Nject is a one stop shop for all your Aesthetics needs like: Dilution Calculators, Partnerships, Live Forum with experts, Vascular Occlusion help, and more...",
-      "minimumOsVersion": "15.1",
+      "bundleId": "com.medspanetwork.Nject",
       "userRatingCount": 126,
       "country": "USA"
     }

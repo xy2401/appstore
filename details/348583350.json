@@ -202,9 +202,6 @@
     },
     {
       "isGameCenterEnabled": false,
-      "advisories": [
-        "まれ／軽度な過激な言葉遣いまたは下品なユーモア"
-      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -337,6 +334,12 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "features": [
+        "iosUniversal"
+      ],
+      "advisories": [
+        "まれ／軽度な過激な言葉遣いまたは下品なユーモア"
+      ],
       "kind": "software",
       "artistViewUrl": "https://apps.apple.com/jp/developer/%E7%89%A9%E6%9B%B8%E5%A0%82/id284350529?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/dd/9d/36/dd9d36fe-0d2f-27e8-dfb6-96336cfc2d58/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/60x60bb.jpg",
@@ -357,10 +360,7 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/dd/9d/36/dd9d36fe-0d2f-27e8-dfb6-96336cfc2d58/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/512x512bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
-      "minimumOsVersion": "11.0",
+      "releaseNotes": "•「辞書 by 物書堂」への移行に関する問題を修正しました。",
       "artistId": 284350529,
       "artistName": "物書堂",
       "genres": [
@@ -368,19 +368,19 @@
         "教育"
       ],
       "price": 4900,
-      "trackName": "伊和・和伊中辞典",
+      "bundleId": "jp.monokakido.Italiano",
       "trackId": 348583350,
-      "sellerName": "MONOKAKIDO Co. Ltd.",
+      "trackName": "伊和・和伊中辞典",
+      "isVppDeviceBasedLicensingEnabled": true,
       "genreIds": [
         "6006",
         "6017"
       ],
-      "isVppDeviceBasedLicensingEnabled": true,
       "releaseDate": "2010-01-02T21:09:35Z",
       "primaryGenreName": "Reference",
       "primaryGenreId": 6006,
+      "sellerName": "MONOKAKIDO Co. Ltd.",
       "currentVersionReleaseDate": "2019-12-30T21:27:19Z",
-      "releaseNotes": "•「辞書 by 物書堂」への移行に関する問題を修正しました。",
       "version": "3.5.4",
       "wrapperType": "software",
       "currency": "JPY",
@@ -389,9 +389,7 @@
       "trackCensoredName": "伊和・和伊中辞典",
       "trackViewUrl": "https://apps.apple.com/jp/app/%E4%BC%8A%E5%92%8C-%E5%92%8C%E4%BC%8A%E4%B8%AD%E8%BE%9E%E5%85%B8/id348583350?uo=4",
       "contentAdvisoryRating": "9+",
-      "bundleId": "jp.monokakido.Italiano",
       "averageUserRatingForCurrentVersion": 4.18919,
-      "sellerUrl": "http://www.monokakido.jp/foreign/italiano/",
       "languageCodesISO2A": [
         "EN",
         "JA"
@@ -400,6 +398,8 @@
       "formattedPrice": "¥4,900",
       "userRatingCountForCurrentVersion": 37,
       "trackContentRating": "9+",
+      "minimumOsVersion": "11.0",
+      "sellerUrl": "http://www.monokakido.jp/foreign/italiano/",
       "userRatingCount": 37,
       "country": "JPN"
     }

@@ -2,13 +2,7 @@
   "resultCount": 1,
   "results": [
     {
-      "artistViewUrl": "https://apps.apple.com/cn/developer/%E4%B8%80%E6%96%87-%E9%99%88/id1839709948?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/55/8b/5b558b73-29b0-acea-9d64-1a43cf2d5ef9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/55/8b/5b558b73-29b0-acea-9d64-1a43cf2d5ef9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -141,8 +135,14 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "features": [
+        "iosUniversal"
+      ],
       "advisories": [],
       "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/cn/developer/%E4%B8%80%E6%96%87-%E9%99%88/id1839709948?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/55/8b/5b558b73-29b0-acea-9d64-1a43cf2d5ef9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/55/8b/5b558b73-29b0-acea-9d64-1a43cf2d5ef9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/38/b5/13/38b5132c-34b0-efa1-f3f2-0fbe3311526c/screen-2.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/19/f7/ef/19f7ef67-3f8d-191c-a86c-49fef7012e7c/screen-3.png/320x480bb.jpg"
@@ -152,38 +152,26 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/55/8b/5b558b73-29b0-acea-9d64-1a43cf2d5ef9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "formattedPrice": "¥8.00",
-      "fileSizeBytes": "26337280",
-      "averageUserRating": 4.64103,
-      "trackCensoredName": "M3U8 Spark: 网页视频嗅探&在线播放",
-      "trackViewUrl": "https://apps.apple.com/cn/app/m3u8-spark-%E7%BD%91%E9%A1%B5%E8%A7%86%E9%A2%91%E5%97%85%E6%8E%A2-%E5%9C%A8%E7%BA%BF%E6%92%AD%E6%94%BE/id6775141985?uo=4",
-      "contentAdvisoryRating": "4+",
-      "releaseNotes": "Improve program stability",
+      "minimumOsVersion": "15.0",
       "artistId": 1839709948,
-      "genres": [
-        "工具",
-        "效率"
-      ],
-      "price": 8,
       "artistName": "一文 陈",
-      "releaseDate": "2026-06-03T07:00:00Z",
-      "trackId": 6775141985,
-      "trackName": "M3U8 Spark: 网页视频嗅探&在线播放",
+      "price": 6,
       "genreIds": [
         "6002",
         "6007"
       ],
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
-      "sellerName": "一文 陈",
       "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "一文 陈",
       "currentVersionReleaseDate": "2026-09-04T12:17:17Z",
       "version": "1.0.9",
       "wrapperType": "software",
       "currency": "CNY",
       "description": "这是一个强大的 M3U8 管理器。\n您可以用它下载网页里的视频并转换为 MP4。\n支持浏览器扩展提高使用体验。\n\n主要功能：\n- 下载网页里的视频\n- 支持后台下载（合并视频分片仍需前台）\n- 支持在线播放\n- 高效格式转换：快速导出为标准的 MP4 格式，兼容各种播放器。\n- 离线缓存管理：随时随地查看您的媒体库。",
-      "averageUserRatingForCurrentVersion": 4.64103,
-      "sellerUrl": "https://www.sailabs.cn/",
+      "averageUserRating": 4.56098,
+      "trackCensoredName": "M3U8 Spark: 网页视频嗅探&在线播放",
+      "trackViewUrl": "https://apps.apple.com/cn/app/m3u8-spark-%E7%BD%91%E9%A1%B5%E8%A7%86%E9%A2%91%E5%97%85%E6%8E%A2-%E5%9C%A8%E7%BA%BF%E6%92%AD%E6%94%BE/id6775141985?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRatingForCurrentVersion": 4.56098,
       "languageCodesISO2A": [
         "AR",
         "NL",
@@ -206,11 +194,23 @@
         "UK",
         "VI"
       ],
-      "userRatingCountForCurrentVersion": 39,
+      "fileSizeBytes": "26337280",
+      "formattedPrice": "¥6.00",
+      "userRatingCountForCurrentVersion": 41,
       "trackContentRating": "4+",
-      "minimumOsVersion": "15.0",
+      "sellerUrl": "https://www.sailabs.cn/",
+      "releaseDate": "2026-06-03T07:00:00Z",
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
+      "genres": [
+        "工具",
+        "效率"
+      ],
       "bundleId": "com.sai.M3U8Spark",
-      "userRatingCount": 39,
+      "releaseNotes": "Improve program stability",
+      "trackId": 6775141985,
+      "trackName": "M3U8 Spark: 网页视频嗅探&在线播放",
+      "userRatingCount": 41,
       "country": "CHN"
     }
   ]

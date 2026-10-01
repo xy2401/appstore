@@ -2,7 +2,6 @@
   "resultCount": 1,
   "results": [
     {
-      "advisories": [],
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/93/34/33/9334337b-a881-8b52-0924-fc2e2d40f5ce/Embroidery-Grove-Companion-iPhone-setup.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a0/46/c8/a046c8ae-53eb-3985-e5d1-5983aa32d6b0/Embroidery-Grove-Companion-iPhone-home.png/320x480bb.jpg",
@@ -17,7 +16,7 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/61/31/1c/61311c1c-aba8-28ff-af07-617e46e9d401/Embroidery-Grove-Companion-iPad-threads.png/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/18/33/4b1833b8-17fc-df65-ee82-a61be44bafbe/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/b5/03/efb50376-fd9f-7125-4ba7-7ba803e8ba06/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
@@ -149,22 +148,27 @@
         "iPadAir11M4-iPadAir11M4",
         "iPadAir11M4Cellular-iPadAir11M4Cellular",
         "iPadAir13M4-iPadAir13M4",
-        "iPadAir13M4Cellular-iPadAir13M4Cellular"
+        "iPadAir13M4Cellular-iPadAir13M4Cellular",
+        "iPhone18Pro-iPhone18Pro",
+        "iPhone18ProMax-iPhone18ProMax",
+        "iPhoneDuo-iPhoneDuo"
       ],
+      "advisories": [],
       "kind": "software",
       "artistViewUrl": "https://apps.apple.com/us/developer/cassie-edgar/id1875623754?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/18/33/4b1833b8-17fc-df65-ee82-a61be44bafbe/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/18/33/4b1833b8-17fc-df65-ee82-a61be44bafbe/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
-      "minimumOsVersion": "17.0",
-      "averageUserRatingForCurrentVersion": 0,
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/b5/03/efb50376-fd9f-7125-4ba7-7ba803e8ba06/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/b5/03/efb50376-fd9f-7125-4ba7-7ba803e8ba06/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+      "userRatingCountForCurrentVersion": 1,
+      "averageUserRatingForCurrentVersion": 5,
       "sellerUrl": "https://lakehouse-studios.com/embroidery-grove",
       "languageCodesISO2A": [
         "EN"
       ],
-      "fileSizeBytes": "7812096",
+      "fileSizeBytes": "7984128",
       "formattedPrice": "$9.99",
-      "userRatingCountForCurrentVersion": 0,
       "trackContentRating": "4+",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "minimumOsVersion": "17.0",
       "artistId": 1875623754,
       "artistName": "Cassie Edgar",
       "genres": [
@@ -172,27 +176,26 @@
       ],
       "price": 9.99,
       "bundleId": "com.lakehouse.embroiderygrove.iphone",
-      "currentVersionReleaseDate": "2026-08-28T21:35:26Z",
-      "releaseDate": "2026-08-20T07:00:00Z",
       "genreIds": [
         "6027"
       ],
-      "trackName": "Embroidery Grove Companion",
+      "currentVersionReleaseDate": "2026-09-27T19:09:30Z",
       "trackId": 6799726353,
+      "trackName": "Embroidery Grove Companion",
+      "releaseDate": "2026-08-20T07:00:00Z",
+      "releaseNotes": "Large project PDFs in Companion files now open on demand, keeping the app responsive while they are prepared and reusing a safe local cache for faster reopening. Clearer messages distinguish cloud access, device storage, and file-integrity problems.",
       "primaryGenreName": "Graphics & Design",
       "primaryGenreId": 6027,
       "sellerName": "Cassie Edgar",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "version": "2.1.10",
+      "version": "2.1.18",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Embroidery Grove Companion is the iPhone and iPad companion for the Embroidery Grove desktop app. It requires Embroidery Grove desktop software for Mac or PC first.\n\nUse it to bring your current embroidery projects, instruction PDFs, and selected Isacord, Glide, or Floriani thread inventories with you to the sewing room, quilt shop, or design planning table. The app reads the companion library created by Embroidery Grove on your Mac or PC, then lets you browse starred projects, check thread lists, and open saved PDFs.\n\nYour files stay in your folders. There is no Lakehouse account, no advertising, and no server upload. The app connects through the Files app to the synced folder you choose, such as iCloud Drive, OneDrive, Dropbox, or the design folder containing Grove Data.\n\nFeatures:\n\n- View current Embroidery Grove projects on iPhone and iPad\n- See project previews, brand-aware thread lists, tags, sizes, stitch counts, and vendors\n- Open linked instruction PDFs with Quick Look\n- View read-only Isacord, Glide, and Floriani thread inventories from the desktop app\n- Refresh from the desktop inventory through your chosen folder\n- Works with the desktop app local-first library workflow\n\nImportant: this is a companion app, not standalone embroidery library software. To create the companion library, own and use Embroidery Grove on Mac or PC first, then choose the synced folder from the iPhone/iPad Files app.",
-      "trackCensoredName": "Embroidery Grove Companion",
       "trackViewUrl": "https://apps.apple.com/us/app/embroidery-grove-companion/id6799726353?uo=4",
       "contentAdvisoryRating": "4+",
-      "averageUserRating": 0,
-      "releaseNotes": "Adds Floriani thread support and fixes project thread labels so selected brands show the correct catalog code, color name, and exact, conversion-chart, or RGB fallback match. Requires Embroidery Grove desktop 2.1.15 for the new brand-aware project data.",
-      "userRatingCount": 0,
+      "averageUserRating": 5,
+      "trackCensoredName": "Embroidery Grove Companion",
+      "userRatingCount": 1,
       "country": "USA"
     }
   ]

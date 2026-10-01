@@ -6,11 +6,6 @@
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/cd/a4/c6cda490-2a9d-8f0c-3e05-4d9e3369cd16/AppIcon-0-1x_U007epad-0-1-0-sRGB-85-220-0.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/cd/a4/c6cda490-2a9d-8f0c-3e05-4d9e3369cd16/AppIcon-0-1x_U007epad-0-1-0-sRGB-85-220-0.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [],
-      "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3e/93/a5/3e93a53f-dee1-ec3b-4ae6-b14e997bc48a/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2025-02-14_at_11.04.50.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/05/e5/0e/05e50ed0-512d-0561-12a2-d58583960a16/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2025-02-14_at_11.41.28.png/320x480bb.jpg",
@@ -37,6 +32,9 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/cd/a4/c6cda490-2a9d-8f0c-3e05-4d9e3369cd16/AppIcon-0-1x_U007epad-0-1-0-sRGB-85-220-0.png/512x512bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -169,34 +167,14 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "advisories": [],
+      "kind": "software",
       "trackCensoredName": "Meine Pilze",
       "trackViewUrl": "https://apps.apple.com/de/app/meine-pilze/id6742020536?uo=4",
       "contentAdvisoryRating": "4+",
-      "minimumOsVersion": "18.0",
       "averageUserRating": 1,
-      "artistId": 572272193,
-      "artistName": "Bo Kalvslund",
-      "genres": [
-        "Navigation"
-      ],
-      "price": 0.99,
-      "trackId": 6742020536,
-      "trackName": "Meine Pilze",
-      "primaryGenreName": "Navigation",
-      "primaryGenreId": 6010,
-      "genreIds": [
-        "6010"
-      ],
-      "sellerName": "Bo Kalvslund",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseDate": "2025-02-14T08:00:00Z",
-      "currentVersionReleaseDate": "2025-02-14T20:29:21Z",
-      "version": "1.0",
-      "wrapperType": "software",
-      "currency": "EUR",
-      "description": "Speichern Sie Ihre Pilzstandorte auf einer Karte.\n\nBeschreiben Sie Ihre Pilze und den Ort, an dem Sie sie gefunden haben.\n\nSehen Sie alle Ihre Pilzfunde auf der Karte und in einer Liste aller Standorte.\n\nKlicken Sie auf die Pilze auf der Karte, um ihre Beschreibung zu lesen. Klicken Sie auf das Kartensymbol, um eine Wegbeschreibung von Ihrem aktuellen Standort zum Veranstaltungsort zu erhalten.\n\nKarten und Daten werden nur lokal auf deinem Gerät gespeichert, sodass nur du Zugriff auf deine geheimen Pilzfunde hast :-)",
       "averageUserRatingForCurrentVersion": 1,
-      "bundleId": "dk.bodot.meinepilze",
+      "minimumOsVersion": "18.0",
       "sellerUrl": "https://appfar.dk",
       "languageCodesISO2A": [
         "EN"
@@ -205,6 +183,28 @@
       "formattedPrice": "0,99 €",
       "userRatingCountForCurrentVersion": 1,
       "trackContentRating": "4+",
+      "artistId": 572272193,
+      "artistName": "Bo Kalvslund",
+      "genres": [
+        "Navigation"
+      ],
+      "releaseDate": "2025-02-14T08:00:00Z",
+      "genreIds": [
+        "6010"
+      ],
+      "primaryGenreName": "Navigation",
+      "primaryGenreId": 6010,
+      "trackName": "Meine Pilze",
+      "trackId": 6742020536,
+      "sellerName": "Bo Kalvslund",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2025-02-14T20:29:21Z",
+      "version": "1.0",
+      "wrapperType": "software",
+      "currency": "EUR",
+      "description": "Speichern Sie Ihre Pilzstandorte auf einer Karte.\n\nBeschreiben Sie Ihre Pilze und den Ort, an dem Sie sie gefunden haben.\n\nSehen Sie alle Ihre Pilzfunde auf der Karte und in einer Liste aller Standorte.\n\nKlicken Sie auf die Pilze auf der Karte, um ihre Beschreibung zu lesen. Klicken Sie auf das Kartensymbol, um eine Wegbeschreibung von Ihrem aktuellen Standort zum Veranstaltungsort zu erhalten.\n\nKarten und Daten werden nur lokal auf deinem Gerät gespeichert, sodass nur du Zugriff auf deine geheimen Pilzfunde hast :-)",
+      "bundleId": "dk.bodot.meinepilze",
+      "price": 0.99,
       "userRatingCount": 1,
       "country": "DEU"
     }

@@ -197,7 +197,6 @@
     },
     {
       "isGameCenterEnabled": false,
-      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -330,6 +329,10 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "features": [
+        "iosUniversal"
+      ],
+      "advisories": [],
       "kind": "software",
       "artistViewUrl": "https://apps.apple.com/jp/developer/%E7%89%A9%E6%9B%B8%E5%A0%82/id284350529?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/f4/56/07/f45607d2-6b31-51b9-ac75-030b8341bba6/Target1906AppIcon-0-1x_U007emarketing-0-6-0-85-220.png/60x60bb.jpg",
@@ -348,10 +351,7 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/f4/56/07/f45607d2-6b31-51b9-ac75-030b8341bba6/Target1906AppIcon-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
-      "minimumOsVersion": "14.3",
+      "releaseNotes": "起動時に固まる問題を修正いたしました。\n対応に時間がかかりご迷惑をおかけして申し訳ございません。",
       "artistId": 284350529,
       "artistName": "物書堂",
       "genres": [
@@ -359,19 +359,19 @@
         "辞書／辞典／その他"
       ],
       "price": 1000,
-      "trackName": "英単語ターゲット1900（6訂版）for School",
+      "bundleId": "jp.monokakido.Target1906-FS",
       "trackId": 1551990982,
-      "sellerName": "MONOKAKIDO Co. Ltd.",
+      "trackName": "英単語ターゲット1900（6訂版）for School",
+      "isVppDeviceBasedLicensingEnabled": true,
       "genreIds": [
         "6017",
         "6006"
       ],
-      "isVppDeviceBasedLicensingEnabled": true,
       "releaseDate": "2021-02-18T08:00:00Z",
       "primaryGenreName": "Education",
       "primaryGenreId": 6017,
+      "sellerName": "MONOKAKIDO Co. Ltd.",
       "currentVersionReleaseDate": "2022-03-30T00:28:24Z",
-      "releaseNotes": "起動時に固まる問題を修正いたしました。\n対応に時間がかかりご迷惑をおかけして申し訳ございません。",
       "version": "1.0.1",
       "wrapperType": "software",
       "currency": "JPY",
@@ -380,7 +380,6 @@
       "trackCensoredName": "英単語ターゲット1900（6訂版）for School",
       "trackViewUrl": "https://apps.apple.com/jp/app/%E8%8B%B1%E5%8D%98%E8%AA%9E%E3%82%BF%E3%83%BC%E3%82%B2%E3%83%83%E3%83%881900-6%E8%A8%82%E7%89%88-for-school/id1551990982?uo=4",
       "contentAdvisoryRating": "4+",
-      "bundleId": "jp.monokakido.Target1906-FS",
       "averageUserRatingForCurrentVersion": 3.87097,
       "languageCodesISO2A": [
         "EN",
@@ -390,6 +389,7 @@
       "formattedPrice": "¥1,000",
       "userRatingCountForCurrentVersion": 31,
       "trackContentRating": "4+",
+      "minimumOsVersion": "14.3",
       "userRatingCount": 31,
       "country": "JPN"
     }

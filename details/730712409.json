@@ -219,6 +219,8 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/e5/89/b3e58925-c6f0-32ef-2e0e-64297479bd05/191fea9c-494e-4c90-bde8-6f627b332718_ProCam_2_screenshot_4_Simplified_Chinese_iPhone_6_Plus.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/27/4b/0e274b45-f29b-8d78-b83f-209c15378594/89b9412f-f499-41de-8948-ebe8c8a5cc36_Simplified_Chinese.png/392x696bb.png"
       ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/ac/db/02acdb76-198c-2493-14b5-499b52920023/AppIcon-2-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/17/46/c41746e7-bb51-c995-b857-eddf8b0018aa/mzl.gnxgomxx.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/0a/57/b70a579a-1540-dd15-1937-e6ba95d4c1c0/mzl.wtlwktee.png/576x768bb.png",
@@ -226,13 +228,10 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/2f/87/6c2f87d1-3b83-3d2d-7b88-13ac81e07ff4/mzl.ytssioug.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/48/47/a6484709-4b81-f778-1300-ffb1e1e5127c/mzl.ssispmtc.png/576x768bb.png"
       ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/3e/20/5c3e204b-f550-9a6b-ac5e-2b02606a0026/AppIcon-2-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "artistViewUrl": "https://apps.apple.com/cn/developer/tinkerworks-apps/id503806808?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/3e/20/5c3e204b-f550-9a6b-ac5e-2b02606a0026/AppIcon-2-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/3e/20/5c3e204b-f550-9a6b-ac5e-2b02606a0026/AppIcon-2-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/ac/db/02acdb76-198c-2493-14b5-499b52920023/AppIcon-2-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/ac/db/02acdb76-198c-2493-14b5-499b52920023/AppIcon-2-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
-      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -366,11 +365,17 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "advisories": [],
       "kind": "software",
       "features": [
         "iosUniversal"
       ],
+      "averageUserRating": 4.77382,
       "trackCensoredName": "ProCam - 专业相机",
+      "trackViewUrl": "https://apps.apple.com/cn/app/procam-%E4%B8%93%E4%B8%9A%E7%9B%B8%E6%9C%BA/id730712409?uo=4",
+      "contentAdvisoryRating": "4+",
+      "releaseNotes": "◉ ProCam 现已针对 iPhone 18 Pro 全面优化。\n◉ 其他的一些改进以及错误修复。",
+      "averageUserRatingForCurrentVersion": 4.77382,
       "languageCodesISO2A": [
         "AR",
         "EN",
@@ -389,16 +394,12 @@
       "fileSizeBytes": "92703744",
       "formattedPrice": "¥68.00",
       "trackContentRating": "4+",
-      "userRatingCountForCurrentVersion": 34846,
-      "trackViewUrl": "https://apps.apple.com/cn/app/procam-%E4%B8%93%E4%B8%9A%E7%9B%B8%E6%9C%BA/id730712409?uo=4",
-      "averageUserRatingForCurrentVersion": 4.77379,
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.77379,
-      "artistId": 503806808,
-      "artistName": "Tinkerworks Apps",
+      "genres": [
+        "摄影与录像",
+        "生活"
+      ],
+      "bundleId": "gemini.ProCam-2",
       "releaseDate": "2013-10-30T21:19:25Z",
-      "price": 68,
-      "currentVersionReleaseDate": "2026-09-25T18:03:29Z",
       "trackId": 730712409,
       "trackName": "ProCam - 专业相机",
       "genreIds": [
@@ -409,24 +410,20 @@
       "primaryGenreId": 6008,
       "sellerName": "Tinkerworks Apps",
       "isVppDeviceBasedLicensingEnabled": true,
-      "releaseNotes": "◉ ProCam 现已针对 iPhone 18 Pro 全面优化。\n◉ 其他的一些改进以及错误修复。",
-      "version": "15.1.3",
+      "currentVersionReleaseDate": "2026-09-30T15:17:27Z",
+      "version": "15.1.5",
       "wrapperType": "software",
       "currency": "CNY",
       "description": "***一次性购买，无需订阅***\n\n拍摄模式\n\n- 单次拍摄 \n- 低速快门模式\n- 人像\n- 3D 照片\n- 防抖功能\n- 连拍模式\n- 自拍计时器 \n- 拍摄间隔时间 \n- 大尺寸快门按钮 \n- 视频模式 \n- 4K Ultra HD 视频模式 - 3840x2160\n- 4K Max 视频模式 - 4032x2268 - 应用内购买\n- 慢动作视频模式\n- 延时摄影 \n- 4K Ultra HD 延时摄影 - 3840x2160 \n- 4K Max 延时摄影 - 4032x2268 - 应用内购买 \n\n相机功能\n\n- 手动对焦，曝光，快门速度，ISO 和白平衡控制\n- 全方位对焦和曝光控制（触摸对焦 / 触摸曝光） \n- 对焦、曝光与白平衡 (WB) 锁定 \n- 可调节的长宽比（4:3 / 3:2 / 16:9 / 1:1） \n- 无损的 TIFF 格式 - 仅适用于 iPhone 4S 及更高版本\n- 提供四种快门速度选择 (1/8 sec / 1/4 sec / 1/2 sec / 1 sec) \n- 视频暂停/恢复功能 \n- 可调节的视频分辨率（全高清：1080p / 高清：720p / VGA：640x480 / 低品质：480x360) \n- 录制视频的同时拍摄静态照片的功能 \n- 实时视频图像稳定系统（可开启或关闭） \n- 视频磁盘空间计数器 \n- 延时摄影视频分辨率（全高清：1080p / 高清：720p / VGA：640x480 / 低品质：480x360) \n- 真正的慢动作视频模式，4 种播放速度（最大 fps / 30 fps / 24 fps / 15 fps)\n- 6 倍数码变焦 \n- 视频缩放 \n- 音量计 ( 级别 平均 / 峰值) \n- 地理位置标记 \n- 对齐网格（三等分 / Trisec / 黄金分割线 / 地平线) \n- 支持前 / 后置摄像头 \n- 日期戳 \n- 时间戳 \n- 位置戳 \n- 版权戳 \n- 视频日期戳 \n- 视频位置戳 \n- 视频版权戳 \n- 延时摄影日期戳 \n- 延时摄影位置戳 \n- 延时摄影版权戳 \n- 音乐嵌入至延时摄影视频中 \n- 闪光灯设置（自动 / 开启 / 关闭 / 常亮照明） \n\n照片 / 视频编辑器\n\n- 非破坏性编辑——所有的编辑操作，包括裁剪，是完全可以修正 / 还原的\n- 60个专业制作的过滤器\n- 17 种实时镜头: 晕影 / 白晕影 / 鱼眼 / 移轴 / 宏观 / 小星球 / 虫洞 / 分割 / 万花筒 I, II, III, IV, V / 涟漪 / 条纹 / 阴影 / 半色调 \n- 19 种综合调整工具\n- 剪裁、修剪、旋转、镜像、拉伸和透视校正\n- 您可以使用高精度的时间线逐帧查看视频 \n- 将音乐歌曲添加到您的视频的功能\n- 可对原始录音和背景音乐进行音量控制\n- 可从视频中提取静止帧\n- 支持4K (3840x2160) 高清视频格式\n\n批量照片动作\n\n- 批量盖章： 添加日期/时间/地点/版权印章到你相簿中的多张照片\n- 批量调整大小：调整你相簿中多张照片的大小\n\n反馈\n\n遇到问题？对后续更新有意见或建议？请发邮件至 support@procamapp.com 与我们取得联系、",
-      "bundleId": "gemini.ProCam-2",
       "minimumOsVersion": "15.0",
-      "genres": [
-        "摄影与录像",
-        "生活"
-      ],
-      "userRatingCount": 34846,
+      "userRatingCountForCurrentVersion": 34849,
+      "artistId": 503806808,
+      "artistName": "Tinkerworks Apps",
+      "price": 68,
+      "userRatingCount": 34849,
       "country": "CHN"
     },
     {
-      "artistViewUrl": "https://apps.apple.com/jp/developer/tinkerworks-apps/id503806808?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/3e/20/5c3e204b-f550-9a6b-ac5e-2b02606a0026/AppIcon-2-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/3e/20/5c3e204b-f550-9a6b-ac5e-2b02606a0026/AppIcon-2-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
@@ -571,7 +568,10 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/87/85/b88785e2-36ea-720f-d93d-4f0f37e5f9b2/pr_source.png/576x768bb.png"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/3e/20/5c3e204b-f550-9a6b-ac5e-2b02606a0026/AppIcon-2-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/ac/db/02acdb76-198c-2493-14b5-499b52920023/AppIcon-2-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/17/cd/e217cdc0-1d49-6c78-99ad-f24ab520433b/26b1dfba-dace-4779-b48a-a3203395f3e6_ProCam_3_screenshot_1_iPhone_6_Plus.PNG/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/f6/9e/24f69e97-caa8-a4d8-2956-7ddc001a3b99/90c26066-2e9c-4c26-b081-6163317d6319_ProCam_8_Screenshot_2_iPhone_5.5_U0022_Japanese.PNG/392x696bb.png",
@@ -580,14 +580,10 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/27/a1/0527a1f1-2940-192d-a4d5-e160a1af230c/ac470eff-de64-433a-a653-fb8da9385380_ProCam_2_screenshot_4_Japanese_iPhone_6_Plus.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/f4/10/c1f41051-8fe7-4d89-1e40-36bfb50df0e6/4e15b5af-8751-47c5-b279-67d8d4546b18_1242x2208bb.png/392x696bb.png"
       ],
-      "features": [
-        "iosUniversal"
-      ],
-      "trackCensoredName": "ProCam - プロカメラ",
-      "trackViewUrl": "https://apps.apple.com/jp/app/procam-%E3%83%97%E3%83%AD%E3%82%AB%E3%83%A1%E3%83%A9/id730712409?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.53549,
-      "averageUserRatingForCurrentVersion": 4.53549,
+      "artistViewUrl": "https://apps.apple.com/jp/developer/tinkerworks-apps/id503806808?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/ac/db/02acdb76-198c-2493-14b5-499b52920023/AppIcon-2-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/ac/db/02acdb76-198c-2493-14b5-499b52920023/AppIcon-2-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
+      "releaseNotes": "◉ ProCamがiPhone 18 Proに完全対応しました。\n◉ その他の改善とバグの修正。",
       "artistId": 503806808,
       "artistName": "Tinkerworks Apps",
       "genres": [
@@ -595,25 +591,24 @@
         "ライフスタイル"
       ],
       "price": 1500,
-      "trackId": 730712409,
-      "trackName": "ProCam - プロカメラ",
-      "releaseDate": "2013-10-30T21:19:25Z",
-      "isVppDeviceBasedLicensingEnabled": true,
       "genreIds": [
         "6008",
         "6012"
       ],
+      "trackId": 730712409,
+      "trackName": "ProCam - プロカメラ",
       "primaryGenreName": "Photo & Video",
       "primaryGenreId": 6008,
+      "releaseDate": "2013-10-30T21:19:25Z",
       "sellerName": "Tinkerworks Apps",
-      "currentVersionReleaseDate": "2026-09-25T18:03:29Z",
-      "releaseNotes": "◉ ProCamがiPhone 18 Proに完全対応しました。\n◉ その他の改善とバグの修正。",
-      "version": "15.1.3",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-09-30T15:17:27Z",
+      "version": "15.1.5",
       "wrapperType": "software",
       "currency": "JPY",
       "description": "***買い切り、サブスクリプションなし***\n\n撮影モード\n\n- 写真\n- スローシャッターモード \n- ポートレート \n- 3D写真 \n- 感度調整付き手ぶれ補正 ( 高　/ 中 / 低 ) \n- バーストモード\n- セルフタイマー \n- インターバル \n- 拡大表示ボタン \n- ビデオ \n- 4K Ultra HD ビデオ- 3840x2160\n- 4K Max ビデオ - 4032x2268 - アプリ内購入\n- スローモーションビデオ\n- タイムラプス\n- 4K Ultra HD タイムラプス - 3840x2160\n- 4K Max タイムラプス - 4032x2268 - アプリ内購入\n\nカメラ機能\n\n- マニュアルフォーカス、露出度、シャッタースピード、ISO感度、ホワイトバランスの調整が可能\n- フォーカスと露出のフルコントロール ( タッチフォーカス / タッチ露出 ) \n- フォーカス、露出、ホワイトバランス (WB) ロック \n- アスペクト比調整可能 (4:3 / 3:2 / 16:9 / 1:1) \n- ロスレスTIFF形式 -  iPhone 4Sまたはそれ以降のみ\n- は四つのシャッタースピードオプションが利用できます (1/8 sec / 1/4 sec / 1/2 sec / 1 sec) \n- ビデオの一時停止/再開機能 \n- ビデオ画質調整可能 ( フル HD: 1080p / HD:720p / VGA: 640x480) \n- ビデオ録画中に静止画を撮影する機能 \n- リアルタイムビデオ手ぶれ補正 ( オン/オフ可能 ) \n- ビデオディスク容量カウンター \n- タイムラプスビデオ解像度 ( フル HD: 1080p / HD:720p / VGA: 640x480) \n- 6 倍デジタルズーム \n- ビデオズーム \n- オーディオメーター (レベル 平均 / ピーク) \n- Geo タグ \n- 整合格子 ( 三等分 / 三分割 / 黄金比 / 水平比 ) \n- 前部 / 後部カメラサポート \n- 日スタンプ \n- 時スタンプ \n- ロケーションスタンプ \n- 著作権スタンプ \n- ビデオ日スタンプ \n- ビデオロケーションスタンプ \n- ビデオ著作権スタンプ \n- 時間経過日スタンプ \n- 時間経過ロケーションスタンプ \n- 時間経過著作権スタンプ \n- 時間経過ビデオ内にサウンドトラックを挿入する事も可能です \n- フラッシュ設定 ( 自動 / オン / オフ / トーチ ) \n\n写真/動画編集ソフト\n\n- 非破壊編集 - クロッピングを含む全ての編集において修正と復元が可能です\n- 手づくりした60のフィルター\n- 17つのライブレンズ: ビネット / 白ビネット /  魚眼レンズ効果 / あおり効果 / 接写 / 小さな惑星 / ワームホール / シンメトリー / 万華鏡効果 I, II, III, IV, V / リップル / ストライプ / ハッチ / ハーフトーン\n- 19の包括的調整ツール\n- トリミング、クロップ、回転、反転、ゆがみ補正、パースペクティブ補正機能つき\n- 極めて正確なタイムライン機能。動画を1フレームずつ確認できます\n- 音楽トラックをビデオに追加\n- オリジナル音声とBGM両方の音量調節が可能\n- 動画からの静止画切り出し機能つき\n- 4K(3840x2160)までの高画質映像をサポート\n\n一括フォト処理\n\n- 一括スタンプ：アルバム内の写真複数を日付 / 時刻/ 場所/ コピーライトでスタンプ\n- 一括サイズ変換：アルバム内の写真複数をサイズ変換\n\nご意見・ご感想  \n\n何か問題がありますか ? 今後のアップデートに向けてご意見やご提案はありませんか ? support@procamapp.com までお寄せください。",
-      "minimumOsVersion": "15.0",
       "bundleId": "gemini.ProCam-2",
+      "averageUserRatingForCurrentVersion": 4.53545,
       "languageCodesISO2A": [
         "AR",
         "EN",
@@ -631,34 +626,22 @@
       ],
       "fileSizeBytes": "92703744",
       "formattedPrice": "¥1,500",
-      "userRatingCountForCurrentVersion": 13298,
+      "userRatingCountForCurrentVersion": 13297,
       "trackContentRating": "4+",
-      "userRatingCount": 13298,
+      "minimumOsVersion": "15.0",
+      "trackCensoredName": "ProCam - プロカメラ",
+      "trackViewUrl": "https://apps.apple.com/jp/app/procam-%E3%83%97%E3%83%AD%E3%82%AB%E3%83%A1%E3%83%A9/id730712409?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.53545,
+      "userRatingCount": 13297,
       "country": "JPN"
     },
     {
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/8c/88/a78c883d-c06f-5c4c-76a0-82f4fdd6b849/393dd30a-35d0-4885-9811-ca79edf83e1f_ProCam_3_screenshot_1_iPhone_6_Plus.PNG/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/0a/e2/7b0ae23d-89d5-f00b-2b73-e749d144ab78/84bbb6e3-152d-4e03-b43d-ecaa6acd7727_ProCam_8_Screenshot_2_iPhone_5.5_U0022_English.PNG/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/99/c5/1599c575-ec29-0043-7c71-a10299306735/500cb606-b579-4085-b989-2027684d0150_ProCam_3_screenshot_3_English_iPhone_6_Plus.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/e8/6b/7be86b1e-5702-e554-ab86-5f4fcb57686f/4b29b106-c9ae-4bee-a46d-fe3b1e068ef4_ProCam_8_screenshot_6_English_iPhone_7_Plus.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/54/52/2e545216-4eda-5b78-68f1-1b2cf925462c/9befd3ce-4189-49fb-bce0-122924d49675_ProCam_2_screenshot_4_English_iPhone_6_Plus.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/0a/80/5e0a80b3-53ca-8884-5f56-747703128c89/905de1a5-4e02-4884-81fc-c3139b235529_1242x2208bb.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/47/36/13473600-377c-d5ee-a3f2-6629bfc28093/07e980fe-5640-4720-9acb-40ac01107e4b_1242x2208bb-2.png/392x696bb.png"
-      ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/12/70/ef/1270ef44-e87e-2367-a6e0-a213a11b1ccb/mzl.phukbfur.png/576x768bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/4e/43/404e439c-6876-b302-cf6d-a48dc90d2184/mzl.xvoljjrx.png/576x768bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/65/c8/b665c8e1-b500-32e2-0c59-5e975cbae01a/mzl.zbcbbnnv.png/576x768bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/97/96/c69796f6-d3d0-d782-b1af-6b9f62dcab90/mzl.klovwyof.png/576x768bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/59/df/5559df08-ad14-ddf5-1467-9435389ca26e/mzl.ixjwfqqf.png/576x768bb.png"
-      ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/3e/20/5c3e204b-f550-9a6b-ac5e-2b02606a0026/AppIcon-2-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
+      "artistViewUrl": "https://apps.apple.com/us/developer/tinkerworks-apps/id503806808?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/ac/db/02acdb76-198c-2493-14b5-499b52920023/AppIcon-2-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/ac/db/02acdb76-198c-2493-14b5-499b52920023/AppIcon-2-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -792,13 +775,58 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
       "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/us/developer/tinkerworks-apps/id503806808?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/3e/20/5c3e204b-f550-9a6b-ac5e-2b02606a0026/AppIcon-2-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/3e/20/5c3e204b-f550-9a6b-ac5e-2b02606a0026/AppIcon-2-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/76/d6/2876d67d-50c0-a58a-cf97-6f5e01cbdcd7/393dd30a-35d0-4885-9811-ca79edf83e1f_ProCam_3_screenshot_1_iPhone_6_Plus.PNG/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/52/84/2a5284da-49f1-e9ee-661e-78dc3d2f96a7/84bbb6e3-152d-4e03-b43d-ecaa6acd7727_ProCam_8_Screenshot_2_iPhone_5.5_U0022_English.PNG/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/de/92/4fde9202-90b8-beca-822e-8fd664befec2/500cb606-b579-4085-b989-2027684d0150_ProCam_3_screenshot_3_English_iPhone_6_Plus.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d5/10/47/d51047ac-8f5f-c7f9-6b1e-fcebafeb62cd/4b29b106-c9ae-4bee-a46d-fe3b1e068ef4_ProCam_8_screenshot_6_English_iPhone_7_Plus.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/8d/3a/bc8d3acf-d673-99b6-8814-064eb6b9a8de/pr_source.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/64/ed/8d64edf6-7ebe-ef64-e038-929be3e61fdf/905de1a5-4e02-4884-81fc-c3139b235529_1242x2208bb.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/28/f0/b028f06b-7f9f-d510-b9e0-85d0f8d510c0/07e980fe-5640-4720-9acb-40ac01107e4b_1242x2208bb-2.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/f6/28/dff6287e-5972-dee9-47c6-47d1d49caeaa/9befd3ce-4189-49fb-bce0-122924d49675_ProCam_2_screenshot_4_English_iPhone_6_Plus.png/392x696bb.png"
+      ],
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/26/b6/e126b6d5-0900-5f8e-01dd-9d55ef3b2f66/mzl.phukbfur.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/97/92/8d9792bf-b68c-261f-9aa6-6d24cb6d6aa7/mzl.xvoljjrx.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/6f/99/cb6f994a-e618-e74e-eb9d-49487de405c7/mzl.zbcbbnnv.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/a4/42/e3a442fc-6061-cd00-aa5c-fd0882ea64bc/mzl.klovwyof.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/f7/77/47f77775-9318-f296-434a-624526c434b4/mzl.ixjwfqqf.png/576x768bb.png"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/ac/db/02acdb76-198c-2493-14b5-499b52920023/AppIcon-2-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "minimumOsVersion": "15.0",
-      "averageUserRatingForCurrentVersion": 4.61156,
+      "trackCensoredName": "ProCam - Pro Camera",
+      "trackViewUrl": "https://apps.apple.com/us/app/procam-pro-camera/id730712409?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.61162,
+      "artistId": 503806808,
+      "artistName": "Tinkerworks Apps",
+      "genres": [
+        "Photo & Video",
+        "Lifestyle"
+      ],
+      "price": 9.99,
+      "primaryGenreName": "Photo & Video",
+      "primaryGenreId": 6008,
+      "genreIds": [
+        "6008",
+        "6012"
+      ],
+      "releaseDate": "2013-10-30T21:19:25Z",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "trackId": 730712409,
+      "trackName": "ProCam - Pro Camera",
+      "currentVersionReleaseDate": "2026-09-30T15:17:27Z",
+      "sellerName": "Tinkerworks Apps",
+      "releaseNotes": "◉ ProCam is now fully optimized for iPhone 18 Pro.\n◉ Bug fixes and general improvements.",
+      "version": "15.1.5",
+      "wrapperType": "software",
+      "currency": "USD",
+      "description": "***ONE-TIME PURCHASE, NO SUBSCRIPTIONS***\n\nSHOOTING MODES \n\n- Photo\n- Burst Mode\n- Slow Shutter\n- Portrait Mode - supported on all dual lens camera system as well as iPhone XR and iPhone SE 2020\n- 3D Photo - requires dual lens camera system\n- Video\n- Time Lapse\n\nPHOTO SHUTTER RELEASE OPTIONS\n\n- Self-Timer \n- Anti-Shake\n- Screen Shutter / Big Button\n- Interval\n\nVIDEO FRAME RATES AND RESOLUTIONS\n\n- VGA, 720p, 1080p\n- 4K Ultra HD - 3264x1836 upscaled to 3840x2160 - in-app purchase - iPhone 5s / iPad Air 2 and later\n- 4K Ultra HD - 3840x2160 - native support on iPhone 6s / Plus and later\n- 4K Max - 4032x2268 - in-app purchase -  iPhone 6s / Plus and later\n- High frame rate:\n* 48 / 50 / 60 fps 720p - iPhone 5 / iPad mini and later  \n* 96 / 100 /120 fps 720p - iPhone 5s / iPad Air 2 and later \n* 192 / 200 / 240 fps 720p - iPhone 6 and later \n* 48 / 50 / 60 fps 1080p - iPhone 6 and later\n* 96 / 100 / 120 fps 1080p - iPhone 6s / Plus and later\n* 192 / 200 / 240 fps 1080p - iPhone 8 and later \n* 48 / 50 / 60 fps 4K - iPhone 8 and later  \n\nTIME LAPSE FRAME RATES AND RESOLUTIONS\n\n- VGA, 720p, 1080p\n- 4K Ultra HD - 3264x1836 upscaled to 3840x2160 - in-app purchase - iPhone 5 / iPad Air 2 and later\n- 4K Ultra HD - 3840x2160 - native support on iPhone 6s / Plus and later\n- 4K Max - 4032x2268 - in-app purchase - iPhone 6s / Plus and later\n- High frame rate:\n* 48 / 50 / 60 fps 720p - all devices\n* 48 / 50 / 60 fps 1080p - all devices\n* 48 / 50 / 60 fps 4K - iPhone 5 / iPad Air 2 and later\n* 48 / 50 / 60 fps 4K Max -  iPhone 6s / Plus and later\n\nMANUAL CONTROLS\n\n- Manual exposure, shutter speed, ISO, focus, and white balance controls\n- Scroll and steppers system inspired by DSLR cameras\n- Tap location accurate manual focus assist\n- True focus peaking\n- Zebra stripes - overexposure warning\n- Live shutter speed, ISO, focus, and WB values\n- Manual controls are supported in all photo and video modes\n\nMAIN CAMERA FEATURES\n\n- RAW (DNG) iOS 10 - iPhone 6s / iPad Pro 9.7 and later\n- Lossless TIFF file format support\n- Intelligent 3-shot HDR\n- AEB (Auto Exposure Bracketing) with RAW support for high contrast conditions\n- Live light level histogram\n- Adjustable aspect ratio (4:3 / 3:2 / 16:9 / 1:1) \n- Video pause/resume functionality \n- Video audio meter (Avg. / Peak signal levels) \n- Still photo capture during video recording \n- Realtime video stabilization (ON/OFF) \n- Video disk space indicator \n- Thirds grid and horizontal tiltmeter. \n- Date / time / location / Copyright stamp\n\nPHOTO / VIDEO EDITOR & PHOTO EDITING EXTENSION\n\n- Nondestructive editing - all edits, including cropping, are completely amendable / reversible \n- 60 expertly crafted filters\n- 17 lenses: Vignette / White Vignette / Fisheye / Tilt Shift / Macro / Tiny Planet / Wormhole / Split / Kaleidoscope I, II, III, IV, V / Ripple / Striped / Hatched / Halftone\n- 19 comprehensive adjustment tools\n- Trimming, cropping, rotating, mirroring, straightening, and perspective correction\n- Extremely accurate timeline with the ability to review videos frame by frame\n- Ability to add background music",
       "languageCodesISO2A": [
         "AR",
         "EN",
@@ -816,38 +844,11 @@
       ],
       "fileSizeBytes": "92703744",
       "formattedPrice": "$9.99",
-      "userRatingCountForCurrentVersion": 35298,
+      "userRatingCountForCurrentVersion": 35306,
       "trackContentRating": "4+",
-      "releaseNotes": "◉ ProCam is now fully optimized for iPhone 18 Pro.\n◉ Bug fixes and general improvements.",
-      "genres": [
-        "Photo & Video",
-        "Lifestyle"
-      ],
-      "releaseDate": "2013-10-30T21:19:25Z",
-      "primaryGenreName": "Photo & Video",
-      "primaryGenreId": 6008,
-      "trackId": 730712409,
-      "trackName": "ProCam - Pro Camera",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "sellerName": "Tinkerworks Apps",
-      "currentVersionReleaseDate": "2026-09-25T18:03:29Z",
-      "version": "15.1.3",
-      "wrapperType": "software",
-      "currency": "USD",
-      "description": "***ONE-TIME PURCHASE, NO SUBSCRIPTIONS***\n\nSHOOTING MODES \n\n- Photo\n- Burst Mode\n- Slow Shutter\n- Portrait Mode - supported on all dual lens camera system as well as iPhone XR and iPhone SE 2020\n- 3D Photo - requires dual lens camera system\n- Video\n- Time Lapse\n\nPHOTO SHUTTER RELEASE OPTIONS\n\n- Self-Timer \n- Anti-Shake\n- Screen Shutter / Big Button\n- Interval\n\nVIDEO FRAME RATES AND RESOLUTIONS\n\n- VGA, 720p, 1080p\n- 4K Ultra HD - 3264x1836 upscaled to 3840x2160 - in-app purchase - iPhone 5s / iPad Air 2 and later\n- 4K Ultra HD - 3840x2160 - native support on iPhone 6s / Plus and later\n- 4K Max - 4032x2268 - in-app purchase -  iPhone 6s / Plus and later\n- High frame rate:\n* 48 / 50 / 60 fps 720p - iPhone 5 / iPad mini and later  \n* 96 / 100 /120 fps 720p - iPhone 5s / iPad Air 2 and later \n* 192 / 200 / 240 fps 720p - iPhone 6 and later \n* 48 / 50 / 60 fps 1080p - iPhone 6 and later\n* 96 / 100 / 120 fps 1080p - iPhone 6s / Plus and later\n* 192 / 200 / 240 fps 1080p - iPhone 8 and later \n* 48 / 50 / 60 fps 4K - iPhone 8 and later  \n\nTIME LAPSE FRAME RATES AND RESOLUTIONS\n\n- VGA, 720p, 1080p\n- 4K Ultra HD - 3264x1836 upscaled to 3840x2160 - in-app purchase - iPhone 5 / iPad Air 2 and later\n- 4K Ultra HD - 3840x2160 - native support on iPhone 6s / Plus and later\n- 4K Max - 4032x2268 - in-app purchase - iPhone 6s / Plus and later\n- High frame rate:\n* 48 / 50 / 60 fps 720p - all devices\n* 48 / 50 / 60 fps 1080p - all devices\n* 48 / 50 / 60 fps 4K - iPhone 5 / iPad Air 2 and later\n* 48 / 50 / 60 fps 4K Max -  iPhone 6s / Plus and later\n\nMANUAL CONTROLS\n\n- Manual exposure, shutter speed, ISO, focus, and white balance controls\n- Scroll and steppers system inspired by DSLR cameras\n- Tap location accurate manual focus assist\n- True focus peaking\n- Zebra stripes - overexposure warning\n- Live shutter speed, ISO, focus, and WB values\n- Manual controls are supported in all photo and video modes\n\nMAIN CAMERA FEATURES\n\n- RAW (DNG) iOS 10 - iPhone 6s / iPad Pro 9.7 and later\n- Lossless TIFF file format support\n- Intelligent 3-shot HDR\n- AEB (Auto Exposure Bracketing) with RAW support for high contrast conditions\n- Live light level histogram\n- Adjustable aspect ratio (4:3 / 3:2 / 16:9 / 1:1) \n- Video pause/resume functionality \n- Video audio meter (Avg. / Peak signal levels) \n- Still photo capture during video recording \n- Realtime video stabilization (ON/OFF) \n- Video disk space indicator \n- Thirds grid and horizontal tiltmeter. \n- Date / time / location / Copyright stamp\n\nPHOTO / VIDEO EDITOR & PHOTO EDITING EXTENSION\n\n- Nondestructive editing - all edits, including cropping, are completely amendable / reversible \n- 60 expertly crafted filters\n- 17 lenses: Vignette / White Vignette / Fisheye / Tilt Shift / Macro / Tiny Planet / Wormhole / Split / Kaleidoscope I, II, III, IV, V / Ripple / Striped / Hatched / Halftone\n- 19 comprehensive adjustment tools\n- Trimming, cropping, rotating, mirroring, straightening, and perspective correction\n- Extremely accurate timeline with the ability to review videos frame by frame\n- Ability to add background music",
-      "trackCensoredName": "ProCam - Pro Camera",
-      "trackViewUrl": "https://apps.apple.com/us/app/procam-pro-camera/id730712409?uo=4",
-      "contentAdvisoryRating": "4+",
       "bundleId": "gemini.ProCam-2",
-      "averageUserRating": 4.61156,
-      "artistId": 503806808,
-      "artistName": "Tinkerworks Apps",
-      "genreIds": [
-        "6008",
-        "6012"
-      ],
-      "price": 9.99,
-      "userRatingCount": 35298,
+      "averageUserRatingForCurrentVersion": 4.61162,
+      "userRatingCount": 35306,
       "country": "USA"
     },
     {
@@ -1065,6 +1066,28 @@
       "features": [
         "iosUniversal"
       ],
+      "advisories": [],
+      "kind": "software",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/59/15/ef59151d-5291-9d0b-669d-a3765cf5cfc8/be07cdd1-0805-4937-8f18-1fc3074a7c28_ProCam_3_screenshot_1_iPhone_6_Plus.PNG/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/60/1e/78601eaf-8af4-5b43-1635-c6c4870e0f2d/ef7d7370-10a1-4fb3-acee-cc4ce51ef189_ProCam_8_Screenshot_2_iPhone_5.5_U0022_French.PNG/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/68/11/ca6811ec-dd4b-e70a-db97-553695629b2a/26c6c6f7-6ec7-4c92-87fa-9f60546f3f19_ProCam_3_screenshot_3_French_iPhone_6_Plus.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/17/7d/04177d81-372a-2aff-96a0-8066f38ee4cd/7a0176c4-dd9a-46a1-a091-5e4c66a6a9cc_ProCam_8_screenshot_6_English_iPhone_7_Plus.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/ed/15/cced1595-ca97-6664-e67e-cb395afbf83e/a73ff2e4-ee98-4cd0-af88-369dbaf3b2f1_ProCam_2_screenshot_4_French_iPhone_6_Plus.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/8a/5e/088a5e05-26c4-2fad-9360-622a3ee96847/72fbb8fc-8d2d-494f-b069-f78a185812c9_1242x2208bb.png/392x696bb.png"
+      ],
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/b3/5f/97b35f85-8980-b5bd-600c-1a3a949eab90/mzl.oteiwdnx.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/b0/75/72b07559-a775-50b3-ea6d-cf817317341e/mzl.tmnusuig.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2a/05/16/2a051638-5589-af80-8bfc-c92a89f7100d/mzl.eyujiciz.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/56/a1/3e56a1bb-467e-991f-08fb-cfa3e98261fb/mzl.mnnvnucb.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/cf/bd/00cfbd69-9e1c-093c-85d6-01609bd7479d/mzl.dcdywljv.png/576x768bb.png"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/ac/db/02acdb76-198c-2493-14b5-499b52920023/AppIcon-2-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/ac/db/02acdb76-198c-2493-14b5-499b52920023/AppIcon-2-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/ac/db/02acdb76-198c-2493-14b5-499b52920023/AppIcon-2-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/fr/developer/tinkerworks-apps/id503806808?uo=4",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -1198,52 +1221,33 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
-      "kind": "software",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/59/15/ef59151d-5291-9d0b-669d-a3765cf5cfc8/be07cdd1-0805-4937-8f18-1fc3074a7c28_ProCam_3_screenshot_1_iPhone_6_Plus.PNG/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/60/1e/78601eaf-8af4-5b43-1635-c6c4870e0f2d/ef7d7370-10a1-4fb3-acee-cc4ce51ef189_ProCam_8_Screenshot_2_iPhone_5.5_U0022_French.PNG/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/68/11/ca6811ec-dd4b-e70a-db97-553695629b2a/26c6c6f7-6ec7-4c92-87fa-9f60546f3f19_ProCam_3_screenshot_3_French_iPhone_6_Plus.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/17/7d/04177d81-372a-2aff-96a0-8066f38ee4cd/7a0176c4-dd9a-46a1-a091-5e4c66a6a9cc_ProCam_8_screenshot_6_English_iPhone_7_Plus.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/ed/15/cced1595-ca97-6664-e67e-cb395afbf83e/a73ff2e4-ee98-4cd0-af88-369dbaf3b2f1_ProCam_2_screenshot_4_French_iPhone_6_Plus.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/8a/5e/088a5e05-26c4-2fad-9360-622a3ee96847/72fbb8fc-8d2d-494f-b069-f78a185812c9_1242x2208bb.png/392x696bb.png"
-      ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/b3/5f/97b35f85-8980-b5bd-600c-1a3a949eab90/mzl.oteiwdnx.png/576x768bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/b0/75/72b07559-a775-50b3-ea6d-cf817317341e/mzl.tmnusuig.png/576x768bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2a/05/16/2a051638-5589-af80-8bfc-c92a89f7100d/mzl.eyujiciz.png/576x768bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/56/a1/3e56a1bb-467e-991f-08fb-cfa3e98261fb/mzl.mnnvnucb.png/576x768bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/cf/bd/00cfbd69-9e1c-093c-85d6-01609bd7479d/mzl.dcdywljv.png/576x768bb.png"
-      ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/3e/20/5c3e204b-f550-9a6b-ac5e-2b02606a0026/AppIcon-2-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/3e/20/5c3e204b-f550-9a6b-ac5e-2b02606a0026/AppIcon-2-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/3e/20/5c3e204b-f550-9a6b-ac5e-2b02606a0026/AppIcon-2-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/fr/developer/tinkerworks-apps/id503806808?uo=4",
-      "releaseNotes": "◉ ProCam est désormais entièrement optimisé pour l’iPhone 18 Pro.\n◉ Autres améliorations et corrections de bug.",
+      "minimumOsVersion": "15.0",
       "genres": [
         "Photo et vidéo",
         "Style de vie"
       ],
-      "price": 9.99,
-      "bundleId": "gemini.ProCam-2",
+      "artistId": 503806808,
+      "artistName": "Tinkerworks Apps",
+      "primaryGenreName": "Photo & Video",
+      "primaryGenreId": 6008,
+      "sellerName": "Tinkerworks Apps",
+      "isVppDeviceBasedLicensingEnabled": true,
       "genreIds": [
         "6008",
         "6012"
       ],
-      "primaryGenreName": "Photo & Video",
-      "primaryGenreId": 6008,
-      "trackId": 730712409,
-      "trackName": "ProCam - Caméra Pro",
-      "sellerName": "Tinkerworks Apps",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-09-25T18:03:29Z",
-      "version": "15.1.3",
+      "releaseDate": "2013-10-30T21:19:25Z",
+      "currentVersionReleaseDate": "2026-09-30T15:17:27Z",
+      "releaseNotes": "◉ ProCam est désormais entièrement optimisé pour l’iPhone 18 Pro.\n◉ Autres améliorations et corrections de bug.",
+      "version": "15.1.5",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "***ACHAT UNIQUE, AUCUN ABONNEMENT***\n\nMODES DE PRISES DE VUE \n\n- Photo\n- Obturateur lent\n- Portrait\n- Photos 3D\n- Stabilisateur\n- Mode rafale\n- Minuterie auto \n- Intervalle \n- Gros bouton \n- Vidéo \n- Vidéo 4K Max - 4032×2268 - achat dans l'application \n- Vidéo slow motion\n- Time lapse \n- Time lapse 4K Max - 4032×2268  - achat dans l'application\n\nFONCTIONS DE LA CAMÉRA \n\n- Mise au point manuelle, exposition, vitesse d'obturation, ISO, et contrôle d'équilibre des blancs\n- Mise au point de l'image et contrôle de l’exposition (touch mise au point / touch exposition)\n- Mise au point, exposition et balance des blancs \n- Format d'image réglable (4:3 / 3:2 / 16:9 / 1:1) \n- Format sans perte TIFF - iPhone 4S et versions plus récentes uniquement\n- Quatre options de vitesse d'obturation (1/8 sec / 1/4 sec / 1/2 sec / 1 sec) \n- Fonctionnalité vidéo de pause/reprise \n- Résolution vidéo réglable (Full HD: 1080p / HD:720p / VGA: 640x480) \n- La possibilité de prendre des photos pendant l'enregistrement d'une vidéo \n- Stabilisation vidéo en temps réel (peut être mise sur ON/OFF) \n- Renseigne sur l'espace disque vidéo \n- Résolution de la vidéo en time lapse (Full HD: 1080p / HD:720p / VGA: 640x480) \n- Zoom numérique 6x \n- Zoom vidéo \n- Audiomètre (niveau de l'audiomètre: Avg. / Haut) \n- Balisage géolocalisé \n- Grilles d'alignement (Troisième / Trisec / Or / Horizon) \n- Prise en charge appareil photo à l'avant/arrière \n- Marqueur de date de la photo \n- Marqueur de heure de la photo \n- Marqueur d'emplacement de la photo \n- Marqueur de droit d'auteur de la photo \n- Marqueur de date de la vidéo / time lapse \n- Marqueur d'emplacement de la vidéo / time lapse \n- Marqueur de droit d'auteur de la vidéo / time lapse \n- Bande son peuvent être intégrées dans des vidéos time lapse \n- Paramètres flash (Auto / On / Off / Torch) \n\nÉDITEUR PHOTOS / VIDÉOS\n\n- Édition non destructive - toutes les modifications, dont le recadrage, sont complètement amendables / réversibles\n- 60 filtres conçus par des experts\n- 17 lentilles: Vignette / White Vignette / Fisheye / Tilt Shift / Macro / Tiny Planet / Wormhole / Split / Kaleidoscope I, II, III, IV, V / Ripple / Striped / Hatched / Halftone\n- 19 outils d'ajustement complets\n- Découpage, recadrage, faire pivoter, effet miroir, redresser, et correction de la perspective\n- Ajouter des pistes musicales à vos vidéos\n- Réglage du volume aussi bien pour les enregistrements originaux que pour la musique d'ambiance\n- Possibilité d'extraire des photogrammes fixes des vidéos\n- Vidéo de haute résolution supporté jusqu'à 4K (3840x2160)\n\nLOT DE PHOTO D'ACTION\n\n- Estampillage par lots : ajoutez des estampilles pour la date / l'heure / la localisation / le droit d'auteur sur plusieurs photos de votre album\n- Redimensionnement par lots : redimensionnez plusieurs photos de votre album",
-      "minimumOsVersion": "15.0",
-      "averageUserRating": 4.53325,
+      "averageUserRatingForCurrentVersion": 4.53348,
+      "bundleId": "gemini.ProCam-2",
+      "trackViewUrl": "https://apps.apple.com/fr/app/procam-cam%C3%A9ra-pro/id730712409?uo=4",
+      "trackContentRating": "4+",
+      "averageUserRating": 4.53348,
       "trackCensoredName": "ProCam - Caméra Pro",
       "languageCodesISO2A": [
         "AR",
@@ -1263,14 +1267,11 @@
       "fileSizeBytes": "92703744",
       "formattedPrice": "9,99 €",
       "contentAdvisoryRating": "4+",
-      "trackViewUrl": "https://apps.apple.com/fr/app/procam-cam%C3%A9ra-pro/id730712409?uo=4",
-      "trackContentRating": "4+",
-      "userRatingCountForCurrentVersion": 3925,
-      "averageUserRatingForCurrentVersion": 4.53325,
-      "releaseDate": "2013-10-30T21:19:25Z",
-      "artistId": 503806808,
-      "artistName": "Tinkerworks Apps",
-      "userRatingCount": 3925,
+      "userRatingCountForCurrentVersion": 3927,
+      "trackId": 730712409,
+      "trackName": "ProCam - Caméra Pro",
+      "price": 9.99,
+      "userRatingCount": 3927,
       "country": "FRA"
     }
   ]

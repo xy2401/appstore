@@ -6,11 +6,6 @@
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/a8/70/9e/a8709e61-7cac-3379-2223-0df06fabe037/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/a8/70/9e/a8709e61-7cac-3379-2223-0df06fabe037/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [],
-      "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/ec/57/fb/ec57fb20-851d-2e87-ab93-c063c2bf0b47/0612bdfa-9605-4597-9e2c-610eb5e15e32___-65-001.jpg/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/e0/b7/30/e0b73047-0ef2-a6a6-8357-1b8413fb3be7/6986ad40-787c-4b8b-be84-1d4afbd2837b_de-65-002.png/320x480bb.jpg",
@@ -22,6 +17,9 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/a8/70/9e/a8709e61-7cac-3379-2223-0df06fabe037/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -154,37 +152,14 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "advisories": [],
+      "kind": "software",
       "trackCensoredName": "Schichtkalender",
       "trackViewUrl": "https://apps.apple.com/de/app/schichtkalender/id410821142?uo=4",
       "contentAdvisoryRating": "4+",
-      "minimumOsVersion": "12.0",
       "averageUserRating": 3.54745,
-      "artistId": 396118919,
-      "artistName": "Alex Gugel",
-      "genres": [
-        "Dienst­programme",
-        "Produktivität"
-      ],
-      "price": 1.99,
-      "trackId": 410821142,
-      "trackName": "Schichtkalender",
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
-      "genreIds": [
-        "6002",
-        "6007"
-      ],
-      "sellerName": "Alex Gugel",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseDate": "2010-12-21T23:33:29Z",
-      "currentVersionReleaseDate": "2020-11-16T23:08:53Z",
-      "releaseNotes": "updates for iOS 14.2",
-      "version": "2.2",
-      "wrapperType": "software",
-      "currency": "EUR",
-      "description": "Dein Schichtplan fürs Jahr.\nDie App funktioniert mit beliebig vielen Schichten.\nNach Eingabe der Schichtfolge und eines Start-Datums zeigt die App für jeden Tag im Jahr die Schichtbelegung an.\nZusätzlich kann man einzelne Tage ändern und Notizen hinzufügen. Feiertage und Schulferien werden für viele Länder automatisch gekennzeichnet.",
       "averageUserRatingForCurrentVersion": 3.54745,
-      "bundleId": "de.icoat.schichtkalender",
+      "minimumOsVersion": "12.0",
       "sellerUrl": "http://icoat.de/schichtkalender/about.html",
       "languageCodesISO2A": [
         "AR",
@@ -237,6 +212,31 @@
       "formattedPrice": "1,99 €",
       "userRatingCountForCurrentVersion": 137,
       "trackContentRating": "4+",
+      "artistId": 396118919,
+      "artistName": "Alex Gugel",
+      "genres": [
+        "Dienst­programme",
+        "Produktivität"
+      ],
+      "releaseDate": "2010-12-21T23:33:29Z",
+      "genreIds": [
+        "6002",
+        "6007"
+      ],
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
+      "trackName": "Schichtkalender",
+      "trackId": 410821142,
+      "sellerName": "Alex Gugel",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2020-11-16T23:08:53Z",
+      "releaseNotes": "updates for iOS 14.2",
+      "version": "2.2",
+      "wrapperType": "software",
+      "currency": "EUR",
+      "description": "Dein Schichtplan fürs Jahr.\nDie App funktioniert mit beliebig vielen Schichten.\nNach Eingabe der Schichtfolge und eines Start-Datums zeigt die App für jeden Tag im Jahr die Schichtbelegung an.\nZusätzlich kann man einzelne Tage ändern und Notizen hinzufügen. Feiertage und Schulferien werden für viele Länder automatisch gekennzeichnet.",
+      "bundleId": "de.icoat.schichtkalender",
+      "price": 1.99,
       "userRatingCount": 137,
       "country": "DEU"
     }

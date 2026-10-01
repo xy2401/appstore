@@ -227,6 +227,9 @@
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/f1/9d/0ff19d10-e590-ef5e-b16f-804ab008d1bd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -361,27 +364,12 @@
       ],
       "advisories": [],
       "kind": "software",
-      "features": [
-        "iosUniversal"
-      ],
-      "releaseNotes": "New\n\n- Introduced a new Rewrite syntax with compound conditions, variable references, and multiple actions, while maintaining compatibility with existing configurations.\n- Introduced a new Script syntax with richer matching conditions, plugin parameter references, and typed arguments.\n- Added visual editors for Rewrite and Script, with condition configuration, syntax validation, and previews.\n- Added scripting APIs for Gzip compression, AES encryption and decryption, and DNS queries.\n- Added section navigation to the configuration editor for quick access to configuration sections.\n- Added support for secondary Host mapping lookups.\n- Added support for iOS 27.\n\nFixes\n\n- Fixed issues affecting network connections, DNS resolution, and rule matching.\n- Fixed issues with script execution and plugin parameter handling.\n- Fixed issues with saving and exporting captured traffic.\n- Fixed issues with VPN quick controls and interface display.\n- Fixed several potential crashes to improve stability.\n\nImprovements\n\n- Improved Rewrite matching and execution efficiency while reducing memory usage.\n- Improved DNS queries and network connection handling.\n- Improved resource update status displays with clearer progress and error messages.\n- Refined fonts, syntax highlighting, and layout in the configuration editor.\n- Improved configuration imports, iCloud syncing, and captured image browsing.\n\nSystem Requirements\n\n- Requires iOS 15 or later.",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 3.9438,
       "trackCensoredName": "Loon",
       "trackViewUrl": "https://apps.apple.com/us/app/loon/id1373567447?uo=4",
-      "averageUserRatingForCurrentVersion": 3.9438,
-      "genres": [
-        "Utilities",
-        "Developer Tools"
-      ],
-      "artistId": 1631584654,
-      "artistName": "Loon Lab Limited",
-      "price": 7.99,
-      "bundleId": "com.ruikq.decar",
-      "genreIds": [
-        "6002",
-        "6026"
-      ],
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 3.95367,
+      "minimumOsVersion": "15.0",
+      "averageUserRatingForCurrentVersion": 3.95367,
       "sellerUrl": "https://nsloon.app",
       "languageCodesISO2A": [
         "EN",
@@ -391,26 +379,37 @@
       ],
       "fileSizeBytes": "68295680",
       "formattedPrice": "$7.99",
-      "userRatingCountForCurrentVersion": 516,
+      "userRatingCountForCurrentVersion": 518,
       "trackContentRating": "4+",
+      "price": 7.99,
+      "artistId": 1631584654,
+      "artistName": "Loon Lab Limited",
+      "genres": [
+        "Utilities",
+        "Developer Tools"
+      ],
       "releaseDate": "2018-05-09T23:02:09Z",
-      "sellerName": "Loon Lab Limited",
+      "releaseNotes": "New\n\n- Introduced a new Rewrite syntax with compound conditions, variable references, and multiple actions, while maintaining compatibility with existing configurations.\n- Introduced a new Script syntax with richer matching conditions, plugin parameter references, and typed arguments.\n- Added visual editors for Rewrite and Script, with condition configuration, syntax validation, and previews.\n- Added scripting APIs for Gzip compression, AES encryption and decryption, and DNS queries.\n- Added section navigation to the configuration editor for quick access to configuration sections.\n- Added support for secondary Host mapping lookups.\n- Added support for iOS 27.\n\nFixes\n\n- Fixed issues affecting network connections, DNS resolution, and rule matching.\n- Fixed issues with script execution and plugin parameter handling.\n- Fixed issues with saving and exporting captured traffic.\n- Fixed issues with VPN quick controls and interface display.\n- Fixed several potential crashes to improve stability.\n\nImprovements\n\n- Improved Rewrite matching and execution efficiency while reducing memory usage.\n- Improved DNS queries and network connection handling.\n- Improved resource update status displays with clearer progress and error messages.\n- Refined fonts, syntax highlighting, and layout in the configuration editor.\n- Improved configuration imports, iCloud syncing, and captured image browsing.\n\nSystem Requirements\n\n- Requires iOS 15 or later.",
+      "currentVersionReleaseDate": "2026-09-22T14:00:56Z",
+      "trackId": 1373567447,
+      "trackName": "Loon",
+      "genreIds": [
+        "6002",
+        "6026"
+      ],
       "primaryGenreName": "Utilities",
       "primaryGenreId": 6002,
-      "trackName": "Loon",
-      "trackId": 1373567447,
+      "sellerName": "Loon Lab Limited",
       "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-09-22T14:00:56Z",
       "version": "3.5.1",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Loon is not just another network tool—it's a powerhouse for debugging and optimizing your network connections. With Loon, you're in command, equipped with an array of features to streamline your network troubleshooting experience. Here's what sets Loon apart:\n\nProtocol Support: Loon supports a wide range of protocols including ss, ssr, vmess, trojan, vless, HTTP/S, SOCKS5, hysteria2,Shadow-TLS, and WireGuard. No matter your preferred protocol, Loon has you covered.\n\nComprehensive Traffic Capture: Capture all HTTP, HTTPS, TCP, and UDP traffic on your device effortlessly and redirect it to your proxy server for thorough analysis and debugging.\n\nDetailed Record-Keeping: Gain insights into your network activity with Loon's ability to record HTTP and HTTPS request and response headers and bodies. With this level of detail, troubleshooting becomes a breeze.\n\nMITM Capabilities: Loon offers Man-in-the-Middle (MITM) functionality over HTTP2 connections, allowing you to intercept and analyze encrypted traffic for deeper debugging insights.\n\nAdvanced Routing Options: Take control of your network traffic with Loon's powerful router, which can be configured based on domain, URL, IP, Protocol, Port, and HTTP headers. This granular control ensures that your traffic flows exactly where you need it to go.\n\nRobust Ad-blocking: Loon's ad-blocking capabilities are second to none. Develop custom rules, rewriting, and scripting to effectively block unwanted ads and streamline your browsing experience.\n\nTraffic Usage Monitoring: Stay informed about your data usage with Loon's built-in traffic measurement tools, giving you valuable insights into your network activity.\n\nCutting-edge DNS Features: Loon boasts full IPv6 support, asynchronous DNS requests, and the ability to query DNS over HTTPS, QUIC, and HTTP3. Record DNS results and ensure a seamless DNS resolution experience.\n\nExtendable Functionality: Unlock limitless possibilities with Loon's support for using JavaScripts to extend proxy functionality. Customize and tailor Loon to meet your specific needs and preferences.\n\nExperience the next level of network debugging with Loon. Download now and take control of your network connections like never before.\n\nFor more about proxy:\nhttps://nsloon.app/docs/intro\n\nJoin our telegram group:\nhttps://t.me/Loon0x00\n\nContact us\nloon0x00@gmail.com",
-      "minimumOsVersion": "15.0",
-      "userRatingCount": 516,
+      "bundleId": "com.ruikq.decar",
+      "userRatingCount": 518,
       "country": "USA"
     },
     {
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/f1/9d/0ff19d10-e590-ef5e-b16f-804ab008d1bd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/38/75/f1/3875f125-9105-2579-fc36-4293da9601c1/d94d54c6-bab2-43c6-b9f3-35f29cc5be7a_IMG_0008.PNG/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/d6/fe/be/d6febe4b-e4f2-e16f-f4b6-e0934a463359/31c8f5c4-dd46-4ee4-876e-e50ed54eca58_IMG_0009.PNG/392x696bb.png",
@@ -429,7 +428,11 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/d7/b2/4e/d7b24e51-f61e-69b9-332a-8278ab7ec8e8/35be4b5e-0050-457d-aec7-005379f30021_IMG_0007.PNG/552x414bb.png"
       ],
       "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/f1/9d/0ff19d10-e590-ef5e-b16f-804ab008d1bd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -562,15 +565,11 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "advisories": [],
       "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/jp/developer/loon-lab-limited/id1631584654?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/f1/9d/0ff19d10-e590-ef5e-b16f-804ab008d1bd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/f1/9d/0ff19d10-e590-ef5e-b16f-804ab008d1bd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/jp/developer/loon-lab-limited/id1631584654?uo=4",
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [],
-      "minimumOsVersion": "15.0",
       "averageUserRatingForCurrentVersion": 3.81481,
       "sellerUrl": "https://nsloon.app",
       "languageCodesISO2A": [
@@ -583,35 +582,36 @@
       "formattedPrice": "¥1,300",
       "userRatingCountForCurrentVersion": 27,
       "trackContentRating": "4+",
-      "genres": [
-        "ユーティリティ",
-        "開発ツール"
-      ],
-      "artistId": 1631584654,
-      "artistName": "Loon Lab Limited",
-      "price": 1300,
+      "bundleId": "com.ruikq.decar",
+      "releaseNotes": "New\n\n- Introduced a new Rewrite syntax with compound conditions, variable references, and multiple actions, while maintaining compatibility with existing configurations.\n- Introduced a new Script syntax with richer matching conditions, plugin parameter references, and typed arguments.\n- Added visual editors for Rewrite and Script, with condition configuration, syntax validation, and previews.\n- Added scripting APIs for Gzip compression, AES encryption and decryption, and DNS queries.\n- Added section navigation to the configuration editor for quick access to configuration sections.\n- Added support for secondary Host mapping lookups.\n- Added support for iOS 27.\n\nFixes\n\n- Fixed issues affecting network connections, DNS resolution, and rule matching.\n- Fixed issues with script execution and plugin parameter handling.\n- Fixed issues with saving and exporting captured traffic.\n- Fixed issues with VPN quick controls and interface display.\n- Fixed several potential crashes to improve stability.\n\nImprovements\n\n- Improved Rewrite matching and execution efficiency while reducing memory usage.\n- Improved DNS queries and network connection handling.\n- Improved resource update status displays with clearer progress and error messages.\n- Refined fonts, syntax highlighting, and layout in the configuration editor.\n- Improved configuration imports, iCloud syncing, and captured image browsing.\n\nSystem Requirements\n\n- Requires iOS 15 or later.",
       "trackId": 1373567447,
       "trackName": "Loon",
-      "sellerName": "Loon Lab Limited",
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseDate": "2018-05-09T23:02:09Z",
-      "currentVersionReleaseDate": "2026-09-22T14:00:56Z",
-      "releaseNotes": "New\n\n- Introduced a new Rewrite syntax with compound conditions, variable references, and multiple actions, while maintaining compatibility with existing configurations.\n- Introduced a new Script syntax with richer matching conditions, plugin parameter references, and typed arguments.\n- Added visual editors for Rewrite and Script, with condition configuration, syntax validation, and previews.\n- Added scripting APIs for Gzip compression, AES encryption and decryption, and DNS queries.\n- Added section navigation to the configuration editor for quick access to configuration sections.\n- Added support for secondary Host mapping lookups.\n- Added support for iOS 27.\n\nFixes\n\n- Fixed issues affecting network connections, DNS resolution, and rule matching.\n- Fixed issues with script execution and plugin parameter handling.\n- Fixed issues with saving and exporting captured traffic.\n- Fixed issues with VPN quick controls and interface display.\n- Fixed several potential crashes to improve stability.\n\nImprovements\n\n- Improved Rewrite matching and execution efficiency while reducing memory usage.\n- Improved DNS queries and network connection handling.\n- Improved resource update status displays with clearer progress and error messages.\n- Refined fonts, syntax highlighting, and layout in the configuration editor.\n- Improved configuration imports, iCloud syncing, and captured image browsing.\n\nSystem Requirements\n\n- Requires iOS 15 or later.",
-      "version": "3.5.1",
-      "wrapperType": "software",
-      "currency": "JPY",
-      "description": "Loon is not just another network tool—it's a powerhouse for debugging and optimizing your network connections. With Loon, you're in command, equipped with an array of features to streamline your network troubleshooting experience. Here's what sets Loon apart:\n\nProtocol Support: Loon supports a wide range of protocols including ss, ssr, vmess, trojan, vless, HTTP/S, SOCKS5, hysteria2,Shadow-TLS, and WireGuard. No matter your preferred protocol, Loon has you covered.\n\nComprehensive Traffic Capture: Capture all HTTP, HTTPS, TCP, and UDP traffic on your device effortlessly and redirect it to your proxy server for thorough analysis and debugging.\n\nDetailed Record-Keeping: Gain insights into your network activity with Loon's ability to record HTTP and HTTPS request and response headers and bodies. With this level of detail, troubleshooting becomes a breeze.\n\nMITM Capabilities: Loon offers Man-in-the-Middle (MITM) functionality over HTTP2 connections, allowing you to intercept and analyze encrypted traffic for deeper debugging insights.\n\nAdvanced Routing Options: Take control of your network traffic with Loon's powerful router, which can be configured based on domain, URL, IP, Protocol, Port, and HTTP headers. This granular control ensures that your traffic flows exactly where you need it to go.\n\nRobust Ad-blocking: Loon's ad-blocking capabilities are second to none. Develop custom rules, rewriting, and scripting to effectively block unwanted ads and streamline your browsing experience.\n\nTraffic Usage Monitoring: Stay informed about your data usage with Loon's built-in traffic measurement tools, giving you valuable insights into your network activity.\n\nCutting-edge DNS Features: Loon boasts full IPv6 support, asynchronous DNS requests, and the ability to query DNS over HTTPS, QUIC, and HTTP3. Record DNS results and ensure a seamless DNS resolution experience.\n\nExtendable Functionality: Unlock limitless possibilities with Loon's support for using JavaScripts to extend proxy functionality. Customize and tailor Loon to meet your specific needs and preferences.\n\nExperience the next level of network debugging with Loon. Download now and take control of your network connections like never before.\n\nFor more about proxy:\nhttps://nsloon.app/docs/intro\n\nJoin our telegram group:\nhttps://t.me/Loon0x00\n\nContact us\nloon0x00@gmail.com",
-      "averageUserRating": 3.81481,
-      "trackViewUrl": "https://apps.apple.com/jp/app/loon/id1373567447?uo=4",
-      "contentAdvisoryRating": "4+",
-      "trackCensoredName": "Loon",
-      "bundleId": "com.ruikq.decar",
       "genreIds": [
         "6002",
         "6026"
       ],
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
+      "sellerName": "Loon Lab Limited",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-09-22T14:00:56Z",
+      "version": "3.5.1",
+      "wrapperType": "software",
+      "currency": "JPY",
+      "description": "Loon is not just another network tool—it's a powerhouse for debugging and optimizing your network connections. With Loon, you're in command, equipped with an array of features to streamline your network troubleshooting experience. Here's what sets Loon apart:\n\nProtocol Support: Loon supports a wide range of protocols including ss, ssr, vmess, trojan, vless, HTTP/S, SOCKS5, hysteria2,Shadow-TLS, and WireGuard. No matter your preferred protocol, Loon has you covered.\n\nComprehensive Traffic Capture: Capture all HTTP, HTTPS, TCP, and UDP traffic on your device effortlessly and redirect it to your proxy server for thorough analysis and debugging.\n\nDetailed Record-Keeping: Gain insights into your network activity with Loon's ability to record HTTP and HTTPS request and response headers and bodies. With this level of detail, troubleshooting becomes a breeze.\n\nMITM Capabilities: Loon offers Man-in-the-Middle (MITM) functionality over HTTP2 connections, allowing you to intercept and analyze encrypted traffic for deeper debugging insights.\n\nAdvanced Routing Options: Take control of your network traffic with Loon's powerful router, which can be configured based on domain, URL, IP, Protocol, Port, and HTTP headers. This granular control ensures that your traffic flows exactly where you need it to go.\n\nRobust Ad-blocking: Loon's ad-blocking capabilities are second to none. Develop custom rules, rewriting, and scripting to effectively block unwanted ads and streamline your browsing experience.\n\nTraffic Usage Monitoring: Stay informed about your data usage with Loon's built-in traffic measurement tools, giving you valuable insights into your network activity.\n\nCutting-edge DNS Features: Loon boasts full IPv6 support, asynchronous DNS requests, and the ability to query DNS over HTTPS, QUIC, and HTTP3. Record DNS results and ensure a seamless DNS resolution experience.\n\nExtendable Functionality: Unlock limitless possibilities with Loon's support for using JavaScripts to extend proxy functionality. Customize and tailor Loon to meet your specific needs and preferences.\n\nExperience the next level of network debugging with Loon. Download now and take control of your network connections like never before.\n\nFor more about proxy:\nhttps://nsloon.app/docs/intro\n\nJoin our telegram group:\nhttps://t.me/Loon0x00\n\nContact us\nloon0x00@gmail.com",
+      "minimumOsVersion": "15.0",
+      "averageUserRating": 3.81481,
+      "trackCensoredName": "Loon",
+      "trackViewUrl": "https://apps.apple.com/jp/app/loon/id1373567447?uo=4",
+      "contentAdvisoryRating": "4+",
+      "releaseDate": "2018-05-09T23:02:09Z",
+      "artistId": 1631584654,
+      "artistName": "Loon Lab Limited",
+      "genres": [
+        "ユーティリティ",
+        "開発ツール"
+      ],
+      "price": 1300,
       "userRatingCount": 27,
       "country": "JPN"
     }

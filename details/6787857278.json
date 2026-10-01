@@ -2,9 +2,6 @@
   "resultCount": 1,
   "results": [
     {
-      "artistViewUrl": "https://apps.apple.com/cn/developer/%E9%81%93%E5%8D%9A-%E6%9D%A8/id6787855373?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/65/d4/5b65d4d7-d8ba-3328-bb13-28ec96ca5764/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/65/d4/5b65d4d7-d8ba-3328-bb13-28ec96ca5764/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bb/15/49/bb15495d-a966-21c2-3207-186f95fcf0a2/Mini-HBUT_AppStore_1_1242x2688.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/13/9c/5e/139c5e44-52bb-ff2c-dda2-e87ed8028d05/Mini-HBUT_AppStore_2_1242x2688.png/320x480bb.jpg",
@@ -20,11 +17,11 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a7/38/16/a7381690-27e0-3d5e-40fd-4e6d176058d2/ipad13_5_2048x2732.png/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/65/d4/5b65d4d7-d8ba-3328-bb13-28ec96ca5764/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/65/d4/5b65d4d7-d8ba-3328-bb13-28ec96ca5764/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/65/d4/5b65d4d7-d8ba-3328-bb13-28ec96ca5764/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/cn/developer/%E9%81%93%E5%8D%9A-%E6%9D%A8/id6787855373?uo=4",
       "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -157,47 +154,50 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "kind": "software",
       "advisories": [],
+      "kind": "software",
+      "features": [
+        "iosUniversal"
+      ],
       "trackCensoredName": "Mini-HBUT",
-      "trackViewUrl": "https://apps.apple.com/cn/app/mini-hbut/id6787857278?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 5,
-      "minimumOsVersion": "15.0",
-      "averageUserRatingForCurrentVersion": 5,
       "languageCodesISO2A": [
         "EN"
       ],
       "fileSizeBytes": "80436224",
       "formattedPrice": "¥1.00",
+      "contentAdvisoryRating": "4+",
       "userRatingCountForCurrentVersion": 7,
+      "trackViewUrl": "https://apps.apple.com/cn/app/mini-hbut/id6787857278?uo=4",
       "trackContentRating": "4+",
+      "averageUserRatingForCurrentVersion": 5,
       "sellerUrl": "https://hbut.6661111.xyz",
-      "releaseNotes": "Mini-HBUT v1.4.11 更新说明\n\n发布日期：2026-09-23\n\n版本概览\n\n相对 v1.4.10，本版本重点完成了课表向“时间画布”升级、个人日程完整闭环、课程管理增强、研究生学号兼容、日语界面支持，以及 Android / iOS / Windows 多项稳定性修复。\n\n本版本主要完成：\n\n1、课表进化为时间画布：课程与个人日程统一进入同一时间轴，支持添加、编辑、删除、冲突提示、提醒、ICS 导出与真实时间布局\n\n2、课表视图与添加交互升级：新增「全部 / 课表 / 日程」三态筛选，空白区域改为“两段式选择，再确认添加”，减少误触\n\n3、个人日程纳入外围体验：首页「今日安排」、云同步、JSON / 长图 / ICS 导出均支持个人日程\n\n4、课程管理增强：教务导入课程支持隐藏、恢复，并可选择「仅移除本周」或「移除整学期」\n\n5、账号兼容增强：研究生 9 位学号与本科生 10 位学号统一兼容登录、缓存、路由、云同步与统计链路\n\n6、新增日语界面：在简体中文、English 基础上新增日本語\n\n7、稳定性与平台体验修复：修复 iOS 长后台恢复、导出中心白屏、课表空白选择偏移、Windows 关闭键行为、Android 小游戏 404 容灾等问题\n\n8、Android 启动闪退止血：针对 beta.504–507 的主页面启动闪退，1.4.11 暂时熔断 Tauri Android Widget 原生桥，以稳定启动为优先\n\n9、发布前依赖安全升级：Vitest 工具链升级至 4.1.11，修复 GHSA-82fw-gwwq-j7x9；同时将 rustls 升级至 0.23.45，修复 RUSTSEC-2026-0285\n\n课表与个人日程\n\n时间画布与个人日程闭环（Epic #833）\n\n课表页面不再只表达“第几节上什么课”，而是升级为能够同时容纳课程和真实时间日程的时间画布。\n\n1、新增独立的个人日程数据模型与本地持久化，不与自定义课程混用\n\n2、课程和日程统一映射到同一时间轴，日程可跨越课表虚线，不受固定节次限制\n\n3、支持个人日程新增、详情、编辑、删除与冲突提示\n\n4、冲突判断统一复用同一套时间区间算法，避免详情、编辑器和课表布局各自实现\n\n5、本地提醒与课程 / 考试提醒共用同一调度与配额体系\n\n6、ICS 导出同时包含课程和个人日程\n\n7、超出可视时间范围的日程使用 edge indicator 表达；部分超出范围时仍保留可见部分\n\n8、针对快速切周、切账号和退出登录补强 stale response 防护\n\n三态筛选\n\n课表工具新增视图显示模式：\n\n1、全部：同时显示课程与个人日程\n\n2、课表：只显示课程\n\n3、日程：只显示个人日程\n\n筛选发生在布局输入层，而不是简单 CSS 隐藏，所以被过滤的内容不会继续占用 lane / overlap 布局空间。用户选择会本地持久化。\n\n空白区域两段式添加\n\n空白课表区域的添加交互改为：第一次点击，选中虚线时间块；第二次确认，打开统一「添加安排」。\n\n1、点击其它空白位置只移动选区，不立即打开弹窗\n\n2、Course 与 Event 各自保留预填草稿\n\n3、双节课程按 1–2、3–4、5–6、7–8、9–10 自动吸附\n\n4、在「日程」视图下默认创建 Event，在「全部 / 课表」视图下默认创建 Course\n\n5、修复 5–6 节等位置待选框与真实课表行存在偏移的问题，并统一上下边界\n\n个人日程同步到首页、云端与导出\n\n1、首页「今日安排」现在会把个人日程与课程统一按时间排序\n\n2、个人日程进入手动与自动云同步\n\n3、云端旧数据如果没有 events 字段，会保留本地个人日程，不误清空\n\n4、JSON / 长图导出纳入个人日程\n\n5、周 / 学期 ICS 继续同时导出课程与日程\n\n6、账号切换后的旧请求不会覆盖当前账号数据\n\n教务课程隐藏 / 恢复 / 按周移除\n\n课程管理页进一步区分教务课程和自添加课程：\n\n1、支持将教务导入课程标记为隐藏\n\n2、支持恢复此前隐藏的教务课程\n\n3、删除教务课程时可选择：仅移除本周，或移除整学期\n\n4、仍保留原始教务数据，避免因为本地管理操作破坏后续刷新能力\n\n国际化与账号兼容\n\n新增日本語\n\nMini-HBUT 现支持：\n\n1、简体中文\n\n2、English\n\n3、日本語\n\n本轮课表 / 日程新增文案同步覆盖三种语言。\n\n研究生 9 位学号兼容\n\n此前多个链路硬编码为 10 位学号，导致研究生账号无法完整登录或恢复。\n\n1.4.11 将学号基础契约统一为：\n\n1、研究生：9 位纯数字\n\n2、本科生：10 位纯数字\n\n并同步覆盖：\n\n1、登录与学习通自动登录\n\n2、remembered username\n\n3、Session 恢复\n\n4、Hash 路由\n\n5、云同步\n\n6、使用统计\n\n7、学号脱敏显示\n\n稳定性与体验修复\n\niOS 长后台恢复\n\n针对 App 在后台停留较长时间后回前台可能卡死或不可交互的问题，本版本补强：\n\n1、原生 window focus 信号辅助 WebView lifecycle\n\n2、长 idle 后对当前页面进行 soft remount\n\n3、清理可能残留的 home-scroll-restoring 交互锁\n\n4、增加恢复路径健康检查与调试 breadcrumb\n\n同时修复：\n\n1、导出中心首次进入可能因 computed ref 使用错误而白屏\n\n2、「我的 - 开源说明」错误显示字面 strong 标签\n\n3、iOS 日程日期 / 时间输入框横向溢出\n\nWindows 关闭按钮\n\nWindows 桌面端右上角关闭按钮恢复为真正的一键退出，不再误走“返回”或要求二次确认。\n\nAndroid 小游戏 404 容灾\n\n针对 Android「更多 - 小游戏」出现 404 / Not Found 的问题：\n\n1、主 CDN 失效时可自动刷新 manifest\n\n2、针对旧缓存与版本目录裁剪做容灾\n\n3、必要时切换备用来源\n\n4、避免直接把 404 页面暴露给用户\n\nAndroid 启动闪退与 Widget 已知限制\n\n在 1.4.11 测试周期中，Android beta.504–507 出现了“主页面显示后立即闪退”的严重回归。\n\n经过多轮真机 A/B：\n\n1、beta.507 已取消整学期 schedule_index 大快照，仍会闪退\n\n2、beta.508 将 Tauri Android 的 Widget JS 到 Rust/JNI 原生桥整体熔断后，实机确认不再闪退\n\n因此 1.4.11 采取稳定性优先策略：Tauri Android 的桌面 Widget 原生写入 / 刷新桥在本版本暂时停用。\n\n这意味着 Android 桌面 Widget 在 1.4.11 中可能继续显示旧快照或无法随着 App 课表 / 主题变化及时更新。Widget 的 Kotlin / Java / Manifest 基础代码仍保留，后续版本会在定位并重构 native bridge 后恢复同步能力。\n\n同时保留了此前为 Widget 增加的 XML 写入串行化与唯一临时文件机制，以避免后续恢复时再次出现并发 read-modify-write 竞态。\n\n工程与发布流程\n\n发布前依赖安全升级\n\n1、vitest / @vitest/coverage-v8 升级至 4.1.11\n\n2、修复 @vitest/mocker 的 GHSA-82fw-gwwq-j7x9 路径穿越 / 任意文件读取公告\n\n3、发布门禁重新验证客户端与官网依赖，npm audit 均为 0 漏洞\n\n4、rustls 从 0.23.36 升级至 0.23.45，并同步更新 rustls-webpki 至 0.103.15\n\n5、修复 RUSTSEC-2026-0285（TLS 1.3 handshake messages incorrectly accepted across encryption level boundaries）\n\nTestFlight / Dev 构建版本\n\n1、修复 TestFlight 版本自动选择逻辑\n\n2、统一 Dev Build 各平台 beta 编号\n\n3、TestFlight build number 继续由 App Store Connect 实际状态决定，避免历史超大 build number 干扰\n\nQQ 官方机器人发布通知\n\n正式 Release 的网站部署成功后，现在可自动：\n\n1、读取当前正式 Release\n\n2、渲染 Release Notes 截图\n\n3、发送版本公告\n\n4、发送 Android APK\n\n5、发送 Windows NSIS 安装包\n\n通知被安排在 deploy-website 成功之后，避免出现“网站尚未部署完成但群里已提前推送”的竞态。",
+      "averageUserRating": 5,
+      "artistId": 6787855373,
+      "artistName": "道博 杨",
       "genres": [
         "教育",
         "效率"
       ],
-      "artistId": 6787855373,
-      "artistName": "道博 杨",
-      "bundleId": "com.hbut.mini",
-      "releaseDate": "2026-07-22T07:00:00Z",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "trackId": 6787857278,
-      "trackName": "Mini-HBUT",
-      "currentVersionReleaseDate": "2026-09-23T18:32:38Z",
-      "version": "1.4.11",
-      "wrapperType": "software",
-      "currency": "CNY",
-      "description": "Mini-HBUT 是独立开发、社区维护的开源学生工具，帮助你更方便地查看校园学习相关信息。\n\n【重要说明】\n本应用不是任何学校或教育机构的官方系统、官方网站或官方客户端，不由任何学校开发、运营、赞助或背书。产品名称与 Bundle ID 仅为历史技术标识，不代表机构背书。\n\n【主要功能】\n• 今日课表与周课表浏览\n• 成绩与绩点信息查看\n• 考试安排\n• 空教室查询\n• 学业进度、培养方案与校历\n• 图书馆与校园地图（兴趣点浏览）\n• 通知与数据导出\n• 设置、隐私与数据说明\n\n【审核演示账号】\n用户名：reviewer\n密码：Test2026\n登录后进入演示模式，使用本地虚构数据，不连接真实校园业务系统。\n\n【支持与隐私】\n官网与文档：https://hbut.6661111.xyz\n隐私政策：https://hbut.6661111.xyz/privacy\n开源仓库：https://github.com/superdaobo/mini-hbut\n\n免费核心能力 + 可选一次性购买（若已配置）。持续改进中，欢迎反馈。",
-      "price": 1,
-      "primaryGenreName": "Education",
-      "primaryGenreId": 6017,
-      "sellerName": "道博 杨",
       "genreIds": [
         "6017",
         "6007"
       ],
+      "primaryGenreName": "Education",
+      "primaryGenreId": 6017,
+      "releaseDate": "2026-07-22T07:00:00Z",
+      "sellerName": "道博 杨",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "trackId": 6787857278,
+      "trackName": "Mini-HBUT",
+      "currentVersionReleaseDate": "2026-09-23T18:32:38Z",
+      "releaseNotes": "Mini-HBUT v1.4.11 更新说明\n\n发布日期：2026-09-23\n\n版本概览\n\n相对 v1.4.10，本版本重点完成了课表向“时间画布”升级、个人日程完整闭环、课程管理增强、研究生学号兼容、日语界面支持，以及 Android / iOS / Windows 多项稳定性修复。\n\n本版本主要完成：\n\n1、课表进化为时间画布：课程与个人日程统一进入同一时间轴，支持添加、编辑、删除、冲突提示、提醒、ICS 导出与真实时间布局\n\n2、课表视图与添加交互升级：新增「全部 / 课表 / 日程」三态筛选，空白区域改为“两段式选择，再确认添加”，减少误触\n\n3、个人日程纳入外围体验：首页「今日安排」、云同步、JSON / 长图 / ICS 导出均支持个人日程\n\n4、课程管理增强：教务导入课程支持隐藏、恢复，并可选择「仅移除本周」或「移除整学期」\n\n5、账号兼容增强：研究生 9 位学号与本科生 10 位学号统一兼容登录、缓存、路由、云同步与统计链路\n\n6、新增日语界面：在简体中文、English 基础上新增日本語\n\n7、稳定性与平台体验修复：修复 iOS 长后台恢复、导出中心白屏、课表空白选择偏移、Windows 关闭键行为、Android 小游戏 404 容灾等问题\n\n8、Android 启动闪退止血：针对 beta.504–507 的主页面启动闪退，1.4.11 暂时熔断 Tauri Android Widget 原生桥，以稳定启动为优先\n\n9、发布前依赖安全升级：Vitest 工具链升级至 4.1.11，修复 GHSA-82fw-gwwq-j7x9；同时将 rustls 升级至 0.23.45，修复 RUSTSEC-2026-0285\n\n课表与个人日程\n\n时间画布与个人日程闭环（Epic #833）\n\n课表页面不再只表达“第几节上什么课”，而是升级为能够同时容纳课程和真实时间日程的时间画布。\n\n1、新增独立的个人日程数据模型与本地持久化，不与自定义课程混用\n\n2、课程和日程统一映射到同一时间轴，日程可跨越课表虚线，不受固定节次限制\n\n3、支持个人日程新增、详情、编辑、删除与冲突提示\n\n4、冲突判断统一复用同一套时间区间算法，避免详情、编辑器和课表布局各自实现\n\n5、本地提醒与课程 / 考试提醒共用同一调度与配额体系\n\n6、ICS 导出同时包含课程和个人日程\n\n7、超出可视时间范围的日程使用 edge indicator 表达；部分超出范围时仍保留可见部分\n\n8、针对快速切周、切账号和退出登录补强 stale response 防护\n\n三态筛选\n\n课表工具新增视图显示模式：\n\n1、全部：同时显示课程与个人日程\n\n2、课表：只显示课程\n\n3、日程：只显示个人日程\n\n筛选发生在布局输入层，而不是简单 CSS 隐藏，所以被过滤的内容不会继续占用 lane / overlap 布局空间。用户选择会本地持久化。\n\n空白区域两段式添加\n\n空白课表区域的添加交互改为：第一次点击，选中虚线时间块；第二次确认，打开统一「添加安排」。\n\n1、点击其它空白位置只移动选区，不立即打开弹窗\n\n2、Course 与 Event 各自保留预填草稿\n\n3、双节课程按 1–2、3–4、5–6、7–8、9–10 自动吸附\n\n4、在「日程」视图下默认创建 Event，在「全部 / 课表」视图下默认创建 Course\n\n5、修复 5–6 节等位置待选框与真实课表行存在偏移的问题，并统一上下边界\n\n个人日程同步到首页、云端与导出\n\n1、首页「今日安排」现在会把个人日程与课程统一按时间排序\n\n2、个人日程进入手动与自动云同步\n\n3、云端旧数据如果没有 events 字段，会保留本地个人日程，不误清空\n\n4、JSON / 长图导出纳入个人日程\n\n5、周 / 学期 ICS 继续同时导出课程与日程\n\n6、账号切换后的旧请求不会覆盖当前账号数据\n\n教务课程隐藏 / 恢复 / 按周移除\n\n课程管理页进一步区分教务课程和自添加课程：\n\n1、支持将教务导入课程标记为隐藏\n\n2、支持恢复此前隐藏的教务课程\n\n3、删除教务课程时可选择：仅移除本周，或移除整学期\n\n4、仍保留原始教务数据，避免因为本地管理操作破坏后续刷新能力\n\n国际化与账号兼容\n\n新增日本語\n\nMini-HBUT 现支持：\n\n1、简体中文\n\n2、English\n\n3、日本語\n\n本轮课表 / 日程新增文案同步覆盖三种语言。\n\n研究生 9 位学号兼容\n\n此前多个链路硬编码为 10 位学号，导致研究生账号无法完整登录或恢复。\n\n1.4.11 将学号基础契约统一为：\n\n1、研究生：9 位纯数字\n\n2、本科生：10 位纯数字\n\n并同步覆盖：\n\n1、登录与学习通自动登录\n\n2、remembered username\n\n3、Session 恢复\n\n4、Hash 路由\n\n5、云同步\n\n6、使用统计\n\n7、学号脱敏显示\n\n稳定性与体验修复\n\niOS 长后台恢复\n\n针对 App 在后台停留较长时间后回前台可能卡死或不可交互的问题，本版本补强：\n\n1、原生 window focus 信号辅助 WebView lifecycle\n\n2、长 idle 后对当前页面进行 soft remount\n\n3、清理可能残留的 home-scroll-restoring 交互锁\n\n4、增加恢复路径健康检查与调试 breadcrumb\n\n同时修复：\n\n1、导出中心首次进入可能因 computed ref 使用错误而白屏\n\n2、「我的 - 开源说明」错误显示字面 strong 标签\n\n3、iOS 日程日期 / 时间输入框横向溢出\n\nWindows 关闭按钮\n\nWindows 桌面端右上角关闭按钮恢复为真正的一键退出，不再误走“返回”或要求二次确认。\n\nAndroid 小游戏 404 容灾\n\n针对 Android「更多 - 小游戏」出现 404 / Not Found 的问题：\n\n1、主 CDN 失效时可自动刷新 manifest\n\n2、针对旧缓存与版本目录裁剪做容灾\n\n3、必要时切换备用来源\n\n4、避免直接把 404 页面暴露给用户\n\nAndroid 启动闪退与 Widget 已知限制\n\n在 1.4.11 测试周期中，Android beta.504–507 出现了“主页面显示后立即闪退”的严重回归。\n\n经过多轮真机 A/B：\n\n1、beta.507 已取消整学期 schedule_index 大快照，仍会闪退\n\n2、beta.508 将 Tauri Android 的 Widget JS 到 Rust/JNI 原生桥整体熔断后，实机确认不再闪退\n\n因此 1.4.11 采取稳定性优先策略：Tauri Android 的桌面 Widget 原生写入 / 刷新桥在本版本暂时停用。\n\n这意味着 Android 桌面 Widget 在 1.4.11 中可能继续显示旧快照或无法随着 App 课表 / 主题变化及时更新。Widget 的 Kotlin / Java / Manifest 基础代码仍保留，后续版本会在定位并重构 native bridge 后恢复同步能力。\n\n同时保留了此前为 Widget 增加的 XML 写入串行化与唯一临时文件机制，以避免后续恢复时再次出现并发 read-modify-write 竞态。\n\n工程与发布流程\n\n发布前依赖安全升级\n\n1、vitest / @vitest/coverage-v8 升级至 4.1.11\n\n2、修复 @vitest/mocker 的 GHSA-82fw-gwwq-j7x9 路径穿越 / 任意文件读取公告\n\n3、发布门禁重新验证客户端与官网依赖，npm audit 均为 0 漏洞\n\n4、rustls 从 0.23.36 升级至 0.23.45，并同步更新 rustls-webpki 至 0.103.15\n\n5、修复 RUSTSEC-2026-0285（TLS 1.3 handshake messages incorrectly accepted across encryption level boundaries）\n\nTestFlight / Dev 构建版本\n\n1、修复 TestFlight 版本自动选择逻辑\n\n2、统一 Dev Build 各平台 beta 编号\n\n3、TestFlight build number 继续由 App Store Connect 实际状态决定，避免历史超大 build number 干扰\n\nQQ 官方机器人发布通知\n\n正式 Release 的网站部署成功后，现在可自动：\n\n1、读取当前正式 Release\n\n2、渲染 Release Notes 截图\n\n3、发送版本公告\n\n4、发送 Android APK\n\n5、发送 Windows NSIS 安装包\n\n通知被安排在 deploy-website 成功之后，避免出现“网站尚未部署完成但群里已提前推送”的竞态。",
+      "version": "1.4.11",
+      "wrapperType": "software",
+      "currency": "CNY",
+      "description": "Mini-HBUT 是独立开发、社区维护的开源学生工具，帮助你更方便地查看校园学习相关信息。\n\n【重要说明】\n本应用不是任何学校或教育机构的官方系统、官方网站或官方客户端，不由任何学校开发、运营、赞助或背书。产品名称与 Bundle ID 仅为历史技术标识，不代表机构背书。\n\n【主要功能】\n• 今日课表与周课表浏览\n• 成绩与绩点信息查看\n• 考试安排\n• 空教室查询\n• 学业进度、培养方案与校历\n• 图书馆与校园地图（兴趣点浏览）\n• 通知与数据导出\n• 设置、隐私与数据说明\n\n【审核演示账号】\n用户名：reviewer\n密码：Test2026\n登录后进入演示模式，使用本地虚构数据，不连接真实校园业务系统。\n\n【支持与隐私】\n官网与文档：https://hbut.6661111.xyz\n隐私政策：https://hbut.6661111.xyz/privacy\n开源仓库：https://github.com/superdaobo/mini-hbut\n\n免费核心能力 + 可选一次性购买（若已配置）。持续改进中，欢迎反馈。",
+      "bundleId": "com.hbut.mini",
+      "minimumOsVersion": "15.0",
+      "price": 1,
       "userRatingCount": 7,
       "country": "CHN"
     }

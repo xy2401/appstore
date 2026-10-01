@@ -232,10 +232,10 @@
       "userRatingCount": 123242
     },
     {
-      "artistViewUrl": "https://apps.apple.com/us/developer/microsoft-corporation/id298856275?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/ae/8f/76ae8f9a-675e-ae1c-62fb-0039412793f5/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.jpeg/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/ae/8f/76ae8f9a-675e-ae1c-62fb-0039412793f5/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.jpeg/100x100bb.jpg",
       "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -372,8 +372,12 @@
         "Unrestricted Web Access"
       ],
       "kind": "software",
-      "features": [
-        "iosUniversal"
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1e/26/11/1e26117a-92d8-4ccf-c077-e0a3120c1a6d/EN-US_iOS_1242-2208_01.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f4/97/f5/f497f5dd-faa1-8ec8-23c0-481227e560c0/EN-US_iOS_1242-2208_02.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1a/24/6a/1a246a23-2697-44a3-dec2-f78b58421d53/EN-US_iOS_1242-2208_04.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8e/00/69/8e00692d-3980-904c-580d-46472a997fc1/EN-US_iOS_1242-2208_05.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ec/f7/13/ecf71331-a6cd-ee39-407c-cfb3f5a881eb/EN-US_iOS_1242-2208_03.png/392x696bb.png"
       ],
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/38/11/bc/3811bc55-6d3d-df81-cb7c-19449a2babcd/EN-US_iOS_2048-2732_01.jpg/360x480bb.jpg",
@@ -384,43 +388,35 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/ae/8f/76ae8f9a-675e-ae1c-62fb-0039412793f5/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.jpeg/512x512bb.jpg",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1e/26/11/1e26117a-92d8-4ccf-c077-e0a3120c1a6d/EN-US_iOS_1242-2208_01.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f4/97/f5/f497f5dd-faa1-8ec8-23c0-481227e560c0/EN-US_iOS_1242-2208_02.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1a/24/6a/1a246a23-2697-44a3-dec2-f78b58421d53/EN-US_iOS_1242-2208_04.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8e/00/69/8e00692d-3980-904c-580d-46472a997fc1/EN-US_iOS_1242-2208_05.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ec/f7/13/ecf71331-a6cd-ee39-407c-cfb3f5a881eb/EN-US_iOS_1242-2208_03.png/392x696bb.png"
-      ],
-      "trackCensoredName": "MSN",
-      "trackViewUrl": "https://apps.apple.com/us/app/msn/id945416273?uo=4",
-      "contentAdvisoryRating": "17+",
-      "averageUserRating": 4.60508,
+      "artistViewUrl": "https://apps.apple.com/us/developer/microsoft-corporation/id298856275?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/ae/8f/76ae8f9a-675e-ae1c-62fb-0039412793f5/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/ae/8f/76ae8f9a-675e-ae1c-62fb-0039412793f5/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.jpeg/100x100bb.jpg",
+      "releaseNotes": "Microsoft Start is now MSN, same great experience and personalized content feed.",
       "artistId": 298856275,
       "artistName": "Microsoft Corporation",
       "genres": [
         "News"
       ],
       "price": 0,
+      "bundleId": "com.microsoft.axp-ios.BingNews",
       "genreIds": [
         "6009"
       ],
       "primaryGenreName": "News",
       "primaryGenreId": 6009,
-      "sellerName": "Microsoft Corporation",
-      "isVppDeviceBasedLicensingEnabled": true,
       "releaseDate": "2014-12-11T09:41:00Z",
       "trackId": 945416273,
       "trackName": "MSN",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "Microsoft Corporation",
       "currentVersionReleaseDate": "2026-09-25T14:58:51Z",
-      "releaseNotes": "Microsoft Start is now MSN, same great experience and personalized content feed.",
       "version": "34.2.440925003",
       "wrapperType": "software",
       "currency": "USD",
       "description": "The MSN app keeps you informed, productive, and entertained with tailored content, real-time weather, stock tracking, short videos and more.​\n\n​Key features​\n\nYour tailored feed, with you on the go.\nQuality content from thousands of trusted publishers.​\n\nWeather report​\nGet hourly and 10-day forecasts, air quality, UV index and more.​ \n\n​Financial news​ hub​\nSee the latest on the market, trends and your favorite stocks. ​\n\nYour personalized video feed​​\nScroll short clips of the latest news, trending stories and viral moments. ​",
-      "minimumOsVersion": "18.0",
-      "bundleId": "com.microsoft.axp-ios.BingNews",
-      "averageUserRatingForCurrentVersion": 4.60508,
       "sellerUrl": "https://microsoft.com/msn/mobile",
+      "minimumOsVersion": "18.0",
+      "averageUserRatingForCurrentVersion": 4.60501,
       "languageCodesISO2A": [
         "AR",
         "BN",
@@ -466,9 +462,13 @@
       ],
       "fileSizeBytes": "275234816",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 124013,
+      "userRatingCountForCurrentVersion": 124066,
       "trackContentRating": "17+",
-      "userRatingCount": 124013,
+      "trackCensoredName": "MSN",
+      "trackViewUrl": "https://apps.apple.com/us/app/msn/id945416273?uo=4",
+      "contentAdvisoryRating": "17+",
+      "averageUserRating": 4.60501,
+      "userRatingCount": 124066,
       "country": "USA"
     }
   ]

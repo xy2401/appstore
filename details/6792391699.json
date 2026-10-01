@@ -2,6 +2,15 @@
   "resultCount": 1,
   "results": [
     {
+      "artistViewUrl": "https://apps.apple.com/jp/developer/shikaka-inc/id1573251802?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/76/28/f97628ac-ec7a-16a9-3bf3-d95967d12f13/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/76/28/f97628ac-ec7a-16a9-3bf3-d95967d12f13/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/21/d7/08/21d70823-34da-f35a-608c-7aac52dc77c8/tone-appstore-1.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c4/fa/55/c4fa55e8-8ac3-26d0-0103-dcff28ed7889/tone-appstore-2.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/11/89/3d/11893df5-a22c-5832-0e8e-da464db4b44a/tone-appstore-3.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/55/35/99/5535996b-0c06-ac43-a48e-9a37e59cbf77/tone-appstore-4.png/320x480bb.jpg"
+      ],
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bf/d8/e3/bfd8e353-db65-0e8c-4ed4-7ec13c9669ad/tone-appstore-ipad-1.png/360x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/06/10/37/0610372c-b5b6-e9c3-9d2d-933af68a39c0/tone-appstore-ipad-2.png/360x480bb.jpg",
@@ -11,20 +20,10 @@
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/76/28/f97628ac-ec7a-16a9-3bf3-d95967d12f13/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "isGameCenterEnabled": false,
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/76/28/f97628ac-ec7a-16a9-3bf3-d95967d12f13/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/76/28/f97628ac-ec7a-16a9-3bf3-d95967d12f13/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/21/d7/08/21d70823-34da-f35a-608c-7aac52dc77c8/tone-appstore-1.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c4/fa/55/c4fa55e8-8ac3-26d0-0103-dcff28ed7889/tone-appstore-2.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/11/89/3d/11893df5-a22c-5832-0e8e-da464db4b44a/tone-appstore-3.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/55/35/99/5535996b-0c06-ac43-a48e-9a37e59cbf77/tone-appstore-4.png/320x480bb.jpg"
-      ],
-      "artistViewUrl": "https://apps.apple.com/jp/developer/shikaka-inc/id1573251802?uo=4",
       "features": [
         "iosUniversal"
       ],
       "advisories": [],
-      "kind": "software",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -157,10 +156,12 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "averageUserRatingForCurrentVersion": 4.65179,
+      "kind": "software",
+      "trackCensoredName": "tone - 紙に刷ったような写真加工",
       "trackViewUrl": "https://apps.apple.com/jp/app/tone-%E7%B4%99%E3%81%AB%E5%88%B7%E3%81%A3%E3%81%9F%E3%82%88%E3%81%86%E3%81%AA%E5%86%99%E7%9C%9F%E5%8A%A0%E5%B7%A5/id6792391699?uo=4",
       "contentAdvisoryRating": "4+",
       "averageUserRating": 4.65179,
+      "averageUserRatingForCurrentVersion": 4.65179,
       "languageCodesISO2A": [
         "EN",
         "JA",
@@ -172,33 +173,32 @@
       "formattedPrice": "無料",
       "userRatingCountForCurrentVersion": 112,
       "trackContentRating": "4+",
-      "trackCensoredName": "tone - 紙に刷ったような写真加工",
-      "artistId": 1573251802,
-      "artistName": "Shikaka, Inc.",
       "genres": [
         "グラフィック／デザイン",
         "写真／ビデオ"
       ],
-      "price": 0,
+      "primaryGenreName": "Graphics & Design",
+      "primaryGenreId": 6027,
       "bundleId": "com.yojihan.tone",
+      "releaseNotes": "tone 2.0では、写真・手描き・テキストを重ねて、ひとつの印刷作品を作れるようになりました。\n\n・画像、手描き、テキストを最大8つまで重ね、最大5つの版へ自由に割り当てられます\n・プレビュー上で移動、拡大縮小、回転、切り抜き、角丸、余白を直接編集できます\n・5段階の筆を備えた手描きと、10書体から選べるテキストを追加しました\n・作品全体をカスタムプリセットとして保存し、別の写真にも同じ構成を適用できます\n・ADVANCEDモード、印刷用書き出し、iPadのレイアウトを改善し、細かな不具合を修正しました",
       "genreIds": [
         "6027",
         "6008"
       ],
-      "isVppDeviceBasedLicensingEnabled": true,
-      "primaryGenreName": "Graphics & Design",
-      "primaryGenreId": 6027,
-      "sellerName": "Shikaka, Inc.",
-      "releaseNotes": "tone 2.0では、写真・手描き・テキストを重ねて、ひとつの印刷作品を作れるようになりました。\n\n・画像、手描き、テキストを最大8つまで重ね、最大5つの版へ自由に割り当てられます\n・プレビュー上で移動、拡大縮小、回転、切り抜き、角丸、余白を直接編集できます\n・5段階の筆を備えた手描きと、10書体から選べるテキストを追加しました\n・作品全体をカスタムプリセットとして保存し、別の写真にも同じ構成を適用できます\n・ADVANCEDモード、印刷用書き出し、iPadのレイアウトを改善し、細かな不具合を修正しました",
-      "currentVersionReleaseDate": "2026-09-19T06:07:26Z",
       "releaseDate": "2026-07-22T07:00:00Z",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "Shikaka, Inc.",
+      "trackId": 6792391699,
+      "trackName": "tone - 紙に刷ったような写真加工",
+      "currentVersionReleaseDate": "2026-09-19T06:07:26Z",
       "version": "2.0",
       "wrapperType": "software",
       "currency": "JPY",
       "description": "tone は、写真・手描き・テキストを、孔版印刷のような風合いに仕上げる画像加工アプリです。\n\n画像、指で描いた線、入力した文字を最大8つまで重ね、ひとつの作品を作れます。作品全体では最大5つの版を使い、同じ版を共有してひとつの色で刷ることも、別の版に分けて版ずれを変えることもできます。\n\nプレビュー上でオブジェクトを選び、移動・拡大縮小・回転を直接操作できます。画像ごとの切り抜き、四隅それぞれの角丸、上下左右それぞれの余白も、画面上のハンドルで調整できます。\n\n手描きには5段階の筆と取り消し・やり直しを用意しました。テキストは10種類の書体から選び、濃さ、にじみ、太さ、字送り、行間を調整できます。どちらも写真と同じハーフトーンとインクの質感で仕上がります。\n\nかんたんモードなら、ランダムボタンを押すだけで色・網点・フレームの組み合わせを試せます。カスタマイズモードでは各設定を細かく調整でき、ADVANCEDモードではオブジェクトごとに使う版まで編集できます。\n\nフレーム、切り抜き、版の構成、テキスト、手描きまで作品全体をカスタムプリセットとして保存できます。保存した構成は、別の写真へいつでも適用できます。\n\n完成画像は写真ライブラリへ保存できます。印刷用画像とインクごとの分版には、仕上がり寸法、塗り足し、Standard / Japaneseトンボ、実寸面付けを設定し、PNG / JPEG / PDFで書き出せます。\n\niPhone / iPadの縦・横向きとSplit Viewに対応しています。最後に使った作品と編集設定は端末内へ保存され、次回起動時に自動復元されます。\n\n主な機能\n・画像、手描き、テキストを最大8つまで重ね刷り\n・作品全体で最大5版を共有・分離\n・5段階の筆、取り消し・やり直し\n・10書体のテキストと組版・印刷表現の調整\n・プレビュー上での移動、拡大縮小、回転、切り抜き、角丸、余白編集\n・網点（AMスクリーン）と粒状（グレイン）の2方式\n・写真に合うインクの自動選択\n・かんたん、カスタマイズ、ADVANCEDの3モード\n・内蔵プリセットと作品全体のカスタムプリセット\n・印刷用画像と分版データの書き出し\n・塗り足し、トンボ、実寸面付け\n・日本語、英語、韓国語、中国語（簡体字・繁体字・香港）に対応\n\n追加の7色、カスタムプリセット保存、高解像度画像書き出し（2× / 3×）は、買い切りのアプリ内課金「Ink Set 02」で解放されます。",
       "minimumOsVersion": "17.0",
-      "trackId": 6792391699,
-      "trackName": "tone - 紙に刷ったような写真加工",
+      "artistId": 1573251802,
+      "artistName": "Shikaka, Inc.",
+      "price": 0,
       "userRatingCount": 112,
       "country": "JPN"
     }

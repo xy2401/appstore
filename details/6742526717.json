@@ -2,9 +2,7 @@
   "resultCount": 1,
   "results": [
     {
-      "artistViewUrl": "https://apps.apple.com/fr/developer/nathan-jackson/id1783251260?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/f3/91/22f391c8-8da0-b5ce-993f-5135b2820d25/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/f3/91/22f391c8-8da0-b5ce-993f-5135b2820d25/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.jpg",
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/03/57/68/03576863-12c1-ab5c-9b4b-f20efc90f722/11.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e7/05/04/e70504ec-d2e1-923d-58ea-05e7cc4e613e/111.png/320x480bb.jpg",
@@ -13,11 +11,10 @@
       ],
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/f3/91/22f391c8-8da0-b5ce-993f-5135b2820d25/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/60x60bb.jpg",
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/f3/91/22f391c8-8da0-b5ce-993f-5135b2820d25/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
-      "advisories": [
-        "Scènes rares/modérées de violence (animation ou fantastique)",
-        "Scènes rares/modérées de violence réaliste"
-      ],
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/f3/91/22f391c8-8da0-b5ce-993f-5135b2820d25/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/fr/developer/nathan-jackson/id1783251260?uo=4",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -146,38 +143,39 @@
         "iPadAir11M4-iPadAir11M4",
         "iPadAir11M4Cellular-iPadAir11M4Cellular",
         "iPadAir13M4-iPadAir13M4",
-        "iPadAir13M4Cellular-iPadAir13M4Cellular"
+        "iPadAir13M4Cellular-iPadAir13M4Cellular",
+        "iPhone18Pro-iPhone18Pro",
+        "iPhone18ProMax-iPhone18ProMax",
+        "iPhoneDuo-iPhoneDuo"
       ],
-      "isGameCenterEnabled": false,
+      "advisories": [
+        "Scènes rares/modérées de violence (animation ou fantastique)",
+        "Scènes rares/modérées de violence réaliste"
+      ],
       "kind": "software",
       "features": [],
+      "averageUserRating": 4.88889,
       "trackCensoredName": "WatchTube for YouTube",
-      "trackViewUrl": "https://apps.apple.com/fr/app/watchtube-for-youtube/id6742526717?uo=4",
-      "contentAdvisoryRating": "17+",
-      "averageUserRating": 4.90909,
       "languageCodesISO2A": [
         "EN"
       ],
       "fileSizeBytes": "10621952",
       "formattedPrice": "2,99 €",
-      "userRatingCountForCurrentVersion": 11,
+      "contentAdvisoryRating": "17+",
+      "userRatingCountForCurrentVersion": 9,
+      "trackViewUrl": "https://apps.apple.com/fr/app/watchtube-for-youtube/id6742526717?uo=4",
       "trackContentRating": "17+",
-      "averageUserRatingForCurrentVersion": 4.90909,
+      "averageUserRatingForCurrentVersion": 4.88889,
       "minimumOsVersion": "17.0",
-      "genres": [
-        "Divertissement"
-      ],
       "artistId": 1783251260,
       "artistName": "Nathan Jackson",
       "price": 2.99,
+      "sellerName": "Nathan Jackson",
       "primaryGenreName": "Entertainment",
       "primaryGenreId": 6016,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseDate": "2025-04-09T07:00:00Z",
-      "currentVersionReleaseDate": "2026-08-11T19:37:16Z",
-      "trackId": 6742526717,
       "trackName": "WatchTube for YouTube",
-      "sellerName": "Nathan Jackson",
+      "trackId": 6742526717,
+      "currentVersionReleaseDate": "2026-08-11T19:37:16Z",
       "genreIds": [
         "6016"
       ],
@@ -187,7 +185,12 @@
       "currency": "EUR",
       "description": "WatchTube is an app for watching YouTube videos on Apple Watch. It can run independently on your wrist without iPhone. You can easily search and watch videos anytime, anywhere.\n\nFeatures:\n~ Watch currently popular/trending videos\n~ Easily search for your favorite videos\n~ Collect your favorite videos\n~ Watch without iPhone\n~ Share your favorite videos with friends\n~ No ads, no in-app purchases",
       "bundleId": "com.tikbrowse.watchtube",
-      "userRatingCount": 11,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseDate": "2025-04-09T07:00:00Z",
+      "genres": [
+        "Divertissement"
+      ],
+      "userRatingCount": 9,
       "country": "FRA"
     }
   ]

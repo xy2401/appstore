@@ -213,16 +213,9 @@
       "userRatingCount": 9857
     },
     {
-      "artistViewUrl": "https://apps.apple.com/us/developer/skywork-ai-pte-ltd/id1619484606?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/6c/39/406c3982-19f7-7736-2d7c-97a117c809c2/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/6c/39/406c3982-19f7-7736-2d7c-97a117c809c2/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
-      "advisories": [
-        "Infrequent/Mild Cartoon or Fantasy Violence",
-        "Infrequent/Mild Mature/Suggestive Themes",
-        "Infrequent/Mild Profanity or Crude Humor",
-        "Infrequent/Mild Realistic Violence",
-        "Infrequent/Mild Horror/Fear Themes"
+      "features": [
+        "iosUniversal"
       ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
@@ -356,51 +349,60 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "advisories": [
+        "Infrequent/Mild Profanity or Crude Humor",
+        "Infrequent/Mild Horror/Fear Themes",
+        "Infrequent/Mild Realistic Violence",
+        "Infrequent/Mild Cartoon or Fantasy Violence",
+        "Infrequent/Mild Mature/Suggestive Themes"
+      ],
       "kind": "software",
-      "features": [
-        "iosUniversal"
-      ],
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0e/a3/91/0ea3913c-edc2-0a1e-4a65-3898a1f3b7c2/_U82f1_U8bed_01.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ed/dd/4e/eddd4ea7-088f-dbf9-988e-e41b429a9acc/_U82f1_U8bed-2.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9c/ee/33/9cee33f5-3c4c-df3e-8dbc-dcd3bac65380/_U82f1_U8bed_04.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a6/c0/4a/a6c04aa2-dc73-8335-c6cc-f596f29e39c1/_U82f1_U8bed-5.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/25/29/1d/25291d0c-fdb3-ae03-b9d5-aef31b88a8b3/_U82f1_U8bed_06.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/49/f0/40/49f040a8-3bb9-54a5-5a1b-8d8b6ebdb40c/_U82f1_U8bed-3.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5a/f2/75/5af27500-7698-d0cb-2e3d-84f7e299a63c/_U82f1_U8bed-7.jpg/320x480bb.jpg"
-      ],
       "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/25/04/88/25048848-4380-984e-eea2-13aec6eaf113/_U82f1_U8bed_01.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d8/cc/3f/d8cc3f00-aad3-2369-4fbf-645ab03ed07f/iPad__U82f1_U8bed_3.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c2/33/c5/c233c57a-bc6a-0534-2db0-d71273f87a16/iPad__U82f1_U8bed_5.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c4/a9/8e/c4a98eae-fa04-f4a6-5ccb-c0ab2bcb83b2/iPad__U82f1_U8bed_04.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3c/72/0e/3c720ea9-86dc-f3cc-2268-c6d484dc719a/iPad__U82f1_U8bed_06.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c0/63/cd/c063cd04-7561-9714-9abb-b697c986525d/iPad__U82f1_U8bed_7.jpg/360x480bb.jpg"
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3c/a3/ac/3ca3ac71-9188-aa28-1d57-559b4e2e09d4/_U82f1_U8bed_01.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/06/79/9d/06799d67-06a1-a3e5-5abf-f2cae2c9b06a/iPad__U82f1_U8bed_3.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d6/2d/e8/d62de831-49ce-e3b1-45ff-61a4d3f90942/iPad__U82f1_U8bed_5.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ed/53/14/ed531434-e77f-ab4c-6edc-92533b50efb6/iPad__U82f1_U8bed_04.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2a/77/c0/2a77c02e-6efb-4c2c-9b48-ded466b5deb1/iPad__U82f1_U8bed_06.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7b/e5/aa/7be5aafc-0ae2-ee2f-aa4b-38fac873f61a/iPad__U82f1_U8bed_7.jpg/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/6c/39/406c3982-19f7-7736-2d7c-97a117c809c2/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "trackCensoredName": "DramaWave - Dramas & Reels",
-      "averageUserRating": 4.86043,
-      "trackViewUrl": "https://apps.apple.com/us/app/dramawave-dramas-reels/id6670430706?uo=4",
-      "contentAdvisoryRating": "12+",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/23/14/8b231467-fd14-c1ae-2d57-9f1861728520/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b2/f5/90/b2f5908a-d784-3311-25c6-5e65f7212494/_U82f1_U8bed_01.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/4d/e0/0c4de072-b3c3-e04d-b3e5-3ec93c4f9ece/_U82f1_U8bed-2.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/87/7f/f9/877ff94e-12ef-df0a-882b-e0fd9170b43f/_U82f1_U8bed_04.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/17/fa/15/17fa15db-cf14-359d-aa6e-9925cd293a64/_U82f1_U8bed-5.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/17/b8/27/17b8271e-0b44-fa40-3ecb-315087e12c0d/_U82f1_U8bed_06.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/27/c3/ab/27c3ab1e-7095-5795-0f82-b4af3ec2546e/_U82f1_U8bed-3.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/21/22/68/2122682b-d042-a655-6acc-00fe8ba1e89e/_U82f1_U8bed-7.jpg/320x480bb.jpg"
+      ],
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/23/14/8b231467-fd14-c1ae-2d57-9f1861728520/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/us/developer/skywork-ai-pte-ltd/id1619484606?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/23/14/8b231467-fd14-c1ae-2d57-9f1861728520/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
+      "releaseNotes": "1. Added an exciting new collection of short dramas\n2. Squashed pesky bugs to enhance performance",
+      "artistId": 1619484606,
+      "artistName": "SKYWORK AI PTE LTD",
       "genres": [
         "Entertainment"
       ],
       "price": 0,
       "bundleId": "com.dramabuzz.app",
+      "trackName": "DramaWave - Dramas & Reels",
+      "trackId": 6670430706,
+      "genreIds": [
+        "6016"
+      ],
       "isVppDeviceBasedLicensingEnabled": true,
-      "sellerName": "SKYWORK AI PTE LTD",
-      "releaseDate": "2024-09-23T07:00:00Z",
       "primaryGenreName": "Entertainment",
       "primaryGenreId": 6016,
-      "trackId": 6670430706,
-      "trackName": "DramaWave - Dramas & Reels",
-      "currentVersionReleaseDate": "2026-09-22T08:13:51Z",
-      "releaseNotes": "1. Added an exciting new collection of short dramas\n2. Squashed pesky bugs to enhance performance",
-      "version": "2.0.10",
+      "sellerName": "SKYWORK AI PTE LTD",
+      "releaseDate": "2024-09-23T07:00:00Z",
+      "currentVersionReleaseDate": "2026-09-28T09:22:51Z",
+      "version": "2.0.20",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Welcome to DramaWave, a next-gen HD streaming platform offering exclusive vertical TV videos, series, and movies. Dive into 30,000+ Dramas Across 18 Languages — With Exclusive Hits You Can't Find Anywhere Else!\n \nWhy Choose DramaWave?\n1. On-Screen Comments\nSupports real-time on-screen comments during playback, allowing you to share reactions and engage with others while watching. \n2. Offline Viewing\nYou can download episodes and watch them offline anytime and anywhere — even without an internet connection.\n3. Vertical Full-Screen Feed\nDeliver immersive entertainment experiences. Personalized drama content via precise algorithms helps you quickly spot your favorite drama videos.\n4. Quick and Gripping Dramas\nDive into drama-packed stories that deliver emotions and thrills in minutes — perfect for quick escapes or binge-worthy sessions.\n5. Crystal-Clear Streaming\nImmerse yourself in stunning 1080P resolution, ensuring every scene is vibrant and lifelike.\n6. Fresh Originals, Weekly Updates\nStay entertained with exclusive new dramas added regularly. There's always something exciting waiting for you in the world of drama-centered entertainment.\n7. Stream Anytime, Anywhere\nEnjoy seamless streaming with rich visuals and sound, wherever life takes you.\n8. Global Accessibility\nWatch with multi-language subtitles, including English, Spanish, French, German, Japanese, and Korean, bringing drama to everyone.\n \nUnleash the Drama\nDiscover the next generation of storytelling with DramaWave. It's drama made easy, exciting, and accessible — right at your fingertips!\n \nSubscription Details\nUnlock exclusive content with our subscription plan. Subscriptions renew automatically but can be managed or canceled anytime in your account settings.\n \nContact Us\nWebsite: mydramawave.com\nEmail: dramawaveteam@gmail.com\nDownload DramaWave now and experience drama like never before!",
+      "minimumOsVersion": "15.0",
       "sellerUrl": "https://mydramawave.com",
       "languageCodesISO2A": [
         "AR",
@@ -428,47 +430,23 @@
         "TR",
         "VI"
       ],
-      "fileSizeBytes": "171776000",
+      "fileSizeBytes": "171960320",
       "formattedPrice": "Free",
+      "userRatingCountForCurrentVersion": 179116,
       "trackContentRating": "12+",
-      "averageUserRatingForCurrentVersion": 4.86043,
-      "minimumOsVersion": "15.0",
-      "userRatingCountForCurrentVersion": 177415,
-      "genreIds": [
-        "6016"
-      ],
-      "artistId": 1619484606,
-      "artistName": "SKYWORK AI PTE LTD",
-      "userRatingCount": 177415,
+      "averageUserRatingForCurrentVersion": 4.85998,
+      "contentAdvisoryRating": "12+",
+      "trackCensoredName": "DramaWave - Dramas & Reels",
+      "trackViewUrl": "https://apps.apple.com/us/app/dramawave-dramas-reels/id6670430706?uo=4",
+      "averageUserRating": 4.85998,
+      "userRatingCount": 179116,
       "country": "USA"
     },
     {
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7a/4f/bf/7a4fbf32-ec88-c1fe-fe93-1de7ce5a6b9e/_U5fb7_U8bed_01.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/18/bd/a1/18bda14f-4288-76b3-ffe1-06dc023ef81f/_U5fb7_U8bed-2.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/74/08/88/74088833-c190-39cc-7197-5dfc80ae0331/_U5fb7_U8bed_04.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6c/71/68/6c716801-58aa-0977-5408-434b4b892c60/_U5fb7_U8bed-5.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/37/f8/3c/37f83c32-9669-5e07-49e4-2077a417f879/_U5fb7_U8bed_06.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/05/43/11/05431110-d490-4496-8f46-6cb5728af89e/_U5fb7_U8bed-3.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d5/3c/dd/d53cddab-4c44-56e4-f044-b23e72b13a82/_U5fb7_U8bed-7.jpg/320x480bb.jpg"
-      ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/48/eb/d1/48ebd1d4-8f95-cf5c-0e51-fa793539fc1b/_U5fb7_U8bed_01.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ea/8e/74/ea8e743d-ec1b-f220-6532-ab21f77c5397/iPad__U5fb7_U8bed_3.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/01/b9/0b/01b90b37-e373-7ceb-b1a5-79bcdd89e3a9/iPad__U5fb7_U8bed_5.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ce/39/61/ce396111-2472-1712-5c0e-4a7b57d97cc9/iPad__U5fb7_U8bed_04.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2e/e7/89/2ee789d8-1fa8-8754-8570-66460c17c227/iPad__U5fb7_U8bed_06.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5a/0d/c0/5a0dc0f8-de6a-ac49-cc89-67c84f7c68a5/iPad__U5fb7_U8bed_7.jpg/360x480bb.jpg"
-      ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/6c/39/406c3982-19f7-7736-2d7c-97a117c809c2/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "isGameCenterEnabled": false,
       "artistViewUrl": "https://apps.apple.com/de/developer/skywork-ai-pte-ltd/id1619484606?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/6c/39/406c3982-19f7-7736-2d7c-97a117c809c2/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/6c/39/406c3982-19f7-7736-2d7c-97a117c809c2/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/23/14/8b231467-fd14-c1ae-2d57-9f1861728520/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/23/14/8b231467-fd14-c1ae-2d57-9f1861728520/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -602,81 +580,112 @@
         "iPhoneDuo-iPhoneDuo"
       ],
       "advisories": [
-        "Selten/schwach ausgeprägt: Zeichentrick- oder Fantasy-Gewalt",
-        "Selten/schwach ausgeprägt: Szenen mit erotischen Anspielungen",
         "Selten/schwach ausgeprägt: obszöner oder vulgärer Humor",
+        "Selten/schwach ausgeprägt: Horror-/Gruselszenen",
         "Selten/schwach ausgeprägt: realistisch dargestellte Gewalt",
-        "Selten/schwach ausgeprägt: Horror-/Gruselszenen"
+        "Selten/schwach ausgeprägt: Zeichentrick- oder Fantasy-Gewalt",
+        "Selten/schwach ausgeprägt: Szenen mit erotischen Anspielungen"
       ],
       "kind": "software",
-      "averageUserRatingForCurrentVersion": 4.78979,
-      "sellerUrl": "https://mydramawave.com",
-      "languageCodesISO2A": [
-        "AR",
-        "BN",
-        "CS",
-        "EN",
-        "FR",
-        "DE",
-        "EL",
-        "HI",
-        "ID",
-        "IT",
-        "JA",
-        "KO",
-        "MS",
-        "PL",
-        "PT",
-        "RO",
-        "RU",
-        "ES",
-        "TA",
-        "TE",
-        "TH",
-        "ZH",
-        "TR",
-        "VI"
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fa/49/e0/fa49e0ef-0712-67c4-5a2d-b8cb88beff50/_U5fb7_U8bed_01.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/81/33/1f/81331fca-6e86-881a-32c2-5f86ef3ecd7b/_U5fb7_U8bed-2.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d0/c2/be/d0c2bea3-161d-55b2-d895-6362f6a7df9e/_U5fb7_U8bed_04.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/39/2d/75/392d758c-a8c5-a32f-6d62-7c6081484f7b/_U5fb7_U8bed-5.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/df/07/9f/df079f42-1e4b-e4a9-e128-8d8ef15a7495/_U5fb7_U8bed_06.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7d/aa/93/7daa9379-2de7-a8d3-7874-78b5fc3de84f/_U5fb7_U8bed-3.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/41/10/4f/41104fac-d81b-2643-1fc9-dfaf4109e30a/_U5fb7_U8bed-7.jpg/320x480bb.jpg"
       ],
-      "fileSizeBytes": "171776000",
-      "formattedPrice": "Gratis",
-      "userRatingCountForCurrentVersion": 15651,
-      "trackContentRating": "12+",
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/0c/7d/e00c7d68-62ea-e11f-41ab-2cdb108d5767/_U5fb7_U8bed_01.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e3/a0/c4/e3a0c469-1777-0261-c0e8-08626d208391/iPad__U5fb7_U8bed_3.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8f/0b/43/8f0b43f5-8d18-ecb4-18a9-375a2e0085dd/iPad__U5fb7_U8bed_5.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/02/a2/c902a2dc-384f-909c-48fc-da824fa22d6c/iPad__U5fb7_U8bed_04.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/06/4f/f2/064ff21a-6fd3-2066-199f-f1212785290b/iPad__U5fb7_U8bed_06.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b8/fa/85/b8fa85d1-eaff-074e-456d-06846cb74d9b/iPad__U5fb7_U8bed_7.jpg/360x480bb.jpg"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/23/14/8b231467-fd14-c1ae-2d57-9f1861728520/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
       "releaseNotes": "1. Eine aufregende neue Sammlung von Kurzdramen hinzugefügt\n2. Nervige Fehler behoben, um die Leistung zu verbessern",
+      "averageUserRating": 4.78986,
       "trackCensoredName": "DramaWave - Drama & Reel",
       "trackViewUrl": "https://apps.apple.com/de/app/dramawave-drama-reel/id6670430706?uo=4",
       "contentAdvisoryRating": "12+",
-      "averageUserRating": 4.78979,
-      "genres": [
-        "Unterhaltung"
-      ],
       "price": 0,
       "artistId": 1619484606,
       "artistName": "SKYWORK AI PTE LTD",
+      "genres": [
+        "Unterhaltung"
+      ],
       "genreIds": [
         "6016"
       ],
       "bundleId": "com.dramabuzz.app",
+      "releaseDate": "2024-10-02T07:00:00Z",
       "sellerName": "SKYWORK AI PTE LTD",
       "isVppDeviceBasedLicensingEnabled": true,
-      "releaseDate": "2024-10-02T07:00:00Z",
+      "currentVersionReleaseDate": "2026-09-28T09:22:51Z",
       "primaryGenreName": "Entertainment",
       "primaryGenreId": 6016,
-      "trackName": "DramaWave - Drama & Reel",
       "trackId": 6670430706,
-      "currentVersionReleaseDate": "2026-09-22T08:13:51Z",
-      "version": "2.0.10",
+      "trackName": "DramaWave - Drama & Reel",
+      "version": "2.0.20",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Willkommen bei DramaWave – deiner Streaming-Plattform der nächsten Generation für exklusive vertikale TV-Videos, Serien und Filme in HD. Tauche in über 30.000 Dramen in 18 Sprachen ein– mit exklusiven Highlights, die du nirgendwo anders findest!\n\nWarum DramaWave wählen?\n1. Live-Kommentare\nReagiere in Echtzeit mit On-Screen-Kommentaren während des Schauens – teile Emotionen und erlebe Community-Feeling.\n2. Offline-Ansehen\nLade Episoden herunter und schau sie jederzeit – auch ohne Internetverbindung.\n3. Vertikaler Vollbild-Feed\nErlebe immersive Unterhaltung. Personalisierte Empfehlungen helfen dir, deine Lieblingsdramen sofort zu finden.\n4. Kurze & packende Dramen\nDramen voller Emotionen und Spannung in wenigen Minuten – perfekt zum Kurzgenuss oder Durchbingen.\n5. Kristallklare Streams\nErlebe jedes Detail in lebendigem 1080P – für echtes Kino-Feeling auf dem Handy.\n6. Wöchentliche Original-Updates\nBleib dran mit exklusiven neuen Dramen – regelmäßig neu! Drama-Fans erwartet immer etwas Spannendes.\n7. Jederzeit & überall streamen\nGenieße ruckelfreies Streaming mit Top-Bild & -Sound – egal wo du bist.\n8. Weltweit verfügbar\nMit Untertiteln in Englisch, Spanisch, Französisch, Deutsch, Japanisch, Koreanisch u. v. m.\n \nEntfessle das Drama\nErlebe Storytelling neu – einfach, fesselnd & überall dabei mit DramaWave!\n\nAbo-Details\nSchalte exklusive Inhalte mit einem Abo frei. Die Verlängerung erfolgt automatisch, kann aber jederzeit in den Kontoeinstellungen verwaltet oder gekündigt werden.\n\nKontakt\nWebsite: mydramawave.com\nE-Mail: dramawaveteam@gmail.com\nLade DramaWave jetzt herunter und tauche in eine neue Welt des Dramas ein!",
+      "averageUserRatingForCurrentVersion": 4.78986,
+      "languageCodesISO2A": [
+        "AR",
+        "BN",
+        "CS",
+        "EN",
+        "FR",
+        "DE",
+        "EL",
+        "HI",
+        "ID",
+        "IT",
+        "JA",
+        "KO",
+        "MS",
+        "PL",
+        "PT",
+        "RO",
+        "RU",
+        "ES",
+        "TA",
+        "TE",
+        "TH",
+        "ZH",
+        "TR",
+        "VI"
+      ],
+      "fileSizeBytes": "171960320",
+      "formattedPrice": "Gratis",
+      "userRatingCountForCurrentVersion": 15828,
+      "trackContentRating": "12+",
+      "sellerUrl": "https://mydramawave.com",
       "minimumOsVersion": "15.0",
-      "userRatingCount": 15651,
+      "userRatingCount": 15828,
       "country": "DEU"
     },
     {
+      "artistViewUrl": "https://apps.apple.com/fr/developer/skywork-ai-pte-ltd/id1619484606?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/23/14/8b231467-fd14-c1ae-2d57-9f1861728520/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/23/14/8b231467-fd14-c1ae-2d57-9f1861728520/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
       "features": [
         "iosUniversal"
       ],
-      "isGameCenterEnabled": false,
+      "advisories": [
+        "Scènes rares/modérées d’humour vulgaire ou blasphématoire",
+        "Scènes rares/modérées d’horreur ou d’épouvante",
+        "Scènes rares/modérées de violence réaliste",
+        "Scènes rares/modérées de violence (animation ou fantastique)",
+        "Scènes rares/modérées réservées aux adultes (suggestives)"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -809,66 +818,56 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [
-        "Scènes rares/modérées de violence (animation ou fantastique)",
-        "Scènes rares/modérées réservées aux adultes (suggestives)",
-        "Scènes rares/modérées d’humour vulgaire ou blasphématoire",
-        "Scènes rares/modérées de violence réaliste",
-        "Scènes rares/modérées d’horreur ou d’épouvante"
-      ],
       "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/fr/developer/skywork-ai-pte-ltd/id1619484606?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/6c/39/406c3982-19f7-7736-2d7c-97a117c809c2/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/6c/39/406c3982-19f7-7736-2d7c-97a117c809c2/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9a/a8/1f/9aa81fd9-bcc8-10f4-961f-eaa1c2444498/_U6cd5_U8bed_01.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/bb/05/b2bb05ea-b16d-994c-a28d-f89391fa8af1/_U6cd5_U8bed-2.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e3/76/7d/e3767dac-6d5f-c5ef-6469-8b1b5c34cc70/_U6cd5_U8bed_04.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/31/4f/4f/314f4ff3-3009-6314-b3ec-0a2c37b6c4e5/_U6cd5_U8bed-5.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d5/84/b5/d584b5a5-d46a-e984-481d-6e9721b472cf/_U6cd5_U8bed_06.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/71/d4/85/71d48569-aad3-607f-3caa-1dd3c90ced95/_U6cd5_U8bed-3.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/29/91/87/29918794-5d9d-eff9-0db2-0d269fa6d12f/_U6cd5_U8bed-7.jpg/320x480bb.jpg"
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/26/27/69/2627693d-d69c-bcf1-c507-7256e59db037/_U6cd5_U8bed_01.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/af/9d/c9/af9dc96c-86a2-af05-9084-bd978bd96e33/_U6cd5_U8bed-2.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3d/8a/e8/3d8ae8e8-3318-1204-58ca-c48365b8a23e/_U6cd5_U8bed_04.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e1/3c/c0/e13cc0f7-594d-2024-acd5-4e74655b2df9/_U6cd5_U8bed-5.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d4/51/42/d451424c-f586-8e81-0f86-43b90030719f/_U6cd5_U8bed_06.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/10/33/87/10338723-e31e-c8e5-810f-1875f6f28a76/_U6cd5_U8bed-3.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/67/79/1e/67791e41-ab13-bee3-e9c6-63dffa0dad44/_U6cd5_U8bed-7.jpg/320x480bb.jpg"
       ],
       "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7e/42/29/7e4229fc-bc00-c93b-c210-02d41ad708bd/_U6cd5_U8bed_01.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/45/57/fb/4557fb91-cacd-759d-fb51-c6bf9f2094b0/iPad__U6cd5_U8bed_3.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d9/89/cd/d989cd40-ef2b-7a27-9b68-ff1bb178e85a/iPad__U6cd5_U8bed_5.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/21/f8/64/21f8643d-6e9e-39e9-f6b1-246a4a8b9eba/iPad__U6cd5_U8bed_04.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c5/61/38/c561384f-39b9-cd4c-863e-eb4713c9d50b/iPad__U6cd5_U8bed_06.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/14/aa/03/14aa0301-6257-032d-1d79-995517e26856/iPad__U6cd5_U8bed_7.jpg/360x480bb.jpg"
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/db/5e/4e/db5e4ef5-a0d2-32f2-b89a-6392e67aa63a/_U6cd5_U8bed_01.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e2/96/f6/e296f66c-6112-8d88-b83c-ddc34bb1ae94/iPad__U6cd5_U8bed_3.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7c/24/9b/7c249b8b-ae99-9d21-52a9-7f0ce5c6c71b/iPad__U6cd5_U8bed_5.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c4/2d/7d/c42d7d05-d8ec-7fdf-5c1a-16439e92933f/iPad__U6cd5_U8bed_04.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1a/08/cc/1a08cc8a-ea4f-3dae-4adc-375536a7e81f/iPad__U6cd5_U8bed_06.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/22/0c/f2/220cf21b-0438-bfd3-0f5f-1fd2b975dd96/iPad__U6cd5_U8bed_7.jpg/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/6c/39/406c3982-19f7-7736-2d7c-97a117c809c2/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "minimumOsVersion": "15.0",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/23/14/8b231467-fd14-c1ae-2d57-9f1861728520/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "isGameCenterEnabled": false,
+      "contentAdvisoryRating": "12+",
+      "trackCensoredName": "DramaWave - Courts & Reels",
+      "trackViewUrl": "https://apps.apple.com/fr/app/dramawave-courts-reels/id6670430706?uo=4",
+      "averageUserRating": 4.80788,
+      "releaseNotes": "1. Ajout d'une excitante nouvelle collection de courts métrages\n2. Correction des bugs pour améliorer les performances",
       "price": 0,
+      "artistId": 1619484606,
       "genres": [
         "Divertissement"
       ],
-      "artistId": 1619484606,
       "artistName": "SKYWORK AI PTE LTD",
-      "bundleId": "com.dramabuzz.app",
-      "genreIds": [
-        "6016"
-      ],
       "releaseDate": "2024-10-02T07:00:00Z",
       "primaryGenreName": "Entertainment",
       "primaryGenreId": 6016,
+      "genreIds": [
+        "6016"
+      ],
       "sellerName": "SKYWORK AI PTE LTD",
+      "isVppDeviceBasedLicensingEnabled": true,
       "trackId": 6670430706,
       "trackName": "DramaWave - Courts & Reels",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-09-22T08:13:51Z",
-      "releaseNotes": "1. Ajout d'une excitante nouvelle collection de courts métrages\n2. Correction des bugs pour améliorer les performances",
-      "version": "2.0.10",
+      "currentVersionReleaseDate": "2026-09-28T09:22:51Z",
+      "version": "2.0.20",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Bienvenue sur DramaWave, votre nouvelle plateforme de streaming HD nouvelle génération ! Découvrez des séries, films et vidéos TV exclusives en format vertical. Plongez dans 30 000+ dramas en 18 langues, avec des contenus uniques et introuvables ailleurs !\n\nPourquoi choisir DramaWave ?\n1. Commentaires en direct\nRéagissez en temps réel avec d'autres viewers pendant la lecture.\n2. Visionnage hors connexion\nTéléchargez vos épisodes et regardez-les sans internet, où que vous soyez.\n3. Mode vertical plein écran\nUne expérience immersive, avec des recommandations personnalisées.\n4. Dramas courts et intenses\nDes histoires palpitantes en quelques minutes, parfaites pour une pause ou un binge-watching.\n5. Streaming ultra-HD 1080P\nUne qualité d'image et de son exceptionnelle.\n6. Nouveautés exclusives chaque semaine\nDes dramas originaux ajoutés régulièrement.\n7. Accessible partout dans le monde\nSous-titres multilingues (FR, EN, ES, DE, JP, KO, etc.)\n\nLibérez le Drama\nDécouvrez une nouvelle ère de storytelling avec DramaWave. Des dramas faciles d'accès, passionnants et à portée de main !\n\nAbonnement\nAccédez à tous les contenus exclusifs. Résiliable à tout moment via les paramètres du compte.\n\nContact\nSite : mydramawave.com\nEmail : dramawaveteam@gmail.com\nTéléchargez DramaWave dès maintenant et vivez le drama comme jamais auparavant !",
-      "trackCensoredName": "DramaWave - Courts & Reels",
-      "trackViewUrl": "https://apps.apple.com/fr/app/dramawave-courts-reels/id6670430706?uo=4",
-      "averageUserRatingForCurrentVersion": 4.80757,
-      "contentAdvisoryRating": "12+",
-      "averageUserRating": 4.80757,
-      "sellerUrl": "https://mydramawave.com",
+      "minimumOsVersion": "15.0",
+      "bundleId": "com.dramabuzz.app",
+      "averageUserRatingForCurrentVersion": 4.80788,
       "languageCodesISO2A": [
         "AR",
         "BN",
@@ -895,27 +894,40 @@
         "TR",
         "VI"
       ],
-      "fileSizeBytes": "171776000",
+      "fileSizeBytes": "171960320",
       "formattedPrice": "Gratuit",
-      "userRatingCountForCurrentVersion": 27293,
+      "userRatingCountForCurrentVersion": 27654,
       "trackContentRating": "12+",
-      "userRatingCount": 27293,
+      "sellerUrl": "https://mydramawave.com",
+      "userRatingCount": 27654,
       "country": "FRA"
     },
     {
       "artistViewUrl": "https://apps.apple.com/gb/developer/skywork-ai-pte-ltd/id1619484606?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/6c/39/406c3982-19f7-7736-2d7c-97a117c809c2/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/6c/39/406c3982-19f7-7736-2d7c-97a117c809c2/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/23/14/8b231467-fd14-c1ae-2d57-9f1861728520/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/23/14/8b231467-fd14-c1ae-2d57-9f1861728520/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b2/f5/90/b2f5908a-d784-3311-25c6-5e65f7212494/_U82f1_U8bed_01.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/4d/e0/0c4de072-b3c3-e04d-b3e5-3ec93c4f9ece/_U82f1_U8bed-2.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/87/7f/f9/877ff94e-12ef-df0a-882b-e0fd9170b43f/_U82f1_U8bed_04.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/17/fa/15/17fa15db-cf14-359d-aa6e-9925cd293a64/_U82f1_U8bed-5.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/17/b8/27/17b8271e-0b44-fa40-3ecb-315087e12c0d/_U82f1_U8bed_06.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/27/c3/ab/27c3ab1e-7095-5795-0f82-b4af3ec2546e/_U82f1_U8bed-3.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/21/22/68/2122682b-d042-a655-6acc-00fe8ba1e89e/_U82f1_U8bed-7.jpg/320x480bb.jpg"
+      ],
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3c/a3/ac/3ca3ac71-9188-aa28-1d57-559b4e2e09d4/_U82f1_U8bed_01.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/06/79/9d/06799d67-06a1-a3e5-5abf-f2cae2c9b06a/iPad__U82f1_U8bed_3.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d6/2d/e8/d62de831-49ce-e3b1-45ff-61a4d3f90942/iPad__U82f1_U8bed_5.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ed/53/14/ed531434-e77f-ab4c-6edc-92533b50efb6/iPad__U82f1_U8bed_04.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2a/77/c0/2a77c02e-6efb-4c2c-9b48-ded466b5deb1/iPad__U82f1_U8bed_06.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7b/e5/aa/7be5aafc-0ae2-ee2f-aa4b-38fac873f61a/iPad__U82f1_U8bed_7.jpg/360x480bb.jpg"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/23/14/8b231467-fd14-c1ae-2d57-9f1861728520/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
-      ],
-      "advisories": [
-        "Infrequent/Mild Cartoon or Fantasy Violence",
-        "Infrequent/Mild Mature/Suggestive Themes",
-        "Infrequent/Mild Profanity or Crude Humour",
-        "Infrequent/Mild Realistic Violence",
-        "Infrequent/Mild Horror/Fear Themes"
       ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
@@ -1049,50 +1061,22 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "advisories": [
+        "Infrequent/Mild Profanity or Crude Humour",
+        "Infrequent/Mild Horror/Fear Themes",
+        "Infrequent/Mild Realistic Violence",
+        "Infrequent/Mild Cartoon or Fantasy Violence",
+        "Infrequent/Mild Mature/Suggestive Themes"
+      ],
       "kind": "software",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0e/a3/91/0ea3913c-edc2-0a1e-4a65-3898a1f3b7c2/_U82f1_U8bed_01.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ed/dd/4e/eddd4ea7-088f-dbf9-988e-e41b429a9acc/_U82f1_U8bed-2.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9c/ee/33/9cee33f5-3c4c-df3e-8dbc-dcd3bac65380/_U82f1_U8bed_04.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a6/c0/4a/a6c04aa2-dc73-8335-c6cc-f596f29e39c1/_U82f1_U8bed-5.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/25/29/1d/25291d0c-fdb3-ae03-b9d5-aef31b88a8b3/_U82f1_U8bed_06.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/49/f0/40/49f040a8-3bb9-54a5-5a1b-8d8b6ebdb40c/_U82f1_U8bed-3.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5a/f2/75/5af27500-7698-d0cb-2e3d-84f7e299a63c/_U82f1_U8bed-7.jpg/320x480bb.jpg"
-      ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/25/04/88/25048848-4380-984e-eea2-13aec6eaf113/_U82f1_U8bed_01.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d8/cc/3f/d8cc3f00-aad3-2369-4fbf-645ab03ed07f/iPad__U82f1_U8bed_3.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c2/33/c5/c233c57a-bc6a-0534-2db0-d71273f87a16/iPad__U82f1_U8bed_5.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c4/a9/8e/c4a98eae-fa04-f4a6-5ccb-c0ab2bcb83b2/iPad__U82f1_U8bed_04.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3c/72/0e/3c720ea9-86dc-f3cc-2268-c6d484dc719a/iPad__U82f1_U8bed_06.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c0/63/cd/c063cd04-7561-9714-9abb-b697c986525d/iPad__U82f1_U8bed_7.jpg/360x480bb.jpg"
-      ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/6c/39/406c3982-19f7-7736-2d7c-97a117c809c2/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "minimumOsVersion": "15.0",
-      "releaseNotes": "1. Added an exciting new collection of short dramas\n2. Squashed pesky bugs to enhance performance",
       "trackCensoredName": "DramaWave - Dramas & Reels",
       "trackViewUrl": "https://apps.apple.com/gb/app/dramawave-dramas-reels/id6670430706?uo=4",
       "contentAdvisoryRating": "12+",
-      "averageUserRating": 4.83338,
-      "artistId": 1619484606,
-      "artistName": "SKYWORK AI PTE LTD",
-      "bundleId": "com.dramabuzz.app",
-      "currentVersionReleaseDate": "2026-09-22T08:13:51Z",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "primaryGenreName": "Entertainment",
-      "primaryGenreId": 6016,
-      "releaseDate": "2024-09-23T07:00:00Z",
-      "genreIds": [
-        "6016"
-      ],
-      "sellerName": "SKYWORK AI PTE LTD",
-      "trackId": 6670430706,
-      "trackName": "DramaWave - Dramas & Reels",
-      "version": "2.0.10",
-      "wrapperType": "software",
-      "currency": "GBP",
-      "description": "Welcome to DramaWave, a next-gen HD streaming platform offering exclusive vertical TV videos, series, and movies. Dive into 30,000+ Dramas Across 18 Languages — With Exclusive Hits You Can't Find Anywhere Else!\n \nWhy Choose DramaWave?\n1. On-Screen Comments\nSupports real-time on-screen comments during playback, allowing you to share reactions and engage with others while watching. \n2. Offline Viewing\nYou can download episodes and watch them offline anytime and anywhere — even without an internet connection.\n3. Vertical Full-Screen Feed\nDeliver immersive entertainment experiences. Personalized drama content via precise algorithms helps you quickly spot your favorite drama videos.\n4. Quick and Gripping Dramas\nDive into drama-packed stories that deliver emotions and thrills in minutes — perfect for quick escapes or binge-worthy sessions.\n5. Crystal-Clear Streaming\nImmerse yourself in stunning 1080P resolution, ensuring every scene is vibrant and lifelike.\n6. Fresh Originals, Weekly Updates\nStay entertained with exclusive new dramas added regularly. There's always something exciting waiting for you in the world of drama-centered entertainment.\n7. Stream Anytime, Anywhere\nEnjoy seamless streaming with rich visuals and sound, wherever life takes you.\n8. Global Accessibility\nWatch with multi-language subtitles, including English, Spanish, French, German, Japanese, and Korean, bringing drama to everyone.\n \nUnleash the Drama\nDiscover the next generation of storytelling with DramaWave. It's drama made easy, exciting, and accessible — right at your fingertips!\n \nSubscription Details\nUnlock exclusive content with our subscription plan. Subscriptions renew automatically but can be managed or canceled anytime in your account settings.\n \nContact Us\nWebsite: mydramawave.com\nEmail: dramawaveteam@gmail.com\nDownload DramaWave now and experience drama like never before!",
+      "averageUserRating": 4.8327,
+      "minimumOsVersion": "15.0",
+      "averageUserRatingForCurrentVersion": 4.8327,
+      "sellerUrl": "https://mydramawave.com",
+      "releaseNotes": "1. Added an exciting new collection of short dramas\n2. Squashed pesky bugs to enhance performance",
       "languageCodesISO2A": [
         "AR",
         "BN",
@@ -1119,27 +1103,59 @@
         "TR",
         "VI"
       ],
-      "fileSizeBytes": "171776000",
+      "fileSizeBytes": "171960320",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 18222,
+      "userRatingCountForCurrentVersion": 18464,
       "trackContentRating": "12+",
-      "sellerUrl": "https://mydramawave.com",
-      "averageUserRatingForCurrentVersion": 4.83338,
+      "artistId": 1619484606,
+      "artistName": "SKYWORK AI PTE LTD",
       "genres": [
         "Entertainment"
       ],
       "price": 0,
-      "userRatingCount": 18222,
+      "bundleId": "com.dramabuzz.app",
+      "genreIds": [
+        "6016"
+      ],
+      "releaseDate": "2024-09-23T07:00:00Z",
+      "trackId": 6670430706,
+      "trackName": "DramaWave - Dramas & Reels",
+      "primaryGenreName": "Entertainment",
+      "primaryGenreId": 6016,
+      "sellerName": "SKYWORK AI PTE LTD",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-09-28T09:22:51Z",
+      "version": "2.0.20",
+      "wrapperType": "software",
+      "currency": "GBP",
+      "description": "Welcome to DramaWave, a next-gen HD streaming platform offering exclusive vertical TV videos, series, and movies. Dive into 30,000+ Dramas Across 18 Languages — With Exclusive Hits You Can't Find Anywhere Else!\n \nWhy Choose DramaWave?\n1. On-Screen Comments\nSupports real-time on-screen comments during playback, allowing you to share reactions and engage with others while watching. \n2. Offline Viewing\nYou can download episodes and watch them offline anytime and anywhere — even without an internet connection.\n3. Vertical Full-Screen Feed\nDeliver immersive entertainment experiences. Personalized drama content via precise algorithms helps you quickly spot your favorite drama videos.\n4. Quick and Gripping Dramas\nDive into drama-packed stories that deliver emotions and thrills in minutes — perfect for quick escapes or binge-worthy sessions.\n5. Crystal-Clear Streaming\nImmerse yourself in stunning 1080P resolution, ensuring every scene is vibrant and lifelike.\n6. Fresh Originals, Weekly Updates\nStay entertained with exclusive new dramas added regularly. There's always something exciting waiting for you in the world of drama-centered entertainment.\n7. Stream Anytime, Anywhere\nEnjoy seamless streaming with rich visuals and sound, wherever life takes you.\n8. Global Accessibility\nWatch with multi-language subtitles, including English, Spanish, French, German, Japanese, and Korean, bringing drama to everyone.\n \nUnleash the Drama\nDiscover the next generation of storytelling with DramaWave. It's drama made easy, exciting, and accessible — right at your fingertips!\n \nSubscription Details\nUnlock exclusive content with our subscription plan. Subscriptions renew automatically but can be managed or canceled anytime in your account settings.\n \nContact Us\nWebsite: mydramawave.com\nEmail: dramawaveteam@gmail.com\nDownload DramaWave now and experience drama like never before!",
+      "userRatingCount": 18464,
       "country": "GBR"
     },
     {
-      "artistViewUrl": "https://apps.apple.com/jp/developer/skywork-ai-pte-ltd/id1619484606?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/6c/39/406c3982-19f7-7736-2d7c-97a117c809c2/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/6c/39/406c3982-19f7-7736-2d7c-97a117c809c2/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
-      "isGameCenterEnabled": false,
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/23/14/8b231467-fd14-c1ae-2d57-9f1861728520/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/22/43/1e/22431e28-87d0-b23d-733f-b52f8883f198/_U65e5_U8bed_01.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f9/16/c3/f916c3e9-f426-6752-33f9-5a118feebec8/_U65e5_U8bed-2.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/70/20/0d/70200d2e-9aca-5c24-63f2-2b3beccf5390/_U65e5_U8bed_04.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7b/02/ff/7b02ff36-9c64-c314-3b99-488624d53fdb/_U65e5_U8bed-5.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c1/8d/7d/c18d7dc3-de8d-4c18-ec2f-b8c971327763/_U65e5_U8bed_06.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a7/0d/eb/a70debfc-8b8c-509b-9574-e53b9b507a8d/_U65e5_U8bed-3.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5e/0f/2a/5e0f2a5f-eb65-852a-10a0-11bdf18bede5/_U65e5_U8bed-7.jpg/320x480bb.jpg"
+      ],
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/40/84/00/4084004d-7cd8-f69f-a100-310398aecd4a/_U65e5_U8bed_01.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/13/36/df/1336df18-a328-6b34-f781-10f05401e81a/iPad__U65e5_U8bed_3.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6a/c7/ee/6ac7eeb4-9cfc-992c-6af1-21254b2007f5/iPad__U65e5_U8bed_5.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9f/e3/12/9fe3129f-bb3f-3867-a6a5-90122716077a/iPad__U65e5_U8bed_04.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8a/db/4e/8adb4e39-83ae-aeff-914d-e4bf1a3c1245/iPad__U65e5_U8bed_06.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fd/06/81/fd0681d1-1eac-b69e-adf7-9483f668772e/iPad__U65e5_U8bed_7.jpg/360x480bb.jpg"
+      ],
       "features": [
         "iosUniversal"
       ],
+      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -1272,61 +1288,19 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [
-        "まれ／軽度なアニメまたはファンタジーバイオレンス",
-        "まれ／軽度な成人向けまたはわいせつなテーマ",
-        "まれ／軽度な過激な言葉遣いまたは下品なユーモア",
-        "まれ／軽度なバイオレンス",
-        "まれ／軽度なホラーまたは恐怖に関するテーマ"
-      ],
       "kind": "software",
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ac/2e/47/ac2e4718-f81a-ad48-0342-0b82c4103c45/_U65e5_U8bed_01.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7e/bc/ea/7ebcea62-d164-47c0-fcb7-e93124c0679a/iPad__U65e5_U8bed_3.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/55/00/cb/5500cba1-e33d-c8fb-60d3-b188431eb6dc/iPad__U65e5_U8bed_5.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0a/f0/d2/0af0d234-d689-4191-42fe-69904bbf48cd/iPad__U65e5_U8bed_04.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/04/d5/13/04d51344-3bf8-3d2c-1458-952c96ae68eb/iPad__U65e5_U8bed_06.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/23/15/fd/2315fd61-a744-e3bc-10fb-e0f90ed1a94e/iPad__U65e5_U8bed_7.jpg/360x480bb.jpg"
+      "artistViewUrl": "https://apps.apple.com/jp/developer/skywork-ai-pte-ltd/id1619484606?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/23/14/8b231467-fd14-c1ae-2d57-9f1861728520/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/23/14/8b231467-fd14-c1ae-2d57-9f1861728520/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
+      "advisories": [
+        "まれ／軽度な過激な言葉遣いまたは下品なユーモア",
+        "まれ／軽度なホラーまたは恐怖に関するテーマ",
+        "まれ／軽度なバイオレンス",
+        "まれ／軽度なアニメまたはファンタジーバイオレンス",
+        "まれ／軽度な成人向けまたはわいせつなテーマ"
       ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/6c/39/406c3982-19f7-7736-2d7c-97a117c809c2/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b9/14/86/b91486bb-1297-1aa3-fd67-aa538cc12f84/_U65e5_U8bed_01.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/89/1f/28/891f2826-671f-d82f-435d-5b858065ad72/_U65e5_U8bed-2.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/21/51/4c/21514c08-c6db-4298-f808-e5b5999b2574/_U65e5_U8bed_04.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/51/59/b6/5159b60e-b361-7d17-fe86-a7602e9177f5/_U65e5_U8bed-5.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/42/2b/4e/422b4ed9-8490-475d-e3d2-c914cad05922/_U65e5_U8bed_06.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c3/68/8a/c3688a30-2143-7ddd-5db1-1dc11de11c95/_U65e5_U8bed-3.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e7/34/e0/e734e0ff-bc2b-271e-7d72-95031443d5e3/_U65e5_U8bed-7.jpg/320x480bb.jpg"
-      ],
-      "minimumOsVersion": "15.0",
-      "trackCensoredName": "DramaWave - 日本 / 韓国 / 人気短編ドラマ",
-      "trackViewUrl": "https://apps.apple.com/jp/app/dramawave-%E6%97%A5%E6%9C%AC-%E9%9F%93%E5%9B%BD-%E4%BA%BA%E6%B0%97%E7%9F%AD%E7%B7%A8%E3%83%89%E3%83%A9%E3%83%9E/id6670430706?uo=4",
-      "contentAdvisoryRating": "12+",
-      "averageUserRating": 4.70409,
-      "artistId": 1619484606,
-      "artistName": "SKYWORK AI PTE LTD",
-      "genres": [
-        "エンターテインメント"
-      ],
-      "price": 0,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "genreIds": [
-        "6016"
-      ],
-      "sellerName": "SKYWORK AI PTE LTD",
-      "trackId": 6670430706,
-      "trackName": "DramaWave - 日本 / 韓国 / 人気短編ドラマ",
-      "releaseDate": "2024-10-02T07:00:00Z",
-      "primaryGenreName": "Entertainment",
-      "primaryGenreId": 6016,
-      "currentVersionReleaseDate": "2026-09-22T08:13:51Z",
-      "releaseNotes": "1. エキサイティングな新しい短編ドラマのコレクションを追加しました\n2. パフォーマンス向上のためにバグを修正しました",
-      "version": "2.0.10",
-      "wrapperType": "software",
-      "currency": "JPY",
-      "description": "DramaWaveへようこそ！次世代のHDストリーミングプラットフォームで、限定の縦型TVビデオ、シリーズ、映画をお楽しみいただけます。他のところでは見られない独占ヒット作を含めて、18言語で30,000以上のドラマを提供します！\n\nなぜDramaWaveを選ぶ？\n1.画面上のコメント\n再生中にリアルタイムで画面上のコメントをサポート、反応をシェアしたり、他の視聴者と交流したりできます。\n2.オフライン視聴\nエピソードをダウンロードして、インターネット接続なしでいつでもどこでも視聴できます。\n3.縦型全画面フィード\n没入感のあるエンターテイメント体験を提供。精密なアルゴリズムで、好みのドラマコンテンツをすばやく見つけることができます。\n4.短時間で魅力的なドラマ\n感情やスリルに満ちたストーリーに短時間で没頭でき、サクッと楽しんだり、連続視聴したりするのに最適です。\n5.クリアなストリーミング\n美しい1080P解像度で、シーンごとに鮮やかでリアルな映像をお楽しみください。\n6.新作オリジナル・毎週更新\n毎週新しいオリジナルドラマが追加され、常に新しい楽しみが待っています。\n7.いつでもどこでも視聴\n豊かな映像と音で、どこでも途切れずにストリーミングを楽しめます。\n8.グローバルアクセス\n英語、スペイン語、フランス語、ドイツ語、日本語、韓国語など、複数の言語で字幕に対応し、世界中のドラマをお届けします。\n \nドラマを解放\nDramaWaveで次世代のストーリーテリングを発見してください。手軽でエキサイティング、そしてアクセス可能なドラマの世界が待っています！\n\nサブスクリプション詳細\nサブスクリプションプランで限定コンテンツをアンロックできます。サブスクリプションは自動更新されますが、アカウント設定からいつでも管理・キャンセルが可能です。\n\nお問い合わせ\nウェブサイト: mydramawave.com\nメール: dramawaveteam@gmail.com\n今すぐDramaWaveをダウンロードして、今までにないドラマ体験をお楽しみください！",
-      "averageUserRatingForCurrentVersion": 4.70409,
+      "averageUserRatingForCurrentVersion": 4.70317,
+      "bundleId": "com.dramabuzz.app",
       "sellerUrl": "https://mydramawave.com",
       "languageCodesISO2A": [
         "AR",
@@ -1354,12 +1328,38 @@
         "TR",
         "VI"
       ],
-      "fileSizeBytes": "171776000",
+      "fileSizeBytes": "171960320",
       "formattedPrice": "無料",
-      "userRatingCountForCurrentVersion": 30296,
+      "userRatingCountForCurrentVersion": 30591,
       "trackContentRating": "12+",
-      "bundleId": "com.dramabuzz.app",
-      "userRatingCount": 30296,
+      "price": 0,
+      "genres": [
+        "エンターテインメント"
+      ],
+      "artistId": 1619484606,
+      "artistName": "SKYWORK AI PTE LTD",
+      "trackId": 6670430706,
+      "trackName": "DramaWave - 日本 / 韓国 / 人気短編ドラマ",
+      "currentVersionReleaseDate": "2026-09-28T09:22:51Z",
+      "releaseDate": "2024-10-02T07:00:00Z",
+      "genreIds": [
+        "6016"
+      ],
+      "primaryGenreName": "Entertainment",
+      "primaryGenreId": 6016,
+      "sellerName": "SKYWORK AI PTE LTD",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseNotes": "1. エキサイティングな新しい短編ドラマのコレクションを追加しました\n2. パフォーマンス向上のためにバグを修正しました",
+      "version": "2.0.20",
+      "wrapperType": "software",
+      "currency": "JPY",
+      "description": "DramaWaveへようこそ！次世代のHDストリーミングプラットフォームで、限定の縦型TVビデオ、シリーズ、映画をお楽しみいただけます。他のところでは見られない独占ヒット作を含めて、18言語で30,000以上のドラマを提供します！\n\nなぜDramaWaveを選ぶ？\n1.画面上のコメント\n再生中にリアルタイムで画面上のコメントをサポート、反応をシェアしたり、他の視聴者と交流したりできます。\n2.オフライン視聴\nエピソードをダウンロードして、インターネット接続なしでいつでもどこでも視聴できます。\n3.縦型全画面フィード\n没入感のあるエンターテイメント体験を提供。精密なアルゴリズムで、好みのドラマコンテンツをすばやく見つけることができます。\n4.短時間で魅力的なドラマ\n感情やスリルに満ちたストーリーに短時間で没頭でき、サクッと楽しんだり、連続視聴したりするのに最適です。\n5.クリアなストリーミング\n美しい1080P解像度で、シーンごとに鮮やかでリアルな映像をお楽しみください。\n6.新作オリジナル・毎週更新\n毎週新しいオリジナルドラマが追加され、常に新しい楽しみが待っています。\n7.いつでもどこでも視聴\n豊かな映像と音で、どこでも途切れずにストリーミングを楽しめます。\n8.グローバルアクセス\n英語、スペイン語、フランス語、ドイツ語、日本語、韓国語など、複数の言語で字幕に対応し、世界中のドラマをお届けします。\n \nドラマを解放\nDramaWaveで次世代のストーリーテリングを発見してください。手軽でエキサイティング、そしてアクセス可能なドラマの世界が待っています！\n\nサブスクリプション詳細\nサブスクリプションプランで限定コンテンツをアンロックできます。サブスクリプションは自動更新されますが、アカウント設定からいつでも管理・キャンセルが可能です。\n\nお問い合わせ\nウェブサイト: mydramawave.com\nメール: dramawaveteam@gmail.com\n今すぐDramaWaveをダウンロードして、今までにないドラマ体験をお楽しみください！",
+      "trackCensoredName": "DramaWave - 日本 / 韓国 / 人気短編ドラマ",
+      "trackViewUrl": "https://apps.apple.com/jp/app/dramawave-%E6%97%A5%E6%9C%AC-%E9%9F%93%E5%9B%BD-%E4%BA%BA%E6%B0%97%E7%9F%AD%E7%B7%A8%E3%83%89%E3%83%A9%E3%83%9E/id6670430706?uo=4",
+      "contentAdvisoryRating": "12+",
+      "averageUserRating": 4.70317,
+      "minimumOsVersion": "15.0",
+      "userRatingCount": 30591,
       "country": "JPN"
     }
   ]

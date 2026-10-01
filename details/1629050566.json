@@ -2,8 +2,8 @@
   "resultCount": 1,
   "results": [
     {
-      "features": [],
       "isGameCenterEnabled": false,
+      "features": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -131,55 +131,63 @@
         "iPadAir11M4-iPadAir11M4",
         "iPadAir11M4Cellular-iPadAir11M4Cellular",
         "iPadAir13M4-iPadAir13M4",
-        "iPadAir13M4Cellular-iPadAir13M4Cellular"
+        "iPadAir13M4Cellular-iPadAir13M4Cellular",
+        "iPhone18Pro-iPhone18Pro",
+        "iPhone18ProMax-iPhone18ProMax",
+        "iPhoneDuo-iPhoneDuo"
       ],
       "advisories": [],
       "kind": "software",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/a3/8f/75a38fe4-f13c-6e5b-9792-47b3d233b179/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/a3/8f/75a38fe4-f13c-6e5b-9792-47b3d233b179/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
       "artistViewUrl": "https://apps.apple.com/gb/developer/government-digital-service/id1629043539?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/a7/6c/f2a76c9e-c715-b0be-ef09-a94105f76ae2/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/a7/6c/f2a76c9e-c715-b0be-ef09-a94105f76ae2/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
-      "screenshotUrls": [],
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/34/59/4e/34594e2e-0512-c5f5-fce2-7c0da229763c/App_store_asset_1_1292.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/77/29/cc/7729ccfc-bbcd-4a35-88ec-13dce1aebf60/App_store_asset_2_1290.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a9/53/f7/a953f737-bb98-2d59-dbd5-d3523a8826c9/App_store_asset_3_1290.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/46/30/81/46308194-cec6-38f6-47ab-9b5773a9ec4b/App_store_asset_4_1290.png/320x480bb.jpg"
+      ],
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/a7/6c/f2a76c9e-c715-b0be-ef09-a94105f76ae2/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/a3/8f/75a38fe4-f13c-6e5b-9792-47b3d233b179/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
       "artistId": 1629043539,
       "artistName": "Government Digital Service",
       "genres": [
         "Utilities"
       ],
       "price": 0,
-      "releaseDate": "2022-08-01T07:00:00Z",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "sellerName": "Government Digital Service",
-      "trackId": 1629050566,
-      "trackName": "GOV.UK ID Check",
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
-      "currentVersionReleaseDate": "2026-07-15T09:30:48Z",
-      "version": "1.56.0",
-      "wrapperType": "software",
-      "currency": "GBP",
-      "description": "Use GOV.UK ID Check to prove your identity when you:\n• access some HMRC services with Government Gateway \n• need to change how you get security codes to sign in to your GOV.UK One Login\n\nIt works by matching your face to your photo ID.\n\nBefore you start \nYou can use any of the following types of photo ID:\n • UK photocard driving licence \n • UK passport \n • non-UK passport with a biometric chip\n • UK biometric residence permit (BRP)\n • UK biometric residence card (BRC)\n • UK Frontier Worker permit (FWP)\n\nYou can use an expired driving licence if it expired in the last 90 days and it was issued by DVLA.\n\nYou can use an expired BRP, BRC or FWP up to 24 months after its expiry date.\n\nYou will also need:\n • a well-lit area where you can take a good quality photograph \n • an iPhone 8 or newer\n • iOS 16.7 or higher\n\nHow it works\n\nIf your photo ID is a driving licence you will:\n • take a photo of your driving licence\n • scan your face using your phone\n\nIf your photo ID is a passport, BRP, BRC or FWP you will:\n • take a photo of your photo ID\n • scan the biometric chip in your photo ID using your phone\n • scan your face using your phone\n\nWhat happens next\nThe app only helps confirm your identity. You will return to the website of the government service you were accessing to view the results of your identity check.\n\nPrivacy and security\nYour personal information will not be stored in the app, or on the phone when you finish using it. We collect your data securely and delete it when it is no longer needed.",
-      "averageUserRating": 4.64414,
-      "trackCensoredName": "GOV.UK ID Check",
-      "trackViewUrl": "https://apps.apple.com/gb/app/gov-uk-id-check/id1629050566?uo=4",
-      "contentAdvisoryRating": "4+",
-      "minimumOsVersion": "16.7",
-      "averageUserRatingForCurrentVersion": 4.64414,
-      "userRatingCountForCurrentVersion": 208899,
-      "languageCodesISO2A": [
-        "EN",
-        "CY"
-      ],
-      "fileSizeBytes": "29120512",
-      "formattedPrice": "Free",
-      "trackContentRating": "4+",
-      "releaseNotes": "We’ve made design improvements to make it easier to use the app and technical updates to the document sharing part of the journey.",
       "bundleId": "uk.gov.digital-identity",
       "genreIds": [
         "6002"
       ],
-      "userRatingCount": 208899,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
+      "trackId": 1629050566,
+      "trackName": "GOV.UK ID Check",
+      "releaseDate": "2022-08-01T07:00:00Z",
+      "sellerName": "Government Digital Service",
+      "currentVersionReleaseDate": "2026-08-03T09:07:19Z",
+      "releaseNotes": "We’ve made design improvements to make it easier to use the app.",
+      "version": "1.57.0",
+      "wrapperType": "software",
+      "currency": "GBP",
+      "description": "Use GOV.UK ID Check to prove your identity when you:\n• access some HMRC services with Government Gateway \n• need to change how you get security codes to sign in to your GOV.UK One Login\n\nIt works by matching your face to your photo ID.\n\nBefore you start \nYou can use any of the following types of photo ID:\n • UK photocard driving licence \n • UK passport \n • non-UK passport with a biometric chip\n • UK biometric residence permit (BRP)\n • UK biometric residence card (BRC)\n • UK Frontier Worker permit (FWP)\n\nYou can use an expired driving licence if it expired in the last 90 days and it was issued by DVLA.\n\nYou can use an expired BRP, BRC or FWP up to 24 months after its expiry date.\n\nYou will also need:\n • a well-lit area where you can take a good quality photograph \n • an iPhone 8 or newer\n • iOS 16.7 or higher\n\nHow it works\n\nIf your photo ID is a driving licence you will:\n • take a photo of your driving licence\n • scan your face using your phone\n\nIf your photo ID is a passport, BRP, BRC or FWP you will:\n • take a photo of your photo ID\n • scan the biometric chip in your photo ID using your phone\n • scan your face using your phone\n\nWhat happens next\nThe app only helps confirm your identity. You will return to the website of the government service you were accessing to view the results of your identity check.\n\nPrivacy and security\nYour personal information will not be stored in the app, or on the phone when you finish using it. We collect your data securely and delete it when it is no longer needed.",
+      "averageUserRating": 4.636,
+      "contentAdvisoryRating": "4+",
+      "trackCensoredName": "GOV.UK ID Check",
+      "trackViewUrl": "https://apps.apple.com/gb/app/gov-uk-id-check/id1629050566?uo=4",
+      "averageUserRatingForCurrentVersion": 4.636,
+      "minimumOsVersion": "16.7",
+      "languageCodesISO2A": [
+        "EN",
+        "CY"
+      ],
+      "fileSizeBytes": "29177856",
+      "formattedPrice": "Free",
+      "userRatingCountForCurrentVersion": 214215,
+      "trackContentRating": "4+",
+      "userRatingCount": 214215,
       "country": "GBR"
     }
   ]
