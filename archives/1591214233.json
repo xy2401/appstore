@@ -73,14 +73,25 @@
       "country": "gb",
       "mediaType": "apps",
       "feed": "top-free",
-      "rank": 5,
+      "rank": 18,
       "artistName": "InPost UK Ltd",
       "id": "1591214233",
       "name": "InPost UK",
       "releaseDate": "2021-11-23",
       "kind": "apps",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/1a/ab/631aabe9-3d03-ef9a-6d4e-1faa59c69896/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "genres": [],
+      "genres": [
+        {
+          "genreId": "6012",
+          "name": "Lifestyle",
+          "url": "https://itunes.apple.com/gb/genre/id6012"
+        },
+        {
+          "genreId": "6024",
+          "name": "Shopping",
+          "url": "https://itunes.apple.com/gb/genre/id6024"
+        }
+      ],
       "url": "https://apps.apple.com/gb/app/inpost-uk/id1591214233"
     }
   ]

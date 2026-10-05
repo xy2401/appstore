@@ -129,14 +129,25 @@
       "country": "us",
       "mediaType": "apps",
       "feed": "top-paid",
-      "rank": 7,
+      "rank": 14,
       "artistName": "Base Velocity, LLC",
       "id": "288419283",
       "name": "RadarScope",
       "releaseDate": "2019-02-12",
       "kind": "apps",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/7f/31/df7f31db-6974-a1fb-748d-f31b4d3c8f7e/App_Icon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/100x100bb.png",
-      "genres": [],
+      "genres": [
+        {
+          "genreId": "6001",
+          "name": "Weather",
+          "url": "https://itunes.apple.com/us/genre/id6001"
+        },
+        {
+          "genreId": "6002",
+          "name": "Utilities",
+          "url": "https://itunes.apple.com/us/genre/id6002"
+        }
+      ],
       "url": "https://apps.apple.com/us/app/radarscope/id288419283"
     }
   ]

@@ -129,14 +129,25 @@
       "country": "us",
       "mediaType": "apps",
       "feed": "top-free",
-      "rank": 9,
+      "rank": 16,
       "artistName": "Depop Ltd",
       "id": "518684914",
       "name": "Depop - Buy & Sell Clothes",
       "releaseDate": "2012-08-01",
       "kind": "apps",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/b7/d5/3db7d576-9d53-7f67-4351-1b63cfed0445/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "genres": [],
+      "genres": [
+        {
+          "genreId": "6024",
+          "name": "Shopping",
+          "url": "https://itunes.apple.com/us/genre/id6024"
+        },
+        {
+          "genreId": "6012",
+          "name": "Lifestyle",
+          "url": "https://itunes.apple.com/us/genre/id6012"
+        }
+      ],
       "url": "https://apps.apple.com/us/app/depop-buy-sell-clothes/id518684914"
     }
   ]

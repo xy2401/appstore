@@ -1,5 +1,5 @@
 {
-  "resultCount": 5,
+  "resultCount": 7,
   "results": [
     {
       "date": "20260901",
@@ -90,10 +90,39 @@
     },
     {
       "date": "20261001",
+      "country": "cn",
+      "mediaType": "music",
+      "feed": "top-songs",
+      "rank": 81,
+      "artistName": "ADÉLA",
+      "id": "6792884088",
+      "name": "Nicole Kidman",
+      "releaseDate": "2026-09-04",
+      "kind": "songs",
+      "artistId": "1765924916",
+      "artistUrl": "https://music.apple.com/cn/artist/ad%C3%A9la/1765924916",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "14",
+          "name": "国际流行",
+          "url": "https://itunes.apple.com/cn/genre/id14"
+        },
+        {
+          "genreId": "34",
+          "name": "音乐",
+          "url": "https://itunes.apple.com/cn/genre/id34"
+        }
+      ],
+      "url": "https://music.apple.com/cn/album/nicole-kidman/6792883860?i=6792884088"
+    },
+    {
+      "date": "20261001",
       "country": "de",
       "mediaType": "music",
       "feed": "top-songs",
-      "rank": 16,
+      "rank": 21,
       "artistName": "ADÉLA",
       "id": "6792884088",
       "name": "Nicole Kidman",
@@ -122,7 +151,7 @@
       "country": "gb",
       "mediaType": "music",
       "feed": "top-songs",
-      "rank": 12,
+      "rank": 13,
       "artistName": "ADÉLA",
       "id": "6792884088",
       "name": "Nicole Kidman",
@@ -145,6 +174,35 @@
         }
       ],
       "url": "https://music.apple.com/gb/album/nicole-kidman/6792883860?i=6792884088"
+    },
+    {
+      "date": "20261001",
+      "country": "us",
+      "mediaType": "music",
+      "feed": "top-songs",
+      "rank": 9,
+      "artistName": "ADÉLA",
+      "id": "6792884088",
+      "name": "Nicole Kidman",
+      "releaseDate": "2026-09-04",
+      "kind": "songs",
+      "artistId": "1765924916",
+      "artistUrl": "https://music.apple.com/us/artist/ad%C3%A9la/1765924916",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/100x100bb.jpg",
+      "genres": [
+        {
+          "genreId": "14",
+          "name": "Pop",
+          "url": "https://itunes.apple.com/us/genre/id14"
+        },
+        {
+          "genreId": "34",
+          "name": "Music",
+          "url": "https://itunes.apple.com/us/genre/id34"
+        }
+      ],
+      "url": "https://music.apple.com/us/album/nicole-kidman/6792883860?i=6792884088"
     }
   ]
 }
