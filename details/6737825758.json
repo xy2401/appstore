@@ -182,10 +182,11 @@
       "userRatingCount": 90
     },
     {
+      "isGameCenterEnabled": false,
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/3f/ed/783fed3a-3e95-c3cd-e001-a419826865fa/AppIcon-0-0-1x_U007emarketing-0-8-0-P3-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/3f/ed/783fed3a-3e95-c3cd-e001-a419826865fa/AppIcon-0-0-1x_U007emarketing-0-8-0-P3-85-220.png/100x100bb.jpg",
       "artistViewUrl": "https://apps.apple.com/jp/developer/takahide-kambe/id1502914652?uo=4",
-      "isGameCenterEnabled": false,
+      "features": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -318,38 +319,41 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "features": [],
       "advisories": [],
       "kind": "software",
+      "ipadScreenshotUrls": [],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/3f/ed/783fed3a-3e95-c3cd-e001-a419826865fa/AppIcon-0-0-1x_U007emarketing-0-8-0-P3-85-220.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/86/57/8f/86578f9a-da94-e4bc-78dd-545a97e79c63/large-01.jpeg/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/08/49/fb/0849fb01-2f6a-26ab-ac8f-eec62a48a5fd/large-02.jpeg/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e7/26/09/e7260989-31fb-31ba-a25e-2b7fe4df40e0/large-03.jpeg/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0e/00/17/0e0017c1-79bf-5cbb-fca1-a4c82f94cb98/large-04.jpeg/320x480bb.jpg"
       ],
-      "ipadScreenshotUrls": [],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/3f/ed/783fed3a-3e95-c3cd-e001-a419826865fa/AppIcon-0-0-1x_U007emarketing-0-8-0-P3-85-220.png/512x512bb.jpg",
       "minimumOsVersion": "15.6",
+      "releaseNotes": "・軽微なバグを修正",
       "contentAdvisoryRating": "17+",
       "trackCensoredName": "SCOA対策 言語　就活・転職対策アプリ",
       "trackViewUrl": "https://apps.apple.com/jp/app/scoa%E5%AF%BE%E7%AD%96-%E8%A8%80%E8%AA%9E-%E5%B0%B1%E6%B4%BB-%E8%BB%A2%E8%81%B7%E5%AF%BE%E7%AD%96%E3%82%A2%E3%83%97%E3%83%AA/id6737825758?uo=4",
       "averageUserRating": 4.55356,
+      "artistId": 1502914652,
+      "artistName": "Takahide Kambe",
       "genres": [
         "教育"
       ],
-      "artistName": "Takahide Kambe",
       "price": 500,
-      "artistId": 1502914652,
       "bundleId": "com.moakly.scoav",
-      "trackId": 6737825758,
-      "trackName": "SCOA対策 言語　就活・転職対策アプリ",
-      "releaseNotes": "・軽微なバグを修正",
+      "currentVersionReleaseDate": "2025-04-01T23:20:24Z",
+      "releaseDate": "2024-11-18T08:00:00Z",
+      "genreIds": [
+        "6017"
+      ],
       "primaryGenreName": "Education",
       "primaryGenreId": 6017,
-      "releaseDate": "2024-11-18T08:00:00Z",
+      "trackId": 6737825758,
+      "trackName": "SCOA対策 言語　就活・転職対策アプリ",
       "sellerName": "Takahide Kambe",
-      "currentVersionReleaseDate": "2025-04-01T23:20:24Z",
+      "isVppDeviceBasedLicensingEnabled": true,
       "version": "1.0.3",
       "wrapperType": "software",
       "currency": "JPY",
@@ -363,10 +367,6 @@
       "formattedPrice": "¥500",
       "userRatingCountForCurrentVersion": 112,
       "trackContentRating": "17+",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "genreIds": [
-        "6017"
-      ],
       "userRatingCount": 112,
       "country": "JPN"
     }

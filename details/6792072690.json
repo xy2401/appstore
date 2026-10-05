@@ -2,6 +2,7 @@
   "resultCount": 1,
   "results": [
     {
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/66/07/04/6607041b-a63c-a1a2-9c5a-61728ed900f6/01-today-1320x2868.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a3/43/d8/a343d846-5753-66ae-fa1b-b45e5e11d30a/02-leave-1320x2868.png/320x480bb.jpg",
@@ -20,7 +21,9 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/29/c1/fd29c170-1f31-6909-d3fd-f49e4a0efea1/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -154,14 +157,12 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "advisories": [],
       "kind": "software",
-      "features": [
-        "iosUniversal"
-      ],
       "artistViewUrl": "https://apps.apple.com/cn/developer/%E5%A4%AA%E5%BD%AC-%E9%83%AD/id6792054754?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/29/c1/fd29c170-1f31-6909-d3fd-f49e4a0efea1/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/29/c1/fd29c170-1f31-6909-d3fd-f49e4a0efea1/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
-      "advisories": [],
+      "minimumOsVersion": "17.0",
       "averageUserRatingForCurrentVersion": 4.05714,
       "sellerUrl": "https://github.com/Chipmunk1995/banzhuren-ios-pages",
       "languageCodesISO2A": [
@@ -171,34 +172,33 @@
       "formattedPrice": "¥49.90",
       "userRatingCountForCurrentVersion": 35,
       "trackContentRating": "4+",
-      "minimumOsVersion": "17.0",
+      "artistId": 6792054754,
+      "artistName": "太彬 郭",
       "genres": [
         "效率"
       ],
-      "artistId": 6792054754,
-      "artistName": "太彬 郭",
-      "bundleId": "cn.guotaibin.banzhuren",
-      "primaryGenreName": "Productivity",
-      "primaryGenreId": 6007,
+      "price": 49.9,
+      "releaseNotes": "修复更新后“我的课表”小组件可能只显示标题、课程内容空白的问题。\n中号课表采用两行两列，常规字号最多展示四项安排，突出班级、时间和科目，并以稳定颜色区分班级。\n优化较大字体和深浅色下的显示，保留剩余安排提示。",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "genreIds": [
+        "6007"
+      ],
+      "releaseDate": "2026-07-24T07:00:00Z",
       "trackName": "班主任工作台",
       "trackId": 6792072690,
-      "releaseNotes": "修复更新后“我的课表”小组件可能只显示标题、课程内容空白的问题。\n中号课表采用两行两列，常规字号最多展示四项安排，突出班级、时间和科目，并以稳定颜色区分班级。\n优化较大字体和深浅色下的显示，保留剩余安排提示。",
+      "sellerName": "太彬 郭",
+      "primaryGenreName": "Productivity",
+      "primaryGenreId": 6007,
       "currentVersionReleaseDate": "2026-09-29T20:13:56Z",
       "version": "2.8.1",
       "wrapperType": "software",
       "currency": "CNY",
       "description": "班主任工作台是一款面向一线教师的班级管理工具，把每天反复出现的事务集中到清晰、安静的工作台中。\n\n【今日工作台】\n集中查看待办、考试倒计时、本班课表、教师个人课表与班级动态。支持带时间提醒、桌面小组件、主屏幕快捷操作及 iPhone Action Button 语音记待办。\n\n【日常事务】\n记录请假、销假、违纪、量化积分、处分跟踪、作业跟进、值日、用餐登记、班级收支、宿舍管理、培优辅差及课后服务。\n\n【学生与成绩】\n支持手动添加或从 Excel、CSV 导入学生、成绩和课表。支持学生档案、拼音检索、年级/市级等排名趋势、全班历次成绩进退、分组、积分、宿舍及座位安排，并可导出 PDF、Excel、Word 等资料。\n\n【工作留痕】\n保存班级活动、主题班会、安全教育和学生沟通记录。支持照片时间水印、录音、签名、附件、关联学生及多格式导出。\n\n【数据与备份】\n无需注册或登录，不含广告、追踪或开发者统计服务。业务数据默认保存在设备中；用户可主动导出完整备份，也可自行选择使用 Apple iCloud Drive 保存完整备份，或启用可选的照片原图存储。iCloud 功能由用户主动控制，数据不会上传至开发者服务器。\n\n支持小学、初中、高中、职业学校及大学辅导员等不同工作场景，部分入口会根据学段自动调整。",
-      "averageUserRating": 4.05714,
+      "bundleId": "cn.guotaibin.banzhuren",
       "trackCensoredName": "班主任工作台",
       "trackViewUrl": "https://apps.apple.com/cn/app/%E7%8F%AD%E4%B8%BB%E4%BB%BB%E5%B7%A5%E4%BD%9C%E5%8F%B0/id6792072690?uo=4",
+      "averageUserRating": 4.05714,
       "contentAdvisoryRating": "4+",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseDate": "2026-07-24T07:00:00Z",
-      "price": 49.9,
-      "sellerName": "太彬 郭",
-      "genreIds": [
-        "6007"
-      ],
       "userRatingCount": 35,
       "country": "CHN"
     }

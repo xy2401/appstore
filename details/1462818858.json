@@ -2,9 +2,7 @@
   "resultCount": 1,
   "results": [
     {
-      "artistViewUrl": "https://apps.apple.com/jp/developer/zoom-communications-inc/id530594111?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/4e/90/d44e900d-7736-cd80-5943-903eb9ef6acc/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/4e/90/d44e900d-7736-cd80-5943-903eb9ef6acc/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.jpg",
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/42/c1/47/42c1472f-8739-735d-8280-3aa0d4f10d1d/a83d387b-0fb0-4ce7-8032-481100113811_1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/17/bc/ef/17bcefdb-e664-67f7-9281-54037d0bea41/3b51a48b-b224-4973-9ff7-7aa684d1eb0a_2.jpg/392x696bb.jpg",
@@ -26,11 +24,14 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/4e/90/d44e900d-7736-cd80-5943-903eb9ef6acc/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
+      "advisories": [],
+      "kind": "software",
       "features": [
         "iosUniversal"
       ],
-      "advisories": [],
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/4e/90/d44e900d-7736-cd80-5943-903eb9ef6acc/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/4e/90/d44e900d-7736-cd80-5943-903eb9ef6acc/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/jp/developer/zoom-communications-inc/id530594111?uo=4",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -163,13 +164,7 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "kind": "software",
-      "trackCensoredName": "Zoom Workplace for Intune",
-      "trackViewUrl": "https://apps.apple.com/jp/app/zoom-workplace-for-intune/id1462818858?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.4985,
-      "averageUserRatingForCurrentVersion": 4.4985,
-      "sellerUrl": "https://zoom.us",
+      "averageUserRatingForCurrentVersion": 4.49594,
       "languageCodesISO2A": [
         "NL",
         "EN",
@@ -191,35 +186,40 @@
       ],
       "fileSizeBytes": "378856448",
       "formattedPrice": "無料",
-      "userRatingCountForCurrentVersion": 3693,
+      "userRatingCountForCurrentVersion": 3706,
       "trackContentRating": "4+",
+      "sellerUrl": "https://zoom.us",
+      "artistId": 530594111,
+      "artistName": "Zoom Communications, Inc.",
       "genres": [
         "ビジネス",
         "仕事効率化"
       ],
-      "primaryGenreName": "Business",
-      "primaryGenreId": 6000,
+      "price": 0,
+      "trackId": 1462818858,
       "bundleId": "us.zoom.videomeetings4intune",
-      "releaseNotes": "-Bug fixes and improvements",
       "genreIds": [
         "6000",
         "6007"
       ],
       "releaseDate": "2019-05-24T00:24:35Z",
-      "isVppDeviceBasedLicensingEnabled": true,
+      "primaryGenreName": "Business",
+      "primaryGenreId": 6000,
       "sellerName": "Zoom Communications, Inc.",
-      "trackId": 1462818858,
-      "trackName": "Zoom Workplace for Intune",
+      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-09-28T05:48:29Z",
       "version": "7.2.1",
       "wrapperType": "software",
       "currency": "JPY",
       "description": "Zoom Workplace for Intune is for admins to organize and help protect BYOD environments with mobile application management (MAM). This app helps admins to protect corporate data while keeping employees connected.\n\nReimagine how you work with Zoom Workplace, an all-in-one, AI-powered collaboration platform that combines team chat, meetings, phone, whiteboard, calendar, mail, notes, and more.\n\nIf you are looking for the end-user version of Zoom Workplace, download it here: https://itunes.apple.com/us/app/zoom-cloud-meetings/id546505307?mt=8\n\nZoom Workplace for Intune gives enterprise users all the features they expect from Zoom, while providing IT administrators expanded mobile app management capabilities to help prevent leakage of company information. And in the event of a lost or stolen device, IT can remove Zoom Workplace from the iPhone or iPad, along with any sensitive data associated with it.\n\nIMPORTANT: This software requires your company’s work account and a Microsoft managed environment. Some functionality may not be available in all countries. If you have issues with this software or have questions about the use of it (including questions about your company’s privacy policy), please contact your company’s IT Administrator.\n\nFollow us on social media @zoom\n\nHave a question? Contact us at http://support.zoom.us.",
       "minimumOsVersion": "17.0",
-      "artistId": 530594111,
-      "artistName": "Zoom Communications, Inc.",
-      "price": 0,
-      "userRatingCount": 3693,
+      "averageUserRating": 4.49594,
+      "contentAdvisoryRating": "4+",
+      "trackCensoredName": "Zoom Workplace for Intune",
+      "trackViewUrl": "https://apps.apple.com/jp/app/zoom-workplace-for-intune/id1462818858?uo=4",
+      "trackName": "Zoom Workplace for Intune",
+      "releaseNotes": "-Bug fixes and improvements",
+      "userRatingCount": 3706,
       "country": "JPN"
     }
   ]

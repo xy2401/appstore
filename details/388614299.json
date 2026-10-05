@@ -2,6 +2,9 @@
   "resultCount": 1,
   "results": [
     {
+      "artistViewUrl": "https://apps.apple.com/fr/developer/pathe-cinemas-services/id388614302?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/e3/b0/dfe3b0ac-aa0c-d387-ddad-39dcc351673e/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/e3/b0/dfe3b0ac-aa0c-d387-ddad-39dcc351673e/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d1/6c/de/d16cdebb-fbeb-ebcc-3d83-8c0ece286f97/a01fe292-2d5f-420d-8d0a-546a79300dfc_Screen__U00231.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/18/48/90/184890c9-386b-677c-69d3-40c332c7a83e/1dca1d2f-a1cb-419a-87e7-628baf40b565_Screen__U00232.png/392x696bb.png",
@@ -18,10 +21,10 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/c0/e7/38c0e7f1-d528-381c-02e7-599ed6c0c048/pr_source.png/576x768bb.png"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/af/32/b3af320e-1662-d621-0455-3c5175e952ea/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/fr/developer/pathe-cinemas-services/id388614302?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/af/32/b3af320e-1662-d621-0455-3c5175e952ea/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/af/32/b3af320e-1662-d621-0455-3c5175e952ea/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/e3/b0/dfe3b0ac-aa0c-d387-ddad-39dcc351673e/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
       "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
@@ -156,19 +159,24 @@
         "iPhoneDuo-iPhoneDuo"
       ],
       "advisories": [
-        "Scènes rares/modérées de violence réaliste",
-        "Scènes rares/modérées réservées aux adultes (suggestives)",
-        "Scènes rares/modérées d’horreur ou d’épouvante",
-        "Simulations rares/modérées de jeu de hasard",
         "Scènes rares/modérées de violence (animation ou fantastique)",
-        "Scènes rares/modérées à caractère sexuel ou de nudité",
+        "Simulations rares/modérées de jeu de hasard",
         "Scènes rares/modérées d’humour vulgaire ou blasphématoire",
-        "Scènes rares/modérées de consommation ou de référence à l’alcool, au tabac ou à la drogue"
+        "Scènes rares/modérées de consommation ou de référence à l’alcool, au tabac ou à la drogue",
+        "Scènes rares/modérées d’horreur ou d’épouvante",
+        "Scènes rares/modérées de violence réaliste",
+        "Scènes rares/modérées à caractère sexuel ou de nudité",
+        "Scènes rares/modérées réservées aux adultes (suggestives)"
       ],
       "kind": "software",
-      "features": [
-        "iosUniversal"
-      ],
+      "minimumOsVersion": "17.0",
+      "averageUserRating": 4.35444,
+      "trackCensoredName": "Pathé France",
+      "trackViewUrl": "https://apps.apple.com/fr/app/path%C3%A9-france/id388614299?uo=4",
+      "contentAdvisoryRating": "12+",
+      "currentVersionReleaseDate": "2026-10-03T12:50:24Z",
+      "releaseNotes": "Cette mise à jour inclut des corrections d’anomalies pour rendre votre navigation toujours plus fluide. \nN'hésitez pas à nous écrire si vous rencontrez des difficultés sur l'application depuis : Comptes > Paramètres > A propos de l'application > Signaler un problème",
+      "averageUserRatingForCurrentVersion": 4.35444,
       "sellerUrl": "https://www.pathe.fr",
       "languageCodesISO2A": [
         "NL",
@@ -176,40 +184,32 @@
         "FR",
         "DE"
       ],
-      "fileSizeBytes": "94440448",
+      "fileSizeBytes": "95503360",
       "formattedPrice": "Gratuit",
-      "userRatingCountForCurrentVersion": 51113,
+      "userRatingCountForCurrentVersion": 51117,
       "trackContentRating": "12+",
-      "minimumOsVersion": "17.0",
-      "averageUserRatingForCurrentVersion": 4.35463,
-      "trackCensoredName": "Pathé France",
-      "trackViewUrl": "https://apps.apple.com/fr/app/path%C3%A9-france/id388614299?uo=4",
-      "contentAdvisoryRating": "12+",
-      "averageUserRating": 4.35463,
       "artistId": 388614302,
       "artistName": "Pathe Cinemas Services",
+      "genres": [
+        "Divertissement"
+      ],
+      "price": 0,
+      "primaryGenreName": "Entertainment",
+      "primaryGenreId": 6016,
+      "releaseDate": "2010-09-01T07:00:00Z",
       "genreIds": [
         "6016"
       ],
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseDate": "2010-09-01T07:00:00Z",
       "sellerName": "Pathe Cinemas Services",
       "trackId": 388614299,
       "trackName": "Pathé France",
-      "primaryGenreName": "Entertainment",
-      "primaryGenreId": 6016,
-      "releaseNotes": "Cette mise à jour inclut des corrections d’anomalies pour rendre votre navigation toujours plus fluide. \nN'hésitez pas à nous écrire si vous rencontrez des difficultés sur l'application depuis : Comptes > Paramètres > A propos de l'application > Signaler un problème",
-      "version": "10.9",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "version": "10.9.1",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "L’expérience de cinéma n’a jamais été aussi simple et sûre avec l’Application des cinémas Pathé. \n  \n-  Privilégiez la réservation en ligne, payez en toute simplicité (inclus Apple Pay) et bénéficiez d’un accès rapide à votre séance ! \n- Vous profiterez du nouveau Compte Pathé : Des remises immédiates sur tous vos achats de confiseries et boissons, une place offerte pour votre anniversaire, des surprises personnalisées. \n- Découvrez tous les films à l’affiche et à venir, et consultez les bandes annonces pour ne rien manquer des sorties cinéma ! \n- Consultez les séances autour de vous, ou dans vos cinémas favoris, en un coup d’œil. \n- Retrouvez vos CinéCartes et vos avantages dans votre Comte Pathé. \n- Accédez rapidement et sans contact à nos salles avec votre billet avec Apple Wallet. \n\nA très vite dans nos salles ! \n\nApplication optimisée pour iPhone.",
       "bundleId": "au.com.harbourmedia.apps.PatheFrance",
-      "genres": [
-        "Divertissement"
-      ],
-      "currentVersionReleaseDate": "2026-09-12T07:47:33Z",
-      "price": 0,
-      "userRatingCount": 51113,
+      "userRatingCount": 51117,
       "country": "FRA"
     }
   ]

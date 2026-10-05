@@ -175,10 +175,13 @@
       "userRatingCount": 36
     },
     {
+      "isGameCenterEnabled": false,
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/32/fc/3c/32fc3c0b-3a1f-85d3-496c-106bc211816e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/32/fc/3c/32fc3c0b-3a1f-85d3-496c-106bc211816e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
       "artistViewUrl": "https://apps.apple.com/jp/developer/rumahsaku-corp/id1828221168?uo=4",
-      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -311,11 +314,14 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "features": [
-        "iosUniversal"
-      ],
       "advisories": [],
       "kind": "software",
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a4/d6/f5/a4d6f5e2-435a-52a0-2f29-17d063d48e93/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2025-08-28_at_20.25.49.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/78/87/89/78878989-9614-1e46-0568-b3db8ec19cce/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2025-08-28_at_20.25.30.png/360x480bb.jpg"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/32/fc/3c/32fc3c0b-3a1f-85d3-496c-106bc211816e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/51/f0/44/51f0441d-a68b-9ed6-3de4-55445afe617e/Apple_iPhone_16_Pro_Max_Screenshot_1.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ba/cc/ff/baccff41-5a83-57e2-a4b4-07c6ac660d3a/Apple_iPhone_16_Pro_Max_Screenshot_2.png/320x480bb.jpg",
@@ -324,32 +330,30 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/61/70/bb/6170bb17-5a1f-c744-83b7-0494eef1f55b/Apple_iPhone_16_Pro_Max_Screenshot_4.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/24/dc/c9/24dcc95b-edfd-42f5-44d8-927349534083/Apple_iPhone_16_Pro_Max_Screenshot_6.png/320x480bb.jpg"
       ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a4/d6/f5/a4d6f5e2-435a-52a0-2f29-17d063d48e93/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2025-08-28_at_20.25.49.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/78/87/89/78878989-9614-1e46-0568-b3db8ec19cce/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2025-08-28_at_20.25.30.png/360x480bb.jpg"
-      ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/32/fc/3c/32fc3c0b-3a1f-85d3-496c-106bc211816e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "minimumOsVersion": "13.0",
+      "releaseNotes": "第５版対応、その他改善",
       "contentAdvisoryRating": "4+",
       "trackCensoredName": "ドローン国家資格対策",
       "trackViewUrl": "https://apps.apple.com/jp/app/%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%9B%BD%E5%AE%B6%E8%B3%87%E6%A0%BC%E5%AF%BE%E7%AD%96/id6751636397?uo=4",
       "averageUserRating": 4.40984,
+      "artistId": 1828221168,
+      "artistName": "RUMAHSAKU CORP.",
       "genres": [
         "教育"
       ],
-      "artistName": "RUMAHSAKU CORP.",
       "price": 800,
-      "artistId": 1828221168,
       "bundleId": "com.rumahsaku.drone",
-      "trackId": 6751636397,
-      "trackName": "ドローン国家資格対策",
-      "releaseNotes": "第５版対応、その他改善",
+      "currentVersionReleaseDate": "2026-07-27T16:04:24Z",
+      "releaseDate": "2025-09-03T07:00:00Z",
+      "genreIds": [
+        "6017"
+      ],
       "primaryGenreName": "Education",
       "primaryGenreId": 6017,
-      "releaseDate": "2025-09-03T07:00:00Z",
+      "trackId": 6751636397,
+      "trackName": "ドローン国家資格対策",
       "sellerName": "RUMAHSAKU CORP.",
-      "currentVersionReleaseDate": "2026-07-27T16:04:24Z",
+      "isVppDeviceBasedLicensingEnabled": true,
       "version": "1.2.0",
       "wrapperType": "software",
       "currency": "JPY",
@@ -363,10 +367,6 @@
       "formattedPrice": "¥800",
       "userRatingCountForCurrentVersion": 122,
       "trackContentRating": "4+",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "genreIds": [
-        "6017"
-      ],
       "userRatingCount": 122,
       "country": "JPN"
     }

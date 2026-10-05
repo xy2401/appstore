@@ -186,6 +186,7 @@
       "userRatingCount": 32
     },
     {
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/91/fe/1c/91fe1ca2-2868-c805-8264-2513f74d80cf/_U4e00_U6b65_U5230_U4f4d.jpg/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/de/ef/b8/deefb862-3973-4380-6427-360a66ccf17a/_U901f_U4f20.jpg/320x480bb.jpg",
@@ -211,8 +212,10 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/18/fd/33/18fd3335-e32d-4f6a-b8a0-042828cbbb0a/_U5373_U62cd_U5373_U4f20.jpg/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/ad/04/c4ad0488-c6d3-3b45-47c3-f861b9881b52/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/05/2e/37052e27-57c9-63da-efca-94c2066896cc/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -345,14 +348,12 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "kind": "software",
-      "features": [
-        "iosUniversal"
-      ],
-      "artistViewUrl": "https://apps.apple.com/cn/developer/%E6%A0%8B-%E5%BC%A0/id1859653493?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/ad/04/c4ad0488-c6d3-3b45-47c3-f861b9881b52/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/ad/04/c4ad0488-c6d3-3b45-47c3-f861b9881b52/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
       "advisories": [],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/cn/developer/%E6%A0%8B-%E5%BC%A0/id1859653493?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/05/2e/37052e27-57c9-63da-efca-94c2066896cc/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/05/2e/37052e27-57c9-63da-efca-94c2066896cc/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+      "minimumOsVersion": "17.0",
       "averageUserRatingForCurrentVersion": 4.70833,
       "languageCodesISO2A": [
         "EN",
@@ -362,36 +363,35 @@
       "formattedPrice": "¥148.00",
       "userRatingCountForCurrentVersion": 72,
       "trackContentRating": "4+",
-      "minimumOsVersion": "17.0",
+      "artistId": 1859653493,
+      "artistName": "栋 张",
       "genres": [
         "摄影与录像",
         "工具"
       ],
-      "artistId": 1859653493,
-      "artistName": "栋 张",
-      "bundleId": "com.dongzhang.ZControl",
-      "primaryGenreName": "Photo & Video",
-      "primaryGenreId": 6008,
+      "price": 148,
+      "releaseNotes": "- 优化影控台账号页面使用体验、界面，新增设备管理功能。\n- 机内图库新增原始画面与调整后画面对比，并优化预览效果的缩略图加载。\n- 为快速批量下载新增 “仅RAW 文件”选项，优化照片星级筛选。\n- 修复图库可能不能正常显示速传已下载照片的问题\n- 消除一个Tab栏消失风险\n- 其他问题修复与优化\n- 为猫咪准备国庆假期的伙食",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "genreIds": [
+        "6008",
+        "6002"
+      ],
+      "releaseDate": "2026-07-02T07:00:00Z",
       "trackName": "影控台",
       "trackId": 6768196167,
-      "releaseNotes": "- 优化影控台账号页面使用体验、界面，新增设备管理功能。\n- 机内图库新增原始画面与调整后画面对比，并优化预览效果的缩略图加载。\n- 为快速批量下载新增 “仅RAW 文件”选项，优化照片星级筛选。\n- 修复图库可能不能正常显示速传已下载照片的问题\n- 消除一个Tab栏消失风险\n- 其他问题修复与优化\n- 为猫咪准备国庆假期的伙食",
+      "sellerName": "栋 张",
+      "primaryGenreName": "Photo & Video",
+      "primaryGenreId": 6008,
       "currentVersionReleaseDate": "2026-09-27T23:08:56Z",
       "version": "2.4.0",
       "wrapperType": "software",
       "currency": "CNY",
       "description": "请订阅“视觉矿洞”微信公众号/哔哩哔哩/抖音，查看更多介绍、教程，以及摄影&视觉相关干货文章！\n\n影控台（Imaging Console）是一款第三方专业相机控制、监看与文件传输应用，兼容尼康 Z 系列微单及电影机。\n\n**兼容情况**\nExpeed 7代机型（Z9、Z8、ZR、Z6III、Z5II、Zf、Z50II）完全兼容，可发挥App所有功能；\nExpeed 6代机型（Z5、Z6、Z7、Z6II、Z7II、Z50、Z30、Zfc）无法享受群组功能，无线连接方面：使用“连接至智能设备”可进行控制、监看、机内文件访问，使用“连接至计算机”可进行控制、监看。\n\n重要声明\n影控台为独立开发的第三方产品，与 Nikon Corporation、RED Digital Cinema 及其关联公司不存在任何隶属、合作、授权或认可关系。文中提及的 Nikon、RED 及相关产品名称仅用于说明设备兼容性。\n\n核心功能\n\n混合连接与状态调度\n支持 USB（MTP/PTP）及无线（PTP/IP）连接方式，包括相机热点、Wi-Fi 和移动热点。支持单机控制及多机群组控制。\n\n多机集群控制\n支持 1:N 无线群组管理，可同步触发照片、视频及混合拍摄，多机实时监看，并支持部分特殊拍摄模式的同步控制。\n\nLive View 实时监看\n提供实时取景及重点参数控制，支持触控对焦，并提供 LUT 实时预览、伪色、斑马纹、直方图、波形图、安全区、水平仪及取景网格等专业监看辅助工具。\n\n机内文件管理\n支持浏览、回放、下载、保护、评级及 LUT 预览，支持批量下载及丰富筛选功能。部分旗舰机型支持语音备忘录管理。\n\n速传工作流\n自动下载新拍摄的文件，或在相机端将选中的文件标记为保护，直接传入影控台。可选择保存至图库、照片或文件，自动附加 GPS、IPTC 与版权元数据，并支持无卡拍摄工作流。无需中断相机操作，即可更快地查看、编辑和交付精选内容。\n\nLUT 与图像优化\n支持导入自定义 LUT 与优化校准文件，可应用于实时监看、机内文件浏览、拍摄后快速预览及 App 图库浏览等多种工作流程。\n\n实况照片（LivePhoto）生成导出\n支持机内视频文件、图库导入视频文件灵活导出实况照片，支持HDR保留，支持GPS位置自动附加等。\n\n影控台致力于为专业摄影师、影视制作人员及影像创作者提供稳定、高效的专业拍摄工作流。",
-      "averageUserRating": 4.70833,
+      "bundleId": "com.dongzhang.ZControl",
       "trackCensoredName": "影控台",
       "trackViewUrl": "https://apps.apple.com/cn/app/%E5%BD%B1%E6%8E%A7%E5%8F%B0/id6768196167?uo=4",
+      "averageUserRating": 4.70833,
       "contentAdvisoryRating": "4+",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseDate": "2026-07-02T07:00:00Z",
-      "price": 148,
-      "sellerName": "栋 张",
-      "genreIds": [
-        "6008",
-        "6002"
-      ],
       "userRatingCount": 72,
       "country": "CHN"
     }

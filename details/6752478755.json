@@ -186,12 +186,6 @@
       "userRatingCount": 26
     },
     {
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/af/bc/a0afbc69-e39c-09c7-e2c2-3b671676c420/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/af/bc/a0afbc69-e39c-09c7-e2c2-3b671676c420/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
-      "advisories": [],
-      "isGameCenterEnabled": false,
-      "artistViewUrl": "https://apps.apple.com/de/developer/holger-heidkamp/id1231369869?uo=4",
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/af/bc/a0afbc69-e39c-09c7-e2c2-3b671676c420/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1a/70/d8/1a70d822-184f-7c32-eba0-792e4cb25156/01-board-hell.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/52/b9/84/52b98413-b97e-9cd2-f646-140195ed7687/02-anstehend-hell.png/320x480bb.jpg",
@@ -202,6 +196,7 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fe/30/d6/fe30d641-c6c1-f611-7b74-580acb50fda3/07-einstellungen-darstellung-dunkel.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b7/8d/f0/b78df05f-aec4-1aeb-1613-b3160b990774/08-einstellungen-sprache-dunkel.png/320x480bb.jpg"
       ],
+      "isGameCenterEnabled": false,
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/34/3b/b7/343bb7a9-2e79-9c1c-ec0c-e74e882ae58f/APPSTORE_IPAD_Simulator_Screenshot_-_iPad_-_2026-01-26_at_21.37.43.jpeg/360x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/53/db/ad/53dbad51-338c-ab91-7b8d-57819271ea9b/APPSTORE_IPAD_Simulator_Screenshot_-_iPad_-_2026-01-26_at_21.37.37.jpeg/360x480bb.jpg",
@@ -215,6 +210,13 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/45/bc/20/45bc205b-5970-b9de-8c58-1d1e1f7a14b3/APPSTORE_IPAD_Simulator_Screenshot_-_iPad_-_2026-01-26_at_21.38.24.jpeg/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/3b/b9/9a3bb95d-d424-1e97-efff-ef7d44b6c8e4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/3b/b9/9a3bb95d-d424-1e97-efff-ef7d44b6c8e4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/3b/b9/9a3bb95d-d424-1e97-efff-ef7d44b6c8e4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/de/developer/holger-heidkamp/id1231369869?uo=4",
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -347,49 +349,47 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "advisories": [],
       "kind": "software",
-      "features": [
-        "iosUniversal"
-      ],
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4,
-      "releaseDate": "2025-09-23T07:00:00Z",
-      "currentVersionReleaseDate": "2026-09-25T02:28:41Z",
-      "trackCensoredName": "Next Deck",
-      "trackViewUrl": "https://apps.apple.com/de/app/next-deck/id6752478755?uo=4",
+      "minimumOsVersion": "26.2",
+      "releaseNotes": "- Behoben: Auf bestimmten Servern schlug das Laden archivierter Karten still fehl. War zusätzlich die Ansicht „Archivierte Karten\" aktiv, wirkten Boards dauerhaft leer — über Updates und Resets hinweg.\n- Die Archiv-Ansicht ist jetzt klar erkennbar: Ein oranges Band über dem Board zeigt sie an — einmal tippen schaltet zurück zu den aktiven Karten. Auch „Lokale Daten löschen\" setzt die Ansicht jetzt zurück.\n- Leere Boards laden sich beim Ansehen automatisch einmal nach — der „Aktualisieren\"-Knopf bleibt als Fallback.\n- Zugangsdaten-Speicherung gehärtet: Alle Felder werden nach dem Speichern verifiziert — ein seltener iOS-Fehler konnte sonst nach einem Account-Wechsel zu unerklärlichen Anmeldefehlern nach dem Neustart führen.\n- Diverse kleinere Verbesserungen an Synchronisierung und Drossel-Schutz.",
       "sellerUrl": "https://heidkamp.dev",
+      "averageUserRating": 4,
+      "trackCensoredName": "Next Deck",
       "languageCodesISO2A": [
         "EN"
       ],
       "fileSizeBytes": "29648896",
       "formattedPrice": "4,99 €",
+      "contentAdvisoryRating": "4+",
       "userRatingCountForCurrentVersion": 28,
+      "trackViewUrl": "https://apps.apple.com/de/app/next-deck/id6752478755?uo=4",
       "trackContentRating": "4+",
       "averageUserRatingForCurrentVersion": 4,
       "artistId": 1231369869,
       "artistName": "Holger Heidkamp",
+      "genres": [
+        "Produktivität",
+        "Dienst­programme"
+      ],
+      "price": 4.99,
+      "releaseDate": "2025-09-23T07:00:00Z",
+      "currentVersionReleaseDate": "2026-10-02T14:58:57Z",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "Holger Heidkamp",
+      "trackName": "Next Deck",
+      "trackId": 6752478755,
       "primaryGenreName": "Productivity",
       "primaryGenreId": 6007,
       "genreIds": [
         "6007",
         "6002"
       ],
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseNotes": "Fixing login Errors and adding more bug-reports!",
-      "sellerName": "Holger Heidkamp",
-      "trackName": "Next Deck",
-      "trackId": 6752478755,
-      "version": "2.4",
+      "version": "2.5",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Nextdeck ist der moderne, blitzschnelle Client für Nextcloud Deck – ideal für Kanban, Aufgaben und Projekte. Behalte Boards, Spalten und Karten jederzeit im Griff: per Drag & Drop verschieben, Details pflegen und den Überblick behalten – auf iPhone und iPad, im hellen wie im dunklen Design.\n\nHighlights\n\n- Drag & Drop: Karten innerhalb oder zwischen Spalten bewegen – präzise und intuitiv.\n- Reorder & Positionen: Karten gezielt vor einer anderen einfügen oder schnell nach oben/unten sortieren.\n- Labels & Farben: Farbcodes bringen sofortige Orientierung.\n- Fälligkeiten: Termine mit klarer, farblicher Dringlichkeitsanzeige.\n- Zuständigkeiten: Teammitglieder zuweisen und Verantwortung sichtbar machen.\n- Markdown‑Beschreibung: Inhalte schnell notieren, sauber lesbar im Vorschau‑Tile.\n- Kommentare & Anhänge: Relevantes kompakt als Zähler im Kartenvorschau‑Fuß.\n- Suche: Karten im Board sofort finden – ohne langes Scrollen.\n- iPhone & iPad optimiert: Kompakte Listen am Phone, breite Spalten am iPad.\n- Dark Mode & smarte Farben: Angenehme Kontraste, hohe Lesbarkeit.\n- Datenschutzfreundlich: Deine Daten bleiben auf deinem eigenen Nextcloud‑Server.\n\nWarum Nextdeck?\n\n- Fokus auf Geschwindigkeit: Flüssiges Scrollen, schnelle Reaktionen, minimale Wartezeiten.\n- Klar, aufgeräumt, nativ: Eine UI, die sich sofort richtig anfühlt.\n- Zuverlässige Synchronisierung: Änderungen werden sauber mit Nextcloud Deck abgeglichen.\n\nVoraussetzung: Eine laufende Nextcloud‑Instanz mit aktivierter Deck‑App. Melde dich mit Server‑URL, Benutzername und Passwort an – fertig. Alternativ kannst du auch lokal arbeiten – ganz ohne Nextcloud.",
-      "minimumOsVersion": "26.2",
       "bundleId": "com.example.nextdeck",
-      "genres": [
-        "Produktivität",
-        "Dienst­programme"
-      ],
-      "price": 4.99,
       "userRatingCount": 28,
       "country": "DEU"
     }

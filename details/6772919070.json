@@ -2,6 +2,7 @@
   "resultCount": 1,
   "results": [
     {
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/36/ab/c4/36abc451-a1cf-bf8b-bf76-a88c2c349c8b/Simulator_Screenshot_-_AppStore_iPhone_14_Plus_-_2026-06-28_at_19.30.19.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/34/cf/17/34cf1777-afd8-1d21-9583-a307c0f548e4/Simulator_Screenshot_-_AppStore_iPhone_14_Plus_-_2026-06-08_at_12.01.58.png/320x480bb.jpg",
@@ -19,8 +20,10 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/68/04/a9/6804a9d7-951b-e7d6-fd29-07869294a06c/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-06-08_at_12.11.40.png/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/02/69/b70269b1-bcb4-f71d-5b11-2d8903735c52/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/3d/c2/2b3dc249-1fe8-972b-0421-ef40003afca3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -153,14 +156,12 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "kind": "software",
-      "features": [
-        "iosUniversal"
-      ],
-      "artistViewUrl": "https://apps.apple.com/cn/developer/%E5%B3%B0-%E4%BA%8E/id6772845425?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/02/69/b70269b1-bcb4-f71d-5b11-2d8903735c52/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/02/69/b70269b1-bcb4-f71d-5b11-2d8903735c52/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
       "advisories": [],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/cn/developer/%E5%B3%B0-%E4%BA%8E/id6772845425?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/3d/c2/2b3dc249-1fe8-972b-0421-ef40003afca3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/3d/c2/2b3dc249-1fe8-972b-0421-ef40003afca3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+      "minimumOsVersion": "15.0",
       "averageUserRatingForCurrentVersion": 5,
       "sellerUrl": "https://github.com/54dashayu/FMO-Dashboard",
       "languageCodesISO2A": [
@@ -170,34 +171,33 @@
       "formattedPrice": "¥6.00",
       "userRatingCountForCurrentVersion": 3,
       "trackContentRating": "4+",
-      "minimumOsVersion": "15.0",
+      "artistId": 6772845425,
+      "artistName": "峰 于",
       "genres": [
         "工具"
       ],
-      "artistId": 6772845425,
-      "artistName": "峰 于",
-      "bundleId": "net.bh1jss.fmodashboard.ios",
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
+      "price": 6,
+      "releaseNotes": "修复 iOS 27 系统下启动时可能闪退的问题；新增中国大陆 App 备案号在 iOS/iPadOS App 底部的展示。",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "genreIds": [
+        "6002"
+      ],
+      "releaseDate": "2026-05-29T07:00:00Z",
       "trackName": "FMO- Dashboard",
       "trackId": 6772919070,
-      "releaseNotes": "修复 iOS 27 系统下启动时可能闪退的问题；新增中国大陆 App 备案号在 iOS/iPadOS App 底部的展示。",
+      "sellerName": "峰 于",
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
       "currentVersionReleaseDate": "2026-09-28T07:41:04Z",
       "version": "2.06.1",
       "wrapperType": "software",
       "currency": "CNY",
       "description": "FMO-Dashboard 是为业余无线电 FMO 用户设计的实时仪表盘与通联日志工具。\n\n它将 FMO 设备中的通联信息整理成更适合手机和平板查看的界面，帮助你在值守、收听和回顾通联记录时，更快了解当前网络中正在发生什么。\n\n主要功能：\n\n实时仪表盘\n打开 App 后可查看当前或最近发言呼号、QTH、网格、相对方位、距离、当前中继以及最近通联列表。\n\n通联日志\n支持同步和导入 FMO 通联日志，按时间查看通联记录，并展示呼号、时间、QTH、模式、中继、留言等信息。\n\n老朋友回溯\n自动识别历史通联过的呼号，支持查看与某个呼号的历史通联记录，方便快速回忆过往通联情况。\n\n呼号语音播报\n支持通联播报和新呼号提示，呼号可按 NATO 字母解释法播报，适合值守时减少频繁看屏幕的需求。\n\n多地址管理\n可保存多个 FMO 地址，支持局域网 IP、fmo.local 以及可访问的远程地址，便于在不同网络环境中使用。\n\n数据管理\n支持 FMO 日志导入、同步、备份和导出，方便在不同设备间保留和整理通联数据。\n\n本 App 在BH5HSJ的“FMOLogs”项目基础上开发，不是 FMO 官方应用，不提供无线电发射功能。它用于连接用户自己的 FMO 设备或查看用户导入的通联日志数据。",
-      "averageUserRating": 5,
+      "bundleId": "net.bh1jss.fmodashboard.ios",
       "trackCensoredName": "FMO- Dashboard",
       "trackViewUrl": "https://apps.apple.com/cn/app/fmo-dashboard/id6772919070?uo=4",
+      "averageUserRating": 5,
       "contentAdvisoryRating": "4+",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseDate": "2026-05-29T07:00:00Z",
-      "price": 6,
-      "sellerName": "峰 于",
-      "genreIds": [
-        "6002"
-      ],
       "userRatingCount": 3,
       "country": "CHN"
     }

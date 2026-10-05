@@ -3,6 +3,7 @@
   "results": [
     {
       "isGameCenterEnabled": false,
+      "advisories": [],
       "features": [
         "iosUniversal"
       ],
@@ -138,7 +139,6 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
       "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b9/d8/7b/b9d87b6d-d737-27e9-8d9f-4289b0d28146/1_ios_iphone6Plus_en-US_screen_1.png/392x696bb.png",
@@ -159,35 +159,36 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/49/cb/66/49cb66e6-6a51-7170-158e-eff96557bf63/6_ios_ipadPro_en-US_screen_6.png/576x768bb.png"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/c0/6f/9bc06fa3-8e85-ab3c-34e6-cae10f3e119c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/c0/6f/9bc06fa3-8e85-ab3c-34e6-cae10f3e119c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/c0/6f/9bc06fa3-8e85-ab3c-34e6-cae10f3e119c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
       "artistViewUrl": "https://apps.apple.com/gb/developer/dilltree-inc/id799017229?uo=4",
-      "minimumOsVersion": "15.0",
-      "currentVersionReleaseDate": "2026-09-06T09:14:55Z",
-      "artistId": 799017229,
-      "artistName": "Dilltree Inc",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/c0/6f/9bc06fa3-8e85-ab3c-34e6-cae10f3e119c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/c0/6f/9bc06fa3-8e85-ab3c-34e6-cae10f3e119c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
+      "releaseNotes": "- Updated app branding\n- Update to latest tracking build",
+      "price": 0,
+      "releaseDate": "2022-04-09T07:00:00Z",
       "genres": [
         "Sports",
         "Health & Fitness"
       ],
-      "price": 0,
+      "artistId": 799017229,
+      "artistName": "Dilltree Inc",
       "bundleId": "me.rtrt.app.gra",
-      "releaseNotes": "- Updated app branding\n- Update to latest tracking build",
-      "trackId": 1617132623,
+      "genreIds": [
+        "6004",
+        "6013"
+      ],
       "trackName": "Great Run: Running Events",
+      "trackId": 1617132623,
       "primaryGenreName": "Sports",
       "primaryGenreId": 6004,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseDate": "2022-04-09T07:00:00Z",
       "sellerName": "Dilltree Inc",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-09-06T09:14:55Z",
       "version": "8.3.0",
       "wrapperType": "software",
       "currency": "GBP",
       "description": "The official event day app of the AJ Bell Great Run Series. Get the most out of your race day experience with live tracking, access to split times and results, interactive course maps and the important information you need on the day.",
-      "averageUserRatingForCurrentVersion": 4.90444,
-      "averageUserRating": 4.90444,
-      "trackCensoredName": "Great Run: Running Events",
+      "minimumOsVersion": "15.0",
       "languageCodesISO2A": [
         "AR",
         "NL",
@@ -206,15 +207,14 @@
       ],
       "fileSizeBytes": "21411840",
       "formattedPrice": "Free",
-      "contentAdvisoryRating": "4+",
-      "userRatingCountForCurrentVersion": 1193,
-      "trackViewUrl": "https://apps.apple.com/gb/app/great-run-running-events/id1617132623?uo=4",
+      "userRatingCountForCurrentVersion": 1375,
       "trackContentRating": "4+",
-      "genreIds": [
-        "6004",
-        "6013"
-      ],
-      "userRatingCount": 1193,
+      "averageUserRatingForCurrentVersion": 4.90255,
+      "averageUserRating": 4.90255,
+      "trackCensoredName": "Great Run: Running Events",
+      "trackViewUrl": "https://apps.apple.com/gb/app/great-run-running-events/id1617132623?uo=4",
+      "contentAdvisoryRating": "4+",
+      "userRatingCount": 1375,
       "country": "GBR"
     }
   ]

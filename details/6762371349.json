@@ -185,10 +185,6 @@
       "userRatingCount": 0
     },
     {
-      "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -321,11 +317,16 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "features": [
+        "iosUniversal"
+      ],
       "advisories": [],
+      "isGameCenterEnabled": false,
       "kind": "software",
       "artistViewUrl": "https://apps.apple.com/jp/developer/kaerupanda-inc/id668508567?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/32/54/a73254fb-9850-93d4-1f3e-a20bb90947b9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/32/54/a73254fb-9850-93d4-1f3e-a20bb90947b9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/32/54/a73254fb-9850-93d4-1f3e-a20bb90947b9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/12/6d/3c/126d3cea-1946-e55e-061b-04b888fab748/Image_Sequence_023_0000.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e1/43/e9/e143e9c9-f779-6eb5-b0a1-4b66ee0898c8/Image_Sequence_010_0000.jpg/320x480bb.jpg",
@@ -342,27 +343,26 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/64/79/f9/6479f9be-d9bc-5bdf-0329-7ab7e4c96a3a/SS_ipad_MakucolleMINI_SBSeries.png/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/32/54/a73254fb-9850-93d4-1f3e-a20bb90947b9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "minimumOsVersion": "18.0",
+      "bundleId": "com.kaerupanda.Makucolle-TB-10030KT",
       "artistId": 668508567,
+      "price": 500,
       "artistName": "KAERUPANDA INC.",
       "genres": [
         "エンターテインメント",
         "旅行"
       ],
-      "price": 500,
-      "currentVersionReleaseDate": "2026-08-18T23:57:52Z",
       "trackId": 6762371349,
       "trackName": "幕コレMINI 東武鉄道10030型 近鉄ラッピング",
+      "primaryGenreName": "Entertainment",
+      "primaryGenreId": 6016,
       "genreIds": [
         "6016",
         "6003"
       ],
       "releaseDate": "2026-05-29T07:00:00Z",
-      "primaryGenreName": "Entertainment",
-      "primaryGenreId": 6016,
       "sellerName": "KAERUPANDA INC.",
       "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-08-18T23:57:52Z",
       "releaseNotes": "実車に合わせてイラストや幕の仕様を調整",
       "version": "1.0.1",
       "wrapperType": "software",
@@ -371,17 +371,17 @@
       "trackCensoredName": "幕コレMINI 東武鉄道10030型 近鉄ラッピング",
       "trackViewUrl": "https://apps.apple.com/jp/app/%E5%B9%95%E3%82%B3%E3%83%ACmini-%E6%9D%B1%E6%AD%A6%E9%89%84%E9%81%9310030%E5%9E%8B-%E8%BF%91%E9%89%84%E3%83%A9%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0/id6762371349?uo=4",
       "contentAdvisoryRating": "4+",
-      "bundleId": "com.kaerupanda.Makucolle-TB-10030KT",
+      "averageUserRating": 5,
+      "minimumOsVersion": "18.0",
       "averageUserRatingForCurrentVersion": 5,
       "languageCodesISO2A": [
         "JA"
       ],
       "fileSizeBytes": "234958848",
+      "sellerUrl": "https://www.kaerupanda.tokyo/makucollemini",
       "formattedPrice": "¥500",
       "userRatingCountForCurrentVersion": 1,
       "trackContentRating": "4+",
-      "averageUserRating": 5,
-      "sellerUrl": "https://www.kaerupanda.tokyo/makucollemini",
       "userRatingCount": 1,
       "country": "JPN"
     }

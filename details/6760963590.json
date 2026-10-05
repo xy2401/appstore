@@ -2,6 +2,9 @@
   "resultCount": 1,
   "results": [
     {
+      "artistViewUrl": "https://apps.apple.com/fr/developer/killian-fabro/id1887060001?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/c2/a1/ccc2a14c-2303-e4ba-71c6-18a9174e4779/AppIcon-1x_U007ephone-0-1-85-220-0.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/c2/a1/ccc2a14c-2303-e4ba-71c6-18a9174e4779/AppIcon-1x_U007ephone-0-1-85-220-0.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1d/b5/be/1db5be75-f9b6-2c21-5ab6-25e167b4faca/Capture_d_U2019e_U0301cran_U00a0._2026-03-22_a_U0300_12.52.55_resized.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1e/b4/6b/1eb46bc3-42b5-365c-a50f-2b7005e89e05/Capture_d_U2019e_U0301cran_U00a0._2026-03-22_a_U0300_12.54.20_resized.png/320x480bb.jpg",
@@ -17,9 +20,7 @@
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/c2/a1/ccc2a14c-2303-e4ba-71c6-18a9174e4779/AppIcon-1x_U007ephone-0-1-85-220-0.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/fr/developer/killian-fabro/id1887060001?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/c2/a1/ccc2a14c-2303-e4ba-71c6-18a9174e4779/AppIcon-1x_U007ephone-0-1-85-220-0.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/c2/a1/ccc2a14c-2303-e4ba-71c6-18a9174e4779/AppIcon-1x_U007ephone-0-1-85-220-0.png/100x100bb.jpg",
+      "features": [],
       "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
@@ -155,7 +156,14 @@
       ],
       "advisories": [],
       "kind": "software",
-      "features": [],
+      "minimumOsVersion": "15.1",
+      "averageUserRating": 4.71204,
+      "trackCensoredName": "Pyrowatch",
+      "trackViewUrl": "https://apps.apple.com/fr/app/pyrowatch/id6760963590?uo=4",
+      "contentAdvisoryRating": "4+",
+      "currentVersionReleaseDate": "2026-08-13T17:01:59Z",
+      "releaseNotes": "Recherche d'adresse ou de code DFCI directement sur la carte, avec zoom automatique\nNouveau fond de carte IGN — plus clair et plus lisible que l'ancien fond sombre\nNouveau statut « Fixé » pour mieux suivre l'évolution d'un feu confirmé\nLes notifications de commentaires vous amènent maintenant directement au commentaire concerné\nAdresse la plus proche et département affichés sur chaque signalement\nTirez vers le bas sur la fiche d'un feu pour l'actualiser en un geste",
+      "averageUserRatingForCurrentVersion": 4.71204,
       "languageCodesISO2A": [
         "FR"
       ],
@@ -163,37 +171,29 @@
       "formattedPrice": "Gratuit",
       "userRatingCountForCurrentVersion": 1403,
       "trackContentRating": "4+",
-      "minimumOsVersion": "15.1",
-      "averageUserRatingForCurrentVersion": 4.71204,
-      "trackCensoredName": "Pyrowatch",
-      "trackViewUrl": "https://apps.apple.com/fr/app/pyrowatch/id6760963590?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.71204,
       "artistId": 1887060001,
       "artistName": "Killian Fabro",
+      "genres": [
+        "Actualités",
+        "Utilitaires"
+      ],
+      "price": 0,
+      "primaryGenreName": "News",
+      "primaryGenreId": 6009,
+      "releaseDate": "2026-05-13T07:00:00Z",
       "genreIds": [
         "6009",
         "6002"
       ],
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseDate": "2026-05-13T07:00:00Z",
       "sellerName": "Killian Fabro",
       "trackId": 6760963590,
       "trackName": "Pyrowatch",
-      "primaryGenreName": "News",
-      "primaryGenreId": 6009,
-      "releaseNotes": "Recherche d'adresse ou de code DFCI directement sur la carte, avec zoom automatique\nNouveau fond de carte IGN — plus clair et plus lisible que l'ancien fond sombre\nNouveau statut « Fixé » pour mieux suivre l'évolution d'un feu confirmé\nLes notifications de commentaires vous amènent maintenant directement au commentaire concerné\nAdresse la plus proche et département affichés sur chaque signalement\nTirez vers le bas sur la fiche d'un feu pour l'actualiser en un geste",
+      "isVppDeviceBasedLicensingEnabled": true,
       "version": "8",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "PyroWatch est l'application citoyenne de surveillance et de signalement des incendies de forêt en région PACA (Provence-Alpes-Côte d'Azur).\n\nCARTE EN TEMPS RÉEL\nVisualisez instantanément tous les feux signalés et confirmés autour de vous. La carte se met à jour automatiquement dès qu'un nouvel incendie est détecté ou confirmé par les équipes de surveillance.\n\nSIGNALEMENT CITOYEN\nVous observez un départ de feu ? Signalez-le en quelques secondes : prenez une photo, votre position GPS est capturée automatiquement, ajoutez une description et envoyez. Votre signalement est immédiatement transmis.\n\nALERTES INSTANTANÉES\nRecevez une notification push dès qu'un incendie est confirmé dans les massifs que vous suivez. Ne manquez aucune alerte critique près de chez vous.\n\nNIVEAUX D'ACCÈS MASSIFS\nConsultez en temps réel les niveaux d'accès aux massifs forestiers conformément aux arrêtés préfectoraux en vigueur : de Vert (accès libre) à Rouge (accès interdit). Planifiez vos sorties en toute sécurité.\n\nACTUALITÉS & ARRÊTÉS\nRestez informé des dernières décisions préfectorales, des arrêtés de fermeture et des actualités liées à la prévention des incendies dans votre département.\n\nHISTORIQUE\nAccédez à l'historique complet des feux passés par département et par période.\n\nDONNÉES OFFICIELLES\nPyroWatch intègre des réseaux de caméras de surveillance publiques couvrant la région PACA.\n\nPyroWatch est un outil d'information citoyenne. Il ne remplace pas les services de secours officiels. En cas d'urgence, composez toujours le 18 (pompiers) ou le 112.",
       "bundleId": "app.pyrowatch.ios",
-      "genres": [
-        "Actualités",
-        "Utilitaires"
-      ],
-      "currentVersionReleaseDate": "2026-08-13T17:01:59Z",
-      "price": 0,
       "userRatingCount": 1403,
       "country": "FRA"
     }

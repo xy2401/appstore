@@ -195,8 +195,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/61/98/66/61986601-56f5-c9a1-53a5-4422e6a13a8e/ip06.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3a/57/e3/3a57e3c7-3d73-8c56-04ea-daf59e1787d3/ip09.png/320x480bb.jpg"
       ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/96/d2/7e96d2de-9302-613f-4a33-69a0d2345b0f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2a/bf/6c/2abf6c47-c9e1-05e3-aeb5-a67a40c1f45c/ipad00.png/360x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3b/3c/18/3b3c1860-12bf-13df-aa8c-42813e6a9dd5/ipad01.png/360x480bb.jpg",
@@ -208,10 +206,15 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e2/46/69/e24669cb-4468-2cd3-7d5c-ff4b68566fc2/ipad07.png/360x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ea/46/0c/ea460c64-50aa-fe6f-c230-516959c82c2f/ipad08.png/360x480bb.jpg"
       ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/96/d2/7e96d2de-9302-613f-4a33-69a0d2345b0f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "artistViewUrl": "https://apps.apple.com/cn/developer/hydrozoaworks-tech-ltd/id1538638368?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/96/d2/7e96d2de-9302-613f-4a33-69a0d2345b0f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/96/d2/7e96d2de-9302-613f-4a33-69a0d2345b0f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -346,15 +349,11 @@
       ],
       "advisories": [],
       "kind": "software",
-      "features": [
-        "iosUniversal"
-      ],
-      "averageUserRating": 3.98873,
+      "averageUserRatingForCurrentVersion": 3.98873,
       "trackCensoredName": "药王谷女修修炼手札",
       "trackViewUrl": "https://apps.apple.com/cn/app/%E8%8D%AF%E7%8E%8B%E8%B0%B7%E5%A5%B3%E4%BF%AE%E4%BF%AE%E7%82%BC%E6%89%8B%E6%9C%AD/id6462190343?uo=4",
       "contentAdvisoryRating": "17+",
-      "releaseNotes": "1.24\n增加英文语言版本\n修复头像缓存未及时清理问题\n增加炼丹时根据等阶选择药材的功能\n优化内存和渲染压力",
-      "averageUserRatingForCurrentVersion": 3.98873,
+      "averageUserRating": 3.98873,
       "languageCodesISO2A": [
         "EN",
         "ZH",
@@ -362,31 +361,32 @@
       ],
       "fileSizeBytes": "1259327488",
       "formattedPrice": "¥6.00",
+      "userRatingCountForCurrentVersion": 355,
       "trackContentRating": "17+",
-      "genres": [
-        "工具"
-      ],
-      "bundleId": "com.hydrozoa.yyg",
+      "minimumOsVersion": "15.6",
+      "sellerName": "HydrozoaWorks Tech Ltd.",
+      "price": 6,
       "releaseDate": "2025-02-18T08:00:00Z",
-      "trackId": 6462190343,
-      "trackName": "药王谷女修修炼手札",
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
       "genreIds": [
         "6002"
       ],
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
-      "sellerName": "HydrozoaWorks Tech Ltd.",
-      "isVppDeviceBasedLicensingEnabled": true,
+      "trackId": 6462190343,
+      "trackName": "药王谷女修修炼手札",
       "currentVersionReleaseDate": "2026-09-01T00:58:44Z",
+      "releaseNotes": "1.24\n增加英文语言版本\n修复头像缓存未及时清理问题\n增加炼丹时根据等阶选择药材的功能\n优化内存和渲染压力",
       "version": "1.24",
       "wrapperType": "software",
       "currency": "CNY",
       "description": "这是一个详细的修仙世界狗血模拟器，您将在其中体验到从初入门的药王谷弟子到一代丹修大能之间要经历多少次救命之恩以身相许……当然，不管是否以身相许，诊费都是要收的",
-      "minimumOsVersion": "15.6",
-      "userRatingCountForCurrentVersion": 355,
+      "bundleId": "com.hydrozoa.yyg",
+      "isVppDeviceBasedLicensingEnabled": true,
       "artistId": 1538638368,
       "artistName": "HydrozoaWorks Tech Ltd.",
-      "price": 6,
+      "genres": [
+        "工具"
+      ],
       "userRatingCount": 355,
       "country": "CHN"
     }

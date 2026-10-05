@@ -197,10 +197,6 @@
       "userRatingCount": 721774
     },
     {
-      "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -333,13 +329,18 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "features": [
+        "iosUniversal"
+      ],
       "advisories": [
         "まれ／軽度なバイオレンス"
       ],
+      "isGameCenterEnabled": false,
       "kind": "software",
       "artistViewUrl": "https://apps.apple.com/jp/developer/dazn-limited/id1085544656?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/e3/de/e8e3deb5-ca6b-2464-4c8e-acaf2162185f/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/e3/de/e8e3deb5-ca6b-2464-4c8e-acaf2162185f/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/e3/de/e8e3deb5-ca6b-2464-4c8e-acaf2162185f/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/91/07/9a/91079afc-8320-e66a-e72e-c0671147ec74/1290_x_2796__U00286.7__U0029__Step01.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0f/64/04/0f64047b-45b5-e40d-1d69-55c3baef45c1/Step02.png/320x480bb.jpg",
@@ -360,27 +361,26 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/85/dc/aa/85dcaab3-b17b-9ded-9292-b0b33f66d8e2/Step07.png/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/e3/de/e8e3deb5-ca6b-2464-4c8e-acaf2162185f/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
-      "minimumOsVersion": "15.0",
+      "bundleId": "com.dazn.theApp",
       "artistId": 1085544656,
+      "price": 0,
       "artistName": "DAZN Limited",
       "genres": [
         "スポーツ",
         "エンターテインメント"
       ],
-      "price": 0,
-      "currentVersionReleaseDate": "2026-09-28T13:59:49Z",
       "trackId": 1129523589,
       "trackName": "DAZN (ダゾーン) スポーツをライブ中継",
+      "primaryGenreName": "Sports",
+      "primaryGenreId": 6004,
       "genreIds": [
         "6004",
         "6016"
       ],
       "releaseDate": "2016-08-19T09:49:40Z",
-      "primaryGenreName": "Sports",
-      "primaryGenreId": 6004,
       "sellerName": "DAZN Limited",
       "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-09-28T13:59:49Z",
       "releaseNotes": "最新のアプリでより良い体験を！\n\nコンテンツの追加やバグ修正など、DAZNアプリのiOS版では様々なアップデートを行いました。\n\n今すぐアップデートして、シームレスなスポーツ視聴体験をお楽しみください。",
       "version": "2.45.86",
       "wrapperType": "software",
@@ -389,8 +389,9 @@
       "trackCensoredName": "DAZN (ダゾーン) スポーツをライブ中継",
       "trackViewUrl": "https://apps.apple.com/jp/app/dazn-%E3%83%80%E3%82%BE%E3%83%BC%E3%83%B3-%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%82%92%E3%83%A9%E3%82%A4%E3%83%96%E4%B8%AD%E7%B6%99/id1129523589?uo=4",
       "contentAdvisoryRating": "17+",
-      "bundleId": "com.dazn.theApp",
-      "averageUserRatingForCurrentVersion": 4.30094,
+      "averageUserRating": 4.30073,
+      "minimumOsVersion": "15.0",
+      "averageUserRatingForCurrentVersion": 4.30073,
       "languageCodesISO2A": [
         "AR",
         "NL",
@@ -404,12 +405,11 @@
         "ES"
       ],
       "fileSizeBytes": "384907264",
-      "formattedPrice": "無料",
-      "userRatingCountForCurrentVersion": 735517,
-      "trackContentRating": "17+",
-      "averageUserRating": 4.30094,
       "sellerUrl": "http://www.dazn.com",
-      "userRatingCount": 735517,
+      "formattedPrice": "無料",
+      "userRatingCountForCurrentVersion": 736120,
+      "trackContentRating": "17+",
+      "userRatingCount": 736120,
       "country": "JPN"
     },
     {

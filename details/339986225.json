@@ -226,10 +226,11 @@
       "userRatingCount": 372
     },
     {
+      "isGameCenterEnabled": false,
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/80/e6/4c/80e64cb7-7fcf-f610-b0f7-a0b800c33499/AppIcon-0-1x_U007emarketing-0-0-85-220-0-3.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/80/e6/4c/80e64cb7-7fcf-f610-b0f7-a0b800c33499/AppIcon-0-1x_U007emarketing-0-0-85-220-0-3.png/100x100bb.jpg",
       "artistViewUrl": "https://apps.apple.com/jp/developer/shibuya-masanori/id339986228?uo=4",
-      "isGameCenterEnabled": false,
+      "features": [],
       "supportedDevices": [
         "iPad2Wifi-iPad2Wifi",
         "iPad23G-iPad23G",
@@ -400,9 +401,11 @@
         "WatchUltra4-WatchUltra4",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "features": [],
       "advisories": [],
       "kind": "software",
+      "ipadScreenshotUrls": [],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/80/e6/4c/80e64cb7-7fcf-f610-b0f7-a0b800c33499/AppIcon-0-1x_U007emarketing-0-0-85-220-0-3.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple22/v4/33/43/8b/33438bd9-da49-574b-b450-c0de20390cb0/mzl.rzpblrqe.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple42/v4/ad/ae/c4/adaec496-c7c8-e9e2-700b-46ee3446d6e6/mzl.bdxykbtl.png/392x696bb.png",
@@ -410,30 +413,32 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/eb/16/ac/eb16ac88-b584-7939-7652-b61702af173b/mzl.ltoadypl.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/79/39/de/7939de27-7fac-c5ad-164c-291b79ee0add/mzl.omolaltp.png/392x696bb.png"
       ],
-      "ipadScreenshotUrls": [],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/80/e6/4c/80e64cb7-7fcf-f610-b0f7-a0b800c33499/AppIcon-0-1x_U007emarketing-0-0-85-220-0-3.png/512x512bb.jpg",
       "minimumOsVersion": "9.0",
+      "releaseNotes": "- iPhone Xs Maxのディスプレイサイズに対応しました。\n(以前のバージョンでもアプリを使用できましたが、より精細に表示されるようになります。）\n- 他にいくつか細かい修正をしました。",
       "contentAdvisoryRating": "4+",
       "trackCensoredName": "支出管理",
       "trackViewUrl": "https://apps.apple.com/jp/app/%E6%94%AF%E5%87%BA%E7%AE%A1%E7%90%86/id339986225?uo=4",
       "averageUserRating": 4.36074,
+      "artistId": 339986228,
+      "artistName": "SHIBUYA Masanori",
       "genres": [
         "ファイナンス",
         "仕事効率化"
       ],
-      "artistName": "SHIBUYA Masanori",
       "price": 150,
-      "artistId": 339986228,
       "bundleId": "com.gmail.shibuym.ExpenseBook",
-      "trackId": 339986225,
-      "trackName": "支出管理",
-      "releaseNotes": "- iPhone Xs Maxのディスプレイサイズに対応しました。\n(以前のバージョンでもアプリを使用できましたが、より精細に表示されるようになります。）\n- 他にいくつか細かい修正をしました。",
+      "currentVersionReleaseDate": "2018-09-24T01:09:20Z",
+      "releaseDate": "2009-11-19T21:25:02Z",
+      "genreIds": [
+        "6015",
+        "6007"
+      ],
       "primaryGenreName": "Finance",
       "primaryGenreId": 6015,
-      "releaseDate": "2009-11-19T21:25:02Z",
+      "trackId": 339986225,
+      "trackName": "支出管理",
       "sellerName": "MASANORI SHIBUYA",
-      "currentVersionReleaseDate": "2018-09-24T01:09:20Z",
+      "isVppDeviceBasedLicensingEnabled": true,
       "version": "1.19.1",
       "wrapperType": "software",
       "currency": "JPY",
@@ -448,11 +453,6 @@
       "formattedPrice": "¥150",
       "userRatingCountForCurrentVersion": 377,
       "trackContentRating": "4+",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "genreIds": [
-        "6015",
-        "6007"
-      ],
       "userRatingCount": 377,
       "country": "JPN"
     }

@@ -27,6 +27,9 @@
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/b8/d5/9eb8d5a1-2f16-bc08-2563-0d3f2f24f247/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
       "isGameCenterEnabled": false,
+      "advisories": [
+        "無制限のWebアクセス"
+      ],
       "features": [
         "iosUniversal"
       ],
@@ -162,15 +165,12 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [
-        "無制限のWebアクセス"
-      ],
       "kind": "software",
       "artistViewUrl": "https://apps.apple.com/jp/developer/matthias-gansrigler-hrad/id403111076?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/b8/d5/9eb8d5a1-2f16-bc08-2563-0d3f2f24f247/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/b8/d5/9eb8d5a1-2f16-bc08-2563-0d3f2f24f247/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
-      "averageUserRatingForCurrentVersion": 4.64971,
       "sellerUrl": "https://eternalstorms.at/yoink/ios",
+      "averageUserRatingForCurrentVersion": 4.64971,
       "languageCodesISO2A": [
         "EN",
         "FR",
@@ -185,29 +185,8 @@
       "formattedPrice": "¥1,000",
       "userRatingCountForCurrentVersion": 688,
       "trackContentRating": "17+",
-      "bundleId": "at.EternalStorms.YoinkiOS",
       "releaseNotes": "- Fixes Yoink’s App Icon\n- Fixes a crash that could occur when restoring items from the Trash",
-      "trackId": 1260915283,
-      "trackName": "Yoink - Improved Drag and Drop",
-      "genreIds": [
-        "6007",
-        "6002"
-      ],
-      "primaryGenreName": "Productivity",
-      "primaryGenreId": 6007,
-      "sellerName": "Matthias Gansrigler-Hrad",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-08-31T06:31:08Z",
-      "version": "2.5.6",
-      "wrapperType": "software",
-      "currency": "JPY",
-      "description": "Yoink for iPad and iPhone は、ドラッグ、コピー、共有、またはダウンロードした項目を、あとで使うために簡単かつ素早く保存できるアプリです。\n\nこれにより、元のアプリと保存先アプリを何度も行き来することなく、項目をひとつの場所にまとめておけます。\nWebサイトの画像、テキストの抜粋、Web URL、メール、書類など、ほぼあらゆる種類のファイルに対応しています。ドラッグ、コピー、共有、ダウンロードのどの方法でも保存できます。\n\nYoink に対するユーザーの声：\n「iOSで最高のシェルフアプリ」 - Igloouk、英国 App Store\n「iOS App Store で最も便利なアプリ。本当に素晴らしい。」 - noway170、オーストリア App Store\n「救世主のようなアプリ。今すぐ入手すべき。」 - mr chairboy、米国 App Store\n\niPad では、Slide Over や Split View で Yoink を表示しておけば、どのアプリを使っていても、いつでもドラッグした項目を受け取れます。Yoink を表示して、そのままドラッグ操作を完了するだけです。\niPhone では、Yoink の共有機能拡張を使ったり、項目をコピー＆ペーストして追加できます。\n項目はあとで使えるよう Yoink に保存され、識別しやすいリッチプレビューや、多くのファイルタイプで完全プレビューに対応しています。\n複数項目を含むドラッグはスタックとしてまとめられます。\n\nYoink はシステムと深く統合されています：\n- クリップボード監視：\nYoink のクリップボード監視機能は、Yoink 自体がバックグラウンドにある場合でも、コピーまたはカットした内容をすべて保存します。\nピクチャ・イン・ピクチャのオーバーレイを使えば、Yoink が保存するデータの種類を選択したり、いつでも一時停止・停止できます。\n\n- ビデオだけじゃないピクチャ・イン・ピクチャ：\nYoink は画像、PDF、メール、さらにはWebサイトまで、ピクチャ・イン・ピクチャのオーバーレイ内に表示できます。さらに、その場で書類のページをスクロールすることも可能です。\n\n- iCloud 同期\niCloud を使って、デバイス間で Yoink の項目を同期\n\n- Handoff\nHandoff を使って、iPhone、iPad、Mac 間でファイルを転送（Mac版 Yoink アプリが別途必要）\n\n- アクション／共有機能拡張\n共有シートから共有できるほぼすべての項目を、直接 Yoink に送信できます\n\n- キーボード\nYoink 専用キーボードを搭載しているので、Yoink を起動しなくても、保存した項目を簡単かつ素早く挿入できます。\n\n- Spotlight 統合\nYoink 内のすべての項目は Spotlight から検索でき、検索結果はドラッグ可能です。\n\n- Today ウィジェット\n通知センターから Yoink の項目にアクセスしたり、クリップボードの内容を Yoink に保存できます\n\n- ショートカット / Siri の提案\nYoink は Siri ショートカットと提案に対応しており、クリップボードから Yoink に項目を追加したり、Yoink から項目をコピーしたり、Yoink でダウンロードを開始するなどの操作を自動化できます。\n\n- ファイル App 統合\niOS 11 の書類ブラウザに対応したあらゆるアプリから Yoink のファイルにアクセスできます\n\nYoink に対するメディアの声：\n「Yoink は Apple が作るべきだったシェルフアプリだ。」 - Federico Viticci、MacStories.net\n「Yoink は必携アプリ」 - Jeff Benjamin；9to5mac.com\n「パワーユーザーには欠かせない。」 - Craig Grannell；techradar.com",
       "minimumOsVersion": "15.0",
-      "averageUserRating": 4.64971,
-      "trackCensoredName": "Yoink - Improved Drag and Drop",
-      "trackViewUrl": "https://apps.apple.com/jp/app/yoink-improved-drag-and-drop/id1260915283?uo=4",
-      "contentAdvisoryRating": "17+",
-      "releaseDate": "2017-10-12T10:26:50Z",
       "artistId": 403111076,
       "artistName": "Matthias Gansrigler-Hrad",
       "genres": [
@@ -215,6 +194,27 @@
         "ユーティリティ"
       ],
       "price": 1000,
+      "bundleId": "at.EternalStorms.YoinkiOS",
+      "sellerName": "Matthias Gansrigler-Hrad",
+      "genreIds": [
+        "6007",
+        "6002"
+      ],
+      "primaryGenreName": "Productivity",
+      "primaryGenreId": 6007,
+      "releaseDate": "2017-10-12T10:26:50Z",
+      "trackId": 1260915283,
+      "trackName": "Yoink - Improved Drag and Drop",
+      "currentVersionReleaseDate": "2026-08-31T06:31:08Z",
+      "version": "2.5.6",
+      "wrapperType": "software",
+      "currency": "JPY",
+      "description": "Yoink for iPad and iPhone は、ドラッグ、コピー、共有、またはダウンロードした項目を、あとで使うために簡単かつ素早く保存できるアプリです。\n\nこれにより、元のアプリと保存先アプリを何度も行き来することなく、項目をひとつの場所にまとめておけます。\nWebサイトの画像、テキストの抜粋、Web URL、メール、書類など、ほぼあらゆる種類のファイルに対応しています。ドラッグ、コピー、共有、ダウンロードのどの方法でも保存できます。\n\nYoink に対するユーザーの声：\n「iOSで最高のシェルフアプリ」 - Igloouk、英国 App Store\n「iOS App Store で最も便利なアプリ。本当に素晴らしい。」 - noway170、オーストリア App Store\n「救世主のようなアプリ。今すぐ入手すべき。」 - mr chairboy、米国 App Store\n\niPad では、Slide Over や Split View で Yoink を表示しておけば、どのアプリを使っていても、いつでもドラッグした項目を受け取れます。Yoink を表示して、そのままドラッグ操作を完了するだけです。\niPhone では、Yoink の共有機能拡張を使ったり、項目をコピー＆ペーストして追加できます。\n項目はあとで使えるよう Yoink に保存され、識別しやすいリッチプレビューや、多くのファイルタイプで完全プレビューに対応しています。\n複数項目を含むドラッグはスタックとしてまとめられます。\n\nYoink はシステムと深く統合されています：\n- クリップボード監視：\nYoink のクリップボード監視機能は、Yoink 自体がバックグラウンドにある場合でも、コピーまたはカットした内容をすべて保存します。\nピクチャ・イン・ピクチャのオーバーレイを使えば、Yoink が保存するデータの種類を選択したり、いつでも一時停止・停止できます。\n\n- ビデオだけじゃないピクチャ・イン・ピクチャ：\nYoink は画像、PDF、メール、さらにはWebサイトまで、ピクチャ・イン・ピクチャのオーバーレイ内に表示できます。さらに、その場で書類のページをスクロールすることも可能です。\n\n- iCloud 同期\niCloud を使って、デバイス間で Yoink の項目を同期\n\n- Handoff\nHandoff を使って、iPhone、iPad、Mac 間でファイルを転送（Mac版 Yoink アプリが別途必要）\n\n- アクション／共有機能拡張\n共有シートから共有できるほぼすべての項目を、直接 Yoink に送信できます\n\n- キーボード\nYoink 専用キーボードを搭載しているので、Yoink を起動しなくても、保存した項目を簡単かつ素早く挿入できます。\n\n- Spotlight 統合\nYoink 内のすべての項目は Spotlight から検索でき、検索結果はドラッグ可能です。\n\n- Today ウィジェット\n通知センターから Yoink の項目にアクセスしたり、クリップボードの内容を Yoink に保存できます\n\n- ショートカット / Siri の提案\nYoink は Siri ショートカットと提案に対応しており、クリップボードから Yoink に項目を追加したり、Yoink から項目をコピーしたり、Yoink でダウンロードを開始するなどの操作を自動化できます。\n\n- ファイル App 統合\niOS 11 の書類ブラウザに対応したあらゆるアプリから Yoink のファイルにアクセスできます\n\nYoink に対するメディアの声：\n「Yoink は Apple が作るべきだったシェルフアプリだ。」 - Federico Viticci、MacStories.net\n「Yoink は必携アプリ」 - Jeff Benjamin；9to5mac.com\n「パワーユーザーには欠かせない。」 - Craig Grannell；techradar.com",
+      "averageUserRating": 4.64971,
+      "trackCensoredName": "Yoink - Improved Drag and Drop",
+      "trackViewUrl": "https://apps.apple.com/jp/app/yoink-improved-drag-and-drop/id1260915283?uo=4",
+      "contentAdvisoryRating": "17+",
+      "isVppDeviceBasedLicensingEnabled": true,
       "userRatingCount": 688,
       "country": "JPN"
     }

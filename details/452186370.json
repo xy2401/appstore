@@ -199,6 +199,9 @@
       "userRatingCount": 8179895
     },
     {
+      "features": [
+        "iosUniversal"
+      ],
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/51/bd/4b/51bd4b64-d927-8ff1-e427-c94ee400df33/iOS5.5_sr_U5bfc_U822a.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5b/69/b8/5b69b89c-83a6-1251-7db4-72fc0d86ae84/iOS5.5__U5730_U56fe_U9a8c_U771f.jpg/392x696bb.jpg",
@@ -221,10 +224,13 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a7/3b/5d/a73b5d0d-3d46-cf85-fc30-79ed18054511/iPad_2752__U00d7_2064px__U516c_U4ea4@1x.png/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/c6/35/14c6352b-031f-c43b-9105-f3d543e6875d/appIconLiquid-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/60x60bb.jpg",
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/c6/35/14c6352b-031f-c43b-9105-f3d543e6875d/appIconLiquid-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/c6/35/14c6352b-031f-c43b-9105-f3d543e6875d/appIconLiquid-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/100x100bb.jpg",
+      "isGameCenterEnabled": false,
       "artistViewUrl": "https://apps.apple.com/cn/developer/beijing-baidu-netcom-science-technology-co-ltd/id372585298?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/c6/35/14c6352b-031f-c43b-9105-f3d543e6875d/appIconLiquid-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/c6/35/14c6352b-031f-c43b-9105-f3d543e6875d/appIconLiquid-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/100x100bb.jpg",
+      "advisories": [],
+      "kind": "software",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -358,53 +364,47 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [],
-      "kind": "software",
-      "isGameCenterEnabled": false,
-      "averageUserRatingForCurrentVersion": 4.82494,
-      "sellerUrl": "https://map.baidu.com/zt/client/index/",
-      "averageUserRating": 4.82494,
-      "trackCensoredName": "百度地图-想出门，先问百度地图",
       "languageCodesISO2A": [
         "EN",
         "ZH"
       ],
       "fileSizeBytes": "413350912",
       "formattedPrice": "免费",
-      "contentAdvisoryRating": "4+",
-      "userRatingCountForCurrentVersion": 8512700,
-      "trackViewUrl": "https://apps.apple.com/cn/app/%E7%99%BE%E5%BA%A6%E5%9C%B0%E5%9B%BE-%E6%83%B3%E5%87%BA%E9%97%A8-%E5%85%88%E9%97%AE%E7%99%BE%E5%BA%A6%E5%9C%B0%E5%9B%BE/id452186370?uo=4",
+      "userRatingCountForCurrentVersion": 8527441,
       "trackContentRating": "4+",
-      "currentVersionReleaseDate": "2026-09-17T13:08:55Z",
-      "releaseNotes": "百度地图 V22，更懂世界，更懂你！\n- 手机 SR 导航首发，手机打开智驾视野，同享车机级 4D 时空智能基座\n- 地点信息问小度，覆盖 1.9 亿地图已验真信息，都是鲜活真数据\n- 全域护航系统，全面覆盖人/车/路/环境，全方位、伴随式预警护航\n- AI 副驾全链路真双工语音交互，从行前到行中，全程陪伴，怎么聊都懂你\n- AI 副驾 3D 实景互动上新，出游场景主动介绍景点、地标，一路问一路答\n- 车道级自研引擎再升级，七大地貌实景呈现，四季变化动态实况还原\n- 车道级全域路网全覆盖，从车位到车位，全程都是车道级\n- 智驾级车位导航，优选车场提前掌握，场内泊车轻松到位\n- 个性语音包/车标，持续上新，你的导航你做主\n- CarPlay 车道级巡航，实时信息全面感知\n- 实时公交，数据更全，到站精准\n- 打车车费护航，多收费当场退\n- 酒店安心订，全网比价贵必赔",
+      "sellerUrl": "https://map.baidu.com/zt/client/index/",
+      "averageUserRatingForCurrentVersion": 4.82437,
       "minimumOsVersion": "13.0",
-      "artistId": 372585298,
-      "artistName": "Beijing Baidu Netcom Science & Technology Co.,Ltd",
-      "price": 0,
-      "bundleId": "com.baidu.map",
-      "releaseDate": "2011-07-31T07:00:00Z",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "genreIds": [
-        "6010",
-        "6003"
-      ],
-      "sellerName": "Beijing Baidu Netcom Science & Technology Co.,Ltd",
-      "primaryGenreName": "Navigation",
-      "primaryGenreId": 6010,
-      "version": "22.0.0",
-      "wrapperType": "software",
-      "currency": "CNY",
-      "description": "百度地图——科技让出行更简单！\n\n【智能导航】\n-路况实时更新，推荐更优路线，智能躲避拥堵\n-智能定位，GPS信号弱也能持续导航 \n-公交导航到站提醒，实时公交覆盖多城\n【智能规划】\n-提供包含打车、驾车、公交、步行、骑行、火车、飞机、客车、货车、摩托车等出行方式的智能规划方案\n-未来通行时间智能预估，精准预估到达时间，规划路线更精准，更符合用户不同的出行或驾驶习惯 \n-全国范围内，提供多种交通方式组合的智能出行方案\n-时间优先，躲避拥堵，少收费，不走高速等多种路线偏好任你选择\n【低价打车】\n-打车惊喜特惠，周周领大额红包\n-多种车型智能比价，叫车快人一步\n-打车有保障，隐私保护，全程安全陪伴\n【智能语音】\n-语音技术行业领先，可实现全端唤醒，全局交互\n-喊“小度小度”，轻松查路线、搜地点、问天气，沿途搜等\n-只需9句话，生成个人定制语音包，并支持地图全场景使用\n【智能推荐】\n-根据个人出行时间、方式等偏好，个性化推荐出行方案\n-发现周边，探索吃喝玩乐好去处\n-智能旅游，游玩路线推荐、AI导游跟随讲解、AR导览实景沉浸式游玩体验，让你玩转景区\n\n【温馨提示】\n百度地图的语音导航和电子狗会持续使用GPS定位服务，切换至后台播放时仍会保持GPS连接，会影响电量消耗和电池续航时间。\n【遇到问题请联系】\n感谢您使用百度地图，如有任何问题您可在“我的--客服中心”中进行反馈，也可以通过以下方式进行反馈：\n官方微信公众号：百度地图/baiduditu\n官方新浪微博：@百度地图\n官方客服电话：400-099-8998",
+      "averageUserRating": 4.82437,
+      "trackCensoredName": "百度地图-想出门，先问百度地图",
+      "trackViewUrl": "https://apps.apple.com/cn/app/%E7%99%BE%E5%BA%A6%E5%9C%B0%E5%9B%BE-%E6%83%B3%E5%87%BA%E9%97%A8-%E5%85%88%E9%97%AE%E7%99%BE%E5%BA%A6%E5%9C%B0%E5%9B%BE/id452186370?uo=4",
+      "contentAdvisoryRating": "4+",
       "trackId": 452186370,
       "trackName": "百度地图-想出门，先问百度地图",
       "genres": [
         "导航",
         "旅游"
       ],
-      "userRatingCount": 8512700,
+      "artistId": 372585298,
+      "artistName": "Beijing Baidu Netcom Science & Technology Co.,Ltd",
+      "price": 0,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "bundleId": "com.baidu.map",
+      "genreIds": [
+        "6010",
+        "6003"
+      ],
+      "releaseNotes": "百度地图 V22，更懂世界，更懂你！\n- 手机 SR 导航首发，手机打开智驾视野，同享车机级 4D 时空智能基座\n- 地点信息问小度，覆盖 1.9 亿地图已验真信息，都是鲜活真数据\n- 全域护航系统，全面覆盖人/车/路/环境，全方位、伴随式预警护航\n- AI 副驾全链路真双工语音交互，从行前到行中，全程陪伴，怎么聊都懂你\n- AI 副驾 3D 实景互动上新，出游场景主动介绍景点、地标，一路问一路答\n- 车道级自研引擎再升级，七大地貌实景呈现，四季变化动态实况还原\n- 车道级全域路网全覆盖，从车位到车位，全程都是车道级\n- 智驾级车位导航，优选车场提前掌握，场内泊车轻松到位\n- 个性语音包/车标，持续上新，你的导航你做主\n- CarPlay 车道级巡航，实时信息全面感知\n- 实时公交，数据更全，到站精准\n- 打车车费护航，多收费当场退\n- 酒店安心订，全网比价贵必赔",
+      "currentVersionReleaseDate": "2026-09-17T13:08:55Z",
+      "version": "22.0.0",
+      "wrapperType": "software",
+      "currency": "CNY",
+      "description": "百度地图——科技让出行更简单！\n\n【智能导航】\n-路况实时更新，推荐更优路线，智能躲避拥堵\n-智能定位，GPS信号弱也能持续导航 \n-公交导航到站提醒，实时公交覆盖多城\n【智能规划】\n-提供包含打车、驾车、公交、步行、骑行、火车、飞机、客车、货车、摩托车等出行方式的智能规划方案\n-未来通行时间智能预估，精准预估到达时间，规划路线更精准，更符合用户不同的出行或驾驶习惯 \n-全国范围内，提供多种交通方式组合的智能出行方案\n-时间优先，躲避拥堵，少收费，不走高速等多种路线偏好任你选择\n【低价打车】\n-打车惊喜特惠，周周领大额红包\n-多种车型智能比价，叫车快人一步\n-打车有保障，隐私保护，全程安全陪伴\n【智能语音】\n-语音技术行业领先，可实现全端唤醒，全局交互\n-喊“小度小度”，轻松查路线、搜地点、问天气，沿途搜等\n-只需9句话，生成个人定制语音包，并支持地图全场景使用\n【智能推荐】\n-根据个人出行时间、方式等偏好，个性化推荐出行方案\n-发现周边，探索吃喝玩乐好去处\n-智能旅游，游玩路线推荐、AI导游跟随讲解、AR导览实景沉浸式游玩体验，让你玩转景区\n\n【温馨提示】\n百度地图的语音导航和电子狗会持续使用GPS定位服务，切换至后台播放时仍会保持GPS连接，会影响电量消耗和电池续航时间。\n【遇到问题请联系】\n感谢您使用百度地图，如有任何问题您可在“我的--客服中心”中进行反馈，也可以通过以下方式进行反馈：\n官方微信公众号：百度地图/baiduditu\n官方新浪微博：@百度地图\n官方客服电话：400-099-8998",
+      "sellerName": "Beijing Baidu Netcom Science & Technology Co.,Ltd",
+      "releaseDate": "2011-07-31T07:00:00Z",
+      "primaryGenreName": "Navigation",
+      "primaryGenreId": 6010,
+      "userRatingCount": 8527441,
       "country": "CHN"
     }
   ]

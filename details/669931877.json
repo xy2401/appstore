@@ -199,10 +199,6 @@
       "userRatingCount": 223676
     },
     {
-      "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -335,11 +331,16 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "features": [
+        "iosUniversal"
+      ],
       "advisories": [],
+      "isGameCenterEnabled": false,
       "kind": "software",
       "artistViewUrl": "https://apps.apple.com/jp/developer/yahoo-japan-corporation/id288091005?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/7b/ed/297beda6-b7a2-30a6-659d-782506ca9b34/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/7b/ed/297beda6-b7a2-30a6-659d-782506ca9b34/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/7b/ed/297beda6-b7a2-30a6-659d-782506ca9b34/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/87/08/10/87081060-d084-f5a4-5351-7e0293102974/5091fb82-f51d-4dcb-8849-65d6691113d3_01screenshots.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/85/25/bd/8525bd9d-2166-d55b-9d25-3fa820f15059/7d676997-cff5-45e1-95d3-098f49a1f779_02screenshots.png/392x696bb.png",
@@ -357,27 +358,26 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f2/12/b4/f212b4d1-9187-002d-a80f-8a92df6cf5b5/72a02816-51e3-4b7c-973c-1a22784ffc93_06screenshots.png/552x414bb.png"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/7b/ed/297beda6-b7a2-30a6-659d-782506ca9b34/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "minimumOsVersion": "17.0",
+      "bundleId": "jp.co.yahoo.ymail",
       "artistId": 288091005,
+      "price": 0,
       "artistName": "Yahoo Japan Corporation",
       "genres": [
         "仕事効率化",
         "ユーティリティ"
       ],
-      "price": 0,
-      "currentVersionReleaseDate": "2026-09-30T05:29:07Z",
       "trackId": 669931877,
       "trackName": "Yahoo!メール",
+      "primaryGenreName": "Productivity",
+      "primaryGenreId": 6007,
       "genreIds": [
         "6007",
         "6002"
       ],
       "releaseDate": "2013-09-18T08:42:16Z",
-      "primaryGenreName": "Productivity",
-      "primaryGenreId": 6007,
       "sellerName": "Yahoo Japan Corporation",
       "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-09-30T05:29:07Z",
       "releaseNotes": "安定性の向上のため、軽微な修正を行いました。\n今後ともYahoo!メールアプリをどうぞよろしくお願いいたします。",
       "version": "9.6.6",
       "wrapperType": "software",
@@ -386,17 +386,17 @@
       "trackCensoredName": "Yahoo!メール",
       "trackViewUrl": "https://apps.apple.com/jp/app/yahoo-%E3%83%A1%E3%83%BC%E3%83%AB/id669931877?uo=4",
       "contentAdvisoryRating": "4+",
-      "bundleId": "jp.co.yahoo.ymail",
-      "averageUserRatingForCurrentVersion": 4.57957,
+      "averageUserRating": 4.57953,
+      "minimumOsVersion": "17.0",
+      "averageUserRatingForCurrentVersion": 4.57953,
       "languageCodesISO2A": [
         "JA"
       ],
       "fileSizeBytes": "96466944",
       "formattedPrice": "無料",
-      "userRatingCountForCurrentVersion": 228217,
+      "userRatingCountForCurrentVersion": 228409,
       "trackContentRating": "4+",
-      "averageUserRating": 4.57957,
-      "userRatingCount": 228217,
+      "userRatingCount": 228409,
       "country": "JPN"
     }
   ]

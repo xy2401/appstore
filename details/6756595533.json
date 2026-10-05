@@ -191,6 +191,7 @@
       "userRatingCount": 3883
     },
     {
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/09/8f/1a/098f1a85-f6b0-8106-0773-82cbaf396bea/Frame_2147225567.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/70/d4/07/70d407c1-0a1c-e786-3e2f-a736593b9f30/Frame_2147225568.png/320x480bb.jpg",
@@ -213,7 +214,9 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/43/b8/dc43b86a-ff41-db64-5422-07bbd0777aed/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -346,15 +349,13 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "advisories": [],
       "kind": "software",
-      "features": [
-        "iosUniversal"
-      ],
       "artistViewUrl": "https://apps.apple.com/cn/developer/tencent-technology-shenzhen-company-limited/id292374531?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/43/b8/dc43b86a-ff41-db64-5422-07bbd0777aed/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/43/b8/dc43b86a-ff41-db64-5422-07bbd0777aed/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
-      "advisories": [],
-      "averageUserRatingForCurrentVersion": 4.80896,
+      "minimumOsVersion": "14.0",
+      "averageUserRatingForCurrentVersion": 4.80794,
       "languageCodesISO2A": [
         "EN",
         "ZH",
@@ -362,37 +363,36 @@
       ],
       "fileSizeBytes": "287017984",
       "formattedPrice": "免费",
-      "userRatingCountForCurrentVersion": 32679,
+      "userRatingCountForCurrentVersion": 33386,
       "trackContentRating": "17+",
-      "minimumOsVersion": "14.0",
+      "artistId": 292374531,
+      "artistName": "Tencent Technology (Shenzhen) Company Limited",
       "genres": [
         "娱乐"
       ],
-      "artistId": 292374531,
-      "artistName": "Tencent Technology (Shenzhen) Company Limited",
-      "bundleId": "com.tencent.kairos4iphone",
-      "primaryGenreName": "Entertainment",
-      "primaryGenreId": 6016,
+      "price": 0,
+      "releaseNotes": "一些已知体验问题的修复",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "genreIds": [
+        "6016"
+      ],
+      "releaseDate": "2026-02-03T08:00:00Z",
       "trackName": "火龙漫剧",
       "trackId": 6756595533,
-      "releaseNotes": "一些已知体验问题的修复",
+      "sellerName": "Tencent Technology (Shenzhen) Company Limited",
+      "primaryGenreName": "Entertainment",
+      "primaryGenreId": 6016,
       "currentVersionReleaseDate": "2026-09-24T00:58:37Z",
       "version": "1.01.50",
       "wrapperType": "software",
       "currency": "CNY",
       "description": "【腾讯旗下】\n火龙漫剧是腾讯旗下官方出品的免费漫剧App。深度联动腾讯视频、阅文集团等头部IP矩阵，正版精品内容库，海量授权作品。更有顶级制作团队加入，每帧都有大剧质感，沉浸追番停不下来！\n【精彩漫剧】 \n海量漫剧无限畅看，甜宠、玄幻、都市、古风、悬疑、科幻……热门题材全覆盖，连载内容每日更新。更有超多趣味小游戏随心切换，追剧娱乐一站搞定。\n【功能丰富】\n连载追更不间断，实时更新不错过。上新日历抢先看，千榜好剧一网打尽。每日做任务领金币，边看剧边赚钱，金币累积可提现，追剧越多赚越多！",
-      "averageUserRating": 4.80896,
+      "bundleId": "com.tencent.kairos4iphone",
       "trackCensoredName": "火龙漫剧",
       "trackViewUrl": "https://apps.apple.com/cn/app/%E7%81%AB%E9%BE%99%E6%BC%AB%E5%89%A7/id6756595533?uo=4",
+      "averageUserRating": 4.80794,
       "contentAdvisoryRating": "17+",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseDate": "2026-02-03T08:00:00Z",
-      "price": 0,
-      "sellerName": "Tencent Technology (Shenzhen) Company Limited",
-      "genreIds": [
-        "6016"
-      ],
-      "userRatingCount": 32679,
+      "userRatingCount": 33386,
       "country": "CHN"
     }
   ]

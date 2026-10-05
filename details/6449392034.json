@@ -2,15 +2,6 @@
   "resultCount": 1,
   "results": [
     {
-      "artistViewUrl": "https://apps.apple.com/de/developer/lena-mattea-stoexen/id1503902552?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/bf/05/d7bf05dc-7ba7-cc3a-b7f7-22860607bf78/MyBBS-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/bf/05/d7bf05dc-7ba7-cc3a-b7f7-22860607bf78/MyBBS-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
-      "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [],
-      "kind": "software",
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2c/b9/78/2cb97897-22f8-e4e0-c419-c7938b5bba87/myBBSWatchWidgetsiPad.png/360x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c3/aa/1e/c3aa1e47-2037-94f9-c510-fabc287b7239/myBBSSynchronNeu.png/360x480bb.jpg",
@@ -33,6 +24,10 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/45/29/8d/45298d21-5026-0208-18d3-00d19521ec7a/073ebfbc-7078-4f93-9ab8-a0964576607a_myBBSKlausuren.jpeg/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2b/dc/93/2bdc936c-756e-f0c9-aa8a-b84474cd0471/bef866d0-8ff5-4d41-86e7-73bc621358f9_myBBSMenu_U0308.jpeg/320x480bb.jpg"
       ],
+      "isGameCenterEnabled": false,
+      "artistViewUrl": "https://apps.apple.com/de/developer/lena-mattea-stoexen/id1503902552?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/bf/05/d7bf05dc-7ba7-cc3a-b7f7-22860607bf78/MyBBS-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/bf/05/d7bf05dc-7ba7-cc3a-b7f7-22860607bf78/MyBBS-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -166,11 +161,24 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "averageUserRating": 2.83333,
+      "advisories": [],
+      "kind": "software",
+      "features": [
+        "iosUniversal"
+      ],
+      "languageCodesISO2A": [
+        "EN",
+        "DE"
+      ],
+      "fileSizeBytes": "16353280",
+      "formattedPrice": "0,99 €",
+      "userRatingCountForCurrentVersion": 67,
+      "trackContentRating": "4+",
+      "averageUserRatingForCurrentVersion": 2.80597,
       "trackCensoredName": "myBBS",
       "trackViewUrl": "https://apps.apple.com/de/app/mybbs/id6449392034?uo=4",
       "contentAdvisoryRating": "4+",
-      "releaseNotes": "Welcome Widgets!\n\n+ Widgets für den Homescreen und Lockscreen\n+ Watch App für den heutigen Tag\n+ Komplikation für Zifferblätter\n+ Export von Stundenplänen als Bilder oder PDF, z.B. für den Sperrbildschirm\n+ Fehlerbehebungen (vor allem in den Shortcuts)",
+      "averageUserRating": 2.80597,
       "artistId": 1503902552,
       "artistName": "Lena Mattea Stoexen",
       "genres": [
@@ -178,34 +186,26 @@
         "Dienst­programme"
       ],
       "price": 0.99,
-      "primaryGenreName": "Education",
-      "primaryGenreId": 6017,
       "releaseDate": "2023-07-13T07:00:00Z",
-      "bundleId": "de.lena.myBBS",
+      "trackId": 6449392034,
+      "trackName": "myBBS",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "Lena Mattea Stoexen",
       "genreIds": [
         "6017",
         "6002"
       ],
-      "sellerName": "Lena Mattea Stoexen",
-      "isVppDeviceBasedLicensingEnabled": true,
+      "primaryGenreName": "Education",
+      "primaryGenreId": 6017,
       "currentVersionReleaseDate": "2026-08-10T11:15:54Z",
+      "releaseNotes": "Welcome Widgets!\n\n+ Widgets für den Homescreen und Lockscreen\n+ Watch App für den heutigen Tag\n+ Komplikation für Zifferblätter\n+ Export von Stundenplänen als Bilder oder PDF, z.B. für den Sperrbildschirm\n+ Fehlerbehebungen (vor allem in den Shortcuts)",
       "version": "4.0",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Die App zu Virtueller-Stundenplan.org für iPhone und iPad!\n\nBitte stelle erst sicher, dass du dich auf der Webseite anmelden kannst. Nutze die gleichen Anmeldedaten dann für die App.\nKeine Anmeldung mit Office 365 möglich.\n\nFunktionen:\n+ Einmalig anmelden, die Daten werden gespeichert\n+ Push Nachrichten für Stunden- oder Vertretungsplanänderungen\n+ Krankmelden mit eMail Vorschlägen für Betriebe\n+ Eigene Anwesenheit einsehen\n+ Noten und Klausuren ansehen\n+ Klassenbuch ansehen\n+ Eigene Kurse ansehen\n+ BBS.ID immer griffbereit \n+ Stundenpläne für sich selbst und andere Klassen ansehen\n+ Stundenpläne als Wochenansicht auf dem iPad\n+ Benachrichtigungen von der Schule \n+ Widgets\n+ Apple Watch App und Komplikationen für Zifferblätter\n\n\nHinweis: Du benötigst einen Account von deiner BBS, um die App nutzen zu können. Die Zugangsdaten sind die Gleichen wie auf Virtueller-Stundenplan.org",
+      "bundleId": "de.lena.myBBS",
       "minimumOsVersion": "17.0",
-      "averageUserRatingForCurrentVersion": 2.83333,
-      "languageCodesISO2A": [
-        "EN",
-        "DE"
-      ],
-      "fileSizeBytes": "16353280",
-      "formattedPrice": "0,99 €",
-      "userRatingCountForCurrentVersion": 66,
-      "trackContentRating": "4+",
-      "trackId": 6449392034,
-      "trackName": "myBBS",
-      "userRatingCount": 66,
+      "userRatingCount": 67,
       "country": "DEU"
     }
   ]

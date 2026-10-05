@@ -186,6 +186,7 @@
       "userRatingCount": 178643
     },
     {
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/05/90/7b/05907bf0-ea63-be8c-a622-eee717725804/owiduAd1WBPBg6yAiyCSCkTBBVyfAGWAZUcQEB.jpg/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/40/f9/ee/40f9eef7-5231-dc79-d365-0c11d111b82c/oQrfMAkImMTeruF6nAAT9AAyILBqI2GvffdCLI.jpg/320x480bb.jpg",
@@ -207,7 +208,9 @@
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/1f/c2/af1fc23e-e368-a64b-6dcd-3a818abf8cc1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/1f/c2/af1fc23e-e368-a64b-6dcd-3a818abf8cc1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.jpg",
       "artistViewUrl": "https://apps.apple.com/cn/developer/beijing-douyin-technology-co-ltd/id1170416082?uo=4",
-      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -340,16 +343,12 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "features": [
-        "iosUniversal"
-      ],
       "advisories": [
         "无限制网页访问"
       ],
       "kind": "software",
-      "minimumOsVersion": "15.0",
-      "averageUserRatingForCurrentVersion": 4.08368,
-      "averageUserRating": 4.08368,
+      "averageUserRatingForCurrentVersion": 4.08275,
+      "averageUserRating": 4.08275,
       "trackCensoredName": "抖音商城-下单返积分、退货包运费",
       "languageCodesISO2A": [
         "EN",
@@ -358,33 +357,34 @@
       "fileSizeBytes": "967445504",
       "formattedPrice": "免费",
       "contentAdvisoryRating": "17+",
-      "userRatingCountForCurrentVersion": 205697,
+      "userRatingCountForCurrentVersion": 206574,
       "trackViewUrl": "https://apps.apple.com/cn/app/%E6%8A%96%E9%9F%B3%E5%95%86%E5%9F%8E-%E4%B8%8B%E5%8D%95%E8%BF%94%E7%A7%AF%E5%88%86-%E9%80%80%E8%B4%A7%E5%8C%85%E8%BF%90%E8%B4%B9/id1485191072?uo=4",
       "trackContentRating": "17+",
+      "price": 0,
+      "artistId": 1170416082,
+      "artistName": "Beijing Douyin Technology Co., Ltd.",
       "bundleId": "com.ss.iphone.ugc.Live.lite",
-      "releaseNotes": "对产品性能做了优化，用户使用更加流畅",
-      "releaseDate": "2019-11-08T08:00:00Z",
+      "trackId": 1485191072,
+      "trackName": "抖音商城-下单返积分、退货包运费",
+      "sellerName": "Beijing Douyin Technology Co., Ltd.",
+      "isVppDeviceBasedLicensingEnabled": true,
       "genreIds": [
         "6024"
       ],
       "primaryGenreName": "Shopping",
       "primaryGenreId": 6024,
-      "sellerName": "Beijing Douyin Technology Co., Ltd.",
-      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseNotes": "对产品性能做了优化，用户使用更加流畅",
       "currentVersionReleaseDate": "2026-09-28T04:13:59Z",
       "version": "40.6.1",
       "wrapperType": "software",
       "currency": "CNY",
       "description": "抖音电商旗下官方购物 APP。汇集精选好物，提供商品浏览、商品选购、订单管理、好物分享等电商功能。现在下载抖音商城APP，随时随地，购物无忧，让美好生活触手可得！\n\n【新人立减，首单包邮】 \n新人首单立减，商品一件包邮，即时开启省心购物之旅！\n【补贴加倍，周末抢5折】\n天天抽红包，下单返优惠，周末更有万人团促销活动，补贴加倍更实惠，尽享购物实惠与乐趣！\n【品类丰富，天天低价】 \n运动服饰、食品生鲜、美妆护肤，家居日用... 平台严选全品类好货，亲民价格畅享高品质商品。\n【直播购物，精选好货】 \n依托直播带货优势，精选好物主播亲测，实时互动展示商品细节，告别盲目下单，购物更加安心！\n【便捷体验，流畅随心】 \n界面简洁，操作流畅。搜商品、去下单、查物流、退换货... 随时随地，便捷购物随心享。",
-      "trackId": 1485191072,
-      "trackName": "抖音商城-下单返积分、退货包运费",
-      "artistId": 1170416082,
-      "artistName": "Beijing Douyin Technology Co., Ltd.",
-      "price": 0,
+      "minimumOsVersion": "15.0",
+      "releaseDate": "2019-11-08T08:00:00Z",
       "genres": [
         "购物"
       ],
-      "userRatingCount": 205697,
+      "userRatingCount": 206574,
       "country": "CHN"
     }
   ]

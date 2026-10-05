@@ -192,11 +192,19 @@
       "userRatingCount": 138
     },
     {
+      "isGameCenterEnabled": false,
+      "artistViewUrl": "https://apps.apple.com/us/developer/nihal-ahmed/id1497473330?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/0a/44/830a44b2-1512-1682-e1db-743c71138725/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/0a/44/830a44b2-1512-1682-e1db-743c71138725/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/100x100bb.jpg",
+      "advisories": [
+        "Infrequent/Mild Horror/Fear Themes",
+        "Infrequent/Mild Cartoon or Fantasy Violence",
+        "Infrequent/Mild Profanity or Crude Humor",
+        "Infrequent/Mild Mature/Suggestive Themes"
+      ],
       "features": [
         "iosUniversal"
       ],
-      "advisories": [],
-      "isGameCenterEnabled": false,
       "supportedDevices": [
         "MacDesktop-MacDesktop",
         "iPhone5s-iPhone5s",
@@ -331,11 +339,6 @@
         "iPhoneDuo-iPhoneDuo"
       ],
       "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/us/developer/nihal-ahmed/id1497473330?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/91/0f/e7910fef-57f9-796a-202c-7fd01dccad02/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/91/0f/e7910fef-57f9-796a-202c-7fd01dccad02/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/91/0f/e7910fef-57f9-796a-202c-7fd01dccad02/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5d/53/8e/5d538e03-f811-76f6-8c02-a36dc832d5ee/profiles_framed.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/53/da/ff/53daff51-6b9d-4bf4-7e21-309d52cc94b2/favorites_framed.png/320x480bb.jpg",
@@ -344,6 +347,8 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6c/f8/14/6cf8147b-d757-48e1-9bdd-432aeb43163b/multiview_framed.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/73/12/3d/73123d93-8d55-0968-4708-c443d544c450/catchup_framed.png/320x480bb.jpg"
       ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/0a/44/830a44b2-1512-1682-e1db-743c71138725/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2b/c2/61/2bc261e9-a06c-20c0-e54b-b9d54f6754e5/profiles_framed.png/360x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e9/25/42/e92542fa-6440-32e0-9d8b-6d1a2036d4d9/favorites_framed.png/360x480bb.jpg",
@@ -352,32 +357,33 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/44/4c/0e/444c0ed1-2bcc-30d1-a3dc-49448bb4bd3c/multiview_framed.png/360x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f7/70/4b/f7704b7e-cbdb-4c0f-d673-183eacc1350e/catchup_framed.png/360x480bb.jpg"
       ],
-      "bundleId": "com.na.istb",
       "minimumOsVersion": "13.0",
-      "currentVersionReleaseDate": "2025-12-19T21:02:40Z",
-      "releaseNotes": "- Added local M3U playlist support - requires iCloud account\n- Added IMDb link in VOD details\n- Updated profiles screen to use the app background image set in miscellaneous preferences\n- Fixed an issue with some episodes not being marked as watched on Trakt\n- Fixed some UI issues and made some UI improvements",
-      "artistId": 1497473330,
-      "artistName": "Nihal Ahmed",
+      "releaseNotes": "- Added ability to control audio delay - access from player controls\n- Added ability to hide profile sections - access from main profile screen\n- Updated opening of recent items to open the downloaded copy if available\n- Updated player libraries\n- Fixed an issue with VOD not resuming from the most recently saved progress\n- Fixed an issue with VOD not unpausing properly when returning to the app on player 3\n- Fixed an issue with removing a profile PIN also prompting to enable biometrics\n- Fixed some UI issues and made some UI improvements",
+      "contentAdvisoryRating": "9+",
+      "trackCensoredName": "iSTB",
+      "trackViewUrl": "https://apps.apple.com/us/app/istb/id1497473331?uo=4",
+      "averageUserRating": 4.57273,
+      "genres": [
+        "Entertainment"
+      ],
       "price": 14.99,
-      "primaryGenreName": "Entertainment",
-      "primaryGenreId": 6016,
-      "releaseDate": "2020-02-14T08:00:00Z",
-      "trackId": 1497473331,
       "trackName": "iSTB",
-      "sellerName": "Nihal Ahmed",
+      "trackId": 1497473331,
+      "bundleId": "com.na.istb",
+      "releaseDate": "2020-02-14T08:00:00Z",
       "genreIds": [
         "6016"
       ],
+      "sellerName": "Nihal Ahmed",
+      "primaryGenreName": "Entertainment",
+      "primaryGenreId": 6016,
       "isVppDeviceBasedLicensingEnabled": true,
-      "version": "1.29.3",
+      "currentVersionReleaseDate": "2026-10-03T22:47:07Z",
+      "version": "1.29.4",
       "wrapperType": "software",
       "currency": "USD",
       "description": "iSTB allows you to watch IPTV from MAC address based providers which use Stalker Middleware, providers using the Xtream Codes API and M3U playlists.\n\n**Please use the iSTB Lite app to check if your provider is supported**\n**Some providers are not supported**\n\nFeatures:\n- Add/remove unlimited portals\n- Connect to multiple portals at once with profile groups\n- Search genres by name\n- Search channels by name\n- Add channels to a favorites list\n- Full electronic programming guide or EPG (dependent on your provider)\n- View & download VOD content (dependent on your provider)\n- Catch up on past programs (dependent on your provider)\n- Watch VOD with subtitles from OpenSubtitles\n- Resuming of VOD and catch up content\n- Play audio in background\n- Watch multiple streams at once with Multi View (dependent on your provider)\n- Play picture in picture (supported devices)\n- Cast to TV (May not work with all providers. Requires VLC app to be installed and a Chromecast.)\n- Watch content in portrait or landscape\n- Dark theme\n- And more!\n\nPlease note:\n- This app works with MAC address & Xtream Codes based IPTV providers and M3U playlists only. Download the iSTB Lite app to check if your provider is supported.\n- You will need a valid subscription with an IPTV provider to watch content. This app does not offer any video or audio content itself.\n- All content is provided by your IPTV provider. If you have any questions or problems regarding the content or your subscription, please contact your IPTV provider directly.\n- You will need an active internet connection to watch content. Data charges may apply. Please check with your internet provider directly.\n- By using this app, you acknowledge and agree that you have the legal right to access and view the content provided by you. The app does not host, store, or distribute any copyrighted content. Users are solely responsible for ensuring that they comply with applicable laws, regulations, and copyright agreements when accessing and streaming content. The app and its developers assume no liability for any misuse of the service. If you do not have the necessary rights to access certain content, you must refrain from using the app for such purposes.",
-      "trackCensoredName": "iSTB",
-      "trackViewUrl": "https://apps.apple.com/us/app/istb/id1497473331?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.57003,
-      "averageUserRatingForCurrentVersion": 4.57003,
+      "averageUserRatingForCurrentVersion": 4.57273,
       "languageCodesISO2A": [
         "AR",
         "EN",
@@ -389,14 +395,13 @@
         "ZH",
         "TR"
       ],
-      "fileSizeBytes": "96782336",
+      "fileSizeBytes": "101126144",
       "formattedPrice": "$14.99",
-      "userRatingCountForCurrentVersion": 1749,
-      "trackContentRating": "4+",
-      "genres": [
-        "Entertainment"
-      ],
-      "userRatingCount": 1749,
+      "userRatingCountForCurrentVersion": 1760,
+      "trackContentRating": "9+",
+      "artistId": 1497473330,
+      "artistName": "Nihal Ahmed",
+      "userRatingCount": 1760,
       "country": "USA"
     }
   ]

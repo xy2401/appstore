@@ -184,8 +184,6 @@
       "userRatingCount": 695
     },
     {
-      "isGameCenterEnabled": false,
-      "features": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -318,11 +316,14 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "features": [],
       "advisories": [],
+      "isGameCenterEnabled": false,
       "kind": "software",
       "artistViewUrl": "https://apps.apple.com/jp/developer/ilias-arslanov/id1830193041?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/48/1e/11481e57-7b9e-7e86-7fb5-3b20ea451f83/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/48/1e/11481e57-7b9e-7e86-7fb5-3b20ea451f83/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/e6/19/fae61986-2bf1-0315-6d82-ed89a37a05a3/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/e6/19/fae61986-2bf1-0315-6d82-ed89a37a05a3/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/e6/19/fae61986-2bf1-0315-6d82-ed89a37a05a3/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/88/26/6e/88266e98-a9d0-d50c-e6fb-4d2e91278553/Template_3__U0028Simple_Gradient_U0029_0_app.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/66/83/13/668313b8-1ca5-8dca-4d6e-6c42249c6744/Template_3__U0028Simple_Gradient_U0029_7_app.png/320x480bb.jpg",
@@ -337,27 +338,26 @@
       ],
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/48/1e/11481e57-7b9e-7e86-7fb5-3b20ea451f83/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
-      "minimumOsVersion": "17.0",
+      "bundleId": "com.IARAPP.LiveSoul",
       "artistId": 1830193041,
+      "price": 0,
       "artistName": "Ilias Arslanov",
       "genres": [
         "ミュージック",
         "エンターテインメント"
       ],
-      "price": 0,
-      "currentVersionReleaseDate": "2026-09-27T05:25:37Z",
       "trackId": 6749361532,
       "trackName": "LiveSoul",
+      "primaryGenreName": "Music",
+      "primaryGenreId": 6011,
       "genreIds": [
         "6011",
         "6016"
       ],
       "releaseDate": "2025-08-12T07:00:00Z",
-      "primaryGenreName": "Music",
-      "primaryGenreId": 6011,
       "sellerName": "Ilias Arslanov",
       "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-09-27T05:25:37Z",
       "releaseNotes": "・抽選の当選率を、申込ごとに「当選は1公演のみ」「複数当選あり」から選んで計算できるようになりました\n・アーティストのディスコグラフィーで、アルバム・シングルごとに各曲をライブで聴いた回数を確認できるようになりました\n・安定性の向上と不具合の修正",
       "version": "1.8.9",
       "wrapperType": "software",
@@ -366,18 +366,18 @@
       "trackCensoredName": "LiveSoul",
       "trackViewUrl": "https://apps.apple.com/jp/app/livesoul/id6749361532?uo=4",
       "contentAdvisoryRating": "4+",
-      "bundleId": "com.IARAPP.LiveSoul",
-      "averageUserRatingForCurrentVersion": 4.5693,
+      "averageUserRating": 4.56924,
+      "minimumOsVersion": "17.0",
+      "averageUserRatingForCurrentVersion": 4.56924,
       "languageCodesISO2A": [
         "JA"
       ],
       "fileSizeBytes": "17839104",
-      "formattedPrice": "無料",
-      "userRatingCountForCurrentVersion": 1811,
-      "trackContentRating": "4+",
-      "averageUserRating": 4.5693,
       "sellerUrl": "https://livesoul.jp",
-      "userRatingCount": 1811,
+      "formattedPrice": "無料",
+      "userRatingCountForCurrentVersion": 1827,
+      "trackContentRating": "4+",
+      "userRatingCount": 1827,
       "country": "JPN"
     }
   ]

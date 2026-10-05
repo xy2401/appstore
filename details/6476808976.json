@@ -176,10 +176,13 @@
       "userRatingCount": 37
     },
     {
+      "isGameCenterEnabled": false,
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/5c/43/ba5c43e9-d463-4751-b753-6bd8cf1ed93a/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/5c/43/ba5c43e9-d463-4751-b753-6bd8cf1ed93a/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/100x100bb.jpg",
       "artistViewUrl": "https://apps.apple.com/jp/developer/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%AD%E3%82%A4%E3%83%AD%E4%B9%83%E3%82%AB%E3%83%A2/id1796537168?uo=4",
-      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -312,17 +315,8 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "features": [
-        "iosUniversal"
-      ],
       "advisories": [],
       "kind": "software",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8e/47/87/8e47872c-4100-3bfe-ccca-41799b8fe3c3/6.7SS01.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/83/fb/b5/83fbb57c-a15e-3f45-7748-149983318d3b/6.7SS02.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/15/a5/14/15a514f9-0f38-41b1-4bc9-15c28e651a14/6.7SS03.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fe/55/c8/fe55c8dd-7679-6341-599d-bdc3dda034fd/6.7SS04.png/320x480bb.jpg"
-      ],
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/30/2f/31/302f3102-88a1-6026-1c06-ec8b75549c98/TabletSS01.png/360x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a7/ec/b6/a7ecb6d4-6fa6-74ce-8a7b-668348749520/TabletSS02.png/360x480bb.jpg",
@@ -331,27 +325,38 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/5c/43/ba5c43e9-d463-4751-b753-6bd8cf1ed93a/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/512x512bb.jpg",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8e/47/87/8e47872c-4100-3bfe-ccca-41799b8fe3c3/6.7SS01.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/83/fb/b5/83fbb57c-a15e-3f45-7748-149983318d3b/6.7SS02.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/15/a5/14/15a514f9-0f38-41b1-4bc9-15c28e651a14/6.7SS03.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fe/55/c8/fe55c8dd-7679-6341-599d-bdc3dda034fd/6.7SS04.png/320x480bb.jpg"
+      ],
       "minimumOsVersion": "12.0",
+      "releaseNotes": "・復習機能を追加",
       "contentAdvisoryRating": "4+",
       "trackCensoredName": "機械保全技能検定 1級 過去問集",
       "trackViewUrl": "https://apps.apple.com/jp/app/%E6%A9%9F%E6%A2%B0%E4%BF%9D%E5%85%A8%E6%8A%80%E8%83%BD%E6%A4%9C%E5%AE%9A-1%E7%B4%9A-%E9%81%8E%E5%8E%BB%E5%95%8F%E9%9B%86/id6476808976?uo=4",
       "averageUserRating": 3.73585,
+      "artistId": 1796537168,
+      "artistName": "株式会社キイロ乃カモ",
       "genres": [
         "教育",
         "ビジネス"
       ],
-      "artistName": "株式会社キイロ乃カモ",
       "price": 500,
-      "artistId": 1796537168,
       "bundleId": "jp.ktg.machinery1",
-      "trackId": 6476808976,
-      "trackName": "機械保全技能検定 1級 過去問集",
-      "releaseNotes": "・復習機能を追加",
+      "currentVersionReleaseDate": "2026-07-27T01:15:44Z",
+      "releaseDate": "2024-09-22T07:00:00Z",
+      "genreIds": [
+        "6017",
+        "6000"
+      ],
       "primaryGenreName": "Education",
       "primaryGenreId": 6017,
-      "releaseDate": "2024-09-22T07:00:00Z",
+      "trackId": 6476808976,
+      "trackName": "機械保全技能検定 1級 過去問集",
       "sellerName": "KIIRONOKAMO, K.K.",
-      "currentVersionReleaseDate": "2026-07-27T01:15:44Z",
+      "isVppDeviceBasedLicensingEnabled": true,
       "version": "2.0.0",
       "wrapperType": "software",
       "currency": "JPY",
@@ -364,11 +369,6 @@
       "formattedPrice": "¥500",
       "userRatingCountForCurrentVersion": 53,
       "trackContentRating": "4+",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "genreIds": [
-        "6017",
-        "6000"
-      ],
       "userRatingCount": 53,
       "country": "JPN"
     }

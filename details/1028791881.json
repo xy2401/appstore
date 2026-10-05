@@ -185,10 +185,11 @@
       "userRatingCount": 8560
     },
     {
+      "isGameCenterEnabled": false,
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/65/c3/b465c332-f739-42dd-bb40-2e8fd5a81558/PhotographPlus2Icon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/65/c3/b465c332-f739-42dd-bb40-2e8fd5a81558/PhotographPlus2Icon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.jpg",
       "artistViewUrl": "https://apps.apple.com/jp/developer/naoya-maeda/id1028791880?uo=4",
-      "isGameCenterEnabled": false,
+      "features": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -321,9 +322,11 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "features": [],
       "advisories": [],
       "kind": "software",
+      "ipadScreenshotUrls": [],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/65/c3/b465c332-f739-42dd-bb40-2e8fd5a81558/PhotographPlus2Icon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f0/a3/b7/f0a3b7c7-b234-b665-47d4-4abe9c9e901f/1.jpg/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4e/15/70/4e157031-72c2-5f51-056b-3d8aad1594e8/2.jpg/320x480bb.jpg",
@@ -336,29 +339,30 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7a/3e/b8/7a3eb896-7103-ea6a-51b8-0d6cb036eab4/9.jpg/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f5/43/e4/f543e466-71df-cd68-a4d6-768954e2a5ce/10.jpg/320x480bb.jpg"
       ],
-      "ipadScreenshotUrls": [],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/65/c3/b465c332-f739-42dd-bb40-2e8fd5a81558/PhotographPlus2Icon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "minimumOsVersion": "18.0",
+      "releaseNotes": "◉ 保守\niOS 26.6.1 に対応\n\n◉ 改善\n・内部処理の改善\n\nPhotograph+ 2 をご利用いただきありがとうございます。\nご不明点はアプリ内の「よくあるご質問」をご確認ください。解決しない場合は「情報」タブの［フィードバック］よりご連絡ください。\n今後も安定性の向上と機能改善を継続してまいります。",
       "contentAdvisoryRating": "4+",
       "trackCensoredName": "Photograph+ - 48 MP 高画質 マナーカメラ",
       "trackViewUrl": "https://apps.apple.com/jp/app/photograph-48-mp-%E9%AB%98%E7%94%BB%E8%B3%AA-%E3%83%9E%E3%83%8A%E3%83%BC%E3%82%AB%E3%83%A1%E3%83%A9/id1028791881?uo=4",
       "averageUserRating": 4.50175,
+      "artistId": 1028791880,
+      "artistName": "Naoya Maeda",
       "genres": [
         "写真／ビデオ"
       ],
-      "artistName": "Naoya Maeda",
       "price": 300,
-      "artistId": 1028791880,
       "bundleId": "Photograph",
-      "trackId": 1028791881,
-      "trackName": "Photograph+ - 48 MP 高画質 マナーカメラ",
-      "releaseNotes": "◉ 保守\niOS 26.6.1 に対応\n\n◉ 改善\n・内部処理の改善\n\nPhotograph+ 2 をご利用いただきありがとうございます。\nご不明点はアプリ内の「よくあるご質問」をご確認ください。解決しない場合は「情報」タブの［フィードバック］よりご連絡ください。\n今後も安定性の向上と機能改善を継続してまいります。",
+      "currentVersionReleaseDate": "2026-08-28T08:14:07Z",
+      "releaseDate": "2015-10-04T06:52:46Z",
+      "genreIds": [
+        "6008"
+      ],
       "primaryGenreName": "Photo & Video",
       "primaryGenreId": 6008,
-      "releaseDate": "2015-10-04T06:52:46Z",
+      "trackId": 1028791881,
+      "trackName": "Photograph+ - 48 MP 高画質 マナーカメラ",
       "sellerName": "Naoya Maeda",
-      "currentVersionReleaseDate": "2026-08-28T08:14:07Z",
+      "isVppDeviceBasedLicensingEnabled": true,
       "version": "26.08.29",
       "wrapperType": "software",
       "currency": "JPY",
@@ -373,13 +377,9 @@
       ],
       "fileSizeBytes": "182587392",
       "formattedPrice": "¥300",
-      "userRatingCountForCurrentVersion": 8590,
+      "userRatingCountForCurrentVersion": 8594,
       "trackContentRating": "4+",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "genreIds": [
-        "6008"
-      ],
-      "userRatingCount": 8590,
+      "userRatingCount": 8594,
       "country": "JPN"
     }
   ]

@@ -186,8 +186,6 @@
       "userRatingCount": 38191
     },
     {
-      "isGameCenterEnabled": false,
-      "features": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -320,14 +318,17 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "features": [],
       "advisories": [
         "ギャンブル",
         "無制限のWebアクセス"
       ],
+      "isGameCenterEnabled": false,
       "kind": "software",
       "artistViewUrl": "https://apps.apple.com/jp/developer/jra/id484849934?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/c7/4f/2cc74f50-fb41-5dd6-46fc-c90d89da2543/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/c7/4f/2cc74f50-fb41-5dd6-46fc-c90d89da2543/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/c7/4f/2cc74f50-fb41-5dd6-46fc-c90d89da2543/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/50/98/cc/5098cc43-e47f-26b8-965f-2d36441a7fe2/01.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/05/e3/58/05e3582d-1670-87d7-bfff-d949d2b07765/02.png/320x480bb.jpg",
@@ -340,27 +341,26 @@
       ],
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/c7/4f/2cc74f50-fb41-5dd6-46fc-c90d89da2543/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
-      "minimumOsVersion": "16.6",
+      "bundleId": "jp.go.jra.JRAOfficialApp",
       "artistId": 484849934,
+      "price": 0,
       "artistName": "JRA",
       "genres": [
         "スポーツ",
         "エンターテインメント"
       ],
-      "price": 0,
-      "currentVersionReleaseDate": "2026-08-17T01:00:17Z",
       "trackId": 6450705058,
       "trackName": "JRA公式 - 競馬 馬券の購入や競馬予想できる競馬アプリ",
+      "primaryGenreName": "Sports",
+      "primaryGenreId": 6004,
       "genreIds": [
         "6004",
         "6016"
       ],
       "releaseDate": "2023-09-21T07:00:00Z",
-      "primaryGenreName": "Sports",
-      "primaryGenreId": 6004,
       "sellerName": "Japan Racing Association",
       "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-08-17T01:00:17Z",
       "releaseNotes": "◆ホーム画面の一部のバナーの変更を行いました。\n◆その他、軽微な修正を行いました。\n\nJRAアプリは2023年9月22日にリリースしたもので、それ以前から提供しているJRAの各種サービスとは関係なく、ご利用には新規登録が必要です。",
       "version": "1.5.4",
       "wrapperType": "software",
@@ -369,17 +369,17 @@
       "trackCensoredName": "JRA公式 - 競馬 馬券の購入や競馬予想できる競馬アプリ",
       "trackViewUrl": "https://apps.apple.com/jp/app/jra%E5%85%AC%E5%BC%8F-%E7%AB%B6%E9%A6%AC-%E9%A6%AC%E5%88%B8%E3%81%AE%E8%B3%BC%E5%85%A5%E3%82%84%E7%AB%B6%E9%A6%AC%E4%BA%88%E6%83%B3%E3%81%A7%E3%81%8D%E3%82%8B%E7%AB%B6%E9%A6%AC%E3%82%A2%E3%83%97%E3%83%AA/id6450705058?uo=4",
       "contentAdvisoryRating": "17+",
-      "bundleId": "jp.go.jra.JRAOfficialApp",
-      "averageUserRatingForCurrentVersion": 4.46268,
+      "averageUserRating": 4.46182,
+      "minimumOsVersion": "16.6",
+      "averageUserRatingForCurrentVersion": 4.46182,
       "languageCodesISO2A": [
         "JA"
       ],
       "fileSizeBytes": "114134016",
       "formattedPrice": "無料",
-      "userRatingCountForCurrentVersion": 47359,
+      "userRatingCountForCurrentVersion": 47581,
       "trackContentRating": "17+",
-      "averageUserRating": 4.46268,
-      "userRatingCount": 47359,
+      "userRatingCount": 47581,
       "country": "JPN"
     }
   ]

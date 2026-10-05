@@ -184,9 +184,6 @@
       "userRatingCount": 0
     },
     {
-      "artistViewUrl": "https://apps.apple.com/us/developer/tknye/id1783198959?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/1f/3a/7d1f3af3-1029-e8ae-66d1-64efb638d818/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/1f/3a/7d1f3af3-1029-e8ae-66d1-64efb638d818/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
       "features": [],
       "supportedDevices": [
@@ -321,8 +318,10 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
       "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/us/developer/tknye/id1783198959?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/1f/3a/7d1f3af3-1029-e8ae-66d1-64efb638d818/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/1f/3a/7d1f3af3-1029-e8ae-66d1-64efb638d818/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8c/15/3e/8c153e92-3704-8e35-60fe-4d2c77f7b964/1.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/10/da/b2/10dab2c8-6c32-a1f7-530c-61d93a53f6c6/2.png/320x480bb.jpg",
@@ -338,45 +337,46 @@
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/1f/3a/7d1f3af3-1029-e8ae-66d1-64efb638d818/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
-      "formattedPrice": "$19.99",
-      "fileSizeBytes": "19997696",
-      "releaseNotes": "What’s New in Version 3.6.1\n• Squashed bugs\n\nWhat’s New in Version 3.6\n• Added video recording to the Sun Tracker\n• Enabled zoom with Fusion cameras\n• Squashed bugs and made performance improvements throughout the app\n\nWhat’s New in Version 3.5\n• Maps + Sun Path — Visualize the sun’s path directly on the map to help plan your shots and locations.\n• 3D Sun POV — Explore the sun’s position from its point of view using 3D maps for a better understanding of how light will interact with your location.\n• Location Privacy — You can now hide location data when exporting frames.\n• Improvements & Fixes — Additional refinements and minor improvements throughout the app.",
-      "trackCensoredName": "CineTemp",
-      "trackViewUrl": "https://apps.apple.com/us/app/cinetemp/id6738967033?uo=4",
-      "contentAdvisoryRating": "4+",
+      "advisories": [],
+      "minimumOsVersion": "18.6",
       "averageUserRating": 4.90323,
       "artistId": 1783198959,
-      "artistName": "TKNYE",
       "genres": [
         "Photo & Video",
         "Productivity"
       ],
       "price": 19.99,
+      "artistName": "TKNYE",
+      "isVppDeviceBasedLicensingEnabled": true,
       "bundleId": "com.keatonnye.EasyTemp",
+      "releaseNotes": "What’s New in Version 3.6.1\n• Squashed bugs\n\nWhat’s New in Version 3.6\n• Added video recording to the Sun Tracker\n• Enabled zoom with Fusion cameras\n• Squashed bugs and made performance improvements throughout the app\n\nWhat’s New in Version 3.5\n• Maps + Sun Path — Visualize the sun’s path directly on the map to help plan your shots and locations.\n• 3D Sun POV — Explore the sun’s position from its point of view using 3D maps for a better understanding of how light will interact with your location.\n• Location Privacy — You can now hide location data when exporting frames.\n• Improvements & Fixes — Additional refinements and minor improvements throughout the app.",
+      "releaseDate": "2024-12-17T08:00:00Z",
       "trackId": 6738967033,
       "trackName": "CineTemp",
-      "releaseDate": "2024-12-17T08:00:00Z",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "genreIds": [
-        "6008",
-        "6007"
-      ],
-      "primaryGenreName": "Photo & Video",
-      "primaryGenreId": 6008,
-      "sellerName": "TKNYE, LLC",
       "currentVersionReleaseDate": "2026-09-22T12:28:38Z",
       "version": "3.6.1",
       "wrapperType": "software",
       "currency": "USD",
       "description": "KEY FEATURES:\n\t•\tApproximate color temperature readings through your iPhone camera\n\t•\tApproximate ND calculation through your iPhone camera\n\t•\tReal-time values using wide, telephoto, and front-facing lenses\n\t•\tLuminance histogram\n\t•\tLocation-aware shot library with custom notes and metadata\n\t•\tScene comparison tools to assist with color consistency\n\nPerfect for:\n\t•\tLocation scouting\n\t•\tPre-production planning\n\t•\tOn-set color adjustments\n\t•\tWhite balance optimization\n\t•\tMulti-camera coordination\n\nCreated by filmmakers for filmmakers, CineTemp is designed to simplify your workflow and support your creative vision. While it’s not total replacement for dedicated hardware, CineTemp offers an intuitive way to make informed color decisions.\n\nThe app seamlessly integrates with most iPhone cameras, and the customizable interface keeps essential tools at your fingertips. Save and organize your readings with automatic time, date, and location tagging to streamline your pre-production process.\n\nJoin the creators using CineTemp to elevate their craft. \n\nDownload now and explore an innovative approach to color temperature measurement.",
-      "minimumOsVersion": "18.6",
+      "contentAdvisoryRating": "4+",
+      "trackCensoredName": "CineTemp",
+      "trackViewUrl": "https://apps.apple.com/us/app/cinetemp/id6738967033?uo=4",
       "averageUserRatingForCurrentVersion": 4.90323,
       "sellerUrl": "https://www.cinetemp.com/privacy",
       "languageCodesISO2A": [
         "EN"
       ],
+      "fileSizeBytes": "19997696",
+      "formattedPrice": "$19.99",
       "userRatingCountForCurrentVersion": 31,
       "trackContentRating": "4+",
+      "primaryGenreName": "Photo & Video",
+      "primaryGenreId": 6008,
+      "sellerName": "TKNYE, LLC",
+      "genreIds": [
+        "6008",
+        "6007"
+      ],
       "userRatingCount": 31,
       "country": "USA"
     },

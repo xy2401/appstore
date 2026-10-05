@@ -184,8 +184,6 @@
       "userRatingCount": 7
     },
     {
-      "isGameCenterEnabled": false,
-      "features": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -318,11 +316,14 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "features": [],
       "advisories": [],
+      "isGameCenterEnabled": false,
       "kind": "software",
       "artistViewUrl": "https://apps.apple.com/jp/developer/takuya-takahashi/id1837085463?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/5c/95/8a5c958f-4d01-b18c-76e8-1919535daf20/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/5c/95/8a5c958f-4d01-b18c-76e8-1919535daf20/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/5c/95/8a5c958f-4d01-b18c-76e8-1919535daf20/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/98/b6/5a/98b65af4-b022-2522-0667-c2e60accabf8/screenshot_landscape.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e6/23/be/e623be3e-c363-79bb-d87a-2f0bc223f9aa/04.png/320x480bb.jpg",
@@ -333,27 +334,26 @@
       ],
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/5c/95/8a5c958f-4d01-b18c-76e8-1919535daf20/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "minimumOsVersion": "13.0",
+      "bundleId": "com.benristudio.studies.aipassport",
       "artistId": 1837085463,
+      "price": 700,
       "artistName": "Takuya Takahashi",
       "genres": [
         "教育",
         "ユーティリティ"
       ],
-      "price": 700,
-      "currentVersionReleaseDate": "2026-08-06T09:06:57Z",
       "trackId": 6759667561,
       "trackName": "生成AIパスポート 過去問・問題集",
+      "primaryGenreName": "Education",
+      "primaryGenreId": 6017,
       "genreIds": [
         "6017",
         "6002"
       ],
       "releaseDate": "2026-02-26T08:00:00Z",
-      "primaryGenreName": "Education",
-      "primaryGenreId": 6017,
       "sellerName": "Takuya Takahashi",
       "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-08-06T09:06:57Z",
       "releaseNotes": "■ 新機能\n・ライト/ダークモードに対応しました。設定からテーマを選択できます（初期設定は端末の設定に追従）\n・問題・用語から「AIに質問」「Googleで検索」ができるようになりました。一覧画面の各問題・各単語からも利用できます\n・学習進捗をサーバーにバックアップし、機種変更や再インストール後に復元できるようになりました（教材ごとに保存）\n・ボードに「目標到達まで自動で学習する」機能を追加しました\n・テストの出題方式を「固定」「ランダム」から選べるようになりました\n・教材の更新をお知らせするバナーを追加しました。更新ダイアログでは「今すぐ更新」「あとで」「このバージョンをスキップ」を選べます\n・学習記録をXに投稿できるようになりました。投稿用の画像はカメラロールにも保存されます\n・設定に「アプリについて」を追加し、免責事項・著作権・商標の表記を確認できるようにしました\n・初回起動時のオンボーディングで、学習期間と1日の学習時間を設定できるようにしました\n\n■ 改善\n・アプリを起動してすぐ教材を表示できるようにしました（オフラインでも初回表示が可能です）\n・一覧画面に番号インデックス、「すべて開く／すべて閉じる」の切り替えを追加し、開閉状態を保持するようにしました\n・カレンダーで未来の日付には進捗を表示しないようにしました\n・中断機能は教材の学習のみに限定しました（復習・テストは閉じると通常終了します）\n\n■ 修正\n・アプリ更新時に学習進捗が消えることがある問題を修正しました\n・「全問まとめて学習」が開始できない、または強制終了する問題を修正しました\n・進捗をリセットしても画面に反映されない問題を修正しました\n・一覧画面の検索が機能しない問題、選択中のタブが読みにくい問題を修正しました\n・用語をタップした際に別の単語が表示されることがある問題を修正しました\n・アプリ内に登録のない用語をタップした際に、その旨を表示するようにしました\n・iPhone SE（第2世代）で画面の一部が見切れる問題を修正しました",
       "version": "1.0.5",
       "wrapperType": "software",
@@ -362,8 +362,9 @@
       "trackCensoredName": "生成AIパスポート 過去問・問題集",
       "trackViewUrl": "https://apps.apple.com/jp/app/%E7%94%9F%E6%88%90ai%E3%83%91%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%88-%E9%81%8E%E5%8E%BB%E5%95%8F-%E5%95%8F%E9%A1%8C%E9%9B%86/id6759667561?uo=4",
       "contentAdvisoryRating": "4+",
-      "bundleId": "com.benristudio.studies.aipassport",
-      "averageUserRatingForCurrentVersion": 4.12,
+      "averageUserRating": 4.15385,
+      "minimumOsVersion": "13.0",
+      "averageUserRatingForCurrentVersion": 4.15385,
       "languageCodesISO2A": [
         "EN",
         "FR",
@@ -376,10 +377,9 @@
       ],
       "fileSizeBytes": "97177600",
       "formattedPrice": "¥700",
-      "userRatingCountForCurrentVersion": 25,
+      "userRatingCountForCurrentVersion": 26,
       "trackContentRating": "4+",
-      "averageUserRating": 4.12,
-      "userRatingCount": 25,
+      "userRatingCount": 26,
       "country": "JPN"
     }
   ]

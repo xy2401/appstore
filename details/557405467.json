@@ -187,12 +187,7 @@
     },
     {
       "isGameCenterEnabled": false,
-      "artistViewUrl": "https://apps.apple.com/de/developer/techet/id401457168?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/7e/0e/e87e0ef9-106c-86ca-4b4d-74e13ce814a7/AppIcon-0-0-1x_U007epad-0-8-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/7e/0e/e87e0ef9-106c-86ca-4b4d-74e13ce814a7/AppIcon-0-0-1x_U007epad-0-8-0-85-220.png/100x100bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -326,6 +321,14 @@
         "iPhoneDuo-iPhoneDuo"
       ],
       "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/de/developer/techet/id401457168?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/7e/0e/e87e0ef9-106c-86ca-4b4d-74e13ce814a7/AppIcon-0-0-1x_U007epad-0-8-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/7e/0e/e87e0ef9-106c-86ca-4b4d-74e13ce814a7/AppIcon-0-0-1x_U007epad-0-8-0-85-220.png/100x100bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/7e/0e/e87e0ef9-106c-86ca-4b4d-74e13ce814a7/AppIcon-0-0-1x_U007epad-0-8-0-85-220.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9a/92/f4/9a92f45f-07ad-1a83-2bec-e4a829d31a5c/1.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/29/4c/47/294c4713-135c-31bb-cfb8-aadac9563d85/2.png/320x480bb.jpg",
@@ -348,13 +351,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f8/81/9d/f8819d4e-10d3-d7c4-ab71-19e1bf8438dc/4.png/360x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/39/6b/e7/396be75e-daf7-4442-8c6a-2b411e835202/5.png/360x480bb.jpg"
       ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/7e/0e/e87e0ef9-106c-86ca-4b4d-74e13ce814a7/AppIcon-0-0-1x_U007epad-0-8-0-85-220.png/512x512bb.jpg",
-      "advisories": [],
-      "trackCensoredName": "Network Analyzer Pro: IP Tools",
-      "trackViewUrl": "https://apps.apple.com/de/app/network-analyzer-pro-ip-tools/id557405467?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.77451,
       "artistId": 401457168,
       "artistName": "Techet",
       "genres": [
@@ -362,35 +358,39 @@
         "Produktivität"
       ],
       "price": 3.99,
+      "sellerName": "Jiri Techet",
+      "bundleId": "net.techet.netanalyzer",
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseDate": "2012-09-18T22:22:06Z",
+      "trackId": 557405467,
+      "trackName": "Network Analyzer Pro: IP Tools",
       "genreIds": [
         "6002",
         "6007"
       ],
-      "releaseDate": "2012-09-18T22:22:06Z",
-      "trackId": 557405467,
-      "trackName": "Network Analyzer Pro: IP Tools",
       "currentVersionReleaseDate": "2026-09-13T09:27:54Z",
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
-      "sellerName": "Jiri Techet",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseNotes": "- MAC addresses and vendors are shown again on iOS 27 and newer\n- IPv4/IPv6 calculator with details about addresses, ranges and subnets\n- MAC address browser showing details about a MAC address, with custom name and vendor assignment\n- Speed test: server latency measurement, full results (including graphs) kept in history, and custom names and notes for history items\n- WS-Discovery support in the LAN scanner, improving device detection on Windows networks\n- Improved device name and vendor detection in the LAN scanner\n- Support for scanning devices connected to the personal hotspot\n- iOS 27 compatibility fixes\n- Many other bug fixes and minor improvements",
       "version": "9.2",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Network Analyzer Pro is a complete network toolkit that turns your iPhone or iPad into a powerful diagnostic instrument. Whether you are troubleshooting a slow connection, tracking down unknown devices, or exploring how the internet routes your traffic, it puts professional-grade tools right in your pocket - no desktop or extra hardware required.\n\nDiscover every device on your LAN, watch your traceroute unfold on a world map, measure your real download and upload speeds, work out any subnet with the IP calculator, and diagnose any host with ping, traceroute, port scanning, DNS lookup, and whois. From home users to IT professionals, Network Analyzer Pro delivers everything you need in one polished app.\n\nLAN scanner:\n- Fast and reliable detection of all devices on Wi-Fi, VPN, and personal hotspot networks\n- IP addresses, MAC addresses, and vendors of all discovered devices\n- NetBIOS, mDNS (Bonjour), LLMNR, DNS, SNMP, and WS-Discovery names\n- Reachability (ping) test, IPv6 availability, and IPv6 addresses\n- Custom device names and vendors, scan history, and favorites\n- Quick actions: open the web interface, browse Bonjour and UPnP services, or wake the device\n- Wake on LAN (WOL) including remote WOL\n- Scan of custom IP ranges, filtering, and search in the device list\n\nPing & traceroute:\n- Round-trip delay, IP address, and hostname for every node\n- Selectable ICMP, UDP, and TCP ping and ICMP/UDP traceroute probes\n- Configurable probe delay, payload size, TCP port, and don't-fragment flag\n- Audible ping\n- Geolocation (latitude, longitude, country, city, time zone), AS number, and network name\n- Complete traceroute visualization on the map\n- Real-time graphical ping statistics\n\nPort scanner:\n- Scan common ports, custom ranges, or the complete port range\n- Detection of closed, firewalled, and open ports\n- Descriptions of known port services\n- Editable common port list and adjustable scan rate\n\nWhois:\n- Look up domains, IP addresses, and AS numbers\n- Classic whois and the modern RDAP protocol, with custom servers\n\nDNS lookup:\n- Functionality similar to nslookup or dig\n- Query all record types at once or a single type\n- A, AAAA, CAA, CNAME, HINFO, LOC, MX, NAPTR, NS, PTR, SOA, SPF, SRV, SSHFP, and TXT records\n- DNSSEC records: DNSKEY, CDNSKEY, RRSIG, NSEC3PARAM, NSEC, NSEC3, DS, CDS, TLSA\n- Custom DNS server and port, no-recursion option, all response sections\n\nInternet speed:\n- Download, upload, and server latency measurement\n- Graphical speed test view\n- History with full results including graphs, custom names, and notes\n\nIP calculator:\n- Details about any IPv4 or IPv6 address, range, or subnet\n- Network, broadcast, masks, address count, type, class, IANA block, reverse DNS, supernet, subnet splitting, membership test\n- Binary, decimal, hex, and IPv6 forms (expanded, 6to4, NAT64, Teredo, EUI-64)\n\nMAC address browser:\n- Vendor lookup (IEEE MA-L, MA-M, MA-S), address type, administration, SLAP quadrant, and known use\n- Custom name and vendor assignment used throughout the app\n\nNetwork information:\n- Default gateway, DNS server, HTTP proxy, external IP (v4 and v6) with hostname, AS number, and AS name\n- Wi-Fi details: SSID, BSSID, router vendor, security type, IP address, and subnet mask\n- VPN, USB Ethernet, and personal hotspot connection details\n- Cell network type, with dual SIM support\n- Wi-Fi, cell, and VPN data usage since the last boot\n\nLocal service discovery:\n- Bonjour and UPnP/DLNA browsers\n\nSiri, Shortcuts, and controls:\n- Siri, Spotlight, and Shortcuts app support for every tool\n- Control Center, Lock Screen, and Action button controls\n- Share extension: query any website from Safari\n- Home screen quick actions\n\nMore:\n- No ads\n- Light and dark theme\n- Full IPv6 support everywhere, with selectable IPv4/IPv6\n- History of all performed tasks, with favorites\n- Export by email, AirPrint, and AirDrop\n- Copy/paste support\n- Detailed help\n- Regular updates",
       "minimumOsVersion": "18.0",
-      "bundleId": "net.techet.netanalyzer",
-      "averageUserRatingForCurrentVersion": 4.77451,
+      "trackCensoredName": "Network Analyzer Pro: IP Tools",
+      "trackViewUrl": "https://apps.apple.com/de/app/network-analyzer-pro-ip-tools/id557405467?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.77482,
       "sellerUrl": "https://techet.net/netanalyzer",
       "languageCodesISO2A": [
         "EN"
       ],
       "fileSizeBytes": "13243392",
       "formattedPrice": "3,99 €",
-      "userRatingCountForCurrentVersion": 2071,
+      "averageUserRatingForCurrentVersion": 4.77482,
+      "userRatingCountForCurrentVersion": 2074,
       "trackContentRating": "4+",
-      "userRatingCount": 2071,
+      "releaseNotes": "- MAC addresses and vendors are shown again on iOS 27 and newer\n- IPv4/IPv6 calculator with details about addresses, ranges and subnets\n- MAC address browser showing details about a MAC address, with custom name and vendor assignment\n- Speed test: server latency measurement, full results (including graphs) kept in history, and custom names and notes for history items\n- WS-Discovery support in the LAN scanner, improving device detection on Windows networks\n- Improved device name and vendor detection in the LAN scanner\n- Support for scanning devices connected to the personal hotspot\n- iOS 27 compatibility fixes\n- Many other bug fixes and minor improvements",
+      "userRatingCount": 2074,
       "country": "DEU"
     },
     {
@@ -602,6 +602,7 @@
       "country": "FRA"
     },
     {
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/7e/0e/e87e0ef9-106c-86ca-4b4d-74e13ce814a7/AppIcon-0-0-1x_U007epad-0-8-0-85-220.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9a/92/f4/9a92f45f-07ad-1a83-2bec-e4a829d31a5c/1.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/29/4c/47/294c4713-135c-31bb-cfb8-aadac9563d85/2.png/320x480bb.jpg",
@@ -612,6 +613,7 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/58/26/a4/5826a43c-f3c3-5681-852e-4d98a9d7ce33/7.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/05/09/ba/0509ba1f-42a3-2a78-73dc-38ab545e5a33/8.png/320x480bb.jpg"
       ],
+      "appletvScreenshotUrls": [],
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9c/2a/5d/9c2a5d8e-a5c3-cad9-a1ae-f7b1b919047e/na1.png/360x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0e/d2/1f/0ed21f13-1012-3b17-2e83-418529541dcd/na2.png/360x480bb.jpg",
@@ -624,11 +626,9 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f8/81/9d/f8819d4e-10d3-d7c4-ab71-19e1bf8438dc/4.png/360x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/39/6b/e7/396be75e-daf7-4442-8c6a-2b411e835202/5.png/360x480bb.jpg"
       ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/7e/0e/e87e0ef9-106c-86ca-4b4d-74e13ce814a7/AppIcon-0-0-1x_U007epad-0-8-0-85-220.png/60x60bb.jpg",
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/7e/0e/e87e0ef9-106c-86ca-4b4d-74e13ce814a7/AppIcon-0-0-1x_U007epad-0-8-0-85-220.png/512x512bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/7e/0e/e87e0ef9-106c-86ca-4b4d-74e13ce814a7/AppIcon-0-0-1x_U007epad-0-8-0-85-220.png/100x100bb.jpg",
       "artistViewUrl": "https://apps.apple.com/gb/developer/techet/id401457168?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/7e/0e/e87e0ef9-106c-86ca-4b4d-74e13ce814a7/AppIcon-0-0-1x_U007epad-0-8-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/7e/0e/e87e0ef9-106c-86ca-4b4d-74e13ce814a7/AppIcon-0-0-1x_U007epad-0-8-0-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
@@ -767,45 +767,45 @@
       ],
       "advisories": [],
       "kind": "software",
-      "sellerUrl": "https://techet.net/netanalyzer",
-      "averageUserRating": 4.76016,
-      "minimumOsVersion": "18.0",
+      "formattedPrice": "£3.99",
       "averageUserRatingForCurrentVersion": 4.76016,
-      "trackCensoredName": "Network Analyzer Pro: IP Tools",
+      "fileSizeBytes": "13243392",
+      "userRatingCountForCurrentVersion": 1797,
+      "sellerUrl": "https://techet.net/netanalyzer",
       "languageCodesISO2A": [
         "EN"
       ],
-      "fileSizeBytes": "13243392",
-      "formattedPrice": "£3.99",
-      "contentAdvisoryRating": "4+",
-      "userRatingCountForCurrentVersion": 1797,
-      "trackViewUrl": "https://apps.apple.com/gb/app/network-analyzer-pro-ip-tools/id557405467?uo=4",
       "trackContentRating": "4+",
+      "releaseNotes": "- MAC addresses and vendors are shown again on iOS 27 and newer\n- IPv4/IPv6 calculator with details about addresses, ranges and subnets\n- MAC address browser showing details about a MAC address, with custom name and vendor assignment\n- Speed test: server latency measurement, full results (including graphs) kept in history, and custom names and notes for history items\n- WS-Discovery support in the LAN scanner, improving device detection on Windows networks\n- Improved device name and vendor detection in the LAN scanner\n- Support for scanning devices connected to the personal hotspot\n- iOS 27 compatibility fixes\n- Many other bug fixes and minor improvements",
+      "trackCensoredName": "Network Analyzer Pro: IP Tools",
+      "trackViewUrl": "https://apps.apple.com/gb/app/network-analyzer-pro-ip-tools/id557405467?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.76016,
       "artistId": 401457168,
       "artistName": "Techet",
-      "price": 3.99,
       "genres": [
         "Utilities",
         "Productivity"
       ],
+      "price": 3.99,
+      "bundleId": "net.techet.netanalyzer",
       "genreIds": [
         "6002",
         "6007"
       ],
-      "releaseDate": "2012-09-18T22:22:06Z",
-      "trackId": 557405467,
-      "trackName": "Network Analyzer Pro: IP Tools",
       "primaryGenreName": "Utilities",
       "primaryGenreId": 6002,
       "sellerName": "Jiri Techet",
+      "trackId": 557405467,
+      "trackName": "Network Analyzer Pro: IP Tools",
       "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-09-13T09:27:54Z",
-      "releaseNotes": "- MAC addresses and vendors are shown again on iOS 27 and newer\n- IPv4/IPv6 calculator with details about addresses, ranges and subnets\n- MAC address browser showing details about a MAC address, with custom name and vendor assignment\n- Speed test: server latency measurement, full results (including graphs) kept in history, and custom names and notes for history items\n- WS-Discovery support in the LAN scanner, improving device detection on Windows networks\n- Improved device name and vendor detection in the LAN scanner\n- Support for scanning devices connected to the personal hotspot\n- iOS 27 compatibility fixes\n- Many other bug fixes and minor improvements",
       "version": "9.2",
       "wrapperType": "software",
       "currency": "GBP",
       "description": "Network Analyzer Pro is a complete network toolkit that turns your iPhone or iPad into a powerful diagnostic instrument. Whether you are troubleshooting a slow connection, tracking down unknown devices, or exploring how the internet routes your traffic, it puts professional-grade tools right in your pocket - no desktop or extra hardware required.\n\nDiscover every device on your LAN, watch your traceroute unfold on a world map, measure your real download and upload speeds, work out any subnet with the IP calculator, and diagnose any host with ping, traceroute, port scanning, DNS lookup, and whois. From home users to IT professionals, Network Analyzer Pro delivers everything you need in one polished app.\n\nLAN scanner:\n- Fast and reliable detection of all devices on Wi-Fi, VPN, and personal hotspot networks\n- IP addresses, MAC addresses, and vendors of all discovered devices\n- NetBIOS, mDNS (Bonjour), LLMNR, DNS, SNMP, and WS-Discovery names\n- Reachability (ping) test, IPv6 availability, and IPv6 addresses\n- Custom device names and vendors, scan history, and favorites\n- Quick actions: open the web interface, browse Bonjour and UPnP services, or wake the device\n- Wake on LAN (WOL) including remote WOL\n- Scan of custom IP ranges, filtering, and search in the device list\n\nPing & traceroute:\n- Round-trip delay, IP address, and hostname for every node\n- Selectable ICMP, UDP, and TCP ping and ICMP/UDP traceroute probes\n- Configurable probe delay, payload size, TCP port, and don't-fragment flag\n- Audible ping\n- Geolocation (latitude, longitude, country, city, time zone), AS number, and network name\n- Complete traceroute visualization on the map\n- Real-time graphical ping statistics\n\nPort scanner:\n- Scan common ports, custom ranges, or the complete port range\n- Detection of closed, firewalled, and open ports\n- Descriptions of known port services\n- Editable common port list and adjustable scan rate\n\nWhois:\n- Look up domains, IP addresses, and AS numbers\n- Classic whois and the modern RDAP protocol, with custom servers\n\nDNS lookup:\n- Functionality similar to nslookup or dig\n- Query all record types at once or a single type\n- A, AAAA, CAA, CNAME, HINFO, LOC, MX, NAPTR, NS, PTR, SOA, SPF, SRV, SSHFP, and TXT records\n- DNSSEC records: DNSKEY, CDNSKEY, RRSIG, NSEC3PARAM, NSEC, NSEC3, DS, CDS, TLSA\n- Custom DNS server and port, no-recursion option, all response sections\n\nInternet speed:\n- Download, upload, and server latency measurement\n- Graphical speed test view\n- History with full results including graphs, custom names, and notes\n\nIP calculator:\n- Details about any IPv4 or IPv6 address, range, or subnet\n- Network, broadcast, masks, address count, type, class, IANA block, reverse DNS, supernet, subnet splitting, membership test\n- Binary, decimal, hex, and IPv6 forms (expanded, 6to4, NAT64, Teredo, EUI-64)\n\nMAC address browser:\n- Vendor lookup (IEEE MA-L, MA-M, MA-S), address type, administration, SLAP quadrant, and known use\n- Custom name and vendor assignment used throughout the app\n\nNetwork information:\n- Default gateway, DNS server, HTTP proxy, external IP (v4 and v6) with hostname, AS number, and AS name\n- Wi-Fi details: SSID, BSSID, router vendor, security type, IP address, and subnet mask\n- VPN, USB Ethernet, and personal hotspot connection details\n- Cell network type, with dual SIM support\n- Wi-Fi, cell, and VPN data usage since the last boot\n\nLocal service discovery:\n- Bonjour and UPnP/DLNA browsers\n\nSiri, Shortcuts, and controls:\n- Siri, Spotlight, and Shortcuts app support for every tool\n- Control Center, Lock Screen, and Action button controls\n- Share extension: query any website from Safari\n- Home screen quick actions\n\nMore:\n- No ads\n- Light and dark theme\n- Full IPv6 support everywhere, with selectable IPv4/IPv6\n- History of all performed tasks, with favorites\n- Export by email, AirPrint, and AirDrop\n- Copy/paste support\n- Detailed help\n- Regular updates",
-      "bundleId": "net.techet.netanalyzer",
+      "minimumOsVersion": "18.0",
+      "releaseDate": "2012-09-18T22:22:06Z",
       "userRatingCount": 1797,
       "country": "GBR"
     }

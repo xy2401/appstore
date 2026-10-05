@@ -202,9 +202,6 @@
     },
     {
       "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -361,21 +358,30 @@
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/4b/71/784b715e-9f42-b4ad-250d-d2f231b11ba1/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/4b/71/784b715e-9f42-b4ad-250d-d2f231b11ba1/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.jpg",
       "artistViewUrl": "https://apps.apple.com/gb/developer/abel-learning-ltd/id303740369?uo=4",
-      "releaseNotes": "Latest Question Bank updates",
+      "features": [
+        "iosUniversal"
+      ],
+      "artistId": 303740369,
+      "artistName": "Abel Learning Ltd",
+      "genres": [
+        "Education",
+        "Reference"
+      ],
       "price": 17.99,
-      "primaryGenreName": "Education",
-      "primaryGenreId": 6017,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseDate": "2019-07-04T10:44:46Z",
       "bundleId": "abel.theorytest.IOMTheoryTest",
+      "trackName": "Isle of Man Theory Test Suite",
       "genreIds": [
         "6017",
         "6006"
       ],
-      "trackId": 1470389616,
-      "trackName": "Isle of Man Theory Test Suite",
-      "sellerName": "Abel Learning Limited",
       "currentVersionReleaseDate": "2025-12-01T12:15:45Z",
+      "releaseDate": "2019-07-04T10:44:46Z",
+      "sellerName": "Abel Learning Limited",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "trackId": 1470389616,
+      "primaryGenreName": "Education",
+      "primaryGenreId": 6017,
+      "releaseNotes": "Latest Question Bank updates",
       "version": "1.1.5",
       "wrapperType": "software",
       "currency": "GBP",
@@ -384,6 +390,7 @@
       "sellerUrl": "https://mjhsystems.com/driver-testing/isle-of-man/",
       "averageUserRating": 2.92308,
       "trackCensoredName": "Isle of Man Theory Test Suite",
+      "minimumOsVersion": "12.0",
       "languageCodesISO2A": [
         "EN"
       ],
@@ -393,13 +400,6 @@
       "userRatingCountForCurrentVersion": 26,
       "trackViewUrl": "https://apps.apple.com/gb/app/isle-of-man-theory-test-suite/id1470389616?uo=4",
       "trackContentRating": "12+",
-      "minimumOsVersion": "12.0",
-      "artistId": 303740369,
-      "artistName": "Abel Learning Ltd",
-      "genres": [
-        "Education",
-        "Reference"
-      ],
       "userRatingCount": 26,
       "country": "GBR"
     }

@@ -218,9 +218,6 @@
       "userRatingCount": 10
     },
     {
-      "artistViewUrl": "https://apps.apple.com/fr/developer/seiya-k/id383021944?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/da/19/f7da1955-c607-834c-6c28-792d581668c9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/da/19/f7da1955-c607-834c-6c28-792d581668c9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
@@ -354,8 +351,14 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "features": [
+        "iosUniversal"
+      ],
       "advisories": [],
       "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/fr/developer/seiya-k/id383021944?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/fe/98/e4fe984e-bf90-d534-2aaf-5715cea8cb98/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/fe/98/e4fe984e-bf90-d534-2aaf-5715cea8cb98/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/72/13/46/721346de-cb0b-579a-c338-522b6109f3a4/01_seconds.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ba/f1/a9/baf1a949-fd9b-bcf6-67ee-3d0c87043df9/02_alert.png/320x480bb.jpg",
@@ -371,14 +374,7 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9e/b7/59/9eb75957-977b-128d-d187-13b07b02d730/ipad_05_privacy.png/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/da/19/f7da1955-c607-834c-6c28-792d581668c9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
-      "minimumOsVersion": "15.6",
-      "contentAdvisoryRating": "4+",
-      "currentVersionReleaseDate": "2026-09-19T18:08:02Z",
-      "averageUserRating": 0,
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/fe/98/e4fe984e-bf90-d534-2aaf-5715cea8cb98/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "artistId": 383021944,
       "artistName": "Seiya.k",
       "genres": [
@@ -387,23 +383,30 @@
       ],
       "price": 1.99,
       "bundleId": "seiya.kawano.AutoRefreshForSafari",
+      "trackId": 6749862204,
+      "trackName": "Auto Refresh+ for Safari",
+      "releaseDate": "2025-08-15T07:00:00Z",
       "genreIds": [
         "6007",
         "6000"
       ],
-      "releaseDate": "2025-08-15T07:00:00Z",
-      "trackId": 6749862204,
-      "trackName": "Auto Refresh+ for Safari",
-      "sellerName": "seiya kawano",
       "primaryGenreName": "Productivity",
       "primaryGenreId": 6007,
+      "sellerName": "seiya kawano",
       "isVppDeviceBasedLicensingEnabled": true,
-      "version": "1.4.5",
+      "currentVersionReleaseDate": "2026-10-04T19:09:03Z",
+      "releaseNotes": "Améliorations mineures et correctifs de stabilité.",
+      "version": "1.4.6",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Vous attendez un réassort, un billet, une réservation ou une nouvelle annonce ?\nAuto Refresh+ recharge la page et vérifie les changements.\nVous êtes notifié sur iPhone ou iPad dès qu'elle change.\n\nArrêtez de fixer l'écran et de recharger à la main. Choisissez un intervalle, lancez la surveillance d'un geste et laissez Auto Refresh+ vérifier la page en continu.\n\nLa détection de changement vous prévient de toute mise à jour. Sur les pages où horloges, publicités ou autres éléments mobiles provoquent de fausses alertes, utilisez la détection par mot-clé : « En stock », « Disponible » ou tout terme de votre choix.\n\nDès que vous touchez la page, saisissez du texte, changez d'onglet ou d'app, le rechargement automatique s'arrête. Le défilement ne l'arrête pas. Vous pouvez ainsi agir dès que l'article, le billet ou la réservation devient disponible, sans rechargement en pleine action.\n\n[SURVEILLEZ CE QUI COMPTE]\n\n- Détection des changements par comparaison de la page après chaque rechargement\n- Notification iOS/iPadOS dès qu'un changement est détecté\n- Notification uniquement lorsqu'un mot-clé précis apparaît\n- Surveillance de plusieurs onglets Safari en même temps\n- Prise en charge de la surveillance continue prolongée\n\n[RECHARGEMENT AUTO FLEXIBLE]\n\n- Mode secondes : tout intervalle de 1 à 60 secondes\n- Mode minutes : tout intervalle de 1 à 15 minutes\n- Préréglages pour démarrer vite\n- Démarrage ou arrêt d'un geste\n- Compte à rebours dans le badge jusqu'au prochain rechargement\n- Compteur de rechargements à l'écran\n- Réglages enregistrés automatiquement\n\n[UTILE POUR]\n\n- Réassorts et stocks limités\n- Nouvelles annonces d'enchères et de places de marché\n- Disponibilité de billets et ouvertures de réservations\n- Ventes flash\n- Actualités, pages boursières et forex, fils sociaux\n\n[CONFIDENTIALITÉ]\n\n- Aucune collecte de données réseau\n- Aucune collecte d'informations personnelles\n- Réglages et données de surveillance restent sur votre appareil\n\n[COMPATIBILITÉ]\n\n- Safari (iOS 15 / iPadOS 15 / macOS Monterey ou ultérieur)",
-      "averageUserRatingForCurrentVersion": 0,
+      "trackCensoredName": "Auto Refresh+ for Safari",
+      "trackViewUrl": "https://apps.apple.com/fr/app/auto-refresh-for-safari/id6749862204?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 0,
       "sellerUrl": "https://fillapps.com/",
+      "averageUserRatingForCurrentVersion": 0,
+      "minimumOsVersion": "15.6",
       "languageCodesISO2A": [
         "AR",
         "CA",
@@ -443,17 +446,34 @@
       "formattedPrice": "1,99 €",
       "userRatingCountForCurrentVersion": 0,
       "trackContentRating": "4+",
-      "trackCensoredName": "Auto Refresh+ for Safari",
-      "trackViewUrl": "https://apps.apple.com/fr/app/auto-refresh-for-safari/id6749862204?uo=4",
-      "releaseNotes": "Améliorations mineures et correctifs de stabilité.",
       "userRatingCount": 0,
       "country": "FRA"
     },
     {
-      "isGameCenterEnabled": false,
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d1/28/94/d12894fa-8942-6ec9-2a27-6962402fe315/01_seconds.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7d/5a/07/7d5a07fc-e363-5449-6964-8316678939f1/02_alert.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/00/a6/65/00a665a3-3d58-938c-e525-39dca976e607/03_watch.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/84/97/6e/84976ea6-b968-f825-8d54-1dc3cb04c872/04_minutes.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b3/c0/27/b3c02759-fd30-0d9f-c81e-cbcc55e76327/05_privacy.png/320x480bb.jpg"
+      ],
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/58/0e/74/580e7426-3064-15f2-c6a0-575c88ec8f4b/ipad_01_seconds.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/34/3d/f6/343df690-3164-2894-2853-2b1c55cdb277/ipad_02_alert.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/51/c0/5c/51c05cd3-b13c-9179-cb7a-31b49476aef0/ipad_03_watch.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/80/11/a7/8011a7b5-5f3a-1b6d-2f89-8a1b4006b410/ipad_04_minutes.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c6/76/bf/c676bf5d-0818-6f53-8adf-c09a2652804e/ipad_05_privacy.png/360x480bb.jpg"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/fe/98/e4fe984e-bf90-d534-2aaf-5715cea8cb98/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "artistViewUrl": "https://apps.apple.com/jp/developer/seiya-k/id383021944?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/da/19/f7da1955-c607-834c-6c28-792d581668c9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/da/19/f7da1955-c607-834c-6c28-792d581668c9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/fe/98/e4fe984e-bf90-d534-2aaf-5715cea8cb98/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/fe/98/e4fe984e-bf90-d534-2aaf-5715cea8cb98/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -586,57 +606,8 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
       "kind": "software",
-      "features": [
-        "iosUniversal"
-      ],
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d1/28/94/d12894fa-8942-6ec9-2a27-6962402fe315/01_seconds.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7d/5a/07/7d5a07fc-e363-5449-6964-8316678939f1/02_alert.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/00/a6/65/00a665a3-3d58-938c-e525-39dca976e607/03_watch.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/84/97/6e/84976ea6-b968-f825-8d54-1dc3cb04c872/04_minutes.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b3/c0/27/b3c02759-fd30-0d9f-c81e-cbcc55e76327/05_privacy.png/320x480bb.jpg"
-      ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/58/0e/74/580e7426-3064-15f2-c6a0-575c88ec8f4b/ipad_01_seconds.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/34/3d/f6/343df690-3164-2894-2853-2b1c55cdb277/ipad_02_alert.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/51/c0/5c/51c05cd3-b13c-9179-cb7a-31b49476aef0/ipad_03_watch.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/80/11/a7/8011a7b5-5f3a-1b6d-2f89-8a1b4006b410/ipad_04_minutes.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c6/76/bf/c676bf5d-0818-6f53-8adf-c09a2652804e/ipad_05_privacy.png/360x480bb.jpg"
-      ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/da/19/f7da1955-c607-834c-6c28-792d581668c9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "averageUserRating": 4.07692,
-      "releaseNotes": "細かな改善と安定性の向上を行いました。",
-      "trackViewUrl": "https://apps.apple.com/jp/app/auto-refresh-for-safari/id6749862204?uo=4",
-      "contentAdvisoryRating": "4+",
-      "trackCensoredName": "Auto Refresh+ for Safari",
-      "artistId": 383021944,
-      "artistName": "Seiya.k",
-      "genres": [
-        "仕事効率化",
-        "ビジネス"
-      ],
-      "price": 400,
-      "bundleId": "seiya.kawano.AutoRefreshForSafari",
-      "releaseDate": "2025-08-12T07:00:00Z",
-      "trackId": 6749862204,
-      "trackName": "Auto Refresh+ for Safari",
-      "genreIds": [
-        "6007",
-        "6000"
-      ],
-      "primaryGenreName": "Productivity",
-      "primaryGenreId": 6007,
-      "sellerName": "seiya kawano",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-09-19T18:08:02Z",
-      "version": "1.4.5",
-      "wrapperType": "software",
-      "currency": "JPY",
-      "description": "「最新情報を見逃したくない」あなたへ。\nAuto Refresh+ for Safari は、指定した間隔でSafariのページを自動更新するシンプルな拡張機能です。\n朝のニュースチェック、株価監視、SNSタイムラインの確認を完全自動化。\nもう手動でリロードする必要はありません。\n\n【主な機能】\n・2つのモードを搭載 — 秒単位（1〜60秒）と分単位（1〜15分）を用途に応じて切り替え\n・ワンタップで開始／停止 — 誰でも使える直感操作\n・バッジ表示で残り時間を確認 — 次回更新までのカウントダウンを視覚的に表示\n・更新回数をカウント — リロード回数を画面に表示\n・設定の自動保存 — 再起動後も動作を継続\n\n【こんな方におすすめ】\n・毎朝のニュースサイト巡回を効率化したい方\n・株価・FXチャートを常に最新状態で確認したいトレーダー\n・オークションやフラッシュセールを逃したくないショッパー\n・SNSの最新投稿を手動更新なしでチェックしたい方\n\n【プライバシー】\n・ネットワーク通信・個人情報の収集は一切なし\n・すべてのデータはローカル保存で安心\n\n【対応環境】\n・Safari（iOS 15 / iPadOS 15 / macOS Monterey 以降）",
-      "minimumOsVersion": "15.6",
+      "averageUserRatingForCurrentVersion": 4.07692,
       "sellerUrl": "https://fillapps.com/",
       "languageCodesISO2A": [
         "AR",
@@ -677,7 +648,36 @@
       "formattedPrice": "¥400",
       "userRatingCountForCurrentVersion": 13,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.07692,
+      "trackCensoredName": "Auto Refresh+ for Safari",
+      "trackViewUrl": "https://apps.apple.com/jp/app/auto-refresh-for-safari/id6749862204?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.07692,
+      "releaseNotes": "細かな改善と安定性の向上を行いました。",
+      "artistId": 383021944,
+      "artistName": "Seiya.k",
+      "genres": [
+        "仕事効率化",
+        "ビジネス"
+      ],
+      "price": 400,
+      "genreIds": [
+        "6007",
+        "6000"
+      ],
+      "sellerName": "seiya kawano",
+      "bundleId": "seiya.kawano.AutoRefreshForSafari",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "trackName": "Auto Refresh+ for Safari",
+      "trackId": 6749862204,
+      "releaseDate": "2025-08-12T07:00:00Z",
+      "currentVersionReleaseDate": "2026-10-04T19:09:03Z",
+      "version": "1.4.6",
+      "wrapperType": "software",
+      "currency": "JPY",
+      "description": "「最新情報を見逃したくない」あなたへ。\nAuto Refresh+ for Safari は、指定した間隔でSafariのページを自動更新するシンプルな拡張機能です。\n朝のニュースチェック、株価監視、SNSタイムラインの確認を完全自動化。\nもう手動でリロードする必要はありません。\n\n【変化があれば、音で知らせる】\n・自動更新のたびにページの本文を前回と比べ、変化を見つけると自動更新を止めて、バナーと音でお知らせします\n・キーワードを入れておくと、その言葉がページに現れたときだけ知らせます（例:「在庫あり」）\n・時計や広告など、いつも動いている部分があるページでは、キーワードでの指定がおすすめです\n・ページをタップしたり文字を入力したりすると自動更新が止まるので、操作の途中で読み込み直されません（スクロールでは止まりません）\n\n【主な機能】\n・2つのモードを搭載 — 秒単位（1〜60秒）と分単位（1〜15分）を用途に応じて切り替え\n・ワンタップで開始／停止 — 誰でも使える直感操作\n・バッジ表示で残り時間を確認 — 次回更新までのカウントダウンを視覚的に表示\n・更新回数をカウント — リロード回数を画面に表示\n・設定の自動保存 — 再起動後も動作を継続\n\n【こんな方におすすめ】\n・毎朝のニュースサイト巡回を効率化したい方\n・株価・FXチャートを常に最新状態で確認したいトレーダー\n・オークションやフラッシュセールを逃したくないショッパー\n・SNSの最新投稿を手動更新なしでチェックしたい方\n\n【こんな場面に】\n・オークションの終了間際に、価格と入札状況の最新を追いたいとき。手でリロードしなくても、最新の価格が表示され続けます。\n・売り切れた商品の再入荷を待っているとき。「在庫あり」をキーワードにしておけば、表示が変わった時点で音で気づけます。\n・チケットや予約の空きを待っているとき。空きが出てページが変わったら、音で知らせます。\n・株価やレートのページを開いたまま、分単位で更新し続けたいとき。\n\n【できないこと】\n・iPhone / iPad では、Safari を開いて画面がついている間だけ動きます。画面ロック中は更新されません（自動ロックを「なし」にする手順をアプリ内で案内しています）。\n・Safari が勝手にページを再読み込みしてしまうのを止めたい場合、この拡張機能では止められません。こちらは、自分の意思でページを更新したいときに使うものです。\n\n【プライバシー】\n・ネットワーク通信・個人情報の収集は一切なし\n・すべてのデータはローカル保存で安心\n\n【対応環境】\n・Safari（iOS 15 / iPadOS 15 / macOS Monterey 以降）",
+      "minimumOsVersion": "15.6",
+      "primaryGenreName": "Productivity",
+      "primaryGenreId": 6007,
       "userRatingCount": 13,
       "country": "JPN"
     }

@@ -190,6 +190,9 @@
       "userRatingCount": 48446
     },
     {
+      "features": [
+        "iosUniversal"
+      ],
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/df/03/ba/df03ba4c-e0c6-6849-5a8d-fca8e44db222/1_U9996_U9875.jpg/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/11/32/f3/1132f3a9-478a-45db-cd34-2b0045e602e3/2AI_U8bca_U5ba4.jpg/320x480bb.jpg",
@@ -215,10 +218,15 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f2/e8/1b/f2e81be0-945e-4e83-c6ea-81ac3bc8d758/10_U957f_U8f88_U6a21_U5f0f.png/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/1e/69/fa1e693d-598e-32ea-df74-93864a7b707e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/1e/69/fa1e693d-598e-32ea-df74-93864a7b707e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/1e/69/fa1e693d-598e-32ea-df74-93864a7b707e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
+      "isGameCenterEnabled": false,
       "artistViewUrl": "https://apps.apple.com/cn/developer/ant-yikang-guangzhou-information-technology-co-ltd/id1804812420?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/1e/69/fa1e693d-598e-32ea-df74-93864a7b707e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/1e/69/fa1e693d-598e-32ea-df74-93864a7b707e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
+      "advisories": [
+        "偶尔/轻微的医药或医疗信息"
+      ],
+      "kind": "software",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -352,17 +360,6 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [
-        "偶尔/轻微的医药或医疗信息"
-      ],
-      "kind": "software",
-      "isGameCenterEnabled": false,
-      "averageUserRatingForCurrentVersion": 4.23864,
-      "averageUserRating": 4.23864,
-      "trackCensoredName": "蚂蚁阿福-蚂蚁旗下AI健康助手",
       "languageCodesISO2A": [
         "EN",
         "ZH",
@@ -370,37 +367,40 @@
       ],
       "fileSizeBytes": "254106624",
       "formattedPrice": "免费",
-      "contentAdvisoryRating": "12+",
-      "userRatingCountForCurrentVersion": 54727,
-      "trackViewUrl": "https://apps.apple.com/cn/app/%E8%9A%82%E8%9A%81%E9%98%BF%E7%A6%8F-%E8%9A%82%E8%9A%81%E6%97%97%E4%B8%8Bai%E5%81%A5%E5%BA%B7%E5%8A%A9%E6%89%8B/id6743828427?uo=4",
+      "userRatingCountForCurrentVersion": 55013,
       "trackContentRating": "12+",
-      "currentVersionReleaseDate": "2026-09-30T14:33:11Z",
-      "releaseNotes": "已优化部分体验问题",
+      "averageUserRatingForCurrentVersion": 4.23834,
       "minimumOsVersion": "13.0",
-      "artistId": 1804812420,
-      "artistName": "Ant Yikang (Guangzhou) Information Technology Co., Ltd.",
-      "price": 0,
-      "bundleId": "com.antgroup.aijk.iphone",
-      "releaseDate": "2025-07-16T07:00:00Z",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "genreIds": [
-        "6020",
-        "6013"
-      ],
-      "sellerName": "Ant Yikang (Guangzhou) Information Technology Co., Ltd.",
-      "primaryGenreName": "Medical",
-      "primaryGenreId": 6020,
-      "version": "1.1.68",
-      "wrapperType": "software",
-      "currency": "CNY",
-      "description": "蚂蚁集团开发和运营的医疗健康AI应用，为用户提供各类健康咨询、图片解读（报告、病例、处方、药盒均支持）、个人和家庭健康档案管理及各类医疗健康服务，如预约挂号、云陪诊等。请注意，AI 答复内容仅为参考，不能替代专业医生的诊断和治疗建议，请视自身情况及时就医咨询。\n\n本应用所链接的医疗硬件已获得中国国家药品监督管理局（NMPA）的医疗器械注册证，符合中国大陆地区的监管要求。本应用对于医疗硬件的链接功能，仅限于中国大陆地区使用，不向其他地区/国家提供服务。",
+      "averageUserRating": 4.23834,
+      "trackCensoredName": "蚂蚁阿福-蚂蚁旗下AI健康助手",
+      "trackViewUrl": "https://apps.apple.com/cn/app/%E8%9A%82%E8%9A%81%E9%98%BF%E7%A6%8F-%E8%9A%82%E8%9A%81%E6%97%97%E4%B8%8Bai%E5%81%A5%E5%BA%B7%E5%8A%A9%E6%89%8B/id6743828427?uo=4",
+      "contentAdvisoryRating": "12+",
       "trackId": 6743828427,
       "trackName": "蚂蚁阿福-蚂蚁旗下AI健康助手",
       "genres": [
         "医疗",
         "健康健美"
       ],
-      "userRatingCount": 54727,
+      "artistId": 1804812420,
+      "artistName": "Ant Yikang (Guangzhou) Information Technology Co., Ltd.",
+      "price": 0,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "bundleId": "com.antgroup.aijk.iphone",
+      "genreIds": [
+        "6020",
+        "6013"
+      ],
+      "releaseNotes": "已优化部分体验问题",
+      "currentVersionReleaseDate": "2026-09-30T14:33:11Z",
+      "version": "1.1.68",
+      "wrapperType": "software",
+      "currency": "CNY",
+      "description": "蚂蚁集团开发和运营的医疗健康AI应用，为用户提供各类健康咨询、图片解读（报告、病例、处方、药盒均支持）、个人和家庭健康档案管理及各类医疗健康服务，如预约挂号、云陪诊等。请注意，AI 答复内容仅为参考，不能替代专业医生的诊断和治疗建议，请视自身情况及时就医咨询。\n\n本应用所链接的医疗硬件已获得中国国家药品监督管理局（NMPA）的医疗器械注册证，符合中国大陆地区的监管要求。本应用对于医疗硬件的链接功能，仅限于中国大陆地区使用，不向其他地区/国家提供服务。",
+      "sellerName": "Ant Yikang (Guangzhou) Information Technology Co., Ltd.",
+      "releaseDate": "2025-07-16T07:00:00Z",
+      "primaryGenreName": "Medical",
+      "primaryGenreId": 6020,
+      "userRatingCount": 55013,
       "country": "CHN"
     }
   ]

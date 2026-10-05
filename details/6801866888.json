@@ -21,6 +21,7 @@
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/61/4f/7b614f9c-51c3-3a1f-21ea-bfcb93b702be/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "isGameCenterEnabled": false,
+      "advisories": [],
       "features": [
         "iosUniversal"
       ],
@@ -156,7 +157,6 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
       "kind": "software",
       "artistViewUrl": "https://apps.apple.com/jp/developer/hyunwoo-lee/id6791167449?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/61/4f/7b614f9c-51c3-3a1f-21ea-bfcb93b702be/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
@@ -164,7 +164,6 @@
       "averageUserRatingForCurrentVersion": 0,
       "languageCodesISO2A": [
         "AR",
-        "ZH",
         "EN",
         "FR",
         "DE",
@@ -173,8 +172,10 @@
         "JA",
         "KO",
         "PT",
+        "ZH",
         "ES",
         "TH",
+        "ZH",
         "TR",
         "VI"
       ],
@@ -182,29 +183,8 @@
       "formattedPrice": "¥500",
       "userRatingCountForCurrentVersion": 0,
       "trackContentRating": "4+",
-      "bundleId": "com.asllasoft.whenDidi",
       "releaseNotes": "ウィジェットや他のアプリの「共有」から、アプリを開かずに記録できます（iPhoneはロック画面からも）。iPhoneとiPadで「iCloudに自動保管」をオンにしておくと、他の端末の記録も自動で取り込まれます。\n設定に「カテゴリを管理」が加わりました。記録すると下に案内バーが出て、「元に戻す」や「写真・メモを追加」をすぐ押せます。項目の詳細は「カレンダー表示」でも見られます。\n初めてインストールすると使い方の案内が表示されます（設定 > 「使い方を見る」）。「アルバム」からその項目へすぐ移動できるようになったほか、ダークモードのアイコンなど、いろいろな箇所を整えました。",
-      "trackId": 6801866888,
-      "trackName": "いつだったっけ",
-      "genreIds": [
-        "6007",
-        "6002"
-      ],
-      "primaryGenreName": "Productivity",
-      "primaryGenreId": 6007,
-      "sellerName": "HyunWoo Lee",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-09-30T19:49:18Z",
-      "version": "4.0.0",
-      "wrapperType": "software",
-      "currency": "JPY",
-      "description": "やることを管理しないでください。やった日だけ覚えておけば十分です。\n\n「シーツ、最後に洗ったのはいつだっけ？」\n「浄水器のフィルター、いつ替えた？」\n「実家に電話したの、いつだった？」\n\nどうしても思い出せない、そんなことがあります。いつだったっけ は、それをやった日付だけを記録します。\n目標も、通知の嵐も、チェックリストもありません。タップして今日を記録すれば、それで終わりです。\n\n■ どれくらい経ったか、ひと目で\n項目ごとに、最後にやった日から何日経ったかを表示します。\n長く放っておいたものほど目立ちます。\n\n■ 間隔がそのまま見える記録\n点と点の距離が、実際の日付の間隔です。\nよくやっていた時期は詰まって見え、しばらくやらなかった期間は広く空いて見えます。\n\n■ 写真とメモ\n記録ごとに写真1枚と短いメモを残せます。\n「あのときどうだったっけ」まで残ります。\n\n■ ウィジェットとロック画面\nホーム画面のウィジェットで遅れているものを確認し、アプリを開かずに記録できます。\nロック画面から直接記録することもできます。（iOS 16.4以降）\n\n■ 一日のしめくくり通知\n希望すれば、夜に一度「今日は何をしましたか？」と尋ねます。初期設定ではオフです。\n\n■ すべて端末の中で\nアカウントも、サーバーも、広告もありません。記録は端末にだけ保存されます。\nバックアップファイルを自分で書き出し・読み込みでき、iCloudにも自動で控えを置くので、\n機種変更やアプリの入れ直しをしても元に戻せます。\n\n■ 買い切り\n一度買えばすべての機能が使えます。アプリ内課金も、サブスクも、広告もありません。",
       "minimumOsVersion": "15.0",
-      "averageUserRating": 0,
-      "trackCensoredName": "いつだったっけ",
-      "trackViewUrl": "https://apps.apple.com/jp/app/%E3%81%84%E3%81%A4%E3%81%A0%E3%81%A3%E3%81%9F%E3%81%A3%E3%81%91/id6801866888?uo=4",
-      "contentAdvisoryRating": "4+",
-      "releaseDate": "2026-08-20T07:00:00Z",
       "artistId": 6791167449,
       "artistName": "HyunWoo Lee",
       "genres": [
@@ -212,6 +192,27 @@
         "ユーティリティ"
       ],
       "price": 500,
+      "bundleId": "com.asllasoft.whenDidi",
+      "sellerName": "HyunWoo Lee",
+      "genreIds": [
+        "6007",
+        "6002"
+      ],
+      "primaryGenreName": "Productivity",
+      "primaryGenreId": 6007,
+      "releaseDate": "2026-08-20T07:00:00Z",
+      "trackId": 6801866888,
+      "trackName": "いつだったっけ",
+      "currentVersionReleaseDate": "2026-09-30T19:49:18Z",
+      "version": "4.0.0",
+      "wrapperType": "software",
+      "currency": "JPY",
+      "description": "やることを管理しないでください。やった日だけ覚えておけば十分です。\n\n「シーツ、最後に洗ったのはいつだっけ？」\n「浄水器のフィルター、いつ替えた？」\n「実家に電話したの、いつだった？」\n\nどうしても思い出せない、そんなことがあります。いつだったっけ は、それをやった日付だけを記録します。\n目標も、通知の嵐も、チェックリストもありません。タップして今日を記録すれば、それで終わりです。\n\n■ どれくらい経ったか、ひと目で\n項目ごとに、最後にやった日から何日経ったかを表示します。\n長く放っておいたものほど目立ちます。\n\n■ 間隔がそのまま見える記録\n点と点の距離が、実際の日付の間隔です。\nよくやっていた時期は詰まって見え、しばらくやらなかった期間は広く空いて見えます。\n\n■ 写真とメモ\n記録ごとに写真1枚と短いメモを残せます。\n「あのときどうだったっけ」まで残ります。\n\n■ ウィジェットとロック画面\nホーム画面のウィジェットで遅れているものを確認し、アプリを開かずに記録できます。\nロック画面から直接記録することもできます。（iOS 16.4以降）\n\n■ 一日のしめくくり通知\n希望すれば、夜に一度「今日は何をしましたか？」と尋ねます。初期設定ではオフです。\n\n■ すべて端末の中で\nアカウントも、サーバーも、広告もありません。記録は端末にだけ保存されます。\nバックアップファイルを自分で書き出し・読み込みでき、iCloudにも自動で控えを置くので、\n機種変更やアプリの入れ直しをしても元に戻せます。\n\n■ 買い切り\n一度買えばすべての機能が使えます。アプリ内課金も、サブスクも、広告もありません。",
+      "averageUserRating": 0,
+      "trackCensoredName": "いつだったっけ",
+      "trackViewUrl": "https://apps.apple.com/jp/app/%E3%81%84%E3%81%A4%E3%81%A0%E3%81%A3%E3%81%9F%E3%81%A3%E3%81%91/id6801866888?uo=4",
+      "contentAdvisoryRating": "4+",
+      "isVppDeviceBasedLicensingEnabled": true,
       "userRatingCount": 0,
       "country": "JPN"
     }

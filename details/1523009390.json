@@ -193,8 +193,6 @@
       "userRatingCount": 194197
     },
     {
-      "isGameCenterEnabled": false,
-      "features": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -327,13 +325,16 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "features": [],
       "advisories": [
         "まれ／軽度なアルコール、タバコ、ドラッグの使用または言及"
       ],
+      "isGameCenterEnabled": false,
       "kind": "software",
       "artistViewUrl": "https://apps.apple.com/jp/developer/hamazushi-co-ltd/id1504651747?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/9b/a4/a39ba4f6-c54c-c8f7-67e0-559f07581d66/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/9b/a4/a39ba4f6-c54c-c8f7-67e0-559f07581d66/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/9b/a4/a39ba4f6-c54c-c8f7-67e0-559f07581d66/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/67/23/32/67233298-91cd-6ac6-a514-e4f777e5b562/988a78d6-6e4b-441c-92d0-f029b413979b_TOP.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/95/ef/71/95ef7122-1047-3923-12ce-c371ce5b998e/156c6ff6-f360-4ea5-a9bf-d2ee0742394a__U5e97_U8217_U691c_U7d22.png/392x696bb.png",
@@ -344,27 +345,26 @@
       ],
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/9b/a4/a39ba4f6-c54c-c8f7-67e0-559f07581d66/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "minimumOsVersion": "15.0",
+      "bundleId": "com.hamazushi.hamanavi",
       "artistId": 1504651747,
+      "price": 0,
       "artistName": "HAMAZUSHI CO., LTD.",
       "genres": [
         "フード／ドリンク",
         "ナビゲーション"
       ],
-      "price": 0,
-      "currentVersionReleaseDate": "2026-08-19T09:18:02Z",
       "trackId": 1523009390,
       "trackName": "はま寿司",
+      "primaryGenreName": "Food & Drink",
+      "primaryGenreId": 6023,
       "genreIds": [
         "6023",
         "6010"
       ],
       "releaseDate": "2020-11-24T08:00:00Z",
-      "primaryGenreName": "Food & Drink",
-      "primaryGenreId": 6023,
       "sellerName": "HAMAZUSHI CO., LTD.",
       "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-08-19T09:18:02Z",
       "releaseNotes": "軽微な不具合を修正いたしました",
       "version": "1.16.11",
       "wrapperType": "software",
@@ -373,18 +373,18 @@
       "trackCensoredName": "はま寿司",
       "trackViewUrl": "https://apps.apple.com/jp/app/%E3%81%AF%E3%81%BE%E5%AF%BF%E5%8F%B8/id1523009390?uo=4",
       "contentAdvisoryRating": "12+",
-      "bundleId": "com.hamazushi.hamanavi",
-      "averageUserRatingForCurrentVersion": 4.61395,
+      "averageUserRating": 4.6136,
+      "minimumOsVersion": "15.0",
+      "averageUserRatingForCurrentVersion": 4.6136,
       "languageCodesISO2A": [
         "EN",
         "JA"
       ],
       "fileSizeBytes": "22306816",
       "formattedPrice": "無料",
-      "userRatingCountForCurrentVersion": 203087,
+      "userRatingCountForCurrentVersion": 203652,
       "trackContentRating": "12+",
-      "averageUserRating": 4.61395,
-      "userRatingCount": 203087,
+      "userRatingCount": 203652,
       "country": "JPN"
     }
   ]

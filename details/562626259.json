@@ -205,10 +205,13 @@
       "userRatingCount": 753
     },
     {
+      "isGameCenterEnabled": false,
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/70/54/9c705424-d93a-7f0b-6990-7983370dd0ee/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/70/54/9c705424-d93a-7f0b-6990-7983370dd0ee/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
       "artistViewUrl": "https://apps.apple.com/jp/developer/atsuko-yoseda/id497317278?uo=4",
-      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -341,11 +344,19 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "features": [
-        "iosUniversal"
-      ],
       "advisories": [],
       "kind": "software",
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dc/06/c8/dc06c855-02dd-372e-d5a9-f61de9bb2a59/fa092421-e6fc-440b-89f3-b52c24383106_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029_-_2024-05-02_at_18.27.03.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/63/1b/20/631b20c5-62cc-e518-66b4-087690e41fd2/d07e7116-18eb-4f98-91a0-eaa5b9f4eb52_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029_-_2024-05-02_at_18.27.17.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/56/29/7a/56297aa4-ca3c-d3d3-ffbc-4692fbf78e88/d1958ecf-d67f-4571-bad1-af798ba1b5e9_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029_-_2024-05-07_at_17.18.40.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/75/f4/b0/75f4b06a-d42f-d0ff-24ff-41992a626657/b24eac3e-5118-4600-8670-2c3b350ec938_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029_-_2024-05-07_at_17.18.53.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ea/df/61/eadf6181-bae7-481e-abbf-49acade89eaf/9997c1d8-efba-4819-92a7-9c4610907a4e_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029_-_2024-05-02_at_18.28.26.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/42/be/3c/42be3cf8-4fe6-2e2e-26cc-8749ef037da1/be532b19-b506-489a-9690-204ad5b384cd_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029_-_2024-05-02_at_18.28.29.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a8/99/eb/a899eb53-76c0-b0da-7207-86eb451911ae/757bb413-a00e-48a2-9c45-41d28377a874_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029_-_2024-05-02_at_18.28.53.png/576x768bb.png"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/70/54/9c705424-d93a-7f0b-6990-7983370dd0ee/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f4/06/e1/f406e183-129b-bb1d-5bc1-7da18c8deb0e/5ca731e3-19ca-4bd4-b433-2b4ad3b94647_Simulator_Screenshot_-_iPhone_8_Plus_-_2024-05-02_at_18.20.05.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4f/f1/43/4ff14338-3d2a-0ed4-1145-87a8efa87fd8/a2e4bac2-ceaa-41c8-a217-b6595cc08ec5_Simulator_Screenshot_-_iPhone_8_Plus_-_2024-05-02_at_18.20.10.png/392x696bb.png",
@@ -358,57 +369,46 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/27/36/29/27362969-87fb-662c-295d-faadb16fe6f1/4bcc6cd5-86fa-4ba8-a80d-a86d99c19d6c_Simulator_Screenshot_-_iPhone_8_Plus_-_2024-05-02_at_18.22.03.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/68/fd/9f/68fd9f5e-8701-762a-dcc9-e019e1b3452f/2ee696ef-b802-4bf9-9550-c2ad2b5b2e15_Simulator_Screenshot_-_iPhone_8_Plus_-_2024-05-02_at_18.22.07.png/392x696bb.png"
       ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dc/06/c8/dc06c855-02dd-372e-d5a9-f61de9bb2a59/fa092421-e6fc-440b-89f3-b52c24383106_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029_-_2024-05-02_at_18.27.03.png/576x768bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/63/1b/20/631b20c5-62cc-e518-66b4-087690e41fd2/d07e7116-18eb-4f98-91a0-eaa5b9f4eb52_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029_-_2024-05-02_at_18.27.17.png/576x768bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/56/29/7a/56297aa4-ca3c-d3d3-ffbc-4692fbf78e88/d1958ecf-d67f-4571-bad1-af798ba1b5e9_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029_-_2024-05-07_at_17.18.40.png/576x768bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/75/f4/b0/75f4b06a-d42f-d0ff-24ff-41992a626657/b24eac3e-5118-4600-8670-2c3b350ec938_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029_-_2024-05-07_at_17.18.53.png/576x768bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ea/df/61/eadf6181-bae7-481e-abbf-49acade89eaf/9997c1d8-efba-4819-92a7-9c4610907a4e_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029_-_2024-05-02_at_18.28.26.png/576x768bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/42/be/3c/42be3cf8-4fe6-2e2e-26cc-8749ef037da1/be532b19-b506-489a-9690-204ad5b384cd_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029_-_2024-05-02_at_18.28.29.png/576x768bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a8/99/eb/a899eb53-76c0-b0da-7207-86eb451911ae/757bb413-a00e-48a2-9c45-41d28377a874_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029_-_2024-05-02_at_18.28.53.png/576x768bb.png"
-      ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/70/54/9c705424-d93a-7f0b-6990-7983370dd0ee/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "minimumOsVersion": "15.6",
+      "releaseNotes": "iOS27に対応しました。",
       "contentAdvisoryRating": "4+",
       "trackCensoredName": "パブロフ簿記１級理論",
       "trackViewUrl": "https://apps.apple.com/jp/app/%E3%83%91%E3%83%96%E3%83%AD%E3%83%95%E7%B0%BF%E8%A8%98%EF%BC%91%E7%B4%9A%E7%90%86%E8%AB%96/id562626259?uo=4",
-      "averageUserRating": 4.65359,
+      "averageUserRating": 4.65405,
+      "artistId": 497317278,
+      "artistName": "Atsuko Yoseda",
       "genres": [
         "教育",
         "ビジネス"
       ],
-      "artistName": "Atsuko Yoseda",
       "price": 800,
-      "artistId": 497317278,
       "bundleId": "com.studyapp.pubboki1riron",
-      "trackId": 562626259,
-      "trackName": "パブロフ簿記１級理論",
-      "releaseNotes": "iOS27に対応しました。",
+      "currentVersionReleaseDate": "2026-09-29T20:14:45Z",
+      "releaseDate": "2012-09-25T22:26:12Z",
+      "genreIds": [
+        "6017",
+        "6000"
+      ],
       "primaryGenreName": "Education",
       "primaryGenreId": 6017,
-      "releaseDate": "2012-09-25T22:26:12Z",
+      "trackId": 562626259,
+      "trackName": "パブロフ簿記１級理論",
       "sellerName": "ATSUKO YOSEDA",
-      "currentVersionReleaseDate": "2026-09-29T20:14:45Z",
+      "isVppDeviceBasedLicensingEnabled": true,
       "version": "5.3",
       "wrapperType": "software",
       "currency": "JPY",
       "description": "・2024年度版にアップデート！\n・第165回までの出題内容を反映した問題を追加しました！\n・最新の会計基準の改正に対応し、まとめ、解説と解答を修正。\n・収益認識基準などの最新の基準改正に対応した内容を追加。\n・iPhone15Proまでの機種に画面表示を最適化。\n\nえっ、本番と同じ記入式！？\n予測変換が会計用語になっちゃう…でも、それがいい。\n\n日商簿記1級は範囲が広い。\n「計算の学習だけで手いっぱい、理論対策までする時間がない」\n「時間をかけて理論対策のまとめノートを作成したけど、暗記できない」\n「一生懸命基準を読んでいるのに、問題が解けない」\nそんな受験生の声に応えるアプリが登場！\n\n●特徴①　効率的な学習方法〜まずアウトプット、そしてインプット〜\n基準を読んだりまとめノートを作ったりしてもなかなか頭に入ってこない経験はありませんか？\nそれはアウトプット不足から来るものかもしれません。\n\nアプリでの学習方法は…\n\nまず【問題】を見て考える。\n「ふむふむ、この文脈からいうとこういう言葉が入りそうだな、でも基準の文言では何ていうんだったっけ」\n\n次に【解答】を見る。\n「そうそう、包括主義！」\n\nさらに【解説】を読む\n「へぇ、包括主義と包括利益っていう言葉があるんだ。それぞれ違う概念なんだな」\n\n最後に【まとめ】を覚える\n「暗記しやすいようにまとまってる！試験直前にも見直そう」\n\n●特徴②　丁寧な解説\n公認会計士である製作者が、1問1問丁寧に解説を書きました。\n根本的な会計理論の考え方や会計実務の説明を加えることにより、\n理解が促進され、基準の文言の丸暗記というよりは、自然と頭に入ってくるようなツールにしました。\n\n●特徴③　学習に適した機能\n受験生の皆様が、効率的に、効果的に学習できるよう、機能を工夫しました。\n・続きから　前回セーブした問題から解くことができます\n・ミスのみ　自分が間違った問題だけ解くことができます\n・チェックのみ　自分でチェックした問題だけ解くことができます\n・まとめノート　解説についている【まとめ】だけを一覧で見ることができます。試験直前にさっと見直しができます。\n\n●特徴④　スキマ時間に、いつでもどこでも学習できる\n机の前に座っている時は計算練習。\n通勤通学の電車の中、毎日寝る前の10分、アプリを使って理論対策。\n…そんな使い方ができます。\n\n\n■的中情報\nこのアプリに入っていた問題が本試験に出てます。\n範囲が広い会計学の問題を4問中2問を的中しました。\n\n\n■問題について\n過去問を分析し、似た形式で問題を作成しました。\n過去問の出題傾向を分析しました。多く出る論点は問題数を多くしました。\n試験は基準の文言で出題されることが多いので、基準の文言に即した形で問題を作成しました。\n最初は違和感があるかもしれませんが、慣れてください。\n\n\n■制作者 \n書籍：簿記教科書 パブロフ流でみんな合格\nブログ：パブロフ簿記\n\n会計士試験合格後、監査法人を経てプログラミングを始める。簿記の学習に最適な機能と内容を研究。また、簿記1級の受験生へのリサーチを行い、アプリに反映しています。 \n\n日商簿記1級に合格できる受験生が一人でも増えてくださることを心から願っています。",
-      "averageUserRatingForCurrentVersion": 4.65359,
+      "averageUserRatingForCurrentVersion": 4.65405,
       "languageCodesISO2A": [
         "EN",
         "JA"
       ],
       "fileSizeBytes": "59358208",
       "formattedPrice": "¥800",
-      "userRatingCountForCurrentVersion": 765,
+      "userRatingCountForCurrentVersion": 766,
       "trackContentRating": "4+",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "genreIds": [
-        "6017",
-        "6000"
-      ],
-      "userRatingCount": 765,
+      "userRatingCount": 766,
       "country": "JPN"
     }
   ]

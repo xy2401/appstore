@@ -408,12 +408,6 @@
       "country": "DEU"
     },
     {
-      "artistViewUrl": "https://apps.apple.com/fr/developer/jupiter-interactive-group-llc/id526857550?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/26/0a/98260a13-4608-8e45-a7e4-6eeeef22f8d3/Current-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/26/0a/98260a13-4608-8e45-a7e4-6eeeef22f8d3/Current-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
       "isGameCenterEnabled": false,
       "supportedDevices": [
         "MacDesktop-MacDesktop",
@@ -543,7 +537,10 @@
         "iPadAir11M4-iPadAir11M4",
         "iPadAir11M4Cellular-iPadAir11M4Cellular",
         "iPadAir13M4-iPadAir13M4",
-        "iPadAir13M4Cellular-iPadAir13M4Cellular"
+        "iPadAir13M4Cellular-iPadAir13M4Cellular",
+        "iPhone18Pro-iPhone18Pro",
+        "iPhone18ProMax-iPhone18ProMax",
+        "iPhoneDuo-iPhoneDuo"
       ],
       "advisories": [],
       "kind": "software",
@@ -567,46 +564,52 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e6/dd/c6/e6ddc622-af26-898a-1430-d6375f49f5f4/Themes.png/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/26/0a/98260a13-4608-8e45-a7e4-6eeeef22f8d3/Current-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg",
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/26/0a/98260a13-4608-8e45-a7e4-6eeeef22f8d3/Current-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "trackCensoredName": "Current - RSS Feed Reader",
-      "trackViewUrl": "https://apps.apple.com/fr/app/current-rss-feed-reader/id6758530974?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.2,
-      "sellerName": "Jupiter Interactive Group LLC",
-      "artistId": 526857550,
-      "artistName": "Jupiter Interactive Group LLC",
-      "trackId": 6758530974,
-      "trackName": "Current - RSS Feed Reader",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/26/0a/98260a13-4608-8e45-a7e4-6eeeef22f8d3/Current-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/fr/developer/jupiter-interactive-group-llc/id526857550?uo=4",
+      "features": [
+        "iosUniversal"
+      ],
+      "minimumOsVersion": "18.0",
       "genres": [
         "Actualités",
         "Productivité"
       ],
-      "currentVersionReleaseDate": "2026-07-30T13:18:07Z",
+      "artistId": 526857550,
+      "artistName": "Jupiter Interactive Group LLC",
+      "price": 9.99,
       "primaryGenreName": "News",
       "primaryGenreId": 6009,
-      "releaseDate": "2026-02-17T08:00:00Z",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "bundleId": "com.terrygodier.Current",
+      "sellerName": "Jupiter Interactive Group LLC",
       "genreIds": [
         "6009",
         "6007"
       ],
+      "trackId": 6758530974,
+      "trackName": "Current - RSS Feed Reader",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-07-30T13:18:07Z",
       "releaseNotes": "- Significant performance updates across the board\n- Feedly is now available \n- Most feeds that don’t work are blocking us with Cloudflare, so now we provide that detail when adding a feed, rather than “no feed found” (and are still working on being allow-listed w/ them) \n- A11y Scrub has been extended and is now fully implemented\n- Fixed an issue where linkblogs (daring fireball, etc) sometimes link to themselves and get suppressed. \n- Adjust the feed picker to disambiguate each feed when a source has multiple. \n- Blackholed a handful of “helper cards” that were indeed not helpful. \n- Fixed an issue where if you don’t launch the app on the 2nd device within 7 days you could end up with orphaned stories that don’t expire. \n- Fixed an issue where the source list could fall out of sync between two devices related to above. \n- Fixed an issue where offline requests may clog up the queue once you go back online. \n- Adjusted the reading time insights to account for when you leave an article open in a pane (iPad primarily) and aren’t actually reading. \n- Fixed an issue where “Auto advance after release” would get reset by the cloud. \n- Over 30(!) small visual and interaction fixes across macOS, iPadOS and iOS. \n- Over 50(!) source fixes for parsing and identifying feeds.",
       "version": "1.0.15",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Current is an RSS reader built on a simple idea: your feed should never make you feel behind.\n\nThere are no unread counts. No red badges. No number climbing while you sleep, silently tallying everything you haven't read. Current shows you what's new right now, and that's it. Nothing is owed. Nothing is overdue. You open it when you want to read, and whatever's there is what's there.\n\nThe design is intentional. Every screen, every interaction, every animation was built to feel calm and unhurried. Articles are presented beautifully with clean typography and generous whitespace. Navigation is fluid and intuitive. The app gets out of the way and lets you focus on what matters: the writing.\n\nCurrent supports multiple sync providers so you can bring your existing subscriptions:\n\n- Feedbin\n- Inoreader\n- MiniFlux\n- FreshRSS \n- The Old Reader\n- NewsBlur\n- Local RSS (on-device, no account needed)\n\nFeatures:\n\n- Universal app for iPhone, iPad, and Mac\n- Beautiful article reader with smart formatting\n- Full-text article extraction\n- Light and dark themes\n- Background refresh\n- OPML import and export\n- Share extension\n- Keyboard shortcuts on iPad and Mac\n- iCloud sync for local feeds\n\nCurrent is a one-time purchase. No subscription. No ads. No tracking. Just an app you buy once and own forever.\n\nBuilt by an indie developer who wanted to love RSS again.",
+      "bundleId": "com.terrygodier.Current",
+      "trackContentRating": "4+",
       "sellerUrl": "https://www.currentreader.app",
       "averageUserRatingForCurrentVersion": 4.2,
+      "averageUserRating": 4.2,
+      "trackCensoredName": "Current - RSS Feed Reader",
       "languageCodesISO2A": [
         "EN"
       ],
       "fileSizeBytes": "48372736",
       "formattedPrice": "9,99 €",
+      "contentAdvisoryRating": "4+",
       "userRatingCountForCurrentVersion": 5,
-      "trackContentRating": "4+",
-      "minimumOsVersion": "18.0",
-      "price": 9.99,
+      "trackViewUrl": "https://apps.apple.com/fr/app/current-rss-feed-reader/id6758530974?uo=4",
+      "releaseDate": "2026-02-17T08:00:00Z",
       "userRatingCount": 5,
       "country": "FRA"
     },

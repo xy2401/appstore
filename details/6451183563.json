@@ -2,6 +2,7 @@
   "resultCount": 1,
   "results": [
     {
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/58/b3/c3/58b3c3ba-1823-02ef-caa2-df7ded026244/11217eb5-f2f2-48e3-8b8d-3109f8545868_Simulator_Screenshot_-_iPhone_7_Plus_-_2024-05-21_at_23.31.02.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9c/21/ca/9c21cac8-0165-d549-9476-7b608d8c7328/3d50655c-0229-4d00-bb8c-8ff7379bb4e7_Simulator_Screenshot_-_iPhone_7_Plus_-_2024-05-21_at_23.35.01.png/392x696bb.png",
@@ -16,11 +17,10 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d6/94/c3/d694c37c-7c94-1e3f-cb7f-f1dea6a5d285/99385d06-1822-4eb3-b579-6d1aa86dc05b_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00286th_generation_U0029_-_2023-07-13_at_09.35.28.png/576x768bb.png"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/90/3a/cb903a81-dca9-3877-cef2-f48a5905e5dd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/90/3a/cb903a81-dca9-3877-cef2-f48a5905e5dd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/90/3a/cb903a81-dca9-3877-cef2-f48a5905e5dd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/cn/developer/%E5%BF%83%E4%BC%9F-%E7%BD%97/id1679901766?uo=4",
-      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -155,47 +155,47 @@
       ],
       "advisories": [],
       "kind": "software",
-      "features": [
-        "iosUniversal"
-      ],
-      "trackCensoredName": "北矿助手",
-      "languageCodesISO2A": [
-        "ZH"
-      ],
-      "fileSizeBytes": "49297408",
+      "artistViewUrl": "https://apps.apple.com/cn/developer/%E5%BF%83%E4%BC%9F-%E7%BD%97/id1679901766?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/90/3a/cb903a81-dca9-3877-cef2-f48a5905e5dd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/90/3a/cb903a81-dca9-3877-cef2-f48a5905e5dd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+      "minimumOsVersion": "15.6",
       "formattedPrice": "¥3.00",
-      "contentAdvisoryRating": "4+",
       "userRatingCountForCurrentVersion": 149,
-      "trackViewUrl": "https://apps.apple.com/cn/app/%E5%8C%97%E7%9F%BF%E5%8A%A9%E6%89%8B/id6451183563?uo=4",
       "trackContentRating": "4+",
       "averageUserRatingForCurrentVersion": 4.2416,
-      "averageUserRating": 4.2416,
-      "artistId": 1679901766,
-      "artistName": "心伟 罗",
       "genres": [
         "教育",
         "工具"
       ],
+      "price": 3,
+      "bundleId": "com.huami.cumtb.cumtbHelperFlutter",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "languageCodesISO2A": [
+        "ZH"
+      ],
+      "fileSizeBytes": "49297408",
+      "sellerName": "心伟 罗",
+      "releaseDate": "2023-08-04T07:00:00Z",
+      "releaseNotes": "- 修复部分实验课导入缺失的问题。\n- 发帖页面支持保存草稿和自动保存草稿。\n- 支持给课程添加备注。\n- 支持给其他用户添加备注。\n- 新增小组件功能。",
       "genreIds": [
         "6017",
         "6002"
       ],
-      "primaryGenreName": "Education",
-      "primaryGenreId": 6017,
-      "releaseDate": "2023-08-04T07:00:00Z",
-      "sellerName": "心伟 罗",
-      "isVppDeviceBasedLicensingEnabled": true,
       "trackId": 6451183563,
       "trackName": "北矿助手",
       "currentVersionReleaseDate": "2026-09-20T00:08:38Z",
-      "releaseNotes": "- 修复部分实验课导入缺失的问题。\n- 发帖页面支持保存草稿和自动保存草稿。\n- 支持给课程添加备注。\n- 支持给其他用户添加备注。\n- 新增小组件功能。",
       "version": "4.2.0",
       "wrapperType": "software",
       "currency": "CNY",
       "description": "北矿助手是北矿人的智慧助理，为用户提供了最近课程卡片、整学期课表、成绩分析、学习资料库、校圈等功能，同时支持学生和教师，快来试试吧！",
-      "bundleId": "com.huami.cumtb.cumtbHelperFlutter",
-      "minimumOsVersion": "15.6",
-      "price": 3,
+      "trackCensoredName": "北矿助手",
+      "trackViewUrl": "https://apps.apple.com/cn/app/%E5%8C%97%E7%9F%BF%E5%8A%A9%E6%89%8B/id6451183563?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.2416,
+      "primaryGenreName": "Education",
+      "primaryGenreId": 6017,
+      "artistId": 1679901766,
+      "artistName": "心伟 罗",
       "userRatingCount": 149,
       "country": "CHN"
     }

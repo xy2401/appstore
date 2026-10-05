@@ -187,6 +187,7 @@
       "userRatingCount": 4509
     },
     {
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/40/7c/ff/407cff82-18a6-c8b0-7959-6e1f225536df/01.jpg/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c9/81/a1/c981a1f4-d9f4-527a-9aee-7108a3bc5501/02.png/320x480bb.jpg",
@@ -196,6 +197,8 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/30/3a/be/303abec6-ae3b-a401-55a3-30d3fd161d9c/05.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/db/af/bc/dbafbcbc-9f07-7979-3eb1-ec0595b85e9b/06.png/320x480bb.jpg"
       ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/8f/30/078f308f-ef59-ca95-7723-5d4a7f6a72da/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/86/1d/61/861d61cc-b136-77b9-043e-2c940dc765f8/1.png/360x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/55/8a/94/558a941c-b214-a712-9e7e-76034cd2fddc/02.png/360x480bb.jpg",
@@ -205,13 +208,14 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e1/f6/35/e1f6354c-059d-af05-514f-64c56ad96581/05.png/360x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f3/f8/50/f3f850ed-23de-8fcc-f64c-175f6d9833cc/06.png/360x480bb.jpg"
       ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/8f/30/078f308f-ef59-ca95-7723-5d4a7f6a72da/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "advisories": [],
-      "isGameCenterEnabled": false,
+      "kind": "software",
       "features": [
         "iosUniversal"
       ],
+      "artistViewUrl": "https://apps.apple.com/cn/developer/%E4%B8%8A%E6%B5%B7%E7%A8%80%E5%AE%87%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/id1682884211?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/8f/30/078f308f-ef59-ca95-7723-5d4a7f6a72da/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/8f/30/078f308f-ef59-ca95-7723-5d4a7f6a72da/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
       "supportedDevices": [
         "MacDesktop-MacDesktop",
         "iPhone5s-iPhone5s",
@@ -345,31 +349,21 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/cn/developer/%E4%B8%8A%E6%B5%B7%E7%A8%80%E5%AE%87%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/id1682884211?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/8f/30/078f308f-ef59-ca95-7723-5d4a7f6a72da/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/8f/30/078f308f-ef59-ca95-7723-5d4a7f6a72da/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
-      "averageUserRatingForCurrentVersion": 4.58138,
+      "trackContentRating": "4+",
       "languageCodesISO2A": [
         "EN",
         "ZH"
       ],
-      "fileSizeBytes": "107056128",
+      "userRatingCountForCurrentVersion": 4619,
       "formattedPrice": "免费",
-      "userRatingCountForCurrentVersion": 4608,
-      "trackContentRating": "4+",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-09-25T02:57:56Z",
+      "fileSizeBytes": "107056128",
       "artistId": 1682884211,
       "artistName": "上海稀宇科技有限公司",
       "genres": [
         "效率",
         "工具"
       ],
-      "releaseNotes": "新功能如约而至。MiniMax App 远程控制功能已上线，支持手机直接连接桌面端 Agent。\n连接后，项目文件、终端和运行环境仍保留在电脑上，一切如旧。手机将作为轻量控制入口：随时查看 Agent 回复、终端输出、代码改动和测试结果；需要介入时，也能继续发送指令、回应提问、处理权限审批",
-      "bundleId": "com.ai.wanjuan",
-      "trackId": 6446482834,
-      "trackName": "MiniMax - 通用AI Agent",
+      "price": 0,
       "releaseDate": "2023-03-23T07:00:00Z",
       "genreIds": [
         "6007",
@@ -378,17 +372,23 @@
       "primaryGenreName": "Productivity",
       "primaryGenreId": 6007,
       "sellerName": "Shanghai Xiyu Technology Co., LTD",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-09-25T02:57:56Z",
+      "averageUserRatingForCurrentVersion": 4.57913,
       "version": "4.20.1",
       "wrapperType": "software",
       "currency": "CNY",
       "description": "MiniMax Agent是一个能完成长程复杂任务的通用智能体，在Multi-agent系统的支撑下，能多步规划出专家级解决方案、能灵活拆解任务需求、并能执行多个子任务从而交付最终结果。\nMiniMax 智能体的能力包括：\n- 高效模式：全面提升聊天场景体验，更高效地处理问答、文档总结和创意写作等日常任务。\n- 深度研究与分析：整合全网信息，生成深度研究报告。\n- 多模态内容生成：轻松创作视频、音频和图片，丰富您的内容呈现。\n- 专业演示文稿制作：一键生成内容精美、视觉丰富的专业演示文稿。\n- 全栈应用构建：创建稳定且视觉效果出众的全栈应用程序，覆盖从前端到后端。\n- 代码编写与调试：您的智能编程伙伴，助您高效完成代码编写与测试。\n\n隐私政策: https://chat.minimaxi.com/doc/privacy-policy.html\n用户协议: https://chat.minimaxi.com/doc/terms-of-service.html\n服务协议: https://agent.minimax.io/doc/zh/payment-policy.html",
-      "minimumOsVersion": "15.0",
-      "averageUserRating": 4.58138,
       "trackCensoredName": "MiniMax - 通用AI Agent",
+      "bundleId": "com.ai.wanjuan",
       "trackViewUrl": "https://apps.apple.com/cn/app/minimax-%E9%80%9A%E7%94%A8ai-agent/id6446482834?uo=4",
       "contentAdvisoryRating": "4+",
-      "price": 0,
-      "userRatingCount": 4608,
+      "averageUserRating": 4.57913,
+      "minimumOsVersion": "15.0",
+      "trackId": 6446482834,
+      "trackName": "MiniMax - 通用AI Agent",
+      "releaseNotes": "新功能如约而至。MiniMax App 远程控制功能已上线，支持手机直接连接桌面端 Agent。\n连接后，项目文件、终端和运行环境仍保留在电脑上，一切如旧。手机将作为轻量控制入口：随时查看 Agent 回复、终端输出、代码改动和测试结果；需要介入时，也能继续发送指令、回应提问、处理权限审批",
+      "userRatingCount": 4619,
       "country": "CHN"
     }
   ]

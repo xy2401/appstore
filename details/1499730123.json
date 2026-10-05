@@ -206,9 +206,10 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/aa/3d/dc/aa3ddc52-e5a1-aa54-bcab-bf200d4ecde6/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/fr/developer/pascal-trahan/id1461703541?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/aa/3d/dc/aa3ddc52-e5a1-aa54-bcab-bf200d4ecde6/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/aa/3d/dc/aa3ddc52-e5a1-aa54-bcab-bf200d4ecde6/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/fr/developer/pascal-trahan/id1461703541?uo=4",
+      "isGameCenterEnabled": false,
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/aa/3d/dc/aa3ddc52-e5a1-aa54-bcab-bf200d4ecde6/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -346,46 +347,45 @@
       "features": [
         "iosUniversal"
       ],
-      "isGameCenterEnabled": false,
-      "averageUserRatingForCurrentVersion": 4.65753,
-      "sellerUrl": "https://parisinvadersmap.com",
+      "averageUserRating": 4.65753,
+      "trackCensoredName": "Paris Invaders Map",
       "languageCodesISO2A": [
         "EN"
       ],
+      "averageUserRatingForCurrentVersion": 4.65753,
       "fileSizeBytes": "12601344",
       "formattedPrice": "5,99 €",
-      "userRatingCountForCurrentVersion": 73,
-      "trackContentRating": "4+",
-      "trackCensoredName": "Paris Invaders Map",
-      "trackViewUrl": "https://apps.apple.com/fr/app/paris-invaders-map/id1499730123?uo=4",
       "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.65753,
-      "bundleId": "com.parisinvadersmap.paris",
-      "artistId": 1461703541,
-      "artistName": "Pascal Trahan",
+      "userRatingCountForCurrentVersion": 73,
+      "trackViewUrl": "https://apps.apple.com/fr/app/paris-invaders-map/id1499730123?uo=4",
+      "trackContentRating": "4+",
+      "sellerUrl": "https://parisinvadersmap.com",
+      "price": 5.99,
       "genres": [
         "Style de vie",
         "Utilitaires"
       ],
-      "price": 5.99,
-      "primaryGenreName": "Lifestyle",
-      "primaryGenreId": 6012,
-      "genreIds": [
-        "6012",
-        "6002"
-      ],
+      "artistId": 1461703541,
+      "artistName": "Pascal Trahan",
       "releaseDate": "2020-02-23T08:00:00Z",
       "trackId": 1499730123,
       "trackName": "Paris Invaders Map",
-      "sellerName": "Pascal Trahan",
+      "primaryGenreName": "Lifestyle",
+      "primaryGenreId": 6012,
       "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2023-10-31T22:35:28Z",
+      "releaseNotes": "New cities added. More on the way !",
       "version": "3.0.0",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "A \"Space Invaders\" street art mosaic location map and collection manager.\n\n- Easily locate \"Space Invaders\" street art mosaics in Paris, Versailles, Fontainebleau, Ile-de-France and more cities\n- Manage your collection with color markers\n- Search the map by mosaic number\n- Search a mosaic on Google or Instagram by clicking a button\n- Geolocation feature to see where you are on the map\n- Map filters for the different color markers\n- *** Updated regularly with new, destroyed and reactivated mosaics, just press on the update icon to check for updates. ***\n\nThis app contains a map with all the active and inactive \"Space Invaders\" street art mosaic locations in Paris, Versailles, Fontainebleau and Ile-de-France. To put together this map took countless hours of research. Save yourself this effort, I've done the work for you!\n\nIt is not just a map, it is a collection manager! You can set different colors to the map markers and filter them in order to see exactly those you already have, those that you still need to find and those that have been reported as destroyed or damaged.\n\nParisInvadersMap is the perfect companion to bring along every \"Space Invaders\" mosaic street art hunt.",
+      "bundleId": "com.parisinvadersmap.paris",
       "minimumOsVersion": "12.4",
-      "releaseNotes": "New cities added. More on the way !",
+      "sellerName": "Pascal Trahan",
+      "genreIds": [
+        "6012",
+        "6002"
+      ],
       "userRatingCount": 73,
       "country": "FRA"
     }
