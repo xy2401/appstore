@@ -110,7 +110,7 @@
       "country": "de",
       "mediaType": "apps",
       "feed": "top-free",
-      "rank": 24,
+      "rank": 48,
       "artistName": "Microsoft Corporation",
       "id": "541164041",
       "name": "Microsoft Copilot",
@@ -136,7 +136,7 @@
       "country": "fr",
       "mediaType": "apps",
       "feed": "top-free",
-      "rank": 43,
+      "rank": 71,
       "artistName": "Microsoft Corporation",
       "id": "541164041",
       "name": "Microsoft Copilot",
@@ -162,7 +162,7 @@
       "country": "gb",
       "mediaType": "apps",
       "feed": "top-free",
-      "rank": 20,
+      "rank": 25,
       "artistName": "Microsoft Corporation",
       "id": "541164041",
       "name": "Microsoft Copilot",
@@ -188,14 +188,25 @@
       "country": "jp",
       "mediaType": "apps",
       "feed": "top-free",
-      "rank": 8,
+      "rank": 28,
       "artistName": "Microsoft Corporation",
       "id": "541164041",
       "name": "Microsoft Copilot",
       "releaseDate": "2014-03-27",
       "kind": "apps",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/d5/3d/c1d53da8-6c85-dacb-bbf5-6922022f1a55/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
-      "genres": [],
+      "genres": [
+        {
+          "genreId": "6007",
+          "name": "仕事効率化",
+          "url": "https://itunes.apple.com/jp/genre/id6007"
+        },
+        {
+          "genreId": "6000",
+          "name": "ビジネス",
+          "url": "https://itunes.apple.com/jp/genre/id6000"
+        }
+      ],
       "url": "https://apps.apple.com/jp/app/microsoft-copilot/id541164041"
     },
     {
@@ -203,7 +214,7 @@
       "country": "us",
       "mediaType": "apps",
       "feed": "top-free",
-      "rank": 64,
+      "rank": 78,
       "artistName": "Microsoft Corporation",
       "id": "541164041",
       "name": "Microsoft Copilot",
