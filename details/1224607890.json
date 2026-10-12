@@ -2,6 +2,9 @@
   "resultCount": 1,
   "results": [
     {
+      "features": [
+        "iosUniversal"
+      ],
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/01/1c/05/011c0540-1690-54a3-0202-fc09977a4909/Screenshot_01.png/360x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0f/1b/01/0f1b016d-db59-e38d-25a0-b746171ba775/Screenshot_02.png/360x480bb.jpg",
@@ -13,7 +16,7 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e1/12/55/e1125555-285a-7d7d-7562-2779a0b617b4/Screenshot_08.png/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/29/22/8d2922df-eef0-937f-9258-88c9ba96ab02/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/65/31/3e/65313e84-f767-a78f-fbcf-377cf1e01d01/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f0/83/01/f08301b6-9c3a-a01f-68e7-53aeb59da527/Screenshot_01.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f3/43/c5/f343c54d-68c0-0374-a0fe-e27d83126fd9/Screenshot_02.png/320x480bb.jpg",
@@ -25,9 +28,9 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/49/b8/da/49b8dafd-a600-3207-104e-f7d60dff878e/Screenshot_08.png/320x480bb.jpg"
       ],
       "isGameCenterEnabled": false,
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/65/31/3e/65313e84-f767-a78f-fbcf-377cf1e01d01/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/65/31/3e/65313e84-f767-a78f-fbcf-377cf1e01d01/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
       "artistViewUrl": "https://apps.apple.com/de/developer/sudwestrundfunk-anstalt-des-offentlichen-rechts/id610313722?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/29/22/8d2922df-eef0-937f-9258-88c9ba96ab02/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/29/22/8d2922df-eef0-937f-9258-88c9ba96ab02/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -170,38 +173,32 @@
         "Selten/schwach ausgeprägt: obszöner oder vulgärer Humor"
       ],
       "kind": "software",
-      "features": [
-        "iosUniversal"
-      ],
+      "bundleId": "de.ard.audiothek",
+      "averageUserRatingForCurrentVersion": 4.59574,
       "languageCodesISO2A": [
         "EN",
         "DE"
       ],
       "fileSizeBytes": "285382656",
       "formattedPrice": "Gratis",
-      "userRatingCountForCurrentVersion": 60147,
+      "userRatingCountForCurrentVersion": 60585,
       "trackContentRating": "12+",
-      "averageUserRatingForCurrentVersion": 4.59809,
+      "contentAdvisoryRating": "12+",
       "trackCensoredName": "ARD Sounds",
       "trackViewUrl": "https://apps.apple.com/de/app/ard-sounds/id1224607890?uo=4",
-      "contentAdvisoryRating": "12+",
-      "averageUserRating": 4.59809,
+      "averageUserRating": 4.59574,
+      "minimumOsVersion": "18.0",
+      "price": 0,
       "artistId": 610313722,
       "artistName": "Sudwestrundfunk, Anstalt des offentlichen Rechts",
       "genres": [
         "Unterhaltung",
         "Musik"
       ],
-      "price": 0,
-      "releaseDate": "2017-10-13T11:25:22Z",
-      "trackId": 1224607890,
-      "trackName": "ARD Sounds",
-      "isVppDeviceBasedLicensingEnabled": true,
       "sellerName": "Sudwestrundfunk, Anstalt des offentlichen Rechts",
-      "genreIds": [
-        "6016",
-        "6011"
-      ],
+      "trackName": "ARD Sounds",
+      "trackId": 1224607890,
+      "isVppDeviceBasedLicensingEnabled": true,
       "primaryGenreName": "Entertainment",
       "primaryGenreId": 6016,
       "currentVersionReleaseDate": "2026-09-23T13:40:41Z",
@@ -210,9 +207,12 @@
       "wrapperType": "software",
       "currency": "EUR",
       "description": "ARD Sounds. Der Playbutton für deinen Tag. Die kostenlose Podcast App für Deutschland: exklusive ARD Podcasts, spannende Hörspiele, Hörbücher kostenlos, Live-Radio und verlässliche Nachrichten – alles in einer Audio-App. Für unterwegs, zu Hause oder auf Reisen. Hier bist du verbunden mit den Stimmen, die du liebst – aus deiner Region und aus der ganzen ARD-Welt und dem Deutschlandradio.\nEntdecke eine neue Art des Hörens: emotional, informativ, inspirierend. Ob Krimi für die Autofahrt, True-Crime-Podcast, Fußball-Live-Reportage oder Kinderpodcast zum Einschlafen – die ARD Sounds App bringt dir Audio auf höchstem Niveau, wann und wo du willst.\n\nDeine kostenlose Podcast & Radio App\n• Podcasts auf Deutsch: Politik, Kultur, Wissen, True Crime, Dokus, Comedy, Sport und mehr – alle wichtigen ARD Podcasts in einer App.\n• Hörbücher & Hörspiele: Fantasy, Klassiker, Romane und Kinderhörspiele – viele Inhalte kannst du kostenlos streamen und zum später Hören merken.\n• Live Radio: Höre deine Lieblingssender wie NDR 1 Niedersachsen, WDR 2, SWR3, BR-Programme oder Deutschlandradio jederzeit live – Digitalradio in bester Qualität.\n• Nachrichten & Live-Sport: Von NDR Info über BR24 bis zu großen Sportereignissen – bleib mit aktuellen News, Hintergründen und Reportagen immer auf dem Laufenden.\n\nMehr Komfort beim Podcast Hören\n• Podcasts offline hören: Lade Folgen herunter und nutze die App als Podcast Player – perfekt für Bahn, Flugzeug oder unterwegs ohne Empfang.\n• Eigene Playlists & Merkliste: Erstelle persönliche Playlists mit deinen liebsten Podcasts, Hörbüchern und Radiosendungen.\n• Weiterhören auf allen Geräten: Mit deinem ARD-Konto synchronisierst du Favoriten und Verlauf zwischen Smartphone, Web und anderen Geräten.\n• Intuitive Bedienung: Finde schnell neue Podcasts kostenlos auf Deutsch – nach Thema, Sender oder Stimmung.\n\nRadio & Podcasts in einer App\n\nARD Sounds bündelt das Beste aus Podcast, Hörspiel, Hörbuch und Radio: die Programme von BR, HR, MDR, NDR, RBB, Radio Bremen, SR, SWR, WDR und dem Deutschlandradio in einer modernen Radio App.\n\nFür alle, die Audio lieben\nARD Sounds ist deine App für Podcasts, Hörbücher, Hörspiele, Live-Radio, Nachrichten und Wissen – mit Tiefe, Herz und Haltung. Für alle, die Qualität schätzen. Für alle, die gern hören. Für alle, die verbunden bleiben wollen – mit den Stimmen, die sie lieben. Jetzt kostenlos herunterladen und eintauchen.",
-      "bundleId": "de.ard.audiothek",
-      "minimumOsVersion": "18.0",
-      "userRatingCount": 60147,
+      "genreIds": [
+        "6016",
+        "6011"
+      ],
+      "releaseDate": "2017-10-13T11:25:22Z",
+      "userRatingCount": 60585,
       "country": "DEU"
     }
   ]

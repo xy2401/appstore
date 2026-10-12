@@ -212,6 +212,10 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/75/eb/98/75eb984c-8879-96b0-a1f1-e13d85d22655/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -344,16 +348,11 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [],
       "kind": "software",
       "artistViewUrl": "https://apps.apple.com/us/developer/shane-jeffers/id1544103202?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/75/eb/98/75eb984c-8879-96b0-a1f1-e13d85d22655/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/75/eb/98/75eb984c-8879-96b0-a1f1-e13d85d22655/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
-      "releaseNotes": "NEW: Collages\nPut several pieces of art on your Frame at once. Choose photos from any collection or your own library, pick a layout, and adjust each crop, the spacing, and the mat. Download it or send it to your TV, and save it to your collections to edit later.\n\nAlso in this update\n• Smoother scrolling through large collections\n• Better layouts on iPad\n• Fixes for signing in, downloads, and TV actions",
-      "averageUserRatingForCurrentVersion": 4.662,
+      "minimumOsVersion": "16.4",
       "sellerUrl": "https://framecrop.app",
       "languageCodesISO2A": [
         "EN"
@@ -362,26 +361,19 @@
       "formattedPrice": "$7.99",
       "userRatingCountForCurrentVersion": 500,
       "trackContentRating": "12+",
+      "averageUserRatingForCurrentVersion": 4.662,
+      "price": 7.99,
       "artistId": 1544103202,
       "artistName": "Shane Jeffers",
-      "genres": [
-        "Utilities",
-        "Photo & Video"
-      ],
-      "price": 7.99,
-      "trackId": 6443996847,
-      "trackName": "Frame Crop – Art Mode",
-      "bundleId": "com.theframe.app",
-      "releaseDate": "2023-06-22T07:00:00Z",
       "genreIds": [
         "6002",
         "6008"
       ],
       "primaryGenreName": "Utilities",
       "primaryGenreId": 6002,
-      "sellerName": "Shane Jeffers",
-      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-09-30T13:01:02Z",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseNotes": "NEW: Collages\nPut several pieces of art on your Frame at once. Choose photos from any collection or your own library, pick a layout, and adjust each crop, the spacing, and the mat. Download it or send it to your TV, and save it to your collections to edit later.\n\nAlso in this update\n• Smoother scrolling through large collections\n• Better layouts on iPad\n• Fixes for signing in, downloads, and TV actions",
       "version": "12.0.46",
       "wrapperType": "software",
       "currency": "USD",
@@ -390,7 +382,15 @@
       "trackCensoredName": "Frame Crop – Art Mode",
       "trackViewUrl": "https://apps.apple.com/us/app/frame-crop-art-mode/id6443996847?uo=4",
       "contentAdvisoryRating": "12+",
-      "minimumOsVersion": "16.4",
+      "bundleId": "com.theframe.app",
+      "releaseDate": "2023-06-22T07:00:00Z",
+      "trackId": 6443996847,
+      "trackName": "Frame Crop – Art Mode",
+      "sellerName": "Shane Jeffers",
+      "genres": [
+        "Utilities",
+        "Photo & Video"
+      ],
       "userRatingCount": 500,
       "country": "USA"
     }

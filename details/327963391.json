@@ -216,6 +216,12 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/ea/c1/aeeac1c2-6e13-1c6e-f165-04a8fa27c9a0/AppIcon-pedistat-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
+      "advisories": [
+        "Frequent/Intense Medical/Treatment Information"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -348,18 +354,11 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [
-        "Frequent/Intense Medical/Treatment Information"
-      ],
       "kind": "software",
       "artistViewUrl": "https://apps.apple.com/us/developer/james-m-kempema-md-pa/id1519534589?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/ea/c1/aeeac1c2-6e13-1c6e-f165-04a8fa27c9a0/AppIcon-pedistat-1x_U007emarketing-0-11-0-85-220-0.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/ea/c1/aeeac1c2-6e13-1c6e-f165-04a8fa27c9a0/AppIcon-pedistat-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.jpg",
-      "releaseNotes": "Improved UI for better app navigation and clearer calculations\nUpdated terms of use",
-      "averageUserRatingForCurrentVersion": 4.51471,
+      "minimumOsVersion": "15.0",
       "sellerUrl": "http://www.pedi-stat.com",
       "languageCodesISO2A": [
         "EN"
@@ -368,26 +367,19 @@
       "formattedPrice": "$7.99",
       "userRatingCountForCurrentVersion": 68,
       "trackContentRating": "17+",
+      "averageUserRatingForCurrentVersion": 4.51471,
+      "price": 7.99,
       "artistId": 1519534589,
       "artistName": "James M Kempema MD PA",
-      "genres": [
-        "Medical",
-        "Health & Fitness"
-      ],
-      "price": 7.99,
-      "trackId": 327963391,
-      "trackName": "Pedi STAT",
-      "bundleId": "com.qxmd.pedsGuide",
-      "releaseDate": "2009-08-29T03:28:38Z",
       "genreIds": [
         "6020",
         "6013"
       ],
       "primaryGenreName": "Medical",
       "primaryGenreId": 6020,
-      "sellerName": "James M Kempema MD PA",
-      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-10-03T21:21:04Z",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseNotes": "Improved UI for better app navigation and clearer calculations\nUpdated terms of use",
       "version": "5.3.0",
       "wrapperType": "software",
       "currency": "USD",
@@ -396,7 +388,15 @@
       "trackCensoredName": "Pedi STAT",
       "trackViewUrl": "https://apps.apple.com/us/app/pedi-stat/id327963391?uo=4",
       "contentAdvisoryRating": "17+",
-      "minimumOsVersion": "15.0",
+      "bundleId": "com.qxmd.pedsGuide",
+      "releaseDate": "2009-08-29T03:28:38Z",
+      "trackId": 327963391,
+      "trackName": "Pedi STAT",
+      "sellerName": "James M Kempema MD PA",
+      "genres": [
+        "Medical",
+        "Health & Fitness"
+      ],
       "userRatingCount": 68,
       "country": "USA"
     }

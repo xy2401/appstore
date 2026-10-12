@@ -276,9 +276,6 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/a6/31/73a6313d-c545-e985-4e22-8a60a043a55c/gemini_notebook_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/us/developer/google/id281956209?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/a6/31/73a6313d-c545-e985-4e22-8a60a043a55c/gemini_notebook_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/a6/31/73a6313d-c545-e985-4e22-8a60a043a55c/gemini_notebook_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
@@ -426,7 +423,12 @@
         "Infrequent/Mild Horror/Fear Themes"
       ],
       "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/us/developer/google/id281956209?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/a6/31/73a6313d-c545-e985-4e22-8a60a043a55c/gemini_notebook_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/a6/31/73a6313d-c545-e985-4e22-8a60a043a55c/gemini_notebook_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.jpg",
+      "averageUserRatingForCurrentVersion": 4.86296,
       "sellerUrl": "http://notebooklm.google",
+      "trackCensoredName": "Gemini Notebook",
       "languageCodesISO2A": [
         "AF",
         "SQ",
@@ -495,15 +497,9 @@
       ],
       "fileSizeBytes": "216758272",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 62132,
-      "trackContentRating": "12+",
-      "averageUserRatingForCurrentVersion": 4.86271,
-      "trackCensoredName": "Gemini Notebook",
+      "userRatingCountForCurrentVersion": 62673,
       "trackViewUrl": "https://apps.apple.com/us/app/gemini-notebook/id6737527615?uo=4",
-      "averageUserRating": 4.86271,
-      "contentAdvisoryRating": "12+",
-      "minimumOsVersion": "17.0",
-      "releaseNotes": "Notes as sources\n- You can now create notes as sources, and save chat responses as notes.",
+      "trackContentRating": "12+",
       "artistId": 281956209,
       "artistName": "Google",
       "genres": [
@@ -511,10 +507,10 @@
         "Education"
       ],
       "price": 0,
-      "bundleId": "com.google.NotebookLM",
-      "releaseDate": "2025-05-19T07:00:00Z",
       "trackId": 6737527615,
       "trackName": "Gemini Notebook",
+      "currentVersionReleaseDate": "2026-10-02T16:53:19Z",
+      "releaseDate": "2025-05-19T07:00:00Z",
       "genreIds": [
         "6007",
         "6017"
@@ -523,12 +519,16 @@
       "primaryGenreId": 6007,
       "sellerName": "Google LLC",
       "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-10-02T16:53:19Z",
+      "releaseNotes": "Notes as sources\n- You can now create notes as sources, and save chat responses as notes.",
       "version": "1.60.7",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Turn complexity into clarity with Gemini Notebook, your brain’s new best friend. Join the millions of students, creators, researchers, professionals, CEOs, and more who are saving time, getting stuff done, and learning in new ways.\n\n“One of the most compelling and completely flabbergasting demonstrations of AI’s potential yet.” – The Wall Street Journal\n\nNow, with the Gemini Notebook app, you can create and access notebooks, ask questions whenever you think of them, and listen to your podcast-style Audio Overviews on the go with background playback and offline support.\n\nUPLOAD SOURCES\nUpload all your long and complex PDFs, websites, YouTube videos, or text into a notebook.\n\nINSIGHTS YOU CAN TRUST\nGemini Notebook becomes an expert on your sources, summarizing them and making interesting connections. Then, you can ask it questions about, well, anything — and you can trust the answers, since your sources are cited in-line.\n\nLEARN YOUR OWN WAY\nLong blocks of text not your preferred way to learn? Transform what you uploaded into something more your speed, like a podcast-style audio discussion with two engaging AI hosts. You can even join the show to ask questions or steer the conversation in a different direction.",
-      "userRatingCount": 62132,
+      "minimumOsVersion": "17.0",
+      "contentAdvisoryRating": "12+",
+      "averageUserRating": 4.86296,
+      "bundleId": "com.google.NotebookLM",
+      "userRatingCount": 62673,
       "country": "USA"
     }
   ]

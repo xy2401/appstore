@@ -3,6 +3,9 @@
   "results": [
     {
       "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -135,17 +138,11 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "features": [
-        "iosUniversal"
-      ],
       "advisories": [
         "Scènes fréquentes/intenses de contenu à caractère médical",
         "Scènes rares/modérées de consommation ou de référence à l’alcool, au tabac ou à la drogue"
       ],
       "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/fr/developer/editions-setes/id866053065?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/db/7c/94db7c7d-20a6-ae1c-9b6a-6be662424c55/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/db/7c/94db7c7d-20a6-ae1c-9b6a-6be662424c55/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ad/73/08/ad730891-a5d1-47fd-b94e-99299668df7b/ecran01_ok.jpg/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b9/bd/53/b9bd530d-61dd-fc72-7484-1f6e4f745782/ecran02_ok.jpg/320x480bb.jpg",
@@ -169,7 +166,11 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/11/71/0d/11710dcd-9f16-d930-3440-7a9055db25b1/ecran9.jpg/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/db/7c/94db7c7d-20a6-ae1c-9b6a-6be662424c55/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/db/7c/94db7c7d-20a6-ae1c-9b6a-6be662424c55/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/db/7c/94db7c7d-20a6-ae1c-9b6a-6be662424c55/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/fr/developer/editions-setes/id866053065?uo=4",
+      "minimumOsVersion": "15.0",
       "artistId": 866053065,
       "artistName": "Editions SETES",
       "genres": [
@@ -177,9 +178,6 @@
       ],
       "price": 14.99,
       "bundleId": "com.setesedition.aes",
-      "trackId": 6749960728,
-      "trackName": "AES fiches/épreuves/QCM...",
-      "releaseDate": "2026-02-25T08:00:00Z",
       "genreIds": [
         "6017"
       ],
@@ -187,26 +185,28 @@
       "primaryGenreId": 6017,
       "sellerName": "SETES EDITIONS",
       "isVppDeviceBasedLicensingEnabled": true,
+      "releaseDate": "2026-02-25T08:00:00Z",
       "currentVersionReleaseDate": "2026-03-26T22:41:41Z",
       "releaseNotes": "Correction de bugs mineurs.",
       "version": "1.0.1",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "L’application AES propose tout le programme de formation en fiches de révision et toutes les épreuves de certification. \n\nLes fiches de révision sont organisées par Unités de Formation (UF) pour chacun des 5 Domaines de Formation (DF).\n\nChaque fiche de révision est composée de 4 onglets : \nOnglet 1 - Les notions essentielles : enrichies de tableaux, d'illustrations, points importants, exemples, cas concrets...\nOnglet 2 - Le rôle de l'AES et l'application pratique : détaille pour chaque fiche le rôle à adopter, illustré de cas concrets.\nOnglet 3 - L'évaluation des connaissances par une série de QCM : permet de valider vos connaissances sur cette fiche. \nOnglet 4 - Vos statistiques : apporte un point général sur votre situation.\n\nLes épreuves de certification\nTous les sujets traités répondent exactement aux exigences de chacun des blocs ainsi qu'aux attentes des examinateurs comme pour le jour de vos épreuves réelles.\nChaque bloc « épreuves de certification » propose suivant la nature du bloc : \n- des études de situation (corrigées),\n- des projets d'animation (corrigés),\n- des dossiers de pratique professionnelle (corrigés).\n\nEn complément des épreuves, suivant le bloc : \n- une série de « QCM général » du bloc (corrigée),\n- des textes à trous (corrigés),\n- des schémas muets (corrigés).\n\nVos statistiques\nQue ce soit pour le domaine de formation ou pour les épreuves de certification, vous avez à votre disposition tout un ensemble d'informations (temps passé, notes, graphismes...) permettant ainsi de :\n- suivre votre évolution,\n- repérer vos lacunes,\n- retravailler vos points faibles,\n- gagner du temps.\n\nPour votre confort dans vos révisions, l'application AES a intégré 2 modes supplémentaires :\n- un mode de modification de la taille du texte pour une lecture plus fluide,  \n- un mode audio.\n\nApplication AES est en achat unique sans abonnement et sans publicité.\n\nEn vous souhaitant bon courage dans vos révisions.\nL’équipe SETES éditions",
-      "trackCensoredName": "AES fiches/épreuves/QCM...",
-      "trackViewUrl": "https://apps.apple.com/fr/app/aes-fiches-%C3%A9preuves-qcm/id6749960728?uo=4",
-      "contentAdvisoryRating": "17+",
-      "averageUserRating": 5,
       "sellerUrl": "http://www.editions-setes.com/",
       "averageUserRatingForCurrentVersion": 5,
-      "minimumOsVersion": "15.0",
+      "trackCensoredName": "AES fiches/épreuves/QCM...",
       "languageCodesISO2A": [
         "EN"
       ],
       "fileSizeBytes": "38126592",
       "formattedPrice": "14,99 €",
+      "contentAdvisoryRating": "17+",
       "userRatingCountForCurrentVersion": 1,
+      "trackViewUrl": "https://apps.apple.com/fr/app/aes-fiches-%C3%A9preuves-qcm/id6749960728?uo=4",
       "trackContentRating": "17+",
+      "averageUserRating": 5,
+      "trackName": "AES fiches/épreuves/QCM...",
+      "trackId": 6749960728,
       "userRatingCount": 1,
       "country": "FRA"
     }

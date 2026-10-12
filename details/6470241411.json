@@ -202,6 +202,10 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/80/cc/1f80cca8-702b-9323-483e-8e7bbc41f989/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -334,15 +338,11 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [],
       "kind": "software",
       "artistViewUrl": "https://apps.apple.com/us/developer/chris-rogers/id1119043156?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/80/cc/1f80cca8-702b-9323-483e-8e7bbc41f989/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/80/cc/1f80cca8-702b-9323-483e-8e7bbc41f989/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.jpg",
-      "averageUserRatingForCurrentVersion": 3.32051,
+      "minimumOsVersion": "12.0",
       "languageCodesISO2A": [
         "EN"
       ],
@@ -350,26 +350,18 @@
       "formattedPrice": "$12.99",
       "userRatingCountForCurrentVersion": 78,
       "trackContentRating": "4+",
+      "averageUserRatingForCurrentVersion": 3.32051,
+      "price": 12.99,
       "artistId": 1119043156,
       "artistName": "chris rogers",
-      "genres": [
-        "Utilities",
-        "Entertainment"
-      ],
-      "price": 12.99,
-      "trackId": 6470241411,
-      "trackName": "Transcend Theory",
-      "bundleId": "com.bitplague.transcend",
-      "releaseDate": "2024-04-16T07:00:00Z",
       "genreIds": [
         "6002",
         "6016"
       ],
       "primaryGenreName": "Utilities",
       "primaryGenreId": 6002,
-      "sellerName": "BitPlague LLC",
-      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2024-04-16T09:02:27Z",
+      "isVppDeviceBasedLicensingEnabled": true,
       "version": "1.0",
       "wrapperType": "software",
       "currency": "USD",
@@ -378,7 +370,15 @@
       "trackCensoredName": "Transcend Theory",
       "trackViewUrl": "https://apps.apple.com/us/app/transcend-theory/id6470241411?uo=4",
       "contentAdvisoryRating": "4+",
-      "minimumOsVersion": "12.0",
+      "bundleId": "com.bitplague.transcend",
+      "releaseDate": "2024-04-16T07:00:00Z",
+      "trackId": 6470241411,
+      "trackName": "Transcend Theory",
+      "sellerName": "BitPlague LLC",
+      "genres": [
+        "Utilities",
+        "Entertainment"
+      ],
       "userRatingCount": 78,
       "country": "USA"
     }

@@ -202,6 +202,13 @@
       "userRatingCount": 191
     },
     {
+      "features": [
+        "iosUniversal"
+      ],
+      "artistViewUrl": "https://apps.apple.com/de/developer/tise-as/id941161893?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/e0/c9/54e0c9cf-b185-ebf1-7acf-881b9f7688fd/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/e0/c9/54e0c9cf-b185-ebf1-7acf-881b9f7688fd/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ac/1e/18/ac1e18c8-cc53-75ca-adb8-c11ef3811bce/DE-02.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1c/e8/98/1ce898e6-d8a1-f9b9-c535-5666bc0f9d41/DE-04.png/320x480bb.jpg",
@@ -215,8 +222,8 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/23/8b/6a/238b6ada-6f54-3908-7516-1e922d10327a/79e4074c-b342-4a19-87c4-b3efaaf672b6_iPad_Pro_12.9__-_4.png/576x768bb.png"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/9c/1a/dd9c1ab3-a7c2-c058-7eb1-55e8ff8b02c7/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/e0/c9/54e0c9cf-b185-ebf1-7acf-881b9f7688fd/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -349,15 +356,14 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [],
       "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/de/developer/tise-as/id941161893?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/9c/1a/dd9c1ab3-a7c2-c058-7eb1-55e8ff8b02c7/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/9c/1a/dd9c1ab3-a7c2-c058-7eb1-55e8ff8b02c7/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
-      "minimumOsVersion": "17.4",
+      "bundleId": "no.tise.Tise",
+      "contentAdvisoryRating": "17+",
+      "averageUserRating": 3.85551,
+      "minimumOsVersion": "18.0",
+      "averageUserRatingForCurrentVersion": 3.85551,
+      "sellerUrl": "https://tise.com",
+      "trackCensoredName": "Tise | Secondhand Fashion",
       "languageCodesISO2A": [
         "DA",
         "EN",
@@ -365,42 +371,36 @@
         "DE",
         "NB"
       ],
-      "fileSizeBytes": "113100800",
+      "fileSizeBytes": "113334272",
       "formattedPrice": "Gratis",
-      "userRatingCountForCurrentVersion": 260,
+      "userRatingCountForCurrentVersion": 263,
+      "trackViewUrl": "https://apps.apple.com/de/app/tise-secondhand-fashion/id948050708?uo=4",
       "trackContentRating": "17+",
-      "sellerUrl": "https://tise.com",
-      "averageUserRatingForCurrentVersion": 3.84231,
-      "releaseNotes": "Leistungsverbesserungen und Fehlerbehebungen",
+      "sellerName": "Tise AS",
       "artistId": 941161893,
       "artistName": "Tise AS",
-      "genres": [
-        "Shopping",
-        "Soziale Netze"
-      ],
       "price": 0,
-      "trackId": 948050708,
-      "trackName": "Tise | Secondhand Fashion",
-      "primaryGenreName": "Shopping",
-      "primaryGenreId": 6024,
-      "bundleId": "no.tise.Tise",
-      "currentVersionReleaseDate": "2026-09-30T01:28:07Z",
+      "isVppDeviceBasedLicensingEnabled": true,
       "genreIds": [
         "6024",
         "6005"
       ],
-      "isVppDeviceBasedLicensingEnabled": true,
       "releaseDate": "2014-12-14T14:37:20Z",
-      "sellerName": "Tise AS",
-      "version": "6.52.1",
+      "primaryGenreName": "Shopping",
+      "primaryGenreId": 6024,
+      "releaseNotes": "Performance improvements and bug fixes",
+      "version": "6.53.0",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Von Millionen geliebt, ist Tise der führende online Marktplatz um Second-Hand Mode zu kaufen und zu verkaufen. Verkaufen auf Tise ist sicher, einfach und belohnt dich mit Bonuspunkten. \n\nZahle weniger Verkaufsgebühren und erhalte mehr Fashion \nErneuer deinen Style und verkaufe was du nicht mehr trägst -ganz ohne Verkaufsgebühren. Versprochen! Verdiene Cash durchs Ausmisten und fühl dich gut dabei. \n\nWerde Teil unserer Pre-Loved Community. \nUnsere Community aus leidenschaftlichen Fashionlovern macht Second-Hand Fashion einfach, inspirierend und aufregend. \n\nLike, follow und connect dich zum shoppen\nVernetze dich mit Leuten, die dich inspirieren und shoppe deren Kleiderschrank. \n\nKaufe die neuesten Trends für kleines Geld. \nShoppe günstig die neuesten Trends. Gib deinem Style ein Upgrade, ohne dein Konto zu plündern.\n \nTise Punkte machen tisen noch lohnenswerter. \nSammel Tise Punkte beim Verkaufen, Kaufen oder Einstellen und hol dir Versandrabatte oder spare bei der Verkaufsgebühr.",
-      "averageUserRating": 3.84231,
-      "contentAdvisoryRating": "17+",
-      "trackCensoredName": "Tise | Secondhand Fashion",
-      "trackViewUrl": "https://apps.apple.com/de/app/tise-secondhand-fashion/id948050708?uo=4",
-      "userRatingCount": 260,
+      "trackName": "Tise | Secondhand Fashion",
+      "trackId": 948050708,
+      "currentVersionReleaseDate": "2026-10-07T15:56:28Z",
+      "genres": [
+        "Shopping",
+        "Soziale Netze"
+      ],
+      "userRatingCount": 263,
       "country": "DEU"
     }
   ]

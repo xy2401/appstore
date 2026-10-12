@@ -201,9 +201,6 @@
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/89/4f/3b894f2d-c092-1a3f-a474-dde67f92199d/appicon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "isGameCenterEnabled": false,
       "advisories": [],
-      "features": [
-        "iosUniversal"
-      ],
       "supportedDevices": [
         "MacDesktop-MacDesktop",
         "iPhone5s-iPhone5s",
@@ -338,40 +335,43 @@
         "iPhoneDuo-iPhoneDuo"
       ],
       "kind": "software",
-      "averageUserRating": 5,
-      "contentAdvisoryRating": "4+",
+      "features": [
+        "iosUniversal"
+      ],
       "trackCensoredName": "Microsoft Cloud Switcher",
       "trackViewUrl": "https://apps.apple.com/us/app/microsoft-cloud-switcher/id6752790990?uo=4",
-      "averageUserRatingForCurrentVersion": 5,
-      "releaseNotes": "Performance & .net 10 patches",
-      "languageCodesISO2A": [],
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 5,
+      "minimumOsVersion": "18.0",
       "fileSizeBytes": "60133376",
       "formattedPrice": "Free",
       "userRatingCountForCurrentVersion": 1,
       "trackContentRating": "4+",
-      "genres": [
-        "Utilities"
-      ],
-      "artistId": 298856275,
-      "artistName": "Microsoft Corporation",
+      "languageCodesISO2A": [],
+      "price": 0,
+      "bundleId": "com.microsoft.cloudswitcher",
       "isVppDeviceBasedLicensingEnabled": true,
       "primaryGenreName": "Utilities",
       "primaryGenreId": 6002,
-      "bundleId": "com.microsoft.cloudswitcher",
-      "currentVersionReleaseDate": "2026-10-01T11:58:57Z",
+      "releaseNotes": "Performance & .net 10 patches",
       "sellerName": "Microsoft Corporation",
       "releaseDate": "2026-03-17T07:00:00Z",
       "trackId": 6752790990,
       "trackName": "Microsoft Cloud Switcher",
+      "genreIds": [
+        "6002"
+      ],
+      "currentVersionReleaseDate": "2026-10-01T11:58:57Z",
       "version": "1.6",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Microsoft Cloud Switcher allows users to pre-configure the target cloud for Microsoft 365 apps installed on the device. It allows switching between the Public Cloud, the Microsoft 365 Bleu Cloud, and the Microsoft 365 Delos Cloud. This app is for customers of the Microsoft 365 Bleu and Delos national partner clouds only. It is not intended for users of Microsoft consumer online services or other clouds. If you are unsure about the implications of switching, please contact your IT Administrator before making any changes.",
-      "minimumOsVersion": "18.0",
-      "genreIds": [
-        "6002"
+      "averageUserRatingForCurrentVersion": 5,
+      "artistId": 298856275,
+      "artistName": "Microsoft Corporation",
+      "genres": [
+        "Utilities"
       ],
-      "price": 0,
       "userRatingCount": 1,
       "country": "USA"
     }

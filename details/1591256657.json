@@ -2,8 +2,6 @@
   "resultCount": 1,
   "results": [
     {
-      "isGameCenterEnabled": false,
-      "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/95/31/3b/95313b35-77c3-0a23-191e-b9683f5ca06d/f59316f4-3188-4c2c-ac68-8e760a7958ea_1bis.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ec/65/4c/ec654cfd-397c-e11a-771d-0a1edf81b3a5/b910d7e3-61d6-4270-86bf-3b92dd5b62cd_2bis.png/392x696bb.png",
@@ -13,10 +11,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/7d/95/f1/7d95f1e3-d079-d564-d4a3-710239c5b29c/6fd4ebd5-b64e-4d0f-bfc4-694c6f0f0df6_6bis.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/33/1d/e3/331de316-cbb8-502e-740d-f6e2c63c0135/2cc981e7-31b2-443f-819c-b3fb5d805185_7bis.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/0b/88/7c/0b887c9c-4d04-6b27-74de-5d8e36892cfc/c493fe58-0393-4540-ad34-b84e735780b6_8bis.png/392x696bb.png"
-      ],
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/8a/90/638a90bf-8ac9-58a9-9b6a-ecfa98b2a268/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/60x60bb.jpg",
-      "features": [
-        "iosUniversal"
       ],
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/6b/93/71/6b9371f5-90d1-0e9e-4925-74d4602e98e6/e6cb693d-e3a4-4f26-b2d9-119237228f06_Screen1.png/576x768bb.png",
@@ -30,8 +24,17 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/8a/90/638a90bf-8ac9-58a9-9b6a-ecfa98b2a268/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/8a/90/638a90bf-8ac9-58a9-9b6a-ecfa98b2a268/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.jpg",
+      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
+      "advisories": [
+        "Scènes fréquentes/intenses de contenu à caractère médical"
+      ],
+      "kind": "software",
       "artistViewUrl": "https://apps.apple.com/fr/developer/sofia/id1683183397?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/8a/90/638a90bf-8ac9-58a9-9b6a-ecfa98b2a268/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/8a/90/638a90bf-8ac9-58a9-9b6a-ecfa98b2a268/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -164,47 +167,44 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [
-        "Scènes fréquentes/intenses de contenu à caractère médical"
-      ],
-      "price": 9.99,
-      "artistId": 1683183397,
-      "artistName": "SOFIA",
-      "genres": [
-        "Médecine",
-        "Éducation"
-      ],
-      "primaryGenreName": "Medical",
-      "primaryGenreId": 6020,
-      "sellerName": "Societe Francaise des infirmiers anesthesistes",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-09-18T18:18:39Z",
-      "releaseNotes": "Pharmacie : ajout dexmédétomidine, eskétamine, rémimazolam ;\nPédiatrie : ajout fiche laryngospasme ;\nFonction cardiaque : ajout ECG syndrome de Wolff-Parkinson-White, STEMI (onde de Pardee) et NSTEMI ;\nUrgences : révision fiche hyperthermie maligne ;\nCorrection de l'ensemble des liens vers le nouveau site SOFIA.",
-      "version": "4.3",
-      "wrapperType": "software",
-      "currency": "EUR",
-      "description": "Le Guide IADE rassemble, en une seule application, de nombreuses fiches issues du site officiel de la société française des infirmier(e)s anesthésistes (SOFIA).\n\nCe guide est un véritable atout dans la pratique de tous les jours de l'infirmier (IDE) et de l'infirmier anesthésiste (IADE).\n\nThèmes disponibles :\nphysiologie, pharmacologie, pédiatrie, obstétrique, terrains patient, chirurgies, types d'anesthésie, modes ventilatoires, scores, etc.\n\nAides cognitives (algorithmes d'urgences) :\narrêt cardio-respiratoire, états de choc, intoxication aux anesthésiques locaux, intubation difficile, etc.\n\nOutils de calcul :\nfonction rénale, interprétation des gaz du sang, calcul de posologies, IMC, pertes sanguines, etc.",
-      "averageUserRatingForCurrentVersion": 4.26316,
-      "bundleId": "com.achprod.leguideiade",
       "minimumOsVersion": "15.6",
-      "averageUserRating": 4.26316,
-      "trackCensoredName": "Le Guide IADE",
+      "averageUserRatingForCurrentVersion": 4.26316,
       "languageCodesISO2A": [
         "EN"
       ],
       "fileSizeBytes": "25889792",
       "formattedPrice": "9,99 €",
-      "contentAdvisoryRating": "17+",
       "userRatingCountForCurrentVersion": 19,
-      "trackViewUrl": "https://apps.apple.com/fr/app/le-guide-iade/id1591256657?uo=4",
       "trackContentRating": "17+",
+      "currentVersionReleaseDate": "2026-09-18T18:18:39Z",
+      "bundleId": "com.achprod.leguideiade",
+      "genres": [
+        "Médecine",
+        "Éducation"
+      ],
+      "artistId": 1683183397,
+      "artistName": "SOFIA",
+      "price": 9.99,
+      "trackId": 1591256657,
+      "trackName": "Le Guide IADE",
+      "releaseDate": "2021-10-22T07:00:00Z",
+      "sellerName": "Societe Francaise des infirmiers anesthesistes",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "primaryGenreName": "Medical",
+      "primaryGenreId": 6020,
       "genreIds": [
         "6020",
         "6017"
       ],
-      "trackId": 1591256657,
-      "trackName": "Le Guide IADE",
-      "releaseDate": "2021-10-22T07:00:00Z",
+      "releaseNotes": "Pharmacie : ajout dexmédétomidine, eskétamine, rémimazolam ;\nPédiatrie : ajout fiche laryngospasme ;\nFonction cardiaque : ajout ECG syndrome de Wolff-Parkinson-White, STEMI (onde de Pardee) et NSTEMI ;\nUrgences : révision fiche hyperthermie maligne ;\nCorrection de l'ensemble des liens vers le nouveau site SOFIA.",
+      "version": "4.3",
+      "wrapperType": "software",
+      "currency": "EUR",
+      "description": "Le Guide IADE rassemble, en une seule application, de nombreuses fiches issues du site officiel de la société française des infirmier(e)s anesthésistes (SOFIA).\n\nCe guide est un véritable atout dans la pratique de tous les jours de l'infirmier (IDE) et de l'infirmier anesthésiste (IADE).\n\nThèmes disponibles :\nphysiologie, pharmacologie, pédiatrie, obstétrique, terrains patient, chirurgies, types d'anesthésie, modes ventilatoires, scores, etc.\n\nAides cognitives (algorithmes d'urgences) :\narrêt cardio-respiratoire, états de choc, intoxication aux anesthésiques locaux, intubation difficile, etc.\n\nOutils de calcul :\nfonction rénale, interprétation des gaz du sang, calcul de posologies, IMC, pertes sanguines, etc.",
+      "trackCensoredName": "Le Guide IADE",
+      "trackViewUrl": "https://apps.apple.com/fr/app/le-guide-iade/id1591256657?uo=4",
+      "contentAdvisoryRating": "17+",
+      "averageUserRating": 4.26316,
       "userRatingCount": 19,
       "country": "FRA"
     }

@@ -133,7 +133,10 @@
         "iPadAir11M4-iPadAir11M4",
         "iPadAir11M4Cellular-iPadAir11M4Cellular",
         "iPadAir13M4-iPadAir13M4",
-        "iPadAir13M4Cellular-iPadAir13M4Cellular"
+        "iPadAir13M4Cellular-iPadAir13M4Cellular",
+        "iPhone18Pro-iPhone18Pro",
+        "iPhone18ProMax-iPhone18ProMax",
+        "iPhoneDuo-iPhoneDuo"
       ],
       "advisories": [],
       "kind": "software",
@@ -162,33 +165,34 @@
       "features": [
         "iosUniversal"
       ],
-      "contentAdvisoryRating": "4+",
       "averageUserRating": 2.77778,
+      "trackCensoredName": "My Sprint",
+      "trackViewUrl": "https://apps.apple.com/fr/app/my-sprint/id997989448?uo=4",
+      "contentAdvisoryRating": "4+",
+      "artistId": 997989447,
+      "artistName": "Pedro Jimenez Reyes",
       "genres": [
         "Sports"
       ],
-      "artistId": 997989447,
-      "artistName": "Pedro Jimenez Reyes",
       "price": 9.99,
       "releaseNotes": "-Bug fixes, including:\n\n•⁠  ⁠Correct retrieval of videos stored in iCloud.\n\n•⁠  ⁠Accurate assignment of frames-per-second (FPS) to imported videos.\n\n•⁠  ⁠Additional minor performance and stability improvements.\n\n-Updated compatibility with the latest iPhone and iPad devices and optimized support for the newest iOS versions.\n\n-New Kinogram feature: Automatically detects athlete silhouette using Artificial Intelligence (AI).\n\nThank you for using MySprint! \n\nWe continue working hard to offer you the best user experience.",
-      "releaseDate": "2015-11-27T09:52:27Z",
+      "trackId": 997989448,
+      "trackName": "My Sprint",
       "genreIds": [
         "6004"
       ],
-      "trackId": 997989448,
-      "trackName": "My Sprint",
-      "sellerName": "Pedro Jimenez Reyes",
+      "isVppDeviceBasedLicensingEnabled": true,
       "primaryGenreName": "Sports",
       "primaryGenreId": 6004,
-      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "Pedro Jimenez Reyes",
+      "releaseDate": "2015-11-27T09:52:27Z",
       "currentVersionReleaseDate": "2025-03-25T21:37:00Z",
       "version": "2.5",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Designed by sports scientists and coaches. Scientifically validated (publication in review in a high-impact journal). \nThe only app that accurately calculates the complete power-force-velocity profile using the groundbreaking Samozino et al.´s method (published in 2015). \n\nMy Sprint is the first app scientifically developed to measure the individual sprint mechanical outputs (force, velocity, power, effectiveness) of athletes. Innovative design, validated by sports scientists, My Sprint is as reliable as a 4000$ radar plus PC system. Scientifically approved!\n\nSprint running, power output and forward acceleration are a key combination of performance in many sports activities. Determining individual Force–Velocity profile, maximal power and mechanical effectiveness during sprint propulsion is of great interest for coaches, sport practitioners, or physiotherapists. What makes you fast?\n\nTheir opinion about My Sprint:\n\n- Dr. Samozino: “One of our main interests is to make accessible to sport practitioners the scientific evaluations we do in our labs with very specific devices. The simple method on which My Sprint is based was developed in this sense to test the sprint mechanical capabilities in field condition. The results of the validation of the method in comparison to force plate measurements were better than those we expected! And the validity of the data obtained with My Sprint is in the same extent… but with an impressive simplicity!”  \n\n- Pr. Morin: “When we developed our 2015 simple method, we found it was a great achievement to measure sprint acceleration mechanics with a very high concurrent validity compared to the gold standard force plate measurements. My Sprint takes things to another level, since it allows accurate measurements with just an iPhone!”\n\nMy Sprint calculates Power-Force-Velocity profile and measures the individual sprint mechanical outputs (force, velocity, power, effectiveness) of athletes using the camera on your iPhone, iPod touch or iPad. It was specially designed to take advantage of the extraordinary 120-240fps camera of the iPhone 5s, iPhone 6 and iPhone 6s. You just need to perform an all-out 40 m sprint and mark the track with a reference system marks located at 5, 10, 15, 20, 30 and 40 meters and you only need six visible vertical markers (like thin poles) at these markers to record the time between markers. After that My Sprint does the computations and calculates athlete´s mechanical capabilities.  \n\nFEATURES: \n\n- Accurate measurement of the split times over a sprint acceleration. Scientifically validated!\n- Calculation the Power-Force-Velocity profile using the innovative Samozino et al.´s method. You can therefore know the athlete’s mechanical capabilities that determine the entire sprint acceleration performance. These properties are integrative and encompass all the mechanisms involved in the total external force produced during each lower limb extension and the ability to orient it effectively onto the ground. \n- Record amazing slow motion videos up to 240fps (iPhone 5s, iPhone 6 and iPhone 6s) and analyse in a frame-by-frame mode as well as import videos from your camera roll. \n- Multi-user. You can create as many users as your need with My Sprint. You can assign each user to a team for a higher ease of use. \n- Performance follow-up. You can record as many sprints as you want for each user created and analyze performance through a competitive season. \n\nNote: My Sprint was scientifically validated using an iPhone 6, and it uses the slow motion video recording on the iPhone 5s, iPhone 6 and iPhone 6s. On other devices, the measurements are less accurate slow motion video recording feature is not available. \n\nA SPRINT ACCELERATION MECHANICS LAB IN YOUR POCKET!",
       "averageUserRatingForCurrentVersion": 2.77778,
-      "trackCensoredName": "My Sprint",
-      "trackViewUrl": "https://apps.apple.com/fr/app/my-sprint/id997989448?uo=4",
+      "sellerUrl": "http://www.mysprint-app.com",
       "languageCodesISO2A": [
         "ES"
       ],
@@ -196,9 +200,8 @@
       "formattedPrice": "9,99 €",
       "userRatingCountForCurrentVersion": 18,
       "trackContentRating": "4+",
-      "sellerUrl": "http://www.mysprint-app.com",
-      "bundleId": "com.mysprint.videoplayer",
       "minimumOsVersion": "14.0",
+      "bundleId": "com.mysprint.videoplayer",
       "userRatingCount": 18,
       "country": "FRA"
     }

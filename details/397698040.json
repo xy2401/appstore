@@ -177,6 +177,7 @@
       "userRatingCount": 4861
     },
     {
+      "advisories": [],
       "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d0/49/70/d04970a6-2d27-918a-1b5f-98839c0792a7/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2025-09-24_at_16.55.10.png/320x480bb.jpg",
@@ -206,9 +207,6 @@
       "artistViewUrl": "https://apps.apple.com/us/developer/clay-pot-software-llc/id342038657?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/15/0b/ad150b35-9029-1269-4fcd-274e7c848bfe/AppIconSantasBag-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/15/0b/ad150b35-9029-1269-4fcd-274e7c848bfe/AppIconSantasBag-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -341,28 +339,35 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
       "kind": "software",
+      "features": [
+        "iosUniversal"
+      ],
+      "minimumOsVersion": "18.6",
+      "currentVersionReleaseDate": "2026-02-26T01:35:57Z",
+      "averageUserRatingForCurrentVersion": 4.8823,
+      "sellerUrl": "https://claypotsoftware.com/santas-bag-for-ios/",
       "trackCensoredName": "Santa's Bag",
       "trackViewUrl": "https://apps.apple.com/us/app/santas-bag/id397698040?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.8823,
       "languageCodesISO2A": [
         "EN"
       ],
       "fileSizeBytes": "29331456",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 5929,
+      "userRatingCountForCurrentVersion": 5956,
       "trackContentRating": "4+",
-      "sellerUrl": "https://claypotsoftware.com/santas-bag-for-ios/",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.88194,
-      "minimumOsVersion": "18.6",
-      "averageUserRatingForCurrentVersion": 4.88194,
       "genres": [
         "Shopping",
         "Productivity"
       ],
       "price": 0,
-      "bundleId": "com.claypotsoftware.santasbag",
+      "artistId": 342038657,
+      "artistName": "Clay Pot Software LLC",
+      "releaseDate": "2010-10-31T00:25:34Z",
+      "trackId": 397698040,
+      "trackName": "Santa's Bag",
       "genreIds": [
         "6024",
         "6007"
@@ -371,18 +376,13 @@
       "primaryGenreId": 6024,
       "sellerName": "Clay Pot Software LLC",
       "isVppDeviceBasedLicensingEnabled": true,
-      "trackId": 397698040,
-      "trackName": "Santa's Bag",
-      "currentVersionReleaseDate": "2026-02-26T01:35:57Z",
-      "releaseNotes": ".Bug fixes and improvements",
       "version": "2.6.2",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Santa’s Bag has been recommended by The New York Times, US News & World Report, Consumer Reports, USA Today, Forbes Magazine, Fox News, Parents Magazine, Real Simple Magazine, PC Magazine, NBC News, Buzzfeed.com, and The Huffington Post, among others.\n\nRevolutionize your Christmas shopping experience! Santa's Bag is a fun and easy-to-use app to help you manage your Christmas gift recipients, planning, shopping, and budgets. Each detail of the app is carefully designed to make sure you don't forget anyone or anything. Christmas shopping has never been easier or more fun!\n\n* Add Gifts, Ideas, Links, Preferences, and Notes for each Recipient\n* Add Links, Photo, and Notes for each Gift\n* Save Links through our App Extension or by Drag & Drop into the app\n* Email, print or save customizable, checkable lists: Planning Lists, Shopping Lists, and more\n* Split/Multiple/Unassigned Gifts\n* Recipient/Occasion Budgets and Progress Bars\n* Screenlock Passcode\n* Highly Customizable Views/Sorts/Filters\n* Christmas Countdown Timer\n* Database Backup and Restore",
-      "releaseDate": "2010-10-31T00:25:34Z",
-      "artistId": 342038657,
-      "artistName": "Clay Pot Software LLC",
-      "userRatingCount": 5929,
+      "releaseNotes": ".Bug fixes and improvements",
+      "bundleId": "com.claypotsoftware.santasbag",
+      "userRatingCount": 5956,
       "country": "USA"
     }
   ]

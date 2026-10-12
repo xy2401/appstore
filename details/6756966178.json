@@ -193,6 +193,9 @@
     },
     {
       "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -327,12 +330,6 @@
       ],
       "advisories": [],
       "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/us/developer/hexa-software/id1702698881?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/53/89/c853899e-f776-4301-43ea-fd405161bf2b/V2boxPro-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/53/89/c853899e-f776-4301-43ea-fd405161bf2b/V2boxPro-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a3/05/a0/a305a052-9668-16d7-7e0f-2b4b45827328/1.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/12/9c/5d/129c5dda-bc35-ee14-c82c-2b5fc0d43477/3.png/320x480bb.jpg",
@@ -341,6 +338,9 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/08/9d/f9/089df95e-0299-1b53-ce52-11c099f97d33/6.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b4/3f/7b/b43f7b60-9487-34ab-6a02-8fe959abd517/5.png/320x480bb.jpg"
       ],
+      "artistViewUrl": "https://apps.apple.com/us/developer/hexa-software/id1702698881?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/a4/65/7aa465f1-790a-38e6-fc2f-5a9f86940868/V2boxPro-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/a4/65/7aa465f1-790a-38e6-fc2f-5a9f86940868/V2boxPro-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9c/94/3b/9c943b3b-d08a-0a18-a458-01a3507124a9/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2025-12-24_at_17.09.56.png/360x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/20/12/5f/20125f21-e5af-484e-43c0-ad70d552907a/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2025-12-24_at_17.09.28.png/360x480bb.jpg",
@@ -348,35 +348,36 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c2/a9/00/c2a900dc-6e65-bb4e-28c4-c7d6f6550fbf/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2025-12-24_at_17.10.18.png/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/53/89/c853899e-f776-4301-43ea-fd405161bf2b/V2boxPro-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/a4/65/7aa465f1-790a-38e6-fc2f-5a9f86940868/V2boxPro-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "currentVersionReleaseDate": "2026-10-06T18:43:47Z",
       "artistId": 1702698881,
       "artistName": "Hexa Software",
       "genres": [
         "Utilities"
       ],
-      "price": 2.99,
       "trackId": 6756966178,
       "trackName": "V2Box Pro - V2ray Client",
+      "bundleId": "dev.hexasoftware.V2Box",
       "releaseDate": "2026-05-16T07:00:00Z",
-      "sellerName": "HEXA SOFTWARE YAZILIM LIMITED SIRKETI",
-      "currentVersionReleaseDate": "2026-09-15T02:32:31Z",
-      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseNotes": "Version 10.1.9\n\n• Implement Kill Switch support.\n• Implement Fake DNS support.\n• Subscription providers can now lock subscriptions, set how often they auto-update, and add Support and Website links to the subscription menu.\n• Fixed several issues with LAN proxy sharing, including connections being refused over Personal Hotspot, settings not applying until reconnect, and traffic dropping when more than one device was connected.\n• Fixed WireGuard configurations with a domain name endpoint failing to connect.\n• Port 53 routing rules now match the values shown on the DNS screen.\n• Fixed a crash when the app was backgrounded while backing up its data.\n• Fragment masks now keep their lengths and delays instead of dropping them on import.\n• Fixed ping failing on JSON configs while the tunnel interface is running.\n• Freedom outbounds keep their domain strategy, and configs using a routing balancer strategy now load.\n• Added support for Xray's simplified outbound format, so those configs import with their server and port.\n• Hysteria2 configurations are no longer affected by the SNI spoof redirect.\n• Configs carrying unexpected values in outbound settings now load instead of failing outright.\n• Share links keep values containing \"=\", such as certificate pins and ECH keys.\n• vmess share links now carry the certificate name and pin options.\n• WireGuard configurations support FinalMask from share links, and the editor.\n• Added a FinalMask field to Hysteria2 configurations.\n• A custom Hysteria2 FinalMask now keeps obfuscation, bandwidth, and port hopping settings.\n• Subscriptions containing v2rayn:// links now import.",
       "genreIds": [
         "6002"
       ],
       "primaryGenreName": "Utilities",
       "primaryGenreId": 6002,
-      "releaseNotes": "What's New in 10.1.8\n\n• Xray-Core 26.7.28\n• Added MasterDNS tunnel support, a new way to connect\n• Clearer SNI spoofing setup with input hints and guidance\n• Faster app launch\n• Subscriptions now auto-update their names while keeping any custom label you've set\n• Fixed importing VLESS/VMESS links that have no extra parameters\n• Fixed \"Stop on Sleep\" sometimes not taking effect until reconnect\n• Fixed routing rules not refreshing after switching your geo data source\n• General stability and reliability improvements",
-      "version": "10.1.8",
+      "sellerName": "HEXA SOFTWARE YAZILIM LIMITED SIRKETI",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "version": "10.1.9",
       "wrapperType": "software",
       "currency": "USD",
       "description": "V2box Pro - VPN Internet network proxy , Supports multiple proxy protocols, such as Shadowsocks, V2ray, Vmess, Trojan , SSH , Socks, hysteria2, Ping Tunnel, Wireguard, DNSTT\n\n\n\nFeatures:\n\n- Support for adding custom servers proxy (Shadowsocks, v2ray, trojan, vless, vmess, SSH, hysteria2, Ping Tunnel, Wireguard)\n- Support Reality (xray)\n- Support vless vision\n- Support utls\n- Support SSH with UDP Gateway (udpgw)\n\n- Network Combiner, Improve speed and stability (Merge WiFi & Cellular)\n- Stop on Sleep (Improve Battery usage)\n- Share on Local SOCKS5 / HTTP (accessible over network)\n- Custom DNS setup (DOU,DOH,DOT)\n- Custom Flexible Routing\n\n\n\n- Multiple encryption protocol support, AES-128-GCM, AES-192-GCM, AES-256-GCM, Chacha20-IETF, Chacha20 - ietf - poly1305, xchacha20 ietf -- poly1305\n\n- Stealth and stable, no need to log in and register, easy to use\n\n- Does not save any user log information\n\n- Wi-Fi Security when using Public Hotspots\n\n- Protect your network IP and privacy security\n\n- Unmatched network speed and performance\n\n\n\n\nTerms of Services: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\n\n\nPrivacy Policy: https://hexasoftware.dev/v2box-terms/",
-      "averageUserRating": 3.67606,
+      "minimumOsVersion": "15.0",
+      "averageUserRatingForCurrentVersion": 3.79487,
       "trackCensoredName": "V2Box Pro - V2ray Client",
       "trackViewUrl": "https://apps.apple.com/us/app/v2box-pro-v2ray-client/id6756966178?uo=4",
       "contentAdvisoryRating": "4+",
-      "bundleId": "dev.hexasoftware.V2Box",
-      "minimumOsVersion": "15.0",
+      "averageUserRating": 3.79487,
+      "sellerUrl": "https://hexasoftware.dev/",
       "languageCodesISO2A": [
         "AR",
         "EN",
@@ -388,13 +389,12 @@
         "UK",
         "VI"
       ],
-      "fileSizeBytes": "162427904",
+      "fileSizeBytes": "163132416",
       "formattedPrice": "$2.99",
-      "userRatingCountForCurrentVersion": 71,
+      "userRatingCountForCurrentVersion": 78,
       "trackContentRating": "4+",
-      "sellerUrl": "https://hexasoftware.dev/",
-      "averageUserRatingForCurrentVersion": 3.67606,
-      "userRatingCount": 71,
+      "price": 2.99,
+      "userRatingCount": 78,
       "country": "USA"
     }
   ]

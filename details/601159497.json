@@ -196,6 +196,10 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/5e/5f/f45e5f2f-af3f-378d-9b8d-d18dddaff3c8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -328,41 +332,29 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [],
       "kind": "software",
       "artistViewUrl": "https://apps.apple.com/us/developer/e-courier-inc/id601159500?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/5e/5f/f45e5f2f-af3f-378d-9b8d-d18dddaff3c8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/5e/5f/f45e5f2f-af3f-378d-9b8d-d18dddaff3c8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
-      "releaseNotes": "iOS 27 compatibility improvements and bug fixes.",
-      "averageUserRatingForCurrentVersion": 2.06087,
+      "minimumOsVersion": "15.0",
       "languageCodesISO2A": [],
       "fileSizeBytes": "62965760",
       "formattedPrice": "$9.99",
       "userRatingCountForCurrentVersion": 230,
       "trackContentRating": "4+",
+      "averageUserRatingForCurrentVersion": 2.06087,
+      "price": 9.99,
       "artistId": 601159500,
       "artistName": "e-Courier, Inc.",
-      "genres": [
-        "Business",
-        "Productivity"
-      ],
-      "price": 9.99,
-      "trackId": 601159497,
-      "trackName": "ecMobile",
-      "bundleId": "com.ecourier.mobile.ecMobile",
-      "releaseDate": "2013-02-16T00:22:27Z",
       "genreIds": [
         "6000",
         "6007"
       ],
       "primaryGenreName": "Business",
       "primaryGenreId": 6000,
-      "sellerName": "e-Courier, Inc.",
-      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-09-20T17:43:21Z",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseNotes": "iOS 27 compatibility improvements and bug fixes.",
       "version": "2609182200",
       "wrapperType": "software",
       "currency": "USD",
@@ -371,7 +363,15 @@
       "trackCensoredName": "ecMobile",
       "trackViewUrl": "https://apps.apple.com/us/app/ecmobile/id601159497?uo=4",
       "contentAdvisoryRating": "4+",
-      "minimumOsVersion": "15.0",
+      "bundleId": "com.ecourier.mobile.ecMobile",
+      "releaseDate": "2013-02-16T00:22:27Z",
+      "trackId": 601159497,
+      "trackName": "ecMobile",
+      "sellerName": "e-Courier, Inc.",
+      "genres": [
+        "Business",
+        "Productivity"
+      ],
       "userRatingCount": 230,
       "country": "USA"
     }

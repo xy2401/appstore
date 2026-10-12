@@ -194,6 +194,10 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/91/2a/d2912a7e-1a67-ff4c-f694-3e94b693c302/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -326,16 +330,11 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [],
       "kind": "software",
       "artistViewUrl": "https://apps.apple.com/us/developer/david-blundell/id320145702?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/91/2a/d2912a7e-1a67-ff4c-f694-3e94b693c302/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/91/2a/d2912a7e-1a67-ff4c-f694-3e94b693c302/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
-      "releaseNotes": "Fixed a crash occurring when no HomeKit cameras were detected.\n\nIMPORTANT NOTE: While this app is intended for use with cameras that support HomeKit, it is not affiliated with any specific hardware brand. Please ensure your camera(s) support HomeKit before purchasing this app.",
-      "averageUserRatingForCurrentVersion": 1.75,
+      "minimumOsVersion": "14.0",
       "languageCodesISO2A": [
         "EN"
       ],
@@ -343,24 +342,18 @@
       "formattedPrice": "$2.99",
       "userRatingCountForCurrentVersion": 4,
       "trackContentRating": "4+",
+      "averageUserRatingForCurrentVersion": 1.75,
+      "price": 2.99,
       "artistId": 320145702,
       "artistName": "David Blundell",
-      "genres": [
-        "Utilities"
-      ],
-      "price": 2.99,
-      "trackId": 1332920605,
-      "trackName": "Guardhouse",
-      "bundleId": "com.davidblundell.guardhouse",
-      "releaseDate": "2024-04-20T07:00:00Z",
       "genreIds": [
         "6002"
       ],
       "primaryGenreName": "Utilities",
       "primaryGenreId": 6002,
-      "sellerName": "David Blundell",
-      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-02-15T18:22:47Z",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseNotes": "Fixed a crash occurring when no HomeKit cameras were detected.\n\nIMPORTANT NOTE: While this app is intended for use with cameras that support HomeKit, it is not affiliated with any specific hardware brand. Please ensure your camera(s) support HomeKit before purchasing this app.",
       "version": "1.0.1",
       "wrapperType": "software",
       "currency": "USD",
@@ -369,7 +362,14 @@
       "trackCensoredName": "Guardhouse",
       "trackViewUrl": "https://apps.apple.com/us/app/guardhouse/id1332920605?uo=4",
       "contentAdvisoryRating": "4+",
-      "minimumOsVersion": "14.0",
+      "bundleId": "com.davidblundell.guardhouse",
+      "releaseDate": "2024-04-20T07:00:00Z",
+      "trackId": 1332920605,
+      "trackName": "Guardhouse",
+      "sellerName": "David Blundell",
+      "genres": [
+        "Utilities"
+      ],
       "userRatingCount": 4,
       "country": "USA"
     }

@@ -188,6 +188,9 @@
     },
     {
       "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -324,12 +327,6 @@
         "Frequent/Intense Alcohol, Tobacco, or Drug Use or References"
       ],
       "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/us/developer/lemel-software-llc/id1799612083?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e2/1e/40/e21e40c7-7905-1e0d-a350-141a38f58260/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e2/1e/40/e21e40c7-7905-1e0d-a350-141a38f58260/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/36/cc/67/36cc6766-1145-ac0c-3e50-3c4bd8a0e0b1/iPhone.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7d/fc/1c/7dfc1cef-43e7-d334-cd6f-474c6f084ba4/Recipe_3.png/320x480bb.jpg",
@@ -342,6 +339,9 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/68/00/f6/6800f65f-6117-e30b-c27a-4f62a34b9ada/Collections_2.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7b/08/c7/7b08c778-6e82-2d77-4988-a0f1a77c8ce5/Recipe_2.png/320x480bb.jpg"
       ],
+      "artistViewUrl": "https://apps.apple.com/us/developer/lemel-software-llc/id1799612083?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/1a/a2/a91aa249-c96c-974f-7db4-089b3fed7a4a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/1a/a2/a91aa249-c96c-974f-7db4-089b3fed7a4a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3a/54/e8/3a54e8da-8659-3523-57fe-110707b973fa/iPad_Recipe_2.png/360x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/98/c1/5b/98c15b8f-eff9-6cee-f366-f2b21d6a8c84/iPad_Recipe_1.png/360x480bb.jpg",
@@ -351,37 +351,37 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d8/b1/cf/d8b1cf5e-fdf0-ca63-7c74-72a4d395424f/iPad_Collections.png/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e2/1e/40/e21e40c7-7905-1e0d-a350-141a38f58260/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/1a/a2/a91aa249-c96c-974f-7db4-089b3fed7a4a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "currentVersionReleaseDate": "2026-10-05T18:36:01Z",
       "artistId": 1799612083,
       "artistName": "Lemel Software, LLC",
       "genres": [
         "Food & Drink",
         "Lifestyle"
       ],
-      "price": 4.99,
       "trackId": 6744274650,
       "trackName": "Bevnap: Cocktail Recipes",
+      "bundleId": "dev.lemelsoftware.TheBarApp",
       "releaseDate": "2026-02-19T08:00:00Z",
-      "sellerName": "Lemel Software, LLC",
-      "currentVersionReleaseDate": "2026-10-01T15:49:41Z",
-      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseNotes": "- Improvements to calculations for Batch and Slushy calculators\n- Corrected Drop and Dash measurement values \n- Bug fixes and other improvements",
       "genreIds": [
         "6023",
         "6012"
       ],
       "primaryGenreName": "Food & Drink",
       "primaryGenreId": 6023,
-      "releaseNotes": "Collections\n- Share a whole collection as one PDF, or as separate PDFs — one file per drink — ideal for seasonal menus. Plain text, CSV, and Print are there too.\n- Touch and hold a collection for quick actions: Edit, Share with Bevnap Friends, share and print options, and Delete.\n- Touch and hold a recipe inside a collection to edit, share, print, duplicate, batch, or remove it from the collection.\n- Opening a recipe from a collection now keeps the full share menu.\n- Removing or deleting always asks first.\n\nBatch Calculator\n- More precise math throughout, matching Jeffrey's batchcalc.com.\n- Results and saved batch recipes show two decimals for both oz and ml.\n- Cleaner recipe names and a clearer size line on batch PDFs.\n- Fixed older batch recipes showing the ml figure twice.\n\nSlushy Calculator\n- Saved slushy recipes now use whole milliliters, so quantities fit and read cleanly in the editor.",
-      "version": "4.5.0",
+      "sellerName": "Lemel Software, LLC",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "version": "4.5.1",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Your personal cocktail companion. Discover, create, and perfect your favorite drinks with Bevnap - the complete recipe management app for home bartenders and cocktail enthusiasts.\n\nDISCOVER RECIPES\nBrowse beautifully designed cocktail recipes with detailed ingredients, step-by-step directions, and stunning photos. Find the perfect drink by searching by name, ingredient, spirit, or category. Whether you're looking for a classic Old Fashioned or exploring modern craft cocktails, every recipe is at your fingertips.\n\nINGREDIENT LOOKUP\nWondering what to make with that bottle of Campari? Tap any ingredient to instantly see every cocktail in your library that uses it. A simple way to discover new drinks and get the most out of what you have.\n\nCREATE YOUR OWN\nBuild and save your own signature cocktails. Add custom ingredients, write detailed directions, and capture beautiful photos of your creations. Organize recipes into personal collections for easy access.\n\nPROFESSIONAL CALCULATORS\n - Batch Calculator - Scale any recipe for parties and events\n - Syrup Calculator - Make professional-quality syrups at home\n - Slushy Calculator - Perfect frozen drinks every time\n - Carbonation Calculator - Calculate CO₂ pressure for sparkling cocktails, sodas, and draft dispense — built with Crossroads Consulting and Jeffrey Morgenthaler\n - What Can I Make? - Discover cocktails you can make with what you have\n - Recipe Costing - Calculate pour costs and set profitable menu prices\n-  ABV Calculator - Track alcohol content and dilution\n\nRECIPE COLLECTIONS\nDownload curated recipe packs from Jeffrey Morgenthaler. Explore themed collections like Jeffrey Morgenthaler's Signature Cocktails, Modern Classics, Bourbon/Rye Cocktails and more. New collections added regularly.\n\nSHARE WITH FRIENDS\nConnect with friends to share recipes and collections directly in the app. Export beautiful recipe cards as PDFs. Create shareable menus for your home bar or next party.\n\nSYNC EVERYWHERE\nYour recipes, ingredients, and collections sync automatically via iCloud. Start on your iPhone, continue on your iPad. Everything stays perfectly in sync.\n\nCUSTOMIZE YOUR EXPERIENCE\n - Multiple beautiful themes (Ocean, Sunset, Light, Dark)\n - Flexible measurement units (oz, ml, cl, and more)\n - Bartender-standard unit conversions\n - Keep screen on while mixing\n - Full search across all your content\n\nWhether you're a professional bartender, managing a bar/restaurant, hosting a cocktail party, learning mixology fundamentals, or perfecting your craft, Bevnap gives you everything you need to mix with confidence.\n\nDownload now and discover your next favorite cocktail.",
-      "averageUserRating": 4.71429,
+      "minimumOsVersion": "18.0",
+      "averageUserRatingForCurrentVersion": 4.71429,
       "trackCensoredName": "Bevnap: Cocktail Recipes",
       "trackViewUrl": "https://apps.apple.com/us/app/bevnap-cocktail-recipes/id6744274650?uo=4",
       "contentAdvisoryRating": "17+",
-      "bundleId": "dev.lemelsoftware.TheBarApp",
-      "minimumOsVersion": "18.0",
+      "averageUserRating": 4.71429,
       "languageCodesISO2A": [
         "EN"
       ],
@@ -389,7 +389,7 @@
       "formattedPrice": "$4.99",
       "userRatingCountForCurrentVersion": 35,
       "trackContentRating": "17+",
-      "averageUserRatingForCurrentVersion": 4.71429,
+      "price": 4.99,
       "userRatingCount": 35,
       "country": "USA"
     }

@@ -236,6 +236,13 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple1/v4/35/28/c3/3528c30c-e559-8f95-1c6d-8d89ae2dcba8/mzl.cebfhlnn.png/512x512bb.jpg",
+      "features": [
+        "gameCenter",
+        "iosUniversal"
+      ],
+      "advisories": [
+        "Infrequent/Mild Cartoon or Fantasy Violence"
+      ],
       "supportedDevices": [
         "iPhone3GS-iPhone-3GS",
         "iPadWifi-iPadWifi",
@@ -386,19 +393,11 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "features": [
-        "gameCenter",
-        "iosUniversal"
-      ],
-      "advisories": [
-        "Infrequent/Mild Cartoon or Fantasy Violence"
-      ],
       "kind": "software",
       "artistViewUrl": "https://apps.apple.com/us/developer/bolt-creative/id295456048?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple1/v4/35/28/c3/3528c30c-e559-8f95-1c6d-8d89ae2dcba8/mzl.cebfhlnn.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple1/v4/35/28/c3/3528c30c-e559-8f95-1c6d-8d89ae2dcba8/mzl.cebfhlnn.png/100x100bb.jpg",
-      "releaseNotes": "64 bit compatibility",
-      "averageUserRatingForCurrentVersion": 4.29699,
+      "minimumOsVersion": "5.1.1",
       "sellerUrl": "http://www.boltcreative.com",
       "languageCodesISO2A": [
         "EN"
@@ -407,26 +406,19 @@
       "formattedPrice": "$0.99",
       "userRatingCountForCurrentVersion": 2761,
       "trackContentRating": "9+",
+      "averageUserRatingForCurrentVersion": 4.29699,
+      "price": 0.99,
       "artistId": 295456048,
       "artistName": "Bolt Creative",
-      "genres": [
-        "Entertainment",
-        "Games"
-      ],
-      "price": 0.99,
-      "trackId": 301387274,
-      "trackName": "Pocket God",
-      "bundleId": "com.boltcreative.pocketgod",
-      "releaseDate": "2009-01-09T21:49:21Z",
       "genreIds": [
         "6016",
         "6014"
       ],
       "primaryGenreName": "Entertainment",
       "primaryGenreId": 6016,
-      "sellerName": "Bolt Creative",
-      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2015-08-20T02:05:15Z",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseNotes": "64 bit compatibility",
       "version": "1.48.2",
       "wrapperType": "software",
       "currency": "USD",
@@ -435,7 +427,15 @@
       "trackCensoredName": "Pocket God",
       "trackViewUrl": "https://apps.apple.com/us/app/pocket-god/id301387274?uo=4",
       "contentAdvisoryRating": "9+",
-      "minimumOsVersion": "5.1.1",
+      "bundleId": "com.boltcreative.pocketgod",
+      "releaseDate": "2009-01-09T21:49:21Z",
+      "trackId": 301387274,
+      "trackName": "Pocket God",
+      "sellerName": "Bolt Creative",
+      "genres": [
+        "Entertainment",
+        "Games"
+      ],
       "userRatingCount": 2761,
       "country": "USA"
     },

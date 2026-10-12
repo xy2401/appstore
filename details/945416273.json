@@ -255,9 +255,6 @@
       "advisories": [
         "Unrestricted Web Access"
       ],
-      "features": [
-        "iosUniversal"
-      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -391,13 +388,18 @@
         "iPhoneDuo-iPhoneDuo"
       ],
       "kind": "software",
-      "averageUserRating": 4.60496,
-      "contentAdvisoryRating": "17+",
+      "features": [
+        "iosUniversal"
+      ],
       "trackCensoredName": "MSN",
       "trackViewUrl": "https://apps.apple.com/us/app/msn/id945416273?uo=4",
-      "averageUserRatingForCurrentVersion": 4.60496,
-      "releaseNotes": "Microsoft Start is now MSN, same great experience and personalized content feed.",
-      "sellerUrl": "https://microsoft.com/msn/mobile",
+      "contentAdvisoryRating": "17+",
+      "averageUserRating": 4.60508,
+      "minimumOsVersion": "18.0",
+      "fileSizeBytes": "275234816",
+      "formattedPrice": "Free",
+      "userRatingCountForCurrentVersion": 124163,
+      "trackContentRating": "17+",
       "languageCodesISO2A": [
         "AR",
         "BN",
@@ -441,34 +443,32 @@
         "UK",
         "VI"
       ],
-      "fileSizeBytes": "275234816",
-      "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 124099,
-      "trackContentRating": "17+",
-      "genres": [
-        "News"
-      ],
-      "artistId": 298856275,
-      "artistName": "Microsoft Corporation",
+      "sellerUrl": "https://microsoft.com/msn/mobile",
+      "price": 0,
+      "bundleId": "com.microsoft.axp-ios.BingNews",
       "isVppDeviceBasedLicensingEnabled": true,
       "primaryGenreName": "News",
       "primaryGenreId": 6009,
-      "bundleId": "com.microsoft.axp-ios.BingNews",
-      "currentVersionReleaseDate": "2026-09-25T14:58:51Z",
+      "releaseNotes": "Microsoft Start is now MSN, same great experience and personalized content feed.",
       "sellerName": "Microsoft Corporation",
       "releaseDate": "2014-12-11T09:41:00Z",
       "trackId": 945416273,
       "trackName": "MSN",
+      "genreIds": [
+        "6009"
+      ],
+      "currentVersionReleaseDate": "2026-09-25T14:58:51Z",
       "version": "34.2.440925003",
       "wrapperType": "software",
       "currency": "USD",
       "description": "The MSN app keeps you informed, productive, and entertained with tailored content, real-time weather, stock tracking, short videos and more.​\n\n​Key features​\n\nYour tailored feed, with you on the go.\nQuality content from thousands of trusted publishers.​\n\nWeather report​\nGet hourly and 10-day forecasts, air quality, UV index and more.​ \n\n​Financial news​ hub​\nSee the latest on the market, trends and your favorite stocks. ​\n\nYour personalized video feed​​\nScroll short clips of the latest news, trending stories and viral moments. ​",
-      "minimumOsVersion": "18.0",
-      "genreIds": [
-        "6009"
+      "averageUserRatingForCurrentVersion": 4.60508,
+      "artistId": 298856275,
+      "artistName": "Microsoft Corporation",
+      "genres": [
+        "News"
       ],
-      "price": 0,
-      "userRatingCount": 124099,
+      "userRatingCount": 124163,
       "country": "USA"
     }
   ]
