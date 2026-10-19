@@ -180,10 +180,6 @@
       "userRatingCount": 5794
     },
     {
-      "artistViewUrl": "https://apps.apple.com/cn/developer/whatever-co/id1515215583?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/df/0e/4cdf0e23-a172-0578-97ea-6fe2e3d4d753/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/df/0e/4cdf0e23-a172-0578-97ea-6fe2e3d4d753/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
-      "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
       ],
@@ -306,6 +302,7 @@
         "iPhoneDuo-iPhoneDuo"
       ],
       "advisories": [],
+      "isGameCenterEnabled": false,
       "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/9c/2b/52/9c2b521a-f679-8cb5-2c71-8bda7a5f5f96/pr_source.png/392x696bb.png",
@@ -319,11 +316,14 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/df/0e/4cdf0e23-a172-0578-97ea-6fe2e3d4d753/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "averageUserRating": 4.41912,
-      "trackCensoredName": "RakugakiAR",
-      "trackViewUrl": "https://apps.apple.com/cn/app/rakugakiar/id1515215584?uo=4",
-      "contentAdvisoryRating": "4+",
-      "releaseNotes": "New feature added: in-app banner!\nHope you continue to enjoy RakugakiAR!",
+      "artistViewUrl": "https://apps.apple.com/cn/developer/whatever-co/id1515215583?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/df/0e/4cdf0e23-a172-0578-97ea-6fe2e3d4d753/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/df/0e/4cdf0e23-a172-0578-97ea-6fe2e3d4d753/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+      "genreIds": [
+        "6017",
+        "6016"
+      ],
+      "sellerName": "Whatever Co.",
       "artistId": 1515215583,
       "artistName": "Whatever Co.",
       "genres": [
@@ -331,18 +331,15 @@
         "娱乐"
       ],
       "price": 8,
-      "releaseDate": "2020-07-29T07:00:00Z",
-      "genreIds": [
-        "6017",
-        "6016"
-      ],
-      "trackId": 1515215584,
+      "bundleId": "co.whatever.doodle",
+      "isVppDeviceBasedLicensingEnabled": true,
       "trackName": "RakugakiAR",
+      "trackId": 1515215584,
       "primaryGenreName": "Education",
       "primaryGenreId": 6017,
-      "sellerName": "Whatever Co.",
-      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseDate": "2020-07-29T07:00:00Z",
       "currentVersionReleaseDate": "2026-06-25T06:27:28Z",
+      "releaseNotes": "New feature added: in-app banner!\nHope you continue to enjoy RakugakiAR!",
       "version": "1.2.0",
       "wrapperType": "software",
       "currency": "CNY",
@@ -353,16 +350,18 @@
       ],
       "fileSizeBytes": "116548608",
       "formattedPrice": "¥8.00",
-      "userRatingCountForCurrentVersion": 2856,
+      "userRatingCountForCurrentVersion": 2857,
       "trackContentRating": "4+",
-      "bundleId": "co.whatever.doodle",
+      "averageUserRatingForCurrentVersion": 4.41791,
+      "averageUserRating": 4.41791,
+      "contentAdvisoryRating": "4+",
       "minimumOsVersion": "15.0",
-      "averageUserRatingForCurrentVersion": 4.41912,
-      "userRatingCount": 2856,
+      "trackCensoredName": "RakugakiAR",
+      "trackViewUrl": "https://apps.apple.com/cn/app/rakugakiar/id1515215584?uo=4",
+      "userRatingCount": 2857,
       "country": "CHN"
     },
     {
-      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/6c/e8/38/6ce83840-dea8-3837-25d9-e5cba0e1985d/pr_source.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/ff/48/4c/ff484c99-865e-8262-d05d-894073bbbf33/pr_source.png/392x696bb.png",
@@ -375,6 +374,7 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/df/0e/4cdf0e23-a172-0578-97ea-6fe2e3d4d753/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
       ],
@@ -496,51 +496,51 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
       "kind": "software",
       "artistViewUrl": "https://apps.apple.com/jp/developer/whatever-co/id1515215583?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/df/0e/4cdf0e23-a172-0578-97ea-6fe2e3d4d753/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/df/0e/4cdf0e23-a172-0578-97ea-6fe2e3d4d753/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+      "advisories": [],
       "minimumOsVersion": "15.0",
-      "releaseNotes": "お久しぶりです！\nアプリ内にバナーを表示する機能を追加しました！\nまたらくがきARで遊んでね！！",
-      "averageUserRatingForCurrentVersion": 4.48386,
       "languageCodesISO2A": [
         "EN",
         "JA"
       ],
+      "averageUserRatingForCurrentVersion": 4.48413,
       "fileSizeBytes": "116548608",
       "formattedPrice": "¥150",
-      "userRatingCountForCurrentVersion": 5826,
+      "userRatingCountForCurrentVersion": 5829,
       "trackContentRating": "4+",
-      "artistId": 1515215583,
-      "artistName": "Whatever Co.",
+      "primaryGenreName": "Education",
+      "primaryGenreId": 6017,
       "genres": [
         "教育",
         "エンターテインメント"
       ],
       "price": 150,
-      "bundleId": "co.whatever.doodle",
-      "trackId": 1515215584,
+      "artistId": 1515215583,
+      "artistName": "Whatever Co.",
       "trackName": "らくがきAR",
-      "releaseDate": "2020-07-29T07:00:00Z",
+      "trackId": 1515215584,
+      "bundleId": "co.whatever.doodle",
       "currentVersionReleaseDate": "2026-06-25T06:27:28Z",
-      "genreIds": [
-        "6017",
-        "6016"
-      ],
-      "primaryGenreName": "Education",
-      "primaryGenreId": 6017,
+      "releaseDate": "2020-07-29T07:00:00Z",
+      "releaseNotes": "お久しぶりです！\nアプリ内にバナーを表示する機能を追加しました！\nまたらくがきARで遊んでね！！",
       "sellerName": "Whatever Co.",
-      "isVppDeviceBasedLicensingEnabled": true,
       "version": "1.2.0",
       "wrapperType": "software",
       "currency": "JPY",
       "description": "「らくがきAR」はみんなが思い描いていた「じぶんの描いたものに命が吹き込まれたら…」という想いを具現化させたアプリです。\nノートやホワイトボード、どこに描いたらくがきでも、このアプリでスキャンすると命が吹き込まれ、スマートフォンを通してバーチャル空間を歩きだします。\nご飯をあげたり、つっついたり、命を吹き込んだらくがきにちょっとちょっかいを出してみましょう。\n\n※個人・法人にかかわらず、直接的・間接的に金銭等の利益を得る目的や催事イベントでの本アプリのご利用はご遠慮頂いております。ご利用をご希望の方は、 hello@whatever.co までお問い合わせください。",
-      "averageUserRating": 4.48386,
       "trackCensoredName": "らくがきAR",
       "trackViewUrl": "https://apps.apple.com/jp/app/%E3%82%89%E3%81%8F%E3%81%8C%E3%81%8Dar/id1515215584?uo=4",
       "contentAdvisoryRating": "4+",
-      "userRatingCount": 5826,
+      "averageUserRating": 4.48413,
+      "genreIds": [
+        "6017",
+        "6016"
+      ],
+      "isVppDeviceBasedLicensingEnabled": true,
+      "userRatingCount": 5829,
       "country": "JPN"
     }
   ]

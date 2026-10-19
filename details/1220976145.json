@@ -218,6 +218,7 @@
       "userRatingCount": 66967
     },
     {
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/fb/88/ee/fb88eec2-8138-3641-7b25-5d3693d94b07/5c3079ff-011b-43e4-9cfd-cff315120a11_1_APP_IPHONE_55_1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/cf/04/7c/cf047c59-6326-0ad0-faff-299f0c3976e6/4cd073f2-db22-4c30-a0f3-4e52ca3f74cc_2_APP_IPHONE_55_2.png/392x696bb.png",
@@ -231,10 +232,16 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/48/46/68484684-a637-debb-dd54-c17e5d40a611/AppIcon-0-1x_U007epad-0-0-0-8-0-0-0-85-220-0.png/512x512bb.jpg",
+      "advisories": [
+        "Unrestricted Web Access"
+      ],
+      "kind": "software",
+      "features": [
+        "iosUniversal"
+      ],
       "artistViewUrl": "https://apps.apple.com/us/developer/google/id281956209?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/48/46/68484684-a637-debb-dd54-c17e5d40a611/AppIcon-0-1x_U007epad-0-0-0-8-0-0-0-85-220-0.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/48/46/68484684-a637-debb-dd54-c17e5d40a611/AppIcon-0-1x_U007epad-0-0-0-8-0-0-0-85-220-0.png/100x100bb.jpg",
-      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -367,15 +374,6 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [
-        "Unrestricted Web Access"
-      ],
-      "kind": "software",
-      "features": [
-        "iosUniversal"
-      ],
-      "minimumOsVersion": "15.0",
-      "averageUserRatingForCurrentVersion": 4.73122,
       "sellerUrl": "https://assistant.google.com/",
       "languageCodesISO2A": [
         "AR",
@@ -403,21 +401,25 @@
       ],
       "fileSizeBytes": "267389952",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 66943,
+      "userRatingCountForCurrentVersion": 66946,
       "trackContentRating": "17+",
-      "contentAdvisoryRating": "17+",
-      "averageUserRating": 4.73122,
+      "averageUserRatingForCurrentVersion": 4.73105,
+      "genres": [
+        "Utilities",
+        "Productivity"
+      ],
       "artistId": 281956209,
       "artistName": "Google",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseDate": "2017-05-18T12:48:44Z",
-      "sellerName": "Google LLC",
-      "trackId": 1220976145,
-      "trackName": "Google Assistant",
       "genreIds": [
         "6002",
         "6007"
       ],
+      "trackId": 1220976145,
+      "trackName": "Google Assistant",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "Google LLC",
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
       "currentVersionReleaseDate": "2025-07-23T12:24:44Z",
       "releaseNotes": "We've updated the app to bring you the best Assistant experience. This release contains bug fixes and stability improvements.",
       "version": "1.9.148701",
@@ -427,14 +429,12 @@
       "bundleId": "com.google.OPA",
       "trackCensoredName": "Google Assistant",
       "trackViewUrl": "https://apps.apple.com/us/app/google-assistant/id1220976145?uo=4",
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
+      "averageUserRating": 4.73105,
+      "minimumOsVersion": "15.0",
+      "contentAdvisoryRating": "17+",
+      "releaseDate": "2017-05-18T12:48:44Z",
       "price": 0,
-      "genres": [
-        "Utilities",
-        "Productivity"
-      ],
-      "userRatingCount": 66943,
+      "userRatingCount": 66946,
       "country": "USA"
     }
   ]

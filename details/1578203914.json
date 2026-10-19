@@ -191,10 +191,6 @@
       "userRatingCount": 6176
     },
     {
-      "artistViewUrl": "https://apps.apple.com/cn/developer/funsora-limited/id1182878500?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/3c/64/0e3c6469-4d4e-a1da-f394-cefe5019870d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/3c/64/0e3c6469-4d4e-a1da-f394-cefe5019870d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
-      "isGameCenterEnabled": true,
       "features": [
         "gameCenter",
         "iosUniversal"
@@ -333,6 +329,7 @@
         "iPhoneDuo-iPhoneDuo"
       ],
       "advisories": [],
+      "isGameCenterEnabled": true,
       "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/55/5e/29/555e293e-6dbb-f00e-878d-725119514784/_U7535_U5b50_U5ba0_U7269_U673a__U00281_U0029.png/320x480bb.jpg",
@@ -351,11 +348,14 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/3c/64/0e3c6469-4d4e-a1da-f394-cefe5019870d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "averageUserRating": 4.72027,
-      "trackCensoredName": "电子宠物机",
-      "trackViewUrl": "https://apps.apple.com/cn/app/%E7%94%B5%E5%AD%90%E5%AE%A0%E7%89%A9%E6%9C%BA/id1578203914?uo=4",
-      "contentAdvisoryRating": "4+",
-      "releaseNotes": "*优化和手表的连接\n*适配watchOS 27",
+      "artistViewUrl": "https://apps.apple.com/cn/developer/funsora-limited/id1182878500?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/3c/64/0e3c6469-4d4e-a1da-f394-cefe5019870d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/3c/64/0e3c6469-4d4e-a1da-f394-cefe5019870d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+      "genreIds": [
+        "6016",
+        "6017"
+      ],
+      "sellerName": "Funsora LIMITED",
       "artistId": 1182878500,
       "artistName": "Funsora LIMITED",
       "genres": [
@@ -363,18 +363,15 @@
         "教育"
       ],
       "price": 15,
-      "releaseDate": "2021-07-28T07:00:00Z",
-      "genreIds": [
-        "6016",
-        "6017"
-      ],
-      "trackId": 1578203914,
+      "bundleId": "com.mhp.cy.WatchPet",
+      "isVppDeviceBasedLicensingEnabled": true,
       "trackName": "电子宠物机",
+      "trackId": 1578203914,
       "primaryGenreName": "Entertainment",
       "primaryGenreId": 6016,
-      "sellerName": "Funsora LIMITED",
-      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseDate": "2021-07-28T07:00:00Z",
       "currentVersionReleaseDate": "2026-10-10T19:50:06Z",
+      "releaseNotes": "*优化和手表的连接\n*适配watchOS 27",
       "version": "1.68",
       "wrapperType": "software",
       "currency": "CNY",
@@ -388,12 +385,15 @@
       ],
       "fileSizeBytes": "103102464",
       "formattedPrice": "¥15.00",
-      "userRatingCountForCurrentVersion": 6299,
+      "userRatingCountForCurrentVersion": 6309,
       "trackContentRating": "4+",
-      "bundleId": "com.mhp.cy.WatchPet",
+      "averageUserRatingForCurrentVersion": 4.72039,
+      "averageUserRating": 4.72039,
+      "contentAdvisoryRating": "4+",
       "minimumOsVersion": "15.0",
-      "averageUserRatingForCurrentVersion": 4.72027,
-      "userRatingCount": 6299,
+      "trackCensoredName": "电子宠物机",
+      "trackViewUrl": "https://apps.apple.com/cn/app/%E7%94%B5%E5%AD%90%E5%AE%A0%E7%89%A9%E6%9C%BA/id1578203914?uo=4",
+      "userRatingCount": 6309,
       "country": "CHN"
     }
   ]

@@ -206,6 +206,10 @@
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/c1/0c/88c10cec-fa48-66c1-1903-984613cb790c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/c1/0c/88c10cec-fa48-66c1-1903-984613cb790c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -338,7 +342,6 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
       "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b6/c9/45/b6c94545-e1a9-e71a-23c3-f2fbf193fc2d/5.5-inch_01.jpg/392x696bb.jpg",
@@ -358,21 +361,21 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/c1/0c/88c10cec-fa48-66c1-1903-984613cb790c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
-      "averageUserRating": 4.81945,
       "trackCensoredName": "Nect Wallet",
       "trackViewUrl": "https://apps.apple.com/de/app/nect-wallet/id1331065474?uo=4",
       "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.81819,
+      "releaseNotes": "Mit diesem Update wird das Scannen Ihrer Dokumente noch einfacher. Vielen Dank, dass Sie Nect nutzen!",
       "minimumOsVersion": "17.0",
-      "artistId": 1246962000,
-      "artistName": "Nect",
       "genres": [
         "Produktivität",
         "Finanzen"
       ],
+      "artistId": 1246962000,
+      "artistName": "Nect",
       "price": 0,
+      "bundleId": "com.nect.app.prod",
+      "isVppDeviceBasedLicensingEnabled": true,
       "releaseDate": "2018-10-08T13:23:02Z",
       "trackId": 1331065474,
       "trackName": "Nect Wallet",
@@ -380,16 +383,13 @@
         "6007",
         "6015"
       ],
-      "primaryGenreName": "Productivity",
-      "primaryGenreId": 6007,
       "sellerName": "Nect GmbH",
-      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-10-12T06:40:57Z",
-      "releaseNotes": "Mit diesem Update wird das Scannen Ihrer Dokumente noch einfacher. Vielen Dank, dass Sie Nect nutzen!",
       "version": "4.10.0",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Sich schnell und sicher identifizieren oder vertrauliche Dokumente unterschreiben – jederzeit und von überall. Ganz ohne persönlichen Termin, langen Briefverkehr oder Video Chat mit einem Servicemitarbeiter. In der Nect Wallet legen Sie Ihre digitale Identität sicher ab und haben Sie jederzeit griffbereit. Ob Personalausweis, Reisepass, Aufenthaltstitel oder andere Dokumente. Verwenden Sie unsere nutzerfreundliche, vollautomatische und zertifizierte Lösung, um sich mit Nect Ident bei unseren Partnerunternehmen rechtskonform auszuweisen oder mit Nect Sign Dokumente qualifiziert zu unterzeichnen. Die Nect Wallet entspricht den hohen Sicherheitsstandards und steht ohne Wartezeit zur Verfügung.\n\nUnsere Lösungen im Überblick\n\nNect Ident: Ausweisen mit Selfie-Video, eID, ePass oder Dokumenten wie der elektronischen Gesundheitskarte. Wir bieten den für Sie schnellsten Weg.\n\nNect Sign: Dokumente, die der Schriftform unterliegen, qualifiziert elektronisch per App unterschreiben. Schnell und rechtskonform.\n\nWas erwartet Sie noch bei uns?\n\nEinmal erfolgreich identifiziert, wird Ihr Ausweisdokument digital, sicher und nur für Sie zugänglich in der Nect Wallet hinterlegt. Für Ihre nächste Identifizierung können Sie das Ausweisdokument per Gesichtserkennung binnen Sekunden einfach wiederverwenden. Unser Netzwerk an Partnerunternehmen wächst ständig. Behalten Sie die Nect Wallet also auf Ihrem Handy und nutzen Sie Ihre digitale Identität zukünftig für weitere Services – es lohnt sich!",
+      "averageUserRatingForCurrentVersion": 4.81819,
       "sellerUrl": "https://nect.com",
       "languageCodesISO2A": [
         "EN",
@@ -398,11 +398,11 @@
       ],
       "fileSizeBytes": "110830592",
       "formattedPrice": "Gratis",
-      "userRatingCountForCurrentVersion": 71713,
+      "userRatingCountForCurrentVersion": 72223,
       "trackContentRating": "4+",
-      "bundleId": "com.nect.app.prod",
-      "averageUserRatingForCurrentVersion": 4.81945,
-      "userRatingCount": 71713,
+      "primaryGenreName": "Productivity",
+      "primaryGenreId": 6007,
+      "userRatingCount": 72223,
       "country": "DEU"
     }
   ]

@@ -226,9 +226,9 @@
       "userRatingCount": 372
     },
     {
-      "artistViewUrl": "https://apps.apple.com/jp/developer/shibuya-masanori/id339986228?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/80/e6/4c/80e64cb7-7fcf-f610-b0f7-a0b800c33499/AppIcon-0-1x_U007emarketing-0-0-85-220-0-3.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/80/e6/4c/80e64cb7-7fcf-f610-b0f7-a0b800c33499/AppIcon-0-1x_U007emarketing-0-0-85-220-0-3.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/jp/developer/shibuya-masanori/id339986228?uo=4",
       "isGameCenterEnabled": false,
       "features": [],
       "supportedDevices": [
@@ -413,25 +413,30 @@
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/80/e6/4c/80e64cb7-7fcf-f610-b0f7-a0b800c33499/AppIcon-0-1x_U007emarketing-0-0-85-220-0-3.png/512x512bb.jpg",
-      "averageUserRating": 4.36074,
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.36243,
       "trackCensoredName": "支出管理",
       "trackViewUrl": "https://apps.apple.com/jp/app/%E6%94%AF%E5%87%BA%E7%AE%A1%E7%90%86/id339986225?uo=4",
-      "contentAdvisoryRating": "4+",
       "currentVersionReleaseDate": "2018-09-24T01:09:20Z",
-      "releaseNotes": "- iPhone Xs Maxのディスプレイサイズに対応しました。\n(以前のバージョンでもアプリを使用できましたが、より精細に表示されるようになります。）\n- 他にいくつか細かい修正をしました。",
+      "artistId": 339986228,
+      "artistName": "SHIBUYA Masanori",
+      "price": 150,
       "genres": [
         "ファイナンス",
         "仕事効率化"
       ],
-      "price": 150,
-      "artistId": 339986228,
-      "artistName": "SHIBUYA Masanori",
       "bundleId": "com.gmail.shibuym.ExpenseBook",
+      "trackId": 339986225,
+      "trackName": "支出管理",
       "releaseDate": "2009-11-19T21:25:02Z",
-      "sellerName": "MASANORI SHIBUYA",
-      "isVppDeviceBasedLicensingEnabled": true,
+      "genreIds": [
+        "6015",
+        "6007"
+      ],
       "primaryGenreName": "Finance",
       "primaryGenreId": 6015,
+      "sellerName": "MASANORI SHIBUYA",
+      "isVppDeviceBasedLicensingEnabled": true,
       "version": "1.19.1",
       "wrapperType": "software",
       "currency": "JPY",
@@ -444,16 +449,11 @@
       ],
       "fileSizeBytes": "21096448",
       "formattedPrice": "¥150",
-      "userRatingCountForCurrentVersion": 377,
+      "userRatingCountForCurrentVersion": 378,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.36074,
-      "genreIds": [
-        "6015",
-        "6007"
-      ],
-      "trackName": "支出管理",
-      "trackId": 339986225,
-      "userRatingCount": 377,
+      "averageUserRatingForCurrentVersion": 4.36243,
+      "releaseNotes": "- iPhone Xs Maxのディスプレイサイズに対応しました。\n(以前のバージョンでもアプリを使用できましたが、より精細に表示されるようになります。）\n- 他にいくつか細かい修正をしました。",
+      "userRatingCount": 378,
       "country": "JPN"
     }
   ]

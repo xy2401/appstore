@@ -4,6 +4,7 @@
     {
       "isGameCenterEnabled": false,
       "advisories": [],
+      "features": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -145,36 +146,31 @@
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/26/0d/83260d2e-7509-d0b7-1721-219c0ad0e1ac/appiconimage-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "features": [],
       "artistViewUrl": "https://apps.apple.com/fr/developer/georges-delaloye/id1478862577?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/26/0d/83260d2e-7509-d0b7-1721-219c0ad0e1ac/appiconimage-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/26/0d/83260d2e-7509-d0b7-1721-219c0ad0e1ac/appiconimage-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
       "minimumOsVersion": "15.2",
-      "artistId": 1478862577,
-      "artistName": "Georges Delaloye",
-      "genres": [
-        "Médecine",
-        "Références"
-      ],
-      "price": 5.99,
       "genreIds": [
         "6020",
         "6006"
       ],
-      "isVppDeviceBasedLicensingEnabled": true,
       "primaryGenreName": "Medical",
       "primaryGenreId": 6020,
       "sellerName": "Georges Delaloye",
-      "releaseDate": "2022-12-06T08:00:00Z",
+      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-02-27T07:59:17Z",
+      "price": 5.99,
+      "artistId": 1478862577,
+      "artistName": "Georges Delaloye",
+      "bundleId": "ch.alpsoft.faiseurssecrets",
       "trackId": 6444770886,
       "trackName": "Faiseurs Secrets",
+      "releaseDate": "2022-12-06T08:00:00Z",
       "releaseNotes": "Amélioration des notifications",
       "version": "2.1.0",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "L'application Faiseurs de secret vous permettant d'avoir toujours sur vous la liste des faiseurs de secrets, coupe feux, barreurs de douleurs de Suisse.\nVous pouvez contacter directement un faiseur de secrets et bénéficier d’un soin en cas de besoin.\n\nListe tenue à jour régulièrement depuis 1999 par Georges Delaloye, faiseur de secrets.\n\nPlusieurs hôpitaux ont également cette liste.",
-      "averageUserRatingForCurrentVersion": 4.83333,
       "sellerUrl": "http://www.gedelaloye.ch",
       "languageCodesISO2A": [
         "EN",
@@ -183,12 +179,16 @@
       "fileSizeBytes": "179086336",
       "formattedPrice": "5,99 €",
       "userRatingCountForCurrentVersion": 6,
+      "averageUserRatingForCurrentVersion": 4.83333,
       "trackContentRating": "4+",
       "trackCensoredName": "Faiseurs Secrets",
       "trackViewUrl": "https://apps.apple.com/fr/app/faiseurs-secrets/id6444770886?uo=4",
       "contentAdvisoryRating": "4+",
       "averageUserRating": 4.83333,
-      "bundleId": "ch.alpsoft.faiseurssecrets",
+      "genres": [
+        "Médecine",
+        "Références"
+      ],
       "userRatingCount": 6,
       "country": "FRA"
     }

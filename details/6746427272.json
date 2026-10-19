@@ -187,6 +187,10 @@
     },
     {
       "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -320,6 +324,9 @@
         "iPhoneDuo-iPhoneDuo"
       ],
       "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/jp/developer/nhk-japan-broadcasting-corporation/id307227304?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/ae/92/99ae9224-288e-8dc9-1dab-2dbd1f8b5077/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/ae/92/99ae9224-288e-8dc9-1dab-2dbd1f8b5077/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/99/04/39/990439e5-7207-5949-62fa-6a86c85c1bca/01_top_1.3.0_iOS.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/05/61/a7/0561a7c2-89cb-bfc3-580c-c04b75187b46/02_news01_iOS.png/320x480bb.jpg",
@@ -341,54 +348,47 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dd/fb/93/ddfb9381-db1d-ff91-c311-a1db7724608e/08_map_1.3.0_iPad.png/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/ae/92/99ae9224-288e-8dc9-1dab-2dbd1f8b5077/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/ae/92/99ae9224-288e-8dc9-1dab-2dbd1f8b5077/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/ae/92/99ae9224-288e-8dc9-1dab-2dbd1f8b5077/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/jp/developer/nhk-japan-broadcasting-corporation/id307227304?uo=4",
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [],
-      "minimumOsVersion": "16.0",
+      "releaseNotes": "今回のリリースでは、軽微な修正を行いました。\n \n今後も機能拡充と改善に努めてまいります。",
       "artistId": 307227304,
       "artistName": "NHK (Japan Broadcasting Corporation)",
       "genres": [
         "ニュース",
         "天気"
       ],
+      "price": 0,
+      "primaryGenreName": "News",
+      "primaryGenreId": 6009,
+      "bundleId": "nhk.app.nwa",
+      "releaseDate": "2025-10-01T07:00:00Z",
       "trackId": 6746427272,
       "trackName": "NHK ONE ニュース・防災",
-      "releaseDate": "2025-10-01T07:00:00Z",
       "genreIds": [
         "6009",
         "6001"
       ],
-      "primaryGenreName": "News",
-      "primaryGenreId": 6009,
-      "sellerName": "NHK (Japan Broadcasting Corp.)",
       "isVppDeviceBasedLicensingEnabled": true,
-      "releaseNotes": "今回のリリースでは、軽微な修正を行いました。\n \n今後も機能拡充と改善に努めてまいります。",
+      "currentVersionReleaseDate": "2026-09-30T06:15:25Z",
       "version": "1.7.1",
       "wrapperType": "software",
       "currency": "JPY",
       "description": "「命と暮らしを守る情報」を届けるNHK公式アプリ\n・正確なニュース、災害・気象情報をいち早く\n・テレビの主なニュース番組をスマホで同時・見逃し配信\n・速報や命を守る情報をプッシュ通知で速やかに\n・地域ごとのきめ細かい災害情報や天気予報\n・マップでも雨雲レーダーや河川情報を\n\n■主な機能■\n○NHKが取材したニュース記事・動画を網羅\n・社会、災害、政治、ビジネス、国際、スポーツなど\n・日本全国各地域ごとのニュースも\n○ニュース番組を同時・見逃し配信\n・テレビの主なニュース番組をお手元に配信\n・災害時/緊急時には臨時のニュース番組も配信\n○速報や命を守る緊急の情報をプッシュ通知で\n・ニュース速報や災害情報をいち早くお手元に\n○各地の天気予報\n・現在位置や設定地域ごとにきめ細かく\n○地震、津波、台風などの災害情報\n・最新情報を掲載\n○特別警報、警報・注意報\n・現在位置や設定地域ごとにきめ細かく\n○避難情報\n・自治体の出す避難に関する情報を掲載\n○マップでも災害・気象情報を確認可能\n・雨雲レーダーや河川氾濫・河川カメラ画像\n・台風の進路予想\n\n■ご利用にあたって■\n○すでに世帯でNHKの受信契約がある場合は、別途のご契約や追加のご負担は必要ありません。受信契約を締結されていない方がご利用される場合は、NHKの受信契約の手続きをお願いします。\n○日本国外からはご利用できません。",
-      "averageUserRatingForCurrentVersion": 3.2354,
-      "sellerUrl": "https://www.nhk.or.jp/nhkone/service/",
-      "averageUserRating": 3.2354,
+      "averageUserRating": 3.23656,
       "trackCensoredName": "NHK ONE ニュース・防災",
+      "trackViewUrl": "https://apps.apple.com/jp/app/nhk-one-%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9-%E9%98%B2%E7%81%BD/id6746427272?uo=4",
+      "contentAdvisoryRating": "4+",
+      "minimumOsVersion": "16.0",
+      "averageUserRatingForCurrentVersion": 3.23656,
+      "sellerUrl": "https://www.nhk.or.jp/nhkone/service/",
       "languageCodesISO2A": [
         "JA"
       ],
       "fileSizeBytes": "37342208",
       "formattedPrice": "無料",
-      "contentAdvisoryRating": "4+",
-      "userRatingCountForCurrentVersion": 6198,
-      "trackViewUrl": "https://apps.apple.com/jp/app/nhk-one-%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9-%E9%98%B2%E7%81%BD/id6746427272?uo=4",
+      "userRatingCountForCurrentVersion": 6214,
       "trackContentRating": "4+",
-      "bundleId": "nhk.app.nwa",
-      "currentVersionReleaseDate": "2026-09-30T06:15:25Z",
-      "price": 0,
-      "userRatingCount": 6198,
+      "sellerName": "NHK (Japan Broadcasting Corp.)",
+      "userRatingCount": 6214,
       "country": "JPN"
     }
   ]

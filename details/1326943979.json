@@ -196,7 +196,6 @@
       "userRatingCount": 3871
     },
     {
-      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -329,6 +328,9 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "advisories": [
+        "Infrequent/Mild Medical/Treatment Information"
+      ],
       "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/13/d3/c7/13d3c79e-9cf6-fb03-f71f-91a465fb5694/c81ea31b-cf85-497a-bd4a-020d85bab85c_Copy_of_screenshot_phone_3.png/392x696bb.png",
@@ -350,22 +352,20 @@
       "features": [
         "iosUniversal"
       ],
-      "advisories": [
-        "Infrequent/Mild Medical/Treatment Information"
-      ],
+      "isGameCenterEnabled": false,
       "artistId": 6790445816,
       "artistName": "TYSM Technologies, LLC",
       "genres": [
         "Education"
       ],
       "price": 14.99,
-      "trackId": 1326943979,
+      "releaseDate": "2017-12-20T06:08:28Z",
       "trackName": "ABA Wizard",
+      "trackId": 1326943979,
+      "releaseNotes": "Minor updates and bug fixes",
       "genreIds": [
         "6017"
       ],
-      "releaseNotes": "Minor updates and bug fixes",
-      "releaseDate": "2017-12-20T06:08:28Z",
       "primaryGenreName": "Education",
       "primaryGenreId": 6017,
       "sellerName": "TYSM Technologies, LLC",
@@ -375,7 +375,11 @@
       "wrapperType": "software",
       "currency": "USD",
       "description": "This BCBA® exam prep app is designed for any behavior analyst who wants to master the content on the BCBA (Board Certified Behavior Analyst®) or BCaBA® exam. Recently updated, the app now has around 1000 practice questions covering all of the essential principles of applied behavior analysis (ABA) centered on the current 6th edition Test Content Outline. You will be prepared to pass the BCBA or BCaBA exam! \n\nHOW MUCH DOES THE APP COST? \nThis is not a subscription. You are given complete access to our entire ABA practice question library for the minimal price of the app. \n\nHOW IS THE APP ORGANIZED? \nThe layout of this comprehensive app is organized following the BCBA/BCaBA Test Content Outline (6th Ed.) with a 10 question quiz for every task list item. You will learn quickly with immediate feedback, an explanation, and references for each question. This is the highest value ABA test prep out there! Behavior analysts around the world have downloaded and are loving this program. \n\nHOW WERE THE QUESTIONS CREATED? \nAll questions in the app were created by Board Certified Behavior Analysts referencing scholarly texts commonly used in ABA. These questions were reviewed by several students, behavior analysts, as well as BCBA-Ds to ensure each practice question contains correct and applicable content.\n \nThe ABA Wizard App is owned by Test Prep Technologies, LLC.  Test Prep Technologies, LLC is not owned by or associated with the Behavior Analyst Certification Board®. ©2018 the Behavior Analyst Certification Board®, Inc. All rights reserved. Displayed by permission. The most current version of this document is available at www.BACB.com. Contact the BACB for permission to reprint this material.",
-      "averageUserRating": 4.80464,
+      "minimumOsVersion": "13.0",
+      "sellerUrl": "https://abawizard.net",
+      "averageUserRating": 4.80459,
+      "averageUserRatingForCurrentVersion": 4.80459,
+      "bundleId": "com.Kylan.StudyABA",
       "trackCensoredName": "ABA Wizard",
       "languageCodesISO2A": [
         "EN"
@@ -383,14 +387,10 @@
       "fileSizeBytes": "7324672",
       "formattedPrice": "$14.99",
       "contentAdvisoryRating": "12+",
-      "userRatingCountForCurrentVersion": 3875,
+      "userRatingCountForCurrentVersion": 3874,
       "trackViewUrl": "https://apps.apple.com/us/app/aba-wizard/id1326943979?uo=4",
       "trackContentRating": "12+",
-      "sellerUrl": "https://abawizard.net",
-      "averageUserRatingForCurrentVersion": 4.80464,
-      "minimumOsVersion": "13.0",
-      "bundleId": "com.Kylan.StudyABA",
-      "userRatingCount": 3875,
+      "userRatingCount": 3874,
       "country": "USA"
     }
   ]

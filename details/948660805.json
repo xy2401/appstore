@@ -189,9 +189,13 @@
     },
     {
       "artistViewUrl": "https://apps.apple.com/de/developer/governikus-service-gmbh/id948660804?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/e9/e5/b6e9e5c0-a032-d865-9974-419528160833/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/e9/e5/b6e9e5c0-a032-d865-9974-419528160833/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/a4/39/7ea439ce-01f2-4b48-4e02-203ba2b52b66/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/a4/39/7ea439ce-01f2-4b48-4e02-203ba2b52b66/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
+      "advisories": [],
       "supportedDevices": [
         "MacDesktop-MacDesktop",
         "iPhone5s-iPhone5s",
@@ -325,7 +329,6 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
       "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3b/b7/64/3bb76438-2463-e8b4-0eaf-1767774c81f7/1_Einrichtung.png/320x480bb.jpg",
@@ -344,37 +347,34 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7a/d5/d0/7ad5d05b-93ca-378d-4798-37ff20f5eda8/6_PIN_Eingabe.png/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/e9/e5/b6e9e5c0-a032-d865-9974-419528160833/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
-      "averageUserRating": 4.18959,
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/a4/39/7ea439ce-01f2-4b48-4e02-203ba2b52b66/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "trackCensoredName": "AusweisApp Bund",
       "trackViewUrl": "https://apps.apple.com/de/app/ausweisapp-bund/id948660805?uo=4",
       "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.19153,
+      "releaseNotes": "- Temporäre Reaktivierung von RSA-Signaturen mit PKCS#1 v1.5 in TLS.",
       "minimumOsVersion": "17.0",
-      "artistId": 948660804,
-      "artistName": "Governikus Service GmbH",
       "genres": [
         "Dienst­programme"
       ],
+      "artistId": 948660804,
+      "artistName": "Governikus Service GmbH",
       "price": 0,
+      "bundleId": "com.governikus.ausweisapp2",
+      "isVppDeviceBasedLicensingEnabled": true,
       "releaseDate": "2019-09-26T07:00:00Z",
       "trackId": 948660805,
       "trackName": "AusweisApp Bund",
       "genreIds": [
         "6002"
       ],
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
       "sellerName": "Governikus Service GmbH",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-10-07T05:07:33Z",
-      "releaseNotes": "- Visuelle Anpassungen und Optimierungen der grafischen Oberfläche.\n- Optimierung einzelner Barrierefreiheitsfunktionen.\n- Unterstützung der arm64e-Architektur.\n- Der Code zum Koppeln über den Fernzugriff hat nun nur noch eine zeitlich begrenzte Gültigkeit.\n- Verhinderung der möglichen Einschleusung von unerwünschten Inhalten in die Anwendung oder in von der Anwendung generierten E-Mails.\n- Aktualisierung von Qt auf die Version 6.11.1 (mit Patches für CVE-2026-76151 und CVE-2026-78253).\n- Aktualisierung von OpenSSL auf die Version 4.0.3.\n- Aktualisierung von llhttp auf die Version 9.4.3.",
-      "version": "2.6.0",
+      "currentVersionReleaseDate": "2026-10-14T05:39:36Z",
+      "version": "2.6.1",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Die AusweisApp ist eine Software, die Sie auf Ihrem iPhone, Mac oder iPad installieren, um sich mit Ihrem Personalausweis, Ihrem elektronischen Aufenthaltstitel oder der eID-Karte für Unionsbürger:innen online auszuweisen. \n\nAlle weiterführenden Informationen finden Sie unter: www.ausweisapp.bund.de\n\nDie Erklärung zur Barrierefreiheit der Software finden Sie unter: https://www.ausweisapp.bund.de/barrierefreiheit-app\n\nEntwickelt im Auftrag des Bundesamtes für Sicherheit in der Informationstechnik.",
+      "averageUserRatingForCurrentVersion": 4.19153,
       "sellerUrl": "https://www.ausweisapp.bund.de",
       "languageCodesISO2A": [
         "EN",
@@ -384,11 +384,11 @@
       ],
       "fileSizeBytes": "50885632",
       "formattedPrice": "Gratis",
-      "userRatingCountForCurrentVersion": 222349,
+      "userRatingCountForCurrentVersion": 228016,
       "trackContentRating": "4+",
-      "bundleId": "com.governikus.ausweisapp2",
-      "averageUserRatingForCurrentVersion": 4.18959,
-      "userRatingCount": 222349,
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
+      "userRatingCount": 228016,
       "country": "DEU"
     }
   ]

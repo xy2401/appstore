@@ -198,9 +198,9 @@
       "userRatingCount": 10328
     },
     {
-      "artistViewUrl": "https://apps.apple.com/jp/developer/%E3%83%90%E3%82%A4%E3%83%AA%E3%83%B3%E3%82%AC%E3%83%BC%E3%83%AB/id1432582443?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/ef/bb/eeefbbdd-58c0-7d7d-42ec-53acadc12990/AppIcon-0-0-1x_U007emarketing-0-3-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/ef/bb/eeefbbdd-58c0-7d7d-42ec-53acadc12990/AppIcon-0-0-1x_U007emarketing-0-3-0-85-220.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/jp/developer/%E3%83%90%E3%82%A4%E3%83%AA%E3%83%B3%E3%82%AC%E3%83%BC%E3%83%AB/id1432582443?uo=4",
       "isGameCenterEnabled": false,
       "features": [],
       "supportedDevices": [
@@ -353,25 +353,30 @@
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/ef/bb/eeefbbdd-58c0-7d7d-42ec-53acadc12990/AppIcon-0-0-1x_U007emarketing-0-3-0-85-220.png/512x512bb.jpg",
+      "contentAdvisoryRating": "4+",
       "averageUserRating": 4.79464,
       "trackCensoredName": "旅行英会話 - Help me Travel",
       "trackViewUrl": "https://apps.apple.com/jp/app/%E6%97%85%E8%A1%8C%E8%8B%B1%E4%BC%9A%E8%A9%B1-help-me-travel/id1432582444?uo=4",
-      "contentAdvisoryRating": "4+",
       "currentVersionReleaseDate": "2026-10-10T17:08:41Z",
-      "releaseNotes": "YouTubeの動画が再生されなくなっていた不具合を修正しました。",
+      "artistId": 1432582443,
+      "artistName": "バイリンガール",
+      "price": 1500,
       "genres": [
         "旅行",
         "教育"
       ],
-      "price": 1500,
-      "artistId": 1432582443,
-      "artistName": "バイリンガール",
       "bundleId": "com.bilingirl.travel",
+      "trackId": 1432582444,
+      "trackName": "旅行英会話 - Help me Travel",
       "releaseDate": "2018-09-27T15:58:56Z",
-      "sellerName": "UNICORN CREATIONS CO., LTD.",
-      "isVppDeviceBasedLicensingEnabled": true,
+      "genreIds": [
+        "6003",
+        "6017"
+      ],
       "primaryGenreName": "Travel",
       "primaryGenreId": 6003,
+      "sellerName": "UNICORN CREATIONS CO., LTD.",
+      "isVppDeviceBasedLicensingEnabled": true,
       "version": "3.0.3",
       "wrapperType": "software",
       "currency": "JPY",
@@ -385,12 +390,7 @@
       "userRatingCountForCurrentVersion": 10333,
       "trackContentRating": "4+",
       "averageUserRatingForCurrentVersion": 4.79464,
-      "genreIds": [
-        "6003",
-        "6017"
-      ],
-      "trackName": "旅行英会話 - Help me Travel",
-      "trackId": 1432582444,
+      "releaseNotes": "YouTubeの動画が再生されなくなっていた不具合を修正しました。",
       "userRatingCount": 10333,
       "country": "JPN"
     }

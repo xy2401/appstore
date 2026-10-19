@@ -215,6 +215,7 @@
       "userRatingCount": 682402
     },
     {
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c1/0b/96/c10b9669-012b-6eee-b629-461edd666abb/APP_IPHONE_55-0.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c3/ba/3f/c3ba3fb3-3e9f-e87b-49f3-11c68b5730bc/APP_IPHONE_55-1.png/392x696bb.png",
@@ -226,10 +227,12 @@
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/44/0f/f9440fa0-4470-9f43-d5ab-80616ac9ac81/google_health_ios-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
+      "advisories": [],
+      "kind": "software",
+      "features": [],
       "artistViewUrl": "https://apps.apple.com/us/developer/google/id281956209?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/44/0f/f9440fa0-4470-9f43-d5ab-80616ac9ac81/google_health_ios-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/44/0f/f9440fa0-4470-9f43-d5ab-80616ac9ac81/google_health_ios-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.jpg",
-      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -362,11 +365,6 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
-      "kind": "software",
-      "features": [],
-      "minimumOsVersion": "16.4",
-      "averageUserRatingForCurrentVersion": 4.46978,
       "sellerUrl": "https://healthapp.google/",
       "languageCodesISO2A": [
         "BG",
@@ -404,21 +402,25 @@
       ],
       "fileSizeBytes": "498104320",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 704923,
+      "userRatingCountForCurrentVersion": 706714,
       "trackContentRating": "4+",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.46978,
+      "averageUserRatingForCurrentVersion": 4.46861,
+      "genres": [
+        "Health & Fitness",
+        "Lifestyle"
+      ],
       "artistId": 281956209,
       "artistName": "Google",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseDate": "2011-10-18T04:18:41Z",
-      "sellerName": "Google LLC",
-      "trackId": 462638897,
-      "trackName": "Google Health (Fitbit)",
       "genreIds": [
         "6013",
         "6012"
       ],
+      "trackId": 462638897,
+      "trackName": "Google Health (Fitbit)",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "Google LLC",
+      "primaryGenreName": "Health & Fitness",
+      "primaryGenreId": 6013,
       "currentVersionReleaseDate": "2026-10-09T00:33:04Z",
       "releaseNotes": "General stability improvements and bug fixes.",
       "version": "5.10",
@@ -428,14 +430,12 @@
       "bundleId": "com.fitbit.FitbitMobile",
       "trackCensoredName": "Google Health (Fitbit)",
       "trackViewUrl": "https://apps.apple.com/us/app/google-health-fitbit/id462638897?uo=4",
-      "primaryGenreName": "Health & Fitness",
-      "primaryGenreId": 6013,
+      "averageUserRating": 4.46861,
+      "minimumOsVersion": "16.4",
+      "contentAdvisoryRating": "4+",
+      "releaseDate": "2011-10-18T04:18:41Z",
       "price": 0,
-      "genres": [
-        "Health & Fitness",
-        "Lifestyle"
-      ],
-      "userRatingCount": 704923,
+      "userRatingCount": 706714,
       "country": "USA"
     }
   ]

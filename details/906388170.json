@@ -196,9 +196,9 @@
       "userRatingCount": 6696
     },
     {
-      "artistViewUrl": "https://apps.apple.com/jp/developer/sky-nexus-inc/id512522554?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fb/ed/6d/fbed6d3c-cdbc-0e03-49de-917dc1429640/AppIconPro-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fb/ed/6d/fbed6d3c-cdbc-0e03-49de-917dc1429640/AppIconPro-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/jp/developer/sky-nexus-inc/id512522554?uo=4",
       "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
@@ -352,24 +352,28 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fb/ed/6d/fbed6d3c-cdbc-0e03-49de-917dc1429640/AppIconPro-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "averageUserRating": 4.63474,
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.63479,
       "trackCensoredName": "StageCameraPro - 高画質マナー カメラ",
       "trackViewUrl": "https://apps.apple.com/jp/app/stagecamerapro-%E9%AB%98%E7%94%BB%E8%B3%AA%E3%83%9E%E3%83%8A%E3%83%BC-%E3%82%AB%E3%83%A1%E3%83%A9/id906388170?uo=4",
-      "contentAdvisoryRating": "4+",
       "currentVersionReleaseDate": "2026-09-03T14:47:39Z",
-      "releaseNotes": "- 改善とバグの修正",
+      "artistId": 512522554,
+      "artistName": "sky-nexus Inc.",
+      "price": 550,
       "genres": [
         "写真／ビデオ"
       ],
-      "price": 550,
-      "artistId": 512522554,
-      "artistName": "sky-nexus Inc.",
       "bundleId": "com.sky-nexus.StageCameraPro",
+      "trackId": 906388170,
+      "trackName": "StageCameraPro - 高画質マナー カメラ",
       "releaseDate": "2014-10-19T14:16:51Z",
-      "sellerName": "sky-nexus Inc.",
-      "isVppDeviceBasedLicensingEnabled": true,
+      "genreIds": [
+        "6008"
+      ],
       "primaryGenreName": "Photo & Video",
       "primaryGenreId": 6008,
+      "sellerName": "sky-nexus Inc.",
+      "isVppDeviceBasedLicensingEnabled": true,
       "version": "5.0.3",
       "wrapperType": "software",
       "currency": "JPY",
@@ -382,15 +386,11 @@
       ],
       "fileSizeBytes": "9483264",
       "formattedPrice": "¥550",
-      "userRatingCountForCurrentVersion": 6702,
+      "userRatingCountForCurrentVersion": 6703,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.63474,
-      "genreIds": [
-        "6008"
-      ],
-      "trackName": "StageCameraPro - 高画質マナー カメラ",
-      "trackId": 906388170,
-      "userRatingCount": 6702,
+      "averageUserRatingForCurrentVersion": 4.63479,
+      "releaseNotes": "- 改善とバグの修正",
+      "userRatingCount": 6703,
       "country": "JPN"
     }
   ]

@@ -198,7 +198,6 @@
       "userRatingCount": 26
     },
     {
-      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/18/7f/0e187f2d-1aae-4e8a-6c1a-689c782be30e/pr_source.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/88/3f/80883f0a-3e96-5950-7bad-a2c71603417b/mzm.dxanzjnm.png/392x696bb.png",
@@ -215,6 +214,7 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/a0/2b/aea02b96-9a6f-4da5-a3de-e1d5dec485ef/AppIcon-0-0-1x_U007emarketing-0-4-85-220.png/512x512bb.jpg",
+      "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
       ],
@@ -350,50 +350,50 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
       "kind": "software",
       "artistViewUrl": "https://apps.apple.com/jp/developer/tadao-yamaoka/id832421013?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/a0/2b/aea02b96-9a6f-4da5-a3de-e1d5dec485ef/AppIcon-0-0-1x_U007emarketing-0-4-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/a0/2b/aea02b96-9a6f-4da5-a3de-e1d5dec485ef/AppIcon-0-0-1x_U007emarketing-0-4-85-220.png/100x100bb.jpg",
+      "advisories": [],
       "minimumOsVersion": "17.0",
-      "releaseNotes": "- スケール選択画面とカラーピッカー画面が、端末のライト／ダークモードに対応しました。",
-      "averageUserRatingForCurrentVersion": 3.33333,
       "languageCodesISO2A": [
         "EN",
         "JA"
       ],
+      "averageUserRatingForCurrentVersion": 3.33333,
       "fileSizeBytes": "572416",
       "formattedPrice": "¥300",
       "userRatingCountForCurrentVersion": 27,
       "trackContentRating": "4+",
-      "artistId": 832421013,
-      "artistName": "Tadao Yamaoka",
+      "primaryGenreName": "Music",
+      "primaryGenreId": 6011,
       "genres": [
         "ミュージック",
         "教育"
       ],
       "price": 300,
-      "bundleId": "com.TadaoYamaoka.VocalPitchMonitor",
-      "trackId": 842218231,
+      "artistId": 832421013,
+      "artistName": "Tadao Yamaoka",
       "trackName": "VocalPitchMonitor",
-      "releaseDate": "2014-03-28T13:28:43Z",
+      "trackId": 842218231,
+      "bundleId": "com.TadaoYamaoka.VocalPitchMonitor",
       "currentVersionReleaseDate": "2026-09-24T05:53:16Z",
-      "genreIds": [
-        "6011",
-        "6017"
-      ],
-      "primaryGenreName": "Music",
-      "primaryGenreId": 6011,
+      "releaseDate": "2014-03-28T13:28:43Z",
+      "releaseNotes": "- スケール選択画面とカラーピッカー画面が、端末のライト／ダークモードに対応しました。",
       "sellerName": "Tadao Yamaoka",
-      "isVppDeviceBasedLicensingEnabled": true,
       "version": "1.3.2",
       "wrapperType": "software",
       "currency": "JPY",
       "description": "マイクから入力した音声の音程をリアルタイムにグラフにして表示するアプリです。横軸が時間、縦軸が音階になっています。カラオケや楽器の練習に使えます。\n\n【特徴】\n・マイクから入力した音程をリアルタイムに表示\n・C2からB7までの6オクターブを表示\n・表示範囲を自動でスクロール\n・現在の音階を画面上部に文字で表示\n・画面の横回転に対応\n・録音と再生が可能\n・保存/読み込み機能\n・スケールの設定\n・音階ごとに色を設定可能\n\n【使い方】\nマイクから音声を入力してください。音程がリアルタイムに表示されます。\n\n【音程の解析について】\n音声に複数の楽器や和音を含む場合は正しく解析できません。\n\n【録音と再生について】\n録音できるのは3分間だけです。",
-      "averageUserRating": 3.33333,
       "trackCensoredName": "VocalPitchMonitor",
       "trackViewUrl": "https://apps.apple.com/jp/app/vocalpitchmonitor/id842218231?uo=4",
       "contentAdvisoryRating": "4+",
+      "averageUserRating": 3.33333,
+      "genreIds": [
+        "6011",
+        "6017"
+      ],
+      "isVppDeviceBasedLicensingEnabled": true,
       "userRatingCount": 27,
       "country": "JPN"
     },

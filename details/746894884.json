@@ -233,6 +233,7 @@
       "userRatingCount": 4846
     },
     {
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/94/ee/3e/94ee3e83-ef1f-594c-f960-ae149aa309c7/a3bee918-7c60-47ec-8647-408f34c61af5_GTV_iOS_5.5__1242x2208_Screen_1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/24/5f/e3/245fe314-a070-1e3a-afc7-9dce55d33162/d52f94f3-de8a-4915-a442-f7ba5d380aea_GTV_iOS_5.5__1242x2208_Screen_2.png/392x696bb.png",
@@ -247,10 +248,14 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/68/c3/6c68c3d5-2151-af9a-f08b-0ed76ed210ad/logo_google_tv_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-0-0-85-220.png/512x512bb.jpg",
+      "advisories": [],
+      "kind": "software",
+      "features": [
+        "iosUniversal"
+      ],
       "artistViewUrl": "https://apps.apple.com/us/developer/google/id281956209?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/68/c3/6c68c3d5-2151-af9a-f08b-0ed76ed210ad/logo_google_tv_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-0-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/68/c3/6c68c3d5-2151-af9a-f08b-0ed76ed210ad/logo_google_tv_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-0-0-85-220.png/100x100bb.jpg",
-      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -383,13 +388,6 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
-      "kind": "software",
-      "features": [
-        "iosUniversal"
-      ],
-      "minimumOsVersion": "17.0",
-      "averageUserRatingForCurrentVersion": 4.30104,
       "sellerUrl": "https://tv.google",
       "languageCodesISO2A": [
         "AF",
@@ -433,21 +431,25 @@
       ],
       "fileSizeBytes": "73864192",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 4883,
+      "userRatingCountForCurrentVersion": 4892,
       "trackContentRating": "12+",
-      "contentAdvisoryRating": "12+",
-      "averageUserRating": 4.30104,
+      "averageUserRatingForCurrentVersion": 4.29763,
+      "genres": [
+        "Entertainment",
+        "Photo & Video"
+      ],
       "artistId": 281956209,
       "artistName": "Google",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseDate": "2014-01-15T21:29:12Z",
-      "sellerName": "Google LLC",
-      "trackId": 746894884,
-      "trackName": "Google TV: Watch Movies & TV",
       "genreIds": [
         "6016",
         "6008"
       ],
+      "trackId": 746894884,
+      "trackName": "Google TV: Watch Movies & TV",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "Google LLC",
+      "primaryGenreName": "Entertainment",
+      "primaryGenreId": 6016,
       "currentVersionReleaseDate": "2026-06-12T07:51:46Z",
       "releaseNotes": "* Bug fixes and performance improvements",
       "version": "3.33.00001",
@@ -457,14 +459,12 @@
       "bundleId": "com.google.Movies",
       "trackCensoredName": "Google TV: Watch Movies & TV",
       "trackViewUrl": "https://apps.apple.com/us/app/google-tv-watch-movies-tv/id746894884?uo=4",
-      "primaryGenreName": "Entertainment",
-      "primaryGenreId": 6016,
+      "averageUserRating": 4.29763,
+      "minimumOsVersion": "17.0",
+      "contentAdvisoryRating": "12+",
+      "releaseDate": "2014-01-15T21:29:12Z",
       "price": 0,
-      "genres": [
-        "Entertainment",
-        "Photo & Video"
-      ],
-      "userRatingCount": 4883,
+      "userRatingCount": 4892,
       "country": "USA"
     }
   ]

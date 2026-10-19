@@ -229,9 +229,7 @@
       "userRatingCount": 5451063
     },
     {
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/c2/dd/67c2dd9f-e3b0-379c-80d6-36ba2c6d6043/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/c2/dd/67c2dd9f-e3b0-379c-80d6-36ba2c6d6043/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
-      "artistViewUrl": "https://books.apple.com/us/developer/warnermedia-global-digital-services-llc/id300988148?uo=4",
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ef/ee/7b/efee7b9c-5a9c-336e-9582-5b30b50d4855/0_APP_IPHONE_67_0.jpg/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c2/c1/67/c2c1676a-f9d5-8db6-521f-2163e9019a6d/1_APP_IPHONE_67_1.jpg/320x480bb.jpg",
@@ -253,7 +251,19 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/c2/dd/67c2dd9f-e3b0-379c-80d6-36ba2c6d6043/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
+      "advisories": [
+        "Frequent/Intense Profanity or Crude Humor",
+        "Infrequent/Mild Medical/Treatment Information",
+        "Infrequent/Mild Mature/Suggestive Themes",
+        "Infrequent/Mild Sexual Content and Nudity",
+        "Frequent/Intense Horror/Fear Themes",
+        "Infrequent/Mild Cartoon or Fantasy Violence",
+        "Infrequent/Mild Realistic Violence",
+        "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -386,26 +396,13 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [
-        "Frequent/Intense Profanity or Crude Humor",
-        "Infrequent/Mild Medical/Treatment Information",
-        "Infrequent/Mild Mature/Suggestive Themes",
-        "Infrequent/Mild Sexual Content and Nudity",
-        "Frequent/Intense Horror/Fear Themes",
-        "Infrequent/Mild Cartoon or Fantasy Violence",
-        "Infrequent/Mild Realistic Violence",
-        "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References"
-      ],
       "kind": "software",
-      "features": [
-        "iosUniversal"
-      ],
-      "contentAdvisoryRating": "12+",
-      "trackCensoredName": "HBO Max: Stream Movies & TV",
-      "trackViewUrl": "https://apps.apple.com/us/app/hbo-max-stream-movies-tv/id1666653815?uo=4",
-      "minimumOsVersion": "16.4",
-      "averageUserRatingForCurrentVersion": 4.86929,
+      "artistViewUrl": "https://books.apple.com/us/developer/warnermedia-global-digital-services-llc/id300988148?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/c2/dd/67c2dd9f-e3b0-379c-80d6-36ba2c6d6043/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/c2/dd/67c2dd9f-e3b0-379c-80d6-36ba2c6d6043/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
+      "releaseNotes": "We’re back with even more bug fixes and performance improvements. To get the most out of your streaming experience, make sure your app is up-to-date.",
       "sellerUrl": "https://www.hbomax.com",
+      "averageUserRatingForCurrentVersion": 4.86928,
       "languageCodesISO2A": [
         "BG",
         "HR",
@@ -445,9 +442,9 @@
       ],
       "fileSizeBytes": "255614976",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 5775360,
+      "userRatingCountForCurrentVersion": 5798453,
       "trackContentRating": "12+",
-      "averageUserRating": 4.86929,
+      "minimumOsVersion": "16.4",
       "artistId": 300988148,
       "artistName": "WarnerMedia Global Digital Services, LLC",
       "genres": [
@@ -455,25 +452,28 @@
         "Lifestyle"
       ],
       "price": 0,
+      "sellerName": "WarnerMedia Global Digital Services, LLC",
       "trackId": 1666653815,
       "trackName": "HBO Max: Stream Movies & TV",
-      "releaseDate": "2023-05-22T07:00:00Z",
-      "sellerName": "WarnerMedia Global Digital Services, LLC",
-      "genreIds": [
-        "6016",
-        "6012"
-      ],
+      "bundleId": "com.wbd.stream",
       "isVppDeviceBasedLicensingEnabled": true,
-      "primaryGenreName": "Entertainment",
-      "primaryGenreId": 6016,
+      "releaseDate": "2023-05-22T07:00:00Z",
       "currentVersionReleaseDate": "2026-10-05T14:26:41Z",
       "version": "7.13.0",
       "wrapperType": "software",
       "currency": "USD",
       "description": "The most talked about shows and movies featuring the worlds of HBO, the DC Universe, Adult Swim, A24, and beyond.\n\nWith HBO Max you'll get:\n• Access to thousands of TV shows and movies.\n• Exclusive, award-winning series that everyone's talking about — like the HBO Originals The Last of Us, Succession, The White Lotus, and House of the Dragon.\n• The latest hits from HBO, Harry Potter, DC, Warner Bros., ID, Adult Swim, A24, and more.\n• Stream select live sports from your favorite leagues and teams. Availability varies by plan and by subscription provider.\n• Iconic favorite TV shows like Friends, Rick and Morty, Gossip Girl, 90 Day Fiancé, Looney Tunes, and more.\n• Family-friendly entertainment for the whole household.\n• Fascinating documentaries and true crime series.\n\nFeatures:\n• Enjoy your favorite shows and movies at home or on the go. HBO Max is available on select TV, web browser, mobile, tablet, and gaming console devices.  \n• Catch even more sports action with the live Multiview experience — stream up to 3 games at once during select events.\n• Browse or search with ease across HBO, movies, series, genres, and brands.\n• Download shows and movies you love to watch on the go with select plans. (Download limits vary by plan.)\n• Personalized profiles for the entire household with customizable ratings, profile PIN protection, and kid-proof exit.\n• Pick up episodes and movies where you left off across your favorite devices.\n• Keep up with everything you love, all in one place with My Stuff.\n• Watch on multiple devices at the same time. (Limits vary by plan.)\n• Stream with high-quality video and surround sound on select plans.\n\nContent and feature availability on HBO Max may vary by region. Some titles and features shown above may not be available in your country. Language availability varies by country.\n\nYou can manage or cancel your subscription by visiting Settings > Subscriptions in your HBO Max account. HBO Max is only available in certain territories.\n\nPurposes disclosed in the App Privacy label may vary based on features or services that may not be available in all regions. HBO Max is only available in certain territories.\n\nTerms of Use: https://hbomax.com/terms-of-use",
-      "bundleId": "com.wbd.stream",
-      "releaseNotes": "We’re back with even more bug fixes and performance improvements. To get the most out of your streaming experience, make sure your app is up-to-date.",
-      "userRatingCount": 5775360,
+      "trackCensoredName": "HBO Max: Stream Movies & TV",
+      "trackViewUrl": "https://apps.apple.com/us/app/hbo-max-stream-movies-tv/id1666653815?uo=4",
+      "contentAdvisoryRating": "12+",
+      "averageUserRating": 4.86928,
+      "genreIds": [
+        "6016",
+        "6012"
+      ],
+      "primaryGenreName": "Entertainment",
+      "primaryGenreId": 6016,
+      "userRatingCount": 5798453,
       "country": "USA"
     },
     {
@@ -493,7 +493,23 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/c2/dd/67c2dd9f-e3b0-379c-80d6-36ba2c6d6043/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "artistViewUrl": "https://books.apple.com/gb/developer/warnermedia-global-digital-services-llc/id300988148?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/c2/dd/67c2dd9f-e3b0-379c-80d6-36ba2c6d6043/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/c2/dd/67c2dd9f-e3b0-379c-80d6-36ba2c6d6043/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
+      "advisories": [
+        "Frequent/Intense Profanity or Crude Humour",
+        "Infrequent/Mild Medical/Treatment Information",
+        "Infrequent/Mild Mature/Suggestive Themes",
+        "Infrequent/Mild Sexual Content and Nudity",
+        "Frequent/Intense Horror/Fear Themes",
+        "Infrequent/Mild Cartoon or Fantasy Violence",
+        "Infrequent/Mild Realistic Violence",
+        "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References"
+      ],
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -626,24 +642,7 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [
-        "Frequent/Intense Profanity or Crude Humour",
-        "Infrequent/Mild Medical/Treatment Information",
-        "Infrequent/Mild Mature/Suggestive Themes",
-        "Infrequent/Mild Sexual Content and Nudity",
-        "Frequent/Intense Horror/Fear Themes",
-        "Infrequent/Mild Cartoon or Fantasy Violence",
-        "Infrequent/Mild Realistic Violence",
-        "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References"
-      ],
       "kind": "software",
-      "artistViewUrl": "https://books.apple.com/gb/developer/warnermedia-global-digital-services-llc/id300988148?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/c2/dd/67c2dd9f-e3b0-379c-80d6-36ba2c6d6043/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/c2/dd/67c2dd9f-e3b0-379c-80d6-36ba2c6d6043/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
-      "averageUserRatingForCurrentVersion": 4.81999,
       "sellerUrl": "https://www.hbomax.com",
       "languageCodesISO2A": [
         "BG",
@@ -684,59 +683,47 @@
       ],
       "fileSizeBytes": "255614976",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 52225,
+      "userRatingCountForCurrentVersion": 53588,
       "trackContentRating": "12+",
-      "releaseNotes": "We’re back with even more bug fixes and performance improvements. To get the most out of your streaming experience, make sure your app is up-to-date.",
+      "trackCensoredName": "HBO Max: Watch Movies & TV",
+      "trackViewUrl": "https://apps.apple.com/gb/app/hbo-max-watch-movies-tv/id1666653815?uo=4",
+      "contentAdvisoryRating": "12+",
+      "averageUserRatingForCurrentVersion": 4.82003,
+      "averageUserRating": 4.82003,
       "minimumOsVersion": "16.4",
-      "artistId": 300988148,
-      "artistName": "WarnerMedia Global Digital Services, LLC",
+      "price": 0,
       "genres": [
         "Entertainment",
         "Lifestyle"
       ],
-      "price": 0,
-      "genreIds": [
-        "6016",
-        "6012"
-      ],
+      "artistId": 300988148,
+      "artistName": "WarnerMedia Global Digital Services, LLC",
+      "sellerName": "WarnerMedia Global Digital Services, LLC",
+      "bundleId": "com.wbd.stream",
+      "currentVersionReleaseDate": "2026-10-05T14:26:41Z",
+      "primaryGenreName": "Entertainment",
+      "primaryGenreId": 6016,
       "trackId": 1666653815,
       "trackName": "HBO Max: Watch Movies & TV",
       "releaseDate": "2026-03-26T07:00:00Z",
-      "primaryGenreName": "Entertainment",
-      "primaryGenreId": 6016,
-      "sellerName": "WarnerMedia Global Digital Services, LLC",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-10-05T14:26:41Z",
+      "releaseNotes": "We’re back with even more bug fixes and performance improvements. To get the most out of your streaming experience, make sure your app is up-to-date.",
       "version": "7.13.0",
       "wrapperType": "software",
       "currency": "GBP",
       "description": "The most talked about shows and movies featuring the worlds of HBO, the DC Universe, Discovery, and beyond.  \n\nWith HBO Max you'll get:  \n• Access to thousands of TV shows and movies.  \n• Award-winning series that everyone's talking about — like the HBO Originals The Last of Us, Succession, The White Lotus, and House of the Dragon.  \n• Stream select live sports from some of your favorite events, leagues and teams. Availability varies by country or region, plan, and by subscription provider.  \n• Get access to TNT Sports with a TNT Sports plan. Enjoy live coverage of this season’s UEFA Champions League and Europa League matches, plus Premier League games. TNT Sports is only available in the UK.\n• The latest hits from HBO, Max Originals, Discovery, Cartoon Network, ID, DC, Adult Swim, and more. \n• Iconic favorite TV shows like Friends, Rick and Morty, 90 Day Fiancé, Looney Tunes, and more. \n• Family-friendly entertainment for the whole household. \n• Fascinating documentaries and unscripted series.  \n\nFeatures:  \n• Enjoy your favorite shows and movies at home or on the go. HBO Max is available on select TV, web browser, mobile, tablet, and gaming console devices. (Device availability may vary by country or region and by plan.)  \n• Browse or search with ease across HBO, movies, series, genres, and brands.  \n• Download shows and movies you love to watch offline with select plans. (Download limits vary by plan.)  \n• Create personalized profiles for the entire household complete with customizable ratings, and profile PIN protection options.  \n• Pick up episodes and movies where you left off on any of your favorite devices.  \n• Find everything you love, all in one place, with My Stuff.  \n• Watch on multiple devices at the same time. (Limits vary by plan.)  \n• Stream high-quality video up to 4K resolution and surround sound including Dolby Atmos (where available) on select plans. \n\nContent, sports and feature availability on HBO Max may vary by country, region, and/or by plan. Sports, where available, may in some countries require a separate add-on which must be added to a base plan. Some titles and features shown above may not be available in your country or region. Language availability varies by country and region. \n\nIn the UK & Republic of Ireland, channels, live content, replays and sports (where included in your plan) contain ads. All plans may contain sponsorship and Cross-Promotional Content. \n\nYou can manage or cancel your subscription by visiting Settings > Subscriptions in your HBO Max account. HBO Max is only available in certain territories. \n\nPurposes disclosed in the App Privacy label may vary based on features or services that may not be available in all countries or regions. HBO Max is only available in certain countries or regions.  \n\nTerms of Use: https://hbomax.com/terms-of-use/",
-      "averageUserRating": 4.81999,
-      "trackCensoredName": "HBO Max: Watch Movies & TV",
-      "trackViewUrl": "https://apps.apple.com/gb/app/hbo-max-watch-movies-tv/id1666653815?uo=4",
-      "contentAdvisoryRating": "12+",
-      "bundleId": "com.wbd.stream",
-      "userRatingCount": 52225,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "genreIds": [
+        "6016",
+        "6012"
+      ],
+      "userRatingCount": 53588,
       "country": "GBR"
     },
     {
-      "artistViewUrl": "https://books.apple.com/de/developer/warnermedia-global-digital-services-llc/id300988148?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/c2/dd/67c2dd9f-e3b0-379c-80d6-36ba2c6d6043/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/c2/dd/67c2dd9f-e3b0-379c-80d6-36ba2c6d6043/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c2/ec/e7/c2ece790-e13b-bd25-8aae-d5257cff9d83/0_APP_IPAD_PRO_3GEN_129_0.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a0/ed/49/a0ed49dc-05a6-485b-0c18-226fe4192211/1_APP_IPAD_PRO_3GEN_129_1.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5a/b9/a3/5ab9a3bd-201b-ec18-fe07-85ffe817310c/2_APP_IPAD_PRO_3GEN_129_2.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e6/c8/b4/e6c8b4dd-de8f-5e14-25fc-8798ed6b7e95/3_APP_IPAD_PRO_3GEN_129_3.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/44/82/4d/44824d60-8f15-f524-07b0-005247128394/4_APP_IPAD_PRO_3GEN_129_4.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ba/a8/d0/baa8d08f-681d-499e-4e0a-13cc11d1ad7d/5_APP_IPAD_PRO_3GEN_129_5.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/01/4d/63/014d636e-76a9-db62-9680-7105a0e6bb4e/6_APP_IPAD_PRO_3GEN_129_6.jpg/360x480bb.jpg"
-      ],
-      "appletvScreenshotUrls": [],
-      "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
       ],
+      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -880,7 +867,9 @@
         "Selten/schwach ausgeprägt: Gebrauch von Alkohol, Tabak oder Drogen bzw. Verweise hierzu"
       ],
       "kind": "software",
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/c2/dd/67c2dd9f-e3b0-379c-80d6-36ba2c6d6043/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "artistViewUrl": "https://books.apple.com/de/developer/warnermedia-global-digital-services-llc/id300988148?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/c2/dd/67c2dd9f-e3b0-379c-80d6-36ba2c6d6043/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/c2/dd/67c2dd9f-e3b0-379c-80d6-36ba2c6d6043/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d8/94/21/d89421b5-6f0b-6145-4cbb-4c885c5152fb/0_APP_IPHONE_67_0.jpg/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/43/b0/b6/43b0b645-6d09-f2e2-26e2-5fcf3b587ffe/1_APP_IPHONE_67_1.jpg/320x480bb.jpg",
@@ -890,15 +879,31 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7d/8c/79/7d8c7999-1c73-f7d2-8c22-33d6f613b73d/5_APP_IPHONE_67_5.jpg/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2b/d0/3e/2bd03ee3-3ba3-2c77-b118-aa9788932c0f/6_APP_IPHONE_67_6.jpg/320x480bb.jpg"
       ],
-      "contentAdvisoryRating": "12+",
-      "averageUserRating": 4.77249,
-      "artistName": "WarnerMedia Global Digital Services, LLC",
-      "artistId": 300988148,
-      "price": 0,
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c2/ec/e7/c2ece790-e13b-bd25-8aae-d5257cff9d83/0_APP_IPAD_PRO_3GEN_129_0.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a0/ed/49/a0ed49dc-05a6-485b-0c18-226fe4192211/1_APP_IPAD_PRO_3GEN_129_1.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5a/b9/a3/5ab9a3bd-201b-ec18-fe07-85ffe817310c/2_APP_IPAD_PRO_3GEN_129_2.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e6/c8/b4/e6c8b4dd-de8f-5e14-25fc-8798ed6b7e95/3_APP_IPAD_PRO_3GEN_129_3.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/44/82/4d/44824d60-8f15-f524-07b0-005247128394/4_APP_IPAD_PRO_3GEN_129_4.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ba/a8/d0/baa8d08f-681d-499e-4e0a-13cc11d1ad7d/5_APP_IPAD_PRO_3GEN_129_5.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/01/4d/63/014d636e-76a9-db62-9680-7105a0e6bb4e/6_APP_IPAD_PRO_3GEN_129_6.jpg/360x480bb.jpg"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/c2/dd/67c2dd9f-e3b0-379c-80d6-36ba2c6d6043/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "minimumOsVersion": "16.4",
+      "currentVersionReleaseDate": "2026-10-05T14:26:41Z",
       "genres": [
         "Unterhaltung",
         "Lifestyle"
       ],
+      "price": 0,
+      "artistId": 300988148,
+      "artistName": "WarnerMedia Global Digital Services, LLC",
+      "trackId": 1666653815,
+      "trackName": "HBO Max: Filme und Serien",
+      "bundleId": "com.wbd.stream",
+      "releaseNotes": "Wir haben weitere Fehlerkorrekturen und Leistungsoptimierungen vorgenommen. Aktualisiere deine App für das beste Streaming-Erlebnis.",
+      "releaseDate": "2026-01-12T08:00:00Z",
       "genreIds": [
         "6016",
         "6012"
@@ -906,22 +911,11 @@
       "primaryGenreName": "Entertainment",
       "primaryGenreId": 6016,
       "sellerName": "WarnerMedia Global Digital Services, LLC",
-      "releaseDate": "2026-01-12T08:00:00Z",
-      "trackId": 1666653815,
-      "trackName": "HBO Max: Filme und Serien",
       "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-10-05T14:26:41Z",
-      "releaseNotes": "Wir haben weitere Fehlerkorrekturen und Leistungsoptimierungen vorgenommen. Aktualisiere deine App für das beste Streaming-Erlebnis.",
       "version": "7.13.0",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Du bekommst nicht genug von legendären Filmen und Serien?\n\nMit HBO Max bekommst du jede Menge Entertainment – darunter: \n• Tausende ikonische Serien und Filme sowie aktuelle Highlights von HBO, Max Originals, Warner Bros., Discovery, Cartoon Network, DC, Adult Swim und mehr. \n• Exklusive deutsche Originals wie 4 Blocks.\n• Preisgekrönte Titel, über die die ganze Welt spricht – einschließlich beliebter HBO Originals wie The Last of Us, Succession, The White Lotus und House of the Dragon. \n• Serien mit Kultstatus wie Friends, Rick and Morty, 90 Day Fiancé, Looney Tunes und mehr. \n• Ausgewählte Live-Übertragungen deiner liebsten Sportarten, Ligen und Mannschaften.* \n• Familienfreundliche Unterhaltung, spannende Dokumentationen und Shows, die das wahre Leben schreibt. \n\nDie wichtigsten Funktionen im Überblick: \n• Genieße deine Lieblingstitel oder entdecke neue Favoriten – egal ob zu Hause oder unterwegs. Streame auf deinen Lieblingsgeräten und schaue überall genau da weiter, wo du aufgehört hast.** \n• Erstelle personalisierte Profile für deinen gesamten Haushalt und stelle Optionen zum Schutz des Profils (z.B. Altersfreigaben) individuell ein. \n• Erstelle deine persönliche Watchlist und speichere deine Favoriten und andere interessante Titel für später.\n• Lade Filme und einzelne Episoden herunter für dein Entertainment-to-go.*** \n• Streame auf mehreren Geräten gleichzeitig.***\n• Streame qualitativ hochwertige Videos in 4K-Auflösung und mit Surround Sound wie Dolby Atmos.***\n\n* Verfügbarkeit variiert je nach Land/Region, Tarif und Anbieter.\n** HBO Max ist für ausgewählte Fernseher, Webbrowser, Mobilgeräte, Tablets und Spielkonsolen verfügbar. Verfügbarkeit variiert je nach Land/Region und Tarif.\n*** Limits und Verfügbarkeiten variieren je nach Tarif.\n\nDie hier aufgeführten Programme und Inhalte stellen eine Auswahl der derzeit auf HBO Max verfügbaren Inhalte dar. Inhalte auf HBO Max können mit der Zeit Änderungen unterliegen. \n\nDie Verfügbarkeit von Inhalten, Sportprogrammen und Funktionen auf HBO Max kann je nach Land oder Region variieren. Sportprogramme erfordern in einigen Ländern möglicherweise ein separates Add-on, das zum Basistarif hinzugefügt werden muss. Möglicherweise sind oben aufgeführte Titel und Funktionen in deinem Land oder deiner Region nicht verfügbar. Die Verfügbarkeit von Sprachen variiert je nach Land und Region. \n\nDu kannst dein Abonnement in deinem HBO Max Profil unter „Abonnement“ verwalten oder kündigen. HBO Max ist nur in  ausgewählten Regionen verfügbar. \n\nDie in der App-Datenschutzerklärung angegebenen Zwecke können je nach Funktionen oder Diensten variieren und sind möglicherweise nicht in allen Ländern oder Regionen verfügbar. HBO Max ist nur in bestimmten Ländern oder Regionen verfügbar. \n\nNutzungsbedingungen: https://hbomax.com/terms-of-use/",
-      "bundleId": "com.wbd.stream",
-      "trackViewUrl": "https://apps.apple.com/de/app/hbo-max-filme-und-serien/id1666653815?uo=4",
-      "sellerUrl": "https://www.hbomax.com",
-      "averageUserRatingForCurrentVersion": 4.77249,
-      "minimumOsVersion": "16.4",
-      "trackCensoredName": "HBO Max: Filme und Serien",
       "languageCodesISO2A": [
         "BG",
         "HR",
@@ -961,9 +955,15 @@
       ],
       "fileSizeBytes": "255614976",
       "formattedPrice": "Gratis",
-      "userRatingCountForCurrentVersion": 30671,
+      "userRatingCountForCurrentVersion": 31381,
       "trackContentRating": "12+",
-      "userRatingCount": 30671,
+      "trackViewUrl": "https://apps.apple.com/de/app/hbo-max-filme-und-serien/id1666653815?uo=4",
+      "contentAdvisoryRating": "12+",
+      "averageUserRatingForCurrentVersion": 4.77282,
+      "sellerUrl": "https://www.hbomax.com",
+      "averageUserRating": 4.77282,
+      "trackCensoredName": "HBO Max: Filme und Serien",
+      "userRatingCount": 31381,
       "country": "DEU"
     }
   ]

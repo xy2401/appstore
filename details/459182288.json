@@ -251,13 +251,10 @@
       "userRatingCount": 226246
     },
     {
+      "isGameCenterEnabled": false,
+      "artistViewUrl": "https://apps.apple.com/us/developer/google/id281956209?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/bc/5a/75bc5a24-87ec-4c34-32d3-beeec5fbeb8e/logo_google_news_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-0-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/bc/5a/75bc5a24-87ec-4c34-32d3-beeec5fbeb8e/logo_google_news_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-0-0-85-220.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/us/developer/google/id281956209?uo=4",
-      "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -390,6 +387,9 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "features": [
+        "iosUniversal"
+      ],
       "advisories": [
         "Infrequent/Mild Medical/Treatment Information",
         "Infrequent/Mild Realistic Violence",
@@ -419,31 +419,26 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/bc/5a/75bc5a24-87ec-4c34-32d3-beeec5fbeb8e/logo_google_news_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-0-0-85-220.png/512x512bb.jpg",
-      "trackViewUrl": "https://apps.apple.com/us/app/google-news/id459182288?uo=4",
+      "minimumOsVersion": "17.0",
+      "releaseNotes": "· Bug fixes and performance improvements",
+      "averageUserRating": 4.57196,
       "contentAdvisoryRating": "12+",
       "trackCensoredName": "Google News",
-      "averageUserRating": 4.572,
-      "currentVersionReleaseDate": "2026-09-23T14:48:20Z",
-      "minimumOsVersion": "17.0",
-      "genreIds": [
-        "6009"
+      "trackViewUrl": "https://apps.apple.com/us/app/google-news/id459182288?uo=4",
+      "genres": [
+        "News"
       ],
-      "primaryGenreName": "News",
-      "primaryGenreId": 6009,
-      "price": 0,
-      "artistId": 281956209,
-      "artistName": "Google",
+      "releaseDate": "2011-12-08T20:27:43Z",
       "trackId": 459182288,
       "trackName": "Google News",
-      "releaseNotes": "· Bug fixes and performance improvements",
       "bundleId": "com.google.GoogleDigitalEditions",
-      "releaseDate": "2011-12-08T20:27:43Z",
-      "sellerName": "Google LLC",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-09-23T14:48:20Z",
       "version": "5.122",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Google News is a personalized news aggregator that organizes and highlights what’s happening in the world so you can quickly catch up and discover more about the stories that matter to you.\n\nWith Google News, you’ll find:\n\nYOUR BRIEFING: It can be nearly impossible to keep up with every story you care about, Your Briefing makes it easy to stay in the know about what’s important and relevant in your world. It updates throughout the day to bring you the top local, national, and world headlines, plus personalized news tailored to your interests.\n\nLOCAL NEWS: Explore your community through stories and articles from news outlets in your local area. Customize and choose multiple locations so you can know what’s happening near you or wherever home is.\n\nFULL COVERAGE: Dive deeper into a story with multiple perspectives. The Full Coverage feature organizes everything online about a story, surfacing and highlighting coverage from different outlets and mediums. With just a tap, you’ll uncover how the story is unfolding and how everyone is reporting on it.\n\nSTORIES FOR YOU: The For You section delivers personalized news related to your interests. Take control and customize the articles you see by following the topics and sources you care about.\n\nACCESS FROM ANY DEVICE: Stay up to date on the news no matter where you are. Pair the Google News mobile app with our Desktop website, news.google.com, and enjoy your personalized content across all your devices.",
-      "averageUserRatingForCurrentVersion": 4.572,
+      "averageUserRatingForCurrentVersion": 4.57196,
       "sellerUrl": "https://news.google.com/about/",
       "languageCodesISO2A": [
         "AF",
@@ -494,13 +489,18 @@
       ],
       "fileSizeBytes": "180182016",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 226163,
+      "userRatingCountForCurrentVersion": 226172,
       "trackContentRating": "12+",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "genres": [
-        "News"
+      "primaryGenreName": "News",
+      "primaryGenreId": 6009,
+      "sellerName": "Google LLC",
+      "genreIds": [
+        "6009"
       ],
-      "userRatingCount": 226163,
+      "price": 0,
+      "artistId": 281956209,
+      "artistName": "Google",
+      "userRatingCount": 226172,
       "country": "USA"
     }
   ]

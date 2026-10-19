@@ -3,6 +3,10 @@
   "results": [
     {
       "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
+      "advisories": [],
       "supportedDevices": [
         "MacDesktop-MacDesktop",
         "iPhone5s-iPhone5s",
@@ -137,6 +141,9 @@
         "iPhoneDuo-iPhoneDuo"
       ],
       "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/jp/developer/nobukai-kijima/id6775343937?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/61/fe/28/61fe28aa-0d29-c804-e5d9-888bd65e2eb8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/61/fe/28/61fe28aa-0d29-c804-e5d9-888bd65e2eb8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/02/8f/ef/028fefe5-bb32-fd94-4968-c405cab41a85/_U30b9_U30c8_U30a2_U7533_U8acb_U7528_Uff08iPhone_Uff09.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bc/cf/e1/bccfe138-cd4e-1ba2-946a-398a2cf68b75/2.png/320x480bb.jpg",
@@ -158,53 +165,46 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/53/6d/6f/536d6fe4-500d-becf-9c8f-46af1c36a2c5/6.png/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/61/fe/28/61fe28aa-0d29-c804-e5d9-888bd65e2eb8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/61/fe/28/61fe28aa-0d29-c804-e5d9-888bd65e2eb8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/61/fe/28/61fe28aa-0d29-c804-e5d9-888bd65e2eb8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/jp/developer/nobukai-kijima/id6775343937?uo=4",
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [],
-      "minimumOsVersion": "26.0",
+      "releaseNotes": "新機能\n・iPhone/iPad で、ブロックを編集中に「種別バー」が出るようになりました。\n・外部キーボードをつないだ iPad で、Mac と同じキーボードショートカットが使えるようになりました。\n・⌥（option）＋←→ でブロックの種別を切り替えられるようになりました（Mac・iPad）。\n\n改善\n・「使い方」を設定の中からメニューへ移動し、開きやすくしました。\n\n不具合修正\n・Mac で「使い方」の画面が画面外にはみ出すことがある問題を修正しました。\n・起動時に iCloud の読み込みが何度も入り、ブロックの選択が外れてしまう問題を修正しました。",
       "artistId": 6775343937,
       "artistName": "Nobukai Kijima",
       "genres": [
         "仕事効率化",
         "ライフスタイル"
       ],
+      "price": 900,
+      "primaryGenreName": "Productivity",
+      "primaryGenreId": 6007,
+      "bundleId": "com.dougattch.hitomaku.Hitomaku",
+      "releaseDate": "2026-06-05T07:00:00Z",
       "trackId": 6775343935,
       "trackName": "ひとまく - 脚本・シナリオ執筆・制作管理",
-      "releaseDate": "2026-06-05T07:00:00Z",
       "genreIds": [
         "6007",
         "6012"
       ],
-      "primaryGenreName": "Productivity",
-      "primaryGenreId": 6007,
-      "sellerName": "Nobukai Kijima",
       "isVppDeviceBasedLicensingEnabled": true,
-      "releaseNotes": "新機能\n・iPhone/iPad で、ブロックを編集中に「種別バー」が出るようになりました。\n・外部キーボードをつないだ iPad で、Mac と同じキーボードショートカットが使えるようになりました。\n・⌥（option）＋←→ でブロックの種別を切り替えられるようになりました（Mac・iPad）。\n\n改善\n・「使い方」を設定の中からメニューへ移動し、開きやすくしました。\n\n不具合修正\n・Mac で「使い方」の画面が画面外にはみ出すことがある問題を修正しました。\n・起動時に iCloud の読み込みが何度も入り、ブロックの選択が外れてしまう問題を修正しました。",
+      "currentVersionReleaseDate": "2026-10-11T04:14:02Z",
       "version": "1.8.0",
       "wrapperType": "software",
       "currency": "JPY",
       "description": "「ひとまく」は、脚本の執筆と映像制作の準備を一つにまとめた、シナリオライターと映像制作者のためのアプリです。\n\n書くことに集中できるシンプルなエディタと、制作に必要な情報整理の機能を、iPhone・iPad・Mac で快適に使えます。\n\n■ 脚本エディタ\n・シーン見出し／ト書き／キャラクター／括弧書き／セリフ／転換に加え、ナレーション・モノローグ・字幕を含む標準種別で、業界標準の体裁に沿った脚本を作成\n・独自のブロック種別（カスタム種別）を色付きで追加でき、標準種別の表示名も変更できます（例：シーン見出し→柱）\n・Mac 版は縦書き・横書きを切り替えて執筆できます\n・キーボードショートカットに対応（Mac と、外部キーボードをつないだ iPad）。ブロックの移動・種別切替・保存・検索・タブ切替などをキーボードだけで操作できます\n・iPhone/iPad は編集中に種別バーが出て、ブロックの種類をタップ1回で変更できます（iPad 横向きは画面右に表示）\n・ページ数の目安（約◯分）をリアルタイム表示\n・しおり：脚本の好きな位置にしおりを付けて、上部のしおりバーからすぐにその場所へジャンプ（しおりごとにメモも残せます）\n・前回の続きから：作品を開くと、前回編集していた位置から書き始められます\n・テーマ・文字色：執筆画面の背景テーマと文字色を選んで、好みの見た目で執筆できます\n\n■ 脚本の PDF 出力\n・用紙（A4／B5）と向き、縦書き／横書き、余白、1 行（縦書きは 1 列）の文字数、行数（列数）、行間、柱（シーン見出し）の枠の有無を指定して出力\n・ページ番号の位置（なし／下・中央／下・右／上・右）、ヘッダー（作品名）の有無、表紙の有無を指定でき、コンクールの募集要項に合わせた体裁で出力可能\n・縦書きは原稿用紙の体裁で出力。指定した「一列の文字数×一ページの列数」のマス目どおりに組まれます（20字×20列＝400字詰など）\n・縦書きは本文上端の罫線（天罫）の有無を選択でき、シーン番号は柱の枠内に表示\n・推定ページ数・上映時間は実際の PDF 出力と一致するため、コンクールの枚数規定の確認に使えます\n・出力設定に「出力サンプル」を表示。設定を変えるたびに紙面のイメージが更新され、「この書式で約◯枚」と枚数の目安も確認できます\n・提出先に合わせたプリセット（業界標準・原稿用紙風・コンクール標準ほか）を用意\n・設定に応じてページ数・上映時間の目安も連動\n\n■ キャラクター相関図\n・登場人物どうしの関係を図で表示・編集\n・関係性（親子・恋人など）と向きを指定して可視化\n・相関図を PDF で出力\n\n■ バージョン管理\n・執筆の節目でバージョンを保存\n・過去のバージョンとの差分を表示（追加・変更・削除を色分け）\n・いつでも過去の稿に復元\n\n■ 登場人物\n・名前・年齢・性別・性格・生い立ち・価値観・人間関係などのプロフィールを管理\n・キャラクター資料を PDF で出力\n\n■ キャラクターと脚本の紐付け\n・登場人物に「略称」を設定し、脚本のキャラクター名と紐付け\n・略称を変えれば、紐付けた脚本中の表記も一括で変更\n・「山田」「山田太郎」などの表記ゆれも、同じ人物に紐付ければ香盤表・統計で1人にまとまります\n\n■ 企画メモ\n・タイトル・ジャンル・テーマ・あらすじ・制作メモを整理\n・企画書として PDF 出力\n\n■ 香盤表\n・脚本のシーン見出しから、シーンとキャストを自動抽出\n・「シーン×役者」のマトリクスと「撮影日程」表示を切り替え\n・撮影日・開始/終了時刻はカレンダー・時計から入力可能\n・香盤表を PDF 出力\n\n■ ショットリスト\n・各シーンで撮り忘れやすいカットの候補を、脚本から自動で作成\n・各カットを「撮る／撮らない／未確認」で記録し、撮影前のチェックに\n・メモや独自カットの追加、撮影日での絞り込みにも対応\n・チェック用紙として PDF 出力\n・進捗率や達成率ではなく、あくまで見落としを防ぐ補助ツールです\n\n■ カット割り（絵コンテシート）\n・シーンを時系列でカットに分割。カット番号（1-1、1-2…）は自動採番\n・各カットにアングル・カメラワーク・尺などの演出メモを記録\n・手書き用の「絵コンテシート」を PDF 出力（左が画を描く空欄、右にカット番号・セリフ・ト書き・メモ）\n・A4 縦／横、1 ページのコマ数（3／4／5）、シーン単位／全シーン通しを選べます\n・脚本を書き替えてもカットの区切りは自動で追従します\n\n■ キャスト・スタッフ\n・配役（役名→俳優名）とスタッフ（役割→担当者）を管理\n・脚本から登場人物を一括抽出\n・一覧を PDF 出力\n\n■ 執筆の記録（統計）\n・文字数・ページ数・執筆時間を記録\n・週次推移、執筆時間帯、連続記録（ストリーク）、目標達成度を可視化\n\n■ 脚本の検索\n・作品をまたいで、セリフ・シーン名・キャラクター名などをすばやく検索\n・シーン見出し／ト書き／セリフなど、探したいブロックの種類で絞り込み\n・大文字小文字・全角半角の違いを気にせず検索\n・結果をタップすると、その作品の該当箇所へジャンプ\n\n■ iCloud 同期\n・同じ Apple アカウントの iPhone・iPad・Mac で作品データを自動同期\n・「この端末のみ」と「iCloud で同期」を設定で切り替え\n・オフラインでも編集でき、オンライン復帰後に同期\n\n■ プライバシー\n・作品データは端末内、または iCloud（あなた自身の領域）にのみ保存\n・外部サーバーへの送信や、行動のトラッキングは一切行いません\n\n脚本のひと幕から、作品づくりのすべてを。",
-      "averageUserRatingForCurrentVersion": 4.42856,
       "averageUserRating": 4.42856,
       "trackCensoredName": "ひとまく - 脚本・シナリオ執筆・制作管理",
+      "trackViewUrl": "https://apps.apple.com/jp/app/%E3%81%B2%E3%81%A8%E3%81%BE%E3%81%8F-%E8%84%9A%E6%9C%AC-%E3%82%B7%E3%83%8A%E3%83%AA%E3%82%AA%E5%9F%B7%E7%AD%86-%E5%88%B6%E4%BD%9C%E7%AE%A1%E7%90%86/id6775343935?uo=4",
+      "contentAdvisoryRating": "4+",
+      "minimumOsVersion": "26.0",
+      "averageUserRatingForCurrentVersion": 4.42856,
       "languageCodesISO2A": [
         "EN",
         "JA"
       ],
       "fileSizeBytes": "3733504",
       "formattedPrice": "¥900",
-      "contentAdvisoryRating": "4+",
       "userRatingCountForCurrentVersion": 7,
-      "trackViewUrl": "https://apps.apple.com/jp/app/%E3%81%B2%E3%81%A8%E3%81%BE%E3%81%8F-%E8%84%9A%E6%9C%AC-%E3%82%B7%E3%83%8A%E3%83%AA%E3%82%AA%E5%9F%B7%E7%AD%86-%E5%88%B6%E4%BD%9C%E7%AE%A1%E7%90%86/id6775343935?uo=4",
       "trackContentRating": "4+",
-      "bundleId": "com.dougattch.hitomaku.Hitomaku",
-      "currentVersionReleaseDate": "2026-10-11T04:14:02Z",
-      "price": 900,
+      "sellerName": "Nobukai Kijima",
       "userRatingCount": 7,
       "country": "JPN"
     }

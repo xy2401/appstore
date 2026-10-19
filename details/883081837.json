@@ -200,10 +200,11 @@
       "country": "DEU"
     },
     {
-      "artistViewUrl": "https://apps.apple.com/fr/developer/daeo-corp-software/id440991527?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/01/21/bd/0121bd92-576a-a45f-a131-34fd0b745546/AppIcon-0-0-1x_U007epad-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/01/21/bd/0121bd92-576a-a45f-a131-34fd0b745546/AppIcon-0-0-1x_U007epad-0-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
+      "advisories": [],
       "supportedDevices": [
         "MacDesktop-MacDesktop",
         "iPhone5s-iPhone5s",
@@ -338,27 +339,22 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
       "kind": "software",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/b9/fe/25/b9fe250a-ed30-2a03-043c-4dc2681b68c0/33dc2784-c4fb-48f1-bd5f-5e287bbb5db1_1344@3x.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/79/d6/3d/79d63da1-95ec-390d-defc-41e3d580d5a6/a686fdc8-f177-4c2e-820b-520c277ee9d6_1345@3x.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/aa/f9/eb/aaf9ebf1-f716-5d5e-8dd0-9522023e8127/b23f3077-442e-4514-a833-31a61ce26c10_1346@3x.jpg/392x696bb.jpg"
-      ],
+      "artistViewUrl": "https://apps.apple.com/fr/developer/daeo-corp-software/id440991527?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/01/21/bd/0121bd92-576a-a45f-a131-34fd0b745546/AppIcon-0-0-1x_U007epad-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/01/21/bd/0121bd92-576a-a45f-a131-34fd0b745546/AppIcon-0-0-1x_U007epad-0-85-220.png/100x100bb.jpg",
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/01/21/bd/0121bd92-576a-a45f-a131-34fd0b745546/AppIcon-0-0-1x_U007epad-0-85-220.png/512x512bb.jpg",
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/59/71/87/59718720-0b0b-1275-bf98-556bcfd669fc/fffacc58-23e8-4e0a-af1c-66e28a885a47_Frame_26.jpg/576x768bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/69/71/e9/6971e9be-7b45-76ce-dbd7-eecb6b16a02a/b5252675-1863-4941-8aa9-76eddb3505b5_Frame_25.jpg/576x768bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/79/0e/61/790e61c6-018d-ca93-f244-913f8b08c52a/a3479931-7dc2-4681-bab2-1e4664422fb8_Frame_24.jpg/576x768bb.jpg"
       ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/01/21/bd/0121bd92-576a-a45f-a131-34fd0b745546/AppIcon-0-0-1x_U007epad-0-85-220.png/512x512bb.jpg",
-      "features": [
-        "iosUniversal"
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/b9/fe/25/b9fe250a-ed30-2a03-043c-4dc2681b68c0/33dc2784-c4fb-48f1-bd5f-5e287bbb5db1_1344@3x.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/79/d6/3d/79d63da1-95ec-390d-defc-41e3d580d5a6/a686fdc8-f177-4c2e-820b-520c277ee9d6_1345@3x.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/aa/f9/eb/aaf9ebf1-f716-5d5e-8dd0-9522023e8127/b23f3077-442e-4514-a833-31a61ce26c10_1346@3x.jpg/392x696bb.jpg"
       ],
-      "averageUserRating": 5,
-      "trackCensoredName": "OffOf",
-      "trackViewUrl": "https://apps.apple.com/fr/app/offof/id883081837?uo=4",
-      "contentAdvisoryRating": "4+",
       "artistId": 440991527,
       "artistName": "Daeo Corp. Software",
       "genres": [
@@ -366,25 +362,27 @@
         "Productivité"
       ],
       "price": 0.99,
-      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Fixed a bug that stopped background music from playing when typing on the OffOf calculator\n- Better visuals for the iPhone Mini\n- Faster typing",
+      "sellerName": "Daeo Corp. Software",
+      "bundleId": "com.drewwilson.OffOf",
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
       "trackId": 883081837,
       "trackName": "OffOf",
+      "releaseNotes": "This app has been updated by Apple to prepare for watchOS 27 compatibility. No new features are included.\n\n- Fixed a bug that stopped background music from playing when typing on the OffOf calculator\n- Better visuals for the iPhone Mini\n- Faster typing",
       "genreIds": [
         "6002",
         "6007"
       ],
       "isVppDeviceBasedLicensingEnabled": true,
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
-      "sellerName": "Daeo Corp. Software",
       "releaseDate": "2014-06-04T02:33:08Z",
       "currentVersionReleaseDate": "2024-02-18T12:45:32Z",
       "version": "2.0.1",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "A beautiful percentage calculator.\n\nOffOf helps you calculate to percentage OFF of a particular number, and the percentage OF a particular number.\n\nOffOf is NOT a full calculator. Your device already comes with a great calculator. OffOf is a Percentage Calculator ONLY.\n\n• 35% OFF\nInstantly know how much you're going to spend while shopping. What is the cost of that $18.99 t-shirt when its 35% off? OffOf makes it easy to calculate. \nSimply enter 35% as the \"Percentage\" and 18.99 as the \"Amount\" and OffOf will show you how much you'll be spending after the discount.\n\n• 16% OF\nWhat is 16% of 2,458? OffOf will get you that answer instantly. Just enter 16% as the \"Percentage\" and 2,458 as the \"Amount\" and you'll know right away.\n\n• Real, satisfying mechanical keyboard sounds\n\n• Delightful haptic feedback on button presses and more",
-      "averageUserRatingForCurrentVersion": 5,
-      "sellerUrl": "http://drewwilson.com",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 5,
+      "minimumOsVersion": "17.2",
       "languageCodesISO2A": [
         "EN"
       ],
@@ -392,8 +390,10 @@
       "formattedPrice": "0,99 €",
       "userRatingCountForCurrentVersion": 2,
       "trackContentRating": "4+",
-      "minimumOsVersion": "17.2",
-      "bundleId": "com.drewwilson.OffOf",
+      "averageUserRatingForCurrentVersion": 5,
+      "trackCensoredName": "OffOf",
+      "trackViewUrl": "https://apps.apple.com/fr/app/offof/id883081837?uo=4",
+      "sellerUrl": "http://drewwilson.com",
       "userRatingCount": 2,
       "country": "FRA"
     },

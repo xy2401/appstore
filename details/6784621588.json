@@ -2,7 +2,6 @@
   "resultCount": 1,
   "results": [
     {
-      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a4/73/0e/a4730ef5-ebbc-f7e1-993e-92b65215a782/IMG_3838.jpeg/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/61/da/52/61da52d4-2576-ddbc-6b66-5b24665d203d/IMG_3839.jpeg/320x480bb.jpg",
@@ -22,10 +21,8 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c2/39/b2/c239b270-60c0-aa27-c71d-f924d15e2cd2/IMG_3844.jpg/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/db/7a/5bdb7ae3-346c-11e5-5deb-a49f4959b2b3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/db/7a/5bdb7ae3-346c-11e5-5deb-a49f4959b2b3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/db/7a/5bdb7ae3-346c-11e5-5deb-a49f4959b2b3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/de/developer/fatih-onder/id6776188512?uo=4",
+      "isGameCenterEnabled": false,
       "supportedDevices": [
         "MacDesktop-MacDesktop",
         "iPhone5s-iPhone5s",
@@ -162,12 +159,14 @@
       ],
       "advisories": [],
       "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/de/developer/fatih-onder/id6776188512?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/db/7a/5bdb7ae3-346c-11e5-5deb-a49f4959b2b3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/db/7a/5bdb7ae3-346c-11e5-5deb-a49f4959b2b3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
       "features": [
         "iosUniversal"
       ],
-      "sellerUrl": "https://digivoice.algsoft.net.tr/",
-      "averageUserRating": 4.23076,
-      "trackCensoredName": "Digi Voices",
+      "releaseNotes": "EchoLink Added (Conferences, Repeaters, Links, Locations, Stations)\nBug Fixes\nDesign Improvements\nDMR Audio Quality Improved\nSetup Wizard Added\nStation Tracking Added\nFavorite Servers Added\nDMR ADN, DMR+, XLX, RPTO\nServer Addition Field Added for DMR\nAccessibility Support Added (VoiceOver for Visually Impaired Users)",
+      "averageUserRatingForCurrentVersion": 4.23076,
       "languageCodesISO2A": [
         "AR",
         "AZ",
@@ -205,35 +204,36 @@
       ],
       "fileSizeBytes": "18741248",
       "formattedPrice": "5,99 €",
-      "contentAdvisoryRating": "4+",
       "userRatingCountForCurrentVersion": 13,
-      "trackViewUrl": "https://apps.apple.com/de/app/digi-voices/id6784621588?uo=4",
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.23076,
-      "minimumOsVersion": "17.0",
+      "sellerUrl": "https://digivoice.algsoft.net.tr/",
       "artistId": 6776188512,
       "artistName": "Fatih ONDER",
+      "genres": [
+        "Dienst­programme"
+      ],
       "price": 5.99,
-      "sellerName": "Fatih ONDER",
+      "bundleId": "com.alg.dmrvoice",
       "primaryGenreName": "Utilities",
       "primaryGenreId": 6002,
-      "trackName": "Digi Voices",
-      "trackId": 6784621588,
-      "currentVersionReleaseDate": "2026-10-06T19:05:54Z",
+      "sellerName": "Fatih ONDER",
       "genreIds": [
         "6002"
       ],
-      "releaseNotes": "EchoLink Added (Conferences, Repeaters, Links, Locations, Stations)\nBug Fixes\nDesign Improvements\nDMR Audio Quality Improved\nSetup Wizard Added\nStation Tracking Added\nFavorite Servers Added\nDMR ADN, DMR+, XLX, RPTO\nServer Addition Field Added for DMR\nAccessibility Support Added (VoiceOver for Visually Impaired Users)",
+      "releaseDate": "2026-07-02T07:00:00Z",
+      "trackName": "Digi Voices",
+      "trackId": 6784621588,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-10-06T19:05:54Z",
       "version": "1.0.9",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Digi Voice is a comprehensive digital radio client designed for licensed amateur radio operators, offering multi-protocol digital voice communication on iPhone, iPad, Mac, and Apple Watch.\n\nWith professional-grade audio processing and a clean, modern interface, connect directly to popular digital radio networks and access points from your Apple device.\n\nSUPPORTED PROTOCOLS\n• DVPX - Digi Voice Protocol eXtended  (Active)\n• DMR (Brandmeister and compatible networks) and TGIF  (Active)\n• NXDN  (Active)\n• M17 — modern open-source digital radio (Active)\n• D-STAR (DCS repeaters) (Active)\n• P25 (Active)\n• YSF (Yaesu System Fusion) (Active)\n• EchoLink . (Active)\n• IAX2 / AllStar. (Active beta)\n\nKEY FEATURES\n• Push-to-talk (PTT) voice transmission\n• Advanced audio processing with AGC, VOX detection, and level monitoring\n• Real-time GPS location reporting with QTH Maidenhead grid locator\n• Automatic server list updates\n• Detailed event log viewer\n• Modern dark-theme interface\n• Universal app for iPhone, iPad, Mac, and Apple Watch\n• Digi APRS Beacon\n\nDESIGNED FOR AMATEUR RADIO\nDigi Voice is designed for licensed amateur radio operators. A valid amateur radio license and appropriate credentials for the networks you connect to are required. Please operate in accordance with your country’s regulations and the terms of the networks you use.\n\nWhether you’re at home or on the go, Digi Voice keeps you connected to the global digital radio community.\n\nNOTE: All data and passwords you enter into the app are stored on your own device. The app does not connect to ALGSoft or QRV73 servers.\nYour data, such as your call sign and DMR ID,\ndoes not include a built-in vocoder; users can install their own if they wish.\nCodec2 is open source.",
-      "bundleId": "com.alg.dmrvoice",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseDate": "2026-07-02T07:00:00Z",
-      "genres": [
-        "Dienst­programme"
-      ],
+      "minimumOsVersion": "17.0",
+      "trackCensoredName": "Digi Voices",
+      "trackViewUrl": "https://apps.apple.com/de/app/digi-voices/id6784621588?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.23076,
       "userRatingCount": 13,
       "country": "DEU"
     }

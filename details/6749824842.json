@@ -2,7 +2,6 @@
   "resultCount": 1,
   "results": [
     {
-      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1d/97/7d/1d977d1f-4509-e2c1-5831-116f859102e2/iPhone-01.jpg/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/90/3c/f0/903cf069-621c-ebb6-a278-db98b5646df0/iPhone-02.jpg/320x480bb.jpg",
@@ -24,10 +23,8 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/45/11/2f/45112fc7-2ee5-2906-a8cd-96f07fa8ea10/iPad-08.jpg/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/ff/14/e6ff1471-180c-be1c-edb9-e9e94acfcc96/Parachute-iOS-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/60x60bb.jpg",
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/ff/14/e6ff1471-180c-be1c-edb9-e9e94acfcc96/Parachute-iOS-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/ff/14/e6ff1471-180c-be1c-edb9-e9e94acfcc96/Parachute-iOS-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/de/developer/leitmotif-gmbh/id1627104008?uo=4",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/c7/a5/59c7a59c-de28-8cb0-8c0c-ac8d2e175057/Parachute-iOS-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -162,48 +159,51 @@
       ],
       "advisories": [],
       "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/de/developer/leitmotif-gmbh/id1627104008?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/c7/a5/59c7a59c-de28-8cb0-8c0c-ac8d2e175057/Parachute-iOS-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/c7/a5/59c7a59c-de28-8cb0-8c0c-ac8d2e175057/Parachute-iOS-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.jpg",
       "features": [
         "iosUniversal"
       ],
-      "averageUserRating": 4.35088,
-      "trackCensoredName": "Parachute Backup Mobile",
+      "releaseNotes": "• Files with custom access permissions are no longer left out of backups. Their copies in the Destination do not keep these custom permissions, so later backups can still update them.\n• Fixed a crash when an S3 endpoint contained spaces or line breaks, for example after pasting it.",
+      "averageUserRatingForCurrentVersion": 4.36207,
       "languageCodesISO2A": [
         "EN"
       ],
-      "fileSizeBytes": "18847744",
+      "fileSizeBytes": "18864128",
       "formattedPrice": "9,99 €",
-      "contentAdvisoryRating": "4+",
-      "userRatingCountForCurrentVersion": 57,
-      "trackViewUrl": "https://apps.apple.com/de/app/parachute-backup-mobile/id6749824842?uo=4",
+      "userRatingCountForCurrentVersion": 58,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.35088,
-      "minimumOsVersion": "18.0",
       "artistId": 1627104008,
       "artistName": "Leitmotif GmbH",
-      "price": 9.99,
-      "sellerName": "Leitmotif GmbH",
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
-      "trackName": "Parachute Backup Mobile",
-      "trackId": 6749824842,
-      "currentVersionReleaseDate": "2026-10-10T08:23:42Z",
-      "genreIds": [
-        "6002",
-        "6008"
-      ],
-      "releaseNotes": "Parachute Backup is ready for iOS/iPadOS 27. This update fixes problems reported by users:\n• Copying to network shares now runs into “Path Too Long” errors far less often.\n• Files with custom access permissions (ACLs) now copy more reliably.",
-      "version": "1.9.6",
-      "wrapperType": "software",
-      "currency": "EUR",
-      "description": "Parachute is your backup companion for iCloud Photos and iCloud Drive. It backs up your memories — photos, videos, and documents — to storage you control, whether that’s an external drive, Google Drive, OneDrive, S3 Buckets, network drives/NAS, external hard drives and more. With Parachute, you get peace of mind and full ownership of your data, free from lock-in.\n\nYour Data, Your Way\n\t•\tBack up your entire iCloud Photos library (including Shared Albums) and folders from iCloud Drive.\n\t•\tPreserve originals in full resolution, all adjustment data, and the current edited versions.\n\t•\tWorks with USB drives, NAS/SMB/SFTP mounts, Google Drive, S3 Buckets, OneDrive, external hard drives and more\n\nKey Features\n\t•\tBackups can be triggered from the main screen to any of your backup destinations\n\t•\tAutomate backups with Shortcuts integration and Schedules\n\t•\tPrivacy-first: transfers handled via Apple’s Files extensions — your credentials never touch our app.\n\t•\tSupports full-quality media: Live Photos + videos, RAW images, bursts, edits, and slow motion.\n\nWhy It Matters\n\t•\tiCloud sync ≠ backup — deletions, expired storage, or sync errors can mean permanent loss.\n\t•\tParachute safeguards your digital life from accidents and disasters.\n\t•\tYour files are stored in normal folders you can browse and restore from directly — no special tools needed.\n\nOne time purchase. No Lock-In.\n\t•\tOne-time purchase unlocks all backup functionality — no recurring fees.\n\t•\tYour data stays in your storage, not ours.\n\t•\tNo accounts, no telemetry, no background bloat.\n\n\nFAQ Highlights\n\nQ: Does Parachute ever delete files from iCloud?\nA: Never. It’s strictly read-only.\n\nQ: Can I restore without Parachute?\nA: Yes. Backups are just normal folders — copy them back with Finder anytime.\n\nQ: What if a file is corrupted in iCloud?\nA: Parachute flags any unexportable items so you know exactly what couldn’t be saved.\n\nQ: Can it back up non-iCloud folders?\nA: Yes. Add any folder via the iOS/iPadOS file picker\n\nBy downloading Parachute Backup, you agree to Apple's Terms of Use (https://www.apple.com/legal/internet-services/itunes/dev/stdeula/) and our Privacy Policy (https://parachuteapps.com/privacy).",
-      "bundleId": "net.ericmann.parachute.Parachute-Backup",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseDate": "2025-08-14T07:00:00Z",
       "genres": [
         "Dienst­programme",
         "Foto und Video"
       ],
-      "userRatingCount": 57,
+      "price": 9.99,
+      "bundleId": "net.ericmann.parachute.Parachute-Backup",
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
+      "sellerName": "Leitmotif GmbH",
+      "genreIds": [
+        "6002",
+        "6008"
+      ],
+      "releaseDate": "2025-08-14T07:00:00Z",
+      "trackName": "Parachute Backup Mobile",
+      "trackId": 6749824842,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-10-16T20:09:55Z",
+      "version": "1.9.7",
+      "wrapperType": "software",
+      "currency": "EUR",
+      "description": "Parachute is your backup companion for iCloud Photos and iCloud Drive. It backs up your memories — photos, videos, and documents — to storage you control, whether that’s an external drive, Google Drive, OneDrive, S3 Buckets, network drives/NAS, external hard drives and more. With Parachute, you get peace of mind and full ownership of your data, free from lock-in.\n\nYour Data, Your Way\n\t•\tBack up your entire iCloud Photos library (including Shared Albums) and folders from iCloud Drive.\n\t•\tPreserve originals in full resolution, all adjustment data, and the current edited versions.\n\t•\tWorks with USB drives, NAS/SMB/SFTP mounts, Google Drive, S3 Buckets, OneDrive, external hard drives and more\n\nKey Features\n\t•\tBackups can be triggered from the main screen to any of your backup destinations\n\t•\tAutomate backups with Shortcuts integration and Schedules\n\t•\tPrivacy-first: transfers handled via Apple’s Files extensions — your credentials never touch our app.\n\t•\tSupports full-quality media: Live Photos + videos, RAW images, bursts, edits, and slow motion.\n\nWhy It Matters\n\t•\tiCloud sync ≠ backup — deletions, expired storage, or sync errors can mean permanent loss.\n\t•\tParachute safeguards your digital life from accidents and disasters.\n\t•\tYour files are stored in normal folders you can browse and restore from directly — no special tools needed.\n\nOne time purchase. No Lock-In.\n\t•\tOne-time purchase unlocks all backup functionality — no recurring fees.\n\t•\tYour data stays in your storage, not ours.\n\t•\tNo accounts, no telemetry, no background bloat.\n\n\nFAQ Highlights\n\nQ: Does Parachute ever delete files from iCloud?\nA: Never. It’s strictly read-only.\n\nQ: Can I restore without Parachute?\nA: Yes. Backups are just normal folders — copy them back with Finder anytime.\n\nQ: What if a file is corrupted in iCloud?\nA: Parachute flags any unexportable items so you know exactly what couldn’t be saved.\n\nQ: Can it back up non-iCloud folders?\nA: Yes. Add any folder via the iOS/iPadOS file picker\n\nBy downloading Parachute Backup, you agree to Apple's Terms of Use (https://www.apple.com/legal/internet-services/itunes/dev/stdeula/) and our Privacy Policy (https://parachuteapps.com/privacy).",
+      "minimumOsVersion": "18.0",
+      "trackCensoredName": "Parachute Backup Mobile",
+      "trackViewUrl": "https://apps.apple.com/de/app/parachute-backup-mobile/id6749824842?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.36207,
+      "userRatingCount": 58,
       "country": "DEU"
     }
   ]

@@ -192,6 +192,7 @@
       "userRatingCount": 210342
     },
     {
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5b/4a/84/5b4a840d-4d8d-0c31-524a-6d74c3bac1b1/APP_IPHONE_67-0.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4c/eb/93/4ceb936a-83d1-1e33-b72e-78f35708e0b1/APP_IPHONE_67-2.png/320x480bb.jpg",
@@ -207,10 +208,14 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/09/2f/85092ff1-ac10-445c-3371-aaf1175eec92/app_logo-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
+      "advisories": [],
+      "kind": "software",
+      "features": [
+        "iosUniversal"
+      ],
       "artistViewUrl": "https://apps.apple.com/us/developer/google/id281956209?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/09/2f/85092ff1-ac10-445c-3371-aaf1175eec92/app_logo-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/09/2f/85092ff1-ac10-445c-3371-aaf1175eec92/app_logo-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/100x100bb.jpg",
-      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -343,13 +348,6 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
-      "kind": "software",
-      "features": [
-        "iosUniversal"
-      ],
-      "minimumOsVersion": "17.0",
-      "averageUserRatingForCurrentVersion": 4.74587,
       "sellerUrl": "http://g.co/OpinionRewards",
       "languageCodesISO2A": [
         "EN",
@@ -358,21 +356,25 @@
       ],
       "fileSizeBytes": "93058048",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 210487,
+      "userRatingCountForCurrentVersion": 210526,
       "trackContentRating": "17+",
-      "contentAdvisoryRating": "17+",
-      "averageUserRating": 4.74587,
+      "averageUserRatingForCurrentVersion": 4.74579,
+      "genres": [
+        "Lifestyle",
+        "Utilities"
+      ],
       "artistId": 281956209,
       "artistName": "Google",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseDate": "2017-10-09T16:32:02Z",
-      "sellerName": "Google LLC",
-      "trackId": 1227019728,
-      "trackName": "Google Opinion Rewards",
       "genreIds": [
         "6012",
         "6002"
       ],
+      "trackId": 1227019728,
+      "trackName": "Google Opinion Rewards",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "Google LLC",
+      "primaryGenreName": "Lifestyle",
+      "primaryGenreId": 6012,
       "currentVersionReleaseDate": "2026-10-06T09:08:44Z",
       "releaseNotes": "Now available in France.",
       "version": "1.26.0928",
@@ -382,14 +384,12 @@
       "bundleId": "com.google.paidtasks",
       "trackCensoredName": "Google Opinion Rewards",
       "trackViewUrl": "https://apps.apple.com/us/app/google-opinion-rewards/id1227019728?uo=4",
-      "primaryGenreName": "Lifestyle",
-      "primaryGenreId": 6012,
+      "averageUserRating": 4.74579,
+      "minimumOsVersion": "17.0",
+      "contentAdvisoryRating": "17+",
+      "releaseDate": "2017-10-09T16:32:02Z",
       "price": 0,
-      "genres": [
-        "Lifestyle",
-        "Utilities"
-      ],
-      "userRatingCount": 210487,
+      "userRatingCount": 210526,
       "country": "USA"
     }
   ]

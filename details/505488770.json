@@ -2,11 +2,13 @@
   "resultCount": 1,
   "results": [
     {
-      "isGameCenterEnabled": false,
       "artistViewUrl": "https://apps.apple.com/fr/developer/direction-g%C3%A9n%C3%A9rale-des-finances-publiques/id505488773?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/50/a2/e250a25f-e9e9-f889-0e4f-500b279185fd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/50/a2/e250a25f-e9e9-f889-0e4f-500b279185fd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
-      "advisories": [],
+      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -139,7 +141,15 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "advisories": [],
       "kind": "software",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2b/29/8c/2b298cf4-1bee-00f9-1de5-55f75d579b59/cc54ae81-ed95-45ba-b610-c247b57d243a_apple-5.5pouces-01.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/73/ee/c7/73eec7e7-f81a-49fb-fd56-431e20e04a1e/febae372-ace2-4110-bd90-030e992a1eee_apple-5.5pouces-02.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ae/1d/8a/ae1d8afb-5ee7-1471-5350-bee9d42842b9/c47d3f9b-7c26-443e-b45e-0b524f5ea358_apple-5.5pouces-03.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/26/e2/14/26e214af-5a94-cbfc-7ca0-cfbaf92e8885/3f504a5d-a78f-464a-9c27-3831451e4f63_apple-5.5pouces-04.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/89/6a/16/896a16bb-d2a9-7a69-afe9-9df14a768c33/85f9e654-70f8-4e42-957d-79d8e3f279a3_apple-5.5pouces-05.png/392x696bb.png"
+      ],
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/9e/d1/7e9ed11e-4611-1f0c-593a-bc9afabb97cb/e8adb703-b073-490c-ab75-1bb0d06b0a7f_apple-10.5pouces-01.png/360x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d5/bf/7a/d5bf7a07-0074-58a3-d05d-e7a155d36ba8/e764c996-da60-4e41-b1e2-f8ef08a1a3f0_apple-10.5pouces-02.png/360x480bb.jpg",
@@ -149,53 +159,43 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/50/a2/e250a25f-e9e9-f889-0e4f-500b279185fd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2b/29/8c/2b298cf4-1bee-00f9-1de5-55f75d579b59/cc54ae81-ed95-45ba-b610-c247b57d243a_apple-5.5pouces-01.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/73/ee/c7/73eec7e7-f81a-49fb-fd56-431e20e04a1e/febae372-ace2-4110-bd90-030e992a1eee_apple-5.5pouces-02.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ae/1d/8a/ae1d8afb-5ee7-1471-5350-bee9d42842b9/c47d3f9b-7c26-443e-b45e-0b524f5ea358_apple-5.5pouces-03.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/26/e2/14/26e214af-5a94-cbfc-7ca0-cfbaf92e8885/3f504a5d-a78f-464a-9c27-3831451e4f63_apple-5.5pouces-04.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/89/6a/16/896a16bb-d2a9-7a69-afe9-9df14a768c33/85f9e654-70f8-4e42-957d-79d8e3f279a3_apple-5.5pouces-05.png/392x696bb.png"
-      ],
-      "features": [
-        "iosUniversal"
-      ],
-      "minimumOsVersion": "16.6",
       "trackCensoredName": "Impots.gouv",
       "trackViewUrl": "https://apps.apple.com/fr/app/impots-gouv/id505488770?uo=4",
+      "averageUserRating": 3.12028,
       "contentAdvisoryRating": "4+",
-      "averageUserRating": 3.12023,
+      "releaseNotes": "Cette version inclut divers correctifs sur le service \"Messagerie sécurisée\".",
       "genres": [
         "Finance"
       ],
-      "artistName": "Direction générale des Finances publiques",
       "price": 0,
       "artistId": 505488773,
-      "primaryGenreName": "Finance",
-      "primaryGenreId": 6015,
-      "sellerName": "Direction generale des finances publiques",
-      "releaseNotes": "Cette version inclut divers correctifs sur le service \"Messagerie sécurisée\".",
+      "artistName": "Direction générale des Finances publiques",
       "releaseDate": "2012-04-20T08:21:14Z",
+      "bundleId": "fr.gouv.finances.Impots-gouv",
       "genreIds": [
         "6015"
       ],
       "trackId": 505488770,
       "trackName": "Impots.gouv",
-      "currentVersionReleaseDate": "2026-10-08T04:32:36Z",
+      "primaryGenreName": "Finance",
+      "primaryGenreId": 6015,
+      "sellerName": "Direction generale des finances publiques",
       "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-10-08T04:32:36Z",
       "version": "7.8",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "L’application officielle de la Direction générale des Finances publiques.\n\nLES PRINCIPAUX SERVICES DE VOTRE ESPACE PARTICULIER :\n• Créez votre compte impots.gouv.fr directement depuis l’application ;\n• Connectez-vous à l’aide de FranceConnect ;\n• Consultez vos documents fiscaux des trois dernières années ;\n• Déclarez directement vos revenus pour les situations les plus simples ;\n• Accédez à votre messagerie sécurisée pour échanger avec l’administration fiscale ;\n• Prenez rendez-vous directement avec vos services gestionnaires ;\n• Payez vos factures et retrouvez vos factures récemment payées ;\n• Consultez vos contrats de prélèvement et adhérez au prélèvement mensuel ou à l’échéance ;\n• Localisez un service situé à proximité ;\n• Vérifiez vos taux et acomptes du mois pour le prélèvement à la source ;\n• Modifiez vos informations personnelles associées à votre compte impots.gouv.fr.\n\nLE PAIEMENT PAR FLASHCODE :\nPayez vos factures ou celles de vos proches à l’aide du flashcode imprimé sur celles-ci.\nL’AUTHENTIFICATION BIOMÉTRIQUE :\nMémorisez vos identifiants à l’aide du capteur biométrique (empreinte digitale ou reconnaissance faciale)\nde votre appareil mobile.\n\nLES NOTIFICATIONS :\nRecevez des notifications, dès la réception d’un nouveau document dans votre espace et pour suivre les\nactualités.\n\nFaites vos remarques, suggestions ou critiques à stap@dgfip.finances.gouv.fr",
-      "fileSizeBytes": "48435200",
-      "formattedPrice": "Gratuit",
-      "userRatingCountForCurrentVersion": 5498,
-      "trackContentRating": "4+",
+      "minimumOsVersion": "16.6",
       "languageCodesISO2A": [
         "FR"
       ],
-      "bundleId": "fr.gouv.finances.Impots-gouv",
-      "averageUserRatingForCurrentVersion": 3.12023,
-      "userRatingCount": 5498,
+      "fileSizeBytes": "48435200",
+      "formattedPrice": "Gratuit",
+      "userRatingCountForCurrentVersion": 5504,
+      "trackContentRating": "4+",
+      "averageUserRatingForCurrentVersion": 3.12028,
+      "userRatingCount": 5504,
       "country": "FRA"
     }
   ]

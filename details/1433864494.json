@@ -223,6 +223,7 @@
       "userRatingCount": 2173
     },
     {
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/8a/c7/1a/8ac71a76-4407-309f-2938-8a853b72b70d/91e652cd-cd76-4e72-ac2e-ed3e81f5eede_0iOS-5.5-in.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/b3/c8/e6/b3c8e6f4-ac59-b69e-a2ac-87fac2e19f0d/90630149-3c99-4a9f-95dc-8ecbed0604c8_1iOS-5.5-in.png/392x696bb.png",
@@ -233,10 +234,12 @@
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/30/53/63305358-3027-b185-0bad-c9b0e996785c/logo_gfit_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
+      "advisories": [],
+      "kind": "software",
+      "features": [],
       "artistViewUrl": "https://apps.apple.com/us/developer/google/id281956209?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/30/53/63305358-3027-b185-0bad-c9b0e996785c/logo_gfit_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/30/53/63305358-3027-b185-0bad-c9b0e996785c/logo_gfit_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/100x100bb.jpg",
-      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -369,11 +372,6 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
-      "kind": "software",
-      "features": [],
-      "minimumOsVersion": "16.0",
-      "averageUserRatingForCurrentVersion": 4.22482,
       "sellerUrl": "https://www.google.com/fit/",
       "languageCodesISO2A": [
         "BG",
@@ -413,21 +411,25 @@
       ],
       "fileSizeBytes": "314253312",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 2184,
+      "userRatingCountForCurrentVersion": 2186,
       "trackContentRating": "4+",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.22482,
+      "averageUserRatingForCurrentVersion": 4.22323,
+      "genres": [
+        "Health & Fitness",
+        "Lifestyle"
+      ],
       "artistId": 281956209,
       "artistName": "Google",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseDate": "2019-04-25T06:27:36Z",
-      "sellerName": "Google LLC",
-      "trackId": 1433864494,
-      "trackName": "Google Fit: Activity Tracker",
       "genreIds": [
         "6013",
         "6012"
       ],
+      "trackId": 1433864494,
+      "trackName": "Google Fit: Activity Tracker",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "Google LLC",
+      "primaryGenreName": "Health & Fitness",
+      "primaryGenreId": 6013,
       "currentVersionReleaseDate": "2026-06-19T15:11:50Z",
       "releaseNotes": "• Performance improvements and bug fixing.",
       "version": "1.104",
@@ -437,14 +439,12 @@
       "bundleId": "com.google.fit",
       "trackCensoredName": "Google Fit: Activity Tracker",
       "trackViewUrl": "https://apps.apple.com/us/app/google-fit-activity-tracker/id1433864494?uo=4",
-      "primaryGenreName": "Health & Fitness",
-      "primaryGenreId": 6013,
+      "averageUserRating": 4.22323,
+      "minimumOsVersion": "16.0",
+      "contentAdvisoryRating": "4+",
+      "releaseDate": "2019-04-25T06:27:36Z",
       "price": 0,
-      "genres": [
-        "Health & Fitness",
-        "Lifestyle"
-      ],
-      "userRatingCount": 2184,
+      "userRatingCount": 2186,
       "country": "USA"
     }
   ]

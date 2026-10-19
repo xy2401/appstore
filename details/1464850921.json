@@ -199,10 +199,6 @@
       "userRatingCount": 1779
     },
     {
-      "artistViewUrl": "https://apps.apple.com/cn/developer/qianyan-network/id327432859?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/3a/92/d73a92f1-c0e8-cbf7-1e35-f1fa82b1cca1/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/3a/92/d73a92f1-c0e8-cbf7-1e35-f1fa82b1cca1/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.jpg",
-      "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
       ],
@@ -339,6 +335,7 @@
         "iPhoneDuo-iPhoneDuo"
       ],
       "advisories": [],
+      "isGameCenterEnabled": false,
       "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/f8/e8/78/f8e878e1-8ad0-a7e7-767c-9c90af6b62c0/d1cdb391-fe4a-46c1-b6e9-45c4843dce71_13.png/392x696bb.png",
@@ -356,11 +353,14 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/3a/92/d73a92f1-c0e8-cbf7-1e35-f1fa82b1cca1/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg",
-      "averageUserRating": 4.70566,
-      "trackCensoredName": "每日英语阅读",
-      "trackViewUrl": "https://apps.apple.com/cn/app/%E6%AF%8F%E6%97%A5%E8%8B%B1%E8%AF%AD%E9%98%85%E8%AF%BB/id1464850921?uo=4",
-      "contentAdvisoryRating": "4+",
-      "releaseNotes": "【本次更新】\n- 全新 打卡小组件，lulu猫陪伴您的每一次坚持\n- 全新 音效设置，可以在播放设置中开启人声增强、环境音音效\n- 全新 字幕编辑功能，可以修改、导出字幕文件\n- 新增 AB复读支持精确定位，长按历史记录支持自定义标题\n- 新增 支持自定义外部字体\n- 新增 可以在显示设置中修改播放工具栏样式，支持快速跟读\n- 新增 简明解释可以设置为英语\n\n【近期更新】\n- 新增 Epub阅读支持定时休眠\n- 新增 支持Epub3原生音频播放，还原书籍原声体验\n- 新增 支持修改译文语言\n- 新增 可以设置高亮字幕颜色",
+      "artistViewUrl": "https://apps.apple.com/cn/developer/qianyan-network/id327432859?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/3a/92/d73a92f1-c0e8-cbf7-1e35-f1fa82b1cca1/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/3a/92/d73a92f1-c0e8-cbf7-1e35-f1fa82b1cca1/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.jpg",
+      "genreIds": [
+        "6017",
+        "6009"
+      ],
+      "sellerName": "QianYan Network",
       "artistId": 327432859,
       "artistName": "QianYan Network",
       "genres": [
@@ -368,18 +368,15 @@
         "新闻"
       ],
       "price": 1,
-      "releaseDate": "2019-06-16T11:03:45Z",
-      "genreIds": [
-        "6017",
-        "6009"
-      ],
-      "trackId": 1464850921,
+      "bundleId": "com.eusoft.DailyJournal-en",
+      "isVppDeviceBasedLicensingEnabled": true,
       "trackName": "每日英语阅读",
+      "trackId": 1464850921,
       "primaryGenreName": "Education",
       "primaryGenreId": 6017,
-      "sellerName": "QianYan Network",
-      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseDate": "2019-06-16T11:03:45Z",
       "currentVersionReleaseDate": "2026-08-12T03:23:11Z",
+      "releaseNotes": "【本次更新】\n- 全新 打卡小组件，lulu猫陪伴您的每一次坚持\n- 全新 音效设置，可以在播放设置中开启人声增强、环境音音效\n- 全新 字幕编辑功能，可以修改、导出字幕文件\n- 新增 AB复读支持精确定位，长按历史记录支持自定义标题\n- 新增 支持自定义外部字体\n- 新增 可以在显示设置中修改播放工具栏样式，支持快速跟读\n- 新增 简明解释可以设置为英语\n\n【近期更新】\n- 新增 Epub阅读支持定时休眠\n- 新增 支持Epub3原生音频播放，还原书籍原声体验\n- 新增 支持修改译文语言\n- 新增 可以设置高亮字幕颜色",
       "version": "26.8.0",
       "wrapperType": "software",
       "currency": "CNY",
@@ -391,12 +388,15 @@
       ],
       "fileSizeBytes": "231436288",
       "formattedPrice": "¥1.00",
-      "userRatingCountForCurrentVersion": 1821,
+      "userRatingCountForCurrentVersion": 1824,
       "trackContentRating": "4+",
-      "bundleId": "com.eusoft.DailyJournal-en",
+      "averageUserRatingForCurrentVersion": 4.70614,
+      "averageUserRating": 4.70614,
+      "contentAdvisoryRating": "4+",
       "minimumOsVersion": "14.0",
-      "averageUserRatingForCurrentVersion": 4.70566,
-      "userRatingCount": 1821,
+      "trackCensoredName": "每日英语阅读",
+      "trackViewUrl": "https://apps.apple.com/cn/app/%E6%AF%8F%E6%97%A5%E8%8B%B1%E8%AF%AD%E9%98%85%E8%AF%BB/id1464850921?uo=4",
+      "userRatingCount": 1824,
       "country": "CHN"
     }
   ]

@@ -200,6 +200,10 @@
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/56/27/745627e1-6609-f468-f9ab-8dbd95f5f1a2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/56/27/745627e1-6609-f468-f9ab-8dbd95f5f1a2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -332,7 +336,6 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
       "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/2f/f3/f62ff382-33a8-434d-09ee-4e047a8097cd/947bfd4c-23fd-40f2-a5cf-f0f8409e81d7_0._Tutorial.png/392x696bb.png",
@@ -349,36 +352,33 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/56/27/745627e1-6609-f468-f9ab-8dbd95f5f1a2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
-      "averageUserRating": 4.61815,
       "trackCensoredName": "ElsterSecure",
       "trackViewUrl": "https://apps.apple.com/de/app/elstersecure/id1579060331?uo=4",
       "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.61763,
+      "releaseNotes": "- Englische Version verfügbar\n- Verbesserung der Usability",
       "minimumOsVersion": "15.0",
-      "artistId": 1018163928,
-      "artistName": "Bayerisches Landesamt fuer Steuern",
       "genres": [
         "Finanzen"
       ],
+      "artistId": 1018163928,
+      "artistName": "Bayerisches Landesamt fuer Steuern",
       "price": 0,
+      "bundleId": "de.elster.elstersecure.app",
+      "isVppDeviceBasedLicensingEnabled": true,
       "releaseDate": "2022-11-26T08:00:00Z",
       "trackId": 1579060331,
       "trackName": "ElsterSecure",
       "genreIds": [
         "6015"
       ],
-      "primaryGenreName": "Finance",
-      "primaryGenreId": 6015,
       "sellerName": "Bayerisches Landesamt fuer Steuern",
-      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-08-06T04:45:17Z",
-      "releaseNotes": "- Englische Version verfügbar\n- Verbesserung der Usability",
       "version": "ElsterSecure 26.2",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "ElsterSecure ist die neue Authentisierungs-App von ELSTER. Einmal eingerichtet, benötigen Sie für Ihren Login nur noch Ihr Smartphone. Eine Zertifikatsdatei oder einen Nutzernamen benötigen Sie nach erstmaliger Einrichtung nicht mehr.\n \nSo richten Sie ElsterSecure ein:\n\n1. Loggen Sie sich wie bisher gewohnt in MeinElster ein.\n2. Gehen Sie zu \"Mein Benutzerkonto\" > \"ElsterSecure\": https://www.elster.de/eportal/meinKonto/elstersecure\n3. Unter \"Login-Option ElsterSecure hinzufügen\" können Sie die App mit Ihrem MeinElster-Konto verknüpfen\n\nWenn Sie noch kein MeinElster Konto besitzen, können Sie sich unter www.elster.de registrieren und ElsterSecure als Login-Option wählen. \n\nDerzeit ist eine Authentisierung mittels ElsterSecure nur für den Login in MeinElster möglich. Eine Übermittlung durch Drittanbieter von Steuersoftware wird noch nicht unterstützt, hierfür benötigen Sie weiterhin ein Zertifikat.\n\nElsterSecure benötigt folgende Berechtigungen:  \n- Zugriff auf die Kamera(s) des Geräts: Diese Berechtigung wird für das Scannen des QR-Codes benötigt.\n\nDatenschutzhinweis:\nhttps://www.elster.de/eportal/infoseite/elstersecure",
+      "averageUserRatingForCurrentVersion": 4.61763,
       "sellerUrl": "https://www.elster.de/elsterweb/infoseite/app/elstersecure",
       "languageCodesISO2A": [
         "EN",
@@ -386,11 +386,11 @@
       ],
       "fileSizeBytes": "51722240",
       "formattedPrice": "Gratis",
-      "userRatingCountForCurrentVersion": 53279,
+      "userRatingCountForCurrentVersion": 54324,
       "trackContentRating": "4+",
-      "bundleId": "de.elster.elstersecure.app",
-      "averageUserRatingForCurrentVersion": 4.61815,
-      "userRatingCount": 53279,
+      "primaryGenreName": "Finance",
+      "primaryGenreId": 6015,
+      "userRatingCount": 54324,
       "country": "DEU"
     }
   ]

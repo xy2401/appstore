@@ -186,9 +186,9 @@
       "userRatingCount": 7
     },
     {
-      "artistViewUrl": "https://apps.apple.com/jp/developer/ho-young-moon/id1551639459?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/64/99/6f64992a-d50a-bf70-72d8-06473eb55f31/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/64/99/6f64992a-d50a-bf70-72d8-06473eb55f31/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
       "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
@@ -322,9 +322,6 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "features": [
-        "iosUniversal"
-      ],
       "advisories": [],
       "kind": "software",
       "screenshotUrls": [
@@ -342,34 +339,35 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/64/99/6f64992a-d50a-bf70-72d8-06473eb55f31/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "trackCensoredName": "DayGrid：一日予定表・デイリープランナー・時間割",
-      "trackViewUrl": "https://apps.apple.com/jp/app/daygrid-%E4%B8%80%E6%97%A5%E4%BA%88%E5%AE%9A%E8%A1%A8-%E3%83%87%E3%82%A4%E3%83%AA%E3%83%BC%E3%83%97%E3%83%A9%E3%83%B3%E3%83%8A%E3%83%BC-%E6%99%82%E9%96%93%E5%89%B2/id6762279908?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 2.8,
-      "releaseNotes": "手軽に使える1日のプランナー、DayGrid\n• アプリを開かなくても、ウィジェットのデータが30日間更新されるよう改善しました。\n• 繰り返し予定のアイコンがテキストと重ならないよう修正しました。",
+      "artistViewUrl": "https://apps.apple.com/jp/developer/ho-young-moon/id1551639459?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/64/99/6f64992a-d50a-bf70-72d8-06473eb55f31/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/64/99/6f64992a-d50a-bf70-72d8-06473eb55f31/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
+      "artistId": 1551639459,
+      "artistName": "ho young moon",
       "genres": [
         "ライフスタイル",
         "仕事効率化"
       ],
-      "price": 100,
-      "bundleId": "com.rois.daygrid",
       "genreIds": [
         "6012",
         "6007"
       ],
-      "sellerName": "ho young moon",
-      "currentVersionReleaseDate": "2026-10-11T23:37:14Z",
-      "primaryGenreName": "Lifestyle",
-      "primaryGenreId": 6012,
-      "isVppDeviceBasedLicensingEnabled": true,
+      "bundleId": "com.rois.daygrid",
       "trackId": 6762279908,
       "trackName": "DayGrid：一日予定表・デイリープランナー・時間割",
-      "releaseDate": "2026-04-26T07:00:00Z",
+      "primaryGenreName": "Lifestyle",
+      "primaryGenreId": 6012,
+      "sellerName": "ho young moon",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-10-11T23:37:14Z",
+      "releaseNotes": "手軽に使える1日のプランナー、DayGrid\n• アプリを開かなくても、ウィジェットのデータが30日間更新されるよう改善しました。\n• 繰り返し予定のアイコンがテキストと重ならないよう修正しました。",
       "version": "1.4.9",
       "wrapperType": "software",
       "currency": "JPY",
       "description": "繰り返し入力することなく、1回のドラッグだけで1日のスケジュールを管理できます。\nウィジェットと通知で予定を見逃さず、タイマーで集中をサポートします。\n\n◆ 簡単なスケジュール管理\n好きな時間を長押しして、そのままドラッグするだけで予定を登録できます。\n10分単位のグリッド形式で、1日を直感的に管理できます。\n\n◆ ウィジェット\n登録した予定を、アプリを開かずにウィジェットから確認できます。\n\n◆ 通知＆タイマー\n通知で予定の開始時間を把握できます。\nフォーカスタイマーで最後まで集中できます。\n\n◆ カラーカテゴリー\n予定の種類ごとに色付きラベルを設定して、わかりやすく管理できます。",
-      "sellerUrl": "https://hoyoungmoon.github.io",
+      "minimumOsVersion": "15.1",
+      "averageUserRatingForCurrentVersion": 2.8,
+      "averageUserRating": 2.8,
       "languageCodesISO2A": [
         "EN",
         "JA",
@@ -380,10 +378,12 @@
       "formattedPrice": "¥100",
       "userRatingCountForCurrentVersion": 10,
       "trackContentRating": "4+",
-      "minimumOsVersion": "15.1",
-      "averageUserRatingForCurrentVersion": 2.8,
-      "artistId": 1551639459,
-      "artistName": "ho young moon",
+      "trackCensoredName": "DayGrid：一日予定表・デイリープランナー・時間割",
+      "trackViewUrl": "https://apps.apple.com/jp/app/daygrid-%E4%B8%80%E6%97%A5%E4%BA%88%E5%AE%9A%E8%A1%A8-%E3%83%87%E3%82%A4%E3%83%AA%E3%83%BC%E3%83%97%E3%83%A9%E3%83%B3%E3%83%8A%E3%83%BC-%E6%99%82%E9%96%93%E5%89%B2/id6762279908?uo=4",
+      "contentAdvisoryRating": "4+",
+      "sellerUrl": "https://hoyoungmoon.github.io",
+      "releaseDate": "2026-04-26T07:00:00Z",
+      "price": 100,
       "userRatingCount": 10,
       "country": "JPN"
     }

@@ -2,7 +2,6 @@
   "resultCount": 1,
   "results": [
     {
-      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -135,6 +134,9 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "advisories": [
+        "Frequent/Intense Medical/Treatment Information"
+      ],
       "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/89/6c/75/896c756e-06d3-8b40-fc9d-688f792861c2/Simulator_Screenshot_-_iPhone_16_Plus_-_2025-12-04_at_14.30.51.png/320x480bb.jpg",
@@ -156,9 +158,7 @@
       "features": [
         "iosUniversal"
       ],
-      "advisories": [
-        "Frequent/Intense Medical/Treatment Information"
-      ],
+      "isGameCenterEnabled": false,
       "artistId": 1692217678,
       "artistName": "Keaton Benning, LLC",
       "genres": [
@@ -166,14 +166,14 @@
         "Education"
       ],
       "price": 4.99,
-      "trackId": 1620565745,
+      "releaseDate": "2022-04-26T07:00:00Z",
       "trackName": "Nject",
+      "trackId": 1620565745,
+      "releaseNotes": "-- new Training content",
       "genreIds": [
         "6020",
         "6017"
       ],
-      "releaseNotes": "-- new Training content",
-      "releaseDate": "2022-04-26T07:00:00Z",
       "primaryGenreName": "Medical",
       "primaryGenreId": 6020,
       "sellerName": "Keaton Benning, LLC",
@@ -183,7 +183,11 @@
       "wrapperType": "software",
       "currency": "USD",
       "description": "Nject is a one stop shop for all your Aesthetics needs like: Dilution Calculators, Partnerships, Live Forum with experts, Vascular Occlusion help, and more...",
-      "averageUserRating": 3.96825,
+      "minimumOsVersion": "15.1",
+      "sellerUrl": "https://www.studioxdesigns.com/",
+      "averageUserRating": 3.992,
+      "averageUserRatingForCurrentVersion": 3.992,
+      "bundleId": "com.medspanetwork.Nject",
       "trackCensoredName": "Nject",
       "languageCodesISO2A": [
         "EN"
@@ -191,14 +195,10 @@
       "fileSizeBytes": "71651328",
       "formattedPrice": "$4.99",
       "contentAdvisoryRating": "17+",
-      "userRatingCountForCurrentVersion": 126,
+      "userRatingCountForCurrentVersion": 125,
       "trackViewUrl": "https://apps.apple.com/us/app/nject/id1620565745?uo=4",
       "trackContentRating": "17+",
-      "sellerUrl": "https://www.studioxdesigns.com/",
-      "averageUserRatingForCurrentVersion": 3.96825,
-      "minimumOsVersion": "15.1",
-      "bundleId": "com.medspanetwork.Nject",
-      "userRatingCount": 126,
+      "userRatingCount": 125,
       "country": "USA"
     }
   ]

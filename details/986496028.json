@@ -215,6 +215,7 @@
       "userRatingCount": 4119
     },
     {
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/e3/ae/64/e3ae644f-6a8b-70f8-fff8-bf47afced4ed/e1ae3307-354c-491e-a84e-69275449f72a_1_iphone6Plus_1.en-US-iOS-5.5-in_1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/39/41/c8/3941c8a2-7cf9-42fd-d3e1-ec76a5ef03cb/58b903f8-f367-4a92-8ce2-34249b19621e_2_iphone6Plus_2.en-US-iOS-5.5-in_2.jpg/392x696bb.jpg",
@@ -225,10 +226,14 @@
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b1/dd/ca/b1ddcac8-bf11-4f30-f31e-25e2168815d5/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/512x512bb.jpg",
+      "advisories": [
+        "Unrestricted Web Access"
+      ],
+      "kind": "software",
+      "features": [],
       "artistViewUrl": "https://apps.apple.com/us/developer/google/id281956209?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b1/dd/ca/b1ddcac8-bf11-4f30-f31e-25e2168815d5/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b1/dd/ca/b1ddcac8-bf11-4f30-f31e-25e2168815d5/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/100x100bb.jpg",
-      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -361,13 +366,6 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [
-        "Unrestricted Web Access"
-      ],
-      "kind": "software",
-      "features": [],
-      "minimumOsVersion": "15.0",
-      "averageUserRatingForCurrentVersion": 1.89583,
       "sellerUrl": "https://wearos.google.com",
       "languageCodesISO2A": [
         "CS",
@@ -399,19 +397,23 @@
       "formattedPrice": "Free",
       "userRatingCountForCurrentVersion": 4128,
       "trackContentRating": "17+",
-      "contentAdvisoryRating": "17+",
-      "averageUserRating": 1.89583,
+      "averageUserRatingForCurrentVersion": 1.89486,
+      "genres": [
+        "Utilities",
+        "Productivity"
+      ],
       "artistId": 281956209,
       "artistName": "Google",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseDate": "2015-08-31T16:09:15Z",
-      "sellerName": "Google LLC",
-      "trackId": 986496028,
-      "trackName": "Wear OS by Google",
       "genreIds": [
         "6002",
         "6007"
       ],
+      "trackId": 986496028,
+      "trackName": "Wear OS by Google",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "Google LLC",
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
       "currentVersionReleaseDate": "2023-03-06T12:07:43Z",
       "releaseNotes": "Now it's even easier to see all your activities in one place with Google Fit! With the latest update, your health and activity information is moving to the Google Fit app. Get the latest Google Fit from the App Store to see your progress on your activity goals, workout history, and more.",
       "version": "3.47.145",
@@ -421,13 +423,11 @@
       "bundleId": "com.google.Wear",
       "trackCensoredName": "Wear OS by Google",
       "trackViewUrl": "https://apps.apple.com/us/app/wear-os-by-google/id986496028?uo=4",
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
+      "averageUserRating": 1.89486,
+      "minimumOsVersion": "15.0",
+      "contentAdvisoryRating": "17+",
+      "releaseDate": "2015-08-31T16:09:15Z",
       "price": 0,
-      "genres": [
-        "Utilities",
-        "Productivity"
-      ],
       "userRatingCount": 4128,
       "country": "USA"
     }

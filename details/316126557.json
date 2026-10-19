@@ -2,11 +2,10 @@
   "resultCount": 1,
   "results": [
     {
-      "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
       ],
-      "advisories": [],
+      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -139,6 +138,7 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "advisories": [],
       "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/49/49/7c/49497c23-1089-c3dd-509f-3d0d82b7beee/iPhone-14-1.png/320x480bb.jpg",
@@ -158,52 +158,52 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d2/09/7d/d2097d6e-812c-8dd9-2fde-e5c5d0d35e98/IMG_0008.PNG/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/52/f7/0352f7c0-3caa-0066-408a-f64ad67656e3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/56/d5/5256d538-06f3-cfb3-c5c1-133953212e93/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/56/d5/5256d538-06f3-cfb3-c5c1-133953212e93/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/56/d5/5256d538-06f3-cfb3-c5c1-133953212e93/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
       "artistViewUrl": "https://apps.apple.com/us/developer/mapquest-holdings-llc/id1494058354?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/52/f7/0352f7c0-3caa-0066-408a-f64ad67656e3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/52/f7/0352f7c0-3caa-0066-408a-f64ad67656e3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
-      "releaseNotes": "• Plan Trips Around Your Schedule! Choose Leave At or Arrive By, and MapQuest will build a route for that time.\n• CarPlay Improvements: Switch between North Up and perspective view, or mute voice directions from your car screen\n\nKeep telling us what you need. We’re listening!",
-      "minimumOsVersion": "16.4",
-      "artistId": 1494058354,
+      "bundleId": "com.aol.mapquest",
+      "primaryGenreName": "Navigation",
+      "primaryGenreId": 6010,
+      "sellerName": "MapQuest Holdings LLC",
+      "price": 0,
       "artistName": "MapQuest Holdings LLC",
+      "artistId": 1494058354,
       "genres": [
         "Navigation",
         "Travel"
       ],
-      "price": 0,
-      "sellerName": "MapQuest Holdings LLC",
-      "genreIds": [
-        "6010",
-        "6003"
-      ],
-      "currentVersionReleaseDate": "2026-10-05T16:50:38Z",
-      "primaryGenreName": "Navigation",
-      "primaryGenreId": 6010,
-      "releaseDate": "2009-06-11T07:00:00Z",
       "isVppDeviceBasedLicensingEnabled": true,
+      "releaseDate": "2009-06-11T07:00:00Z",
       "trackId": 316126557,
       "trackName": "MapQuest GPS Navigation & Maps",
-      "version": "10.26.0",
+      "currentVersionReleaseDate": "2026-10-15T21:13:02Z",
+      "releaseNotes": "Spooky season is here! \n• Four Spooky Questies: Choose Bat, Witch, Pumpkin, or Ghost to guide your drive.\n• The Roads Have Eyes: Turn on the Surveillance Cameras layer in Map Options to see known license plate readers, as blinking pixel eyes.\n\nPlus bug and crash fixes throughout the app.",
+      "version": "10.28.0",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Get where you need to go with the MapQuest turn-by-turn GPS Navigation app. Whether it’s using voice navigation for walking or driving directions or exploring points of interests on the map, MapQuest has the tools you need to navigate the United States and Canada.\n\nMap and Navigation Features:\n• Hands-free driving directions with Apple CarPlay Connectivity \n• Up-to-date satellite imagery \n• Turn-by-turn voice navigation for walking and driving directions \n• Real-time traffic updates to help you find alternate ways to your destination\n• Routes designed to help save you time, gas and money\n• A speedometer so you compare your current speed to the speed limit along your route\n• Favorites so you can store locations, like your home and work addresses, for quick-and-easy maps and directions\n• Route choices so you have more suggestions to get where you need to go faster\n• Route options that help you avoid things like highways and toll roads\n• Multipoint routes so you can include more than just one stop\n• Planning: create routes starting from somewhere other than your current location\n\nDo More than Get Directions:\n• Search and explore nearby points of interest like restaurants, bars, gas stations and hotels, with our layers bar\n• Find great hotel deals and book them directly from within the MapQuest: Maps & GPS Navigation app\n• Feed your inner foodie and discover new places to eat: browse menus, make reservations and order food through OpenTable and GrubHub points of interest\n• Save money by comparing prices of nearby gas stations\n• View local weather so you can plan ahead\n\nPlease Note: Continued use of GPS running in the background can dramatically decrease battery life.\nTerms of Use: https://system1.com/terms",
-      "bundleId": "com.aol.mapquest",
-      "fileSizeBytes": "337091584",
-      "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 29395,
-      "trackContentRating": "4+",
+      "minimumOsVersion": "16.4",
       "sellerUrl": "http://hello.mapquest.com/mobile/",
-      "averageUserRatingForCurrentVersion": 4.35271,
+      "averageUserRating": 4.35416,
+      "trackCensoredName": "MapQuest GPS Navigation & Maps",
       "languageCodesISO2A": [
         "EN",
         "FR",
         "ES"
       ],
-      "averageUserRating": 4.35271,
-      "trackCensoredName": "MapQuest GPS Navigation & Maps",
-      "trackViewUrl": "https://apps.apple.com/us/app/mapquest-gps-navigation-maps/id316126557?uo=4",
+      "fileSizeBytes": "324663296",
+      "formattedPrice": "Free",
       "contentAdvisoryRating": "4+",
-      "userRatingCount": 29395,
+      "userRatingCountForCurrentVersion": 29628,
+      "trackViewUrl": "https://apps.apple.com/us/app/mapquest-gps-navigation-maps/id316126557?uo=4",
+      "trackContentRating": "4+",
+      "averageUserRatingForCurrentVersion": 4.35416,
+      "genreIds": [
+        "6010",
+        "6003"
+      ],
+      "userRatingCount": 29628,
       "country": "USA"
     }
   ]

@@ -184,10 +184,6 @@
       "userRatingCount": 13772
     },
     {
-      "artistViewUrl": "https://apps.apple.com/cn/developer/feeyo-com-e-commerce-corp/id414184045?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/64/48/f3644832-60d7-5f99-6ffe-a65961dd427d/AppIconPro-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/64/48/f3644832-60d7-5f99-6ffe-a65961dd427d/AppIconPro-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
-      "isGameCenterEnabled": false,
       "features": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
@@ -322,6 +318,7 @@
         "iPhoneDuo-iPhoneDuo"
       ],
       "advisories": [],
+      "isGameCenterEnabled": false,
       "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dd/11/b2/dd11b26a-d8d1-2297-86ae-05c7d8cb2ab8/2.png/320x480bb.jpg",
@@ -332,11 +329,14 @@
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/64/48/f3644832-60d7-5f99-6ffe-a65961dd427d/AppIconPro-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "averageUserRating": 4.88481,
-      "trackCensoredName": "飞常准PRO-全球航班查询机票酒店预订",
-      "trackViewUrl": "https://apps.apple.com/cn/app/%E9%A3%9E%E5%B8%B8%E5%87%86pro-%E5%85%A8%E7%90%83%E8%88%AA%E7%8F%AD%E6%9F%A5%E8%AF%A2%E6%9C%BA%E7%A5%A8%E9%85%92%E5%BA%97%E9%A2%84%E8%AE%A2/id469338840?uo=4",
-      "contentAdvisoryRating": "4+",
-      "releaseNotes": "本期更新：\n-修复已知bug，优化用户体验。",
+      "artistViewUrl": "https://apps.apple.com/cn/developer/feeyo-com-e-commerce-corp/id414184045?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/64/48/f3644832-60d7-5f99-6ffe-a65961dd427d/AppIconPro-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/64/48/f3644832-60d7-5f99-6ffe-a65961dd427d/AppIconPro-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+      "genreIds": [
+        "6003",
+        "6007"
+      ],
+      "sellerName": "FEEYO.COM E-COMMERCE CORP.",
       "artistId": 414184045,
       "artistName": "FEEYO.COM E-COMMERCE CORP.",
       "genres": [
@@ -344,18 +344,15 @@
         "效率"
       ],
       "price": 1,
-      "releaseDate": "2011-10-05T23:08:30Z",
-      "genreIds": [
-        "6003",
-        "6007"
-      ],
-      "trackId": 469338840,
+      "bundleId": "com.Feeyo.VeryZhun",
+      "isVppDeviceBasedLicensingEnabled": true,
       "trackName": "飞常准PRO-全球航班查询机票酒店预订",
+      "trackId": 469338840,
       "primaryGenreName": "Travel",
       "primaryGenreId": 6003,
-      "sellerName": "FEEYO.COM E-COMMERCE CORP.",
-      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseDate": "2011-10-05T23:08:30Z",
       "currentVersionReleaseDate": "2026-09-11T01:49:49Z",
+      "releaseNotes": "本期更新：\n-修复已知bug，优化用户体验。",
       "version": "6.8.4",
       "wrapperType": "software",
       "currency": "CNY",
@@ -366,12 +363,15 @@
       ],
       "fileSizeBytes": "477649920",
       "formattedPrice": "¥1.00",
-      "userRatingCountForCurrentVersion": 13864,
+      "userRatingCountForCurrentVersion": 13871,
       "trackContentRating": "4+",
-      "bundleId": "com.Feeyo.VeryZhun",
+      "averageUserRatingForCurrentVersion": 4.88494,
+      "averageUserRating": 4.88494,
+      "contentAdvisoryRating": "4+",
       "minimumOsVersion": "13.0",
-      "averageUserRatingForCurrentVersion": 4.88481,
-      "userRatingCount": 13864,
+      "trackCensoredName": "飞常准PRO-全球航班查询机票酒店预订",
+      "trackViewUrl": "https://apps.apple.com/cn/app/%E9%A3%9E%E5%B8%B8%E5%87%86pro-%E5%85%A8%E7%90%83%E8%88%AA%E7%8F%AD%E6%9F%A5%E8%AF%A2%E6%9C%BA%E7%A5%A8%E9%85%92%E5%BA%97%E9%A2%84%E8%AE%A2/id469338840?uo=4",
+      "userRatingCount": 13871,
       "country": "CHN"
     }
   ]

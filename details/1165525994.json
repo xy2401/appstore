@@ -220,6 +220,7 @@
       "userRatingCount": 88950
     },
     {
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/a8/34/b2/a834b2c5-97d8-0400-222f-e318c3ca93e4/38fa993f-94ae-419a-b1ce-c4fb1aedc799_0_APP_IPHONE_55.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/d1/7c/c8/d17cc85e-36fa-2aa7-9a9f-f11b3fbd4935/c4ad0b56-b7ea-4c65-814b-53b0d0c18cae_1_APP_IPHONE_55.png/392x696bb.png",
@@ -229,10 +230,12 @@
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/77/30/a0/7730a0f6-f6a2-2155-7ac2-addaf98c7023/AppIcon-0-1x_U007emarketing-0-5-0-0-85-220-0.png/512x512bb.jpg",
+      "advisories": [],
+      "kind": "software",
+      "features": [],
       "artistViewUrl": "https://apps.apple.com/us/developer/google/id281956209?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/77/30/a0/7730a0f6-f6a2-2155-7ac2-addaf98c7023/AppIcon-0-1x_U007emarketing-0-5-0-0-85-220-0.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/77/30/a0/7730a0f6-f6a2-2155-7ac2-addaf98c7023/AppIcon-0-1x_U007emarketing-0-5-0-0-85-220-0.png/100x100bb.jpg",
-      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -365,11 +368,6 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
-      "kind": "software",
-      "features": [],
-      "minimumOsVersion": "15.0",
-      "averageUserRatingForCurrentVersion": 4.81637,
       "sellerUrl": "https://www.google.com/photos/scan",
       "languageCodesISO2A": [
         "AR",
@@ -409,20 +407,23 @@
       ],
       "fileSizeBytes": "35357696",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 90346,
+      "userRatingCountForCurrentVersion": 90430,
       "trackContentRating": "4+",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.81637,
+      "averageUserRatingForCurrentVersion": 4.81644,
+      "genres": [
+        "Photo & Video"
+      ],
       "artistId": 281956209,
       "artistName": "Google",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseDate": "2016-11-15T18:17:28Z",
-      "sellerName": "Google LLC",
-      "trackId": 1165525994,
-      "trackName": "PhotoScan by Google Photos",
       "genreIds": [
         "6008"
       ],
+      "trackId": 1165525994,
+      "trackName": "PhotoScan by Google Photos",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "Google LLC",
+      "primaryGenreName": "Photo & Video",
+      "primaryGenreId": 6008,
       "currentVersionReleaseDate": "2022-11-21T19:30:28Z",
       "releaseNotes": "• Completely revamped look and feel to improve usability and navigation.\n• Support for dynamic colors (Light Mode and Dark Mode).",
       "version": "1.7",
@@ -432,13 +433,12 @@
       "bundleId": "com.google.photosscanner",
       "trackCensoredName": "PhotoScan by Google Photos",
       "trackViewUrl": "https://apps.apple.com/us/app/photoscan-by-google-photos/id1165525994?uo=4",
-      "primaryGenreName": "Photo & Video",
-      "primaryGenreId": 6008,
+      "averageUserRating": 4.81644,
+      "minimumOsVersion": "15.0",
+      "contentAdvisoryRating": "4+",
+      "releaseDate": "2016-11-15T18:17:28Z",
       "price": 0,
-      "genres": [
-        "Photo & Video"
-      ],
-      "userRatingCount": 90346,
+      "userRatingCount": 90430,
       "country": "USA"
     }
   ]

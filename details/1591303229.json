@@ -2,25 +2,11 @@
   "resultCount": 2,
   "results": [
     {
+      "advisories": [],
       "isGameCenterEnabled": false,
-      "artistViewUrl": "https://apps.apple.com/de/developer/and-a-dinosaur/id475577301?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/1a/b1/f41ab19f-5592-9ef6-5704-51f193e4825f/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/1a/b1/f41ab19f-5592-9ef6-5704-51f193e4825f/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/100x100bb.jpg",
       "features": [
         "iosUniversal"
       ],
-      "advisories": [],
-      "kind": "software",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/46/de/40/46de40ca-61ec-e070-cc2a-9307fbfc8ce0/f261a659-acf5-4174-a3ea-a536708202bc_1.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/6a/4f/01/6a4f0133-8f50-b5a5-4234-54ca232edecf/857e2af5-a81f-4a53-b784-8e4da5ada933_2.png/392x696bb.png"
-      ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/80/80/6b/80806bc3-c689-0fd3-f175-287a2f6f1f43/081c4099-53b0-4d30-9873-13da5c862337_1.png/552x414bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/80/f8/19/80f819d0-b27f-deb6-a68a-012fd6795204/77a81289-667c-43c7-8d97-73ebea556fa4_2.png/552x414bb.png"
-      ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/1a/b1/f41ab19f-5592-9ef6-5704-51f193e4825f/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/512x512bb.jpg",
       "supportedDevices": [
         "MacDesktop-MacDesktop",
         "iPhone5s-iPhone5s",
@@ -154,46 +140,60 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "releaseNotes": "Vinegar Changelog:\n\n- Attempted to fix all sorts of weirdness with subtitles on iOS 27.\n- Timestamped links should work again.\n- Fixes how the title bar looks in embedded players.\n\nVinegar Classic Changelog:\n\n- Attempted to fix all sorts of weirdness with subtitles on iOS 27.\n- Fixes how the title bar looks in embedded players.",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.36957,
-      "trackCensoredName": "Vinegar - Tube Cleaner",
-      "trackViewUrl": "https://apps.apple.com/de/app/vinegar-tube-cleaner/id1591303229?uo=4",
-      "minimumOsVersion": "15.0",
+      "kind": "software",
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/80/80/6b/80806bc3-c689-0fd3-f175-287a2f6f1f43/081c4099-53b0-4d30-9873-13da5c862337_1.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/80/f8/19/80f819d0-b27f-deb6-a68a-012fd6795204/77a81289-667c-43c7-8d97-73ebea556fa4_2.png/552x414bb.png"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/cf/a6/2ccfa6a8-a6e4-6517-8591-5ca664da7965/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/512x512bb.jpg",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/46/de/40/46de40ca-61ec-e070-cc2a-9307fbfc8ce0/f261a659-acf5-4174-a3ea-a536708202bc_1.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/6a/4f/01/6a4f0133-8f50-b5a5-4234-54ca232edecf/857e2af5-a81f-4a53-b784-8e4da5ada933_2.png/392x696bb.png"
+      ],
+      "artistViewUrl": "https://apps.apple.com/de/developer/and-a-dinosaur/id475577301?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/cf/a6/2ccfa6a8-a6e4-6517-8591-5ca664da7965/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/cf/a6/2ccfa6a8-a6e4-6517-8591-5ca664da7965/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/100x100bb.jpg",
       "genres": [
         "Dienst­programme",
         "Foto und Video"
       ],
-      "trackId": 1591303229,
-      "trackName": "Vinegar - Tube Cleaner",
       "artistId": 475577301,
       "artistName": "And a Dinosaur",
+      "bundleId": "com.andadinosaur.Vinegar",
+      "trackId": 1591303229,
+      "trackName": "Vinegar - Tube Cleaner",
+      "releaseDate": "2021-11-06T07:00:00Z",
+      "currentVersionReleaseDate": "2026-10-18T18:25:04Z",
+      "releaseNotes": "Bug fixes and improvements.",
       "primaryGenreName": "Utilities",
       "primaryGenreId": 6002,
-      "currentVersionReleaseDate": "2026-09-19T21:50:21Z",
+      "sellerName": "And a Dinosaur",
       "genreIds": [
         "6002",
         "6008"
       ],
-      "sellerName": "And a Dinosaur",
-      "releaseDate": "2021-11-06T07:00:00Z",
-      "version": "3.5.3",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "version": "3.5.4",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Vinegar is a Safari extension that replaces the YouTube player with a minimal HTML video tag.\n\nIt removes ads, restores picture-in-picture, and allows videos to play in the background when set to audio-only quality.\n\nNote: The phrase 'can read and alter webpages' in the permissions section is just an unfortunate choice of words. Vinegar needs access to the webpage to find the YouTube player and replace it. It's not doing anything creepy!\n\n(Also, do check out Vinegar's companion app, Baking Soda. It's essentially a less powerful version of Vinegar, but it works on all websites except YouTube.)",
-      "averageUserRatingForCurrentVersion": 4.36957,
+      "minimumOsVersion": "15.0",
       "sellerUrl": "https://andadinosaur.com/launch-vinegar",
       "languageCodesISO2A": [
         "EN"
       ],
-      "fileSizeBytes": "9703424",
+      "fileSizeBytes": "9711616",
       "formattedPrice": "1,99 €",
-      "userRatingCountForCurrentVersion": 460,
+      "userRatingCountForCurrentVersion": 462,
       "trackContentRating": "4+",
-      "isVppDeviceBasedLicensingEnabled": true,
+      "averageUserRating": 4.36364,
+      "trackCensoredName": "Vinegar - Tube Cleaner",
+      "trackViewUrl": "https://apps.apple.com/de/app/vinegar-tube-cleaner/id1591303229?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRatingForCurrentVersion": 4.36364,
       "price": 1.99,
-      "bundleId": "com.andadinosaur.Vinegar",
-      "userRatingCount": 460,
+      "userRatingCount": 462,
       "country": "DEU"
     },
     {

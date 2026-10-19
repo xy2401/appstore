@@ -208,6 +208,7 @@
       "userRatingCount": 100
     },
     {
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/36/af/a5/36afa564-ac72-f970-5237-a154166a2815/APP_IPHONE_55-1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b4/f5/ed/b4f5ed24-6936-4c01-dc6e-f437d592d3d2/APP_IPHONE_55-2.png/392x696bb.png",
@@ -224,10 +225,14 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/d5/8b/84d58b98-d519-c647-513f-0c31667964c8/logo_google_cloud_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
+      "advisories": [],
+      "kind": "software",
+      "features": [
+        "iosUniversal"
+      ],
       "artistViewUrl": "https://apps.apple.com/us/developer/google/id281956209?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/d5/8b/84d58b98-d519-c647-513f-0c31667964c8/logo_google_cloud_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/d5/8b/84d58b98-d519-c647-513f-0c31667964c8/logo_google_cloud_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/100x100bb.jpg",
-      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -360,13 +365,6 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
-      "kind": "software",
-      "features": [
-        "iosUniversal"
-      ],
-      "minimumOsVersion": "17.0",
-      "averageUserRatingForCurrentVersion": 3.35849,
       "sellerUrl": "https://cloud.google.com/",
       "languageCodesISO2A": [
         "EN",
@@ -383,21 +381,25 @@
       ],
       "fileSizeBytes": "123087872",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 106,
+      "userRatingCountForCurrentVersion": 107,
       "trackContentRating": "4+",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 3.35849,
+      "averageUserRatingForCurrentVersion": 3.33645,
+      "genres": [
+        "Productivity",
+        "Utilities"
+      ],
       "artistId": 281956209,
       "artistName": "Google",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseDate": "2015-07-23T18:43:36Z",
-      "sellerName": "Google LLC",
-      "trackId": 1005120814,
-      "trackName": "Google Cloud",
       "genreIds": [
         "6007",
         "6002"
       ],
+      "trackId": 1005120814,
+      "trackName": "Google Cloud",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "Google LLC",
+      "primaryGenreName": "Productivity",
+      "primaryGenreId": 6007,
       "currentVersionReleaseDate": "2026-10-06T15:12:51Z",
       "releaseNotes": "• Bug fixes and performance improvements.",
       "version": "26.09.300800",
@@ -407,14 +409,12 @@
       "bundleId": "com.google.Vespa",
       "trackCensoredName": "Google Cloud",
       "trackViewUrl": "https://apps.apple.com/us/app/google-cloud/id1005120814?uo=4",
-      "primaryGenreName": "Productivity",
-      "primaryGenreId": 6007,
+      "averageUserRating": 3.33645,
+      "minimumOsVersion": "17.0",
+      "contentAdvisoryRating": "4+",
+      "releaseDate": "2015-07-23T18:43:36Z",
       "price": 0,
-      "genres": [
-        "Productivity",
-        "Utilities"
-      ],
-      "userRatingCount": 106,
+      "userRatingCount": 107,
       "country": "USA"
     }
   ]

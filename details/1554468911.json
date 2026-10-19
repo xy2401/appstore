@@ -198,6 +198,9 @@
       "userRatingCount": 1093
     },
     {
+      "isGameCenterEnabled": false,
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/28/45/9b284545-d8d0-852c-01eb-8c5a2aee9ac9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ca/a0/95/caa09561-4cbd-63a4-d34c-d2b06e247e7a/d3a7a319-c323-4679-a15b-394ce567dc32_iPhone_flat6.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c3/eb/bb/c3ebbb8d-1e78-7077-8de2-a802339378a4/a3b0ec4e-6a78-4fb5-8c13-d596eba99aff_iPhone_flat7.png/392x696bb.png",
@@ -212,14 +215,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ee/6f/b9/ee6fb91a-4f4b-ce09-3a0b-e5ce4ec4da7d/30aea84b-732c-4993-9245-defa38e7dcda_iPad_screenshots_04.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8e/15/85/8e158547-d3d7-a0f1-cd29-76d3ed0eaceb/2ca80415-1f8f-4523-b6a3-fc7174db67c2_iPad_screenshots_05.png/576x768bb.png"
       ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/28/45/9b284545-d8d0-852c-01eb-8c5a2aee9ac9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [],
-      "kind": "software",
       "artistViewUrl": "https://apps.apple.com/gb/developer/stephen-cox/id593878439?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/28/45/9b284545-d8d0-852c-01eb-8c5a2aee9ac9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/28/45/9b284545-d8d0-852c-01eb-8c5a2aee9ac9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
@@ -355,46 +350,51 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "averageUserRatingForCurrentVersion": 4.72456,
-      "formattedPrice": "£2.99",
-      "userRatingCountForCurrentVersion": 1140,
-      "trackContentRating": "4+",
-      "sellerUrl": "https://ukbikercafes.co.uk",
+      "advisories": [],
+      "kind": "software",
+      "features": [
+        "iosUniversal"
+      ],
+      "releaseNotes": "We have made some minor changes in this release to show the compass in all map views,  and changed the data file server location, so it is recommended to update to this version to continue to get data file updates.",
+      "minimumOsVersion": "15.6",
+      "averageUserRatingForCurrentVersion": 4.72688,
       "languageCodesISO2A": [
         "EN"
       ],
       "fileSizeBytes": "4768768",
-      "releaseNotes": "We have made some minor changes in this release to show the compass in all map views,  and changed the data file server location, so it is recommended to update to this version to continue to get data file updates.",
+      "formattedPrice": "£2.99",
+      "userRatingCountForCurrentVersion": 1146,
+      "trackContentRating": "4+",
+      "sellerUrl": "https://ukbikercafes.co.uk",
+      "trackCensoredName": "U.K. Biker Cafes",
+      "trackViewUrl": "https://apps.apple.com/gb/app/u-k-biker-cafes/id1554468911?uo=4",
+      "averageUserRating": 4.72688,
+      "contentAdvisoryRating": "4+",
       "artistId": 593878439,
       "artistName": "Stephen COX",
       "genres": [
         "Food & Drink",
         "Navigation"
       ],
+      "price": 2.99,
       "bundleId": "pocketsoftware.co.uk.biker",
       "genreIds": [
         "6023",
         "6010"
       ],
-      "currentVersionReleaseDate": "2026-10-08T13:46:12Z",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "trackId": 1554468911,
+      "releaseDate": "2021-03-19T07:00:00Z",
       "trackName": "U.K. Biker Cafes",
+      "trackId": 1554468911,
       "primaryGenreName": "Food & Drink",
       "primaryGenreId": 6023,
-      "releaseDate": "2021-03-19T07:00:00Z",
+      "sellerName": "Stephen COX",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-10-08T13:46:12Z",
       "version": "1.23",
       "wrapperType": "software",
       "currency": "GBP",
       "description": "UK Biker Cafes is a location based app showing placemarks for Biker friendly cafes, pubs, & accommodation, with the ability to launch navigation apps of your choice to a selected item or search for a placemark in the list view. This is also the official app recommended by the Bike and Brew Passport event.",
-      "trackCensoredName": "U.K. Biker Cafes",
-      "trackViewUrl": "https://apps.apple.com/gb/app/u-k-biker-cafes/id1554468911?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.72456,
-      "minimumOsVersion": "15.6",
-      "sellerName": "Stephen COX",
-      "price": 2.99,
-      "userRatingCount": 1140,
+      "userRatingCount": 1146,
       "country": "GBR"
     }
   ]

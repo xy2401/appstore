@@ -195,6 +195,7 @@
       "userRatingCount": 5250
     },
     {
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/b1/be/bc/b1bebc27-0872-ddf6-aad2-84798debd4c8/780b20c4-6e08-41b9-904f-3cde261b08cc_realtime.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/ee/00/e8/ee00e8ad-472f-fd1f-12ba-e20b08a3f74d/9e2f9a18-20a9-4ca1-b231-8f22cfa68081_reports-snapshot.png/392x696bb.png",
@@ -209,10 +210,14 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/4a/e4/9a4ae45e-05ff-8af6-385d-eacdbec9993e/logo_google_analytics_color-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220-0.png/512x512bb.jpg",
+      "advisories": [],
+      "kind": "software",
+      "features": [
+        "iosUniversal"
+      ],
       "artistViewUrl": "https://apps.apple.com/us/developer/google/id281956209?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/4a/e4/9a4ae45e-05ff-8af6-385d-eacdbec9993e/logo_google_analytics_color-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220-0.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/4a/e4/9a4ae45e-05ff-8af6-385d-eacdbec9993e/logo_google_analytics_color-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220-0.png/100x100bb.jpg",
-      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -345,13 +350,6 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
-      "kind": "software",
-      "features": [
-        "iosUniversal"
-      ],
-      "minimumOsVersion": "15.0",
-      "averageUserRatingForCurrentVersion": 4.62679,
       "languageCodesISO2A": [
         "EN"
       ],
@@ -359,19 +357,23 @@
       "formattedPrice": "Free",
       "userRatingCountForCurrentVersion": 5249,
       "trackContentRating": "4+",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.62679,
+      "averageUserRatingForCurrentVersion": 4.62679,
+      "genres": [
+        "Business",
+        "Productivity"
+      ],
       "artistId": 281956209,
       "artistName": "Google",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseDate": "2014-07-17T23:22:15Z",
-      "sellerName": "Google LLC",
-      "trackId": 881599038,
-      "trackName": "Google Analytics",
       "genreIds": [
         "6000",
         "6007"
       ],
+      "trackId": 881599038,
+      "trackName": "Google Analytics",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "Google LLC",
+      "primaryGenreName": "Business",
+      "primaryGenreId": 6000,
       "currentVersionReleaseDate": "2025-12-09T22:47:54Z",
       "releaseNotes": "Better understand your data with new features including data quality indicators, anomaly detection, top highlights, and more.",
       "version": "4.14.6557",
@@ -381,13 +383,11 @@
       "bundleId": "com.google.AnalyticsApp",
       "trackCensoredName": "Google Analytics",
       "trackViewUrl": "https://apps.apple.com/us/app/google-analytics/id881599038?uo=4",
-      "primaryGenreName": "Business",
-      "primaryGenreId": 6000,
+      "averageUserRating": 4.62679,
+      "minimumOsVersion": "15.0",
+      "contentAdvisoryRating": "4+",
+      "releaseDate": "2014-07-17T23:22:15Z",
       "price": 0,
-      "genres": [
-        "Business",
-        "Productivity"
-      ],
       "userRatingCount": 5249,
       "country": "USA"
     }

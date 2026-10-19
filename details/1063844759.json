@@ -187,6 +187,7 @@
       "userRatingCount": 5215
     },
     {
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f8/19/f8/f819f803-60d4-8f45-d316-3a3ca1ecbc4a/Network_Health.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8f/37/91/8f37919f-61ed-4226-da5b-a261c3b4e199/Chat.png/392x696bb.png",
@@ -207,10 +208,16 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/4f/8c/dd4f8c7f-db2a-21c0-ca18-8c917d628bf4/logo_google_fiber_color-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
+      "advisories": [
+        "Unrestricted Web Access"
+      ],
+      "kind": "software",
+      "features": [
+        "iosUniversal"
+      ],
       "artistViewUrl": "https://apps.apple.com/us/developer/gfiber/id6804078716?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/4f/8c/dd4f8c7f-db2a-21c0-ca18-8c917d628bf4/logo_google_fiber_color-0-0-1x_U007epad-0-11-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/4f/8c/dd4f8c7f-db2a-21c0-ca18-8c917d628bf4/logo_google_fiber_color-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.jpg",
-      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -343,15 +350,6 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [
-        "Unrestricted Web Access"
-      ],
-      "kind": "software",
-      "features": [
-        "iosUniversal"
-      ],
-      "minimumOsVersion": "18.0",
-      "averageUserRatingForCurrentVersion": 4.52238,
       "sellerUrl": "http://gfiber.com",
       "languageCodesISO2A": [
         "EN",
@@ -359,20 +357,23 @@
       ],
       "fileSizeBytes": "135204864",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 5898,
+      "userRatingCountForCurrentVersion": 5944,
       "trackContentRating": "17+",
-      "contentAdvisoryRating": "17+",
-      "averageUserRating": 4.52238,
+      "averageUserRatingForCurrentVersion": 4.52473,
+      "genres": [
+        "Utilities"
+      ],
       "artistId": 6804078716,
       "artistName": "GFiber",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseDate": "2016-04-12T21:29:18Z",
-      "sellerName": "Google Fiber Inc.",
-      "trackId": 1063844759,
-      "trackName": "gFiber: The Google Fiber App",
       "genreIds": [
         "6002"
       ],
+      "trackId": 1063844759,
+      "trackName": "gFiber: The Google Fiber App",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "Google Fiber Inc.",
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
       "currentVersionReleaseDate": "2026-10-08T15:26:58Z",
       "releaseNotes": "Performance enhancements and bug fixes.",
       "version": "3.23.0",
@@ -382,13 +383,12 @@
       "bundleId": "com.google.myfiber",
       "trackCensoredName": "gFiber: The Google Fiber App",
       "trackViewUrl": "https://apps.apple.com/us/app/gfiber-the-google-fiber-app/id1063844759?uo=4",
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
+      "averageUserRating": 4.52473,
+      "minimumOsVersion": "18.0",
+      "contentAdvisoryRating": "17+",
+      "releaseDate": "2016-04-12T21:29:18Z",
       "price": 0,
-      "genres": [
-        "Utilities"
-      ],
-      "userRatingCount": 5898,
+      "userRatingCount": 5944,
       "country": "USA"
     }
   ]
