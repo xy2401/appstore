@@ -266,7 +266,7 @@
       "country": "de",
       "mediaType": "apps",
       "feed": "top-free",
-      "rank": 66,
+      "rank": 52,
       "artistName": "Too Good To Go",
       "id": "1060683933",
       "name": "Too Good To Go: Essen retten",
@@ -292,14 +292,25 @@
       "country": "fr",
       "mediaType": "apps",
       "feed": "top-free",
-      "rank": 3,
+      "rank": 23,
       "artistName": "Too Good To Go",
       "id": "1060683933",
       "name": "Too Good To Go : pas de gaspi",
       "releaseDate": "2015-12-08",
       "kind": "apps",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/47/21/7e472158-792d-75c8-b715-1cb16d478f46/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "genres": [],
+      "genres": [
+        {
+          "genreId": "6023",
+          "name": "Cuisine et boissons",
+          "url": "https://itunes.apple.com/fr/genre/id6023"
+        },
+        {
+          "genreId": "6012",
+          "name": "Style de vie",
+          "url": "https://itunes.apple.com/fr/genre/id6012"
+        }
+      ],
       "url": "https://apps.apple.com/fr/app/too-good-to-go-pas-de-gaspi/id1060683933"
     },
     {
@@ -307,7 +318,7 @@
       "country": "gb",
       "mediaType": "apps",
       "feed": "top-free",
-      "rank": 24,
+      "rank": 19,
       "artistName": "Too Good To Go",
       "id": "1060683933",
       "name": "Too Good To Go: End Food Waste",
