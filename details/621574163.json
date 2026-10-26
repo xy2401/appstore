@@ -197,6 +197,9 @@
     },
     {
       "isGameCenterEnabled": false,
+      "artistViewUrl": "https://apps.apple.com/jp/developer/amzn-mobile-llc/id297606954?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4e/61/a3/4e61a320-b9f8-2f94-1e73-5c47f67861d8/AppIconRelease-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4e/61/a3/4e61a320-b9f8-2f94-1e73-5c47f67861d8/AppIconRelease-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -329,25 +332,25 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "advisories": [],
       "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/jp/developer/amzn-mobile-llc/id297606954?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/37/73/10377332-d96b-c85d-6353-631a73f64f9b/AppIconRelease-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/37/73/10377332-d96b-c85d-6353-631a73f64f9b/AppIconRelease-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
       "features": [
         "iosUniversal"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4e/61/a3/4e61a320-b9f8-2f94-1e73-5c47f67861d8/AppIconRelease-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cd/ef/5c/cdef5c09-e00a-7119-985a-5e812b17569a/AmazonPhotos_AppStore_01UnlimitedPhotoStorage_jp_JP_iOS_Phone_1179x2556.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/24/f4/ad/24f4adb6-1dd8-f9c1-da5b-13006a437c9d/AmazonPhotos_AppStore_03Rediscover_jp_JP_iOS_Phone_1179x2556.png/320x480bb.jpg"
       ],
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fd/3c/50/fd3c5024-6789-d274-bd00-c4a834e91a6f/AmazonPhotos_AppStore_01UnlimitedPhotoStorage_jp_JP_iOS_iPad_2064x2752.png/360x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b3/11/45/b311450a-bdd4-c726-fb52-ab32504c1f81/AmazonPhotos_AppStore_03Rediscover_jp_JP_iOS_iPad_2064x2752.png/360x480bb.jpg"
       ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/37/73/10377332-d96b-c85d-6353-631a73f64f9b/AppIconRelease-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cd/ef/5c/cdef5c09-e00a-7119-985a-5e812b17569a/AmazonPhotos_AppStore_01UnlimitedPhotoStorage_jp_JP_iOS_Phone_1179x2556.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/24/f4/ad/24f4adb6-1dd8-f9c1-da5b-13006a437c9d/AmazonPhotos_AppStore_03Rediscover_jp_JP_iOS_Phone_1179x2556.png/320x480bb.jpg"
-      ],
-      "advisories": [],
-      "minimumOsVersion": "17.0",
+      "contentAdvisoryRating": "12+",
+      "averageUserRating": 4.6253,
+      "trackCensoredName": "Amazon Photos",
+      "trackViewUrl": "https://apps.apple.com/jp/app/amazon-photos/id621574163?uo=4",
       "artistId": 297606954,
       "artistName": "AMZN Mobile LLC",
       "genres": [
@@ -355,29 +358,26 @@
         "ライフスタイル"
       ],
       "price": 0,
-      "primaryGenreName": "Photo & Video",
-      "primaryGenreId": 6008,
       "bundleId": "com.amazon.CloudDrivePhotos",
+      "releaseDate": "2013-05-09T18:59:28Z",
       "trackId": 621574163,
       "trackName": "Amazon Photos",
+      "minimumOsVersion": "17.0",
       "genreIds": [
         "6008",
         "6012"
       ],
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseDate": "2013-05-09T18:59:28Z",
+      "primaryGenreName": "Photo & Video",
+      "primaryGenreId": 6008,
       "sellerName": "AMZN Mobile LLC",
-      "currentVersionReleaseDate": "2026-10-17T06:58:57Z",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-10-24T05:58:09Z",
       "releaseNotes": "全般的なバグ修正と改善。",
-      "version": "12.10.0",
+      "version": "12.10.1",
       "wrapperType": "software",
       "currency": "JPY",
       "description": "Amazon Photosでは、スマートフォンやコンピューターなどのデバイスからすべての写真とビデオをバックアップ、整理、共有できます。ほぼすべてのデバイスにあるすべての写真にアクセスし、家族や友人と共有できます。\n\n写真を自動保存してバックアップ \nスマートフォンの写真とビデオを自動保存して自動的にバックアップします。この無料のフォトストレージアプリは、スマートフォンが紛失または破損した場合でも、写真とビデオを安全に保ちます。Amazon Photosに保存した写真は、スマートフォンから削除してメモリを解放できます。\n\nすべてのデバイスから写真にアクセス \nAmazon Photosに保存した写真には、ほぼすべてのデバイスからアクセスできます。古いラップトップ、スマートフォン、デスクトップにある写真も、1つの安全な場所にまとめて管理できます。\n\n機能: \n- 写真を自動保存して簡単にバックアップし、デバイスのメモリを解放 \n- 写真とビデオをAmazonで安全にバックアップ \n- 写真とアルバムをSMSやメールなどのアプリで共有 \n\nAmazon Photosは、写真とビデオの安全なクラウドストレージとオンラインバックアップを提供します。この無料のオンラインストレージアプリで、携帯電話の大切な写真をアップロードし、表示、共有することができます。\n\n本アプリを使用することで、お客様はAmazon.co.jp利用規約(https://www.amazon.co.jp/conditionsofuse)およびプライバシー規約（www.amazon.co.jp/privacy）に同意するものとします。",
-      "trackCensoredName": "Amazon Photos",
-      "trackViewUrl": "https://apps.apple.com/jp/app/amazon-photos/id621574163?uo=4",
-      "contentAdvisoryRating": "12+",
-      "averageUserRating": 4.62528,
-      "sellerUrl": "https://www.amazon.co.jp/b?language=ja_JP&node=5262648051",
+      "averageUserRatingForCurrentVersion": 4.6253,
       "languageCodesISO2A": [
         "EN",
         "FR",
@@ -388,12 +388,12 @@
         "ZH",
         "ES"
       ],
-      "fileSizeBytes": "350985216",
+      "fileSizeBytes": "349359104",
       "formattedPrice": "無料",
-      "userRatingCountForCurrentVersion": 167626,
+      "userRatingCountForCurrentVersion": 167883,
       "trackContentRating": "12+",
-      "averageUserRatingForCurrentVersion": 4.62528,
-      "userRatingCount": 167626,
+      "sellerUrl": "https://www.amazon.co.jp/b?language=ja_JP&node=5262648051",
+      "userRatingCount": 167883,
       "country": "JPN"
     }
   ]

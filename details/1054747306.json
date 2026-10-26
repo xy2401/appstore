@@ -2,10 +2,10 @@
   "resultCount": 1,
   "results": [
     {
-      "artistViewUrl": "https://apps.apple.com/fr/developer/plato-team-inc/id1054747305?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/e4/6e/02e46ef9-91ab-cbce-0e71-33218a0020ed/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/e4/6e/02e46ef9-91ab-cbce-0e71-33218a0020ed/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -139,14 +139,17 @@
         "iPhoneDuo-iPhoneDuo"
       ],
       "advisories": [
+        "Simulations fréquentes/intenses de jeu de hasard",
         "Concours fréquents/intenses",
         "Scènes rares/modérées réservées aux adultes (suggestives)",
-        "Scènes rares/modérées de violence (animation ou fantastique)",
         "Scènes rares/modérées d’humour vulgaire ou blasphématoire",
-        "Simulations fréquentes/intenses de jeu de hasard",
-        "Scènes rares/modérées de consommation ou de référence à l’alcool, au tabac ou à la drogue"
+        "Scènes rares/modérées de consommation ou de référence à l’alcool, au tabac ou à la drogue",
+        "Scènes rares/modérées de violence (animation ou fantastique)"
       ],
       "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/fr/developer/plato-team-inc/id1054747305?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/c8/90/24c890fe-5e3d-1420-e1b0-2c530b94750e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/c8/90/24c890fe-5e3d-1420-e1b0-2c530b94750e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/51/ae/c9/51aec938-bb4c-a56f-ca02-187a506f7213/iphone_6.5_fr_1.jpg/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/13/0f/49/130f49b2-1fff-74e9-c55b-0e95267846fe/iphone_6.5_fr_2.jpg/320x480bb.jpg",
@@ -162,15 +165,8 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d4/ed/ce/d4edce2b-e559-c816-96b5-6ff47d6b4efa/ipad_fr_5.jpg/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/e4/6e/02e46ef9-91ab-cbce-0e71-33218a0020ed/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
-      "averageUserRating": 4.66906,
-      "trackCensoredName": "Plato: Cool Jeux Multijoueurs",
-      "trackViewUrl": "https://apps.apple.com/fr/app/plato-cool-jeux-multijoueurs/id1054747306?uo=4",
-      "minimumOsVersion": "15.6",
-      "contentAdvisoryRating": "17+",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/c8/90/24c890fe-5e3d-1420-e1b0-2c530b94750e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "releaseNotes": "Une nouvelle façon de jouer et de faire des rencontres est là ! Essayez le nouveau mode Match parfait dans Ocho pour trouver plus facilement des personnes que vous souhaitez rencontrer, avec la prise en charge de davantage de jeux à venir bientôt. Nous avons aussi corrigé quelques bugs et apporté des améliorations générales.",
       "artistId": 1054747305,
       "artistName": "Plato Team Inc",
       "genres": [
@@ -180,27 +176,31 @@
         "Jeux"
       ],
       "price": 0,
+      "currentVersionReleaseDate": "2026-10-19T09:26:38Z",
+      "bundleId": "com.platoapp.Plato",
       "trackId": 1054747306,
       "trackName": "Plato: Cool Jeux Multijoueurs",
       "releaseDate": "2016-12-08T04:30:40Z",
+      "minimumOsVersion": "15.6",
+      "primaryGenreName": "Social Networking",
+      "primaryGenreId": 6005,
+      "sellerName": "Plato Team Inc.",
       "genreIds": [
         "6005",
         "7004",
         "7005",
         "6014"
       ],
-      "primaryGenreName": "Social Networking",
-      "primaryGenreId": 6005,
-      "sellerName": "Plato Team Inc.",
       "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-10-14T21:00:55Z",
-      "releaseNotes": "Une nouvelle façon de jouer et de faire des rencontres est là ! Essayez le nouveau mode Match parfait dans Ocho pour trouver plus facilement des personnes que vous souhaitez rencontrer, avec la prise en charge de davantage de jeux à venir bientôt. Nous avons aussi corrigé quelques bugs et apporté des améliorations générales.",
-      "version": "7.8.0",
+      "version": "7.8.1",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Bienvenue sur l’appli Plato, où les jeux s’allient au bavardage, de la manière la plus épique possible. Plongez-vous dans plus de 50 jeux multijoueurs formidables de bonne qualité où la fonctionnalité chat est intégrée pour vous permettre de jouer et de vous connecter avec des amis, tant anciens que nouveaux. \n\nRaisons d’aimer Plato :\n\n•\tUn tas de jeux : avec 50 jeux multijoueurs de premier plan, tels qu’Ocho (Crazy Eights), Billard et Babyfoot, vous trouverez toujours un jeu sympa pour vous amuser. Que vous préfériez les jeux de stratégie, les sports ou les jeux de société classiques, nous avons tout ce dont vous avez besoin.\n•\tJeux sans publicité : dites adieu aux publicités irritantes et aux combines « payer pour gagner » avec des jeux gratuits. Plato c’est avant tout le jeu sans aucune interruption.\n•\tRespect de la vie privée : nous ne recueillons pas de données inutiles, vous pouvez donc jouer et bavarder en toute tranquillité.\n•\tParadis de la personnalisation : personnalisez votre profil, les thèmes de chats de groupe et les expériences de jeu pour vous approprier Plato.\n•\tJouez avec des amis : jouez à des jeux de chat de groupe avec Plato - c’est une messagerie complète. Participez à des chats de groupe, des salles de chat et même le chat vocal pour l’expérience sociale ultime.\n•\tAffrontez d’autres joueurs : qu’il s’agisse de jeux au classement compétitif ou de tournois hebdomadaires, vous aurez toujours la possibilité de prouver que vous êtes le ou la meilleur.e. Hissez-vous en haut des tableaux de bord et vantez-vous auprès de vos amis.\n\nDes jeux à ne pas manquer :\n•\tClassiques : Jeu de dames, d’échecs, de backgammon, de dés, de dominos, de quatre dans la rangée\n•\tJeux de cartes : Baloot, Hold'em Poker, Spades, Euchre, Gin Rummy, Hearts, Go Fish\n•\tJeux de société : Ludo, Bingo, Dots & Boxes, Bankroll, Werewolf (Mafia)\n•\tSports et action : Tir à l’arc, rebond, basketball, babyfoot, bowling, cup pong, fléchettes, mini-golf\n•\tPuzzles et jeux de stratégie : Minesweepers, Wordbox, Go, Literati, Mancala, Dots & Boxes\n•\tJeux exclusifs de Plato : Match Monsters, Brawlbots, Plox, Blitz League\n\nRejoignez des millions de joueurs de par le monde qui ont fait de Plato leur appli préférée de jeu et de bavardage. Téléchargez Plato dès aujourd’hui et découvrez la fusion ultime entre le divertissement et l’amitié dans des jeux en ligne !\n\nVous avez une question ? Contactez-nous à hello@platoapp.com, nous aimerions avoir votre avis.",
-      "averageUserRatingForCurrentVersion": 4.66906,
-      "bundleId": "com.platoapp.Plato",
+      "trackCensoredName": "Plato: Cool Jeux Multijoueurs",
+      "trackViewUrl": "https://apps.apple.com/fr/app/plato-cool-jeux-multijoueurs/id1054747306?uo=4",
+      "averageUserRating": 4.66892,
+      "contentAdvisoryRating": "17+",
+      "sellerUrl": "https://www.platoapp.com",
       "languageCodesISO2A": [
         "AR",
         "NL",
@@ -222,12 +222,12 @@
         "UK",
         "VI"
       ],
-      "fileSizeBytes": "349746176",
+      "fileSizeBytes": "349869056",
       "formattedPrice": "Gratuit",
-      "userRatingCountForCurrentVersion": 486601,
+      "userRatingCountForCurrentVersion": 487240,
       "trackContentRating": "17+",
-      "sellerUrl": "https://www.platoapp.com",
-      "userRatingCount": 486601,
+      "averageUserRatingForCurrentVersion": 4.66892,
+      "userRatingCount": 487240,
       "country": "FRA"
     }
   ]

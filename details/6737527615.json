@@ -259,9 +259,9 @@
     },
     {
       "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
+      "artistViewUrl": "https://apps.apple.com/us/developer/google/id281956209?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/84/50/9c8450d7-92e9-9356-6053-cd0c69a03edf/gemini_notebook_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/84/50/9c8450d7-92e9-9356-6053-cd0c69a03edf/gemini_notebook_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -395,14 +395,14 @@
         "iPhoneDuo-iPhoneDuo"
       ],
       "advisories": [
-        "Infrequent/Mild Mature/Suggestive Themes",
-        "Infrequent/Mild Horror/Fear Themes",
-        "Infrequent/Mild Cartoon or Fantasy Violence",
-        "Infrequent/Mild Sexual Content and Nudity",
-        "Infrequent/Mild Profanity or Crude Humor",
         "Infrequent/Mild Medical/Treatment Information",
+        "Infrequent/Mild Horror/Fear Themes",
+        "Infrequent/Mild Sexual Content and Nudity",
+        "Infrequent/Mild Cartoon or Fantasy Violence",
         "Infrequent/Mild Realistic Violence",
-        "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References"
+        "Infrequent/Mild Profanity or Crude Humor",
+        "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References",
+        "Infrequent/Mild Mature/Suggestive Themes"
       ],
       "kind": "software",
       "screenshotUrls": [
@@ -422,40 +422,41 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3f/44/69/3f446955-847c-2a9c-3b2f-03f894056079/GNB_AppStore_iPadOS_ShareSheet.jpg/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/e2/ad/bee2ad66-a18c-5b79-9754-cdcc2425c29c/gemini_notebook_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/60x60bb.jpg",
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/e2/ad/bee2ad66-a18c-5b79-9754-cdcc2425c29c/gemini_notebook_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/512x512bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/e2/ad/bee2ad66-a18c-5b79-9754-cdcc2425c29c/gemini_notebook_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/us/developer/google/id281956209?uo=4",
-      "releaseNotes": "Bug fixes and improvements!",
-      "minimumOsVersion": "17.0",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/84/50/9c8450d7-92e9-9356-6053-cd0c69a03edf/gemini_notebook_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/512x512bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
+      "averageUserRating": 4.86236,
+      "trackCensoredName": "Gemini Notebook",
+      "trackViewUrl": "https://apps.apple.com/us/app/gemini-notebook/id6737527615?uo=4",
+      "contentAdvisoryRating": "12+",
+      "artistId": 281956209,
       "artistName": "Google",
       "genres": [
         "Productivity",
         "Education"
       ],
       "price": 0,
-      "bundleId": "com.google.NotebookLM",
+      "trackId": 6737527615,
+      "trackName": "Gemini Notebook",
       "genreIds": [
         "6007",
         "6017"
       ],
+      "minimumOsVersion": "17.0",
+      "releaseDate": "2025-05-19T07:00:00Z",
       "primaryGenreName": "Productivity",
       "primaryGenreId": 6007,
       "sellerName": "Google LLC",
       "isVppDeviceBasedLicensingEnabled": true,
-      "releaseDate": "2025-05-19T07:00:00Z",
-      "trackName": "Gemini Notebook",
-      "trackId": 6737527615,
-      "currentVersionReleaseDate": "2026-10-12T15:00:43Z",
-      "version": "1.61.7",
+      "currentVersionReleaseDate": "2026-10-23T10:03:31Z",
+      "releaseNotes": "One-tap notebook creation: the “Create new” button on the home page now generates a new notebook without automatically opening the source upload pop-up.\n\nBug fixes and performance improvements.",
+      "version": "1.64.1",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Turn complexity into clarity with Gemini Notebook, your brain’s new best friend. Join the millions of students, creators, researchers, professionals, CEOs, and more who are saving time, getting stuff done, and learning in new ways.\n\n“One of the most compelling and completely flabbergasting demonstrations of AI’s potential yet.” – The Wall Street Journal\n\nNow, with the Gemini Notebook app, you can create and access notebooks, ask questions whenever you think of them, and listen to your podcast-style Audio Overviews on the go with background playback and offline support.\n\nUPLOAD SOURCES\nUpload all your long and complex PDFs, websites, YouTube videos, or text into a notebook.\n\nINSIGHTS YOU CAN TRUST\nGemini Notebook becomes an expert on your sources, summarizing them and making interesting connections. Then, you can ask it questions about, well, anything — and you can trust the answers, since your sources are cited in-line.\n\nLEARN YOUR OWN WAY\nLong blocks of text not your preferred way to learn? Transform what you uploaded into something more your speed, like a podcast-style audio discussion with two engaging AI hosts. You can even join the show to ask questions or steer the conversation in a different direction.",
       "sellerUrl": "http://notebooklm.google",
-      "userRatingCountForCurrentVersion": 63254,
-      "averageUserRatingForCurrentVersion": 4.86243,
-      "averageUserRating": 4.86243,
-      "trackCensoredName": "Gemini Notebook",
+      "averageUserRatingForCurrentVersion": 4.86236,
       "languageCodesISO2A": [
         "AF",
         "SQ",
@@ -522,13 +523,12 @@
         "UR",
         "VI"
       ],
-      "fileSizeBytes": "221066240",
+      "fileSizeBytes": "217973760",
       "formattedPrice": "Free",
-      "contentAdvisoryRating": "12+",
-      "trackViewUrl": "https://apps.apple.com/us/app/gemini-notebook/id6737527615?uo=4",
+      "userRatingCountForCurrentVersion": 63849,
       "trackContentRating": "12+",
-      "artistId": 281956209,
-      "userRatingCount": 63254,
+      "bundleId": "com.google.NotebookLM",
+      "userRatingCount": 63849,
       "country": "USA"
     }
   ]

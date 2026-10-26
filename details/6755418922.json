@@ -184,6 +184,7 @@
     {
       "isGameCenterEnabled": false,
       "features": [],
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -316,7 +317,6 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
       "kind": "software",
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
@@ -334,7 +334,7 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/26/c8/2e/26c82ed6-f3f0-0271-249a-78b9cf149159/screenshot-7.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e8/c7/1a/e8c71a25-1949-533a-1be6-664981e8a63b/screenshot-8.png/320x480bb.jpg"
       ],
-      "minimumOsVersion": "17.6",
+      "releaseNotes": "Kleinere Verbesserungen bei der Cloud-Sync-Anmeldung",
       "artistId": 1806568407,
       "artistName": "Heiko Schafer",
       "genres": [
@@ -342,36 +342,36 @@
         "Entwickler-Tools"
       ],
       "price": 4.99,
-      "currentVersionReleaseDate": "2026-10-19T01:22:44Z",
-      "trackId": 6755418922,
+      "bundleId": "com.Lotte-Tech.HotkeyApp",
       "genreIds": [
         "6007",
         "6026"
       ],
-      "trackName": "Anamnesomat",
+      "minimumOsVersion": "17.6",
       "primaryGenreName": "Productivity",
       "primaryGenreId": 6007,
-      "releaseNotes": "Kleinere Verbesserungen bei der Cloud-Sync-Anmeldung",
       "releaseDate": "2025-11-23T08:00:00Z",
-      "sellerName": "Heiko Schafer",
+      "trackName": "Anamnesomat",
+      "trackId": 6755418922,
       "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "Heiko Schafer",
+      "currentVersionReleaseDate": "2026-10-19T01:22:44Z",
       "version": "6.0.1",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Kurzbeschreibung\nAnamnesomat verbindet iPhone/iPad per Bluetooth mit der Anamnesomat Bridge (USB-Tastatur) und sendet Text sowie Tastenkombinationen an Ihren Computer. Strukturierte Anamnese, Hotkeys, eigene Kataloge – optional mit KI. Hardware: Bridge und Bridge PRO.\n\nHauptfunktionen\nHotkey-Verwaltung: Unbegrenzte Hotkeys mit Namen und über 3000 Icons – anlegen, bearbeiten, teilen, einmalig senden ohne Speichern.\n\nTastatur: Direkte Texteingabe mit Schnellwahltasten wie {ENTER}, {TAB}, {ESC}, {CTRL+C}. Optional lokale Liste „Zuletzt gesendet“ (standardmäßig aus).\n\nAnamnesomat: Wizard mit 22 Fragenkatalogen: Auffindesituation, xABCDE, SAMPLER, OPQRST, beFAST/FAST4D, Bodycheck, Vorerkrankungen, Innere Medizin, Neurologie, Dauermedikation, Psychiatrie, Kardiologie, Pulmologie, Gastroenterologie, Orthopädie, HNO, Dermatologie, Gynäkologie, Urologie, Pädiatrie, Verweigerung, KTW-Transport. Automatische Textgenerierung, Vorschau, Favoriten. Bei Dauermedikation optional Mediplanscan (OCR lokal auf dem Gerät, keine Fotospeicherung).\n\nKI-Textverbesserung: Formuliert Befunde und Anamnesen medizinisch nach – nur Formulierung, keine neuen Inhalte. 10× kostenlos, danach Abo (0,99 €/Woche, 2,99 €/Monat, 19,99 €/Jahr). In allen Katalogen und in der Tastatur.\n\nSchnelldoku: Stichworte eingeben, KI erzeugt einen dokumentationstauglichen Fließtext (gleiche 10 kostenlosen Nutzungen bzw. Abo). Nichts wird erfunden, nur umformuliert.\n\nEigene Kataloge: In der App oder online unter rauszeit.app/anamnesomat.html erstellen, als .anakatalog laden, durchspielen und an die Bridge senden. Fragen mit Text, Zahl, Einfach- oder Mehrfachauswahl sowie Fließtext-Kataloge mit Platzhaltern. Ideal für Teams.\n\nBridge & Bridge PRO: Automatische Bluetooth-Suche, Verbindungsstatus, Wiederverbindung. Firmware-Updates (OTA) über die App. Zielsystem (Windows/macOS) einstellbar. Bridge PRO zusätzlich: Display, bis zu 10 Hotkey-Slots am Stick (auch ohne Smartphone senden), Schreibgeschwindigkeit.\n\nWörterbuch: Fachbegriffe mit Erläuterungen, Suche, Wort oder Erläuterung per Knopfdruck senden. Redaktion mit Passwort.\n\nAnwendungsfälle\nDokumentation: Strukturierte Anamnese am Smartphone, Text wird wie eine Tastatur in Ihre bestehende Software eingefügt (z. B. Protokollsysteme, Word, E-Mail). Optional KI für einheitliche Formulierung.\n\nProduktivität: Textbausteine, Hotkeys und eigene Kataloge für Formulare, E-Mails und wiederkehrende Texte.\n\nVorteile\nKernfunktionen offline. Direkte Bluetooth-Verbindung, keine Cloud-Speicherung von Anamnesetexten. Unbegrenzte Hotkeys und eigene Kataloge. Optional KI (10× kostenlos, danach Abo).\n\nDie App ist ein Dokumentationshilfsmittel – keine Diagnosen, keine Behandlungsempfehlungen.\n\nInstallation\nApp installieren, Bridge per USB am Computer einstecken (keine zusätzliche Software).\nBluetooth aktivieren, in der App verbinden.\nOptional: eigene Kataloge unter rauszeit.app/anamnesomat.html erstellen und laden.\nBridge und Bridge PRO: rauszeit.app/shop\n\nSupport\nKontinuierliche Updates. Support bei Fragen.\n\nEntwickelt von HS-APPLABS\n\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-      "bundleId": "com.Lotte-Tech.HotkeyApp",
       "sellerUrl": "https://rauszeit.app/shop",
-      "averageUserRating": 4.61538,
+      "averageUserRating": 4.5,
       "trackCensoredName": "Anamnesomat",
       "languageCodesISO2A": [],
+      "averageUserRatingForCurrentVersion": 4.5,
       "fileSizeBytes": "19969024",
       "formattedPrice": "4,99 €",
       "contentAdvisoryRating": "4+",
-      "userRatingCountForCurrentVersion": 39,
+      "userRatingCountForCurrentVersion": 42,
       "trackViewUrl": "https://apps.apple.com/de/app/anamnesomat/id6755418922?uo=4",
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.61538,
-      "userRatingCount": 39,
+      "userRatingCount": 42,
       "country": "DEU"
     }
   ]

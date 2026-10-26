@@ -2,17 +2,22 @@
   "resultCount": 1,
   "results": [
     {
+      "formattedPrice": "4,99 €",
       "artistIds": [
         2022980
       ],
-      "price": 4.99,
+      "artistId": 2022980,
+      "artistName": "Robert Ludlum",
       "genres": [
         "Krimis und Thriller",
         "Bücher"
       ],
-      "artistId": 2022980,
-      "artistName": "Robert Ludlum",
+      "price": 4.99,
       "releaseDate": "2010-11-12T08:00:00Z",
+      "genreIds": [
+        "9032",
+        "38"
+      ],
       "trackId": 403119101,
       "trackName": "Das Sigma-Protokoll",
       "kind": "ebook",
@@ -23,11 +28,6 @@
       "trackViewUrl": "https://books.apple.com/de/book/das-sigma-protokoll/id403119101?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication/fa/74/4c/mzi.dwvdcfml.jpg/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication/fa/74/4c/mzi.dwvdcfml.jpg/100x100bb.jpg",
-      "formattedPrice": "4,99 €",
-      "genreIds": [
-        "9032",
-        "38"
-      ],
       "averageUserRating": 4,
       "userRatingCount": 287,
       "country": "DEU"

@@ -3,10 +3,6 @@
   "results": [
     {
       "isGameCenterEnabled": false,
-      "artistViewUrl": "https://apps.apple.com/de/developer/lars-behnke/id527638156?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/b4/7e/c8b47e4c-7b24-3a02-bb3a-7345ef2de6b2/icon_fishing_by-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/b4/7e/c8b47e4c-7b24-3a02-bb3a-7345ef2de6b2/icon_fishing_by-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
-      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -139,7 +135,14 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "advisories": [],
       "kind": "software",
+      "features": [
+        "iosUniversal"
+      ],
+      "artistViewUrl": "https://apps.apple.com/de/developer/lars-behnke/id527638156?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/b4/7e/c8b47e4c-7b24-3a02-bb3a-7345ef2de6b2/icon_fishing_by-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/b4/7e/c8b47e4c-7b24-3a02-bb3a-7345ef2de6b2/icon_fishing_by-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/23/30/b6233077-dd19-646f-446d-91fa5f623d52/45ea45dd-6f5a-4244-98d3-e93a96ca6bda_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2023-01-22_at_22.04.42.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/4b/af/334baf25-731c-5a4f-4292-b09d81a1a16b/7a964279-221c-48b4-9df0-5a9499332011_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2023-01-22_at_22.08.54.png/392x696bb.png",
@@ -157,36 +160,35 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/b4/7e/c8b47e4c-7b24-3a02-bb3a-7345ef2de6b2/icon_fishing_by-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
-      "releaseNotes": "▻ Erklärungen zu Antworten ergänzt",
-      "trackCensoredName": "Fischereiprüfung Bayern 2026",
-      "trackViewUrl": "https://apps.apple.com/de/app/fischereipr%C3%BCfung-bayern-2026/id1182028285?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.45652,
+      "artistId": 527638156,
+      "artistName": "Lars Behnke",
       "genres": [
         "Bildung",
         "Sport"
       ],
       "price": 5.99,
+      "releaseDate": "2017-01-13T06:47:44Z",
+      "minimumOsVersion": "15.6",
       "genreIds": [
         "6017",
         "6004"
       ],
-      "releaseDate": "2017-01-13T06:47:44Z",
-      "primaryGenreName": "Education",
-      "primaryGenreId": 6017,
       "trackId": 1182028285,
       "trackName": "Fischereiprüfung Bayern 2026",
+      "primaryGenreName": "Education",
+      "primaryGenreId": 6017,
+      "sellerName": "Lars Behnke",
+      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-09-19T02:48:12Z",
+      "releaseNotes": "▻ Erklärungen zu Antworten ergänzt",
       "version": "2.25",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Die App enthält den im Januar 2026 veröffentlichten Katalog mit etwa 1000 amtlichen Prüfungsfragen zur Vorbereitung auf die theoretische Fischereiprüfung im Freistaat Bayern. Die Fragen sind verpackt als digitale Lernkarten. In einer Prüfungssimulation wird das Wissen unter prüfungsähnlichen Bedingungen abgefragt. Im Anschluss an die Prüfung können eventuelle Fehler mit den korrekten Lösungen verglichen werden. Die Antworten werden teilweise erläutert. Deinen Lernfortschritt hast du stets mittels grafischer Auswertung im Blick.\n\nBitte beachten: Aus urheberrechtlichen Gründen wurden die Originalabbildungen der Bildfragen, durch ähnliche Abbildungen ersetzt.",
-      "minimumOsVersion": "15.6",
-      "averageUserRatingForCurrentVersion": 4.45652,
-      "sellerUrl": "http://www.apporiented.de/fishingby2",
+      "bundleId": "com.apporiented.ISCFishingBY2",
+      "contentAdvisoryRating": "4+",
+      "trackCensoredName": "Fischereiprüfung Bayern 2026",
+      "trackViewUrl": "https://apps.apple.com/de/app/fischereipr%C3%BCfung-bayern-2026/id1182028285?uo=4",
       "languageCodesISO2A": [
         "EN",
         "DE"
@@ -195,11 +197,9 @@
       "formattedPrice": "5,99 €",
       "userRatingCountForCurrentVersion": 138,
       "trackContentRating": "4+",
-      "bundleId": "com.apporiented.ISCFishingBY2",
-      "sellerName": "Lars Behnke",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "artistId": 527638156,
-      "artistName": "Lars Behnke",
+      "averageUserRatingForCurrentVersion": 4.45652,
+      "sellerUrl": "http://www.apporiented.de/fishingby2",
+      "averageUserRating": 4.45652,
       "userRatingCount": 138,
       "country": "DEU"
     }

@@ -2,6 +2,7 @@
   "resultCount": 2,
   "results": [
     {
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/fd/8c/d9fd8cbe-7c9f-deef-3d56-ce668a7f95c1/pr_source.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/36/4f/3d364fcc-0af9-61c5-26d9-168f7156070e/pr_source.png/392x696bb.png",
@@ -9,8 +10,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/eb/0d/01eb0dc4-a44c-8d20-4008-401abac49d11/pr_source.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/06/78/3006789b-5f7f-c297-2358-90f03f1c51fd/pr_source.png/392x696bb.png"
       ],
-      "appletvScreenshotUrls": [],
-      "isGameCenterEnabled": false,
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/1e/c2/a01ec226-44e7-0f5a-2daf-d6c1d5d8aeb8/pr_source.png/360x480bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/b8/a8/72b8a8be-b6a8-1f88-4e63-ceae39642df7/pr_source.png/360x480bb.png",
@@ -18,7 +17,11 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/c9/c2/69c9c26a-d4ea-d5d7-18aa-820dc0884d87/pr_source.png/360x480bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/7b/c7/237bc773-0508-cb87-d858-1017753b283f/pr_source.png/360x480bb.png"
       ],
+      "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/c4/d9/13c4d967-6370-2beb-5814-1fec60f2cb96/AppIcon-0-1x_U007epad-0-1-85-220-0.png/512x512bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -151,22 +154,19 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "features": [
-        "iosUniversal"
-      ],
       "advisories": [],
       "kind": "software",
       "artistViewUrl": "https://apps.apple.com/fr/developer/falling-fruit/id951506043?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/c4/d9/13c4d967-6370-2beb-5814-1fec60f2cb96/AppIcon-0-1x_U007epad-0-1-85-220-0.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/c4/d9/13c4d967-6370-2beb-5814-1fec60f2cb96/AppIcon-0-1x_U007epad-0-1-85-220-0.png/100x100bb.jpg",
       "averageUserRatingForCurrentVersion": 2.26667,
-      "fileSizeBytes": "38679552",
-      "formattedPrice": "0,99 €",
-      "userRatingCountForCurrentVersion": 15,
       "releaseNotes": "* Navigate in street view with clickable and labeled markers\n* Drag to set location position in both map and street view\n* Open photos fullscreen and zoom in further\n* Update stale or incomplete locations with helpful hints\n* Delete your account\n* Reviews are sorted by newest first\n* Cultivar names are shown in location labels\n* Bug fixes and technical improvements",
       "languageCodesISO2A": [
         "EN"
       ],
+      "fileSizeBytes": "38679552",
+      "formattedPrice": "0,99 €",
+      "userRatingCountForCurrentVersion": 15,
       "trackContentRating": "4+",
       "artistId": 951506043,
       "artistName": "Falling Fruit",
@@ -174,33 +174,39 @@
         "Style de vie",
         "Cuisine et boissons"
       ],
-      "isVppDeviceBasedLicensingEnabled": true,
-      "trackId": 380859409,
-      "trackName": "Falling Fruit",
-      "releaseDate": "2010-07-05T21:10:23Z",
+      "price": 0.99,
       "genreIds": [
         "6012",
         "6023"
       ],
+      "bundleId": "com.fiddlemeragged.fallingfruit",
+      "primaryGenreName": "Lifestyle",
+      "primaryGenreId": 6012,
+      "minimumOsVersion": "15.6",
+      "releaseDate": "2010-07-05T21:10:23Z",
+      "trackId": 380859409,
+      "trackName": "Falling Fruit",
+      "sellerName": "Falling Fruit",
+      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-09-29T20:21:26Z",
       "version": "0.3.2",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Falling Fruit is a community-driven platform for sharing locations of edible plants and other sources of free food. You can discover what others have been harvesting in your area and contribute your own observations.\n\nWe aspire to provide the world's most comprehensive and open foraging and freegan map. Since our launch in 2013, we have been collecting locations from app users, as well as from hundreds of community, university, and municipal datasets. Today, the map hosts millions of locations in thousands of cities covering thousands of edible types (fruit trees, berries, nuts, herbs, vegetables, mushrooms, dumpsters, and more).\n\nOur mobile app offers the same core functionality as our free website, with refinements and native interfaces designed specifically for phones. A small price for the app helps cover the project's costs, and all proceeds go to Falling Fruit, a 501(c)(3) nonprofit based in Boulder, Colorado, USA.\n\nFalling Fruit is not associated with Fallen Fruit. Fallen Fruit can be found at fallenfruit.org.",
-      "minimumOsVersion": "15.6",
+      "averageUserRating": 2.26667,
       "trackCensoredName": "Falling Fruit",
       "trackViewUrl": "https://apps.apple.com/fr/app/falling-fruit/id380859409?uo=4",
       "contentAdvisoryRating": "4+",
-      "averageUserRating": 2.26667,
-      "bundleId": "com.fiddlemeragged.fallingfruit",
-      "primaryGenreName": "Lifestyle",
-      "primaryGenreId": 6012,
-      "sellerName": "Falling Fruit",
-      "price": 0.99,
       "userRatingCount": 15,
       "country": "FRA"
     },
     {
+      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
+      "advisories": [],
+      "kind": "software",
       "artistViewUrl": "https://apps.apple.com/us/developer/falling-fruit/id951506043?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/c4/d9/13c4d967-6370-2beb-5814-1fec60f2cb96/AppIcon-0-1x_U007epad-0-1-85-220-0.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/c4/d9/13c4d967-6370-2beb-5814-1fec60f2cb96/AppIcon-0-1x_U007epad-0-1-85-220-0.png/100x100bb.jpg",
@@ -220,7 +226,6 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/c4/d9/13c4d967-6370-2beb-5814-1fec60f2cb96/AppIcon-0-1x_U007epad-0-1-85-220-0.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -353,14 +358,30 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
-      "kind": "software",
-      "features": [
-        "iosUniversal"
+      "releaseNotes": "* Navigate in street view with clickable and labeled markers\n* Drag to set location position in both map and street view\n* Open photos fullscreen and zoom in further\n* Update stale or incomplete locations with helpful hints\n* Delete your account\n* Reviews are sorted by newest first\n* Cultivar names are shown in location labels\n* Bug fixes and technical improvements",
+      "artistId": 951506043,
+      "artistName": "Falling Fruit",
+      "bundleId": "com.fiddlemeragged.fallingfruit",
+      "genres": [
+        "Lifestyle",
+        "Food & Drink"
       ],
+      "sellerName": "Falling Fruit",
+      "minimumOsVersion": "15.6",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "trackId": 380859409,
+      "trackName": "Falling Fruit",
+      "releaseDate": "2010-07-05T21:10:23Z",
+      "currentVersionReleaseDate": "2026-09-29T20:21:26Z",
+      "version": "0.3.2",
+      "wrapperType": "software",
+      "currency": "USD",
+      "description": "Falling Fruit is a community-driven platform for sharing locations of edible plants and other sources of free food. You can discover what others have been harvesting in your area and contribute your own observations.\n\nWe aspire to provide the world's most comprehensive and open foraging and freegan map. Since our launch in 2013, we have been collecting locations from app users, as well as from hundreds of community, university, and municipal datasets. Today, the map hosts millions of locations in thousands of cities covering thousands of edible types (fruit trees, berries, nuts, herbs, vegetables, mushrooms, dumpsters, and more).\n\nOur mobile app offers the same core functionality as our free website, with refinements and native interfaces designed specifically for phones. A small price for the app helps cover the project's costs, and all proceeds go to Falling Fruit, a 501(c)(3) nonprofit based in Boulder, Colorado, USA.\n\nFalling Fruit is not associated with Fallen Fruit. Fallen Fruit can be found at fallenfruit.org.",
       "contentAdvisoryRating": "4+",
       "averageUserRating": 2.43102,
-      "minimumOsVersion": "15.6",
+      "trackCensoredName": "Falling Fruit",
+      "trackViewUrl": "https://apps.apple.com/us/app/falling-fruit/id380859409?uo=4",
+      "averageUserRatingForCurrentVersion": 2.43102,
       "languageCodesISO2A": [
         "EN"
       ],
@@ -368,34 +389,13 @@
       "formattedPrice": "$0.99",
       "userRatingCountForCurrentVersion": 116,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 2.43102,
-      "releaseNotes": "* Navigate in street view with clickable and labeled markers\n* Drag to set location position in both map and street view\n* Open photos fullscreen and zoom in further\n* Update stale or incomplete locations with helpful hints\n* Delete your account\n* Reviews are sorted by newest first\n* Cultivar names are shown in location labels\n* Bug fixes and technical improvements",
-      "price": 0.99,
-      "artistId": 951506043,
-      "artistName": "Falling Fruit",
-      "genres": [
-        "Lifestyle",
-        "Food & Drink"
-      ],
       "genreIds": [
         "6012",
         "6023"
       ],
-      "bundleId": "com.fiddlemeragged.fallingfruit",
-      "releaseDate": "2010-07-05T21:10:23Z",
-      "trackId": 380859409,
-      "trackName": "Falling Fruit",
+      "price": 0.99,
       "primaryGenreName": "Lifestyle",
       "primaryGenreId": 6012,
-      "sellerName": "Falling Fruit",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-09-29T20:21:26Z",
-      "version": "0.3.2",
-      "wrapperType": "software",
-      "currency": "USD",
-      "description": "Falling Fruit is a community-driven platform for sharing locations of edible plants and other sources of free food. You can discover what others have been harvesting in your area and contribute your own observations.\n\nWe aspire to provide the world's most comprehensive and open foraging and freegan map. Since our launch in 2013, we have been collecting locations from app users, as well as from hundreds of community, university, and municipal datasets. Today, the map hosts millions of locations in thousands of cities covering thousands of edible types (fruit trees, berries, nuts, herbs, vegetables, mushrooms, dumpsters, and more).\n\nOur mobile app offers the same core functionality as our free website, with refinements and native interfaces designed specifically for phones. A small price for the app helps cover the project's costs, and all proceeds go to Falling Fruit, a 501(c)(3) nonprofit based in Boulder, Colorado, USA.\n\nFalling Fruit is not associated with Fallen Fruit. Fallen Fruit can be found at fallenfruit.org.",
-      "trackCensoredName": "Falling Fruit",
-      "trackViewUrl": "https://apps.apple.com/us/app/falling-fruit/id380859409?uo=4",
       "userRatingCount": 116,
       "country": "USA"
     }

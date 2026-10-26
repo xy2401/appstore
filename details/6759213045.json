@@ -2,11 +2,10 @@
   "resultCount": 1,
   "results": [
     {
-      "screenshotUrls": [],
-      "ipadScreenshotUrls": [],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/84/2e/a1842ed3-6c63-afcd-62ee-5896e17b117e/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -134,56 +133,75 @@
         "iPadAir11M4-iPadAir11M4",
         "iPadAir11M4Cellular-iPadAir11M4Cellular",
         "iPadAir13M4-iPadAir13M4",
-        "iPadAir13M4Cellular-iPadAir13M4Cellular"
+        "iPadAir13M4Cellular-iPadAir13M4Cellular",
+        "iPhone18Pro-iPhone18Pro",
+        "iPhone18ProMax-iPhone18ProMax",
+        "iPhoneDuo-iPhoneDuo"
       ],
-      "features": [
-        "iosUniversal"
-      ],
-      "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/jp/developer/haga-kunihiko/id1553088822?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/84/2e/a1842ed3-6c63-afcd-62ee-5896e17b117e/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/84/2e/a1842ed3-6c63-afcd-62ee-5896e17b117e/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
       "advisories": [],
-      "languageCodesISO2A": [
-        "EN"
+      "kind": "software",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/3d/28/403d2819-0ce7-407b-31ca-f30ef0bbdc15/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9a/12/49/9a124914-3bfa-b7e7-b051-4b855bb60fd7/iphone65_01_command_center.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a3/84/57/a3845793-dd4e-60f1-28f3-8e17546e4a8d/iphone65_02_prompt.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/73/6e/9f/736e9f7d-5edb-46ee-b595-40b9225ce865/iphone65_03_keeps_running_chat.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/59/26/47/5926479b-7ded-52b1-c477-5a00dcf03982/iPhone_17_-_7.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/96/b4/53/96b453b4-d206-e484-3500-5f2655d3e6c1/iPhone_17_-_8.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2c/ce/c1/2ccec1f6-1dd4-ab17-fd9a-e627e2303b82/iPhone_17_-_9.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/15/0a/eb/150aeb3a-6c10-b9cc-d54e-9fca17b4f72d/iPhone_17_-_10.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/94/43/ba/9443babe-e251-7be7-d1d1-aa274a31f5a5/iPhone_17_-_11.png/320x480bb.jpg"
       ],
-      "fileSizeBytes": "75119616",
-      "formattedPrice": "¥800",
-      "trackContentRating": "4+",
-      "sellerUrl": "https://iru-yo.com/",
-      "averageUserRatingForCurrentVersion": 4.53846,
-      "userRatingCountForCurrentVersion": 13,
-      "price": 800,
-      "bundleId": "com.obutora.sshtermxxx",
-      "primaryGenreName": "Developer Tools",
-      "primaryGenreId": 6026,
-      "trackId": 6759213045,
-      "trackName": "SSH Term X",
-      "sellerName": "Haga Kunihiko",
-      "releaseDate": "2026-02-24T08:00:00Z",
-      "currentVersionReleaseDate": "2026-07-04T21:34:09Z",
-      "releaseNotes": "Tailscaleの「SSH check mode」利用時、サーバーがuserauthバナーで認証用URLを送信し、認証待ち状態になることがありました。このバナーが破棄され、URLが表示されずスピナーが回り続ける不具合を修正しました。",
-      "version": "2.37.9",
-      "wrapperType": "software",
-      "currency": "JPY",
-      "description": "「もっとはやく利用させていただければよかった」「物理キーボード+日本語入力が完璧に網羅」——\nレビューで実際に評価されている使い心地を、まずは試してみてください。\n\nSSH Term は、日本語入力・SFTPプレビュー・バックグラウンド維持を全て備えた、モバイルでの本格的なSSH操作のために設計されたターミナルクライアントです。Claude Code をはじめとするCLIツールをスマートフォンから快適に動かせます。\n\n▼ こんな使い方ができます\n・自宅のPCで動くClaude Codeにスマホから接続し、日本語で指示を出す\n・外出先からサーバーにSSHでつないで、AIにコードを書かせる\n・Claude Codeが生成したコードをファイラーで開き、シンタックスハイライト付きでプレビュー\n・電車の中でプロジェクトの進捗を確認し、追加の指示を送る\n\n▼ SSH Term が選ばれる理由\n・アプリ内で鍵を生成し、すぐにサーバーに登録できる\n・SFTP対応でリモートファイルをそのまま閲覧・管理\n・バックグラウンドでもSSH接続が切れない\n・ネットワーク切断時に自動で再接続\n・複数サーバーにタブで同時接続\n・サブスクなし・テレメトリなし・アカウント登録不要\n\n■ 日本語入力（IMEモード）\n多くのモバイルSSHアプリは日本語入力に対応していません。SSH Term は IMEモードを搭載し、日本語テキストをターミナルに直接入力できます。Claude Code への指示、git commit メッセージ、ファイル内の日本語テキスト編集など、あらゆる場面で日本語が使えます。\n\n■ SFTPファイラー\nSSH接続中のサーバーのファイルをそのまま閲覧できるビルトインファイラー。Claude Code が生成・編集したファイルをターミナルを離れずに確認できます。名前・サイズ・更新日時でのソート、隠しファイルの表示切替、ファイルのリネーム・削除にも対応。\n\n■ ファイルプレビュー（シンタックスハイライト）\nDart、Python、JavaScript/TypeScript、Go、Rust、Shellなど40以上の言語をシンタックスハイライト付きでプレビュー。Claude Code の出力コードをその場で読み、必要な部分をワンタップでクリップボードにコピーできます。タブレットでは2ペイン表示で、ファイル一覧とプレビューを同時に確認できます。\n\n■ お気に入り（ブックマーク）\nよく確認するディレクトリやファイルをホスト単位でブックマーク。プロジェクトのsrcフォルダやログディレクトリなどをワンタップで開けます。\n\n■ バックグラウンド接続維持\nClaude Code の処理は数分かかることもあります。アプリをバックグラウンドに移しても、フォアグラウンドサービスがSSH接続を維持。他のアプリを使っている間も処理は止まりません。\n\n■ 自動再接続\nネットワーク切断時は自動で再接続を試みます（最大3回、指数バックオフ）。移動中のWi-Fi切り替えでも、セッションが途切れにくい設計です。\n\n■ 複数セッションを同時管理\nタブ切り替えで複数のSSH接続を並行操作。Claude Code を動かしながら、別タブでサーバーログを監視したり、別のプロジェクトを操作できます。\n\n■ 入力アシストツールバー\nCtrl+C、Tab、Escapeなどの特殊キーをワンタップで送信。矢印キー、F1〜F12、Home/End/PageUp/PageDownも搭載。物理キーボードがなくても快適に操作できます。\n\n■ 3つの認証方式\n・パスワード認証\n・公開鍵認証（ファイル指定 / アプリ内生成）\n・キーボードインタラクティブ認証\n\n■ アプリ内で鍵を生成 → すぐにサーバー登録\nEd25519（推奨）、RSA 2048、RSA 4096の鍵ペアをアプリ内で直接生成。公開鍵はワンタップでクリップボードにコピーできるので、そのままサーバーのauthorized_keysに貼り付けるだけ。PCを開かなくても、スマホだけで公開鍵認証のセットアップが完結します。\n\n■ 8種類のターミナルテーマ\nDracula、Nord、Tokyo Night、Monokai、Solarized Dark、Gruvbox、Catppuccin Mocha、One Dark。長時間の作業でも目に優しいテーマを選べます。\n\n■ 豊富なフォント選択\nFira Code、JetBrains Mono、Source Code Proなど10種類のモノスペースフォント。日本語フォントはNoto Sans JP、M PLUS 1 Codeなど6種類に対応。フォントサイズと行間もスライダーで自由に調整できます。\n\n■ テキスト選択とコピー＆ペースト\nドラッグ選択、ダブルタップで単語選択、長押しで単語境界選択。Claude Code の出力をコピーして他のアプリに共有するのも簡単です。\n\n■ 接続プロファイル管理\nよく使うサーバーの接続情報を保存。ワンタップで接続を開始できます。認証情報は暗号化して安全に保存されます。\n\n■ セキュリティ\n・認証情報の暗号化保存\n・SSH鍵の安全な管理\n・セキュアストレージによる機密データ保護\n・クラウド同期なし・テレメトリなし・アカウント登録不要\n\nSSHプロトコルによるセキュアな接続。Claude Code ユーザー、サーバー管理者、開発者、インフラエンジニアのための実用的なモバイルターミナルです。",
-      "trackCensoredName": "SSH Term X",
-      "trackViewUrl": "https://apps.apple.com/jp/app/ssh-term-x/id6759213045?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.53846,
-      "minimumOsVersion": "13.0",
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/99/37/ee/9937ee34-69ab-2e41-597a-43915d542bdd/ipad13_01_panes.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cf/56/35/cf56353a-8125-fba3-0c2f-bded64f3d51f/ipad13_02_home.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ee/f5/4e/eef54e72-86c4-051c-52a0-27cca36bb2dc/ipad13_03_tabs.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/34/25/52/3425521e-03f4-5121-03c0-406e7dd48db6/ipad13_04_filer.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/13/2b/28/132b2841-ebde-aada-6f5b-8dd80ffe3b37/ipad13_05_keys.jpg/360x480bb.jpg"
+      ],
+      "appletvScreenshotUrls": [],
+      "artistViewUrl": "https://apps.apple.com/jp/developer/haga-kunihiko/id1553088822?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/3d/28/403d2819-0ce7-407b-31ca-f30ef0bbdc15/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/3d/28/403d2819-0ce7-407b-31ca-f30ef0bbdc15/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
+      "releaseNotes": "SSH の秘密鍵を貼り付けて登録できるようにしました。1Password などからコピーした鍵にも対応しています（接続の編集 › 公開鍵 › 秘密鍵を貼り付け）",
       "artistId": 1553088822,
       "artistName": "Haga Kunihiko",
-      "genreIds": [
-        "6026",
-        "6002"
-      ],
-      "isVppDeviceBasedLicensingEnabled": true,
       "genres": [
         "開発ツール",
         "ユーティリティ"
       ],
-      "userRatingCount": 13,
+      "price": 800,
+      "bundleId": "com.obutora.sshtermxxx",
+      "genreIds": [
+        "6026",
+        "6002"
+      ],
+      "currentVersionReleaseDate": "2026-10-25T19:51:09Z",
+      "releaseDate": "2026-02-24T08:00:00Z",
+      "minimumOsVersion": "15.0",
+      "sellerName": "Haga Kunihiko",
+      "trackId": 6759213045,
+      "trackName": "SSH Term X",
+      "primaryGenreName": "Developer Tools",
+      "primaryGenreId": 6026,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "version": "2.66.0",
+      "wrapperType": "software",
+      "currency": "JPY",
+      "description": "AI エージェントの司令塔は、手元のスマホ。どのハーネスでも、どのモデルでも、日本語のままで。\n\n■ つなぐだけでは足りない\nエージェントは長く走り、途中で承認や入力を待ちます。SSH Term は、保存したホストごとのカードに、対応しているハーネスのエージェントの状態（作業中・入力待ち・承認待ち）を並べます。どれが何を待っているかを見て、その場で指示を返せます。\n\n■ ハーネスにも、モデルにも縛られない\nターミナルで動くエージェントなら、そのまま起動して指示を出せます。モデルやプロバイダー（API キー・Bedrock など）は、ホストの設定のまま使えます。エージェントは自分のホストで動き、会話の記録もホストにあって、第三者のサービスを経由しません。\n\n■ 対応しているハーネス\n状態の一覧とチャット表示は、Claude Code・Codex・Oh My Pi・Pi・Copilot CLI に対応しています。\n\n■ 司令塔は、いつも手元にあるスマホ\nアプリを閉じても、エージェントはホストで動き続けます（保持シェル）。開き直すと、見逃した出力ごとタブに戻ります。承認待ち・入力待ち・完了は、アプリを閉じていても無料の ntfy アプリにプッシュで届きます（Slack・Discord・Telegram にも送れます）。チャット表示から、動いているエージェントに次の指示を返せます。\n\n■ 日本語のまま、細かく指示できる\nエージェントへの指示は、ふだんの言葉で書く文章です。海外製の SSH アプリで崩れがちな日本語入力が、SSH Term ではそのまま打てます。IME モードなら、組み立て中の文字が崩れず、長い指示も日本語のまま送れます。\n\n■ 買い切り。あとから機能が消えない\nアカウントもライセンスサーバーもないので、あとから機能が消えません。機能はすべて本体の価格に含まれ、追加課金で機能が増えることはありません。アプリ内の購入は、任意で開発を応援するものだけです。サブスクなし・広告なし・テレメトリなし。認証情報は端末の外に出ません。\n\n----------\n\n■ エージェントの一覧とチャット表示（β版）\nホストを一度準備すれば、PC のターミナルで起動した、対応しているハーネスのエージェントも、スマホから続きを見られます。会話をチャット形式で読み、返事や承認ができます。送った文は、PC で打ちかけの文字とは混ざりません。\n\n■ 保持シェル（tmux も Mosh も不要）\n接続が切れても、シェルはホストに残ります。Wi-Fi とモバイル回線の切り替えや画面ロックでも作業は止まらず、つながり直すとタブが自動で戻り、見逃した出力も表示します。ホストに要るのは小さな補助プログラム stagent だけ。sha256 を確かめてから ~/.ssh-term/agent に入れます（Linux・macOS・Windows のホスト。Windows は既定のシェルが cmd か PowerShell のとき）。\n\n■ AI エージェントのセッション\n対応しているハーネスの会話を一覧から再開できます。開き方は、保持シェル・tmux・zellij・screen・herdr から選べます。\n\n■ 日本語入力（IME モード）\n入力欄で変換を確定してから、まとめてターミナルに送ります。組み立て中の文字がコマンドとして漏れることはありません。git commit のメッセージや、ファイル内の日本語の編集にも使えます。\n\n■ iPad・iPhone Duo の大きな画面で\niPad や、開いた iPhone Duo の大きな画面では、いくつもの画面を並べて同時に見られます。\n・2つのタブを並べて表示。エージェントの承認に答えながら、隣でサーバーログを追えます\n・ホームでは、接続の一覧と、各ホストで動いているエージェントのカードを並べて表示\n・サイドバーに開いているタブの一覧。承認を待つタブが先頭に来て、各タブの最後の数行も見えます\n・ファイラーは2ペイン表示で、ファイル一覧とプレビューを同時に確認できます\n・外付けキーボードをつなぐと、PC と同じように打てます。キーの帯は隠れて画面を広く使え、右下の「キー」でいつでも出せます\n・開いた iPhone Duo なら、2つの端末を上下に並べて、片方で指示を出しながらもう片方で結果を確認\nSplit View などで画面を分けても、ウィンドウの幅に合わせて正しく表示されます。\n\n■ SFTP ファイラーとプレビュー\nエージェントが作ったファイルを、ターミナルを離れずに確かめられます。名前・サイズ・更新日時での並べ替え、隠しファイルの表示切替、リネーム・削除、ホストごとのブックマーク。Python・JavaScript/TypeScript・Go・Rust・Dart・Shell などをシンタックスハイライト付きでプレビューできます。\n\n■ 自動再接続・マルチタブ\n回線が切れたら自動で再接続し（最大 3 回）、複数の接続をタブで並べられます。Tailscale SSH でもつながります。\n\n■ 入力アシストツールバー\nCtrl+C・Tab・Esc・矢印キー・F1〜F12・Home/End/PageUp/PageDown をワンタップで送れます。\n\n■ 認証と鍵\nパスワード・公開鍵・キーボードインタラクティブの 3 つの認証方式。Ed25519（推奨）・RSA 2048・RSA 4096 の鍵をアプリ内で作り、公開鍵をワンタップでコピーできます。\n\n■ テーマとフォント\nDracula・Nord・Tokyo Night などのテーマ、Fira Code・JetBrains Mono などのフォントに加え、日本語のフォントも選べます。背景画像も変えられます。\n\n■ セキュリティ\n・認証情報は端末内に暗号化して保存\n・ホスト鍵の確認（初回の接続で固定）\n・アプリロック（PIN・Face ID・Touch ID）\n・クラウド同期なし・テレメトリなし・アカウント不要\n\nAI エージェントの司令塔は、手元のスマホ。Claude Code・Codex・Copilot CLI を、日本語のまま動かすためのモバイル SSH クライアントです。",
+      "sellerUrl": "https://iru-yo.com/ssh-term/",
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "fileSizeBytes": "88118272",
+      "formattedPrice": "¥800",
+      "trackContentRating": "4+",
+      "averageUserRatingForCurrentVersion": 4.41667,
+      "userRatingCountForCurrentVersion": 24,
+      "trackCensoredName": "SSH Term X",
+      "trackViewUrl": "https://apps.apple.com/jp/app/ssh-term-x/id6759213045?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.41667,
+      "userRatingCount": 24,
       "country": "JPN"
     }
   ]

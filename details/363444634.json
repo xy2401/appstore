@@ -2,6 +2,7 @@
   "resultCount": 1,
   "results": [
     {
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/04/c5/7604c5b0-4438-a0c5-6788-2a70c26f9abf/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-05-18_at_21.39.25.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a0/09/b5/a009b52f-f40c-1c03-e461-5b0564cd7bbe/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-05-18_at_21.39.21.png/320x480bb.jpg",
@@ -14,8 +15,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ea/e4/3b/eae43bfe-84e1-5aae-fdf1-1f68518d5e0b/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-04-04_at_11.49.10.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3a/f8/f7/3af8f790-aba9-361d-5eef-93cb175533e6/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-05-18_at_21.41.42.png/320x480bb.jpg"
       ],
-      "appletvScreenshotUrls": [],
-      "isGameCenterEnabled": false,
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/93/40/4e/93404eef-39e9-dc45-34c9-28ac6ae7ce05/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-05-18_at_21.47.19.png/360x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f9/6f/a9/f96fa904-4beb-c177-1391-4aaa9c44560a/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-05-18_at_21.48.29.png/360x480bb.jpg",
@@ -26,7 +25,11 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5c/f8/29/5cf8293e-9a20-1e70-6e98-273131801e96/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-05-18_at_21.48.21.png/360x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/92/a0/6c/92a06c0f-c49f-0ec7-dc65-d9498b85cec3/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-05-18_at_21.49.24.png/360x480bb.jpg"
       ],
+      "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/d8/f5/bfd8f56a-dd19-6c8a-e0a0-8ed4a002d431/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.jpeg/512x512bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -160,25 +163,22 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "features": [
-        "iosUniversal"
-      ],
       "advisories": [],
       "kind": "software",
       "artistViewUrl": "https://apps.apple.com/fr/developer/brewalan-le-dru/id354890574?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/d8/f5/bfd8f56a-dd19-6c8a-e0a0-8ed4a002d431/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.jpeg/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/d8/f5/bfd8f56a-dd19-6c8a-e0a0-8ed4a002d431/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.jpeg/100x100bb.jpg",
-      "averageUserRatingForCurrentVersion": 4.19231,
-      "fileSizeBytes": "5387264",
-      "formattedPrice": "0,99 €",
-      "userRatingCountForCurrentVersion": 26,
+      "averageUserRatingForCurrentVersion": 4.25,
       "releaseNotes": "- Lecture de la conjugaison du verbe en espagnol\n- Paramètre pour afficher une icône de lecture\n- Synchronisation des verbes favoris et récents sur l'Apple Watch\n- Ajout du swipe horizontal sur l'Apple Watch",
+      "sellerUrl": "https://www.elconjugador.com/frlogicieliphone.php",
       "languageCodesISO2A": [
         "EN",
         "FR",
         "ES"
       ],
-      "sellerUrl": "https://www.elconjugador.com/frlogicieliphone.php",
+      "fileSizeBytes": "5387264",
+      "formattedPrice": "0,99 €",
+      "userRatingCountForCurrentVersion": 28,
       "trackContentRating": "4+",
       "artistId": 354890574,
       "artistName": "Brewalan Le Dru",
@@ -186,30 +186,30 @@
         "Éducation",
         "Références"
       ],
-      "isVppDeviceBasedLicensingEnabled": true,
-      "trackId": 363444634,
-      "trackName": "El Conjugador",
-      "releaseDate": "2010-03-27T02:28:25Z",
+      "price": 0.99,
       "genreIds": [
         "6017",
         "6006"
       ],
+      "bundleId": "89Q4MC5NW4.com.leconjugueur.Conjugador",
+      "primaryGenreName": "Education",
+      "primaryGenreId": 6017,
+      "minimumOsVersion": "18.6",
+      "releaseDate": "2010-03-27T02:28:25Z",
+      "trackId": 363444634,
+      "trackName": "El Conjugador",
+      "sellerName": "Brewalan Le Dru",
+      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-06-03T20:58:03Z",
       "version": "2.62",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "El Conjugador — Conjugaison espagnole\nConjuguez n'importe quel verbe espagnol en un instant, même sans connexion Internet. El Conjugador est l'outil de référence pour tous les apprenants et locuteurs de l'espagnol.\n\nRecherche intuitive\n- Commencez à taper quelques lettres, El Conjugador vous suggère aussitôt une liste de verbes correspondants.\n- Plus besoin de connaître l'orthographe exacte pour trouver ce que vous cherchez.\n\nConjugaison complète et fiable\n- Accédez à la conjugaison intégrale de tous les verbes espagnols, avec l'ensemble des temps et des modes. Toutes les règles de grammaire, de conjugaison et d'accord sont intégrées directement dans l'application.\n\nRetrouvez un verbe depuis sa forme conjuguée\n- Vous rencontrez une forme verbale inconnue ? El Conjugador l'identifie et vous renvoie vers l'infinitif et sa conjugaison complète.\n\nApprenez en vous amusant\n- Désormais, El Conjugador va plus loin avec des exercices interactifs pour pratiquer et renforcer vos connaissances :\n- QCM (Questions à choix multiples) : Testez vos connaissances sur les conjugaisons et les règles de grammaire.\n- Exercices à trous : Complétez les phrases avec la forme verbale correcte.\n- Petits jeux : Des défis ludiques pour apprendre sans pression (ex : trouver l’intrus, associer verbe et conjugaison, etc.).\n- Écrire les nombres en lettres : Maîtrisez l’écriture des chiffres en espagnol (1 → uno, 25 → veinticinco, etc.).\n\n100 % hors ligne\n- Aucun abonnement, aucune connexion requise. El Conjugador fonctionne partout, tout le temps.",
-      "minimumOsVersion": "18.6",
+      "averageUserRating": 4.25,
       "trackCensoredName": "El Conjugador",
       "trackViewUrl": "https://apps.apple.com/fr/app/el-conjugador/id363444634?uo=4",
       "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.19231,
-      "bundleId": "89Q4MC5NW4.com.leconjugueur.Conjugador",
-      "primaryGenreName": "Education",
-      "primaryGenreId": 6017,
-      "sellerName": "Brewalan Le Dru",
-      "price": 0.99,
-      "userRatingCount": 26,
+      "userRatingCount": 28,
       "country": "FRA"
     }
   ]

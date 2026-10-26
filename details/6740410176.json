@@ -204,9 +204,9 @@
     },
     {
       "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
+      "artistViewUrl": "https://apps.apple.com/us/developer/mistral-ai/id1789808929?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/5e/a8/ec5ea80b-a9ca-c2ed-3f3a-a145c3bf8229/chat-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/5e/a8/ec5ea80b-a9ca-c2ed-3f3a-a145c3bf8229/chat-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -340,14 +340,14 @@
         "iPhoneDuo-iPhoneDuo"
       ],
       "advisories": [
-        "Infrequent/Mild Mature/Suggestive Themes",
-        "Infrequent/Mild Cartoon or Fantasy Violence",
-        "Infrequent/Mild Profanity or Crude Humor",
-        "Infrequent/Mild Horror/Fear Themes",
-        "Infrequent/Mild Simulated Gambling",
         "Infrequent/Mild Medical/Treatment Information",
+        "Infrequent/Mild Simulated Gambling",
+        "Infrequent/Mild Profanity or Crude Humor",
+        "Infrequent/Mild Realistic Violence",
         "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References",
-        "Infrequent/Mild Realistic Violence"
+        "Infrequent/Mild Cartoon or Fantasy Violence",
+        "Infrequent/Mild Mature/Suggestive Themes",
+        "Infrequent/Mild Horror/Fear Themes"
       ],
       "kind": "software",
       "screenshotUrls": [
@@ -367,40 +367,41 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ed/cb/da/edcbda3f-dcfc-5ff3-3f28-b17edabc1ccf/iPad_Screenshot_06.png/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/01/f0/e201f059-3131-6110-61bf-d547acda6a4f/chat-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/01/f0/e201f059-3131-6110-61bf-d547acda6a4f/chat-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/01/f0/e201f059-3131-6110-61bf-d547acda6a4f/chat-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/us/developer/mistral-ai/id1789808929?uo=4",
-      "releaseNotes": "Various fixes and improvements.",
-      "minimumOsVersion": "16.4",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/5e/a8/ec5ea80b-a9ca-c2ed-3f3a-a145c3bf8229/chat-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
+      "averageUserRating": 4.76072,
+      "trackCensoredName": "Vibe by Mistral (ex-Le Chat)",
+      "trackViewUrl": "https://apps.apple.com/us/app/vibe-by-mistral-ex-le-chat/id6740410176?uo=4",
+      "contentAdvisoryRating": "12+",
+      "artistId": 1789808929,
       "artistName": "Mistral AI",
       "genres": [
         "Productivity",
         "Utilities"
       ],
       "price": 0,
-      "bundleId": "ai.mistral.chat",
+      "trackId": 6740410176,
+      "trackName": "Vibe by Mistral (ex-Le Chat)",
       "genreIds": [
         "6007",
         "6002"
       ],
+      "minimumOsVersion": "16.4",
+      "releaseDate": "2025-02-05T08:00:00Z",
       "primaryGenreName": "Productivity",
       "primaryGenreId": 6007,
       "sellerName": "MISTRAL AI",
       "isVppDeviceBasedLicensingEnabled": true,
-      "releaseDate": "2025-02-05T08:00:00Z",
-      "trackName": "Vibe by Mistral (ex-Le Chat)",
-      "trackId": 6740410176,
-      "currentVersionReleaseDate": "2026-10-19T07:48:38Z",
-      "version": "2.15.0",
+      "currentVersionReleaseDate": "2026-10-23T07:20:07Z",
+      "releaseNotes": "Various fixes and improvements.",
+      "version": "2.16.0",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Vibe is your AI agent for long-horizon tasks, fluent in your knowledge and tools. From a single conversation, it can think through complex work, draft solutions and deliver finished outcomes you can trust. All from your phone.\n\nCore ways to use Vibe:\n- Catch up across email, chat, calendar, and internal knowledge in one run\n- Run deep research across the web, internal docs, and connected tools with sourced analysis\n- Analyse spreadsheets and connected resources to surface patterns, anomalies, and key signals\n- Draft reports, updates, and announcements from internal context\n- And much more\n\nGet started with Vibe today: Free for quick answers and simple everyday tasks and Pro for complex work and deeper reasoning. For custom deployments, model training, and dedicated support, contact us about Enterprise: https://mistral.ai/contact.",
       "sellerUrl": "https://mistral.ai",
-      "userRatingCountForCurrentVersion": 1318,
-      "averageUserRatingForCurrentVersion": 4.76023,
-      "averageUserRating": 4.76023,
-      "trackCensoredName": "Vibe by Mistral (ex-Le Chat)",
+      "averageUserRatingForCurrentVersion": 4.76072,
       "languageCodesISO2A": [
         "NL",
         "EN",
@@ -413,13 +414,12 @@
         "ES",
         "UK"
       ],
-      "fileSizeBytes": "109827072",
+      "fileSizeBytes": "105917440",
       "formattedPrice": "Free",
-      "contentAdvisoryRating": "12+",
-      "trackViewUrl": "https://apps.apple.com/us/app/vibe-by-mistral-ex-le-chat/id6740410176?uo=4",
+      "userRatingCountForCurrentVersion": 1329,
       "trackContentRating": "12+",
-      "artistId": 1789808929,
-      "userRatingCount": 1318,
+      "bundleId": "ai.mistral.chat",
+      "userRatingCount": 1329,
       "country": "USA"
     }
   ]

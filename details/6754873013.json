@@ -2,10 +2,12 @@
   "resultCount": 1,
   "results": [
     {
+      "formattedPrice": "12,99 €",
       "artistIds": [
         1849881797
       ],
-      "price": 12.99,
+      "artistId": 1849881797,
+      "artistName": "Sarah Fulmar",
       "genres": [
         "Zeitgenössische Liebesromane",
         "Bücher",
@@ -13,9 +15,15 @@
         "Romantische Komödien",
         "Belletristik und Literatur"
       ],
-      "artistId": 1849881797,
-      "artistName": "Sarah Fulmar",
+      "price": 12.99,
       "releaseDate": "2026-08-31T07:00:00Z",
+      "genreIds": [
+        "10057",
+        "38",
+        "9003",
+        "11042",
+        "9031"
+      ],
       "trackId": 6754873013,
       "trackName": "Autumn Secrets",
       "kind": "ebook",
@@ -26,14 +34,6 @@
       "trackViewUrl": "https://books.apple.com/de/book/autumn-secrets/id6754873013?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/7c/93/e2/7c93e20c-6ceb-49d1-c49f-927850043c4c/9783751793124.jpg/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/7c/93/e2/7c93e20c-6ceb-49d1-c49f-927850043c4c/9783751793124.jpg/100x100bb.jpg",
-      "formattedPrice": "12,99 €",
-      "genreIds": [
-        "10057",
-        "38",
-        "9003",
-        "11042",
-        "9031"
-      ],
       "country": "DEU"
     }
   ]

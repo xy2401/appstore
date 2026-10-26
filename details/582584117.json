@@ -333,6 +333,7 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "advisories": [],
       "kind": "software",
       "artistViewUrl": "https://apps.apple.com/us/developer/civi-corp/id505154738?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/15/61/c015618b-35e8-a2cb-0cbc-a51b9b74fdf5/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg",
@@ -363,30 +364,36 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/15/61/c015618b-35e8-a2cb-0cbc-a51b9b74fdf5/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
-      "advisories": [],
-      "primaryGenreName": "Navigation",
-      "primaryGenreId": 6010,
       "artistId": 505154738,
       "artistName": "Civi Corp",
+      "genres": [
+        "Navigation",
+        "Photo & Video"
+      ],
       "price": 0.99,
+      "sellerName": "Civi Corp Pty Ltd",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "trackId": 582584117,
+      "trackName": "Solocator - GPS Field Camera",
+      "primaryGenreName": "Navigation",
+      "primaryGenreId": 6010,
+      "releaseDate": "2012-12-09T15:12:33Z",
+      "minimumOsVersion": "15.0",
       "genreIds": [
         "6010",
         "6008"
       ],
-      "releaseDate": "2012-12-09T15:12:33Z",
-      "trackId": 582584117,
-      "trackName": "Solocator - GPS Field Camera",
       "currentVersionReleaseDate": "2026-10-07T18:29:34Z",
+      "releaseNotes": "Fixed an issue where the photo library was delayed opening or freezing for some users with a large photo database.",
       "version": "2.28",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Solocator – The GPS Camera for Fieldwork and Photo Proof evidence. Overlay and stamp photos with location, direction, altitude, date & time taken. With the Industry Pack (in-app purchase), capture field notes including project name, photo description, company or username, and company logo.\nSolocator is trusted by professionals, government agencies, and industries worldwide for reliable photo documentation.\n\nTAILOR OVERLAY INFORMATION TO YOUR NEEDS\nCapture & stamp on your photos:\n\n+ GPS position (Latitude & Longitude in various formats) ± accuracy\n+ UTM/MGRS coordinates (Industry Pack)\n+ Street address (Industry Pack)\n+ Direction – bearing\n+ Altitude (MLS / HAE)\n+ Tilt & Roll angles\n+ Local date & time (based on GPS location)\n+ Local time zone\n+ UTC time\n+ Compass display\n+ Cardinal directions\n+ Building facade direction, e.g. \"North elevation\"\n+ Field Notes (Industry Pack)\n+ Company Logo (Industry Pack)\n\n\nAUTOSAVE PHOTOS TO iCLOUD & CAMERA ROLL\nAutosave two photos at once: one stamped with the selected overlays and the other as an original high-resolution photo.\n\n\nSORT, SEARCH, SHARE OR EMAIL\n+ Photos are sorted by time, location, distance from current location and project name.\n+ View photo direction and location in map view and navigate there.\n+ Share photos individually or as a zip file via the share sheet.\n+ Search for photos by date, date range or notes and street addresses.\n+ Email photos including the following information:\n   - Exif metadata\n   - Compass direction\n   - GPS position ± accuracy\n   - Altitude\n   - Tilt & Roll\n   - Date & time taken\n   - Street address (Industry Pack)\n   - Cardinal Directions\n   - Elevation of building facade\n   - Links to maps so the receiver can navigate there easily\n\n\n** INDUSTRY PACK **  (In-App Purchase) \"One-off charge\"\n\nEDITABLE NOTES OVERLAY\nStamp photos with \"Project name\", \"Description\" & “Watermark”. The Project Name field can be used as a job or ticket number. The Watermark field is typically used for a company or username. You can also edit these fields later.\n\nWATERMARK LOGO\nAdd your Company Logo to photos. You can customise the logo’s size, opacity, and position for both portrait and landscape photos. To get you started, a Solocator icon is included, which can be replaced.\n\nCUSTOM EXPORT FILENAME\nDefine your photo export filename from a selection of fields: Project Name, Description, Watermark, Street Address, Date/Time, Number#, Custom text field, Photo type (original/stamped), and Coordinates (DD.dddddd, UTM, UTM Bands, MGRS). \n\nAUTOSAVE OR EXPORT PHOTOS TO CLOUD STORAGE\nAutosave original and stamped photos to Google Drive, Dropbox, and OneDrive (Personal & For Business), including SharePoint Sites and Teams. You can also save photos in date or project name subfolders automatically.\n\nPHOTO DATA in KML, KMZ & CSV\nAlong with photos, email or export photo data and notes in KML, KMZ or CSV formats. Both email and export buttons are customisable to suit your data requirements.\n\nSTREET ADDRESS & UTM/MGRS\nAdd street address to your overlay or use UTM/, UTM Bands & MGRS coordinate formats.\n\nBATCH EDIT NOTES & OVERLAY FIELDS\nSelect photos from the library and edit Project Name, Description & Watermark fields in one go.\n\nTRACK PHOTOS IN MAP VIEW\nView photos by direction, the distance between photos, area of photos taken and distance to your added markers via imported KML files or dropped pins.\n\nREFINE & LOCK GPS LOCATION\nIdeal for those working in and around buildings; to improve your GPS location. You can also use it to lock the asset position you're photographing.\n\nCOMPACT VIEW\nSwitch off Compass, Building and Street modes and only show the GPS info bar for a more compact view.\n\nVPP Customers: https://solocator.com/enterprise-app-for-mdms/\nTerms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-      "bundleId": ".com.solocator.solocator",
       "trackCensoredName": "Solocator - GPS Field Camera",
       "trackViewUrl": "https://apps.apple.com/us/app/solocator-gps-field-camera/id582584117?uo=4",
       "contentAdvisoryRating": "4+",
       "averageUserRating": 4.2725,
-      "minimumOsVersion": "15.0",
+      "bundleId": ".com.solocator.solocator",
       "sellerUrl": "https://solocator.com",
       "languageCodesISO2A": [
         "EN"
@@ -396,21 +403,10 @@
       "userRatingCountForCurrentVersion": 422,
       "trackContentRating": "4+",
       "averageUserRatingForCurrentVersion": 4.2725,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "genres": [
-        "Navigation",
-        "Photo & Video"
-      ],
-      "sellerName": "Civi Corp Pty Ltd",
-      "releaseNotes": "Fixed an issue where the photo library was delayed opening or freezing for some users with a large photo database.",
       "userRatingCount": 422,
       "country": "USA"
     },
     {
-      "artistViewUrl": "https://apps.apple.com/gb/developer/civi-corp/id505154738?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/15/61/c015618b-35e8-a2cb-0cbc-a51b9b74fdf5/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/15/61/c015618b-35e8-a2cb-0cbc-a51b9b74fdf5/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
-      "isGameCenterEnabled": false,
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/03/0f/a0030f17-8c37-b35a-14de-d3b5849d2f3e/pr_source.jpg/360x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/50/43/fb504301-9a1e-1569-edb0-3b8a2946ef6a/pr_source.jpg/360x480bb.jpg",
@@ -437,9 +433,11 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/4b/a1/b94ba1d0-2569-ba7f-e2b7-b5424a4fb490/pr_source.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/e7/89/31e7896f-8c39-4de3-f1b1-60ca57dcd441/pr_source.png/392x696bb.png"
       ],
+      "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
       ],
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -572,15 +570,10 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
       "kind": "software",
-      "contentAdvisoryRating": "4+",
-      "trackCensoredName": "Solocator - GPS Field Camera",
-      "trackViewUrl": "https://apps.apple.com/gb/app/solocator-gps-field-camera/id582584117?uo=4",
-      "averageUserRating": 3.73684,
-      "minimumOsVersion": "15.0",
-      "averageUserRatingForCurrentVersion": 3.73684,
-      "sellerUrl": "https://solocator.com",
+      "artistViewUrl": "https://apps.apple.com/gb/developer/civi-corp/id505154738?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/15/61/c015618b-35e8-a2cb-0cbc-a51b9b74fdf5/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/15/61/c015618b-35e8-a2cb-0cbc-a51b9b74fdf5/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
       "languageCodesISO2A": [
         "EN"
       ],
@@ -588,6 +581,10 @@
       "formattedPrice": "£0.99",
       "userRatingCountForCurrentVersion": 38,
       "trackContentRating": "4+",
+      "sellerUrl": "https://solocator.com",
+      "averageUserRatingForCurrentVersion": 3.73684,
+      "averageUserRating": 3.73684,
+      "releaseNotes": "Fixed an issue where the photo library was delayed opening or freezing for some users with a large photo database.",
       "artistId": 505154738,
       "artistName": "Civi Corp",
       "genres": [
@@ -595,24 +592,27 @@
         "Photo & Video"
       ],
       "price": 0.99,
-      "trackId": 582584117,
-      "trackName": "Solocator - GPS Field Camera",
-      "releaseNotes": "Fixed an issue where the photo library was delayed opening or freezing for some users with a large photo database.",
-      "releaseDate": "2012-12-09T15:12:33Z",
-      "currentVersionReleaseDate": "2026-10-07T18:29:34Z",
+      "bundleId": ".com.solocator.solocator",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "Civi Corp Pty Ltd",
       "genreIds": [
         "6010",
         "6008"
       ],
-      "primaryGenreName": "Navigation",
-      "primaryGenreId": 6010,
-      "sellerName": "Civi Corp Pty Ltd",
-      "isVppDeviceBasedLicensingEnabled": true,
+      "minimumOsVersion": "15.0",
+      "currentVersionReleaseDate": "2026-10-07T18:29:34Z",
+      "releaseDate": "2012-12-09T15:12:33Z",
+      "trackId": 582584117,
+      "trackName": "Solocator - GPS Field Camera",
       "version": "2.28",
       "wrapperType": "software",
       "currency": "GBP",
       "description": "Solocator – The GPS Camera for Fieldwork and Photo Proof evidence. Overlay and stamp photos with location, direction, altitude, date & time taken. With the Industry Pack (in-app purchase), capture field notes including project name, photo description, company or username, and company logo.\nSolocator is trusted by professionals, government agencies, and industries worldwide for reliable photo documentation.\n\nTAILOR OVERLAY INFORMATION TO YOUR NEEDS\nCapture & stamp on your photos:\n\n+ GPS position (Latitude & Longitude in various formats) ± accuracy\n+ UTM/MGRS coordinates (Industry Pack)\n+ Street address (Industry Pack)\n+ Direction – bearing\n+ Altitude (MLS / HAE)\n+ Tilt & Roll angles\n+ Local date & time (based on GPS location)\n+ Local time zone\n+ UTC time\n+ Compass display\n+ Cardinal directions\n+ Building facade direction, e.g. \"North elevation\"\n+ Field Notes (Industry Pack)\n+ Company Logo (Industry Pack)\n\n\nAUTOSAVE PHOTOS TO iCLOUD & CAMERA ROLL\nAutosave two photos at once: one stamped with the selected overlays and the other as an original high-resolution photo.\n\n\nSORT, SEARCH, SHARE OR EMAIL\n+ Photos are sorted by time, location, distance from current location and project name.\n+ View photo direction and location in map view and navigate there.\n+ Share photos individually or as a zip file via the share sheet.\n+ Search for photos by date, date range or notes and street addresses.\n+ Email photos including the following information:\n   - Exif metadata\n   - Compass direction\n   - GPS position ± accuracy\n   - Altitude\n   - Tilt & Roll\n   - Date & time taken\n   - Street address (Industry Pack)\n   - Cardinal Directions\n   - Elevation of building facade\n   - Links to maps so the receiver can navigate there easily\n\n\n** INDUSTRY PACK **  (In-App Purchase) \"One-off charge\"\n\nEDITABLE NOTES OVERLAY\nStamp photos with \"Project name\", \"Description\" & “Watermark”. The Project Name field can be used as a job or ticket number. The Watermark field is typically used for a company or username. You can also edit these fields later.\n\nWATERMARK LOGO\nAdd your Company Logo to photos. You can customise the logo’s size, opacity, and position for both portrait and landscape photos. To get you started, a Solocator icon is included, which can be replaced.\n\nCUSTOM EXPORT FILENAME\nDefine your photo export filename from a selection of fields: Project Name, Description, Watermark, Street Address, Date/Time, Number#, Custom text field, Photo type (original/stamped), and Coordinates (DD.dddddd, UTM, UTM Bands, MGRS). \n\nAUTOSAVE OR EXPORT PHOTOS TO CLOUD STORAGE\nAutosave original and stamped photos to Google Drive, Dropbox, and OneDrive (Personal & For Business), including SharePoint Sites and Teams. You can also save photos in date or project name subfolders automatically.\n\nPHOTO DATA in KML, KMZ & CSV\nAlong with photos, email or export photo data and notes in KML, KMZ or CSV formats. Both email and export buttons are customisable to suit your data requirements.\n\nSTREET ADDRESS & UTM/MGRS\nAdd street address to your overlay or use UTM/, UTM Bands & MGRS coordinate formats.\n\nBATCH EDIT NOTES & OVERLAY FIELDS\nSelect photos from the library and edit Project Name, Description & Watermark fields in one go.\n\nTRACK PHOTOS IN MAP VIEW\nView photos by direction, the distance between photos, area of photos taken and distance to your added markers via imported KML files or dropped pins.\n\nREFINE & LOCK GPS LOCATION\nIdeal for those working in and around buildings; to improve your GPS location. You can also use it to lock the asset position you're photographing.\n\nCOMPACT VIEW\nSwitch off Compass, Building and Street modes and only show the GPS info bar for a more compact view.\n\nVPP Customers: https://solocator.com/enterprise-app-for-mdms/\nTerms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-      "bundleId": ".com.solocator.solocator",
+      "trackViewUrl": "https://apps.apple.com/gb/app/solocator-gps-field-camera/id582584117?uo=4",
+      "contentAdvisoryRating": "4+",
+      "trackCensoredName": "Solocator - GPS Field Camera",
+      "primaryGenreName": "Navigation",
+      "primaryGenreId": 6010,
       "userRatingCount": 38,
       "country": "GBR"
     }

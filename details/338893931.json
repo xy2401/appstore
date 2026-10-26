@@ -332,10 +332,11 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "advisories": [],
       "kind": "software",
       "artistViewUrl": "https://apps.apple.com/us/developer/asa/id334278379?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/2a/1f/802a1faf-b330-8a81-0027-88875e92fb72/AppIcon-AMT-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/2a/1f/802a1faf-b330-8a81-0027-88875e92fb72/AppIcon-AMT-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/2a/3c/412a3c83-9b62-ffad-91dc-595097827e16/AppIcon-AMT-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/2a/3c/412a3c83-9b62-ffad-91dc-595097827e16/AppIcon-AMT-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/9c/fb/38/9cfb381e-38e3-56f9-4c18-57f2794fcbdb/mzl.aqoetzsb.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/44/5a/ef/445aef3e-0830-4189-24f0-828d9ae8b738/mzl.pfxqhyss.png/392x696bb.png",
@@ -349,48 +350,47 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/75/2b/88/752b88f6-a48d-b823-df68-9c9d3d90eb10/mzl.jyrrjihn.png/576x768bb.png"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/2a/1f/802a1faf-b330-8a81-0027-88875e92fb72/AppIcon-AMT-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "advisories": [],
-      "primaryGenreName": "Education",
-      "primaryGenreId": 6017,
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/2a/3c/412a3c83-9b62-ffad-91dc-595097827e16/AppIcon-AMT-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "artistId": 334278379,
       "artistName": "ASA",
+      "genres": [
+        "Education",
+        "Reference"
+      ],
       "price": 9.99,
+      "sellerName": "Aviation Supplies and Academics, Inc.",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "trackId": 338893931,
+      "trackName": "Prepware Aviation Maintenance",
+      "primaryGenreName": "Education",
+      "primaryGenreId": 6017,
+      "releaseDate": "2009-11-24T20:24:32Z",
+      "minimumOsVersion": "15.0",
       "genreIds": [
         "6017",
         "6006"
       ],
-      "releaseDate": "2009-11-24T20:24:32Z",
-      "trackId": 338893931,
-      "trackName": "Prepware Aviation Maintenance",
-      "currentVersionReleaseDate": "2026-09-15T14:02:13Z",
-      "version": "1.63",
+      "currentVersionReleaseDate": "2026-10-21T19:08:11Z",
+      "releaseNotes": "Updated the user interface for improved display and compatibility with iOS 27 and iPadOS 27.",
+      "version": "1.64",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Comprehensive preparation, study and test tool for the FAA Knowledge Exam. Flashcard style review of questions, answers and explanations included for you to study by subject or with a true-to-form practice test.",
-      "bundleId": "com.asa2fly.AMT",
       "trackCensoredName": "Prepware Aviation Maintenance",
       "trackViewUrl": "https://apps.apple.com/us/app/prepware-aviation-maintenance/id338893931?uo=4",
       "contentAdvisoryRating": "4+",
-      "averageUserRating": 3.81892,
-      "minimumOsVersion": "15.0",
+      "averageUserRating": 3.8221,
+      "bundleId": "com.asa2fly.AMT",
       "sellerUrl": "http://www.asa2fly.com",
       "languageCodesISO2A": [
         "EN"
       ],
       "fileSizeBytes": "15750144",
       "formattedPrice": "$9.99",
-      "userRatingCountForCurrentVersion": 370,
+      "userRatingCountForCurrentVersion": 371,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 3.81892,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "genres": [
-        "Education",
-        "Reference"
-      ],
-      "sellerName": "Aviation Supplies and Academics, Inc.",
-      "releaseNotes": "Fixed iOS 27 scene lifecycle compatibility issues, resolved quiz exit/grade failures on newer iOS versions, improved app stability and launch behavior for current devices.",
-      "userRatingCount": 370,
+      "averageUserRatingForCurrentVersion": 3.8221,
+      "userRatingCount": 371,
       "country": "USA"
     }
   ]

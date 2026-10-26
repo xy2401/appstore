@@ -2,19 +2,11 @@
   "resultCount": 1,
   "results": [
     {
+      "isGameCenterEnabled": false,
+      "screenshotUrls": [],
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/21/7c/e7217cfb-7257-d17a-3141-e37e48860bee/AppIcon-0-0-1x_U007ewatch-0-85-220.png/512x512bb.jpg",
-      "screenshotUrls": [],
-      "isGameCenterEnabled": false,
-      "advisories": [
-        "赌博",
-        "频繁/强烈的成人或性暗示题材"
-      ],
-      "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/cn/developer/%E8%AF%9A%E5%BF%97-%E5%BC%A0/id1765833656?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/21/7c/e7217cfb-7257-d17a-3141-e37e48860bee/AppIcon-0-0-1x_U007ewatch-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/21/7c/e7217cfb-7257-d17a-3141-e37e48860bee/AppIcon-0-0-1x_U007ewatch-0-85-220.png/100x100bb.jpg",
       "features": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
@@ -149,6 +141,14 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "advisories": [
+        "赌博",
+        "频繁/强烈的成人或性暗示题材"
+      ],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/cn/developer/%E8%AF%9A%E5%BF%97-%E5%BC%A0/id1765833656?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/21/7c/e7217cfb-7257-d17a-3141-e37e48860bee/AppIcon-0-0-1x_U007ewatch-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/21/7c/e7217cfb-7257-d17a-3141-e37e48860bee/AppIcon-0-0-1x_U007ewatch-0-85-220.png/100x100bb.jpg",
       "averageUserRatingForCurrentVersion": 3.68675,
       "languageCodesISO2A": [
         "EN"
@@ -157,7 +157,6 @@
       "formattedPrice": "¥5.00",
       "userRatingCountForCurrentVersion": 83,
       "trackContentRating": "17+",
-      "minimumOsVersion": "13.0",
       "artistId": 1765833656,
       "artistName": "诚志 张",
       "genres": [
@@ -165,17 +164,18 @@
         "工具"
       ],
       "price": 5,
+      "bundleId": "crs.PlayNewNew",
+      "minimumOsVersion": "13.0",
       "trackName": "牛牛挤奶",
       "trackId": 6670338827,
-      "bundleId": "crs.PlayNewNew",
+      "releaseDate": "2024-09-05T07:00:00Z",
       "genreIds": [
         "6013",
         "6002"
       ],
-      "sellerName": "诚志 张",
       "primaryGenreName": "Health & Fitness",
       "primaryGenreId": 6013,
-      "releaseDate": "2024-09-05T07:00:00Z",
+      "sellerName": "诚志 张",
       "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2024-09-30T14:43:07Z",
       "releaseNotes": "Apple 已更新此 App 以为 watchOS 27 兼容性做准备。未包含任何新功能。\n\n1.修复了已知问题；\n2.可在设置中自定义挤奶敏感度。",

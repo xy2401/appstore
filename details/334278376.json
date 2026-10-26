@@ -2,9 +2,15 @@
   "resultCount": 1,
   "results": [
     {
+      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
+      "advisories": [],
+      "kind": "software",
       "artistViewUrl": "https://apps.apple.com/us/developer/asa/id334278379?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/dc/56/6cdc56f5-3f4e-9324-3fc5-a6ac01360c9e/AppIcon-P-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/dc/56/6cdc56f5-3f4e-9324-3fc5-a6ac01360c9e/AppIcon-P-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/54/0c/1b540cb3-5c6f-73f3-b9b2-d3ffd30f7b6a/AppIcon-P-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/54/0c/1b540cb3-5c6f-73f3-b9b2-d3ffd30f7b6a/AppIcon-P-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/be/0f/3e/be0f3e3e-0809-170c-d845-70811bb722b5/pr_source.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/97/b9/3a/97b93a64-d965-8e70-f4b3-9a58d3d5829e/pr_source.png/392x696bb.png",
@@ -18,8 +24,7 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/9b/50/88/9b508853-07ed-619c-b6af-fd5acb080e78/pr_source.png/576x768bb.png"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/dc/56/6cdc56f5-3f4e-9324-3fc5-a6ac01360c9e/AppIcon-P-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/54/0c/1b540cb3-5c6f-73f3-b9b2-d3ffd30f7b6a/AppIcon-P-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -152,14 +157,31 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
-      "kind": "software",
-      "features": [
-        "iosUniversal"
+      "releaseNotes": "Updated the user interface for improved display and compatibility with iOS 27 and iPadOS 27.",
+      "artistId": 334278379,
+      "artistName": "ASA",
+      "bundleId": "com.asa2fly.Prepware",
+      "genres": [
+        "Education",
+        "Reference"
       ],
+      "sellerName": "Aviation Supplies and Academics, Inc.",
+      "minimumOsVersion": "15.0",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "trackId": 334278376,
+      "trackName": "Prepware Private Pilot",
+      "releaseDate": "2009-10-13T23:54:50Z",
+      "currentVersionReleaseDate": "2026-10-21T18:04:19Z",
+      "version": "1.64",
+      "wrapperType": "software",
+      "currency": "USD",
+      "description": "Comprehensive preparation, study and test tool for the FAA Knowledge Exam. Flashcard style review of questions, answers and explanations included for you to study by subject or with a true-to-form practice test.",
       "contentAdvisoryRating": "4+",
       "averageUserRating": 3.86957,
-      "minimumOsVersion": "15.0",
+      "trackCensoredName": "Prepware Private Pilot",
+      "trackViewUrl": "https://apps.apple.com/us/app/prepware-private-pilot/id334278376?uo=4",
+      "sellerUrl": "http://www.asa2fly.com",
+      "averageUserRatingForCurrentVersion": 3.86957,
       "languageCodesISO2A": [
         "EN"
       ],
@@ -167,35 +189,13 @@
       "formattedPrice": "$9.99",
       "userRatingCountForCurrentVersion": 138,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 3.86957,
-      "sellerUrl": "http://www.asa2fly.com",
-      "releaseNotes": "Fixed iOS 27 scene lifecycle compatibility issues, resolved quiz exit/grade failures on newer iOS versions, improved app stability and launch behavior for current devices.",
-      "price": 9.99,
-      "artistId": 334278379,
-      "artistName": "ASA",
-      "genres": [
-        "Education",
-        "Reference"
-      ],
       "genreIds": [
         "6017",
         "6006"
       ],
-      "bundleId": "com.asa2fly.Prepware",
-      "releaseDate": "2009-10-13T23:54:50Z",
-      "trackId": 334278376,
-      "trackName": "Prepware Private Pilot",
+      "price": 9.99,
       "primaryGenreName": "Education",
       "primaryGenreId": 6017,
-      "sellerName": "Aviation Supplies and Academics, Inc.",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-09-15T14:04:08Z",
-      "version": "1.63",
-      "wrapperType": "software",
-      "currency": "USD",
-      "description": "Comprehensive preparation, study and test tool for the FAA Knowledge Exam. Flashcard style review of questions, answers and explanations included for you to study by subject or with a true-to-form practice test.",
-      "trackCensoredName": "Prepware Private Pilot",
-      "trackViewUrl": "https://apps.apple.com/us/app/prepware-private-pilot/id334278376?uo=4",
       "userRatingCount": 138,
       "country": "USA"
     }

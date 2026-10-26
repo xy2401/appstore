@@ -264,8 +264,11 @@
     {
       "isGameCenterEnabled": false,
       "artistViewUrl": "https://apps.apple.com/us/developer/google/id281956209?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/71/5b/78715bf8-ba95-91cc-6904-39a0c906e373/voice_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/71/5b/78715bf8-ba95-91cc-6904-39a0c906e373/voice_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/59/20/7459200a-19be-e333-7e69-6a63ead686e0/voice_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/59/20/7459200a-19be-e333-7e69-6a63ead686e0/voice_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -398,9 +401,6 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "features": [
-        "iosUniversal"
-      ],
       "advisories": [],
       "kind": "software",
       "screenshotUrls": [
@@ -413,27 +413,35 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0c/b6/cf/0cb6cf7f-9fea-74cd-fab2-94b9d54df823/APP_IPAD_PRO_129-0.png/552x414bb.png"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/71/5b/78715bf8-ba95-91cc-6904-39a0c906e373/voice_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
-      "minimumOsVersion": "18.0",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/59/20/7459200a-19be-e333-7e69-6a63ead686e0/voice_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
       "releaseNotes": "• Stability and performance improvements.",
-      "averageUserRating": 4.26208,
-      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.26159,
       "trackCensoredName": "Google Voice",
       "trackViewUrl": "https://apps.apple.com/us/app/google-voice/id318698524?uo=4",
+      "contentAdvisoryRating": "4+",
+      "artistId": 281956209,
+      "artistName": "Google",
       "genres": [
         "Productivity"
       ],
+      "price": 0,
+      "bundleId": "com.google.GVDialer",
       "releaseDate": "2010-11-16T19:14:42Z",
+      "minimumOsVersion": "26.1",
+      "genreIds": [
+        "6007"
+      ],
       "trackId": 318698524,
       "trackName": "Google Voice",
-      "bundleId": "com.google.GVDialer",
       "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-09-25T14:21:21Z",
-      "version": "26.38",
+      "sellerName": "Google LLC",
+      "primaryGenreName": "Productivity",
+      "primaryGenreId": 6007,
+      "currentVersionReleaseDate": "2026-10-23T17:57:17Z",
+      "version": "26.42",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Google Voice gives you a phone number for calling, text messaging, and voicemail. It works on smartphones and computers, and syncs across your devices so you can use the app in the office, at home, or on the go.\n\nNOTE: Google Voice only works for personal Google Accounts in the US and Google Workspace accounts in select markets. Text messaging is not supported in all markets.\n\nYou’re in control\nGet spam filtered automatically and block numbers you don’t want to hear from. Manage your time with personalized settings for forwarding calls, text messages, and voicemail.\n\nBacked up and searchable\nCalls, text messages, and voicemails are stored and backed up to make it easy for you to search your history. \n\nManage messages across devices\nSend and receive individual and group SMS messages from all your devices \n\nYour voicemail, transcribed\nGoogle Voice provides advanced voicemail transcriptions that you can read in the app and/or have sent to your email.\n\nSave on international calling\nMake international calls at competitive rates without paying extra for international minutes with your mobile carrier\n\nKeep in mind:\n• Google Voice is currently only available in the US. Google Voice for Google Workspace users is available in select countries. Check with your administrator for access.\n• Calls made using Google Voice for iPhone can be placed through a Google Voice access number. All access number based calls use the standard minutes from your cell phone plan and may incur costs (e.g. when traveling internationally).",
-      "averageUserRatingForCurrentVersion": 4.26208,
       "sellerUrl": "https://voice.google.com/about",
       "languageCodesISO2A": [
         "AF",
@@ -509,20 +517,12 @@
         "VI",
         "ZU"
       ],
-      "fileSizeBytes": "244535296",
+      "fileSizeBytes": "238730240",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 61978,
+      "userRatingCountForCurrentVersion": 61981,
       "trackContentRating": "4+",
-      "primaryGenreName": "Productivity",
-      "primaryGenreId": 6007,
-      "sellerName": "Google LLC",
-      "genreIds": [
-        "6007"
-      ],
-      "price": 0,
-      "artistId": 281956209,
-      "artistName": "Google",
-      "userRatingCount": 61978,
+      "averageUserRatingForCurrentVersion": 4.26159,
+      "userRatingCount": 61981,
       "country": "USA"
     }
   ]

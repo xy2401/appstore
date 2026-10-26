@@ -2,10 +2,6 @@
   "resultCount": 1,
   "results": [
     {
-      "features": [
-        "iosUniversal"
-      ],
-      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b4/b4/ea/b4b4ea30-a291-cb04-0385-5cd0891b15a7/IN1190_New_ScotRail_App_Store_Listing_Images_APPLE_1320x2868_v3-01.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b3/c7/09/b3c70979-9f9b-49ee-64b0-a5f086d70328/IN1190_New_ScotRail_App_Store_Listing_Images_APPLE_1320x2868_v3-02.png/320x480bb.jpg",
@@ -15,6 +11,7 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/ab/49/f5ab49a7-2331-41f5-a9c1-5c75c7e6c898/IN1190_New_ScotRail_App_Store_Listing_Images_APPLE_1320x2868_v3-06.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/10/1c/88/101c8830-40e2-4c22-10af-52f6a5054e45/IN1190_New_ScotRail_App_Store_Listing_Images_APPLE_1320x2868_v3-07.png/320x480bb.jpg"
       ],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/73/79/c6737915-826d-3dfd-2b74-5d0764652473/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a7/60/e9/a760e93a-9015-3272-805b-03d8c0cc4f04/1.png/360x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a5/1c/f7/a51cf7b6-9544-ece2-6f4d-ddcb546edd3a/2.png/360x480bb.jpg",
@@ -22,7 +19,8 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/21/7e/f7/217ef796-70b2-9ec4-f64a-2e3e2d617166/4.png/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/27/bd/bd27bd07-abef-da91-3fc3-d0f99d9eb034/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "isGameCenterEnabled": false,
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -155,49 +153,51 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
       "kind": "software",
+      "features": [
+        "iosUniversal"
+      ],
       "artistViewUrl": "https://apps.apple.com/gb/developer/scotrail-trains-limited/id464015288?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/27/bd/bd27bd07-abef-da91-3fc3-d0f99d9eb034/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/27/bd/bd27bd07-abef-da91-3fc3-d0f99d9eb034/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
-      "bundleId": "uk.co.scotrail.app",
-      "trackCensoredName": "ScotRail: New Official App",
-      "trackViewUrl": "https://apps.apple.com/gb/app/scotrail-new-official-app/id6788413784?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/73/79/c6737915-826d-3dfd-2b74-5d0764652473/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/73/79/c6737915-826d-3dfd-2b74-5d0764652473/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
       "sellerUrl": "https://www.scotrail.co.uk",
       "languageCodesISO2A": [
         "EN"
       ],
-      "fileSizeBytes": "42240000",
+      "fileSizeBytes": "43371520",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 2484,
+      "userRatingCountForCurrentVersion": 2534,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 1.18236,
+      "averageUserRatingForCurrentVersion": 1.18073,
+      "releaseNotes": "What's new:\n- Performance improvements to all digital tickets.\n- New calendar and date & time picker design.\n- Fixes and improvements for favourite journeys, fare prices, promotions, search and Live Trains.",
+      "price": 0,
       "artistId": 464015288,
       "artistName": "ScotRail Trains Limited",
       "genres": [
         "Travel"
       ],
-      "releaseDate": "2026-07-29T07:00:00Z",
-      "currentVersionReleaseDate": "2026-09-27T07:24:27Z",
-      "trackId": 6788413784,
-      "trackName": "ScotRail: New Official App",
+      "minimumOsVersion": "17.0",
       "genreIds": [
         "6003"
       ],
       "primaryGenreName": "Travel",
       "primaryGenreId": 6003,
       "sellerName": "ScotRail Trains Limited",
+      "releaseDate": "2026-07-29T07:00:00Z",
+      "trackName": "ScotRail: New Official App",
+      "trackId": 6788413784,
       "isVppDeviceBasedLicensingEnabled": true,
-      "releaseNotes": "What's new:\n- Improvements to search results and fare information.\n- Access and manage your privacy consent settings from the app menu.\n- Includes several fixes and improvements.",
-      "version": "2.5.0",
+      "currentVersionReleaseDate": "2026-10-23T12:22:17Z",
+      "version": "2.6.0",
       "wrapperType": "software",
       "currency": "GBP",
       "description": "Download the new official ScotRail app to plan your journey, buy tickets and track your train in real time.\n​\nYou’ll never pay any booking or payment card fees – ever! And remember, there are no peak fares on ScotRail services.\n​\nPlan and buy easily. Get your ticket straight to your mobile, including Season Tickets and Flexipass. Bought tickets online? They’ll seamlessly appear in your ScotRail App.\n​\nChoose to pay with Apple Pay, PayPal, credit or debit card.",
-      "minimumOsVersion": "17.0",
+      "bundleId": "uk.co.scotrail.app",
+      "trackCensoredName": "ScotRail: New Official App",
+      "trackViewUrl": "https://apps.apple.com/gb/app/scotrail-new-official-app/id6788413784?uo=4",
       "contentAdvisoryRating": "4+",
-      "averageUserRating": 1.18236,
-      "price": 0,
-      "userRatingCount": 2484,
+      "averageUserRating": 1.18073,
+      "userRatingCount": 2534,
       "country": "GBR"
     }
   ]

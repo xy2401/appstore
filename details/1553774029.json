@@ -2,6 +2,12 @@
   "resultCount": 2,
   "results": [
     {
+      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
+      "advisories": [],
+      "kind": "software",
       "artistViewUrl": "https://apps.apple.com/us/developer/avalon-television/id1553774031?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0d/ca/19/0dca1966-fa3b-10e8-7fb3-6c5097ee9410/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0d/ca/19/0dca1966-fa3b-10e8-7fb3-6c5097ee9410/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
@@ -29,7 +35,6 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0d/ca/19/0dca1966-fa3b-10e8-7fb3-6c5097ee9410/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -162,14 +167,33 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
-      "kind": "software",
-      "features": [
-        "iosUniversal"
+      "releaseNotes": "Updates to Fantasy Taskmaster group member limit\nBug fix to show Fantasy Taskmaster scoreboard correctly at end of series",
+      "artistId": 1553774031,
+      "artistName": "Avalon Television",
+      "bundleId": "com.avalonuk.taskmaster",
+      "genres": [
+        "Entertainment",
+        "Games",
+        "Casual",
+        "Trivia"
       ],
+      "sellerName": "Avalon Television Limited",
+      "minimumOsVersion": "13.0",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "trackId": 1553774029,
+      "trackName": "Taskmaster The App",
+      "releaseDate": "2021-09-22T07:00:00Z",
+      "currentVersionReleaseDate": "2025-07-07T10:14:38Z",
+      "version": "1.5.8",
+      "wrapperType": "software",
+      "currency": "USD",
+      "description": "The official app for the Channel 4 TV show Taskmaster.\n\n- Join Fantasy Taskmaster to compete against the Taskmaster community answering questions ahead of each week's show. Create and share private groups to compare scores with friends and family.\n- Play along with the TV show at home and vote for a People's champion using the Show Companion.\n- Enjoy tasking with your friends and family using the Group Game featuring brand new tasks by the Taskmaster's assistant Alex Horne.\n- Get Solo Tasking and have your attempts voted on by the rest of the Taskmaster community.\n- Take the Entrance exam and in the Taskmaster Academy and go onto test your knowledge with quiz modules for each series.\n- Kick back and listen to music from the show with the Taskmaster Jukebox.\n\nIt's a jam packed Taskmaster extravaganza! So what are you waiting for? Get involved and make good choices.",
       "contentAdvisoryRating": "4+",
       "averageUserRating": 3.71429,
-      "minimumOsVersion": "13.0",
+      "trackCensoredName": "Taskmaster The App",
+      "trackViewUrl": "https://apps.apple.com/us/app/taskmaster-the-app/id1553774029?uo=4",
+      "sellerUrl": "https://taskmaster.tv",
+      "averageUserRatingForCurrentVersion": 3.71429,
       "languageCodesISO2A": [
         "EN"
       ],
@@ -177,39 +201,15 @@
       "formattedPrice": "$1.99",
       "userRatingCountForCurrentVersion": 14,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 3.71429,
-      "sellerUrl": "https://taskmaster.tv",
-      "releaseNotes": "Updates to Fantasy Taskmaster group member limit\nBug fix to show Fantasy Taskmaster scoreboard correctly at end of series",
-      "price": 1.99,
-      "artistId": 1553774031,
-      "artistName": "Avalon Television",
-      "genres": [
-        "Entertainment",
-        "Games",
-        "Casual",
-        "Trivia"
-      ],
       "genreIds": [
         "6016",
         "6014",
         "7003",
         "7018"
       ],
-      "bundleId": "com.avalonuk.taskmaster",
-      "releaseDate": "2021-09-22T07:00:00Z",
-      "trackId": 1553774029,
-      "trackName": "Taskmaster The App",
+      "price": 1.99,
       "primaryGenreName": "Entertainment",
       "primaryGenreId": 6016,
-      "sellerName": "Avalon Television Limited",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2025-07-07T10:14:38Z",
-      "version": "1.5.8",
-      "wrapperType": "software",
-      "currency": "USD",
-      "description": "The official app for the Channel 4 TV show Taskmaster.\n\n- Join Fantasy Taskmaster to compete against the Taskmaster community answering questions ahead of each week's show. Create and share private groups to compare scores with friends and family.\n- Play along with the TV show at home and vote for a People's champion using the Show Companion.\n- Enjoy tasking with your friends and family using the Group Game featuring brand new tasks by the Taskmaster's assistant Alex Horne.\n- Get Solo Tasking and have your attempts voted on by the rest of the Taskmaster community.\n- Take the Entrance exam and in the Taskmaster Academy and go onto test your knowledge with quiz modules for each series.\n- Kick back and listen to music from the show with the Taskmaster Jukebox.\n\nIt's a jam packed Taskmaster extravaganza! So what are you waiting for? Get involved and make good choices.",
-      "trackCensoredName": "Taskmaster The App",
-      "trackViewUrl": "https://apps.apple.com/us/app/taskmaster-the-app/id1553774029?uo=4",
       "userRatingCount": 14,
       "country": "USA"
     },

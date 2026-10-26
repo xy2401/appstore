@@ -2,9 +2,11 @@
   "resultCount": 1,
   "results": [
     {
-      "artistViewUrl": "https://apps.apple.com/jp/developer/hyunwoo-lee/id6791167449?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/bd/30/d0bd30a1-a540-108c-cbf7-aa890089279d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/bd/30/d0bd30a1-a540-108c-cbf7-aa890089279d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
+      "isGameCenterEnabled": false,
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -137,9 +139,9 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "isGameCenterEnabled": false,
-      "advisories": [],
       "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/jp/developer/hyunwoo-lee/id6791167449?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/bd/30/d0bd30a1-a540-108c-cbf7-aa890089279d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d3/ef/0e/d3ef0ed7-504d-5cd5-8025-fc4fd2a52130/01.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c2/34/f5/c234f500-722b-1ef8-8af3-629733afb07e/02.png/320x480bb.jpg",
@@ -158,31 +160,37 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/bd/30/d0bd30a1-a540-108c-cbf7-aa890089279d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "features": [
-        "iosUniversal"
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/bd/30/d0bd30a1-a540-108c-cbf7-aa890089279d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+      "genres": [
+        "仕事効率化",
+        "ユーティリティ"
       ],
-      "currentVersionReleaseDate": "2026-10-19T06:34:29Z",
-      "contentAdvisoryRating": "4+",
-      "trackCensoredName": "いつだったっけ",
-      "trackViewUrl": "https://apps.apple.com/jp/app/%E3%81%84%E3%81%A4%E3%81%A0%E3%81%A3%E3%81%9F%E3%81%A3%E3%81%91/id6801866888?uo=4",
-      "averageUserRating": 0,
+      "artistId": 6791167449,
+      "artistName": "HyunWoo Lee",
       "price": 500,
-      "trackId": 6801866888,
-      "trackName": "いつだったっけ",
+      "bundleId": "com.asllasoft.whenDidi",
       "genreIds": [
         "6007",
         "6002"
       ],
+      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseDate": "2026-08-20T07:00:00Z",
+      "trackId": 6801866888,
+      "trackName": "いつだったっけ",
+      "sellerName": "HyunWoo Lee",
       "primaryGenreName": "Productivity",
       "primaryGenreId": 6007,
-      "sellerName": "HyunWoo Lee",
-      "isVppDeviceBasedLicensingEnabled": true,
+      "minimumOsVersion": "15.0",
+      "currentVersionReleaseDate": "2026-10-19T06:34:29Z",
+      "releaseNotes": "項目の詳細画面の⋯にある「項目を完了にする」で、終わった項目を完了にできます。完了した項目は名前の後ろにチェックマークが付き、周期・遅れ・通知の対象から外れますが、過去の記録はそのまま残ります。「辞典」の「カテゴリ」と「カレンダー」で、「完了」としてまとめて見られます。\nカレンダー上部の年・月のタイトルをタップすると、見たい年と月にすぐ移動できます。\niCloudで複数の端末を使うとき、完了の状態も他の端末に反映されます。すべての端末をアップデートしてください。",
       "version": "4.3.0",
       "wrapperType": "software",
       "currency": "JPY",
       "description": "やることを管理しないでください。やった日だけ覚えておけば十分です。\n\n「シーツ、最後に洗ったのはいつだっけ？」\n「浄水器のフィルター、いつ替えた？」\n「実家に電話したの、いつだった？」\n\nどうしても思い出せない、そんなことがあります。いつだったっけ は、それをやった日付だけを記録します。\n目標も、通知の嵐も、チェックリストもありません。タップして今日を記録すれば、それで終わりです。\n\n■ どれくらい経ったか、ひと目で\n項目ごとに、最後にやった日から何日経ったかを表示します。\n長く放っておいたものほど目立ちます。\n\n■ 間隔がそのまま見える記録\n点と点の距離が、実際の日付の間隔です。\nよくやっていた時期は詰まって見え、しばらくやらなかった期間は広く空いて見えます。\n\n■ 写真とメモ\n記録ごとに写真1枚と短いメモを残せます。\n「あのときどうだったっけ」まで残ります。\n\n■ ウィジェットとロック画面\nホーム画面のウィジェットで遅れているものを確認し、アプリを開かずに記録できます。\nロック画面から直接記録することもできます。（iOS 16.4以降）\n\n■ 一日のしめくくり通知\n希望すれば、夜に一度「今日は何をしましたか？」と尋ねます。初期設定ではオフです。\n\n■ すべて端末の中で\nアカウントも、サーバーも、広告もありません。記録は端末にだけ保存されます。\nバックアップファイルを自分で書き出し・読み込みでき、iCloudにも自動で控えを置くので、\n機種変更やアプリの入れ直しをしても元に戻せます。\n\n■ 買い切り\n一度買えばすべての機能が使えます。アプリ内課金も、サブスクも、広告もありません。",
-      "bundleId": "com.asllasoft.whenDidi",
-      "averageUserRatingForCurrentVersion": 0,
+      "trackViewUrl": "https://apps.apple.com/jp/app/%E3%81%84%E3%81%A4%E3%81%A0%E3%81%A3%E3%81%9F%E3%81%A3%E3%81%91/id6801866888?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 0,
+      "trackCensoredName": "いつだったっけ",
       "languageCodesISO2A": [
         "AR",
         "EN",
@@ -204,15 +212,7 @@
       "formattedPrice": "¥500",
       "userRatingCountForCurrentVersion": 0,
       "trackContentRating": "4+",
-      "minimumOsVersion": "15.0",
-      "artistId": 6791167449,
-      "artistName": "HyunWoo Lee",
-      "releaseNotes": "項目の詳細画面の⋯にある「項目を完了にする」で、終わった項目を完了にできます。完了した項目は名前の後ろにチェックマークが付き、周期・遅れ・通知の対象から外れますが、過去の記録はそのまま残ります。「辞典」の「カテゴリ」と「カレンダー」で、「完了」としてまとめて見られます。\nカレンダー上部の年・月のタイトルをタップすると、見たい年と月にすぐ移動できます。\niCloudで複数の端末を使うとき、完了の状態も他の端末に反映されます。すべての端末をアップデートしてください。",
-      "releaseDate": "2026-08-20T07:00:00Z",
-      "genres": [
-        "仕事効率化",
-        "ユーティリティ"
-      ],
+      "averageUserRatingForCurrentVersion": 0,
       "userRatingCount": 0,
       "country": "JPN"
     }

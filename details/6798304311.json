@@ -2,10 +2,6 @@
   "resultCount": 1,
   "results": [
     {
-      "artistViewUrl": "https://apps.apple.com/gb/developer/sathit-sukhirun/id6798304313?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/c7/5e/34c75e70-ec4d-0c4a-5dcc-e54b9b8e030a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/c7/5e/34c75e70-ec4d-0c4a-5dcc-e54b9b8e030a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
-      "isGameCenterEnabled": false,
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/34/1d/9e/341d9ec8-a8ab-fc8e-bcb8-7deae9a5516c/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-08-09_at_22.45.35.png/360x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/be/c9/ec/bec9ec9b-2d35-ca4c-a4c3-4f3b6c6e7fef/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-08-09_at_22.45.54.png/360x480bb.jpg",
@@ -24,9 +20,11 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/74/d7/d0/74d7d060-1145-e2e0-4e62-afd787bda394/Simulator_Screenshot_-_iPhone_Air_-_2026-08-09_at_22.42.24.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4f/18/52/4f18529b-8fdf-baff-1e4d-e8784eaef2dc/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-08-10_at_15.56.34.png/320x480bb.jpg"
       ],
+      "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
       ],
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -159,14 +157,10 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
       "kind": "software",
-      "contentAdvisoryRating": "4+",
-      "trackCensoredName": "Forex Replay",
-      "trackViewUrl": "https://apps.apple.com/gb/app/forex-replay/id6798304311?uo=4",
-      "averageUserRating": 2.33333,
-      "minimumOsVersion": "17.6",
-      "averageUserRatingForCurrentVersion": 2.33333,
+      "artistViewUrl": "https://apps.apple.com/gb/developer/sathit-sukhirun/id6798304313?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/c7/5e/34c75e70-ec4d-0c4a-5dcc-e54b9b8e030a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/c7/5e/34c75e70-ec4d-0c4a-5dcc-e54b9b8e030a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
       "languageCodesISO2A": [
         "EN"
       ],
@@ -174,6 +168,9 @@
       "formattedPrice": "£12.99",
       "userRatingCountForCurrentVersion": 3,
       "trackContentRating": "4+",
+      "averageUserRatingForCurrentVersion": 2.33333,
+      "averageUserRating": 2.33333,
+      "releaseNotes": "• Fixed TP/SL lines not dragging on the latest iOS\n• Tap an order line to adjust its TP/SL right away\n• New SL/TP lines now appear away from the order line, making them easier to drag\n• Fixed TP being removed when modifying SL (and vice versa)\n• Fixed a duplicate SL line when placing a pending order\n• The app now remembers your last timeframe\n• Fixed drawn lines disappearing after reopening the app\n• Added a Contact Support link in Settings",
       "artistId": 6798304313,
       "artistName": "Sathit Sukhirun",
       "genres": [
@@ -181,24 +178,27 @@
         "Education"
       ],
       "price": 12.99,
-      "trackId": 6798304311,
-      "trackName": "Forex Replay",
-      "releaseNotes": "• Fixed TP/SL lines not dragging on the latest iOS\n• Tap an order line to adjust its TP/SL right away\n• New SL/TP lines now appear away from the order line, making them easier to drag\n• Fixed TP being removed when modifying SL (and vice versa)\n• Fixed a duplicate SL line when placing a pending order\n• The app now remembers your last timeframe\n• Fixed drawn lines disappearing after reopening the app\n• Added a Contact Support link in Settings",
-      "releaseDate": "2026-08-13T07:00:00Z",
-      "currentVersionReleaseDate": "2026-10-18T22:23:02Z",
+      "bundleId": "Sathitsukhirun.Forex-Replay-Claude",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "Sathit Sukhirun",
       "genreIds": [
         "6015",
         "6017"
       ],
-      "primaryGenreName": "Finance",
-      "primaryGenreId": 6015,
-      "sellerName": "Sathit Sukhirun",
-      "isVppDeviceBasedLicensingEnabled": true,
+      "minimumOsVersion": "17.6",
+      "currentVersionReleaseDate": "2026-10-18T22:23:02Z",
+      "releaseDate": "2026-08-13T07:00:00Z",
+      "trackId": 6798304311,
+      "trackName": "Forex Replay",
       "version": "2.39",
       "wrapperType": "software",
       "currency": "GBP",
       "description": "Take your trading skills to the next level with FX Replay, the ultimate Forex market replay and backtesting simulator. Whether you are a beginner learning the\n  ropes or an experienced trader refining your edge, FX Replay allows you to practice trading on real historical chart data, completely risk-free.\n\n  Stop waiting for the live market to present opportunities. With our advanced replay engine, you can simulate days, weeks, or even months of market price action\n  in just a few hours. Test your strategies, build your confidence, and master your trading psychology anywhere, anytime.\n\n  KEY FEATURES\n  Historical Market Replay\n  Travel back in time and replay real historical candlestick data. Control the speed of the market: play, pause, step forward candle-by-candle, or fast-forward to\n  find your desired trading setups instantly.\n\n  Extensive Cloud Datasets & Data Management\n  Access a rich, built-in library of high-quality historical data ready for instant download and backtesting. Our available Cloud Datasets include:\n  • Forex: \nEURUSD  data back to 1971\nGBPUSD data back to 1971\nUSDJPY data back to 1971\nAUDUSD data back to 1993\nUSDCAD data back to 1993\nUSDCHF data back to 1971\n  • Commodities: \nXAUUSD data back to 2006.\n XAGUSD (Silver)\nUSOIL (WTI)  data back to 2019\nUKOIL (Brent) data back to 2016\n  • Indices: \nUS500 data back to 2000.\nUS100  data back to 2000.\n  • Crypto: \nBTCUSD data back to 2019\n\n  Want to trade something else? Easily import your own custom CSV data and perfectly replicate real-market conditions by customizing symbol settings like Spread,\n  Tick Value, Contract Size, and Swaps.\n  Realistic Trading Simulator\n  Experience the thrill of live trading without the financial risk. Open and close positions, set Stop Loss (SL) and Take Profit (TP), and utilize the One-Click\n  Trading panel for rapid execution.\n  Advanced Charting and Indicators\n  Analyze the market with a professional-grade charting interface inspired by the familiar MetaTrader 5 (MT5) layout. Utilize built-in technical indicators\n  (including ZigZag) and drawing tools to mark up your charts just like you would in a live trading environment.\n  Portfolio and History Management\n  Track your simulated trading performance. Review your trading history, analyze your win rate, and monitor your virtual account balance to see if your strategy is\n  truly profitable before going live.\n\n  Seamless Cross-Platform Experience\n  Designed with a highly intuitive interface, FX Replay offers a powerful, fluid backtesting experience optimized for both iOS and macOS.\n\n  Why choose FX Replay?\n  • Save Time: Gain years of screen-time and trading experience in a fraction of the time.\n  • Zero Risk: Perfect your strategies using a virtual balance before risking real capital.\n  • Familiar UI: Designed to feel just like the professional trading platforms you already know and love.\n\n  Start mastering the markets today. Download FX Replay and turn historical data into future profits!",
-      "bundleId": "Sathitsukhirun.Forex-Replay-Claude",
+      "trackViewUrl": "https://apps.apple.com/gb/app/forex-replay/id6798304311?uo=4",
+      "contentAdvisoryRating": "4+",
+      "trackCensoredName": "Forex Replay",
+      "primaryGenreName": "Finance",
+      "primaryGenreId": 6015,
       "userRatingCount": 3,
       "country": "GBR"
     }

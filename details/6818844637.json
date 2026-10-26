@@ -3,6 +3,9 @@
   "results": [
     {
       "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -135,11 +138,9 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "features": [
-        "iosUniversal"
-      ],
       "advisories": [],
       "kind": "software",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/af/81/ddaf8165-22a0-5af6-20bb-6e5c38eaabe9/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/15/a7/bc/15a7bc4c-2eca-a577-8df6-33fc00ec7ecc/GLIMR_iphone65_1.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b1/fb/44/b1fb44b0-30ea-494f-7a0e-2ea5dd67bca0/GLIMR_iphone65_4.png/320x480bb.jpg",
@@ -157,48 +158,47 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/33/63/34/33633412-6f3f-a89b-9ee3-4955ca25b3fa/GLIMR_ipad_3.png/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/fa/6a/c1fa6a08-07ce-e1f3-44c0-4649b1075ba9/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
       "artistViewUrl": "https://apps.apple.com/jp/developer/joseph-musselman/id6818844639?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/fa/6a/c1fa6a08-07ce-e1f3-44c0-4649b1075ba9/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/fa/6a/c1fa6a08-07ce-e1f3-44c0-4649b1075ba9/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
-      "minimumOsVersion": "17.0",
-      "currentVersionReleaseDate": "2026-10-17T00:09:30Z",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/af/81/ddaf8165-22a0-5af6-20bb-6e5c38eaabe9/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/af/81/ddaf8165-22a0-5af6-20bb-6e5c38eaabe9/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
+      "releaseNotes": "Four new drum kits, and your sounds are easier to share.\n\n• Five drum kits in the Rhythm box: GLIMR, LOFI, TRAP, ROCK and HOUSE. Tap KIT under the grid to switch, even mid-groove.\n• Share your samples: every sound in Files has a share button. AirDrop it, send it, or save it as a WAV.\n• Clearer controls: SAMPLE is now NEW SAMPLE. Hold it and make a sound, and GLIMR tunes all 12 strings to it. REC records your performance as a take, with a red frame around the screen while it runs.\n• A quick hint the first time you use each one.",
+      "artistId": 6818844639,
+      "artistName": "Joseph Musselman",
       "genres": [
         "ミュージック",
         "エンターテインメント"
       ],
-      "artistId": 6818844639,
-      "artistName": "Joseph Musselman",
       "price": 800,
-      "releaseNotes": "Pinch to zoom in the sample editor. Zoom right into your waveform for precise trims, drag to scroll, and double-tap to see the whole sample again.",
-      "trackId": 6818844637,
-      "trackName": "GLIMR: Strum Any Sound",
+      "bundleId": "com.ghostkickaudio.glimr",
       "genreIds": [
         "6011",
         "6016"
       ],
+      "currentVersionReleaseDate": "2026-10-23T17:36:02Z",
       "releaseDate": "2026-10-12T07:00:00Z",
+      "minimumOsVersion": "17.0",
+      "sellerName": "Joseph Musselman",
+      "trackId": 6818844637,
+      "trackName": "GLIMR: Strum Any Sound",
       "primaryGenreName": "Music",
       "primaryGenreId": 6011,
-      "sellerName": "Joseph Musselman",
       "isVppDeviceBasedLicensingEnabled": true,
-      "version": "1.2",
+      "version": "1.4",
       "wrapperType": "software",
       "currency": "JPY",
       "description": "Make any sound strummable.\n\nHold SAMPLE and make a sound: your voice, a wine glass, a car horn, your cat. GLIMR turns it into an instrument you play like a harp. Pick a chord, sweep your finger across the strings, and your sound rings out in tune and in harmony.\n\nSAMPLE ANYTHING\n- Hold to sample from the mic. GLIMR waits for your sound, so there's no dead air at the start.\n- GLIMR finds the pitch for you, or you can set the root yourself.\n- Trim, fade, reverse and normalize your samples, or import your own audio files.\n\nPLAY CHORDS WITH ONE FINGER\n- Eight chord types in every key: major, minor, 7th, major 7th, minor 7th, diminished, augmented and sus4.\n- Strum the strings, or tap them one at a time. Strum faster to play louder.\n- Shape the sound with LOFI, DRIVE and CHORUS, plus delay and reverb. The delay locks to your tempo.\n\nBUILT-IN RHYTHM BOX\n- Eight grooves: rock, pop, disco, samba, waltz, bossa, lo-fi and ballad.\n- Edit any pattern: tap to add a hit, drag up or down to set how hard it hits.\n- Set the tempo with tap tempo, or type it in.\n\nRECORD AND TAKE IT ANYWHERE\n- Tap REC to capture what you play.\n- Share the strings and drums as separate 24-bit WAV files, ready to mix.\n- Export your strings as MIDI and rebuild the part in your DAW.\n- Send takes to Files, AirDrop or any app.\n\nPLAY YOUR DAW FROM THE STRINGS\n- Turn on MIDI out in Settings and GLIMR becomes a MIDI controller.\n- Strums, chords and drums play any synth or DAW over USB or Wi-Fi.\n\nWorks on iPhone and iPad. No account, no subscription, no ads. Your sounds stay on your device.",
-      "averageUserRatingForCurrentVersion": 0,
-      "languageCodesISO2A": [],
-      "fileSizeBytes": "14327808",
-      "formattedPrice": "¥800",
-      "userRatingCountForCurrentVersion": 0,
-      "trackContentRating": "4+",
       "sellerUrl": "https://ghostkickaudio.com",
+      "languageCodesISO2A": [],
+      "fileSizeBytes": "16916480",
+      "formattedPrice": "¥800",
+      "trackContentRating": "4+",
+      "averageUserRatingForCurrentVersion": 4,
+      "userRatingCountForCurrentVersion": 1,
       "trackCensoredName": "GLIMR: Strum Any Sound",
       "trackViewUrl": "https://apps.apple.com/jp/app/glimr-strum-any-sound/id6818844637?uo=4",
       "contentAdvisoryRating": "4+",
-      "averageUserRating": 0,
-      "bundleId": "com.ghostkickaudio.glimr",
-      "userRatingCount": 0,
+      "averageUserRating": 4,
+      "userRatingCount": 1,
       "country": "JPN"
     },
     {

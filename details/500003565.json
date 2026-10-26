@@ -204,13 +204,12 @@
       "artistViewUrl": "https://apps.apple.com/us/developer/ticketmaster/id500003568?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/ad/af/99adafd0-e850-b2a0-5181-12d4910bbf7d/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/ad/af/99adafd0-e850-b2a0-5181-12d4910bbf7d/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/70/d0/04/70d0049d-55fe-4cf6-3aad-34ac81920030/en-us-slide1.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/76/42/4e/76424e6e-aacb-e094-bdc8-3bcf73250403/en-us-slide2.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f8/53/00/f85300d0-2503-d269-d8ae-8ecd9d530487/en-us-slide3.png/360x480bb.jpg"
+      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
       ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/ad/af/99adafd0-e850-b2a0-5181-12d4910bbf7d/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "advisories": [],
+      "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/81/3d/f1/813df10c-c065-9915-66a6-4fa4ede49814/en-us-slide-1.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ce/4b/5f/ce4b5f5d-bb3f-6b48-c6a6-357f03a11b6a/en-us-slide-2.png/320x480bb.jpg",
@@ -220,7 +219,13 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f8/92/24/f89224db-2877-3430-df0e-6e39f00de3bc/en-us-slide-6.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/96/8d/5b/968d5ba7-99ea-b158-ec31-c42b705968fa/en-us-slide-7.png/320x480bb.jpg"
       ],
-      "isGameCenterEnabled": false,
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/70/d0/04/70d0049d-55fe-4cf6-3aad-34ac81920030/en-us-slide1.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/76/42/4e/76424e6e-aacb-e094-bdc8-3bcf73250403/en-us-slide2.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f8/53/00/f85300d0-2503-d269-d8ae-8ecd9d530487/en-us-slide3.png/360x480bb.jpg"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/ad/af/99adafd0-e850-b2a0-5181-12d4910bbf7d/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -353,14 +358,35 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
-      "kind": "software",
-      "features": [
-        "iosUniversal"
-      ],
       "trackCensoredName": "Ticketmaster－Buy, Sell Tickets",
       "trackViewUrl": "https://apps.apple.com/us/app/ticketmaster-buy-sell-tickets/id500003565?uo=4",
-      "averageUserRating": 4.79465,
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.79481,
+      "genres": [
+        "Entertainment",
+        "Music"
+      ],
+      "artistId": 500003568,
+      "artistName": "Ticketmaster",
+      "price": 0,
+      "bundleId": "com.ticketmaster.ios.TicketmasterApp",
+      "minimumOsVersion": "18.6",
+      "primaryGenreName": "Entertainment",
+      "primaryGenreId": 6016,
+      "genreIds": [
+        "6016",
+        "6011"
+      ],
+      "sellerName": "Ticketmaster L.L.C",
+      "releaseDate": "2012-02-23T02:09:55Z",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-10-12T17:54:53Z",
+      "releaseNotes": "We update our app often in order to make it easier than ever to bring you unforgettable moments. Live only happens once! Get the latest version to access all the available Ticketmaster features to buy, sell, and manage your tickets. This version includes performance improvements and bug fixes. Thank you for using Ticketmaster!",
+      "version": "303.0",
+      "wrapperType": "software",
+      "currency": "USD",
+      "description": "The Ticketmaster app makes it easier to buy, sell, and get into the very best of live entertainment - so you can get on with making memories that last.\n\nWe give you unparalleled access to thousands of venues, artists, theater and sports events.\n\nDISCOVER\n- Explore millions of events from concerts, festivals and theater to sport and comedy shows\n- Get real-time updates about your favorite artists, events, and venues\n- Take control of your experience by browsing available seats and selecting those that best match your preferences\n\nBUY \n- Buy your tickets simply and safely \n- Credit Card, Gift Cards, installments and more - Choose the payment option that works best for you \n\nSELL\n- Safely and securely resell your tickets to fellow fans if you can’t go\n- Set your price for your tickets, and if they sell, you'll be paid through your selected payment method\n\nGET INTO THE SHOW\n- No need to worry about printing tickets! Access your tickets and all event details directly from your app\n- Easily transfer your tickets to family and friends before the show giving everyone the freedom to enter when they want \n\nDownload the Ticketmaster app and go live.",
+      "averageUserRatingForCurrentVersion": 4.79481,
       "sellerUrl": "https://www.ticketmaster.com/",
       "languageCodesISO2A": [
         "NL",
@@ -370,44 +396,15 @@
       ],
       "fileSizeBytes": "150326272",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 4226499,
+      "userRatingCountForCurrentVersion": 4237402,
       "trackContentRating": "4+",
-      "contentAdvisoryRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.79465,
-      "minimumOsVersion": "18.6",
-      "artistId": 500003568,
-      "artistName": "Ticketmaster",
-      "genres": [
-        "Entertainment",
-        "Music"
-      ],
-      "genreIds": [
-        "6016",
-        "6011"
-      ],
-      "primaryGenreName": "Entertainment",
-      "primaryGenreId": 6016,
-      "sellerName": "Ticketmaster L.L.C",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-10-12T17:54:53Z",
-      "releaseNotes": "We update our app often in order to make it easier than ever to bring you unforgettable moments. Live only happens once! Get the latest version to access all the available Ticketmaster features to buy, sell, and manage your tickets. This version includes performance improvements and bug fixes. Thank you for using Ticketmaster!",
-      "version": "303.0",
-      "wrapperType": "software",
-      "currency": "USD",
-      "description": "The Ticketmaster app makes it easier to buy, sell, and get into the very best of live entertainment - so you can get on with making memories that last.\n\nWe give you unparalleled access to thousands of venues, artists, theater and sports events.\n\nDISCOVER\n- Explore millions of events from concerts, festivals and theater to sport and comedy shows\n- Get real-time updates about your favorite artists, events, and venues\n- Take control of your experience by browsing available seats and selecting those that best match your preferences\n\nBUY \n- Buy your tickets simply and safely \n- Credit Card, Gift Cards, installments and more - Choose the payment option that works best for you \n\nSELL\n- Safely and securely resell your tickets to fellow fans if you can’t go\n- Set your price for your tickets, and if they sell, you'll be paid through your selected payment method\n\nGET INTO THE SHOW\n- No need to worry about printing tickets! Access your tickets and all event details directly from your app\n- Easily transfer your tickets to family and friends before the show giving everyone the freedom to enter when they want \n\nDownload the Ticketmaster app and go live.",
-      "bundleId": "com.ticketmaster.ios.TicketmasterApp",
       "trackId": 500003565,
       "trackName": "Ticketmaster－Buy, Sell Tickets",
-      "releaseDate": "2012-02-23T02:09:55Z",
-      "price": 0,
-      "userRatingCount": 4226499,
+      "userRatingCount": 4237402,
       "country": "USA"
     },
     {
       "isGameCenterEnabled": false,
-      "artistViewUrl": "https://apps.apple.com/gb/developer/ticketmaster/id500003568?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/ad/af/99adafd0-e850-b2a0-5181-12d4910bbf7d/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/ad/af/99adafd0-e850-b2a0-5181-12d4910bbf7d/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
       "features": [
         "iosUniversal"
       ],
@@ -551,6 +548,9 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/40/2e/a5/402ea582-b6de-7562-8c59-1abd14e0f437/en-gb-slide3.png/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
+      "artistViewUrl": "https://apps.apple.com/gb/developer/ticketmaster/id500003568?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/ad/af/99adafd0-e850-b2a0-5181-12d4910bbf7d/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/ad/af/99adafd0-e850-b2a0-5181-12d4910bbf7d/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/ad/af/99adafd0-e850-b2a0-5181-12d4910bbf7d/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7a/b2/3b/7ab23bc4-cc03-070d-21cb-02d2c0604db7/en-gb-slide-1.png/320x480bb.jpg",
@@ -560,56 +560,64 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/aa/8d/d1/aa8dd170-dad2-6c51-93ba-f200820383a2/en-gb-slide-5.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a8/4e/28/a84e2863-63b3-0ef3-d2db-0ba5fa8b550c/en-gb-slide-6.png/320x480bb.jpg"
       ],
-      "minimumOsVersion": "18.6",
       "releaseNotes": "We update our app often in order to make it easier than ever to bring you unforgettable moments. Live only happens once! Get the latest version to access all the available Ticketmaster features to buy, sell, and manage your tickets. This version includes performance improvements and bug fixes. Thank you for using Ticketmaster!",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.73759,
-      "trackCensoredName": "Ticketmaster－Buy, Sell Tickets",
-      "trackViewUrl": "https://apps.apple.com/gb/app/ticketmaster-buy-sell-tickets/id500003565?uo=4",
       "artistId": 500003568,
       "artistName": "Ticketmaster",
+      "genres": [
+        "Entertainment",
+        "Music"
+      ],
+      "price": 0,
       "bundleId": "com.ticketmaster.ios.TicketmasterApp",
-      "releaseDate": "2024-10-14T07:00:00Z",
-      "sellerName": "Ticketmaster L.L.C",
+      "trackName": "Ticketmaster－Buy, Sell Tickets",
+      "trackId": 500003565,
       "primaryGenreName": "Entertainment",
       "primaryGenreId": 6016,
-      "trackId": 500003565,
-      "trackName": "Ticketmaster－Buy, Sell Tickets",
+      "releaseDate": "2024-10-14T07:00:00Z",
+      "minimumOsVersion": "18.6",
+      "sellerName": "Ticketmaster L.L.C",
+      "isVppDeviceBasedLicensingEnabled": true,
       "genreIds": [
         "6016",
         "6011"
       ],
-      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-10-12T17:54:53Z",
       "version": "303.0",
       "wrapperType": "software",
       "currency": "GBP",
       "description": "The Ticketmaster app makes it easier to buy, sell, and get into the very best of live entertainment – so you can get on with making memories that last.\n\nWe give you unparalleled access to thousands of venues, artists, theatre and sports events.\n\nDISCOVER\n- Explore millions of events from concerts, festivals and theatre to sport and comedy shows\n- Get real-time updates about your favourite artists, events, and venues\n- Take control of your experience by browsing available seats and selecting those that best match your preferences\n\nBUY\n- Buy your tickets simply and safely\n- Credit Card, Gift Cards, instalments and more – Choose the payment option that works best for you\n\nSELL\n- Safely and securely resell your tickets to fellow fans if you can’t go\n- Set your price for your tickets, and if they sell, you'll be paid through your selected payment method\n\nGET INTO THE SHOW\n- No need to worry about printing tickets! Access your tickets and all event details directly from your app\n-E asily transfer your tickets to family and friends before the show giving everyone the freedom to enter when they want\n\nDownload the Ticketmaster app and go live.",
-      "sellerUrl": "https://www.ticketmaster.com/",
-      "averageUserRatingForCurrentVersion": 4.73759,
-      "fileSizeBytes": "150326272",
-      "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 86694,
-      "trackContentRating": "4+",
       "languageCodesISO2A": [
         "NL",
         "EN",
         "FR",
         "ES"
       ],
-      "price": 0,
-      "genres": [
-        "Entertainment",
-        "Music"
-      ],
-      "userRatingCount": 86694,
+      "fileSizeBytes": "150326272",
+      "averageUserRatingForCurrentVersion": 4.73869,
+      "sellerUrl": "https://www.ticketmaster.com/",
+      "trackCensoredName": "Ticketmaster－Buy, Sell Tickets",
+      "trackViewUrl": "https://apps.apple.com/gb/app/ticketmaster-buy-sell-tickets/id500003565?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.73869,
+      "formattedPrice": "Free",
+      "userRatingCountForCurrentVersion": 87792,
+      "trackContentRating": "4+",
+      "userRatingCount": 87792,
       "country": "GBR"
     },
     {
-      "features": [
-        "iosUniversal"
-      ],
+      "artistViewUrl": "https://apps.apple.com/de/developer/ticketmaster/id500003568?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/ad/af/99adafd0-e850-b2a0-5181-12d4910bbf7d/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/ad/af/99adafd0-e850-b2a0-5181-12d4910bbf7d/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/ad/af/99adafd0-e850-b2a0-5181-12d4910bbf7d/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9d/cd/b0/9dcdb0ac-e847-2d4c-074f-3e03ad3388ba/de-de-slide-1.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f1/9a/08/f19a088b-df7d-eea9-b6b2-f0c2bced90a3/de-de-slide-2.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/98/27/b6/9827b699-1708-e797-bac3-f96aa899a89b/de-de-slide-3.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/de/32/f7/de32f703-3346-fc9b-71e3-e164c32cbf26/de-de-slide-4.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/18/f4/d1/18f4d1d4-1415-8945-2ee0-20983e4f38b0/de-de-slide-5.png/320x480bb.jpg"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -744,49 +752,21 @@
       ],
       "advisories": [],
       "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/de/developer/ticketmaster/id500003568?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/ad/af/99adafd0-e850-b2a0-5181-12d4910bbf7d/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/ad/af/99adafd0-e850-b2a0-5181-12d4910bbf7d/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9d/cd/b0/9dcdb0ac-e847-2d4c-074f-3e03ad3388ba/de-de-slide-1.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f1/9a/08/f19a088b-df7d-eea9-b6b2-f0c2bced90a3/de-de-slide-2.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/98/27/b6/9827b699-1708-e797-bac3-f96aa899a89b/de-de-slide-3.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/de/32/f7/de32f703-3346-fc9b-71e3-e164c32cbf26/de-de-slide-4.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/18/f4/d1/18f4d1d4-1415-8945-2ee0-20983e4f38b0/de-de-slide-5.png/320x480bb.jpg"
-      ],
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d0/5f/0c/d05f0cc2-b957-fd75-07ef-6b8030a67542/de-de-slide1.png/360x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fc/e2/d5/fce2d5b9-af08-5b12-765c-6a219afbbd24/de-de-slide2.png/360x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/59/02/5a/59025a2a-d71c-a0f9-3408-186e9dfb2704/de-de-slide3.png/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/ad/af/99adafd0-e850-b2a0-5181-12d4910bbf7d/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "minimumOsVersion": "18.6",
-      "currentVersionReleaseDate": "2026-10-12T17:54:53Z",
-      "genres": [
-        "Unterhaltung",
-        "Musik"
+      "features": [
+        "iosUniversal"
       ],
-      "price": 0,
-      "artistId": 500003568,
-      "artistName": "Ticketmaster",
-      "trackId": 500003565,
-      "trackName": "Ticketmaster - Tickets kaufen",
-      "bundleId": "com.ticketmaster.ios.TicketmasterApp",
+      "trackCensoredName": "Ticketmaster - Tickets kaufen",
+      "trackViewUrl": "https://apps.apple.com/de/app/ticketmaster-tickets-kaufen/id500003565?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.66741,
       "releaseNotes": "Wir aktualisieren unsere App regelmäßig, damit du noch einfacher unvergessliche Momente erleben kannst. Live only happens once! Hol dir die neueste Version der App, um alle Ticketmaster-Funktionen zum Kaufen, Verkaufen und Verwalten deiner Tickets zu nutzen. Diese Version enthält Leistungsverbesserungen und Fehlerbehebungen. Vielen Dank, dass du die Ticketmaster App nutzt!",
-      "releaseDate": "2025-04-21T07:00:00Z",
-      "genreIds": [
-        "6016",
-        "6011"
-      ],
-      "primaryGenreName": "Entertainment",
-      "primaryGenreId": 6016,
-      "sellerName": "Ticketmaster L.L.C",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "version": "303.0",
-      "wrapperType": "software",
-      "currency": "EUR",
-      "description": "Die Ticketmaster-App erleichtert es dir, Tickets zu kaufen, zu verkaufen und die besten Live-Events zu erleben – damit du unvergessliche Erinnerungen schaffen kannst.\n\nDu erhältst exklusiven Zugang zu tausenden Veranstaltungsorten, Künstler*innen, Bands, Comedians, Theater- und Sportevents.\n\nENTDECKEN\n●\tEntdecke Millionen von Events auf der ganzen Welt – von Konzerten, Festivals und Theater bis hin zu Sport- und Comedyshows\n●\tErhalte Echtzeit-Updates zu deinen Lieblingskünstler*innen, Events, Teams und Veranstaltungsorten\n●\tGestalte dein Erlebnis selbst, indem du verfügbare Plätze durchstöberst und die besten für dich auswählst\n \nKAUFEN\n●\tKaufe deine Tickets einfach und sicher in der App\n●\tKreditkarte, PayPal, Geschenk-Gutschein, Ratenzahlung und mehr – wähle die Zahlungsmethode, die am besten zu dir passt\n\nVERKAUFEN\n●\tVerkaufe deine Mobile Tickets sicher und zuverlässig an andere Fans, wenn deine Pläne sich ändern\n●\tBestimme den Preis deiner Tickets und erhalte dein Geld über die gewählte Zahlungsmethode, nachdem sie verkauft wurden\n\nERLEBE DEIN EVENT\n●\tKein Ausdrucken nötig! Greife direkt in der App auf deine Tickets und alle Event-Details zu\n●\tÜbertrage deine Tickets ganz einfach an Familie und Freunde, damit alle flexibel Zugang zum Event erhalten\n \nLade die Ticketmaster-App jetzt herunter und erlebe Events hautnah.",
+      "sellerUrl": "https://www.ticketmaster.com/",
       "languageCodesISO2A": [
         "NL",
         "EN",
@@ -795,15 +775,35 @@
       ],
       "fileSizeBytes": "150326272",
       "formattedPrice": "Gratis",
-      "userRatingCountForCurrentVersion": 7912,
+      "userRatingCountForCurrentVersion": 8052,
       "trackContentRating": "4+",
-      "trackViewUrl": "https://apps.apple.com/de/app/ticketmaster-tickets-kaufen/id500003565?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.66696,
-      "sellerUrl": "https://www.ticketmaster.com/",
-      "averageUserRating": 4.66696,
-      "trackCensoredName": "Ticketmaster - Tickets kaufen",
-      "userRatingCount": 7912,
+      "averageUserRatingForCurrentVersion": 4.66741,
+      "artistId": 500003568,
+      "artistName": "Ticketmaster",
+      "trackId": 500003565,
+      "trackName": "Ticketmaster - Tickets kaufen",
+      "releaseDate": "2025-04-21T07:00:00Z",
+      "primaryGenreName": "Entertainment",
+      "primaryGenreId": 6016,
+      "minimumOsVersion": "18.6",
+      "genreIds": [
+        "6016",
+        "6011"
+      ],
+      "sellerName": "Ticketmaster L.L.C",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-10-12T17:54:53Z",
+      "version": "303.0",
+      "wrapperType": "software",
+      "currency": "EUR",
+      "description": "Die Ticketmaster-App erleichtert es dir, Tickets zu kaufen, zu verkaufen und die besten Live-Events zu erleben – damit du unvergessliche Erinnerungen schaffen kannst.\n\nDu erhältst exklusiven Zugang zu tausenden Veranstaltungsorten, Künstler*innen, Bands, Comedians, Theater- und Sportevents.\n\nENTDECKEN\n●\tEntdecke Millionen von Events auf der ganzen Welt – von Konzerten, Festivals und Theater bis hin zu Sport- und Comedyshows\n●\tErhalte Echtzeit-Updates zu deinen Lieblingskünstler*innen, Events, Teams und Veranstaltungsorten\n●\tGestalte dein Erlebnis selbst, indem du verfügbare Plätze durchstöberst und die besten für dich auswählst\n \nKAUFEN\n●\tKaufe deine Tickets einfach und sicher in der App\n●\tKreditkarte, PayPal, Geschenk-Gutschein, Ratenzahlung und mehr – wähle die Zahlungsmethode, die am besten zu dir passt\n\nVERKAUFEN\n●\tVerkaufe deine Mobile Tickets sicher und zuverlässig an andere Fans, wenn deine Pläne sich ändern\n●\tBestimme den Preis deiner Tickets und erhalte dein Geld über die gewählte Zahlungsmethode, nachdem sie verkauft wurden\n\nERLEBE DEIN EVENT\n●\tKein Ausdrucken nötig! Greife direkt in der App auf deine Tickets und alle Event-Details zu\n●\tÜbertrage deine Tickets ganz einfach an Familie und Freunde, damit alle flexibel Zugang zum Event erhalten\n \nLade die Ticketmaster-App jetzt herunter und erlebe Events hautnah.",
+      "bundleId": "com.ticketmaster.ios.TicketmasterApp",
+      "price": 0,
+      "genres": [
+        "Unterhaltung",
+        "Musik"
+      ],
+      "userRatingCount": 8052,
       "country": "DEU"
     }
   ]

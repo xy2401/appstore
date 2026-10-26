@@ -188,14 +188,10 @@
       "userRatingCount": 209491
     },
     {
-      "artistViewUrl": "https://apps.apple.com/de/developer/governikus-service-gmbh/id948660804?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/a4/39/7ea439ce-01f2-4b48-4e02-203ba2b52b66/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/a4/39/7ea439ce-01f2-4b48-4e02-203ba2b52b66/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
       ],
-      "advisories": [],
       "supportedDevices": [
         "MacDesktop-MacDesktop",
         "iPhone5s-iPhone5s",
@@ -329,7 +325,11 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "advisories": [],
       "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/de/developer/governikus-service-gmbh/id948660804?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/a4/39/7ea439ce-01f2-4b48-4e02-203ba2b52b66/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/a4/39/7ea439ce-01f2-4b48-4e02-203ba2b52b66/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3b/b7/64/3bb76438-2463-e8b4-0eaf-1767774c81f7/1_Einrichtung.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d0/16/e6/d016e6df-3775-cbc6-05b5-b87c4aa05c2f/2_Startseite.png/320x480bb.jpg",
@@ -348,34 +348,27 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/a4/39/7ea439ce-01f2-4b48-4e02-203ba2b52b66/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "trackCensoredName": "AusweisApp Bund",
-      "trackViewUrl": "https://apps.apple.com/de/app/ausweisapp-bund/id948660805?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.19153,
-      "releaseNotes": "- Temporäre Reaktivierung von RSA-Signaturen mit PKCS#1 v1.5 in TLS.",
-      "minimumOsVersion": "17.0",
-      "genres": [
-        "Dienst­programme"
-      ],
-      "artistId": 948660804,
-      "artistName": "Governikus Service GmbH",
-      "price": 0,
       "bundleId": "com.governikus.ausweisapp2",
-      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseNotes": "- Temporäre Reaktivierung von RSA-Signaturen mit PKCS#1 v1.5 in TLS.",
+      "artistName": "Governikus Service GmbH",
       "releaseDate": "2019-09-26T07:00:00Z",
+      "price": 0,
+      "artistId": 948660804,
+      "sellerName": "Governikus Service GmbH",
       "trackId": 948660805,
       "trackName": "AusweisApp Bund",
-      "genreIds": [
-        "6002"
-      ],
-      "sellerName": "Governikus Service GmbH",
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
+      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-10-14T05:39:36Z",
       "version": "2.6.1",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Die AusweisApp ist eine Software, die Sie auf Ihrem iPhone, Mac oder iPad installieren, um sich mit Ihrem Personalausweis, Ihrem elektronischen Aufenthaltstitel oder der eID-Karte für Unionsbürger:innen online auszuweisen. \n\nAlle weiterführenden Informationen finden Sie unter: www.ausweisapp.bund.de\n\nDie Erklärung zur Barrierefreiheit der Software finden Sie unter: https://www.ausweisapp.bund.de/barrierefreiheit-app\n\nEntwickelt im Auftrag des Bundesamtes für Sicherheit in der Informationstechnik.",
-      "averageUserRatingForCurrentVersion": 4.19153,
-      "sellerUrl": "https://www.ausweisapp.bund.de",
+      "trackCensoredName": "AusweisApp Bund",
+      "trackViewUrl": "https://apps.apple.com/de/app/ausweisapp-bund/id948660805?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.19489,
       "languageCodesISO2A": [
         "EN",
         "DE",
@@ -384,11 +377,18 @@
       ],
       "fileSizeBytes": "50885632",
       "formattedPrice": "Gratis",
-      "userRatingCountForCurrentVersion": 228016,
+      "userRatingCountForCurrentVersion": 233557,
       "trackContentRating": "4+",
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
-      "userRatingCount": 228016,
+      "averageUserRatingForCurrentVersion": 4.19489,
+      "sellerUrl": "https://www.ausweisapp.bund.de",
+      "minimumOsVersion": "17.0",
+      "genres": [
+        "Dienst­programme"
+      ],
+      "genreIds": [
+        "6002"
+      ],
+      "userRatingCount": 233557,
       "country": "DEU"
     }
   ]

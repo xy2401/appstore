@@ -2,6 +2,7 @@
   "resultCount": 1,
   "results": [
     {
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/06/df/99/06df99e2-327f-ad36-a83d-feeaf89c851d/hagiographia_apple_fr_1.jpg/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3c/05/dd/3c05dd1e-a029-1ce9-a9d7-4ae883e719e6/hagiographia_apple_fr_2.jpg/320x480bb.jpg",
@@ -9,10 +10,10 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ac/48/37/ac48374f-9235-ba37-163c-5a93e7620b30/hagiographia_apple_fr_4.jpg/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5a/19/ef/5a19efbb-043b-112d-aec4-82b14f438a60/hagiographia_apple_fr_5.jpg/320x480bb.jpg"
       ],
-      "appletvScreenshotUrls": [],
-      "isGameCenterEnabled": false,
       "ipadScreenshotUrls": [],
+      "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/f4/31/63f43112-5b9f-a5de-92d6-6e81f07c0eb9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "features": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -145,7 +146,6 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "features": [],
       "advisories": [
         "Scènes rares/modérées de violence réaliste"
       ],
@@ -154,16 +154,16 @@
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/f4/31/63f43112-5b9f-a5de-92d6-6e81f07c0eb9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/f4/31/63f43112-5b9f-a5de-92d6-6e81f07c0eb9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
       "averageUserRatingForCurrentVersion": 4.8,
-      "fileSizeBytes": "93187072",
-      "formattedPrice": "3,99 €",
-      "userRatingCountForCurrentVersion": 5,
       "releaseNotes": "Hagiographia parle désormais espagnol : fiches des saints, prières et interface. Recherche par lieu améliorée et démarrage plus rapide.",
+      "sellerUrl": "https://hagiographia.com",
       "languageCodesISO2A": [
         "EN",
         "FR",
         "ES"
       ],
-      "sellerUrl": "https://hagiographia.com",
+      "fileSizeBytes": "93187072",
+      "formattedPrice": "3,99 €",
+      "userRatingCountForCurrentVersion": 5,
       "trackContentRating": "12+",
       "artistId": 1894891142,
       "artistName": "Emmanuel Jensen",
@@ -171,29 +171,29 @@
         "Références",
         "Livres"
       ],
-      "isVppDeviceBasedLicensingEnabled": true,
-      "trackId": 6762630088,
-      "trackName": "Hagiographia — Vies des Saints",
-      "releaseDate": "2026-05-21T07:00:00Z",
+      "price": 3.99,
       "genreIds": [
         "6006",
         "6018"
       ],
+      "bundleId": "com.hagiographia.app",
+      "primaryGenreName": "Reference",
+      "primaryGenreId": 6006,
+      "minimumOsVersion": "15.0",
+      "releaseDate": "2026-05-21T07:00:00Z",
+      "trackId": 6762630088,
+      "trackName": "Hagiographia — Vies des Saints",
+      "sellerName": "Emmanuel Jensen",
+      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-10-18T17:58:57Z",
       "version": "1.0.5",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Hagiographia est un dictionnaire de référence des saints catholiques, \nalliant rigueur historique et profondeur spirituelle.\n\nPlus de 2300 saints répertoriés avec leurs biographies détaillées, \nle contexte historique de leur époque, leurs miracles, symboles \nliturgiques, attributs iconographiques et prières de dévotion \ndans l'esprit de la Tradition.\n\nConsultez les saints par nom ou par date du calendrier liturgique, \navec support des deux formes du rite romain (ordinaire et extraordinaire).\n\nUne référence complète pour les croyants, les historiens et tous \nceux que fascine l'histoire de l'Église à travers ses témoins.",
-      "minimumOsVersion": "15.0",
+      "averageUserRating": 4.8,
       "trackCensoredName": "Hagiographia — Vies des Saints",
       "trackViewUrl": "https://apps.apple.com/fr/app/hagiographia-vies-des-saints/id6762630088?uo=4",
       "contentAdvisoryRating": "12+",
-      "averageUserRating": 4.8,
-      "bundleId": "com.hagiographia.app",
-      "primaryGenreName": "Reference",
-      "primaryGenreId": 6006,
-      "sellerName": "Emmanuel Jensen",
-      "price": 3.99,
       "userRatingCount": 5,
       "country": "FRA"
     }

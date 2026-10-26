@@ -2,6 +2,16 @@
   "resultCount": 1,
   "results": [
     {
+      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
+      "advisories": [
+        "Infrequent/Mild Realistic Violence",
+        "Infrequent/Mild Cartoon or Fantasy Violence",
+        "Infrequent/Mild Mature/Suggestive Themes"
+      ],
+      "kind": "software",
       "artistViewUrl": "https://apps.apple.com/us/developer/kristian-stensoenes/id605477813?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/a4/1d/12a41d04-8da9-f07e-57b4-53443a805d71/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/a4/1d/12a41d04-8da9-f07e-57b4-53443a805d71/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
@@ -28,7 +38,6 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/a4/1d/12a41d04-8da9-f07e-57b4-53443a805d71/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -161,18 +170,31 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [
-        "Infrequent/Mild Realistic Violence",
-        "Infrequent/Mild Cartoon or Fantasy Violence",
-        "Infrequent/Mild Mature/Suggestive Themes"
+      "releaseNotes": "-Improved feature list in the app Info menu.\n-General system update.",
+      "artistId": 605477813,
+      "artistName": "Kristian Stensoenes",
+      "bundleId": "no.ks3d.bhs",
+      "genres": [
+        "Sports",
+        "Education"
       ],
-      "kind": "software",
-      "features": [
-        "iosUniversal"
-      ],
+      "sellerName": "Kristian Stensoenes",
+      "minimumOsVersion": "15.6",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "trackId": 1090757314,
+      "trackName": "Bow Hunt Simulator",
+      "releaseDate": "2016-05-04T21:26:41Z",
+      "currentVersionReleaseDate": "2026-03-29T17:42:16Z",
+      "version": "1.4",
+      "wrapperType": "software",
+      "currency": "USD",
+      "description": "Visual technical ballistics bow simulator intended for hunters. \nThis app is not a game but a simplified technical ballistic hunting simulator for bow and archery hunters, it has been developed based on feature request from hunters.\nThe app simulates arrow flight in realtime 3d and provides useful target hit information based on target distance, direction, elevation of hunter and wind. \nBow and arrow setup has adjustable pin sight and arrow velocity, weight and type.\nTargets available are Elk, Whitetail, Roedeer, Wild Turkey, Coyote and Wildboar.\nFor rifle hunters: Check out the \"Rifle Hunt Simulator\" app, designed around the same concept",
       "contentAdvisoryRating": "12+",
       "averageUserRating": 4.2,
-      "minimumOsVersion": "15.6",
+      "trackCensoredName": "Bow Hunt Simulator",
+      "trackViewUrl": "https://apps.apple.com/us/app/bow-hunt-simulator/id1090757314?uo=4",
+      "sellerUrl": "https://www.huntingsim.com/",
+      "averageUserRatingForCurrentVersion": 4.2,
       "languageCodesISO2A": [
         "EN"
       ],
@@ -180,35 +202,13 @@
       "formattedPrice": "$3.99",
       "userRatingCountForCurrentVersion": 20,
       "trackContentRating": "12+",
-      "averageUserRatingForCurrentVersion": 4.2,
-      "sellerUrl": "https://www.huntingsim.com/",
-      "releaseNotes": "-Improved feature list in the app Info menu.\n-General system update.",
-      "price": 3.99,
-      "artistId": 605477813,
-      "artistName": "Kristian Stensoenes",
-      "genres": [
-        "Sports",
-        "Education"
-      ],
       "genreIds": [
         "6004",
         "6017"
       ],
-      "bundleId": "no.ks3d.bhs",
-      "releaseDate": "2016-05-04T21:26:41Z",
-      "trackId": 1090757314,
-      "trackName": "Bow Hunt Simulator",
+      "price": 3.99,
       "primaryGenreName": "Sports",
       "primaryGenreId": 6004,
-      "sellerName": "Kristian Stensoenes",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-03-29T17:42:16Z",
-      "version": "1.4",
-      "wrapperType": "software",
-      "currency": "USD",
-      "description": "Visual technical ballistics bow simulator intended for hunters. \nThis app is not a game but a simplified technical ballistic hunting simulator for bow and archery hunters, it has been developed based on feature request from hunters.\nThe app simulates arrow flight in realtime 3d and provides useful target hit information based on target distance, direction, elevation of hunter and wind. \nBow and arrow setup has adjustable pin sight and arrow velocity, weight and type.\nTargets available are Elk, Whitetail, Roedeer, Wild Turkey, Coyote and Wildboar.\nFor rifle hunters: Check out the \"Rifle Hunt Simulator\" app, designed around the same concept",
-      "trackCensoredName": "Bow Hunt Simulator",
-      "trackViewUrl": "https://apps.apple.com/us/app/bow-hunt-simulator/id1090757314?uo=4",
       "userRatingCount": 20,
       "country": "USA"
     }

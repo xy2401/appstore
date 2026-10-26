@@ -2,6 +2,7 @@
   "resultCount": 1,
   "results": [
     {
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6e/22/31/6e2231ec-65d1-fce7-eb36-b17d12fe3ecb/1@6_9.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/47/59/b9/4759b9d8-09e7-f87a-1ccc-c6f9832428b8/2@6_9.png/320x480bb.jpg",
@@ -14,8 +15,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/0d/6e/990d6e0a-7124-e88d-86d7-331d8a6ac31d/9@6_9.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3b/8f/11/3b8f11cd-b209-7389-266d-aab4de2f0510/10@6_9.png/320x480bb.jpg"
       ],
-      "appletvScreenshotUrls": [],
-      "isGameCenterEnabled": false,
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ad/5f/1a/ad5f1acd-ec66-c75b-bcfc-1c2894a4abbf/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-01-18_at_13.27.24.png/360x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5f/ec/72/5fec7280-af62-ca7d-4f68-7d0b79f5cecb/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-01-18_at_13.27.42.png/360x480bb.jpg",
@@ -28,7 +27,11 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f1/96/bd/f196bd05-6caa-e299-7b5b-64e3f09c4d4c/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-01-18_at_13.28.12.png/360x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b3/2b/70/b32b703e-f4d8-6f5a-b13a-e2296211e18b/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-01-18_at_13.28.09.png/360x480bb.jpg"
       ],
+      "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/cf/3d/29cf3d1e-04f3-e220-8ffd-ed16f58daa96/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -162,23 +165,20 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "features": [
-        "iosUniversal"
-      ],
       "advisories": [],
       "kind": "software",
       "artistViewUrl": "https://apps.apple.com/fr/developer/fatima-omer-apps-llc/id1762728522?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/cf/3d/29cf3d1e-04f3-e220-8ffd-ed16f58daa96/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/cf/3d/29cf3d1e-04f3-e220-8ffd-ed16f58daa96/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.jpg",
       "averageUserRatingForCurrentVersion": 5,
-      "fileSizeBytes": "108555264",
-      "formattedPrice": "6,99 €",
-      "userRatingCountForCurrentVersion": 3,
       "releaseNotes": "- Updated for latest iOS 26.6\n- Improved Prayer times calculations\n- Enhanced user experience\n- Crash Fix",
+      "sellerUrl": "https://intuitionapps.com/fatima/PrayerTimesPro/support-pro.html",
       "languageCodesISO2A": [
         "EN"
       ],
-      "sellerUrl": "https://intuitionapps.com/fatima/PrayerTimesPro/support-pro.html",
+      "fileSizeBytes": "108555264",
+      "formattedPrice": "6,99 €",
+      "userRatingCountForCurrentVersion": 4,
       "trackContentRating": "4+",
       "artistId": 1762728522,
       "artistName": "FATIMA OMER APPS LLC",
@@ -186,30 +186,30 @@
         "Références",
         "Style de vie"
       ],
-      "isVppDeviceBasedLicensingEnabled": true,
-      "trackId": 6743057595,
-      "trackName": "Prayer Times Qibla Compass Pro",
-      "releaseDate": "2026-01-22T08:00:00Z",
+      "price": 6.99,
       "genreIds": [
         "6006",
         "6012"
       ],
+      "bundleId": "com.sumaiya.PrayerTimesPro3",
+      "primaryGenreName": "Reference",
+      "primaryGenreId": 6006,
+      "minimumOsVersion": "15.0",
+      "releaseDate": "2026-01-22T08:00:00Z",
+      "trackId": 6743057595,
+      "trackName": "Prayer Times Qibla Compass Pro",
+      "sellerName": "Fatima Omer Apps LLC",
+      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-08-21T04:07:35Z",
       "version": "1.2",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Islamic App – Your Daily Companion for Faith\n\nStay connected to your faith anytime, anywhere with our all-in-one Islamic app designed to support your daily worship and spiritual growth.\n\n- Accurate Prayer Times\nGet precise prayer times based on your location, with customizable calculation methods and timely Athan notifications so you never miss a prayer.\n\n- Qibla Compass\nEasily find the direction of the Kaaba wherever you are with a reliable and easy-to-use Qibla compass.\n\n- Holy Quran\nRead the complete Holy Quran with a beautiful, easy-to-read interface. Enjoy smooth navigation, bookmarking, and search features for a meaningful reading experience.\n\n- Hadith Collection\nExplore authentic Hadith from trusted sources to deepen your understanding of Islam and the teachings of Prophet Muhammad (SAW).\n\n- Islamic Events & Calendar\nStay informed about important Islamic dates and events, including Ramadan, Eid, and other significant occasions.\n\n- Simple, Elegant & User-Friendly\nDesigned with simplicity and beauty in mind, this app is perfect for Muslims of all ages seeking a reliable daily Islamic companion.\n\nDownload now and strengthen your connection with Allah every day.",
-      "minimumOsVersion": "15.0",
+      "averageUserRating": 5,
       "trackCensoredName": "Prayer Times Qibla Compass Pro",
       "trackViewUrl": "https://apps.apple.com/fr/app/prayer-times-qibla-compass-pro/id6743057595?uo=4",
       "contentAdvisoryRating": "4+",
-      "averageUserRating": 5,
-      "bundleId": "com.sumaiya.PrayerTimesPro3",
-      "primaryGenreName": "Reference",
-      "primaryGenreId": 6006,
-      "sellerName": "Fatima Omer Apps LLC",
-      "price": 6.99,
-      "userRatingCount": 3,
+      "userRatingCount": 4,
       "country": "FRA"
     }
   ]

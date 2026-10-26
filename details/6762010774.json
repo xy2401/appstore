@@ -2,9 +2,6 @@
   "resultCount": 1,
   "results": [
     {
-      "artistViewUrl": "https://apps.apple.com/gb/developer/crowncards/id1892442686?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/a5/dd/10a5dd8a-7b1b-8748-81b1-dc75d91dc0b2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/a5/dd/10a5dd8a-7b1b-8748-81b1-dc75d91dc0b2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a6/64/98/a664988b-65f8-8c64-c6a1-048aae85fa07/1-rip-packs-for-real-money-n3on-edited.png/320x480bb.jpg",
@@ -27,7 +24,10 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/36/89/41/36894161-e19f-18c1-7282-352205bc3ea4/8-instant-buyback-c-sell-button.png/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/a5/dd/10a5dd8a-7b1b-8748-81b1-dc75d91dc0b2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/a5/dd/10a5dd8a-7b1b-8748-81b1-dc75d91dc0b2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/a5/dd/10a5dd8a-7b1b-8748-81b1-dc75d91dc0b2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/gb/developer/crowncards/id1892442686?uo=4",
       "features": [
         "iosUniversal"
       ],
@@ -165,19 +165,20 @@
       ],
       "advisories": [],
       "kind": "software",
-      "trackViewUrl": "https://apps.apple.com/gb/app/crowncards-trading-cards/id6762010774?uo=4",
-      "contentAdvisoryRating": "17+",
-      "averageUserRating": 4.6932,
+      "releaseNotes": "Bug fixes and performance improvements.",
+      "sellerUrl": "https://crowncards.io/",
       "trackCensoredName": "CrownCards - Trading Cards",
       "languageCodesISO2A": [
         "EN"
       ],
       "fileSizeBytes": "408014848",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 6493,
+      "contentAdvisoryRating": "17+",
+      "userRatingCountForCurrentVersion": 9085,
+      "trackViewUrl": "https://apps.apple.com/gb/app/crowncards-trading-cards/id6762010774?uo=4",
       "trackContentRating": "17+",
-      "sellerUrl": "https://crowncards.io/",
-      "averageUserRatingForCurrentVersion": 4.6932,
+      "averageUserRatingForCurrentVersion": 4.7038,
+      "averageUserRating": 4.7038,
       "artistId": 1892442686,
       "artistName": "CrownCards",
       "genres": [
@@ -185,26 +186,25 @@
         "Entertainment"
       ],
       "price": 0,
-      "bundleId": "io.crowncards.app",
+      "sellerName": "Crown Cards LLC",
+      "releaseDate": "2026-06-03T07:00:00Z",
       "primaryGenreName": "Shopping",
       "primaryGenreId": 6024,
-      "genreIds": [
-        "6024",
-        "6016"
-      ],
-      "releaseNotes": "Bug fixes and performance improvements.",
-      "releaseDate": "2026-06-03T07:00:00Z",
-      "sellerName": "Crown Cards LLC",
+      "minimumOsVersion": "16.4",
       "isVppDeviceBasedLicensingEnabled": true,
+      "trackId": 6762010774,
+      "trackName": "CrownCards - Trading Cards",
       "currentVersionReleaseDate": "2026-10-12T06:46:59Z",
       "version": "1.1.3",
       "wrapperType": "software",
       "currency": "GBP",
       "description": "Pull genuine trading cards from your phone. Build your collection or ship the real card home.\n\nCrown Cards is a digital pack-opening experience built around real collectibles. Every card in every pack is a genuine trading card, from popular TCG singles to graded slabs and rare chase cards every card's market value is listed before you open. No mystery on what a pull is worth. Just the thrill of the reveal, and your choice of what to do next.\n\nHow it works\n\n1. Pick a pack. Browse packs with clearly labeled card pools, rarity tiers, value ranges, and pull rates. Pick the one matching the chase you're after.\n\n2. Open and reveal. Watch each card turn one by one. You might pull everyday collectibles, sought-after singles, professionally graded slabs, or a rare hit.\n\n3. Decide per card. Two options for every card you pull:\n- Collect and keep it in your in-app collection\n- Ship it, request physical delivery of the real card\n\nReal cards, real values\n\nEvery card available in Crown Cards is a genuine, physical collectible. Listed values are tied to market data so you understand exactly what you pulled and what it's worth in the wider collecting market.\n\nPhysical shipping\n\nWant to hold the real thing? Request delivery and we'll ship your selected cards to your address with secure, tracked handling.",
-      "minimumOsVersion": "16.4",
-      "trackId": 6762010774,
-      "trackName": "CrownCards - Trading Cards",
-      "userRatingCount": 6493,
+      "bundleId": "io.crowncards.app",
+      "genreIds": [
+        "6024",
+        "6016"
+      ],
+      "userRatingCount": 9085,
       "country": "GBR"
     }
   ]

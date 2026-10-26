@@ -195,11 +195,8 @@
       "userRatingCount": 63772
     },
     {
-      "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
       "advisories": [],
+      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -333,6 +330,9 @@
         "iPhoneDuo-iPhoneDuo"
       ],
       "kind": "software",
+      "features": [
+        "iosUniversal"
+      ],
       "artistViewUrl": "https://apps.apple.com/fr/developer/lassurance-maladie/id620447176?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/9b/29/ea9b29ee-1547-4f0a-16e1-da7a81c04475/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/9b/29/ea9b29ee-1547-4f0a-16e1-da7a81c04475/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
@@ -350,45 +350,45 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/9b/29/ea9b29ee-1547-4f0a-16e1-da7a81c04475/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "primaryGenreName": "Health & Fitness",
+      "primaryGenreId": 6013,
+      "sellerName": "Caisse Nat ASSUR MALADIE TRAV SALARIES",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-10-15T09:05:20Z",
+      "price": 0,
+      "artistId": 620447176,
+      "artistName": "l'Assurance Maladie",
       "genres": [
         "Forme et santé",
         "Utilitaires"
       ],
-      "price": 0,
+      "bundleId": "fr.mobi.moncompte.ameli",
+      "releaseDate": "2013-04-06T19:40:10Z",
       "genreIds": [
         "6013",
         "6002"
       ],
-      "releaseDate": "2013-04-06T19:40:10Z",
-      "sellerName": "Caisse Nat ASSUR MALADIE TRAV SALARIES",
-      "primaryGenreName": "Health & Fitness",
-      "primaryGenreId": 6013,
-      "isVppDeviceBasedLicensingEnabled": true,
+      "minimumOsVersion": "16.0",
       "releaseNotes": "Nous sommes partis à la chasse aux bugs et aux améliorations de nos démarches pour vous offrir une expérience plus fluide.",
-      "trackId": 620447173,
-      "trackName": "Compte ameli",
-      "currentVersionReleaseDate": "2026-10-15T09:05:20Z",
       "version": "25.0.2",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Connectez-vous à votre compte avec votre numéro de sécurité sociale, votre mot de passe et le code unique reçu par email ou via l'authentification biométrique (disponible sur smartphone) et accéder à tous les services suivants :\n\nConsultez vos remboursements de soins :\n    - Visualisez tous vos remboursements en détails\n\nConsultez tous vos documents :    \n    - Téléchargez votre attestation de droits ou d'indemnités journalières\n    - Téléchargez vos relevés mensuels de remboursements, disponibles pour les 27 derniers mois\n\nRéalisez certaines démarches sans vous déplacer :\n    - Simulez et estimez vos indemnités journalières, et effectuez vos éventuelles démarches\n    - Commandez votre carte européenne d'assurance maladie (CEAM) et visualisez-la sur votre smartphone\n    - Déclarez la perte ou le vol de votre carte Vitale\n    - Commandez une carte Vitale \n    - Déclarez votre nouveau-né à votre caisse \n    - Inscrivez votre enfant sur les cartes des deux parents\n    - Déposez votre feuille de soin médecin \n\n- Modifiez votre nom d'usage\n    - Déclarez un accident causé par un tiers\n    - Accédez à la simulation de vos droits aux aides sociales\n    - Consultez les délais de traitement de votre caisse\n    - Choisissez votre organisme complémentaire en cas de chevauchement de contrats\n    - Déclarez un acte médical ou un soin non réalisé\n\nGérez vos informations personnelles :\n    - Retrouvez toutes vos informations personnelles\n    - Modifiez votre adresse postale, votre adresse email et vos numéros de téléphone\n\nPrenez rendez-vous avec votre caisse :\n    - Choisissez un créneau de rendez-vous téléphonique\n    - Modifiez vos rendez-vous\n    - Supprimez vos rendez-vous\n    - Visionnez vos rendez-vous à venir",
-      "bundleId": "fr.mobi.moncompte.ameli",
-      "averageUserRatingForCurrentVersion": 4.50993,
+      "averageUserRating": 4.51088,
+      "contentAdvisoryRating": "4+",
       "trackCensoredName": "Compte ameli",
       "trackViewUrl": "https://apps.apple.com/fr/app/compte-ameli/id620447173?uo=4",
-      "contentAdvisoryRating": "4+",
-      "trackContentRating": "4+",
       "languageCodesISO2A": [
         "FR"
       ],
       "fileSizeBytes": "36464640",
       "formattedPrice": "Gratuit",
-      "userRatingCountForCurrentVersion": 74050,
-      "averageUserRating": 4.50993,
-      "minimumOsVersion": "16.0",
-      "artistId": 620447176,
-      "artistName": "l'Assurance Maladie",
-      "userRatingCount": 74050,
+      "userRatingCountForCurrentVersion": 74863,
+      "trackContentRating": "4+",
+      "averageUserRatingForCurrentVersion": 4.51088,
+      "trackId": 620447173,
+      "trackName": "Compte ameli",
+      "userRatingCount": 74863,
       "country": "FRA"
     }
   ]

@@ -2,9 +2,11 @@
   "resultCount": 1,
   "results": [
     {
-      "artistViewUrl": "https://apps.apple.com/fr/developer/mathieu-barbery/id1438847411?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/5f/db/f65fdb89-eaaa-4d2f-5568-2f872415a065/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/5f/db/f65fdb89-eaaa-4d2f-5568-2f872415a065/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -137,11 +139,6 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "isGameCenterEnabled": false,
-      "advisories": [],
-      "features": [
-        "iosUniversal"
-      ],
       "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/2d/ae/cb2dae36-5206-c09b-638a-ab430f1d8bd7/pr_source.png/392x696bb.png",
@@ -169,26 +166,37 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/5f/db/f65fdb89-eaaa-4d2f-5568-2f872415a065/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "averageUserRating": 0,
-      "contentAdvisoryRating": "4+",
-      "minimumOsVersion": "15.0",
-      "currentVersionReleaseDate": "2026-10-01T15:46:49Z",
-      "releaseNotes": "Ajout de nouvelles captures d'écran à la fiche AppStore.",
+      "artistViewUrl": "https://apps.apple.com/fr/developer/mathieu-barbery/id1438847411?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/5f/db/f65fdb89-eaaa-4d2f-5568-2f872415a065/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/5f/db/f65fdb89-eaaa-4d2f-5568-2f872415a065/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+      "averageUserRatingForCurrentVersion": 0,
       "artistId": 1438847411,
       "artistName": "Mathieu Barbery",
+      "genres": [
+        "Météo",
+        "Style de vie"
+      ],
       "price": 7.99,
-      "bundleId": "fr.microtekno.meteo60",
-      "sellerName": "Mathieu Barbery",
+      "currentVersionReleaseDate": "2026-10-01T15:46:49Z",
       "releaseDate": "2015-11-24T11:50:55Z",
+      "minimumOsVersion": "15.0",
+      "genreIds": [
+        "6001",
+        "6012"
+      ],
+      "trackName": "Meteo60",
+      "trackId": 1049913445,
       "primaryGenreName": "Weather",
       "primaryGenreId": 6001,
+      "sellerName": "Mathieu Barbery",
       "isVppDeviceBasedLicensingEnabled": true,
-      "trackId": 1049913445,
-      "trackName": "Meteo60",
+      "releaseNotes": "Ajout de nouvelles captures d'écran à la fiche AppStore.",
       "version": "4.0.1",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "L'essentiel de la météo est dans cette application officielle du site www.meteo60.fr.\nVous pouvez consulter gratuitement les prévisions à 10 jours pour votre commune, les images satellites, voir en temps réel le déplacement des orages et des précipitations. Les données de la météo agricole sont aussi disponibles (ETP, humidité, T°C sol).\n\nMeteo60 propose des prévisions par villes très précises grâce à l'utilisation du modèle haute résolution français Arôme et allemand ICON.\n\nCette application ne doit pas être utilisée pour la protection des biens et des personnes.\n\nIl n'y a aucune publicité ni traceur dans cette application, c'est pour cela qu'elle est payante.",
+      "bundleId": "fr.microtekno.meteo60",
+      "sellerUrl": "https://www.meteo60.fr",
       "trackCensoredName": "Meteo60",
       "languageCodesISO2A": [
         "EN"
@@ -198,16 +206,8 @@
       "userRatingCountForCurrentVersion": 0,
       "trackViewUrl": "https://apps.apple.com/fr/app/meteo60/id1049913445?uo=4",
       "trackContentRating": "4+",
-      "sellerUrl": "https://www.meteo60.fr",
-      "averageUserRatingForCurrentVersion": 0,
-      "genreIds": [
-        "6001",
-        "6012"
-      ],
-      "genres": [
-        "Météo",
-        "Style de vie"
-      ],
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 0,
       "userRatingCount": 0,
       "country": "FRA"
     }

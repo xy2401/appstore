@@ -2,18 +2,24 @@
   "resultCount": 1,
   "results": [
     {
+      "formattedPrice": "10,99 €",
       "artistIds": [
         468365995
       ],
-      "price": 10.99,
+      "artistId": 468365995,
+      "artistName": "Viveca Sten",
       "genres": [
         "Krimis und Thriller",
         "Bücher",
         "Polizeiromane"
       ],
-      "artistId": 468365995,
-      "artistName": "Viveca Sten",
+      "price": 10.99,
       "releaseDate": "2025-10-16T07:00:00Z",
+      "genreIds": [
+        "9032",
+        "38",
+        "10052"
+      ],
       "trackId": 6744529978,
       "trackName": "Lügennebel",
       "kind": "ebook",
@@ -24,14 +30,8 @@
       "trackViewUrl": "https://books.apple.com/de/book/l%C3%BCgennebel/id6744529978?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/17/53/58/1753585d-2dc2-b341-4183-707d9f9e60a4/1055561185.jpg/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/17/53/58/1753585d-2dc2-b341-4183-707d9f9e60a4/1055561185.jpg/100x100bb.jpg",
-      "formattedPrice": "10,99 €",
-      "genreIds": [
-        "9032",
-        "38",
-        "10052"
-      ],
       "averageUserRating": 4.5,
-      "userRatingCount": 55,
+      "userRatingCount": 56,
       "country": "DEU"
     }
   ]

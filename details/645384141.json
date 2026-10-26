@@ -221,6 +221,7 @@
       "features": [
         "iosUniversal"
       ],
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -354,7 +355,6 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
       "kind": "software",
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6f/82/d7/6f82d713-538b-0397-8876-38e10079f8c7/b14e6c11-8b97-4559-b0ac-1e867103f638_12.9-inch_Screenshot_1.png/576x768bb.png",
@@ -377,7 +377,7 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/30/0d/b6/300db653-0c28-0bd7-76f8-24c9f3e8448d/d620c05d-f0a0-41db-85a8-44837fc9b27c_5.5-inch_Screenshot_5.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/36/f2/51/36f251b7-ae8b-54b4-16dd-55101598962f/8a4bd07b-61ef-40c6-899b-fa7d592319bc_5.5-inch_Screenshot_6.png/392x696bb.png"
       ],
-      "minimumOsVersion": "15.0",
+      "releaseNotes": "NEU\n\n• Project-GC Challenge Checker: Prüfe direkt in der Cache-Beschreibung, ob du die Voraussetzungen für einen Challenge-Cache erfüllst (erfordert eine Project-GC-Plus-Mitgliedschaft).\n• Gespeicherte Orte zeigen nun das jeweilige Erstellungsdatum an.\n• Pro-Offline-Karten: Besserer Kontrast bei Gebäuden, wenn die 3D-Gebäudeansicht deaktiviert ist.\n\nVERBESSERT\n\n• Erhebliche Verbesserungen bei Speicherverbrauch und Leistung.\n• Mehrere Probleme behoben, bei denen die App einfror.\n• Die automatische Ladefunktion ist zuverlässiger.\n\nBEHOBEN\n\n• Cache-Beschreibung: Tabellen und farbiger Text werden nun korrekt angezeigt.\n• GPX: Importe schlagen nicht mehr bei ungewöhnlichen Zeichen oder fehlenden Cache-Typen fehl; beim Export bleiben Adventure-Lab-Stationen erhalten.\n• Ausstehende Logs: Funde werden korrekt den Countys (Bezirken) zugeordnet, Trackable-Logs nicht mehr fälschlicherweise als Duplikate markiert, und das „Gefunden“-Häkchen verschwindet beim Ändern des Logtyps.\n• Trackable loggen: Für Notizen zu eigenen Trackables ist kein Tracking-Code mehr erforderlich.\n• Log-Bilder: Große Fotos führen beim Hochladen nicht mehr zum Absturz, Fotos aus der Mediathek erhalten die Standardbeschreibung, und Bilder werden nicht mehr automatisch bildfüllend gezoomt.\n• Offline-Listen: Beim Aktualisieren von Caches über die Karte bleiben County- und Höhendaten erhalten, Filter für Schwierigkeit/Gelände (D/T) funktionieren korrekt, und die Listenauswahl zeigt die richtige Anzahl an Caches an.\n• Pocket Queries: Bilder werden entsprechend der Einstellung „Bilder herunterladen“ geladen.\n• D/T-Raster: Nach dem Verschieben der Karte wird die Ansicht beim Aktualisieren nicht mehr auf die ganze Welt herausgezoomt.\n• Live-Filterung: Adventure Labs verschwinden nicht mehr, wenn die Filterung deaktiviert ist.\n• Lösungsprüfer: Eine korrekte Lösung führt nicht mehr zum Erreichen des API-Limits.\n• Abstürze in den Cache-Details, Lesezeichenlisten, der Log-Suche, der Druckvorschau und den Pro-Offline-Karten behoben.\n• Aktualisierungen der Übersetzungen.\n\nGefällt dir Cachly? Bitte hinterlasse eine Bewertung im App Store. Das hilft uns sehr!\n\nFragen oder Feedback? Sende uns eine E-Mail an support@cach.ly",
       "artistId": 392666756,
       "artistName": "Zed Said Studio LLC",
       "genres": [
@@ -385,26 +385,26 @@
         "Unterhaltung"
       ],
       "price": 5.99,
-      "currentVersionReleaseDate": "2026-10-09T17:44:42Z",
-      "trackId": 645384141,
+      "bundleId": "com.zedsaid.geocaching",
       "genreIds": [
         "6010",
         "6016"
       ],
-      "trackName": "Cachly - Geocachen",
+      "minimumOsVersion": "15.0",
       "primaryGenreName": "Navigation",
       "primaryGenreId": 6010,
-      "releaseNotes": "NEU\n\n• Project-GC Challenge Checker: Prüfe direkt in der Cache-Beschreibung, ob du die Voraussetzungen für einen Challenge-Cache erfüllst (erfordert eine Project-GC-Plus-Mitgliedschaft).\n• Gespeicherte Orte zeigen nun das jeweilige Erstellungsdatum an.\n• Pro-Offline-Karten: Besserer Kontrast bei Gebäuden, wenn die 3D-Gebäudeansicht deaktiviert ist.\n\nVERBESSERT\n\n• Erhebliche Verbesserungen bei Speicherverbrauch und Leistung.\n• Mehrere Probleme behoben, bei denen die App einfror.\n• Die automatische Ladefunktion ist zuverlässiger.\n\nBEHOBEN\n\n• Cache-Beschreibung: Tabellen und farbiger Text werden nun korrekt angezeigt.\n• GPX: Importe schlagen nicht mehr bei ungewöhnlichen Zeichen oder fehlenden Cache-Typen fehl; beim Export bleiben Adventure-Lab-Stationen erhalten.\n• Ausstehende Logs: Funde werden korrekt den Countys (Bezirken) zugeordnet, Trackable-Logs nicht mehr fälschlicherweise als Duplikate markiert, und das „Gefunden“-Häkchen verschwindet beim Ändern des Logtyps.\n• Trackable loggen: Für Notizen zu eigenen Trackables ist kein Tracking-Code mehr erforderlich.\n• Log-Bilder: Große Fotos führen beim Hochladen nicht mehr zum Absturz, Fotos aus der Mediathek erhalten die Standardbeschreibung, und Bilder werden nicht mehr automatisch bildfüllend gezoomt.\n• Offline-Listen: Beim Aktualisieren von Caches über die Karte bleiben County- und Höhendaten erhalten, Filter für Schwierigkeit/Gelände (D/T) funktionieren korrekt, und die Listenauswahl zeigt die richtige Anzahl an Caches an.\n• Pocket Queries: Bilder werden entsprechend der Einstellung „Bilder herunterladen“ geladen.\n• D/T-Raster: Nach dem Verschieben der Karte wird die Ansicht beim Aktualisieren nicht mehr auf die ganze Welt herausgezoomt.\n• Live-Filterung: Adventure Labs verschwinden nicht mehr, wenn die Filterung deaktiviert ist.\n• Lösungsprüfer: Eine korrekte Lösung führt nicht mehr zum Erreichen des API-Limits.\n• Abstürze in den Cache-Details, Lesezeichenlisten, der Log-Suche, der Druckvorschau und den Pro-Offline-Karten behoben.\n• Aktualisierungen der Übersetzungen.\n\nGefällt dir Cachly? Bitte hinterlasse eine Bewertung im App Store. Das hilft uns sehr!\n\nFragen oder Feedback? Sende uns eine E-Mail an support@cach.ly",
       "releaseDate": "2015-12-11T18:01:28Z",
-      "sellerName": "Zed Said Studio LLC",
+      "trackName": "Cachly - Geocachen",
+      "trackId": 645384141,
       "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "Zed Said Studio LLC",
+      "currentVersionReleaseDate": "2026-10-09T17:44:42Z",
       "version": "8.2.5",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Cachly ist eine einfache und leistungsfähige Geocaching-App für iOS, die viele erweiterte Funktionen enthält, darunter die folgenden:\n\n- Geocaching Konto\nCachly verwendet die Geocaching-Live-API, so dass du dich mit deinem Konto anmelden und alle deine Informationen abrufen kannst.\n\n- CarPlay - PRO\n\n- Landkreis/Region - PRO\nFür diejenigen, die sich für die Jagd in Landkreisen interessieren, verfügt Cachly jetzt über einen integrierten Tracker für jeden Landkreis. Landkreise/Regionen sind für die folgenden Länder verfügbar: Australien, Österreich, Frankreich, Deutschland, Vereinigtes Königreich und Vereinigte Staaten.\n\n- Live-Karte - PRO\nDie neue Live-Kartenoption zum automatischen Laden von Caches, während Sie sich auf der Karte bewegen. Wenn diese Option aktiviert ist, werden Caches automatisch geladen, wenn Sie sich auf der Karte bewegen.\n\n- Online-Entwürfe\nVerwalten Sie Ihre Online-Entwürfe für geocaching.com.\n\n- Abenteuerlabore\nLade Adventure Lab-Caches zusammen mit regulären Caches und speichere sie sogar offline!\n\n- Näherungsalarm\nErhalte Mitteilungen wenn Caches oder das Ziel innerhalb des eingestellten Radius um deinen Standort sind\n\n- Caches finden\nAktueller Standort, Koordinaten, Suche nach einem Standort oder GC-Code\n\n- Bewertungen von Logeinträgen\nBewerte Logeinträge die du hilfreich findest und sortiere nach den Bewertungen\n\n- Länger nicht gefundene Caches (Lonely Caches)\nErkenne Caches, die länger nicht gefunden wurden\n\n- Farbige Markierungen\nMarkiere Caches mit Farben, die per iCloud synchronisiert werden\n\n- DNF\nAlle deine blauen Smileys werden angezeigt damit du sie in gelbe verwandeln kannst!\n\n- Offline Vektor Karten\nKarten können für die Offline-Verwendung gespeichert werden. Damit werden leistungsfähige Offline-Möglichkeiten auf Basis von Open Street Maps Vektorkarten ermöglicht.\n\n- Offline Caches\nSpeichere Caches für die Offline-Verwendung wo auch immer du bist!\n\n- Übersetzung\nÜbersetze die Cache Beschreibung, den Hinweis, und die Logeinträge von jeder Sprache in jede andere.\n\n- Kartenoptionen\nWähle aus Apple Maps, Google Maps, Ordnance Survey oder Open Street Maps (online oder offline Vektorkarten)\n\n- Import & Export von GPX\nImportiere GPX Dateien aus Dropbox, iTunes, email oder anderen Apps. Exportiere und teile GPX Daten von beliebigen Caches.\n\n- Erweiterte Suche\nSuche nach den Funden oder Versteckten eines Benutzers, schließe deine Funde oder Versteckten aus und noch viel mehr.\n\n- Erweiterte Sortierung\nSortiere die Caches nach Typ, Behälter, Größe, TBs und vielem mehr.\n\n- Navigieren\nNavigiere zum Cache mit Google Maps, Apple Maps, Waze, Sygic, Navigon, Tom Tom, Gaia und Pocket Earth.\n\n- Logge Caches/TBs sofort oder später\nLogeinträge können sofort abgeschickt werden oder für später gespeichert werden.\n\n- Platzhalter (Keywords) für Logeinträge\nEs kann ein Standard-Logtext vorgegeben werden, und Platzhalter (Keywords) für typische Angaben werden automatisch ersetzt (z. B. GC-Code, Datum,...)\n\n- Souvenirs\nSouvenirs werden für dich selber und für anderer Benutzer angezeigt.\n\n- Trackables (TBs)\nAblegen von mehreren TBs auf einmal \n\n- Hochladen mehrerer Bilder\nMit Logeinträgen können mehrere Bilder hochgeladen werden.\n\n- Pocket Queries (PQs)\nPQs können heruntergeladen und offline verwendet werden.\n\n- Lesezeichen Listen\nBetrachte Lesezeichen-Listen und füge Caches hinzu. Du kannst auch die Lesezeichen anderer Benutzer ansehen!\n\n- Wegpunkte\nFüge Wegpunkte hinzu und lege korrigierte Koordinaten fest.\n\n- Weitere Funktionen\nCachly enthält noch viele weitere Funktionen die es zur besten Geocaching-App machen!\n\n*** Basismitglieder von Geocaching.com können nur Traditionelle Caches und keine Pocket Queries laden, die erweiterte Suche ist eingeschränkt. Basismitglieder können außerdem nur maximal 3 Caches innerhalb von 24 h vollständig anzeigen. Dies ist keine Einschränkung von Cachly, sondern von Geocaching.com ***\n\nNutzungsbedingungen: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-      "bundleId": "com.zedsaid.geocaching",
       "sellerUrl": "http://www.cach.ly",
-      "averageUserRating": 4.65071,
+      "averageUserRating": 4.65148,
       "trackCensoredName": "Cachly - Geocachen",
       "languageCodesISO2A": [
         "CA",
@@ -425,14 +425,14 @@
         "ES",
         "SV"
       ],
+      "averageUserRatingForCurrentVersion": 4.65148,
       "fileSizeBytes": "460465152",
       "formattedPrice": "5,99 €",
       "contentAdvisoryRating": "4+",
-      "userRatingCountForCurrentVersion": 2674,
+      "userRatingCountForCurrentVersion": 2677,
       "trackViewUrl": "https://apps.apple.com/de/app/cachly-geocachen/id645384141?uo=4",
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.65071,
-      "userRatingCount": 2674,
+      "userRatingCount": 2677,
       "country": "DEU"
     }
   ]

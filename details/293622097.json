@@ -205,8 +205,11 @@
     {
       "isGameCenterEnabled": false,
       "artistViewUrl": "https://apps.apple.com/us/developer/google/id281956209?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/63/ae/af63ae01-eea7-eee7-478a-87760e375ca1/logo_earth_color-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/63/ae/af63ae01-eea7-eee7-478a-87760e375ca1/logo_earth_color-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/100x100bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/15/2f/8c152fc8-90e3-e739-f548-3bb46e3c328c/logo_earth_color-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/15/2f/8c152fc8-90e3-e739-f548-3bb46e3c328c/logo_earth_color-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/100x100bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -339,9 +342,6 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "features": [
-        "iosUniversal"
-      ],
       "advisories": [],
       "kind": "software",
       "screenshotUrls": [
@@ -364,54 +364,54 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/40/95/a1/4095a120-ab55-830b-8d47-5f5e692fccf5/1b37790e-a492-45b4-b7dd-2aeef42e3496_APP_IPAD_PRO_129-6.png/552x414bb.png"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/63/ae/af63ae01-eea7-eee7-478a-87760e375ca1/logo_earth_color-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
-      "minimumOsVersion": "17.0",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/15/2f/8c152fc8-90e3-e739-f548-3bb46e3c328c/logo_earth_color-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
       "releaseNotes": "Thanks for using Google Earth! This version includes bug fixes.\nOur recent release brings a fresh new look, with new features to help you collaborate with others across devices, create maps on the go, and add photos from your camera to your maps.",
-      "averageUserRating": 4.01018,
-      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.01023,
       "trackCensoredName": "Google Earth",
       "trackViewUrl": "https://apps.apple.com/us/app/google-earth/id293622097?uo=4",
+      "contentAdvisoryRating": "4+",
+      "artistId": 281956209,
+      "artistName": "Google",
       "genres": [
         "Travel",
         "Navigation"
       ],
-      "releaseDate": "2008-10-27T07:00:00Z",
-      "trackId": 293622097,
-      "trackName": "Google Earth",
+      "price": 0,
       "bundleId": "com.google.b612",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-10-08T20:23:44Z",
-      "version": "10.121.84",
-      "wrapperType": "software",
-      "currency": "USD",
-      "description": "Create and collaborate on immersive, data-driven maps from anywhere, with the new Google Earth.\nSee the world from above with high-resolution satellite imagery, explore 3D terrain and buildings in hundreds of cities, and dive in to streets and neighborhoods with Street View's 360° perspectives.",
-      "averageUserRatingForCurrentVersion": 4.01018,
-      "sellerUrl": "https://www.google.com/earth/",
-      "languageCodesISO2A": [
-        "EN"
-      ],
-      "fileSizeBytes": "165313536",
-      "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 47466,
-      "trackContentRating": "4+",
-      "primaryGenreName": "Travel",
-      "primaryGenreId": 6003,
-      "sellerName": "Google LLC",
+      "releaseDate": "2008-10-27T07:00:00Z",
+      "minimumOsVersion": "17.0",
       "genreIds": [
         "6003",
         "6010"
       ],
-      "price": 0,
-      "artistId": 281956209,
-      "artistName": "Google",
-      "userRatingCount": 47466,
+      "trackId": 293622097,
+      "trackName": "Google Earth",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "Google LLC",
+      "primaryGenreName": "Travel",
+      "primaryGenreId": 6003,
+      "currentVersionReleaseDate": "2026-10-20T16:05:04Z",
+      "version": "10.123.75",
+      "wrapperType": "software",
+      "currency": "USD",
+      "description": "Create and collaborate on immersive, data-driven maps from anywhere, with the new Google Earth.\nSee the world from above with high-resolution satellite imagery, explore 3D terrain and buildings in hundreds of cities, and dive in to streets and neighborhoods with Street View's 360° perspectives.",
+      "sellerUrl": "https://www.google.com/earth/",
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "fileSizeBytes": "165777408",
+      "formattedPrice": "Free",
+      "userRatingCountForCurrentVersion": 47517,
+      "trackContentRating": "4+",
+      "averageUserRatingForCurrentVersion": 4.01023,
+      "userRatingCount": 47517,
       "country": "USA"
     },
     {
-      "artistViewUrl": "https://apps.apple.com/fr/developer/google/id281956209?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/63/ae/af63ae01-eea7-eee7-478a-87760e375ca1/logo_earth_color-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/63/ae/af63ae01-eea7-eee7-478a-87760e375ca1/logo_earth_color-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -546,6 +546,9 @@
       ],
       "advisories": [],
       "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/fr/developer/google/id281956209?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/15/2f/8c152fc8-90e3-e739-f548-3bb46e3c328c/logo_earth_color-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/15/2f/8c152fc8-90e3-e739-f548-3bb46e3c328c/logo_earth_color-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/5e/b0/fd/5eb0fd89-e5c5-d970-dbf2-6fc2e738a226/c297772b-e3a7-44bd-8315-93bb7b650d68_APP_IPHONE_55-1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/78/53/98/78539862-f178-a416-7dd8-2e83e7bd9dce/305c7aee-e2dc-4ffc-b6fd-0f286836da47_APP_IPHONE_55-2.png/392x696bb.png",
@@ -566,15 +569,8 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/40/95/a1/4095a120-ab55-830b-8d47-5f5e692fccf5/1b37790e-a492-45b4-b7dd-2aeef42e3496_APP_IPAD_PRO_129-6.png/552x414bb.png"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/63/ae/af63ae01-eea7-eee7-478a-87760e375ca1/logo_earth_color-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
-      "averageUserRating": 3.96923,
-      "trackCensoredName": "Google Earth",
-      "trackViewUrl": "https://apps.apple.com/fr/app/google-earth/id293622097?uo=4",
-      "minimumOsVersion": "17.0",
-      "contentAdvisoryRating": "4+",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/15/2f/8c152fc8-90e3-e739-f548-3bb46e3c328c/logo_earth_color-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
+      "releaseNotes": "Merci d'avoir choisi Google Earth. Cette version inclut des corrections de bugs.\nNotre récente version fait peau neuve : grâce à ses nouvelles fonctionnalités, vous pourrez collaborer avec d'autres utilisateurs sur différents appareils, créer des cartes où que vous soyez et ajouter des photos à vos cartes depuis votre appareil photo.",
       "artistId": 281956209,
       "artistName": "Google",
       "genres": [
@@ -582,34 +578,38 @@
         "Navigation"
       ],
       "price": 0,
+      "currentVersionReleaseDate": "2026-10-20T16:05:04Z",
+      "bundleId": "com.google.b612",
       "trackId": 293622097,
       "trackName": "Google Earth",
       "releaseDate": "2008-10-27T07:00:00Z",
+      "minimumOsVersion": "17.0",
+      "primaryGenreName": "Travel",
+      "primaryGenreId": 6003,
+      "sellerName": "Google LLC",
       "genreIds": [
         "6003",
         "6010"
       ],
-      "primaryGenreName": "Travel",
-      "primaryGenreId": 6003,
-      "sellerName": "Google LLC",
       "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-10-08T20:23:44Z",
-      "releaseNotes": "Merci d'avoir choisi Google Earth. Cette version inclut des corrections de bugs.\nNotre récente version fait peau neuve : grâce à ses nouvelles fonctionnalités, vous pourrez collaborer avec d'autres utilisateurs sur différents appareils, créer des cartes où que vous soyez et ajouter des photos à vos cartes depuis votre appareil photo.",
-      "version": "10.121.84",
+      "version": "10.123.75",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Grâce à la nouvelle version de Google Earth, créez des cartes immersives basées sur les données ou participez à leur création, où que vous soyez.\nDécouvrez le monde vu du ciel avec des images satellite en haute résolution, explorez le relief et les bâtiments de centaines de villes en 3D, et parcourez des rues et des quartiers grâce aux vues à 360° de Street View.",
-      "averageUserRatingForCurrentVersion": 3.96923,
-      "bundleId": "com.google.b612",
+      "trackCensoredName": "Google Earth",
+      "trackViewUrl": "https://apps.apple.com/fr/app/google-earth/id293622097?uo=4",
+      "averageUserRating": 3.96956,
+      "contentAdvisoryRating": "4+",
+      "sellerUrl": "https://www.google.com/earth/",
       "languageCodesISO2A": [
         "EN"
       ],
-      "fileSizeBytes": "165313536",
+      "fileSizeBytes": "165777408",
       "formattedPrice": "Gratuit",
-      "userRatingCountForCurrentVersion": 6629,
+      "userRatingCountForCurrentVersion": 6635,
       "trackContentRating": "4+",
-      "sellerUrl": "https://www.google.com/earth/",
-      "userRatingCount": 6629,
+      "averageUserRatingForCurrentVersion": 3.96956,
+      "userRatingCount": 6635,
       "country": "FRA"
     }
   ]

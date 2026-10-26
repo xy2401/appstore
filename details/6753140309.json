@@ -412,6 +412,7 @@
       "country": "DEU"
     },
     {
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/63/52/9f/63529f62-2c20-8244-739b-1635624fde78/DSCF1596__1.jpg/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9f/3e/bf/9f3ebf77-385f-cfd6-4be8-60d5315e85a0/DSCF1643.jpg/320x480bb.jpg",
@@ -424,8 +425,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/82/44/6c824480-fbbc-ee24-22ce-a05b91369a5c/DSCF1683.jpg/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/eb/0f/c5/eb0fc59b-8fe2-91d4-60cc-524850bd1d4a/DSCF1674.jpg/320x480bb.jpg"
       ],
-      "appletvScreenshotUrls": [],
-      "isGameCenterEnabled": false,
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/65/a1/9d/65a19d94-a8a9-0a2d-3eb3-c22253cadb5d/DSCF1688.jpg/360x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/70/e6/2e/70e62e55-1631-4ba8-16e2-9aa4491d508f/DSCF1690.jpg/360x480bb.jpg",
@@ -436,7 +435,11 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d3/9e/44/d39e44fd-7fdb-8b49-0801-ce1642b417ed/DSCF1698.jpg/360x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/47/39/05/47390509-e612-29cf-81e0-e41c9ac3e96c/DSCF1691.jpg/360x480bb.jpg"
       ],
+      "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/18/5b/0d185b99-46cb-4c70-5e22-1aaff90e4e1e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -569,20 +572,17 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "features": [
-        "iosUniversal"
-      ],
       "advisories": [],
       "kind": "software",
       "artistViewUrl": "https://apps.apple.com/fr/developer/valery-mironov/id1699945726?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/18/5b/0d185b99-46cb-4c70-5e22-1aaff90e4e1e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/18/5b/0d185b99-46cb-4c70-5e22-1aaff90e4e1e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
       "averageUserRatingForCurrentVersion": 0,
+      "sellerUrl": "https://valerymironov.com/sentient",
+      "languageCodesISO2A": [],
       "fileSizeBytes": "172370944",
       "formattedPrice": "5,99 €",
       "userRatingCountForCurrentVersion": 0,
-      "languageCodesISO2A": [],
-      "sellerUrl": "https://valerymironov.com/sentient",
       "trackContentRating": "4+",
       "artistId": 1699945726,
       "artistName": "Valery Mironov",
@@ -590,29 +590,29 @@
         "Musique",
         "Divertissement"
       ],
-      "isVppDeviceBasedLicensingEnabled": true,
-      "trackId": 6753140309,
-      "trackName": "Sentient Synthesizer",
-      "releaseDate": "2026-09-08T07:00:00Z",
+      "price": 5.99,
       "genreIds": [
         "6011",
         "6016"
       ],
+      "bundleId": "com.valerymironov.sentient",
+      "primaryGenreName": "Music",
+      "primaryGenreId": 6011,
+      "minimumOsVersion": "15.0",
+      "releaseDate": "2026-09-08T07:00:00Z",
+      "trackId": 6753140309,
+      "trackName": "Sentient Synthesizer",
+      "sellerName": "Valery Mironov",
+      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-09-08T08:49:29Z",
       "version": "1.0",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "The controller with the eyes represents the neural network’s learning system. When the eyes are open, the system learns; when they are closed, learning is disabled. A long tap toggles learning on or off. Dragging vertically changes the learning rate, while dragging horizontally controls how strongly the winning neuron influences its neighbors. This influence is shown by the number of open eyes and the width of the pupils. While learning, the neural network visibly `swells`.\n\nWhen a new sound is analyzed, the neuron that best matches it updates its internal representation and `swells` more than the others. Nearby neurons also update, but less strongly, forming a smooth sound space inside the network.\n\nTwo grids represent the two `hemispheres` of the neural network. Each cell corresponds to a neuron. Tapping a cell selects the neuron whose waveform will be used. An orange dot marks the selected neuron, and the curve above it shows the fragment of waveform stored by that neuron — the wavetable used to generate notes or modulate parameters.\n\nThe controller with the planets manages memories. Dragging it moves through time and lets you browse stored states. A double tap returns to the present moment. A long tap opens a menu with three actions marked by Russian letters: `С` for save from sohranit, `У` for delete from udalit, and `З` for close from zakryt.\n\nThe planet interface represents time symbolically. The crescent shadow shows the time of day, the moon’s position indicates the day of the month, and the satellite’s position represents the orbital period of an artificial body similar to the ISS.\n\nBelow the neural grids are six synthesis sections. The first is marked with the Russian letter `Г`, from generator, and selects the oscillator waveform. Two sliders control the fundamental frequency and volume.\n\nThe remaining sections provide modulation. Sliders control depth and rate, while letters indicate the destination parameter: `П` pitch from podstroika, `П` pan from panorama, `Д` drive from drive, `Ч` filter frequency from chastota, and `Р` resonance from rezonans.\n\nThe slider with stars controls the filter. Dragging horizontally selects the filter type, while dragging vertically adjusts drive. The area to the right controls filter frequency and resonance.\n\nAt the bottom of the interface is a keyboard of eight keys represented by Lissajous figures — curves created by combining two harmonic oscillations. Each figure corresponds to a note. Above the keys are two buttons: `У` hold from uderzhanie and `П` tuning from podstroika.",
-      "minimumOsVersion": "15.0",
+      "averageUserRating": 0,
       "trackCensoredName": "Sentient Synthesizer",
       "trackViewUrl": "https://apps.apple.com/fr/app/sentient-synthesizer/id6753140309?uo=4",
       "contentAdvisoryRating": "4+",
-      "averageUserRating": 0,
-      "bundleId": "com.valerymironov.sentient",
-      "primaryGenreName": "Music",
-      "primaryGenreId": 6011,
-      "sellerName": "Valery Mironov",
-      "price": 5.99,
       "userRatingCount": 0,
       "country": "FRA"
     },

@@ -183,9 +183,6 @@
       "userRatingCount": 3288
     },
     {
-      "artistViewUrl": "https://apps.apple.com/gb/developer/dunelm-limited/id1433923707?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/f1/b0/7bf1b00f-81d2-a5d6-139a-a1d8f1fbd9fa/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/f1/b0/7bf1b00f-81d2-a5d6-139a-a1d8f1fbd9fa/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/100x100bb.jpg",
       "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e3/16/82/e31682d8-277c-86ac-03e6-fd96f156eadd/IOS_1242_U00d72208px_AW26_Frame_1.jpg/392x696bb.jpg",
@@ -197,7 +194,10 @@
       ],
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/f1/b0/7bf1b00f-81d2-a5d6-139a-a1d8f1fbd9fa/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/60x60bb.jpg",
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/f1/b0/7bf1b00f-81d2-a5d6-139a-a1d8f1fbd9fa/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/512x512bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/f1/b0/7bf1b00f-81d2-a5d6-139a-a1d8f1fbd9fa/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/gb/developer/dunelm-limited/id1433923707?uo=4",
       "features": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
@@ -333,18 +333,19 @@
       ],
       "advisories": [],
       "kind": "software",
-      "trackViewUrl": "https://apps.apple.com/gb/app/dunelm-the-home-of-homes/id6751280607?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.85863,
+      "releaseNotes": "We’ve been busy behind the scenes… take a look around and see what’s new.",
       "trackCensoredName": "Dunelm: The Home of Homes",
       "languageCodesISO2A": [
         "EN"
       ],
       "fileSizeBytes": "190075904",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 6062,
+      "contentAdvisoryRating": "4+",
+      "userRatingCountForCurrentVersion": 6424,
+      "trackViewUrl": "https://apps.apple.com/gb/app/dunelm-the-home-of-homes/id6751280607?uo=4",
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.85863,
+      "averageUserRatingForCurrentVersion": 4.85788,
+      "averageUserRating": 4.85788,
       "artistId": 1433923707,
       "artistName": "DUNELM LIMITED",
       "genres": [
@@ -352,26 +353,25 @@
         "Lifestyle"
       ],
       "price": 0,
-      "bundleId": "com.dunelm.iphone",
+      "sellerName": "DUNELM LIMITED",
+      "releaseDate": "2025-09-24T07:00:00Z",
       "primaryGenreName": "Shopping",
       "primaryGenreId": 6024,
-      "genreIds": [
-        "6024",
-        "6012"
-      ],
-      "releaseNotes": "We’ve been busy behind the scenes… take a look around and see what’s new.",
-      "releaseDate": "2025-09-24T07:00:00Z",
-      "sellerName": "DUNELM LIMITED",
+      "minimumOsVersion": "18.0",
       "isVppDeviceBasedLicensingEnabled": true,
+      "trackId": 6751280607,
+      "trackName": "Dunelm: The Home of Homes",
       "currentVersionReleaseDate": "2026-09-01T13:12:28Z",
       "version": "2.3",
       "wrapperType": "software",
       "currency": "GBP",
       "description": "Download the Dunelm app now for easier, smarter shopping, instant inspiration and updates – at home or on the go.\n\n\nAll of this, just a tap away:\n\n- Our full range at your fingertips\nIt’s now even easier to shop 1,000s of products, from furniture and bedding to curtains and more – whenever you want, wherever you are.\n\n- Never miss a thing\nGet alerts for our latest offers, new arrivals and seasonal launches so you’re always in the loop.\n\n- Try Ask Dunelm, our new AI shopping assistant\nLet us know what you’re looking for and we’ll help you find it. Compare products or find fresh home ideas to suit your style and space.\n\n- Access all info\nShopping in-store? Pull up all the product information you need by scanning the barcode or the QR code on the shelf.\n\n- Find your favourites, faster\nSeen something you love? Save it straight to your wishlist so it’s ready when you are. Build your own collection of ideas to revisit later or share with family and friends.\n\n- Need it now?\nSee what’s available to Click & Collect from your local Dunelm in as little as 2 hours, and keep track of when your order’s ready for you to pick up.\n\nDownload the Dunelm app today.",
-      "minimumOsVersion": "18.0",
-      "trackId": 6751280607,
-      "trackName": "Dunelm: The Home of Homes",
-      "userRatingCount": 6062,
+      "bundleId": "com.dunelm.iphone",
+      "genreIds": [
+        "6024",
+        "6012"
+      ],
+      "userRatingCount": 6424,
       "country": "GBR"
     }
   ]
