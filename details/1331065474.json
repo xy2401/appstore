@@ -206,6 +206,7 @@
       "features": [
         "iosUniversal"
       ],
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -338,7 +339,6 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
       "kind": "software",
       "artistViewUrl": "https://apps.apple.com/de/developer/nect/id1246962000?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/9e/69/689e69ec-df0b-94a0-a9f1-82eb93c847cb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
@@ -361,19 +361,28 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/9e/69/689e69ec-df0b-94a0-a9f1-82eb93c847cb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "bundleId": "com.nect.app.prod",
+      "currentVersionReleaseDate": "2026-10-26T07:45:37Z",
       "releaseNotes": "Kleine Verbesserungen, ein noch reibungsloseres Erlebnis. Vielen Dank für Ihr Vertrauen in Nect!",
-      "artistName": "Nect",
-      "releaseDate": "2018-10-08T13:23:02Z",
-      "price": 0,
       "artistId": 1246962000,
+      "artistName": "Nect",
+      "genres": [
+        "Produktivität",
+        "Finanzen"
+      ],
+      "price": 0,
+      "bundleId": "com.nect.app.prod",
+      "genreIds": [
+        "6007",
+        "6015"
+      ],
+      "releaseDate": "2018-10-08T13:23:02Z",
+      "minimumOsVersion": "17.0",
+      "primaryGenreName": "Productivity",
+      "primaryGenreId": 6007,
       "sellerName": "Nect GmbH",
       "trackId": 1331065474,
       "trackName": "Nect Wallet",
-      "primaryGenreName": "Productivity",
-      "primaryGenreId": 6007,
       "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-10-26T07:45:37Z",
       "version": "4.11.0",
       "wrapperType": "software",
       "currency": "EUR",
@@ -381,7 +390,9 @@
       "trackCensoredName": "Nect Wallet",
       "trackViewUrl": "https://apps.apple.com/de/app/nect-wallet/id1331065474?uo=4",
       "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.81695,
+      "averageUserRating": 4.8151,
+      "averageUserRatingForCurrentVersion": 4.8151,
+      "sellerUrl": "https://nect.com",
       "languageCodesISO2A": [
         "EN",
         "DE",
@@ -389,20 +400,9 @@
       ],
       "fileSizeBytes": "105367552",
       "formattedPrice": "Gratis",
-      "userRatingCountForCurrentVersion": 72741,
+      "userRatingCountForCurrentVersion": 73169,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.81695,
-      "sellerUrl": "https://nect.com",
-      "minimumOsVersion": "17.0",
-      "genres": [
-        "Produktivität",
-        "Finanzen"
-      ],
-      "genreIds": [
-        "6007",
-        "6015"
-      ],
-      "userRatingCount": 72741,
+      "userRatingCount": 73169,
       "country": "DEU"
     }
   ]

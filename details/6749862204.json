@@ -226,7 +226,7 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9e/b7/59/9eb75957-977b-128d-d187-13b07b02d730/ipad_05_privacy.png/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/6a/7e/f36a7e6c-7a99-272b-d107-79fa1bacd3b2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/e9/c3/2ce9c3fc-b9dc-b297-8a52-b59e9bd3758a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/72/13/46/721346de-cb0b-579a-c338-522b6109f3a4/01_seconds.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ba/f1/a9/baf1a949-fd9b-bcf6-67ee-3d0c87043df9/02_alert.png/320x480bb.jpg",
@@ -235,6 +235,9 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0f/78/65/0f786566-d98f-0e73-8f41-33957351fe9c/05_privacy.png/320x480bb.jpg"
       ],
       "isGameCenterEnabled": false,
+      "artistViewUrl": "https://apps.apple.com/fr/developer/seiya-k/id383021944?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/e9/c3/2ce9c3fc-b9dc-b297-8a52-b59e9bd3758a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/e9/c3/2ce9c3fc-b9dc-b297-8a52-b59e9bd3758a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
       "features": [
         "iosUniversal"
       ],
@@ -372,9 +375,8 @@
       ],
       "advisories": [],
       "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/fr/developer/seiya-k/id383021944?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/6a/7e/f36a7e6c-7a99-272b-d107-79fa1bacd3b2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/6a/7e/f36a7e6c-7a99-272b-d107-79fa1bacd3b2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+      "currentVersionReleaseDate": "2026-10-29T16:30:57Z",
+      "sellerUrl": "https://fillapps.com/",
       "languageCodesISO2A": [
         "AR",
         "CA",
@@ -414,8 +416,11 @@
       "formattedPrice": "1,99 €",
       "userRatingCountForCurrentVersion": 0,
       "trackContentRating": "4+",
-      "sellerUrl": "https://fillapps.com/",
       "averageUserRatingForCurrentVersion": 0,
+      "averageUserRating": 0,
+      "trackCensoredName": "Auto Refresh+ for Safari",
+      "trackViewUrl": "https://apps.apple.com/fr/app/auto-refresh-for-safari/id6749862204?uo=4",
+      "contentAdvisoryRating": "4+",
       "artistId": 383021944,
       "artistName": "Seiya.k",
       "genres": [
@@ -423,29 +428,24 @@
         "Économie et entreprise"
       ],
       "price": 1.99,
-      "primaryGenreName": "Productivity",
-      "primaryGenreId": 6007,
+      "bundleId": "seiya.kawano.AutoRefreshForSafari",
       "releaseDate": "2025-08-15T07:00:00Z",
-      "minimumOsVersion": "15.6",
+      "releaseNotes": "Correction d'un problème où l'actualisation automatique pouvait continuer après un changement d'onglet ou d'app, même avec « Arrêt sur interaction » activé.",
       "trackId": 6749862204,
-      "sellerName": "seiya kawano",
+      "trackName": "Auto Refresh+ for Safari",
+      "minimumOsVersion": "15.6",
       "genreIds": [
         "6007",
         "6000"
       ],
+      "primaryGenreName": "Productivity",
+      "primaryGenreId": 6007,
+      "sellerName": "seiya kawano",
       "isVppDeviceBasedLicensingEnabled": true,
-      "trackName": "Auto Refresh+ for Safari",
-      "currentVersionReleaseDate": "2026-10-25T18:00:22Z",
-      "releaseNotes": "Suppression du compte à rebours affiché sur l’icône de l’extension.\nCorrection d’un problème où le menu des extensions de Safari revenait en haut pendant l’actualisation automatique, ce qui rendait l’arrêt difficile.",
-      "version": "1.4.11",
+      "version": "1.4.12",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Pour celles et ceux qui ne veulent rien manquer.\nAuto Refresh+ for Safari est une extension simple qui recharge automatiquement les pages Safari à l'intervalle de votre choix.\nActus du matin, suivi de la Bourse, fils sociaux : tout devient automatique.\nFini le rechargement manuel.\n\n【Fonctions principales】\n・Deux modes – secondes (1-60 s) et minutes (1-60 min), selon l'usage\n・Marche/arrêt en un geste, prise en main immédiate\n・Compte à rebours sur le badge jusqu'au prochain rechargement\n・Compteur de rechargements affiché à l'écran\n・Réglages enregistrés automatiquement, conservés après redémarrage\n\n【Idéal pour】\n・Simplifier votre tournée matinale des sites d'actualités\n・Les traders qui suivent Bourse et devises à la seconde\n・Les acheteurs qui ne veulent manquer ni enchères ni ventes flash\n・Consulter les derniers posts sans recharger à la main\n\n【Confidentialité】\n・Aucune collecte de communications réseau ni de données personnelles\n・Toutes les données restent en local sur votre appareil\n\n【Compatibilité】\n・Safari (iOS 15 / iPadOS 15 / macOS Monterey ou ultérieur)",
-      "bundleId": "seiya.kawano.AutoRefreshForSafari",
-      "trackCensoredName": "Auto Refresh+ for Safari",
-      "trackViewUrl": "https://apps.apple.com/fr/app/auto-refresh-for-safari/id6749862204?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 0,
       "userRatingCount": 0,
       "country": "FRA"
     },

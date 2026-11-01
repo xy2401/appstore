@@ -185,6 +185,7 @@
       "userRatingCount": 12983
     },
     {
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ec/45/71/ec45710c-1ae7-1430-6aae-9a91c1b42d04/Marketing-01-Retirement-at-a-Glance-1206x2622.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f1/c4/8b/f1c48b8e-2a40-3c69-8738-c96d4553c684/Marketing-02-Compare-Scenarios-1206x2622.png/320x480bb.jpg",
@@ -206,8 +207,14 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/7f/31/3c7f3146-22f6-3aaa-ae49-7a1d55ad448d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "advisories": [],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/us/developer/lynnfield-llc/id563082511?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/7f/31/3c7f3146-22f6-3aaa-ae49-7a1d55ad448d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/7f/31/3c7f3146-22f6-3aaa-ae49-7a1d55ad448d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -340,21 +347,15 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "kind": "software",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/7f/31/3c7f3146-22f6-3aaa-ae49-7a1d55ad448d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/7f/31/3c7f3146-22f6-3aaa-ae49-7a1d55ad448d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/us/developer/lynnfield-llc/id563082511?uo=4",
-      "features": [
-        "iosUniversal"
-      ],
+      "releaseNotes": "• Updated design\n• Retirement countdown widget\n• Bug fixes",
       "languageCodesISO2A": [
         "EN"
       ],
       "fileSizeBytes": "19415040",
       "formattedPrice": "$5.99",
-      "userRatingCountForCurrentVersion": 13846,
+      "userRatingCountForCurrentVersion": 13867,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.85194,
+      "averageUserRatingForCurrentVersion": 4.85145,
       "artistId": 563082511,
       "artistName": "LYNNFIELD LLC",
       "genres": [
@@ -362,30 +363,29 @@
         "Reference"
       ],
       "price": 5.99,
-      "releaseNotes": "• Updated design\n• Retirement countdown widget\n• Bug fixes",
+      "bundleId": "com.LynnField.MilitaryRetire",
       "primaryGenreName": "Finance",
       "primaryGenreId": 6015,
-      "minimumOsVersion": "16.0",
-      "currentVersionReleaseDate": "2026-10-15T02:11:42Z",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseDate": "2012-09-26T02:26:31Z",
-      "sellerName": "LYNNFIELD LLC",
-      "trackName": "Military Retirement",
-      "trackId": 563082328,
       "genreIds": [
         "6015",
         "6006"
       ],
+      "currentVersionReleaseDate": "2026-10-15T02:11:42Z",
+      "sellerName": "LYNNFIELD LLC",
+      "releaseDate": "2012-09-26T02:26:31Z",
       "version": "2026.12",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Military Retirement is a stand alone application intended to assist military personnel from all branches of military service by informing them of their benefits upon retirement from military service. Military Retirement gives assistance by calculating an estimation of retirement pay based on the data you enter. This data is secure and does not leave your device and is not tracked in any way. Military Retirement incorporates highly detailed algorithms to calculate your retirement pay to the highest level of accuracy possible. Compare multiple scenario options to determine which retirement option is best for you. \n\nNo login required. No personally identifying information to enter. No demographic tracking of who you are. No spam.\n\nMilitary Retirement works for Active Duty and Reserve/Guard for the following types of retirement plans: Final Pay, High-3, BRS, and CSB/REDUX personnel. \n\nSpecifically, Military Retirement will calculate\n• RETIREMENT PAY : Based on Rank, Years and Months of Service, and Date of Retirement. Also works for time in rank of less than 3 years.\n• SURVIVOR BENEFIT PLAN : Benefit and Premium\n• TRICARE MEDICAL INSURANCE : Options and Premium\n• DISABILITY PAY : Based on disability rating\n• VETERANS GROUP LIFE INSURANCE : Coverage and Premium\n• FEDERAL TAXES : Based on filing status\n\n** Note **\nInformation provided by Military Retirement should be used for educational and initial informative purposes only. Should not be used to plan retirement budget, as actual financial figures may slightly differ.\nMilitary Retirement supports retirement dates from 2012 onwards.\n\nLynnfield LLC is disabled-veteran owned.",
-      "contentAdvisoryRating": "4+",
       "trackCensoredName": "Military Retirement",
       "trackViewUrl": "https://apps.apple.com/us/app/military-retirement/id563082328?uo=4",
-      "averageUserRating": 4.85194,
-      "bundleId": "com.LynnField.MilitaryRetire",
-      "userRatingCount": 13846,
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.85145,
+      "minimumOsVersion": "16.0",
+      "trackId": 563082328,
+      "trackName": "Military Retirement",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "userRatingCount": 13867,
       "country": "USA"
     }
   ]

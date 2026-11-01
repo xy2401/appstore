@@ -2,6 +2,7 @@
   "resultCount": 1,
   "results": [
     {
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/db/be/38/dbbe389e-bb2f-375c-a6f3-12c92cafc1cb/7bd8c81b-6ee8-4ef8-ad90-f78c07f27d8b_iPhone55_1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/63/51/9d/63519d60-75cd-5126-7682-fd42c699edd3/0591901c-9523-43dc-b21a-e163b57a19f3_iPhone55_2.png/392x696bb.png",
@@ -18,11 +19,9 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/d3/86/8cd38630-4abd-b847-8d60-20b008c4cf96/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/us/developer/aliaksandr-uvarau/id960171474?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/d3/86/8cd38630-4abd-b847-8d60-20b008c4cf96/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/d3/86/8cd38630-4abd-b847-8d60-20b008c4cf96/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
-      "isGameCenterEnabled": false,
-      "advisories": [],
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -155,12 +154,11 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "advisories": [],
       "kind": "software",
-      "features": [
-        "iosUniversal"
-      ],
-      "averageUserRatingForCurrentVersion": 4.56846,
-      "sellerUrl": "https://coralgames.com.au/app_info?id=com.alexuvarov.bennettest",
+      "artistViewUrl": "https://apps.apple.com/us/developer/aliaksandr-uvarau/id960171474?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/d3/86/8cd38630-4abd-b847-8d60-20b008c4cf96/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/d3/86/8cd38630-4abd-b847-8d60-20b008c4cf96/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
       "languageCodesISO2A": [
         "BE",
         "EN",
@@ -178,15 +176,12 @@
         "TR",
         "UK"
       ],
-      "fileSizeBytes": "3753984",
-      "formattedPrice": "$0.99",
-      "userRatingCountForCurrentVersion": 628,
+      "userRatingCountForCurrentVersion": 629,
       "trackContentRating": "4+",
-      "trackCensoredName": "Bennet Test Full",
-      "trackViewUrl": "https://apps.apple.com/us/app/bennet-test-full/id961293769?uo=4",
-      "averageUserRating": 4.56846,
-      "releaseNotes": "Added support for new languages.",
-      "contentAdvisoryRating": "4+",
+      "averageUserRatingForCurrentVersion": 4.56916,
+      "sellerUrl": "https://coralgames.com.au/app_info?id=com.alexuvarov.bennettest",
+      "formattedPrice": "$0.99",
+      "fileSizeBytes": "3753984",
       "artistId": 960171474,
       "artistName": "Aliaksandr Uvarau",
       "genres": [
@@ -194,25 +189,30 @@
         "Education"
       ],
       "price": 0.99,
+      "bundleId": "alexuvarov.BennetTest-Full",
+      "trackId": 961293769,
+      "trackName": "Bennet Test Full",
       "releaseDate": "2015-02-04T04:40:36Z",
       "minimumOsVersion": "13.0",
-      "primaryGenreName": "Medical",
-      "primaryGenreId": 6020,
-      "isVppDeviceBasedLicensingEnabled": true,
       "genreIds": [
         "6020",
         "6017"
       ],
+      "primaryGenreName": "Medical",
+      "primaryGenreId": 6020,
       "sellerName": "Aliaksandr Uvarau",
-      "trackId": 961293769,
-      "trackName": "Bennet Test Full",
+      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-04-21T19:24:57Z",
+      "releaseNotes": "Added support for new languages.",
       "version": "2.7",
       "wrapperType": "software",
       "currency": "USD",
       "description": "The Bennett mechanical comprehension test is a psychological aptitude test in engineering that is designed to measure one’s mechanical intelligence, ability to interpret technical drawings, understand diagrams of technical devices and their work, and solve engineering tasks.\n\nThis test is destined to detect technical abilities of adolescents (12 and over) and adults. It includes 70 tasks that require technical problem solving. In each task test subjects should choose the correct answer out of 3.\n\nThe test time is about 30 minutes.",
-      "bundleId": "alexuvarov.BennetTest-Full",
-      "userRatingCount": 628,
+      "trackCensoredName": "Bennet Test Full",
+      "trackViewUrl": "https://apps.apple.com/us/app/bennet-test-full/id961293769?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.56916,
+      "userRatingCount": 629,
       "country": "USA"
     }
   ]

@@ -2,10 +2,10 @@
   "resultCount": 1,
   "results": [
     {
+      "isGameCenterEnabled": false,
       "artistViewUrl": "https://apps.apple.com/fr/developer/nikita-somenkov/id1488937600?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/87/14/6d/87146dfd-f9ba-d5ec-4834-17623ee87892/app.icon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/87/14/6d/87146dfd-f9ba-d5ec-4834-17623ee87892/app.icon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
-      "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
       ],
@@ -171,9 +171,12 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/87/14/6d/87146dfd-f9ba-d5ec-4834-17623ee87892/app.icon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "averageUserRatingForCurrentVersion": 4.26087,
+      "releaseNotes": "- Magic Packet arrive sur Mac : les hôtes sont synchronisés via iCloud, avec toutes les actions, les commandes groupées et la recherche de Magic Packet Server sur le réseau\n- Nouvel affichage de la liste des hôtes : des tuiles et un écran dédié à chaque hôte avec l’historique de disponibilité. La liste classique reste disponible dans les Réglages\n- Actions groupées : sélectionnez plusieurs hôtes pour les réveiller, les mettre en veille ou les éteindre en une seule fois\n- Prise en charge de l’iPhone Duo et de l’orientation paysage sur iPhone : la liste et l’écran de l’hôte s’adaptent à toutes les largeurs d’écran\n- Correction de la vérification de l’hôte lors de la modification et démarrage plus rapide du suivi de l’état\n\nSi vous aimez l’app, je vous serais très reconnaissant de laisser un avis !",
       "trackCensoredName": "Magic Packet: WOL Wake-on-LAN",
       "trackViewUrl": "https://apps.apple.com/fr/app/magic-packet-wol-wake-on-lan/id1488937601?uo=4",
       "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.26087,
       "artistId": 1488937600,
       "artistName": "Nikita Somenkov",
       "genres": [
@@ -181,28 +184,25 @@
         "Productivité"
       ],
       "price": 2.99,
+      "bundleId": "ru.somenkov.WOL",
+      "minimumOsVersion": "17.6",
       "genreIds": [
         "6002",
         "6007"
       ],
-      "trackId": 1488937601,
-      "trackName": "Magic Packet: WOL Wake-on-LAN",
       "primaryGenreName": "Utilities",
       "primaryGenreId": 6002,
-      "minimumOsVersion": "17.6",
-      "releaseDate": "2019-12-03T08:00:00Z",
       "sellerName": "Nikita Somenkov",
       "isVppDeviceBasedLicensingEnabled": true,
+      "releaseDate": "2019-12-03T08:00:00Z",
+      "trackName": "Magic Packet: WOL Wake-on-LAN",
+      "trackId": 1488937601,
       "currentVersionReleaseDate": "2026-10-15T01:46:47Z",
-      "releaseNotes": "- Magic Packet arrive sur Mac : les hôtes sont synchronisés via iCloud, avec toutes les actions, les commandes groupées et la recherche de Magic Packet Server sur le réseau\n- Nouvel affichage de la liste des hôtes : des tuiles et un écran dédié à chaque hôte avec l’historique de disponibilité. La liste classique reste disponible dans les Réglages\n- Actions groupées : sélectionnez plusieurs hôtes pour les réveiller, les mettre en veille ou les éteindre en une seule fois\n- Prise en charge de l’iPhone Duo et de l’orientation paysage sur iPhone : la liste et l’écran de l’hôte s’adaptent à toutes les largeurs d’écran\n- Correction de la vérification de l’hôte lors de la modification et démarrage plus rapide du suivi de l’état\n\nSi vous aimez l’app, je vous serais très reconnaissant de laisser un avis !",
       "version": "3.6.0",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Magic Packet est une app de gestion à distance d’ordinateurs sur le réseau local et Internet. Réveillez, éteignez, redémarrez et surveillez vos ordinateurs depuis iPhone, Apple Watch, widgets et Siri.\n\nCAS D’UTILISATION :\n\n- Réveiller le NAS domestique avant de regarder des films\n- Se connecter au PC à domicile via RDP, VNC ou TeamViewer\n- Empêcher l’ordinateur de se mettre en veille pendant les téléchargements, le streaming ou le rendu\n- Redémarrer à distance des PC bloqués\n- Éteindre et redémarrer des ordinateurs via Internet\n\nWAKE ON LAN :\n\n- Envoi instantané de magic packet\n- Fonctionne sur le réseau local et Internet\n- Port UDP personnalisé pour chaque hôte\n- Prise en charge de SecureON\n- Prise en charge du broadcast, des adresses IP et des noms de domaine\n\nGESTION À DISTANCE :\n\n- Arrêt, redémarrage, veille, hibernation et verrouillage\n- Fonctionne via Magic Packet Server pour Windows, macOS et Linux\n- Découverte automatique du serveur sur le réseau local\n\nSTATUT ET SURVEILLANCE :\n\n- Vérifications de disponibilité via ping ou HTTP\n- Statut en ligne / hors ligne avec actualisation automatique\n- Surveillance du niveau de batterie des ordinateurs portables\n- Vérifications rapides du statut des hôtes\n\nSIRI, RACCOURCIS ET WIDGETS :\n\n- Commandes vocales Siri\n- Automatisations via Raccourcis\n- Widgets sur l’écran d’accueil et l’écran verrouillé\n- Contrôles dans le Centre de contrôle (iOS 18)\n\nAPPLE WATCH :\n\n- Contrôlez les hôtes directement depuis Apple Watch\n- Contrôles des médias et du volume\n- Complications pour un accès rapide\n- Synchronisation iCloud\n\nMÉDIAS :\n\n- Lecture et pause\n- Piste suivante et précédente\n- Contrôles du volume et du mode silencieux\n- Mode « Keep Awake » avec minuterie\n\nPERSONNALISATION DES HÔTES :\n\n- Nombre illimité d’hôtes\n- Icônes, SF Symbols, emoji et lettres\n- Couleurs personnalisées\n- Ordre d’actions personnalisé\n- Synchronisation iCloud\n\nCOMMODITÉ :\n\n- Prise en charge du mode sombre\n- Guides pas à pas pour configurer Wake-on-LAN\n- Optimisé pour iPhone et iPad",
-      "averageUserRating": 4.26087,
       "sellerUrl": "https://magicpacket.somenkov.com/",
-      "averageUserRatingForCurrentVersion": 4.26087,
-      "bundleId": "ru.somenkov.WOL",
       "languageCodesISO2A": [
         "AR",
         "HY",

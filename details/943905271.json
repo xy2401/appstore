@@ -221,6 +221,10 @@
     {
       "isGameCenterEnabled": false,
       "features": [],
+      "advisories": [
+        "Selten/schwach ausgeprägt: Gebrauch von Alkohol, Tabak oder Drogen bzw. Verweise hierzu",
+        "Selten/schwach ausgeprägt: Szenen mit erotischen Anspielungen"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -353,10 +357,6 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [
-        "Selten/schwach ausgeprägt: Gebrauch von Alkohol, Tabak oder Drogen bzw. Verweise hierzu",
-        "Selten/schwach ausgeprägt: Szenen mit erotischen Anspielungen"
-      ],
       "kind": "software",
       "artistViewUrl": "https://apps.apple.com/de/developer/wolt-oy/id943905270?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/df/e2/9bdfe2e1-8e7b-5874-f6f3-d427d4f59b4d/WoltDefault-0-0-1x_U007ephone-0-1-sRGB-85-220.png/60x60bb.jpg",
@@ -372,19 +372,28 @@
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/df/e2/9bdfe2e1-8e7b-5874-f6f3-d427d4f59b4d/WoltDefault-0-0-1x_U007ephone-0-1-sRGB-85-220.png/512x512bb.jpg",
-      "bundleId": "com.woltapp.wolt",
+      "currentVersionReleaseDate": "2026-10-26T07:08:39Z",
       "releaseNotes": "At Wolt, we work tirelessly to bring you the best app we can. That means adding and improving features and functionality, squashing bugs, polishing design, and trimming texts. If you see something not quite working properly, chances are we're already working on a fix.",
-      "artistName": "Wolt Oy",
-      "releaseDate": "2015-06-24T15:09:19Z",
-      "price": 0,
       "artistId": 943905270,
+      "artistName": "Wolt Oy",
+      "genres": [
+        "Essen und Trinken",
+        "Shopping"
+      ],
+      "price": 0,
+      "bundleId": "com.woltapp.wolt",
+      "genreIds": [
+        "6023",
+        "6024"
+      ],
+      "releaseDate": "2015-06-24T15:09:19Z",
+      "minimumOsVersion": "17.0",
+      "primaryGenreName": "Food & Drink",
+      "primaryGenreId": 6023,
       "sellerName": "Wolt Oy",
       "trackId": 943905271,
       "trackName": "Wolt - Essen Bestellen & mehr",
-      "primaryGenreName": "Food & Drink",
-      "primaryGenreId": 6023,
       "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-10-26T07:08:39Z",
       "version": "26.43.0",
       "wrapperType": "software",
       "currency": "EUR",
@@ -392,7 +401,9 @@
       "trackCensoredName": "Wolt - Essen Bestellen & mehr",
       "trackViewUrl": "https://apps.apple.com/de/app/wolt-essen-bestellen-mehr/id943905271?uo=4",
       "contentAdvisoryRating": "12+",
-      "averageUserRating": 4.57839,
+      "averageUserRating": 4.57716,
+      "averageUserRatingForCurrentVersion": 4.57716,
+      "sellerUrl": "http://wolt.com",
       "languageCodesISO2A": [
         "SQ",
         "AR",
@@ -430,20 +441,9 @@
       ],
       "fileSizeBytes": "481898496",
       "formattedPrice": "Gratis",
-      "userRatingCountForCurrentVersion": 30445,
+      "userRatingCountForCurrentVersion": 30579,
       "trackContentRating": "12+",
-      "averageUserRatingForCurrentVersion": 4.57839,
-      "sellerUrl": "http://wolt.com",
-      "minimumOsVersion": "17.0",
-      "genres": [
-        "Essen und Trinken",
-        "Shopping"
-      ],
-      "genreIds": [
-        "6023",
-        "6024"
-      ],
-      "userRatingCount": 30445,
+      "userRatingCount": 30579,
       "country": "DEU"
     }
   ]

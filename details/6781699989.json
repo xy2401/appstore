@@ -2,10 +2,10 @@
   "resultCount": 1,
   "results": [
     {
-      "artistViewUrl": "https://apps.apple.com/fr/developer/luca-pasut/id6781642154?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/8d/19/b58d19dd-2dc5-4d71-2e04-70be2c51b8e2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/8d/19/b58d19dd-2dc5-4d71-2e04-70be2c51b8e2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
+      "artistViewUrl": "https://apps.apple.com/fr/developer/luca-pasut/id6781642154?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/ea/ef/feeaefa5-7183-1f9f-177f-1d6644e7f274/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/ea/ef/feeaefa5-7183-1f9f-177f-1d6644e7f274/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
       "features": [
         "iosUniversal"
       ],
@@ -169,10 +169,13 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6e/4a/5a/6e4a5ab2-fe5c-033b-f705-779bc9ac7adb/10-stress.png/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/8d/19/b58d19dd-2dc5-4d71-2e04-70be2c51b8e2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/ea/ef/feeaefa5-7183-1f9f-177f-1d6644e7f274/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "averageUserRatingForCurrentVersion": 5,
+      "releaseNotes": "Nouveautés de la version 2.7.1 :\n\n• Tableau de bord plus fluide : Élimination des micro-saccades de défilement lors de la synchronisation initiale grâce au chargement par lots de l'historique.\n• Restauration de la configuration iCloud : Les profils de chaussures, équipements cyclistes, historiques d'objectifs et événements sont désormais restaurés automatiquement après réinstallation.\n• Optimisations Apple Watch : Correction des dépassements de délai en arrière-plan, démarrage plus rapide et mise à jour instantanée des complications pour l'hydratation et la caféine.\n• Finitions visuelles et accessibilité : Anneaux de l'Aperçu du jour améliorés, meilleure mise à l'échelle du texte multiligne et affichage plus fluide des conseils du Coach IA.\n• Onglet Entraînements optionnel : Nouvelle option dans les réglages d'Apparence pour personnaliser la barre d'onglets.\n• Stabilité : Corrections de bugs généraux et renforcement de la stabilité sur iOS et watchOS.",
       "trackCensoredName": "SportVitals: Daily Readiness",
       "trackViewUrl": "https://apps.apple.com/fr/app/sportvitals-daily-readiness/id6781699989?uo=4",
       "contentAdvisoryRating": "4+",
+      "averageUserRating": 5,
       "artistId": 6781642154,
       "artistName": "Luca Pasut",
       "genres": [
@@ -180,28 +183,25 @@
         "Sports"
       ],
       "price": 9.99,
+      "bundleId": "io.lucapasut.sportvitals.ios",
+      "minimumOsVersion": "18.0",
       "genreIds": [
         "6013",
         "6004"
       ],
-      "trackId": 6781699989,
-      "trackName": "SportVitals: Daily Readiness",
       "primaryGenreName": "Health & Fitness",
       "primaryGenreId": 6013,
-      "minimumOsVersion": "18.0",
-      "releaseDate": "2026-06-26T07:00:00Z",
       "sellerName": "Luca Pasut",
       "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-10-21T22:29:21Z",
-      "releaseNotes": "Nouveautés de la version 2.6.5 :\n\nCOMPLICATIONS ET STABILITÉ DE L'APPLE WATCH\n• Résolution d'un problème causant des plantages et des délais d'attente sur l'Apple Watch grâce à l'optimisation du stockage et du cache des données de complications en arrière-plan.\n• Réduction significative de la charge mémoire et processeur lors de la synchronisation en arrière-plan entre l'iPhone et l'Apple Watch.\n\nRÉVEIL INTELLIGENT ET SOMMEIL\n• Correction d'un problème où le réveil matinal pouvait être programmé pour le mauvais jour lors d'une actualisation après minuit.\n• Correction des réveils par vibration seule : les alarmes silencieuses déclenchent désormais de manière fiable les alertes système et les retours haptiques via AlarmKit.\n• Fiabilité améliorée de la programmation du réveil sur les plannings hebdomadaires et les dérogations pour le lendemain.\n\nINTERFACE UTILISATEUR ET RÉGLAGES\n• Correction d'un problème d'affichage dans la fiche du Test de Terrain du Seuil Lactique dans les Réglages.\n• Améliorations générales de la fiabilité et des performances des widgets et des complications.",
-      "version": "2.6.5",
+      "releaseDate": "2026-06-26T07:00:00Z",
+      "trackName": "SportVitals: Daily Readiness",
+      "trackId": 6781699989,
+      "currentVersionReleaseDate": "2026-10-30T13:44:05Z",
+      "version": "2.7.1",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Transformez vos données Apple Health en conseils clairs et pratiques pour la récupération, le sommeil et l’entraînement.\n\nSportVitals apporte des informations avancées sur la forme physique à l’iPhone et à l’Apple Watch, sans autre dispositif portable ni abonnement récurrent. Vos calculs de santé essentiels et leurs explications s’exécutent directement sur l’appareil. Aucun compte, aucune publicité, aucune analyse tierce ni cloud géré par le développeur.\n\nSAVOIR CE POUR QUOI VOTRE CORPS EST PRÊT\n\n• Préparation quotidienne\nUn score de 0–100 qui combine le sommeil, le temps de récupération, l’état de la variabilité de la fréquence cardiaque (HRV), l’historique du stress et la charge d’entraînement, afin que vous puissiez choisir entre un entraînement intense, un travail léger ou le repos.\n\n• Énergie et stress toute la journée\nSuivez comment le repos, le sommeil, l’activité et le stress physiologique modifient votre énergie tout au long de la journée, avec des graphiques détaillés au fil de la journée.\n\n• État de la variabilité de la fréquence cardiaque (HRV)\nSuivez le RMSSD nocturne par rapport à votre base de référence personnelle de 21 jours et voyez si votre tendance récente est équilibrée, faible ou en dehors de votre plage habituelle.\n\nDORMIR AVEC DU CONTEXTE\n\nUtilisez le Score de sommeil, les phases de sommeil, l’efficacité, la fragmentation, la régularité de l’horaire, la Banque de sommeil et les conseils circadiens pour comprendre à la fois la nuit dernière et votre schéma de récupération à plus long terme.\n\nS’ENTRAÎNER PLUS INTELLIGEMMENT DANS LE TEMPS\n\n• Charge d’entraînement et statut utilisant TRIMP, ATL, CTL, TSB et ACWR\n• Effort et un objectif quotidien ajusté à votre récupération\n• Temps de récupération, focus d’entraînement et zones de fréquence cardiaque personnalisées\n• Informations sur le VO₂ max pour la course à pied et le cyclisme, Score d’endurance, Score des côtes, Prédictif de course et Seuil de lactate\n• Historique détaillé des séances, tracés, zones de fréquence cardiaque, dynamiques de course et puissance cycliste lorsque disponibles\n\nPLUS QU’UN TABLEAU DE BORD\n\n• Estimation éducative de l’âge biologique avec les facteurs qui l’influencent\n• Rapports du matin et du soir\n• Tableau de bord personnalisable et ordre des métriques\n• Widgets de l’écran d’accueil et complications Apple Watch\n• Tendances des signes vitaux, poids corporel/masse grasse, calories, pleine conscience et tension artérielle depuis Apple Health\n• Explications des métriques sur l’appareil ; suggestions d’entraînement personnalisées et exportation WorkoutKit sur les appareils compatibles avec Apple Intelligence\n\nCONFIDENTIALITÉ ET PROPRIÉTÉ\n\nAchetez une fois. Pas d’abonnement. Pas d’inscription. Pas de publicités. Pas de SDK de suivi. SportVitals ne vend ni ne télécharge vos données de santé sur les serveurs du développeur.\n\nEXIGENCES\n\nSportVitals nécessite iOS 18 ou une version ultérieure et l’accès à Apple Health. Un Apple Watch porté pendant la nuit est recommandé pour les fonctionnalités de sommeil et de variabilité de la fréquence cardiaque (HRV). La disponibilité des fonctionnalités dépend des données fournies par vos appareils. Les suggestions d’entraînement par IA sur l’appareil nécessitent un appareil compatible avec Apple Intelligence sous iOS 26 ou une version ultérieure. Le contexte météorologique dans les rapports quotidiens utilise le service Météo d’Apple et est optionnel.\n\nSportVitals fournit uniquement des informations sur la forme physique et le bien-être. Il ne s’agit pas d’un dispositif médical et ne diagnostique, ne traite ni ne prévient aucune affection. Consultez un professionnel de santé qualifié avant de prendre toute décision médicale.",
-      "averageUserRating": 5,
       "sellerUrl": "https://www.lucapasut.com/sportvitals",
-      "averageUserRatingForCurrentVersion": 5,
-      "bundleId": "io.lucapasut.sportvitals.ios",
       "languageCodesISO2A": [
         "AR",
         "HY",
@@ -239,7 +239,7 @@
         "UK",
         "VI"
       ],
-      "fileSizeBytes": "156459008",
+      "fileSizeBytes": "243287040",
       "formattedPrice": "9,99 €",
       "userRatingCountForCurrentVersion": 1,
       "trackContentRating": "4+",

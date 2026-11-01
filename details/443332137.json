@@ -195,10 +195,13 @@
       "userRatingCount": 310
     },
     {
-      "isGameCenterEnabled": false,
-      "artistViewUrl": "https://apps.apple.com/jp/developer/beret-publishing-co-inc/id443332140?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/3b/09/d73b09a7-d1b4-cd82-0df2-bee343edf34e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/3b/09/d73b09a7-d1b4-cd82-0df2-bee343edf34e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/jp/developer/beret-publishing-co-inc/id443332140?uo=4",
+      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -333,11 +336,6 @@
       ],
       "advisories": [],
       "kind": "software",
-      "features": [
-        "iosUniversal"
-      ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/3b/09/d73b09a7-d1b4-cd82-0df2-bee343edf34e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/38/4c/fa/384cfaaa-4958-e66f-d39e-9b831b5c3177/mzl.wyrpkyjg.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/c3/58/af/c358af89-03ba-ffc8-9ce1-d1620be562ed/mzl.clcevabb.png/392x696bb.png",
@@ -350,10 +348,12 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/f5/81/e1/f581e14f-f438-7cc8-742c-1ca1bda0301b/mzl.kkdvnbyh.jpg/576x768bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/53/c0/bd/53c0bdd9-08f3-662b-4c5b-b7750ef68b45/mzl.chgmubyq.jpg/576x768bb.jpg"
       ],
-      "contentAdvisoryRating": "4+",
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/3b/09/d73b09a7-d1b4-cd82-0df2-bee343edf34e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
       "averageUserRating": 3.07962,
-      "trackCensoredName": "どんどん話すための瞬間英作文トレーニング",
       "trackViewUrl": "https://apps.apple.com/jp/app/%E3%81%A9%E3%82%93%E3%81%A9%E3%82%93%E8%A9%B1%E3%81%99%E3%81%9F%E3%82%81%E3%81%AE%E7%9E%AC%E9%96%93%E8%8B%B1%E4%BD%9C%E6%96%87%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0/id443332137?uo=4",
+      "contentAdvisoryRating": "4+",
+      "trackCensoredName": "どんどん話すための瞬間英作文トレーニング",
       "artistId": 443332140,
       "artistName": "Beret Publishing Co. INC",
       "genres": [
@@ -362,19 +362,17 @@
       ],
       "price": 1300,
       "bundleId": "jp.co.beret.EngDonDonDist",
-      "releaseDate": "2011-06-15T06:43:44Z",
       "trackId": 443332137,
       "trackName": "どんどん話すための瞬間英作文トレーニング",
+      "primaryGenreName": "Education",
+      "primaryGenreId": 6017,
+      "currentVersionReleaseDate": "2026-05-13T02:35:04Z",
       "minimumOsVersion": "14.5",
       "genreIds": [
         "6017",
         "6018"
       ],
-      "primaryGenreName": "Education",
-      "primaryGenreId": 6017,
-      "sellerName": "Beret Publishing Co. INC",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-05-13T02:35:04Z",
+      "releaseDate": "2011-06-15T06:43:44Z",
       "releaseNotes": "・追加例文の認証がうまくいかない問題を修正しました\n・チェックが消える問題を修正しました\n・スワイプが正常に動作しない問題を修正しました",
       "version": "4.24",
       "wrapperType": "software",
@@ -388,6 +386,8 @@
       "formattedPrice": "¥1,300",
       "userRatingCountForCurrentVersion": 314,
       "trackContentRating": "4+",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "Beret Publishing Co. INC",
       "userRatingCount": 314,
       "country": "JPN"
     }

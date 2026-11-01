@@ -191,6 +191,7 @@
       "userRatingCount": 96
     },
     {
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9d/42/36/9d423617-df37-2f3d-2f92-0f4970f215e9/screenshot_1_1792533462742.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1c/e1/e7/1ce1e7b3-f86a-954f-791f-5ba8f7842af9/screenshot_2_1792533462759.png/320x480bb.jpg",
@@ -217,8 +218,14 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2f/3a/63/2f3a634d-f0ab-a89a-8d12-4640a40f52e3/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "advisories": [],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/us/developer/francisco-alcala/id339407925?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2f/3a/63/2f3a634d-f0ab-a89a-8d12-4640a40f52e3/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2f/3a/63/2f3a634d-f0ab-a89a-8d12-4640a40f52e3/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -352,22 +359,16 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "kind": "software",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2f/3a/63/2f3a634d-f0ab-a89a-8d12-4640a40f52e3/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2f/3a/63/2f3a634d-f0ab-a89a-8d12-4640a40f52e3/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/us/developer/francisco-alcala/id339407925?uo=4",
-      "features": [
-        "iosUniversal"
-      ],
+      "releaseNotes": "Built for iPhone Duo\niBendPipe now uses the full screen when your iPhone Duo is unfolded. Calculators show a side-by-side layout, with the bend drawing on one side and your inputs on the other. The main menu and bend lists become an easy-to-tap card grid.\n\nNative iPad Support\niBendPipe now runs natively on iPad. You get the same two-column layout and card menus on the larger screen, so you can plan bends on the tablet you already have on the job.\n\nImprovements\n• Bug fixes and performance improvements.",
       "sellerUrl": "http://www.iBendPipe.com",
       "languageCodesISO2A": [
         "EN"
       ],
       "fileSizeBytes": "41951232",
       "formattedPrice": "$4.99",
-      "userRatingCountForCurrentVersion": 106,
+      "userRatingCountForCurrentVersion": 107,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.16981,
+      "averageUserRatingForCurrentVersion": 4.17757,
       "artistId": 339407925,
       "artistName": "Francisco Alcala",
       "genres": [
@@ -375,30 +376,29 @@
         "Utilities"
       ],
       "price": 4.99,
-      "releaseNotes": "Built for iPhone Duo\niBendPipe now uses the full screen when your iPhone Duo is unfolded. Calculators show a side-by-side layout, with the bend drawing on one side and your inputs on the other. The main menu and bend lists become an easy-to-tap card grid.\n\nNative iPad Support\niBendPipe now runs natively on iPad. You get the same two-column layout and card menus on the larger screen, so you can plan bends on the tablet you already have on the job.\n\nImprovements\n• Bug fixes and performance improvements.",
+      "bundleId": "com.yourcompany.iBend-Pipe",
       "primaryGenreName": "Productivity",
       "primaryGenreId": 6007,
-      "minimumOsVersion": "26.0",
-      "currentVersionReleaseDate": "2026-10-24T18:38:46Z",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseDate": "2009-11-16T22:52:49Z",
-      "sellerName": "Francisco Alcala",
-      "trackName": "iBend Pipe",
-      "trackId": 339407922,
       "genreIds": [
         "6007",
         "6002"
       ],
+      "currentVersionReleaseDate": "2026-10-24T18:38:46Z",
+      "sellerName": "Francisco Alcala",
+      "releaseDate": "2009-11-16T22:52:49Z",
       "version": "6.6",
       "wrapperType": "software",
       "currency": "USD",
       "description": "iBend Pipe — Bend It Right the 1st Time\n\niBend Pipe is a professional conduit bending calculator designed to help electricians make accurate bends faster and reduce wasted material. Whether you're bending a simple offset or laying out a complex compound bend around an obstruction, iBend Pipe gives you the information you need to bend it right—the first time.\n\n\n\nCONDUIT BENDING CALCULATORS\n\nCalculate the following bends using English or Metric measurements:\n\n• Offsets — bend toward or away from an obstruction  \n• Rolling Offsets — bend toward or away from an obstruction  \n• Parallel Offset Adjustments  \n• 3-Bend Saddles  \n• 4-Bend Saddles  \n• Segmented Bends  \n• 90° Bends  \n• Back-to-Back 90° Bends  \n• Kicked 90° Bends  \n• Compound 90° Bends around round obstructions  \n• Compound 90° Bends around square obstructions  \n• Compound 90° Bends around rectangular obstructions  \n\n\n\nFAST, ONE-SCREEN CALCULATIONS\n\nEnter your measurements and see results update instantly. There’s no need to work through multiple screens just to get a measurement. iBend Pipe is designed to keep the calculation and results visible so you can work quickly and efficiently.\n\nLarge, easy-to-read measurements make the app practical to use on the job.\n\n\n\nACCURATE, PRACTICAL RESULTS\n\niBend Pipe goes beyond basic bending multipliers. Centerline bending radius calculations are available for greater accuracy, and bends automatically account for shrink so you don't have to do the math yourself.\n\nPre-position your bends, plan your layout, and get the information you need before you start bending.\n\nWhat's faster—bending it twice or bending it right the first time?\n\n\n\nPROTRACTOR INCLUDED\n\nUse the built-in protractor to measure your bend angle as you bend. The measured angle can be sent directly back to your calculation, helping you work faster without switching between tools.\n\n\n\nBENDER PROFILES\n\niBend Pipe includes nearly 100 bender and conduit combinations. You can also customize or modify profiles to match the benders and conduit you use in the field.\n\n\n\nFRACTIONS, NOT JUST DECIMALS\n\nEnter measurements as fractions instead of converting everything to decimals. Get your results in practical measurements you can use on the job.\n\n\n\nBUILT FOR ELECTRICIANS\n\niBend Pipe is for the electrician who takes pride in their work.\n\nIf you're the person other electricians come to when they have a difficult bend, this app is for you. If you want less wasted conduit in the bone pile, this app is for you. If you can write your name in conduit, this app is definitely for you.\n\nFrom a first-year apprentice to a seasoned journeyman, iBend Pipe is designed to save time, reduce wasted material, and make difficult conduit bends easier to plan.\n\nBend it right. The first time.\n\nThanks for all the great reviews! If you have questions or suggestions, contact me at:\n\nsupport@ibendpipe.com",
-      "contentAdvisoryRating": "4+",
       "trackCensoredName": "iBend Pipe",
       "trackViewUrl": "https://apps.apple.com/us/app/ibend-pipe/id339407922?uo=4",
-      "averageUserRating": 4.16981,
-      "bundleId": "com.yourcompany.iBend-Pipe",
-      "userRatingCount": 106,
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.17757,
+      "minimumOsVersion": "26.0",
+      "trackId": 339407922,
+      "trackName": "iBend Pipe",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "userRatingCount": 107,
       "country": "USA"
     }
   ]

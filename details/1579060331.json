@@ -200,6 +200,7 @@
       "features": [
         "iosUniversal"
       ],
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -332,7 +333,6 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
       "kind": "software",
       "artistViewUrl": "https://apps.apple.com/de/developer/bayerisches-landesamt-fuer-steuern/id1018163928?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/56/27/745627e1-6609-f468-f9ab-8dbd95f5f1a2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
@@ -352,19 +352,26 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/56/27/745627e1-6609-f468-f9ab-8dbd95f5f1a2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "bundleId": "de.elster.elstersecure.app",
+      "currentVersionReleaseDate": "2026-08-06T04:45:17Z",
       "releaseNotes": "- Englische Version verfügbar\n- Verbesserung der Usability",
-      "artistName": "Bayerisches Landesamt fuer Steuern",
-      "releaseDate": "2022-11-26T08:00:00Z",
-      "price": 0,
       "artistId": 1018163928,
+      "artistName": "Bayerisches Landesamt fuer Steuern",
+      "genres": [
+        "Finanzen"
+      ],
+      "price": 0,
+      "bundleId": "de.elster.elstersecure.app",
+      "genreIds": [
+        "6015"
+      ],
+      "releaseDate": "2022-11-26T08:00:00Z",
+      "minimumOsVersion": "15.0",
+      "primaryGenreName": "Finance",
+      "primaryGenreId": 6015,
       "sellerName": "Bayerisches Landesamt fuer Steuern",
       "trackId": 1579060331,
       "trackName": "ElsterSecure",
-      "primaryGenreName": "Finance",
-      "primaryGenreId": 6015,
       "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-08-06T04:45:17Z",
       "version": "ElsterSecure 26.2",
       "wrapperType": "software",
       "currency": "EUR",
@@ -372,25 +379,18 @@
       "trackCensoredName": "ElsterSecure",
       "trackViewUrl": "https://apps.apple.com/de/app/elstersecure/id1579060331?uo=4",
       "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.61685,
+      "averageUserRating": 4.61695,
+      "averageUserRatingForCurrentVersion": 4.61695,
+      "sellerUrl": "https://www.elster.de/elsterweb/infoseite/app/elstersecure",
       "languageCodesISO2A": [
         "EN",
         "DE"
       ],
       "fileSizeBytes": "51722240",
       "formattedPrice": "Gratis",
-      "userRatingCountForCurrentVersion": 55360,
+      "userRatingCountForCurrentVersion": 56277,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.61685,
-      "sellerUrl": "https://www.elster.de/elsterweb/infoseite/app/elstersecure",
-      "minimumOsVersion": "15.0",
-      "genres": [
-        "Finanzen"
-      ],
-      "genreIds": [
-        "6015"
-      ],
-      "userRatingCount": 55360,
+      "userRatingCount": 56277,
       "country": "DEU"
     }
   ]

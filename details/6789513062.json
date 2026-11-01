@@ -2,6 +2,10 @@
   "resultCount": 1,
   "results": [
     {
+      "isGameCenterEnabled": false,
+      "artistViewUrl": "https://apps.apple.com/cn/developer/%E5%85%B4%E5%9D%A4-%E6%9D%A8/id6789373517?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/d5/d4/45d5d47f-5a5d-273b-b068-29c1fbe64cfa/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/d5/d4/45d5d47f-5a5d-273b-b068-29c1fbe64cfa/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
       "features": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
@@ -135,12 +139,9 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "isGameCenterEnabled": false,
       "advisories": [],
       "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/cn/developer/%E5%85%B4%E5%9D%A4-%E6%9D%A8/id6789373517?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/5a/4e/7e5a4eb0-8aec-6892-bc55-3764c177694f/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/5a/4e/7e5a4eb0-8aec-6892-bc55-3764c177694f/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/d5/d4/45d5d47f-5a5d-273b-b068-29c1fbe64cfa/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/55/de/ca/55deca83-d133-88aa-9951-9e9aa9367f0b/IMG_3271.PNG/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cd/c5/54/cdc5541c-a890-82a9-a8b8-7354e3cd596f/IMG_3268.PNG/320x480bb.jpg",
@@ -153,8 +154,11 @@
       ],
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/5a/4e/7e5a4eb0-8aec-6892-bc55-3764c177694f/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
-      "releaseNotes": "修复排序",
+      "releaseNotes": "先吃饭，等会来写更新内容",
+      "trackCensoredName": "大蓝树",
+      "trackViewUrl": "https://apps.apple.com/cn/app/%E5%A4%A7%E8%93%9D%E6%A0%91/id6789513062?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.30328,
       "artistId": 6789373517,
       "artistName": "兴坤 杨",
       "genres": [
@@ -163,36 +167,32 @@
       ],
       "price": 0,
       "bundleId": "com.dalan.tree",
-      "minimumOsVersion": "16.4",
       "trackId": 6789513062,
       "trackName": "大蓝树",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "primaryGenreName": "Social Networking",
+      "primaryGenreId": 6005,
       "releaseDate": "2026-07-16T07:00:00Z",
+      "sellerName": "兴坤 杨",
+      "currentVersionReleaseDate": "2026-10-26T17:06:34Z",
+      "version": "1.3.2",
+      "wrapperType": "software",
+      "currency": "CNY",
+      "description": "大蓝树 - 分享经验与干货的知识社区",
+      "averageUserRatingForCurrentVersion": 4.30328,
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "fileSizeBytes": "129472512",
+      "formattedPrice": "免费",
+      "userRatingCountForCurrentVersion": 122,
+      "trackContentRating": "4+",
+      "minimumOsVersion": "16.4",
       "genreIds": [
         "6005",
         "6017"
       ],
-      "primaryGenreName": "Social Networking",
-      "primaryGenreId": 6005,
-      "sellerName": "兴坤 杨",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-10-24T16:13:35Z",
-      "version": "1.3.1",
-      "wrapperType": "software",
-      "currency": "CNY",
-      "description": "大蓝树 - 分享经验与干货的知识社区",
-      "trackCensoredName": "大蓝树",
-      "trackViewUrl": "https://apps.apple.com/cn/app/%E5%A4%A7%E8%93%9D%E6%A0%91/id6789513062?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.325,
-      "languageCodesISO2A": [
-        "EN"
-      ],
-      "fileSizeBytes": "129452032",
-      "formattedPrice": "免费",
-      "userRatingCountForCurrentVersion": 120,
-      "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.325,
-      "userRatingCount": 120,
+      "userRatingCount": 122,
       "country": "CHN"
     }
   ]

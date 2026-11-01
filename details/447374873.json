@@ -217,6 +217,7 @@
       "features": [
         "iosUniversal"
       ],
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -350,7 +351,6 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
       "kind": "software",
       "artistViewUrl": "https://apps.apple.com/de/developer/komoot-gmbh/id365019076?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/d5/f5/3bd5f55e-2041-bff2-e6c5-72c9fcf11a74/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
@@ -377,19 +377,28 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/d5/f5/3bd5f55e-2041-bff2-e6c5-72c9fcf11a74/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "bundleId": "de.komoot.berlinbikeapp",
+      "currentVersionReleaseDate": "2026-10-21T17:37:37Z",
       "releaseNotes": "What's new?\n- See all your activity photos in a new gallery on your profile.\n- Search your activities or jump to any year in your profile Timeline.\n\nBug fixes\n- Fixed inconsistencies in profile statistics.\n- Fixed several issues with offline routes and route editing.",
-      "artistName": "komoot GmbH",
-      "releaseDate": "2011-07-11T19:50:52Z",
-      "price": 0,
       "artistId": 365019076,
+      "artistName": "komoot GmbH",
+      "genres": [
+        "Gesundheit und Fitness",
+        "Navigation"
+      ],
+      "price": 0,
+      "bundleId": "de.komoot.berlinbikeapp",
+      "genreIds": [
+        "6013",
+        "6010"
+      ],
+      "releaseDate": "2011-07-11T19:50:52Z",
+      "minimumOsVersion": "17.0",
+      "primaryGenreName": "Health & Fitness",
+      "primaryGenreId": 6013,
       "sellerName": "komoot GmbH",
       "trackId": 447374873,
       "trackName": "komoot - Wandern und Radfahren",
-      "primaryGenreName": "Health & Fitness",
-      "primaryGenreId": 6013,
       "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-10-21T17:37:37Z",
       "version": "2026.43.1",
       "wrapperType": "software",
       "currency": "EUR",
@@ -397,7 +406,9 @@
       "trackCensoredName": "komoot - Wandern und Radfahren",
       "trackViewUrl": "https://apps.apple.com/de/app/komoot-wandern-und-radfahren/id447374873?uo=4",
       "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.63443,
+      "averageUserRating": 4.63433,
+      "averageUserRatingForCurrentVersion": 4.63433,
+      "sellerUrl": "https://www.komoot.com",
       "languageCodesISO2A": [
         "HR",
         "CS",
@@ -422,20 +433,9 @@
       ],
       "fileSizeBytes": "361377792",
       "formattedPrice": "Gratis",
-      "userRatingCountForCurrentVersion": 417595,
+      "userRatingCountForCurrentVersion": 418496,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.63443,
-      "sellerUrl": "https://www.komoot.com",
-      "minimumOsVersion": "17.0",
-      "genres": [
-        "Gesundheit und Fitness",
-        "Navigation"
-      ],
-      "genreIds": [
-        "6013",
-        "6010"
-      ],
-      "userRatingCount": 417595,
+      "userRatingCount": 418496,
       "country": "DEU"
     },
     {

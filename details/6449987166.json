@@ -226,11 +226,10 @@
       "userRatingCount": 93
     },
     {
-      "artistViewUrl": "https://apps.apple.com/us/developer/google/id281956209?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/68/56/ad685653-963c-457f-c8f4-ad09f6d02b04/logo_android_switch_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/68/56/ad685653-963c-457f-c8f4-ad09f6d02b04/logo_android_switch_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
-      "advisories": [],
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -363,7 +362,11 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "advisories": [],
       "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/us/developer/google/id281956209?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/68/56/ad685653-963c-457f-c8f4-ad09f6d02b04/logo_android_switch_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/68/56/ad685653-963c-457f-c8f4-ad09f6d02b04/logo_android_switch_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/8a/06/cf/8a06cfd7-a4de-c822-40d7-ec6a99ac2f95/114dc5d0-2a2f-495d-928b-7c9bb03a434f_iOS-5.5-in_0.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/12/2c/b1/122cb198-bb07-46ae-8d75-e29e628de7b1/bb8aa28c-9ded-4dbd-aadf-7a4a2dac0ca4_iOS-5.5-in_1.png/392x696bb.png",
@@ -378,31 +381,35 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/68/56/ad685653-963c-457f-c8f4-ad09f6d02b04/logo_android_switch_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
       "bundleId": "com.google.sta",
-      "trackCensoredName": "Android Switch",
-      "trackViewUrl": "https://apps.apple.com/us/app/android-switch/id6449987166?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 3.46,
-      "currentVersionReleaseDate": "2026-10-14T14:58:51Z",
-      "releaseDate": "2023-08-14T07:00:00Z",
+      "artistId": 281956209,
+      "artistName": "Google",
+      "genres": [
+        "Utilities"
+      ],
+      "price": 0,
+      "trackId": 6449987166,
+      "trackName": "Android Switch",
+      "releaseNotes": "Bug fixes and performance improvements",
       "sellerName": "Google LLC",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "minimumOsVersion": "16.4",
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
       "genreIds": [
         "6002"
       ],
-      "trackId": 6449987166,
-      "trackName": "Android Switch",
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
-      "releaseNotes": "Bug fixes and performance improvements",
+      "releaseDate": "2023-08-14T07:00:00Z",
+      "minimumOsVersion": "16.4",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-10-14T14:58:51Z",
       "version": "1.0.18457",
       "wrapperType": "software",
       "currency": "USD",
       "description": "The Android Switch app from Google helps you easily and securely move your photos, videos, contacts, and calendar events to a brand new Android device without a cable.\n\nGet important info about switching and follow the steps to set up your new device, like turning off iMessage so you don't miss text messages from friends and family.\n\nThe app will ask you for a series of permissions so that your iPhone’s data can be moved to your Android device.\n\nSwitching to Samsung? You don't need this app. Turn on your new phone and follow the instructions instead.",
+      "contentAdvisoryRating": "4+",
+      "formattedPrice": "Free",
+      "userRatingCountForCurrentVersion": 102,
+      "trackContentRating": "4+",
+      "sellerUrl": "http://android.com",
       "languageCodesISO2A": [
         "AR",
         "CA",
@@ -438,19 +445,12 @@
         "UK",
         "VI"
       ],
-      "averageUserRatingForCurrentVersion": 3.46,
-      "sellerUrl": "http://android.com",
       "fileSizeBytes": "25612288",
-      "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 100,
-      "trackContentRating": "4+",
-      "price": 0,
-      "genres": [
-        "Utilities"
-      ],
-      "artistId": 281956209,
-      "artistName": "Google",
-      "userRatingCount": 100,
+      "averageUserRating": 3.45098,
+      "trackCensoredName": "Android Switch",
+      "trackViewUrl": "https://apps.apple.com/us/app/android-switch/id6449987166?uo=4",
+      "averageUserRatingForCurrentVersion": 3.45098,
+      "userRatingCount": 102,
       "country": "USA"
     }
   ]

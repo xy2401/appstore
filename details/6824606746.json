@@ -2,8 +2,20 @@
   "resultCount": 1,
   "results": [
     {
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8a/fd/35/8afd3562-4817-064c-f990-42cd72f5db16/iphone69-1.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d9/71/f6/d971f6e1-6703-a997-17ee-1c4cbf002226/iphone69-2.png/320x480bb.jpg"
+      ],
+      "ipadScreenshotUrls": [],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/57/a6/4157a6d3-ebfd-2387-bae4-32e9780d45f1/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
       "isGameCenterEnabled": false,
       "features": [],
+      "advisories": [],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/jp/developer/bitta-inc/id1674558256?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/57/a6/4157a6d3-ebfd-2387-bae4-32e9780d45f1/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/57/a6/4157a6d3-ebfd-2387-bae4-32e9780d45f1/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -136,19 +148,18 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
-      "kind": "software",
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/23/d5/9623d5ee-b6ca-234d-41ca-ac0a435c8dda/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8a/fd/35/8afd3562-4817-064c-f990-42cd72f5db16/iphone69-1.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d9/71/f6/d971f6e1-6703-a997-17ee-1c4cbf002226/iphone69-2.png/320x480bb.jpg"
+      "languageCodesISO2A": [
+        "EN",
+        "JA"
       ],
-      "ipadScreenshotUrls": [],
-      "appletvScreenshotUrls": [],
-      "artistViewUrl": "https://apps.apple.com/jp/developer/bitta-inc/id1674558256?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/23/d5/9623d5ee-b6ca-234d-41ca-ac0a435c8dda/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/23/d5/9623d5ee-b6ca-234d-41ca-ac0a435c8dda/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
-      "releaseNotes": "・音声入力に対応しました。マイクのボタンを押して話すと、話した言葉がそのまま入力欄に入ります。文字起こしは iPhone の中だけで行い、音声を外に送りません。\n・英字と数字にも変換候補を出すようにしました（hello → Hello、1000 → 1,000・千 など）。\n・「かお」「しょぼん」などと打つと、顔文字が出るようにしました。\n・（）や「」を入れると、カーソルがかっこの中に入るようにしました。\n・「ん」をはらったときに、ホーム画面に戻ってしまうことがある問題を直しました。\n・どちらの向きにはらっても、キーと絵文字の左右を入れ替えられる設定を足しました（iPhone Duo）。\n・マイクやペーストのボタンを押したときの振動を、心地よくしました。\n・ダークモードで、設定のオン・オフを見分けやすくしました。",
+      "fileSizeBytes": "196669440",
+      "formattedPrice": "¥550",
+      "userRatingCountForCurrentVersion": 84,
+      "trackContentRating": "4+",
+      "trackCensoredName": "FlickMe",
+      "trackViewUrl": "https://apps.apple.com/jp/app/flickme/id6824606746?uo=4",
+      "averageUserRatingForCurrentVersion": 3.94048,
+      "releaseNotes": "・地球儀のキーで入力中のアプリが終了することがある問題を修正しました。\n・速く打ったときに、文字が抜けることがある問題を修正しました。\n・英字のキーのローマ字入力で、Shift を押して打った文字が大文字で入るようにしました。\n・キーに触れている間にキーボードが動くと、違う文字が入ることがある問題を修正しました。",
       "artistId": 1674558256,
       "artistName": "Bitta, Inc.",
       "genres": [
@@ -157,37 +168,26 @@
       ],
       "price": 550,
       "bundleId": "com.jetdaizu.katate",
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "Bitta, Inc.",
+      "releaseDate": "2026-10-20T07:00:00Z",
       "genreIds": [
         "6002",
         "6007"
       ],
-      "currentVersionReleaseDate": "2026-10-25T05:00:33Z",
-      "releaseDate": "2026-10-20T07:00:00Z",
-      "minimumOsVersion": "17.0",
-      "sellerName": "Bitta, Inc.",
-      "trackId": 6824606746,
-      "trackName": "FlickMe",
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "version": "1.1",
+      "currentVersionReleaseDate": "2026-10-30T19:56:23Z",
+      "version": "1.1.4",
       "wrapperType": "software",
       "currency": "JPY",
       "description": "FlickMe は、iPhone Duoで快適に文字を打つためのフリックキーボードです。\n\n新しい画面サイズならではのキーボードのサイズ、配置、モードに対応。\n好みに合わせて自由自在に変えられるので、さらに快適な入力を実現します。\n\n利用規約: https://app.notion.com/p/jetdaizu/3fe45a5c600c807b8666da99f84b5ad9",
-      "languageCodesISO2A": [
-        "EN",
-        "JA"
-      ],
-      "fileSizeBytes": "187560960",
-      "formattedPrice": "¥550",
-      "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.18182,
-      "userRatingCountForCurrentVersion": 11,
-      "trackCensoredName": "FlickMe",
-      "trackViewUrl": "https://apps.apple.com/jp/app/flickme/id6824606746?uo=4",
+      "averageUserRating": 3.94048,
       "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.18182,
-      "userRatingCount": 11,
+      "trackId": 6824606746,
+      "trackName": "FlickMe",
+      "minimumOsVersion": "17.0",
+      "userRatingCount": 84,
       "country": "JPN"
     }
   ]

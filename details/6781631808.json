@@ -2,15 +2,7 @@
   "resultCount": 3,
   "results": [
     {
-      "artistViewUrl": "https://apps.apple.com/us/developer/jesus-manuel-curreri/id6781631810?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/28/bc/c528bca0-36f0-e3bd-df70-c15a2f8c402a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/28/bc/c528bca0-36f0-e3bd-df70-c15a2f8c402a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [],
-      "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9c/4a/9e/9c4a9eac-ada9-cdab-e6c3-c72dedbfb76e/1.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dc/f2/1d/dcf21d38-53d3-1d3e-e3de-fb0b1c478bad/2.png/320x480bb.jpg",
@@ -20,7 +12,14 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/40/d6/bc/40d6bc60-72e6-e258-f5f0-8df1a0add247/Disen_U0303o_sin_ti_U0301tulo__U00284_U0029.png/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/28/bc/c528bca0-36f0-e3bd-df70-c15a2f8c402a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/70/e2/5c70e278-0c12-4e63-6045-10fe4e4b798a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/70/e2/5c70e278-0c12-4e63-6045-10fe4e4b798a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/70/e2/5c70e278-0c12-4e63-6045-10fe4e4b798a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/us/developer/jesus-manuel-curreri/id6781631810?uo=4",
+      "features": [
+        "iosUniversal"
+      ],
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -153,44 +152,45 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.47368,
+      "kind": "software",
+      "releaseNotes": "WHAT'S NEW\n• Smoother Album Carousel continuous motion with momentum\n• New option \"Playlist songs in library\" (Music Management).\n• \"Ignore “The” in Albums\" option (Music Management).\n• Hide smart playlists \n• Delete or remove songs again by holding a song.\n\nFIXES\n• Genres are now read correctly from your files (no more odd genres).\n• Songs and albums deleted from your folders now disappear from the app.\n• Folder scans no longer get stuck (saved lyrics or damaged covers).\n• Now Playing shows the right song with Up Next.\n• Jellyfin/Emby: clearer sync errors and better handling of slow connections.",
+      "averageUserRatingForCurrentVersion": 4.75,
+      "sellerUrl": "https://nostalgicpod.com/privacy/",
+      "averageUserRating": 4.75,
       "trackCensoredName": "NostalgicPod",
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "fileSizeBytes": "16462848",
+      "formattedPrice": "$4.99",
+      "contentAdvisoryRating": "4+",
+      "userRatingCountForCurrentVersion": 36,
       "trackViewUrl": "https://apps.apple.com/us/app/nostalgicpod/id6781631808?uo=4",
-      "minimumOsVersion": "15.0",
+      "trackContentRating": "4+",
+      "artistId": 6781631810,
+      "artistName": "Jesus manuel Curreri",
       "genres": [
         "Music"
       ],
       "price": 4.99,
       "bundleId": "com.app.nostalgicpod",
-      "releaseNotes": "- Playback bug fixes, including Apple Music playback",
-      "isVppDeviceBasedLicensingEnabled": true,
       "sellerName": "Jesus manuel Curreri",
-      "releaseDate": "2026-10-05T07:00:00Z",
       "primaryGenreName": "Music",
       "primaryGenreId": 6011,
+      "trackId": 6781631808,
+      "trackName": "NostalgicPod",
       "genreIds": [
         "6011"
       ],
-      "currentVersionReleaseDate": "2026-10-10T17:32:13Z",
-      "version": "1.3.4",
+      "currentVersionReleaseDate": "2026-10-21T13:50:23Z",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseDate": "2026-10-05T07:00:00Z",
+      "version": "1.4.2",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Remember when a music player was just that: a player? You would scroll the wheel, pick a song and listen. No algorithms deciding for you. No notifications. No endless feed. Just your music, in your pocket, NostalgicPod brings that feeling back, rebuilt from scratch for iPhone. A retro music player for your personal library, home media servers, internet radio and podcasts built in. The soul of a classic music player, with the engine of a serious modern app.\n\n\nALL YOUR MUSIC, ONE WHEEL\nBring your library from anywhere and play it all in one place. Import your own files through the Files app, iCloud Drive or whole folders — played in place, with no duplicates. Pull in the music already synced to your iPhone, songs and playlists included, with no subscription needed. Stream from your own server, Plex, Navidrome, Subsonic, OpenSubsonic, Jellyfin and Emby. Your old M3U playlists import automatically.\n\nTHE SOUND\nUnderneath the nostalgia is a serious audio player. FLAC lossless playback up to 24-bit/192 kHz with an automatic Hi-Res badge, gapless playback, and support for MP3, AAC, ALAC, FLAC, WAV, M4A, OGG and more. Server streams direct-play whenever possible, so lossless stays lossless. Shuffle with no unwanted repeats, plus Shuffle Albums for full records. Albums keep playing like the classics did: the last track flows into the next album. Plus star ratings and automatic playlists.\n\nYOUR LIBRARY, YOUR RULES\nOne-time purchase. No subscriptions required for your own music, no in-app purchases, no account, no advertising, no tracking, no personal data collection. Your library stays on your device, and your own files play 100% offline. Pay once and keep it forever. You choose the music — NostalgicPod simply gives you a better way to enjoy it.\n\nMORE THAN A PLAYER\nInternet radio with stations from around the world. A full podcast player with RSS support and playback progress. A sleep timer. Classic games including Snake and Brick. Available in English, Spanish, Italian, German, French and Japanese. More games, audiobook support, CarPlay and additional customization are planned for future updates.\n\nYour music. Your device. Press play.\n\nNostalgicPod is not affiliated with or endorsed by Apple Inc. or any media server project. No account is required, and the app does not collect personal data.",
-      "languageCodesISO2A": [
-        "EN"
-      ],
-      "fileSizeBytes": "11717632",
-      "formattedPrice": "$4.99",
-      "userRatingCountForCurrentVersion": 19,
-      "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.47368,
-      "sellerUrl": "https://nostalgicpod.com/privacy/",
-      "trackName": "NostalgicPod",
-      "trackId": 6781631808,
-      "artistId": 6781631810,
-      "artistName": "Jesus manuel Curreri",
-      "userRatingCount": 19,
+      "minimumOsVersion": "15.0",
+      "userRatingCount": 36,
       "country": "USA"
     },
     {

@@ -204,11 +204,17 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a2/05/75/a2057599-c707-d00e-824e-de2130bc0066/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "isGameCenterEnabled": false,
       "artistViewUrl": "https://apps.apple.com/cn/developer/the-boring-lab-limited/id1869238759?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a2/05/75/a2057599-c707-d00e-824e-de2130bc0066/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a2/05/75/a2057599-c707-d00e-824e-de2130bc0066/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
-      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
+      "advisories": [],
+      "kind": "software",
       "supportedDevices": [
+        "MacDesktop-MacDesktop",
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
         "iPadAirCellular-iPadAirCellular",
@@ -340,11 +346,6 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [],
-      "kind": "software",
       "averageUserRatingForCurrentVersion": 4,
       "languageCodesISO2A": [
         "EN"
@@ -353,26 +354,25 @@
       "formattedPrice": "免费",
       "userRatingCountForCurrentVersion": 13,
       "trackContentRating": "4+",
+      "releaseNotes": "该版本修复了只能在一个设备上激活内购的问题；\n以及修复了一些样式问题。",
       "trackCensoredName": "Neko Dash - Just a Dashboard",
       "trackViewUrl": "https://apps.apple.com/cn/app/neko-dash-just-a-dashboard/id6758199321?uo=4",
       "contentAdvisoryRating": "4+",
       "averageUserRating": 4,
-      "price": 0,
+      "artistId": 1869238759,
+      "artistName": "THE BORING LAB LIMITED",
       "genres": [
         "工具",
         "软件开发工具"
       ],
-      "artistId": 1869238759,
-      "artistName": "THE BORING LAB LIMITED",
-      "trackId": 6758199321,
-      "trackName": "Neko Dash - Just a Dashboard",
-      "bundleId": "cc.boring-lab.clashMate",
+      "price": 0,
       "minimumOsVersion": "15.0",
+      "releaseDate": "2026-02-10T08:00:00Z",
+      "bundleId": "cc.boring-lab.clashMate",
       "genreIds": [
         "6002",
         "6026"
       ],
-      "releaseDate": "2026-02-10T08:00:00Z",
       "primaryGenreName": "Utilities",
       "primaryGenreId": 6002,
       "sellerName": "THE BORING LAB LIMITED",
@@ -382,7 +382,8 @@
       "wrapperType": "software",
       "currency": "CNY",
       "description": "Neko Dash is a modern dashboard client for remotely connecting to and managing Clash-compatible cores, OpenWrt controllers, and Surge controllers. It is not a VPN or proxy application itself.\n\nPlease note before purchasing or using:\n• This app requires an already deployed Clash / OpenWrt / Surge controller to function properly.\n• This app does not provide proxy nodes, subscriptions, routing services, VPN services, or network access.\n• This app is best suited for users who already understand the basic concepts of controller dashboards.\n\nIf you already have a working controller environment, Neko Dash helps you monitor and manage it remotely and conveniently on your iPhone.\n\nIf you do not have a connectable controller environment, or if you do not understand what a “Controller” is, please download and purchase with caution.\n\n【Trial and Purchase】\n\nNeko Dash includes a 7-day free trial.\n\nAfter the trial period ends, a one-time in-app purchase is required to continue using the app. This purchase unlocks the full app experience permanently and is not an auto-renewing subscription.\n\nUsers who previously purchased or downloaded the paid version of Neko Dash may continue using the app without purchasing again, subject to App Store receipt validation.\n\nYou can restore your purchase at any time from the unlock page.\n\n【Core Features】\n\n• Multi-Controller Management\n\nAdd and manage multiple Clash cores, OpenWrt controllers, and Surge controllers simultaneously.\n\n• Real-Time Status Dashboard\n\nMonitor upload and download speeds in real time with a clean, native iOS-style dashboard.\n\n• Widget Support\n\nHome Screen widgets and Lock Screen widgets help you quickly view important controller status.\n\n• Powerful Proxy Group Control\n\nVisualized policy groups clearly display included nodes and their current status.\n\nOne-tap latency testing helps you test nodes within policy groups.\n\nQuick switching provides a smooth interactive experience for changing proxy nodes.\n\n• Connection and Traffic Analysis\n\nView active TCP/UDP connections in real time, including source IP, target domain, upload/download data usage, and connection duration.\n\nForce disconnect allows you to manually close specific connections when needed.\n\n• Rule and Configuration Management\n\nPreview active routing rules directly inside the app.\n\nModify supported controller settings remotely, including running mode, log level, and port settings, without manually editing configuration files.\n\n• Visual Experience\n\nDesigned for iOS with support for both Light Mode and Dark Mode.\n\nNeko Dash icon design: Gholts (Hugo Lee)\n\nPrivacy Policy:\nhttps://testflight.notion.site/privacy-policy-for-neko-dash\n\nTerms of Use:\nhttps://testflight.notion.site/term-of-service-for-neko-dash",
-      "releaseNotes": "该版本修复了只能在一个设备上激活内购的问题；\n以及修复了一些样式问题。",
+      "trackId": 6758199321,
+      "trackName": "Neko Dash - Just a Dashboard",
       "userRatingCount": 13,
       "country": "CHN"
     }

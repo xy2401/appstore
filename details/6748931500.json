@@ -188,10 +188,10 @@
       "userRatingCount": 26
     },
     {
+      "isGameCenterEnabled": false,
       "artistViewUrl": "https://apps.apple.com/fr/developer/tiste/id519715776?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/d2/a4/6ad2a460-502e-b2c9-01f6-1c876f0c9b7e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/d2/a4/6ad2a460-502e-b2c9-01f6-1c876f0c9b7e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
-      "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
       ],
@@ -343,9 +343,12 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/d2/a4/6ad2a460-502e-b2c9-01f6-1c876f0c9b7e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "averageUserRatingForCurrentVersion": 4.82353,
+      "releaseNotes": "Mise à jour de sécurité et de stabilité : composants techniques mis à jour, démarrage plus rapide et consommation mémoire réduite. Correction de l'import de session sur la version web. Vos sessions et réglages sont conservés.",
       "trackCensoredName": "Rally Call",
       "trackViewUrl": "https://apps.apple.com/fr/app/rally-call/id6748931500?uo=4",
       "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.82353,
       "artistId": 519715776,
       "artistName": "Tiste",
       "genres": [
@@ -353,28 +356,25 @@
         "Navigation"
       ],
       "price": 24.99,
+      "bundleId": "io.tiste.RallyCall",
+      "minimumOsVersion": "16.4",
       "genreIds": [
         "6004",
         "6010"
       ],
-      "trackId": 6748931500,
-      "trackName": "Rally Call",
       "primaryGenreName": "Sports",
       "primaryGenreId": 6004,
-      "minimumOsVersion": "16.4",
-      "releaseDate": "2025-08-01T07:00:00Z",
       "sellerName": "Baptiste Lecocq",
       "isVppDeviceBasedLicensingEnabled": true,
+      "releaseDate": "2025-08-01T07:00:00Z",
+      "trackName": "Rally Call",
+      "trackId": 6748931500,
       "currentVersionReleaseDate": "2026-09-20T08:43:51Z",
-      "releaseNotes": "Mise à jour de sécurité et de stabilité : composants techniques mis à jour, démarrage plus rapide et consommation mémoire réduite. Correction de l'import de session sur la version web. Vos sessions et réglages sont conservés.",
       "version": "1.9.5",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Préparez vos notes comme un pro.\n- Ajoutez des notes vocales géolocalisées sur chaque portion de route\n- Visualisez en temps réel l’angle de rotation du volant avec un cadran cockpit animé\n- Utilisez un outil de précision pour vos prises de distance\n- Gardez une trace du dernier virage significatif automatiquement\n- Accédez à la météo du jour sur la spéciale, avec localisation intégrée\n- Accédez à vos résultats en live via le lien FFSA\n- Partagez et sauvegardez vos reconnaissances avec les fichiers Rally Call\n\nPensée par des copilotes, pour les copilotes.",
-      "averageUserRating": 4.82353,
       "sellerUrl": "https://rally-call.com/fr",
-      "averageUserRatingForCurrentVersion": 4.82353,
-      "bundleId": "io.tiste.RallyCall",
       "languageCodesISO2A": [
         "EN"
       ],

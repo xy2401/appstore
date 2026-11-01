@@ -2,10 +2,10 @@
   "resultCount": 1,
   "results": [
     {
+      "isGameCenterEnabled": true,
       "artistViewUrl": "https://apps.apple.com/fr/developer/nicolas-lehovetzki/id412827944?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/6d/12/df6d128a-d1d8-93be-f891-1ef546f032ce/AppIconnew-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/6d/12/df6d128a-d1d8-93be-f891-1ef546f032ce/AppIconnew-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
-      "isGameCenterEnabled": true,
       "features": [
         "gameCenter",
         "iosUniversal"
@@ -170,9 +170,12 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/6d/12/df6d128a-d1d8-93be-f891-1ef546f032ce/AppIconnew-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "averageUserRatingForCurrentVersion": 4.44787,
+      "releaseNotes": "Nouvel écran de progrès : suivez l'évolution de vos scores pour chaque jeu et chaque niveau !",
       "trackCensoredName": "AB Maths, jeux enfants",
       "trackViewUrl": "https://apps.apple.com/fr/app/ab-maths-jeux-enfants/id412827941?uo=4",
       "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.44787,
       "artistId": 412827944,
       "artistName": "Nicolas Lehovetzki",
       "genres": [
@@ -181,29 +184,26 @@
         "Jeux"
       ],
       "price": 2.99,
+      "bundleId": "fr.lehovetzki.abmath",
+      "minimumOsVersion": "15.0",
       "genreIds": [
         "6017",
         "7009",
         "6014"
       ],
-      "trackId": 412827941,
-      "trackName": "AB Maths, jeux enfants",
       "primaryGenreName": "Education",
       "primaryGenreId": 6017,
-      "minimumOsVersion": "15.0",
-      "releaseDate": "2011-01-06T07:09:49Z",
       "sellerName": "Nicolas Lehovetzki",
       "isVppDeviceBasedLicensingEnabled": true,
+      "releaseDate": "2011-01-06T07:09:49Z",
+      "trackName": "AB Maths, jeux enfants",
+      "trackId": 412827941,
       "currentVersionReleaseDate": "2026-10-05T16:29:46Z",
-      "releaseNotes": "Nouvel écran de progrès : suivez l'évolution de vos scores pour chaque jeu et chaque niveau !",
       "version": "9.5",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "** AB Math dans le top 10 des applications éducatives en France, Angleterre, Allemagne et Espagne **\n\nJeu de calcul mental pour les enfants de 5 a 10 ans, en français.\n- Nombreuses options de jeu faciles à choisir par les enfants eux mêmes\n- Modes de jeu variés et amusants\n- Plusieurs niveaux de difficulté dosés pour tous\n- Niveau Expert pour les grands\n- Suivi des résultats de plusieurs joueurs\n- Mode multijoueur\n- Nouveau ! Le jeu de la pastèque !\n\nDisponible en version universelle pour iPad et iPhone/iPod Touch\n\nLe jeu des bulles améliore également l'attention, la perception dans l'espace et la construction mentale.\n\nLes enfants l'adorent et progressent en math avec plaisir.\nLes parents s'amusent avec le jeu des bulles qui est difficile en niveau expert.\n\nSi vous aimez, merci de mettre une note sur l'Appstore.\nLes commentaires sont également les bienvenus.",
-      "averageUserRating": 4.45098,
       "sellerUrl": "http://www.ab-math-games.com/fr.html",
-      "averageUserRatingForCurrentVersion": 4.45098,
-      "bundleId": "fr.lehovetzki.abmath",
       "languageCodesISO2A": [
         "EN",
         "FR",
@@ -217,9 +217,9 @@
       ],
       "fileSizeBytes": "39705600",
       "formattedPrice": "2,99 €",
-      "userRatingCountForCurrentVersion": 612,
+      "userRatingCountForCurrentVersion": 614,
       "trackContentRating": "4+",
-      "userRatingCount": 612,
+      "userRatingCount": 614,
       "country": "FRA"
     }
   ]

@@ -2,10 +2,9 @@
   "resultCount": 1,
   "results": [
     {
-      "advisories": [
-        "Infrequent/Mild Mature/Suggestive Themes",
-        "Infrequent/Mild Sexual Content and Nudity"
-      ],
+      "artistViewUrl": "https://apps.apple.com/us/developer/polyverse-entertainment-inc/id1636251210?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/15/54/e215542d-4d8f-d049-75db-104788104c41/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/15/54/e215542d-4d8f-d049-75db-104788104c41/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
@@ -142,6 +141,10 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "advisories": [
+        "Infrequent/Mild Mature/Suggestive Themes",
+        "Infrequent/Mild Sexual Content and Nudity"
+      ],
       "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/da/1b/df/da1bdf8a-f4aa-9c6c-c14a-c7184d28c09c/6.5-EN-1.jpg/320x480bb.jpg",
@@ -165,28 +168,32 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/15/54/e215542d-4d8f-d049-75db-104788104c41/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/us/developer/polyverse-entertainment-inc/id1636251210?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/15/54/e215542d-4d8f-d049-75db-104788104c41/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/15/54/e215542d-4d8f-d049-75db-104788104c41/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
-      "trackId": 6444888896,
-      "trackName": "AI Mirror: AI Photo Editor",
-      "genreIds": [
-        "6008",
-        "6027"
-      ],
+      "trackCensoredName": "AI Mirror: AI Photo Editor",
+      "trackViewUrl": "https://apps.apple.com/us/app/ai-mirror-ai-photo-editor/id6444888896?uo=4",
+      "contentAdvisoryRating": "17+",
+      "averageUserRating": 4.66444,
+      "releaseNotes": "Fixed some issues.",
+      "artistId": 1636251210,
+      "artistName": "POLYVERSE ENTERTAINMENT INC.",
       "genres": [
         "Photo & Video",
         "Graphics & Design"
       ],
-      "artistId": 1636251210,
-      "artistName": "POLYVERSE ENTERTAINMENT INC.",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-08-23T06:34:15Z",
+      "price": 0,
+      "bundleId": "com.ai.polyverse.mirror.ios",
+      "trackId": 6444888896,
+      "trackName": "AI Mirror: AI Photo Editor",
       "primaryGenreName": "Photo & Video",
       "primaryGenreId": 6008,
-      "releaseNotes": "Fixed some issues.",
       "sellerName": "POLYVERSE ENTERTAINMENT INC.",
+      "releaseDate": "2022-12-06T08:00:00Z",
+      "genreIds": [
+        "6008",
+        "6027"
+      ],
       "minimumOsVersion": "14.0",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-08-23T06:34:15Z",
       "version": "7.1.1",
       "wrapperType": "software",
       "currency": "USD",
@@ -206,17 +213,10 @@
       ],
       "fileSizeBytes": "199853056",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 50250,
       "trackContentRating": "17+",
-      "averageUserRatingForCurrentVersion": 4.66484,
-      "bundleId": "com.ai.polyverse.mirror.ios",
-      "trackCensoredName": "AI Mirror: AI Photo Editor",
-      "trackViewUrl": "https://apps.apple.com/us/app/ai-mirror-ai-photo-editor/id6444888896?uo=4",
-      "contentAdvisoryRating": "17+",
-      "averageUserRating": 4.66484,
-      "price": 0,
-      "releaseDate": "2022-12-06T08:00:00Z",
-      "userRatingCount": 50250,
+      "averageUserRatingForCurrentVersion": 4.66444,
+      "userRatingCountForCurrentVersion": 50304,
+      "userRatingCount": 50304,
       "country": "USA"
     }
   ]

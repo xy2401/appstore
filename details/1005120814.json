@@ -208,11 +208,10 @@
       "userRatingCount": 100
     },
     {
-      "artistViewUrl": "https://apps.apple.com/us/developer/google/id281956209?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/e9/04/ade9049c-8210-3c72-0015-3be29131e20d/logo_google_cloud_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/e9/04/ade9049c-8210-3c72-0015-3be29131e20d/logo_google_cloud_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
-      "advisories": [],
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -345,7 +344,11 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "advisories": [],
       "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/us/developer/google/id281956209?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/e9/04/ade9049c-8210-3c72-0015-3be29131e20d/logo_google_cloud_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/e9/04/ade9049c-8210-3c72-0015-3be29131e20d/logo_google_cloud_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/36/af/a5/36afa564-ac72-f970-5237-a154166a2815/APP_IPHONE_55-1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b4/f5/ed/b4f5ed24-6936-4c01-dc6e-f437d592d3d2/APP_IPHONE_55-2.png/392x696bb.png",
@@ -362,32 +365,37 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/e9/04/ade9049c-8210-3c72-0015-3be29131e20d/logo_google_cloud_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
       "bundleId": "com.google.Vespa",
-      "trackCensoredName": "Google Cloud",
-      "trackViewUrl": "https://apps.apple.com/us/app/google-cloud/id1005120814?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 3.34545,
-      "currentVersionReleaseDate": "2026-10-20T14:14:08Z",
-      "releaseDate": "2015-07-23T18:43:36Z",
+      "artistId": 281956209,
+      "artistName": "Google",
+      "genres": [
+        "Productivity",
+        "Utilities"
+      ],
+      "price": 0,
+      "trackId": 1005120814,
+      "trackName": "Google Cloud",
+      "releaseNotes": "• Bug fixes and performance improvements.",
       "sellerName": "Google LLC",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "minimumOsVersion": "17.0",
+      "primaryGenreName": "Productivity",
+      "primaryGenreId": 6007,
       "genreIds": [
         "6007",
         "6002"
       ],
-      "trackId": 1005120814,
-      "trackName": "Google Cloud",
-      "primaryGenreName": "Productivity",
-      "primaryGenreId": 6007,
-      "releaseNotes": "• Bug fixes and performance improvements.",
+      "releaseDate": "2015-07-23T18:43:36Z",
+      "minimumOsVersion": "17.0",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-10-20T14:14:08Z",
       "version": "26.10.191600",
       "wrapperType": "software",
       "currency": "USD",
       "description": "The app helps you manage your services running on Google Cloud directly from your Apple iPhone or iPad:\n\n• Stay connected to the cloud and check billing, status, and critical issues.\n• Create your own custom dashboard to produce an overview of your Google Cloud services.\n• Monitor the state of your Compute Engine and App Engine resources with the ability to SSH into your VMs.\n• Access to Cloud Shell to perform any Google Cloud (gcloud) operation.\n• View and respond to incidents, errors, and logging.\n\nWe plan to ship new features regularly and continually improve your user experience. Please give us your feedback in the app by tapping the menu button in the upper-left corner, selecting Help & Feedback, and then Send feedback.",
+      "contentAdvisoryRating": "4+",
+      "formattedPrice": "Free",
+      "userRatingCountForCurrentVersion": 110,
+      "trackContentRating": "4+",
+      "sellerUrl": "https://cloud.google.com/",
       "languageCodesISO2A": [
         "EN",
         "FR",
@@ -401,19 +409,11 @@
         "ES",
         "ZH"
       ],
-      "averageUserRatingForCurrentVersion": 3.34545,
-      "sellerUrl": "https://cloud.google.com/",
       "fileSizeBytes": "123415552",
-      "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 110,
-      "trackContentRating": "4+",
-      "price": 0,
-      "genres": [
-        "Productivity",
-        "Utilities"
-      ],
-      "artistId": 281956209,
-      "artistName": "Google",
+      "averageUserRating": 3.34545,
+      "trackCensoredName": "Google Cloud",
+      "trackViewUrl": "https://apps.apple.com/us/app/google-cloud/id1005120814?uo=4",
+      "averageUserRatingForCurrentVersion": 3.34545,
       "userRatingCount": 110,
       "country": "USA"
     }
