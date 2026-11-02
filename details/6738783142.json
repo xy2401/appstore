@@ -177,7 +177,6 @@
       "userRatingCount": 170
     },
     {
-      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fc/08/67/fc0867d3-6fdb-4ffd-590d-1219c976d6ba/01_300-plus-knots-true-interactive-3d_1320x2868.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/40/51/bc/4051bcc2-0293-fdf6-c2cf-07c8efae04f8/02_control-every-step_1320x2868.png/320x480bb.jpg",
@@ -198,6 +197,10 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/84/ff/4784ffbc-7efd-e848-e9ff-7483b0a16e56/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -335,9 +338,6 @@
       "artistViewUrl": "https://apps.apple.com/us/developer/the-bear-essentials-co-ltd/id1782320263?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/84/ff/4784ffbc-7efd-e848-e9ff-7483b0a16e56/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/84/ff/4784ffbc-7efd-e848-e9ff-7483b0a16e56/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
       "sellerUrl": "https://youtu.be/o1Cth0rIAQc?si=d9X2fDBileagByUy",
       "languageCodesISO2A": [
         "EN"
@@ -347,17 +347,15 @@
       "userRatingCountForCurrentVersion": 256,
       "trackContentRating": "4+",
       "averageUserRatingForCurrentVersion": 4.8125,
-      "artistId": 1782320263,
-      "artistName": "The Bear Essentials Co. LTD",
       "genres": [
         "Reference",
         "Education"
       ],
       "price": 4.99,
+      "releaseDate": "2025-03-12T07:00:00Z",
       "trackId": 6738783142,
       "trackName": "Knot IQ: 3D Knot Tying",
       "minimumOsVersion": "15.0",
-      "releaseDate": "2025-03-12T07:00:00Z",
       "genreIds": [
         "6006",
         "6017"
@@ -372,20 +370,39 @@
       "wrapperType": "software",
       "currency": "USD",
       "description": "Not sure which knot you need? Knot IQ helps you choose the right one, then shows you how to tie it in true interactive 3D.\n\nBuilt by The Bear Essentials, Knot IQ is a practical knot-tying guide with 300+ knots for fishing, camping, climbing, boating, bushcraft, rescue, arborist work, scouting, and everyday rope work. Download the enhanced 3D knots you need and keep learning offline.\n\nCHOOSE WITH KNOTFINDER\n\nStart with the job, not the knot’s name. Answer a few quick questions about what you are doing. KnotFINDER narrows the choices, explains why each recommendation fits, and helps you compare your options.\n\nCONTROL EVERY STEP IN TRUE 3D\n\nRotate the knot freely, zoom in, scrub through every step, reverse the sequence, pause, and change the playback speed. Adjust the rope colours for better visibility or switch to left-handed mode.\n\nLEARN WHERE AND WHY A KNOT WORKS\n\nGo beyond memorizing an animation. Review practical uses, strengths, trade-offs, and related knots. Interactive scenes show where knots belong in real situations: tap a task to see what to tie and where.\n\n300+ KNOTS, ORGANIZED YOUR WAY\n\nSearch by name, browse by activity or knot type, filter your library, save favourites, and build custom lists. Use the Downloaded filter to find the 3D knots you have saved for offline learning.\n\nExplore fishing and fly-fishing knots; camping and bushcraft knots; climbing, rescue, and firefighting knots; boating, sailing, and marine knots; arborist, hoisting, and rigging knots; scouting knots and lashings; plus necktie knots, shoelaces, household, utility, decorative, and specialty ropework.\n\nLearn essentials such as the Bowline, Clove Hitch, Figure Eight, Sheet Bend, Taut-Line Hitch, Trucker’s Hitch, Prusik, and Munter Hitch—plus hundreds of specialized bends, bindings, friction hitches, lashings, loops, splices, stopper knots, and quick-release knots.\n\nKEY FEATURES\n\n• 300+ knots and growing\n• True interactive 3D knot models\n• Rotate, zoom, scrub, reverse, pause, and change speed\n• Guided KnotFINDER recommendations with explanations\n• Offline access to downloaded 3D knot resources\n• Interactive scenes and practical use guidance\n• Rope-colour controls and left-handed mode\n• Favourites, custom lists, search, filters, and related knots\n• Expert guides and video tutorials from The Bear Essentials\n• One-time purchase with no ads or subscriptions\n• No data collected\n• Apple Family Sharing\n\nMade for beginners and experienced knot tyers alike. Learn. Craft. Explore.\n\nSafety note: Knot IQ is an educational reference. For climbing, rescue, arborist, marine, and other safety-critical uses, follow qualified instruction, inspect your equipment, and use the procedures required for your activity.",
-      "bundleId": "com.the-bear-essentials.knot-guide",
       "trackCensoredName": "Knot IQ: 3D Knot Tying",
+      "bundleId": "com.the-bear-essentials.knot-guide",
       "trackViewUrl": "https://apps.apple.com/us/app/knot-iq-3d-knot-tying/id6738783142?uo=4",
       "contentAdvisoryRating": "4+",
       "averageUserRating": 4.8125,
+      "artistId": 1782320263,
+      "artistName": "The Bear Essentials Co. LTD",
       "userRatingCount": 256,
       "country": "USA"
     },
     {
-      "advisories": [],
-      "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
+      "artistViewUrl": "https://apps.apple.com/de/developer/the-bear-essentials-co-ltd/id1782320263?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/84/ff/4784ffbc-7efd-e848-e9ff-7483b0a16e56/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/84/ff/4784ffbc-7efd-e848-e9ff-7483b0a16e56/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bc/cc/fc/bcccfca5-c46c-b572-2b55-7e1582790c3c/Animation_IPAD.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3d/e8/c6/3de8c62d-31c9-58b7-690c-c56d8836ec10/Home_IPAD.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c2/64/e2/c264e2cb-6616-aea5-7572-ad61316cd0ee/INFO_IPAD.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bf/e5/67/bfe5675f-257b-34ba-b345-902190cf31b1/Settings_IPAD.png/360x480bb.jpg"
       ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/84/ff/4784ffbc-7efd-e848-e9ff-7483b0a16e56/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/9f/43/b29f43f8-4b63-dcf0-008f-05cd98f78af6/_U0028GER_U0029_1320x2868-2.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9e/b2/df/9eb2df94-6115-392d-9ef5-71a24c967461/_U0028GER_U0029_1320x2868-1.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/99/0c/52/990c5293-892e-a674-543b-3ba235c457db/_U0028GER_U0029_1320x2868-7.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8e/01/e6/8e01e608-e857-1200-71ca-64328109e125/_U0028GER_U0029_1320x2868-3.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/57/d1/af/57d1aff8-1a78-28b2-7998-7b2815a81f92/_U0028GER_U0029_1320x2868-5.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/96/95/0a/96950a92-d63b-060e-2794-1efd03b67a1b/_U0028GER_U0029_1320x2868-8.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/99/99/31/99993168-5555-cb55-2297-e3eae8d0a433/_U0028GER_U0029_1320x2868-4.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8f/a8/3a/8fa83a26-982e-c109-ae1a-c2f2f60eee29/_U0028GER_U0029_1320x2868-6.png/320x480bb.jpg"
+      ],
+      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -519,54 +536,16 @@
         "iPhoneDuo-iPhoneDuo"
       ],
       "kind": "software",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/9f/43/b29f43f8-4b63-dcf0-008f-05cd98f78af6/_U0028GER_U0029_1320x2868-2.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9e/b2/df/9eb2df94-6115-392d-9ef5-71a24c967461/_U0028GER_U0029_1320x2868-1.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/99/0c/52/990c5293-892e-a674-543b-3ba235c457db/_U0028GER_U0029_1320x2868-7.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8e/01/e6/8e01e608-e857-1200-71ca-64328109e125/_U0028GER_U0029_1320x2868-3.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/57/d1/af/57d1aff8-1a78-28b2-7998-7b2815a81f92/_U0028GER_U0029_1320x2868-5.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/96/95/0a/96950a92-d63b-060e-2794-1efd03b67a1b/_U0028GER_U0029_1320x2868-8.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/99/99/31/99993168-5555-cb55-2297-e3eae8d0a433/_U0028GER_U0029_1320x2868-4.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8f/a8/3a/8fa83a26-982e-c109-ae1a-c2f2f60eee29/_U0028GER_U0029_1320x2868-6.png/320x480bb.jpg"
+      "features": [
+        "iosUniversal"
       ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bc/cc/fc/bcccfca5-c46c-b572-2b55-7e1582790c3c/Animation_IPAD.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3d/e8/c6/3de8c62d-31c9-58b7-690c-c56d8836ec10/Home_IPAD.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c2/64/e2/c264e2cb-6616-aea5-7572-ad61316cd0ee/INFO_IPAD.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bf/e5/67/bfe5675f-257b-34ba-b345-902190cf31b1/Settings_IPAD.png/360x480bb.jpg"
-      ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/84/ff/4784ffbc-7efd-e848-e9ff-7483b0a16e56/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/de/developer/the-bear-essentials-co-ltd/id1782320263?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/84/ff/4784ffbc-7efd-e848-e9ff-7483b0a16e56/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/84/ff/4784ffbc-7efd-e848-e9ff-7483b0a16e56/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
-      "bundleId": "com.the-bear-essentials.knot-guide",
-      "currentVersionReleaseDate": "2026-10-07T15:59:05Z",
-      "genres": [
-        "Nachschlagewerke",
-        "Bildung"
-      ],
-      "artistId": 1782320263,
-      "artistName": "The Bear Essentials Co. LTD",
-      "price": 5.99,
-      "releaseNotes": "6 neue Knoten hinzugefügt\n• Becket Hitch (double)\n• Overhand Knot (triple)\n• Round Turn and Buntline Hitch\n• Slippery Hitch\n• Overhand Loop\n• Bow Tie Knot\n\nÜberarbeitete Einstellungen\n• Eigene Seilfarben\n• Größere Touchflächen\n• Klare Erklärungen und übersichtliche Pop-ups\n\nBehalte gelernte Knoten im Blick\n• Markiere gelernte Knoten und sortiere bei Bedarf nach Gelernt.\n\nFlüssigere Animationen\n• Vergrößerte 3D-Knoten mit zwei Fingern verschieben.\n• Einzelne Knoten spiegeln, ohne die Linkshänder-Einstellung zu ändern.\n• Knotenanimationen als GIF teilen.",
-      "trackId": 6738783142,
-      "trackName": "Knot IQ: Knoten binden in 3D",
-      "releaseDate": "2025-03-12T07:00:00Z",
-      "minimumOsVersion": "15.0",
-      "genreIds": [
-        "6006",
-        "6017"
-      ],
-      "primaryGenreName": "Reference",
-      "primaryGenreId": 6006,
-      "sellerName": "The Bear Essentials Outdoors Co. LTD.",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "version": "4.0.0",
-      "wrapperType": "software",
-      "currency": "EUR",
-      "description": "Du weißt nicht, welchen Knoten du brauchst? Knot IQ hilft dir, den richtigen auszuwählen, und zeigt dir anschließend Schritt für Schritt an einem echten, interaktiven 3D-Modell, wie du ihn bindest.\n\nKnot IQ wurde von The Bear Essentials entwickelt und ist ein praktischer Knotenguide mit über 300 Knoten fürs Angeln, Camping, Klettern, Bootfahren, Bushcraft, Rettung, die Baumpflege, Pfadfinderaktivitäten und alltägliche Seilarbeiten. Lade die erweiterten 3D-Ressourcen herunter, die du brauchst, und lerne offline weiter.\n\nMIT KNOTFINDER DEN PASSENDEN KNOTEN WÄHLEN\n\nBeginne mit der Aufgabe statt mit dem Namen des Knotens. Beantworte ein paar kurze Fragen zu deinem Vorhaben. KnotFINDER grenzt die Auswahl ein, erklärt, warum jede Empfehlung passt, und hilft dir, die Möglichkeiten zu vergleichen.\n\nJEDEN SCHRITT AM INTERAKTIVEN 3D-MODELL STEUERN\n\nDrehe den Knoten frei, zoome heran, fahre mit dem Regler durch jeden Schritt, spiele die Abfolge rückwärts ab, pausiere und passe die Wiedergabegeschwindigkeit an. Ändere die Seilfarben für bessere Sichtbarkeit oder wechsle in den Linkshändermodus.\n\nVERSTEHEN, WO UND WARUM EIN KNOTEN FUNKTIONIERT\n\nGehe über das bloße Auswendiglernen einer Animation hinaus. Informiere dich über Einsatzbereiche, Stärken, Grenzen und verwandte Knoten. Interaktive Szenen zeigen, wo Knoten in konkreten Situationen eingesetzt werden: Tippe auf eine Aufgabe, um zu sehen, was du wo binden solltest.\n\nÜBER 300 KNOTEN – SO ORGANISIERT, WIE DU SIE BRAUCHST\n\nSuche nach Namen, durchstöbere Aktivitäten oder Knotenarten, filtere deine Bibliothek, speichere Favoriten und erstelle eigene Listen. Mit dem Filter „Heruntergeladen“ findest du die 3D-Knoten, die du zum Offline-Lernen gespeichert hast.\n\nEntdecke Knoten fürs Angeln und Fliegenfischen, Camping und Bushcraft, Klettern, Rettung und Feuerwehr, Bootfahren, Segeln und Seefahrt, Baumpflege, Heben und Takelage sowie Pfadfinderknoten und Bünde. Hinzu kommen Krawattenknoten, Schnürsenkel sowie Knoten für Haushalt, Alltag, Dekoration und besondere Seilarbeiten.\n\nLerne grundlegende Knoten wie Palstek, Webeleinenstek, Achtknoten, Schotstek, Spannknoten, Fuhrmannsknoten, Prusikknoten und Halbmastwurf – plus Hunderte spezialisierte Verbindungs-, Befestigungs-, Klemm-, Binde-, Schlaufen-, Spleiß-, Stopper- und Schnelllöseknoten.\n\nDIE WICHTIGSTEN FUNKTIONEN\n\n• Über 300 Knoten – und es werden mehr\n• Echte interaktive 3D-Knotenmodelle\n• Drehen, zoomen, schrittweise vor- und zurückgehen, pausieren und Tempo ändern\n• Geführte KnotFINDER-Empfehlungen mit Begründungen\n• Offline-Zugriff auf heruntergeladene 3D-Ressourcen\n• Interaktive Szenen und praktische Anwendungshinweise\n• Einstellbare Seilfarben und Linkshändermodus\n• Favoriten, eigene Listen, Suche, Filter und verwandte Knoten\n• Experten-Guides und Video-Tutorials von The Bear Essentials\n• Einmaliger Kauf, keine Werbung oder Abos\n• Keine Datenerfassung\n• Apple-Familienfreigabe\n\nFür Anfänger ebenso wie für erfahrene Anwender. Lernen. Binden. Entdecken.\n\nSicherheitshinweis: Knot IQ ist ein Lern- und Nachschlagewerk. Hole dir beim Klettern, bei Rettungseinsätzen, in der Baumpflege, auf See und bei anderen sicherheitskritischen Anwendungen qualifizierte Anleitung, prüfe deine Ausrüstung und halte die für deine Tätigkeit vorgeschriebenen Verfahren ein.",
+      "advisories": [],
+      "trackCensoredName": "Knot IQ: Knoten binden in 3D",
+      "trackViewUrl": "https://apps.apple.com/de/app/knot-iq-knoten-binden-in-3d/id6738783142?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.42105,
       "averageUserRatingForCurrentVersion": 4.42105,
+      "sellerUrl": "https://youtu.be/o1Cth0rIAQc?si=d9X2fDBileagByUy",
       "languageCodesISO2A": [
         "EN"
       ],
@@ -574,11 +553,32 @@
       "formattedPrice": "5,99 €",
       "userRatingCountForCurrentVersion": 19,
       "trackContentRating": "4+",
-      "sellerUrl": "https://youtu.be/o1Cth0rIAQc?si=d9X2fDBileagByUy",
-      "contentAdvisoryRating": "4+",
-      "trackCensoredName": "Knot IQ: Knoten binden in 3D",
-      "trackViewUrl": "https://apps.apple.com/de/app/knot-iq-knoten-binden-in-3d/id6738783142?uo=4",
-      "averageUserRating": 4.42105,
+      "genres": [
+        "Nachschlagewerke",
+        "Bildung"
+      ],
+      "primaryGenreName": "Reference",
+      "primaryGenreId": 6006,
+      "genreIds": [
+        "6006",
+        "6017"
+      ],
+      "releaseDate": "2025-03-12T07:00:00Z",
+      "trackId": 6738783142,
+      "trackName": "Knot IQ: Knoten binden in 3D",
+      "currentVersionReleaseDate": "2026-10-07T15:59:05Z",
+      "releaseNotes": "6 neue Knoten hinzugefügt\n• Becket Hitch (double)\n• Overhand Knot (triple)\n• Round Turn and Buntline Hitch\n• Slippery Hitch\n• Overhand Loop\n• Bow Tie Knot\n\nÜberarbeitete Einstellungen\n• Eigene Seilfarben\n• Größere Touchflächen\n• Klare Erklärungen und übersichtliche Pop-ups\n\nBehalte gelernte Knoten im Blick\n• Markiere gelernte Knoten und sortiere bei Bedarf nach Gelernt.\n\nFlüssigere Animationen\n• Vergrößerte 3D-Knoten mit zwei Fingern verschieben.\n• Einzelne Knoten spiegeln, ohne die Linkshänder-Einstellung zu ändern.\n• Knotenanimationen als GIF teilen.",
+      "version": "4.0.0",
+      "wrapperType": "software",
+      "currency": "EUR",
+      "description": "Du weißt nicht, welchen Knoten du brauchst? Knot IQ hilft dir, den richtigen auszuwählen, und zeigt dir anschließend Schritt für Schritt an einem echten, interaktiven 3D-Modell, wie du ihn bindest.\n\nKnot IQ wurde von The Bear Essentials entwickelt und ist ein praktischer Knotenguide mit über 300 Knoten fürs Angeln, Camping, Klettern, Bootfahren, Bushcraft, Rettung, die Baumpflege, Pfadfinderaktivitäten und alltägliche Seilarbeiten. Lade die erweiterten 3D-Ressourcen herunter, die du brauchst, und lerne offline weiter.\n\nMIT KNOTFINDER DEN PASSENDEN KNOTEN WÄHLEN\n\nBeginne mit der Aufgabe statt mit dem Namen des Knotens. Beantworte ein paar kurze Fragen zu deinem Vorhaben. KnotFINDER grenzt die Auswahl ein, erklärt, warum jede Empfehlung passt, und hilft dir, die Möglichkeiten zu vergleichen.\n\nJEDEN SCHRITT AM INTERAKTIVEN 3D-MODELL STEUERN\n\nDrehe den Knoten frei, zoome heran, fahre mit dem Regler durch jeden Schritt, spiele die Abfolge rückwärts ab, pausiere und passe die Wiedergabegeschwindigkeit an. Ändere die Seilfarben für bessere Sichtbarkeit oder wechsle in den Linkshändermodus.\n\nVERSTEHEN, WO UND WARUM EIN KNOTEN FUNKTIONIERT\n\nGehe über das bloße Auswendiglernen einer Animation hinaus. Informiere dich über Einsatzbereiche, Stärken, Grenzen und verwandte Knoten. Interaktive Szenen zeigen, wo Knoten in konkreten Situationen eingesetzt werden: Tippe auf eine Aufgabe, um zu sehen, was du wo binden solltest.\n\nÜBER 300 KNOTEN – SO ORGANISIERT, WIE DU SIE BRAUCHST\n\nSuche nach Namen, durchstöbere Aktivitäten oder Knotenarten, filtere deine Bibliothek, speichere Favoriten und erstelle eigene Listen. Mit dem Filter „Heruntergeladen“ findest du die 3D-Knoten, die du zum Offline-Lernen gespeichert hast.\n\nEntdecke Knoten fürs Angeln und Fliegenfischen, Camping und Bushcraft, Klettern, Rettung und Feuerwehr, Bootfahren, Segeln und Seefahrt, Baumpflege, Heben und Takelage sowie Pfadfinderknoten und Bünde. Hinzu kommen Krawattenknoten, Schnürsenkel sowie Knoten für Haushalt, Alltag, Dekoration und besondere Seilarbeiten.\n\nLerne grundlegende Knoten wie Palstek, Webeleinenstek, Achtknoten, Schotstek, Spannknoten, Fuhrmannsknoten, Prusikknoten und Halbmastwurf – plus Hunderte spezialisierte Verbindungs-, Befestigungs-, Klemm-, Binde-, Schlaufen-, Spleiß-, Stopper- und Schnelllöseknoten.\n\nDIE WICHTIGSTEN FUNKTIONEN\n\n• Über 300 Knoten – und es werden mehr\n• Echte interaktive 3D-Knotenmodelle\n• Drehen, zoomen, schrittweise vor- und zurückgehen, pausieren und Tempo ändern\n• Geführte KnotFINDER-Empfehlungen mit Begründungen\n• Offline-Zugriff auf heruntergeladene 3D-Ressourcen\n• Interaktive Szenen und praktische Anwendungshinweise\n• Einstellbare Seilfarben und Linkshändermodus\n• Favoriten, eigene Listen, Suche, Filter und verwandte Knoten\n• Experten-Guides und Video-Tutorials von The Bear Essentials\n• Einmaliger Kauf, keine Werbung oder Abos\n• Keine Datenerfassung\n• Apple-Familienfreigabe\n\nFür Anfänger ebenso wie für erfahrene Anwender. Lernen. Binden. Entdecken.\n\nSicherheitshinweis: Knot IQ ist ein Lern- und Nachschlagewerk. Hole dir beim Klettern, bei Rettungseinsätzen, in der Baumpflege, auf See und bei anderen sicherheitskritischen Anwendungen qualifizierte Anleitung, prüfe deine Ausrüstung und halte die für deine Tätigkeit vorgeschriebenen Verfahren ein.",
+      "bundleId": "com.the-bear-essentials.knot-guide",
+      "minimumOsVersion": "15.0",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "The Bear Essentials Outdoors Co. LTD.",
+      "price": 5.99,
+      "artistId": 1782320263,
+      "artistName": "The Bear Essentials Co. LTD",
       "userRatingCount": 19,
       "country": "DEU"
     }

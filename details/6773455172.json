@@ -21,11 +21,11 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/ee/59/adee59ea-a924-c39c-3bad-e5beb68e413d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/fr/developer/jonathan-mark-schulman/id6773455174?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/ee/59/adee59ea-a924-c39c-3bad-e5beb68e413d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/ee/59/adee59ea-a924-c39c-3bad-e5beb68e413d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
       "advisories": [],
-      "features": [
-        "iosUniversal"
-      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -159,9 +159,9 @@
         "iPhoneDuo-iPhoneDuo"
       ],
       "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/fr/developer/jonathan-mark-schulman/id6773455174?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/ee/59/adee59ea-a924-c39c-3bad-e5beb68e413d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/ee/59/adee59ea-a924-c39c-3bad-e5beb68e413d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
       "averageUserRatingForCurrentVersion": 0,
       "sellerUrl": "https://greylineft8.com/",
       "languageCodesISO2A": [
@@ -171,6 +171,11 @@
       "formattedPrice": "3,99 €",
       "userRatingCountForCurrentVersion": 0,
       "trackContentRating": "4+",
+      "trackCensoredName": "Greyline FT8",
+      "trackViewUrl": "https://apps.apple.com/fr/app/greyline-ft8/id6773455172?uo=4",
+      "averageUserRating": 0,
+      "releaseNotes": "“The one with major audio upgrades”\n\nIMPORTANT! If you use a Digirig or other external audio interface, make sure to enable the new \"PTT tone on right channel\" option in the Audio settings!\n\nLove Greyline? Stop by my Ko-Fi! https://ko-fi.com/kb0rb \n\n**NOTE** - The WRL logging API is a work in progress, and I will continue to improve the app as their API evolves! What we have here now takes full advantage of what the service currently supports. Stay tuned for more features!\n\nBe sure to check the release notes for prior versions to see what's new! I update the app regularly in response to feedback like yours. Read them at https://greylineft8.com/changelog.html\n\nRemember that Greyline now has a comprehensive user manual at https://greylineft8.com/userguide.html - you’ll also find a button in the Settings view to take you there\n\nShoutouts: \nN1CDV - Reporting harmonic distortion on transmissions, significant audio waveform testing\nON4LDZ - Also reporting harmonic issues\n\nFeatures: \n- Added a UDP log forwarding option. This works just like the WSJT-X UDP log forwarder - all you have to do is enter an IP address and port. If you’re accessing devices on the same network as your iOS device, you may be prompted with a Local Network permissions dialog. This is great for sending your logs to local UDP listeners like N1MM, the WRL desktop applications, GridTracker, and more.\n- PTT tone for supported analog-to-digital devices. USB devices like the Digirig Lite and Mobile will now trigger their PTT more reliably with this setting enabled. Note that if you switch between a radio that uses a Digirig and one that uses native VOX, you should consider disabling this option when not using the Digirig. Greyline uses a tone that will not impact your own FT8 transmissions, but may disrupt others on nearby frequencies if it goes out on the air.\n- Finer grained control over the Drive slider. On the Tuning screen, you’ll see new +/- buttons for 1dB adjustments. On the slider next to the waterfall, you can tap the gain number and adjust in 1dB increments. On the iPhone, we also now provide haptic feedback as you drag the slider to help you land more precisely\n\nFixes:\n- A new low-pass Gaussian filter improves transmitted signal quality and reduces harmonics dramatically\n- FT8/FT4 signals are now only transmitted in left-channel mono, with the right channel reserved for the PTT tone. This dramatically improves signal clarity on transmission - Changes to the drive level are now smoothed out and won’t send large jumps or pops if you adjust while transmitting\n- Moved the looked up name for callsigns to the second row in the Gatherer queue screen, to keep the view cleaner - Fixed the “ACTIVE” badge wrapping to two lines in the Gatherer queue on iPhone\n- Corrected the status line when switching between automatic and fixed transmit frequencies\n- Fixed a minor sidebar jump that happened when switching between automatic and fixed TX frequencies\n\nThat’s it, that’s all, folks! Thanks for bringing me on your activations - now get out there and POTA on. 73!",
+      "contentAdvisoryRating": "4+",
       "artistId": 6773455174,
       "artistName": "JONATHAN MARK SCHULMAN",
       "genres": [
@@ -178,29 +183,24 @@
         "Éducation"
       ],
       "price": 3.99,
-      "sellerName": "JONATHAN MARK SCHULMAN",
       "releaseDate": "2026-06-11T07:00:00Z",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "trackId": 6773455172,
-      "trackName": "Greyline FT8",
       "minimumOsVersion": "26.5",
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
+      "isVppDeviceBasedLicensingEnabled": true,
       "genreIds": [
         "6002",
         "6017"
       ],
+      "sellerName": "JONATHAN MARK SCHULMAN",
+      "trackId": 6773455172,
+      "trackName": "Greyline FT8",
       "currentVersionReleaseDate": "2026-10-31T17:10:06Z",
-      "releaseNotes": "“The one with major audio upgrades”\n\nIMPORTANT! If you use a Digirig or other external audio interface, make sure to enable the new \"PTT tone on right channel\" option in the Audio settings!\n\nLove Greyline? Stop by my Ko-Fi! https://ko-fi.com/kb0rb \n\n**NOTE** - The WRL logging API is a work in progress, and I will continue to improve the app as their API evolves! What we have here now takes full advantage of what the service currently supports. Stay tuned for more features!\n\nBe sure to check the release notes for prior versions to see what's new! I update the app regularly in response to feedback like yours. Read them at https://greylineft8.com/changelog.html\n\nRemember that Greyline now has a comprehensive user manual at https://greylineft8.com/userguide.html - you’ll also find a button in the Settings view to take you there\n\nShoutouts: \nN1CDV - Reporting harmonic distortion on transmissions, significant audio waveform testing\nON4LDZ - Also reporting harmonic issues\n\nFeatures: \n- Added a UDP log forwarding option. This works just like the WSJT-X UDP log forwarder - all you have to do is enter an IP address and port. If you’re accessing devices on the same network as your iOS device, you may be prompted with a Local Network permissions dialog. This is great for sending your logs to local UDP listeners like N1MM, the WRL desktop applications, GridTracker, and more.\n- PTT tone for supported analog-to-digital devices. USB devices like the Digirig Lite and Mobile will now trigger their PTT more reliably with this setting enabled. Note that if you switch between a radio that uses a Digirig and one that uses native VOX, you should consider disabling this option when not using the Digirig. Greyline uses a tone that will not impact your own FT8 transmissions, but may disrupt others on nearby frequencies if it goes out on the air.\n- Finer grained control over the Drive slider. On the Tuning screen, you’ll see new +/- buttons for 1dB adjustments. On the slider next to the waterfall, you can tap the gain number and adjust in 1dB increments. On the iPhone, we also now provide haptic feedback as you drag the slider to help you land more precisely\n\nFixes:\n- A new low-pass Gaussian filter improves transmitted signal quality and reduces harmonics dramatically\n- FT8/FT4 signals are now only transmitted in left-channel mono, with the right channel reserved for the PTT tone. This dramatically improves signal clarity on transmission - Changes to the drive level are now smoothed out and won’t send large jumps or pops if you adjust while transmitting\n- Moved the looked up name for callsigns to the second row in the Gatherer queue screen, to keep the view cleaner - Fixed the “ACTIVE” badge wrapping to two lines in the Gatherer queue on iPhone\n- Corrected the status line when switching between automatic and fixed transmit frequencies\n- Fixed a minor sidebar jump that happened when switching between automatic and fixed TX frequencies\n\nThat’s it, that’s all, folks! Thanks for bringing me on your activations - now get out there and POTA on. 73!",
       "version": "1.6",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Greyline FT8 is a highly portable, capable amateur radio app designed specifically for field operation with an iOS device. \n\nI designed this app because I got very used to my full-stack FT8 solution: GridTracker, WSJT-X, PSK Reporter, WRL Desktop, several browser tabs, and more. But I didn't want the bulk and weight of a full Windows PC in the field. At the same time, while there are excellent and lightweight FT8 iOS solutions out there, they were lacking features I really wanted.\n\nGreyline is everything you need and nothing you don't. It automatically locates your grid square, performs callsign and calling station DXCC lookups (internet access required), and can even show you real-time spot data from PSK Reporter. Want to adjust your directional antenna? Now you've got the info you need to do it! \n\nGreyline also incorporates automated calling features. Gatherer mode calls CQ, responds to the first reply it gets, finishes the QSO and returns to calling CQ all without your input. On the other side of things, Hunter mode listens for CQ calls and pounces on them, finishing a QSO then returning to the live band to find the next. Or, take control of the conversation yourself with standard mode. That's the experience you're already used to from WSJT-X and other digital mode apps.\n\nSome other noteworthy features are:\n- Intelligent automatic free frequency selection\n- Dynamically adjusted audio delay for virtually drift-free message timing\n- PSK Reporter integrated Live Spots\n- Direct-to-QRZ, WRL and private Cloudlog logging and ADI export\n- Configurable waterfall settings\n- CQ addendums\n- CQ filtering for contesting and general courteous operation\n- Configurable retransmissions\n- Intelligent log recovery (didn't get that last 73 but want to log the contact anyway? Now you can!) \n- Log import and export\n- Antenna tuning\n- POTA Autospotting\n- One touch POTA activation and POTA.app-compatible ADIF export\n- Multiple POTA activation support\n- And so much more! \n\nGreyline uses audio VOX and not serial PTT. Most radios support this with simple cabling or an audio interface like a Digirig. For helpful tips on cabling and configuring popular radios, visit the Support URL below.\n\nBuilt by a ham, for hams, I'm very open to your feedback and hope Greyline can be your field companion.\n\nWant to share your own Field Notes (https://greylineft8.com/fieldnotes.html)? Email me at support@greylineft8.com!",
-      "trackCensoredName": "Greyline FT8",
-      "trackViewUrl": "https://apps.apple.com/fr/app/greyline-ft8/id6773455172?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 0,
       "bundleId": "com.kb0rb.Greyline",
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
       "userRatingCount": 0,
       "country": "FRA"
     }

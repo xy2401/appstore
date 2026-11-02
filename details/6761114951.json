@@ -2,7 +2,6 @@
   "resultCount": 2,
   "results": [
     {
-      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9a/55/68/9a556822-0224-0490-bb8c-824b334d37cf/AppStore-01__U00281_U0029.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c0/62/8a/c0628a58-4e67-f24d-a820-3a0792eac864/AppStore-02__U00281_U0029.png/320x480bb.jpg",
@@ -15,14 +14,11 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/64/a5/c8/64a5c85e-bc88-4647-f59a-0b755a399e4d/ipad-store-landscape.png/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/15/70/971570f7-3da2-e72b-b2df-20268d19d331/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/15/70/971570f7-3da2-e72b-b2df-20268d19d331/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/15/70/971570f7-3da2-e72b-b2df-20268d19d331/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/us/developer/justin-guitar/id502491353?uo=4",
+      "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
       ],
-      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -155,67 +151,55 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "advisories": [],
       "kind": "software",
-      "releaseNotes": "• Stability and performance improvements\n• Fixed occasional slowdowns when playing notes\n• Backing tracks and background music keep playing while you practice\n• Fixed Game Settings pickers so all options are selectable\n• Fixed occasional crash when rotating your device mid-game",
+      "artistViewUrl": "https://apps.apple.com/us/developer/justin-guitar/id502491353?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/15/70/971570f7-3da2-e72b-b2df-20268d19d331/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/15/70/971570f7-3da2-e72b-b2df-20268d19d331/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
       "averageUserRatingForCurrentVersion": 4.4,
       "sellerUrl": "https://www.justinguitar.com/store/note-trainer",
-      "averageUserRating": 4.4,
-      "trackCensoredName": "JustinGuitar Note Trainer",
       "languageCodesISO2A": [
         "EN"
       ],
       "fileSizeBytes": "42138624",
       "formattedPrice": "$4.99",
-      "contentAdvisoryRating": "4+",
       "userRatingCountForCurrentVersion": 5,
-      "trackViewUrl": "https://apps.apple.com/us/app/justinguitar-note-trainer/id6761114951?uo=4",
       "trackContentRating": "4+",
+      "releaseNotes": "• Stability and performance improvements\n• Fixed occasional slowdowns when playing notes\n• Backing tracks and background music keep playing while you practice\n• Fixed Game Settings pickers so all options are selectable\n• Fixed occasional crash when rotating your device mid-game",
+      "price": 4.99,
+      "minimumOsVersion": "15.1",
       "artistId": 502491353,
       "artistName": "Justin Guitar",
-      "genres": [
-        "Education",
-        "Music"
-      ],
-      "price": 4.99,
-      "bundleId": "com.justinguitar.notetrainer",
-      "sellerName": "Justin Guitar Ltd",
-      "primaryGenreName": "Education",
-      "primaryGenreId": 6017,
       "trackId": 6761114951,
       "trackName": "JustinGuitar Note Trainer",
-      "genreIds": [
-        "6017",
-        "6011"
-      ],
-      "currentVersionReleaseDate": "2026-08-31T23:15:29Z",
+      "bundleId": "com.justinguitar.notetrainer",
+      "primaryGenreName": "Education",
+      "primaryGenreId": 6017,
       "isVppDeviceBasedLicensingEnabled": true,
       "releaseDate": "2026-06-16T07:00:00Z",
+      "sellerName": "Justin Guitar Ltd",
+      "currentVersionReleaseDate": "2026-08-31T23:15:29Z",
       "version": "1.0.4",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Most guitar players never properly learn the notes on the fretboard. We memorize shapes and guess—and it works for a while. But when we try to improve, we hit a wall. JustinGuitar Note Trainer helps us learn the fretboard fast, in just 5 minutes a day. No diagrams. No memorizing charts. Just simple exercises that build a real understanding of the guitar neck.   We learn to find any note on the guitar fretboard, build a clear mental map across all strings, and stop guessing and actually know the notes. Short daily exercises perfect for busy schedules, smart repetition to reinforce weak spots, and practice anywhere with your phone. If we want to learn guitar notes properly, this is one of the most valuable skills we can build. Built by JustinGuitar.",
-      "minimumOsVersion": "15.1",
+      "trackCensoredName": "JustinGuitar Note Trainer",
+      "trackViewUrl": "https://apps.apple.com/us/app/justinguitar-note-trainer/id6761114951?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.4,
+      "genreIds": [
+        "6017",
+        "6011"
+      ],
+      "genres": [
+        "Education",
+        "Music"
+      ],
       "userRatingCount": 5,
       "country": "USA"
     },
     {
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/15/70/971570f7-3da2-e72b-b2df-20268d19d331/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/15/70/971570f7-3da2-e72b-b2df-20268d19d331/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/gb/developer/justin-guitar/id502491353?uo=4",
       "isGameCenterEnabled": false,
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/64/a5/c8/64a5c85e-bc88-4647-f59a-0b755a399e4d/ipad-store-landscape.png/360x480bb.jpg"
-      ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/15/70/971570f7-3da2-e72b-b2df-20268d19d331/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9a/55/68/9a556822-0224-0490-bb8c-824b334d37cf/AppStore-01__U00281_U0029.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c0/62/8a/c0628a58-4e67-f24d-a820-3a0792eac864/AppStore-02__U00281_U0029.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f8/e6/6d/f8e66d53-94f8-6cbc-a3fe-6080cb9d528f/AppStore-03.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/57/ea/07/57ea07dd-a09f-3b44-4c25-728d8711da3e/AppStore-04.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e6/d1/f9/e6d1f98e-fd90-5be4-3ddd-fa5d36b9c87b/AppStore-05.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d3/99/ef/d399ef9c-42dc-cac6-916c-1f77c1b443d5/AppStore-06.png/320x480bb.jpg"
-      ],
       "features": [
         "iosUniversal"
       ],
@@ -353,45 +337,61 @@
       ],
       "advisories": [],
       "kind": "software",
-      "averageUserRating": 5,
-      "contentAdvisoryRating": "4+",
-      "trackCensoredName": "JustinGuitar Note Trainer",
-      "trackViewUrl": "https://apps.apple.com/gb/app/justinguitar-note-trainer/id6761114951?uo=4",
-      "currentVersionReleaseDate": "2026-08-31T23:15:29Z",
-      "sellerUrl": "https://www.justinguitar.com/store/note-trainer",
-      "languageCodesISO2A": [
-        "EN"
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9a/55/68/9a556822-0224-0490-bb8c-824b334d37cf/AppStore-01__U00281_U0029.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c0/62/8a/c0628a58-4e67-f24d-a820-3a0792eac864/AppStore-02__U00281_U0029.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f8/e6/6d/f8e66d53-94f8-6cbc-a3fe-6080cb9d528f/AppStore-03.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/57/ea/07/57ea07dd-a09f-3b44-4c25-728d8711da3e/AppStore-04.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e6/d1/f9/e6d1f98e-fd90-5be4-3ddd-fa5d36b9c87b/AppStore-05.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d3/99/ef/d399ef9c-42dc-cac6-916c-1f77c1b443d5/AppStore-06.png/320x480bb.jpg"
       ],
-      "fileSizeBytes": "42138624",
-      "formattedPrice": "£4.99",
-      "userRatingCountForCurrentVersion": 2,
-      "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 5,
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/64/a5/c8/64a5c85e-bc88-4647-f59a-0b755a399e4d/ipad-store-landscape.png/360x480bb.jpg"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/15/70/971570f7-3da2-e72b-b2df-20268d19d331/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/15/70/971570f7-3da2-e72b-b2df-20268d19d331/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/15/70/971570f7-3da2-e72b-b2df-20268d19d331/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/gb/developer/justin-guitar/id502491353?uo=4",
+      "price": 4.99,
       "genres": [
         "Education",
         "Music"
       ],
-      "price": 4.99,
-      "releaseNotes": "• Stability and performance improvements\n• Fixed occasional slowdowns when playing notes\n• Backing tracks and background music keep playing while you practice\n• Fixed Game Settings pickers so all options are selectable\n• Fixed occasional crash when rotating your device mid-game",
-      "trackName": "JustinGuitar Note Trainer",
-      "trackId": 6761114951,
+      "artistId": 502491353,
+      "artistName": "Justin Guitar",
       "minimumOsVersion": "15.1",
+      "trackId": 6761114951,
+      "trackName": "JustinGuitar Note Trainer",
       "releaseDate": "2026-06-16T07:00:00Z",
-      "primaryGenreName": "Education",
-      "primaryGenreId": 6017,
+      "isVppDeviceBasedLicensingEnabled": true,
       "genreIds": [
         "6017",
         "6011"
       ],
       "sellerName": "Justin Guitar Ltd",
-      "isVppDeviceBasedLicensingEnabled": true,
+      "primaryGenreName": "Education",
+      "primaryGenreId": 6017,
+      "currentVersionReleaseDate": "2026-08-31T23:15:29Z",
+      "releaseNotes": "• Stability and performance improvements\n• Fixed occasional slowdowns when playing notes\n• Backing tracks and background music keep playing while you practice\n• Fixed Game Settings pickers so all options are selectable\n• Fixed occasional crash when rotating your device mid-game",
       "version": "1.0.4",
       "wrapperType": "software",
       "currency": "GBP",
       "description": "Most guitar players never properly learn the notes on the fretboard. We memorize shapes and guess—and it works for a while. But when we try to improve, we hit a wall. JustinGuitar Note Trainer helps us learn the fretboard fast, in just 5 minutes a day. No diagrams. No memorizing charts. Just simple exercises that build a real understanding of the guitar neck.   We learn to find any note on the guitar fretboard, build a clear mental map across all strings, and stop guessing and actually know the notes. Short daily exercises perfect for busy schedules, smart repetition to reinforce weak spots, and practice anywhere with your phone. If we want to learn guitar notes properly, this is one of the most valuable skills we can build. Built by JustinGuitar.",
+      "averageUserRatingForCurrentVersion": 5,
+      "sellerUrl": "https://www.justinguitar.com/store/note-trainer",
+      "trackViewUrl": "https://apps.apple.com/gb/app/justinguitar-note-trainer/id6761114951?uo=4",
+      "trackContentRating": "4+",
+      "averageUserRating": 5,
+      "trackCensoredName": "JustinGuitar Note Trainer",
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "fileSizeBytes": "42138624",
+      "formattedPrice": "£4.99",
+      "contentAdvisoryRating": "4+",
+      "userRatingCountForCurrentVersion": 2,
       "bundleId": "com.justinguitar.notetrainer",
-      "artistId": 502491353,
-      "artistName": "Justin Guitar",
       "userRatingCount": 2,
       "country": "GBR"
     }

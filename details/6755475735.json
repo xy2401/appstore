@@ -198,6 +198,9 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8f/3c/87/8f3c8732-69a8-ac60-fc80-e2d123fc9346/07-model-test.jpg/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0a/07/af/0a07af40-2a19-f417-f352-b2df3fdd58cd/08-visual-rewrite.jpg/320x480bb.jpg"
       ],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/ad/11/cead1146-1219-9f03-ff40-cbb88affcf2f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/ad/11/cead1146-1219-9f03-ff40-cbb88affcf2f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/cn/developer/%E9%B9%8F-%E5%94%90/id1596303087?uo=4",
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ed/3a/a9/ed3aa9ed-b65b-3a78-5793-cc3acaf56807/01-filtering.jpg/360x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/95/8e/44/958e44b8-7465-0b9a-472f-02d3cbf55948/02-blocklist.jpg/360x480bb.jpg",
@@ -210,9 +213,6 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/ad/11/cead1146-1219-9f03-ff40-cbb88affcf2f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/ad/11/cead1146-1219-9f03-ff40-cbb88affcf2f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/ad/11/cead1146-1219-9f03-ff40-cbb88affcf2f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/cn/developer/%E9%B9%8F-%E5%94%90/id1596303087?uo=4",
       "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
@@ -351,11 +351,8 @@
       ],
       "advisories": [],
       "kind": "software",
-      "releaseNotes": "本次更新带来更多个性化设置，并优化拦截效果与使用稳定性：\n\n• 小组件支持分别设置 Jinx 开启和关闭时的配色，让连接状态更直观。\n• 排查模式新增实时活动，可在锁屏和灵动岛查看剩余时间。\n• 优化 AI 分析结果，支持多选、批量添加黑名单及失败重试，减少重复建议。\n• 改善域名解析与规则匹配兼容性，优化 DNS 查询和临时失败后的恢复。\n• 修复部分会员购买、恢复购买及权益状态显示异常。\n• 优化启动和返回前台时的响应，改善内存紧张时的拦截稳定性，减少崩溃。\n• 修复个人模型训练、转发配置保存与应用等问题，并完善多语言显示。",
-      "trackViewUrl": "https://apps.apple.com/cn/app/jinx-%E6%9E%81%E7%AE%80%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA%E4%B8%8E%E9%9A%90%E7%A7%81%E4%BF%9D%E6%8A%A4/id6755475735?uo=4",
-      "trackContentRating": "9+",
-      "averageUserRatingForCurrentVersion": 4.42289,
-      "averageUserRating": 4.42289,
+      "userRatingCountForCurrentVersion": 2100,
+      "averageUserRating": 4.41333,
       "trackCensoredName": "Jinx - 极简广告拦截与隐私保护",
       "languageCodesISO2A": [
         "AR",
@@ -377,7 +374,11 @@
       "fileSizeBytes": "103644160",
       "formattedPrice": "免费",
       "contentAdvisoryRating": "9+",
-      "userRatingCountForCurrentVersion": 2088,
+      "trackViewUrl": "https://apps.apple.com/cn/app/jinx-%E6%9E%81%E7%AE%80%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA%E4%B8%8E%E9%9A%90%E7%A7%81%E4%BF%9D%E6%8A%A4/id6755475735?uo=4",
+      "trackContentRating": "9+",
+      "averageUserRatingForCurrentVersion": 4.41333,
+      "currentVersionReleaseDate": "2026-10-31T00:56:46Z",
+      "releaseNotes": "本次更新带来更多个性化设置，并优化拦截效果与使用稳定性：\n\n• 小组件支持分别设置 Jinx 开启和关闭时的配色，让连接状态更直观。\n• 排查模式新增实时活动，可在锁屏和灵动岛查看剩余时间。\n• 优化 AI 分析结果，支持多选、批量添加黑名单及失败重试，减少重复建议。\n• 改善域名解析与规则匹配兼容性，优化 DNS 查询和临时失败后的恢复。\n• 修复部分会员购买、恢复购买及权益状态显示异常。\n• 优化启动和返回前台时的响应，改善内存紧张时的拦截稳定性，减少崩溃。\n• 修复个人模型训练、转发配置保存与应用等问题，并完善多语言显示。",
       "artistId": 1596303087,
       "artistName": "鹏 唐",
       "genres": [
@@ -386,24 +387,23 @@
       ],
       "price": 0,
       "bundleId": "com.appstudio.Jinx",
-      "minimumOsVersion": "15.0",
-      "releaseDate": "2025-11-23T08:00:00Z",
-      "trackId": 6755475735,
       "trackName": "Jinx - 极简广告拦截与隐私保护",
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
+      "releaseDate": "2025-11-23T08:00:00Z",
+      "minimumOsVersion": "15.0",
       "genreIds": [
         "6002",
         "6007"
       ],
+      "trackId": 6755475735,
       "sellerName": "鹏 唐",
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
       "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-10-31T00:56:46Z",
       "version": "5.1.1",
       "wrapperType": "software",
       "currency": "CNY",
       "description": "少些广告干扰，把注意力留给真正想看的内容。\n\n打开一篇文章，想安静地读完；使用日常 App，希望少些打断；遇到异常拦截，也想知道原因。Jinx 从这些小事出发，把广告与追踪请求过滤、规则管理、请求日志和本地 AI 分析放进一个清晰、顺手的工具里，让你的数字日常更清净，也更可控。\n\n【内置 30 万＋条规则，从容开始】\n不必从零收集一条条规则。Jinx 内置 30 万＋条过滤规则，为广告与追踪请求的识别提供丰富的规则基础，覆盖域名与 URL 等不同层面的匹配需求。日常使用可以从内置规则开始，需要更细致的控制时，再加入自己的规则，逐步整理出适合你的过滤方案。\n\n【从域名到 URL，过滤更有分寸】\n通过 DNS 规则过滤匹配的广告与追踪域名，减少网页与支持的 App 中相应请求带来的干扰。完成深度拦截和证书设置后，还可对支持的 HTTPS 请求应用更细致的 URL 规则。面对同一域名下不同用途的请求，你可以按具体地址设置规则，让过滤更贴近实际需要。\n\n【该拦的拦，该保留的由你决定】\n黑名单用于拦截不想要的请求，白名单用于保留需要的访问。遇到内容加载异常，可以先查看日志，再为相应地址设置例外；发现遗漏，也能根据实际请求补充规则。支持域名、完整 URL 和适用的 * 通配符，以及规则启用、停用、个人规则导入与导出。结合远程规则和第三方规则源，把日常过滤与个性化调整放在同一个地方管理。\n\n【请求看得见，调整有依据】\n某个请求为什么被拦截？哪个地址被放行了？在请求日志中搜索域名或 URL，按请求类型、处理状态和规则来源筛选，进入详情查看线索。配合首页的今日拦截、累计拦截与查询统计，既能了解整体情况，也能顺着一条具体记录排查误拦或遗漏，让每次调整都有迹可循。\n\n【让本地 AI 帮你发现值得关注的线索】\n面对密集的请求记录，本地模型可辅助分析广告与追踪特征，提示可能漏拦或需要复核的请求，帮助你缩小检查范围。你还可以标注个人样本、训练个人模型，并用模型测试比较判断结果，让分析更贴近自己的使用场景。AI 分析与模型处理在设备端进行，结果仅供参考；是否添加或调整规则，始终由你决定。\n\n【可视化重写，把细节看清再修改】\n为愿意进一步探索的用户，Jinx 提供可视化重写工作台。在支持的请求中查看结构化内容，定位 URL 参数、请求头、响应头或 JSON 字段，创建相应修改，并在保存规则前预览结果。从发现内容、定位字段到检查修改，形成一条看得见的操作路径，减少手工编辑的来回切换。相关能力取决于请求类型与内容，部分 App 或 HTTPS 请求无法解析。\n\n【每天打开，也想用得舒服】\n选择喜欢的主题与深色外观，用小组件查看关键统计，借助快捷指令安排常用操作。在 iPhone 上随手检查，在 iPad 和 iPhone Duo 的更大空间里浏览列表与详情，自适应布局让规则、日志与分析各得其所。\n\n从希望少些打扰，到愿意亲手调整每一条规则，Jinx 都为你留出选择。把注意力还给内容，把过滤的决定权留给自己。\n\n过滤效果取决于规则、网络环境和 App 的实现方式，无法保证移除所有广告。HTTPS 相关功能需要完成相应设置。部分功能需要内购，具体权益与可用方案以 App 内说明为准。\n\n【自动续费订阅说明】\n自动续费项目：Jinx VIP 月度订阅、Jinx Pro+ 月度订阅，周期均为 1 个月。实际可购买项目及当地价格以 App 内购买页面为准。\n确认购买后，费用将从你的 Apple 账户扣除。除非在当前订阅期结束至少 24 小时前取消，订阅将自动续订；续订费用将在当前周期结束前 24 小时内扣除。\n管理或取消：打开系统「设置」> 点击你的姓名 >「订阅」> 选择 Jinx >「取消订阅」。取消后，可继续使用至当前已付费周期结束。一次性购买项目不会自动续费。\n\n服务协议：https://juejin.cn/post/7574230922314301446\nApple 标准许可协议：https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\n隐私政策：https://juejin.cn/post/7574230586970669062",
-      "userRatingCount": 2088,
+      "userRatingCount": 2100,
       "country": "CHN"
     }
   ]

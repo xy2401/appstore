@@ -3,10 +3,6 @@
   "results": [
     {
       "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -139,6 +135,7 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "advisories": [],
       "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ce/05/e3/ce05e3b2-9cd2-4d4d-ae74-f1840adf8cef/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2026-09-17_at_15.50.08.png/320x480bb.jpg",
@@ -167,8 +164,9 @@
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/8c/43/698c430f-15b3-93e1-b153-9958ea2a7f8c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/8c/43/698c430f-15b3-93e1-b153-9958ea2a7f8c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
       "artistViewUrl": "https://apps.apple.com/us/developer/albert-haskie/id1697437861?uo=4",
-      "averageUserRatingForCurrentVersion": 3.8125,
-      "releaseNotes": "This update adds full audio support across the app:\n\nAudio has been added to both the Verb Dictionary and General Dictionary, covering over 20,000 recorded voice lines.\nThe Spelling mini-game now includes audio playback for each word.\nNew iOS widgets let users view their favorite words or the Word of the Day directly from the home screen.\niPad support has been added, including a redesigned UI optimized for larger screens, with widget support included.\nVarious fine-tuning and quality improvements to newly added audio.",
+      "features": [
+        "iosUniversal"
+      ],
       "artistId": 1697437861,
       "artistName": "Albert Haskie",
       "genres": [
@@ -176,23 +174,25 @@
         "Reference"
       ],
       "price": 24.99,
-      "minimumOsVersion": "15.1",
+      "trackId": 6762313225,
+      "trackName": "Dine Bizaad",
+      "sellerName": "Albert Haskie",
+      "primaryGenreName": "Education",
+      "primaryGenreId": 6017,
       "genreIds": [
         "6017",
         "6006"
       ],
-      "isVppDeviceBasedLicensingEnabled": true,
+      "minimumOsVersion": "15.1",
       "releaseDate": "2026-04-30T07:00:00Z",
-      "trackId": 6762313225,
-      "trackName": "Dine Bizaad",
-      "primaryGenreName": "Education",
-      "primaryGenreId": 6017,
+      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-09-21T22:42:52Z",
+      "releaseNotes": "This update adds full audio support across the app:\n\nAudio has been added to both the Verb Dictionary and General Dictionary, covering over 20,000 recorded voice lines.\nThe Spelling mini-game now includes audio playback for each word.\nNew iOS widgets let users view their favorite words or the Word of the Day directly from the home screen.\niPad support has been added, including a redesigned UI optimized for larger screens, with widget support included.\nVarious fine-tuning and quality improvements to newly added audio.",
       "version": "Dine Bizaad - Audio",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Unlock the beauty of the Navajo language with Diné Bizaad.\nDiné Bizaad is the ultimate learning tool, designed and built entirely by indigenous creators to preserve and share the authentic heart of the Navajo language. Whether you are a beginner or a fluent speaker, this app provides an unparalleled depth of resources to help you become more fluent. \nWhy Choose Diné Bizaad?\nMassive Library: Access a database of over 30,000 words, making it the most extensive digital Navajo dictionary available.\nInteractive Learning: Test your knowledge with dynamic quizzes that track your progress and build confidence in your speaking and writing skills.\nInstant Conversions: Use our powerful engine for immediate English-to-Navajo and Navajo-to-English translations.\nAuthentically Made: Every word and feature is crafted by native speakers to ensure cultural accuracy and proper pronunciation.\nKey Features:\nComprehensive Search: Quickly find any word or phrase.\nVocabulary Lessons: Focused on daily life, community, and Diné culture.\nStudy Modes: Flashcards and spelling challenges to reinforce learning.\nOffline Access: Learn anywhere, even without an internet connection.\nJoin the movement to keep our language and identity strong. Download Diné Bizaad and start your journey today.",
-      "sellerUrl": "https://www.adoonee.com/dine-bizaad",
+      "averageUserRatingForCurrentVersion": 3.8125,
       "averageUserRating": 3.8125,
       "trackCensoredName": "Dine Bizaad",
       "languageCodesISO2A": [
@@ -204,8 +204,8 @@
       "userRatingCountForCurrentVersion": 16,
       "trackViewUrl": "https://apps.apple.com/us/app/dine-bizaad/id6762313225?uo=4",
       "trackContentRating": "4+",
+      "sellerUrl": "https://www.adoonee.com/dine-bizaad",
       "bundleId": "com.nyzhon172.DineBizaadApp",
-      "sellerName": "Albert Haskie",
       "userRatingCount": 16,
       "country": "USA"
     }

@@ -2,7 +2,10 @@
   "resultCount": 1,
   "results": [
     {
-      "isGameCenterEnabled": false,
+      "advisories": [
+        "无限制网页访问"
+      ],
+      "features": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -135,11 +138,11 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [
-        "无限制网页访问"
-      ],
+      "isGameCenterEnabled": false,
       "kind": "software",
-      "features": [],
+      "artistViewUrl": "https://apps.apple.com/cn/developer/%E5%B1%B1%E4%B8%9C%E8%BE%B0%E5%8D%81%E4%B8%89%E5%81%A5%E8%BA%AB%E9%9B%86%E5%9B%A2%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/id1816683992?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/e3/3c/46e33ccc-4416-5dfa-5493-4af0be708650/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/e3/3c/46e33ccc-4416-5dfa-5493-4af0be708650/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/22/ba/70/22ba7053-23b8-0bf8-909a-024191a87e55/_U5207_U56fe_693.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/de/20/b8/de20b89a-da2d-d665-fa7a-8477c2be6c87/_U5207_U56fe_694.png/320x480bb.jpg",
@@ -150,33 +153,35 @@
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/e3/3c/46e33ccc-4416-5dfa-5493-4af0be708650/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/cn/developer/%E5%B1%B1%E4%B8%9C%E8%BE%B0%E5%8D%81%E4%B8%89%E5%81%A5%E8%BA%AB%E9%9B%86%E5%9B%A2%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/id1816683992?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/e3/3c/46e33ccc-4416-5dfa-5493-4af0be708650/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/e3/3c/46e33ccc-4416-5dfa-5493-4af0be708650/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.jpg",
+      "currentVersionReleaseDate": "2026-10-24T17:38:44Z",
       "artistId": 1816683992,
       "artistName": "山东辰十三健身集团有限公司",
       "genres": [
         "体育"
       ],
       "price": 1,
+      "releaseNotes": "修复已知问题,优化用户体验",
+      "bundleId": "com.jinshugou.app",
       "releaseDate": "2025-06-06T07:00:00Z",
       "trackId": 6746405692,
       "trackName": "金属狗",
-      "releaseNotes": "修复已知问题,优化用户体验",
       "minimumOsVersion": "15.0",
       "genreIds": [
         "6004"
       ],
-      "isVppDeviceBasedLicensingEnabled": true,
       "primaryGenreName": "Sports",
       "primaryGenreId": 6004,
       "sellerName": "Shandong Chenshi San Fitness Group Co.,Ltd.",
-      "currentVersionReleaseDate": "2026-10-24T17:38:44Z",
+      "isVppDeviceBasedLicensingEnabled": true,
       "version": "4.1.79",
       "wrapperType": "software",
       "currency": "CNY",
       "description": "我们坚信，每个人都应该拥有自由，便捷，个性化的健身方式。金属狗26小时共享健身房的诞生，源于对现代生活节奏的深刻理解和对人们追求健康的尊重。\n       我们倡导“自律及自由”的理念，让每一位用户可以按次付费，不同于传统的健身模式，依靠人工线下推销卡片，而是把选择权交由会员自己。\n       同时我们致力于打造一个充满科技感，人性化的健身空间，让健身不在是一种负担，而是一种享受，一种生活态度。",
-      "bundleId": "com.jinshugou.app",
+      "trackCensoredName": "金属狗",
+      "trackViewUrl": "https://apps.apple.com/cn/app/%E9%87%91%E5%B1%9E%E7%8B%97/id6746405692?uo=4",
+      "contentAdvisoryRating": "17+",
+      "averageUserRatingForCurrentVersion": 3.28571,
+      "averageUserRating": 3.28571,
       "languageCodesISO2A": [
         "EN",
         "ZH"
@@ -185,11 +190,6 @@
       "formattedPrice": "¥1.00",
       "userRatingCountForCurrentVersion": 35,
       "trackContentRating": "17+",
-      "averageUserRatingForCurrentVersion": 3.28571,
-      "trackCensoredName": "金属狗",
-      "trackViewUrl": "https://apps.apple.com/cn/app/%E9%87%91%E5%B1%9E%E7%8B%97/id6746405692?uo=4",
-      "averageUserRating": 3.28571,
-      "contentAdvisoryRating": "17+",
       "userRatingCount": 35,
       "country": "CHN"
     }

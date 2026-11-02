@@ -24,13 +24,14 @@
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/89/e2/ac89e240-7aa9-6728-8067-bd9b2ad4d4a7/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
       "isGameCenterEnabled": false,
+      "advisories": [],
+      "kind": "software",
       "artistViewUrl": "https://apps.apple.com/jp/developer/zoom-communications-inc/id530594111?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/89/e2/ac89e240-7aa9-6728-8067-bd9b2ad4d4a7/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/89/e2/ac89e240-7aa9-6728-8067-bd9b2ad4d4a7/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.jpg",
       "features": [
         "iosUniversal"
       ],
-      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -163,7 +164,6 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "kind": "software",
       "averageUserRatingForCurrentVersion": 4.48773,
       "languageCodesISO2A": [
         "NL",
@@ -184,15 +184,14 @@
         "TR",
         "VI"
       ],
-      "sellerUrl": "https://zoom.us",
-      "fileSizeBytes": "384306176",
       "formattedPrice": "無料",
       "userRatingCountForCurrentVersion": 3793,
       "trackContentRating": "4+",
-      "averageUserRating": 4.48773,
+      "sellerUrl": "https://zoom.us",
+      "fileSizeBytes": "384306176",
       "trackCensoredName": "Zoom Workplace for Intune",
       "trackViewUrl": "https://apps.apple.com/jp/app/zoom-workplace-for-intune/id1462818858?uo=4",
-      "contentAdvisoryRating": "4+",
+      "releaseNotes": "• iPhone Duo support\n• Bug fixes and improvements",
       "artistId": 530594111,
       "artistName": "Zoom Communications, Inc.",
       "genres": [
@@ -200,25 +199,26 @@
         "仕事効率化"
       ],
       "price": 0,
+      "bundleId": "us.zoom.videomeetings4intune",
+      "trackId": 1462818858,
+      "trackName": "Zoom Workplace for Intune",
+      "releaseDate": "2019-05-24T00:24:35Z",
+      "isVppDeviceBasedLicensingEnabled": true,
       "genreIds": [
         "6000",
         "6007"
       ],
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseDate": "2019-05-24T00:24:35Z",
-      "trackId": 1462818858,
-      "trackName": "Zoom Workplace for Intune",
+      "minimumOsVersion": "18.0",
+      "primaryGenreName": "Business",
+      "primaryGenreId": 6000,
+      "sellerName": "Zoom Communications, Inc.",
       "currentVersionReleaseDate": "2026-11-01T01:06:40Z",
-      "releaseNotes": "• iPhone Duo support\n• Bug fixes and improvements",
       "version": "7.2.5",
       "wrapperType": "software",
       "currency": "JPY",
       "description": "Zoom Workplace for Intune is for admins to organize and help protect BYOD environments with mobile application management (MAM). This app helps admins to protect corporate data while keeping employees connected.\n\nReimagine how you work with Zoom Workplace, an all-in-one, AI-powered collaboration platform that combines team chat, meetings, phone, whiteboard, calendar, mail, notes, and more.\n\nIf you are looking for the end-user version of Zoom Workplace, download it here: https://itunes.apple.com/us/app/zoom-cloud-meetings/id546505307?mt=8\n\nZoom Workplace for Intune gives enterprise users all the features they expect from Zoom, while providing IT administrators expanded mobile app management capabilities to help prevent leakage of company information. And in the event of a lost or stolen device, IT can remove Zoom Workplace from the iPhone or iPad, along with any sensitive data associated with it.\n\nIMPORTANT: This software requires your company’s work account and a Microsoft managed environment. Some functionality may not be available in all countries. If you have issues with this software or have questions about the use of it (including questions about your company’s privacy policy), please contact your company’s IT Administrator.\n\nFollow us on social media @zoom\n\nHave a question? Contact us at http://support.zoom.us.",
-      "bundleId": "us.zoom.videomeetings4intune",
-      "sellerName": "Zoom Communications, Inc.",
-      "minimumOsVersion": "18.0",
-      "primaryGenreName": "Business",
-      "primaryGenreId": 6000,
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.48773,
       "userRatingCount": 3793,
       "country": "JPN"
     }

@@ -220,14 +220,6 @@
     },
     {
       "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [
-        "Infrequent/Mild Mature/Suggestive Themes",
-        "Infrequent/Mild Profanity or Crude Humor",
-        "Infrequent/Mild Sexual Content and Nudity"
-      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -360,6 +352,11 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "advisories": [
+        "Infrequent/Mild Mature/Suggestive Themes",
+        "Infrequent/Mild Profanity or Crude Humor",
+        "Infrequent/Mild Sexual Content and Nudity"
+      ],
       "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/06/6d/25/066d25b3-5b9c-62d8-e5a3-1bec99499f32/iOS-5_5in-1.png/392x696bb.png",
@@ -384,8 +381,9 @@
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/92/da/c2/92dac208-7981-bb06-d3ff-3d779bf1ebfc/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/92/da/c2/92dac208-7981-bb06-d3ff-3d779bf1ebfc/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
       "artistViewUrl": "https://apps.apple.com/us/developer/skype-communications-s-a-r-l/id304219585?uo=4",
-      "averageUserRatingForCurrentVersion": 4.71982,
-      "releaseNotes": "- Manage Active Sessions: See where you're signed in and sign out of other devices.\n- See your Former Groups: Groups you left now show in your chat list.\n- Sports, Refreshed: New sports layouts in Discover and Campus, and smoother game scores.\n- Smoother Sending: Enjoy fresh send animations, plus separate controls for sound and vibration.\n- Improved Reliability & Accessibility: Fixes for crashes, freezes and @mentions, and improved VoiceOver.\nThanks for hanging out on GroupMe. More great updates are on the way",
+      "features": [
+        "iosUniversal"
+      ],
       "artistId": 304219585,
       "artistName": "Skype Communications S.a.r.l",
       "genres": [
@@ -393,23 +391,25 @@
         "Lifestyle"
       ],
       "price": 0,
-      "minimumOsVersion": "16.0",
+      "trackId": 392796698,
+      "trackName": "GroupMe",
+      "sellerName": "Skype Communications S.a.r.l",
+      "primaryGenreName": "Social Networking",
+      "primaryGenreId": 6005,
       "genreIds": [
         "6005",
         "6012"
       ],
-      "isVppDeviceBasedLicensingEnabled": true,
+      "minimumOsVersion": "16.0",
       "releaseDate": "2010-09-25T23:16:39Z",
-      "trackId": 392796698,
-      "trackName": "GroupMe",
-      "primaryGenreName": "Social Networking",
-      "primaryGenreId": 6005,
+      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-10-22T10:59:45Z",
+      "releaseNotes": "- Manage Active Sessions: See where you're signed in and sign out of other devices.\n- See your Former Groups: Groups you left now show in your chat list.\n- Sports, Refreshed: New sports layouts in Discover and Campus, and smoother game scores.\n- Smoother Sending: Enjoy fresh send animations, plus separate controls for sound and vibration.\n- Improved Reliability & Accessibility: Fixes for crashes, freezes and @mentions, and improved VoiceOver.\nThanks for hanging out on GroupMe. More great updates are on the way",
       "version": "16.30",
       "wrapperType": "software",
       "currency": "USD",
       "description": "GroupMe - the free, simple way to stay in touch with the people who matter most.\n\nFamily. Roommates. Friends. Coworkers. Teams. Vacations. Greek Life. Bands. Faith Groups. Events. \n\n“Lifechanger.... utterly indispensable”\n-Gizmodo\n\nSTART CHATTING \nAdd anyone to a group via their phone number or email address. If they don’t have the app, they can start chatting over SMS immediately.\n\nCONTROL NOTIFICATIONS \nYou’re in charge! Mute specific chats, or the entire app – you can even leave or end group chats.\n\nSAY MORE THAN WORDS\nWith an extensive set of exclusive emoji, you can express yourself in a whole new way.\n\nTHE WHOLE INTERNET IN YOUR GROUP \nMeme images, search for and send GIFs and videos, and see content shared from URLs displayed in the chat.\n\nSHARE NOW, RELIVE LATER\nThe gallery saves your memories. Easily explore the photos and videos shared in your group now, or later.\n\nLEAVE TEXTING BEHIND\nWith direct messages, you can use all the features you love for group chat, but one-on-one. \n\nCHAT WHEREVER YOU ARE \nIncluding from your computer at groupme.com\n\nStay in touch whether you’re separated by a hallway or a hemisphere.  Get your group together. \n\nWe want to hear your feedback!  \nSupport: https://aka.ms/groupmesupport\nTwitter: @GroupMeSupport\nFacebook: facebook.com/groupme\nInstagram: @GroupMe\n\nLove,\nTeam GroupMe\n\nNOTE: SMS chat currently available in US only. Standard text messaging rates may apply.\n\nPrivacy Policy: https://groupme.com/privacy\n\nMade with love in Seattle",
-      "sellerUrl": "https://groupme.com/",
+      "averageUserRatingForCurrentVersion": 4.71982,
       "averageUserRating": 4.71982,
       "trackCensoredName": "GroupMe",
       "languageCodesISO2A": [
@@ -431,12 +431,12 @@
       "fileSizeBytes": "403341312",
       "formattedPrice": "Free",
       "contentAdvisoryRating": "12+",
-      "userRatingCountForCurrentVersion": 1559144,
+      "userRatingCountForCurrentVersion": 1559156,
       "trackViewUrl": "https://apps.apple.com/us/app/groupme/id392796698?uo=4",
       "trackContentRating": "12+",
+      "sellerUrl": "https://groupme.com/",
       "bundleId": "com.groupme.iphone-app",
-      "sellerName": "Skype Communications S.a.r.l",
-      "userRatingCount": 1559144,
+      "userRatingCount": 1559156,
       "country": "USA"
     }
   ]

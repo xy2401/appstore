@@ -2,10 +2,18 @@
   "resultCount": 1,
   "results": [
     {
-      "features": [
-        "iosUniversal"
-      ],
+      "artistViewUrl": "https://apps.apple.com/de/developer/audiothing-ltd/id1659941236?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/bb/2b/5bbb2be8-3dc6-bab0-dd42-4aa8a1ff1fad/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/bb/2b/5bbb2be8-3dc6-bab0-dd42-4aa8a1ff1fad/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/be/7c/a3/be7ca33e-31f6-f358-8e02-ce43db1fb2de/Materia-iPhone-preview.jpg/320x480bb.jpg"
+      ],
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/34/f8/0a/34f80ac9-adca-9b58-4053-d59c4dd1ef58/Materia-iPad-preview.jpg/360x480bb.jpg"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/bb/2b/5bbb2be8-3dc6-bab0-dd42-4aa8a1ff1fad/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -140,51 +148,43 @@
       ],
       "advisories": [],
       "kind": "software",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/be/7c/a3/be7ca33e-31f6-f358-8e02-ce43db1fb2de/Materia-iPhone-preview.jpg/320x480bb.jpg"
+      "features": [
+        "iosUniversal"
       ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/34/f8/0a/34f80ac9-adca-9b58-4053-d59c4dd1ef58/Materia-iPad-preview.jpg/360x480bb.jpg"
+      "trackCensoredName": "Materia - Additive Synth",
+      "trackViewUrl": "https://apps.apple.com/de/app/materia-additive-synth/id6795996573?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 5,
+      "averageUserRatingForCurrentVersion": 5,
+      "fileSizeBytes": "39842816",
+      "formattedPrice": "9,99 €",
+      "userRatingCountForCurrentVersion": 1,
+      "trackContentRating": "4+",
+      "sellerUrl": "https://www.audiothing.net/instruments/materia/",
+      "languageCodesISO2A": [],
+      "artistId": 1659941236,
+      "artistName": "AudioThing Ltd.",
+      "genres": [
+        "Musik"
       ],
-      "artistViewUrl": "https://apps.apple.com/de/developer/audiothing-ltd/id1659941236?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/bb/2b/5bbb2be8-3dc6-bab0-dd42-4aa8a1ff1fad/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/bb/2b/5bbb2be8-3dc6-bab0-dd42-4aa8a1ff1fad/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/bb/2b/5bbb2be8-3dc6-bab0-dd42-4aa8a1ff1fad/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "releaseDate": "2026-10-30T07:00:00Z",
       "price": 9.99,
-      "genreIds": [
-        "6011"
-      ],
-      "trackName": "Materia - Additive Synth",
-      "trackId": 6795996573,
       "minimumOsVersion": "15.0",
-      "bundleId": "com.AudioThing.Materia",
       "primaryGenreName": "Music",
       "primaryGenreId": 6011,
       "sellerName": "AudioThing Ltd.",
+      "genreIds": [
+        "6011"
+      ],
+      "releaseDate": "2026-10-30T07:00:00Z",
+      "trackId": 6795996573,
+      "trackName": "Materia - Additive Synth",
       "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-10-30T16:26:48Z",
       "version": "1.0",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Materia is an additive re-synthesizer that transforms any sample into a playable instrument. Load a sample and Materia analyses it into harmonic partials, each with its own frequency, amplitude, phase, and complex envelope.\nFrom there, you can reshape the spectrum, redraw how individual partials evolve, add resonant material models, filtering, and modulation, then play the result polyphonically. Keep the character of the original sample or push it into completely new territory.",
-      "averageUserRatingForCurrentVersion": 5,
-      "trackCensoredName": "Materia - Additive Synth",
-      "trackViewUrl": "https://apps.apple.com/de/app/materia-additive-synth/id6795996573?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 5,
-      "languageCodesISO2A": [],
-      "fileSizeBytes": "39842816",
-      "formattedPrice": "9,99 €",
-      "userRatingCountForCurrentVersion": 1,
-      "trackContentRating": "4+",
-      "sellerUrl": "https://www.audiothing.net/instruments/materia/",
-      "genres": [
-        "Musik"
-      ],
-      "artistId": 1659941236,
-      "artistName": "AudioThing Ltd.",
+      "bundleId": "com.AudioThing.Materia",
       "userRatingCount": 1,
       "country": "DEU"
     }

@@ -195,10 +195,10 @@
       "userRatingCount": 118
     },
     {
-      "artistViewUrl": "https://apps.apple.com/cn/developer/ludan-cui/id1403694478?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/05/60/cb0560d7-a0b0-fb68-c2b6-999c3e7abc5a/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/05/60/cb0560d7-a0b0-fb68-c2b6-999c3e7abc5a/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -348,39 +348,36 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/74/96/d6/7496d607-bb55-5e91-af75-12212a063f08/04-saves.png/576x768bb.png"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/05/60/cb0560d7-a0b0-fb68-c2b6-999c3e7abc5a/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
-      "releaseNotes": "修复了设置界面的卡顿问题（现已即时打开），并为屏幕虚拟手柄加入震动反馈，手感更真实。",
-      "trackCensoredName": "RPGViewer",
-      "trackViewUrl": "https://apps.apple.com/cn/app/rpgviewer/id6479395335?uo=4",
-      "contentAdvisoryRating": "9+",
-      "averageUserRating": 3.75,
-      "artistId": 1403694478,
-      "artistName": "Ludan Cui",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/79/1b/9c791b88-cc2f-c9ad-6a2a-28b2235a8574/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/cn/developer/ludan-cui/id1403694478?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/79/1b/9c791b88-cc2f-c9ad-6a2a-28b2235a8574/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/79/1b/9c791b88-cc2f-c9ad-6a2a-28b2235a8574/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.jpg",
+      "releaseNotes": "真实手柄支持：新增原生物理手柄桥接，连接 Xbox / PS 等手柄后，可直接游玩 MV / MZ / RGSS 游戏。\n屏幕操控升级：新增 360° 模拟摇杆移动控制，方向手感更顺；虚拟方向键改为八方向网格并放大显示，更好按；进游戏前可在启动页选择「方向键 / 摇杆」。\n按键映射更自由：开放全键盘映射（MV / MZ 也支持），可以把任意键（比如 C 键）绑到游戏动作上。\n存档更可靠：修复存档偶尔写错位置、丢失文件夹的问题，存档不再莫名丢失。",
+      "bundleId": "ld.fkapp.mveditor",
       "genres": [
         "工具",
         "娱乐"
       ],
       "price": 38,
-      "bundleId": "ld.fkapp.mveditor",
-      "trackName": "RPGViewer",
-      "trackId": 6479395335,
+      "releaseDate": "2024-04-07T07:00:00Z",
       "minimumOsVersion": "15.0",
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "Ludan Cui",
       "genreIds": [
         "6002",
         "6016"
       ],
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
-      "sellerName": "Ludan Cui",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-10-28T19:19:40Z",
-      "version": "2.1",
+      "trackName": "RPGViewer",
+      "trackId": 6479395335,
+      "currentVersionReleaseDate": "2026-11-01T20:49:13Z",
+      "version": "2.2",
       "wrapperType": "software",
       "currency": "CNY",
       "description": "RPGViewer 是一款用来运行你自己项目的播放器 —— 你自己的 RPG Maker 与 Flash 游戏。它是从零开始重写的原生 iOS 应用。\n\n游戏由你带来，RPGViewer 负责运行它。\n\n一款 App，覆盖你手上真正在用的那些引擎：\n\n• RPG Maker XP、VX 与 VX Ace —— 通过移植的 RGSS 原生引擎直接运行，不是模拟。原速运行，中间不隔浏览器。\n• RPG Maker MV 与 MZ —— 完整支持，包括 OGG 音频，无需重新转码。\n• Flash（SWF）—— 通过 Ruffle 播放，包括那些从未被转成 HTML5 的 Flash 游戏。\n• HTML5 游戏 —— 任何自包含的网页，从库里打开即可。\n\n为在手机上游玩而做\n• 屏幕虚拟手柄，按键可自定义。把任意实体或屏幕按键绑定到游戏读取的按键上。\n• 支持真实手柄。接上手柄即接管，屏幕手柄会自动让位。\n• 统一的菜单。所有引擎都是同一个控件、同一个位置，只有行数变化 —— 而且只显示真正能用的功能。\n• 原生引擎游戏支持快进。\n• 支持横屏与竖屏，iPhone 与 iPad 皆可。\n\n仅限 RPG Maker MV 与 MZ\n• 菜单内置作弊面板 —— 不离开游戏即可调整数值、道具与队伍成员。\n\n请注意\n• RPGViewer 只是播放器，不含任何游戏，也无法下载游戏。请确认你运行的项目来自正当渠道。\n• 它是通用运行环境，不修改 RPG Maker 或 Flash 项目的源代码，也不模拟它们。\n• Flash 播放由 Ruffle 提供。依赖服务器端组件或需要联网服务的游戏无法运行。\n\n为正在做 RPG Maker 游戏的人而做：在发布前先在手机上试一遍，同时继续玩你已有的那些游戏。",
+      "averageUserRatingForCurrentVersion": 3.57143,
+      "trackCensoredName": "RPGViewer",
       "languageCodesISO2A": [
         "EN",
         "JA",
@@ -388,13 +385,16 @@
         "ZH",
         "ZH"
       ],
-      "fileSizeBytes": "66419712",
+      "fileSizeBytes": "66444288",
       "formattedPrice": "¥38.00",
-      "userRatingCountForCurrentVersion": 4,
+      "userRatingCountForCurrentVersion": 7,
+      "trackViewUrl": "https://apps.apple.com/cn/app/rpgviewer/id6479395335?uo=4",
       "trackContentRating": "9+",
-      "averageUserRatingForCurrentVersion": 3.75,
-      "releaseDate": "2024-04-07T07:00:00Z",
-      "userRatingCount": 4,
+      "contentAdvisoryRating": "9+",
+      "averageUserRating": 3.57143,
+      "artistId": 1403694478,
+      "artistName": "Ludan Cui",
+      "userRatingCount": 7,
       "country": "CHN"
     }
   ]

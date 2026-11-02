@@ -2,11 +2,6 @@
   "resultCount": 1,
   "results": [
     {
-      "advisories": [
-        "Selten/schwach ausgeprägt: sexuelle Inhalte oder Nacktheit",
-        "Selten/schwach ausgeprägt: Gebrauch von Alkohol, Tabak oder Drogen bzw. Verweise hierzu",
-        "Selten/schwach ausgeprägt: Szenen mit erotischen Anspielungen"
-      ],
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/61/97/8d/61978d73-7976-9b79-172e-7898d4efc879/iPhone11ProMax-00.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/62/d6/c6/62d6c642-c325-e4f6-c0b0-1b371b2610ce/iPhone11ProMax-01.png/320x480bb.jpg",
@@ -30,10 +25,14 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/88/2a/5a/882a5a43-b3ec-7bc0-abc4-3a304f5e26fd/ipadPro129-08.png/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/f4/6c/a2f46cc9-f232-23ac-87a1-4f744e9e0586/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/60x60bb.jpg",
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/f4/6c/a2f46cc9-f232-23ac-87a1-4f744e9e0586/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/f4/6c/a2f46cc9-f232-23ac-87a1-4f744e9e0586/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/de/developer/idealo-internet-gmbh/id454415644?uo=4",
+      "advisories": [
+        "Selten/schwach ausgeprägt: sexuelle Inhalte oder Nacktheit",
+        "Selten/schwach ausgeprägt: Gebrauch von Alkohol, Tabak oder Drogen bzw. Verweise hierzu",
+        "Selten/schwach ausgeprägt: Szenen mit erotischen Anspielungen"
       ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
@@ -168,11 +167,12 @@
         "iPhoneDuo-iPhoneDuo"
       ],
       "kind": "software",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/f4/6c/a2f46cc9-f232-23ac-87a1-4f744e9e0586/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/de/developer/idealo-internet-gmbh/id454415644?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/f4/6c/a2f46cc9-f232-23ac-87a1-4f744e9e0586/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/60x60bb.jpg",
-      "releaseNotes": "In diesem Update haben wir neue Funktionen, Performanceverbesserungen und Sicherheitsupdates kombiniert, um dir das bestmögliche Erlebnis zu bieten. Wir danken dir von Herzen für dein fortwährendes Engagement und deine wertvollen Einsichten!",
-      "sellerUrl": "http://www.idealo.de",
+      "features": [
+        "iosUniversal"
+      ],
+      "isGameCenterEnabled": false,
+      "averageUserRating": 4.72187,
+      "trackCensoredName": "idealo: Preisvergleich Online",
       "languageCodesISO2A": [
         "EN",
         "FR",
@@ -182,39 +182,39 @@
       ],
       "fileSizeBytes": "90528768",
       "formattedPrice": "Gratis",
-      "userRatingCountForCurrentVersion": 158736,
+      "contentAdvisoryRating": "12+",
+      "userRatingCountForCurrentVersion": 158835,
+      "trackViewUrl": "https://apps.apple.com/de/app/idealo-preisvergleich-online/id454415640?uo=4",
       "trackContentRating": "12+",
-      "averageUserRatingForCurrentVersion": 4.72194,
+      "averageUserRatingForCurrentVersion": 4.72187,
+      "releaseNotes": "In diesem Update haben wir neue Funktionen, Performanceverbesserungen und Sicherheitsupdates kombiniert, um dir das bestmögliche Erlebnis zu bieten. Wir danken dir von Herzen für dein fortwährendes Engagement und deine wertvollen Einsichten!",
+      "sellerUrl": "http://www.idealo.de",
       "artistId": 454415644,
       "artistName": "idealo internet GmbH",
       "genres": [
         "Shopping",
         "Lifestyle"
       ],
-      "price": 0,
-      "bundleId": "de.idealo.Idealo",
-      "releaseDate": "2011-09-06T07:00:00Z",
-      "trackId": 454415640,
-      "trackName": "idealo: Preisvergleich Online",
-      "minimumOsVersion": "16.0",
+      "isVppDeviceBasedLicensingEnabled": true,
       "genreIds": [
         "6024",
         "6012"
       ],
-      "primaryGenreName": "Shopping",
-      "primaryGenreId": 6024,
+      "minimumOsVersion": "16.0",
       "sellerName": "idealo internet GmbH",
-      "isVppDeviceBasedLicensingEnabled": true,
+      "bundleId": "de.idealo.Idealo",
+      "releaseDate": "2011-09-06T07:00:00Z",
+      "trackName": "idealo: Preisvergleich Online",
+      "trackId": 454415640,
+      "currentVersionReleaseDate": "2026-10-29T14:33:42Z",
       "version": "26.40.1",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Mit der idealo Shopping-App kannst du rund um die Uhr die besten Angebote für deine Lieblingsprodukte vergleichen und zum Schnäppchen-Preis online kaufen. Insgesamt kannst du mehr als 350 Millionen Angebote von über 50.000 Online-Shops vergleichen und Geld sparen - darunter Angebote von Amazon, eBay, Media Markt, Saturn und Zalando. \nMach dein Projekt idealo! Egal ob du DIY-Kreationen basteln, dein Auto reparieren oder gleich ein ganzes Haus bauen willst - passendes Werkzeug, verschiedene Elektro Tools und Möbel findest du ganz einfach bei idealo – natürlich zum Schnäppchen-Preis! \nHol’ dir jetzt die kostenlose idealo Preisvergleich Shopping-App für dein Smartphone oder Tablet.\nUnterstützte Länder: Deutschland, Österreich, Spanien, Frankreich, Italien und Großbritannien.\n\nDie wichtigsten Features im Überblick:\n▶ Schnelle Produktsuche per Text- & EAN-Eingabe oder über den Barcode Scanner\n▶ Vielfältige Filter- & Sortiermöglichkeiten\n▶ Detaillierte Produktinformationen anhand von Datenblättern, Bildern, Videos, Testberichten & Meinungen\n▶ Produktvergleich: Gegenüberstellung und Vergleich von Produkteigenschaften\n▶ Merkzettel: Sammlung aller Lieblingsprodukte\n▶ Preisalarm: Benachrichtigung, sobald ein Produkt zum Wunschpreis erhältlich ist\n▶ Einfacher Zugriff auf saisonale Produkte, Schnäppchen & Produktempfehlungen\n▶ Weiterleitung von Produkten per WhatsApp oder E-Mail an Freunde und Bekannte\n\nAngebote:\nMit dem Barcode Scanner kannst du auch beim Einkaufen in einem Laden herausfinden, ob es sich um ein gutes Angebot handelt oder ob du auf idealo ein besseres Schnäppchen finden kannst.\n\nPreisverlauf:\nSchau’ dir an, wie sich der Preis für dein Wunschprodukt entwickelt – steigt er an oder ist das Produkt gerade so günstig wie lange nicht mehr? Mit dem Preisverlauf bekommst du ein Gefühl für wahre Schnäppchen und kannst beim Einkaufen Geld sparen. \n\nPreiswecker:\nDein Lieblingsprodukt ist dir zu teuer? Mit dem Preiswecker kannst du Deinen Wunschpreis festlegen und wirst informiert, sobald dieser erreicht ist. So verpasst du kein Schnäppchen und kannst ganz einfach Geld sparen. \n\nMerkzettel:\nDu bist an mehreren Produkten interessiert und willst nichts aus den Augen verlieren? Mit dem Merkzettel hast du die besten Angebote für deine Lieblingsprodukte im Blick und siehst direkt wie sich die Preise entwickeln. So entgeht dir kein Schnäppchen und du kannst ganz einfach Geld sparen. \n\nProduktvergleich:\nDu weißt nicht für welches Produkt du dich entscheiden sollst? Bei idealo kannst du nicht nur Preise, sondern auch Produkte vergleichen. Füge einfach mehrere Produkte über das Datenblatt zum Vergleich hinzu und finde die besten Angebote.\nMit der idealo Shopping-App ist Preise vergleichen und günstig shoppen so einfach wie nie!\n\nHinweise:\n▶ Für das Abrufen aktueller Produktdaten & Angebote benötigt die App eine Internetverbindung\n▶ Für das Scannen eines Barcodes benötigt die App den Zugriff auf die Kamera\n▶ Für das Anlegen eines Benutzerkontos benötigt die App die Rechte für Konten & die Synchronisierung der Konten\n\nFeedback & Support:\n▶ Dir gefällt unsere App? Wir freuen uns sehr über eine Bewertung hier im App Store\n▶ Hast du Fragen, Ideen oder Anregungen, wie wir die idealo Shopping-App noch besser machen können, schicke uns gerne dein Feedback an app@idealo.de\n▶ Du möchtest uns bei der Entwicklung neuer Funktionen für die idealo App unterstützen? Dann trag dich hier ein: http://betatester.ios.idealo.com\n\nEs gelten die \"Allgemeinen Nutzungsbedingungen für die Shopping- und Vergleichsportale von idealo\", abrufbar unter: https://www.idealo.de/legal/agb",
-      "trackViewUrl": "https://apps.apple.com/de/app/idealo-preisvergleich-online/id454415640?uo=4",
-      "contentAdvisoryRating": "12+",
-      "trackCensoredName": "idealo: Preisvergleich Online",
-      "averageUserRating": 4.72194,
-      "currentVersionReleaseDate": "2026-10-29T14:33:42Z",
-      "userRatingCount": 158736,
+      "price": 0,
+      "primaryGenreName": "Shopping",
+      "primaryGenreId": 6024,
+      "userRatingCount": 158835,
       "country": "DEU"
     }
   ]

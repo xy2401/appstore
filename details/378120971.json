@@ -21,11 +21,11 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/7a/e1/627ae10f-33b3-8a26-1a23-a5fd9bd0664e/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/fr/developer/lakehorn-ag/id288286082?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/7a/e1/627ae10f-33b3-8a26-1a23-a5fd9bd0664e/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/7a/e1/627ae10f-33b3-8a26-1a23-a5fd9bd0664e/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
       "advisories": [],
-      "features": [
-        "iosUniversal"
-      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -160,9 +160,9 @@
         "iPhoneDuo-iPhoneDuo"
       ],
       "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/fr/developer/lakehorn-ag/id288286082?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/7a/e1/627ae10f-33b3-8a26-1a23-a5fd9bd0664e/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/7a/e1/627ae10f-33b3-8a26-1a23-a5fd9bd0664e/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
       "averageUserRatingForCurrentVersion": 3.4375,
       "sellerUrl": "https://www.lakehorn.com/products/aeroweather-pro/",
       "languageCodesISO2A": [
@@ -186,6 +186,11 @@
       "formattedPrice": "4,99 €",
       "userRatingCountForCurrentVersion": 64,
       "trackContentRating": "4+",
+      "trackCensoredName": "AeroWeather Pro",
+      "trackViewUrl": "https://apps.apple.com/fr/app/aeroweather-pro/id378120971?uo=4",
+      "averageUserRating": 3.4375,
+      "releaseNotes": "New:\n- Alarm group shows Space Weather and Volcanic Ash alerts\n- NOTAM free text coordinates (in NOTAM E field) can be displayed on map\n\nChanged:\n- Support for iOS/iPadOS 27 and iPhone Duo\n- Minor bug fixing\n- Internal optimizations\n- Database update (2026-10-29)",
+      "contentAdvisoryRating": "4+",
       "artistId": 288286082,
       "artistName": "Lakehorn AG",
       "genres": [
@@ -193,29 +198,24 @@
         "Voyages"
       ],
       "price": 4.99,
-      "sellerName": "Lakehorn AG",
       "releaseDate": "2010-06-30T22:22:40Z",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "trackId": 378120971,
-      "trackName": "AeroWeather Pro",
       "minimumOsVersion": "16.0",
+      "primaryGenreName": "Weather",
+      "primaryGenreId": 6001,
+      "isVppDeviceBasedLicensingEnabled": true,
       "genreIds": [
         "6001",
         "6003"
       ],
+      "sellerName": "Lakehorn AG",
+      "trackId": 378120971,
+      "trackName": "AeroWeather Pro",
       "currentVersionReleaseDate": "2026-10-29T07:22:58Z",
-      "releaseNotes": "New:\n- Alarm group shows Space Weather and Volcanic Ash alerts\n- NOTAM free text coordinates (in NOTAM E field) can be displayed on map\n\nChanged:\n- Support for iOS/iPadOS 27 and iPhone Duo\n- Minor bug fixing\n- Internal optimizations\n- Database update (2026-10-29)",
       "version": "3.16.3",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "*** AeroWeather: for pilots, aviation enthusiasts, and everyone who is serious about the weather!\n*** Current and precise weather conditions (METAR) and forecasts (TAF).\n\nAeroWeather Pro provides quick and intuitive access to METAR and TAF for airports worldwide. Data can be shown in its original (raw) format or as fully decoded and easy understandable texts. AeroWeather Pro is helpful for weather preflight-briefings, but also to just get very precise weather. All weather data is cached for offline access. \n\nIn addition to weather data, AeroWeather Pro integrates also airport NOTAMs (provided by US FAA), webcam images around airports (provided by windy.com), FlightService access (US only), and US ATC delay information (provided by US FAA). AeroWeather Pro also offers built-in groups for earthquakes, nearby stations, and today widget (pre iOS14), which can be individually enabled on the top level view. Besides creating user groups it’s also possible to put stations on the same level user groups (e.g. home base). Depending on your needs, groups can be shown or hidden in the main list view. User groups can also be synchronized via Cloud Kit*. \n\nThe app features a built-in airport database, which includes airport data like runways, sunrise/sunset, twilight times, moon times, timezones etc. \n\nMETAR alert notifications** is another new and helpful feature to stay up-to-date. Define multiple alerts for each station with criteria like: flight rule (US NOAA), wind speed, temperature, pressure, present weather, visibility etc. Notifications will be sent to your device if the criteria is met (e.g., when flight rule becomes IFR).\n\nDedicated METAR/TAF** access is optionally available. METAR/TAF data will come primarily from a certified ANSP (air navigation service provider) and is provided reliably and fast from our dedicated, redundant servers (indicated by blue checkmark underneath METAR/TAF).\n\nThe AeroPix feature offers users the possibility to take quickly picture(s) of the weather at their current location. \n\nAeroWeather Pro comes with an Apple Watch app, which shows either a list of stations as defined in the Apple Watch group or all nearby stations based on the current location. METAR and TAF are displayed for each station. In addition, you can put AeroWeather as a complication in your watch face to stay up-to-date. \n\nPlease consult our web-site for a full description of all features. \n\n* Additional functionality which needs to be unlocked (one-time purchase). These purchases are not transferable between Lite, Pro, and Mac.\n\n** SUBSCRIPTIONS\nAdditional features which generate recurring operation costs for us will be offered within a subscription. The following features are enabled while 'First' subscription is active:\n - Dedicated METAR/TAF data source\n - Meteograms\n - Alert push notifications\n - D-ATIS (bigger US airports only)\n - Area Forecast Discussions (currently US only)\n - RVR data (US and Germany only)\n - Home Screen Widgets for METAR, Plot, Meteogram\n - Imagery and Charts (requires 'Captain' subscription)\n - SIGMETs (requires 'Captain' subscription)\n\nAdditional features are also enabled when using AeroWeather Lite.\n\nThe subscription varies in time periods (1 month, 12 months). The subscription is valid in both AeroWeather Lite and Pro. Cross app subscription support is only available if iCloud (with the same Apple ID) is enabled. Previously purchased unlock features are not affected and will work with or without subscription.\n\nAuto-renewal may be turned off at any time by going to your account settings. A payment will be charged to your iTunes account at the end of the free trial period. Your iTunes account will be charged for renewal within 24 hours prior to the end of the current period. No commitment - you can cancel any time.\n\nPleas read the full “Subscription Terms of Use” at:\nhttps://www.lakehorn.com/subscription-terms-of-use/",
-      "trackCensoredName": "AeroWeather Pro",
-      "trackViewUrl": "https://apps.apple.com/fr/app/aeroweather-pro/id378120971?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 3.4375,
       "bundleId": "com.pascaldreer.aeroweatherpro",
-      "primaryGenreName": "Weather",
-      "primaryGenreId": 6001,
       "userRatingCount": 64,
       "country": "FRA"
     }

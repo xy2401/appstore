@@ -2,7 +2,8 @@
   "resultCount": 1,
   "results": [
     {
-      "isGameCenterEnabled": false,
+      "advisories": [],
+      "features": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -135,9 +136,11 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
+      "isGameCenterEnabled": false,
       "kind": "software",
-      "features": [],
+      "artistViewUrl": "https://apps.apple.com/cn/developer/%E9%B9%8F%E9%A3%9E-%E9%83%AD/id6798482385?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/fe/b3/2ffeb33e-b9ec-8aa4-517f-aa8944f99484/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/fe/b3/2ffeb33e-b9ec-8aa4-517f-aa8944f99484/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/25/22/75/2522752b-9e66-5f7a-1ffc-f776a2613e5b/Simulator_Screenshot_-_iPhone_16_Pro_-_2026-10-15_at_18.48.46.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4b/15/96/4b159694-b901-a944-a249-aec465d95c0a/Simulator_Screenshot_-_iPhone_16_Pro_-_2026-10-15_at_18.48.35.png/320x480bb.jpg",
@@ -147,9 +150,7 @@
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/fe/b3/2ffeb33e-b9ec-8aa4-517f-aa8944f99484/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/cn/developer/%E9%B9%8F%E9%A3%9E-%E9%83%AD/id6798482385?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/fe/b3/2ffeb33e-b9ec-8aa4-517f-aa8944f99484/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/fe/b3/2ffeb33e-b9ec-8aa4-517f-aa8944f99484/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.jpg",
+      "currentVersionReleaseDate": "2026-10-15T15:52:44Z",
       "artistId": 6798482385,
       "artistName": "鹏飞 郭",
       "genres": [
@@ -157,25 +158,30 @@
         "图形与设计"
       ],
       "price": 8,
+      "releaseNotes": "本次更新全面升级拍摄与成片体验：\n\n• 原生电影引擎：实时 LUT 预览，所见即所得\n• 胶片影调增强：真实胶片色调、颗粒与齿孔边框，成片与预览一致\n• 电影级影调：多款专业 .cube LUT，支持强度调节\n• 竖拍方向修复：竖拍成片不再被错误旋转\n• 作品库优化：成片生成完成自动刷新；保存到相册提示更清晰\n• 联系邮箱更新，反馈更便捷\n\n建议更新后先试拍确认效果。感谢使用 LUMA！",
+      "bundleId": "com.guo.lumacamera",
       "releaseDate": "2026-08-31T07:00:00Z",
       "trackId": 6806210717,
       "trackName": "飓风相机一电影质感LUMA复古星空胶片相机",
-      "releaseNotes": "本次更新全面升级拍摄与成片体验：\n\n• 原生电影引擎：实时 LUT 预览，所见即所得\n• 胶片影调增强：真实胶片色调、颗粒与齿孔边框，成片与预览一致\n• 电影级影调：多款专业 .cube LUT，支持强度调节\n• 竖拍方向修复：竖拍成片不再被错误旋转\n• 作品库优化：成片生成完成自动刷新；保存到相册提示更清晰\n• 联系邮箱更新，反馈更便捷\n\n建议更新后先试拍确认效果。感谢使用 LUMA！",
       "minimumOsVersion": "15.5",
       "genreIds": [
         "6008",
         "6027"
       ],
-      "isVppDeviceBasedLicensingEnabled": true,
       "primaryGenreName": "Photo & Video",
       "primaryGenreId": 6008,
       "sellerName": "鹏飞 郭",
-      "currentVersionReleaseDate": "2026-10-15T15:52:44Z",
+      "isVppDeviceBasedLicensingEnabled": true,
       "version": "1.4",
       "wrapperType": "software",
       "currency": "CNY",
       "description": "用 LUMA，记录每一束光。\nLUMA 是一款专为 iPhone 打造的本地优先相机，集实时取景、照片与视频拍摄、夜景与天文摄影于一体。无论是城市夜色、星空银河、光轨流星，还是日常生活，都能轻松拍出更有氛围的影像。\n主要功能：\n• 普通照片与视频拍摄\n• 夜景、光轨、星空、星轨和流星模式\n• 多帧合成，提升夜间与天文拍摄效果\n• 胶片风格与多种影像效果\n• 照片工作室，支持曝光、色彩和效果调整\n• 非破坏性编辑，原图不会被覆盖\n• 作品库管理、收藏、导入、导出与系统分享  \n照片、视频和编辑工程默认保存在设备本地。LUMA 不要求注册账号，也不会主动将你的媒体上传到服务器，让创作更专注、更安心。",
-      "bundleId": "com.guo.lumacamera",
+      "trackCensoredName": "飓风相机一电影质感LUMA复古星空胶片相机",
+      "trackViewUrl": "https://apps.apple.com/cn/app/%E9%A3%93%E9%A3%8E%E7%9B%B8%E6%9C%BA%E4%B8%80%E7%94%B5%E5%BD%B1%E8%B4%A8%E6%84%9Fluma%E5%A4%8D%E5%8F%A4%E6%98%9F%E7%A9%BA%E8%83%B6%E7%89%87%E7%9B%B8%E6%9C%BA/id6806210717?uo=4",
+      "contentAdvisoryRating": "17+",
+      "averageUserRatingForCurrentVersion": 2.33333,
+      "averageUserRating": 2.33333,
+      "sellerUrl": "https://docs.qq.com/doc/DZWVQb3JRUGtwR1VG",
       "languageCodesISO2A": [
         "EN"
       ],
@@ -183,12 +189,6 @@
       "formattedPrice": "¥8.00",
       "userRatingCountForCurrentVersion": 3,
       "trackContentRating": "17+",
-      "sellerUrl": "https://docs.qq.com/doc/DZWVQb3JRUGtwR1VG",
-      "averageUserRatingForCurrentVersion": 2.33333,
-      "trackCensoredName": "飓风相机一电影质感LUMA复古星空胶片相机",
-      "trackViewUrl": "https://apps.apple.com/cn/app/%E9%A3%93%E9%A3%8E%E7%9B%B8%E6%9C%BA%E4%B8%80%E7%94%B5%E5%BD%B1%E8%B4%A8%E6%84%9Fluma%E5%A4%8D%E5%8F%A4%E6%98%9F%E7%A9%BA%E8%83%B6%E7%89%87%E7%9B%B8%E6%9C%BA/id6806210717?uo=4",
-      "averageUserRating": 2.33333,
-      "contentAdvisoryRating": "17+",
       "userRatingCount": 3,
       "country": "CHN"
     }

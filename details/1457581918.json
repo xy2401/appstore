@@ -26,14 +26,13 @@
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/ee/a9/38eea945-f1d5-0b32-784a-e0b5ff739832/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "isGameCenterEnabled": false,
-      "advisories": [],
-      "kind": "software",
-      "features": [
-        "iosUniversal"
-      ],
       "artistViewUrl": "https://apps.apple.com/gb/developer/natalie-peall/id1114320456?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/ee/a9/38eea945-f1d5-0b32-784a-e0b5ff739832/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/ee/a9/38eea945-f1d5-0b32-784a-e0b5ff739832/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -166,6 +165,7 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "kind": "software",
       "averageUserRatingForCurrentVersion": 4.91781,
       "languageCodesISO2A": [
         "EN"
@@ -174,19 +174,25 @@
       "formattedPrice": "£4.99",
       "userRatingCountForCurrentVersion": 73,
       "trackContentRating": "4+",
-      "artistName": "Natalie Peall",
+      "averageUserRating": 4.91781,
+      "trackCensoredName": "Lunchbox Recipes",
+      "trackViewUrl": "https://apps.apple.com/gb/app/lunchbox-recipes/id1457581918?uo=4",
+      "contentAdvisoryRating": "4+",
       "artistId": 1114320456,
-      "primaryGenreName": "Food & Drink",
-      "primaryGenreId": 6023,
+      "artistName": "Natalie Peall",
+      "genres": [
+        "Food & Drink",
+        "Lifestyle"
+      ],
+      "price": 4.99,
       "genreIds": [
         "6023",
         "6012"
       ],
-      "sellerName": "Natalie Peall",
-      "trackId": 1457581918,
-      "trackName": "Lunchbox Recipes",
       "isVppDeviceBasedLicensingEnabled": true,
       "releaseDate": "2019-04-08T10:25:31Z",
+      "trackId": 1457581918,
+      "trackName": "Lunchbox Recipes",
       "currentVersionReleaseDate": "2026-01-26T07:16:27Z",
       "releaseNotes": "Performance improvements and bug fixes.",
       "version": "1.0.10",
@@ -194,16 +200,10 @@
       "currency": "GBP",
       "description": "Are you stuck making the same sandwiches for lunchboxes on repeat? Want to mix things up with easy, nutritious lunches that your child will actually eat and that don’t take hours to prep?\n\nThen this app is for you.\n\nThis app is packed with 200+ family-friendly lunchbox recipes (and growing) to help you create exciting, balanced lunches without the stress. Whether you’re packing a school lunchbox, heading out for a picnic, or planning meals for a busy day, you’ll always have fresh ideas right at your fingertips.\n\nAs my daughter got older and started preparing for school and as our family days out became more frequent I realised how important it was to have portable, fuss-free lunches that work for the whole family. Every recipe in this app is family-friendly and suitable from six months, so you can prepare once and feed everyone.\n\nWhether you’re looking for quick weekday lunches, picnic inspiration or lunchbox ideas that go beyond sandwiches, this app has you covered.\n\nKey features:\n\n• 200+ delicious, family-friendly lunch recipes\n• Clean, bright, easy-to-navigate design\n• Search by recipe name or ingredient\n• Save your favourites for quick access\n• Add ingredients straight to your shopping list\n• Filter recipes by dietary requirements (vegetarian, vegan, dairy-free, egg-free)\n• Free help and support via the app or my online support group\n• Regular free updates and new recipes added\n\nI hope you love the recipes as much as my family does. If you ever need help or have questions, please get in touch - I’m always happy to help.\n\nNatalie x",
       "bundleId": "com.nataliepeall.lunchboxrecipes",
-      "trackCensoredName": "Lunchbox Recipes",
-      "trackViewUrl": "https://apps.apple.com/gb/app/lunchbox-recipes/id1457581918?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.91781,
+      "sellerName": "Natalie Peall",
       "minimumOsVersion": "15.6",
-      "price": 4.99,
-      "genres": [
-        "Food & Drink",
-        "Lifestyle"
-      ],
+      "primaryGenreName": "Food & Drink",
+      "primaryGenreId": 6023,
       "userRatingCount": 73,
       "country": "GBR"
     }

@@ -202,7 +202,6 @@
       "userRatingCount": 61
     },
     {
-      "artistViewUrl": "https://apps.apple.com/us/developer/eerko-vissering/id892542003?uo=4",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a1/82/e7/a182e7ab-27e2-70ed-7d62-5f23925ae3dc/1._Overview.jpg/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ec/5f/1e/ec5f1e73-8431-17d8-6af0-9c185f5bcc79/2._Game_overview.jpg/320x480bb.jpg",
@@ -228,15 +227,12 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3b/e5/6b/3be56bd6-e3c3-e88f-1322-20c530c9723a/10._Challenges.jpg/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/18/c7/fd18c7a9-052e-e904-25d8-ba4f94697e3a/AppIcon-0-0-1x_U007epad-0-11-0-sRGB-85-220.png/512x512bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/e9/5f/e8e95ff5-683a-5e77-5db1-5274e5e35c25/AppIcon-0-0-1x_U007epad-0-11-0-sRGB-85-220.png/512x512bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/us/developer/eerko-vissering/id892542003?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/e9/5f/e8e95ff5-683a-5e77-5db1-5274e5e35c25/AppIcon-0-0-1x_U007epad-0-11-0-sRGB-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/e9/5f/e8e95ff5-683a-5e77-5db1-5274e5e35c25/AppIcon-0-0-1x_U007epad-0-11-0-sRGB-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
       "advisories": [],
-      "kind": "software",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/18/c7/fd18c7a9-052e-e904-25d8-ba4f94697e3a/AppIcon-0-0-1x_U007epad-0-11-0-sRGB-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/18/c7/fd18c7a9-052e-e904-25d8-ba4f94697e3a/AppIcon-0-0-1x_U007epad-0-11-0-sRGB-85-220.png/100x100bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -369,10 +365,10 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "trackCensoredName": "Board Game Stats",
-      "trackViewUrl": "https://apps.apple.com/us/app/board-game-stats/id892542000?uo=4",
-      "currentVersionReleaseDate": "2026-10-29T05:42:00Z",
-      "sellerUrl": "https://www.eerko.nl",
+      "kind": "software",
+      "features": [
+        "iosUniversal"
+      ],
       "languageCodesISO2A": [
         "CA",
         "CS",
@@ -392,51 +388,58 @@
         "SV",
         "UK"
       ],
-      "fileSizeBytes": "57126912",
+      "fileSizeBytes": "57229312",
       "formattedPrice": "$5.99",
       "userRatingCountForCurrentVersion": 457,
       "trackContentRating": "4+",
+      "sellerUrl": "https://www.eerko.nl",
+      "averageUserRating": 4.8709,
+      "trackCensoredName": "Board Game Stats",
+      "trackViewUrl": "https://apps.apple.com/us/app/board-game-stats/id892542000?uo=4",
+      "contentAdvisoryRating": "4+",
       "averageUserRatingForCurrentVersion": 4.8709,
+      "artistId": 892542003,
       "artistName": "Eerko Vissering",
       "genres": [
         "Lifestyle",
         "Utilities"
       ],
-      "trackId": 892542000,
-      "trackName": "Board Game Stats",
       "price": 5.99,
       "bundleId": "nl.vissering.BoardGameStats",
-      "releaseNotes": "• Add/Edit Tags when editing (or creating) a Game, Player or Location.\n• Play Overview Image displays year automatically for older plays.\n• Added option to Play Overview Image to always display the year.\n• Shows names of anonymous players in start player randomizer.\n• Doesn't auto-set rank in 1-player plays.\n• Saves auto-post settings when logging out from BGG.\n• Added Share button to score sheet input screen.\n• Fixes setting play location to None via multiple-select.\n• Fixes input fields getting mixed up when setting team details.\n• Visual improvements and reported crashes fixed.",
       "genreIds": [
         "6012",
         "6002"
       ],
+      "currentVersionReleaseDate": "2026-11-01T23:59:46Z",
+      "trackId": 892542000,
+      "trackName": "Board Game Stats",
+      "minimumOsVersion": "15",
       "primaryGenreName": "Lifestyle",
       "primaryGenreId": 6012,
-      "minimumOsVersion": "15",
       "sellerName": "Eerko Vissering",
       "isVppDeviceBasedLicensingEnabled": true,
-      "version": "6.18",
+      "releaseNotes": "• Fixes visibility of the top controls of the 3x3 screen on iOS 26 and later.\n• Score sheet improvements when using Zoomed view.",
+      "version": "6.18.1",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Keep track of your Board Game collection, plays and scores in this easy to use tool.\nView statistics and graphs for your games, plays, and other players.\nWorks offline, can sync with BoardGameGeek.\n\n- How many games did you play recently?\n- Who scored the highest for a game?\n- With whom did you play and who wins more?\n- Did you improve your score from last times?\n- Use tailor-made score sheets to enter scores.\n- Compare players, view graphs and charts.\n- Keep track of your collection and sync with BoardGameGeek.\n\nCollection management features:\n- Keep track of every game you've played or are interested in.\n- Choose a specific version and image, and track multiple copies.\n- Set status to Owned, Wishlist, Want to play, and much more.\n- Enter details like comments, price paid, acquisition date, etc.\n- Filter games on status, Played but not owned, Unplayed owned games.\n- Set Custom filters to select a game for your specific group.\n- Full automatic syncing with your BoardGameGeek (BGG) collection.\n\nPlay tracking features:\n- Set scoring rules, cooperative and team play for each game.\n- Select game and played expansions.\n- Set Players and Locations, including anonymous players.\n- Enter location, scores per player and many more details.\n- Calculate scores on the fly by using the math keyboard.\n- Create teams and enter team scores.\n- Use over 2800 game-specific tailor-made score sheets.\n- Add Player roles, and choose from previously used ones.\n- Use a timer to keep track of your play length.\n- Add a Game note you can view each time you start a Play.\n- Post your plays to BoardGameGeek, including auto-post after each save.\n- Import existing plays from BoardGameGeek (BGG), Yucata and Board Game Arena (BGA)\n- Send one or more Plays to other BG Stats users so only one of you has to enter the details.\n\nStatistics features:\n- View statistics for each game and player, and combination.\n- See pie charts, play times and durations graphs, and score charts.\n- View insights for Games and Players, for different time periods.\n- See your H-index, fives, dimes, quarters and centuries.\n- View a Player's personal H-index and win percentage.\n- Share Insights charts and 3x3 images.\n- See cost per play for your games.\n\nBG Stats has export and import functions for easy backup to a variety of services.\nYou can sync with other devices via BG Stats Cloud sync (an in-app subscription).\nAll in a native iOS interface, supports dark mode, landscape and iPad screens.\n\nWith the Power Expansion (in-app purchase):\n- Extended game charts, based on number of players.\n- Filter your data on players, locations, specific periods and player counts.\n- Statistics for a specific combination of players, and compare them.\n- Winning streaks, tiebreakers, and new and starting player stats.\n- Role- and board-based statistics.\n- Heat map of plays and play duration. \n- Cost per hour, player and more.\n- Add tags to Games, Players and Locations.\n- Create and save custom filters, now also with tags.\n- Customize the Game filter dropdown menu.\n- Create advanced filters with multiple criteria and logical operations.\n- View combined game statistics.\n- Sync game tags with BoardGameGeek.\n- Create Challenges (if available) based on game filters or tags.\n\nWith the Challenges expansion (in-app purchase):\n- Create a challenge from one of the many templates.\n- x times y challenges: play x games y times.\n- Ongoing Reach your next H-index challenges.\n- Set the time period and choose specific games to track, or use auto-fill.\n- Filter specific Players, Locations and player counts to count for the challenge.\n\nWith a Cloud sync subscription:\n- Seamlessly sync your data between all your devices.\n- Keep a backup of your data in the cloud.\n\nPlease note that changes to the BGG website or API can temporarily break BGG related features. I cannot guarantee their continued availability.",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.8709,
       "releaseDate": "2014-07-06T06:16:52Z",
-      "artistId": 892542003,
       "userRatingCount": 457,
       "country": "USA"
     },
     {
-      "isGameCenterEnabled": false,
-      "artistViewUrl": "https://apps.apple.com/de/developer/eerko-vissering/id892542003?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/18/c7/fd18c7a9-052e-e904-25d8-ba4f94697e3a/AppIcon-0-0-1x_U007epad-0-11-0-sRGB-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/18/c7/fd18c7a9-052e-e904-25d8-ba4f94697e3a/AppIcon-0-0-1x_U007epad-0-11-0-sRGB-85-220.png/100x100bb.jpg",
-      "features": [
-        "iosUniversal"
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a1/82/e7/a182e7ab-27e2-70ed-7d62-5f23925ae3dc/1._Overview.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ec/5f/1e/ec5f1e73-8431-17d8-6af0-9c185f5bcc79/2._Game_overview.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/01/c7/0a/01c70a8e-715d-3da7-f8aa-fec7258f7a62/3._Add_play_Jun_2026.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4e/47/5a/4e475a82-553e-08c0-377b-9739fae1a842/4._Insights.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/00/53/73/005373b8-559a-103c-eb0b-653cd0981e9f/5._Score_sheet.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/09/ec/1e/09ec1ef3-d843-c0fc-499e-62fa14ef53a4/6._Games_list.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/24/90/cf/2490cfeb-5327-d36e-081a-f9d5e1dc2909/7._Edit_Collection.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/95/80/c9/9580c9ff-cbe9-65ba-714d-db12410bf344/8._Play_overview.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/13/8d/83/138d83ef-7c0a-bf6e-44c2-3fccd4142803/9._Sharing.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/35/8f/5d/358f5d86-1390-db41-6482-0ba5209ba301/10._Challenges.jpg/320x480bb.jpg"
       ],
-      "advisories": [],
-      "kind": "software",
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b2/72/fa/b272fa2c-1cc5-2281-f21a-35c896458daa/1._Overview.jpg/360x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/be/5c/92/be5c92ee-e046-fddd-b51b-34103b222c9c/2._Game_overview.jpg/360x480bb.jpg",
@@ -450,18 +453,10 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3b/e5/6b/3be56bd6-e3c3-e88f-1322-20c530c9723a/10._Challenges.jpg/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/18/c7/fd18c7a9-052e-e904-25d8-ba4f94697e3a/AppIcon-0-0-1x_U007epad-0-11-0-sRGB-85-220.png/512x512bb.jpg",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a1/82/e7/a182e7ab-27e2-70ed-7d62-5f23925ae3dc/1._Overview.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ec/5f/1e/ec5f1e73-8431-17d8-6af0-9c185f5bcc79/2._Game_overview.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/01/c7/0a/01c70a8e-715d-3da7-f8aa-fec7258f7a62/3._Add_play_Jun_2026.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4e/47/5a/4e475a82-553e-08c0-377b-9739fae1a842/4._Insights.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/00/53/73/005373b8-559a-103c-eb0b-653cd0981e9f/5._Score_sheet.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/09/ec/1e/09ec1ef3-d843-c0fc-499e-62fa14ef53a4/6._Games_list.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/24/90/cf/2490cfeb-5327-d36e-081a-f9d5e1dc2909/7._Edit_Collection.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/95/80/c9/9580c9ff-cbe9-65ba-714d-db12410bf344/8._Play_overview.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/13/8d/83/138d83ef-7c0a-bf6e-44c2-3fccd4142803/9._Sharing.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/35/8f/5d/358f5d86-1390-db41-6482-0ba5209ba301/10._Challenges.jpg/320x480bb.jpg"
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/e9/5f/e8e95ff5-683a-5e77-5db1-5274e5e35c25/AppIcon-0-0-1x_U007epad-0-11-0-sRGB-85-220.png/512x512bb.jpg",
+      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
       ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
@@ -595,35 +590,11 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "currentVersionReleaseDate": "2026-10-29T05:42:00Z",
-      "trackCensoredName": "Board Game Stats",
-      "trackViewUrl": "https://apps.apple.com/de/app/board-game-stats/id892542000?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.7362,
-      "artistId": 892542003,
-      "artistName": "Eerko Vissering",
-      "genres": [
-        "Lifestyle",
-        "Dienst­programme"
-      ],
-      "price": 5.99,
-      "bundleId": "nl.vissering.BoardGameStats",
-      "minimumOsVersion": "15",
-      "releaseDate": "2014-07-06T06:16:52Z",
-      "genreIds": [
-        "6012",
-        "6002"
-      ],
-      "releaseNotes": "• Add/Edit Tags when editing (or creating) a Game, Player or Location.\n• Play Overview Image displays year automatically for older plays.\n• Added option to Play Overview Image to always display the year.\n• Shows names of anonymous players in start player randomizer.\n• Doesn't auto-set rank in 1-player plays.\n• Saves auto-post settings when logging out from BGG.\n• Added Share button to score sheet input screen.\n• Fixes setting play location to None via multiple-select.\n• Fixes input fields getting mixed up when setting team details.\n• Visual improvements and reported crashes fixed.",
-      "primaryGenreName": "Lifestyle",
-      "primaryGenreId": 6012,
-      "sellerName": "Eerko Vissering",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "version": "6.18",
-      "wrapperType": "software",
-      "currency": "EUR",
-      "description": "Keep track of your Board Game collection, plays and scores in this easy to use tool.\nView statistics and graphs for your games, plays, and other players.\nWorks offline, can sync with BoardGameGeek.\n\n- How many games did you play recently?\n- Who scored the highest for a game?\n- With whom did you play and who wins more?\n- Did you improve your score from last times?\n- Use tailor-made score sheets to enter scores.\n- Compare players, view graphs and charts.\n- Keep track of your collection and sync with BoardGameGeek.\n\nCollection management features:\n- Keep track of every game you've played or are interested in.\n- Choose a specific version and image, and track multiple copies.\n- Set status to Owned, Wishlist, Want to play, and much more.\n- Enter details like comments, price paid, acquisition date, etc.\n- Filter games on status, Played but not owned, Unplayed owned games.\n- Set Custom filters to select a game for your specific group.\n- Full automatic syncing with your BoardGameGeek (BGG) collection.\n\nPlay tracking features:\n- Set scoring rules, cooperative and team play for each game.\n- Select game and played expansions.\n- Set Players and Locations, including anonymous players.\n- Enter location, scores per player and many more details.\n- Calculate scores on the fly by using the math keyboard.\n- Create teams and enter team scores.\n- Use over 2800 game-specific tailor-made score sheets.\n- Add Player roles, and choose from previously used ones.\n- Use a timer to keep track of your play length.\n- Add a Game note you can view each time you start a Play.\n- Post your plays to BoardGameGeek, including auto-post after each save.\n- Import existing plays from BoardGameGeek (BGG), Yucata and Board Game Arena (BGA)\n- Send one or more Plays to other BG Stats users so only one of you has to enter the details.\n\nStatistics features:\n- View statistics for each game and player, and combination.\n- See pie charts, play times and durations graphs, and score charts.\n- View insights for Games and Players, for different time periods.\n- See your H-index, fives, dimes, quarters and centuries.\n- View a Player's personal H-index and win percentage.\n- Share Insights charts and 3x3 images.\n- See cost per play for your games.\n\nBG Stats has export and import functions for easy backup to a variety of services.\nYou can sync with other devices via BG Stats Cloud sync (an in-app subscription).\nAll in a native iOS interface, supports dark mode, landscape and iPad screens.\n\nWith the Power Expansion (in-app purchase):\n- Extended game charts, based on number of players.\n- Filter your data on players, locations, specific periods and player counts.\n- Statistics for a specific combination of players, and compare them.\n- Winning streaks, tiebreakers, and new and starting player stats.\n- Role- and board-based statistics.\n- Heat map of plays and play duration. \n- Cost per hour, player and more.\n- Add tags to Games, Players and Locations.\n- Create and save custom filters, now also with tags.\n- Customize the Game filter dropdown menu.\n- Create advanced filters with multiple criteria and logical operations.\n- View combined game statistics.\n- Sync game tags with BoardGameGeek.\n- Create Challenges (if available) based on game filters or tags.\n\nWith the Challenges expansion (in-app purchase):\n- Create a challenge from one of the many templates.\n- x times y challenges: play x games y times.\n- Ongoing Reach your next H-index challenges.\n- Set the time period and choose specific games to track, or use auto-fill.\n- Filter specific Players, Locations and player counts to count for the challenge.\n\nWith a Cloud sync subscription:\n- Seamlessly sync your data between all your devices.\n- Keep a backup of your data in the cloud.\n\nPlease note that changes to the BGG website or API can temporarily break BGG related features. I cannot guarantee their continued availability.",
-      "averageUserRatingForCurrentVersion": 4.7362,
+      "advisories": [],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/de/developer/eerko-vissering/id892542003?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/e9/5f/e8e95ff5-683a-5e77-5db1-5274e5e35c25/AppIcon-0-0-1x_U007epad-0-11-0-sRGB-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/e9/5f/e8e95ff5-683a-5e77-5db1-5274e5e35c25/AppIcon-0-0-1x_U007epad-0-11-0-sRGB-85-220.png/100x100bb.jpg",
       "sellerUrl": "https://www.eerko.nl",
       "languageCodesISO2A": [
         "CA",
@@ -644,12 +615,41 @@
         "SV",
         "UK"
       ],
-      "fileSizeBytes": "57126912",
+      "fileSizeBytes": "57229312",
       "formattedPrice": "5,99 €",
       "userRatingCountForCurrentVersion": 163,
       "trackContentRating": "4+",
-      "trackName": "Board Game Stats",
+      "averageUserRatingForCurrentVersion": 4.7362,
+      "genres": [
+        "Lifestyle",
+        "Dienst­programme"
+      ],
+      "price": 5.99,
+      "releaseDate": "2014-07-06T06:16:52Z",
       "trackId": 892542000,
+      "trackName": "Board Game Stats",
+      "minimumOsVersion": "15",
+      "genreIds": [
+        "6012",
+        "6002"
+      ],
+      "primaryGenreName": "Lifestyle",
+      "primaryGenreId": 6012,
+      "sellerName": "Eerko Vissering",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-11-01T23:59:46Z",
+      "releaseNotes": "• Fixes visibility of the top controls of the 3x3 screen on iOS 26 and later.\n• Score sheet improvements when using Zoomed view.",
+      "version": "6.18.1",
+      "wrapperType": "software",
+      "currency": "EUR",
+      "description": "Keep track of your Board Game collection, plays and scores in this easy to use tool.\nView statistics and graphs for your games, plays, and other players.\nWorks offline, can sync with BoardGameGeek.\n\n- How many games did you play recently?\n- Who scored the highest for a game?\n- With whom did you play and who wins more?\n- Did you improve your score from last times?\n- Use tailor-made score sheets to enter scores.\n- Compare players, view graphs and charts.\n- Keep track of your collection and sync with BoardGameGeek.\n\nCollection management features:\n- Keep track of every game you've played or are interested in.\n- Choose a specific version and image, and track multiple copies.\n- Set status to Owned, Wishlist, Want to play, and much more.\n- Enter details like comments, price paid, acquisition date, etc.\n- Filter games on status, Played but not owned, Unplayed owned games.\n- Set Custom filters to select a game for your specific group.\n- Full automatic syncing with your BoardGameGeek (BGG) collection.\n\nPlay tracking features:\n- Set scoring rules, cooperative and team play for each game.\n- Select game and played expansions.\n- Set Players and Locations, including anonymous players.\n- Enter location, scores per player and many more details.\n- Calculate scores on the fly by using the math keyboard.\n- Create teams and enter team scores.\n- Use over 2800 game-specific tailor-made score sheets.\n- Add Player roles, and choose from previously used ones.\n- Use a timer to keep track of your play length.\n- Add a Game note you can view each time you start a Play.\n- Post your plays to BoardGameGeek, including auto-post after each save.\n- Import existing plays from BoardGameGeek (BGG), Yucata and Board Game Arena (BGA)\n- Send one or more Plays to other BG Stats users so only one of you has to enter the details.\n\nStatistics features:\n- View statistics for each game and player, and combination.\n- See pie charts, play times and durations graphs, and score charts.\n- View insights for Games and Players, for different time periods.\n- See your H-index, fives, dimes, quarters and centuries.\n- View a Player's personal H-index and win percentage.\n- Share Insights charts and 3x3 images.\n- See cost per play for your games.\n\nBG Stats has export and import functions for easy backup to a variety of services.\nYou can sync with other devices via BG Stats Cloud sync (an in-app subscription).\nAll in a native iOS interface, supports dark mode, landscape and iPad screens.\n\nWith the Power Expansion (in-app purchase):\n- Extended game charts, based on number of players.\n- Filter your data on players, locations, specific periods and player counts.\n- Statistics for a specific combination of players, and compare them.\n- Winning streaks, tiebreakers, and new and starting player stats.\n- Role- and board-based statistics.\n- Heat map of plays and play duration. \n- Cost per hour, player and more.\n- Add tags to Games, Players and Locations.\n- Create and save custom filters, now also with tags.\n- Customize the Game filter dropdown menu.\n- Create advanced filters with multiple criteria and logical operations.\n- View combined game statistics.\n- Sync game tags with BoardGameGeek.\n- Create Challenges (if available) based on game filters or tags.\n\nWith the Challenges expansion (in-app purchase):\n- Create a challenge from one of the many templates.\n- x times y challenges: play x games y times.\n- Ongoing Reach your next H-index challenges.\n- Set the time period and choose specific games to track, or use auto-fill.\n- Filter specific Players, Locations and player counts to count for the challenge.\n\nWith a Cloud sync subscription:\n- Seamlessly sync your data between all your devices.\n- Keep a backup of your data in the cloud.\n\nPlease note that changes to the BGG website or API can temporarily break BGG related features. I cannot guarantee their continued availability.",
+      "trackCensoredName": "Board Game Stats",
+      "bundleId": "nl.vissering.BoardGameStats",
+      "trackViewUrl": "https://apps.apple.com/de/app/board-game-stats/id892542000?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.7362,
+      "artistId": 892542003,
+      "artistName": "Eerko Vissering",
       "userRatingCount": 163,
       "country": "DEU"
     },
@@ -679,10 +679,7 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3b/e5/6b/3be56bd6-e3c3-e88f-1322-20c530c9723a/10._Challenges.jpg/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/18/c7/fd18c7a9-052e-e904-25d8-ba4f94697e3a/AppIcon-0-0-1x_U007epad-0-11-0-sRGB-85-220.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/gb/developer/eerko-vissering/id892542003?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/18/c7/fd18c7a9-052e-e904-25d8-ba4f94697e3a/AppIcon-0-0-1x_U007epad-0-11-0-sRGB-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/18/c7/fd18c7a9-052e-e904-25d8-ba4f94697e3a/AppIcon-0-0-1x_U007epad-0-11-0-sRGB-85-220.png/100x100bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/e9/5f/e8e95ff5-683a-5e77-5db1-5274e5e35c25/AppIcon-0-0-1x_U007epad-0-11-0-sRGB-85-220.png/512x512bb.jpg",
       "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
@@ -816,11 +813,15 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
-      "kind": "software",
       "features": [
         "iosUniversal"
       ],
+      "advisories": [],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/gb/developer/eerko-vissering/id892542003?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/e9/5f/e8e95ff5-683a-5e77-5db1-5274e5e35c25/AppIcon-0-0-1x_U007epad-0-11-0-sRGB-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/e9/5f/e8e95ff5-683a-5e77-5db1-5274e5e35c25/AppIcon-0-0-1x_U007epad-0-11-0-sRGB-85-220.png/100x100bb.jpg",
+      "releaseNotes": "• Fixes visibility of the top controls of the 3x3 screen on iOS 26 and later.\n• Score sheet improvements when using Zoomed view.",
       "sellerUrl": "https://www.eerko.nl",
       "languageCodesISO2A": [
         "CA",
@@ -841,50 +842,44 @@
         "SV",
         "UK"
       ],
-      "fileSizeBytes": "57126912",
+      "averageUserRatingForCurrentVersion": 4.79268,
+      "fileSizeBytes": "57229312",
       "formattedPrice": "£4.99",
       "userRatingCountForCurrentVersion": 82,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.79268,
-      "trackViewUrl": "https://apps.apple.com/gb/app/board-game-stats/id892542000?uo=4",
-      "contentAdvisoryRating": "4+",
-      "releaseNotes": "• Add/Edit Tags when editing (or creating) a Game, Player or Location.\n• Play Overview Image displays year automatically for older plays.\n• Added option to Play Overview Image to always display the year.\n• Shows names of anonymous players in start player randomizer.\n• Doesn't auto-set rank in 1-player plays.\n• Saves auto-post settings when logging out from BGG.\n• Added Share button to score sheet input screen.\n• Fixes setting play location to None via multiple-select.\n• Fixes input fields getting mixed up when setting team details.\n• Visual improvements and reported crashes fixed.",
       "artistId": 892542003,
       "artistName": "Eerko Vissering",
-      "price": 4.99,
-      "genreIds": [
-        "6012",
-        "6002"
-      ],
-      "trackId": 892542000,
-      "trackName": "Board Game Stats",
-      "releaseDate": "2014-07-06T06:16:52Z",
-      "sellerName": "Eerko Vissering",
-      "primaryGenreName": "Lifestyle",
-      "primaryGenreId": 6012,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-10-29T05:42:00Z",
-      "version": "6.18",
-      "wrapperType": "software",
-      "currency": "GBP",
-      "description": "Keep track of your Board Game collection, plays and scores in this easy to use tool.\nView statistics and graphs for your games, plays, and other players.\nWorks offline, can sync with BoardGameGeek.\n\n- How many games did you play recently?\n- Who scored the highest for a game?\n- With whom did you play and who wins more?\n- Did you improve your score from last times?\n- Use tailor-made score sheets to enter scores.\n- Compare players, view graphs and charts.\n- Keep track of your collection and sync with BoardGameGeek.\n\nCollection management features:\n- Keep track of every game you've played or are interested in.\n- Choose a specific version and image, and track multiple copies.\n- Set status to Owned, Wishlist, Want to play, and much more.\n- Enter details like comments, price paid, acquisition date, etc.\n- Filter games on status, Played but not owned, Unplayed owned games.\n- Set Custom filters to select a game for your specific group.\n- Full automatic syncing with your BoardGameGeek (BGG) collection.\n\nPlay tracking features:\n- Set scoring rules, cooperative and team play for each game.\n- Select game and played expansions.\n- Set Players and Locations, including anonymous players.\n- Enter location, scores per player and many more details.\n- Calculate scores on the fly by using the math keyboard.\n- Create teams and enter team scores.\n- Use over 2800 game-specific tailor-made score sheets.\n- Add Player roles, and choose from previously used ones.\n- Use a timer to keep track of your play length.\n- Add a Game note you can view each time you start a Play.\n- Post your plays to BoardGameGeek, including auto-post after each save.\n- Import existing plays from BoardGameGeek (BGG), Yucata and Board Game Arena (BGA)\n- Send one or more Plays to other BG Stats users so only one of you has to enter the details.\n\nStatistics features:\n- View statistics for each game and player, and combination.\n- See pie charts, play times and durations graphs, and score charts.\n- View insights for Games and Players, for different time periods.\n- See your H-index, fives, dimes, quarters and centuries.\n- View a Player's personal H-index and win percentage.\n- Share Insights charts and 3x3 images.\n- See cost per play for your games.\n\nBG Stats has export and import functions for easy backup to a variety of services.\nYou can sync with other devices via BG Stats Cloud sync (an in-app subscription).\nAll in a native iOS interface, supports dark mode, landscape and iPad screens.\n\nWith the Power Expansion (in-app purchase):\n- Extended game charts, based on number of players.\n- Filter your data on players, locations, specific periods and player counts.\n- Statistics for a specific combination of players, and compare them.\n- Winning streaks, tiebreakers, and new and starting player stats.\n- Role- and board-based statistics.\n- Heat map of plays and play duration. \n- Cost per hour, player and more.\n- Add tags to Games, Players and Locations.\n- Create and save custom filters, now also with tags.\n- Customize the Game filter dropdown menu.\n- Create advanced filters with multiple criteria and logical operations.\n- View combined game statistics.\n- Sync game tags with BoardGameGeek.\n- Create Challenges (if available) based on game filters or tags.\n\nWith the Challenges expansion (in-app purchase):\n- Create a challenge from one of the many templates.\n- x times y challenges: play x games y times.\n- Ongoing Reach your next H-index challenges.\n- Set the time period and choose specific games to track, or use auto-fill.\n- Filter specific Players, Locations and player counts to count for the challenge.\n\nWith a Cloud sync subscription:\n- Seamlessly sync your data between all your devices.\n- Keep a backup of your data in the cloud.\n\nPlease note that changes to the BGG website or API can temporarily break BGG related features. I cannot guarantee their continued availability.",
-      "bundleId": "nl.vissering.BoardGameStats",
-      "trackCensoredName": "Board Game Stats",
-      "averageUserRating": 4.79268,
       "genres": [
         "Lifestyle",
         "Utilities"
       ],
+      "price": 4.99,
+      "bundleId": "nl.vissering.BoardGameStats",
+      "trackId": 892542000,
+      "trackName": "Board Game Stats",
+      "releaseDate": "2014-07-06T06:16:52Z",
+      "genreIds": [
+        "6012",
+        "6002"
+      ],
+      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "Eerko Vissering",
+      "primaryGenreName": "Lifestyle",
+      "primaryGenreId": 6012,
       "minimumOsVersion": "15",
+      "currentVersionReleaseDate": "2026-11-01T23:59:46Z",
+      "version": "6.18.1",
+      "wrapperType": "software",
+      "currency": "GBP",
+      "description": "Keep track of your Board Game collection, plays and scores in this easy to use tool.\nView statistics and graphs for your games, plays, and other players.\nWorks offline, can sync with BoardGameGeek.\n\n- How many games did you play recently?\n- Who scored the highest for a game?\n- With whom did you play and who wins more?\n- Did you improve your score from last times?\n- Use tailor-made score sheets to enter scores.\n- Compare players, view graphs and charts.\n- Keep track of your collection and sync with BoardGameGeek.\n\nCollection management features:\n- Keep track of every game you've played or are interested in.\n- Choose a specific version and image, and track multiple copies.\n- Set status to Owned, Wishlist, Want to play, and much more.\n- Enter details like comments, price paid, acquisition date, etc.\n- Filter games on status, Played but not owned, Unplayed owned games.\n- Set Custom filters to select a game for your specific group.\n- Full automatic syncing with your BoardGameGeek (BGG) collection.\n\nPlay tracking features:\n- Set scoring rules, cooperative and team play for each game.\n- Select game and played expansions.\n- Set Players and Locations, including anonymous players.\n- Enter location, scores per player and many more details.\n- Calculate scores on the fly by using the math keyboard.\n- Create teams and enter team scores.\n- Use over 2800 game-specific tailor-made score sheets.\n- Add Player roles, and choose from previously used ones.\n- Use a timer to keep track of your play length.\n- Add a Game note you can view each time you start a Play.\n- Post your plays to BoardGameGeek, including auto-post after each save.\n- Import existing plays from BoardGameGeek (BGG), Yucata and Board Game Arena (BGA)\n- Send one or more Plays to other BG Stats users so only one of you has to enter the details.\n\nStatistics features:\n- View statistics for each game and player, and combination.\n- See pie charts, play times and durations graphs, and score charts.\n- View insights for Games and Players, for different time periods.\n- See your H-index, fives, dimes, quarters and centuries.\n- View a Player's personal H-index and win percentage.\n- Share Insights charts and 3x3 images.\n- See cost per play for your games.\n\nBG Stats has export and import functions for easy backup to a variety of services.\nYou can sync with other devices via BG Stats Cloud sync (an in-app subscription).\nAll in a native iOS interface, supports dark mode, landscape and iPad screens.\n\nWith the Power Expansion (in-app purchase):\n- Extended game charts, based on number of players.\n- Filter your data on players, locations, specific periods and player counts.\n- Statistics for a specific combination of players, and compare them.\n- Winning streaks, tiebreakers, and new and starting player stats.\n- Role- and board-based statistics.\n- Heat map of plays and play duration. \n- Cost per hour, player and more.\n- Add tags to Games, Players and Locations.\n- Create and save custom filters, now also with tags.\n- Customize the Game filter dropdown menu.\n- Create advanced filters with multiple criteria and logical operations.\n- View combined game statistics.\n- Sync game tags with BoardGameGeek.\n- Create Challenges (if available) based on game filters or tags.\n\nWith the Challenges expansion (in-app purchase):\n- Create a challenge from one of the many templates.\n- x times y challenges: play x games y times.\n- Ongoing Reach your next H-index challenges.\n- Set the time period and choose specific games to track, or use auto-fill.\n- Filter specific Players, Locations and player counts to count for the challenge.\n\nWith a Cloud sync subscription:\n- Seamlessly sync your data between all your devices.\n- Keep a backup of your data in the cloud.\n\nPlease note that changes to the BGG website or API can temporarily break BGG related features. I cannot guarantee their continued availability.",
+      "contentAdvisoryRating": "4+",
+      "trackCensoredName": "Board Game Stats",
+      "trackViewUrl": "https://apps.apple.com/gb/app/board-game-stats/id892542000?uo=4",
+      "averageUserRating": 4.79268,
       "userRatingCount": 82,
       "country": "GBR"
     },
     {
-      "artistViewUrl": "https://apps.apple.com/fr/developer/eerko-vissering/id892542003?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/db/77/fadb7774-6d99-2de6-7e7c-d393d1a1aee2/AppIcon-0-0-1x_U007epad-0-11-0-sRGB-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/db/77/fadb7774-6d99-2de6-7e7c-d393d1a1aee2/AppIcon-0-0-1x_U007epad-0-11-0-sRGB-85-220.png/100x100bb.jpg",
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/db/77/fadb7774-6d99-2de6-7e7c-d393d1a1aee2/AppIcon-0-0-1x_U007epad-0-11-0-sRGB-85-220.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a1/82/e7/a182e7ab-27e2-70ed-7d62-5f23925ae3dc/1._Overview.jpg/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ec/5f/1e/ec5f1e73-8431-17d8-6af0-9c185f5bcc79/2._Game_overview.jpg/320x480bb.jpg",
@@ -909,12 +904,15 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/df/d3/c6/dfd3c68c-99ac-6883-5b42-ae725de6c4c2/9._Sharing.jpg/360x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3b/e5/6b/3be56bd6-e3c3-e88f-1322-20c530c9723a/10._Challenges.jpg/360x480bb.jpg"
       ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/e9/5f/e8e95ff5-683a-5e77-5db1-5274e5e35c25/AppIcon-0-0-1x_U007epad-0-11-0-sRGB-85-220.png/60x60bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/e9/5f/e8e95ff5-683a-5e77-5db1-5274e5e35c25/AppIcon-0-0-1x_U007epad-0-11-0-sRGB-85-220.png/512x512bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/e9/5f/e8e95ff5-683a-5e77-5db1-5274e5e35c25/AppIcon-0-0-1x_U007epad-0-11-0-sRGB-85-220.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/fr/developer/eerko-vissering/id892542003?uo=4",
       "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
       ],
-      "advisories": [],
-      "kind": "software",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -1047,12 +1045,12 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "trackCensoredName": "Board Game Stats",
-      "trackViewUrl": "https://apps.apple.com/fr/app/board-game-stats/id892542000?uo=4",
-      "contentAdvisoryRating": "4+",
+      "advisories": [],
+      "kind": "software",
       "sellerUrl": "https://www.eerko.nl",
-      "userRatingCountForCurrentVersion": 62,
       "averageUserRatingForCurrentVersion": 4.74193,
+      "averageUserRating": 4.74193,
+      "trackCensoredName": "Board Game Stats",
       "languageCodesISO2A": [
         "CA",
         "CS",
@@ -1072,36 +1070,38 @@
         "SV",
         "UK"
       ],
-      "fileSizeBytes": "57102336",
+      "fileSizeBytes": "57229312",
       "formattedPrice": "5,99 €",
+      "contentAdvisoryRating": "4+",
+      "userRatingCountForCurrentVersion": 62,
+      "trackViewUrl": "https://apps.apple.com/fr/app/board-game-stats/id892542000?uo=4",
       "trackContentRating": "4+",
-      "averageUserRating": 4.74193,
-      "artistId": 892542003,
-      "artistName": "Eerko Vissering",
+      "releaseNotes": "• Fixes visibility of the top controls of the 3x3 screen on iOS 26 and later.\n• Score sheet improvements when using Zoomed view.",
       "genres": [
         "Style de vie",
         "Utilitaires"
       ],
-      "price": 5.99,
-      "genreIds": [
-        "6012",
-        "6002"
-      ],
+      "artistId": 892542003,
+      "artistName": "Eerko Vissering",
+      "bundleId": "nl.vissering.BoardGameStats",
       "releaseDate": "2014-07-06T06:16:52Z",
       "primaryGenreName": "Lifestyle",
       "primaryGenreId": 6012,
       "sellerName": "Eerko Vissering",
+      "minimumOsVersion": "15",
+      "genreIds": [
+        "6012",
+        "6002"
+      ],
+      "trackId": 892542000,
+      "trackName": "Board Game Stats",
       "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-10-17T19:14:42Z",
-      "version": "6.17.3",
+      "currentVersionReleaseDate": "2026-11-01T23:59:46Z",
+      "version": "6.18.1",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Keep track of your Board Game collection, plays and scores in this easy to use tool.\nView statistics and graphs for your games, plays, and other players.\nWorks offline, can sync with BoardGameGeek.\n\n- How many games did you play recently?\n- Who scored the highest for a game?\n- With whom did you play and who wins more?\n- Did you improve your score from last times?\n- Use tailor-made score sheets to enter scores.\n- Compare players, view graphs and charts.\n- Keep track of your collection and sync with BoardGameGeek.\n\nCollection management features:\n- Keep track of every game you've played or are interested in.\n- Choose a specific version and image, and track multiple copies.\n- Set status to Owned, Wishlist, Want to play, and much more.\n- Enter details like comments, price paid, acquisition date, etc.\n- Filter games on status, Played but not owned, Unplayed owned games.\n- Set Custom filters to select a game for your specific group.\n- Full automatic syncing with your BoardGameGeek (BGG) collection.\n\nPlay tracking features:\n- Set scoring rules, cooperative and team play for each game.\n- Select game and played expansions.\n- Set Players and Locations, including anonymous players.\n- Enter location, scores per player and many more details.\n- Calculate scores on the fly by using the math keyboard.\n- Create teams and enter team scores.\n- Use over 2800 game-specific tailor-made score sheets.\n- Add Player roles, and choose from previously used ones.\n- Use a timer to keep track of your play length.\n- Add a Game note you can view each time you start a Play.\n- Post your plays to BoardGameGeek, including auto-post after each save.\n- Import existing plays from BoardGameGeek (BGG), Yucata and Board Game Arena (BGA)\n- Send one or more Plays to other BG Stats users so only one of you has to enter the details.\n\nStatistics features:\n- View statistics for each game and player, and combination.\n- See pie charts, play times and durations graphs, and score charts.\n- View insights for Games and Players, for different time periods.\n- See your H-index, fives, dimes, quarters and centuries.\n- View a Player's personal H-index and win percentage.\n- Share Insights charts and 3x3 images.\n- See cost per play for your games.\n\nBG Stats has export and import functions for easy backup to a variety of services.\nYou can sync with other devices via BG Stats Cloud sync (an in-app subscription).\nAll in a native iOS interface, supports dark mode, landscape and iPad screens.\n\nWith the Power Expansion (in-app purchase):\n- Extended game charts, based on number of players.\n- Filter your data on players, locations, specific periods and player counts.\n- Statistics for a specific combination of players, and compare them.\n- Winning streaks, tiebreakers, and new and starting player stats.\n- Role- and board-based statistics.\n- Heat map of plays and play duration. \n- Cost per hour, player and more.\n- Add tags to Games, Players and Locations.\n- Create and save custom filters, now also with tags.\n- Customize the Game filter dropdown menu.\n- Create advanced filters with multiple criteria and logical operations.\n- View combined game statistics.\n- Sync game tags with BoardGameGeek.\n- Create Challenges (if available) based on game filters or tags.\n\nWith the Challenges expansion (in-app purchase):\n- Create a challenge from one of the many templates.\n- x times y challenges: play x games y times.\n- Ongoing Reach your next H-index challenges.\n- Set the time period and choose specific games to track, or use auto-fill.\n- Filter specific Players, Locations and player counts to count for the challenge.\n\nWith a Cloud sync subscription:\n- Seamlessly sync your data between all your devices.\n- Keep a backup of your data in the cloud.\n\nPlease note that changes to the BGG website or API can temporarily break BGG related features. I cannot guarantee their continued availability.",
-      "bundleId": "nl.vissering.BoardGameStats",
-      "minimumOsVersion": "15",
-      "releaseNotes": "• Added “Reload BGG Properties” option to games list multiple-select.\n• Added Edit button to enter any duration of a play in Play settings.\n• Fixed some visual display issues.",
-      "trackId": 892542000,
-      "trackName": "Board Game Stats",
+      "price": 5.99,
       "userRatingCount": 62,
       "country": "FRA"
     }

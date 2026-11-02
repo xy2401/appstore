@@ -2,11 +2,17 @@
   "resultCount": 1,
   "results": [
     {
-      "isGameCenterEnabled": false,
-      "artistViewUrl": "https://apps.apple.com/fr/developer/zookeeper-media-llc/id1471725281?uo=4",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/06/63/f7/0663f7ce-a420-8f76-101a-ec3a140c9bac/Wide_Web__U2014_1.0__U2014_iPhone_1.jpg/320x480bb.jpg"
+      ],
+      "ipadScreenshotUrls": [],
+      "appletvScreenshotUrls": [],
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/c1/cb/1bc1cbe1-6e5c-ca31-8d5d-22eef4dabe5a/Wide_Web_Icon_Composer-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/c1/cb/1bc1cbe1-6e5c-ca31-8d5d-22eef4dabe5a/Wide_Web_Icon_Composer-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/c1/cb/1bc1cbe1-6e5c-ca31-8d5d-22eef4dabe5a/Wide_Web_Icon_Composer-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
-      "features": [],
+      "artistViewUrl": "https://apps.apple.com/fr/developer/zookeeper-media-llc/id1471725281?uo=4",
+      "isGameCenterEnabled": false,
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -139,27 +145,27 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
       "kind": "software",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/06/63/f7/0663f7ce-a420-8f76-101a-ec3a140c9bac/Wide_Web__U2014_1.0__U2014_iPhone_1.jpg/320x480bb.jpg"
-      ],
-      "ipadScreenshotUrls": [],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/c1/cb/1bc1cbe1-6e5c-ca31-8d5d-22eef4dabe5a/Wide_Web_Icon_Composer-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
-      "averageUserRatingForCurrentVersion": 1,
-      "releaseNotes": "Improvements to stability: Wide Web wasn’t working on some websites",
+      "features": [],
       "trackCensoredName": "Wide Web: Full Screen Safari",
-      "trackViewUrl": "https://apps.apple.com/fr/app/wide-web-full-screen-safari/id6818616702?uo=4",
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "fileSizeBytes": "9300992",
+      "formattedPrice": "0,99 €",
       "contentAdvisoryRating": "4+",
-      "averageUserRating": 1,
+      "userRatingCountForCurrentVersion": 1,
+      "trackViewUrl": "https://apps.apple.com/fr/app/wide-web-full-screen-safari/id6818616702?uo=4",
+      "trackContentRating": "4+",
       "artistId": 1471725281,
       "artistName": "ZooKeeper Media LLC",
       "genres": [
         "Utilitaires"
       ],
-      "price": 0.99,
-      "bundleId": "com.jonah.WideWeb",
+      "currentVersionReleaseDate": "2026-10-25T22:16:35Z",
+      "releaseDate": "2026-10-22T07:00:00Z",
+      "trackId": 6818616702,
+      "trackName": "Wide Web: Full Screen Safari",
       "minimumOsVersion": "27.0",
       "genreIds": [
         "6002"
@@ -168,21 +174,15 @@
       "primaryGenreId": 6002,
       "sellerName": "ZooKeeper Media LLC",
       "isVppDeviceBasedLicensingEnabled": true,
-      "releaseDate": "2026-10-22T07:00:00Z",
-      "trackName": "Wide Web: Full Screen Safari",
-      "trackId": 6818616702,
-      "currentVersionReleaseDate": "2026-10-25T22:16:35Z",
+      "releaseNotes": "Improvements to stability: Wide Web wasn’t working on some websites",
       "version": "1.1",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Wide Web is a Safari extension for iPhone Duo.\n\nOn the outer display, the side controls sit on the right edge of the screen. Wide Web lets the page continue underneath them. Color, photos, and backgrounds fill that space. Text and the buttons in the top bar stop before the camera, so they stay easy to tap.\n\nTurn it on from the page menu in Safari, then Manage Extensions. Allow it on the sites you want.\n\nIt only runs on the Duo’s outer display.",
-      "languageCodesISO2A": [
-        "EN"
-      ],
-      "fileSizeBytes": "9300992",
-      "formattedPrice": "0,99 €",
-      "userRatingCountForCurrentVersion": 1,
-      "trackContentRating": "4+",
+      "bundleId": "com.jonah.WideWeb",
+      "averageUserRatingForCurrentVersion": 1,
+      "averageUserRating": 1,
+      "price": 0.99,
       "userRatingCount": 1,
       "country": "FRA"
     }

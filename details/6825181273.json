@@ -2,24 +2,20 @@
   "resultCount": 1,
   "results": [
     {
-      "isGameCenterEnabled": false,
       "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/72/39/b1/7239b128-af46-52bf-f7cb-8f5050c15ceb/phone-demo-lake.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9e/5b/cc/9e5bcc7d-9851-c252-4da4-d57b8b7d72cc/phone-demo-meadow.jpg/320x480bb.jpg"
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0b/50/2f/0b502fac-f6df-9f89-b5e2-3b1e96e7ac3c/phone-demo-lake.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/02/5d/84/025d8446-a19c-00b4-a22f-f9779c60bee6/phone-demo-meadow.jpg/320x480bb.jpg"
       ],
       "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/65/72/30/657230e2-b7fa-6255-dec9-4a4bfb9beb4a/ipad-demo-lake.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f3/93/a4/f393a490-042d-e9b1-214b-649f164ba967/ipad-demo-meadow.jpg/360x480bb.jpg"
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fd/de/d3/fdded34a-d05a-aead-f938-2ecd4f1969cc/ipad-demo-lake.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7e/32/c2/7e32c2f5-8515-add2-c727-f1d2ba5be5f4/ipad-demo-meadow.jpg/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/ae/53/a5ae53a7-2847-3579-38d5-71bc71ed77b0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/ae/53/a5ae53a7-2847-3579-38d5-71bc71ed77b0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/ae/53/a5ae53a7-2847-3579-38d5-71bc71ed77b0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/us/developer/eric-kunz/id919557120?uo=4",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fb/74/1e/fb741e5e-da9f-8526-e723-56717d7ea99c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
       ],
-      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -152,12 +148,13 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "advisories": [],
       "kind": "software",
-      "releaseNotes": "AltoPaint now runs on iOS 26 as well as iOS 27, so more iPhones and iPads can open the tin.",
+      "artistViewUrl": "https://apps.apple.com/us/developer/eric-kunz/id919557120?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fb/74/1e/fb741e5e-da9f-8526-e723-56717d7ea99c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fb/74/1e/fb741e5e-da9f-8526-e723-56717d7ea99c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
       "averageUserRatingForCurrentVersion": 5,
       "sellerUrl": "https://altopaint.app/",
-      "averageUserRating": 5,
-      "trackCensoredName": "AltoPaint: Oil & Gouache",
       "languageCodesISO2A": [
         "EN",
         "FR",
@@ -173,35 +170,38 @@
       ],
       "fileSizeBytes": "21397504",
       "formattedPrice": "$4.99",
-      "contentAdvisoryRating": "4+",
       "userRatingCountForCurrentVersion": 3,
-      "trackViewUrl": "https://apps.apple.com/us/app/altopaint-oil-gouache/id6825181273?uo=4",
       "trackContentRating": "4+",
+      "releaseNotes": "Bug fixes.",
+      "price": 4.99,
+      "minimumOsVersion": "26.0",
       "artistId": 919557120,
       "artistName": "Eric Kunz",
-      "genres": [
-        "Graphics & Design",
-        "Entertainment"
-      ],
-      "price": 4.99,
-      "bundleId": "com.highlinelabsllc.AltoPaint",
-      "sellerName": "Eric Kunz",
-      "primaryGenreName": "Graphics & Design",
-      "primaryGenreId": 6027,
       "trackId": 6825181273,
       "trackName": "AltoPaint: Oil & Gouache",
+      "bundleId": "com.highlinelabsllc.AltoPaint",
+      "primaryGenreName": "Graphics & Design",
+      "primaryGenreId": 6027,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseDate": "2026-10-23T07:00:00Z",
+      "sellerName": "Eric Kunz",
+      "currentVersionReleaseDate": "2026-11-02T08:36:37Z",
+      "version": "1.0.2",
+      "wrapperType": "software",
+      "currency": "USD",
+      "description": "Curiously small paintings, in a paint tin that fits in your pocket.\n\nOpen the lid and there's a tiny canvas inside, with twelve pigments and a mixing tray below. AltoPaint's paint behaves like paint: colors mix the way real pigments do, the brush runs dry, wet strokes drag into each other, and thick paint catches the light.\n\nTHERE'S NO UNDO\nJust like real paint. Paint over it, scrape it back with the knife, or let it set and work on top. Nothing is ever ruined; it just becomes part of the painting.\n\nTWELVE REAL PIGMENTS\nTitanium white, lemon yellow, cadmium yellow, yellow ochre, cadmium red, quinacridone magenta, ultramarine blue, phthalo blue, viridian, burnt sienna, raw umber and Payne's grey. Colors are mixed from each pigment's real reflectance across the spectrum, not from RGB, so blue and yellow make a true green and tints come out clean.\n\nOIL OR GOUACHE\nStart each painting in oil on a warm toned canvas, glossy and slow to dry, or in gouache on white paper, matte and quick to set.\n\nTHREE TOOLS\nThe round brush for everyday marks, the flat for broad strokes with a chisel edge, and the palette knife for flat planes, scraping and smearing. Pinch to zoom in for finer marks.\n\nREADY FOR APPLE PENCIL\nPressure, tilt and azimuth all shape the stroke. Lay the Pencil over to scumble with the side of the brush, and double-tap to switch to the knife.\n\nA GALLERY IN THE TIN\nEvery painting is saved as you go. Share your favorites as images.\n\nNo account, no ads, no subscription. Pay once and it's yours.\n\nMade in New York by High Line Labs.",
+      "trackCensoredName": "AltoPaint: Oil & Gouache",
+      "trackViewUrl": "https://apps.apple.com/us/app/altopaint-oil-gouache/id6825181273?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 5,
       "genreIds": [
         "6027",
         "6016"
       ],
-      "currentVersionReleaseDate": "2026-10-24T22:34:23Z",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseDate": "2026-10-23T07:00:00Z",
-      "version": "1.0.1",
-      "wrapperType": "software",
-      "currency": "USD",
-      "description": "Curiously small paintings, in a paint tin that fits in your pocket.\n\nOpen the lid and there's a tiny canvas inside, with twelve pigments and a mixing tray below. AltoPaint's paint behaves like paint: colors mix the way real pigments do, the brush runs dry, wet strokes drag into each other, and thick paint catches the light.\n\nTHERE'S NO UNDO\nJust like real paint. Paint over it, scrape it back with the knife, or let it set and work on top. Nothing is ever ruined; it just becomes part of the painting.\n\nTWELVE REAL PIGMENTS\nTitanium white, lemon yellow, cadmium yellow, yellow ochre, cadmium red, quinacridone magenta, ultramarine blue, phthalo blue, viridian, burnt sienna, raw umber and Payne's grey. Colors are mixed from each pigment's real reflectance across the spectrum, not from RGB, so blue and yellow make a true green and tints come out clean.\n\nOIL OR GOUACHE\nStart each painting in oil on a warm toned canvas, glossy and slow to dry, or in gouache on white paper, matte and quick to set.\n\nTHREE TOOLS\nThe round brush for everyday marks, the flat for broad strokes with a chisel edge, and the palette knife for flat planes, scraping and smearing. Pinch to zoom in for finer marks.\n\nREADY FOR APPLE PENCIL\nPressure, tilt and azimuth all shape the stroke. Lay the Pencil over to scumble with the side of the brush, and double-tap to switch to the knife.\n\nA GALLERY IN THE TIN\nEvery painting is saved as you go. Share your favorites as images.\n\nNo account, no ads, no subscription. Pay once and it's yours.\n\nMade in New York by High Line Labs.",
-      "minimumOsVersion": "26.0",
+      "genres": [
+        "Graphics & Design",
+        "Entertainment"
+      ],
       "userRatingCount": 3,
       "country": "USA"
     }
