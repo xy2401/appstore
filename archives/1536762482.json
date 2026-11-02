@@ -247,14 +247,25 @@
       "country": "gb",
       "mediaType": "apps",
       "feed": "top-paid",
-      "rank": 10,
+      "rank": 15,
       "artistName": "Spotted Ghosts",
       "id": "1536762482",
       "name": "Spirit Talker ®",
       "releaseDate": "2020-10-30",
       "kind": "apps",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/45/43/eb4543d2-bea2-e962-67fc-b993c516e241/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "genres": [],
+      "genres": [
+        {
+          "genreId": "6012",
+          "name": "Lifestyle",
+          "url": "https://itunes.apple.com/gb/genre/id6012"
+        },
+        {
+          "genreId": "6016",
+          "name": "Entertainment",
+          "url": "https://itunes.apple.com/gb/genre/id6016"
+        }
+      ],
       "url": "https://apps.apple.com/gb/app/spirit-talker/id1536762482"
     },
     {

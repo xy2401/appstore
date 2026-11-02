@@ -1,5 +1,5 @@
 {
-  "resultCount": 20,
+  "resultCount": 23,
   "results": [
     {
       "date": "20260406",
@@ -486,10 +486,62 @@
     },
     {
       "date": "20261101",
+      "country": "de",
+      "mediaType": "apps",
+      "feed": "top-free",
+      "rank": 91,
+      "artistName": "Airbnb, Inc.",
+      "id": "401626263",
+      "name": "Airbnb",
+      "releaseDate": "2010-11-10",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/ff/29/adff29b3-b964-bf50-25ad-c29f07ad55f1/AppIcon-0-0-1x_U007epad-0-1-0-0-0-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6003",
+          "name": "Reisen",
+          "url": "https://itunes.apple.com/de/genre/id6003"
+        },
+        {
+          "genreId": "6012",
+          "name": "Lifestyle",
+          "url": "https://itunes.apple.com/de/genre/id6012"
+        }
+      ],
+      "url": "https://apps.apple.com/de/app/airbnb/id401626263"
+    },
+    {
+      "date": "20261101",
+      "country": "fr",
+      "mediaType": "apps",
+      "feed": "top-free",
+      "rank": 46,
+      "artistName": "Airbnb, Inc.",
+      "id": "401626263",
+      "name": "Airbnb",
+      "releaseDate": "2010-11-10",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/ff/29/adff29b3-b964-bf50-25ad-c29f07ad55f1/AppIcon-0-0-1x_U007epad-0-1-0-0-0-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6003",
+          "name": "Voyages",
+          "url": "https://itunes.apple.com/fr/genre/id6003"
+        },
+        {
+          "genreId": "6012",
+          "name": "Style de vie",
+          "url": "https://itunes.apple.com/fr/genre/id6012"
+        }
+      ],
+      "url": "https://apps.apple.com/fr/app/airbnb/id401626263"
+    },
+    {
+      "date": "20261101",
       "country": "gb",
       "mediaType": "apps",
       "feed": "top-free",
-      "rank": 96,
+      "rank": 64,
       "artistName": "Airbnb, Inc.",
       "id": "401626263",
       "name": "Airbnb",
@@ -509,6 +561,32 @@
         }
       ],
       "url": "https://apps.apple.com/gb/app/airbnb/id401626263"
+    },
+    {
+      "date": "20261101",
+      "country": "us",
+      "mediaType": "apps",
+      "feed": "top-free",
+      "rank": 85,
+      "artistName": "Airbnb, Inc.",
+      "id": "401626263",
+      "name": "Airbnb",
+      "releaseDate": "2010-11-10",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/ff/29/adff29b3-b964-bf50-25ad-c29f07ad55f1/AppIcon-0-0-1x_U007epad-0-1-0-0-0-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6003",
+          "name": "Travel",
+          "url": "https://itunes.apple.com/us/genre/id6003"
+        },
+        {
+          "genreId": "6012",
+          "name": "Lifestyle",
+          "url": "https://itunes.apple.com/us/genre/id6012"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/airbnb/id401626263"
     }
   ]
 }

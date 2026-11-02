@@ -1,5 +1,5 @@
 {
-  "resultCount": 22,
+  "resultCount": 23,
   "results": [
     {
       "date": "20260406",
@@ -412,7 +412,7 @@
       "country": "de",
       "mediaType": "apps",
       "feed": "top-free",
-      "rank": 11,
+      "rank": 23,
       "artistName": "Netflix, Inc.",
       "id": "6447582581",
       "name": "Netflix Game Controller",
@@ -435,17 +435,54 @@
     },
     {
       "date": "20261101",
-      "country": "gb",
+      "country": "fr",
       "mediaType": "apps",
       "feed": "top-free",
-      "rank": 6,
+      "rank": 33,
       "artistName": "Netflix, Inc.",
       "id": "6447582581",
       "name": "Netflix Game Controller",
       "releaseDate": "2023-08-07",
       "kind": "apps",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/43/5d/b8435d95-8bbe-9b14-bacc-6b8bbd2808b2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "genres": [],
+      "genres": [
+        {
+          "genreId": "6016",
+          "name": "Divertissement",
+          "url": "https://itunes.apple.com/fr/genre/id6016"
+        },
+        {
+          "genreId": "6014",
+          "name": "Jeux",
+          "url": "https://itunes.apple.com/fr/genre/id6014"
+        }
+      ],
+      "url": "https://apps.apple.com/fr/app/netflix-game-controller/id6447582581"
+    },
+    {
+      "date": "20261101",
+      "country": "gb",
+      "mediaType": "apps",
+      "feed": "top-free",
+      "rank": 14,
+      "artistName": "Netflix, Inc.",
+      "id": "6447582581",
+      "name": "Netflix Game Controller",
+      "releaseDate": "2023-08-07",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/43/5d/b8435d95-8bbe-9b14-bacc-6b8bbd2808b2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6016",
+          "name": "Entertainment",
+          "url": "https://itunes.apple.com/gb/genre/id6016"
+        },
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/gb/genre/id6014"
+        }
+      ],
       "url": "https://apps.apple.com/gb/app/netflix-game-controller/id6447582581"
     },
     {
@@ -453,7 +490,7 @@
       "country": "us",
       "mediaType": "apps",
       "feed": "top-free",
-      "rank": 5,
+      "rank": 9,
       "artistName": "Netflix, Inc.",
       "id": "6447582581",
       "name": "Netflix Game Controller",

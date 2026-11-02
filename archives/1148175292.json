@@ -1,5 +1,5 @@
 {
-  "resultCount": 10,
+  "resultCount": 11,
   "results": [
     {
       "date": "20260901",
@@ -205,8 +205,8 @@
       "date": "20261101",
       "country": "gb",
       "mediaType": "podcasts",
-      "feed": "top-podcasts",
-      "rank": 98,
+      "feed": "top-subscriber-podcasts",
+      "rank": 62,
       "artistName": "The New Yorker",
       "id": "1148175292",
       "name": "In The Dark",
@@ -228,10 +228,10 @@
     },
     {
       "date": "20261101",
-      "country": "gb",
+      "country": "us",
       "mediaType": "podcasts",
-      "feed": "top-subscriber-podcasts",
-      "rank": 73,
+      "feed": "top-podcasts",
+      "rank": 96,
       "artistName": "The New Yorker",
       "id": "1148175292",
       "name": "In The Dark",
@@ -241,15 +241,40 @@
         {
           "genreId": "1488",
           "name": "True Crime",
-          "url": "https://itunes.apple.com/gb/genre/id1488"
+          "url": "https://itunes.apple.com/us/genre/id1488"
         },
         {
           "genreId": "1324",
           "name": "Society & Culture",
-          "url": "https://itunes.apple.com/gb/genre/id1324"
+          "url": "https://itunes.apple.com/us/genre/id1324"
         }
       ],
-      "url": "https://podcasts.apple.com/gb/podcast/in-the-dark/id1148175292"
+      "url": "https://podcasts.apple.com/us/podcast/in-the-dark/id1148175292"
+    },
+    {
+      "date": "20261101",
+      "country": "us",
+      "mediaType": "podcasts",
+      "feed": "top-subscriber-podcasts",
+      "rank": 43,
+      "artistName": "The New Yorker",
+      "id": "1148175292",
+      "name": "In The Dark",
+      "kind": "podcasts",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/67/d5/37/67d537b9-b27e-240b-b9a2-43c13bdfd7fb/mza_4163719876671560348.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "1488",
+          "name": "True Crime",
+          "url": "https://itunes.apple.com/us/genre/id1488"
+        },
+        {
+          "genreId": "1324",
+          "name": "Society & Culture",
+          "url": "https://itunes.apple.com/us/genre/id1324"
+        }
+      ],
+      "url": "https://podcasts.apple.com/us/podcast/in-the-dark/id1148175292"
     }
   ]
 }
