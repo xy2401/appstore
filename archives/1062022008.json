@@ -1,5 +1,5 @@
 {
-  "resultCount": 21,
+  "resultCount": 23,
   "results": [
     {
       "date": "20260406",
@@ -523,10 +523,10 @@
     },
     {
       "date": "20261101",
-      "country": "fr",
+      "country": "gb",
       "mediaType": "apps",
       "feed": "top-paid",
-      "rank": 98,
+      "rank": 79,
       "artistName": "Luma Touch LLC",
       "id": "1062022008",
       "name": "LumaFusion",
@@ -536,16 +536,68 @@
       "genres": [
         {
           "genreId": "6008",
-          "name": "Photo et vidéo",
-          "url": "https://itunes.apple.com/fr/genre/id6008"
+          "name": "Photo & Video",
+          "url": "https://itunes.apple.com/gb/genre/id6008"
         },
         {
           "genreId": "6011",
-          "name": "Musique",
-          "url": "https://itunes.apple.com/fr/genre/id6011"
+          "name": "Music",
+          "url": "https://itunes.apple.com/gb/genre/id6011"
         }
       ],
-      "url": "https://apps.apple.com/fr/app/lumafusion/id1062022008"
+      "url": "https://apps.apple.com/gb/app/lumafusion/id1062022008"
+    },
+    {
+      "date": "20261101",
+      "country": "jp",
+      "mediaType": "apps",
+      "feed": "top-paid",
+      "rank": 86,
+      "artistName": "Luma Touch LLC",
+      "id": "1062022008",
+      "name": "LumaFusion",
+      "releaseDate": "2016-12-22",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/9c/02/f99c0244-40d4-e896-bc3d-00bf4c352736/LumaFusionComposerIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6008",
+          "name": "写真／ビデオ",
+          "url": "https://itunes.apple.com/jp/genre/id6008"
+        },
+        {
+          "genreId": "6011",
+          "name": "ミュージック",
+          "url": "https://itunes.apple.com/jp/genre/id6011"
+        }
+      ],
+      "url": "https://apps.apple.com/jp/app/lumafusion/id1062022008"
+    },
+    {
+      "date": "20261101",
+      "country": "us",
+      "mediaType": "apps",
+      "feed": "top-paid",
+      "rank": 80,
+      "artistName": "Luma Touch LLC",
+      "id": "1062022008",
+      "name": "LumaFusion",
+      "releaseDate": "2016-12-22",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/9c/02/f99c0244-40d4-e896-bc3d-00bf4c352736/LumaFusionComposerIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6008",
+          "name": "Photo & Video",
+          "url": "https://itunes.apple.com/us/genre/id6008"
+        },
+        {
+          "genreId": "6011",
+          "name": "Music",
+          "url": "https://itunes.apple.com/us/genre/id6011"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/lumafusion/id1062022008"
     }
   ]
 }

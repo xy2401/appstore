@@ -118,7 +118,7 @@
       "country": "de",
       "mediaType": "apps",
       "feed": "top-paid",
-      "rank": 36,
+      "rank": 51,
       "artistName": "Squircle Apps LLP",
       "id": "6817070335",
       "name": "Deck-Man: Cassette Player",
@@ -144,7 +144,7 @@
       "country": "fr",
       "mediaType": "apps",
       "feed": "top-paid",
-      "rank": 17,
+      "rank": 21,
       "artistName": "Squircle Apps LLP",
       "id": "6817070335",
       "name": "Deck-Man: Cassette Player",
@@ -170,7 +170,7 @@
       "country": "gb",
       "mediaType": "apps",
       "feed": "top-paid",
-      "rank": 17,
+      "rank": 29,
       "artistName": "Squircle Apps LLP",
       "id": "6817070335",
       "name": "Deck-Man: Cassette Player",
@@ -196,7 +196,7 @@
       "country": "jp",
       "mediaType": "apps",
       "feed": "top-paid",
-      "rank": 47,
+      "rank": 46,
       "artistName": "Squircle Apps LLP",
       "id": "6817070335",
       "name": "Deck-Man: Cassette Player",
@@ -222,14 +222,25 @@
       "country": "us",
       "mediaType": "apps",
       "feed": "top-paid",
-      "rank": 8,
+      "rank": 11,
       "artistName": "Squircle Apps LLP",
       "id": "6817070335",
       "name": "Deck-Man: Cassette Player",
       "releaseDate": "2026-10-14",
       "kind": "apps",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/5f/40/4b5f4094-dec4-ea82-a41b-757ba9f740f0/deck-man-icon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
-      "genres": [],
+      "genres": [
+        {
+          "genreId": "6011",
+          "name": "Music",
+          "url": "https://itunes.apple.com/us/genre/id6011"
+        },
+        {
+          "genreId": "6016",
+          "name": "Entertainment",
+          "url": "https://itunes.apple.com/us/genre/id6016"
+        }
+      ],
       "url": "https://apps.apple.com/us/app/deck-man-cassette-player/id6817070335"
     }
   ]
