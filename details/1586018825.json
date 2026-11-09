@@ -206,9 +206,6 @@
     },
     {
       "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
       "advisories": [
         "Infrequent/Mild Horror/Fear Themes",
         "Infrequent/Mild Profanity or Crude Humor",
@@ -243,10 +240,13 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1b/26/03/1b26037c-7131-ad6a-3f99-6b95824b0e9a/screen_9.png/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/b8/8f/f9b88f9f-42de-7c0a-fd3e-449f7acedfc6/AppIcon-0-0-1x_U007epad-0-5-85-220.png/60x60bb.jpg",
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/b8/8f/f9b88f9f-42de-7c0a-fd3e-449f7acedfc6/AppIcon-0-0-1x_U007epad-0-5-85-220.png/512x512bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/b8/8f/f9b88f9f-42de-7c0a-fd3e-449f7acedfc6/AppIcon-0-0-1x_U007epad-0-5-85-220.png/100x100bb.jpg",
       "artistViewUrl": "https://apps.apple.com/us/developer/t-media-tech-llc/id1586018947?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/b8/8f/f9b88f9f-42de-7c0a-fd3e-449f7acedfc6/AppIcon-0-0-1x_U007epad-0-5-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/b8/8f/f9b88f9f-42de-7c0a-fd3e-449f7acedfc6/AppIcon-0-0-1x_U007epad-0-5-85-220.png/100x100bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -379,28 +379,25 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "releaseNotes": "Bug fixes and improvements.",
-      "genres": [
-        "Social Networking",
-        "News"
-      ],
-      "price": 0,
       "artistId": 1586018947,
       "artistName": "T Media Tech LLC",
+      "price": 0,
       "bundleId": "com.tmediatech.truthsocial",
-      "primaryGenreName": "Social Networking",
-      "primaryGenreId": 6005,
       "isVppDeviceBasedLicensingEnabled": true,
       "releaseDate": "2022-02-21T08:00:00Z",
+      "minimumOsVersion": "16.0",
+      "genreIds": [
+        "6005",
+        "6009"
+      ],
+      "primaryGenreName": "Social Networking",
+      "primaryGenreId": 6005,
       "currentVersionReleaseDate": "2026-10-30T12:18:36Z",
+      "releaseNotes": "Bug fixes and improvements.",
       "version": "1.28.3",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Follow the Truth!\n\nWhat exactly is Truth Social's \"Big Tent\" approach?\n\nThink of a giant outdoor event tent at your best friend's wedding. Who's there? The combination of multiple families from all over the United States, and the world. Uncle Jim from Atlanta is a proud libertarian. Aunt Kellie from Texas is a staunch conservative. Your cousin John from California is a die-hard liberal. And guess what? They're all together to have an amazing time and share their different viewpoints on the world. Although we don't always agree with each other, we welcome these varied opinions and the robust conversation they bring.\n\nLet your voice be heard. Sign up, join the conversation, and share your unique opinion by posting a Truth, Re-Truth, photo, news story, or video link to communicate with your friends, customers, and the world. Stay informed about breaking news while staying directly connected with the people who influence you – don't be shocked if they take your Truth viral!\n\nKey Features\nProfile - Express your unique personality by setting up a profile, avatar, and background. Begin to track your personal connections through follower and following counts as well as history for your posts and likes.\n\nTruth Feed - Get the scoop on the latest thoughts and activities from the people, organizations, and news outlets that interest you. The Truth Feed contains posts from all those you follow brought to life with the help of thumbnail photos, links, and more.\n\nSearch - Truth Social really starts to become interesting as you connect with others. Search for a voice that you find interesting and easily follow them right from the search list or view their profile first before deciding.\n\nNotifications - Stay engaged as you build a following. See who's following you and who's interacting with your Truth's.\n\nTerms of Use (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-      "averageUserRatingForCurrentVersion": 4.51721,
-      "sellerUrl": "https://truthsocial.com",
-      "averageUserRating": 4.51721,
-      "trackCensoredName": "Truth Social",
       "languageCodesISO2A": [
         "EN",
         "FR",
@@ -419,19 +416,22 @@
       ],
       "fileSizeBytes": "114246656",
       "formattedPrice": "Free",
-      "contentAdvisoryRating": "17+",
-      "userRatingCountForCurrentVersion": 118398,
-      "trackViewUrl": "https://apps.apple.com/us/app/truth-social/id1586018825?uo=4",
+      "userRatingCountForCurrentVersion": 118421,
       "trackContentRating": "17+",
-      "genreIds": [
-        "6005",
-        "6009"
-      ],
-      "sellerName": "T Media Tech LLC",
+      "sellerUrl": "https://truthsocial.com",
+      "trackCensoredName": "Truth Social",
+      "trackViewUrl": "https://apps.apple.com/us/app/truth-social/id1586018825?uo=4",
+      "contentAdvisoryRating": "17+",
+      "averageUserRating": 4.51682,
+      "averageUserRatingForCurrentVersion": 4.51682,
       "trackId": 1586018825,
       "trackName": "Truth Social",
-      "minimumOsVersion": "16.0",
-      "userRatingCount": 118398,
+      "sellerName": "T Media Tech LLC",
+      "genres": [
+        "Social Networking",
+        "News"
+      ],
+      "userRatingCount": 118421,
       "country": "USA"
     }
   ]

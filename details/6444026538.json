@@ -3,10 +3,9 @@
   "results": [
     {
       "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [],
+      "artistViewUrl": "https://apps.apple.com/gb/developer/nina-gill/id1651618994?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/68/c7/8368c7d7-34d6-fedb-dd46-b1366236321b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/68/c7/8368c7d7-34d6-fedb-dd46-b1366236321b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -134,9 +133,15 @@
         "iPadAir11M4-iPadAir11M4",
         "iPadAir11M4Cellular-iPadAir11M4Cellular",
         "iPadAir13M4-iPadAir13M4",
-        "iPadAir13M4Cellular-iPadAir13M4Cellular"
+        "iPadAir13M4Cellular-iPadAir13M4Cellular",
+        "iPhone18Pro-iPhone18Pro",
+        "iPhone18ProMax-iPhone18ProMax",
+        "iPhoneDuo-iPhoneDuo"
       ],
       "kind": "software",
+      "features": [
+        "iosUniversal"
+      ],
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ec/18/e0/ec18e054-3b91-6b63-3633-e6b3077ec3d5/3bdc24ee-2790-436f-a04d-d5e054942a7d_1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/40/aa/15/40aa15e2-20a9-566b-e917-469c5f9aa16a/49e088e2-afbe-49a1-94da-17288cd2e9b2_2.png/392x696bb.png",
@@ -160,47 +165,45 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/21/42/48/214248dd-5c8f-64f4-44cc-876e1c1f12cc/e73a2324-4c1d-4e54-a47f-e19cbc9c1590_9.png/576x768bb.png"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/8f/1e/348f1e23-27d7-d82d-28d5-1fdd7de53178/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg",
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/8f/1e/348f1e23-27d7-d82d-28d5-1fdd7de53178/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/8f/1e/348f1e23-27d7-d82d-28d5-1fdd7de53178/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/gb/developer/nina-gill/id1651618994?uo=4",
-      "releaseNotes": "Minor update to the random pole generator",
-      "minimumOsVersion": "13.0",
-      "price": 3.99,
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/68/c7/8368c7d7-34d6-fedb-dd46-b1366236321b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "advisories": [],
+      "averageUserRating": 4.79032,
+      "trackCensoredName": "Polework Patterns",
+      "trackViewUrl": "https://apps.apple.com/gb/app/polework-patterns/id6444026538?uo=4",
+      "contentAdvisoryRating": "4+",
       "genres": [
         "Sports"
       ],
       "artistId": 1651618994,
       "artistName": "Nina Gill",
-      "primaryGenreName": "Sports",
-      "primaryGenreId": 6004,
-      "sellerName": "Nina Gill",
-      "bundleId": "com.fancyfootwork.com.poleworkpatterns",
+      "trackName": "Polework Patterns",
+      "currentVersionReleaseDate": "2026-11-03T09:36:25Z",
+      "trackId": 6444026538,
+      "releaseDate": "2022-12-08T08:00:00Z",
+      "minimumOsVersion": "15.0",
       "genreIds": [
         "6004"
       ],
-      "currentVersionReleaseDate": "2025-03-04T09:06:10Z",
-      "trackId": 6444026538,
-      "trackName": "Polework Patterns",
-      "version": "2.1.0",
+      "primaryGenreName": "Sports",
+      "primaryGenreId": 6004,
+      "sellerName": "Nina Gill",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseNotes": "Fix for the iPad layout screen not scrolling and crashing on random layouts.",
+      "version": "2.2.0",
       "wrapperType": "software",
       "currency": "GBP",
       "description": "Do you love polework but have run out of ideas how to use your poles? Are you looking to engage your horse’s brain as well as their body in a fun and beneficial way? Do you get bored in the arena and need to help finding new ways to keep both you and your horse entertained?\n\nIf the answer is yes to any of the above then you need the Polework Patterns App by Fancy Footwork Equestrian  in your life! \n\nThis app includes 40 different layouts (20 main and 20 random) which are designed to be multi directional and use between one and twenty poles. There are several unique features including:\n\n- the option to search for layouts based on the amount of poles you want to use:\n   • 1–5 poles\n   • 6–10 poles \n   • 11–15 poles \n   • 16–20 poles \n\n- the option to search for exercises based on what area of a horse’s development you want to focus on – here you will find 15 categories including \n   • Balance \n   • Core \n   • Engagement \n   • Response to rider \n   • ... and more!\n\n- a random button which can be used if you can’t decide which layout to go for, or if you like to live a little dangerously! Either way press that random button, watch the poles spin, the confetti fall and then marvel as your layout is revealed! \n\n- all of the layouts have different suggested exercises to use (four options for the main layouts and two options for the random layouts), each of which are colour-coded to show which pace to use, and a proposed difficulty rating attached to help you decide if that exercise is suitable to your horse’s stage of training.\n\n- 120 potential exercises with four suggestions given per exercise as to what areas it could help your horse improve on. (Flexibility, straightness etc) \n\n- a “Favourites” folder where you can add any of the 80 exercises used in the main layouts for quick and easy access.\n\n- all for a one off price! No monthly subscription. No annual membership. Buy it once and that's it; its yours to keep!\n\nPolework patterns was developed by the creator of Fancy Footwork Equestrian, Nina Gill. Nina is a qualified coach who runs Polework clinics full-time and is passionate about her work and the many benefits of polework. This passion has led to Fancy Footwork Equestrian collaborating with some of the U.K.’s biggest equestrian YouTubers and influencers, as well as having Polework training articles printed in three of the biggest equine magazines to date. \nWith this app you will never run out of Polework ideas, even the biggest layouts have been designed to be broken down into smaller sections so that those sections can be used as a standalone layout if you don’t have enough poles to build the whole thing.",
       "averageUserRatingForCurrentVersion": 4.79032,
+      "bundleId": "com.fancyfootwork.com.poleworkpatterns",
       "sellerUrl": "https://www.fancyfootworkequestrian.co.uk",
-      "averageUserRating": 4.79032,
-      "trackCensoredName": "Polework Patterns",
       "languageCodesISO2A": [
         "EN"
       ],
-      "fileSizeBytes": "49675264",
+      "fileSizeBytes": "49716224",
       "formattedPrice": "£3.99",
-      "contentAdvisoryRating": "4+",
       "userRatingCountForCurrentVersion": 62,
-      "trackViewUrl": "https://apps.apple.com/gb/app/polework-patterns/id6444026538?uo=4",
       "trackContentRating": "4+",
-      "releaseDate": "2022-12-08T08:00:00Z",
-      "isVppDeviceBasedLicensingEnabled": true,
+      "price": 3.99,
       "userRatingCount": 62,
       "country": "GBR"
     }

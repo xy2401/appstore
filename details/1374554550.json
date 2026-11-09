@@ -206,10 +206,6 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ff/34/d3/ff34d3b7-427a-e662-1b4e-41d0ef46aa58/AppIcon-0-0-1x_U007epad-0-85-220.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -342,21 +338,25 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "advisories": [],
       "kind": "software",
       "artistViewUrl": "https://apps.apple.com/de/developer/florian-chrometz/id1004595008?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ff/34/d3/ff34d3b7-427a-e662-1b4e-41d0ef46aa58/AppIcon-0-0-1x_U007epad-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ff/34/d3/ff34d3b7-427a-e662-1b4e-41d0ef46aa58/AppIcon-0-0-1x_U007epad-0-85-220.png/100x100bb.jpg",
       "sellerUrl": "https://florian-chrometz.de",
-      "fileSizeBytes": "5485568",
-      "formattedPrice": "2,99 €",
-      "userRatingCountForCurrentVersion": 1400,
-      "trackContentRating": "4+",
-      "currentVersionReleaseDate": "2023-10-18T10:11:41Z",
       "languageCodesISO2A": [
         "EN"
       ],
-      "averageUserRatingForCurrentVersion": 4.64571,
+      "fileSizeBytes": "5485568",
+      "formattedPrice": "2,99 €",
+      "userRatingCountForCurrentVersion": 1410,
+      "trackContentRating": "4+",
+      "releaseNotes": "- Improved local tile caching",
+      "averageUserRatingForCurrentVersion": 4.64681,
       "artistId": 1004595008,
       "artistName": "Florian Chrometz",
       "genres": [
@@ -365,28 +365,28 @@
       ],
       "price": 2.99,
       "bundleId": "me.chrometz.railmap",
-      "releaseNotes": "- Improved local tile caching",
-      "trackId": 1374554550,
-      "trackName": "Railmap for Open Railway Map",
       "releaseDate": "2018-08-23T13:11:45Z",
       "genreIds": [
         "6006",
         "6010"
       ],
+      "minimumOsVersion": "15.0",
       "primaryGenreName": "Reference",
       "primaryGenreId": 6006,
       "sellerName": "Florian Chrometz",
       "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2023-10-18T10:11:41Z",
       "version": "1.2.2",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Railmap allows you to explore the world with a whole new sight: the world of train tracks.\n\nExplore three different rail map layers:\nSTANDARD\nExplore the global network of train tracks.\n\nSPEED\nGet a feeling about how fast you can go on which train tracks.\n\nSIGNALS\nSee detailed information about signs and signals on train tracks.\n\nRailmaps also caches places you've seen on your device so they'll load even faster if you want to see the again.",
+      "averageUserRating": 4.64681,
       "trackCensoredName": "Railmap for Open Railway Map",
       "trackViewUrl": "https://apps.apple.com/de/app/railmap-for-open-railway-map/id1374554550?uo=4",
-      "averageUserRating": 4.64571,
       "contentAdvisoryRating": "4+",
-      "minimumOsVersion": "15.0",
-      "userRatingCount": 1400,
+      "trackId": 1374554550,
+      "trackName": "Railmap for Open Railway Map",
+      "userRatingCount": 1410,
       "country": "DEU"
     }
   ]

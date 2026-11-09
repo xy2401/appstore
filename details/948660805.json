@@ -188,6 +188,7 @@
       "userRatingCount": 209491
     },
     {
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3b/b7/64/3bb76438-2463-e8b4-0eaf-1767774c81f7/1_Einrichtung.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d0/16/e6/d016e6df-3775-cbc6-05b5-b87c4aa05c2f/2_Startseite.png/320x480bb.jpg",
@@ -205,11 +206,15 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7a/d5/d0/7ad5d05b-93ca-378d-4798-37ff20f5eda8/6_PIN_Eingabe.png/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d4/5b/25/d45b2581-d0b8-325e-d50b-47fc90b2dd1a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d4/5b/25/d45b2581-d0b8-325e-d50b-47fc90b2dd1a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d4/5b/25/d45b2581-d0b8-325e-d50b-47fc90b2dd1a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+      "advisories": [],
+      "kind": "software",
       "artistViewUrl": "https://apps.apple.com/de/developer/governikus-service-gmbh/id948660804?uo=4",
-      "isGameCenterEnabled": false,
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d4/5b/25/d45b2581-d0b8-325e-d50b-47fc90b2dd1a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d4/5b/25/d45b2581-d0b8-325e-d50b-47fc90b2dd1a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "MacDesktop-MacDesktop",
         "iPhone5s-iPhone5s",
@@ -343,14 +348,8 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "kind": "software",
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [],
+      "averageUserRatingForCurrentVersion": 4.20113,
       "sellerUrl": "https://www.ausweisapp.bund.de",
-      "averageUserRating": 4.19829,
-      "trackCensoredName": "AusweisApp Bund",
       "languageCodesISO2A": [
         "EN",
         "DE",
@@ -359,36 +358,37 @@
       ],
       "fileSizeBytes": "50902016",
       "formattedPrice": "Gratis",
-      "contentAdvisoryRating": "4+",
-      "userRatingCountForCurrentVersion": 239112,
-      "trackViewUrl": "https://apps.apple.com/de/app/ausweisapp-bund/id948660805?uo=4",
+      "userRatingCountForCurrentVersion": 244867,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.19829,
-      "price": 0,
       "genres": [
         "Dienst­programme"
       ],
       "artistId": 948660804,
       "artistName": "Governikus Service GmbH",
+      "releaseDate": "2019-09-26T07:00:00Z",
+      "releaseNotes": "- Behebung einer Sicherheitslücke, durch die Server die Anwendung zum Absturz bringen könnten (CVE-2026-96432, CVE-2026-95620).\n- Behebung einer Sicherheitslücke, durch die Server die Anwendung dazu bringen können, nicht mehr zu reagieren (CVE-2026-16762).\n- RSA-Signaturen mit PKCS#1 v1.5 in TLS werden weiterhin unterstützt.",
       "trackId": 948660805,
       "trackName": "AusweisApp Bund",
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
-      "releaseDate": "2019-09-26T07:00:00Z",
       "minimumOsVersion": "17.0",
       "genreIds": [
         "6002"
       ],
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
+      "sellerName": "Governikus Service GmbH",
+      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-10-28T05:57:35Z",
-      "releaseNotes": "- Behebung einer Sicherheitslücke, durch die Server die Anwendung zum Absturz bringen könnten (CVE-2026-96432, CVE-2026-95620).\n- Behebung einer Sicherheitslücke, durch die Server die Anwendung dazu bringen können, nicht mehr zu reagieren (CVE-2026-16762).\n- RSA-Signaturen mit PKCS#1 v1.5 in TLS werden weiterhin unterstützt.",
       "version": "2.6.2",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Die AusweisApp ist eine Software, die Sie auf Ihrem iPhone, Mac oder iPad installieren, um sich mit Ihrem Personalausweis, Ihrem elektronischen Aufenthaltstitel oder der eID-Karte für Unionsbürger:innen online auszuweisen. \n\nAlle weiterführenden Informationen finden Sie unter: www.ausweisapp.bund.de\n\nDie Erklärung zur Barrierefreiheit der Software finden Sie unter: https://www.ausweisapp.bund.de/barrierefreiheit-app\n\nEntwickelt im Auftrag des Bundesamtes für Sicherheit in der Informationstechnik.",
+      "averageUserRating": 4.20113,
+      "contentAdvisoryRating": "4+",
+      "trackCensoredName": "AusweisApp Bund",
+      "trackViewUrl": "https://apps.apple.com/de/app/ausweisapp-bund/id948660805?uo=4",
       "bundleId": "com.governikus.ausweisapp2",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "sellerName": "Governikus Service GmbH",
-      "userRatingCount": 239112,
+      "price": 0,
+      "userRatingCount": 244867,
       "country": "DEU"
     }
   ]

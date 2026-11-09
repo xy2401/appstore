@@ -185,10 +185,13 @@
       "userRatingCount": 6
     },
     {
-      "artistViewUrl": "https://apps.apple.com/fr/developer/mustafa-pistofoglu/id1696939796?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/02/36/6b02365b-ab1d-66df-3318-97f85004755a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/02/36/6b02365b-ab1d-66df-3318-97f85004755a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2d/fa/dd/2dfaddd9-ea51-9883-d141-74473b97ad91/Adsiz_Tasarim_Kopyasi_Kopyasi__U00284_U0029.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a0/4c/ce/a04cce44-e04b-199b-27ab-24a500876232/Adsiz_Tasarim_Kopyasi_Kopyasi__U00283_U0029.png/360x480bb.jpg"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/02/36/6b02365b-ab1d-66df-3318-97f85004755a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5f/b4/f9/5fb4f9cf-62dd-c446-86d8-daeaae851232/Adsiz_tasarim__U00281_U0029.jpg/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ff/b2/ae/ffb2ae7f-5655-e294-2f70-5c661c4296a0/Adsiz_tasarim__U00282_U0029.jpg/320x480bb.jpg",
@@ -199,12 +202,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4f/8a/b1/4f8ab1ff-0525-0d5a-6e72-03fdd97d5cec/Adsiz_tasarim__U00285_U0029.jpg/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/89/a8/89/89a889ad-3ae8-82ff-e795-5b3723990edb/alpin_quest_pro.jpg/320x480bb.jpg"
       ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2d/fa/dd/2dfaddd9-ea51-9883-d141-74473b97ad91/Adsiz_Tasarim_Kopyasi_Kopyasi__U00284_U0029.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a0/4c/ce/a04cce44-e04b-199b-27ab-24a500876232/Adsiz_Tasarim_Kopyasi_Kopyasi__U00283_U0029.png/360x480bb.jpg"
-      ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/02/36/6b02365b-ab1d-66df-3318-97f85004755a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "features": [
         "iosUniversal"
       ],
@@ -343,12 +340,11 @@
       ],
       "advisories": [],
       "kind": "software",
-      "trackCensoredName": "Alpin Quest PRO – Outdoor GPS",
-      "trackViewUrl": "https://apps.apple.com/fr/app/alpin-quest-pro-outdoor-gps/id6760764479?uo=4",
-      "contentAdvisoryRating": "4+",
-      "bundleId": "com.alpinquest.app",
-      "averageUserRating": 4.68182,
-      "averageUserRatingForCurrentVersion": 4.68182,
+      "artistViewUrl": "https://apps.apple.com/fr/developer/mustafa-pistofoglu/id1696939796?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/02/36/6b02365b-ab1d-66df-3318-97f85004755a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/02/36/6b02365b-ab1d-66df-3318-97f85004755a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
+      "currentVersionReleaseDate": "2026-10-31T10:00:47Z",
+      "averageUserRatingForCurrentVersion": 4.7037,
       "languageCodesISO2A": [
         "AF",
         "AR",
@@ -384,14 +380,21 @@
       ],
       "fileSizeBytes": "62414848",
       "formattedPrice": "9,99 €",
-      "userRatingCountForCurrentVersion": 22,
+      "userRatingCountForCurrentVersion": 27,
       "trackContentRating": "4+",
-      "price": 9.99,
       "artistName": "mustafa pistofoglu",
+      "price": 9.99,
+      "genres": [
+        "Navigation",
+        "Voyages"
+      ],
       "artistId": 1696939796,
-      "minimumOsVersion": "15.0",
+      "bundleId": "com.alpinquest.app",
+      "releaseDate": "2026-03-23T07:00:00Z",
+      "releaseNotes": "• Performance improvements and stability updates.\n• Optimized map, GPS, and tactical navigation experience.\n• Bug fixes and user interface enhancements.",
       "trackId": 6760764479,
       "trackName": "Alpin Quest PRO – Outdoor GPS",
+      "minimumOsVersion": "15.0",
       "genreIds": [
         "6010",
         "6003"
@@ -400,18 +403,15 @@
       "primaryGenreId": 6010,
       "sellerName": "mustafa pistofoglu",
       "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-10-31T10:00:47Z",
-      "releaseNotes": "• Performance improvements and stability updates.\n• Optimized map, GPS, and tactical navigation experience.\n• Bug fixes and user interface enhancements.",
       "version": "10.0.150+2400",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Alpin est une application avancée de navigation GPS et de gestion de terrain, conçue pour le personnel militaire, les ingénieurs géologues et géomètres, le personnel de terrain, les unités tactiques, les alpinistes, les chasseurs et les professionnels du tout-terrain. Elle est utilisée dans le monde entier avec une prise en charge de 32 langues. Using ArcGIS and QGIS project files.\n\nUTILISATION MILITAIRE ET TACTIQUE\nMGRS (Military Grid Reference System) — Prise en charge complète des coordonnées militaires\n\nSystèmes de quadrillage USNG (United States National Grid) et UTM\n\nFormat horaire DTG (Date-Time Group) — heure Zulu et locale\n\nLignes de quadrillage militaire (superposition MGRS) sur la carte\n\nDéplacement tactique et planification d'itinéraires\n\nFonctionnement entièrement hors ligne — sans réseau cellulaire\n\nToutes les données sur l'appareil — aucun transfert vers un serveur (sécurité opérationnelle)\n\nGÉOLOGIE ET INGÉNIERIE TOPOGRAPHIQUE\nDétermination et calcul des limites de zones à l'aide de polygones\n\nImport/export de données de terrain KML/GPX/GeoJSON\n\nConversions de coordonnées MGRS et UTM\n\nCouches cartographiques topographiques et satellite\n\nCouches de courbes de niveau (isohypses) et d'ombrage du relief\n\nTracé des limites de parcelles/terrains par sélection multipoints\n\nFormat KML compatible avec le cadastre\n\nImport de cartes géologiques personnalisées au format MBTiles\n\nSYSTÈMES DE COORDONNÉES TACTIQUES\nMGRS (Military Grid Reference System)\n\nFormats UTM, USNG, QTH et LAT/LON décimal\n\nConversion de coordonnées en temps réel\n\nSYSTÈME CARTOGRAPHIQUE AVANCÉ\nCouches topographiques, satellite, routières et hybrides\n\nLignes de quadrillage militaire (superposition MGRS)\n\nTéléchargement de cartes hors ligne pour les opérations de terrain\n\nImport de cartes personnalisées au format MBTiles\n\nVue du terrain en 3D et profils d'altitude\n\nGESTION DES CIBLES ET DES POINTS\nEnregistrement et gestion illimités de points\n\nSaisie manuelle de cibles avec coordonnées MGRS\n\nDistance, azimut et heure d'arrivée estimée (ETA) en temps réel vers les cibles actives\n\nPartage de points via des liens profonds dédiés\n\nPOINTS PHOTO\nDocumentez les points critiques avec des photos pendant les opérations.\n\nPRISE EN CHARGE MULTIFORMAT\nGPX (point, itinéraire, trace) — compatibilité militaire et civile\n\nKML (Google Earth) — Point, LineString, Polygon, MultiGeometry\n\nKMZ (KML compressé) — extraction automatique\n\nGeoJSON — pour les cartes web modernes\n\nOuverture directe de fichiers depuis WhatsApp, Mail et Fichiers\n\nDétection intelligente du format — dirige automatiquement les fichiers vers le bon onglet\n\nSYSTÈME D'ITINÉRAIRES AVANCÉ\nTracé d'itinéraires tactiques sur la carte\n\nPlanification d'itinéraires multipoints\n\nÉdition complète des itinéraires — déplacer, supprimer ou ajouter des points\n\nÉdition du milieu de segment — ajoutez des courbes entre deux points\n\nAlertes d'écart d'itinéraire et correction de cap\n\nMode déplacement — navigation active et enregistrement de trace intégrés\n\nExport et partage d'itinéraires en GPX/KML\n\nENREGISTREMENT DE TRACES SUR LE TERRAIN\nEnregistrement de trace en arrière-plan, sans interruption\n\nStatistiques de vitesse, distance, altitude, montée/descente\n\nVisualisez les traces enregistrées sur la carte\n\nNaviguer avec une trace — utilisez les traces enregistrées comme itinéraires\n\nPartage de traces (format GPX/KML)\n\nBoussole numérique de haute précision\n\nIndicateur d'écart de cap\n\nField Team Mode is offered as an auto-renewable monthly subscription.\nThe subscription renews automatically unless cancelled at least 24\nhours before the end of the current period. You can manage or cancel\nit in the Subscriptions section of your device Settings.\n\nPrivacy Policy:\nhttps://www.cte.militaryapp.net/2026/09/14/alpin-quest-pro-outdoor-gps/\n\nTerms of Use (EULA):\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-      "releaseDate": "2026-03-23T07:00:00Z",
-      "genres": [
-        "Navigation",
-        "Voyages"
-      ],
-      "userRatingCount": 22,
+      "averageUserRating": 4.7037,
+      "trackCensoredName": "Alpin Quest PRO – Outdoor GPS",
+      "trackViewUrl": "https://apps.apple.com/fr/app/alpin-quest-pro-outdoor-gps/id6760764479?uo=4",
+      "contentAdvisoryRating": "4+",
+      "userRatingCount": 27,
       "country": "FRA"
     }
   ]

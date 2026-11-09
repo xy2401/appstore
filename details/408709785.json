@@ -230,14 +230,13 @@
       "userRatingCount": 116024
     },
     {
-      "artistViewUrl": "https://apps.apple.com/us/developer/apple/id284417353?mt=12&uo=4",
+      "isGameCenterEnabled": false,
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/dd/3a/2ddd3a7e-61ce-6b9a-f503-b05f8a236e78/AppIcon-0-1x_U007epad-0-0-0-1-0-0-P3-85-220-0.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/dd/3a/2ddd3a7e-61ce-6b9a-f503-b05f8a236e78/AppIcon-0-1x_U007epad-0-0-0-1-0-0-P3-85-220-0.png/100x100bb.jpg",
-      "isGameCenterEnabled": false,
+      "artistViewUrl": "https://apps.apple.com/us/developer/apple/id284417353?mt=12&uo=4",
       "features": [
         "iosUniversal"
       ],
-      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -370,6 +369,7 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "advisories": [],
       "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/80/59/48/80594820-7b86-26c7-f0c5-b1acbdf7eddb/0ea4acb9-4b7e-4c25-9f45-c446b1fb19f2_iPhone8Plus55_U0022SL-USA.PNG/406x228bb.png",
@@ -387,11 +387,10 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/dd/3a/2ddd3a7e-61ce-6b9a-f503-b05f8a236e78/AppIcon-0-1x_U007epad-0-0-0-1-0-0-P3-85-220-0.png/512x512bb.jpg",
-      "averageUserRating": 4.07648,
-      "trackCensoredName": "GarageBand",
       "trackViewUrl": "https://apps.apple.com/us/app/garageband/id408709785?uo=4",
       "contentAdvisoryRating": "4+",
-      "releaseNotes": "• Adds support for iPhone Duo\n• This update includes stability improvements and bug fixes",
+      "averageUserRating": 4.07653,
+      "trackCensoredName": "GarageBand",
       "artistId": 284417353,
       "artistName": "Apple",
       "genres": [
@@ -400,22 +399,26 @@
       ],
       "price": 0,
       "bundleId": "com.apple.mobilegarageband",
-      "minimumOsVersion": "27.0",
       "primaryGenreName": "Music",
       "primaryGenreId": 6011,
+      "releaseDate": "2011-03-10T18:52:09Z",
+      "releaseNotes": "• Adds support for iPhone Duo\n• This update includes stability improvements and bug fixes",
+      "trackId": 408709785,
+      "trackName": "GarageBand",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "minimumOsVersion": "27.0",
+      "sellerName": "Apple Inc.",
       "genreIds": [
         "6011",
         "6012"
       ],
-      "releaseDate": "2011-03-10T18:52:09Z",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "trackId": 408709785,
-      "trackName": "GarageBand",
       "currentVersionReleaseDate": "2026-10-22T17:00:11Z",
       "version": "2.3.20",
       "wrapperType": "software",
       "currency": "USD",
       "description": "GarageBand turns your iPad, and iPhone into a collection of Touch Instruments and a full-featured recording studio — so you can make music anywhere you go. And with Live Loops, it makes it easy for anyone to have fun creating music like a DJ. Use Multi-Touch gestures to play keyboards, guitars, and create beats that make you sound like a pro — even if you’ve never played a note before. Plug in a guitar or bass and play through classic amps and stompbox effects. Use a Touch Instrument, microphone, or a guitar to instantly record a performance, with support for up to 32 tracks. Use the Sound Library to download additional free instruments, loops, and sound packs created by some of the biggest producers in the world. And then share your song with friends and family.\n\nLive Loops. Make music like a DJ\n• Use Multi-Touch to tap and trigger a Live Loop cell or group of cells\n• Get started with templates or build your own grid from scratch with Apple Loops\n• Create custom loops by recording directly into a cell using any Touch Instrument\n• Use Remix FX to perform DJ-style effects\n• Tap record to capture your performance\n\nPlay your iPad, and iPhone, like a musical instrument\n• Play a variety of musical instruments on the innovative Multi-Touch keyboard\n• Play and record using the Alchemy Touch Instrument\n• Build grooves inspired by classic electronic drum machines with the Beat Sequencer\n• Download free instruments, loops, and sound packs for GarageBand with the Sound Library\n• Capture any sound and apply studio-class effects\n• Recreate legendary guitar or bass rigs using virtual amps and stompboxes\n• Record performances from third-party music apps directly into GarageBand using Audio Unit Extensions*\n\nDrummer\n• Add virtual session drummers to your song, who take direction and play realistic grooves\n• Choose from acoustic, electronic drummers and percussionists**\n• Each character provides their own sound and the ability to create over a million realistic grooves and fills\n\nSound like a virtuoso with Smart Instruments\n• Play an entire string orchestra using Smart Strings\n• Perform with Chord Strips and autoplay using any keyboard instrument\n• Groove with a variety of Smart Basses using upright, electric, and synth sounds\n• Strum chords or trigger autoplay patterns on an acoustic and electric Smart Guitar\n\nCreate a song anywhere you go\n• Record, arrange, and mix your song with up to 32 tracks using Touch Instruments, audio recordings, and loops***\n• Record multiple times over any song section and choose your favorite using Multi-Take Recording\n• Use professional mixing effects, including Visual EQ, Bitcrusher, and Overdrive\n• Recording, mixing and exporting a song can be done at 24-bit audio resolution\n• Trim and place musical regions exactly where you want them to play\n• Automate the volume and record the movement of controls on Touch Instruments\n• Add comments or lyric ideas to your song with an integrated notepad\n\nShare your songs\n• Keep your songs up to date across all devices using iCloud Drive\n• Create custom ringtones and alerts for your iPad, or iPhone\n• Share your songs using email or to social media sites like SoundCloud****\n• Remotely add new tracks to your Logic Pro project from your iPhone, or iPad via iCloud\n\n* Requires compatible third-party Audio Unit Extensions apps from the App Store.\n** Requires free download from GarageBand Sound Library.\n*** Multitrack recording requires a compatible third-party audio interface.\n**** Sharing to some social media sites may require apps like iMovie, Clips or other third-party apps",
+      "averageUserRatingForCurrentVersion": 4.07653,
+      "sellerUrl": "http://www.apple.com/ios/garageband",
       "languageCodesISO2A": [
         "AR",
         "CA",
@@ -453,12 +456,9 @@
       ],
       "fileSizeBytes": "1860311040",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 118088,
+      "userRatingCountForCurrentVersion": 118194,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.07648,
-      "sellerUrl": "http://www.apple.com/ios/garageband",
-      "sellerName": "Apple Inc.",
-      "userRatingCount": 118088,
+      "userRatingCount": 118194,
       "country": "USA"
     }
   ]

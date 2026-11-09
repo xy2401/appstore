@@ -232,9 +232,6 @@
       "userRatingCount": 123242
     },
     {
-      "artistViewUrl": "https://apps.apple.com/us/developer/microsoft-corporation/id298856275?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/56/12/e6561205-43e3-1e0a-9463-fbc4395a56a3/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.jpeg/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/56/12/e6561205-43e3-1e0a-9463-fbc4395a56a3/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.jpeg/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1e/26/11/1e26117a-92d8-4ccf-c077-e0a3120c1a6d/EN-US_iOS_1242-2208_01.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f4/97/f5/f497f5dd-faa1-8ec8-23c0-481227e560c0/EN-US_iOS_1242-2208_02.jpg/392x696bb.jpg",
@@ -251,11 +248,10 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/56/12/e6561205-43e3-1e0a-9463-fbc4395a56a3/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.jpeg/512x512bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/us/developer/microsoft-corporation/id298856275?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/56/12/e6561205-43e3-1e0a-9463-fbc4395a56a3/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/56/12/e6561205-43e3-1e0a-9463-fbc4395a56a3/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.jpeg/100x100bb.jpg",
       "isGameCenterEnabled": false,
-      "advisories": [
-        "Unrestricted Web Access"
-      ],
-      "kind": "software",
       "features": [
         "iosUniversal"
       ],
@@ -391,12 +387,15 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "averageUserRatingForCurrentVersion": 4.60524,
-      "trackCensoredName": "MSN",
-      "trackViewUrl": "https://apps.apple.com/us/app/msn/id945416273?uo=4",
-      "contentAdvisoryRating": "17+",
-      "averageUserRating": 4.60524,
+      "advisories": [
+        "Unrestricted Web Access"
+      ],
+      "kind": "software",
       "sellerUrl": "https://microsoft.com/msn/mobile",
+      "fileSizeBytes": "276040704",
+      "formattedPrice": "Free",
+      "userRatingCountForCurrentVersion": 124473,
+      "trackContentRating": "17+",
       "languageCodesISO2A": [
         "AR",
         "BN",
@@ -440,35 +439,36 @@
         "UK",
         "VI"
       ],
-      "fileSizeBytes": "276040704",
-      "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 124386,
-      "trackContentRating": "17+",
+      "averageUserRatingForCurrentVersion": 4.60527,
+      "trackCensoredName": "MSN",
+      "trackViewUrl": "https://apps.apple.com/us/app/msn/id945416273?uo=4",
+      "contentAdvisoryRating": "17+",
+      "averageUserRating": 4.60527,
+      "releaseNotes": "Microsoft Start is now MSN, same great experience and personalized content feed.",
+      "artistId": 298856275,
+      "artistName": "Microsoft Corporation",
       "genres": [
         "News"
       ],
-      "artistId": 298856275,
-      "artistName": "Microsoft Corporation",
       "releaseDate": "2014-12-11T09:41:00Z",
-      "primaryGenreName": "News",
-      "primaryGenreId": 6009,
-      "sellerName": "Microsoft Corporation",
       "isVppDeviceBasedLicensingEnabled": true,
       "minimumOsVersion": "18.0",
-      "genreIds": [
-        "6009"
-      ],
+      "sellerName": "Microsoft Corporation",
+      "trackId": 945416273,
+      "trackName": "MSN",
+      "primaryGenreName": "News",
+      "primaryGenreId": 6009,
       "currentVersionReleaseDate": "2026-11-02T08:08:58Z",
-      "releaseNotes": "Microsoft Start is now MSN, same great experience and personalized content feed.",
       "version": "34.4.441029001",
       "wrapperType": "software",
       "currency": "USD",
       "description": "The MSN app keeps you informed, productive, and entertained with tailored content, real-time weather, stock tracking, short videos and more.​\n\n​Key features​\n\nYour tailored feed, with you on the go.\nQuality content from thousands of trusted publishers.​\n\nWeather report​\nGet hourly and 10-day forecasts, air quality, UV index and more.​ \n\n​Financial news​ hub​\nSee the latest on the market, trends and your favorite stocks. ​\n\nYour personalized video feed​​\nScroll short clips of the latest news, trending stories and viral moments. ​",
       "bundleId": "com.microsoft.axp-ios.BingNews",
-      "trackId": 945416273,
-      "trackName": "MSN",
+      "genreIds": [
+        "6009"
+      ],
       "price": 0,
-      "userRatingCount": 124386,
+      "userRatingCount": 124473,
       "country": "USA"
     }
   ]

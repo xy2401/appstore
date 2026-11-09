@@ -257,17 +257,12 @@
       "userRatingCount": 487745
     },
     {
-      "artistViewUrl": "https://apps.apple.com/us/developer/perplexity-ai-inc/id1668000336?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/23/21/4b232195-cb50-abb8-6de0-fab8d0d6b67f/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/23/21/4b232195-cb50-abb8-6de0-fab8d0d6b67f/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/9c/f8/f69cf8b0-95fb-1a4c-0053-1302d8479a69/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/9c/f8/f69cf8b0-95fb-1a4c-0053-1302d8479a69/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/us/developer/perplexity-ai-inc/id1668000336?uo=4",
       "features": [
         "iosUniversal"
-      ],
-      "advisories": [
-        "Infrequent/Mild Mature/Suggestive Themes",
-        "Infrequent/Mild Medical/Treatment Information",
-        "Infrequent/Mild Sexual Content and Nudity"
       ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
@@ -401,6 +396,11 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "advisories": [
+        "Infrequent/Mild Sexual Content and Nudity",
+        "Infrequent/Mild Medical/Treatment Information",
+        "Infrequent/Mild Mature/Suggestive Themes"
+      ],
       "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/18/5c/7f/185c7f03-c780-b9a0-48b8-3b1614f3dfbf/ec6f3df2-07ef-4e83-a061-c1dee5d5b200_5.5_inch_iphone_01.png/392x696bb.png",
@@ -422,12 +422,11 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b3/5d/96/b35d9681-e1aa-65cd-7bf8-02fe8547f0dd/92e1e7d8-23c2-480f-8ae2-15048ffa5fdd_iPad_12.9_inch_07.png/576x768bb.png"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/23/21/4b232195-cb50-abb8-6de0-fab8d0d6b67f/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/512x512bb.jpg",
-      "averageUserRating": 4.82,
-      "trackCensoredName": "Perplexity: AI Agent & Search",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/9c/f8/f69cf8b0-95fb-1a4c-0053-1302d8479a69/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/512x512bb.jpg",
       "trackViewUrl": "https://apps.apple.com/us/app/perplexity-ai-agent-search/id1668000334?uo=4",
       "contentAdvisoryRating": "17+",
-      "releaseNotes": "Bug fixes and improvements.",
+      "averageUserRating": 4.8198,
+      "trackCensoredName": "Perplexity: AI Agent & Search",
       "artistId": 1668000336,
       "artistName": "Perplexity AI, Inc.",
       "genres": [
@@ -436,22 +435,26 @@
       ],
       "price": 0,
       "bundleId": "ai.perplexity.app",
-      "minimumOsVersion": "18.0",
       "primaryGenreName": "Productivity",
       "primaryGenreId": 6007,
+      "releaseDate": "2023-03-27T07:00:00Z",
+      "releaseNotes": "Bug fixes and improvements.",
+      "trackId": 1668000334,
+      "trackName": "Perplexity: AI Agent & Search",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "minimumOsVersion": "18.0",
+      "sellerName": "Perplexity AI Inc.",
       "genreIds": [
         "6007",
         "6002"
       ],
-      "releaseDate": "2023-03-27T07:00:00Z",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "trackId": 1668000334,
-      "trackName": "Perplexity: AI Agent & Search",
-      "currentVersionReleaseDate": "2026-10-31T15:54:19Z",
-      "version": "26.43.0",
+      "currentVersionReleaseDate": "2026-11-06T07:38:04Z",
+      "version": "26.44.0",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Perplexity—Where Knowledge Begins. Accurate answers to any question, backed by sources and citations. \n\nCut through the clutter and get straight to credible, up-to-date answers. This free app syncs across devices and leverages the power of the top AI models from OpenAI, Anthropic, Meta, and more. \n\nFeatures:\n\n· Perplexity Pro Search & Deep Research: Guided AI search for deeper exploration.\n\n· Thread Follow-Ups: Keep the conversation going for a deeper understanding.\n\n· Assistant: Draft emails, schedule appointments, book reservations, and more. \n\n· Perplexity Labs: Bring your reports and projects to life faster than ever before.\n\n· Voice: Instant, up-to-date answers whether you type or say it. \n\n· Trust Built In: Cited sources for every answer.\n\n· Discover: Learn new things from the community.\n\n· Your Library: More than search history, it's a curation of your discoveries.\n\nDownload Perplexity now and continue your journey to better knowledge and understanding.\n\nIn-app Subscriptions:\n\nIf you decide to subscribe to Perplexity Pro, it will be applied to your iTunes account upon confirmation. Subscriptions will automatically renew unless canceled within 24 hours before the end of the current period. You can cancel anytime by visiting the 'Manage Subscription' section of your account. For more information, please refer to our Terms of Service and Privacy Policy.\n\nTerms of Service: https://www.perplexity.ai/tos\nPrivacy Policy: https://www.perplexity.ai/privacy",
+      "averageUserRatingForCurrentVersion": 4.8198,
+      "sellerUrl": "https://www.perplexity.ai/iphone",
       "languageCodesISO2A": [
         "SQ",
         "AR",
@@ -521,14 +524,11 @@
         "UZ",
         "VI"
       ],
-      "fileSizeBytes": "193332224",
+      "fileSizeBytes": "195894272",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 521431,
+      "userRatingCountForCurrentVersion": 524156,
       "trackContentRating": "17+",
-      "averageUserRatingForCurrentVersion": 4.82,
-      "sellerUrl": "https://www.perplexity.ai/iphone",
-      "sellerName": "Perplexity AI Inc.",
-      "userRatingCount": 521431,
+      "userRatingCount": 524156,
       "country": "USA"
     }
   ]

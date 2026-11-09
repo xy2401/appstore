@@ -2,7 +2,9 @@
   "resultCount": 1,
   "results": [
     {
-      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/05/b7/c9/05b7c919-f884-c39a-4741-b66cd9a291b6/mzl.xtbaigqz.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/50/63/d9/5063d924-7633-6b98-f408-3f05768e7e5a/mzl.cquhmtrl.png/392x696bb.png",
@@ -19,15 +21,8 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/da/66/13/da661300-1e24-22d7-205a-a3b1041831e3/mzl.klfuzybe.png/576x768bb.png"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/fa/0a/61fa0acf-1cff-b52e-746a-ebb3e3b61b1b/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/us/developer/instructure-inc/id418441198?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/fa/0a/61fa0acf-1cff-b52e-746a-ebb3e3b61b1b/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/fa/0a/61fa0acf-1cff-b52e-746a-ebb3e3b61b1b/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [],
-      "kind": "software",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/a8/f3/71a8f3d4-60d9-84c4-0dd7-483072d04dee/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -160,8 +155,12 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "currentVersionReleaseDate": "2026-10-12T14:05:06Z",
-      "averageUserRatingForCurrentVersion": 4.65482,
+      "advisories": [],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/us/developer/instructure-inc/id418441198?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/a8/f3/71a8f3d4-60d9-84c4-0dd7-483072d04dee/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/a8/f3/71a8f3d4-60d9-84c4-0dd7-483072d04dee/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
+      "bundleId": "com.instructure.icanvas",
       "languageCodesISO2A": [
         "AR",
         "CA",
@@ -194,25 +193,20 @@
         "VI",
         "CY"
       ],
-      "fileSizeBytes": "226894848",
+      "fileSizeBytes": "228656128",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 2767813,
+      "userRatingCountForCurrentVersion": 2767835,
       "trackContentRating": "4+",
       "sellerUrl": "https://www.canvaslms.com/",
-      "averageUserRating": 4.65482,
-      "trackCensoredName": "Canvas by Instructure",
-      "trackViewUrl": "https://apps.apple.com/us/app/canvas-by-instructure/id480883488?uo=4",
-      "contentAdvisoryRating": "4+",
-      "artistId": 418441198,
-      "artistName": "Instructure Inc.",
+      "averageUserRatingForCurrentVersion": 4.65479,
       "genres": [
         "Education",
         "Productivity"
       ],
+      "artistId": 418441198,
+      "artistName": "Instructure Inc.",
       "price": 0,
-      "bundleId": "com.instructure.icanvas",
-      "releaseNotes": "- Added IgniteAI Study Tools for Tier Next Institutions.\n- Added support for Notebook.\n- Added a loading indicator to the Syllabus Summary page.\n- Added offline sync support for Syllabus content.\n- Improved file list ordering.\n- Display assignment unlock date on Assignment List and Assignment Details.\n- Show an alert in more places when content isn't available offline.\n- Scanning documents for a file submission now creates a PDF whenever possible, instead of producing images.\n- Page titles are now displayed above the page content as selectable text.\n- A newly created announcement now opens as \"Announcement Details\" instead of \"Discussion Details\".\n- Smart Search result titles no longer change to the course color after being opened.\n- Fixed To-do items not appearing if \"Favorite Courses Only\" option is turned on, but there are no favorite courses available.\n- Fixed navigation errors of some custom navigation links.\n- Fixed a deleted file stayed open instead of returning to the file list.\n- Fixed the Wi-Fi only sync toggle not animating back on when turned back on after being turned off.\n- Fixed malformed PPTX files appearing when teachers use Student View.\n- Fixed editing page not allowed.\n- Fixed some past courses not appearing on the all courses screen.\n- Fixed To-do tab showing incorrect badge count.\n- Fixed some external tools not appearing in the main menu.\n- Fixed rich text formatting not being rendered for text submissions.\n- Fixed Smart Search input field disappearing on iPad in landscape.\n- Fixed unrelated push notification toggles switching when tapping one toggle repeatedly.\n- Fixed Announcement Widget opening announcements as \"Discussion Details\".\n- Fixed PowerPoint, Word and Excel files showing incorrect images.\n- Fixed QR login tutorial image shrink in landscape mode.\n- Fixed file renaming not updating the files list properly.\n- Fixed user screen not loading for groups.\n- Career – Added support for offline assignment submissions.",
-      "releaseDate": "2011-12-08T17:41:59Z",
+      "sellerName": "Instructure, Inc.",
       "minimumOsVersion": "18.0",
       "genreIds": [
         "6017",
@@ -220,15 +214,21 @@
       ],
       "primaryGenreName": "Education",
       "primaryGenreId": 6017,
-      "sellerName": "Instructure, Inc.",
+      "releaseDate": "2011-12-08T17:41:59Z",
+      "trackId": 480883488,
+      "trackName": "Canvas by Instructure",
       "isVppDeviceBasedLicensingEnabled": true,
-      "version": "8.13.0",
+      "currentVersionReleaseDate": "2026-11-05T09:15:50Z",
+      "releaseNotes": "- Added Notebook Offline support, Notes can be created, viewed, and organized anytime without an internet connection. \n- Fixed “Mark as Done” button missing on Page type module items.\n- Fixed image opened from Files was aligned to the left after rotating the device.\n- Fixed text next to an existing Notebook highlight could not be highlighted.\n- Fixed app could freeze on launch and close itself.\n- Fixed Page Editor appearing empty in some cases if editing a Page is enabled.\n- Fixed Calendar List could appear empty after opening the New Event form.\n- Fixed the Find School screen during login so search results stay visible in landscape.",
+      "version": "8.14.1",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Your learning, anywhere.\nStay connected to your courses with the official Canvas app for learners. Whether you’re in class, commuting, or offline, Canvas helps you stay organized and engaged.\n\nNote for instructors: For teaching and grading features, use the Canvas Teacher app.\n\nWhat you can do\n• Organize: View grades, track assignments, homework, and schoolwork; get reminders, push notifications and add customizable widgets for quick access\n• Engage: Send messages, join class discussions and collaborate with classmates in real time\n• Learn: Submit assignments, PDFs, docs, and media files for teachers to annotate in SpeedGrader, take quizzes, and watch videos on the go\n• Offline: Download full courses and keep studying even without internet\n• Integration & inclusivity: Use integrated classroom tools (LTIs), enjoy dark mode, and rely on built-in accessibility for everyone (VPAT 2.2 compliant)\n• Lifelong learning: Support for continuous learning, career-focused skill based learning programs, and AI-powered learning experience via Career experience\n\nTrusted by over 40 million learners worldwide.",
-      "trackId": 480883488,
-      "trackName": "Canvas by Instructure",
-      "userRatingCount": 2767813,
+      "trackCensoredName": "Canvas by Instructure",
+      "trackViewUrl": "https://apps.apple.com/us/app/canvas-by-instructure/id480883488?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.65479,
+      "userRatingCount": 2767835,
       "country": "USA"
     }
   ]

@@ -20,13 +20,13 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e9/47/4d/e9474d32-77b9-8a86-acb1-46644d47c2df/04.png/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/c2/6d/68c26dfe-caff-1fba-0b53-e3fb11c3fe36/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/60x60bb.jpg",
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/c2/6d/68c26dfe-caff-1fba-0b53-e3fb11c3fe36/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/c2/6d/68c26dfe-caff-1fba-0b53-e3fb11c3fe36/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/fr/developer/kunal-sood/id542137548?uo=4",
       "isGameCenterEnabled": false,
-      "advisories": [
-        "Accès au Web non contrôlé."
+      "artistViewUrl": "https://apps.apple.com/fr/developer/kunal-sood/id542137548?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/c2/6d/68c26dfe-caff-1fba-0b53-e3fb11c3fe36/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/c2/6d/68c26dfe-caff-1fba-0b53-e3fb11c3fe36/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.jpg",
+      "features": [
+        "iosUniversal"
       ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
@@ -161,10 +161,10 @@
         "iPhoneDuo-iPhoneDuo"
       ],
       "kind": "software",
-      "features": [
-        "iosUniversal"
+      "advisories": [
+        "Accès au Web non contrôlé."
       ],
-      "trackCensoredName": "lire: RSS Reader",
+      "sellerUrl": "http://lireapp.com",
       "languageCodesISO2A": [
         "CS",
         "EN",
@@ -177,39 +177,39 @@
       ],
       "fileSizeBytes": "176553984",
       "formattedPrice": "9,99 €",
-      "contentAdvisoryRating": "17+",
       "userRatingCountForCurrentVersion": 26,
-      "trackViewUrl": "https://apps.apple.com/fr/app/lire-rss-reader/id1531976425?uo=4",
       "trackContentRating": "17+",
-      "artistId": 542137548,
-      "artistName": "Kunal Sood",
+      "averageUserRatingForCurrentVersion": 4.11538,
+      "trackCensoredName": "lire: RSS Reader",
+      "trackViewUrl": "https://apps.apple.com/fr/app/lire-rss-reader/id1531976425?uo=4",
+      "releaseNotes": "Version 7.1.1\n\nFIXED:\n- A bug that prevented videos inside embedded X (formally Twitter) & Instagram content from playing.\n- A bug that caused a crash in some cases while syncing with some sync services.\n- A bug that caused certain HTML entities to show up in some articles.\n- Other minor bug fixes.\n \n\nPreviously in Version 7.1.0\n\nNEW: \n- Support for iPhone Duo.\n- Extra Large Widgets (that occupy an entire page on the home screen) on iPhones running iOS 27 or later.\n- Resizing when running iPhone Mirroring on Mac, on devices running OS version 27 or later (available in supported countries and regions).\n- Modernised article filter control, that feels more at home with the newest version of iOS and iPadOS.\n- Tons of minor UI tweaks.\n\nFIXED:\n- A bug that could cause the app to crash during caching.\n- Other minor bug fixes.\n\nVersion 7.0.2\n\nFIXED:\n- A bug that could cause the app to crash during caching.\n- Other minor bug fixes.\n\nVersion 7.0.1\n\nFIXED:\n- A bug that could cause the app to crash during caching.\n- A bug that prevented the options menu from being visible when using the app with VoiceOver.\n- Other minor bug fixes.\n\nVersion 7.0.0\n\nNEW:\n\n- Updated for the iOS/iPadOS 27.\n\n- On iOS/iPadOS 27, Summarization of articles using Apple Intelligence now uses Private Cloud Compute if available.\n\n- On-device/Offline Translation of articles using Apple's translation models, available on iOS 18 and above. To translate an article you're reading, use the 'Aa' button on the top bar in the article reading view, and select 'Translate'. Tap & hold 'Translate' there to change the translation language. You can also change the translation language in Settings > Article > Translation Language.\n\n- Log in to walled sites to get full-text of walled articles. Log in/Manage in Settings > Caching > Manage/Log in. You can also login to walled a site from the article reading view, by using the View Mode button (i.e. the page icon in the top), and selecting 'Log in' (only available in Full Text View).\n\n- Overhauled text-extraction/caching engine. It should now work better on some sites where it previously failed.\n\n- New 'Modern' layout style for each item in article lists. Configure style in Settings > Article > Layout > Style.\n\n- Ability to disable swipe navigation in article reading view. You can set this up in Settings > Article > Navigation, there select 'Buttons only'.\n\n- 9 new modern app icons. Configure in Settings > Appearance > Icon.\n\nIf you enjoy using lire, please leave a review, or tell a friend about it. That helps a lot!",
+      "averageUserRating": 4.11538,
+      "contentAdvisoryRating": "17+",
+      "price": 9.99,
       "genres": [
         "Actualités",
         "Utilitaires"
       ],
-      "currentVersionReleaseDate": "2026-11-02T03:14:27Z",
-      "releaseDate": "2020-09-16T07:00:00Z",
+      "artistId": 542137548,
+      "artistName": "Kunal Sood",
+      "bundleId": "com.lireapp.smilingAlpaca",
       "trackId": 1531976425,
       "trackName": "lire: RSS Reader",
-      "minimumOsVersion": "15.6",
+      "releaseDate": "2020-09-16T07:00:00Z",
+      "primaryGenreName": "News",
+      "primaryGenreId": 6009,
       "genreIds": [
         "6009",
         "6002"
       ],
-      "primaryGenreName": "News",
-      "primaryGenreId": 6009,
-      "sellerName": "Kunal Sood",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseNotes": "Version 7.1.1\n\nFIXED:\n- A bug that prevented videos inside embedded X (formally Twitter) & Instagram content from playing.\n- A bug that caused a crash in some cases while syncing with some sync services.\n- A bug that caused certain HTML entities to show up in some articles.\n- Other minor bug fixes.\n \n\nPreviously in Version 7.1.0\n\nNEW: \n- Support for iPhone Duo.\n- Extra Large Widgets (that occupy an entire page on the home screen) on iPhones running iOS 27 or later.\n- Resizing when running iPhone Mirroring on Mac, on devices running OS version 27 or later (available in supported countries and regions).\n- Modernised article filter control, that feels more at home with the newest version of iOS and iPadOS.\n- Tons of minor UI tweaks.\n\nFIXED:\n- A bug that could cause the app to crash during caching.\n- Other minor bug fixes.\n\nVersion 7.0.2\n\nFIXED:\n- A bug that could cause the app to crash during caching.\n- Other minor bug fixes.\n\nVersion 7.0.1\n\nFIXED:\n- A bug that could cause the app to crash during caching.\n- A bug that prevented the options menu from being visible when using the app with VoiceOver.\n- Other minor bug fixes.\n\nVersion 7.0.0\n\nNEW:\n\n- Updated for the iOS/iPadOS 27.\n\n- On iOS/iPadOS 27, Summarization of articles using Apple Intelligence now uses Private Cloud Compute if available.\n\n- On-device/Offline Translation of articles using Apple's translation models, available on iOS 18 and above. To translate an article you're reading, use the 'Aa' button on the top bar in the article reading view, and select 'Translate'. Tap & hold 'Translate' there to change the translation language. You can also change the translation language in Settings > Article > Translation Language.\n\n- Log in to walled sites to get full-text of walled articles. Log in/Manage in Settings > Caching > Manage/Log in. You can also login to walled a site from the article reading view, by using the View Mode button (i.e. the page icon in the top), and selecting 'Log in' (only available in Full Text View).\n\n- Overhauled text-extraction/caching engine. It should now work better on some sites where it previously failed.\n\n- New 'Modern' layout style for each item in article lists. Configure style in Settings > Article > Layout > Style.\n\n- Ability to disable swipe navigation in article reading view. You can set this up in Settings > Article > Navigation, there select 'Buttons only'.\n\n- 9 new modern app icons. Configure in Settings > Appearance > Icon.\n\nIf you enjoy using lire, please leave a review, or tell a friend about it. That helps a lot!",
+      "minimumOsVersion": "15.6",
       "version": "7.1.1",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Love RSS feeds? So do we!!\n\nRSS feeds are a great way to follow updates on your favorite website. However, some sites set up their feeds to only show a portion of each entry, you know, to get you to click through to their actual website. We find that really annoying, and we're sure you do too.\n\nWhich is why, unlike other RSS feed readers, that either push you into a browser (in-app or otherwise), or depend on third party text parsing services and require you to be online to fetch the full text of one article at a time (which makes it no different from having to click/tap through to a website), in lire, you get your favorite RSS feeds as they should've been. You don't need to click through to any website (though, you do still have the option to, if you really wanted). It takes your favorite partial feeds, does its magic, and converts them in to full feeds, so you don't have to click/tap on those annoying 'Read more' or 'Continue reading' links.\n\nOnce they're cached, you don't even need to be connected to read your full-text feeds.\n\nUse as a standalone feed reader, sync with iCloud,\n\nor,\n\nsync with any of the several services: Feedly, Feedbin, FeedHQ, The Old Reader, Inoreader, BazQux Reader, Newsblur, Feed Wrangler, FreshRSS, Miniflux, Nextcloud News, Tiny Tiny RSS.",
-      "bundleId": "com.lireapp.smilingAlpaca",
-      "sellerUrl": "http://lireapp.com",
-      "averageUserRatingForCurrentVersion": 4.11538,
-      "averageUserRating": 4.11538,
-      "price": 9.99,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "Kunal Sood",
+      "currentVersionReleaseDate": "2026-11-02T03:14:27Z",
       "userRatingCount": 26,
       "country": "FRA"
     }

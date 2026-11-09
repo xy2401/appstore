@@ -187,8 +187,19 @@
       "userRatingCount": 30
     },
     {
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b9/26/35/b926356c-e245-3aec-4fb3-cca31c9513b4/iPad_Recipe_2.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cf/31/5b/cf315bfe-40fa-34cb-26aa-a49ff94445f8/iPad_Recipe_1.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4d/e0/f5/4de0f588-afdb-894e-216d-950dd0858588/iPad_Ingredient.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fb/85/e5/fb85e575-dbb9-9f12-d4e6-97b5873e75cd/iPad_Batch.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/81/c5/97/81c59728-1136-eab8-078e-055549027501/iPad_Costing.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ee/1c/eb/ee1ceb26-a75f-ebce-23a4-5cb9b9984ad6/iPad_Collections.png/360x480bb.jpg"
+      ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/e6/0a/45e60a7f-979c-b71d-559a-fde4164c07ae/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/us/developer/lemel-software-llc/id1799612083?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/e6/0a/45e60a7f-979c-b71d-559a-fde4164c07ae/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/e6/0a/45e60a7f-979c-b71d-559a-fde4164c07ae/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3d/a3/91/3da391c7-2512-8d83-5429-e925d3225d7b/iPhone.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/31/a2/70/31a270e6-eb0e-7bc0-9274-802dac85b39e/Recipe_3.png/320x480bb.jpg",
@@ -201,24 +212,7 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2a/ef/12/2aef1295-99bd-fb1e-38ac-45e0018e48ac/Collections_2.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2d/9a/f5/2d9af576-bb2b-513f-6be0-832d49d93413/Recipe_2.png/320x480bb.jpg"
       ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b9/26/35/b926356c-e245-3aec-4fb3-cca31c9513b4/iPad_Recipe_2.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cf/31/5b/cf315bfe-40fa-34cb-26aa-a49ff94445f8/iPad_Recipe_1.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4d/e0/f5/4de0f588-afdb-894e-216d-950dd0858588/iPad_Ingredient.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fb/85/e5/fb85e575-dbb9-9f12-d4e6-97b5873e75cd/iPad_Batch.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/81/c5/97/81c59728-1136-eab8-078e-055549027501/iPad_Costing.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ee/1c/eb/ee1ceb26-a75f-ebce-23a4-5cb9b9984ad6/iPad_Collections.png/360x480bb.jpg"
-      ],
-      "artistViewUrl": "https://apps.apple.com/us/developer/lemel-software-llc/id1799612083?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/e6/0a/45e60a7f-979c-b71d-559a-fde4164c07ae/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/e6/0a/45e60a7f-979c-b71d-559a-fde4164c07ae/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [
-        "Frequent/Intense Alcohol, Tobacco, or Drug Use or References"
-      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -351,7 +345,13 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "advisories": [
+        "Frequent/Intense Alcohol, Tobacco, or Drug Use or References"
+      ],
       "kind": "software",
+      "features": [
+        "iosUniversal"
+      ],
       "languageCodesISO2A": [
         "EN"
       ],
@@ -359,12 +359,11 @@
       "formattedPrice": "$4.99",
       "userRatingCountForCurrentVersion": 37,
       "trackContentRating": "17+",
+      "contentAdvisoryRating": "17+",
+      "averageUserRating": 4.62162,
       "averageUserRatingForCurrentVersion": 4.62162,
       "trackCensoredName": "Bevnap: Cocktail Recipes",
       "trackViewUrl": "https://apps.apple.com/us/app/bevnap-cocktail-recipes/id6744274650?uo=4",
-      "contentAdvisoryRating": "17+",
-      "averageUserRating": 4.62162,
-      "releaseNotes": "- Added the Eastern Caribbean Dollar and Philippine Peso.\n- Collections now show how many recipes you’ve imported from each one, like 5 of 12 imported.\n- My Collections rows are cleaner, and a collection with one recipe now says 1 recipe.\n- In Select mode, the number selected now shows right above the Delete, Merge, Share bar, with an x to cancel.\n- Changing an ingredient in the middle of editing or adding a recipe no longer adds an empty row below it.",
       "artistId": 1799612083,
       "artistName": "Lemel Software, LLC",
       "genres": [
@@ -372,24 +371,25 @@
         "Lifestyle"
       ],
       "price": 4.99,
-      "bundleId": "dev.lemelsoftware.TheBarApp",
+      "minimumOsVersion": "18.6",
       "trackId": 6744274650,
+      "trackName": "Bevnap: Cocktail Recipes",
+      "releaseDate": "2026-02-19T08:00:00Z",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-10-31T17:07:09Z",
+      "releaseNotes": "- Added the Eastern Caribbean Dollar and Philippine Peso.\n- Collections now show how many recipes you’ve imported from each one, like 5 of 12 imported.\n- My Collections rows are cleaner, and a collection with one recipe now says 1 recipe.\n- In Select mode, the number selected now shows right above the Delete, Merge, Share bar, with an x to cancel.\n- Changing an ingredient in the middle of editing or adding a recipe no longer adds an empty row below it.",
+      "version": "4.6.2",
+      "wrapperType": "software",
+      "currency": "USD",
+      "description": "Your personal cocktail companion. Discover, create, and perfect your favorite drinks with Bevnap - the complete recipe management app for home bartenders and cocktail enthusiasts, designed for iPhone, iPad and iPhone Duo.\n\nDISCOVER RECIPES\nBrowse beautifully designed cocktail recipes with detailed ingredients, step-by-step directions, and stunning photos. Find the perfect drink by searching by name, ingredient, spirit, or category. Whether you're looking for a classic Old Fashioned or exploring modern craft cocktails, every recipe is at your fingertips.\n\nINGREDIENT LOOKUP\nWondering what to make with that bottle of Campari? Tap any ingredient to instantly see every cocktail in your library that uses it. A simple way to discover new drinks and get the most out of what you have.\n\nCREATE YOUR OWN\nBuild and save your own signature cocktails. Add custom ingredients, write detailed directions, and capture beautiful photos of your creations. Organize recipes into personal collections for easy access.\n\nPROFESSIONAL CALCULATORS\n - Batch Calculator - Scale any recipe for parties and events\n - Syrup Calculator - Make professional-quality syrups at home\n - Slushy Calculator - Perfect frozen drinks every time\n - Carbonation Calculator - Calculate CO₂ pressure for sparkling cocktails, sodas, and draft dispense — built with Crossroads Consulting and Jeffrey Morgenthaler\n - What Can I Make? - Discover cocktails you can make with what you have\n - Recipe Costing - Calculate pour costs and set profitable menu prices\n - ABV Calculator - Track alcohol content and dilution\n\nRECIPE COLLECTIONS\nDownload curated recipe packs from Jeffrey Morgenthaler. Explore themed collections like Jeffrey Morgenthaler's Signature Cocktails, Modern Classics, Bourbon/Rye Cocktails and more. New collections added regularly.\n\nSHARE WITH FRIENDS\nConnect with friends to share recipes and collections directly in the app. Export beautiful recipe cards as PDFs. Create shareable menus for your home bar or next party.\n\nSYNC EVERYWHERE\nYour recipes, ingredients, and collections sync automatically via iCloud. Start on your iPhone, continue on your iPad or iPhone Duo — Bevnap’s multi-column layouts fill the inner display. Everything stays perfectly in sync.\n\nCUSTOMIZE YOUR EXPERIENCE\n - Multiple beautiful themes (Ocean, Sunset, Light, Dark)\n - Flexible measurement units (oz, ml, cl, and more)\n - Bartender-standard unit conversions\n - Keep screen on while mixing\n - Full search across all your content\n\nWhether you're a professional bartender, managing a bar/restaurant, hosting a cocktail party, learning mixology fundamentals, or perfecting your craft, Bevnap gives you everything you need to mix with confidence.\n\nDownload now and discover your next favorite cocktail.",
+      "bundleId": "dev.lemelsoftware.TheBarApp",
+      "sellerName": "Lemel Software, LLC",
       "genreIds": [
         "6023",
         "6012"
       ],
       "primaryGenreName": "Food & Drink",
       "primaryGenreId": 6023,
-      "minimumOsVersion": "18.6",
-      "sellerName": "Lemel Software, LLC",
-      "releaseDate": "2026-02-19T08:00:00Z",
-      "currentVersionReleaseDate": "2026-10-31T17:07:09Z",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "version": "4.6.2",
-      "wrapperType": "software",
-      "currency": "USD",
-      "description": "Your personal cocktail companion. Discover, create, and perfect your favorite drinks with Bevnap - the complete recipe management app for home bartenders and cocktail enthusiasts, designed for iPhone, iPad and iPhone Duo.\n\nDISCOVER RECIPES\nBrowse beautifully designed cocktail recipes with detailed ingredients, step-by-step directions, and stunning photos. Find the perfect drink by searching by name, ingredient, spirit, or category. Whether you're looking for a classic Old Fashioned or exploring modern craft cocktails, every recipe is at your fingertips.\n\nINGREDIENT LOOKUP\nWondering what to make with that bottle of Campari? Tap any ingredient to instantly see every cocktail in your library that uses it. A simple way to discover new drinks and get the most out of what you have.\n\nCREATE YOUR OWN\nBuild and save your own signature cocktails. Add custom ingredients, write detailed directions, and capture beautiful photos of your creations. Organize recipes into personal collections for easy access.\n\nPROFESSIONAL CALCULATORS\n - Batch Calculator - Scale any recipe for parties and events\n - Syrup Calculator - Make professional-quality syrups at home\n - Slushy Calculator - Perfect frozen drinks every time\n - Carbonation Calculator - Calculate CO₂ pressure for sparkling cocktails, sodas, and draft dispense — built with Crossroads Consulting and Jeffrey Morgenthaler\n - What Can I Make? - Discover cocktails you can make with what you have\n - Recipe Costing - Calculate pour costs and set profitable menu prices\n - ABV Calculator - Track alcohol content and dilution\n\nRECIPE COLLECTIONS\nDownload curated recipe packs from Jeffrey Morgenthaler. Explore themed collections like Jeffrey Morgenthaler's Signature Cocktails, Modern Classics, Bourbon/Rye Cocktails and more. New collections added regularly.\n\nSHARE WITH FRIENDS\nConnect with friends to share recipes and collections directly in the app. Export beautiful recipe cards as PDFs. Create shareable menus for your home bar or next party.\n\nSYNC EVERYWHERE\nYour recipes, ingredients, and collections sync automatically via iCloud. Start on your iPhone, continue on your iPad or iPhone Duo — Bevnap’s multi-column layouts fill the inner display. Everything stays perfectly in sync.\n\nCUSTOMIZE YOUR EXPERIENCE\n - Multiple beautiful themes (Ocean, Sunset, Light, Dark)\n - Flexible measurement units (oz, ml, cl, and more)\n - Bartender-standard unit conversions\n - Keep screen on while mixing\n - Full search across all your content\n\nWhether you're a professional bartender, managing a bar/restaurant, hosting a cocktail party, learning mixology fundamentals, or perfecting your craft, Bevnap gives you everything you need to mix with confidence.\n\nDownload now and discover your next favorite cocktail.",
-      "trackName": "Bevnap: Cocktail Recipes",
       "userRatingCount": 37,
       "country": "USA"
     }

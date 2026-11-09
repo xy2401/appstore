@@ -11,11 +11,7 @@
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/fa/f3/b6faf3c8-dfa4-eb54-3ebe-bf775dadb04c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
       "isGameCenterEnabled": false,
-      "advisories": [],
-      "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/fr/developer/permissionless-tech-llc/id1824145893?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/fa/f3/b6faf3c8-dfa4-eb54-3ebe-bf775dadb04c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/fa/f3/b6faf3c8-dfa4-eb54-3ebe-bf775dadb04c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
+      "features": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -148,8 +144,14 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "features": [],
-      "averageUserRatingForCurrentVersion": 4.61538,
+      "advisories": [],
+      "kind": "software",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/fa/f3/b6faf3c8-dfa4-eb54-3ebe-bf775dadb04c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/fa/f3/b6faf3c8-dfa4-eb54-3ebe-bf775dadb04c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/fr/developer/permissionless-tech-llc/id1824145893?uo=4",
+      "releaseNotes": "What's New in bitchat 1.8.0:\n- Busy location channels are fast again. The people list opens instantly even with hundreds of people nearby, and the chat no longer jumps back while you scroll through a fast conversation.\n- Your drafts are kept when you switch between mesh, location channels and private chats.\n- Join a nearby location channel with one tap, and share channel invites from the share sheet.\n- Give someone a local alias on their fingerprint screen. Verified contacts now show a seal in private chats.\n- A recent chats section keeps every private conversation within reach.\n- A banner tells you when Bluetooth is off or Tor is stalled.\n- Panic wipe now asks for confirmation and tells you when it's done.\n- On Mac, scan verification QR codes with the camera. @-mention suggestions now work from the keyboard.\n- Messages from someone who shares your name are no longer treated as your own.\n- Security hardening and fixes throughout, and the app is now fully localized in all 30 supported languages.",
+      "averageUserRatingForCurrentVersion": 4.59349,
+      "sellerUrl": "http://bitchat.free",
       "languageCodesISO2A": [
         "AR",
         "BN",
@@ -182,38 +184,36 @@
       ],
       "fileSizeBytes": "13686784",
       "formattedPrice": "Gratuit",
+      "userRatingCountForCurrentVersion": 123,
       "trackContentRating": "4+",
-      "sellerUrl": "http://bitchat.free",
-      "userRatingCountForCurrentVersion": 117,
-      "releaseNotes": "What's New in bitchat 1.8.0:\n- Busy location channels are fast again. The people list opens instantly even with hundreds of people nearby, and the chat no longer jumps back while you scroll through a fast conversation.\n- Your drafts are kept when you switch between mesh, location channels and private chats.\n- Join a nearby location channel with one tap, and share channel invites from the share sheet.\n- Give someone a local alias on their fingerprint screen. Verified contacts now show a seal in private chats.\n- A recent chats section keeps every private conversation within reach.\n- A banner tells you when Bluetooth is off or Tor is stalled.\n- Panic wipe now asks for confirmation and tells you when it's done.\n- On Mac, scan verification QR codes with the camera. @-mention suggestions now work from the keyboard.\n- Messages from someone who shares your name are no longer treated as your own.\n- Security hardening and fixes throughout, and the app is now fully localized in all 30 supported languages.",
-      "minimumOsVersion": "16.0",
-      "genres": [
-        "Réseaux sociaux"
-      ],
       "price": 0,
+      "bundleId": "chat.bitchat",
+      "minimumOsVersion": "16.0",
+      "trackId": 6748219622,
+      "trackName": "bitchat mesh",
       "releaseDate": "2025-07-28T07:00:00Z",
       "primaryGenreName": "Social Networking",
       "primaryGenreId": 6005,
-      "genreIds": [
-        "6005"
-      ],
-      "isVppDeviceBasedLicensingEnabled": true,
       "sellerName": "permissionless tech, llc",
+      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-10-24T09:41:11Z",
       "version": "1.8.0",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "chat with people around you.\ndon't need their phone # or email.\nthe sidegroupchat for any function.\n\nuses bluetooth mesh, no internet needed.\nrelays messages to go the distance!\nencrypted private messages.",
-      "trackCensoredName": "bitchat mesh",
+      "averageUserRating": 4.59349,
       "trackViewUrl": "https://apps.apple.com/fr/app/bitchat-mesh/id6748219622?uo=4",
       "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.61538,
-      "trackId": 6748219622,
-      "trackName": "bitchat mesh",
+      "trackCensoredName": "bitchat mesh",
+      "genreIds": [
+        "6005"
+      ],
       "artistId": 1824145893,
       "artistName": "permissionless tech, llc",
-      "bundleId": "chat.bitchat",
-      "userRatingCount": 117,
+      "genres": [
+        "Réseaux sociaux"
+      ],
+      "userRatingCount": 123,
       "country": "FRA"
     }
   ]

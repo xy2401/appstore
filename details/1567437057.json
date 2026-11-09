@@ -22,11 +22,11 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/41/4f/1c/414f1c0f-2bf4-5222-546f-24d178b2a1c0/4_APP_IPAD_PRO_129_4.png/576x768bb.png"
       ],
       "appletvScreenshotUrls": [],
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/a7/f8/02a7f8df-a1ad-24a9-2c62-ec8cd6d39638/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/60x60bb.jpg",
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/a7/f8/02a7f8df-a1ad-24a9-2c62-ec8cd6d39638/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/a7/f8/02a7f8df-a1ad-24a9-2c62-ec8cd6d39638/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/fr/developer/organic-maps/id1567437059?uo=4",
       "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -161,10 +161,13 @@
       ],
       "advisories": [],
       "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/fr/developer/organic-maps/id1567437059?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/a7/f8/02a7f8df-a1ad-24a9-2c62-ec8cd6d39638/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/a7/f8/02a7f8df-a1ad-24a9-2c62-ec8cd6d39638/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
+      "averageUserRatingForCurrentVersion": 4.73986,
       "sellerUrl": "https://organicmaps.app/",
+      "averageUserRating": 4.73986,
+      "trackCensoredName": "Organic Maps – GPS hors ligne",
       "languageCodesISO2A": [
         "AF",
         "SQ",
@@ -217,28 +220,27 @@
       ],
       "fileSizeBytes": "141921280",
       "formattedPrice": "Gratuit",
-      "userRatingCountForCurrentVersion": 2258,
+      "contentAdvisoryRating": "4+",
+      "userRatingCountForCurrentVersion": 2318,
+      "trackViewUrl": "https://apps.apple.com/fr/app/organic-maps-gps-hors-ligne/id1567437057?uo=4",
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.73915,
-      "artistId": 1567437059,
-      "artistName": "Organic Maps",
       "genres": [
         "Navigation",
         "Voyages"
       ],
+      "artistId": 1567437059,
+      "artistName": "Organic Maps",
       "price": 0,
-      "bundleId": "app.organicmaps",
-      "primaryGenreName": "Navigation",
-      "primaryGenreId": 6010,
+      "minimumOsVersion": "15.0",
       "genreIds": [
         "6010",
         "6003"
       ],
-      "minimumOsVersion": "15.0",
-      "sellerName": "Organic Maps OU",
-      "releaseDate": "2021-06-12T07:00:00Z",
       "trackId": 1567437057,
       "trackName": "Organic Maps – GPS hors ligne",
+      "primaryGenreName": "Navigation",
+      "primaryGenreId": 6010,
+      "sellerName": "Organic Maps OU",
       "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-10-01T16:44:27Z",
       "releaseNotes": "## Calcul d'itinéraire\n• Amélioration des itinéraires alternatifs et de leurs heures d’arrivée estimées\n• Ajout de boutons permettant d’ajouter ou de remplacer une étape dans un itinéraire planifié\n• Ajout d’un paramètre permettant d’optimiser l’ordre des étapes intermédiaires d’un itinéraire\n• L'itinéraire alternatif sélectionné est désormais conservé lorsque la navigation recalcule l'itinéraire\n• L'ordre des étapes de l'itinéraire est désormais rétabli après le redémarrage de l'application\n\n## Carte\n• Données OpenStreetMap à la date du 28 septembre\n• Données Wikipédia au 21 septembre\n• Les réservoirs d’eau sont désormais visibles lorsque l’on effectue un zoom arrière\n• Les tunnels de cours d'eau n'apparaissent plus sur la carte\n• Correction des icônes des stations et des entrées du métro de Suzhou\n• Correction de cas rares où les libellés se déplaçaient hors de leur position sur la couche cartographique du métro\n\n## CarPlay\n• Ajout d’instructions de manœuvre sur les affichages tête haute (HUD) pris en charge et sur le tableau de bord CarPlay\n• Correction des boutons CarPlay et de la fonction de recherche\n\n## Tracés\n• Ajout d’une icône en forme d’œil pour masquer des tracés individuels\n• Correction de bugs et amélioration de l'enregistrement des tracés\n• Correction de l’importation des fichiers KMB\n\n## Recherche\n• Correction des recherches lorsque la zone visible de la carte franchit le méridien de 180° (longitude ±180°)\n• Restauration de la recherche par catégorie dans Spotlight\n\n## Interface utilisateur\n• Les horaires d’ouverture affichent désormais « Midi » pour 12 h et « Minuit » pour 00 h ou 24 h\n• Correction de divers bugs et amélioration de l'interface utilisateur\n• Corrections apportées aux traductions en anglais, français et asturien\n• Ajout de la possibilité de choisir une voix de navigation installée et d’en écouter un extrait",
@@ -246,11 +248,9 @@
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Organic Maps est une application de carte et de navigation GPS rapide, détaillée et hors ligne pour les voyages, randonnées et balades à vélo. Planifiez, importez et enregistrez vos itinéraires, et profitez d’une navigation fluide sans épuiser la batterie ni utiliser de connexion Internet. Explorez des lieux et naviguez en toute sécurité lors de vos aventures en plein air et de vos voyages autour du monde. L’application offre des téléchargements illimités de cartes et des mises à jour toutes les deux semaines. Basée sur OpenStreetMap, créée par des bénévoles, respectueuse de la vie privée, 100% hors ligne et entièrement gratuite.\n\nHORS LIGNE : L’application fonctionne à 100% hors ligne — y compris la recherche et la navigation. Vous pouvez explorer la carte et naviguer sans connexion Internet, économisant ainsi vos données mobiles et frais d’itinérance. Et sans transfert de données en arrière-plan, votre batterie dure beaucoup plus longtemps.\n\nDÉTAILLÉE & MISE À JOUR : Les cartes sont riches en détails et mises à jour deux fois par mois pour refléter les conditions réelles. Contrairement à de nombreux concurrents bien connus, elles incluent les étiquettes de bâtiments, les bancs, les sentiers de randonnée et d’autres informations utiles.\n\nBASÉE SUR OPENSTREETMAP : OpenStreetMap est une carte mondiale de style wiki, construite et maintenue par des millions de bénévoles — des locaux qui connaissent le mieux leur région. Cet effort communautaire permet d’obtenir des cartes très détaillées, souvent plus précises que les cartes commerciales dans les régions moins cartographiées. Organic Maps met à jour ses données issues d’OpenStreetMap toutes les deux semaines, pour garder vos cartes fraîches et fiables. Si vous remarquez qu’il manque quelque chose, vous pouvez l’ajouter à OpenStreetMap et contribuer à améliorer la carte pour tous.\n\nPRIORITÉ À LA VIE PRIVÉE : Nous ne collectons aucune donnée ni identifiant. Cela signifie qu’il n’y a aucun risque de fuite de données et aucune distraction comme les publicités ou notifications bruyantes — juste une expérience cartographique propre et privée.\n\nFONCTIONNALITÉS IMPORTANTES\n\nEXPLORER LES LIEUX : Recherchez par adresse, nom ou catégorie, découvrez des millions de points d’intérêt et consultez des informations détaillées telles que horaires d’ouverture, articles Wikipedia, accessibilité fauteuil roulant et autres informations utiles.\n\nNAVIGATION GPS : Profitez d’instructions vocales détaillées. Créez des itinéraires à pied, randonnée, vélo ou voiture — y compris des itinéraires entre villes, pays et plusieurs étapes. Trouvez les meilleurs itinéraires pour vos trajets en métro et domicile-travail.\n\nSENTIERS DE RANDONNÉE & CYCLISME DANS LE MONDE : Activez des couches de carte spéciales pour découvrir les itinéraires populaires de randonnée et de vélo dans le monde entier, tous issus d’OpenStreetMap. Basculez entre les couches pour voir les itinéraires vélo et VTT colorés, ainsi que les sentiers de randonnée officiels.\n\nTRANSPORT PUBLIC : Consultez les numéros des lignes de transport aux arrêts\n\nSTYLES DE CARTE : Choisissez des couches de carte adaptées à votre activité — Plein air, Courbes de niveau, Randonnée, Cyclisme ou Métro\n\nENREGISTREUR DE PARCOURS : Enregistrez, importez, exportez et partagez vos itinéraires et lieux favoris. Prend en charge les formats KML, KMZ, GPX et GeoJSON\n\nARTICLES WIKIPEDIA : Explorez les articles Wikipedia pour les lieux découverts sur la carte. Tapez “?wiki” dans la recherche pour trouver tous les lieux avec articles Wikipedia\n\nÉDITEUR DE CARTES : Contribuez à OpenStreetMap en ajoutant des lieux manquants ou en éditant la carte directement depuis Organic Maps\n\nSYNCHRONISATION ICLOUD : Sauvegardez et synchronisez facilement tous vos favoris et parcours via iCloud\n\nEssayez l’application — elle est 100% gratuite, sans publicité, rapide et entièrement hors ligne. Profitez d’une expérience cartographique rapide, fiable et privée, et partagez-la avec les autres",
-      "averageUserRating": 4.73915,
-      "trackCensoredName": "Organic Maps – GPS hors ligne",
-      "trackViewUrl": "https://apps.apple.com/fr/app/organic-maps-gps-hors-ligne/id1567437057?uo=4",
-      "contentAdvisoryRating": "4+",
-      "userRatingCount": 2258,
+      "bundleId": "app.organicmaps",
+      "releaseDate": "2021-06-12T07:00:00Z",
+      "userRatingCount": 2318,
       "country": "FRA"
     }
   ]

@@ -2,7 +2,6 @@
   "resultCount": 1,
   "results": [
     {
-      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c5/7c/b0/c57cb087-364d-90c0-a97e-ac5d1f7e6717/library.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/56/6a/9f/566a9fa2-25d0-b2c4-df85-56a8dd8d841a/reader.png/320x480bb.jpg",
@@ -14,15 +13,11 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8c/64/f2/8c64f2ba-6522-2bb9-9e04-bde2b3f7448e/slide.png/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/3f/a8/933fa8cb-1197-f3fa-ae39-3f6f4aa6b6da/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [],
-      "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/jp/developer/satoshi-amasaki/id1891268722?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/3f/a8/933fa8cb-1197-f3fa-ae39-3f6f4aa6b6da/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/3f/a8/933fa8cb-1197-f3fa-ae39-3f6f4aa6b6da/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/3f/a8/933fa8cb-1197-f3fa-ae39-3f6f4aa6b6da/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/jp/developer/satoshi-amasaki/id1891268722?uo=4",
+      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -155,46 +150,51 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "advisories": [],
+      "kind": "software",
+      "features": [
+        "iosUniversal"
+      ],
+      "averageUserRatingForCurrentVersion": 1,
       "sellerUrl": "https://snarfnet.github.io/",
+      "averageUserRating": 1,
+      "trackCensoredName": "Viewer DUO",
       "languageCodesISO2A": [
         "EN",
         "JA"
       ],
       "fileSizeBytes": "1858560",
       "formattedPrice": "¥500",
+      "contentAdvisoryRating": "4+",
       "userRatingCountForCurrentVersion": 1,
+      "trackViewUrl": "https://apps.apple.com/jp/app/viewer-duo/id6811308523?uo=4",
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 1,
+      "artistId": 1891268722,
+      "artistName": "satoshi amasaki",
       "genres": [
         "ブック",
         "ユーティリティ"
       ],
       "price": 500,
-      "releaseDate": "2026-09-17T07:00:00Z",
-      "currentVersionReleaseDate": "2026-10-27T18:31:28Z",
+      "trackName": "Viewer DUO",
+      "trackId": 6811308523,
+      "minimumOsVersion": "17.0",
       "primaryGenreName": "Book",
       "primaryGenreId": 6018,
       "sellerName": "satoshi amasaki",
-      "genreIds": [
-        "6018",
-        "6002"
-      ],
-      "trackId": 6811308523,
-      "trackName": "Viewer DUO",
-      "minimumOsVersion": "17.0",
-      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseDate": "2026-09-17T07:00:00Z",
+      "currentVersionReleaseDate": "2026-10-27T18:31:28Z",
       "releaseNotes": "・新機能「2枚ずつスライド」：連番の画像を左右に並べ、スワイプで2枚同時に切り替えます\n・画像フォルダや、まとめて選んだ画像を1冊の本として取り込めるようになりました\n・漫画などの固定レイアウトEPUBを正しく表示し、表紙も出るようにしました\n・ピンチでページを拡大できるようになりました\n・大きなファイルやiCloud上のファイルの取り込みで固まる・失敗する問題を直しました\n・iPhone Duo の画面いっぱいに表示し、開いたときの折り目を本の背にするようにしました\n・縦書きでも挿絵を1ページずつ表示するようにしました",
       "version": "1.1",
       "wrapperType": "software",
       "currency": "JPY",
       "description": "紙の本をめくる感触を、そのまま画面に。\n\nViewer DUOは、ページを1枚ずつ本物の紙としてシミュレートする書籍ビューアです。指で端を引くと紙が持ち上がり、裏面がうっすら透け、下のページに影を落とします。手を離せば、自然な速さで落ち着きます。\n\niPadや横向きのiPhoneでは、本物の本のように見開きで読めます。iPhone Duoでもヒンジを背にした見開きになります。\n\n・対応形式 — PDF / EPUB / TXT / ZIP・CBZ / RAR・CBR\n・めくり — ドラッグで追従、端タップで自動、角をつまめば斜めに反る\n・見開き／単ページ — 自動切替。右開き（漫画・縦書き）にも対応\n・文字の本 — 明朝・ゴシック・セリフ・サンセリフ・丸ゴシック、大きさ・行間・余白、縦書き\n・青空文庫のルビ・注記を自動整理\n・紙6種 × 机6種 — 純白・クリーム・羊皮紙・セピア・若草・夜間 ／ 胡桃・大理石・藍リネン・革・黒曜・象牙\n・目次、しおり、本文検索、ダブルタップで拡大\n・暖色フィルター、ページの厚み表示、読書中のスリープ防止\n・読んでいた位置を記憶。「続きから読む」ですぐ再開\n・広告なし、アカウント不要、オフラインで動作\n\n買い切りです。\n\n※本アプリはお手持ちの書籍ファイルを表示するビューアです。書籍データは含まれません。",
-      "trackCensoredName": "Viewer DUO",
-      "trackViewUrl": "https://apps.apple.com/jp/app/viewer-duo/id6811308523?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 1,
       "bundleId": "com.tokyonasu.ViewerDUO",
-      "artistId": 1891268722,
-      "artistName": "satoshi amasaki",
+      "genreIds": [
+        "6018",
+        "6002"
+      ],
+      "isVppDeviceBasedLicensingEnabled": true,
       "userRatingCount": 1,
       "country": "JPN"
     }

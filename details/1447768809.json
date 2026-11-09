@@ -2,6 +2,7 @@
   "resultCount": 3,
   "results": [
     {
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/9a/4e/af9a4e61-0c2f-c4e0-3356-e1764fffa874/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/0a/de/ac0ade6a-1f67-6c63-3147-1a57d64c3fef/mzl.iroabibt.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/6e/6c/8f6e6cd2-004f-817b-d04a-6f2892f72e73/mzl.pqsunkfo.jpg/392x696bb.jpg",
@@ -9,14 +10,13 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/45/0c/f5450ce1-7db9-4dc2-104f-2a49278c8269/mzl.zgljpnlo.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/c1/a7/ebc1a79f-0c65-7643-0b2a-021d7e20d987/mzl.xigmeice.jpg/392x696bb.jpg"
       ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/1e/05/991e0510-aa7d-ad20-97de-be16fbf612b2/pr_source.jpg/576x768bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/06/e3/3906e3c8-7aef-19bd-2341-2d0073fcde6a/pr_source.jpg/576x768bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/df/ed/93dfedba-3700-097b-660f-b7a6a198fd1a/pr_source.jpg/576x768bb.jpg"
-      ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/9a/4e/af9a4e61-0c2f-c4e0-3356-e1764fffa874/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/fr/developer/aditya-rajveer/id882719699?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/9a/4e/af9a4e61-0c2f-c4e0-3356-e1764fffa874/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/9a/4e/af9a4e61-0c2f-c4e0-3356-e1764fffa874/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -149,18 +149,19 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "features": [
-        "iosUniversal"
-      ],
       "advisories": [
         "Scènes rares/modérées réservées aux adultes (suggestives)",
         "Scènes rares/modérées de consommation ou de référence à l’alcool, au tabac ou à la drogue",
         "Scènes rares/modérées d’humour vulgaire ou blasphématoire"
       ],
       "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/fr/developer/aditya-rajveer/id882719699?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/9a/4e/af9a4e61-0c2f-c4e0-3356-e1764fffa874/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/9a/4e/af9a4e61-0c2f-c4e0-3356-e1764fffa874/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.jpg",
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/1e/05/991e0510-aa7d-ad20-97de-be16fbf612b2/pr_source.jpg/576x768bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/06/e3/3906e3c8-7aef-19bd-2341-2d0073fcde6a/pr_source.jpg/576x768bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/df/ed/93dfedba-3700-097b-660f-b7a6a198fd1a/pr_source.jpg/576x768bb.jpg"
+      ],
+      "appletvScreenshotUrls": [],
+      "bundleId": "com.adityarajveer.Marvis",
       "sellerUrl": "http://appaddy.wixsite.com/marvis",
       "languageCodesISO2A": [
         "NL",
@@ -182,7 +183,11 @@
       "formattedPrice": "9,99 €",
       "userRatingCountForCurrentVersion": 76,
       "trackContentRating": "12+",
+      "contentAdvisoryRating": "12+",
+      "averageUserRating": 4.75,
       "averageUserRatingForCurrentVersion": 4.75,
+      "trackCensoredName": "Marvis Pro",
+      "trackViewUrl": "https://apps.apple.com/fr/app/marvis-pro/id1447768809?uo=4",
       "releaseNotes": "Fixes and improvements.",
       "artistId": 882719699,
       "artistName": "Aditya Rajveer",
@@ -191,15 +196,14 @@
         "Divertissement"
       ],
       "price": 9.99,
-      "trackId": 1447768809,
-      "trackName": "Marvis Pro",
-      "bundleId": "com.adityarajveer.Marvis",
+      "releaseDate": "2019-02-14T10:17:13Z",
       "minimumOsVersion": "26.0",
       "genreIds": [
         "6011",
         "6016"
       ],
-      "releaseDate": "2019-02-14T10:17:13Z",
+      "trackId": 1447768809,
+      "trackName": "Marvis Pro",
       "primaryGenreName": "Music",
       "primaryGenreId": 6011,
       "sellerName": "Aditya Rajveer",
@@ -209,10 +213,6 @@
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Interact with your music and fall in love with your library all over again.\n\n** Featured on MacStories, 9to5Mac, Cult of Mac, iDownloadBlog, iMore, and more. **\n** App of the Year 2022 - MacStories **\n\nMarvis offers a beautiful presentation of your Music Library with loads of powerful features in a minimalistic yet highly customizable UI.\n\n• For Apple Music & iTunes Library.\n   ‣ Supports Apple Music Search, Charts, Listen Now, Radio, and more.\n   ‣ Non-subscribers can search & browse the Apple Music catalog and play 30s preview for all available songs.\n\n• Use Drag & Drop to add one or more items to Up Next, Play, or Shuffle.\n• Advanced Media Details and Artist Info.\n• List & Grid Layout. Multiple Grid styles to choose from, like Cover Flow.\n• 40+ App icon choices.\n• Sort and Group\n   ‣ Sort by Recently Played/Added, Year, Rating, Play Count, and more.\n   ‣ Group Playlists and Genres into Albums, Artists, Composers, etc.\n\n• Smart Rules: Filter, Sort, and Limit.\n\n• Last.fm support.\n  ‣ The ability to scrobble is included with your purchase.\n  ‣ Advanced features require an additional one-time fee.\n\nIMPORTANT:\n• It is required to have the Music app installed on your device to use Marvis.\n• Due to iOS restrictions, deleting items from your library or playlists via Marvis is not allowed.\n\nReddit: r/MarvisApp",
-      "averageUserRating": 4.75,
-      "trackCensoredName": "Marvis Pro",
-      "trackViewUrl": "https://apps.apple.com/fr/app/marvis-pro/id1447768809?uo=4",
-      "contentAdvisoryRating": "12+",
       "userRatingCount": 76,
       "country": "FRA"
     },

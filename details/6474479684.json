@@ -207,6 +207,9 @@
       "userRatingCount": 220
     },
     {
+      "artistViewUrl": "https://apps.apple.com/cn/developer/devon-lewis/id1721718576?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/4d/a5/894da542-d295-eb34-54f9-094707000c4f/Spark_Retro_Icon_Main-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/4d/a5/894da542-d295-eb34-54f9-094707000c4f/Spark_Retro_Icon_Main-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
@@ -340,6 +343,10 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "features": [
+        "iosUniversal"
+      ],
+      "advisories": [],
       "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/93/38/0e/93380e42-3db3-d8c2-4bf4-cc9f44b54ec9/b75b2ad5-9c4d-4e6e-bc37-62ff60d1e1fe_01.png/392x696bb.png",
@@ -357,27 +364,23 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/4d/a5/894da542-d295-eb34-54f9-094707000c4f/Spark_Retro_Icon_Main-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/cn/developer/devon-lewis/id1721718576?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/4d/a5/894da542-d295-eb34-54f9-094707000c4f/Spark_Retro_Icon_Main-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/4d/a5/894da542-d295-eb34-54f9-094707000c4f/Spark_Retro_Icon_Main-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.jpg",
-      "advisories": [],
-      "features": [
-        "iosUniversal"
-      ],
+      "averageUserRating": 4.30605,
+      "trackCensoredName": "Spark - Ren'Py 小说们",
+      "trackViewUrl": "https://apps.apple.com/cn/app/spark-renpy-%E5%B0%8F%E8%AF%B4%E4%BB%AC/id6474479684?uo=4",
+      "contentAdvisoryRating": "4+",
+      "trackId": 6474479684,
+      "trackName": "Spark - Ren'Py 小说们",
       "artistId": 1721718576,
       "artistName": "Devon Lewis",
-      "price": 48,
-      "releaseDate": "2023-12-21T08:00:00Z",
       "currentVersionReleaseDate": "2026-10-29T19:17:08Z",
-      "trackName": "Spark - Ren'Py 小说们",
-      "trackId": 6474479684,
       "minimumOsVersion": "15.5",
-      "genreIds": [
-        "6002"
-      ],
       "primaryGenreName": "Utilities",
       "primaryGenreId": 6002,
       "sellerName": "Devon Lewis",
+      "releaseDate": "2023-12-21T08:00:00Z",
+      "genreIds": [
+        "6002"
+      ],
       "isVppDeviceBasedLicensingEnabled": true,
       "releaseNotes": "- 画廊优化\n- Duo 优化\n- 其他界面优化\n\n- 游戏内设备版本切换器现在可以正确保存到游戏配置中。",
       "version": "1.4.2",
@@ -385,7 +388,6 @@
       "currency": "CNY",
       "description": "Spark：管理 Ren'Py 视觉小说的必备工具\n\nSpark 是一款独立的 Ren'Py 视觉小说整理与启动工具，与官方 Ren'Py 项目无关，也未获得其支持。若在使用本应用时遇到问题，请联系 Spark 支持团队，而非 Ren'Py 官方。\n\n轻松导入与启动你的小说  \n在 Spark 中导入并启动你喜爱的 Ren'Py 视觉小说。添加完成后，只需轻点即可启动，让你从繁琐的手动配置中解放出来，专注阅读与游玩。\n\n为每部作品量身适配的引擎版本  \n根据每部小说选择不同的 Ren'Py 引擎版本，以提升稳定性：  \n8.x：8.5.2、8.5.0、8.4.1、8.3.7、8.3.4、8.2.3、8.1.3、8.0.3  \n7.x：7.8.8、7.8.4、7.7.3、7.6.3、7.5.3、7.4.11  \n\n针对每部小说的独立配置功能可帮助你：  \n- 为每个标题选择最合适的 Ren'Py 版本  \n- 微调设置以优化使用体验  \n- 改善大型或老旧作品的运行表现  \n\n提示：性能与兼容性会因作品而异。较老或体量巨大的作品可能存在错误或无法运行。小屏设备可能出现渲染问题。部分作品可能完全无法游玩，但我们会尽力支持尽可能多的标题。\n\n强大的存档管理  \n全面掌控你在所有小说中的游戏进度：  \n- 在一个界面查看全部存档，无需在文件夹中来回查找  \n- 在关键选择或结局前备份存档，随时重温不同分支  \n- 当出现问题或想重玩特定路线时，一键恢复旧存档  \n- 从其他设备导入存档，并删除不需要的存档，保持整洁有序  \n\n管理你的整个小说库  \n让你的 Ren'Py 收藏更加清晰好用：  \n- 一目了然地查看所有已安装的小说  \n- 重命名标题，使其符合你的个人整理习惯  \n- 管理同一作品的多个版本，例如不同语言补丁或更新构建  \n\n灵活的作品导入方式  \n从多种常见格式中添加新作品：  \n- 支持从 zip、apk、7z、tar、rar 文件导入  \n- 快速导入来自备份、下载或其他设备的标题  \n导入后，作品会加入 Spark 库中，即可使用版本管理与存档管理功能。\n\n面向 Ren'Py 的专用工具与增强功能  \n\n画廊浏览器  \n- 在 Spark 内直接浏览作品资源  \n- 查看游戏使用的图片等多媒体文件  \n\n变量编辑器  \n- 游玩过程中查看并编辑游戏变量  \n- 跳过刷级、修复错误标记，或通过调整变量直达特定路线  \n\n设备端翻译  \n- 使用 Apple 的设备端翻译系统为小说翻译文本  \n- 在不离开应用的情况下，更轻松体验外语作品  \n- 所有翻译在本机完成，兼顾隐私与速度  \n\n通往 Ren'Py 视觉小说世界的入口  \nSpark 虽与 Ren'Py 官方无从属关系，但致力于成为玩家的强大助手，让你在一个应用中完成 Ren'Py 视觉小说的安装、启动、自定义与维护。\n\n额外授权信息  \nRen'Py 包含依据多种自由软件许可协议发布的软件，其中包括 GNU 较宽松通用公共许可证。有关完整的包含软件列表与许可详情，请访问 Ren'Py 官方网站。\n\n使用条款  \nhttps://spark.devl.ai/zh-cn/reference/terms/",
       "sellerUrl": "https://spark.devl.ai/zh-cn/",
-      "averageUserRatingForCurrentVersion": 4.30108,
       "languageCodesISO2A": [
         "EN",
         "FR",
@@ -402,17 +404,15 @@
       ],
       "fileSizeBytes": "729588736",
       "formattedPrice": "¥48.00",
-      "userRatingCountForCurrentVersion": 279,
+      "userRatingCountForCurrentVersion": 281,
       "trackContentRating": "4+",
+      "averageUserRatingForCurrentVersion": 4.30605,
       "bundleId": "ai.devl.RenPySpark",
-      "trackCensoredName": "Spark - Ren'Py 小说们",
-      "trackViewUrl": "https://apps.apple.com/cn/app/spark-renpy-%E5%B0%8F%E8%AF%B4%E4%BB%AC/id6474479684?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.30108,
       "genres": [
         "工具"
       ],
-      "userRatingCount": 279,
+      "price": 48,
+      "userRatingCount": 281,
       "country": "CHN"
     }
   ]

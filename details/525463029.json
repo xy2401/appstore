@@ -225,22 +225,12 @@
       "userRatingCount": 2073094
     },
     {
-      "artistViewUrl": "https://apps.apple.com/us/developer/apple/id284417353?mt=12&uo=4",
+      "isGameCenterEnabled": false,
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/0a/f3/e80af3fc-6a6b-35c6-1931-272745ed02e7/podcastsCalistoga-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/0a/f3/e80af3fc-6a6b-35c6-1931-272745ed02e7/podcastsCalistoga-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
-      "isGameCenterEnabled": false,
+      "artistViewUrl": "https://apps.apple.com/us/developer/apple/id284417353?mt=12&uo=4",
       "features": [
         "iosUniversal"
-      ],
-      "advisories": [
-        "Infrequent/Mild Medical/Treatment Information",
-        "Infrequent/Mild Sexual Content and Nudity",
-        "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References",
-        "Infrequent/Mild Realistic Violence",
-        "Infrequent/Mild Mature/Suggestive Themes",
-        "Infrequent/Mild Profanity or Crude Humor",
-        "Infrequent/Mild Horror/Fear Themes",
-        "Infrequent/Mild Cartoon or Fantasy Violence"
       ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
@@ -375,6 +365,16 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "advisories": [
+        "Infrequent/Mild Medical/Treatment Information",
+        "Infrequent/Mild Sexual Content and Nudity",
+        "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References",
+        "Infrequent/Mild Realistic Violence",
+        "Infrequent/Mild Mature/Suggestive Themes",
+        "Infrequent/Mild Profanity or Crude Humor",
+        "Infrequent/Mild Horror/Fear Themes",
+        "Infrequent/Mild Cartoon or Fantasy Violence"
+      ],
       "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8f/ae/0b/8fae0b8e-b147-760f-6de9-863ede40163d/iPhone6p9-iOS27-USEN-Podcasts-Wrapper1.png/320x480bb.jpg",
@@ -392,11 +392,10 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/0a/f3/e80af3fc-6a6b-35c6-1931-272745ed02e7/podcastsCalistoga-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "averageUserRating": 4.86355,
-      "trackCensoredName": "Apple Podcasts",
       "trackViewUrl": "https://apps.apple.com/us/app/apple-podcasts/id525463029?uo=4",
       "contentAdvisoryRating": "12+",
-      "releaseNotes": "Bug Fixes and Feature Enhancements",
+      "averageUserRating": 4.8635,
+      "trackCensoredName": "Apple Podcasts",
       "artistId": 284417353,
       "artistName": "Apple",
       "genres": [
@@ -404,21 +403,24 @@
       ],
       "price": 0,
       "bundleId": "com.apple.podcasts",
-      "minimumOsVersion": "10.0",
       "primaryGenreName": "Entertainment",
       "primaryGenreId": 6016,
+      "releaseDate": "2012-06-26T17:40:41Z",
+      "releaseNotes": "Bug Fixes and Feature Enhancements",
+      "trackId": 525463029,
+      "trackName": "Apple Podcasts",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "minimumOsVersion": "10.0",
+      "sellerName": "Apple Inc.",
       "genreIds": [
         "6016"
       ],
-      "releaseDate": "2012-06-26T17:40:41Z",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "trackId": 525463029,
-      "trackName": "Apple Podcasts",
       "currentVersionReleaseDate": "2026-10-26T23:35:04Z",
       "version": "4.7",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Discover podcasts that entertain, inform, and inspire. Get recommendations curated by Apple Podcasts editors and dive deep into what interests you most. Seamlessly sync your shows across Apple devices.\n\nFeatures:\n\n• Listen and watch podcasts, download and play offline. \n• Explore new shows with personalized recommendations. \n• Find trending shows and episodes by category with Top Charts. \n• Find the best of what’s new and popular in podcasting with curated collections from Apple editors.\n• Follow and save your favorite shows to your library. \n• Use playback controls to build and manage your queue, control playback speed, and set sleep timers.\n• Hear voices in episodes more clearly with Enhance Dialogue.\n• Add your favorite categories to find shows that map to your unique tastes.\n• Access subscriber-only content, from the biggest names to the top independents.\n• Connect subscriptions to access shows from Apple Music, Apple News, and other top apps. \n• Read along with a transcript as your episode plays.\n• Share a specific moment in an episode from the transcript.\n• Get new episode notifications from shows you follow.\n• Pick up where you left off with seamless syncing across your Apple devices.\n• Listen on-the-go with CarPlay and Apple Watch.\n• Use customizable widgets to listen with just one tap.\n\nAvailability and features vary by country and region, plan, or device. https://support.apple.com/HT204411\n\nApple Podcasts app Terms and Conditions can be found at https://www.apple.com/legal/internet-services/itunes/",
+      "averageUserRatingForCurrentVersion": 4.8635,
       "languageCodesISO2A": [
         "AR",
         "CA",
@@ -456,11 +458,9 @@
       ],
       "fileSizeBytes": "11510784",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 2075134,
+      "userRatingCountForCurrentVersion": 2075329,
       "trackContentRating": "12+",
-      "averageUserRatingForCurrentVersion": 4.86355,
-      "sellerName": "Apple Inc.",
-      "userRatingCount": 2075134,
+      "userRatingCount": 2075329,
       "country": "USA"
     }
   ]

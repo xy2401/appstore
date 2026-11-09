@@ -201,12 +201,14 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fb/64/46/fb6446c9-ce7d-7790-f719-cbb9433eeb96/4.png/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/d2/a4/6ad2a460-502e-b2c9-01f6-1c876f0c9b7e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/d2/a4/6ad2a460-502e-b2c9-01f6-1c876f0c9b7e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/d2/a4/6ad2a460-502e-b2c9-01f6-1c876f0c9b7e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/fr/developer/tiste/id519715776?uo=4",
       "isGameCenterEnabled": false,
-      "advisories": [],
+      "artistViewUrl": "https://apps.apple.com/fr/developer/tiste/id519715776?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/d2/a4/6ad2a460-502e-b2c9-01f6-1c876f0c9b7e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/d2/a4/6ad2a460-502e-b2c9-01f6-1c876f0c9b7e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -340,49 +342,47 @@
         "iPhoneDuo-iPhoneDuo"
       ],
       "kind": "software",
-      "features": [
-        "iosUniversal"
-      ],
-      "trackCensoredName": "Rally Call",
+      "advisories": [],
+      "sellerUrl": "https://rally-call.com/fr",
       "languageCodesISO2A": [
         "EN"
       ],
       "fileSizeBytes": "45928448",
       "formattedPrice": "24,99 €",
-      "contentAdvisoryRating": "4+",
-      "userRatingCountForCurrentVersion": 34,
-      "trackViewUrl": "https://apps.apple.com/fr/app/rally-call/id6748931500?uo=4",
+      "userRatingCountForCurrentVersion": 35,
       "trackContentRating": "4+",
-      "artistId": 519715776,
-      "artistName": "Tiste",
+      "averageUserRatingForCurrentVersion": 4.82857,
+      "trackCensoredName": "Rally Call",
+      "trackViewUrl": "https://apps.apple.com/fr/app/rally-call/id6748931500?uo=4",
+      "releaseNotes": "Mise à jour de sécurité et de stabilité : composants techniques mis à jour, démarrage plus rapide et consommation mémoire réduite. Correction de l'import de session sur la version web. Vos sessions et réglages sont conservés.",
+      "averageUserRating": 4.82857,
+      "contentAdvisoryRating": "4+",
+      "price": 24.99,
       "genres": [
         "Sports",
         "Navigation"
       ],
-      "currentVersionReleaseDate": "2026-09-20T08:43:51Z",
-      "releaseDate": "2025-08-01T07:00:00Z",
+      "artistId": 519715776,
+      "artistName": "Tiste",
+      "bundleId": "io.tiste.RallyCall",
       "trackId": 6748931500,
       "trackName": "Rally Call",
-      "minimumOsVersion": "16.4",
+      "releaseDate": "2025-08-01T07:00:00Z",
+      "primaryGenreName": "Sports",
+      "primaryGenreId": 6004,
       "genreIds": [
         "6004",
         "6010"
       ],
-      "primaryGenreName": "Sports",
-      "primaryGenreId": 6004,
-      "sellerName": "Baptiste Lecocq",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseNotes": "Mise à jour de sécurité et de stabilité : composants techniques mis à jour, démarrage plus rapide et consommation mémoire réduite. Correction de l'import de session sur la version web. Vos sessions et réglages sont conservés.",
+      "minimumOsVersion": "16.4",
       "version": "1.9.5",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Préparez vos notes comme un pro.\n- Ajoutez des notes vocales géolocalisées sur chaque portion de route\n- Visualisez en temps réel l’angle de rotation du volant avec un cadran cockpit animé\n- Utilisez un outil de précision pour vos prises de distance\n- Gardez une trace du dernier virage significatif automatiquement\n- Accédez à la météo du jour sur la spéciale, avec localisation intégrée\n- Accédez à vos résultats en live via le lien FFSA\n- Partagez et sauvegardez vos reconnaissances avec les fichiers Rally Call\n\nPensée par des copilotes, pour les copilotes.",
-      "bundleId": "io.tiste.RallyCall",
-      "sellerUrl": "https://rally-call.com/fr",
-      "averageUserRatingForCurrentVersion": 4.82353,
-      "averageUserRating": 4.82353,
-      "price": 24.99,
-      "userRatingCount": 34,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "Baptiste Lecocq",
+      "currentVersionReleaseDate": "2026-09-20T08:43:51Z",
+      "userRatingCount": 35,
       "country": "FRA"
     }
   ]

@@ -226,6 +226,10 @@
       "userRatingCount": 372
     },
     {
+      "isGameCenterEnabled": false,
+      "features": [],
+      "advisories": [],
+      "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple22/v4/33/43/8b/33438bd9-da49-574b-b450-c0de20390cb0/mzl.rzpblrqe.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple42/v4/ad/ae/c4/adaec496-c7c8-e9e2-700b-46ee3446d6e6/mzl.bdxykbtl.png/392x696bb.png",
@@ -409,10 +413,23 @@
         "WatchUltra4-WatchUltra4",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "isGameCenterEnabled": false,
-      "features": [],
-      "advisories": [],
-      "kind": "software",
+      "price": 150,
+      "minimumOsVersion": "9.0",
+      "primaryGenreName": "Finance",
+      "primaryGenreId": 6015,
+      "genreIds": [
+        "6015",
+        "6007"
+      ],
+      "currentVersionReleaseDate": "2018-09-24T01:09:20Z",
+      "sellerName": "MASANORI SHIBUYA",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseDate": "2009-11-19T21:25:02Z",
+      "version": "1.19.1",
+      "wrapperType": "software",
+      "currency": "JPY",
+      "description": "「支出管理」は、予算を立てて毎月の支出を管理するアプリケーションです。\n家計やおこづかい、経費などの管理にお役立てください。",
+      "averageUserRatingForCurrentVersion": 4.35696,
       "sellerUrl": "http://shibuym.blogspot.com/",
       "languageCodesISO2A": [
         "EN",
@@ -420,40 +437,23 @@
       ],
       "fileSizeBytes": "21096448",
       "formattedPrice": "¥150",
-      "userRatingCountForCurrentVersion": 380,
+      "userRatingCountForCurrentVersion": 381,
       "trackContentRating": "4+",
+      "bundleId": "com.gmail.shibuym.ExpenseBook",
+      "averageUserRating": 4.35696,
       "trackCensoredName": "支出管理",
       "trackViewUrl": "https://apps.apple.com/jp/app/%E6%94%AF%E5%87%BA%E7%AE%A1%E7%90%86/id339986225?uo=4",
       "contentAdvisoryRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.35526,
-      "averageUserRating": 4.35526,
       "trackId": 339986225,
       "trackName": "支出管理",
-      "releaseNotes": "- iPhone Xs Maxのディスプレイサイズに対応しました。\n(以前のバージョンでもアプリを使用できましたが、より精細に表示されるようになります。）\n- 他にいくつか細かい修正をしました。",
-      "artistId": 339986228,
       "artistName": "SHIBUYA Masanori",
+      "artistId": 339986228,
       "genres": [
         "ファイナンス",
         "仕事効率化"
       ],
-      "price": 150,
-      "bundleId": "com.gmail.shibuym.ExpenseBook",
-      "currentVersionReleaseDate": "2018-09-24T01:09:20Z",
-      "primaryGenreName": "Finance",
-      "primaryGenreId": 6015,
-      "minimumOsVersion": "9.0",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "sellerName": "MASANORI SHIBUYA",
-      "releaseDate": "2009-11-19T21:25:02Z",
-      "version": "1.19.1",
-      "wrapperType": "software",
-      "currency": "JPY",
-      "description": "「支出管理」は、予算を立てて毎月の支出を管理するアプリケーションです。\n家計やおこづかい、経費などの管理にお役立てください。",
-      "genreIds": [
-        "6015",
-        "6007"
-      ],
-      "userRatingCount": 380,
+      "releaseNotes": "- iPhone Xs Maxのディスプレイサイズに対応しました。\n(以前のバージョンでもアプリを使用できましたが、より精細に表示されるようになります。）\n- 他にいくつか細かい修正をしました。",
+      "userRatingCount": 381,
       "country": "JPN"
     }
   ]

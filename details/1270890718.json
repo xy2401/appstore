@@ -2,6 +2,11 @@
   "resultCount": 1,
   "results": [
     {
+      "artistViewUrl": "https://apps.apple.com/fr/developer/ryan-robinson/id1270890717?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/83/8c/cd838c8e-9b13-b0c6-71b9-2e2a25f2da6d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/83/8c/cd838c8e-9b13-b0c6-71b9-2e2a25f2da6d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/83/8c/cd838c8e-9b13-b0c6-71b9-2e2a25f2da6d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/7b/9d/f7/7b9df795-5574-cdb0-6958-7a6ca20a01ec/1781fae4-7209-42ae-8317-82605568eeec_iphone-standard-live.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/3a/2e/da/3a2eda26-2e89-7a81-8d4a-b3d746a20288/f8344046-08a0-4069-99ad-fe1ef6c9d129_iphone-standard-setlist.png/392x696bb.png",
@@ -19,12 +24,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/9f/23/9e/9f239e30-61bb-1649-791f-3fe649d02bd8/77ea0e4b-cb1d-4d80-8dc2-28143e9016c0_ipad-rounded-more.png/552x414bb.png"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/48/d4/2c48d435-e91f-a58e-1856-aa518c966b9d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/fr/developer/ryan-robinson/id1270890717?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/48/d4/2c48d435-e91f-a58e-1856-aa518c966b9d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/48/d4/2c48d435-e91f-a58e-1856-aa518c966b9d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
-      "isGameCenterEnabled": false,
-      "advisories": [],
       "supportedDevices": [
         "MacDesktop-MacDesktop",
         "iPhone5s-iPhone5s",
@@ -158,12 +157,16 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "kind": "software",
       "features": [
         "iosUniversal"
       ],
+      "advisories": [],
+      "kind": "software",
+      "averageUserRating": 4.71429,
+      "contentAdvisoryRating": "4+",
+      "trackCensoredName": "AutoPad — Ambient Pad Loops",
+      "trackViewUrl": "https://apps.apple.com/fr/app/autopad-ambient-pad-loops/id1270890718?uo=4",
       "averageUserRatingForCurrentVersion": 4.71429,
-      "sellerUrl": "https://rygrob.com/autopad/",
       "languageCodesISO2A": [
         "EN",
         "PT",
@@ -173,30 +176,27 @@
       "formattedPrice": "7,99 €",
       "userRatingCountForCurrentVersion": 7,
       "trackContentRating": "4+",
-      "trackCensoredName": "AutoPad — Ambient Pad Loops",
-      "trackViewUrl": "https://apps.apple.com/fr/app/autopad-ambient-pad-loops/id1270890718?uo=4",
-      "averageUserRating": 4.71429,
-      "releaseNotes": "New in AutoPad 1.10.4:\n- Fix in-app sound packs not downloading after purchase or restore on iOS 27.\n- Improve error messages for restore purchases flow.\n- Update support, marketing, and privacy URLs.",
-      "contentAdvisoryRating": "4+",
+      "releaseNotes": "New in AutoPad 1.10.5:\n- Fix a crash when opening the in-app Bluetooth menu.",
+      "sellerUrl": "https://rygrob.com/autopad/",
       "artistId": 1270890717,
       "artistName": "Ryan Robinson",
       "genres": [
         "Musique"
       ],
       "price": 7.99,
-      "releaseDate": "2017-09-04T17:15:01Z",
+      "trackId": 1270890718,
+      "trackName": "AutoPad — Ambient Pad Loops",
       "minimumOsVersion": "13.0",
-      "primaryGenreName": "Music",
-      "primaryGenreId": 6011,
-      "isVppDeviceBasedLicensingEnabled": true,
       "genreIds": [
         "6011"
       ],
+      "currentVersionReleaseDate": "2026-11-02T15:23:31Z",
+      "releaseDate": "2017-09-04T17:15:01Z",
+      "isVppDeviceBasedLicensingEnabled": true,
       "sellerName": "Ryan Robinson",
-      "trackId": 1270890718,
-      "trackName": "AutoPad — Ambient Pad Loops",
-      "currentVersionReleaseDate": "2026-10-14T14:32:04Z",
-      "version": "1.10.4",
+      "primaryGenreName": "Music",
+      "primaryGenreId": 6011,
+      "version": "1.10.5",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "AutoPad is the easiest way to bring ambient pad loops into your mix!\n\nAutoPad generates atmospheric drone sounds that lend subtle structure to your live performances and recordings. Simply tap a key, and AutoPad will provide a tasteful soundscape that plays for as long as you like. Natural crossfades between keys are handled automatically.\n\n\nFeatures:\n\n- Perform with ease. AutoPad has two modes: Live mode gives you instant access to all twelve keys, and setlist mode lets you build a custom list of songs.\n\n- Set the mood. AutoPad comes with 10 carefully designed pad sounds. Each one creates a unique atmosphere in all 12 keys.\n\n- Expand your library. You can add to the factory sounds by importing your own pads or by purchasing one of the in-app sound packs.*\n\n- Shape your sound. AutoPad's menu gives you control over crossfade time, high-pass and low-pass filters, reverb amount, pan, and volume.\n\n- Easy on storage. AutoPad's seamlessly looped sample-based drones contain just what you need to provide a pleasing atmosphere and don't take up excessive space on your device.\n\n- Stay in sync. AutoPad features a customizable metronome with a dedicated pan control. Keep your band locked in without needing to lug around a tracks rig.\n\n- Deep MIDI Control. AutoPad's MIDI Actions menu makes it easy to customize how AutoPad responds to your MIDI controller.\n\n- Use with other apps. AutoPad comes with a fully-featured AUv3 plugin! Run AutoPad alongside other music apps in your favorite AUv3 host.\n\n- Now on the Mac. AutoPad runs on macOS! You can use AutoPad as a standalone app or as an AUv3 plug-in in a compatible host. Both Intel and M1 Macs supported.\n\n- Go Wireless. Ableton Link lets you stay in sync with other devices on the same Wi-Fi network. AutoPad also supports Bluetooth MIDI controllers and AirPlay audio. \n\n- Share with friends. Make sure your band is all on the same page by easily sharing setlists with AirDrop.\n\n- Stay organized. AutoPad lets you save and recall setlists with a simple setlist manager.\n\n- Looks great. AutoPad features a dark color scheme that is easy on the eyes and performs well on the stage.\n\n\nNote on use: \n\nAutoPad sounds great in a variety of contexts, but please make sure you understand the intended use before purchase.\n\nAutoPad's sounds are designed to be played softly and continuously behind live musicians. They include the root, fifth, and octave. As such, they can be used in a major or minor context. When using AutoPad in worship music, it is not necessary to change the pad with each chord change. For example, if you have a song in the key of E, you can play a pad in E for the duration of the song.\n\n\n* While files of any length can be imported into AutoPad, due to realtime memory restrictions, AutoPad loads a 3.5 minute subsection of files longer than four minutes. A short fade is applied to eliminate pops. See manual for details.",

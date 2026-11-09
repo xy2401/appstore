@@ -27,8 +27,14 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/5c/bf/3a5cbf8f-224f-3727-f4e2-11948a1bf0d3/pr_source.png/576x768bb.png"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/5f/db/f65fdb89-eaaa-4d2f-5568-2f872415a065/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/ca/44/5bca449a-4985-85f6-6872-e1ac2991fb69/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/ca/44/5bca449a-4985-85f6-6872-e1ac2991fb69/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/ca/44/5bca449a-4985-85f6-6872-e1ac2991fb69/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/fr/developer/mathieu-barbery/id1438847411?uo=4",
       "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
@@ -163,51 +169,45 @@
         "iPhoneDuo-iPhoneDuo"
       ],
       "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/fr/developer/mathieu-barbery/id1438847411?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/5f/db/f65fdb89-eaaa-4d2f-5568-2f872415a065/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/5f/db/f65fdb89-eaaa-4d2f-5568-2f872415a065/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
       "averageUserRatingForCurrentVersion": 0,
-      "fileSizeBytes": "20091904",
-      "formattedPrice": "7,99 €",
-      "userRatingCountForCurrentVersion": 0,
-      "trackContentRating": "4+",
-      "sellerUrl": "https://www.meteo60.fr",
+      "averageUserRating": 0,
+      "trackCensoredName": "Meteo60",
       "languageCodesISO2A": [
         "EN"
       ],
-      "releaseNotes": "Ajout de nouvelles captures d'écran à la fiche AppStore.",
-      "artistName": "Mathieu Barbery",
+      "fileSizeBytes": "20128768",
+      "formattedPrice": "7,99 €",
+      "contentAdvisoryRating": "4+",
+      "userRatingCountForCurrentVersion": 0,
+      "trackViewUrl": "https://apps.apple.com/fr/app/meteo60/id1049913445?uo=4",
+      "trackContentRating": "4+",
+      "sellerUrl": "https://www.meteo60.fr",
+      "releaseNotes": "Correction d'un problème de centrage de carte sur certaines vues.",
       "artistId": 1438847411,
-      "releaseDate": "2015-11-24T11:50:55Z",
+      "artistName": "Mathieu Barbery",
+      "genres": [
+        "Météo",
+        "Style de vie"
+      ],
       "price": 7.99,
-      "trackName": "Meteo60",
+      "bundleId": "fr.microtekno.meteo60",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "Mathieu Barbery",
       "trackId": 1049913445,
-      "minimumOsVersion": "15.0",
+      "trackName": "Meteo60",
       "genreIds": [
         "6001",
         "6012"
       ],
       "primaryGenreName": "Weather",
       "primaryGenreId": 6001,
-      "currentVersionReleaseDate": "2026-10-01T15:46:49Z",
-      "version": "4.0.1",
+      "minimumOsVersion": "15.0",
+      "currentVersionReleaseDate": "2026-11-02T22:41:21Z",
+      "version": "4.0.3",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "L'essentiel de la météo est dans cette application officielle du site www.meteo60.fr.\nVous pouvez consulter gratuitement les prévisions à 10 jours pour votre commune, les images satellites, voir en temps réel le déplacement des orages et des précipitations. Les données de la météo agricole sont aussi disponibles (ETP, humidité, T°C sol).\n\nMeteo60 propose des prévisions par villes très précises grâce à l'utilisation du modèle haute résolution français Arôme et allemand ICON.\n\nCette application ne doit pas être utilisée pour la protection des biens et des personnes.\n\nIl n'y a aucune publicité ni traceur dans cette application, c'est pour cela qu'elle est payante.",
-      "trackCensoredName": "Meteo60",
-      "trackViewUrl": "https://apps.apple.com/fr/app/meteo60/id1049913445?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 0,
-      "genres": [
-        "Météo",
-        "Style de vie"
-      ],
-      "bundleId": "fr.microtekno.meteo60",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "sellerName": "Mathieu Barbery",
+      "releaseDate": "2015-11-24T11:50:55Z",
       "userRatingCount": 0,
       "country": "FRA"
     }

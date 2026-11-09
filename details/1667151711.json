@@ -186,7 +186,9 @@
       "userRatingCount": 93305
     },
     {
-      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/32/ec/a9/32eca9c7-90ec-42c9-f089-3b4c43e1a87c/socialproof_card1.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/32/5a/16/325a16f7-2e87-60c3-33c7-89dd9a80a478/Apple_Default_CSL_3.jpg/320x480bb.jpg",
@@ -206,16 +208,7 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/52/b8/0c52b8b2-b1da-8d6b-8746-8d85e98b19e0/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/us/developer/besitos/id1531230848?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/52/b8/0c52b8b2-b1da-8d6b-8746-8d85e98b19e0/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/52/b8/0c52b8b2-b1da-8d6b-8746-8d85e98b19e0/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [
-        "Infrequent/Mild Contests"
-      ],
-      "kind": "software",
+      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -348,44 +341,51 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "currentVersionReleaseDate": "2026-10-27T13:32:04Z",
-      "averageUserRatingForCurrentVersion": 4.66762,
+      "advisories": [
+        "Infrequent/Mild Contests"
+      ],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/us/developer/besitos/id1531230848?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/52/b8/0c52b8b2-b1da-8d6b-8746-8d85e98b19e0/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/52/b8/0c52b8b2-b1da-8d6b-8746-8d85e98b19e0/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
+      "bundleId": "com.kashkick.kashkickapp",
       "languageCodesISO2A": [
         "EN"
       ],
       "fileSizeBytes": "116978688",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 132506,
+      "userRatingCountForCurrentVersion": 133741,
       "trackContentRating": "17+",
       "sellerUrl": "https://www.kashkick.com",
-      "averageUserRating": 4.66762,
-      "trackCensoredName": "KashKick: Get paid to have fun",
-      "trackViewUrl": "https://apps.apple.com/us/app/kashkick-get-paid-to-have-fun/id1667151711?uo=4",
-      "contentAdvisoryRating": "17+",
-      "artistId": 1531230848,
-      "artistName": "Besitos",
+      "averageUserRatingForCurrentVersion": 4.66757,
       "genres": [
         "Shopping"
       ],
+      "artistId": 1531230848,
+      "artistName": "Besitos",
       "price": 0,
-      "bundleId": "com.kashkick.kashkickapp",
-      "releaseNotes": "Bug fixes and performance improvements.",
-      "releaseDate": "2023-11-14T08:00:00Z",
+      "sellerName": "Besitos Corporation LLC",
       "minimumOsVersion": "15.1",
       "genreIds": [
         "6024"
       ],
       "primaryGenreName": "Shopping",
       "primaryGenreId": 6024,
-      "sellerName": "Besitos Corporation LLC",
+      "releaseDate": "2023-11-14T08:00:00Z",
+      "trackId": 1667151711,
+      "trackName": "KashKick: Get paid to have fun",
       "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-10-27T13:32:04Z",
+      "releaseNotes": "Bug fixes and performance improvements.",
       "version": "1.1.48",
       "wrapperType": "software",
       "currency": "USD",
       "description": "KashKick has paid out millions of dollars in real cash to our members, and the opportunities are getting better every week! Experience a simple and straightforward way to boost your earnings in your free time!\n\nShare Your Opinion: We respect and value your views. Take part in surveys and get compensated for your insights\n\nTransparent Earnings: Withdraw once you reach a minimum of $10. No hidden fees or complications.\n\nOver 10M users have used KashKick, and love how easy it is to earn extra cash!\n\nYour Data, Protected: At KashKick, your privacy is paramount. We strictly adhere to best practices to safeguard your information.",
-      "trackId": 1667151711,
-      "trackName": "KashKick: Get paid to have fun",
-      "userRatingCount": 132506,
+      "trackCensoredName": "KashKick: Get paid to have fun",
+      "trackViewUrl": "https://apps.apple.com/us/app/kashkick-get-paid-to-have-fun/id1667151711?uo=4",
+      "contentAdvisoryRating": "17+",
+      "averageUserRating": 4.66757,
+      "userRatingCount": 133741,
       "country": "USA"
     }
   ]

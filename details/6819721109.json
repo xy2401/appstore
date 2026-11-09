@@ -2,19 +2,16 @@
   "resultCount": 3,
   "results": [
     {
-      "ipadScreenshotUrls": [],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/64/1c/7d641ca2-931b-bf98-55a3-f31db1b6467e/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a2/67/6d/a2676dc7-e8ca-e489-a0b1-ea7851a9c9c8/ios-en-1.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/01/ec/b9/01ecb9a0-5106-ab3e-3647-72f14c6a53e3/ios-en-2.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/85/b5/af/85b5af97-0051-39a0-1d53-d2198d2f0f5c/ios-en-3.png/320x480bb.jpg"
       ],
-      "artistViewUrl": "https://apps.apple.com/de/developer/arthur-verne/id1893685884?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/64/1c/7d641ca2-931b-bf98-55a3-f31db1b6467e/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/64/1c/7d641ca2-931b-bf98-55a3-f31db1b6467e/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
+      "ipadScreenshotUrls": [],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/64/1c/7d641ca2-931b-bf98-55a3-f31db1b6467e/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
       "isGameCenterEnabled": false,
-      "advisories": [],
+      "features": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -147,29 +144,34 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "advisories": [],
       "kind": "software",
-      "features": [],
+      "artistViewUrl": "https://apps.apple.com/de/developer/arthur-verne/id1893685884?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/64/1c/7d641ca2-931b-bf98-55a3-f31db1b6467e/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/64/1c/7d641ca2-931b-bf98-55a3-f31db1b6467e/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
       "sellerUrl": "https://rupteur.app",
-      "userRatingCountForCurrentVersion": 0,
-      "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 0,
-      "contentAdvisoryRating": "4+",
-      "trackCensoredName": "Rupteur Sensor",
-      "trackViewUrl": "https://apps.apple.com/de/app/rupteur-sensor/id6819721109?uo=4",
-      "averageUserRating": 0,
       "languageCodesISO2A": [
         "EN"
       ],
-      "formattedPrice": "1,99 €",
       "fileSizeBytes": "32504832",
+      "formattedPrice": "1,99 €",
+      "userRatingCountForCurrentVersion": 0,
+      "trackContentRating": "4+",
+      "averageUserRatingForCurrentVersion": 0,
+      "artistId": 1893685884,
+      "artistName": "Arthur Verne",
       "genres": [
         "Dienst­programme",
         "Unterhaltung"
       ],
-      "artistId": 1893685884,
-      "artistName": "Arthur Verne",
+      "price": 1.99,
       "bundleId": "app.rupteur.capteur",
-      "minimumOsVersion": "16.4",
+      "genreIds": [
+        "6002",
+        "6016"
+      ],
+      "trackId": 6819721109,
+      "trackName": "Rupteur Sensor",
       "releaseDate": "2026-10-31T07:00:00Z",
       "primaryGenreName": "Utilities",
       "primaryGenreId": 6002,
@@ -180,27 +182,17 @@
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Rupteur Sensor turns your phone into the acceleration sensor for Rupteur, the engine sound simulator for Tesla.\n\nIn a Tesla, the browser can't see the pedal or the car's accelerometer: Rupteur works out how hard the engine is pulling from the GPS, which means only once the car has already picked up speed. With Rupteur Sensor, your phone feels the push as it happens and sends it to your car almost instantly. You press, the engine roars. At the same time.\n\nAnd it keeps going with the screen locked: put your phone down and forget it.\n\nHow it works:\n1. In your Tesla, open Rupteur and tap \"GPS + phone\" under Source: a QR code appears.\n2. In Rupteur Sensor, tap \"Scan the car's QR code\" and scan it.\n3. Put the phone in a holder or the tray, any way round. Accelerate firmly once or twice: it calibrates itself.\n\nNothing is recorded: the readings go from your phone to your car, that's all. No account, no ads.\n\nRupteur Sensor requires Rupteur (rupteur.app), opened in your Tesla's browser.",
-      "trackId": 6819721109,
-      "trackName": "Rupteur Sensor",
-      "genreIds": [
-        "6002",
-        "6016"
-      ],
-      "price": 1.99,
+      "trackCensoredName": "Rupteur Sensor",
+      "trackViewUrl": "https://apps.apple.com/de/app/rupteur-sensor/id6819721109?uo=4",
+      "averageUserRating": 0,
+      "contentAdvisoryRating": "4+",
+      "minimumOsVersion": "16.4",
       "userRatingCount": 0,
       "country": "DEU"
     },
     {
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/97/63/dd/9763dd2c-28ca-98a6-7593-bf049995a3bc/ios-fr-1.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/16/7a/7a/167a7a7d-004f-3a19-bc50-636336632823/ios-fr-2.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/67/c6/d1/67c6d100-59c3-20f2-61a6-644721b2889b/ios-fr-3.png/320x480bb.jpg"
-      ],
-      "ipadScreenshotUrls": [],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/64/1c/7d641ca2-931b-bf98-55a3-f31db1b6467e/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
       "features": [],
+      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -335,10 +327,44 @@
       ],
       "advisories": [],
       "kind": "software",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/97/63/dd/9763dd2c-28ca-98a6-7593-bf049995a3bc/ios-fr-1.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/16/7a/7a/167a7a7d-004f-3a19-bc50-636336632823/ios-fr-2.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/67/c6/d1/67c6d100-59c3-20f2-61a6-644721b2889b/ios-fr-3.png/320x480bb.jpg"
+      ],
+      "ipadScreenshotUrls": [],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/64/1c/7d641ca2-931b-bf98-55a3-f31db1b6467e/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
       "artistViewUrl": "https://apps.apple.com/fr/developer/arthur-verne/id1893685884?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/64/1c/7d641ca2-931b-bf98-55a3-f31db1b6467e/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/64/1c/7d641ca2-931b-bf98-55a3-f31db1b6467e/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
+      "genres": [
+        "Utilitaires",
+        "Divertissement"
+      ],
+      "artistId": 1893685884,
+      "artistName": "Arthur Verne",
+      "price": 1.99,
+      "bundleId": "app.rupteur.capteur",
+      "currentVersionReleaseDate": "2026-10-31T19:13:48Z",
+      "releaseDate": "2026-10-31T07:00:00Z",
+      "trackId": 6819721109,
+      "trackName": "Rupteur Sensor",
+      "minimumOsVersion": "16.4",
+      "genreIds": [
+        "6002",
+        "6016"
+      ],
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
+      "sellerName": "Arthur Verne",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "version": "1.3.0",
+      "wrapperType": "software",
+      "currency": "EUR",
+      "description": "Rupteur Sensor fait de ton téléphone le capteur d'accélération de Rupteur, le simulateur de son moteur pour Tesla.\n\nDans une Tesla, le navigateur ne voit ni la pédale ni l'accéléromètre de la voiture : Rupteur déduit l'effort du moteur du GPS, donc une fois que la voiture a déjà pris de la vitesse. Avec Rupteur Sensor, ton téléphone sent la poussée au moment où elle arrive et l'envoie à ta voiture presque instantanément. Tu appuies, le moteur rugit. En même temps.\n\nEt il continue écran verrouillé : pose ton téléphone, oublie-le.\n\nComment ça marche :\n1. Dans ta Tesla, ouvre Rupteur et touche « GPS + tél. » sous Source : un QR code s'affiche.\n2. Dans Rupteur Sensor, touche « Scanner le QR de la voiture » et scanne-le.\n3. Pose le téléphone sur un support ou dans le vide-poche, dans n'importe quel sens. Accélère franchement une ou deux fois : il se cale tout seul.\n\nRien n'est enregistré : les mesures vont de ton téléphone à ta voiture, c'est tout. Pas de compte, pas de publicité.\n\nRupteur Sensor nécessite Rupteur (rupteur.app), à ouvrir dans le navigateur de ta Tesla.",
       "sellerUrl": "https://rupteur.app",
+      "averageUserRatingForCurrentVersion": 0,
       "languageCodesISO2A": [
         "EN"
       ],
@@ -346,36 +372,10 @@
       "formattedPrice": "1,99 €",
       "userRatingCountForCurrentVersion": 0,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 0,
-      "artistId": 1893685884,
-      "artistName": "Arthur Verne",
-      "genres": [
-        "Utilitaires",
-        "Divertissement"
-      ],
-      "price": 1.99,
-      "bundleId": "app.rupteur.capteur",
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
-      "genreIds": [
-        "6002",
-        "6016"
-      ],
-      "minimumOsVersion": "16.4",
-      "sellerName": "Arthur Verne",
-      "releaseDate": "2026-10-31T07:00:00Z",
-      "trackId": 6819721109,
-      "trackName": "Rupteur Sensor",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-10-31T19:13:48Z",
-      "version": "1.3.0",
-      "wrapperType": "software",
-      "currency": "EUR",
-      "description": "Rupteur Sensor fait de ton téléphone le capteur d'accélération de Rupteur, le simulateur de son moteur pour Tesla.\n\nDans une Tesla, le navigateur ne voit ni la pédale ni l'accéléromètre de la voiture : Rupteur déduit l'effort du moteur du GPS, donc une fois que la voiture a déjà pris de la vitesse. Avec Rupteur Sensor, ton téléphone sent la poussée au moment où elle arrive et l'envoie à ta voiture presque instantanément. Tu appuies, le moteur rugit. En même temps.\n\nEt il continue écran verrouillé : pose ton téléphone, oublie-le.\n\nComment ça marche :\n1. Dans ta Tesla, ouvre Rupteur et touche « GPS + tél. » sous Source : un QR code s'affiche.\n2. Dans Rupteur Sensor, touche « Scanner le QR de la voiture » et scanne-le.\n3. Pose le téléphone sur un support ou dans le vide-poche, dans n'importe quel sens. Accélère franchement une ou deux fois : il se cale tout seul.\n\nRien n'est enregistré : les mesures vont de ton téléphone à ta voiture, c'est tout. Pas de compte, pas de publicité.\n\nRupteur Sensor nécessite Rupteur (rupteur.app), à ouvrir dans le navigateur de ta Tesla.",
-      "averageUserRating": 0,
       "trackCensoredName": "Rupteur Sensor",
       "trackViewUrl": "https://apps.apple.com/fr/app/rupteur-sensor/id6819721109?uo=4",
       "contentAdvisoryRating": "4+",
+      "averageUserRating": 0,
       "userRatingCount": 0,
       "country": "FRA"
     },
