@@ -2,17 +2,10 @@
   "resultCount": 1,
   "results": [
     {
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/06/63/f7/0663f7ce-a420-8f76-101a-ec3a140c9bac/Wide_Web__U2014_1.0__U2014_iPhone_1.jpg/320x480bb.jpg"
-      ],
-      "ipadScreenshotUrls": [],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/ad/df/47addffb-9707-cd62-d322-7a9d49474d6a/Wide_Web_Icon_Composer-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
       "artistViewUrl": "https://apps.apple.com/fr/developer/zookeeper-media-llc/id1471725281?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/ad/df/47addffb-9707-cd62-d322-7a9d49474d6a/Wide_Web_Icon_Composer-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/ad/df/47addffb-9707-cd62-d322-7a9d49474d6a/Wide_Web_Icon_Composer-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
-      "features": [],
+      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -143,12 +136,48 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
-      "kind": "software",
+      "features": [],
       "advisories": [
         "Accès au Web non contrôlé."
       ],
+      "kind": "software",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/06/63/f7/0663f7ce-a420-8f76-101a-ec3a140c9bac/Wide_Web__U2014_1.0__U2014_iPhone_1.jpg/320x480bb.jpg"
+      ],
+      "ipadScreenshotUrls": [],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/ad/df/47addffb-9707-cd62-d322-7a9d49474d6a/Wide_Web_Icon_Composer-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+      "releaseNotes": "Improvements to images spanning the full width of outer display on iPhone Duo\n\nImprovements to full width nav bars\n\nBug fixed on websites with translucent navigation bars\n\nWide Web now supports inner display Safari split screen mode \n\nNew supported languages: French, German, Hebrew, Japanese, Korean, Mandarin Chinese, Portuguese, Spanish",
+      "trackCensoredName": "Wide Web: Full Screen Safari",
+      "trackViewUrl": "https://apps.apple.com/fr/app/wide-web-full-screen-safari/id6818616702?uo=4",
+      "contentAdvisoryRating": "17+",
+      "averageUserRating": 1,
+      "genres": [
+        "Utilitaires"
+      ],
+      "price": 0.99,
+      "bundleId": "com.jonah.WideWeb",
+      "minimumOsVersion": "27.0",
+      "genreIds": [
+        "6002"
+      ],
+      "trackId": 6818616702,
+      "trackName": "Wide Web: Full Screen Safari",
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
+      "sellerName": "ZooKeeper Media LLC",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseDate": "2026-10-22T07:00:00Z",
+      "currentVersionReleaseDate": "2026-11-03T00:21:03Z",
+      "version": "1.2",
+      "wrapperType": "software",
+      "currency": "EUR",
+      "description": "Wide Web is a Safari extension for iPhone Duo.\n\nOn the outer display, the side controls sit on the right edge of the screen. Wide Web lets the page continue underneath them. Color, photos, and backgrounds fill that space. Text and the buttons in the top bar stop before the camera, so they stay easy to tap.\n\nTurn it on from the page menu in Safari, then Manage Extensions. Allow it on the sites you want.\n\nIt only runs on the Duo’s outer display.",
+      "averageUserRatingForCurrentVersion": 1,
       "languageCodesISO2A": [
         "EN",
         "FR",
@@ -165,35 +194,8 @@
       "formattedPrice": "0,99 €",
       "userRatingCountForCurrentVersion": 1,
       "trackContentRating": "17+",
-      "averageUserRatingForCurrentVersion": 1,
-      "trackCensoredName": "Wide Web: Full Screen Safari",
-      "trackViewUrl": "https://apps.apple.com/fr/app/wide-web-full-screen-safari/id6818616702?uo=4",
-      "releaseNotes": "Improvements to images spanning the full width of outer display on iPhone Duo\n\nImprovements to full width nav bars\n\nBug fixed on websites with translucent navigation bars\n\nWide Web now supports inner display Safari split screen mode \n\nNew supported languages: French, German, Hebrew, Japanese, Korean, Mandarin Chinese, Portuguese, Spanish",
-      "averageUserRating": 1,
-      "contentAdvisoryRating": "17+",
-      "price": 0.99,
-      "genres": [
-        "Utilitaires"
-      ],
       "artistId": 1471725281,
       "artistName": "ZooKeeper Media LLC",
-      "bundleId": "com.jonah.WideWeb",
-      "trackId": 6818616702,
-      "trackName": "Wide Web: Full Screen Safari",
-      "releaseDate": "2026-10-22T07:00:00Z",
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
-      "genreIds": [
-        "6002"
-      ],
-      "minimumOsVersion": "27.0",
-      "version": "1.2",
-      "wrapperType": "software",
-      "currency": "EUR",
-      "description": "Wide Web is a Safari extension for iPhone Duo.\n\nOn the outer display, the side controls sit on the right edge of the screen. Wide Web lets the page continue underneath them. Color, photos, and backgrounds fill that space. Text and the buttons in the top bar stop before the camera, so they stay easy to tap.\n\nTurn it on from the page menu in Safari, then Manage Extensions. Allow it on the sites you want.\n\nIt only runs on the Duo’s outer display.",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "sellerName": "ZooKeeper Media LLC",
-      "currentVersionReleaseDate": "2026-11-03T00:21:03Z",
       "userRatingCount": 1,
       "country": "FRA"
     }

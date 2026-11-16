@@ -199,6 +199,7 @@
       "userRatingCount": 6813
     },
     {
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/28/e5/f8/28e5f8d3-c8b8-ef9b-1eb9-1b725e36ce0c/processed_BL-en-iPhone-04.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/01/64/d5/0164d52c-ef87-e3e7-440d-96a18a254bb7/processed_BL-en-iPhone-03.png/320x480bb.jpg",
@@ -224,7 +225,9 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/10/79/53107946-ef77-d85b-256f-2633f85668b3/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -355,17 +358,17 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
       "advisories": [],
       "kind": "software",
       "artistViewUrl": "https://apps.apple.com/us/developer/sg-software-gmbh-co-kg/id441701490?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/10/79/53107946-ef77-d85b-256f-2633f85668b3/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/10/79/53107946-ef77-d85b-256f-2633f85668b3/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
-      "sellerUrl": "https://bimmerlink.app",
+      "releaseNotes": "• Improved: Service reset handling for time and distance.\n• Fixed: Incorrect display of adaptive minimum and maximum values on the Dashboard.",
+      "averageUserRatingForCurrentVersion": 4.68203,
       "languageCodesISO2A": [
         "NL",
         "EN",
@@ -383,25 +386,29 @@
       ],
       "fileSizeBytes": "137547776",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 9722,
+      "userRatingCountForCurrentVersion": 9809,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.68072,
-      "averageUserRating": 4.68072,
+      "sellerUrl": "https://bimmerlink.app",
+      "artistId": 441701490,
+      "artistName": "SG Software GmbH & Co. KG",
+      "genres": [
+        "Productivity",
+        "Utilities"
+      ],
       "price": 0,
       "trackId": 1065360416,
       "trackName": "BimmerLink",
+      "primaryGenreName": "Productivity",
+      "primaryGenreId": 6007,
       "releaseDate": "2016-04-06T09:54:12Z",
-      "minimumOsVersion": "15.0",
+      "sellerName": "SG Software GmbH & Co. KG",
       "genreIds": [
         "6007",
         "6002"
       ],
-      "primaryGenreName": "Productivity",
-      "primaryGenreId": 6007,
-      "sellerName": "SG Software GmbH & Co. KG",
+      "minimumOsVersion": "15.0",
       "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-09-26T18:25:41Z",
-      "releaseNotes": "• Improved: Service reset handling for time and distance.\n• Fixed: Incorrect display of adaptive minimum and maximum values on the Dashboard.",
       "version": "5.1.2",
       "wrapperType": "software",
       "currency": "USD",
@@ -409,14 +416,9 @@
       "trackCensoredName": "BimmerLink",
       "trackViewUrl": "https://apps.apple.com/us/app/bimmerlink/id1065360416?uo=4",
       "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.68203,
       "bundleId": "com.stephangauch.BimmerDash",
-      "genres": [
-        "Productivity",
-        "Utilities"
-      ],
-      "artistId": 441701490,
-      "artistName": "SG Software GmbH & Co. KG",
-      "userRatingCount": 9722,
+      "userRatingCount": 9809,
       "country": "USA"
     }
   ]

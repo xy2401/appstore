@@ -2,6 +2,7 @@
   "resultCount": 1,
   "results": [
     {
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/49/7e/42/497e4243-6c78-5995-32d4-8177e0da1527/iPhone-1-your-own-salsa-band.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/87/05/8b/87058bef-6872-cd41-de1a-15fd1c2caa35/iPhone-2-find-the-1.png/320x480bb.jpg",
@@ -20,10 +21,14 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/ea/fa/2beafacd-7cce-3dba-853e-f6ce39b62e01/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
       "artistViewUrl": "https://apps.apple.com/fr/developer/district-one-mobile-llc/id812513884?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/ea/fa/2beafacd-7cce-3dba-853e-f6ce39b62e01/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/ea/fa/2beafacd-7cce-3dba-853e-f6ce39b62e01/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+      "advisories": [],
+      "kind": "software",
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -154,12 +159,9 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
-      ],
-      "advisories": [],
-      "kind": "software",
-      "features": [
-        "iosUniversal"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
       "languageCodesISO2A": [
         "NL",
@@ -181,37 +183,37 @@
       "formattedPrice": "3,49 €",
       "userRatingCountForCurrentVersion": 462,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.6039,
       "trackCensoredName": "Salsa Rhythm",
       "trackViewUrl": "https://apps.apple.com/fr/app/salsa-rhythm/id379868541?uo=4",
-      "averageUserRating": 4.6039,
       "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.6039,
+      "averageUserRatingForCurrentVersion": 4.6039,
+      "price": 3.49,
       "artistId": 812513884,
       "artistName": "District One Mobile, LLC",
-      "genres": [
-        "Musique",
-        "Éducation"
-      ],
-      "price": 3.49,
       "bundleId": "com.salsa4fun.Salsa-Rhythm",
-      "minimumOsVersion": "15.1",
-      "trackId": 379868541,
-      "trackName": "Salsa Rhythm",
       "genreIds": [
         "6011",
         "6017"
       ],
-      "sellerName": "District One Mobile, LLC",
       "releaseDate": "2010-07-06T20:52:15Z",
+      "isVppDeviceBasedLicensingEnabled": true,
       "primaryGenreName": "Music",
       "primaryGenreId": 6011,
-      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-11-02T16:14:51Z",
       "releaseNotes": "Thanks for dancing with Salsa Rhythm! This update refreshes our App Store page in 21 languages; the app itself is unchanged. Enjoying it? A quick review helps other dancers find the 1.",
       "version": "2026.2.4",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Maîtrisez les temps et la musicalité de la salsa avec cette appli interactif où VOUS êtes le chef d'orchestre ! Pour les danseurs, les musiciens et les instructeurs !\n\nCaractéristiques principales :\n* Exercez votre timing \"Sur-1\" et \"Sur-2\" et \"Sur-3\" au tempo de VOTRE choix !\n* Combinez les instruments à volonté et choisissez leurs motifs !\n* Utilisez l'appli comme métronome et exercez votre sens de rythme avec un orchestre !\n* Suivez vos cours de danse n'importe où !\n\nInstruments : clave, piano, congas, timbales, bongos, basse, maracas, güiro, cloche à vache et un instructeur\n\nEt aussi :\n* 20 motifs de piano, 20 motifs de basse et 29 motifs de percussion dont tumbao, guaguancó, cáscara, rumba, caballo, danzón, etc. \n* Affichage des temps + voix de décompte des temps Sur-1 et Sur-2\n* Contrôlez le tempo (BPM), la clé musicale et le volume de chaque instrument\n* Prise en charge des orientations de clave 2/3 et 3/2\n* Décompte en anglais, allemand et espagnol\n\nSi vous appréciez l'application, s'il vous plaît laisser un commentaire. Il aide beaucoup! Si vous n'êtes pas profiter de l'application, s'il vous plaît écrivez-moi . Je ne peux pas répondre directement aux commentaires .",
+      "trackId": 379868541,
+      "trackName": "Salsa Rhythm",
+      "sellerName": "District One Mobile, LLC",
+      "genres": [
+        "Musique",
+        "Éducation"
+      ],
+      "minimumOsVersion": "15.1",
       "userRatingCount": 462,
       "country": "FRA"
     }

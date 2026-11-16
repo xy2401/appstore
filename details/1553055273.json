@@ -2,6 +2,7 @@
   "resultCount": 1,
   "results": [
     {
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/40/52/35405220-a534-822e-b870-9a8a0295a39a/f33ff379-2ec4-4637-be6d-53334c3d439c_ballistic.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e9/51/41/e9514147-1b9a-1893-43bb-63c420ac1345/df07d115-06be-4cad-a1cb-e8b1eeeb615f_reticle2.png/392x696bb.png",
@@ -28,10 +29,14 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/62/b4/6d62b437-4a57-52bd-ed6c-6865eb196c00/AppIcon-0-0-1x_U007emarketing-0-8-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
       "artistViewUrl": "https://apps.apple.com/fr/developer/ballistic-solutions-llc/id1611909747?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/62/b4/6d62b437-4a57-52bd-ed6c-6865eb196c00/AppIcon-0-0-1x_U007emarketing-0-8-0-0-sRGB-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/62/b4/6d62b437-4a57-52bd-ed6c-6865eb196c00/AppIcon-0-0-1x_U007emarketing-0-8-0-0-sRGB-85-220.png/100x100bb.jpg",
+      "advisories": [],
+      "kind": "software",
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -163,12 +168,9 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
-      ],
-      "advisories": [],
-      "kind": "software",
-      "features": [
-        "iosUniversal"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
       "languageCodesISO2A": [
         "AR",
@@ -210,37 +212,37 @@
       "formattedPrice": "14,99 €",
       "userRatingCountForCurrentVersion": 74,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.85135,
       "trackCensoredName": "Chairgun Elite Ballistic Tool",
       "trackViewUrl": "https://apps.apple.com/fr/app/chairgun-elite-ballistic-tool/id1553055273?uo=4",
-      "averageUserRating": 4.85135,
       "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.85135,
+      "averageUserRatingForCurrentVersion": 4.85135,
+      "price": 14.99,
       "artistId": 1611909747,
       "artistName": "Ballistic Solutions LLC",
-      "genres": [
-        "Sports",
-        "Utilitaires"
-      ],
-      "price": 14.99,
       "bundleId": "com.jetlab.chairgunpro",
-      "minimumOsVersion": "9.0",
-      "trackId": 1553055273,
-      "trackName": "Chairgun Elite Ballistic Tool",
       "genreIds": [
         "6004",
         "6002"
       ],
-      "sellerName": "BALLISTIC SOLUTIONS RESEARCH & DEVELOPMENT SOFTWARE SIARHEI RAICHONAK",
       "releaseDate": "2021-07-03T07:00:00Z",
+      "isVppDeviceBasedLicensingEnabled": true,
       "primaryGenreName": "Sports",
       "primaryGenreId": 6004,
-      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-07-24T12:15:57Z",
       "releaseNotes": "• De nouveaux réticules ont été ajoutés : \n - Artelv AM6-6x, CRS 1-6x24 SFP\n - Bushnell Dot Drop, Trophy Quick Acquisition 1-6х24\n - Discovery SS MIL, VT-Z 4-16×50 SF FFP\n - Hikmicro #7, Alpex A50T\n - InfiRay R6, BOLT TH50C V2\n - Marcool MAR-170, EVV 6-24X50 SF FFP\n - Sig Sauer HellFire Ballistic Hunter BDC, CANYON4 4-16x44\n - Vector Optics VOW-MOA, Matiz 2-7x32\n - Vortex XBR-2 (MOA), Crossfire II 2-7x32 Crossbow",
       "version": "9.7",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Ceci est un calculateur balistique intelligent destiné aux tireurs à longue distance. Il aide les tireurs à calculer les retenues et les paramètres de portée nécessaires pour les tirs à longue distance. Fonctionne avec les gros calibres et les armes à air comprimé.\n\nCette application utilise la température, l'altitude, l'humidité, la pression atmosphérique, la distance jusqu'à la cible, la vitesse et la direction de la cible, l'effet Coriolis, l'angle de pente, le dévers et la configuration de votre fusil pour calculer les corrections verticales, horizontales et de plomb optimales.\n\nCaractéristiques:\n• Peut utiliser G1, G2, G5, G6, G7, G8, GA, GC, GI, GL, GS, RA4 et même des fonctions de glissement personnalisées (éditeur intégré) et peut calculer la trajectoire sans utiliser le coefficient balistique !\n• Vous pouvez sélectionner le réticule dans la liste (environ 2600 réticules ! y compris les réticules de Carl Zeiss, Nightforce Optics, Kahles, Vixen Sport Optics, Premier Reticles, Primary Arms, Schmidt and Bender, SWFA, US Optics, Vortex Optics, etc.) à n'importe quel grossissement (voir la liste des réticules pris en charge ici http://jet-lab.org/chairgun-reticles )\n• Liste des balles : environ 4000 cartouches, plus de 2000 balles G1, environ 700 balles à coefficient balistique G7, environ 500 base de données de plombs pour carabine à air comprimé comprend American Eagle, Barnes, Black Hills, Federal, Fiocchi, Hornady, Lapua, Norma, Nosler, Remington , Sellier & Bellot, Winchester etc (voir la liste des balles/cartouches supportées ici http://jet-lab.org/chairgun-cartridges )\n• Correction de l'effet coriolis\n• Prise en compte de la température de la poudre (facteur de sensibilité de la poudre)\n• Correction de la dérive de rotation\n• Correction de la déviation verticale du vent de travers\n• Validation de trajectoire (truing) par vitesse ou coefficient balistique !\n• Correction du facteur de stabilité gyroscopique\n• Peut mesurer l'angle d'inclinaison avec l'appareil photo du téléphone\n• Peut obtenir la météo actuelle (y compris la vitesse et la direction du vent) à partir d'Internet pour l'emplacement actuel et pour n'importe quel endroit dans le monde\n• Prend en charge les unités impériales (grain, in, yard) et métriques (gramme, mm, mètre)\n• Correction d'altitude : Mil-MRAD, MOA, SMOA, clics, pouces/cm, tourelle\n• Obtenez une pression locale précise à l'aide du baromètre interne de l'iPhone/iPad\n• S'ajuste aux conditions atmosphériques pour les conditions actuelles et nulles (Densité Altitude ou Altitude, Pression, Température et Humidité)\n• Prise en charge de l'altitude densité (déterminée automatiquement pour n'importe quel endroit dans le monde)\n• Tableau balistique (portée, élévation, dérive, vitesse, temps de vol, énergie)\n• Graphique balistique (altitude, vitesse, énergie)\n• Tableau des gouttes de réticule\n• Cartes de portée\n• Grande liste de cibles (plus de 80 types de cibles disponibles)\n• Préréglages de taille cible\n• Prise en charge de la portée du deuxième plan focal\n• Calcul de la cible mobile\n• Réglage rapide de la vitesse/direction du vent\n• Intégré avec des capteurs intelligents. D'une simple pression sur un bouton, vous pouvez calibrer l'altitude densité, le Coriolis, le dévers et la pente en temps réel\n• Profils d'équipement illimités (créez vos propres fusils et balles)\n• Historique complet de tous vos tournages\n• Étalonnage de la tourelle de la lunette\n• Télémètre\n• Calculateur de coefficient balistique\n• Prise en charge des enregistreurs de données météorologiques Kestrel DROP, Kestrel 5x00, WeatherFlow WEATHERmeter, Skywatch BL\n• Laboratoire d'air (densité de l'air, altitude de la densité, densité de l'air relative (RAD), point de rosée, pression de la station, pression de vapeur saturante, température virtuelle, pression de vapeur réelle, hauteur de la base du nuage cumulé, air sec, pression de l'air sec)\n• Thèmes de couleurs clair/foncé/gris\n• Tutoriels intégrés",
+      "trackId": 1553055273,
+      "trackName": "Chairgun Elite Ballistic Tool",
+      "sellerName": "BALLISTIC SOLUTIONS RESEARCH & DEVELOPMENT SOFTWARE SIARHEI RAICHONAK",
+      "genres": [
+        "Sports",
+        "Utilitaires"
+      ],
+      "minimumOsVersion": "9.0",
       "userRatingCount": 74,
       "country": "FRA"
     }

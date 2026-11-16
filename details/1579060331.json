@@ -212,11 +212,6 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/56/27/745627e1-6609-f468-f9ab-8dbd95f5f1a2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "advisories": [],
-      "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/de/developer/bayerisches-landesamt-fuer-steuern/id1018163928?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/56/27/745627e1-6609-f468-f9ab-8dbd95f5f1a2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/56/27/745627e1-6609-f468-f9ab-8dbd95f5f1a2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
       "features": [
         "iosUniversal"
       ],
@@ -350,9 +345,17 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
-      "averageUserRatingForCurrentVersion": 4.61672,
+      "advisories": [],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/de/developer/bayerisches-landesamt-fuer-steuern/id1018163928?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/56/27/745627e1-6609-f468-f9ab-8dbd95f5f1a2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/56/27/745627e1-6609-f468-f9ab-8dbd95f5f1a2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+      "releaseNotes": "- Englische Version verfügbar\n- Verbesserung der Usability",
+      "averageUserRatingForCurrentVersion": 4.61671,
       "sellerUrl": "https://www.elster.de/elsterweb/infoseite/app/elstersecure",
       "languageCodesISO2A": [
         "EN",
@@ -360,21 +363,21 @@
       ],
       "fileSizeBytes": "51722240",
       "formattedPrice": "Gratis",
-      "userRatingCountForCurrentVersion": 57427,
+      "userRatingCountForCurrentVersion": 58773,
       "trackContentRating": "4+",
+      "artistName": "Bayerisches Landesamt fuer Steuern",
+      "bundleId": "de.elster.elstersecure.app",
+      "artistId": 1018163928,
       "genres": [
         "Finanzen"
       ],
-      "artistId": 1018163928,
-      "artistName": "Bayerisches Landesamt fuer Steuern",
-      "releaseDate": "2022-11-26T08:00:00Z",
-      "releaseNotes": "- Englische Version verfügbar\n- Verbesserung der Usability",
       "trackId": 1579060331,
       "trackName": "ElsterSecure",
-      "minimumOsVersion": "15.0",
+      "price": 0,
       "genreIds": [
         "6015"
       ],
+      "releaseDate": "2022-11-26T08:00:00Z",
       "primaryGenreName": "Finance",
       "primaryGenreId": 6015,
       "sellerName": "Bayerisches Landesamt fuer Steuern",
@@ -384,13 +387,12 @@
       "wrapperType": "software",
       "currency": "EUR",
       "description": "ElsterSecure ist die neue Authentisierungs-App von ELSTER. Einmal eingerichtet, benötigen Sie für Ihren Login nur noch Ihr Smartphone. Eine Zertifikatsdatei oder einen Nutzernamen benötigen Sie nach erstmaliger Einrichtung nicht mehr.\n \nSo richten Sie ElsterSecure ein:\n\n1. Loggen Sie sich wie bisher gewohnt in MeinElster ein.\n2. Gehen Sie zu \"Mein Benutzerkonto\" > \"ElsterSecure\": https://www.elster.de/eportal/meinKonto/elstersecure\n3. Unter \"Login-Option ElsterSecure hinzufügen\" können Sie die App mit Ihrem MeinElster-Konto verknüpfen\n\nWenn Sie noch kein MeinElster Konto besitzen, können Sie sich unter www.elster.de registrieren und ElsterSecure als Login-Option wählen. \n\nDerzeit ist eine Authentisierung mittels ElsterSecure nur für den Login in MeinElster möglich. Eine Übermittlung durch Drittanbieter von Steuersoftware wird noch nicht unterstützt, hierfür benötigen Sie weiterhin ein Zertifikat.\n\nElsterSecure benötigt folgende Berechtigungen:  \n- Zugriff auf die Kamera(s) des Geräts: Diese Berechtigung wird für das Scannen des QR-Codes benötigt.\n\nDatenschutzhinweis:\nhttps://www.elster.de/eportal/infoseite/elstersecure",
-      "averageUserRating": 4.61672,
-      "contentAdvisoryRating": "4+",
-      "trackCensoredName": "ElsterSecure",
       "trackViewUrl": "https://apps.apple.com/de/app/elstersecure/id1579060331?uo=4",
-      "bundleId": "de.elster.elstersecure.app",
-      "price": 0,
-      "userRatingCount": 57427,
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.61671,
+      "trackCensoredName": "ElsterSecure",
+      "minimumOsVersion": "15.0",
+      "userRatingCount": 58773,
       "country": "DEU"
     }
   ]

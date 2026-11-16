@@ -208,6 +208,9 @@
       "userRatingCount": 100
     },
     {
+      "artistViewUrl": "https://apps.apple.com/us/developer/google/id281956209?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/8f/5f/a88f5f2f-70f9-0c71-1c3a-0ade88cabdff/logo_google_cloud_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/8f/5f/a88f5f2f-70f9-0c71-1c3a-0ade88cabdff/logo_google_cloud_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
@@ -342,13 +345,11 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
-      "advisories": [],
       "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/us/developer/google/id281956209?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/a5/3f/a8a53f9f-1ef9-7feb-cf74-28c08b5c221b/logo_google_cloud_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/a5/3f/a8a53f9f-1ef9-7feb-cf74-28c08b5c221b/logo_google_cloud_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/36/af/a5/36afa564-ac72-f970-5237-a154166a2815/APP_IPHONE_55-1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b4/f5/ed/b4f5ed24-6936-4c01-dc6e-f437d592d3d2/APP_IPHONE_55-2.png/392x696bb.png",
@@ -364,38 +365,37 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/de/7c/c4/de7cc4d9-4491-7bf5-5751-cf4cbaee43ff/APP_IPAD_PRO_129-5.png/576x768bb.png"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/a5/3f/a8a53f9f-1ef9-7feb-cf74-28c08b5c221b/logo_google_cloud_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/8f/5f/a88f5f2f-70f9-0c71-1c3a-0ade88cabdff/logo_google_cloud_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
+      "advisories": [],
+      "averageUserRating": 3.32432,
+      "trackCensoredName": "Google Cloud",
+      "trackViewUrl": "https://apps.apple.com/us/app/google-cloud/id1005120814?uo=4",
+      "contentAdvisoryRating": "4+",
+      "releaseNotes": "• Bug fixes and performance improvements.",
+      "price": 0,
       "artistId": 281956209,
       "artistName": "Google",
       "genres": [
         "Productivity",
         "Utilities"
       ],
-      "price": 0,
-      "sellerName": "Google LLC",
-      "isVppDeviceBasedLicensingEnabled": true,
       "trackId": 1005120814,
       "trackName": "Google Cloud",
+      "bundleId": "com.google.Vespa",
+      "minimumOsVersion": "17.0",
       "primaryGenreName": "Productivity",
       "primaryGenreId": 6007,
-      "releaseDate": "2015-07-23T18:43:36Z",
-      "minimumOsVersion": "17.0",
       "genreIds": [
         "6007",
         "6002"
       ],
-      "currentVersionReleaseDate": "2026-11-03T19:13:58Z",
-      "releaseNotes": "• Bug fixes and performance improvements.",
-      "version": "26.10.280800",
+      "sellerName": "Google LLC",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-11-10T16:23:21Z",
+      "version": "26.11.040800",
       "wrapperType": "software",
       "currency": "USD",
       "description": "The app helps you manage your services running on Google Cloud directly from your Apple iPhone or iPad:\n\n• Stay connected to the cloud and check billing, status, and critical issues.\n• Create your own custom dashboard to produce an overview of your Google Cloud services.\n• Monitor the state of your Compute Engine and App Engine resources with the ability to SSH into your VMs.\n• Access to Cloud Shell to perform any Google Cloud (gcloud) operation.\n• View and respond to incidents, errors, and logging.\n\nWe plan to ship new features regularly and continually improve your user experience. Please give us your feedback in the app by tapping the menu button in the upper-left corner, selecting Help & Feedback, and then Send feedback.",
-      "trackCensoredName": "Google Cloud",
-      "trackViewUrl": "https://apps.apple.com/us/app/google-cloud/id1005120814?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 3.34545,
-      "bundleId": "com.google.Vespa",
-      "sellerUrl": "https://cloud.google.com/",
       "languageCodesISO2A": [
         "EN",
         "FR",
@@ -409,12 +409,14 @@
         "ES",
         "ZH"
       ],
-      "fileSizeBytes": "124075008",
+      "fileSizeBytes": "129434624",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 110,
+      "userRatingCountForCurrentVersion": 111,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 3.34545,
-      "userRatingCount": 110,
+      "sellerUrl": "https://cloud.google.com/",
+      "averageUserRatingForCurrentVersion": 3.32432,
+      "releaseDate": "2015-07-23T18:43:36Z",
+      "userRatingCount": 111,
       "country": "USA"
     }
   ]

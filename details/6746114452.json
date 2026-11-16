@@ -190,10 +190,14 @@
       "userRatingCount": 22628
     },
     {
-      "artistViewUrl": "https://apps.apple.com/us/developer/scoopz-inc/id1781956324?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/39/31/34393101-615b-a211-d03e-fe08a505300a/AppIconNewsBreak-0-0-1x_U007ephone-0-11-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/39/31/34393101-615b-a211-d03e-fe08a505300a/AppIconNewsBreak-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.jpg",
+      "features": [],
+      "artistViewUrl": "https://apps.apple.com/us/developer/towntalk-labs-llc/id1781956324?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/5f/ab/ba5fab77-57da-25c4-6fa1-ada3e36d66b2/AppIconNewsBreak-0-0-1x_U007ephone-0-11-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/5f/ab/ba5fab77-57da-25c4-6fa1-ada3e36d66b2/AppIconNewsBreak-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
+      "advisories": [
+        "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -324,61 +328,59 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
-      ],
-      "advisories": [
-        "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
       "kind": "software",
-      "ipadScreenshotUrls": [],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/39/31/34393101-615b-a211-d03e-fe08a505300a/AppIconNewsBreak-0-0-1x_U007ephone-0-11-0-85-220.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/31/58/29/3158298f-2770-3d75-999c-b2695bd199a0/andriod.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/08/0d/03/080d0323-2331-3c16-a407-7258ea133958/414-736x2__U00281_U0029.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/79/e1/91/79e191c3-0592-c22c-2db0-2ce4591f06e1/414-736.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/00/3f/24/003f243e-24b2-ce5b-d9ec-f75bd0110922/414-736-1.png/392x696bb.png"
       ],
-      "features": [],
-      "averageUserRating": 4.89696,
+      "ipadScreenshotUrls": [],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/5f/ab/ba5fab77-57da-25c4-6fa1-ada3e36d66b2/AppIconNewsBreak-0-0-1x_U007ephone-0-11-0-85-220.png/512x512bb.jpg",
+      "averageUserRating": 4.89787,
       "trackCensoredName": "CrimeRadar Dispatch Audio",
       "trackViewUrl": "https://apps.apple.com/us/app/crimeradar-dispatch-audio/id6746114452?uo=4",
-      "releaseNotes": "Bug fixing and performance improvements.",
       "contentAdvisoryRating": "12+",
-      "bundleId": "com.newsbreak.radar",
+      "releaseNotes": "Bug fixing and performance improvements.",
       "artistId": 1781956324,
-      "artistName": "Scoopz Inc.",
+      "artistName": "TownTalk Labs LLC",
+      "genres": [
+        "News"
+      ],
       "price": 0,
-      "releaseDate": "2025-05-27T07:00:00Z",
-      "primaryGenreName": "News",
-      "primaryGenreId": 6009,
-      "trackId": 6746114452,
-      "trackName": "CrimeRadar Dispatch Audio",
+      "bundleId": "com.newsbreak.radar",
+      "minimumOsVersion": "15.0",
       "genreIds": [
         "6009"
       ],
-      "sellerName": "Scoopz Inc.",
+      "releaseDate": "2025-05-27T07:00:00Z",
       "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-11-06T23:54:09Z",
-      "version": "26.45.1",
+      "sellerName": "TownTalk Labs LLC",
+      "primaryGenreName": "News",
+      "primaryGenreId": 6009,
+      "trackName": "CrimeRadar Dispatch Audio",
+      "trackId": 6746114452,
+      "currentVersionReleaseDate": "2026-11-11T18:46:52Z",
+      "version": "26.46.0",
       "wrapperType": "software",
       "currency": "USD",
       "description": "CrimeRadar tracks first-responder audio and uses AI to summarize and map potential incidents so you can stay aware of public safety activity near you.\n\nCheck the interactive map. Listen to first-responder audio. Get customized alerts.\n\n• Safety Alerts and Map: Stay informed with notifications based on live dispatch audio, covering everything from wildfires to highway accidents and police callouts.\n\n• Customizable Filters: Choose what you want to track via the map, alerts, and activity logs.\n\n• First-Responder Radio: Tap any activity to listen to the original communication for yourself.\n\nHave feedback? Contact us at feedback@crimeradar.us\n\nTerms of Service: https://crimeradar.us/terms  \n\nPrivacy Policy: https://crimeradar.us/privacy  \n\nImportant: CrimeRadar provides situational awareness based on public-safety dispatch audio. Content is not an official report or verified information. Always rely on official sources for confirmation.",
-      "averageUserRatingForCurrentVersion": 4.89696,
-      "sellerUrl": "https://crimeradar.us/",
       "languageCodesISO2A": [
         "EN",
         "ES"
       ],
-      "fileSizeBytes": "168133632",
+      "fileSizeBytes": "165723136",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 47229,
+      "userRatingCountForCurrentVersion": 48644,
       "trackContentRating": "12+",
-      "minimumOsVersion": "15.0",
-      "genres": [
-        "News"
-      ],
-      "userRatingCount": 47229,
+      "sellerUrl": "https://crimeradar.us/",
+      "averageUserRatingForCurrentVersion": 4.89787,
+      "userRatingCount": 48644,
       "country": "USA"
     }
   ]

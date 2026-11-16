@@ -199,20 +199,6 @@
       "userRatingCount": 4093
     },
     {
-      "artistViewUrl": "https://apps.apple.com/us/developer/swishly-inc/id396072075?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/e9/d8/66e9d8d9-e5bd-a3ff-b750-b76cc836bff7/AppIcon-pro-0-0-1x_U007epad-0-0-0-9-0-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/e9/d8/66e9d8d9-e5bd-a3ff-b750-b76cc836bff7/AppIcon-pro-0-0-1x_U007epad-0-0-0-9-0-0-85-220.png/100x100bb.jpg",
-      "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
-      "kind": "software",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/2d/74/a12d74de-967b-58f8-e56c-a3fa8432cf78/pr_source.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/e6/4c/d0e64cd0-2434-00ea-8427-5a63ff77d3c3/pr_source.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/40/8e/63408e5c-f5bd-b992-33ad-1aab22e2b110/pr_source.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/96/e5/7996e5f4-c9d2-19b4-c0a9-7abd84598928/pr_source.png/392x696bb.png"
-      ],
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/f0/14/3ef014a2-080b-a3ed-0194-b29df9713105/mzl.hynyvnya.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/80/c1/0780c130-b4b6-36fc-2aff-3193da69f004/mzl.ezvxjbiw.png/576x768bb.png",
@@ -221,8 +207,15 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/e9/d8/66e9d8d9-e5bd-a3ff-b750-b76cc836bff7/AppIcon-pro-0-0-1x_U007epad-0-0-0-9-0-0-85-220.png/512x512bb.jpg",
-      "advisories": [
-        "Unrestricted Web Access"
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/2d/74/a12d74de-967b-58f8-e56c-a3fa8432cf78/pr_source.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/e6/4c/d0e64cd0-2434-00ea-8427-5a63ff77d3c3/pr_source.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/40/8e/63408e5c-f5bd-b992-33ad-1aab22e2b110/pr_source.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/96/e5/7996e5f4-c9d2-19b4-c0a9-7abd84598928/pr_source.png/392x696bb.png"
+      ],
+      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
       ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
@@ -354,49 +347,58 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
+      "advisories": [
+        "Unrestricted Web Access"
+      ],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/us/developer/swishly-inc/id396072075?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/e9/d8/66e9d8d9-e5bd-a3ff-b750-b76cc836bff7/AppIcon-pro-0-0-1x_U007epad-0-0-0-9-0-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/e9/d8/66e9d8d9-e5bd-a3ff-b750-b76cc836bff7/AppIcon-pro-0-0-1x_U007epad-0-0-0-9-0-0-85-220.png/100x100bb.jpg",
+      "sellerUrl": "https://iwebtv.app",
+      "languageCodesISO2A": [
+        "EN",
+        "ES"
+      ],
+      "fileSizeBytes": "58196992",
+      "formattedPrice": "$6.99",
+      "userRatingCountForCurrentVersion": 4545,
+      "trackContentRating": "17+",
+      "averageUserRatingForCurrentVersion": 4.71485,
       "trackCensoredName": "iWebTV PRO",
       "trackViewUrl": "https://apps.apple.com/us/app/iwebtv-pro/id1453647914?uo=4",
-      "contentAdvisoryRating": "17+",
-      "averageUserRating": 4.71277,
-      "releaseNotes": "- Improved web player support\n- Optimized for new Duo form factor\n- Easier url entry",
       "artistId": 396072075,
       "artistName": "Swishly inc",
       "price": 6.99,
+      "genres": [
+        "Photo & Video",
+        "Entertainment"
+      ],
       "bundleId": "com.swishly.webtvpro",
-      "primaryGenreName": "Photo & Video",
-      "primaryGenreId": 6008,
-      "minimumOsVersion": "16.6",
-      "sellerName": "Swishly inc",
+      "releaseNotes": "- Improved web player support\n- Optimized for new Duo form factor\n- Easier url entry",
+      "trackId": 1453647914,
+      "trackName": "iWebTV PRO",
       "genreIds": [
         "6008",
         "6016"
       ],
-      "releaseDate": "2019-03-16T06:58:40Z",
+      "sellerName": "Swishly inc",
+      "primaryGenreName": "Photo & Video",
+      "primaryGenreId": 6008,
       "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-10-26T21:57:40Z",
       "version": "2.0.120",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Best Casting App! Cast any online video to your TV.\n\niWebTV® works with any TV equipped with Chromecast® + Roku® + Fire TV® + Apple TV® (4th Gen) + Samsung TVs (2018 and later models).\n\n*** Feature Highlights ***\n\n• HD resolution supported (1080p and up to 4K depending on the device)\n• Unlike mirroring apps, iWebTV sends the actual video stream to your TV (Much better image quality & overall experience).\n• Advanced browser, supports multiple browser tabs, blocks or hides spammy popups, search from the URL bar, ad blocker, browsing history etc...\n• Subtitle auto-detect + Movie/TV Subtitle library\n• Live streams support\n• Video preview to instantly locate your favorite scenes.\n• Binge-ready: queue up several videos, and enjoy.\n• Set your own home page, bookmark web page or videos.\n• Full playback controls, even after exiting the app (from the lock screen).\n• Privacy modes\n\n\nSome of the features above require in-app purchase\n\niWebTV actually plays the video on your media player which results in a much higher quality picture than apps that mirror your screen.\n\n\n\n**** Notes ****\n\n(1) Some premium features require in-app purchases.\n(2) Excluding video formats incompatible with iOS (flash).\n(3) While most video websites work well, email us from the app menu if you experience any issues: > “Get Help” > “Frequent Questions” > “Need more help? (Other Issues)”> “Contact Support” (opens email).\n\nSmart TV from most TV manufacturers will work with this app without any preliminary setup. Just start the app, choose a video & hit the cast button! This includes TVs from Samsung, TCL, Vizio, Sony, Hisense, Insigna, Sharp, Philips and others.\n\n\n\n\n**** Legal ****\n\niWebTV™ is a trademark of Swishly Inc.\n\"Chromecast\" is a trademark of Google LLC.\n\"Fire TV\" is a trademark of Amazon Technologies, Inc.\n\"Roku\" is a trademark of Roku Inc.\n\"Apple TV\" is a trademark of Apple Inc.\n\n\n\nTerms:\n\n• Privacy Policy: https://iwebtv.app/legal/privacy-policy.html\n• Terms of Use: https://iwebtv.app/legal/terms-of-use.html\n\niWebTV PRO offers a subscription-based upgrade (\"Premium Services\" $0.99/month or $9.99/year). With this subscription you will get the additional benefits of 2 premium services (Cloud Proxy Streaming  + Unlimited subtitle downloads)",
-      "formattedPrice": "$6.99",
-      "fileSizeBytes": "58196992",
-      "averageUserRatingForCurrentVersion": 4.71277,
-      "sellerUrl": "https://iwebtv.app",
-      "languageCodesISO2A": [
-        "EN",
-        "ES"
-      ],
-      "userRatingCountForCurrentVersion": 4526,
-      "trackContentRating": "17+",
-      "trackId": 1453647914,
-      "trackName": "iWebTV PRO",
-      "genres": [
-        "Photo & Video",
-        "Entertainment"
-      ],
-      "userRatingCount": 4526,
+      "averageUserRating": 4.71485,
+      "contentAdvisoryRating": "17+",
+      "releaseDate": "2019-03-16T06:58:40Z",
+      "minimumOsVersion": "16.6",
+      "userRatingCount": 4545,
       "country": "USA"
     }
   ]

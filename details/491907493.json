@@ -2,6 +2,10 @@
   "resultCount": 1,
   "results": [
     {
+      "features": [
+        "iosUniversal"
+      ],
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/0b/14/fb/0b14fb5f-1a12-e577-1b82-422cf36e670f/1e4bedff-ed9e-4029-bc45-b945b9a6d3b1_2_interval_trainer.PNG/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e3/81/1a/e3811a61-923d-b1ec-7586-acab33eafa78/9af7b184-f87d-44da-8cb2-2fbf18704080_3_differences.PNG/392x696bb.png",
@@ -24,8 +28,10 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/2f/23/b5/2f23b5aa-7864-0b69-a5d0-da23e5345431/b197834d-3594-4c6a-b5b4-2be3b9a97ab3_Tablet_-_AT_0011_IMG_0037.jpg/576x768bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/61/ed/2c61ed8a-2b5e-8069-1b28-addd36327de3/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/01/1f/21011ff0-146a-5c75-2696-da5d7790f614/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/gb/developer/the-associated-board-of-the-royal-schools/id491902885?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/01/1f/21011ff0-146a-5c75-2696-da5d7790f614/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/01/1f/21011ff0-146a-5c75-2696-da5d7790f614/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -156,56 +162,52 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
-      ],
-      "features": [
-        "iosUniversal"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
       "advisories": [],
       "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/gb/developer/the-associated-board-of-the-royal-schools/id491902885?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/61/ed/2c61ed8a-2b5e-8069-1b28-addd36327de3/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/61/ed/2c61ed8a-2b5e-8069-1b28-addd36327de3/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
+      "bundleId": "com.abrsm.auraltrainer12345",
+      "sellerUrl": "https://gb.abrsm.org/en/exam-support/apps-and-practice-tools/aural-trainer/",
+      "averageUserRatingForCurrentVersion": 3.11842,
       "languageCodesISO2A": [
         "EN"
       ],
-      "fileSizeBytes": "427827200",
+      "fileSizeBytes": "428148736",
       "formattedPrice": "£7.99",
-      "userRatingCountForCurrentVersion": 151,
+      "userRatingCountForCurrentVersion": 152,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 3.13245,
-      "sellerUrl": "https://gb.abrsm.org/en/exam-support/apps-and-practice-tools/aural-trainer/",
-      "releaseNotes": "Bug fixes\n\nAesthetic improvements\n\nThere is currently a known bug with Air Pods not connecting for sound which we are working to fix.",
+      "trackCensoredName": "ABRSM Aural Trainer Grades 1-5",
+      "trackViewUrl": "https://apps.apple.com/gb/app/abrsm-aural-trainer-grades-1-5/id491907493?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 3.11842,
+      "price": 7.99,
       "artistId": 491902885,
       "artistName": "The Associated Board of the Royal Schools of Music (Publishing) Limited",
       "genres": [
         "Education",
         "Music"
       ],
+      "releaseDate": "2012-02-28T08:51:37Z",
+      "releaseNotes": "AirPod connectivity issues have been resolved.\nFix for broken individual progression trackers.\nVarious UI improvements.\nImproved contrast and readability of UI.",
+      "minimumOsVersion": "15.0",
       "genreIds": [
         "6017",
         "6011"
       ],
-      "minimumOsVersion": "15.0",
+      "trackId": 491907493,
+      "trackName": "ABRSM Aural Trainer Grades 1-5",
       "primaryGenreName": "Education",
       "primaryGenreId": 6017,
       "sellerName": "The Associated Board of the Royal Schools of Music (Publishing) Limited",
       "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-10-28T19:09:48Z",
-      "version": "3.5",
+      "currentVersionReleaseDate": "2026-11-11T22:02:15Z",
+      "version": "3.5.1",
       "wrapperType": "software",
       "currency": "GBP",
       "description": "The OFFICIAL ABRSM Aural Trainer contains interactive challenges to help develop your music aural skills (listening skills). Anyone can use it, but it is designed around ABRSM’s aural tests for Grades 1 to 5. The app can be used in any order, however often you like, on your own or with your teacher.\n\nUse ABRSM Aural Trainer to:\n\n• Improve your sense of pulse and metre (feeling the beat).\n\n• Exercise your musical memory (remember how music sounds and be able to repeat it or spot differences and mistakes).\n\n• Develop your confidence and accuracy at sight-singing (reading and singing the music you see).\n\n• Learn to describe dynamics, articulation, tempo and tonality.\n\n• Practise identifying the features in music that make-up its style and character.\n\n• Develop the skills to know when a piece of music was written.\n\nThe app covers the following ABRSM aural test content:\n• Pulse and Metre\n• Echoes\n• Differences\n• Melodic Repetition\n• Sight-singing\n• Musical Features\n• Rhythmic Repetition\n• Metre\n\nTackle each element in stages using the preparation exercises.\n\nAll exercises are fully interactive. Each one gives you the opportunity to repeat the question, or to compare your response to the correct answer and hear the music again. The app also features supporting tools including an interval trainer, progress tracker and guides to the aural tests in ABRSM graded music exams.\n\nMany exercises are automatically marked by the application. Self-review and critical listening are also key to successful development of the musical ear, which is why the app provides tools for you to review and evaluate your performance against sample responses in all cases. Your progress is logged whenever you use the app, so you can always see at a glance the areas you might want to revisit.",
-      "trackCensoredName": "ABRSM Aural Trainer Grades 1-5",
-      "trackViewUrl": "https://apps.apple.com/gb/app/abrsm-aural-trainer-grades-1-5/id491907493?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 3.13245,
-      "bundleId": "com.abrsm.auraltrainer12345",
-      "trackId": 491907493,
-      "trackName": "ABRSM Aural Trainer Grades 1-5",
-      "releaseDate": "2012-02-28T08:51:37Z",
-      "price": 7.99,
-      "userRatingCount": 151,
+      "userRatingCount": 152,
       "country": "GBR"
     }
   ]

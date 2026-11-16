@@ -2,6 +2,7 @@
   "resultCount": 1,
   "results": [
     {
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/67/a5/96/67a596e9-7cab-8af3-484a-b33fb73e92cb/4f0b01f3-1158-4954-b126-48b43482526a_JourneyTab_1_6E188B1D-4A65-4C81-97F8-A29392657BA2.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d3/76/8c/d3768cf7-66a1-dec6-7466-5fd48d90dbf2/963bd5e9-5465-4b3f-8f34-7d55371d2ca9_ShareTab_1_669BF987-5646-4987-B669-CDA3E63F9F23.png/392x696bb.png",
@@ -10,10 +11,12 @@
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/8a/b9/d88ab918-bce7-db91-40c8-8abb3f9f19b2/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
       "artistViewUrl": "https://apps.apple.com/fr/developer/mindful-bear-apps/id337500895?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/8a/b9/d88ab918-bce7-db91-40c8-8abb3f9f19b2/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/8a/b9/d88ab918-bce7-db91-40c8-8abb3f9f19b2/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.jpg",
+      "advisories": [],
+      "kind": "software",
+      "features": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -144,11 +147,10 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
-      "advisories": [],
-      "kind": "software",
-      "features": [],
       "sellerUrl": "http://www.mindfulbear.com",
       "languageCodesISO2A": [
         "EN",
@@ -160,37 +162,37 @@
       "formattedPrice": "1,99 €",
       "userRatingCountForCurrentVersion": 4,
       "trackContentRating": "12+",
-      "averageUserRatingForCurrentVersion": 4.75,
       "trackCensoredName": "Voyage au Tambour",
       "trackViewUrl": "https://apps.apple.com/fr/app/voyage-au-tambour/id337500892?uo=4",
-      "averageUserRating": 4.75,
       "contentAdvisoryRating": "12+",
+      "averageUserRating": 4.75,
+      "averageUserRatingForCurrentVersion": 4.75,
+      "price": 1.99,
       "artistId": 337500895,
       "artistName": "Mindful Bear Apps",
-      "genres": [
-        "Style de vie",
-        "Forme et santé"
-      ],
-      "price": 1.99,
       "bundleId": "com.mindfulbear.drumjourney",
-      "minimumOsVersion": "15.6",
-      "trackId": 337500892,
-      "trackName": "Voyage au Tambour",
       "genreIds": [
         "6012",
         "6013"
       ],
-      "sellerName": "Mindful Bear Apps",
       "releaseDate": "2009-11-05T02:07:57Z",
+      "isVppDeviceBasedLicensingEnabled": true,
       "primaryGenreName": "Lifestyle",
       "primaryGenreId": 6012,
-      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-10-31T18:05:29Z",
       "releaseNotes": "- Ajout de la compatibilité avec l'iPhone Duo\n- Correction des coupures audio sous iOS 27 lors de l'application d'un tempo personnalisé",
       "version": "3.2.1",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Bienvenue sur Voyage au Tambour, la toute première application de voyage chamanique.\n\n\nUn Voyage chamanique, comme vous le savez probablement déjà, est une sorte de méditation de vue profonde.  C'est une pratique spirituelle qui combine visualisation et accompagnement acoustique, généralement une percussion rapide sur tambour ou à l'aide d'un idiophone.\n\n\nVoyage au Tambour fonctionne comme une minuterie, définissez la durée de votre voyages ainsi que les options que vous souhaitez et appuyez sur Démarrer.  L'application vous offre plusieurs morceaux de tambour et hochet produits professionnellement; vous pouvez également importer vos propres titres à partir d'iTunes.\n\n\n\nFonctionnalités :\n\n- une durée de voyage flexible, de 5 minutes à une heure\n\n- choix du style de percussion (simple, double ou avec hochet)\n\n- tempo réglable (lent, normal et rapide)\n\n- volume des instruments réglable\n\n- des morceaux de percussion de haute qualité\n\n- fonctionne avec AirPlay\n\n- graphiques optimisés pour les écrans iPhone Retina\n\n- partagez votre position avec d'autres utilisateurs de Voyage au Tambour\n\n\nDepuis des siècles, les chamans utilisent les voyages spirituels pour gagner en perspective et en clarté. Ma source d'inspiration pour cette application a été ma participation au programme d'une durée de trois ans offert par la Foundation for Shamanic Studies.\n\n\nNote: Cette application n'enseigne pas les techniques de voyage chamanique. Visitez le site Web de Mindful Bear pour découvrir des liens concernant enseignants, livres et practiciens chamaniques.",
+      "trackId": 337500892,
+      "trackName": "Voyage au Tambour",
+      "sellerName": "Mindful Bear Apps",
+      "genres": [
+        "Style de vie",
+        "Forme et santé"
+      ],
+      "minimumOsVersion": "15.6",
       "userRatingCount": 4,
       "country": "FRA"
     }

@@ -2,6 +2,7 @@
   "resultCount": 1,
   "results": [
     {
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0e/8c/f7/0e8cf71e-8d24-3d95-d993-22e7efca35bd/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2025-10-26_at_00.15.05.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f9/ff/9b/f9ff9b81-22f9-b04b-f443-dffca265d699/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2025-10-26_at_00.26.25.png/320x480bb.jpg",
@@ -17,10 +18,14 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/d1/b9/59d1b957-bcc2-e0fc-8882-d5aead88c641/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
       "artistViewUrl": "https://apps.apple.com/fr/developer/%E7%A7%80%E9%93%B6-%E6%9E%97/id1835808687?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/d1/b9/59d1b957-bcc2-e0fc-8882-d5aead88c641/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/d1/b9/59d1b957-bcc2-e0fc-8882-d5aead88c641/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+      "advisories": [],
+      "kind": "software",
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -151,12 +156,9 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
-      ],
-      "advisories": [],
-      "kind": "software",
-      "features": [
-        "iosUniversal"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
       "sellerUrl": "https://counter.suppleplan.com",
       "languageCodesISO2A": [
@@ -167,36 +169,36 @@
       "formattedPrice": "0,99 €",
       "userRatingCountForCurrentVersion": 0,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 0,
       "trackCensoredName": "Audio Count",
       "trackViewUrl": "https://apps.apple.com/fr/app/audio-count/id6754126843?uo=4",
-      "averageUserRating": 0,
       "contentAdvisoryRating": "4+",
+      "averageUserRating": 0,
+      "averageUserRatingForCurrentVersion": 0,
+      "price": 0.99,
       "artistId": 1835808687,
       "artistName": "秀银 林",
-      "genres": [
-        "Utilitaires",
-        "Forme et santé"
-      ],
-      "price": 0.99,
       "bundleId": "com.suppleplan.counter",
-      "minimumOsVersion": "17.6",
-      "trackId": 6754126843,
-      "trackName": "Audio Count",
       "genreIds": [
         "6002",
         "6013"
       ],
-      "sellerName": "秀银 林",
       "releaseDate": "2025-10-28T07:00:00Z",
+      "isVppDeviceBasedLicensingEnabled": true,
       "primaryGenreName": "Utilities",
       "primaryGenreId": 6002,
-      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2025-10-28T07:56:13Z",
       "version": "1.0",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Audio Count is a professional-grade digital tool designed for analyzing and counting specific transient or periodic events within diverse audio environments.\n\nBy employing advanced, configurable Digital Filtering and flexible Channel Strategies, the app isolates the target sound's frequency range (e.g., jump rope impacts, machine cycles) from unwanted noise, ensuring consistent and reliable counting across various devices and rooms. Perfect for fitness tracking, industrial monitoring, or acoustic analysis.\n\nHighlights (Key Features)\n\n- Robust Digital Filtering: Utilizes configurable high-pass, low-pass, and band-pass filters to suppress noise and isolate the target frequency range.\n\n- Scene-Optimized Presets: Quick calibration for common tasks like Jump Roping, Clapping, and Machine Cycles.\n\n- High-Resolution Waveform: Real-time visualization and precise marking of every counted event.\n\n- Flexible Channel Strategy: Choose Average, Max, Left, or Right channel analysis for specific microphone focus.\n\n- Adjustable Calibration: Fine-tune sensitivity (Energy Factor) and cool-down time to match the dynamics of your environment and device.\n\nPrivacy & Safety\n\nAll audio processing and analysis occurs on your device; no account creation, login, or cloud data upload is required.\n\nRecording files are only generated when you explicitly choose to record and can be deleted instantly within the app.",
+      "trackId": 6754126843,
+      "trackName": "Audio Count",
+      "sellerName": "秀银 林",
+      "genres": [
+        "Utilitaires",
+        "Forme et santé"
+      ],
+      "minimumOsVersion": "17.6",
       "userRatingCount": 0,
       "country": "FRA"
     }

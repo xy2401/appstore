@@ -325,7 +325,12 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
+      ],
+      "features": [
+        "iosUniversal"
       ],
       "advisories": [
         "まれ／軽度な過激な言葉遣いまたは下品なユーモア",
@@ -349,18 +354,18 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/01/b8/f901b816-9873-3af4-1f05-43ef7df981a6/AppIcon-himatsubu_shin-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
-      "price": 330,
+      "releaseNotes": "・バックグラウンドからのセッション復帰の有効期限を24時間から7日間に延長しました\n・表示や文言の細かな改善を行いました\n・内部ライブラリを更新し、安定性を改善しました",
+      "artistId": 1132973909,
+      "artistName": "Qdan Inc.",
       "genres": [
         "エンターテインメント",
         "ゲーム",
         "ボード",
         "単語"
       ],
-      "artistId": 1132973909,
-      "artistName": "Qdan Inc.",
+      "price": 330,
+      "bundleId": "com.yurugames.himatsubushin",
+      "releaseDate": "2026-03-30T07:00:00Z",
       "minimumOsVersion": "15.6",
       "genreIds": [
         "6016",
@@ -368,12 +373,13 @@
         "7004",
         "7019"
       ],
-      "releaseDate": "2026-03-30T07:00:00Z",
+      "trackId": 6760090793,
+      "trackName": "ひまつぶ神｜ドロッセルマイヤーさんの公式ゆるゲーアプリ",
       "isVppDeviceBasedLicensingEnabled": true,
       "primaryGenreName": "Entertainment",
       "primaryGenreId": 6016,
+      "sellerName": "Qdan Inc.",
       "currentVersionReleaseDate": "2026-10-15T05:18:42Z",
-      "releaseNotes": "・バックグラウンドからのセッション復帰の有効期限を24時間から7日間に延長しました\n・表示や文言の細かな改善を行いました\n・内部ライブラリを更新し、安定性を改善しました",
       "version": "1.0.5",
       "wrapperType": "software",
       "currency": "JPY",
@@ -382,6 +388,8 @@
       "trackViewUrl": "https://apps.apple.com/jp/app/%E3%81%B2%E3%81%BE%E3%81%A4%E3%81%B6%E7%A5%9E-%E3%83%89%E3%83%AD%E3%83%83%E3%82%BB%E3%83%AB%E3%83%9E%E3%82%A4%E3%83%A4%E3%83%BC%E3%81%95%E3%82%93%E3%81%AE%E5%85%AC%E5%BC%8F%E3%82%86%E3%82%8B%E3%82%B2%E3%83%BC%E3%82%A2%E3%83%97%E3%83%AA/id6760090793?uo=4",
       "contentAdvisoryRating": "9+",
       "averageUserRating": 4.75,
+      "averageUserRatingForCurrentVersion": 4.75,
+      "sellerUrl": "https://x.com/Qdanapp",
       "languageCodesISO2A": [
         "EN",
         "JA"
@@ -390,12 +398,6 @@
       "formattedPrice": "¥330",
       "userRatingCountForCurrentVersion": 4,
       "trackContentRating": "9+",
-      "sellerUrl": "https://x.com/Qdanapp",
-      "averageUserRatingForCurrentVersion": 4.75,
-      "bundleId": "com.yurugames.himatsubushin",
-      "trackId": 6760090793,
-      "trackName": "ひまつぶ神｜ドロッセルマイヤーさんの公式ゆるゲーアプリ",
-      "sellerName": "Qdan Inc.",
       "userRatingCount": 4,
       "country": "JPN"
     }

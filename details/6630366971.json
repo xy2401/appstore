@@ -2,11 +2,10 @@
   "resultCount": 1,
   "results": [
     {
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/b1/2d/9ab12da7-8a37-b116-b0b1-1109dd6a93ba/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/b1/2d/9ab12da7-8a37-b116-b0b1-1109dd6a93ba/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/fr/developer/yepexpress/id1762340186?uo=4",
       "isGameCenterEnabled": false,
-      "advisories": [],
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -137,9 +136,15 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
+      "advisories": [],
       "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/fr/developer/yepexpress/id1762340186?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/b1/2d/9ab12da7-8a37-b116-b0b1-1109dd6a93ba/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/b1/2d/9ab12da7-8a37-b116-b0b1-1109dd6a93ba/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/06/d1/8c/06d18cad-d88d-94f2-6f2e-7f51388980d6/1-2688.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/9d/a9/b29da913-5dd2-68cf-1900-5b14096b52f9/36d645e1-cfbc-47d2-9b54-bdb2b70c2f7e_2-2.png/320x480bb.jpg",
@@ -154,33 +159,32 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/b1/2d/9ab12da7-8a37-b116-b0b1-1109dd6a93ba/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
-      "contentAdvisoryRating": "4+",
-      "trackCensoredName": "Yepexpress",
-      "trackViewUrl": "https://apps.apple.com/fr/app/yepexpress/id6630366971?uo=4",
-      "averageUserRating": 4.70195,
-      "releaseNotes": "improve some experience",
+      "artistId": 1762340186,
+      "artistName": "Yepexpress",
       "genres": [
         "Utilitaires"
       ],
       "price": 0,
+      "bundleId": "com.yepexpress.ios",
+      "trackId": 6630366971,
+      "trackName": "Yepexpress",
+      "releaseNotes": "improve some experience",
+      "releaseDate": "2024-09-10T07:00:00Z",
       "minimumOsVersion": "15.0",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-09-15T02:26:13Z",
-      "sellerName": "UWE INTERNATIONAL LIMITED",
       "genreIds": [
         "6002"
       ],
-      "releaseDate": "2024-09-10T07:00:00Z",
-      "trackId": 6630366971,
-      "trackName": "Yepexpress",
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
+      "sellerName": "UWE INTERNATIONAL LIMITED",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-09-15T02:26:13Z",
       "version": "1.1.1",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Welcome to Yepexpress, your top choice for accessing the finest products! With Yepexpress, giving you access to a vast and diverse array of products.\n\n--Why Choose Yepexpress?\n\n【Extensive Product Range】 Explore a wide variety of products sourced directly from trusted platforms. Whether you're looking for electronics, fashion, home goods, or unique finds, Yepexpress has it all!\n  \n【Efficient Logistics】 Enjoy fast and secure delivery of your orders, thanks to our highly efficient logistics services. We ensure your purchases reach you swiftly and safely.\n\n【Superior Customer Service】 Our dedicated team is committed to providing high-quality services, making every transaction smooth and hassle-free. From browsing to purchasing and beyond, we're here to ensure your satisfaction.\n\n【Excellent After-Sales Support】Your happiness is our priority. We offer top-tier after-sales support to ensure you're content with your purchase and readily assist with any inquiries or issues.",
-      "sellerUrl": "https://www.yepexpress.com",
+      "trackViewUrl": "https://apps.apple.com/fr/app/yepexpress/id6630366971?uo=4",
+      "contentAdvisoryRating": "4+",
       "languageCodesISO2A": [
         "AR",
         "BG",
@@ -210,15 +214,13 @@
       ],
       "fileSizeBytes": "83596288",
       "formattedPrice": "Gratuit",
-      "userRatingCountForCurrentVersion": 1124,
+      "userRatingCountForCurrentVersion": 1134,
       "trackContentRating": "4+",
-      "bundleId": "com.yepexpress.ios",
-      "averageUserRatingForCurrentVersion": 4.70195,
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
-      "artistId": 1762340186,
-      "artistName": "Yepexpress",
-      "userRatingCount": 1124,
+      "sellerUrl": "https://www.yepexpress.com",
+      "trackCensoredName": "Yepexpress",
+      "averageUserRating": 4.7037,
+      "averageUserRatingForCurrentVersion": 4.7037,
+      "userRatingCount": 1134,
       "country": "FRA"
     }
   ]

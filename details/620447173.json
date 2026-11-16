@@ -195,13 +195,7 @@
       "userRatingCount": 63772
     },
     {
-      "artistViewUrl": "https://apps.apple.com/fr/developer/lassurance-maladie/id620447176?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/9b/29/ea9b29ee-1547-4f0a-16e1-da7a81c04475/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/9b/29/ea9b29ee-1547-4f0a-16e1-da7a81c04475/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -332,7 +326,9 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
       "advisories": [],
       "kind": "software",
@@ -350,45 +346,51 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/9b/29/ea9b29ee-1547-4f0a-16e1-da7a81c04475/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "contentAdvisoryRating": "4+",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/9b/29/ea9b29ee-1547-4f0a-16e1-da7a81c04475/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/9b/29/ea9b29ee-1547-4f0a-16e1-da7a81c04475/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/fr/developer/lassurance-maladie/id620447176?uo=4",
+      "features": [
+        "iosUniversal"
+      ],
       "releaseNotes": "Nous sommes partis à la chasse aux bugs et aux améliorations de nos démarches pour vous offrir une expérience plus fluide.",
+      "price": 0,
+      "sellerName": "Caisse Nat ASSUR MALADIE TRAV SALARIES",
+      "currentVersionReleaseDate": "2026-10-15T09:05:20Z",
+      "trackName": "Compte ameli",
+      "trackId": 620447173,
+      "minimumOsVersion": "16.0",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseDate": "2013-04-06T19:40:10Z",
+      "primaryGenreName": "Health & Fitness",
+      "primaryGenreId": 6013,
+      "genreIds": [
+        "6013",
+        "6002"
+      ],
+      "version": "25.0.2",
+      "wrapperType": "software",
+      "currency": "EUR",
+      "description": "Connectez-vous à votre compte avec votre numéro de sécurité sociale, votre mot de passe et le code unique reçu par email ou via l'authentification biométrique (disponible sur smartphone) et accéder à tous les services suivants :\n\nConsultez vos remboursements de soins :\n    - Visualisez tous vos remboursements en détails\n\nConsultez tous vos documents :    \n    - Téléchargez votre attestation de droits ou d'indemnités journalières\n    - Téléchargez vos relevés mensuels de remboursements, disponibles pour les 27 derniers mois\n\nRéalisez certaines démarches sans vous déplacer :\n    - Simulez et estimez vos indemnités journalières, et effectuez vos éventuelles démarches\n    - Commandez votre carte européenne d'assurance maladie (CEAM) et visualisez-la sur votre smartphone\n    - Déclarez la perte ou le vol de votre carte Vitale\n    - Commandez une carte Vitale \n    - Déclarez votre nouveau-né à votre caisse \n    - Inscrivez votre enfant sur les cartes des deux parents\n    - Déposez votre feuille de soin médecin \n\n- Modifiez votre nom d'usage\n    - Déclarez un accident causé par un tiers\n    - Accédez à la simulation de vos droits aux aides sociales\n    - Consultez les délais de traitement de votre caisse\n    - Choisissez votre organisme complémentaire en cas de chevauchement de contrats\n    - Déclarez un acte médical ou un soin non réalisé\n\nGérez vos informations personnelles :\n    - Retrouvez toutes vos informations personnelles\n    - Modifiez votre adresse postale, votre adresse email et vos numéros de téléphone\n\nPrenez rendez-vous avec votre caisse :\n    - Choisissez un créneau de rendez-vous téléphonique\n    - Modifiez vos rendez-vous\n    - Supprimez vos rendez-vous\n    - Visionnez vos rendez-vous à venir",
+      "averageUserRatingForCurrentVersion": 4.5152,
+      "contentAdvisoryRating": "4+",
+      "languageCodesISO2A": [
+        "FR"
+      ],
+      "fileSizeBytes": "36464640",
+      "formattedPrice": "Gratuit",
+      "userRatingCountForCurrentVersion": 77001,
+      "trackContentRating": "4+",
+      "averageUserRating": 4.5152,
       "trackCensoredName": "Compte ameli",
       "trackViewUrl": "https://apps.apple.com/fr/app/compte-ameli/id620447173?uo=4",
-      "averageUserRating": 4.5145,
+      "bundleId": "fr.mobi.moncompte.ameli",
       "artistId": 620447176,
       "artistName": "l'Assurance Maladie",
       "genres": [
         "Forme et santé",
         "Utilitaires"
       ],
-      "price": 0,
-      "bundleId": "fr.mobi.moncompte.ameli",
-      "currentVersionReleaseDate": "2026-10-15T09:05:20Z",
-      "releaseDate": "2013-04-06T19:40:10Z",
-      "minimumOsVersion": "16.0",
-      "sellerName": "Caisse Nat ASSUR MALADIE TRAV SALARIES",
-      "primaryGenreName": "Health & Fitness",
-      "primaryGenreId": 6013,
-      "trackId": 620447173,
-      "trackName": "Compte ameli",
-      "genreIds": [
-        "6013",
-        "6002"
-      ],
-      "isVppDeviceBasedLicensingEnabled": true,
-      "version": "25.0.2",
-      "wrapperType": "software",
-      "currency": "EUR",
-      "description": "Connectez-vous à votre compte avec votre numéro de sécurité sociale, votre mot de passe et le code unique reçu par email ou via l'authentification biométrique (disponible sur smartphone) et accéder à tous les services suivants :\n\nConsultez vos remboursements de soins :\n    - Visualisez tous vos remboursements en détails\n\nConsultez tous vos documents :    \n    - Téléchargez votre attestation de droits ou d'indemnités journalières\n    - Téléchargez vos relevés mensuels de remboursements, disponibles pour les 27 derniers mois\n\nRéalisez certaines démarches sans vous déplacer :\n    - Simulez et estimez vos indemnités journalières, et effectuez vos éventuelles démarches\n    - Commandez votre carte européenne d'assurance maladie (CEAM) et visualisez-la sur votre smartphone\n    - Déclarez la perte ou le vol de votre carte Vitale\n    - Commandez une carte Vitale \n    - Déclarez votre nouveau-né à votre caisse \n    - Inscrivez votre enfant sur les cartes des deux parents\n    - Déposez votre feuille de soin médecin \n\n- Modifiez votre nom d'usage\n    - Déclarez un accident causé par un tiers\n    - Accédez à la simulation de vos droits aux aides sociales\n    - Consultez les délais de traitement de votre caisse\n    - Choisissez votre organisme complémentaire en cas de chevauchement de contrats\n    - Déclarez un acte médical ou un soin non réalisé\n\nGérez vos informations personnelles :\n    - Retrouvez toutes vos informations personnelles\n    - Modifiez votre adresse postale, votre adresse email et vos numéros de téléphone\n\nPrenez rendez-vous avec votre caisse :\n    - Choisissez un créneau de rendez-vous téléphonique\n    - Modifiez vos rendez-vous\n    - Supprimez vos rendez-vous\n    - Visionnez vos rendez-vous à venir",
-      "averageUserRatingForCurrentVersion": 4.5145,
-      "languageCodesISO2A": [
-        "FR"
-      ],
-      "fileSizeBytes": "36464640",
-      "formattedPrice": "Gratuit",
-      "userRatingCountForCurrentVersion": 76357,
-      "trackContentRating": "4+",
-      "userRatingCount": 76357,
+      "userRatingCount": 77001,
       "country": "FRA"
     }
   ]

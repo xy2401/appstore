@@ -185,10 +185,10 @@
       "userRatingCount": 12983
     },
     {
+      "artistViewUrl": "https://apps.apple.com/us/developer/lynnfield-llc/id563082511?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/37/7a/79377aba-9bca-83db-3782-b1a878681a4e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/37/7a/79377aba-9bca-83db-3782-b1a878681a4e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -319,11 +319,15 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
       "advisories": [],
+      "features": [
+        "iosUniversal"
+      ],
       "kind": "software",
-      "appletvScreenshotUrls": [],
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/42/57/80/4257809f-ad31-c598-fcfb-4d029abaf8b5/Marketing-01-Retirement-at-a-Glance-1206x2622.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/66/0d/07/660d0759-028c-f119-1eda-f4279765030a/Marketing-02-Compare-Scenarios-1206x2622.png/320x480bb.jpg",
@@ -343,49 +347,47 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8d/3f/4c/8d3f4cd0-1862-173f-ff5f-f3aadb212d82/iPad-Marketing-06-Income-and-Bills-2752x2064.png/360x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/42/82/93/428293fd-e0e1-174d-1f79-47a01a3e10b8/iPad-Marketing-07-Your-Style-2752x2064.png/360x480bb.jpg"
       ],
+      "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/37/7a/79377aba-9bca-83db-3782-b1a878681a4e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/us/developer/lynnfield-llc/id563082511?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/37/7a/79377aba-9bca-83db-3782-b1a878681a4e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/37/7a/79377aba-9bca-83db-3782-b1a878681a4e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
       "trackCensoredName": "Military Retirement",
       "trackViewUrl": "https://apps.apple.com/us/app/military-retirement/id563082328?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.85182,
       "releaseNotes": "• Added Layout setting to show a grid or list\n• iPad multi-window support\n• Bug fixes",
       "artistId": 563082511,
       "artistName": "LYNNFIELD LLC",
-      "genres": [
-        "Finance",
-        "Reference"
-      ],
       "price": 5.99,
-      "genreIds": [
-        "6015",
-        "6006"
-      ],
-      "sellerName": "LYNNFIELD LLC",
       "trackId": 563082328,
+      "trackName": "Military Retirement",
       "bundleId": "com.LynnField.MilitaryRetire",
       "primaryGenreName": "Finance",
       "primaryGenreId": 6015,
-      "minimumOsVersion": "16.0",
       "releaseDate": "2012-09-26T02:26:31Z",
+      "sellerName": "LYNNFIELD LLC",
       "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-11-06T20:21:56Z",
       "version": "2026.13",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Military Retirement is a stand alone application intended to assist military personnel from all branches of military service by informing them of their benefits upon retirement from military service. Military Retirement gives assistance by calculating an estimation of retirement pay based on the data you enter. This data is secure and does not leave your device and is not tracked in any way. Military Retirement incorporates highly detailed algorithms to calculate your retirement pay to the highest level of accuracy possible. Compare multiple scenario options to determine which retirement option is best for you. \n\nNo login required. No personally identifying information to enter. No demographic tracking of who you are. No spam.\n\nMilitary Retirement works for Active Duty and Reserve/Guard for the following types of retirement plans: Final Pay, High-3, BRS, and CSB/REDUX personnel. \n\nSpecifically, Military Retirement will calculate\n• RETIREMENT PAY : Based on Rank, Years and Months of Service, and Date of Retirement. Also works for time in rank of less than 3 years.\n• SURVIVOR BENEFIT PLAN : Benefit and Premium\n• TRICARE MEDICAL INSURANCE : Options and Premium\n• DISABILITY PAY : Based on disability rating\n• VETERANS GROUP LIFE INSURANCE : Coverage and Premium\n• FEDERAL TAXES : Based on filing status\n\n** Note **\nInformation provided by Military Retirement should be used for educational and initial informative purposes only. Should not be used to plan retirement budget, as actual financial figures may slightly differ.\nMilitary Retirement supports retirement dates from 2012 onwards.\n\nLynnfield LLC is disabled-veteran owned.",
+      "formattedPrice": "$5.99",
+      "fileSizeBytes": "19468288",
+      "averageUserRatingForCurrentVersion": 4.85182,
       "languageCodesISO2A": [
         "EN"
       ],
-      "fileSizeBytes": "19468288",
-      "formattedPrice": "$5.99",
-      "userRatingCountForCurrentVersion": 13886,
+      "userRatingCountForCurrentVersion": 13916,
       "trackContentRating": "4+",
-      "averageUserRating": 4.85151,
-      "contentAdvisoryRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.85151,
-      "trackName": "Military Retirement",
-      "userRatingCount": 13886,
+      "genreIds": [
+        "6015",
+        "6006"
+      ],
+      "genres": [
+        "Finance",
+        "Reference"
+      ],
+      "minimumOsVersion": "16.0",
+      "userRatingCount": 13916,
       "country": "USA"
     }
   ]

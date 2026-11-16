@@ -176,6 +176,7 @@
       "userRatingCount": 4136
     },
     {
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d9/ac/54/d9ac546f-0dba-60b7-cbcf-478acc62f7f9/ios_6.9inch_1.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1c/32/08/1c32080f-fe35-50c9-c129-99f22acefbba/ios_6.9inch_2.png/320x480bb.jpg",
@@ -186,10 +187,10 @@
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/9f/e9/059fe90a-a465-7194-3ad9-22e151a005b4/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
-      "artistViewUrl": "https://apps.apple.com/jp/developer/aeonpet-inc/id524047828?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/9f/e9/059fe90a-a465-7194-3ad9-22e151a005b4/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/9f/e9/059fe90a-a465-7194-3ad9-22e151a005b4/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
+      "features": [],
+      "advisories": [
+        "無制限のWebアクセス"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -320,26 +321,23 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
-      ],
-      "features": [],
-      "advisories": [
-        "無制限のWebアクセス"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
       "kind": "software",
-      "averageUserRating": 4.35832,
+      "artistViewUrl": "https://apps.apple.com/jp/developer/aeonpet-inc/id524047828?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/9f/e9/059fe90a-a465-7194-3ad9-22e151a005b4/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/9f/e9/059fe90a-a465-7194-3ad9-22e151a005b4/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
       "releaseNotes": "ペテモの公式アプリをより快適にご利用いただけるよう、新機能の追加を行いました。\n\n- ワクチン証明書をご登録・表示いただける機能を追加しました。\n- その他、軽微な修正と動作改善を行いました。\n\n================\nペテモの公式アプリではご利用の皆さまにご満足いただけるよう、改善や機能追加に取り組んでいます。ご感想やご要望はアプリ内の「ホーム右上の歯車マーク ＞ よくあるご質問 ＞ ページ下部のお問い合わせ」よりご連絡ください。\n今後ともペテモの公式アプリをよろしくお願いいたします。\n================",
+      "averageUserRatingForCurrentVersion": 4.35789,
       "languageCodesISO2A": [
         "JA"
       ],
       "fileSizeBytes": "71897088",
       "formattedPrice": "無料",
-      "userRatingCountForCurrentVersion": 23629,
       "trackContentRating": "17+",
-      "averageUserRatingForCurrentVersion": 4.35832,
-      "trackCensoredName": "PETEMO - ペテモの公式アプリ",
-      "trackViewUrl": "https://apps.apple.com/jp/app/petemo-%E3%83%9A%E3%83%86%E3%83%A2%E3%81%AE%E5%85%AC%E5%BC%8F%E3%82%A2%E3%83%97%E3%83%AA/id6754081947?uo=4",
-      "contentAdvisoryRating": "17+",
+      "userRatingCountForCurrentVersion": 23851,
       "artistId": 524047828,
       "artistName": "AEONPET Inc.",
       "genres": [
@@ -347,25 +345,29 @@
         "ライフスタイル"
       ],
       "price": 0,
-      "trackId": 6754081947,
-      "trackName": "PETEMO - ペテモの公式アプリ",
+      "bundleId": "com.petemo.app",
       "primaryGenreName": "Shopping",
       "primaryGenreId": 6024,
-      "minimumOsVersion": "15.1",
-      "releaseDate": "2025-11-16T08:00:00Z",
-      "sellerName": "aeonpet.inc",
       "genreIds": [
         "6024",
         "6012"
       ],
+      "sellerName": "aeonpet.inc",
       "isVppDeviceBasedLicensingEnabled": true,
+      "minimumOsVersion": "15.1",
+      "releaseDate": "2025-11-16T08:00:00Z",
+      "trackId": 6754081947,
+      "trackName": "PETEMO - ペテモの公式アプリ",
       "currentVersionReleaseDate": "2026-11-04T17:16:51Z",
       "version": "v3.2.0",
       "wrapperType": "software",
       "currency": "JPY",
       "description": "【\"うちの子\"との毎日を、もっとたのしく、もっと便利に。】\n\n会員証・クーポン・ポイント・お得な情報も、全部まとめてこのアプリに。\n\"うちの子\"のための\"ちょっと嬉しい\"がここにはあります。\n\n---\n\n◆ペットとの暮らしに寄り添う便利な機能◆\n\n▼会員証もクーポンもひとつに\nアプリ限定クーポンを定期的に配信。\nフード・おやつ・ケア用品など、うちの子に必要なものをおトクに購入できます。\n\n▼イオンペットポイントが貯まる\nお会計時にバーコードをかざすだけで、ポイントがしっかりたまる。\nカードを忘れても、もう大丈夫。\n\n▼アプリだけの 特別なごほうびも\nあなたに合わせたクーポンに加えて、うちの子のお誕生日やお迎え日には、\nアプリからおトクなお知らせが届きます。\n\n▼「ペテモくじ」でポイントが当たる\nお店に行くたび、 ちょっと嬉しい体験を。\nその場で引けるくじで、最大10ポイントが当たります。\n\n▼ うちの子が主役になる\"うちの子専用\"会員証\n名前や誕生日を登録してあの子だけのデジタル会員証を。\n多頭飼いでも安心して使えます。\n\n▼ アプリでしか手に入らない特別なポイントも\nアンケートやミッションに答えるだけで、ポイントがどんどん貯まる。\nアプリだけのおトクを、お見逃しなく。\n\n---\n\n◆ アプリのはじめ方◆ \n\n1. アプリをダウンロード  \n2. 新規登録／ログイン\n3. お会計時に提示\n\n※イオンペットWAON会員カードをお持ちの場合は、カード番号・生年月日でログインいただけます\n※ イオンペットWAON会員カードをお持ちでない方も、ゲスト会員としてすぐにアプリの利用を始められます。",
-      "bundleId": "com.petemo.app",
-      "userRatingCount": 23629,
+      "contentAdvisoryRating": "17+",
+      "averageUserRating": 4.35789,
+      "trackCensoredName": "PETEMO - ペテモの公式アプリ",
+      "trackViewUrl": "https://apps.apple.com/jp/app/petemo-%E3%83%9A%E3%83%86%E3%83%A2%E3%81%AE%E5%85%AC%E5%BC%8F%E3%82%A2%E3%83%97%E3%83%AA/id6754081947?uo=4",
+      "userRatingCount": 23851,
       "country": "JPN"
     }
   ]

@@ -17,9 +17,9 @@
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/7a/de/317ade70-e263-53c5-946a-b5dee67327b2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "isGameCenterEnabled": false,
-      "artistViewUrl": "https://apps.apple.com/fr/developer/sarl-hamst/id1544937424?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/7a/de/317ade70-e263-53c5-946a-b5dee67327b2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/7a/de/317ade70-e263-53c5-946a-b5dee67327b2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -150,13 +150,15 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
       "advisories": [],
       "kind": "software",
-      "features": [
-        "iosUniversal"
-      ],
+      "artistViewUrl": "https://apps.apple.com/fr/developer/sarl-hamst/id1544937424?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/7a/de/317ade70-e263-53c5-946a-b5dee67327b2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/7a/de/317ade70-e263-53c5-946a-b5dee67327b2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
       "sellerUrl": "https://market.hamstouille.fr",
       "languageCodesISO2A": [
         "FR"
@@ -166,36 +168,36 @@
       "userRatingCountForCurrentVersion": 8,
       "trackContentRating": "17+",
       "averageUserRatingForCurrentVersion": 5,
-      "trackCensoredName": "Hamstouille Market",
-      "trackViewUrl": "https://apps.apple.com/fr/app/hamstouille-market/id6476108212?uo=4",
-      "averageUserRating": 5,
-      "contentAdvisoryRating": "17+",
-      "artistId": 1544937424,
-      "artistName": "SARL HAMST",
+      "currentVersionReleaseDate": "2026-02-09T08:06:42Z",
+      "releaseNotes": "Amélioration de l'expérience utilisateur",
       "genres": [
         "Utilitaires",
         "Forme et santé"
       ],
       "price": 4.99,
+      "releaseDate": "2024-11-15T08:00:00Z",
+      "artistId": 1544937424,
+      "artistName": "SARL HAMST",
       "bundleId": "fr.hamstouille.market",
-      "minimumOsVersion": "15.5",
       "trackId": 6476108212,
       "trackName": "Hamstouille Market",
+      "minimumOsVersion": "15.5",
       "genreIds": [
         "6002",
         "6013"
       ],
-      "sellerName": "HAMST",
-      "releaseDate": "2024-11-15T08:00:00Z",
       "primaryGenreName": "Utilities",
       "primaryGenreId": 6002,
+      "sellerName": "HAMST",
       "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-02-09T08:06:42Z",
-      "releaseNotes": "Amélioration de l'expérience utilisateur",
       "version": "1.0.1",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Analyse des produits bébé du supermarché ou de vente en ligne.\n\nCode couleur pour repérer facilement la qualité nutritionnelle des ingrédients contenus dans chaque produit analysé.\n\nPas de conflit d'intérêt ! Nous travaillons pour la santé des bébés.\nHamstouille est une équipe de nutritionnistes pédiatriques. \nAucun industriel ne peut influencer notre analyse.\n\nSuivez-nous sur Instagram pour des infos quotidiennes sur l'alimentation des bébés et des bambins :\nhttps://www.instagram.com/hamstouille_bebe\nhttps://www.instagram.com/hamstouille_bambin",
+      "trackCensoredName": "Hamstouille Market",
+      "trackViewUrl": "https://apps.apple.com/fr/app/hamstouille-market/id6476108212?uo=4",
+      "contentAdvisoryRating": "17+",
+      "averageUserRating": 5,
       "userRatingCount": 8,
       "country": "FRA"
     }

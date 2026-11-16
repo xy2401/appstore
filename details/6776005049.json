@@ -2,9 +2,6 @@
   "resultCount": 1,
   "results": [
     {
-      "artistViewUrl": "https://apps.apple.com/us/developer/security-app-llc/id6776005051?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/b0/59/02b059d1-5f18-e526-dc35-8fb510a62d44/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/b0/59/02b059d1-5f18-e526-dc35-8fb510a62d44/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
@@ -136,13 +133,12 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
       "advisories": [],
       "kind": "software",
-      "features": [
-        "iosUniversal"
-      ],
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d3/26/1d/d3261d26-035f-a0c6-3e23-e503bed4a297/Glacier_Browse_iPhone.jpg/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f6/fa/99/f6fa9988-9622-51d4-fea6-1decfdee8288/Glacier_Protected_iPhone.jpg/320x480bb.jpg",
@@ -154,34 +150,37 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/98/81/6e/98816ed8-8487-b923-6619-38787d2a4077/Glacier_Phone_iPad.jpg/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/b0/59/02b059d1-5f18-e526-dc35-8fb510a62d44/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
-      "averageUserRating": 4.21981,
-      "trackCensoredName": "Glacier App",
-      "trackViewUrl": "https://apps.apple.com/us/app/glacier-app/id6776005049?uo=4",
-      "contentAdvisoryRating": "4+",
-      "price": 0,
-      "genres": [
-        "Productivity"
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/ca/9a/8dca9a90-0dfa-8e9c-59d0-ac10c09f5c96/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/us/developer/security-app-llc/id6776005051?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/ca/9a/8dca9a90-0dfa-8e9c-59d0-ac10c09f5c96/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/ca/9a/8dca9a90-0dfa-8e9c-59d0-ac10c09f5c96/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.jpg",
+      "features": [
+        "iosUniversal"
       ],
       "artistId": 6776005051,
       "artistName": "Security App LLC",
+      "genres": [
+        "Productivity"
+      ],
+      "price": 0,
       "minimumOsVersion": "18.0",
+      "bundleId": "com.theglacierapp.Glacier",
+      "trackId": 6776005049,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "genreIds": [
+        "6007"
+      ],
       "primaryGenreName": "Productivity",
       "primaryGenreId": 6007,
-      "trackId": 6776005049,
-      "trackName": "Glacier App",
       "sellerName": "Security App LLC",
-      "isVppDeviceBasedLicensingEnabled": true,
       "releaseDate": "2026-07-13T07:00:00Z",
-      "currentVersionReleaseDate": "2026-11-06T00:26:59Z",
-      "releaseNotes": "When your App Store subscription belongs to a different Glacier account login, Glacier now explains it clearly and helps you switch to the right account. We’ve also applied security updates to the app’s networking.\n\nThanks for the great feedback!",
-      "version": "1.3.1",
+      "releaseNotes": "Fixed an issue that could lock you out of your working account when your iPhone’s Apple ID was tied to a different Glacier subscription, including website accounts. Also includes security hardening for new account sign-in, for links opened from other apps, and for VPN setup.\n\nThanks for the great feedback!",
+      "version": "1.3.2",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Glacier brings intelligence-grade mobile security to your iPhone in a simple, consumer-friendly app. Glacier is a paid app and requires a Monthly or Yearly subscription to use.\n\nProtect your connection with VPN and DNS security, block trackers and intrusive ads, and get real-time alerts when your device or network may be at risk. Glacier is built to help you browse privately, reduce exposure to malicious content, and stay in control of your communications without adding friction to daily life.\n\nGlacier is designed with privacy by default. Your personal data stays on your device, and Glacier does not read your messages, access your contacts, or monitor your app usage.\n\nFeatures:\n• VPN and DNS protection for safer private browsing\n• Blocks many trackers, ad networks, and invasive data collection services\n• Real-time alerts and clear recommendations when threats are detected\n• Threat detection for tampering, jailbroken devices, emulation, and active hacking tools\n• Secure calling using different phone numbers to keep your personal number safe (requires an additional phone line subscription)\n• Built by a U.S.-based security team with experience protecting high-risk mobile environments\n\nGlacier helps protect your device and communications on Wi-Fi, cellular, and while traveling.\n\nSUBSCRIPTION & IN-APP PURCHASES\nGlacier requires a subscription to use the app. Phone-line features are optional add-ons that require a separate purchase on top of the base subscription.\n\nBase subscription (required):\n• Glacier Monthly - $14.99 per month\n• Glacier Yearly - $159.99 per year\n\nSecure phone lines (optional add-ons, auto-renewing):\n• 1 Line - $4.99 per month\n• 2 Lines - $8.99 per month\n• 5 Lines - $19.99 per month\n\nOne-time purchase (optional):\n• Extra Phone Number - $2.99 to change your number again if you've already burned it once this month\n\nAll prices are in U.S. dollars and may vary by region. Your App Store account is charged at confirmation of purchase. Subscriptions renew automatically at the same price unless canceled at least 24 hours before the end of the current period. Manage or cancel your subscription in your App Store account settings.\n\nSecure calling and replacement phone numbers are not available until the corresponding subscription or in-app purchase is made. \n\nPrivacy Policy: https://www.theglacierapp.com/privacy\nTerms of Use: https://www.theglacierapp.com/terms",
-      "bundleId": "com.theglacierapp.Glacier",
-      "averageUserRatingForCurrentVersion": 4.21981,
-      "sellerUrl": "https://theglacierapp.com",
+      "averageUserRating": 4.23404,
+      "averageUserRatingForCurrentVersion": 4.23404,
       "languageCodesISO2A": [
         "DA",
         "NL",
@@ -192,12 +191,15 @@
       ],
       "fileSizeBytes": "69660672",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 323,
+      "userRatingCountForCurrentVersion": 329,
       "trackContentRating": "4+",
-      "genreIds": [
-        "6007"
-      ],
-      "userRatingCount": 323,
+      "sellerUrl": "https://theglacierapp.com",
+      "trackCensoredName": "Glacier App",
+      "trackViewUrl": "https://apps.apple.com/us/app/glacier-app/id6776005049?uo=4",
+      "contentAdvisoryRating": "4+",
+      "currentVersionReleaseDate": "2026-11-11T16:04:04Z",
+      "trackName": "Glacier App",
+      "userRatingCount": 329,
       "country": "USA"
     }
   ]

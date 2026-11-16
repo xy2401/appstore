@@ -2,6 +2,7 @@
   "resultCount": 1,
   "results": [
     {
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/78/fd/7d/78fd7d66-9a36-b90d-2b96-f2e8b0159061/6e2d7959-9e1a-4940-ae6c-312b54e9abf1_Simulator_iPhone_8_Plus_5.5in_Light_A.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/4a/1d/a8/4a1da8ef-1af3-4989-befd-68f09bbbd99f/8e554c94-5071-4ad6-ba24-8936abc466b3_Simulator_iPhone_8_Plus_5.5in_Light_B.png/392x696bb.png",
@@ -15,10 +16,12 @@
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/e8/e1/2de8e19a-7475-4b1c-627d-cf5e11019d55/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
       "artistViewUrl": "https://apps.apple.com/fr/developer/%E8%90%8C-%E4%BA%8E/id1591520621?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/e8/e1/2de8e19a-7475-4b1c-627d-cf5e11019d55/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/e8/e1/2de8e19a-7475-4b1c-627d-cf5e11019d55/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+      "advisories": [],
+      "kind": "software",
+      "features": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -147,11 +150,10 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
-      "advisories": [],
-      "kind": "software",
-      "features": [],
       "sellerUrl": "https://mengytheworker.github.io/app.html",
       "languageCodesISO2A": [
         "EN"
@@ -160,35 +162,35 @@
       "formattedPrice": "0,99 €",
       "userRatingCountForCurrentVersion": 0,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 0,
       "trackCensoredName": "Radio Pulsars",
       "trackViewUrl": "https://apps.apple.com/fr/app/radio-pulsars/id1638448107?uo=4",
-      "averageUserRating": 0,
       "contentAdvisoryRating": "4+",
+      "averageUserRating": 0,
+      "averageUserRatingForCurrentVersion": 0,
+      "price": 0.99,
       "artistId": 1591520621,
       "artistName": "萌 于",
-      "genres": [
-        "Éducation"
-      ],
-      "price": 0.99,
       "bundleId": "Meng-Yu.Pulsars",
-      "minimumOsVersion": "15.2",
-      "trackId": 1638448107,
-      "trackName": "Radio Pulsars",
       "genreIds": [
         "6017"
       ],
-      "sellerName": "萌 于",
       "releaseDate": "2022-09-18T07:00:00Z",
+      "isVppDeviceBasedLicensingEnabled": true,
       "primaryGenreName": "Education",
       "primaryGenreId": 6017,
-      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-08-21T22:15:03Z",
       "releaseNotes": "The ‘sight’ now is steady, very steady!",
       "version": "2.2.0",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Embark on a celestial journey with Radio Pulsars, an app that transforms your iPhone into a virtual radio telescope for experiencing the captivating world of pulsar astronomy. Pulsars, fascinating remnants of massive stars, are rapidly spinning neutron stars exhibiting incredibly precise periods. Acting as cosmic ‘lighthouses’, pulsars emanate beams of electromagnetic radiation due to ultra-high magnetic fields at their poles.\n\nIn Radio Pulsars, you’ll dive into authentic pulsar observations, understanding the complexities of these astronomical phenomena. Pulsars, with their distinct pulse profiles, are like fingerprints of the universe. The app showcases 85 pulsars, including 26 glitching ones, providing a diverse collection of cosmic wonders.\n\nExplore iconic pulsars like PSR J1921+2153, the first detected in 1967, PSR J0534+2200 located in the Crab Nebula, and PSR J0835-4510, the brightest known pulsar. Witness the stability of PSR J0437-4715 and the uniqueness of PSR J0332+5434, the brightest pulsar in the northern sky. Marvel at the extraordinary double pulsar system, PSR J0737-3039, and the pulsar-neutron star duo, PSR J1915+1606.\n\nRadio Pulsars offers a comprehensive exploration for these cosmic marvels, providing an engaging and educational experience for astronomy enthusiasts. Immerse yourself in the captivating world of pulsar observation and unravel the secrets of the universe!\n\nPlease note Radio Pulsars now only supports iPhone and does not support iPad.",
+      "trackId": 1638448107,
+      "trackName": "Radio Pulsars",
+      "sellerName": "萌 于",
+      "genres": [
+        "Éducation"
+      ],
+      "minimumOsVersion": "15.2",
       "userRatingCount": 0,
       "country": "FRA"
     }

@@ -2,8 +2,7 @@
   "resultCount": 1,
   "results": [
     {
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/26/f2/da26f2b0-6cd5-a568-bac2-85dc3ad611b8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/03/96/b20396f0-8e1b-7d9e-4f7a-051b45674595/01-tin.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/01/bc/dc/01bcdc8a-610c-3ed4-7456-4c2708e3763b/02-oil.png/320x480bb.jpg",
@@ -12,6 +11,7 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e4/5f/08/e45f0808-0615-db50-f847-8bdec6225011/05-pigments.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9a/69/83/9a69839b-b3cd-9b6b-a8b8-c87ef63b2ffd/06-no-undo.png/320x480bb.jpg"
       ],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/26/f2/da26f2b0-6cd5-a568-bac2-85dc3ad611b8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/92/d5/bc92d5d4-f8a5-0e9a-80af-2e4156341a17/01-tin.png/360x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/41/af/be/41afbe3e-c9b3-a92a-edec-7c1f1ae54c90/02-oil.png/360x480bb.jpg",
@@ -20,11 +20,10 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8d/93/3b/8d933b15-d5fa-c91a-84fc-06c0ee6b2c11/05-pigments.png/360x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4f/85/65/4f856594-4bcf-8c35-2503-9d913a545282/06-no-undo.png/360x480bb.jpg"
       ],
-      "isGameCenterEnabled": false,
+      "appletvScreenshotUrls": [],
       "features": [
         "iosUniversal"
       ],
-      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -155,12 +154,17 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
+      "advisories": [],
       "kind": "software",
       "artistViewUrl": "https://apps.apple.com/us/developer/high-line-labs-llc/id919557120?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/26/f2/da26f2b0-6cd5-a568-bac2-85dc3ad611b8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/26/f2/da26f2b0-6cd5-a568-bac2-85dc3ad611b8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+      "averageUserRatingForCurrentVersion": 5,
+      "sellerUrl": "https://altopaint.app/",
       "languageCodesISO2A": [
         "EN",
         "FR",
@@ -178,9 +182,6 @@
       "formattedPrice": "$5.99",
       "userRatingCountForCurrentVersion": 3,
       "trackContentRating": "4+",
-      "sellerUrl": "https://altopaint.app/",
-      "releaseNotes": "Watercolor joins oil and gouache. Start a new watercolor painting from the gallery or the More menu: transparent washes spread through wet paper, dry with soft, darker edges, and glaze over dry paint. Tap the brush in hand to rinse it.\n\nBrushes now come in small, medium and large. Hold a brush to choose its size.\n\nAlso new: Save Image in the share menu, and fixes for a crash and a hang at launch on some iPads.",
-      "averageUserRatingForCurrentVersion": 5,
       "artistId": 919557120,
       "artistName": "High Line Labs LLC",
       "genres": [
@@ -188,28 +189,29 @@
         "Entertainment"
       ],
       "price": 5.99,
-      "bundleId": "com.highlinelabsllc.AltoPaint",
-      "primaryGenreName": "Graphics & Design",
-      "primaryGenreId": 6027,
-      "sellerName": "High Line Labs LLC",
       "minimumOsVersion": "26.0",
+      "releaseDate": "2026-10-23T07:00:00Z",
       "genreIds": [
         "6027",
         "6016"
       ],
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseDate": "2026-10-23T07:00:00Z",
-      "currentVersionReleaseDate": "2026-11-06T01:30:00Z",
-      "trackId": 6825181273,
       "trackName": "AltoPaint: Oil & Watercolor",
+      "trackId": 6825181273,
+      "sellerName": "High Line Labs LLC",
+      "primaryGenreName": "Graphics & Design",
+      "primaryGenreId": 6027,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-11-06T01:30:00Z",
       "version": "1.1",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Curiously small paintings, in a paint tin that fits in your pocket.\n\nOpen the lid and there's a tiny canvas inside, with twelve pigments and a mixing tray below. AltoPaint's paint behaves like paint: colors mix the way real pigments do, the brush runs dry, wet strokes drag into each other, and thick paint catches the light.\n\nTHERE'S NO UNDO\nJust like real paint. Paint over it, scrape it back with the knife, or let it set and work on top. Nothing is ever ruined; it just becomes part of the painting.\n\nTWELVE REAL PIGMENTS\nTitanium white, lemon yellow, cadmium yellow, yellow ochre, cadmium red, quinacridone magenta, ultramarine blue, phthalo blue, viridian, burnt sienna, raw umber and Payne's grey. Colors are mixed from each pigment's real reflectance across the spectrum, not from RGB, so blue and yellow make a true green and tints come out clean.\n\nOIL, WATERCOLOR OR GOUACHE\nStart each painting in oil on a warm toned canvas, glossy and slow to dry; in watercolor on white paper, with transparent washes that spread through wet paper and dry with soft, darker edges; or in gouache on white paper, matte and quick to set.\n\nTHREE TOOLS\nThe round brush for everyday marks, the flat for broad strokes with a chisel edge, and the palette knife for flat planes, scraping and smearing. Hold a brush to choose small, medium or large, and pinch to zoom in for finer marks.\n\nREADY FOR APPLE PENCIL\nPressure, tilt and azimuth all shape the stroke. Lay the Pencil over to scumble with the side of the brush, and double-tap to switch to the knife.\n\nA GALLERY IN THE TIN\nEvery painting is saved as you go. Share your favorites as images.\n\nNo account, no ads, no subscription. Pay once and it's yours.\n\nMade in New York by High Line Labs.",
       "trackCensoredName": "AltoPaint: Oil & Watercolor",
       "trackViewUrl": "https://apps.apple.com/us/app/altopaint-oil-watercolor/id6825181273?uo=4",
-      "contentAdvisoryRating": "4+",
       "averageUserRating": 5,
+      "contentAdvisoryRating": "4+",
+      "bundleId": "com.highlinelabsllc.AltoPaint",
+      "releaseNotes": "Watercolor joins oil and gouache. Start a new watercolor painting from the gallery or the More menu: transparent washes spread through wet paper, dry with soft, darker edges, and glaze over dry paint. Tap the brush in hand to rinse it.\n\nBrushes now come in small, medium and large. Hold a brush to choose its size.\n\nAlso new: Save Image in the share menu, and fixes for a crash and a hang at launch on some iPads.",
       "userRatingCount": 3,
       "country": "USA"
     }

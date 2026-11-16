@@ -186,15 +186,6 @@
       "userRatingCount": 1506940
     },
     {
-      "artistViewUrl": "https://apps.apple.com/us/developer/chime-financial-inc/id836215272?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/30/e1/7b30e1d9-7be8-fa4b-22fb-c91593ac7d6a/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/30/e1/7b30e1d9-7be8-fa4b-22fb-c91593ac7d6a/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.jpg",
-      "isGameCenterEnabled": false,
-      "features": [],
-      "advisories": [
-        "Infrequent/Mild Contests"
-      ],
-      "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d5/02/c3/d502c3e8-3fab-aac5-a1b4-db7e4df40f0c/1.jpg/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3a/fb/86/3afb86b0-8a4a-4041-fc0e-480aa175caa9/Variant7.jpg/320x480bb.jpg",
@@ -207,7 +198,16 @@
       ],
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/30/e1/7b30e1d9-7be8-fa4b-22fb-c91593ac7d6a/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/2b/6d/b02b6d68-6bf6-c619-a337-7a19b41bcd3a/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
+      "isGameCenterEnabled": false,
+      "advisories": [
+        "Infrequent/Mild Contests"
+      ],
+      "kind": "software",
+      "features": [],
+      "artistViewUrl": "https://apps.apple.com/us/developer/chime-financial-inc/id836215272?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/2b/6d/b02b6d68-6bf6-c619-a337-7a19b41bcd3a/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/2b/6d/b02b6d68-6bf6-c619-a337-7a19b41bcd3a/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -338,13 +338,19 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
-      "averageUserRating": 4.82587,
-      "trackCensoredName": "Chime® – Mobile Banking",
-      "trackViewUrl": "https://apps.apple.com/us/app/chime-mobile-banking/id836215269?uo=4",
-      "contentAdvisoryRating": "4+",
-      "releaseNotes": "Congrats, you got an extra hour of sleep this weekend. Unless you have kids, pets, or a body clock that refuses to cooperate. Unfortunately, we can't fix any of those things. But we can fix bugs and make performance improvements to your Chime app. So hit update and enjoy something that's actually running on schedule.",
+      "sellerUrl": "http://www.chime.com/",
+      "averageUserRatingForCurrentVersion": 4.82599,
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "fileSizeBytes": "291935232",
+      "formattedPrice": "Free",
+      "userRatingCountForCurrentVersion": 1659991,
+      "trackContentRating": "4+",
       "artistId": 836215272,
       "artistName": "Chime Financial, Inc.",
       "genres": [
@@ -352,34 +358,30 @@
         "Lifestyle"
       ],
       "price": 0,
-      "bundleId": "com.1debit.ChimeProdApp",
-      "releaseDate": "2014-03-16T05:21:25Z",
-      "trackName": "Chime® – Mobile Banking",
-      "trackId": 836215269,
+      "primaryGenreName": "Finance",
+      "primaryGenreId": 6015,
       "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "Chime Financial, Inc.",
+      "minimumOsVersion": "16.4",
       "genreIds": [
         "6015",
         "6012"
       ],
-      "currentVersionReleaseDate": "2026-11-03T18:03:43Z",
-      "version": "5.351.0",
+      "releaseDate": "2014-03-16T05:21:25Z",
+      "currentVersionReleaseDate": "2026-11-10T19:59:56Z",
+      "releaseNotes": "Thanksgiving is right around the corner, which means it's almost time to explain to your relatives what you do for work again. Personally, I write app update notes, which is a lot harder to explain than you'd think. Basically, our engineers fix bugs, improve performance, and I come up with increasingly weird ways to tell you about it. Speaking of which, tap update. Nailed it.",
+      "version": "5.352.0",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Join America’s #1 Choice for Banking™ and the millions who already bank fee-free.⁵ With Chime, your money works harder from the moment it hits your account.",
-      "languageCodesISO2A": [
-        "EN"
-      ],
-      "fileSizeBytes": "294069248",
-      "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 1652028,
-      "trackContentRating": "4+",
-      "sellerUrl": "http://www.chime.com/",
-      "averageUserRatingForCurrentVersion": 4.82587,
-      "minimumOsVersion": "16.4",
-      "primaryGenreName": "Finance",
-      "primaryGenreId": 6015,
-      "sellerName": "Chime Financial, Inc.",
-      "userRatingCount": 1652028,
+      "bundleId": "com.1debit.ChimeProdApp",
+      "averageUserRating": 4.82599,
+      "trackCensoredName": "Chime® – Mobile Banking",
+      "trackViewUrl": "https://apps.apple.com/us/app/chime-mobile-banking/id836215269?uo=4",
+      "contentAdvisoryRating": "4+",
+      "trackId": 836215269,
+      "trackName": "Chime® – Mobile Banking",
+      "userRatingCount": 1659991,
       "country": "USA"
     }
   ]

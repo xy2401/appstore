@@ -2,6 +2,7 @@
   "resultCount": 1,
   "results": [
     {
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ca/22/d4/ca22d44b-abdf-89fc-b1f7-81dfb4ac7fc4/01-accueil-jour.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c2/a6/9c/c2a69c04-523f-c1ba-0bef-449c1417bcdb/08-conduite-cumulee.png/320x480bb.jpg",
@@ -12,11 +13,13 @@
       ],
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/81/7f/b5817f49-5c68-326d-14cb-a3cabdda49d0/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/81/7f/b5817f49-5c68-326d-14cb-a3cabdda49d0/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/81/7f/b5817f49-5c68-326d-14cb-a3cabdda49d0/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/97/05/0a970581-8b00-22e1-9d87-ca6dbe7f2dc6/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "artistViewUrl": "https://apps.apple.com/fr/developer/remi-megret/id6811640062?uo=4",
-      "isGameCenterEnabled": false,
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/97/05/0a970581-8b00-22e1-9d87-ca6dbe7f2dc6/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/97/05/0a970581-8b00-22e1-9d87-ca6dbe7f2dc6/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
+      "advisories": [],
+      "kind": "software",
+      "features": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -147,48 +150,47 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
-      "advisories": [],
-      "kind": "software",
-      "features": [],
-      "averageUserRatingForCurrentVersion": 0,
-      "averageUserRating": 0,
-      "trackCensoredName": "Tachyfy",
       "languageCodesISO2A": [
         "EN"
       ],
-      "fileSizeBytes": "39364608",
+      "fileSizeBytes": "36242432",
       "formattedPrice": "5,99 €",
-      "contentAdvisoryRating": "4+",
-      "userRatingCountForCurrentVersion": 0,
-      "trackViewUrl": "https://apps.apple.com/fr/app/tachyfy/id6811640060?uo=4",
+      "userRatingCountForCurrentVersion": 3,
       "trackContentRating": "4+",
-      "genres": [
-        "Utilitaires"
-      ],
+      "trackCensoredName": "Tachyfy",
+      "trackViewUrl": "https://apps.apple.com/fr/app/tachyfy/id6811640060?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 3.66667,
+      "averageUserRatingForCurrentVersion": 3.66667,
+      "price": 5.99,
       "artistId": 6811640062,
       "artistName": "Remi Megret",
-      "price": 5.99,
-      "minimumOsVersion": "16.0",
+      "bundleId": "com.tachyfy.mobile",
       "genreIds": [
         "6002"
       ],
-      "trackId": 6811640060,
-      "trackName": "Tachyfy",
+      "releaseDate": "2026-11-03T08:00:00Z",
+      "isVppDeviceBasedLicensingEnabled": true,
       "primaryGenreName": "Utilities",
       "primaryGenreId": 6002,
-      "sellerName": "Remi Megret",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-11-06T01:22:03Z",
-      "releaseNotes": "Ajout d’un diagnostic exportable sur iPhone et amélioration de la gestion des erreurs du lecteur de carte.",
-      "version": "1.0.7",
+      "currentVersionReleaseDate": "2026-11-15T00:30:24Z",
+      "releaseNotes": "Correction de l’affichage des activités lorsque la carte conducteur est retirée. Après relecture de la carte, les périodes non renseignées sont signalées séparément et les repos saisis manuellement restent visibles.",
+      "version": "1.0.8",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Tachyfy lit votre carte conducteur de chronotachygraphe directement depuis votre iPhone, avec un lecteur de carte branché sur l'adaptateur. Plus besoin d'ordinateur pour savoir où vous en êtes.\n\nVOS TEMPS EN UN COUP D'ŒIL\nConduite, travail, disponibilité et repos de la journée en cours. Temps restant avant la prochaine pause obligatoire. Amplitude, semaine, quinzaine : les compteurs qui comptent vraiment pour un conducteur.\n\nINFRACTIONS DÉTECTÉES\nLes dépassements sont relevés automatiquement au fil de la lecture, avec la règle concernée et le moment exact où elle a été franchie.\n\nSALAIRE ESTIMÉ\nHeures normales, heures supplémentaires, coefficients : une estimation de votre paie à partir de vos activités réelles, à comparer avec votre bulletin.\n\nCARTE DES LIEUX\nLes lieux de début et de fin de journée et les positions enregistrées par le tachygraphe, replacés sur une carte.\n\nRÉSUMÉ MENSUEL\nUn récapitulatif exportable en PDF ou en tableur, à garder ou à transmettre.\n\nWIDGET\nVos compteurs de conduite sur l'écran d'accueil, sans ouvrir l'application.\n\nSYNCHRONISATION\nVos activités se synchronisent avec Tachyfy sur votre ordinateur, dans les deux sens. Les fichiers sont chiffrés sur votre appareil avant leur envoi au serveur.\n\nMATÉRIEL NÉCESSAIRE\nLa lecture de carte demande un lecteur de carte compatible PC/SC et un adaptateur pour le connecter à votre iPhone. Sans ce matériel, l'application reste utilisable pour consulter les activités synchronisées depuis Tachyfy sur ordinateur.\n\nACHAT UNIQUE\nPas d'abonnement. Vous payez l'application une fois.\n\nTachyfy est développé en France par un indépendant, pour des conducteurs qui veulent comprendre leurs heures sans y passer la soirée.",
-      "bundleId": "com.tachyfy.mobile",
-      "releaseDate": "2026-11-03T08:00:00Z",
-      "userRatingCount": 0,
+      "trackId": 6811640060,
+      "trackName": "Tachyfy",
+      "sellerName": "Remi Megret",
+      "genres": [
+        "Utilitaires"
+      ],
+      "minimumOsVersion": "16.0",
+      "userRatingCount": 3,
       "country": "FRA"
     }
   ]

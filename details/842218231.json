@@ -329,7 +329,12 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
+      ],
+      "features": [
+        "iosUniversal"
       ],
       "advisories": [],
       "kind": "software",
@@ -352,27 +357,28 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/37/0c/7e370c54-90ea-3dee-709d-add79b371332/AppIcon-0-0-1x_U007emarketing-0-4-85-220.png/512x512bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
-      "price": 300,
+      "releaseNotes": "- スケール選択画面とカラーピッカー画面が、端末のライト／ダークモードに対応しました。",
+      "artistId": 832421013,
+      "artistName": "Tadao Yamaoka",
       "genres": [
         "ミュージック",
         "教育"
       ],
-      "artistId": 832421013,
-      "artistName": "Tadao Yamaoka",
+      "price": 300,
+      "bundleId": "com.TadaoYamaoka.VocalPitchMonitor",
+      "releaseDate": "2014-03-28T13:28:43Z",
       "minimumOsVersion": "17.0",
       "genreIds": [
         "6011",
         "6017"
       ],
-      "releaseDate": "2014-03-28T13:28:43Z",
+      "trackId": 842218231,
+      "trackName": "VocalPitchMonitor",
       "isVppDeviceBasedLicensingEnabled": true,
       "primaryGenreName": "Music",
       "primaryGenreId": 6011,
+      "sellerName": "Tadao Yamaoka",
       "currentVersionReleaseDate": "2026-09-24T05:53:16Z",
-      "releaseNotes": "- スケール選択画面とカラーピッカー画面が、端末のライト／ダークモードに対応しました。",
       "version": "1.3.2",
       "wrapperType": "software",
       "currency": "JPY",
@@ -381,6 +387,7 @@
       "trackViewUrl": "https://apps.apple.com/jp/app/vocalpitchmonitor/id842218231?uo=4",
       "contentAdvisoryRating": "4+",
       "averageUserRating": 3.38462,
+      "averageUserRatingForCurrentVersion": 3.38462,
       "languageCodesISO2A": [
         "EN",
         "JA"
@@ -389,11 +396,6 @@
       "formattedPrice": "¥300",
       "userRatingCountForCurrentVersion": 26,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 3.38462,
-      "bundleId": "com.TadaoYamaoka.VocalPitchMonitor",
-      "trackId": 842218231,
-      "trackName": "VocalPitchMonitor",
-      "sellerName": "Tadao Yamaoka",
       "userRatingCount": 26,
       "country": "JPN"
     },

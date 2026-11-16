@@ -331,7 +331,12 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
+      ],
+      "features": [
+        "iosUniversal"
       ],
       "advisories": [],
       "kind": "software",
@@ -355,27 +360,28 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/62/41/8c/62418c2d-48e8-94ee-b4a3-2a49d74dd888/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
-      "price": 150,
+      "releaseNotes": "- iOS14に対応しました。\n- ステレオグラムを追加しました。",
+      "artistId": 444917150,
+      "artistName": "koikoi.biz",
       "genres": [
         "ヘルスケア／フィットネス",
         "メディカル"
       ],
-      "artistId": 444917150,
-      "artistName": "koikoi.biz",
+      "price": 150,
+      "bundleId": "biz.koikoi.sightrecover3d",
+      "releaseDate": "2011-08-06T07:00:00Z",
       "minimumOsVersion": "12.0",
       "genreIds": [
         "6013",
         "6020"
       ],
-      "releaseDate": "2011-08-06T07:00:00Z",
+      "trackId": 453629018,
+      "trackName": "3D視力回復",
       "isVppDeviceBasedLicensingEnabled": true,
       "primaryGenreName": "Health & Fitness",
       "primaryGenreId": 6013,
+      "sellerName": "Katsuhisa Koike",
       "currentVersionReleaseDate": "2020-11-11T15:42:18Z",
-      "releaseNotes": "- iOS14に対応しました。\n- ステレオグラムを追加しました。",
       "version": "3.24",
       "wrapperType": "software",
       "currency": "JPY",
@@ -383,22 +389,18 @@
       "trackCensoredName": "3D視力回復",
       "trackViewUrl": "https://apps.apple.com/jp/app/3d%E8%A6%96%E5%8A%9B%E5%9B%9E%E5%BE%A9/id453629018?uo=4",
       "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.62413,
+      "averageUserRating": 4.62442,
+      "averageUserRatingForCurrentVersion": 4.62442,
+      "sellerUrl": "http://www.koikoi.biz/3DSightRecover/",
       "languageCodesISO2A": [
         "EN",
         "JA"
       ],
       "fileSizeBytes": "36311040",
       "formattedPrice": "¥150",
-      "userRatingCountForCurrentVersion": 2602,
+      "userRatingCountForCurrentVersion": 2604,
       "trackContentRating": "4+",
-      "sellerUrl": "http://www.koikoi.biz/3DSightRecover/",
-      "averageUserRatingForCurrentVersion": 4.62413,
-      "bundleId": "biz.koikoi.sightrecover3d",
-      "trackId": 453629018,
-      "trackName": "3D視力回復",
-      "sellerName": "Katsuhisa Koike",
-      "userRatingCount": 2602,
+      "userRatingCount": 2604,
       "country": "JPN"
     }
   ]

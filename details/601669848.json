@@ -326,7 +326,12 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
+      ],
+      "features": [
+        "iosUniversal"
       ],
       "advisories": [],
       "kind": "software",
@@ -347,27 +352,28 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/78/2c/3d782cfa-4ac1-8d8c-0db5-9dcfd00134c2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
-      "price": 1300,
+      "releaseNotes": "・追加例文の認証がうまくいかない問題を修正しました\n・チェックが消える問題を修正しました\n・スワイプが正常に動作しない問題を修正しました",
+      "artistId": 443332140,
+      "artistName": "Beret Publishing Co. INC",
       "genres": [
         "教育",
         "ブック"
       ],
-      "artistId": 443332140,
-      "artistName": "Beret Publishing Co. INC",
+      "price": 1300,
+      "bundleId": "jp.co.beret.EngSuraSura",
+      "releaseDate": "2013-03-15T12:24:08Z",
       "minimumOsVersion": "14.5",
       "genreIds": [
         "6017",
         "6018"
       ],
-      "releaseDate": "2013-03-15T12:24:08Z",
+      "trackId": 601669848,
+      "trackName": "スラスラ話すための瞬間英作文シャッフルトレーニング",
       "isVppDeviceBasedLicensingEnabled": true,
       "primaryGenreName": "Education",
       "primaryGenreId": 6017,
+      "sellerName": "Beret Publishing Co. INC",
       "currentVersionReleaseDate": "2026-05-13T16:20:34Z",
-      "releaseNotes": "・追加例文の認証がうまくいかない問題を修正しました\n・チェックが消える問題を修正しました\n・スワイプが正常に動作しない問題を修正しました",
       "version": "3.0.6",
       "wrapperType": "software",
       "currency": "JPY",
@@ -376,6 +382,7 @@
       "trackViewUrl": "https://apps.apple.com/jp/app/%E3%82%B9%E3%83%A9%E3%82%B9%E3%83%A9%E8%A9%B1%E3%81%99%E3%81%9F%E3%82%81%E3%81%AE%E7%9E%AC%E9%96%93%E8%8B%B1%E4%BD%9C%E6%96%87%E3%82%B7%E3%83%A3%E3%83%83%E3%83%95%E3%83%AB%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0/id601669848?uo=4",
       "contentAdvisoryRating": "4+",
       "averageUserRating": 3.19403,
+      "averageUserRatingForCurrentVersion": 3.19403,
       "languageCodesISO2A": [
         "EN"
       ],
@@ -383,11 +390,6 @@
       "formattedPrice": "¥1,300",
       "userRatingCountForCurrentVersion": 67,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 3.19403,
-      "bundleId": "jp.co.beret.EngSuraSura",
-      "trackId": 601669848,
-      "trackName": "スラスラ話すための瞬間英作文シャッフルトレーニング",
-      "sellerName": "Beret Publishing Co. INC",
       "userRatingCount": 67,
       "country": "JPN"
     }

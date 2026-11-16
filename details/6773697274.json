@@ -2,13 +2,13 @@
   "resultCount": 1,
   "results": [
     {
+      "formattedPrice": "¥800",
       "artistIds": [
         750876950,
         945289002,
         1064400673
       ],
-      "artistId": 750876950,
-      "artistName": "One, あずま京太郎 & bose",
+      "price": 800,
       "genres": [
         "ファンタジー",
         "ブック",
@@ -17,18 +17,10 @@
         "アクション",
         "少年"
       ],
-      "price": 800,
-      "releaseDate": "2026-06-09T07:00:00Z",
-      "trackId": 6773697274,
+      "artistId": 750876950,
+      "artistName": "One, あずま京太郎 & bose",
       "trackName": "バーサス(7)",
-      "genreIds": [
-        "50000074",
-        "38",
-        "9026",
-        "10016",
-        "50000071",
-        "11337"
-      ],
+      "trackId": 6773697274,
       "kind": "ebook",
       "currency": "JPY",
       "description": "『魔勢界』人類の砦で起きた“天敵”同士の衝突にて、大転位魔法陣による避難を余儀なくされたゼイビィたち―――。<br />はぐれたハロゥ一行は、『巨人界』最強の人類と評される人物を仲間に引き入れるべく、パッキャの故郷“蜷局山”を目指し歩みを進めていた。<br />新たなる領域で、新“勇者”パーティーを待つものは―――。",
@@ -37,7 +29,15 @@
       "trackViewUrl": "https://books.apple.com/jp/book/%E3%83%90%E3%83%BC%E3%82%B5%E3%82%B9-7/id6773697274?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/35/fb/e5/35fbe58a-25e7-68a2-3dac-dc3e7f57a87d/BT000129322900700701900206.jpg/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/35/fb/e5/35fbe58a-25e7-68a2-3dac-dc3e7f57a87d/BT000129322900700701900206.jpg/100x100bb.jpg",
-      "formattedPrice": "¥800",
+      "releaseDate": "2026-06-09T07:00:00Z",
+      "genreIds": [
+        "50000074",
+        "38",
+        "9026",
+        "10016",
+        "50000071",
+        "11337"
+      ],
       "averageUserRating": 5,
       "userRatingCount": 19,
       "country": "JPN"

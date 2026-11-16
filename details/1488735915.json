@@ -2,11 +2,10 @@
   "resultCount": 1,
   "results": [
     {
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/73/2c/1c/732c1c21-1440-1ecc-04a9-4a43b43f0a80/AppIcon-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/73/2c/1c/732c1c21-1440-1ecc-04a9-4a43b43f0a80/AppIcon-1x_U007emarketing-0-7-0-85-220.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/fr/developer/mathieu-morgensztern/id1439918443?uo=4",
       "isGameCenterEnabled": false,
-      "advisories": [],
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "MacDesktop-MacDesktop",
         "iPhone5s-iPhone5s",
@@ -138,9 +137,15 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
+      "advisories": [],
       "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/fr/developer/mathieu-morgensztern/id1439918443?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/73/2c/1c/732c1c21-1440-1ecc-04a9-4a43b43f0a80/AppIcon-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/73/2c/1c/732c1c21-1440-1ecc-04a9-4a43b43f0a80/AppIcon-1x_U007emarketing-0-7-0-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/bc/c1/9b/bcc19b6b-d99a-0ed0-d398-33df5a301045/tns.czblfnhc.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/ed/31/55/ed3155a2-5ef9-6836-84be-f95def820373/tns.roxucnpd.png/392x696bb.png",
@@ -159,33 +164,32 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/73/2c/1c/732c1c21-1440-1ecc-04a9-4a43b43f0a80/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
-      "contentAdvisoryRating": "4+",
-      "trackCensoredName": "Webmii",
-      "trackViewUrl": "https://apps.apple.com/fr/app/webmii/id1488735915?uo=4",
-      "averageUserRating": 4.51999,
-      "releaseNotes": "Nouvelles langues : français et espagnol.",
+      "artistId": 1439918443,
+      "artistName": "Mathieu Morgensztern",
       "genres": [
         "Références"
       ],
       "price": 2.99,
+      "bundleId": "com.webmii.app",
+      "trackId": 1488735915,
+      "trackName": "Webmii",
+      "releaseNotes": "Nouvelles langues : français et espagnol.",
+      "releaseDate": "2019-11-21T08:00:00Z",
       "minimumOsVersion": "14.0",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2021-12-11T12:00:01Z",
-      "sellerName": "Mathieu Morgensztern",
       "genreIds": [
         "6006"
       ],
-      "releaseDate": "2019-11-21T08:00:00Z",
-      "trackId": 1488735915,
-      "trackName": "Webmii",
+      "primaryGenreName": "Reference",
+      "primaryGenreId": 6006,
+      "sellerName": "Mathieu Morgensztern",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2021-12-11T12:00:01Z",
       "version": "1.9",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Webmii est un moteur de recherche de personnes qui vous aide à trouver toutes les informations publiques sur n'importe quelle personne.\n\nLors de la recherche de personnes avec Webmii, vous découvrirez son score de visibilité.\n\nRecherchez des personnes directement dans votre liste de contacts et comparez votre score de visibilité avec celui de vos amis.\n\nAvec le widget Webmii, recherchez des personnes directement depuis l'écran d'accueil.",
-      "sellerUrl": "https://webmii.com",
+      "trackViewUrl": "https://apps.apple.com/fr/app/webmii/id1488735915?uo=4",
+      "contentAdvisoryRating": "4+",
       "languageCodesISO2A": [
         "EN",
         "FR",
@@ -195,12 +199,10 @@
       "formattedPrice": "2,99 €",
       "userRatingCountForCurrentVersion": 25,
       "trackContentRating": "4+",
-      "bundleId": "com.webmii.app",
+      "sellerUrl": "https://webmii.com",
+      "trackCensoredName": "Webmii",
+      "averageUserRating": 4.51999,
       "averageUserRatingForCurrentVersion": 4.51999,
-      "primaryGenreName": "Reference",
-      "primaryGenreId": 6006,
-      "artistId": 1439918443,
-      "artistName": "Mathieu Morgensztern",
       "userRatingCount": 25,
       "country": "FRA"
     }

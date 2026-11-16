@@ -2,6 +2,15 @@
   "resultCount": 3,
   "results": [
     {
+      "isGameCenterEnabled": false,
+      "artistViewUrl": "https://apps.apple.com/jp/developer/joseph-musselman/id6818844639?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/bb/52/6dbb52fa-c92f-2d6b-5976-b3d228129622/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/bb/52/6dbb52fa-c92f-2d6b-5976-b3d228129622/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
+      "advisories": [],
+      "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d0/15/de/d015deb4-945d-f675-624b-d65215dc6e1f/GLIMR_iphone63_1.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c4/31/c3/c431c3a9-38cc-bf08-c60f-ef27bcf2c3d6/GLIMR_iphone63_8.png/320x480bb.jpg",
@@ -19,11 +28,7 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e2/94/36/e294364f-9b3c-5e8f-c33a-38a827d3a1e4/GLIMR_ipad_8.png/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/bb/52/6dbb52fa-c92f-2d6b-5976-b3d228129622/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg",
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/bb/52/6dbb52fa-c92f-2d6b-5976-b3d228129622/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/bb/52/6dbb52fa-c92f-2d6b-5976-b3d228129622/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/jp/developer/joseph-musselman/id6818844639?uo=4",
-      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -154,24 +159,14 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
-      "advisories": [],
-      "kind": "software",
-      "features": [
-        "iosUniversal"
-      ],
-      "averageUserRatingForCurrentVersion": 4,
-      "sellerUrl": "https://ghostkickaudio.com",
-      "averageUserRating": 4,
       "trackCensoredName": "GLIMR: Strum Any Sound",
-      "languageCodesISO2A": [],
-      "fileSizeBytes": "34798592",
-      "formattedPrice": "¥800",
-      "contentAdvisoryRating": "4+",
-      "userRatingCountForCurrentVersion": 1,
       "trackViewUrl": "https://apps.apple.com/jp/app/glimr-strum-any-sound/id6818844637?uo=4",
-      "trackContentRating": "4+",
+      "averageUserRating": 4,
+      "contentAdvisoryRating": "4+",
       "artistId": 6818844639,
       "artistName": "Joseph Musselman",
       "genres": [
@@ -179,25 +174,32 @@
         "エンターテインメント"
       ],
       "price": 800,
-      "trackName": "GLIMR: Strum Any Sound",
-      "trackId": 6818844637,
+      "bundleId": "com.ghostkickaudio.glimr",
       "minimumOsVersion": "17.0",
       "primaryGenreName": "Music",
       "primaryGenreId": 6011,
-      "sellerName": "Joseph Musselman",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "genreIds": [
+        "6011",
+        "6016"
+      ],
       "releaseDate": "2026-10-12T07:00:00Z",
+      "sellerName": "Joseph Musselman",
       "currentVersionReleaseDate": "2026-11-06T14:18:43Z",
       "releaseNotes": "GLIMR comes to your DAW.\n\n• GLIMR is now an Audio Unit (AUv3) instrument. Load it in GarageBand or any AUv3 host and play the whole GLIMR screen right inside your song.\n• All your sounds come with it. Record or edit a sample in the app and it's in the plugin too.\n• Play GLIMR from your DAW's keyboard or a MIDI controller, and record the notes.\n• The rhythm box locks to your song's tempo and bars, and starts and stops with it.\n• Every GLIMR track remembers its own sound and settings in your song.\n• New 8-band parametric EQ in the sample editor: drag the dots, spin the knobs, and hear it as you strum.\n• The same EQ on every LOOP layer: tap a layer's little curve to shape it while the loop plays.\n• New PHASER effect in the FX window.\n• Move a trimmed selection: press and hold it, then slide it anywhere along the waveform.\n• The strings now bend and ripple right where you pluck them, with haptic feedback as you strum.",
       "version": "2.0",
       "wrapperType": "software",
       "currency": "JPY",
       "description": "Make any sound strummable.\n\nHold SAMPLE and make a sound: your voice, a wine glass, a car horn, your cat. GLIMR turns it into an instrument you play like a harp. Pick a chord, sweep your finger across the strings, and your sound rings out in tune and in harmony.\n\nSAMPLE ANYTHING\n- Hold to sample from the mic. GLIMR waits for your sound, so there's no dead air at the start.\n- GLIMR finds the pitch for you, or you can set the root yourself.\n- Trim, fade, reverse and normalize your samples, or import your own audio files.\n\nPLAY CHORDS WITH ONE FINGER\n- Eight chord types in every key: major, minor, 7th, major 7th, minor 7th, diminished, augmented and sus4.\n- Strum the strings, or tap them one at a time. Strum faster to play louder.\n- Shape the sound with LOFI, DRIVE and CHORUS, plus delay and reverb. The delay locks to your tempo.\n\nBUILT-IN RHYTHM BOX\n- Eight grooves: rock, pop, disco, samba, waltz, bossa, lo-fi and ballad.\n- Edit any pattern: tap to add a hit, drag up or down to set how hard it hits.\n- Set the tempo with tap tempo, or type it in.\n\nRECORD AND TAKE IT ANYWHERE\n- Tap REC to capture what you play.\n- Share the strings and drums as separate 24-bit WAV files, ready to mix.\n- Export your strings as MIDI and rebuild the part in your DAW.\n- Send takes to Files, AirDrop or any app.\n\nPLAY YOUR DAW FROM THE STRINGS\n- Turn on MIDI out in Settings and GLIMR becomes a MIDI controller.\n- Strums, chords and drums play any synth or DAW over USB or Wi-Fi.\n\nWorks on iPhone and iPad. No account, no subscription, no ads. Your sounds stay on your device.\n\nNow a plugin too. GLIMR is an Audio Unit (AUv3) instrument for GarageBand and other iOS DAWs, with your whole sound library inside. Play it from your DAW's keyboard or a MIDI controller, let its drums follow your song, and shape every sound and loop layer with an 8-band parametric EQ.",
-      "bundleId": "com.ghostkickaudio.glimr",
-      "genreIds": [
-        "6011",
-        "6016"
-      ],
-      "isVppDeviceBasedLicensingEnabled": true,
+      "averageUserRatingForCurrentVersion": 4,
+      "sellerUrl": "https://ghostkickaudio.com",
+      "languageCodesISO2A": [],
+      "fileSizeBytes": "34798592",
+      "formattedPrice": "¥800",
+      "userRatingCountForCurrentVersion": 1,
+      "trackContentRating": "4+",
+      "trackName": "GLIMR: Strum Any Sound",
+      "trackId": 6818844637,
       "userRatingCount": 1,
       "country": "JPN"
     },

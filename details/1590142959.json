@@ -106,15 +106,11 @@
       "userRatingCount": 34588
     },
     {
-      "isGameCenterEnabled": false,
-      "advisories": [],
-      "kind": "software",
+      "features": [],
       "artistViewUrl": "https://apps.apple.com/fr/developer/gouvernement-francais/id441929011?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/bd/fc/1bbdfc78-b836-aca2-a23e-dacb47a8f371/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/bd/fc/1bbdfc78-b836-aca2-a23e-dacb47a8f371/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-85-220.png/100x100bb.jpg",
-      "ipadScreenshotUrls": [],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/bd/fc/1bbdfc78-b836-aca2-a23e-dacb47a8f371/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-85-220.png/512x512bb.jpg",
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8d/32/48/8d3248f0-7402-6918-3916-b901f455157b/Ecran_store_01.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6a/a8/45/6aa845a8-d1f6-a774-07d4-2c119b0e1f65/Ecran_store_02.png/392x696bb.png",
@@ -125,6 +121,9 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/20/ee/86/20ee8669-2308-b1d1-9606-13de026ce6db/Ecran_store_07.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c3/a9/01/c3a9010d-cb4b-484d-ffca-f30c4cf81775/Ecran_store_08.png/392x696bb.png"
       ],
+      "ipadScreenshotUrls": [],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/bd/fc/1bbdfc78-b836-aca2-a23e-dacb47a8f371/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-85-220.png/512x512bb.jpg",
       "supportedDevices": [
         "iPhone7-iPhone7",
         "iPhone7Plus-iPhone7Plus",
@@ -169,35 +168,13 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "features": [],
-      "releaseNotes": "France Identité se met à jour avec des correctifs",
-      "artistId": 441929011,
-      "artistName": "Gouvernement Francais",
-      "genres": [
-        "Utilitaires",
-        "Productivité"
-      ],
-      "price": 0,
-      "genreIds": [
-        "6002",
-        "6007"
-      ],
-      "sellerName": "Gouvernement Francais",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseDate": "2023-09-07T07:00:00Z",
-      "minimumOsVersion": "16.6",
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
-      "currentVersionReleaseDate": "2026-10-30T10:18:28Z",
-      "version": "1.3.4433",
-      "wrapperType": "software",
-      "currency": "EUR",
-      "description": "L'IDENTITÉ NUMÉRIQUE RÉGALIENNE PERMET DE :\n- Prouver votre identité sans divulguer toutes vos données\n- Remplacer vos identifiants et mots de passe\n- Empêcher l'usurpation de votre d'identité\nVOUS AVEZ PLUS DE 18 ANS ET VOUS ÊTES MUNIS DE LA NOUVELLE CARTE NATIONALE D'IDENTITÉ ?\n- Téléchargez France Identité\n- Créez votre identité numérique\n- Gardez la maitrise de vos données\nAVEC L'APPLICATION FRANCE IDENTITÉ :\n- Lisez votre nouvelle carte d'identité directement avec votre téléphone\n- Définissez votre code personnel pour sécuriser l'accès à vos données\n- Créez des justificatifs d'identité à usage unique pour remplacer les photocopies de votre carte d'identité\n- Authentifiez-vous sur tous les services disponibles sur FranceConnect\n- Dématérialisez votre permis de conduire\nÀ VENIR:\n- La dématérialisation de la carte grise et de l'assurance\nLE RESPECT DE VOS DONNÉES\nL'application ne traite pas vos données à des fins commerciales ou publicitaires et applique notamment les dispositions du règlement général sur la protection des données (ou RGPD) et de la loi informatique et libertés.",
+      "advisories": [],
+      "kind": "software",
       "trackCensoredName": "France Identité",
       "trackViewUrl": "https://apps.apple.com/fr/app/france-identit%C3%A9/id1590142959?uo=4",
+      "averageUserRating": 4.26477,
       "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.26377,
-      "averageUserRatingForCurrentVersion": 4.26377,
+      "averageUserRatingForCurrentVersion": 4.26477,
       "sellerUrl": "https://france-identite.gouv.fr",
       "languageCodesISO2A": [
         "EN",
@@ -205,12 +182,35 @@
       ],
       "fileSizeBytes": "159429632",
       "formattedPrice": "Gratuit",
+      "userRatingCountForCurrentVersion": 38517,
       "trackContentRating": "4+",
-      "userRatingCountForCurrentVersion": 38299,
-      "trackId": 1590142959,
-      "trackName": "France Identité",
+      "genreIds": [
+        "6002",
+        "6007"
+      ],
+      "artistName": "Gouvernement Francais",
+      "artistId": 441929011,
+      "genres": [
+        "Utilitaires",
+        "Productivité"
+      ],
       "bundleId": "fr.gouv.france-identite",
-      "userRatingCount": 38299,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "Gouvernement Francais",
+      "releaseDate": "2023-09-07T07:00:00Z",
+      "minimumOsVersion": "16.6",
+      "trackName": "France Identité",
+      "trackId": 1590142959,
+      "currentVersionReleaseDate": "2026-10-30T10:18:28Z",
+      "releaseNotes": "France Identité se met à jour avec des correctifs",
+      "version": "1.3.4433",
+      "wrapperType": "software",
+      "currency": "EUR",
+      "description": "L'IDENTITÉ NUMÉRIQUE RÉGALIENNE PERMET DE :\n- Prouver votre identité sans divulguer toutes vos données\n- Remplacer vos identifiants et mots de passe\n- Empêcher l'usurpation de votre d'identité\nVOUS AVEZ PLUS DE 18 ANS ET VOUS ÊTES MUNIS DE LA NOUVELLE CARTE NATIONALE D'IDENTITÉ ?\n- Téléchargez France Identité\n- Créez votre identité numérique\n- Gardez la maitrise de vos données\nAVEC L'APPLICATION FRANCE IDENTITÉ :\n- Lisez votre nouvelle carte d'identité directement avec votre téléphone\n- Définissez votre code personnel pour sécuriser l'accès à vos données\n- Créez des justificatifs d'identité à usage unique pour remplacer les photocopies de votre carte d'identité\n- Authentifiez-vous sur tous les services disponibles sur FranceConnect\n- Dématérialisez votre permis de conduire\nÀ VENIR:\n- La dématérialisation de la carte grise et de l'assurance\nLE RESPECT DE VOS DONNÉES\nL'application ne traite pas vos données à des fins commerciales ou publicitaires et applique notamment les dispositions du règlement général sur la protection des données (ou RGPD) et de la loi informatique et libertés.",
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
+      "price": 0,
+      "userRatingCount": 38517,
       "country": "FRA"
     }
   ]

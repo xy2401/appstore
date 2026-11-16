@@ -199,6 +199,7 @@
       "userRatingCount": 3840
     },
     {
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/16/be/ca/16beca96-65be-16f9-f277-72e8c0cfe27b/iPhone6-7_scn1.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/f4/8b/76f48bbf-ecc5-3d5a-304d-302e1ddf7e01/iPhone6-7_scn2.png/320x480bb.jpg",
@@ -218,7 +219,9 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/17/38/bc1738d8-13f3-8e83-4c4d-56d472e71a5a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -350,38 +353,42 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
       "advisories": [],
       "kind": "software",
       "artistViewUrl": "https://apps.apple.com/us/developer/bret-hardman/id788803580?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/17/38/bc1738d8-13f3-8e83-4c4d-56d472e71a5a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/17/38/bc1738d8-13f3-8e83-4c4d-56d472e71a5a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
+      "releaseNotes": "• Updated screens to provide more room for displaying measurements.\n• Fixed numerous performance issues.\n• Added a button to InputViews for quickly switching between the number pad and the `Press & Slide` slider.\n• Measurements now automatically adjust to the available visible area while editing.\n• Screens can now scroll while editing, making it easier to view important measurements as you adjust them.",
+      "averageUserRatingForCurrentVersion": 4.82418,
       "languageCodesISO2A": [],
       "fileSizeBytes": "22400000",
       "formattedPrice": "$6.99",
-      "userRatingCountForCurrentVersion": 4043,
+      "userRatingCountForCurrentVersion": 4061,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.82388,
-      "averageUserRating": 4.82388,
+      "artistId": 788803580,
+      "artistName": "Bret Hardman",
+      "genres": [
+        "Productivity",
+        "Utilities"
+      ],
       "price": 6.99,
       "trackId": 1010311475,
       "trackName": "QuickBend: Conduit Bending",
+      "primaryGenreName": "Productivity",
+      "primaryGenreId": 6007,
       "releaseDate": "2015-07-28T16:04:32Z",
-      "minimumOsVersion": "18.0",
+      "sellerName": "Bret Hardman",
       "genreIds": [
         "6007",
         "6002"
       ],
-      "primaryGenreName": "Productivity",
-      "primaryGenreId": 6007,
-      "sellerName": "Bret Hardman",
+      "minimumOsVersion": "18.0",
       "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-10-24T08:35:54Z",
-      "releaseNotes": "• Updated screens to provide more room for displaying measurements.\n• Fixed numerous performance issues.\n• Added a button to InputViews for quickly switching between the number pad and the `Press & Slide` slider.\n• Measurements now automatically adjust to the available visible area while editing.\n• Screens can now scroll while editing, making it easier to view important measurements as you adjust them.",
       "version": "4.2.3",
       "wrapperType": "software",
       "currency": "USD",
@@ -389,14 +396,9 @@
       "trackCensoredName": "QuickBend: Conduit Bending",
       "trackViewUrl": "https://apps.apple.com/us/app/quickbend-conduit-bending/id1010311475?uo=4",
       "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.82418,
       "bundleId": "Bret-H.-Hardman.QuickBend",
-      "genres": [
-        "Productivity",
-        "Utilities"
-      ],
-      "artistId": 788803580,
-      "artistName": "Bret Hardman",
-      "userRatingCount": 4043,
+      "userRatingCount": 4061,
       "country": "USA"
     }
   ]

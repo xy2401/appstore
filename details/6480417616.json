@@ -204,8 +204,9 @@
       "userRatingCount": 300345
     },
     {
-      "isGameCenterEnabled": false,
       "advisories": [],
+      "isGameCenterEnabled": false,
+      "features": [],
       "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/66/dd/5c/66dd5cab-7622-7caf-84c1-5fc5c16f5b39/28f8bc10-b990-4c88-be57-5003ba5d6483_SS1Small__U00281_U0029.png/392x696bb.png",
@@ -215,11 +216,10 @@
       ],
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/a5/15/69a51522-48cb-023c-0fdb-962fd1588fad/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/e6/1b/dce61b34-698a-01cc-ca7a-be29e201ace8/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/e6/1b/dce61b34-698a-01cc-ca7a-be29e201ace8/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/e6/1b/dce61b34-698a-01cc-ca7a-be29e201ace8/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
       "artistViewUrl": "https://apps.apple.com/us/developer/viral-development-llc/id1738939499?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/a5/15/69a51522-48cb-023c-0fdb-962fd1588fad/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/a5/15/69a51522-48cb-023c-0fdb-962fd1588fad/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
-      "features": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -351,13 +351,18 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
+      ],
+      "currentVersionReleaseDate": "2026-11-10T20:07:26Z",
+      "genres": [
+        "Health & Fitness",
+        "Food & Drink"
       ],
       "artistId": 1738939499,
       "artistName": "Viral Development LLC",
-      "price": 0,
-      "bundleId": "com.viraldevelopment.CalAI",
-      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseNotes": "Improvements and tweaks to help you build and be your best",
       "releaseDate": "2024-04-08T07:00:00Z",
       "minimumOsVersion": "18.0",
       "genreIds": [
@@ -366,12 +371,16 @@
       ],
       "primaryGenreName": "Health & Fitness",
       "primaryGenreId": 6013,
-      "currentVersionReleaseDate": "2026-11-03T19:31:35Z",
-      "releaseNotes": "Improvements and tweaks to help you build and be your best",
-      "version": "26.44.0",
+      "sellerName": "Viral Development LLC",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "version": "26.45.0",
       "wrapperType": "software",
       "currency": "USD",
       "description": "HOW TO USE CAL AI:\n\n1) Answer lifestyle questions to build your plan\n\n2) Snap a photo of your meal*\n\n3) Get your nutritional breakdown*\n\nIf you want to get your dream body, Cal AI will help you get there with less time spent than anyone else.\n\nWe aren't another complicated diet app. We want to empower everyone to be confident in their bodies with minimal time spent, but you have to work hard. We will support you and give you the tools and information you need.\n\nIf you have any ideas or questions, please email us at team@calai.app.\n\nNOTE: We do not offer medical advice. Any and all recommendations should be viewed as suggestions, please consult with a professional and do your own research before trying a new calorie and nutrient plan.\n\n*FOOD SCANNING ANALYSIS RESULTS REQUIRE A SUBSCRIPTION\nTERMS: https://calai.app/tos",
+      "bundleId": "com.viraldevelopment.CalAI",
+      "sellerUrl": "https://www.calai.app/",
+      "averageUserRating": 4.80367,
+      "trackCensoredName": "Cal AI - Calorie Tracker",
       "languageCodesISO2A": [
         "AR",
         "AZ",
@@ -389,24 +398,17 @@
         "ZH",
         "ES"
       ],
-      "fileSizeBytes": "334530560",
+      "fileSizeBytes": "335034368",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 374586,
-      "trackContentRating": "4+",
-      "sellerUrl": "https://www.calai.app/",
-      "trackCensoredName": "Cal AI - Calorie Tracker",
-      "trackViewUrl": "https://apps.apple.com/us/app/cal-ai-calorie-tracker/id6480417616?uo=4",
       "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.80353,
-      "averageUserRatingForCurrentVersion": 4.80353,
+      "userRatingCountForCurrentVersion": 375937,
+      "trackViewUrl": "https://apps.apple.com/us/app/cal-ai-calorie-tracker/id6480417616?uo=4",
+      "trackContentRating": "4+",
+      "averageUserRatingForCurrentVersion": 4.80367,
+      "price": 0,
       "trackId": 6480417616,
       "trackName": "Cal AI - Calorie Tracker",
-      "sellerName": "Viral Development LLC",
-      "genres": [
-        "Health & Fitness",
-        "Food & Drink"
-      ],
-      "userRatingCount": 374586,
+      "userRatingCount": 375937,
       "country": "USA"
     }
   ]

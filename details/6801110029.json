@@ -2,6 +2,7 @@
   "resultCount": 1,
   "results": [
     {
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0d/99/b7/0d99b7f8-09b0-0a66-3dcf-e79cb934c5c5/1.jpg/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/99/62/51/99625191-d0dd-11c0-aa7e-0952640183e7/2.jpg/320x480bb.jpg",
@@ -23,10 +24,17 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/a9/71/3ea97162-0566-ef1c-090d-bc71b5d653de/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
       "artistViewUrl": "https://apps.apple.com/fr/developer/vitaliy-koop/id6801110031?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/a9/71/3ea97162-0566-ef1c-090d-bc71b5d653de/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/a9/71/3ea97162-0566-ef1c-090d-bc71b5d653de/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.jpg",
+      "advisories": [
+        "Scènes rares/modérées d’horreur ou d’épouvante",
+        "Scènes fréquentes/intenses de violence réaliste"
+      ],
+      "kind": "software",
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhoneXS-iPhoneXS",
         "iPhoneXSMax-iPhoneXSMax",
@@ -120,15 +128,9 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
-      ],
-      "advisories": [
-        "Scènes rares/modérées d’horreur ou d’épouvante",
-        "Scènes fréquentes/intenses de violence réaliste"
-      ],
-      "kind": "software",
-      "features": [
-        "iosUniversal"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
       "languageCodesISO2A": [
         "BR",
@@ -149,34 +151,34 @@
       "formattedPrice": "2,99 €",
       "userRatingCountForCurrentVersion": 0,
       "trackContentRating": "17+",
-      "averageUserRatingForCurrentVersion": 0,
       "trackCensoredName": "Machine Party",
       "trackViewUrl": "https://apps.apple.com/fr/app/machine-party/id6801110029?uo=4",
-      "averageUserRating": 0,
       "contentAdvisoryRating": "17+",
+      "averageUserRating": 0,
+      "averageUserRatingForCurrentVersion": 0,
+      "price": 2.99,
       "artistId": 6801110031,
       "artistName": "Vitaliy Koop",
-      "genres": [
-        "Divertissement"
-      ],
-      "price": 2.99,
       "bundleId": "com.mikegames.machineparty",
-      "minimumOsVersion": "15",
-      "trackId": 6801110029,
-      "trackName": "Machine Party",
       "genreIds": [
         "6016"
       ],
-      "sellerName": "Vitaliy Koop",
       "releaseDate": "2026-09-15T07:00:00Z",
+      "isVppDeviceBasedLicensingEnabled": true,
       "primaryGenreName": "Entertainment",
       "primaryGenreId": 6016,
-      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-09-15T12:28:40Z",
       "version": "1.0",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Welcome to Machine Party. In this series of dangerous party games you will have to use every trick in the book to survive. Play through classic party game formats and new twists on the genre for sessions of fun, screaming, and horror. \n\nFeatures:\n\n- A collection of uniquely violent party games \n\n- Support for 2 - 4 players \n\n- An industrial soundtrack\n\n- Customize your test subject\n\n- Multiple devious ways of screwing your friends over",
+      "trackId": 6801110029,
+      "trackName": "Machine Party",
+      "sellerName": "Vitaliy Koop",
+      "genres": [
+        "Divertissement"
+      ],
+      "minimumOsVersion": "15",
       "userRatingCount": 0,
       "country": "FRA"
     }

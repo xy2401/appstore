@@ -212,6 +212,7 @@
       "artistViewUrl": "https://apps.apple.com/de/developer/entwicklungsschmiede-ug-co-kg/id322660753?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/d4/2b/63d42bed-d02a-d1d1-4fea-4cb06ee0a151/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/d4/2b/63d42bed-d02a-d1d1-4fea-4cb06ee0a151/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/d4/2b/63d42bed-d02a-d1d1-4fea-4cb06ee0a151/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d9/2a/1c/d92a1c82-7973-3530-8a42-91c61dd288ab/6d5d2107-aaff-4828-be26-c6ef2d71adb7_screenshot1.jpeg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/3a/20/52/3a205213-b72a-b0bc-548f-bf7cd77bdde2/fe1bb505-01b9-4200-bd45-840c3f2fcb84_screenshot2.jpeg/392x696bb.jpg",
@@ -231,8 +232,10 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/87/dc/cc/87dccc08-ed5c-dbef-eb37-8fbf65838743/eb1cdee8-5828-4e14-a24b-6fe049e2ce84_screenshot5.jpeg/552x414bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/d4/2b/63d42bed-d02a-d1d1-4fea-4cb06ee0a151/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
       "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -364,17 +367,16 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
       "advisories": [],
       "kind": "software",
-      "features": [
-        "iosUniversal"
-      ],
       "trackCensoredName": "miCal - der Kalender",
       "trackViewUrl": "https://apps.apple.com/de/app/mical-der-kalender/id777512000?uo=4",
       "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.59438,
+      "averageUserRating": 4.59415,
       "languageCodesISO2A": [
         "DA",
         "NL",
@@ -387,16 +389,18 @@
       ],
       "fileSizeBytes": "32195584",
       "formattedPrice": "2,69 €",
-      "userRatingCountForCurrentVersion": 28445,
+      "userRatingCountForCurrentVersion": 28452,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.59438,
-      "releaseNotes": "miCal 8.4.5 behebt kleinere Probleme.\n\nFehlerbehebungen:\n- behebt ein Problem, bei dem am iPad mit manchen externen Tastaturen Termine nicht geändert werden konnten.",
+      "averageUserRatingForCurrentVersion": 4.59415,
+      "artistId": 322660753,
+      "artistName": "entwicklungsschmiede UG & Co KG",
       "genres": [
         "Produktivität",
         "Dienst­programme"
       ],
-      "artistId": 322660753,
-      "artistName": "entwicklungsschmiede UG & Co KG",
+      "price": 2.69,
+      "primaryGenreName": "Productivity",
+      "primaryGenreId": 6007,
       "trackId": 777512000,
       "trackName": "miCal - der Kalender",
       "genreIds": [
@@ -404,27 +408,24 @@
         "6002"
       ],
       "releaseDate": "2014-03-07T08:00:00Z",
-      "minimumOsVersion": "11.0",
-      "primaryGenreName": "Productivity",
-      "primaryGenreId": 6007,
       "sellerName": "entwicklungsschmiede UG (haftungsbeschraenkt) & Co. KG",
       "isVppDeviceBasedLicensingEnabled": true,
+      "minimumOsVersion": "11.0",
       "currentVersionReleaseDate": "2026-01-16T14:01:48Z",
+      "releaseNotes": "miCal 8.4.5 behebt kleinere Probleme.\n\nFehlerbehebungen:\n- behebt ein Problem, bei dem am iPad mit manchen externen Tastaturen Termine nicht geändert werden konnten.",
       "version": "8.4.5",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "miCal ist DER Kalender, den Sie schon immer für Ihr iPhone oder iPad gesucht haben! Mit miCal wird die Terminplanung jetzt noch einfacher, übersichtlicher – und schöner.\n\nSchnelle Übersicht\nDas Dashboard zeigt Ihre aktuellen Termine, Aufgaben und Geburtstage an. Zusätzlich finden Sie dort Informationen zum aktuellen Wetter und einen Überblick über den aktuellen Monat.\n\nIntuitive Bedienung \nNavigieren Sie intuitiv innerhalb des Kalenders und legen Sie schnell Termine und Aufgaben an, dank vordefinierter Einstellungen und einfacher Bedienung. Standardeinstellungen wie Wiederholungen und Erinnerungen/Alarme sind nur einen Fingertipp entfernt. Ohne Kompromisse an Komfort und Bedienung sind wie gewohnt auch Spezialeinstellungen möglich.\nWischen Sie sich durch die Ansichten und öffnen Sie Termine oder Tage mit einem Fingertipp.\n\nmiCal versteht\nErstellen Sie Ihre Termine über die neue natürliche Spracheingabe. Die natürliche Spracheingabe erlaubt das Eingeben eines Termins so, wie Sie den Termin in einem Satz formulieren würden. Sie können, sofern Ihr Gerät Siri unterstützt und Siri aktiv ist, die Eingabe direkt in das Eingabefeld diktieren.\n\nKomplettpaket\nmiCal bietet Ihnen eine vollständige und gut strukturierte Tages-, Wochen-, Monats- und Jahresansicht und zeigt in allen wichtigen Ansichten die Kalenderwochen an.\n\nVerdreht\nMit miCal müssen Sie sich nicht verbiegen. miCal unterstützt in nahezu allen Ansichten das Hoch- sowie das Querformat. Nutzen Sie die Ansichten so, wie es Ihnen am bequemsten ist.\n\nAufgaben/Erinnerungen\nmiCal unterstützt nun iOS-Erinnerungen. Legen Sie sich Erinnerungen für alle wichtigen Aufgaben Ihres privaten oder beruflichen Lebens an.\n\nGeburtstagsmanager\nVerpassen Sie nie wieder einen wichtigen Geburtstag. Lassen Sie sich mit einer frei wählbaren Musik zu einer bestimmten Zeit erinnern.\n\nSchönes Wetter\nFünf-Tages-Wettervorhersage und zusätzlich Sonnenauf-/untergangszeiten, Luftfeuchtigkeit und Windstärke am aktuellen Tag. Im Dashboard werden Ihnen sowohl eine Kurzzusammenfassung des aktuellen Wetters als auch die Kurz-Prognosen für die nächsten Tage eingeblendet.\n\nUmfangreich\nmiCal bietet eine einzigartige Funktionsvielfalt. Kopieren, verschieben oder versenden Sie Ihre Termine. Exportieren Sie Termine eines beliebig einstellbaren Tagesintervalls als CSV (für Excel & Co) oder als ICS - dem Kalenderformat. Verwalten Sie Farben für Kalender und einzelne Termine oder weisen Sie nach Schlagwörtern im Titel Farben automatisch zu.\n\nAktuell und sicher\nmiCal kommuniziert mit dem integrierten Kalender Ihres Geräts. miCal funktioniert ohne zusätzliche Einrichtung für alle Kalenderdienste, die Ihr Gerät bislang schon unterstützt (iCloud, Google Calendar, Outlook, Exchange, Google Calendar, Facebook Events, Abonnements). So können Sie Ihre Daten wie gewohnt lokal oder über Ihre gewohnten Dienste nutzen. miCal überträgt selbst keine Daten an externe Dienste oder andere Server. Somit gewährleisten wir Ihnen einen 100%igen Datenschutz.\n\nPreisgekrönt\n- 3. Platz im Wettbewerb \"Beste Deutsche iPhone App\" der iPhone developer conference 2010.\n- Als App der Woche in 13 Ländern empfohlen.\n- iPhoneWelt-Empfehlung und 5-Sterne Top-Bewertung von iPhone&Co\n- Prämiert auf der App-Developer Conference 2010",
       "bundleId": "com.entwicklungsschmiede.miCal",
-      "price": 2.69,
-      "userRatingCount": 28445,
+      "userRatingCount": 28452,
       "country": "DEU"
     },
     {
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/d4/2b/63d42bed-d02a-d1d1-4fea-4cb06ee0a151/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/d4/2b/63d42bed-d02a-d1d1-4fea-4cb06ee0a151/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/fr/developer/entwicklungsschmiede-ug-co-kg/id322660753?uo=4",
       "isGameCenterEnabled": false,
-      "advisories": [],
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -556,9 +557,15 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
+      "advisories": [],
       "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/fr/developer/entwicklungsschmiede-ug-co-kg/id322660753?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/d4/2b/63d42bed-d02a-d1d1-4fea-4cb06ee0a151/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/d4/2b/63d42bed-d02a-d1d1-4fea-4cb06ee0a151/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/e9/c4/48/e9c4482e-0883-51a8-d0eb-2730dedb71e2/mzl.fkyrrdci.png/320x480bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/76/bc/5a/76bc5ab8-c507-fe11-87a5-a714a1401dcb/mzl.xuoyqdzu.png/320x480bb.png",
@@ -575,34 +582,34 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/d4/2b/63d42bed-d02a-d1d1-4fea-4cb06ee0a151/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
-      "contentAdvisoryRating": "4+",
-      "trackCensoredName": "miCal - le calendrier manquant",
-      "trackViewUrl": "https://apps.apple.com/fr/app/mical-le-calendrier-manquant/id777512000?uo=4",
-      "averageUserRating": 4.60161,
-      "releaseNotes": "miCal 8.4.5 contains some minor bug fixes.\n\nThings we've fixed:\n- fixed a bug where on an iPad events could not be edited with some external keyboards",
+      "artistId": 322660753,
+      "artistName": "entwicklungsschmiede UG & Co KG",
       "genres": [
         "Productivité",
         "Utilitaires"
       ],
       "price": 2.69,
+      "bundleId": "com.entwicklungsschmiede.miCal",
+      "trackId": 777512000,
+      "trackName": "miCal - le calendrier manquant",
+      "releaseNotes": "miCal 8.4.5 contains some minor bug fixes.\n\nThings we've fixed:\n- fixed a bug where on an iPad events could not be edited with some external keyboards",
+      "releaseDate": "2014-03-07T08:00:00Z",
       "minimumOsVersion": "11.0",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-01-16T14:01:48Z",
-      "sellerName": "entwicklungsschmiede UG (haftungsbeschraenkt) & Co. KG",
       "genreIds": [
         "6007",
         "6002"
       ],
-      "releaseDate": "2014-03-07T08:00:00Z",
-      "trackId": 777512000,
-      "trackName": "miCal - le calendrier manquant",
+      "primaryGenreName": "Productivity",
+      "primaryGenreId": 6007,
+      "sellerName": "entwicklungsschmiede UG (haftungsbeschraenkt) & Co. KG",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-01-16T14:01:48Z",
       "version": "8.4.5",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "miCal est LE calendrier que vous avez toujours rêvé d’avoir sur votre iPhone ou votre iPad ! Avec miCal, la planification est plus facile, plus claire et plus belle que jamais. \n\nAperçu\nLe tableau de bord affiche les rendez-vous, événements, tâches et anniversaires qui approchent. Vous pouvez également voir la météo ainsi qu’un aperçu synthétique du mois en cours.\n\nDes commandes intuitives \nNaviguez intuitivement dans vos calendriers et ajoutez des événements et des tâches rapidement et facilement grâce à des paramètres prédéfinis et des commandes simples. Des paramètres standard tels que les événements récurrents et les rappels ou alertes ne sont qu’à un simple appui. Et de puissants réglages spéciaux sont également possibles, sans rien sacrifier au confort ou au contrôle. Passez d’une vue à l’autre et ouvrez des événements ou des journées d’un simple geste du doigt.\n\nmiCal vous comprend\nCréez rapidement des événements grâce à la nouvelle fonctionnalité de saisie vocale naturelle. La nouvelle fonctionnalité de saisie vocale naturelle vous permet de créer des événements en les décrivant. Et si Siri est activé sur votre appareil, vous pouvez même dicter les informations de l’événement au lieu de les saisir.\n\nLe top\nmiCal offre des vues par jour, par semaine et par mois complètes et bien structurées, et affiche le calendrier de la semaine dans toutes les vues importantes.\n\nDétendez-vous\nVous n’avez pas besoin de faire de contorsions avec miCal. miCal prend en charge les affichages en orientations portrait et paysage pour presque toutes les vues. Utilisez chaque vue de la manière la plus confortable pour vous.\n\nTâches/rappels\nmiCal prend désormais en charge les rappels iOS. Créez des rappels pour toutes les tâches importantes de votre vie privée et professionnelle directement dans l’application.\n\nGestionnaire d’anniversaires\nNe manquez plus jamais un anniversaire important. Recevez des rappels à des moments prédéfinis au moyen de la musique de votre choix.\n\nUne belle météo\nPrévisions météorologiques sur cinq jours, heures de lever et coucher du soleil, humidité et vent de la journée. Le tableau de bord comporte même un résumé de la météo du moment ainsi que de brèves prévisions pour les prochains jours.\n\nComplet\nmiCal propose une gamme unique de fonctionnalités. Copiez, déplacez ou envoyez vos événements. Exportez vos événements dans la plage de dates de votre choix au format CSV (pour Excel, etc.) ou ICS (le format natif du calendrier). Définissez les couleurs de vos calendriers et de vos rendez-vous individuels ou ajoutez automatiquement des couleurs en fonction de mots clés dans les titres des événements.\n\nÀ jour et sécurisé\nmiCal communique avec le calendrier intégré de votre appareil. miCal fonctionne avec tous les services de calendrier actuellement pris en charge par votre appareil (iCloud, Google Calendar, Outlook, Exchange, Facebook Events, abonnements) sans nécessiter de configuration supplémentaire. Ainsi, vous pouvez stocker vos données localement ou en utilisant vos services préférés. À vous de décider. miCal lui-même ne transmet aucune donnée à des services externes ou à d’autres serveurs. Cela nous permet d’assurer la sécurité de vos données à 100 %.\n\nRécompenses\n- 3e place du « Best German iPhone App » lors d’iPhone Developer 2010\n- Reconnu app de la semaine dans 13 pays\n- Recommandation d’iPhoneWelt et 5 étoiles attribuées par iPhone&Co, deux des principaux magazines sur l’iPhone\n- Honneurs reçus lors de l’App Developer Conference 2010",
+      "trackViewUrl": "https://apps.apple.com/fr/app/mical-le-calendrier-manquant/id777512000?uo=4",
+      "contentAdvisoryRating": "4+",
       "languageCodesISO2A": [
         "DA",
         "NL",
@@ -617,12 +624,9 @@
       "formattedPrice": "2,69 €",
       "userRatingCountForCurrentVersion": 743,
       "trackContentRating": "4+",
-      "bundleId": "com.entwicklungsschmiede.miCal",
+      "trackCensoredName": "miCal - le calendrier manquant",
+      "averageUserRating": 4.60161,
       "averageUserRatingForCurrentVersion": 4.60161,
-      "primaryGenreName": "Productivity",
-      "primaryGenreId": 6007,
-      "artistId": 322660753,
-      "artistName": "entwicklungsschmiede UG & Co KG",
       "userRatingCount": 743,
       "country": "FRA"
     }

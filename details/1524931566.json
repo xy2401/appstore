@@ -2,11 +2,7 @@
   "resultCount": 1,
   "results": [
     {
-      "artistViewUrl": "https://apps.apple.com/fr/developer/turboself-groupe/id786339007?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/b6/b9/83b6b92f-7d6e-d46a-9bab-338e8a44b30a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/b6/b9/83b6b92f-7d6e-d46a-9bab-338e8a44b30a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
-      "features": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -137,7 +133,9 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
       "advisories": [],
       "kind": "software",
@@ -151,44 +149,48 @@
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/b6/b9/83b6b92f-7d6e-d46a-9bab-338e8a44b30a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "contentAdvisoryRating": "4+",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/b6/b9/83b6b92f-7d6e-d46a-9bab-338e8a44b30a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/b6/b9/83b6b92f-7d6e-d46a-9bab-338e8a44b30a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/fr/developer/turboself-groupe/id786339007?uo=4",
+      "features": [],
       "releaseNotes": "_ Amélioration de la gestion des retours de paiement",
-      "trackCensoredName": "MyTurboself",
-      "trackViewUrl": "https://apps.apple.com/fr/app/myturboself/id1524931566?uo=4",
-      "averageUserRating": 2.30337,
-      "artistId": 786339007,
-      "artistName": "Turboself Groupe",
-      "genres": [
-        "Style de vie"
-      ],
       "price": 0,
-      "bundleId": "com.turboself.myturboself",
-      "currentVersionReleaseDate": "2026-07-06T13:11:02Z",
-      "releaseDate": "2020-08-28T07:00:00Z",
-      "minimumOsVersion": "15.1",
       "sellerName": "Turboself Groupe",
+      "currentVersionReleaseDate": "2026-07-06T13:11:02Z",
+      "trackName": "MyTurboself",
+      "trackId": 1524931566,
+      "minimumOsVersion": "15.1",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseDate": "2020-08-28T07:00:00Z",
       "primaryGenreName": "Lifestyle",
       "primaryGenreId": 6012,
-      "trackId": 1524931566,
-      "trackName": "MyTurboself",
       "genreIds": [
         "6012"
       ],
-      "isVppDeviceBasedLicensingEnabled": true,
       "version": "1.16.7",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "*ATTENTION : cette application ne fonctionnera pas si votre établissement scolaire ne propose pas le service TurboSelf en ligne.\n\n\n**********\n\nInscrivez-vous, identifiez-vous et accédez directement à tous vos services :\n\n• Rechargez votre carte TurboSelf avec votre carte bancaire via un accès sécurisé\n• Consultez le solde de votre compte repas\n• Consultez l'historique de vos consommations\n• Réglez vos factures\n• Réservez vos repas\n• Contactez le service intendance de votre établissement",
-      "averageUserRatingForCurrentVersion": 2.30337,
+      "averageUserRatingForCurrentVersion": 2.30354,
       "sellerUrl": "https://www.turboself.fr/",
+      "contentAdvisoryRating": "4+",
       "languageCodesISO2A": [
         "EN"
       ],
       "fileSizeBytes": "21988352",
       "formattedPrice": "Gratuit",
-      "userRatingCountForCurrentVersion": 534,
+      "userRatingCountForCurrentVersion": 537,
       "trackContentRating": "4+",
-      "userRatingCount": 534,
+      "averageUserRating": 2.30354,
+      "trackCensoredName": "MyTurboself",
+      "trackViewUrl": "https://apps.apple.com/fr/app/myturboself/id1524931566?uo=4",
+      "bundleId": "com.turboself.myturboself",
+      "artistId": 786339007,
+      "artistName": "Turboself Groupe",
+      "genres": [
+        "Style de vie"
+      ],
+      "userRatingCount": 537,
       "country": "FRA"
     }
   ]

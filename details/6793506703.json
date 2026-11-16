@@ -2,11 +2,10 @@
   "resultCount": 1,
   "results": [
     {
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/a4/b8/5fa4b865-f827-0496-9887-af7a74e4e3fb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/a4/b8/5fa4b865-f827-0496-9887-af7a74e4e3fb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/fr/developer/heredis/id527197513?uo=4",
       "isGameCenterEnabled": false,
-      "advisories": [],
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -137,9 +136,15 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
+      "advisories": [],
       "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/fr/developer/heredis/id527197513?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/a4/b8/5fa4b865-f827-0496-9887-af7a74e4e3fb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/a4/b8/5fa4b865-f827-0496-9887-af7a74e4e3fb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/80/fb/68/80fb6887-f646-4716-2c3f-23f39116d5eb/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-08-31_at_11.18.27.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7c/c7/6c/7cc76c6a-d73b-f69b-c28c-35dbe6fa6dcc/0x0ss__U00281_U0029.png/320x480bb.jpg",
@@ -163,35 +168,34 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/a4/b8/5fa4b865-f827-0496-9887-af7a74e4e3fb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
-      "contentAdvisoryRating": "4+",
-      "trackCensoredName": "Heredis 2027",
-      "trackViewUrl": "https://apps.apple.com/fr/app/heredis-2027/id6793506703?uo=4",
-      "averageUserRating": 1,
-      "releaseNotes": "En augmentant la taille de police dans les Réglages, certains écrans n’étaient plus lisibles. Nous avons adapté la taille pour que les textes restent lisibles.\nhttps://help.heredis.com/patch-heredis-2027/",
+      "artistId": 527197513,
+      "artistName": "HEREDIS",
       "genres": [
         "Productivité",
         "Style de vie"
       ],
       "price": 9.99,
+      "bundleId": "com.Heredis.iOS.2027",
+      "trackId": 6793506703,
+      "trackName": "Heredis 2027",
+      "releaseNotes": "En augmentant la taille de police dans les Réglages, certains écrans n’étaient plus lisibles. Nous avons adapté la taille pour que les textes restent lisibles.\nhttps://help.heredis.com/patch-heredis-2027/",
+      "releaseDate": "2026-09-09T07:00:00Z",
       "minimumOsVersion": "15.0",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-11-03T07:12:51Z",
-      "sellerName": "HEREDIS",
       "genreIds": [
         "6007",
         "6012"
       ],
-      "releaseDate": "2026-09-09T07:00:00Z",
-      "trackId": 6793506703,
-      "trackName": "Heredis 2027",
+      "primaryGenreName": "Productivity",
+      "primaryGenreId": 6007,
+      "sellerName": "HEREDIS",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-11-03T07:12:51Z",
       "version": "27.1",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Emportez votre généalogie partout avec vous ! Très pratique lors d'événements familiaux ou généalogiques pour présenter la généalogie de la famille, montrer l'avancée de vos recherches, échanger des informations, mais aussi en collecter de nouvelles, en mode nomade, même sans connexion internet.\n\nIl n’est pas nécessaire de posséder le logiciel Heredis pour utiliser la version mobile. Si vous possédez le logiciel Heredis 2027 pour ordinateur, vous aurez accès aux fonctionnalités d’importation et d'exportation de fichiers entre vos deux appareils, en plus du format GEDCOM.\n\nVous pouvez créer autant de généalogies que vous le souhaitez, sans limite d’individus, ou importer un fichier GEDCOM.  Simple à utiliser mais néanmoins complet quant aux informations que vous pouvez saisir, créez le premier personnage puis laissez vous guider !\n\nPour chaque individu, associez des photos que vous capturez immédiatement avec la caméra de votre appareil. Vous pouvez ainsi numériser et enregistrer portraits, photos de famille, actes d’état civil, archives historiques...\n\nPartagez vos découvertes : choisissez votre thème d’arbre graphique, enregistrez-le au format PDF, imprimez-le ou envoyez-le par email. Très pratique pour rester près de toute sa famille !\n\nNouveautés de cette version :\n• Navigation rapide vers la parenté proche : vous voulez naviguer rapidement vers les frères et sœurs d’une personne ? Vous avez besoin du nom d’un cousin pour continuer votre recherche ? Grâce à un appui long sur un individu dans le noyau familial, la parenté proche de la personne s’affiche et vous naviguez dessus facilement.\n• Média principal : choisissez le média principal des individus pour l’afficher dans les différentes représentations de l'application. \n• Fiche individu : la note de recherche de l’individu est ajoutée. Profitez d’un nouveau champ qui existe déjà dans le logiciel et qui permet de noter vos recherches sur une personne.\n• Mise en conformité avec les nouveaux systèmes d’exploitation.\n\nHeredis conçoit des logiciels d'arbre généalogique depuis plus de 30 ans. Avant-gardiste et révolutionnaire dans son approche, Heredis s'impose par ses choix technologiques innovants et ses solutions généalogiques entièrement adaptées aux besoins des utilisateurs. Afin de maintenir le meilleur logiciel possible, Heredis travaille en étroite collaboration avec ses utilisateurs.\n\nHeredis est une société coopérative française, c'est-à-dire détenue par ses salariés. Elle se place dans la mouvance des entreprises qui défendent un modèle d’entreprise éco-responsable et socialement solidaire.\n\nCompatible uniquement avec Heredis 2027\niOS : iOS 15 à 27",
-      "sellerUrl": "https://home.heredis.com/",
+      "trackViewUrl": "https://apps.apple.com/fr/app/heredis-2027/id6793506703?uo=4",
+      "contentAdvisoryRating": "4+",
       "languageCodesISO2A": [
         "EN",
         "FR",
@@ -202,12 +206,10 @@
       "formattedPrice": "9,99 €",
       "userRatingCountForCurrentVersion": 3,
       "trackContentRating": "4+",
-      "bundleId": "com.Heredis.iOS.2027",
+      "sellerUrl": "https://home.heredis.com/",
+      "trackCensoredName": "Heredis 2027",
+      "averageUserRating": 1,
       "averageUserRatingForCurrentVersion": 1,
-      "primaryGenreName": "Productivity",
-      "primaryGenreId": 6007,
-      "artistId": 527197513,
-      "artistName": "HEREDIS",
       "userRatingCount": 3,
       "country": "FRA"
     }

@@ -2,6 +2,10 @@
   "resultCount": 1,
   "results": [
     {
+      "features": [
+        "iosUniversal"
+      ],
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7c/34/79/7c3479fc-74f4-0a18-4bae-78f02ef699b9/IMG_4086.PNG/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/58/09/26/58092602-d9bc-9586-c275-c3ed10ea30fb/IMG_4089.PNG/320x480bb.jpg",
@@ -22,7 +26,9 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/5f/e3/fc5fe3c2-1d90-f4c9-0254-df7114e6f6c2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
+      "artistViewUrl": "https://apps.apple.com/gb/developer/little-app-company/id406182284?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/5f/e3/fc5fe3c2-1d90-f4c9-0254-df7114e6f6c2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/5f/e3/fc5fe3c2-1d90-f4c9-0254-df7114e6f6c2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -153,16 +159,15 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
-      ],
-      "features": [
-        "iosUniversal"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
       "advisories": [],
       "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/gb/developer/little-app-company/id406182284?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/5f/e3/fc5fe3c2-1d90-f4c9-0254-df7114e6f6c2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/5f/e3/fc5fe3c2-1d90-f4c9-0254-df7114e6f6c2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+      "bundleId": "uk.co.gassafeguide.gastest",
+      "sellerUrl": "http://up1bcalc.co.uk",
+      "averageUserRatingForCurrentVersion": 5,
       "languageCodesISO2A": [
         "EN"
       ],
@@ -170,20 +175,26 @@
       "formattedPrice": "£8.99",
       "userRatingCountForCurrentVersion": 6,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 5,
-      "sellerUrl": "http://up1bcalc.co.uk",
-      "releaseNotes": "- You can now do a password reset \n- Added an address lookup, just start typing an address and it will give you a matching list to select from (requires internet for this to work).\n- Improved Saving prompt\n- New unique job reference numbering so references are unique always\n- Delete any jobs from the previous job screen by pressing and holding\n- Prompt to enter an address if you forget",
+      "trackCensoredName": "UP/1B Calculator",
+      "trackViewUrl": "https://apps.apple.com/gb/app/up-1b-calculator/id6762639006?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 5,
+      "price": 8.99,
       "artistId": 406182284,
       "artistName": "Little App Company",
       "genres": [
         "Business",
         "Reference"
       ],
+      "releaseDate": "2026-04-22T07:00:00Z",
+      "releaseNotes": "- You can now do a password reset \n- Added an address lookup, just start typing an address and it will give you a matching list to select from (requires internet for this to work).\n- Improved Saving prompt\n- New unique job reference numbering so references are unique always\n- Delete any jobs from the previous job screen by pressing and holding\n- Prompt to enter an address if you forget",
+      "minimumOsVersion": "16.0",
       "genreIds": [
         "6000",
         "6006"
       ],
-      "minimumOsVersion": "16.0",
+      "trackId": 6762639006,
+      "trackName": "UP/1B Calculator",
       "primaryGenreName": "Business",
       "primaryGenreId": 6000,
       "sellerName": "Stephen Lalor",
@@ -193,15 +204,6 @@
       "wrapperType": "software",
       "currency": "GBP",
       "description": "UP/1B Calculator is a step-by-step guide and calculation tool for Gas Safe registered engineers carrying out installation pipework tightness testing to IGEM/UP/1B Edition 4.\n\nThe app guides you through every stage of the tightness test procedure:\n• Installation Volume Test (IVt) — calculates the correct test pressure and acceptable pressure drop for the installation size\n• Let-By Test — checks for meter regulator let-by\n• Tightness Test — records pressure readings and determines pass or fail\n• LDF Check — guides leak detection fluid testing of all disturbed joints\n• Purge — calculates purge volume for safe gas release\n• PDF Record — generates a professional gas tightness test record ready to save or share\nDesigned specifically for natural gas, LPG and LPG/Air in accordance with IGEM/UP/1B Edition 4.\nAll test records are saved to your account and sync across devices.\nFor use by Gas Safe registered engineers only.",
-      "trackCensoredName": "UP/1B Calculator",
-      "trackViewUrl": "https://apps.apple.com/gb/app/up-1b-calculator/id6762639006?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 5,
-      "bundleId": "uk.co.gassafeguide.gastest",
-      "trackId": 6762639006,
-      "trackName": "UP/1B Calculator",
-      "releaseDate": "2026-04-22T07:00:00Z",
-      "price": 8.99,
       "userRatingCount": 6,
       "country": "GBR"
     }

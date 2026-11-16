@@ -133,7 +133,12 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
+      ],
+      "features": [
+        "iosUniversal"
       ],
       "advisories": [],
       "kind": "software",
@@ -156,27 +161,28 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/46/75/73/467573b5-f131-b978-9ae4-51d902d478cc/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
-      "price": 5200,
+      "releaseNotes": "• 「不規則動詞活用表」が表示されない問題を修正しました。長らくお待たせしてしまい大変申し訳ありません。\n• 和英辞典のデータを最新版に更新しました。",
+      "artistId": 284350529,
+      "artistName": "物書堂",
       "genres": [
         "辞書／辞典／その他",
         "教育"
       ],
-      "artistId": 284350529,
-      "artistName": "物書堂",
+      "price": 5200,
+      "bundleId": "jp.monokakido.G5",
+      "releaseDate": "2017-03-28T00:00:54Z",
       "minimumOsVersion": "13.4",
       "genreIds": [
         "6006",
         "6017"
       ],
-      "releaseDate": "2017-03-28T00:00:54Z",
+      "trackId": 1208025965,
+      "trackName": "ジーニアス英和・和英辞典（第5版／第3版）",
       "isVppDeviceBasedLicensingEnabled": true,
       "primaryGenreName": "Reference",
       "primaryGenreId": 6006,
+      "sellerName": "MONOKAKIDO Co. Ltd.",
       "currentVersionReleaseDate": "2023-04-03T02:45:13Z",
-      "releaseNotes": "• 「不規則動詞活用表」が表示されない問題を修正しました。長らくお待たせしてしまい大変申し訳ありません。\n• 和英辞典のデータを最新版に更新しました。",
       "version": "1.2.5",
       "wrapperType": "software",
       "currency": "JPY",
@@ -185,6 +191,8 @@
       "trackViewUrl": "https://apps.apple.com/jp/app/%E3%82%B8%E3%83%BC%E3%83%8B%E3%82%A2%E3%82%B9%E8%8B%B1%E5%92%8C-%E5%92%8C%E8%8B%B1%E8%BE%9E%E5%85%B8-%E7%AC%AC5%E7%89%88-%E7%AC%AC3%E7%89%88/id1208025965?uo=4",
       "contentAdvisoryRating": "4+",
       "averageUserRating": 3.80519,
+      "averageUserRatingForCurrentVersion": 3.80519,
+      "sellerUrl": "http://www.monokakido.jp/foreign/g5/",
       "languageCodesISO2A": [
         "EN",
         "JA"
@@ -193,12 +201,6 @@
       "formattedPrice": "¥5,200",
       "userRatingCountForCurrentVersion": 77,
       "trackContentRating": "4+",
-      "sellerUrl": "http://www.monokakido.jp/foreign/g5/",
-      "averageUserRatingForCurrentVersion": 3.80519,
-      "bundleId": "jp.monokakido.G5",
-      "trackId": 1208025965,
-      "trackName": "ジーニアス英和・和英辞典（第5版／第3版）",
-      "sellerName": "MONOKAKIDO Co. Ltd.",
       "userRatingCount": 77,
       "country": "JPN"
     }

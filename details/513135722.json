@@ -187,16 +187,6 @@
       "userRatingCount": 1191089
     },
     {
-      "artistViewUrl": "https://apps.apple.com/us/developer/mlb/id281969992?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/47/47/884747d4-c87f-098a-50b6-063952818828/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/47/47/884747d4-c87f-098a-50b6-063952818828/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.jpg",
-      "isGameCenterEnabled": false,
-      "features": [],
-      "advisories": [
-        "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References",
-        "Frequent/Intense Contests"
-      ],
-      "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/73/7a/f5737a9c-2e0c-35d5-99c8-2e84d83dd4f0/mlb-ballpark-ios-1-1.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5d/8a/6d/5d8a6d33-772b-d843-2296-4c532fe40d68/mlb-ballpark-ios-2.jpg/320x480bb.jpg",
@@ -210,7 +200,17 @@
       ],
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/47/47/884747d4-c87f-098a-50b6-063952818828/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/11/d2/6711d25a-43fb-565f-42b6-33bc781361e7/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
+      "isGameCenterEnabled": false,
+      "advisories": [
+        "Frequent/Intense Contests",
+        "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References"
+      ],
+      "kind": "software",
+      "features": [],
+      "artistViewUrl": "https://apps.apple.com/us/developer/mlb/id281969992?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/11/d2/6711d25a-43fb-565f-42b6-33bc781361e7/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/11/d2/6711d25a-43fb-565f-42b6-33bc781361e7/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -341,13 +341,19 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
-      "averageUserRating": 4.63446,
-      "trackCensoredName": "MLB Ballpark",
-      "trackViewUrl": "https://apps.apple.com/us/app/mlb-ballpark/id513135722?uo=4",
-      "contentAdvisoryRating": "12+",
-      "releaseNotes": "Performance improvements and bug fixes as the MLB Ballpark app moves into the offseason.",
+      "sellerUrl": "https://www.mlb.com/apps/ballpark",
+      "averageUserRatingForCurrentVersion": 4.63449,
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "fileSizeBytes": "188528640",
+      "formattedPrice": "Free",
+      "userRatingCountForCurrentVersion": 1364101,
+      "trackContentRating": "12+",
       "artistId": 281969992,
       "artistName": "MLB",
       "genres": [
@@ -355,34 +361,30 @@
         "Entertainment"
       ],
       "price": 0,
-      "bundleId": "com.mlb.AtTheBallpark",
-      "releaseDate": "2012-04-03T00:40:58Z",
-      "trackName": "MLB Ballpark",
-      "trackId": 513135722,
+      "primaryGenreName": "Sports",
+      "primaryGenreId": 6004,
       "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "Major League Baseball Advanced Media",
+      "minimumOsVersion": "18.0",
       "genreIds": [
         "6004",
         "6016"
       ],
-      "currentVersionReleaseDate": "2026-11-02T16:34:39Z",
-      "version": "15.12.0",
+      "releaseDate": "2012-04-03T00:40:58Z",
+      "currentVersionReleaseDate": "2026-11-12T19:06:02Z",
+      "releaseNotes": "Performance enhancements as Major League Baseball heads towards the offseason.",
+      "version": "15.12.1",
       "wrapperType": "software",
       "currency": "USD",
       "description": "The MLB Ballpark app is your mobile companion when visiting your favorite Major League Baseball ballparks. The official MLB Ballpark application perfectly complements and personalizes your trip with digital ticketing functionality, mobile check-in, offers, rewards and exclusive content. \n\n**** Ballpark Features (iPhone) ****\n• Access and manage your tickets (MLB account required; select clubs)\n• Team schedule, ticket information and sales and promotional event listings\n• Interactive map with directory of food, beverage, merchandise and other amenities\n• Check In for offers and rewards\n• View scores and photos from all your ballpark visits\n• Social media clubhouse, including social rewards for select clubs\n• Directions and parking information\n\n\n© 2022 MLB Advanced Media, L.P. All Major League Baseball trademarks and copyrights used herein are the property of the applicable MLB entity. All rights reserved.",
-      "languageCodesISO2A": [
-        "EN"
-      ],
-      "fileSizeBytes": "187967488",
-      "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 1363993,
-      "trackContentRating": "12+",
-      "sellerUrl": "https://www.mlb.com/apps/ballpark",
-      "averageUserRatingForCurrentVersion": 4.63446,
-      "minimumOsVersion": "18.0",
-      "primaryGenreName": "Sports",
-      "primaryGenreId": 6004,
-      "sellerName": "Major League Baseball Advanced Media",
-      "userRatingCount": 1363993,
+      "bundleId": "com.mlb.AtTheBallpark",
+      "averageUserRating": 4.63449,
+      "trackCensoredName": "MLB Ballpark",
+      "trackViewUrl": "https://apps.apple.com/us/app/mlb-ballpark/id513135722?uo=4",
+      "contentAdvisoryRating": "12+",
+      "trackId": 513135722,
+      "trackName": "MLB Ballpark",
+      "userRatingCount": 1364101,
       "country": "USA"
     }
   ]

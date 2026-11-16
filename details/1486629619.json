@@ -2,6 +2,7 @@
   "resultCount": 1,
   "results": [
     {
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/c6/90/31c69002-7f1d-8212-3417-3fa9fc686cd2/6016f0b1-00b4-4aff-b28a-3a8928840f43__IMG_0027.png/406x228bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/51/a1/3c51a1b7-19c6-cc68-49f0-6e831903b2c1/fbfe4032-0f7d-4287-93f4-7856a527fa60__IMG_0028.png/406x228bb.png",
@@ -28,10 +29,14 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/bf/c5/febfc533-fd20-a0a8-a5fe-b88575d9a7c9/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
       "artistViewUrl": "https://apps.apple.com/fr/developer/suture-sound-inc/id1486629618?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/bf/c5/febfc533-fd20-a0a8-a5fe-b88575d9a7c9/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/bf/c5/febfc533-fd20-a0a8-a5fe-b88575d9a7c9/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/100x100bb.jpg",
+      "advisories": [],
+      "kind": "software",
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -162,12 +167,9 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
-      ],
-      "advisories": [],
-      "kind": "software",
-      "features": [
-        "iosUniversal"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
       "sellerUrl": "https://www.flipsampler.com/",
       "languageCodesISO2A": [
@@ -177,35 +179,35 @@
       "formattedPrice": "12,99 €",
       "userRatingCountForCurrentVersion": 14,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.35714,
       "trackCensoredName": "Flip Sampler",
       "trackViewUrl": "https://apps.apple.com/fr/app/flip-sampler/id1486629619?uo=4",
-      "averageUserRating": 4.35714,
       "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.35714,
+      "averageUserRatingForCurrentVersion": 4.35714,
+      "price": 12.99,
       "artistId": 1486629618,
       "artistName": "Suture Sound Inc.",
-      "genres": [
-        "Musique"
-      ],
-      "price": 12.99,
       "bundleId": "com.flipsampler.flip",
-      "minimumOsVersion": "15.6",
-      "trackId": 1486629619,
-      "trackName": "Flip Sampler",
       "genreIds": [
         "6011"
       ],
-      "sellerName": "Suture Sound Inc.",
       "releaseDate": "2020-12-01T08:00:00Z",
+      "isVppDeviceBasedLicensingEnabled": true,
       "primaryGenreName": "Music",
       "primaryGenreId": 6011,
-      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-07-10T11:49:37Z",
       "releaseNotes": "- Automation: Increased quantization resolution to 1/16 notes\n- Bugfix: Loop Env state was not saved\n- Bugfix: Automation quantize (Q) parameter was not saved",
       "version": "1.5.2",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Flip is a sample-based mobile music studio that was designed for a fast and intuitive work flow. Import your own sounds via AirDrop or the Files app, or record sounds directly with your device's microphone or a connected iOS interface. As soon as you record a sound it’s available to be played on drum pads as well as being mapped across a keyboard. Sounds can be subtly shaped or entirely transformed using the built-in effects and easy-to-use editing tools.\n\nYou can record a quantized or unquantized performance on the pads or keyboard. There is also a full piano roll where you can enter and edit notes and velocities.\n\nRecord knob movements or draw automation by hand to bring even more life to your sounds. Every automation lane can also have its own independent length, for polymetric and generative music possibilities.\n\nCreate up to 16 different sections for your song and drag and drop them into any order to create your arrangement.\n\nMixing and mastering tools allow you to finish a full track without ever leaving your phone. You can export your full track, or hit the tape icon and record the live output of the app while you tweak anything on the fly. Both options allow you to capture individual track stems as well!\n\nA performance page lets you trigger your patterns live while controlling a global filter, assignable pitch bends and reverb sends, and a random fill generator.\n\nArtist packs are available in-app at $3.99 or less, which include original sounds and projects from Andrew Huang, Cuckoo, Chuck Sutton, Kilamanzego, Pusher, and more on the way all the time.\n\nFeatures:\n\n- 9 track sampler\n- 4 effects per track: Delay, Filter, Chorus, Bitcrush\n- Graphic EQ per track\n- Monophonic or up to 16-note polyphonic playback per sample\n- Adjustable pitch, volume, playback direction, sample start and stop points\n- Looping Envelope with forward, backward, both (ping pong) direction\n- 19 automatable parameters per track\n- Independent lengths for each automation lane\n- Automation can be recorded via knob movements or drawn by hand\n- Drum pad and keyboard input\n- Full piano roll with 10 octaves, note velocity, editing tools\n- Randomization over sample selection for quick inspiration\n- Randomization over note position to create surprising variations\n- Drag-and-drop song arrangement page\n- Global reverb with individual track sends\n- Mixing and mastering tools\n- Powerful performance features for creating instant fills, pitch shifts, reverb sends, and global low or high pass filtering\n- Export full track and stems\n- Live recording of performances\n- Metronome with tap tempo and swing/shuffle\n- Ableton Link integration for easy syncing with other devices over WiFi \n- Share projects and sounds via AirDrop, email, etc.\n- Undo and redo",
+      "trackId": 1486629619,
+      "trackName": "Flip Sampler",
+      "sellerName": "Suture Sound Inc.",
+      "genres": [
+        "Musique"
+      ],
+      "minimumOsVersion": "15.6",
       "userRatingCount": 14,
       "country": "FRA"
     }

@@ -2,6 +2,15 @@
   "resultCount": 1,
   "results": [
     {
+      "isGameCenterEnabled": false,
+      "artistViewUrl": "https://apps.apple.com/jp/developer/shota-hori/id1442007331?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/1d/4c/ea1d4c9c-f907-e850-42e3-4a11d7f44bc6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/1d/4c/ea1d4c9c-f907-e850-42e3-4a11d7f44bc6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
+      "advisories": [],
+      "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fc/64/8b/fc648b14-2821-f2db-fa6b-d7163ebf2c6c/01_main_left.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/db/9b/a9/db9ba98f-3ad2-9d44-4d6e-e5cfc5086b63/02_main_right.png/320x480bb.jpg",
@@ -20,11 +29,7 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/19/1f/37/191f3796-4526-9b05-2655-2aedec9bb851/ipad_05_ja_en.png/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/a8/66/f5a8661a-00e4-f70b-ffd0-0bd508e200c9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/a8/66/f5a8661a-00e4-f70b-ffd0-0bd508e200c9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/a8/66/f5a8661a-00e4-f70b-ffd0-0bd508e200c9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/jp/developer/shota-hori/id1442007331?uo=4",
-      "isGameCenterEnabled": false,
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/1d/4c/ea1d4c9c-f907-e850-42e3-4a11d7f44bc6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -155,27 +160,14 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
-      "advisories": [],
-      "kind": "software",
-      "features": [
-        "iosUniversal"
-      ],
-      "averageUserRatingForCurrentVersion": 4.75,
-      "sellerUrl": "https://unadongames.com/flkb/ja/index.html",
-      "averageUserRating": 4.75,
       "trackCensoredName": "FLKB",
-      "languageCodesISO2A": [
-        "EN",
-        "JA"
-      ],
-      "fileSizeBytes": "144161792",
-      "formattedPrice": "¥300",
-      "contentAdvisoryRating": "4+",
-      "userRatingCountForCurrentVersion": 20,
       "trackViewUrl": "https://apps.apple.com/jp/app/flkb/id6809374544?uo=4",
-      "trackContentRating": "4+",
+      "averageUserRating": 4.68,
+      "contentAdvisoryRating": "4+",
       "artistId": 1442007331,
       "artistName": "Shota Hori",
       "genres": [
@@ -183,26 +175,36 @@
         "ユーティリティ"
       ],
       "price": 300,
-      "trackName": "FLKB",
-      "trackId": 6809374544,
+      "bundleId": "com.unadongames.flkb",
       "minimumOsVersion": "26.0",
       "primaryGenreName": "Productivity",
       "primaryGenreId": 6007,
-      "sellerName": "Shota Hori",
-      "releaseDate": "2026-09-15T07:00:00Z",
-      "currentVersionReleaseDate": "2026-11-08T23:15:37Z",
-      "releaseNotes": "・QWERTY コンパクト＋数字: コンパクトの上に数字の列を足した形を選べます（数字の右の「-」は下フリックで「_」）\n・一部のアプリで、確定した文字が二重に表示される問題を修正しました\n・QWERTY の Shift で記号も切り替え: Shift 中は「、」→「!」、「。」→「?」のように、記号キーが下フリックの記号に変わります\n・英字フリックのキーの文字の大きさをそろえました\n・細かな問題の修正と改善を行いました",
-      "version": "1.7.1",
-      "wrapperType": "software",
-      "currency": "JPY",
-      "description": "持ち方で、キーボードが変わる。\nFLKB は、手や持ち方に合わせて形を変えるキーボードです。\n\n■ 持ち方ごとに、好きな形を\n縦持ち・横持ち・iPad のフローティングごとに、全幅・片手・分割・ツインの設定を名前をつけて保存。持ち替えると、その持ち方の設定に切り替わります。同じ持ち方の中では「あいう」/「ABC」キーの長押しで切り替えられます。iPhone Duo では、フロント画面とインナー画面の縦持ち・横持ちそれぞれに保存できます。\n\n■ 親指に沿う扇形\n片手ではキーが弧を描いて並びます。幅は 25%（iPad は 20%）まで細くできます。\n\n■ 分割とツイン\n左右に分けたり、別々のキーボードを並べたり。ツインの左右は、かな・英字フリック・数字・QWERTY（ローマ字・英字・記号）の 6 種類から選べます。\n\n■ 日本語と英語\nかなフリック・かなトグル・QWERTY・QWERTY コンパクト・QWERTY コンパクト＋数字。QWERTY は数字段と逆 L 字の改行キーの数字付きと、数字段なしの 4 段のコンパクトと、コンパクトの上に数字の列を足したコンパクト＋数字の 3 種類で、キーを下にフリックして記号を入力できます。最下段には絵文字キーもあり、シフトキーの長押しで Caps Lock になります。かなフリック・かなトグルのカスタムキーは、好きな文字・絵文字・顔文字・カーソル・123 に変えられ、何も入力していないときは濁点キーの位置にも出せます。ローマ字入力は iOS 標準キーボードと同じ規則です。変換は辞書ごと同梱し、予測も学習も端末内。入力しながら変換するライブ変換（ベータ版）にも対応。iOS のユーザ辞書の単語も候補に出ます。英語は候補と自動修正に対応します。\n\n■ テーマ\n16 のプリセットのほか、キーの色・背景（単色・パターン・写真）・不透明度を選んで自分のテーマを作れます。プロファイルごとに別のテーマも選べます。キーの角丸・間隔・左右の余白も調整できます。\n\n■ 入力内容は外に出ません\n通信・広告・解析・アカウントはありません。フルアクセスは触覚・操作音、変換学習・利用開始日・利用日数（評価のお願いの時期の判断用）の保存、キーボードからの設定アプリの起動に使います（オフでも入力できます）。\n\niOS / iPadOS 26 以上。iPhone Duo に対応。音声入力には対応していません。パスワード欄では iOS の仕様で標準キーボードになります。\n\n設定 › アプリ › FLKB › キーボード で有効にしてお使いください。\nhttps://unadongames.com/flkb/ja/",
-      "bundleId": "com.unadongames.flkb",
+      "isVppDeviceBasedLicensingEnabled": true,
       "genreIds": [
         "6007",
         "6002"
       ],
-      "isVppDeviceBasedLicensingEnabled": true,
-      "userRatingCount": 20,
+      "releaseDate": "2026-09-15T07:00:00Z",
+      "sellerName": "Shota Hori",
+      "currentVersionReleaseDate": "2026-11-13T20:24:45Z",
+      "releaseNotes": "1.7.4 の新機能\n・カスタムキー: 画面の幅が狭いときも、種類の名前を省略せずに表示します\n・細かな問題の修正と改善を行いました\n\n1.7.3 の新機能\n・キーのビジュアル改善: キーを立体的なキートップで表示できます。キーの影の濃さも 500% まで変えられます\n・キー刻印をシンプルに: すべてのキーで、中央の刻印だけを表示します。このアップデートでオンになりました（戻すには カスタマイズ › 外観と操作感 から）\n・スタンダードテーマ: シルバー、スペースブラックと 6 色のキートップのテーマを追加しました\n・テーマの選択と編集: テーマ一覧の UI を改善しました\n・左右入れ替え: 片手・ツインのとき、キーの左右と候補の向きをワンタップで入れ替えられます（長押しメニューやカスタムキーから）\n・読みの途中を直す: 変換前の読みの途中に、空白の長押しやカーソルキーでカーソルを動かして文字を直せます\n・次の文字へキー: かなのトグル入力で同じキーの文字を続けて打つとき、すぐ次の文字へ進めるキーをカスタムキーに置けます",
+      "version": "1.7.4",
+      "wrapperType": "software",
+      "currency": "JPY",
+      "description": "持ち方で、キーボードが変わる。\nFLKB は、手や持ち方に合わせて形を変えるキーボードです。\n\n■ 持ち方ごとに、好きな形を\n縦持ち・横持ち・iPad のフローティングごとに、全幅・片手・分割・ツインの設定を名前をつけて保存。持ち替えると、その持ち方の設定に切り替わります。同じ持ち方の中では「あいう」/「ABC」キーの長押しで切り替えられます。iPhone Duo では、フロント画面とインナー画面の縦持ち・横持ちそれぞれに保存できます。\n\n■ 親指に沿う扇形\n片手ではキーが弧を描いて並びます。幅は 25%（iPad は 20%）まで細くできます。\n\n■ 分割とツイン\n左右に分けたり、別々のキーボードを並べたり。ツインの左右は、かな・英字フリック・数字・QWERTY（ローマ字・英字・記号）の 6 種類から選べます。\n\n■ 日本語と英語\nかなフリック・かなトグル・QWERTY・QWERTY コンパクト・QWERTY コンパクト＋数字。QWERTY は数字段と逆 L 字の改行キーの数字付きと、数字段なしの 4 段のコンパクトと、コンパクトの上に数字の列を足したコンパクト＋数字の 3 種類で、キーを下にフリックして記号を入力できます。最下段には絵文字キーもあり、シフトキーの長押しで Caps Lock になります。かなフリック・かなトグルのカスタムキーは、好きな文字・絵文字・顔文字・カーソル・123 に変えられ、何も入力していないときは濁点キーの位置にも出せます。カスタムパッドは、好きなキーを並べた 5 行のキーボードを 5 つまで作れ、数字・記号・絵文字・定型文などのプリセットからも作れます（ツインの片側や、カスタムキーの「パッド」から呼び出せます）。片手・ツインでは、左右入れ替えでキーと候補の向きをワンタップで反転できます。ローマ字入力は iOS 標準キーボードと同じ規則です。変換は辞書ごと同梱し、予測も学習も端末内。入力しながら変換するライブ変換（ベータ版）にも対応。iOS のユーザ辞書の単語も候補に出ます。英語は候補と自動修正に対応します。\n\n■ テーマ\nライト／ダークに合わせて切り替わるシステム（自動）を含む 27 のプリセット（シルバーとスペースブラックのスタンダード、モノトーン、レトロなど）のほか、プリセットを複製して編集したり、キーの色・背景（単色・パターン・写真）・不透明度を選んで自分のテーマを作れます。候補の背景の色と不透明度もテーマごとに変えられます。プロファイルごとに別のテーマも選べます。キーの角丸・間隔・左右の余白・影も調整でき、キーを立体的に表示することもできます。\n\n■ 入力内容は外に出ません\n通信・広告・解析・アカウントはありません。フルアクセスは触覚・操作音、変換学習・利用開始日・利用日数（評価のお願いの時期の判断用）の保存、キーボードからの設定アプリの起動に使います（オフでも入力できます）。\n\niOS / iPadOS 26 以上。iPhone Duo に対応。音声入力には対応していません。パスワード欄では iOS の仕様で標準キーボードになります。\n\n設定 › アプリ › FLKB › キーボード で有効にしてお使いください。\nhttps://unadongames.com/flkb/ja/",
+      "averageUserRatingForCurrentVersion": 4.68,
+      "sellerUrl": "https://unadongames.com/flkb/ja/index.html",
+      "languageCodesISO2A": [
+        "EN",
+        "JA"
+      ],
+      "fileSizeBytes": "145193984",
+      "formattedPrice": "¥300",
+      "userRatingCountForCurrentVersion": 25,
+      "trackContentRating": "4+",
+      "trackName": "FLKB",
+      "trackId": 6809374544,
+      "userRatingCount": 25,
       "country": "JPN"
     }
   ]

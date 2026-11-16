@@ -2,9 +2,9 @@
   "resultCount": 1,
   "results": [
     {
-      "features": [
-        "iosUniversal"
-      ],
+      "artistViewUrl": "https://apps.apple.com/us/developer/instructure-inc/id418441198?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/a8/f3/71a8f3d4-60d9-84c4-0dd7-483072d04dee/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/a8/f3/71a8f3d4-60d9-84c4-0dd7-483072d04dee/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/05/b7/c9/05b7c919-f884-c39a-4741-b66cd9a291b6/mzl.xtbaigqz.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/50/63/d9/5063d924-7633-6b98-f408-3f05768e7e5a/mzl.cquhmtrl.png/392x696bb.png",
@@ -153,14 +153,20 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
       "advisories": [],
       "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/us/developer/instructure-inc/id418441198?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/a8/f3/71a8f3d4-60d9-84c4-0dd7-483072d04dee/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/a8/f3/71a8f3d4-60d9-84c4-0dd7-483072d04dee/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
-      "bundleId": "com.instructure.icanvas",
+      "features": [
+        "iosUniversal"
+      ],
+      "averageUserRating": 4.65477,
+      "trackCensoredName": "Canvas by Instructure",
+      "trackViewUrl": "https://apps.apple.com/us/app/canvas-by-instructure/id480883488?uo=4",
+      "contentAdvisoryRating": "4+",
+      "currentVersionReleaseDate": "2026-11-05T09:15:50Z",
       "languageCodesISO2A": [
         "AR",
         "CA",
@@ -195,40 +201,36 @@
       ],
       "fileSizeBytes": "228656128",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 2767835,
+      "userRatingCountForCurrentVersion": 2767851,
       "trackContentRating": "4+",
       "sellerUrl": "https://www.canvaslms.com/",
-      "averageUserRatingForCurrentVersion": 4.65479,
+      "averageUserRatingForCurrentVersion": 4.65477,
       "genres": [
         "Education",
         "Productivity"
       ],
       "artistId": 418441198,
       "artistName": "Instructure Inc.",
-      "price": 0,
-      "sellerName": "Instructure, Inc.",
+      "releaseNotes": "- Added Notebook Offline support, Notes can be created, viewed, and organized anytime without an internet connection. \n- Fixed “Mark as Done” button missing on Page type module items.\n- Fixed image opened from Files was aligned to the left after rotating the device.\n- Fixed text next to an existing Notebook highlight could not be highlighted.\n- Fixed app could freeze on launch and close itself.\n- Fixed Page Editor appearing empty in some cases if editing a Page is enabled.\n- Fixed Calendar List could appear empty after opening the New Event form.\n- Fixed the Find School screen during login so search results stay visible in landscape.",
+      "trackId": 480883488,
+      "trackName": "Canvas by Instructure",
       "minimumOsVersion": "18.0",
+      "primaryGenreName": "Education",
+      "primaryGenreId": 6017,
       "genreIds": [
         "6017",
         "6007"
       ],
-      "primaryGenreName": "Education",
-      "primaryGenreId": 6017,
-      "releaseDate": "2011-12-08T17:41:59Z",
-      "trackId": 480883488,
-      "trackName": "Canvas by Instructure",
+      "sellerName": "Instructure, Inc.",
       "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-11-05T09:15:50Z",
-      "releaseNotes": "- Added Notebook Offline support, Notes can be created, viewed, and organized anytime without an internet connection. \n- Fixed “Mark as Done” button missing on Page type module items.\n- Fixed image opened from Files was aligned to the left after rotating the device.\n- Fixed text next to an existing Notebook highlight could not be highlighted.\n- Fixed app could freeze on launch and close itself.\n- Fixed Page Editor appearing empty in some cases if editing a Page is enabled.\n- Fixed Calendar List could appear empty after opening the New Event form.\n- Fixed the Find School screen during login so search results stay visible in landscape.",
       "version": "8.14.1",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Your learning, anywhere.\nStay connected to your courses with the official Canvas app for learners. Whether you’re in class, commuting, or offline, Canvas helps you stay organized and engaged.\n\nNote for instructors: For teaching and grading features, use the Canvas Teacher app.\n\nWhat you can do\n• Organize: View grades, track assignments, homework, and schoolwork; get reminders, push notifications and add customizable widgets for quick access\n• Engage: Send messages, join class discussions and collaborate with classmates in real time\n• Learn: Submit assignments, PDFs, docs, and media files for teachers to annotate in SpeedGrader, take quizzes, and watch videos on the go\n• Offline: Download full courses and keep studying even without internet\n• Integration & inclusivity: Use integrated classroom tools (LTIs), enjoy dark mode, and rely on built-in accessibility for everyone (VPAT 2.2 compliant)\n• Lifelong learning: Support for continuous learning, career-focused skill based learning programs, and AI-powered learning experience via Career experience\n\nTrusted by over 40 million learners worldwide.",
-      "trackCensoredName": "Canvas by Instructure",
-      "trackViewUrl": "https://apps.apple.com/us/app/canvas-by-instructure/id480883488?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.65479,
-      "userRatingCount": 2767835,
+      "bundleId": "com.instructure.icanvas",
+      "price": 0,
+      "releaseDate": "2011-12-08T17:41:59Z",
+      "userRatingCount": 2767851,
       "country": "USA"
     }
   ]

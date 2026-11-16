@@ -316,7 +316,12 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
+      ],
+      "features": [
+        "iosUniversal"
       ],
       "advisories": [],
       "kind": "software",
@@ -339,27 +344,28 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/eb/52/27eb520b-36f7-5764-65da-35c627c0b497/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
-      "price": 1200,
+      "releaseNotes": "ライブラリの使い勝手を改善しました。\n\n- 本を「アーカイブ」できるようになりました。ライブラリに残したまま、ふだんの表示から外せます。サイドバーの「アーカイブ」から戻せます。\n- 検索の範囲を「フィルタ内」と「ライブラリ全体」で切り替えられるようになりました。フォルダ表示では、開いているフォルダの中だけを検索します。\n- カテゴリーやタグの一覧でも、コレクションをまとめて表示するようになりました。\n- コレクションの画面で本を選んで、まとめて編集できるようになりました。",
+      "artistId": 1887157382,
+      "artistName": "Satoshi Kojima",
       "genres": [
         "ブック",
         "仕事効率化"
       ],
-      "artistId": 1887157382,
-      "artistName": "Satoshi Kojima",
+      "price": 1200,
+      "bundleId": "jp.skoji.shelff",
+      "releaseDate": "2026-04-03T07:00:00Z",
       "minimumOsVersion": "17.0",
       "genreIds": [
         "6018",
         "6007"
       ],
-      "releaseDate": "2026-04-03T07:00:00Z",
+      "trackId": 6760986626,
+      "trackName": "shelff",
       "isVppDeviceBasedLicensingEnabled": true,
       "primaryGenreName": "Book",
       "primaryGenreId": 6018,
+      "sellerName": "Satoshi Kojima",
       "currentVersionReleaseDate": "2026-10-29T16:26:45Z",
-      "releaseNotes": "ライブラリの使い勝手を改善しました。\n\n- 本を「アーカイブ」できるようになりました。ライブラリに残したまま、ふだんの表示から外せます。サイドバーの「アーカイブ」から戻せます。\n- 検索の範囲を「フィルタ内」と「ライブラリ全体」で切り替えられるようになりました。フォルダ表示では、開いているフォルダの中だけを検索します。\n- カテゴリーやタグの一覧でも、コレクションをまとめて表示するようになりました。\n- コレクションの画面で本を選んで、まとめて編集できるようになりました。",
       "version": "1.8.4",
       "wrapperType": "software",
       "currency": "JPY",
@@ -368,6 +374,8 @@
       "trackViewUrl": "https://apps.apple.com/jp/app/shelff/id6760986626?uo=4",
       "contentAdvisoryRating": "4+",
       "averageUserRating": 5,
+      "averageUserRatingForCurrentVersion": 5,
+      "sellerUrl": "https://skoji.dev/shelff/",
       "languageCodesISO2A": [
         "EN",
         "JA"
@@ -376,12 +384,6 @@
       "formattedPrice": "¥1,200",
       "userRatingCountForCurrentVersion": 4,
       "trackContentRating": "4+",
-      "sellerUrl": "https://skoji.dev/shelff/",
-      "averageUserRatingForCurrentVersion": 5,
-      "bundleId": "jp.skoji.shelff",
-      "trackId": 6760986626,
-      "trackName": "shelff",
-      "sellerName": "Satoshi Kojima",
       "userRatingCount": 4,
       "country": "JPN"
     }

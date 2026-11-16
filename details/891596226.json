@@ -336,7 +336,9 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
       "advisories": [],
       "kind": "software",
@@ -359,31 +361,33 @@
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/3b/e4/a73be404-5fb9-44b1-f319-ef71331216eb/AppIconVIPPro-0-0-1x_U007emarketing-0-10-0-0-sRGB-85-220.png/512x512bb.jpg",
       "releaseNotes": "【新增】桌面\"快讯\"小组件，及时掌握财经动态\n【优化】优化了一些用户体验",
-      "trackCensoredName": "华尔街见闻Pro-财经资讯头条新闻",
-      "trackViewUrl": "https://apps.apple.com/cn/app/%E5%8D%8E%E5%B0%94%E8%A1%97%E8%A7%81%E9%97%BBpro-%E8%B4%A2%E7%BB%8F%E8%B5%84%E8%AE%AF%E5%A4%B4%E6%9D%A1%E6%96%B0%E9%97%BB/id891596226?uo=4",
       "contentAdvisoryRating": "4+",
       "averageUserRating": 4.53524,
+      "trackCensoredName": "华尔街见闻Pro-财经资讯头条新闻",
+      "trackViewUrl": "https://apps.apple.com/cn/app/%E5%8D%8E%E5%B0%94%E8%A1%97%E8%A7%81%E9%97%BBpro-%E8%B4%A2%E7%BB%8F%E8%B5%84%E8%AE%AF%E5%A4%B4%E6%9D%A1%E6%96%B0%E9%97%BB/id891596226?uo=4",
       "artistId": 738227480,
       "artistName": "上海阿牛信息科技有限公司",
       "genres": [
         "财务"
       ],
+      "price": 8,
+      "bundleId": "financePro.News",
       "trackId": 891596226,
       "trackName": "华尔街见闻Pro-财经资讯头条新闻",
-      "sellerName": "Shanghai Aniu Information Technology Co., Ltd.",
-      "primaryGenreName": "Finance",
-      "primaryGenreId": 6015,
+      "minimumOsVersion": "10.0",
+      "releaseDate": "2014-07-17T21:54:14Z",
       "genreIds": [
         "6015"
       ],
-      "minimumOsVersion": "10.0",
+      "primaryGenreName": "Finance",
+      "primaryGenreId": 6015,
+      "sellerName": "Shanghai Aniu Information Technology Co., Ltd.",
       "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2024-03-26T03:06:59Z",
       "version": "6.33.0",
       "wrapperType": "software",
       "currency": "CNY",
       "description": "华尔街见闻-中国领先的金融和商业信息提供商。\n紧盯金融市场和行情，资讯覆盖股市（主板、创业板、科创板、港美股等）、外汇（人民币、美元、欧元、日元等汇率）、基金、债券、大宗商品、期货、贵金属、黄金、石油、新能源、地产等。\n7*24小时不间断为用户提供服务\n\n【特点】\n全球视野、专业快速\n对金融和重要商业信息的专业梳理走在行业前列\n\n【荣誉】 \n多次入选App Store 新闻类推荐\n位列各应用市场财经资讯排行榜前列\n银行、基金、证券等行业高频使用的APP之一\nApp Store全球十个国家或地区，新闻类付费App前十名",
-      "bundleId": "financePro.News",
       "averageUserRatingForCurrentVersion": 4.53524,
       "languageCodesISO2A": [
         "EN",
@@ -394,8 +398,6 @@
       "formattedPrice": "¥8.00",
       "userRatingCountForCurrentVersion": 16807,
       "trackContentRating": "4+",
-      "releaseDate": "2014-07-17T21:54:14Z",
-      "price": 8,
       "userRatingCount": 16807,
       "country": "CHN"
     }

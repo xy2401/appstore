@@ -191,6 +191,7 @@
       "userRatingCount": 8470
     },
     {
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4c/71/c8/4c71c8ab-7a2b-c0b5-dde1-068f06970b5e/Apple_iPhone_11_Pro_Max_Screenshot_0.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2d/f3/46/2df346e8-1a48-71a2-4348-f750282d3246/Apple_iPhone_11_Pro_Max_Screenshot_1.png/320x480bb.jpg",
@@ -205,7 +206,9 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/ad/dd/d6adddda-c8a2-98e8-2acc-6905fa0d1ab1/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -336,7 +339,9 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
       "advisories": [
         "Frequent/Intense Medical/Treatment Information"
@@ -345,33 +350,34 @@
       "artistViewUrl": "https://apps.apple.com/us/developer/american-society-for-colposcopy-and-cervical/id615585562?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/ad/dd/d6adddda-c8a2-98e8-2acc-6905fa0d1ab1/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/ad/dd/d6adddda-c8a2-98e8-2acc-6905fa0d1ab1/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
-      "sellerUrl": "https://www.asccp.org/",
+      "releaseNotes": "Updated management for extended genotyping when both dual stain and cytology results are available.",
+      "averageUserRatingForCurrentVersion": 4.77173,
       "languageCodesISO2A": [
         "EN"
       ],
       "fileSizeBytes": "38668288",
       "formattedPrice": "$14.99",
-      "userRatingCountForCurrentVersion": 8800,
+      "userRatingCountForCurrentVersion": 8814,
       "trackContentRating": "17+",
-      "averageUserRatingForCurrentVersion": 4.77091,
-      "averageUserRating": 4.77091,
+      "sellerUrl": "https://www.asccp.org/",
+      "artistId": 615585562,
+      "artistName": "American Society for Colposcopy and Cervical Pathology Inc",
+      "genres": [
+        "Medical"
+      ],
       "price": 14.99,
       "trackId": 1498550832,
       "trackName": "ASCCP Management Guidelines",
+      "primaryGenreName": "Medical",
+      "primaryGenreId": 6020,
       "releaseDate": "2020-06-05T07:00:00Z",
-      "minimumOsVersion": "13.1",
+      "sellerName": "American Society for Colposcopy and Cervical Pathology",
       "genreIds": [
         "6020"
       ],
-      "primaryGenreName": "Medical",
-      "primaryGenreId": 6020,
-      "sellerName": "American Society for Colposcopy and Cervical Pathology",
+      "minimumOsVersion": "13.1",
       "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-11-03T18:14:16Z",
-      "releaseNotes": "Updated management for extended genotyping when both dual stain and cytology results are available.",
       "version": "2.4.4",
       "wrapperType": "software",
       "currency": "USD",
@@ -379,13 +385,9 @@
       "trackCensoredName": "ASCCP Management Guidelines",
       "trackViewUrl": "https://apps.apple.com/us/app/asccp-management-guidelines/id1498550832?uo=4",
       "contentAdvisoryRating": "17+",
+      "averageUserRating": 4.77173,
       "bundleId": "org.asccp.app2019",
-      "genres": [
-        "Medical"
-      ],
-      "artistId": 615585562,
-      "artistName": "American Society for Colposcopy and Cervical Pathology Inc",
-      "userRatingCount": 8800,
+      "userRatingCount": 8814,
       "country": "USA"
     }
   ]

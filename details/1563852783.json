@@ -2,6 +2,7 @@
   "resultCount": 1,
   "results": [
     {
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ec/ba/98/ecba983d-7107-142f-d8a7-01598c437a08/0_Main_Image.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f2/44/9b/f2449bc5-06fd-14dc-3399-2261c16fc0be/1_Calculate_Resolutions.png/320x480bb.jpg",
@@ -24,10 +25,14 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/43/75/2c4375f4-29b1-30fb-19dd-d5cdbbfa6481/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
       "artistViewUrl": "https://apps.apple.com/fr/developer/sun-apps-llc/id1465505382?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/43/75/2c4375f4-29b1-30fb-19dd-d5cdbbfa6481/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/43/75/2c4375f4-29b1-30fb-19dd-d5cdbbfa6481/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
+      "advisories": [],
+      "kind": "software",
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "MacDesktop-MacDesktop",
         "iPhone5s-iPhone5s",
@@ -159,12 +164,9 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
-      ],
-      "advisories": [],
-      "kind": "software",
-      "features": [
-        "iosUniversal"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
       "sellerUrl": "https://sunapps.org/resolutioner",
       "languageCodesISO2A": [
@@ -174,37 +176,37 @@
       "formattedPrice": "0,99 €",
       "userRatingCountForCurrentVersion": 66,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.63636,
       "trackCensoredName": "Resolutioner",
       "trackViewUrl": "https://apps.apple.com/fr/app/resolutioner/id1563852783?uo=4",
-      "averageUserRating": 4.63636,
       "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.63636,
+      "averageUserRatingForCurrentVersion": 4.63636,
+      "price": 0.99,
       "artistId": 1465505382,
       "artistName": "Sun Apps, LLC",
-      "genres": [
-        "Outils de développement",
-        "Utilitaires"
-      ],
-      "price": 0.99,
       "bundleId": "com.sunapps.resolutioner",
-      "minimumOsVersion": "17.0",
-      "trackId": 1563852783,
-      "trackName": "Resolutioner",
       "genreIds": [
         "6026",
         "6002"
       ],
-      "sellerName": "Sun Apps, LLC",
       "releaseDate": "2021-05-11T07:00:00Z",
+      "isVppDeviceBasedLicensingEnabled": true,
       "primaryGenreName": "Developer Tools",
       "primaryGenreId": 6026,
-      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-10-22T17:06:30Z",
       "releaseNotes": "Resolutioner is now ready for iPhone Duo! This update brings full support for iPhone Duo. The app now adapts to both screens, all poses, and all orientations.\n\nNew with v2.2.1: added iPhone Duo screenshots to the App Store listing",
       "version": "2.2.1",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Resolutioner by Sun Apps is a simple utility app for calculating and scaling resolutions and aspect ratios. You can input an aspect ratio and calculate a resolution based on it, or you can input a resolution and scale it up or down. For quick reference, you can save an aspect ratio to your Saved Presets, and load it back into the calculator with just one tap.\n\nNO ADS OR PREMIUM FEATURES\nThe price you see is the price you pay. There are no ads, premium features, subscriptions, or anything else. And since we don’t collect any data, there’s no data for us to sell! If you really love the app, you can donate via the Tip Jar option (that’s the in-app purchases the App Store shows).\n\nSHORTCUTS SUPPORT\nResolutioner extends all of its functionality to the Shortcuts app, so you can calculate resolutions, scale resolutions, and determine aspect ratios in Shortcuts or with Siri AI. You can also view, create, and manage your Saved Presets.\n\nINTERFACE\nYou can choose from two great interface options, Unified or Split. Unified puts the calculator and Saved Presets on one page, while Split puts them side-by-side or into tabs, depending on screen/window size. You can also turn the theme color on or off, as well as toggle between a monospaced and a standard font design. \n\nDESIGNED FOR iOS AND iPadOS\nResolutioner has been designed with Liquid Glass in mind, and works great across iPhone, iPad, Mac, and Apple Vision Pro!\n- Full support for Dark, Tinted, and Clear Home Screen modes\n- Full multitasking support: multi-window support, keyboard shortcuts, full cursor support, Slide Over + Split View, and more\n- Full support for iPhone Duo\n- Choose from five app icon designs\n- Fully updated for Liquid Glass\n- iCloud sync support\n- Dynamic text support",
+      "trackId": 1563852783,
+      "trackName": "Resolutioner",
+      "sellerName": "Sun Apps, LLC",
+      "genres": [
+        "Outils de développement",
+        "Utilitaires"
+      ],
+      "minimumOsVersion": "17.0",
       "userRatingCount": 66,
       "country": "FRA"
     }

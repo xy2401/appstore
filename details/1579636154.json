@@ -325,8 +325,11 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
+      "features": [],
       "advisories": [],
       "kind": "software",
       "artistViewUrl": "https://apps.apple.com/jp/developer/walker-software/id298222163?uo=4",
@@ -347,23 +350,26 @@
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/ff/19/82ff1972-f488-edd3-3364-00374e6ec31d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "features": [],
-      "price": 600,
+      "releaseNotes": "- iOS26のLiquid Glassに対応\n- Phone 17 Pro, iPhone 17 ProMaxに対応しました！\n- ズーム倍率(Phone 17 Pro, ProMax)、７種類 (x0.5, x1(24mm), x1.2(28mm), x1.5(35mm), x2, x4, x8)を純正カメラのように切り替えられます。（OneCam2は固定カメラ方式なので、純正カメラのように自動では切り替わりませんので、ズームボタンでお好みで切り替えてお使いください）\n- カメラコントロールボタンとボリュームボタンの撮影に対応（自撮り棒やBluetooth撮影にも対応）\n- リクエストがあったのでタイマーに１秒、３秒を追加しました\n■■ コメント ■■\nOneCam2をリリースしてから開発費が捻出できなかったので、アップデートも停止していましたが不具合があったので前回修正しました。結局、最新機種に対応したくなり開発しました。できたら、これからも応援よろしくお願いします。",
+      "artistId": 298222163,
+      "artistName": "Walker Software",
       "genres": [
         "写真／ビデオ"
       ],
-      "artistId": 298222163,
-      "artistName": "Walker Software",
+      "price": 600,
+      "bundleId": "com.walkersoftware.OneCamPro",
+      "releaseDate": "2021-08-29T07:00:00Z",
       "minimumOsVersion": "18.6",
       "genreIds": [
         "6008"
       ],
-      "releaseDate": "2021-08-29T07:00:00Z",
+      "trackId": 1579636154,
+      "trackName": "OneCam 2 高画質マナーカメラ",
       "isVppDeviceBasedLicensingEnabled": true,
       "primaryGenreName": "Photo & Video",
       "primaryGenreId": 6008,
+      "sellerName": "masahiro seto",
       "currentVersionReleaseDate": "2025-10-22T03:44:24Z",
-      "releaseNotes": "- iOS26のLiquid Glassに対応\n- Phone 17 Pro, iPhone 17 ProMaxに対応しました！\n- ズーム倍率(Phone 17 Pro, ProMax)、７種類 (x0.5, x1(24mm), x1.2(28mm), x1.5(35mm), x2, x4, x8)を純正カメラのように切り替えられます。（OneCam2は固定カメラ方式なので、純正カメラのように自動では切り替わりませんので、ズームボタンでお好みで切り替えてお使いください）\n- カメラコントロールボタンとボリュームボタンの撮影に対応（自撮り棒やBluetooth撮影にも対応）\n- リクエストがあったのでタイマーに１秒、３秒を追加しました\n■■ コメント ■■\nOneCam2をリリースしてから開発費が捻出できなかったので、アップデートも停止していましたが不具合があったので前回修正しました。結局、最新機種に対応したくなり開発しました。できたら、これからも応援よろしくお願いします。",
       "version": "2.1.0",
       "wrapperType": "software",
       "currency": "JPY",
@@ -371,22 +377,18 @@
       "trackCensoredName": "OneCam 2 高画質マナーカメラ",
       "trackViewUrl": "https://apps.apple.com/jp/app/onecam-2-%E9%AB%98%E7%94%BB%E8%B3%AA%E3%83%9E%E3%83%8A%E3%83%BC%E3%82%AB%E3%83%A1%E3%83%A9/id1579636154?uo=4",
       "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.45963,
+      "averageUserRating": 4.46129,
+      "averageUserRatingForCurrentVersion": 4.46129,
+      "sellerUrl": "http://applewalker.jugem.jp",
       "languageCodesISO2A": [
         "EN",
         "JA"
       ],
       "fileSizeBytes": "2290688",
       "formattedPrice": "¥600",
-      "userRatingCountForCurrentVersion": 322,
+      "userRatingCountForCurrentVersion": 323,
       "trackContentRating": "4+",
-      "sellerUrl": "http://applewalker.jugem.jp",
-      "averageUserRatingForCurrentVersion": 4.45963,
-      "bundleId": "com.walkersoftware.OneCamPro",
-      "trackId": 1579636154,
-      "trackName": "OneCam 2 高画質マナーカメラ",
-      "sellerName": "masahiro seto",
-      "userRatingCount": 322,
+      "userRatingCount": 323,
       "country": "JPN"
     }
   ]

@@ -133,17 +133,18 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
       "advisories": [
-        "Scènes rares/modérées réservées aux adultes (suggestives)",
         "Scènes rares/modérées d’humour vulgaire ou blasphématoire",
-        "Scènes fréquentes/intenses de consommation ou de référence à l’alcool, au tabac ou à la drogue"
+        "Scènes fréquentes/intenses de consommation ou de référence à l’alcool, au tabac ou à la drogue",
+        "Scènes rares/modérées réservées aux adultes (suggestives)"
       ],
       "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/fr/developer/s2m-sas/id1891133193?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/93/d0/4093d0a0-6980-7801-9d92-020ffe77ae86/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/93/d0/4093d0a0-6980-7801-9d92-020ffe77ae86/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
+      "features": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/92/c3/7a92c337-60fd-6dcb-0796-8bd238533719/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/a7/fc/bca7fcc1-7679-c8b4-00b8-c1f3e16b0134/01-jeux-de-soiree.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/74/5e/40/745e40c6-1512-7063-47d1-3279232425e3/02-19-jeux.png/320x480bb.jpg",
@@ -154,44 +155,45 @@
       ],
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/93/d0/4093d0a0-6980-7801-9d92-020ffe77ae86/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
-      "features": [],
-      "releaseNotes": "• 5 nouveaux jeux : Bang Bang, La Fusée, La Bouteille, Pile Poil et La Pyramide. 19 jeux au total.\n• Une nouvelle carte pour partager ton taux, plus lisible.\n• Le taux de tes potes se met à jour plus vite et plus sûrement, et un verre supprimé disparaît en direct.\n• Le QR code des invitations de soirée s'affiche enfin.\n• Nouveau look pour la boutique, le Bar et plusieurs écrans.\n• Corrections de bugs et plus de stabilité.",
-      "genres": [
-        "Divertissement"
-      ],
-      "price": 0,
-      "artistName": "S2M SAS",
+      "artistViewUrl": "https://apps.apple.com/fr/developer/s2m-sas/id1891133193?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/92/c3/7a92c337-60fd-6dcb-0796-8bd238533719/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/92/c3/7a92c337-60fd-6dcb-0796-8bd238533719/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
+      "currentVersionReleaseDate": "2026-11-14T16:30:05Z",
       "artistId": 1891133193,
-      "bundleId": "com.soiree2malade.app",
+      "artistName": "S2M SAS",
+      "price": 0,
       "releaseDate": "2026-04-24T07:00:00Z",
-      "primaryGenreName": "Entertainment",
-      "primaryGenreId": 6016,
       "trackId": 6761731203,
       "trackName": "SOIRÉE2MALADE - Jeux de soirée",
+      "minimumOsVersion": "16.4",
       "sellerName": "S2M SAS",
+      "primaryGenreName": "Entertainment",
+      "primaryGenreId": 6016,
+      "genreIds": [
+        "6016"
+      ],
       "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-10-29T10:39:36Z",
-      "version": "2.0.7",
+      "releaseNotes": "Deux nouveaux jeux, un téléphone par personne :\n\nLa Minorité : une question, deux réponses, 10 secondes pour voter. Le camp le moins nombreux perd la manche.\n\nTélépathie : à deux, écrivez le même mot en 20 secondes. Les autres parient sur votre réussite.\n\nAussi dans cette version :\n- Création de salon plus fiable\n- Corrections et améliorations\n\nUn troisième jeu arrive très vite.",
+      "version": "2.0.8",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Soirée2Malade, c'est l'app qui manquait à tes soirées.\n\n13 JEUX POUR TOUT ENFLAMMER\nLe S2M, L'Autoroute, Un contre Un, Le Qui A ?, La Bombe, La Roulette, Je n'ai jamais, Qui de nous, Action ou Vérité, Les Mines, Le Doigt, L'Imposteur, Le Double Agent. Chacun avec plusieurs niveaux de difficulté. De tranquille à mémorable.\n\nSUIS TA SOIRÉE EN DIRECT\nCrée une soirée, invite ton crew, et regarde ce qui se passe en temps réel. Un dashboard live pour suivre l'évolution du groupe tout au long de la nuit.\n\nTON WIDGET SUR L'ÉCRAN D'ACCUEIL\nAjoute une conso sans ouvrir l'app. Ta courbe en direct, trois tailles au choix, directement sur ton écran d'accueil.\n\nLE RÉCAP DU LENDEMAIN\nBadges personnalisés, stats du groupe, et une carte récap à partager en story. Le meilleur souvenir de ta soirée.\n\nFIXE TA LIMITE\nDéfinis ton objectif avant de sortir. L'app te prévient quand tu approches. Parce que les meilleures soirées sont celles dont on se souvient.\n\nUN BAR À COCKTAILS\nDes dizaines de recettes de cocktails classiques, shots, cocktails de soirée et boissons sans alcool. Étape par étape, avec les ingrédients et le temps de préparation.\n\nORGANISE TA SOIRÉE OU TON SÉJOUR\nChoisis l'ambiance, invite tes amis, sélectionne la date. Mode Soirée pour un soir, mode Séjour pour un weekend entier.\n\nDISPONIBLE EN 7 LANGUES\nFrançais, anglais, espagnol, italien, allemand, portugais et russe.\n\nFONCTIONNALITÉS S2M+\nDébloquez les modes Difficile et Extrême de chaque jeu, les parties illimitées, les stats avancées et les cocktails signature avec un abonnement S2M+.\n\nL'abus d'alcool est dangereux pour la santé. À consommer avec modération.\n\n—\n\nConditions d'utilisation (EULA) : https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\nPolitique de confidentialité : https://soiree2malade.vercel.app/politique-confidentialite",
-      "averageUserRating": 4.8913,
-      "trackCensoredName": "SOIRÉE2MALADE - Jeux de soirée",
-      "trackViewUrl": "https://apps.apple.com/fr/app/soir%C3%A9e2malade-jeux-de-soir%C3%A9e/id6761731203?uo=4",
-      "contentAdvisoryRating": "17+",
-      "averageUserRatingForCurrentVersion": 4.8913,
-      "sellerUrl": "https://soiree2malade.com",
+      "bundleId": "com.soiree2malade.app",
       "languageCodesISO2A": [
         "EN"
       ],
-      "fileSizeBytes": "84900864",
+      "fileSizeBytes": "87881728",
       "formattedPrice": "Gratuit",
       "userRatingCountForCurrentVersion": 138,
       "trackContentRating": "17+",
-      "minimumOsVersion": "16.4",
-      "genreIds": [
-        "6016"
+      "averageUserRatingForCurrentVersion": 4.8913,
+      "sellerUrl": "https://soiree2malade.com",
+      "trackCensoredName": "SOIRÉE2MALADE - Jeux de soirée",
+      "trackViewUrl": "https://apps.apple.com/fr/app/soir%C3%A9e2malade-jeux-de-soir%C3%A9e/id6761731203?uo=4",
+      "contentAdvisoryRating": "17+",
+      "averageUserRating": 4.8913,
+      "genres": [
+        "Divertissement"
       ],
       "userRatingCount": 138,
       "country": "FRA"

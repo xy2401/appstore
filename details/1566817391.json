@@ -185,9 +185,7 @@
       "userRatingCount": 50
     },
     {
-      "artistViewUrl": "https://apps.apple.com/jp/developer/ryu-wakimoto/id1566817393?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/99/d7/5c99d76a-2c25-a03c-e79a-ff6f862e033f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/99/d7/5c99d76a-2c25-a03c-e79a-ff6f862e033f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/47/b5/a0/47b5a0ac-e217-dba6-de88-895b198de5da/01_recording.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/ff/16/91ff16c7-2a88-d8c9-ccae-7c057d0070c8/02_power_saving.png/320x480bb.jpg",
@@ -202,11 +200,9 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cb/b5/a6/cbb5a688-87fc-392b-26ad-205474ca72a4/05_timer_settings.png/360x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6b/72/c0/6b72c0c4-ea2c-5f4f-15fe-e073b328e371/03_replay.png/360x480bb.jpg"
       ],
-      "isGameCenterEnabled": false,
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/99/d7/5c99d76a-2c25-a03c-e79a-ff6f862e033f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/2d/ae/202dae4e-0e14-b497-a116-015aef1a9063/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "advisories": [],
-      "kind": "software",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -337,50 +333,56 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/jp/developer/ryu-wakimoto/id1566817393?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/2d/ae/202dae4e-0e14-b497-a116-015aef1a9063/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/2d/ae/202dae4e-0e14-b497-a116-015aef1a9063/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
       "features": [
         "iosUniversal"
       ],
-      "averageUserRating": 4.66,
-      "trackCensoredName": "オフトレカメラ",
-      "trackViewUrl": "https://apps.apple.com/jp/app/%E3%82%AA%E3%83%95%E3%83%88%E3%83%AC%E3%82%AB%E3%83%A1%E3%83%A9/id1566817391?uo=4",
-      "contentAdvisoryRating": "4+",
-      "artistId": 1566817393,
-      "artistName": "Ryu Wakimoto",
-      "price": 500,
+      "languageCodesISO2A": [
+        "EN",
+        "JA"
+      ],
+      "fileSizeBytes": "31584256",
+      "formattedPrice": "¥500",
+      "userRatingCountForCurrentVersion": 50,
+      "trackContentRating": "4+",
+      "averageUserRatingForCurrentVersion": 4.66,
+      "genres": [
+        "写真／ビデオ",
+        "スポーツ"
+      ],
+      "primaryGenreName": "Photo & Video",
+      "primaryGenreId": 6008,
+      "sellerName": "Ryu Wakimoto",
       "trackId": 1566817391,
       "trackName": "オフトレカメラ",
-      "releaseDate": "2021-05-11T07:00:00Z",
       "minimumOsVersion": "16.4",
       "genreIds": [
         "6008",
         "6004"
       ],
-      "primaryGenreName": "Photo & Video",
-      "primaryGenreId": 6008,
-      "sellerName": "Ryu Wakimoto",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-11-03T14:09:41Z",
-      "averageUserRatingForCurrentVersion": 4.66,
-      "languageCodesISO2A": [
-        "EN",
-        "JA"
-      ],
-      "fileSizeBytes": "31510528",
-      "formattedPrice": "¥500",
-      "userRatingCountForCurrentVersion": 50,
-      "trackContentRating": "4+",
-      "releaseNotes": "• 動画の拡大・縮小操作を改善しました。",
-      "version": "8.13",
+      "currentVersionReleaseDate": "2026-11-14T04:27:50Z",
+      "releaseNotes": "• アプリの安全性を改善しました。",
+      "version": "8.14",
       "wrapperType": "software",
       "currency": "JPY",
       "description": "オフトレカメラは、スキー・スノーボードのオフトレをサポートするタイマーカメラアプリです。\nボタンを押すと、指定した秒数だけ録画されて自動停止。トリックの瞬間だけを記録して、終わったら自動で省電力モードに切り替わります。長いハイクアップや寒い環境でも、バッテリーの消費を抑えられます。撮ったらすぐにリプレイで確認、そのまま次の一本へ。\n\nこんな時にも便利\n\n手袋のままで操作したい → 画面タップ/音量ボタンで録画開始\nカメラの前まで移動する時間がほしい → 録画開始を遅らせる\n画質にこだわりたい・容量を抑えたい → 画質/フレームレートを設定可\nフォームを細かくチェックしたい → スロー録画\n気づいたことを記録しておきたい → ノートを残せます\nインカメ撮影対応\n\nーーー\n\n「スマホで撮って、すぐ見返して、改善する。」そんなオフトレのスタイルを作ってきたのが、オフトレカメラです。自分たちも日々オフトレをするからこそ、納得いくまで何度もデザインやちょっとした使い心地にこだわって開発しています。\n「こんな機能があったら」「ここ使いにくいかも」など、オフトレする皆さんのリアルな声をお待ちしています。ぜひレビューで教えてください!",
+      "trackCensoredName": "オフトレカメラ",
+      "trackViewUrl": "https://apps.apple.com/jp/app/%E3%82%AA%E3%83%95%E3%83%88%E3%83%AC%E3%82%AB%E3%83%A1%E3%83%A9/id1566817391?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.66,
       "bundleId": "com.rwakimoto.offTrainingCamera",
-      "genres": [
-        "写真／ビデオ",
-        "スポーツ"
-      ],
+      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseDate": "2021-05-11T07:00:00Z",
+      "artistId": 1566817393,
+      "artistName": "Ryu Wakimoto",
+      "price": 500,
       "userRatingCount": 50,
       "country": "JPN"
     }

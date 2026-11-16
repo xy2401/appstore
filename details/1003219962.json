@@ -322,7 +322,12 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
+      ],
+      "features": [
+        "iosUniversal"
       ],
       "advisories": [],
       "kind": "software",
@@ -339,27 +344,28 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/00/02/23/0002236b-b311-a539-e1d3-331d2f5d0247/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
-      "price": 300,
+      "releaseNotes": "・UIの刷新\n・データベースの更新",
+      "artistId": 401156477,
+      "artistName": "ASS Ltd.",
       "genres": [
         "ナビゲーション",
         "ビジネス"
       ],
-      "artistId": 401156477,
-      "artistName": "ASS Ltd.",
+      "price": 300,
+      "bundleId": "jp.as-systems.UseDistricts",
+      "releaseDate": "2015-06-18T00:46:17Z",
       "minimumOsVersion": "14.4",
       "genreIds": [
         "6010",
         "6000"
       ],
-      "releaseDate": "2015-06-18T00:46:17Z",
+      "trackId": 1003219962,
+      "trackName": "用途地域",
       "isVppDeviceBasedLicensingEnabled": true,
       "primaryGenreName": "Navigation",
       "primaryGenreId": 6010,
+      "sellerName": "ASS Ltd.",
       "currentVersionReleaseDate": "2022-02-10T08:31:04Z",
-      "releaseNotes": "・UIの刷新\n・データベースの更新",
       "version": "2.0",
       "wrapperType": "software",
       "currency": "JPY",
@@ -368,6 +374,7 @@
       "trackViewUrl": "https://apps.apple.com/jp/app/%E7%94%A8%E9%80%94%E5%9C%B0%E5%9F%9F/id1003219962?uo=4",
       "contentAdvisoryRating": "4+",
       "averageUserRating": 3,
+      "averageUserRatingForCurrentVersion": 3,
       "languageCodesISO2A": [
         "EN"
       ],
@@ -375,11 +382,6 @@
       "formattedPrice": "¥300",
       "userRatingCountForCurrentVersion": 24,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 3,
-      "bundleId": "jp.as-systems.UseDistricts",
-      "trackId": 1003219962,
-      "trackName": "用途地域",
-      "sellerName": "ASS Ltd.",
       "userRatingCount": 24,
       "country": "JPN"
     }
