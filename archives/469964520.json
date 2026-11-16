@@ -77,14 +77,25 @@
       "country": "gb",
       "mediaType": "apps",
       "feed": "top-free",
-      "rank": 7,
+      "rank": 13,
       "artistName": "Lloyds Banking Group",
       "id": "469964520",
       "name": "Lloyds Mobile Banking",
       "releaseDate": "2011-10-10",
       "kind": "apps",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/cd/5e/1fcd5ee9-3a78-8a7f-17de-ecbb10719210/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "genres": [],
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/6e/c2/716ec22e-0b1e-e14c-50ad-c91909854c8f/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6015",
+          "name": "Finance",
+          "url": "https://itunes.apple.com/gb/genre/id6015"
+        },
+        {
+          "genreId": "6000",
+          "name": "Business",
+          "url": "https://itunes.apple.com/gb/genre/id6000"
+        }
+      ],
       "url": "https://apps.apple.com/gb/app/lloyds-mobile-banking/id469964520"
     }
   ]
